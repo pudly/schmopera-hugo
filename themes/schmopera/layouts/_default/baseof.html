@@ -1,11 +1,50 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html amp class="no-js" lang="en-CA">
+<!--
+  {% set site_title = getSetting('site_name') -%}
+  {% set site_description = getSetting('site_description') -%}
+  {% set site_url = getSetting('site_url') -%}
+-->
+
+  <head>
     {{- partial "head.html" . -}}
-    <body>
+  </head>
+  <body>
+
+      <div id="main" class="container">
         {{- partial "header.html" . -}}
-        <div id="content">
-        {{- block "main" . }}{{- end }}
+        <div class="content--main">
+          {{- block "main" . }}{{- end }}
+          <!-- {% include "templates/partials/newsletter.html" %} -->
         </div>
-        {{- partial "footer.html" . -}}
-    </body>
+
+      </div>
+
+      {{- partial "footer.html" . -}}
+
+      <script src="/static/javascript/lazyload.min.js"></script>
+    
+      <!-- build:js /static/javascript/minified.js -->
+      <script src="/static/javascript/fastclick.js"></script>
+      <script src="/static/javascript/socialight.js"></script>
+      <script src="/static/javascript/lightbox.js"></script>
+      <script src="/static/javascript/main.js"></script>
+      <script src="/static/javascript/autotrack.js"></script>
+      <!-- endbuild -->
+      
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      
+        ga('create', 'UA-46647120-1', 'schmopera.com');
+        ga('require', 'displayfeatures');
+        ga('require', 'eventTracker');
+        ga('require', 'outboundLinkTracker');
+        ga('require', 'urlChangeTracker');
+      
+        ga('send', 'pageview');
+      </script>      
+  </body>
 </html>
