@@ -1,0 +1,4 @@
+baseURL = "http://schmopera.com"
+languageCode = "en-us"
+title = "Schmopera"
+theme = "schmopera"
