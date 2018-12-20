@@ -1,0 +1,29 @@
+---
+title: "Aria Umezawa: Opera 5&#039;s Die Fledermaus, with surprises"
+---
+
+## What can we expect from your new, updated script for *Die Fledermaus*? Any surprises you can tempt us with?
+
+The script is updated insofar as I changed the language (no one says "if you please, Madame, my poor aunt is terribly ill" anymore), and wrote one-liners that were a bit more relevant to today's audience. I happen to think that *Die Fledermaus* is pretty hilarious as is, so there isn't a whole lot of reason to change the plot. Two big things I changed are that Orlofsky is now a woman named Oksana Orlofksy, the heiress to Orlofsky Crystals, and we've replaced the ballet with a cabaret of local performers. I don't want to give anything away but aerialists may or may not be involved.
+
+## *Die Fledermaus* is a mainstream opera hit - a bit of a departure for Opera 5. How does this production fit in with the company's evolution?
+
+While it's true that Opera 5 usually produces pieces that are outside of the canon, our mandate was never to perform lesser known works. We simply believe that there is a large body of repertoire out there that deserves to be performed, even if it isn't one of the "bankables" like *Bohème* or *Figaro*. What we have always been about is opera without the trappings, and creating unique experiences for our audiences. We wanted to show that we weren't afraid to tackle operas that people are familiar with, that our previous repertoire choices weren't simply gimmicks, and to show that there are exciting and unique ways to present the works that we are all familiar with. 
+ 
+## What are some challenges that are unique to staging an interactive party scene?
+
+A lot of our rehearsal has to be somewhat theoretical because we don't have packed audiences at every rehearsal to practice on. There's no telling how a stranger might react when a cast member approaches them and asks to waltz, or play a round of "shot roulette", or deface part of the set. There is a distinct possibility that people will be too shy, so our performers are going to have to be extremely flexible and willing to role with the punches. I think that's also what makes the show so exciting. Anything could happen, each audience member's experience is going to be different, and there's no telling where things will go.  
+
+## Can you tell us about Pearle Harbour’s cameo in this production?
+
+In the original script, there is a character named Yvan who acts as Orlofsky's valet. He mostly just enters the scene to announce the arrival of a new character, then leaves. When it came to approaching Pearle about being in the show, I thought to myself: Orlofsky is the type of person who likes to be outrageous. She's one step ahead of the curve, and is perpetually bored despite being surrounded by the craziest things, and the best people. It made sense to me that she would have a drag queen as part of her entourage. So Pearle replaced Yvan, and we expanded the role. If you've ever seen Pearle's work, you know that she is sweet with a dark undertone. You can expect that she'll make a few astute and cutting remarks, she'll tell things as they are, and she'll delight in seeing these characters embarrass themselves. 
+
+<figure data-type="image">
+![](/webhook-uploads/1463238699316/2016-05-14---Pearle-Harbour.jpg)<figcaption>Pearle Harbour, playing Yvan in Opera 5's *Die Fledermaus*.</figcaption>
+</figure>
+
+## Do you have any favourite tunes from the score?
+
+You know, the Act 2 finale is wall-to-wall waltzes and I love every minute of it. There are ludicrous moments, tender moments, and ultimately it's all dance music, so you know it's going to be a good time. 
+
+>Die Fledermaus runs June 8-11 at 918 Bathurst. For full details and ticket information, follow our box office links below.
