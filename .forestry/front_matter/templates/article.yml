@@ -4,6 +4,11 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
+  name: title
+  label: Title of article
+  config:
+    required: true
+- type: text
   name: slug
   label: Slug
   description: Optional URL Slug
