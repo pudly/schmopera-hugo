@@ -1,0 +1,411 @@
+{{/*
+
+    {# ------------------------------------------------------- #}
+    {# INDIVIDUAL VIEW FOR EACH ARTICLE                        #}
+    {# ------------------------------------------------------- #}
+    
+    {% extends "templates/partials/base.html" %}
+    {% block title %}{ item.name }{% endblock %}
+    
+    {# meta data #}
+    {% block og_title %}{ item.name }{% endblock %}
+    {% block og_type %}article{% endblock %}
+    {% block og_url %}{% parent %}{ url(item) }{% endblock %}
+    {% block og_image %}{ item.primary_image|imageCrop(1360, 1360) }{% endblock %}
+    {% block og_description %}{ item.short_description }{% endblock %}
+
+*/}}
+
+{{ define "main" }}
+
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage":{
+      "@type":"WebPage",
+      "@id":"http://www.schmopera.com"
+    },
+    "headline": "{ item.name }",
+    "image": {
+      "@type": "ImageObject",
+      "url": "{ item.primary_image|imageCrop(800, 800) }",
+      "height": 800,
+      "width": 800
+    },
+    "datePublished": "{ item.publish_date }",
+    "dateModified": "{ item.publish_date }",
+    "author": {
+      {% for relation in item.authors %}
+        "@type": "Person",
+        "name": "{ relation.name }"
+      {% endfor %}
+    },
+     "publisher": {
+      "@type": "Organization",
+      "name": "Schmopera",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "http://www.schmopera.com/static/images/logo.png",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "description": "{ item.short_description }"
+  }
+  </script>
+
+  <div class="post--single">
+
+  {# Primary Hero #}
+    <section class="post--single_hero">
+
+      {% set srcset = item.primary_image|imageCrop(680, 680) + ", " + item.primary_image|imageCrop(1360, 1360) + " 2x" %}
+      <picture>
+        <source srcset="{ srcset }" media="(min-width: 40em)">
+        <img src="{ item.primary_image|imageCrop(400, 400) }" alt="{{ .Title }}">
+      </picture>
+      <h1><span>{{ .Title }}</span></h1>
+
+      <span class="post--meta">
+        <em class="post--meta-date">{{ .Date.Format "Mon Jan 2, 2006" }}</em>
+        {% for relation in item.authors %}
+          <a href="{ url(relation) }" class="post--meta-author">{ relation.name }</a>
+        {% endfor %}
+        {% if item.category|size !== 0 %}
+        <a href="{ url(item.category) }" class="post--meta-category">{ item.category.name }</a>
+        {% endif %}
+      </span>
+    </section>
+    {% if item.primary_image_credit %}
+      <span class="post--single_hero-credit">{ item.primary_image_credit }</span>
+    {% endif %}
+
+
+  {# Social media integration
+    <section class="post--single_social">
+      <nav class="nav--share">
+        <a href="https://www.facebook.com/sharer/sharer.php?u={ site_url }{ url(item)|replace('&', '&amp;', 'g') }" class="social--facebook pill"><i class="icon-facebook"></i> Facebook <em class="social--count_facebook" data-url="{ site_url }{ url(item)|replace('&', '&amp;', 'g') }"></em></a>
+        <a href="https://twitter.com/share?url={ site_url }{ url(item)|replace('&', '&amp;', 'g') }&via=schmopera&text={ item.name|url_encode }" class="social--twitter pill"><i class="icon-twitter"></i> Twitter <em class="social--count_twitter" data-url="{ site_url }{ url(item)|replace('&', '&amp;', 'g') }"></em></a>
+      </nav>
+    </section>
+  #}
+
+  {# Disclaimer #}
+    {% if item.disclaimer %}
+    <section class="post--single_disclaimer">
+      { item.disclaimer }
+    </section>
+    {% endif %}
+
+
+  {# Preamble #}
+    {% if item.preamble %}
+    <section class="post--single_preamble">
+      { item.preamble|markdown }
+    </section>
+    {% endif %}
+
+
+  {# Post Content #}
+    <section class="post--single_body">
+      {{ .Content }}
+    </section>
+
+
+  {# Image Gallery #}
+    {% if item.gallery|size !== 0 %}
+    <section class="post--single_gallery">
+      <h2 class="pill">Gallery</h2>
+
+      <ul class="gallery">
+      {% for image in item.gallery %}
+        <li>
+          {# You can get the raw image url by accessing image.url #}
+          <a href="{ image.url }" data-lightbox="{ image|imageSize(1360, 1360) }" rel="lightbox" title="{ image.caption }">
+            <img src="{ image|imageCrop(200, 200) }" alt="{ image.caption }">
+          </a>
+        </li>
+      {% endfor %}
+      </ul>
+    </section>
+
+    <script>
+      document.addEventListener('DOMContentLoaded', function() { initGallery(); });
+    </script>
+    {% endif %}
+
+
+  {# Social media integration #}
+    <section class="post--single_social">
+      <nav class="nav--share">
+        <a href="https://www.facebook.com/sharer/sharer.php?u={ site_url }{ url(item)|replace('&', '&amp;', 'g') }" class="social--facebook pill"><i class="icon-facebook"></i> Facebook <em class="social--count_facebook" data-url="{ site_url }{ url(item)|replace('&', '&amp;', 'g') }"></em></a>
+        <a href="https://twitter.com/share?url={ site_url }{ url(item)|replace('&', '&amp;', 'g') }&via=schmopera&text={ item.name|url_encode }" class="social--twitter pill"><i class="icon-twitter"></i> Twitter <em class="social--count_twitter" data-url="{ site_url }{ url(item)|replace('&', '&amp;', 'g') }"></em></a>
+      </nav>
+    </section>
+
+  {# Adspot 1 #}
+    <section class="post--single_adspot">
+{% include "templates/partials/ad-spot1.html" %}
+    </section>
+
+
+  {# Author details #}
+    <section class="post--single_authors">
+      <h2 class="pill">Written by</h2>
+    {% for author in item.authors %}
+      <div class="post--single_author">
+        {% set srcset = author.photo|imageCrop(100, 100) + ", " +  author.photo|imageCrop(200, 200) + " 2x" %}
+        <picture>
+          <source srcset="{ srcset }" media="(min-width: 40em)">
+          <img src="{ author.photo|imageCrop(100, 100) }" alt="{ author.name }">
+        </picture>
+
+        <h2>{ author.name }</h2>
+
+        <div class="post--single_author-bio">
+          { author.short_bio|markdown }
+        </div>
+        <nav class="post--single_author-meta">
+          <a href="{ url(author) }" class="btn">More info</a>
+        </nav>
+      </div>
+    {% endfor %}
+    </section>
+
+
+  {# Prev/Next Posts #}
+    <nav class="post--single_jump">
+    {% set prev = prevItem(item, 'publish_date', true) %}
+    {% set next = nextItem(item, 'publish_date', true) %}
+    {% if prev %}
+      <a href="{ url(prev) }" title="Newer" class="post--single_jump-prev">
+
+        <i class="icon-arrow-left"></i>
+
+        {% set srcset = prev.primary_image|imageCrop(100, 100) + ", " +  prev.primary_image|imageCrop(200, 200) + " 2x" %}
+        <picture>
+          <source srcset="{ srcset }" media="(min-width: 40em)">
+          <img src="{ prev.primary_image|imageCrop(60, 60) }" alt="{ prev.name }">
+        </picture>
+
+        <span>{ prev.name }</span>
+
+      </a>
+    {% endif %}
+    {% if next %}
+      {% if prev %}
+      <a href="{ url(next) }" title="Older" class="post--single_jump-next">
+      {% else %}
+      <a href="{ url(next) }" title="Older" class="post--single_jump-next __single">
+      {% endif %}
+
+        <i class="icon-arrow-right"></i>
+
+        {% set srcset = next.primary_image|imageCrop(100, 100) + ", " +  next.primary_image|imageCrop(200, 200) + " 2x" %}
+        <picture>
+          <source srcset="{ srcset }" media="(min-width: 40em)">
+          <img src="{ next.primary_image|imageCrop(60, 60) }" alt="{ next.name }">
+        </picture>
+
+        <span>{ next.name }</span>
+
+      </a>
+    {% endif %}
+    </nav>
+
+
+  {# Related Content #}
+    {% if item.related_articles|size !== 0 || item.related_videos|size !== 0 %}
+    {% set relitems = merge(item.related_articles, item.related_videos) %}
+    {% set relitems = relitems|sort('publish_date', true) %}
+    <section class="post--single_related">
+      <h2 class="pill">{ item.related_content_heading|default('Related Content') }</h2>
+      <ul class="post--list __mini">
+        {% for relation in relitems %}
+        <li>
+          <a href="{ url(relation) }" class="post--list-title">
+            {% set srcset = relation.primary_image|imageCrop(100, 100) + ", " +  relation.primary_image|imageCrop(200, 200) + " 2x" %}
+            <picture>
+              <source srcset="{ srcset }" media="(min-width: 40em)">
+              <img src="{ relation.primary_image|imageCrop(100, 100) }" alt="{ relation.name }">
+            </picture>
+
+            <h1>{ relation.name }</h1>
+
+            <p class="post--list-desc">{ relation.short_description }</p>
+
+            {% if relation.youtube_url %}
+              <span class="btn post--button">Watch Video</span>
+            {% else %}
+              <span class="btn post--button">Read More</span>
+            {% endif %}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+
+
+  {# People and Companies - The Scene #}
+    {% if item.people|size !== 0 || item.companies|size !== 0 %}
+    <section class="post--single_scene">
+      <h2 class="pill">The Scene</h2>
+
+      {% if item.people|size !== 0 %}
+        {% if item.companies|size !== 0 %}
+        <nav class="post--single_scene-people __coupled">
+        {% else %}
+        <nav class="post--single_scene-people">
+        {% endif %}
+          <h3 class="pill __sub">People</h3>
+          <ul>
+          {% for relation in item.people %}
+            <li><a href="{ url(relation) }"><img src="{ relation.headshot|imageCrop(200, 200) }" alt="Profile Photo"><span>{ relation.name }</span></a></li>
+          {% endfor %}
+          </ul>
+        </nav>
+      {% endif %}
+
+      {% if item.companies|size !== 0 %}
+        {% if item.people|size !== 0 %}
+        <nav class="post--single_scene-companies __coupled">
+        {% else %}
+        <nav class="post--single_scene-companies">
+        {% endif %}
+          <h3 class="pill __sub">Companies</h3>
+          <ul>
+          {% for relation in item.companies %}
+            <li><a href="{ url(relation) }"><img src="{ relation.photo|imageCrop(200, 200) }" alt="Logo"><span>{ relation.name }</span></a></li>
+          {% endfor %}
+          </ul>
+        </nav>
+      {% endif %}
+    </section>
+    {% endif %}
+
+
+  {# Box Office #}
+    {% if item.box_office|size !== 0 %}
+    <section class="post--single_boxoffice">
+      <h2 class="pill">Box Office</h2>
+      <ul>
+      {% for row in item.box_office %}
+        <li>
+          <section>
+          {% if row.logo %}
+            {% set srcset = row.logo|imageCrop(150, 150) + ", " +  row.logo|imageCrop(300, 300) + " 2x" %}
+            <picture>
+              <source srcset="{ srcset }" media="(min-width: 40em)">
+              <img src="{ row.logo|imageCrop(150, 150) }" alt="{ row.title }">
+            </picture>
+          {% endif %}
+
+            <div>
+              <h3>{ row.title }</h3>
+
+              {% if row.description %}
+                <div class="post--single_boxoffice-desc">{ row.description|markdown }</div>
+              {% endif %}
+            </div>
+          </section>
+          <footer>
+          {% if row.more_info_url || row.tickets_url %}
+            <nav class="post--single_boxoffice-nav">
+              {% if row.more_info_url %}
+              <a href="{ row.more_info_url }" target=_blank class="btn">More information</a>
+              {% endif %}
+              {% if row.tickets_url %}
+              <a href="{ row.tickets_url }" target=_blank class="btn">Buy Tickets</a>
+              {% endif %}
+            </nav>
+          {% endif %}
+          {% if row.starts_on %}
+            <p class="post--single_boxoffice-duration">
+              {% if row.ends_on %}
+              { row.starts_on|date('F d, Y') }&nbsp;to&nbsp;{ row.ends_on|date('F d, Y') }
+              {% else %}
+              { row.starts_on|date('F d, Y') }
+              {% endif %}
+            </p>
+          {% endif %}
+          </footer>
+        </li>
+      {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+
+
+  {# Comments from Disqus #}
+    <section class="post--single_comments" id="comments">
+      <h2 class="pill">Comments</h2>
+
+      <div id="disqus_thread"></div>
+      <script type="text/javascript"> var disqus_shortname = 'schmopera'; (function() { var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true; dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js'; (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq); })();</script>
+      <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+    </section>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{/*
+
+<h1> This is an article </h1>
+
+<section id="main">
+  <h1 id="title"></h1>
+  <div>
+        <article id="content">
+           
+        </article>
+  </div>
+</section>
+<aside id="meta">
+    <div>
+    <section>
+      <h4 id="date">  </h4>
+      <h5 id="wordcount"> {{ .WordCount }} Words </h5>
+    </section>
+    {{ with .Params.topics }}
+    <ul id="topics">
+      {{ range . }}
+        <li><a href="{{ "topics" | absURL}}{{ . | urlize }}">{{ . }}</a> </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+    {{ with .Params.tags }}
+    <ul id="tags">
+      {{ range . }}
+        <li> <a href="{{ "tags" | absURL }}{{ . | urlize }}">{{ . }}</a> </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+    </div>
+    <div>
+        {{ with .PrevInSection }}
+          <a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
+        {{ end }}
+        {{ with .NextInSection }}
+          <a class="next" href="{{.Permalink}}"> {{.Title}}</a>
+        {{ end }}
+    </div>
+</aside>
+
+*/}}
+
+
+{{ end }}

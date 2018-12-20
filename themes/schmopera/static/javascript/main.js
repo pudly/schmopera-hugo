@@ -60,9 +60,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 // external urls
-  [].forEach.call(document.querySelectorAll('a[href^=http]'), function(el) {
-    el.setAttribute('target','_blank');
-  })
+// TODO: Fix this to match against root domain, and not blanked http
+  // [].forEach.call(document.querySelectorAll('a[href^=http]'), function(el) {
+  //   el.setAttribute('target','_blank');
+  // })
 
 // social counter
   function slFacebook ($element) {
