@@ -67,3 +67,5 @@ fields:
   name: companies
   label: Companies
   description: Companies mentioned in this article
+pages:
+- content/articles/sample-article-with-all-the-fixins.md
