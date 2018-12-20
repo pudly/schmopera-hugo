@@ -57,7 +57,7 @@
       bottom: 0;
       left: 0;
       position: absolute;
-      background: url(/static/images/logo-square.svg);
+      background: url(/images/logo-square.svg);
       background-size: 100% auto;
     }
 
@@ -76,7 +76,7 @@
   @include bp-mobile {
     @include ir;
     height: 40px;
-    background: url(/static/images/logo.svg) no-repeat;
+    background: url(/images/logo.svg) no-repeat;
     background-size: auto 100%;
     position: relative;
     margin-left: 60px;
