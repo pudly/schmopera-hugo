@@ -3,10 +3,16 @@ label: Article
 hide_body: false
 is_partial: false
 fields:
-- type: text
+- type: file
+  name: primary_image
+  label: Primary Image
 - type: textarea
   name: short_description
   label: Short Description
   description: 512 Character Max
   config:
     required: true
+- type: select
+  config:
+    source:
+      type: documents
