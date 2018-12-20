@@ -1,0 +1,283 @@
+/*
+
+  SCENE SINGLE
+
+  sections
+    _masthead
+    _hero
+    _bio
+    _related
+    _info
+
+  alts
+    __person
+    __companies
+
+*/
+
+/* -----------------------------------------------------
+    scene--single
+    primary container scaffolding
+----------------------------------------------------- */
+.scene--single {
+  clear: left;
+
+  section {
+    margin-bottom: 40px;
+
+    @include bp-large {
+      margin-bottom: 60px;
+    }
+  }
+}
+
+
+/* -----------------------------------------------------
+    _masthead
+    primary heading area w/ pills
+----------------------------------------------------- */
+.scene--single_masthead {
+  @include bp-medium {
+    width: calc(100% - 270px);
+    float: left;
+  }
+
+  @include bp-tablet {
+    width: 100%;
+    float: none;
+  }
+}
+
+
+/* -----------------------------------------------------
+    _hero
+    featured image and meta information
+----------------------------------------------------- */
+.scene--single_hero {
+  a {
+    text-decoration: none;
+  }
+  figure {
+    display: block;
+    max-width: 80%;
+    margin: 0;
+
+    img, picture {
+      width: 100%;
+      display: block;
+    }
+
+    figcaption {
+      background: #eee;
+      font-size: .75em;
+      text-align: left;
+      padding: 10px;
+      line-height: 1.1em;
+      color: $sch-black;
+
+      &:before {
+        content: 'Photo: ';
+        font-weight: 700;
+      }
+    }
+  }
+
+  .nav--share {
+    a {
+      margin-bottom: 5px;
+      clear: left;
+    }
+  }
+
+  address {
+    margin: 20px 0 20px;
+    position: relative;
+
+    > div {
+      position: absolute;
+      padding: .5em;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      pointer-events: none;
+
+      color: #fff;
+      font-size: .85em;
+      font-style: normal;
+
+      background: rgba(0,0,0,.75);
+    }
+
+    img, picture {
+      display: block;
+      width: 100%;
+    }
+
+    a:hover + div {
+      background: $sch-blue;
+    }
+  }
+
+  @include bp-medium {
+    width: 250px;
+    float: right;
+
+    figure {
+      max-width: none;
+      width: 100%;
+    }
+  }
+
+  @include bp-tablet {
+    float: none;
+    width: auto;
+
+    address, .nav--share {
+      float: left;
+      width: 50%;
+      margin-top: 0;
+    }
+
+    .nav--share {
+      padding-left: 10px;
+    }
+
+    .scene--single_info {
+      clear: left;
+    }
+  }
+}
+
+
+/* -----------------------------------------------------
+    _bio
+    primary content area
+----------------------------------------------------- */
+.scene--single_bio {
+  font-size: 1em;
+  line-height: 1.45em;
+  clear: left;
+
+  h3.pill {
+    display: inline-block;
+    float: none;
+  }
+
+  h1.pill + p {
+    clear: left;
+  }
+
+  @include bp-medium {
+    margin-right: 270px;
+  }
+
+  @include bp-tablet {
+    margin-right: 0;
+  }
+}
+
+
+/* -----------------------------------------------------
+    _related
+    related articles and videos
+----------------------------------------------------- */
+.scene--single_related {
+  clear: both;
+}
+
+
+/* -----------------------------------------------------
+    _info
+    definition list of additional information
+----------------------------------------------------- */
+.scene--single_info {
+  margin: 10px 0 20px 0;
+
+  dt {
+    margin: 10px 0 5px 0;
+    padding: .25em .25em;
+    float: left;
+
+    font-weight: 700;
+    font-size: .9em;
+    line-height: 1em;
+    text-transform: uppercase;
+
+    color: #fff;
+    background: $sch-black;
+
+    @include bp-medium {
+      font-size: .75em;
+    }
+  }
+
+  dd {
+    clear: left;
+    font-size: .9em;
+    line-height: 1em;
+    margin: 0;
+  }
+}
+
+
+/* -----------------------------------------------------
+    __people
+    people specific adjustments
+----------------------------------------------------- */
+.__person {
+  .scene--single_hero {
+
+    .single--scene_meta {
+      margin-top: 20px;
+    }
+
+    @include bp-tablet {
+      clear: left;
+      overflow: hidden;
+
+      figure {
+        clear: left;
+        float: left;
+        width: 50%;
+      }
+
+      .single--scene_meta {
+        float: left;
+        width: 50%;
+        padding-left: 10px;
+        margin-top: 0;  
+
+        h3 {
+          margin-top: 0;
+        }
+      }
+
+      .nav--share {
+        padding-left: 0;
+        width: 100%;
+      }
+    }
+  }
+}
+
+
+/* -----------------------------------------------------
+    __company
+    company specific adjustments
+----------------------------------------------------- */
+.__company {
+  .scene--single_hero {
+
+    @include bp-tablet {
+      .nav--share {
+        margin-bottom: 20px;
+        padding-left: 0;
+      }
+
+      address + .nav--share {
+        padding-left: 10px;
+      }
+    }
+  }
+
+}

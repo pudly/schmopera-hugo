@@ -1,0 +1,168 @@
+/*
+
+  SOCIAL INTERACTIONS
+
+  nav
+    --social
+    --share
+
+*/
+
+/* -----------------------------------------------------
+    --social
+    Plain-text links to social URLs
+----------------------------------------------------- */
+.nav--social {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 0;
+
+  li {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+
+    a {
+      display: block;
+      width: 40px;
+      height: 40px;
+      background: #fff;
+      text-align: center;
+      font-size: 1.25rem;
+      line-height: 40px;
+      color: $sch-black;
+
+      &:hover {
+        color: #fff !important;
+      }
+    }
+
+    &:nth-child(1) a:hover { background: $brand-facebook; }
+    &:nth-child(2) a:hover { background: $brand-twitter; }
+    &:nth-child(3) a:hover { background: $brand-youtube; }
+  }
+
+  &._inverted {
+    li a {
+      background: $sch-black;
+      color: #fff;
+    }
+  }
+}
+
+
+/* -----------------------------------------------------
+    --share
+    Share buttons for Facebook and Twitter
+----------------------------------------------------- */
+.nav--share {
+  overflow: hidden;
+
+  a {
+    text-decoration: none;
+    font-size: 1em;
+    padding-right: 1em;
+    white-space: nowrap;
+
+    > i {
+      padding-right: .25em;
+      font-size: .9em;
+    }
+
+    &:hover {
+      color: #fff;
+    }
+
+    &.social--facebook {
+      background: $brand-facebook;
+
+      &:hover {
+        background: darken($brand-facebook, 20%);
+      }
+    }
+
+    &.social--twitter {
+      background: $brand-twitter;
+
+      &:hover {
+        background: darken($brand-twitter, 20%);
+      }
+    }
+
+    &.social--youtube {
+      background: $brand-youtube;
+
+      &:hover {
+        background: darken($brand-youtube, 20%);
+      }
+    }
+
+
+    &.social--soundcloud {
+      background: $brand-soundcloud;
+
+      &:hover {
+        background: darken($brand-soundcloud, 20%);
+      }
+    }
+
+    &.social--linkedin {
+      background: $brand-linkedin;
+
+      &:hover {
+        background: darken($brand-linkedin, 20%);
+      }
+    }
+
+    &.social--instagram {
+      background: $brand-instagram;
+
+      &:hover {
+        background: darken($brand-instagram, 20%);
+      }
+    }
+
+    &.social--web {
+      background: $brand-web;
+
+      &:hover {
+        background: darken($brand-web, 20%);
+      }
+    }
+
+    &.__sub {
+      padding: 0 1em;
+      font-weight: 300;
+      font-size: .9em;
+      color: $sch-blue;
+      background: #fff;
+
+      &:hover {
+        background: #f9f9f9;
+        color: $sch-black;
+      }
+    }
+
+    em span {
+      display: inline-block;
+      vertical-align: middle;
+      margin: -2px -5px 0 6px;
+      padding: 0 .5em;
+      height: 22px;
+
+      font-size: 12px;
+      font-weight: 500;
+      font-style: normal;
+      line-height: 22px;
+      color: #fff;
+
+      border-radius: 4px;
+      background: rgba(0,0,0,.25);
+
+      &:empty {
+        display: none;
+      }
+    }
+  }
+}

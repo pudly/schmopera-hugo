@@ -1,0 +1,838 @@
+/*
+
+  POST SINGLE
+
+  sections
+    _hero
+    _disclaimer
+    _preamble
+    _body
+    _authors
+    _gallery
+    _social
+    _related
+    _boxoffice
+    _scene
+    _comments
+    _jump
+
+*/
+
+/* -----------------------------------------------------
+    post--single
+    primary container scaffolding
+----------------------------------------------------- */
+.post--single {
+  clear: left;
+
+  section {
+    margin-bottom: 40px;
+
+    @include bp-large {
+      margin-bottom: 60px;
+    }
+  }
+
+}
+
+
+/* -----------------------------------------------------
+    _hero
+    featured image and primary post hero area
+----------------------------------------------------- */
+.post--single_hero {
+  position: relative;
+  margin: 0 -20px 40px -20px;
+
+  img {
+    width: 100%;
+    display: block;
+  }
+
+  h1 {
+    position: absolute;
+    bottom: 20px;
+    left: 5px;
+    margin: 0;
+    font-size: 1.8em;
+
+    span {
+      position: relative;
+      bottom: .175em;
+      background: #fff;
+      color: $sch-black;
+      padding: .08em 0;
+      line-height: 1.1em;
+      box-shadow: 5px 0 0 #fff, -5px 0 0 #fff;
+    }
+
+    @include bp-medium {
+      max-width: 90%;
+      font-size: 2.2em;
+      bottom: 40px;
+      left: 0;
+
+      span {
+        box-shadow: 15px 0 0 #fff;
+      }
+    }
+
+    @include bp-large {
+      font-size: 3em;
+    }
+  }
+
+  @include bp-medium {
+    margin: 0 0 40px 0;
+  }
+}
+
+.post--single_hero-credit {
+  display: block;
+  position: relative;
+  background: #eee;
+  font-size: .75em;
+  text-align: left;
+  padding: 10px;
+  margin: -40px -20px 40px -20px;
+
+  @include bp-medium {
+    margin: -40px 0 40px 0;
+  }
+}
+
+.post--single_hero + .post--single_hero-credit {
+  margin-top: -40px;
+
+  @include bp-large {
+    margin-top: -60px;
+  }
+}
+
+.post--single_hero-credit + .post--single_social,
+.post--single_hero + .post--single_social {
+  margin-top: -30px;
+  margin-bottom: 40px;
+}
+
+
+/* -----------------------------------------------------
+    _disclaimer
+    primary content disclaimer
+----------------------------------------------------- */
+
+
+/* -----------------------------------------------------
+    _preamble
+    primary content preamble
+----------------------------------------------------- */
+.post--single_preamble {
+  // font-family: "Lora";
+  font-weight: 400;
+  padding: 15px 20px 20px 20px;
+  margin: 0 0 40px 0 !important;
+  line-height: 1.3em;
+
+  font-size: .85em;
+  color: #555;
+
+  position: relative;
+
+  border-right: 5px solid #ccc;
+  background: #eee;
+  // border-bottom: 1px solid #ccc;
+
+  // background: #f5f5f5;
+  &:after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    height: 5px;
+    background: #ccc;
+    width: 100%;
+    right: -5px;
+  }
+
+  &:before {
+    content: '';
+    position: absolute;
+    top: -5px;
+    left: 0;
+    height: 5px;
+    background: #eee;
+    width: 100%;
+  }
+
+  @include bp-large {
+    margin-right: 40px;
+  }
+
+  p:only-child {
+    margin: 0;
+  }
+
+  p:first-child {
+    margin-top: 0;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+
+/* -----------------------------------------------------
+    _body
+    primary content body
+----------------------------------------------------- */
+.post--single_body {
+  font-size: 1em;
+  line-height: 1.65em;
+  clear: left;
+
+  p:only-child {
+    margin: 0;
+  }
+
+  p:first-child {
+    margin-top: 0;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+
+  dl {
+    margin: 0;
+    padding: 0;
+  }
+
+  h2 {
+    margin-top: 2em;
+  }
+
+  h2:first-child {
+    margin-top: 0;
+  }
+
+  h3 {
+    margin-top: 2em;
+  }
+
+  hr {
+    border: 0;
+    height: 0;
+    width: 100%;
+    border-top: 1px solid #ccc;
+    margin: 40px 0;
+  }
+
+  ol li,
+  ul li {
+    margin: 1.5em 0;
+  }
+
+  .nospace li,
+  .nospace li {
+    margin: 0;
+  }
+
+  /* video embed figure */
+  figure[data-type='video'] {
+    position: relative;
+    width: 100%;
+    height: 0;
+
+    margin: 40px -20px 60px -20px;
+    padding: 0;
+
+    padding-top: 56.25%;
+
+    iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    figcaption {
+      background: #eee;
+      font-size: .75em;
+      text-align: left;
+      padding: 10px;
+      line-height: 1.1em;
+    }
+
+    @include bp-medium {
+      margin: 0;
+    }
+  }
+
+  /* image figure */
+  figure[data-type='image'] {
+    padding: 0;
+    margin: 0 -20px;
+
+    img {
+      display: block;
+      max-width: 100%;
+    }
+
+    figcaption {
+      background: #eee;
+      font-size: .75em;
+      text-align: left;
+      padding: 10px;
+      line-height: 1.1em;
+    }
+
+    @include bp-medium {
+      margin: 0;
+    }
+  }
+
+  /* blockquote */
+  blockquote {
+    margin: 20px 0;
+    padding: 20px 20px 20px 0;
+    font-style: italic;
+    font-size: 1.4em;
+    font-weight: 700;
+    color: #fff;
+    position: relative;
+    background: $sch-blue;
+    border-left: 5px solid darken($sch-blue, 20%);
+
+    &:before {
+      content: '';
+      position: absolute;
+      height: 100%;
+      width: 100%;
+      top: 0;
+      background: $sch-blue;
+      left: -100%;
+    }
+
+    > p:first-child {
+      margin-top: 0;
+    }
+
+    > p:last-child {
+      margin-bottom: 0;
+    }
+
+    a {
+      color: $sch-black;
+    }
+
+    @include bp-medium {
+      margin: 40px 0;
+      padding: 20px 0 20px 20px;
+
+      &:before {
+        left: auto;
+        right: -100%;
+      }
+    }
+  }
+}
+
+/* -----------------------------------------------------
+    _related
+    related content
+----------------------------------------------------- */
+.post--single_related {
+  h2 {
+    margin-bottom: 20px;
+  }
+}
+
+
+/* -----------------------------------------------------
+    _gallery
+    article thumbnail gallery
+----------------------------------------------------- */
+.post--single_gallery {
+  h2 {
+    margin-bottom: 0;
+  }
+}
+
+
+/* -----------------------------------------------------
+    _gallery
+    article thumbnail gallery
+----------------------------------------------------- */
+.post--single_authors {
+  .post--single_author {
+    clear: left;
+
+    picture, img {
+      float: left;
+      border-radius: 100%;
+      margin: auto;
+      width: 100px;
+      height: 100px;
+    }
+
+    h2, .post--single_author-bio, .post--single_author-meta {
+        margin-left: 120px;
+    }
+
+    h2 {
+        margin-bottom: 10px;
+    }
+
+    .post--single_author-bio p {
+      margin-top: 0;
+      font-size: .9em;
+    }
+
+    @include bp-medium {
+      picture, img {
+        width: 100px;
+        height: 100px;
+      }
+
+      h2, .post--single_author-bio, .post--single_author-meta {
+
+      }
+
+      h2 {
+
+      }
+
+      .post--single_author-bio {
+
+      }
+    }
+  }
+}
+
+/* -----------------------------------------------------
+    _scene
+    scene companies and people related to the post
+----------------------------------------------------- */
+.post--single_scene {
+  h2 {
+    margin-bottom: 0;
+
+    + nav {
+      clear: left;
+    }
+  }
+
+  h3 {
+    margin: 0 0 20px 0;
+    font-size: 1.3em !important;
+  }
+
+  > nav {
+    vertical-align: top;
+    width: 100%;
+    margin-bottom: -40px;
+
+    ul {
+      @include reset;
+      clear: left;
+
+      > li {
+        display: inline-block;
+        margin: 0 5px 5px 0;
+        width: calc(25% - 5px);
+        position: relative;
+
+        @include bp-medium {
+          width: 80px;
+          height: 80px;
+        }
+
+        @include bp-large {
+          width: 100px;
+          height: 100px;
+        }
+
+        &:before {
+          content: '';
+          display: block;
+          width: 100%;
+          padding-top: 100%;
+        }
+      }
+    }
+
+    &.__coupled {
+      width: 50%;
+      float: left;
+      margin-bottom: 0;
+    }
+
+    @include bp-mobile {
+      float: none !important;
+      width: 100% !important;
+
+      & + nav {
+        margin-top: 10px;
+
+        &.__coupled {
+          margin-bottom: -40px;
+        }
+      }
+
+      ul > li {
+      }
+    }
+  }
+
+  a {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+
+    display: inline-block;
+
+    vertical-align: top;
+    text-align: center;
+
+    img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      border-radius: 100%;
+    }
+
+    span {
+      position: relative;
+      z-index: 10;
+
+      display: inline-block;
+      pointer-events: none;
+      opacity: 0;
+
+      margin-top: -10px;
+      padding: .25em;
+      max-width: 200px;
+
+      border-radius: 4px;
+      background: $sch-black;
+      color: #fff;
+
+      font-size: .75em;
+      text-align: center;
+
+      @include transition(all .2s ease-in-out);
+    }
+
+    &:hover span {
+      opacity: 1;
+    }
+  }
+
+  &.__full {
+    clear: left;
+    margin-bottom: 40px;
+
+    @include bp-medium {
+      margin-bottom: 60px;
+    }
+
+    > nav {
+      width: 100%;
+      float: none;
+    }
+  }
+}
+
+/* -----------------------------------------------------
+    _boxoffice
+    box office section with purchase ticket options
+----------------------------------------------------- */
+.post--single_boxoffice {
+  h2 {
+    margin-bottom: 10px;
+  }
+
+  h2 + ul {
+    clear: left;
+  }
+
+  ul {
+    @include reset;
+
+    li {
+
+      > section {
+        position: relative;
+        overflow: hidden;
+        padding: 20px;
+        margin-bottom: 0;
+
+        border-radius: 4px;
+        background: #f5f5f5;
+
+        z-index: 2;
+
+        h3 {
+          margin-top: 0;
+        }
+
+        p:last-child {
+          margin-bottom: 0;
+        }
+      }
+
+      > footer {
+        position: relative;
+        overflow: hidden;
+        padding: 20px 10px 10px 20px;
+        margin-top: -10px;
+
+        border-radius: 0 0 4px 4px;
+        background: #d5d5d5;
+
+        z-index: 1;
+      }
+
+      img {
+        width: 25%;
+        float: left;
+      }
+
+      picture + div {
+        margin-left: 25%;
+        padding-left: 20px;
+      }
+
+      .post--single_boxoffice-duration {
+        font-size: .8em;
+        font-weight: 700;
+        line-height: 40px;
+        margin: 0;
+      }
+
+      .post--single_boxoffice-nav {
+        float: right;
+
+        .btn {
+          height: 40px;
+          line-height: 40px;
+          padding: 0 .65em;
+          margin: 0 0 0 5px;
+          border-radius: 4px;
+        }
+      }
+
+      @include bp-tablet {
+        picture + div {
+          padding-left: 10px;
+        }
+
+        .post--single_boxoffice-nav {
+          float: left;
+
+          .btn {
+            margin: 0 5px 0 0;
+          }
+        }
+
+        .post--single_boxoffice-duration {
+          clear: left;
+          line-height: 2.5em;
+        }
+      }
+    }
+  }
+}
+
+.post--single_scene + .post--single_boxoffice,
+.post--single_scene + .post--single_comments {
+  clear: left;
+  padding-top: 40px;
+}
+
+
+/* -----------------------------------------------------
+    _social
+    social sharing and jump to comments
+----------------------------------------------------- */
+.post--single_social {
+  overflow: hidden;
+
+  nav {
+    clear: left;
+
+    @include bp-medium {
+      background: #eee;
+    }
+  }
+
+  .pill {
+    margin: 0;
+  }
+
+  @include bp-tablet {
+    nav {
+      clear: left;
+    }
+  }
+}
+
+
+/* -----------------------------------------------------
+    _comments
+    primary content body
+----------------------------------------------------- */
+.post--single_comments {
+  clear: left;
+  min-height: 150px;
+
+  h2 {
+    margin-bottom: 10px;
+  }
+}
+
+/* -----------------------------------------------------
+    _jump
+    previous and next post jumper
+----------------------------------------------------- */
+.post--single_jump {
+  margin-bottom: 20px;
+  clear: both;
+
+  a {
+    position: relative;
+    display: inline-block;
+    padding: 20px 0;
+    width: 50%;
+
+    vertical-align: top;
+    text-decoration: none;
+    color: $sch-black;
+    height: 80px;
+
+    > span {
+      display: block;
+
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
+      font-size: .9em;
+
+      padding-top: 20px;
+
+      color: lighten($sch-black, 20%);
+      text-decoration: none;
+    }
+
+    > i {
+      height: 42px;
+      width: 25px;
+      line-height: 42px;
+    }
+
+    picture {
+      display: none;
+
+      > img {
+        width: 40px;
+        height: 40px;
+        border-radius: 100%;
+      }
+    }
+
+    &:before {
+      display: block;
+      position: absolute;
+
+      content: attr(title);
+
+      top: 20px;
+
+      font-weight: 700;
+      font-size: 1.1em;
+      text-transform: uppercase;
+    }
+
+    &:hover {
+      color: $sch-blue;
+
+      > span {
+        color: $sch-black;
+      }
+
+      picture {
+        display: block;
+      }
+    }
+
+    &.post--single_jump-prev {
+      &:before {
+        left: 25px;
+      }
+
+      > span {
+        margin-left: 25px;
+        padding-right: 10px;
+      }
+
+      > i {
+        float: left;
+      }
+
+      &:hover {
+        > span {
+          margin-left: 70px;
+        }
+
+        picture {
+          float: left;
+        }
+
+        &:before {
+          left: 70px;
+        }
+      }
+    }
+
+    &.post--single_jump-next {
+      &:before {
+        right: 25px;
+      }
+
+      > span {
+        margin-right: 25px;
+        text-align: right;
+        padding-left: 10px;
+      }
+
+      > i {
+        float: right;
+      }
+
+      &:hover {
+        > span {
+          margin-right: 70px;
+        }
+
+        picture {
+          float: right;
+        }
+
+        &:before {
+          right: 70px;
+        }
+      }
+
+      &.__single {
+        width: 100%;
+      }
+    }
+
+    @include bp-medium {
+      margin-bottom: 40px;
+    }
+  }
+}

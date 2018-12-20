@@ -1,0 +1,135 @@
+/*
+
+  REUSABLE ANIMATIONS
+
+  animations
+    slideNavIn
+		slideNavOut
+		
+*/
+
+/* -----------------------------------------------------
+    slideNavIn
+    primary navigation animation - in
+----------------------------------------------------- */
+@keyframes slideNavIn {
+	0% {
+		transform: translateX(100%);
+    opacity: 1;
+	}
+	50%{
+		transform: translateX(100%);
+	}
+	100% {
+		transform: translateX(0%);
+    opacity: 1;
+	}
+}
+
+@-webkit-keyframes slideNavIn {
+  0% {
+		-webkit-transform: translateX(100%);
+    opacity: 1;
+	}
+	50%{
+    -webkit-transform: translateX(100%);
+	}
+	100% {
+    -webkit-transform: translateX(0%);
+    opacity: 1;
+	}
+}
+
+
+/* -----------------------------------------------------
+    slideNavOut
+    primary navigation animation - out
+----------------------------------------------------- */
+@keyframes slideNavOut {
+	0% {
+		transform: translateX(0%);
+    opacity: 1;
+	}
+	50%{
+		transform: translateX(100%);
+		opacity: 1;
+	}
+	100% {
+		transform: translateX(100%);
+    opacity: 0;
+	}
+}
+
+@-webkit-keyframes slideNavOut {
+  0% {
+		-webkit-transform: translateX(0%);
+    opacity: 1;
+	}
+	50%{
+    -webkit-transform: translateX(100%);
+		opacity: 1;
+	}
+	100% {
+    -webkit-transform: translateX(100%);
+    opacity: 0;
+	}
+}
+
+
+/* -----------------------------------------------------
+    fadeContentIn
+    primary content fade - in
+----------------------------------------------------- */
+
+@keyframes fadeContentIn {
+	0% {
+    opacity: 0;
+	}
+	50%{
+		opacity: 0;
+	}
+	100% {
+    opacity: 1;
+	}
+}
+
+@-webkit-keyframes fadeContentIn {
+  0% {
+    opacity: 0;
+	}
+	50%{
+		opacity: 0;
+	}
+	100% {
+    opacity: 1;
+	}
+}
+
+/* -----------------------------------------------------
+    fadeContentOut
+    primary content fade - out
+----------------------------------------------------- */
+
+@keyframes fadeContentOut {
+	0% {
+    opacity: 1;
+	}
+	50%{
+		opacity: 0;
+	}
+	100% {
+    opacity: 0;
+	}
+}
+
+@-webkit-keyframes fadeContentOut {
+  0% {
+    opacity: 1;
+	}
+	50%{
+		opacity: 0;
+	}
+	100% {
+    opacity: 0;
+	}
+}

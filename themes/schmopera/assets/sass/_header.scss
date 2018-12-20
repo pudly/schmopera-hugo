@@ -1,0 +1,224 @@
+/*
+
+  POST FEATURED
+
+*/
+
+/* -----------------------------------------------------
+    page--header
+    global primary header component
+----------------------------------------------------- */
+.page--header {
+  z-index: 20;
+}
+
+.page--header, .nav--primary-branding {
+  @include bp-medium {
+    width: 200px;
+    height: 100%;
+    position: fixed;
+    float: left;
+    max-width: 300px;
+    padding-left: 50px;
+
+    .site-branding {
+      width: 100%;
+      min-width: 0;
+    }
+  }
+
+  @include bp-large {
+    width: 300px;
+  }
+}
+
+.site-branding {
+  h1 {
+    margin: 0;
+    padding: 0;
+  }
+  @include bp-medium {
+    display: block;
+    width: 50%;
+
+    min-width: 200px;
+    max-width: 350px;
+
+    position: relative;
+    top: 20px;
+    margin: 0 0 20px 80px;
+    margin: 0 0 20px 0;
+
+    h1 {
+      @include ir;
+      margin: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      position: absolute;
+      background: url(/static/images/logo-square.svg);
+      background-size: 100% auto;
+    }
+
+    &:after {
+      content: '';
+      padding-top: 100%;
+      display: block;
+    }
+  }
+
+  @include bp-large {
+    top: 40px;
+    margin-bottom: 40px;
+  }
+
+  @include bp-mobile {
+    @include ir;
+    height: 40px;
+    background: url(/static/images/logo.svg) no-repeat;
+    background-size: auto 100%;
+    position: relative;
+    margin-left: 60px;
+  }
+}
+
+
+/* section navigation */
+
+.nav--sections {
+  display: none;
+
+  @include bp-medium {
+    display: block;
+    font-size: 1.5em;
+    position: relative;
+  }
+
+  @include bp-large {
+    font-size: 1.65em;
+  }
+
+  @include bp-short {
+    display: none;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 10px 0 0 0;
+    text-align: right;
+
+    li {
+      line-height: 1.1em;
+
+      > a {
+        font-weight: 300;
+        text-decoration: none;
+        color: $sch-black;
+        display: block;
+
+        &:hover {
+          color: $sch-blue;
+        }
+      }
+
+      h4 {
+        margin: 0;
+        padding: .25em .25em;
+        display: inline-block;
+
+        font-weight: 700;
+        font-size: .5em;
+        line-height: 1em;
+        text-transform: uppercase;
+
+        color: #fff;
+        background: $sch-black;
+
+        a {
+          color: #fff;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 40em) {
+  .content--main {
+    padding-top: 60px !important;
+  }
+
+  .page--header {
+    position: fixed;
+    z-index: 100;
+
+    width: 100%;
+
+    @include translate(0, 0);
+    opacity: 1;
+    @include transition(all .2s ease-in-out);
+
+    background: #fff;
+
+    padding: 10px;
+
+    .nav--jump {
+      position: absolute;
+      top: 0;
+      left: 0;
+
+      .nav--icon {
+        width: 60px;
+        height: 60px;
+        line-height: 58px;
+      }
+    }
+
+    .site-branding {
+    }
+  }
+
+  .scroll .page--header {
+    @include translate(0, -20px);
+    opacity: 0;
+    pointer-events: none;
+  }
+}
+
+.adspot {
+  width: 200px;
+  height: 80px;
+  line-height: 80px;
+  position: absolute;
+  bottom: 10px;
+  right: 0;
+
+  a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    background: $sch-black;
+    text-align: center;
+    font-size: .75em;
+
+    &:hover {
+      background: $sch-blue;
+    }
+  }
+
+  &:before {
+    content: "Sponsored";
+    text-transform: uppercase;
+    font-size: 10px;
+    line-height: 10px;
+    position: absolute;
+    left: 0;
+    top: -10px;
+  }
+
+  @include bp-mobile {
+    display: none;
+  }
+}

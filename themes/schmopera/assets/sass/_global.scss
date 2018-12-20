@@ -1,0 +1,107 @@
+/* baseline html5 shiv */
+article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}
+
+html, body, body.nav-inactive {
+  display: block;
+  
+  padding: 0;
+  margin: 0;
+  background: #fff;
+
+  overflow: hidden;
+  overflow-y: auto;
+}
+
+html {
+  box-sizing: border-box;
+  width: 100%;
+
+  body {
+    height: 100%;
+  }
+
+  &.nav-active {
+    body {
+      height: 100%;
+      overflow-y: hidden;
+    }
+  }
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+a, a:before, a:after, a > img {
+  // @include transition(all .2s ease-in-out);
+}
+
+a {
+  color: $sch-blue;
+
+  &:hover {
+    color: #000;
+  }
+}
+
+/* buttons */
+.btn {
+  font-size: .85em;
+  padding: 1em;
+  color: #fff;
+
+  display: inline-block;
+
+  text-transform: uppercase;
+  text-decoration: none;
+  background: $sch-blue;
+
+  &:hover {
+    background: $sch-black;
+    color: #fff;
+  }
+}
+
+.disclaimer {
+  clear: left;
+  background: #eee;
+  padding: 20px;
+  border-left: 10px solid $sch-blue;
+  font-size: .8em;
+  margin-bottom: 40px;
+  position: relative;
+  line-height: 1.2em !important;
+
+  h2 {
+    margin: 0 !important;
+  }
+
+  p {
+    margin-top: .5em;
+    margin-bottom: 0;
+  }
+
+  :before {
+    content: '!';
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 50%;
+    margin-top: -20px;
+    left: -25px;
+    background: $sch-blue;
+    border-radius: 50%;
+    color: #fff;
+    text-align: center;
+    line-height: 40px;
+    font-weight: 700;
+    font-size: 1.9em;
+  }
+}
+
+.ad--spot1 img,
+.ad--spot1 picture {
+  display: block;
+  width: 100%;
+  margin-top: -24px;
+}

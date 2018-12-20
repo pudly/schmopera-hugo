@@ -1,0 +1,110 @@
+/*
+
+  PATREON
+  Call to action for Patreon support
+
+  _cta
+  _floater
+
+  --donate
+
+*/
+
+/* -----------------------------------------------------
+    _cta
+    In-post call to action
+----------------------------------------------------- */
+.patreon_cta {
+
+}
+
+
+/* -----------------------------------------------------
+    _floater
+    Persistent footer floating call to action
+----------------------------------------------------- */
+.patreon_floater {
+  position: fixed;
+  z-index: 200;
+  background: $sch-yellow;
+  padding: .5em;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  font-size: .9em;
+  font-weight: 500;
+
+  @include translate(0, 0);
+  opacity: 1;
+  @include transition(all .2s ease-in-out);
+
+  p {
+    margin: 0;
+
+    span {
+      display: none;
+
+      @include bp-medium {
+        display: inline;
+      }
+    }
+  }
+
+  @include bp-medium {
+    padding: 1em;
+  }
+}
+
+@media only screen and (max-width: 40em) {
+  .scroll .patreon_floater {
+    @include translate(0, 20px);
+    opacity: 0;
+    pointer-events: none;
+  }
+}
+
+.nav-active .patreon_floater {
+  @include translate(0, 20px);
+  opacity: 0;
+  pointer-events: none;
+}
+
+// .article-read.scroll .patreon_floater {
+//   @include translate(0, 0);
+//   opacity: 1;
+// }
+
+
+/* -----------------------------------------------------
+    --donate
+    Donate buttons navigation
+----------------------------------------------------- */
+.nav--donate {
+  padding-top: .5em;
+
+  a {
+    display: inline-block;
+    background: $sch-black;
+    line-height: 1em;
+    padding: 1em;
+    border-radius: 1.5em;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: .8em;
+    color: #fff;
+    margin-right: .5em;
+
+    span {
+      display: none;
+
+      @include bp-medium {
+        display: inline;
+      }
+    }
+  }
+
+  @include bp-medium {
+    padding-top: 1em;
+  }
+
+}

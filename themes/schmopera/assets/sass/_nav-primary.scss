@@ -1,0 +1,542 @@
+/*
+
+  MEGANAV
+  Primary Hamburger-menu navigation
+
+  nav
+    --primary
+      --share
+      _content
+      _search
+      _sitemap
+      _recent-videos
+      _recent-articles
+
+*/
+
+/* -----------------------------------------------------
+    --primary
+    primary container for the navigation structure
+
+    inherited states
+      -inactive
+      -active
+----------------------------------------------------- */
+.nav--primary {
+  display: block;
+
+  position: fixed;
+  z-index: 500;
+  top: 0;
+  bottom: 0;
+
+  opacity: 0;
+
+  pointer-events: none;
+
+  will-change: transform;
+  transform: translate3d(0, 100%, 0);
+  -webkit-transform: translate3d(0, 100%, 0);
+
+  .container {
+    height: 100%;
+    background: $sch-black;
+    pointer-events: all;
+    padding: 0;
+  }
+
+  @include bp-medium {
+    left: 50%;
+    width: 880px;
+    margin-left: -440px;
+
+    .container {
+      margin-left: 240px;
+
+      &:after {
+        content: '';
+        display: block;
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        top: 0;
+        left: 100%;
+        background: $sch-black;
+      }
+    }
+  }
+
+  @include bp-large {
+    width: 1080px;
+    margin-left: -540px;
+
+    .container {
+      margin-left: 360px;
+    }
+  }
+
+  @include bp-tablet {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 240px;
+    width: auto;
+    margin: 0;
+
+    .container {
+      margin: 0;
+    }
+  }
+
+  @include bp-mobile {
+    left: 60px;
+  }
+}
+
+  /* inactive (collapsed) state */
+  .nav-inactive .nav--primary {
+    animation-name: slideNavOut;
+    -webkit-animation-name: slideNavOut;
+
+    animation-duration: .5s;
+    -webkit-animation-duration: .5s;
+
+    animation-timing-function: ease;
+    -webkit-animation-timing-function: ease;
+
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+
+    transform: translateX(100%);
+    -webkit-transform: translateX(100%);
+  }
+
+  /* active (expanded) state */
+  .nav-active .nav--primary {
+    animation-name: slideNavIn;
+    -webkit-animation-name: slideNavIn;
+
+    animation-duration: .5s;
+  	-webkit-animation-duration: .5s;
+
+  	animation-timing-function: ease;
+  	-webkit-animation-timing-function: ease;
+
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+  }
+
+
+/* -----------------------------------------------------
+    _content
+    Centering content container
+----------------------------------------------------- */
+.nav--primary_content {
+  padding: 20px;
+  height: 100%;
+  overflow: hidden;
+  overflow-y: auto;
+
+  @include bp-large {
+    padding: 40px;
+  }
+
+  h3 {
+    margin: 20px 0 5px 0;
+    padding: .25em .25em;
+    float: left;
+
+    font-weight: 700;
+    font-size: .9em;
+    line-height: 1em;
+    text-transform: uppercase;
+
+    color: $sch-black;
+    background: #fff;
+
+    @include bp-medium {
+      font-size: .75em;
+    }
+  }
+
+  nav {
+    margin-top: 20px;
+
+    > ul {
+      clear: left;
+    }
+  }
+
+  a {
+    text-decoration: none;
+
+    h3 {
+      color: $sch-black;
+      text-decoration: none;
+    }
+
+    &:hover h3 {
+      color: $sch-black;
+      background: $sch-blue;
+    }
+  }
+}
+
+
+/* -----------------------------------------------------
+    --share
+    share buttons, resuable nav--share navigation
+    adjustments
+----------------------------------------------------- */
+.nav--primary {
+  .nav--share {
+
+    h3 {
+      display: none;
+    }
+
+    a {
+      margin: 0;
+      font-size: .95em;
+
+      &:first-of-type {
+        clear: left;
+        border-right: 5px solid $sch-black;
+      }
+
+      &:last-child {
+        border-left: 5px solid $sch-black;
+      }
+    }
+
+    @include bp-mobile {
+      float: none;
+
+      a {
+        width: 50%;
+        border: 0 !important;
+        font-size: .9em;
+      }
+
+      padding-top: 40px;
+    }
+
+    @include bp-micro {
+      a span {
+        display: none;
+      }
+    }
+  }
+}
+
+
+/* -----------------------------------------------------
+    _search
+    giant search form
+----------------------------------------------------- */
+.nav--primary_search {
+  clear: left;
+  position: fixed;
+  height: 60px;
+  margin: -20px -20px 20px -20px;
+  width: 100%;
+  z-index: 1000;
+
+  @include bp-medium {
+    height: 75px;
+    margin: 0;
+    position: relative;
+  }
+
+  @include bp-large {
+    height: 125px;
+  }
+
+  /* big search input */
+  input {
+    border: 0;
+    background: #000;
+    border-radius: 0;
+    padding: 0;
+
+    width: 100%;
+    height: 100%;
+
+    text-indent: 10px;
+    font-size: 1.2em;
+    font-weight: 300;
+    color: #999;
+
+    @include bp-medium {
+      font-size: 1.5em;
+      text-indent: 20px;
+    }
+
+    @include bp-large {
+      font-size: 2em;
+      text-indent: 40px
+    }
+
+    &:focus {
+      outline: 0;
+      border-bottom-color: #fff;
+      color: #fff;
+
+      & + button {
+        color: #fff;
+      }
+    }
+
+    &::-webkit-input-placeholder { color: #999; }
+    &::-moz-placeholder { color: #999; }
+    &:-ms-input-placeholder { color: #999; }
+  }
+
+  /* submit button */
+  button {
+    background: none;
+    padding: 0;
+    margin: 0;
+    border: 0;
+
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    color: #999;
+    font-size: 1.25em;
+
+    cursor: pointer;
+
+    @include bp-medium {
+      font-size: 2em;
+
+      height: 75px;
+      width: 75px;
+
+      right: 0;
+    }
+
+    @include bp-large {
+      font-size: 3em;
+
+      height: 125px;
+      width: 125px;
+
+      right: 0;
+    }
+
+    &:hover,
+    &:focus {
+      color: #fff;
+    }
+  }
+}
+
+/* -----------------------------------------------------
+    _sitemap
+    list of all setions on the site
+----------------------------------------------------- */
+.nav--primary_sitemap {
+  clear: left;
+
+  ul {
+    @include reset;
+
+    a {
+      color: #fff;
+      text-decoration: none;
+      line-height: 1.5em;
+      font-weight: 500;
+      font-size: .9em;
+      opacity: .7;
+
+      &:hover {
+        opacity: 1;
+      }
+    }
+  }
+
+  @include bp-medium {
+    float: left;
+    width: 50%;
+  }
+
+  @include bp-large {
+    width: 40%;
+  }
+}
+
+
+/* -----------------------------------------------------
+    _recent-videos
+    list of 2 recently published videos
+----------------------------------------------------- */
+.nav--primary_recent-videos {
+  margin-top: 40px;
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+
+    li {
+      margin-bottom: 10px;
+
+      @include bp-medium {
+        width: 85%;
+      }
+
+      @include bp-tablet {
+        width: 100%;
+      }
+
+      img {
+        display: block;
+        width: 100%;
+      }
+    }
+
+    a {
+      display: block;
+      color: $sch-black;
+      font-size: .9em;
+      background: #000;
+      line-height: 1em;
+
+      strong {
+        display: block;
+        padding: 10px;
+        font-weight: 500;
+        color: #999;
+        font-size: .85em;
+      }
+
+      &:hover {
+        background: $sch-blue;
+      }
+
+      &:hover strong {
+        color: #fff;
+      }
+    }
+  }
+
+  @include bp-medium {
+    width: 50%;
+    float: left;
+  }
+
+  @include bp-large {
+    width: 60%;
+  }
+}
+
+
+/* -----------------------------------------------------
+    _recent-articles
+    list of 5 recently published articles, repurposed
+    .article--list __micro
+----------------------------------------------------- */
+.nav--primary_recent-articles {
+  @include bp-medium {
+    float: left;
+    width: 50%;
+  }
+}
+
+
+/* -----------------------------------------------------
+    TODO
+    clean this shit up
+
+----------------------------------------------------- */
+/* social buttons */
+.nav--jump {
+  width: 40px;
+
+  @include bp-medium {
+    position: absolute;
+    left: 0;
+    top: 20px;
+  }
+
+  @include bp-large {
+    top: 40px;
+  }
+
+  .icon-cancel {
+    display: none;
+  }
+}
+
+.nav-active .nav--jump {
+  .icon-cancel {
+    background: $sch-blue;
+    display: block;
+  }
+
+  .icon-menu {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 40em) {
+  .nav--primary {
+
+    .nav--primary_sitemap {
+      overflow: hidden;
+
+      ul {
+        line-height: 1.3em;
+        font-size: 1.2em;
+        margin: 25px 0 0 0;
+
+        a {
+          display: block;
+          font-size: 1em;
+          padding: .1em 0
+        }
+      }
+    }
+
+    .nav--primary-recent-videos {
+      li a {
+        font-size: 1.1em;
+      }
+    }
+
+    .post--list.__micro {
+      font-size: 1.1em;
+    }
+  }
+}
+
+.nav--icon {
+  display: block;
+  width: 40px;
+  height: 40px;
+  background: $sch-blue;
+  color: #fff;
+  text-decoration: none;
+  font-size: 26px;
+  text-align: center;
+  line-height: 39px;
+  position: relative;
+
+  &:hover {
+    color: #fff;
+    background: $sch-blue;
+  }
+
+  > i {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+}

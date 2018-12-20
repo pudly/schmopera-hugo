@@ -1,0 +1,90 @@
+.paginator, .wh-search-paginate {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
+  li {
+    display: inline-block;
+    height: 40px;
+    min-width: 40px;
+    vertical-align: top;
+    text-align: center;
+    line-height: 40px;
+    margin: 0 5px 5px 0;
+
+    a {
+      display: block;
+
+      min-width: 40px;
+      height: 40px;
+
+      color: #fff;
+      text-decoration: none;
+
+      background: $sch-black;
+
+      &:hover {
+        background: $sch-blue;
+      }
+    }
+
+    &.active a {
+      background: $sch-blue;
+    }
+
+    &.prev,
+    &.next {
+      line-height: 36px;
+
+      a {
+        padding: 0 .5em;
+
+        span {
+          text-transform: uppercase;
+          font-size: .8em;
+          line-height: 40px;
+        }
+      }
+
+      i {
+        font-size: .75em;
+      }
+    }
+  }
+
+  @include bp-mobile {
+    li {
+      display: none;
+    }
+
+    li.prev,
+    li.next {
+      display: inline-block;
+      width: 50%;
+      margin: 0;
+
+      &:only-child {
+        width: 100%;
+
+        a {
+          margin: 0;
+        }
+      }
+    }
+
+    li.next {
+      float: right;
+    }
+
+    li.prev a {
+      text-align: left;
+      margin-right: 5px;
+    }
+
+    li.next a {
+      text-align: right;
+      margin-left: 5px;
+    }
+  }
+}

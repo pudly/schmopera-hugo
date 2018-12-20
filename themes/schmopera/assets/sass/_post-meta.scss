@@ -1,0 +1,74 @@
+/*
+
+  POST META
+
+  types
+    post--meta-date
+    post--meta-comments
+    post--meta-category
+    post--meta-type
+
+*/
+
+.post--meta {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 2;
+  width: 100%;
+
+  em, a {
+    font-style: normal;
+    color: #fff;
+    display: block;
+    float: left;
+    clear: left;
+    font-size: .8em;
+    padding: .5em .65em .45em .65em;
+    background: #222;
+    text-decoration: none;
+
+    &.post--meta-date {
+      background: #333;
+    }
+
+    &.post--meta-comments {
+      background: #000;
+      padding: .45em .45em .5em .45em;
+
+      span {
+        font-size: .8em;
+        padding-left: .5em;
+
+        &:empty {
+          padding-left: 0;
+        }
+      }
+    }
+
+    &.post--meta-category {
+      background: $sch-blue;
+    }
+
+    &.post--meta-type,
+    &.post--meta-category {
+      position: absolute;
+      top: 0;
+      right: 0;
+      left: auto;
+
+      &.meta-type_video {
+        background: $brand-youtube;
+      }
+    }
+
+    @include bp-medium {
+      font-size: .9em;
+      font-weight: 300;
+    }
+  }
+
+  a:hover {
+    background: $sch-blue;
+  }
+}

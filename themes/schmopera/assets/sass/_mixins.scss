@@ -1,0 +1,78 @@
+/* image replacement */
+@mixin ir {
+  display: block;
+  overflow: hidden;
+  text-indent: 100%;
+  white-space: nowrap;
+}
+
+/* reset */
+@mixin reset {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* transforms and animations */
+@mixin transform($transforms) {
+     -moz-transform: $transforms;
+       -o-transform: $transforms;
+      -ms-transform: $transforms;
+  -webkit-transform: $transforms;
+          transform: $transforms;
+}
+
+@mixin translate($x, $y) {
+   @include transform(translate($x, $y));
+}
+
+@mixin transition($str) {
+  -webkit-transition: #{$str};
+  -moz-transition: #{$str};
+  -ms-transition: #{$str};
+  -o-transition: #{$str};
+  transition: #{$str};
+}
+
+/* breakpoints */
+@mixin bp-large {
+  @media only screen and (min-width: 70em) and (min-height: 40em) {
+    @content;
+  }
+}
+
+@mixin bp-medium {
+  @media only screen and (min-width: 40em) {
+    @content;
+  }
+}
+
+@mixin bp-small {
+  @media only screen and (min-width: 30em) {
+    @content;
+  }
+}
+
+@mixin bp-mobile {
+  @media only screen and (max-width: 39.9999em) {
+    @content;
+  }
+}
+
+@mixin bp-tablet {
+  @media only screen and (max-width: 880px) {
+    @content;
+  }
+}
+
+@mixin bp-short {
+  @media only screen and (max-height: 30em) {
+    @content;
+  }
+}
+
+@mixin bp-micro {
+  @media only screen and (max-width: 340px) {
+    @content;
+  }
+}

@@ -1,0 +1,172 @@
+/*
+
+  POST FEATURED
+
+*/
+
+/* -----------------------------------------------------
+    post--featured
+    featured posts list
+----------------------------------------------------- */
+.post--featured {
+  position: relative;
+  margin: 0 -20px 40px -20px;
+
+  font-size: 1em;
+
+  nav {
+    overflow: hidden;
+    overflow-x: auto;
+    white-space: nowrap;
+    // transform: translateZ(0);
+  }
+
+  h2 {
+    position: absolute;
+    top: 10px;
+    left: 0;
+    z-index: 10;
+  }
+
+  @include bp-medium {
+    margin: 0 0 60px 0;
+  }
+
+  @include bp-large {
+    margin: 0 0 80px 0;
+  }
+
+  // &:after {
+  //   content: '';
+  //   display: block;
+  //   position: absolute;
+  //   top: 0;
+  //   right: 0;
+  //   bottom: 0;
+  //   width: 60px;
+  //   background-image: linear-gradient( to right, rgba(0,0,0,0), rgba(0,0,0,.7));
+  //   z-index: 10;
+  //   pointer-events: none;
+  // }
+
+  .nav--share {
+    float: right;
+
+    h3 {
+      margin: 0;
+      float: left;
+      line-height: 40px;
+      padding-right: 1em;
+      font-size: .8em;
+    }
+
+    a {
+      width: 40px;
+      text-align: center;
+      padding: 0;
+
+      i {
+        padding: 0;
+        font-size: 1.1em;
+
+        &:before {
+          margin: 0;
+        }
+      }
+    }
+
+    @include bp-micro {
+      h3 {
+        display: none;
+      }
+    }
+  }
+}
+
+
+.post--featured_item {
+  display: inline-block;
+
+  position: relative;
+
+  width: 80%;
+
+  height: 0;
+  padding-top: 53%;
+  overflow: hidden;
+
+  vertical-align: bottom;
+
+  white-space: normal;
+
+  picture, img {
+    display: block;
+    z-index: 1;
+  }
+
+  img {
+    position: absolute;
+    width: 100%;
+    top: 0;
+  }
+
+  header {
+    position: absolute;
+    bottom: 15px;
+    left: 20px;
+    z-index: 5;
+    max-width: 75%;
+    
+    h3 {
+      position: relative;
+      margin: 0;  
+      font-size: .95em;
+  
+      span {
+        background: #fff;
+        color: $sch-black;
+        padding: 5px 0;
+        line-height: 1.1em;
+        box-shadow: 10px 0 0 #fff, -10px 0 0 #fff;
+        color: #fff;
+  
+        &:after {
+          content: attr(title);
+          color: $sch-black;
+          position: absolute;
+          left: 0;
+          top: 0;
+        }
+      }
+    }
+
+    @include bp-large {
+      span {
+        font-size: 1.2em;
+      }
+
+      max-width: 65%;
+    }
+
+    .post--meta-category {
+      position: absolute;
+      display: block;
+
+      background: $sch-blue;
+      color: #fff;
+
+      height: 26px;
+      top: -33px;
+      left: -10px;
+      padding: 0 7px;
+
+      text-transform: uppercase;
+      line-height: 26px;      
+      font-size: 14px;
+      font-style: normal;
+    }
+      
+  }
+
+
+}

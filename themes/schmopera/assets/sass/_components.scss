@@ -1,0 +1,65 @@
+/*
+
+  COMPONENTS
+  global site components.
+  mostly persistent messaging and interactions.
+
+  helpers
+    --toggle
+    --page
+
+*/
+
+
+/* -----------------------------------------------------
+    --page
+    full page helper
+----------------------------------------------------- */
+.helpers--hero {
+  background: $sch-blue;
+  color: #fff;
+  padding: 0 20px;
+  overflow: hidden;
+
+  clear: left;
+
+  @include transition(all .2s ease-in-out);
+
+  a {
+    color: #fff;
+    text-decoration: underline;
+
+    &:hover {
+      color: $sch-black;
+    }
+  }
+
+  & + .hero {
+    padding-top: 0;
+  }
+
+  &.__hidden {
+    max-height: 0;
+  }
+
+  &.__active {
+    padding: 20px;
+    max-height: 30em;
+  }
+}
+
+.pill.__small[rel='toggle'] {
+  height: 30px;
+  line-height: 30px;
+  padding: .5em .75em;
+  font-size: .8em;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: $sch-blue;
+  color: #fff;
+
+  &:hover {
+    border-top: 2px solid darken($sch-blue, 20%);
+    line-height: 26px;
+  }
+}

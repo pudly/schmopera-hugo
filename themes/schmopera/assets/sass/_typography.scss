@@ -1,0 +1,90 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400,700,900|Lora);
+
+body {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-size: 1.1em;
+  color: $sch-black;
+
+  @include bp-medium {
+    font-size: 1.2em;
+  }
+}
+
+input, textarea, select {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-size: 1em;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-weight: 900;
+  text-transform: uppercase;
+  line-height: 1em;
+}
+
+h1 {
+  font-size: 2.5em;
+  line-height: .9em;
+
+  @include bp-large {
+    font-size: 3.1em;
+  }
+}
+
+a h1 {
+  text-decoration: none;
+  color: #222;
+}
+
+.pill {
+  float: left;
+  min-height: 40px;
+  margin: 0 0 20px 0;
+  padding: 0 .3em;
+
+  background: $sch-black;
+  color: #fff;
+
+  font-size: 1.43em;
+  font-weight: 700;
+  line-height: 40px;
+
+  @include bp-large {
+    margin-bottom: 40px;
+  }
+
+  &.__sub {
+    background: lighten($sch-black, 20%);
+  }
+
+  &.___sub {
+    clear: left;
+    margin-top: -20px;
+    background: lighten($sch-black, 40%);
+
+    @include bp-large {
+      margin-top: -40px;
+    }
+  }
+
+  > a {
+    height: 100%;
+    display: block;
+    margin: 0 -.3em;
+    padding: 0 .3em;
+    color: #fff;
+    text-decoration: none;
+
+    &:hover {
+      color: #fff;
+      background: $sch-blue;
+    }
+  }
+}
+
+a.pill {
+  min-height: 40px;
+  padding: 0 .3em;
+  line-height: 40px;
+}

@@ -1,0 +1,123 @@
+.container {
+  @include bp-medium {
+    max-width: 880px;
+    margin: auto;
+    padding: 0 0 0 20px;
+  }
+
+  @include bp-large {
+    max-width: 1080px;
+  }
+}
+
+body > .container {
+  min-height: 100vh;
+}
+
+.content--main {
+  padding: 20px;
+  opacity: 1;
+  position: relative;
+  z-index: 50;
+  padding-bottom: 0 !important;
+
+  @include bp-medium {
+    margin-left: 200px;
+  }
+
+  @include bp-large {
+    margin-left: 300px;
+    padding: 40px;
+  }
+}
+
+footer {
+  opacity: 1;
+}
+
+.nav-active .content--main, .nav-active footer {
+  pointer-events: none;
+
+  animation-name: fadeContentOut;
+  -webkit-animation-name: fadeContentOut;
+
+  animation-duration: .5s;
+  -webkit-animation-duration: .5s;
+
+  animation-timing-function: ease;
+  -webkit-animation-timing-function: ease;
+
+  animation-fill-mode: forwards;
+  -webkit-animation-fill-mode: forwards;
+
+  will-change: all;
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+}
+
+.nav-inactive .content--main, .nav-inactive footer {
+  pointer-events: all;
+
+  animation-name: fadeContentIn;
+  -webkit-animation-name: fadeContentIn;
+
+  animation-duration: .5s;
+  -webkit-animation-duration: .5s;
+
+  animation-timing-function: ease;
+  -webkit-animation-timing-function: ease;
+
+  animation-fill-mode: forwards;
+  -webkit-animation-fill-mode: forwards;
+
+  will-change: all;
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+}
+
+@include bp-mobile {
+  .nav-active .page--header .site-branding {
+    pointer-events: none;
+
+    animation-name: fadeContentOut;
+    -webkit-animation-name: fadeContentOut;
+
+    animation-duration: .5s;
+    -webkit-animation-duration: .5s;
+
+    animation-timing-function: ease;
+    -webkit-animation-timing-function: ease;
+
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+
+    will-change: all;
+    transform: translateZ(0);
+    -webkit-transform: translateZ(0);
+  }
+
+  .nav-inactive .page--header .site-branding {
+    pointer-events: all;
+
+    animation-name: fadeContentIn;
+    -webkit-animation-name: fadeContentIn;
+
+    animation-duration: .5s;
+    -webkit-animation-duration: .5s;
+
+    animation-timing-function: ease;
+    -webkit-animation-timing-function: ease;
+
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+
+    will-change: all;
+    transform: translateZ(0);
+    -webkit-transform: translateZ(0);
+  }
+}
+
+/* breakout of main */
+.main--breakout {
+
+}

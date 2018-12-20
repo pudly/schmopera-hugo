@@ -1,0 +1,85 @@
+/*
+
+  GALLERY
+
+  Reusable gallery and lightbox
+
+  gallery
+
+  lightbox
+
+*/
+
+/* -----------------------------------------------------
+    gallery
+    thumbnail grid
+----------------------------------------------------- */
+
+h2 + .gallery {
+  margin-top: -20px !important;
+}
+
+.gallery {
+  @include reset;
+  overflow: hidden;
+  clear: left;
+
+  li {
+    float: left;
+    width: 25%;
+
+    img {
+      display: block;
+      width: 100%;
+    }
+  }
+
+  @include bp-tablet {
+    li {
+      width: 50%;
+    }
+  }
+}
+
+/* -----------------------------------------------------
+    lightbox
+    lightbox container
+----------------------------------------------------- */
+.lightbox {
+  background: rgba(255,255,255,.85);
+  position: fixed;
+  z-index: 1000;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: flex;
+	align-items: center;
+  cursor: pointer;
+
+  opacity: 0;
+  pointer-events: none;
+  @include transition(all .2s ease-in-out);
+
+  img {
+    max-height: 90%;
+    max-width: 90%;
+    margin: auto;
+  }
+
+  &.__active {
+    opacity: 1;
+    pointer-events: all;
+  }
+
+  > p:not(:empty) {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background: $sch-black;
+    width: 100%;
+    padding: 20px;
+    color: #fff;
+    margin: 0;
+  }
+}

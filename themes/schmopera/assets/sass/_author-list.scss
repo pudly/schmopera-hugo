@@ -1,0 +1,111 @@
+/*
+
+  AUTHOR LIST
+
+  _item
+    -profile
+    -name
+    -postlist
+
+*/
+
+.author--list {
+  clear: both;
+  @include reset;
+  overflow: hidden;
+
+  > li {
+    float: left;
+    position: relative;
+    margin: 1%;
+    width: 49%;
+
+    a {
+      display: block;
+      text-decoration: none;
+
+      picture {
+      }
+
+      img {
+        // border-radius: 100%;
+        display: block;
+        width: 100%;
+        margin: auto;
+      }
+    }
+
+    &:first-child {
+      margin-left: 0;
+    }
+
+    &:nth-child(2n) {
+      margin-right: 0;
+    }
+
+    &:nth-child(2n + 1) {
+      clear: left;
+      margin-left: 0;
+    }
+  }
+
+  @include bp-medium {
+    > li {
+      width: 32%;
+
+      &:nth-child(2n) {
+        margin-right: 1%;
+      }
+
+      &:nth-child(2n + 1) {
+        clear: none;
+        margin-left: 1%;
+      }
+
+      &:nth-child(3n) {
+        margin-right: 0;
+      }
+
+      &:nth-child(3n + 1) {
+        clear: left;
+        margin-left: 0;
+      }
+    }
+  }
+
+  .author--list_item-name,
+  .author--list_item-articles {
+    display: inline-block;
+    position: absolute;
+    max-width: none;
+    opacity: 1;
+    text-align: left;
+    border-radius: 0;
+    float: left;
+    height: 26px;
+    padding: 0 .3em;
+    background: #222;
+    color: #fff;
+    font-size: .85em;
+    font-weight: 700;
+    line-height: 26px;
+    text-transform: uppercase;
+    white-space: nowrap;
+    overflow: hidden;
+    width: auto;
+    max-width: 95%;
+    text-overflow: ellipsis;
+
+    font-size: .8em;
+  }
+
+  .author--list_item-name {
+    bottom: 26px;
+  }
+
+  .author--list_item-articles {
+    bottom: 0;
+    background: $sch-blue;
+  }
+
+}
