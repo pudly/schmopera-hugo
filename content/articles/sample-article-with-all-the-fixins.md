@@ -21,15 +21,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel ipsum ut leo e
 
 Ut iaculis pellentesque magna, nec accumsan quam posuere in. Sed sit amet semper purus. Nullam luctus, odio nec laoreet volutpat, erat risus condimentum diam, id convallis arcu magna at sapien. Suspendisse auctor, neque quis blandit venenatis, risus massa lacinia arcu, quis tristique urna odio finibus purus. Nam sodales nulla id ex porta eleifend. Vestibulum ultricies est a tellus cursus, in suscipit justo congue. Fusce sit amet tempor nisi, bibendum convallis sem. Praesent et enim sed metus pulvinar semper ac vel enim. Aliquam mattis tellus quis nulla hendrerit ornare. Curabitur viverra purus sed lectus pharetra mattis. Proin et iaculis ante. Fusce vel bibendum nisi.
 
-<figure data-type="image">
-
-![](/uploads/Enrico dBorgognaDonizetti2018fotoRotaGFR_5113.jpg)
-
-<figcaption><em>Enrico di Bordogna</em>, Donizetti Festival, 2018. Photo: Gianfranco Rota.</figcaption>
-
-</figure>
-
-Sed iaculis aliquet lectus. Phasellus in eros aliquam, lacinia velit eget, dapibus velit. Aliquam dignissim sed lorem sed pharetra. Pellentesque pellentesque ut enim at ultrices. Maecenas lobortis mauris eros, a venenatis tortor molestie id. Fusce posuere faucibus sem non luctus. Duis rhoncus dolor ut lorem sodales commodo.
+![](/uploads/Enrico dBorgognaDonizetti2018fotoRotaGFR_5113.jpg)Sed iaculis aliquet lectus. Phasellus in eros aliquam, lacinia velit eget, dapibus velit. Aliquam dignissim sed lorem sed pharetra. Pellentesque pellentesque ut enim at ultrices. Maecenas lobortis mauris eros, a venenatis tortor molestie id. Fusce posuere faucibus sem non luctus. Duis rhoncus dolor ut lorem sodales commodo.
 
 Donec lacinia, nunc nec faucibus tempus, urna ligula ullamcorper urna, nec finibus mi nisl sit amet urna. Quisque ornare commodo sapien, volutpat eleifend est ullamcorper at. Integer bibendum ut urna vitae laoreet. Quisque hendrerit vitae mauris ut feugiat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nam sagittis dui vel massa sollicitudin, a eleifend tortor interdum. Suspendisse aliquam quis lacus non convallis. Integer cursus, quam vitae feugiat feugiat, ex neque feugiat nibh, in rutrum sem metus sit amet risus. Phasellus id semper sapien, eu ultrices lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc ultrices varius ante non cursus. Sed sem mi, auctor in purus quis, aliquam ultrices leo. Proin vitae odio ut purus commodo venenatis. Duis laoreet ipsum consequat dui imperdiet, a suscipit nunc condimentum.
 
