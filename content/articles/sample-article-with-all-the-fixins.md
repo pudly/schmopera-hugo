@@ -23,7 +23,7 @@ Ut iaculis pellentesque magna, nec accumsan quam posuere in. Sed sit amet semper
 
 <figure data-type="image">
 
-![Enrico di Bordogna, Donizetti Festival, 2018. Photo: Gianfranco Rota.](/uploads/Enrico dBorgognaDonizetti2018fotoRotaGFR_5113.jpg "Enrico di Bordogna, Donizetti Festival, 2018. Photo: Gianfranco Rota.")
+![](/uploads/Enrico dBorgognaDonizetti2018fotoRotaGFR_5113.jpg)
 
 <figcaption><em>Enrico di Bordogna</em>, Donizetti Festival, 2018. Photo: Gianfranco Rota.</figcaption>
 
