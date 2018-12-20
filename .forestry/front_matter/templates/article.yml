@@ -3,16 +3,62 @@ label: Article
 hide_body: false
 is_partial: false
 fields:
+- type: text
+  name: slug
+  label: Slug
+  description: Optional URL Slug
+- type: select
+  name: author
+  config:
+    source:
+      type: documents
+  label: Author
+- type: select
+  name: category
+  config:
+    source:
+      type: documents
+  label: Category
 - type: file
   name: primary_image
   label: Primary Image
 - type: textarea
+  name: primary_image_credit
+  label: Primary Image Credit
+  description: Maximum of 512 Characters
+- type: textarea
   name: short_description
   label: Short Description
-  description: 512 Character Max
   config:
     required: true
-- type: select
+  description: Short description of the article, please provide 1-2 sentences
+- type: textarea
+  name: disclaimer
+  label: Disclaimer
+  description: Disclaimer for adult-oriented content or such
   config:
-    source:
-      type: documents
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: textarea
+  name: preamble
+  label: Preamble
+  description: Introductory text at the top of the article
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: image_gallery
+  name: image_gallery
+  label: Image Gallery
+- type: field_group_list
+  name: related_articles
+  label: Related Articles
+- type: field_group_list
+  name: people
+  label: People
+  description: People mentioned in this article
+- type: field_group_list
+  name: companies
+  label: Companies
+  description: Companies mentioned in this article
