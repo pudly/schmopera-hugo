@@ -21,7 +21,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel ipsum ut leo e
 
 Ut iaculis pellentesque magna, nec accumsan quam posuere in. Sed sit amet semper purus. Nullam luctus, odio nec laoreet volutpat, erat risus condimentum diam, id convallis arcu magna at sapien. Suspendisse auctor, neque quis blandit venenatis, risus massa lacinia arcu, quis tristique urna odio finibus purus. Nam sodales nulla id ex porta eleifend. Vestibulum ultricies est a tellus cursus, in suscipit justo congue. Fusce sit amet tempor nisi, bibendum convallis sem. Praesent et enim sed metus pulvinar semper ac vel enim. Aliquam mattis tellus quis nulla hendrerit ornare. Curabitur viverra purus sed lectus pharetra mattis. Proin et iaculis ante. Fusce vel bibendum nisi.
 
+<figure data-type="image">
+
 ![Enrico di Bordogna, Donizetti Festival, 2018. Photo: Gianfranco Rota.](/uploads/Enrico dBorgognaDonizetti2018fotoRotaGFR_5113.jpg "Enrico di Bordogna, Donizetti Festival, 2018. Photo: Gianfranco Rota.")
+
+<figcaption><em>Enrico di Bordogna</em>, Donizetti Festival, 2018. Photo: Gianfranco Rota.</figcaption>
+
+</figure>
 
 Sed iaculis aliquet lectus. Phasellus in eros aliquam, lacinia velit eget, dapibus velit. Aliquam dignissim sed lorem sed pharetra. Pellentesque pellentesque ut enim at ultrices. Maecenas lobortis mauris eros, a venenatis tortor molestie id. Fusce posuere faucibus sem non luctus. Duis rhoncus dolor ut lorem sodales commodo.
 
