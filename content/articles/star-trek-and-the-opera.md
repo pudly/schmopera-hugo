@@ -1,0 +1,21 @@
+---
+title: Star Trek and the opera
+---
+
+So, I have a loving husband who happens to be a *Star Trek* fan. There's not a whole lot of direct overlap between a sci-fi lover and an opera lover, but one point of contact is in Robert Picardo, (aka The Doctor), and his singing skills on *Star Trek: Voyager*.
+
+<figure data-type="video">
+<iframe width="854" height="480" src="https://www.youtube.com/embed/JBW7XkXFZSU" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+One more gem: the Doctor sings a duet ("Dio, che nell'alma infondere" from _Don Carlo_, no less) with a miniature holographic version of himself. It's dubbed, instead of Robert Picardo's real voice, but you won't care.
+
+<figure data-type="video">
+<iframe width="680" height="383" src="https://www.youtube.com/embed/lyfay_AOlqw" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+And finally, for way more _Star Trek _than you ever thought could fit in an opera, here's _The Abduction of the Seraglio (A Star Trek Themed Opera)_, presented by [Southern Illinois Music Festival](http://www.sifest.com/) earlier this year.
+
+<figure data-type="video">
+<iframe width="680" height="383" src="https://www.youtube.com/embed/Zyx2geLddfg" frameborder="0" allowfullscreen></iframe>
+</figure>
