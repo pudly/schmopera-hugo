@@ -1,5 +1,5 @@
 ---
-title: "Ian Rosenblatt: "It's all about the voice.""
+title: "Ian Rosenblatt: &quot;It&#039;s all about the voice.&quot;"
 ---
 
 "I come from a family that loved singers," says [Ian Rosenblatt](http://rosenblatt-law.co.uk/people/ian-rosenblatt/), founder of the [Rosenblatt Recitals](http://www.rosenblattrecitals.com/) series. "My father used to put on a record of *Traviata* every morning. He used to go to work very early in the morning, so 5:00 in the morning, the same record went on, which was [*La traviata*](http://www.amazon.co.uk/Verdi-La-Traviata-Giuseppe/dp/B00000I92Y) with Bergonzi, Sutherland, and Merrill." That's not a bad way to get exposed to top-notch singing at an early age, and Rosenblatt's love of voices has continued throughout his adult life.

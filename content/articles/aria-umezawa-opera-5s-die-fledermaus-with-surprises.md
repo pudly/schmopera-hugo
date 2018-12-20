@@ -1,5 +1,5 @@
 ---
-title: "Aria Umezawa: Opera 5's Die Fledermaus, with surprises"
+title: "Aria Umezawa: Opera 5&#039;s Die Fledermaus, with surprises"
 ---
 
 ## What can we expect from your new, updated script for *Die Fledermaus*? Any surprises you can tempt us with?

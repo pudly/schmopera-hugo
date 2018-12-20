@@ -1,5 +1,5 @@
 ---
-title: Die Fledermaus adaptation delivers effervescent performance
+title: "Die Fledermaus adaptation delivers effervescent performance"
 ---
 
 The great comedienne Lucille Ball once said "I'm not funny. What I am is brave." It's an appropriate sentiment as Calgary-based [Cowtown Opera Company](/scene/companies/cowtown-opera-company/) kicks off its eighth season with an effervescent English-language adaptation of the beloved Johann Strauss operetta *Die Fledermaus*, simply known as *The Bat*.

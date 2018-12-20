@@ -1,5 +1,5 @@
 ---
-title: "Lost history: opera's most famous premieres"
+title: "Lost history: opera&#039;s most famous premieres"
 ---
 
 ## *Il barbiere di Siviglia*

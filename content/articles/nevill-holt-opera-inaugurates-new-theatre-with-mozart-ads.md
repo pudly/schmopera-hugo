@@ -1,5 +1,5 @@
 ---
-title: Nevill Holt Opera inaugurates new theatre with Mozart & Adès
+title: "Nevill Holt Opera inaugurates new theatre with Mozart &amp; Adès"
 ---
 
 ### What has been the vision for Nevill Holt Opera's new performance space?

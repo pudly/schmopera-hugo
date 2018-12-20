@@ -1,5 +1,5 @@
 ---
-title: "Vera Causa Opera: "Opera for all.""
+title: "Vera Causa Opera: &quot;Opera for all.&quot;"
 ---
 
 ## Can you tell us a bit about Vera Causa's mission and history?

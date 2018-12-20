@@ -1,5 +1,5 @@
 ---
-title: Sawney Bean & his cannibal clan would make a great opera
+title: "Sawney Bean &amp; his cannibal clan would make a great opera"
 ---
 
 Every once in a while, one comes across a story that grabs a tight hold on your attention. If you're a fan of combining music and theatre, one of your first reactions is to wonder whether or not that great story has yet been turned into an opera.

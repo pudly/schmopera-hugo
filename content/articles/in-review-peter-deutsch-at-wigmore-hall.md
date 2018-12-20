@@ -1,5 +1,5 @@
 ---
-title: "In review: Peter & Deutsch at Wigmore Hall"
+title: "In review: Peter &amp; Deutsch at Wigmore Hall"
 ---
 
 If he hadn't caught our attention with his voice, [Mauro Peter](/scene/people/mauro-peter/)'s cheek-splitting grin was enough to fill Wigmore Hall during his recital with the great Helmut Deutsch.

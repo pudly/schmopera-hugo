@@ -1,5 +1,5 @@
 ---
-title: DiDonato inspires inmates through song
+title: "DiDonato inspires inmates through song"
 ---
 
 My Beloved Schmop-Tops! Happy New Year!

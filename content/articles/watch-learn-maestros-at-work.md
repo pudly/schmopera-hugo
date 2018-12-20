@@ -1,5 +1,5 @@
 ---
-title: "Watch & learn: maestros at work"
+title: "Watch &amp; learn: maestros at work"
 ---
 
 ## Carlos Kleiber

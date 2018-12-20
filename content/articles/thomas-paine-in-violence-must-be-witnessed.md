@@ -1,5 +1,5 @@
 ---
-title: Thomas Paine in Violence "must be witnessed."
+title: "Thomas Paine in Violence &quot;must be witnessed.&quot;"
 ---
 
 During the Obama administration, America's ship was turning in the right direction for progressives. Social programs developed. People fantasized about ideas far on the horizon becoming realities like universal health care and universal basic income. Not so today, as the left wades through the daily fog of egocentrism and hatred tweeted out by our bungling Huckster in Chief. How would America's founders reconcile today's frightening mess of a nation?

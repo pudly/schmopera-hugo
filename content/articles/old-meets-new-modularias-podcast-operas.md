@@ -1,5 +1,5 @@
 ---
-title: "Old meets new: Modularias & podcast operas"
+title: "Old meets new: Modularias &amp; podcast operas"
 ---
 
 November is a good month for the adventurous opera fan.

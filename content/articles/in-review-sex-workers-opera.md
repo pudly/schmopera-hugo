@@ -1,5 +1,5 @@
 ---
-title: "In review: Sex Workers' Opera"
+title: "In review: Sex Workers&#039; Opera"
 ---
 
 The [*Sex Workers' Opera*](http://www.sexworkersopera.com/about/) was probably the biggest departure from our norm that we've seen yet. The people in the audience, the pre-show vibe in the lobby of the Pleasance Theatre, and everything about the show itself were all totally refreshing. We showed up with lots of anticipation, but few expectations; simply put, there's something perfect and exciting about finding one's own seat in a cozy theatre, wine glass in hand, live music playing, and a giant pile of red and gold cloth, draped over a frame in the shape of a giant high heel shoe.

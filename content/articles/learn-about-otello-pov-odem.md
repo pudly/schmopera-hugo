@@ -1,5 +1,5 @@
 ---
-title: Learn about Otello (POV, OdeM)
+title: "Learn about Otello (POV, OdeM)"
 ---
 
 

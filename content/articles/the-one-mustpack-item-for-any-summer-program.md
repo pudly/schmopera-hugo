@@ -1,5 +1,5 @@
 ---
-title: The one must-pack item for any summer program
+title: "The one must-pack item for any summer program"
 ---
 
 Right up there with a toothbrush, a good-quality water bottle, and a solid collection of pencils, there's one must-pack item that never fails to prove useful at a summer program: your party piece.

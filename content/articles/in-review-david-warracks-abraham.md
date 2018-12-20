@@ -1,5 +1,5 @@
 ---
-title: "In review: David Warrack's Abraham"
+title: "In review: David Warrack&#039;s Abraham"
 ---
 
 Wednesday, October 28, 2015 at the Metropolitan United Church on the corner of Queen Street East and Church Street in the heart of Downtown Toronto was the the premiere of a new Canadian work by composer [David Warrack](http://www.davidwarrack.ca/). 

@@ -1,5 +1,5 @@
 ---
-title: Emotional extremes & bringing your work home
+title: "Emotional extremes &amp; bringing your work home"
 ---
 
 One question I've asked a lot of singers is some variance on, "what's it like to live in such an extreme world?" That "extreme world" is the emotional highs and lows that are the stuff of opera. Singers spend a lot of time in those highs and lows, and even though it's all make-believe, that time spent is focused and thoughtful and deliberate. Every day they embody a character who is dying, or abandoned, or rejected, or evil, or ecstatic; they think hard about how these characters end up where they do, and how it makes them feel. Actors often claim to identify strongly with their characters' story; similarly, could an opera singer really avoid getting personally invested?

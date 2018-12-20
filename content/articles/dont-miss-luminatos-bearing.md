@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Luminato's Bearing"
+title: "Don&#039;t miss: Luminato&#039;s Bearing"
 ---
 
 This week at Luminato, Signal Theatre presents the world premiere of [*Bearing*](https://luminatofestival.com/2017/Events/Bearing), a brand new dance-opera created by co-directors Michael Greyeyes (Plains Cree) and Yvette Nolan (Algonquin) and librettist Spy Denommé-Welch (Anishnaabe).

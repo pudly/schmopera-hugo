@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: the 2nd annual New York Opera Fest"
+title: "Don&#039;t miss: the 2nd annual New York Opera Fest"
 ---
 
 ## What kind of reception did the first NYOF receive? 

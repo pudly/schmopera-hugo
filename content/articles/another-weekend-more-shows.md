@@ -1,5 +1,5 @@
 ---
-title: Another weekend, more shows
+title: "Another weekend, more shows"
 ---
 
 Tonight (it's quasi-weekend) I'm going to [Koerner Hall](https://www.facebook.com/koernerhall) to hear [Isabel Bayrakdarian sing with Tafelmusik](http://www.tafelmusik.org/). The programme is titled _Rival Queens_, and I'm pretty excited about it. It's inspired by that [famous 18th-century operatic feud](http://www.independent.co.uk/arts-entertainment/music/features/whine-women-and-song-the-bitter-rivalry-of-handels-divas-816644.html) between superstars [Faustina Bordoni](http://en.wikipedia.org/wiki/Faustina_Bordoni) and [Francesca Cuzzoni](http://en.wikipedia.org/wiki/Francesca_Cuzzoni).

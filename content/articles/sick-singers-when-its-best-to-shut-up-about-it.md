@@ -1,5 +1,5 @@
 ---
-title: Sick singers & when it's best to shut up about it
+title: "Sick singers &amp; when it&#039;s best to shut up about it"
 ---
 
 If there's anything I can say about opera singers, it's this: I've never, not once, envied their jobs.

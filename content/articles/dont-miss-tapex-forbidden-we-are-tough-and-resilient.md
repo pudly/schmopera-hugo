@@ -1,5 +1,5 @@
 ---
-title: "Don't miss Tap:Ex Forbidden: "We are tough and resilient.""
+title: "Don&#039;t miss Tap:Ex Forbidden: &quot;We are tough and resilient.&quot;"
 ---
 
 ## Can you tell us about the chance discovery of your connection in Iran?

@@ -1,5 +1,5 @@
 ---
-title: "Aria guides: "Una furtiva lagrima""
+title: "Aria guides: &quot;Una furtiva lagrima&quot;"
 ---
 
 <figure data-type="image">

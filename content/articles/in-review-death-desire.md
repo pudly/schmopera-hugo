@@ -1,5 +1,5 @@
 ---
-title: "In review: Death & Desire"
+title: "In review: Death &amp; Desire"
 ---
 
 *Death & Desire* is a blending of two art song cycles. One, *Die schöne 

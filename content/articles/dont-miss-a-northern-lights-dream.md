@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: A Northern Lights Dream"
+title: "Don&#039;t miss: A Northern Lights Dream"
 ---
 
 ## What can you tell us about *A Northern Lights Dream*?

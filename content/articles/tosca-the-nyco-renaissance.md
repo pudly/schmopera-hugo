@@ -1,5 +1,5 @@
 ---
-title: Tosca & the NYCO Renaissance
+title: "Tosca &amp; the NYCO Renaissance"
 ---
 
 The rebirth of New York City Opera seems to be [upon us](http://www.nytimes.com/2016/01/13/arts/music/new-york-city-opera-will-return-and-soon-under-reorganization-plan.html), at least for the moment.

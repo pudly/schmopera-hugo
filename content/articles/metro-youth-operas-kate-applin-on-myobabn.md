@@ -1,5 +1,5 @@
 ---
-title: Metro Youth Opera's Kate Applin on #MYOBéaBén
+title: "Metro Youth Opera&#039;s Kate Applin on #MYOBéaBén"
 ---
 
 ## Why was Béatrice et Bénédict an appealing choice for MYO’s 2014/15 season?

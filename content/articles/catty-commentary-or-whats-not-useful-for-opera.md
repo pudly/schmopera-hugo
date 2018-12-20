@@ -1,5 +1,5 @@
 ---
-title: Catty commentary, or what's not useful for opera
+title: "Catty commentary, or what&#039;s not useful for opera"
 ---
 
 I love when big opera events are broadcast for the world to see. The BBC Cardiff Singer of the Year Competition is one of those big events, and I was doubly thrilled to hear soprano Aviva Fortunata representing Canada. 

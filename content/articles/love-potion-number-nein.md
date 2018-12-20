@@ -1,5 +1,5 @@
 ---
-title: Love Potion Number Nein
+title: "Love Potion Number Nein"
 ---
 
 Andreas Mitisek will soon be celebrating his twenty years at the helm of Long Beach Opera. In fact, next month there will be an evening devoted to highlights from many of his triumphs over the last two decades. He is a bona fide musical and theatrical visionary. So one wonders what attracted him to [Frank Martin's *The Love Potion*](https://www.longbeachopera.org/the-season/the-love-potion), which is neither musically or dramatically compelling. Written as an oratorio, it doesn't appear that it's meant to be an opera. (Written in German, this was an English translation.)

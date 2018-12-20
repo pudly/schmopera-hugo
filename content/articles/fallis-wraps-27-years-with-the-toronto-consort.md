@@ -1,5 +1,5 @@
 ---
-title: Fallis wraps 27 years with the Toronto Consort
+title: "Fallis wraps 27 years with the Toronto Consort"
 ---
 
 After 27 years with The Toronto Consort, David Fallis will conduct his [final performances as Artistic Director](https://torontoconsort.org/concerts-tickets/2017-18-a-season-to-celebrate/monteverdis-orfeo/) this month. **May 25-27** at Trinity-St. Paul's Centre, the Consort presents [Monteverdi's *Orfeo*](https://torontoconsort.org/concerts-tickets/2017-18-a-season-to-celebrate/monteverdis-orfeo/), featuring English tenor Charles Daniels in the title role.

@@ -1,5 +1,5 @@
 ---
-title: All about the Tafelmusik Baroque Summer Institute
+title: "All about the Tafelmusik Baroque Summer Institute"
 ---
 
 ## What did you find attractive about attending the Tafelmusik Summer Baroque Institute?

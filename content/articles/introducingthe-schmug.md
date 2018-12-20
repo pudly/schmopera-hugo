@@ -1,5 +1,5 @@
 ---
-title: Introducing...the Schmug!
+title: "Introducing...the Schmug!"
 ---
 
 If you're a fan of opera, there's a good chance you're also a fan of curling up with your hot beverage of choice.

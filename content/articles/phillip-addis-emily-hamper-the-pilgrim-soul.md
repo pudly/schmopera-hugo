@@ -1,5 +1,5 @@
 ---
-title: "Phillip Addis & Emily Hamper: The Pilgrim Soul"
+title: "Phillip Addis &amp; Emily Hamper: The Pilgrim Soul"
 ---
 
 ## What can you tell us about the Canadian works on this concert? 

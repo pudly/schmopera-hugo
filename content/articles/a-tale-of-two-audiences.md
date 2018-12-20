@@ -1,5 +1,5 @@
 ---
-title: A tale of two audiences
+title: "A tale of two audiences"
 ---
 
 Something about that nebulous week between Christmas and New Year's drew me to a marathon session of the full *Der Ring des Nibelungen*. So, I settled in to give a good viewing to Robert Lepage's *Ring Cycle* on the [Metropolitan Opera's On Demand](http://www.metopera.org/Season/On-Demand/) service. 

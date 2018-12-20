@@ -1,5 +1,5 @@
 ---
-title: Singers, it's the annual Tax Season Conundrum!
+title: "Singers, it&#039;s the annual Tax Season Conundrum!"
 ---
 
 Forget December 31st as the last day of 2016.... Americans all should know by now that April 18th (thanks to the 15th being a Saturday followed by an observed holiday) is the real *Dies Irae*. Yes, it's dreaded tax season, that special time of year when we add Uncle Sam to our list of people who want our coins behind NYC voice teachers charging upwards of $200 for an hour of their time to teach us how to sing effortless tones with perfect technique and emotional prowess to secure that production that oftentimes pays a number too embarrassing to admit how much time we spent learning and rehearsing.

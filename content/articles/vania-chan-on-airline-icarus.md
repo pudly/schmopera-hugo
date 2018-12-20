@@ -1,5 +1,5 @@
 ---
-title: Vania Chan on Airline Icarus
+title: "Vania Chan on Airline Icarus"
 ---
 
 ### Do you like flying?

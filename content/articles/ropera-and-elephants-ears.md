@@ -1,5 +1,5 @@
 ---
-title: R/Opera and Elephant's Ears
+title: "R/Opera and Elephant&#039;s Ears"
 ---
 
 I was perusing the opera corner of Reddit (r/opera) and came across a [fantastic post](http://www.reddit.com/r/opera/comments/3168tw/opera_about_elephants_ears/) by a user who needed help in naming that opera tune that he/she had just heard. 

@@ -1,5 +1,5 @@
 ---
-title: "Audition arias 101: the young singer's guide"
+title: "Audition arias 101: the young singer&#039;s guide"
 ---
 
 ## You don't really need five arias

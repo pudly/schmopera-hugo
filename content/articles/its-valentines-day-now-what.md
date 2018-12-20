@@ -1,5 +1,5 @@
 ---
-title: It's Valentines Day! Now what?
+title: "It&#039;s Valentines Day! Now what?"
 ---
 
 I thought about making a flow chart for Valentine's Day. It was going to be sort of like If-You're-Single-Do-This and If-You're-Attached-Do-This. But the answer to both is the same, making this a very simplistic flow chart indeed.

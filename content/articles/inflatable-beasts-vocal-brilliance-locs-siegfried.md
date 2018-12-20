@@ -1,5 +1,5 @@
 ---
-title: "Inflatable beasts & vocal brilliance: LOC's Siegfried"
+title: "Inflatable beasts &amp; vocal brilliance: LOC&#039;s Siegfried"
 ---
 
 How to sum up a five-hour night of Wagner at the Lyric Opera of Chicago? I'm tempted to simply leave it at: "Go. It's amazing!" Saturday's opening of [*Siegfried*](https://www.lyricopera.org/concertstickets/calendar/2018-2019/siegfried-opera-tickets), LOC's new production of the penultimate opera in Wagner's *Ring Cycle*, was overwhelming, invigorating, and awe-inspiring.

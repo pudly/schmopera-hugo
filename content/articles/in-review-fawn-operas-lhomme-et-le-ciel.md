@@ -1,5 +1,5 @@
 ---
-title: "In review: Fawn Opera's L'homme et le ciel"
+title: "In review: Fawn Opera&#039;s L&#039;homme et le ciel"
 ---
 
 Friday night, I went to a workshop presentation given by Fawn Opera & New Music. They presented three excerpts from their latest operatic project, [_L'homme et le ciel_](http://www.fawnopera.com/creators-of-lhomme-et-le-ciel/) by Canadian composer Adam Scime, with text by Ian Koiter with a French translation by Eric Démoré. The libretto is based on the 2nd-century Christian literary text, "The Shepherd of Hermas"; Hermas is a Roman slave who realizes he has feelings for Rhoda, his mistress. I liked how Fawn Opera put it on the program: "A classic tale of one man's struggle to live righteously."

@@ -1,5 +1,5 @@
 ---
-title: Building Suspense with The Regietheater Panel
+title: "Building Suspense with The Regietheater Panel"
 ---
 
 <p>

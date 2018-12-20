@@ -1,5 +1,5 @@
 ---
-title: The Case for Nomadic Opera
+title: "The Case for Nomadic Opera"
 ---
 
 <p>

@@ -1,5 +1,5 @@
 ---
-title: "A singer's to-do list: 4 tasks to keep you focused this year"
+title: "A singer&#039;s to-do list: 4 tasks to keep you focused this year"
 ---
 
 ## Develop a plan for drilling the tricky bits in your music

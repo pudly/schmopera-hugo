@@ -1,5 +1,5 @@
 ---
-title: "Review: Arabella, or "Poor Little Rich Girl""
+title: "Review: Arabella, or &quot;Poor Little Rich Girl&quot;"
 ---
 
 Heya, Schmop-Tops! Your friendly neighbourhood [Greg](/authors/greg/) is back to start off my season, and let me tell you, it starts on a high note - lots of 'em!

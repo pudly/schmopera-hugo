@@ -1,5 +1,5 @@
 ---
-title: "Delightfully creepy: Mahogany Opera Group's The Rattler"
+title: "Delightfully creepy: Mahogany Opera Group&#039;s The Rattler"
 ---
 
 Last week at the Southbank Centre, [Mahogany Opera Group](/scene/companies/mahogany-opera-group/) previewed its current kid-friendly production, [*The Rattler*](http://www.mahoganyoperagroup.co.uk/productions/the-rattler/). Directed by Mahogany AD [Frederic Wake-Walker](http://www.mahoganyoperagroup.co.uk/productions/the-rattler/company/frederic-wake-walker/), *The Rattler* is an interactive re-telling of the tale of Rumpelstiltskin. Remember *Rumpelstiltskin*, one of the Brothers Grimm's terrifying "children's stories"? There's the daughter who may or may not be able to spin straw into gold, and the mysterious, imp-like creature that helps her live up to her legend, essentially by getting her to write him a blank cheque, post-dated at the creature's discretion.

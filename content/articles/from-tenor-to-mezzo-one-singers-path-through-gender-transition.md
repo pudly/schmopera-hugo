@@ -1,5 +1,5 @@
 ---
-title: "From tenor to mezzo: one singer's path through gender transition"
+title: "From tenor to mezzo: one singer&#039;s path through gender transition"
 ---
 
 Though their sounds may seem drastically different, the physical differences in the instrument of the highest soprano and the lowest bass is mere millimetres in size. The sweet spot for working opera singers is found through a combination of nature and nurture, and for every singer who falls neatly into a vocal *Fach* pigeon hole, there seems to be another whose voice lies in the grey areas between mezzo and soprano, or between baritone and tenor.

@@ -1,5 +1,5 @@
 ---
-title: Greg & Jenna's Opera Roundup, 2015/16
+title: "Greg &amp; Jenna&#039;s Opera Roundup, 2015/16"
 ---
 
 ## Jenna loved: *Siegfried* at the COC

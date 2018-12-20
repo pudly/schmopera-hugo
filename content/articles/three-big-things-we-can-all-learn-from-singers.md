@@ -1,5 +1,5 @@
 ---
-title: Three Big Things We Can All Learn From Singers
+title: "Three Big Things We Can All Learn From Singers"
 ---
 
 ## 1. How to take criticism like a pro.

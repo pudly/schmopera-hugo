@@ -1,5 +1,5 @@
 ---
-title: Audition season, or the annual Festival of Shattered Dreams
+title: "Audition season, or the annual Festival of Shattered Dreams"
 ---
 
 Should I stay or should I go now...

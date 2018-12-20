@@ -1,5 +1,5 @@
 ---
-title: Why 'mezza voce' and budgets really don't matter
+title: "Why &#039;mezza voce&#039; and budgets really don&#039;t matter"
 ---
 
 Budgets don't matter.

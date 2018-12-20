@@ -1,5 +1,5 @@
 ---
-title: Living Opera at the COC
+title: "Living Opera at the COC"
 ---
 
 I'm a huge advocate of music education for young people, including the programs set up by the Canadian Opera Company's Education & Outreach department. One of their programs is [Living Opera](http://www.coc.ca/ExploreAndLearn/Schools/LivingOpera.aspx), which gives a class of secondary school students a chance to hear voice and drama workshops, tour the Four Seasons Centre, and see one of the mainstage shows. If it sounds exciting for high school students, you're right.

@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: "Feet" at the Horniman Museum"
+title: "Don&#039;t miss: &quot;Feet&quot; at the Horniman Museum"
 ---
 
 ## What can you tell us about *Feet* and what makes it an "opera installation"?

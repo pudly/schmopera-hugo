@@ -1,5 +1,5 @@
 ---
-title: Audra McDonald and the Art of Perfection
+title: "Audra McDonald and the Art of Perfection"
 ---
 
 The [LA Opera](/scene/companies/los-angeles-opera/) stage has seen its share of sopranos and mezzos who have deservedly earned the description of "diva." What they all have in common is the fact that they've conquered the world of opera. A soprano who has conquered Broadway is another kind of diva. And then there's Audra McDonald - who is simply one-of-a-kind.

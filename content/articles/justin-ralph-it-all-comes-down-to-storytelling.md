@@ -1,5 +1,5 @@
 ---
-title: "Justin Ralph: "It all comes down to storytelling.""
+title: "Justin Ralph: &quot;It all comes down to storytelling.&quot;"
 ---
 
 ## What do you find are some surprising similarities between singing in an operatic context, and recording a folk/country EP?

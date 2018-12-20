@@ -1,5 +1,5 @@
 ---
-title: Art is not action
+title: "Art is not action"
 ---
 
 When is the last time you felt this badly?

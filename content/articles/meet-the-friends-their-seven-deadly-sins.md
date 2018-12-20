@@ -1,5 +1,5 @@
 ---
-title: Meet the Friends & their Seven Deadly Sins
+title: "Meet the Friends &amp; their Seven Deadly Sins"
 ---
 
 ### 1. How did you first get into opera?

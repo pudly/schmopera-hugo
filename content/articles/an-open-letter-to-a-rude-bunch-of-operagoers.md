@@ -1,5 +1,5 @@
 ---
-title: An open letter to a rude bunch of operagoers
+title: "An open letter to a rude bunch of operagoers"
 ---
 
 *Dear "listeners",*

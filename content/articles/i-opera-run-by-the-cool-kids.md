@@ -1,5 +1,5 @@
 ---
-title: "'i': opera run by the cool kids"
+title: "&#039;i&#039;: opera run by the cool kids"
 ---
 
 Upon entering the upstairs room of the Balham Bowles Club, one senses a strange juxtaposition between ballroom and working men's club. The stage area looks a little tired and the décor more akin to a dining room than a makeshift opera house. As people took to their seats, the energy seemed slightly odd...perhaps people were uncertain of what to expect from the show, titled [*'i' - The Opera*](http://www.wastepaperopera.com/i---the-opera.html), that marketed itself as the world's first opera partially written by a neural network. 

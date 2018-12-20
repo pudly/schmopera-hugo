@@ -1,5 +1,5 @@
 ---
-title: "Live-streamed in recital: Brancy & Dugan"
+title: "Live-streamed in recital: Brancy &amp; Dugan"
 ---
 
 Tonight at 7pm ET, you can catch celebrated song duo [John Brancy](/scene/people/john-brancy/) and [Peter Dugan](/scene/people/peter-dugan/) in recital at the U.S. Naval Academy.

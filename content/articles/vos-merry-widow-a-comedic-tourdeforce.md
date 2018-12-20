@@ -1,5 +1,5 @@
 ---
-title: VO's Merry Widow a comedic tour-de-force
+title: "VO&#039;s Merry Widow a comedic tour-de-force"
 ---
 
 [Vancouver Opera](/scene/companies/vancouver-opera/)'s season opener is [Lehar's *Merry Widow*](https://www.vancouveropera.ca/merry-widow/), a popular production, but one VO hasn't tackled in nearly 20 years. This production is an Art-Nouveau-meets-Moulin-Rouge laugh riot filled with spectacular costumes, brilliant dance numbers, and more than one unexpected twist.

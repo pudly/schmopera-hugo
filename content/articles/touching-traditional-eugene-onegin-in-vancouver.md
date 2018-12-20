@@ -1,5 +1,5 @@
 ---
-title: "Touching & traditional: Eugene Onegin in Vancouver"
+title: "Touching &amp; traditional: Eugene Onegin in Vancouver"
 ---
 
 Vancouver Opera's [*Eugene Onegin*](https://www.vancouveropera.ca/2017/04/27/eugene-onegin/) is the starter of the 2018 Vancouver Opera Festival, kicked off with Russian splendour amidst Russian recitals, cultural performances and more. This production of *Onegin* by Tom Diamond is very true to its Russian roots, and has many charming touches to add to the setting and feel. From beautiful traditional Russian clothing, to traditional dancers, to the hay bales and sheaves of wheat in the field, these elements helped bring the setting to life. In addition, a cast of primarily Russian singers brought a great depth to a complex language not often heard in North American opera houses. 

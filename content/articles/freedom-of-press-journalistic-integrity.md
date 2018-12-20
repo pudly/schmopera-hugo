@@ -1,5 +1,5 @@
 ---
-title: Freedom of press & journalistic integrity
+title: "Freedom of press &amp; journalistic integrity"
 ---
 
 A weird flurry of news came out via Norman Lebrecht of [*Slipped Disc*](http://slippedisc.com/2016/05/just-in-critic-quits-after-newspaper-bows-to-pressure-and-pulls-his-opera-review/) yesterday. First, it was reported that Arthur Kaptainis, opera reviewer for the *National Post* in Toronto, had his review of the Canadian Opera Company's production of *Maometto II* removed from the *Post*'s website. "When COC read his review for *Mametto II* [sic] online in the *National Post* they sent over a complaint to demand its removal," wrote Lebrecht. "Unbelievably, the weak-kneed newspaper obliged." He included a link to the same review, subsequently published on [*Musical Toronto*](http://www.musicaltoronto.org/2016/05/17/36862/). He added, "This is a major press freedom issue. Cancel the National Post until it apologises and beware of an opera company that is able to reduce national media to submission."

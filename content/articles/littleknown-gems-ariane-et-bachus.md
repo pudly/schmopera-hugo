@@ -1,5 +1,5 @@
 ---
-title: ""Little-known gems": Ariane et Bachus"
+title: "&quot;Little-known gems&quot;: Ariane et Bachus"
 ---
 
 ## What do you find is unique about Marais' setting of the Ariadne myth? 

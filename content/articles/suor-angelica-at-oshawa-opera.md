@@ -1,5 +1,5 @@
 ---
-title: Suor Angelica at Oshawa Opera
+title: "Suor Angelica at Oshawa Opera"
 ---
 
 ### 1. Who is Suor Angelica?

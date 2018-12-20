@@ -1,5 +1,5 @@
 ---
-title: "Ah! Non abbiamo il soprano!"
+title: "&quot;Ah! Non abbiamo il soprano!&quot;"
 ---
 
 Opera fans have likely heard by now about star soprano [Angela Gheorghiu's late entrance](http://www.nytimes.com/2016/04/19/arts/music/tosca-angela-gheorghiu-missed-entrance.html) at a recent performance of *Tosca* at the [Vienna State Opera](/scene/companies/wiener-staatsoper/), following [Jonas Kaufmann](/scene/people/jonas-kaufmann/)'s encore of "E lucevan le stelle". After the tenor finishes his second singing of the aria, the Tosca-is-arriving-on-stage music happens with great energy; as the waiting became uncomfortable, Kaufmann broke the tension with a joke, recitative-style, "Ah! Non abbiamo il soprano!" When Gheorghiu still didn't appear, Kaufmann switched to German to beg the audience's patience, while what I'm sure was a *worst-nightmare moment* indeed for stage management.

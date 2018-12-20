@@ -1,5 +1,5 @@
 ---
-title: "In review: Tcherniakov's Don Giovanni"
+title: "In review: Tcherniakov&#039;s Don Giovanni"
 ---
 
 <p class="intro">

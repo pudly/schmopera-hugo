@@ -1,5 +1,5 @@
 ---
-title: What I learned about money from Enrico Caruso
+title: "What I learned about money from Enrico Caruso"
 ---
 
 "You can do it all!! You don’t have to choose!!!"

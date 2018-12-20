@@ -1,5 +1,5 @@
 ---
-title: Dean Burry on "The Highwayman"
+title: "Dean Burry on &quot;The Highwayman&quot;"
 ---
 
 ## What appealed to you about Noyes' poem "The Highwayman", and why did you decide it would make a good basis for a musical setting?

@@ -1,5 +1,5 @@
 ---
-title: "Big history & big operas: Festival Verdi 2016"
+title: "Big history &amp; big operas: Festival Verdi 2016"
 ---
 
 ### How is the Festival celebrating the life of Verdi this year?

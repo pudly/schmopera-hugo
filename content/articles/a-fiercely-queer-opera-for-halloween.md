@@ -1,5 +1,5 @@
 ---
-title: A "fiercely queer opera" for Halloween
+title: "A &quot;fiercely queer opera&quot; for Halloween"
 ---
 
 This Halloween, WholeTone Opera - the company that brought you *La Zombiata* - presents [*The Werewolf*](https://www.eventbrite.com/e/wholetone-opera-the-rockwell-present-the-werewolf-tickets-36843876025), a "freshly transformed, fiercely queer opera". Adapted from Louise Bertin's 1827 melodrama, *Le loup-garou*, and inspired by the early 20th century's silent films, *The Werewolf* features a modernized libretto by J. Deschene and Teri Kowiak that keeps with WTO's mission to better represent the LGBTQIA community on operatic stages.

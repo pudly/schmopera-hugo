@@ -1,5 +1,5 @@
 ---
-title: "TOT's Pirates of Penzance: "A glorious thing""
+title: "TOT&#039;s Pirates of Penzance: &quot;A glorious thing&quot;"
 ---
 
 My first outing of 2017 was to head over to my home away from home, the St. Lawrence Centre for the Arts, and check out the latest offering from [Toronto Operetta Theatre](/scene/people/toronto-operetta-theatre/) - Gilbert & Sullivan's *The Pirates of Penzance*, directed by TOT's General Director, Guillermo Silva-Marin and Music Directed by Maestro Derek Bate. TOT was the first company in the classical sphere to hire me and give me my start here in Toronto, so they have a special place with me. 

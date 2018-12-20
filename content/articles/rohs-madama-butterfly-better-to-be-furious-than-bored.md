@@ -1,5 +1,5 @@
 ---
-title: "ROH's Madama Butterfly: better to be furious than bored"
+title: "ROH&#039;s Madama Butterfly: better to be furious than bored"
 ---
 
 There are few things more emotionally confusing than watching Puccini's *Madama Butterfly*. One man seems to embody all that is stereotypically loathed about Americans, and one woman seems to be a shining example of all the horrors that can happen to women, from selective education and naïveté, to having her children taken from her.

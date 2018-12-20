@@ -1,5 +1,5 @@
 ---
-title: "Ian Page: Mozart & imagination"
+title: "Ian Page: Mozart &amp; imagination"
 ---
 
 It's a real treat to talk with an artist as in love with his work as [Ian Page](/scene/people/ian-page/), founder, conductor, and artistic director of London's [Classical Opera](/scene/companies/classical-opera/). Since 1997, the company of singers and period-instrument orchestra has focused on presenting opera and orchestral works by Mozart and his contemporaries. Though the music is old, Page himself is averse to the concept of putting up what can be called, with negative connotations, "museum pieces". "The reason I love period instruments is that to me, they sound more modern," he says of the company's musical aesthetic, which has deep roots in storytelling and conveying drama.

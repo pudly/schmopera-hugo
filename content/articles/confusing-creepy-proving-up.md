@@ -1,5 +1,5 @@
 ---
-title: "Confusing & creepy: Proving Up"
+title: "Confusing &amp; creepy: Proving Up"
 ---
 
 *Little House on the Prairie* meets *The Shining*. This phrase truly encapsulated the visceral experience that is Opera Omaha's production of *Proving Up*. Composer Missy Mazzoli and librettist Royce Vavrek have crafted an opera that captures the dark side of the American dream that is so often glossed over. Based on the short story by Karen Russell, *Proving Up* focuses on settlers who struggle against adversity, work hard, and still do not succeed. This goes against the vision of the American West that has been idealized for years, but let's be real. For every pioneer that beat the odds, there had to be countless others that failed miserably. (Hell, I can't even make it through The Oregon Trail game without dying of dysentery!)

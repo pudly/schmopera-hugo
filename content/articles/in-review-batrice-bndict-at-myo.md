@@ -1,5 +1,5 @@
 ---
-title: "In review: Béatrice & Bénédict at MYO"
+title: "In review: Béatrice &amp; Bénédict at MYO"
 ---
 
 Yesterday I went to hear [Metro Youth Opera](http://www.metroyouthopera.ca/)'s production of Berlioz' *Béatrice & Bénédict* at Daniels Spectrum. I hadn't seen the opera before, and whenever I plan to see a piece for the first time, I rarely look up details like a plot synopsis. I'm one of those people that thinks that opera fans should have the option of enjoying a piece without needing to do homework, and I was pleased that MYO's *B&B* was clear and entertaining, language barriers (and Shakespeare) aside.

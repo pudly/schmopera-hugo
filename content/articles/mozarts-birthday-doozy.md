@@ -1,5 +1,5 @@
 ---
-title: Mozart's Birthday Doozy
+title: "Mozart&#039;s Birthday Doozy"
 ---
 
 <p></p><h2>HAPPY 259th BIRTHDAY, MOZART!!</h2>

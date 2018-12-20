@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Encounter with Sondra Radvanovsky"
+title: "Don&#039;t miss: Encounter with Sondra Radvanovsky"
 ---
 
 This fall, 10 singers will have the chance to work with famed soprano [Sondra Radvanovsky](/scene/people/sondra-radvanovsky/) in Toronto, between performances of Bellini's *Norma* with the [Canadian Opera Company](/scene/companies/canadian-opera-company/).

@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Glory Denied at Nashville Opera"
+title: "Don&#039;t miss: Glory Denied at Nashville Opera"
 ---
 
 ## Why did you see the story of Col. Thompson as one that would lend itself well to opera?

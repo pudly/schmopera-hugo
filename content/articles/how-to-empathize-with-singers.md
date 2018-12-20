@@ -1,5 +1,5 @@
 ---
-title: How to empathize with singers
+title: "How to empathize with singers"
 ---
 
 ## Speak their text

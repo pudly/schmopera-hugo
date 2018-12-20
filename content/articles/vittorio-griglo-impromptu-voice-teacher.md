@@ -1,5 +1,5 @@
 ---
-title: Vittorio Grigòlo, impromptu voice teacher
+title: "Vittorio Grigòlo, impromptu voice teacher"
 ---
 
 Star tenor (and super dreamy guy) [Vittorio Grigòlo](/scene/people/vittorio-grigolo/) was in Los Angeles the other day, and like many passionate singers, he apparently couldn't resist stopping to listen to a street performer offering up a bit of opera:

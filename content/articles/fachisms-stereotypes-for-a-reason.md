@@ -1,5 +1,5 @@
 ---
-title: Fach-isms & stereotypes for a reason
+title: "Fach-isms &amp; stereotypes for a reason"
 ---
 
 I saw this oldie-but-goodie making the rounds on Facebook today:

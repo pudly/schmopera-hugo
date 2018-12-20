@@ -1,5 +1,5 @@
 ---
-title: Too much magic? A Midsummer Night's Dream at ENO
+title: "Too much magic? A Midsummer Night&#039;s Dream at ENO"
 ---
 
 Robert Carsen's 1991 production of [*A Midsummer Night's Dream*](https://www.eno.org/whats-on/a-midsummer-nights-dream/) returned to the London Coliseum last night, this being the production's fourth mounting for [English National Opera](/scene/companies/english-national-opera/). Carsen's production of *A Midsummer Night's Dream* is entertaining, funny, poignant, and gorgeous to look at. It tells the story well, but after countless revivals around the globe, I am ready for a new production of this classic opera. 

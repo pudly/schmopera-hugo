@@ -1,5 +1,5 @@
 ---
-title: A Butterfly, but not from Puccini
+title: "A Butterfly, but not from Puccini"
 ---
 
 Since its debut in 1996, [*Florencia En El Amazonas*](https://www.sdopera.org/season/2017-2018-season/florencia) has become the most performed Spanish-language opera in the world. And it's not because it's a modern masterpiece - it isn't - but it quenches the thirst that many have for the kind of work that ended with Puccini's death in 1924. For the rest of the 20th century, opera composers deliberately ran away from the tuneful and lush style of Puccini's real masterpieces such as *Madama Butterfly*. Even up to the present (and in this century), new works can be stirring, provocative and sometimes harmonic, but almost never melodious. Even *Florencia En El Amazonas* doesn't ever quite land on a melody, but the beautiful and familiar symphonic chords and note progressions chosen by composer Daniel Catan are as close to Puccini as anyone has gotten (so far). Much of his music unfolds like a first-rate and highly-listenable film score. No surprise, since the great film composers from the Golden Age of Hollywood were also influenced by Puccini. (Just imagine what a great film composer Puccini would have been if he had lived to see the advent of sound in the movies.)

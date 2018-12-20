@@ -1,5 +1,5 @@
 ---
-title: Am I allowed to hate Silent Night?
+title: "Am I allowed to hate Silent Night?"
 ---
 
 On the eve of the 100th anniversary of the armistice which ended the First World War, audiences who walked into the Kennedy Center's Eisenhower Theater were presented with an ever-scrolling list of names and dates projected on a screen at the stage's proscenium - the names of the men, in the hundreds of thousands, who were killed in the most violent military conflict mankind had ever engaged in. This, among other elements of Tomer Zvulun's new production of [*Silent Night*](http://www.kennedy-center.org/calendar/event/OTOSB), winner of the 2012 Pulitzer Prize for music composed by Kevin Puts on a libretto by Mark Campbell, lets the piece serve as much as a  memorial than simply a piece of theater. But this aspect of it made me feel conflicted about it as a critic; I found myself thinking, *am I allowed to hate this piece as much as I do?*

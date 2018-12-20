@@ -1,5 +1,5 @@
 ---
-title: Flipside Opera throws a "Greeriad"
+title: "Flipside Opera throws a &quot;Greeriad&quot;"
 ---
 
 ## What appealed to you about *Greeriad*, and why did you want to bring it to Manitoba audiences?

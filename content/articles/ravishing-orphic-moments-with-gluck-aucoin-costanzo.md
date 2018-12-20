@@ -1,5 +1,5 @@
 ---
-title: Ravishing Orphic Moments with Gluck, Aucoin & Costanzo
+title: "Ravishing Orphic Moments with Gluck, Aucoin &amp; Costanzo"
 ---
 
 Ravishing best describes the subtly titled *Orphic Moments*, the joining of Christoph Gluck's *Orfeo ed Euridice* and Matthew Aucoin's *The Orphic Moment*. First produced by the acclaimed countertenor, [Anthony Roth Costanzo](/scene/people/anthony-roth-costanzo/), who sings Orfeo, at Brooklyn's National Sawdust, it moved on to the Salzburg State Theater.

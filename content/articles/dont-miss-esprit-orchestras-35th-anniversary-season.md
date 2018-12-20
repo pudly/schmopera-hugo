@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Esprit Orchestra's 35th anniversary season"
+title: "Don&#039;t miss: Esprit Orchestra&#039;s 35th anniversary season"
 ---
 
 October 2017 will mark the start of the [Esprit Orchestra](/scene/companies/esprit-orchestra/)'s 35th anniversary season, which continues the ensemble's focus on Canadian content with three world-premiere performances, and five Canadian premieres of works by internationally-acclaimed composers. All four concerts feature pre-concert chats moderated by Canadian composer [Alexina Louie](/talking-with-singers-alexina-louie/).

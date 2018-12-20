@@ -1,5 +1,5 @@
 ---
-title: "Overdue for the stage: Haymarket Opera Company's Ariane et Bachus"
+title: "Overdue for the stage: Haymarket Opera Company&#039;s Ariane et Bachus"
 ---
 
 The [Haymarket Opera Company](/scene/companies/haymarket-opera-company/), a Chicago-based period performance troupe devoted to performances of 17th- and 18th-century operas, opened their 2017/18 season on September 30 with a performance of Marin Marais' [*Ariane et Bachus*](http://www.haymarketopera.org/arianeetbachus/). This was Haymarket's largest production to date, and marks the first fully-staged production of *Ariane et Bachus* since the 1696 premiere at the Académie Royale de Musique in Paris. For this production, Haymarket utilized a critical performance score newly prepared by Brazilian scholar Silvana Scarinci and the Laboratory of Early Music (LAMUSA). Ms. Scarinci, an accomplished lutenist, also performed in the orchestra. 

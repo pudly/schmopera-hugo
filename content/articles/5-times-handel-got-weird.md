@@ -1,5 +1,5 @@
 ---
-title: 5 times Handel got weird
+title: "5 times Handel got weird"
 ---
 
 There's something about Handel's operas that seems to lend a particularly blank slate to directors. Some of the wackiest takes on opera by the most *Regie* of the "concept" directors happen in Baroque opera, and Handel's works get their fair share. That's not to say that none of these ideas work well, but they sure can be weird.

@@ -1,5 +1,5 @@
 ---
-title: Opera adapts a medium more adept at adapting
+title: "Opera adapts a medium more adept at adapting"
 ---
 
 As much flack as Hollywood gets for retooling old properties, mainstream contemporary opera could be similarly chided for borrowing from film. Heggie's hit *Dead Man Walking* was a star studded movie, itself adapted from a book. He also recently redid *It's a Wonderful Life*. I doubt *Cold Mountain* (Jennifer Higdon) and *Brokeback Mountain* (Charles Wuorinen) would have been mounted with such fanfare had the movies not achieved critical success. Kevin Puts's Pulitzer Prize-winning *Silent Night* is based on the screenplay for *Joyeux Noël*, and Thomas Adés' *Exterminating Angel*, Missy Mazzoli's *Breaking the Waves*, and Nico Muhly's *Marnie* all adapt works by revered art film directors. How does Yuval Sharon's new Oper Frankfurt production of Olga Neuwirth's 2003 adaptation of David Lynch's classic film [*Lost Highway*](https://oper-frankfurt.de/en/season-calendar/lost-highway/) fit into the movie-opera paradigm?

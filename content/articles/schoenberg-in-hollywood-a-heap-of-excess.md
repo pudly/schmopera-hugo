@@ -1,5 +1,5 @@
 ---
-title: Schoenberg in Hollywood & a heap of excess
+title: "Schoenberg in Hollywood &amp; a heap of excess"
 ---
 
 The question of how to express one's identity in music is one of the music world's most pervasive questions for all people who partake in music as an art form. For nobody was this more true than Arnold Schoenberg, a singular figure in music whose own personal crises between himself and the world around him eventually led to a revolution that completely changed the face of Western concert music, for better and worse. 

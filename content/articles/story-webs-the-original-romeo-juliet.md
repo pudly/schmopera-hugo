@@ -1,5 +1,5 @@
 ---
-title: Story webs & the original Romeo & Juliet
+title: "Story webs &amp; the original Romeo &amp; Juliet"
 ---
 
 No piece of art is created in a vacuum. 

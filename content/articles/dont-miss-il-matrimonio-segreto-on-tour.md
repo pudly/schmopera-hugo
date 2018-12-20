@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Il matrimonio segreto on tour"
+title: "Don&#039;t miss: Il matrimonio segreto on tour"
 ---
 
 ## What do you like about the story of *Il matrimonio segreto*?

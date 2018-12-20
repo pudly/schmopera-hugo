@@ -1,5 +1,5 @@
 ---
-title: "Thousands of Miles: "It's raw.""
+title: "Thousands of Miles: &quot;It&#039;s raw.&quot;"
 ---
 
 "We were really, really coming from two different worlds," says mezzo-soprano [Kate Lindsey](/talking-with-singers-kate-lindsey/) about working with jazz pianist [Baptiste Trotignon](http://www.baptistetrotignon.com/) to create her new album, [*Thousands of Miles*](https://www.amazon.co.uk/Thousands-Miles-Kate-Lindsey/dp/B06Y5T4BWJ/ref=sr_1_1?s=music&ie=UTF8&qid=1492278601&sr=1-1&keywords=thousands+of+miles), available **May 19th**.

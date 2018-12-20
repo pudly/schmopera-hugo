@@ -1,5 +1,5 @@
 ---
-title: "Heartfelt and intimate: Manitoba Opera's La Traviata"
+title: "Heartfelt and intimate: Manitoba Opera&#039;s La Traviata"
 ---
 
 Manitoba Opera's production of Verdi's *La Traviata* has everything you need for a gratifying night of opera theatre: great voices, an excellent orchestra, and a beautiful set. Add to that the excitement of seeing live performers of the highest calibre, with all the variables that that can bring, and you have the recipe for a great night out.

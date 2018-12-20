@@ -1,5 +1,5 @@
 ---
-title: Nabucco is hard to find in the latest LA Opera production
+title: "Nabucco is hard to find in the latest LA Opera production"
 ---
 
 A friend texted me as she was leaving the LA Opera production of [*Nabucco*](https://www.laopera.org/season/1718-Season/Nabucco/) and asked if I could explain the curtain call. The curtain call took some deciphering but it was simply the capper to a production that shouldn't have been called *Nabucco*, but rather "An Evening with Director Thaddeus Strassberger." 

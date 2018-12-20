@@ -1,5 +1,5 @@
 ---
-title: 4 things you're probably thankful for if you're an opera fan
+title: "4 things you&#039;re probably thankful for if you&#039;re an opera fan"
 ---
 
 ## Surtitles™

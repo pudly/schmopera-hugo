@@ -1,5 +1,5 @@
 ---
-title: "Distractions & indifference: Opera Omaha's Medea"
+title: "Distractions &amp; indifference: Opera Omaha&#039;s Medea"
 ---
 
 Luigi Cherubini's [*Medea*](https://www.operaomaha.org/season-tickets/current-season/2017-2018/medea) tells the story of the ultimate scorned woman. This opera is not produced very frequently which is a shame. The music is compelling, and the emotional drama is just as relevant today as it was when Euripides penned the original play in 431 BC. This [new co-production](https://www.operaomaha.org/season-tickets/current-season/2017-2018/medea) by Opera Omaha and Wexford Opera was designed by actress Fiona Shaw (Aunt Petunia from the *Harry Potter* films!) and conducted by Jane Glover. Women were at the forefront on and off the stage.

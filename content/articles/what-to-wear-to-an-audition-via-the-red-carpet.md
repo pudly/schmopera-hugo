@@ -1,5 +1,5 @@
 ---
-title: What to wear to an audition, via the red carpet
+title: "What to wear to an audition, via the red carpet"
 ---
 
 Auditions are fun, right? Completely fun. I know it gets old sometimes, but I always did find the ritual of dressing for an audition quite calming. Something to do other than be nervous, I figure. I do like the mini fashion-show with which I'm presented at any audition venue; I like noticing which mezzos stubbornly wear their best dress to sing Siebel (why not?), and whether or not the baritones are the type to match their shoes to their whatever (hey, [Cameron McPhail](/scene/people/cameron-mcphail/)). 

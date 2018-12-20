@@ -1,5 +1,5 @@
 ---
-title: "Steps forward for opera's women: Tosca at PBO"
+title: "Steps forward for opera&#039;s women: Tosca at PBO"
 ---
 
 When Tosca falls to her death from atop the Castel Sant'Angelo, the soldiers standing guard look on in shock – all but one, hovering in the background at stage right, who slowly removes his cap. It's a small motion, barely noticable amid the high-flying drama of the opera's final scene – but there's meaning in it, too – sadness, horror, and respect – as though to say, If only things had turned out differently.

@@ -1,5 +1,5 @@
 ---
-title: "Pianists: where's the fire?"
+title: "Pianists: where&#039;s the fire?"
 ---
 
 It can take a long time for a pianist to realize that their instrument is an anomaly. It's an odd duck, a minority of sorts even among the instruments found in a Western ensemble like a symphony orchestra. 

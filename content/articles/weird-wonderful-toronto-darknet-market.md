@@ -1,5 +1,5 @@
 ---
-title: "Weird & wonderful: Toronto Darknet Market"
+title: "Weird &amp; wonderful: Toronto Darknet Market"
 ---
 
 Last night I went to [Mây](http://www.maytoronto.com/) on Dundas West for one of the most compact, *strange* evenings of music theatre I've ever seen. Canadian tenor [Jonathan MacArthur](/scene/people/jonathan-macarthur/), [Loose TEA Music Theatre](/scene/companies/loose-tea-music-theatre/) Artistic Director Alaina Viau, and [Fawn Chamber Creative](/scene/companies/fawn-chamber-collective/) Artistic Director [Amanda Smith](/scene/people/amanda-smith/) have collaborated on Toronto Darknet Market, a fundraising event for Medée Toronto's 2016 production of *Medée* by Charpentier.

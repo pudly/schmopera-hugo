@@ -1,5 +1,5 @@
 ---
-title: 6 animals who love opera more than penguins
+title: "6 animals who love opera more than penguins"
 ---
 
 If you haven't yet heard, there's a certain waddle of penguins (apparently it's "waddle", not "flock"!) in Antarctica that get totally freaked out by the sound of a tenor. 

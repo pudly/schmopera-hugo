@@ -1,5 +1,5 @@
 ---
-title: An "imaginative multi-room transformation" with Music in the Barns
+title: "An &quot;imaginative multi-room transformation&quot; with Music in the Barns"
 ---
 
 [Music in the Barns](/scene/companies/music-in-the-barns/) is gearing up for an ambitious night at The Great Hall on **May 28**. The "imaginative multi-room transformation" includes live chamber music and interactive creative installations, all meant to address social and environmental issues that ring particularly true today.

@@ -1,5 +1,5 @@
 ---
-title: Kristen Seikaly on how to learn a role
+title: "Kristen Seikaly on how to learn a role"
 ---
 
 Whether you are just learning your first role or seasoning your role-learning technique, this guide is intended to help you with learning an operatic role as efficiently and painlessly as possible. I hope that you will share with me any tips and tricks that I have not mentioned here. Not only will it be helpful to my readers, it just so happens that I am learning a role right now myself! I will use the role I’m covering, Prince Orlofsky from Johann Strauss’ *Die Fledermaus*, as my guide for this tutorial. 

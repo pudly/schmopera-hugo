@@ -1,5 +1,5 @@
 ---
-title: ""Truth, as reconciliation": We Shall Not Be Moved"
+title: "&quot;Truth, as reconciliation&quot;: We Shall Not Be Moved"
 ---
 
 ## What stood out to you about the story of the MOVE bombing?

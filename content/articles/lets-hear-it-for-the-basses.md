@@ -1,5 +1,5 @@
 ---
-title: Let's hear it for the basses
+title: "Let&#039;s hear it for the basses"
 ---
 
 In an interview with Canadian bass [Robert Pomakov](/talking-with-singers-robert-pomakov/), he summed up the duties of his voice type on the operatic stage: "King, god, demon, loser".

@@ -1,5 +1,5 @@
 ---
-title: "Killer women: Shadwell Opera's double-bill"
+title: "Killer women: Shadwell Opera&#039;s double-bill"
 ---
 
 ## Where did the idea come from of pairing these two one-acts together?

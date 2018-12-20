@@ -1,5 +1,5 @@
 ---
-title: "Beloved Bernstein: HGO's West Side Story"
+title: "Beloved Bernstein: HGO&#039;s West Side Story"
 ---
 
 The production of *West Side Story* that [Houston Grand Opera](/scene/companies/houston-grand-opera/) mounted this past Friday in the centennial year of its composer, the magisterially versatile Leonard Bernstein, proved itself to have been long overdue. I have always been a fan of his music, which brilliantly integrates elements of the culture of the United States into a cohesive whole; though this Broadway musical, the first one I have seen in a long time, rather underwhelmed me in certain aspects in comparison to the hype with which it has been promoted.

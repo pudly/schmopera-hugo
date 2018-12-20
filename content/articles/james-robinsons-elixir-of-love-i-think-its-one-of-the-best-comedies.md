@@ -1,5 +1,5 @@
 ---
-title: "James Robinson's Elixir of Love: "I think it's one of the best comedies.""
+title: "James Robinson&#039;s Elixir of Love: &quot;I think it&#039;s one of the best comedies.&quot;"
 ---
 
 "You know what I wish I could sing?" poses director James Robinson, responding to my half-serious challenge of "If-You-Were-A-Singer". He prefaces his answer, recalling a particularly memorable performance he saw at The Santa Fe Opera: "Tatiana Troyanos was performing the title role of *Ariodante*. I wish I could sing that." Laughing, he adds one important caveat, "I also wish I could sing it with Troyanos' voice!"

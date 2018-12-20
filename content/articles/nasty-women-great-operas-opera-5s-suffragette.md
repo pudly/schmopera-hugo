@@ -1,5 +1,5 @@
 ---
-title: "Nasty women, great operas: Opera 5's Suffragette"
+title: "Nasty women, great operas: Opera 5&#039;s Suffragette"
 ---
 
 ## What are you most excited about in presenting this double-bill in Toronto?

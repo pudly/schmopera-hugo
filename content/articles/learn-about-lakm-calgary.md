@@ -1,5 +1,5 @@
 ---
-title: Learn about Lakmé (Calgary)
+title: "Learn about Lakmé (Calgary)"
 ---
 
 

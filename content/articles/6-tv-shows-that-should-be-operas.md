@@ -1,5 +1,5 @@
 ---
-title: 6 TV shows that should be operas
+title: "6 TV shows that should be operas"
 ---
 
 ### 1. _House of Cards_

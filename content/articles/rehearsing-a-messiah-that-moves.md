@@ -1,5 +1,5 @@
 ---
-title: Rehearsing "a Messiah that moves."
+title: "Rehearsing &quot;a Messiah that moves.&quot;"
 ---
 
 [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) just closed their "inspiring" production of *AtG's  Messiah*, the company's staged, choreographed, barefoot take on Handel's classic that has audiences delighted and inspired. I'm proud to have been a member of the music staff for this show, working with a 16-member chorus, 4 soloists, AtG Music Director [Topher Mokrzewski](/scene/people/christopher-mokrzewski/), director [Joel Ivany](/scene/people/joel-ivany/) and choreographer [Jennifer Nichols](/scene/people/jennifer-nichols/).

@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Viva Verdi!"
+title: "Don&#039;t miss: Viva Verdi!"
 ---
 
 ## What do you love best about Verdi's music?

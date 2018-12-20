@@ -1,5 +1,5 @@
 ---
-title: 3 ways to fight boredom at the opera
+title: "3 ways to fight boredom at the opera"
 ---
 
 ## Get your definitions down

@@ -1,5 +1,5 @@
 ---
-title: Seriously sung Christmas carols
+title: "Seriously sung Christmas carols"
 ---
 
 Christmas is a great time for mashing unlikely singers together onto one stage so they can all sing some carols together. Like in 2000, when Plácido Domingo did a holiday concert with Vanessa Williams, Tony Bennett, and Charlotte Church. Here's Plácido and Tony giving us a good old "The First Noël":

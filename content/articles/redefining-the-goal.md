@@ -1,5 +1,5 @@
 ---
-title: Redefining the goal
+title: "Redefining the goal"
 ---
 
 The first opera I experienced was *Don Giovanni*. I hated it. I wasn't an opera person.

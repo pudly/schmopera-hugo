@@ -1,5 +1,5 @@
 ---
-title: "Remember me, but ah, forget my fate"
+title: "&quot;Remember me, but ah, forget my fate&quot;"
 ---
 
 <p>

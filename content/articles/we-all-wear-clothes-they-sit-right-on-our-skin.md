@@ -1,5 +1,5 @@
 ---
-title: "We all wear clothes. They sit right on our skin."
+title: "&quot;We all wear clothes. They sit right on our skin.&quot;"
 ---
 
 ## What is *Sweat* about? 

@@ -1,5 +1,5 @@
 ---
-title: How to Sit Through Opera and Other Wikigems
+title: "How to Sit Through Opera and Other Wikigems"
 ---
 
 <p>

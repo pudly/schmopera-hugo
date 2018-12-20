@@ -1,5 +1,5 @@
 ---
-title: The performing arts, in 360˚
+title: "The performing arts, in 360˚"
 ---
 
 Readers, you're gonna love this.

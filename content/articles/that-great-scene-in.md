@@ -1,5 +1,5 @@
 ---
-title: That great scene in...
+title: "That great scene in..."
 ---
 
 I'm on the _House of Cards_ train, because I'm always rooting for the underdog. Kevin Spacey's the underdog, right? Anyway, I watched this brilliant scene play out in one of the episodes; it was one of those incredible scenes where both parties have clear objectives, but one party's objective is to _screw the other party over_. I don't know what it says about me that I love scenes like this, but it's what makes me love Quentin Tarantino. Christoph Waltz, anyone?

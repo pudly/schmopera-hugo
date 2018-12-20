@@ -1,5 +1,5 @@
 ---
-title: Opera da Camera's Hänsel und Gretel
+title: "Opera da Camera&#039;s Hänsel und Gretel"
 ---
 
 Starting October 17th, Montréal's [Opera da Camera](/scene/companies/opera-da-camera/) begins its 2015/16 season with an operatic favourite: Humperdinck's *Hänsel und Gretel*. The classic story and beloved music make this a great multidisciplinary opera, and one meant for all ages. "The choice of opera is of course vital," says Artistic Director (and Hansel!) [Meagan Zantingh](/scene/people/meagan-zantingh/), "and with Humperdinck's *Hänsel und Gretel*, you have a timeless, classic fairy-tale that has all the elements of good story-telling. The story is familiar for children, and in our production, the audience will see children on stage, which is also important." In addition to soprano [Valérie Bélanger](/scene/people/valerie-belanger/) as Gretel and mezzo [Kathrin Welte](/scene/people/kathrin-welte/) as The Witch will feature a group of young dancers from the [Hudson Classical Ballet School](http://hudsonballet.ca/), actors from [John Abbott College](http://www.johnabbott.qc.ca/), and a young chorus made up of the Sous-sol Singers. "[The audience will] be able to watch artists of all ages become part of the story."

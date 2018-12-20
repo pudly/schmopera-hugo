@@ -1,5 +1,5 @@
 ---
-title: Schmopera on the radio
+title: "Schmopera on the radio"
 ---
 
 <p class="intro">

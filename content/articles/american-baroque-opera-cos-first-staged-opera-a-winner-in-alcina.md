@@ -1,5 +1,5 @@
 ---
-title: American Baroque Opera Co.'s first staged opera a winner in Alcina
+title: "American Baroque Opera Co.&#039;s first staged opera a winner in Alcina"
 ---
 
 This past weekend, the [American Baroque Opera Company](/scene/people/american-baroque-opera-co/) had its first staged operatic performance, for which its previous season concerts were a very pleasing sampler. In presenting George Frideric Handel's *Alcina* this past weekend, they demonstrated a fresh, uncluttered approach to Baroque opera that I have long awaited in this part of the country, one which trusts that all the disparate elements in the production will combine together to form a cohesive whole.

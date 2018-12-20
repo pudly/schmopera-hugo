@@ -1,5 +1,5 @@
 ---
-title: Stuff to see in January
+title: "Stuff to see in January"
 ---
 
 <h3>Sunday, January 11th, 3:30pm, Trinity St. Paul's:<br>

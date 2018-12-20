@@ -1,5 +1,5 @@
 ---
-title: "Opera's love stories: 3 reasons they're doomed"
+title: "Opera&#039;s love stories: 3 reasons they&#039;re doomed"
 ---
 
 ## Illness

@@ -1,5 +1,5 @@
 ---
-title: Power plays and crossing lines 
+title: "Power plays and crossing lines "
 ---
 
 [Jeff Melanson has resigned](http://www.theglobeandmail.com/arts/music/toronto-symphony-orchestra-president-and-ceo-jeff-melanson-resigns/article29431208/) as President and CEO of the Toronto Symphony Orchestra, following [allegations made by his ex-wife](http://www.theglobeandmail.com/news/national/mccain-and-melanson-an-arts-world-marriage-unravels/article29204852/), Eleanor McCain, about his conduct at work and within their marriage. The claims brought up an alleged history of sexual harassment, on-the-job drinking, and other questionable behaviour during his time at the TSO, as well as The Banff Centre and the National Ballet School. 

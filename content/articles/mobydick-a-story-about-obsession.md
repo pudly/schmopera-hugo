@@ -1,5 +1,5 @@
 ---
-title: "Moby-Dick: "A story about obsession.""
+title: "Moby-Dick: &quot;A story about obsession.&quot;"
 ---
 
 ### What are some unique pressures/challenges that come with creating a new production of a well-received contemporary opera? How do these differ from presenting a new production of a more traditional staple like *La bohème* or *Le nozze di Figaro*?

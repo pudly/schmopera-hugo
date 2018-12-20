@@ -1,5 +1,5 @@
 ---
-title: Learn about Traviata (COC)
+title: "Learn about Traviata (COC)"
 ---
 
 

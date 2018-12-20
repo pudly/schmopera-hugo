@@ -1,5 +1,5 @@
 ---
-title: Like our content? Meet our authors!
+title: "Like our content? Meet our authors!"
 ---
 
 We're proud of the content here on Schmopera.com, and we couldn't do it without our contributors.

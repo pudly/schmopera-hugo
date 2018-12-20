@@ -1,5 +1,5 @@
 ---
-title: "In review: Opéra de Montréal's Atelier Lyrique joins the COC Ensemble Studio"
+title: "In review: Opéra de Montréal&#039;s Atelier Lyrique joins the COC Ensemble Studio"
 ---
 
 Each year the COC Ensemble and the Atelier lyrique de L'Opéra de Montréal send several of their respective artists on a week-long exchange. The artists travel to Toronto or to Montréal to work with teachers, coaches and dramaturges at the opposite company, and give local concerts highlighting the visiting singers and pianists. So like previous years, my curiosity was piqued as I arrived at the concert.

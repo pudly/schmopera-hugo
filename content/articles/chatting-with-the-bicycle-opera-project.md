@@ -1,5 +1,5 @@
 ---
-title: Chatting with the Bicycle Opera Project
+title: "Chatting with the Bicycle Opera Project"
 ---
 
 ### 1. Can you tell us any details about what audiences will hear from BOP this summer?

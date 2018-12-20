@@ -1,5 +1,5 @@
 ---
-title: "In review: the COC's A Masked Ball"
+title: "In review: the COC&#039;s A Masked Ball"
 ---
 
 On Wednesday, I braved the ridiculous snow for a much-needed Verdi fix at the Four Seasons Centre. The Canadian Opera Company's current production of [_A Masked Ball_](http://www.coc.ca/PerformancesAndTickets/1314Season/UnBalloInMaschera.aspx) had piqued my interest, both for the exciting cast and for the production, of which I'd only seen a few curious photos.

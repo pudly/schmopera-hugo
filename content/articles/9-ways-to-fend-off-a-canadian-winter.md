@@ -1,5 +1,5 @@
 ---
-title: 9 ways to fend off a Canadian winter
+title: "9 ways to fend off a Canadian winter"
 ---
 
 ## *High Standards* from Talisker Players

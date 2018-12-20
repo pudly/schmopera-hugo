@@ -1,5 +1,5 @@
 ---
-title: "Tim Albery: flawed operas & falling empires"
+title: "Tim Albery: flawed operas &amp; falling empires"
 ---
 
 "I remember when I thought I might want to be a director," says Tim Albery, looking back on his childhood and teenage years spent as the child of theatrically-inclined parents. "My father was walking along the street after rehearsal with an actor called Daniel Massey - he was playing the lead in some not-terribly-good musical," he recalls. "They were talking about a particular scene and why it didn't work, and I piped up with, 'well, that bit there, I never understand what's going on in that bit there,' or some such contribution." Albery laughs at the memory of his 15 year-old self, whom he calls "too young to have an opinion," and remembers his father and Massey laughing, too. "I guess that was probably a sign that I was quite interested in the shape of a scene."

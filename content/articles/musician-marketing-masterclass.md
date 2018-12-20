@@ -1,5 +1,5 @@
 ---
-title: Musician Marketing Masterclass
+title: "Musician Marketing Masterclass"
 ---
 
 If you are a professional musician, you’re stuck on the B team until your marketing package includes:

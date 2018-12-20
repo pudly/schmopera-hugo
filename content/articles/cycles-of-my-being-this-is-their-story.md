@@ -1,5 +1,5 @@
 ---
-title: "Cycles of My Being: "This is their story.""
+title: "Cycles of My Being: &quot;This is their story.&quot;"
 ---
 
 ## What can you tell us about *Cycles of My Being*? How have you been involved in its creation?

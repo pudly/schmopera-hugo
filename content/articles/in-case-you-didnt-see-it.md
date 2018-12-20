@@ -1,5 +1,5 @@
 ---
-title: In case you didn't see it...
+title: "In case you didn&#039;t see it..."
 ---
 
 A recent viral video has been pinging around social media-ville, showing an adorable little girl conducting along to choral music in church. And she conducts that choral music _from her guts_. Have a look:

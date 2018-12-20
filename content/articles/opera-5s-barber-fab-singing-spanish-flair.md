@@ -1,5 +1,5 @@
 ---
-title: "Opera 5's Barber: fab singing & Spanish flair"
+title: "Opera 5&#039;s Barber: fab singing &amp; Spanish flair"
 ---
 
 Opera 5's [*Il barbiere di Siviglia*](http://opera5.ca/barber/) is up and running at The Factory Theatre, marking the company's first production with its new leadership: Artistic Director Jessica Derventzis and Music Director Evan Mitchell.

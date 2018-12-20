@@ -1,5 +1,5 @@
 ---
-title: Learn about Midsummer (POV)
+title: "Learn about Midsummer (POV)"
 ---
 
 

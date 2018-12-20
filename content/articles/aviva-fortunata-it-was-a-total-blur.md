@@ -1,5 +1,5 @@
 ---
-title: "Aviva Fortunata: "It was a total blur!""
+title: "Aviva Fortunata: &quot;It was a total blur!&quot;"
 ---
 
 ## What were your first thoughts when you got the call?

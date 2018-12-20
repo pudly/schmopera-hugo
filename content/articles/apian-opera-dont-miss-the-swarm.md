@@ -1,5 +1,5 @@
 ---
-title: "Apian opera: don't miss The Swarm"
+title: "Apian opera: don&#039;t miss The Swarm"
 ---
 
 ## Can you tell us the process of notating a score like *The Swarm*? Were there any unique challenges for the singers in learning and memorising it?

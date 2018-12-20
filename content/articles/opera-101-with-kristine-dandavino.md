@@ -1,5 +1,5 @@
 ---
-title: Opera 101 with Kristine Dandavino
+title: "Opera 101 with Kristine Dandavino"
 ---
 
 ### Can you give us the "Cole's Notes" version of the history of Oshawa Opera?

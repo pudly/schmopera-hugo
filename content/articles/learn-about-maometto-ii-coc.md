@@ -1,5 +1,5 @@
 ---
-title: Learn about Maometto II (COC)
+title: "Learn about Maometto II (COC)"
 ---
 
 

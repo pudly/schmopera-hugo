@@ -1,5 +1,5 @@
 ---
-title: "The Mother of All Demos," Onstage Again
+title: "&quot;The Mother of All Demos,&quot; Onstage Again"
 ---
 
 <p>

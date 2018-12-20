@@ -1,5 +1,5 @@
 ---
-title: A little Mozart, a little murder, a lot of fun
+title: "A little Mozart, a little murder, a lot of fun"
 ---
 
 Over the last few seasons, [Joel Ivany](/scene/people/joel-ivany/) has been pushing the limits of what it means to mess with Mozart. The Artistic Director of [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) has written three new librettos, set to three "transladaptations" of Mozart's *Le nozze di Figaro* (*Figaro's Wedding*), *Don Giovanni* (*#UncleJohn*), and *Così fan tutte* (*A Little Too Cozy*); this summer at The Banff Centre, along with music director Miloš Repicky, Ivany has presented *No One's Safe*, a totally cool immersive theatre experience informally dubbed a "Mozart Murder Mystery Mashup".

@@ -1,5 +1,5 @@
 ---
-title: "There's a role for you in Schmopera: Act II!"
+title: "There&#039;s a role for you in Schmopera: Act II!"
 ---
 
 Readers, we've got something that we're pretty darned excited to tell you about.

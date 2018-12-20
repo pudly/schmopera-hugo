@@ -1,5 +1,5 @@
 ---
-title: r/opera's jackpot post
+title: "r/opera&#039;s jackpot post"
 ---
 
 There is a dude out there on the Internet who has gotten the opera bug. Great news, we all say! Good choice, sir. Even better, the budding operaphile is reaching out via [r/opera](http://www.reddit.com/r/opera/), asking how to get a proper introduction to opera. His post is titled, ["Help a noob expand his opera horizons"](http://np.reddit.com/r/opera/comments/2d917h/help_a_noob_expand_his_opera_horizons/), and he asks,

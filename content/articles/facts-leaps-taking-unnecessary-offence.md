@@ -1,5 +1,5 @@
 ---
-title: Facts, leaps & taking unnecessary offence
+title: "Facts, leaps &amp; taking unnecessary offence"
 ---
 
 In what's arguably already one of the biggest news weeks of 2017, Martha C. Nussbaum's *New York Times* article about Strauss' *Der Rosenkavalier*, ["Sex, Love and the Aging Woman"](https://www.nytimes.com/2017/10/30/opinion/sex-love-aging-woman.html) stood out. Frankly, it had me a bit irked. She points to "three lies" told by Strauss and librettist Hofmannsthal in their 1910 story about a Viennese woman and her younger lover:

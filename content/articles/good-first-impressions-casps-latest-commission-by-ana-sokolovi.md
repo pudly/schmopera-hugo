@@ -1,5 +1,5 @@
 ---
-title: "Good first impressions: CASP's latest commission by Ana Sokolović"
+title: "Good first impressions: CASP&#039;s latest commission by Ana Sokolović"
 ---
 
 This week, the Richard Bradshaw Amphitheatre saw a lunchtime concert that can only be described as *very, very cool*.

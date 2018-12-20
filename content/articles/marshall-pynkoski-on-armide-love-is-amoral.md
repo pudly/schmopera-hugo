@@ -1,5 +1,5 @@
 ---
-title: "Marshall Pynkoski on Armide: "Love is amoral.""
+title: "Marshall Pynkoski on Armide: &quot;Love is amoral.&quot;"
 ---
 
 Next week, [Opera Atelier](/scene/companies/opera-atelier/) opens its 30th anniversary season with their "landmark production" of Lully's [*Armide*](http://operaatelier.com/season/15-16-season/). Artistic Director Marshall Pynkoski directs a solid cast of OA veterans, including [Peggy Kriha Dye](/scene/people/peggy-kriha-dye/) in the title role, [Colin Ainsworth](/scene/people/colin-ainsworth/) as Renaud, and [Stephen Hegedus](/scene/people/stephen-hegedus/) as Hidraot. There's a lot about this *Armide* that is familiar to Opera Atelier and its audiences; yet, Lully's work is no ordinary love story.

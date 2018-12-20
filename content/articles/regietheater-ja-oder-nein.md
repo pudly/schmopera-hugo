@@ -1,5 +1,5 @@
 ---
-title: Regietheater? Ja oder nein?
+title: "Regietheater? Ja oder nein?"
 ---
 
 <p>

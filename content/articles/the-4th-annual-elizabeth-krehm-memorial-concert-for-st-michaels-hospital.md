@@ -1,5 +1,5 @@
 ---
-title: The 4th annual Elizabeth Krehm Memorial Concert for St. Michael's Hospital
+title: "The 4th annual Elizabeth Krehm Memorial Concert for St. Michael&#039;s Hospital"
 ---
 
 Hello Schmop-Tops, 

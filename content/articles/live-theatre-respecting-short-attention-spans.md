@@ -1,5 +1,5 @@
 ---
-title: Live theatre & respecting short attention spans
+title: "Live theatre &amp; respecting short attention spans"
 ---
 
 The other day, I was witness to the stunning brevity of a first-grader's attention span.

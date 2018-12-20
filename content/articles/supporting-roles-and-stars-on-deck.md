@@ -1,5 +1,5 @@
 ---
-title: Supporting roles, and stars on deck
+title: "Supporting roles, and stars on deck"
 ---
 
 Like the person who keeps an eye on the extras in their favourite TV shows, operaphiles like to look twice at the supporting roles on the operatic stage. It can be a perfect window into the way opera gets cast, and how artists advance their careers. 

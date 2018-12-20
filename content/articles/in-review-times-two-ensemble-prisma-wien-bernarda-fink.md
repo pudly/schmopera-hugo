@@ -1,5 +1,5 @@
 ---
-title: "In review times two: Ensemble Prisma Wien & Bernarda Fink"
+title: "In review times two: Ensemble Prisma Wien &amp; Bernarda Fink"
 ---
 
 **Jenna**: Great chamber groups can remind you of the simple pleasures found in listening to music; the small exchanges between musicians feel as though you're in on a secret, and inevitably you grow to "know" the players and their roles. [Ensemble Prisma Wien](https://ensemble-prisma.jimdo.com/)'s debut concert at Wigmore Hall was a successful combination of excellent artists, and the kind of music that seems to flow organically from the group's dynamic. The Ensemble gave us music by Haydn, Schubert and Dvořák, all effortless melodists whose tunes feel as though they've always existed. 

@@ -1,5 +1,5 @@
 ---
-title: Opera 5's Aria Umezawa on Offenbach/Hahn
+title: "Opera 5&#039;s Aria Umezawa on Offenbach/Hahn"
 ---
 
 ### Why pair together _Ba-ta-clan_ and _L'île du rêve_?

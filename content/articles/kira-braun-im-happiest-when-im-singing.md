@@ -1,5 +1,5 @@
 ---
-title: "Kira Braun: "I'm happiest when I'm singing.""
+title: "Kira Braun: &quot;I&#039;m happiest when I&#039;m singing.&quot;"
 ---
 
 <h3>1. What's it like to be a Braun?<br>

@@ -1,5 +1,5 @@
 ---
-title: "Kevin Puts: "I know who I am as a composer.""
+title: "Kevin Puts: &quot;I know who I am as a composer.&quot;"
 ---
 
 ## Do you have a technique or process that's specific to writing opera? Where do you begin?

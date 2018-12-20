@@ -1,5 +1,5 @@
 ---
-title: "Great ideas: Fenlon & Fenlon"
+title: "Great ideas: Fenlon &amp; Fenlon"
 ---
 
 Canadian soprano and pianist [Rachel Fenlon](/scene/people/rachel-fenlon/) is redefining what it means to curate one's own recital.

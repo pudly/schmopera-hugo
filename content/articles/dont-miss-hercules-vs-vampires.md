@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Hercules vs Vampires"
+title: "Don&#039;t miss: Hercules vs Vampires"
 ---
 
 ## What's the most interesting part about combining opera with a film like *Hercules in the Underworld*?

@@ -1,5 +1,5 @@
 ---
-title: Paris Reflected at Southwark Cathedral
+title: "Paris Reflected at Southwark Cathedral"
 ---
 
 The [City of London Sinfonia](/scene/companies/city-of-london-sinfonia/) closed its RE:Imagine series last night at the Southwark Cathedral, with *Paris Reflected*, a concert that brought listeners into the *Belle Époque*. It was the time of Debussy, Fauré, Ravel, Monet, Manet, Pissarro, the building of Paris' Sacré-Coeur Basilica, and The Great War. The latter hung over so much of the art and music of the time, yet it's always a surprising reminder to experience it, and to see and hear all the light and kindness in these works.

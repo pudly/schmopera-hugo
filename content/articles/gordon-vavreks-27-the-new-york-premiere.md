@@ -1,5 +1,5 @@
 ---
-title: "Gordon & Vavrek's 27: the New York premiere"
+title: "Gordon &amp; Vavrek&#039;s 27: the New York premiere"
 ---
 
 ## What prompted you to focus on this aspect in the life of Gertrude Stein, her relationship with Alice B. Toklas?

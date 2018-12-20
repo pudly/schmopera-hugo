@@ -1,5 +1,5 @@
 ---
-title: Teddy Roosevelt, the Chicago Cubs, & operas by women at the Met
+title: "Teddy Roosevelt, the Chicago Cubs, &amp; operas by women at the Met"
 ---
 
 The Metropolitan Opera is gearing up for its production of [Kaaija Saariaho's *L'amour de loin*](http://www.metopera.org/Season/2016-17-Season/amour-de-loin-saariaho-tickets/), which runs December 1-29; it marks the first opera by a woman to go up at the Met since Ethel Smyth's *Der Wald* in 1903.

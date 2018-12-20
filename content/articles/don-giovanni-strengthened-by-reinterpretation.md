@@ -1,5 +1,5 @@
 ---
-title: "Don Giovanni: "strengthened by reinterpretation.""
+title: "Don Giovanni: &quot;strengthened by reinterpretation.&quot;"
 ---
 
 ## What inspired you to create your own arrangement of *Don Giovanni*?

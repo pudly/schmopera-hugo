@@ -1,5 +1,5 @@
 ---
-title: 5 Questions for Mireille Asselin & the Amici Chamber Ensemble
+title: "5 Questions for Mireille Asselin &amp; the Amici Chamber Ensemble"
 ---
 
 ## 1\. All of you have experience working in a large scale (symphony orchestras, large opera houses). What changes when the ensemble becomes small, as with this concert?  

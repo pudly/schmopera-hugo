@@ -1,5 +1,5 @@
 ---
-title: "Don't miss it: SongFest's fast-approaching 2018 deadlines"
+title: "Don&#039;t miss it: SongFest&#039;s fast-approaching 2018 deadlines"
 ---
 
 Looking for a summer training fix that offers a refreshing change from full-blown opera? The final audition dates for SongFest's 2018 Summer Institute are fast approaching:

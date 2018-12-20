@@ -1,5 +1,5 @@
 ---
-title: I Love a Gala
+title: "I Love a Gala"
 ---
 
 On Friday night, PBS aired _Richard Tucker at 100: An Opera Celebration._ The performance was recorded on November 17, 2013, in time to honour the centennial of late American tenor [Richard Tucker](http://en.wikipedia.org/wiki/Richard_Tucker). As of Sunday, the event has been etched into Internet stone, and even a Canadian can [watch it](http://video.pbs.org/video/2365143463/).

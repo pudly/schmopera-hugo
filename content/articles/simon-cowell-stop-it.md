@@ -1,5 +1,5 @@
 ---
-title: Simon Cowell, stop it.
+title: "Simon Cowell, stop it."
 ---
 
 Note: an update to this story has been posted [here](http://schmopera.com/simon-cowell-stop-it-an-update/).

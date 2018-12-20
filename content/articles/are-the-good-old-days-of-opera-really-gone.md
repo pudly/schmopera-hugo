@@ -1,5 +1,5 @@
 ---
-title: Are the good old days of opera really gone?
+title: "Are the good old days of opera really gone?"
 ---
 
 Are the good old days really gone?

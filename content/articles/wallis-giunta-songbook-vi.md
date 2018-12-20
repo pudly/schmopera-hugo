@@ -1,5 +1,5 @@
 ---
-title: Wallis Giunta & Songbook VI
+title: "Wallis Giunta &amp; Songbook VI"
 ---
 
 ## What will your role be with Tapestry's *Songbook VI*?

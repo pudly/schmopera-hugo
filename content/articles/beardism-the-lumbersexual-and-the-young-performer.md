@@ -1,5 +1,5 @@
 ---
-title: Beardism, the Lumbersexual, and the Young Performer
+title: "Beardism, the Lumbersexual, and the Young Performer"
 ---
 
 <p class="p1 intro">

@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Schoolyard Carmen at TSMF"
+title: "Don&#039;t miss: Schoolyard Carmen at TSMF"
 ---
 
 This month kicks off the 2017 [Toronto Summer Music Festival](http://www.torontosummermusic.com/2017-festival/) (**July 13-August 5**), and the event line-up includes Shoestring Opera's family-friendly *The Schoolyard Carmen*. Part of TSMF's **free** series of kids' concerts, [*The Schoolyard Carmen*](http://www.torontosummermusic.com/2017-festival/kids-concerts-free/july-26-schoolyard-carmen-kids-concert-2/) plays on **July 24, 10am** at Walter Hall, 80 Queen's Park, Toronto.

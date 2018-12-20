@@ -1,5 +1,5 @@
 ---
-title: Overthinking it and other traps
+title: "Overthinking it and other traps"
 ---
 
 Singers love to "figure out" the characters they play. Digging deep into a role becomes a sort of short-term obsession; they'll talk about their current (or favourite) opera character for ever and ever. They'll tell you all about what people *think* Don Giovanni or Violetta or Cavaradossi are all about, and then they'll tell you what they're *really like*. They've got the inside scoop, you see; they pore over every letter and every note of their role, trying to make it their own while living up to every legend who ever sang it before them.

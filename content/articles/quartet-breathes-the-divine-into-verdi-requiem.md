@@ -1,5 +1,5 @@
 ---
-title: Quartet breathes the divine into Verdi Requiem
+title: "Quartet breathes the divine into Verdi Requiem"
 ---
 
 This weekend, much of the world will observe the 100th anniversary of the armistice that ended World War I. In Canada, November 11th marks Remembrance Day; with it falling on a Sunday, this year, most symphonies and orchestras have programmed a Requiem or a fitting work to pay tribute to the brave women and men who paid the ultimate sacrifice both in times of war and peace. The Calgary Philharmonic Orchestra has turned to an international cast of singers to anchor its weekend production of Verdi's *Requiem*.

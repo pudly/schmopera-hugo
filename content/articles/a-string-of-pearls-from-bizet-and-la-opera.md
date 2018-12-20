@@ -1,5 +1,5 @@
 ---
-title: A string of Pearls from Bizet and LA Opera
+title: "A string of Pearls from Bizet and LA Opera"
 ---
 
 For most of [LA Opera](/scene/companies/los-angeles-opera/)'s production of Bizet's *The Pearl Fishers* (*Les pêcheurs de perles*), the audience comes to understand why opera has been called "the greatest of all art forms." In a great opera production like this one, the visual and the aural come together and affect the visceral in a way that can't be experienced anywhere else. From the moment we hear maestro Plácido Domingo's downbeat, we know we're in for such an experience. As we listen to the beautiful overture, dancers dressed as pearl divers fly in, "swimming" down to the stage from somewhere high above and beyond the proscenium arch. We view them through a scrim with a projection of moving water, so the effect is that we're under the ocean looking through an enormous window. Throughout the overture, the swimmers dive down then soar upward. They don't find anything, but in this production there are "pearls" for us to find everywhere.

@@ -1,5 +1,5 @@
 ---
-title: Coaches, voice teachers, and the grey area in between
+title: "Coaches, voice teachers, and the grey area in between"
 ---
 
 When I was in university, I remember being very confused by the voice majors and their "coaches". Almost everyone had a weekly lesson with their piano/violin/bassoon teacher, but these singers had an extra lesson-type thing, in a practice room for some reason, and with a pianist. Of course, this pianist was usually their accompanist for things like masterclasses, lessons, and recitals; I assumed they would rehearse together, but I didn't really understand why the singers referred to them as their coaches.

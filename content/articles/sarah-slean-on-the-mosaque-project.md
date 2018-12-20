@@ -1,5 +1,5 @@
 ---
-title: Sarah Slean on the Mosaïque Project
+title: "Sarah Slean on the Mosaïque Project"
 ---
 
 ## What does it mean to you to be one of the 14 composers creating this musical mosaïque?

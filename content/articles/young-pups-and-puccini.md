@@ -1,5 +1,5 @@
 ---
-title: Young Pups and Puccini
+title: "Young Pups and Puccini"
 ---
 
 George Carlin said on playing the blues, "I'll tell you a little secret about the blues: it's not enough to know which notes to play, you have to know why they need to be played."

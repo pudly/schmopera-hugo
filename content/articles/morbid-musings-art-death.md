@@ -1,5 +1,5 @@
 ---
-title: "Morbid musings: art & death"
+title: "Morbid musings: art &amp; death"
 ---
 
 How about some morbidity to kick off the weekend, readers?

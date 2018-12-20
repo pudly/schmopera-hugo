@@ -1,5 +1,5 @@
 ---
-title: Child-free opera singers & happiness
+title: "Child-free opera singers &amp; happiness"
 ---
 
 Being an opera singer is a difficult career. It's a lot of work, a lot of pressure, a lot of travel. And opera singers aren't exempt from the common question about balancing work and family life. A quick Google search shows plenty of results about women who are juggling their opera careers while being mothers and wives; and, like other industries, there are more mothers answering these kinds of questions than fathers.

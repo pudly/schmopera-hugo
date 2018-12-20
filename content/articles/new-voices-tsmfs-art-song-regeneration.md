@@ -1,5 +1,5 @@
 ---
-title: "New voices: TSMF's Art Song ReGENERATION"
+title: "New voices: TSMF&#039;s Art Song ReGENERATION"
 ---
 
 With this past weekend's Art Song reGENERATION, the Art Song Fellows of the [Toronto Summer Music Academy](http://www.torontosummermusic.com/academy/artofsong/) gave their second of two recitals at Walter Hall. Eight singers and four pianists delivered short sets of polished song performances, prepared with the help of coaches [Steven Philcox](/scene/people/steven-philcox/) and Martin Katz and Finnish soprano and mentor [Soile Isokoski](https://en.wikipedia.org/wiki/Soile_Isokoski). 

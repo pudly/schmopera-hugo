@@ -1,5 +1,5 @@
 ---
-title: "Aria guides: "Deh vieni, non tardar""
+title: "Aria guides: &quot;Deh vieni, non tardar&quot;"
 ---
 
 ### The Recit

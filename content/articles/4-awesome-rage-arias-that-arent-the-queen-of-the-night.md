@@ -1,5 +1,5 @@
 ---
-title: 4 awesome rage arias that aren't the Queen of the Night
+title: "4 awesome rage arias that aren&#039;t the Queen of the Night"
 ---
 
 ## Seething Semele

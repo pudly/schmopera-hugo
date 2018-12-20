@@ -1,5 +1,5 @@
 ---
-title: "Preparing for performance: what I didn't know I knew"
+title: "Preparing for performance: what I didn&#039;t know I knew"
 ---
 
 On the plane, somewhere between Frankfurt, Germany and the Dallas-Fort Worth Airport, I decided that I was going to crash the first rehearsal. It was explained to me that this was to be an initial, getting-to-know-you music rehearsal for only singers and music staff, but my excitement was such that I simply had to jump in to this experience as quickly as possible. Bleary-eyed, I asked my cab driver to drop me off in the 90-degree soup in front of the opera building at Texas Christian University. Unexpected as my presence was, dropped jaws and raised eyebrows quickly melted into warm greetings from the music and administrative staff who were collected to dig into my score.

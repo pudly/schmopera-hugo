@@ -1,5 +1,5 @@
 ---
-title: "Ghost stories & true stories: The Lighthouse"
+title: "Ghost stories &amp; true stories: The Lighthouse"
 ---
 
 ## What makes *The Lighthouse* the most challenging work yet for Shadwell Opera?

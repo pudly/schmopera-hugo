@@ -1,5 +1,5 @@
 ---
-title: Opera spin-offs, round two
+title: "Opera spin-offs, round two"
 ---
 
 ### After *Carmen*: Escamillo

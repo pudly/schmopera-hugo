@@ -1,5 +1,5 @@
 ---
-title: 4 steps to taking (& fixing) notes
+title: "4 steps to taking (&amp; fixing) notes"
 ---
 
 ## Figure out what you're being asked to do.

@@ -1,5 +1,5 @@
 ---
-title: How to be a star répétiteur (yes, there is such a thing)
+title: "How to be a star répétiteur (yes, there is such a thing)"
 ---
 
 ### Rhythm

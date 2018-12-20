@@ -1,5 +1,5 @@
 ---
-title: Banff and new buddies
+title: "Banff and new buddies"
 ---
 
 Well, it's happening. Yesterday, the whole cast and crew of _#UncleJohn_ moved into their new digs at the stunning [Banff Centre](http://www.banffcentre.ca/programs/program.aspx?id=1457). It was a day of informally bumping into each other over meals and self-guided orientations. I caught [Leporello](/jeremy-bowes/) going over his patter outside Le café, and talked business over beer with maestro Hargreaves. I met those in the cast whose faces I knew only from their headshots and [delightful introductory videos](tag/unclejohn-cast/). [Masetto](/masetto/) and [Ottavio](/ottavio/) discovered they're buddies (see above), and the newly-famous [Sammy Ivany](http://www.thestar.com/entertainment/music/2014/06/19/fourmonthold_baby_gets_role_in_pelleas_et_melisande.html), fresh off of his stage debut in AtG's _Pelléas et Mélisande_, charmed the table over lunch.

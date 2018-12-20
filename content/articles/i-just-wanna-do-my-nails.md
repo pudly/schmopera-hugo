@@ -1,5 +1,5 @@
 ---
-title: I just wanna do my nails
+title: "I just wanna do my nails"
 ---
 
 Pianists, am I right? 

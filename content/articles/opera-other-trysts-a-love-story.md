@@ -1,5 +1,5 @@
 ---
-title: "Opera & other trysts: a love story"
+title: "Opera &amp; other trysts: a love story"
 ---
 
 It may be old news for some of you, but readers, I have an announcement: I'm having a baby.

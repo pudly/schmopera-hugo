@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Women Who Write"
+title: "Don&#039;t miss: Women Who Write"
 ---
 
 In the midst of a insecure arts climate, the Royal Conservatory of Music is taking International Women's Day to remind us that art, and support for artists, is still happening. On **March 8th, 6:30-7:30pm** at Mazzoleni Hall, the RCM in collaboration with the Canadian Music Centre presents [*Women Who Write*](http://www.rcmusic.ca/music-appreciation), part of their [Music Appreciation](http://www.rcmusic.ca/music-appreciation) events line-up.

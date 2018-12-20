@@ -1,5 +1,5 @@
 ---
-title: The stars align for Toronto Masque Theatre's final season
+title: "The stars align for Toronto Masque Theatre&#039;s final season"
 ---
 
 After 13 seasons and over 60 productions, [Toronto Masque Theatre](/scene/companies/toronto-masque-theatre/)'s Artistic Director, Larry Beckwith, is stepping down from his post - with his exit will come the final season of TMT, a company closely connected to Beckwith's aesthetic and artistic vision.

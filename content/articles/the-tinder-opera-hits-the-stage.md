@@ -1,5 +1,5 @@
 ---
-title: The Tinder Opera hits the stage
+title: "The Tinder Opera hits the stage"
 ---
 
 Readers, do you remember [*The Tinder Opera*](/has-everyone-seen-the-tinder-opera/)? 

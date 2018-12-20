@@ -1,5 +1,5 @@
 ---
-title: "In review: Ekaterina Gubanova & Rachel Andrist in recital"
+title: "In review: Ekaterina Gubanova &amp; Rachel Andrist in recital"
 ---
 
 In the first of three voice recitals in a row this week at the Richard Bradshaw Amphitheatre, I heard mezzo-soprano [Ekaterina Gubanova](/scene/people/ekaterina-gubanova/) in recital with pianist Rachel Andrist. Rachel is a staple of the COC's music staff, working most recently on the COC's production of [*Bluebeard's Castle*](http://www.coc.ca/PerformancesAndTickets/1415Season/BluebeardErwartung.aspx). Speaking of which, Ekaterina is between performances of *Bluebeard* right now, singing Judith for the final time in Toronto this Saturday night.

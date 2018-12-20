@@ -1,5 +1,5 @@
 ---
-title: Ron Howard to direct new Pavarotti documentary
+title: "Ron Howard to direct new Pavarotti documentary"
 ---
 
 Exciting, news, readers! Apparently Ron Howard is set to [direct a new documentary](http://deadline.com/2017/06/luciano-pavarotti-documentary-ron-howard-directing-opera-singer-brian-grazer-nigel-sinclair-1202105775/) about the life of our main man, Luciano Pavarotti.

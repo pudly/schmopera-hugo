@@ -1,5 +1,5 @@
 ---
-title: "Unpopular opinions: when "bravo!" kills the mood"
+title: "Unpopular opinions: when &quot;bravo!&quot; kills the mood"
 ---
 
 It's one of the noticeable differences between seeing opera in Europe, versus in North America: the cries of "bravo!" and "brava!" are loud and proud, and much more common than the average Canadian audience, say, in all its politeness. 

@@ -1,5 +1,5 @@
 ---
-title: "In review: Mozart's Obscure Opera + Mass in C Minor"
+title: "In review: Mozart&#039;s Obscure Opera + Mass in C Minor"
 ---
 
 <p class="intro" style="text-align: left;">

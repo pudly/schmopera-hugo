@@ -1,5 +1,5 @@
 ---
-title: "Aria guides: "Un aura amorosa""
+title: "Aria guides: &quot;Un aura amorosa&quot;"
 ---
 
 1. When you sing this aria on its own without the context of the whole opera, keep in mind that the intro bar for the piano is actually the tail end of the recitative that precedes this aria. It's loud and with a certain energy; but it's not necessarily indicative of how you want to start singing. You can consider your first line a point of contrast from the music that comes before you. As you get singing, you'll find out that this aria is a study in "staying up"; there are plenty of traps in which your singing can fall flat or stale, so avoid those traps by finding ways of staying fresh and spinning through the long *passaggio* phrases.

@@ -1,5 +1,5 @@
 ---
-title: "Great music & distracting sexuality: Rigoletto"
+title: "Great music &amp; distracting sexuality: Rigoletto"
 ---
 
 The story of *Rigoletto*, one of Giuseppe Verdi's masterpieces, is one of power, lust, love, and betrayal. Director Christopher Alden and designer Michael Levine have the entirety of the plot taking place in a 19th-century games room, where men of status would retire to play their games of chance, class, and power. This production - and the libretto by Francesca Maria Piave - highlights the class differences that Verdi was noticing at the time of his writing, and brings to the forefront a society that is part-and-parcel of why the 21st-century terms "toxic masculinity" and "patriarchy" exist at all. 

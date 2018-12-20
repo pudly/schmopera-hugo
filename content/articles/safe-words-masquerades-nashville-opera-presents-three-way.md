@@ -1,5 +1,5 @@
 ---
-title: "Safe words & Masquerades: Nashville Opera presents Three Way"
+title: "Safe words &amp; Masquerades: Nashville Opera presents Three Way"
 ---
 
 ## What can you tell us about *The Companion*, *Safe Word*, and *Masquerade* (without giving away any spoilers)?

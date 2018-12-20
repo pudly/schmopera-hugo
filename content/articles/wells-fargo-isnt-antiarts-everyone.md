@@ -1,5 +1,5 @@
 ---
-title: Wells Fargo isn't anti-arts, everyone
+title: "Wells Fargo isn&#039;t anti-arts, everyone"
 ---
 
 Wells Fargo bank angered some artists recently, with their ad for 2016's upcoming Teen Financial Education Day:

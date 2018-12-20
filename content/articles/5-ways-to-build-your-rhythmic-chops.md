@@ -1,5 +1,5 @@
 ---
-title: 5 ways to build your rhythmic chops
+title: "5 ways to build your rhythmic chops"
 ---
 
 ### Subdivide

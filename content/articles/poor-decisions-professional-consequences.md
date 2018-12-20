@@ -1,5 +1,5 @@
 ---
-title: Poor decisions & professional consequences
+title: "Poor decisions &amp; professional consequences"
 ---
 
 This week, we learned of a disturbing story involving Korean tenor [Alfred Kim](http://slippedisc.com/2017/03/toulouse-stops-opera-after-tenor-is-arrested-for-domestic-abuse/), who was given an 8-month suspended sentence and an €8000 fine after he dragged a woman by her hair and banged her head against a toilet seat ["to the point of breaking it"](http://slippedisc.com/2017/03/toulouse-stops-opera-after-tenor-is-arrested-for-domestic-abuse/) in temporary apartment/hotel in Toulouse. The tenor was in town to sing in *Ernani* at the Théâtre du Capitole, and following Kim's arrest, the opera house cancelled its final performance.

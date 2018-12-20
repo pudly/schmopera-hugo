@@ -1,5 +1,5 @@
 ---
-title: Party animals of opera
+title: "Party animals of opera"
 ---
 
 It's the holiday season, readers, and there's more excuses than usual to break out the wine, champagne, egg nog, and really old scotch. (Well, maybe not, since you're all artists.)

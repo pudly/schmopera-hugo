@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: rough for opera #15"
+title: "Don&#039;t miss: rough for opera #15"
 ---
 
 [Second Movement](https://secondmovement.org.uk/), in association with [Tête à Tête](http://www.tete-a-tete.org.uk/event/rough-for-opera-15/) are gearing up for the 15th instalment of *rough for opera*, a series of showcases for new opera and works in progress.

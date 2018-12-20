@@ -1,5 +1,5 @@
 ---
-title: "Cute & catchy: The Schoolyard Carmen"
+title: "Cute &amp; catchy: The Schoolyard Carmen"
 ---
 
 The Carmen of Bizet's 1875 opera sought a certain kind of freedom, the kind that would liberate her from the law, and from the definition of "permissible woman". Very different, yet comparable in nobility, the Carmen of [Shoestring Opera](/scene/companies/shoestring-opera/)'s *The Schoolyard Carmen* seeks freedom from the shackles of the schoolday grind.

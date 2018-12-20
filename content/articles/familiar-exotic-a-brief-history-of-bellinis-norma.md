@@ -1,5 +1,5 @@
 ---
-title: "Familiar & exotic: a brief history of Bellini's Norma"
+title: "Familiar &amp; exotic: a brief history of Bellini&#039;s Norma"
 ---
 
 Bellini's *Norma* is the story of the Druid High-Priestess, who has broken her vows by getting involved with the Roman Pollione. Pollione has fallen out of love with Norma, and now loves the priestess Adalgisa. The two women band together over their shared doomed love, after Norma reveals that she has had children by Pollione. They denounce him, and only when Norma volunteers to sacrifice herself - a priestess who offended her faith - to the Druid rites, does Pollione have a change of heart; he joins her on the pyre, and leaves their children to Adalgisa.

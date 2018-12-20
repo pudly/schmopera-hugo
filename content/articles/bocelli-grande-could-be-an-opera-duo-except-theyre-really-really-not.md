@@ -1,5 +1,5 @@
 ---
-title: "Bocelli & Grande: could be an opera duo, except they're really, really not"
+title: "Bocelli &amp; Grande: could be an opera duo, except they&#039;re really, really not"
 ---
 
 So, Andrea Bocelli has "graced" us (and probably a BILLION wedding receptions hence) with a new duet called ["E Piú ti Penso"](https://youtu.be/Z8SYtmvEI9U), and although it is kinda sorta pretty, it's totally rubbing me the wrong way. It has all the proper ingredients: string ensemble, a video shot through a soft-filtered lens, a pretty pop princess, and it's written by [Ennio Morricone](https://en.wikipedia.org/wiki/Ennio_Morricone). MORRICONE!!!

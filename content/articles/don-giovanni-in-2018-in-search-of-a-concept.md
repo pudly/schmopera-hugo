@@ -1,5 +1,5 @@
 ---
-title: "Don Giovanni in 2018: in search of a "concept""
+title: "Don Giovanni in 2018: in search of a &quot;concept&quot;"
 ---
 
 **concept**<br>

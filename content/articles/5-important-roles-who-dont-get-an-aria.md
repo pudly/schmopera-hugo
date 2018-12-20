@@ -1,5 +1,5 @@
 ---
-title: 5 important roles who don't get an aria
+title: "5 important roles who don&#039;t get an aria"
 ---
 
 ## Don Alfonso (*Così fan tutte*)

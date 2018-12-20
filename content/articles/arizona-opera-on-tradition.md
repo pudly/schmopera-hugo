@@ -1,5 +1,5 @@
 ---
-title: Arizona Opera, on tradition
+title: "Arizona Opera, on tradition"
 ---
 
 “Is this going to be a traditional production?”

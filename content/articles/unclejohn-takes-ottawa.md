@@ -1,5 +1,5 @@
 ---
-title: #UncleJohn takes Ottawa
+title: "#UncleJohn takes Ottawa"
 ---
 
 Next week, Ottawa theatre-lovers, you're in for a treat. Against the Grain Theatre's *#UncleJohn* is having its third run as part of the [Ottawa International Chamber Music Festival](http://www.chamberfest.com/). If you saw *#UncleJohn* in Toronto last season, you'd recognize the cast of singers:

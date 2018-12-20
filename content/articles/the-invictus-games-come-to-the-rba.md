@@ -1,5 +1,5 @@
 ---
-title: The Invictus Games come to the RBA
+title: "The Invictus Games come to the RBA"
 ---
 
 It's a common analogy for opera singers to compare their work to that of athletes. That said, it was a rare theme for a lunchtime concert in the Richard Bradshaw Amphitheatre, to have members of the COC Ensemble Studio offering songs and poetry on themes of war in celebration of the [2017 Invictus Games](http://www.invictusgames2017.com/about-us/). The Games, established in 2014 by Prince Harry as an adaptive sports event for injured, ill, and wounded servicement and women, are ongoing in Toronto; Alexander Neef, General Director of the COC, was among the first to enthusiastically jump on board with the Canadian artistic institutions helping to celebrate and promulgate the event.

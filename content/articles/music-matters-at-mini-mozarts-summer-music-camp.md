@@ -1,5 +1,5 @@
 ---
-title: Music Matters at Mini Mozarts Summer Music Camp
+title: "Music Matters at Mini Mozarts Summer Music Camp"
 ---
 
 ## 1. What drove you to start this summer camp in Kingston, Jamaica?

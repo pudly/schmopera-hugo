@@ -1,5 +1,5 @@
 ---
-title: Daniel Belcher returns to The Long Walk
+title: "Daniel Belcher returns to The Long Walk"
 ---
 
 ## What about Brian's story makes it work in an operatic setting?

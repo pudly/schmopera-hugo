@@ -1,5 +1,5 @@
 ---
-title: Bud Roach, on Capella Intima
+title: "Bud Roach, on Capella Intima"
 ---
 
 <h2>1. Where did your passion for Early Music come from?</h2>

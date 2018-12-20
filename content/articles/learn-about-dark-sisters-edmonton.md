@@ -1,5 +1,5 @@
 ---
-title: Learn about Dark Sisters (Edmonton)
+title: "Learn about Dark Sisters (Edmonton)"
 ---
 
 

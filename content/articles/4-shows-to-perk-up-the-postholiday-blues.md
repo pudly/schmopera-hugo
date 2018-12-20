@@ -1,5 +1,5 @@
 ---
-title: 4 shows to perk up the post-holiday blues
+title: "4 shows to perk up the post-holiday blues"
 ---
 
 ## *Der Rosenkavalier*

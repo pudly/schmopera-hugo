@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Naomi's Road"
+title: "Don&#039;t miss: Naomi&#039;s Road"
 ---
 
 ## What does this opera have to say about xenophobia and racism in the context of Canadian history?

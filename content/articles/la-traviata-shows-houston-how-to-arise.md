@@ -1,5 +1,5 @@
 ---
-title: La traviata shows Houston how to arise
+title: "La traviata shows Houston how to arise"
 ---
 
 (A disclaimer for those expecting references to the momentous sporting events of Saturday last: the only bases in this review are double basses.)

@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: The Man Who Married Himself"
+title: "Don&#039;t miss: The Man Who Married Himself"
 ---
 
 Next month, [Toronto Masque Theatre](/scene/companies/toronto-masque-theatre/) presents their eighth original commission, *The Man Who Married Himself: Sexuality & Self, Desire & Transformation*. The [masque](https://en.wikipedia.org/wiki/Masque), inspired by Indian and Baroque performance traditions, is a collaboration by composer [Juliet Palmer](/scene/people/juliet-palmer/) and librettist [Anna Chatterton](/scene/people/anna-chatterton/); the world premiere performance is directed by Marie-Nathalie Lacoursière and features choreography by Hari Krishnan.

@@ -1,5 +1,5 @@
 ---
-title: "Matjash Mrozewski: "Delight & wonder are great things.""
+title: "Matjash Mrozewski: &quot;Delight &amp; wonder are great things.&quot;"
 ---
 
 ## What did you learn or realize about working as a performer and a director when you moved from dance to exclusively choreography/direction?

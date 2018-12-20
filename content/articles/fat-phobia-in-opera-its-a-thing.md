@@ -1,5 +1,5 @@
 ---
-title: Fat phobia in opera? It's a thing
+title: "Fat phobia in opera? It&#039;s a thing"
 ---
 
 Opera requires imagination. If that's true, why is it that people can still inflict a lens of "reality" on an art form entirely based on stretching that very concept? 

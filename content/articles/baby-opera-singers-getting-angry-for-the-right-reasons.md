@@ -1,5 +1,5 @@
 ---
-title: Baby "opera singers" & getting angry for the right reasons
+title: "Baby &quot;opera singers&quot; &amp; getting angry for the right reasons"
 ---
 
 In the past, we've been [less than ambiguous](/young-pups-and-puccini/) about our feelings on pre-pubescent "opera singers". Jackie Evancho, Amira Willighagen, and now 13-year old Lauren Bretan have made their own little splashes on big-budget TV talent shows, much to the eye twitching chagrin of people within in the opera industry.

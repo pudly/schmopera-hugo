@@ -1,5 +1,5 @@
 ---
-title: Who cares what Mozart loved?
+title: "Who cares what Mozart loved?"
 ---
 
 I hear a lot of weird stuff at work. My job gives me the chance to sit in many a coaching or voice lesson and listen to how others impart wisdom and skills upon hardworking singers. Today, I heard the phrase, "Mozart loved portamento!" backed up with supposed evidence in Mozart's letters to his father.

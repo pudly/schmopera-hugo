@@ -1,5 +1,5 @@
 ---
-title: Wherefore art thou, opera?
+title: "Wherefore art thou, opera?"
 ---
 
 Opera: dead or alive?

@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Odyssey Opera's season opener"
+title: "Don&#039;t miss: Odyssey Opera&#039;s season opener"
 ---
 
 ### How did you decide on Gounod and Helen of Troy as the two focal points for Odyssey Opera's upcoming season? 

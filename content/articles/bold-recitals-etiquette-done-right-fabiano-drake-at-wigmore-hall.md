@@ -1,5 +1,5 @@
 ---
-title: "Bold recitals & etiquette done right: Fabiano & Drake at Wigmore Hall"
+title: "Bold recitals &amp; etiquette done right: Fabiano &amp; Drake at Wigmore Hall"
 ---
 
 Michael Fabiano likes to start with a bang. His Wigmore Hall debut, with Julius Drake at the piano, marked the end of his recital tour and he opened with Henri Duparc's *Le manoir de Rosemonde*. The first of seven songs by Duparc, "Le manoir de Rosemonde", was dramatic and melancholy and allowed Fabiano to demonstrate his vocal range. "La vie antérieur", by contrast, was lush and full-sounding while "Extase" was languid. Fabiano then moved on to three songs by Liszt which were set to text by Victor Hugo. Liszt and Hugo had a close friendship and Liszt set seven of Hugo’s poems to music [between 1842 and 1844](http://diginole.lib.fsu.edu/islandora/object/fsu%3A180473). Fabiano performed "Oh! quand je dors", "Comment, disait-ils" and "Enfant, si j'étais roi" all of which seemed to sound more comfortable for Fabiano than the previous set both in his voice and the language itself. Drake's sensitive playing was especially evident during the Liszt songs and the first half ended with the audience audibly pleased with the concert.

@@ -1,5 +1,5 @@
 ---
-title: Advice for Young Musicians, from Young Agents
+title: "Advice for Young Musicians, from Young Agents"
 ---
 
 <h2>Being a Good Colleague</h2>

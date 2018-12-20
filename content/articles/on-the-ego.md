@@ -1,5 +1,5 @@
 ---
-title: On the ego
+title: "On the ego"
 ---
 
 I want people to like me.  I got into singing because I want people to like me.

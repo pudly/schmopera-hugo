@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Waltz Rivals"
+title: "Don&#039;t miss: Waltz Rivals"
 ---
 
 Hello, Schmop-Tops!

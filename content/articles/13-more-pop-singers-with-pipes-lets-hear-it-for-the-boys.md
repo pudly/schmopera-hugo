@@ -1,5 +1,5 @@
 ---
-title: "13 more pop singers with pipes: let's hear it for the boys"
+title: "13 more pop singers with pipes: let&#039;s hear it for the boys"
 ---
 
 ## Otis Redding

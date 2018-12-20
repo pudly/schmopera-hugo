@@ -1,5 +1,5 @@
 ---
-title: "Satire meets serious singing: TOT's Candide"
+title: "Satire meets serious singing: TOT&#039;s Candide"
 ---
 
 What better way is there to start of the New Year than with a break in the arctic temperatures and a trip to the St. Lawrence Centre for the Arts to see Toronto Operetta Theatre's annual holiday show? This year General Director Guillermo Silva Marin teamed up with Music Director Derek Bate to bring us Bernstein's *Candide*.

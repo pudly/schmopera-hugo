@@ -1,5 +1,5 @@
 ---
-title: "A "rare event" at Chicago Lyric: Piotr Beczała in recital"
+title: "A &quot;rare event&quot; at Chicago Lyric: Piotr Beczała in recital"
 ---
 
 The components of the modern-day singing career, with all the associated commercial forces and media dictates, often conspire to produce an offspring that can only be described as paradoxical. A vocal recital — just one lone singer and a pianist performing ephemeral works of musical poetry — is the very definition of an intimate affair. To hold such an event in a 3,563-seat theater is a bit like trying to pillow-talk in…well, a 3,563-seat theater: there's some cognitive dissonance with the notion. Rare are the artists who, through a combination of personality and intensity of communication, transcend the space and reach an audience as if on an individual basis. Renowned tenor [Piotr Beczała](/scene/people/piotr-beczala/) and esteemed collaborative pianist [Martin Katz](/scene/people/martin-katz/) succeeded brilliantly in squaring this circle in their recital on the main stage of the Lyric Opera of Chicago this past Sunday.

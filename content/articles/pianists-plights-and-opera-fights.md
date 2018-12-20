@@ -1,5 +1,5 @@
 ---
-title: Pianists' plights and opera fights
+title: "Pianists&#039; plights and opera fights"
 ---
 
 ## Rossini

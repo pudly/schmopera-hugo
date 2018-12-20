@@ -1,5 +1,5 @@
 ---
-title: Schmopera's British invasion
+title: "Schmopera&#039;s British invasion"
 ---
 
 Readers, we've a big announcement to make!

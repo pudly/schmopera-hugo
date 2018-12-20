@@ -1,5 +1,5 @@
 ---
-title: Masks to Try On
+title: "Masks to Try On"
 ---
 
 I'm getting myself in the mood for the COC's fast-approaching production of Verdi's[ _Un ballo in maschera_](http://www.coc.ca/PerformancesAndTickets/1314Season/UnBalloInMaschera/CastAndCreativeTeam.aspx). So I'm _Masked-Ball_-hopping, watching about three different versions at once at the moment. In the foreground is the classic Moshinsky production from the Met in 1980, with Pavarotti, Ricciarelli, Berini, and Canada's beloved Louis Quilico as Renato. Here he is being a Verdi baritone:

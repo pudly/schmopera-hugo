@@ -1,5 +1,5 @@
 ---
-title: Hibla Gerzmava & Danielle Akta with The Moscow Virtuosi
+title: "Hibla Gerzmava &amp; Danielle Akta with The Moscow Virtuosi"
 ---
 
 Show One Productions continues its great programming this coming **June 8th** at Roy Thomson Hall, with a presentation by The Moscow Virtuosi ensemble with special guests 14-year old Israeli cellist Danielle Atka and world renowned soprano [Hibla Gerzmava](/scene/people/hibla-gerzmava/). 

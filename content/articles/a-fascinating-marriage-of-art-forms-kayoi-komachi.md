@@ -1,5 +1,5 @@
 ---
-title: ""A fascinating marriage of art forms": Kayoi Komachi"
+title: "&quot;A fascinating marriage of art forms&quot;: Kayoi Komachi"
 ---
 
 [*Kayoi Komachi* (*Komachi Visited*)](http://www.tomoearts.org/Performances/TomoePerformancesKayoi.htm) is billed as a Noh Chamber Opera, blending the styles of Japanese Noh Drama with Western opera onto a Canadian stage. This production contained different elements of both styles, bringing together performers with extensive backgrounds in either Noh or Opera, a chamber orchestra of both Western and Japanese instruments, and text sung in both Japanese and English. 

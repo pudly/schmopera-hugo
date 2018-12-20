@@ -1,5 +1,5 @@
 ---
-title: "Quasi review: The Ensemble Studio's Figaro"
+title: "Quasi review: The Ensemble Studio&#039;s Figaro"
 ---
 
 Each year, one performance of the Canadian Opera Company's season is reserved for the artists of the Ensemble Studio; they work as understudies and take on small roles throughout the principal run, and at the same time they rehearse towards their unique performance that puts these young artists into leading roles.

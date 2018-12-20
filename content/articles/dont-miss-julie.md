@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Julie"
+title: "Don&#039;t miss: Julie"
 ---
 
 Tomorrow night is the North American premiere of *Julie*, Philippe Boesmans' 2005 opera, presented by [Soundstreams](/scene/companies/soundstreams/) and [Canadian Stage](https://www.canadianstage.com/Online/). The piece is based on the Strindberg 1888 play, *Miss Julie*, which has one of those fantastic premiere stories of scandal followed by success. In the 19th century, a story about a woman who tried to "train" her fiancé with a whip is pretty darn honest. "I begged them to keep that scene in [the opera]!" jokes mezzo-soprano [Lucia Cervoni](/scene/people/lucia-cervoni/), who sings the title role in *Julie*, starting November 17th.

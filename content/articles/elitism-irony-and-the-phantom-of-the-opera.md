@@ -1,5 +1,5 @@
 ---
-title: Elitism, Irony, and The Phantom of the Opera
+title: "Elitism, Irony, and The Phantom of the Opera"
 ---
 
 Guys, maybe we are a little elitist...

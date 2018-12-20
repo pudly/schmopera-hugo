@@ -1,5 +1,5 @@
 ---
-title: Bo Burnham, live theatre
+title: "Bo Burnham, live theatre"
 ---
 
 If you've not done it yet, make a point to watch either or both of Bo Burnham's specials, available on Netflix (hopefully, depending on where you live).

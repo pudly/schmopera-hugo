@@ -1,5 +1,5 @@
 ---
-title: 4 myths from music school
+title: "4 myths from music school"
 ---
 
 ## You need five arias for your audition package

@@ -1,5 +1,5 @@
 ---
-title: See? You do need opera to survive
+title: "See? You do need opera to survive"
 ---
 
 Last week, [Kyra Kopenstonsky](http://www.outdoorlife.com/blogs/newshound/colorado-hiker-sings-opera-fends-mountain-lion-attack) was hiking in Colorado and bumped into a mountain lion. It stalked her for about twenty minutes, after which Kyra employed a last resort: singing opera. That's right, after waving branches to make herself look bigger, the mountain lion wasn't fazed; and so she went for louder. "I just started singing opera really loud," said Kyra.

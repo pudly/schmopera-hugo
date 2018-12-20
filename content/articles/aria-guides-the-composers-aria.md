@@ -1,5 +1,5 @@
 ---
-title: "Aria guides: the Composer's Aria"
+title: "Aria guides: the Composer&#039;s Aria"
 ---
 
 1. Much of this aria will be easier to sing if you think of it in 2/2, rather than 4/4. This opening section can feel a bit square, but it's really about channeling masculine energy. The first couple of phrases should sound a bit like someone who's just splashed some refreshing cold water on their face. Be diligent about holding "gut" for all four beats, and don't plan to take a breath in the little eighth rest in "Ich sehe jetzt alles mit anderen Augen!"<figure data-type="image">

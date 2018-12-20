@@ -1,5 +1,5 @@
 ---
-title: "What a long, strange trip it's been: Belladonna"
+title: "What a long, strange trip it&#039;s been: Belladonna"
 ---
 
 On Thursday, March 22, I found myself in a dingy alley in Kensington Market waiting in line to enter the venue for [FAWN Chamber Creative](/scene/companies/fawn-chamber-creative/)'s first staging of their new work-in-progress *Belladonna: A Queer Techno Opera*. We were led downstairs to a basement venue with a white runway hand-painted and strewn with wool and a vine with berries, under a cloudscape of silver foil and cotton. It felt like walking into a super-underground New York fashion show. 

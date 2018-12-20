@@ -1,5 +1,5 @@
 ---
-title: "Tomer Zvulun: The Atlanta Opera's intriguing 2017/18"
+title: "Tomer Zvulun: The Atlanta Opera&#039;s intriguing 2017/18"
 ---
 
 ## What are some highlights of 2017/18 that you personally look forward to most?

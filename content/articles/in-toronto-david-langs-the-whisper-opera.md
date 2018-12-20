@@ -1,5 +1,5 @@
 ---
-title: "In Toronto: David Lang's The Whisper Opera"
+title: "In Toronto: David Lang&#039;s The Whisper Opera"
 ---
 
 <p class="intro">

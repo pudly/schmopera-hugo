@@ -1,5 +1,5 @@
 ---
-title: "American Opera Projects: "You're seeing the opera in microcosm.""
+title: "American Opera Projects: &quot;You&#039;re seeing the opera in microcosm.&quot;"
 ---
 
 ## How has American Opera Projects played a role in your professional career?

@@ -1,5 +1,5 @@
 ---
-title: Opera spin-offs round III
+title: "Opera spin-offs round III"
 ---
 
 ## Maddalena in *Rigoletto*

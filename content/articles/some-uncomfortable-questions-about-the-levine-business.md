@@ -1,5 +1,5 @@
 ---
-title: Some uncomfortable questions about the Levine business
+title: "Some uncomfortable questions about the Levine business"
 ---
 
 "As anyone who truly knows me will attest, I have not lived my life as an oppressor or an aggressor." So said James Levine in a [statement](http://www.bbc.com/news/entertainment-arts-42278843) following fresh [accusations ](https://nypost.com/2017/12/02/legendary-opera-conductor-molested-teen-for-years-police-report/) of sexual assault and molestation of younger men.

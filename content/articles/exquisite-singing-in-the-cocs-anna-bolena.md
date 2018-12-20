@@ -1,5 +1,5 @@
 ---
-title: Exquisite singing in the COC's Anna Bolena
+title: "Exquisite singing in the COC&#039;s Anna Bolena"
 ---
 
 The Canadian Opera Company has brought out the third of their "Tudor Queen" operas to close out their 2017/18 season. Donizetti's [*Anna Bolena*](https://www.coc.ca/productions/13097) stars [Sondra Radvanovsky](/talking-with-singers-sondra-radvanovsky/) (#LaWowza) in the title role, and she's joined by a cast of phenomenal singers and actors to bring a stupendous production to the stage.

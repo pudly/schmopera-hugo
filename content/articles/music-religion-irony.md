@@ -1,5 +1,5 @@
 ---
-title: Music, religion, & irony
+title: "Music, religion, &amp; irony"
 ---
 
 Hi everyone, Jenna here.

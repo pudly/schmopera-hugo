@@ -1,5 +1,5 @@
 ---
-title: "Review: a Triple Concerto & a German Requiem with the TSO"
+title: "Review: a Triple Concerto &amp; a German Requiem with the TSO"
 ---
 
 Peter Oundjian calls it "surely one of the most remarkable concerts of the year," the TSO's current program of Alexina Louie's *Triple Concerto for Three Violins and Orchestra* (a world premiere and TSO co-commission) and Brahms' iconic *Ein deutsches Requiem*, Op. 45. It's not totally clear what the link between the two pieces is, but when it comes to hearing Brahms' *Requiem*, at least, I have no objections.

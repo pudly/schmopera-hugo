@@ -1,5 +1,5 @@
 ---
-title: "Missing the point: the Met's 2015/16 season"
+title: "Missing the point: the Met&#039;s 2015/16 season"
 ---
 
 <p>

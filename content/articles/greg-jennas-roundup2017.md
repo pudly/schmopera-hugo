@@ -1,5 +1,5 @@
 ---
-title: Greg & Jenna's #RoundUp2017
+title: "Greg &amp; Jenna&#039;s #RoundUp2017"
 ---
 
 ## [*The Depraved Appetite of Tarrare the Freak*](/tarrare-the-freak-i-just-want-to-be-full/)

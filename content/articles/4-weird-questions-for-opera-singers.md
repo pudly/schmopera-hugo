@@ -1,5 +1,5 @@
 ---
-title: 4 weird questions for opera singers
+title: "4 weird questions for opera singers"
 ---
 
 ## How do you not deafen yourself with the sound of your own voice?

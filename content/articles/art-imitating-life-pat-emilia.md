@@ -1,5 +1,5 @@
 ---
-title: "Art imitating life: Pat & Emilia"
+title: "Art imitating life: Pat &amp; Emilia"
 ---
 
 ## Can you tell us about the performance history of *Pat & Emilia*? 

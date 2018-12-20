@@ -1,5 +1,5 @@
 ---
-title: "For kids & grown-ups alike: The Scorpion's Sting"
+title: "For kids &amp; grown-ups alike: The Scorpion&#039;s Sting"
 ---
 
 This past weekend, on an uncommonly dark and stormy Saturday afternoon, Lyric Unlimited kicked off a four-performance run of [*The Scorpions' Sting: an Opera for Young People*](https://www.lyricopera.org/concertstickets/calendar/2017-2018-other/productions/lyricopera/the-scorpions-sting-opera-tickets) at the Studebaker Theater in downtown Chicago. The production marks the U.S. premiere of the opera, with text and music by Canadian composer [Dean Burry](/scene/people/dean-burry/). This week, *The Scorpions' Sting* began its tour through Lyric Unlimited's [Opera in the Neighborhoods](https://www.lyricopera.org/lyricunlimited/studentsandteachers/operaintheneighborhoods) program. In total, 30 performances will be given at 15 different locations. Over 20,000 young people will see it, including Chicago Public School students, students in charter and private schools, and home-schooled children, all in grades 3-6.

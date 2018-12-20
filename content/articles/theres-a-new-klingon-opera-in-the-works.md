@@ -1,5 +1,5 @@
 ---
-title: There's a new Klingon opera in the works
+title: "There&#039;s a new Klingon opera in the works"
 ---
 
 It's true! If you're a fan of *Star Trek*, you're well aware of the Klingon culture's appreciation for opera. [*'u'*](https://en.wikipedia.org/wiki/%E2%80%99u%E2%80%99), the so-called "First authentic Klingon opera on Earth" by Eef van Breen, Kees Ligtelijn, and Marc Okrand, was put up in 2010 in The Hague to sold-out crowds.

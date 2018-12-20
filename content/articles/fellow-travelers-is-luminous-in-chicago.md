@@ -1,5 +1,5 @@
 ---
-title: Fellow Travelers is "luminous" in Chicago
+title: "Fellow Travelers is &quot;luminous&quot; in Chicago"
 ---
 
 Following acclaimed runs in Cincinnati and New York City, *Fellow Travelers* made its triumphant Chicago premiere this St. Patrick's Day weekend as part of the Lyric Opera of Chicago's Lyric Unlimited series. Thomas Mallon's 2007 novel about two men's illicit love affair during the 1950s "lavender scare" receives a luminous operatic adaptation in the hands of composer Gregory Spears and librettist Greg Pierce.

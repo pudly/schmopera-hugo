@@ -1,5 +1,5 @@
 ---
-title: "Opera's survival: tightened belts & callous questions"
+title: "Opera&#039;s survival: tightened belts &amp; callous questions"
 ---
 
 [English National Opera](http://www.theguardian.com/commentisfree/2016/feb/16/english-national-opera-eno-cultural-treasure-value-for-money) currently holds the spotlight in the ongoing story of opera companies who are pressured to tighten their belts. The spotlight status has been passed from New York City Opera, to San Diego Opera, to Opera Lyra Ottawa, and very publicly to The Metropolitan Opera; these companies faced financial struggles for various reasons, and not all of them survived.

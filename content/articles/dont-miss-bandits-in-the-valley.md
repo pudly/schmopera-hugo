@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Bandits in the Valley"
+title: "Don&#039;t miss: Bandits in the Valley"
 ---
 
 With [*Bandits in the Valley*](https://tapestryopera.com/bandits-in-the-valley/), the "delightfully whimsical short opera" playing this month in the historic buildings of Todmorden Mills, [Tapestry Opera](/scene/companies/tapestry-opera/) is illuminating the obscure history of Toronto's Don Valley.

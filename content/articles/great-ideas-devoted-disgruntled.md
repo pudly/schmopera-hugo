@@ -1,5 +1,5 @@
 ---
-title: "Great ideas: Devoted & Disgruntled"
+title: "Great ideas: Devoted &amp; Disgruntled"
 ---
 
 ## "A holder of an infinite number of opinions"

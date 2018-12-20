@@ -1,5 +1,5 @@
 ---
-title: Less Really Is More
+title: "Less Really Is More"
 ---
 
 <p>

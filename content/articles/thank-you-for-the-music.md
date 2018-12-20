@@ -1,5 +1,5 @@
 ---
-title: "Thank you for the music..."
+title: "&quot;Thank you for the music...&quot;"
 ---
 
 Hello Schmop-Tops, 

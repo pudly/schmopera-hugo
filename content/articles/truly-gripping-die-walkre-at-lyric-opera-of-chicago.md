@@ -1,5 +1,5 @@
 ---
-title: ""Truly gripping": Die Walküre at Lyric Opera of Chicago"
+title: "&quot;Truly gripping&quot;: Die Walküre at Lyric Opera of Chicago"
 ---
 
 With this month's run of [Wagner's *Die Walküre*](https://www.lyricopera.org/concertstickets/calendar/2017-2018/productions/lyricopera/die-walkure-opera-tickets), the Lyric Opera of Chicago marks a glorious second installment of their new four-year-long *Ring Cycle*. Sir Andrew Davis (to whom this production is dedicated in honor of his 30th anniversary on the LOC podium) and director David Pountney brought aural and visual splendor that was at once poignantly understated and epic in all the right degrees.

@@ -1,5 +1,5 @@
 ---
-title: Valerian Ruminski, or "Those who forget the past are doomed to repeat it"
+title: "Valerian Ruminski, or &quot;Those who forget the past are doomed to repeat it&quot;"
 ---
 
 So as it turns out, [Tamar Iveri](/desdemona-down/) isn't the only one with controversial opinions on alternative lifestyles.

@@ -1,5 +1,5 @@
 ---
-title: Anxiety, Art, and Purpose
+title: "Anxiety, Art, and Purpose"
 ---
 
 These days, it's hard to call anxiety and depression in the music industry the elephant in the room - it is an issue that has become abundantly clear. 

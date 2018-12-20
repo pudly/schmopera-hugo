@@ -1,5 +1,5 @@
 ---
-title: Bills and Business Models
+title: "Bills and Business Models"
 ---
 
 2013 was a bad year for the business of classical music.

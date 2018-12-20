@@ -1,5 +1,5 @@
 ---
-title: The big, and ever-present, "what's next?"
+title: "The big, and ever-present, &quot;what&#039;s next?&quot;"
 ---
 
 I'm sitting at a bar two days after my Frontiers performance. It's a bar where the Frontiers composers spent many hours socializing and talking technique, plans, and projects. Now, I'm alone; most of my colleagues have left Fort Worth and I am waiting for the shuttle that will take me to the plane to begin my journey home.

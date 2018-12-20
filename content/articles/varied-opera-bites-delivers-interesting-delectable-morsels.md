@@ -1,5 +1,5 @@
 ---
-title: Varied Opera Bites delivers interesting & delectable morsels
+title: "Varied Opera Bites delivers interesting &amp; delectable morsels"
 ---
 
 Opera is frequently known as an art form infamous for its protracted length. In a sense, the art form almost operates on it; as a former music professor of mine once observed, if it takes a minute to speak it, it can usually take up to ten to set it to music, owing to the way the music needs room to speak on its own. So what, then, is a composer to do if they only have ten minutes to tell a story in music? As it turns out, quite a bit, and this is something that the [Boston Opera Collaborative](/scene/companies/boston-opera-collaborative/) set out to prove with its *Opera Bites* program, its fourth annual staging of a series of ten-minute operas.

@@ -1,5 +1,5 @@
 ---
-title: Darren Sigesmund on the Mosaïque Project
+title: "Darren Sigesmund on the Mosaïque Project"
 ---
 
 ## What does it mean to you to be one of the 14 composers creating this musical mosaïque?

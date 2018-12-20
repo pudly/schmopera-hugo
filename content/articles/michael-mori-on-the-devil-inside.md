@@ -1,5 +1,5 @@
 ---
-title: Michael Mori on The Devil Inside
+title: "Michael Mori on The Devil Inside"
 ---
 
 ## What can people expect from *The Devil Inside*?

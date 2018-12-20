@@ -1,5 +1,5 @@
 ---
-title: A Warhorse For Opera's New World?
+title: "A Warhorse For Opera&#039;s New World?"
 ---
 
 Roderick is on the brink when he writes to his friend William, pleading with him to come for a visit. Roderick is an Usher and his life, along with that of his sister Madeline, is in mysterious and inexorable decline. William arrives at the decaying mansion exhausted from his journey and increasingly bewildered by the surroundings. It is with an eerie cadence that the Phillip Glass chamber opera, *The Fall of the House of Usher*, based on Edgar Allan Poe's classic tales, gets underway.

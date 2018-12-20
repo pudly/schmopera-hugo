@@ -1,5 +1,5 @@
 ---
-title: "Ned Canty's Die Fledermaus: "A pleasant, persistent buzz of happiness.""
+title: "Ned Canty&#039;s Die Fledermaus: &quot;A pleasant, persistent buzz of happiness.&quot;"
 ---
 
 ## Where does *Die Fledermaus* fall, between the spectrum of "serious opera" and "crowd-pleasing fluff"?

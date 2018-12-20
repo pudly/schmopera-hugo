@@ -1,5 +1,5 @@
 ---
-title: Opera on Letterman
+title: "Opera on Letterman"
 ---
 
 In case you haven't heard, David Letterman is [retiring](http://www.rollingstone.com/movies/news/david-letterman-retiring-in-2015-20140403) from his late-night hosting duties on May 20th. That's tonight! So, I went to work finding some opera on the *Late Show*, as my small but mighty nod to Letterman and his 33-year career (22 years on CBS, 11 on NBC).

@@ -1,5 +1,5 @@
 ---
-title: Adi Braun, the Moderne Frau
+title: "Adi Braun, the Moderne Frau"
 ---
 
 ## Why have you been so drawn to Weimar cabaret?

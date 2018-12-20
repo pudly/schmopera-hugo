@@ -1,5 +1,5 @@
 ---
-title: "Gordon Gerrard: "Music doesn't really work without breath.""
+title: "Gordon Gerrard: &quot;Music doesn&#039;t really work without breath.&quot;"
 ---
 
 ## What do you think conductors and singers can learn from each other?

@@ -1,5 +1,5 @@
 ---
-title: "Moral issues & well-loved tunes: BK Opera's La traviata"
+title: "Moral issues &amp; well-loved tunes: BK Opera&#039;s La traviata"
 ---
 
 ## What elements of "immorality" that surrounded La traviata when it was first written do you think still hold weight today?

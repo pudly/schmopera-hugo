@@ -1,5 +1,5 @@
 ---
-title: Opera Karaoke Night, 2015
+title: "Opera Karaoke Night, 2015"
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Folk songs for lunch: Esprit Orchestra & Krisztina Szabó in the RBA"
+title: "Folk songs for lunch: Esprit Orchestra &amp; Krisztina Szabó in the RBA"
 ---
 
 Before their [35th anniversary season](/dont-miss-esprit-orchestras-35th-anniversary-season/) starts on **October 15**, the [Esprit Orchestra](/scene/companies/esprit-orchestra/) gave a taste of what they do best as part of the [Canadian Opera Company](/scene/companies/canadian-opera-company/)'s Free Concert Series in the Richard Bradshaw Amphitheatre. 

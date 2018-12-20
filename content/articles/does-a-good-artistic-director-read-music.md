@@ -1,5 +1,5 @@
 ---
-title: Does a Good Artistic Director Read Music?
+title: "Does a Good Artistic Director Read Music?"
 ---
 
 <p>

@@ -1,5 +1,5 @@
 ---
-title: 4 unwritten skills professional singers need
+title: "4 unwritten skills professional singers need"
 ---
 
 ## Trust

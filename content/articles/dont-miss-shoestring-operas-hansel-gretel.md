@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Shoestring Opera's Hansel & Gretel"
+title: "Don&#039;t miss: Shoestring Opera&#039;s Hansel &amp; Gretel"
 ---
 
 ## How have you adapted your *Hansel and Gretel* to better suit a younger audience?

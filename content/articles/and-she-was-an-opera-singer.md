@@ -1,5 +1,5 @@
 ---
-title: ....AND she was an opera singer
+title: "....AND she was an opera singer"
 ---
 
 Readers, have you heard of [Julie d'Aubigny](https://en.wikipedia.org/wiki/Julie_d%27Aubigny)?

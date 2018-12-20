@@ -1,5 +1,5 @@
 ---
-title: Strong ensemble lifts Edmonton Opera production of La traviata
+title: "Strong ensemble lifts Edmonton Opera production of La traviata"
 ---
 
 Giuseppe Verdi got a lot of things right with *La traviata*: lush music for a story with universal themes such as love, sacrifice and redemption, and beautiful music for the larger-than-life characters. Walking into the opening-night performance of [*La traviata*](https://www.edmontonopera.com/2018-19/la-traviata/) with [Edmonton Opera](/scene/companies/edmonton-opera/), you could feel the energy of both excitement and expectation.

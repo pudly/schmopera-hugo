@@ -1,5 +1,5 @@
 ---
-title: "How was it?" and other dangerous questions
+title: "&quot;How was it?&quot; and other dangerous questions"
 ---
 
 Young artists are on the hunt, be it subtle or loud, for the stuff that separates the amateurs from the professionals. They're not blindly groping in the dark for this stuff; they're doing practical things like honing their technique, researching the business, improving their foreign language skills, and they're trying to show their work to as many people as possible. 

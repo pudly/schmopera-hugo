@@ -1,5 +1,5 @@
 ---
-title: ""A truly otherworldly space": Heartbeat Opera's Drag Extravaganza"
+title: "&quot;A truly otherworldly space&quot;: Heartbeat Opera&#039;s Drag Extravaganza"
 ---
 
 ## What do you think opera and drag have most closely in common?

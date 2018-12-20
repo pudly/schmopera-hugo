@@ -1,5 +1,5 @@
 ---
-title: "On a mental precipice: HGO's Elektra"
+title: "On a mental precipice: HGO&#039;s Elektra"
 ---
 
 After a turbulent week which demonstrated to Houston the value of preparing for winter weather with an abundance of foresight, a German opera about revengeful Grecian princesses might be the last thing on people's minds. On the other hand, Richard Strauss's *Elektra* rather emphasizes the importance of expecting the unexpected, so it was actually very fitting that Houston Grand Opera's striking opening performance of this music drama was what ended a very chaotic week. 

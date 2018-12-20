@@ -1,5 +1,5 @@
 ---
-title: "Susannah is THE great original American opera."
+title: "&quot;Susannah is THE great original American opera.&quot;"
 ---
 
 ## What do you think is the significance of performing *Susannah*?

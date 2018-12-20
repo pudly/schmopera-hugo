@@ -1,5 +1,5 @@
 ---
-title: The "positive impact" of Community Created Performances
+title: "The &quot;positive impact&quot; of Community Created Performances"
 ---
 
 Maya Angelou once asserted that "there is no greater agony than bearing an untold story inside of you." The three groups that performed at the Harris Theater this past Sunday afternoon commanded a full house with the urgency and creativity of their respective stories. [Kuumba Lynx](http://www.kuumbalynx.com/), [YOLO Boomers](https://www.youtube.com/watch?v=5HhHc41UtB8), and [Blu Rhythm Collective](https://www.facebook.com/Blurhythmchicago/) – groups of Chicago artists from diverse neighborhoods and of varying ages – were the selected finalists of this year's [Community Created Performances](https://www.lyricopera.org/concertstickets/calendar/2017-2018-other/productions/lyricopera/community-created-performances), an outreach program part of the Chicago Voices initiative (spearheaded by Renée Fleming) and all under the aegis of the [Lyric Opera of Chicago](/scene/companies/lyric-opera-of-chicago/). With $10,000 and a Lyric-hired creative team, each group utilized their talents in dance, song, hip-hop, script- and lyrics-writing to develop their distinct narratives into fully staged music-theater productions.

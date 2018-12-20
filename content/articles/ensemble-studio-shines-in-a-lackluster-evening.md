@@ -1,5 +1,5 @@
 ---
-title: Ensemble Studio shines in a lackluster Evening
+title: "Ensemble Studio shines in a lackluster Evening"
 ---
 
 One of the most hyped events of any year at the Canadian Opera Company is the annual evening dedicated to the artists of the Ensemble Studio. After a season spent singing small roles, understudying, assisting music staff, and performing at countless ancillary events, the young singers and pianists of the Ensemble are thrust into the spotlight for a singular night of focus.

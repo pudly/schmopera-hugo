@@ -1,5 +1,5 @@
 ---
-title: Orpheus and Eurydice, designed by Frank Gehry
+title: "Orpheus and Eurydice, designed by Frank Gehry"
 ---
 
 <p>

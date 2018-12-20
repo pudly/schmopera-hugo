@@ -1,5 +1,5 @@
 ---
-title: Opera composers we just don't like, okay?
+title: "Opera composers we just don&#039;t like, okay?"
 ---
 
 ## Meyerbeer

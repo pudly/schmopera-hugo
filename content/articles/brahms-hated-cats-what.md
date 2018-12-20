@@ -1,5 +1,5 @@
 ---
-title: Brahms hated cats? What?
+title: "Brahms hated cats? What?"
 ---
 
 Has anyone else read about this? Richard Wagner, the "notoriously bitchy composer" (David Ward, _The Guardian_), said that Johannes Brahms, composer and owner of classical music's best beard, hated cats. Allegedly, Brahms would sit by a window with a bow-and-arrow-type weapon that [Dvořák](http://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k) gave him, and shoot arrows at the cats in the street. Once he'd caught a cat, he would reel it in like he was fishing. But the really ridiculous part of this story is this: Brahms would listen to the sounds the cats made as he was reeling them in, and he'd _incorporate the sounds into his music. _

@@ -1,5 +1,5 @@
 ---
-title: Shh...Don't tell them it's opera!
+title: "Shh...Don&#039;t tell them it&#039;s opera!"
 ---
 
 I'm spending this month touring around Ontario, [putting on opera for kids](http://www.coc.ca/ExploreAndLearn/Schools/SchoolTour.aspx?agilitychannel=website). We bring a whole set, costumes, props and electric keyboard, to school gyms and perform for hundreds of kids, twice a day. It's a lot of early mornings, a lot of equipment-schlepping, and a lot of time in the tour van. But it's worth it. From where I sit at the piano, I can look out at the sea of kids as they take in live opera, probably for the first time in their lives. There's the usual gamut of reactions, like wide-eyed awe, laughter, terror, and indifference. I love them all, even the blatant hands covering ears when the singers get a bit too close for comfort.

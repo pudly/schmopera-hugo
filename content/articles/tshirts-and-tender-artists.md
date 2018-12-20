@@ -1,5 +1,5 @@
 ---
-title: T-shirts and tender artists
+title: "T-shirts and tender artists"
 ---
 
 Earlier this week, Old Navy took [heavy criticism](http://jezebel.com/old-navy-doesn-t-want-your-kids-to-become-artists-1750402241) for what was written on a couple of their kids t-shirts:

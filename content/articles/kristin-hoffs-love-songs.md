@@ -1,5 +1,5 @@
 ---
-title: Kristin Hoff's Love Songs
+title: "Kristin Hoff&#039;s Love Songs"
 ---
 
 As part of [*Sing! - The Toronto Vocal Arts Festival*](http://www.singtoronto.com/), I heard mezzo [Kristin Hoff](/scene/people/kristin-hoff/) perform the one-woman vocal feat by Ana Sokolovic, *Love Songs*. The work was commissioned by [Queen of Puddings Music Theatre](http://www.queenofpuddingsmusictheatre.com/love-songs.htm), and it's a compilation of love poetry in multiple languages, all sung by a solo *a cappella* voice.

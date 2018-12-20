@@ -1,5 +1,5 @@
 ---
-title: "Music degrees & expectations: 4 tips for new students"
+title: "Music degrees &amp; expectations: 4 tips for new students"
 ---
 
 ## If you still feel like a big fish in a small pond, you're at the wrong school

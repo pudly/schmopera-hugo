@@ -1,5 +1,5 @@
 ---
-title: "Erik Ochsner on conducting Star Trek: "goose bumps and tears are NOT optional!""
+title: "Erik Ochsner on conducting Star Trek: &quot;goose bumps and tears are NOT optional!&quot;"
 ---
 
 <h2>1. Why do you think there's such a strong relationship between science fiction and epic, symphonic music?</h2>

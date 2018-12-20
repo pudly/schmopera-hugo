@@ -1,5 +1,5 @@
 ---
-title: Learn about Armide (Atelier)
+title: "Learn about Armide (Atelier)"
 ---
 
 

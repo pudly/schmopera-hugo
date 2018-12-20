@@ -1,5 +1,5 @@
 ---
-title: "Faces in the crowd: opera's supernumeraries"
+title: "Faces in the crowd: opera&#039;s supernumeraries"
 ---
 
 ## How did you get involved in your supernumerary work, specifically in opera?

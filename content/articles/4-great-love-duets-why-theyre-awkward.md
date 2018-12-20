@@ -1,5 +1,5 @@
 ---
-title: 4 great love duets & why they're awkward
+title: "4 great love duets &amp; why they&#039;re awkward"
 ---
 
 ## Nero & Poppea

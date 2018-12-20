@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Lieder, Leaders, and Lovers"
+title: "Don&#039;t miss: Lieder, Leaders, and Lovers"
 ---
 
 "Why is it that you sing?"

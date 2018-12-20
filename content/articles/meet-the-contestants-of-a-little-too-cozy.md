@@ -1,5 +1,5 @@
 ---
-title: Meet the contestants of A Little Too Cozy!
+title: "Meet the contestants of A Little Too Cozy!"
 ---
 
 ## What was your first thought when you found out you’d be a contestant on *A Little Too Cozy*?

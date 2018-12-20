@@ -1,5 +1,5 @@
 ---
-title: Relationships and the road
+title: "Relationships and the road"
 ---
 
 For many reasons, singers are rock stars. They live large-than-life professional lives, and their craft becomes their whole world. Like rock stars, opera folk also travel a ton for their work; artists like to stay busy, and the busier they are, there's a good chance that they'll be away from home more. One of the huge sacrifices a singer, conductor, director, etc., makes for their career is a stable, "normal" personal life. Singers have relationships, families, friends, of course, but being away from them is an unavoidable part of it. 

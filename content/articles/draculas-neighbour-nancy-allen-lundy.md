@@ -1,5 +1,5 @@
 ---
-title: "Dracula's neighbour: Nancy Allen Lundy"
+title: "Dracula&#039;s neighbour: Nancy Allen Lundy"
 ---
 
 ## What kind of lady is Dracula's neighbour?

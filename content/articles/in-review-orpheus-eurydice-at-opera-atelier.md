@@ -1,5 +1,5 @@
 ---
-title: "In review: Orpheus & Eurydice at Opera Atelier"
+title: "In review: Orpheus &amp; Eurydice at Opera Atelier"
 ---
 
 **Jenna:** Opera Atelier has opened its run of Gluck's [_Orpheus and Eurydice_](http://www.operaatelier.com/season/14-15-season/), set to play until April 19th at the Elgin Theatre. OA presented Berlioz's version of the score, which is one of the company's first dips into 19th-century repertoire, tangental as the dip may be. I'm not hugely familiar with the piece, and so the differences in Berlioz's version weren't apparent to me as a listener; I'd be curious to compare the scores. I do know that Gluck's score has moments of stunning beauty, and really neat orchestra effects (perhaps augmented by Berlioz) that sound ahead of their time.

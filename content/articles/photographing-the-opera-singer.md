@@ -1,5 +1,5 @@
 ---
-title: Photographing the opera singer
+title: "Photographing the opera singer"
 ---
 
 ### What kind of presence do you find singers bring to a photo shoot? 

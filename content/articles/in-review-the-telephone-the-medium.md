@@ -1,5 +1,5 @@
 ---
-title: "In review: The Telephone & The Medium"
+title: "In review: The Telephone &amp; The Medium"
 ---
 
 The [University of Toronto Opera](http://uoftopera.ca/) opened a double bill last night, pairing together two of Menotti's  most well-loved works, *The Telephone* (1946) and *The Medium* (1945). I saw the first of two casts in what I thought was a beautifully detailed productions Michael Albano (*The Telephone*) and rising director [Anna Theodosakis](http://www.news.utoronto.ca/anna-theodosakis-first-student-direct-major-u-t-opera-production) (*The Medium*). The UofT Opera Orchestra took on these two tricky scores under maestra Sandra Horst, Chorus Master of the [Canadian Opera Company](/scene/companies/canadian-opera-company/); she was a great sight to see on the podium.

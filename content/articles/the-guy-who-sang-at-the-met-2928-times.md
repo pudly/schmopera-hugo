@@ -1,5 +1,5 @@
 ---
-title: The guy who sang at the Met 2,928 times
+title: "The guy who sang at the Met 2,928 times"
 ---
 
 In what can be deemed the Great Find of the Weekend, check out [this list](https://en.wikipedia.org/wiki/List_of_performers_at_the_Metropolitan_Opera) of artists who have had the most performers at [The Metropolitan Opera](/scene/companies/the-metropolitan-opera/). I can't vouch for how accurate (or up-to-date) the list is, and since it's a Wikipedia article, go ahead and take it with a grain of salt. That said, have a look at the ten singers with the most Met stage time:

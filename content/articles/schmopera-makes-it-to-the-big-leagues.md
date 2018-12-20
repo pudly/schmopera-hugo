@@ -1,5 +1,5 @@
 ---
-title: Schmopera makes it to the big leagues
+title: "Schmopera makes it to the big leagues"
 ---
 
 Great news! I'll be making an appearance on behalf of [Schmopera](http://schmopera.com/) on the [Big COC Podcast](http://www.coc.ca/~/ExploreAndLearn/NewToOpera/OnlineLearningCentre/ParlandoTheCOCBlog.aspx?Category=The+Big+COC+Podcast)! With host [Gianmarco Segato](https://twitter.com/ducadiposa), I'll be joined by maestro [Stephen Lord](http://schmopera.com/stephen-lord-on-singers-on-bel-canto-and-on-theatre/), who's in town conducting _A Masked Ball_ at the Canadian Opera Company, and by [Paula Citron](http://paulacitron.ca/meet-paula/), arts journalist, critic and broadcaster, and a past guest of the podcast.

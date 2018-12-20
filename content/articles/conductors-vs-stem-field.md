@@ -1,5 +1,5 @@
 ---
-title: Conductors vs STEM field
+title: "Conductors vs STEM field"
 ---
 
 Why aren't there more women conductors? This isn't a question that's leading towards accusations industry-wide gender inequality, thought it may very well be there. Perhaps it's because we're part of a younger generation of opera and classical music folks, but the idea of a woman taking the podium is not a controversial thing. No reasonable person would be opposed to the idea, and the only noteworthy thing about a *maestra* is the fact that she's rarer than a *maestro*.

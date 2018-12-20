@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Verdi's Requiem at the Southbank Centre"
+title: "Don&#039;t miss: Verdi&#039;s Requiem at the Southbank Centre"
 ---
 
 ## How do you prioritize rehearsal time with a piece of this scale?

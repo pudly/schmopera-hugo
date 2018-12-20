@@ -1,5 +1,5 @@
 ---
-title: Art song initiative commissions texts by children with autism
+title: "Art song initiative commissions texts by children with autism"
 ---
 
 Lynx Project, an art song initiative, is thrilled to announce their 2017 Autism Advocacy Project. A team of five composers, Joel David Balzun, Emily Cooley, Juliana Hall, Aristéa Mellos, and Travis Reynolds, will set the words of four young men to music. What makes this collaboration unique is that these writers, between ages 12-17, have autism and are primarily non-verbal. 

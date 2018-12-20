@@ -1,5 +1,5 @@
 ---
-title: "Barihunks' Jack Michaels: "We are in a golden age of baritones""
+title: "Barihunks&#039; Jack Michaels: &quot;We are in a golden age of baritones&quot;"
 ---
 
 ## What is it about baritones? Doesn't everyone love the tenor?

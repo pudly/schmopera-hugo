@@ -1,5 +1,5 @@
 ---
-title: The Ghost of Christmas Carols Past
+title: "The Ghost of Christmas Carols Past"
 ---
 
 As I’ve been coming to terms with the inevitability of my first green Christmas in a long time, as well as the first Christmas ever that I won’t spend with my family, I’ve been putting some extra effort into getting into the Christmas spirit. I’ve watched a couple Christmas movies and had some festive evenings with friends. 

@@ -1,5 +1,5 @@
 ---
-title: Intimate Brewery Room La Bohème A Revelatory Triumph
+title: "Intimate Brewery Room La Bohème A Revelatory Triumph"
 ---
 
 One of the great challenges of the opera world is constantly finding new ways to stage classics of the repertory. Poor Giacomo Puccini has been one of the greatest victims of this tendency of the opera world, and *La Bohème* perhaps has it the hardest of all his works: there's hardly anyone you can talk to in the world who isn't familiar with *La Bohème* or its modern-day recasting in *Rent*, and because of this staging the work in a new way is almost impossible. It is perhaps to the opera-lover's great relief, then, that the Boston Opera Collaborative has found a new way to stage the work by demolishing the distance between the audience and the action that breathes new life into the opera.

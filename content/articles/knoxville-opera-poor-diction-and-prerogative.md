@@ -1,5 +1,5 @@
 ---
-title: Knoxville Opera, poor diction, and prerogative
+title: "Knoxville Opera, poor diction, and prerogative"
 ---
 
 Singers reacted boldly to the [YAP Tracker posting](http://slippedisc.com/2015/12/ugly-old-singers-need-not-apply/) by Knoxville opera last week, which mentioned in their audition call, "Knoxville Opera will cast age appropriate, attractive artists in these roles."

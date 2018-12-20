@@ -1,5 +1,5 @@
 ---
-title: "Winning combos: Coote, Drake, & Schubert"
+title: "Winning combos: Coote, Drake, &amp; Schubert"
 ---
 
 [Alice Coote](/s) and Julius Drake are unmistakably masters of their generation, both brilliant refined artists with international careers and plenty of experience behind them. I was very excited to see them in concert together, in the beautiful venue of the Wigmore Hall. As performers, they didn't disappoint, though there were some musical choices I may not have agreed with. Overall, it was an evening of beautiful work from both performers and a recital that I enjoyed very much.

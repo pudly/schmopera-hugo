@@ -1,5 +1,5 @@
 ---
-title: "Great Operas Don't Just Happen."
+title: "&quot;Great Operas Don&#039;t Just Happen.&quot;"
 ---
 
 ## Why is something like the CLDP a necessary part of the opera industry in the 21st century?

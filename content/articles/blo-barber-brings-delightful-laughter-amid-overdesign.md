@@ -1,5 +1,5 @@
 ---
-title: BLO Barber brings delightful laughter amid overdesign
+title: "BLO Barber brings delightful laughter amid overdesign"
 ---
 
 There is a striking tendency among production designers in opera these days to bring an element of the abstract into the proceedings, especially in established staples of the operatic repertory. The effect is often distracting, and in its worst examples it distracts from opera's story-telling purpose. 

@@ -1,5 +1,5 @@
 ---
-title: 5 books that should be operas
+title: "5 books that should be operas"
 ---
 
 ## *Lord of the Flies*

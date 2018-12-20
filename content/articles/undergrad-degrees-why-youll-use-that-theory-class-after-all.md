@@ -1,5 +1,5 @@
 ---
-title: Undergrad degrees & why you'll use that theory class after all
+title: "Undergrad degrees &amp; why you&#039;ll use that theory class after all"
 ---
 
 ## Theory & analysis

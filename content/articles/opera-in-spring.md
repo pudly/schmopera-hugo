@@ -1,5 +1,5 @@
 ---
-title: Opera in Spring
+title: "Opera in Spring"
 ---
 
 <p>

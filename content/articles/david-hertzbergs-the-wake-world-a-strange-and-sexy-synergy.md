@@ -1,5 +1,5 @@
 ---
-title: "David Hertzberg's The Wake World: "A strange and sexy synergy.""
+title: "David Hertzberg&#039;s The Wake World: &quot;A strange and sexy synergy.&quot;"
 ---
 
 ## How do the eccentricities of Barnes and Crowley intersect in *The Wake World*?

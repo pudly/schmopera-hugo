@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Dmitri Hvorostovky at Koerner Hall"
+title: "Don&#039;t miss: Dmitri Hvorostovky at Koerner Hall"
 ---
 
 Next month at Koerner Hall, you can hear star baritone [Dmitri Hvorostovsky](/scene/people/dmitri-hvorostovsky/) in recital. Presented by Show One Productions on **February 21, 7pm**, Hvorostovsky will be joined by Russian pianist Ivari Ilya, winner of the International Frédéric Chopin Piano Competition in Warsaw, Poland. 

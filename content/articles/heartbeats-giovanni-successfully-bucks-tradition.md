@@ -1,5 +1,5 @@
 ---
-title: Heartbeat's Giovanni successfully bucks tradition
+title: "Heartbeat&#039;s Giovanni successfully bucks tradition"
 ---
 
 No spoilers. I guarantee you won't guess what happens after "Act 1" of [Heartbeat Opera](/scene/companies/heartbeat-opera/)'s new production of Mozart's *Don Giovanni* (Directed by Louisa Proske). See the show. Find out.

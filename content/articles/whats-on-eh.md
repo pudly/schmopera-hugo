@@ -1,5 +1,5 @@
 ---
-title: What's on, eh?
+title: "What&#039;s on, eh?"
 ---
 
 This spring, opera-going Canadians are in luck: across the country, opera is a-happening.

@@ -1,5 +1,5 @@
 ---
-title: A Chair in Love. What, what?
+title: "A Chair in Love. What, what?"
 ---
 
 ### 1. This opera seems pretty bizarre; what's the best way you could sum up the story of *A Chair in Love*?

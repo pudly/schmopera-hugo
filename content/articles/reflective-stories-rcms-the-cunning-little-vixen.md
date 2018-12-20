@@ -1,5 +1,5 @@
 ---
-title: "Reflective stories: RCM's The Cunning Little Vixen"
+title: "Reflective stories: RCM&#039;s The Cunning Little Vixen"
 ---
 
 *The Cunning Little Vixen* is an opera of complexity and ambiguity, evading simple characterisations. This gives it an appeal to cynical modern audiences that *Don Giovanni* or *La Traviata* could never hope to match. The Royal College of Music's production took full advantage of these nuances to allude to contemporary social issues. 

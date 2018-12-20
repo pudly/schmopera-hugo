@@ -1,5 +1,5 @@
 ---
-title: A funny thing happened on the way to the opera
+title: "A funny thing happened on the way to the opera"
 ---
 
 In conversation with a pleasant Londoner today, we experienced a bit of mild cultural shock. After it came up that we were opera lovers, said Londoner asked if we had plans to catch anything at ENO or the Royal Opera House. We assured him that we did, and he wondered aloud what was currently up at Covent Garden. I'll paraphrase what he said:

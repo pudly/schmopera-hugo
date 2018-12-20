@@ -1,5 +1,5 @@
 ---
-title: My WTF lightbulb moment
+title: "My WTF lightbulb moment"
 ---
 
 Artists love it when they hear an artist of another discipline speak about their work, their struggles, and their (many) moments of insecurity. It's amazing when actors have stories that resonate with writers, when writers' plights are relatable to singers', etc. We get to hear common tales of working hard without any recognition, of taking depressing jobs to pay bills, of getting That Big Opportunity, and whether or not it led to anything interesting. Solidarity, strength in numbers, that sort of thing.

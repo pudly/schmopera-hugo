@@ -1,5 +1,5 @@
 ---
-title: Are printed translations screwing up recitals?
+title: "Are printed translations screwing up recitals?"
 ---
 
 I came across an [Operavore article](http://www.wqxr.org/#!/story/should-opera-singers-stop-providing-printed-translations-song/) by [Fred Plotkin](https://twitter.com/FredPlotkin), which was, on the surface, a review of [Stephanie Blythe](/scene/people/stephanie-blythe/) and Warren Jones at Carnegie Hall earlier this month. The seasoned pair gave a top-notch recital, despite having no printed song translations in the programs. Instead, Blythe and Jones took turns reciting English translations of the poetry before performing the songs.

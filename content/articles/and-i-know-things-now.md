@@ -1,5 +1,5 @@
 ---
-title: And I Know Things Now
+title: "And I Know Things Now"
 ---
 
 The great Stephen Sondheim wrote:

@@ -1,5 +1,5 @@
 ---
-title: 3 things to learn from Joni
+title: "3 things to learn from Joni"
 ---
 
 ### The song is enough, if it's true

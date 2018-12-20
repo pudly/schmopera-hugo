@@ -1,5 +1,5 @@
 ---
-title: Amy Winehouse & the power of an audience
+title: "Amy Winehouse &amp; the power of an audience"
 ---
 
 If you've not yet seen [*Amy*](http://www.imdb.com/title/tt2870648/), the 2015 documentary about the life and career of Amy Winehouse, put it on your short-list.

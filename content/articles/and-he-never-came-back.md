@@ -1,5 +1,5 @@
 ---
-title: And he never came back
+title: "And he never came back"
 ---
 
 Conductors are dropping like flies in Europe. Riccardo Muti just [resigned](http://www.theguardian.com/world/2014/sep/22/riccardo-muti-severs-ties-opera-rome) as chief conductor from Teatro dell'Opera di Roma. “Despite all my efforts to contribute to your cause,” [Muti said](http://www.wqxr.org/#!/story/riccardo-muti-quits-rome-opera-conductor/), “there are no conditions to ensure the serenity necessary for the success of the production." The details are vague, but it's clear there are irreconcilable differences between Muti and the Opera di Roma's general management.

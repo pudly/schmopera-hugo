@@ -1,5 +1,5 @@
 ---
-title: Is new opera putting the répétiteur out of a job?
+title: "Is new opera putting the répétiteur out of a job?"
 ---
 
 Terrifying question for you: is new opera putting rehearsal pianists out of a job?

@@ -1,5 +1,5 @@
 ---
-title: "In review: Sondra Radvanovsky's stunning London recital debut"
+title: "In review: Sondra Radvanovsky&#039;s stunning London recital debut"
 ---
 
 [Sondra Radvanovsky](/talking-with-singers-sondra-radvanovsky/)'s London recital debut was one of those occasions where four encores seem the obvious result. With pianist Anthony Manoli, Radvanovsky sang for the [Rosenblatt Recitals series](http://www.rosenblattrecitalseries.co.uk/recital.aspx?key=173) at Cadogan Hall; she brought us everything Bellini to Barber, plus two great gowns. 

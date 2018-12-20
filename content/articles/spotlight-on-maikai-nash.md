@@ -1,5 +1,5 @@
 ---
-title: "Spotlight on: Maika'i Nash"
+title: "Spotlight on: Maika&#039;i Nash"
 ---
 
 ### 1. What was the biggest learning curve when you started working with singers?

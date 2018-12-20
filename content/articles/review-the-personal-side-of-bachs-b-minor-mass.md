@@ -1,5 +1,5 @@
 ---
-title: "Review: the personal side of Bach's B minor Mass"
+title: "Review: the personal side of Bach&#039;s B minor Mass"
 ---
 
 It's a similar sentiment when we listen to Mozart's *Requiem*: J.S. Bach's B minor Mass is a work that feels inexplicably autobiographical. The mass text exists well outside of the personal experiences of any composer who sets it; yet in the case of Bach, and the amount of sadness that followed him throughout his life, it's not difficult to imagine him speaking these desperate words in his own voice. Bach would consider that a great blasphemy, no doubt. A man almost as famous for his piety as for his music, it's no wonder he devoted himself and his extraordinary work to God; even if he had lived in a time and place where religiosity had been less prevalent, the untimely deaths of both of his parents, one of his wives, and ten of his children wouold amount to reason enough to seek meaning in the church.

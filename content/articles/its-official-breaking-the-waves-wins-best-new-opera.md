@@ -1,5 +1,5 @@
 ---
-title: "It's official: Breaking the Waves wins Best New Opera"
+title: "It&#039;s official: Breaking the Waves wins Best New Opera"
 ---
 
 ## What stood out about *Breaking the Waves*, in order to earn this inaugural Best New Opera award?

@@ -1,5 +1,5 @@
 ---
-title: The TSO pays homage to Maureen Forrester
+title: "The TSO pays homage to Maureen Forrester"
 ---
 
 G'day Schmop-Tops!

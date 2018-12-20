@@ -1,5 +1,5 @@
 ---
-title: The Introvert's Opera
+title: "The Introvert&#039;s Opera"
 ---
 
 <p>

@@ -1,5 +1,5 @@
 ---
-title: "Opera haters: they exist, & that's alright"
+title: "Opera haters: they exist, &amp; that&#039;s alright"
 ---
 
 There's an understandable amount of [opera love](/another-opera-apologist-part-1/) here on Schmopera, because, well, we do love it.

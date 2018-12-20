@@ -1,5 +1,5 @@
 ---
-title: Alaina's AutoCorrect
+title: "Alaina&#039;s AutoCorrect"
 ---
 
 Alaina Viau is the Artistic Director of [LooseTEA Music Theatre](http://looseteamusictheatre.com/). She's hard at work with the creative team of LooseTEA's upcoming double-bill, _Love in the Age of AutoCorrect_. The double-bill includes present-day adaptations of Mozart's _Bastien und Bastienne_ and Stravinsky's _Mavra_. Because this opera world is small, it's no surprise that Alaina happens to be working on this project with so with my friend and [frequent Schmopera-contributor](http://schmopera.com/author/greg/) Gregory Finney. I asked Alaina a few questions about presenting two operas in updated forms and why we should keep doing so; Greg was kind enough to chime in with some of his own answers. Love in the Age of AutoCorrect runs August 21-23 at Atelier Rosemarie Umetsu. [Get details and tickets here](http://looseteamusictheatre.com/current-productionautocorrect-operas/).

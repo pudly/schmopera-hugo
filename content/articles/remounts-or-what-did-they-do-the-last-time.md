@@ -1,5 +1,5 @@
 ---
-title: Remounts, or "What did they do the last time?"
+title: "Remounts, or &quot;What did they do the last time?&quot;"
 ---
 
 <p>

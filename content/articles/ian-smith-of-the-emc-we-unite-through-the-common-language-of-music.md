@@ -1,5 +1,5 @@
 ---
-title: "Ian Smith of the EMC: "We unite through the common language of music""
+title: "Ian Smith of the EMC: &quot;We unite through the common language of music&quot;"
 ---
 
 "Dear members and friends of the European Music Council,

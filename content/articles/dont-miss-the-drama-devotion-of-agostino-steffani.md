@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: the drama & devotion of Agostino Steffani"
+title: "Don&#039;t miss: the drama &amp; devotion of Agostino Steffani"
 ---
 
 Sometimes the best way to get a snapshot of history is not to look at the major figures of the time, but of their lesser-known contemporaries.

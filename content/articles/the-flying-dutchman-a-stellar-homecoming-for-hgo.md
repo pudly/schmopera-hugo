@@ -1,5 +1,5 @@
 ---
-title: The Flying Dutchman a stellar homecoming for HGO
+title: "The Flying Dutchman a stellar homecoming for HGO"
 ---
 
 As I walked this past Friday into the newly repaired Wortham Theater Center, recently subjected to months-long repairs after having withstood the devastating inundation that last year's tropical cyclone brought to bear upon the whole city of Houston, I could not help asking myself what impression Houston Grand Opera's inaugural performance of Richard Wagner's [*Der fliegende Holländer*](https://www.houstongrandopera.org/theflyingdutchman) would inevitably bestow upon its public, being, after all, the first time many Houstonians would return to this building that has supplied them with countless fulfilling cultural and community experiences. My impression was that it met, even exceeded, all conceivable expectations.

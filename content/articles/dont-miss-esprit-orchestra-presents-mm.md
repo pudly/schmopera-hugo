@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Esprit Orchestra presents m'M"
+title: "Don&#039;t miss: Esprit Orchestra presents m&#039;M"
 ---
 
 The Esprit Orchestra's programme for its second concert of the season is essentially one attention-grabbing piece after another. 

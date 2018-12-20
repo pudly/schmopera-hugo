@@ -1,5 +1,5 @@
 ---
-title: 5 Tips for University Auditionees
+title: "5 Tips for University Auditionees"
 ---
 
 <h2>1. Do your research, <em>then</em> find your pianist</h2>

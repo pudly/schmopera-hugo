@@ -1,5 +1,5 @@
 ---
-title: Wanna Write for Schmopera?
+title: "Wanna Write for Schmopera?"
 ---
 
 Alright, readers, listen up: Schmopera is on the hunt for guest contributors!

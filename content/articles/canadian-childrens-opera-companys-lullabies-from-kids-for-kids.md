@@ -1,5 +1,5 @@
 ---
-title: "Canadian Children's Opera Company's Lullabies: from kids, for kids"
+title: "Canadian Children&#039;s Opera Company&#039;s Lullabies: from kids, for kids"
 ---
 
 ## 1. How did you settle on a project meant to be gifted to new parents and babies at hospitals and shelters?

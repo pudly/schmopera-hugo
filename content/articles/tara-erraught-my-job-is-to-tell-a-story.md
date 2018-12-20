@@ -1,5 +1,5 @@
 ---
-title: "Tara Erraught: "My job is to tell a story.""
+title: "Tara Erraught: &quot;My job is to tell a story.&quot;"
 ---
 
 ## Why do you sing professionally?

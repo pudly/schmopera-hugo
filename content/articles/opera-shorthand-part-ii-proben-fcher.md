@@ -1,5 +1,5 @@
 ---
-title: "Opera shorthand, part II: Proben & Fächer"
+title: "Opera shorthand, part II: Proben &amp; Fächer"
 ---
 
 ## The rehearsals & *probes*

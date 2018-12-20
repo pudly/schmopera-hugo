@@ -1,5 +1,5 @@
 ---
-title: Is the Cost of a Music Degree Ethical?
+title: "Is the Cost of a Music Degree Ethical?"
 ---
 
 <p>

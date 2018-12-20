@@ -1,5 +1,5 @@
 ---
-title: "#Roundup2016: Greg & Jenna's Top 10"
+title: "#Roundup2016: Greg &amp; Jenna&#039;s Top 10"
 ---
 
 ## Number 10:

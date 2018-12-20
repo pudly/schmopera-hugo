@@ -1,5 +1,5 @@
 ---
-title: Schmopera is One!
+title: "Schmopera is One!"
 ---
 
 <p style="text-align: left;">

@@ -1,5 +1,5 @@
 ---
-title: Trans opera singer to sing national anthem at Oakland A's game
+title: "Trans opera singer to sing national anthem at Oakland A&#039;s game"
 ---
 
 There's a lot going on these days with 25 year-old soprano [Breanna Sinclairé](https://twitter.com/bronzequeen2911). On June 17th, she will sing the US national anthem at the opening of the Oakland Athletics game against the San Diego Padres. A look at her YouTube page shows an aspiring young soprano with her head in the right places. Lots of Leontyne Price and Beyoncé. 

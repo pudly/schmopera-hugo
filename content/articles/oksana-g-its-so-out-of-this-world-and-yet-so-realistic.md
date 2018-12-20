@@ -1,5 +1,5 @@
 ---
-title: "Oksana G.: "It's so out of this world, and yet so realistic.""
+title: "Oksana G.: &quot;It&#039;s so out of this world, and yet so realistic.&quot;"
 ---
 
 "These are not just, as we would think, troubled teenagers. They are regular girls, young women." Ukrainian-Canadian soprano [Natalya Gennadi](/scene/people/natalya-matyusheva/) is referring to the disturbing theme that lies at the heart of [*Oksana G.*](https://tapestryopera.com/3-oksana-g/), the opera by Aaron Gervais and Colleen Murphy which is presented by [Tapestry Opera](/scene/people/tapestry-opera/) from **May 24-30**.

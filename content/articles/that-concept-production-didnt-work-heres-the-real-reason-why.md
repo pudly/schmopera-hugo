@@ -1,5 +1,5 @@
 ---
-title: "That concept production didn't work," & here's the real reason why
+title: "&quot;That concept production didn&#039;t work,&quot; &amp; here&#039;s the real reason why"
 ---
 
 I came across two articles, talking about - wait for it - shockingly controversial opera productions. [*The Telegraph*](http://www.telegraph.co.uk/culture/music/opera/11707537/William-Tell-gang-rape-scene-causes-uproar-at-Royal-Opera-House.html) was one of several news outlets that reported on the outrage over Damiano Michieletto's current production of [*William Tell*](http://www.roh.org.uk/productions/guillaume-tell-by-damiano-michieletto) at the Royal Opera House; the source of the backlash seemed concentrated over a gang-rape scene, in which a woman is assaulted by a bunch of men onstage. 

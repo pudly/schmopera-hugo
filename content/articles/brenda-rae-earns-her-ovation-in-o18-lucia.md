@@ -1,5 +1,5 @@
 ---
-title: Brenda Rae earns her ovation in O18 Lucia
+title: "Brenda Rae earns her ovation in O18 Lucia"
 ---
 
 On Friday night, [Opera Philadelphia](/scene/companies/opera-philadelphia/) unveiled a new co-production with the Wiener Staatsoper of Donizetti's [*Lucia di Lammermoor*](https://www.operaphila.org/whats-on/on-stage-2018-2019/lucia-di-lammermoor/). This bel canto staple is O18 festival's most "conventional" offering, but it still delivers plenty of cutting-edge, vibrant and fresh elements. A popular 19th-century tragedy, *Lucia* balances out the rest of the O18 festival's less traditional offerings. Excellent casting and impressive musical preparation make this production an excellent reminder of why we love opera.

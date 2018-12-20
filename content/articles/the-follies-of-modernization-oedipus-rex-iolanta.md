@@ -1,5 +1,5 @@
 ---
-title: "The follies of modernization: Oedipus Rex & Iolanta"
+title: "The follies of modernization: Oedipus Rex &amp; Iolanta"
 ---
 
 Convention is convention. No matter the parameters, adherence to convention can make for dull theater. The mainstream operatic paradigm has common elements that while once modern or "stylized" have become pat: naturalistic acting broadened to accommodate music, slow motion or highly choreographed chorus pantomimes, projections (always projections), an added plot twist or shocking tableau to spruce up old material. There's nothing inherently wrong with any of these staging tricks, but when they're employed in an obligatory way, they risk sterilizing a piece's more adventurous intentions.

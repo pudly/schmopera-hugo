@@ -1,5 +1,5 @@
 ---
-title: An open letter to audition candidates
+title: "An open letter to audition candidates"
 ---
 
 Dear Audition Candidate,

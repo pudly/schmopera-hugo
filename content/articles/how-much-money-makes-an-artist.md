@@ -1,5 +1,5 @@
 ---
-title: How Much Money Makes an Artist?
+title: "How Much Money Makes an Artist?"
 ---
 
 <p>

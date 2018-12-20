@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: the RCM's unsettling double-bill"
+title: "Don&#039;t miss: the RCM&#039;s unsettling double-bill"
 ---
 
 ### What do you find are the unique qualities of opera based on literature? Are there any challenges in bringing it to the stage?

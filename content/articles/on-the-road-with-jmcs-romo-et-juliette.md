@@ -1,5 +1,5 @@
 ---
-title: On the road with JMC's Roméo et Juliette
+title: "On the road with JMC&#039;s Roméo et Juliette"
 ---
 
 ## The demands of a tour

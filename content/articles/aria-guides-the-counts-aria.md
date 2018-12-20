@@ -1,5 +1,5 @@
 ---
-title: "Aria guides: the Count's Aria"
+title: "Aria guides: the Count&#039;s Aria"
 ---
 
 ### The Recit

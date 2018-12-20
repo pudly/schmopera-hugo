@@ -1,5 +1,5 @@
 ---
-title: John Fanning on The Pencil Salesman
+title: "John Fanning on The Pencil Salesman"
 ---
 
 ## What kind of man is Boris?

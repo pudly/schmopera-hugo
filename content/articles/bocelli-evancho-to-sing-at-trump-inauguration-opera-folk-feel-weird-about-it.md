@@ -1,5 +1,5 @@
 ---
-title: Bocelli & Evancho to sing at Trump inauguration, opera folk feel weird about it
+title: "Bocelli &amp; Evancho to sing at Trump inauguration, opera folk feel weird about it"
 ---
 
 **\*Update: Andrea Bocelli has since [withdrawn his intent](https://www.nytimes.com/2016/12/20/arts/andrea-bocelli-wont-be-singing-at-the-trump-inauguration.html) to perform at the Trump inauguration.**

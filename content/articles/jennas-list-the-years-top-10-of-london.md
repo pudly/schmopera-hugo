@@ -1,5 +1,5 @@
 ---
-title: "Jenna's list: the year's Top 10 of London"
+title: "Jenna&#039;s list: the year&#039;s Top 10 of London"
 ---
 
 ## *The Depraved Appetite of Tarrare the Freak* at Wilton's Music Hall

@@ -1,5 +1,5 @@
 ---
-title: Nicole Brooks on Obeah Opera
+title: "Nicole Brooks on Obeah Opera"
 ---
 
 ### What can people expect from an "a cappella theatrical epic"?

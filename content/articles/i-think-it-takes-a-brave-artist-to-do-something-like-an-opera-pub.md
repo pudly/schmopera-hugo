@@ -1,5 +1,5 @@
 ---
-title: "I think it takes a brave artist to do something like an Opera Pub."
+title: "&quot;I think it takes a brave artist to do something like an Opera Pub.&quot;"
 ---
 
 ## For you, how does an AtG Opera Pub compare to the average concert gig?

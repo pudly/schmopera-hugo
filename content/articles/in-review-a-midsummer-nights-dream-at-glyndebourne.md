@@ -1,5 +1,5 @@
 ---
-title: "In review: A Midsummer Night's Dream at Glyndebourne"
+title: "In review: A Midsummer Night&#039;s Dream at Glyndebourne"
 ---
 
 Beyond the train full of folks in fancy dress, the packed bus that swerved through the impossibly narrow streets of Lewes and out to the broad countryside of Glyndebourne, the intoxicating gardens, and charming distant sounds of bleating sheep, was Peter Hall's production of *A Midsummer Night's Dream*. Aptly programmed alongside Berlioz's *Béatrice et Bénédict* in the 400th year since the death of William Shakespeare, Britten's opera is unabashedly a favourite of ours. The pages of the score are brimming over with magic, with novel sounds that still seem otherworldly, decades after its premiere in 1958.

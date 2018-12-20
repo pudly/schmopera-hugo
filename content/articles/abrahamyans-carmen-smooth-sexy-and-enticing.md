@@ -1,5 +1,5 @@
 ---
-title: Abrahamyan's Carmen "smooth, sexy, and enticing."
+title: "Abrahamyan&#039;s Carmen &quot;smooth, sexy, and enticing.&quot;"
 ---
 
 The curtain rises on a behemoth of a set for The Atlanta Opera's current production of Georges Bizet's [*Carmen*](https://www.atlantaopera.org/performance/carmen/). The set, costumes, and lighting are effective in translating a perfect Sevillian setting for a traditional version of the opera masterpiece under the direction of Second Year Atlanta Opera Studio Artist Brenna Corner who has taken the reigns to bring the Spanish flair of *Carmen* to the Atlanta Opera stage.

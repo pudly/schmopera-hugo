@@ -1,5 +1,5 @@
 ---
-title: A Letter to the Modern Diva
+title: "A Letter to the Modern Diva"
 ---
 
 Dear Diva,

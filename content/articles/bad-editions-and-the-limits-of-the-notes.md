@@ -1,5 +1,5 @@
 ---
-title: Bad Editions and the Limits of the Notes
+title: "Bad Editions and the Limits of the Notes"
 ---
 
 <p>

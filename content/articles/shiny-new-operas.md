@@ -1,5 +1,5 @@
 ---
-title: Shiny New Operas
+title: "Shiny New Operas"
 ---
 
 Starting in 2014, the operatic repertoire will grow with fresh and intriguing new pieces. Here are a few to which I look forward.

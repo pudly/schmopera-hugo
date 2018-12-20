@@ -1,5 +1,5 @@
 ---
-title: The TSO does Danny Elfman's music from the films of Tim Burton
+title: "The TSO does Danny Elfman&#039;s music from the films of Tim Burton"
 ---
 
 Hello Schmop-Tops, 

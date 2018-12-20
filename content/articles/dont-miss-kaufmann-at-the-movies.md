@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Kaufmann at the movies"
+title: "Don&#039;t miss: Kaufmann at the movies"
 ---
 
 As part of its [*Music at the Movies*](https://www.cineplex.com/Events/MusicAtTheMovies) series, Cineplex is presenting *Jonas Kaufmann: My Italy*, a concert documentary by Andy Sommers featuring the famed tenor. The doc plays on **July 26, 2017** at select theatres across Canada, and you can [find showtimes here](https://www.cineplex.com/Movie/jonas-kaufmann-my-italy).

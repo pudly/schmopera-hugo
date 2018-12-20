@@ -1,5 +1,5 @@
 ---
-title: Proof that Music is Simply Unreasonable
+title: "Proof that Music is Simply Unreasonable"
 ---
 
 <h2>Appealing to Authority and Tradition</h2>

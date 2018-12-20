@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Rocking Horse Winner"
+title: "Don&#039;t miss: Rocking Horse Winner"
 ---
 
 ## What prompted you to choose D.H. Lawrence's story as the source of an opera? 

@@ -1,5 +1,5 @@
 ---
-title: Schmopera takes a breather
+title: "Schmopera takes a breather"
 ---
 
 A quick heads-up, readers: for the month of August, Schmopera will be changing pace. We'll go from our usual peppy *allegro* to more of an *larghetto*, as we take, #waitforit, a vacation!

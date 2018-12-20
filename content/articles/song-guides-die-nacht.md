@@ -1,5 +1,5 @@
 ---
-title: "Song Guides: "Die Nacht""
+title: "Song Guides: &quot;Die Nacht&quot;"
 ---
 
 ## Some general wisdom

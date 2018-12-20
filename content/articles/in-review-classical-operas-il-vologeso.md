@@ -1,5 +1,5 @@
 ---
-title: "In review: Classical Opera's Il Vologeso"
+title: "In review: Classical Opera&#039;s Il Vologeso"
 ---
 
 When we spoke with [Ian Page](/ian-page-mozart-imagination/), conductor and Artistic Director of [Classical Opera](/scene/companies/classical-opera/), he was passionate about the musical fun, play, and imagination that can come out of paying attention to detail. Period instruments and tuning, and extensive study of old scores can often result in not much more than tomes of trivia and perhaps a satisfying amount of historical accuracy. Instead, Page and the Classical Opera ensemble take what's native and contemporary about their 18th-century repertoire, and hand it fully and proudly back to the audience. In other words, they prove that respect for the old can illuminate why this music is inspiring, both for Mozart and for 21st-century audiences.

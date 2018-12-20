@@ -1,5 +1,5 @@
 ---
-title: Kept women & a snapshot of life in La Rondine
+title: "Kept women &amp; a snapshot of life in La Rondine"
 ---
 
 The past few weeks have been an intense news cycle, and my mind has been going a mile a minute. So when I sat down in the Ordway Theater for [Minnesota Opera](/scene/companies/minnesota-opera/)'s season opener, *La Rondine*, I was a little taken aback. Isn't Puccini supposed to be full of suicide and violence? Shouldn't  there be explosive highs and lows to the music and drama? With *La Rondine*, Puccini gives us an introspective look at a snapshot of life. There is not a lot of background of any of the characters, in fact a good deal of the opera is just conversation about...well, life.

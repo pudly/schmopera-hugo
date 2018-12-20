@@ -1,5 +1,5 @@
 ---
-title: Arts education teaches better manners, & more preaching to the choir
+title: "Arts education teaches better manners, &amp; more preaching to the choir"
 ---
 
 Over the past few weeks, I've felt the urge to rant about something, and not for the first time:

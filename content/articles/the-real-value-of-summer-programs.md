@@ -1,5 +1,5 @@
 ---
-title: The real value of summer programs
+title: "The real value of summer programs"
 ---
 
 For young artists who are straddling the line between training and professional experience, it can seem as though there are nothing but costs along the way to becoming a real-deal opera singer, conductor, or director. They pay for audition recordings, headshots, website design, flights to New York, packable-yet-flattering performance wardrobe, and they certainly pay for their training; if it's not tuition at a university or a conservatory, young artists pay by the hour for lessons and coachings.

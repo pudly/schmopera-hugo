@@ -1,5 +1,5 @@
 ---
-title: A FAQ checklist for opera newbies
+title: "A FAQ checklist for opera newbies"
 ---
 
 ## Do I need to dress up?

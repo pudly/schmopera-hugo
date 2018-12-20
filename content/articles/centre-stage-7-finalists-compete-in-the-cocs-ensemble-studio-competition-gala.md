@@ -1,5 +1,5 @@
 ---
-title: "Centre Stage: 7 finalists compete in the COC's Ensemble Studio Competition Gala"
+title: "Centre Stage: 7 finalists compete in the COC&#039;s Ensemble Studio Competition Gala"
 ---
 
 ## Charles Sy, tenor (Toronto)

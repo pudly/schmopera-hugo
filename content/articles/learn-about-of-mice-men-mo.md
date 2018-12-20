@@ -1,5 +1,5 @@
 ---
-title: Learn about Of Mice & Men (MO)
+title: "Learn about Of Mice &amp; Men (MO)"
 ---
 
 

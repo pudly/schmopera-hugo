@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Against Nature"
+title: "Don&#039;t miss: Against Nature"
 ---
 
 Next month sees the world premiere of [*Against Nature (À Rebours)*](http://colemanlemieux.com/portfolio/againstnature/), presented by Coleman Lemieux & Compagnie. It's the second in a series of salon pieces by [James Kudelka](http://colemanlemieux.com/company/james_kudelka/), director and choreographer, following up on [*From the House of Mirth*](https://www.youtube.com/watch?v=0TXW20BvDEc&feature=youtu.be) in 2012 and 2013. *Against Nature* features music by Canadian composer [James Rolfe](/scene/people/james-rolfe/) (*Beatrice Chancy*, *Elijah's Kite*, [*Crush*](/james-rolfe-anna-chatterton-on-creating-crush/)) and a libretto by award-winning playwright [Alex Poch-Goldin](https://www.playwrightsguild.ca/playwright/alex-poch-goldin) (*Cringeworthy*, *From the House of Mirth*, *The Shadow*). 

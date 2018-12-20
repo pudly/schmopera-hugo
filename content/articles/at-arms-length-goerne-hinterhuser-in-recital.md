@@ -1,5 +1,5 @@
 ---
-title: "At arm's length: Goerne & Hinterhäuser in recital"
+title: "At arm&#039;s length: Goerne &amp; Hinterhäuser in recital"
 ---
 
 German baritone [Matthias Goerne](/scene/people/matthias-goerne/) returned to Wigmore Hall on Friday evening, for a recital of Lieder by Gustav Mahler and Hanns Eisler with pianist Markus Hinterhäuser. Each time we've heard him, [Goerne brings *gravitas* to the stage](http://www.schmopera.com/recitals-that-stick-matthias-goerne-at-wigmore-hall/); he creates ingenious recital programmes and seems to deliver no note without great thought.

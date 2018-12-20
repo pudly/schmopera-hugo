@@ -1,5 +1,5 @@
 ---
-title: 5 opera crossovers we're dying to see
+title: "5 opera crossovers we&#039;re dying to see"
 ---
 
 ## Violetta and Mimì

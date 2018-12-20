@@ -1,5 +1,5 @@
 ---
-title: Viva Claire & Aviva!
+title: "Viva Claire &amp; Aviva!"
 ---
 
 On Sunday, I was lucky enough to find myself invited to a small private recital by two of the best young singers in the country (there, I said it). Sopranos, and besties, Claire de Sevigne and Aviva Fortunata treated us to an intimate recital before they split up for about a year; Claire travels to Salzburg and Zürich, and Aviva heads out to dominate the 2015 Cardiff Singer of the World competition.

@@ -1,5 +1,5 @@
 ---
-title: What crippling stage fright taught me about money
+title: "What crippling stage fright taught me about money"
 ---
 
 For the last 5 years I've been battling some fairly serious stage fright. 

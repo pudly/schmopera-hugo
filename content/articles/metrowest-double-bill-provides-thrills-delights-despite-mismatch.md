@@ -1,5 +1,5 @@
 ---
-title: MetroWest Double Bill Provides Thrills & Delights Despite Mismatch
+title: "MetroWest Double Bill Provides Thrills &amp; Delights Despite Mismatch"
 ---
 
 Opera, perhaps more than any other performance art that I can think of, really likes to employ double bills. Of course, sometimes the trickiest part of finding a pair of operas to form a double bill with is finding the links between the two works to be presented: after all, an operatic double-bill is only made stronger with the right pairing of works to perform. Both shows also need to land on their own terms as individual pieces, although that part is significantly easier to pull off.

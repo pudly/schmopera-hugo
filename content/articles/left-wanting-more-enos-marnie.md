@@ -1,5 +1,5 @@
 ---
-title: "Left wanting more: ENO's Marnie"
+title: "Left wanting more: ENO&#039;s Marnie"
 ---
 
 This weekend I saw the ENO's production of Nico Muhly's *Marnie*. Based on a novel by Winston Graham which later became a Hitchcock film, the story is full of suspense and drama. Visually beautiful and very cleverly staged, using moving set pieces and projections to provide film-like transitions between scenes, the production was rich to look at, full of eye-catching tableaus and scenes. The costuming was very effective as well, particularly on Marnie herself and her quartet of Shadow Marnies who followed her throughout the show.

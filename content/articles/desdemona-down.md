@@ -1,5 +1,5 @@
 ---
-title: Desdemona Down
+title: "Desdemona Down"
 ---
 
 After an impressive media tempest, soprano Tamar Iveri will not be appearing as Desdemona in Opera Australia's upcoming production of _Otello_. OA made the [decision to replace Tamar](http://www.limelightmagazine.com.au/Article/388712,opera-australia-parts-company-with-tamar-iveri.aspx) after the singer's [homophobic remarks](may-she-never-work-again/) were made public. She recently gave a prickly, quasi-apology on her [Facebook page](https://www.facebook.com/tamariverisoprano/posts/10152123104307204?fref=nf), but it didn't seem to be swaying many opera lovers and LGBT non-haters.

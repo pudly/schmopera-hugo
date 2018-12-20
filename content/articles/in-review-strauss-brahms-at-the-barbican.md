@@ -1,5 +1,5 @@
 ---
-title: "In review: Strauss & Brahms at the Barbican"
+title: "In review: Strauss &amp; Brahms at the Barbican"
 ---
 
 Monday evening was our inaugural visit to London's [Barbican Centre](http://www.barbican.org.uk/), to hear the City of London Choir, the Royal Philharmonic Orchestra, and soloists [Claire Rutter](/scene/people/claire-rutter/) and [Stephen Gadd](/scene/people/stephen-gadd/) perform some of our favourite music. With a bonus selection of Mendelssohn's *Psalm 98*, the programme was devoted to Richard Strauss' haunting *Vier letzte Lieder*, and Brahms' epic *Ein deutsches Requiem*.

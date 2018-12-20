@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Enchanting China"
+title: "Don&#039;t miss: Enchanting China"
 ---
 
 With all our verbosity about opera, we'll admit we're a bit light on the topic of [Peking opera](https://en.wikipedia.org/wiki/Peking_opera). 

@@ -1,5 +1,5 @@
 ---
-title: "Misnomers & interstellar sex scenes: Vasco de Gama"
+title: "Misnomers &amp; interstellar sex scenes: Vasco de Gama"
 ---
 
 "Spoitus". That's the name my [friend](https://www.schmopera.com/scene/people/aj-glueckert/) came up with for the interstellar sex scenes in [Oper Frankfurt](/scene/companies/oper-frankfurt/)'s new production of Giacomo Meyerbeer's *L'Africaine/Vasco de Gama*, which premiered Sunday. Yes, it's that type of show. (Is that a type?)

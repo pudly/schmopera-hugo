@@ -1,5 +1,5 @@
 ---
-title: "Magic & high standards: Midsummer at Glyndebourne"
+title: "Magic &amp; high standards: Midsummer at Glyndebourne"
 ---
 
 ## What does it mean to you to be performing in *A Midsummer Night's Dream* in the 400th anniversary of Shakespeare's death?

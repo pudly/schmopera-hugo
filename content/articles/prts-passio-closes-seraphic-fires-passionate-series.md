@@ -1,5 +1,5 @@
 ---
-title: Pärt's Passio closes Seraphic Fire's passionate series
+title: "Pärt&#039;s Passio closes Seraphic Fire&#039;s passionate series"
 ---
 
 The score to Arvo Pärt's monumental *Passio* includes only three tempo indications: the first seven measures are to be sung "on the slow side"; the last seven measures, "very slowly"; while the sixty-five minutes of intense, mesmerizing music in between are marked at an unrelenting 132 quarter-note beats per minute. Neither fermatas nor unmeasured pauses stem the flow; instead, rests are counted in strict metre.

@@ -1,5 +1,5 @@
 ---
-title: Humility and Hadrian
+title: "Humility and Hadrian"
 ---
 
 "That is what, most of all, is shrinking audiences for contemporary music: not any particular musicians, stylistic approaches, or programming, but rather a pernicious idea that contemporary music can only succeed if it bets against itself, and pretends that losing was really winning all along."

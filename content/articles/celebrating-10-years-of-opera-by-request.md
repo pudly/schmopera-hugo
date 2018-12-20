@@ -1,5 +1,5 @@
 ---
-title: Celebrating 10 years of Opera By Request
+title: "Celebrating 10 years of Opera By Request"
 ---
 
 Hello Schmop-Tops, 

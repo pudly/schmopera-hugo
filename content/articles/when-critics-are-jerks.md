@@ -1,5 +1,5 @@
 ---
-title: When critics are jerks
+title: "When critics are jerks"
 ---
 
 _Der Rosenkavalier_ opened at [Glyndebourne](http://glyndebourne.com/production/der-rosenkavalier) on May 17th, and the opening night reviews ticked off some opera fans. Ordinarily, one would be happy that a bunch of critics can't stop talking about Irish mezzo [Tara Erraught](http://imgartists.com/artist/tara_erraught)'s performance of Octavian. But in this case, it's because the critics apparently couldn't stop from being mean. Not critical. Mean. They picked on Tara's appearance, because apparently her singing wasn't bad enough to pick on. They called her "dumpy", "stocky", and "unsightly and unappealing." Why? Because they're mean.

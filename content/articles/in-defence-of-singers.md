@@ -1,5 +1,5 @@
 ---
-title: In defence of singers
+title: "In defence of singers"
 ---
 
 I remember playing some auditions as part of a "mock" audition panel where the singers would get feedback about their audition presentation. I played for a soprano (who’s doing _very well_ for herself lately) who started smart with some Mozart. One of the auditioners then said to her, “Not that it’s _at all_ appropriate, but I’d love to hear the Lodoletta.” Sigh.

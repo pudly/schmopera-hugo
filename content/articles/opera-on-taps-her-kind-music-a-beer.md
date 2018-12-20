@@ -1,5 +1,5 @@
 ---
-title: "Opera On Tap's Her Kind: music & a beer"
+title: "Opera On Tap&#039;s Her Kind: music &amp; a beer"
 ---
 
 Hildegard von Bingen, that ever-relevant 11th-century saint, who was an author, mystic, poet, theologian, and, among other things, a composer, would likely be pleased with the company she keeps in *Her Kind, A Classical Cabaret Celebrating Womankind*, presented by the agile and intelligent Opera On Tap, New York. In residence at the Flea in Tribeca, its gracefully produced and thought-provoking evening began with the company's five sopranos singing Hildegard's "Quia ergo feminia," part one, arranged by company director and *Her Kind* creator, Sara Noble.

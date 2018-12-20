@@ -1,5 +1,5 @@
 ---
-title: "Star-cross'd lovers" cross artistic lines in new co-production
+title: "&quot;Star-cross&#039;d lovers&quot; cross artistic lines in new co-production"
 ---
 
 ### How did this collaboration come about?

@@ -1,5 +1,5 @@
 ---
-title: "Nerding out: Mozart's blurry barlines"
+title: "Nerding out: Mozart&#039;s blurry barlines"
 ---
 
 Want to see something neat?

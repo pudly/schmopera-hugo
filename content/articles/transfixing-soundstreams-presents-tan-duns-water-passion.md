@@ -1,5 +1,5 @@
 ---
-title: "Transfixing: Soundstreams presents Tan Dun's Water Passion"
+title: "Transfixing: Soundstreams presents Tan Dun&#039;s Water Passion"
 ---
 
 [Soundstreams](/scene/companies/soundstreams/) can pride itself in a tradition of presenting bold works by bold composers, and Friday night was no exception. Based on *Bach's St. Matthew Passion* (*Matthäus-Passion*) and commissioned by the Bachakadmie Stuttgart led by Helmut Rilling to commemorate 250th year of Bach's death, Chinese Composer Tan Dun's *Water Passion After St. Matthew* is a work so unique and creative yet accessible that I was transfixed. 

@@ -1,5 +1,5 @@
 ---
-title: "Nashville Opera's Carmen: "She dies because she told a man, 'no'.""
+title: "Nashville Opera&#039;s Carmen: &quot;She dies because she told a man, &#039;no&#039;.&quot;"
 ---
 
 ## What do you find inspiring and challenging about singing famous roles like Carmen and Don José? 

@@ -1,5 +1,5 @@
 ---
-title: "Jennifer Carter on La traviata: "Violetta is an everywoman.""
+title: "Jennifer Carter on La traviata: &quot;Violetta is an everywoman.&quot;"
 ---
 
 ## 1\. Who is Violetta?

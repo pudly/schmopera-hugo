@@ -1,5 +1,5 @@
 ---
-title: "Moving on up: Milan Milisavljević is MET's new Principal Viola"
+title: "Moving on up: Milan Milisavljević is MET&#039;s new Principal Viola"
 ---
 
 ## What can you tell us about the psychology of playing a blind audition?

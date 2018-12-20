@@ -1,5 +1,5 @@
 ---
-title: Pacific Opera Victoria's steampunk-meets-fantasy Rinaldo
+title: "Pacific Opera Victoria&#039;s steampunk-meets-fantasy Rinaldo"
 ---
 
 Baroque opera doesn't tend to get the air time of most other periods - for every one performance, you'll see a dozen Puccinis, Mozarts or Verdis. But [Pacific Opera Victoria](/scene/companies/pacific-opera-victoria/) shows the relevance, flexibility, and brilliance of the genre in one of the most innovative, magical productions I've ever seen in their current mounting of [*Rinaldo*](https://www.pov.bc.ca/rinaldo.html).

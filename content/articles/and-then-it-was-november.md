@@ -1,5 +1,5 @@
 ---
-title: ...and then it was November
+title: "...and then it was November"
 ---
 
 Hello, Schmop-Tops.

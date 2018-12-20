@@ -1,5 +1,5 @@
 ---
-title: Calgary Opera launches 2018-19 season
+title: "Calgary Opera launches 2018-19 season"
 ---
 
 "Bold" wasn't the only buzz word that permeated the launch of Calgary Opera's 2018-19 season.

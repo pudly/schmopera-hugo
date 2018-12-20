@@ -1,5 +1,5 @@
 ---
-title: Who's afraid of the aging singer?
+title: "Who&#039;s afraid of the aging singer?"
 ---
 
 <figure data-type="image">

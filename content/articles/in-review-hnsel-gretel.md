@@ -1,5 +1,5 @@
 ---
-title: "In review: Hänsel & Gretel"
+title: "In review: Hänsel &amp; Gretel"
 ---
 
 I went and saw one of my favourite operas last night: [_Hänsel and Gretel_](http://www.metroyouthopera.ca/2014-season/), by Engelbert Humperdinck, based on the creepy [Brothers Grimm](http://en.wikipedia.org/wiki/Brothers_Grimm) fairytale. I think it's a show that transports itself well on small and large stages, with small and large orchestras and even pianos. So it was great to see this production by [Metro Youth Opera](http://www.metroyouthopera.ca/) in an intimate space, where we could see subtle moments and get to know the characters more quickly. The production is directed by [Alison Wong](https://twitter.com/alleywo); I loved that it made me look twice at the piece, and at the story that I already know well. Alison really found specificity in the German text, which you could see throughout the cast. That text-first starting point is what makes _Hänsel and Gretel_ a compelling story, even without Humperdinck's large orchestra ([or the Met's budget](https://www.youtube.com/watch?v=wMuEwhw97RI)).

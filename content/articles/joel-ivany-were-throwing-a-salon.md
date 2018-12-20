@@ -1,5 +1,5 @@
 ---
-title: "Joel Ivany: "We're throwing a salon.""
+title: "Joel Ivany: &quot;We&#039;re throwing a salon.&quot;"
 ---
 
 For most opera lovers, the Cinderella story conjures up the blazing coloratura in Rossini's *La Cenerentola* and the shimmering sounds of Massenet's *Cendrillon*. Pauline Viardot - whose name does not quickly come to mind as an opera composer - wrote her *Cendrillon* alongside contemporaries like Meyerbeer, Debussy, and Gounod.

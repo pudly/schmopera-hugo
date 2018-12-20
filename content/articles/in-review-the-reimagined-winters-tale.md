@@ -1,5 +1,5 @@
 ---
-title: "In review: The (reimagined) Winter's Tale"
+title: "In review: The (reimagined) Winter&#039;s Tale"
 ---
 
 Before a packed crowd in the Cockpit Theatre, The Hermes Experiment presented *The Winter's Tale: Shakespeare musically reimagined*. Directed by Nina Brazier, Shakespeare's play is abridged to roughly one hour in length, and it's set to original music by Kim Ashton.

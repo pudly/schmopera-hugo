@@ -1,5 +1,5 @@
 ---
-title: "Nate Douglas: "Writing songs is fun.""
+title: "Nate Douglas: &quot;Writing songs is fun.&quot;"
 ---
 
 "The best audiences are in Québec. There's something about French-Canadian culture, music, art, they just love it," says guitarist and singer/songwriter [Nate Douglas](http://www.natedouglasguitar.com/) of the Celtic fiddle music that takes up a sizeable slice of his performing schedule. Douglas has toured with the likes of fiddle greats Doug Leahy and [Natalie MacMaster](http://www.nataliemacmaster.com/), and he plays a mix of Celtic music and jazz/rock fusion with various bands around North America.

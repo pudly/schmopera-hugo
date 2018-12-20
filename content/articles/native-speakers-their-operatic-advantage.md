@@ -1,5 +1,5 @@
 ---
-title: Native speakers & their operatic advantage
+title: "Native speakers &amp; their operatic advantage"
 ---
 
 I can't vouch for native speakers of German, Italian, French, Russian, etc., but for singers whose first language is English, the idea of "singing in one's native tongue" is a frightful one. English can be a tricky language to sing, especially if you're born in North America. Our vowels are dull, and there are lots of schwas replacing what could be lovely bright vowels (my name, for example is Jenna, often pronounced [dʒɛnə]).

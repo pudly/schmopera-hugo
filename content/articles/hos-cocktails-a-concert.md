@@ -1,5 +1,5 @@
 ---
-title: "HOS: Cocktails & a concert"
+title: "HOS: Cocktails &amp; a concert"
 ---
 
 [Highlands Opera Studio](/scene/companies/highlands-opera-studio/) is entering its 10th season, and they're ready to throw a party about it.

@@ -1,5 +1,5 @@
 ---
-title: "Robert Ames: Deep Minimalism & LCO"
+title: "Robert Ames: Deep Minimalism &amp; LCO"
 ---
 
 The folks behind the London Contemporary Orchestra seem to be some of today's most insatiable seekers of the new and creative. The short version of their extensive list of collaborations includes projects with Terry Riley, Beck, Radiohead's Jonny Greenwood, members of Arcade Fire, Vivienne Westwood, and Nike.

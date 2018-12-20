@@ -1,5 +1,5 @@
 ---
-title: Spotlight On...who?
+title: "Spotlight On...who?"
 ---
 
 Readers, you're big fans of our ["Spotlight On..."](/spotlight-on-stephanie-tritchew/) series, where we post a set list of questions to singers, pianists, conductors, and directors, to figure out why and how they do what they do.

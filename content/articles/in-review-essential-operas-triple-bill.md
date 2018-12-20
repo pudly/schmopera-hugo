@@ -1,5 +1,5 @@
 ---
-title: "In Review: Essential Opera's Triple Bill"
+title: "In Review: Essential Opera&#039;s Triple Bill"
 ---
 
 This past weekend, [Essential Opera](http://essentialopera.com/) achieved a true feat in the Canadian opera scene: they presented a triple bill of Canadian works, all brand new. It was really exciting to see an event like this in Toronto; to hear Canadian opera, you most likely need to attend something involving [Tapestry New Opera Works](https://tapestryopera.com/). But Essential Opera has put themselves on the map in its new contributions to Canada's operatic repertoire, and I give them a bravo for that.

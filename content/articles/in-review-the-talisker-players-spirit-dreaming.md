@@ -1,5 +1,5 @@
 ---
-title: "In review: The Talisker Players & Spirit Dreaming"
+title: "In review: The Talisker Players &amp; Spirit Dreaming"
 ---
 
 Major snowstorms and a rough start to the day for Toronto commuters didn't stop a dedicated crowd from showing up to Trinity-St. Paul's on Tuesday night.

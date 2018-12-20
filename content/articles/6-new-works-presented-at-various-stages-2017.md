@@ -1,5 +1,5 @@
 ---
-title: 6 new works presented at Various Stages 2017
+title: "6 new works presented at Various Stages 2017"
 ---
 
 [Mahogany Opera Group](/scene/companies/mahogany-opera-group/) has presented the third iteration of its [Various Stages festival](https://www.mahoganyoperagroup.co.uk/productions/various-stages-festival-2017/), which showcases works-in-development in an intimate setting designed to encourage feedback between the creators and the audience.

@@ -1,5 +1,5 @@
 ---
-title: Boys who are girls who love girls that are boys, or, Handel's Alcina
+title: "Boys who are girls who love girls that are boys, or, Handel&#039;s Alcina"
 ---
 
 On Wednesday, March 16th I filed into my amazing seat (yet another one - thanks, [Royal Conservatory](/scene/companies/royal-conservatory-of-music/)) in Koerner Hall to take in the students and guests of the Glenn Gould School, performing Handel's magical, mystery tour de force, *Alcina*. 

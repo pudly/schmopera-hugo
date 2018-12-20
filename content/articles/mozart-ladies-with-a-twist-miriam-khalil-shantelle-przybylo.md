@@ -1,5 +1,5 @@
 ---
-title: "Mozart ladies with a twist: Miriam Khalil & Shantelle Przybylo"
+title: "Mozart ladies with a twist: Miriam Khalil &amp; Shantelle Przybylo"
 ---
 
 ## Two unique character back-stories

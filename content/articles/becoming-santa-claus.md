@@ -1,5 +1,5 @@
 ---
-title: Becoming Santa Claus
+title: "Becoming Santa Claus"
 ---
 
 - DVD release of Mark Adamo's opera *Becoming Santa Claus*. 

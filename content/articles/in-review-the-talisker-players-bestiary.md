@@ -1,5 +1,5 @@
 ---
-title: "In review: The Talisker Players' Bestiary"
+title: "In review: The Talisker Players&#039; Bestiary"
 ---
 
 I went to a concert on Tuesday night, one of the [Talisker Players](http://www.taliskerplayers.ca/aboutUs.html)' main concert series at Trinity St. Paul's United Church. I'd never been to see the Talisker Players, but I was lured both by singers Norine Burgess and Geoffrey Sirett, and by the evening's title: _Creature to Creature_. I've done a few animal-themed concerts, and the expressive potential of using animals to tell human stories is unexpected.

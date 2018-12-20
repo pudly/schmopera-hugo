@@ -1,5 +1,5 @@
 ---
-title: How to lead your pianist
+title: "How to lead your pianist"
 ---
 
 Singers, how much do you love auditions? I know you're all troopers, experts at the art of wowing someone in two arias or less. It's really all about making your way through the huge list of Things You Can't Control. Often, one of those things is the prowess of your audition pianist.

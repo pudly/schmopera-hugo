@@ -1,5 +1,5 @@
 ---
-title: "Aria Guides: "Aprite un po' quegli occhi""
+title: "Aria Guides: &quot;Aprite un po&#039; quegli occhi&quot;"
 ---
 
 ## The recit

@@ -1,5 +1,5 @@
 ---
-title: Schmopera goes west
+title: "Schmopera goes west"
 ---
 
 Exciting news! In July, I'll be heading to work at [Open Space](http://www.banffcentre.ca/programs/program.aspx?id=1457), the exciting new program  partnering [Against the Grain Theatre](http://againstthegraintheatre.com/) with [The Banff Centre](http://www.banffcentre.ca/media-release/1156/banff-centre-partners-with-against-grain-theatre-and-canadian-opera-company/) and the [Canadian Opera Company](http://www.coc.ca/). There, we'll explore [_Uncle John_](https://twitter.com/RakePunished), the brand new adaptation of Mozart's _Don Giovanni _with a libretto by AtG Theatre's Artistic Director, [Joel Ivany](https://twitter.com/joelivany).

@@ -1,5 +1,5 @@
 ---
-title: "Brisk & wicked: Die Zauberflöte at ROH"
+title: "Brisk &amp; wicked: Die Zauberflöte at ROH"
 ---
 
 Fifteen years after its first performance, the David McVicar production of [*Die Zauberflöte*](http://www.roh.org.uk/productions/die-zauberflote-by-david-mcvicar) opened last night at the [Royal Opera House](/scene/companies/royal-opera-house/) in Covent Garden. Being one of the quickest *Flutes* that I've ever seen, conductor [Julia Jones](/scene/people/julia-jones/) did seem in a hurry to get through the evening. In some cases, I was grateful for these speedy tempi - it's easy to remember waiting for the second act to get to the final chorus as the music of Sarastro's men drags through mud. There was no mud in Jones' *Flute*, although at times the high-speed sacrificed the text of the singers.

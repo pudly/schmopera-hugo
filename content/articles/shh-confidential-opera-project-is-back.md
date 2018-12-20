@@ -1,5 +1,5 @@
 ---
-title: Shh! Confidential Opera Project is back!
+title: "Shh! Confidential Opera Project is back!"
 ---
 
 Hello, Schmop-Tops!

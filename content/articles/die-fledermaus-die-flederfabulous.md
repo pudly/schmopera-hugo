@@ -1,5 +1,5 @@
 ---
-title: Die Fledermaus? Die Fleder-fabulous!
+title: "Die Fledermaus? Die Fleder-fabulous!"
 ---
 
 Did you ever wonder what it what a anime-circus-drag operetta would look like?

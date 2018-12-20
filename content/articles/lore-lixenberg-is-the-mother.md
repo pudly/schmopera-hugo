@@ -1,5 +1,5 @@
 ---
-title: Lore Lixenberg is The Mother
+title: "Lore Lixenberg is The Mother"
 ---
 
 ## What kind of woman is The Mother?

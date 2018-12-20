@@ -1,5 +1,5 @@
 ---
-title: Stephen Fry's latest charming appearance at the Royal Opera House
+title: "Stephen Fry&#039;s latest charming appearance at the Royal Opera House"
 ---
 
 I think this event was a groundbreaking step forward in making opera accessible to a new generation. Moderated by our favourite Stephen Fry, the [Intelligence²](http://www.intelligencesquared.com/) debate was whether Richard Wagner or Giuseppe Verdi reigned as an operatic master. With columnist/blogger [Norman Lebrecht](http://www.normanlebrecht.com/) backing Verdi and novelist [Philip Hensher](http://en.wikipedia.org/wiki/Philip_Hensher) vouching for Wagner, the debate was part of a celebration of the 200th birthday of both composers. It also features some great performances by young operatic talent, most notably Dušica Biljelić's performance of Desdemona's aria from Verdi's _Otello_ (begins at 35:00).

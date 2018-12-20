@@ -1,5 +1,5 @@
 ---
-title: How Donald Trump gave me writer's block
+title: "How Donald Trump gave me writer&#039;s block"
 ---
 
 I thought it was writer's block. I figured it was a combination of the insane happenings with the Presidential Election, and the distractions of the holiday season, that made it hard to get invested in operatic topics and write about them. 

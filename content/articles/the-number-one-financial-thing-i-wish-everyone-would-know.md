@@ -1,5 +1,5 @@
 ---
-title: The number one financial thing I wish everyone would know
+title: "The number one financial thing I wish everyone would know"
 ---
 
 I love personal finance. 

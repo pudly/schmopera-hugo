@@ -1,5 +1,5 @@
 ---
-title: A summer Mozart menu
+title: "A summer Mozart menu"
 ---
 
 Mozart's *Meistermusik* was the *amuse bouche* of this summer concert nearing

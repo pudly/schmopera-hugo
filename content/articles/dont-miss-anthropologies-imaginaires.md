@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Anthropologies imaginaires"
+title: "Don&#039;t miss: Anthropologies imaginaires"
 ---
 
 Canadian composer [Gabriel Dharmoo](/scene/people/gabriel-dharmoo/) is set to bring his award-winning *Anthropologies imaginaires* to this year's [SummerWorks Performance Festival](https://apps.vendini.com/ticket-software.html?t=tix&e=77a4481bec72d470d30eb8ceeac384a8&vqitq=b9f9ea4f-51d4-42ac-8475-a9a1b32abe7a&vqitp=16c9dcf9-9299-4881-b9f4-4c9d75996cfa&vqitts=1468851556&vqitc=vendini&vqite=itl&vqitrt=Safetynet&vqith=85977537fcd4e0d593d13a7c732ea577).

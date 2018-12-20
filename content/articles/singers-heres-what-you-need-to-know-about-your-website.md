@@ -1,5 +1,5 @@
 ---
-title: "Singers: here's what you need to know about your website"
+title: "Singers: here&#039;s what you need to know about your website"
 ---
 
 Singers, I know you've heard this before, but seriously, you all need to get websites. Some of you don't have websites, *or* Twitter accounts, *or* Facebook pages. I'd name names, but you're not on the Internet.

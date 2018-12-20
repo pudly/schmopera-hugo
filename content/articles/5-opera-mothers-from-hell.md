@@ -1,5 +1,5 @@
 ---
-title: 5 opera mothers from hell
+title: "5 opera mothers from hell"
 ---
 
 ## The Queen of the Night in *Die Zauberflöte*

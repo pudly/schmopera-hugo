@@ -1,5 +1,5 @@
 ---
-title: "The Italian Girl in Algiers: Rossini's "feminist celebration""
+title: "The Italian Girl in Algiers: Rossini&#039;s &quot;feminist celebration&quot;"
 ---
 
 ## What do you think are the tricks to directing comedy? 

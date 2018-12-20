@@ -1,5 +1,5 @@
 ---
-title: A grand night out at Vancouver Opera's Turandot
+title: "A grand night out at Vancouver Opera&#039;s Turandot"
 ---
 
 [Vancouver Opera](/scene/companies/vancouver-opera/)'s inaugural performance for the 2017-18 season is Puccini's [*Turandot*](https://www.vancouveropera.ca/Turandot). In an epic launch which will hopefully be setting the tone for the rest of the season, this production is grand on a scale you could only see in opera, an absolutely sumptuous feast for the eyes from beginning to end. 

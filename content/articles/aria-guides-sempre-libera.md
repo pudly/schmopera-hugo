@@ -1,5 +1,5 @@
 ---
-title: "Aria guides: "Sempre libera""
+title: "Aria guides: &quot;Sempre libera&quot;"
 ---
 
 1. This opening is definitely easier in the context of the full opera; if you're doing the aria on its own, remember to keep it simple and speech-like. When you get to "In core scolpiti...", most conductors (and pianists) are happier if you sing the bar in a tempo, rather than as a free recitative.<figure data-type="image">

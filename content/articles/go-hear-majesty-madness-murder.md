@@ -1,5 +1,5 @@
 ---
-title: Go hear Majesty, Madness & Murder
+title: "Go hear Majesty, Madness &amp; Murder"
 ---
 
 Next week, Ontario audiences have a chance to hear two exciting young sopranos in recital. On June 16 (Hamilton) and June 19 (Toronto), Teiya Kasahara and Stephanie Yelovich present *Majesty, Madness & Murder: An evening of Italian Opera and Art Song*, to raise funds towards tuition for the [Operavision Academy](http://operavision.org/) in Urbania, Italy. At the Operavision Academy, Teiya and Stephanie will have the chance to a) go to Italy and sing some Italian music, and b) work with renowned soprano [Aprile Millo](/scene/people/aprile-millo/) and the invaluable [Dr. Mary-Lou Vetere](/scene/people/dr-mary-lou-vetere/). Earlier this season I was able to hear Millo and Vetere [in recital](/he-saidshe-said-aprile-millo-at-trinity-st-pauls/), and it's clear that to work with them at the Operavision Academy is to work with true pros.

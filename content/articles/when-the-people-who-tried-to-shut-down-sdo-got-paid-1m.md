@@ -1,5 +1,5 @@
 ---
-title: When the people who tried to shut down SDO got paid $1M
+title: "When the people who tried to shut down SDO got paid $1M"
 ---
 
 Thanks to [Slipped Disc](http://slippedisc.com/2015/05/opera-pays-1-million-to-pair-who-crashed-the-company/), I read the ugly story of Ian Campbell and his ex-wife Ann Spira Campbell, and how they were paid roughly $1M on their way out of the San Diego Opera board. 

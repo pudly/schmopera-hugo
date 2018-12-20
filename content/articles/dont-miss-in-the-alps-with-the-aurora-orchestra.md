@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: In the Alps with the Aurora Orchestra"
+title: "Don&#039;t miss: In the Alps with the Aurora Orchestra"
 ---
 
 ### From a singer's point of view, what can you say about the advantages and challenges of performing music from memory, as the Aurora Orchestra has made it a point to do in recent seasons?

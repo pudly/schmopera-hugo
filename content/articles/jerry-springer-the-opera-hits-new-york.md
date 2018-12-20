@@ -1,5 +1,5 @@
 ---
-title: Jerry Springer - The Opera hits New York
+title: "Jerry Springer - The Opera hits New York"
 ---
 
 The dictionary, so often cited as a reference by high school debaters, defines opera as a dramatic story set to music. By that standard, [*Jerry Springer - The Opera*](https://www.thenewgroup.org/jerryspringertheopera.html), presented by The New Group and now playing off Broadway at the Romulus Linney Courtyard Theatre, most definitely qualifies. But so too, then, does the all singing episode of *Buffy The Vampire Slayer*, just to put things in perspective. 

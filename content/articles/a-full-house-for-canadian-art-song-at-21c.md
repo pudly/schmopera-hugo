@@ -1,5 +1,5 @@
 ---
-title: A full house for Canadian art song at 21C
+title: "A full house for Canadian art song at 21C"
 ---
 
 In his introduction of the [Canadian Art Song Project](/scene/companies/canadian-art-song-project/)'s *Songs of our Time: Canada at 150* in association with 21C Music, CASP co-founder [Steven Philcox](/scene/people/steven-philcox/) quipped that the subsequent morning headlines should read, "Contemporary art song sells out in Toronto".

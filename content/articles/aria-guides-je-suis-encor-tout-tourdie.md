@@ -1,5 +1,5 @@
 ---
-title: "Aria guides: "Je suis encor tout étourdie""
+title: "Aria guides: &quot;Je suis encor tout étourdie&quot;"
 ---
 
 1. There's a natural quality about French when it's sung, and Massenet seems to go to a lot of trouble to notate the effect. You can see it in these tenuto markings above "suis" and "-cor," where Massenet insists on keeping the stress of the sentence in a few specific places. This aria is all about Manon's wonder at new places and sights, and by following the tenuto markings, it's easier to get that sense of wide-eyed awe. It's kind of like the subtext of each tenuto note should be "woooowwwwww."<figure data-type="image">

@@ -1,5 +1,5 @@
 ---
-title: Newbies at the opera
+title: "Newbies at the opera"
 ---
 
 Being more of a rock/indie concert-goer, and the occasional Broadway musical, I had never been to a proper opera before. All I knew about opera was from Saturday morning cartoons - ["Kill Da Wabbit"](http://store.schmopera.com/) comes to mind.  When the opportunity came up to see an opera (and a classic at that, [*The Marriage of Figaro*](/in-review-the-marriage-of-figaro/)), I couldn’t say no.

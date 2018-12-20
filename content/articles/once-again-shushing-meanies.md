@@ -1,5 +1,5 @@
 ---
-title: Once again, shushing meanies
+title: "Once again, shushing meanies"
 ---
 
 We've written before about opera critics, and how they can be mean folks sometimes. Two summers ago, critics who saw *Der Rosenkavalier* at Glyndebourne were griping about mezzo-soprano [Tara Erraught's body](/when-critics-are-jerks/), calling her "dumpy" and "stocky".

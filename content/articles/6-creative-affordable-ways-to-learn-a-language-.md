@@ -1,5 +1,5 @@
 ---
-title: 6 creative & affordable ways to learn a language 
+title: "6 creative &amp; affordable ways to learn a language "
 ---
 
 As classical singers, we constantly are looking for creative ways to learn a language quickly and affordably. Languages are important to our craft: we sing in different languages, we work in different countries, and our colleagues speak different languages. Yet we’re often not in another country long enough to learn the language by exposure alone. Therefore, we need to add language learning to the long list of skills we must continually develop.

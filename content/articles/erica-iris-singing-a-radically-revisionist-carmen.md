@@ -1,5 +1,5 @@
 ---
-title: "Erica Iris: singing a "radically revisionist" Carmen"
+title: "Erica Iris: singing a &quot;radically revisionist&quot; Carmen"
 ---
 
 ## What kind of woman is Carmen? What about her do you think is commonly misunderstood?

@@ -1,5 +1,5 @@
 ---
-title: It's beginning to look a lot like **SUB NEEDED**
+title: "It&#039;s beginning to look a lot like **SUB NEEDED**"
 ---
 
 It started last week with a bit of a trickle. But then, the landslide began. 

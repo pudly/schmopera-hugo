@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Tête à Tête's 10th annual Opera Festival"
+title: "Don&#039;t miss: Tête à Tête&#039;s 10th annual Opera Festival"
 ---
 
 ## What do you think has kept Tête à Tête alive for 20 seasons?

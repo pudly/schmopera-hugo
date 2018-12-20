@@ -1,5 +1,5 @@
 ---
-title: Tales from stage management
+title: "Tales from stage management"
 ---
 
 ## What’s your favourite part about stage managing for opera?

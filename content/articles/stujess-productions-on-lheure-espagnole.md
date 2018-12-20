@@ -1,5 +1,5 @@
 ---
-title: Stu&Jess Productions, on L'heure espagnole
+title: "Stu&amp;Jess Productions, on L&#039;heure espagnole"
 ---
 
 ### 1. What about *L’heure Espagnole* makes it an appealing choice for Stu&Jess Productions?

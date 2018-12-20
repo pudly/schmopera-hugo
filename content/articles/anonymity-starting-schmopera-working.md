@@ -1,5 +1,5 @@
 ---
-title: Anonymity, starting Schmopera, & working
+title: "Anonymity, starting Schmopera, &amp; working"
 ---
 
 COC generosity

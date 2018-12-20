@@ -1,5 +1,5 @@
 ---
-title: Gibson Girls, and the Great Opera They'd Make
+title: "Gibson Girls, and the Great Opera They&#039;d Make"
 ---
 
 I came across this BBC [article](http://www.bbc.com/culture/story/20141222-the-worlds-first-supermodel) about Evelyn Nesbit, who was one of the first supermodels at the turn of the 20th century. She was just 14 years old when she began her modelling career, posing artists on the streets of Philadelphia, who favoured her as their muse for paintings and sketches. After she moved with her mother to New York City in 1900, Evelyn quickly became one of America's most sought-after models. She was on the covers of _Vanity Fair_, _Ladies' Home Journal_,_ Harper's Bazaar_, and _Cosmopolitan, _and posed for ads for Coca-Cola; she was even a chorus girl on Broadway. 

@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Sasha Regan's All-male Mikado"
+title: "Don&#039;t miss: Sasha Regan&#039;s All-male Mikado"
 ---
 
 ## How did your early experience with theatre in a single-sex school extend to your all-male adaptations of G&S in your professional career? 

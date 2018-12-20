@@ -1,5 +1,5 @@
 ---
-title: "This year's Elizabeth Krehm Memorial Concert: a follow-up"
+title: "This year&#039;s Elizabeth Krehm Memorial Concert: a follow-up"
 ---
 
 On Monday, November 14th, at Toronto's Metropolitan United Church a large group gathered to [celebrate the life of Elizabeth Krehm and to raise money for the St. Michael's ICU](/the-4th-annual-elizabeth-krehm-memorial-concert-for-st-michaels-hospital/). The event is organized by the Krehm Family and [Rachel Krehm](/scene/people/rachel-krehm/) (Elizabeth's sister) and General Director of [Opera 5](/scene/companies/opera-5/).

@@ -1,5 +1,5 @@
 ---
-title: New opera & honest marketing
+title: "New opera &amp; honest marketing"
 ---
 
 With the exciting, accelerating trend of new operas being created in North America, there comes an interesting pattern in how they are marketed to the public.

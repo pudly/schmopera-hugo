@@ -1,5 +1,5 @@
 ---
-title: Mewsy goes to the Opera
+title: "Mewsy goes to the Opera"
 ---
 
 ## PART II

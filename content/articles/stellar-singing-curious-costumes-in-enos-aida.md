@@ -1,5 +1,5 @@
 ---
-title: Stellar singing & curious costumes in ENO's Aida
+title: "Stellar singing &amp; curious costumes in ENO&#039;s Aida"
 ---
 
 ENO opened their 2017/2018 with a beautiful, heartfelt production of Verdi's masterpiece, *Aida*. This show always surprises me - it's never quite what you expect. The music isn't typical of Verdi's work and neither is the story. The atmosphere of the work is otherworldly and strangely stark, despite the presence of the requisite bombastic full chorus moments. This production didn't disappoint. Director Phelim McDermott never wasted an opportunity to fill the hall with beauty, both visual and emotional. The production was one of contrasts - sleek lines against lush textures, bright against dark, and the delicacy of love against the rigid world of military might.

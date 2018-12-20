@@ -1,5 +1,5 @@
 ---
-title: The Case for Music Education
+title: "The Case for Music Education"
 ---
 
 So, in 1993 there was a study published in _[Nature](http://www.nature.com/nature/journal/v366/n6455/pdf/366520a0.pdf)_ by Francis Rauscher to try and measure the effect of classical music on spatial skills in children. The study found that 10 minutes of Mozart improved the spatial reasoning skills of college students and rats, and 10 minutes of piano or singing lessons did the same for preschoolers. And so the "Mozart effect" became known in education and parenting circles as ["Mozart makes my kid smart."](http://www.theguardian.com/lifeandstyle/2014/jan/12/will-mozart-make-child-smarter-classical-music-iq)

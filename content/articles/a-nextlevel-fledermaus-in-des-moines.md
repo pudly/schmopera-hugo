@@ -1,5 +1,5 @@
 ---
-title: A next-level Fledermaus in Des Moines
+title: "A next-level Fledermaus in Des Moines"
 ---
 
 Flappers, flirtation, and farce! [Des Moines Metro Opera](/scene/companies/des-moines-metro-opera/)'s production of *Die Fledermaus* was genuinely fun from start to finish. Johann Strauss's operetta is famous for its delightful party scenes, making it a perfect choice for their gala night performance.

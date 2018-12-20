@@ -1,5 +1,5 @@
 ---
-title: The 2015 Quilico Awards
+title: "The 2015 Quilico Awards"
 ---
 
 <p>

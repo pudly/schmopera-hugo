@@ -1,5 +1,5 @@
 ---
-title: Odyssey Opera's grand La reine de Saba a great season opener
+title: "Odyssey Opera&#039;s grand La reine de Saba a great season opener"
 ---
 
 Whenever an opera company makes it their mission statement to revive infrequently performed gems, the question of how to restore a work with missing content does eventually come up at some point. Thus, when a company decides to not only present a work that has never been done in America, but to also restore material cut during the original production, it's clear that they typically have their work cut out for them. And even then, sometimes their work is not always fruitful: at times, perhaps the cuts were made for the best reasons, and it is at best a historical curiosity. 

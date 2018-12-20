@@ -1,5 +1,5 @@
 ---
-title: "Thrilling nights: Szymanowski & Orff with the TSO"
+title: "Thrilling nights: Szymanowski &amp; Orff with the TSO"
 ---
 
 The Toronto Symphony Orchestra finished up their Decades Project last night by presenting two masterworks: Szymanowski's Violin Concerto No. 2 and Orff's main d'oeuvre *Carmina Burana*. 

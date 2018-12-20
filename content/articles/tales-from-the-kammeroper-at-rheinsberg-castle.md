@@ -1,5 +1,5 @@
 ---
-title: Tales from the Kammeroper at Rheinsberg Castle
+title: "Tales from the Kammeroper at Rheinsberg Castle"
 ---
 
 ## Can you describe a day in the life at this summer's Rheinsberg Festival?

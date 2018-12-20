@@ -1,5 +1,5 @@
 ---
-title: Persona and the Sounds of Silence
+title: "Persona and the Sounds of Silence"
 ---
 
 An opera about two women - one of whom doesn't sing - is a daring idea. The 1966 Ingmar Bergman film [*Persona*](https://www.laopera.org/season/1718-Season/persona/) (on which the opera is based) stars two women, one of whom doesn't speak. In the opera by composer Keeril Makan and librettist Jay Scheib, one of the lead characters is also silent, and the show becomes a musical monologue for the other. In the current [LA Opera Off Grand production](https://www.laopera.org/season/1718-Season/persona/) you have the push and pull of something that is at once a rather faithful adaptation and, at the same time, a work that is entirely original. The results are splendid.

@@ -1,5 +1,5 @@
 ---
-title: "Bel canto indeed: "Dare Voce""
+title: "Bel canto indeed: &quot;Dare Voce&quot;"
 ---
 
 ## How did you discover your combined aesthetic for *Dare Voce*?

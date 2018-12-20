@@ -1,5 +1,5 @@
 ---
-title: "When art is not enough: opera & activism"
+title: "When art is not enough: opera &amp; activism"
 ---
 
 ## Xenophobia and racism

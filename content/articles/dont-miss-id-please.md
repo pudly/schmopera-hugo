@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: ID, Please"
+title: "Don&#039;t miss: ID, Please"
 ---
 
 ## What is it about the issues relating to xenophobia and suspicion of migrants that you thought would adapt well into an operatic performance?

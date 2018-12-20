@@ -1,5 +1,5 @@
 ---
-title: Substance abuse in the opera industry, yup. But why?
+title: "Substance abuse in the opera industry, yup. But why?"
 ---
 
 A few articles popped up recently about the problem of anxiety and depression amongst classical musicians. A survey done by [Help Musicians UK](https://www.helpmusicians.org.uk/news/latest-news/health-and-wellbeing-see-the-results-of-our-survey) sampled after 500 working musicians (about 20% of them singers), and found that 60% claimed to have suffered from a psychological concern such as depression and/or debilitating anxiety. A study by Health.com showed that artists are [ranked fifth](http://www.health.com/health/gallery/0,,20428990_6,00.html) in the top 10 careers with the highest rate of depression. Not surprisingly for artists, the biggest sources of stress are anti-social work hours, money problems and work insecurity; following closely behind are relationship problems, travelling and lack of proper exercise/nutrition.

@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Voice of a Nation"
+title: "Don&#039;t miss: Voice of a Nation"
 ---
 
 This week, the Toronto Concert Orchestra shines a spotlight on the work of emerging First Nations artists, with [*Voice of a Nation*](https://www.eventbrite.ca/e/voice-of-a-nation-tickets-39468035958), a multi-disciplinary concert program combining orchestra, choir, soloists, dance, spoken word, and film.

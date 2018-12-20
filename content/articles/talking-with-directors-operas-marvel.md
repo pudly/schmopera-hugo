@@ -1,5 +1,5 @@
 ---
-title: "Talking with directors: opera's Marvel"
+title: "Talking with directors: opera&#039;s Marvel"
 ---
 
 ### 1. What turned you on to directing opera?

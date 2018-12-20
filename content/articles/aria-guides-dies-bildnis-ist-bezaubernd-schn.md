@@ -1,5 +1,5 @@
 ---
-title: "Aria Guides: "Dies Bildnis ist bezaubernd schön""
+title: "Aria Guides: &quot;Dies Bildnis ist bezaubernd schön&quot;"
 ---
 
 <figure data-type="image">![](/webhook-uploads/1463133406870/Aria-Guide---Tamino---annotated---p1.jpg)

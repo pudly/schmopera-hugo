@@ -1,5 +1,5 @@
 ---
-title: "Going out in style: Sy & Kwon in the RBA"
+title: "Going out in style: Sy &amp; Kwon in the RBA"
 ---
 
 To mark their exit from the [Canadian Opera Company Ensemble Studio](/scene/companies/canadian-opera-company-ensemble-studio/), tenor [Charles Sy](/scene/people/charles-sy/) and pianist [Hyejin Kwon](/scene/people/hyejin-kwon/) gave a polished performance of Schubert's *Die schöne Müllerin*.

@@ -1,5 +1,5 @@
 ---
-title: The Lady steals the spotlight in ROH's Macbeth
+title: "The Lady steals the spotlight in ROH&#039;s Macbeth"
 ---
 
 [Anna Netrebko](/scene/people/anna-netrebko/) triumphed yesterday as Lady Macbeth in the third revival of Phyllida Lloyd's 2002 production of [*Macbeth* for The Royal Opera](http://www.roh.org.uk/productions/macbeth-by-phyllida-lloyd). While sitting through this opera it almost felt as if the piece was a vehicle for her to show her capability as an artist. Lloyd's production remains current and the drama of Verdi's opera alone is enough reason to get tickets for this show.

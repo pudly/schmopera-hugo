@@ -1,5 +1,5 @@
 ---
-title: Competitions
+title: "Competitions"
 ---
 
 Pavel Kalesnikov, Russian pianist based in London

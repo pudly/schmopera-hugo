@@ -1,5 +1,5 @@
 ---
-title: 6 opera houses, Google-reviewed
+title: "6 opera houses, Google-reviewed"
 ---
 
 ## Lincoln Center

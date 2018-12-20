@@ -1,5 +1,5 @@
 ---
-title: Turning opera "inside-out, upside-down" at Summer Opera Camp
+title: "Turning opera &quot;inside-out, upside-down&quot; at Summer Opera Camp"
 ---
 
 ### 1. How do you introduce theatre to young people?

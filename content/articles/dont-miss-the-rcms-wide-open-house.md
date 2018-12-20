@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: the RCM's Wide Open House"
+title: "Don&#039;t miss: the RCM&#039;s Wide Open House"
 ---
 
 On Sunday, **June 25, 10am-6pm**, the [Royal Conservatory of Music](/scene/companies/royal-conservatory-of-music/) is holding its 4th annual [Wide Open House](http://www.rcmusic.ca/wide-open-house); the event is free and family-friendly, with entertainment and learning activities for all ages.

@@ -1,5 +1,5 @@
 ---
-title: Meet Maestro Wenarto
+title: "Meet Maestro Wenarto"
 ---
 
 I just want to make sure everyone knows about [Maestro Wenarto](https://www.youtube.com/user/wenarto). He's in Seattle, and he loves to sing on camera; he has a channel on [YouTube](https://www.youtube.com/user/wenarto) and [Vimeo](https://vimeo.com/wenarto), and you should go spend some time over there immediately. He's made over 1800 music videos, plenty of them operatic. I wouldn't say he's got a beautiful voice, but he's got determined pipes, and I can't argue with the _élan_. Example:

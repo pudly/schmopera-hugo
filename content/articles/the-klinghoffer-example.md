@@ -1,5 +1,5 @@
 ---
-title: The Klinghoffer Example
+title: "The Klinghoffer Example"
 ---
 
 ll the talk about _The Death of Klinghoffer_. Andrea Peyser at the _New York Post_ just published [this piece](http://nypost.com/2014/09/15/the-met-operas-new-musical-celebration-promoting-bigotry/), stating, "The Met is to present an obscene opera titled 'The Death of Klinghoffer' — a musical celebration of the senseless murder by Palestinian monsters of a defenseless, elderly Jewish New Yorker." Sigh. Quick briefing: _Klinghoffer_ is based on the [1985 hijacking](http://en.wikipedia.org/wiki/Achille_Lauro_hijacking) of the cruise ship _Achille Lauro_ by Palestinian terrorists; Leon Klinghoffer was a Jewish, wheelchair-bound passenger on the ship, and the anti-Semitic terrorists shot him and threw his body overboard. John Adams' _The Death of Klinghoffer_ was in the news earlier this year when Peter Gelb decided to cancel its HD broadcast (he ceded to claims of anti-Semitism, including from the Anti-Defamation League's Abraham Foxman, who even admitted he _hadn't seen it_.) Now, the piece is still set to [hit the stage at the Met](http://www.metopera.org/opera/the-death-of-klinghoffer-adams-tickets) starting October 20th, and new protests are scheduled.

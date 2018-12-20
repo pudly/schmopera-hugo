@@ -1,5 +1,5 @@
 ---
-title: Getting vexed over Wagner & other narcissisms
+title: "Getting vexed over Wagner &amp; other narcissisms"
 ---
 
 Over at Norman Lebrecht's *Slipped Disc*, you can [read the angry letters](http://slippedisc.com/2017/08/a-composer-and-a-violinist-are-appalled-by-bayreuths-ring/) written by conductor Rodrigo Ruiz and violinist Kerenza Peacock, who were dissatisfied with their time at the Bayreuth Festival this summer. Basically, they hated [Frank Castorf's *Ring Cycle*](https://www.theguardian.com/music/musicblog/2013/aug/02/frank-castorf-bayreuth-ring-cycle) - a production that earned similar [outrage and boos](https://www.youtube.com/watch?v=wQTUOeXmhMI) when it came to the Festival in 2013.

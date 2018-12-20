@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: the Amici Ensemble reimagines Don Giovanni"
+title: "Don&#039;t miss: the Amici Ensemble reimagines Don Giovanni"
 ---
 
 On **February 19, 3pm** at Mazzoleni Hall on Bloor Street, the [Amici Chamber Ensemble](http://amiciensemble.com/event/don-giovanni-reimagined/) continues its season with a night of Mozart, with a twist.

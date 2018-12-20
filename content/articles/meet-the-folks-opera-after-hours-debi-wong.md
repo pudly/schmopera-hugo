@@ -1,5 +1,5 @@
 ---
-title: "Meet the folks: Opera After Hours' Debi Wong"
+title: "Meet the folks: Opera After Hours&#039; Debi Wong"
 ---
 
 ###  1. How did you first get into opera?

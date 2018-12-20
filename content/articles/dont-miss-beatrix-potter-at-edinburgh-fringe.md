@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Beatrix Potter at Edinburgh Fringe"
+title: "Don&#039;t miss: Beatrix Potter at Edinburgh Fringe"
 ---
 
 ## What connection do you have personally to the stories of Beatrix Potter?

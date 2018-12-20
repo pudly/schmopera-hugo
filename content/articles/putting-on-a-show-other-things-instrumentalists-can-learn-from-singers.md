@@ -1,5 +1,5 @@
 ---
-title: Putting on a show & other things instrumentalists can learn from singers
+title: "Putting on a show &amp; other things instrumentalists can learn from singers"
 ---
 
 Ever since I started working more primarily with singers, I've learned a lot about what it means to be onstage. Unlike pianists, violinists, cellists, clarinetists, etc., singers *are* their instrument; this is the case when they're making sound, and it's the case when they're standing in silence during musical introductions, postludes, and interludes.

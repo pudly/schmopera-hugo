@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Boys of Paradise"
+title: "Don&#039;t miss: Boys of Paradise"
 ---
 
 ## You admit to having a hard time connecting with opera as a general concept - why then did you decide to write one?

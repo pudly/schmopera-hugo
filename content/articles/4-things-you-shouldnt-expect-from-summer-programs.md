@@ -1,5 +1,5 @@
 ---
-title: 4 things you shouldn't expect from summer programs
+title: "4 things you shouldn&#039;t expect from summer programs"
 ---
 
 ## A job

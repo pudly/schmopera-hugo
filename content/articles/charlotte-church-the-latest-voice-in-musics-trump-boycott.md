@@ -1,5 +1,5 @@
 ---
-title: Charlotte Church the latest voice in music's Trump boycott
+title: "Charlotte Church the latest voice in music&#039;s Trump boycott"
 ---
 
 The original Jackie Evancho has spoken out, and guess what? I think I've come around completely on my opinion of her. 

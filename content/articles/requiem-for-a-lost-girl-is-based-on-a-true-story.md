@@ -1,5 +1,5 @@
 ---
-title: "Requiem for a Lost Girl is based on a true story."
+title: "&quot;Requiem for a Lost Girl is based on a true story.&quot;"
 ---
 
 ### What questions about homelessness and addiction does *Requiem for a Lost Girl* strive to answer?

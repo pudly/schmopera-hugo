@@ -1,5 +1,5 @@
 ---
-title: Real Prisoners' Voices Make Heartbeat Opera's "Fidelio" Resonate
+title: "Real Prisoners&#039; Voices Make Heartbeat Opera&#039;s &quot;Fidelio&quot; Resonate"
 ---
 
 Beethoven's *Fidelio*, in a [new adaptation by Ethan Heard](/fidelio-still-political-in-2018/) produced by Heartbeat Opera, updates easily with a plot that centers around contemporary issues like wrongful conviction, queer romance, and the indignity faced by staff and inmates in modern America's prisons.

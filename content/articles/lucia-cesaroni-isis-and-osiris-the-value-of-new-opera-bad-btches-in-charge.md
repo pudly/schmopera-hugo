@@ -1,5 +1,5 @@
 ---
-title: "Lucia Cesaroni: Isis and Osiris, the value of new opera, & "bad b*tches in charge""
+title: "Lucia Cesaroni: Isis and Osiris, the value of new opera, &amp; &quot;bad b*tches in charge&quot;"
 ---
 
 ### What have you been up to lately?

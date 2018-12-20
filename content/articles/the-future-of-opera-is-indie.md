@@ -1,5 +1,5 @@
 ---
-title: The Future of Opera is Indie
+title: "The Future of Opera is Indie"
 ---
 
 > All art is independent; the mere act of labelling any art form as 'independent' is redundant. Independence is the only true state of art.” – Elliot Grove, Founder, Raindance Film Festival

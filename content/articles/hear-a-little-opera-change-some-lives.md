@@ -1,5 +1,5 @@
 ---
-title: Hear a little opera, change some lives
+title: "Hear a little opera, change some lives"
 ---
 
 This Friday, October 23rd, at Heliconian Hall, "Duelling Divas" Kathleen Promane, mezzo-soprano, and [Allison Arends](/scene/people/allison-arends/), soprano, present a concert full of arias and duets. Pianist [Maika'i Nash](/scene/people/maikai-nash/) joins the two ladies, who will be looking very bejeweled indeed with accessories by designer [Catherine Sequalino-Poitier](http://www.csp-studiosequalino.com/). The concert is at 7:30pm at Heliconian Hall; tickets are $25 at the door and $20 in advance, available by [email](mailto:allison@allisonarends.com) phone (647-833-5400).

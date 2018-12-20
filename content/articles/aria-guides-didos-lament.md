@@ -1,5 +1,5 @@
 ---
-title: "Aria guides: Dido's Lament"
+title: "Aria guides: Dido&#039;s Lament"
 ---
 
 <figure data-type="image">

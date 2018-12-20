@@ -1,5 +1,5 @@
 ---
-title: Violetta, haute couture, & sharing the opera stage with fashion
+title: "Violetta, haute couture, &amp; sharing the opera stage with fashion"
 ---
 
 Teatro dell'Opera di Roma opens its production of Verdi's [*La traviata* on May 24th](http://www.operaroma.it/en/shows/opera-traviata-2016/) - usually, an Italian company putting up one of opera's biggest Italian hits, by Italy's opera giant, isn't particularly newsworthy. But this particular production is an exciting step for opera, and it's a fantastic example of what it means for opera to extend itself across various artistic disciplines.

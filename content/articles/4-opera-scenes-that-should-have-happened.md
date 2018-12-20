@@ -1,5 +1,5 @@
 ---
-title: 4 Opera scenes that should have happened
+title: "4 Opera scenes that should have happened"
 ---
 
 ### 1. Mimì meets Musetta

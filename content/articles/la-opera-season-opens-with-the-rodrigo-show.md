@@ -1,5 +1,5 @@
 ---
-title: LA Opera season opens with The Rodrigo Show
+title: "LA Opera season opens with The Rodrigo Show"
 ---
 
 The good news is that Placido Domingo doesn't appear to be retiring any time soon. The great news is that he is still a phenom. If you were an opera lover who arrived at [LA Opera](/scene/companies/los-angeles-opera/) last night in a time machine (from an era when there was no Domingo) you would have been knocked out by the performance of the man playing Rodrigo in Verdi's *Don Carlo*. You would have concluded that this is a man at the top of his game, somewhere in the middle of his career. No doubt you then would have been stunned to learn that this Rodrigo is in fact 77 years old, and further stunned to learn that he was once perhaps the greatest tenor in his field and that he reinvented himself to become one of the greatest baritones. 

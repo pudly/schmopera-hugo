@@ -1,5 +1,5 @@
 ---
-title: 5 pop(ish) songs & their operatic equivalents
+title: "5 pop(ish) songs &amp; their operatic equivalents"
 ---
 
 ## *One Fine Day* (The Chiffons)

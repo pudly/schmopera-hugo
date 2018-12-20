@@ -1,5 +1,5 @@
 ---
-title: Don't you deserve a little Spotlight?
+title: "Don&#039;t you deserve a little Spotlight?"
 ---
 
 Readers, summer is creeping nearer, which means we're almost due for our annual warm-weather series of "Spotlight on..." interviews!

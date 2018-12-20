@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Composers (of the) Roundtable"
+title: "Don&#039;t miss: Composers (of the) Roundtable"
 ---
 
 ## What is important about writing opera for children?

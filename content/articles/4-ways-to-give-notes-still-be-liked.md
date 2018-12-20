@@ -1,5 +1,5 @@
 ---
-title: 4 ways to give notes & still be liked
+title: "4 ways to give notes &amp; still be liked"
 ---
 
 ## Start with respect

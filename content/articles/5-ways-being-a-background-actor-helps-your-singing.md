@@ -1,5 +1,5 @@
 ---
-title: 5 ways being a background actor helps your singing
+title: "5 ways being a background actor helps your singing"
 ---
 
 ## It helps you relax

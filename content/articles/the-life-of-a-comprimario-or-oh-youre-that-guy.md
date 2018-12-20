@@ -1,5 +1,5 @@
 ---
-title: The life of a comprimario, or "Oh, you're that guy!"
+title: "The life of a comprimario, or &quot;Oh, you&#039;re that guy!&quot;"
 ---
 
 So you want to be a [comprimario](https://en.wikipedia.org/wiki/Comprimario)? Great! There's lots of work for you if you're good it, but beware, it's not as glitzy and glamorous as playing [Violetta](https://www.youtube.com/watch?v=m7yKFQJEavU) or [Don José](https://www.youtube.com/watch?v=itB1UlPFln4), but it's just as labour-intensive. 

@@ -1,5 +1,5 @@
 ---
-title: Another Opera Apologist (Part 1)
+title: "Another Opera Apologist (Part 1)"
 ---
 
 ### Opera? Why?

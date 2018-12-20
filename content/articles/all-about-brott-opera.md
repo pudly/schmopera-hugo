@@ -1,5 +1,5 @@
 ---
-title: All about Brott Opera
+title: "All about Brott Opera"
 ---
 
 <p class="intro">

@@ -1,5 +1,5 @@
 ---
-title: Barton leads "fantasy cast" in WNO's Don Carlo
+title: "Barton leads &quot;fantasy cast&quot; in WNO&#039;s Don Carlo"
 ---
 
 "The peace you seek can only be found in heaven."

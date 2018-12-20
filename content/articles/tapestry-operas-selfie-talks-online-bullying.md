@@ -1,5 +1,5 @@
 ---
-title: Tapestry Opera's Selfie talks online bullying
+title: "Tapestry Opera&#039;s Selfie talks online bullying"
 ---
 
 Next week, [Tapestry Opera](/scene/companies/tapestry-opera/) opens its new season with a workshop presentation of *Selfie*, a new opera with text by [Julie Tepperman](/scene/people/julie-tepperman/) and music by [Chris Thornborrow](/chris-thornborrow-on-composing-with-kids/). *Selfie* was a part of Tapestry's Opera Briefs in past seasons, where Artistic Director [Michael Mori](/scene/people/michael-mori/) says "it received the most support." 

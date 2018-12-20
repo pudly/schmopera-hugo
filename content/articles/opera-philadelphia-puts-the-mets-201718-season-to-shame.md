@@ -1,5 +1,5 @@
 ---
-title: Opera Philadelphia puts the Met's 2017/18 season to shame
+title: "Opera Philadelphia puts the Met&#039;s 2017/18 season to shame"
 ---
 
 Now, *that's* a season announcement.

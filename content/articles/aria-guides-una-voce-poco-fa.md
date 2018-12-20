@@ -1,5 +1,5 @@
 ---
-title: "Aria guides: "Una voce poco fa""
+title: "Aria guides: &quot;Una voce poco fa&quot;"
 ---
 
 ### The slow part

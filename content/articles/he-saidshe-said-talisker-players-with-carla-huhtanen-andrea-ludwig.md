@@ -1,5 +1,5 @@
 ---
-title: "He said/she said: Talisker Players, with Carla Huhtanen & Andrea Ludwig"
+title: "He said/she said: Talisker Players, with Carla Huhtanen &amp; Andrea Ludwig"
 ---
 
 

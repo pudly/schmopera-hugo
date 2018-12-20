@@ -1,5 +1,5 @@
 ---
-title: Stop shaming Adele
+title: "Stop shaming Adele"
 ---
 
 Long after she is gone, Adele's greatest legacy will unquestionably be her music.

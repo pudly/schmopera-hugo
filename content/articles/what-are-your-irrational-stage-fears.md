@@ -1,5 +1,5 @@
 ---
-title: What are your irrational stage fears?
+title: "What are your irrational stage fears?"
 ---
 
 Mine is falling onstage.

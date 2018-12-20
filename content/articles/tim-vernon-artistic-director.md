@@ -1,5 +1,5 @@
 ---
-title: Tim Vernon, Artistic Director²
+title: "Tim Vernon, Artistic Director²"
 ---
 
 If you've not yet heard the news, Maestro Timothy Vernon has been appointed the new Artistic Director of [Opera Lyra Ottawa](/scene/people/opera-lyra-ottawa/). Vernon will begin immediately with the 2015/16 season, and he'll maintain his position as Artistic Director of [Pacific Opera Victoria](/scene/companies/pacific-opera-victoria/). A busy man just got busier. 

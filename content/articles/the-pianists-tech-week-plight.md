@@ -1,5 +1,5 @@
 ---
-title: The pianist's tech week plight
+title: "The pianist&#039;s tech week plight"
 ---
 
 I'm working on an opera right now, and this week, we go into tech week. It's a week where the role of the pianist becomes humbling. The tech rehearsals are so _not_ about the music. The director and his crew of lighting and set designers take over the game, and in the best cases, it's for a great reason. It means that there will be costumes, sets, and spectacular theatrical sleights-of-hand to complete that magical music that the pianist loves so much. We are invited to remember how opera is theatre, not a concert. Humbling indeed. So there the pianist sits, alone in the empty orchestra pit, out of sight and out of mind to most. The cast and crew look down at him or her, with a look of amused pity in their eyes, as they wave and say something like, "How's it going down there?" The answer is: slightly deflated.

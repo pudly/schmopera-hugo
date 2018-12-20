@@ -1,5 +1,5 @@
 ---
-title: May She Never Work Again
+title: "May She Never Work Again"
 ---
 
 <p></p><div class="intro">Hatefully homophobic soprano Tamar Iveri, in a get-up that reminds me of the fantastic movie,&nbsp;<a href="http://www.imdb.com/title/tt0155711/" target="_blank"><em>Flawless</em></a>. It's about a bigot who grows up and makes friends with a drag queen.</div>

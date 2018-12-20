@@ -1,5 +1,5 @@
 ---
-title: The opera pianist's list o' priorities
+title: "The opera pianist&#039;s list o&#039; priorities"
 ---
 
 ## That tempo, though

@@ -1,5 +1,5 @@
 ---
-title: Schmopera is two!
+title: "Schmopera is two!"
 ---
 
 Dear Readers,

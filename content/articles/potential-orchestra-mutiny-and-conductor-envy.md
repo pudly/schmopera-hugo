@@ -1,5 +1,5 @@
 ---
-title: Potential orchestra mutiny and conductor envy
+title: "Potential orchestra mutiny and conductor envy"
 ---
 
 I've said it plenty of times before: I do not envy singers. The pressure, the standards, the vulnerability, they're not of the ilk I prefer.

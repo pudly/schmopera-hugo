@@ -1,5 +1,5 @@
 ---
-title: #UncleJohn in Toronto
+title: "#UncleJohn in Toronto"
 ---
 
 Against the Grain Theatre</a>'s production of&nbsp;<em>#UncleJohn</em>&nbsp;opens this Thursday, to the delight of indie opera lovers in Canada. After its<a href="http://www.macleans.ca/culture/arts/opera-comes-down-from-the-mountain/" target="_blank"> initial premiere</a> this summer at the Cave and Basin National Historic Site in Banff, AB,&nbsp;<em>#UncleJohn</em>&nbsp;has sparked much anticipation from audiences here in&nbsp;Toronto. AtG Artistic Director <a href="http://www.joelivany.com/index/welcome.html" target="_blank">Joel Ivany </a>and&nbsp;<em>#UncleJohn</em> conductor/pianist&nbsp;<a href="http://www.artsglobal.org/en/people/milos-repicky/" target="_blank">Miloš Repický</a> took some time to talk about updating Mozart's Don Giovanni, trying out new spaces, and&nbsp;creating a tailor-made opera for Toronto audiences.</div>

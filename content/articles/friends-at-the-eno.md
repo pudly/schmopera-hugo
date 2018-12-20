@@ -1,5 +1,5 @@
 ---
-title: Friends at the ENO
+title: "Friends at the ENO"
 ---
 
 English National Opera announced their 2015/15 season line-up yesterday, and making an appearance is friend, fellow COC Ensemble graduate, and stellar soprano [Ambur Braid](http://amburbraid.com/). 

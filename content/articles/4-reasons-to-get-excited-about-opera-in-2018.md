@@ -1,5 +1,5 @@
 ---
-title: 4 reasons to get excited about opera in 2018
+title: "4 reasons to get excited about opera in 2018"
 ---
 
 ## Streamable productions to pique your curiosity

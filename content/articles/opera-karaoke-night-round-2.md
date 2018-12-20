@@ -1,5 +1,5 @@
 ---
-title: Opera Karaoke Night, Round 2
+title: "Opera Karaoke Night, Round 2"
 ---
 
 

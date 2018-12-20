@@ -1,5 +1,5 @@
 ---
-title: Election opera
+title: "Election opera"
 ---
 
 Donald Trump - comprimario tenor

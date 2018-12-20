@@ -1,5 +1,5 @@
 ---
-title: "Never black & white: Abduction at the COC"
+title: "Never black &amp; white: Abduction at the COC"
 ---
 
 Opening night for Mozart's [*The Abduction from the Seraglio*](https://www.coc.ca/productions/13570) (*Die Entführung aus dem Serail*) took place Wednesday night, bringing to the stage director Wadji Mouawad's new take on the work. First performed at Opera de Lyon in 2016, Mouawad's artistic vision has been called "an agent of change" by the *New York Times*. 

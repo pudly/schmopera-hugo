@@ -1,5 +1,5 @@
 ---
-title: A Tale of Two Cio-Cio Sans
+title: "A Tale of Two Cio-Cio Sans"
 ---
 
 I worked on the COC's production of _Madama Butterfly _(the final show is [tonight](http://www.coc.ca/PerformancesAndTickets/1415Season/MadamaButterfly.aspx)), and it was a chance for me to see a perfect example of artistic individuality. The twelve-show run at the Four Seasons Centre was shared by two almost entirely different leading casts, save for Elizabeth DeShong as Suzuki. Opera fans know well that different singers bring variety to roles, especially those deeply explored roles like Cio-Cio San. So when I was able to, in the time and place, watch two groups of singers embody one group of characters, it was like a candy shop for my natural singer-curiosity.

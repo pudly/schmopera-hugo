@@ -1,5 +1,5 @@
 ---
-title: "Just plain great: PBO's Le nozze di Figaro"
+title: "Just plain great: PBO&#039;s Le nozze di Figaro"
 ---
 
 Whenever a Mozart opera crops up in a company's season brochure, vocabularies tend to drift toward eager superlatives. In his program note for Palm Beach Opera's production of [*Le Nozze di Figaro*](https://pbopera.org/event/le-nozze-di-figaro/), director Stephen Lawless touted the work as "undoubtedly the greatest operatic comedy, and arguably the greatest opera ever written."

@@ -1,5 +1,5 @@
 ---
-title: What's your opera dress code?
+title: "What&#039;s your opera dress code?"
 ---
 
 We came upon this [article via *The Telegraph*](http://www.telegraph.co.uk/news/2016/10/15/grange-park-opera-to-abandon-dress-code-and-allow-jeans-and-trai/), about [Grange Park Opera](/scene/companies/grange-park-opera/)'s new venue at West Horsley Place, Surrey, and its revamped dress code. In the name of appealing to younger audiences, and perhaps to people who may consider opera-going to be an activity for the wealthy, the dress codes has been relaxed, with allowances made for things like jeans and trainers. 

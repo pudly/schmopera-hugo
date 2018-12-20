@@ -1,5 +1,5 @@
 ---
-title: Tenors' redemption at an historic Grey Cup in Toronto
+title: "Tenors&#039; redemption at an historic Grey Cup in Toronto"
 ---
 
 This past year, during Major League Baseball's All-Star Game at Petco Park in San Diego, American-born/Canadian-raised tenor Remigio Pereira decided on his own to [alter the lyrics to "O Canada"](http://www.cbc.ca/sports/baseball/mlb/canadian-national-anthem-all-lives-matter-change-1.3676477) to include the phrase "All Lives Matter" and held up a placard stating the same incendiary comment. 

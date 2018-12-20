@@ -1,5 +1,5 @@
 ---
-title: Body-shaming, product-selling, & knowing the difference
+title: "Body-shaming, product-selling, &amp; knowing the difference"
 ---
 
 Over the span of mere days, the Toronto-based Sheraton Cadwell Orchestra earned lots of attention; first by [sending a super body-shaming email](http://www.cbc.ca/news/canada/toronto/orchestra-email-outrage-1.4260556) to its artists about some of their performance wardrobe choices, and subsequently by announcing that the [organization would dissolve](https://www.thestar.com/news/gta/2017/08/24/orchestra-shuts-in-response-to-reaction-to-its-body-shaming-email.html). If you've not yet read the email from Sheraton Cadwell:

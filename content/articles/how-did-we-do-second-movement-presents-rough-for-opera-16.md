@@ -1,5 +1,5 @@
 ---
-title: ""How did we do?" Second Movement Presents: rough for opera #16"
+title: "&quot;How did we do?&quot; Second Movement Presents: rough for opera #16"
 ---
 
 Monday night was the sixteenth edition of *rough for opera*, a "scratch night" for new opera presented by Second Movement at The Cockpit in Marylebone. The format of the night provides a safe space for creative teams to present short works in front of an audience, with the added bonus of receiving audience feedback at the end of each performance. In addition to an informal discussion led by Professor Paul Barker following each piece, the audience was invited to fill out a feedback form, where we could describe what we saw as effective or ineffective, enjoyable or unenjoyable. 

@@ -1,5 +1,5 @@
 ---
-title: Forgiving Racism Onstage
+title: "Forgiving Racism Onstage"
 ---
 
 Are we a forgiving bunch, us opera-lovers? There's a curious phenomenon of forgiving outdated social mores (racism, for example) in works of theatre and opera that we really like. It seems like fans of opera and musical theatre will look at plenty of bad onstage behaviour in their favourite show, and chalk it up to metaphor or "the way it was back then". It's oddly forgiving in a world which feeds largely upon criticism.

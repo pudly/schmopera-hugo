@@ -1,5 +1,5 @@
 ---
-title: 5 classical voice podcasts to try
+title: "5 classical voice podcasts to try"
 ---
 
 ### 1. For New Music: Resonant Bodies Podcast

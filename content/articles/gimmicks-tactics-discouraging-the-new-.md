@@ -1,5 +1,5 @@
 ---
-title: "Gimmicks & tactics: discouraging the new "
+title: "Gimmicks &amp; tactics: discouraging the new "
 ---
 
 [Rupert Christiansen](http://www.telegraph.co.uk/authors/rupert-christiansen/), opera critic to the *Daily Telegraph*, wrote a predictably [scathing review](http://www.telegraph.co.uk/opera/what-to-see/lucia-di-lammermoor-royal-opera-house-verdict-too-leaden-even-fo/) of the Royal Opera House's current [*Lucia di Lammermoor*](/in-review-lucia-di-lammermoor-at-roh/), followed up today by his curmudgeonly opinion piece, ["Opera must bring down the curtain on gimmickry and gore"](http://www.telegraph.co.uk/opera/what-to-see/opera-must-bring-down-the-curtain-on-gimmickry-and-gore/). We want to respond to the latter.

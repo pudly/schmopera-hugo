@@ -1,5 +1,5 @@
 ---
-title: "Cloisters and clowns: SOPAC's inaugural double-bill"
+title: "Cloisters and clowns: SOPAC&#039;s inaugural double-bill"
 ---
 
 ## Can you tell us a bit about the vision SOPAC, and your own history with the organization?

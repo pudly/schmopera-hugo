@@ -1,5 +1,5 @@
 ---
-title: "AtG's Opera Pubs: "It can all get a bit wild.""
+title: "AtG&#039;s Opera Pubs: &quot;It can all get a bit wild.&quot;"
 ---
 
 Exciting announcements seem to be the norm at [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/), and so far, they're on schedule for their 2016/17. 

@@ -1,5 +1,5 @@
 ---
-title: "In review: SOLT's Canadian double-bill"
+title: "In review: SOLT&#039;s Canadian double-bill"
 ---
 
 **Jenna**: On this year's line-up for [Summer Opera Lyric Theatre](http://www.solt.ca/) is a double-bill of Canadian operas, featuring John Beckwith's *Night Blooming Cereus* and Michael Rose's newly commissioned *A Northern Lights Dream*. The two one-acts, sung by two casts until **August 5**, are refreshing, alongside a season of standards that also includes Bizet's *Carmen* (until **August 6**) and Mozart's *The Marriage of Figaro* (until **August 4**).

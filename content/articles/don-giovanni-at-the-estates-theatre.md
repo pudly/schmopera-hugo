@@ -1,5 +1,5 @@
 ---
-title: Don Giovanni at the Estates Theatre
+title: "Don Giovanni at the Estates Theatre"
 ---
 
 ### On the Estates Theatre

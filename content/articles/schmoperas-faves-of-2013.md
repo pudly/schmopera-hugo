@@ -1,5 +1,5 @@
 ---
-title: Schmopera's Faves of 2013
+title: "Schmopera&#039;s Faves of 2013"
 ---
 
 Selfishly, I chose to wrap up the year with a list of my favourite tidbits of operatic delight. Included are my favourite renditions of great moments in opera: a bit of Figaro to warm your heart, Kathleen Battle's Zerbinetta, ( in the Met's 1989 _Ariadne auf Naxos,_ which is fascinatingly documented, including footage in rehearsal with _Maestro _Levine), Renée Fleming's shiver-inducing Rusalka and [Hye-Jung Lee](http://www.hyejungleesoprano.com/index.html)'s rockin' Madame Mao. Looking ahead to 2014, two singers I'm excited to see in 2014 at the Canadian Opera Company are Alice Coote and Sir Thomas Allen. So I've also included some of Coote's Nerone at Glyndebourne,  and of course, Sir Thomas Allen's Little List.

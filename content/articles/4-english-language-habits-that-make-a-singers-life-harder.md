@@ -1,5 +1,5 @@
 ---
-title: 4 English language habits that make a singer's life harder
+title: "4 English language habits that make a singer&#039;s life harder"
 ---
 
 ## Silent final letters

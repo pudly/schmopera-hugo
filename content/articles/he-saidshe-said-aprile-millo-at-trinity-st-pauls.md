@@ -1,5 +1,5 @@
 ---
-title: "He said/She said: Aprile Millo at Trinity St. Paul's"
+title: "He said/She said: Aprile Millo at Trinity St. Paul&#039;s"
 ---
 
 This is a joint review with contributor Greg Finney. [Read more by Greg](http://schmopera.com/author/greg/).

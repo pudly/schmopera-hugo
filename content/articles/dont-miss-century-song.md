@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Century Song"
+title: "Don&#039;t miss: Century Song"
 ---
 
 Over at the Crow's Theatre until **April 29**, you can catch [*Century Song*](http://www.nightwoodtheatre.net/index.php/whats_on/century_song), the fascinating "live performance hybrid" created by soprano Neema Bickersteth that "melds classical song and movement to inhabit a century of Canadian women."

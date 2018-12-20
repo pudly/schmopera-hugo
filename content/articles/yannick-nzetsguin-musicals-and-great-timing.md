@@ -1,5 +1,5 @@
 ---
-title: Yannick Nézet-Séguin, musicals, and great timing
+title: "Yannick Nézet-Séguin, musicals, and great timing"
 ---
 
 A few weeks ago, we were [pondering](/is-it-time-for-the-met-to-move/) what The Metropolitan Opera could do about the too few butts in their seats and falling ticket revenue. We added our two cents to the myriad of suggestions proposed by people who don't want the Met to fail, but for some reason, one huge, glaring, and hopefully not novel idea didn't occur to us at the time: what if the Met did musicals?

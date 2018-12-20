@@ -1,5 +1,5 @@
 ---
-title: Chatting with Canada's Opera Biggies
+title: "Chatting with Canada&#039;s Opera Biggies"
 ---
 
 <p>

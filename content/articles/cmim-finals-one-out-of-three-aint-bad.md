@@ -1,5 +1,5 @@
 ---
-title: "CMIM Finals: one out of three ain't bad?"
+title: "CMIM Finals: one out of three ain&#039;t bad?"
 ---
 
 I am historically terrible at predicting the winners in voice competitions. Actually, my weakness is more specific than that: I am terrible at predicting what jurors will deem winner-worthy. Sometimes I'm so off that I feel as though I'd seen different performances altogether - either that, or I'm being naïve and not reading between the invisible lines that always seem to exist with these high-stakes competitions.

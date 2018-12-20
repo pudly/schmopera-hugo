@@ -1,5 +1,5 @@
 ---
-title: The time I spilled some secrets into a microphone
+title: "The time I spilled some secrets into a microphone"
 ---
 
 Hi, everyone. Jenna here.

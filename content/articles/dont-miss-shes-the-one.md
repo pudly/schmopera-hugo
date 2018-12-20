@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: She's The One"
+title: "Don&#039;t miss: She&#039;s The One"
 ---
 
 Next **Friday, April 8th, 7:30pm** at Heliconian Hall, [Essential Opera](/scene/companies/essential-opera/) presents *She's The One*, a concert that celebrates and explores women's lives, through excerpts from Canadian and American contemporary opera.

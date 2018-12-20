@@ -1,5 +1,5 @@
 ---
-title: "Lovely and sincere: POV's La Bohème"
+title: "Lovely and sincere: POV&#039;s La Bohème"
 ---
 
 *La Bohème* is a show that has become an absolute staple of the opera calendar. You can often set your watch by how often a company produces it, so the challenge always becomes breathing new life into a show that is performed so often, by so many companies across the globe. [Pacific Opera Victoria](/scene/companies/pacific-opera-victoria/) finds many clever, inventive ways to do this in their recent production.

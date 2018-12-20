@@ -1,5 +1,5 @@
 ---
-title: The Opera Posse Phenomenon
+title: "The Opera Posse Phenomenon"
 ---
 
 Opera singers are masters of multi-tasking: they juggle an important list of technical elements in order to sing a performance, and they have to do it in foreign languages, while following a conductor and negotiating weird costumes/lighting/staging. Singers' to-do lists don't get simpler as they gain experience. Once there's a decent consensus amongst the opera industry that a singer is established, there's a weird phenomenon that occurs. The singer begins to pick up followers, hangers-on of a parasitic sort. These new companions are usually people who aren’t opera singers, but are really into opera for one reason or another. Voice teachers, coaches, audition consultants, agents, and even donors like to latch onto a successful singer (even better if they’re a young up-and-comer). They’re like really swanky groupies. So why do they cling to opera singers? Simply put: they want to vicariously live the perceived glam life.

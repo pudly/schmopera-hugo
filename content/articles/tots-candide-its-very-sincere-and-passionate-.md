@@ -1,5 +1,5 @@
 ---
-title: "TOT's Candide: "It's very sincere and passionate." "
+title: "TOT&#039;s Candide: &quot;It&#039;s very sincere and passionate.&quot; "
 ---
 
 ## Is this your first foray into operetta? Is this your first time working with TOT? 

@@ -1,5 +1,5 @@
 ---
-title: "Recording Dame Smyth: "Pretty good - for a woman.""
+title: "Recording Dame Smyth: &quot;Pretty good - for a woman.&quot;"
 ---
 
 New York's [Experiential Orchestra](https://experientialorchestra.com/smyth/) is known for its ambitious creativity, from their close-quarters concerts in midtown lofts, to their signature Rite of Spring Dance Party (which is precisely what it sounds like).

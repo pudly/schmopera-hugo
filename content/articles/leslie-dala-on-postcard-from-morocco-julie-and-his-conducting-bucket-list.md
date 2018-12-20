@@ -1,5 +1,5 @@
 ---
-title: Leslie Dala, on Postcard from Morocco, Julie, and His Conducting Bucket List
+title: "Leslie Dala, on Postcard from Morocco, Julie, and His Conducting Bucket List"
 ---
 
 When it comes to conducting a staged work like opera, the distance is probably the most problematic element. "They can't really hear each other," says Dala. "You're just trying to bring together invisible forces." I asked him about working with the two casts of [UofT Opera's _Postcard from Morocco_](http://uoftopera.ca/?page_id=566), and what it's like for him to collaborate with singers in the early stages of their professional careers. 

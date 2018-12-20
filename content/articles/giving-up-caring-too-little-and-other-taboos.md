@@ -1,5 +1,5 @@
 ---
-title: Giving up, caring too little, and other taboos
+title: "Giving up, caring too little, and other taboos"
 ---
 
 A couple of articles popped up this week that circle around the big issue of taboo in the arts. Allison Ford, in her ["I Gave Up My Dream And I'd Do It Again,"](http://www.thegloss.com/2012/06/05/career/i-gave-up-my-dream-and-id-do-it-again-731/) talks about her decision to walk away from pursuing a career in theatre, at the tender age of 20-something. Closer to opera is Kathryn McAdam's ["Soprano on Sabbatical...What on earth does she mean?"](https://sopranoonsabbatical.wordpress.com/2015/06/04/soprano-on-sabbatical-what-on-earth-does-she-mean/), where she reveals a beautifully personal story about her struggles with vocal health that finally trumped all.

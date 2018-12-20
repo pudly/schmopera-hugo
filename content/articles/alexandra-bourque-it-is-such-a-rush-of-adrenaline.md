@@ -1,5 +1,5 @@
 ---
-title: "Alexandra Bourque: "It is such a rush of adrenaline.""
+title: "Alexandra Bourque: &quot;It is such a rush of adrenaline.&quot;"
 ---
 
 ## Is orchestral conducting really a man's world?

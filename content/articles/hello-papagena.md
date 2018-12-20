@@ -1,5 +1,5 @@
 ---
-title: "Hello, Papagena!"
+title: "&quot;Hello, Papagena!&quot;"
 ---
 
 Readers, did you catch the tiniest, sweetest, heart-warming-est little opera reference in *Minions*? We did:

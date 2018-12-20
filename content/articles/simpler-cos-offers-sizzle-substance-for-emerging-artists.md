@@ -1,5 +1,5 @@
 ---
-title: Simpler Così offers sizzle & substance for Emerging Artists
+title: "Simpler Così offers sizzle &amp; substance for Emerging Artists"
 ---
 
 Ever go to a performance where it's all sizzle and no substance? Where the production put so much effort into special effects that it overshadows what was most important?

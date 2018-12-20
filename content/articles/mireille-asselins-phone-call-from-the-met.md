@@ -1,5 +1,5 @@
 ---
-title: Mireille Asselin's phone call from the Met
+title: "Mireille Asselin&#039;s phone call from the Met"
 ---
 
 ## 1. What went through your mind when you heard you'd be singing for opening night?

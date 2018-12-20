@@ -1,5 +1,5 @@
 ---
-title: Kristine Dandavino on Oshawa Opera
+title: "Kristine Dandavino on Oshawa Opera"
 ---
 
 <h3>1. Why did you start Oshawa Opera?<br>

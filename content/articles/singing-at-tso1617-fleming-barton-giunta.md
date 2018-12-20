@@ -1,5 +1,5 @@
 ---
-title: "Singing at #TSO1617: Fleming, Barton, & Giunta"
+title: "Singing at #TSO1617: Fleming, Barton, &amp; Giunta"
 ---
 
 Toronto-area readers will be thrilled to know it's official: star soprano [Renée Fleming](/scene/people/renee-fleming/) is set to sing at Roy Thomson Hall on **September 21**, opening the Toronto Symphony Orchestra's 2016/17 season. Peter Oundjian conducts a programme of Puccini arias, Ravel's *Schéhérazade*, and songs from Rodgers & Hammerstein's *The King and I*.

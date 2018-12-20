@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: the songs of Leonard Cohen"
+title: "Don&#039;t miss: the songs of Leonard Cohen"
 ---
 
 For something different this winter, head over to Theatre Passe Muraille to hear Theatre 20's production of [*Chelsea Hotel: The Songs of Leonard Cohen*](http://www.theatre20.com/#!chelsea-hotel/cyyd). Tracey Power directs this "eclectic cabaret" of Cohen's music, which had its premiere in Vancouver in 2012, and has since traveled to Winnipeg, Saskatoon, Calgary, Victoria, Vernon, Banff, and Fort McMurray.

@@ -1,5 +1,5 @@
 ---
-title: Opera lovers & their unpopular opinions
+title: "Opera lovers &amp; their unpopular opinions"
 ---
 
 We were listening to an episode [Overthought, A Podcast](http://www.overthoughtpodcast.com/), and co-host (and fellow Schmopera contributor) [Isaiah Bell](/on-the-ego/) brought up a pretty neat point. In a long and qualified tangent about the general topic of perfectionism, he expressed his frustration with the music of Mozart. To paraphrase, Mozart's knack for symmetry and those immaculate turns of phrases is slightly irritating to Bell; there's not enough human error in his music for him to fall in love with it.

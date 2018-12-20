@@ -1,5 +1,5 @@
 ---
-title: Susannah is topical relevance, like it or not
+title: "Susannah is topical relevance, like it or not"
 ---
 
 The closing production of [Nashville Opera](/scene/companies/nashville-opera/)'s eclectic 2017-2018 season was Carlisle Floyd's [*Susannah*](http://www.nashvilleopera.org/susannah/), which ran from April 6-8. This season featured some truly fantastic singing, in no small part by this cast.

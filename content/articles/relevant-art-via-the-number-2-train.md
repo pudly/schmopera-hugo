@@ -1,5 +1,5 @@
 ---
-title: Relevant Art Via the Number 2 Train
+title: "Relevant Art Via the Number 2 Train"
 ---
 
 <p>

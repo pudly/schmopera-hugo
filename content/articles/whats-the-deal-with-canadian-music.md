@@ -1,5 +1,5 @@
 ---
-title: What's the deal with Canadian music?
+title: "What&#039;s the deal with Canadian music?"
 ---
 
 Larry Beckwith, Artistic Director of [Toronto Masque Theatre](/scene/companies/toronto-masque-theatre/), addressed his audience at the company's first salon evening of the [2017/18 season](/the-stars-align-for-toronto-masque-theatres-final-season/), entitled *Canada in Words and Music*. He expressed a wish that he could present something larger than a simple snapshot of Canadian music, but rather a comprehensive history of music coming out of our still-young country. Perhaps Beckwith didn't give himself enough credit, since the evening's combination of music and conversation certainly did achieve something comprehensive; perhaps even more importantly, TMT's first salon gave valuable context to the topic of music in Canada.

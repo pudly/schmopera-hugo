@@ -1,5 +1,5 @@
 ---
-title: Braid "brilliant" in Tosca role debut
+title: "Braid &quot;brilliant&quot; in Tosca role debut"
 ---
 
 When you debut a role as iconic as Floria Tosca, when do you suppose you have your best performance during the course of a three-show run?

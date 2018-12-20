@@ -1,5 +1,5 @@
 ---
-title: Opera Memes, Act II
+title: "Opera Memes, Act II"
 ---
 
 A while back, [I got impatient](/opera-memes-a-deconstruction/) with a bunch of opera memes that were circulating around the Internet. It has happened again, partly thanks to the[ Opera Memes Facebook page](https://www.facebook.com/OperaSingerMemes). Here we go, for Act II of the Opera Memes Deconstruction:

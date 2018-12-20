@@ -1,5 +1,5 @@
 ---
-title: "Michael Fabiano: the "profound effect" of ArtSmart"
+title: "Michael Fabiano: the &quot;profound effect&quot; of ArtSmart"
 ---
 
 A little over a year ago, the team that would make up ArtSmart sat down to take a hard look at the role of the arts in public school curriculum.  [Brian Levor](http://www.artsmart.org/author/blevor/) is a percussionist and teacher; [John Viscardi](/scene/people/john-viscardi/) runs a health care company and is a baritone with a burgeoning career; and [Michael Fabiano](/scene/people/michael-fabiano/) is one of the world's leading operatic tenors. All three were focused on two realities of arts education: that there isn't enough of it, and that students who do pursue arts degrees accumulate large amounts of student debt, while having a difficult time finding work in their field.

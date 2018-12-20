@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: Oshawa Opera's 2017/18 season"
+title: "Don&#039;t miss: Oshawa Opera&#039;s 2017/18 season"
 ---
 
 This month, the [Oshawa Opera](/scene/companies/oshawa-opera/) kicks off its fall season of 2017/18, with Mascagni's verismo favourite, *Cavalleria rusticana*, for one performance only on **October 29, 3pm**. Mezzo-soprano (and Oshawa Opera Artistic Director) Kristine Dandavino (Santuzza), tenor Jason Lamont (Turridu), mezzo-soprano Anna Belikova (Lucia), baritone Kyle Lehmann (Alfio), and mezzo-soprano Victoria Borg (Lola) join the Oshawa Opera Chorus and [William Shookhoff](/celebrating-10-years-of-opera-by-request/) at the piano.

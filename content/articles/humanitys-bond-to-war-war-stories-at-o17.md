@@ -1,5 +1,5 @@
 ---
-title: ""Humanity's bond to war": War Stories at O17"
+title: "&quot;Humanity&#039;s bond to war&quot;: War Stories at O17"
 ---
 
 Whiskey and beer. Wine and Cheese. Sonny and Cher. Beecher and Monteverdi. Last night at the Philadelphia Museum of Art, a nearly-sold out performance immersed an audience in a perfect pairing of two great operas. [*War Stories*](https://www.operaphila.org/whats-on/on-stage-2017-2018/war-stories/) is a double-bill program, which was first presented to New York City audiences in 2014 at the Metropolitan Museum of Art. The night combines *Il combattimento di Tancredi e Clorinda* by Monteverdi and *I Have No Stories To Tell You*, with music by Lembit Beecher and incredible libretto by Hannah Moscovitch. In between the two contrasting works, audiences are invited into the Arms and Armor Exhibit. 

@@ -1,5 +1,5 @@
 ---
-title: "Don't miss: The Living Spectacle"
+title: "Don&#039;t miss: The Living Spectacle"
 ---
 
 ## 1. Can you tell us about programming this concert?

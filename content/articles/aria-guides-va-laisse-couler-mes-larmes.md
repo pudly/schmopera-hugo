@@ -1,5 +1,5 @@
 ---
-title: "Aria guides: "Va, laisse couler mes larmes""
+title: "Aria guides: &quot;Va, laisse couler mes larmes&quot;"
 ---
 
 1. The *a cappella* opening to this aria, plus the imperative, "Va!" can add up to an angry start for Charlotte. Though the first phrase has strength, what she says afterwards is comforting, not accusatory. So, using the *forte* marking, try for an effect that's not a retort, but instead a release of tension. The tenuto markings over "Va!" and "mes" are about the vowels, so resist the urge to emphasize with the consonants. Massenet is asking you to enjoy the trip on "mes larmes," and a small portamento between the F and D is effective, and helpful for arriving with a conductor on the downbeat.<figure data-type="image">![](/webhook-uploads/1474490184250/Aria-Guide---Charlotte---p1---annotated---cut.jpg)

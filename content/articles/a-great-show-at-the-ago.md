@@ -1,5 +1,5 @@
 ---
-title: A great show at the AGO
+title: "A great show at the AGO"
 ---
 
 Last night I went to the Art Gallery of Ontario for their [AGO Friday Nights](http://www.ago.net/fridaynights) series; this month, Friday Nights include a little music with your art. Complementing the AGO's current exhibition of works by [J.M.W. Turner (1775-1851), *Painting Set Free*](http://www.ago.net/j-m-w-turner-painting-set-free), is a series of concerts curated by Tapestry Opera's artistic director, [Michael Mori](/scene/people/michael-mori/), entitled *Music Set Free*. Mori selected a constantly interested programme of music, to be presented by pianist and composer [Adam Sherkin](/scene/people/adam-sherkin/) and mezzo-soprano [Marion Newman](/scene/people/marion-newman/). 

@@ -1,5 +1,5 @@
 ---
-title: What do singers want in a pianist?
+title: "What do singers want in a pianist?"
 ---
 
 There was an [interesting post on Reddit](https://www.reddit.com/r/opera/comments/6yr54h/tipsguidelines_on_working_with_an_opera_singer/?st=j7c2x21w&sh=b72b8f1b) the other day, from a pianist asking for some beginner's tips on working with a singer. Presumably coming from singers or more experienced coaches, some of the comments mentioned: 

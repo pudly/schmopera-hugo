@@ -1,5 +1,5 @@
 ---
-title: The Art of Defining a Singer and Squashing Anomalies
+title: "The Art of Defining a Singer and Squashing Anomalies"
 ---
 
 <p>

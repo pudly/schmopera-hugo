@@ -1,5 +1,5 @@
 ---
-title: "Heavy nights: Schoenberg & Brahms, the LPO and Goerne"
+title: "Heavy nights: Schoenberg &amp; Brahms, the LPO and Goerne"
 ---
 
 Saturday night, the London Philharmonic Orchestra offered up a heavy evening of Schoenberg and Brahms, one that left us sunk in our seats and deeply satisfied.

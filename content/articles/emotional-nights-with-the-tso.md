@@ -1,5 +1,5 @@
 ---
-title: Emotional nights with the TSO
+title: "Emotional nights with the TSO"
 ---
 
 It was a very emotional night at Roy Thomson Hall. Audience were greeted at the door by an honour guard on horseback outside the main doors, service men and women in uniform dotted the lobby, and the bright red of poppies leapt from the lapels of people milling about. 

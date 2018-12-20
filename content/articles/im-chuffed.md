@@ -1,5 +1,5 @@
 ---
-title: "I'm chuffed!"
+title: "&quot;I&#039;m chuffed!&quot;"
 ---
 
 Did you hear? [Against the Grain Theatre](http://againstthegraintheatre.com/) is partnering with the Banff Centre for the Arts and the Canadian Opera Company to premiere a new opera training program! Led by AtG's artistic director Joel Ivany and music director Christopher Mokrzewski, eight singers will have the chance to workshop operatic skills in an innovative way. They'll collaborative on Mozart's _Don Giovanni_  (with an Against-the-Grain-twist, to be sure), and present it at various venues within the Banff community.

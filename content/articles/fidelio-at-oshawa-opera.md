@@ -1,5 +1,5 @@
 ---
-title: Fidelio at Oshawa Opera
+title: "Fidelio at Oshawa Opera"
 ---
 
 ## 1. Why did you choose Fidelio?

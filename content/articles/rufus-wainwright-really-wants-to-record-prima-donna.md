@@ -1,5 +1,5 @@
 ---
-title: Rufus Wainwright really wants to record Prima Donna
+title: "Rufus Wainwright really wants to record Prima Donna"
 ---
 
 Rufus Wainwright is eager to make a studio recording of his first opera, _Prima Donna_, and the only thing stopping him is money. Rufus has yet to find a financial backer for the project, so he has turned to crowdfunding to find the cash on his own. He has set up the _Prima Donna_ project on [Pledge Music](http://www.pledgemusic.com/projects/primadonna), stating, "It is vitally important to me that 'Prima Donna' be properly recorded and released so that I can tour a concert version of it in the coming year." He mentions his opera's short-yet-turbulent performance history, including the "sold out shows in London and Toronto" and the "early rocky days with the Metropolitan Opera," and states that _Prima Donna_ "is a solid and viable offering that both people love performing in and audiences enjoy watching and listening to. It’s vitally important we get a quality recording for generations to come."

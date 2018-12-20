@@ -1,5 +1,5 @@
 ---
-title: Opera fans have nothing on the "My Way Killings"
+title: "Opera fans have nothing on the &quot;My Way Killings&quot;"
 ---
 
 Opera fans are known for their passionate opinions, but this is something else entirely.

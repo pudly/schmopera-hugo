@@ -1,5 +1,5 @@
 ---
-title: Michael Rose on A Tale of Two Cities
+title: "Michael Rose on A Tale of Two Cities"
 ---
 
 ## What makes *A Tale of Two Cities* a good story to tell in an operatic setting?

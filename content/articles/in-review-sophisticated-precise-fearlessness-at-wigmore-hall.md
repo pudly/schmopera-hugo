@@ -1,5 +1,5 @@
 ---
-title: "In review: "Sophisticated, precise fearlessness" at Wigmore Hall"
+title: "In review: &quot;Sophisticated, precise fearlessness&quot; at Wigmore Hall"
 ---
 
 Last night was a unique and wonderful evening at the Wigmore Hall. This year’s Wigmore Hall/Kohn Foundation Intenational Song Competition was a very rewarding evening full of incredible music making.  The young performers must present recitals of 30 minutes each, consisting of songs in any language - they must also include at least one song written after 1950. This year's finalists presented four completely contrasting programs - they were also four very different pairs of musicians. 

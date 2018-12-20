@@ -1,5 +1,5 @@
 ---
-title: Turning Pages, Turning Heads
+title: "Turning Pages, Turning Heads"
 ---
 
 Pianists, can we talk about page-turning for a minute? Nothing ignites panic in a pianist quite like that horrible feeling of two pages, disguised as one, inexplicably stuck together. The subsequent scuffle between index finger and thumb can escalate into the unthinkable: having to turn the page with *both hands*. I've never been a fan of having a designated page-turner seated beside me at the piano, because I like my bubble of personal space when I play; my stubbornness on this issue has only grown stronger since I've been playing opera scores. Even neatly reduced piano-vocal scores have aggressively placed page turns, and in those chorus scenes, you're lucky to fit more than eight bars on two pages. To add insult to injury, the number of other people in the rehearsal room who care that frequent page turns can throw off a pianist's groove, is exactly zero.

@@ -1,5 +1,5 @@
 ---
-title: Opera Gossip is the best Gossip
+title: "Opera Gossip is the best Gossip"
 ---
 
 I heard some interesting news through that long and winding operatic grapevine: Toronto's small and mighty opera companies are banding together! There are some great creative minds behind this indie opera collective, and the possibilities are even greater. By forming a collective, the companies will be able to share resources like performance venues, audition space, and their respective contact lists of singers. The result could be cool: a combined, _full_ season of diverse productions from our favourite little opera companies.

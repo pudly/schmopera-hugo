@@ -1,5 +1,5 @@
 ---
-title: "In review: TSMF's Night at the Opera"
+title: "In review: TSMF&#039;s Night at the Opera"
 ---
 
 There are certainly the Puritans out there, who prefer their opera delivered in an uncut, strictly contextual manner; but for plenty of us the gala-type concert is a perfect offering of treats. Opera fans who admit to a bit of indecision - and maybe moments of short attention spans - love a night of hit after hit, sung by a small group of singers that get to show off some stylistic variety.

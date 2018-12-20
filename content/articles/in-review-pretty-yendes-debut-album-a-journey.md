@@ -1,5 +1,5 @@
 ---
-title: "In review: Pretty Yende's debut album, A Journey"
+title: "In review: Pretty Yende&#039;s debut album, A Journey"
 ---
 
 South African soprano [Pretty Yende](/scene/people/pretty-yende/) has released her debut album, [*A Journey*](https://www.amazon.co.uk/Journey-Pretty-Yende/dp/B01GTA279G?tag=smarturl-gb-21), on Sony Classical. With [Marco Armiliato](http://imgartists.com/artist/marco_armiliato) conducting the Orchestra Sinfonica Nazionale Della Rai, *A Journey* is both a compilation of beloved *bel canto* arias, and a memoir of sorts for Yende's career to date.

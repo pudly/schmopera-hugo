@@ -1,5 +1,5 @@
 ---
-title: Are the arts & other creative fields a waste of time & money?
+title: "Are the arts &amp; other creative fields a waste of time &amp; money?"
 ---
 
 In times of economic and political uncertainty, "non-essentials" are usually up for the budgetary chopping block. Almost always first on this list are the arts and other creative endeavors. Currently, there has been talk of eliminating the National Endowment for the Arts, and the arts have been cut in schools consistently whenever budget constraints are present.

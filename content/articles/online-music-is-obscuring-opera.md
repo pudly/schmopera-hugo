@@ -1,5 +1,5 @@
 ---
-title: Online Music is Obscuring Opera
+title: "Online Music is Obscuring Opera"
 ---
 
 As I sat for the nth time scrolling through my music library on my computer, trying to find that really cool bit between this aria and that finale, I switched from recording to recording, hoping that the track division would be different, and perhaps more conducive to my finding that super neat chord progression. And it took me so long to find the thing that my determination wilted. It was somewhere in that chunk of 9:41 or something, and, sure that I had combed through every second of that stupid clip in vain, I was experiencing an acute sensation of oncoming dementia.

@@ -1,5 +1,5 @@
 ---
-title: Stop letting audition season destroy your bank account
+title: "Stop letting audition season destroy your bank account"
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: Managing the unexpected
+title: "Managing the unexpected"
 ---
 
 Risk-proof your life.
