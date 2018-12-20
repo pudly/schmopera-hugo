@@ -4,7 +4,6 @@ category = ""
 companies = []
 date = "2018-12-20T18:05:00+00:00"
 disclaimer = "Disclaimer. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis orci nulla, venenatis vitae fringilla sit amet, commodo in sem. Fusce libero ante, sollicitudin vestibulum consequat ut, facilisis consectetur enim. Maecenas pellentesque laoreet ultrices.  "
-draft = true
 image_gallery = []
 people = []
 preamble = "Preamble. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis orci nulla, venenatis vitae fringilla sit amet, commodo in sem. Fusce libero ante, sollicitudin vestibulum consequat ut, facilisis consectetur enim. Maecenas pellentesque laoreet ultrices.  "
