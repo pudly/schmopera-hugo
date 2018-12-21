@@ -1,5 +1,6 @@
 +++
 author = ""
+categories = "Editorial"
 category = ""
 companies = []
 date = "2018-12-20T18:05:00+00:00"
