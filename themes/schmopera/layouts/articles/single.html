@@ -84,10 +84,12 @@
         {% for relation in item.authors %}
           <a href="{ url(relation) }" class="post--meta-author">{ relation.name }</a>
         {% endfor %}
-        {% if item.category|size !== 0 %}
-        <a href="{ url(item.category) }" class="post--meta-category">{ item.category.name }</a>
-        {% endif %}
         */}}
+
+        {{ with .Params.categories }}
+          <a href="{{ "categories/" | absURL}}{{ . | urlize }}" class="post--meta-category">{{ . }}</a>
+        {{ end }}
+
       </span>
     </section>
     {{ with .Params.primary_image_credit }}
