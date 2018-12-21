@@ -1,4 +1,7 @@
-baseURL = "http://schmopera.com"
+baseURL = "https://schmopera.com"
 languageCode = "en-us"
 title = "Schmopera"
 theme = "schmopera"
+
+[taxonomies]
+  category = "categories"

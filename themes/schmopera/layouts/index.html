@@ -13,8 +13,8 @@
       <div>
         <ul>
         <!-- Note that .Pages is the same as .Site.RegularPages on the homepage template. -->
-        {{ range first 10 .Pages }}
-            <li><a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a></li>
+        {{ range .Pages }}
+            <li><a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title | htmlUnescape }}</a></li>
         {{ end }}
          </ul>
       </div>
