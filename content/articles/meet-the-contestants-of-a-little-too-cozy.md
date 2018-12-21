@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-05-01T12:07:00+01:00"
+lastmod = "2016-05-02T21:36:00+01:00"
+publishDate = "2016-05-02T15:11:00+01:00"
 slug = "meet-the-contestants-of-a-little-too-cozy"
 title = "Meet the contestants of A Little Too Cozy!"
 +++

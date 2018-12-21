@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-02-05T21:55:00-05:00"
+lastmod = "2018-02-06T16:28:00-05:00"
+publishDate = "2018-02-05T21:55:00-05:00"
 slug = "the-singing-reigns-in-chicagos-i-puritani"
 title = "The singing reigns in Chicago&#039;s I Puritani"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-02-16T21:30:00-05:00"
+lastmod = "2018-02-16T22:24:00-05:00"
+publishDate = "2018-02-16T21:30:00-05:00"
 slug = "candide-the-best-of-all-possible-productions"
 title = "Candide: the Best of All Possible Productions?"
 +++

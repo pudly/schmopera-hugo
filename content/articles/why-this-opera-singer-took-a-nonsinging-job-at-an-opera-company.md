@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-01-04T13:25:00-05:00"
+lastmod = "2016-01-04T14:18:00-05:00"
+publishDate = "2016-01-04T14:18:00-05:00"
 slug = "why-this-opera-singer-took-a-nonsinging-job-at-an-opera-company"
 title = "Why This Opera Singer Took a Non-Singing Job at an Opera Company"
 +++

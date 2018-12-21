@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-05-06T14:15:00-04:00"
+lastmod = "2015-04-23T20:39:00-04:00"
+publishDate = "2014-05-06T14:15:00-04:00"
 slug = "schmopera-on-the-avalon"
 title = "Schmopera on the Avalon"
 +++

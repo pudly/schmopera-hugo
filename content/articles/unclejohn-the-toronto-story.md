@@ -1,4 +1,7 @@
 +++
+date = "2014-12-17T14:00:00+00:00"
+lastmod = "2016-11-28T10:11:00+00:00"
+publishDate = "2014-12-17T14:00:00+00:00"
 slug = "unclejohn-the-toronto-story"
 title = "#UncleJohn: the Toronto story"
 +++

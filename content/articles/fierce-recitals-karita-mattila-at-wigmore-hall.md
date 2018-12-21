@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-05-07T17:02:00-04:00"
+lastmod = "2017-05-08T09:24:00-04:00"
+publishDate = "2017-05-08T09:24:00-04:00"
 slug = "fierce-recitals-karita-mattila-at-wigmore-hall"
 title = "Fierce recitals: Karita Mattila at Wigmore Hall"
 +++

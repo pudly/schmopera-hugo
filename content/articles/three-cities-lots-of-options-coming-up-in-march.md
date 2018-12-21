@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2018-02-27T21:56:00-05:00"
+lastmod = "2018-02-28T18:29:00-05:00"
+publishDate = "2018-02-27T21:56:00-05:00"
 slug = "three-cities-lots-of-options-coming-up-in-march"
 title = "Three cities, lots of options: coming up in March"
 +++

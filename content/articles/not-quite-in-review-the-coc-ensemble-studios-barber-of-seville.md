@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-05-16T11:19:00-04:00"
+lastmod = "2015-05-16T12:37:00-04:00"
+publishDate = "2015-05-16T12:34:00-04:00"
 slug = "not-quite-in-review-the-coc-ensemble-studios-barber-of-seville"
 title = "(not quite) In review: The COC Ensemble Studio&#039;s Barber of Seville"
 +++

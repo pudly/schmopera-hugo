@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-04-12T00:31:00+01:00"
+lastmod = "2016-06-05T20:16:00+01:00"
+publishDate = "2015-02-13T16:31:00+00:00"
 slug = "turning-pages-turning-heads"
 title = "Turning Pages, Turning Heads"
 +++

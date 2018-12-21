@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-06-24T13:53:00-06:00"
+lastmod = "2017-06-24T15:17:00-06:00"
+publishDate = "2017-06-24T14:52:00-06:00"
 slug = "in-review-suffragette"
 title = "In review: Suffragette"
 +++

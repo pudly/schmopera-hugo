@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2018-06-06T21:20:00-04:00"
+lastmod = "2018-06-07T11:22:00-04:00"
+publishDate = "2018-06-07T11:22:00-04:00"
 slug = "jeremy-dutcher-deep-in-dialogue-with-his-roots"
 title = "Jeremy Dutcher: &quot;deep in dialogue&quot; with his roots"
 +++

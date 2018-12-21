@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-04-21T20:33:00-04:00"
+lastmod = "2017-05-03T10:01:00-04:00"
+publishDate = "2017-05-03T09:44:00-04:00"
 slug = "thousands-of-miles-its-raw"
 title = "Thousands of Miles: &quot;It&#039;s raw.&quot;"
 +++

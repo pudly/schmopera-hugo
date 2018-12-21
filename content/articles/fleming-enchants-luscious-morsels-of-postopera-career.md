@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-09-27T12:40:00-04:00"
+lastmod = "2018-09-28T08:48:00-04:00"
+publishDate = "2018-09-28T08:48:00-04:00"
 slug = "fleming-enchants-luscious-morsels-of-postopera-career"
 title = "Fleming enchants: luscious morsels of post-opera career"
 +++

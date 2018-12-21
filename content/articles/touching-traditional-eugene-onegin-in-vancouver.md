@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-05-04T21:19:00-04:00"
+lastmod = "2018-05-04T21:34:00-04:00"
+publishDate = "2018-05-04T21:19:00-04:00"
 slug = "touching-traditional-eugene-onegin-in-vancouver"
 title = "Touching &amp; traditional: Eugene Onegin in Vancouver"
 +++

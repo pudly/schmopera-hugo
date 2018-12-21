@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-11-28T20:10:00+00:00"
+lastmod = "2016-11-30T14:52:00+00:00"
+publishDate = "2016-11-29T17:36:00+00:00"
 slug = "a-diction-lesson-french-canadian-swearing"
 title = "A diction lesson: French Canadian swearing"
 +++

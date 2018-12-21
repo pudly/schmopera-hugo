@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-10-05T07:42:00-04:00"
+lastmod = "2017-08-30T13:07:00-04:00"
+publishDate = "2016-10-06T05:01:00-04:00"
 slug = "talking-with-singers-eleazar-rodrguez"
 title = "Talking with singers: Eleazar Rodríguez"
 +++

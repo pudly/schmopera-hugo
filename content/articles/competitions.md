@@ -1,4 +1,7 @@
 +++
+date = "2016-09-20T09:33:00+01:00"
+lastmod = "2016-09-20T09:33:00+01:00"
+publishDate = "undefined"
 slug = "competitions"
 title = "Competitions"
 +++

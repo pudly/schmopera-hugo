@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-10-31T17:59:00-04:00"
+lastmod = "2017-11-01T14:34:00-04:00"
+publishDate = "2017-11-01T14:34:00-04:00"
 slug = "facts-leaps-taking-unnecessary-offence"
 title = "Facts, leaps &amp; taking unnecessary offence"
 +++

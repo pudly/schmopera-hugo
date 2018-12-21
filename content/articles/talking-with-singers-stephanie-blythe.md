@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-03-12T11:38:00-04:00"
+lastmod = "2018-03-13T08:25:00-04:00"
+publishDate = "2018-03-12T22:36:00-04:00"
 slug = "talking-with-singers-stephanie-blythe"
 title = "Talking with singers: Stephanie Blythe"
 +++

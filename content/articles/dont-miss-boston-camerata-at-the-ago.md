@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-01-12T17:21:00+00:00"
+lastmod = "2017-01-13T18:06:00+00:00"
+publishDate = "2017-01-13T17:25:00+00:00"
 slug = "dont-miss-boston-camerata-at-the-ago"
 title = "Don&#039;t miss: Boston Camerata at the AGO"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-10T19:17:00-04:00"
+lastmod = "2017-10-17T10:07:00-04:00"
+publishDate = "2017-10-17T10:07:00-04:00"
 slug = "a-bold-debut-album-brian-mulligan-sings-dominick-argento"
 title = "A bold debut album: Brian Mulligan sings Dominick Argento"
 +++

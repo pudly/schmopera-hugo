@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-05-08T11:12:00-04:00"
+lastmod = "2018-05-10T20:14:00-04:00"
+publishDate = "2018-05-08T11:12:00-04:00"
 slug = "slightly-unsettling-the-overcoat"
 title = "Slightly unsettling: The Overcoat"
 +++

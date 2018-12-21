@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-10-05T10:09:00-04:00"
+lastmod = "2017-10-06T11:06:00-04:00"
+publishDate = "2017-10-06T11:06:00-04:00"
 slug = "verdi-at-204-toscanini-at-150-the-2017-festival-verdi"
 title = "Verdi at 204, Toscanini at 150: the 2017 Festival Verdi"
 +++

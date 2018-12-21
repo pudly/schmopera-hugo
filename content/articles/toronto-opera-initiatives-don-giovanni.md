@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-02-14T14:32:00-05:00"
+lastmod = "2016-02-14T15:41:00-05:00"
+publishDate = "2016-02-14T15:30:00-05:00"
 slug = "toronto-opera-initiatives-don-giovanni"
 title = "Toronto Opera Initiative&#039;s Don Giovanni"
 +++

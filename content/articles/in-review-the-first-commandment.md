@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-03-22T10:16:00+00:00"
+lastmod = "2017-03-22T13:39:00+00:00"
+publishDate = "2017-03-22T12:28:00+00:00"
 slug = "in-review-the-first-commandment"
 title = "In review: The First Commandment"
 +++

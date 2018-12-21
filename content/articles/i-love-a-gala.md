@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-01-13T19:36:00-05:00"
+lastmod = "2015-04-28T22:48:00-04:00"
+publishDate = "2014-01-13T19:36:00-05:00"
 slug = "i-love-a-gala"
 title = "I Love a Gala"
 +++

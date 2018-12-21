@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-04-06T13:37:00+01:00"
+lastmod = "2016-04-06T15:39:00+01:00"
+publishDate = "2016-04-06T15:12:00+01:00"
 slug = "anna-theodosakis-directing-the-rape-of-lucretia"
 title = "Anna Theodosakis: directing The Rape of Lucretia"
 +++

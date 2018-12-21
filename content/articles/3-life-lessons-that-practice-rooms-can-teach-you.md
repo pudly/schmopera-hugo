@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-03-23T16:06:00+00:00"
+lastmod = "2016-03-31T15:27:00+01:00"
+publishDate = "2016-03-31T15:27:00+01:00"
 slug = "3-life-lessons-that-practice-rooms-can-teach-you"
 title = "3 life lessons that practice rooms can teach you"
 +++

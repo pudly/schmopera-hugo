@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-01-09T19:55:00-05:00"
+lastmod = "2015-04-28T23:03:00-04:00"
+publishDate = "2014-01-09T19:55:00-05:00"
 slug = "young-pups-and-puccini"
 title = "Young Pups and Puccini"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-04-15T10:41:00+01:00"
+lastmod = "2016-04-15T11:08:00+01:00"
+publishDate = "2016-04-15T11:00:00+01:00"
 slug = "in-review-javier-camarena-at-wigmore-hall"
 title = "In review: Javier Camarena at Wigmore Hall"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-06-22T12:23:00-06:00"
+lastmod = "2017-06-22T21:25:00-06:00"
+publishDate = "2017-06-22T21:14:00-06:00"
 slug = "spotlight-on-danielle-buonaiuto"
 title = "Spotlight on: Danielle Buonaiuto"
 +++

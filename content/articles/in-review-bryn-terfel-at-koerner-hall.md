@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-04-27T18:42:00+01:00"
+lastmod = "2016-04-28T11:43:00+01:00"
+publishDate = "2016-04-28T11:30:00+01:00"
 slug = "in-review-bryn-terfel-at-koerner-hall"
 title = "In review: Bryn Terfel at Koerner Hall"
 +++

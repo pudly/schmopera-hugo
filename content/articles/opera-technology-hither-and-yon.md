@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-03-30T22:35:00-04:00"
+lastmod = "2018-03-31T10:05:00-04:00"
+publishDate = "2018-03-30T22:35:00-04:00"
 slug = "opera-technology-hither-and-yon"
 title = "Opera Technology: Hither and Yon"
 +++

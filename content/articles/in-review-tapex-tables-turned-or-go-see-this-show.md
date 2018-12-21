@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-04-10T21:36:00-04:00"
+lastmod = "2015-04-12T19:01:00-04:00"
+publishDate = "2015-03-21T09:36:00-04:00"
 slug = "in-review-tapex-tables-turned-or-go-see-this-show"
 title = "In review: Tap:Ex Tables Turned, or Go See This Show"
 +++

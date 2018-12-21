@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2017-04-11T21:12:00+01:00"
+lastmod = "2017-04-13T09:35:00+01:00"
+publishDate = "2017-04-13T09:35:00+01:00"
 slug = "theres-a-new-klingon-opera-in-the-works"
 title = "There&#039;s a new Klingon opera in the works"
 +++

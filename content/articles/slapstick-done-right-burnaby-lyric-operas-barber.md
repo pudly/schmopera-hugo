@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-03-04T20:44:00-05:00"
+lastmod = "2018-03-05T08:01:00-05:00"
+publishDate = "2018-03-04T21:18:00-05:00"
 slug = "slapstick-done-right-burnaby-lyric-operas-barber"
 title = "Slapstick done right: Burnaby Lyric Opera&#039;s Barber"
 +++

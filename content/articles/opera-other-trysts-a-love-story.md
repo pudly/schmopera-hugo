@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-10-25T13:44:00-04:00"
+lastmod = "2017-10-26T23:18:00-04:00"
+publishDate = "2017-10-26T23:18:00-04:00"
 slug = "opera-other-trysts-a-love-story"
 title = "Opera &amp; other trysts: a love story"
 +++

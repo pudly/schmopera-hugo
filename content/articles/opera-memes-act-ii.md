@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2014-08-19T15:04:00-04:00"
+lastmod = "2015-04-16T22:15:00-04:00"
+publishDate = "2014-08-19T15:04:00-04:00"
 slug = "opera-memes-act-ii"
 title = "Opera Memes, Act II"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-11-12T10:49:00-05:00"
+lastmod = "2018-11-12T13:29:00-05:00"
+publishDate = "2018-11-12T13:29:00-05:00"
 slug = "silent-night-ages-well-in-minnesota-revival"
 title = "Silent Night ages well in Minnesota revival"
 +++

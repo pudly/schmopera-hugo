@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-08-25T19:40:00+01:00"
+lastmod = "2016-08-27T16:17:00+01:00"
+publishDate = "2016-08-27T09:41:00+01:00"
 slug = "dont-miss-encounter-with-sondra-radvanovsky"
 title = "Don&#039;t miss: Encounter with Sondra Radvanovsky"
 +++

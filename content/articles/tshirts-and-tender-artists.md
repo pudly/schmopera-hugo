@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-01-01T21:53:00-05:00"
+lastmod = "2016-01-02T10:59:00-05:00"
+publishDate = "2016-01-02T09:00:00-05:00"
 slug = "tshirts-and-tender-artists"
 title = "T-shirts and tender artists"
 +++

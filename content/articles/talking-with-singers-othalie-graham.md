@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-09-25T11:56:00-04:00"
+lastmod = "2017-07-18T16:16:00-04:00"
+publishDate = "2015-09-28T08:00:00-04:00"
 slug = "talking-with-singers-othalie-graham"
 title = "Talking with singers: Othalie Graham"
 +++

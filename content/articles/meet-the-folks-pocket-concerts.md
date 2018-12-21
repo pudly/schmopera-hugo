@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-10-26T19:34:00-04:00"
+lastmod = "2015-10-29T12:24:00-04:00"
+publishDate = "2015-10-29T11:30:00-04:00"
 slug = "meet-the-folks-pocket-concerts"
 title = "Meet the folks: Pocket Concerts"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-06-09T20:45:00-04:00"
+lastmod = "2018-06-11T21:26:00-04:00"
+publishDate = "2018-06-11T10:46:00-04:00"
 slug = "talking-with-singers-kiandra-howarth"
 title = "Talking with singers: Kiandra Howarth"
 +++

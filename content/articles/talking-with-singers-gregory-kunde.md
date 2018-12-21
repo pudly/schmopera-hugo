@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-06-11T11:27:00-06:00"
+lastmod = "2016-06-17T08:18:00-06:00"
+publishDate = "2016-06-17T00:26:00-06:00"
 slug = "talking-with-singers-gregory-kunde"
 title = "Talking with singers: Gregory Kunde"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-12-29T21:05:00-05:00"
+lastmod = "2018-01-01T19:53:00-05:00"
+publishDate = "2018-01-01T19:53:00-05:00"
 slug = "talking-with-conductors-alexander-joel"
 title = "Talking with conductors: Alexander Joel"
 +++

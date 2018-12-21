@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-08T13:43:00-04:00"
+lastmod = "2017-07-13T13:39:00-04:00"
+publishDate = "2017-07-13T12:40:00-04:00"
 slug = "talking-with-composers-andrew-staniland"
 title = "Talking with composers: Andrew Staniland"
 +++

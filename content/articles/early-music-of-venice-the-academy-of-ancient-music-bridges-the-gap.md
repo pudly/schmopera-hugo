@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-12-08T10:53:00+00:00"
+lastmod = "2016-12-11T10:46:00+00:00"
+publishDate = "2016-12-11T10:46:00+00:00"
 slug = "early-music-of-venice-the-academy-of-ancient-music-bridges-the-gap"
 title = "Early music of Venice: the Academy of Ancient Music bridges the gap"
 +++

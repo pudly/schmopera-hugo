@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-05-23T14:38:00-04:00"
+lastmod = "2015-05-25T09:05:00-04:00"
+publishDate = "2015-05-25T09:05:00-04:00"
 slug = "opera-spinoffs-round-two"
 title = "Opera spin-offs, round two"
 +++

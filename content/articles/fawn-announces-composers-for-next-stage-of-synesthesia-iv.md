@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-12-08T20:46:00+00:00"
+lastmod = "2016-12-10T22:12:00+00:00"
+publishDate = "2016-12-10T13:14:00+00:00"
 slug = "fawn-announces-composers-for-next-stage-of-synesthesia-iv"
 title = "FAWN announces composers for next stage of Synesthesia IV"
 +++

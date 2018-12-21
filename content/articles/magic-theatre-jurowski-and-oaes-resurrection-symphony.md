@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-04-13T10:08:00+01:00"
+lastmod = "2016-04-13T12:00:00+01:00"
+publishDate = "2016-04-13T11:13:00+01:00"
 slug = "magic-theatre-jurowski-and-oaes-resurrection-symphony"
 title = "Magic &amp; theatre: Jurowski and OAE&#039;s Resurrection Symphony"
 +++

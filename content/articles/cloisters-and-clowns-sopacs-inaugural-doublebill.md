@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-02-01T11:48:00+00:00"
+lastmod = "2017-02-01T16:18:00+00:00"
+publishDate = "2017-02-01T16:18:00+00:00"
 slug = "cloisters-and-clowns-sopacs-inaugural-doublebill"
 title = "Cloisters and clowns: SOPAC&#039;s inaugural double-bill"
 +++

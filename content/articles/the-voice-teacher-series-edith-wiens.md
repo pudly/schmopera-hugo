@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-08-31T14:40:00-04:00"
+lastmod = "2017-09-04T21:31:00-04:00"
+publishDate = "2017-09-04T20:51:00-04:00"
 slug = "the-voice-teacher-series-edith-wiens"
 title = "The voice teacher series: Edith Wiens"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-12-12T14:21:00-05:00"
+lastmod = "2017-12-13T04:49:00-05:00"
+publishDate = "2017-12-12T20:35:00-05:00"
 slug = "talking-with-singers-clarence-frazer"
 title = "Talking with singers: Clarence Frazer"
 +++

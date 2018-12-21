@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-12-03T12:20:00-05:00"
+lastmod = "2015-12-07T15:21:00-05:00"
+publishDate = "2015-12-07T14:10:00-05:00"
 slug = "talking-with-singers-peter-mcgillivray"
 title = "Talking with singers: Peter McGillivray"
 +++

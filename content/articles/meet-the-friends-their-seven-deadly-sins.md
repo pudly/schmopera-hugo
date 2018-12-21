@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-07-28T13:59:00-04:00"
+lastmod = "2015-09-18T09:05:00-04:00"
+publishDate = "2015-09-18T08:52:00-04:00"
 slug = "meet-the-friends-their-seven-deadly-sins"
 title = "Meet the Friends &amp; their Seven Deadly Sins"
 +++

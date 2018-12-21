@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-04-04T17:33:00+01:00"
+lastmod = "2016-04-04T18:16:00+01:00"
+publishDate = "2016-04-04T18:16:00+01:00"
 slug = "in-review-isis-and-osiris"
 title = "In review: Isis and Osiris"
 +++

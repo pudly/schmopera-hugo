@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-20T11:00:00-05:00"
+lastmod = "2017-11-21T11:45:00-05:00"
+publishDate = "2017-11-20T21:07:00-05:00"
 slug = "as-one-they-both-took-risks-that-paid-off"
 title = "As One: &quot;they both took risks that paid off.&quot;"
 +++

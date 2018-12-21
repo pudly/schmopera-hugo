@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2014-09-15T09:00:00-04:00"
+lastmod = "2015-04-16T15:14:00-04:00"
+publishDate = "2014-09-15T09:00:00-04:00"
 slug = "opera-5s-aria-umezawa-on-offenbachhahn"
 title = "Opera 5&#039;s Aria Umezawa on Offenbach/Hahn"
 +++

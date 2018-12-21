@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-04-11T19:37:00-04:00"
+lastmod = "2015-04-11T19:57:00-04:00"
+publishDate = "2015-02-12T09:09:00-05:00"
 slug = "opera-da-camera-xerxes-is-the-new-elvis"
 title = "Opera da Camera: Xerxes is the new Elvis"
 +++

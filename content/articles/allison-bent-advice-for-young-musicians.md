@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-04-11T20:25:00-04:00"
+lastmod = "2015-04-11T20:25:00-04:00"
+publishDate = "2015-02-09T08:25:00-05:00"
 slug = "allison-bent-advice-for-young-musicians"
 title = "Allison Bent: Advice for Young Musicians"
 +++

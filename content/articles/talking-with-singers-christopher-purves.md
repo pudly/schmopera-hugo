@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-08-26T13:02:00+01:00"
+lastmod = "2016-08-30T13:31:00+01:00"
+publishDate = "2016-08-30T08:08:00+01:00"
 slug = "talking-with-singers-christopher-purves"
 title = "Talking with singers: Christopher Purves"
 +++

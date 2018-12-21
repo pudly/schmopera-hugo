@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-06-26T12:07:00-04:00"
+lastmod = "2018-06-26T12:47:00-04:00"
+publishDate = "2018-06-26T12:37:00-04:00"
 slug = "dont-miss-la-gazzetta-"
 title = "Don&#039;t miss: La gazzetta "
 +++

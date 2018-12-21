@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2014-12-03T08:00:00-05:00"
+lastmod = "2015-04-13T20:55:00-04:00"
+publishDate = "2014-12-03T08:00:00-05:00"
 slug = "tales-from-the-score-bohemians-in-love"
 title = "Tales from the score: Bohemians in love"
 +++

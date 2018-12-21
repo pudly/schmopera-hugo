@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-11-07T13:49:00-05:00"
+lastmod = "2018-11-07T14:12:00-05:00"
+publishDate = "2018-11-07T14:12:00-05:00"
 slug = "a-definitive-hit-west-side-story-in-atlanta"
 title = "A definitive hit: West Side Story in Atlanta"
 +++

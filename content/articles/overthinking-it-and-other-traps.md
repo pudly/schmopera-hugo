@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-05-06T12:22:00-04:00"
+lastmod = "2015-05-07T11:01:00-04:00"
+publishDate = "2015-05-07T10:50:00-04:00"
 slug = "overthinking-it-and-other-traps"
 title = "Overthinking it and other traps"
 +++

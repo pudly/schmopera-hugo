@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-06-04T16:42:00-04:00"
+lastmod = "2015-06-11T08:52:00-04:00"
+publishDate = "2015-06-11T08:52:00-04:00"
 slug = "giving-up-caring-too-little-and-other-taboos"
 title = "Giving up, caring too little, and other taboos"
 +++

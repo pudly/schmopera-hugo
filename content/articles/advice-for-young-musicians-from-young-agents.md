@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-04-11T20:28:00-04:00"
+lastmod = "2015-04-11T20:28:00-04:00"
+publishDate = "2015-02-09T09:28:00-05:00"
 slug = "advice-for-young-musicians-from-young-agents"
 title = "Advice for Young Musicians, from Young Agents"
 +++

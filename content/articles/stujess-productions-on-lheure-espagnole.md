@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-05-01T08:56:00-04:00"
+lastmod = "2015-05-01T09:53:00-04:00"
+publishDate = "2015-05-01T09:44:00-04:00"
 slug = "stujess-productions-on-lheure-espagnole"
 title = "Stu&amp;Jess Productions, on L&#039;heure espagnole"
 +++

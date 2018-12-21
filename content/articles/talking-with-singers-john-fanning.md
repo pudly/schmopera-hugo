@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-09-15T13:02:00-04:00"
+lastmod = "2017-10-02T21:12:00-04:00"
+publishDate = "2017-10-02T20:51:00-04:00"
 slug = "talking-with-singers-john-fanning"
 title = "Talking with singers: John Fanning"
 +++

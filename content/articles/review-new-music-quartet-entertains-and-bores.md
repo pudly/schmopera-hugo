@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-03-19T17:08:00-04:00"
+lastmod = "2018-03-20T14:25:00-04:00"
+publishDate = "2018-03-20T14:25:00-04:00"
 slug = "review-new-music-quartet-entertains-and-bores"
 title = "Review: New music quartet entertains and bores"
 +++

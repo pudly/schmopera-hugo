@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-03-13T16:30:00-04:00"
+lastmod = "2018-03-14T19:41:00-04:00"
+publishDate = "2018-03-13T21:12:00-04:00"
 slug = "jerry-springer-the-opera-hits-new-york"
 title = "Jerry Springer - The Opera hits New York"
 +++

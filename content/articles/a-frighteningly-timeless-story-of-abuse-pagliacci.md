@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-10-21T12:36:00-04:00"
+lastmod = "2018-10-21T21:33:00-04:00"
+publishDate = "2018-10-21T21:05:00-04:00"
 slug = "a-frighteningly-timeless-story-of-abuse-pagliacci"
 title = "A frighteningly timeless story of abuse: Pagliacci"
 +++

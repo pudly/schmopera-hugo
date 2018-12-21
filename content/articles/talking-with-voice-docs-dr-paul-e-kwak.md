@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-24T18:14:00-04:00"
+lastmod = "2017-08-09T16:47:00-04:00"
+publishDate = "2017-08-09T13:09:00-04:00"
 slug = "talking-with-voice-docs-dr-paul-e-kwak"
 title = "Talking with voice docs: Dr. Paul E. Kwak"
 +++

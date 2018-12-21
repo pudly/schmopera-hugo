@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-06-09T09:21:00+01:00"
+lastmod = "2016-06-09T13:05:00+01:00"
+publishDate = "2016-06-09T13:00:00+01:00"
 slug = "rosemarie-umetsu-singing-in-style"
 title = "Rosemarie Umetsu: singing in style"
 +++

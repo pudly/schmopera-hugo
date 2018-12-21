@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-04-10T22:41:00-04:00"
+lastmod = "2015-04-12T19:37:00-04:00"
+publishDate = "2015-03-12T10:41:00-04:00"
 slug = "leslie-dala-on-postcard-from-morocco-julie-and-his-conducting-bucket-list"
 title = "Leslie Dala, on Postcard from Morocco, Julie, and His Conducting Bucket List"
 +++

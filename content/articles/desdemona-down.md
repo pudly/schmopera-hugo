@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-06-23T11:30:00-04:00"
+lastmod = "2015-04-23T15:42:00-04:00"
+publishDate = "2014-06-23T11:30:00-04:00"
 slug = "desdemona-down"
 title = "Desdemona Down"
 +++

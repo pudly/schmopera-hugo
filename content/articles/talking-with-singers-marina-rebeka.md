@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-10-19T14:33:00+01:00"
+lastmod = "2016-10-22T09:36:00+01:00"
+publishDate = "2016-10-21T13:00:00+01:00"
 slug = "talking-with-singers-marina-rebeka"
 title = "Talking with singers: Marina Rebeka"
 +++

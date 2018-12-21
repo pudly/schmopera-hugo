@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-05-14T20:20:00-04:00"
+lastmod = "2018-05-14T20:20:00-04:00"
+publishDate = "2018-05-14T20:20:00-04:00"
 slug = "thas-dazzling-score-dazzling-set-dazzling-cast"
 title = "Thaïs: dazzling score, dazzling set, dazzling cast"
 +++

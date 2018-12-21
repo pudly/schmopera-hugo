@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-05-06T17:07:00-04:00"
+lastmod = "2015-06-03T16:57:00-04:00"
+publishDate = "2015-05-09T09:29:00-04:00"
 slug = "in-review-bluebeards-castle-erwartung"
 title = "In review: Bluebeard&#039;s Castle/ Erwartung"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-11-17T12:16:00-05:00"
+lastmod = "2015-04-13T22:53:00-04:00"
+publishDate = "2014-11-17T12:16:00-05:00"
 slug = "he-saidshe-said-aprile-millo-at-trinity-st-pauls"
 title = "He said/She said: Aprile Millo at Trinity St. Paul&#039;s"
 +++

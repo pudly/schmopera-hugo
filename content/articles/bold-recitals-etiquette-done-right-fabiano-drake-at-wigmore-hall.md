@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-05-17T10:53:00-04:00"
+lastmod = "2017-05-17T11:27:00-04:00"
+publishDate = "2017-05-17T11:06:00-04:00"
 slug = "bold-recitals-etiquette-done-right-fabiano-drake-at-wigmore-hall"
 title = "Bold recitals &amp; etiquette done right: Fabiano &amp; Drake at Wigmore Hall"
 +++

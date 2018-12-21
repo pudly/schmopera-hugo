@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-05-20T20:46:00-04:00"
+lastmod = "2015-05-23T23:00:00-04:00"
+publishDate = "2015-05-22T13:02:00-04:00"
 slug = "how-to-play-for-singers"
 title = "How to play for singers"
 +++

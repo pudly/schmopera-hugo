@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-03-28T17:43:00+01:00"
+lastmod = "2017-03-29T14:48:00+01:00"
+publishDate = "2017-03-29T14:40:00+01:00"
 slug = "review-the-personal-side-of-bachs-b-minor-mass"
 title = "Review: the personal side of Bach&#039;s B minor Mass"
 +++

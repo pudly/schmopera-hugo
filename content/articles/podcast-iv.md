@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-01-08T15:21:00-05:00"
+lastmod = "2015-04-11T23:41:00-04:00"
+publishDate = "2015-01-08T15:21:00-05:00"
 slug = "podcast-iv"
 title = "Podcast IV"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2014-09-05T13:41:00+01:00"
+lastmod = "2016-11-17T15:31:00+00:00"
+publishDate = "2014-09-05T13:41:00+01:00"
 slug = "the-opera-workout"
 title = "The Opera Workout"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-12-29T15:32:00-05:00"
+lastmod = "2015-12-30T16:02:00-05:00"
+publishDate = "2015-12-30T10:19:00-05:00"
 slug = "5-times-handel-got-weird"
 title = "5 times Handel got weird"
 +++

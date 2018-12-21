@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-04-12T19:22:00+01:00"
+lastmod = "2017-04-13T14:39:00+01:00"
+publishDate = "2017-04-13T14:39:00+01:00"
 slug = "dont-miss-the-2nd-annual-new-york-opera-fest"
 title = "Don&#039;t miss: the 2nd annual New York Opera Fest"
 +++

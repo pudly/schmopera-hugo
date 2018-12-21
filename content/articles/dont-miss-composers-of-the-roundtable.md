@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-05-26T21:43:00+01:00"
+lastmod = "2016-05-27T13:11:00+01:00"
+publishDate = "2016-05-27T13:01:00+01:00"
 slug = "dont-miss-composers-of-the-roundtable"
 title = "Don&#039;t miss: Composers (of the) Roundtable"
 +++

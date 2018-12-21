@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-09-15T09:18:00-04:00"
+lastmod = "2015-09-16T09:11:00-04:00"
+publishDate = "2015-09-16T08:35:00-04:00"
 slug = "the-5-best-worst-states-for-finding-an-opera-house"
 title = "The 5 best &amp; worst states for finding an opera house"
 +++

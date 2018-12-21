@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-08T20:44:00-04:00"
+lastmod = "2018-04-08T20:44:00-04:00"
+publishDate = "2018-04-08T20:44:00-04:00"
 slug = "classic-for-good-reason-the-marriage-of-figaro"
 title = "Classic for good reason: The Marriage of Figaro"
 +++

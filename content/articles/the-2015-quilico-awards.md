@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-04-11T20:09:00-04:00"
+lastmod = "2015-04-11T20:09:00-04:00"
+publishDate = "2015-02-10T09:09:00-05:00"
 slug = "the-2015-quilico-awards"
 title = "The 2015 Quilico Awards"
 +++

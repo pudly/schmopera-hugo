@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-05-22T06:00:00-04:00"
+lastmod = "2015-04-23T19:44:00-04:00"
+publishDate = "2014-05-22T06:00:00-04:00"
 slug = "when-critics-are-jerks"
 title = "When critics are jerks"
 +++

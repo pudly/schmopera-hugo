@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-06T10:21:00-05:00"
+lastmod = "2017-11-06T16:56:00-05:00"
+publishDate = "2017-11-06T16:56:00-05:00"
 slug = "akhmetshinas-devastating-carmen-at-wiltons-music-hall"
 title = "Akhmetshina&#039;s &quot;devastating&quot; Carmen at Wilton&#039;s Music Hall"
 +++

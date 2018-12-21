@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-06-13T22:19:00-06:00"
+lastmod = "2016-07-06T16:11:00-06:00"
+publishDate = "2016-06-15T21:22:00-06:00"
 slug = "how-was-it-and-other-dangerous-questions"
 title = "&quot;How was it?&quot; and other dangerous questions"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-09-20T12:39:00-04:00"
+lastmod = "2015-04-15T22:08:00-04:00"
+publishDate = "2014-09-20T12:39:00-04:00"
 slug = "in-review-offenbachhahn"
 title = "In review: Offenbach/Hahn"
 +++

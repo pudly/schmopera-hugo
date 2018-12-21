@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-06-22T09:11:00-06:00"
+lastmod = "2017-06-22T09:49:00-06:00"
+publishDate = "2017-06-22T09:23:00-06:00"
 slug = "in-review-hamlet-at-glyndebourne"
 title = "In review: Hamlet at Glyndebourne"
 +++

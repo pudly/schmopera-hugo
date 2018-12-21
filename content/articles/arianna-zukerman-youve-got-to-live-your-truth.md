@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-02-24T09:58:00-05:00"
+lastmod = "2016-02-24T10:29:00-05:00"
+publishDate = "2016-02-24T10:28:00-05:00"
 slug = "arianna-zukerman-youve-got-to-live-your-truth"
 title = "Arianna Zukerman: &quot;You&#039;ve got to live your truth.&quot;"
 +++

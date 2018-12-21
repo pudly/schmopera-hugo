@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-10-14T07:51:00-06:00"
+lastmod = "2017-06-20T22:50:00-06:00"
+publishDate = "2015-10-19T06:47:00-06:00"
 slug = "aria-guides-una-voce-poco-fa"
 title = "Aria guides: &quot;Una voce poco fa&quot;"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-05-30T13:29:00-04:00"
+lastmod = "2017-05-31T21:10:00-04:00"
+publishDate = "2017-05-31T20:54:00-04:00"
 slug = "dont-miss-in-the-alps-with-the-aurora-orchestra"
 title = "Don&#039;t miss: In the Alps with the Aurora Orchestra"
 +++

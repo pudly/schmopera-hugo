@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-04-14T19:06:00-04:00"
+lastmod = "2015-04-15T12:24:00-04:00"
+publishDate = "2015-04-15T08:34:00-04:00"
 slug = "valentina-lisitsa-freedom-of-speech-is-a-twoway-street"
 title = "Valentina Lisitsa: Freedom of speech is a two-way street"
 +++

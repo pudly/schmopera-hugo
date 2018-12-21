@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-05-22T09:41:00-04:00"
+lastmod = "2015-05-22T10:44:00-04:00"
+publishDate = "2015-05-22T10:36:00-04:00"
 slug = "the-bicycle-opera-project-at-21c"
 title = "The Bicycle Opera Project at 21C"
 +++

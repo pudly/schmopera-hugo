@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-11-15T13:28:00+00:00"
+lastmod = "2016-11-16T10:05:00+00:00"
+publishDate = "2016-11-16T10:05:00+00:00"
 slug = "what-crippling-stage-fright-taught-me-about-money"
 title = "What crippling stage fright taught me about money"
 +++

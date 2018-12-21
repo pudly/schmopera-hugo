@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-10-25T23:35:00-04:00"
+lastmod = "2018-11-02T12:56:00-04:00"
+publishDate = "2018-10-26T10:04:00-04:00"
 slug = "feminism-confetti-ateliers-triplebill"
 title = "Feminism &amp; confetti: Atelier&#039;s triple-bill"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2017-03-27T11:55:00-04:00"
+lastmod = "2018-06-23T16:33:00-04:00"
+publishDate = "2017-03-28T11:23:00-04:00"
 slug = "4-arias-their-common-misconceptions"
 title = "4 arias &amp; their common misconceptions"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-04-04T13:37:00+01:00"
+lastmod = "2017-04-04T14:27:00+01:00"
+publishDate = "2017-04-04T14:26:00+01:00"
 slug = "in-review-ivan-magr-at-wigmore-hall"
 title = "In review: Ivan Magrì at Wigmore Hall"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2017-01-06T10:02:00-05:00"
+lastmod = "2017-10-25T20:51:00-04:00"
+publishDate = "2017-01-13T04:53:00-05:00"
 slug = "the-ride-of-the-dragkyries-how-to-name-an-opera-drag-queen"
 title = "The Ride of the Dragkyries: how to name an opera drag queen"
 +++

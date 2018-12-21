@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-05-01T12:15:00-04:00"
+lastmod = "2017-05-01T14:19:00-04:00"
+publishDate = "2017-05-01T14:11:00-04:00"
 slug = "in-review-the-italian-girl-in-algiers-at-myopera"
 title = "In review: The Italian Girl in Algiers at MYOpera"
 +++

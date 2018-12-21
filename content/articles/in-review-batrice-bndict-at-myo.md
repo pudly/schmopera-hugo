@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-04-26T11:08:00-04:00"
+lastmod = "2015-04-26T12:50:00-04:00"
+publishDate = "2015-04-26T12:45:00-04:00"
 slug = "in-review-batrice-bndict-at-myo"
 title = "In review: Béatrice &amp; Bénédict at MYO"
 +++

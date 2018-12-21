@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-11-24T12:26:00+00:00"
+lastmod = "2016-11-26T15:09:00+00:00"
+publishDate = "2016-11-26T15:07:00+00:00"
 slug = "rarities-opera-singers-on-designer-shopping-sprees"
 title = "Rarities: opera singers on designer shopping sprees"
 +++

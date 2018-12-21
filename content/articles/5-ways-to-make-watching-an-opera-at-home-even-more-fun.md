@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-06-08T10:22:00+01:00"
+lastmod = "2016-06-09T13:01:00+01:00"
+publishDate = "2016-06-08T22:38:00+01:00"
 slug = "5-ways-to-make-watching-an-opera-at-home-even-more-fun"
 title = "5 ways to make watching an opera at home even more fun"
 +++

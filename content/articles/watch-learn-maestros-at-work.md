@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-01-15T15:06:00-05:00"
+lastmod = "2016-01-19T14:21:00-05:00"
+publishDate = "2016-01-19T13:00:00-05:00"
 slug = "watch-learn-maestros-at-work"
 title = "Watch &amp; learn: maestros at work"
 +++

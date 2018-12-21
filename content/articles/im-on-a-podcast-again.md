@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-05-03T11:11:00-04:00"
+lastmod = "2015-04-23T20:55:00-04:00"
+publishDate = "2014-05-03T11:11:00-04:00"
 slug = "im-on-a-podcast-again"
 title = "I&#039;m on a podcast! Again!"
 +++

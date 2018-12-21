@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2014-09-29T09:00:00-04:00"
+lastmod = "2015-04-14T15:04:00-04:00"
+publishDate = "2014-09-29T09:00:00-04:00"
 slug = "birdcalls-and-spoilers"
 title = "Birdcalls and Spoilers"
 +++

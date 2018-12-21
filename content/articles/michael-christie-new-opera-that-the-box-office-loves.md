@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-07-03T11:57:00-06:00"
+lastmod = "2016-07-14T11:52:00-06:00"
+publishDate = "2016-07-13T21:08:00-06:00"
 slug = "michael-christie-new-opera-that-the-box-office-loves"
 title = "Michael Christie: new opera that the box office loves"
 +++

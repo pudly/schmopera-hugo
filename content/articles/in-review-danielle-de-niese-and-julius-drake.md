@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-10-30T11:08:00+00:00"
+lastmod = "2016-10-30T12:04:00+00:00"
+publishDate = "2016-10-30T12:02:00+00:00"
 slug = "in-review-danielle-de-niese-and-julius-drake"
 title = "In review: Danielle de Niese and Julius Drake"
 +++

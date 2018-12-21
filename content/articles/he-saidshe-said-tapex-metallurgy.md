@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-11-20T09:34:00-05:00"
+lastmod = "2015-11-20T12:47:00-05:00"
+publishDate = "2015-11-20T12:46:00-05:00"
 slug = "he-saidshe-said-tapex-metallurgy"
 title = "He said/she said: Tap:Ex Metallurgy"
 +++

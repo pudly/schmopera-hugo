@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-30T22:06:00-05:00"
+lastmod = "2017-12-02T17:33:00-05:00"
+publishDate = "2017-12-02T17:33:00-05:00"
 slug = "opera-for-all-the-magic-victrola"
 title = "Opera for all: The Magic Victrola"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2018-04-15T21:52:00-04:00"
+lastmod = "2018-04-18T10:28:00-04:00"
+publishDate = "2018-04-16T11:11:00-04:00"
 slug = "theatre-company-responsible-for-canadian-singers-death-goes-bankrupt"
 title = "Theatre company responsible for Canadian singer&#039;s death goes bankrupt"
 +++

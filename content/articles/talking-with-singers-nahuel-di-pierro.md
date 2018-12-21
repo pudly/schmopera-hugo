@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-05-23T14:42:00-04:00"
+lastmod = "2017-06-02T09:58:00-04:00"
+publishDate = "2017-05-24T11:05:00-04:00"
 slug = "talking-with-singers-nahuel-di-pierro"
 title = "Talking with singers: Nahuel Di Pierro"
 +++

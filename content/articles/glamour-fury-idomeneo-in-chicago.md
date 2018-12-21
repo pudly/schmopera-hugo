@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-10-20T14:42:00-04:00"
+lastmod = "2018-10-23T14:24:00-04:00"
+publishDate = "2018-10-20T15:23:00-04:00"
 slug = "glamour-fury-idomeneo-in-chicago"
 title = "Glamour &amp; fury: Idomeneo in Chicago"
 +++

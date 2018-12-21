@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-06-25T11:42:00-04:00"
+lastmod = "2017-07-10T23:06:00-04:00"
+publishDate = "2017-07-10T11:53:00-04:00"
 slug = "faces-in-the-crowd-operas-supernumeraries"
 title = "Faces in the crowd: opera&#039;s supernumeraries"
 +++

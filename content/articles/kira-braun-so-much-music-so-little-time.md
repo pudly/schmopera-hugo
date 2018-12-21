@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-04-12T16:49:00-04:00"
+lastmod = "2017-04-21T18:04:00-04:00"
+publishDate = "2017-04-21T07:57:00-04:00"
 slug = "kira-braun-so-much-music-so-little-time"
 title = "Kira Braun: &quot;So much music, so little time...&quot;"
 +++

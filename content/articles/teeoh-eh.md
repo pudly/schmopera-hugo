@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-03-13T15:26:00+00:00"
+lastmod = "2017-03-18T07:59:00+00:00"
+publishDate = "2017-03-18T07:59:00+00:00"
 slug = "teeoh-eh"
 title = "Tee-oh, eh?"
 +++

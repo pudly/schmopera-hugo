@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-04-01T17:10:00+01:00"
+lastmod = "2016-04-02T11:57:00+01:00"
+publishDate = "2016-04-02T11:43:00+01:00"
 slug = "opera-101-with-kristine-dandavino"
 title = "Opera 101 with Kristine Dandavino"
 +++

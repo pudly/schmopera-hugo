@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-11-27T11:33:00+00:00"
+lastmod = "2016-11-27T13:35:00+00:00"
+publishDate = "2016-11-27T13:31:00+00:00"
 slug = "in-review-manon-lescaut-at-roh"
 title = "In review: Manon Lescaut at ROH"
 +++

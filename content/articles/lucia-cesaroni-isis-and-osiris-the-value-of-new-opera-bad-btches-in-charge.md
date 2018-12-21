@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-03-22T09:25:00+00:00"
+lastmod = "2016-03-22T15:21:00+00:00"
+publishDate = "2016-03-22T13:47:00+00:00"
 slug = "lucia-cesaroni-isis-and-osiris-the-value-of-new-opera-bad-btches-in-charge"
 title = "Lucia Cesaroni: Isis and Osiris, the value of new opera, &amp; &quot;bad b*tches in charge&quot;"
 +++

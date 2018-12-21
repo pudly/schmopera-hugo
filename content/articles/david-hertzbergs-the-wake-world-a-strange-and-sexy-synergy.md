@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-08-08T20:17:00-04:00"
+lastmod = "2017-08-10T09:15:00-04:00"
+publishDate = "2017-08-10T09:15:00-04:00"
 slug = "david-hertzbergs-the-wake-world-a-strange-and-sexy-synergy"
 title = "David Hertzberg&#039;s The Wake World: &quot;A strange and sexy synergy.&quot;"
 +++

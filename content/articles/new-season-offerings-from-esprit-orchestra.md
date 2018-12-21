@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2018-10-22T20:54:00-04:00"
+lastmod = "2018-10-23T20:59:00-04:00"
+publishDate = "2018-10-23T20:50:00-04:00"
 slug = "new-season-offerings-from-esprit-orchestra"
 title = "New season offerings from Esprit Orchestra"
 +++

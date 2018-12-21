@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-09-13T20:51:00-04:00"
+lastmod = "2015-09-14T08:22:00-04:00"
+publishDate = "2015-09-14T08:17:00-04:00"
 slug = "browse-suzanne-vinniks-opera-diva-dress-collection"
 title = "Browse Suzanne Vinnik&#039;s Opera Diva Dress Collection"
 +++

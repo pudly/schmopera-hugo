@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-09-11T12:48:00-04:00"
+lastmod = "2017-09-18T13:57:00-04:00"
+publishDate = "2017-09-18T13:51:00-04:00"
 slug = "adi-braun-the-moderne-frau"
 title = "Adi Braun, the Moderne Frau"
 +++

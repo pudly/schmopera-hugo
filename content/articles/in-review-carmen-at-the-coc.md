@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-05-05T17:16:00+01:00"
+lastmod = "2016-05-05T18:08:00+01:00"
+publishDate = "2016-05-05T18:08:00+01:00"
 slug = "in-review-carmen-at-the-coc"
 title = "In review: Carmen at the COC"
 +++

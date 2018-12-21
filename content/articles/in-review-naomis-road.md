@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-11-17T17:56:00+00:00"
+lastmod = "2016-12-07T22:49:00+00:00"
+publishDate = "2016-11-18T10:58:00+00:00"
 slug = "in-review-naomis-road"
 title = "In review: Naomi&#039;s Road"
 +++

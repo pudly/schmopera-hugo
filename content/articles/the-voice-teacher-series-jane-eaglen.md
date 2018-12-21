@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-10-16T13:46:00-04:00"
+lastmod = "2017-10-30T20:01:00-04:00"
+publishDate = "2017-10-30T20:01:00-04:00"
 slug = "the-voice-teacher-series-jane-eaglen"
 title = "The voice teacher series: Jane Eaglen"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2018-09-29T11:43:00-04:00"
+lastmod = "2018-10-02T19:29:00-04:00"
+publishDate = "2018-10-02T19:29:00-04:00"
 slug = "leaning-into-the-discomfort"
 title = "Leaning into the discomfort"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-10-17T12:50:00-04:00"
+lastmod = "2017-10-18T20:16:00-04:00"
+publishDate = "2017-10-18T20:16:00-04:00"
 slug = "breathe-the-latest-recordings-from-james-rolfe"
 title = "Breathe: the latest recordings from James Rolfe"
 +++

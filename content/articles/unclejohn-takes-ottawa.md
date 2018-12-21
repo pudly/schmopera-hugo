@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-07-28T10:17:00-04:00"
+lastmod = "2015-07-31T08:16:00-04:00"
+publishDate = "2015-07-31T08:05:00-04:00"
 slug = "unclejohn-takes-ottawa"
 title = "#UncleJohn takes Ottawa"
 +++

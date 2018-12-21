@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-11-13T12:10:00-05:00"
+lastmod = "2015-11-13T13:41:00-05:00"
+publishDate = "2015-11-13T13:04:00-05:00"
 slug = "in-review-mahler-other-beauties-at-the-tso"
 title = "In review: Mahler &amp; other beauties at the TSO"
 +++

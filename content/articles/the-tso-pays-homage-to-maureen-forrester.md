@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-20T11:05:00-04:00"
+lastmod = "2017-10-20T11:25:00-04:00"
+publishDate = "2017-10-20T11:19:00-04:00"
 slug = "the-tso-pays-homage-to-maureen-forrester"
 title = "The TSO pays homage to Maureen Forrester"
 +++

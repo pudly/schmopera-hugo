@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-07-06T00:50:00-06:00"
+lastmod = "2015-07-10T00:16:00-06:00"
+publishDate = "2015-07-10T08:16:00-06:00"
 slug = "despina-in-banff"
 title = "Despina in Banff"
 +++

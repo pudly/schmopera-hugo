@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-03-13T16:52:00-04:00"
+lastmod = "2018-03-13T16:52:00-04:00"
+publishDate = "2018-03-13T16:52:00-04:00"
 slug = "transfixing-soundstreams-presents-tan-duns-water-passion"
 title = "Transfixing: Soundstreams presents Tan Dun&#039;s Water Passion"
 +++

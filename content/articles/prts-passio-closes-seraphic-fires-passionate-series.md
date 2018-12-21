@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-16T13:06:00-04:00"
+lastmod = "2018-04-17T16:32:00-04:00"
+publishDate = "2018-04-16T22:25:00-04:00"
 slug = "prts-passio-closes-seraphic-fires-passionate-series"
 title = "Pärt&#039;s Passio closes Seraphic Fire&#039;s passionate series"
 +++

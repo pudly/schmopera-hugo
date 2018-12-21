@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-04-10T23:25:00-04:00"
+lastmod = "2015-04-10T23:25:00-04:00"
+publishDate = "2015-03-02T09:25:00-05:00"
 slug = "fostering-maestras-the-institute-for-women-conductors-at-the-dallas-opera"
 title = "Fostering Maestras: The Institute for Women Conductors at The Dallas Opera"
 +++

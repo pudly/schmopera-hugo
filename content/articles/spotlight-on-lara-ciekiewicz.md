@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-03-05T10:47:00+00:00"
+lastmod = "2016-03-05T20:21:00+00:00"
+publishDate = "2016-03-05T11:20:00+00:00"
 slug = "spotlight-on-lara-ciekiewicz"
 title = "Spotlight on: Lara Ciekiewicz"
 +++

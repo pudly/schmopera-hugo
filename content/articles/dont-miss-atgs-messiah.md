@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-11-24T14:42:00-05:00"
+lastmod = "2015-11-24T15:38:00-05:00"
+publishDate = "2015-11-24T15:24:00-05:00"
 slug = "dont-miss-atgs-messiah"
 title = "Don&#039;t miss: AtG&#039;s Messiah"
 +++

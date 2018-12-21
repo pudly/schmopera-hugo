@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-09-24T14:59:00+01:00"
+lastmod = "2016-09-27T13:09:00+01:00"
+publishDate = "2016-09-27T12:53:00+01:00"
 slug = "talking-with-singers-sidney-outlaw"
 title = "Talking with singers: Sidney Outlaw"
 +++

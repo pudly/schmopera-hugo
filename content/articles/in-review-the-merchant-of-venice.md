@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-07-21T08:50:00-04:00"
+lastmod = "2017-07-27T10:06:00-04:00"
+publishDate = "2017-07-26T23:04:00-04:00"
 slug = "in-review-the-merchant-of-venice"
 title = "In review: The Merchant of Venice"
 +++

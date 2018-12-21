@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2016-11-28T22:01:00+00:00"
+lastmod = "2016-11-29T21:37:00+00:00"
+publishDate = "2016-11-29T15:29:00+00:00"
 slug = "aria-guides-ach-ich-fhls"
 title = "Aria guides: &quot;Ach, ich fühl&#039;s&quot;"
 +++

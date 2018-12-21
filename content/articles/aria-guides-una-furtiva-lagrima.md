@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-10-20T15:55:00-06:00"
+lastmod = "2017-06-20T22:37:00-06:00"
+publishDate = "2015-10-22T06:00:00-06:00"
 slug = "aria-guides-una-furtiva-lagrima"
 title = "Aria guides: &quot;Una furtiva lagrima&quot;"
 +++

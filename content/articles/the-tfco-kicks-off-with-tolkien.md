@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-05-25T21:04:00+01:00"
+lastmod = "2016-05-26T13:03:00+01:00"
+publishDate = "2016-05-26T12:56:00+01:00"
 slug = "the-tfco-kicks-off-with-tolkien"
 title = "The TFCO kicks off with Tolkien"
 +++

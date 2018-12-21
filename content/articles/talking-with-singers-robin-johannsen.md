@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-02-15T14:55:00+00:00"
+lastmod = "2017-02-23T11:27:00+00:00"
+publishDate = "2017-02-23T10:21:00+00:00"
 slug = "talking-with-singers-robin-johannsen"
 title = "Talking with singers: Robin Johannsen"
 +++

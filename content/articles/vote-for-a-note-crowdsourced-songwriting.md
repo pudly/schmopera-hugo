@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-09-01T14:54:00-04:00"
+lastmod = "2015-09-03T08:30:00-04:00"
+publishDate = "2015-09-03T07:30:00-04:00"
 slug = "vote-for-a-note-crowdsourced-songwriting"
 title = "Vote for a note: crowdsourced songwriting?"
 +++

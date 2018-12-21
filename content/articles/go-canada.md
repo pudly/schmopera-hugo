@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-03-28T08:12:00-04:00"
+lastmod = "2015-04-24T09:39:00-04:00"
+publishDate = "2014-03-28T08:12:00-04:00"
 slug = "go-canada"
 title = "Go, Canada!"
 +++

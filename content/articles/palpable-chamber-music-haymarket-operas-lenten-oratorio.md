@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-03-09T21:22:00-05:00"
+lastmod = "2018-03-09T22:49:00-05:00"
+publishDate = "2018-03-09T21:29:00-05:00"
 slug = "palpable-chamber-music-haymarket-operas-lenten-oratorio"
 title = "Palpable chamber music: Haymarket Opera&#039;s Lenten Oratorio"
 +++

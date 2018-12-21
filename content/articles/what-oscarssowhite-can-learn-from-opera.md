@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-03-02T10:22:00+00:00"
+lastmod = "2016-03-02T12:01:00+00:00"
+publishDate = "2016-03-02T11:57:00+00:00"
 slug = "what-oscarssowhite-can-learn-from-opera"
 title = "What #OscarsSoWhite can learn from opera"
 +++

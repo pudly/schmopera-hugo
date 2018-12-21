@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-10-14T15:54:00+01:00"
+lastmod = "2016-10-15T15:12:00+01:00"
+publishDate = "2016-10-15T12:02:00+01:00"
 slug = "a-dove-as-you-know-is-respected"
 title = "&quot;A dove, as you know, is respected.&quot;"
 +++

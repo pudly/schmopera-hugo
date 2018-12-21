@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-02-02T09:26:00-05:00"
+lastmod = "2018-02-02T11:12:00-05:00"
+publishDate = "2018-02-02T09:26:00-05:00"
 slug = "a-test-of-endurance-satyagraha-at-eno"
 title = "A test of endurance: Satyagraha at ENO"
 +++

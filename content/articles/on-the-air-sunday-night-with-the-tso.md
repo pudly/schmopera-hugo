@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-10-25T21:55:00-04:00"
+lastmod = "2015-11-07T09:22:00-05:00"
+publishDate = "2015-11-07T09:22:00-05:00"
 slug = "on-the-air-sunday-night-with-the-tso"
 title = "On the air: Sunday Night with the TSO"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-04-10T11:53:00+01:00"
+lastmod = "2016-04-11T10:03:00+01:00"
+publishDate = "2016-04-11T09:45:00+01:00"
 slug = "heavy-nights-schoenberg-brahms-the-lpo-and-goerne"
 title = "Heavy nights: Schoenberg &amp; Brahms, the LPO and Goerne"
 +++

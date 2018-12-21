@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-03-12T11:03:00+00:00"
+lastmod = "2017-03-13T09:05:00+00:00"
+publishDate = "2017-03-13T09:05:00+00:00"
 slug = "talking-with-singers-anna-caterina-antonacci"
 title = "Talking with singers: Anna Caterina Antonacci"
 +++

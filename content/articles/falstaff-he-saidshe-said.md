@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-10-12T09:00:00-04:00"
+lastmod = "2015-05-30T20:23:00-04:00"
+publishDate = "2014-10-12T09:00:00-04:00"
 slug = "falstaff-he-saidshe-said"
 title = "Falstaff: He said/She said"
 +++

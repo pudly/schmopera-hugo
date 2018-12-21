@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-04-29T23:19:00-04:00"
+lastmod = "2015-05-09T12:56:00-04:00"
+publishDate = "2015-04-30T13:55:00-04:00"
 slug = "in-review-earnest-the-importance-of-being"
 title = "In review: Earnest, the Importance of Being"
 +++

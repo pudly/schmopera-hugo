@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-04-11T18:56:00-04:00"
+lastmod = "2015-04-11T18:56:00-04:00"
+publishDate = "2015-02-18T09:56:00-05:00"
 slug = "music-school-auditions-4-tips-for-parents"
 title = "Music School Auditions: 4 Tips for Parents"
 +++

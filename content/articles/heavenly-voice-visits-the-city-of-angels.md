@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-02-08T11:55:00-05:00"
+lastmod = "2018-02-08T13:11:00-05:00"
+publishDate = "2018-02-08T11:55:00-05:00"
 slug = "heavenly-voice-visits-the-city-of-angels"
 title = "Heavenly voice visits the City of Angels"
 +++

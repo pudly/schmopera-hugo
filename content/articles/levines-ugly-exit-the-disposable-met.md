@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2018-03-13T09:49:00-04:00"
+lastmod = "2018-03-13T09:58:00-04:00"
+publishDate = "2018-03-13T09:58:00-04:00"
 slug = "levines-ugly-exit-the-disposable-met"
 title = "Levine&#039;s ugly exit, &amp; the disposable Met"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-05-09T19:04:00-04:00"
+lastmod = "2017-05-10T16:24:00-04:00"
+publishDate = "2017-05-10T15:36:00-04:00"
 slug = "talking-with-singers-angela-meade"
 title = "Talking with singers: Angela Meade"
 +++

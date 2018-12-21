@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-04-09T11:16:00+01:00"
+lastmod = "2017-04-09T11:47:00+01:00"
+publishDate = "2017-04-09T11:40:00+01:00"
 slug = "in-review-carmen-at-nashville-opera"
 title = "In review: Carmen at Nashville Opera"
 +++

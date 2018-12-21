@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-02-20T16:26:00-05:00"
+lastmod = "2018-02-21T16:06:00-05:00"
+publishDate = "2018-02-20T16:26:00-05:00"
 slug = "lovely-and-sincere-povs-la-bohme"
 title = "Lovely and sincere: POV&#039;s La Bohème"
 +++

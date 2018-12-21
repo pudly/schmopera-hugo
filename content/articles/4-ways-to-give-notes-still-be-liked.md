@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2016-06-02T03:43:00-06:00"
+lastmod = "2016-07-06T16:12:00-06:00"
+publishDate = "2016-06-03T14:19:00-06:00"
 slug = "4-ways-to-give-notes-still-be-liked"
 title = "4 ways to give notes &amp; still be liked"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-03-22T11:10:00-04:00"
+lastmod = "2015-04-24T09:56:00-04:00"
+publishDate = "2014-03-22T11:10:00-04:00"
 slug = "in-review-albert-herring-at-uoft-opera"
 title = "In review: Albert Herring at UofT Opera"
 +++

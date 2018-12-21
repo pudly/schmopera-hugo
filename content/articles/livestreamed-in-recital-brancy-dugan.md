@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2018-11-02T12:50:00-04:00"
+lastmod = "2018-11-02T18:38:00-04:00"
+publishDate = "2018-11-02T12:50:00-04:00"
 slug = "livestreamed-in-recital-brancy-dugan"
 title = "Live-streamed in recital: Brancy &amp; Dugan"
 +++

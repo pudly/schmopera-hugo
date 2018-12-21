@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-29T11:35:00-04:00"
+lastmod = "2017-10-29T20:51:00-04:00"
+publishDate = "2017-10-29T12:28:00-04:00"
 slug = "opera-is-artifice-giulio-cesares-conquest-of-houston"
 title = "Opera is artifice: Giulio Cesare&#039;s conquest of Houston"
 +++

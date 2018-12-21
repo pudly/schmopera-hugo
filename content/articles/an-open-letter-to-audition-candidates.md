@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-07-16T10:27:00-04:00"
+lastmod = "2017-07-17T08:13:00-04:00"
+publishDate = "2017-07-17T08:13:00-04:00"
 slug = "an-open-letter-to-audition-candidates"
 title = "An open letter to audition candidates"
 +++

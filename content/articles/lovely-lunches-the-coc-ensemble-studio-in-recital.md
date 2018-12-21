@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-04-25T16:32:00-04:00"
+lastmod = "2017-04-26T09:33:00-04:00"
+publishDate = "2017-04-26T09:33:00-04:00"
 slug = "lovely-lunches-the-coc-ensemble-studio-in-recital"
 title = "Lovely lunches: the COC Ensemble Studio in recital"
 +++

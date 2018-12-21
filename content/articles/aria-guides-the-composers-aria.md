@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2017-08-13T20:30:00-04:00"
+lastmod = "2017-08-14T21:36:00-04:00"
+publishDate = "2017-08-14T21:36:00-04:00"
 slug = "aria-guides-the-composers-aria"
 title = "Aria guides: the Composer&#039;s Aria"
 +++

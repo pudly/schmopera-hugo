@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-10-03T11:22:00+01:00"
+lastmod = "2016-10-04T10:12:00+01:00"
+publishDate = "2016-10-04T10:12:00+01:00"
 slug = "the-kids-are-alright-youthprogrammed-music-at-the-southbank-centre"
 title = "The kids are alright: youth-programmed music at the Southbank Centre"
 +++

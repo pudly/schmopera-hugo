@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-04T10:10:00-04:00"
+lastmod = "2017-10-04T15:35:00-04:00"
+publishDate = "2017-10-04T14:01:00-04:00"
 slug = "folk-songs-for-lunch-esprit-orchestra-krisztina-szab-in-the-rba"
 title = "Folk songs for lunch: Esprit Orchestra &amp; Krisztina Szabó in the RBA"
 +++

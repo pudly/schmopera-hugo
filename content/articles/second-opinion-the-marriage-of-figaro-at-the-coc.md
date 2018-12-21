@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-02-14T15:33:00-05:00"
+lastmod = "2016-02-14T18:29:00-05:00"
+publishDate = "2016-02-15T08:17:00-05:00"
 slug = "second-opinion-the-marriage-of-figaro-at-the-coc"
 title = "Second opinion: The Marriage of Figaro at the COC"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-01-12T11:09:00-05:00"
+lastmod = "2016-01-13T12:43:00-05:00"
+publishDate = "2016-01-13T11:00:00-05:00"
 slug = "spotlight-on-aidan-ferguson"
 title = "Spotlight on: Aidan Ferguson"
 +++

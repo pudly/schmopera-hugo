@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-07-12T10:55:00-04:00"
+lastmod = "2018-01-03T10:06:00-05:00"
+publishDate = "2014-07-12T10:55:00-04:00"
 slug = "who-cares-what-bring-on-the-why"
 title = "Who cares what? Bring on the why"
 +++

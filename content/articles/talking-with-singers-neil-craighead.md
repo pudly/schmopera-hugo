@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-03-16T22:13:00-04:00"
+lastmod = "2018-03-18T21:38:00-04:00"
+publishDate = "2018-03-18T21:38:00-04:00"
 slug = "talking-with-singers-neil-craighead"
 title = "Talking with singers: Neil Craighead"
 +++

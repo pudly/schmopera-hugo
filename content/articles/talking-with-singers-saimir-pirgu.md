@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-03-22T14:07:00+00:00"
+lastmod = "2017-03-24T12:43:00+00:00"
+publishDate = "2017-03-24T12:43:00+00:00"
 slug = "talking-with-singers-saimir-pirgu"
 title = "Talking with singers: Saimir Pirgu"
 +++

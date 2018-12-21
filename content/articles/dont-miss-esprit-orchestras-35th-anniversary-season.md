@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-08-21T13:43:00-04:00"
+lastmod = "2017-08-25T10:08:00-04:00"
+publishDate = "2017-08-25T10:08:00-04:00"
 slug = "dont-miss-esprit-orchestras-35th-anniversary-season"
 title = "Don&#039;t miss: Esprit Orchestra&#039;s 35th anniversary season"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-11-18T10:12:00+00:00"
+lastmod = "2016-11-19T12:57:00+00:00"
+publishDate = "2016-11-19T12:52:00+00:00"
 slug = "art-song-initiative-commissions-texts-by-children-with-autism"
 title = "Art song initiative commissions texts by children with autism"
 +++

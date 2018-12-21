@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-05-06T23:02:00-04:00"
+lastmod = "2017-05-07T13:42:00-04:00"
+publishDate = "2017-05-07T11:09:00-04:00"
 slug = "success-hype-the-first-season-of-opera-pubs-in-toronto"
 title = "Success &amp; hype: the first season of Opera Pubs in Toronto"
 +++

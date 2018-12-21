@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2017-04-26T09:35:00-04:00"
+lastmod = "2017-04-26T10:28:00-04:00"
+publishDate = "2017-04-26T10:28:00-04:00"
 slug = "vittorio-griglo-impromptu-voice-teacher"
 title = "Vittorio Grigòlo, impromptu voice teacher"
 +++

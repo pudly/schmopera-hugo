@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-03-13T13:16:00+00:00"
+lastmod = "2017-03-13T13:32:00+00:00"
+publishDate = "2017-03-13T13:32:00+00:00"
 slug = "she-said-they-said-crossed-wires-in-buenos-aires"
 title = "She said, they said: crossed wires in Buenos Aires"
 +++

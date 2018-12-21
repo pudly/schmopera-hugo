@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-10-03T10:14:00+01:00"
+lastmod = "2016-10-03T11:52:00+01:00"
+publishDate = "2016-10-03T11:12:00+01:00"
 slug = "fans-unite-opera-box-score"
 title = "Fans unite: Opera Box Score"
 +++

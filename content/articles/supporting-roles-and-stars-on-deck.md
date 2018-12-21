@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-11-28T15:13:00-05:00"
+lastmod = "2015-12-02T08:14:00-05:00"
+publishDate = "2015-12-02T08:14:00-05:00"
 slug = "supporting-roles-and-stars-on-deck"
 title = "Supporting roles, and stars on deck"
 +++

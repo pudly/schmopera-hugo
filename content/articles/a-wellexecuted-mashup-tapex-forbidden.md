@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-02-13T10:14:00-05:00"
+lastmod = "2018-02-13T13:16:00-05:00"
+publishDate = "2018-02-13T13:16:00-05:00"
 slug = "a-wellexecuted-mashup-tapex-forbidden"
 title = "A well-executed mashup: Tap:Ex Forbidden"
 +++

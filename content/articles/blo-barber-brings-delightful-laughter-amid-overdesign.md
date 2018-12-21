@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-10-13T10:10:00-04:00"
+lastmod = "2018-10-13T16:07:00-04:00"
+publishDate = "2018-10-13T10:10:00-04:00"
 slug = "blo-barber-brings-delightful-laughter-amid-overdesign"
 title = "BLO Barber brings delightful laughter amid overdesign"
 +++

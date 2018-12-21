@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2016-11-28T18:54:00+00:00"
+lastmod = "2016-12-01T11:19:00+00:00"
+publishDate = "2016-12-01T11:19:00+00:00"
 slug = "aria-guides-schweig-damit-dich-niemand-warnt"
 title = "Aria guides: &quot;Schweig! damit dich Niemand warnt&quot;"
 +++

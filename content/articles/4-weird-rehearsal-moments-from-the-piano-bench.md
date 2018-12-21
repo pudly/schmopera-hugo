@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-04-10T20:54:00-04:00"
+lastmod = "2016-07-26T13:12:00-04:00"
+publishDate = "2015-04-01T08:53:00-04:00"
 slug = "4-weird-rehearsal-moments-from-the-piano-bench"
 title = "4 weird rehearsal moments from the piano bench"
 +++

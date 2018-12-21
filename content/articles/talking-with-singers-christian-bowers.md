@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-10-10T12:44:00+01:00"
+lastmod = "2016-10-12T13:07:00+01:00"
+publishDate = "2016-10-12T13:07:00+01:00"
 slug = "talking-with-singers-christian-bowers"
 title = "Talking with singers: Christian Bowers"
 +++

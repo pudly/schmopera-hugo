@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-03-24T20:31:00-04:00"
+lastmod = "2018-03-24T20:59:00-04:00"
+publishDate = "2018-03-24T20:31:00-04:00"
 slug = "blos-threepenny-opera-a-misanthropic-delight"
 title = "BLO&#039;s Threepenny Opera: a misanthropic delight"
 +++

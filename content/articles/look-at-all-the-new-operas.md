@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-10-03T13:29:00-04:00"
+lastmod = "2015-10-04T18:01:00-04:00"
+publishDate = "2015-10-03T13:36:00-04:00"
 slug = "look-at-all-the-new-operas"
 title = "Look at all the new operas!"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-11-10T12:27:00-05:00"
+lastmod = "2018-11-10T13:27:00-05:00"
+publishDate = "2018-11-10T12:27:00-05:00"
 slug = "wacky-silly-mdecin-malgr-lui-an-overthetop-delight"
 title = "Wacky &amp; silly Médecin malgré lui an over-the-top delight"
 +++

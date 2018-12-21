@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-05-26T05:28:00-06:00"
+lastmod = "2017-06-23T23:27:00-06:00"
+publishDate = "2014-05-26T05:28:00-06:00"
 slug = "in-defence-of-pianists"
 title = "In defence of pianists"
 +++

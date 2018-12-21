@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2018-05-28T21:53:00-04:00"
+lastmod = "2018-05-29T20:16:00-04:00"
+publishDate = "2018-05-29T09:28:00-04:00"
 slug = "the-2018-cmim-begins"
 title = "The 2018 CMIM begins!"
 +++

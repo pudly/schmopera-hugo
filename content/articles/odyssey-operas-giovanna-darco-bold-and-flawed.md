@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-08T21:01:00-04:00"
+lastmod = "2018-04-08T21:01:00-04:00"
+publishDate = "2018-04-08T21:01:00-04:00"
 slug = "odyssey-operas-giovanna-darco-bold-and-flawed"
 title = "Odyssey Opera&#039;s Giovanna D&#039;Arco Bold and Flawed"
 +++

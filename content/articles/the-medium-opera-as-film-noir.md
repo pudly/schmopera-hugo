@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-06-30T12:31:00-04:00"
+lastmod = "2018-07-02T20:23:00-04:00"
+publishDate = "2018-06-30T12:31:00-04:00"
 slug = "the-medium-opera-as-film-noir"
 title = "The Medium: opera as film noir"
 +++

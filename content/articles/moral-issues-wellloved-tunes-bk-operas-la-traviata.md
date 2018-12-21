@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-08-02T13:26:00-04:00"
+lastmod = "2017-08-08T20:25:00-04:00"
+publishDate = "2017-08-08T19:54:00-04:00"
 slug = "moral-issues-wellloved-tunes-bk-operas-la-traviata"
 title = "Moral issues &amp; well-loved tunes: BK Opera&#039;s La traviata"
 +++

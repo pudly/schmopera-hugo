@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-03-05T10:09:00+01:00"
+lastmod = "2017-03-06T09:39:00+01:00"
+publishDate = "2017-03-06T09:28:00+01:00"
 slug = "in-review-lpo-presents-st-luke-passion"
 title = "In review: LPO presents St. Luke Passion"
 +++

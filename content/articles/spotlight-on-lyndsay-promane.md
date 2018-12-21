@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-06-05T20:59:00-06:00"
+lastmod = "2017-06-21T22:43:00-06:00"
+publishDate = "2017-06-21T21:54:00-06:00"
 slug = "spotlight-on-lyndsay-promane"
 title = "Spotlight on: Lyndsay Promane"
 +++

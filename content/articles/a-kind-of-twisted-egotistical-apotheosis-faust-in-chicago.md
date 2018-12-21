@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-03-06T08:24:00-05:00"
+lastmod = "2018-03-06T12:07:00-05:00"
+publishDate = "2018-03-06T08:24:00-05:00"
 slug = "a-kind-of-twisted-egotistical-apotheosis-faust-in-chicago"
 title = "A kind of twisted, egotistical apotheosis: Faust in Chicago"
 +++

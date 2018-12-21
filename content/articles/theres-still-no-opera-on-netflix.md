@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-12-22T19:22:00-05:00"
+lastmod = "2015-12-28T11:23:00-05:00"
+publishDate = "2015-12-28T10:45:00-05:00"
 slug = "theres-still-no-opera-on-netflix"
 title = "There&#039;s still no opera on Netflix"
 +++

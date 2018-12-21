@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-11-29T09:34:00+00:00"
+lastmod = "2016-11-30T11:11:00+00:00"
+publishDate = "2016-11-30T11:03:00+00:00"
 slug = "tenors-redemption-at-an-historic-grey-cup-in-toronto"
 title = "Tenors&#039; redemption at an historic Grey Cup in Toronto"
 +++

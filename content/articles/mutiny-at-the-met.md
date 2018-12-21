@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-07-28T10:00:00-04:00"
+lastmod = "2015-04-23T14:30:00-04:00"
+publishDate = "2014-07-28T10:00:00-04:00"
 slug = "mutiny-at-the-met"
 title = "Mutiny at the Met?"
 +++

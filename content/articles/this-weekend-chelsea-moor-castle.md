@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-03-10T18:51:00+00:00"
+lastmod = "2016-03-11T17:51:00+00:00"
+publishDate = "2016-03-11T17:44:00+00:00"
 slug = "this-weekend-chelsea-moor-castle"
 title = "This weekend: Chelsea Moor Castle"
 +++

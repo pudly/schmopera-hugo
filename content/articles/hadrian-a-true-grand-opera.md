@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-10-18T20:41:00-04:00"
+lastmod = "2018-10-19T12:28:00-04:00"
+publishDate = "2018-10-18T20:41:00-04:00"
 slug = "hadrian-a-true-grand-opera"
 title = "Hadrian: a true grand opera"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-03-14T15:49:00+00:00"
+lastmod = "2017-03-15T10:17:00+00:00"
+publishDate = "2017-03-15T09:45:00+00:00"
 slug = "goks-divas-solid-picks-despite-the-packaging"
 title = "Gok&#039;s Divas: solid picks, despite the packaging"
 +++

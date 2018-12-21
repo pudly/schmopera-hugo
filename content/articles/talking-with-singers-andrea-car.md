@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-01-29T21:24:00-05:00"
+lastmod = "2018-01-30T10:28:00-05:00"
+publishDate = "2018-01-30T10:28:00-05:00"
 slug = "talking-with-singers-andrea-car"
 title = "Talking with singers: Andrea Carè"
 +++

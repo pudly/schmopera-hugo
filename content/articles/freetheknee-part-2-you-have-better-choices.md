@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2016-09-11T16:51:00+01:00"
+lastmod = "2016-09-13T14:59:00+01:00"
+publishDate = "2016-09-13T14:30:00+01:00"
 slug = "freetheknee-part-2-you-have-better-choices"
 title = "#FreeTheKnee Part 2: &quot;You have better choices.&quot;"
 +++

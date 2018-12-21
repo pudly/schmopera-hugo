@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-05-18T20:15:00-04:00"
+lastmod = "2017-05-23T14:48:00-04:00"
+publishDate = "2017-05-23T14:35:00-04:00"
 slug = "good-first-impressions-casps-latest-commission-by-ana-sokolovi"
 title = "Good first impressions: CASP&#039;s latest commission by Ana Sokolović"
 +++

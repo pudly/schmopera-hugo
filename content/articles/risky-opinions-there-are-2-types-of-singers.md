@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-12-10T09:22:00-05:00"
+lastmod = "2017-01-02T09:24:00-05:00"
+publishDate = "2017-01-02T09:24:00-05:00"
 slug = "risky-opinions-there-are-2-types-of-singers"
 title = "Risky opinions: there are 2 types of singers..."
 +++

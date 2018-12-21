@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-11-20T20:10:00-05:00"
+lastmod = "2015-11-20T21:45:00-05:00"
+publishDate = "2015-11-21T12:45:00-05:00"
 slug = "stop-letting-audition-season-destroy-your-bank-account"
 title = "Stop letting audition season destroy your bank account"
 +++

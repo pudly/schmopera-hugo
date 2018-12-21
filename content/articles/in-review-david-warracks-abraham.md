@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-10-30T10:31:00-04:00"
+lastmod = "2015-10-30T11:17:00-04:00"
+publishDate = "2015-10-30T12:17:00-04:00"
 slug = "in-review-david-warracks-abraham"
 title = "In review: David Warrack&#039;s Abraham"
 +++

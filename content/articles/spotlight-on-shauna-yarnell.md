@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-06-07T04:14:00-06:00"
+lastmod = "2016-06-24T18:52:00-06:00"
+publishDate = "2016-06-22T21:30:00-06:00"
 slug = "spotlight-on-shauna-yarnell"
 title = "Spotlight on: Shauna Yarnell"
 +++

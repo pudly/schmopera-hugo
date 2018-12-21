@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-01-05T16:57:00+00:00"
+lastmod = "2017-01-06T15:34:00+00:00"
+publishDate = "2017-01-06T10:19:00+00:00"
 slug = "barihunks-jack-michaels-we-are-in-a-golden-age-of-baritones"
 title = "Barihunks&#039; Jack Michaels: &quot;We are in a golden age of baritones&quot;"
 +++

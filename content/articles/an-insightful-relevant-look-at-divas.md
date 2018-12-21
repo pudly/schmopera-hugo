@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-06-22T20:51:00-04:00"
+lastmod = "2018-06-22T21:03:00-04:00"
+publishDate = "2018-06-22T20:51:00-04:00"
 slug = "an-insightful-relevant-look-at-divas"
 title = "An Insightful, Relevant Look At Divas"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-08-23T10:19:00+01:00"
+lastmod = "2016-08-23T13:34:00+01:00"
+publishDate = "2016-08-23T13:12:00+01:00"
 slug = "one-voice-orlando-after-pulse"
 title = "One Voice Orlando: after Pulse"
 +++

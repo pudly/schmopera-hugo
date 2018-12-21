@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-12-05T15:59:00+00:00"
+lastmod = "2016-12-12T09:17:00+00:00"
+publishDate = "2016-12-12T09:11:00+00:00"
 slug = "skills-to-learn-downtime-on-the-job"
 title = "Skills to learn: downtime on the job"
 +++

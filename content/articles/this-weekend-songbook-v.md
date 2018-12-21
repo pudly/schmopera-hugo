@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-01-21T12:54:00-05:00"
+lastmod = "2015-04-11T22:59:00-04:00"
+publishDate = "2015-01-21T12:54:00-05:00"
 slug = "this-weekend-songbook-v"
 title = "This weekend: Songbook V"
 +++

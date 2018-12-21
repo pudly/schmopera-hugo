@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-09-30T09:29:00+01:00"
+lastmod = "2016-09-30T10:13:00+01:00"
+publishDate = "2016-09-30T09:56:00+01:00"
 slug = "in-review-jamie-barton-leaves-you-wanting-more"
 title = "In review: Jamie Barton leaves you wanting more"
 +++

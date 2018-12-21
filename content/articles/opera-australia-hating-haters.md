@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-01-06T15:52:00-05:00"
+lastmod = "2015-04-12T11:04:00-04:00"
+publishDate = "2015-01-06T15:52:00-05:00"
 slug = "opera-australia-hating-haters"
 title = "Opera Australia: hating haters?"
 +++

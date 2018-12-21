@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2017-10-29T21:56:00-04:00"
+lastmod = "2017-10-30T12:00:00-04:00"
+publishDate = "2017-10-29T22:07:00-04:00"
 slug = "nerding-out-why-you-should-definitely-care-what-key-your-aria-is-in"
 title = "Nerding out: why you should definitely care what key your aria is in"
 +++

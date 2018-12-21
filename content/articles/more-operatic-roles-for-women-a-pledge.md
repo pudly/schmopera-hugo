@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2018-01-09T19:06:00-05:00"
+lastmod = "2018-01-10T10:31:00-05:00"
+publishDate = "2018-01-09T19:06:00-05:00"
 slug = "more-operatic-roles-for-women-a-pledge"
 title = "More operatic roles for women: a pledge"
 +++

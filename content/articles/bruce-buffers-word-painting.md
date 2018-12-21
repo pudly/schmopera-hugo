@@ -1,4 +1,7 @@
 +++
+date = "2015-05-24T20:33:00-04:00"
+lastmod = "2015-05-24T20:33:00-04:00"
+publishDate = "undefined"
 slug = "bruce-buffers-word-painting"
 title = "Bruce Buffer&#039;s word painting"
 +++

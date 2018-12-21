@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-12-02T20:40:00-05:00"
+lastmod = "2017-08-20T20:59:00-04:00"
+publishDate = "2015-12-03T08:00:00-05:00"
 slug = "schwag-the-schmopera-store"
 title = "Schwag: the Schmopera Store"
 +++

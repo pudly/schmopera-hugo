@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-02-03T12:30:00+00:00"
+lastmod = "2017-02-03T17:54:00+00:00"
+publishDate = "2017-02-03T17:54:00+00:00"
 slug = "in-review-gtterdmmerung-at-the-coc"
 title = "In review: Götterdämmerung at the COC"
 +++

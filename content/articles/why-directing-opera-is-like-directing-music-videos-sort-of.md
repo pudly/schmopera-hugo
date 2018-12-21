@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-04-21T12:36:00-04:00"
+lastmod = "2015-04-21T13:50:00-04:00"
+publishDate = "2015-04-21T13:00:00-04:00"
 slug = "why-directing-opera-is-like-directing-music-videos-sort-of"
 title = "Why directing opera is like directing music videos (sort of)"
 +++

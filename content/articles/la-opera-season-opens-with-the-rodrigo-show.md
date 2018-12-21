@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-09-23T19:44:00-04:00"
+lastmod = "2018-09-25T10:21:00-04:00"
+publishDate = "2018-09-24T10:40:00-04:00"
 slug = "la-opera-season-opens-with-the-rodrigo-show"
 title = "LA Opera season opens with The Rodrigo Show"
 +++

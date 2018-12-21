@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-08-13T17:20:00+01:00"
+lastmod = "2016-08-15T09:49:00+01:00"
+publishDate = "2016-08-15T09:02:00+01:00"
 slug = "the-opera-olympics-its-time"
 title = "The Opera Olympics: it&#039;s time"
 +++

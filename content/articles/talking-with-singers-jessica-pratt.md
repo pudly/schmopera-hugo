@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-12-11T10:54:00+00:00"
+lastmod = "2016-12-12T15:23:00+00:00"
+publishDate = "2016-12-12T13:23:00+00:00"
 slug = "talking-with-singers-jessica-pratt"
 title = "Talking with singers: Jessica Pratt"
 +++

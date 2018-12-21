@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-11-04T16:17:00-05:00"
+lastmod = "2018-11-05T07:13:00-05:00"
+publishDate = "2018-11-04T18:17:00-05:00"
 slug = "the-follies-of-modernization-oedipus-rex-iolanta"
 title = "The follies of modernization: Oedipus Rex &amp; Iolanta"
 +++

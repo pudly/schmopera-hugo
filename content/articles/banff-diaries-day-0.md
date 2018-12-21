@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-06-21T16:02:00-06:00"
+lastmod = "2015-06-22T08:34:00-06:00"
+publishDate = "2015-06-22T08:34:00-06:00"
 slug = "banff-diaries-day-0"
 title = "Banff Diaries: Day 0"
 +++

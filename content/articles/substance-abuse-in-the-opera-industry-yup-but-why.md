@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-09-06T12:26:00-04:00"
+lastmod = "2017-11-11T14:17:00-05:00"
+publishDate = "2014-09-06T12:26:00-04:00"
 slug = "substance-abuse-in-the-opera-industry-yup-but-why"
 title = "Substance abuse in the opera industry, yup. But why?"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-07-09T15:38:00-04:00"
+lastmod = "2015-07-20T08:52:00-04:00"
+publishDate = "2015-07-20T08:52:00-04:00"
 slug = "putting-on-a-show-other-things-instrumentalists-can-learn-from-singers"
 title = "Putting on a show &amp; other things instrumentalists can learn from singers"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-10-25T12:37:00-04:00"
+lastmod = "2015-04-14T10:15:00-04:00"
+publishDate = "2014-10-25T12:37:00-04:00"
 slug = "he-saidshe-said-alcina-at-opera-atelier"
 title = "He Said/She Said: Alcina at Opera Atelier"
 +++

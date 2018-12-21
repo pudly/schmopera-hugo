@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2017-06-01T08:26:00-06:00"
+lastmod = "2017-06-05T20:08:00-06:00"
+publishDate = "2017-06-05T20:08:00-06:00"
 slug = "what-are-your-irrational-stage-fears"
 title = "What are your irrational stage fears?"
 +++

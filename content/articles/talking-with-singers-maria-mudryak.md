@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-06-06T18:02:00-06:00"
+lastmod = "2017-06-08T22:28:00-06:00"
+publishDate = "2017-06-08T22:28:00-06:00"
 slug = "talking-with-singers-maria-mudryak"
 title = "Talking with singers: Maria Mudryak"
 +++

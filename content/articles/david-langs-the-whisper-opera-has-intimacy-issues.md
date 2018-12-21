@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-02-25T19:55:00-05:00"
+lastmod = "2018-02-25T19:55:00-05:00"
+publishDate = "2018-02-25T19:55:00-05:00"
 slug = "david-langs-the-whisper-opera-has-intimacy-issues"
 title = "David Lang&#039;s the whisper opera has intimacy issues"
 +++

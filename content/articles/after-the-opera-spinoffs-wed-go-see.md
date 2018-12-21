@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2014-08-27T15:33:00-04:00"
+lastmod = "2017-05-28T11:20:00-04:00"
+publishDate = "2014-08-27T15:33:00-04:00"
 slug = "after-the-opera-spinoffs-wed-go-see"
 title = "After the opera: spin-offs we&#039;d go see"
 +++

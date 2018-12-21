@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-09-16T11:29:00+01:00"
+lastmod = "2016-09-17T12:56:00+01:00"
+publishDate = "2016-09-17T12:37:00+01:00"
 slug = "in-review-pretty-yendes-debut-album-a-journey"
 title = "In review: Pretty Yende&#039;s debut album, A Journey"
 +++

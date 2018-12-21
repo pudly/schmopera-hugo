@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-02-28T18:28:00+00:00"
+lastmod = "2016-02-29T09:19:00+00:00"
+publishDate = "2016-02-29T09:15:00+00:00"
 slug = "london-calling"
 title = "London Calling"
 +++

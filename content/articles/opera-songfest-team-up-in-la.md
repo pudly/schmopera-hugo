@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2018-02-27T09:46:00-05:00"
+lastmod = "2018-02-27T17:23:00-05:00"
+publishDate = "2018-02-27T09:46:00-05:00"
 slug = "opera-songfest-team-up-in-la"
 title = "Opera &amp; Song(Fest) team up in LA"
 +++

@@ -1,4 +1,7 @@
 +++
+date = "2014-11-11T09:00:00-05:00"
+lastmod = "2015-04-13T23:22:00-04:00"
+publishDate = "2014-11-11T09:00:00-05:00"
 slug = "when-disney-made-a-cartoon-about-an-operasinging-whale"
 title = "When Disney made a cartoon about an opera-singing whale"
 +++

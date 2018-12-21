@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-10T09:19:00-04:00"
+lastmod = "2017-10-10T21:28:00-04:00"
+publishDate = "2017-10-10T21:24:00-04:00"
 slug = "how-did-we-do-second-movement-presents-rough-for-opera-16"
 title = "&quot;How did we do?&quot; Second Movement Presents: rough for opera #16"
 +++

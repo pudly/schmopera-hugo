@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-11-12T13:58:00-07:00"
+lastmod = "2016-07-15T12:15:00-06:00"
+publishDate = "2015-11-13T07:55:00-07:00"
 slug = "talking-with-singers-jorell-williams"
 title = "Talking with singers: Jorell Williams"
 +++

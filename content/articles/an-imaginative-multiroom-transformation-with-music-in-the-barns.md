@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-05-16T12:18:00-04:00"
+lastmod = "2017-05-17T11:01:00-04:00"
+publishDate = "2017-05-17T10:30:00-04:00"
 slug = "an-imaginative-multiroom-transformation-with-music-in-the-barns"
 title = "An &quot;imaginative multi-room transformation&quot; with Music in the Barns"
 +++

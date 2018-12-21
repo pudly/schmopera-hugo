@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-07-12T15:07:00-04:00"
+lastmod = "2018-07-12T15:07:00-04:00"
+publishDate = "2018-07-12T15:07:00-04:00"
 slug = "layered-comedy-flight"
 title = "Layered comedy: Flight"
 +++

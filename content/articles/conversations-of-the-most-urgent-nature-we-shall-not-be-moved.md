@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-17T18:25:00-04:00"
+lastmod = "2017-09-17T19:31:00-04:00"
+publishDate = "2017-09-17T19:31:00-04:00"
 slug = "conversations-of-the-most-urgent-nature-we-shall-not-be-moved"
 title = "Conversations &quot;of the most urgent nature&quot;: We Shall Not Be Moved"
 +++

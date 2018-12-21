@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-04-05T21:16:00+01:00"
+lastmod = "2016-04-06T11:55:00+01:00"
+publishDate = "2016-04-06T11:55:00+01:00"
 slug = "singing-in-germany-bel-canto-summer-voice-program"
 title = "Singing in Germany: Bel Canto Summer Voice Program"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-07-20T17:53:00+02:00"
+lastmod = "2015-08-12T14:51:00+02:00"
+publishDate = "undefined"
 slug = "meet-the-folks-opera-after-hours-debi-wong"
 title = "Meet the folks: Opera After Hours&#039; Debi Wong"
 +++

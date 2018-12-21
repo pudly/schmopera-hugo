@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-12-06T17:54:00-05:00"
+lastmod = "2015-12-08T10:04:00-05:00"
+publishDate = "2015-12-08T10:00:00-05:00"
 slug = "album-review-gino-quilicos-secrets-of-christmas"
 title = "Album review: Gino Quilico&#039;s Secrets of Christmas"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-02-06T12:37:00+00:00"
+lastmod = "2017-02-07T20:25:00+00:00"
+publishDate = "2017-02-07T16:35:00+00:00"
 slug = "booing-at-the-opera-why"
 title = "Booing at the opera: why?"
 +++

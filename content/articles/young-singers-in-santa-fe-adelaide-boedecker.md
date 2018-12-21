@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-13T18:56:00-04:00"
+lastmod = "2017-08-02T11:05:00-04:00"
+publishDate = "2017-08-02T11:05:00-04:00"
 slug = "young-singers-in-santa-fe-adelaide-boedecker"
 title = "Young singers in Santa Fe: Adelaide Boedecker"
 +++

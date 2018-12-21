@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-01-28T09:32:00+00:00"
+lastmod = "2017-01-28T10:55:00+00:00"
+publishDate = "2017-01-28T10:25:00+00:00"
 slug = "in-review-three-way"
 title = "In review: Three Way"
 +++

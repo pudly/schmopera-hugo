@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-06-11T11:23:00-06:00"
+lastmod = "2016-06-19T15:06:00-06:00"
+publishDate = "2016-06-18T02:14:00-06:00"
 slug = "spotlight-on-sydney-mancasola"
 title = "Spotlight on: Sydney Mancasola"
 +++

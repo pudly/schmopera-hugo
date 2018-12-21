@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-03-14T12:29:00+00:00"
+lastmod = "2017-03-15T13:12:00+00:00"
+publishDate = "2017-03-15T12:58:00+00:00"
 slug = "stormy-weather-6-nasty-opera-tempests"
 title = "Stormy weather: 6 nasty opera tempests"
 +++

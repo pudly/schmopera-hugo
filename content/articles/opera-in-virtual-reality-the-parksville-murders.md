@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-10-14T15:44:00+01:00"
+lastmod = "2016-10-17T16:52:00+01:00"
+publishDate = "2016-10-17T10:28:00+01:00"
 slug = "opera-in-virtual-reality-the-parksville-murders"
 title = "Opera in virtual reality: The Parksville Murders"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-03-22T09:48:00+00:00"
+lastmod = "2017-03-22T10:03:00+00:00"
+publishDate = "2017-03-22T10:03:00+00:00"
 slug = "in-review-daniels-katz-at-wigmore-hall"
 title = "In review: Daniels &amp; Katz at Wigmore Hall"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-04-16T21:46:00-04:00"
+lastmod = "2015-04-20T14:17:00-04:00"
+publishDate = "2015-04-17T08:04:00-04:00"
 slug = "kristen-seikaly-on-how-to-learn-a-role"
 title = "Kristen Seikaly on how to learn a role"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-09-05T11:08:00-04:00"
+lastmod = "2015-09-05T12:23:00-04:00"
+publishDate = "2015-09-05T11:26:00-04:00"
 slug = "in-review-shadow-box"
 title = "In review: shadow box"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-08-25T12:25:00-04:00"
+lastmod = "2017-08-26T10:22:00-04:00"
+publishDate = "2017-08-25T21:07:00-04:00"
 slug = "opera-meanies-the-august-edition"
 title = "Opera meanies: the August edition"
 +++

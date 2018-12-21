@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-11-13T13:52:00-05:00"
+lastmod = "2017-11-19T21:04:00-05:00"
+publishDate = "2017-11-19T20:33:00-05:00"
 slug = "talking-with-composers-mark-adamo"
 title = "Talking with composers: Mark Adamo"
 +++

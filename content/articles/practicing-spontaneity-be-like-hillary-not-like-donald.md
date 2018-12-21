@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-09-13T09:47:00+01:00"
+lastmod = "2016-09-13T10:29:00+01:00"
+publishDate = "2016-09-13T10:00:00+01:00"
 slug = "practicing-spontaneity-be-like-hillary-not-like-donald"
 title = "Practicing spontaneity: be like Hillary &amp; not like Donald"
 +++

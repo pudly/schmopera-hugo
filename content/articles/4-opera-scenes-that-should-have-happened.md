@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-08-31T13:27:00-04:00"
+lastmod = "2015-09-01T08:29:00-04:00"
+publishDate = "2015-09-01T08:00:00-04:00"
 slug = "4-opera-scenes-that-should-have-happened"
 title = "4 Opera scenes that should have happened"
 +++

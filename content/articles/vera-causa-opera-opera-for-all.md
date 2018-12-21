@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-02-06T20:45:00+00:00"
+lastmod = "2017-02-07T23:56:00+00:00"
+publishDate = "2017-02-07T14:38:00+00:00"
 slug = "vera-causa-opera-opera-for-all"
 title = "Vera Causa Opera: &quot;Opera for all.&quot;"
 +++

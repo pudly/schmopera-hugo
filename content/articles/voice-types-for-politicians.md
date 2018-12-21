@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-02-01T22:09:00-05:00"
+lastmod = "2016-02-03T12:00:00-05:00"
+publishDate = "undefined"
 slug = "voice-types-for-politicians"
 title = "Voice types for politicians"
 +++

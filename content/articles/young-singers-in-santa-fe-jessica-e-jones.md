@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-13T13:19:00-04:00"
+lastmod = "2017-07-31T13:28:00-04:00"
+publishDate = "2017-07-31T12:16:00-04:00"
 slug = "young-singers-in-santa-fe-jessica-e-jones"
 title = "Young singers in Santa Fe: Jessica E. Jones"
 +++

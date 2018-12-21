@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-09-28T15:19:00-04:00"
+lastmod = "2018-09-28T22:35:00-04:00"
+publishDate = "2018-09-28T22:35:00-04:00"
 slug = "opera-adapts-a-medium-more-adept-at-adapting"
 title = "Opera adapts a medium more adept at adapting"
 +++

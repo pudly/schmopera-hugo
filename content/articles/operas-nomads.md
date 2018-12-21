@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-07-26T18:27:00-04:00"
+lastmod = "2015-07-28T07:55:00-04:00"
+publishDate = "2015-07-28T07:55:00-04:00"
 slug = "operas-nomads"
 title = "Opera&#039;s nomads"
 +++

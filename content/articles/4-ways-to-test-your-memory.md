@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2016-08-08T10:28:00-04:00"
+lastmod = "2017-08-02T21:50:00-04:00"
+publishDate = "2016-08-09T05:54:00-04:00"
 slug = "4-ways-to-test-your-memory"
 title = "4 ways to test your memory"
 +++

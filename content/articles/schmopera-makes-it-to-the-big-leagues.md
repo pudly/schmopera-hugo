@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-02-20T09:30:00-05:00"
+lastmod = "2015-04-27T21:48:00-04:00"
+publishDate = "2014-02-20T09:30:00-05:00"
 slug = "schmopera-makes-it-to-the-big-leagues"
 title = "Schmopera makes it to the big leagues"
 +++

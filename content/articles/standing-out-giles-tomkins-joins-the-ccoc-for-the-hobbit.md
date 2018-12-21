@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-06-07T10:01:00+01:00"
+lastmod = "2016-06-07T13:14:00+01:00"
+publishDate = "2016-06-07T13:06:00+01:00"
 slug = "standing-out-giles-tomkins-joins-the-ccoc-for-the-hobbit"
 title = "Standing out: Giles Tomkins joins the CCOC for The Hobbit"
 +++

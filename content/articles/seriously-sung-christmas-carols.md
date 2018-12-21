@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-12-22T19:43:00-05:00"
+lastmod = "2017-12-17T11:11:00-05:00"
+publishDate = "2015-12-24T10:30:00-05:00"
 slug = "seriously-sung-christmas-carols"
 title = "Seriously sung Christmas carols"
 +++

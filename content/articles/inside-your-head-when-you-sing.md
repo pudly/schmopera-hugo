@@ -1,4 +1,7 @@
 +++
+date = "2015-04-22T18:41:00-04:00"
+lastmod = "2015-04-22T18:41:00-04:00"
+publishDate = "undefined"
 slug = "inside-your-head-when-you-sing"
 title = "Inside your head when you sing"
 +++

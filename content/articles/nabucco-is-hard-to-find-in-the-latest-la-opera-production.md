@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-15T19:07:00-04:00"
+lastmod = "2017-10-15T22:55:00-04:00"
+publishDate = "2017-10-15T21:07:00-04:00"
 slug = "nabucco-is-hard-to-find-in-the-latest-la-opera-production"
 title = "Nabucco is hard to find in the latest LA Opera production"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-10-25T11:20:00+01:00"
+lastmod = "2016-10-26T09:33:00+01:00"
+publishDate = "2016-10-26T09:29:00+01:00"
 slug = "killer-women-shadwell-operas-doublebill"
 title = "Killer women: Shadwell Opera&#039;s double-bill"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-08T09:31:00-05:00"
+lastmod = "2017-11-08T09:53:00-05:00"
+publishDate = "2017-11-08T09:53:00-05:00"
 slug = "overdue-for-a-chicago-performance-the-haunted-manor"
 title = "Overdue for a Chicago performance: The Haunted Manor"
 +++

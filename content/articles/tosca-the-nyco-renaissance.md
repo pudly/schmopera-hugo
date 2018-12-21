@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-01-13T11:38:00-05:00"
+lastmod = "2016-01-14T12:52:00-05:00"
+publishDate = "2016-01-14T12:23:00-05:00"
 slug = "tosca-the-nyco-renaissance"
 title = "Tosca &amp; the NYCO Renaissance"
 +++

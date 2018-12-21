@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-02-12T14:00:00-05:00"
+lastmod = "2016-02-13T11:25:00-05:00"
+publishDate = "2016-02-13T09:00:00-05:00"
 slug = "phillip-addis-emily-hamper-the-pilgrim-soul"
 title = "Phillip Addis &amp; Emily Hamper: The Pilgrim Soul"
 +++

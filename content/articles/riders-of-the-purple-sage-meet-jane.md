@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-02-23T10:50:00+00:00"
+lastmod = "2017-02-24T15:45:00+00:00"
+publishDate = "2017-02-24T15:41:00+00:00"
 slug = "riders-of-the-purple-sage-meet-jane"
 title = "Riders of the Purple Sage: meet Jane"
 +++

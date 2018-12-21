@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-04-10T21:24:00-04:00"
+lastmod = "2015-04-10T21:24:00-04:00"
+publishDate = "2015-03-24T13:24:00-04:00"
 slug = "chatting-with-canadas-opera-biggies"
 title = "Chatting with Canada&#039;s Opera Biggies"
 +++

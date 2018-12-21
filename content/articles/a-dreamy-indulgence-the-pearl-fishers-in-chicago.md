@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-22T13:45:00-05:00"
+lastmod = "2017-11-22T20:52:00-05:00"
+publishDate = "2017-11-22T20:52:00-05:00"
 slug = "a-dreamy-indulgence-the-pearl-fishers-in-chicago"
 title = "A dreamy indulgence: The Pearl Fishers in Chicago"
 +++

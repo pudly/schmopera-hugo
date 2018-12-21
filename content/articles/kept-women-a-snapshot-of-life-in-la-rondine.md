@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-10-08T12:36:00-04:00"
+lastmod = "2018-10-08T19:17:00-04:00"
+publishDate = "2018-10-08T12:46:00-04:00"
 slug = "kept-women-a-snapshot-of-life-in-la-rondine"
 title = "Kept women &amp; a snapshot of life in La Rondine"
 +++

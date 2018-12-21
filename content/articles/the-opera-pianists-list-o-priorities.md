@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2016-05-08T13:31:00-06:00"
+lastmod = "2017-06-23T23:19:00-06:00"
+publishDate = "2016-05-09T02:03:00-06:00"
 slug = "the-opera-pianists-list-o-priorities"
 title = "The opera pianist&#039;s list o&#039; priorities"
 +++

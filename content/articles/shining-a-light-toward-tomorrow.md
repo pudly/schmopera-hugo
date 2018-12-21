@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-06-18T13:04:00-04:00"
+lastmod = "2018-06-19T07:43:00-04:00"
+publishDate = "2018-06-18T13:04:00-04:00"
 slug = "shining-a-light-toward-tomorrow"
 title = "Shining a light: Toward Tomorrow"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-06-28T19:25:00-06:00"
+lastmod = "2017-06-29T23:59:00-06:00"
+publishDate = "2017-06-29T23:40:00-06:00"
 slug = "spotlight-on-emily-edmonds"
 title = "Spotlight on: Emily Edmonds"
 +++

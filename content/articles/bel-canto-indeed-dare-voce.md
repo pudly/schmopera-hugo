@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-01-17T14:44:00+00:00"
+lastmod = "2017-02-06T16:20:00+00:00"
+publishDate = "2017-02-06T15:28:00+00:00"
 slug = "bel-canto-indeed-dare-voce"
 title = "Bel canto indeed: &quot;Dare Voce&quot;"
 +++

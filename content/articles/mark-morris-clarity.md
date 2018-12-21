@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-08-12T03:34:00-04:00"
+lastmod = "2015-09-04T08:39:00-04:00"
+publishDate = "2015-09-04T08:00:00-04:00"
 slug = "mark-morris-clarity"
 title = "Mark Morris: &quot;Clarity.&quot;"
 +++

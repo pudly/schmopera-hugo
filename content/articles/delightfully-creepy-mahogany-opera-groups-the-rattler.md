@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-03-18T17:09:00+00:00"
+lastmod = "2016-03-21T16:05:00+00:00"
+publishDate = "2016-03-21T15:50:00+00:00"
 slug = "delightfully-creepy-mahogany-opera-groups-the-rattler"
 title = "Delightfully creepy: Mahogany Opera Group&#039;s The Rattler"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-11-11T16:55:00-05:00"
+lastmod = "2018-11-12T10:28:00-05:00"
+publishDate = "2018-11-11T23:24:00-05:00"
 slug = "am-i-allowed-to-hate-silent-night"
 title = "Am I allowed to hate Silent Night?"
 +++

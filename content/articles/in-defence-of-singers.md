@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-04-22T08:09:00-06:00"
+lastmod = "2017-06-28T21:32:00-06:00"
+publishDate = "2014-04-22T08:09:00-06:00"
 slug = "in-defence-of-singers"
 title = "In defence of singers"
 +++

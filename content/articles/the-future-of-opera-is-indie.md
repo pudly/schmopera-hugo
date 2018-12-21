@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-06-07T19:07:00-04:00"
+lastmod = "2015-12-04T15:47:00-05:00"
+publishDate = "2015-06-09T08:45:00-04:00"
 slug = "the-future-of-opera-is-indie"
 title = "The Future of Opera is Indie"
 +++

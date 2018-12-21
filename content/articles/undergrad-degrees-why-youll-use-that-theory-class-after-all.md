@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-03-21T08:48:00-06:00"
+lastmod = "2017-06-18T16:13:00-06:00"
+publishDate = "2016-03-22T03:45:00-06:00"
 slug = "undergrad-degrees-why-youll-use-that-theory-class-after-all"
 title = "Undergrad degrees &amp; why you&#039;ll use that theory class after all"
 +++

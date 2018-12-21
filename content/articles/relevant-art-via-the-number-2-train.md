@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-04-11T19:25:00-04:00"
+lastmod = "2015-04-11T19:25:00-04:00"
+publishDate = "2015-02-13T09:25:00-05:00"
 slug = "relevant-art-via-the-number-2-train"
 title = "Relevant Art Via the Number 2 Train"
 +++

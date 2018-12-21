@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-01-24T16:26:00-05:00"
+lastmod = "2018-01-24T20:36:00-05:00"
+publishDate = "2018-01-24T20:36:00-05:00"
 slug = "autobiographical-recitals-joshua-guerrero-in-the-amphitheatre"
 title = "Autobiographical recitals: Joshua Guerrero in the Amphitheatre"
 +++

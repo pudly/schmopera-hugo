@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-04-11T09:50:00+01:00"
+lastmod = "2016-04-11T11:25:00+01:00"
+publishDate = "2016-04-11T11:05:00+01:00"
 slug = "ian-rosenblatt-its-all-about-the-voice"
 title = "Ian Rosenblatt: &quot;It&#039;s all about the voice.&quot;"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-03-20T10:57:00+00:00"
+lastmod = "2017-03-21T09:22:00+00:00"
+publishDate = "2017-03-21T08:52:00+00:00"
 slug = "kinder-schafft-neues-die-meistersinger-von-nrnberg"
 title = "&quot;Kinder schafft neues&quot;: Die Meistersinger von Nürnberg"
 +++

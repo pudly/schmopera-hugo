@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2017-06-16T17:47:00-06:00"
+lastmod = "2017-06-19T21:52:00-06:00"
+publishDate = "2017-06-19T21:40:00-06:00"
 slug = "the-practice-tip-you-dont-want-to-hear"
 title = "The practice tip you don&#039;t want to hear"
 +++

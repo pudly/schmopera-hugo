@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2018-01-12T20:08:00-05:00"
+lastmod = "2018-01-12T21:03:00-05:00"
+publishDate = "2018-01-12T20:08:00-05:00"
 slug = "sunday-funday-a-dontmissit-operatic-doubleheader"
 title = "Sunday Funday: a don&#039;t-miss-it operatic double-header"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-12-22T09:16:00-05:00"
+lastmod = "2015-04-12T18:24:00-04:00"
+publishDate = "2014-12-22T09:16:00-05:00"
 slug = "i-sang-along-at-tafelmusiks-messiah"
 title = "I sang along at Tafelmusik&#039;s Messiah"
 +++

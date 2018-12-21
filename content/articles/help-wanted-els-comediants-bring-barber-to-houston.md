@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-02-07T11:29:00-05:00"
+lastmod = "2018-02-07T16:15:00-05:00"
+publishDate = "2018-02-07T16:15:00-05:00"
 slug = "help-wanted-els-comediants-bring-barber-to-houston"
 title = "Help wanted: Els Comediants bring Barber to Houston"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-06-25T10:24:00-06:00"
+lastmod = "2017-06-25T10:31:00-06:00"
+publishDate = "2017-06-25T10:31:00-06:00"
 slug = "thrilling-nights-szymanowski-orff-with-the-tso"
 title = "Thrilling nights: Szymanowski &amp; Orff with the TSO"
 +++

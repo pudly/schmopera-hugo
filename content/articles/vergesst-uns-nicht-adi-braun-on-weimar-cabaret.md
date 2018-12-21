@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-12-10T19:44:00-05:00"
+lastmod = "2015-12-18T10:10:00-05:00"
+publishDate = "2015-12-18T10:06:00-05:00"
 slug = "vergesst-uns-nicht-adi-braun-on-weimar-cabaret"
 title = "&quot;Vergesst uns nicht!&quot;: Adi Braun on Weimar cabaret"
 +++

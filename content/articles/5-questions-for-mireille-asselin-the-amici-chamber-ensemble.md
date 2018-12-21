@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-04-10T20:50:00-04:00"
+lastmod = "2015-04-12T19:47:00-04:00"
+publishDate = "2015-04-01T10:00:00-04:00"
 slug = "5-questions-for-mireille-asselin-the-amici-chamber-ensemble"
 title = "5 Questions for Mireille Asselin &amp; the Amici Chamber Ensemble"
 +++

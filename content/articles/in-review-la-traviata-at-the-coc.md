@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-10-08T23:23:00-04:00"
+lastmod = "2015-10-09T11:53:00-04:00"
+publishDate = "2015-10-09T11:29:00-04:00"
 slug = "in-review-la-traviata-at-the-coc"
 title = "In review: La traviata at the COC"
 +++

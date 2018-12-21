@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-03-14T09:26:00+00:00"
+lastmod = "2016-03-15T09:55:00+00:00"
+publishDate = "2016-03-15T09:28:00+00:00"
 slug = "opera-haters-they-exist-thats-alright"
 title = "Opera haters: they exist, &amp; that&#039;s alright"
 +++

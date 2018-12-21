@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-02-05T14:07:00-05:00"
+lastmod = "2018-02-05T16:22:00-05:00"
+publishDate = "2018-02-05T14:07:00-05:00"
 slug = "ciekiewicz-triumphant-in-calgary-operas-onegin"
 title = "Ciekiewicz &quot;triumphant&quot; in Calgary Opera&#039;s Onegin"
 +++

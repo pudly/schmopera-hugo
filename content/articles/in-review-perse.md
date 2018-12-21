@@ -1,4 +1,7 @@
 +++
+date = "2014-04-27T19:08:00-04:00"
+lastmod = "2015-04-27T18:06:00-04:00"
+publishDate = "2014-04-27T19:08:00-04:00"
 slug = "in-review-perse"
 title = "In review: Persée"
 +++

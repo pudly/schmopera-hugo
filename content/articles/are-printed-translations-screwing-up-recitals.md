@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-05-24T20:40:00-04:00"
+lastmod = "2015-05-25T13:35:00-04:00"
+publishDate = "2015-05-25T13:35:00-04:00"
 slug = "are-printed-translations-screwing-up-recitals"
 title = "Are printed translations screwing up recitals?"
 +++

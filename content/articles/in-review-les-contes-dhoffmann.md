@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-11-16T10:41:00+00:00"
+lastmod = "2016-11-16T15:41:00+00:00"
+publishDate = "2016-11-16T12:27:00+00:00"
 slug = "in-review-les-contes-dhoffmann"
 title = "In review: Les contes d&#039;Hoffmann"
 +++

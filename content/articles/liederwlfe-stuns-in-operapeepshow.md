@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-04-29T16:15:00+01:00"
+lastmod = "2016-04-29T16:49:00+01:00"
+publishDate = "2016-04-29T16:45:00+01:00"
 slug = "liederwlfe-stuns-in-operapeepshow"
 title = "Liederwölfe stuns in #OperaPeepShow"
 +++

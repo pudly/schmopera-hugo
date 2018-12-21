@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-04-12T11:05:00+01:00"
+lastmod = "2016-04-12T16:34:00+01:00"
+publishDate = "2016-04-12T11:38:00+01:00"
 slug = "talking-with-singers-jamie-barton"
 title = "Talking with singers: Jamie Barton"
 +++

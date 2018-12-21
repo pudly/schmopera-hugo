@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-01-23T18:35:00+00:00"
+lastmod = "2017-01-25T16:42:00+00:00"
+publishDate = "2017-01-25T16:42:00+00:00"
 slug = "touring-tragedy-popup-operas-i-capuleti-e-i-montecchi"
 title = "Touring tragedy: Pop-Up Opera&#039;s I Capuleti e i Montecchi"
 +++

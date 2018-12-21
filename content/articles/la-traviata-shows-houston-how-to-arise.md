@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-23T13:27:00-04:00"
+lastmod = "2017-10-24T23:01:00-04:00"
+publishDate = "2017-10-24T20:42:00-04:00"
 slug = "la-traviata-shows-houston-how-to-arise"
 title = "La traviata shows Houston how to arise"
 +++

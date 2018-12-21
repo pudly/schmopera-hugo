@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-06-04T12:45:00-04:00"
+lastmod = "2017-06-01T10:54:00-04:00"
+publishDate = "2015-06-05T08:34:00-04:00"
 slug = "6-creative-affordable-ways-to-learn-a-language-"
 title = "6 creative &amp; affordable ways to learn a language "
 +++

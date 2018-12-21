@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-05-27T11:02:00-04:00"
+lastmod = "2017-05-27T13:44:00-04:00"
+publishDate = "2017-05-27T11:39:00-04:00"
 slug = "talking-with-singers-giles-tomkins"
 title = "Talking with singers: Giles Tomkins"
 +++

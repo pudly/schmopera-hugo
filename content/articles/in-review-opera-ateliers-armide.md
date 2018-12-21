@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-10-31T11:59:00-04:00"
+lastmod = "2015-10-31T13:07:00-04:00"
+publishDate = "2015-10-31T13:07:00-04:00"
 slug = "in-review-opera-ateliers-armide"
 title = "In review: Opera Atelier&#039;s Armide"
 +++

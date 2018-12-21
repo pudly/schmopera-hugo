@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-05-17T14:32:00+01:00"
+lastmod = "2016-05-18T08:02:00+01:00"
+publishDate = "2016-05-18T08:02:00+01:00"
 slug = "sfo-tickets-for-tweets"
 title = "SFO: tickets for tweets"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-06-13T07:38:00-06:00"
+lastmod = "2016-06-15T08:16:00-06:00"
+publishDate = "2016-06-13T20:51:00-06:00"
 slug = "all-about-the-tafelmusik-baroque-summer-institute"
 title = "All about the Tafelmusik Baroque Summer Institute"
 +++

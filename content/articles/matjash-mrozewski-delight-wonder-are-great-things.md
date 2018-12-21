@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-03T11:40:00-06:00"
+lastmod = "2017-07-03T22:22:00-06:00"
+publishDate = "2017-07-03T22:07:00-06:00"
 slug = "matjash-mrozewski-delight-wonder-are-great-things"
 title = "Matjash Mrozewski: &quot;Delight &amp; wonder are great things.&quot;"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-01-10T18:39:00-05:00"
+lastmod = "2018-01-11T20:27:00-05:00"
+publishDate = "2018-01-11T20:27:00-05:00"
 slug = "dont-miss-hercules-vs-vampires"
 title = "Don&#039;t miss: Hercules vs Vampires"
 +++

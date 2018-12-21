@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-12-19T13:44:00-05:00"
+lastmod = "2015-04-13T17:35:00-04:00"
+publishDate = "2014-12-19T13:44:00-05:00"
 slug = "the-cocs-unexpected-collaboration"
 title = "The COC&#039;s unexpected collaboration"
 +++

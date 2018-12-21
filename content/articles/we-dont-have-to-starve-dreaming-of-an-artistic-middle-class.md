@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-10-08T08:49:00-04:00"
+lastmod = "2015-10-08T09:47:00-04:00"
+publishDate = "2015-10-08T09:04:00-04:00"
 slug = "we-dont-have-to-starve-dreaming-of-an-artistic-middle-class"
 title = "We don&#039;t have to starve: dreaming of an artistic middle class"
 +++

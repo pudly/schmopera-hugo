@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2014-03-18T08:00:00-04:00"
+lastmod = "2015-04-26T00:05:00-04:00"
+publishDate = "2014-03-18T08:00:00-04:00"
 slug = "my-train-of-clicks-led-me-to-marilyn-horne"
 title = "My Train of Clicks Led Me To Marilyn Horne"
 +++

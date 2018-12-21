@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-04-20T16:07:00-04:00"
+lastmod = "2018-04-21T10:30:00-04:00"
+publishDate = "2018-04-21T10:12:00-04:00"
 slug = "talking-with-singers-sara-duchovnay"
 title = "Talking with singers: Sara Duchovnay"
 +++

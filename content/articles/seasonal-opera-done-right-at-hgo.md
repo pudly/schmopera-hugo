@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-12-10T13:48:00-05:00"
+lastmod = "2017-12-10T21:26:00-05:00"
+publishDate = "2017-12-10T13:48:00-05:00"
 slug = "seasonal-opera-done-right-at-hgo"
 title = "Seasonal opera done right at HGO"
 +++

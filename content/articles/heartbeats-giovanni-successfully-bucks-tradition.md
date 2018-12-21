@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-05-04T19:01:00-04:00"
+lastmod = "2018-05-05T22:01:00-04:00"
+publishDate = "2018-05-04T20:51:00-04:00"
 slug = "heartbeats-giovanni-successfully-bucks-tradition"
 title = "Heartbeat&#039;s Giovanni successfully bucks tradition"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-06-23T15:09:00+01:00"
+lastmod = "2016-06-28T16:36:00+01:00"
+publishDate = "2016-06-28T03:42:00+01:00"
 slug = "talking-with-singers-ren-barbera"
 title = "Talking with singers: René Barbera"
 +++

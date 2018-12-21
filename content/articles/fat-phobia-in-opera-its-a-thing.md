@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-08-31T08:08:00-04:00"
+lastmod = "2017-08-14T09:10:00-04:00"
+publishDate = "2016-09-01T08:47:00-04:00"
 slug = "fat-phobia-in-opera-its-a-thing"
 title = "Fat phobia in opera? It&#039;s a thing"
 +++

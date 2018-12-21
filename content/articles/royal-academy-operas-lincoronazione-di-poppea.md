@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-05-21T22:34:00+01:00"
+lastmod = "2016-05-22T10:39:00+01:00"
+publishDate = "2016-05-22T10:36:00+01:00"
 slug = "royal-academy-operas-lincoronazione-di-poppea"
 title = "Royal Academy Opera&#039;s L&#039;incoronazione di Poppea"
 +++

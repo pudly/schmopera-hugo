@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-06-18T08:32:00-04:00"
+lastmod = "2015-04-23T16:05:00-04:00"
+publishDate = "2014-06-18T08:32:00-04:00"
 slug = "from-don-juan-to-unclejohn"
 title = "From Don Juan to #UncleJohn"
 +++

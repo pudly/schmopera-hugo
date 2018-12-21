@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-03-07T06:10:00-05:00"
+lastmod = "2017-04-20T09:06:00-04:00"
+publishDate = "2016-03-07T08:06:00-05:00"
 slug = "hidden-secrets-of-the-soubrette"
 title = "Hidden secrets of the soubrette"
 +++

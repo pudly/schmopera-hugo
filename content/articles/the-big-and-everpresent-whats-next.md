@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-06-25T10:11:00-06:00"
+lastmod = "2017-06-29T23:59:00-06:00"
+publishDate = "2017-06-29T23:40:00-06:00"
 slug = "the-big-and-everpresent-whats-next"
 title = "The big, and ever-present, &quot;what&#039;s next?&quot;"
 +++

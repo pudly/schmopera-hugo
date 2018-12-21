@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-03-08T18:45:00+01:00"
+lastmod = "2017-03-09T09:57:00+01:00"
+publishDate = "2017-03-09T09:57:00+01:00"
 slug = "are-the-arts-other-creative-fields-a-waste-of-time-money"
 title = "Are the arts &amp; other creative fields a waste of time &amp; money?"
 +++

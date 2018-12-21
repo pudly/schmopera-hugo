@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-08-02T12:22:00+01:00"
+lastmod = "2016-08-05T12:58:00+01:00"
+publishDate = "2016-08-05T12:50:00+01:00"
 slug = "nate-douglas-writing-songs-is-fun"
 title = "Nate Douglas: &quot;Writing songs is fun.&quot;"
 +++

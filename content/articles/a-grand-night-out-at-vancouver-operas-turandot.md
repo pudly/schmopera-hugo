@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-15T18:37:00-04:00"
+lastmod = "2017-10-15T21:07:00-04:00"
+publishDate = "2017-10-15T21:07:00-04:00"
 slug = "a-grand-night-out-at-vancouver-operas-turandot"
 title = "A grand night out at Vancouver Opera&#039;s Turandot"
 +++

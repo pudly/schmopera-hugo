@@ -1,4 +1,7 @@
 +++
+date = "2014-09-10T11:03:00-04:00"
+lastmod = "2015-04-16T15:19:00-04:00"
+publishDate = "2014-09-10T11:03:00-04:00"
 slug = "prom-night-for-rufus"
 title = "Prom Night for Rufus"
 +++

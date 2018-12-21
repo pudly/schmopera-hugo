@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-08-30T13:20:00-04:00"
+lastmod = "2017-09-01T13:16:00-04:00"
+publishDate = "2017-08-31T11:27:00-04:00"
 slug = "talking-with-composers-adam-scime"
 title = "Talking with composers: Adam Scime"
 +++

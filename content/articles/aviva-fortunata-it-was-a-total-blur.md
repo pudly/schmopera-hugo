@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-02-19T22:15:00+00:00"
+lastmod = "2017-02-20T16:21:00+00:00"
+publishDate = "2017-02-20T16:07:00+00:00"
 slug = "aviva-fortunata-it-was-a-total-blur"
 title = "Aviva Fortunata: &quot;It was a total blur!&quot;"
 +++

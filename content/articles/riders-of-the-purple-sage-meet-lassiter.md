@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-02-23T15:13:00+00:00"
+lastmod = "2017-02-26T16:51:00+00:00"
+publishDate = "2017-02-26T12:22:00+00:00"
 slug = "riders-of-the-purple-sage-meet-lassiter"
 title = "Riders of the Purple Sage: meet Lassiter"
 +++

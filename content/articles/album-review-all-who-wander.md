@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-11-12T15:51:00+00:00"
+lastmod = "2016-11-29T10:12:00+00:00"
+publishDate = "2016-11-29T09:43:00+00:00"
 slug = "album-review-all-who-wander"
 title = "Album review: All Who Wander"
 +++

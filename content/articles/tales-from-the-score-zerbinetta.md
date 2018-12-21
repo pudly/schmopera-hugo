@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-04-11T00:01:00-04:00"
+lastmod = "2015-04-11T00:01:00-04:00"
+publishDate = "2015-02-22T09:01:00-05:00"
 slug = "tales-from-the-score-zerbinetta"
 title = "Tales from the Score: Zerbinetta"
 +++

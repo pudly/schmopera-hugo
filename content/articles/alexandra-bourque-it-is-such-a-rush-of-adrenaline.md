@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-03-16T14:03:00+00:00"
+lastmod = "2017-03-20T16:08:00+00:00"
+publishDate = "2017-03-20T15:43:00+00:00"
 slug = "alexandra-bourque-it-is-such-a-rush-of-adrenaline"
 title = "Alexandra Bourque: &quot;It is such a rush of adrenaline.&quot;"
 +++

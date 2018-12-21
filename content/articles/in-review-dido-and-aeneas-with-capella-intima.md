@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-04-10T23:00:00-04:00"
+lastmod = "2015-04-10T23:00:00-04:00"
+publishDate = "2015-03-07T10:14:00-05:00"
 slug = "in-review-dido-and-aeneas-with-capella-intima"
 title = "In review: Dido and Aeneas with Capella Intima"
 +++

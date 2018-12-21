@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-07-21T13:45:00-04:00"
+lastmod = "2017-11-29T21:53:00-05:00"
+publishDate = "2015-07-23T08:09:00-04:00"
 slug = "spotlight-on-jeremy-hirsch"
 title = "Spotlight on: Jeremy Hirsch"
 +++

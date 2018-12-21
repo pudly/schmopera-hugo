@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-06-05T06:41:00-06:00"
+lastmod = "2016-07-06T16:12:00-06:00"
+publishDate = "2016-06-07T15:54:00-06:00"
 slug = "canadians-abroad-the-quarterly-report"
 title = "Canadians abroad: the quarterly report"
 +++

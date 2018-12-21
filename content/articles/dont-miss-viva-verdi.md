@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-02-02T10:45:00-05:00"
+lastmod = "2016-02-02T11:25:00-05:00"
+publishDate = "2016-02-02T11:25:00-05:00"
 slug = "dont-miss-viva-verdi"
 title = "Don&#039;t miss: Viva Verdi!"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-11-25T11:34:00+00:00"
+lastmod = "2016-11-25T16:48:00+00:00"
+publishDate = "2016-11-25T16:48:00+00:00"
 slug = "the-real-value-of-summer-programs"
 title = "The real value of summer programs"
 +++

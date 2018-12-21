@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-11-17T09:00:00-05:00"
+lastmod = "2015-04-13T23:19:00-04:00"
+publishDate = "2014-11-17T09:00:00-05:00"
 slug = "shhdont-tell-them-its-opera"
 title = "Shh...Don&#039;t tell them it&#039;s opera!"
 +++

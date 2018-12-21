@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-01-26T13:31:00+00:00"
+lastmod = "2017-01-26T17:07:00+00:00"
+publishDate = "2017-01-26T17:00:00+00:00"
 slug = "in-review-la-traviata-at-roh"
 title = "In review: La traviata at ROH"
 +++

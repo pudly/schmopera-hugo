@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-08-08T13:21:00-04:00"
+lastmod = "2015-09-16T18:45:00-04:00"
+publishDate = "2015-08-08T14:17:00-04:00"
 slug = "in-review-obeah-opera"
 title = "In review: Obeah Opera"
 +++

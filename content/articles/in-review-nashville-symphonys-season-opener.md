@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-10-03T11:02:00+01:00"
+lastmod = "2016-10-03T11:54:00+01:00"
+publishDate = "2016-10-03T11:54:00+01:00"
 slug = "in-review-nashville-symphonys-season-opener"
 title = "In review: Nashville Symphony&#039;s season opener"
 +++

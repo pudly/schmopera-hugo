@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-02-22T17:14:00-05:00"
+lastmod = "2015-04-27T21:35:00-04:00"
+publishDate = "2014-02-22T17:14:00-05:00"
 slug = "in-review-opra-de-montrals-atelier-lyrique-joins-the-coc-ensemble-studio"
 title = "In review: Opéra de Montréal&#039;s Atelier Lyrique joins the COC Ensemble Studio"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-06-17T15:35:00-04:00"
+lastmod = "2015-06-19T08:42:00-04:00"
+publishDate = "2015-06-19T08:35:00-04:00"
 slug = "spotlight-on-charlotte-knight"
 title = "Spotlight on: Charlotte Knight"
 +++

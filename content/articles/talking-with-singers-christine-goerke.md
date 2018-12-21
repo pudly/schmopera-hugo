@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-01-19T15:36:00-05:00"
+lastmod = "2016-01-25T09:13:00-05:00"
+publishDate = "2016-01-25T09:08:00-05:00"
 slug = "talking-with-singers-christine-goerke"
 title = "Talking with singers: Christine Goerke"
 +++

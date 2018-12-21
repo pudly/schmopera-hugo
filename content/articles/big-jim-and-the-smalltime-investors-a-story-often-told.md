@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-12T22:27:00-04:00"
+lastmod = "2018-04-13T17:46:00-04:00"
+publishDate = "2018-04-12T22:27:00-04:00"
 slug = "big-jim-and-the-smalltime-investors-a-story-often-told"
 title = "Big Jim and the Small-time Investors: a story often told"
 +++

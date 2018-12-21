@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-12-15T12:00:00-05:00"
+lastmod = "2017-12-15T17:12:00-05:00"
+publishDate = "2017-12-15T12:08:00-05:00"
 slug = "equal-parts-stressful-and-reverent-atgbound"
 title = "Equal parts stressful and reverent: #AtGBound"
 +++

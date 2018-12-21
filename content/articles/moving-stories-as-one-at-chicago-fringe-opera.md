@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-17T16:03:00-05:00"
+lastmod = "2017-11-17T18:15:00-05:00"
+publishDate = "2017-11-17T16:50:00-05:00"
 slug = "moving-stories-as-one-at-chicago-fringe-opera"
 title = "Moving stories: As One at Chicago Fringe Opera"
 +++

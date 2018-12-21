@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-07-30T19:13:00-04:00"
+lastmod = "2017-07-31T09:01:00-04:00"
+publishDate = "2017-07-30T23:00:00-04:00"
 slug = "in-review-dead-man-walking-at-miami-music-festival"
 title = "In review: Dead Man Walking at Miami Music Festival"
 +++

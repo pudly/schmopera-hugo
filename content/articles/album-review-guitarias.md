@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-02-12T19:09:00-05:00"
+lastmod = "2015-04-27T22:46:00-04:00"
+publishDate = "2014-02-12T19:09:00-05:00"
 slug = "album-review-guitarias"
 title = "Album Review: Guitarias"
 +++

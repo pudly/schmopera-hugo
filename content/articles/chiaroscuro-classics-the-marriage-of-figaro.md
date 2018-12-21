@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-13T17:38:00-05:00"
+lastmod = "2017-11-13T18:07:00-05:00"
+publishDate = "2017-11-13T18:07:00-05:00"
 slug = "chiaroscuro-classics-the-marriage-of-figaro"
 title = "Chiaroscuro classics: The Marriage of Figaro"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2014-11-20T10:00:00-05:00"
+lastmod = "2015-04-14T10:07:00-04:00"
+publishDate = "2014-11-20T10:00:00-05:00"
 slug = "centre-stage-7-finalists-compete-in-the-cocs-ensemble-studio-competition-gala"
 title = "Centre Stage: 7 finalists compete in the COC&#039;s Ensemble Studio Competition Gala"
 +++

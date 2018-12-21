@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-05-13T10:35:00-04:00"
+lastmod = "2015-04-23T20:15:00-04:00"
+publishDate = "2014-05-13T10:35:00-04:00"
 slug = "schmopera-goes-west"
 title = "Schmopera goes west"
 +++

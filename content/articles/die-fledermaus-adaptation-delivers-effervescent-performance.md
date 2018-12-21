@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-09-30T09:50:00-04:00"
+lastmod = "2018-09-30T20:25:00-04:00"
+publishDate = "2018-09-30T09:51:00-04:00"
 slug = "die-fledermaus-adaptation-delivers-effervescent-performance"
 title = "Die Fledermaus adaptation delivers effervescent performance"
 +++

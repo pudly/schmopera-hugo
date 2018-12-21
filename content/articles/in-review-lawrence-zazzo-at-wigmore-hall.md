@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-05-02T13:04:00-04:00"
+lastmod = "2017-05-03T09:44:00-04:00"
+publishDate = "2017-05-03T09:44:00-04:00"
 slug = "in-review-lawrence-zazzo-at-wigmore-hall"
 title = "In review: Lawrence Zazzo at Wigmore Hall"
 +++

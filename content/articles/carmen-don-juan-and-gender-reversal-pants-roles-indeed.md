@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2014-08-15T12:18:00-04:00"
+lastmod = "2015-04-16T22:43:00-04:00"
+publishDate = "2014-08-15T12:18:00-04:00"
 slug = "carmen-don-juan-and-gender-reversal-pants-roles-indeed"
 title = "Carmen, Don Juan, and gender reversal: pants roles indeed"
 +++

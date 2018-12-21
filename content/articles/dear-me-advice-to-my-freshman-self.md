@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-08-25T16:32:00+01:00"
+lastmod = "2016-08-26T17:08:00+01:00"
+publishDate = "2016-08-26T12:46:00+01:00"
 slug = "dear-me-advice-to-my-freshman-self"
 title = "Dear me: advice to my freshman self"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-05-16T13:38:00-04:00"
+lastmod = "2015-06-17T15:25:00-04:00"
+publishDate = "2015-05-17T10:31:00-04:00"
 slug = "entire-mfa-class-drops-out-of-usc"
 title = "Entire MFA class drops out of USC"
 +++

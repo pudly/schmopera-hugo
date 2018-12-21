@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-03-15T16:56:00+00:00"
+lastmod = "2016-03-16T10:16:00+00:00"
+publishDate = "2016-03-16T08:00:00+00:00"
 slug = "talking-with-singers-meghan-lindsay"
 title = "Talking with singers: Meghan Lindsay"
 +++

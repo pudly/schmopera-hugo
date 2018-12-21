@@ -1,4 +1,7 @@
 +++
+date = "2014-03-10T10:56:00-04:00"
+lastmod = "2015-04-26T11:08:00-04:00"
+publishDate = "2014-03-10T10:56:00-04:00"
 slug = "coming-up-in-toronto"
 title = "Coming up in Toronto"
 +++

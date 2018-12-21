@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-02-02T10:51:00-05:00"
+lastmod = "2015-04-11T22:05:00-04:00"
+publishDate = "2015-02-02T10:51:00-05:00"
 slug = "in-review-street-scene"
 title = "In review: Street Scene"
 +++

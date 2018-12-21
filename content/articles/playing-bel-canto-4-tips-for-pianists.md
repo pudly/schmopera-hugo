@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2017-10-09T19:15:00-04:00"
+lastmod = "2017-10-17T13:38:00-04:00"
+publishDate = "2017-10-13T22:10:00-04:00"
 slug = "playing-bel-canto-4-tips-for-pianists"
 title = "Playing bel canto: 4 tips for pianists"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-09-21T09:38:00+01:00"
+lastmod = "2016-09-21T10:13:00+01:00"
+publishDate = "2016-09-21T10:09:00+01:00"
 slug = "actual-opera-buzz-the-swarm-in-review"
 title = "Actual opera buzz: The Swarm, in review"
 +++

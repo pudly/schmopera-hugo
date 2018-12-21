@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-12-07T10:46:00+00:00"
+lastmod = "2016-12-07T11:33:00+00:00"
+publishDate = "2016-12-07T11:33:00+00:00"
 slug = "in-review-scenes-from-the-end"
 title = "In review: Scenes from the End"
 +++

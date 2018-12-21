@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-10-30T09:00:00-04:00"
+lastmod = "2015-04-14T10:04:00-04:00"
+publishDate = "2014-10-30T09:00:00-04:00"
 slug = "ben-heppner-to-host-the-coc-ensemble-studio-competition-gala"
 title = "Ben Heppner To Host the COC Ensemble Studio Competition Gala"
 +++

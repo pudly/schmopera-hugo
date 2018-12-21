@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-12-22T12:08:00-05:00"
+lastmod = "2017-12-24T10:54:00-05:00"
+publishDate = "2017-12-23T15:39:00-05:00"
 slug = "cautiously-aspirational-book-of-dreams"
 title = "Cautiously aspirational: Book of Dreams"
 +++

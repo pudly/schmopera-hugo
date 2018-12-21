@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-04-23T12:46:00-04:00"
+lastmod = "2015-04-23T21:28:00-04:00"
+publishDate = "2014-04-23T12:46:00-04:00"
 slug = "thanks-everyone"
 title = "Thanks, everyone!"
 +++

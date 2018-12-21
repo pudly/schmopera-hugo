@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-10-28T16:17:00-04:00"
+lastmod = "2018-10-29T21:21:00-04:00"
+publishDate = "2018-10-29T20:49:00-04:00"
 slug = "talking-with-singers-vlada-borovko"
 title = "Talking with singers: Vlada Borovko"
 +++

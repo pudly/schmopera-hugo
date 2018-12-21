@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-04-18T11:05:00-04:00"
+lastmod = "2015-04-18T18:16:00-04:00"
+publishDate = "2015-04-18T18:11:00-04:00"
 slug = "dr-john-suk-minister-of-the-lpcc-this-is-a-huge-shock"
 title = "Dr. John Suk, Minister of the LPCC: &quot;This is a huge shock.&quot;"
 +++

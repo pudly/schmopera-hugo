@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-04-21T19:18:00-04:00"
+lastmod = "2017-04-24T12:21:00-04:00"
+publishDate = "2017-04-24T09:38:00-04:00"
 slug = "album-review-nights-not-spent-alone"
 title = "Album review: Nights Not Spent Alone"
 +++

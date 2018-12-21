@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2016-05-13T10:56:00+01:00"
+lastmod = "2016-05-25T23:10:00+01:00"
+publishDate = "2016-05-13T12:31:00+01:00"
 slug = "aria-guides-dies-bildnis-ist-bezaubernd-schn"
 title = "Aria Guides: &quot;Dies Bildnis ist bezaubernd schön&quot;"
 +++

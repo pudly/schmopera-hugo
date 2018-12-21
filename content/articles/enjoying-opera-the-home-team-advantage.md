@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-07-15T12:58:00-06:00"
+lastmod = "2016-07-17T09:28:00-06:00"
+publishDate = "2016-07-17T09:23:00-06:00"
 slug = "enjoying-opera-the-home-team-advantage"
 title = "Enjoying opera: the home team advantage"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-05-13T11:39:00+01:00"
+lastmod = "2016-05-13T15:12:00+01:00"
+publishDate = "2016-05-13T11:46:00+01:00"
 slug = "in-review-against-nature"
 title = "In review: Against Nature"
 +++

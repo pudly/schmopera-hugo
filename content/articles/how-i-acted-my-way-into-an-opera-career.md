@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-04-15T10:23:00-04:00"
+lastmod = "2017-08-28T10:45:00-04:00"
+publishDate = "2014-04-15T10:23:00-04:00"
 slug = "how-i-acted-my-way-into-an-opera-career"
 title = "How I acted my way into an opera career"
 +++

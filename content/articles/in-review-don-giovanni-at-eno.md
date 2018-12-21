@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-10-01T00:05:00+01:00"
+lastmod = "2016-10-01T13:00:00+01:00"
+publishDate = "2016-10-01T11:48:00+01:00"
 slug = "in-review-don-giovanni-at-eno"
 title = "In review: Don Giovanni at ENO"
 +++

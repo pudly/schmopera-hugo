@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2017-10-19T19:59:00-04:00"
+lastmod = "2017-10-23T13:07:00-04:00"
+publishDate = "2017-10-22T16:39:00-04:00"
 slug = "3-tips-for-being-a-respectful-voice-coach"
 title = "3 tips for being a respectful voice coach"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-03-30T13:33:00-04:00"
+lastmod = "2018-03-31T10:04:00-04:00"
+publishDate = "2018-03-30T13:33:00-04:00"
 slug = "a-perfect-fit-the-overcoat"
 title = "A perfect fit: The Overcoat"
 +++

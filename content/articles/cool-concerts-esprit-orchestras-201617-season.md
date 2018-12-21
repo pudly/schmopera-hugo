@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-08-30T20:05:00+01:00"
+lastmod = "2016-09-03T10:37:00+01:00"
+publishDate = "2016-09-02T09:08:00+01:00"
 slug = "cool-concerts-esprit-orchestras-201617-season"
 title = "Cool concerts: Esprit Orchestra&#039;s 2016/17 season"
 +++

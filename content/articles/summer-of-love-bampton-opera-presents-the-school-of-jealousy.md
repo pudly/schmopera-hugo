@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-06-09T16:00:00-06:00"
+lastmod = "2017-06-12T22:16:00-06:00"
+publishDate = "2017-06-12T21:27:00-06:00"
 slug = "summer-of-love-bampton-opera-presents-the-school-of-jealousy"
 title = "Summer of love: Bampton Opera presents The School of Jealousy"
 +++

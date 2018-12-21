@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-11-01T14:28:00-05:00"
+lastmod = "2015-11-06T15:41:00-05:00"
+publishDate = "2015-11-03T11:57:00-05:00"
 slug = "meet-the-director-liza-balkan"
 title = "Meet the director: Liza Balkan"
 +++

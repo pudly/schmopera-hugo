@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-19T11:07:00-04:00"
+lastmod = "2017-09-19T12:08:00-04:00"
+publishDate = "2017-09-19T11:42:00-04:00"
 slug = "dynamic-and-physical-rinaldo-at-oper-frankfurt"
 title = "Dynamic and physical: Rinaldo at Oper Frankfurt"
 +++

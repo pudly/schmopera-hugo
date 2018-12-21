@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2017-01-19T15:18:00+00:00"
+lastmod = "2017-01-26T11:38:00+00:00"
+publishDate = "2017-01-26T11:05:00+00:00"
 slug = "4-awesome-rage-arias-that-arent-the-queen-of-the-night"
 title = "4 awesome rage arias that aren&#039;t the Queen of the Night"
 +++

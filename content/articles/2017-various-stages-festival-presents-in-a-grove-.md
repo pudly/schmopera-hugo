@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-01-19T15:29:00+00:00"
+lastmod = "2017-01-24T10:36:00+00:00"
+publishDate = "2017-01-24T10:36:00+00:00"
 slug = "2017-various-stages-festival-presents-in-a-grove-"
 title = "2017 Various Stages Festival presents: In a Grove "
 +++

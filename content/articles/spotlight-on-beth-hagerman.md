@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-06-11T13:16:00-04:00"
+lastmod = "2017-08-09T19:24:00-04:00"
+publishDate = "2016-06-18T21:45:00-04:00"
 slug = "spotlight-on-beth-hagerman"
 title = "Spotlight on: Beth Hagerman"
 +++

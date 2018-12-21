@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-05-16T13:46:00-04:00"
+lastmod = "2017-05-17T09:21:00-04:00"
+publishDate = "2017-05-17T08:53:00-04:00"
 slug = "celebrating-10-years-of-opera-by-request"
 title = "Celebrating 10 years of Opera By Request"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-01-23T11:39:00-05:00"
+lastmod = "2015-04-11T22:44:00-04:00"
+publishDate = "2015-01-23T11:39:00-05:00"
 slug = "in-review-songs-of-love-and-war"
 title = "In review: Songs of Love and War"
 +++

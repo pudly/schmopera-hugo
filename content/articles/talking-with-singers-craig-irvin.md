@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-09-25T19:19:00+01:00"
+lastmod = "2016-10-05T09:54:00+01:00"
+publishDate = "2016-10-05T09:43:00+01:00"
 slug = "talking-with-singers-craig-irvin"
 title = "Talking with singers: Craig Irvin"
 +++

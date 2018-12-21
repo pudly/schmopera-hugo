@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2016-12-06T15:11:00+00:00"
+lastmod = "2016-12-07T15:26:00+00:00"
+publishDate = "2016-12-07T15:00:00+00:00"
 slug = "aria-guides-didos-lament"
 title = "Aria guides: Dido&#039;s Lament"
 +++

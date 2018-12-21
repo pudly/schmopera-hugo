@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-03-25T08:00:00-04:00"
+lastmod = "2015-04-24T09:47:00-04:00"
+publishDate = "2014-03-25T08:00:00-04:00"
 slug = "in-review-stiffelio"
 title = "In Review: Stiffelio"
 +++

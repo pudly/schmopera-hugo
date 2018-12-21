@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-29T18:43:00-04:00"
+lastmod = "2017-10-02T15:39:00-04:00"
+publishDate = "2017-10-02T09:59:00-04:00"
 slug = "larmore-leads-sinful-success"
 title = "Larmore leads &quot;Sinful&quot; success"
 +++

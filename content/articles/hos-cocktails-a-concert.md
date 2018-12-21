@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-11-10T20:46:00-05:00"
+lastmod = "2015-11-11T09:12:00-05:00"
+publishDate = "2015-11-11T09:06:00-05:00"
 slug = "hos-cocktails-a-concert"
 title = "HOS: Cocktails &amp; a concert"
 +++

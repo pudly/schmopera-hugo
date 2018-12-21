@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-08-03T12:39:00-04:00"
+lastmod = "2017-08-03T13:08:00-04:00"
+publishDate = "2017-08-03T13:05:00-04:00"
 slug = "in-review-sweat"
 title = "In review: Sweat"
 +++

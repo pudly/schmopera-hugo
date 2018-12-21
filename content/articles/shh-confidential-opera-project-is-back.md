@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-09-19T19:19:00+01:00"
+lastmod = "2016-09-20T17:37:00+01:00"
+publishDate = "2016-09-20T17:37:00+01:00"
 slug = "shh-confidential-opera-project-is-back"
 title = "Shh! Confidential Opera Project is back!"
 +++

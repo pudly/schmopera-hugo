@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2017-08-17T20:57:00-04:00"
+lastmod = "2017-08-18T11:12:00-04:00"
+publishDate = "2017-08-18T11:12:00-04:00"
 slug = "aria-guides-lieben-hassen"
 title = "Aria guides: &quot;Lieben, Hassen&quot;"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-01-27T21:23:00-05:00"
+lastmod = "2018-01-27T21:23:00-05:00"
+publishDate = "2018-01-27T21:23:00-05:00"
 slug = "steps-forward-for-operas-women-tosca-at-pbo"
 title = "Steps forward for opera&#039;s women: Tosca at PBO"
 +++

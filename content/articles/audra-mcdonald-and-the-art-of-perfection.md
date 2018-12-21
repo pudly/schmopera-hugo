@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-05-21T17:45:00-04:00"
+lastmod = "2018-05-22T08:55:00-04:00"
+publishDate = "2018-05-21T21:11:00-04:00"
 slug = "audra-mcdonald-and-the-art-of-perfection"
 title = "Audra McDonald and the Art of Perfection"
 +++

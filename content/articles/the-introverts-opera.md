@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-04-10T21:39:00-04:00"
+lastmod = "2015-04-10T21:39:00-04:00"
+publishDate = "2015-03-20T15:39:00-04:00"
 slug = "the-introverts-opera"
 title = "The Introvert&#039;s Opera"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-10-11T16:12:00-04:00"
+lastmod = "2017-10-16T19:33:00-04:00"
+publishDate = "2017-10-16T19:33:00-04:00"
 slug = "talking-with-conductors-oliver-zeffman"
 title = "Talking with conductors: Oliver Zeffman"
 +++

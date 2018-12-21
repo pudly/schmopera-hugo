@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-12-18T13:05:00-05:00"
+lastmod = "2015-12-21T09:22:00-05:00"
+publishDate = "2015-12-21T08:00:00-05:00"
 slug = "rehearsing-a-messiah-that-moves"
 title = "Rehearsing &quot;a Messiah that moves.&quot;"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-11-23T12:06:00+00:00"
+lastmod = "2016-11-23T14:42:00+00:00"
+publishDate = "2016-11-23T14:42:00+00:00"
 slug = "this-years-elizabeth-krehm-memorial-concert-a-followup"
 title = "This year&#039;s Elizabeth Krehm Memorial Concert: a follow-up"
 +++

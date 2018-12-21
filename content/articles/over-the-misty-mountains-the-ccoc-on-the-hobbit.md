@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-06-06T09:24:00+01:00"
+lastmod = "2016-06-06T16:13:00+01:00"
+publishDate = "2016-06-06T12:29:00+01:00"
 slug = "over-the-misty-mountains-the-ccoc-on-the-hobbit"
 title = "Over the Misty Mountains: the CCOC on The Hobbit"
 +++

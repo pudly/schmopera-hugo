@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-03-15T08:05:00-04:00"
+lastmod = "2018-03-19T21:21:00-04:00"
+publishDate = "2018-03-17T20:25:00-04:00"
 slug = "talking-with-singers-franco-vassallo"
 title = "Talking with singers: Franco Vassallo"
 +++

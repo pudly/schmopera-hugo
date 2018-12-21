@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-03-19T21:54:00-04:00"
+lastmod = "2018-03-21T11:44:00-04:00"
+publishDate = "2018-03-21T11:44:00-04:00"
 slug = "talking-with-singers-isabel-bayrakdarian"
 title = "Talking with singers: Isabel Bayrakdarian"
 +++

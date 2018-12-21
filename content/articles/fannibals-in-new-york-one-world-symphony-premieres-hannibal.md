@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-10-26T22:42:00-04:00"
+lastmod = "2015-10-27T10:07:00-04:00"
+publishDate = "2015-10-27T09:13:00-04:00"
 slug = "fannibals-in-new-york-one-world-symphony-premieres-hannibal"
 title = "Fannibals in New York: One World Symphony premieres Hannibal"
 +++

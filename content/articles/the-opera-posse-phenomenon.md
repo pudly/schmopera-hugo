@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-11-04T06:06:00-07:00"
+lastmod = "2016-06-17T00:13:00-06:00"
+publishDate = "2014-11-04T06:06:00-07:00"
 slug = "the-opera-posse-phenomenon"
 title = "The Opera Posse Phenomenon"
 +++

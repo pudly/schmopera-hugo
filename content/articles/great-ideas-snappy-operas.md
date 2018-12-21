@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-06-01T13:26:00-06:00"
+lastmod = "2016-07-06T16:13:00-06:00"
+publishDate = "2016-06-02T13:54:00-06:00"
 slug = "great-ideas-snappy-operas"
 title = "Great ideas: Snappy Operas"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-05-04T14:27:00-04:00"
+lastmod = "2015-05-04T15:58:00-04:00"
+publishDate = "2015-05-04T14:56:00-04:00"
 slug = "when-the-people-who-tried-to-shut-down-sdo-got-paid-1m"
 title = "When the people who tried to shut down SDO got paid $1M"
 +++

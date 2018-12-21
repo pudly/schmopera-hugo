@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-07-30T20:16:00+02:00"
+lastmod = "2015-08-12T14:49:00+02:00"
+publishDate = "2015-08-13T13:00:00+02:00"
 slug = "opera-culprits-the-villain-who-thinks-hes-doing-good"
 title = "Opera culprits: the villain who thinks he&#039;s doing good"
 +++

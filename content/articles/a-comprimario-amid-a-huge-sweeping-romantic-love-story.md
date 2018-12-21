@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-05-16T14:08:00-04:00"
+lastmod = "2017-05-17T21:24:00-04:00"
+publishDate = "2017-05-17T20:05:00-04:00"
 slug = "a-comprimario-amid-a-huge-sweeping-romantic-love-story"
 title = "A comprimario amid a &quot;huge, sweeping, romantic love story&quot;"
 +++

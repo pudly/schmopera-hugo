@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-05-06T17:12:00+01:00"
+lastmod = "2016-05-07T12:21:00+01:00"
+publishDate = "2016-05-07T12:21:00+01:00"
 slug = "the-score-how-to-see-what-a-composer-sees"
 title = "The score: how to see what a composer sees"
 +++

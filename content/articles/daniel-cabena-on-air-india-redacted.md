@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-10-09T14:32:00-04:00"
+lastmod = "2015-10-13T09:13:00-04:00"
+publishDate = "2015-10-13T09:04:00-04:00"
 slug = "daniel-cabena-on-air-india-redacted"
 title = "Daniel Cabena on air india [redacted]"
 +++

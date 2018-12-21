@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-03-09T18:08:00+01:00"
+lastmod = "2017-03-10T11:53:00+01:00"
+publishDate = "2017-03-10T11:47:00+01:00"
 slug = "star-opera-singers-timeefficient-or-just-late-to-rehearsal"
 title = "Star opera singers: time-efficient, or just late to rehearsal?"
 +++

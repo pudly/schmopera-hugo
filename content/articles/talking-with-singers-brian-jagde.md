@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-10-26T20:12:00+01:00"
+lastmod = "2016-11-01T14:53:00+00:00"
+publishDate = "2016-11-01T14:33:00+00:00"
 slug = "talking-with-singers-brian-jagde"
 title = "Talking with singers: Brian Jagde"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-03-20T13:19:00+00:00"
+lastmod = "2016-03-20T15:08:00+00:00"
+publishDate = "2016-03-20T14:55:00+00:00"
 slug = "still-stunning-written-on-skin"
 title = "Still stunning: Written on Skin"
 +++

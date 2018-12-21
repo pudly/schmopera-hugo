@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-02-06T12:31:00+00:00"
+lastmod = "2017-02-08T15:20:00+00:00"
+publishDate = "2017-02-08T15:05:00+00:00"
 slug = "dont-miss-women-who-write"
 title = "Don&#039;t miss: Women Who Write"
 +++

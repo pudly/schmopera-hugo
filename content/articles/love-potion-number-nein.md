@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-05-20T21:47:00-04:00"
+lastmod = "2018-05-20T21:47:00-04:00"
+publishDate = "2018-05-20T21:47:00-04:00"
 slug = "love-potion-number-nein"
 title = "Love Potion Number Nein"
 +++

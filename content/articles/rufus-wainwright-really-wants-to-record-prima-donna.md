@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-08-18T14:56:00-04:00"
+lastmod = "2015-04-16T22:29:00-04:00"
+publishDate = "2014-08-18T14:56:00-04:00"
 slug = "rufus-wainwright-really-wants-to-record-prima-donna"
 title = "Rufus Wainwright really wants to record Prima Donna"
 +++

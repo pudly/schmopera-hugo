@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-07-24T20:34:00-04:00"
+lastmod = "2017-07-25T12:17:00-04:00"
+publishDate = "2017-07-25T12:07:00-04:00"
 slug = "4-unwritten-skills-professional-singers-need"
 title = "4 unwritten skills professional singers need"
 +++

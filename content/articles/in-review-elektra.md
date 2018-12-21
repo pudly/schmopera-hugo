@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-11-25T10:43:00-05:00"
+lastmod = "2015-11-25T11:47:00-05:00"
+publishDate = "2015-11-25T11:47:00-05:00"
 slug = "in-review-elektra"
 title = "In review: Elektra"
 +++

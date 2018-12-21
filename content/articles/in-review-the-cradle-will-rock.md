@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-07-14T14:08:00-04:00"
+lastmod = "2017-07-15T13:31:00-04:00"
+publishDate = "2017-07-15T13:24:00-04:00"
 slug = "in-review-the-cradle-will-rock"
 title = "In review: The Cradle Will Rock"
 +++

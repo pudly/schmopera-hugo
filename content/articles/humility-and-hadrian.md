@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-01-05T18:26:00-05:00"
+lastmod = "2015-04-28T23:10:00-04:00"
+publishDate = "2014-01-05T18:26:00-05:00"
 slug = "humility-and-hadrian"
 title = "Humility and Hadrian"
 +++

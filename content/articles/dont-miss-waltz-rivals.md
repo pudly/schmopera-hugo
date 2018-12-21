@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-11-04T14:42:00+00:00"
+lastmod = "2016-11-04T15:12:00+00:00"
+publishDate = "2016-11-04T15:06:00+00:00"
 slug = "dont-miss-waltz-rivals"
 title = "Don&#039;t miss: Waltz Rivals"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-11-03T14:55:00+00:00"
+lastmod = "2016-11-05T15:04:00+00:00"
+publishDate = "2016-11-05T14:43:00+00:00"
 slug = "joel-ivany-were-throwing-a-salon"
 title = "Joel Ivany: &quot;We&#039;re throwing a salon.&quot;"
 +++

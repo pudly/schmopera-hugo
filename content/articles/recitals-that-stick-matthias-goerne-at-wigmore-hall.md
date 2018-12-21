@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-06-09T10:52:00+01:00"
+lastmod = "2016-06-10T09:40:00+01:00"
+publishDate = "2016-06-10T09:28:00+01:00"
 slug = "recitals-that-stick-matthias-goerne-at-wigmore-hall"
 title = "Recitals that stick: Matthias Goerne at Wigmore Hall"
 +++

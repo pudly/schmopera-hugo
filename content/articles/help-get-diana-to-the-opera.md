@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-01-12T10:11:00-05:00"
+lastmod = "2015-04-11T23:30:00-04:00"
+publishDate = "2015-01-12T10:11:00-05:00"
 slug = "help-get-diana-to-the-opera"
 title = "Help Get Diana to the Opera"
 +++

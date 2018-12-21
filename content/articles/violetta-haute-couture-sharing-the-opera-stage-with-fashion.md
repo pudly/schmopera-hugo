@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-05-22T20:33:00+01:00"
+lastmod = "2016-05-23T10:01:00+01:00"
+publishDate = "2016-05-22T21:34:00+01:00"
 slug = "violetta-haute-couture-sharing-the-opera-stage-with-fashion"
 title = "Violetta, haute couture, &amp; sharing the opera stage with fashion"
 +++

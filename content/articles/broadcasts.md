@@ -1,4 +1,7 @@
 +++
+date = "2016-07-20T17:38:00-04:00"
+lastmod = "2016-07-20T17:38:00-04:00"
+publishDate = "undefined"
 slug = "broadcasts"
 title = "Broadcasts"
 +++

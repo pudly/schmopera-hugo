@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-02-08T22:07:00-05:00"
+lastmod = "2017-11-30T21:05:00-05:00"
+publishDate = "2016-02-15T10:37:00-05:00"
 slug = "music-the-musicians-therapy-except-when-its-not"
 title = "Music: the musician&#039;s therapy, except when it&#039;s not"
 +++

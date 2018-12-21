@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2017-05-12T15:58:00-04:00"
+lastmod = "2018-05-12T20:27:00-04:00"
+publishDate = "2017-05-13T09:07:00-04:00"
 slug = "5-opera-mothers-from-hell"
 title = "5 opera mothers from hell"
 +++

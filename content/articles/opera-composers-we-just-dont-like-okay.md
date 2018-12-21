@@ -1,4 +1,7 @@
 +++
+date = "2017-01-31T12:32:00+00:00"
+lastmod = "2017-01-31T14:12:00+00:00"
+publishDate = "2017-01-31T14:12:00+00:00"
 slug = "opera-composers-we-just-dont-like-okay"
 title = "Opera composers we just don&#039;t like, okay?"
 +++

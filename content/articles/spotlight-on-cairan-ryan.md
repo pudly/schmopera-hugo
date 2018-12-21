@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-09-22T19:21:00-04:00"
+lastmod = "2015-09-23T20:19:00-04:00"
+publishDate = "2015-09-24T08:00:00-04:00"
 slug = "spotlight-on-cairan-ryan"
 title = "Spotlight on: Cairan Ryan"
 +++

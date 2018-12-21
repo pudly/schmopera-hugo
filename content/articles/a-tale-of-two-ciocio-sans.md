@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-10-31T09:00:00-04:00"
+lastmod = "2015-04-13T23:38:00-04:00"
+publishDate = "2014-10-31T09:00:00-04:00"
 slug = "a-tale-of-two-ciocio-sans"
 title = "A Tale of Two Cio-Cio Sans"
 +++

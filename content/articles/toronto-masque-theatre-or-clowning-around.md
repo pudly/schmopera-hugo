@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-04-10T22:44:00-04:00"
+lastmod = "2015-04-12T19:44:00-04:00"
+publishDate = "2015-03-10T10:44:00-04:00"
 slug = "toronto-masque-theatre-or-clowning-around"
 title = "Toronto Masque Theatre, or Clowning Around"
 +++

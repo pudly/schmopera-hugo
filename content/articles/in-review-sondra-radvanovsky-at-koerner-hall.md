@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-12-05T11:24:00-05:00"
+lastmod = "2015-12-05T12:02:00-05:00"
+publishDate = "2015-12-05T11:59:00-05:00"
 slug = "in-review-sondra-radvanovsky-at-koerner-hall"
 title = "In review: Sondra Radvanovsky at Koerner Hall"
 +++

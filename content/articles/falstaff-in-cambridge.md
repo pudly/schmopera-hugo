@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-12-07T12:42:00+00:00"
+lastmod = "2016-12-07T17:58:00+00:00"
+publishDate = "2016-12-07T15:00:00+00:00"
 slug = "falstaff-in-cambridge"
 title = "Falstaff in Cambridge"
 +++

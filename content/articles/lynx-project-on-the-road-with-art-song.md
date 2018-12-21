@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-10-15T11:03:00-04:00"
+lastmod = "2015-10-17T13:03:00-04:00"
+publishDate = "2015-10-17T09:00:00-04:00"
 slug = "lynx-project-on-the-road-with-art-song"
 title = "Lynx Project: on the road with art song"
 +++

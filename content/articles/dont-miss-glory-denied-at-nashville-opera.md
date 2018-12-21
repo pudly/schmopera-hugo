@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-11-02T09:45:00+00:00"
+lastmod = "2016-11-07T12:29:00+00:00"
+publishDate = "2016-11-07T12:29:00+00:00"
 slug = "dont-miss-glory-denied-at-nashville-opera"
 title = "Don&#039;t miss: Glory Denied at Nashville Opera"
 +++

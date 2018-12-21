@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-10-21T21:27:00-04:00"
+lastmod = "2018-10-22T08:21:00-04:00"
+publishDate = "2018-10-21T21:27:00-04:00"
 slug = "vos-merry-widow-a-comedic-tourdeforce"
 title = "VO&#039;s Merry Widow a comedic tour-de-force"
 +++

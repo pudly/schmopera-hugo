@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-11-04T13:36:00-05:00"
+lastmod = "2018-11-05T07:18:00-05:00"
+publishDate = "2018-11-04T21:04:00-05:00"
 slug = "veggies-in-the-morning-and-melodies-throughout-the-day"
 title = "&quot;Veggies in the morning, and melodies throughout the day&quot;"
 +++

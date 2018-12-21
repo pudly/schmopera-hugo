@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-12-28T11:46:00-05:00"
+lastmod = "2017-12-28T21:20:00-05:00"
+publishDate = "2017-12-28T12:44:00-05:00"
 slug = "the-beginning-of-the-end-of-my-dream"
 title = "The beginning of the end of my dream"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-02-17T20:30:00-05:00"
+lastmod = "2016-02-18T10:50:00-05:00"
+publishDate = "2016-02-18T10:50:00-05:00"
 slug = "whats-on-at-the-met-201617"
 title = "What&#039;s on at the Met: 2016/17"
 +++

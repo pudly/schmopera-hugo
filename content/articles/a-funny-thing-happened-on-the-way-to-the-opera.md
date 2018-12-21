@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-03-01T14:40:00+00:00"
+lastmod = "2016-03-01T15:55:00+00:00"
+publishDate = "2016-03-01T15:45:00+00:00"
 slug = "a-funny-thing-happened-on-the-way-to-the-opera"
 title = "A funny thing happened on the way to the opera"
 +++

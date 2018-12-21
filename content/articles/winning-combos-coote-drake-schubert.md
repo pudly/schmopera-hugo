@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-12-11T21:01:00-05:00"
+lastmod = "2017-12-11T22:15:00-05:00"
+publishDate = "2017-12-11T21:01:00-05:00"
 slug = "winning-combos-coote-drake-schubert"
 title = "Winning combos: Coote, Drake, &amp; Schubert"
 +++

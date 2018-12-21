@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-04-24T17:22:00+01:00"
+lastmod = "2016-04-26T09:33:00+01:00"
+publishDate = "2016-04-26T09:25:00+01:00"
 slug = "opera-lovers-their-unpopular-opinions"
 title = "Opera lovers &amp; their unpopular opinions"
 +++

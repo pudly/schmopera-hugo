@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-10-11T12:13:00-04:00"
+lastmod = "2017-10-14T21:52:00-04:00"
+publishDate = "2017-10-14T21:52:00-04:00"
 slug = "dont-miss-oshawa-operas-201718-season"
 title = "Don&#039;t miss: Oshawa Opera&#039;s 2017/18 season"
 +++

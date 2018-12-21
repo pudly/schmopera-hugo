@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-06-19T16:57:00-06:00"
+lastmod = "2016-06-22T11:16:00-06:00"
+publishDate = "2016-06-21T20:08:00-06:00"
 slug = "art-imitating-life-pat-emilia"
 title = "Art imitating life: Pat &amp; Emilia"
 +++

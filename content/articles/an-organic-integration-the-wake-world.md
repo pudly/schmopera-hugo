@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-19T14:54:00-04:00"
+lastmod = "2017-09-19T22:20:00-04:00"
+publishDate = "2017-09-19T21:25:00-04:00"
 slug = "an-organic-integration-the-wake-world"
 title = "An organic integration: The Wake World"
 +++

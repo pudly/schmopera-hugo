@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-11-16T10:28:00-05:00"
+lastmod = "2018-11-16T10:34:00-05:00"
+publishDate = "2018-11-16T10:33:00-05:00"
 slug = "starcrossd-lovers-cross-artistic-lines-in-new-coproduction"
 title = "&quot;Star-cross&#039;d lovers&quot; cross artistic lines in new co-production"
 +++

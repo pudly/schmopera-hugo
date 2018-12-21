@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-04-22T09:55:00-04:00"
+lastmod = "2015-04-25T15:12:00-04:00"
+publishDate = "2015-04-22T11:00:00-04:00"
 slug = "is-opera-really-for-everyone"
 title = "Is opera really for everyone?"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-06-10T12:03:00+01:00"
+lastmod = "2016-06-11T12:54:00+01:00"
+publishDate = "2016-06-11T12:02:00+01:00"
 slug = "in-review-tristan-and-isolde-at-eno"
 title = "In review: Tristan and Isolde at ENO"
 +++

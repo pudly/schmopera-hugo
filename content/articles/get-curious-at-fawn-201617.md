@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-11-15T16:24:00+00:00"
+lastmod = "2016-11-18T14:37:00+00:00"
+publishDate = "2016-11-18T14:37:00+00:00"
 slug = "get-curious-at-fawn-201617"
 title = "Get curious at FAWN 2016/17"
 +++

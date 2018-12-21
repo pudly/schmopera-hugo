@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-01-13T15:11:00-05:00"
+lastmod = "2015-04-11T23:25:00-04:00"
+publishDate = "2015-01-13T15:11:00-05:00"
 slug = "if-opera-characters-went-to-the-opera"
 title = "If opera characters went to the opera"
 +++

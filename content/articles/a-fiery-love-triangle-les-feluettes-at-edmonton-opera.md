@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-23T14:09:00-04:00"
+lastmod = "2017-10-24T12:08:00-04:00"
+publishDate = "2017-10-23T15:25:00-04:00"
 slug = "a-fiery-love-triangle-les-feluettes-at-edmonton-opera"
 title = "A fiery love triangle: Les feluettes at Edmonton Opera"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-12-21T17:32:00-05:00"
+lastmod = "2015-12-27T19:05:00-05:00"
+publishDate = "2015-12-27T10:25:00-05:00"
 slug = "roundup-2015"
 title = "Roundup, 2015"
 +++

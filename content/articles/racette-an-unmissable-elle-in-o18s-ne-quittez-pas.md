@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-09-23T20:33:00-04:00"
+lastmod = "2018-09-23T20:33:00-04:00"
+publishDate = "2018-09-23T20:33:00-04:00"
 slug = "racette-an-unmissable-elle-in-o18s-ne-quittez-pas"
 title = "Racette an unmissable Elle in O18&#039;s Ne Quittez Pas"
 +++

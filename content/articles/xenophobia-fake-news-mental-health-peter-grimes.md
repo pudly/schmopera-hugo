@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-09T11:45:00-04:00"
+lastmod = "2017-10-09T21:57:00-04:00"
+publishDate = "2017-10-09T19:22:00-04:00"
 slug = "xenophobia-fake-news-mental-health-peter-grimes"
 title = "Xenophobia, Fake News, &amp; Mental Health: Peter Grimes"
 +++

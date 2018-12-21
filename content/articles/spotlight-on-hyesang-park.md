@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-06-09T16:51:00-06:00"
+lastmod = "2017-06-18T22:16:00-06:00"
+publishDate = "2017-06-18T21:58:00-06:00"
 slug = "spotlight-on-hyesang-park"
 title = "Spotlight on: Hyesang Park"
 +++

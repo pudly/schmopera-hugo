@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-05-14T20:41:00-04:00"
+lastmod = "2018-05-14T21:25:00-04:00"
+publishDate = "2018-05-14T21:25:00-04:00"
 slug = "5-frankensteinthemed-shorts-leave-you-wanting-more"
 title = "5 Frankenstein-themed shorts leave you wanting more"
 +++

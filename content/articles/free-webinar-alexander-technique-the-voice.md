@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-08-28T16:02:00+01:00"
+lastmod = "2016-08-30T21:02:00+01:00"
+publishDate = "2016-08-31T08:00:00+01:00"
 slug = "free-webinar-alexander-technique-the-voice"
 title = "Free webinar: Alexander Technique &amp; the voice"
 +++

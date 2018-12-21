@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-06-19T12:41:00-04:00"
+lastmod = "2015-06-20T10:42:00-04:00"
+publishDate = "2015-06-20T10:42:00-04:00"
 slug = "a-summer-surprise"
 title = "A summer surprise"
 +++

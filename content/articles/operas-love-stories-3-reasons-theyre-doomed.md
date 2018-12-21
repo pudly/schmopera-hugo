@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-02-13T13:03:00-05:00"
+lastmod = "2018-02-13T21:13:00-05:00"
+publishDate = "2016-02-14T08:00:00-05:00"
 slug = "operas-love-stories-3-reasons-theyre-doomed"
 title = "Opera&#039;s love stories: 3 reasons they&#039;re doomed"
 +++

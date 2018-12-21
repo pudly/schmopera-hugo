@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-08-31T14:30:00-04:00"
+lastmod = "2017-09-07T21:39:00-04:00"
+publishDate = "2017-09-07T21:39:00-04:00"
 slug = "the-voice-teacher-series-mitchell-hutchings"
 title = "The voice teacher series: Mitchell Hutchings"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-03-12T21:42:00-04:00"
+lastmod = "2018-03-14T10:44:00-04:00"
+publishDate = "2018-03-13T20:21:00-04:00"
 slug = "a-futuristic-love-story-the-invention-of-morel"
 title = "A futuristic love story: The Invention of Morel"
 +++

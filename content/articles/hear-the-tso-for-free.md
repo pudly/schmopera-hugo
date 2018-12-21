@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-06-17T15:17:00-04:00"
+lastmod = "2015-06-18T16:22:00-04:00"
+publishDate = "2015-06-18T16:22:00-04:00"
 slug = "hear-the-tso-for-free"
 title = "Hear the TSO for free!"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-03-13T09:47:00+00:00"
+lastmod = "2017-03-14T09:40:00+00:00"
+publishDate = "2017-03-14T09:40:00+00:00"
 slug = "rose-bruford-college-we-are-absolutely-unique"
 title = "Rose Bruford College: &quot;We are absolutely unique.&quot;"
 +++

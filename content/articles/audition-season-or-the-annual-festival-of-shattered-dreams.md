@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-10-08T14:23:00-04:00"
+lastmod = "2017-08-02T21:42:00-04:00"
+publishDate = "2016-10-11T04:00:00-04:00"
 slug = "audition-season-or-the-annual-festival-of-shattered-dreams"
 title = "Audition season, or the annual Festival of Shattered Dreams"
 +++

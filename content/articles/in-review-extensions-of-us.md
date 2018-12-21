@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-11-16T10:00:00-05:00"
+lastmod = "2015-04-13T23:09:00-04:00"
+publishDate = "2014-11-16T10:00:00-05:00"
 slug = "in-review-extensions-of-us"
 title = "In review: Extensions of Us"
 +++

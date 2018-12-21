@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2017-09-29T11:39:00-04:00"
+lastmod = "2017-09-29T21:50:00-04:00"
+publishDate = "2017-09-29T21:33:00-04:00"
 slug = "tick-tock-singers-3-spots-to-ditch-the-rubato-for-now"
 title = "Tick tock, singers! 3 spots to ditch the rubato (for now)"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-25T10:00:00-04:00"
+lastmod = "2017-09-25T13:00:00-04:00"
+publishDate = "2017-09-25T10:28:00-04:00"
 slug = "organic-elegance-orphe-et-eurydice-in-chicago"
 title = "Organic elegance: Orphée et Eurydice in Chicago"
 +++

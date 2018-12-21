@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-10T11:03:00-04:00"
+lastmod = "2017-10-02T12:43:00-04:00"
+publishDate = "2017-07-11T23:37:00-04:00"
 slug = "how-lucky-are-we-the-children-of-opera"
 title = "&quot;How lucky are we, the children of opera?&quot;"
 +++

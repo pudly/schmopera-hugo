@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-09-19T10:15:00+01:00"
+lastmod = "2016-09-19T13:39:00+01:00"
+publishDate = "2016-09-19T13:00:00+01:00"
 slug = "music-religion-irony"
 title = "Music, religion, &amp; irony"
 +++

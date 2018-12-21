@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-12-03T19:47:00+00:00"
+lastmod = "2016-12-05T15:20:00+00:00"
+publishDate = "2016-12-05T14:30:00+00:00"
 slug = "schmopera-is-three"
 title = "Schmopera is three!"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-03-12T22:34:00-04:00"
+lastmod = "2018-03-14T20:01:00-04:00"
+publishDate = "2018-03-14T20:01:00-04:00"
 slug = "orpheus-eurydice-in-the-hands-of-a-theatrical-genius"
 title = "Orpheus &amp; Eurydice in the hands of a theatrical genius"
 +++

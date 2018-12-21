@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-08-15T09:59:00+01:00"
+lastmod = "2016-08-15T11:16:00+01:00"
+publishDate = "2016-08-15T11:04:00+01:00"
 slug = "new-roles-janaka-welihinda-of-myopera"
 title = "New roles: Janaka Welihinda of MYOpera"
 +++

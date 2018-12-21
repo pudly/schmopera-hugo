@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-10-27T17:44:00-04:00"
+lastmod = "2015-10-29T09:35:00-04:00"
+publishDate = "2015-10-29T08:00:00-04:00"
 slug = "go-see-this-tapex-metallurgy"
 title = "Go see this: Tap:Ex Metallurgy"
 +++

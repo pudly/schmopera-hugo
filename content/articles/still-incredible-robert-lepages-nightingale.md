@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-05-04T11:23:00-04:00"
+lastmod = "2018-05-04T11:38:00-04:00"
+publishDate = "2018-05-04T11:38:00-04:00"
 slug = "still-incredible-robert-lepages-nightingale"
 title = "&quot;Still incredible&quot;: Robert Lepage&#039;s Nightingale"
 +++

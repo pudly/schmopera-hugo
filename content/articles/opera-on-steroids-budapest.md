@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-06-11T20:47:00-04:00"
+lastmod = "2015-06-13T13:14:00-04:00"
+publishDate = "2015-06-13T10:45:00-04:00"
 slug = "opera-on-steroids-budapest"
 title = "Opera on Steroids: Budapest!"
 +++

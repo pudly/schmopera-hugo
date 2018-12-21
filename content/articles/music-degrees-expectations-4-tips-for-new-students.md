@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2017-07-30T10:22:00-04:00"
+lastmod = "2017-07-31T22:00:00-04:00"
+publishDate = "2017-07-31T22:00:00-04:00"
 slug = "music-degrees-expectations-4-tips-for-new-students"
 title = "Music degrees &amp; expectations: 4 tips for new students"
 +++

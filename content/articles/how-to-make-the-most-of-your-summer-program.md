@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-05-28T15:01:00-04:00"
+lastmod = "2017-05-18T10:20:00-04:00"
+publishDate = "2015-05-29T08:21:00-04:00"
 slug = "how-to-make-the-most-of-your-summer-program"
 title = "How to make the most of your summer program"
 +++

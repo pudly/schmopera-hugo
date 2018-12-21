@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-10-26T19:19:00+01:00"
+lastmod = "2016-11-03T12:06:00+00:00"
+publishDate = "2016-11-03T12:06:00+00:00"
 slug = "talking-with-singers-kate-lindsey"
 title = "Talking with singers: Kate Lindsey"
 +++

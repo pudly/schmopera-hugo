@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-10T21:56:00-04:00"
+lastmod = "2017-10-11T13:19:00-04:00"
+publishDate = "2017-10-11T11:27:00-04:00"
 slug = "don-pasquale-a-colorful-season-starter-at-minnesota-opera"
 title = "Don Pasquale: a colorful season starter at Minnesota Opera"
 +++

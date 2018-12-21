@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-05-29T19:23:00-04:00"
+lastmod = "2018-05-30T11:18:00-04:00"
+publishDate = "2018-05-30T11:18:00-04:00"
 slug = "merrily-the-rakes-progress-rolls-along"
 title = "Merrily The Rake&#039;s Progress rolls along"
 +++

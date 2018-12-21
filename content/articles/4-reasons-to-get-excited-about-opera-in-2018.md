@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2018-01-08T21:06:00-05:00"
+lastmod = "2018-01-08T21:06:00-05:00"
+publishDate = "2018-01-08T21:06:00-05:00"
 slug = "4-reasons-to-get-excited-about-opera-in-2018"
 title = "4 reasons to get excited about opera in 2018"
 +++

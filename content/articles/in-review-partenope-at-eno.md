@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-03-16T09:26:00+00:00"
+lastmod = "2017-03-17T10:03:00+00:00"
+publishDate = "2017-03-17T09:42:00+00:00"
 slug = "in-review-partenope-at-eno"
 title = "In review: Partenope at ENO"
 +++

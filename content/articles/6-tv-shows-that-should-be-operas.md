@@ -1,4 +1,7 @@
 +++
+date = "2014-08-11T12:03:00-04:00"
+lastmod = "2015-04-16T23:01:00-04:00"
+publishDate = "2014-08-11T12:03:00-04:00"
 slug = "6-tv-shows-that-should-be-operas"
 title = "6 TV shows that should be operas"
 +++

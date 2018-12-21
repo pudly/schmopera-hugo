@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-08-29T14:27:00+01:00"
+lastmod = "2016-09-04T11:40:00+01:00"
+publishDate = "undefined"
 slug = "bo-burnham-live-theatre"
 title = "Bo Burnham, live theatre"
 +++

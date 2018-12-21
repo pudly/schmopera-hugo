@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2018-05-12T09:10:00-04:00"
+lastmod = "2018-05-15T09:51:00-04:00"
+publishDate = "2018-05-12T14:44:00-04:00"
 slug = "dont-miss-the-love-potion"
 title = "Don&#039;t miss: The Love Potion"
 +++

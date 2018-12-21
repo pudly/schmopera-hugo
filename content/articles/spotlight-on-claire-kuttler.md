@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-07-21T15:47:00-04:00"
+lastmod = "2016-07-26T08:11:00-04:00"
+publishDate = "2016-07-26T08:05:00-04:00"
 slug = "spotlight-on-claire-kuttler"
 title = "Spotlight on: Claire Kuttler"
 +++

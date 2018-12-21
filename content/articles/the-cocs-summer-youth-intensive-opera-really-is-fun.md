@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2014-06-11T07:45:00-04:00"
+lastmod = "2015-04-23T16:16:00-04:00"
+publishDate = "2014-06-11T07:45:00-04:00"
 slug = "the-cocs-summer-youth-intensive-opera-really-is-fun"
 title = "The COC&#039;s Summer Youth Intensive: Opera really is fun!"
 +++

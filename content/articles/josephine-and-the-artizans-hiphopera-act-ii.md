@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-06-18T13:38:00-06:00"
+lastmod = "2017-06-28T07:10:00-06:00"
+publishDate = "2017-06-27T20:53:00-06:00"
 slug = "josephine-and-the-artizans-hiphopera-act-ii"
 title = "Josephine and The Artizans&#039; HipHopera: Act II"
 +++

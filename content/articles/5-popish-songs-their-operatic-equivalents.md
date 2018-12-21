@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-05-17T09:55:00+01:00"
+lastmod = "2016-05-18T08:03:00+01:00"
+publishDate = "2016-05-17T11:45:00+01:00"
 slug = "5-popish-songs-their-operatic-equivalents"
 title = "5 pop(ish) songs &amp; their operatic equivalents"
 +++

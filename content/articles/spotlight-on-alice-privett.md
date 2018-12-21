@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-06-29T18:14:00-06:00"
+lastmod = "2017-06-30T23:02:00-06:00"
+publishDate = "2017-06-30T23:02:00-06:00"
 slug = "spotlight-on-alice-privett"
 title = "Spotlight on: Alice Privett"
 +++

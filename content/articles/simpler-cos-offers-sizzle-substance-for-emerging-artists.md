@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-05-04T18:40:00-04:00"
+lastmod = "2018-05-04T20:50:00-04:00"
+publishDate = "2018-05-04T20:50:00-04:00"
 slug = "simpler-cos-offers-sizzle-substance-for-emerging-artists"
 title = "Simpler Così offers sizzle &amp; substance for Emerging Artists"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-08-29T18:28:00+01:00"
+lastmod = "2016-09-01T08:45:00+01:00"
+publishDate = "2016-09-01T08:45:00+01:00"
 slug = "talking-with-singers-russell-thomas"
 title = "Talking with singers: Russell Thomas"
 +++

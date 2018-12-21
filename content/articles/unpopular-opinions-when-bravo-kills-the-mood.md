@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-03-19T11:23:00+00:00"
+lastmod = "2017-03-19T12:11:00+00:00"
+publishDate = "2017-03-19T12:11:00+00:00"
 slug = "unpopular-opinions-when-bravo-kills-the-mood"
 title = "Unpopular opinions: when &quot;bravo!&quot; kills the mood"
 +++

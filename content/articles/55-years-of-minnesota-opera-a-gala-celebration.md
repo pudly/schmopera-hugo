@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-02T13:14:00-04:00"
+lastmod = "2017-10-03T13:11:00-04:00"
+publishDate = "2017-10-03T13:11:00-04:00"
 slug = "55-years-of-minnesota-opera-a-gala-celebration"
 title = "55 years of Minnesota Opera: a gala celebration"
 +++

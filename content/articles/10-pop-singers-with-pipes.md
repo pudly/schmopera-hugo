@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-01-04T22:00:00-05:00"
+lastmod = "2016-01-06T13:50:00-05:00"
+publishDate = "2016-01-06T09:40:00-05:00"
 slug = "10-pop-singers-with-pipes"
 title = "10 pop singers with pipes"
 +++

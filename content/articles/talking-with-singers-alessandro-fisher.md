@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-02-26T12:11:00+00:00"
+lastmod = "2017-03-01T10:22:00+00:00"
+publishDate = "2017-03-01T09:51:00+00:00"
 slug = "talking-with-singers-alessandro-fisher"
 title = "Talking with singers: Alessandro Fisher"
 +++

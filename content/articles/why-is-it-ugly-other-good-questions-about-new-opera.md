@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-05-29T20:01:00-04:00"
+lastmod = "2017-05-29T21:14:00-04:00"
+publishDate = "2017-05-29T21:14:00-04:00"
 slug = "why-is-it-ugly-other-good-questions-about-new-opera"
 title = "&quot;Why is it ugly?&quot; &amp; other good questions about new opera"
 +++

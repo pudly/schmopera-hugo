@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2014-02-10T15:04:00-05:00"
+lastmod = "2015-04-28T21:58:00-04:00"
+publishDate = "2014-02-10T15:04:00-05:00"
 slug = "online-music-is-obscuring-opera"
 title = "Online Music is Obscuring Opera"
 +++

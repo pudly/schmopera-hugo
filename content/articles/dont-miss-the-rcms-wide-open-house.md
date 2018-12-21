@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-06-11T16:26:00-06:00"
+lastmod = "2017-06-12T22:15:00-06:00"
+publishDate = "2017-06-12T21:47:00-06:00"
 slug = "dont-miss-the-rcms-wide-open-house"
 title = "Don&#039;t miss: the RCM&#039;s Wide Open House"
 +++

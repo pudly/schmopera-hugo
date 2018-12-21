@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-04-10T20:26:00-04:00"
+lastmod = "2015-04-10T20:26:00-04:00"
+publishDate = "2015-04-09T15:26:00-04:00"
 slug = "lieder-for-lunch-the-coc-ensemble-studio-in-recital"
 title = "Lieder for Lunch: the COC Ensemble Studio in Recital"
 +++

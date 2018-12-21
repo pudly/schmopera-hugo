@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-01-09T21:48:00-05:00"
+lastmod = "2016-01-10T16:21:00-05:00"
+publishDate = "2016-01-10T16:17:00-05:00"
 slug = "8-contemporary-roles-to-covet"
 title = "8 contemporary roles to covet"
 +++

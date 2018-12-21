@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-09-13T16:47:00-04:00"
+lastmod = "2017-09-14T22:03:00-04:00"
+publishDate = "2017-09-14T21:45:00-04:00"
 slug = "rhoda-and-the-fossil-hunt-where-opera-meets-science"
 title = "Rhoda and the Fossil Hunt: where opera meets science"
 +++

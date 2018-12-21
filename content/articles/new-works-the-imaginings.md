@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-07-13T11:24:00-04:00"
+lastmod = "2016-07-19T10:29:00-04:00"
+publishDate = "2016-07-16T00:11:00-04:00"
 slug = "new-works-the-imaginings"
 title = "New works: The Imaginings"
 +++

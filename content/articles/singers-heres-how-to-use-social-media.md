@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-04-22T21:31:00+01:00"
+lastmod = "2016-10-31T09:56:00+00:00"
+publishDate = "2015-05-05T13:50:00+01:00"
 slug = "singers-heres-how-to-use-social-media"
 title = "Singers: here&#039;s how to use social media"
 +++

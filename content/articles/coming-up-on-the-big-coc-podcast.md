@@ -1,4 +1,7 @@
 +++
+date = "2014-03-07T09:00:00-05:00"
+lastmod = "2015-04-16T15:56:00-04:00"
+publishDate = "2014-03-07T09:00:00-05:00"
 slug = "coming-up-on-the-big-coc-podcast"
 title = "Coming up on The Big COC Podcast..."
 +++

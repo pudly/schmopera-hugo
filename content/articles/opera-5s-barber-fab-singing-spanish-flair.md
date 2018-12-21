@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-06-14T13:03:00-04:00"
+lastmod = "2018-06-14T13:50:00-04:00"
+publishDate = "2018-06-14T13:03:00-04:00"
 slug = "opera-5s-barber-fab-singing-spanish-flair"
 title = "Opera 5&#039;s Barber: fab singing &amp; Spanish flair"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-01-14T15:22:00-05:00"
+lastmod = "2016-01-17T12:08:00-05:00"
+publishDate = "2016-01-17T12:08:00-05:00"
 slug = "dont-miss-dmitri-hvorostovky-at-koerner-hall"
 title = "Don&#039;t miss: Dmitri Hvorostovky at Koerner Hall"
 +++

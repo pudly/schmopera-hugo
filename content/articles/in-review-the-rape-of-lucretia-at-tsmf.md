@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-07-24T10:10:00-04:00"
+lastmod = "2016-07-25T09:34:00-04:00"
+publishDate = "2016-07-24T10:45:00-04:00"
 slug = "in-review-the-rape-of-lucretia-at-tsmf"
 title = "In review: The Rape of Lucretia at TSMF"
 +++

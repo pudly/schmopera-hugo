@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-04-29T15:46:00-04:00"
+lastmod = "2017-08-16T22:45:00-04:00"
+publishDate = "2016-04-30T06:48:00-04:00"
 slug = "4-weird-questions-for-opera-singers"
 title = "4 weird questions for opera singers"
 +++

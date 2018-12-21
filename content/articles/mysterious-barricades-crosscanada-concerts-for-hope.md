@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-09-03T19:53:00+02:00"
+lastmod = "2016-09-06T23:14:00+02:00"
+publishDate = "2016-09-06T11:09:00+02:00"
 slug = "mysterious-barricades-crosscanada-concerts-for-hope"
 title = "Mysterious Barricades: Cross-Canada concerts for hope"
 +++

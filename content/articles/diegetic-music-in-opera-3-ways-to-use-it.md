@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2017-02-22T13:53:00+00:00"
+lastmod = "2017-02-25T11:00:00+00:00"
+publishDate = "2017-02-25T10:50:00+00:00"
 slug = "diegetic-music-in-opera-3-ways-to-use-it"
 title = "Diegetic music in opera: 3 ways to use it"
 +++

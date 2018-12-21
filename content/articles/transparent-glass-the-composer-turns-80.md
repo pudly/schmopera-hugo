@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-01-29T11:02:00+00:00"
+lastmod = "2017-01-30T10:45:00+00:00"
+publishDate = "2017-01-30T10:35:00+00:00"
 slug = "transparent-glass-the-composer-turns-80"
 title = "Transparent Glass: the composer turns 80"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-06-16T10:12:00-04:00"
+lastmod = "2015-06-16T10:42:00-04:00"
+publishDate = "2015-06-16T10:39:00-04:00"
 slug = "breaking-into-the-industry-a-vicious-cycle"
 title = "Breaking into the industry: a vicious cycle?"
 +++

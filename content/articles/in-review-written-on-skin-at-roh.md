@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-01-14T14:53:00+00:00"
+lastmod = "2017-01-19T17:49:00+00:00"
+publishDate = "2017-01-14T16:17:00+00:00"
 slug = "in-review-written-on-skin-at-roh"
 title = "In review: Written On Skin at ROH"
 +++

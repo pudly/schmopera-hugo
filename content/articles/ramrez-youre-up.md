@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-05-09T10:11:00-04:00"
+lastmod = "2015-04-23T20:19:00-04:00"
+publishDate = "2014-05-09T10:11:00-04:00"
 slug = "ramrez-youre-up"
 title = "Ramírez, you&#039;re up."
 +++

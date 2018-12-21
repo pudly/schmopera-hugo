@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-06-30T19:11:00-06:00"
+lastmod = "2015-06-30T22:49:00-06:00"
+publishDate = "2015-07-01T07:00:00-06:00"
 slug = "does-new-opera-raise-the-bar-for-performers"
 title = "Does new opera raise the bar for performers?"
 +++

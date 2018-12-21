@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-12-10T22:28:00+00:00"
+lastmod = "2017-03-25T12:23:00+00:00"
+publishDate = "2015-12-12T14:00:00+00:00"
 slug = "hot-topics-singers-who-scoop"
 title = "Hot topics: singers who scoop"
 +++

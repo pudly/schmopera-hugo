@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-10-24T09:50:00+01:00"
+lastmod = "2016-10-24T11:05:00+01:00"
+publishDate = "2016-10-24T10:31:00+01:00"
 slug = "in-review-jamie-barton-at-wigmore-hall"
 title = "In review: Jamie Barton at Wigmore Hall"
 +++

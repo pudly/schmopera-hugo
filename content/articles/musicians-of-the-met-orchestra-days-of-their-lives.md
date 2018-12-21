@@ -1,4 +1,7 @@
 +++
+date = "2018-06-09T19:07:00-04:00"
+lastmod = "2018-06-09T19:45:00-04:00"
+publishDate = "2018-06-09T19:45:00-04:00"
 slug = "musicians-of-the-met-orchestra-days-of-their-lives"
 title = "Musicians of the MET Orchestra: Days of Their Lives"
 +++

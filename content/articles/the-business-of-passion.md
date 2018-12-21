@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-05-24T08:00:00-04:00"
+lastmod = "2017-08-10T10:34:00-04:00"
+publishDate = "2014-05-24T08:00:00-04:00"
 slug = "the-business-of-passion"
 title = "The Business of Passion"
 +++

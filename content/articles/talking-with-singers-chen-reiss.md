@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-03-20T10:29:00+00:00"
+lastmod = "2017-03-22T16:36:00+00:00"
+publishDate = "2017-03-22T16:34:00+00:00"
 slug = "talking-with-singers-chen-reiss"
 title = "Talking with singers: Chen Reiss"
 +++

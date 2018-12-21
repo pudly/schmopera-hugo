@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-06-03T10:22:00+01:00"
+lastmod = "2016-06-03T14:15:00+01:00"
+publishDate = "2016-06-03T13:12:00+01:00"
 slug = "talking-opera-mythology-with-the-tfco"
 title = "Talking opera &amp; mythology with the TFCO"
 +++

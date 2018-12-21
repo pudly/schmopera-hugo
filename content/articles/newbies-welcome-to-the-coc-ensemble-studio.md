@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-01-17T13:23:00-05:00"
+lastmod = "2015-04-15T17:19:00-04:00"
+publishDate = "2014-01-17T13:23:00-05:00"
 slug = "newbies-welcome-to-the-coc-ensemble-studio"
 title = "Newbies: Welcome to the COC Ensemble Studio!"
 +++

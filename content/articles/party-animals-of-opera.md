@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-12-13T12:42:00-05:00"
+lastmod = "2015-12-14T09:24:00-05:00"
+publishDate = "2015-12-14T08:59:00-05:00"
 slug = "party-animals-of-opera"
 title = "Party animals of opera"
 +++

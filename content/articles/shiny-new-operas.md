@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-01-07T20:01:00-05:00"
+lastmod = "2015-04-28T23:07:00-04:00"
+publishDate = "2014-01-07T20:01:00-05:00"
 slug = "shiny-new-operas"
 title = "Shiny New Operas"
 +++

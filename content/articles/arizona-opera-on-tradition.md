@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-06-05T16:02:00-04:00"
+lastmod = "2015-06-11T18:44:00-04:00"
+publishDate = "2015-06-11T18:37:00-04:00"
 slug = "arizona-opera-on-tradition"
 title = "Arizona Opera, on tradition"
 +++

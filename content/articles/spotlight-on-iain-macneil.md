@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-06-12T15:38:00-06:00"
+lastmod = "2017-06-16T22:19:00-06:00"
+publishDate = "2017-06-16T22:19:00-06:00"
 slug = "spotlight-on-iain-macneil"
 title = "Spotlight on: Iain MacNeil"
 +++

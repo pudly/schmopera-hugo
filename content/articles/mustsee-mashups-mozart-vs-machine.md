@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-08-17T10:03:00-04:00"
+lastmod = "2017-08-30T09:52:00-04:00"
+publishDate = "2017-08-20T20:07:00-04:00"
 slug = "mustsee-mashups-mozart-vs-machine"
 title = "Must-see mash-ups: Mozart vs Machine"
 +++

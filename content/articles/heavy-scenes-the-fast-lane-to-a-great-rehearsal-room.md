@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-07-01T20:35:00-06:00"
+lastmod = "2016-07-02T08:53:00-06:00"
+publishDate = "2016-07-01T21:52:00-06:00"
 slug = "heavy-scenes-the-fast-lane-to-a-great-rehearsal-room"
 title = "Heavy scenes: the fast lane to a great rehearsal room"
 +++

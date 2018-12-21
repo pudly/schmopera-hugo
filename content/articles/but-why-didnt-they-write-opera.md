@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-07-21T14:38:00-04:00"
+lastmod = "2015-07-30T14:05:00-04:00"
+publishDate = "2015-07-22T07:00:00-04:00"
 slug = "but-why-didnt-they-write-opera"
 title = "But, why didn&#039;t they write opera?"
 +++

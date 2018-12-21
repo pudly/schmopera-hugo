@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-15T13:38:00-04:00"
+lastmod = "2017-07-16T21:38:00-04:00"
+publishDate = "2017-07-16T21:27:00-04:00"
 slug = "ned-cantys-die-fledermaus-a-pleasant-persistent-buzz-of-happiness"
 title = "Ned Canty&#039;s Die Fledermaus: &quot;A pleasant, persistent buzz of happiness.&quot;"
 +++

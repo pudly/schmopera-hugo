@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-10-19T22:43:00-04:00"
+lastmod = "2015-10-21T09:38:00-04:00"
+publishDate = "2015-10-21T09:38:00-04:00"
 slug = "dont-miss-the-living-spectacle"
 title = "Don&#039;t miss: The Living Spectacle"
 +++

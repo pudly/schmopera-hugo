@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-01-07T09:38:00-05:00"
+lastmod = "2015-04-12T10:45:00-04:00"
+publishDate = "2015-01-07T09:38:00-05:00"
 slug = "to-dance-for-grandma-or-the-spontaneity-question"
 title = "To Dance for Grandma, or the Spontaneity Question"
 +++

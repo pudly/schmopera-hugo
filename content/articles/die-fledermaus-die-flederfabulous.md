@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-06-10T11:05:00+01:00"
+lastmod = "2016-06-10T12:56:00+01:00"
+publishDate = "2016-06-10T12:56:00+01:00"
 slug = "die-fledermaus-die-flederfabulous"
 title = "Die Fledermaus? Die Fleder-fabulous!"
 +++

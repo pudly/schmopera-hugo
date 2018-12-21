@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-05-03T15:19:00-04:00"
+lastmod = "2015-05-07T08:40:00-04:00"
+publishDate = "2015-05-07T13:24:00-04:00"
 slug = "love-of-opera-and-getting-perspective"
 title = "Love of opera, and getting perspective"
 +++

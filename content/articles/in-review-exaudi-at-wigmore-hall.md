@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-04-02T11:51:00+01:00"
+lastmod = "2017-04-03T09:38:00+01:00"
+publishDate = "2017-04-03T09:09:00+01:00"
 slug = "in-review-exaudi-at-wigmore-hall"
 title = "In review: Exaudi at Wigmore Hall"
 +++

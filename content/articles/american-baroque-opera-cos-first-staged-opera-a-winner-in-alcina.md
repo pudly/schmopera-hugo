@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-03-06T16:29:00-05:00"
+lastmod = "2018-03-06T16:29:00-05:00"
+publishDate = "2018-03-06T16:29:00-05:00"
 slug = "american-baroque-opera-cos-first-staged-opera-a-winner-in-alcina"
 title = "American Baroque Opera Co.&#039;s first staged opera a winner in Alcina"
 +++

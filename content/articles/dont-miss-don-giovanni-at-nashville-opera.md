@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-10-05T09:21:00+01:00"
+lastmod = "2016-10-05T12:51:00+01:00"
+publishDate = "2016-10-05T12:51:00+01:00"
 slug = "dont-miss-don-giovanni-at-nashville-opera"
 title = "Don&#039;t miss: Don Giovanni at Nashville Opera"
 +++

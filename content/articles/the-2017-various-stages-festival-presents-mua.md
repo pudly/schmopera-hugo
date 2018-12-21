@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-01-19T10:35:00+00:00"
+lastmod = "2017-01-19T14:26:00+00:00"
+publishDate = "2017-01-19T11:52:00+00:00"
 slug = "the-2017-various-stages-festival-presents-mua"
 title = "The 2017 Various Stages Festival presents: Mu&#039;a"
 +++

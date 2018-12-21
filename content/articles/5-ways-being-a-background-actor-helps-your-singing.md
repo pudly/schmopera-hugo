@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2018-10-10T16:42:00-04:00"
+lastmod = "2018-10-11T20:11:00-04:00"
+publishDate = "2018-10-11T20:11:00-04:00"
 slug = "5-ways-being-a-background-actor-helps-your-singing"
 title = "5 ways being a background actor helps your singing"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-09-14T09:42:00-04:00"
+lastmod = "2017-09-14T22:16:00-04:00"
+publishDate = "2017-09-14T21:46:00-04:00"
 slug = "keeping-the-thread-momenttomoment-awareness-in-singing"
 title = "Keeping the thread: moment-to-moment awareness in singing"
 +++

@@ -1,4 +1,7 @@
 +++
+date = "2014-03-13T10:05:00-04:00"
+lastmod = "2015-04-27T18:25:00-04:00"
+publishDate = "2014-03-13T10:05:00-04:00"
 slug = "opera-gossip-is-the-best-gossip"
 title = "Opera Gossip is the best Gossip"
 +++

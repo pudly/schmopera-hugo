@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-10-09T19:34:00-04:00"
+lastmod = "2018-10-19T15:29:00-04:00"
+publishDate = "2018-10-09T19:34:00-04:00"
 slug = "pass-the-tissues-a-beautiful-new-bohme-in-chicago"
 title = "Pass the tissues: a beautiful new Bohème in Chicago"
 +++

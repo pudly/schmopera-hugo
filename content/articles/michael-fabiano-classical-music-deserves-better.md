@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-08-07T10:46:00+01:00"
+lastmod = "2016-08-12T09:43:00+01:00"
+publishDate = "2016-08-12T08:00:00+01:00"
 slug = "michael-fabiano-classical-music-deserves-better"
 title = "Michael Fabiano: Classical music deserves better"
 +++

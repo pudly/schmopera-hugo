@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-12-03T23:28:00-05:00"
+lastmod = "2015-12-05T11:14:00-05:00"
+publishDate = "2015-12-05T11:14:00-05:00"
 slug = "mozart-ladies-with-a-twist-miriam-khalil-shantelle-przybylo"
 title = "Mozart ladies with a twist: Miriam Khalil &amp; Shantelle Przybylo"
 +++

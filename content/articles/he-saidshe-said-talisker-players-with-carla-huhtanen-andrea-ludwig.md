@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-05-13T21:16:00-04:00"
+lastmod = "2015-05-13T21:42:00-04:00"
+publishDate = "2015-05-14T08:30:00-04:00"
 slug = "he-saidshe-said-talisker-players-with-carla-huhtanen-andrea-ludwig"
 title = "He said/she said: Talisker Players, with Carla Huhtanen &amp; Andrea Ludwig"
 +++

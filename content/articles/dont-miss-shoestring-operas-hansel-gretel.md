@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-05-04T13:36:00+01:00"
+lastmod = "2016-05-04T14:08:00+01:00"
+publishDate = "2016-05-04T14:08:00+01:00"
 slug = "dont-miss-shoestring-operas-hansel-gretel"
 title = "Don&#039;t miss: Shoestring Opera&#039;s Hansel &amp; Gretel"
 +++

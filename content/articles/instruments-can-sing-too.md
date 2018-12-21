@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-11-27T21:30:00-05:00"
+lastmod = "2015-11-27T23:00:00-05:00"
+publishDate = "2015-11-28T09:00:00-05:00"
 slug = "instruments-can-sing-too"
 title = "Instruments can sing, too"
 +++

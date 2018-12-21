@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-01-06T09:00:00-05:00"
+lastmod = "2015-04-12T11:26:00-04:00"
+publishDate = "2015-01-06T09:00:00-05:00"
 slug = "kira-braun-im-happiest-when-im-singing"
 title = "Kira Braun: &quot;I&#039;m happiest when I&#039;m singing.&quot;"
 +++

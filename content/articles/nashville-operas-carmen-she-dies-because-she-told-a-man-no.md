@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-04-01T12:49:00+01:00"
+lastmod = "2017-04-03T17:26:00+01:00"
+publishDate = "2017-04-03T17:26:00+01:00"
 slug = "nashville-operas-carmen-she-dies-because-she-told-a-man-no"
 title = "Nashville Opera&#039;s Carmen: &quot;She dies because she told a man, &#039;no&#039;.&quot;"
 +++

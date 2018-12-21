@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-05-18T16:42:00-04:00"
+lastmod = "2017-05-18T22:13:00-04:00"
+publishDate = "2017-05-18T22:08:00-04:00"
 slug = "arts-education-teaches-better-manners-more-preaching-to-the-choir"
 title = "Arts education teaches better manners, &amp; more preaching to the choir"
 +++

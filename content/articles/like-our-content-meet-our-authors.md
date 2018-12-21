@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-11-28T10:26:00+00:00"
+lastmod = "2016-11-28T11:00:00+00:00"
+publishDate = "2016-11-28T10:46:00+00:00"
 slug = "like-our-content-meet-our-authors"
 title = "Like our content? Meet our authors!"
 +++

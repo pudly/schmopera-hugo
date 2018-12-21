@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2017-02-21T04:46:00-07:00"
+lastmod = "2017-06-22T21:17:00-06:00"
+publishDate = "2017-02-21T07:38:00-07:00"
 slug = "aria-guides-o-du-mein-holder-abendstern"
 title = "Aria guides: &quot;O! du mein holder Abendstern&quot;"
 +++

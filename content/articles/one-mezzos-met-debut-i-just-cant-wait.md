@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-09-25T14:31:00+01:00"
+lastmod = "2016-09-28T17:38:00+01:00"
+publishDate = "2016-09-28T09:09:00+01:00"
 slug = "one-mezzos-met-debut-i-just-cant-wait"
 title = "One mezzo&#039;s Met debut: &quot;I just can&#039;t wait.&quot;"
 +++

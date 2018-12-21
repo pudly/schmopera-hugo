@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-11-17T13:23:00-05:00"
+lastmod = "2015-11-20T11:09:00-05:00"
+publishDate = "2015-11-20T10:40:00-05:00"
 slug = "coaches-voice-teachers-and-the-grey-area-in-between"
 title = "Coaches, voice teachers, and the grey area in between"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-02-03T17:09:00-05:00"
+lastmod = "2017-08-20T11:29:00-04:00"
+publishDate = "2016-02-04T10:26:00-05:00"
 slug = "spotlight-on-amanda-majeski"
 title = "Spotlight on: Amanda Majeski"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-05-27T18:34:00-04:00"
+lastmod = "2018-05-29T21:46:00-04:00"
+publishDate = "2018-05-29T21:00:00-04:00"
 slug = "talking-with-singers-ashley-riches"
 title = "Talking with singers: Ashley Riches"
 +++

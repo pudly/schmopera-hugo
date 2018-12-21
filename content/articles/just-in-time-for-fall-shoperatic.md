@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-09-12T19:44:00-04:00"
+lastmod = "2017-09-12T23:00:00-04:00"
+publishDate = "2017-09-12T22:41:00-04:00"
 slug = "just-in-time-for-fall-shoperatic"
 title = "Just in time for fall: Shoperatic!"
 +++

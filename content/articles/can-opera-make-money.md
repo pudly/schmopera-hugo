@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-12-04T12:46:00-05:00"
+lastmod = "2015-04-13T17:57:00-04:00"
+publishDate = "2014-12-04T12:46:00-05:00"
 slug = "can-opera-make-money"
 title = "Can Opera Make Money?"
 +++

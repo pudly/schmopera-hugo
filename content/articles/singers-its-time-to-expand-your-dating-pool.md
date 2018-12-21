@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-08-05T20:26:00-04:00"
+lastmod = "2017-11-28T19:06:00-05:00"
+publishDate = "2017-08-07T20:23:00-04:00"
 slug = "singers-its-time-to-expand-your-dating-pool"
 title = "Singers: it&#039;s time to expand your dating pool"
 +++

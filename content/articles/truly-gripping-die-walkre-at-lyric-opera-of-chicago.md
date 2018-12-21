@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-08T20:08:00-05:00"
+lastmod = "2017-11-08T21:58:00-05:00"
+publishDate = "2017-11-08T21:58:00-05:00"
 slug = "truly-gripping-die-walkre-at-lyric-opera-of-chicago"
 title = "&quot;Truly gripping&quot;: Die Walküre at Lyric Opera of Chicago"
 +++

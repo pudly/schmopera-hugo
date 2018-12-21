@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-06-26T15:49:00-06:00"
+lastmod = "2016-06-27T15:17:00-06:00"
+publishDate = "2016-06-26T23:55:00-06:00"
 slug = "ian-smith-of-the-emc-we-unite-through-the-common-language-of-music"
 title = "Ian Smith of the EMC: &quot;We unite through the common language of music&quot;"
 +++

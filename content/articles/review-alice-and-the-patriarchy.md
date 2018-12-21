@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-03-21T20:11:00-04:00"
+lastmod = "2018-03-21T20:11:00-04:00"
+publishDate = "2018-03-21T20:11:00-04:00"
 slug = "review-alice-and-the-patriarchy"
 title = "Review: ALICE and the Patriarchy"
 +++

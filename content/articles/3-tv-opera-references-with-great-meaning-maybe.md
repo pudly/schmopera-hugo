@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-04-22T10:26:00+01:00"
+lastmod = "2016-04-22T12:15:00+01:00"
+publishDate = "2016-04-22T12:12:00+01:00"
 slug = "3-tv-opera-references-with-great-meaning-maybe"
 title = "3 TV opera references with great meaning (maybe)"
 +++

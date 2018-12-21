@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-05-31T19:45:00-04:00"
+lastmod = "2015-06-02T08:52:00-04:00"
+publishDate = "2015-06-01T13:17:00-04:00"
 slug = "kristin-hoffs-love-songs"
 title = "Kristin Hoff&#039;s Love Songs"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-05-08T18:18:00-04:00"
+lastmod = "2018-05-08T21:01:00-04:00"
+publishDate = "2018-05-08T21:01:00-04:00"
 slug = "talking-with-conductors-lidiya-yankovskaya"
 title = "Talking with conductors: Lidiya Yankovskaya"
 +++

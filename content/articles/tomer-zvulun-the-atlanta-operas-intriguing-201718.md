@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-02-20T11:12:00+00:00"
+lastmod = "2017-02-21T17:36:00+00:00"
+publishDate = "2017-02-21T11:21:00+00:00"
 slug = "tomer-zvulun-the-atlanta-operas-intriguing-201718"
 title = "Tomer Zvulun: The Atlanta Opera&#039;s intriguing 2017/18"
 +++

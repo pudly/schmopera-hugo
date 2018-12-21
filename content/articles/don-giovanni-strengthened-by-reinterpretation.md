@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-04-15T21:30:00-04:00"
+lastmod = "2018-04-19T10:48:00-04:00"
+publishDate = "2018-04-19T10:48:00-04:00"
 slug = "don-giovanni-strengthened-by-reinterpretation"
 title = "Don Giovanni: &quot;strengthened by reinterpretation.&quot;"
 +++

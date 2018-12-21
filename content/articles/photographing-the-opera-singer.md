@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-05-11T18:12:00+01:00"
+lastmod = "2017-03-12T15:38:00+00:00"
+publishDate = "2015-05-11T22:19:00+01:00"
 slug = "photographing-the-opera-singer"
 title = "Photographing the opera singer"
 +++

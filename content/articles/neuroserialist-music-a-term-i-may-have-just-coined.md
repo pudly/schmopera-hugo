@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-02-10T10:00:00-05:00"
+lastmod = "2015-04-28T20:47:00-04:00"
+publishDate = "2014-02-10T10:00:00-05:00"
 slug = "neuroserialist-music-a-term-i-may-have-just-coined"
 title = "Neuroserialist music: a term I may have just coined"
 +++

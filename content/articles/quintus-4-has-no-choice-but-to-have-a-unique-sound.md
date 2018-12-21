@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-12-17T11:38:00-05:00"
+lastmod = "2017-12-18T12:37:00-05:00"
+publishDate = "2017-12-18T12:15:00-05:00"
 slug = "quintus-4-has-no-choice-but-to-have-a-unique-sound"
 title = "Quintus 4 &quot;has no choice but to have a unique sound.&quot;"
 +++

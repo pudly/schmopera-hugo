@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-06-09T15:50:00-04:00"
+lastmod = "2015-06-10T21:25:00-04:00"
+publishDate = "2015-06-10T14:16:00-04:00"
 slug = "i-just-wanna-do-my-nails"
 title = "I just wanna do my nails"
 +++

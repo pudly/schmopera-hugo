@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-09-16T09:41:00-04:00"
+lastmod = "2015-09-18T12:32:00-04:00"
+publishDate = "2015-09-17T08:47:00-04:00"
 slug = "story-webs-the-original-romeo-juliet"
 title = "Story webs &amp; the original Romeo &amp; Juliet"
 +++

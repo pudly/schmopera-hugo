@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-01-16T13:34:00-05:00"
+lastmod = "2015-04-11T23:10:00-04:00"
+publishDate = "2015-01-16T13:34:00-05:00"
 slug = "schmopera-on-the-radio"
 title = "Schmopera on the radio"
 +++

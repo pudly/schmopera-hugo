@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-05-01T15:59:00-04:00"
+lastmod = "2017-05-02T08:47:00-04:00"
+publishDate = "2017-05-02T08:47:00-04:00"
 slug = "meet-the-folks-collectf"
 title = "Meet the folks: Collectìf"
 +++

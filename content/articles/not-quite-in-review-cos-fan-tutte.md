@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-02-08T17:51:00-05:00"
+lastmod = "2015-04-28T20:57:00-04:00"
+publishDate = "2014-02-08T17:51:00-05:00"
 slug = "not-quite-in-review-cos-fan-tutte"
 title = "Not quite in review: Così fan tutte"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-09-04T12:33:00-04:00"
+lastmod = "2017-09-05T13:09:00-04:00"
+publishDate = "2017-09-05T12:57:00-04:00"
 slug = "talking-with-singers-lisette-oropesa"
 title = "Talking with singers: Lisette Oropesa"
 +++

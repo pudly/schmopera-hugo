@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-06-13T17:38:00-04:00"
+lastmod = "2015-06-17T15:23:00-04:00"
+publishDate = "2015-06-14T11:19:00-04:00"
 slug = "soundstreams-announces-the-cast-of-julie"
 title = "Soundstreams announces the cast of Julie"
 +++

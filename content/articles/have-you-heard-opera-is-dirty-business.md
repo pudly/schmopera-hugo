@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-12-22T16:50:00-05:00"
+lastmod = "2015-12-23T10:06:00-05:00"
+publishDate = "2015-12-23T10:00:00-05:00"
 slug = "have-you-heard-opera-is-dirty-business"
 title = "Have you heard? Opera is dirty business"
 +++

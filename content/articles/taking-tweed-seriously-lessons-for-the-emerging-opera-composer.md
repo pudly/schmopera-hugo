@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-06-25T09:43:00-06:00"
+lastmod = "2017-06-25T22:44:00-06:00"
+publishDate = "2017-06-25T22:05:00-06:00"
 slug = "taking-tweed-seriously-lessons-for-the-emerging-opera-composer"
 title = "Taking tweed seriously: lessons for the emerging opera composer"
 +++

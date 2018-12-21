@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-07-13T16:27:00+02:00"
+lastmod = "2017-03-07T10:51:00+01:00"
+publishDate = "2016-07-15T17:50:00+02:00"
 slug = "spotlight-on-shelley-jackson"
 title = "Spotlight on: Shelley Jackson"
 +++

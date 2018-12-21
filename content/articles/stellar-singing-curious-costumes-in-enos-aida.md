@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-29T19:14:00-04:00"
+lastmod = "2017-09-30T08:49:00-04:00"
+publishDate = "2017-09-30T08:48:00-04:00"
 slug = "stellar-singing-curious-costumes-in-enos-aida"
 title = "Stellar singing &amp; curious costumes in ENO&#039;s Aida"
 +++

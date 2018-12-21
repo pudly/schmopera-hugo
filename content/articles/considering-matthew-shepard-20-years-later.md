@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-06-06T21:53:00-04:00"
+lastmod = "2018-06-07T15:46:00-04:00"
+publishDate = "2018-06-07T11:22:00-04:00"
 slug = "considering-matthew-shepard-20-years-later"
 title = "Considering Matthew Shepard: 20 years later"
 +++

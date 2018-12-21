@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-04-11T19:33:00-04:00"
+lastmod = "2015-04-11T19:33:00-04:00"
+publishDate = "2015-02-12T09:33:00-05:00"
 slug = "the-art-of-defining-a-singer-and-squashing-anomalies"
 title = "The Art of Defining a Singer and Squashing Anomalies"
 +++

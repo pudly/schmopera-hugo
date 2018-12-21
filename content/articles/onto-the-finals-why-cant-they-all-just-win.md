@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2018-06-05T23:45:00-04:00"
+lastmod = "2018-06-05T23:45:00-04:00"
+publishDate = "2018-06-05T23:45:00-04:00"
 slug = "onto-the-finals-why-cant-they-all-just-win"
 title = "Onto the finals: why can&#039;t they all just win?"
 +++

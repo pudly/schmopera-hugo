@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-11-02T17:24:00+00:00"
+lastmod = "2016-11-04T13:56:00+00:00"
+publishDate = "2016-11-04T13:56:00+00:00"
 slug = "the-tso-does-danny-elfmans-music-from-the-films-of-tim-burton"
 title = "The TSO does Danny Elfman&#039;s music from the films of Tim Burton"
 +++

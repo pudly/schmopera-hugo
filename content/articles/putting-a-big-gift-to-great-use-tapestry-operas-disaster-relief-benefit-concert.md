@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-10-20T19:04:00-04:00"
+lastmod = "2017-10-21T21:02:00-04:00"
+publishDate = "2017-10-21T20:53:00-04:00"
 slug = "putting-a-big-gift-to-great-use-tapestry-operas-disaster-relief-benefit-concert"
 title = "Putting a big gift to great use: Tapestry Opera&#039;s Disaster Relief Benefit concert"
 +++

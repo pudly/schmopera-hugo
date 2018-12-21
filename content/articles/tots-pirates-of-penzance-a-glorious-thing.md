@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-01-08T11:37:00+00:00"
+lastmod = "2017-01-08T12:13:00+00:00"
+publishDate = "2017-01-08T12:03:00+00:00"
 slug = "tots-pirates-of-penzance-a-glorious-thing"
 title = "TOT&#039;s Pirates of Penzance: &quot;A glorious thing&quot;"
 +++

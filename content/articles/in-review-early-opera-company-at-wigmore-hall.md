@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-03-31T09:52:00+01:00"
+lastmod = "2017-04-08T16:27:00+01:00"
+publishDate = "2017-03-31T09:57:00+01:00"
 slug = "in-review-early-opera-company-at-wigmore-hall"
 title = "In review: Early Opera Company at Wigmore Hall"
 +++

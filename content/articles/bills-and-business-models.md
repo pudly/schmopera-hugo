@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-01-12T10:09:00-05:00"
+lastmod = "2015-04-28T22:58:00-04:00"
+publishDate = "2014-01-12T10:09:00-05:00"
 slug = "bills-and-business-models"
 title = "Bills and Business Models"
 +++

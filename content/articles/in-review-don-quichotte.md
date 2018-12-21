@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-05-12T17:47:00-04:00"
+lastmod = "2015-04-27T18:04:00-04:00"
+publishDate = "2014-05-12T17:47:00-04:00"
 slug = "in-review-don-quichotte"
 title = "In review: Don Quichotte"
 +++

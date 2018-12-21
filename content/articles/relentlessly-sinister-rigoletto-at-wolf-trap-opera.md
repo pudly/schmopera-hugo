@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-08-04T10:02:00-04:00"
+lastmod = "2018-08-04T10:15:00-04:00"
+publishDate = "2018-08-04T10:02:00-04:00"
 slug = "relentlessly-sinister-rigoletto-at-wolf-trap-opera"
 title = "Relentlessly sinister: Rigoletto at Wolf Trap Opera"
 +++

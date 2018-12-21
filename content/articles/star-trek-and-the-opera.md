@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2014-11-02T10:00:00-05:00"
+lastmod = "2017-09-17T21:21:00-04:00"
+publishDate = "2014-11-02T10:00:00-05:00"
 slug = "star-trek-and-the-opera"
 title = "Star Trek and the opera"
 +++

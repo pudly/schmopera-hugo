@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2018-05-11T21:26:00-04:00"
+lastmod = "2018-05-15T16:12:00-04:00"
+publishDate = "2018-05-13T15:41:00-04:00"
 slug = "fallis-wraps-27-years-with-the-toronto-consort"
 title = "Fallis wraps 27 years with the Toronto Consort"
 +++

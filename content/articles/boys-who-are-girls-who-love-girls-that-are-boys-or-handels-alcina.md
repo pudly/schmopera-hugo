@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-03-17T16:12:00+00:00"
+lastmod = "2016-03-17T17:50:00+00:00"
+publishDate = "2016-03-17T16:48:00+00:00"
 slug = "boys-who-are-girls-who-love-girls-that-are-boys-or-handels-alcina"
 title = "Boys who are girls who love girls that are boys, or, Handel&#039;s Alcina"
 +++

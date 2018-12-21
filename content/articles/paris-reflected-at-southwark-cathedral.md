@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-04-21T09:50:00+01:00"
+lastmod = "2016-04-21T12:10:00+01:00"
+publishDate = "2016-04-21T12:05:00+01:00"
 slug = "paris-reflected-at-southwark-cathedral"
 title = "Paris Reflected at Southwark Cathedral"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-10-13T18:56:00-04:00"
+lastmod = "2015-10-13T19:57:00-04:00"
+publishDate = "2015-10-14T08:00:00-04:00"
 slug = "rags-to-reasonables-personal-finance-holy-grail"
 title = "Rags to Reasonable&#039;s Personal Finance Holy Grail"
 +++

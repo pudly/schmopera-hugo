@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-09-25T11:21:00-04:00"
+lastmod = "2015-09-25T13:43:00-04:00"
+publishDate = "2015-09-25T13:30:00-04:00"
 slug = "learn-opera-in-the-city"
 title = "Learn: Opera in the City"
 +++

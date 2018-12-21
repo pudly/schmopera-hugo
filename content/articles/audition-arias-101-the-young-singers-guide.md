@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-11-23T15:36:00-05:00"
+lastmod = "2015-11-24T15:11:00-05:00"
+publishDate = "2015-11-24T13:15:00-05:00"
 slug = "audition-arias-101-the-young-singers-guide"
 title = "Audition arias 101: the young singer&#039;s guide"
 +++

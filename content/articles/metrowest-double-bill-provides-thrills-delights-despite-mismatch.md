@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-20T15:32:00-04:00"
+lastmod = "2018-04-20T19:28:00-04:00"
+publishDate = "2018-04-20T15:32:00-04:00"
 slug = "metrowest-double-bill-provides-thrills-delights-despite-mismatch"
 title = "MetroWest Double Bill Provides Thrills &amp; Delights Despite Mismatch"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-04-10T22:28:00-04:00"
+lastmod = "2015-04-12T19:28:00-04:00"
+publishDate = "2015-03-15T10:28:00-04:00"
 slug = "go-see-this-carla-huhtanen-and-nicole-lize-in-tapex-tables-turned"
 title = "Go See This: Carla Huhtanen and Nicole Lizée in Tap:Ex Tables Turned"
 +++

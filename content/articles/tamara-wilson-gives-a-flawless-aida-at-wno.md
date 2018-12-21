@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-17T15:01:00-04:00"
+lastmod = "2017-09-17T21:37:00-04:00"
+publishDate = "2017-09-17T21:27:00-04:00"
 slug = "tamara-wilson-gives-a-flawless-aida-at-wno"
 title = "Tamara Wilson gives a &quot;flawless&quot; Aida at WNO"
 +++

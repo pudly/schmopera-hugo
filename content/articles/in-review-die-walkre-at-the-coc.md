@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-04-11T20:42:00-04:00"
+lastmod = "2015-04-11T21:17:00-04:00"
+publishDate = "2015-02-05T09:41:00-05:00"
 slug = "in-review-die-walkre-at-the-coc"
 title = "In review: Die Walküre at the COC"
 +++

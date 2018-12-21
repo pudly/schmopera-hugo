@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-12-15T10:50:00-05:00"
+lastmod = "2016-12-19T09:49:00-05:00"
+publishDate = "2016-12-19T09:27:00-05:00"
 slug = "im-a-singer-and-its-christmas"
 title = "I&#039;m a singer and it&#039;s Christmas"
 +++

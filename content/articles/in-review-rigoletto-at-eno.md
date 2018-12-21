@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-02-03T09:28:00+00:00"
+lastmod = "2017-02-03T10:50:00+00:00"
+publishDate = "2017-02-03T10:37:00+00:00"
 slug = "in-review-rigoletto-at-eno"
 title = "In review: Rigoletto at ENO"
 +++

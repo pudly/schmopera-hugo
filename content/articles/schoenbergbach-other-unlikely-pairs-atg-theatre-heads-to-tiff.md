@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-03-01T13:40:00+00:00"
+lastmod = "2017-03-13T16:46:00+00:00"
+publishDate = "2017-03-01T14:27:00+00:00"
 slug = "schoenbergbach-other-unlikely-pairs-atg-theatre-heads-to-tiff"
 title = "Schoenberg/Bach &amp; other unlikely pairs: AtG Theatre heads to TIFF"
 +++

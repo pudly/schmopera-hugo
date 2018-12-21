@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-09-05T21:09:00-04:00"
+lastmod = "2017-09-07T14:38:00-04:00"
+publishDate = "2017-09-07T09:26:00-04:00"
 slug = "dont-miss-bandits-in-the-valley"
 title = "Don&#039;t miss: Bandits in the Valley"
 +++

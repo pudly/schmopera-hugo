@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-09-03T14:40:00+01:00"
+lastmod = "2016-09-16T09:11:00+01:00"
+publishDate = "2016-09-16T08:00:00+01:00"
 slug = "talking-with-singers-keri-alkema"
 title = "Talking with singers: Keri Alkema"
 +++

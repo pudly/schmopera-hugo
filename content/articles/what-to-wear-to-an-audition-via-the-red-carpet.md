@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-06-14T12:12:00-04:00"
+lastmod = "2015-06-16T10:03:00-04:00"
+publishDate = "2015-06-14T13:42:00-04:00"
 slug = "what-to-wear-to-an-audition-via-the-red-carpet"
 title = "What to wear to an audition, via the red carpet"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-04-04T19:43:00+01:00"
+lastmod = "2016-04-05T10:33:00+01:00"
+publishDate = "2016-04-05T09:47:00+01:00"
 slug = "talking-with-singers-anna-devin"
 title = "Talking with singers: Anna Devin"
 +++

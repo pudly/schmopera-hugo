@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-05-24T20:15:00+01:00"
+lastmod = "2016-05-28T10:50:00+01:00"
+publishDate = "2016-05-28T10:42:00+01:00"
 slug = "talking-with-singers-bryan-register"
 title = "Talking with singers: Bryan Register"
 +++

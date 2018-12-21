@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-04-18T10:58:00+01:00"
+lastmod = "2016-04-18T14:20:00+01:00"
+publishDate = "2016-04-18T14:16:00+01:00"
 slug = "opera-for-voyeurs-opera-peep-show"
 title = "Opera for voyeurs: Opera Peep Show"
 +++

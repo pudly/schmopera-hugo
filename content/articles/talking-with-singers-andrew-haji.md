@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-09-15T13:04:00-04:00"
+lastmod = "2017-09-24T23:32:00-04:00"
+publishDate = "2017-09-24T23:32:00-04:00"
 slug = "talking-with-singers-andrew-haji"
 title = "Talking with singers: Andrew Haji"
 +++

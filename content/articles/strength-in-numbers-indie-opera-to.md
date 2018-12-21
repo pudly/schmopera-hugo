@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-10-28T10:35:00+01:00"
+lastmod = "2016-10-28T12:23:00+01:00"
+publishDate = "2016-10-28T12:23:00+01:00"
 slug = "strength-in-numbers-indie-opera-to"
 title = "Strength in numbers: Indie Opera T.O."
 +++

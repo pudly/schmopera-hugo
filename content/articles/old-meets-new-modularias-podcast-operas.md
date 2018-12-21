@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2018-10-30T15:48:00-04:00"
+lastmod = "2018-10-31T10:04:00-04:00"
+publishDate = "2018-10-31T10:04:00-04:00"
 slug = "old-meets-new-modularias-podcast-operas"
 title = "Old meets new: Modularias &amp; podcast operas"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-13T09:41:00-04:00"
+lastmod = "2017-09-13T10:36:00-04:00"
+publishDate = "2017-09-13T10:33:00-04:00"
 slug = "brisk-wicked-die-zauberflte-at-roh"
 title = "Brisk &amp; wicked: Die Zauberflöte at ROH"
 +++

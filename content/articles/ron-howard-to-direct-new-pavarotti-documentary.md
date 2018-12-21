@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-06-02T08:35:00-04:00"
+lastmod = "2017-06-02T10:09:00-04:00"
+publishDate = "2017-06-02T10:09:00-04:00"
 slug = "ron-howard-to-direct-new-pavarotti-documentary"
 title = "Ron Howard to direct new Pavarotti documentary"
 +++

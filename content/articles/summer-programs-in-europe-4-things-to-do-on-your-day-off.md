@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-01-12T11:12:00+00:00"
+lastmod = "2017-01-16T14:15:00+00:00"
+publishDate = "2017-01-16T14:00:00+00:00"
 slug = "summer-programs-in-europe-4-things-to-do-on-your-day-off"
 title = "Summer programs in Europe: 4 things to do on your day off"
 +++

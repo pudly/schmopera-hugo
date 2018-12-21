@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-10-11T17:03:00-02:30"
+lastmod = "2016-10-14T19:27:00-02:30"
+publishDate = "2016-10-13T10:09:00-02:30"
 slug = "spotlight-on-owen-mccausland"
 title = "Spotlight on: Owen McCausland"
 +++

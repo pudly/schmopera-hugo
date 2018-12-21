@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-01-31T21:08:00-05:00"
+lastmod = "2016-02-01T10:36:00-05:00"
+publishDate = "2016-02-01T09:00:00-05:00"
 slug = "grease-live-a-rant"
 title = "Grease Live: a rant"
 +++

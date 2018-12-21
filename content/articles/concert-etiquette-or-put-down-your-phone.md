@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-11-17T15:13:00-05:00"
+lastmod = "2017-09-24T10:28:00-04:00"
+publishDate = "2015-11-19T08:30:00-05:00"
 slug = "concert-etiquette-or-put-down-your-phone"
 title = "Concert etiquette, or put down your phone"
 +++

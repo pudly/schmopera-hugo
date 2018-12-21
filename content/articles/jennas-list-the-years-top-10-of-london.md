@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-04-07T14:11:00+01:00"
+lastmod = "2017-04-08T14:05:00+01:00"
+publishDate = "2017-04-08T14:05:00+01:00"
 slug = "jennas-list-the-years-top-10-of-london"
 title = "Jenna&#039;s list: the year&#039;s Top 10 of London"
 +++

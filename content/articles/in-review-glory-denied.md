@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-11-15T13:21:00+00:00"
+lastmod = "2016-11-15T15:42:00+00:00"
+publishDate = "2016-11-15T15:42:00+00:00"
 slug = "in-review-glory-denied"
 title = "In review: Glory Denied"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-05-17T21:49:00+01:00"
+lastmod = "2016-05-18T16:54:00+01:00"
+publishDate = "2016-05-18T12:43:00+01:00"
 slug = "freedom-of-press-journalistic-integrity"
 title = "Freedom of press &amp; journalistic integrity"
 +++

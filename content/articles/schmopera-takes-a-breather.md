@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-08-02T13:35:00+02:00"
+lastmod = "2015-08-06T19:20:00+02:00"
+publishDate = "2015-08-06T19:20:00+02:00"
 slug = "schmopera-takes-a-breather"
 title = "Schmopera takes a breather"
 +++

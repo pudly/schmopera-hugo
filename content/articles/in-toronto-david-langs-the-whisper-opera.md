@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-01-14T08:00:00-05:00"
+lastmod = "2015-04-11T23:24:00-04:00"
+publishDate = "2015-01-14T08:00:00-05:00"
 slug = "in-toronto-david-langs-the-whisper-opera"
 title = "In Toronto: David Lang&#039;s The Whisper Opera"
 +++

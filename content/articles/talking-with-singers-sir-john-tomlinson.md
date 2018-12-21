@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-03-07T06:10:00-05:00"
+lastmod = "2017-10-02T21:00:00-04:00"
+publishDate = "2017-03-16T06:34:00-04:00"
 slug = "talking-with-singers-sir-john-tomlinson"
 title = "Talking with singers: Sir John Tomlinson"
 +++

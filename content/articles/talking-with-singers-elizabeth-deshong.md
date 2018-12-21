@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2014-10-20T09:00:00-04:00"
+lastmod = "2015-04-14T13:52:00-04:00"
+publishDate = "2014-10-20T09:00:00-04:00"
 slug = "talking-with-singers-elizabeth-deshong"
 title = "Talking with singers: Elizabeth DeShong"
 +++

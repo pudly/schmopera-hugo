@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-09-02T13:36:00-04:00"
+lastmod = "2015-09-03T13:49:00-04:00"
+publishDate = "2015-09-03T12:26:00-04:00"
 slug = "check-out-liederwlfe"
 title = "Check out: Liederwölfe"
 +++

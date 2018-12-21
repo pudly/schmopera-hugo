@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-18T14:04:00-05:00"
+lastmod = "2017-11-18T15:56:00-05:00"
+publishDate = "2017-11-18T15:56:00-05:00"
 slug = "feminist-truths-the-mother-of-us-all"
 title = "Feminist truths: The Mother of Us All"
 +++

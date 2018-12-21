@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-09-25T10:24:00-04:00"
+lastmod = "2017-11-11T14:20:00-05:00"
+publishDate = "2015-09-29T08:00:00-04:00"
 slug = "quick-tips-the-rolled-r-test"
 title = "Quick tips: the rolled R test"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-09-17T18:24:00-04:00"
+lastmod = "2015-09-18T12:27:00-04:00"
+publishDate = "2015-09-18T12:15:00-04:00"
 slug = "michael-park-on-opera-disease"
 title = "Michael Park: on opera &amp; disease"
 +++

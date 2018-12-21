@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-01-03T20:18:00+00:00"
+lastmod = "2017-01-04T13:51:00+00:00"
+publishDate = "2017-01-04T13:46:00+00:00"
 slug = "international-opera-awards-2016-nominate-your-top-picks"
 title = "International Opera Awards 2016: nominate your top picks!"
 +++

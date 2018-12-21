@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-06-21T22:06:00-06:00"
+lastmod = "2017-06-26T21:51:00-06:00"
+publishDate = "2017-06-26T21:21:00-06:00"
 slug = "spotlight-on-jennifer-davis"
 title = "Spotlight on: Jennifer Davis"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-05-03T14:03:00-04:00"
+lastmod = "2015-05-03T14:11:00-04:00"
+publishDate = "2015-05-03T14:10:00-04:00"
 slug = "love-opera-love-stats-look-at-this"
 title = "Love opera? Love stats? Look at this."
 +++

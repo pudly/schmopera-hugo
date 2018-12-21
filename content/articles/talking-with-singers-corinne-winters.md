@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-04-23T12:31:00-04:00"
+lastmod = "2018-02-05T14:57:00-05:00"
+publishDate = "2016-04-25T04:39:00-04:00"
 slug = "talking-with-singers-corinne-winters"
 title = "Talking with singers: Corinne Winters"
 +++

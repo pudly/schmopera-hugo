@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-10-05T12:22:00-04:00"
+lastmod = "2017-10-09T21:46:00-04:00"
+publishDate = "2017-10-09T21:46:00-04:00"
 slug = "leonard-bernstein-nyfos-i-think-hed-be-pretty-proud-of-it"
 title = "Leonard Bernstein &amp; NYFOS: &quot;I think he&#039;d be pretty proud of it.&quot;"
 +++

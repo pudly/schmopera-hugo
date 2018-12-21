@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2017-09-17T16:17:00-04:00"
+lastmod = "2017-09-20T13:18:00-04:00"
+publishDate = "2017-09-20T11:20:00-04:00"
 slug = "robert-picardo-giving-cassini-the-farewell-it-deserves"
 title = "Robert Picardo, giving Cassini the farewell it deserves"
 +++

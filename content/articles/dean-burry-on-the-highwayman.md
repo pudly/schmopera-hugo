@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-04-22T13:43:00+01:00"
+lastmod = "2016-04-22T14:38:00+01:00"
+publishDate = "2016-04-22T13:55:00+01:00"
 slug = "dean-burry-on-the-highwayman"
 title = "Dean Burry on &quot;The Highwayman&quot;"
 +++

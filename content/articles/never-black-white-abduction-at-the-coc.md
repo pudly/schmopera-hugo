@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-02-09T11:43:00-05:00"
+lastmod = "2018-02-09T17:22:00-05:00"
+publishDate = "2018-02-09T11:52:00-05:00"
 slug = "never-black-white-abduction-at-the-coc"
 title = "Never black &amp; white: Abduction at the COC"
 +++

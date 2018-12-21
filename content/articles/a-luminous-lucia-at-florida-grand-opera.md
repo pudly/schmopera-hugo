@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-13T14:08:00-05:00"
+lastmod = "2017-11-13T18:09:00-05:00"
+publishDate = "2017-11-13T18:09:00-05:00"
 slug = "a-luminous-lucia-at-florida-grand-opera"
 title = "A luminous Lucia at Florida Grand Opera"
 +++

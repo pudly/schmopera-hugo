@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-05-21T21:45:00-04:00"
+lastmod = "2018-05-28T11:42:00-04:00"
+publishDate = "2018-05-24T13:51:00-04:00"
 slug = "dont-miss-no-place-like-home"
 title = "Don&#039;t miss: No Place Like Home"
 +++

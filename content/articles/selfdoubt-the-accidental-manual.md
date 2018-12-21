@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-05-30T15:15:00-04:00"
+lastmod = "2017-05-31T11:04:00-04:00"
+publishDate = "2017-05-30T20:23:00-04:00"
 slug = "selfdoubt-the-accidental-manual"
 title = "Self-Doubt: The Accidental Manual"
 +++

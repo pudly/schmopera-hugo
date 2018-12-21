@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-09-21T12:52:00-04:00"
+lastmod = "2018-09-21T16:20:00-04:00"
+publishDate = "2018-09-21T12:52:00-04:00"
 slug = "psycho-meets-sartre-at-the-nigredo-hotel"
 title = "Psycho meets Sartre at the Nigredo Hotel"
 +++

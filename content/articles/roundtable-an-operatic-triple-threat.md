@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-03-15T20:24:00-04:00"
+lastmod = "2018-03-19T12:48:00-04:00"
+publishDate = "2018-03-18T18:23:00-04:00"
 slug = "roundtable-an-operatic-triple-threat"
 title = "Roundtable: an operatic triple threat"
 +++

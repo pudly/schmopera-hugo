@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-23T12:42:00-04:00"
+lastmod = "2017-10-24T10:49:00-04:00"
+publishDate = "2017-10-24T10:49:00-04:00"
 slug = "fuelled-by-female-oppression-written-on-skin"
 title = "Fuelled by female oppression: Written on Skin"
 +++

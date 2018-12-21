@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-11-12T14:11:00-05:00"
+lastmod = "2015-11-16T15:44:00-05:00"
+publishDate = "2015-11-16T14:29:00-05:00"
 slug = "dont-miss-julie"
 title = "Don&#039;t miss: Julie"
 +++

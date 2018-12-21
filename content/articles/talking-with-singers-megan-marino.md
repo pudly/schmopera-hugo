@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-06-18T13:30:00-04:00"
+lastmod = "2018-06-20T13:24:00-04:00"
+publishDate = "2018-06-19T09:01:00-04:00"
 slug = "talking-with-singers-megan-marino"
 title = "Talking with singers: Megan Marino"
 +++

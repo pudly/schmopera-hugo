@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-06-13T12:24:00-04:00"
+lastmod = "2015-06-17T15:25:00-04:00"
+publishDate = "2015-06-13T17:12:00-04:00"
 slug = "go-hear-majesty-madness-murder"
 title = "Go hear Majesty, Madness &amp; Murder"
 +++

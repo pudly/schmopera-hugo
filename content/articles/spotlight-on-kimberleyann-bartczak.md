@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-07-20T16:24:00-04:00"
+lastmod = "2015-07-27T08:02:00-04:00"
+publishDate = "2015-07-27T08:02:00-04:00"
 slug = "spotlight-on-kimberleyann-bartczak"
 title = "Spotlight on: Kimberley-Ann Bartczak"
 +++

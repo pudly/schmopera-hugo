@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2017-08-21T13:53:00-04:00"
+lastmod = "2017-08-21T21:16:00-04:00"
+publishDate = "2017-08-21T21:16:00-04:00"
 slug = "a-singers-todo-list-4-tasks-to-keep-you-focused-this-year"
 title = "A singer&#039;s to-do list: 4 tasks to keep you focused this year"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-03-20T10:53:00-04:00"
+lastmod = "2015-04-24T10:02:00-04:00"
+publishDate = "2014-03-20T10:53:00-04:00"
 slug = "in-review-the-talisker-players-bestiary"
 title = "In review: The Talisker Players&#039; Bestiary"
 +++

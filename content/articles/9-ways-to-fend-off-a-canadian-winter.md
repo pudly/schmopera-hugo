@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-12-29T21:11:00-05:00"
+lastmod = "2015-12-30T16:51:00-05:00"
+publishDate = "2015-12-30T16:39:00-05:00"
 slug = "9-ways-to-fend-off-a-canadian-winter"
 title = "9 ways to fend off a Canadian winter"
 +++

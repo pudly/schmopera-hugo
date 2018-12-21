@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-01-16T12:18:00+00:00"
+lastmod = "2017-01-23T15:18:00+00:00"
+publishDate = "2017-01-23T15:18:00+00:00"
 slug = "dont-miss-accelerando-with-esprit-orchestra"
 title = "Don&#039;t miss: Accelerando with Esprit Orchestra"
 +++

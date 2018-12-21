@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2014-08-26T15:31:00-04:00"
+lastmod = "2015-04-16T17:14:00-04:00"
+publishDate = "2014-08-26T15:31:00-04:00"
 slug = "meet-maestro-wenarto"
 title = "Meet Maestro Wenarto"
 +++

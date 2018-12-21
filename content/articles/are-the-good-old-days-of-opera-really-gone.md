@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-07-01T21:20:00-06:00"
+lastmod = "2015-07-01T22:08:00-06:00"
+publishDate = "undefined"
 slug = "are-the-good-old-days-of-opera-really-gone"
 title = "Are the good old days of opera really gone?"
 +++

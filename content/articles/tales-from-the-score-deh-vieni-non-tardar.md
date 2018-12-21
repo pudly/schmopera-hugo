@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2016-07-19T11:40:00-04:00"
+lastmod = "2016-07-19T13:48:00-04:00"
+publishDate = "2016-07-19T13:48:00-04:00"
 slug = "tales-from-the-score-deh-vieni-non-tardar"
 title = "Tales from the score: Deh vieni, non tardar"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-10-07T09:00:00-04:00"
+lastmod = "2015-04-15T17:10:00-04:00"
+publishDate = "2014-10-07T09:00:00-04:00"
 slug = "the-microphone-question"
 title = "The Microphone Question"
 +++

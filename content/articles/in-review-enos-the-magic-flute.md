@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-03-17T11:30:00+00:00"
+lastmod = "2016-03-17T17:16:00+00:00"
+publishDate = "2016-03-17T12:47:00+00:00"
 slug = "in-review-enos-the-magic-flute"
 title = "In review: ENO&#039;s The Magic Flute"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-06-18T19:06:00-06:00"
+lastmod = "2017-06-20T13:06:00-06:00"
+publishDate = "2017-06-20T11:52:00-06:00"
 slug = "dont-miss-luminatos-bearing"
 title = "Don&#039;t miss: Luminato&#039;s Bearing"
 +++

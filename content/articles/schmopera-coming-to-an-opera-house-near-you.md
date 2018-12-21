@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-08-28T15:42:00-04:00"
+lastmod = "2017-08-29T11:41:00-04:00"
+publishDate = "2017-08-29T11:41:00-04:00"
 slug = "schmopera-coming-to-an-opera-house-near-you"
 title = "Schmopera: coming to an opera house near you!"
 +++

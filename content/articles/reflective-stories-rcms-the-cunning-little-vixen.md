@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-12-04T20:58:00-05:00"
+lastmod = "2017-12-05T20:33:00-05:00"
+publishDate = "2017-12-05T20:33:00-05:00"
 slug = "reflective-stories-rcms-the-cunning-little-vixen"
 title = "Reflective stories: RCM&#039;s The Cunning Little Vixen"
 +++

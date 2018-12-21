@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-03-02T09:24:00+00:00"
+lastmod = "2017-03-02T11:00:00+00:00"
+publishDate = "2017-03-02T10:39:00+00:00"
 slug = "sexy-operas-the-tale-of-januarie"
 title = "Sexy operas: The Tale of Januarie"
 +++

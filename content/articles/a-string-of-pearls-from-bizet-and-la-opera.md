@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-09T10:20:00-04:00"
+lastmod = "2017-10-09T13:36:00-04:00"
+publishDate = "2017-10-09T10:51:00-04:00"
 slug = "a-string-of-pearls-from-bizet-and-la-opera"
 title = "A string of Pearls from Bizet and LA Opera"
 +++

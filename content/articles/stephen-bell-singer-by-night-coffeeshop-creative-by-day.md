@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-01-17T22:15:00+00:00"
+lastmod = "2017-01-18T12:49:00+00:00"
+publishDate = "2017-01-18T12:15:00+00:00"
 slug = "stephen-bell-singer-by-night-coffeeshop-creative-by-day"
 title = "Stephen Bell: singer by night, Coffeeshop Creative by day"
 +++

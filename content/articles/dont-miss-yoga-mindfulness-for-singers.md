@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-11-26T14:20:00+00:00"
+lastmod = "2016-11-28T12:35:00+00:00"
+publishDate = "2016-11-28T12:20:00+00:00"
 slug = "dont-miss-yoga-mindfulness-for-singers"
 title = "Don&#039;t miss: yoga &amp; mindfulness for singers"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2017-08-10T18:07:00-04:00"
+lastmod = "2017-11-22T16:36:00-05:00"
+publishDate = "2017-08-11T09:21:00-04:00"
 slug = "4-foreign-language-challenges-for-singers"
 title = "4 foreign language challenges for singers"
 +++

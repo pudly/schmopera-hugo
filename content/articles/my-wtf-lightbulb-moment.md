@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-10-16T20:36:00-04:00"
+lastmod = "2015-10-18T11:37:00-04:00"
+publishDate = "2015-10-18T11:37:00-04:00"
 slug = "my-wtf-lightbulb-moment"
 title = "My WTF lightbulb moment"
 +++

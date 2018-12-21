@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-01-20T09:27:00+00:00"
+lastmod = "2017-01-20T12:46:00+00:00"
+publishDate = "2017-01-20T10:38:00+00:00"
 slug = "whos-afraid-of-the-aging-singer"
 title = "Who&#039;s afraid of the aging singer?"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-10-29T12:34:00+01:00"
+lastmod = "2016-10-31T17:43:00+00:00"
+publishDate = "2016-10-29T13:52:00+01:00"
 slug = "in-review-and-london-burned"
 title = "In review: And London Burned"
 +++

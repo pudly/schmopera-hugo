@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-07-20T17:05:00-04:00"
+lastmod = "2015-07-30T08:14:00-04:00"
+publishDate = "2015-07-30T08:14:00-04:00"
 slug = "spotlight-on-laurelle-jade-froese"
 title = "Spotlight on: Laurelle Jade Froese"
 +++

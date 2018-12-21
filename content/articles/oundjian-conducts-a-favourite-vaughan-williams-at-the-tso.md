@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-17T12:50:00-05:00"
+lastmod = "2017-11-18T09:31:00-05:00"
+publishDate = "2017-11-17T12:50:00-05:00"
 slug = "oundjian-conducts-a-favourite-vaughan-williams-at-the-tso"
 title = "Oundjian conducts a favourite: Vaughan Williams at the TSO"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-01-08T10:40:00-05:00"
+lastmod = "2016-01-09T12:09:00-05:00"
+publishDate = "2016-01-09T12:09:00-05:00"
 slug = "spotlight-on-michael-nyby"
 title = "Spotlight on: Michael Nyby"
 +++

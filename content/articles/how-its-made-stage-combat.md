@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-01-01T14:51:00-05:00"
+lastmod = "2016-01-12T10:45:00-05:00"
+publishDate = "2016-01-12T09:00:00-05:00"
 slug = "how-its-made-stage-combat"
 title = "How it&#039;s made: stage combat"
 +++

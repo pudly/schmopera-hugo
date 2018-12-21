@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-12-18T09:51:00-05:00"
+lastmod = "2015-12-19T10:46:00-05:00"
+publishDate = "2015-12-19T08:00:00-05:00"
 slug = "andrew-staples-messiah-and-multitasking"
 title = "Andrew Staples: Messiah and multi-tasking"
 +++

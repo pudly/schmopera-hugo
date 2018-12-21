@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-09-04T14:14:00-04:00"
+lastmod = "2015-09-05T10:26:00-04:00"
+publishDate = "2015-09-05T10:03:00-04:00"
 slug = "suor-angelica-at-oshawa-opera"
 title = "Suor Angelica at Oshawa Opera"
 +++

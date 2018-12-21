@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-04-12T23:47:00-04:00"
+lastmod = "2015-04-13T14:21:00-04:00"
+publishDate = "2015-04-13T11:47:00-04:00"
 slug = "metro-youth-operas-kate-applin-on-myobabn"
 title = "Metro Youth Opera&#039;s Kate Applin on #MYOBéaBén"
 +++

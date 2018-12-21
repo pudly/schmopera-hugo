@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-07-26T15:04:00-04:00"
+lastmod = "2016-07-27T08:02:00-04:00"
+publishDate = "2016-07-27T08:01:00-04:00"
 slug = "what-else-are-singers-great-at"
 title = "What else are singers great at?"
 +++

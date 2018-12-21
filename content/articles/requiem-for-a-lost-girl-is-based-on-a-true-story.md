@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-04-23T20:55:00-04:00"
+lastmod = "2018-04-25T12:40:00-04:00"
+publishDate = "2018-04-25T12:40:00-04:00"
 slug = "requiem-for-a-lost-girl-is-based-on-a-true-story"
 title = "&quot;Requiem for a Lost Girl is based on a true story.&quot;"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-07-24T21:48:00-04:00"
+lastmod = "2018-02-15T09:32:00-05:00"
+publishDate = "2016-07-25T10:18:00-04:00"
 slug = "operalia-advertising"
 title = "Operalia &amp; advertising"
 +++

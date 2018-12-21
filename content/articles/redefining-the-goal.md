@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-08-20T12:19:00+01:00"
+lastmod = "2016-08-21T10:01:00+01:00"
+publishDate = "2016-08-21T10:01:00+01:00"
 slug = "redefining-the-goal"
 title = "Redefining the goal"
 +++

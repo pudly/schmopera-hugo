@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-12-08T18:36:00+00:00"
+lastmod = "2016-12-09T09:33:00+00:00"
+publishDate = "2016-12-09T09:33:00+00:00"
 slug = "hvorostovsky-to-take-a-pause-in-my-operatic-career"
 title = "Hvorostovsky to take a &quot;pause in my operatic career&quot;."
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-09-15T14:23:00+01:00"
+lastmod = "2016-09-20T09:10:00+01:00"
+publishDate = "2016-09-18T16:11:00+01:00"
 slug = "new-recordings-the-man-who-mistook-his-wife-for-a-hat"
 title = "New recordings: The Man Who Mistook His Wife for a Hat"
 +++

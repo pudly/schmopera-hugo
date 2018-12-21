@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-10T18:59:00-05:00"
+lastmod = "2017-11-11T12:50:00-05:00"
+publishDate = "2017-11-10T19:39:00-05:00"
 slug = "thomas-paine-in-violence-must-be-witnessed"
 title = "Thomas Paine in Violence &quot;must be witnessed.&quot;"
 +++

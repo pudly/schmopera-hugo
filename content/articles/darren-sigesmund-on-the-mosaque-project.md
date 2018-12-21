@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-07-13T20:07:00-04:00"
+lastmod = "2018-07-24T12:16:00-04:00"
+publishDate = "2018-07-24T10:59:00-04:00"
 slug = "darren-sigesmund-on-the-mosaque-project"
 title = "Darren Sigesmund on the Mosaïque Project"
 +++

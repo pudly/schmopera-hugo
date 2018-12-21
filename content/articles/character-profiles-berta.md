@@ -1,4 +1,7 @@
 +++
+date = "2015-09-08T11:44:00-04:00"
+lastmod = "2015-09-08T21:35:00-04:00"
+publishDate = "undefined"
 slug = "character-profiles-berta"
 title = "Character profiles: Berta"
 +++

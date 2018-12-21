@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2017-04-12T11:13:00+01:00"
+lastmod = "2017-04-12T13:30:00+01:00"
+publishDate = "2017-04-12T13:04:00+01:00"
 slug = "5-opera-crossovers-were-dying-to-see"
 title = "5 opera crossovers we&#039;re dying to see"
 +++

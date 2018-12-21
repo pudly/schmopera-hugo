@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-11-27T17:59:00-05:00"
+lastmod = "2015-11-28T20:18:00-05:00"
+publishDate = "2015-11-29T09:00:00-05:00"
 slug = "dont-miss-electric-messiah"
 title = "Don&#039;t miss: Electric Messiah"
 +++

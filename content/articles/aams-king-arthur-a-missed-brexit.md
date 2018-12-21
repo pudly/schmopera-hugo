@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-05T09:39:00-04:00"
+lastmod = "2017-10-05T10:01:00-04:00"
+publishDate = "2017-10-05T10:01:00-04:00"
 slug = "aams-king-arthur-a-missed-brexit"
 title = "AAM&#039;s King Arthur: a missed Brexit"
 +++

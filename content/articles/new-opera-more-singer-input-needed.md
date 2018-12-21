@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-09-07T22:03:00-04:00"
+lastmod = "2015-09-09T08:06:00-04:00"
+publishDate = "2015-09-09T08:04:00-04:00"
 slug = "new-opera-more-singer-input-needed"
 title = "New Opera: More Singer Input Needed"
 +++

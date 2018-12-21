@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-04-18T13:59:00-04:00"
+lastmod = "2017-04-25T09:39:00-04:00"
+publishDate = "2017-04-25T09:39:00-04:00"
 slug = "talking-with-singers-sasha-cooke"
 title = "Talking with singers: Sasha Cooke"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-01-08T21:51:00+00:00"
+lastmod = "2017-01-10T15:10:00+00:00"
+publishDate = "2017-01-10T14:09:00+00:00"
 slug = "in-review-der-rosenkavalier-at-roh"
 title = "In review: Der Rosenkavalier at ROH"
 +++

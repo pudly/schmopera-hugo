@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-01-22T13:31:00+00:00"
+lastmod = "2017-01-23T13:43:00+00:00"
+publishDate = "2017-01-23T13:22:00+00:00"
 slug = "in-review-fidelio-other-first-operas"
 title = "In review: Fidelio &amp; other first operas"
 +++

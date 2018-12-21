@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-10-04T20:09:00-04:00"
+lastmod = "2015-10-18T00:49:00-04:00"
+publishDate = "2015-10-07T08:00:00-04:00"
 slug = "aria-guides-deh-vieni-non-tardar"
 title = "Aria guides: &quot;Deh vieni, non tardar&quot;"
 +++

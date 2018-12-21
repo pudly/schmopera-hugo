@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-05-29T08:17:00-06:00"
+lastmod = "2017-06-13T09:16:00-06:00"
+publishDate = "2017-06-11T22:56:00-06:00"
 slug = "spotlight-on-abigail-levis"
 title = "Spotlight on: Abigail Levis"
 +++

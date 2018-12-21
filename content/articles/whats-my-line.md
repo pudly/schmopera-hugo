@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-07-04T21:56:00-06:00"
+lastmod = "2015-07-06T00:44:00-06:00"
+publishDate = "2015-07-06T07:30:00-06:00"
 slug = "whats-my-line"
 title = "What&#039;s my line?"
 +++

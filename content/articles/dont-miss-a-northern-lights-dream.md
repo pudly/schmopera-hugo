@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-12T17:33:00-04:00"
+lastmod = "2017-07-16T10:46:00-04:00"
+publishDate = "2017-07-16T10:21:00-04:00"
 slug = "dont-miss-a-northern-lights-dream"
 title = "Don&#039;t miss: A Northern Lights Dream"
 +++

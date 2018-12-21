@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-09-22T14:00:00-04:00"
+lastmod = "2018-10-03T13:54:00-04:00"
+publishDate = "2018-09-22T14:00:00-04:00"
 slug = "brenda-rae-earns-her-ovation-in-o18-lucia"
 title = "Brenda Rae earns her ovation in O18 Lucia"
 +++

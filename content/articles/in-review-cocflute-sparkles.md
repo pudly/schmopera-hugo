@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-01-21T11:25:00+00:00"
+lastmod = "2017-01-21T11:46:00+00:00"
+publishDate = "2017-01-21T11:46:00+00:00"
 slug = "in-review-cocflute-sparkles"
 title = "In review: #COCFlute sparkles"
 +++

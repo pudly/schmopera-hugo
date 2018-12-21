@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-04-18T12:56:00+01:00"
+lastmod = "2017-04-19T11:12:00+01:00"
+publishDate = "2017-04-18T20:10:00+01:00"
 slug = "taking-the-leap-from-freelance-to-fulltime"
 title = "Taking the leap from freelance to full-time"
 +++

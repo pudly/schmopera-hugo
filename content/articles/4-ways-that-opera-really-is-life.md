@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-05-26T17:55:00+01:00"
+lastmod = "2016-05-27T14:57:00+01:00"
+publishDate = "2016-05-27T14:44:00+01:00"
 slug = "4-ways-that-opera-really-is-life"
 title = "4 ways that opera really is life"
 +++

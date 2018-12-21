@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-09-23T09:57:00-04:00"
+lastmod = "2015-09-23T13:54:00-04:00"
+publishDate = "2015-09-23T11:47:00-04:00"
 slug = "coc1516-the-new-ensemble-studio"
 title = "#COC1516: the new Ensemble Studio"
 +++

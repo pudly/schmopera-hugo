@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-05-11T15:21:00-04:00"
+lastmod = "2017-05-12T09:16:00-04:00"
+publishDate = "2017-05-12T09:16:00-04:00"
 slug = "a-week-in-the-amphitheatre"
 title = "A week in the Amphitheatre"
 +++

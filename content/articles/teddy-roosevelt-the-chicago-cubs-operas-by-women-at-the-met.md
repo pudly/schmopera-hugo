@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-11-25T22:10:00+00:00"
+lastmod = "2016-11-26T14:35:00+00:00"
+publishDate = "2016-11-26T12:16:00+00:00"
 slug = "teddy-roosevelt-the-chicago-cubs-operas-by-women-at-the-met"
 title = "Teddy Roosevelt, the Chicago Cubs, &amp; operas by women at the Met"
 +++

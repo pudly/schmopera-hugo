@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-01-30T21:07:00-05:00"
+lastmod = "2018-02-01T10:16:00-05:00"
+publishDate = "2018-01-31T20:35:00-05:00"
 slug = "heggies-holocaust-operas-see-canadian-premiere"
 title = "Heggie&#039;s Holocaust operas see Canadian premiere"
 +++

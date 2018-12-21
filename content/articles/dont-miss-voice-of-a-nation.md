@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-11-22T15:30:00-05:00"
+lastmod = "2017-11-22T20:53:00-05:00"
+publishDate = "2017-11-22T20:53:00-05:00"
 slug = "dont-miss-voice-of-a-nation"
 title = "Don&#039;t miss: Voice of a Nation"
 +++

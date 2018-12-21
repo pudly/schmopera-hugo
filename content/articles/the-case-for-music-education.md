@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-01-15T10:23:00-05:00"
+lastmod = "2015-04-28T22:45:00-04:00"
+publishDate = "2014-01-15T10:23:00-05:00"
 slug = "the-case-for-music-education"
 title = "The Case for Music Education"
 +++

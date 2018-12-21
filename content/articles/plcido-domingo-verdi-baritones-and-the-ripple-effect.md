@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-09-04T16:48:00+01:00"
+lastmod = "2016-06-08T10:14:00+01:00"
+publishDate = "2015-09-08T13:00:00+01:00"
 slug = "plcido-domingo-verdi-baritones-and-the-ripple-effect"
 title = "Plácido Domingo, Verdi baritones, and the ripple effect"
 +++

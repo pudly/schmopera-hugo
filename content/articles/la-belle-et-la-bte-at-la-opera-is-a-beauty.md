@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-04T12:53:00-04:00"
+lastmod = "2017-11-04T13:10:00-04:00"
+publishDate = "2017-11-04T12:57:00-04:00"
 slug = "la-belle-et-la-bte-at-la-opera-is-a-beauty"
 title = "La Belle et la Bête at LA Opera is a beauty"
 +++

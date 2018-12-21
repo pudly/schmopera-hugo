@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-07-26T12:42:00-04:00"
+lastmod = "2016-07-28T07:13:00-04:00"
+publishDate = "2016-07-28T07:04:00-04:00"
 slug = "young-singing-done-right-aksel-rykkvin"
 title = "Young singing done right: Aksel Rykkvin"
 +++

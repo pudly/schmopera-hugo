@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-05-21T14:32:00-06:00"
+lastmod = "2017-07-05T09:17:00-06:00"
+publishDate = "2017-05-24T09:10:00-06:00"
 slug = "opinionated-opera-fans-come-write-for-us"
 title = "Opinionated opera fans: come write for us!"
 +++

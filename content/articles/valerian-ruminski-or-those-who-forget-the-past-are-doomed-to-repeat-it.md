@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-08-25T13:16:00-04:00"
+lastmod = "2015-04-16T17:21:00-04:00"
+publishDate = "2014-08-25T13:16:00-04:00"
 slug = "valerian-ruminski-or-those-who-forget-the-past-are-doomed-to-repeat-it"
 title = "Valerian Ruminski, or &quot;Those who forget the past are doomed to repeat it&quot;"
 +++

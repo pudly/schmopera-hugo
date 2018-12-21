@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2014-05-30T06:30:00-04:00"
+lastmod = "2015-04-23T19:34:00-04:00"
+publishDate = "2014-05-30T06:30:00-04:00"
 slug = "vania-chan-on-airline-icarus"
 title = "Vania Chan on Airline Icarus"
 +++

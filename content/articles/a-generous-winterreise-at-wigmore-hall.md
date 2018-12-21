@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-12-12T11:14:00-05:00"
+lastmod = "2017-12-12T13:28:00-05:00"
+publishDate = "2017-12-12T13:28:00-05:00"
 slug = "a-generous-winterreise-at-wigmore-hall"
 title = "A generous Winterreise at Wigmore Hall"
 +++

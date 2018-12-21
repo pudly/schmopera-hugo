@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-04-12T18:23:00-04:00"
+lastmod = "2015-04-23T22:34:00-04:00"
+publishDate = "2014-04-12T18:23:00-04:00"
 slug = "in-review-fawn-operas-lhomme-et-le-ciel"
 title = "In review: Fawn Opera&#039;s L&#039;homme et le ciel"
 +++

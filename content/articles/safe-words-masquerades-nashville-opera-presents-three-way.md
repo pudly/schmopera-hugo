@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-01-16T15:42:00+00:00"
+lastmod = "2017-01-18T13:33:00+00:00"
+publishDate = "2017-01-18T13:33:00+00:00"
 slug = "safe-words-masquerades-nashville-opera-presents-three-way"
 title = "Safe words &amp; Masquerades: Nashville Opera presents Three Way"
 +++

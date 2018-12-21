@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-05-21T22:11:00+01:00"
+lastmod = "2016-05-25T10:04:00+01:00"
+publishDate = "2016-05-24T21:45:00+01:00"
 slug = "robert-ames-deep-minimalism-lco"
 title = "Robert Ames: Deep Minimalism &amp; LCO"
 +++

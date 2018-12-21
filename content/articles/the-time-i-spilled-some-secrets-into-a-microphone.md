@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-10-26T14:14:00+01:00"
+lastmod = "2016-10-28T09:46:00+01:00"
+publishDate = "2016-10-28T09:46:00+01:00"
 slug = "the-time-i-spilled-some-secrets-into-a-microphone"
 title = "The time I spilled some secrets into a microphone"
 +++

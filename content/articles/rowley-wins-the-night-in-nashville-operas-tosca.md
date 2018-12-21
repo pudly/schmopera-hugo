@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-07T10:37:00-04:00"
+lastmod = "2017-10-07T11:13:00-04:00"
+publishDate = "2017-10-07T11:00:00-04:00"
 slug = "rowley-wins-the-night-in-nashville-operas-tosca"
 title = "Rowley wins the night in Nashville Opera&#039;s Tosca"
 +++

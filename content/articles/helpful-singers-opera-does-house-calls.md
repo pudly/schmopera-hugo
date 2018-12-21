@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-03-29T09:11:00+01:00"
+lastmod = "2016-03-29T11:34:00+01:00"
+publishDate = "2016-03-29T11:09:00+01:00"
 slug = "helpful-singers-opera-does-house-calls"
 title = "Helpful singers: opera does house calls"
 +++

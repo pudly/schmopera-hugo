@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-09-26T21:58:00-04:00"
+lastmod = "2018-09-27T11:15:00-04:00"
+publishDate = "2018-09-27T08:25:00-04:00"
 slug = "glitter-and-flair-queens-of-the-night"
 title = "Glitter and flair: Queens of the Night"
 +++

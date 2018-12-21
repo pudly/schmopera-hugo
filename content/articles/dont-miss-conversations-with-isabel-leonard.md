@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-03-23T18:52:00+00:00"
+lastmod = "2016-03-24T10:08:00+00:00"
+publishDate = "2016-03-24T10:00:00+00:00"
 slug = "dont-miss-conversations-with-isabel-leonard"
 title = "Don&#039;t miss: Conversations with Isabel Leonard"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-06-02T16:31:00-04:00"
+lastmod = "2015-06-03T19:32:00-04:00"
+publishDate = "2015-06-03T16:37:00-04:00"
 slug = "breeches-trousers-and-pants"
 title = "Breeches, trousers, and pants"
 +++

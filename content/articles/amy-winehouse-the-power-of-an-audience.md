@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-08-22T10:02:00+01:00"
+lastmod = "2016-08-23T09:22:00+01:00"
+publishDate = "2016-08-23T09:22:00+01:00"
 slug = "amy-winehouse-the-power-of-an-audience"
 title = "Amy Winehouse &amp; the power of an audience"
 +++

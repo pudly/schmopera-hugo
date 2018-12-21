@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-05-08T11:42:00-04:00"
+lastmod = "2017-05-10T16:46:00-04:00"
+publishDate = "2017-05-10T07:34:00-04:00"
 slug = "a-game-of-would-you-rather-or-please-prove-me-wrong"
 title = "A game of &quot;would you rather&quot; or, please prove me wrong"
 +++

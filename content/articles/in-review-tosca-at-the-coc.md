@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-05-06T23:04:00-04:00"
+lastmod = "2017-05-08T13:11:00-04:00"
+publishDate = "2017-05-08T11:37:00-04:00"
 slug = "in-review-tosca-at-the-coc"
 title = "In review: Tosca at the COC"
 +++

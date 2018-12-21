@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-02-11T17:09:00+00:00"
+lastmod = "2017-02-20T15:31:00+00:00"
+publishDate = "2017-02-20T10:31:00+00:00"
 slug = "talking-with-singers-ailyn-prez"
 title = "Talking with singers: Ailyn Pérez"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-07-10T15:20:00-04:00"
+lastmod = "2016-07-20T10:48:00-04:00"
+publishDate = "2016-07-10T17:59:00-04:00"
 slug = "4-myths-from-music-school"
 title = "4 myths from music school"
 +++

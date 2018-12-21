@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2017-01-24T10:39:00+00:00"
+lastmod = "2017-01-24T17:17:00+00:00"
+publishDate = "2017-01-24T17:11:00+00:00"
 slug = "tips-for-pianists-how-to-tremolo-like-a-pro"
 title = "Tips for pianists: how to tremolo like a pro"
 +++

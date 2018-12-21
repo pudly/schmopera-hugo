@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-01-18T12:18:00-05:00"
+lastmod = "2016-01-18T23:27:00-05:00"
+publishDate = "2016-01-19T08:00:00-05:00"
 slug = "schmoperas-british-invasion"
 title = "Schmopera&#039;s British invasion"
 +++

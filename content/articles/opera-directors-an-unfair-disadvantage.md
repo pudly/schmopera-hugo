@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-11-04T16:42:00-05:00"
+lastmod = "2015-11-04T16:44:00-05:00"
+publishDate = "2015-11-05T08:00:00-05:00"
 slug = "opera-directors-an-unfair-disadvantage"
 title = "Opera directors: an unfair disadvantage?"
 +++

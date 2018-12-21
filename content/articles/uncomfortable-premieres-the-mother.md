@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-27T16:18:00-04:00"
+lastmod = "2018-04-27T16:18:00-04:00"
+publishDate = "2018-04-27T16:18:00-04:00"
 slug = "uncomfortable-premieres-the-mother"
 title = "Uncomfortable premieres: The Mother"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-11-15T13:30:00-05:00"
+lastmod = "2018-11-16T10:35:00-05:00"
+publishDate = "2018-11-16T10:35:00-05:00"
 slug = "schoenberg-in-hollywood-a-heap-of-excess"
 title = "Schoenberg in Hollywood &amp; a heap of excess"
 +++

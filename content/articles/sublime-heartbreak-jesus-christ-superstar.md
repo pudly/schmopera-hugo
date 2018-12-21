@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-05-03T13:31:00-04:00"
+lastmod = "2018-05-03T13:33:00-04:00"
+publishDate = "2018-05-03T13:31:00-04:00"
 slug = "sublime-heartbreak-jesus-christ-superstar"
 title = "Sublime heartbreak: Jesus Christ Superstar"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2017-08-13T21:23:00-04:00"
+lastmod = "2017-08-16T14:32:00-04:00"
+publishDate = "2017-08-16T13:25:00-04:00"
 slug = "aria-guides-sempre-libera"
 title = "Aria guides: &quot;Sempre libera&quot;"
 +++

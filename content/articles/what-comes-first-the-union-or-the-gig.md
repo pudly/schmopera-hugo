@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-04-11T18:54:00-04:00"
+lastmod = "2015-04-12T20:00:00-04:00"
+publishDate = "2015-02-18T09:53:00-05:00"
 slug = "what-comes-first-the-union-or-the-gig"
 title = "What comes first, the union or the gig?"
 +++

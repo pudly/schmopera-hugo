@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-01-28T12:37:00-05:00"
+lastmod = "2018-01-29T09:18:00-05:00"
+publishDate = "2018-01-28T21:05:00-05:00"
 slug = "talking-with-conductors-george-jackson"
 title = "Talking with conductors: George Jackson"
 +++

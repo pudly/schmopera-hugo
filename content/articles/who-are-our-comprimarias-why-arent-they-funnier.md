@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-12-28T14:47:00-05:00"
+lastmod = "2015-12-29T12:36:00-05:00"
+publishDate = "2015-12-29T12:36:00-05:00"
 slug = "who-are-our-comprimarias-why-arent-they-funnier"
 title = "Who are our comprimarias, &amp; why aren&#039;t they funnier?"
 +++

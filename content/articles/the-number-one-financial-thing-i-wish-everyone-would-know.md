@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-10-21T19:38:00-04:00"
+lastmod = "2015-10-22T20:57:00-04:00"
+publishDate = "2015-10-23T08:00:00-04:00"
 slug = "the-number-one-financial-thing-i-wish-everyone-would-know"
 title = "The number one financial thing I wish everyone would know"
 +++

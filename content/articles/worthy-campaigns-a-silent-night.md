@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-03-12T15:23:00+00:00"
+lastmod = "2016-03-12T16:14:00+00:00"
+publishDate = "2016-03-12T16:08:00+00:00"
 slug = "worthy-campaigns-a-silent-night"
 title = "Worthy campaigns: A Silent Night"
 +++

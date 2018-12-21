@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-09-02T12:35:00-04:00"
+lastmod = "2015-09-07T15:01:00-04:00"
+publishDate = "2015-09-07T11:53:00-04:00"
 slug = "interviewing-the-greats-virginia-zeani"
 title = "Interviewing the Greats: Virginia Zeani"
 +++

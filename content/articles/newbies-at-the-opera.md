@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-02-17T18:17:00-05:00"
+lastmod = "2016-02-19T09:12:00-05:00"
+publishDate = "2016-02-19T08:45:00-05:00"
 slug = "newbies-at-the-opera"
 title = "Newbies at the opera"
 +++

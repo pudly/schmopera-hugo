@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-06-28T18:22:00-06:00"
+lastmod = "2016-07-05T19:50:00-06:00"
+publishDate = "undefined"
 slug = "check-out-tte-tte"
 title = "Check out: Tête à Tête"
 +++

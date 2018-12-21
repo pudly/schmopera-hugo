@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-03-24T15:44:00+00:00"
+lastmod = "2017-03-28T08:42:00+01:00"
+publishDate = "2017-03-27T10:45:00+01:00"
 slug = "talking-with-singers-matthew-polenzani"
 title = "Talking with singers: Matthew Polenzani"
 +++

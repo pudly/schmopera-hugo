@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-03-16T17:11:00-04:00"
+lastmod = "2018-03-22T21:33:00-04:00"
+publishDate = "2018-03-16T21:49:00-04:00"
 slug = "gareth-matteys-belladonna-is-unashamedly-queer"
 title = "Gareth Mattey&#039;s Belladonna is &quot;unashamedly queer&quot;"
 +++

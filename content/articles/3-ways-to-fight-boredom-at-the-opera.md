@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-09-14T12:34:00+01:00"
+lastmod = "2016-09-14T17:00:00+01:00"
+publishDate = "2016-09-14T16:07:00+01:00"
 slug = "3-ways-to-fight-boredom-at-the-opera"
 title = "3 ways to fight boredom at the opera"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-04-26T16:38:00-04:00"
+lastmod = "2017-04-26T17:12:00-04:00"
+publishDate = "2017-04-26T17:08:00-04:00"
 slug = "dont-miss-the-chocolate-soldier"
 title = "Don&#039;t miss: The Chocolate Soldier"
 +++

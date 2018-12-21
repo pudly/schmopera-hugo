@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-06-24T17:48:00-06:00"
+lastmod = "2015-06-25T14:53:00-06:00"
+publishDate = "2015-06-25T14:41:00-06:00"
 slug = "spotlight-on-christopher-james-ray"
 title = "Spotlight on: Christopher James Ray"
 +++

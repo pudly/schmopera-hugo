@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-10-17T14:02:00+01:00"
+lastmod = "2017-01-09T10:57:00+00:00"
+publishDate = "2016-10-20T13:09:00+01:00"
 slug = "artists-management-pages-a-psa-for-singers"
 title = "Artists management pages: a PSA for singers"
 +++

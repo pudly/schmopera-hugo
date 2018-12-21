@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-08-25T19:58:00+01:00"
+lastmod = "2016-08-30T13:46:00+01:00"
+publishDate = "2016-08-30T13:00:00+01:00"
 slug = "dont-miss-rhiannon-giddens-at-merkin-concert-hall"
 title = "Don&#039;t miss: Rhiannon Giddens at Merkin Concert Hall"
 +++

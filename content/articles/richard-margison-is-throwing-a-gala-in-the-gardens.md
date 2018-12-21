@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-07-24T10:12:00-04:00"
+lastmod = "2015-07-26T10:26:00-04:00"
+publishDate = "2015-07-26T10:12:00-04:00"
 slug = "richard-margison-is-throwing-a-gala-in-the-gardens"
 title = "Richard Margison is throwing a Gala in the Gardens"
 +++

@@ -1,4 +1,7 @@
 +++
+date = "2014-03-12T09:00:00-04:00"
+lastmod = "2015-04-26T00:15:00-04:00"
+publishDate = "2014-03-12T09:00:00-04:00"
 slug = "that-great-scene-in"
 title = "That great scene in..."
 +++

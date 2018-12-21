@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-11-08T12:38:00+00:00"
+lastmod = "2016-11-12T12:29:00+00:00"
+publishDate = "2016-11-12T12:29:00+00:00"
 slug = "dont-miss-the-art-song-of-healey-willan"
 title = "Don&#039;t miss: The Art Song of Healey Willan"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-07-13T20:01:00-04:00"
+lastmod = "2018-07-20T16:53:00-04:00"
+publishDate = "2018-07-20T16:53:00-04:00"
 slug = "sarah-slean-on-the-mosaque-project"
 title = "Sarah Slean on the Mosaïque Project"
 +++

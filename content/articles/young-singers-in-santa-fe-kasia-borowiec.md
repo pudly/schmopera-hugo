@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-13T13:13:00-04:00"
+lastmod = "2017-07-22T10:49:00-04:00"
+publishDate = "2017-07-22T10:35:00-04:00"
 slug = "young-singers-in-santa-fe-kasia-borowiec"
 title = "Young singers in Santa Fe: Kasia Borowiec"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-08-25T19:56:00+01:00"
+lastmod = "2016-08-29T13:03:00+01:00"
+publishDate = "2016-08-29T12:50:00+01:00"
 slug = "new-operas-craig-bohmlers-riders-of-the-purple-sage"
 title = "New operas: Craig Bohmler&#039;s Riders of the Purple Sage"
 +++

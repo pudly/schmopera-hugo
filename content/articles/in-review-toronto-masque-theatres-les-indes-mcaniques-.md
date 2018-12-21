@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-05-15T09:34:00-04:00"
+lastmod = "2015-05-15T10:30:00-04:00"
+publishDate = "2015-05-15T10:30:00-04:00"
 slug = "in-review-toronto-masque-theatres-les-indes-mcaniques-"
 title = "In review: Toronto Masque Theatre&#039;s Les Indes Mécaniques "
 +++

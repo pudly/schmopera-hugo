@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-02-16T10:18:00+00:00"
+lastmod = "2017-02-20T14:14:00+00:00"
+publishDate = "2017-02-18T09:35:00+00:00"
 slug = "201718-at-the-met-are-conservative-seasons-the-way-to-go"
 title = "2017/18 at the Met: are conservative seasons the way to go?"
 +++

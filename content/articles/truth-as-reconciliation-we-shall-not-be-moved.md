@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-08-20T11:19:00-04:00"
+lastmod = "2017-08-21T13:23:00-04:00"
+publishDate = "2017-08-21T12:03:00-04:00"
 slug = "truth-as-reconciliation-we-shall-not-be-moved"
 title = "&quot;Truth, as reconciliation&quot;: We Shall Not Be Moved"
 +++

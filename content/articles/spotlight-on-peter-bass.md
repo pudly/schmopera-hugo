@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-06-14T13:48:00-06:00"
+lastmod = "2015-06-22T13:37:00-06:00"
+publishDate = "2015-06-22T13:30:00-06:00"
 slug = "spotlight-on-peter-bass"
 title = "Spotlight on: Peter Bass"
 +++

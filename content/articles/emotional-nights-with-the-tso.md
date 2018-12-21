@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-11T14:13:00-05:00"
+lastmod = "2017-11-11T21:42:00-05:00"
+publishDate = "2017-11-11T17:14:00-05:00"
 slug = "emotional-nights-with-the-tso"
 title = "Emotional nights with the TSO"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-02-16T22:23:00-05:00"
+lastmod = "2016-02-17T10:53:00-05:00"
+publishDate = "2016-02-17T10:39:00-05:00"
 slug = "yes-please-jonas-kaufmann-on-the-big-screen"
 title = "Yes, please: Jonas Kaufmann on the big screen"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-06-20T11:31:00-04:00"
+lastmod = "2015-04-27T18:04:00-04:00"
+publishDate = "2014-06-20T11:31:00-04:00"
 slug = "may-she-never-work-again"
 title = "May She Never Work Again"
 +++

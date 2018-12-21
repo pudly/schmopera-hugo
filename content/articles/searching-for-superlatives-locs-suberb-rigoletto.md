@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-08T23:02:00-04:00"
+lastmod = "2017-10-08T23:32:00-04:00"
+publishDate = "2017-10-08T23:26:00-04:00"
 slug = "searching-for-superlatives-locs-suberb-rigoletto"
 title = "Searching for superlatives: LOC&#039;s suberb Rigoletto"
 +++

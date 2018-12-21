@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2018-02-17T13:07:00-05:00"
+lastmod = "2018-02-17T22:01:00-05:00"
+publishDate = "2018-02-17T13:07:00-05:00"
 slug = "the-mets-201819-seaszzzzzzzzz"
 title = "The Met&#039;s 2018/19 seas...zzzzzzzzz"
 +++

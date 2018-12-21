@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-10-04T18:05:00-04:00"
+lastmod = "2015-10-05T08:34:00-04:00"
+publishDate = "2015-10-05T08:00:00-04:00"
 slug = "spotlight-on-sara-schabas"
 title = "Spotlight on: Sara Schabas"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-04-10T23:36:00-04:00"
+lastmod = "2015-04-10T23:36:00-04:00"
+publishDate = "2015-02-27T09:35:00-05:00"
 slug = "asking-google-about-opera"
 title = "Asking Google About Opera"
 +++

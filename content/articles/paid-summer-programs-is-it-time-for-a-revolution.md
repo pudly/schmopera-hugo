@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-11-27T09:35:00-05:00"
+lastmod = "2015-11-27T11:39:00-05:00"
+publishDate = "2015-11-27T11:30:00-05:00"
 slug = "paid-summer-programs-is-it-time-for-a-revolution"
 title = "Paid summer programs: is it time for a revolution?"
 +++

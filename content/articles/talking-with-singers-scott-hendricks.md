@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-01-26T15:26:00+00:00"
+lastmod = "2017-01-28T10:48:00+00:00"
+publishDate = "2017-01-28T10:48:00+00:00"
 slug = "talking-with-singers-scott-hendricks"
 title = "Talking with singers: Scott Hendricks"
 +++

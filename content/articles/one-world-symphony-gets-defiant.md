@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-01-03T20:21:00+00:00"
+lastmod = "2017-01-15T19:00:00+00:00"
+publishDate = "2017-01-05T14:44:00+00:00"
 slug = "one-world-symphony-gets-defiant"
 title = "One World Symphony gets &quot;Defiant&quot;"
 +++

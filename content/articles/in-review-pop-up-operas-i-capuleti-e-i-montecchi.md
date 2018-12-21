@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-04-05T13:29:00+01:00"
+lastmod = "2017-04-05T16:11:00+01:00"
+publishDate = "2017-04-05T15:47:00+01:00"
 slug = "in-review-pop-up-operas-i-capuleti-e-i-montecchi"
 title = "In review: Pop Up Opera&#039;s I Capuleti e i Montecchi"
 +++

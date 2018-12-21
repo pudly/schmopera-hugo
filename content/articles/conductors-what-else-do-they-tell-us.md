@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-09-09T12:44:00-04:00"
+lastmod = "2015-09-11T09:08:00-04:00"
+publishDate = "2015-09-11T09:08:00-04:00"
 slug = "conductors-what-else-do-they-tell-us"
 title = "Conductors: what else do they tell us?"
 +++

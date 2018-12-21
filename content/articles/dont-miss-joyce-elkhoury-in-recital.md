@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-10-08T09:32:00-04:00"
+lastmod = "2015-10-08T13:54:00-04:00"
+publishDate = "2015-10-08T12:00:00-04:00"
 slug = "dont-miss-joyce-elkhoury-in-recital"
 title = "Don&#039;t miss: Joyce El-Khoury in recital"
 +++

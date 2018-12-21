@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-03-15T23:33:00-04:00"
+lastmod = "2015-04-26T00:07:00-04:00"
+publishDate = "2014-03-15T23:33:00-04:00"
 slug = "simon-cowell-stop-it-an-update"
 title = "Simon Cowell, stop it: An Update"
 +++

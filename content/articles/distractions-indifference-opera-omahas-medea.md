@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-23T20:08:00-04:00"
+lastmod = "2018-04-23T20:08:00-04:00"
+publishDate = "2018-04-23T20:08:00-04:00"
 slug = "distractions-indifference-opera-omahas-medea"
 title = "Distractions &amp; indifference: Opera Omaha&#039;s Medea"
 +++

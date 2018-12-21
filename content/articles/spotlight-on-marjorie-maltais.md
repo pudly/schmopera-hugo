@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-07-12T16:54:00-06:00"
+lastmod = "2015-07-17T10:50:00-06:00"
+publishDate = "2015-07-17T10:50:00-06:00"
 slug = "spotlight-on-marjorie-maltais"
 title = "Spotlight on: Marjorie Maltais"
 +++

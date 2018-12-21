@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-17T12:33:00-04:00"
+lastmod = "2017-10-18T21:45:00-04:00"
+publishDate = "2017-10-18T21:45:00-04:00"
 slug = "an-isolated-tenor-in-an-operatic-masterwork-les-contes-dhoffmann"
 title = "An isolated tenor in an operatic masterwork: Les contes d&#039;Hoffmann"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-09-24T20:32:00-04:00"
+lastmod = "2018-09-24T20:33:00-04:00"
+publishDate = "2018-09-24T20:32:00-04:00"
 slug = "the-astonishing-product-glass-handel-at-o18"
 title = "The astonishing product: Glass Handel at O18"
 +++

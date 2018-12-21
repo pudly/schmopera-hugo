@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-06-05T13:47:00+01:00"
+lastmod = "2016-06-06T19:22:00+01:00"
+publishDate = "2016-06-05T22:23:00+01:00"
 slug = "baby-opera-singers-getting-angry-for-the-right-reasons"
 title = "Baby &quot;opera singers&quot; &amp; getting angry for the right reasons"
 +++

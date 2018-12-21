@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-11-13T15:09:00-05:00"
+lastmod = "2017-11-14T19:28:00-05:00"
+publishDate = "2017-11-14T19:28:00-05:00"
 slug = "talking-with-pianists-james-cheung"
 title = "Talking with pianists: James Cheung"
 +++

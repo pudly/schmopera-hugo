@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-11-13T17:19:00-05:00"
+lastmod = "2015-11-14T12:45:00-05:00"
+publishDate = "2015-11-14T12:44:00-05:00"
 slug = "to-be-announced-iii-new-music-via-toy-piano-composers"
 title = "To Be Announced III: new music via Toy Piano Composers"
 +++

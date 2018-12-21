@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-05-11T06:46:00-04:00"
+lastmod = "2017-08-30T13:13:00-04:00"
+publishDate = "2016-05-11T10:18:00-04:00"
 slug = "talking-with-singers-melody-moore"
 title = "Talking with singers: Melody Moore"
 +++

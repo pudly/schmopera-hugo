@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-09-18T22:44:00-04:00"
+lastmod = "2017-09-20T11:17:00-04:00"
+publishDate = "2017-09-20T11:17:00-04:00"
 slug = "talking-with-singers-carl-tanner"
 title = "Talking with singers: Carl Tanner"
 +++

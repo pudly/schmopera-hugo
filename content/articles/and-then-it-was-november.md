@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-10-31T20:04:00+00:00"
+lastmod = "2016-11-01T09:24:00+00:00"
+publishDate = "2016-11-01T09:14:00+00:00"
 slug = "and-then-it-was-november"
 title = "...and then it was November"
 +++

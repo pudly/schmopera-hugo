@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-02-26T15:30:00-05:00"
+lastmod = "2018-02-26T19:35:00-05:00"
+publishDate = "2018-02-26T19:35:00-05:00"
 slug = "misnomers-interstellar-sex-scenes-vasco-de-gama"
 title = "Misnomers &amp; interstellar sex scenes: Vasco de Gama"
 +++

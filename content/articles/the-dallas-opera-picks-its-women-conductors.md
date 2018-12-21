@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-06-05T16:15:00-04:00"
+lastmod = "2015-06-17T15:24:00-04:00"
+publishDate = "2015-06-08T12:31:00-04:00"
 slug = "the-dallas-opera-picks-its-women-conductors"
 title = "The Dallas Opera picks its Women Conductors"
 +++

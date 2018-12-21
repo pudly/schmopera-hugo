@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-03-07T16:19:00+00:00"
+lastmod = "2016-03-08T18:42:00+00:00"
+publishDate = "2016-03-08T18:36:00+00:00"
 slug = "opera-faster-the-cocs-cheeky-new-app"
 title = "Opera, faster: the COC&#039;s cheeky new app"
 +++

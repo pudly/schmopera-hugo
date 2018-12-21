@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-12-02T21:04:00-05:00"
+lastmod = "2015-12-10T10:43:00-05:00"
+publishDate = "2015-12-10T10:35:00-05:00"
 slug = "knoxville-opera-poor-diction-and-prerogative"
 title = "Knoxville Opera, poor diction, and prerogative"
 +++

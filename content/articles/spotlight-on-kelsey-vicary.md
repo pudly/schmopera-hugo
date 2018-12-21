@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-06-28T14:36:00-06:00"
+lastmod = "2015-06-29T13:00:00-06:00"
+publishDate = "2015-06-29T12:55:00-06:00"
 slug = "spotlight-on-kelsey-vicary"
 title = "Spotlight on: Kelsey Vicary"
 +++

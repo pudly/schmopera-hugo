@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-11-17T14:37:00+00:00"
+lastmod = "2016-11-23T12:07:00+00:00"
+publishDate = "2016-11-23T12:07:00+00:00"
 slug = "honing-your-craft-opera-courses-at-the-associated-studios"
 title = "Honing your craft: opera courses at The Associated Studios"
 +++

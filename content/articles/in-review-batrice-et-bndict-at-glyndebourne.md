@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-08-20T11:39:00+01:00"
+lastmod = "2016-08-20T14:40:00+01:00"
+publishDate = "2016-08-20T14:22:00+01:00"
 slug = "in-review-batrice-et-bndict-at-glyndebourne"
 title = "In review: Béatrice et Bénédict at Glyndebourne"
 +++

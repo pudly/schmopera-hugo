@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-01-24T11:59:00-05:00"
+lastmod = "2015-04-11T22:39:00-04:00"
+publishDate = "2015-01-24T11:59:00-05:00"
 slug = "regietheater-ja-oder-nein"
 title = "Regietheater? Ja oder nein?"
 +++

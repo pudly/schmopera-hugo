@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-05-26T10:35:00-04:00"
+lastmod = "2017-05-26T15:04:00-04:00"
+publishDate = "2017-05-26T13:17:00-04:00"
 slug = "a-full-house-for-canadian-art-song-at-21c"
 title = "A full house for Canadian art song at 21C"
 +++

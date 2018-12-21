@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-01-06T10:05:00+00:00"
+lastmod = "2017-01-06T14:14:00+00:00"
+publishDate = "2017-01-06T14:14:00+00:00"
 slug = "folds-the-new-fulllength-solo-album-from-nathan-shubert"
 title = "Folds: the new full-length solo album from Nathan Shubert"
 +++

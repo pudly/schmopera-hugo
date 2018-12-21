@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-10-13T14:04:00-04:00"
+lastmod = "2018-10-14T22:08:00-04:00"
+publishDate = "2018-10-13T15:53:00-04:00"
 slug = "a-world-premiere-anna-christie"
 title = "A world premiere: Anna Christie"
 +++

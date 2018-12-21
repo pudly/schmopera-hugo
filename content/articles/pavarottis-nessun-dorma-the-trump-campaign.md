@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-07-24T12:24:00-04:00"
+lastmod = "2016-07-25T08:40:00-04:00"
+publishDate = "2016-07-25T08:36:00-04:00"
 slug = "pavarottis-nessun-dorma-the-trump-campaign"
 title = "Pavarotti&#039;s &quot;Nessun dorma&quot; &amp; the Trump campaign"
 +++

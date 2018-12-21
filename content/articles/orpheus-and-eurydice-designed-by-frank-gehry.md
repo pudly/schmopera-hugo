@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-04-10T21:00:00-04:00"
+lastmod = "2015-04-12T00:07:00-04:00"
+publishDate = "2015-03-31T09:00:00-04:00"
 slug = "orpheus-and-eurydice-designed-by-frank-gehry"
 title = "Orpheus and Eurydice, designed by Frank Gehry"
 +++

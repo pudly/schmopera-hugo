@@ -1,4 +1,7 @@
 +++
+date = "2014-11-23T09:00:00-05:00"
+lastmod = "2015-04-13T22:36:00-04:00"
+publishDate = "2014-11-23T09:00:00-05:00"
 slug = "tales-from-the-score-annas-innocence"
 title = "Tales from the score: Anna&#039;s innocence"
 +++

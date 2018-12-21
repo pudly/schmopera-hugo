@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-07-27T12:21:00-04:00"
+lastmod = "2017-07-30T11:16:00-04:00"
+publishDate = "2017-07-30T10:27:00-04:00"
 slug = "cute-catchy-the-schoolyard-carmen"
 title = "Cute &amp; catchy: The Schoolyard Carmen"
 +++

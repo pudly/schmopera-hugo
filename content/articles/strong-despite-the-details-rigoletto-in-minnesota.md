@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-03-25T20:24:00-04:00"
+lastmod = "2018-03-25T20:24:00-04:00"
+publishDate = "2018-03-25T20:24:00-04:00"
 slug = "strong-despite-the-details-rigoletto-in-minnesota"
 title = "Strong despite the details: Rigoletto in Minnesota"
 +++

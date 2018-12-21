@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-01-18T11:46:00-05:00"
+lastmod = "2016-01-28T20:25:00-05:00"
+publishDate = "2016-01-29T09:00:00-05:00"
 slug = "shes-leaving-home"
 title = "She&#039;s leaving home"
 +++

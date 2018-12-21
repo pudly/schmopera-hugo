@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-09-02T14:00:00-04:00"
+lastmod = "2015-04-16T15:42:00-04:00"
+publishDate = "2014-09-02T14:00:00-04:00"
 slug = "forgiving-racism-onstage"
 title = "Forgiving Racism Onstage"
 +++

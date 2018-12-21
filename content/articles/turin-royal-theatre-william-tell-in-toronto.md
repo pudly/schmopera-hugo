@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-12-02T08:00:00-05:00"
+lastmod = "2015-04-13T21:04:00-04:00"
+publishDate = "2014-12-02T08:00:00-05:00"
 slug = "turin-royal-theatre-william-tell-in-toronto"
 title = "Turin Royal Theatre: William Tell in Toronto"
 +++

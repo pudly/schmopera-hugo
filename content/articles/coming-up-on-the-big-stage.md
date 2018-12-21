@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-08-28T09:00:00-04:00"
+lastmod = "2015-04-16T16:01:00-04:00"
+publishDate = "2014-08-28T09:00:00-04:00"
 slug = "coming-up-on-the-big-stage"
 title = "Coming up on the big stage"
 +++

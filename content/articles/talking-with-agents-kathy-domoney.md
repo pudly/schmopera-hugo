@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-03-14T22:36:00-04:00"
+lastmod = "2018-03-15T21:47:00-04:00"
+publishDate = "2018-03-15T21:35:00-04:00"
 slug = "talking-with-agents-kathy-domoney"
 title = "Talking with agents: Kathy Domoney"
 +++

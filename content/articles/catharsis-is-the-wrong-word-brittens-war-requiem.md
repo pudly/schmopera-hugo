@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-11-11T11:32:00-05:00"
+lastmod = "2018-11-11T11:38:00-05:00"
+publishDate = "2018-11-11T11:35:00-05:00"
 slug = "catharsis-is-the-wrong-word-brittens-war-requiem"
 title = "&quot;Catharsis&quot; is the wrong word: Britten&#039;s War Requiem"
 +++

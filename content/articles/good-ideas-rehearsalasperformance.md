@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-12-29T15:44:00-05:00"
+lastmod = "2016-01-08T14:13:00-05:00"
+publishDate = "2016-01-09T09:00:00-05:00"
 slug = "good-ideas-rehearsalasperformance"
 title = "Good ideas: rehearsal-as-performance"
 +++

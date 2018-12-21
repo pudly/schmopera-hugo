@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-12-17T11:50:00-05:00"
+lastmod = "2015-04-13T22:13:00-04:00"
+publishDate = "2014-12-17T11:50:00-05:00"
 slug = "the-mikado-and-champagne"
 title = "The Mikado and Champagne"
 +++

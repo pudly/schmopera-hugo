@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2016-05-25T05:23:00-04:00"
+lastmod = "2017-09-28T11:28:00-04:00"
+publishDate = "2016-05-25T06:53:00-04:00"
 slug = "singers-masters-of-illusions"
 title = "Singers: masters of illusions"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-11-24T17:55:00-05:00"
+lastmod = "2015-11-25T16:26:00-05:00"
+publishDate = "2015-11-25T16:21:00-05:00"
 slug = "emotional-extremes-bringing-your-work-home"
 title = "Emotional extremes &amp; bringing your work home"
 +++

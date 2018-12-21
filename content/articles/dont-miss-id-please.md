@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-08T13:40:00-04:00"
+lastmod = "2017-07-10T21:52:00-04:00"
+publishDate = "2017-07-10T21:50:00-04:00"
 slug = "dont-miss-id-please"
 title = "Don&#039;t miss: ID, Please"
 +++

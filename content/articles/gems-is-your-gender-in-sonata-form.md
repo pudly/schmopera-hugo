@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-02-25T13:30:00-05:00"
+lastmod = "2016-02-25T14:01:00-05:00"
+publishDate = "2016-02-25T14:01:00-05:00"
 slug = "gems-is-your-gender-in-sonata-form"
 title = "Gems: is your gender in sonata form?"
 +++

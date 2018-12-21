@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-09-11T09:00:00-04:00"
+lastmod = "2015-04-16T15:16:00-04:00"
+publishDate = "2014-09-11T09:00:00-04:00"
 slug = "in-review-baby-kintyre"
 title = "In Review: Baby Kintyre"
 +++

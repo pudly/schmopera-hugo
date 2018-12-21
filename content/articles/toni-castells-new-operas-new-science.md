@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-06-28T18:17:00-06:00"
+lastmod = "2016-07-06T16:09:00-06:00"
+publishDate = "2016-07-05T19:43:00-06:00"
 slug = "toni-castells-new-operas-new-science"
 title = "Toni Castells: new operas, &amp; new science"
 +++

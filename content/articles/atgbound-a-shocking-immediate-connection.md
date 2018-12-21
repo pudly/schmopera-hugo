@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-12-07T22:36:00-05:00"
+lastmod = "2017-12-08T11:10:00-05:00"
+publishDate = "2017-12-07T22:46:00-05:00"
 slug = "atgbound-a-shocking-immediate-connection"
 title = "#AtGBound: &quot;A shocking, immediate connection.&quot;"
 +++

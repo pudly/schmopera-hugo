@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-04-07T12:27:00+01:00"
+lastmod = "2017-04-08T12:38:00+01:00"
+publishDate = "2017-04-07T14:34:00+01:00"
 slug = "in-review-times-two-ensemble-prisma-wien-bernarda-fink"
 title = "In review times two: Ensemble Prisma Wien &amp; Bernarda Fink"
 +++

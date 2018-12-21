@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-03-27T17:11:00-04:00"
+lastmod = "2018-03-27T21:33:00-04:00"
+publishDate = "2018-03-27T17:11:00-04:00"
 slug = "twice-on-this-island"
 title = "Twice on This Island"
 +++

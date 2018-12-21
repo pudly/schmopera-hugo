@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-10-14T15:13:00+01:00"
+lastmod = "2016-10-18T14:54:00+01:00"
+publishDate = "2016-10-18T13:02:00+01:00"
 slug = "talking-with-singers-david-shipley"
 title = "Talking with singers: David Shipley"
 +++

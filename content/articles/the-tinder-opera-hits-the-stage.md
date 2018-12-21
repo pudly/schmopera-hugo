@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-10-25T10:37:00+01:00"
+lastmod = "2016-10-26T13:29:00+01:00"
+publishDate = "2016-10-26T13:17:00+01:00"
 slug = "the-tinder-opera-hits-the-stage"
 title = "The Tinder Opera hits the stage"
 +++

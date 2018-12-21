@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-09-30T11:08:00+01:00"
+lastmod = "2016-10-01T21:48:00+01:00"
+publishDate = "2016-10-01T15:02:00+01:00"
 slug = "dont-miss-feet-at-the-horniman-museum"
 title = "Don&#039;t miss: &quot;Feet&quot; at the Horniman Museum"
 +++

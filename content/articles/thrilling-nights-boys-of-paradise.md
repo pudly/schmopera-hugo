@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-10-17T22:21:00+01:00"
+lastmod = "2016-10-18T09:13:00+01:00"
+publishDate = "2016-10-18T08:22:00+01:00"
 slug = "thrilling-nights-boys-of-paradise"
 title = "Thrilling nights: Boys of Paradise"
 +++

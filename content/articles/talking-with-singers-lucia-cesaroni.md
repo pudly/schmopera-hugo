@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-04-12T00:18:00+01:00"
+lastmod = "2016-10-07T14:57:00+01:00"
+publishDate = "2015-02-16T14:18:00+00:00"
 slug = "talking-with-singers-lucia-cesaroni"
 title = "Talking with Singers: Lucia Cesaroni"
 +++

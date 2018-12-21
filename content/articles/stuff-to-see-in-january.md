@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-01-07T13:30:00-05:00"
+lastmod = "2015-04-12T10:43:00-04:00"
+publishDate = "2015-01-07T13:30:00-05:00"
 slug = "stuff-to-see-in-january"
 title = "Stuff to see in January"
 +++

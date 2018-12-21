@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2016-11-14T14:53:00+00:00"
+lastmod = "2016-12-02T10:51:00+00:00"
+publishDate = "2016-12-02T10:37:00+00:00"
 slug = "being-a-helpful-pianist-which-is-your-pageturning-hand"
 title = "Being a helpful pianist: which is your page-turning hand?"
 +++
