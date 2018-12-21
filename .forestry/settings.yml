@@ -26,6 +26,11 @@ sections:
   label: People
   create: all
   match: "**/*"
+- type: directory
+  path: content/about
+  label: About
+  create: all
+  match: "**/*"
 upload_dir: media
 public_path: https://res.cloudinary.com/schmopera/image/upload
 front_matter_path: ''
