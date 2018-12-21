@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-10-28T09:00:00-04:00"
+lastmod = "2015-04-14T10:09:00-04:00"
+publishDate = "2014-10-28T09:00:00-04:00"
 slug = "in-recital-lucia-cesaroni-and-adrian-kramer"
 title = "In recital: Lucia Cesaroni and Adrian Kramer"
 +++

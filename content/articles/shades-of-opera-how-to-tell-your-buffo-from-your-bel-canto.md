@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2017-02-08T10:50:00-05:00"
+lastmod = "2018-03-14T10:58:00-04:00"
+publishDate = "2017-02-13T05:50:00-05:00"
 slug = "shades-of-opera-how-to-tell-your-buffo-from-your-bel-canto"
 title = "Shades of opera: how to tell your buffo from your bel canto"
 +++

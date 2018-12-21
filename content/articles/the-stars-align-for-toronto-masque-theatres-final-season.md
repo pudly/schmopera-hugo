@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-09-12T20:21:00-04:00"
+lastmod = "2017-09-17T11:27:00-04:00"
+publishDate = "2017-09-17T11:27:00-04:00"
 slug = "the-stars-align-for-toronto-masque-theatres-final-season"
 title = "The stars align for Toronto Masque Theatre&#039;s final season"
 +++

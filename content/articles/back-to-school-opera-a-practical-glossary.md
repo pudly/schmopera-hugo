@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-09-01T11:06:00-04:00"
+lastmod = "2017-08-09T19:15:00-04:00"
+publishDate = "2015-09-02T07:30:00-04:00"
 slug = "back-to-school-opera-a-practical-glossary"
 title = "Back to school opera: a practical glossary"
 +++

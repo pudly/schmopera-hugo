@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-05-11T18:16:00+01:00"
+lastmod = "2016-05-16T13:20:00+01:00"
+publishDate = "2016-05-12T14:03:00+01:00"
 slug = "6-animals-who-love-opera-more-than-penguins"
 title = "6 animals who love opera more than penguins"
 +++

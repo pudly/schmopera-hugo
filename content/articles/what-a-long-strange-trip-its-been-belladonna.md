@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-03-27T17:30:00-04:00"
+lastmod = "2018-03-29T09:31:00-04:00"
+publishDate = "2018-03-27T19:38:00-04:00"
 slug = "what-a-long-strange-trip-its-been-belladonna"
 title = "What a long, strange trip it&#039;s been: Belladonna"
 +++

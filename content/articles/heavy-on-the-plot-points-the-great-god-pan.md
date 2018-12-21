@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-03-12T12:07:00-04:00"
+lastmod = "2018-03-13T21:12:00-04:00"
+publishDate = "2018-03-13T21:12:00-04:00"
 slug = "heavy-on-the-plot-points-the-great-god-pan"
 title = "Heavy on the plot points: The Great God Pan"
 +++

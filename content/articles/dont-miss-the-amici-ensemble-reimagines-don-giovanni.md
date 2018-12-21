@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-02-13T13:40:00+00:00"
+lastmod = "2017-02-13T16:46:00+00:00"
+publishDate = "2017-02-13T16:46:00+00:00"
 slug = "dont-miss-the-amici-ensemble-reimagines-don-giovanni"
 title = "Don&#039;t miss: the Amici Ensemble reimagines Don Giovanni"
 +++

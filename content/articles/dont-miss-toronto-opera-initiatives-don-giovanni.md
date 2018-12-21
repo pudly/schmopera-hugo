@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-02-11T11:29:00-05:00"
+lastmod = "2016-02-11T11:32:00-05:00"
+publishDate = "2016-02-11T11:32:00-05:00"
 slug = "dont-miss-toronto-opera-initiatives-don-giovanni"
 title = "Don&#039;t miss: Toronto Opera Initiative&#039;s Don Giovanni"
 +++

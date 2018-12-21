@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2017-10-06T15:59:00-04:00"
+lastmod = "2017-10-06T22:03:00-04:00"
+publishDate = "2017-10-06T21:58:00-04:00"
 slug = "4-things-youre-probably-thankful-for-if-youre-an-opera-fan"
 title = "4 things you&#039;re probably thankful for if you&#039;re an opera fan"
 +++

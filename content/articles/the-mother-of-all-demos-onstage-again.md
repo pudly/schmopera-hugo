@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-04-10T20:56:00-04:00"
+lastmod = "2015-04-10T20:56:00-04:00"
+publishDate = "2015-03-31T08:55:00-04:00"
 slug = "the-mother-of-all-demos-onstage-again"
 title = "&quot;The Mother of All Demos,&quot; Onstage Again"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-07-30T13:19:00+01:00"
+lastmod = "2016-08-05T13:54:00+01:00"
+publishDate = "undefined"
 slug = "conductorless-orchestras-cases-for-chamber-opera"
 title = "Conductorless orchestras, cases for chamber opera"
 +++

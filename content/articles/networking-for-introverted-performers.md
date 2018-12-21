@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-08-04T05:55:00-04:00"
+lastmod = "2017-11-28T19:49:00-05:00"
+publishDate = "2016-08-10T03:27:00-04:00"
 slug = "networking-for-introverted-performers"
 title = "Networking for introverted performers"
 +++

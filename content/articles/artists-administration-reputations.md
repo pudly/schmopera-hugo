@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-05-16T13:38:00-04:00"
+lastmod = "2017-09-13T21:25:00-04:00"
+publishDate = "2015-05-19T08:41:00-04:00"
 slug = "artists-administration-reputations"
 title = "Artists, administration &amp; reputations"
 +++

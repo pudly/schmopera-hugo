@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-10-11T13:24:00-04:00"
+lastmod = "2017-10-14T21:52:00-04:00"
+publishDate = "2017-10-14T21:52:00-04:00"
 slug = "embarrassments-of-riches-opera-season-at-the-bbc"
 title = "Embarrassments of riches: Opera Season at the BBC"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-07-08T06:31:00+01:00"
+lastmod = "2016-08-10T08:36:00+01:00"
+publishDate = "2015-07-09T17:21:00+01:00"
 slug = "cos-fan-tutte-misogynist-or-just-unreasonable"
 title = "Così fan tutte: misogynist, or just unreasonable?"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-01-24T14:46:00-05:00"
+lastmod = "2016-01-24T18:04:00-05:00"
+publishDate = "2016-01-24T11:04:00-05:00"
 slug = "coming-up-norma-by-request"
 title = "Coming up: Norma by request"
 +++

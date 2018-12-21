@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-04-22T21:14:00+01:00"
+lastmod = "2016-08-20T12:17:00+01:00"
+publishDate = "2015-04-25T20:05:00+01:00"
 slug = "how-to-lead-your-pianist"
 title = "How to lead your pianist"
 +++

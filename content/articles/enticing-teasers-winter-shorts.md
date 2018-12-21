@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-30T21:57:00-05:00"
+lastmod = "2017-12-02T02:58:00-05:00"
+publishDate = "2017-12-01T19:11:00-05:00"
 slug = "enticing-teasers-winter-shorts"
 title = "Enticing teasers: Winter Shorts"
 +++

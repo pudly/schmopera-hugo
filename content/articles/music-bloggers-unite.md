@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-10-01T11:27:00-04:00"
+lastmod = "2015-04-14T14:59:00-04:00"
+publishDate = "2014-10-01T11:27:00-04:00"
 slug = "music-bloggers-unite"
 title = "Music Bloggers Unite!"
 +++

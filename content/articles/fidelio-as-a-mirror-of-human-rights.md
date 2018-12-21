@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-10-15T10:59:00-04:00"
+lastmod = "2018-10-15T20:52:00-04:00"
+publishDate = "2018-10-15T20:52:00-04:00"
 slug = "fidelio-as-a-mirror-of-human-rights"
 title = "Fidelio as a mirror of human rights"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-10-16T20:22:00-04:00"
+lastmod = "2018-10-17T09:55:00-04:00"
+publishDate = "2018-10-17T09:55:00-04:00"
 slug = "talking-with-singers-evan-hughes"
 title = "Talking with singers: Evan Hughes"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-11-07T15:46:00+00:00"
+lastmod = "2016-11-08T13:10:00+00:00"
+publishDate = "2016-11-08T13:04:00+00:00"
 slug = "artists-to-watch-teng-li"
 title = "Artists to watch: Teng Li"
 +++

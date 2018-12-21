@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-05-11T16:08:00-04:00"
+lastmod = "2015-05-12T12:24:00-04:00"
+publishDate = "2015-05-12T12:00:00-04:00"
 slug = "viva-claire-aviva"
 title = "Viva Claire &amp; Aviva!"
 +++

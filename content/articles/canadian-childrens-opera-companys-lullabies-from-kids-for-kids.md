@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-10-20T16:29:00-04:00"
+lastmod = "2015-10-27T17:02:00-04:00"
+publishDate = "2015-10-27T15:00:00-04:00"
 slug = "canadian-childrens-opera-companys-lullabies-from-kids-for-kids"
 title = "Canadian Children&#039;s Opera Company&#039;s Lullabies: from kids, for kids"
 +++

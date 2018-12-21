@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2018-10-31T20:50:00-04:00"
+lastmod = "2018-11-02T10:40:00-04:00"
+publishDate = "2018-11-02T10:40:00-04:00"
 slug = "dont-miss-the-drama-devotion-of-agostino-steffani"
 title = "Don&#039;t miss: the drama &amp; devotion of Agostino Steffani"
 +++

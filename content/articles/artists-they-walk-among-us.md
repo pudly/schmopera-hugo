@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-12-20T14:55:00-05:00"
+lastmod = "2015-12-22T15:03:00-05:00"
+publishDate = "2015-12-22T15:00:00-05:00"
 slug = "artists-they-walk-among-us"
 title = "Artists: they walk among us"
 +++

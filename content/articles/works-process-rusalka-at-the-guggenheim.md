@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-01-12T17:35:00+00:00"
+lastmod = "2017-01-17T12:02:00+00:00"
+publishDate = "2017-01-17T12:02:00+00:00"
 slug = "works-process-rusalka-at-the-guggenheim"
 title = "Works &amp; Process: Rusalka at the Guggenheim"
 +++

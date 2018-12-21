@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-12-30T18:15:00-05:00"
+lastmod = "2016-01-01T20:46:00-05:00"
+publishDate = "2016-01-01T09:00:00-05:00"
 slug = "10-student-opera-productions-to-catch-this-winter"
 title = "10 student opera productions to catch this winter"
 +++

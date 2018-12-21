@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-20T20:37:00-04:00"
+lastmod = "2017-09-20T21:36:00-04:00"
+publishDate = "2017-09-20T21:33:00-04:00"
 slug = "a-lopsided-bloody-doublebill-at-hackney-empire"
 title = "A lopsided &amp; bloody double-bill at Hackney Empire"
 +++

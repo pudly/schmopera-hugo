@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-11-14T12:18:00+00:00"
+lastmod = "2016-11-17T09:32:00+00:00"
+publishDate = "2016-11-17T09:32:00+00:00"
 slug = "erica-iris-singing-a-radically-revisionist-carmen"
 title = "Erica Iris: singing a &quot;radically revisionist&quot; Carmen"
 +++

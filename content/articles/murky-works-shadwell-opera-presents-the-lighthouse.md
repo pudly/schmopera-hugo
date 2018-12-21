@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-14T17:20:00-05:00"
+lastmod = "2017-11-14T21:09:00-05:00"
+publishDate = "2017-11-14T21:09:00-05:00"
 slug = "murky-works-shadwell-opera-presents-the-lighthouse"
 title = "Murky works: Shadwell Opera presents The Lighthouse"
 +++

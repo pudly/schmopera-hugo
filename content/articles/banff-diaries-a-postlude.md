@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-07-20T13:12:00-04:00"
+lastmod = "2015-07-21T08:47:00-04:00"
+publishDate = "2015-07-21T07:00:00-04:00"
 slug = "banff-diaries-a-postlude"
 title = "Banff Diaries: a postlude"
 +++

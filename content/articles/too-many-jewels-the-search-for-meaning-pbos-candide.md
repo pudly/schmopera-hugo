@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-02-25T18:51:00-05:00"
+lastmod = "2018-02-25T19:19:00-05:00"
+publishDate = "2018-02-25T19:19:00-05:00"
 slug = "too-many-jewels-the-search-for-meaning-pbos-candide"
 title = "Too many jewels &amp; the search for meaning: PBO&#039;s Candide"
 +++

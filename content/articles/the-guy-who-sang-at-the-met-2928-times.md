@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-11-28T16:00:00-05:00"
+lastmod = "2015-11-28T16:19:00-05:00"
+publishDate = "2015-11-28T16:19:00-05:00"
 slug = "the-guy-who-sang-at-the-met-2928-times"
 title = "The guy who sang at the Met 2,928 times"
 +++

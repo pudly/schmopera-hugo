@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-09-22T10:08:00+01:00"
+lastmod = "2016-09-24T11:53:00+01:00"
+publishDate = "2016-09-24T11:53:00+01:00"
 slug = "big-history-big-operas-festival-verdi-2016"
 title = "Big history &amp; big operas: Festival Verdi 2016"
 +++

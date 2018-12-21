@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-08-04T10:40:00+01:00"
+lastmod = "2016-08-11T10:22:00+01:00"
+publishDate = "2016-08-11T10:22:00+01:00"
 slug = "the-anxious-singer-10-tips-to-help-with-anxiety"
 title = "The anxious singer: 10 tips to help with anxiety"
 +++

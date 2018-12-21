@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-10-28T10:02:00-04:00"
+lastmod = "2015-11-02T22:23:00-05:00"
+publishDate = "2015-11-03T08:22:00-05:00"
 slug = "reconstructing-a-lost-opera-amleto"
 title = "Reconstructing a lost opera: Amleto"
 +++

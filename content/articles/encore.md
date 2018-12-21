@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-11-11T13:37:00-05:00"
+lastmod = "2015-04-13T23:12:00-04:00"
+publishDate = "2014-11-11T13:37:00-05:00"
 slug = "encore"
 title = "Encore?"
 +++

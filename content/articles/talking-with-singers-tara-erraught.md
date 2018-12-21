@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-03-20T21:09:00-04:00"
+lastmod = "2018-04-05T14:40:00-04:00"
+publishDate = "2018-04-04T21:38:00-04:00"
 slug = "talking-with-singers-tara-erraught"
 title = "Talking with singers: Tara Erraught"
 +++

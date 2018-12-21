@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-06-26T18:05:00-06:00"
+lastmod = "2015-06-27T10:40:00-06:00"
+publishDate = "2015-06-27T08:30:00-06:00"
 slug = "how-to-be-a-star-rptiteur-yes-there-is-such-a-thing"
 title = "How to be a star répétiteur (yes, there is such a thing)"
 +++

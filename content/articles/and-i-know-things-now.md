@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-05-31T20:33:00-04:00"
+lastmod = "2015-06-01T08:20:00-04:00"
+publishDate = "2015-06-01T08:00:00-04:00"
 slug = "and-i-know-things-now"
 title = "And I Know Things Now"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-02-18T12:48:00-05:00"
+lastmod = "2018-02-18T22:22:00-05:00"
+publishDate = "2018-02-18T22:08:00-05:00"
 slug = "talking-with-singers-tamara-gura"
 title = "Talking with singers: Tamara Gura"
 +++

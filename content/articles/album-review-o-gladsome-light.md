@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-02-10T22:17:00-05:00"
+lastmod = "2018-02-12T08:50:00-05:00"
+publishDate = "2018-02-11T20:33:00-05:00"
 slug = "album-review-o-gladsome-light"
 title = "Album review: O Gladsome Light"
 +++

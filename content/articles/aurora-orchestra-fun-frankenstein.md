@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-05-29T20:56:00+01:00"
+lastmod = "2016-05-31T09:53:00+01:00"
+publishDate = "2016-05-30T21:32:00+01:00"
 slug = "aurora-orchestra-fun-frankenstein"
 title = "Aurora Orchestra, fun, &amp; Frankenstein!!"
 +++

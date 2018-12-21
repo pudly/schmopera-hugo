@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-07-21T11:54:00-04:00"
+lastmod = "2017-07-24T13:24:00-04:00"
+publishDate = "2017-07-24T13:08:00-04:00"
 slug = "no-opera-is-not-misogynist"
 title = "No, opera is not misogynist"
 +++

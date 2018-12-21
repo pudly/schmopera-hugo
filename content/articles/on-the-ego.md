@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-03-01T22:25:00+01:00"
+lastmod = "2017-03-06T17:12:00+01:00"
+publishDate = "2014-03-01T22:25:00+01:00"
 slug = "on-the-ego"
 title = "On the ego"
 +++

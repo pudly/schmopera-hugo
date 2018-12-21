@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-10-27T10:20:00+01:00"
+lastmod = "2016-10-27T13:32:00+01:00"
+publishDate = "2016-10-27T13:31:00+01:00"
 slug = "artists-to-watch-2-new-singing-stars-of-tomorrow"
 title = "Artists to watch: 2 new singing stars of tomorrow"
 +++

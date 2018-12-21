@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-10-27T11:52:00-04:00"
+lastmod = "2017-10-30T13:42:00-04:00"
+publishDate = "2017-10-28T18:18:00-04:00"
 slug = "talking-with-singers-charlotte-mundy"
 title = "Talking with singers: Charlotte Mundy"
 +++

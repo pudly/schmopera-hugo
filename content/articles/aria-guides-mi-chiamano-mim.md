@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2016-05-25T21:41:00+01:00"
+lastmod = "2016-05-26T12:56:00+01:00"
+publishDate = "2016-05-25T23:03:00+01:00"
 slug = "aria-guides-mi-chiamano-mim"
 title = "Aria guides: &quot;Mi chiamano Mimì&quot;"
 +++

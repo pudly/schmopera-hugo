@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-01-05T10:43:00+00:00"
+lastmod = "2017-01-06T10:56:00+00:00"
+publishDate = "2017-01-06T10:47:00+00:00"
 slug = "didonato-inspires-inmates-through-song"
 title = "DiDonato inspires inmates through song"
 +++

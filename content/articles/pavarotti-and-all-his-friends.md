@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2014-09-22T12:11:00-04:00"
+lastmod = "2015-04-15T17:45:00-04:00"
+publishDate = "2014-09-22T12:11:00-04:00"
 slug = "pavarotti-and-all-his-friends"
 title = "Pavarotti and all his Friends"
 +++

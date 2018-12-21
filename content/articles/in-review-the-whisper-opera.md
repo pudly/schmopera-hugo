@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-04-10T23:33:00-04:00"
+lastmod = "2015-04-12T19:50:00-04:00"
+publishDate = "2015-03-01T09:33:00-05:00"
 slug = "in-review-the-whisper-opera"
 title = "In review: The Whisper Opera"
 +++

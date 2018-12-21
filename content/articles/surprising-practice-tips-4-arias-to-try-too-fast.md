@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2017-07-04T19:14:00-06:00"
+lastmod = "2017-07-06T22:28:00-06:00"
+publishDate = "2017-07-06T22:28:00-06:00"
 slug = "surprising-practice-tips-4-arias-to-try-too-fast"
 title = "Surprising practice tips: 4 arias to try too fast"
 +++

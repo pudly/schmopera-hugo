@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-12T10:19:00-04:00"
+lastmod = "2017-09-13T12:01:00-04:00"
+publishDate = "2017-09-12T13:48:00-04:00"
 slug = "the-positive-impact-of-community-created-performances"
 title = "The &quot;positive impact&quot; of Community Created Performances"
 +++

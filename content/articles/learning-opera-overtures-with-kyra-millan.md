@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-01-06T15:37:00-05:00"
+lastmod = "2016-01-08T14:14:00-05:00"
+publishDate = "2016-01-08T11:15:00-05:00"
 slug = "learning-opera-overtures-with-kyra-millan"
 title = "Learning: Opera Overtures with Kyra Millan"
 +++

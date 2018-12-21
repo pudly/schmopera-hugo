@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-10-22T19:54:00-04:00"
+lastmod = "2015-10-26T10:03:00-04:00"
+publishDate = "2015-10-26T09:00:00-04:00"
 slug = "music-matters-at-mini-mozarts-summer-music-camp"
 title = "Music Matters at Mini Mozarts Summer Music Camp"
 +++

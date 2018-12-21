@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-11T14:33:00-05:00"
+lastmod = "2017-11-12T21:59:00-05:00"
+publishDate = "2017-11-12T10:26:00-05:00"
 slug = "persona-and-the-sounds-of-silence"
 title = "Persona and the Sounds of Silence"
 +++

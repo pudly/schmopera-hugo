@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-21T12:07:00-05:00"
+lastmod = "2017-11-21T13:16:00-05:00"
+publishDate = "2017-11-21T12:07:00-05:00"
 slug = "the-olympics-of-singing-semiramide-at-roh"
 title = "The Olympics of Singing: Semiramide at ROH"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-16T12:57:00-04:00"
+lastmod = "2018-04-17T20:03:00-04:00"
+publishDate = "2018-04-17T20:03:00-04:00"
 slug = "confusing-creepy-proving-up"
 title = "Confusing &amp; creepy: Proving Up"
 +++

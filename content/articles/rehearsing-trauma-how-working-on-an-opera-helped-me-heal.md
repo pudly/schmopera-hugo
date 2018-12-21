@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-09-29T09:21:00+01:00"
+lastmod = "2016-09-30T13:32:00+01:00"
+publishDate = "2016-09-30T13:00:00+01:00"
 slug = "rehearsing-trauma-how-working-on-an-opera-helped-me-heal"
 title = "Rehearsing trauma: How working on an opera helped me heal"
 +++

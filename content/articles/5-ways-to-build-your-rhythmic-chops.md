@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-07-02T00:25:00-04:00"
+lastmod = "2017-05-25T10:09:00-04:00"
+publishDate = "2015-07-03T09:08:00-04:00"
 slug = "5-ways-to-build-your-rhythmic-chops"
 title = "5 ways to build your rhythmic chops"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-05-29T09:54:00-04:00"
+lastmod = "2017-06-01T21:03:00-04:00"
+publishDate = "2017-06-01T21:02:00-04:00"
 slug = "spotlight-on-dion-mazerolle"
 title = "Spotlight on: Dion Mazerolle"
 +++

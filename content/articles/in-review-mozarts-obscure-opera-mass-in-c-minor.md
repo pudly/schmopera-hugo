@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-01-23T15:56:00-05:00"
+lastmod = "2015-04-11T22:42:00-04:00"
+publishDate = "2015-01-23T15:56:00-05:00"
 slug = "in-review-mozarts-obscure-opera-mass-in-c-minor"
 title = "In review: Mozart&#039;s Obscure Opera + Mass in C Minor"
 +++

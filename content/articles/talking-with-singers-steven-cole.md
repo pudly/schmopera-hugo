@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-08-30T11:06:00+01:00"
+lastmod = "2016-08-31T12:54:00+01:00"
+publishDate = "2016-08-31T12:49:00+01:00"
 slug = "talking-with-singers-steven-cole"
 title = "Talking with singers: Steven Cole"
 +++

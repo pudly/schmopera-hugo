@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-05-08T13:12:00-04:00"
+lastmod = "2015-05-09T12:29:00-04:00"
+publishDate = "2015-05-08T14:42:00-04:00"
 slug = "living-opera-at-the-coc"
 title = "Living Opera at the COC"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-04-10T20:34:00-04:00"
+lastmod = "2015-04-12T15:52:00-04:00"
+publishDate = "2015-04-07T08:34:00-04:00"
 slug = "jennifer-carter-on-la-traviata-violetta-is-an-everywoman"
 title = "Jennifer Carter on La traviata: &quot;Violetta is an everywoman.&quot;"
 +++

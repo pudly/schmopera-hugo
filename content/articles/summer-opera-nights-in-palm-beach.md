@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-10-02T13:27:00-04:00"
+lastmod = "2018-10-02T13:38:00-04:00"
+publishDate = "2018-10-02T13:38:00-04:00"
 slug = "summer-opera-nights-in-palm-beach"
 title = "Summer Opera Nights in Palm Beach"
 +++

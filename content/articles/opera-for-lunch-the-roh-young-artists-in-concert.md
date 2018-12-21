@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-10-03T15:25:00+01:00"
+lastmod = "2016-10-03T16:55:00+01:00"
+publishDate = "2016-10-03T16:55:00+01:00"
 slug = "opera-for-lunch-the-roh-young-artists-in-concert"
 title = "Opera for lunch: the ROH Young Artists in concert"
 +++

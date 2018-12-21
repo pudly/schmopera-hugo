@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-04-11T20:30:00-04:00"
+lastmod = "2015-05-27T13:53:00-04:00"
+publishDate = "2015-02-07T09:30:00-05:00"
 slug = "gregs-first-thursday-at-the-ago"
 title = "Greg&#039;s First Thursday at the AGO"
 +++

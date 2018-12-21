@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-11-26T10:12:00-05:00"
+lastmod = "2015-04-13T11:00:00-04:00"
+publishDate = "2014-11-26T10:12:00-05:00"
 slug = "centre-stage-2014-lets-hear-it-for-the-boys"
 title = "Centre Stage 2014: Let&#039;s Hear It For the Boys"
 +++

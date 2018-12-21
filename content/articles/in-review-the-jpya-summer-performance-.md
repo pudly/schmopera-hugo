@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-07-17T10:25:00-04:00"
+lastmod = "2017-07-17T21:54:00-04:00"
+publishDate = "2017-07-17T21:54:00-04:00"
 slug = "in-review-the-jpya-summer-performance-"
 title = "In review: the JPYA summer performance "
 +++

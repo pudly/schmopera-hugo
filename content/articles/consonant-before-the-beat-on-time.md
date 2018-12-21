@@ -1,4 +1,7 @@
 +++
+date = "2015-09-25T11:10:00-04:00"
+lastmod = "2015-09-25T11:10:00-04:00"
+publishDate = "undefined"
 slug = "consonant-before-the-beat-on-time"
 title = "Consonant before the beat = on time"
 +++

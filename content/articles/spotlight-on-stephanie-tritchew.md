@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-06-19T13:04:00-06:00"
+lastmod = "2016-06-21T02:58:00-06:00"
+publishDate = "2016-06-19T19:24:00-06:00"
 slug = "spotlight-on-stephanie-tritchew"
 title = "Spotlight on: Stephanie Tritchew"
 +++

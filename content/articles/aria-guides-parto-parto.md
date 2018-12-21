@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2016-05-10T17:20:00-04:00"
+lastmod = "2017-05-15T16:29:00-04:00"
+publishDate = "2016-05-11T06:30:00-04:00"
 slug = "aria-guides-parto-parto"
 title = "Aria guides: &quot;Parto, parto&quot;"
 +++

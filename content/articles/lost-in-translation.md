@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-06-22T21:38:00-06:00"
+lastmod = "2015-06-24T07:22:00-06:00"
+publishDate = "2015-06-24T07:20:00-06:00"
 slug = "lost-in-translation"
 title = "Lost in translation?"
 +++

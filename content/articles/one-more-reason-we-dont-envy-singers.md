@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-05-17T17:29:00+01:00"
+lastmod = "2016-05-19T13:39:00+01:00"
+publishDate = "2016-05-18T23:34:00+01:00"
 slug = "one-more-reason-we-dont-envy-singers"
 title = "One more reason we don&#039;t envy singers"
 +++

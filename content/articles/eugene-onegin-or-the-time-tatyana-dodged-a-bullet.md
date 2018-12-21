@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-10-01T11:38:00-04:00"
+lastmod = "2018-10-01T13:47:00-04:00"
+publishDate = "2018-10-01T11:45:00-04:00"
 slug = "eugene-onegin-or-the-time-tatyana-dodged-a-bullet"
 title = "Eugene Onegin, or the time Tatyana dodged a bullet"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-16T22:03:00-04:00"
+lastmod = "2018-04-17T20:03:00-04:00"
+publishDate = "2018-04-17T20:03:00-04:00"
 slug = "tristan-und-isolde-druginduced-elegance"
 title = "Tristan und Isolde: drug-induced elegance"
 +++

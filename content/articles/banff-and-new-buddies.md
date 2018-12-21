@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-07-07T10:00:00+01:00"
+lastmod = "2016-11-27T21:33:00+00:00"
+publishDate = "2014-07-07T10:00:00+01:00"
 slug = "banff-and-new-buddies"
 title = "Banff and new buddies"
 +++

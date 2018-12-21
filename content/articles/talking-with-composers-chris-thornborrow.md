@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-06-09T17:06:00-06:00"
+lastmod = "2017-06-10T12:51:00-06:00"
+publishDate = "2017-06-10T10:11:00-06:00"
 slug = "talking-with-composers-chris-thornborrow"
 title = "Talking with composers: Chris Thornborrow"
 +++

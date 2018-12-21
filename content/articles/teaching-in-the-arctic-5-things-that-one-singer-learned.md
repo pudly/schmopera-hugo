@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-09-16T09:52:00+01:00"
+lastmod = "2016-09-17T08:56:00+01:00"
+publishDate = "2016-09-16T13:40:00+01:00"
 slug = "teaching-in-the-arctic-5-things-that-one-singer-learned"
 title = "Teaching in the Arctic: 5 things that one singer learned"
 +++

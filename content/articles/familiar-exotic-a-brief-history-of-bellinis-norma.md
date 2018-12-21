@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-08-23T18:22:00+01:00"
+lastmod = "2016-08-25T14:55:00+01:00"
+publishDate = "2016-08-25T14:49:00+01:00"
 slug = "familiar-exotic-a-brief-history-of-bellinis-norma"
 title = "Familiar &amp; exotic: a brief history of Bellini&#039;s Norma"
 +++

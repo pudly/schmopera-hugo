@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-06-07T03:36:00-06:00"
+lastmod = "2016-06-15T20:31:00-06:00"
+publishDate = "2016-06-14T22:33:00-06:00"
 slug = "spotlight-on-angel-blue"
 title = "Spotlight on: Angel Blue"
 +++

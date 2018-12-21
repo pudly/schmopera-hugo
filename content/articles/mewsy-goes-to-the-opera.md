@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2014-09-02T13:00:00+01:00"
+lastmod = "2016-04-07T10:51:00+01:00"
+publishDate = "2014-09-02T13:00:00+01:00"
 slug = "mewsy-goes-to-the-opera"
 title = "Mewsy goes to the Opera"
 +++

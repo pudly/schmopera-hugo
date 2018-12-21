@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-07-14T06:00:00-04:00"
+lastmod = "2015-04-23T14:46:00-04:00"
+publishDate = "2014-07-14T06:00:00-04:00"
 slug = "elitism-irony-and-the-phantom-of-the-opera"
 title = "Elitism, Irony, and The Phantom of the Opera"
 +++

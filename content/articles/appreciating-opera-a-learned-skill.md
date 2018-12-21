@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-08-12T13:03:00-04:00"
+lastmod = "2015-04-16T22:51:00-04:00"
+publishDate = "2014-08-12T13:03:00-04:00"
 slug = "appreciating-opera-a-learned-skill"
 title = "Appreciating Opera: A Learned Skill"
 +++

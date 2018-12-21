@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-02T22:22:00-06:00"
+lastmod = "2017-07-04T22:40:00-06:00"
+publishDate = "2017-07-04T22:16:00-06:00"
 slug = "talking-with-composers-cecilia-livingston"
 title = "Talking with composers: Cecilia Livingston"
 +++

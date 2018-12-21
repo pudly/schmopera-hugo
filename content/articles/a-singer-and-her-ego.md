@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-10-06T11:32:00-04:00"
+lastmod = "2017-10-06T13:13:00-04:00"
+publishDate = "2017-10-06T12:10:00-04:00"
 slug = "a-singer-and-her-ego"
 title = "A singer and her ego"
 +++

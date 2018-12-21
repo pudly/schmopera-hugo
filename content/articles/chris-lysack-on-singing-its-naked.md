@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-11-04T09:18:00-05:00"
+lastmod = "2015-11-06T09:14:00-05:00"
+publishDate = "2015-11-06T08:00:00-05:00"
 slug = "chris-lysack-on-singing-its-naked"
 title = "Chris Lysack, on singing: &quot;It’s naked.&quot;"
 +++

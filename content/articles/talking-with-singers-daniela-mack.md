@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-09-03T15:48:00+02:00"
+lastmod = "2016-09-10T09:28:00+02:00"
+publishDate = "2016-09-10T09:09:00+02:00"
 slug = "talking-with-singers-daniela-mack"
 title = "Talking with singers: Daniela Mack"
 +++

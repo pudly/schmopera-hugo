@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-02-08T11:21:00+00:00"
+lastmod = "2017-02-08T13:42:00+00:00"
+publishDate = "2017-02-08T12:56:00+00:00"
 slug = "in-review-adriana-lecouvreur-at-roh"
 title = "In review: Adriana Lecouvreur at ROH"
 +++

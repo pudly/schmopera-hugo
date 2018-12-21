@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2013-12-19T17:59:00-07:00"
+lastmod = "2017-06-16T22:23:00-06:00"
+publishDate = "2013-12-19T17:59:00-07:00"
 slug = "muppets-at-the-opera"
 title = "Muppets at the opera"
 +++

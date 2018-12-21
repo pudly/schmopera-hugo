@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-10-10T21:26:00-04:00"
+lastmod = "2017-10-17T21:27:00-04:00"
+publishDate = "2017-10-17T21:01:00-04:00"
 slug = "rb-schlather-susan-b-anthony-connecting-opera-with-community"
 title = "R.B. Schlather, Susan B. Anthony, &amp; connecting opera with community"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-01T12:04:00-04:00"
+lastmod = "2017-11-01T12:31:00-04:00"
+publishDate = "2017-11-01T12:23:00-04:00"
 slug = "a-lucia-with-agency-and-independence-at-the-royal-opera-house"
 title = "A Lucia with agency and independence at the Royal Opera House"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-26T17:40:00-04:00"
+lastmod = "2017-09-27T09:49:00-04:00"
+publishDate = "2017-09-26T21:11:00-04:00"
 slug = "meeting-for-lunch-the-coc-ensemble-studio-in-recital"
 title = "Meeting for lunch: the COC Ensemble Studio in recital"
 +++

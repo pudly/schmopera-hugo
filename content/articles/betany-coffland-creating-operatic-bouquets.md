@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-03-06T21:26:00+00:00"
+lastmod = "2016-03-08T11:42:00+00:00"
+publishDate = "2016-03-08T11:39:00+00:00"
 slug = "betany-coffland-creating-operatic-bouquets"
 title = "Betany Coffland: creating operatic bouquets"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2016-03-15T10:28:00+00:00"
+lastmod = "2016-08-14T12:20:00+01:00"
+publishDate = "2016-03-15T11:58:00+00:00"
 slug = "vibrato-all-the-reasons-why"
 title = "Vibrato: all the reasons why"
 +++

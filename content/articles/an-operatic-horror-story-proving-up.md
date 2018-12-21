@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-01-21T12:29:00-05:00"
+lastmod = "2018-01-21T18:22:00-05:00"
+publishDate = "2018-01-21T18:22:00-05:00"
 slug = "an-operatic-horror-story-proving-up"
 title = "An operatic horror story: Proving Up"
 +++

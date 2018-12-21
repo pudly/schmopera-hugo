@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-10-19T22:05:00-04:00"
+lastmod = "2015-10-20T08:31:00-04:00"
+publishDate = "2015-10-20T08:20:00-04:00"
 slug = "pyramus-thisbe-and-canadian-opera-history"
 title = "Pyramus, Thisbe, and Canadian opera history"
 +++

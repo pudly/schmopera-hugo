@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-05-09T09:44:00-04:00"
+lastmod = "2017-05-09T16:36:00-04:00"
+publishDate = "2017-05-09T09:55:00-04:00"
 slug = "dont-miss-live-inconcert-recording-of-harbisons-requiem"
 title = "Don&#039;t miss: live in-concert recording of Harbison&#039;s Requiem"
 +++

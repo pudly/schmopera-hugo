@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-01-24T20:11:00-05:00"
+lastmod = "2018-01-26T20:11:00-05:00"
+publishDate = "2018-01-25T18:03:00-05:00"
 slug = "newly-staged-the-diary-of-one-who-disappeared"
 title = "Newly staged: The Diary of One Who Disappeared"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-12-02T18:23:00-05:00"
+lastmod = "2015-12-03T10:38:00-05:00"
+publishDate = "2015-12-03T10:32:00-05:00"
 slug = "the-performing-arts-in-360"
 title = "The performing arts, in 360˚"
 +++

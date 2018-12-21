@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-04-10T22:54:00-04:00"
+lastmod = "2015-04-10T22:54:00-04:00"
+publishDate = "2015-03-08T10:15:00-04:00"
 slug = "in-review-written-on-skin"
 title = "In Review: Written On Skin"
 +++

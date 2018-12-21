@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-05-12T17:27:00-04:00"
+lastmod = "2018-05-15T12:11:00-04:00"
+publishDate = "2018-05-13T19:32:00-04:00"
 slug = "profound-moving-bernstein-doublebill"
 title = "Profound, moving Bernstein double-bill"
 +++

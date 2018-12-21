@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-11-05T14:46:00+00:00"
+lastmod = "2016-11-05T16:55:00+00:00"
+publishDate = "2016-11-05T16:50:00+00:00"
 slug = "in-review-erwartungtwice-through-the-heart"
 title = "In review: Erwartung/Twice Through the Heart"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-04-27T09:44:00+01:00"
+lastmod = "2016-04-27T11:48:00+01:00"
+publishDate = "2016-04-27T11:32:00+01:00"
 slug = "in-review-tannhuser-at-roh"
 title = "In review: Tannhäuser at ROH"
 +++

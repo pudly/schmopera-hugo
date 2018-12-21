@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-01-22T09:28:00-05:00"
+lastmod = "2018-01-23T09:37:00-05:00"
+publishDate = "2018-01-23T09:37:00-05:00"
 slug = "lighter-fare-vancouver-operas-the-elixir-of-love"
 title = "Lighter fare: Vancouver Opera&#039;s The Elixir of Love"
 +++

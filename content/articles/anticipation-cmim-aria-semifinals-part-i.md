@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2018-06-04T22:52:00-04:00"
+lastmod = "2018-06-04T22:52:00-04:00"
+publishDate = "2018-06-04T22:52:00-04:00"
 slug = "anticipation-cmim-aria-semifinals-part-i"
 title = "Anticipation: CMIM Aria Semifinals, part I"
 +++

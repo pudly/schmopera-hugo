@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-09T11:02:00-04:00"
+lastmod = "2017-10-10T09:19:00-04:00"
+publishDate = "2017-10-10T09:19:00-04:00"
 slug = "cosmic-grandeur-and-human-frailty-crossing"
 title = "Cosmic grandeur and human frailty: Crossing"
 +++

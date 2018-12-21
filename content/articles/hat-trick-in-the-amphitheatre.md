@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-05-17T17:32:00-04:00"
+lastmod = "2015-05-18T10:25:00-04:00"
+publishDate = "2015-05-18T09:00:00-04:00"
 slug = "hat-trick-in-the-amphitheatre"
 title = "Hat trick in the Amphitheatre"
 +++

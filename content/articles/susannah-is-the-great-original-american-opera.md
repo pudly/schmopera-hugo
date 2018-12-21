@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-03-23T10:16:00-04:00"
+lastmod = "2018-03-23T21:22:00-04:00"
+publishDate = "2018-03-23T20:39:00-04:00"
 slug = "susannah-is-the-great-original-american-opera"
 title = "&quot;Susannah is THE great original American opera.&quot;"
 +++

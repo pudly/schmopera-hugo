@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-03-09T20:20:00+00:00"
+lastmod = "2016-03-10T11:08:00+00:00"
+publishDate = "2016-03-10T10:45:00+00:00"
 slug = "creators-in-concert-jake-heggie"
 title = "Creators in Concert: Jake Heggie"
 +++

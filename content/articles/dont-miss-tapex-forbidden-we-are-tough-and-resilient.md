@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-02-02T21:26:00-05:00"
+lastmod = "2018-02-03T11:11:00-05:00"
+publishDate = "2018-02-02T22:04:00-05:00"
 slug = "dont-miss-tapex-forbidden-we-are-tough-and-resilient"
 title = "Don&#039;t miss Tap:Ex Forbidden: &quot;We are tough and resilient.&quot;"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-06-08T22:44:00-04:00"
+lastmod = "2015-06-12T22:31:00-04:00"
+publishDate = "2015-06-09T16:12:00-04:00"
 slug = "spotlight-on-julia-dawson"
 title = "Spotlight on: Julia Dawson"
 +++

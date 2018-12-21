@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-05-01T08:30:00-04:00"
+lastmod = "2015-04-23T21:19:00-04:00"
+publishDate = "2014-05-01T08:30:00-04:00"
 slug = "in-review-roberto-devereux"
 title = "In review: Roberto Devereux"
 +++

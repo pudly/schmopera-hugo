@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-11-14T14:06:00-05:00"
+lastmod = "2015-11-14T14:50:00-05:00"
+publishDate = "2015-11-14T14:48:00-05:00"
 slug = "a-great-show-at-the-ago"
 title = "A great show at the AGO"
 +++

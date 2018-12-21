@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-01-21T12:55:00-05:00"
+lastmod = "2018-01-21T18:31:00-05:00"
+publishDate = "2018-01-21T18:31:00-05:00"
 slug = "on-a-mental-precipice-hgos-elektra"
 title = "On a mental precipice: HGO&#039;s Elektra"
 +++

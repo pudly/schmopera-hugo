@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-11-18T09:00:00-05:00"
+lastmod = "2015-04-13T22:51:00-04:00"
+publishDate = "2014-11-18T09:00:00-05:00"
 slug = "in-review-tapestry-briefs-booster-shots"
 title = "In review: Tapestry Briefs: Booster Shots"
 +++

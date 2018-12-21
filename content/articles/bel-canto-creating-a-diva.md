@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2018-10-26T19:47:00-04:00"
+lastmod = "2018-10-26T19:53:00-04:00"
+publishDate = "2018-10-26T19:53:00-04:00"
 slug = "bel-canto-creating-a-diva"
 title = "Bel Canto: creating a diva"
 +++

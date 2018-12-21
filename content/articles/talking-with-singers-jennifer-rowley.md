@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-09-27T16:19:00-04:00"
+lastmod = "2017-09-28T09:35:00-04:00"
+publishDate = "2017-09-28T09:35:00-04:00"
 slug = "talking-with-singers-jennifer-rowley"
 title = "Talking with singers: Jennifer Rowley"
 +++

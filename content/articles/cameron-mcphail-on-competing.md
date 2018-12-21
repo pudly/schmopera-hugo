@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2014-03-05T13:50:00-05:00"
+lastmod = "2015-04-27T18:36:00-04:00"
+publishDate = "2014-03-05T13:50:00-05:00"
 slug = "cameron-mcphail-on-competing"
 title = "Cameron McPhail: On Competing"
 +++

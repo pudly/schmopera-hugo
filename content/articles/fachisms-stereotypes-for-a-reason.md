@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-05-14T13:19:00-04:00"
+lastmod = "2015-05-15T13:42:00-04:00"
+publishDate = "2015-05-15T13:30:00-04:00"
 slug = "fachisms-stereotypes-for-a-reason"
 title = "Fach-isms &amp; stereotypes for a reason"
 +++

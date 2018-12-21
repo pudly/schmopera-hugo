@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-07-15T11:45:00-06:00"
+lastmod = "2016-07-15T12:40:00-06:00"
+publishDate = "undefined"
 slug = "brittens-singers"
 title = "Britten&#039;s singers"
 +++

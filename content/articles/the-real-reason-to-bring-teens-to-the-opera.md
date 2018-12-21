@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2018-01-28T11:21:00-05:00"
+lastmod = "2018-01-28T21:20:00-05:00"
+publishDate = "2018-01-28T21:20:00-05:00"
 slug = "the-real-reason-to-bring-teens-to-the-opera"
 title = "The real reason to bring teens to the opera"
 +++

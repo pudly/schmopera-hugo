@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-02-23T10:43:00-05:00"
+lastmod = "2016-02-23T11:47:00-05:00"
+publishDate = "2016-02-23T11:47:00-05:00"
 slug = "quasi-review-the-ensemble-studios-figaro"
 title = "Quasi review: The Ensemble Studio&#039;s Figaro"
 +++

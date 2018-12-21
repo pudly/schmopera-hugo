@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-06-14T19:45:00-06:00"
+lastmod = "2016-06-15T08:15:00-06:00"
+publishDate = "2016-06-14T22:32:00-06:00"
 slug = "great-ideas-fenlon-fenlon"
 title = "Great ideas: Fenlon &amp; Fenlon"
 +++

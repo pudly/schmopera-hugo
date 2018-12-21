@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-04-10T23:20:00-04:00"
+lastmod = "2015-04-10T23:20:00-04:00"
+publishDate = "2015-03-03T09:20:00-05:00"
 slug = "bud-roach-on-capella-intima"
 title = "Bud Roach, on Capella Intima"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-01-26T15:54:00+00:00"
+lastmod = "2017-01-27T11:48:00+00:00"
+publishDate = "2017-01-27T10:50:00+00:00"
 slug = "201718-canadians-in-paris"
 title = "2017/18: Canadians in Paris"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-12-13T19:10:00-05:00"
+lastmod = "2017-12-18T08:26:00-05:00"
+publishDate = "2017-12-18T08:18:00-05:00"
 slug = "more-than-the-scream-dear-edvard"
 title = "More than The Scream: Dear Edvard"
 +++

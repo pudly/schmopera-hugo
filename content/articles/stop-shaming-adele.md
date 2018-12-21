@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-07-05T13:36:00-06:00"
+lastmod = "2017-07-05T21:17:00-06:00"
+publishDate = "2017-07-05T21:12:00-06:00"
 slug = "stop-shaming-adele"
 title = "Stop shaming Adele"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-05-20T09:43:00+01:00"
+lastmod = "2016-05-20T17:55:00+01:00"
+publishDate = "2016-05-20T10:30:00+01:00"
 slug = "in-review-sex-workers-opera"
 title = "In review: Sex Workers&#039; Opera"
 +++

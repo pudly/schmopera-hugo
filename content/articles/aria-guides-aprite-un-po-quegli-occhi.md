@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-11-16T10:24:00-05:00"
+lastmod = "2015-11-20T11:09:00-05:00"
+publishDate = "2015-11-17T09:00:00-05:00"
 slug = "aria-guides-aprite-un-po-quegli-occhi"
 title = "Aria Guides: &quot;Aprite un po&#039; quegli occhi&quot;"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-10-04T14:40:00+01:00"
+lastmod = "2016-10-06T15:46:00+01:00"
+publishDate = "2016-10-06T15:43:00+01:00"
 slug = "new-opera-honest-marketing"
 title = "New opera &amp; honest marketing"
 +++

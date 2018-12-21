@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-12-28T13:00:00-05:00"
+lastmod = "2015-04-12T12:09:00-04:00"
+publishDate = "2014-12-28T13:00:00-05:00"
 slug = "in-review-ah-mikado"
 title = "In review: Ah! Mikado!"
 +++

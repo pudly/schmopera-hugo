@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-02-07T22:27:00-05:00"
+lastmod = "2016-02-08T16:36:00-05:00"
+publishDate = "2016-02-08T12:26:00-05:00"
 slug = "in-review-the-marriage-of-figaro"
 title = "In review: The Marriage of Figaro"
 +++

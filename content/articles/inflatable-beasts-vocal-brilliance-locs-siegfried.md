@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-11-08T12:39:00-05:00"
+lastmod = "2018-11-08T20:47:00-05:00"
+publishDate = "2018-11-08T20:11:00-05:00"
 slug = "inflatable-beasts-vocal-brilliance-locs-siegfried"
 title = "Inflatable beasts &amp; vocal brilliance: LOC&#039;s Siegfried"
 +++

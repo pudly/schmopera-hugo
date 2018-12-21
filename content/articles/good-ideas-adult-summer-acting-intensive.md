@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-04-05T10:16:00+01:00"
+lastmod = "2016-04-05T10:28:00+01:00"
+publishDate = "2016-04-05T10:28:00+01:00"
 slug = "good-ideas-adult-summer-acting-intensive"
 title = "Good ideas: Adult Summer Acting Intensive"
 +++

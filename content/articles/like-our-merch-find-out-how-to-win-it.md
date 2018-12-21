@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2018-01-30T18:13:00-05:00"
+lastmod = "2018-01-30T18:13:00-05:00"
+publishDate = "2018-01-30T18:13:00-05:00"
 slug = "like-our-merch-find-out-how-to-win-it"
 title = "Like our merch? Find out how to win it!"
 +++

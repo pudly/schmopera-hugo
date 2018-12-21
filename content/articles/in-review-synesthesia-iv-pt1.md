@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-05-12T17:27:00+01:00"
+lastmod = "2016-05-13T15:11:00+01:00"
+publishDate = "2016-05-13T13:01:00+01:00"
 slug = "in-review-synesthesia-iv-pt1"
 title = "In review: Synesthesia IV pt.1"
 +++

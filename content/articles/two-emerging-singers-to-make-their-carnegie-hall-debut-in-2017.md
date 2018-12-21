@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-11-24T12:48:00+00:00"
+lastmod = "2016-11-24T15:22:00+00:00"
+publishDate = "2016-11-24T14:44:00+00:00"
 slug = "two-emerging-singers-to-make-their-carnegie-hall-debut-in-2017"
 title = "Two emerging singers to make their Carnegie Hall debut in 2017"
 +++

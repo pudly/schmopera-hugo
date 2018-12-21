@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-10-23T15:47:00+01:00"
+lastmod = "2016-10-24T12:01:00+01:00"
+publishDate = "2016-10-24T11:56:00+01:00"
 slug = "when-lost-find-roots"
 title = "When lost, find roots"
 +++

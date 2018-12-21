@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-04-21T17:50:00-04:00"
+lastmod = "2015-05-13T09:00:00-04:00"
+publishDate = "2015-05-13T08:00:00-04:00"
 slug = "singers-heres-what-you-need-to-know-about-your-website"
 title = "Singers: here&#039;s what you need to know about your website"
 +++

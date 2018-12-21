@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-05-28T13:37:00-04:00"
+lastmod = "2017-06-02T19:49:00-04:00"
+publishDate = "2017-06-02T19:07:00-04:00"
 slug = "spotlight-on-adam-fisher"
 title = "Spotlight on: Adam Fisher"
 +++

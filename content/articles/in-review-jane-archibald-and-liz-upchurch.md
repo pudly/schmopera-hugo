@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-04-11T20:00:00-04:00"
+lastmod = "2015-04-11T20:00:00-04:00"
+publishDate = "2015-02-11T09:00:00-05:00"
 slug = "in-review-jane-archibald-and-liz-upchurch"
 title = "In review: Jane Archibald and Liz Upchurch"
 +++

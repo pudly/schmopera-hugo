@@ -1,4 +1,7 @@
 +++
+date = "2016-05-13T17:55:00+01:00"
+lastmod = "2016-05-14T12:21:00+01:00"
+publishDate = "2016-05-14T12:21:00+01:00"
 slug = "in-review-a-little-too-cozy"
 title = "In review: A Little Too Cozy"
 +++

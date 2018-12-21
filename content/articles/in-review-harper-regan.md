@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-04-10T23:06:00-04:00"
+lastmod = "2015-04-10T23:06:00-04:00"
+publishDate = "2015-03-05T10:05:00-05:00"
 slug = "in-review-harper-regan"
 title = "In review: Harper Regan"
 +++

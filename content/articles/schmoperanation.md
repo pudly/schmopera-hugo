@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2014-10-18T13:21:00-04:00"
+lastmod = "2015-05-21T19:57:00-04:00"
+publishDate = "2014-10-18T13:21:00-04:00"
 slug = "schmoperanation"
 title = "Schmoperanation!"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-06-14T21:22:00-06:00"
+lastmod = "2017-06-14T22:09:00-06:00"
+publishDate = "2017-06-14T22:09:00-06:00"
 slug = "dont-miss-everybodys-got-a-story"
 title = "Don&#039;t miss: Everybody&#039;s Got a Story"
 +++

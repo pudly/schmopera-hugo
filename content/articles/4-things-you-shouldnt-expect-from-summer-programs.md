@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-03-02T15:42:00+00:00"
+lastmod = "2017-03-16T13:06:00+00:00"
+publishDate = "2017-03-16T13:06:00+00:00"
 slug = "4-things-you-shouldnt-expect-from-summer-programs"
 title = "4 things you shouldn&#039;t expect from summer programs"
 +++

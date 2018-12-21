@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-10-20T10:18:00+01:00"
+lastmod = "2016-10-20T12:47:00+01:00"
+publishDate = "2016-10-20T11:55:00+01:00"
 slug = "in-review-the-pearl-fishers-at-eno"
 title = "In review: The Pearl Fishers at ENO"
 +++

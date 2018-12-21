@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-05-14T21:36:00+01:00"
+lastmod = "2016-05-15T10:12:00+01:00"
+publishDate = "2016-05-15T09:00:00+01:00"
 slug = "banffbound-2016"
 title = "Banff-bound, 2016"
 +++

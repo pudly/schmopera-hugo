@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-07-04T16:29:00-04:00"
+lastmod = "2018-07-04T17:42:00-04:00"
+publishDate = "2018-07-04T17:42:00-04:00"
 slug = "antoine-wagner-gesamtkunstwerk-in-2018"
 title = "Antoine Wagner: Gesamtkunstwerk in 2018"
 +++

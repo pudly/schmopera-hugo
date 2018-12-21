@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-03-09T21:59:00-05:00"
+lastmod = "2018-03-12T11:20:00-04:00"
+publishDate = "2018-03-10T23:16:00-05:00"
 slug = "elektra-and-parsifal-yannick-at-the-met"
 title = "Elektra and Parsifal: Yannick at the MET"
 +++

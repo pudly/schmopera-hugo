@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-08-20T18:57:00+01:00"
+lastmod = "2016-08-22T13:22:00+01:00"
+publishDate = "2016-08-22T12:57:00+01:00"
 slug = "how-to-empathize-with-singers"
 title = "How to empathize with singers"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-06-06T22:22:00-06:00"
+lastmod = "2017-06-08T22:55:00-06:00"
+publishDate = "2017-06-08T21:27:00-06:00"
 slug = "nasty-women-great-operas-opera-5s-suffragette"
 title = "Nasty women, great operas: Opera 5&#039;s Suffragette"
 +++

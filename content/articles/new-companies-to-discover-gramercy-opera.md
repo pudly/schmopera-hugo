@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-04-24T12:13:00-04:00"
+lastmod = "2017-04-27T14:41:00-04:00"
+publishDate = "2017-04-27T14:41:00-04:00"
 slug = "new-companies-to-discover-gramercy-opera"
 title = "New companies to discover: Gramercy Opera"
 +++

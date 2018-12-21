@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-20T21:17:00-05:00"
+lastmod = "2017-11-21T13:25:00-05:00"
+publishDate = "2017-11-21T13:25:00-05:00"
 slug = "making-the-connection-madama-butterfly-in-manitoba"
 title = "Making the connection: Madama Butterfly in Manitoba"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-11-15T13:51:00-05:00"
+lastmod = "2015-11-18T17:45:00-05:00"
+publishDate = "2015-11-15T14:57:00-05:00"
 slug = "in-review-puss-in-boots-berios-folk-songs"
 title = "In review: Puss in Boots &amp; Berio&#039;s Folk Songs"
 +++

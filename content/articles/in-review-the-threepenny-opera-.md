@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-08-17T10:09:00+01:00"
+lastmod = "2016-08-18T09:32:00+01:00"
+publishDate = "2016-08-18T09:32:00+01:00"
 slug = "in-review-the-threepenny-opera-"
 title = "In review: The Threepenny Opera "
 +++

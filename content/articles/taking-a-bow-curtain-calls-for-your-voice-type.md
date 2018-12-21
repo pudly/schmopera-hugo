@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-06-01T21:02:00+01:00"
+lastmod = "2017-02-09T10:44:00+00:00"
+publishDate = "2016-06-01T22:31:00+01:00"
 slug = "taking-a-bow-curtain-calls-for-your-voice-type"
 title = "Taking a bow: curtain calls for your voice type"
 +++

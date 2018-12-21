@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-27T21:09:00-04:00"
+lastmod = "2018-04-28T11:11:00-04:00"
+publishDate = "2018-04-28T11:11:00-04:00"
 slug = "futuristic-baroque-burlesque-orphe"
 title = "Futuristic Baroque burlesque: Orphée"
 +++

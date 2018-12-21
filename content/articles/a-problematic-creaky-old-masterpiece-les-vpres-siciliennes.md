@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-13T21:18:00-04:00"
+lastmod = "2017-10-13T22:02:00-04:00"
+publishDate = "2017-10-13T22:02:00-04:00"
 slug = "a-problematic-creaky-old-masterpiece-les-vpres-siciliennes"
 title = "&quot;A problematic creaky old masterpiece&quot;: Les vêpres siciliennes"
 +++

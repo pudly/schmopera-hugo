@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-06-15T08:35:00-06:00"
+lastmod = "2017-06-16T07:48:00-06:00"
+publishDate = "2017-06-15T21:29:00-06:00"
 slug = "in-review-the-seven-deadly-sins-at-tso"
 title = "In review: The Seven Deadly Sins at TSO"
 +++

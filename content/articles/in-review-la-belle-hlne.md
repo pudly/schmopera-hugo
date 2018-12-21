@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-04-10T21:45:00-04:00"
+lastmod = "2015-04-10T23:18:00-04:00"
+publishDate = "2015-03-19T09:45:00-04:00"
 slug = "in-review-la-belle-hlne"
 title = "In review: La belle Hélène"
 +++

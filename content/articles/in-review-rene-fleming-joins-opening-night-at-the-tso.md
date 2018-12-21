@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-09-23T09:02:00+01:00"
+lastmod = "2016-09-23T12:30:00+01:00"
+publishDate = "2016-09-23T09:12:00+01:00"
 slug = "in-review-rene-fleming-joins-opening-night-at-the-tso"
 title = "In review: Renée Fleming joins opening night at the TSO"
 +++

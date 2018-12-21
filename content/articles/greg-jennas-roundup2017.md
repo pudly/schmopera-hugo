@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-12-29T00:03:00-05:00"
+lastmod = "2017-12-29T11:53:00-05:00"
+publishDate = "2017-12-29T11:29:00-05:00"
 slug = "greg-jennas-roundup2017"
 title = "Greg &amp; Jenna&#039;s #RoundUp2017"
 +++

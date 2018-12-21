@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-13T13:08:00-04:00"
+lastmod = "2017-07-25T22:51:00-04:00"
+publishDate = "2017-07-25T22:06:00-04:00"
 slug = "young-singers-in-santa-fe-sarah-coit"
 title = "Young singers in Santa Fe: Sarah Coit"
 +++

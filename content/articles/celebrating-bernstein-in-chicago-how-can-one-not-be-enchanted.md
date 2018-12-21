@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-03-12T12:30:00-04:00"
+lastmod = "2018-03-12T13:01:00-04:00"
+publishDate = "2018-03-12T13:01:00-04:00"
 slug = "celebrating-bernstein-in-chicago-how-can-one-not-be-enchanted"
 title = "Celebrating Bernstein in Chicago: &quot;How can one not be enchanted?&quot;"
 +++

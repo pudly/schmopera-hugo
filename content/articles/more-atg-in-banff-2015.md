@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-04-23T22:07:00-04:00"
+lastmod = "2015-04-25T15:11:00-04:00"
+publishDate = "2015-04-23T22:10:00-04:00"
 slug = "more-atg-in-banff-2015"
 title = "More AtG in Banff, 2015"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-02-26T13:50:00-05:00"
+lastmod = "2018-02-26T19:41:00-05:00"
+publishDate = "2018-02-26T14:36:00-05:00"
 slug = "a-bel-canto-winner-atlantas-fille-du-rgiment"
 title = "A bel canto winner: Atlanta&#039;s Fille du régiment"
 +++

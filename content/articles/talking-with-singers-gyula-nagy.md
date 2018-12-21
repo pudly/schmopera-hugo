@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-11-03T16:18:00+00:00"
+lastmod = "2016-11-08T10:00:00+00:00"
+publishDate = "2016-11-08T10:00:00+00:00"
 slug = "talking-with-singers-gyula-nagy"
 title = "Talking with singers: Gyula Nagy"
 +++

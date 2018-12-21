@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-10-17T10:06:00+01:00"
+lastmod = "2016-10-17T13:29:00+01:00"
+publishDate = "2016-10-17T13:29:00+01:00"
 slug = "ariodante-or-the-hebridean-handel"
 title = "Ariodante, or the Hebridean Handel"
 +++

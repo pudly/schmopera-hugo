@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-06-15T22:51:00-06:00"
+lastmod = "2016-06-22T11:15:00-06:00"
+publishDate = "2016-06-22T01:11:00-06:00"
 slug = "being-a-nice-person-why-art-really-really-matters"
 title = "Being a nice person: why art really, really matters"
 +++

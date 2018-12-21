@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-08-18T09:52:00-04:00"
+lastmod = "2017-08-20T20:18:00-04:00"
+publishDate = "2017-08-18T11:33:00-04:00"
 slug = "in-review-collision-at-grimeborn"
 title = "In review: Collision at Grimeborn"
 +++

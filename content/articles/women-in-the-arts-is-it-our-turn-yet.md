@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-09-24T13:46:00+01:00"
+lastmod = "2016-09-26T10:28:00+01:00"
+publishDate = "2016-09-26T10:23:00+01:00"
 slug = "women-in-the-arts-is-it-our-turn-yet"
 title = "Women in the arts: is it our turn, yet?"
 +++

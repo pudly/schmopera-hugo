@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-06-14T09:04:00-06:00"
+lastmod = "2017-06-15T22:24:00-06:00"
+publishDate = "2017-06-15T21:29:00-06:00"
 slug = "talking-with-composers-omar-daniel"
 title = "Talking with composers: Omar Daniel"
 +++

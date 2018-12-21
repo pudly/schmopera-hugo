@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-05-27T09:04:00-04:00"
+lastmod = "2015-06-03T16:47:00-04:00"
+publishDate = "2015-05-27T10:20:00-04:00"
 slug = "in-review-mdea-undone"
 title = "In review: M&#039;dea Undone"
 +++

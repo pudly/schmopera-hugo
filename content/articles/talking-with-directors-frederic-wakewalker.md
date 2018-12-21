@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-11-02T20:11:00+00:00"
+lastmod = "2016-11-10T11:01:00+00:00"
+publishDate = "2016-11-10T10:53:00+00:00"
 slug = "talking-with-directors-frederic-wakewalker"
 title = "Talking with directors: Frederic Wake-Walker"
 +++

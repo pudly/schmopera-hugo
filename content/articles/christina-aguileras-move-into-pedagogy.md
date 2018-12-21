@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2016-04-05T20:03:00+01:00"
+lastmod = "2016-04-06T13:48:00+01:00"
+publishDate = "2016-04-06T13:45:00+01:00"
 slug = "christina-aguileras-move-into-pedagogy"
 title = "Christina Aguilera&#039;s move into pedagogy"
 +++

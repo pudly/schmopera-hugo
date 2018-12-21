@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-03-27T11:04:00+01:00"
+lastmod = "2017-03-28T11:40:00+01:00"
+publishDate = "2017-03-28T11:16:00+01:00"
 slug = "natalie-dessay-opera-is-an-art-which-has-not-been-able-to-renew"
 title = "Natalie Dessay: &quot;opera is an art which has not been able to renew.&quot;"
 +++

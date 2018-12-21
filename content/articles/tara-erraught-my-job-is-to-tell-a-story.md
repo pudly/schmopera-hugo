@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-02-15T13:10:00-05:00"
+lastmod = "2018-04-05T11:44:00-04:00"
+publishDate = "2017-02-16T04:08:00-05:00"
 slug = "tara-erraught-my-job-is-to-tell-a-story"
 title = "Tara Erraught: &quot;My job is to tell a story.&quot;"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-01-16T10:28:00+00:00"
+lastmod = "2017-01-17T11:38:00+00:00"
+publishDate = "2017-01-16T11:52:00+00:00"
 slug = "everyday-arias-presents-14-new-opera-film-shorts"
 title = "Everyday Arias presents 14 new opera film shorts"
 +++

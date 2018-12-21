@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-04-10T21:16:00-04:00"
+lastmod = "2015-04-10T21:16:00-04:00"
+publishDate = "2015-03-26T11:15:00-04:00"
 slug = "talking-louise-with-leslie-ann-bradley"
 title = "Talking Louise with Leslie Ann Bradley"
 +++

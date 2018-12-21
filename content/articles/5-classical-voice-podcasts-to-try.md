@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2018-10-24T20:25:00-04:00"
+lastmod = "2018-10-24T20:25:00-04:00"
+publishDate = "2018-10-24T20:25:00-04:00"
 slug = "5-classical-voice-podcasts-to-try"
 title = "5 classical voice podcasts to try"
 +++

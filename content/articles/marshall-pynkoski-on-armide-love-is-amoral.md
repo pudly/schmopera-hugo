@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-10-14T18:49:00-04:00"
+lastmod = "2015-10-15T09:28:00-04:00"
+publishDate = "2015-10-15T12:00:00-04:00"
 slug = "marshall-pynkoski-on-armide-love-is-amoral"
 title = "Marshall Pynkoski on Armide: &quot;Love is amoral.&quot;"
 +++

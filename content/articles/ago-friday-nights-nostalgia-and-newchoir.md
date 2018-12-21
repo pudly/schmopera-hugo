@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-02-06T10:18:00-05:00"
+lastmod = "2016-02-06T11:03:00-05:00"
+publishDate = "2016-02-06T10:56:00-05:00"
 slug = "ago-friday-nights-nostalgia-and-newchoir"
 title = "AGO Friday Nights: nostalgia and newchoir"
 +++

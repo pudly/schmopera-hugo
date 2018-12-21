@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-10-31T11:43:00+00:00"
+lastmod = "2016-10-31T15:07:00+00:00"
+publishDate = "2016-10-31T14:12:00+00:00"
 slug = "6-operas-to-creep-you-out"
 title = "6 operas to creep you out"
 +++

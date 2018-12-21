@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-09-09T10:51:00-04:00"
+lastmod = "2015-09-09T13:12:00-04:00"
+publishDate = "2015-09-09T12:05:00-04:00"
 slug = "ottawas-barber-is-brushing-up-his-skills"
 title = "Ottawa&#039;s Barber is brushing up his skills"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-06-04T15:04:00-04:00"
+lastmod = "2015-06-04T15:19:00-04:00"
+publishDate = "2015-06-04T15:19:00-04:00"
 slug = "jerry-hadley-on-style"
 title = "Jerry Hadley, on style"
 +++

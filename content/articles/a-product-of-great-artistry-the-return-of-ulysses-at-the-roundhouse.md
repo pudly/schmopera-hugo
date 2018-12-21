@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-01-14T17:40:00-05:00"
+lastmod = "2018-01-14T21:16:00-05:00"
+publishDate = "2018-01-14T18:38:00-05:00"
 slug = "a-product-of-great-artistry-the-return-of-ulysses-at-the-roundhouse"
 title = "A product of great artistry: The Return of Ulysses at the Roundhouse"
 +++

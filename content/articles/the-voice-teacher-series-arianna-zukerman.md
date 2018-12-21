@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-04-18T21:01:00-04:00"
+lastmod = "2018-05-04T21:43:00-04:00"
+publishDate = "2018-05-04T21:43:00-04:00"
 slug = "the-voice-teacher-series-arianna-zukerman"
 title = "The voice teacher series: Arianna Zukerman"
 +++

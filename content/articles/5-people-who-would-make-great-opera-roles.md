@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-10-23T15:57:00+01:00"
+lastmod = "2016-10-25T18:52:00+01:00"
+publishDate = "2016-10-25T14:45:00+01:00"
 slug = "5-people-who-would-make-great-opera-roles"
 title = "5 people who would make great opera roles"
 +++

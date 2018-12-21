@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-13T13:11:00-04:00"
+lastmod = "2017-07-20T12:24:00-04:00"
+publishDate = "2017-07-20T12:24:00-04:00"
 slug = "young-singers-in-santa-fe-carlos-enrique-santelli"
 title = "Young singers in Santa Fe: Carlos Enrique Santelli"
 +++

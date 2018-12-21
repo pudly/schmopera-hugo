@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-01-24T11:08:00-05:00"
+lastmod = "2018-01-24T11:08:00-05:00"
+publishDate = "2018-01-24T11:08:00-05:00"
 slug = "clairvoyant-art-enrico-at-oper-frankfurt"
 title = "Clairvoyant art: Enrico at Oper Frankfurt"
 +++

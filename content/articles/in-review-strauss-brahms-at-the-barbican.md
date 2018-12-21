@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-03-08T12:48:00+00:00"
+lastmod = "2016-03-09T09:51:00+00:00"
+publishDate = "2016-03-09T09:38:00+00:00"
 slug = "in-review-strauss-brahms-at-the-barbican"
 title = "In review: Strauss &amp; Brahms at the Barbican"
 +++

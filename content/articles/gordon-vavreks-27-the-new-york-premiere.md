@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-10-17T16:39:00+01:00"
+lastmod = "2016-10-18T16:48:00+01:00"
+publishDate = "2016-10-18T16:00:00+01:00"
 slug = "gordon-vavreks-27-the-new-york-premiere"
 title = "Gordon &amp; Vavrek&#039;s 27: the New York premiere"
 +++

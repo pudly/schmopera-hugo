@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-10T17:42:00-04:00"
+lastmod = "2017-07-13T22:31:00-04:00"
+publishDate = "2017-07-13T22:15:00-04:00"
 slug = "dont-miss-tte-ttes-10th-annual-opera-festival"
 title = "Don&#039;t miss: Tête à Tête&#039;s 10th annual Opera Festival"
 +++

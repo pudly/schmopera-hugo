@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-08-04T10:47:00+01:00"
+lastmod = "2016-08-13T09:33:00+01:00"
+publishDate = "2016-08-13T09:33:00+01:00"
 slug = "how-much-to-tell-your-students-about-the-voice"
 title = "How much to tell your students about the voice"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-05-16T21:27:00-04:00"
+lastmod = "2018-05-21T20:55:00-04:00"
+publishDate = "2018-05-21T20:55:00-04:00"
 slug = "dressing-opera-singers-chatting-with-costume-designer-meriem-bahri"
 title = "Dressing opera singers: chatting with costume designer Meriem Bahri"
 +++

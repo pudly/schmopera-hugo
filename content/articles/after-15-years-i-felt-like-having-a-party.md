@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2018-05-07T12:37:00-04:00"
+lastmod = "2018-05-07T21:48:00-04:00"
+publishDate = "2018-05-07T21:48:00-04:00"
 slug = "after-15-years-i-felt-like-having-a-party"
 title = "&quot;After 15 years, I felt like having a party.&quot;"
 +++

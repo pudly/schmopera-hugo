@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-02-27T12:22:00+00:00"
+lastmod = "2017-02-28T11:25:00+00:00"
+publishDate = "2017-02-28T11:25:00+00:00"
 slug = "6-new-works-presented-at-various-stages-2017"
 title = "6 new works presented at Various Stages 2017"
 +++

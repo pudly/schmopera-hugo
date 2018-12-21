@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-11-23T11:37:00+00:00"
+lastmod = "2016-11-23T14:17:00+00:00"
+publishDate = "2016-11-23T14:17:00+00:00"
 slug = "talking-with-singers-ekaterina-semenchuk"
 title = "Talking with singers: Ekaterina Semenchuk"
 +++

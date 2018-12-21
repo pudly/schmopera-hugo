@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-09-28T15:33:00-04:00"
+lastmod = "2015-04-15T17:14:00-04:00"
+publishDate = "2014-09-28T15:33:00-04:00"
 slug = "in-review-lucia-di-lammermoor-at-opera-by-request"
 title = "In review: Lucia di Lammermoor at Opera By Request"
 +++

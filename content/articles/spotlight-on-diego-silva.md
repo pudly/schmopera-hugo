@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-07-26T13:32:00-04:00"
+lastmod = "2016-07-31T10:48:00-04:00"
+publishDate = "2016-07-31T10:48:00-04:00"
 slug = "spotlight-on-diego-silva"
 title = "Spotlight on: Diego Silva"
 +++

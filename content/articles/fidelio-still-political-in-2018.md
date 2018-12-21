@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-04-15T20:50:00-04:00"
+lastmod = "2018-04-23T20:43:00-04:00"
+publishDate = "2018-04-23T20:43:00-04:00"
 slug = "fidelio-still-political-in-2018"
 title = "Fidelio: still political in 2018"
 +++

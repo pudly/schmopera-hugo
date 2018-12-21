@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-01-18T13:15:00-05:00"
+lastmod = "2015-04-28T23:47:00-04:00"
+publishDate = "2014-01-18T13:15:00-05:00"
 slug = "saturday-afternoon-with-ariadne"
 title = "Saturday Afternoon with Ariadne"
 +++

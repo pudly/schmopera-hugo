@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-06-09T20:47:00-04:00"
+lastmod = "2018-06-11T20:18:00-04:00"
+publishDate = "2018-06-11T18:45:00-04:00"
 slug = "talking-with-singers-jonathan-lemalu"
 title = "Talking with singers: Jonathan Lemalu"
 +++

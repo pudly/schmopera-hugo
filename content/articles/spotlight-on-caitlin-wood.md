@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-04-20T20:17:00-04:00"
+lastmod = "2017-05-01T08:25:00-04:00"
+publishDate = "2017-05-01T08:25:00-04:00"
 slug = "spotlight-on-caitlin-wood"
 title = "Spotlight on: Caitlin Wood"
 +++

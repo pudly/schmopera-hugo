@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-12-23T09:42:00-05:00"
+lastmod = "2016-12-23T12:09:00-05:00"
+publishDate = "2016-12-23T11:05:00-05:00"
 slug = "aria-guides-insert-christmas-carol-here"
 title = "Aria guides: [insert Christmas carol here]"
 +++

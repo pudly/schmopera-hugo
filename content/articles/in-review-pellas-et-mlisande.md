@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-06-21T09:28:00-04:00"
+lastmod = "2015-04-23T15:59:00-04:00"
+publishDate = "2014-06-21T09:28:00-04:00"
 slug = "in-review-pellas-et-mlisande"
 title = "In review: Pelléas et Mélisande"
 +++

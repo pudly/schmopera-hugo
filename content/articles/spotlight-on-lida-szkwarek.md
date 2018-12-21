@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-07-04T00:41:00-06:00"
+lastmod = "2015-07-06T22:32:00-06:00"
+publishDate = "2015-07-04T10:39:00-06:00"
 slug = "spotlight-on-lida-szkwarek"
 title = "Spotlight on: Lida Szkwarek"
 +++

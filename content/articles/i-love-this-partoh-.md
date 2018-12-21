@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2014-08-29T08:00:00-04:00"
+lastmod = "2015-04-27T18:01:00-04:00"
+publishDate = "2014-08-29T08:00:00-04:00"
 slug = "i-love-this-partoh-"
 title = "I love this part...oh &amp;#$*"
 +++

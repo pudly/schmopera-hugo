@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-05-16T14:58:00+01:00"
+lastmod = "2016-05-22T10:47:00+01:00"
+publishDate = "2016-05-16T22:19:00+01:00"
 slug = "why-we-all-love-florence-foster-jenkins"
 title = "Why we all love Florence Foster Jenkins"
 +++

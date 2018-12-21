@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-03-04T21:58:00+01:00"
+lastmod = "2017-03-06T16:55:00+01:00"
+publishDate = "2017-03-06T16:55:00+01:00"
 slug = "flipside-opera-throws-a-greeriad"
 title = "Flipside Opera throws a &quot;Greeriad&quot;"
 +++

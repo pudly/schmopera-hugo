@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-07-05T10:32:00-06:00"
+lastmod = "2015-07-06T22:29:00-06:00"
+publishDate = "2015-07-07T07:00:00-06:00"
 slug = "that-concept-production-didnt-work-heres-the-real-reason-why"
 title = "&quot;That concept production didn&#039;t work,&quot; &amp; here&#039;s the real reason why"
 +++

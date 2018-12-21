@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-01-08T15:30:00-05:00"
+lastmod = "2016-01-11T09:47:00-05:00"
+publishDate = "2016-01-11T08:51:00-05:00"
 slug = "alexander-neef-listening-to-music"
 title = "Alexander Neef: listening to music"
 +++

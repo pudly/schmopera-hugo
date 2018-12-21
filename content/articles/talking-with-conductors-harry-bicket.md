@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-15T13:42:00-04:00"
+lastmod = "2017-07-19T11:04:00-04:00"
+publishDate = "2017-07-19T11:04:00-04:00"
 slug = "talking-with-conductors-harry-bicket"
 title = "Talking with conductors: Harry Bicket"
 +++

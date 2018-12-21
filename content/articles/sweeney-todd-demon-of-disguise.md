@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-24T18:15:00-04:00"
+lastmod = "2018-04-24T21:09:00-04:00"
+publishDate = "2018-04-24T21:09:00-04:00"
 slug = "sweeney-todd-demon-of-disguise"
 title = "Sweeney Todd: Demon of Disguise"
 +++

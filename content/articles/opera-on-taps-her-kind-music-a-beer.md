@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-29T19:51:00-04:00"
+lastmod = "2018-04-30T17:55:00-04:00"
+publishDate = "2018-04-29T20:49:00-04:00"
 slug = "opera-on-taps-her-kind-music-a-beer"
 title = "Opera On Tap&#039;s Her Kind: music &amp; a beer"
 +++

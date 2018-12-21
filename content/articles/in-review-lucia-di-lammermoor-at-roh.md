@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-04-08T10:27:00+01:00"
+lastmod = "2017-01-09T10:29:00+00:00"
+publishDate = "2016-04-08T11:24:00+01:00"
 slug = "in-review-lucia-di-lammermoor-at-roh"
 title = "In review: Lucia di Lammermoor at ROH"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-01-24T20:35:00-05:00"
+lastmod = "2018-01-25T21:19:00-05:00"
+publishDate = "2018-01-25T20:00:00-05:00"
 slug = "the-voice-teacher-series-elizabeth-mcdonald"
 title = "The voice teacher series: Elizabeth McDonald"
 +++

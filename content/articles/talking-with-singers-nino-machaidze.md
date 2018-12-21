@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-05-28T10:43:00-04:00"
+lastmod = "2017-05-28T22:10:00-04:00"
+publishDate = "2017-05-28T21:48:00-04:00"
 slug = "talking-with-singers-nino-machaidze"
 title = "Talking with singers: Nino Machaidze"
 +++

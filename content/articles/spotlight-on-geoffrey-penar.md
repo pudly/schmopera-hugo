@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-06-25T18:06:00-06:00"
+lastmod = "2016-06-29T07:57:00-06:00"
+publishDate = "2016-06-29T07:48:00-06:00"
 slug = "spotlight-on-geoffrey-penar"
 title = "Spotlight on: Geoffrey Penar"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-06-01T20:10:00-06:00"
+lastmod = "2017-06-10T08:44:00-06:00"
+publishDate = "2017-06-10T08:44:00-06:00"
 slug = "spotlight-on-hannah-de-priest"
 title = "Spotlight on: Hannah De Priest"
 +++

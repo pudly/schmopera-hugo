@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-07-09T16:51:00-06:00"
+lastmod = "2016-07-10T10:27:00-06:00"
+publishDate = "2016-07-10T10:26:00-06:00"
 slug = "a-little-mozart-a-little-murder-a-lot-of-fun"
 title = "A little Mozart, a little murder, a lot of fun"
 +++

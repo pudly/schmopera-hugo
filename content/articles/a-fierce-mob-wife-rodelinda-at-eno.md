@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-27T14:18:00-04:00"
+lastmod = "2017-10-27T17:25:00-04:00"
+publishDate = "2017-10-27T17:25:00-04:00"
 slug = "a-fierce-mob-wife-rodelinda-at-eno"
 title = "A fierce mob wife: Rodelinda at ENO"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-05-22T22:53:00+01:00"
+lastmod = "2016-05-23T14:24:00+01:00"
+publishDate = "2016-05-22T23:33:00+01:00"
 slug = "john-fanning-on-the-pencil-salesman"
 title = "John Fanning on The Pencil Salesman"
 +++

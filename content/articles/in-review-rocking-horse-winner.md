@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-05-30T10:06:00+01:00"
+lastmod = "2016-05-30T16:54:00+01:00"
+publishDate = "2016-05-30T10:24:00+01:00"
 slug = "in-review-rocking-horse-winner"
 title = "In review: Rocking Horse Winner"
 +++

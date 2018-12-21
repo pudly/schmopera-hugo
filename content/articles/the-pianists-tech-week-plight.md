@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-06-15T10:24:00-06:00"
+lastmod = "2016-07-06T21:54:00-06:00"
+publishDate = "2014-06-15T10:24:00-06:00"
 slug = "the-pianists-tech-week-plight"
 title = "The pianist&#039;s tech week plight"
 +++

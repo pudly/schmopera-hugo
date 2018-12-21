@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-11-17T09:53:00-05:00"
+lastmod = "2015-11-20T11:08:00-05:00"
+publishDate = "2015-11-17T11:27:00-05:00"
 slug = "powerful-stuff-the-elizabeth-krehm-memorial-concert"
 title = "Powerful stuff: the Elizabeth Krehm Memorial Concert"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2018-09-22T15:50:00-04:00"
+lastmod = "2018-09-23T20:50:00-04:00"
+publishDate = "2018-09-23T19:52:00-04:00"
 slug = "dont-miss-countertenor-madness"
 title = "Don&#039;t miss: Countertenor Madness!"
 +++

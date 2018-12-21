@@ -1,4 +1,7 @@
 +++
+date = "2016-12-11T17:07:00+00:00"
+lastmod = "2016-12-14T09:31:00+00:00"
+publishDate = "2016-12-14T09:31:00+00:00"
 slug = "artistic-success-pay-it-forward"
 title = "Artistic success: pay it forward"
 +++

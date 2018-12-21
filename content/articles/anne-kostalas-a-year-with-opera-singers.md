@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-07-21T16:34:00-04:00"
+lastmod = "2016-07-23T08:08:00-04:00"
+publishDate = "2016-07-22T22:06:00-04:00"
 slug = "anne-kostalas-a-year-with-opera-singers"
 title = "Anne Kostalas: a year with opera singers"
 +++

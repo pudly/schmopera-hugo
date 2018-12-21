@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-10-10T14:36:00-04:00"
+lastmod = "2015-10-13T12:56:00-04:00"
+publishDate = "2015-10-11T13:56:00-04:00"
 slug = "go-see-les-paradis-perdus-remix"
 title = "Go see: Les paradis perdus / Remix"
 +++

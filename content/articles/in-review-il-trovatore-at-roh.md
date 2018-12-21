@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-12-05T10:39:00+00:00"
+lastmod = "2016-12-05T12:58:00+00:00"
+publishDate = "2016-12-05T12:46:00+00:00"
 slug = "in-review-il-trovatore-at-roh"
 title = "In review: Il trovatore at ROH"
 +++

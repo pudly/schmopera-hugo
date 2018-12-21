@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-06-27T20:50:00-06:00"
+lastmod = "2017-06-28T21:49:00-06:00"
+publishDate = "2017-06-28T21:23:00-06:00"
 slug = "sick-singers-when-its-best-to-shut-up-about-it"
 title = "Sick singers &amp; when it&#039;s best to shut up about it"
 +++

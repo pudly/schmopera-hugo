@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-08-01T11:54:00+01:00"
+lastmod = "2016-08-02T11:41:00+01:00"
+publishDate = "2016-08-02T10:57:00+01:00"
 slug = "tales-from-the-kammeroper-at-rheinsberg-castle"
 title = "Tales from the Kammeroper at Rheinsberg Castle"
 +++

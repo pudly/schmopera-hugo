@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2016-01-11T11:26:00-05:00"
+lastmod = "2016-01-12T12:25:00-05:00"
+publishDate = "2016-01-12T12:00:00-05:00"
 slug = "aria-guides-je-veux-vivre"
 title = "Aria Guides: &quot;Je veux vivre&quot;"
 +++

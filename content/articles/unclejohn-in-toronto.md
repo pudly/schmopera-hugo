@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-12-10T09:00:00-05:00"
+lastmod = "2015-04-13T17:46:00-04:00"
+publishDate = "2014-12-10T09:00:00-05:00"
 slug = "unclejohn-in-toronto"
 title = "#UncleJohn in Toronto"
 +++

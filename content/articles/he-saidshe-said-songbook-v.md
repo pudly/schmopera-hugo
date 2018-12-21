@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-01-25T14:06:00-05:00"
+lastmod = "2015-04-11T22:27:00-04:00"
+publishDate = "2015-01-25T14:06:00-05:00"
 slug = "he-saidshe-said-songbook-v"
 title = "He said/she said: Songbook V"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-04-02T19:50:00+01:00"
+lastmod = "2016-04-04T10:04:00+01:00"
+publishDate = "2016-04-04T09:50:00+01:00"
 slug = "and-she-was-an-opera-singer"
 title = "....AND she was an opera singer"
 +++

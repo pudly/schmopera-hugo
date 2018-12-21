@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-06-21T09:07:00-06:00"
+lastmod = "2017-07-03T22:07:00-06:00"
+publishDate = "2017-07-03T22:07:00-06:00"
 slug = "talking-with-composers-juliana-hall"
 title = "Talking with composers: Juliana Hall"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-12-08T19:32:00-05:00"
+lastmod = "2017-12-10T21:12:00-05:00"
+publishDate = "2017-12-08T20:13:00-05:00"
 slug = "talking-with-singers-ah-young-hong"
 title = "Talking with singers: Ah Young Hong"
 +++

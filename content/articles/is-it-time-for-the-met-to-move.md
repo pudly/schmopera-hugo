@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-05-11T19:34:00+01:00"
+lastmod = "2016-05-12T12:37:00+01:00"
+publishDate = "2016-05-12T12:35:00+01:00"
 slug = "is-it-time-for-the-met-to-move"
 title = "Is it time for the Met to move?"
 +++

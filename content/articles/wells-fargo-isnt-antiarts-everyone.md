@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-09-04T11:52:00+01:00"
+lastmod = "2016-09-05T09:24:00+01:00"
+publishDate = "2016-09-05T09:24:00+01:00"
 slug = "wells-fargo-isnt-antiarts-everyone"
 title = "Wells Fargo isn&#039;t anti-arts, everyone"
 +++

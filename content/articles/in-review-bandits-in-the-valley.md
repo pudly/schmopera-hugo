@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-10T17:23:00-04:00"
+lastmod = "2017-09-11T22:33:00-04:00"
+publishDate = "2017-09-11T22:10:00-04:00"
 slug = "in-review-bandits-in-the-valley"
 title = "In review: Bandits in the Valley"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-01-19T23:54:00-05:00"
+lastmod = "2016-01-20T11:40:00-05:00"
+publishDate = "2016-01-20T11:31:00-05:00"
 slug = "wallis-giunta-songbook-vi"
 title = "Wallis Giunta &amp; Songbook VI"
 +++

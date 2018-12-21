@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2013-12-23T13:15:00-05:00"
+lastmod = "2015-04-28T23:33:00-04:00"
+publishDate = "2013-12-23T13:15:00-05:00"
 slug = "a-sweet-girl-on-the-podium-can-make-ones-thoughts-drift-toward-something-else"
 title = "“A sweet girl on the podium can make one’s thoughts drift toward something else.”"
 +++

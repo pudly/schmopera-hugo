@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-28T15:47:00-04:00"
+lastmod = "2017-09-29T13:19:00-04:00"
+publishDate = "2017-09-29T12:26:00-04:00"
 slug = "review-a-triple-concerto-a-german-requiem-with-the-tso"
 title = "Review: a Triple Concerto &amp; a German Requiem with the TSO"
 +++

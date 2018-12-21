@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-11-10T10:56:00+00:00"
+lastmod = "2017-01-17T11:35:00+00:00"
+publishDate = "2016-11-11T11:00:00+00:00"
 slug = "art-is-not-action"
 title = "Art is not action"
 +++

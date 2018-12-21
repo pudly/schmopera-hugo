@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-05-20T11:59:00-04:00"
+lastmod = "2017-05-20T21:56:00-04:00"
+publishDate = "2017-05-20T14:24:00-04:00"
 slug = "hype-for-a-reason-atgs-la-bohme"
 title = "Hype for a reason: AtG&#039;s La bohème"
 +++

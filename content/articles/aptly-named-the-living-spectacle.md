@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-11-07T09:40:00-05:00"
+lastmod = "2015-11-07T11:12:00-05:00"
+publishDate = "2015-11-07T10:37:00-05:00"
 slug = "aptly-named-the-living-spectacle"
 title = "Aptly named: The Living Spectacle"
 +++

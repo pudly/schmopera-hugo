@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-07-13T20:13:00-04:00"
+lastmod = "2018-07-17T19:53:00-04:00"
+publishDate = "2018-07-17T19:53:00-04:00"
 slug = "nicole-lize-on-the-mosaque-project"
 title = "Nicole Lizée on the Mosaïque Project"
 +++

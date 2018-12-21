@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-04-24T14:44:00-04:00"
+lastmod = "2015-04-25T15:11:00-04:00"
+publishDate = "2015-04-24T15:08:00-04:00"
 slug = "pocket-concerts-and-their-worthy-campaign"
 title = "Pocket Concerts and their worthy campaign"
 +++

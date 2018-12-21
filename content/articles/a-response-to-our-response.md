@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-02-13T16:59:00+00:00"
+lastmod = "2017-02-14T13:55:00+00:00"
+publishDate = "2017-02-14T13:55:00+00:00"
 slug = "a-response-to-our-response"
 title = "A response to &quot;our response&quot;"
 +++

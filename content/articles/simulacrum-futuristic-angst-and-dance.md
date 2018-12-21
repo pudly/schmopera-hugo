@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-06-15T20:07:00-04:00"
+lastmod = "2018-07-09T12:37:00-04:00"
+publishDate = "2018-06-15T20:07:00-04:00"
 slug = "simulacrum-futuristic-angst-and-dance"
 title = "Simulacrum: Futuristic angst and dance"
 +++

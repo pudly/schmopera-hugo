@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-05-30T08:42:00-04:00"
+lastmod = "2017-05-30T08:49:00-04:00"
+publishDate = "2017-05-30T08:49:00-04:00"
 slug = "in-review-hipermestra-at-glyndebourne"
 title = "In review: Hipermestra at Glyndebourne"
 +++

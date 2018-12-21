@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-12-15T10:12:00-05:00"
+lastmod = "2015-12-15T14:03:00-05:00"
+publishDate = "2015-12-15T12:34:00-05:00"
 slug = "against-the-grain-theatre-banffbound-in-2016"
 title = "Against the Grain Theatre: Banff-bound in 2016"
 +++

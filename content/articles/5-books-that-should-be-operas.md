@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-01-14T18:08:00-05:00"
+lastmod = "2017-11-11T13:30:00-05:00"
+publishDate = "2016-01-16T10:24:00-05:00"
 slug = "5-books-that-should-be-operas"
 title = "5 books that should be operas"
 +++

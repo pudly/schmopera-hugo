@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-10-09T21:06:00-04:00"
+lastmod = "2018-10-10T21:27:00-04:00"
+publishDate = "2018-10-10T21:27:00-04:00"
 slug = "maria-by-callas-destiny-is-destiny-there-is-no-way-out"
 title = "Maria by Callas: &quot;Destiny is destiny. There is no way out.&quot;"
 +++

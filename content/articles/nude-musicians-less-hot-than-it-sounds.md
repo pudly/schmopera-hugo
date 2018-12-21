@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-08-05T14:01:00+01:00"
+lastmod = "2016-08-06T11:51:00+01:00"
+publishDate = "2016-08-06T11:51:00+01:00"
 slug = "nude-musicians-less-hot-than-it-sounds"
 title = "Nude musicians: less hot than it sounds"
 +++

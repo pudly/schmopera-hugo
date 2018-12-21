@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-01-26T17:16:00-05:00"
+lastmod = "2016-01-27T11:59:00-05:00"
+publishDate = "2016-01-27T11:42:00-05:00"
 slug = "dillon-parmer-mozarts-masonic-journey"
 title = "Dillon Parmer &amp; Mozart&#039;s Masonic Journey"
 +++

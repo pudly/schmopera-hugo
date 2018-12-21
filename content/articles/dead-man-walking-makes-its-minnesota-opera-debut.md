@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-01-29T17:43:00-05:00"
+lastmod = "2018-01-29T21:42:00-05:00"
+publishDate = "2018-01-29T20:59:00-05:00"
 slug = "dead-man-walking-makes-its-minnesota-opera-debut"
 title = "Dead Man Walking makes its Minnesota Opera debut"
 +++

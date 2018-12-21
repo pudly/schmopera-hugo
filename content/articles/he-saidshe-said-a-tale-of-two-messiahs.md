@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-12-20T14:27:00-05:00"
+lastmod = "2016-12-21T10:09:00-05:00"
+publishDate = "2016-12-21T09:15:00-05:00"
 slug = "he-saidshe-said-a-tale-of-two-messiahs"
 title = "He said/She said: a tale of two Messiahs"
 +++

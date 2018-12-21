@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-10-10T14:58:00-04:00"
+lastmod = "2017-10-23T00:04:00-04:00"
+publishDate = "2017-10-22T21:37:00-04:00"
 slug = "living-up-to-its-name-experiments-in-opera"
 title = "Living up to its name: Experiments in Opera"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-10-22T15:44:00-04:00"
+lastmod = "2017-10-30T21:00:00-04:00"
+publishDate = "2017-10-30T21:00:00-04:00"
 slug = "callas-lovers-listen-up-a-giveaway-is-underway"
 title = "Callas lovers, listen up: a giveaway is underway!"
 +++

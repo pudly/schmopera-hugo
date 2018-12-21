@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2018-11-02T18:26:00-04:00"
+lastmod = "2018-11-02T22:31:00-04:00"
+publishDate = "2018-11-02T18:26:00-04:00"
 slug = "offcentre-stage-the-coc-ensemble-studio-competition"
 title = "Off-Centre Stage: the COC Ensemble Studio Competition"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2016-06-07T09:01:00-06:00"
+lastmod = "2016-07-10T10:27:00-06:00"
+publishDate = "2016-07-08T21:18:00-06:00"
 slug = "aria-guides-come-paride-vezzoso"
 title = "Aria guides: &quot;Come Paride vezzoso&quot;"
 +++

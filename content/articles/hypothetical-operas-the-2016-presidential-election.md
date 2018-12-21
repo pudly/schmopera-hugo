@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-07-20T11:17:00-04:00"
+lastmod = "2016-07-22T08:01:00-04:00"
+publishDate = "2016-07-22T07:55:00-04:00"
 slug = "hypothetical-operas-the-2016-presidential-election"
 title = "Hypothetical operas: The 2016 Presidential Election"
 +++

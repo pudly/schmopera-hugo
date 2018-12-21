@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-10-27T13:22:00+01:00"
+lastmod = "2016-10-29T18:13:00+01:00"
+publishDate = "2016-10-29T18:01:00+01:00"
 slug = "opera-shorthand-how-to-speak-like-an-insider"
 title = "Opera shorthand: how to speak like an insider"
 +++

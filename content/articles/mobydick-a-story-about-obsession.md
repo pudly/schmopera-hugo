@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-01-11T17:33:00-05:00"
+lastmod = "2018-01-12T13:57:00-05:00"
+publishDate = "2018-01-11T20:13:00-05:00"
 slug = "mobydick-a-story-about-obsession"
 title = "Moby-Dick: &quot;A story about obsession.&quot;"
 +++

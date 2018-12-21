@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-07-11T22:18:00-04:00"
+lastmod = "2015-07-20T11:32:00-04:00"
+publishDate = "2015-07-14T09:15:00-04:00"
 slug = "a-chair-in-love-what-what"
 title = "A Chair in Love. What, what?"
 +++

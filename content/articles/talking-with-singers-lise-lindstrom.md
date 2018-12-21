@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-08-20T18:44:00+01:00"
+lastmod = "2016-08-22T09:42:00+01:00"
+publishDate = "2016-08-22T09:42:00+01:00"
 slug = "talking-with-singers-lise-lindstrom"
 title = "Talking with singers: Lise Lindstrom"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-07-28T14:08:00-04:00"
+lastmod = "2015-08-01T11:48:00-04:00"
+publishDate = "2015-08-01T11:48:00-04:00"
 slug = "on-the-road-the-bicycle-opera-project"
 title = "On the road: the Bicycle Opera Project"
 +++

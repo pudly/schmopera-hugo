@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-04-23T19:35:00+01:00"
+lastmod = "2016-04-24T14:08:00+01:00"
+publishDate = "2016-04-24T10:32:00+01:00"
 slug = "dont-miss-against-nature"
 title = "Don&#039;t miss: Against Nature"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-10-28T12:49:00-04:00"
+lastmod = "2018-10-28T16:16:00-04:00"
+publishDate = "2018-10-28T12:49:00-04:00"
 slug = "varied-opera-bites-delivers-interesting-delectable-morsels"
 title = "Varied Opera Bites delivers interesting &amp; delectable morsels"
 +++

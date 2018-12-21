@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-10-17T13:55:00-04:00"
+lastmod = "2017-09-13T21:19:00-04:00"
+publishDate = "2015-10-24T08:00:00-04:00"
 slug = "the-psychology-of-an-audition"
 title = "The psychology of an audition"
 +++

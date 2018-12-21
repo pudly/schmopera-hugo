@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-05-10T11:37:00+01:00"
+lastmod = "2016-05-10T17:41:00+01:00"
+publishDate = "2016-05-10T14:55:00+01:00"
 slug = "a-little-too-cozy-offcamera-with-don-l-fonzo-despina"
 title = "A Little Too Cozy: Off-camera with Don L. Fonzo &amp; Despina"
 +++

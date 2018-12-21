@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-10-14T07:12:00-04:00"
+lastmod = "2017-11-30T21:32:00-05:00"
+publishDate = "2016-10-14T07:56:00-04:00"
 slug = "great-love-affairs-singers-and-pianists"
 title = "Great love affairs: singers and pianists"
 +++

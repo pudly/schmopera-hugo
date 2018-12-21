@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-31T10:28:00-03:00"
+lastmod = "2017-08-05T21:16:00-03:00"
+publishDate = "2017-08-05T21:16:00-03:00"
 slug = "young-singers-in-santa-fe-stephen-martin"
 title = "Young singers in Santa Fe: Stephen Martin"
 +++

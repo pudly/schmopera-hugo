@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-04-07T15:29:00+01:00"
+lastmod = "2016-04-08T15:31:00+01:00"
+publishDate = "2016-04-08T15:10:00+01:00"
 slug = "ian-page-mozart-imagination"
 title = "Ian Page: Mozart &amp; imagination"
 +++

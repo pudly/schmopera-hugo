@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-10-20T13:17:00-04:00"
+lastmod = "2018-10-22T11:21:00-04:00"
+publishDate = "2018-10-20T13:58:00-04:00"
 slug = "talking-with-conductors-carlo-rizzi"
 title = "Talking with conductors: Carlo Rizzi"
 +++

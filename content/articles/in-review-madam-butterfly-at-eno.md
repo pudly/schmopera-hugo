@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-05-19T09:55:00+01:00"
+lastmod = "2016-05-19T13:42:00+01:00"
+publishDate = "2016-05-19T11:34:00+01:00"
 slug = "in-review-madam-butterfly-at-eno"
 title = "In review: Madam Butterfly at ENO"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-10-31T13:23:00-04:00"
+lastmod = "2018-11-02T09:56:00-04:00"
+publishDate = "2018-11-02T09:56:00-04:00"
 slug = "opera-laid-bare-for-better-or-for-worse-in-the-mets-fanciulla"
 title = "Opera laid bare, for better or for worse in the Met&#039;s Fanciulla"
 +++

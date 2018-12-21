@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-11-07T16:45:00+00:00"
+lastmod = "2016-11-10T13:54:00+00:00"
+publishDate = "2016-11-10T13:54:00+00:00"
 slug = "kevin-puts-i-know-who-i-am-as-a-composer"
 title = "Kevin Puts: &quot;I know who I am as a composer.&quot;"
 +++

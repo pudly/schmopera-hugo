@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-11-20T21:57:00-05:00"
+lastmod = "2015-11-23T10:14:00-05:00"
+publishDate = "2015-11-23T09:33:00-05:00"
 slug = "on-the-road-with-jmcs-romo-et-juliette"
 title = "On the road with JMC&#039;s Roméo et Juliette"
 +++

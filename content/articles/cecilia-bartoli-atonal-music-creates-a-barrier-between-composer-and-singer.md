@@ -1,4 +1,7 @@
 +++
+date = "2014-12-15T14:54:00-05:00"
+lastmod = "2015-04-13T17:44:00-04:00"
+publishDate = "2014-12-15T14:54:00-05:00"
 slug = "cecilia-bartoli-atonal-music-creates-a-barrier-between-composer-and-singer"
 title = "Cecilia Bartoli: &quot;atonal music creates a barrier between composer and singer&quot;"
 +++

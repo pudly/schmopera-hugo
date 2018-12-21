@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-02-13T12:02:00-05:00"
+lastmod = "2016-02-13T12:45:00-05:00"
+publishDate = "2016-02-13T12:29:00-05:00"
 slug = "free-live-stream-sondra-radvanovsky-at-the-national-opera-center"
 title = "Free live stream: Sondra Radvanovsky at the National Opera Center"
 +++

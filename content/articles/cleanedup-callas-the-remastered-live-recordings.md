@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-10T21:22:00-04:00"
+lastmod = "2017-10-18T19:39:00-04:00"
+publishDate = "2017-10-18T19:39:00-04:00"
 slug = "cleanedup-callas-the-remastered-live-recordings"
 title = "Cleaned-up Callas: the remastered live recordings"
 +++

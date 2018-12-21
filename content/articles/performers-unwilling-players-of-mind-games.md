@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-05-04T09:17:00+01:00"
+lastmod = "2016-05-04T10:53:00+01:00"
+publishDate = "2016-05-04T10:51:00+01:00"
 slug = "performers-unwilling-players-of-mind-games"
 title = "Performers: unwilling players of mind games"
 +++

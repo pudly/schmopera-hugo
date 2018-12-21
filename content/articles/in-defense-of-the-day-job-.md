@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-12-01T09:39:00-05:00"
+lastmod = "2017-08-02T21:42:00-04:00"
+publishDate = "2016-12-02T06:17:00-05:00"
 slug = "in-defense-of-the-day-job-"
 title = "In defense of the &quot;day&quot; job "
 +++

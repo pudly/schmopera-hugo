@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-04-06T12:13:00-04:00"
+lastmod = "2015-04-27T18:24:00-04:00"
+publishDate = "2014-04-06T12:13:00-04:00"
 slug = "in-review-tapex-revolutions"
 title = "In Review: Tap:Ex Revolutions"
 +++

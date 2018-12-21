@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-08-02T13:11:00+02:00"
+lastmod = "2015-08-07T12:19:00+02:00"
+publishDate = "2015-08-07T06:00:00+02:00"
 slug = "spotlight-on-keith-lam"
 title = "Spotlight on: Keith Lam"
 +++

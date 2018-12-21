@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-16T21:14:00-04:00"
+lastmod = "2018-04-18T10:27:00-04:00"
+publishDate = "2018-04-17T20:03:00-04:00"
 slug = "when-don-giovanni-is-the-don"
 title = "When Don Giovanni is the &quot;Don&quot;"
 +++

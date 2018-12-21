@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-06-26T23:40:00-06:00"
+lastmod = "2016-07-06T16:10:00-06:00"
+publishDate = "2016-06-29T17:20:00-06:00"
 slug = "banff-diaries-the-midway-report"
 title = "Banff Diaries: the mid-way report"
 +++

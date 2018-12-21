@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-02-12T09:51:00-05:00"
+lastmod = "2016-02-12T10:16:00-05:00"
+publishDate = "2016-02-12T10:10:00-05:00"
 slug = "in-review-squeezebox"
 title = "In review: Squeezebox"
 +++

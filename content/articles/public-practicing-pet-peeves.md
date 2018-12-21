@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-09-21T16:37:00+01:00"
+lastmod = "2016-08-12T09:38:00+01:00"
+publishDate = "2015-09-22T13:30:00+01:00"
 slug = "public-practicing-pet-peeves"
 title = "Public practicing &amp; pet peeves"
 +++

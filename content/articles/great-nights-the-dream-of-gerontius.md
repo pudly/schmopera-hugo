@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-04-25T10:30:00+01:00"
+lastmod = "2016-04-25T13:51:00+01:00"
+publishDate = "2016-04-25T13:51:00+01:00"
 slug = "great-nights-the-dream-of-gerontius"
 title = "Great nights: The Dream of Gerontius"
 +++

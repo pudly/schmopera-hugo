@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-05-05T09:43:00+01:00"
+lastmod = "2016-05-05T13:37:00+01:00"
+publishDate = "2016-05-05T12:04:00+01:00"
 slug = "great-ideas-devoted-disgruntled"
 title = "Great ideas: Devoted &amp; Disgruntled"
 +++

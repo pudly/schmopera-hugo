@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-07-17T19:42:00-04:00"
+lastmod = "2018-07-18T08:01:00-04:00"
+publishDate = "2018-07-17T19:42:00-04:00"
 slug = "swept-away-romo-et-juliette"
 title = "Swept away: Roméo et Juliette"
 +++

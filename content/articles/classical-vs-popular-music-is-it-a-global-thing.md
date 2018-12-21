@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-04-16T19:23:00-04:00"
+lastmod = "2015-04-23T10:32:00-04:00"
+publishDate = "2015-04-23T09:26:00-04:00"
 slug = "classical-vs-popular-music-is-it-a-global-thing"
 title = "Classical vs popular music: is it a global thing?"
 +++

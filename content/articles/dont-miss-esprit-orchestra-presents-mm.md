@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-11-17T11:03:00+00:00"
+lastmod = "2016-11-17T15:11:00+00:00"
+publishDate = "2016-11-17T15:01:00+00:00"
 slug = "dont-miss-esprit-orchestra-presents-mm"
 title = "Don&#039;t miss: Esprit Orchestra presents m&#039;M"
 +++

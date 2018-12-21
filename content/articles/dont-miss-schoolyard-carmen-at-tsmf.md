@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-07-04T17:11:00-06:00"
+lastmod = "2017-07-05T15:28:00-06:00"
+publishDate = "undefined"
 slug = "dont-miss-schoolyard-carmen-at-tsmf"
 title = "Don&#039;t miss: Schoolyard Carmen at TSMF"
 +++

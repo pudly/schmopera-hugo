@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-11-17T18:00:00-05:00"
+lastmod = "2015-11-18T21:10:00-05:00"
+publishDate = "2015-11-18T08:59:00-05:00"
 slug = "dont-miss-lhomme-et-le-ciel"
 title = "Don&#039;t miss: l&#039;homme et le ciel"
 +++

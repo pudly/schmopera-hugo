@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-01-09T11:37:00+00:00"
+lastmod = "2017-01-10T10:35:00+00:00"
+publishDate = "2017-01-10T10:13:00+00:00"
 slug = "talking-with-singers-jnai-bridges"
 title = "Talking with singers: J&#039;Nai Bridges"
 +++

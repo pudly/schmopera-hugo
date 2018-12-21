@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-02-23T16:12:00+00:00"
+lastmod = "2017-02-23T16:58:00+00:00"
+publishDate = "2017-02-23T16:13:00+00:00"
 slug = "dont-miss-lieder-leaders-and-lovers"
 title = "Don&#039;t miss: Lieder, Leaders, and Lovers"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-01-18T13:06:00-05:00"
+lastmod = "2016-01-20T09:54:00-05:00"
+publishDate = "2016-01-20T09:40:00-05:00"
 slug = "veronika-roux-opera-in-photographs"
 title = "Veronika Roux: opera in photographs"
 +++

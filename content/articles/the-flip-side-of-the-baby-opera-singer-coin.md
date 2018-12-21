@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-06-06T21:09:00+01:00"
+lastmod = "2016-06-07T13:07:00+01:00"
+publishDate = "2016-06-06T21:31:00+01:00"
 slug = "the-flip-side-of-the-baby-opera-singer-coin"
 title = "The flip side of the baby opera singer coin"
 +++

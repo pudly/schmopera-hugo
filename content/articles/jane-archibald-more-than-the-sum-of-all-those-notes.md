@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-02-21T16:28:00-05:00"
+lastmod = "2018-02-21T21:01:00-05:00"
+publishDate = "2018-02-21T21:01:00-05:00"
 slug = "jane-archibald-more-than-the-sum-of-all-those-notes"
 title = "Jane Archibald: more than the sum of all those notes"
 +++

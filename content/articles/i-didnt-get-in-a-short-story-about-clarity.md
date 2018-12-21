@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-10-26T11:58:00+01:00"
+lastmod = "2017-03-26T14:36:00+01:00"
+publishDate = "2016-10-27T09:38:00+01:00"
 slug = "i-didnt-get-in-a-short-story-about-clarity"
 title = "&quot;I didn&#039;t get in&quot;: a short story about clarity"
 +++

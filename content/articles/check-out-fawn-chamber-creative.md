@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-09-07T20:14:00-04:00"
+lastmod = "2015-09-10T08:46:00-04:00"
+publishDate = "2015-09-10T08:00:00-04:00"
 slug = "check-out-fawn-chamber-creative"
 title = "Check out: FAWN Chamber Creative"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-08-06T12:32:00+01:00"
+lastmod = "2016-08-17T09:26:00+01:00"
+publishDate = "2016-08-17T09:24:00+01:00"
 slug = "the-brief-history-of-madefortv-opera"
 title = "The brief history of made-for-TV opera"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-12-06T09:09:00+00:00"
+lastmod = "2016-12-06T12:01:00+00:00"
+publishDate = "2016-12-06T10:49:00+00:00"
 slug = "opera-and-scifi-the-puritan-intersection"
 title = "Opera and sci-fi: the puritan intersection"
 +++

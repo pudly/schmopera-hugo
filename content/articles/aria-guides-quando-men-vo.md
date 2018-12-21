@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-11-06T13:47:00-05:00"
+lastmod = "2015-11-09T08:00:00-05:00"
+publishDate = "2015-11-09T07:55:00-05:00"
 slug = "aria-guides-quando-men-vo"
 title = "Aria Guides: &quot;Quando m&#039;en vo&quot;"
 +++

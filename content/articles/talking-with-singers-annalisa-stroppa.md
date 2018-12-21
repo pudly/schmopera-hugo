@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-08-23T14:29:00-04:00"
+lastmod = "2017-08-25T09:51:00-04:00"
+publishDate = "2017-08-25T09:51:00-04:00"
 slug = "talking-with-singers-annalisa-stroppa"
 title = "Talking with singers: Annalisa Stroppa"
 +++

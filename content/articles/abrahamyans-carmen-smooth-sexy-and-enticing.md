@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-05-05T16:24:00-04:00"
+lastmod = "2018-05-07T20:50:00-04:00"
+publishDate = "2018-05-07T20:14:00-04:00"
 slug = "abrahamyans-carmen-smooth-sexy-and-enticing"
 title = "Abrahamyan&#039;s Carmen &quot;smooth, sexy, and enticing.&quot;"
 +++

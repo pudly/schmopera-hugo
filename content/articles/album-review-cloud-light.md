@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-03-06T14:55:00+00:00"
+lastmod = "2016-03-07T11:19:00+00:00"
+publishDate = "2016-03-07T11:19:00+00:00"
 slug = "album-review-cloud-light"
 title = "Album review: Cloud Light"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-07-22T08:00:00-04:00"
+lastmod = "2015-04-23T14:33:00-04:00"
+publishDate = "2014-07-22T08:00:00-04:00"
 slug = "everything-i-know-about-the-piano-i-learned-from-singers"
 title = "Everything I know about the piano, I learned from singers"
 +++

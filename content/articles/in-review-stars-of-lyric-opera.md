@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-10T11:11:00-04:00"
+lastmod = "2017-09-11T16:03:00-04:00"
+publishDate = "2017-09-11T14:14:00-04:00"
 slug = "in-review-stars-of-lyric-opera"
 title = "In review: Stars of Lyric Opera"
 +++

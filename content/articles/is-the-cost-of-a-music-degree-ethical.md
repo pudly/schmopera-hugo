@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-04-10T22:38:00-04:00"
+lastmod = "2015-04-10T22:38:00-04:00"
+publishDate = "2015-03-12T10:38:00-04:00"
 slug = "is-the-cost-of-a-music-degree-ethical"
 title = "Is the Cost of a Music Degree Ethical?"
 +++

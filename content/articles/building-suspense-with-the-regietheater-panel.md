@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-04-10T20:43:00-04:00"
+lastmod = "2015-04-10T22:32:00-04:00"
+publishDate = "2015-04-03T08:43:00-04:00"
 slug = "building-suspense-with-the-regietheater-panel"
 title = "Building Suspense with The Regietheater Panel"
 +++

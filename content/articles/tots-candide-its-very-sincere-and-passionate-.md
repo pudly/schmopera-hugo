@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-12-31T19:22:00-05:00"
+lastmod = "2018-01-01T09:30:00-05:00"
+publishDate = "2017-12-31T19:22:00-05:00"
 slug = "tots-candide-its-very-sincere-and-passionate-"
 title = "TOT&#039;s Candide: &quot;It&#039;s very sincere and passionate.&quot; "
 +++

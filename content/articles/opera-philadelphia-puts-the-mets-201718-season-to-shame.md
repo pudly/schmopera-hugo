@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-02-27T15:42:00+00:00"
+lastmod = "2017-02-28T15:25:00+00:00"
+publishDate = "2017-02-28T13:14:00+00:00"
 slug = "opera-philadelphia-puts-the-mets-201718-season-to-shame"
 title = "Opera Philadelphia puts the Met&#039;s 2017/18 season to shame"
 +++

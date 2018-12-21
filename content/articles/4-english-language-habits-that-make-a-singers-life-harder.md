@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2017-05-18T21:24:00-04:00"
+lastmod = "2017-05-25T23:17:00-04:00"
+publishDate = "2017-05-25T23:13:00-04:00"
 slug = "4-english-language-habits-that-make-a-singers-life-harder"
 title = "4 English language habits that make a singer&#039;s life harder"
 +++

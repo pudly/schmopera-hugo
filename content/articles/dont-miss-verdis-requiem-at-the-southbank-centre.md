@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-05-13T21:32:00+01:00"
+lastmod = "2016-05-14T11:16:00+01:00"
+publishDate = "2016-05-14T11:00:00+01:00"
 slug = "dont-miss-verdis-requiem-at-the-southbank-centre"
 title = "Don&#039;t miss: Verdi&#039;s Requiem at the Southbank Centre"
 +++

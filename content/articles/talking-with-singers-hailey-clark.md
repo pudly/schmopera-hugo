@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-05-13T20:59:00-04:00"
+lastmod = "2018-05-13T21:17:00-04:00"
+publishDate = "2018-05-13T20:59:00-04:00"
 slug = "talking-with-singers-hailey-clark"
 title = "Talking with singers: Hailey Clark"
 +++

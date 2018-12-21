@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-02-25T11:04:00+00:00"
+lastmod = "2017-02-25T16:04:00+00:00"
+publishDate = "2017-02-25T15:58:00+00:00"
 slug = "in-review-an-evening-with-the-ensemble-studio"
 title = "In review: An Evening with the Ensemble Studio"
 +++

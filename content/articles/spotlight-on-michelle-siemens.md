@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-06-10T21:42:00-04:00"
+lastmod = "2015-06-15T15:19:00-04:00"
+publishDate = "2015-06-12T13:53:00-04:00"
 slug = "spotlight-on-michelle-siemens"
 title = "Spotlight on: Michelle Siemens"
 +++

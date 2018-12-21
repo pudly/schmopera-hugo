@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-03-10T15:52:00+00:00"
+lastmod = "2016-03-14T09:48:00+00:00"
+publishDate = "2016-03-14T09:15:00+00:00"
 slug = "talking-with-singers-luca-pisaroni"
 title = "Talking with singers: Luca Pisaroni"
 +++

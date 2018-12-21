@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-11-11T21:29:00-05:00"
+lastmod = "2015-11-12T14:10:00-05:00"
+publishDate = "2015-11-12T14:10:00-05:00"
 slug = "live-theatre-respecting-short-attention-spans"
 title = "Live theatre &amp; respecting short attention spans"
 +++

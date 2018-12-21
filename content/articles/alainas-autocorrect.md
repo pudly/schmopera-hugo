@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2014-08-08T11:58:00-04:00"
+lastmod = "2015-04-27T18:02:00-04:00"
+publishDate = "2014-08-08T11:58:00-04:00"
 slug = "alainas-autocorrect"
 title = "Alaina&#039;s AutoCorrect"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-04-20T10:03:00-04:00"
+lastmod = "2015-04-22T13:17:00-04:00"
+publishDate = "2015-04-20T11:57:00-04:00"
 slug = "in-review-the-barber-of-seville-at-the-coc"
 title = "In review: The Barber of Seville at the COC"
 +++

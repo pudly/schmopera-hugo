@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2017-08-22T18:36:00-04:00"
+lastmod = "2017-08-22T22:24:00-04:00"
+publishDate = "2017-08-22T20:32:00-04:00"
 slug = "tragedies-torontos-summer-opera-shortage"
 title = "Tragedies: Toronto&#039;s summer opera shortage"
 +++

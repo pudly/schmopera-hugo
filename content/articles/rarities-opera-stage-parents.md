@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-05-03T09:51:00+01:00"
+lastmod = "2016-05-03T11:31:00+01:00"
+publishDate = "2016-05-03T11:25:00+01:00"
 slug = "rarities-opera-stage-parents"
 title = "Rarities: opera stage parents"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2018-01-19T16:38:00-05:00"
+lastmod = "2018-01-20T08:03:00-05:00"
+publishDate = "2018-01-20T08:03:00-05:00"
 slug = "sex-is-one-of-the-perks-of-conducting"
 title = "&quot;Sex is one of the perks of conducting.&quot;"
 +++

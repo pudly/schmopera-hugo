@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-10-15T13:38:00-04:00"
+lastmod = "2015-10-18T12:07:00-04:00"
+publishDate = "2015-10-16T12:33:00-04:00"
 slug = "bocelli-grande-could-be-an-opera-duo-except-theyre-really-really-not"
 title = "Bocelli &amp; Grande: could be an opera duo, except they&#039;re really, really not"
 +++

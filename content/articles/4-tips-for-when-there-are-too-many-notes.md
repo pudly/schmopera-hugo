@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-06-03T21:00:00-04:00"
+lastmod = "2017-05-21T11:53:00-04:00"
+publishDate = "2015-06-04T09:18:00-04:00"
 slug = "4-tips-for-when-there-are-too-many-notes"
 title = "4 tips for when there are too many notes"
 +++

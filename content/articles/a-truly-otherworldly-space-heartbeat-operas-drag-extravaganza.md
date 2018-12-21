@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-10-01T20:34:00-04:00"
+lastmod = "2017-10-11T10:42:00-04:00"
+publishDate = "2017-10-10T21:24:00-04:00"
 slug = "a-truly-otherworldly-space-heartbeat-operas-drag-extravaganza"
 title = "&quot;A truly otherworldly space&quot;: Heartbeat Opera&#039;s Drag Extravaganza"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-05-15T16:07:00+01:00"
+lastmod = "2016-05-16T11:03:00+01:00"
+publishDate = "2016-05-15T22:26:00+01:00"
 slug = "roxanna-walitzki-exquisite-corpse"
 title = "Roxanna Walitzki: Exquisite Corpse"
 +++

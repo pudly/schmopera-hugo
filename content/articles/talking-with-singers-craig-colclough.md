@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-05-15T19:42:00-04:00"
+lastmod = "2017-05-23T07:21:00-04:00"
+publishDate = "2017-05-22T21:45:00-04:00"
 slug = "talking-with-singers-craig-colclough"
 title = "Talking with singers: Craig Colclough"
 +++

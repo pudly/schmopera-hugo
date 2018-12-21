@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-07-12T14:25:00-04:00"
+lastmod = "2017-07-18T12:48:00-04:00"
+publishDate = "2017-07-18T12:48:00-04:00"
 slug = "when-art-is-not-enough-opera-activism"
 title = "When art is not enough: opera &amp; activism"
 +++

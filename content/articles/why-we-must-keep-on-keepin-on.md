@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-11-09T09:26:00+00:00"
+lastmod = "2016-11-09T11:16:00+00:00"
+publishDate = "2016-11-09T10:44:00+00:00"
 slug = "why-we-must-keep-on-keepin-on"
 title = "Why we must keep on keepin&#039; on"
 +++

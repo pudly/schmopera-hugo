@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-10-25T17:30:00-06:00"
+lastmod = "2016-06-19T19:33:00-06:00"
+publishDate = "2015-10-28T09:00:00-06:00"
 slug = "talking-with-singers-elizabeth-caballero"
 title = "Talking with singers: Elizabeth Caballero"
 +++

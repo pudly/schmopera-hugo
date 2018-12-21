@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-10-09T11:31:00-04:00"
+lastmod = "2015-10-11T10:46:00-04:00"
+publishDate = "2015-10-11T10:46:00-04:00"
 slug = "opera-da-cameras-hnsel-und-gretel"
 title = "Opera da Camera&#039;s Hänsel und Gretel"
 +++

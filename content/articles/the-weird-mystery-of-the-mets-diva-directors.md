@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-02-16T17:06:00+00:00"
+lastmod = "2017-02-17T11:00:00+00:00"
+publishDate = "2017-02-17T11:00:00+00:00"
 slug = "the-weird-mystery-of-the-mets-diva-directors"
 title = "The weird mystery of the Met&#039;s &quot;diva directors&quot;"
 +++

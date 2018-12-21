@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-16T12:15:00-04:00"
+lastmod = "2018-04-17T11:48:00-04:00"
+publishDate = "2018-04-16T22:25:00-04:00"
 slug = "heartfelt-and-intimate-manitoba-operas-la-traviata"
 title = "Heartfelt and intimate: Manitoba Opera&#039;s La Traviata"
 +++

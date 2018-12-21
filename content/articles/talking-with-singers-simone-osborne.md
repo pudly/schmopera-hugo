@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-09-15T12:59:00-04:00"
+lastmod = "2017-09-25T23:09:00-04:00"
+publishDate = "2017-09-25T22:57:00-04:00"
 slug = "talking-with-singers-simone-osborne"
 title = "Talking with singers: Simone Osborne"
 +++

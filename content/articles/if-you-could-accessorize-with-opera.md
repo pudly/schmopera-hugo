@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-09-01T16:14:00-04:00"
+lastmod = "2015-09-06T11:18:00-04:00"
+publishDate = "2015-09-06T11:16:00-04:00"
 slug = "if-you-could-accessorize-with-opera"
 title = "If you could accessorize with opera..."
 +++

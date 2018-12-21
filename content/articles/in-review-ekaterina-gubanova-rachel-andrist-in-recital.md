@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-05-19T16:11:00-04:00"
+lastmod = "2015-05-20T10:08:00-04:00"
+publishDate = "2015-05-20T10:08:00-04:00"
 slug = "in-review-ekaterina-gubanova-rachel-andrist-in-recital"
 title = "In review: Ekaterina Gubanova &amp; Rachel Andrist in recital"
 +++

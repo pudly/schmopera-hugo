@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-02-20T09:05:00-05:00"
+lastmod = "2016-02-20T09:50:00-05:00"
+publishDate = "2016-02-20T09:34:00-05:00"
 slug = "a-call-for-new-music-fawn-chamber-creative"
 title = "A call for new music: FAWN Chamber Creative"
 +++

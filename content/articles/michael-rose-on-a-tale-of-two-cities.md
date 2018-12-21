@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-07-20T17:43:00-04:00"
+lastmod = "2016-07-21T09:42:00-04:00"
+publishDate = "2016-07-21T09:27:00-04:00"
 slug = "michael-rose-on-a-tale-of-two-cities"
 title = "Michael Rose on A Tale of Two Cities"
 +++

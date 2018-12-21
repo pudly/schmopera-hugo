@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2018-11-14T16:08:00-05:00"
+lastmod = "2018-11-14T20:31:00-05:00"
+publishDate = "2018-11-14T16:58:00-05:00"
 slug = "wherefore-art-thou-opera"
 title = "Wherefore art thou, opera?"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-10-28T22:07:00-04:00"
+lastmod = "2015-11-01T10:28:00-05:00"
+publishDate = "2015-11-01T10:00:00-05:00"
 slug = "managing-the-unexpected"
 title = "Managing the unexpected"
 +++

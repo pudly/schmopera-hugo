@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-11-18T11:53:00-05:00"
+lastmod = "2015-11-18T16:07:00-05:00"
+publishDate = "2015-11-18T16:06:00-05:00"
 slug = "in-review-julie"
 title = "In review: Julie"
 +++

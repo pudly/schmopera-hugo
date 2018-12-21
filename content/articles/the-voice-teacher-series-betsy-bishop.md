@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-04-24T10:53:00-04:00"
+lastmod = "2018-04-30T10:05:00-04:00"
+publishDate = "2018-04-30T10:05:00-04:00"
 slug = "the-voice-teacher-series-betsy-bishop"
 title = "The voice teacher series: Betsy Bishop"
 +++

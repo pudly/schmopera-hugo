@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-12T14:12:00-04:00"
+lastmod = "2017-10-12T23:05:00-04:00"
+publishDate = "2017-10-12T21:15:00-04:00"
 slug = "he-saidshe-said-a-sweet-elixir-at-the-coc"
 title = "He said/she said: a sweet Elixir at the COC"
 +++

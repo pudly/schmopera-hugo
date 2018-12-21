@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-12-05T21:29:00-05:00"
+lastmod = "2017-12-06T10:43:00-05:00"
+publishDate = "2017-12-05T21:29:00-05:00"
 slug = "happy-birthday-to-us-schmopera-is-four"
 title = "Happy birthday to us: Schmopera is four!"
 +++

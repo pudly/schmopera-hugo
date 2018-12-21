@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-12-12T20:04:00+00:00"
+lastmod = "2016-12-13T12:47:00+00:00"
+publishDate = "2016-12-13T12:47:00+00:00"
 slug = "what-i-learned-about-money-from-enrico-caruso"
 title = "What I learned about money from Enrico Caruso"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-08-31T14:50:00-04:00"
+lastmod = "2017-09-09T11:11:00-04:00"
+publishDate = "2017-09-09T11:11:00-04:00"
 slug = "justin-ralph-it-all-comes-down-to-storytelling"
 title = "Justin Ralph: &quot;It all comes down to storytelling.&quot;"
 +++

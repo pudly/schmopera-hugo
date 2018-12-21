@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-11-22T13:16:00-05:00"
+lastmod = "2017-11-22T15:14:00-05:00"
+publishDate = "2017-11-22T13:16:00-05:00"
 slug = "a-great-loss-hvorostovsky-passes-at-55"
 title = "A great loss: Hvorostovsky passes at 55"
 +++

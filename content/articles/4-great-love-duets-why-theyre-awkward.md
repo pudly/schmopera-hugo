@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2017-02-13T14:41:00+00:00"
+lastmod = "2017-02-14T10:29:00+00:00"
+publishDate = "2017-02-14T10:01:00+00:00"
 slug = "4-great-love-duets-why-theyre-awkward"
 title = "4 great love duets &amp; why they&#039;re awkward"
 +++

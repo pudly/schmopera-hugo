@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-04-11T13:39:00+01:00"
+lastmod = "2017-04-11T14:10:00+01:00"
+publishDate = "2017-04-11T14:10:00+01:00"
 slug = "in-review-kitty-whately-joseph-middleton-at-wigmore-hall"
 title = "In review: Kitty Whately &amp; Joseph Middleton at Wigmore Hall"
 +++

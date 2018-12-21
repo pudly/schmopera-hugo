@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-10-10T21:23:00-04:00"
+lastmod = "2018-10-10T21:23:00-04:00"
+publishDate = "2018-10-10T21:23:00-04:00"
 slug = "a-shining-violetta-in-washington"
 title = "A shining Violetta in Washington"
 +++

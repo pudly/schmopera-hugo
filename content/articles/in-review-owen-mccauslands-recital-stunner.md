@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-05-20T15:36:00-04:00"
+lastmod = "2015-05-21T09:11:00-04:00"
+publishDate = "2015-05-21T08:30:00-04:00"
 slug = "in-review-owen-mccauslands-recital-stunner"
 title = "In review: Owen McCausland&#039;s recital stunner"
 +++

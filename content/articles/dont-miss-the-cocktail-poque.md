@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-02-03T12:01:00-05:00"
+lastmod = "2016-02-03T13:15:00-05:00"
+publishDate = "2016-02-03T13:15:00-05:00"
 slug = "dont-miss-the-cocktail-poque"
 title = "Don&#039;t miss: The Cocktail Époque"
 +++

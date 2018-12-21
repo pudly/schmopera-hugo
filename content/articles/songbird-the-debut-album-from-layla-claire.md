@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-05-21T15:17:00-04:00"
+lastmod = "2017-05-22T10:00:00-04:00"
+publishDate = "2017-05-22T10:00:00-04:00"
 slug = "songbird-the-debut-album-from-layla-claire"
 title = "Songbird: the debut album from Layla Claire"
 +++

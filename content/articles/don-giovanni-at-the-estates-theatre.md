@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-07-12T16:14:00-06:00"
+lastmod = "2015-07-15T21:28:00-06:00"
+publishDate = "2015-07-16T07:28:00-06:00"
 slug = "don-giovanni-at-the-estates-theatre"
 title = "Don Giovanni at the Estates Theatre"
 +++

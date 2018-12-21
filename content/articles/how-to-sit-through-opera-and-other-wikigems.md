@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-04-11T21:30:00-04:00"
+lastmod = "2015-04-11T21:32:00-04:00"
+publishDate = "2015-02-05T09:30:00-05:00"
 slug = "how-to-sit-through-opera-and-other-wikigems"
 title = "How to Sit Through Opera and Other Wikigems"
 +++

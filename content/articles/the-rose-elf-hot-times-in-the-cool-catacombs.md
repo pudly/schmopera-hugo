@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-06-21T18:41:00-04:00"
+lastmod = "2018-06-21T18:41:00-04:00"
+publishDate = "2018-06-21T18:41:00-04:00"
 slug = "the-rose-elf-hot-times-in-the-cool-catacombs"
 title = "The Rose Elf: Hot Times In The Cool Catacombs"
 +++

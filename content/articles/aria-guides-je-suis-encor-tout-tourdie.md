@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2016-09-20T16:28:00+01:00"
+lastmod = "2016-09-22T09:43:00+01:00"
+publishDate = "2016-09-22T09:29:00+01:00"
 slug = "aria-guides-je-suis-encor-tout-tourdie"
 title = "Aria guides: &quot;Je suis encor tout étourdie&quot;"
 +++

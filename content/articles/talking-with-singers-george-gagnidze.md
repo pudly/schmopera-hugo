@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-12-03T12:01:00+00:00"
+lastmod = "2016-12-03T13:29:00+00:00"
+publishDate = "2016-12-03T13:11:00+00:00"
 slug = "talking-with-singers-george-gagnidze"
 title = "Talking with singers: George Gagnidze"
 +++

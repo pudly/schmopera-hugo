@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-10-14T09:54:00-04:00"
+lastmod = "2015-04-25T22:21:00-04:00"
+publishDate = "2014-10-14T09:54:00-04:00"
 slug = "on-pianists-those-vicarious-opera-singers"
 title = "On Pianists, Those Vicarious Opera Singers"
 +++

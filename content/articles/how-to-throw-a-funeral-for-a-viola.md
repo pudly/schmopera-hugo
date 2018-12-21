@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-01-11T13:12:00+00:00"
+lastmod = "2017-01-14T17:13:00+00:00"
+publishDate = "2017-01-14T17:13:00+00:00"
 slug = "how-to-throw-a-funeral-for-a-viola"
 title = "How to throw a funeral for a viola"
 +++

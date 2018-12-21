@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-04-10T21:06:00-04:00"
+lastmod = "2015-04-12T18:48:00-04:00"
+publishDate = "2015-03-30T09:05:00-04:00"
 slug = "gibson-girls-and-the-great-opera-theyd-make"
 title = "Gibson Girls, and the Great Opera They&#039;d Make"
 +++

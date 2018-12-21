@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-05-22T21:27:00-04:00"
+lastmod = "2017-05-23T13:10:00-04:00"
+publishDate = "2017-05-23T13:10:00-04:00"
 slug = "talking-with-composers-aaron-gervais"
 title = "Talking with composers: Aaron Gervais"
 +++

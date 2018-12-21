@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-05-27T23:20:00-03:00"
+lastmod = "2017-08-05T21:33:00-03:00"
+publishDate = "2015-05-28T14:36:00-03:00"
 slug = "the-opera-party-monologue"
 title = "The Opera Party Monologue"
 +++

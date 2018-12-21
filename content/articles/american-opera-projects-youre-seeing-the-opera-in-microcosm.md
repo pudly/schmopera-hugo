@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-09-10T12:08:00-04:00"
+lastmod = "2017-09-12T12:02:00-04:00"
+publishDate = "2017-09-12T10:15:00-04:00"
 slug = "american-opera-projects-youre-seeing-the-opera-in-microcosm"
 title = "American Opera Projects: &quot;You&#039;re seeing the opera in microcosm.&quot;"
 +++

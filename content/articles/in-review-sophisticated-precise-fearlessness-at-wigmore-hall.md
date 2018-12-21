@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-08T15:25:00-04:00"
+lastmod = "2017-09-09T11:00:00-04:00"
+publishDate = "2017-09-08T20:02:00-04:00"
 slug = "in-review-sophisticated-precise-fearlessness-at-wigmore-hall"
 title = "In review: &quot;Sophisticated, precise fearlessness&quot; at Wigmore Hall"
 +++

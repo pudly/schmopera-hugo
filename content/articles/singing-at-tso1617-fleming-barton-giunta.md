@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-08-31T12:11:00+01:00"
+lastmod = "2016-09-02T13:47:00+01:00"
+publishDate = "2016-09-02T13:47:00+01:00"
 slug = "singing-at-tso1617-fleming-barton-giunta"
 title = "Singing at #TSO1617: Fleming, Barton, &amp; Giunta"
 +++

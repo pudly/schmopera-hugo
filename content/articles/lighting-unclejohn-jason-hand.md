@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2014-07-06T12:51:00-04:00"
+lastmod = "2015-04-23T15:03:00-04:00"
+publishDate = "2014-07-06T12:51:00-04:00"
 slug = "lighting-unclejohn-jason-hand"
 title = "Lighting #UncleJohn: Jason Hand"
 +++

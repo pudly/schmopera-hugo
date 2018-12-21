@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-08-24T13:47:00+01:00"
+lastmod = "2016-08-25T09:09:00+01:00"
+publishDate = "2016-08-25T09:09:00+01:00"
 slug = "united-we-stand-divided-we-fall"
 title = "United we stand, divided we fall"
 +++

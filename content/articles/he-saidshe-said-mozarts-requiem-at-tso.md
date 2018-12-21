@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-01-21T22:31:00-05:00"
+lastmod = "2016-01-22T11:19:00-05:00"
+publishDate = "2016-01-22T11:00:00-05:00"
 slug = "he-saidshe-said-mozarts-requiem-at-tso"
 title = "He said/she said: Mozart&#039;s Requiem at TSO"
 +++

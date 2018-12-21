@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-11-10T19:30:00-07:00"
+lastmod = "2016-07-10T16:37:00-06:00"
+publishDate = "2015-11-11T10:04:00-07:00"
 slug = "4-steps-to-taking-fixing-notes"
 title = "4 steps to taking (&amp; fixing) notes"
 +++

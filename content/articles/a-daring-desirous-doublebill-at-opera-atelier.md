@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2018-10-15T20:24:00-04:00"
+lastmod = "2018-10-15T20:27:00-04:00"
+publishDate = "2018-10-15T20:27:00-04:00"
 slug = "a-daring-desirous-doublebill-at-opera-atelier"
 title = "A daring &amp; desirous double-bill at Opera Atelier"
 +++

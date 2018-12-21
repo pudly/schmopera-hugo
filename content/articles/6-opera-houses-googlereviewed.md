@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-08-03T12:50:00+01:00"
+lastmod = "2016-08-04T10:33:00+01:00"
+publishDate = "2016-08-04T10:11:00+01:00"
 slug = "6-opera-houses-googlereviewed"
 title = "6 opera houses, Google-reviewed"
 +++

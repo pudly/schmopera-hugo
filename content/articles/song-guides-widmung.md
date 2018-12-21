@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-12-12T12:34:00-05:00"
+lastmod = "2015-12-17T12:15:00-05:00"
+publishDate = "2015-12-17T12:12:00-05:00"
 slug = "song-guides-widmung"
 title = "Song guides: Widmung"
 +++

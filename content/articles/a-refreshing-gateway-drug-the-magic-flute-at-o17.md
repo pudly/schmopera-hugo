@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-16T17:16:00-04:00"
+lastmod = "2017-09-16T18:08:00-04:00"
+publishDate = "2017-09-16T17:22:00-04:00"
 slug = "a-refreshing-gateway-drug-the-magic-flute-at-o17"
 title = "A refreshing gateway drug: The Magic Flute at O17"
 +++

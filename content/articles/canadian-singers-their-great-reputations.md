@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-12-23T10:07:00-05:00"
+lastmod = "2016-12-28T09:25:00-05:00"
+publishDate = "2016-12-28T08:52:00-05:00"
 slug = "canadian-singers-their-great-reputations"
 title = "Canadian singers &amp; their great reputations"
 +++

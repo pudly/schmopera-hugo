@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-04-18T12:27:00+01:00"
+lastmod = "2017-04-18T12:44:00+01:00"
+publishDate = "2017-04-18T12:44:00+01:00"
 slug = "in-review-rowan-pierce-the-london-handel-players"
 title = "In review: Rowan Pierce &amp; the London Handel Players"
 +++

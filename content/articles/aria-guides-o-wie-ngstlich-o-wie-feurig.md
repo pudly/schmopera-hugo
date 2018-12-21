@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2016-11-29T21:35:00+00:00"
+lastmod = "2016-12-06T16:59:00+00:00"
+publishDate = "2016-12-06T16:12:00+00:00"
 slug = "aria-guides-o-wie-ngstlich-o-wie-feurig"
 title = "Aria guides: &quot;O wie ängstlich, o wie feurig!&quot;"
 +++

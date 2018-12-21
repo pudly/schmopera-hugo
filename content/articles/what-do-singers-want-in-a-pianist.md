@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-09-08T12:17:00-04:00"
+lastmod = "2017-09-10T21:29:00-04:00"
+publishDate = "2017-09-10T20:48:00-04:00"
 slug = "what-do-singers-want-in-a-pianist"
 title = "What do singers want in a pianist?"
 +++

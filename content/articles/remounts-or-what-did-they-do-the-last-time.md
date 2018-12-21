@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-04-11T00:03:00-04:00"
+lastmod = "2015-04-11T00:03:00-04:00"
+publishDate = "2015-02-20T09:03:00-05:00"
 slug = "remounts-or-what-did-they-do-the-last-time"
 title = "Remounts, or &quot;What did they do the last time?&quot;"
 +++

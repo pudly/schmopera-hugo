@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-05-25T13:58:00-04:00"
+lastmod = "2015-06-03T17:03:00-04:00"
+publishDate = "2015-05-26T08:11:00-04:00"
 slug = "can-nycs-opera-scene-take-good-advice"
 title = "Can NYC&#039;s opera scene take good advice?"
 +++

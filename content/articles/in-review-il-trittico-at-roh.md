@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-03-04T10:59:00+00:00"
+lastmod = "2016-03-04T13:01:00+00:00"
+publishDate = "2016-03-04T13:01:00+00:00"
 slug = "in-review-il-trittico-at-roh"
 title = "In review: Il trittico at ROH"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-07-20T11:42:00-04:00"
+lastmod = "2015-09-09T08:42:00-04:00"
+publishDate = "2015-09-02T12:00:00-04:00"
 slug = "check-out-opera-after-hours"
 title = "Check out: Opera After Hours"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-05-12T12:39:00+01:00"
+lastmod = "2016-05-14T17:56:00+01:00"
+publishDate = "2016-05-14T14:01:00+01:00"
 slug = "aria-umezawa-opera-5s-die-fledermaus-with-surprises"
 title = "Aria Umezawa: Opera 5&#039;s Die Fledermaus, with surprises"
 +++

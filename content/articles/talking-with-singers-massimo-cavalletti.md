@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-11-12T14:31:00+00:00"
+lastmod = "2016-11-14T09:36:00+00:00"
+publishDate = "2016-11-14T09:07:00+00:00"
 slug = "talking-with-singers-massimo-cavalletti"
 title = "Talking with singers: Massimo Cavalletti"
 +++

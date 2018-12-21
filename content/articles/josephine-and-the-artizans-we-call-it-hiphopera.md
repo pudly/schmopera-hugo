@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-10-27T10:07:00-06:00"
+lastmod = "2017-06-25T15:31:00-06:00"
+publishDate = "2016-11-11T03:30:00-07:00"
 slug = "josephine-and-the-artizans-we-call-it-hiphopera"
 title = "Josephine and The Artizans: &quot;We call it hip-hopera.&quot;"
 +++

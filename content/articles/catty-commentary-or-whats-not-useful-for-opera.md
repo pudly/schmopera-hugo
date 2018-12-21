@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-06-22T09:51:00-06:00"
+lastmod = "2015-06-23T08:22:00-06:00"
+publishDate = "2015-06-23T08:05:00-06:00"
 slug = "catty-commentary-or-whats-not-useful-for-opera"
 title = "Catty commentary, or what&#039;s not useful for opera"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-06-11T20:32:00-04:00"
+lastmod = "2015-06-12T09:15:00-04:00"
+publishDate = "2015-06-12T09:15:00-04:00"
 slug = "in-review-25th-annual-putnam-county-spelling-bee"
 title = "In review: 25th Annual Putnam County Spelling Bee"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-10-22T08:22:00-04:00"
+lastmod = "2018-10-23T10:20:00-04:00"
+publishDate = "2018-10-22T19:44:00-04:00"
 slug = "the-flying-dutchman-a-stellar-homecoming-for-hgo"
 title = "The Flying Dutchman a stellar homecoming for HGO"
 +++

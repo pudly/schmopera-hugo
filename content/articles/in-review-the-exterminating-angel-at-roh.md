@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-04-25T08:46:00-04:00"
+lastmod = "2017-04-25T09:37:00-04:00"
+publishDate = "2017-04-25T09:21:00-04:00"
 slug = "in-review-the-exterminating-angel-at-roh"
 title = "In review: The Exterminating Angel at ROH"
 +++

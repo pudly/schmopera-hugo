@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-03-26T21:17:00-04:00"
+lastmod = "2018-04-16T16:29:00-04:00"
+publishDate = "2018-03-26T21:17:00-04:00"
 slug = "a-butterfly-but-not-from-puccini"
 title = "A Butterfly, but not from Puccini"
 +++

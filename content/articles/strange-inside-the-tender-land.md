@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-07-09T21:05:00-04:00"
+lastmod = "2018-07-09T21:05:00-04:00"
+publishDate = "2018-07-09T21:05:00-04:00"
 slug = "strange-inside-the-tender-land"
 title = "Strange inside: The Tender Land"
 +++

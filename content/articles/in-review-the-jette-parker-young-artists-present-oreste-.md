@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-11-13T12:08:00+00:00"
+lastmod = "2016-11-14T12:14:00+00:00"
+publishDate = "2016-11-14T12:13:00+00:00"
 slug = "in-review-the-jette-parker-young-artists-present-oreste-"
 title = "In review: the Jette Parker Young Artists present Oreste "
 +++

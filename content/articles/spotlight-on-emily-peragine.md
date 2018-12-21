@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-06-10T21:32:00-04:00"
+lastmod = "2015-06-15T15:19:00-04:00"
+publishDate = "2015-06-15T15:19:00-04:00"
 slug = "spotlight-on-emily-peragine"
 title = "Spotlight on: Emily Peragine"
 +++

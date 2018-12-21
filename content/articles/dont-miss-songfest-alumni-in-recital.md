@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-11-27T18:04:00-05:00"
+lastmod = "2017-11-27T18:55:00-05:00"
+publishDate = "2017-11-27T18:55:00-05:00"
 slug = "dont-miss-songfest-alumni-in-recital"
 title = "Don&#039;t miss: SongFest alumni in recital"
 +++

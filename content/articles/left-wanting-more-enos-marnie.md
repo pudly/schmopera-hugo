@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-27T20:43:00-05:00"
+lastmod = "2017-11-27T21:11:00-05:00"
+publishDate = "2017-11-27T20:43:00-05:00"
 slug = "left-wanting-more-enos-marnie"
 title = "Left wanting more: ENO&#039;s Marnie"
 +++

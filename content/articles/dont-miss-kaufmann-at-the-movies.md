@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-07-11T20:38:00-04:00"
+lastmod = "2017-07-21T08:47:00-04:00"
+publishDate = "2017-07-20T20:45:00-04:00"
 slug = "dont-miss-kaufmann-at-the-movies"
 title = "Don&#039;t miss: Kaufmann at the movies"
 +++

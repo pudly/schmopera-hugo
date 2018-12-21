@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-04-26T17:39:00-04:00"
+lastmod = "2015-04-27T18:22:00-04:00"
+publishDate = "2014-04-26T17:39:00-04:00"
 slug = "in-review-hnsel-gretel"
 title = "In review: Hänsel &amp; Gretel"
 +++

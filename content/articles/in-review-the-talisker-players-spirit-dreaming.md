@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-03-03T13:35:00+00:00"
+lastmod = "2016-03-03T14:49:00+00:00"
+publishDate = "2016-03-03T14:49:00+00:00"
 slug = "in-review-the-talisker-players-spirit-dreaming"
 title = "In review: The Talisker Players &amp; Spirit Dreaming"
 +++

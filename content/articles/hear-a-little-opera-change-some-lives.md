@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-10-18T17:03:00-04:00"
+lastmod = "2015-10-20T14:57:00-04:00"
+publishDate = "2015-10-20T12:30:00-04:00"
 slug = "hear-a-little-opera-change-some-lives"
 title = "Hear a little opera, change some lives"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-05-29T10:28:00-04:00"
+lastmod = "2017-05-29T12:15:00-04:00"
+publishDate = "2017-05-29T11:46:00-04:00"
 slug = "talking-with-composers-ivan-barbotin"
 title = "Talking with composers: Ivan Barbotin"
 +++

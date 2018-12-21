@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-09-08T11:24:00-04:00"
+lastmod = "2017-09-08T14:35:00-04:00"
+publishDate = "2017-09-08T12:21:00-04:00"
 slug = "mysterious-barricades-a-flicker-of-hope"
 title = "Mysterious Barricades: &quot;A flicker of hope.&quot;"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-10-11T13:40:00+01:00"
+lastmod = "2017-04-08T12:19:00+01:00"
+publishDate = "2016-10-14T09:45:00+01:00"
 slug = "talking-with-singers-hlose-werner"
 title = "Talking with singers: Héloïse Werner"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-01-03T00:29:00-05:00"
+lastmod = "2016-01-03T15:52:00-05:00"
+publishDate = "2016-01-03T15:52:00-05:00"
 slug = "schmopera-is-two"
 title = "Schmopera is two!"
 +++

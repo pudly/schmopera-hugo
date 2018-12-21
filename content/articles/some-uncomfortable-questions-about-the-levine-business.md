@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-12-12T21:05:00-05:00"
+lastmod = "2017-12-12T21:05:00-05:00"
+publishDate = "2017-12-12T21:05:00-05:00"
 slug = "some-uncomfortable-questions-about-the-levine-business"
 title = "Some uncomfortable questions about the Levine business"
 +++

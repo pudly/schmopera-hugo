@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-02-07T09:18:00-05:00"
+lastmod = "2015-04-28T20:59:00-04:00"
+publishDate = "2014-02-07T09:18:00-05:00"
 slug = "in-review-the-cocs-a-masked-ball"
 title = "In review: the COC&#039;s A Masked Ball"
 +++

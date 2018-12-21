@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-04-08T21:10:00-04:00"
+lastmod = "2018-04-08T21:20:00-04:00"
+publishDate = "2018-04-08T21:19:00-04:00"
 slug = "lore-lixenberg-is-the-mother"
 title = "Lore Lixenberg is The Mother"
 +++

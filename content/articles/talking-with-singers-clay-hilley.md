@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-12-20T12:05:00-05:00"
+lastmod = "2018-01-02T12:04:00-05:00"
+publishDate = "2018-01-02T11:54:00-05:00"
 slug = "talking-with-singers-clay-hilley"
 title = "Talking with singers: Clay Hilley"
 +++

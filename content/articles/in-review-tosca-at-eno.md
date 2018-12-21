@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-10-04T10:21:00+01:00"
+lastmod = "2016-10-04T12:36:00+01:00"
+publishDate = "2016-10-04T12:27:00+01:00"
 slug = "in-review-tosca-at-eno"
 title = "In review: Tosca at ENO"
 +++

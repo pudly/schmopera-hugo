@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2017-08-17T20:41:00-04:00"
+lastmod = "2017-08-22T13:17:00-04:00"
+publishDate = "2017-08-22T13:01:00-04:00"
 slug = "aria-guides-un-aura-amorosa"
 title = "Aria guides: &quot;Un aura amorosa&quot;"
 +++

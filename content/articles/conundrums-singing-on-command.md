@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-03-13T13:59:00+00:00"
+lastmod = "2017-03-14T13:18:00+00:00"
+publishDate = "2017-03-14T13:13:00+00:00"
 slug = "conundrums-singing-on-command"
 title = "Conundrums: singing on command"
 +++

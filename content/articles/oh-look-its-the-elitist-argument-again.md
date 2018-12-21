@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-12-07T17:13:00+00:00"
+lastmod = "2016-12-08T13:07:00+00:00"
+publishDate = "2016-12-08T13:07:00+00:00"
 slug = "oh-look-its-the-elitist-argument-again"
 title = "Oh look, it&#039;s the &quot;elitist&quot; argument again..."
 +++

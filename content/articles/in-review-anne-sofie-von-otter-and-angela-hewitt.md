@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-01-10T15:05:00-05:00"
+lastmod = "2015-04-11T23:32:00-04:00"
+publishDate = "2015-01-10T15:05:00-05:00"
 slug = "in-review-anne-sofie-von-otter-and-angela-hewitt"
 title = "In review: Anne Sofie von Otter and Angela Hewitt"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-03T15:03:00-06:00"
+lastmod = "2017-07-08T09:07:00-06:00"
+publishDate = "2017-07-07T22:56:00-06:00"
 slug = "talking-with-composers-kieren-macmillan"
 title = "Talking with composers: Kieren MacMillan"
 +++

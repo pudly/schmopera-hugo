@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-02-08T20:52:00-05:00"
+lastmod = "2018-02-09T14:25:00-05:00"
+publishDate = "2018-02-08T20:52:00-05:00"
 slug = "cycles-of-my-being-this-is-their-story"
 title = "Cycles of My Being: &quot;This is their story.&quot;"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-01-28T17:48:00-05:00"
+lastmod = "2015-04-11T22:11:00-04:00"
+publishDate = "2015-01-28T17:48:00-05:00"
 slug = "in-review-tcherniakovs-don-giovanni"
 title = "In review: Tcherniakov&#039;s Don Giovanni"
 +++

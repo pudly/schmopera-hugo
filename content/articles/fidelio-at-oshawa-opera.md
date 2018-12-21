@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-10-25T18:44:00-04:00"
+lastmod = "2015-10-26T11:11:00-04:00"
+publishDate = "2015-10-26T11:01:00-04:00"
 slug = "fidelio-at-oshawa-opera"
 title = "Fidelio at Oshawa Opera"
 +++

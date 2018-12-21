@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-12-08T15:41:00+00:00"
+lastmod = "2017-01-19T18:09:00+00:00"
+publishDate = "2015-12-08T16:32:00+00:00"
 slug = "nerding-out-mozarts-blurry-barlines"
 title = "Nerding out: Mozart&#039;s blurry barlines"
 +++

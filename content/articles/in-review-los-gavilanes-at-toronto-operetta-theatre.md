@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-04-28T09:49:00+01:00"
+lastmod = "2016-04-28T11:35:00+01:00"
+publishDate = "2016-04-28T11:35:00+01:00"
 slug = "in-review-los-gavilanes-at-toronto-operetta-theatre"
 title = "In review: Los Gavilanes at Toronto Operetta Theatre"
 +++

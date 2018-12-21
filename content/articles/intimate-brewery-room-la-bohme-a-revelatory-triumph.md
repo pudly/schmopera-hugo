@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-13T15:27:00-04:00"
+lastmod = "2018-04-14T16:29:00-04:00"
+publishDate = "2018-04-14T16:29:00-04:00"
 slug = "intimate-brewery-room-la-bohme-a-revelatory-triumph"
 title = "Intimate Brewery Room La Bohème A Revelatory Triumph"
 +++

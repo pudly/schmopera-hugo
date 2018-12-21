@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-05-21T12:29:00+01:00"
+lastmod = "2016-05-22T10:47:00+01:00"
+publishDate = "2016-05-21T13:06:00+01:00"
 slug = "morbid-musings-art-death"
 title = "Morbid musings: art &amp; death"
 +++

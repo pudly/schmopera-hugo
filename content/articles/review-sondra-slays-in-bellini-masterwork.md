@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-10-16T12:20:00+01:00"
+lastmod = "2016-10-16T13:38:00+01:00"
+publishDate = "2016-10-16T13:21:00+01:00"
 slug = "review-sondra-slays-in-bellini-masterwork"
 title = "Review: Sondra slays in Bellini masterwork"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-05-24T16:22:00+01:00"
+lastmod = "2016-10-19T16:56:00+01:00"
+publishDate = "2015-05-24T16:43:00+01:00"
 slug = "get-our-newsletter-stay-in-the-loop"
 title = "Get our newsletter, stay in the loop"
 +++

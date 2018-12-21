@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-04-10T22:31:00-04:00"
+lastmod = "2015-04-10T22:31:00-04:00"
+publishDate = "2015-03-14T10:31:00-04:00"
 slug = "proof-that-music-is-simply-unreasonable"
 title = "Proof that Music is Simply Unreasonable"
 +++

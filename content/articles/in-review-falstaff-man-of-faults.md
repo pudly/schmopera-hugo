@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-12-19T18:12:00-05:00"
+lastmod = "2017-12-19T21:11:00-05:00"
+publishDate = "2017-12-19T19:09:00-05:00"
 slug = "in-review-falstaff-man-of-faults"
 title = "In review: Falstaff, man of faults"
 +++

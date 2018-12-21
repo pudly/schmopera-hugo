@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-04-16T11:39:00+01:00"
+lastmod = "2016-04-16T12:42:00+01:00"
+publishDate = "2016-04-16T12:30:00+01:00"
 slug = "inspiration-seeing-it-for-oneself"
 title = "Inspiration: seeing it for oneself"
 +++

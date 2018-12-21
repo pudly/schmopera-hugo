@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-01-06T21:26:00-05:00"
+lastmod = "2016-01-07T17:01:00-05:00"
+publishDate = "2016-01-08T09:00:00-05:00"
 slug = "13-more-pop-singers-with-pipes-lets-hear-it-for-the-boys"
 title = "13 more pop singers with pipes: let&#039;s hear it for the boys"
 +++

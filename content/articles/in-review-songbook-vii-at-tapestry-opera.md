@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-02-26T17:46:00+00:00"
+lastmod = "2017-02-27T10:37:00+00:00"
+publishDate = "2017-02-27T10:37:00+00:00"
 slug = "in-review-songbook-vii-at-tapestry-opera"
 title = "In review: Songbook VII at Tapestry Opera"
 +++

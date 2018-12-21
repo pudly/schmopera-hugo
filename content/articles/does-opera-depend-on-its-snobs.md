@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-08-26T14:43:00-04:00"
+lastmod = "2015-04-16T17:18:00-04:00"
+publishDate = "2014-08-26T14:43:00-04:00"
 slug = "does-opera-depend-on-its-snobs"
 title = "Does opera depend on its snobs?"
 +++

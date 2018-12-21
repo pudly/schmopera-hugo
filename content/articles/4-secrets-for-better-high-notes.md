@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-06-14T11:19:00-04:00"
+lastmod = "2017-08-23T17:02:00-04:00"
+publishDate = "2015-06-15T08:00:00-04:00"
 slug = "4-secrets-for-better-high-notes"
 title = "4 secrets for better high notes"
 +++

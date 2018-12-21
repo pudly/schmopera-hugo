@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-04-22T19:37:00+01:00"
+lastmod = "2016-04-23T12:03:00+01:00"
+publishDate = "2016-04-23T11:55:00+01:00"
 slug = "party-arias-the-traits-of-lesser-operas"
 title = "Party arias: the traits of lesser operas?"
 +++

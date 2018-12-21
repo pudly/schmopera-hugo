@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2017-08-13T20:35:00-04:00"
+lastmod = "2017-08-14T12:27:00-04:00"
+publishDate = "2017-08-14T12:27:00-04:00"
 slug = "aria-guides-embroidery-aria"
 title = "Aria guides: Embroidery Aria"
 +++

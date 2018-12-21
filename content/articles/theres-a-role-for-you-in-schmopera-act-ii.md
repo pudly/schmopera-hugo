@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-07-18T18:07:00-04:00"
+lastmod = "2017-07-26T20:05:00-04:00"
+publishDate = "2017-07-18T21:05:00-04:00"
 slug = "theres-a-role-for-you-in-schmopera-act-ii"
 title = "There&#039;s a role for you in Schmopera: Act II!"
 +++

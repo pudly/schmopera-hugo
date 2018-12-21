@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-02-25T16:41:00+00:00"
+lastmod = "2017-02-26T11:21:00+00:00"
+publishDate = "2017-02-26T11:21:00+00:00"
 slug = "at-arms-length-goerne-hinterhuser-in-recital"
 title = "At arm&#039;s length: Goerne &amp; Hinterhäuser in recital"
 +++

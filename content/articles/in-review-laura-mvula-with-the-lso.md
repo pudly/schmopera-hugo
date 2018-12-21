@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-07-22T10:41:00-04:00"
+lastmod = "2017-07-24T10:32:00-04:00"
+publishDate = "2017-07-24T09:43:00-04:00"
 slug = "in-review-laura-mvula-with-the-lso"
 title = "In review: Laura Mvula with the LSO"
 +++

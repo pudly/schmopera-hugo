@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-01-27T12:33:00+00:00"
+lastmod = "2017-01-27T14:40:00+00:00"
+publishDate = "2017-01-27T14:34:00+00:00"
 slug = "enjoying-opera-its-not-snobby-to-be-informed"
 title = "Enjoying opera: it&#039;s not snobby to be informed"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-01-10T13:38:00+00:00"
+lastmod = "2017-01-11T12:38:00+00:00"
+publishDate = "2017-01-11T12:25:00+00:00"
 slug = "in-review-la-colla-katzarava-in-recital"
 title = "In review: La Colla &amp; Katzarava in recital"
 +++

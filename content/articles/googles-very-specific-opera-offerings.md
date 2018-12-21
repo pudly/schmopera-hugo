@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-05-04T13:41:00-04:00"
+lastmod = "2015-05-04T13:45:00-04:00"
+publishDate = "2015-05-04T13:45:00-04:00"
 slug = "googles-very-specific-opera-offerings"
 title = "Google&#039;s very specific opera offerings"
 +++

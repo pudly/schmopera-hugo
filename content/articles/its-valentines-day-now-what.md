@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2014-02-14T16:29:00-05:00"
+lastmod = "2015-04-27T22:44:00-04:00"
+publishDate = "2014-02-14T16:29:00-05:00"
 slug = "its-valentines-day-now-what"
 title = "It&#039;s Valentines Day! Now what?"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2017-01-11T12:31:00+00:00"
+lastmod = "2017-01-12T09:58:00+00:00"
+publishDate = "2017-01-11T14:25:00+00:00"
 slug = "charlotte-church-the-latest-voice-in-musics-trump-boycott"
 title = "Charlotte Church the latest voice in music&#039;s Trump boycott"
 +++

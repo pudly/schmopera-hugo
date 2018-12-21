@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-05-12T11:33:00-04:00"
+lastmod = "2017-05-15T12:04:00-04:00"
+publishDate = "2017-05-15T08:30:00-04:00"
 slug = "a-very-bohemian-undertaking-atgs-la-bohme"
 title = "&quot;A very Bohemian undertaking&quot;: AtG&#039;s La bohème"
 +++

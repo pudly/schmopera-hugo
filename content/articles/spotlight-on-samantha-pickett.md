@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-06-19T15:38:00-06:00"
+lastmod = "2016-06-21T10:15:00-06:00"
+publishDate = "2016-06-21T02:57:00-06:00"
 slug = "spotlight-on-samantha-pickett"
 title = "Spotlight on: Samantha Pickett"
 +++

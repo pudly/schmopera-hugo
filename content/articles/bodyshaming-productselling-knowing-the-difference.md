@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-08-26T21:02:00-04:00"
+lastmod = "2017-08-27T22:31:00-04:00"
+publishDate = "2017-08-27T22:31:00-04:00"
 slug = "bodyshaming-productselling-knowing-the-difference"
 title = "Body-shaming, product-selling, &amp; knowing the difference"
 +++

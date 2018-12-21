@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-05-30T16:42:00-04:00"
+lastmod = "2018-06-02T18:29:00-04:00"
+publishDate = "2018-06-01T21:45:00-04:00"
 slug = "talking-with-singers-cristina-pasaroiu"
 title = "Talking with singers: Cristina Pasaroiu"
 +++

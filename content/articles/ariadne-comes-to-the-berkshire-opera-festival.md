@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-08-02T13:15:00-04:00"
+lastmod = "2017-08-08T14:48:00-04:00"
+publishDate = "2017-08-08T11:23:00-04:00"
 slug = "ariadne-comes-to-the-berkshire-opera-festival"
 title = "Ariadne comes to the Berkshire Opera Festival"
 +++

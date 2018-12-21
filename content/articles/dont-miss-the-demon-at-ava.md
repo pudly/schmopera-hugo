@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-12-07T14:10:00+00:00"
+lastmod = "2016-12-08T13:02:00+00:00"
+publishDate = "2016-12-08T11:59:00+00:00"
 slug = "dont-miss-the-demon-at-ava"
 title = "Don&#039;t miss: The Demon at AVA"
 +++

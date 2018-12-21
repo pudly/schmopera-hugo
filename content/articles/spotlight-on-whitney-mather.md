@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-06-07T04:05:00-06:00"
+lastmod = "2016-07-06T16:11:00-06:00"
+publishDate = "2016-06-24T21:52:00-06:00"
 slug = "spotlight-on-whitney-mather"
 title = "Spotlight on: Whitney Mather"
 +++

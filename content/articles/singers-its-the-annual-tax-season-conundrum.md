@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-04-01T13:06:00+01:00"
+lastmod = "2017-04-03T13:17:00+01:00"
+publishDate = "2017-04-03T13:17:00+01:00"
 slug = "singers-its-the-annual-tax-season-conundrum"
 title = "Singers, it&#039;s the annual Tax Season Conundrum!"
 +++

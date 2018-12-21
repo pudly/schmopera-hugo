@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-06-29T16:59:00-06:00"
+lastmod = "2016-07-02T08:59:00-06:00"
+publishDate = "2016-06-30T18:58:00-06:00"
 slug = "spotlight-on-naomi-eberhard"
 title = "Spotlight on: Naomi Eberhard"
 +++

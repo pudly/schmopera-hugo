@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-06-24T21:57:00-06:00"
+lastmod = "2016-07-06T16:10:00-06:00"
+publishDate = "2016-06-24T22:45:00-06:00"
 slug = "call-for-submissions-mahogany-opera-groups-various-stages"
 title = "Call for submissions: Mahogany Opera Group&#039;s Various Stages"
 +++

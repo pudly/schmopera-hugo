@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-15T13:12:00-04:00"
+lastmod = "2017-09-15T16:35:00-04:00"
+publishDate = "2017-09-15T14:15:00-04:00"
 slug = "a-stunning-premiere-elizabeth-cree"
 title = "A stunning premiere: Elizabeth Cree"
 +++

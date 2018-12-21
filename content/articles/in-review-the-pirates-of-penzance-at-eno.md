@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-02-10T11:33:00+00:00"
+lastmod = "2017-02-10T14:09:00+00:00"
+publishDate = "2017-02-10T13:23:00+00:00"
 slug = "in-review-the-pirates-of-penzance-at-eno"
 title = "In review: The Pirates of Penzance at ENO"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-05-18T22:32:00-04:00"
+lastmod = "2017-05-19T14:34:00-04:00"
+publishDate = "2017-05-19T12:03:00-04:00"
 slug = "going-out-in-style-sy-kwon-in-the-rba"
 title = "Going out in style: Sy &amp; Kwon in the RBA"
 +++

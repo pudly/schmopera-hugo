@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-07-08T23:29:00-06:00"
+lastmod = "2015-07-15T21:45:00-06:00"
+publishDate = "2015-07-11T07:25:00-06:00"
 slug = "music-as-theatre-a-chamber-concert-in-banff"
 title = "Music as Theatre: a chamber concert in Banff"
 +++

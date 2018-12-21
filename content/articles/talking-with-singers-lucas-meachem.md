@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-02-12T21:50:00-05:00"
+lastmod = "2018-02-13T21:08:00-05:00"
+publishDate = "2018-02-13T21:08:00-05:00"
 slug = "talking-with-singers-lucas-meachem"
 title = "Talking with singers: Lucas Meachem"
 +++

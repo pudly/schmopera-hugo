@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-04-28T15:46:00-04:00"
+lastmod = "2017-04-29T10:42:00-04:00"
+publishDate = "2017-04-29T09:48:00-04:00"
 slug = "canadian-yaps-missed-opportunities"
 title = "Canadian YAPs &amp; missed opportunities"
 +++

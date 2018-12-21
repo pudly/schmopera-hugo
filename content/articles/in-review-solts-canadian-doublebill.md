@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-07-31T12:02:00-04:00"
+lastmod = "2017-08-01T12:28:00-04:00"
+publishDate = "2017-08-01T11:31:00-04:00"
 slug = "in-review-solts-canadian-doublebill"
 title = "In review: SOLT&#039;s Canadian double-bill"
 +++

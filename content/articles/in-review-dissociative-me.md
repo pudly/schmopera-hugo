@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-08-19T19:30:00+02:00"
+lastmod = "2015-08-20T15:08:00+02:00"
+publishDate = "2015-08-19T20:10:00+02:00"
 slug = "in-review-dissociative-me"
 title = "In review: Dissociative Me"
 +++

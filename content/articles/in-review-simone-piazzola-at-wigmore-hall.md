@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-11-02T12:55:00+00:00"
+lastmod = "2016-11-02T16:05:00+00:00"
+publishDate = "2016-11-02T15:47:00+00:00"
 slug = "in-review-simone-piazzola-at-wigmore-hall"
 title = "In review: Simone Piazzola at Wigmore Hall"
 +++

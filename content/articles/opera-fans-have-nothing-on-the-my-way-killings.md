@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2017-04-05T15:11:00+01:00"
+lastmod = "2017-04-07T12:22:00+01:00"
+publishDate = "2017-04-07T12:22:00+01:00"
 slug = "opera-fans-have-nothing-on-the-my-way-killings"
 title = "Opera fans have nothing on the &quot;My Way Killings&quot;"
 +++

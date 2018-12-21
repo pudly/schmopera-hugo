@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-08-19T09:45:00+01:00"
+lastmod = "2016-08-19T10:58:00+01:00"
+publishDate = "2016-08-19T10:52:00+01:00"
 slug = "in-review-a-midsummer-nights-dream-at-glyndebourne"
 title = "In review: A Midsummer Night&#039;s Dream at Glyndebourne"
 +++

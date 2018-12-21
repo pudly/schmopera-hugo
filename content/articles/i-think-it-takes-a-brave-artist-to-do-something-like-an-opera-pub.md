@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-09-21T11:41:00-04:00"
+lastmod = "2017-09-26T17:56:00-04:00"
+publishDate = "2017-09-26T09:51:00-04:00"
 slug = "i-think-it-takes-a-brave-artist-to-do-something-like-an-opera-pub"
 title = "&quot;I think it takes a brave artist to do something like an Opera Pub.&quot;"
 +++

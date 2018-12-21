@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-09-27T09:15:00+01:00"
+lastmod = "2016-09-27T11:17:00+01:00"
+publishDate = "2016-09-27T10:12:00+01:00"
 slug = "in-review-alek-shrader-at-wigmore-hall"
 title = "In review: Alek Shrader at Wigmore Hall"
 +++

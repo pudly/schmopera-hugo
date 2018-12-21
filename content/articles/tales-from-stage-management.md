@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-04-19T20:13:00+01:00"
+lastmod = "2016-04-21T15:12:00+01:00"
+publishDate = "2016-04-21T14:23:00+01:00"
 slug = "tales-from-stage-management"
 title = "Tales from stage management"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-16T13:02:00-04:00"
+lastmod = "2018-04-16T22:25:00-04:00"
+publishDate = "2018-04-16T22:25:00-04:00"
 slug = "wendy-bryn-harmer-leads-sensitive-inspirational-fidelio"
 title = "Wendy Bryn Harmer Leads Sensitive, Inspirational Fidelio"
 +++

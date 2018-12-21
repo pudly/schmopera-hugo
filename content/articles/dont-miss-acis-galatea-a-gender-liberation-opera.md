@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-08-16T10:19:00-04:00"
+lastmod = "2017-08-18T18:25:00-04:00"
+publishDate = "2017-08-18T09:39:00-04:00"
 slug = "dont-miss-acis-galatea-a-gender-liberation-opera"
 title = "Don&#039;t miss Acis &amp; Galatea: A Gender Liberation Opera"
 +++

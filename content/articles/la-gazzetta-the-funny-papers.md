@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-07-02T12:07:00-04:00"
+lastmod = "2018-07-05T11:12:00-04:00"
+publishDate = "2018-07-02T12:07:00-04:00"
 slug = "la-gazzetta-the-funny-papers"
 title = "La Gazzetta: The Funny Papers"
 +++

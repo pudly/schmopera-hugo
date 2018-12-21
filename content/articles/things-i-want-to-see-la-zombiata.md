@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-02-01T09:52:00-05:00"
+lastmod = "2016-02-01T10:11:00-05:00"
+publishDate = "2016-02-01T10:11:00-05:00"
 slug = "things-i-want-to-see-la-zombiata"
 title = "Things I want to see: La Zombiata"
 +++

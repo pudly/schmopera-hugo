@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-11-09T18:09:00-05:00"
+lastmod = "2015-11-10T11:25:00-05:00"
+publishDate = "2015-11-10T11:20:00-05:00"
 slug = "dont-miss-sondra-radvanovsky-at-koerner-hall"
 title = "Don&#039;t miss: Sondra Radvanovsky at Koerner Hall"
 +++

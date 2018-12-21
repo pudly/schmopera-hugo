@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-05-28T20:28:00+01:00"
+lastmod = "2016-05-30T11:34:00+01:00"
+publishDate = "2016-05-29T22:40:00+01:00"
 slug = "what-weve-learned-by-talking-with-108-opera-singers"
 title = "What we&#039;ve learned by talking with 108 opera singers"
 +++

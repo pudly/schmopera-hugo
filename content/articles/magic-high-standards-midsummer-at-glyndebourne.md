@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-08-03T09:17:00+01:00"
+lastmod = "2016-08-04T13:06:00+01:00"
+publishDate = "2016-08-04T12:59:00+01:00"
 slug = "magic-high-standards-midsummer-at-glyndebourne"
 title = "Magic &amp; high standards: Midsummer at Glyndebourne"
 +++

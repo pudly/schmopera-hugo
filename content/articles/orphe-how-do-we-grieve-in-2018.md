@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-04-10T22:19:00-04:00"
+lastmod = "2018-04-11T12:02:00-04:00"
+publishDate = "2018-04-10T22:19:00-04:00"
 slug = "orphe-how-do-we-grieve-in-2018"
 title = "Orphée⁺: &quot;How do we grieve in 2018?&quot;"
 +++

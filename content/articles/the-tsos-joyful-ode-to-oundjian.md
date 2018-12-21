@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-06-30T22:08:00-04:00"
+lastmod = "2018-06-30T22:10:00-04:00"
+publishDate = "2018-06-30T22:08:00-04:00"
 slug = "the-tsos-joyful-ode-to-oundjian"
 title = "The TSO&#039;s joyful ode to Oundjian"
 +++

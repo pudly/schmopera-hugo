@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-03-02T15:06:00+00:00"
+lastmod = "2017-03-02T17:26:00+00:00"
+publishDate = "2017-03-02T17:26:00+00:00"
 slug = "crosscanada-opera-the-overcoat-comes-to-toronto-vancouver"
 title = "Cross-Canada opera: The Overcoat comes to Toronto &amp; Vancouver"
 +++

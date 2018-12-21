@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-02-20T20:24:00+00:00"
+lastmod = "2017-02-22T13:41:00+00:00"
+publishDate = "2017-02-22T13:41:00+00:00"
 slug = "dont-miss-the-man-who-married-himself"
 title = "Don&#039;t miss: The Man Who Married Himself"
 +++

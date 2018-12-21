@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2018-11-16T21:50:00-05:00"
+lastmod = "2018-11-17T13:34:00-05:00"
+publishDate = "2018-11-16T21:50:00-05:00"
 slug = "recording-dame-smyth-pretty-good-for-a-woman"
 title = "Recording Dame Smyth: &quot;Pretty good - for a woman.&quot;"
 +++

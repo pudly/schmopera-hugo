@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-04-10T21:13:00-04:00"
+lastmod = "2015-04-10T21:13:00-04:00"
+publishDate = "2015-03-27T09:13:00-04:00"
 slug = "the-case-for-nomadic-opera"
 title = "The Case for Nomadic Opera"
 +++

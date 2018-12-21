@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-12-19T21:03:00-05:00"
+lastmod = "2017-12-19T21:03:00-05:00"
+publishDate = "2017-12-19T21:03:00-05:00"
 slug = "the-price-of-vengeance-rigoletto-at-roh"
 title = "The price of vengeance: Rigoletto at ROH"
 +++

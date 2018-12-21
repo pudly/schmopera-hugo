@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-07-29T20:54:00-04:00"
+lastmod = "2017-07-30T11:38:00-04:00"
+publishDate = "2017-07-30T11:30:00-04:00"
 slug = "fab-nights-whose-opera-is-it-anyway"
 title = "Fab nights: Whose Opera is it Anyway?"
 +++

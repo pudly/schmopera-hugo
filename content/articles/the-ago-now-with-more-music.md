@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-11-01T11:16:00-05:00"
+lastmod = "2015-11-02T16:29:00-05:00"
+publishDate = "2015-11-02T13:07:00-05:00"
 slug = "the-ago-now-with-more-music"
 title = "The AGO, now with more music!"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-08-03T13:17:00-04:00"
+lastmod = "2017-08-04T10:38:00-04:00"
+publishDate = "2017-08-03T22:40:00-04:00"
 slug = "we-all-wear-clothes-they-sit-right-on-our-skin"
 title = "&quot;We all wear clothes. They sit right on our skin.&quot;"
 +++

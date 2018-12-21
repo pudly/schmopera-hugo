@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-27T17:24:00-04:00"
+lastmod = "2017-08-01T22:22:00-04:00"
+publishDate = "2017-08-01T22:01:00-04:00"
 slug = "dont-miss-beatrix-potter-at-edinburgh-fringe"
 title = "Don&#039;t miss: Beatrix Potter at Edinburgh Fringe"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-11T10:16:00-04:00"
+lastmod = "2017-09-11T11:42:00-04:00"
+publishDate = "2017-09-11T10:32:00-04:00"
 slug = "in-review-il-trovatore-at-oper-frankfurt"
 title = "In review: Il trovatore at Oper Frankfurt"
 +++

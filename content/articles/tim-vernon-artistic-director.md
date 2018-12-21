@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-06-29T18:23:00-06:00"
+lastmod = "2015-07-02T12:41:00-06:00"
+publishDate = "2015-07-02T12:41:00-06:00"
 slug = "tim-vernon-artistic-director"
 title = "Tim Vernon, Artistic Director²"
 +++

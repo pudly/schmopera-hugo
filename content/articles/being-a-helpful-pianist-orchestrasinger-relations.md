@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2016-11-14T14:52:00+00:00"
+lastmod = "2016-11-14T14:52:00+00:00"
+publishDate = "undefined"
 slug = "being-a-helpful-pianist-orchestrasinger-relations"
 title = "Being a helpful pianist: orchestra-singer relations"
 +++

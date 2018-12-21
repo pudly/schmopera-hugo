@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-02-01T10:30:00+00:00"
+lastmod = "2017-02-01T12:47:00+00:00"
+publishDate = "2017-02-01T12:39:00+00:00"
 slug = "dont-miss-haus-musik"
 title = "Don&#039;t miss: Haus Musik"
 +++

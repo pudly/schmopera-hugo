@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-01-26T23:11:00-05:00"
+lastmod = "2016-01-29T10:19:00-05:00"
+publishDate = "2016-01-29T09:26:00-05:00"
 slug = "shower-thoughts-billy-budd-in-space"
 title = "Shower thoughts: Billy Budd in space"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-07-04T23:38:00-06:00"
+lastmod = "2015-07-07T14:46:00-06:00"
+publishDate = "2015-07-07T12:30:00-06:00"
 slug = "spotlight-on-danielle-macmillan"
 title = "Spotlight on: Danielle MacMillan"
 +++

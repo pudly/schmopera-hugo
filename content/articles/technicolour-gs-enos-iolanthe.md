@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-02-18T10:24:00-05:00"
+lastmod = "2018-02-19T09:20:00-05:00"
+publishDate = "2018-02-19T09:20:00-05:00"
 slug = "technicolour-gs-enos-iolanthe"
 title = "Technicolour G&amp;S: ENO&#039;s Iolanthe"
 +++

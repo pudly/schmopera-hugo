@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-05-26T17:25:00-04:00"
+lastmod = "2018-05-29T09:29:00-04:00"
+publishDate = "2018-05-27T18:16:00-04:00"
 slug = "talking-with-singers-adela-zaharia"
 title = "Talking with singers: Adela Zaharia"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-06-17T16:27:00-04:00"
+lastmod = "2015-06-19T12:53:00-04:00"
+publishDate = "2015-06-17T16:42:00-04:00"
 slug = "trans-opera-singer-to-sing-national-anthem-at-oakland-as-game"
 title = "Trans opera singer to sing national anthem at Oakland A&#039;s game"
 +++

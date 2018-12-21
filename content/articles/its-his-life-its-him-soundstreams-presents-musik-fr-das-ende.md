@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-10-20T12:07:00-04:00"
+lastmod = "2017-10-20T21:46:00-04:00"
+publishDate = "2017-10-20T19:39:00-04:00"
 slug = "its-his-life-its-him-soundstreams-presents-musik-fr-das-ende"
 title = "&quot;It&#039;s his life, it&#039;s him.&quot; Soundstreams presents Musik für das Ende"
 +++

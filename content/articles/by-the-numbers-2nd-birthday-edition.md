@@ -1,5 +1,8 @@
 +++
 categories = "Meta"
+date = "2016-01-02T21:44:00-05:00"
+lastmod = "2016-01-03T11:24:00-05:00"
+publishDate = "2016-01-02T21:44:00-05:00"
 slug = "by-the-numbers-2nd-birthday-edition"
 title = "By the Numbers: 2nd birthday edition"
 +++

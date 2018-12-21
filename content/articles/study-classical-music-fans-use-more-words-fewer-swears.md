@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-09-08T09:30:00-04:00"
+lastmod = "2015-04-16T15:29:00-04:00"
+publishDate = "2014-09-08T09:30:00-04:00"
 slug = "study-classical-music-fans-use-more-words-fewer-swears"
 title = "Study: classical music fans use more words, fewer swears"
 +++

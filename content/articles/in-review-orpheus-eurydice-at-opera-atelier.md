@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-04-10T20:10:00-04:00"
+lastmod = "2015-04-13T16:16:00-04:00"
+publishDate = "2015-04-10T20:10:00-04:00"
 slug = "in-review-orpheus-eurydice-at-opera-atelier"
 title = "In review: Orpheus &amp; Eurydice at Opera Atelier"
 +++

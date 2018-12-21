@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-06-09T16:42:00-06:00"
+lastmod = "2017-06-14T23:03:00-06:00"
+publishDate = "2017-06-14T22:21:00-06:00"
 slug = "spotlight-on-jennifer-taverner"
 title = "Spotlight on: Jennifer Taverner"
 +++

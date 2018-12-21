@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2016-06-07T11:01:00-06:00"
+lastmod = "2016-06-27T15:18:00-06:00"
+publishDate = "2016-06-26T23:17:00-06:00"
 slug = "aria-guides-il-mio-tesoro"
 title = "Aria guides: Il mio tesoro"
 +++

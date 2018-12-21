@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-09-25T13:27:00-04:00"
+lastmod = "2015-09-26T10:36:00-04:00"
+publishDate = "2015-09-26T10:34:00-04:00"
 slug = "pianists-3-tips-for-sounding-like-an-orchestra"
 title = "Pianists: 3 tips for sounding like an orchestra"
 +++

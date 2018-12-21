@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-09-02T04:26:00-04:00"
+lastmod = "2018-01-11T10:29:00-05:00"
+publishDate = "2016-09-03T06:00:00-04:00"
 slug = "trousers-on-tv-4-animated-pants-roles"
 title = "Trousers on TV: 4 animated pants roles"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-02-07T16:40:00-05:00"
+lastmod = "2018-02-07T17:14:00-05:00"
+publishDate = "2018-02-07T16:40:00-05:00"
 slug = "androgyny-is-sexy-carmen-at-roh"
 title = "Androgyny is sexy: Carmen at ROH"
 +++

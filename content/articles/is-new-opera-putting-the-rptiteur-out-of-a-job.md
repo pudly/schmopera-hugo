@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-03-30T12:02:00+01:00"
+lastmod = "2017-04-04T17:47:00+01:00"
+publishDate = "2017-04-04T12:11:00+01:00"
 slug = "is-new-opera-putting-the-rptiteur-out-of-a-job"
 title = "Is new opera putting the répétiteur out of a job?"
 +++

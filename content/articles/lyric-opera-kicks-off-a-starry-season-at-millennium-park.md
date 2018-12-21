@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-09-14T13:28:00-04:00"
+lastmod = "2018-09-14T19:49:00-04:00"
+publishDate = "2018-09-14T17:30:00-04:00"
 slug = "lyric-opera-kicks-off-a-starry-season-at-millennium-park"
 title = "Lyric Opera kicks off a starry season at Millennium Park"
 +++

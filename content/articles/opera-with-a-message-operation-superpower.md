@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-11-28T22:36:00+00:00"
+lastmod = "2016-03-12T16:08:00+00:00"
+publishDate = "2015-11-30T14:21:00+00:00"
 slug = "opera-with-a-message-operation-superpower"
 title = "Opera with a message: Operation Superpower"
 +++

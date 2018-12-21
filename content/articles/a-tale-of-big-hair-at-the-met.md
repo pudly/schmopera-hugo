@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-01-26T16:19:00-05:00"
+lastmod = "2015-04-04T21:00:00-04:00"
+publishDate = "2015-01-26T16:19:00-05:00"
 slug = "a-tale-of-big-hair-at-the-met"
 title = "A Tale of Big Hair at the Met"
 +++

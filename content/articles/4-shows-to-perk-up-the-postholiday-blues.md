@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-12-31T16:31:00-05:00"
+lastmod = "2017-01-02T19:28:00-05:00"
+publishDate = "2017-01-02T19:14:00-05:00"
 slug = "4-shows-to-perk-up-the-postholiday-blues"
 title = "4 shows to perk up the post-holiday blues"
 +++

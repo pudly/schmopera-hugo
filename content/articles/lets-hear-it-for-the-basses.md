@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-04-13T16:53:00+01:00"
+lastmod = "2016-04-14T11:38:00+01:00"
+publishDate = "2016-04-14T11:38:00+01:00"
 slug = "lets-hear-it-for-the-basses"
 title = "Let&#039;s hear it for the basses"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-08-14T17:36:00-04:00"
+lastmod = "2017-08-14T22:07:00-04:00"
+publishDate = "2017-08-14T21:39:00-04:00"
 slug = "elizabeth-cree-the-story-begins-with-her-hanging"
 title = "Elizabeth Cree: &quot;The story begins with her hanging.&quot;"
 +++

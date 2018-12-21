@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-17T10:30:00-04:00"
+lastmod = "2017-07-26T00:09:00-04:00"
+publishDate = "2017-07-25T22:06:00-04:00"
 slug = "talking-with-singers-cassandra-warner"
 title = "Talking with singers: Cassandra Warner"
 +++

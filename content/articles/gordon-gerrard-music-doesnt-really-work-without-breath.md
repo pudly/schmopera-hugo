@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-08T13:25:00-04:00"
+lastmod = "2017-07-10T07:48:00-04:00"
+publishDate = "2017-07-10T07:48:00-04:00"
 slug = "gordon-gerrard-music-doesnt-really-work-without-breath"
 title = "Gordon Gerrard: &quot;Music doesn&#039;t really work without breath.&quot;"
 +++

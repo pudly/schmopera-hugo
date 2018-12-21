@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-04-10T22:35:00-04:00"
+lastmod = "2015-04-10T22:35:00-04:00"
+publishDate = "2015-03-13T10:35:00-04:00"
 slug = "erik-ochsner-on-conducting-star-trek-goose-bumps-and-tears-are-not-optional"
 title = "Erik Ochsner on conducting Star Trek: &quot;goose bumps and tears are NOT optional!&quot;"
 +++

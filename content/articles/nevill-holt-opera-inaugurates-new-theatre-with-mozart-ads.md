@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-06-01T21:05:00-04:00"
+lastmod = "2018-06-04T22:52:00-04:00"
+publishDate = "2018-06-04T22:52:00-04:00"
 slug = "nevill-holt-opera-inaugurates-new-theatre-with-mozart-ads"
 title = "Nevill Holt Opera inaugurates new theatre with Mozart &amp; Adès"
 +++

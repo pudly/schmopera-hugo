@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-07-26T19:57:00+01:00"
+lastmod = "2016-08-01T11:53:00+01:00"
+publishDate = "2016-08-01T11:53:00+01:00"
 slug = "great-ideas-portland-opera-la-cart"
 title = "Great ideas: Portland Opera à la Cart"
 +++

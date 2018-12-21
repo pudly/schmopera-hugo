@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-05-28T17:56:00+01:00"
+lastmod = "2016-05-29T10:28:00+01:00"
+publishDate = "2016-05-29T09:47:00+01:00"
 slug = "great-ideas-a-streamable-opera-miniseries"
 title = "Great ideas: a streamable opera miniseries"
 +++

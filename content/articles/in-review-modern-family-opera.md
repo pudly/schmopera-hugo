@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-01-24T14:01:00-05:00"
+lastmod = "2015-04-11T22:34:00-04:00"
+publishDate = "2015-01-24T14:01:00-05:00"
 slug = "in-review-modern-family-opera"
 title = "In review: Modern (Family) Opera"
 +++

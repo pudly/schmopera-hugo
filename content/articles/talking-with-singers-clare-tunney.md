@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-01-18T17:15:00-05:00"
+lastmod = "2018-01-18T21:19:00-05:00"
+publishDate = "2018-01-18T21:19:00-05:00"
 slug = "talking-with-singers-clare-tunney"
 title = "Talking with singers: Clare Tunney"
 +++

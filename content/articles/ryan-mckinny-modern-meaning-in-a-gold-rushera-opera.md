@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-11-09T15:18:00-05:00"
+lastmod = "2017-11-21T11:31:00-05:00"
+publishDate = "2017-11-20T21:10:00-05:00"
 slug = "ryan-mckinny-modern-meaning-in-a-gold-rushera-opera"
 title = "Ryan McKinny: Modern meaning in a Gold Rush-era opera"
 +++

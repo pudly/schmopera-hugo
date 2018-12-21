@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-11-28T23:50:00+00:00"
+lastmod = "2016-10-18T21:00:00+01:00"
+publishDate = "2015-12-01T13:52:00+00:00"
 slug = "talking-with-singers-nicole-cabell"
 title = "Talking with singers: Nicole Cabell"
 +++

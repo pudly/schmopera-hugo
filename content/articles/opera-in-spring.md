@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-04-10T22:05:00-04:00"
+lastmod = "2015-04-10T22:05:00-04:00"
+publishDate = "2015-03-18T10:05:00-04:00"
 slug = "opera-in-spring"
 title = "Opera in Spring"
 +++

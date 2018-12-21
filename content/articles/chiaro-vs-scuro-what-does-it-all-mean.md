@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-01-02T21:33:00-05:00"
+lastmod = "2016-01-04T11:46:00-05:00"
+publishDate = "2016-01-04T09:00:00-05:00"
 slug = "chiaro-vs-scuro-what-does-it-all-mean"
 title = "Chiaro vs. scuro: what does it all mean?"
 +++

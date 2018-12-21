@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-03-22T21:35:00+00:00"
+lastmod = "2017-03-23T11:31:00+00:00"
+publishDate = "2017-03-23T11:03:00+00:00"
 slug = "why-opera-fans-love-to-namedrop"
 title = "Why opera fans love to name-drop"
 +++

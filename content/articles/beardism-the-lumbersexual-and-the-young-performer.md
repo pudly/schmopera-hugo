@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-01-13T14:04:00-05:00"
+lastmod = "2015-04-11T23:29:00-04:00"
+publishDate = "2015-01-13T14:04:00-05:00"
 slug = "beardism-the-lumbersexual-and-the-young-performer"
 title = "Beardism, the Lumbersexual, and the Young Performer"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-24T21:33:00-04:00"
+lastmod = "2018-04-25T19:27:00-04:00"
+publishDate = "2018-04-25T19:27:00-04:00"
 slug = "candide-projecting-the-best-of-all-possible-worlds"
 title = "Candide: projecting the best of all possible worlds"
 +++

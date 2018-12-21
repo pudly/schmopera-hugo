@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-06-01T19:23:00-06:00"
+lastmod = "2017-06-13T21:27:00-06:00"
+publishDate = "2017-06-13T21:27:00-06:00"
 slug = "spotlight-on-sarah-vautour"
 title = "Spotlight on: Sarah Vautour"
 +++

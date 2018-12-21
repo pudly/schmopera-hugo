@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-08-22T09:30:00-04:00"
+lastmod = "2015-04-16T17:37:00-04:00"
+publishDate = "2014-08-22T09:30:00-04:00"
 slug = "in-review-love-in-the-age-of-autocorrect"
 title = "In Review: Love in the Age of AutoCorrect"
 +++

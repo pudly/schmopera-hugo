@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-10-04T19:11:00-06:00"
+lastmod = "2017-06-22T21:16:00-06:00"
+publishDate = "2015-10-09T07:21:00-06:00"
 slug = "aria-guides-the-counts-aria"
 title = "Aria guides: the Count&#039;s Aria"
 +++

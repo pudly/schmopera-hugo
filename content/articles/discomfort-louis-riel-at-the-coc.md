@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-04-27T14:44:00-04:00"
+lastmod = "2017-04-28T11:40:00-04:00"
+publishDate = "2017-04-28T11:20:00-04:00"
 slug = "discomfort-louis-riel-at-the-coc"
 title = "Discomfort: Louis Riel at the COC"
 +++

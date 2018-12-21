@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-02-04T11:54:00-05:00"
+lastmod = "2016-02-05T00:03:00-05:00"
+publishDate = "2016-02-05T08:03:00-05:00"
 slug = "at-the-podium-jordan-de-souza"
 title = "At the podium: Jordan de Souza"
 +++

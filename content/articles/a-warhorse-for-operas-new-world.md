@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-02-09T16:28:00-05:00"
+lastmod = "2018-02-09T17:14:00-05:00"
+publishDate = "2018-02-09T17:14:00-05:00"
 slug = "a-warhorse-for-operas-new-world"
 title = "A Warhorse For Opera&#039;s New World?"
 +++

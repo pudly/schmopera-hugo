@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-01-29T19:38:00+00:00"
+lastmod = "2017-01-30T13:22:00+00:00"
+publishDate = "2017-01-30T13:07:00+00:00"
 slug = "in-review-tim-mead-james-baillieu-in-recital"
 title = "In review: Tim Mead &amp; James Baillieu in recital"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-05-25T13:56:00+01:00"
+lastmod = "2016-02-29T19:11:00+00:00"
+publishDate = "2015-06-02T14:18:00+01:00"
 slug = "opera-for-firsttimers-thinking-outside-the-box"
 title = "Opera for first-timers &amp; thinking outside the box"
 +++

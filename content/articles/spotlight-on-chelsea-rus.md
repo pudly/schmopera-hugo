@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-09-07T09:35:00+01:00"
+lastmod = "2016-09-07T11:19:00+01:00"
+publishDate = "2016-09-07T11:16:00+01:00"
 slug = "spotlight-on-chelsea-rus"
 title = "Spotlight on: Chelsea Rus"
 +++

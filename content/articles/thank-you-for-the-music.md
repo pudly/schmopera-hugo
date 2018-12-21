@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-10-07T10:36:00+01:00"
+lastmod = "2016-10-07T10:59:00+01:00"
+publishDate = "2016-10-07T10:46:00+01:00"
 slug = "thank-you-for-the-music"
 title = "&quot;Thank you for the music...&quot;"
 +++

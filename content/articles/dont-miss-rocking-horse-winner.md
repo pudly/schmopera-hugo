@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-05-05T17:01:00+01:00"
+lastmod = "2016-05-06T14:18:00+01:00"
+publishDate = "2016-05-06T14:10:00+01:00"
 slug = "dont-miss-rocking-horse-winner"
 title = "Don&#039;t miss: Rocking Horse Winner"
 +++

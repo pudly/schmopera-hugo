@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-03-18T17:43:00+00:00"
+lastmod = "2016-03-21T10:23:00+00:00"
+publishDate = "2016-03-21T10:23:00+00:00"
 slug = "true-stories-the-critic-who-loves-opera-even-more-now"
 title = "True stories: the critic who loves opera even more now"
 +++

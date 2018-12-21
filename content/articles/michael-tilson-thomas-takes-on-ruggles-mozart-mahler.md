@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-06-12T12:26:00-04:00"
+lastmod = "2018-06-12T21:03:00-04:00"
+publishDate = "2018-06-12T20:23:00-04:00"
 slug = "michael-tilson-thomas-takes-on-ruggles-mozart-mahler"
 title = "Michael Tilson Thomas takes on Ruggles: Mozart &amp; Mahler"
 +++

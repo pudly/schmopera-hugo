@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-25T15:39:00-04:00"
+lastmod = "2017-07-28T22:26:00-04:00"
+publishDate = "2017-07-28T22:25:00-04:00"
 slug = "spotlight-on-michael-uloth"
 title = "Spotlight on: Michael Uloth"
 +++

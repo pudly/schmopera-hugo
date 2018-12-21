@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-07-07T11:20:00-06:00"
+lastmod = "2016-07-08T08:32:00-06:00"
+publishDate = "2016-07-07T21:04:00-06:00"
 slug = "elevated-opera-the-crested-butte-opera-studio"
 title = "Elevated opera: the Crested Butte Opera Studio"
 +++

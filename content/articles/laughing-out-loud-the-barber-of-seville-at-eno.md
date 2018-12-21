@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-07T13:27:00-04:00"
+lastmod = "2017-10-07T21:35:00-04:00"
+publishDate = "2017-10-07T21:35:00-04:00"
 slug = "laughing-out-loud-the-barber-of-seville-at-eno"
 title = "Laughing out loud: The Barber of Seville at ENO"
 +++

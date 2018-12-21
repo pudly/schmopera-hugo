@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-12-16T13:06:00-05:00"
+lastmod = "2015-12-16T15:29:00-05:00"
+publishDate = "2015-12-16T14:24:00-05:00"
 slug = "bach-was-all-about-that-bass"
 title = "Bach was all about that bass"
 +++

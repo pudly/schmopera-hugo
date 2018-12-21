@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-11-15T12:46:00+00:00"
+lastmod = "2016-11-15T14:16:00+00:00"
+publishDate = "2016-11-15T13:11:00+00:00"
 slug = "in-review-ayre"
 title = "In review: Ayre"
 +++

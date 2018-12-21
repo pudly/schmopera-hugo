@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-03-23T12:32:00+00:00"
+lastmod = "2016-10-18T18:11:00+01:00"
+publishDate = "2016-03-23T13:10:00+00:00"
 slug = "talking-with-singers-christian-van-horn"
 title = "Talking with singers: Christian Van Horn"
 +++

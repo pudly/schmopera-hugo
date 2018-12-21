@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-03-12T14:28:00+00:00"
+lastmod = "2017-03-21T14:31:00+00:00"
+publishDate = "2017-03-21T14:12:00+00:00"
 slug = "talking-with-singers-zachary-nelson"
 title = "Talking with singers: Zachary Nelson"
 +++

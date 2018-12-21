@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-02-02T13:21:00+00:00"
+lastmod = "2017-02-27T13:15:00+00:00"
+publishDate = "2017-02-27T12:59:00+00:00"
 slug = "summer-programs-when-its-time-to-stop-attending-them"
 title = "Summer programs, &amp; when it&#039;s time to stop attending them"
 +++

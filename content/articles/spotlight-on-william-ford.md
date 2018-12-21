@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-07-17T16:40:00-04:00"
+lastmod = "2015-07-21T13:58:00-04:00"
+publishDate = "2015-07-18T09:00:00-04:00"
 slug = "spotlight-on-william-ford"
 title = "Spotlight on: William Ford"
 +++

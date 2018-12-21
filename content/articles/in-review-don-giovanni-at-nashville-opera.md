@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-10-10T09:18:00+01:00"
+lastmod = "2016-10-11T14:09:00+01:00"
+publishDate = "2016-10-11T14:02:00+01:00"
 slug = "in-review-don-giovanni-at-nashville-opera"
 title = "In review: Don Giovanni at Nashville Opera"
 +++

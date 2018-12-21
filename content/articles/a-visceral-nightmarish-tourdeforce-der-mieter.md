@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-25T09:34:00-05:00"
+lastmod = "2017-11-25T11:45:00-05:00"
+publishDate = "2017-11-25T09:53:00-05:00"
 slug = "a-visceral-nightmarish-tourdeforce-der-mieter"
 title = "A visceral, nightmarish tour-de-force: Der Mieter"
 +++

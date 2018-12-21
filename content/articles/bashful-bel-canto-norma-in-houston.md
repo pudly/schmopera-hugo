@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-05-01T21:39:00-04:00"
+lastmod = "2018-05-01T21:47:00-04:00"
+publishDate = "2018-05-01T21:47:00-04:00"
 slug = "bashful-bel-canto-norma-in-houston"
 title = "Bashful bel canto: Norma in Houston"
 +++

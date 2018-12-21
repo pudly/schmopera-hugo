@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-10-19T20:03:00-04:00"
+lastmod = "2017-10-26T23:19:00-04:00"
+publishDate = "2017-10-26T23:19:00-04:00"
 slug = "money-manners-one-critics-observations-from-her-really-great-opera-seats"
 title = "Money &amp; manners: one critic&#039;s observations from her really great opera seats"
 +++

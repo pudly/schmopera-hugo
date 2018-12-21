@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-05-11T18:24:00-04:00"
+lastmod = "2018-05-11T21:25:00-04:00"
+publishDate = "2018-05-11T19:58:00-04:00"
 slug = "real-prisoners-voices-make-heartbeat-operas-fidelio-resonate"
 title = "Real Prisoners&#039; Voices Make Heartbeat Opera&#039;s &quot;Fidelio&quot; Resonate"
 +++

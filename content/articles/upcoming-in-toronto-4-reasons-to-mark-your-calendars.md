@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2018-05-07T13:25:00-04:00"
+lastmod = "2018-05-07T21:41:00-04:00"
+publishDate = "2018-05-07T21:27:00-04:00"
 slug = "upcoming-in-toronto-4-reasons-to-mark-your-calendars"
 title = "Upcoming in Toronto: 4 reasons to mark your calendars"
 +++

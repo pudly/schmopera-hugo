@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-04-18T16:56:00-04:00"
+lastmod = "2015-04-27T21:19:00-04:00"
+publishDate = "2014-04-18T16:56:00-04:00"
 slug = "in-review-hercules"
 title = "In review: Hercules"
 +++

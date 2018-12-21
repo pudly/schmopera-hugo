@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-06-25T09:58:00-06:00"
+lastmod = "2017-06-26T21:55:00-06:00"
+publishDate = "2017-06-26T21:22:00-06:00"
 slug = "preparing-for-performance-what-i-didnt-know-i-knew"
 title = "Preparing for performance: what I didn&#039;t know I knew"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-11-23T10:36:00-05:00"
+lastmod = "2015-11-23T12:10:00-05:00"
+publishDate = "2015-11-23T12:08:00-05:00"
 slug = "singing-in-english-3-reasons-why-no-one-can-understand-you"
 title = "Singing in English: 3 reasons why no one can understand you"
 +++

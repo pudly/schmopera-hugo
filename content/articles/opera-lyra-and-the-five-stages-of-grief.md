@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-10-15T23:17:00-04:00"
+lastmod = "2015-10-17T13:24:00-04:00"
+publishDate = "2015-10-16T08:00:00-04:00"
 slug = "opera-lyra-and-the-five-stages-of-grief"
 title = "Opera Lyra and the Five Stages of Grief"
 +++

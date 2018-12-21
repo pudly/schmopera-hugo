@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-20T09:55:00-04:00"
+lastmod = "2017-07-22T10:37:00-04:00"
+publishDate = "2017-07-22T10:37:00-04:00"
 slug = "its-official-breaking-the-waves-wins-best-new-opera"
 title = "It&#039;s official: Breaking the Waves wins Best New Opera"
 +++

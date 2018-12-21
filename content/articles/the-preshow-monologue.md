@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-04-14T15:32:00+01:00"
+lastmod = "2016-04-15T14:59:00+01:00"
+publishDate = "2016-04-15T14:59:00+01:00"
 slug = "the-preshow-monologue"
 title = "The pre-show monologue"
 +++

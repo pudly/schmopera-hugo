@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-06-21T21:05:00-04:00"
+lastmod = "2018-06-22T20:24:00-04:00"
+publishDate = "2018-06-21T22:04:00-04:00"
 slug = "dellarte-opera-nods-to-mozart-salieri-in-2018"
 title = "dell&#039;Arte Opera nods to Mozart &amp; Salieri in 2018"
 +++

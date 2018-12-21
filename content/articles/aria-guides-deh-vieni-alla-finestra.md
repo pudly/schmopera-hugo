@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-11-27T14:21:00-05:00"
+lastmod = "2017-05-12T15:56:00-04:00"
+publishDate = "2015-11-27T16:38:00-05:00"
 slug = "aria-guides-deh-vieni-alla-finestra"
 title = "Aria guides: Deh vieni alla finestra"
 +++

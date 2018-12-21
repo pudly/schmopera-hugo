@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-04-10T13:27:00+01:00"
+lastmod = "2017-04-10T14:21:00+01:00"
+publishDate = "2017-04-10T14:21:00+01:00"
 slug = "familiar-stories-a-wedding-reception-gone-wrong"
 title = "Familiar stories: A Wedding Reception (gone wrong)"
 +++

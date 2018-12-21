@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-02-03T13:19:00-05:00"
+lastmod = "2016-02-04T09:27:00-05:00"
+publishDate = "2016-02-04T09:14:00-05:00"
 slug = "dion-mazerolle-the-quick-study"
 title = "Dion Mazerolle: the quick study"
 +++

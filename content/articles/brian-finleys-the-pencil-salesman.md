@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-01-12T15:56:00+00:00"
+lastmod = "2016-05-22T23:10:00+01:00"
+publishDate = "2016-01-13T14:00:00+00:00"
 slug = "brian-finleys-the-pencil-salesman"
 title = "Brian Finley&#039;s The Pencil Salesman"
 +++

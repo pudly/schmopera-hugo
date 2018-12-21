@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-05-19T17:00:00-04:00"
+lastmod = "2017-05-22T22:28:00-04:00"
+publishDate = "2017-05-22T10:52:00-04:00"
 slug = "dont-miss-songs-of-the-soul-beams"
 title = "Don&#039;t miss: Songs of the Soul Beams"
 +++

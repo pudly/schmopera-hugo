@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-04-12T08:35:00-04:00"
+lastmod = "2015-04-23T22:38:00-04:00"
+publishDate = "2014-04-12T08:35:00-04:00"
 slug = "in-review-isabel-bayrakdarian-and-tafelmusik"
 title = "In review: Isabel Bayrakdarian and Tafelmusik"
 +++

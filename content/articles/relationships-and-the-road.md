@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-06-05T15:05:00-04:00"
+lastmod = "2015-06-10T14:12:00-04:00"
+publishDate = "2015-06-10T09:16:00-04:00"
 slug = "relationships-and-the-road"
 title = "Relationships and the road"
 +++

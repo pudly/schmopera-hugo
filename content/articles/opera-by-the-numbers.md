@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-01-10T13:41:00+00:00"
+lastmod = "2017-01-12T15:45:00+00:00"
+publishDate = "2017-01-12T10:04:00+00:00"
 slug = "opera-by-the-numbers"
 title = "Opera by the numbers"
 +++

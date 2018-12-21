@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2014-09-09T15:00:00-04:00"
+lastmod = "2015-04-27T18:00:00-04:00"
+publishDate = "2014-09-09T15:00:00-04:00"
 slug = "nicole-brooks-on-obeah-opera"
 title = "Nicole Brooks on Obeah Opera"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-09-05T14:19:00-04:00"
+lastmod = "2017-09-05T21:18:00-04:00"
+publishDate = "2017-09-05T21:18:00-04:00"
 slug = "talking-with-singers-alfred-walker"
 title = "Talking with singers: Alfred Walker"
 +++

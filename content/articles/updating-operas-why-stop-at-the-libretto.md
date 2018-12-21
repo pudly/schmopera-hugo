@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-05-15T18:30:00+01:00"
+lastmod = "2016-05-16T13:00:00+01:00"
+publishDate = "2016-05-16T11:04:00+01:00"
 slug = "updating-operas-why-stop-at-the-libretto"
 title = "Updating operas: why stop at the libretto?"
 +++

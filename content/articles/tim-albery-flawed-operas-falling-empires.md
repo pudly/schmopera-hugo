@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-09-29T19:43:00-04:00"
+lastmod = "2017-10-04T21:15:00-04:00"
+publishDate = "2017-10-04T21:15:00-04:00"
 slug = "tim-albery-flawed-operas-falling-empires"
 title = "Tim Albery: flawed operas &amp; falling empires"
 +++

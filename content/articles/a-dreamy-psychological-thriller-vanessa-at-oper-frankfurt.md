@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-16T16:56:00-04:00"
+lastmod = "2017-09-17T13:23:00-04:00"
+publishDate = "2017-09-17T12:46:00-04:00"
 slug = "a-dreamy-psychological-thriller-vanessa-at-oper-frankfurt"
 title = "A dreamy psychological thriller: Vanessa at Oper Frankfurt"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-09-16T17:00:00-04:00"
+lastmod = "2015-04-16T15:10:00-04:00"
+publishDate = "2014-09-16T17:00:00-04:00"
 slug = "the-klinghoffer-example"
 title = "The Klinghoffer Example"
 +++

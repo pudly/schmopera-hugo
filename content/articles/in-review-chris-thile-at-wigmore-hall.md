@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-03-26T14:20:00+01:00"
+lastmod = "2017-03-26T14:37:00+01:00"
+publishDate = "2017-03-26T14:25:00+01:00"
 slug = "in-review-chris-thile-at-wigmore-hall"
 title = "In review: Chris Thile at Wigmore Hall"
 +++

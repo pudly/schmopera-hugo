@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-19T20:38:00-04:00"
+lastmod = "2017-09-20T21:34:00-04:00"
+publishDate = "2017-09-20T21:34:00-04:00"
 slug = "a-warm-introduction-the-mozartists-at-wigmore-hall"
 title = "A warm introduction: The Mozartists at Wigmore Hall"
 +++

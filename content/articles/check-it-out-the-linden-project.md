@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2018-10-11T21:24:00-04:00"
+lastmod = "2018-10-13T12:29:00-04:00"
+publishDate = "2018-10-12T20:03:00-04:00"
 slug = "check-it-out-the-linden-project"
 title = "Check it out: The Linden Project"
 +++

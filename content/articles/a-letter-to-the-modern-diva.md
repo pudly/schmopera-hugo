@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-08-23T06:15:00-04:00"
+lastmod = "2017-07-27T12:28:00-04:00"
+publishDate = "2016-08-24T04:23:00-04:00"
 slug = "a-letter-to-the-modern-diva"
 title = "A Letter to the Modern Diva"
 +++

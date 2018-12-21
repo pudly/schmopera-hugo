@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-06-17T13:40:00-06:00"
+lastmod = "2017-06-17T14:08:00-06:00"
+publishDate = "2017-06-17T14:02:00-06:00"
 slug = "in-review-miss-hope-springs-at-wigmore-hall"
 title = "In review: Miss Hope Springs at Wigmore Hall"
 +++

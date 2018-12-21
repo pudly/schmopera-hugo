@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-12-22T16:14:00-05:00"
+lastmod = "2016-12-29T13:01:00-05:00"
+publishDate = "2016-12-29T11:46:00-05:00"
 slug = "bronx-opera-50-years-counting"
 title = "Bronx Opera: 50 years &amp; counting"
 +++

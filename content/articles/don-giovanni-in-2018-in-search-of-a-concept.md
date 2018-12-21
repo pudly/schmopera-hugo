@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2018-07-24T10:33:00-04:00"
+lastmod = "2018-07-26T20:29:00-04:00"
+publishDate = "2018-07-26T20:29:00-04:00"
 slug = "don-giovanni-in-2018-in-search-of-a-concept"
 title = "Don Giovanni in 2018: in search of a &quot;concept&quot;"
 +++

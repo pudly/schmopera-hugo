@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-24T09:09:00-04:00"
+lastmod = "2017-09-24T10:28:00-04:00"
+publishDate = "2017-09-24T10:22:00-04:00"
 slug = "memorable-nights-the-tsos-tribute-glenn-gould"
 title = "Memorable nights: the TSO&#039;s tribute Glenn Gould"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-10-28T14:45:00+01:00"
+lastmod = "2016-10-28T17:21:00+01:00"
+publishDate = "2016-10-28T14:52:00+01:00"
 slug = "why-our-artistic-roots-matter"
 title = "Why our artistic roots matter"
 +++

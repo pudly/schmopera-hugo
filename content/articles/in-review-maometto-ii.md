@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-05-04T17:33:00+01:00"
+lastmod = "2016-05-04T18:00:00+01:00"
+publishDate = "2016-05-04T18:00:00+01:00"
 slug = "in-review-maometto-ii"
 title = "In review: Maometto II"
 +++

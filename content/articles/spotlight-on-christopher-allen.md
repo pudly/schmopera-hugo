@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-02-05T13:27:00-05:00"
+lastmod = "2016-02-17T09:49:00-05:00"
+publishDate = "2016-02-09T09:00:00-05:00"
 slug = "spotlight-on-christopher-allen"
 title = "Spotlight on: Christopher Allen"
 +++

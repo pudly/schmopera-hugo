@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-09-13T23:43:00+01:00"
+lastmod = "2016-09-14T10:34:00+01:00"
+publishDate = "2016-09-14T10:15:00+01:00"
 slug = "in-review-the-barber-of-seville-at-roh"
 title = "In review: The Barber of Seville at ROH"
 +++

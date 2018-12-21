@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-04-18T16:55:00-04:00"
+lastmod = "2018-04-30T21:41:00-04:00"
+publishDate = "2018-04-30T21:41:00-04:00"
 slug = "the-voice-teacher-series-jennifer-casey-cabot"
 title = "The voice teacher series: Jennifer Casey Cabot"
 +++

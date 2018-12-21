@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-07-28T11:43:00-04:00"
+lastmod = "2015-07-29T08:53:00-04:00"
+publishDate = "2015-07-29T08:11:00-04:00"
 slug = "talking-with-directors-operas-marvel"
 title = "Talking with directors: opera&#039;s Marvel"
 +++

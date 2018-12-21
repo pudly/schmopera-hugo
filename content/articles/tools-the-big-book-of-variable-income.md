@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-11-06T13:56:00-05:00"
+lastmod = "2015-11-08T10:27:00-05:00"
+publishDate = "2015-11-08T09:54:00-05:00"
 slug = "tools-the-big-book-of-variable-income"
 title = "Tools: The Big Book of Variable Income"
 +++

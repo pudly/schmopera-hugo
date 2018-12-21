@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-03-26T21:38:00-04:00"
+lastmod = "2018-03-27T09:29:00-04:00"
+publishDate = "2018-03-26T21:38:00-04:00"
 slug = "just-plain-great-pbos-le-nozze-di-figaro"
 title = "Just plain great: PBO&#039;s Le nozze di Figaro"
 +++

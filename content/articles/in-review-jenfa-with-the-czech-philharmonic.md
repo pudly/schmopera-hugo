@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-04-19T10:01:00+01:00"
+lastmod = "2016-04-19T12:03:00+01:00"
+publishDate = "2016-04-19T11:10:00+01:00"
 slug = "in-review-jenfa-with-the-czech-philharmonic"
 title = "In review: Jenůfa with the Czech Philharmonic"
 +++

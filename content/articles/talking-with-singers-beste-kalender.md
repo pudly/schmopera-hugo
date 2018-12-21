@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-01-06T11:24:00-05:00"
+lastmod = "2018-01-07T20:37:00-05:00"
+publishDate = "2018-01-07T20:13:00-05:00"
 slug = "talking-with-singers-beste-kalender"
 title = "Talking with singers: Beste Kalender"
 +++

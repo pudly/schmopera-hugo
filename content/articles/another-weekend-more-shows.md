@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-04-10T08:00:00-04:00"
+lastmod = "2015-04-23T22:40:00-04:00"
+publishDate = "2014-04-10T08:00:00-04:00"
 slug = "another-weekend-more-shows"
 title = "Another weekend, more shows"
 +++

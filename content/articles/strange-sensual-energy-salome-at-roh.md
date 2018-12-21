@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-01-10T10:25:00-05:00"
+lastmod = "2018-01-10T20:26:00-05:00"
+publishDate = "2018-01-10T18:13:00-05:00"
 slug = "strange-sensual-energy-salome-at-roh"
 title = "Strange sensual energy: Salome at ROH"
 +++

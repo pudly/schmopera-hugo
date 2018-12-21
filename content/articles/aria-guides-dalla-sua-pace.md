@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-12-13T20:49:00-05:00"
+lastmod = "2015-12-15T10:03:00-05:00"
+publishDate = "2015-12-15T10:03:00-05:00"
 slug = "aria-guides-dalla-sua-pace"
 title = "Aria guides: &quot;Dalla sua pace&quot;"
 +++

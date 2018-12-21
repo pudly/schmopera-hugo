@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-04-10T23:53:00-04:00"
+lastmod = "2015-04-10T23:53:00-04:00"
+publishDate = "2015-02-23T08:53:00-05:00"
 slug = "bad-editions-and-the-limits-of-the-notes"
 title = "Bad Editions and the Limits of the Notes"
 +++

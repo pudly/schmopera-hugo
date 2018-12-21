@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-10-26T22:28:00-04:00"
+lastmod = "2015-10-27T15:29:00-04:00"
+publishDate = "2015-10-27T14:25:00-04:00"
 slug = "hear-the-premiere-of-abraham-support-the-syrian-refugee-program"
 title = "Hear the premiere of Abraham, support the Syrian Refugee Program"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-05-29T14:08:00-04:00"
+lastmod = "2015-05-30T20:03:00-04:00"
+publishDate = "2015-05-30T12:08:00-04:00"
 slug = "3-things-to-learn-from-joni"
 title = "3 things to learn from Joni"
 +++

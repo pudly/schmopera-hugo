@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-11-19T13:47:00-05:00"
+lastmod = "2015-11-20T11:10:00-05:00"
+publishDate = "2015-11-20T08:52:00-05:00"
 slug = "song-guides-die-nacht"
 title = "Song Guides: &quot;Die Nacht&quot;"
 +++

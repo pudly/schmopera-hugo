@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-11T09:39:00-04:00"
+lastmod = "2018-04-12T22:42:00-04:00"
+publishDate = "2018-04-12T22:29:00-04:00"
 slug = "susannah-is-topical-relevance-like-it-or-not"
 title = "Susannah is topical relevance, like it or not"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-07-03T20:03:00-06:00"
+lastmod = "2016-07-06T16:06:00-06:00"
+publishDate = "2016-07-03T20:15:00-06:00"
 slug = "spotlight-on-vanessa-oudereimerink"
 title = "Spotlight on: Vanessa Oude-Reimerink"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-01-27T11:57:00+00:00"
+lastmod = "2017-01-29T11:58:00+00:00"
+publishDate = "2017-01-29T10:56:00+00:00"
 slug = "apian-opera-dont-miss-the-swarm"
 title = "Apian opera: don&#039;t miss The Swarm"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-04-01T10:23:00+01:00"
+lastmod = "2016-04-01T12:33:00+01:00"
+publishDate = "2016-04-01T12:25:00+01:00"
 slug = "lost-history-operas-most-famous-premieres"
 title = "Lost history: opera&#039;s most famous premieres"
 +++

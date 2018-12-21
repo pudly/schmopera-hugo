@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-17T18:48:00-04:00"
+lastmod = "2017-10-19T20:33:00-04:00"
+publishDate = "2017-10-19T20:13:00-04:00"
 slug = "for-kids-grownups-alike-the-scorpions-sting"
 title = "For kids &amp; grown-ups alike: The Scorpion&#039;s Sting"
 +++

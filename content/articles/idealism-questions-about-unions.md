@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-07-22T13:08:00-04:00"
+lastmod = "2015-07-24T08:11:00-04:00"
+publishDate = "2015-07-24T08:00:00-04:00"
 slug = "idealism-questions-about-unions"
 title = "Idealism &amp; questions about unions"
 +++

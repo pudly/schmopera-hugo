@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-09-23T09:28:00+01:00"
+lastmod = "2016-09-23T12:59:00+01:00"
+publishDate = "2016-09-23T12:55:00+01:00"
 slug = "in-review-cos-fan-tutte-at-roh"
 title = "In review: Così fan tutte at ROH"
 +++

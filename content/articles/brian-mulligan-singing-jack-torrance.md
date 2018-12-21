@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-04-27T21:19:00+01:00"
+lastmod = "2016-04-29T16:05:00+01:00"
+publishDate = "2016-04-29T15:49:00+01:00"
 slug = "brian-mulligan-singing-jack-torrance"
 title = "Brian Mulligan: singing Jack Torrance"
 +++

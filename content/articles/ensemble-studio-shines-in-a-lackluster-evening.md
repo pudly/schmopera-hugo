@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2018-05-26T18:29:00-04:00"
+lastmod = "2018-05-27T21:49:00-04:00"
+publishDate = "2018-05-27T11:23:00-04:00"
 slug = "ensemble-studio-shines-in-a-lackluster-evening"
 title = "Ensemble Studio shines in a lackluster Evening"
 +++

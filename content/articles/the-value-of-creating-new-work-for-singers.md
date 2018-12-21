@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-07-21T14:57:00-04:00"
+lastmod = "2017-10-27T11:46:00-04:00"
+publishDate = "2017-07-28T09:14:00-04:00"
 slug = "the-value-of-creating-new-work-for-singers"
 title = "The value of creating new work for singers"
 +++

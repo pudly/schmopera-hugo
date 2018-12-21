@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-04-10T21:10:00-04:00"
+lastmod = "2015-04-10T21:10:00-04:00"
+publishDate = "2015-03-28T09:10:00-04:00"
 slug = "less-really-is-more"
 title = "Less Really Is More"
 +++

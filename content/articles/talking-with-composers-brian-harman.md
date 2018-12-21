@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-07T16:54:00-04:00"
+lastmod = "2017-07-11T12:10:00-04:00"
+publishDate = "2017-07-11T12:10:00-04:00"
 slug = "talking-with-composers-brian-harman"
 title = "Talking with composers: Brian Harman"
 +++

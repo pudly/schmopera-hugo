@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-09-28T14:16:00+01:00"
+lastmod = "2016-09-29T11:00:00+01:00"
+publishDate = "2016-09-29T11:00:00+01:00"
 slug = "nick-fletcher-reps-at-the-roh"
 title = "Nick Fletcher: reps at the ROH"
 +++

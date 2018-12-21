@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2017-08-25T15:43:00-04:00"
+lastmod = "2017-08-27T11:45:00-04:00"
+publishDate = "2017-08-26T21:39:00-04:00"
 slug = "sawney-bean-his-cannibal-clan-would-make-a-great-opera"
 title = "Sawney Bean &amp; his cannibal clan would make a great opera"
 +++

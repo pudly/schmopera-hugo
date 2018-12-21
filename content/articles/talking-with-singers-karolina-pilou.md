@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-12-20T15:53:00-05:00"
+lastmod = "2016-12-21T17:14:00-05:00"
+publishDate = "2016-12-21T15:36:00-05:00"
 slug = "talking-with-singers-karolina-pilou"
 title = "Talking with singers: Karolina Pilou"
 +++

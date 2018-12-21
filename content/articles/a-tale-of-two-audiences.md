@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2016-01-02T21:32:00-05:00"
+lastmod = "2016-01-08T17:05:00-05:00"
+publishDate = "2016-01-06T12:19:00-05:00"
 slug = "a-tale-of-two-audiences"
 title = "A tale of two audiences"
 +++

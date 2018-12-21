@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-11-15T10:00:00+00:00"
+lastmod = "2016-11-15T11:31:00+00:00"
+publishDate = "2016-11-15T11:26:00+00:00"
 slug = "in-review-lulu-at-eno"
 title = "In review: Lulu at ENO"
 +++

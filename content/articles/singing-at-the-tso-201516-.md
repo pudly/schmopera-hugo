@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-02-02T16:16:00-05:00"
+lastmod = "2015-04-11T21:53:00-04:00"
+publishDate = "2015-02-02T16:16:00-05:00"
 slug = "singing-at-the-tso-201516-"
 title = "Singing at the TSO, 2015/16 "
 +++

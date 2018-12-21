@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-05-30T14:03:00-04:00"
+lastmod = "2017-05-31T12:49:00-04:00"
+publishDate = "2017-05-31T12:34:00-04:00"
 slug = "doras2017-yes-and"
 title = "#Doras2017: &quot;yes, and...&quot;"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2017-04-02T13:13:00+01:00"
+lastmod = "2017-04-11T11:49:00+01:00"
+publishDate = "2017-04-11T11:21:00+01:00"
 slug = "opera-shorthand-part-ii-proben-fcher"
 title = "Opera shorthand, part II: Proben &amp; Fächer"
 +++

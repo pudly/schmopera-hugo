@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-11-06T09:42:00-05:00"
+lastmod = "2015-11-06T12:17:00-05:00"
+publishDate = "2015-11-06T10:43:00-05:00"
 slug = "in-review-the-telephone-the-medium"
 title = "In review: The Telephone &amp; The Medium"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-26T17:36:00-04:00"
+lastmod = "2017-09-28T21:49:00-04:00"
+publishDate = "2017-09-28T21:49:00-04:00"
 slug = "whats-the-deal-with-canadian-music"
 title = "What&#039;s the deal with Canadian music?"
 +++

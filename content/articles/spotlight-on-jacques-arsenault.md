@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-08-25T14:27:00-04:00"
+lastmod = "2017-08-28T23:54:00-04:00"
+publishDate = "2017-08-28T22:02:00-04:00"
 slug = "spotlight-on-jacques-arsenault"
 title = "Spotlight on: Jacques Arsenault"
 +++

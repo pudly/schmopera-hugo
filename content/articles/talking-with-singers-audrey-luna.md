@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-09-16T15:01:00+01:00"
+lastmod = "2016-09-19T19:12:00+01:00"
+publishDate = "2016-09-19T09:22:00+01:00"
 slug = "talking-with-singers-audrey-luna"
 title = "Talking with singers: Audrey Luna"
 +++

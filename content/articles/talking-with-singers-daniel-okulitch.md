@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-12-08T18:50:00+00:00"
+lastmod = "2016-12-09T18:30:00+00:00"
+publishDate = "2016-12-09T18:30:00+00:00"
 slug = "talking-with-singers-daniel-okulitch"
 title = "Talking with singers: Daniel Okulitch"
 +++

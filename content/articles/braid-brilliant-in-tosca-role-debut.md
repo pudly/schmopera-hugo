@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-21T20:52:00-04:00"
+lastmod = "2018-04-24T10:35:00-04:00"
+publishDate = "2018-04-22T10:16:00-04:00"
 slug = "braid-brilliant-in-tosca-role-debut"
 title = "Braid &quot;brilliant&quot; in Tosca role debut"
 +++

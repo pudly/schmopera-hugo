@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-07-08T20:33:00-04:00"
+lastmod = "2018-07-15T13:17:00-04:00"
+publishDate = "2018-07-13T20:05:00-04:00"
 slug = "canada-sounds-like-mosaque-project"
 title = "Canada sounds like: Mosaïque Project"
 +++

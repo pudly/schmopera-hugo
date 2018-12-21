@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-06-21T21:25:00-04:00"
+lastmod = "2018-06-21T21:36:00-04:00"
+publishDate = "2018-06-21T21:36:00-04:00"
 slug = "dont-miss-the-rcms-unsettling-doublebill"
 title = "Don&#039;t miss: the RCM&#039;s unsettling double-bill"
 +++

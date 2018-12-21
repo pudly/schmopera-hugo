@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-09-21T20:29:00-04:00"
+lastmod = "2015-09-22T19:01:00-04:00"
+publishDate = "2015-09-23T08:00:00-04:00"
 slug = "via-wolf-trap-opera-audition-season-2015-the-conversation"
 title = "via Wolf Trap Opera, Audition Season 2015: the conversation"
 +++

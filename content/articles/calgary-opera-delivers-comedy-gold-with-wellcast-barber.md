@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-19T11:38:00-05:00"
+lastmod = "2017-11-20T14:03:00-05:00"
+publishDate = "2017-11-20T10:46:00-05:00"
 slug = "calgary-opera-delivers-comedy-gold-with-wellcast-barber"
 title = "Calgary Opera delivers comedy gold with well-cast Barber"
 +++

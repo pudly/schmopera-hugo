@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-04-11T20:32:00-04:00"
+lastmod = "2015-04-11T20:32:00-04:00"
+publishDate = "2015-02-06T09:32:00-05:00"
 slug = "remember-me-but-ah-forget-my-fate"
 title = "&quot;Remember me, but ah, forget my fate&quot;"
 +++

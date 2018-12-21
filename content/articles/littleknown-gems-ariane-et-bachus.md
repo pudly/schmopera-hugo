@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-09-21T12:01:00-04:00"
+lastmod = "2017-09-23T11:48:00-04:00"
+publishDate = "2017-09-23T11:48:00-04:00"
 slug = "littleknown-gems-ariane-et-bachus"
 title = "&quot;Little-known gems&quot;: Ariane et Bachus"
 +++

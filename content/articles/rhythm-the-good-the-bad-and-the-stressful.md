@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-10-10T10:42:00+01:00"
+lastmod = "2016-10-10T12:16:00+01:00"
+publishDate = "2016-10-10T11:15:00+01:00"
 slug = "rhythm-the-good-the-bad-and-the-stressful"
 title = "Rhythm: the good, the bad, and the stressful"
 +++

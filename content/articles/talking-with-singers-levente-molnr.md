@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-10-16T20:47:00-04:00"
+lastmod = "2018-10-17T12:28:00-04:00"
+publishDate = "2018-10-17T11:29:00-04:00"
 slug = "talking-with-singers-levente-molnr"
 title = "Talking with singers: Levente Molnár"
 +++

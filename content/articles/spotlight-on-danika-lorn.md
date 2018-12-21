@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-22T17:05:00-04:00"
+lastmod = "2017-07-23T22:21:00-04:00"
+publishDate = "2017-07-23T22:21:00-04:00"
 slug = "spotlight-on-danika-lorn"
 title = "Spotlight on: Danika Lorèn"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-04-22T18:22:00-04:00"
+lastmod = "2015-04-25T15:12:00-04:00"
+publishDate = "2015-04-23T09:00:00-04:00"
 slug = "friends-at-the-eno"
 title = "Friends at the ENO"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2017-02-01T13:17:00+00:00"
+lastmod = "2017-02-06T09:55:00+00:00"
+publishDate = "2017-02-06T09:06:00+00:00"
 slug = "a-faq-checklist-for-opera-newbies"
 title = "A FAQ checklist for opera newbies"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2016-11-14T13:36:00+00:00"
+lastmod = "2016-11-14T15:36:00+00:00"
+publishDate = "2016-11-14T15:36:00+00:00"
 slug = "being-a-helpful-pianist-a-note-on-starting-notes"
 title = "Being a helpful pianist: a note on starting notes"
 +++

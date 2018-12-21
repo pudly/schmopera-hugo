@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-05-15T12:52:00-04:00"
+lastmod = "2015-05-20T13:44:00-04:00"
+publishDate = "2015-05-20T13:30:00-04:00"
 slug = "opera-on-letterman"
 title = "Opera on Letterman"
 +++

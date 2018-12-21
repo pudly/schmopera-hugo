@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-06-01T22:13:00-04:00"
+lastmod = "2018-07-02T18:48:00-04:00"
+publishDate = "2018-06-01T22:13:00-04:00"
 slug = "distant-emotional-brokeback-mountain-a-paradoxical-success"
 title = "Distant, Emotional Brokeback Mountain A Paradoxical Success"
 +++

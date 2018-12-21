@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-01-25T22:22:00-05:00"
+lastmod = "2015-04-28T22:19:00-04:00"
+publishDate = "2014-01-25T22:22:00-05:00"
 slug = "go-to-this-tapestry-songbook"
 title = "Go to this: Tapestry Songbook"
 +++

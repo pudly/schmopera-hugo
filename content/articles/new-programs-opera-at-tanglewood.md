@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-06-28T02:21:00+01:00"
+lastmod = "2016-06-30T21:43:00+01:00"
+publishDate = "2016-06-29T15:06:00+01:00"
 slug = "new-programs-opera-at-tanglewood"
 title = "New programs: Opera at Tanglewood"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-04-22T08:50:00-04:00"
+lastmod = "2017-04-22T09:45:00-04:00"
+publishDate = "2017-04-22T09:01:00-04:00"
 slug = "the-italian-girl-in-algiers-rossinis-feminist-celebration"
 title = "The Italian Girl in Algiers: Rossini&#039;s &quot;feminist celebration&quot;"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-04-27T13:11:00-04:00"
+lastmod = "2015-04-28T10:39:00-04:00"
+publishDate = "2015-04-28T10:29:00-04:00"
 slug = "chatting-with-the-bicycle-opera-project"
 title = "Chatting with the Bicycle Opera Project"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2013-12-18T18:22:00-05:00"
+lastmod = "2018-01-03T09:58:00-05:00"
+publishDate = "2013-12-18T18:22:00-05:00"
 slug = "another-opera-apologist-part-1"
 title = "Another Opera Apologist (Part 1)"
 +++

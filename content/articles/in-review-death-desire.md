@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-06-03T11:14:00-04:00"
+lastmod = "2015-06-03T16:42:00-04:00"
+publishDate = "2015-06-03T11:23:00-04:00"
 slug = "in-review-death-desire"
 title = "In review: Death &amp; Desire"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-06-25T10:07:00-04:00"
+lastmod = "2018-06-26T16:45:00-04:00"
+publishDate = "2018-06-26T16:45:00-04:00"
 slug = "a-nextlevel-fledermaus-in-des-moines"
 title = "A next-level Fledermaus in Des Moines"
 +++

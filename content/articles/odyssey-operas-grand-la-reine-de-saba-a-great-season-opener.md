@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-09-23T13:31:00-04:00"
+lastmod = "2018-09-23T15:48:00-04:00"
+publishDate = "2018-09-23T15:48:00-04:00"
 slug = "odyssey-operas-grand-la-reine-de-saba-a-great-season-opener"
 title = "Odyssey Opera&#039;s grand La reine de Saba a great season opener"
 +++

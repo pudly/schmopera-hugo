@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-04-15T20:25:00-04:00"
+lastmod = "2018-04-16T11:25:00-04:00"
+publishDate = "2018-04-15T21:00:00-04:00"
 slug = "talking-with-singers-nelson-ebo"
 title = "Talking with singers: Nelson Ebo"
 +++

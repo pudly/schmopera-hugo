@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-10-24T11:57:00-04:00"
+lastmod = "2017-10-24T22:28:00-04:00"
+publishDate = "2017-10-24T22:07:00-04:00"
 slug = "ghost-stories-true-stories-the-lighthouse"
 title = "Ghost stories &amp; true stories: The Lighthouse"
 +++

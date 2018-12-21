@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2018-03-23T09:48:00-04:00"
+lastmod = "2018-03-23T09:48:00-04:00"
+publishDate = "2018-03-23T09:48:00-04:00"
 slug = "calgary-opera-launches-201819-season"
 title = "Calgary Opera launches 2018-19 season"
 +++

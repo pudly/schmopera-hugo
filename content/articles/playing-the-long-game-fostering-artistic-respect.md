@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-11-14T14:46:00-05:00"
+lastmod = "2015-11-15T11:18:00-05:00"
+publishDate = "2015-11-15T11:18:00-05:00"
 slug = "playing-the-long-game-fostering-artistic-respect"
 title = "Playing the long game: fostering artistic respect"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-05-31T11:30:00+01:00"
+lastmod = "2017-04-15T19:09:00+01:00"
+publishDate = "2016-06-01T11:25:00+01:00"
 slug = "childfree-opera-singers-happiness"
 title = "Child-free opera singers &amp; happiness"
 +++

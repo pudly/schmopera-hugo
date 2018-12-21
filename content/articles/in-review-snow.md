@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-02-23T11:01:00+00:00"
+lastmod = "2017-02-23T13:47:00+00:00"
+publishDate = "2017-02-23T13:47:00+00:00"
 slug = "in-review-snow"
 title = "In review: Snow"
 +++

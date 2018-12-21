@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-07-24T02:47:00+02:00"
+lastmod = "2015-08-23T10:35:00+02:00"
+publishDate = "2015-08-23T10:35:00+02:00"
 slug = "spotlight-on-maeve-palmer"
 title = "Spotlight on: Maeve Palmer"
 +++

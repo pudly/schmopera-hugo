@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-26T13:40:00-04:00"
+lastmod = "2017-07-27T08:38:00-04:00"
+publishDate = "2017-07-26T22:21:00-04:00"
 slug = "spotlight-on-eric-barry"
 title = "Spotlight on: Eric Barry"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-02-21T12:05:00-05:00"
+lastmod = "2018-03-04T16:44:00-05:00"
+publishDate = "2018-02-21T12:05:00-05:00"
 slug = "chauvinism-cynicism-great-singing-cos-fan-tutte"
 title = "Chauvinism, cynicism, &amp; great singing: Così fan tutte"
 +++

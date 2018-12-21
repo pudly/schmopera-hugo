@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-08-29T19:00:00-04:00"
+lastmod = "2017-08-30T11:50:00-04:00"
+publishDate = "2017-08-30T10:34:00-04:00"
 slug = "reason-947-we-dont-envy-singers-singing-on-camera"
 title = "Reason #947 we don&#039;t envy singers: singing on camera"
 +++

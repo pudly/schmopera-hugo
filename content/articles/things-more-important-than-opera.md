@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-11-14T16:14:00-05:00"
+lastmod = "2015-11-20T11:10:00-05:00"
+publishDate = "2015-11-16T09:12:00-05:00"
 slug = "things-more-important-than-opera"
 title = "Things more important than opera"
 +++

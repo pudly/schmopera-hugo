@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-01-09T18:23:00-05:00"
+lastmod = "2018-01-09T21:08:00-05:00"
+publishDate = "2018-01-09T18:35:00-05:00"
 slug = "satire-meets-serious-singing-tots-candide"
 title = "Satire meets serious singing: TOT&#039;s Candide"
 +++

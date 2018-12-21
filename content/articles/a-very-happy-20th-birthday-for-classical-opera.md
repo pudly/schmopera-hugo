@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-11T22:32:00-04:00"
+lastmod = "2017-10-12T09:50:00-04:00"
+publishDate = "2017-10-12T09:50:00-04:00"
 slug = "a-very-happy-20th-birthday-for-classical-opera"
 title = "A very happy 20th birthday for Classical Opera"
 +++

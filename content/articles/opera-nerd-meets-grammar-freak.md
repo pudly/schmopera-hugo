@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-09-24T17:55:00-04:00"
+lastmod = "2015-09-25T13:55:00-04:00"
+publishDate = "2015-09-25T10:07:00-04:00"
 slug = "opera-nerd-meets-grammar-freak"
 title = "Opera nerd meets grammar freak"
 +++

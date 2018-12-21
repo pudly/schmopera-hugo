@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-07-28T19:55:00+02:00"
+lastmod = "2015-08-13T00:26:00+02:00"
+publishDate = "2015-08-12T14:47:00+02:00"
 slug = "check-out-the-friends-of-gravity"
 title = "Check out: The Friends of Gravity"
 +++

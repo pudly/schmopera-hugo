@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-03-28T16:38:00+01:00"
+lastmod = "2017-03-30T23:13:00+01:00"
+publishDate = "2017-03-30T09:51:00+01:00"
 slug = "daniel-belcher-returns-to-the-long-walk"
 title = "Daniel Belcher returns to The Long Walk"
 +++

@@ -1,4 +1,7 @@
 +++
+date = "2015-10-19T12:54:00-04:00"
+lastmod = "2015-10-25T10:31:00-04:00"
+publishDate = "2015-10-25T10:31:00-04:00"
 slug = "is-technology-making-it-harder-to-tell-stories"
 title = "Is technology making it harder to tell stories?"
 +++

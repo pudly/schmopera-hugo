@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-10-14T18:28:00-04:00"
+lastmod = "2015-10-15T08:41:00-04:00"
+publishDate = "2015-10-15T08:37:00-04:00"
 slug = "opera-lyras-immediate-shutdown"
 title = "Opera Lyra&#039;s &quot;immediate shutdown&quot;"
 +++

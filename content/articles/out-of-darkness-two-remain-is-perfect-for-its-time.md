@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-09T12:55:00-04:00"
+lastmod = "2018-04-10T12:33:00-04:00"
+publishDate = "2018-04-09T14:18:00-04:00"
 slug = "out-of-darkness-two-remain-is-perfect-for-its-time"
 title = "Out of Darkness: Two Remain is perfect for its time"
 +++

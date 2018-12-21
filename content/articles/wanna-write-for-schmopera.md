@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-02-27T14:18:00-05:00"
+lastmod = "2018-07-24T12:15:00-04:00"
+publishDate = "2014-02-27T14:18:00-05:00"
 slug = "wanna-write-for-schmopera"
 title = "Wanna Write for Schmopera?"
 +++

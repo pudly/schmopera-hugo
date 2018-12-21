@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-03-03T12:26:00-05:00"
+lastmod = "2015-04-27T21:14:00-04:00"
+publishDate = "2014-03-03T12:26:00-05:00"
 slug = "three-big-things-we-can-all-learn-from-singers"
 title = "Three Big Things We Can All Learn From Singers"
 +++

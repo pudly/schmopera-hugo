@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-05-07T11:05:00-04:00"
+lastmod = "2018-05-07T20:54:00-04:00"
+publishDate = "2018-05-07T11:52:00-04:00"
 slug = "grappling-with-daily-life-wnos-candide"
 title = "Grappling with daily life: WNO&#039;s Candide"
 +++

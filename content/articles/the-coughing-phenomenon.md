@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-08-31T13:04:00+01:00"
+lastmod = "2016-09-04T10:51:00+01:00"
+publishDate = "2016-09-04T10:51:00+01:00"
 slug = "the-coughing-phenomenon"
 title = "The coughing phenomenon"
 +++

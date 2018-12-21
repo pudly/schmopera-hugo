@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-01-17T10:59:00+00:00"
+lastmod = "2017-01-17T13:36:00+00:00"
+publishDate = "2017-01-17T12:22:00+00:00"
 slug = "how-donald-trump-gave-me-writers-block"
 title = "How Donald Trump gave me writer&#039;s block"
 +++

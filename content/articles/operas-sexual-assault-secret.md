@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-10-12T13:53:00-04:00"
+lastmod = "2017-10-13T18:41:00-04:00"
+publishDate = "2017-10-12T21:15:00-04:00"
 slug = "operas-sexual-assault-secret"
 title = "Opera&#039;s sexual assault secret"
 +++

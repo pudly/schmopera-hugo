@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-04-08T08:00:00-04:00"
+lastmod = "2015-04-27T18:23:00-04:00"
+publishDate = "2014-04-08T08:00:00-04:00"
 slug = "in-review-essential-operas-triple-bill"
 title = "In Review: Essential Opera&#039;s Triple Bill"
 +++

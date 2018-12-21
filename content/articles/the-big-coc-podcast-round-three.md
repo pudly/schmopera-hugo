@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-08-28T13:25:00-04:00"
+lastmod = "2015-04-16T17:35:00-04:00"
+publishDate = "2014-08-28T13:25:00-04:00"
 slug = "the-big-coc-podcast-round-three"
 title = "The Big COC Podcast, round three"
 +++

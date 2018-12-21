@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-10-22T12:32:00-04:00"
+lastmod = "2018-10-22T19:40:00-04:00"
+publishDate = "2018-10-22T19:40:00-04:00"
 slug = "strong-ensemble-lifts-edmonton-opera-production-of-la-traviata"
 title = "Strong ensemble lifts Edmonton Opera production of La traviata"
 +++

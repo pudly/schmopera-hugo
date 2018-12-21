@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-04-03T16:41:00+01:00"
+lastmod = "2017-04-04T17:46:00+01:00"
+publishDate = "2017-04-04T17:27:00+01:00"
 slug = "talking-with-singers-riccardo-massi"
 title = "Talking with singers: Riccardo Massi"
 +++

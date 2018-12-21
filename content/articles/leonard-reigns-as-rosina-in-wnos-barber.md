@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-30T17:46:00-04:00"
+lastmod = "2018-04-30T21:41:00-04:00"
+publishDate = "2018-04-30T21:41:00-04:00"
 slug = "leonard-reigns-as-rosina-in-wnos-barber"
 title = "Leonard reigns as Rosina in WNO&#039;s Barber"
 +++

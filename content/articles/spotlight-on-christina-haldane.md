@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-05-29T07:17:00-06:00"
+lastmod = "2017-06-06T21:41:00-06:00"
+publishDate = "2017-06-06T21:41:00-06:00"
 slug = "spotlight-on-christina-haldane"
 title = "Spotlight on: Christina Haldane"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-06-19T14:20:00-04:00"
+lastmod = "2015-06-19T15:50:00-04:00"
+publishDate = "2015-06-19T15:27:00-04:00"
 slug = "turning-opera-insideout-upsidedown-at-summer-opera-camp"
 title = "Turning opera &quot;inside-out, upside-down&quot; at Summer Opera Camp"
 +++

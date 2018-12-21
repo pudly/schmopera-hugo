@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-07-22T16:35:00-04:00"
+lastmod = "2015-09-13T20:17:00-04:00"
+publishDate = "2015-09-01T12:44:00-04:00"
 slug = "check-out-urbanvessel"
 title = "Check out: Urbanvessel"
 +++

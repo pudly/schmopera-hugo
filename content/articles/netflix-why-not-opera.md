@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-09-30T11:39:00-04:00"
+lastmod = "2015-04-14T15:01:00-04:00"
+publishDate = "2014-09-30T11:39:00-04:00"
 slug = "netflix-why-not-opera"
 title = "Netflix: Why Not Opera?"
 +++

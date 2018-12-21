@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-05-23T11:43:00-04:00"
+lastmod = "2018-05-23T19:56:00-04:00"
+publishDate = "2018-05-23T11:43:00-04:00"
 slug = "i-opera-run-by-the-cool-kids"
 title = "&#039;i&#039;: opera run by the cool kids"
 +++

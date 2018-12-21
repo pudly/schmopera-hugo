@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-04-26T12:33:00+01:00"
+lastmod = "2016-04-26T14:48:00+01:00"
+publishDate = "2016-04-26T14:21:00+01:00"
 slug = "the-tfco-a-young-peoples-opera-blitz"
 title = "The TFCO: a young people&#039;s opera blitz"
 +++

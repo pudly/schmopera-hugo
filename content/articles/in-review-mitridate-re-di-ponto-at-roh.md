@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-07-02T21:20:00-06:00"
+lastmod = "2017-07-02T22:32:00-06:00"
+publishDate = "2017-07-02T22:19:00-06:00"
 slug = "in-review-mitridate-re-di-ponto-at-roh"
 title = "In review: Mitridate, re di Ponto at ROH"
 +++

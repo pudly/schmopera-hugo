@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-05-08T16:04:00-04:00"
+lastmod = "2015-04-27T18:05:00-04:00"
+publishDate = "2014-05-08T16:04:00-04:00"
 slug = "whats-on-eh"
 title = "What&#039;s on, eh?"
 +++

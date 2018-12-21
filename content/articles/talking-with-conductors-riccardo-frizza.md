@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-10-16T13:31:00-04:00"
+lastmod = "2017-10-17T20:14:00-04:00"
+publishDate = "2017-10-17T20:01:00-04:00"
 slug = "talking-with-conductors-riccardo-frizza"
 title = "Talking with conductors: Riccardo Frizza"
 +++

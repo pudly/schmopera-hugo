@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-08-28T16:49:00+01:00"
+lastmod = "2016-08-29T12:22:00+01:00"
+publishDate = "2016-08-29T12:17:00+01:00"
 slug = "in-review-hannigan-grainyttyla-at-the-bbc-proms"
 title = "In review: Hannigan &amp; Gražinytė-Tyla at the BBC Proms"
 +++

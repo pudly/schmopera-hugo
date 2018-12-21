@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-02-29T20:43:00+00:00"
+lastmod = "2016-03-01T15:31:00+00:00"
+publishDate = "2016-03-01T09:46:00+00:00"
 slug = "michael-mori-on-the-devil-inside"
 title = "Michael Mori on The Devil Inside"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-08-17T11:56:00+01:00"
+lastmod = "2016-08-17T13:47:00+01:00"
+publishDate = "2016-08-17T13:33:00+01:00"
 slug = "adele-knowing-your-audience"
 title = "Adele &amp; knowing your audience"
 +++

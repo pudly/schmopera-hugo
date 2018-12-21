@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-18T09:49:00-04:00"
+lastmod = "2018-04-19T10:48:00-04:00"
+publishDate = "2018-04-19T10:48:00-04:00"
 slug = "edmonton-opera-delivers-imaginative-inspired-don-giovanni"
 title = "Edmonton Opera delivers imaginative, inspired Don Giovanni"
 +++

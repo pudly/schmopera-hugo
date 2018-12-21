@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-25T15:45:00-04:00"
+lastmod = "2018-04-25T17:28:00-04:00"
+publishDate = "2018-04-25T17:28:00-04:00"
 slug = "beloved-bernstein-hgos-west-side-story"
 title = "Beloved Bernstein: HGO&#039;s West Side Story"
 +++

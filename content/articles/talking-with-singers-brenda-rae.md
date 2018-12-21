@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-07-20T19:14:00-04:00"
+lastmod = "2017-07-21T10:40:00-04:00"
+publishDate = "2017-07-21T10:27:00-04:00"
 slug = "talking-with-singers-brenda-rae"
 title = "Talking with singers: Brenda Rae"
 +++

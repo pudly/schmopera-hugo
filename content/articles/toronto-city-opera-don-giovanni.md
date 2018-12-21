@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-04-10T23:41:00-04:00"
+lastmod = "2015-04-12T19:53:00-04:00"
+publishDate = "2015-02-26T09:40:00-05:00"
 slug = "toronto-city-opera-don-giovanni"
 title = "Toronto City Opera: Don Giovanni"
 +++

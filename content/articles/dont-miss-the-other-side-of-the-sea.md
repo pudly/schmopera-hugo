@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2018-06-14T17:25:00-04:00"
+lastmod = "2018-06-15T08:41:00-04:00"
+publishDate = "2018-06-14T17:25:00-04:00"
 slug = "dont-miss-the-other-side-of-the-sea"
 title = "Don&#039;t miss: The Other Side of the Sea"
 +++

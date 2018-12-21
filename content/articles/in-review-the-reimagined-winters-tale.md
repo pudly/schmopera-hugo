@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-12-14T10:11:00+00:00"
+lastmod = "2016-12-14T11:22:00+00:00"
+publishDate = "2016-12-14T11:22:00+00:00"
 slug = "in-review-the-reimagined-winters-tale"
 title = "In review: The (reimagined) Winter&#039;s Tale"
 +++

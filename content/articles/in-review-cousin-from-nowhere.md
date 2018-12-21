@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-05-03T14:22:00-04:00"
+lastmod = "2015-04-27T18:05:00-04:00"
+publishDate = "2014-05-03T14:22:00-04:00"
 slug = "in-review-cousin-from-nowhere"
 title = "In review: Cousin from Nowhere"
 +++

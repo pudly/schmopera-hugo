@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-07-31T23:02:00+02:00"
+lastmod = "2015-08-03T16:13:00+02:00"
+publishDate = "2015-08-03T16:13:00+02:00"
 slug = "check-out-loose-tea-music-theatre"
 title = "Check out: Loose TEA Music Theatre"
 +++

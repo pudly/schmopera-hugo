@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-02-28T20:42:00-05:00"
+lastmod = "2018-02-28T22:13:00-05:00"
+publishDate = "2018-02-28T20:55:00-05:00"
 slug = "a-rare-event-at-chicago-lyric-piotr-beczaa-in-recital"
 title = "A &quot;rare event&quot; at Chicago Lyric: Piotr Beczała in recital"
 +++

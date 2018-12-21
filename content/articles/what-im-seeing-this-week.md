@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-04-23T16:07:00-04:00"
+lastmod = "2015-04-27T18:22:00-04:00"
+publishDate = "2014-04-23T16:07:00-04:00"
 slug = "what-im-seeing-this-week"
 title = "What I&#039;m seeing this week"
 +++

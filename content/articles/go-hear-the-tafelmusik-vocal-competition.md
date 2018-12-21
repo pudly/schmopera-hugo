@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-01-06T14:08:00-05:00"
+lastmod = "2016-01-09T13:48:00-05:00"
+publishDate = "2016-01-07T08:00:00-05:00"
 slug = "go-hear-the-tafelmusik-vocal-competition"
 title = "Go hear the Tafelmusik Vocal Competition"
 +++

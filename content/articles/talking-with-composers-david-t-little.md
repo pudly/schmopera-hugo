@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-10-10T20:55:00-04:00"
+lastmod = "2018-10-12T14:31:00-04:00"
+publishDate = "2018-10-10T20:55:00-04:00"
 slug = "talking-with-composers-david-t-little"
 title = "Talking with composers: David T. Little"
 +++

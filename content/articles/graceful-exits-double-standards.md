@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-04-06T12:12:00+01:00"
+lastmod = "2017-04-06T22:59:00+01:00"
+publishDate = "2017-04-06T13:18:00+01:00"
 slug = "graceful-exits-double-standards"
 title = "Graceful exits &amp; double standards"
 +++

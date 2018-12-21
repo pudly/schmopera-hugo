@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-11-04T13:12:00-05:00"
+lastmod = "2015-11-04T21:28:00-05:00"
+publishDate = "2015-11-04T14:26:00-05:00"
 slug = "she-saidhe-said-centre-stage-2015"
 title = "She said/He said: Centre Stage 2015"
 +++

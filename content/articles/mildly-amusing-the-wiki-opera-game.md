@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-08-22T20:34:00+01:00"
+lastmod = "2016-08-24T13:31:00+01:00"
+publishDate = "2016-08-24T12:31:00+01:00"
 slug = "mildly-amusing-the-wiki-opera-game"
 title = "Mildly amusing: the Wiki Opera Game"
 +++

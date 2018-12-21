@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-05-29T07:47:00-06:00"
+lastmod = "2017-06-12T22:15:00-06:00"
+publishDate = "2017-06-12T21:51:00-06:00"
 slug = "spotlight-on-emma-char"
 title = "Spotlight on: Emma Char"
 +++

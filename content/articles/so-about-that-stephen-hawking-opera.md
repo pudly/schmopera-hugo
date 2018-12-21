@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-03-16T11:13:00+00:00"
+lastmod = "2016-03-16T15:05:00+00:00"
+publishDate = "2016-03-16T11:56:00+00:00"
 slug = "so-about-that-stephen-hawking-opera"
 title = "So, about that Stephen Hawking opera..."
 +++

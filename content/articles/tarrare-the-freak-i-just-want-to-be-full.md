@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-02-02T10:29:00+00:00"
+lastmod = "2017-02-02T13:12:00+00:00"
+publishDate = "2017-02-02T13:12:00+00:00"
 slug = "tarrare-the-freak-i-just-want-to-be-full"
 title = "Tarrare the Freak: &quot;I just want to be full.&quot;"
 +++

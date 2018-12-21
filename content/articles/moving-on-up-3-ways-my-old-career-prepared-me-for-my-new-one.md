@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-04-21T08:09:00-04:00"
+lastmod = "2017-04-21T15:10:00-04:00"
+publishDate = "2017-04-21T10:02:00-04:00"
 slug = "moving-on-up-3-ways-my-old-career-prepared-me-for-my-new-one"
 title = "Moving on &amp; up: 3 ways my old career prepared me for my new one"
 +++

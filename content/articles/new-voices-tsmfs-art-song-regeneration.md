@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-07-23T20:23:00-04:00"
+lastmod = "2017-07-25T09:45:00-04:00"
+publishDate = "2017-07-24T21:30:00-04:00"
 slug = "new-voices-tsmfs-art-song-regeneration"
 title = "New voices: TSMF&#039;s Art Song ReGENERATION"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-10-10T09:54:00-04:00"
+lastmod = "2015-04-14T14:38:00-04:00"
+publishDate = "2014-10-10T09:54:00-04:00"
 slug = "in-review-a-shropshire-lad"
 title = "In review: A Shropshire Lad"
 +++

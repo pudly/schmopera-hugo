@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-01-02T21:47:00+00:00"
+lastmod = "2017-01-12T21:27:00+00:00"
+publishDate = "2017-01-07T11:54:00+00:00"
 slug = "michael-fabiano-the-profound-effect-of-artsmart"
 title = "Michael Fabiano: the &quot;profound effect&quot; of ArtSmart"
 +++

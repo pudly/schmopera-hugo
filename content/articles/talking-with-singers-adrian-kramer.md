@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-04-12T00:13:00+01:00"
+lastmod = "2017-03-29T23:13:00+01:00"
+publishDate = "2015-02-17T14:12:00+00:00"
 slug = "talking-with-singers-adrian-kramer"
 title = "Talking with singers: Adrian Kramer"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-07-16T10:10:00-04:00"
+lastmod = "2017-05-04T12:25:00-04:00"
+publishDate = "2014-07-16T10:10:00-04:00"
 slug = "the-heart-and-the-art"
 title = "The heart and the art"
 +++

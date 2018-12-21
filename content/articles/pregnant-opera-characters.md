@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2017-05-07T16:28:00-04:00"
+lastmod = "2017-05-07T17:00:00-04:00"
+publishDate = "undefined"
 slug = "pregnant-opera-characters"
 title = "Pregnant opera characters"
 +++

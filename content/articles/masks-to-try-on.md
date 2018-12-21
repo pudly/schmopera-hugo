@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2014-01-21T12:29:00-05:00"
+lastmod = "2015-04-28T22:28:00-04:00"
+publishDate = "2014-01-21T12:29:00-05:00"
 slug = "masks-to-try-on"
 title = "Masks to Try On"
 +++

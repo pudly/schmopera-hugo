@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-04-24T08:08:00-04:00"
+lastmod = "2015-04-23T21:24:00-04:00"
+publishDate = "2014-04-24T08:08:00-04:00"
 slug = "how-many-fairies-exactly"
 title = "How many fairies, exactly?"
 +++

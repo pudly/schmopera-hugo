@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-10-14T12:15:00-04:00"
+lastmod = "2017-10-16T10:21:00-04:00"
+publishDate = "2017-10-15T20:56:00-04:00"
 slug = "a-fiercely-queer-opera-for-halloween"
 title = "A &quot;fiercely queer opera&quot; for Halloween"
 +++

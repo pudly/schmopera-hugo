@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-08-16T18:53:00-04:00"
+lastmod = "2017-08-17T13:20:00-04:00"
+publishDate = "2017-08-17T13:06:00-04:00"
 slug = "something-canadian-the-canadian-women-composers-project"
 title = "&quot;Something Canadian&quot;: the Canadian Women Composers Project"
 +++

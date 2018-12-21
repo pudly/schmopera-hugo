@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2018-10-25T16:10:00-04:00"
+lastmod = "2018-10-25T22:34:00-04:00"
+publishDate = "2018-10-25T22:34:00-04:00"
 slug = "summer-nights-at-the-opera-an-observation"
 title = "Summer Nights at the Opera: an observation"
 +++

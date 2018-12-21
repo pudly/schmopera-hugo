@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-07-09T13:25:00-06:00"
+lastmod = "2015-07-15T08:43:00-06:00"
+publishDate = "2015-07-15T08:33:00-06:00"
 slug = "potential-orchestra-mutiny-and-conductor-envy"
 title = "Potential orchestra mutiny and conductor envy"
 +++

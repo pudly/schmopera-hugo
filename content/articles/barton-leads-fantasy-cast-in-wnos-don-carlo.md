@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-03-04T17:16:00-05:00"
+lastmod = "2018-03-04T19:50:00-05:00"
+publishDate = "2018-03-04T19:50:00-05:00"
 slug = "barton-leads-fantasy-cast-in-wnos-don-carlo"
 title = "Barton leads &quot;fantasy cast&quot; in WNO&#039;s Don Carlo"
 +++

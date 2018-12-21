@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-11-25T13:17:00+00:00"
+lastmod = "2016-12-13T09:37:00+00:00"
+publishDate = "2016-12-13T09:15:00+00:00"
 slug = "from-tenor-to-mezzo-one-singers-path-through-gender-transition"
 title = "From tenor to mezzo: one singer&#039;s path through gender transition"
 +++

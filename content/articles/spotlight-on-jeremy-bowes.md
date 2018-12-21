@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-12-30T14:33:00-05:00"
+lastmod = "2015-12-31T12:38:00-05:00"
+publishDate = "2015-12-31T12:38:00-05:00"
 slug = "spotlight-on-jeremy-bowes"
 title = "Spotlight on: Jeremy Bowes"
 +++

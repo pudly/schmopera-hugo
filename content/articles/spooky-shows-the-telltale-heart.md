@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-10-11T21:08:00+01:00"
+lastmod = "2016-10-13T11:44:00+01:00"
+publishDate = "2016-10-13T11:31:00+01:00"
 slug = "spooky-shows-the-telltale-heart"
 title = "Spooky shows: The Tell-Tale Heart"
 +++

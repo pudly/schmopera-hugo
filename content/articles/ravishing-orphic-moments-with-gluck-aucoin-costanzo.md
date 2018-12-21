@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-05-14T21:24:00-04:00"
+lastmod = "2018-05-15T09:39:00-04:00"
+publishDate = "2018-05-14T21:24:00-04:00"
 slug = "ravishing-orphic-moments-with-gluck-aucoin-costanzo"
 title = "Ravishing Orphic Moments with Gluck, Aucoin &amp; Costanzo"
 +++

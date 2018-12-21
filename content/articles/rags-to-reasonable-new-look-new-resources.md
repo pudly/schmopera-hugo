@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-01-02T17:59:00-05:00"
+lastmod = "2017-01-02T18:28:00-05:00"
+publishDate = "2017-01-02T18:28:00-05:00"
 slug = "rags-to-reasonable-new-look-new-resources"
 title = "Rags to Reasonable: new look, new resources"
 +++

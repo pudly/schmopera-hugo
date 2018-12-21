@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-09-14T22:20:00-04:00"
+lastmod = "2017-09-15T22:31:00-04:00"
+publishDate = "2017-09-15T21:22:00-04:00"
 slug = "using-your-voice-again-a-plan-of-action"
 title = "Using your voice again: a plan of action"
 +++

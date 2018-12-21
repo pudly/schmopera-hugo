@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2014-02-11T16:25:00-05:00"
+lastmod = "2015-04-27T22:53:00-04:00"
+publishDate = "2014-02-11T16:25:00-05:00"
 slug = "opera-heroines-in-2014-what-if"
 title = "Opera Heroines in 2014: What if?"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-04-11T19:01:00-04:00"
+lastmod = "2015-04-11T19:01:00-04:00"
+publishDate = "2015-02-17T09:01:00-05:00"
 slug = "5-tips-for-university-auditionees"
 title = "5 Tips for University Auditionees"
 +++

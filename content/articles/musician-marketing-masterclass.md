@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-06-26T13:26:00-06:00"
+lastmod = "2015-06-27T17:16:00-06:00"
+publishDate = "2015-06-27T14:33:00-06:00"
 slug = "musician-marketing-masterclass"
 title = "Musician Marketing Masterclass"
 +++

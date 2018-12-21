@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-03-24T13:03:00+00:00"
+lastmod = "2017-03-25T11:55:00+00:00"
+publishDate = "2017-03-25T11:35:00+00:00"
 slug = "poor-decisions-professional-consequences"
 title = "Poor decisions &amp; professional consequences"
 +++

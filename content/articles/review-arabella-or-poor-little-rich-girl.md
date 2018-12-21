@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-11T12:44:00-04:00"
+lastmod = "2017-10-11T23:17:00-04:00"
+publishDate = "2017-10-11T22:49:00-04:00"
 slug = "review-arabella-or-poor-little-rich-girl"
 title = "Review: Arabella, or &quot;Poor Little Rich Girl&quot;"
 +++

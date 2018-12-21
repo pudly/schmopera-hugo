@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-05-05T16:49:00-04:00"
+lastmod = "2018-05-05T21:57:00-04:00"
+publishDate = "2018-05-05T21:57:00-04:00"
 slug = "exquisite-singing-in-the-cocs-anna-bolena"
 title = "Exquisite singing in the COC&#039;s Anna Bolena"
 +++

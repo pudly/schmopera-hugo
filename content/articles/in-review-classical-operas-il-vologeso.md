@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-04-29T12:10:00+01:00"
+lastmod = "2016-04-29T14:03:00+01:00"
+publishDate = "2016-04-29T13:55:00+01:00"
 slug = "in-review-classical-operas-il-vologeso"
 title = "In review: Classical Opera&#039;s Il Vologeso"
 +++

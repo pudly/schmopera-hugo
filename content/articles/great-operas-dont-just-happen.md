@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-02-26T21:06:00-05:00"
+lastmod = "2018-03-01T08:11:00-05:00"
+publishDate = "2018-02-27T21:49:00-05:00"
 slug = "great-operas-dont-just-happen"
 title = "&quot;Great Operas Don&#039;t Just Happen.&quot;"
 +++

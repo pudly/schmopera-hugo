@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2015-10-29T22:05:00-04:00"
+lastmod = "2015-10-30T22:19:00-04:00"
+publishDate = "2015-10-30T09:58:00-04:00"
 slug = "weird-wonderful-toronto-darknet-market"
 title = "Weird &amp; wonderful: Toronto Darknet Market"
 +++

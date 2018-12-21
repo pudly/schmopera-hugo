@@ -1,4 +1,7 @@
 +++
+date = "2018-09-25T16:53:00-04:00"
+lastmod = "2018-09-25T18:55:00-04:00"
+publishDate = "2018-09-25T18:55:00-04:00"
 slug = "talking-with-singers-morris-robinson"
 title = "Talking with singers: Morris Robinson"
 +++

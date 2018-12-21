@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-06-02T07:50:00-06:00"
+lastmod = "2017-06-05T07:23:00-06:00"
+publishDate = "2017-06-04T20:52:00-06:00"
 slug = "spotlight-on-rihab-chaieb"
 title = "Spotlight on: Rihab Chaieb"
 +++

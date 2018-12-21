@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2018-03-01T20:40:00-05:00"
+lastmod = "2018-03-01T21:01:00-05:00"
+publishDate = "2018-03-01T21:01:00-05:00"
 slug = "appetizers-arias-popera-at-the-drake-one-fifty"
 title = "Appetizers &amp; arias: Popera! at the Drake One Fifty"
 +++

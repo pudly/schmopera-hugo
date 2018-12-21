@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-03-01T14:50:00+00:00"
+lastmod = "2017-03-03T12:25:00+00:00"
+publishDate = "2017-03-03T12:17:00+00:00"
 slug = "wanted-your-opera-schwag-wishlist"
 title = "Wanted: your opera schwag wish-list"
 +++

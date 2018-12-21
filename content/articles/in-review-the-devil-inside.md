@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-03-11T11:06:00+00:00"
+lastmod = "2016-03-11T12:49:00+00:00"
+publishDate = "2016-03-11T12:26:00+00:00"
 slug = "in-review-the-devil-inside"
 title = "In review: The Devil Inside"
 +++

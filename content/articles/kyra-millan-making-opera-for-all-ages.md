@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-03-12T18:08:00-04:00"
+lastmod = "2018-03-13T09:15:00-04:00"
+publishDate = "2018-03-13T09:15:00-04:00"
 slug = "kyra-millan-making-opera-for-all-ages"
 title = "Kyra Millan: making Opera for All Ages"
 +++

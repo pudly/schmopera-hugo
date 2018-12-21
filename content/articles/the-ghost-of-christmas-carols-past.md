@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-12-26T10:48:00-05:00"
+lastmod = "2015-12-26T10:58:00-05:00"
+publishDate = "2015-12-26T10:58:00-05:00"
 slug = "the-ghost-of-christmas-carols-past"
 title = "The Ghost of Christmas Carols Past"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-03-26T20:48:00-04:00"
+lastmod = "2018-03-26T20:48:00-04:00"
+publishDate = "2018-03-26T20:48:00-04:00"
 slug = "the-lady-steals-the-spotlight-in-rohs-macbeth"
 title = "The Lady steals the spotlight in ROH&#039;s Macbeth"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-12-20T14:08:00-05:00"
+lastmod = "2016-12-20T14:23:00-05:00"
+publishDate = "2016-12-20T14:23:00-05:00"
 slug = "a-mustwatch-the-creation-on-film"
 title = "A must-watch: The Creation on film"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-10-26T12:09:00+01:00"
+lastmod = "2016-11-02T09:23:00+00:00"
+publishDate = "2016-11-02T09:23:00+00:00"
 slug = "ways-to-procrastinate-the-plotgenerated-opera"
 title = "Ways to procrastinate: the plot-generated opera"
 +++

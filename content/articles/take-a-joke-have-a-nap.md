@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-05-02T16:04:00-04:00"
+lastmod = "2017-05-03T09:16:00-04:00"
+publishDate = "2017-05-03T09:16:00-04:00"
 slug = "take-a-joke-have-a-nap"
 title = "Take a joke, have a nap"
 +++

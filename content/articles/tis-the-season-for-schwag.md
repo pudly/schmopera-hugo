@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-12-08T22:00:00-05:00"
+lastmod = "2017-12-08T22:00:00-05:00"
+publishDate = "2017-12-08T22:00:00-05:00"
 slug = "tis-the-season-for-schwag"
 title = "&#039;Tis the season for Schwag!"
 +++

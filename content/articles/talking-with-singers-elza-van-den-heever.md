@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-10-31T22:37:00+00:00"
+lastmod = "2016-11-02T13:57:00+00:00"
+publishDate = "2016-11-02T13:33:00+00:00"
 slug = "talking-with-singers-elza-van-den-heever"
 title = "Talking with singers: Elza van den Heever"
 +++

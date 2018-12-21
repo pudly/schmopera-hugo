@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-01-05T14:40:00-05:00"
+lastmod = "2015-04-12T11:30:00-04:00"
+publishDate = "2015-01-05T14:40:00-05:00"
 slug = "tales-from-the-score-peter-grimes"
 title = "Tales from the score: Peter Grimes"
 +++

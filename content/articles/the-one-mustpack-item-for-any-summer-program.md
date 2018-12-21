@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-06-05T20:52:00-06:00"
+lastmod = "2017-06-06T21:56:00-06:00"
+publishDate = "2017-06-06T21:48:00-06:00"
 slug = "the-one-mustpack-item-for-any-summer-program"
 title = "The one must-pack item for any summer program"
 +++

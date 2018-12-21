@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-10-28T11:01:00-04:00"
+lastmod = "2018-10-28T19:47:00-04:00"
+publishDate = "2018-10-28T19:47:00-04:00"
 slug = "talking-with-singers-thomas-hampson"
 title = "Talking with singers: Thomas Hampson"
 +++

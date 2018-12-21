@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2018-05-08T21:25:00-04:00"
+lastmod = "2018-05-09T20:07:00-04:00"
+publishDate = "2018-05-09T20:07:00-04:00"
 slug = "4-singers-you-might-not-know-but-should"
 title = "4 singers you might not know - but should"
 +++

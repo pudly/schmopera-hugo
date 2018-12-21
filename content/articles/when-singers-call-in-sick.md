@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-02-11T13:43:00+00:00"
+lastmod = "2017-02-15T12:25:00+00:00"
+publishDate = "2017-02-15T12:25:00+00:00"
 slug = "when-singers-call-in-sick"
 title = "When singers call in sick"
 +++

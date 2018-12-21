@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-12-29T13:08:00-05:00"
+lastmod = "2018-01-01T11:49:00-05:00"
+publishDate = "2016-12-29T13:59:00-05:00"
 slug = "4-new-years-resolutions-for-opera-fans"
 title = "4 New Year&#039;s resolutions for opera fans"
 +++

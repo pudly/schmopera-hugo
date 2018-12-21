@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-12-19T21:52:00-05:00"
+lastmod = "2017-12-21T14:55:00-05:00"
+publishDate = "2017-12-19T21:52:00-05:00"
 slug = "when-opera-companies-protect-abusers"
 title = "When opera companies protect abusers"
 +++

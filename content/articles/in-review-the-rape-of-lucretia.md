@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-05-01T18:28:00+01:00"
+lastmod = "2016-05-02T12:50:00+01:00"
+publishDate = "2016-05-02T12:50:00+01:00"
 slug = "in-review-the-rape-of-lucretia"
 title = "In review: The Rape of Lucretia"
 +++

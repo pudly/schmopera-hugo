@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2015-04-10T20:46:00-04:00"
+lastmod = "2015-04-12T16:42:00-04:00"
+publishDate = "2015-04-02T09:46:00-04:00"
 slug = "ropera-and-elephants-ears"
 title = "R/Opera and Elephant&#039;s Ears"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-06-02T06:30:00-04:00"
+lastmod = "2018-01-03T10:08:00-05:00"
+publishDate = "2014-06-02T06:30:00-04:00"
 slug = "the-language-of-snobs"
 title = "The language of snobs?"
 +++

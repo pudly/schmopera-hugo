@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2017-11-26T11:12:00-05:00"
+lastmod = "2017-11-26T18:11:00-05:00"
+publishDate = "2017-11-26T17:59:00-05:00"
 slug = "how-your-voice-type-determines-your-onthejob-social-life"
 title = "How your voice type determines your on-the-job social life"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-01-12T11:37:00-05:00"
+lastmod = "2016-01-15T10:22:00-05:00"
+publishDate = "2016-01-15T10:22:00-05:00"
 slug = "spotlight-on-james-westman"
 title = "Spotlight on: James Westman"
 +++

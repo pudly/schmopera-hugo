@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-10-03T13:10:00-04:00"
+lastmod = "2015-10-07T09:56:00-04:00"
+publishDate = "2015-10-07T09:30:00-04:00"
 slug = "opera-orchestras-robots-or-out-of-the-loop"
 title = "Opera orchestras: robots, or out of the loop?"
 +++

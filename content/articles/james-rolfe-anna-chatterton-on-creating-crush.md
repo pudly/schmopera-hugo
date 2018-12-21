@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-06-23T22:00:00-06:00"
+lastmod = "2015-06-25T08:03:00-06:00"
+publishDate = "2015-06-25T08:00:00-06:00"
 slug = "james-rolfe-anna-chatterton-on-creating-crush"
 title = "James Rolfe &amp; Anna Chatterton, on creating Crush"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-04-28T09:54:00-04:00"
+lastmod = "2017-04-28T10:21:00-04:00"
+publishDate = "2017-04-28T10:20:00-04:00"
 slug = "la-finta-giardiniera-coming-to-a-garden-near-you"
 title = "La finta giardiniera, coming to a garden near you"
 +++

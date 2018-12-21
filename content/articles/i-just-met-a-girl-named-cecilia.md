@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-05-25T21:27:00-04:00"
+lastmod = "2015-06-17T15:23:00-04:00"
+publishDate = "2015-05-26T12:08:00-04:00"
 slug = "i-just-met-a-girl-named-cecilia"
 title = "I just met a girl named Cecilia"
 +++

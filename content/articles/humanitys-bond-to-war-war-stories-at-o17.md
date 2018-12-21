@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-18T15:25:00-04:00"
+lastmod = "2017-09-18T21:42:00-04:00"
+publishDate = "2017-09-18T21:42:00-04:00"
 slug = "humanitys-bond-to-war-war-stories-at-o17"
 title = "&quot;Humanity&#039;s bond to war&quot;: War Stories at O17"
 +++

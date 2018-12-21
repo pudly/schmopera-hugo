@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-04-10T21:20:00-04:00"
+lastmod = "2015-04-12T18:57:00-04:00"
+publishDate = "2015-03-25T09:20:00-04:00"
 slug = "michelle-telford-creating-custom-surtitles-for-opera-today"
 title = "Michelle Telford, Creating Custom Surtitles for Opera Today"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-02-03T18:14:00-05:00"
+lastmod = "2016-02-16T17:33:00-05:00"
+publishDate = "2016-02-17T08:00:00-05:00"
 slug = "spotlight-on-rolando-sanz"
 title = "Spotlight on: Rolando Sanz"
 +++

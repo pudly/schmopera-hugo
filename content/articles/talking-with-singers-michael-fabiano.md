@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-05-26T14:03:00-04:00"
+lastmod = "2018-05-26T17:56:00-04:00"
+publishDate = "2018-05-26T17:56:00-04:00"
 slug = "talking-with-singers-michael-fabiano"
 title = "Talking with singers: Michael Fabiano"
 +++

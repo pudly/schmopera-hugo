@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-11-08T15:00:00+00:00"
+lastmod = "2016-11-12T16:07:00+00:00"
+publishDate = "2016-11-12T15:23:00+00:00"
 slug = "the-4th-annual-elizabeth-krehm-memorial-concert-for-st-michaels-hospital"
 title = "The 4th annual Elizabeth Krehm Memorial Concert for St. Michael&#039;s Hospital"
 +++

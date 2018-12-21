@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-05-22T21:52:00-04:00"
+lastmod = "2018-05-22T22:08:00-04:00"
+publishDate = "2018-05-22T21:52:00-04:00"
 slug = "talking-with-singers-samantha-pickett"
 title = "Talking with singers: Samantha Pickett"
 +++

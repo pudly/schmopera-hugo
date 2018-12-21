@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-05-29T07:44:00-06:00"
+lastmod = "2017-06-14T07:41:00-06:00"
+publishDate = "2017-06-13T21:05:00-06:00"
 slug = "spotlight-on-michael-j-scott"
 title = "Spotlight on: Michael J. Scott"
 +++

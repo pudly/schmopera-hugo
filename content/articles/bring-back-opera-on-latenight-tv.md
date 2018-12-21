@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-05-18T11:48:00-04:00"
+lastmod = "2015-05-23T23:01:00-04:00"
+publishDate = "2015-05-23T14:18:00-04:00"
 slug = "bring-back-opera-on-latenight-tv"
 title = "Bring back opera on late-night TV"
 +++

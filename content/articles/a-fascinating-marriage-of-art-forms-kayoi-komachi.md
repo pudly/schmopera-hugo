@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-27T11:39:00-04:00"
+lastmod = "2017-10-27T14:24:00-04:00"
+publishDate = "2017-10-27T14:24:00-04:00"
 slug = "a-fascinating-marriage-of-art-forms-kayoi-komachi"
 title = "&quot;A fascinating marriage of art forms&quot;: Kayoi Komachi"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-09-21T18:47:00-04:00"
+lastmod = "2018-09-21T18:51:00-04:00"
+publishDate = "2018-09-21T18:47:00-04:00"
 slug = "sky-on-swings-a-mustsee-of-o18"
 title = "Sky on Swings a must-see of O18"
 +++

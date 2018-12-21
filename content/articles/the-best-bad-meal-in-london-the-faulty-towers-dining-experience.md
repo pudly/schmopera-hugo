@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-02-17T11:05:00+00:00"
+lastmod = "2017-02-17T15:47:00+00:00"
+publishDate = "2017-02-17T13:08:00+00:00"
 slug = "the-best-bad-meal-in-london-the-faulty-towers-dining-experience"
 title = "The best bad meal in London: the Faulty Towers Dining Experience"
 +++

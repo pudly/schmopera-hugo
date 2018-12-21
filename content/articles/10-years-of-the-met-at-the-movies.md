@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-09-29T15:59:00-04:00"
+lastmod = "2015-10-02T13:31:00-04:00"
+publishDate = "2015-09-30T10:12:00-04:00"
 slug = "10-years-of-the-met-at-the-movies"
 title = "10 Years of the Met at the Movies"
 +++

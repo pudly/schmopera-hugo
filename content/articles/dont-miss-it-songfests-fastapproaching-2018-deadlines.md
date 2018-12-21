@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2018-01-16T21:48:00-05:00"
+lastmod = "2018-01-16T21:48:00-05:00"
+publishDate = "2018-01-16T21:48:00-05:00"
 slug = "dont-miss-it-songfests-fastapproaching-2018-deadlines"
 title = "Don&#039;t miss it: SongFest&#039;s fast-approaching 2018 deadlines"
 +++

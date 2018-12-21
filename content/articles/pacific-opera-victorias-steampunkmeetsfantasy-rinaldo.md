@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-04-22T17:19:00-04:00"
+lastmod = "2018-04-22T17:19:00-04:00"
+publishDate = "2018-04-22T17:19:00-04:00"
 slug = "pacific-opera-victorias-steampunkmeetsfantasy-rinaldo"
 title = "Pacific Opera Victoria&#039;s steampunk-meets-fantasy Rinaldo"
 +++

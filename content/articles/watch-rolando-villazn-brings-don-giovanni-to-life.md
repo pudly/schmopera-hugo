@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-04-04T10:29:00+01:00"
+lastmod = "2016-04-04T11:22:00+01:00"
+publishDate = "2016-04-04T11:22:00+01:00"
 slug = "watch-rolando-villazn-brings-don-giovanni-to-life"
 title = "Watch: Rolando Villazón brings Don Giovanni to life"
 +++

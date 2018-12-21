@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2015-10-02T10:05:00-04:00"
+lastmod = "2015-10-02T13:08:00-04:00"
+publishDate = "2015-10-02T12:52:00-04:00"
 slug = "tapestry-operas-selfie-talks-online-bullying"
 title = "Tapestry Opera&#039;s Selfie talks online bullying"
 +++

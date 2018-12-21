@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-01-17T21:02:00-05:00"
+lastmod = "2018-01-18T09:09:00-05:00"
+publishDate = "2018-01-17T21:02:00-05:00"
 slug = "the-start-of-something-powerful-the-echo-drift"
 title = "The start of something powerful: The Echo Drift"
 +++

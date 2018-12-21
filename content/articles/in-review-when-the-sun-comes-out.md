@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2014-06-27T14:57:00-04:00"
+lastmod = "2015-04-23T15:13:00-04:00"
+publishDate = "2014-06-27T14:57:00-04:00"
 slug = "in-review-when-the-sun-comes-out"
 title = "In review: When the Sun Comes Out"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-02-22T09:55:00-05:00"
+lastmod = "2016-02-22T11:10:00-05:00"
+publishDate = "2016-02-22T10:30:00-05:00"
 slug = "in-review-dmitri-hvorostovsky-at-koerner-hall"
 title = "In review: Dmitri Hvorostovsky at Koerner Hall"
 +++

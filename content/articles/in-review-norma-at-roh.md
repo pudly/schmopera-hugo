@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-09-17T12:51:00+01:00"
+lastmod = "2016-09-17T15:29:00+01:00"
+publishDate = "2016-09-17T15:25:00+01:00"
 slug = "in-review-norma-at-roh"
 title = "In review: Norma at ROH"
 +++

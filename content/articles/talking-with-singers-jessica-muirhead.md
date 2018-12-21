@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-01-20T09:00:00-05:00"
+lastmod = "2015-04-11T23:06:00-04:00"
+publishDate = "2015-01-20T09:00:00-05:00"
 slug = "talking-with-singers-jessica-muirhead"
 title = "Talking with Singers: Jessica Muirhead"
 +++

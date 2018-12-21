@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-06-01T15:41:00-04:00"
+lastmod = "2015-06-02T16:32:00-04:00"
+publishDate = "2015-06-02T14:41:00-04:00"
 slug = "harawi-whats-that"
 title = "Harawi? What&#039;s that?"
 +++

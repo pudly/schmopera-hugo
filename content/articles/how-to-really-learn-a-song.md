@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-06-07T14:44:00-04:00"
+lastmod = "2017-11-22T16:51:00-05:00"
+publishDate = "2015-06-08T08:00:00-04:00"
 slug = "how-to-really-learn-a-song"
 title = "How to really learn a song"
 +++

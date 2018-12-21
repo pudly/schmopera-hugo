@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2015-04-10T21:30:00-04:00"
+lastmod = "2015-04-10T21:30:00-04:00"
+publishDate = "2015-03-24T09:30:00-04:00"
 slug = "does-a-good-artistic-director-read-music"
 title = "Does a Good Artistic Director Read Music?"
 +++

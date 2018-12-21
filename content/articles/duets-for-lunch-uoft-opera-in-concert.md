@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-11T10:40:00-04:00"
+lastmod = "2017-10-12T10:44:00-04:00"
+publishDate = "2017-10-12T09:50:00-04:00"
 slug = "duets-for-lunch-uoft-opera-in-concert"
 title = "Duets for lunch: UofT Opera in concert"
 +++

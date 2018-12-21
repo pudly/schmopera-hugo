@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-11-06T10:25:00-05:00"
+lastmod = "2017-11-06T16:53:00-05:00"
+publishDate = "2017-11-06T14:43:00-05:00"
 slug = "sleek-storytelling-costly-illusions-wnos-alcina"
 title = "Sleek storytelling &amp; costly illusions: WNO&#039;s Alcina"
 +++

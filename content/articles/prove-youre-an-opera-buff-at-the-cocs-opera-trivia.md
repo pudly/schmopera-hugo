@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2017-01-19T21:49:00+00:00"
+lastmod = "2017-01-22T17:25:00+00:00"
+publishDate = "2017-01-22T15:45:00+00:00"
 slug = "prove-youre-an-opera-buff-at-the-cocs-opera-trivia"
 title = "Prove you&#039;re an opera buff at the COC&#039;s Opera Trivia"
 +++

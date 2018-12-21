@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-01-19T16:58:00+00:00"
+lastmod = "2017-01-21T15:29:00+00:00"
+publishDate = "2017-01-21T15:06:00+00:00"
 slug = "talking-with-singers-rena-harms"
 title = "Talking with singers: Rena Harms"
 +++

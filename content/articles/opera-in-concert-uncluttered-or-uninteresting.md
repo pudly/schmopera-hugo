@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-09-08T09:07:00+01:00"
+lastmod = "2016-09-15T15:26:00+01:00"
+publishDate = "2016-09-15T15:20:00+01:00"
 slug = "opera-in-concert-uncluttered-or-uninteresting"
 title = "Opera in concert: uncluttered or uninteresting?"
 +++

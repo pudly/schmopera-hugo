@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-02-02T16:13:00+00:00"
+lastmod = "2017-02-06T16:46:00+00:00"
+publishDate = "2017-02-04T09:55:00+00:00"
 slug = "talking-with-singers-angela-gheorghiu"
 title = "Talking with singers: Angela Gheorghiu"
 +++

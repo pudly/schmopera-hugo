@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-02-17T22:02:00+00:00"
+lastmod = "2017-02-18T16:09:00+00:00"
+publishDate = "2017-02-18T16:02:00+00:00"
 slug = "in-review-peter-deutsch-at-wigmore-hall"
 title = "In review: Peter &amp; Deutsch at Wigmore Hall"
 +++

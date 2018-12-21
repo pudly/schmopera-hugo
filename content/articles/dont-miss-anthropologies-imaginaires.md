@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-08-01T18:43:00+01:00"
+lastmod = "2016-08-02T13:41:00+01:00"
+publishDate = "2016-08-02T13:34:00+01:00"
 slug = "dont-miss-anthropologies-imaginaires"
 title = "Don&#039;t miss: Anthropologies imaginaires"
 +++

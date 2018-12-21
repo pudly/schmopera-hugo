@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-05-24T09:59:00+01:00"
+lastmod = "2016-05-24T13:22:00+01:00"
+publishDate = "2016-05-24T13:22:00+01:00"
 slug = "requiem-on-the-south-bank"
 title = "Requiem on the South Bank"
 +++

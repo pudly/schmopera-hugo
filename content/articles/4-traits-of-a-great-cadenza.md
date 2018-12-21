@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2016-02-01T22:06:00-05:00"
+lastmod = "2017-05-21T11:44:00-04:00"
+publishDate = "2016-02-02T15:13:00-05:00"
 slug = "4-traits-of-a-great-cadenza"
 title = "4 traits of a great cadenza"
 +++

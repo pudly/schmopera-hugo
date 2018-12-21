@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2017-08-14T21:43:00-04:00"
+lastmod = "2017-08-15T22:12:00-04:00"
+publishDate = "2017-08-15T22:08:00-04:00"
 slug = "getting-vexed-over-wagner-other-narcissisms"
 title = "Getting vexed over Wagner &amp; other narcissisms"
 +++

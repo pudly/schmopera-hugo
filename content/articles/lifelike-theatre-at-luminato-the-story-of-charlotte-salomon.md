@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-06-11T10:21:00-06:00"
+lastmod = "2017-06-12T08:59:00-06:00"
+publishDate = "2017-06-12T08:59:00-06:00"
 slug = "lifelike-theatre-at-luminato-the-story-of-charlotte-salomon"
 title = "Life-like theatre at Luminato: the story of Charlotte Salomon"
 +++

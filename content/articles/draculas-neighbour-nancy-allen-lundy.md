@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-10-24T12:32:00+01:00"
+lastmod = "2016-10-25T19:39:00+01:00"
+publishDate = "2016-10-25T09:26:00+01:00"
 slug = "draculas-neighbour-nancy-allen-lundy"
 title = "Dracula&#039;s neighbour: Nancy Allen Lundy"
 +++

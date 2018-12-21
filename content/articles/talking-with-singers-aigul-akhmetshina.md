@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2017-11-29T12:26:00-05:00"
+lastmod = "2017-12-03T20:53:00-05:00"
+publishDate = "2017-12-03T20:53:00-05:00"
 slug = "talking-with-singers-aigul-akhmetshina"
 title = "Talking with singers: Aigul Akhmetshina"
 +++

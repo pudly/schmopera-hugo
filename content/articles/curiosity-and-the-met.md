@@ -1,5 +1,8 @@
 +++
 categories = "Op-ed"
+date = "2014-08-01T17:01:00-04:00"
+lastmod = "2015-04-23T14:26:00-04:00"
+publishDate = "2014-08-01T17:01:00-04:00"
 slug = "curiosity-and-the-met"
 title = "Curiosity and the Met"
 +++

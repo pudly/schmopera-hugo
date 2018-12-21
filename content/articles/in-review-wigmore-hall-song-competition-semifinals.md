@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-09-06T16:10:00-04:00"
+lastmod = "2017-09-06T22:14:00-04:00"
+publishDate = "2017-09-06T21:56:00-04:00"
 slug = "in-review-wigmore-hall-song-competition-semifinals"
 title = "In review: Wigmore Hall Song Competition semi-finals"
 +++

@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2014-08-20T13:45:00-06:00"
+lastmod = "2017-06-23T23:19:00-06:00"
+publishDate = "2014-08-20T13:45:00-06:00"
 slug = "pianists-plights-and-opera-fights"
 title = "Pianists&#039; plights and opera fights"
 +++

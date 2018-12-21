@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-05-30T21:35:00-04:00"
+lastmod = "2018-06-01T09:01:00-04:00"
+publishDate = "2018-05-31T11:42:00-04:00"
 slug = "talking-with-conductors-damian-iorio"
 title = "Talking with conductors: Damian Iorio"
 +++

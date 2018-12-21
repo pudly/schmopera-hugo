@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-01-04T17:02:00-05:00"
+lastmod = "2016-01-05T10:39:00-05:00"
+publishDate = "2016-01-05T09:00:00-05:00"
 slug = "talking-with-singers-leah-crocetto"
 title = "Talking with singers: Leah Crocetto"
 +++

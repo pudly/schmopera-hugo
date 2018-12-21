@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2015-07-15T00:06:00-06:00"
+lastmod = "2015-07-16T01:30:00-06:00"
+publishDate = "2015-07-15T13:22:00-06:00"
 slug = "cosi-a-day-in-the-life"
 title = "COSI: A day in the life"
 +++

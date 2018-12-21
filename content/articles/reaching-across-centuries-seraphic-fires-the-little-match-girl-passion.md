@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-01-22T12:48:00-05:00"
+lastmod = "2018-01-22T20:00:00-05:00"
+publishDate = "2018-01-22T20:00:00-05:00"
 slug = "reaching-across-centuries-seraphic-fires-the-little-match-girl-passion"
 title = "Reaching across centuries: Seraphic Fire&#039;s the little match girl passion"
 +++

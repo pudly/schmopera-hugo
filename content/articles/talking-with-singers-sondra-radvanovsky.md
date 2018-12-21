@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-11-16T19:45:00+00:00"
+lastmod = "2016-11-24T09:44:00+00:00"
+publishDate = "2016-11-24T09:23:00+00:00"
 slug = "talking-with-singers-sondra-radvanovsky"
 title = "Talking with singers: Sondra Radvanovsky"
 +++

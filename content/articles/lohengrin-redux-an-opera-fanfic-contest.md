@@ -1,5 +1,8 @@
 +++
 categories = "News"
+date = "2016-11-01T15:34:00+00:00"
+lastmod = "2016-11-03T09:40:00+00:00"
+publishDate = "2016-11-03T09:31:00+00:00"
 slug = "lohengrin-redux-an-opera-fanfic-contest"
 title = "Lohengrin Redux: an opera fanfic contest"
 +++

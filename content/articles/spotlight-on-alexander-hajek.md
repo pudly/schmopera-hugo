@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-10-06T16:41:00+01:00"
+lastmod = "2016-10-08T14:12:00+01:00"
+publishDate = "2016-10-08T14:07:00+01:00"
 slug = "spotlight-on-alexander-hajek"
 title = "Spotlight on: Alexander Hajek"
 +++

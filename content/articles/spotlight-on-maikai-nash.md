@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2015-06-25T23:29:00-06:00"
+lastmod = "2015-06-26T08:04:00-06:00"
+publishDate = "2015-06-26T08:04:00-06:00"
 slug = "spotlight-on-maikai-nash"
 title = "Spotlight on: Maika&#039;i Nash"
 +++

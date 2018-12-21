@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2018-05-31T20:34:00-04:00"
+lastmod = "2018-06-03T16:48:00-04:00"
+publishDate = "2018-06-02T17:20:00-04:00"
 slug = "talking-with-directors-jennifer-williams"
 title = "Talking with directors: Jennifer Williams"
 +++

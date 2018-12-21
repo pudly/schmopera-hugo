@@ -1,5 +1,8 @@
 +++
 categories = "Editorial"
+date = "2016-09-21T10:33:00+01:00"
+lastmod = "2016-09-21T19:24:00+01:00"
+publishDate = "2016-09-21T18:54:00+01:00"
 slug = "atgs-opera-pubs-it-can-all-get-a-bit-wild"
 title = "AtG&#039;s Opera Pubs: &quot;It can all get a bit wild.&quot;"
 +++

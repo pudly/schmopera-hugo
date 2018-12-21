@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-05-25T10:53:00-04:00"
+lastmod = "2017-05-25T18:08:00-04:00"
+publishDate = "2017-05-25T14:50:00-04:00"
 slug = "tough-to-watch-oksana-g"
 title = "Tough to watch: Oksana G."
 +++

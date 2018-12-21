@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2018-01-14T20:16:00-05:00"
+lastmod = "2018-01-15T12:53:00-05:00"
+publishDate = "2018-01-14T20:16:00-05:00"
 slug = "an-operas-evolving-relevance-turandot"
 title = "An opera&#039;s evolving relevance: Turandot"
 +++

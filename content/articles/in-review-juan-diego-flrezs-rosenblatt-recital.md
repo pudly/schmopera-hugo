@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2016-03-30T09:51:00+01:00"
+lastmod = "2016-03-30T11:25:00+01:00"
+publishDate = "2016-03-30T11:19:00+01:00"
 slug = "in-review-juan-diego-flrezs-rosenblatt-recital"
 title = "In review: Juan Diego Flórez&#039;s Rosenblatt Recital"
 +++

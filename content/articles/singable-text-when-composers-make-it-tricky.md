@@ -1,5 +1,8 @@
 +++
 categories = "Humour"
+date = "2016-02-25T09:32:00-05:00"
+lastmod = "2016-02-26T09:28:00-05:00"
+publishDate = "2016-02-26T09:28:00-05:00"
 slug = "singable-text-when-composers-make-it-tricky"
 title = "Singable text: when composers make it tricky"
 +++

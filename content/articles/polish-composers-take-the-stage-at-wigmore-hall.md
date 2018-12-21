@@ -1,5 +1,8 @@
 +++
 categories = "Review"
+date = "2017-10-16T13:16:00-04:00"
+lastmod = "2017-10-16T19:32:00-04:00"
+publishDate = "2017-10-16T19:32:00-04:00"
 slug = "polish-composers-take-the-stage-at-wigmore-hall"
 title = "Polish composers take the stage at Wigmore Hall"
 +++

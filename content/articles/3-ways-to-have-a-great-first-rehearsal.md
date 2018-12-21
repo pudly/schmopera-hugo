@@ -1,5 +1,8 @@
 +++
 categories = "How-to"
+date = "2015-09-12T17:37:00-04:00"
+lastmod = "2015-09-21T10:22:00-04:00"
+publishDate = "2015-09-13T08:59:00-04:00"
 slug = "3-ways-to-have-a-great-first-rehearsal"
 title = "3 ways to have a great first rehearsal"
 +++

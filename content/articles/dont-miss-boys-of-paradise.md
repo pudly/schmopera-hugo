@@ -1,5 +1,8 @@
 +++
 categories = "Interview"
+date = "2016-10-11T13:13:00+01:00"
+lastmod = "2016-10-12T09:23:00+01:00"
+publishDate = "2016-10-12T09:15:00+01:00"
 slug = "dont-miss-boys-of-paradise"
 title = "Don&#039;t miss: Boys of Paradise"
 +++
