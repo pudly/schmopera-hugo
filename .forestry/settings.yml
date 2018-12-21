@@ -22,7 +22,7 @@ sections:
   create: all
   match: "**/*"
 upload_dir: media
-public_path: media
+public_path: https://res.cloudinary.com/schmopera/image/upload
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":year:/:month:/:filename:"
