@@ -11,12 +11,7 @@
         {{.Content}}
       </div>
       <div>
-        <ul>
-        <!-- Note that .Pages is the same as .Site.RegularPages on the homepage template. -->
-        {{ range .Pages }}
-            <li><a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title | htmlUnescape }}</a></li>
-        {{ end }}
-         </ul>
+        {{- partial "pagination.html" . -}}
       </div>
     </main>
 {{ end }}
