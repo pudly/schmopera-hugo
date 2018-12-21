@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-11-09T15:18:00-05:00"
 lastmod = "2017-11-21T11:31:00-05:00"
+preamble = "This month marks the world premiere of [*Girls of the Golden West*](https://sfopera.com/1718season/201718-season/goldenwest/) at San Francisco Opera, the latest collaboration from operatic titans John Adams and Peter Sellars. The story follows those who flock to Gold Rush country in search of fortune, and their eking out a living within a micro-world of greed and optimism. Among the cast that also includes [Julia Bullock](/scene/people/julia-bullock/), [Davoné Tines](/scene/people/davone-tines/), and [J'Nai Bridges](/scene/people/jnai-bridges/), is bass-baritone [Ryan McKinny](/scene/people/ryan-mckinny/) singing the miner Clarence King; we spoke with McKinny about creating the new character, working with the Adams/Sellars team, and how *Girls of the Golden West* rings true in contemporary American culture."
 publishDate = "2017-11-20T21:10:00-05:00"
+short_description = "\"I know it's expensive to put on opera and we want people to buy tickets, but to me the success of a piece lies in its ability to touch people deeply and open their eyes to a new perspective on themselves and the world. To that end, I think you need artists who are not only great at their craft but also give of themselves totally and have insight into the state of being human.\""
 slug = "ryan-mckinny-modern-meaning-in-a-gold-rushera-opera"
 title = "Ryan McKinny: Modern meaning in a Gold Rush-era opera"
 +++

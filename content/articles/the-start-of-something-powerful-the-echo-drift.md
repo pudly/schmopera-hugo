@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-01-17T21:02:00-05:00"
 lastmod = "2018-01-18T09:09:00-05:00"
 publishDate = "2018-01-17T21:02:00-05:00"
+short_description = "The moth, appealingly mesmerizing, could have a spin-off opera all to itself. Created by individual acrylic paintings set in stop-motion animation, it moves like an insect shadow ricocheting off a porch light on a chilly autumn night in the country."
 slug = "the-start-of-something-powerful-the-echo-drift"
 title = "The start of something powerful: The Echo Drift"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-05-21T17:45:00-04:00"
 lastmod = "2018-05-22T08:55:00-04:00"
 publishDate = "2018-05-21T21:11:00-04:00"
+short_description = "She let us know that she considers herself \"a champion of new composers.\" \"That way,\" she told us, maybe only half-joking, \"I'll still have a job in the future.\" She reminded us that Jason Robert Brown was once a \"new composer\" and proffered his \"Stars and Moon\" which has become one of her signature songs."
 slug = "audra-mcdonald-and-the-art-of-perfection"
 title = "Audra McDonald and the Art of Perfection"
 +++

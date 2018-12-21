@@ -2,7 +2,9 @@
 categories = "Editorial"
 date = "2016-12-31T16:31:00-05:00"
 lastmod = "2017-01-02T19:28:00-05:00"
+preamble = "Happy New Year, readers!\n\nThe holidays are great - but after roughly a month of wavering between buzzed and hungover, and eating like a complete idiot, it's nice to get back to some semblance of a schedule where businesses are open and you can trust their hours of operation.\n\nFor us, \"normal\" is a healthy frequency of operas to see. Coming up this month, there are four highlights about which we're pretty pumped."
 publishDate = "2017-01-02T19:14:00-05:00"
+short_description = "The holidays are great - but after roughly a month of wavering between buzzed and hungover, and eating like a complete idiot, it's nice to get back to some semblance of a schedule where businesses are open and you can trust their hours of operation."
 slug = "4-shows-to-perk-up-the-postholiday-blues"
 title = "4 shows to perk up the post-holiday blues"
 +++

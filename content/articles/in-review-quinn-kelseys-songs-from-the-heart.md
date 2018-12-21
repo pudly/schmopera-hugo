@@ -3,6 +3,7 @@ categories = "Review"
 date = "2015-10-27T14:53:00-04:00"
 lastmod = "2015-10-28T16:25:00-04:00"
 publishDate = "2015-10-28T12:29:00-04:00"
+short_description = "Hawaiian baritone Quinn Kelsey strode into the Richard Bradshaw Amphitheatre, wearing black cowboy boots with his three-piece suit, and said to the audience, \"I apologize in advance for cheat sheets.\""
 slug = "in-review-quinn-kelseys-songs-from-the-heart"
 title = "In review: Quinn Kelsey&#039;s Songs from the Heart"
 +++

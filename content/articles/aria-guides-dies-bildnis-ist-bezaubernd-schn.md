@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2016-05-13T10:56:00+01:00"
 lastmod = "2016-05-25T23:10:00+01:00"
+preamble = "Next up for our Aria Guides: the tenor's favourite scary aria, \"Dies Bildnis ist bezaubernd schön\" from Mozart's *Die Zauberflöte*. It's an aria about love at first sight, about idealism, and about proving that music can be difficult to sing even if there are no B-flats or crazy coloratura. Along with your teachers and coaches, we can help with some tricky corners of this aria, and even get you confident about adding it to your audition package. A bold move, and why not?\n\nPhoto: [Jon Betts](https://www.flickr.com/photos/jonbetts/8580180770) via [Flickr](https://creativecommons.org/licenses/by-nd/2.0/legalcode)."
 publishDate = "2016-05-13T12:31:00+01:00"
+short_description = "Next up for our Aria Guides: the tenor's favourite scary aria, \"Dies Bildnis ist bezaubernd schön\" from Mozart's Die Zauberflöte. It's an aria about love at first sight, about idealism, and about proving that music can be difficult to sing even if there are no B-flats or crazy coloratura. Along with your teachers and coaches, we can help with some tricky corners of this aria, and even get you confident about adding it to your audition package."
 slug = "aria-guides-dies-bildnis-ist-bezaubernd-schn"
 title = "Aria Guides: &quot;Dies Bildnis ist bezaubernd schön&quot;"
 +++

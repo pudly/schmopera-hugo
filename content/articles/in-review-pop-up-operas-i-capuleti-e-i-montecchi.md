@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-04-05T13:29:00+01:00"
 lastmod = "2017-04-05T16:11:00+01:00"
 publishDate = "2017-04-05T15:47:00+01:00"
+short_description = "Pop Up Opera's touring production of I Capuleti e i Montecchi has traveled across the southern UK for nearly a month, and it's impressive that the production, directed by James Hurley, feels at home in its latest London venue. The action takes place in the round, and the cast of five make a handful of forays into the crowd; it's one of the advantages - responsibilities, even - of performing with an audience at arm's length."
 slug = "in-review-pop-up-operas-i-capuleti-e-i-montecchi"
 title = "In review: Pop Up Opera&#039;s I Capuleti e i Montecchi"
 +++

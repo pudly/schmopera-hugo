@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-10-14T15:54:00+01:00"
 lastmod = "2016-10-15T15:12:00+01:00"
 publishDate = "2016-10-15T12:02:00+01:00"
+short_description = "At the back of the Natural History gallery, soprano Christine Buras was found in pigeon-like garb, curiously inspecting the listeners with twitching movements and unsettling direct eye contact. The story unfolded of a pigeon, whose feet had been cruelly severed by \"country folk,\" and put \"in the pockets of farm boys,\" as a good luck charm."
 slug = "a-dove-as-you-know-is-respected"
 title = "&quot;A dove, as you know, is respected.&quot;"
 +++

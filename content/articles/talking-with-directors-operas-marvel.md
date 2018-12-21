@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2015-07-28T11:43:00-04:00"
 lastmod = "2015-07-29T08:53:00-04:00"
+preamble = "American stage director [James Marvel](/scene/people/james-marvel/)'s career has taken him across the United States and Canada (including the Centre for Opera Studies in Italy and Opera on the Avalon), not to mention gigs in South Africa, Belgium, Italy, Chile, Poland and South Korea. In 2014 he founded [Marvel Arts Management](http://www.marvelartsmanagement.com/), which has a roster of seven directors, four conductors, and four designers. James is a busy guy, which is why I was thrilled when he took the time to give such a smart and impassioned interview about his work. Enjoy."
 publishDate = "2015-07-29T08:11:00-04:00"
+short_description = "American stage director James Marvel's work has taken him across the United States and Canada (including the Centre for Opera Studies in Italy and Opera on the Avalon), not to mention gigs in South Africa, Belgium, Italy, Chile, Poland and South Korea. In 2014 he started Marvel Arts Management, which has a roster of seven directors, four conductors, and four designers. "
 slug = "talking-with-directors-operas-marvel"
 title = "Talking with directors: opera&#039;s Marvel"
 +++

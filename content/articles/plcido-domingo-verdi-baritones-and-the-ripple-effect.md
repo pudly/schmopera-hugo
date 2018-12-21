@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-09-04T16:48:00+01:00"
 lastmod = "2016-06-08T10:14:00+01:00"
 publishDate = "2015-09-08T13:00:00+01:00"
+short_description = "The complaint is: legendary tenor Plácido Domingo has retired his notorious Don José, Cavaradossi, and Otello, and has started taking on baritone roles (Oreste in Iphigénie en Tauride, and the title roles in Simon Boccanegra and Rigoletto). The argument is that his singing these roles takes away a potential gig from a hard-working, vocally appropriate Verdi baritone."
 slug = "plcido-domingo-verdi-baritones-and-the-ripple-effect"
 title = "Plácido Domingo, Verdi baritones, and the ripple effect"
 +++

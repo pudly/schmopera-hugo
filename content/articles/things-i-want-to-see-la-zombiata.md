@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2016-02-01T09:52:00-05:00"
 lastmod = "2016-02-01T10:11:00-05:00"
 publishDate = "2016-02-01T10:11:00-05:00"
+short_description = "\"Our story begins in a Parisian penthouse infested by an undead hoard lead by Xenobia, huntress of humans. As the minions mingle at a bloody soiree, romantically inclined Christolpho meets the ravenous-yet-rapturous Philonia. Suddenly, all-too-human emotions come into play, leading to chaos, comedy, and a splash-zone worthy chainsaw massacre.\""
 slug = "things-i-want-to-see-la-zombiata"
 title = "Things I want to see: La Zombiata"
 +++

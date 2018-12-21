@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-04-08T20:44:00-04:00"
 lastmod = "2018-04-08T20:44:00-04:00"
 publishDate = "2018-04-08T20:44:00-04:00"
+short_description = "It was most heartwarming to see the relationship between Lois and Thomas Oliemans as Susanna and Figaro. Oliemans seemed to go for a more casual Figaro, not quite the charismatic showman that one sees in other productions (or in The Barber of Seville for that matter). His was an unobtrusive Figaro, more content to go along with the schemes of others than to make up his own."
 slug = "classic-for-good-reason-the-marriage-of-figaro"
 title = "Classic for good reason: The Marriage of Figaro"
 +++

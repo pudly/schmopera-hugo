@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2015-05-17T17:32:00-04:00"
 lastmod = "2015-05-18T10:25:00-04:00"
 publishDate = "2015-05-18T09:00:00-04:00"
+short_description = "The Free Concert Series in the Four Seasons Centre's Richard Bradshaw Amphitheatre is winding down for the summer, and this week marks the end of the Vocal Series performances. At noon this Tuesday, Wednesday, and Thursday, you can catch some stellar singing, for free."
 slug = "hat-trick-in-the-amphitheatre"
 title = "Hat trick in the Amphitheatre"
 +++

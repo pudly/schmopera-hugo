@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-09-15T19:39:00-04:00"
 lastmod = "2017-09-16T09:19:00-04:00"
 publishDate = "2017-09-16T09:19:00-04:00"
+short_description = "If you're someone who has seen little or no opera, Carmen is perhaps the perfect place to start because it's a perfect show; the libretto and score are true partners. Although the show runs about three and a half hours, the drama is so compelling and the music is so beautiful, you never find yourself looking at your watch (or, depending on your age, the clock on your cellphone)."
 slug = "la-opera-scores-in-first-half-of-bizet-doubleheader"
 title = "LA Opera scores in first half of Bizet double-header"
 +++

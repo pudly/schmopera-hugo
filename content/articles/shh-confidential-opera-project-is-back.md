@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-09-19T19:19:00+01:00"
 lastmod = "2016-09-20T17:37:00+01:00"
 publishDate = "2016-09-20T17:37:00+01:00"
+short_description = "After an incredibly successful first show in June, we are #stokedissimo to bring you another one of the opera world's most beloved works, sung by some of the best up-and-coming talent here in Toronto. "
 slug = "shh-confidential-opera-project-is-back"
 title = "Shh! Confidential Opera Project is back!"
 +++

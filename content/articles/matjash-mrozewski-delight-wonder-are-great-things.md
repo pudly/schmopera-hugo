@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-07-03T11:40:00-06:00"
 lastmod = "2017-07-03T22:22:00-06:00"
+preamble = "Toronto-based choreographer and director [Matjash Mrozewski](/scene/people/matjash-mrozewski/) is currently at [The Banff Centre](/scene/companies/the-banff-centre/) working alongside [Against the Grain Theatre](/scene/people/against-the-grain-theatre/)'s Joel Ivany as choreographer and movement director on Claude Vivier's \"opéra ritual du mort\", [*Kopernikus*](https://www.banffcentre.ca/events/kopernikus/20170706/1930). \n\nMrozewski has recently added opera to his award-winning résumé, which includes dance, choreography, and theatre direction on both sides of the Atlantic. We spoke with him about the common ground between professional dancers and singers, and the illuminating experience of working on both sides of the rehearsal room.\n\nFeature image: [Aleksandar Antonijevic](https://www.instagram.com/asquaredphoto/)."
 publishDate = "2017-07-03T22:07:00-06:00"
+short_description = "\"What fascinated me when I started talking to singers was this idea that in some cases they won't be ready vocally for some roles for another 5 to 10 years. It seems like a no-brainer now, but I remember thinking that this required a huge amount of patience and view of the long game.\""
 slug = "matjash-mrozewski-delight-wonder-are-great-things"
 title = "Matjash Mrozewski: &quot;Delight &amp; wonder are great things.&quot;"
 +++

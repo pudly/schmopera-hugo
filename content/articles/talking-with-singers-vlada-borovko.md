@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2018-10-28T16:17:00-04:00"
 lastmod = "2018-10-29T21:21:00-04:00"
+preamble = "Russian soprano [Vlada Borovko](/scene/people/vlada-borovko/) is currently in Chile, preparing to sing Adalgisa in Francesca Zambello's production of [*Norma* at Municipal de Santiago](http://municipal.cl/m/437/entries/-norma). Borovko spent two seasons as a young artist with the Royal Opera House in London from 2015 to 2017, during which she stepped in last-minute for performances of Violetta in *La traviata*, and Aspasia in [*Mitridate, re di Ponto*](/in-review-mitridate-re-di-ponto-at-roh/); she also made a recent return in the 2017/18 season to Covent Garden to sing Musetta in Richard Jones' production of *La bohème*.\n\nBorovko chats with us about her role in *Norma*, her disciplined approach to her health, and the importance of guidance in her professional life."
 publishDate = "2018-10-29T20:49:00-04:00"
+short_description = "\"Of course, school education does not give you large amounts of stage experience, in the same way as is provided by some young artist programs. During two seasons as a young artist in London, I was singing supporting roles on the main stage and making  unexpected debuts in the leading roles. Of course, in extreme situations you learn much faster.\""
 slug = "talking-with-singers-vlada-borovko"
 title = "Talking with singers: Vlada Borovko"
 +++

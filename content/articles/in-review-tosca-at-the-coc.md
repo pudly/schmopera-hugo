@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-05-06T23:04:00-04:00"
 lastmod = "2017-05-08T13:11:00-04:00"
 publishDate = "2017-05-08T11:37:00-04:00"
+short_description = "She seemed deaf to much of the text, and her over-conducting (opting for 6 beats when 2 would do) left her with little room to follow the voices' lead. Plus, her frustrating choice to leave a break for applause after both of Cavaradossi's arias seemed to completely undermine the careful dramatic timing in Puccini's writing. Thank goodness for Adrianne."
 slug = "in-review-tosca-at-the-coc"
 title = "In review: Tosca at the COC"
 +++

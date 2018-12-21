@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2018-10-24T20:25:00-04:00"
 lastmod = "2018-10-24T20:25:00-04:00"
+preamble = "I'll fess up: I'm a podcast addict. They're the morphine drip that gets me through the day. But I've only dabbled in shows that focus on classical voice, and that's a problem. As an antidote, I've found five series, with different focuses, that are worth checking out. Here they are:\n"
 publishDate = "2018-10-24T20:25:00-04:00"
+short_description = "I'll fess up: I'm a podcast addict. They're the morphine drip that gets me through the day. But I've only dabbled in shows that focus on classical voice, and that's a problem. As an antidote, I've found five series, with different focuses, that are worth checking out."
 slug = "5-classical-voice-podcasts-to-try"
 title = "5 classical voice podcasts to try"
 +++

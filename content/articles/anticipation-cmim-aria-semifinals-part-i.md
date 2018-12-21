@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2018-06-04T22:52:00-04:00"
 lastmod = "2018-06-04T22:52:00-04:00"
 publishDate = "2018-06-04T22:52:00-04:00"
+short_description = "With the anticipation of a good cliffhanger, I'll head back to Maison symphonique tomorrow night for the remaining six semifinalists. Make sure you watch live via CMIM's webcast, starting at 7:30pm ET. And if you missed Monday's Semifinal I, catch up below:"
 slug = "anticipation-cmim-aria-semifinals-part-i"
 title = "Anticipation: CMIM Aria Semifinals, part I"
 +++

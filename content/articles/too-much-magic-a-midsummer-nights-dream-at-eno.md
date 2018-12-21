@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-03-02T15:25:00-05:00"
 lastmod = "2018-03-02T17:13:00-05:00"
 publishDate = "2018-03-02T16:29:00-05:00"
+short_description = "Britten's stunning opera has made it into the standard operatic repertory not only because of the genius writing but because of its malleability as a piece. There are so many directions the design of this opera can go, and so many choices to be made for the character's relationships, thus every new production of Midsummer can feel like a new opera entirely."
 slug = "too-much-magic-a-midsummer-nights-dream-at-eno"
 title = "Too much magic? A Midsummer Night&#039;s Dream at ENO"
 +++

@@ -2,7 +2,9 @@
 categories = "Review"
 date = "2015-11-17T09:53:00-05:00"
 lastmod = "2015-11-20T11:08:00-05:00"
+preamble = "To send your donations in Elizabeth Krehm's name to the St. Michael's Hospital Intensive Care Unit, [click here](https://goo.gl/adPXDH)."
 publishDate = "2015-11-17T11:27:00-05:00"
+short_description = "Last night's Elizabeth Krehm Memorial Concert at Metropolitan United Church was a grand, cathartic experience. Elizabeth Krehm passed away in 2012, after spending a month in St. Michael's Hospital Intensive Care Unit; since 2013, the Krehm family has been holding benefit concerts, donating 100% of the money raised to the ICU in Elizabeth Krehm's name. This year was Mahler's 2nd, his \"Resurrection\" Symphony, with Evan Mitchell leading the Canzona Chamber Players Orchestra, the Pax Christi Chorale, and soloists Michèle Bogdanowicz and Rachel Krehm."
 slug = "powerful-stuff-the-elizabeth-krehm-memorial-concert"
 title = "Powerful stuff: the Elizabeth Krehm Memorial Concert"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2015-10-30T10:31:00-04:00"
 lastmod = "2015-10-30T11:17:00-04:00"
 publishDate = "2015-10-30T12:17:00-04:00"
+short_description = "Wednesday, October 28, 2015 at the Metropolitan United Church on the corner of Queen Street East and Church Street in the heart of Downtown Toronto was the the premiere of a new Canadian work by composer David Warrack."
 slug = "in-review-david-warracks-abraham"
 title = "In review: David Warrack&#039;s Abraham"
 +++

@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-07-09T13:25:00-06:00"
 lastmod = "2015-07-15T08:43:00-06:00"
 publishDate = "2015-07-15T08:33:00-06:00"
+short_description = "As a pianist and répétiteur, I don't envy conductors, either. Plenty of pianists do, and often their work repping in rehearsals or coaching singers is a stepping stone for them into the eventual world of conducting. I've never wanted to stand on the other side of the piano, largely because orchestras can be terrifying."
 slug = "potential-orchestra-mutiny-and-conductor-envy"
 title = "Potential orchestra mutiny and conductor envy"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-12-11T21:01:00-05:00"
 lastmod = "2017-12-11T22:15:00-05:00"
 publishDate = "2017-12-11T21:01:00-05:00"
+short_description = "They finished the first half with a stirring rendition of Erlkönig, a song which Coote navigated with a wonderful array of vocal colours and a beautiful sense of drama. Drake created a gorgeous picture of the dramatic song through the energy of his playing, the pair bringing to life the scene in an intense and visceral way. "
 slug = "winning-combos-coote-drake-schubert"
 title = "Winning combos: Coote, Drake, &amp; Schubert"
 +++

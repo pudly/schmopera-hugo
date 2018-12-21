@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2014-06-15T10:24:00-06:00"
 lastmod = "2016-07-06T21:54:00-06:00"
 publishDate = "2014-06-15T10:24:00-06:00"
+short_description = "I'm working on an opera right now, and this week, we go into tech week. It's a week where the role of the pianist becomes humbling. The tech rehearsals are so not about the music."
 slug = "the-pianists-tech-week-plight"
 title = "The pianist&#039;s tech week plight"
 +++

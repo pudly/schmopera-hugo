@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-09-05T14:19:00-04:00"
 lastmod = "2017-09-05T21:18:00-04:00"
+preamble = "Bass-baritone [Alfred Walker](/scene/people/alfred-walker/) spends his stage time in enviable roles, like Kurwenal (*Tristan und Isole*), Méphistophélès (*La damnation de Faust*), and the title roles in *Der fliegende Holländer*, *Bluebeard's Castle*, *Porgy and Bess*, and Massenet's *Don Quichotte*.\n\nThis month Walker is onstage with [San Francisco Opera](/scene/companies/san-francisco-opera/), singing Orest in Keith Warner's production of [*Elektra*](https://sfopera.com/1718season/201718-season/elektra/), opposite [Christine Goerke](/talking-with-singers-christine-goerke/) in the title role.\n\nIt was a treat to chat with Walker about the unique patience involved in being a low-voiced male in the opera industry, and his offstage love of golf."
 publishDate = "2017-09-05T21:18:00-04:00"
+short_description = "\"Singing is my most effective way of expressing thoughts and feelings.  It's very gratifying to show the audience who you are.  To show them real expression. Some artists have an instrument, some have pen and paper. I have a voice!\""
 slug = "talking-with-singers-alfred-walker"
 title = "Talking with singers: Alfred Walker"
 +++

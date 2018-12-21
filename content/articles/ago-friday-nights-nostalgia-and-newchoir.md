@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-02-06T10:18:00-05:00"
 lastmod = "2016-02-06T11:03:00-05:00"
 publishDate = "2016-02-06T10:56:00-05:00"
+short_description = "They offered up hits by CCR, The Guess Who (who share their Winnipeg hometown with newchoir pianist Donovan LeNabat), Elvis, and Pink Floyd. The choir is full of enthusiastic amateurs, the kind of ensemble that makes for excellent people watching; I always love looking at the individuals that make up a choir, and how you can see all the different reasons that they're there."
 slug = "ago-friday-nights-nostalgia-and-newchoir"
 title = "AGO Friday Nights: nostalgia and newchoir"
 +++

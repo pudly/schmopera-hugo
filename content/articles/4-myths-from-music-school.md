@@ -2,7 +2,9 @@
 categories = "Editorial"
 date = "2016-07-10T15:20:00-04:00"
 lastmod = "2016-07-20T10:48:00-04:00"
+preamble = "Like in any industry, there's only so much one can learn in school. In conservatories and post-secondary music programs, musicians hone their technique and prepare as best they can for their potential career as a performer; yet there are a few details that simply don't translate well between academic and professional environments. We're big advocates of schools and institutions, and it's important to know what they can and can't offer aspiring musicians. A few myths, debunked:"
 publishDate = "2016-07-10T17:59:00-04:00"
+short_description = "Like in any industry, there's only so much one can learn in school. In conservatories and post-secondary music programs, musicians hone their technique and prepare as best they can for their potential career as a performer; yet there are a few details that simply don't translate well between academic and professional environments. We're big advocates of schools and institutions, and it's important to know what they can and can't offer aspiring musicians. A few myths, debunked:"
 slug = "4-myths-from-music-school"
 title = "4 myths from music school"
 +++

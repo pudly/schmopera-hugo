@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-05-02T13:04:00-04:00"
 lastmod = "2017-05-03T09:44:00-04:00"
 publishDate = "2017-05-03T09:44:00-04:00"
+short_description = "We are constantly looking for more representation of women composers, which is why we were so upset to see Zazzo mocking Strozzi's music and Strozzi herself. Seated behind a music stand, he made faces that we took to be \"imitating a woman,\" like an exaggerated oil painting of a \"feminine\" gesture or sigh. We were happier when his face was buried in the stand."
 slug = "in-review-lawrence-zazzo-at-wigmore-hall"
 title = "In review: Lawrence Zazzo at Wigmore Hall"
 +++

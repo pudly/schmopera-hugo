@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2015-05-04T13:41:00-04:00"
 lastmod = "2015-05-04T13:45:00-04:00"
 publishDate = "2015-05-04T13:45:00-04:00"
+short_description = "A couple of quick finds for the online opera fans, who consistently bemoan the state of opera on the Internet. If you use Google Play Music, you'll be pleased to notice that there's a radio station that plays Metropolitan Opera broadcasts from their 2011-12 season. "
 slug = "googles-very-specific-opera-offerings"
 title = "Google&#039;s very specific opera offerings"
 +++

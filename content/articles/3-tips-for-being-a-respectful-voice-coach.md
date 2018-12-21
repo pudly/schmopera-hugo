@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2017-10-19T19:59:00-04:00"
 lastmod = "2017-10-23T13:07:00-04:00"
+preamble = "The relationship between a singer and a voice coach is something unique, often full of a huge amount of mutual respect for what the other brings to the table. It's a dynamic that's not quite the same as the one between a singer and voice teacher, largely because voice coaches are often not trained singers. The best coaches know this well, and they're constantly observing the line between what they can offer, and what the singer is capable of doing.\n\nThat mutual respect is at the root of how opera's best voice coaches work, and it's something singers should look for in their work. A coach's ability to demonstrate respect for a singer's work counts for a lot, and we have three ways to achieve it:"
 publishDate = "2017-10-22T16:39:00-04:00"
+short_description = "That mutual respect is at the root of how opera's best voice coaches work, and it's something singers should look for in their work. A coach's ability to demonstrate respect for a singer's work counts for a lot, and we have three ways to achieve it:"
 slug = "3-tips-for-being-a-respectful-voice-coach"
 title = "3 tips for being a respectful voice coach"
 +++

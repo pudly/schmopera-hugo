@@ -2,7 +2,9 @@
 categories = "Editorial"
 date = "2017-08-29T19:00:00-04:00"
 lastmod = "2017-08-30T11:50:00-04:00"
+preamble = "If you're an opera fan, you love being able to watch an HD broadcast of a show you missed. Also, if you're an opera fan, there are things about watching broadcasted opera that sort of suck the magic out of the experience. And if you're an opera singer, knowing your performance is being broadcast to cinemas and laptop screens around the world can add that extra spice of anxiety to an already-spicy job:"
 publishDate = "2017-08-30T10:34:00-04:00"
+short_description = "\"Mouth agape, molars in full view, eyebrows at the crown of the head, perhaps some bulging veins - they're all the product of singing one's face off. It's not always pretty, and the camera seems cruelly deft at showing you the sordid details.\""
 slug = "reason-947-we-dont-envy-singers-singing-on-camera"
 title = "Reason #947 we don&#039;t envy singers: singing on camera"
 +++

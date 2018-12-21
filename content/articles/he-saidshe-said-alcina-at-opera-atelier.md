@@ -3,6 +3,7 @@ categories = "Review"
 date = "2014-10-25T12:37:00-04:00"
 lastmod = "2015-04-14T10:15:00-04:00"
 publishDate = "2014-10-25T12:37:00-04:00"
+short_description = "Greg and I headed to the Elgin Theatre to see opening night of Opera Atelier's Alcina, and we teamed up on another joint review. Bonus: Greg can speak intelligently about Atelier Ballet, something I won't pretend to know well."
 slug = "he-saidshe-said-alcina-at-opera-atelier"
 title = "He Said/She Said: Alcina at Opera Atelier"
 +++

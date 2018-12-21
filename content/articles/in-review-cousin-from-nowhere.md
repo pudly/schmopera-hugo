@@ -3,6 +3,7 @@ categories = "Review"
 date = "2014-05-03T14:22:00-04:00"
 lastmod = "2015-04-27T18:05:00-04:00"
 publishDate = "2014-05-03T14:22:00-04:00"
+short_description = "I went to Toronto Operetta Theatre's Cousin From Nowhere, an English translation of Eduard Künneke's Das Vetter aus Dingsda. Whenever I go and hear TOT shows, I always end up hearing some new music that gets stuck in my head, sung by lovely Canadian talent. "
 slug = "in-review-cousin-from-nowhere"
 title = "In review: Cousin from Nowhere"
 +++

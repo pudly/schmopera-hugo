@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-03-30T22:35:00-04:00"
 lastmod = "2018-03-31T10:05:00-04:00"
 publishDate = "2018-03-30T22:35:00-04:00"
+short_description = "While I was not in attendance at the recent Maria Callas presentation in New York, neither was she. Within limits then, I can write about what is loosely termed a demonstration of holographic inspired illusion, as this consideration kicks off."
 slug = "opera-technology-hither-and-yon"
 title = "Opera Technology: Hither and Yon"
 +++

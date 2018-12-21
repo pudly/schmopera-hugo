@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-04-11T18:54:00-04:00"
 lastmod = "2015-04-12T20:00:00-04:00"
 publishDate = "2015-02-18T09:53:00-05:00"
+short_description = "Don’t get me wrong, Like I said, unions have their upsides for sure. They protect the artists (anyone doing a community theatre/amateur company production who’s lived through at 16-hour tech day understands) so they don’t become slaves. That’s great. The problem is, once you reach a certain echelon of companies (Canadian Opera Company, Opera Atelier, Pacific Opera Victoria, Toronto Operetta Theatre, et al…) you won’t even be considered for anything if you’re not a card-carrying member. "
 slug = "what-comes-first-the-union-or-the-gig"
 title = "What comes first, the union or the gig?"
 +++

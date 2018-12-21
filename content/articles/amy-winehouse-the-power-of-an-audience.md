@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-08-22T10:02:00+01:00"
 lastmod = "2016-08-23T09:22:00+01:00"
 publishDate = "2016-08-23T09:22:00+01:00"
+short_description = "What struck us about her story is the apparently objective frenzy that audiences have over the human voice. Singers of all genres are made to understand early on that their voice is only part of a puzzle (albeit a vital part); they need self-discipline, they need to hustle and make business contacts, they need to want their career to happen, and to make their career happen."
 slug = "amy-winehouse-the-power-of-an-audience"
 title = "Amy Winehouse &amp; the power of an audience"
 +++

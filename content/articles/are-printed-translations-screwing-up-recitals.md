@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-05-24T20:40:00-04:00"
 lastmod = "2015-05-25T13:35:00-04:00"
 publishDate = "2015-05-25T13:35:00-04:00"
+short_description = "After academia, it becomes less common to give spoken translations in voice recitals. It's one thing to hear an undergrad voice student tell you what \"Das Veilchen\" is about, but it's another thing entirely to hear the likes of Stephanie Blythe and Warren Jones reciting song texts."
 slug = "are-printed-translations-screwing-up-recitals"
 title = "Are printed translations screwing up recitals?"
 +++

@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-02-20T09:05:00-05:00"
 lastmod = "2016-02-20T09:50:00-05:00"
 publishDate = "2016-02-20T09:34:00-05:00"
+short_description = "Composers interested in submitting must do so by March 18, 2016, and FAWN is accepting a 1-5 minute recording of their work, plus the corresponding score, a bio, résumé, and a short summary of their compositional interests. The instrumentation is specific, and works must be include some or all of: tenor (voice), cello, electronics, percussion, and acoustic guitar."
 slug = "a-call-for-new-music-fawn-chamber-creative"
 title = "A call for new music: FAWN Chamber Creative"
 +++

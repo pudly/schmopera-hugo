@@ -3,6 +3,7 @@ categories = "News"
 date = "2017-10-20T19:04:00-04:00"
 lastmod = "2017-10-21T21:02:00-04:00"
 publishDate = "2017-10-21T20:53:00-04:00"
+short_description = "The first of the two concerts starts at 7pm, featuring operatic and musical theatre offerings from the likes of Simone Osborne, Erica Iris Huang, Asitha Tennekoon, Keith Klassen, and Alexander Hajek. Tickets are $30. At 10pm the Bösendorfer gets a workout, with performances by jazz pianist Robi Botos and concert virtuoso Younggun Kim. Tickets are also $30."
 slug = "putting-a-big-gift-to-great-use-tapestry-operas-disaster-relief-benefit-concert"
 title = "Putting a big gift to great use: Tapestry Opera&#039;s Disaster Relief Benefit concert"
 +++

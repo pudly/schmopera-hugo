@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-11-06T10:21:00-05:00"
 lastmod = "2017-11-06T16:56:00-05:00"
 publishDate = "2017-11-06T16:56:00-05:00"
+short_description = "She was a vixen, but her sensuality was brilliantly balanced with a heartbreaking awareness of her own impending death. Her singing was gorgeous - a rich voice full of colour and flexibility that blossomed into an unexpectedly full, gorgeous sound in the top."
 slug = "akhmetshinas-devastating-carmen-at-wiltons-music-hall"
 title = "Akhmetshina&#039;s &quot;devastating&quot; Carmen at Wilton&#039;s Music Hall"
 +++

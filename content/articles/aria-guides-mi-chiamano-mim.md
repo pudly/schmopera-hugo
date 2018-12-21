@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2016-05-25T21:41:00+01:00"
 lastmod = "2016-05-26T12:56:00+01:00"
+preamble = "Next up in our series of Aria Guides: [Mimì's first aria](http://store.schmopera.com/collections/womens-t-shirts/products/they-call-me-mimi-womens-t-shirt) from Puccini's infamous *La bohème*. The aria is Mimì's response to Rodolfo's \"Che gelida manina\", and together, they form one of opera's most amazing moments of \"getting to know you\". Puccini's scores are rich in detail, and he doesn't leave much to the imagination. But along with your teachers and coaches, we can offer a few starting points as you get to work on this [delicious bit of music](http://store.schmopera.com/collections/womens-t-shirts/products/they-call-me-mimi-womens-t-shirt)."
 publishDate = "2016-05-25T23:03:00+01:00"
+short_description = "Next up in our series of Aria Guides: Mimì's first aria from Puccini's infamous La bohème. The aria is Mimì's response to Rodolfo's \"Che gelida manina\", and together, they form one of opera's most amazing moments of \"getting to know you\". Puccini's scores are rich in detail, and he doesn't leave much to the imagination. But along with your teachers and coaches, we can offer a few starting points as you get to work on this delicious bit of music."
 slug = "aria-guides-mi-chiamano-mim"
 title = "Aria guides: &quot;Mi chiamano Mimì&quot;"
 +++

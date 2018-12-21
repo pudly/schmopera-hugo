@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-12-20T14:55:00-05:00"
 lastmod = "2015-12-22T15:03:00-05:00"
 publishDate = "2015-12-22T15:00:00-05:00"
+short_description = "I suppose it's the same as anybody with an interesting enough profession; I've probably stood in a Starbucks line with someone on Bay Street who just made himself $50M or something, or walked by a brain surgeon or two on my way up University Avenue. From my point of view, I simply saw another guy in a great suit, or a faceless person in scrubs outside a hospital. "
 slug = "artists-they-walk-among-us"
 title = "Artists: they walk among us"
 +++

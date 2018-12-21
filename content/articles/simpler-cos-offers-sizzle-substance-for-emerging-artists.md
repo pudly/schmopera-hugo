@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-05-04T18:40:00-04:00"
 lastmod = "2018-05-04T20:50:00-04:00"
 publishDate = "2018-05-04T20:50:00-04:00"
+short_description = "Of course, the success of Così fan tutte rests with the six singers and the magic they create both individually and in various combinations of duets, trios and more. For this production, two of the characters - Ferrando and Despina - are double cast, while the other four characters remain constant for the run."
 slug = "simpler-cos-offers-sizzle-substance-for-emerging-artists"
 title = "Simpler Così offers sizzle &amp; substance for Emerging Artists"
 +++

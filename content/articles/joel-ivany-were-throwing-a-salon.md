@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2016-11-03T14:55:00+00:00"
 lastmod = "2016-11-05T15:04:00+00:00"
 publishDate = "2016-11-05T14:43:00+00:00"
+short_description = "\"You're going to be mingling in the lobby and in the auditorium, and you're going to be meeting these people from the salon, which are the students from the school.\" It's a \"play-within-a-play\" idea, where the Cendrillon audiences live in the same world as the singers who perform the opera. The members of the cast each have two roles to play: their part in Viardot's opera, and the \"character\" who exists offstage during the salon evening."
 slug = "joel-ivany-were-throwing-a-salon"
 title = "Joel Ivany: &quot;We&#039;re throwing a salon.&quot;"
 +++

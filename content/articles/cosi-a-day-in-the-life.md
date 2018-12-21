@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2015-07-15T00:06:00-06:00"
 lastmod = "2015-07-16T01:30:00-06:00"
 publishDate = "2015-07-15T13:22:00-06:00"
+short_description = "It's the final week of the Centre for Opera Studies in Italy (COSI), a month-long, comprehensive summer training program that immerses emerging opera artists into the complete world of opera. Nearly a decade old, the program's illustrious alumni have gone on to grace the stage of the Met, staff the majority of the current COC Ensemble Studio, and launch opera companies."
 slug = "cosi-a-day-in-the-life"
 title = "COSI: A day in the life"
 +++

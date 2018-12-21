@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2016-05-05T09:43:00+01:00"
 lastmod = "2016-05-05T13:37:00+01:00"
+preamble = "It's hard to find a more opinionated bunch than a group of theatre and opera lovers. Those who are passionate about these art forms react not only to what and whom they see onstage, but to how productions are cast, funded, and marketed to audiences. \n\nUK-based theatre company [Improbable](http://www.improbable.co.uk/openspace/) has been holding Open Space conversations since 2005, under the banner of [Devoted & Disgruntled](http://www.devotedanddisgruntled.com/); it's a place where opinion and action have a tangible chance to meet. \"Devoted and Disgruntled was born out of frustration,\" writes Improbable Artistic Director Phelim McDermott. \"I was frustrated both with theatre and with myself. I knew things could be better in theatre and I also knew the way I responded to that situation could be more creative. I wanted to stop moaning and actually do something about it.\"\n\nWe spoke with [Sarah Grange](http://www.devotedanddisgruntled.com/profiles/sarahgrange/), Open Space producer and multidisciplinary artist, about the nature of these forums."
 publishDate = "2016-05-05T12:04:00+01:00"
+short_description = "As opera fans, we can't help but dream about attending similar forums hosted specifically by opera companies, large and small. There's an inevitable default to trial-and-error with programming seasons, casting singers, and developing relationships with audiences; with an equalizing environment similar to Devoted and Disgruntled, perhaps what audiences want out of opera can become less nebulous."
 slug = "great-ideas-devoted-disgruntled"
 title = "Great ideas: Devoted &amp; Disgruntled"
 +++

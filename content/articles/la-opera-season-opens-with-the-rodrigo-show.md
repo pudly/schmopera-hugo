@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-09-23T19:44:00-04:00"
 lastmod = "2018-09-25T10:21:00-04:00"
 publishDate = "2018-09-24T10:40:00-04:00"
+short_description = "Morris Robinson hits his third home run in a row at LA Opera as the blind, self-righteous, single-minded Grand Inquisitor.  Having wowed us as Zaccaria in Nabucco, and Sparafucile in Rigoletto, he’s become a regular at LA Opera and he lifts any production to the sublime in any role that he plays."
 slug = "la-opera-season-opens-with-the-rodrigo-show"
 title = "LA Opera season opens with The Rodrigo Show"
 +++

@@ -2,7 +2,9 @@
 categories = "Op-ed"
 date = "2016-12-01T09:39:00-05:00"
 lastmod = "2017-08-02T21:42:00-04:00"
+preamble = "New York-based soprano Emily Peragine was the subject of one of our [first-ever interviews](/spotlight-on-emily-peragine/). Now, she's a first-time contributor to Schmopera, so let us know if you want her to write some more. If you/your friend are interested in writing for us, get in touch at [contribute@schmopera.com.](mailto:contribute@schmopera.com)"
 publishDate = "2016-12-02T06:17:00-05:00"
+short_description = "But for real...for some reason, I have found that the \"day job\" has a negative connotation within the performing arts/musician community. As if accepting the day job is a form of \"giving up,\" a \"distraction.\" That because I am focusing my attentions on this alternative to support myself, (and you know… feed myself,) that somehow I have lost focus and am not giving the dream my all, that I am in a sense... throwing in the towel, or \"not working hard enough.\" "
 slug = "in-defense-of-the-day-job-"
 title = "In defense of the &quot;day&quot; job "
 +++

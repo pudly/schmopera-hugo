@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-10-21T21:27:00-04:00"
 lastmod = "2018-10-22T08:21:00-04:00"
 publishDate = "2018-10-21T21:27:00-04:00"
+short_description = "The setup for the Widow's entrance was hilarious, with all the men in the cast fussing over themselves and falling over each other to get to the door. The whole scene is an awkward, funny, madcap buildup to the heroine's entrance."
 slug = "vos-merry-widow-a-comedic-tourdeforce"
 title = "VO&#039;s Merry Widow a comedic tour-de-force"
 +++

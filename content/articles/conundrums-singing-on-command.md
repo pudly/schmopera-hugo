@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2017-03-13T13:59:00+00:00"
 lastmod = "2017-03-14T13:18:00+00:00"
 publishDate = "2017-03-14T13:13:00+00:00"
+short_description = "I've heard countless responses to this request, from the benign, \"I'm not warmed up,\" to the passive-aggressive, \"Will you perform your job for me afterwards, then?\" to the downright aggressive, \"I'm not a performing monkey,\" and have admittedly offered a few of my own responses when I haven’t been in the mood to sing."
 slug = "conundrums-singing-on-command"
 title = "Conundrums: singing on command"
 +++

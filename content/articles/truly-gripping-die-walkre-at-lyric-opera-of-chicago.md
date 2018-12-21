@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-11-08T20:08:00-05:00"
 lastmod = "2017-11-08T21:58:00-05:00"
 publishDate = "2017-11-08T21:58:00-05:00"
+short_description = "This is a dark and ponderous tale that is driven by the psychologies of the handful of principal characters who share between themselves several lengthy dialogues. Wagner's worlds are inherently immense and overly ambitious (that is, garish) productions of his Ring in particular merely distract."
 slug = "truly-gripping-die-walkre-at-lyric-opera-of-chicago"
 title = "&quot;Truly gripping&quot;: Die Walküre at Lyric Opera of Chicago"
 +++

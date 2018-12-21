@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2015-08-02T13:11:00+02:00"
 lastmod = "2015-08-07T12:19:00+02:00"
+preamble = "[Keith Lam](/scene/people/keith-lam/) and I met in the way that many, many opera-loving Canadians meet: at Opera NUOVA. The Hong Kong-born, Toronto-based baritone is a member of the [Tafelmusik Chamber Choir](/scene/companies/tafelmusik-baroque-orchestra-chamber-choir/), and he has sung with the very excellent [Canadian Opera Company](/scene/companies/canadian-opera-company/) Chorus. As a soloist, Keith has lit up stages with [Against the Grain Theatre](/scene/companies/against-the-grain/), [The Banff Centre](/scene/companies/the-banff-centre/), Aspen Opera Theater, and he wrote me recently mid-rehearsals for *Le nozze di Figaro* at [Highlands Opera Studio](/scene/companies/highlands-opera-studio/). \n\nIf you know Keith, he has already charmed you. If you haven't yet met him, start by reading his frank and wise interview. \"Singing is my medicine,\" he says."
 publishDate = "2015-08-07T06:00:00+02:00"
+short_description = "Keith Lam and I met in the way that many, many opera-loving Canadians meet: at Opera NUOVA. The Hong Kong-born, Toronto-based baritone is a member of the Tafelmusik Chamber Choir, and he has sung with the excellent Canadian Opera Company Chorus. As a soloist, Keith has lit up stages with Against the Grain Theatre, The Banff Centre, Aspen Opera Theater, and he wrote me recently mid-rehearsals for Le nozze di Figaro at Highlands Opera Studio. "
 slug = "spotlight-on-keith-lam"
 title = "Spotlight on: Keith Lam"
 +++

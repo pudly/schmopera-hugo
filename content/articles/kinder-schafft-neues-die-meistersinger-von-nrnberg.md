@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-03-20T10:57:00+00:00"
 lastmod = "2017-03-21T09:22:00+00:00"
 publishDate = "2017-03-21T08:52:00+00:00"
+short_description = "Die Meistersinger is a story about tradition, and whether or not it's good for anything; it exposes how people treat tradesman differently from artists, and the contempt that makers of \"high art\" can have for the opinions of the general public. Holten's production seems to shine extra light on the tradition of using women as prizes, even complicating the matter with an Eva Pogner who doesn't even get the chance to manipulate the system to her own advantage."
 slug = "kinder-schafft-neues-die-meistersinger-von-nrnberg"
 title = "&quot;Kinder schafft neues&quot;: Die Meistersinger von Nürnberg"
 +++

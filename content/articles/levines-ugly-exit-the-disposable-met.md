@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2018-03-13T09:49:00-04:00"
 lastmod = "2018-03-13T09:58:00-04:00"
 publishDate = "2018-03-13T09:58:00-04:00"
+short_description = "Now, as I read the conclusion of the Met's gross display of Righteous Response™ - their investigation, launched with seriousness only after this group of victims came forward with corroborating, damning accounts of abuse by Levine - I say, let it fall."
 slug = "levines-ugly-exit-the-disposable-met"
 title = "Levine&#039;s ugly exit, &amp; the disposable Met"
 +++

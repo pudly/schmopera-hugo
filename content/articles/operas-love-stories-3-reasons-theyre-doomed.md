@@ -2,7 +2,9 @@
 categories = "Humour"
 date = "2016-02-13T13:03:00-05:00"
 lastmod = "2018-02-13T21:13:00-05:00"
+preamble = "Happy Valentine's Days, readers!\n\nSince there's no shortage of love-related topics surrounding opera, we figured we wouldn't do the day justice without a shout-out to the tragic, doomed romance in our favourite shows. Sure, there are happy endings; those usually come out of everybody taking a time out and telling each other the truth. \n\nBut why do all our preferred operatic love stories fall apart? The specifics are unique to each show, of course (mutual death by poison, general insecurities on both parties, etc.), but we think we can boil the problems down to three big categories:"
 publishDate = "2016-02-14T08:00:00-05:00"
+short_description = "But why do all our preferred operatic love stories fall apart? The specifics are unique to each show, of course (mutual death by poison, general insecurities on both parties, etc.), but we think we can boil the problems down to three big categories."
 slug = "operas-love-stories-3-reasons-theyre-doomed"
 title = "Opera&#039;s love stories: 3 reasons they&#039;re doomed"
 +++

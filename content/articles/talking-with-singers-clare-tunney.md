@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2018-01-18T17:15:00-05:00"
 lastmod = "2018-01-18T21:19:00-05:00"
+preamble = "Clare Tunney shares with many of her fellow sopranos a love for Mozart's music, and next month she'll get to indulge. She sings the role of Arminda in Ryedale Festival Opera's production of [*La finta giardiniera*](https://chilternarts.com/event/mozart-garden-disguises-la-finta-giardiniera-opera/), revived on **February 10** at the Chiltern Arts Festival.\n\nWe spoke with the British soprano about finding ease in well-crafted music for the voice, and the variety of roles still on her career wish-list."
 publishDate = "2018-01-18T21:19:00-05:00"
+short_description = "\"Mozart writes for the voice, so it feels totally open and liberating to sing. As a performer, because all the emotion is already in his music, you just need to a vessel that delivers it, which is amazingly freeing!\""
 slug = "talking-with-singers-clare-tunney"
 title = "Talking with singers: Clare Tunney"
 +++

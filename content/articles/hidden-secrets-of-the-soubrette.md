@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-03-07T06:10:00-05:00"
 lastmod = "2017-04-20T09:06:00-04:00"
 publishDate = "2016-03-07T08:06:00-05:00"
+short_description = "A soubrette is like a moving target, where casting depends on everything around her; in one house, a soprano may be a Nannetta, and elsewhere she's Alice Ford. The term \"soubrette\" is more of a convenient appendix tacked on to the larger context of what a singer can do. So, soubrettes, we hope you're taking these roles like the compliments they are."
 slug = "hidden-secrets-of-the-soubrette"
 title = "Hidden secrets of the soubrette"
 +++

@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-07-27T17:24:00-04:00"
 lastmod = "2017-08-01T22:22:00-04:00"
+preamble = "This month, young audiences can dive into the [world of Beatrix Potter](http://www.underbellyedinburgh.co.uk/whats-on/the-tales-of-peter-rabbit-jemima-puddle-duck) at the Underbelly Edinburgh Fringe. Soprano and actress Michelle Todd and the Children's Classic Concerts Festival Ensemble team up to perform Stephen McNeff's musical settings of *The Tales of Peter Rabbit and Jemima Puddle-Duck*. [Performances run **August 5-26** at 12:00 (except August 14)](http://www.underbellyedinburgh.co.uk/whats-on/the-tales-of-peter-rabbit-jemima-puddle-duck), and tickets start at just £7.\n\nWe spoke with Michelle about the timeless nature of Beatrix Potter's stories, the unique task of performing for young audiences, and the joy of singing McNeff's \"charming, tuneful score\"."
 publishDate = "2017-08-01T22:01:00-04:00"
+short_description = "\"Beatrix Potter's storytelling was straightforward and honest. She never talked down to her young readers whilst still making them believe that it's perfectly normal for animals to talk and interact with humans.\""
 slug = "dont-miss-beatrix-potter-at-edinburgh-fringe"
 title = "Don&#039;t miss: Beatrix Potter at Edinburgh Fringe"
 +++

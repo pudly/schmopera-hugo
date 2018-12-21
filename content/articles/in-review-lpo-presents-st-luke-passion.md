@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-03-05T10:09:00+01:00"
 lastmod = "2017-03-06T09:39:00+01:00"
 publishDate = "2017-03-06T09:28:00+01:00"
+short_description = "What struck us most about this performance was how clear these characters appeared to this modern audience. The passion is truly a timeless story, and to see these thousand-year-old character’s come to life in an extremely relatable way is why we yearn to keep seeing passions performed."
 slug = "in-review-lpo-presents-st-luke-passion"
 title = "In review: LPO presents St. Luke Passion"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-04-27T16:18:00-04:00"
 lastmod = "2018-04-27T16:18:00-04:00"
 publishDate = "2018-04-27T16:18:00-04:00"
+short_description = "I would place Merz and Osborn's opera somewhere in the middle of absurdist and literalist. They attempt to explore the psychological relationship of mother and son through repetitive material and an assertive musical language."
 slug = "uncomfortable-premieres-the-mother"
 title = "Uncomfortable premieres: The Mother"
 +++

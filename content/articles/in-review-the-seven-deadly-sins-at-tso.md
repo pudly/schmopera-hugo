@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-06-15T08:35:00-06:00"
 lastmod = "2017-06-16T07:48:00-06:00"
 publishDate = "2017-06-15T21:29:00-06:00"
+short_description = "Ivany seems to take a different tack with their relationship. It almost seems this time around as though Anna I (the singer) is actually part of Anna II's (the dancer) demise. She seems to be the one encouraging her sister to indulge in the seven sins in order to make their money. #CouPIMPgh."
 slug = "in-review-the-seven-deadly-sins-at-tso"
 title = "In review: The Seven Deadly Sins at TSO"
 +++

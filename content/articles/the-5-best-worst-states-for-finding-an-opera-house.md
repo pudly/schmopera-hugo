@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2015-09-15T09:18:00-04:00"
 lastmod = "2015-09-16T09:11:00-04:00"
 publishDate = "2015-09-16T08:35:00-04:00"
+short_description = "The other day, this Canadian blogger was thinking about the United States. Specifically, I was wondering just how many opera houses there are in a country of over 300 million people. So, I gathered some quick stats on the number of opera houses (or organizations producing professional opera) versus millions of people, in each state."
 slug = "the-5-best-worst-states-for-finding-an-opera-house"
 title = "The 5 best &amp; worst states for finding an opera house"
 +++

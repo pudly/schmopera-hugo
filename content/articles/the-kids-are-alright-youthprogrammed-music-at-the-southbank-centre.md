@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-10-03T11:22:00+01:00"
 lastmod = "2016-10-04T10:12:00+01:00"
 publishDate = "2016-10-04T10:12:00+01:00"
+short_description = "Festival Maker Layla, aged 17, says: \"We've tried to incorporate young musicians into the programme: we’ve looked for young people who are already achieving, to make the point that this isn’t about young people tomorrow, it's about them today and what they are already doing.\""
 slug = "the-kids-are-alright-youthprogrammed-music-at-the-southbank-centre"
 title = "The kids are alright: youth-programmed music at the Southbank Centre"
 +++

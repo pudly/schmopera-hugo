@@ -2,6 +2,7 @@
 date = "2014-04-27T19:08:00-04:00"
 lastmod = "2015-04-27T18:06:00-04:00"
 publishDate = "2014-04-27T19:08:00-04:00"
+short_description = "Ah, Opera Atelier. As far as Canada's opera scene goes, OA is really its own genre. For those unfamiliar, Opera Atelier produces 17th- and 18th- century ballet/opera; the shows are directed and choreographed by co-artistic directors Marshall Pynkoski and Jeannette Lajeunesse Zingg."
 slug = "in-review-perse"
 title = "In review: Persée"
 +++

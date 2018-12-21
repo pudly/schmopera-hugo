@@ -3,6 +3,7 @@ categories = "News"
 date = "2017-01-26T15:54:00+00:00"
 lastmod = "2017-01-27T11:48:00+00:00"
 publishDate = "2017-01-27T10:50:00+00:00"
+short_description = "Paris accueille les chanteurs canadiens à bras ouverts. Comme on peut en témoigner depuis le début de la saison 2016-2017, le public parisien semble beaucoup apprécier les talents de chez nous. C'est au Théâtre des Champs-Élysées que Julie Boulianne a chanté, en décembre dernier, sa première Donna Elvira dans Don Giovanni. Étienne Dupuis terminait, il y a quelques semaines, une série de représentations d'Iphigénie en Tauride à l'Opéra Garnier et Karina Gauvin triomphait cette semaine, aux côtés de Marie-Nicole Lemieux, dans la Rodelinda de Handel."
 slug = "201718-canadians-in-paris"
 title = "2017/18: Canadians in Paris"
 +++

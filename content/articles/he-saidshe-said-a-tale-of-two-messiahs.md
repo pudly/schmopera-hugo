@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-12-20T14:27:00-05:00"
 lastmod = "2016-12-21T10:09:00-05:00"
 publishDate = "2016-12-21T09:15:00-05:00"
+short_description = "Herr Handel was welcomed to the stage with all the flair and fervour of the biggest glam-rock superstar. It was heartening to see that kind of reaction. After a few housekeeping announcements disguised as a sketch with Handel, The Earl of Sandwich (apparently it's important to know that it's pronounced ['samɪtʃ]), and a silver tray of what I later found out to be actual turkey sandwiches, we had a quick warm-up and were off to the races."
 slug = "he-saidshe-said-a-tale-of-two-messiahs"
 title = "He said/She said: a tale of two Messiahs"
 +++

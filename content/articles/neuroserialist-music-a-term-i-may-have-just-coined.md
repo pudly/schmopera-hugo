@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2014-02-10T10:00:00-05:00"
 lastmod = "2015-04-28T20:47:00-04:00"
 publishDate = "2014-02-10T10:00:00-05:00"
+short_description = "Professor Eduardo Miranda at the University of Plymouth is conducting a really neat experiment. It involves having a subject wear a cap that measures brain waves, and those measurements are sent to a computer. The computer program then assigns various types of brainwave activity to a set musical phrase. "
 slug = "neuroserialist-music-a-term-i-may-have-just-coined"
 title = "Neuroserialist music: a term I may have just coined"
 +++

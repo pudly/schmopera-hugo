@@ -2,7 +2,9 @@
 categories = "Op-ed"
 date = "2017-10-12T13:53:00-04:00"
 lastmod = "2017-10-13T18:41:00-04:00"
+preamble = "This article was originally published on [Medium](https://medium.com/@dkempson/operas-sexual-assault-secret-164c5ef0edc2), reposted here with permission from the author."
 publishDate = "2017-10-12T21:15:00-04:00"
+short_description = "There are the rumors of programs stockpiled with shockingly handsome young singers, the conductor who trolls dating apps for singers in his production, the director who always has to show singers how to stage a love scene by taking the soprano's place and kissing the male lead."
 slug = "operas-sexual-assault-secret"
 title = "Opera&#039;s sexual assault secret"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-05-04T11:23:00-04:00"
 lastmod = "2018-05-04T11:38:00-04:00"
 publishDate = "2018-05-04T11:38:00-04:00"
+short_description = "Whenever you see the name Robert Lepage you can rest assured you are in for a visual treat. If you've been paying any attention to the theatre world at large you'll know that Lepage is known for turning heads and making audiences sit up and take note - this production is no exception. "
 slug = "still-incredible-robert-lepages-nightingale"
 title = "&quot;Still incredible&quot;: Robert Lepage&#039;s Nightingale"
 +++

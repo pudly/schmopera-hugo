@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-04-15T10:41:00+01:00"
 lastmod = "2016-04-15T11:08:00+01:00"
 publishDate = "2016-04-15T11:00:00+01:00"
+short_description = "This recital was the best use of the \"crowd pleasing\" tactic. Camarena chose repertoire with which he just couldn't have gone wrong, but he followed up expectation with perfect delivery. It's no wonder that he holds rank along with Pavarotti and Flórez, as the third singer in 70 years to encore an aria at the Metropolitan Opera."
 slug = "in-review-javier-camarena-at-wigmore-hall"
 title = "In review: Javier Camarena at Wigmore Hall"
 +++

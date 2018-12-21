@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-03-30T13:33:00-04:00"
 lastmod = "2018-03-31T10:04:00-04:00"
 publishDate = "2018-03-30T13:33:00-04:00"
+short_description = "Throughout all the major demands on his body, never once did the character of Akakiy falter or weaken. We empathetically follow his journey from introverted, obsessive-complusive to local celebrity and back down again. We see in him our own need to be held in high regard by people we do, and don't, know."
 slug = "a-perfect-fit-the-overcoat"
 title = "A perfect fit: The Overcoat"
 +++

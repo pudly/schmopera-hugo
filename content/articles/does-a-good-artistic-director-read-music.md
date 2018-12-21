@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-04-10T21:30:00-04:00"
 lastmod = "2015-04-10T21:30:00-04:00"
 publishDate = "2015-03-24T09:30:00-04:00"
+short_description = "Do musically untrained artistic directors add to the problem of alienation between opera and its audiences? Or are opera companies right to leave arts administration to those who make it their day job, and leave the art to the artists?"
 slug = "does-a-good-artistic-director-read-music"
 title = "Does a Good Artistic Director Read Music?"
 +++

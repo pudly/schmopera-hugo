@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2017-01-05T10:43:00+00:00"
 lastmod = "2017-01-06T10:56:00+00:00"
 publishDate = "2017-01-06T10:47:00+00:00"
+short_description = "\"It reminds them that that part of them is perhaps not lost in a place that is dehumanizing a lot of the time\" the two-time Grammy Award-winner said in an interview with The Today Show on NBC. \"The first day I was there... my instinct was 'Don't make eye contact, don't make eye contact' and forty-five minutes later I was staring into the eyes of these inmates and we were singing to each other.\""
 slug = "didonato-inspires-inmates-through-song"
 title = "DiDonato inspires inmates through song"
 +++

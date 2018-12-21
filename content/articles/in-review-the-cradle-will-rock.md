@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-07-14T14:08:00-04:00"
 lastmod = "2017-07-15T13:31:00-04:00"
 publishDate = "2017-07-15T13:24:00-04:00"
+short_description = "Thanks to this production, I am ready, as a devotee of Blitzstein’s work, to let go of Marc on the piano stool and allow his authorial Authority to grow, to allow the ongoing struggle to reconcile Power, Authority, and Truth to be carried forward through the lens of a conductor’s vision. I encourage everyone else to witness as Blitzstein’s powerful orchestral Cradle at last begins to earn its rightful Authority by catching this production while the paint’s still wet."
 slug = "in-review-the-cradle-will-rock"
 title = "In review: The Cradle Will Rock"
 +++

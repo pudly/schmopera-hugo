@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2015-01-09T09:00:00-05:00"
 lastmod = "2015-04-11T23:35:00-04:00"
+preamble = "<p>\n\tIn the midst of grim news for plenty of North American companies, I love to hear about new places to catch some opera. Mezzo-soprano <a href=\"http://www.theoshawaopera.com/#!staff/clbi\" target=\"_blank\">Kristine Dandavino</a> is Artistic Director of <a href=\"http://www.theoshawaopera.com/\" target=\"_blank\">Oshawa Opera</a>, founded in 2013, and looking forward to finishing its second season this April with <em>La traviata</em> on April 19th, and a reprisal of Norma on April 25th. I'm always in awe of people who start opera companies, no matter what size, and so I took the chance to ask Kristine a bit about this new company in what is perhaps an unlikely community for opera.\n</p>"
 publishDate = "2015-01-09T09:00:00-05:00"
+short_description = "In the midst of grim news for plenty of North American companies, I love to hear about new places to catch some opera. Mezzo-soprano Kristine Dandavino is Artistic Director of Oshawa Opera, founded in 2013, and looking forward to finishing its second season this April with La traviata on April 19th, and a reprisal of Norma on April 25th. I’m always in awe of people who start opera companies, no matter what size, and so I took the chance to ask Kristine a bit about this new company in what is perhaps an unlikely community for opera. "
 slug = "kristine-dandavino-on-oshawa-opera"
 title = "Kristine Dandavino on Oshawa Opera"
 +++

@@ -3,6 +3,7 @@ categories = "News"
 date = "2017-08-28T15:42:00-04:00"
 lastmod = "2017-08-29T11:41:00-04:00"
 publishDate = "2017-08-29T11:41:00-04:00"
+short_description = "We've got contributors in Chicago, New York, Philadelphia, Atlanta, Los Angeles, Miami, Edmonton, London, Frankfurt, and more. That means we can broaden our coverage of the 2017/18 season and catch more artists at work. With the help of our new writers, we'll be able to better represent the cool and complementary web of opera happenings across the world."
 slug = "schmopera-coming-to-an-opera-house-near-you"
 title = "Schmopera: coming to an opera house near you!"
 +++

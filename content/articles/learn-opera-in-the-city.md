@@ -3,6 +3,7 @@ categories = "News"
 date = "2015-09-25T11:21:00-04:00"
 lastmod = "2015-09-25T13:43:00-04:00"
 publishDate = "2015-09-25T13:30:00-04:00"
+short_description = "Looking to enhance your opera-going experience? The Royal Conservatory of Music offers Opera in the City, a four-week look into two of Toronto's upcoming shows, La traviata (opening at the Canadian Opera Company October 8th) and Armide, opening October 22nd with Opera Atelier."
 slug = "learn-opera-in-the-city"
 title = "Learn: Opera in the City"
 +++

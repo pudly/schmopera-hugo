@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2014-12-04T12:46:00-05:00"
 lastmod = "2015-04-13T17:57:00-04:00"
 publishDate = "2014-12-04T12:46:00-05:00"
+short_description = "Opera doesn't make money, it never has, and we all know it. I was recently asked about opera's economy and why opera companies have never functioned as a for-profit theatre company. The theoretical comparison was between the Canadian Opera Company and Mirvish Productions. "
 slug = "can-opera-make-money"
 title = "Can Opera Make Money?"
 +++

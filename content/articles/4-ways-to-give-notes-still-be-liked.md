@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2016-06-02T03:43:00-06:00"
 lastmod = "2016-07-06T16:12:00-06:00"
+preamble = "Part of the job of the music staff working on an opera is to deliver notes to the singers. Notes, in this context, are basically \"things the singer is doing wrong\". If you're a music staff member with compassion, this process can leave you feeling at best like Toby from *The Office*, or at worst, Estelle Costanza from *Seinfeld*.\n\nThere's an art to delivering constructive criticism, and we can help with that art. You could almost say we're about to give you notes on how to give notes. #meta."
 publishDate = "2016-06-03T14:19:00-06:00"
+short_description = "Part of the job of the music staff working on an opera is to deliver notes to the singers. Notes, in this context, are basically \"things the singer is doing wrong\". If you're a music staff member with compassion, this process can leave you feeling at best like Toby from The Office, or at worst, Estelle Costanza from Seinfeld."
 slug = "4-ways-to-give-notes-still-be-liked"
 title = "4 ways to give notes &amp; still be liked"
 +++

@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2017-08-25T12:25:00-04:00"
 lastmod = "2017-08-26T10:22:00-04:00"
 publishDate = "2017-08-25T21:07:00-04:00"
+short_description = "\"Nadine Sierra misses out on London debut\", reads Lebrecht's headline. He goes on: \"The US soprano was due to open the Covent Garden season in Richard Jones's new production of La Bohème, but she has cried off. Her replacements are, if anything, more interesting.\""
 slug = "opera-meanies-the-august-edition"
 title = "Opera meanies: the August edition"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-02-18T09:59:00-05:00"
 lastmod = "2018-02-19T21:09:00-05:00"
 publishDate = "2018-02-19T21:09:00-05:00"
+short_description = "Director Guerrero, using only a small acting space and nothing more than a door, a chair and bed as set pieces, utilized beautiful and, in some cases, symbolic rear projections to underpin the production, which is as much about the heart-breaking issue of immigration as it is about the heart-felt music."
 slug = "viva-la-operetta"
 title = "&quot;Viva la operetta!&quot;"
 +++

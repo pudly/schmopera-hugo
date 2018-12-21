@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2015-01-12T10:11:00-05:00"
 lastmod = "2015-04-11T23:30:00-04:00"
 publishDate = "2015-01-12T10:11:00-05:00"
+short_description = "A Chicago-based non-profit organization is trying to help 92-year-old Diana see her first opera in about 8 years.\n\nOne Dream has set up a crowdfunding campaign, hoping to raise $1400 to pay for Diana’s ticket for a Lyric Opera of Chicago production, as well as handicap accessible transportation, and a videographer to capture her night out. "
 slug = "help-get-diana-to-the-opera"
 title = "Help Get Diana to the Opera"
 +++

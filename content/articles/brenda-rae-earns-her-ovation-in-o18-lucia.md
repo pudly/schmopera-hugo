@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-09-22T14:00:00-04:00"
 lastmod = "2018-10-03T13:54:00-04:00"
 publishDate = "2018-09-22T14:00:00-04:00"
+short_description = "As a musical force, opera is an art form that relies on the power of the unamplified human voice to move audiences. The voices of this cast undoubtedly provide the power to bring this opera to life. Whether you have never seen Lucia before, or you are a bel canto connoisseur, these vocalists and musicians make for a rewarding and awe-inspiring night at the opera."
 slug = "brenda-rae-earns-her-ovation-in-o18-lucia"
 title = "Brenda Rae earns her ovation in O18 Lucia"
 +++

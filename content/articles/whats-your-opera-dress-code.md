@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-10-17T13:23:00+01:00"
 lastmod = "2016-10-19T09:32:00+01:00"
 publishDate = "2016-10-19T09:27:00+01:00"
+short_description = "The opera world is often full of rich-looking theatres, expensive concessions, and wealthy patrons; but in truth, the vast majority of the artists making it all happen are not in the wealthy camp. They spend staggering proportions of their income on a great pair of shoes, a well-tailored suit, and a few great dresses that they hope will carry them through seasons of donor dinners, after-show cocktail parties, and other events where the starving artists need to look anything but broke."
 slug = "whats-your-opera-dress-code"
 title = "What&#039;s your opera dress code?"
 +++

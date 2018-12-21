@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-05-14T21:36:00+01:00"
 lastmod = "2016-05-15T10:12:00+01:00"
 publishDate = "2016-05-15T09:00:00+01:00"
+short_description = "Like we've done in previous summers, we'll keep up our coverage of the operatic goings on across the globe, and we'll also be able to keep you in the loop with the artists of this year's Open Space programme. We also hope to get to the faculty a bit better, which this year includes baritone Russell Braun and soprano Adrianne Pieczonka, and the Canadian Opera Company's General Director, Alexander Neef."
 slug = "banffbound-2016"
 title = "Banff-bound, 2016"
 +++

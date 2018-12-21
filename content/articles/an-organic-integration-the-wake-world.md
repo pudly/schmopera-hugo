@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-09-19T14:54:00-04:00"
 lastmod = "2017-09-19T22:20:00-04:00"
 publishDate = "2017-09-19T21:25:00-04:00"
+short_description = "The audience literally follows Lola (Maeve Höglund) as she embarks on a wild love story with The Fairy Prince (Rihab Chaieb). Soprano Maeve Höglund sings exquisitely and brings an infectious wonder to the role. Rihab Chaieb has a rapturous voice, full of lush colors."
 slug = "an-organic-integration-the-wake-world"
 title = "An organic integration: The Wake World"
 +++

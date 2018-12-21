@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-02-25T16:41:00+00:00"
 lastmod = "2017-02-26T11:21:00+00:00"
 publishDate = "2017-02-26T11:21:00+00:00"
+short_description = "Not only did Hinterhäuser make for an uncomfortable start to a recital, but he seemed to behave it poor, selfish taste. Goerne seemed prepared to continue singing, even if Hinterhäuser needed to scramble to save the missed page-turn; yet this pianist decided to stop the whole thing entirely, draw attention to the human error that may have happened beside him, and force Goerne to restart."
 slug = "at-arms-length-goerne-hinterhuser-in-recital"
 title = "At arm&#039;s length: Goerne &amp; Hinterhäuser in recital"
 +++

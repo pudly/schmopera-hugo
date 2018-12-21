@@ -2,7 +2,9 @@
 categories = "Op-ed"
 date = "2015-12-26T10:48:00-05:00"
 lastmod = "2015-12-26T10:58:00-05:00"
+preamble = "For more by guest contributor Rich Coburn, be sure to [check out his blog](http://www.richcoburn.com/blog/)!"
 publishDate = "2015-12-26T10:58:00-05:00"
+short_description = "People listen to substantially different music at Christmas than during the rest of the year. How different? Consider the information I found in this article in Time, listing the 19 most recorded holiday songs since 1978 (the earliest data they had). Those songs were, on average, around 164 years old, and the newest was 65 years old. They were basically a bunch of older religious songs, and a few secular ones composed around the 1940’s."
 slug = "the-ghost-of-christmas-carols-past"
 title = "The Ghost of Christmas Carols Past"
 +++

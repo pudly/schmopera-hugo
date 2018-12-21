@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-01-24T11:08:00-05:00"
 lastmod = "2018-01-24T11:08:00-05:00"
 publishDate = "2018-01-24T11:08:00-05:00"
+short_description = "After suffering trauma to the head while in character as Henry IV, Enrico (Holger Falk) regains consciousness still believing himself to be the 11th century emperor. So as not to rattle him, Enrico's relatives maintain an elaborate lie involving costumes, alternate personas and staff trained to appease him."
 slug = "clairvoyant-art-enrico-at-oper-frankfurt"
 title = "Clairvoyant art: Enrico at Oper Frankfurt"
 +++

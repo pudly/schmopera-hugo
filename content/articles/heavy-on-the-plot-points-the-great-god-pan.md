@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-03-12T12:07:00-04:00"
 lastmod = "2018-03-13T21:12:00-04:00"
 publishDate = "2018-03-13T21:12:00-04:00"
+short_description = "This is a fast-moving plot told through ten characters, with the six scenes totalling a brisk 85 minutes of music. At times, the story felt a bit overstuffed. With so many necessary plot points to get through, character growth got stifled; I found myself wanting a better sense of what motivated these characters, and who they are as individuals."
 slug = "heavy-on-the-plot-points-the-great-god-pan"
 title = "Heavy on the plot points: The Great God Pan"
 +++

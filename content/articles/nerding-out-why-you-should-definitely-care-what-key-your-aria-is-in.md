@@ -3,6 +3,7 @@ categories = "How-to"
 date = "2017-10-29T21:56:00-04:00"
 lastmod = "2017-10-30T12:00:00-04:00"
 publishDate = "2017-10-29T22:07:00-04:00"
+short_description = "So. Back to the key of your aria. Basically, in the Baroque and Classical eras, the out-of-tuneness of various keys became associated with different affects. The theory was that a listener could be swayed to feel differently when they heard music played in G major versus in B-flat major, or in d minor versus f minor."
 slug = "nerding-out-why-you-should-definitely-care-what-key-your-aria-is-in"
 title = "Nerding out: why you should definitely care what key your aria is in"
 +++

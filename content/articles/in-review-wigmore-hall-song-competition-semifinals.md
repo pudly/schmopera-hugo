@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-09-06T16:10:00-04:00"
 lastmod = "2017-09-06T22:14:00-04:00"
 publishDate = "2017-09-06T21:56:00-04:00"
+short_description = "I loved the way all the competitors took care of the transitions between songs, whether waiting to allow a moment to land or to keep the story going as to not drop the ball during a dead silence. It all proves that the silence is just as important as the music."
 slug = "in-review-wigmore-hall-song-competition-semifinals"
 title = "In review: Wigmore Hall Song Competition semi-finals"
 +++

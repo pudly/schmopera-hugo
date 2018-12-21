@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2014-12-02T08:00:00-05:00"
 lastmod = "2015-04-13T21:04:00-04:00"
 publishDate = "2014-12-02T08:00:00-05:00"
+short_description = "Soprano Angela Meade, singing Mathilde in the Turin Royal Theatre's in-concert production of Rossini's William Tell at Roy Thomson Hall. Photo: Dario Acosta\nLooking for something to catch this weekend in Toronto? Head to Roy Thomson Hall to hear some Rossini."
 slug = "turin-royal-theatre-william-tell-in-toronto"
 title = "Turin Royal Theatre: William Tell in Toronto"
 +++

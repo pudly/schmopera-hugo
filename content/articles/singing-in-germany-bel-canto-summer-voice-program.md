@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2016-04-05T21:16:00+01:00"
 lastmod = "2016-04-06T11:55:00+01:00"
+preamble = "The [Bel Canto Summer Voice Program](http://belcantosinging.com/) offers an intensive opportunity for emerging singers to hone their skills in beautiful Munich, Germany. Founded by Artistic Director Narelle Martinez, Bel Canto offers a variety of programs in July for young artists, focusing on everything from German language classes to collaborative piano to acting and voice lessons. This summer, Bel Canto introduces its new two-week [Audition Training Program](http://belcantosinging.com/programs/audition-training-program/), running August 26 to September 10, which allows singers to meet and audition for [German agents](http://zav.arbeitsagentur.de/nn_462294/kv/Navigation/Kontakt/Muenchen.html__nnn=true), familiarize themselves with the German Fach system, and learn to put together a stellar résumé.\n\nWe spoke with Martinez about the program, along with mezzo-soprano and [Bayerische Staatsoper](/scene/companies/bayerische-staatsoper/) Ensemble member Angela Brower, who gave a masterclass to the 2015 participants, and stage director Barbara Schöne, who will conduct training sessions in auditioning and scene study in 2016."
 publishDate = "2016-04-06T11:55:00+01:00"
+short_description = "\"Unfortunately, colleges and universities offer far too little in order to prepare young people to the reality of the day to day work in this profession. Following the completion of their vocal studies, young singers attend their first auditions and are completely stunned when they realise how high the competition is as that there are many others good singers on the market. Young professionals must be prepared and ready to compete for the same roles against very experienced singers of all ages.\""
 slug = "singing-in-germany-bel-canto-summer-voice-program"
 title = "Singing in Germany: Bel Canto Summer Voice Program"
 +++

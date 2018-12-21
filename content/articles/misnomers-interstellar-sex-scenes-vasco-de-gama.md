@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-02-26T15:30:00-05:00"
 lastmod = "2018-02-26T19:35:00-05:00"
 publishDate = "2018-02-26T19:35:00-05:00"
+short_description = "In the 21st century, any production of an opera about a 15th-century colonizer is going to be about race and white guilt, whether it intends to be or not. While Kratzer adds in some key pieces of information that provide a certain degree of critical comment on the white colonial mindset, certain visual decisions throughout the production muddy that stance."
 slug = "misnomers-interstellar-sex-scenes-vasco-de-gama"
 title = "Misnomers &amp; interstellar sex scenes: Vasco de Gama"
 +++

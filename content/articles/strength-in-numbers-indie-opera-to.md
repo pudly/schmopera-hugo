@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2016-10-28T10:35:00+01:00"
 lastmod = "2016-10-28T12:23:00+01:00"
 publishDate = "2016-10-28T12:23:00+01:00"
+short_description = "The launch of Indie Opera Toronto includes profiles of each company's history and creative teams, brand new photography by Dahlia Katz, integrated social media for the Indie Opera platforms and each company's own social media outlets, an integrated calendar for all upcoming productions and short films by Darren Bryant."
 slug = "strength-in-numbers-indie-opera-to"
 title = "Strength in numbers: Indie Opera T.O."
 +++

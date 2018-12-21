@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-09-13T23:43:00+01:00"
 lastmod = "2016-09-14T10:34:00+01:00"
 publishDate = "2016-09-14T10:15:00+01:00"
+short_description = "In theory, having a cast of big, hall-filling voices can seem like a pointless exercise (a futile precaution?), when the whole opera is designed to clear the way for easy, flexible, and funny singing. Yet this cast was a complete win from top to bottom; as they each sang their first notes of the evening, we were struck (and satisfied) with how these rich, go-big-or-go-home voices managed everything from dizzying coloratura to cackling comedy."
 slug = "in-review-the-barber-of-seville-at-roh"
 title = "In review: The Barber of Seville at ROH"
 +++

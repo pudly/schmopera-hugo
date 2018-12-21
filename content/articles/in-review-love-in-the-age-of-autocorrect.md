@@ -3,6 +3,7 @@ categories = "Review"
 date = "2014-08-22T09:30:00-04:00"
 lastmod = "2015-04-16T17:37:00-04:00"
 publishDate = "2014-08-22T09:30:00-04:00"
+short_description = "Last night I went to the opening of Loose TEA Music Theatre‘s new production, Love in the Age of AutoCorrect. It was a double bill of updated takes on Stravinsky’s Mavra and Mozart’s Bastien und Bastienne, this time entitled Andrew and Andrea. It was out on the pretty terrace of Atelier Rosemarie Umetsu, with a friendly-looking bar to create a beautiful night of outdoor theatre. "
 slug = "in-review-love-in-the-age-of-autocorrect"
 title = "In Review: Love in the Age of AutoCorrect"
 +++

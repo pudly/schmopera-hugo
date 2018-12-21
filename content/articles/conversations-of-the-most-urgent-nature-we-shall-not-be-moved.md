@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-09-17T18:25:00-04:00"
 lastmod = "2017-09-17T19:31:00-04:00"
 publishDate = "2017-09-17T19:31:00-04:00"
+short_description = "We Shall Not Be Moved asks hard questions about race, gender, flaws in our education system, and more. This work brings up parts of history that many would have us sweep under the rug. Great art has the ability to teach us the difficult lessons our education has deliberately excluded. After the performance was over, Bill T. Jones said that he wanted this opera to start a conversation."
 slug = "conversations-of-the-most-urgent-nature-we-shall-not-be-moved"
 title = "Conversations &quot;of the most urgent nature&quot;: We Shall Not Be Moved"
 +++

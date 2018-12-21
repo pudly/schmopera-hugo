@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2014-11-19T14:39:00-05:00"
 lastmod = "2015-04-27T17:56:00-04:00"
 publishDate = "2014-11-19T14:39:00-05:00"
+short_description = "One afternoon a few years back, after discovering these on YouTube, I showed them to a singer friend of mine; I figured they'd find the collection of operatic misses as fascinating as I did. My singer friend didn't find it fascinating, perhaps due to the sympathy he couldn't help but feel for the voices. "
 slug = "i-kind-of-like-black-pearls"
 title = "I kind of like Black Pearls..."
 +++

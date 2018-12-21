@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-09-26T17:40:00-04:00"
 lastmod = "2017-09-27T09:49:00-04:00"
 publishDate = "2017-09-26T21:11:00-04:00"
+short_description = "With the help of pianists Stéphane Mayer and Rachael Kerr, the seven singers of the 2017/18 Ensemble Studio broke the ice with a single aria each, showing off their start-of-season stuff. It was a collection of picks from the standard operatic canon for this concert entitled, Meet the Ensemble Studio; safe as their choices may have been, the young singers each made strong statements about what they were offering the rapt audience."
 slug = "meeting-for-lunch-the-coc-ensemble-studio-in-recital"
 title = "Meeting for lunch: the COC Ensemble Studio in recital"
 +++

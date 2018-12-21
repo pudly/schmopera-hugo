@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-11-18T10:12:00+00:00"
 lastmod = "2016-11-19T12:57:00+00:00"
 publishDate = "2016-11-19T12:52:00+00:00"
+short_description = "Hearing Ryan describe his greatest dream moved the Lynx team to find a way to use art song to elevate his voice and others like his. \"I want to see the world not by the whole, but by the all too beautiful small things.\" - Ryan, age 17."
 slug = "art-song-initiative-commissions-texts-by-children-with-autism"
 title = "Art song initiative commissions texts by children with autism"
 +++

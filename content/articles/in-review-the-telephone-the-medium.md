@@ -3,6 +3,7 @@ categories = "Review"
 date = "2015-11-06T09:42:00-05:00"
 lastmod = "2015-11-06T12:17:00-05:00"
 publishDate = "2015-11-06T10:43:00-05:00"
+short_description = "The University of Toronto Opera opened a double bill last night, pairing together two of Menotti's most well-loved works, The Telephone (1946) and The Medium (1945). I saw the first of two casts in what I thought was a beautifully detailed production by director Michael Albano."
 slug = "in-review-the-telephone-the-medium"
 title = "In review: The Telephone &amp; The Medium"
 +++

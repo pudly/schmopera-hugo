@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2016-05-30T19:23:00+01:00"
 lastmod = "2016-05-31T22:51:00+01:00"
 publishDate = "2016-05-31T11:07:00+01:00"
+short_description = "I got to chat with a few of the next generation involved in Burry's The Sword in the Schoolyard: Viva Egoyan-Rokeby (young Morgan), David Grace (young Arthur), Emma Thornton-Ockrant (young Gwen), and Henry Kemeny-Wodlinger (young Mordred)."
 slug = "tfco-opera-trek-the-next-generation"
 title = "TFCO: Opera Trek, The Next Generation"
 +++

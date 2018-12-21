@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2017-05-29T20:01:00-04:00"
 lastmod = "2017-05-29T21:14:00-04:00"
 publishDate = "2017-05-29T21:14:00-04:00"
+short_description = "After all, opera isn't just music, and it isn't just theatre. If it's well-written opera, the music we hear is directly connected with the action and text. I often wonder: if people had heard famous film scores - Psycho, Star Wars, etc. - without having ever seen the films, would they find the music appealing? Would they find the Imperial March catchy, or full of wrong notes? If they thought those sawing strings from Hitchcock's shower scene sounded screechy and ugly, could they be blamed?"
 slug = "why-is-it-ugly-other-good-questions-about-new-opera"
 title = "&quot;Why is it ugly?&quot; &amp; other good questions about new opera"
 +++

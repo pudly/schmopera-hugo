@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2015-07-02T00:25:00-04:00"
 lastmod = "2017-05-25T10:09:00-04:00"
+preamble = "Some folks have an inner pulse that rivals most metronomes. Others have to work for rhythmic perfection. Singers, we know you all get bad reputations among classical music circles for not being able to count, and frankly, sometimes you earn the stereotype. Singers who work regularly have excellent rhythm, and they know how to make music within a beat structure. Here are 5 quick ways to develop great rhythmic skills and squash the metronome-toting haters."
 publishDate = "2015-07-03T09:08:00-04:00"
+short_description = "Some folks have an inner pulse that rivals most metronomes. Others have to work for rhythmic perfection. Singers, we know you all get bad reputations among classical music circles for not being able to count, and frankly, sometimes you earn the stereotype. Singers who work regularly have excellent rhythm, and they know how to make music within a beat structure."
 slug = "5-ways-to-build-your-rhythmic-chops"
 title = "5 ways to build your rhythmic chops"
 +++

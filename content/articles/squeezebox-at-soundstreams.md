@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-01-12T13:27:00-05:00"
 lastmod = "2016-01-15T12:14:00-05:00"
 publishDate = "2016-01-15T11:58:00-05:00"
+short_description = "Macerollo will also play one of over 200 works composed for him by R. Murray Schafer, the \"surreal\" La testa d'Adriana, with fab soprano Carla Huhtanen. \"Dressed in a tattered tuxedo and top hat, he luresthe audience to his side show, the bodiless head of a woman saved at the instant before her death. She is awakened by his music and sings an aria of gurgles, trills, whispers, and pops before subsiding once again into her comatose state.\""
 slug = "squeezebox-at-soundstreams"
 title = "Squeezebox at Soundstreams"
 +++

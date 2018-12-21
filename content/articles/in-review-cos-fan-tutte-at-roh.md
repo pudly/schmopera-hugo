@@ -2,7 +2,9 @@
 categories = "Review"
 date = "2016-09-23T09:28:00+01:00"
 lastmod = "2016-09-23T12:59:00+01:00"
+preamble = "Feature image: Angela Brower (Dorabella), Daniel Behle (Ferrando), Alessio Arduini (Guglielmo), Corinne Winters (Fiordiligi), ROH. Photo: Stephen Cummiskey."
 publishDate = "2016-09-23T12:55:00+01:00"
+short_description = "It's not a bad solution to look to the show's theatrical context, itself a way of addressing the suspended disbelief. If the action takes place in a theatre, each scene can be something new, even heavy-handed in its symbolism. There are chorus members and stage crew to help create scenes that depict temptation, or a fab wedding banquet, or an entire train station."
 slug = "in-review-cos-fan-tutte-at-roh"
 title = "In review: Così fan tutte at ROH"
 +++

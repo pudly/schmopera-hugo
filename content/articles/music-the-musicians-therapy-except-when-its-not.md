@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2016-02-08T22:07:00-05:00"
 lastmod = "2017-11-30T21:05:00-05:00"
 publishDate = "2016-02-15T10:37:00-05:00"
+short_description = "One the one hand, you could argue that the test of a true musician is similar to that saying, \"you know who your real friends are when your friendship costs them time and money.\" A real musician is one who wants to make and listen to music when there's no deadline, and no paycheque on the horizon. Right? I don't actually think that's right, but it's a nagging idea."
 slug = "music-the-musicians-therapy-except-when-its-not"
 title = "Music: the musician&#039;s therapy, except when it&#039;s not"
 +++

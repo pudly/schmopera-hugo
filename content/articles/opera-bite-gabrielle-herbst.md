@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2015-04-10T23:46:00-04:00"
 lastmod = "2015-04-12T19:56:00-04:00"
 publishDate = "2015-02-25T09:46:00-05:00"
+short_description = "I stumbled upon a beautifully articulated answer to one of our industry’s biggest questions, in Carena Liptak’s interview for Noisey with Gabrielle Herbst. Gabrielle is a singer and composer; she’s a member of the band GABI, and her first opera, Bodiless, had its premiere last year at New York’s Roulette. The question posted was simple: “How do you deal with making an archaic form accessible?”"
 slug = "opera-bite-gabrielle-herbst"
 title = "Opera Bite: Gabrielle Herbst"
 +++

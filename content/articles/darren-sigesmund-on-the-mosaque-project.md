@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2018-07-13T20:07:00-04:00"
 lastmod = "2018-07-24T12:16:00-04:00"
+preamble = "What does Canadian music sound like? It's a question that the members of Ensemble Made in Canada address with their newly commissioned [Musical Mosaïque](https://www.ensemblemadeincanada.com/mosaique-project/about-the-project/), a suite for piano quartet written by 14 different Canadian composers who make a musical nod to a particular province, territory, or region of the country.\n\nToronto-based jazz trombonist and composer Darren Sigesmund is one of these 14 composers, and he evokes Prince Edward Island in his first work for piano quartet. We spoke with him about his musical aesthetic, and what it means to be a part of this very Canadian project.\n"
 publishDate = "2018-07-24T10:59:00-04:00"
+short_description = "\"Although the piece is written for a classical ensemble, I composed using my own sensibility as a writer. Classical music is very much a part of my sound world, and there are similar compositional concepts that cross over into jazz and vice versa. It merely comes down to articulating those ideas on paper.\""
 slug = "darren-sigesmund-on-the-mosaque-project"
 title = "Darren Sigesmund on the Mosaïque Project"
 +++

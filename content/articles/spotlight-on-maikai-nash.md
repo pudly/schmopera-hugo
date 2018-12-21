@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2015-06-25T23:29:00-06:00"
 lastmod = "2015-06-26T08:04:00-06:00"
+preamble = "[Maika'i Nash](/scene/people/maikai-nash/) is one of Canada's busiest pianists and vocal coaches. He is the Resident Music Director of [Opera 5](/scene/companies/opera-5/), and he has worked with singers in Toronto, Montréal, and New York City, making his debut at Carnegie Hall's Weill Recital Hall this past season with soprano Andrey Luna. I think that vocal coaches have one of the best vantage points from which to observe the opera industry and its singers; Maika'i spoke articulately on what it's like to coach, and that \"ethereal place when performing, when everything feels perfectly connected and you feel a bit invincible.\""
 publishDate = "2015-06-26T08:04:00-06:00"
+short_description = "Maika'i Nash is one of Canada's busiest pianists and vocal coaches. He is the Resident Music Director of Opera 5, and he has worked with singers in Toronto, Montréal, and New York City, making his debut at Carnegie Hall's Weill Recital Hall this past season with soprano Andrey Luna."
 slug = "spotlight-on-maikai-nash"
 title = "Spotlight on: Maika&#039;i Nash"
 +++

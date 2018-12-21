@@ -3,6 +3,7 @@ categories = "Review"
 date = "2014-10-16T15:57:00-04:00"
 lastmod = "2015-04-14T14:14:00-04:00"
 publishDate = "2014-10-16T15:57:00-04:00"
+short_description = "On Wednesday, October 15th I made my way on over the Four Seasons Centre at University and Queen Street West to check out the Canadian Opera Company‘s production of Madama Butterfly by Giacomo Puccini (duh, Greg.)g"
 slug = "in-review-madama-butterfly"
 title = "In review: Madama Butterfly"
 +++

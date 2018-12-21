@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2017-04-09T13:37:00+01:00"
 lastmod = "2017-04-10T13:02:00+01:00"
 publishDate = "2017-04-10T12:20:00+01:00"
+short_description = "Leave it to Krzysztof Penderecki, the Polish composer known for writing terrifying music, to bring to life every detail of the Passion according to the Gospel St. Luke. His St. Luke Passion is an eerie, uncomfortable, atonal setting; it's scored for three choruses, a boys chorus, three soloists, a narrator, and a huge orchestra that includes odd instruments like saxophones, vibraphones, and a harmonium."
 slug = "5-reasons-to-get-your-drama-fix-from-oratorio"
 title = "5 reasons to get your drama fix from oratorio"
 +++

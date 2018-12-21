@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2018-06-21T21:05:00-04:00"
 lastmod = "2018-06-22T20:24:00-04:00"
+preamble = "[dell'Arte Opera Ensemble](http://dellarteopera.org/)  is gearing up for its 16th annual Summer Festival, centred this year on two of music's most notable \"professional rivals\", Mozart and Salieri. On the summer's lineup are productions of the Vienna version of Mozart's *Don Giovanni* (Aug. 11-25), the U.S. premiere of Salieri's *La Cifra* (Aug. 18-26), and evenings of scenes and songs by the two contemporary composers.\n\nWe spoke with Artistic Director Christopher Fecteau about dell'Arte's upcoming season, and the program's unique approach to training opera's young artists."
 publishDate = "2018-06-21T22:04:00-04:00"
+short_description = "\"Because it's such a long process, and because of the intensity of the repertory/festival format at the end, our training regimen is quite intense for the singers.  Some come away truly ready to leap forward in their careers; others in the ensemble and smaller roles get a real taste of what it takes to do things well - the tremendous amount of work and commitment required.\""
 slug = "dellarte-opera-nods-to-mozart-salieri-in-2018"
 title = "dell&#039;Arte Opera nods to Mozart &amp; Salieri in 2018"
 +++

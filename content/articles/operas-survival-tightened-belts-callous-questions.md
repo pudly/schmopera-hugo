@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2016-03-17T17:21:00+00:00"
 lastmod = "2016-03-18T16:32:00+00:00"
 publishDate = "2016-03-18T16:23:00+00:00"
+short_description = "All of this is nearing an uncomfortable suggestion. We ask, honestly and without further insinuations: when was the last time that the chorus, or the orchestra, was the most memorable element of an opera?"
 slug = "operas-survival-tightened-belts-callous-questions"
 title = "Opera&#039;s survival: tightened belts &amp; callous questions"
 +++

@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2016-06-11T11:23:00-06:00"
 lastmod = "2016-06-19T15:06:00-06:00"
+preamble = "American soprano [Sydney Mancasola](/scene/people/sydney-mancasola/) is one of opera's most refreshing rising stars. Already under her belt are enviable roles like Cleopatra in Handel's *Giulio Cesare*, the title role in Massenet's *Manon*, and the heroines in *Les contes d'Hoffmann*; and when it comes to her singing career, she's a strong advocate of following her own instincts. \n\nAs we continue our Spotlight Series, it was a total pleasure to hear Mancasola's passionate, honest thoughts on following one's own path, on singing the truth, and the music that is \"as normal and essential to me as air, water, and food.\""
 publishDate = "2016-06-18T02:14:00-06:00"
+short_description = "\"It's probably a bit of dangerous advice, but selfishly, I'd like to see young singers push the limits a little more. Sing the aria you love that no one thinks you should sing, tell your director that you don't buy the staging they are giving you, give up the big YAP to sing the role of your dreams at a small company. Make the choice that will fulfill you spiritually.\""
 slug = "spotlight-on-sydney-mancasola"
 title = "Spotlight on: Sydney Mancasola"
 +++

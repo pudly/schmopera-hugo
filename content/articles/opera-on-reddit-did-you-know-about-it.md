@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2014-01-14T16:07:00-05:00"
 lastmod = "2015-04-28T22:46:00-04:00"
 publishDate = "2014-01-14T16:07:00-05:00"
+short_description = "For those who know what Reddit is: there's an opera subreddit! For those who don't: www.reddit.com is a website where all the content has been submitted by users in the form of links. The links can be to anything. ANYTHING."
 slug = "opera-on-reddit-did-you-know-about-it"
 title = "opera on reddit: did you know about it?"
 +++

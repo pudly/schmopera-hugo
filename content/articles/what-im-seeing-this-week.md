@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2014-04-23T16:07:00-04:00"
 lastmod = "2015-04-27T18:22:00-04:00"
 publishDate = "2014-04-23T16:07:00-04:00"
+short_description = "This weekend, I'm going to see more stuff.\n\nOn Friday night, I'm catching opening night of Engelbert Humperdinck's Hänsel & Gretel, presented by Metro Youth Opera. I love this show, I know a few people involved, and I always fall for a fairy tale."
 slug = "what-im-seeing-this-week"
 title = "What I&#039;m seeing this week"
 +++

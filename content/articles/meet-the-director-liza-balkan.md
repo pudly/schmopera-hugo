@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2015-11-01T14:28:00-05:00"
 lastmod = "2015-11-06T15:41:00-05:00"
+preamble = "[Liza Balkan](/scene/people/liza-balkan/) is a Canadian dancer, actor, writer, and director of theatre and opera. After seeing her fantastic work with [The Bicycle Opera Project](/in-review-shadow-box/) this summer, I spoke with Balkan between rehearsals at The Glenn Gould School for their upcoming production of Xavier Montsalvatge's *Puss in Boots*, with Luciano Berio's *Folk Songs*. She talks about her work with Canada's fringe opera scene, and what it feels like to hear the words she writes set to music.\n"
 publishDate = "2015-11-03T11:57:00-05:00"
+short_description = "\"Why do I do it? I love telling stories.\" Balkan agrees that the process can be different from theatre to opera, from workshop to finished product, but it's always inspiring. \"The collective minds in a room, what can be created that way is just so delicious.\""
 slug = "meet-the-director-liza-balkan"
 title = "Meet the director: Liza Balkan"
 +++

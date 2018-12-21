@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2015-09-25T11:56:00-04:00"
 lastmod = "2017-07-18T16:16:00-04:00"
 publishDate = "2015-09-28T08:00:00-04:00"
+short_description = "\"If I'm cast in something, I show up incredibly prepared, I'm a very good colleague, and I do the things I can do to make it work. There's so much of it that we can't control, as you know. *So much* of it that you can't control. But I do the best that I can every day, I work really hard with the things I can control,\" she laughs. \"Which isn't a lot.\""
 slug = "talking-with-singers-othalie-graham"
 title = "Talking with singers: Othalie Graham"
 +++

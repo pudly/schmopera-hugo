@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-06-18T13:04:00-04:00"
 lastmod = "2018-06-19T07:43:00-04:00"
 publishDate = "2018-06-18T13:04:00-04:00"
+short_description = "Ko's rendition of Yentl's \"Papa, Can You Hear Me?\" and \"A Piece of Sky\" were both touching and fraught with emotion to open and close the show. Her aria \"Elle a fui, la tourterelle\" had wonderful moments of pathos, and her floated high notes were bright and brilliant."
 slug = "shining-a-light-toward-tomorrow"
 title = "Shining a light: Toward Tomorrow"
 +++

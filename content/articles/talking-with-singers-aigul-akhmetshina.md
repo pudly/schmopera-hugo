@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-11-29T12:26:00-05:00"
 lastmod = "2017-12-03T20:53:00-05:00"
+preamble = "Russian mezzo-soprano [Aigul Akhmetshina](/scene/people/aigul-akhmetshina/) is in the middle of her first season as a Jette Parker Young Artist at the Royal Opera House. In last month's production of *La tragédie de Carmen* at Wilton's Music Hall, Akhmetshina gave a [\"devastating\" performance](/akhmetshinas-devastating-carmen-at-wiltons-music-hall/) of the title role; later this season, she's set to sing Mercédès in Barrie Kosky's production of *Carmen*, and Sonyetka in Richard Jones' critically acclaimed production of *Lady Macbeth of Mtsensk*.\n\nAkhmetshina spoke with us about her exhaustive love for her work, and her own opinions on that iconic figure on every mezzo's mind, Carmen."
 publishDate = "2017-12-03T20:53:00-05:00"
+short_description = "\"But I like to spend my free time with my close friends who've become like family to me. I love walking in a park and my favourite place in London at present is Greenwich Park. It is a magical place! The more I get to know London, the deeper I fall in love with it!\""
 slug = "talking-with-singers-aigul-akhmetshina"
 title = "Talking with singers: Aigul Akhmetshina"
 +++

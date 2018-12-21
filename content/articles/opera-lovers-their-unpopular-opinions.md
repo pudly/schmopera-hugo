@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2016-04-24T17:22:00+01:00"
 lastmod = "2016-04-26T09:33:00+01:00"
 publishDate = "2016-04-26T09:25:00+01:00"
+short_description = "There's something to be said about voicing unpopular opinions; it's an important thing, to criticize, and it's even more important when that criticism seems to come up against opinions so widely held that they're instead deemed as facts. Just like French Baroque music is delightful and violas are less interesting than violins, Mozart is perfect, and the Earth is round, right?*"
 slug = "opera-lovers-their-unpopular-opinions"
 title = "Opera lovers &amp; their unpopular opinions"
 +++

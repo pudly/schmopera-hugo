@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-05-18T20:15:00-04:00"
 lastmod = "2017-05-23T14:48:00-04:00"
 publishDate = "2017-05-23T14:35:00-04:00"
+short_description = "Sokolović's work brims over with imagination of sound. In setting the human voice, she never seems to run out of ideas, and with this new cycle, she brought out audible reactions of delight from the audience."
 slug = "good-first-impressions-casps-latest-commission-by-ana-sokolovi"
 title = "Good first impressions: CASP&#039;s latest commission by Ana Sokolović"
 +++

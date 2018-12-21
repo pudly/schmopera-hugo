@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-03-18T21:04:00-04:00"
 lastmod = "2018-03-19T21:43:00-04:00"
 publishDate = "2018-03-19T21:43:00-04:00"
+short_description = "The chemistry between these two singer-actors in their respective roles was electrifying and irresistible. Your heart soared watching their passion ignite and then sink as their lives and personalities diverged."
 slug = "fellow-travelers-is-luminous-in-chicago"
 title = "Fellow Travelers is &quot;luminous&quot; in Chicago"
 +++

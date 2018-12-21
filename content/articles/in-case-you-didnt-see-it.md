@@ -2,6 +2,7 @@
 date = "2014-03-08T16:05:00-05:00"
 lastmod = "2015-04-27T18:33:00-04:00"
 publishDate = "2014-03-08T16:05:00-05:00"
+short_description = "A recent viral video has been pinging around social media-ville, showing an adorable little girl conducting along to choral music in church. And she conducts that choral music from her guts. Have a look:"
 slug = "in-case-you-didnt-see-it"
 title = "In case you didn&#039;t see it..."
 +++

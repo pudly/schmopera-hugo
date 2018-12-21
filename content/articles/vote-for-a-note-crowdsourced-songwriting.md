@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2015-09-01T14:54:00-04:00"
 lastmod = "2015-09-03T08:30:00-04:00"
 publishDate = "2015-09-03T07:30:00-04:00"
+short_description = "What do you get when you ask a crowd what a song should sound like? CrowdSound.net is currently completing a melody, generated one note at a time by people on the Internet. Users can vote for each subsequent note in a melody, choosing from a list of diatonic pitches."
 slug = "vote-for-a-note-crowdsourced-songwriting"
 title = "Vote for a note: crowdsourced songwriting?"
 +++

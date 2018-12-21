@@ -3,6 +3,7 @@ categories = "Review"
 date = "2015-04-26T11:08:00-04:00"
 lastmod = "2015-04-26T12:50:00-04:00"
 publishDate = "2015-04-26T12:45:00-04:00"
+short_description = "Yesterday I went to hear Metro Youth Opera's production of Berlioz' Béatrice & Bénédict at Daniels Spectrum. I hadn't seen the opera before, and whenever I plan to see a piece for the first time, I rarely look up details like a plot synopsis. I'm one of those people that thinks that opera fans should have the option of enjoying a piece without needing to do homework, and I was pleased that MYO's B&B was clear and entertaining, language barriers (and Shakespeare) aside."
 slug = "in-review-batrice-bndict-at-myo"
 title = "In review: Béatrice &amp; Bénédict at MYO"
 +++

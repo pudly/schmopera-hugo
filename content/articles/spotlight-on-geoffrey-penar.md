@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2016-06-25T18:06:00-06:00"
 lastmod = "2016-06-29T07:57:00-06:00"
+preamble = "American baritone [Geoffrey Penar](/scene/people/geoffrey-penar/) first caught our attention in the world premiere of Darren Russo's [*Storybook*](/in-review-modern-family-opera/), presented by [Opera 5](/scene/people/opera-5/) in early 2015. Recently, he returned to Opera 5 to sing Frank in their spring production of [*Die Fledermaus*](/die-fledermaus-die-fleder-fabulous/). A graduate of McGill University, Penar already has a long history on the stage, both in opera and music theatre. He has a wonderfully calm attitude about his career, and his pursuit of a professional life onstage comes from a real love of the process as well as the spotlight. He chats with us about truly understanding texts in any language, and the importance of eye contact."
 publishDate = "2016-06-29T07:48:00-06:00"
+short_description = "\"I think when it feels bad for me, I'm not thinking about the action of the scene, I'm just worried about the next phrase. I remember a coaching with Patrick Hansen (head of Opera McGill). He told me, \"Geoff, just act it! Stop thinking so much. Just make sense of the words and act it.\" And it fixed so many of the technical problems I was having instantly.\""
 slug = "spotlight-on-geoffrey-penar"
 title = "Spotlight on: Geoffrey Penar"
 +++

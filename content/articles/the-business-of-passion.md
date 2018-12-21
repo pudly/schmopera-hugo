@@ -2,7 +2,9 @@
 categories = "Op-ed"
 date = "2014-05-24T08:00:00-04:00"
 lastmod = "2017-08-10T10:34:00-04:00"
+preamble = "This is a guest post by Canadian tenor, composer and brilliant auteur, Isaiah Bell. He's [written for Schmopera before](/on-the-ego/). Enjoy."
 publishDate = "2014-05-24T08:00:00-04:00"
+short_description = "I kind of dread being asked what I do. That’s an awful thing to say, given what an interesting and unique job I have, but it’s true. At a non-music party [NMP, for your future reference!] or in a cab, the conversation usually starts something like this:\n“So you’re travelling a lot for work – what’s your job?”"
 slug = "the-business-of-passion"
 title = "The Business of Passion"
 +++

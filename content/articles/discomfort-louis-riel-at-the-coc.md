@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-04-27T14:44:00-04:00"
 lastmod = "2017-04-28T11:40:00-04:00"
 publishDate = "2017-04-28T11:20:00-04:00"
+short_description = "Perhaps without Hinton's supernumeraries, Louis Riel might have been more \"comfortable\" for Toronto audiences. With the faces of the affected placed right amid a piece of theatre that comes out of a Western European tradition, the production seems to mirror the slow, significant steps being taken by Canada as a whole, beginning with the acknowledgement of injustice within our country's short history."
 slug = "discomfort-louis-riel-at-the-coc"
 title = "Discomfort: Louis Riel at the COC"
 +++

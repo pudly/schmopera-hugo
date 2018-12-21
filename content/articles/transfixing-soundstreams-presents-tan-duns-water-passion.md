@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-03-13T16:52:00-04:00"
 lastmod = "2018-03-13T16:52:00-04:00"
 publishDate = "2018-03-13T16:52:00-04:00"
+short_description = "Michelle Colton, Aiyun Huang, and Ryan Scott showed what true musical versatility means, playing timpani, water (yes, they actually played the water - sometimes with cups to create a neat effect that reminded me of horses galloping through water), cymbals (which they would then dip in the water to create new effects), singing prayer bowls and that's just in the first two movements."
 slug = "transfixing-soundstreams-presents-tan-duns-water-passion"
 title = "Transfixing: Soundstreams presents Tan Dun&#039;s Water Passion"
 +++

@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2016-06-07T10:01:00+01:00"
 lastmod = "2016-06-07T13:14:00+01:00"
 publishDate = "2016-06-07T13:06:00+01:00"
+short_description = "\"The most fun is almost being a kid again. I grew up in choirs, not the CCOC, but it's kind of instilling this love of mythology and magic. I know it sounds corny but working with kids just bring such an energy to the rehearsal room. They bring a particular enthusiasm to the work which is infectious. You really find yourself becoming a kid again and re-instilling that love of theatre and stage.\""
 slug = "standing-out-giles-tomkins-joins-the-ccoc-for-the-hobbit"
 title = "Standing out: Giles Tomkins joins the CCOC for The Hobbit"
 +++

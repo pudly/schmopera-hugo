@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-10-10T21:22:00-04:00"
 lastmod = "2017-10-18T19:39:00-04:00"
 publishDate = "2017-10-18T19:39:00-04:00"
+short_description = "What does an opera lover in the 21st century do with something like Warner Classics' recently released Maria Callas Live Remastered Recordings (1949-1964)? The first thing would be to squeal with glee: the box set includes live recordings of 20 full operas, 5 filmed recitals, and a book detailing each of the iconic roles sung by Callas."
 slug = "cleanedup-callas-the-remastered-live-recordings"
 title = "Cleaned-up Callas: the remastered live recordings"
 +++

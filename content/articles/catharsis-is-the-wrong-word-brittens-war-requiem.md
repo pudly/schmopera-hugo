@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-11-11T11:32:00-05:00"
 lastmod = "2018-11-11T11:38:00-05:00"
 publishDate = "2018-11-11T11:35:00-05:00"
+short_description = "There was bile on Tovey's tongue that rang into Roy Thomson Hall, and its effect lingered long enough to dovetail into the first bars of the War Requiem. I have always found something magnetic and charismatic about Tovey, and as silly as it may sound, to hear him indulge in a brief moment of personal feelings about the meaning of war and commemoration felt akin to hearing a friend's firsthand experience with tragedy."
 slug = "catharsis-is-the-wrong-word-brittens-war-requiem"
 title = "&quot;Catharsis&quot; is the wrong word: Britten&#039;s War Requiem"
 +++

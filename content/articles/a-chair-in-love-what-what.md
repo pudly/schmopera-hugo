@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2015-07-11T22:18:00-04:00"
 lastmod = "2015-07-20T11:32:00-04:00"
+preamble = "This Friday, Opera By Request presents a semi-staged version of John Metcalf and Larry Tremblay's [*A Chair in Love*](http://operabyrequest.ca/wordpress/?p=323). The 2005 opera about a man who falls in love with a chair is intriguing and bizarre enough to pique my interest. I had the chance to ask composer [John Metcalf](/scene/people/john-metcalf/), music director William Shookhoff, and the show's cast about *A Chair in Love*, in the selfish hopes of figuring out what it's all about. The show is one night only, July 17th at 7:30pm at Array Music, 155 Walnut Avenue. Tickets are $20, and details and reservations can be made by calling 647-238-0064."
 publishDate = "2015-07-14T09:15:00-04:00"
+short_description = "This Friday, Opera By Request presents a semi-staged version of John Metcalf and Larry Tremblay's A Chair in Love. The 2005 opera about a man who falls in love with a chair is intriguing and bizarre enough to pique my interest. I had the chance to ask composer John Metcalf, music director William Shookhoff, and the show's cast about A Chair in Love, in the selfish hopes of figuring out what it's all about. "
 slug = "a-chair-in-love-what-what"
 title = "A Chair in Love. What, what?"
 +++

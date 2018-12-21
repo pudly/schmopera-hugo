@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-04-28T09:49:00+01:00"
 lastmod = "2016-04-28T11:35:00+01:00"
 publishDate = "2016-04-28T11:35:00+01:00"
+short_description = "In a word, charming. That is what I experienced tonight with Toronto Operetta Theatre and their Canadian premiere of Jacinto Guerrero’s Los Gavilanes at St. Lawrence Centre for the Arts. From the simple set to the period costumes, the Spanish orchestration and the simple, well-known tale of love lost (and then found), I was charmed."
 slug = "in-review-los-gavilanes-at-toronto-operetta-theatre"
 title = "In review: Los Gavilanes at Toronto Operetta Theatre"
 +++

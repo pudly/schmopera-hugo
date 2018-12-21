@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2017-08-17T20:57:00-04:00"
 lastmod = "2017-08-18T11:12:00-04:00"
+preamble = "Harlekin's aria is one of the more thoughtful, organic uses of the \"song within the song\" device in opera. In Richard Stauss' *Ariadne auf Naxos*, Harlekin is part of Zerbinetta's comedy troupe; when he and his fellow players are thrown into a serious case of stage improv, he sings a song for the lamenting Ariadne, \"Lieben, Hassen, Hoffen, Zagen\". It doesn't really cheer her up, but it certainly earns a chorus of satisfied sighs from his real-life audience.\n\nThis aria is dense and charming, and though it seems harmless, features more than a few surprising challenges. With the work you do in the practice room and with your teachers and coaches, our latest Aria Guide can help you navigate your way through this adorable little ditty."
 publishDate = "2017-08-18T11:12:00-04:00"
+short_description = "This aria is dense and charming, and though it seems harmless, features more than a few surprising challenges. With the work you do in the practice room and with your teachers and coaches, our latest Aria Guide can help you navigate your way through this adorable little ditty."
 slug = "aria-guides-lieben-hassen"
 title = "Aria guides: &quot;Lieben, Hassen&quot;"
 +++

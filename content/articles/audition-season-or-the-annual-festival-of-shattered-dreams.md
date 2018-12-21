@@ -2,7 +2,9 @@
 categories = "Op-ed"
 date = "2016-10-08T14:23:00-04:00"
 lastmod = "2017-08-02T21:42:00-04:00"
+preamble = "This is a guest submission by an author who is a current figure in the operatic industry. Due to the significant professional risk associated with the topic, the author wishes to remain anonymous."
 publishDate = "2016-10-11T04:00:00-04:00"
+short_description = "The business of opera is at times wonderful and at other times loathsome. It is, sadly, mostly run by the ill-informed and the ill-equipped. It is therefore oftentimes arbitrary and frivolous though it can sometimes be sublime."
 slug = "audition-season-or-the-annual-festival-of-shattered-dreams"
 title = "Audition season, or the annual Festival of Shattered Dreams"
 +++

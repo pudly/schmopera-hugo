@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2014-03-05T13:50:00-05:00"
 lastmod = "2015-04-27T18:36:00-04:00"
 publishDate = "2014-03-05T13:50:00-05:00"
+short_description = "Last month, fellow colleague and buddy Cameron McPhail was named a winner of the George London Foundation Awards Competition. Way to go, Cam! I asked the COC Ensemble Studio member how it felt:"
 slug = "cameron-mcphail-on-competing"
 title = "Cameron McPhail: On Competing"
 +++

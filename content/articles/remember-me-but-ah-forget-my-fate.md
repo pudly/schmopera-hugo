@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2015-04-11T20:32:00-04:00"
 lastmod = "2015-04-11T20:32:00-04:00"
 publishDate = "2015-02-06T09:32:00-05:00"
+short_description = "On February 5th, 1981, Toronto police raided four bathhouses, rounded up its LGBTQ+ patrons, and arrested them in a mass arrest that hadn't been paralleled until the G20 Summit a few years ago.\n\nSo, everyone's favourite A-list mezzo, the incomparable Joyce DiDonato (#FullOnToner #PitchPerfectReference) shared a lovely gift with my people."
 slug = "remember-me-but-ah-forget-my-fate"
 title = "&quot;Remember me, but ah, forget my fate&quot;"
 +++

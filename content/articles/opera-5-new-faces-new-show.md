@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2018-05-31T12:54:00-04:00"
 lastmod = "2018-06-05T11:46:00-04:00"
 publishDate = "2018-06-04T22:52:00-04:00"
+short_description = "Derventzis loves that Beaumarchais' Figaro plays - the 18th century source material of Rossini's Barber - tell stories of rich people being outwitted by society's underdogs: \"a woman and a servant.\""
 slug = "opera-5-new-faces-new-show"
 title = "Opera 5: new faces, new show"
 +++

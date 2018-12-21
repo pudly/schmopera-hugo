@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-12-19T21:03:00-05:00"
 lastmod = "2017-12-19T21:03:00-05:00"
 publishDate = "2017-12-19T21:03:00-05:00"
+short_description = "A patch of barbed wire symbolised Gilda's fragility in this ruthless world. Giovanna, Gilda's nurse, meets the Duke and the two converse through the fence. A slit in the middle of it, hinting at Gilda's sexuality, becomes the medium for the Duke to bribe Giovanna, and he punches his fist through it in boorish coarseness. Gilda is clearly too pure for this world."
 slug = "the-price-of-vengeance-rigoletto-at-roh"
 title = "The price of vengeance: Rigoletto at ROH"
 +++

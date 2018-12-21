@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-05-28T17:56:00+01:00"
 lastmod = "2016-05-29T10:28:00+01:00"
 publishDate = "2016-05-29T09:47:00+01:00"
+short_description = "Remember how we complained about how there's no opera on Netflix? Well, there still isn't. But we've discovered Vireo: The Spiritual Biography of a Witch's Accuser, a project that will hopefully inspire more like it. Composer Lisa Bielawa and librettist Erik Ehn are in the midst of creating Vireo, a series of operatic episodes, two of which are now available to stream online."
 slug = "great-ideas-a-streamable-opera-miniseries"
 title = "Great ideas: a streamable opera miniseries"
 +++

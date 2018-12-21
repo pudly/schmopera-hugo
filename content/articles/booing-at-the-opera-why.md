@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2017-02-06T12:37:00+00:00"
 lastmod = "2017-02-07T20:25:00+00:00"
 publishDate = "2017-02-07T16:35:00+00:00"
+short_description = "Those who are brave enough to boo are also brave enough to make sure that everyone knows who exactly they're booing. Curtain calls can be a cruel set-up, the bowing artist well aware of when the crowd turns from admiration to disappointment. Seasoned artists have a thick skin, but it can't be a good feeling to stand in front of a crowd of people who are unhappy and who want you to know it."
 slug = "booing-at-the-opera-why"
 title = "Booing at the opera: why?"
 +++

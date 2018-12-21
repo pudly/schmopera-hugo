@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-10-18T20:41:00-04:00"
 lastmod = "2018-10-19T12:28:00-04:00"
 publishDate = "2018-10-18T20:41:00-04:00"
+short_description = "Antinous, Hadrian's lover, has possibly the dopest (and gayest) entrance of any opera, ever. Surrounded by a bevy of mostly-nude, highly-sculpted, male dancers, I can only imagine tenor (and friend of Schmopera's) Isaiah Bell was living his absolute best life - and it showed in his singing. From his first \"Antinous\" when the cacophany in the pit mirrors the chaotic joy Hadrian feels, to his final moment onstage, Bell is a vision."
 slug = "hadrian-a-true-grand-opera"
 title = "Hadrian: a true grand opera"
 +++

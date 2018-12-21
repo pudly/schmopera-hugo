@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-10-31T13:23:00-04:00"
 lastmod = "2018-11-02T09:56:00-04:00"
 publishDate = "2018-11-02T09:56:00-04:00"
+short_description = "It's funny how similar the opera-going experience is, be it at an opera house or the movies. Older audience members still kvetch about the venue - \"They should have it at TIFF,\" et cetera - and there's the usual mixture of apologies and harumphing as latecomers squeeze past their neighbours' knees to find their mid-row seats."
 slug = "opera-laid-bare-for-better-or-for-worse-in-the-mets-fanciulla"
 title = "Opera laid bare, for better or for worse in the Met&#039;s Fanciulla"
 +++

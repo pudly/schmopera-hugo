@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2016-11-29T18:12:00+00:00"
 lastmod = "2016-11-30T16:16:00+00:00"
 publishDate = "2016-11-30T16:02:00+00:00"
+short_description = "There are a million ways to communicate an awesome idea. I sing opera. Maybe you paint on canvas, or channel your soul through the words of Shakespeare. There are also a million ways to make peace with money. I use financial planning and teach it to others, but that doesn't mean it's the right tool for you."
 slug = "why-mezza-voce-and-budgets-really-dont-matter"
 title = "Why &#039;mezza voce&#039; and budgets really don&#039;t matter"
 +++

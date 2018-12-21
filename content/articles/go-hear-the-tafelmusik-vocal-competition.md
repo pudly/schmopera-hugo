@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-01-06T14:08:00-05:00"
 lastmod = "2016-01-09T13:48:00-05:00"
 publishDate = "2016-01-07T08:00:00-05:00"
+short_description = "I always recommend opera lovers to go and hear voice competitions; it's always fascinating and the energy of the competitors is something that's quite different than seeing them in a production. The event is scheduled from 1-5:45pm, and there are two intermissions during which you can meet the singers and the jury members over some food and drink. Plus, if you stay for the full afternoon, you'll be able to vote for the Audience Choice Winner."
 slug = "go-hear-the-tafelmusik-vocal-competition"
 title = "Go hear the Tafelmusik Vocal Competition"
 +++

@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-03-10T18:51:00+00:00"
 lastmod = "2016-03-11T17:51:00+00:00"
 publishDate = "2016-03-11T17:44:00+00:00"
+short_description = "Toronto-area fans of Gilbert and/or Sullivan are in luck this weekend. The North Toronto Players present Chelsea Moor Castle (or the Contract to Marry), a mash-up of music from HMS Pinafore, Pirates of Penzance, Iolanthe, The Mikado, The Gondoliers, Ruddigore and more, by Michael Harms and Barb Scheffler."
 slug = "this-weekend-chelsea-moor-castle"
 title = "This weekend: Chelsea Moor Castle"
 +++

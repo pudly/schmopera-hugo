@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-02-16T21:30:00-05:00"
 lastmod = "2018-02-16T22:24:00-05:00"
 publishDate = "2018-02-16T21:30:00-05:00"
+short_description = "All of Candide’s disasters could translate into a disastrous evening, but thanks to the clear and sure hand of director Zambello, the humor is allowed to speak for itself without too many additional bits and gags that often make a funny show tiresome and unwatchable."
 slug = "candide-the-best-of-all-possible-productions"
 title = "Candide: the Best of All Possible Productions?"
 +++

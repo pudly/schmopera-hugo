@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-03-04T21:58:00+01:00"
 lastmod = "2017-03-06T16:55:00+01:00"
+preamble = "Winnipeg-based [Flipside Opera](/scene/companies/flipside-opera/) is all about getting opera and classical music heard by Manitoban audiences, and providing performance opportunities to the province's talented artists. \n\nTheir current project celebrates the music of Manitoba-born composer, John Greer; [\"Greeriad\"](https://www.flipsideopera.com/greeriad) (a play on the [\"Schubertiade\"](https://en.wikipedia.org/wiki/Schubertiade)) had its Winnipeg performance last month, and on **March 10, 8pm**, it returns to Manitoba at Brandon University. Singers singers: Jessica Kos-Whicher, Judith Oatway, Elizabeth Surdhar, Aaron Hutton, Matt Pauls, and pianists Lisa Rumpel and Dr. Laura Loewen, pay homage to Greer's music, and to the notable Canadian roots which the artists and composer share.\n\nWe spoke with soprano and Flipside Opera co-Artistic Director Judith Oatway, and with John Greer himself, about [Greeriad](https://www.flipsideopera.com/greeriad), and the important symbiosis between Canadian companies and Canadian composers."
 publishDate = "2017-03-06T16:55:00+01:00"
+short_description = "\"I am more grateful than I can say for opportunities such as the Flipside Greeriad, to see my songs performed by artists who understand them from the inside out and who can pass their full message on to an empathetic audience. I am on the Board of Directors for the Canadian Art Song Project, a nation-wide organization dedicated to the promotion of new Canadian vocal music. I realize from this central standpoint how regionalized artistic expression is or can be.\""
 slug = "flipside-opera-throws-a-greeriad"
 title = "Flipside Opera throws a &quot;Greeriad&quot;"
 +++

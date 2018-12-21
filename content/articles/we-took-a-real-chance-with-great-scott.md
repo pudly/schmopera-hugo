@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-02-21T07:47:00-05:00"
 lastmod = "2018-02-21T08:42:00-05:00"
 publishDate = "2018-02-21T08:42:00-05:00"
+short_description = "But really, who can argue with the riotous laughter that makes this recording something worthy of a listen? In opera, contemporary or otherwise, it’s a big deal to get an audience who reacts not only to what they see (and what was it they saw that was so funny? Ah, the plight of the live audio recording), but to details in the libretto."
 slug = "we-took-a-real-chance-with-great-scott"
 title = "&quot;We took a real chance with Great Scott.&quot;"
 +++

@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-01-14T15:22:00-05:00"
 lastmod = "2016-01-17T12:08:00-05:00"
 publishDate = "2016-01-17T12:08:00-05:00"
+short_description = "Hvorostovsky has cancelled several February dates for Il trovatore at the Metropolitan Opera, but we all hope he's feeling well enough to sing, at Toronto's Koerner Hall, if only for the selfish pleasure of hearing his voice (and maybe catching a glimpse of that hair)."
 slug = "dont-miss-dmitri-hvorostovky-at-koerner-hall"
 title = "Don&#039;t miss: Dmitri Hvorostovky at Koerner Hall"
 +++

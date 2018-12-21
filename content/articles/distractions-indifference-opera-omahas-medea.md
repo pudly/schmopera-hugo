@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-04-23T20:08:00-04:00"
 lastmod = "2018-04-23T20:08:00-04:00"
 publishDate = "2018-04-23T20:08:00-04:00"
+short_description = "Cherubini's music suggests that Medea is going out in a blaze of remorseless glory, but nothing manifested in the staging to support this. I wanted to either hate Medea or cheer her on, but I was left feeling indifferent and unsatisfied."
 slug = "distractions-indifference-opera-omahas-medea"
 title = "Distractions &amp; indifference: Opera Omaha&#039;s Medea"
 +++

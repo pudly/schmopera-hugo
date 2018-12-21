@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-06-25T10:07:00-04:00"
 lastmod = "2018-06-26T16:45:00-04:00"
 publishDate = "2018-06-26T16:45:00-04:00"
+short_description = "Although Frosch is a relatively minor character in the operetta, Brian Frutiger quite frankly stole the entire last act in my opinion. His physical comedy and drunken slur had the audience in stitches during his first scene, and I think he could have kept ad libbing for an hour without any complaints from the crowd."
 slug = "a-nextlevel-fledermaus-in-des-moines"
 title = "A next-level Fledermaus in Des Moines"
 +++

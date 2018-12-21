@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-10-16T12:20:00+01:00"
 lastmod = "2016-10-16T13:38:00+01:00"
 publishDate = "2016-10-16T13:21:00+01:00"
+short_description = "Obviously, Canadian-American soprano sensation Sondra Radvanovsky knocked it out of the park. The instrument is astounding, the acting is on point. Watching Radvanovsky sing this role is guaranteed to remain a highlight of the season, not just for me, but for Toronto as a whole. I could go on and on (and on), but the only way you're going to understand is really to get your butt down and hear it. "
 slug = "review-sondra-slays-in-bellini-masterwork"
 title = "Review: Sondra slays in Bellini masterwork"
 +++

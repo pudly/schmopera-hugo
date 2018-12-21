@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2015-12-09T12:14:00-05:00"
 lastmod = "2015-12-11T09:38:00-05:00"
+preamble = "One week ago, Canadian soprano [Mireille Asselin](/scene/people/mireille-asselin/) had one of those dream/nightmare moments for any understudy: on opening night, she found out that she would be stepping in for [Lucy Crowe](/scene/people/lucy-crowe/) (last seen in Toronto in the COC's *Hercules*), and going on as Adele in [The Metropolitan Opera](/scene/companies/the-metropolitan-opera/)'s production of [*Die Fledermaus*](http://www.metopera.org/Season/2015-16-Season/fledermaus-strauss-tickets/), conducted for the first time by James Levine. Mireille rose brilliantly to the occasion, earning praise from [critics](http://newyorkclassicalreview.com/2015/12/mireille-asselin-steals-the-show-in-mets-fledermaus/) and fans alike. I spoke with her about the chain of events that started with a mid-day phone call from the Met."
 publishDate = "2015-12-11T08:42:00-05:00"
+short_description = "One week ago, Canadian soprano Mireille Asselin had one of those dream/nightmare moments for any understudy: she would be stepping in for Lucy Crowe (last seen in Toronto in the COC's Hercules), and going on as Adele in The Metropolitan Opera's production of Die Fledermaus, conducted for the first time by James Levine."
 slug = "mireille-asselins-phone-call-from-the-met"
 title = "Mireille Asselin&#039;s phone call from the Met"
 +++

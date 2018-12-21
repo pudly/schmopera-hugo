@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2014-08-08T11:58:00-04:00"
 lastmod = "2015-04-27T18:02:00-04:00"
 publishDate = "2014-08-08T11:58:00-04:00"
+short_description = "Alaina Viau is the Artistic Director of LooseTEA Music Theatre. She's hard at work with the creative team of LooseTEA's upcoming double-bill, Love in the Age of AutoCorrect. The double-bill includes present-day adaptations of Mozart's Bastien und Bastienne and Stravinsky's Mavra. "
 slug = "alainas-autocorrect"
 title = "Alaina&#039;s AutoCorrect"
 +++

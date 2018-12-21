@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2017-02-27T15:42:00+00:00"
 lastmod = "2017-02-28T15:25:00+00:00"
 publishDate = "2017-02-28T13:14:00+00:00"
+short_description = "It's a little bit like looking for a place to grab dinner when you're a tourist in a new city. The Met's season is like eating in Times Square, or along the Ramblas in Barcelona, or in Leicester Square in London, where the wait staff stand outside their restaurants, shoving their photo-laden menus in your face as you walk by; Opera Philadelphia's season is like the better food, better prices, and better atmosphere in the restaurants found along the quiet streets adjacent to the tourist traps."
 slug = "opera-philadelphia-puts-the-mets-201718-season-to-shame"
 title = "Opera Philadelphia puts the Met&#039;s 2017/18 season to shame"
 +++

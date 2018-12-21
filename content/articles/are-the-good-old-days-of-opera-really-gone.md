@@ -2,6 +2,7 @@
 categories = "Op-ed"
 date = "2015-07-01T21:20:00-06:00"
 lastmod = "2015-07-01T22:08:00-06:00"
+preamble = "This is the first of a two-part piece by a guest contributor, who preferred to remain anonymous. It's a telling preference, I think."
 publishDate = "undefined"
 slug = "are-the-good-old-days-of-opera-really-gone"
 title = "Are the good old days of opera really gone?"

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-10-27T14:18:00-04:00"
 lastmod = "2017-10-27T17:25:00-04:00"
 publishDate = "2017-10-27T17:25:00-04:00"
+short_description = "While not a total work of feminist theatre, I do like seeing operas from the 18th century where women are shown as strong-willed characters in control of their own destinies and not being controlled by men. In fact, the plot is driven by how much the other characters of the opera need Rodelinda."
 slug = "a-fierce-mob-wife-rodelinda-at-eno"
 title = "A fierce mob wife: Rodelinda at ENO"
 +++

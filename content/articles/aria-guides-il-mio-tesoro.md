@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2016-06-07T11:01:00-06:00"
 lastmod = "2016-06-27T15:18:00-06:00"
+preamble = "\"Il mio tesoro\", from Mozart's *Don Giovanni*, marks the first time we see Don Ottavio go from fawning, sensitive support system, to a real man with a plan. It's no easy task for a tenor; Mozart writes long phrases, big leaps, coloratura, and those trademark delicate phrase endings that can make any singer sweat. Tenors, while you consult your best teachers and coaches, we can offer you a few quick tips to help make some music out of this tough aria."
 publishDate = "2016-06-26T23:17:00-06:00"
+short_description = "\"Il mio tesoro\", from Mozart's Don Giovanni, marks the first time we see Don Ottavio go from fawning, sensitive support system, to a real man with a plan. It's no easy task for a tenor; Mozart writes long phrases, big leaps, coloratura, and those trademark delicate phrase endings that can make any singer sweat. Tenors, while you consult your best teachers and coaches, we can offer you a few quick tips to help make some music out of this tough aria."
 slug = "aria-guides-il-mio-tesoro"
 title = "Aria guides: Il mio tesoro"
 +++

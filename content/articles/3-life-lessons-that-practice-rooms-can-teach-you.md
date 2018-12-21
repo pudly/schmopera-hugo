@@ -2,7 +2,9 @@
 categories = "Humour"
 date = "2016-03-23T16:06:00+00:00"
 lastmod = "2016-03-31T15:27:00+01:00"
+preamble = "One of the first hurdles a young musician meets as he or she pursues advanced training is the fact that there are never enough practice rooms.\n\nMusic students and graduates, how many hours do you think you've spend sitting in practice room hallways, thumbing through your scores, eagerly looking up as a door opens, hoping to **God** that it's someone leaving, and not just going for a pee/water break?\n\nRemember that poster/meme that was popping up for a while, something about \"everything I need to know in life, I learned in kindergarten\"? The game of finding a practice room is sort of like that."
 publishDate = "2016-03-31T15:27:00+01:00"
+short_description = "Music students and graduates, how many hours do you think you've spend sitting in practice room hallways, thumbing through your scores, eagerly looking up as a door opens, hoping to God that it's someone leaving, and not just going for a pee/water break. Remember that poster/meme that was popping up for a while, something about \"everything I need to know in life, I learned in kindergarten\"? The game of finding a practice room is sort of like that."
 slug = "3-life-lessons-that-practice-rooms-can-teach-you"
 title = "3 life lessons that practice rooms can teach you"
 +++

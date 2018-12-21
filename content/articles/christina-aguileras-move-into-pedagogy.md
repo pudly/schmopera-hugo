@@ -3,6 +3,7 @@ categories = "How-to"
 date = "2016-04-05T20:03:00+01:00"
 lastmod = "2016-04-06T13:48:00+01:00"
 publishDate = "2016-04-06T13:45:00+01:00"
+short_description = "We don't know why it's so annoying that she does her \"vocal scales\" on the words \"Ave Maria\" (maybe it alludes to something a bit more classical). And ironically, her demonstration of the \"wrong\" way is easier on our ears than the \"right\" way, which upon hearing makes our throats sympathetically tighten."
 slug = "christina-aguileras-move-into-pedagogy"
 title = "Christina Aguilera&#039;s move into pedagogy"
 +++

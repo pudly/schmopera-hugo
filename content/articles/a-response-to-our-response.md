@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2017-02-13T16:59:00+00:00"
 lastmod = "2017-02-14T13:55:00+00:00"
 publishDate = "2017-02-14T13:55:00+00:00"
+short_description = "So is it enough to simply lay down Bernstein's words every time tragedy strikes? No. And while beauty is important in art, art also must challenge, alert and stimulate its performers and listeners, opening our minds to new, diverse thoughts, connecting us to our common humanity, reflecting the darkness of our times and motivating us into action. Activists have already started their marches worldwide: the Women's Marches, most recently the anti-wall marches in Mexico, and anti-Islamophobia marches in Toronto."
 slug = "a-response-to-our-response"
 title = "A response to &quot;our response&quot;"
 +++

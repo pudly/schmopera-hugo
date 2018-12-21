@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-11-22T13:45:00-05:00"
 lastmod = "2017-11-22T20:52:00-05:00"
 publishDate = "2017-11-22T20:52:00-05:00"
+short_description = "The plot may be banal, the title confusing, and the libretto outrageous, but the fine singers of the Lyric wrought every possible nuance from the story and embraced The Pearl Fishers for what it is. Sure, it's no Carmen, but why should it be? The Pearl Fishers is something else: an unapologetic bit of hazy escapist fantasy — a rumination on passion and friendship set against an alluring, (if problematically ill-defined), \"oriental\" backdrop."
 slug = "a-dreamy-indulgence-the-pearl-fishers-in-chicago"
 title = "A dreamy indulgence: The Pearl Fishers in Chicago"
 +++

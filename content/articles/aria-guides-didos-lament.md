@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2016-12-06T15:11:00+00:00"
 lastmod = "2016-12-07T15:26:00+00:00"
+preamble = "For our latest Aria Guide, we've picked an aria that has it all: it's beautiful, it's in English, and mezzos get to play Dido, an actual woman. In Purcell's *Dido and Aeneas*, \"Dido's Lament\" happens at the end of a simple and sad story: Aeneas, whom Dido loves and has agreed to marry, believes he has to leave her and go to Italy. As he goes, Dido dies from her grief. \n\nIt's pretty operatic, sure; and Dido's Lament is more difficult than the simple-looking score suggests. Along with your teachers and coaches, there are a few we can offer, to give you a head start on this sob-fest of an aria."
 publishDate = "2016-12-07T15:00:00+00:00"
+short_description = "For our latest Aria Guide, we've picked an aria that has it all: it's beautiful, it's in English, and mezzos get to play Dido, an actual woman. In Purcell's Dido and Aeneas, \"Dido's Lament\" happens at the end of a simple and sad story: Aeneas, whom Dido loves and has agreed to marry, believes he has to leave her and go to Italy. As he goes, Dido dies from her grief."
 slug = "aria-guides-didos-lament"
 title = "Aria guides: Dido&#039;s Lament"
 +++

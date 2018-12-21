@@ -2,6 +2,7 @@
 date = "2014-03-12T09:00:00-04:00"
 lastmod = "2015-04-26T00:15:00-04:00"
 publishDate = "2014-03-12T09:00:00-04:00"
+short_description = "I'm on the House of Cards train, because I'm always rooting for the underdog. Kevin Spacey's the underdog, right? Anyway, I watched this brilliant scene play out in one of the episodes; it was one of those incredible scenes where both parties have clear objectives, but one party's objective is to screw the other party over. "
 slug = "that-great-scene-in"
 title = "That great scene in..."
 +++

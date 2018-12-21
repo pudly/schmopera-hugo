@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2017-08-13T20:35:00-04:00"
 lastmod = "2017-08-14T12:27:00-04:00"
+preamble = "Have you ever been faced with an ugly truth that's hard to deny? That's the gist of the stunning \"Embroidery Aria\", sung by Ellen Orford in Britten's *Peter Grimes*. She's one of the few people in her small English town who is sympathetic to her friend Peter, and the ostracism he's feeling from his community; yet when she finds the sweater that belonged to a young boy that Peter enlisted to help on his fishing boat, she's forced to put her personal feelings for her friend up against what might be damning evidence of his actions.\n\nThe \"Embroidery Aria\" is no easy sing, and as you work on it in the practice room and with your teachers and coaches, we can help you get off on the right track with our latest Aria Guide:\n\n"
 publishDate = "2017-08-14T12:27:00-04:00"
+short_description = "Have you ever been faced with an ugly truth that's hard to deny? That's the gist of the stunning \"Embroidery Aria\", sung by Ellen Orford in Britten's Peter Grimes. The \"Embroidery Aria\" is no easy sing, and as you work on it in the practice room and with your teachers and coaches, we can help you get off on the right track with our latest Aria Guide:"
 slug = "aria-guides-embroidery-aria"
 title = "Aria guides: Embroidery Aria"
 +++

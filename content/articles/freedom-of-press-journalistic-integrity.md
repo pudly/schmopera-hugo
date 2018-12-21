@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-05-17T21:49:00+01:00"
 lastmod = "2016-05-18T16:54:00+01:00"
 publishDate = "2016-05-18T12:43:00+01:00"
+short_description = "In a story that was apparently about freedom of press, it's frustrating to read Lebrecht's posting of incomplete stories, full of opinions and phrases like \"suppressed review,\" \"protest,\" and \"sniffing glue,\" all of which are clearly biased against the Canadian Opera Company. We're really glad to see how the COC was quick to be transparent, and to clarify the errors and omissions by Lebrecht."
 slug = "freedom-of-press-journalistic-integrity"
 title = "Freedom of press &amp; journalistic integrity"
 +++

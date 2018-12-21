@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-10-25T10:37:00+01:00"
 lastmod = "2016-10-26T13:29:00+01:00"
 publishDate = "2016-10-26T13:17:00+01:00"
+short_description = "The Tinder Opera was written by composer Scott Joiner and librettist Adam Taylor, and it was originally produced for film by Galaxy 454 Productions and the Rainy Park Opera Company. Their next film opera collaboration is Something Blue (L'opera del Bachelor), which features a cast of 30 - led by Joiner and soprano Jessica Fishenfeld - and a 10-piece chamber orchestra. "
 slug = "the-tinder-opera-hits-the-stage"
 title = "The Tinder Opera hits the stage"
 +++

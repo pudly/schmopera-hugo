@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-10-10T09:19:00-04:00"
 lastmod = "2017-10-10T21:28:00-04:00"
 publishDate = "2017-10-10T21:24:00-04:00"
+short_description = "All of the pieces were presented as works in progress, with the possibility of expansion or revision pending audience feedback. Being in this kind of environment, even as a spectator, was thrilling, with everyone in the room contributing to the creative process that goes into creating a piece of music theatre."
 slug = "how-did-we-do-second-movement-presents-rough-for-opera-16"
 title = "&quot;How did we do?&quot; Second Movement Presents: rough for opera #16"
 +++

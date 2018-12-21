@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2014-02-10T15:04:00-05:00"
 lastmod = "2015-04-28T21:58:00-04:00"
 publishDate = "2014-02-10T15:04:00-05:00"
+short_description = "As I sat for the nth time scrolling through my music library on my computer, trying to find that really cool bit between this aria and that finale, I switched from recording to recording, hoping that the track division would be different, and perhaps more conducive to my finding that super neat chord progression."
 slug = "online-music-is-obscuring-opera"
 title = "Online Music is Obscuring Opera"
 +++

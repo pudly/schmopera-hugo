@@ -2,7 +2,9 @@
 categories = "Editorial"
 date = "2015-09-01T11:06:00-04:00"
 lastmod = "2017-08-09T19:15:00-04:00"
+preamble = "The summer winds down, and school and other seasonal activities (like opera!) are soon back in session. In anticipation of a brand new season of opera-going, I figured a practical crash-course was in order. For some of the basics, I can direct you to a few posts:\n\n- [Operatic Voice Types](/fach-isms-stereotypes-for-a-reason/)\n- [What Conductors Really Do](/spotlight-on-christopher-james-ray/)\n- [What a Répétiteur Is](/star-repetiteur-there-is-such-a-thing/)\n- and [How Singers Do Some of Their Tricks](/claire-de-sevigne-sing-fast-high/)\n\nSince this crash-course is indeed practical, I've chosen a few terms from the opera dictionary you'll need to have in your back pocket as you check out upcoming opera, 2015/16-style."
 publishDate = "2015-09-02T07:30:00-04:00"
+short_description = "The summer winds down, and school and other seasonal activities (like opera!) are soon back in session. In anticipation of a brand new season of opera-going, I figured a practical crash-course was in order."
 slug = "back-to-school-opera-a-practical-glossary"
 title = "Back to school opera: a practical glossary"
 +++

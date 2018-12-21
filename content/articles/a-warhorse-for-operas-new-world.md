@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-02-09T16:28:00-05:00"
 lastmod = "2018-02-09T17:14:00-05:00"
 publishDate = "2018-02-09T17:14:00-05:00"
+short_description = "Mr. Hourie directed with a terse and foreboding air that dispelled any memories of the films. The sleek and minimal set, comprised of skeletal architectural elements and lace curtains facilitated the action. As scenographer Hourie filled picture frames suggesting decaying ancestral portraits with video of flames, ghosts and all manner of frightening imagery."
 slug = "a-warhorse-for-operas-new-world"
 title = "A Warhorse For Opera&#039;s New World?"
 +++

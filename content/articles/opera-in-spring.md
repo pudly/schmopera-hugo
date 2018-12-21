@@ -2,7 +2,9 @@
 categories = "Editorial"
 date = "2015-04-10T22:05:00-04:00"
 lastmod = "2015-04-10T22:05:00-04:00"
+preamble = "<p>\n\tWith the official end of winter less than a week away, it's time to mark your calendars with some spring opera-going. Here are a few of the events I'm catching over the next couple of months.\n</p>"
 publishDate = "2015-03-18T10:05:00-04:00"
+short_description = "​With the official end of winter less than a week away, it's time to mark your calendars with some spring opera-going. Here are a few of the events I'm catching over the next couple of months."
 slug = "opera-in-spring"
 title = "Opera in Spring"
 +++

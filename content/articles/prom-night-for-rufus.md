@@ -2,6 +2,7 @@
 date = "2014-09-10T11:03:00-04:00"
 lastmod = "2015-04-16T15:19:00-04:00"
 publishDate = "2014-09-10T11:03:00-04:00"
+short_description = "Tomorrow night at Royal Albert Hall in London, Rufus Wainwright will have his debut performance as part of the BBC Late Night Proms. Rufus is Canada's most chatter-worthy addition to the operatic scene (with his upcoming COC commission, Hadrian), and he'll be joined by soprano Deborah Voigt to sing a couple of arias from his 2009 opera, Prima Donna. "
 slug = "prom-night-for-rufus"
 title = "Prom Night for Rufus"
 +++

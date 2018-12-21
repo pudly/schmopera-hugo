@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2016-05-12T12:39:00+01:00"
 lastmod = "2016-05-14T17:56:00+01:00"
+preamble = "June 8-11 at Toronto's [918 Bathurst](http://www.918bathurst.com/), [Opera 5](/scene/companies/opera-5/) presents [*Die Fledermaus*](http://opera5.ca/project/die-fledermaus/), that beloved, waltz-tastic tale of parties and blackmail. [Rachel Krehm](/scene/people/rachel-krehm/) and [Michael Barrett](/scene/people/michael-barrett/) star as Rosalinde and Eisenstein, sharing the stage with [Julie Ludwig](/scene/people/julie-ludwig/) as Adele, [Keith Lam](/scene/people/keith-lam/) as Falke, and [Erin Lawson](/scene/people/erin-lawson/) as the heiress Oksana Orlofsky. Of course, in Opera 5 fashion, this *Die Fledermaus* is updated, interactive, and audiences will meet a very special guest, by the name of [Pearle Harbour](https://www.facebook.com/thepearleharbour/).\n\nWe spoke with director [Aria Umezawa](/scene/people/aria-umezawa/), who works alongside co-director [Jessica Derventzis](/scene/companies/stujess-productions/), about the fun of \"theoretical\" staging, and how Opera 5 stays outside the box, even with go-to classics like *Die Fledermaus*."
 publishDate = "2016-05-14T14:01:00+01:00"
+short_description = "June 8-11 at Toronto's 918 Bathurst, Opera 5 presents Die Fledermaus, that beloved, waltz-tastic tale of parties and blackmail. Rachel Krehm and Michael Barrett star as Rosalinde and Eisenstein, sharing the stage with Julie Ludwig as Adele, Keith Lam as Falke, and Erin Lawson as the heiress Oksana Orlofsky. Of course, in Opera 5 fashion, this Die Fledermaus is updated, interactive, and audiences will meet a very special guest, by the name of Pearle Harbour."
 slug = "aria-umezawa-opera-5s-die-fledermaus-with-surprises"
 title = "Aria Umezawa: Opera 5&#039;s Die Fledermaus, with surprises"
 +++

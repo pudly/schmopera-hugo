@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-04-10T22:38:00-04:00"
 lastmod = "2015-04-10T22:38:00-04:00"
 publishDate = "2015-03-12T10:38:00-04:00"
+short_description = "I'm not saying that music degrees are a financial black hole, but they cost either as much or near as much as many science degrees. The disparity begs an unpopular question: is it ethical for universities to charge such similar tuition for a music degree as they do for a science degree?"
 slug = "is-the-cost-of-a-music-degree-ethical"
 title = "Is the Cost of a Music Degree Ethical?"
 +++

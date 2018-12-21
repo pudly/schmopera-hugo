@@ -2,7 +2,9 @@
 categories = "News"
 date = "2017-05-16T12:18:00-04:00"
 lastmod = "2017-05-17T11:01:00-04:00"
+preamble = "Image: selections to be used in the multi-sensory *Becoming Sensor* installation room, designed by Ayelen Liberona and Natasha Myers, with sound design by Allison Cameron."
 publishDate = "2017-05-17T10:30:00-04:00"
+short_description = "The event is created for CART/ACRT 2017 Conference Performing the Anthropocene: Setting the Stage for the End of the World, and centres on a performance of John Cage's performance piece, Lecture on the Weather (1976). The piece was commissioned by the CBC, in recognition of the American bicentennial; the text, delivered by 12 performers, features an introduction by Cage himself, expressing dismay at the actions (or inaction) of the American government."
 slug = "an-imaginative-multiroom-transformation-with-music-in-the-barns"
 title = "An &quot;imaginative multi-room transformation&quot; with Music in the Barns"
 +++

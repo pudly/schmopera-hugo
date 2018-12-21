@@ -3,6 +3,7 @@ categories = "Review"
 date = "2015-04-20T10:03:00-04:00"
 lastmod = "2015-04-22T13:17:00-04:00"
 publishDate = "2015-04-20T11:57:00-04:00"
+short_description = "I went yesterday afternoon to see The Barber of Seville at the Four Seasons Centre. The anticipation was serious, especially since I was able to see the director's concept discussion, and I interviewed three singers from the cast, Joshua Hopkins, Alek Shrader, and Serena Malfi."
 slug = "in-review-the-barber-of-seville-at-the-coc"
 title = "In review: The Barber of Seville at the COC"
 +++

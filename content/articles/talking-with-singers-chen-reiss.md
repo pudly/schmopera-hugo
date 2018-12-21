@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-03-20T10:29:00+00:00"
 lastmod = "2017-03-22T16:36:00+00:00"
+preamble = "Israeli soprano [Chen Reiss](/scene/people/chen-reiss/) just finished singing Zdenka in the [Wiener Staatsoper](/scene/companies/wiener-staatsoper/)'s *Arabella*; she'll return to Vienna in May to sing Marzelline in Beethoven's *Fidelio*, following a stretch of beautifully varied concert work in Germany, Portugal, Switzerland, Turkey, and the United States.\n\nReiss earned her enviable international schedule the old-fashioned way, moving away from home and rising to the competitive standards of operatic hubs like New York and Munich. In her grounded, wise interview, Reiss chats about her disciplined regimen to stay healthy, the lessons learned during her maternity leave, and the years spent in New York, \"breathing music\"."
 publishDate = "2017-03-22T16:34:00+00:00"
+short_description = "\"It is very important to leave a few weeks a year free from work so that I can truly rest, recharge and miss the stage. Saying NO to certain offers is not easy but sometimes necessary. I realized it during my maternity leave, in which I did not sing a tone for 6 months!! I did not even sing in the bath. It was wonderful but even more wonderful was coming back to the audience, to the theater, to the orchestras, I was so fresh and enthusiastic.\""
 slug = "talking-with-singers-chen-reiss"
 title = "Talking with singers: Chen Reiss"
 +++

@@ -2,7 +2,9 @@
 categories = "Editorial"
 date = "2015-04-21T17:50:00-04:00"
 lastmod = "2015-05-13T09:00:00-04:00"
+preamble = "This is the second instalment in our series designed to help singers and other artists use the Internet to their advantage. [Check out part 1 right here](/singers-heres-how-to-use-social-media/), on getting social-media-savvy."
 publishDate = "2015-05-13T08:00:00-04:00"
+short_description = "Singers, I know you've heard this before, but seriously, you all need to get websites. Some of you don't have websites, or Twitter accounts, or Facebook pages. I'd name names, but you're not on the Internet."
 slug = "singers-heres-what-you-need-to-know-about-your-website"
 title = "Singers: here&#039;s what you need to know about your website"
 +++

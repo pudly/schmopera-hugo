@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-01-28T09:32:00+00:00"
 lastmod = "2017-01-28T10:55:00+00:00"
 publishDate = "2017-01-28T10:25:00+00:00"
+short_description = "Exposure to culture so outwardly, unabashedly about sex (whatever form it takes) will very likely challenge the typical Nashville Opera patron (#biblebelt). Three Way manages to take a subject that is most taboo, particularly in the American South, and – I think, I hope – manages to inspire its audiences to a greater understanding of their fellow person…which is something we all super need right now."
 slug = "in-review-three-way"
 title = "In review: Three Way"
 +++

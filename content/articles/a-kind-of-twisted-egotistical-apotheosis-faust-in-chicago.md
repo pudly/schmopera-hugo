@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-03-06T08:24:00-05:00"
 lastmod = "2018-03-06T12:07:00-05:00"
 publishDate = "2018-03-06T08:24:00-05:00"
+short_description = "Dressed as a fantastical dandy in a violent orange suit, van Horn's Mephisto was cool. And it's not just his good looks—which not even a black-and-white pompadour could disguise—it's also his booming but seductive-sweet voice."
 slug = "a-kind-of-twisted-egotistical-apotheosis-faust-in-chicago"
 title = "A kind of twisted, egotistical apotheosis: Faust in Chicago"
 +++

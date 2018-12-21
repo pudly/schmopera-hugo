@@ -3,6 +3,7 @@ categories = "Review"
 date = "2014-03-28T08:12:00-04:00"
 lastmod = "2015-04-24T09:39:00-04:00"
 publishDate = "2014-03-28T08:12:00-04:00"
+short_description = "I went to hear some music by Canadians yesterday at the Richard Bradshaw Amphitheatre, as part of the Free Concert Series (that you should all be checking out!). It was a chance for the public to hear some of the products of the ongoing Canadian Art Song Project, headed by artistic directors Lawrence Wiliford and Steven Philcox."
 slug = "go-canada"
 title = "Go, Canada!"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-10-10T21:56:00-04:00"
 lastmod = "2017-10-11T13:19:00-04:00"
 publishDate = "2017-10-11T11:27:00-04:00"
+short_description = "This production had an entertaining concept, though I wish it had been taken further. The \"release\" of the technicolor was not gradual enough to stay present in the audience minds in the second and third act. Additionally, Doctor Malatesta's apparel was changed into vibrant colors but the Don's was not. It would have been interesting for his clothes to change when he is at the end of his rope with Norina; then, when there was a happy ending to switch back to black and white."
 slug = "don-pasquale-a-colorful-season-starter-at-minnesota-opera"
 title = "Don Pasquale: a colorful season starter at Minnesota Opera"
 +++

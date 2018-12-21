@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-07-20T19:14:00-04:00"
 lastmod = "2017-07-21T10:40:00-04:00"
+preamble = "American soprano [Brenda Rae](/scene/people/brenda-rae/) is used to spending her time high above the staff; currently, she's pairing high singing with the heights of Santa Fe, as she takes on the title role of [*Lucia di Lammermoor* at The Santa Fe Opera](https://www.santafeopera.org/operas-and-ticketing/lucia-di-lammermoor).\n\nWe first heard Rae as [Lulu at English National Opera](/in-review-lulu-at-eno/) in 2016, so it was a treat to chat with her about Mad Scenes, women who aren't weak, and one-of-a-kind performance spaces."
 publishDate = "2017-07-21T10:27:00-04:00"
+short_description = "\"For me, the key to a great Mad Scene is freedom. It's good to have parameters, but when there's freedom, I can do something unexpected which I think keeps the scene really fresh, and lends to the 'mad' quality of it! Musically, dynamics are key, and really help to keep the audience on the edge of their seats.\""
 slug = "talking-with-singers-brenda-rae"
 title = "Talking with singers: Brenda Rae"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-04-16T12:15:00-04:00"
 lastmod = "2018-04-17T11:48:00-04:00"
 publishDate = "2018-04-16T22:25:00-04:00"
+short_description = "What I found really interesting and different, was that in the second act, and even more in his final duet with Violetta, Ms. Blue had to bring her powerful voice down in volume to his, to match the fact that he was crooning, not full-out blasting as you usually have to do to be heard over an orchestra. As a result, their tender final scene, as she lay dying, was amazingly touching and intimate."
 slug = "heartfelt-and-intimate-manitoba-operas-la-traviata"
 title = "Heartfelt and intimate: Manitoba Opera&#039;s La Traviata"
 +++

@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2016-01-19T15:36:00-05:00"
 lastmod = "2016-01-25T09:13:00-05:00"
 publishDate = "2016-01-25T09:08:00-05:00"
+short_description = "Her bread-and-butter roles these days are large and daunting, like Elektra, Elsa, Ariadne, and Turandot. Still, Wagner's operas ask for unique standards of its singers. \"I guess it's like a marathon,\" says Goerke, \"but if you're a marathon-runner who's used to running marathons, it's just a total adrenaline rush, and it feels amazing.\""
 slug = "talking-with-singers-christine-goerke"
 title = "Talking with singers: Christine Goerke"
 +++

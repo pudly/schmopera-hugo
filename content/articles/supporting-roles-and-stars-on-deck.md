@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-11-28T15:13:00-05:00"
 lastmod = "2015-12-02T08:14:00-05:00"
 publishDate = "2015-12-02T08:14:00-05:00"
+short_description = "There are singers like Luciano Pavarotti, Monterrat Caballé, and Renata Scotto, whose professional debuts were as Rodolfo, Mimì, and Violetta, respectively. Clearly, this is not the usual career trajectory; even Maria Callas started off in supporting roles (much to the envy of her leading castmates). For opera singers, starting \"at the bottom\" is the only way to work towards title roles."
 slug = "supporting-roles-and-stars-on-deck"
 title = "Supporting roles, and stars on deck"
 +++

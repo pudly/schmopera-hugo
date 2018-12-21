@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-12-05T15:59:00+00:00"
 lastmod = "2016-12-12T09:17:00+00:00"
 publishDate = "2016-12-12T09:11:00+00:00"
+short_description = "You're busier during your final years of school than in the first years of your career; without classes and school-produced concerts to keep you motivated (I'll admit, I took much of my school's resources for granted for too long), the early stages of a professional life can feel like you're twiddling your thumbs."
 slug = "skills-to-learn-downtime-on-the-job"
 title = "Skills to learn: downtime on the job"
 +++

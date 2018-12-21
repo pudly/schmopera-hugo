@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-05-01T15:59:00-04:00"
 lastmod = "2017-05-02T08:47:00-04:00"
+preamble = "Toronto-based [Collectìf](/scene/companies/collectif/) is the product of creativity, artistic independence, and musical curiosity. Its core team includes singers [Jennifer Krabbe](/scene/people/jennifer-krabbe/), [Whitney O'Hearn](/scene/people/whitney-ohearn/) and [Danika Lorèn](/scene/people/danika-loren/), and pianist Tom King; using the medium of art song, Collectìf creates original, immersive performances that have our interest officially piqued.\n\nWe spoke with Jennifer, Whitney, and Danika about the creation of Collectìf, the work they're proud of, and their favourite songs (for now, anyway)."
 publishDate = "2017-05-02T08:47:00-04:00"
+short_description = "\"We were all coming to the end of our academic careers at around the same time. We were looking to create something interesting, and we wanted to be our own bosses. Each of us adds something totally unique to the dynamic of the group, and we are completed by Tom King, who has been out pianist for every show.\""
 slug = "meet-the-folks-collectf"
 title = "Meet the folks: Collectìf"
 +++

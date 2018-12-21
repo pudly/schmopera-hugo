@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-01-08T11:37:00+00:00"
 lastmod = "2017-01-08T12:13:00+00:00"
 publishDate = "2017-01-08T12:03:00+00:00"
+short_description = "Colin Ainsworth steps out as the hapless, handsome, if somewhat dim-witted Frederic. His bright face matched his clear, sailing tone throughout the house. His protrayal of Frederic's dim-wittedness was presented less as a sheer stupidity or unintelligence and more as absent-minded thoughtlessness which I thought was a strong choice. His chemistry with Mabel and Ruth was tangible through the whole show."
 slug = "tots-pirates-of-penzance-a-glorious-thing"
 title = "TOT&#039;s Pirates of Penzance: &quot;A glorious thing&quot;"
 +++

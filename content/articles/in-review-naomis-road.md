@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-11-17T17:56:00+00:00"
 lastmod = "2016-12-07T22:49:00+00:00"
 publishDate = "2016-11-18T10:58:00+00:00"
+short_description = "As Canadians, we pride ourselves on our acceptance of others, our inclusivity, and our concern for the well-being of others - but our record is not unblemished. There have been many missteps and atrocities committed by Canadians from which we can't shy away. Especially now, when we see who's running for the leadership of one of Canada's major political parties. We can not let ourselves go back to a time when stories like the one I saw tonight were happening."
 slug = "in-review-naomis-road"
 title = "In review: Naomi&#039;s Road"
 +++

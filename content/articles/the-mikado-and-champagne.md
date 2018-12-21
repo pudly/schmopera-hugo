@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2014-12-17T11:50:00-05:00"
 lastmod = "2015-04-13T22:13:00-04:00"
 publishDate = "2014-12-17T11:50:00-05:00"
+short_description = "Looking for something to tide you over between the annual stretch of Christmas-New Year's-Regular Life? Want a way to get some catchy songs in your head that aren't Christmas carols? Me too."
 slug = "the-mikado-and-champagne"
 title = "The Mikado and Champagne"
 +++

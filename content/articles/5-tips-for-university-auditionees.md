@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2015-04-11T19:01:00-04:00"
 lastmod = "2015-04-11T19:01:00-04:00"
+preamble = "<p>\n\tIt's that time of year! Music schools across North America are holding their entrance auditions over the next couple of months, and as someone who's been privy to more than a few in my own career, I wanted to extend some advice. Young singers, as you sing your hearts out for the faculties at the University of Toronto, GGS, Western University, McGill, Juilliard, Eastman, NEC, Peabody, Oberlin, Rice, and Curtis, I offer you tips from your audition pianist.\n</p>"
 publishDate = "2015-02-17T09:01:00-05:00"
+short_description = "Young singers, as you sing your hearts out for the faculties at the University of Toronto, GGS, Western University, McGill, Juilliard, Eastman, NEC, Peabody, Oberlin, Rice, and Curtis, I offer you tips from your audition pianist."
 slug = "5-tips-for-university-auditionees"
 title = "5 Tips for University Auditionees"
 +++

@@ -2,7 +2,9 @@
 categories = "Op-ed"
 date = "2017-07-21T14:57:00-04:00"
 lastmod = "2017-10-27T11:46:00-04:00"
+preamble = "New contributor [Colleen Maybin](/authors/colleen-maybin/) is the Director of Education and Community Engagement at Vancouver Opera. She curates the all of the community programs and public events during the Vancouver Opera Festival, and she was excited to send us the following submission in response to Vancouver Opera's inaugural New Works Project."
 publishDate = "2017-07-28T09:14:00-04:00"
+short_description = "\"I appreciated that we weren't the focus of the project; we were the vessel for it. Everything in the experience was about making the art better and it was our job to the best performance possible. In any opera, the music comes from the libretto and every note means something. To have that be the full focus of the project meant that was a different musical experience for me.\""
 slug = "the-value-of-creating-new-work-for-singers"
 title = "The value of creating new work for singers"
 +++

@@ -2,7 +2,9 @@
 categories = "Op-ed"
 date = "2017-05-10T14:47:00-06:00"
 lastmod = "2017-06-25T10:15:00-06:00"
+preamble = "This is an essay originally published on [*New Music Box*](http://www.newmusicbox.org/articles/a-fine-mess-an-emerging-opera-composer-vs-the-american-new-opera-machine/), re-posted here with permission from the author."
 publishDate = "2017-05-12T10:22:00-06:00"
+short_description = "I soon learned that cold-shopping an out-of-the-box stage work is a thorny, if not downright impossible, proposition.  In the autumn of 2015, I reached out to roughly 200 small- to medium-sized American opera companies. In a 100-word email, I introduced myself and asked for a five-to-ten-minute phone conversation about trends in the commissioning and production of new opera (a subject that obviously interested me but was benign enough for an initial discussion)."
 slug = "a-fine-mess-an-emerging-opera-composer-vs-the-american-new-opera-machine"
 title = "A fine mess: an emerging opera composer vs. the American new opera machine"
 +++

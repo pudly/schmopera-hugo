@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-01-19T10:35:00+00:00"
 lastmod = "2017-01-19T14:26:00+00:00"
+preamble = "Next month, [Mahogany Opera Group](/scene/companies/mahogany-opera-group/) presents the third edition of its fascinating [Various Stages Festival](http://www.mahoganyoperagroup.co.uk/productions/various-stages-festival-2017/). The Festival showcases theatrical and musical work in progress; out of a pool of open submissions, Mahogany has chosen four pieces to be workshopped and presented, along with two additional works developed in partnership with other companies.\n\nOne of these showcased works is [*Mu'a (Rain)*](http://www.mahoganyoperagroup.co.uk/productions/various-stages-festival-2017/mua-rain/), by composer Dai Fujikura and director/choreographer Dam Van Huynh. Their \"movement opera\" is inspired by the practice of Vietnamese water puppetry, a tradition that dates as far back as the 11th century. We spoke with Fujikura and Van Huynh about creating *Mu'a*, ahead of its [presentation at Various Stages](http://www.mahoganyoperagroup.co.uk/productions/various-stages-festival-2017/), **February 24 at 1pm** at London's Institute of Contemporary Arts."
 publishDate = "2017-01-19T11:52:00+00:00"
+short_description = "\"I have always been fascinated by the magic of water puppetry, its deep roots in Vietnamese culture but at the same time from a different era. I am keen to see what will come out of this encounter between an ancient artform and a group of artists anchored in our XXIst century. This process will be the chance to connect those dots and hopefully shake our conception of what is considered as 'traditional' versus 'contemporary'.\""
 slug = "the-2017-various-stages-festival-presents-mua"
 title = "The 2017 Various Stages Festival presents: Mu&#039;a"
 +++

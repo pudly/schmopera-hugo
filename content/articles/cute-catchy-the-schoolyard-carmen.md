@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-07-27T12:21:00-04:00"
 lastmod = "2017-07-30T11:16:00-04:00"
 publishDate = "2017-07-30T10:27:00-04:00"
+short_description = "Hardcore opera fans will also get a kick out of a show like Schoolyard Carmen. It's entertaining to hear how the music is re-purposed, and there's an added layer of humour comparing the aria contexts of Bizet's work, and Shoestring Opera's. The \"Toreador Song\" was basically the same - a cocky kid telling everyone how great he really is - and Carmen's sombre Card Aria retains its fateful mood as the young newcomer to school ponders her destiny while sitting expectantly in the Vice Principal's office."
 slug = "cute-catchy-the-schoolyard-carmen"
 title = "Cute &amp; catchy: The Schoolyard Carmen"
 +++

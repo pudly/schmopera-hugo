@@ -2,7 +2,9 @@
 categories = "Review"
 date = "2014-06-27T14:57:00-04:00"
 lastmod = "2015-04-23T15:13:00-04:00"
+preamble = "This is a review by guest contributor and baritone [Gregory Finney](https://twitter.com/gregory_finney). I was sad to miss what looks like a fantastic show. Bravo to the cast and crew, and a big thanks to Greg for the wise words. Feature photo credit: [Greg's Instagram](http://instagram.com/giggyhertz)."
 publishDate = "2014-06-27T14:57:00-04:00"
+short_description = "Thursday, June 25th, I made my way to the healthily air-conditioned Ernest Balmer Studio, home of Tapestry New Opera to see the Toronto Concert Premiere of Leslie Uyeda's opera When the Sun Comes Out. #WorldPride2014.\nOriginally produced in Vancouver on August 5, 2013 and commissioned by the Queer Arts Festival, _When the Sun Comes Out_ tells the heart-wrenching story of what happens to those unfortunate enough to live where they can't love freely."
 slug = "in-review-when-the-sun-comes-out"
 title = "In review: When the Sun Comes Out"
 +++

@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2017-03-19T11:23:00+00:00"
 lastmod = "2017-03-19T12:11:00+00:00"
 publishDate = "2017-03-19T12:11:00+00:00"
+short_description = "Frankly, a \"bravo\" best follows an aria with a great high note near the end, or some stellar coloratura, or one of those spinning-to-the-bitter-end final notes that singers love to do in bel canto. In other cases, where an aria should leave you sunken in your seat, fading out into the sounds of a pin-drop silence, shouting \"bravo\" is just obscene."
 slug = "unpopular-opinions-when-bravo-kills-the-mood"
 title = "Unpopular opinions: when &quot;bravo!&quot; kills the mood"
 +++

@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2017-11-26T11:12:00-05:00"
 lastmod = "2017-11-26T18:11:00-05:00"
 publishDate = "2017-11-26T17:59:00-05:00"
+short_description = "It's something to ponder: have the great composers of history inadvertently laid out a predetermined social life for generations of operatic artists? Have they added to the stereotype of rival divas by keeping them isolated to their own operas? Have they given credulity to the inevitable cross-disciplinary romances between soprano and baritone, between répétiteur and tenor?"
 slug = "how-your-voice-type-determines-your-onthejob-social-life"
 title = "How your voice type determines your on-the-job social life"
 +++

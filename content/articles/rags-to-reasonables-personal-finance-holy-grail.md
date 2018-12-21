@@ -3,6 +3,7 @@ categories = "News"
 date = "2015-10-13T18:56:00-04:00"
 lastmod = "2015-10-13T19:57:00-04:00"
 publishDate = "2015-10-14T08:00:00-04:00"
+short_description = "My pal Chris Enns is a hardworking tenor, and creator of Rags to Reasonable, a blog about personal finance geared towards artists. He created this fantastic document, The Big Book of Back to School, which is a wicked one-stop link for all your questions about budgets, working as an entrepreneur, and managing your happy factor as well as your money."
 slug = "rags-to-reasonables-personal-finance-holy-grail"
 title = "Rags to Reasonable&#039;s Personal Finance Holy Grail"
 +++

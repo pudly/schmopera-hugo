@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2016-06-07T09:01:00-06:00"
 lastmod = "2016-07-10T10:27:00-06:00"
+preamble = "Belcore's aria from *L'elisir d'amore* is all about laying it on thick. He's after Adina, just like the opera's underdog/hero, Nemorino; he pulls out all the stops, like referencing literature, giving her flowers, and generally bragging about how awesome he is at life. It's a relatively rare moment of comedy for a baritone, although the aria doesn't come without its challenges. Along with your teachers and coaches, we offer up a few tips for wading through coloratura, and getting the best comedic bang for your buck."
 publishDate = "2016-07-08T21:18:00-06:00"
+short_description = "Belcore's aria from L'elisir d'amore is all about laying it on thick. He's after Adina, just like the opera's underdog/hero, Nemorino; he pulls out all the stops, like referencing literature, giving her flowers, and generally bragging about how awesome he is at life. It's a relatively rare moment of comedy for a baritone, although the aria doesn't come without its challenges. "
 slug = "aria-guides-come-paride-vezzoso"
 title = "Aria guides: &quot;Come Paride vezzoso&quot;"
 +++

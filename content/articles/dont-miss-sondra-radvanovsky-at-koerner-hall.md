@@ -3,6 +3,7 @@ categories = "News"
 date = "2015-11-09T18:09:00-05:00"
 lastmod = "2015-11-10T11:25:00-05:00"
 publishDate = "2015-11-10T11:20:00-05:00"
+short_description = "Her performance of Queen Elizabeth I stayed with me a long time after seeing the Canadian Opera Company's 2014 production of Roberto Devereux, so Sondra Radvanovsky's upcoming recital at Toronto's Koerner Hall is on my absolutely-do-not-miss list."
 slug = "dont-miss-sondra-radvanovsky-at-koerner-hall"
 title = "Don&#039;t miss: Sondra Radvanovsky at Koerner Hall"
 +++

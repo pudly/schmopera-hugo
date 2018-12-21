@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2014-02-20T09:30:00-05:00"
 lastmod = "2015-04-27T21:48:00-04:00"
 publishDate = "2014-02-20T09:30:00-05:00"
+short_description = "Great news! I'll be making an appearance on behalf of Schmopera on the Big COC Podcast! With host Gianmarco Segato, I'll be joined by maestro Stephen Lord, who's in town conducting A Masked Ball at the Canadian Opera Company, and by Paula Citron, arts journalist, critic and broadcaster, and a past guest of the podcast."
 slug = "schmopera-makes-it-to-the-big-leagues"
 title = "Schmopera makes it to the big leagues"
 +++

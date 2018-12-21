@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2016-06-11T13:16:00-04:00"
 lastmod = "2017-08-09T19:24:00-04:00"
+preamble = "New Brunswick-born soprano [Beth Hagerman](/scene/people/beth-hagerman/) impressed us most recently in [Tapestry Opera](/scene/companies/tapestry-opera/)'s [*Songbook VI*](/he-saidshe-said-songbook-vi/), and she's a lovely example of what it means to be a true young artist. With an exciting voice and professional wisdom beyond her years, Hagerman gave us a beautiful interview. She chats about her musical family, the elusive \"perfect 'ah' vowel,\" and what it means to be a brave and autonomous singer."
 publishDate = "2016-06-18T21:45:00-04:00"
+short_description = "\"I think that young singers need to know from a very early stage in their development that they have the authority to be an artist. It's hard when you’re in school and you’re focusing so hard on technique. You have teachers telling you which aspects of your singing are good or bad. You start to think in terms of absolutes and you forget about things like interpretation, artistry and connecting with the text because that feels so wishy-washy in a world where you need to find that seemingly mythical perfect 'ah' vowel.\""
 slug = "spotlight-on-beth-hagerman"
 title = "Spotlight on: Beth Hagerman"
 +++

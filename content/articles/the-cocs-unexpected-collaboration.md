@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2014-12-19T13:44:00-05:00"
 lastmod = "2015-04-13T17:35:00-04:00"
 publishDate = "2014-12-19T13:44:00-05:00"
+short_description = "\"Mark down 2014 as the year the Canadian Opera Company put out an album with Broken Social Scene and Fucked Up. No, really.\"\nThat's right. With The Globe and Mail and recording label Arts & Crafts, the COC is a presenting partner of Broadsheet Music: A Year in Review, a new (and free!) album full of songs about the stories and issues of 2014 that affected Canadians. "
 slug = "the-cocs-unexpected-collaboration"
 title = "The COC&#039;s unexpected collaboration"
 +++

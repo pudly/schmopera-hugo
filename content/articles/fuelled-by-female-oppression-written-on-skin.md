@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-10-23T12:42:00-04:00"
 lastmod = "2017-10-24T10:49:00-04:00"
 publishDate = "2017-10-24T10:49:00-04:00"
+short_description = "The music develops in parallel to the narrative, twisting and turning in response to the events portrayed. From the subtle, gliding arcs of the strings during the seduction to the terrifying crescendos accompanying The Boy's murder, the score varies immensely. Benjamin is especially gifted at disseminating horror, the overwhelming psychological intensity of the opera's key moments becoming almost unbearable."
 slug = "fuelled-by-female-oppression-written-on-skin"
 title = "Fuelled by female oppression: Written on Skin"
 +++

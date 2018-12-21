@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2013-12-31T20:19:00-05:00"
 lastmod = "2015-04-28T23:21:00-04:00"
 publishDate = "2013-12-31T20:19:00-05:00"
+short_description = "Selfishly, I chose to wrap up the year with a list of my favourite tidbits of operatic delight. Included are my favourite renditions of great moments in opera."
 slug = "schmoperas-faves-of-2013"
 title = "Schmopera&#039;s Faves of 2013"
 +++

@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-03-29T09:11:00+01:00"
 lastmod = "2016-03-29T11:34:00+01:00"
 publishDate = "2016-03-29T11:09:00+01:00"
+short_description = "To singers and others immersed in opera, this may seem like a surprising way for people to seek therapy; our first reaction was to go through a mental list of arias, and imagine what operatic excerpts would serve to help people with their modern-day problems. It's an amazing test of time for the repertoire, and for the singers, who choose arias for people going through romantic troubles, problems with children or parents, bereavement, symptoms of depression, or the good old \"sick of being single\"."
 slug = "helpful-singers-opera-does-house-calls"
 title = "Helpful singers: opera does house calls"
 +++

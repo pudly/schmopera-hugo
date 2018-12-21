@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2018-05-31T20:34:00-04:00"
 lastmod = "2018-06-03T16:48:00-04:00"
+preamble = "Stage director [Jennifer Williams](/scene/people/jennifer-williams/) just added a world premiere to her growing résumé, in *Backwards From Winter* at the Center for Contemporary Opera. Williams is an industrious young director, assisting the likes of Francesca Zambello, Paul Curran, and David Alden, and producing her own work at Miami Music Festival, Pittsburgh Opera, and with DC Public Opera, of which she is the founding Artistic Director.\n\nWilliams gave us a brilliant chat about the director's role in opera, potentially problematic themes of centuries-old works, and how she incorporates technology into her productions."
 publishDate = "2018-06-02T17:20:00-04:00"
+short_description = "\"My philosophy as a director is this: that opera at its best is a place where the possible can encounter the impossible, challenging our notions of what our reality could be like. Imagination and empathy are what shift perspectives and start conversations about what our world could be like. It's a mistake to underestimate its value.\""
 slug = "talking-with-directors-jennifer-williams"
 title = "Talking with directors: Jennifer Williams"
 +++

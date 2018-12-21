@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2018-11-04T13:36:00-05:00"
 lastmod = "2018-11-05T07:18:00-05:00"
 publishDate = "2018-11-04T21:04:00-05:00"
+short_description = "Then one day in the car, he heard a completely original Melody that suddenly came into his head and he began to cry. From there on - and to this day - melodies have come to Mr. Thomas \"incessantly.\" A composer was born."
 slug = "veggies-in-the-morning-and-melodies-throughout-the-day"
 title = "&quot;Veggies in the morning, and melodies throughout the day&quot;"
 +++

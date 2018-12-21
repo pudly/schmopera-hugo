@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-04-05T10:16:00+01:00"
 lastmod = "2016-04-05T10:28:00+01:00"
 publishDate = "2016-04-05T10:28:00+01:00"
+short_description = "Singers, you're all pros at making the most out of your summer education, and summer programs rooted in operatic and vocal training are a big part of that. At $450 (plus HST), the Summer Acting Intensive is an economical, focused approach to honing skills that are vital for any working opera singer. As opera companies continue the move towards producing chamber-sized operas in intimate venues, acting chops have become a necessity, rather than a bonus feature on top of a killer voice."
 slug = "good-ideas-adult-summer-acting-intensive"
 title = "Good ideas: Adult Summer Acting Intensive"
 +++

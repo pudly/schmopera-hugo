@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-12-04T19:11:00-05:00"
 lastmod = "2018-02-12T09:48:00-05:00"
 publishDate = "2017-12-04T20:11:00-05:00"
+short_description = "The singing, in particular, was phenomenal. Elīna Garanča was nothing short of flawless as Santuzza. Her voice was warm, with a steely edge and full of raw emotional power. She made everything she could have out of the character, singing with true beauty and mastery. Opposite her, Bryan Hymel sang a stunning Turiddu."
 slug = "an-astonishing-bryan-hymel-in-the-royal-operas-double-bill"
 title = "An &quot;astonishing&quot; Bryan Hymel in the Royal Opera&#039;s double bill"
 +++

@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-06-29T18:14:00-06:00"
 lastmod = "2017-06-30T23:02:00-06:00"
+preamble = "British soprano [Alice Privett](/scene/people/alice-privett/) stands out onstage; though her career is still young, she has under her belt roles like Giulietta (*I Capuleti e i Montecchi*), Ginevra (*Ariodante*), Mimì (*La bohème*), and the title role in *L'incoronazione di Poppea*. This summer, she takes on Sandrina in the Ryedale Festival's July production of [*La finta giardiniera*](http://www.ryedalefestival.com/index.php/2017-list/4-ryedale-festival-opera-the-garden-of-disguises).\n\nShe spoke with us about Mozart's early opera about social class and power, and what she has discovered about her professional life full of \"emotional highs and lows\"."
 publishDate = "2017-06-30T23:02:00-06:00"
+short_description = "\"Mozart chose a libretto in which the principal female character has to forgive some heinous misdoings of her male counterpart. However, Like Rosina, she does get to exact her own revenge on him throughout the opera before finally capitulating. The main message seems to me to be that forgiveness is an integral part of loving somebody.\""
 slug = "spotlight-on-alice-privett"
 title = "Spotlight on: Alice Privett"
 +++

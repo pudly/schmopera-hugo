@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2015-01-08T12:21:00-05:00"
 lastmod = "2015-04-12T10:38:00-04:00"
 publishDate = "2015-01-08T12:21:00-05:00"
+short_description = "Taking place July 12-23rd, 2015, Brott Opera is a brand new program designed to give singers an opportunity to get onstage. Brott Opera is the brainchild of Artistic Director Boris Brott, celebrated conductor and founder of the National Academy Orchestra of Canada, and Program Director Taras Kulish, bass-baritone and Executive Director of the McGill Chamber Orchestra."
 slug = "all-about-brott-opera"
 title = "All about Brott Opera"
 +++

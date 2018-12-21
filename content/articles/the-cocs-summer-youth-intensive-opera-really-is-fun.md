@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2014-06-11T07:45:00-04:00"
 lastmod = "2015-04-23T16:16:00-04:00"
 publishDate = "2014-06-11T07:45:00-04:00"
+short_description = "Each summer, the Canadian Opera Company presents the Summer Youth Intensive program, which is designed for young opera lovers, from grades 9 to 12. At the SYI, the participants bring their existing interests and skills, and refine them with the help of professionals in the operatic industry."
 slug = "the-cocs-summer-youth-intensive-opera-really-is-fun"
 title = "The COC&#039;s Summer Youth Intensive: Opera really is fun!"
 +++

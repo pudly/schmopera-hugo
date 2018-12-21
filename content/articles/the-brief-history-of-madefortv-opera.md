@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-08-06T12:32:00+01:00"
 lastmod = "2016-08-17T09:26:00+01:00"
 publishDate = "2016-08-17T09:24:00+01:00"
+short_description = "Do television networks, publicly funded or otherwise, have a responsibility to foster underdog-like forms of art by keeping them visible to the public? Are commercial networks like NBC or CBS or HBO free from the responsibility of exposing viewers to what they may enjoy - may learn from, even - and not just whats been statistically proven to get high ratings?"
 slug = "the-brief-history-of-madefortv-opera"
 title = "The brief history of made-for-TV opera"
 +++

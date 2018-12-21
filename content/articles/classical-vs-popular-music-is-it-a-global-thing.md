@@ -2,7 +2,9 @@
 categories = "Op-ed"
 date = "2015-04-16T19:23:00-04:00"
 lastmod = "2015-04-23T10:32:00-04:00"
+preamble = "This post originally went up [Musical Toronto](http://www.musicaltoronto.org/2015/04/20/schmopera-the-cultural-divide-between-classical-and-popular-music/). For more Schmopera via Musical Toronto, [click here](http://www.musicaltoronto.org/category/schmopera/)."
 publishDate = "2015-04-23T09:26:00-04:00"
+short_description = "It's important to note that to North Americans, European Classical music is something that's already once removed, culturally speaking. I wondered if it was different in India, where both the art music and popular music are fostered in the same place.\n"
 slug = "classical-vs-popular-music-is-it-a-global-thing"
 title = "Classical vs popular music: is it a global thing?"
 +++

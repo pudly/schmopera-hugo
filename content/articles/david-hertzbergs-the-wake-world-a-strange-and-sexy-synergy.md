@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-08-08T20:17:00-04:00"
 lastmod = "2017-08-10T09:15:00-04:00"
+preamble = "On the exciting line-up for this year's [O17 Festival](https://www.operaphila.org/festival/) is the world premiere of [Opera Philadelphia](/scene/companies/opera-philadelphia/)'s Composer in Residence David Hertzberg's [*The Wake World*](https://www.operaphila.org/whats-on/on-stage-2017-2018/the-wake-world/), **September 18-25**. With director R.B. Schlather, Hertzberg's work is designed to give audiences a one-of-a-kind experience of the galleries of The Barnes Foundation, focusing on the fascinating lives of Dr. Albert C. Barnes (1872-1951) and Aleister Crowley (1875-1947).\n\nHertzberg spoke with us about his unique new work, and the \"beyond rad\" experience of writing an opera to feature the Opera Philadelphia Chorus."
 publishDate = "2017-08-10T09:15:00-04:00"
+short_description = "\"I hope people enjoy the show (!), maybe even get carried away, and that afterwards they experience the collection, and maybe even opera, or dare I say, art in general, with fresh ears and eyes.\""
 slug = "david-hertzbergs-the-wake-world-a-strange-and-sexy-synergy"
 title = "David Hertzberg&#039;s The Wake World: &quot;A strange and sexy synergy.&quot;"
 +++

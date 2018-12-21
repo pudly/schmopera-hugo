@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2015-12-10T19:44:00-05:00"
 lastmod = "2015-12-18T10:10:00-05:00"
 publishDate = "2015-12-18T10:06:00-05:00"
+short_description = "In the Weimar era, there seemed to be a cabaret for just about anybody. The dinner-theatre style of cabaret was common, says Adi, but there were also \"comedy clubs, gay cabarets and political cabarets, [and] each cabaret likely had its own audience.\""
 slug = "vergesst-uns-nicht-adi-braun-on-weimar-cabaret"
 title = "&quot;Vergesst uns nicht!&quot;: Adi Braun on Weimar cabaret"
 +++

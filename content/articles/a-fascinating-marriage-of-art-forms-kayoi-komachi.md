@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-10-27T11:39:00-04:00"
 lastmod = "2017-10-27T14:24:00-04:00"
 publishDate = "2017-10-27T14:24:00-04:00"
+short_description = "In traditional Noh, there is far less in terms of story and action than you would expect in a Western-style play or opera. So much of the story is often based in metaphor, and the performers, rather than acting out a series of events, are conveying the essence of a story instead of enacting it."
 slug = "a-fascinating-marriage-of-art-forms-kayoi-komachi"
 title = "&quot;A fascinating marriage of art forms&quot;: Kayoi Komachi"
 +++

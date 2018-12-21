@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-02-07T16:40:00-05:00"
 lastmod = "2018-02-07T17:14:00-05:00"
 publishDate = "2018-02-07T16:40:00-05:00"
+short_description = "In Barrie Kosky's new production for the Royal Opera that had its premiere in 2016 at Oper Frankfurt, there is no time period, nor geographical location. The sultry voice of Claude de Demo narrates the story and sets the scene in between musical numbers, in lieu of spoken dialogue or recitative. All this being said, the entire evening was thrilling and unforgettable for all the right reasons."
 slug = "androgyny-is-sexy-carmen-at-roh"
 title = "Androgyny is sexy: Carmen at ROH"
 +++

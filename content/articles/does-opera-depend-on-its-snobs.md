@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2014-08-26T14:43:00-04:00"
 lastmod = "2015-04-16T17:18:00-04:00"
 publishDate = "2014-08-26T14:43:00-04:00"
+short_description = "On that old topic of opera's social relevance, I came across an article by Robert Thicknesse of The Guardian, entitled \"How I fell out of love with opera\". The long-time arts critic argues that the social snobbery that clouds opera will never be shed, since those social snobs are the ones funding it all to begin with. \""
 slug = "does-opera-depend-on-its-snobs"
 title = "Does opera depend on its snobs?"
 +++

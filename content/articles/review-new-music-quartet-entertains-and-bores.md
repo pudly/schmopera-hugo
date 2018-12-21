@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-03-19T17:08:00-04:00"
 lastmod = "2018-03-20T14:25:00-04:00"
 publishDate = "2018-03-20T14:25:00-04:00"
+short_description = "In the second section, the ensemble collectively sustained a layered, nuanced, morphing wail. Imagine an emergency foghorn exploding a metropolitan soundscape, triggering car alarms, and galvanizing old-timey constables to lay on their whistles. Think a Lichtenstein-ian Whaam! Blam! Pop! in musical form."
 slug = "review-new-music-quartet-entertains-and-bores"
 title = "Review: New music quartet entertains and bores"
 +++

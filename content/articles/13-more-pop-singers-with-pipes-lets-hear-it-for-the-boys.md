@@ -2,7 +2,9 @@
 categories = "Op-ed"
 date = "2016-01-06T21:26:00-05:00"
 lastmod = "2016-01-07T17:01:00-05:00"
+preamble = "In reading [Jenna's awesome piece](/10-pop-singers-with-pipes/) on the 6th celebrating the skills of the pop singer, I found myself saying \"Wow, these ladies are awesome. I'm so glad we're celebrating them and their voices, but where are the boys?\"\n\nBefore I share my list (And yes Elton and Stevie would have been on it, if they hadn't been already fêted properly by Jenna) I'd like to take a moment to point out a dichotomy that seems to happen in pop music today. \n\nUsually, male musicians (by nature of being male) have an easier time (not that it's easy for anyone in this industry), however, in terms of pop singing males, I never hear people go on about their voices the way the do the ladies. *Every single one* of the ladies mentioned (and more - I'm looking at you Jessie J, Ella Fitzgerald, and Brittany Howard [of Alabama Shakes]) are phenoms of the first degree - but let's talk about (and maybe ogle) some of my favourites on the boys' team (not that it's a competition - Jesus, it's hard to keep this post egalitarian - just remember, this is about voice, not about which sex is better)."
 publishDate = "2016-01-08T09:00:00-05:00"
+short_description = "Usually, male musicians (by nature of being male) have an easier time (not that it's easy for anyone in this industry), however, in terms of pop singing males, I never hear people go on about their voices the way the do the ladies. Every. Single. One. of the ladies mentioned (and more - I'm looking at you Jessie J, Ella Fitzgerald, and Brittany Howard [of Alabama Shakes]) are phenoms of the first degree - but let's talk about (and maybe ogle) some of my favourites on the boys' team."
 slug = "13-more-pop-singers-with-pipes-lets-hear-it-for-the-boys"
 title = "13 more pop singers with pipes: let&#039;s hear it for the boys"
 +++

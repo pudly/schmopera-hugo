@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2017-07-29T20:54:00-04:00"
 lastmod = "2017-07-30T11:38:00-04:00"
 publishDate = "2017-07-30T11:30:00-04:00"
+short_description = "The players onstage, who in fact make up \"Canada's only Opera Improv group\" had fun and poked fun. They conjured up cringe-worthy audition situations, laid out solid impressions of well-known opera bosses, and basically roasted every stereotype of \"Canadian contemporary opera\". By design, what happened onstage was not only relevant to the audience, but hopelessly intertwined."
 slug = "fab-nights-whose-opera-is-it-anyway"
 title = "Fab nights: Whose Opera is it Anyway?"
 +++

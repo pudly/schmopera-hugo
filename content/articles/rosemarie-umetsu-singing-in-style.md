@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2016-06-09T09:21:00+01:00"
 lastmod = "2016-06-09T13:05:00+01:00"
+preamble = "Based out of her [Atelier](http://atelierrosemarieumetsu.com/home) in Toronto, designer [Rosemarie Umetsu](http://atelierrosemarieumetsu.com/biography) has an unique relationship with fashion and the performing arts. Her clients include artists like Joyce Di Donato, Jake Heggie, Gidon Saks, Angela Meade, and Pinchas Zukerman, and Umetsu often hosts salon evenings in her Yorkville studio. \n\nWith a long history of dressing opera singers, Umetsu was kind enough to offer some wisdom and advice about choosing flattering and comfortable gowns for stages of all sizes."
 publishDate = "2016-06-09T13:00:00+01:00"
+short_description = "Based out of her Atelier in Toronto, designer Rosemarie Umetsu has an unique relationship with fashion and the performing arts. Her clients include artists like Joyce Di Donato, Jake Heggie, Gidon Saks, Angela Meade, and Pinchas Zukerman, and Umetsu often hosts salon evenings in her Yorkville studio. With a long history of dressing opera singers, Umetsu was kind enough to offer some wisdom and advice about choosing flattering and comfortable gowns for stages of all sizes."
 slug = "rosemarie-umetsu-singing-in-style"
 title = "Rosemarie Umetsu: singing in style"
 +++

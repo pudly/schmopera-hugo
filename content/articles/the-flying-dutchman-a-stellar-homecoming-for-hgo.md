@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-10-22T08:22:00-04:00"
 lastmod = "2018-10-23T10:20:00-04:00"
 publishDate = "2018-10-22T19:44:00-04:00"
+short_description = "HGO's triumphant return to this venue was replete with sheer authenticity of spirit, dedication, and craftsmanship from all quarters. Throughout this marathon performance, I was pleasantly touched by this production that treated the central narrative of redemption through love as something to be regarded passively, and not inhabited fully, to be believed, yet inviting scrutiny from all angles."
 slug = "the-flying-dutchman-a-stellar-homecoming-for-hgo"
 title = "The Flying Dutchman a stellar homecoming for HGO"
 +++

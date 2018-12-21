@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-04-20T15:32:00-04:00"
 lastmod = "2018-04-20T19:28:00-04:00"
 publishDate = "2018-04-20T15:32:00-04:00"
+short_description = "Of course, sometimes the trickiest part of finding a pair of operas to form a double bill with is finding the links between the two works to be presented: after all, an operatic double-bill is only made stronger with the right pairing of works to perform."
 slug = "metrowest-double-bill-provides-thrills-delights-despite-mismatch"
 title = "MetroWest Double Bill Provides Thrills &amp; Delights Despite Mismatch"
 +++

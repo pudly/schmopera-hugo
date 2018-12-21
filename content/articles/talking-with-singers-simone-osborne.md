@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2017-09-15T12:59:00-04:00"
 lastmod = "2017-09-25T23:09:00-04:00"
 publishDate = "2017-09-25T22:57:00-04:00"
+short_description = "\"For the first couple of seasons that I came back I still very much felt like I had to prove myself,\" says Osborne of returning to what she considers her home company. She admits to feeling pressure to bring consistently great performances to the COC, where the standard of artistry is high and the audiences are in-the-know. \"It's probably the pressure I put on myself.\""
 slug = "talking-with-singers-simone-osborne"
 title = "Talking with singers: Simone Osborne"
 +++

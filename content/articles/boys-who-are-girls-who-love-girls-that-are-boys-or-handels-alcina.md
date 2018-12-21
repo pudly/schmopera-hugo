@@ -2,7 +2,9 @@
 categories = "Review"
 date = "2016-03-17T16:12:00+00:00"
 lastmod = "2016-03-17T17:50:00+00:00"
+preamble = "Editor's note: if you love the title of this review, [you'll really love our T-shirts](http://store.schmopera.com/collections/t-shirts/products/opera-is-boys-being-girls-being-boys-womens-t-shirt)."
 publishDate = "2016-03-17T16:48:00+00:00"
+short_description = "The stage was filled with some amazing talent to watch. All the singers did a remarkable job keeping up with Taurins's spritely, yet well-informed tempi, while there were some hallmarks of the \"student production\" it's definitely one of the better ones I've seen - not just at GGS, but overall. "
 slug = "boys-who-are-girls-who-love-girls-that-are-boys-or-handels-alcina"
 title = "Boys who are girls who love girls that are boys, or, Handel&#039;s Alcina"
 +++

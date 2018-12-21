@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2015-06-03T21:00:00-04:00"
 lastmod = "2017-05-21T11:53:00-04:00"
+preamble = "When it comes to singing coloratura, it's easy to imagine that there are those who can, and those who cannot. \"She's always been able to move her voice,\" we say, as if it's a skill one is born with. That may be true, but it doesn't mean the rest of you will never sing fast notes. Your voice teacher is the first step in becoming a master of the scales and arpeggios, no doubt about that. We've found a few tricks that really speed up the learning process, specifically that difficult distance to cross between knowing what the notes are, and making them mean something."
 publishDate = "2015-06-04T09:18:00-04:00"
+short_description = "When it comes to singing coloratura, it's easy to imagine that there are those who can, and those who cannot. \"She's always been able to move her voice,\" we say, as if it's a skill one is born with. That may be true, but it doesn't mean the rest of you will never sing fast notes."
 slug = "4-tips-for-when-there-are-too-many-notes"
 title = "4 tips for when there are too many notes"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-11-13T12:08:00+00:00"
 lastmod = "2016-11-14T12:14:00+00:00"
 publishDate = "2016-11-14T12:13:00+00:00"
+short_description = "The action unfolds in the graffiti-covered, industrial corners of what could be any contemporary city. During the overture, we were treated with a picture of the goings-on under Toante: a ruthless leader, his witless captain of the guard, and a near-mad Ifigenia, who through rogue mascara, bludgeons to death one unlucky visitor with a hammer. Narrative hook, indeed."
 slug = "in-review-the-jette-parker-young-artists-present-oreste-"
 title = "In review: the Jette Parker Young Artists present Oreste "
 +++

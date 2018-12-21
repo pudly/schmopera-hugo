@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-05-19T09:55:00+01:00"
 lastmod = "2016-05-19T13:42:00+01:00"
 publishDate = "2016-05-19T11:34:00+01:00"
+short_description = "A silent, stunning tableau, featuring dancer Ayano Honda in silhouette against a wash of saturated red, began the story; it gave way to a stage full of puppeteers, who spent the evening moving sets, providing ambient lighting, and playing a flock of birds. They smoothed the lines between the story's characters and the \"unseen\" bodies onstage, who also included three puppeteers bringing Cio-Cio San's son, Sorrow, to heartbreaking life."
 slug = "in-review-madam-butterfly-at-eno"
 title = "In review: Madam Butterfly at ENO"
 +++

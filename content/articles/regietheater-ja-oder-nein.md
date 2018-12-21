@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-01-24T11:59:00-05:00"
 lastmod = "2015-04-11T22:39:00-04:00"
 publishDate = "2015-01-24T11:59:00-05:00"
+short_description = "This past weekend, I attended The Opera Exchange, an event presented semi-regularly by the Canadian Opera Company to discuss relevant opera topics, structured around the COC’s current season. With Dmitri Tcherniakov’s production of Don Giovanni set to open on January 24th at the Four Seasons Centre, it was a good opportunity to chat about that polarizing topic, Regietheater, or director’s theatre."
 slug = "regietheater-ja-oder-nein"
 title = "Regietheater? Ja oder nein?"
 +++

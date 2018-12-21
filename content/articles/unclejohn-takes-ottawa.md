@@ -3,6 +3,7 @@ categories = "News"
 date = "2015-07-28T10:17:00-04:00"
 lastmod = "2015-07-31T08:16:00-04:00"
 publishDate = "2015-07-31T08:05:00-04:00"
+short_description = "Also heading to Canada's capital are the Cecilia String Quartet led by Music Director Miloš Repický. I was lucky enough to help out on the music end for a short while, a bizarre-in-a-great-way reunion of people and ideas. It's an impressive thing to watch such a strong cast reconvene; there's efficient work in a show-specific shorthand, but there are still questions about the space, the audience, the dialogue, all in the name of keeping #UncleJohn fresh."
 slug = "unclejohn-takes-ottawa"
 title = "#UncleJohn takes Ottawa"
 +++

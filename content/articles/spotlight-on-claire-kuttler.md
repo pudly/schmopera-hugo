@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2016-07-21T15:47:00-04:00"
 lastmod = "2016-07-26T08:11:00-04:00"
+preamble = "Next up in our Spotlight series is American soprano [Claire Kuttler](/scene/people/claire-kuttler/), who's \"embarrassingly obsessed\" with being onstage. She spoke to us in the midst of the [Bel Canto at Caramoor](https://www.caramoor.org/music/opera/) program, where she's spending her second summer on the mainstage and in recital. She gave us a beautiful interview about finding her easiest voice, taking care of herself and others, and the importance of watching \"more comedies than tragedies\"."
 publishDate = "2016-07-26T08:05:00-04:00"
+short_description = "\"Get right with failure (again, a constant work in progress). Keep working hard, there is value in working hard no matter the outcome. You don't know half of what you think you know. Get right with being humble. Read books. Study foreign languages more. Watch more comedies than tragedies (I still don't follow this one).\""
 slug = "spotlight-on-claire-kuttler"
 title = "Spotlight on: Claire Kuttler"
 +++

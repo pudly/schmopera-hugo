@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2016-05-06T17:12:00+01:00"
 lastmod = "2016-05-07T12:21:00+01:00"
 publishDate = "2016-05-07T12:21:00+01:00"
+short_description = "What if, like the composer, you could look at the score as an output instead of an input? That is, instead of taking the score and making it sound, you take sound and make it into a score. And what if you could get a glimpse into the composer's relationship with the score, even as someone who has no inclination to compose?"
 slug = "the-score-how-to-see-what-a-composer-sees"
 title = "The score: how to see what a composer sees"
 +++

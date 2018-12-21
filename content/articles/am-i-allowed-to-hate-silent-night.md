@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-11-11T16:55:00-05:00"
 lastmod = "2018-11-12T10:28:00-05:00"
 publishDate = "2018-11-11T23:24:00-05:00"
+short_description = "And I'm sorry, but I did hate it. These are words I've almost never uttered about an opera, and it doesn't feel good to be typing them now. The work's overall message - that if we can only see the humanity in our opponents, then we might be able to put an end to the violence of war - rings hollow when the fascism and authoritarianism that rose out of the ashes of the Great War (something the libretto only acknowledges in passing) are looming once again in the 21st century."
 slug = "am-i-allowed-to-hate-silent-night"
 title = "Am I allowed to hate Silent Night?"
 +++

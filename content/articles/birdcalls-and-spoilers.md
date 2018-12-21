@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2014-09-29T09:00:00-04:00"
 lastmod = "2015-04-14T15:04:00-04:00"
 publishDate = "2014-09-29T09:00:00-04:00"
+short_description = "The above is a photo of a birdcall. It was recently loaned to me by the COC, because I’l be using it backstage during the twelve upcoming performances of Madama Butterfly (I know, I spoiled the magic of live birds). Backstage things like birdcalls, offstage conducting, ominous door knocking, cueing foghorns, etc., are all neat bonuses of the Music Staff job description. "
 slug = "birdcalls-and-spoilers"
 title = "Birdcalls and Spoilers"
 +++

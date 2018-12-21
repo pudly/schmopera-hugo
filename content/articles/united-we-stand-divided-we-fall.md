@@ -2,7 +2,9 @@
 categories = "Op-ed"
 date = "2016-08-24T13:47:00+01:00"
 lastmod = "2016-08-25T09:09:00+01:00"
+preamble = "This is a guest post by baritone [Adam Iannetta](/scene/people/adam-iannetta/), who recently launched [The Savvy Singer](http://thesavvysinger.com/) blog with soprano [Brianna DeSantis](/scene/people/brianna-desantis/)."
 publishDate = "2016-08-25T09:09:00+01:00"
+short_description = "So, the next time you get hit with a flash of \"inspiration\" to change something during the middle of a live show, STOP! Take a moment to consider the consequences of your potential actions as well as who they might impact. Nine times out of ten, you'll put more than just your own career at risk; ten times out of ten, you’ll always put your own career at risk. "
 slug = "united-we-stand-divided-we-fall"
 title = "United we stand, divided we fall"
 +++

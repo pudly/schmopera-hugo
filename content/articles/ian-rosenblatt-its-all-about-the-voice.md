@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2016-04-11T09:50:00+01:00"
 lastmod = "2016-04-11T11:25:00+01:00"
 publishDate = "2016-04-11T11:05:00+01:00"
+short_description = "Out of his recital series have come several close relationships with the singers. \"I spend a lot of time with all the artists. A number of them have become friends.\" Often the singers stay at with him while they're in town for a recital, or they'll use his piano to rehearse. \"There's nothing like having the second act of Bohème being sung to you in the kitchen while you're cooking.\""
 slug = "ian-rosenblatt-its-all-about-the-voice"
 title = "Ian Rosenblatt: &quot;It&#039;s all about the voice.&quot;"
 +++

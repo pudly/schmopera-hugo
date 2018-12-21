@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-07-17T10:25:00-04:00"
 lastmod = "2017-07-17T21:54:00-04:00"
 publishDate = "2017-07-17T21:54:00-04:00"
+short_description = "The audience's favorite seemed to be a duet between Francesca Chiejina and Thomas Atkins from L'amico Fritz - their two strong voices were very well matched to each other and each full of character and vibrancy. The pair had some of the best chemistry on stage, everyone grinning at Chiejina's sultry consumption of a cherry."
 slug = "in-review-the-jpya-summer-performance-"
 title = "In review: the JPYA summer performance "
 +++

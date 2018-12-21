@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2017-09-14T09:42:00-04:00"
 lastmod = "2017-09-14T22:16:00-04:00"
 publishDate = "2017-09-14T21:46:00-04:00"
+short_description = "The body only does what the mind tells it and allows it to do. Intense, almost loving attention to every single note can help realize a tricky passage like this. When it comes to runs and coloratura in general, this approach is useful because it can help give fast singing a real clarity, accuracy and a sense that there is plenty of time to sing all the notes and for them to be heard. "
 slug = "keeping-the-thread-momenttomoment-awareness-in-singing"
 title = "Keeping the thread: moment-to-moment awareness in singing"
 +++

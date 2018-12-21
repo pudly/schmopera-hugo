@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-05-08T11:12:00-04:00"
 lastmod = "2018-05-10T20:14:00-04:00"
 publishDate = "2018-05-08T11:12:00-04:00"
+short_description = "Sometimes they'll just lay under the bed and watch the action taking place, or curl up into a corner; it is creepy and odd, but works so well for this style."
 slug = "slightly-unsettling-the-overcoat"
 title = "Slightly unsettling: The Overcoat"
 +++

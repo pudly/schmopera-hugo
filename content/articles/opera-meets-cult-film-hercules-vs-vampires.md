@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-02-01T16:51:00-05:00"
 lastmod = "2018-02-02T16:28:00-05:00"
 publishDate = "2018-02-01T21:23:00-05:00"
+short_description = "The evening was a charming departure from what we think is \"traditional\" opera: ticket holders were encouraged to dress up in costumes to match the spooky theme of the opera, to react organically during the piece, and to generally be a bit less stuffy than normal."
 slug = "opera-meets-cult-film-hercules-vs-vampires"
 title = "Opera meets cult film: Hercules vs. Vampires"
 +++

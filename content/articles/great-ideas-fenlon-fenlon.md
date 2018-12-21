@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-06-14T19:45:00-06:00"
 lastmod = "2016-06-15T08:15:00-06:00"
 publishDate = "2016-06-14T22:32:00-06:00"
+short_description = "It's an extremely personal way of presenting music; with Liebesbotschaft, Fenlon shows audiences not only what she feels about Schubert's songs, but distills her interpretation of the voice and piano parts into a singular source. The cycle is compiled to evoke \"striking poetic and harmonic expedition\", and the autonomy she earns by self-accompaniment offers \"a spontaneous, relevant, and impromptu feeling\" to familiar music."
 slug = "great-ideas-fenlon-fenlon"
 title = "Great ideas: Fenlon &amp; Fenlon"
 +++

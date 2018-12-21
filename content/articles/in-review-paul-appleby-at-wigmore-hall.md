@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-03-05T13:56:00+00:00"
 lastmod = "2016-03-06T15:52:00+00:00"
 publishDate = "2016-03-05T15:15:00+00:00"
+short_description = "It's noteworthy when a singer, in the midst of a busy schedule on the opera stage, is equally dedicated to his work in recital. Tenor Paul Appleby is a thoughtful artist, and he seems to relish the chance not only to tell many small stories in one sitting, but to collect them into a larger story arc of his own creation."
 slug = "in-review-paul-appleby-at-wigmore-hall"
 title = "In review: Paul Appleby at Wigmore Hall"
 +++

@@ -3,6 +3,7 @@ categories = "News"
 date = "2015-06-17T16:27:00-04:00"
 lastmod = "2015-06-19T12:53:00-04:00"
 publishDate = "2015-06-17T16:42:00-04:00"
+short_description = "There's a lot going on these days with 25 year-old soprano Breanna Sinclairé. On June 17th, she will sing the US national anthem at the opening of the Oakland Athletics game against the San Diego Padres. A look at her YouTube page shows an aspiring young soprano with her head in the right places. Lots of Leontyne Price and Beyoncé. "
 slug = "trans-opera-singer-to-sing-national-anthem-at-oakland-as-game"
 title = "Trans opera singer to sing national anthem at Oakland A&#039;s game"
 +++

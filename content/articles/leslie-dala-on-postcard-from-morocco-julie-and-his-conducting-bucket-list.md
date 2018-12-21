@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2015-04-10T22:41:00-04:00"
 lastmod = "2015-04-12T19:37:00-04:00"
+preamble = "Canadian conductor [Leslie Dala](http://www.domoneyartists.com/Conductors/Dala_Bio/Dala_Bio/dala_bio.html) is currently in Toronto to lead two casts of students at the University of Toronto in their upcoming production of Dominick Argento's [_Postcard from Morocco_](http://uoftopera.ca/?page_id=566). Dala is a busy guy, as Music Director of the [Vancouver Bach Choir](http://www.vancouverbachchoir.com/), Principal Conductor of the [Vancouver Academy of Music](http://vancouveracademyofmusic.com/), and Associate Conductor and Chorus Master of [Vancouver Opera](http://www.vancouveropera.ca/). I hopped on the phone with him this week to ask him about all of the different hats he wears at work."
 publishDate = "2015-03-12T10:41:00-04:00"
+short_description = "Canadian conductor Leslie Dala is currently in Toronto to lead two casts of students at the University of Toronto in their upcoming production of Dominick Argento’s Postcard from Morocco. Dala is a busy guy, as Music Director of the Vancouver Bach Choir, Principal Conductor of the Vancouver Academy of Music, and Associate Conductor and Chorus Master of Vancouver Opera. I hopped on the phone with him this week to ask him about all of the different hats he wears at work."
 slug = "leslie-dala-on-postcard-from-morocco-julie-and-his-conducting-bucket-list"
 title = "Leslie Dala, on Postcard from Morocco, Julie, and His Conducting Bucket List"
 +++

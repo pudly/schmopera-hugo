@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-07-12T15:07:00-04:00"
 lastmod = "2018-07-12T15:07:00-04:00"
 publishDate = "2018-07-12T15:07:00-04:00"
+short_description = "What struck me most about this work by Jonathan Dove and April de Angelis is the intricate, layered nature of the music and text. I could see numerous performances of this opera and discover something new about it everything single time. Great comedy should make us think, and Flight provides plenty of food for thought."
 slug = "layered-comedy-flight"
 title = "Layered comedy: Flight"
 +++

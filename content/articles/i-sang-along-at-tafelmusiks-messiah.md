@@ -2,7 +2,9 @@
 categories = "Review"
 date = "2014-12-22T09:16:00-05:00"
 lastmod = "2015-04-12T18:24:00-04:00"
+preamble = "Ivars Taurins in character as George Friedrich Handel at Tafelmusik's 28th annual Sing-Along Messiah."
 publishDate = "2014-12-22T09:16:00-05:00"
+short_description = "Sunday, December 21st was 2014’s Winter Soltice, and it was an apt day to head over to Massey Hall and hear Tafelmusik’s 28th annual Sing-Along Messiah. I had actually never been to a Sing-Along Messiah, save for the obligatory singing-along of the Hallelujah Chorus at all the other Messiahs I’ve seen. "
 slug = "i-sang-along-at-tafelmusiks-messiah"
 title = "I sang along at Tafelmusik&#039;s Messiah"
 +++

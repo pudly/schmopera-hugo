@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-11-09T09:26:00+00:00"
 lastmod = "2016-11-09T11:16:00+00:00"
 publishDate = "2016-11-09T10:44:00+00:00"
+short_description = "What I'm really angry about is the fact that today, the stuff I love seems laughably irrelevant. Today, who cares about opera? Who cares about the struggles of young artists? Who cares about how the audition system can be humbling, or about protesters outside of Los Angeles Opera?"
 slug = "why-we-must-keep-on-keepin-on"
 title = "Why we must keep on keepin&#039; on"
 +++

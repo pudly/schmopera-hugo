@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2014-01-20T12:20:00-05:00"
 lastmod = "2015-04-28T22:32:00-04:00"
 publishDate = "2014-01-20T12:20:00-05:00"
+short_description = "Italian conductor Claudio Abbado has died at age 80, after a long battle with stomach cancer. Born in Milan, Abbado made his debut at La Scala in 1960, and served as its music director from 1968-1986. "
 slug = "rip-claudio-abbado"
 title = "RIP: Claudio Abbado"
 +++

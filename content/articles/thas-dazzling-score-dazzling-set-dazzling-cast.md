@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-05-14T20:20:00-04:00"
 lastmod = "2018-05-14T20:20:00-04:00"
 publishDate = "2018-05-14T20:20:00-04:00"
+short_description = "I have liked every production in the Minnesota Opera this year, but after this one, I felt that the creative team had been holding out on us. Thaïs blew the rest of the season out of the water. The lighting (Marcus Dilliard), sets and costumes (Lorenzo Cutuli) were perfect. The creative team came out and took a bow, and they certainly deserved it."
 slug = "thas-dazzling-score-dazzling-set-dazzling-cast"
 title = "Thaïs: dazzling score, dazzling set, dazzling cast"
 +++

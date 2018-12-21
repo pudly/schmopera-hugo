@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2015-12-13T12:42:00-05:00"
 lastmod = "2015-12-14T09:24:00-05:00"
 publishDate = "2015-12-14T08:59:00-05:00"
+short_description = "It's the holiday season, readers, and there's more excuses than usual to break out the wine, champagne, egg nog, and really old scotch. (Well, maybe not, since you're all artists.) So, let's pay homage to some of opera's greatest, booziest parties, and their onstage results. We're starting with what should really become the new Brindisi scene at opera galas."
 slug = "party-animals-of-opera"
 title = "Party animals of opera"
 +++

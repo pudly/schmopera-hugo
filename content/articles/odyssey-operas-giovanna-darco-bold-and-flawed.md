@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-04-08T21:01:00-04:00"
 lastmod = "2018-04-08T21:01:00-04:00"
 publishDate = "2018-04-08T21:01:00-04:00"
+short_description = "Of course, Verdi also uses park-and-bark arias and ensembles throughout the score (what opera of that time would be complete without them?), but there is enough musically interesting material going on throughout the whole that it becomes almost criminal that the music serves the libretto it does."
 slug = "odyssey-operas-giovanna-darco-bold-and-flawed"
 title = "Odyssey Opera&#039;s Giovanna D&#039;Arco Bold and Flawed"
 +++

@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2015-06-14T11:19:00-04:00"
 lastmod = "2017-08-23T17:02:00-04:00"
+preamble = "No matter what voice type you are, it’s fair to admit that plenty of your most applause-worthy moments come with high notes. Fast high notes, loud high notes, entire-lungful-of-air high notes - they’re what we’re all waiting to hear. There, I said it. When it comes to producing great sound at the top of your range, I leave that process to the singers and their voice teachers. But I can profess to hearing a curious trend among singers as they’re mastering those big high note moments. Frankly, singers don't sing the notes *around* their high notes."
 publishDate = "2015-06-15T08:00:00-04:00"
+short_description = "No matter what voice type you are, it’s fair to admit that plenty of your most applause-worthy moments come with high notes. Fast high notes, loud high notes, entire-lungful-of-air high notes - they’re what we’re all waiting to hear. There, I said it. When it comes to producing great sound at the top of your range, I leave that process to the singers and their voice teachers. But I can profess to hearing a curious trend among singers as they’re mastering those big high note moments."
 slug = "4-secrets-for-better-high-notes"
 title = "4 secrets for better high notes"
 +++

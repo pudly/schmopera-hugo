@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-04-09T12:55:00-04:00"
 lastmod = "2018-04-10T12:33:00-04:00"
 publishDate = "2018-04-09T14:18:00-04:00"
+short_description = "The second act follows the story of Gad Beck, performed by actor Tom Key. Gad, an older man, is preparing for bed when the ghost of his lover, Manfred Lewin, appears to remind Gad of the horrors, though Gad, who has held on to Manfred's book of poetry and his picture, had spent years just trying to forget it."
 slug = "out-of-darkness-two-remain-is-perfect-for-its-time"
 title = "Out of Darkness: Two Remain is perfect for its time"
 +++

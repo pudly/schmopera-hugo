@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-07-09T21:05:00-04:00"
 lastmod = "2018-07-09T21:05:00-04:00"
 publishDate = "2018-07-09T21:05:00-04:00"
+short_description = "The Maytag hosts clearly took the term \"Iowa Nice\" to heart. Free snacks and beverages were supplied prior to the performance, as well as pie and ice cream afterwards. The atmosphere was welcoming and friendly, and I could sense that the Newton community had enthusiastically embraced their first opportunity to host the opera."
 slug = "strange-inside-the-tender-land"
 title = "Strange inside: The Tender Land"
 +++

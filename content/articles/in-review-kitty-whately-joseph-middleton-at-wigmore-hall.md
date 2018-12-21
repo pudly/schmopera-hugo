@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-04-11T13:39:00+01:00"
 lastmod = "2017-04-11T14:10:00+01:00"
 publishDate = "2017-04-11T14:10:00+01:00"
+short_description = "But from Whately's performance, you would never know the extenuating circumstances at play. Her demeanor was calm and elegant, her expression was engaged, and we felt like we were watching someone who just revels in the joy of singing. Together with pianist Joseph Middleton, the two acted as painters together, showing us beautiful scenes in a program inspired by themes of nature."
 slug = "in-review-kitty-whately-joseph-middleton-at-wigmore-hall"
 title = "In review: Kitty Whately &amp; Joseph Middleton at Wigmore Hall"
 +++

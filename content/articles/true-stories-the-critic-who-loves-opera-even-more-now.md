@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2016-03-18T17:43:00+00:00"
 lastmod = "2016-03-21T10:23:00+00:00"
 publishDate = "2016-03-21T10:23:00+00:00"
+short_description = "Maybe it's the concept of the critic, or maybe it's the notebook itself, that can evoke suspicion. The notebook is open to record all the mistakes, and while the critic is scribbling in the dark, magic is happening onstage and they're missing it. It's not just a myth; these things happen, and critics can be relentlessly harsh, to the point where one wonders why they keep going to the opera, if they dislike everything they see."
 slug = "true-stories-the-critic-who-loves-opera-even-more-now"
 title = "True stories: the critic who loves opera even more now"
 +++

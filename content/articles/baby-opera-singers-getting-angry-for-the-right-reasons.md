@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-06-05T13:47:00+01:00"
 lastmod = "2016-06-06T19:22:00+01:00"
 publishDate = "2016-06-05T22:23:00+01:00"
+short_description = "And if the show's audience thinks they're witnessing musical history, fine. They don't know any better, and there are worse things about which to be uneducated. But Laura Bretan may now find herself courted by recording contracts by folks like Simon Cowell; that's exciting news for her, but it's in this girl's potential career where there could be true damage done."
 slug = "baby-opera-singers-getting-angry-for-the-right-reasons"
 title = "Baby &quot;opera singers&quot; &amp; getting angry for the right reasons"
 +++

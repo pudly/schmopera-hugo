@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2016-08-06T14:33:00+01:00"
 lastmod = "2017-02-09T12:48:00+00:00"
 publishDate = "2016-08-07T18:40:00+01:00"
+short_description = "Equal in hilarity to the image of a monotone group of Catholics speeding through holy texts out of sheer rote/boredom are all the \"patter songs\" that steal the show in opera and music theatre. Here are some of our favourites:"
 slug = "energy-boost-5-perky-patter-songs-"
 title = "Energy boost: 5 perky patter songs "
 +++

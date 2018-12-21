@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-06-28T19:25:00-06:00"
 lastmod = "2017-06-29T23:59:00-06:00"
+preamble = "With last month's run of *Don Carlo*, Australian mezzo-soprano [Emily Edmonds](/scene/people/emily-edmonds/) finished her second season with the [Royal Opera House](/scene/companies/royal-opera-house/), where she is a Jette Parker Young Artist. This fall, she heads to Auckland for New Zealand Opera's *Katya Kabanova* (Varvara), before checking off one of her bucket list roles with the Komponist in [Opera Holland Park](/scene/companies/opera-holland-park/) and [Scottish Opera](/scene/companies/scottish-opera/)'s co-production of *Ariadne auf Naxos*.\n\nIn our newest Spotlight interview, Edmonds spoke thoughtfully with us about her love of the rehearsal room, and the importance of being brave."
 publishDate = "2017-06-29T23:40:00-06:00"
+short_description = "\"I value making, creating, and empathy - I believe our work as singers is a rich environment for these pursuits. If we are courageous enough to allow ourselves to be heard, and really seen, I think we can create things that speak to an audience. Perhaps through seeing and hearing us, they can be encouraged to see and hear others.\""
 slug = "spotlight-on-emily-edmonds"
 title = "Spotlight on: Emily Edmonds"
 +++

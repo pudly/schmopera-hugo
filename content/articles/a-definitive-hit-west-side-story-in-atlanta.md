@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-11-07T13:49:00-05:00"
 lastmod = "2018-11-07T14:12:00-05:00"
 publishDate = "2018-11-07T14:12:00-05:00"
+short_description = "West Side Story isn't an easy show and, particularly in current climates, a controversial one to cast. It is dance heavy and, while the Atlanta Opera Chorus shined during their choreographed number during last season's La fille du régiment, West Side Story requires specialized training, perfect timing, and active feats of physical intensity. After spending election night in the audience of the same production I was so nervous about, I can genuinely say that it is a production not to miss."
 slug = "a-definitive-hit-west-side-story-in-atlanta"
 title = "A definitive hit: West Side Story in Atlanta"
 +++

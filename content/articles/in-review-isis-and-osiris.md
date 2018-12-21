@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-04-04T17:33:00+01:00"
 lastmod = "2016-04-04T18:16:00+01:00"
 publishDate = "2016-04-04T18:16:00+01:00"
+short_description = "As Isis, Cesaroni was a revelation. Her incomparable voice flew throughout the Jane Mallett with ease and aplomb, and I've said this before, she just gets better every time I hear her. Her darker colour belies the height and beauty she can achieve at the top of her register and every note is properly placed and spins and sparkles. Her characterization of (as she puts it) \"the bad b*tch in charge\" was a genuine treat."
 slug = "in-review-isis-and-osiris"
 title = "In review: Isis and Osiris"
 +++

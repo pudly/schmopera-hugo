@@ -3,6 +3,7 @@ categories = "News"
 date = "2017-01-16T12:18:00+00:00"
 lastmod = "2017-01-23T15:18:00+00:00"
 publishDate = "2017-01-23T15:18:00+00:00"
+short_description = "Accelerando is complemented by three world premieres, performed by the Esprit Orchestra, under Music Director and conductor Alex Pauk: Surfacing, part of a triptych commission by Toronto-based composer Adam Scime, El canto del viento, by Argentine-Canadian composer Analia Lludgar hears the premiere of her El canto del viento, and John Rea's Survivance, commissioned in Canada's 150th year and celebrating the indigenous and Francophone communities across the country."
 slug = "dont-miss-accelerando-with-esprit-orchestra"
 title = "Don&#039;t miss: Accelerando with Esprit Orchestra"
 +++

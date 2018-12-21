@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-07-24T12:24:00-04:00"
 lastmod = "2016-07-25T08:40:00-04:00"
 publishDate = "2016-07-25T08:36:00-04:00"
+short_description = "What's likely is that the sweeping sounds of Puccini sounded fancy to the Trump folk, and that Pavarotti's voice sounds heroic (#winning). They're not wrong, but it just screams, \"I heard this on YouTube once.\""
 slug = "pavarottis-nessun-dorma-the-trump-campaign"
 title = "Pavarotti&#039;s &quot;Nessun dorma&quot; &amp; the Trump campaign"
 +++

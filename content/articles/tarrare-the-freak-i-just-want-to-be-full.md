@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-02-02T10:29:00+00:00"
 lastmod = "2017-02-02T13:12:00+00:00"
 publishDate = "2017-02-02T13:12:00+00:00"
+short_description = "Why, in the time of CGI and robots, do puppets still retain their magic? The simple answer lies in the puppetry skills of Poster and Nakamura, who pushed their audience to laughter and disgust and pity. Yet the secret seems to lie in the transparency of the art form. The puppeteers were always visible; every set change was done nakedly, the audience in on all the tricks. Instead of spoiling the illusion, it added a second layer of wonder."
 slug = "tarrare-the-freak-i-just-want-to-be-full"
 title = "Tarrare the Freak: &quot;I just want to be full.&quot;"
 +++

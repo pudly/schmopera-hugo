@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-02-05T11:53:00-05:00"
 lastmod = "2018-02-05T13:06:00-05:00"
 publishDate = "2018-02-05T11:53:00-05:00"
+short_description = "We find ourselves in the domain of the Duke. He exerts his power over the masses through his manipulation of Rigoletto's remarkable skill for what is now popularly known as \"reading\" people."
 slug = "great-music-distracting-sexuality-rigoletto"
 title = "Great music &amp; distracting sexuality: Rigoletto"
 +++

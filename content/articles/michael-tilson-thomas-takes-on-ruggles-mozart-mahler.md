@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-06-12T12:26:00-04:00"
 lastmod = "2018-06-12T21:03:00-04:00"
 publishDate = "2018-06-12T20:23:00-04:00"
+short_description = "Thomas knew Ruggles as well as anyone could get to know this feisty Yankee, prone to being stubborn, cranky and downright disagreeable. Nonetheless, Thomas championed Ruggles, recording his complete music with the Buffalo Philharmonic and including his works with some frequency on programs in San Francisco."
 slug = "michael-tilson-thomas-takes-on-ruggles-mozart-mahler"
 title = "Michael Tilson Thomas takes on Ruggles: Mozart &amp; Mahler"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2015-04-10T22:54:00-04:00"
 lastmod = "2015-04-10T22:54:00-04:00"
 publishDate = "2015-03-08T10:15:00-04:00"
+short_description = "I didn’t now much about Written on Skin, except that it had its premiere in 2012 at Aix-en-Provence, and the next year it ran at the Royal Opera House. As I sat in Roy Thomson Hall, I was surprised at how immediately I thought, “Oh, I have to see this staged.” It’s a rare thing for an in-concert opera to jump out at me with its visual potential, but something about Written on Skin really stuck in my head. "
 slug = "in-review-written-on-skin"
 title = "In Review: Written On Skin"
 +++

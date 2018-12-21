@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-05-25T13:56:00+01:00"
 lastmod = "2016-02-29T19:11:00+00:00"
 publishDate = "2015-06-02T14:18:00+01:00"
+short_description = "We're talking about newbies, here; if everything is new, everything is on the table. I say then, let's first present opera in its most progressive form. Not to create a bias, but precisely because preconceptions about opera exist; the simplest way to break them down is to show them something, called opera, that doesn't fit the stereotypes."
 slug = "opera-for-firsttimers-thinking-outside-the-box"
 title = "Opera for first-timers &amp; thinking outside the box"
 +++

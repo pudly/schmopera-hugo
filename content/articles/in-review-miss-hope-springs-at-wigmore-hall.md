@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-06-17T13:40:00-06:00"
 lastmod = "2017-06-17T14:08:00-06:00"
 publishDate = "2017-06-17T14:02:00-06:00"
+short_description = "It's difficult to come up with any artists who have recently graced Wigmore Hall who have that same power - whose mere entrance can rile up a crowd, who doesn't even have to play a note to have us on the edge of our seats. This is the kind of magical ability that classical performers should be trying to discover. "
 slug = "in-review-miss-hope-springs-at-wigmore-hall"
 title = "In review: Miss Hope Springs at Wigmore Hall"
 +++

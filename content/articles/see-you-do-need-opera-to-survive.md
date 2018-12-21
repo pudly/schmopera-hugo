@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2014-08-13T17:14:00-04:00"
 lastmod = "2015-04-16T22:46:00-04:00"
 publishDate = "2014-08-13T17:14:00-04:00"
+short_description = "Last week, Kyra Kopenstonsky was hiking in Colorado and bumped into a mountain lion. It stalked her for about twenty minutes, after which Kyra employed a last resort: singing opera."
 slug = "see-you-do-need-opera-to-survive"
 title = "See? You do need opera to survive"
 +++

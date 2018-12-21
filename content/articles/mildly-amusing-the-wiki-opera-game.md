@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2016-08-22T20:34:00+01:00"
 lastmod = "2016-08-24T13:31:00+01:00"
 publishDate = "2016-08-24T12:31:00+01:00"
+short_description = "Well, how about the opera version of the Wikipedia Game*? The premise is simple: go to the Wikipedia home page, and on the left hand side, click on \"random article.\" Starting from this random page, the goal is to get to the Wiki article on \"Opera\" in as few clicks as possible, using only the hyperlinked words within each page along the way."
 slug = "mildly-amusing-the-wiki-opera-game"
 title = "Mildly amusing: the Wiki Opera Game"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2015-05-13T21:16:00-04:00"
 lastmod = "2015-05-13T21:42:00-04:00"
 publishDate = "2015-05-14T08:30:00-04:00"
+short_description = "Tuesday night, Greg & I went to hear the Talisker Players at Trinity-St. Paul's on Bloor. The Players' chamber series is always a guarantee for great performances and interesting programming, and this concert was no exception. Entitled Heroes, Gods & Mortals, the programme included two of my favourite singers to watch: Carla Huhtanen and Andrea Ludwig."
 slug = "he-saidshe-said-talisker-players-with-carla-huhtanen-andrea-ludwig"
 title = "He said/she said: Talisker Players, with Carla Huhtanen &amp; Andrea Ludwig"
 +++

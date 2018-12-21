@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2016-05-22T22:53:00+01:00"
 lastmod = "2016-05-23T14:24:00+01:00"
+preamble = "June 25-July 3 the Westben Arts Festival Theatre presents the world premiere of Brian Finley's new opera, [*The Pencil Salesman*](/brian-finleys-the-pencil-salesman/), directed by [Tapestry Opera](/scene/companies/tapestry-opera/)'s [Michael Mori](/michael-mori-on-contemporary-opera/). Canadian baritone [John Fanning](/scene/people/john-fanning/) will sing the role of Boris Ball, the inventor of the Personal Touch Typewriter, who develops a cynical relationship with the world's technological advancements. We chat with Fanning about playing a \"Luddite\", about working on a brand new opera, and about how technology dictates our own human interactions.\n\nFor more information about *The Pencil Salesman*, follow our box office links below."
 publishDate = "2016-05-22T23:33:00+01:00"
+short_description = "June 25-July 3 the Westben Arts Festival Theatre presents the world premiere of Brian Finley's new opera, The Pencil Salesman. Canadian baritone John Fanning will sing the role of Boris, the inventor of the Personal Touch Typewriter, who develops a cynical relationship with the world's technological advancements. We chat with Fanning about playing a \"Luddite\", about working on a brand new opera, and about how technology dictates our own human interactions."
 slug = "john-fanning-on-the-pencil-salesman"
 title = "John Fanning on The Pencil Salesman"
 +++

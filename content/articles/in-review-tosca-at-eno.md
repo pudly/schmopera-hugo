@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-10-04T10:21:00+01:00"
 lastmod = "2016-10-04T12:36:00+01:00"
 publishDate = "2016-10-04T12:27:00+01:00"
+short_description = "Performing Tosca in English is about on par with performing Peter Grimes in Italian, when you think about it. Like with all great operas, Puccini's music leaps from the ebbs and flows of the text; simply put, if the libretto had been different, there would be different tunes for us to hum post-show."
 slug = "in-review-tosca-at-eno"
 title = "In review: Tosca at ENO"
 +++

@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2018-05-22T21:52:00-04:00"
 lastmod = "2018-05-22T22:08:00-04:00"
 publishDate = "2018-05-22T21:52:00-04:00"
+short_description = "There's no manual for anyone's five-year plan, and Pickett is on no quest for any sort of Right Answer™. \"That would make for a really uninteresting artistic journey, if we were all following the same path.\""
 slug = "talking-with-singers-samantha-pickett"
 title = "Talking with singers: Samantha Pickett"
 +++

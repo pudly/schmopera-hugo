@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-10-21T12:36:00-04:00"
 lastmod = "2018-10-21T21:33:00-04:00"
 publishDate = "2018-10-21T21:05:00-04:00"
+short_description = "In the second act, it felt like Burton and Partridge were no longer holding back dramatically, and in their final confrontation during the play within a play, both singers delivered the most heart wrenching vocals of the opera. Their struggle was rife with emotional and physical violence, and predictably, it did not end well for Nedda or her lover, Silvio."
 slug = "a-frighteningly-timeless-story-of-abuse-pagliacci"
 title = "A frighteningly timeless story of abuse: Pagliacci"
 +++

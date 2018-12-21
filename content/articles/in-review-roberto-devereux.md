@@ -3,6 +3,7 @@ categories = "Review"
 date = "2014-05-01T08:30:00-04:00"
 lastmod = "2015-04-23T21:19:00-04:00"
 publishDate = "2014-05-01T08:30:00-04:00"
+short_description = "Since the dress rehearsal of the Canadian Opera Company's Roberto Devereux, my Facebook and Twitter feeds have been flipping out about American soprano Sondra Radvanovksy's performance as Queen Elizabeth I. So I was really eager to see it for myself."
 slug = "in-review-roberto-devereux"
 title = "In review: Roberto Devereux"
 +++

@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-04-03T16:41:00+01:00"
 lastmod = "2017-04-04T17:46:00+01:00"
+preamble = "This week, Italian tenor [Riccardo Massi](/scene/people/riccardo-massi/) returns to the [Metropolitan Opera](/scene/companies/the-metropolitan-opera/) to sing one of his signature roles, Radamès in Verdi's [*Aida*](https://www.metopera.org/Season/2016-17-Season/aida-verdi-tickets/); he shares the stage with [Krassimira Stoyanova](/scene/people/krassimira-stoyanova/) in the title role, [Violeta Urmana](/scene/people/violeta-urmana/) as Amneris, [George Gagnidze](/scene/people/george-gagnidze/) as Amonasro, and [James Morris](/scene/people/james-morris/) as Ramfis.\n\nMassi's exciting career as a tenor is in fact his second major professional pursuit. He is a trained specialist in ancient and medieval weapons, and he worked as a film and television stuntman; you can catch his work in Martin Scorcese's *Gangs of New York*, ABC's *Empire*, and HBO's miniseries, *Rome*.\n\nWe were more than curious about the demands and training in Massi's work in martial arts and in opera, and he was kind enough to indulge us."
 publishDate = "2017-04-04T17:27:00+01:00"
+short_description = "\"Indeed, having good strength helps when it comes to supporting the sounds with the diaphragm, however it's much better to be elastic and well stretched. I remember I had to do really hard work to relax my body when I was a student taking my first lessons, because my body was too hard and tense for the hard training I had to go through, since I was a fighter.\""
 slug = "talking-with-singers-riccardo-massi"
 title = "Talking with singers: Riccardo Massi"
 +++

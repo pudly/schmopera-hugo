@@ -2,7 +2,9 @@
 categories = "Review"
 date = "2016-08-28T16:49:00+01:00"
 lastmod = "2016-08-29T12:22:00+01:00"
+preamble = "Photo: Barbara Hannigan performs Hans Abrahamsen’s let me tell you with Mirga Gražinytė-Tyla and the City of Birmingham Symphony Orchestra at the BBC Proms 2016."
 publishDate = "2016-08-29T12:17:00+01:00"
+short_description = "Abrahamsen's score is full of novel and surreal sounds, including an extraordinary moment of what feels like a heavenly choir and orchestra, shimmering with texture and treats for the ear. Throughout the score is a vocal motif, stretching words through repeated syllables, almost like a slow-motion version of a Baroque goat-trill."
 slug = "in-review-hannigan-grainyttyla-at-the-bbc-proms"
 title = "In review: Hannigan &amp; Gražinytė-Tyla at the BBC Proms"
 +++

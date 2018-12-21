@@ -3,6 +3,7 @@ categories = "News"
 date = "2015-05-26T09:06:00-04:00"
 lastmod = "2015-06-17T15:23:00-04:00"
 publishDate = "2015-05-29T14:06:00-04:00"
+short_description = "Within the last few weeks, a few of today's most admired opera singers have announced how they keep making waves in the industry, this time from off-stage. "
 slug = "singers-branching-out"
 title = "Singers branching out"
 +++

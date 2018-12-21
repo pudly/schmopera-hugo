@@ -2,7 +2,9 @@
 categories = "Op-ed"
 date = "2016-08-20T12:19:00+01:00"
 lastmod = "2016-08-21T10:01:00+01:00"
+preamble = "This is a guest post by contributor and American tenor [Zachary Mendez](/scene/people/zachary-mendez/). For more, follow him on [Instagram](https://www.instagram.com/zacharyamendez/), and [hear him sing](http://www.zmendez.com/when-where/#portland)."
 publishDate = "2016-08-21T10:01:00+01:00"
+short_description = "My own obsession with technique made me terrified to sing in front of my peers. I knew that they were only judging me: a baritone singing tenor rep. Worthless technique. I hated the feeling of judgmental eyes on me and I had nothing to say with the music I was singing. For me, technique was the only thing that mattered. But it’s not."
 slug = "redefining-the-goal"
 title = "Redefining the goal"
 +++

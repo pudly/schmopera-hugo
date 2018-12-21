@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2016-01-26T23:11:00-05:00"
 lastmod = "2016-01-29T10:19:00-05:00"
 publishDate = "2016-01-29T09:26:00-05:00"
+short_description = "Is it just me, or would *Billy Budd* not amazing as sci-fi concept production, set on a spaceship? Picture it: a crew of colourful, possibly alien characters fill *The Indomitable*, coming from all walks of the universe; the imposing, intimidating John Claggart (possibly hooded in some sci-fi villain way), wields his head of security powers with vengeful abandon."
 slug = "shower-thoughts-billy-budd-in-space"
 title = "Shower thoughts: Billy Budd in space"
 +++

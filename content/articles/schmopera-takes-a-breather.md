@@ -3,6 +3,7 @@ categories = "News"
 date = "2015-08-02T13:35:00+02:00"
 lastmod = "2015-08-06T19:20:00+02:00"
 publishDate = "2015-08-06T19:20:00+02:00"
+short_description = "A quick heads-up, readers: for the month of August, Schmopera will be changing pace. We'll go from our usual peppy allegro to more of an larghetto, as we take, #waitforit, a vacation!"
 slug = "schmopera-takes-a-breather"
 title = "Schmopera takes a breather"
 +++

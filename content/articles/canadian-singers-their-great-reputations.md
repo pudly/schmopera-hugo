@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-12-23T10:07:00-05:00"
 lastmod = "2016-12-28T09:25:00-05:00"
 publishDate = "2016-12-28T08:52:00-05:00"
+short_description = "Perhaps it's because we border the behemoth that is the United States, and perhaps it's because we're far-removed from the operatic centre that is Europe. In any case, it drives Canadian singers to meet the perceived standards of the \"biggest and best\". Maybe we underestimate the quality of training available at home, and thus we head out into the world in over-prepared hordes. "
 slug = "canadian-singers-their-great-reputations"
 title = "Canadian singers &amp; their great reputations"
 +++

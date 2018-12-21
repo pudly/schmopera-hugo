@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2016-10-19T14:33:00+01:00"
 lastmod = "2016-10-22T09:36:00+01:00"
 publishDate = "2016-10-21T13:00:00+01:00"
+short_description = "Though the Metropolitan Opera is no small test of a singer's nerves, Rebeka found singing in her home town of Riga to be a daunting task. \"The feeling with singing at home was always very complicated,\" she says. Rebeka's professional career began in Germany, and when she sang at home, the pressure to prove herself seemed great. \"Singing for family and friends, on one hand, it's great; on the other hand, it's like, 'OK, let's see what she has learned abroad.'\""
 slug = "talking-with-singers-marina-rebeka"
 title = "Talking with singers: Marina Rebeka"
 +++

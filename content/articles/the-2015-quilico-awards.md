@@ -3,6 +3,7 @@ categories = "Review"
 date = "2015-04-11T20:09:00-04:00"
 lastmod = "2015-04-11T20:09:00-04:00"
 publishDate = "2015-02-10T09:09:00-05:00"
+short_description = "Last night the members of the COC Ensemble Studio competed in the Christine and Louis Quilico Awards, in the Richard Bradshaw Amphitheatre at the Four Seasons Centre. From my own experience with the 2013 Quilico Awards, I know that this intra-Ensemble competition can be tough on the singers."
 slug = "the-2015-quilico-awards"
 title = "The 2015 Quilico Awards"
 +++

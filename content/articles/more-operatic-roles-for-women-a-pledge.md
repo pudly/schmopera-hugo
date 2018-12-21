@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2018-01-09T19:06:00-05:00"
 lastmod = "2018-01-10T10:31:00-05:00"
 publishDate = "2018-01-09T19:06:00-05:00"
+short_description = "Opera plots have traditionally required dramatic, pot-boiling plots, often inspired by history. And murder, mayhem, and power have certainly been male dominated. But moving forward, successful lyric theater stories need not always be centered on these kinds of themes."
 slug = "more-operatic-roles-for-women-a-pledge"
 title = "More operatic roles for women: a pledge"
 +++

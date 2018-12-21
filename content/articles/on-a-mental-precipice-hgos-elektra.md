@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-01-21T12:55:00-05:00"
 lastmod = "2018-01-21T18:31:00-05:00"
 publishDate = "2018-01-21T18:31:00-05:00"
+short_description = "If Strauss had not given Elektra so much deceptively tender waltz music of her own, then Chrysothemis's tender accompaniments (waltzes about mammaries) would come across as a moment of respite; however, by the time Chrysothemis is introduced, we know Elektra so well that nobody comes across as anything else other than a foil to her. "
 slug = "on-a-mental-precipice-hgos-elektra"
 title = "On a mental precipice: HGO&#039;s Elektra"
 +++

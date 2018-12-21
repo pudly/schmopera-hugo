@@ -3,6 +3,7 @@ categories = "Review"
 date = "2014-03-20T10:53:00-04:00"
 lastmod = "2015-04-24T10:02:00-04:00"
 publishDate = "2014-03-20T10:53:00-04:00"
+short_description = "I went to a concert on Tuesday night, one of the Talisker Players' main concert series at Trinity St. Paul's United Church. I'd never been to see the Talisker Players, but I was lured both by singers Norine Burgess and Geoffrey Sirett, and by the evening's title: Creature to Creature."
 slug = "in-review-the-talisker-players-bestiary"
 title = "In review: The Talisker Players&#039; Bestiary"
 +++

@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2015-05-29T12:17:00-06:00"
 lastmod = "2015-06-30T22:55:00-06:00"
 publishDate = "2015-06-30T07:56:00-06:00"
+short_description = "I can't vouch for native speakers of German, Italian, French, Russian, etc., but for singers whose first language is English, the idea of \"singing in one's native tongue\" is a frightful one. English can be a tricky language to sing, especially if you're born in North America. "
 slug = "native-speakers-their-operatic-advantage"
 title = "Native speakers &amp; their operatic advantage"
 +++

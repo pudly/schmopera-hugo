@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-11-24T13:49:00+00:00"
 lastmod = "2016-11-25T11:47:00+00:00"
 publishDate = "2016-11-25T11:27:00+00:00"
+short_description = "Viau's new take on the story has John already married to Michaela who comes and pleads for his return home for the sake of their kids, as opposed to his mother in the original. Ricardo is an investment banker ready to support Carmen in her dream of opening her own watering hole in exchange for her feminine charms. John is infatuated with Carmen, as she treats him like he's still a human being - something he doesn't recognize in others after two violent turns in Afghanistan."
 slug = "loose-tea-raises-funds-for-radical-new-vision-of-bizets-carmen"
 title = "Loose TEA raises funds for radical new vision of Bizet&#039;s Carmen"
 +++

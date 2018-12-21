@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2016-12-14T09:44:00+00:00"
 lastmod = "2016-12-16T11:14:00+00:00"
 publishDate = "2016-12-16T11:14:00+00:00"
+short_description = "The past few weeks every time I log on to my social media feeds, or open my inboxes, I find the same messages. \"Sub needed for Dec 23, 24, 25,\" etc., outlining the money made per call. This doesn't just happen at Christmas either. I see the same barrage of posts happening during Lent/Easter as well. "
 slug = "its-beginning-to-look-a-lot-like-sub-needed"
 title = "It&#039;s beginning to look a lot like **SUB NEEDED**"
 +++

@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-03-12T15:23:00+00:00"
 lastmod = "2016-03-12T16:14:00+00:00"
 publishDate = "2016-03-12T16:08:00+00:00"
+short_description = "Brancy and Dugan premiered A Silent Night at the Kennedy Center, and their subsequent recital tour has included their debut with Carnegie Hall Presents. The duo now wish to record A Silent Night, and they have launched an Indiegogo campaign to help the project. Tax-deductible donations will fund album production and post-production, artwork design, marketing, and other costs."
 slug = "worthy-campaigns-a-silent-night"
 title = "Worthy campaigns: A Silent Night"
 +++

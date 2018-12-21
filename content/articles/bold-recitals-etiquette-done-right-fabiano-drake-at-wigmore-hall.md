@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-05-17T10:53:00-04:00"
 lastmod = "2017-05-17T11:27:00-04:00"
 publishDate = "2017-05-17T11:06:00-04:00"
+short_description = "Many in the audience knew Fabiano from the 2015 production of Onegin and were thrilled to hear the piece - there was much discussion in the ladies washroom after the show. The ladies also concluded that they couldn't wait to hear him on stage again!"
 slug = "bold-recitals-etiquette-done-right-fabiano-drake-at-wigmore-hall"
 title = "Bold recitals &amp; etiquette done right: Fabiano &amp; Drake at Wigmore Hall"
 +++

@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2015-06-10T21:32:00-04:00"
 lastmod = "2015-06-15T15:19:00-04:00"
+preamble = "This interview is part of our ongoing series of features on young working artists in the opera industry. If you think you'd be a great candidate for an interview, or know someone you'd like to nominate, get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
 publishDate = "2015-06-15T15:19:00-04:00"
+short_description = "I met Montana-born soprano Emily Peragine during her undergraduate degree at Oberlin College Conservatory, and she struck me immediately as a rare breed. Emily is a real lover of singing, and a refreshingly thoughtful artist. You can see more of what I mean by reading her beautiful blog. For a while now, I've been looking forward to the chance to introduce Emily to my readers, and she doesn't disappoint with this interview."
 slug = "spotlight-on-emily-peragine"
 title = "Spotlight on: Emily Peragine"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-11-13T17:38:00-05:00"
 lastmod = "2017-11-13T18:07:00-05:00"
 publishDate = "2017-11-13T18:07:00-05:00"
+short_description = "Even with the dark elements, the piece did not lose its comic lightness. It was still an evening full of laughs and slapstick, but the more serious aspects were brought forth. Along with this unexpected episode, Mortellaro's characterization of Susanna in the final two acts deviated from the common chipper portrayal of this sassy maid. She was a bride-to-be who truly didn't want to go along with the Countess' plan to trap the Count."
 slug = "chiaroscuro-classics-the-marriage-of-figaro"
 title = "Chiaroscuro classics: The Marriage of Figaro"
 +++

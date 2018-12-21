@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-12-13T19:10:00-05:00"
 lastmod = "2017-12-18T08:26:00-05:00"
 publishDate = "2017-12-18T08:18:00-05:00"
+short_description = "The piece hones in on Munch (Tim McDevitt) who, having admitted himself to a sanitarium, is treated by an impressionable, young nurse (Pearl Sun). Enamored of her celebrity client, she takes charge of his unconventional treatment. In lieu of shock therapy, this fictional version of Munch undergoes a series of role-playing reenactments in order to relive the traumatic events that formed his personality; a conceit no more plausible than say, time travel."
 slug = "more-than-the-scream-dear-edvard"
 title = "More than The Scream: Dear Edvard"
 +++

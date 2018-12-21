@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2016-09-11T16:51:00+01:00"
 lastmod = "2016-09-13T14:59:00+01:00"
+preamble = "All portraits by [S. Richards Photography](http://www.srichardsphotography.com/), shot at Sing for Hope Piano Studio, 28 Liberty. Hair and makeup by Olivia McKeldin of [Bombshell Studios](http://www.bombshellstudiosnyc.com/) NYC, LLC."
 publishDate = "2016-09-13T14:30:00+01:00"
+short_description = "Rather than recap, we decided to use our photoshoot to create a \"lookbook\" to serve as inspiration to empower the operatic community to make choices that serve your artistry."
 slug = "freetheknee-part-2-you-have-better-choices"
 title = "#FreeTheKnee Part 2: &quot;You have better choices.&quot;"
 +++

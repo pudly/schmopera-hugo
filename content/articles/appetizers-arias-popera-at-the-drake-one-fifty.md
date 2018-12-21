@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2018-03-01T20:40:00-05:00"
 lastmod = "2018-03-01T21:01:00-05:00"
 publishDate = "2018-03-01T21:01:00-05:00"
+short_description = "Popera! has a chic air of exclusivity to it, the menu items like \"Love Elixir\" cocktails and \"Opera Cake\" seeming positively swanky when paired with Mozart. My only wish is that the event grows in size - as in, more singing, please. I could have done with a couple of sets' worth of singing, perhaps over appetizers as well as cocktails, with a bonus handful of sweet picks - some Andrew Lloyd Webber, say - for dessert."
 slug = "appetizers-arias-popera-at-the-drake-one-fifty"
 title = "Appetizers &amp; arias: Popera! at the Drake One Fifty"
 +++

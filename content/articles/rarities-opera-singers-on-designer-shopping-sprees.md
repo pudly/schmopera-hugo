@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-11-24T12:26:00+00:00"
 lastmod = "2016-11-26T15:09:00+00:00"
 publishDate = "2016-11-26T15:07:00+00:00"
+short_description = "Our first reaction to the Times' glamour-soaked glance at one of today's leading opera singers was a bit of lip-curling, to be sure. Most of the singers we know personally are surely not spending their time between rehearsals buying \"a mountain of presents, and then I buy the suitcases to carry them in.\" Netrebko's success is rare and extraordinary among the opera world; most artists who live solely off their performance schedule walk away with modest-to-comfortable profits after all the travel expenses, performance wardrobe, expensive scores, and hours spent with their teachers and coaches."
 slug = "rarities-opera-singers-on-designer-shopping-sprees"
 title = "Rarities: opera singers on designer shopping sprees"
 +++

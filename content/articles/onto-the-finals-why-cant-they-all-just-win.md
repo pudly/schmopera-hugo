@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2018-06-05T23:45:00-04:00"
 lastmod = "2018-06-05T23:45:00-04:00"
 publishDate = "2018-06-05T23:45:00-04:00"
+short_description = "I suppose that's what happened as the CMIM Aria finalists were announced. I made a few private predictions of my own, and I was largely on the same page as the jury. But I was dismayed to see two singers left out of the final round, perhaps for swinging too far one way or the other."
 slug = "onto-the-finals-why-cant-they-all-just-win"
 title = "Onto the finals: why can&#039;t they all just win?"
 +++

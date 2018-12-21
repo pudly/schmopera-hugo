@@ -2,7 +2,9 @@
 categories = "Op-ed"
 date = "2016-08-25T16:32:00+01:00"
 lastmod = "2016-08-26T17:08:00+01:00"
+preamble = "This is a guest post by [Cassie Kutev](https://twitter.com/cassie_kutev), self-proclaimed mezzosexual and [vlogger](https://www.youtube.com/c/cassiekutev). We featured her fab [\"Choir Stereotypes\" video](/hilarity-stereotypes-from-choir/) in a previous post, and she was kind enough to write us an article."
 publishDate = "2016-08-26T12:46:00+01:00"
+short_description = "At the end of the day, there are certain things that you will not able to control, no matter how much you practice; and no matter how solid your technique is, you will hear, \"no\". You cannot take it personally, the thicker your skin is, the better you will fare. It will make the \"yeses\" you hear even sweeter."
 slug = "dear-me-advice-to-my-freshman-self"
 title = "Dear me: advice to my freshman self"
 +++

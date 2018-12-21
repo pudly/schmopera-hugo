@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-10-17T22:21:00+01:00"
 lastmod = "2016-10-18T09:13:00+01:00"
 publishDate = "2016-10-18T08:22:00+01:00"
+short_description = "The contemporary story of highs and lows is smartly encased in the very old story of the Phoenix, where Twink embodies the bird who is reborn out of his own ashes. Boys of Paradise could have been an opportunity for camp, shock value, and lame attempts at drug and sex imagery; yet there was something ironically polished about this dirty, uncomfortable story that allows the audience to sympathise, judge, and experience catharsis all at once."
 slug = "thrilling-nights-boys-of-paradise"
 title = "Thrilling nights: Boys of Paradise"
 +++

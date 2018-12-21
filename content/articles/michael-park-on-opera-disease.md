@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2015-09-17T18:24:00-04:00"
 lastmod = "2015-09-18T12:27:00-04:00"
+preamble = "Vancouver-based Composer and pianist [Michael Park](/scene/people/michael-park/) has spent considerable time thinking about how to talk about disease through music. He performed his [*Alzheimer's Variations*](https://www.youtube.com/watch?v=Oj2AXT23uVI) (absolutely worth a listen) as part of his TEDxSFU talk in 2013, entitled [\"Experience disease through music.\"](https://www.youtube.com/watch?v=Oj2AXT23uVI) Next month sees the premiere of Park's [*Diagnosis: Diabetes*](http://www.michaelpark.ca/diabetes-presskit/), his new \"interactive chamber opera\" featuring the [Erato Ensemble](/scene/companies/erato-ensemble/), October 10th at 8pm at The Orpheum Annex in Vancouver.\n\nI spoke with Park about writing an opera about disease, composing music to tell this kind of story, and the audience interaction that is crucial to *Diagnosis: Diabetes.*"
 publishDate = "2015-09-18T12:15:00-04:00"
+short_description = "Vancouver-based Composer and pianist Michael Park has spent considerable time thinking about how to talk about disease through music. He performed his Alzheimer's Variations (absolutely worth a listen) as part of his TEDxSFU talk in 2013, entitled \"Experience disease through music.\""
 slug = "michael-park-on-opera-disease"
 title = "Michael Park: on opera &amp; disease"
 +++

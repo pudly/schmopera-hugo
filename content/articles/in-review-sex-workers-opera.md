@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-05-20T09:43:00+01:00"
 lastmod = "2016-05-20T17:55:00+01:00"
 publishDate = "2016-05-20T10:30:00+01:00"
+short_description = "In the context of the show, these stories were dragged from the abstract, and into the specific. Stereotypes like The Average John (always with a mustache), the CEO who likes to be slapped around, and the \"moral person\" who broadcasts loudly his own preferences in his judgement of which forms of sex work toe the line of \"appropriate\", and which are downright lewd and dangerous."
 slug = "in-review-sex-workers-opera"
 title = "In review: Sex Workers&#039; Opera"
 +++

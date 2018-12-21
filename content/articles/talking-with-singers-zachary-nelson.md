@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2017-03-12T14:28:00+00:00"
 lastmod = "2017-03-21T14:31:00+00:00"
 publishDate = "2017-03-21T14:12:00+00:00"
+short_description = "\"When I was in Chicago doing Das Rheingold, it was the first Wagner I'd ever done,\" Nelson recalls. \"I was sitting onstage on opening night, and Eric Owens is just wailing away [as Wotan]. I'm standing there on the stage with him, and I just started welling up.\" It was a moment in his career that will stick with him, and which offered a clear picture of the rewards that remain in store for the young baritone."
 slug = "talking-with-singers-zachary-nelson"
 title = "Talking with singers: Zachary Nelson"
 +++

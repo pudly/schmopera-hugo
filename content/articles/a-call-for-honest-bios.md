@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2016-12-10T08:41:00-05:00"
 lastmod = "2017-12-15T10:19:00-05:00"
 publishDate = "2016-12-10T11:04:00-05:00"
+short_description = "Sometimes, readers, after a long day of scouring information on opera singers, we start to bemoan the fact that their bios don't really tell us anything about them. If any of you know an opera singer personally, go read their professional bio right now. Who is that person? They seem busy, but it's not clear why anyone should go and hear them sing."
 slug = "a-call-for-honest-bios"
 title = "A call for Honest Bios™"
 +++

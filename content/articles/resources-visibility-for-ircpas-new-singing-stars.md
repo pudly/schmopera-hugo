@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-11-08T21:00:00-05:00"
 lastmod = "2018-11-12T16:57:00-05:00"
 publishDate = "2018-11-09T09:06:00-05:00"
+short_description = "Following the concert, IRCPA awarded its annual \"Career Blueprint\" to soprano Sara Schabas, who had wowed the crowd - both live and those watching and listening live on The New Classical FM - with her crystalline singing of a snippet of Strauss' Der Rosenkavalier."
 slug = "resources-visibility-for-ircpas-new-singing-stars"
 title = "Resources &amp; visibility for IRCPA&#039;s New Singing Stars"
 +++

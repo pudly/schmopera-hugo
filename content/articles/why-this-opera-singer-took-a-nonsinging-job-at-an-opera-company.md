@@ -2,7 +2,9 @@
 categories = "Op-ed"
 date = "2016-01-04T13:25:00-05:00"
 lastmod = "2016-01-04T14:18:00-05:00"
+preamble = "We're happy to share an article by [Jennifer Rivera](/scene/people/jennifer-rivera/), mezzo-soprano, writer, arts advocate, and Director of Artistic Development at [The Center for Contemporary Opera](http://centerforcontemporaryopera.org/) in New York. She chats about taking offstage jobs, the stigma that comes with that decision, and seeing the operatic forest for the trees. Check out the [original article]((http://www.huffingtonpost.com/jennifer-rivera/why-this-opera-singer-too_b_7548460.html)) on *Huff Post*, and read more by Rivera [right here](http://www.huffingtonpost.com/jennifer-rivera/)."
 publishDate = "2016-01-04T14:18:00-05:00"
+short_description = "While directors and conductors often hold directorships and administrative positions within opera companies, singers themselves rarely have the opportunity to continue to perform while contributing to the other side of the footlights. There is definitely a stigma attached -- that if you have time for any kind of other job, your singing career must not be going well. "
 slug = "why-this-opera-singer-took-a-nonsinging-job-at-an-opera-company"
 title = "Why This Opera Singer Took a Non-Singing Job at an Opera Company"
 +++

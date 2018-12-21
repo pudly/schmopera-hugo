@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2016-05-10T11:37:00+01:00"
 lastmod = "2016-05-10T17:41:00+01:00"
+preamble = "Readers, you've met the [contestants for *A Little Too Cozy*](/meet-the-contestants-of-a-little-too-cozy/), and now it's time to meet the masterminds behind your favourite love-at-first-text dating game show. We chat with the show's host, [Don L. Fonzo](/scene/people/cairan-ryan/) and talent relations expert, [Despina](/scene/people/caitlin-wood/); read on to get the insider's scoop on what to expect from the season finale, and the curious working relationship between Despina (sung by Caitlin Wood) and Fonzo (Cairan Ryan).\n\nThe show is only two days away! Follow our box office links below for details and to snag your seat."
 publishDate = "2016-05-10T14:55:00+01:00"
+short_description = "\"For some of our male contestants, it can be difficult to go without any female contact for such an extended period of time. I just make sure that they are happy and relaxed when the film starts to roll. And I try to give contestants advice about getting the most out of this opportunity — and I don't mean finding 'true love'; I mean creating a brand or future career opportunities. \""
 slug = "a-little-too-cozy-offcamera-with-don-l-fonzo-despina"
 title = "A Little Too Cozy: Off-camera with Don L. Fonzo &amp; Despina"
 +++

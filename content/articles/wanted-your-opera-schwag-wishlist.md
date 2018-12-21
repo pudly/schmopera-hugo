@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2017-03-01T14:50:00+00:00"
 lastmod = "2017-03-03T12:25:00+00:00"
 publishDate = "2017-03-03T12:17:00+00:00"
+short_description = "You probably already love our t-shirts, hoodies, mugs, and doggie gear - but what else do your operaphilic hearts desire? Tote bags? Baseball caps? Phone cases? Posters? Maybe you want more colours to choose from, or you've got a great idea for a new design. Do you want to see your favourite opera reference, immortalized in material goods?"
 slug = "wanted-your-opera-schwag-wishlist"
 title = "Wanted: your opera schwag wish-list"
 +++

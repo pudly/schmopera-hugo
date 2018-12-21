@@ -3,6 +3,7 @@ categories = "News"
 date = "2017-06-02T08:35:00-04:00"
 lastmod = "2017-06-02T10:09:00-04:00"
 publishDate = "2017-06-02T10:09:00-04:00"
+short_description = "The documentary will include interview footage, clips of him singing, and Howard and his team will have full access to the Pavarotti family archives. \"He has been vastly documented and recorded,\" says Howard, \"enough that even though he's not with us, we’re going to be able to allow Pavarotti to tell his own story.\""
 slug = "ron-howard-to-direct-new-pavarotti-documentary"
 title = "Ron Howard to direct new Pavarotti documentary"
 +++

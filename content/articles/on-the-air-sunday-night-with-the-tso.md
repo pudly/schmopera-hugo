@@ -3,6 +3,7 @@ categories = "News"
 date = "2015-10-25T21:55:00-04:00"
 lastmod = "2015-11-07T09:22:00-05:00"
 publishDate = "2015-11-07T09:22:00-05:00"
+short_description = "This weekend, turn your radio-like devices to Classical 96.3 FM for the latest episode of Sunday Night with the TSO. Recently I joined hosts Kathleen Kajioka and Jeff Melanson (President and CEO of the Toronto Symphony Orchestra) and fellow guest Michael Vincent (editor, Musical Toronto) for a somewhat meta-conversation about the value of music criticism."
 slug = "on-the-air-sunday-night-with-the-tso"
 title = "On the air: Sunday Night with the TSO"
 +++

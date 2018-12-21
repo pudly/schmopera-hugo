@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-04-24T18:15:00-04:00"
 lastmod = "2018-04-24T21:09:00-04:00"
 publishDate = "2018-04-24T21:09:00-04:00"
+short_description = "Audiences have been flocking to the Barrow Street Theater, which has been converted into a 135-seat pie shop, for over a year. The producers have the delicious cheek to sell meat pies, by reservation only, prior to each performance. They will be serving up those pies well into the summer."
 slug = "sweeney-todd-demon-of-disguise"
 title = "Sweeney Todd: Demon of Disguise"
 +++

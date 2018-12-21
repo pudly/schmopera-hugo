@@ -3,6 +3,7 @@ categories = "Review"
 date = "2015-01-24T14:01:00-05:00"
 lastmod = "2015-04-11T22:34:00-04:00"
 publishDate = "2015-01-24T14:01:00-05:00"
+short_description = "Last night Opera 5 opened their double bill, Modern (Family) Opera, which was made up of Ermanno Wolf-Ferrari’s Il segreto di Susanna and the world première of Darren Russo’s new opera, Storybook. Stage directors Grace Smith (Wolf-Ferrari) and Opera 5 Artistic Director Aria Umezawa shared the double bill, bringing their unique styles to two pieces that couldn’t have been more different."
 slug = "in-review-modern-family-opera"
 title = "In review: Modern (Family) Opera"
 +++

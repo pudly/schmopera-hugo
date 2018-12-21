@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-09-25T10:00:00-04:00"
 lastmod = "2017-09-25T13:00:00-04:00"
 publishDate = "2017-09-25T10:28:00-04:00"
+short_description = "Tacking happy endings onto tellings of traditionally tragic myths in this way was very much en vogue in the eighteenth-century. But for Neumeier's concept-driven production, while the musical substance remains the same, the story's denouement is rendered far more devastating than even the myth's usual tragic end."
 slug = "organic-elegance-orphe-et-eurydice-in-chicago"
 title = "Organic elegance: Orphée et Eurydice in Chicago"
 +++

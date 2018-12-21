@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2017-10-10T21:26:00-04:00"
 lastmod = "2017-10-17T21:27:00-04:00"
 publishDate = "2017-10-17T21:01:00-04:00"
+short_description = "Not only is Schlather's latest project site-specific, but one which is in response to a performance space's unique history. \"That's exciting for me, and it's the continuation of explorations that I've been doing for the past couple years,\" he says. These explorations, he explains, haven't always been clear in direction, but they have always ben led by the question, \"what does it mean to do this opera in this location?\""
 slug = "rb-schlather-susan-b-anthony-connecting-opera-with-community"
 title = "R.B. Schlather, Susan B. Anthony, &amp; connecting opera with community"
 +++

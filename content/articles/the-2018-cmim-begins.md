@@ -3,6 +3,7 @@ categories = "News"
 date = "2018-05-28T21:53:00-04:00"
 lastmod = "2018-05-29T20:16:00-04:00"
 publishDate = "2018-05-29T09:28:00-04:00"
+short_description = "Competitions are a funny thing. They demand a different set of skills than a performance in an opera or recital, and with the CMIM's expanded, online audience, the pressure for perfection is at its peak. A competition doesn't always give a good indication of what a singer does well - they may be an entirely different beast in performance-mode - but it's a fascinating snapshot into what a singer is doing at a specific point in their career."
 slug = "the-2018-cmim-begins"
 title = "The 2018 CMIM begins!"
 +++

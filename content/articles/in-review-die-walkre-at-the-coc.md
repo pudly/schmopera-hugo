@@ -3,6 +3,7 @@ categories = "Review"
 date = "2015-04-11T20:42:00-04:00"
 lastmod = "2015-04-11T21:17:00-04:00"
 publishDate = "2015-02-05T09:41:00-05:00"
+short_description = "Last night I finally got the chance to satisfy my curiosity, by seeing the Canadian Opera Company’s current production of Die Walküre, directed by Atom Egoyan (and running until Feb. 22). Since the 2014/15 season was announced, I had been eager to see Egoyan’s take on Wagner, and to hear Christine Goerke as Brünnhilde. "
 slug = "in-review-die-walkre-at-the-coc"
 title = "In review: Die Walküre at the COC"
 +++

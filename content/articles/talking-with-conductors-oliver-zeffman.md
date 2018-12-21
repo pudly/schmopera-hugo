@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-10-11T16:12:00-04:00"
 lastmod = "2017-10-16T19:33:00-04:00"
+preamble = "British conductor Oliver Zeffman is one of those tirelessly ambitious young artists, having built up impressive experience conducting new and traditional symphonic and operatic repertoire. In 2010 - at just 16 years of age - he founded the [Melos Sinfonia](/scene/companies/melos-sinfonia/), which is embarking on its most ambitious tour to date with an in-concert presentation of George Benjamin's *Written on Skin*. \n\nWe spoke with Zeffman about taking on the work of living artists, making the performances his own, and the exhaustively rewarding process of creating one's own professional opportunities."
 publishDate = "2017-10-16T19:33:00-04:00"
+short_description = "\"I set up the Melos Sinfonia at 16 - no-one is going to invite a wannabe conductor with zero experience in front of their orchestra, so you've got to start something yourself. Ask your friends from school, from youth orchestra, their friends and relatives. You'll probably be terrible to start out with (I was at least!) but over time you get better, they get better, you build a wider network of players and at some point you'll be making good music!\""
 slug = "talking-with-conductors-oliver-zeffman"
 title = "Talking with conductors: Oliver Zeffman"
 +++

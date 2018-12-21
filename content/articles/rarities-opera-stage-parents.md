@@ -2,7 +2,9 @@
 categories = "Editorial"
 date = "2016-05-03T09:51:00+01:00"
 lastmod = "2016-05-03T11:31:00+01:00"
+preamble = "Photo: [Tech. Sgt. Matt Hecht](https://www.flickr.com/photos/satransport/8349998703), [Flickr](https://creativecommons.org/licenses/by/2.0/legalcode)."
 publishDate = "2016-05-03T11:25:00+01:00"
+short_description = "So, because training for opera takes patience and nurturing, and rarely results in the kind of fame and fortune that makes terrible parents proud, have we escaped the curse of stage moms and dads? Is opera an ironic blind spot, ignored by the validation seekers in favour of TV commercials and youth beauty pageants?"
 slug = "rarities-opera-stage-parents"
 title = "Rarities: opera stage parents"
 +++

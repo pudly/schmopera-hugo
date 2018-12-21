@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-09-29T19:14:00-04:00"
 lastmod = "2017-09-30T08:49:00-04:00"
 publishDate = "2017-09-30T08:48:00-04:00"
+short_description = "This production was very beautiful from a visual perspective. The sets were colossal, drawing the audience into a strange fantasy world. It was full of stunning tableaus, especially those that included the whole cast, the chorus and the wonderful acrobatic ensemble, Improbable. The lighting design was particularly clever, illuminating the production in a way which seemed almost symbolistc. For me, the most stunning moment of the whole production was the strange ending."
 slug = "stellar-singing-curious-costumes-in-enos-aida"
 title = "Stellar singing &amp; curious costumes in ENO&#039;s Aida"
 +++

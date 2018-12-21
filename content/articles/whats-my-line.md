@@ -2,7 +2,9 @@
 categories = "Humour"
 date = "2015-07-04T21:56:00-06:00"
 lastmod = "2015-07-06T00:44:00-06:00"
+preamble = "Here at The Banff Centre, we're nearing the halfway point of Open Space: Opera in the 21st Century. Two productions are underway: *A Little Too Cozy*, reminiscent of Mozart's *Così fan tutte* with a new libretto by [Joel Ivany](/scene/people/joel-ivany/), and *Crush*, [James Rolfe](/scene/people/james-rolfe/) and [Anna Chatterton](/scene/people/anna-chatterton/)'s new opera based on *Don Giovanni*. Revisiting old stories with the lens of society today is the common theme between these two operas, and so it's been a true summer of exploring words.\n\nI asked the casts of *A Little Too Cozy* and *Crush* to send me their favourite lines from their respective operas. Read on, and get curious about these shows. Bonus points if you can identify which bits are Ivany, and which are Chatterton."
 publishDate = "2015-07-06T07:30:00-06:00"
+short_description = "I asked the casts of A Little Too Cozy and Crush to send me their favourite lines from their respective librettos. Read on, and get curious about these shows. Bonus points if you can identify which bits are Ivany, and which are Chatterton."
 slug = "whats-my-line"
 title = "What&#039;s my line?"
 +++

@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-06-12T15:38:00-06:00"
 lastmod = "2017-06-16T22:19:00-06:00"
+preamble = "Fresh off his [Vancouver Opera](/scene/companies/vancouver-opera/) debut as Figaro in *Le nozze di Figaro*, Canadian baritone [Iain MacNeil](/scene/people/iain-macneil/) is taking on more Mozart in the title role of [Saskatoon Opera](/scene/companies/saskatoon-opera/)'s *Don Giovanni*, running through June 24. He sang leading roles in the Ensemble Studio performances of *Il barbiere di Siviglia* (2015) and *Le nozze di Figaro* (2016) at the [Canadian Opera Company](/scene/companies/canadian-opera-company/), and he made a dark and earnest Tarquinius in *The Rape of Lucretia* at The Banff Centre (2016).\n\nBetween performances of Don Giovanni, MacNeil chats about the simple stuff, like the value of a positive attitude, learning without fear, and why he loves his job."
 publishDate = "2017-06-16T22:19:00-06:00"
+short_description = "\"I've learned that audiences and even audition panels will forgive vocal imperfection for a committed, sincere interpretation of a role or a piece. That said, I've learned that establishing a healthy singing technique that you can rely on day in and day out is priceless. Perhaps most importantly I've learned that a positive attitude helps to foster an effective and enjoyable work environment.\""
 slug = "spotlight-on-iain-macneil"
 title = "Spotlight on: Iain MacNeil"
 +++

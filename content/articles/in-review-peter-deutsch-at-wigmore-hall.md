@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-02-17T22:02:00+00:00"
 lastmod = "2017-02-18T16:09:00+00:00"
 publishDate = "2017-02-18T16:02:00+00:00"
+short_description = "Peter and Deutsch chose songs that were a blatant reminder of just how tender-hearted men can be, especially concerning the opposite sex. There seemed a theme of lavishing praise on women, and Peter had us convinced that he was a true heart-on-his-sleeve romantic."
 slug = "in-review-peter-deutsch-at-wigmore-hall"
 title = "In review: Peter &amp; Deutsch at Wigmore Hall"
 +++

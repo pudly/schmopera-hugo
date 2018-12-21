@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-10-30T11:08:00+00:00"
 lastmod = "2016-10-30T12:04:00+00:00"
 publishDate = "2016-10-30T12:02:00+00:00"
+short_description = "The pair gave us songs by Wolf, Bizet, and Grieg. A personal favourite of ours, the Wolf songs were where Drake sang the most. His playing guided us through these densely packed songs, noting every subtle detail in Wolf's writing without belabouring. De Niese was funny, touching, and real, and Drake pulled off the \"bad violin\" gag in \"Wie lange schon war immer mein Verlangen\" from the Italienisches Liederbuch."
 slug = "in-review-danielle-de-niese-and-julius-drake"
 title = "In review: Danielle de Niese and Julius Drake"
 +++

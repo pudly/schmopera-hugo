@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-03-27T17:30:00-04:00"
 lastmod = "2018-03-29T09:31:00-04:00"
 publishDate = "2018-03-27T19:38:00-04:00"
+short_description = "The two happen upon some berries and and with some coaxing, Cloth decides to join this new friend in tasting them. The berries take them on a psychotropic trip where they encounter Atrophy. Atrophy is personified in a dancer who leads them on a wild and destructive rampage of expression."
 slug = "what-a-long-strange-trip-its-been-belladonna"
 title = "What a long, strange trip it&#039;s been: Belladonna"
 +++

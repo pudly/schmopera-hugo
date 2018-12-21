@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-04-07T10:16:00+01:00"
 lastmod = "2016-04-07T11:38:00+01:00"
 publishDate = "2016-04-07T11:14:00+01:00"
+short_description = "The music was stellar, and the vibe was so great that even a momentary power outage mid-\"Summertime\" didn't dampen the night one bit. It's hard to say what we expected from CLS, but expectations don't matter when the experience holds us rapt and happy. "
 slug = "great-nights-sketches-of-miles"
 title = "Great nights: Sketches of Miles"
 +++

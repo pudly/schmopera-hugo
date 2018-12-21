@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2016-07-07T11:20:00-06:00"
 lastmod = "2016-07-08T08:32:00-06:00"
+preamble = "The [Crested Butte Music Festival](http://crestedbuttemusicfestival.org/) is celebrating its 20th season this year; helping to celebrate is the new Spiegeltent, a new venue for all mainstage CBMF events with a stunning view of Mt. Crested Butte. Each year the Festival welcomes the young artists of the [Crested Butte Opera Studio](http://crestedbuttemusicfestival.org/opera-in-paradise/opera-studio/), and this summer they present a fully staged production of *La bohème*, under maestro David Stern.\n\nWe spoke with CBOS Artistic Director [Lynn Baker](http://crestedbuttemusicfestival.org/opera-in-paradise/faculty/), and tenor [Dane Suarez](/scene/people/dane-suarez/), Opera Studio Artist, about what the Festival has to offer young singers, and how they all feel about singing at 9,500ft elevation."
 publishDate = "2016-07-07T21:04:00-06:00"
+short_description = "\"The Crested Butte Music Festival was particularly attractive to me because there aren't many paid summer young artist programs where you have the opportunity to sing a leading role. This summer, I'm eager to learn the role in a safe environment with amazing music staff and peers.\""
 slug = "elevated-opera-the-crested-butte-opera-studio"
 title = "Elevated opera: the Crested Butte Opera Studio"
 +++

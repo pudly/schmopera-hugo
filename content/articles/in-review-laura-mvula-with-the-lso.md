@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-07-22T10:41:00-04:00"
 lastmod = "2017-07-24T10:32:00-04:00"
 publishDate = "2017-07-24T09:43:00-04:00"
+short_description = "Singing her own songs arranged by Troy Miller, Mvula possesses that truly remarkable quality that has come to be a holy grail for singers of all styles: that when she is performing, you feel like she is looking directly at you, talking to you specifically."
 slug = "in-review-laura-mvula-with-the-lso"
 title = "In review: Laura Mvula with the LSO"
 +++

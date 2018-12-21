@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-12-01T08:26:00-05:00"
 lastmod = "2017-08-20T20:59:00-04:00"
 publishDate = "2016-12-01T08:40:00-05:00"
+short_description = "If you like to drink a lot of Faching coffee, or if you're a Faching huge tea guru, the Schmug helps you caffeinate your way to Faching perfection. We all secretly want to be the Queen of the Night, so if you're a bass who wants to drink himself all the way up to those high Fs, you'll hear no judgement from us."
 slug = "introducingthe-schmug"
 title = "Introducing...the Schmug!"
 +++

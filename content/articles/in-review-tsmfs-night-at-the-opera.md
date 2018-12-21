@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-07-28T09:19:00-04:00"
 lastmod = "2017-07-28T13:34:00-04:00"
 publishDate = "2017-07-28T13:00:00-04:00"
+short_description = "There were some serious highlights of the evening; Lorèn earned some well-deserved \"bravas\" after her stunning \"Caro nome\" from Rigoletto, and Honeywell made an impactful entrance with his first aria, \"Ah, la paterna mano\" from Verdi's Macbeth. Relyea made us lean in with his \"Il lacerato spirito\" (Don Carlo), and Nesrallah broke the ice with her lovely starter, \"Mon coeur s'ouvre à ta voix\" (Samson et Dalila). Plus, honourary singer of the evening Nikki Chooi broke hearts with the Méditation from Massenet's Thaïs."
 slug = "in-review-tsmfs-night-at-the-opera"
 title = "In review: TSMF&#039;s Night at the Opera"
 +++

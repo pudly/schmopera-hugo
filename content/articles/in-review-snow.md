@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-02-23T11:01:00+00:00"
 lastmod = "2017-02-23T13:47:00+00:00"
 publishDate = "2017-02-23T13:47:00+00:00"
+short_description = "\"The absence of the narrative episode in which Snow White is bewitched into suspended animation by her jealous stepmother leaves a tantalizing question about how our heroine comes to be interred in a casket,\" writes Hurley in his director's notes. \"Snow White's implied death became the conceptual starting point for approaching the three operas as a through-drama; a young woman at the end of her life searches her past for clues to her tragedy.\""
 slug = "in-review-snow"
 title = "In review: Snow"
 +++

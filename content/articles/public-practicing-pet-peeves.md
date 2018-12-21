@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2015-09-21T16:37:00+01:00"
 lastmod = "2016-08-12T09:38:00+01:00"
 publishDate = "2015-09-22T13:30:00+01:00"
+short_description = "Singers, I love you all. You're brave folks, putting in literally endless hours of practice, taking all the criticism with a smile, getting up in front of bored-faced crowds to bare your souls. I always admire you guys, and never envy your jobs. But singers, let's chat about singing in undesignated areas."
 slug = "public-practicing-pet-peeves"
 title = "Public practicing &amp; pet peeves"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-05-11T15:21:00-04:00"
 lastmod = "2017-05-12T09:16:00-04:00"
 publishDate = "2017-05-12T09:16:00-04:00"
+short_description = "It was Megan Quick's performance of Robert Fleming's The Confession Stone (The Songs of Mary) that left the deepest impression. She sang five songs from the Canadian set written for Maureen Forrester, and showed off an enormous, rich mezzo that seemed to shake the intimate Amphitheatre. Her performance was subtle and thoughtful, yet centred in the voice; she had us thinking of a young Jamie Barton, and we're excited to hear her on the big stage."
 slug = "a-week-in-the-amphitheatre"
 title = "A week in the Amphitheatre"
 +++

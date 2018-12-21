@@ -3,6 +3,7 @@ categories = "News"
 date = "2017-08-16T18:53:00-04:00"
 lastmod = "2017-08-17T13:20:00-04:00"
 publishDate = "2017-08-17T13:06:00-04:00"
+short_description = "Tonigussi has not only created a recital programme filled with music by Canadian composers and poets, but expanded her work into what is now the Canadian Women Composers Project, and taken the programme on tour with the help of pianists Jenna Richards, Narmina Efendiyeva, and Jenny Griffioen."
 slug = "something-canadian-the-canadian-women-composers-project"
 title = "&quot;Something Canadian&quot;: the Canadian Women Composers Project"
 +++

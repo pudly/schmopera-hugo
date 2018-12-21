@@ -3,6 +3,7 @@ categories = "News"
 date = "2018-03-23T09:48:00-04:00"
 lastmod = "2018-03-23T09:48:00-04:00"
 publishDate = "2018-03-23T09:48:00-04:00"
+short_description = "\"This story seemed to have all those big emotions, everything from love and death and hubris and heroism, \" says Talbot. \"People absolutely pushed to the full extremes of their mental and physical capacity. It's an interesting psychological journey through the minds of various different people.\""
 slug = "calgary-opera-launches-201819-season"
 title = "Calgary Opera launches 2018-19 season"
 +++

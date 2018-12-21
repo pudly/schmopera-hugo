@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2014-07-16T10:10:00-04:00"
 lastmod = "2017-05-04T12:25:00-04:00"
 publishDate = "2014-07-16T10:10:00-04:00"
+short_description = "Some people really do thrive on this kind of life; others find themselves at a crux, in which they seriously weigh all the things they love against each other. Some people take matters into their own hands by starting their own opera company in whatever city they damn well please. They open a teaching studio, or even admirably straddle the worlds of day-jobs and opera gigs. But some of us are simply stubborn, and we want to do what we want to do; our homesickness and loneliness can, in some cases, be outweighed by the true love of our art."
 slug = "the-heart-and-the-art"
 title = "The heart and the art"
 +++

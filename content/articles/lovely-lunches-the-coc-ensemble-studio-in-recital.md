@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-04-25T16:32:00-04:00"
 lastmod = "2017-04-26T09:33:00-04:00"
 publishDate = "2017-04-26T09:33:00-04:00"
+short_description = "Eberwein and Kwon gave us the eight songs of Schumann's cycle Frauenliebe und -leben, Op. 42, a set which often seems like a feminine response to his Dichterliebe. Eberwein seemed to waver between delivering something personal, and embodying an every-woman of sorts, shining light upon what's universal about the woman in the poems by Adelbert von Chamisso."
 slug = "lovely-lunches-the-coc-ensemble-studio-in-recital"
 title = "Lovely lunches: the COC Ensemble Studio in recital"
 +++

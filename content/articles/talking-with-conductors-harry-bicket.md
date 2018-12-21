@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-07-15T13:42:00-04:00"
 lastmod = "2017-07-19T11:04:00-04:00"
+preamble = "At the podium for David Alden's production of [*Alcina*](https://www.santafeopera.org/operas-and-ticketing/alcina) at [The Santa Fe Opera](/scene/companies/the-santa-fe-opera/) (**July 29-August 23**) is in-demand conductor of Baroque opera, Harry Bicket. Bicket leads an exciting cast that features [Elza van den Heever](/talking-with-singers-elza-van-den-heever/) in the title role, [Anna Christy](/scene/people/anna-christy/) as Morgana, and [Daniela Mack](/talking-with-singers-daniela-mack/) as Bradamante.\n\nBicket's Santa Fe debut came in 2004 with *Agrippina*, and he became Chief Conductor of The Santa Fe Opera in 2013. We spoke with him about the \"extraordinarily profound music\" that Handel writes for Alcina, and the storytelling among the composer's \"relatively simple\" scores."
 publishDate = "2017-07-19T11:04:00-04:00"
+short_description = "\"The notes of a Handel opera are relatively simple, compared to a Strauss or Wagner opera, but I concentrate a lot on the rhetorical gesture of every phrase and in creating a soundworld that precisely matches the emotional temperature of the drama.\""
 slug = "talking-with-conductors-harry-bicket"
 title = "Talking with conductors: Harry Bicket"
 +++

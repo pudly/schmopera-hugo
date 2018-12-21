@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-03-22T10:16:00+00:00"
 lastmod = "2017-03-22T13:39:00+00:00"
 publishDate = "2017-03-22T12:28:00+00:00"
+short_description = "\"Flaws\" like an overly thick orchestration, or a vocal tessitura that is relentless and awkward, are what thrill the lovers of music history; it's indicative of just how much of a genius Mozart was, that moments of orchestra imbalance or slightly less organic melodies - largely harmless in the big picture - seem the \"rudimentary\" product of 11 year-old Wolfgang."
 slug = "in-review-the-first-commandment"
 title = "In review: The First Commandment"
 +++

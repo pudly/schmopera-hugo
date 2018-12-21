@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-07-02T21:20:00-06:00"
 lastmod = "2017-07-02T22:32:00-06:00"
 publishDate = "2017-07-02T22:19:00-06:00"
+short_description = "Overall, the quality of the production was incredibly high. It was visually stunning, particularly the unusual costuming. The aesthetic and movement choices of the production did inspire some conflict in me though. It was fantastic to see such a bold exploration of gender fluidity and campiness fearlessly played out with the costuming and physical characterisation of the singers. I also loved the aesthetic value of the costuming and set - the rich colours really brought this over-the-top world to life."
 slug = "in-review-mitridate-re-di-ponto-at-roh"
 title = "In review: Mitridate, re di Ponto at ROH"
 +++

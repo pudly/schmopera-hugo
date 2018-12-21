@@ -3,6 +3,7 @@ categories = "News"
 date = "2018-02-27T21:56:00-05:00"
 lastmod = "2018-02-28T18:29:00-05:00"
 publishDate = "2018-02-27T21:56:00-05:00"
+short_description = "The opera by composer Stewart Copeland and librettist Jonathan Moore is based on the novel by Adolfo Bioy Casares, \"La invención de Morel\". An escaped fugitive ends up on a strange island, falls in love, is abandoned, and begins to unravel before meeting the mad scientist Morel."
 slug = "three-cities-lots-of-options-coming-up-in-march"
 title = "Three cities, lots of options: coming up in March"
 +++

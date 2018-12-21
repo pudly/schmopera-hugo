@@ -3,6 +3,7 @@ categories = "Review"
 date = "2015-04-10T21:36:00-04:00"
 lastmod = "2015-04-12T19:01:00-04:00"
 publishDate = "2015-03-21T09:36:00-04:00"
+short_description = "Last night was the first of two performances of Tapestry's 2nd annual Tap:Ex (Tapestry Explorations/Experimentations), this time the program is Tables Turned,  featuring the music of Montréal-based composer and turn table artist Nicole Lizée, with percussionist Ben Reimer and the spectacular soprano Carla Huhtanen. "
 slug = "in-review-tapex-tables-turned-or-go-see-this-show"
 title = "In review: Tap:Ex Tables Turned, or Go See This Show"
 +++

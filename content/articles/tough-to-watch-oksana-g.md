@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-05-25T10:53:00-04:00"
 lastmod = "2017-05-25T18:08:00-04:00"
 publishDate = "2017-05-25T14:50:00-04:00"
+short_description = "There's much about Oksana that's maddening. Kind and trusting people make risky and uninformed decisions, and evil people lie and harm others with no remorse; everyday people ignore cries for help from sex workers, and helpless parents, left without money or police, turn to fortune-tellers in times of desperation. Maddening as it may be - and easy as it seems to say, \"I'm too smart to fall for that\" - the story of human trafficking is true and happening now."
 slug = "tough-to-watch-oksana-g"
 title = "Tough to watch: Oksana G."
 +++

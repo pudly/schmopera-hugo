@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2015-07-31T23:02:00+02:00"
 lastmod = "2015-08-03T16:13:00+02:00"
+preamble = "[Loose TEA Music Theatre](/scene/companies/loose-tea-music-theatre/) is heading into its third season, currently in rehearsals for its upcoming production, *Dissociative Me*, which runs August 18-22nd at [RED Night Club](http://www.rednightclub.ca/) in Toronto. The show is an adaptation of Gounod's *Faust*, with a new libretto by Loose TEA's Artistic Director [Alaina Viau](/scene/people/alaina-viau/) and General Manager Markus Kopp. I do like me some devilish opera.\n\nEven without personal experience, I can say confidently that running a small opera company is tireless and endless effort, and I have huge amounts of respect for Loose TEA's work, and that of all the unstoppable (and compact) companies popping up amongst the big guys. I was able to chat with Alaina Viau about her work with Loose TEA Music Theatre about re-writing *Faust*, and how her company is \"like an incubator.\""
 publishDate = "2015-08-03T16:13:00+02:00"
+short_description = "Loose TEA Music Theatre is heading into its third season, currently in rehearsals for its upcoming production, Dissociative Me, which runs August 18-22nd at RED Night Club in Toronto. The show is an adaptation of Gounod's Faust, with a new libretto by Loose TEA's Artistic Director Alaina Viau and General Manager Markus Kopp. I do like me some devilish opera."
 slug = "check-out-loose-tea-music-theatre"
 title = "Check out: Loose TEA Music Theatre"
 +++

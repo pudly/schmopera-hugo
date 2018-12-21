@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2016-02-17T18:17:00-05:00"
 lastmod = "2016-02-19T09:12:00-05:00"
 publishDate = "2016-02-19T08:45:00-05:00"
+short_description = "We entered the theatre and got to our seats minutes before the curtain rose. The stage set was simple and yet magnificent with a full staircase as the main backdrop, and then the orchestra started and the singing began, WOW! The voices. I never thought operas could be so humorous and enjoyable, I always thought operas were serious and tragic with the cliché of a fat lady in a flowing floor length  gown and horned helmet - was I wrong!"
 slug = "newbies-at-the-opera"
 title = "Newbies at the opera"
 +++

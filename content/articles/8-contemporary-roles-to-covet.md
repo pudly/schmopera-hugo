@@ -2,7 +2,9 @@
 categories = "Editorial"
 date = "2016-01-09T21:48:00-05:00"
 lastmod = "2016-01-10T16:21:00-05:00"
+preamble = "Singers have always been quick to notice a great role in an opera, and put it on their to-do list, be it for the near or distance future. 20th-century operatic roles like Carlisle Floyd's Susannah and Corigliano's Marie Antoinette have found their way into the mainstream repertoire; as a result, arias from these operas appear on singers' audition packages, the true test of an opera that has caught on with the public. \n\nAs we creep further into the 2010s, there exists enough new opera to take stock of the 21st-century roles deserving of our attention. Who are the Anne Trueloves, the Captain Veres, the Chiang Ch'ings of today? To help answer those great questions, we offer up 8 delicious roles from operas of this generation."
 publishDate = "2016-01-10T16:17:00-05:00"
+short_description = "As we creep further into the 2010s, there exists enough new opera to take stock of the 21st-century roles deserving of our attention. Who are the Anne Trueloves, the Captain Veres, the Chiang Ch'ings of today? To help answer those great questions, we offer up 8 delicious roles from operas of this generation."
 slug = "8-contemporary-roles-to-covet"
 title = "8 contemporary roles to covet"
 +++

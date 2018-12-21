@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-10-09T19:34:00-04:00"
 lastmod = "2018-10-19T15:29:00-04:00"
 publishDate = "2018-10-09T19:34:00-04:00"
+short_description = "Director Richard Jones deserves fervent applause for his three-dimensional realization of this show.  Characters and set-pieces alike moved and reacted with cinematic deliberateness.  Rising conductor Domingo Hindoyan makes his Lyric debut in this production. The LOC orchestra responded with a lush blanket of sound, emanating from the pit and supporting the singers.  "
 slug = "pass-the-tissues-a-beautiful-new-bohme-in-chicago"
 title = "Pass the tissues: a beautiful new Bohème in Chicago"
 +++

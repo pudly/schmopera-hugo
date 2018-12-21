@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2014-02-27T14:18:00-05:00"
 lastmod = "2018-07-24T12:15:00-04:00"
 publishDate = "2014-02-27T14:18:00-05:00"
+short_description = "We want to keep a two-way conversation with the people making opera happen today, and that means hearing from more voices. If you're eager to write, and have your apostrophes in order, we want to hear from you."
 slug = "wanna-write-for-schmopera"
 title = "Wanna Write for Schmopera?"
 +++

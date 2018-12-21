@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2017-04-11T21:12:00+01:00"
 lastmod = "2017-04-13T09:35:00+01:00"
 publishDate = "2017-04-13T09:35:00+01:00"
+short_description = "It's true! If you're a fan of Star Trek, you're well aware of the Klingon culture's appreciation for opera. 'u', the so-called \"First authentic Klingon opera on Earth\" by Eef van Breen, Kees Ligtelijn, and Marc Okrand, was put up in 2010 in The Hague to sold-out crowds."
 slug = "theres-a-new-klingon-opera-in-the-works"
 title = "There&#039;s a new Klingon opera in the works"
 +++

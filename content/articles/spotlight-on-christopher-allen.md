@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2016-02-05T13:27:00-05:00"
 lastmod = "2016-02-17T09:49:00-05:00"
+preamble = "American conductor [Christopher Allen](/scene/people/christopher-allen/) is a rising figure in today's opera scene. He has assisted the likes of Robert Spano, Plácido Domingo, James Conlon, and Donald Runnicles, and he made his conducting debut with the Cincinnati Symphony, for the world premiere of Ricky Ian Gordon's *Morning Star*. As the newly named John L. Magro Resident Conductor for Cincinnati Opera, he'll conduct their production of *Tosca* in July 2016.\n\nAllen recently made his UK debut with [English National Opera](/scene/companies/english-national-opera/)'s production of [*The Barber of Seville*](http://www.christophergallen.com/events/enobarber), and in March, he conducts Donizetti's [*L'elisir d'amore*](http://www.christophergallen.com/events/kcelixir) at [Lyric Opera of Kansas City](/scene/companies/lyric-opera-of-kansas-city/). We had the chance to ask him about his work, about communication skills, and the role opera plays in his time on the podium."
 publishDate = "2016-02-09T09:00:00-05:00"
+short_description = "Allen recently made his UK debut with English National Opera's production of The Barber of Seville, and in March, he conducts Donizetti's L'elisir d'amore at Lyric Opera of Kansas City. We had the chance to ask him about his work, about communication skills, and the role opera plays in his time on the podium."
 slug = "spotlight-on-christopher-allen"
 title = "Spotlight on: Christopher Allen"
 +++

@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2017-03-30T12:02:00+01:00"
 lastmod = "2017-04-04T17:47:00+01:00"
 publishDate = "2017-04-04T12:11:00+01:00"
+short_description = "Centuries ago, the piano could act as a self-contained, portable element that encompassed the sound world of an orchestra; the role of the répétiteur has evolved organically out of this practice, and most rehearsal pianists are valuable assistants to conductors and liaisons for singers. Now, composers are now working with a sound spectrum that is larger than a piano can represent; to use a piano in rehearsal no longer achieves the goal of re-creating what the singers will hear when the \"real orchestra\" shows up."
 slug = "is-new-opera-putting-the-rptiteur-out-of-a-job"
 title = "Is new opera putting the répétiteur out of a job?"
 +++

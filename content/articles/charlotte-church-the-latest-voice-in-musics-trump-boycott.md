@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2017-01-11T12:31:00+00:00"
 lastmod = "2017-01-12T09:58:00+00:00"
 publishDate = "2017-01-11T14:25:00+00:00"
+short_description = "Speaking of the various circles of hell, Drumpf, is having a really hard time finding people who want to celebrate his win as President of the Divided States of America; the list of people refusing to perform is growing longer... and longer... and longer... With the event a mere 9 days away, so far we have: Jackie Evancho singing, the Rockettes performing on a \"voluntary basis\", and a college marching band - that's it."
 slug = "charlotte-church-the-latest-voice-in-musics-trump-boycott"
 title = "Charlotte Church the latest voice in music&#039;s Trump boycott"
 +++
