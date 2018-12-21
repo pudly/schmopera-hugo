@@ -21,8 +21,8 @@ sections:
   label: Posts
   create: all
   match: "**/*"
-upload_dir: 'schmopera '
-public_path: schmopera
+upload_dir: media
+public_path: media
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":year:/:month:/:filename:"
