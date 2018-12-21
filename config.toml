@@ -5,3 +5,6 @@ theme = "schmopera"
 
 [taxonomies]
   category = "categories"
+
+[permalinks]
+  articles = "/:title"

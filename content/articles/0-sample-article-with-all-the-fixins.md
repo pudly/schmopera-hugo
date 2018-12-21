@@ -1,7 +1,6 @@
 +++
 author = ""
 categories = "Editorial"
-category = ""
 companies = []
 date = "2018-12-20T18:05:00+00:00"
 disclaimer = "Disclaimer. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis orci nulla, venenatis vitae fringilla sit amet, commodo in sem. Fusce libero ante, sollicitudin vestibulum consequat ut, facilisis consectetur enim. Maecenas pellentesque laoreet ultrices.  "
@@ -14,7 +13,7 @@ related_articles = []
 short_description = "Short Description. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis orci nulla, venenatis vitae fringilla sit amet, commodo in sem."
 slug = "sample-article-with-all-the-fixins"
 title = "Sample article with all the fixins"
-
+url = "testing123"
 +++
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel ipsum ut leo efficitur aliquet. Nunc tempor, tellus nec ornare porta, dui velit tincidunt leo, in tincidunt ipsum metus vel metus. Quisque ut condimentum mi. Vivamus vel enim sit amet neque auctor volutpat. Praesent at sagittis neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis orci nulla, venenatis vitae fringilla sit amet, commodo in sem. Fusce libero ante, sollicitudin vestibulum consequat ut, facilisis consectetur enim. Maecenas pellentesque laoreet ultrices.
 
