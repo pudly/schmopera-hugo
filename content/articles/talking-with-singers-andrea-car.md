@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Andrea Carè"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-andrea-car/
+title = "Talking with singers: Andrea Carè"
++++
 
 ## Why do you sing professionally?
 

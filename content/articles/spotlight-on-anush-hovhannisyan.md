@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Anush Hovhannisyan"
----
++++
+categories = "Interview"
+slug = /spotlight-on-anush-hovhannisyan/
+title = "Spotlight on: Anush Hovhannisyan"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

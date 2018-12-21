@@ -1,6 +1,8 @@
----
-title: "More than The Scream: Dear Edvard"
----
++++
+categories = "Review"
+slug = /more-than-the-scream-dear-edvard/
+title = "More than The Scream: Dear Edvard"
++++
 
 Edvard Munch painted "The Scream". But what else is he known for? That famous painting has confined him to one-hit-wonder status in the American popular imagination. But, the art world regards Munch as an iconoclast known both for innovations in painting and printmaking and for his confrontational, candid subject matter. Munch bucked persistent conservative trends of late 19th-century art, inadvertently birthing the German expressionist movement. His oeuvre is vast. "The Scream" is a minor masterpiece. How and when will his legacy with the American public catch up to the breadth of his artistic accomplishments?
  

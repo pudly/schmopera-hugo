@@ -1,6 +1,8 @@
----
-title: "Taking a bow: curtain calls for your voice type"
----
++++
+categories = "Humour"
+slug = /taking-a-bow-curtain-calls-for-your-voice-type/
+title = "Taking a bow: curtain calls for your voice type"
++++
 
 There was a funny little [anecdotal post](https://www.reddit.com/r/opera/comments/4ln1zc/that_thing_basses_do_before_the_curtain/) on [r/opera](https://www.reddit.com/r/opera/) the other day, about the habits of basses during curtain calls.
 

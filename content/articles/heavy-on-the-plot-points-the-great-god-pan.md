@@ -1,6 +1,8 @@
----
-title: "Heavy on the plot points: The Great God Pan"
----
++++
+categories = "Review"
+slug = /heavy-on-the-plot-points-the-great-god-pan/
+title = "Heavy on the plot points: The Great God Pan"
++++
 
 As their final offering of the 2017-18 season, [Chicago Fringe Opera](/scene/people/chicago-fringe-opera/) is presenting *The Great God Pan*, a new opera receiving its fully staged world premiere. Ross Crean composed the score and libretto, which is based on an Arthur Machen novella dating from 1890. Set in Victorian-era London the story explores desire and an obsession with the supernatural.
 

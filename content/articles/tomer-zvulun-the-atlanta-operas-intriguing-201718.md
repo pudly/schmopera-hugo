@@ -1,6 +1,8 @@
----
-title: "Tomer Zvulun: The Atlanta Opera&#039;s intriguing 2017/18"
----
++++
+categories = "Interview"
+slug = /tomer-zvulun-the-atlanta-operas-intriguing-201718/
+title = "Tomer Zvulun: The Atlanta Opera&#039;s intriguing 2017/18"
++++
 
 ## What are some highlights of 2017/18 that you personally look forward to most?
 

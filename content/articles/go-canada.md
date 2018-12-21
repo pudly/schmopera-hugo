@@ -1,6 +1,8 @@
----
-title: "Go, Canada!"
----
++++
+categories = "Review"
+slug = /go-canada/
+title = "Go, Canada!"
++++
 
 I went to hear some music by Canadians yesterday at the Richard Bradshaw Amphitheatre, as part of the [Free Concert Series](http://www.coc.ca/PerformancesAndTickets/FreeConcertSeries.aspx) (that you should all be checking out!). It was a chance for the public to hear some of the products of the ongoing [Canadian Art Song Project](http://www.canadianartsongproject.ca/), headed by artistic directors [Lawrence Wiliford](http://www.lawrencewiliford.com/) and [Steven Philcox](http://www.music.utoronto.ca/faculty/faculty_members/faculty_n_to_z/steven_philcox.htm).
 

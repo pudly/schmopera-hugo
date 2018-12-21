@@ -1,6 +1,8 @@
----
-title: "In review: Mozart&#039;s Obscure Opera + Mass in C Minor"
----
++++
+categories = "Review"
+slug = /in-review-mozarts-obscure-opera-mass-in-c-minor/
+title = "In review: Mozart&#039;s Obscure Opera + Mass in C Minor"
++++
 
 <p class="intro" style="text-align: left;">
 	Thursday night was the first of three concerts to be given by the <a href="http://www.tso.ca/en-ca/concerts-and-tickets/2014-2015-Season/EventDetails/Mozart-Mass-in-C-Minor.aspx" target="_blank">Toronto Symphony Orchestra</a>, programming Mozart's fantastic Mass in C Minor, K. 427, with fragments of two of his lesser-known operas, <em>Lo sposo deluso </em>and <em>Zaide</em> (K. 430 and 344, respectively).<em> </em><a href="http://www.askonasholt.co.uk/artists/conductors/paul-goodwin" target="_blank">Paul Goodwin</a> conducts the TSO, both the <a href="http://www.amadeuschoir.com/" target="_blank">Amadeus Choir</a> and the <a href="http://www.elmeriselersingers.com/" target="_blank">Elmer Iseler Singers</a>, as well as the evening's line up of formidable singers: soprano <a href="http://www.fr-lebureau.com/fiche_artiste.php?id=9" target="_blank">Hélène Guilmette</a>, mezzo <a href="http://imgartists.com/artist/julie_boulianne" target="_blank">Julie Boulianne</a>, tenors <a href="http://www.johnptessier.com/" target="_blank">John Tessier</a> and <a href="https://twitter.com/jfortierlazure" target="_blank">Jean-Philippe Fortier-Lazure</a>, and baritone <a href="http://www.ariamanagement.com/nos-artistes/gordon-bintner-w/" target="_blank">Gordon Bintner</a>.<br>

@@ -1,6 +1,8 @@
----
-title: "Meet the contestants of A Little Too Cozy!"
----
++++
+categories = "Interview"
+slug = /meet-the-contestants-of-a-little-too-cozy/
+title = "Meet the contestants of A Little Too Cozy!"
++++
 
 ## What was your first thought when you found out you’d be a contestant on *A Little Too Cozy*?
 

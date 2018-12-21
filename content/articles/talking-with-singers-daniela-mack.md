@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Daniela Mack"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-daniela-mack/
+title = "Talking with singers: Daniela Mack"
++++
 
 "It's a big year," agrees mezzo-soprano [Daniela Mack](/scene/people/daniela-mack/), about her season of major company debuts. In February 2017, Mack will make her Metropolitan Opera debut as the Kitchen Boy in *Rusalka*; for now, she's concentrating on her debut at the Royal Opera House, where she'll sing Rosina in [Moshe Leiser and Patrice Caurier's *Il barbiere di Siviglia*](http://www.roh.org.uk/productions/il-barbiere-di-siviglia-by-moshe-leiser-and-patrice-caurier), opening September 13. 
 

@@ -1,6 +1,8 @@
----
-title: "Relentlessly sinister: Rigoletto at Wolf Trap Opera"
----
++++
+categories = "Review"
+slug = /relentlessly-sinister-rigoletto-at-wolf-trap-opera/
+title = "Relentlessly sinister: Rigoletto at Wolf Trap Opera"
++++
 
 There's a common refrain heard from men in the public eye who hope to boost their credentials as feminists or as allies to women: "I'm the father of a daughter," as if the birth of a baby girl suddenly causes the scales to fall from his eyes and he finally sees how the scales are stacked against her. And it's BS. First of all, if you need to have a daughter to finally understand that women are people, then you have a pretty serious empathy problem; but also, so many men who spout these words don't seem to back it up with any meaningful action.
 

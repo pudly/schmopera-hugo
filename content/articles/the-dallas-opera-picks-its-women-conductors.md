@@ -1,6 +1,8 @@
----
-title: "The Dallas Opera picks its Women Conductors"
----
++++
+categories = "News"
+slug = /the-dallas-opera-picks-its-women-conductors/
+title = "The Dallas Opera picks its Women Conductors"
++++
 
 The Dallas Opera has created a new residential program, the [Institute for Women Conductors](http://dallasopera.org/learn/womens-conducting-institute/). "This program has already generated tremendous international interest, and over extremely 100 talented women applied -- from the U.S. and 26 other countries. The field was extremely competitive, and the acceptance on the program is recognition of the significant accomplishments in the candidate’s career to date."
 

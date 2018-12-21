@@ -1,6 +1,8 @@
----
-title: "Lost in translation?"
----
++++
+categories = "Op-ed"
+slug = /lost-in-translation/
+title = "Lost in translation?"
++++
 
 A translated libretto is one of the more exasperating things in the life of an opera singer. Not always, of course; English to German and vice versa work pretty well, similarly with Italian to French. For reasons that sound trite, singing an English *Il barbiere di Siviglia* or a German *Carmen* can feel uncomfortable and weird. The vowels are all wrong and the rhythms make less sense; worst of all, you can *really hear* when what you're saying sound really lame.
 

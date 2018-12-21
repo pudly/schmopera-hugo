@@ -1,6 +1,8 @@
----
-title: "Aptly named: The Living Spectacle"
----
++++
+categories = "News"
+slug = /aptly-named-the-living-spectacle/
+title = "Aptly named: The Living Spectacle"
++++
 
 Tonight the [Canadian Art Song Project](/scene/companies/canadian-art-song-project/) presents *The Living Spectacle*, a recital of music, new and old, Canadian and otherwise. On paper, it may not look much different from other recitals; I had a chance to see the dress rehearsal of tonight's concert, and not only was it extraordinary in presentation, but it got me genuinely excited about Canadians who make music.
 

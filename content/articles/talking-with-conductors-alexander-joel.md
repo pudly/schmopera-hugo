@@ -1,6 +1,8 @@
----
-title: "Talking with conductors: Alexander Joel"
----
++++
+categories = "Interview"
+slug = /talking-with-conductors-alexander-joel/
+title = "Talking with conductors: Alexander Joel"
++++
 
 "I think it's brilliant," says maestro [Alexander Joel](/scene/people/alexander-joel/) of David McVicar's production of *Rigoletto*, currently [onstage at the Royal Opera House](http://www.roh.org.uk/productions/rigoletto-by-david-mcvicar). "Probably the best production of *Rigoletto* I've ever conducted."
 

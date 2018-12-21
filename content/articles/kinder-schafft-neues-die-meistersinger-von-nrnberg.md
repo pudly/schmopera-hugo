@@ -1,6 +1,8 @@
----
-title: "&quot;Kinder schafft neues&quot;: Die Meistersinger von Nürnberg"
----
++++
+categories = "Review"
+slug = /kinder-schafft-neues-die-meistersinger-von-nrnberg/
+title = "&quot;Kinder schafft neues&quot;: Die Meistersinger von Nürnberg"
++++
 
 Kasper Holten makes his final mark as Director of Opera at The Royal Opera with his new production of [*Die Meistersinger von Nürnberg*](http://www.roh.org.uk/productions/die-meistersinger-von-nurnberg-by-kasper-holten). Wagner's comedy premiered three years after *Tristan und Isolde*, in the middle of the respite he took from writing his *Ring Cycle*. *Die Meistersinger* is on the list of operas for which Wagner is composer and librettist; it's a habit that's particularly interesting, since it creates both a rare level of cohesion between music and text, and an extremely clear, intimate look at how Wagner viewed the world and his art.
 

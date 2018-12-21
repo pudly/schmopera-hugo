@@ -1,6 +1,8 @@
----
-title: "Vote for a note: crowdsourced songwriting?"
----
++++
+categories = "Editorial"
+slug = /vote-for-a-note-crowdsourced-songwriting/
+title = "Vote for a note: crowdsourced songwriting?"
++++
 
 What do you get when you ask a crowd what a song should sound like?
 

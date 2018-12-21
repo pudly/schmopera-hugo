@@ -1,6 +1,8 @@
----
-title: "&quot;I didn&#039;t get in&quot;: a short story about clarity"
----
++++
+categories = "Op-ed"
+slug = /i-didnt-get-in-a-short-story-about-clarity/
+title = "&quot;I didn&#039;t get in&quot;: a short story about clarity"
++++
 
 I didn't get in.
 

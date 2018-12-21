@@ -1,6 +1,8 @@
----
-title: "Everything I know about the piano, I learned from singers"
----
++++
+categories = "Op-ed"
+slug = /everything-i-know-about-the-piano-i-learned-from-singers/
+title = "Everything I know about the piano, I learned from singers"
++++
 
 Well, maybe not _everything_, but my title isn't tongue-in-cheek. I'm aware of the stereotypical opinions about singers that are held by instrumentalists within the classical music scenes; I won't say they're not there for a reason, but there's opportunity for learning between these seemingly polar points of origin in music. Now, singers and pianists work closely together within the opera industry; but when you really think about it, it's an odd pairing. On the one hand, the voice and the piano couldn't be more different, simply in terms of _how _they create sound. A singer takes a breath and sustains a (hopefully) lovely sound with control of air speed and resonance and other complicated things. A pianist pours their whole being into the attack of a note, into the initial moment of making sound; we have no say over what happens to the sound after we've hit the key. The quick nature of the piano keys are entirely different from the drawing of a bow on a string or sending air through a resonating chamber, and it results in a more immediate production of sound. Any pianist who has played in an orchestra knows that they'll be perpetually "early" in comparison with their string- and wind-playing colleagues.
 

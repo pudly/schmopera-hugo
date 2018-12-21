@@ -1,6 +1,8 @@
----
-title: "8 contemporary roles to covet"
----
++++
+categories = "Editorial"
+slug = /8-contemporary-roles-to-covet/
+title = "8 contemporary roles to covet"
++++
 
 ## Ariel in *The Tempest*
 

@@ -1,6 +1,8 @@
----
-title: "Tales from the score: Deh vieni, non tardar"
----
++++
+categories = "How-to"
+slug = /tales-from-the-score-deh-vieni-non-tardar/
+title = "Tales from the score: Deh vieni, non tardar"
++++
 
 [Susanna's aria](/aria-guides-deh-vieni-non-tardar/) from the final act of *Le nozze di Figaro* is constantly fascinating. At its simplest, it's a seductive call into the dark for her lover. Yet, Susanna has planned this tryst with the Countess; they are disguised as each other, hoping to trap the Count in his dirty ways. To complicate things further, Figaro has heard about Susanna's plans, and Susanna has heard that Figaro has heard. This aria is a layers-thick trick, which Susanna sings to Figaro, making him think she's singing to the Count (and enjoying it). 
 

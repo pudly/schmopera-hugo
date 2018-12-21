@@ -1,6 +1,8 @@
----
-title: "In review: Julie"
----
++++
+categories = "Review"
+slug = /in-review-julie/
+title = "In review: Julie"
++++
 
 Last night [Soundstreams](/scene/companies/soundstreams/) and Canadian Stage opened their collaborative production of *Julie*, the fourth opera by Belgian composer Philippe Boesmans. There was a good amount of hype leading up to this opening, and for good reason. *Julie* is adapted by librettists Luc Bondy and Marie-Louise Bischofberger from the controversial play by August Strindberg, [*Miss Julie*](https://en.wikipedia.org/wiki/Miss_Julie); its three-singer cast is a cross-section of the rising stars of our current generation. Mezzo-soprano [Lucia Cervoni](/scene/people/lucia-cervoni/) sings the title role, opposite baritone [Clarence Frazer](/scene/people/clarence-frazer/) as Jean, her father's valet (and  maybe more). Soprano [Sharleen Joynt](/scene/people/sharleen-joynt/) is Christine,  fiancée to Jean as well as Julie's cook. 
 

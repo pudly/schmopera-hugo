@@ -1,6 +1,8 @@
----
-title: "A game of &quot;would you rather&quot; or, please prove me wrong"
----
++++
+categories = "Op-ed"
+slug = /a-game-of-would-you-rather-or-please-prove-me-wrong/
+title = "A game of &quot;would you rather&quot; or, please prove me wrong"
++++
 
 Readers, I'm going to pose to you several questions, and I'm going to try and do so carefully.
 

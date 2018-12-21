@@ -1,6 +1,8 @@
----
-title: "Candide: the Best of All Possible Productions?"
----
++++
+categories = "Review"
+slug = /candide-the-best-of-all-possible-productions/
+title = "Candide: the Best of All Possible Productions?"
++++
 
 Since its debut/flop on Broadway in 1956, Leonard Bernstein's *Candide* has been revisited, revised, tinkered with, and cut and pasted. Different versions have appeared on Broadway, off-Broadway, and in quite a few opera houses. The current Glimmerglass production at LA Opera features a new book by John Caird and a number of the numbers have either been excised or shuffled like a deck of cards. 
 

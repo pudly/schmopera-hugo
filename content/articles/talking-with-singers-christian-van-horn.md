@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Christian Van Horn"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-christian-van-horn/
+title = "Talking with singers: Christian Van Horn"
++++
 
 "I kind of ran from it for a long time," says American bass-baritone [Christian Van Horn](/scene/people/christian-van-horn/) of singing his first Escamillo, in the [Canadian Opera Company's upcoming production of *Carmen*](http://www.coc.ca/PerformancesAndTickets/1516Season/Carmen.aspx). He's no stranger to the opera; he has sung eight productions of Bizet's infamous work as Zuniga, and he kept his ears open during rehearsals. "I got to watch a lot of bass-baritones sing Escamillo, some had good success, some did not. I just had this great first-row view of how to do it."
 

@@ -1,6 +1,8 @@
----
-title: "Arianna Zukerman: &quot;You&#039;ve got to live your truth.&quot;"
----
++++
+categories = "Interview"
+slug = /arianna-zukerman-youve-got-to-live-your-truth/
+title = "Arianna Zukerman: &quot;You&#039;ve got to live your truth.&quot;"
++++
 
 ## Can you tell us about your musical background, growing up in such a musical family?
 

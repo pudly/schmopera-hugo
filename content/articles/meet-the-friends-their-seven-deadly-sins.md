@@ -1,6 +1,8 @@
----
-title: "Meet the Friends &amp; their Seven Deadly Sins"
----
++++
+categories = "Interview"
+slug = /meet-the-friends-their-seven-deadly-sins/
+title = "Meet the Friends &amp; their Seven Deadly Sins"
++++
 
 ### 1. How did you first get into opera?
 

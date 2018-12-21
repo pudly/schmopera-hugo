@@ -1,6 +1,8 @@
----
-title: "Mysterious Barricades: &quot;A flicker of hope.&quot;"
----
++++
+categories = "News"
+slug = /mysterious-barricades-a-flicker-of-hope/
+title = "Mysterious Barricades: &quot;A flicker of hope.&quot;"
++++
 
 This Sunday, **September 10** is World Suicide Prevention Day, and for the second year in a row [Mysterious Barricades](http://www.mysteriousbarricades.org/concerts/) is presenting its extraordinary musical event, [*A Cross-Canada Concert for Suicide Awareness, Prevention and Hope*](http://www.mysteriousbarricades.org/concerts/). 
 

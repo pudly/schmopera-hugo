@@ -1,6 +1,8 @@
----
-title: "Public practicing &amp; pet peeves"
----
++++
+categories = "Humour"
+slug = /public-practicing-pet-peeves/
+title = "Public practicing &amp; pet peeves"
++++
 
 Singers, I love you all. You're brave folks, putting in literally endless hours of practice, taking *all* the criticism with a smile, getting up in front of bored-faced crowds to bare your souls. I always admire you guys, and never envy your jobs. But, we should talk about one thing that many of you do, because it a) adds to the unfair stereotype that singers are unaware of much more than their own voices, and b) is exasperatingly charming at best and objectively annoying at worst.
 

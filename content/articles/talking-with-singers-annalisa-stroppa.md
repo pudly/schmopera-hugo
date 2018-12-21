@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Annalisa Stroppa"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-annalisa-stroppa/
+title = "Talking with singers: Annalisa Stroppa"
++++
 
 ## Why do you sing?
 

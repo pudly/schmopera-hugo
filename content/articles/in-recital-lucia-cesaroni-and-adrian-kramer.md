@@ -1,6 +1,8 @@
----
-title: "In recital: Lucia Cesaroni and Adrian Kramer"
----
++++
+categories = "Editorial"
+slug = /in-recital-lucia-cesaroni-and-adrian-kramer/
+title = "In recital: Lucia Cesaroni and Adrian Kramer"
++++
 
 Coming up in Toronto next month: two Canadian singers team up in recital. Tenor [Adrian Kramer](https://twitter.com/aitkramer), soprano [Lucia Cesaroni](http://luciacesaroni.com/#) and pianist [Maika'i Nash](http://maikai.ca/biography/) present _Extensions of Us: Melody and Movement. _"Featuring singing and dancing to Verdi, Mascagni, Canzoni Napoletane, and selections from _West Side Story,_ the program promises to delight both seasoned and new concert-goers as it re-thinks the traditional recital format."
 

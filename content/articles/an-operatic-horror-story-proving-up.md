@@ -1,6 +1,8 @@
----
-title: "An operatic horror story: Proving Up"
----
++++
+categories = "Review"
+slug = /an-operatic-horror-story-proving-up/
+title = "An operatic horror story: Proving Up"
++++
 
 The Washington National Opera's American Opera Initiative Festival kicked off on Friday night with the world premiere of *Proving Up*, a one-act opera by Missy Mazzoli and librettist Royce Vavrek. Mazzoli and Vavrek came to Washington fresh off the success of *Breaking the Waves*, which premiered to acclaim at Opera Philadelphia in 2016, and the Kennedy Center's Terrace Theater was electrified with excitement for their newest work.
 

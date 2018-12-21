@@ -1,6 +1,8 @@
----
-title: "Levine&#039;s ugly exit, &amp; the disposable Met"
----
++++
+categories = "Editorial"
+slug = /levines-ugly-exit-the-disposable-met/
+title = "Levine&#039;s ugly exit, &amp; the disposable Met"
++++
 
 What a gross way to wrap up four decades at the Metropolitan Opera. As [Michael Cooper reports in the *New York Times*](https://www.nytimes.com/2018/03/12/arts/music/james-levine-metropolitan-opera.html), James Levine has been properly fired after the Met's investigation into accusations of abuse came up with evidence of, well, abuse.
 

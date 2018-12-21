@@ -1,6 +1,8 @@
----
-title: "9 ways to fend off a Canadian winter"
----
++++
+categories = "News"
+slug = /9-ways-to-fend-off-a-canadian-winter/
+title = "9 ways to fend off a Canadian winter"
++++
 
 ## *High Standards* from Talisker Players
 

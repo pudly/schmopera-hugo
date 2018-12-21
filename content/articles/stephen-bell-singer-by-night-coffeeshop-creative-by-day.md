@@ -1,6 +1,8 @@
----
-title: "Stephen Bell: singer by night, Coffeeshop Creative by day"
----
++++
+categories = "Interview"
+slug = /stephen-bell-singer-by-night-coffeeshop-creative-by-day/
+title = "Stephen Bell: singer by night, Coffeeshop Creative by day"
++++
 
 ## How has your career as a singer informed what you do with Coffeeshop Creative?
 

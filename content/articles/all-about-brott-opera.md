@@ -1,6 +1,8 @@
----
-title: "All about Brott Opera"
----
++++
+categories = "Interview"
+slug = /all-about-brott-opera/
+title = "All about Brott Opera"
++++
 
 <p class="intro">
 	Taking place July 12-23rd, 2015, <a href="http://www.brottmusic.com/brott-opera/" target="_blank">Brott Opera</a> is a brand new program designed to give singers an opportunity to get onstage. Brott Opera is the brainchild of Artistic Director <a href="http://www.brottmusic.com/2013/02/maestro-boris-brott/" target="_blank">Boris Brott</a>, celebrated conductor and founder of the <a href="http://www.nationalacademyorchestra.com/" target="_blank">National Academy Orchestra of Canada</a>, and Program Director Taras Kulish, bass-baritone and Executive Director of the <a href="http://www.ocm-mco.org/" target="_blank">McGill Chamber Orchestra</a>. "Boris and I make a great team cause we both have very different careers and yet both have a huge passion for opera. Boris's experience is from an orchestral point of view and mine is from a singer's point of view," says Kulish. "Our main goal in creating this program is to simply create an exciting opera experience for the singers as well as the audience members."

@@ -1,6 +1,8 @@
----
-title: "Michael Park: on opera &amp; disease"
----
++++
+categories = "Interview"
+slug = /michael-park-on-opera-disease/
+title = "Michael Park: on opera &amp; disease"
++++
 
 ### 1. Why were you drawn to this story for your first chamber opera?
 

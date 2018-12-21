@@ -1,6 +1,8 @@
----
-title: "Meet the folks: Collectìf"
----
++++
+categories = "Interview"
+slug = /meet-the-folks-collectf/
+title = "Meet the folks: Collectìf"
++++
 
 ## How did Collectìf begin?
 

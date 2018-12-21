@@ -1,6 +1,8 @@
----
-title: "Album review: Gino Quilico&#039;s Secrets of Christmas"
----
++++
+categories = "Review"
+slug = /album-review-gino-quilicos-secrets-of-christmas/
+title = "Album review: Gino Quilico&#039;s Secrets of Christmas"
++++
 
 Gino Quilico, Canadian baritone, Officer of the Order of Canada, and Grammy-award winning artist has released his latest album, just in time for Christmas. 
 

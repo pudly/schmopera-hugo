@@ -1,6 +1,8 @@
----
-title: "In defence of pianists"
----
++++
+categories = "Op-ed"
+slug = /in-defence-of-pianists/
+title = "In defence of pianists"
++++
 
 I'm a pianist who works with opera singers. It's awesome, and I love it, and I can't stop doing it. But in all honesty, I must address some gross habits of disrespect and neglect with which pianists often have to deal. Enough is enough.
 

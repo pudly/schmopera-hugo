@@ -1,6 +1,8 @@
----
-title: "In review: A Shropshire Lad"
----
++++
+categories = "Review"
+slug = /in-review-a-shropshire-lad/
+title = "In review: A Shropshire Lad"
++++
 
 I went to another installation of the Free Concert Series in the Richard Bradshaw Amphitheatre, to hear COC Ensemble members Iain MacNeil and Jean-Philippe Fortier-Lazure sing. The program was two sets of song by English composers: [George Butterworth](http://en.wikipedia.org/wiki/George_Butterworth)'s _Six Songs from a Shropshire Lad_ and [Ivor Gurney](http://en.wikipedia.org/wiki/Ivor_Gurney#Works)'s _Ludlow and Teme_, both with texts from the 63 poems in [Alfred Edward Housman](http://en.wikipedia.org/wiki/A._E._Housman)'s _A Shropshire Lad_. On its own, I'm not necessarily crazy for English song from the Great War, but both Iain and Jean-Philippe, as well as pianist Jennifer Szeto spoke about the poet and composers; I'm glad they did, because it was clear that all three of them connected with Housman's poems and their musical settings.
 

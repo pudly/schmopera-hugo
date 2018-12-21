@@ -1,6 +1,8 @@
----
-title: "TFCO: Opera Trek, The Next Generation"
----
++++
+categories = "Interview"
+slug = /tfco-opera-trek-the-next-generation/
+title = "TFCO: Opera Trek, The Next Generation"
++++
 
 Well, I have good news to report. The future of opera is in good hands.
 

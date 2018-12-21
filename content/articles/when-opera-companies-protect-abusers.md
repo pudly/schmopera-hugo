@@ -1,6 +1,8 @@
----
-title: "When opera companies protect abusers"
----
++++
+categories = "Op-ed"
+slug = /when-opera-companies-protect-abusers/
+title = "When opera companies protect abusers"
++++
 
 Behind the scenes at opera companies around the world, in the wake of a year that has brought some of the entertainment industry's biggest scandals to light, the volume dial on hushed conversations is turning all the way up. Since the eruption of the [latest Levine scandal](/some-uncomfortable-questions-about-the-levine-business/) two weeks ago, a distinctive shift is taking place. Whether this shift makes or breaks the opera industry will depend on how opera companies choose to acknowledge and deal with it. With concerned colleagues emboldened and supported to speak out, audiences becoming more discerning about the character of the artists they are supporting, and the industry depending more than ever upon the public for its livelihood, it is clear that the policies that have allowed known abusers to fly under the radar in the past must radically change. 
 

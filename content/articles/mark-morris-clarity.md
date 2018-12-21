@@ -1,6 +1,8 @@
----
-title: "Mark Morris: &quot;Clarity.&quot;"
----
++++
+categories = "Interview"
+slug = /mark-morris-clarity/
+title = "Mark Morris: &quot;Clarity.&quot;"
++++
 
 ### 1. Why do you think your work, and your company, have stayed so strong and so relevant over several decades?
 

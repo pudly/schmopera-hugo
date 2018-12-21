@@ -1,6 +1,8 @@
----
-title: "Grime sees debut at Wigmore Hall"
----
++++
+categories = "Interview"
+slug = /grime-sees-debut-at-wigmore-hall/
+title = "Grime sees debut at Wigmore Hall"
++++
 
 ## What prompted you to set poetry about parenthood for your new song cycle?
  

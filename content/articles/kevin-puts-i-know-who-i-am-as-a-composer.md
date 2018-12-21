@@ -1,6 +1,8 @@
----
-title: "Kevin Puts: &quot;I know who I am as a composer.&quot;"
----
++++
+categories = "Interview"
+slug = /kevin-puts-i-know-who-i-am-as-a-composer/
+title = "Kevin Puts: &quot;I know who I am as a composer.&quot;"
++++
 
 ## Do you have a technique or process that's specific to writing opera? Where do you begin?
 

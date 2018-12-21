@@ -1,6 +1,8 @@
----
-title: "Merrily The Rake&#039;s Progress rolls along"
----
++++
+categories = "Review"
+slug = /merrily-the-rakes-progress-rolls-along/
+title = "Merrily The Rake&#039;s Progress rolls along"
++++
 
 "I'll let you know when Stravinsky has a hit," chides Joe, the crass Broadway producer in Stephen Sondheim's *Merrily We Roll Along*. Joe is giving Sondheim's aspiring songwriting team the brush-off because he thinks their score is too avant-garde. Well, guess what Joe. Igor Stravinsky does have a hit. It's *The Rake's Progress* and The Mannes Opera had the good sense to produce it for two performances earlier this month.
 

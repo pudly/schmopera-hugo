@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Vlada Borovko"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-vlada-borovko/
+title = "Talking with singers: Vlada Borovko"
++++
 
 ## Why do you sing?
 

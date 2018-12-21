@@ -1,6 +1,8 @@
----
-title: "Breeches, trousers, and pants"
----
++++
+categories = "Editorial"
+slug = /breeches-trousers-and-pants/
+title = "Breeches, trousers, and pants"
++++
 
 I have to hand it to the opera composers of the 18th and 19th centuries for that whole "trouser role" thing. 
 

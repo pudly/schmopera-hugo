@@ -1,6 +1,8 @@
----
-title: "Pass the tissues: a beautiful new Bohème in Chicago"
----
++++
+categories = "Review"
+slug = /pass-the-tissues-a-beautiful-new-bohme-in-chicago/
+title = "Pass the tissues: a beautiful new Bohème in Chicago"
++++
 
 There's a special kind of energy in the air on a season's opening night at major opera houses like the Lyric Opera of Chicago.  This past Saturday, the LOC kicked off its 2018-2019 season with a beloved and indomitable classic: Puccini's [*La bohème*](https://www.lyricopera.org/concertstickets/calendar/2018-2019/la-boheme-opera-tickets).
  

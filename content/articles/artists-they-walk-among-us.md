@@ -1,6 +1,8 @@
----
-title: "Artists: they walk among us"
----
++++
+categories = "Op-ed"
+slug = /artists-they-walk-among-us/
+title = "Artists: they walk among us"
++++
 
 The other day I was walking downtown, and spotted an opera singer friend of mine across the street. She didn't see me, and the combination of a busy street and her wearing headphones meant I couldn't shout hello without looking insane.
 

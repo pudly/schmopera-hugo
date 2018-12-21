@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Jorell Williams"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-jorell-williams/
+title = "Talking with singers: Jorell Williams"
++++
 
 "If I were sitting behind the table listening to people audition, what I'm used to is the drop the needle effect. You close your eyes and you listen to what the voice is doing. You're not looking at anyone, you're not looking at a photograph, you're not looking for anything else except what the voice does."
 

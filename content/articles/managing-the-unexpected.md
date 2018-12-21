@@ -1,6 +1,8 @@
----
-title: "Managing the unexpected"
----
++++
+categories = "Op-ed"
+slug = /managing-the-unexpected/
+title = "Managing the unexpected"
++++
 
 Risk-proof your life.
 

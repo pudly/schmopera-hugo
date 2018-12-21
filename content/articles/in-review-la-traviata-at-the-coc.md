@@ -1,6 +1,8 @@
----
-title: "In review: La traviata at the COC"
----
++++
+categories = "Review"
+slug = /in-review-la-traviata-at-the-coc/
+title = "In review: La traviata at the COC"
++++
 
 Last night the [Canadian Opera Company](/scene/canadian-opera-company/) opened its new production of [*La traviata*](http://coc.ca/PerformancesAndTickets/1516Season/LaTraviata.aspx), and I was officially excited. *La traviata* is done often, but it's another thing to hear it done really well. I got my fix at the Four Seasons Centre with the first of two casts singing the 11 shows between now and November 6th.
 

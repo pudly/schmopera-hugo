@@ -1,6 +1,8 @@
----
-title: "In review: The Whisper Opera"
----
++++
+categories = "Review"
+slug = /in-review-the-whisper-opera/
+title = "In review: The Whisper Opera"
++++
 
 On Saturday I had the chance to see [David Lang](http://davidlangmusic.com/about/bio)'s _The Whisper Opera_, presented by [Soundstreams](http://www.soundstreams.ca/The-Whisper-Opera) at The Theatre Centre; with a sold-out run, I was lucky to catch this in Toronto. It was one of the coolest things I've seen in a long time, made better by the few expectations I had beforehand. The Pulitzer Prize winning composer (_the little matchgirl passion_) asks, "what if a piece were so quiet, and intimate, and so personal to the performers, that you needed to be right next to them or you would hear almost nothing?" _The Whisper Opera_ is aptly named; it's certainly a piece that achieves Lang's aim to write "pieces that try to highlight things that can only happen live." 
 

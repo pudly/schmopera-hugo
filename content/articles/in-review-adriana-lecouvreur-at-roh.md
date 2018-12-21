@@ -1,6 +1,8 @@
----
-title: "In review: Adriana Lecouvreur at ROH"
----
++++
+categories = "Review"
+slug = /in-review-adriana-lecouvreur-at-roh/
+title = "In review: Adriana Lecouvreur at ROH"
++++
 
 David McVicar's production at the Royal Opera House marked our first time hearing Cilea's *verismo* staple, *Adriana Lecouvreur*. We knew we'd be in store for sweeping, beautiful music, and a beautiful tale based on the true story of [Adrienne Lecouvreur](https://en.wikipedia.org/wiki/Adrienne_Lecouvreur), the famed French actress notably involved with [Maurice de Saxe](https://en.wikipedia.org/wiki/Maurice,_comte_de_Saxe) and whose death remains a suspicious mystery.
 

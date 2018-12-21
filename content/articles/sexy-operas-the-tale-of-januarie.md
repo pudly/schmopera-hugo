@@ -1,6 +1,8 @@
----
-title: "Sexy operas: The Tale of Januarie"
----
++++
+categories = "Review"
+slug = /sexy-operas-the-tale-of-januarie/
+title = "Sexy operas: The Tale of Januarie"
++++
 
 How's this for unexpected endings? A brand new opera based on a Chaucer tale - and the first opera written in Middle English - is one we're itching to see again.
 

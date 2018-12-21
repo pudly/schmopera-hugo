@@ -1,6 +1,8 @@
----
-title: "Is opera really for everyone?"
----
++++
+categories = "Op-ed"
+slug = /is-opera-really-for-everyone/
+title = "Is opera really for everyone?"
++++
 
 You might have read the recent [interview](http://www.courier-journal.com/story/entertainment/arts/music/2015/04/20/challenges-black-opera-singers/26096103/) in *The Courrier-Journal* with Eric Owens and Morris Robinson, who sing King Philip II and the Grand Inquisitor in Opera Philadelphia's upcoming [*Don Carlo*](https://www.operaphila.org/whats-on/on-stage-2014-2015/don-carlo/). Mike Silverman asks them about the "challenges of being a black opera singer."
 

@@ -1,6 +1,8 @@
----
-title: "#COC1516: the new Ensemble Studio"
----
++++
+categories = "Review"
+slug = /coc1516-the-new-ensemble-studio/
+title = "#COC1516: the new Ensemble Studio"
++++
 
 The [Canadian Opera Company](/scene/companies/canadian-opera-company/) Ensemble Studio have kicked off the 2015/16 [Free Concert Series](http://www.coc.ca/PerformancesAndTickets/FreeConcertSeries.aspx) in the Richard Bradshaw Amphitheatre with their annual introductory concert, *Meet the Young Artists*. Eight singers and two pianists performed in what's called the "death by aria" style, each singer showing off an aria that shows what they do best. The space is intimate and airy, and spaces like that can be intimidating for young artists;  even if there were nerves in the mix, the Ensemble Studio, with three new members, seemed a calm and professional bunch. Notable detail: the Ensemble this year has four (*four!*) tenors.
 

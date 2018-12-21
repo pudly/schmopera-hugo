@@ -1,6 +1,8 @@
----
-title: "Talking with directors: Frederic Wake-Walker"
----
++++
+categories = "Interview"
+slug = /talking-with-directors-frederic-wakewalker/
+title = "Talking with directors: Frederic Wake-Walker"
++++
 
 Director [Frederic Wake-Walker](/scene/people/frederic-wake-walker/) recently opened his new production of *Le nozze di Figaro* at [Teatro alla Scala](/scene/companies/teatro-alla-scala/), the first to take the place of the 1981 staging by the late Giorgio Strehler. "It was a pretty funny gig to follow," says Wake-Walker of taking over the legacy of someone he calls "the greatest director to have worked at La Scala." 
 

@@ -1,6 +1,8 @@
----
-title: "A warm introduction: The Mozartists at Wigmore Hall"
----
++++
+categories = "Review"
+slug = /a-warm-introduction-the-mozartists-at-wigmore-hall/
+title = "A warm introduction: The Mozartists at Wigmore Hall"
++++
 
 On the 18th of September a new musical group, The Mozartists, was launched at Wigmore Hall. The creation of [Classical Opera](/scene/companies/classical-opera/) conductor and Artistic Director [Ian Page](/ian-page-mozart-imagination/), it aims to cultivate the music of Mozart and his contemporaries, as suggested by the name. So with the blessing of the *Soul of Music* on the cupola above, The Mozartists gave a successful debut. 
 

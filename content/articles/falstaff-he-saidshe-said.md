@@ -1,6 +1,8 @@
----
-title: "Falstaff: He said/She said"
----
++++
+categories = "Review"
+slug = /falstaff-he-saidshe-said/
+title = "Falstaff: He said/She said"
++++
 
 ### On the singing
 

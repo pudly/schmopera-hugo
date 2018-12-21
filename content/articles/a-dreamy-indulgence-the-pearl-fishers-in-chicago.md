@@ -1,6 +1,8 @@
----
-title: "A dreamy indulgence: The Pearl Fishers in Chicago"
----
++++
+categories = "Review"
+slug = /a-dreamy-indulgence-the-pearl-fishers-in-chicago/
+title = "A dreamy indulgence: The Pearl Fishers in Chicago"
++++
 
 This past Sunday afternoon, with a blustery wind at my back, I joined a throng of red-cheeked opera-lovers piling into the opening matinee of the [Lyric's new-to-Chicago production](https://www.lyricopera.org/concertstickets/calendar/2017-2018/productions/lyricopera/the-pearl-fishers-opera-tickets) of Bizet's *The Pearl Fishers*. Though Bizet will always be loved best for his *Carmen*, *Pearl Fishers* is enjoying a resurgence in today's major houses, thanks in no small part to the sensational costumes and sets of this particular production, designed by renowned British couturier Dame Zandra Rhodes. The production premiered in San Diego in 2004 and has previously traveled to San Francisco, New York, Washington, and Montréal. Rhodes' vibrant costumes and sets, inspired by Indonesian textiles and architecture, border on the surreal and fill the stage with bright patterns and striking colours.
 

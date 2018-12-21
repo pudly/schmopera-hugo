@@ -1,6 +1,8 @@
----
-title: "In review: The Exterminating Angel at ROH"
----
++++
+categories = "Review"
+slug = /in-review-the-exterminating-angel-at-roh/
+title = "In review: The Exterminating Angel at ROH"
++++
 
 Around 7:15 in the evening while standing in the foyer of the Royal Opera House, we realized the presence of bells ringing all throughout the building. We are herded into our seats only to be greeted by three of London’s most infamous performers at the moment: a small flock of live sheep. It is the evening that we have been eagerly awaiting - the UK premiere of Thomas Adès and Tom Cairns’ new opera, [*The Exterminating Angel*](http://www.roh.org.uk/productions/the-exterminating-angel-by-tom-cairns).
 

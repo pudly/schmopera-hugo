@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Ashley Riches"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-ashley-riches/
+title = "Talking with singers: Ashley Riches"
++++
 
 ## Why do you sing professionally?
 

@@ -1,6 +1,8 @@
----
-title: "How Much Money Makes an Artist?"
----
++++
+categories = "Op-ed"
+slug = /how-much-money-makes-an-artist/
+title = "How Much Money Makes an Artist?"
++++
 
 <p>
 	In the last few weeks, a recurring topic has come up among my artist friends. The crux of the issue can actually be boiled down to one question: are you still an artist if you can't survive on your artist income?

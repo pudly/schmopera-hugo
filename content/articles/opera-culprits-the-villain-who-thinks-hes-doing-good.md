@@ -1,6 +1,8 @@
----
-title: "Opera culprits: the villain who thinks he&#039;s doing good"
----
++++
+categories = "Editorial"
+slug = /opera-culprits-the-villain-who-thinks-hes-doing-good/
+title = "Opera culprits: the villain who thinks he&#039;s doing good"
++++
 
 ### 1. Reverend Olin Blitch (*Susannah*)
 

@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Boston Camerata at the AGO"
----
++++
+categories = "News"
+slug = /dont-miss-boston-camerata-at-the-ago/
+title = "Don&#039;t miss: Boston Camerata at the AGO"
++++
 
 The Art Gallery of Ontario is presenting a collection of works entitled [*Small Wonders: Gothic Boxwood Miniatures*](https://www.ago.net/small-wonders-gothic-boxwood-miniatures). The collection opened on November 5, 2016 and runs through until January 22nd. 
 

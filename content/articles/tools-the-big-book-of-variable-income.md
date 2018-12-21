@@ -1,6 +1,8 @@
----
-title: "Tools: The Big Book of Variable Income"
----
++++
+categories = "News"
+slug = /tools-the-big-book-of-variable-income/
+title = "Tools: The Big Book of Variable Income"
++++
 
 How's it going, freelancers? All going according to plan? Said plan made well in advance? In case the answer is "no", or even a hesitant "yes", [Rags to Reasonable](http://www.ragstoreasonable.com/) has a new tool to help: [The Big Book of Variable Income](http://us10.campaign-archive1.com/?u=b87953eb96200303db4281a42&id=2e4e6765af&e=%5BUNIQID%5D).
 

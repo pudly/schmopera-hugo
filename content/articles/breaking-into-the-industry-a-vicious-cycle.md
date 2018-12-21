@@ -1,6 +1,8 @@
----
-title: "Breaking into the industry: a vicious cycle?"
----
++++
+categories = "Op-ed"
+slug = /breaking-into-the-industry-a-vicious-cycle/
+title = "Breaking into the industry: a vicious cycle?"
++++
 
 You know what's crazy? I mean, even crazier than choosing this career [re:singing]?
 

@@ -1,6 +1,8 @@
----
-title: "The anxious singer: 10 tips to help with anxiety"
----
++++
+categories = "Op-ed"
+slug = /the-anxious-singer-10-tips-to-help-with-anxiety/
+title = "The anxious singer: 10 tips to help with anxiety"
++++
 
 Hello! My name is Camille and I have Generalized Anxiety Disorder.
 

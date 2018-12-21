@@ -1,6 +1,8 @@
----
-title: "Talking with conductors: Carlo Rizzi"
----
++++
+categories = "Interview"
+slug = /talking-with-conductors-carlo-rizzi/
+title = "Talking with conductors: Carlo Rizzi"
++++
 
 ### What does it feel like to conduct an orchestra, when everything is going right?
 

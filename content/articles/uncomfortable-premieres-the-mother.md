@@ -1,6 +1,8 @@
----
-title: "Uncomfortable premieres: The Mother"
----
++++
+categories = "Review"
+slug = /uncomfortable-premieres-the-mother/
+title = "Uncomfortable premieres: The Mother"
++++
 
 This week saw the world premiere of *The Mother*, an opera commissioned by [Mahogany Opera Group](/scene/people/mahogany-opera-group/) with music by Laurence Osborn and text by Theo Merz. Set in a small town in 1920s Poland, The Mother wastes away the days knitting, drinking, and taking morphine while providing for her son, Leon, who dreams of becoming a radical philosopher. After he gives a lecture that sparks riot in his local theatre, Leon must pay for damages he caused, and relies upon his mother to do so. Later in the opera, Leon becomes a pimp - he is joined by a high class escort and two noblemen who introduce Leon and his mother to cocaine. His mother dies, and all that's left in the opera is an epilogue in the form of a dream sequence.
 

@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Eleazar Rodríguez"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-eleazar-rodrguez/
+title = "Talking with singers: Eleazar Rodríguez"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

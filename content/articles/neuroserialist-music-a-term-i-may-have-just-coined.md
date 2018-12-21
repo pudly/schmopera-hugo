@@ -1,6 +1,8 @@
----
-title: "Neuroserialist music: a term I may have just coined"
----
++++
+categories = "Editorial"
+slug = /neuroserialist-music-a-term-i-may-have-just-coined/
+title = "Neuroserialist music: a term I may have just coined"
++++
 
 Professor Eduardo Miranda at the University of Plymouth is conducting a really neat [experiment](http://www.bbc.co.uk/news/technology-26089075). It involves having a subject wear a cap that measures brain waves, and those measurements are sent to a computer. The computer program then assigns various types of brainwave activity to a set musical phrase. In the room is a cellist who plays the small phrases as they appear, all based on the subject's thoughts.
 

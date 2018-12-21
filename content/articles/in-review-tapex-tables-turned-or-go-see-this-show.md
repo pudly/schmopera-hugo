@@ -1,6 +1,8 @@
----
-title: "In review: Tap:Ex Tables Turned, or Go See This Show"
----
++++
+categories = "Review"
+slug = /in-review-tapex-tables-turned-or-go-see-this-show/
+title = "In review: Tap:Ex Tables Turned, or Go See This Show"
++++
 
 Well, [Tapestry Opera](https://tapestryopera.com/) did it again. I go and see one of their shows, I come away wanting to tell everyone how they should _run_ to the Distillery District to see it, and I'm stuck to find the words to explain why. Last night was the first of two performances of Tapestry's 2nd annual _Tap:Ex _(Tapestry Explorations/Experimentations), this time the program is _Tables Turned_, featuring the music of Montréal-based composer and turn table artist [Nicole Lizée](http://www.nicolelizee.com/), with percussionist [Ben Reimer](https://twitter.com/bnreimer) and the spectacular soprano [Carla Huhtanen](http://www.carlahuhtanen.com/). Lizée's music was in two parts, the first nodding heavily towards iconic films and filmmakers, like Alfred Hitchcock's _The Birds_ and Stanley Kubrick's _The Shining_. The second half was centred on Maria Callas, and the roles of icons in the lives of aspiring artists. 
 

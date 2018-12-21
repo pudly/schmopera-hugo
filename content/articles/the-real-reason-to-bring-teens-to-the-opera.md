@@ -1,6 +1,8 @@
----
-title: "The real reason to bring teens to the opera"
----
++++
+categories = "Op-ed"
+slug = /the-real-reason-to-bring-teens-to-the-opera/
+title = "The real reason to bring teens to the opera"
++++
 
 An "opera dad" over at *The Economist* recently took is teenaged daughter to see the cinema broadcast of David McVicar's production of *Rigoletto* for Covent Garden:
 

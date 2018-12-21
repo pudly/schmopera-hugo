@@ -1,6 +1,8 @@
----
-title: "In review: Ash Roses"
----
++++
+categories = "Review"
+slug = /in-review-ash-roses/
+title = "In review: Ash Roses"
++++
 
 _Ash Roses_ is the first CD released by the [Canadian Art Song Project](http://www.canadianartsongproject.ca/) (CASP), and it features the music of composer [Derek Holman](http://www.musiccentre.ca/node/37210/biography). I'm not personally familiar with Holman's work, but I caught some at the CASP recital in the [Richard Bradshaw Amphitheatre](http://www.coc.ca/performancesandtickets/freeconcertseries.aspx) a few weeks ago, and I distinctly remember liking it. The album features Canadian singers [Mireille Asselin](http://www.mireilleasselin.com/) and [Lawrence Wiliford](http://www.lawrencewiliford.com/), co-founder of the Canadian Art Song Project (with Steven Philcox), with pianist [Liz Upchurch](http://www.standrewsartscouncil.nb.ca/faculty/lizupchurch.htm) and harpist Sanya Eng.
 

@@ -1,6 +1,8 @@
----
-title: "Ghost stories &amp; true stories: The Lighthouse"
----
++++
+categories = "Interview"
+slug = /ghost-stories-true-stories-the-lighthouse/
+title = "Ghost stories &amp; true stories: The Lighthouse"
++++
 
 ## What makes *The Lighthouse* the most challenging work yet for Shadwell Opera?
  

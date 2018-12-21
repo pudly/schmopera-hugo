@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Samantha Hankey"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-samantha-hankey/
+title = "Talking with singers: Samantha Hankey"
++++
 
 ## Why do you sing professionally?
 

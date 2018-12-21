@@ -1,6 +1,8 @@
----
-title: "In review: Street Scene"
----
++++
+categories = "Review"
+slug = /in-review-street-scene/
+title = "In review: Street Scene"
++++
 
 <p>
 	On Sunday afternoon I went to see<a href="http://www.operainconcert.com/" target="_blank"> VOICEBOX: Opera In Concert</a>'s production of <a href="http://www.operainconcert.com/Street.html" target="_blank"><em>Street Scene</em> </a>at the St. Lawrence Centre for the Arts. Kurt Weill's "American Opera", with text by Elmer Rice and Langston Hughes, is a fantastic piece, and I agreed with Artistic Director Guillermo Silva-Marin when he said that the show doesn't get done enough. I've had the personal fortune to work on two productions of <em>Street</em> <em>Scene</em>;<em> </em>and it's a beautifully written story about people we all understand, and about real life, which doesn't adhere to happy endings or perfect timing. <em>Street Scene</em> is one of those great ensemble pieces, with a large cast, each one vital in creating Weill's world, where the characters are equal parts unique people, and representative of different facets of human nature. The big cast also calls for lots of different kinds of singing (and I think it's a great show to put up at schools and summer programs), and it was a good choice for Opera In Concert, which does a great job of putting Canada's talent onstage.

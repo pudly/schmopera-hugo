@@ -1,6 +1,8 @@
----
-title: "Anticipation: CMIM Aria Semifinals, part I"
----
++++
+categories = "Editorial"
+slug = /anticipation-cmim-aria-semifinals-part-i/
+title = "Anticipation: CMIM Aria Semifinals, part I"
++++
 
 The first six semifinalists for the 2018 Concours musical international de Montréal just finished singing on the stage of the Maison symphonique, backed by the Orchestre symphonique de Montréal under Graeme Jenkins.
 

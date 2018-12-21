@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: A Northern Lights Dream"
----
++++
+categories = "Interview"
+slug = /dont-miss-a-northern-lights-dream/
+title = "Don&#039;t miss: A Northern Lights Dream"
++++
 
 ## What can you tell us about *A Northern Lights Dream*?
 

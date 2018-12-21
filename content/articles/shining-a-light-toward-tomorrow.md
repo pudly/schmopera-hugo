@@ -1,6 +1,8 @@
----
-title: "Shining a light: Toward Tomorrow"
----
++++
+categories = "Review"
+slug = /shining-a-light-toward-tomorrow/
+title = "Shining a light: Toward Tomorrow"
++++
 
 [*Toward Tomorrow*](/i-wrote-toward-tomorrow-to-bring-attention-to-this-crisis/) marks the 6th year that [Opera Mariposa](/scene/people/opera-mariposa/) has been putting on this series of fundraising recitals. The events are designed to raise funds and awareness for ME:FM, that is Myalgic Encephalomyelitis (ME) and Fibromyalgia (FM), one of which (ME) Mariposa founder Jacqueline Ko lives with. 
 

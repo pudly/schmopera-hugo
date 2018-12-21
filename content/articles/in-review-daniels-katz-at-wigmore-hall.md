@@ -1,6 +1,8 @@
----
-title: "In review: Daniels &amp; Katz at Wigmore Hall"
----
++++
+categories = "Review"
+slug = /in-review-daniels-katz-at-wigmore-hall/
+title = "In review: Daniels &amp; Katz at Wigmore Hall"
++++
 
 On Monday night at Wigmore Hall, we were reminded how lucky we are to live in a time when countertenors sing not only early music, but Beethoven and folksongs as well. As a powerful duo, [David Daniels](/scene/people/david-daniels/) and Martin Katz showed us different styles of musicality and an expressiveness that seems to transcend style itself.
 

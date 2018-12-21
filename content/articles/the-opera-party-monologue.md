@@ -1,6 +1,8 @@
----
-title: "The Opera Party Monologue"
----
++++
+categories = "Humour"
+slug = /the-opera-party-monologue/
+title = "The Opera Party Monologue"
++++
 
 Man, there must be three days' worth of bus transfers in here. There, chuck them in the recycling before coat check sees you. Yes, thank you, Coat Check Man, for taking my raggedy old coat and not judging. Ok, I need a mirror. Oh god, my hair looks stupid. No, poking at it isn't helping. Shake it out, maybe? Yeah, that's better. Nothing in teeth, nothing in nose. So far, so good.
 

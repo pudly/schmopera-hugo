@@ -1,6 +1,8 @@
----
-title: "Opera Technology: Hither and Yon"
----
++++
+categories = "Review"
+slug = /opera-technology-hither-and-yon/
+title = "Opera Technology: Hither and Yon"
++++
 
 Sometimes one's attention is captured in seemingly random ways-hither and yon, as it were. A few weeks ago I read about a Maria Callas illusion, followed by the announcement of a *La traviata* boasting 3D sets.  Most recently a recommendation for a DVD of a *Cav/Pag* from Salzburg, evoking black & white and Technicolor movies, appeared in my email. In no time I was thinking about the role of technology in opera.
 

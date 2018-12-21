@@ -1,6 +1,8 @@
----
-title: "Entire MFA class drops out of USC"
----
++++
+categories = "News"
+slug = /entire-mfa-class-drops-out-of-usc/
+title = "Entire MFA class drops out of USC"
++++
 
 I came across [this pretty engrossing story](http://www.artandeducation.net/school_watch/entire-usc-mfa-1st-year-class-is-dropping-out/) yesterday. An entire class of Masters of Fine Arts students has withdrawn from their degrees, after ongoing administrative struggles, including misinformation and changes to the terms of their program.
 

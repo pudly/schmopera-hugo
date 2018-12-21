@@ -1,6 +1,8 @@
----
-title: "Tarrare the Freak: &quot;I just want to be full.&quot;"
----
++++
+categories = "Review"
+slug = /tarrare-the-freak-i-just-want-to-be-full/
+title = "Tarrare the Freak: &quot;I just want to be full.&quot;"
++++
 
 It seems an obvious thing in hindsight, but grown-ups really love puppets. Or so is the fairly-drawn conclusion, based on the laughs, gasps, and audible emotional investment in the audience as they took in Wattle & Daub's production of [*The Depraved Appetite of Tarrare the Freak*](http://www.wattleanddaub.co.uk/tarrare.html). 
 

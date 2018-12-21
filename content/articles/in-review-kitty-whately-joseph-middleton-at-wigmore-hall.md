@@ -1,6 +1,8 @@
----
-title: "In review: Kitty Whately &amp; Joseph Middleton at Wigmore Hall"
----
++++
+categories = "Review"
+slug = /in-review-kitty-whately-joseph-middleton-at-wigmore-hall/
+title = "In review: Kitty Whately &amp; Joseph Middleton at Wigmore Hall"
++++
 
 The pressure must have been high for [Kitty Whately](/scene/people/kitty-whately/) at Wigmore Hall on Monday afternoon - not only was she stepping in at the last possible minute for a recital meant to be given by [Sarah Connolly](/scene/people/sarah-connolly/), but this recital was live broadcast on BBC Radio 3. What's more is that the repertoire is some of Britain's favorite music: from Stanford to Warlock to Vaughan Williams, it was the early 20th century's greatest hits from England, and much of the more experienced recital-goers in the audience probably knew parts of this program from memory.
 

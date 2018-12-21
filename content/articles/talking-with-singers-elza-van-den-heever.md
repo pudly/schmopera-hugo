@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Elza van den Heever"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-elza-van-den-heever/
+title = "Talking with singers: Elza van den Heever"
++++
 
 ## What kind of woman is Norma? What qualities do you think you and her share?
 

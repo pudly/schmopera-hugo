@@ -1,6 +1,8 @@
----
-title: "Equal parts stressful and reverent: #AtGBound"
----
++++
+categories = "Review"
+slug = /equal-parts-stressful-and-reverent-atgbound/
+title = "Equal parts stressful and reverent: #AtGBound"
++++
 
 Since its debut, [Against the Grain Theatre](/scene/companies-against-the-grain-theatre/) has been turning opera on its ear, and turning heads. Their award-winning, innovative programming takes the tried-and-true classics (*Così fan tutte*, *Messiah*, *La bohème*) and brought them to life with a new, modern perspective. 
 

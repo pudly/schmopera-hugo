@@ -1,6 +1,8 @@
----
-title: "Bronx Opera: 50 years &amp; counting"
----
++++
+categories = "Interview"
+slug = /bronx-opera-50-years-counting/
+title = "Bronx Opera: 50 years &amp; counting"
++++
 
 ## Why has Bronx Opera gone with a *Falstaff*-themed line-up for 2017, the company's 50th anniversary season?
  

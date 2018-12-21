@@ -1,6 +1,8 @@
----
-title: "Searching for superlatives: LOC&#039;s suberb Rigoletto"
----
++++
+categories = "Review"
+slug = /searching-for-superlatives-locs-suberb-rigoletto/
+title = "Searching for superlatives: LOC&#039;s suberb Rigoletto"
++++
 
 Last month, The Lyric Opera of Chicago kicked off its 2017/18 season with an auspicious Gluck's [*Orphée et Eurydice*](/orphee/). An unforgettable new production—marking LOC's first collaboration with Chicago’s famed Joffrey Ballet, it was recently recorded by PBS to be broadcast as part of their Great Performances series. 
 

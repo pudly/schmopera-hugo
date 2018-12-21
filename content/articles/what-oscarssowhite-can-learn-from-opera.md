@@ -1,6 +1,8 @@
----
-title: "What #OscarsSoWhite can learn from opera"
----
++++
+categories = "Op-ed"
+slug = /what-oscarssowhite-can-learn-from-opera/
+title = "What #OscarsSoWhite can learn from opera"
++++
 
 In the wake of this year's Academy Awards, the conversation about race is really, really loud. There's the ubiquitous hashtag, [#OscarsSoWhite](https://twitter.com/search?q=%23OscarsSoWhite&src=typd), giving everyone with a Twitter account the opportunity to point out the iniquity of Oscar winners who aren't white. There was [host Chris Rock](http://www.newyorker.com/culture/culture-desk/chris-rocks-oscars), who punctuated the show with jokes about how it should be called the "White People's Choice Awards", and a pointed "We're black!" after a commercial break. There was also the [mysterious use of Wagner's music](http://www.newyorker.com/culture/cultural-comment/a-closer-look-at-wagner-and-oscarssowhite) to wrap up acceptance speeches, which for many of our readers evokes an awesomely thrilling scene in the third act of *Die Walküre*, but also, understandably, incites thoughts of anti-Semitism and general white-superiority.
 

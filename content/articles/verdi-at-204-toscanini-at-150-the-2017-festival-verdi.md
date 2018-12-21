@@ -1,6 +1,8 @@
----
-title: "Verdi at 204, Toscanini at 150: the 2017 Festival Verdi"
----
++++
+categories = "Interview"
+slug = /verdi-at-204-toscanini-at-150-the-2017-festival-verdi/
+title = "Verdi at 204, Toscanini at 150: the 2017 Festival Verdi"
++++
 
 ## How have you chosen this year's line-up for the Festival Verdi?
 

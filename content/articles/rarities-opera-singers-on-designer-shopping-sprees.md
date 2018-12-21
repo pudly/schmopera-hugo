@@ -1,6 +1,8 @@
----
-title: "Rarities: opera singers on designer shopping sprees"
----
++++
+categories = "Editorial"
+slug = /rarities-opera-singers-on-designer-shopping-sprees/
+title = "Rarities: opera singers on designer shopping sprees"
++++
 
 Did anyone catch Kathryn Shattuck's article in *The New York Times*, ["Anna Netrebko Shops the Way She Sings: Exuberantly"](http://www.nytimes.com/2016/11/20/fashion/anna-netrebko-manon-lescaut-opera-shopping.html?_r=0)?
 

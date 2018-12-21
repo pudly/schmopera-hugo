@@ -1,6 +1,8 @@
----
-title: "The Opera Olympics: it&#039;s time"
----
++++
+categories = "Humour"
+slug = /the-opera-olympics-its-time/
+title = "The Opera Olympics: it&#039;s time"
++++
 
 Opera is where you'll find the Olympic athletes of singers. The training is constant and rigorous, and they do things with their bodies that most other people can't.
 

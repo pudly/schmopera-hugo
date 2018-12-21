@@ -1,6 +1,8 @@
----
-title: "New works: The Imaginings"
----
++++
+categories = "Interview"
+slug = /new-works-the-imaginings/
+title = "New works: The Imaginings"
++++
 
 ## Where did the idea for the story of *The Imaginings* come from?
 

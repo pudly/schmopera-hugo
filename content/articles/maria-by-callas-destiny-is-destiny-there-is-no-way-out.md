@@ -1,6 +1,8 @@
----
-title: "Maria by Callas: &quot;Destiny is destiny. There is no way out.&quot;"
----
++++
+categories = "Review"
+slug = /maria-by-callas-destiny-is-destiny-there-is-no-way-out/
+title = "Maria by Callas: &quot;Destiny is destiny. There is no way out.&quot;"
++++
 
 In the 21st century, opera's ambassadors - singers, Artistic Directors, rabid fans - are obsessed with looking non-elitist. We make fun adaptations out of classic pieces, we bring opera to bars and busking corners, and we tell our friends that it's totally cool to wear jeans to a show.
 

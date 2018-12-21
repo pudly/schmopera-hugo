@@ -1,6 +1,8 @@
----
-title: "Talking with composers: Aaron Gervais"
----
++++
+categories = "Interview"
+slug = /talking-with-composers-aaron-gervais/
+title = "Talking with composers: Aaron Gervais"
++++
 
 ## How would you describe your musical aesthetic? How have you heard it described by others?
 

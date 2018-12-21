@@ -1,6 +1,8 @@
----
-title: "When Don Giovanni is the &quot;Don&quot;"
----
++++
+categories = "Review"
+slug = /when-don-giovanni-is-the-don/
+title = "When Don Giovanni is the &quot;Don&quot;"
++++
 
 About two miles east of LA Opera's home in downtown Los Angeles, you'd expect to find a lot of warehouses and a lot of graffiti. But a production of Mozart's [*Don Giovanni*](https://www.pacificoperaproject.com/dongiovanni)? Who knew? Well, evidently a lot of people are in-the-know, as the performances of the Pacific Opera Project (POP) are often sold-out, no matter where the company finds a space.
 

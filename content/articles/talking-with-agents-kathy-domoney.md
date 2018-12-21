@@ -1,6 +1,8 @@
----
-title: "Talking with agents: Kathy Domoney"
----
++++
+categories = "Interview"
+slug = /talking-with-agents-kathy-domoney/
+title = "Talking with agents: Kathy Domoney"
++++
 
 ### What do you think are some misconceptions about what an agent does, and what they have the power to do?
 

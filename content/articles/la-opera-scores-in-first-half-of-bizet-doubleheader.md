@@ -1,6 +1,8 @@
----
-title: "LA Opera scores in first half of Bizet double-header"
----
++++
+categories = "Review"
+slug = /la-opera-scores-in-first-half-of-bizet-doubleheader/
+title = "LA Opera scores in first half of Bizet double-header"
++++
 
 [LA Opera](/scene/companies/los-angeles-opera/), now in its fourth decade (bravi!), begins its 2017-18 season with [*Carmen*](https://www.laopera.org/season/1718-Season/Carmen/), also known as "Bizet's Greatest Hits." Georges Bizet, alas, died too young to see *Carmen* become one of the most beloved operas of all time. He also died long before practically every one of his melodies was co-opted by the film and advertising industries, making the music instantly recognizable and popular for completely different reasons.
 

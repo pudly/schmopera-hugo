@@ -1,6 +1,8 @@
----
-title: "Music Matters at Mini Mozarts Summer Music Camp"
----
++++
+categories = "Interview"
+slug = /music-matters-at-mini-mozarts-summer-music-camp/
+title = "Music Matters at Mini Mozarts Summer Music Camp"
++++
 
 ## 1. What drove you to start this summer camp in Kingston, Jamaica?
 

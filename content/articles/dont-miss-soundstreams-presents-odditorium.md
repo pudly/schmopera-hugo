@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Soundstreams presents Odditorium"
----
++++
+categories = "News"
+slug = /dont-miss-soundstreams-presents-odditorium/
+title = "Don&#039;t miss: Soundstreams presents Odditorium"
++++
 
 This week in Toronto, you can catch a performance of "one of the most radical and inventive Canadian works created in the past half-century", at Soundstreams' latest innovative concert, *Odditorium*, happening **March 2-5th** at Crow's Theatre, 345 Carlaw Ave.
 

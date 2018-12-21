@@ -1,6 +1,8 @@
----
-title: "In review: Don Giovanni at ENO"
----
++++
+categories = "Review"
+slug = /in-review-don-giovanni-at-eno/
+title = "In review: Don Giovanni at ENO"
++++
 
 Mozart's *Don Giovanni* is an opera that attracts, and puzzles; directors have deemed it "flawed," and at their higher moments of stress, "impossible to direct." That last one may be hyperbole, but just like the man himself, *Giovanni* comes with challenges.
 

@@ -1,6 +1,8 @@
----
-title: "Banff Diaries: Day 0"
----
++++
+categories = "Editorial"
+slug = /banff-diaries-day-0/
+title = "Banff Diaries: Day 0"
++++
 
 It happened; I got on a plane (and then a bus) and landed in Banff. There was the usual mid-flight panic about whether or not my running shoes were *actually* in my suitcase (they were) and *oh god did I forget my phone charger???* 
 

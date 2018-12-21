@@ -1,6 +1,8 @@
----
-title: "Ariodante, or the Hebridean Handel"
----
++++
+categories = "Review"
+slug = /ariodante-or-the-hebridean-handel/
+title = "Ariodante, or the Hebridean Handel"
++++
 
 Rounding out my Canadian Opera Company [double header](/review-sondra-slays-in-bellini-masterwork/) this weekend, I took my seat to take in Richard Jones's production of Handel's [*Ariodante*](http://www.coc.ca/PerformancesAndTickets/1617Season/Ariodante.aspx). Sunday matinee crowds are a neat mix, but I love when a show is so engrossing that you forget you're in a crowd at all. 
 

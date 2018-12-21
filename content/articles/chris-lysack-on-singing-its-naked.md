@@ -1,6 +1,8 @@
----
-title: "Chris Lysack, on singing: &quot;It’s naked.&quot;"
----
++++
+categories = "Interview"
+slug = /chris-lysack-on-singing-its-naked/
+title = "Chris Lysack, on singing: &quot;It’s naked.&quot;"
++++
 
 ## 1. What sort of balance exists for you between singing, piano, and your passion for literature? How often do they cross over?
 

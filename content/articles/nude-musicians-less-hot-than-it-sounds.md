@@ -1,6 +1,8 @@
----
-title: "Nude musicians: less hot than it sounds"
----
++++
+categories = "Humour"
+slug = /nude-musicians-less-hot-than-it-sounds/
+title = "Nude musicians: less hot than it sounds"
++++
 
 You may have heard about the [weird ad](http://slippedisc.com/2016/08/wanted-nude-cellist-for-wedding-gender-specific/) posted on Craigslist, calling for a "naked female cellist" to play for a wedding at a nudist resort in Georgia. The poster insists he/she is serious, paying "serious money" of "500 or more", and that they prefer the "St Sean concerto" (which can only (?) translate to the [Saint-Saëns Cello Concerto](https://youtu.be/Cx6UDgi9TEA)).
 

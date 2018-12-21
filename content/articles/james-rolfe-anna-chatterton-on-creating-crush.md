@@ -1,6 +1,8 @@
----
-title: "James Rolfe &amp; Anna Chatterton, on creating Crush"
----
++++
+categories = "Interview"
+slug = /james-rolfe-anna-chatterton-on-creating-crush/
+title = "James Rolfe &amp; Anna Chatterton, on creating Crush"
++++
 
 ### How did you imagine this take on the Don Juan story, and why did you choose a female protagonist (Donna)?
 

@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Aigul Akhmetshina"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-aigul-akhmetshina/
+title = "Talking with singers: Aigul Akhmetshina"
++++
 
 ## Why do you sing professionally?
 

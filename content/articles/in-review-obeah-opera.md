@@ -1,6 +1,8 @@
----
-title: "In review: Obeah Opera"
----
++++
+categories = "Review"
+slug = /in-review-obeah-opera/
+title = "In review: Obeah Opera"
++++
 
 Friday, August 7th, 2015. This is the day I finally understood why the human race began singing and dancing in the first place. I don't know how or why it started, but I was reminded of how blessed we are by its presence in our lives.
 

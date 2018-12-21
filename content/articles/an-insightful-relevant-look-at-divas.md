@@ -1,6 +1,8 @@
----
-title: "An Insightful, Relevant Look At Divas"
----
++++
+categories = "Review"
+slug = /an-insightful-relevant-look-at-divas/
+title = "An Insightful, Relevant Look At Divas"
++++
 
 In Laura Neill's [new play *Divas*](http://www.operahub.org/upcoming), nine historical opera divas find themselves trapped in a set of barriers in the afterlife, in which they spend the entire play debating ways to get out. At one of the divas' suggestions that they start relating the stories of their lives, Swedish diva Jenny Lind wryly asks something along the lines of "has this become story time now?" At around the time she initially asked, I felt like she was speaking for the audience, which by that point had been treated to a monologue and aria by no less than Adelina Patti herself.
 

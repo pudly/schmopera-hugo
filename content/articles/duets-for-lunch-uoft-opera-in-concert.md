@@ -1,6 +1,8 @@
----
-title: "Duets for lunch: UofT Opera in concert"
----
++++
+categories = "Review"
+slug = /duets-for-lunch-uoft-opera-in-concert/
+title = "Duets for lunch: UofT Opera in concert"
++++
 
 As part of this week's line-up of the Free Concert Series in the Richard Bradshaw Amphitheatre, young singers and pianists of the University of Toronto Opera School offered a programme of operatic duets. The repertoire ran the gamut of picks that are "stretch pieces" (like scenes from *La traviata* and *Les contes d'Hoffmann*) and works that are indicative of what these singers are ready to do in the present (like the duets from *La Cenerentola* and *Don Pasquale*).
 

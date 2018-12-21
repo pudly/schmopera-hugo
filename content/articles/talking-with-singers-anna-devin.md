@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Anna Devin"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-anna-devin/
+title = "Talking with singers: Anna Devin"
++++
 
 Irish soprano [Anna Devin](/scene/people/anna-devin/) was enjoying a rare week at home, when she spoke with us between performances of Susanna in [Welsh National Opera](/scene/companies/welsh-national-opera/)'s touring production of *The Marriage of Figaro*. "When you're in the UK when you're not so far from home, you can spend an awful lot of time trying to get home for a night," says Devin. "When I've had the year that I've had," she says, "I need to maximize the time I have at home, otherwise I'd never see my husband."
 

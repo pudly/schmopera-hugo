@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Radvanovsky in recital at Cadogan Hall"
----
++++
+categories = "News"
+slug = /dont-miss-radvanovsky-in-recital-at-cadogan-hall/
+title = "Don&#039;t miss: Radvanovsky in recital at Cadogan Hall"
++++
 
 "I have no doubt it'll be one of the greatest recitals we've ever presented," says [Ian Rosenblatt](/ian-rosenblatt-its-all-about-the-voice/) of [Sondra Radvanovsky](/talking-with-singers-sondra-radvanovsky/)'s upcoming recital in London. On **March 16, 7:30pm**, star soprano - and [queen of Queens](https://www.nytimes.com/2016/01/29/arts/music/sondra-radvanovsky-opera-royalty-takes-on-donizettis-triple-crown.html) - will sing at Cadogan Hall with pianist Anthony Manoli as part of the Rosenblatt Recitals series.
 

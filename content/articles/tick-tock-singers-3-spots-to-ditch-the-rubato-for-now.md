@@ -1,6 +1,8 @@
----
-title: "Tick tock, singers! 3 spots to ditch the rubato (for now)"
----
++++
+categories = "How-to"
+slug = /tick-tock-singers-3-spots-to-ditch-the-rubato-for-now/
+title = "Tick tock, singers! 3 spots to ditch the rubato (for now)"
++++
 
 ## The mini-cadenza in "Caro nome"
 

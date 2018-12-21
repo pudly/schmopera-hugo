@@ -1,6 +1,8 @@
----
-title: "In review: Madam Butterfly at ENO"
----
++++
+categories = "Review"
+slug = /in-review-madam-butterfly-at-eno/
+title = "In review: Madam Butterfly at ENO"
++++
 
 Last night at the London Coliseum, we had the chance to hear live the late Anthony Minghella's production of [*Madam Butterfly*](https://www.eno.org/whats-on/madam-butterfly/), which was created by [English National Opera](/scene/companies/english-national-opera/) in 2005. With Michael Levine's simplistic and arresting set design, and delicious costumes by Han Feng, this treatment of *Butterfly* is one that seems to cling beautifully to those details in the libretto that have become uncomfortably affecting for contemporary audiences. The live singers find themselves in the middle of Bunraku performance, or Japanese puppet theatre, making brutal clarity out of all the times that Benjamin Franklin Pinkerton refers to Cio-Cio San as a plaything, a toy, anything but a woman.
 

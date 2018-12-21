@@ -1,6 +1,8 @@
----
-title: "Opera, faster: the COC&#039;s cheeky new app"
----
++++
+categories = "News"
+slug = /opera-faster-the-cocs-cheeky-new-app/
+title = "Opera, faster: the COC&#039;s cheeky new app"
++++
 
 In time for its spring season of Bizet's [*Carmen*](http://www.coc.ca/PerformancesAndTickets/1516Season/Carmen.aspx) and Rossini's [*Maometto II*](http://www.coc.ca/PerformancesAndTickets/1516Season/MaomettoII.aspx), the [Canadian Opera Company](/scene/companies/canadian-opera-company/) has launched a new app on the [App Store](https://itunes.apple.com/us/app/canadian-opera-company/id1083737596?mt=8) and [Google Play Store](https://play.google.com/store/apps/details?id=com.instantencore.coc_5117243&hl=en_GB). 
 

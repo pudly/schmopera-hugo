@@ -1,6 +1,8 @@
----
-title: "The Business of Passion"
----
++++
+categories = "Op-ed"
+slug = /the-business-of-passion/
+title = "The Business of Passion"
++++
 
 I kind of dread being asked what I do. That's an awful thing to say, given what an interesting and unique job I have, but it's true. At a non-music party [NMP, for your future reference!] or in a cab, the conversation usually starts something like this:
 "So you're travelling a lot for work – what's your job?"

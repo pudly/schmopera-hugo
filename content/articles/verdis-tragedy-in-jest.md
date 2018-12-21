@@ -1,6 +1,8 @@
----
-title: "Verdi&#039;s tragedy in jest"
----
++++
+categories = "Review"
+slug = /verdis-tragedy-in-jest/
+title = "Verdi&#039;s tragedy in jest"
++++
 
 Sometimes when a singer makes his or her opera company debut, the results are earth-shaking. No pun intended, but LA Opera has had a few of those quakes. (Maria Ewing in *Salome*, is just one example.) Well, another "star is born" as Juan Jesus Rodriguez made his first appearance in the City of Angels in the title role of [*Rigoletto*,](https://www.laopera.org/season/1718-Season/rigoletto/) as the cursed court jester. Mr. Rodriguez is so brilliant in the role, in fact, that his performance overwhelms the rest of the production - which is good - but isn't quite as great as he is.
  

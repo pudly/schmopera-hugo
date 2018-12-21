@@ -1,6 +1,8 @@
----
-title: "Enticing teasers: Winter Shorts"
----
++++
+categories = "Review"
+slug = /enticing-teasers-winter-shorts/
+title = "Enticing teasers: Winter Shorts"
++++
 
 The Toronto Christmas Market in the Distillery District was in full swing on Wednesday night as we made our way to Tapestry's latest instalment of [*Tapestry Briefs: Winter Shorts*](https://tapestryopera.com/tapestry-briefs/). The night was a presentation of some of the most promising works to come from the Compser-Librettists Laboratory, or LIBLAB. This program is responsible for some of Tapestry's biggest hits including [*Oksana G.*](/tough-to-watch-oksana-g/) and the multiple Dora Award-winning [*Rocking Horse Winner*](/in-review-rocking-horse-winner/).
 

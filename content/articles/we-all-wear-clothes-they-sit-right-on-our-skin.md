@@ -1,6 +1,8 @@
----
-title: "&quot;We all wear clothes. They sit right on our skin.&quot;"
----
++++
+categories = "Interview"
+slug = /we-all-wear-clothes-they-sit-right-on-our-skin/
+title = "&quot;We all wear clothes. They sit right on our skin.&quot;"
++++
 
 ## What is *Sweat* about? 
 

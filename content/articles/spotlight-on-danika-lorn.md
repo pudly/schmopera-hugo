@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Danika Lorèn"
----
++++
+categories = "Interview"
+slug = /spotlight-on-danika-lorn/
+title = "Spotlight on: Danika Lorèn"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

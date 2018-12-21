@@ -1,6 +1,8 @@
----
-title: "When lost, find roots"
----
++++
+categories = "Op-ed"
+slug = /when-lost-find-roots/
+title = "When lost, find roots"
++++
 
 No one is immune to the mountains and valleys of life. At times, we find ourselves kicking ass at work and coming home to loved ones who fill our lives with joy. Other times, our co-workers "forgot" to invite us to happy hour so we go home alone because we were just broken up with only to find the dog had pooped on the bed.
 

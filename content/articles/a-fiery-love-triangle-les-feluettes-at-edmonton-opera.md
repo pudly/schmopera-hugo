@@ -1,6 +1,8 @@
----
-title: "A fiery love triangle: Les feluettes at Edmonton Opera"
----
++++
+categories = "Review"
+slug = /a-fiery-love-triangle-les-feluettes-at-edmonton-opera/
+title = "A fiery love triangle: Les feluettes at Edmonton Opera"
++++
 
 Imagine your favourite opera. Chances are, the plot likely has an all-consuming love at the centre of it. 
 

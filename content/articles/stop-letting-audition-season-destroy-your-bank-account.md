@@ -1,6 +1,8 @@
----
-title: "Stop letting audition season destroy your bank account"
----
++++
+categories = "Editorial"
+slug = /stop-letting-audition-season-destroy-your-bank-account/
+title = "Stop letting audition season destroy your bank account"
++++
 
 
 Auditioning is so freaking expensive. 

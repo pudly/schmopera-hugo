@@ -1,6 +1,8 @@
----
-title: "Beardism, the Lumbersexual, and the Young Performer"
----
++++
+categories = "Op-ed"
+slug = /beardism-the-lumbersexual-and-the-young-performer/
+title = "Beardism, the Lumbersexual, and the Young Performer"
++++
 
 <p class="p1 intro">
 	You've seen the term a lot lately - <a href="http://www.urbandictionary.com/define.php?term=Lumbersexual" target="_blank">The Lumbersexual</a>. A "new" class of young, urban man who's upped his masculinity factor by wearing plaid and not shaving. I put <i>new</i> in quotation marks because I know of a good many young man here in Toronto from all areas of the sexuality spectrum rocking this look for quite some time now and I say "not shaving" instead of "sporting a beard" because the two are very, <i>very</i>, different. Sporting a beard requires a heckuva lot of grooming - probably more meticulous grooming than our clean-shaven counterparts. The trimming of the moustache so it stays out of your coffee cup/soup spoon/beer stein, the cleaning of neck hair so it doesn't get caught and pulled out in the weaves of your oxford shirt collar, the shampooing and conditioning (yes, one should do this to their beard - it's hair, after all) and then of course any of the other accoutrements - beard oil, sideburn matching, combing and brushing. These are all parts of responsible beard ownership.<br>

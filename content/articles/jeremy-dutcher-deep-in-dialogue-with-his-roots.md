@@ -1,6 +1,8 @@
----
-title: "Jeremy Dutcher: &quot;deep in dialogue&quot; with his roots"
----
++++
+categories = "News"
+slug = /jeremy-dutcher-deep-in-dialogue-with-his-roots/
+title = "Jeremy Dutcher: &quot;deep in dialogue&quot; with his roots"
++++
 
 Tenor, composer, activist, and musicologist Jeremy Dutcher is mid-tour of his *Wolastoqiyik Lintuwakonawa*, an album of "collaborative compositions" that makes a significant nod to his Wolastoq First Nation roots.
 

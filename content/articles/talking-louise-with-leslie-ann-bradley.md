@@ -1,6 +1,8 @@
----
-title: "Talking Louise with Leslie Ann Bradley"
----
++++
+categories = "Interview"
+slug = /talking-louise-with-leslie-ann-bradley/
+title = "Talking Louise with Leslie Ann Bradley"
++++
 
 <h2>1. Who is Louise?</h2>
 <p>

@@ -1,6 +1,8 @@
----
-title: "Spotlight on: William Ford"
----
++++
+categories = "Interview"
+slug = /spotlight-on-william-ford/
+title = "Spotlight on: William Ford"
++++
 
 ### 1. Why do you sing, and why are you pursuing it professionally?
 

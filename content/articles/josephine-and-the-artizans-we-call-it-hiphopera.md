@@ -1,6 +1,8 @@
----
-title: "Josephine and The Artizans: &quot;We call it hip-hopera.&quot;"
----
++++
+categories = "Interview"
+slug = /josephine-and-the-artizans-we-call-it-hiphopera/
+title = "Josephine and The Artizans: &quot;We call it hip-hopera.&quot;"
++++
 
 At first thought, the combination of hip-hop and opera seems less than obvious, but London-based hip-hopera band [Josephine and The Artizans](http://www.josephineandtheartizans.com/) are quickly turning audiences onto the idea.
 

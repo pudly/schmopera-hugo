@@ -1,6 +1,8 @@
----
-title: "Enjoying opera: the home team advantage"
----
++++
+categories = "Editorial"
+slug = /enjoying-opera-the-home-team-advantage/
+title = "Enjoying opera: the home team advantage"
++++
 
 When you work on an opera, by opening night, you know it like the back of your hand. It can feel a little insane to know every corner of a show, to have a bar and a half worth of recit running around in your head, to be able to rattle off pages of a score at the slightest provocation. We opened [*The Rape of Lucretia*](http://calgaryherald.com/entertainment/music/emotional-powerful-britten-opera-performance-deeply-disturbs) here at The Banff Centre this weekend, and though it's not exactly a toe-tapper, Britten's chamber opera has nestled deeply into the brains of the creative team.
 

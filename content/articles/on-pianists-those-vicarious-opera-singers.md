@@ -1,6 +1,8 @@
----
-title: "On Pianists, Those Vicarious Opera Singers"
----
++++
+categories = "Op-ed"
+slug = /on-pianists-those-vicarious-opera-singers/
+title = "On Pianists, Those Vicarious Opera Singers"
++++
 
 I remember working with a class of first year voice students a few years ago; I saw them all individually (totally a bad idea, switched to masterclass format the next year), and I got the sense that for a majority of these students, they were working with a vocal coach for the first time. One particularly outspoken singer asked an unexpected question during our first coaching session together: "But, you're a pianist. Why are you telling me what to do?"
 

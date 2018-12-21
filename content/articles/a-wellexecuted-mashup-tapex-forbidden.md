@@ -1,6 +1,8 @@
----
-title: "A well-executed mashup: Tap:Ex Forbidden"
----
++++
+categories = "Review"
+slug = /a-wellexecuted-mashup-tapex-forbidden/
+title = "A well-executed mashup: Tap:Ex Forbidden"
++++
 
 What do you get when you write an opera for traditional Middle Eastern instruments that incorporates operatic elements, creative theatre, and a universal storyline then add a dash of transgendered rap in there? *Tap:Ex Forbidden*. 
 

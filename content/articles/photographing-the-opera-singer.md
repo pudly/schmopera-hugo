@@ -1,6 +1,8 @@
----
-title: "Photographing the opera singer"
----
++++
+categories = "Interview"
+slug = /photographing-the-opera-singer/
+title = "Photographing the opera singer"
++++
 
 ### What kind of presence do you find singers bring to a photo shoot? 
 

@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Steven Cole"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-steven-cole/
+title = "Talking with singers: Steven Cole"
++++
 
 ## What do you think are some unique challenges and joys of playing a character role?
 

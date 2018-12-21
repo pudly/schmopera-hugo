@@ -1,6 +1,8 @@
----
-title: "In review: The Rape of Lucretia at TSMF"
----
++++
+categories = "Review"
+slug = /in-review-the-rape-of-lucretia-at-tsmf/
+title = "In review: The Rape of Lucretia at TSMF"
++++
 
 Friday, July 22nd, 2016: the day Toronto almost melted. 
 

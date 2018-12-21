@@ -1,6 +1,8 @@
----
-title: "Conductorless orchestras, cases for chamber opera"
----
++++
+categories = "Editorial"
+slug = /conductorless-orchestras-cases-for-chamber-opera/
+title = "Conductorless orchestras, cases for chamber opera"
++++
 
 Reading James Chater's article about Persimfans got our minds turning. An acryonym for "Pervyi simfonischeskii ansambl bez dirigera"
 

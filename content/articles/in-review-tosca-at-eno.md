@@ -1,6 +1,8 @@
----
-title: "In review: Tosca at ENO"
----
++++
+categories = "Review"
+slug = /in-review-tosca-at-eno/
+title = "In review: Tosca at ENO"
++++
 
 Catherine Malfitano's production of [*Tosca*](https://www.eno.org/whats-on/tosca/) has returned for its second revival at [English National Opera](/scene/companies/english-national-opera/) (this time directed by Donna Stirrup), and with it come three stellar singers in the leading roles. [Keri Alkema](/talking-with-singers-keri-alkema/) makes her ENO debut as an endearing, kind, even funny Floria Tosca, and she sings with a rich, womanly sound that seems made for the role. [Gwyn Hughes Jones](/scene/people/gwyn-hughes-jones/) is a clear and cutting Mario Cavaradossi, full of strength and heart, and even some Italian suave-ness (impressive for a Welsh tenor singing in English) that speaks to the couple's true chemistry.
 

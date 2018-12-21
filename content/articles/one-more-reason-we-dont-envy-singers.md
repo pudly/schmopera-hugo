@@ -1,6 +1,8 @@
----
-title: "One more reason we don&#039;t envy singers"
----
++++
+categories = "Editorial"
+slug = /one-more-reason-we-dont-envy-singers/
+title = "One more reason we don&#039;t envy singers"
++++
 
 You've likely heard about [Anna Netrebko](/scene/people/anna-netrebko/)'s decision to withdraw from the title role in *Norma* at both the Royal Opera House and the Metropolitan Opera next season. The Met has since secured the more-than-capable [Sondra Radvanovsky](/scene/people/sondra-radvanovsky/) to replace her, and Sonya Yoncheva will sing the role at Covent Garden.
 

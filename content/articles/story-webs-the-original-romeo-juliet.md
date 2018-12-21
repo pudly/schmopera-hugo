@@ -1,6 +1,8 @@
----
-title: "Story webs &amp; the original Romeo &amp; Juliet"
----
++++
+categories = "Op-ed"
+slug = /story-webs-the-original-romeo-juliet/
+title = "Story webs &amp; the original Romeo &amp; Juliet"
++++
 
 No piece of art is created in a vacuum. 
 

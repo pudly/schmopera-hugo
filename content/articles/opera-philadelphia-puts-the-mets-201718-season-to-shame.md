@@ -1,6 +1,8 @@
----
-title: "Opera Philadelphia puts the Met&#039;s 2017/18 season to shame"
----
++++
+categories = "Editorial"
+slug = /opera-philadelphia-puts-the-mets-201718-season-to-shame/
+title = "Opera Philadelphia puts the Met&#039;s 2017/18 season to shame"
++++
 
 Now, *that's* a season announcement.
 

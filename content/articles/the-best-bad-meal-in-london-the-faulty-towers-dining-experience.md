@@ -1,6 +1,8 @@
----
-title: "The best bad meal in London: the Faulty Towers Dining Experience"
----
++++
+categories = "Review"
+slug = /the-best-bad-meal-in-london-the-faulty-towers-dining-experience/
+title = "The best bad meal in London: the Faulty Towers Dining Experience"
++++
 
 In a departure from our usual operagoing schedule, we paid homage to our current English home by taking in the [Faulty Towers Dining Experience](http://www.amba-hotel.com/hotels/united_kingdom/london/charing-cross/hotel_offers/faulty_towers_the_dining_experience_.html). If you're not familiar, *Fawlty Towers* is a 1970s BBC comedy series starring John Cleese and Prunella Scales, about the namesake hotel they run and the hilarious hijinks with guests and staff alike.
 

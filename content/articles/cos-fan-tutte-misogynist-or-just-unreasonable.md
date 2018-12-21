@@ -1,6 +1,8 @@
----
-title: "Così fan tutte: misogynist, or just unreasonable?"
----
++++
+categories = "Op-ed"
+slug = /cos-fan-tutte-misogynist-or-just-unreasonable/
+title = "Così fan tutte: misogynist, or just unreasonable?"
++++
 
 The other day I was fortunate to hear [Graham Forst](https://www.sfu.ca/continuing-studies/instructors/e-h/graham-forst.html) speak about *Così fan tutte*. If Graham's last name sounds familiar, it's because his wife is the formidable mezzo-soprano [Judith Forst](http://music.cbc.ca/#!/artists/Judith-Forst); they're both gracing The Banff Centre with their presences, she to teach, and he to get our minds a-spinning.
 

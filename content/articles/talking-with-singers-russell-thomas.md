@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Russell Thomas"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-russell-thomas/
+title = "Talking with singers: Russell Thomas"
++++
 
 When we spoke with American tenor [Russell Thomas](/scene/people/russell-thomas/), he had just returned from his monthly environmental circuit around his Atlanta neighbourhood. "It's a once-a-month commitment to pick up trash around the corner of Atlanta where I live," explains Thomas, who joins his neighbours in their monthly pact to clean up their community. "Whenever I'm home I go out and do it."
 

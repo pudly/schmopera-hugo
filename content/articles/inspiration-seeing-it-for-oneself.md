@@ -1,6 +1,8 @@
----
-title: "Inspiration: seeing it for oneself"
----
++++
+categories = "Op-ed"
+slug = /inspiration-seeing-it-for-oneself/
+title = "Inspiration: seeing it for oneself"
++++
 
 There is a bird here in London, that frequents the balcony outside where we often write. What kind of bird, we're not sure. ("Non ho studiato ornitologia.") But it makes some of the coolest little twitters and chirps, including a common phrase that sounds like that stereotypical whistle that men use to [catcall women](https://www.youtube.com/watch?v=Ydx7BsjOAoY) on the street, but slightly sped up, old-film style.
 

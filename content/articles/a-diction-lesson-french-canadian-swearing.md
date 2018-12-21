@@ -1,6 +1,8 @@
----
-title: "A diction lesson: French Canadian swearing"
----
++++
+categories = "Op-ed"
+slug = /a-diction-lesson-french-canadian-swearing/
+title = "A diction lesson: French Canadian swearing"
++++
 
 You had me at "tabarnak".
 

@@ -1,6 +1,8 @@
----
-title: "Three cities, lots of options: coming up in March"
----
++++
+categories = "News"
+slug = /three-cities-lots-of-options-coming-up-in-march/
+title = "Three cities, lots of options: coming up in March"
++++
 
 Whether you're dealing with lion- or lamb-like weather, March offers some good operatic and musical picks on both coasts (and a little bit the Midwest).
 

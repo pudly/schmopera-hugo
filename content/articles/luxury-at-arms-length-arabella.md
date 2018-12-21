@@ -1,6 +1,8 @@
----
-title: "Luxury at arm&#039;s length: Arabella"
----
++++
+categories = "Review"
+slug = /luxury-at-arms-length-arabella/
+title = "Luxury at arm&#039;s length: Arabella"
++++
 
 When it offers nothing but good news - stunning music that seems to make a few early nods to the motifs of *Der Rosenkavalier*, and the central woman who holds herself with poise and self-respect - it's hard to articulate why Strauss' [*Arabella*](http://coc.ca/PerformancesAndTickets/1718Season/Arabella.aspx) had me perched squarely on the fence. It's a strange experience to spend three acts wavering between feeling swept away by stunning singing and lush worlds that seem to ooze romance, and feeling entirely suspicious and even exasperated by the battles picked by Arabella and her in-dire-straits-of-their-own-doing family.
 

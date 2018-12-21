@@ -1,6 +1,8 @@
----
-title: "In review: 25th Annual Putnam County Spelling Bee"
----
++++
+categories = "Review"
+slug = /in-review-25th-annual-putnam-county-spelling-bee/
+title = "In review: 25th Annual Putnam County Spelling Bee"
++++
 
 On Friday, June 5th I hit up Artscape Wychwood Barns to see a small production of William Finn's *25th Annual Putnam County Spelling Bee*. Based on an improvisation play called *C-R-E-P-U-S-C-L-E* conceived by Rebecca Feldman, this show took the Tony Awards and Broadway by storm in 2005.  I love this show, so it was a no-brainer to check it out.
 

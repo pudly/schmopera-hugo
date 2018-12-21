@@ -1,6 +1,8 @@
----
-title: "&quot;Great Operas Don&#039;t Just Happen.&quot;"
----
++++
+categories = "Interview"
+slug = /great-operas-dont-just-happen/
+title = "&quot;Great Operas Don&#039;t Just Happen.&quot;"
++++
 
 ## Why is something like the CLDP a necessary part of the opera industry in the 21st century?
 

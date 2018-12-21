@@ -1,6 +1,8 @@
----
-title: "The Microphone Question"
----
++++
+categories = "Op-ed"
+slug = /the-microphone-question/
+title = "The Microphone Question"
++++
 
 The other day I was presented with one of those artistic conundrums that's so simple it rarely occurs to me: the question of using microphones in live opera. If you're an opera lover, your nose probably just scrunched up a little bit at the thought of Violetta sporting a headset mic. I'll make it known right away that I'm not for using microphones in a performance, and I think suggesting it is reflective of having missed the point of opera. And now I'll tell you how this all came about.
 

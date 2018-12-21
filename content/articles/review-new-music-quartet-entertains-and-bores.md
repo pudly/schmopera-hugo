@@ -1,6 +1,8 @@
----
-title: "Review: New music quartet entertains and bores"
----
++++
+categories = "Review"
+slug = /review-new-music-quartet-entertains-and-bores/
+title = "Review: New music quartet entertains and bores"
++++
 
 The American playwright David Mamet appeared on Marc Maron's [hit interview podcast WTF](http://www.wtfpod.com/podcast/episode-898-david-mamet) this week and unsurprisingly said, "the only thing theater's good for is to entertain people. It doesn't change the world." The part about changing the world is up for grabs. But what's not worth debating is that theater must entertain. Music must too. And contemporary classical music, in its nicher than niche microcosm, is particularly susceptible to forgetting that responsibility. What qualifies as entertaining falls on a broad continuum, but nothing risks boring an audience more than atonal new music that doesn't groove.
 

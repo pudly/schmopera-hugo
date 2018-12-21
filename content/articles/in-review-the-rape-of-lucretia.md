@@ -1,6 +1,8 @@
----
-title: "In review: The Rape of Lucretia"
----
++++
+categories = "Review"
+slug = /in-review-the-rape-of-lucretia/
+title = "In review: The Rape of Lucretia"
++++
 
 For my first show experience at Daniels Spectrum, I have to say I'm glad it was the one I saw tonight.
 

@@ -1,6 +1,8 @@
----
-title: "dell&#039;Arte Opera nods to Mozart &amp; Salieri in 2018"
----
++++
+categories = "Interview"
+slug = /dellarte-opera-nods-to-mozart-salieri-in-2018/
+title = "dell&#039;Arte Opera nods to Mozart &amp; Salieri in 2018"
++++
 
 ## What do you think is the function of a summer opera training programme like dell'Arte Opera?
 

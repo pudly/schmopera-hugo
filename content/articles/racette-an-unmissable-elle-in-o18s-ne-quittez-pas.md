@@ -1,6 +1,8 @@
----
-title: "Racette an unmissable Elle in O18&#039;s Ne Quittez Pas"
----
++++
+categories = "Review"
+slug = /racette-an-unmissable-elle-in-o18s-ne-quittez-pas/
+title = "Racette an unmissable Elle in O18&#039;s Ne Quittez Pas"
++++
 
 Opera patrons in formal wear waiting in line to enter the Theatre of Living Arts for Saturday night's premiere of *Ne Quittez Pas* were in humorous contrast to the rock club surroundings and the other nearby South Street urban establishments. The venue has been transformed into a late 70's music club, complete with French rock music playing through the speakers. Opera Philadelphia's new production consists of an original prologue consisting of Poulenc art songs, and inspiration from Cocteau's *Les Enfants Terribles*, and poems of Apollinaire, followed by a more well-known *La voix humaine*.
 

@@ -1,6 +1,8 @@
----
-title: "In review: Carmen at the COC"
----
++++
+categories = "Review"
+slug = /in-review-carmen-at-the-coc/
+title = "In review: Carmen at the COC"
++++
 
 Back for a double header at the Four Seasons Centre for the Performing Arts, Wednesday night the seating gods smiled upon us - yet again. From our super sweet seats I was about to witness (finally) the Canadian Opera Company's thrilling production of Bizet's perennial crowd pleaser, *Carmen*.
 

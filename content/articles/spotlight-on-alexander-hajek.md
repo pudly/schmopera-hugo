@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Alexander Hajek"
----
++++
+categories = "Interview"
+slug = /spotlight-on-alexander-hajek/
+title = "Spotlight on: Alexander Hajek"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

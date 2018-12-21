@@ -1,6 +1,8 @@
----
-title: "Dear me: advice to my freshman self"
----
++++
+categories = "Op-ed"
+slug = /dear-me-advice-to-my-freshman-self/
+title = "Dear me: advice to my freshman self"
++++
 
 Back to school: the time of collecting school supplies, checking over schedules, and begrudging over the alarm clock that has laid dormant over the summer months. This time of year will be a major milestone for the young singer; this week they begin their journey onto a path built by the predecessors before them. 
 

@@ -1,6 +1,8 @@
----
-title: "Kyra Millan: making Opera for All Ages"
----
++++
+categories = "Interview"
+slug = /kyra-millan-making-opera-for-all-ages/
+title = "Kyra Millan: making Opera for All Ages"
++++
 
 ## What do young people like about opera?
 

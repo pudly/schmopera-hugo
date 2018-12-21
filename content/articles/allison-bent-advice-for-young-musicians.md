@@ -1,6 +1,8 @@
----
-title: "Allison Bent: Advice for Young Musicians"
----
++++
+categories = "Interview"
+slug = /allison-bent-advice-for-young-musicians/
+title = "Allison Bent: Advice for Young Musicians"
++++
 
 <h3>1. Great technique, being a good colleague, and networking are all valuable elements to a professional singer; how does that translate for professional instrumentalists?</h3>
 <p>

@@ -1,6 +1,8 @@
----
-title: "Quick tips: the rolled R test"
----
++++
+categories = "How-to"
+slug = /quick-tips-the-rolled-r-test/
+title = "Quick tips: the rolled R test"
++++
 
 Singers, do you like a good rolled R? I know not everyone has the lingual facility to do this, and plenty of us English speakers have to practice making a sound that's so foreign to our own language. I'm not about to get into teaching rolled Rs (although [this article](http://www.trevorhuxham.com/2014/02/10-tips-for-rolling-spanish-r.html), [this Reddit thread](https://www.reddit.com/r/linguistics/comments/15l3tm/please_help_me_roll_my_rs_my_life_depends_on_this/), or [this video](https://www.youtube.com/watch?v=cjoOD8SVhos) may help.
 

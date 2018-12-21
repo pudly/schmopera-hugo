@@ -1,6 +1,8 @@
----
-title: "In review: Renée Fleming joins opening night at the TSO"
----
++++
+categories = "Review"
+slug = /in-review-rene-fleming-joins-opening-night-at-the-tso/
+title = "In review: Renée Fleming joins opening night at the TSO"
++++
 
 Hey Schmop-Tops!
 

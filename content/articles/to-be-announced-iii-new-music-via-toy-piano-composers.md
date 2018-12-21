@@ -1,6 +1,8 @@
----
-title: "To Be Announced III: new music via Toy Piano Composers"
----
++++
+categories = "Interview"
+slug = /to-be-announced-iii-new-music-via-toy-piano-composers/
+title = "To Be Announced III: new music via Toy Piano Composers"
++++
 
 ## 1. How do you approach learning a brand new piece of music? 
 

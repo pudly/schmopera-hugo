@@ -1,6 +1,8 @@
----
-title: "Akhmetshina&#039;s &quot;devastating&quot; Carmen at Wilton&#039;s Music Hall"
----
++++
+categories = "Review"
+slug = /akhmetshinas-devastating-carmen-at-wiltons-music-hall/
+title = "Akhmetshina&#039;s &quot;devastating&quot; Carmen at Wilton&#039;s Music Hall"
++++
 
 On Friday night, I had the pleasure of attending the Jette Parker production of *La Tragédie de Carmen*. I wasn't sure how I'd feel about a reduction of such an iconic piece, but it was wonderfully done. The simplification actually served the dramatic shape of the characters. Director Gerard Jones made good use of the space at Wilton's Music Hall, crafting a show that had a wonderful sense of dramatic pacing balanced with humour and tragedy. The internal struggles of the characters became the focus due to the simplicity of the production and its staging. The young singers were also fabulous, carrying us through with consistent and compelling story-telling. 
 

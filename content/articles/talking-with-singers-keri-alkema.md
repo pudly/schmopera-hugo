@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Keri Alkema"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-keri-alkema/
+title = "Talking with singers: Keri Alkema"
++++
 
 "I've been looking forward to it for a while," says soprano [Keri Alkema](/scene/people/keri-alkema/) of her upcoming season, which includes singing the title role in three different productions of *Tosca*. Her first will be directed by fellow Tosca-veteran, Catherine Malfitano, at [English National Opera](https://www.eno.org/whats-on/tosca/) beginning October 3. "I'm really excited about all three productions for different reasons. I love [Tosca], so I think it'll be fun, and I love the challenge of portraying her different ways." 
 

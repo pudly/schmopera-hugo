@@ -1,6 +1,8 @@
----
-title: "There&#039;s still no opera on Netflix"
----
++++
+categories = "Op-ed"
+slug = /theres-still-no-opera-on-netflix/
+title = "There&#039;s still no opera on Netflix"
++++
 
 Over a year ago, we published an [article](/netflix-why-not-opera/) about the dearth of opera available on Netflix. The research for the piece took little time, and produced results that weren't surprising.
 

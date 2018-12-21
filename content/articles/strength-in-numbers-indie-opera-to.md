@@ -1,6 +1,8 @@
----
-title: "Strength in numbers: Indie Opera T.O."
----
++++
+categories = "Op-ed"
+slug = /strength-in-numbers-indie-opera-to/
+title = "Strength in numbers: Indie Opera T.O."
++++
 
 Hi Schmopera! My name is Stephanie Applin and I am the Project Manager of [Indie Opera Toronto](http://indieoperatoronto.ca/), the collective of independent opera companies in Toronto. 
 

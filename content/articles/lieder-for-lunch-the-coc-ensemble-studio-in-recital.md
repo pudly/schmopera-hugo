@@ -1,6 +1,8 @@
----
-title: "Lieder for Lunch: the COC Ensemble Studio in Recital"
----
++++
+categories = "Review"
+slug = /lieder-for-lunch-the-coc-ensemble-studio-in-recital/
+title = "Lieder for Lunch: the COC Ensemble Studio in Recital"
++++
 
 <p>
 	Today at noon, a few members of the <a href="http://www.coc.ca/AboutTheCOC/CompanyMembers/EnsembleStudio.aspx" target="_blank" data-mce-href="http://www.coc.ca/AboutTheCOC/CompanyMembers/EnsembleStudio.aspx">Canadian Opera Company Ensemble Studio</a> gave a concert in the Richard Bradshaw Amphitheatre, as part of the <a href="http://www.coc.ca/PerformancesAndTickets/FreeConcertSeries.aspx" target="_blank" data-mce-href="http://www.coc.ca/PerformancesAndTickets/FreeConcertSeries.aspx">Free Concert Series</a> (which you should all get to know). The theme was "Poetic Love," and the programming wasted no time getting to the point. Baritone <a href="http://www.ariamanagement.com/en/nos-artistes/gordon-bintner-w/" target="_blank" data-mce-href="http://www.ariamanagement.com/en/nos-artistes/gordon-bintner-w/">Gordon Bintner</a> and pianist <a href="https://twitter.com/szetojenn" target="_blank" data-mce-href="https://twitter.com/szetojenn">Jennifer Szeto</a> gave us selections of Schubert's <em>Schwanengesang</em>, focusing on the six songs with texts by Heinrich Heine. Following that were tenor <a href="http://www.andrewhaji.com/" target="_blank" data-mce-href="http://www.andrewhaji.com/">Andrew Haji</a> and Head of the Ensemble Studio, <a href="http://schmopera.com/how-to-be-a-coach-with-liz-upchurch/" target="_blank" data-mce-href="/how-to-be-a-coach-with-liz-upchurch/">Liz Upchurch</a>, performing Schumann and Heine's incredible cycle, <em>Dichterliebe</em>. As many music lovers probably do, I have a weak spot for Schumann's story of love and all its forms: new, passionate, unrequited, lost, maybe imaginary. Despite having less of a visceral connection to Schubert's set, I had a feeling that the entire concert would be a winning combination of artists and repertoire, and I was right.

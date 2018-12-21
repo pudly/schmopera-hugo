@@ -1,6 +1,8 @@
----
-title: "A kind of twisted, egotistical apotheosis: Faust in Chicago"
----
++++
+categories = "Review"
+slug = /a-kind-of-twisted-egotistical-apotheosis-faust-in-chicago/
+title = "A kind of twisted, egotistical apotheosis: Faust in Chicago"
++++
 
 At the [Lyric Opera of Chicago this month](https://www.lyricopera.org/concertstickets/calendar/2017-2018/productions/lyricopera/faust-opera-tickets#), Faust is a frustrated artist, whose own carvings and *objets* come to life to torment him. This new production is the result of a unique collaboration between visual artist John Frame (whose artwork and guiding aesthetic shaped the opera's look), set and costume designer Vita Tzykun, lighting designer Duane Shuler, projection designer David Adam Moore, and director Kevin Newbury. 
 

@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Jacques Arsenault"
----
++++
+categories = "Interview"
+slug = /spotlight-on-jacques-arsenault/
+title = "Spotlight on: Jacques Arsenault"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

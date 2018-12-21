@@ -1,6 +1,8 @@
----
-title: "Tara Erraught: &quot;My job is to tell a story.&quot;"
----
++++
+categories = "Interview"
+slug = /tara-erraught-my-job-is-to-tell-a-story/
+title = "Tara Erraught: &quot;My job is to tell a story.&quot;"
++++
 
 ## Why do you sing professionally?
 

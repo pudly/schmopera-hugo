@@ -1,6 +1,8 @@
----
-title: "Opera for voyeurs: Opera Peep Show"
----
++++
+categories = "Interview"
+slug = /opera-for-voyeurs-opera-peep-show/
+title = "Opera for voyeurs: Opera Peep Show"
++++
 
 ## Can you give us the "Cole's Notes" version of the history of Liederwölfe Opera? How did you come up with the name? 
 

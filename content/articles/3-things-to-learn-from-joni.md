@@ -1,6 +1,8 @@
----
-title: "3 things to learn from Joni"
----
++++
+categories = "Editorial"
+slug = /3-things-to-learn-from-joni/
+title = "3 things to learn from Joni"
++++
 
 ### The song is enough, if it's true
 

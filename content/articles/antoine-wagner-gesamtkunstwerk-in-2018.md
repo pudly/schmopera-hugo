@@ -1,6 +1,8 @@
----
-title: "Antoine Wagner: Gesamtkunstwerk in 2018"
----
++++
+categories = "Interview"
+slug = /antoine-wagner-gesamtkunstwerk-in-2018/
+title = "Antoine Wagner: Gesamtkunstwerk in 2018"
++++
 
 This July at Miami's New World Symphony Center, the Miami Music Festival's [Wagner Institute](https://www.miamiwagnerinstitute.com/) presents an evening that pairs the tension between opera and technology with the formidable term, [*Gesamtkunstwerk*](https://en.wikipedia.org/wiki/Gesamtkunstwerk).
 

@@ -1,6 +1,8 @@
----
-title: "Young singers in Santa Fe: Sarah Coit"
----
++++
+categories = "Interview"
+slug = /young-singers-in-santa-fe-sarah-coit/
+title = "Young singers in Santa Fe: Sarah Coit"
++++
 
 ## Can you describe a day in the life of an apprentice singer at Santa Fe Opera?
 

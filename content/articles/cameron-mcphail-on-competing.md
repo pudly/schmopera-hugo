@@ -1,6 +1,8 @@
----
-title: "Cameron McPhail: On Competing"
----
++++
+categories = "Interview"
+slug = /cameron-mcphail-on-competing/
+title = "Cameron McPhail: On Competing"
++++
 
 Last month, fellow colleague and buddy Cameron McPhail was [named a winner](http://artsbeat.blogs.nytimes.com/2014/02/24/george-london-vocal-contest-recognizes-american-and-canadian-singers/?_php=true&_type=blogs&smid=tw-nytimesmusic&seid=auto&_r=0) of the [George London Foundation Awards Competition](http://georgelondon.org/?page_id=57). Way to go, Cam! I asked the [COC Ensemble Studio member](http://www.coc.ca/aboutthecoc/companymembers/EnsembleStudio.aspx) how it felt:
 

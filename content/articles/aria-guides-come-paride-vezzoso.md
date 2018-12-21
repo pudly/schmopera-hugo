@@ -1,6 +1,8 @@
----
-title: "Aria guides: &quot;Come Paride vezzoso&quot;"
----
++++
+categories = "How-to"
+slug = /aria-guides-come-paride-vezzoso/
+title = "Aria guides: &quot;Come Paride vezzoso&quot;"
++++
 
 1. Right off the bat, Donizetti writes a pillar of *bel canto* style, and that's the dotted rhythm, versus the triplet. It may sound like a subtle different, but singing this first phrase with a triplet feel completely changes the character of the music. There's something pompous and overdone about sticking to the tight dotted rhythms, which is exactly what Belcore is all about. Think of the dots as double or triple dots, and pull as much vowel time out of the long note as you can.<figure data-type="image">![](/webhook-uploads/1465311641645/Belcore---annotated---1.jpg)
 </figure>

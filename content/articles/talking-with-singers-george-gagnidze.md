@@ -1,6 +1,8 @@
----
-title: "Talking with singers: George Gagnidze"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-george-gagnidze/
+title = "Talking with singers: George Gagnidze"
++++
 
 ## How do you keep roles fresh as you sing them in various productions? 
 

@@ -1,6 +1,8 @@
----
-title: "In review: Carmen at Nashville Opera"
----
++++
+categories = "Review"
+slug = /in-review-carmen-at-nashville-opera/
+title = "In review: Carmen at Nashville Opera"
++++
 
 [Nashville Opera](/scene/companies/nashville-opera/) closed its four-show, 2016-2017 season with Bizet's *Carmen*.  Director John Hoomes's decision to keep a mostly traditional treatment of the production gave the musicians the space to let Bizet's music speak for itself.  While the largely talented singers seized that opportunity, it seemed – in some cases – that said space allowed the focus to come off the characters themselves.
 

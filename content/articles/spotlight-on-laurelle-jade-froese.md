@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Laurelle Jade Froese"
----
++++
+categories = "Interview"
+slug = /spotlight-on-laurelle-jade-froese/
+title = "Spotlight on: Laurelle Jade Froese"
++++
 
 ### 1. Why do you sing, and why are you pursuing it professionally?
 

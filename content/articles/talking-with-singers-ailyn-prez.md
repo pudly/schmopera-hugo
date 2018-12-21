@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Ailyn Pérez"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-ailyn-prez/
+title = "Talking with singers: Ailyn Pérez"
++++
 
 "There's stage fright no matter where you sing," says soprano [Ailyn Pérez](/scene/people/ailyn-perez/), who's currently in Milan to sing what has become one of her signature roles, Violetta Valéry, in Liliana Cavani's production of [*La traviata*](http://www.teatroallascala.org/en/season/2016-2017/opera/traviata.html) at the famed [Teatro alla Scala](/scene/companies/teatro-alla-scala/). "Maybe it's just part of being a soprano," she muses, "but there is nothing that I sing that doesn't have a legacy behind it of great, great singers."
 

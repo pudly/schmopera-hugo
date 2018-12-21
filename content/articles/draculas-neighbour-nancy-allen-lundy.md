@@ -1,6 +1,8 @@
----
-title: "Dracula&#039;s neighbour: Nancy Allen Lundy"
----
++++
+categories = "Interview"
+slug = /draculas-neighbour-nancy-allen-lundy/
+title = "Dracula&#039;s neighbour: Nancy Allen Lundy"
++++
 
 ## What kind of lady is Dracula's neighbour?
 

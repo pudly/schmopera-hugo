@@ -1,6 +1,8 @@
----
-title: "Paid summer programs: is it time for a revolution?"
----
++++
+categories = "Op-ed"
+slug = /paid-summer-programs-is-it-time-for-a-revolution/
+title = "Paid summer programs: is it time for a revolution?"
++++
 
 Summer programs, and their expensive nature, have been under scrutiny during this 2015/16 audition season. It's not a new conversation; the advent of bloggers has meant conversations about not-cheap aspects to the opera training industry, including famed bass-baritone [Alan Held](/scene/people/alan-held/)'s [strong words for YAPs](http://slippedisc.com/2014/11/opera-stalwart-young-artist-programs-are-ripping-off-young-artists/) (conversely, there's [this controversial article](http://thousandfoldecho.com/2014/10/17/why-opera-companies-charge-audition-fees-and-why-you-should-pay-them/) about why audition fees are necessary). The common source of contention is the high, often prohibitive, cost of summer opera programs. 
 

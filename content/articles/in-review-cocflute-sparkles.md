@@ -1,6 +1,8 @@
----
-title: "In review: #COCFlute sparkles"
----
++++
+categories = "Review"
+slug = /in-review-cocflute-sparkles/
+title = "In review: #COCFlute sparkles"
++++
 
 The [Canadian Opera Company](/scene/companies/canadian-opera-company/) returned from its  holiday hiatus with a perennial (and what could possibly be my own personal) favourite - Mozart's *The Magic Flute*.
 

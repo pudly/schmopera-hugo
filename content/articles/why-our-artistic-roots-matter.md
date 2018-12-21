@@ -1,6 +1,8 @@
----
-title: "Why our artistic roots matter"
----
++++
+categories = "Op-ed"
+slug = /why-our-artistic-roots-matter/
+title = "Why our artistic roots matter"
++++
 
 You've probably noticed how the artistic community has taken up arms over this [most recent scandal](http://www.abc10.com/news/local/lincoln/wells-fargos-new-ad-campaign-upsets-artists/313394967) in a Wells Fargo ad campaign. The implied message that being a dancer, actor, musician, or artist is all fine and good for the extra curricular section of your college application, but an unworthy profession has struck a very negative chord among artistic professionals from Broadway to Hollywood.
 

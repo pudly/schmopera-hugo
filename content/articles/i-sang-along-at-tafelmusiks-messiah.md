@@ -1,6 +1,8 @@
----
-title: "I sang along at Tafelmusik&#039;s Messiah"
----
++++
+categories = "Review"
+slug = /i-sang-along-at-tafelmusiks-messiah/
+title = "I sang along at Tafelmusik&#039;s Messiah"
++++
 
 Sunday, December 21st was 2014's Winter Soltice, and it was an apt day to head over to Massey Hall and hear [Tafelmusik's 28th annual Sing-Along _Messiah_](http://www.tafelmusik.org/concert-calendar/concert/sing-along-messiah-massey-hall). I had actually never been to a Sing-Along _Messiah_, save for the obligatory singing-along of the Hallelujah Chorus at all the other _Messiahs_ I've seen. So it was really neat for me to turn off of Yonge St. and see a crowd of people outside the theatre, plenty of them clutching a Novello edition of Handel's _Messiah_ under their arm. Toronto _Messiah_-goers come prepared. I opted for trusting my memory with the choruses instead, although I'll admit to sneaking a glance at my neighbour's score on a few occasions.
 

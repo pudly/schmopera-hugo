@@ -1,6 +1,8 @@
----
-title: "Feminism &amp; confetti: Atelier&#039;s triple-bill"
----
++++
+categories = "Review"
+slug = /feminism-confetti-ateliers-triplebill/
+title = "Feminism &amp; confetti: Atelier&#039;s triple-bill"
++++
 
 Though the two short operas have been in [Opera Atelier](/scene/companies/opera-atelier/)'s repertory for nearly all of their 33 seasons, Charpentier's *Actéon* and Rameau's *Pygmalion* have been paired together for the first time in the current double-bill at the Elgin Theatre. And it's likely that I was among the many people in the audience who had never seen either opera before, period.
 

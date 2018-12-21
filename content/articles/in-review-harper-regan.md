@@ -1,6 +1,8 @@
----
-title: "In review: Harper Regan"
----
++++
+categories = "Review"
+slug = /in-review-harper-regan/
+title = "In review: Harper Regan"
++++
 
 <p>
 	For a while, I've been itching for a change: I wanted to see more non-musical theatre. Maybe it's because opera lets me hear fantastic singers regularly, but there's rarely a person onstage who started their training in drama, rather than music. I was really thrilled to be able to catch <a href="https://twitter.com/stephenssimon" target="_blank">Simon Stephens</a>' play <a href="https://www.canadianstage.com/Online/" target="_blank"><em>Harper Regan</em> at Canadian Stage</a>, which premiered in 2008 at the Royal National Theatre. I figured it would quell my straight theatre bug, and I was clearly curious to see <a href="http://www.imdb.com/name/nm0662504/" target="_blank">Molly Parker</a> (<em>House of Cards</em>, <em>Deadwood</em>) in the title role. <em>Harper Regan</em> is inspired by the Greek plays surrounding the <a href="http://ancienthistory.about.com/od/houseofatreus/a/houseofatreus.htm" target="_blank">House of Atreus</a>, and the stories of a cursed family. "The lesson the Greeks passed down to us is that consciousness – recognizing and articulating the seed of a problem – can provoke change," writes director <a href="https://www.canadianstage.com/Online/default.asp?doWork::WScontent::loadArticle=Load&amp;BOparam::WScontent::loadArticle::article_id=7C4503FD-70D1-460E-A2F6-006F96045BD8" target="_blank">Matthew Jocelyn</a>in his notes. Harper Regan learns that her father is dying, and after getting denied time off from work to visit him, she decides to secretly leave anyway. She arrives at the hospital too late to see her dad, and spends the leftover time on her illicit trip doing what she can't in front of her family. Jocelyn, who is also the Canadian Stage's Artistic &amp; General Director, says, "Harper adorns a new identity, a leather jacket she steals from a bar, and throws herself into a series of unforeseen encounters which, accumulatively, will enable her to recognise and articulate."

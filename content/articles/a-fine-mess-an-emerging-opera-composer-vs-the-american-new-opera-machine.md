@@ -1,6 +1,8 @@
----
-title: "A fine mess: an emerging opera composer vs. the American new opera machine"
----
++++
+categories = "Op-ed"
+slug = /a-fine-mess-an-emerging-opera-composer-vs-the-american-new-opera-machine/
+title = "A fine mess: an emerging opera composer vs. the American new opera machine"
++++
 
 By the time you read this, I will be nearing the culmination of Fort Worth Opera's ["Frontiers"](http://www.fwopera.org/operas/frontiers/) showcase — a major step into the American new opera scene for an emerging composer. In these essays, I intend to chronicle my experience preparing for, and participating in, this opportunity. As a point of entry, I’ll detail how I got myself into this mess to begin with.
 

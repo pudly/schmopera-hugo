@@ -1,6 +1,8 @@
----
-title: "London Calling"
----
++++
+categories = "Editorial"
+slug = /london-calling/
+title = "London Calling"
++++
 
 Well, readers, after much anticipation and a slight delay, Schmopera has made it to London. It's an amazing thing to be in a city with not only a myriad of opera companies large and small, but great pickings of arts and cultural centres offering up a buffet of musical options.
 

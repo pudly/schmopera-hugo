@@ -1,6 +1,8 @@
----
-title: "Another Opera Apologist (Part 2)"
----
++++
+categories = "Op-ed"
+slug = /another-opera-apologist-part-2/
+title = "Another Opera Apologist (Part 2)"
++++
 
 Because one can’t defend opera without defending all of its porous plots:
 

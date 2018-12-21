@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Sondra Radvanovsky at Koerner Hall"
----
++++
+categories = "News"
+slug = /dont-miss-sondra-radvanovsky-at-koerner-hall/
+title = "Don&#039;t miss: Sondra Radvanovsky at Koerner Hall"
++++
 
 Her performance of Queen Elizabeth I stayed with me a long time after seeing the Canadian Opera Company's 2014 production of [*Roberto Devereux*](/in-review-roberto-devereux/), so Sondra Radvanovsky's upcoming [recital at Toronto's Koerner Hall](http://performance.rcmusic.ca/event/show-one-productions-presentsbrsondra-radvanovsky-recital), presented by Show One Productions, is on my absolutely-do-not-miss list.
 

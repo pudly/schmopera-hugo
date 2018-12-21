@@ -1,6 +1,8 @@
----
-title: "Calgary Opera delivers comedy gold with well-cast Barber"
----
++++
+categories = "Review"
+slug = /calgary-opera-delivers-comedy-gold-with-wellcast-barber/
+title = "Calgary Opera delivers comedy gold with well-cast Barber"
++++
 
 I have a confession to make. Despite my love of opera, the only experience I had with Gioachino Rossini's *The Barber of Seville* was from Saturday mornings watching cartoons.
 

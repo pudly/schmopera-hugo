@@ -1,6 +1,8 @@
----
-title: "Talking with singers: John Holiday"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-john-holiday/
+title = "Talking with singers: John Holiday"
++++
 
 ## Why do you sing professionally?
 

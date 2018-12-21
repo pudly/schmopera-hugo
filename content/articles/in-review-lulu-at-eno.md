@@ -1,6 +1,8 @@
----
-title: "In review: Lulu at ENO"
----
++++
+categories = "Review"
+slug = /in-review-lulu-at-eno/
+title = "In review: Lulu at ENO"
++++
 
 William Kentridge's production of Berg's [*Lulu*](https://www.eno.org/whats-on/lulu/) has made it to [English National Opera](/scene/companies/english-national-opera/), after critically-acclaimed runs in Amsterdam and New York. With his co-director Luc de Wit, and designers Sabine Theunissen, Greta Goiris, Urs Schönebaum, and Catherine Meyburgh, Kentridge's own ink sketches are the inspiration behind the fractured look of this story; he sets *Lulu* in the late 1920s/early 1930s, the look of newspapers and cabaret theatre splitting the stage between the action and a reference to the art of it all.
 

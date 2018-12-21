@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: AtG&#039;s Messiah"
----
++++
+categories = "News"
+slug = /dont-miss-atgs-messiah/
+title = "Don&#039;t miss: AtG&#039;s Messiah"
++++
 
 Readers, if you've been paying attention over the last couple of years, you know that [I'm a big fan](/banff-diaries-a-postlude/) of [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/). They're a good bunch, headed by Artistic Director [Joel Ivany](/scene/people/joel-ivany/) and Music Director [Topher Mokrzewski](/scene/people/christopher-mokrzewski/), and they've been knocking the opera ratings out of the park with productions like [*Death and Desire*](/in-review-death-desire/), [*Pelléas et Mélisande*](/in-review-pelléas-et-mélisande/), and their Mozart/Da Ponte/Ivany trilogy of transladaptations, including *Figaro's Wedding*, [*#UncleJohn*](/unclejohn-the-toronto-story/), and [*A Little Too Cozy*](http://www.thestar.com/entertainment/stage/2015/08/04/against-the-grain-writes-operas-next-chapter.html).
 

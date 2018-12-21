@@ -1,6 +1,8 @@
----
-title: "In review: Bandits in the Valley"
----
++++
+categories = "Review"
+slug = /in-review-bandits-in-the-valley/
+title = "In review: Bandits in the Valley"
++++
 
 Being a hardcore opera fan means being comfortable with the extremes of the spectrum of human emotions; adulterous detentes, accidental infanticide, self-sacrifice, we take them at face value with an unquestioning nod of approval. It's funny though, how we often forget about the joyous end of that emotional spectrum, where smiles come easily and silliness is abundant. Maybe that's why Tapestry Opera's [*Bandits in the Valley*](https://tapestryopera.com/bandits-in-the-valley/) was such a refreshing dose of fun.
 

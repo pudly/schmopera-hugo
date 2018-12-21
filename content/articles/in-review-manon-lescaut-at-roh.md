@@ -1,6 +1,8 @@
----
-title: "In review: Manon Lescaut at ROH"
----
++++
+categories = "Review"
+slug = /in-review-manon-lescaut-at-roh/
+title = "In review: Manon Lescaut at ROH"
++++
 
 *Manon Lescaut*, currently onstage at the Royal Opera House until December 12, was a true showcase of two stunning singers of today. [Sondra Radvanovsky](/talking-with-singers-sondra-radvanovsky/) in the title role, and Aleksandrs Antonenko as Des Grieux were a beautiful, honest pair of singing actors who achieved everything with their voices.
 

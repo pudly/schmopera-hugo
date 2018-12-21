@@ -1,6 +1,8 @@
----
-title: "A fierce mob wife: Rodelinda at ENO"
----
++++
+categories = "Review"
+slug = /a-fierce-mob-wife-rodelinda-at-eno/
+title = "A fierce mob wife: Rodelinda at ENO"
++++
 
 This week in fierce opera women: Handel's [*Rodelinda*](https://www.eno.org/whats-on/rodelinda/) opened at English National Opera last night. While not a total work of feminist theatre, I do like seeing operas from the 18th century where women are shown as strong-willed characters in control of their own destinies and not being controlled by men. In fact, the plot is driven by how much the other characters of the opera need Rodelinda - she, being the queen and mother to the heir of Milan in this modernized production, is in possession of so much political power that the the people around her have to fight for her favor just to stay afloat.
 

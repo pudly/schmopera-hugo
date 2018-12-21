@@ -1,6 +1,8 @@
----
-title: "A singer and her ego"
----
++++
+categories = "Op-ed"
+slug = /a-singer-and-her-ego/
+title = "A singer and her ego"
++++
 
 It's part of the reason that they're called "divas," right? That oversized personality that becomes easily associated with opera singers? Sure, it may be a stereotype, but stereotypes sure do exist for a reason. 
 

@@ -1,6 +1,8 @@
----
-title: "Dillon Parmer &amp; Mozart&#039;s Masonic Journey"
----
++++
+categories = "Interview"
+slug = /dillon-parmer-mozarts-masonic-journey/
+title = "Dillon Parmer &amp; Mozart&#039;s Masonic Journey"
++++
 
 ## Where did your singing journey start and what brought you into opera?
 

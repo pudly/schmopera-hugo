@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Kelsey Vicary"
----
++++
+categories = "Interview"
+slug = /spotlight-on-kelsey-vicary/
+title = "Spotlight on: Kelsey Vicary"
++++
 
 ### Why do you sing, and why are you pursuing it professionally? 
 

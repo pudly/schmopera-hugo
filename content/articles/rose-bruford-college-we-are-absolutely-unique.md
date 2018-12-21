@@ -1,6 +1,8 @@
----
-title: "Rose Bruford College: &quot;We are absolutely unique.&quot;"
----
++++
+categories = "Interview"
+slug = /rose-bruford-college-we-are-absolutely-unique/
+title = "Rose Bruford College: &quot;We are absolutely unique.&quot;"
++++
 
 ## What does the online BA (Hons) Opera Studies programme offer, in comparison with more traditional degrees from conservatories and universities?
 

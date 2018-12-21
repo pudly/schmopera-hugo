@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Lise Lindstrom"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-lise-lindstrom/
+title = "Talking with singers: Lise Lindstrom"
++++
 
 ## Your current roles are full of headstrong women - do you have any of these roles with which you have a particular connection?
 

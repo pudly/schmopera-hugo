@@ -1,6 +1,8 @@
----
-title: "A must-watch: The Creation on film"
----
++++
+categories = "News"
+slug = /a-mustwatch-the-creation-on-film/
+title = "A must-watch: The Creation on film"
++++
 
 If you're suffering from a bit of overdose on Handel's *Messiah* or Bach's *Christmas Oratorio*, [Rambert](http://www.rambert.org.uk/home/) has a well-timed offering of something a little different. 
 

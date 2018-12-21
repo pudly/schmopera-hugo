@@ -1,6 +1,8 @@
----
-title: "In review: Bryn Terfel at Koerner Hall"
----
++++
+categories = "Review"
+slug = /in-review-bryn-terfel-at-koerner-hall/
+title = "In review: Bryn Terfel at Koerner Hall"
++++
 
 It's only fair you know before we begin that Bryn Terfel is one of my absolute favourite singers. Seriously. I've had these tickets for over a year. He's an Elder God in my baritone pantheon, his headshot became my Facebook profile picture the last time I heard him, and I wouldn't be surprised if he's somehow descended from Orpheus himself. I'm a fanboy. Hashtag fanboy. So with that out of the way...
 

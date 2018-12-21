@@ -1,6 +1,8 @@
----
-title: "The number one financial thing I wish everyone would know"
----
++++
+categories = "Op-ed"
+slug = /the-number-one-financial-thing-i-wish-everyone-would-know/
+title = "The number one financial thing I wish everyone would know"
++++
 
 I love personal finance. 
 

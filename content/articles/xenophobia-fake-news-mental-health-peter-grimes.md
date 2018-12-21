@@ -1,6 +1,8 @@
----
-title: "Xenophobia, Fake News, &amp; Mental Health: Peter Grimes"
----
++++
+categories = "Review"
+slug = /xenophobia-fake-news-mental-health-peter-grimes/
+title = "Xenophobia, Fake News, &amp; Mental Health: Peter Grimes"
++++
 
 [*Peter Grimes*](http://www.oper-frankfurt.de/en/season-calendar/peter-grimes/?id_datum=999) opened at [Oper Frankfurt](/scene/companies/oper-frankfurt/) last night in a new production by British director Keith Warner. Britten's opera is at once highly specific and highly universal in its exploration of the pain of being ostracized, shunned, or misunderstood, and of the damaging and irreversible results of spreading uninformed rumours and fake news. Oper Frankfurt offers a gloomy and powerful production at a time when we are all so used to being surrounded with blame and fear mongering, and mental health issues are running high and exacerbated by social pressures to conform. Warner's Grimes is far from blameless, mirroring the ambiguity around an attitude that welcomes outsiders when those outsiders pose a perceived threat. For a German audience that is still adjusting to the arrival of a million Syrian refugees in the wake of the 2015 migrant crisis and whose dark history of unfounded scapegoating still looms large, this *Peter Grimes* struck a resounding chord. 
 

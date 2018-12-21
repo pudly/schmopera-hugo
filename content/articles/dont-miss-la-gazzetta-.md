@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: La gazzetta "
----
++++
+categories = "Interview"
+slug = /dont-miss-la-gazzetta-/
+title = "Don&#039;t miss: La gazzetta "
++++
 
 ### Why do you think *La gazzetta* did not see the popularity of some of Rossini's other opera buffas, like *Il barbiere di Siviglia* or *La cenerentola*?
 

@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Hannah De Priest"
----
++++
+categories = "Interview"
+slug = /spotlight-on-hannah-de-priest/
+title = "Spotlight on: Hannah De Priest"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

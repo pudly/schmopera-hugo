@@ -1,6 +1,8 @@
----
-title: "Vibrato: all the reasons why"
----
++++
+categories = "How-to"
+slug = /vibrato-all-the-reasons-why/
+title = "Vibrato: all the reasons why"
++++
 
 ## Don José's aria
 

@@ -1,6 +1,8 @@
----
-title: "The Opera Workout"
----
++++
+categories = "Humour"
+slug = /the-opera-workout/
+title = "The Opera Workout"
++++
 
 I like to start off with something super famous, guaranteed to get you into your own little musical fantasy world where you can hopefully ignore the fact that you're working out:
 

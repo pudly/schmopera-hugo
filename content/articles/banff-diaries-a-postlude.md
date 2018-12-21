@@ -1,6 +1,8 @@
----
-title: "Banff Diaries: a postlude"
----
++++
+categories = "Editorial"
+slug = /banff-diaries-a-postlude/
+title = "Banff Diaries: a postlude"
++++
 
 [The Banff Centre](/scene/companies/the-banff-centre/)'s motto is "Inspiring Creativity," and that's not an empty statement. There really is something about Banff that allows even the most hardened city folks to breathe and slow down on this life thing. The Banff Centre is designed to allow artists to truly focus on creating; they do this by providing comfortable living spaces (with housekeeping, or #icingonthecake), three great meals a day, easily accessible rehearsal rooms and studios, and free access to hundreds of top-notch concerts and events happening across the campus-like Centre. I mean, *come on*.
 

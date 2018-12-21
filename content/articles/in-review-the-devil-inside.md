@@ -1,6 +1,8 @@
----
-title: "In review: The Devil Inside"
----
++++
+categories = "Review"
+slug = /in-review-the-devil-inside/
+title = "In review: The Devil Inside"
++++
 
 Thursday night at The Harbourfront Centre was the place to be. [Tapestry Opera](/scene/companies/tapestry-opera/) brought in their friends Scottish Opera to present *The Devil Inside* (libretto by Louise Welsh, music by Stuart MacRae), a distinctly modern take on Robert Louis Stevenson's "The Bottle Imp".
 

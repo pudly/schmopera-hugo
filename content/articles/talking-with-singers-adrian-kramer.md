@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Adrian Kramer"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-adrian-kramer/
+title = "Talking with singers: Adrian Kramer"
++++
 
 <h2>What do you call good singing?</h2>
 <p>

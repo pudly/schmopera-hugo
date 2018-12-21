@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: The Chocolate Soldier"
----
++++
+categories = "Review"
+slug = /dont-miss-the-chocolate-soldier/
+title = "Don&#039;t miss: The Chocolate Soldier"
++++
 
 Running until **April 30**, Oscar Straus' [*The Chocolate Soldier*](http://www.torontooperetta.com/shows.html) is the latest offering of beautiful tunes and charming humour from [Toronto Operetta Theatre](/scene/companies/toronto-operetta-theatre/). With lots of soul from the pit, Peter Tiefenbach leads singers and orchestra through the operetta based on the play by George Bernard Shaw, with a score full of next-door exoticism befitting of a tale set in 19th-century Bulgaria.
 

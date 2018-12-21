@@ -1,6 +1,8 @@
----
-title: "He said/she said: Mozart&#039;s Requiem at TSO"
----
++++
+categories = "Review"
+slug = /he-saidshe-said-mozarts-requiem-at-tso/
+title = "He said/she said: Mozart&#039;s Requiem at TSO"
++++
 
 **Greg Finney**: The Toronto Symphony Orchestra gave a wonderful show last night. They've teamed up with the hottest director in classical music right now, my friend and colleague Joel Ivany, to present a semi-staged performance of Mozart's *Requiem*. The innovator of staging oratorio with his *Messiah* in 2013 and this past holiday season, Ivany made sure this *Requiem* was not your usual lamentation over the loss of a life, but the approach seemed to be more of a celebration of the time spent with a loved one you've lost. There was a peace and a serenity to the whole thing. It gave some of the more fiery movements (here's looking at you, "Dies irae") less of a feel of condemnation, and more of an urgency and zeal.
 

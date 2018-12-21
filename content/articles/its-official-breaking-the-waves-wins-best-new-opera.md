@@ -1,6 +1,8 @@
----
-title: "It&#039;s official: Breaking the Waves wins Best New Opera"
----
++++
+categories = "Interview"
+slug = /its-official-breaking-the-waves-wins-best-new-opera/
+title = "It&#039;s official: Breaking the Waves wins Best New Opera"
++++
 
 ## What stood out about *Breaking the Waves*, in order to earn this inaugural Best New Opera award?
 

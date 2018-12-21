@@ -1,6 +1,8 @@
----
-title: "In review: Fidelio &amp; other first operas"
----
++++
+categories = "Editorial"
+slug = /in-review-fidelio-other-first-operas/
+title = "In review: Fidelio &amp; other first operas"
++++
 
 Hopefully, we're not the only opera fans that feel a vague sensation of riding an emotional rollercoaster when we hear Beethoven's *Fidelio*. On the one hand, the jabs and swells and surprises in that infamous [overture](https://en.wikipedia.org/wiki/Fidelio#The_overtures_to_Fidelio) prove that there's a reason Beethoven is a household name; when it comes to writing exciting music, Ludwig knows what's up. 
 

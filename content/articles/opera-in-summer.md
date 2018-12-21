@@ -1,6 +1,8 @@
----
-title: "Opera in Summer"
----
++++
+categories = "Op-ed"
+slug = /opera-in-summer/
+title = "Opera in Summer"
++++
 
 We're nearing the end of Summer Program Season, people. As a veteran of SPs myself, I always wonder about the young folks that went to [OperaNUOVA](http://www.operanuova.ca/) or [COSI](http://www.co-si.com/) or [COAA](http://www.music.uwo.ca/students/non_degree/academies/coaa_aedo.html#coaa)[/AEDO](http://www.music.uwo.ca/students/non_degree/academies/coaa_aedo.html#aedo) or the [Halifax Summer Opera Festival](http://halifaxsummeroperafestival.com/) or [St. Andrews-by-the-Sea](http://www.standrewsartscouncil.nb.ca/opera.htm) or any of those Canadian summer staples. I wonder which of the singers had one of those "aha!" lessons with a new teacher, or performed their first major role in an opera, or found out they were really into Alexander Technique. I wonder about the pianists who might have worked on their very first opera, and if they got along with their conductor and learned the art of turning ten fingers into an orchestra. I wonder if they realized that not all singers are stupid, that some of them are downright awesome.
 

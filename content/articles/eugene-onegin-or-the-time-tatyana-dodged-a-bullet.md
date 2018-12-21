@@ -1,6 +1,8 @@
----
-title: "Eugene Onegin, or the time Tatyana dodged a bullet"
----
++++
+categories = "Review"
+slug = /eugene-onegin-or-the-time-tatyana-dodged-a-bullet/
+title = "Eugene Onegin, or the time Tatyana dodged a bullet"
++++
 
 [*Eugene Onegin*](https://www.coc.ca/productions/16460) opened its month-long run at the Canadian Opera Company on a crisp afternoon that seemed to match the cool reservation of Tchaikovsky's opera. The production by director Robert Carsen and designer Michael Levine - an arresting display of minimalist storytelling - seemed to offer up a polarising mix of opera. On one stage, we saw what makes opera utterly compelling, and what makes it fall limp.
 

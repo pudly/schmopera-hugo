@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Jennifer Rowley"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-jennifer-rowley/
+title = "Talking with singers: Jennifer Rowley"
++++
 
 ## What kind of woman is Floria Tosca? Do you find there are any common misconceptions about her character?
 

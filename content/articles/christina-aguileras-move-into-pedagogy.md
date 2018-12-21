@@ -1,6 +1,8 @@
----
-title: "Christina Aguilera&#039;s move into pedagogy"
----
++++
+categories = "How-to"
+slug = /christina-aguileras-move-into-pedagogy/
+title = "Christina Aguilera&#039;s move into pedagogy"
++++
 
 In one of the more odd developments since [Miranda Sings](https://www.youtube.com/user/mirandasings08) (but less funny), Christina Aguilera has taken to giving vocal masterclasses.
 

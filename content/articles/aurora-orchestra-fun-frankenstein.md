@@ -1,6 +1,8 @@
----
-title: "Aurora Orchestra, fun, &amp; Frankenstein!!"
----
++++
+categories = "Review"
+slug = /aurora-orchestra-fun-frankenstein/
+title = "Aurora Orchestra, fun, &amp; Frankenstein!!"
++++
 
 Somehow, it wasn't until this past weekend that we experienced the surreal magic that is Heinz Karl Grüber's *Frankenstein!!*. Grüber's "pan-demonium" for chansonnier and orchestra fit in beautifully with [Aurora Orchestra](/scene/companies/aurora-orchestra/)'s [*Playing with Fire*](http://www.auroraorchestra.com/event/playing-with-fire/) programme at Royal Festival Hall, which was inspired by the story of Prometheus. *Frankenstein!!* was book-ended by two work of Beethoven's, his *The Creatures of Prometheus*, Op. 43, and a memorised (!) performance of his Symphony no. 5, Op. 67. The Aurora Orchestra played to a compact audience, packed into the choral pews on the stage of the RFH; an original film commissioned by Stanton Media was projected on a screen behind the performers to add to the eerie, risky vibe of the evening.
 

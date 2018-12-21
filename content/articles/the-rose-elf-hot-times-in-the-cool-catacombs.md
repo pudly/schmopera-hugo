@@ -1,6 +1,8 @@
----
-title: "The Rose Elf: Hot Times In The Cool Catacombs"
----
++++
+categories = "Review"
+slug = /the-rose-elf-hot-times-in-the-cool-catacombs/
+title = "The Rose Elf: Hot Times In The Cool Catacombs"
++++
 
 The hot and exotic topic concerning the world premiere of *The Rose Elf*, David Hertzberg’s disturbingly romantic opera, and the entire series, *The Angel's Share*, has been the setting - the cool and austere Catacombs of Green-Wood Cemetery. Created at a time when the fear of being buried alive still lingered, it is a dark and somber sanctuary located in Brooklyn. One walks into this interment area, built in the 1850's, through an ornate entrance in the side of a large and sloping hill.
 

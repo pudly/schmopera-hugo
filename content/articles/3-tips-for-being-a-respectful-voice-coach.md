@@ -1,6 +1,8 @@
----
-title: "3 tips for being a respectful voice coach"
----
++++
+categories = "How-to"
+slug = /3-tips-for-being-a-respectful-voice-coach/
+title = "3 tips for being a respectful voice coach"
++++
 
 ## Keep your words neutral
 

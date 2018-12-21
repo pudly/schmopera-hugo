@@ -1,6 +1,8 @@
----
-title: "&quot;We took a real chance with Great Scott.&quot;"
----
++++
+categories = "Review"
+slug = /we-took-a-real-chance-with-great-scott/
+title = "&quot;We took a real chance with Great Scott.&quot;"
++++
 
 "There are so many dark stories out there today for new operas," says American composer Jake Heggie, "that to hear people laughing riotously and having a great time in the opera house is really wonderful and refreshing." Heggie is speaking of his opera with librettist Terrence McNally, *Great Scott*, which this year sees the [recording release its world premiere performance](http://www.warnerclassics.com/shop/3252560,0190295940782/joyce-didonato-great-scott) in October, 2015, at [The Dallas Opera](/scene/companies/the-dallas-opera/)'s Winspear Opera House.
 

@@ -1,6 +1,8 @@
----
-title: "Mutiny at the Met?"
----
++++
+categories = "Op-ed"
+slug = /mutiny-at-the-met/
+title = "Mutiny at the Met?"
++++
 
 "We are willing to tighten our belts if Peter Gelb is willing to cut up his credit cards," [says Joe Hartnett of IATSE](http://www.burlington-record.com/burlington-sports/ci_26215053/lockout-looms-met-contracts-set-expire). "It's more than just our labor costs that's the problem."
 

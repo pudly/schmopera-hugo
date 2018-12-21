@@ -1,6 +1,8 @@
----
-title: "&quot;Veggies in the morning, and melodies throughout the day&quot;"
----
++++
+categories = "Interview"
+slug = /veggies-in-the-morning-and-melodies-throughout-the-day/
+title = "&quot;Veggies in the morning, and melodies throughout the day&quot;"
++++
 
 When composer Edward Thomas needed a librettist for his opera based on the Eugene O'Neill play *Desire Under the Elms*, he did the sensible thing: he looked in the newspaper and in the phone book. (This was 1987 when people still used such things.) In the newspaper he observed that Joe Masteroff was enjoying a revival of his great musical *Cabaret* (for which he wrote the book) so Mr. Thomas simply looked up Mr. Masteroff's number and called him. Thus was born a collaboration that produced a musical and two operas.
 

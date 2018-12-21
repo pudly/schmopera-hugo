@@ -1,6 +1,7 @@
----
-title: "Is technology making it harder to tell stories?"
----
++++
+slug = /is-technology-making-it-harder-to-tell-stories/
+title = "Is technology making it harder to tell stories?"
++++
 
 I was listening to a filmmaker, Harmony Korine (*Spring Breakers*, *Kids*) talk about coming up with original stories, and he made one interesting point about why it seems more and more difficult: technology is taking away the opportunity for drama.
 

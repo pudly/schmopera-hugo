@@ -1,6 +1,8 @@
----
-title: "At the podium: Jordan de Souza"
----
++++
+categories = "Interview"
+slug = /at-the-podium-jordan-de-souza/
+title = "At the podium: Jordan de Souza"
++++
 
 ## Do you feel hype or pressure for your performances of Figaro at the COC?
 

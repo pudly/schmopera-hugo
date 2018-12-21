@@ -1,6 +1,8 @@
----
-title: "Teaching in the Arctic: 5 things that one singer learned"
----
++++
+categories = "Op-ed"
+slug = /teaching-in-the-arctic-5-things-that-one-singer-learned/
+title = "Teaching in the Arctic: 5 things that one singer learned"
++++
 
 Hi, I'm Gwenna!  I'm a soprano and a recent UofTOpera graduate, among other things. I love singing - it's when I feel most like myself. Opera is my favourite. I also think teaching people about music is vitally important.  So I do both, even though I'm still figuring out how to balance it all.
 

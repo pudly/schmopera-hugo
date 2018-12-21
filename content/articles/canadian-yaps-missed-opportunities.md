@@ -1,6 +1,8 @@
----
-title: "Canadian YAPs &amp; missed opportunities"
----
++++
+categories = "Review"
+slug = /canadian-yaps-missed-opportunities/
+title = "Canadian YAPs &amp; missed opportunities"
++++
 
 Each year, the young artists of the [Canadian Opera Company Ensemble Studio](/scene/companies/canadian-opera-company-ensemble-studio/) head to Montréal to visit their operatic counterparts at the [l'Atelier lyrique de l'Opéra de Montréal](/scene/companies/latelier-lyrique-de-lopera-de-montreal/), and the singers of the Atelier return the favour with a trip to Toronto. In both cities, a week of work with the musical and artistic staff at the COC and l'OdeM culminates in a collaborative recital; here in Toronto, the young artists offered up arias and operatic scenes as part of the Free Concert Series in the Four Seasons Centre's Richard Bradshaw Amphitheatre.
 

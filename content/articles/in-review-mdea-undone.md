@@ -1,6 +1,8 @@
----
-title: "In review: M&#039;dea Undone"
----
++++
+categories = "Review"
+slug = /in-review-mdea-undone/
+title = "In review: M&#039;dea Undone"
++++
 
 **Jenna**: I went with Greg last night to see *M'dea Undone*, Tapestry Opera's much-anticipated world premiere by composer John Harris and librettist Marjorie Chan. The short version of this review is that I loved, loved it, and it was one of the most integrated nights out at the opera I'd experienced. It's hard to pull one element apart from another in order to write cohesively about it, but I'll try.
 

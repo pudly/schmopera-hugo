@@ -1,6 +1,8 @@
----
-title: "The voice teacher series: Edith Wiens"
----
++++
+categories = "Interview"
+slug = /the-voice-teacher-series-edith-wiens/
+title = "The voice teacher series: Edith Wiens"
++++
 
 ## What do you enjoy most about teaching voice?
 

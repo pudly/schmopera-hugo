@@ -1,6 +1,8 @@
----
-title: "Michael Tilson Thomas takes on Ruggles: Mozart &amp; Mahler"
----
++++
+categories = "Review"
+slug = /michael-tilson-thomas-takes-on-ruggles-mozart-mahler/
+title = "Michael Tilson Thomas takes on Ruggles: Mozart &amp; Mahler"
++++
 
 Michael Tilson Thomas, an effective communicator whether with baton or microphone in hand, opened the final concert of the MET Orchestra's series at Carnegie Hall, with fascinating comments on the American composer, Carl Ruggles, who was both an iconoclastic and remote personality.  Thomas knew Ruggles as well as anyone could get to know this feisty Yankee, prone to being stubborn, cranky and downright disagreeable. Nonetheless, Thomas championed Ruggles, recording his complete music with the Buffalo Philharmonic and including his works with some frequency on programs in San Francisco. Despite his disposition, Ruggles earned the respect of Thomas and many other creative people including composer, Charles Ives and the artist, Thomas Hart Benton, who painted his portrait.
 

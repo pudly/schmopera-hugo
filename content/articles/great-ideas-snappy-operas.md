@@ -1,6 +1,8 @@
----
-title: "Great ideas: Snappy Operas"
----
++++
+categories = "Editorial"
+slug = /great-ideas-snappy-operas/
+title = "Great ideas: Snappy Operas"
++++
 
 [Mahogany Opera Group](/scene/companies/mahogany-opera-group/) has launched its ambitious *Snappy Operas* project, which gives young people the chance to work with composers and librettists to develop a series of ten new ten-minute operas. Headed by Artistic Director [Frederic Wake-Walker](http://www.mahoganyoperagroup.co.uk/productions/snappy-operas/company/frederic-wake-walker/), *Snappy Operas* has a multi-year timeline, and Mahogany will team up with ten partnering organizations, including theatres and music education hubs, to work with over 1500 kids across the United Kingdom. Wake-Walker is working with writer Toby Litt, and composers like Errollyn Wallen, Luke Styles, Gwyneth Herbert, and Luke Carver Goss.
 

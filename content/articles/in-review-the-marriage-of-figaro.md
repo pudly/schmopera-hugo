@@ -1,6 +1,8 @@
----
-title: "In review: The Marriage of Figaro"
----
++++
+categories = "Review"
+slug = /in-review-the-marriage-of-figaro/
+title = "In review: The Marriage of Figaro"
++++
 
 Mozart's *The Marriage of Figaro* is up and running at the [Canadian Opera Company](/scene/companies/canadian-opera-company/), pairing the curiosity over Claus Guth's Ingmar Bergman-inspired production with the anticipation of a cast full of top-notch singers, which includes a big nod to Canadian talent. The comedy in Mozart's masterpiece isn't lost on Guth, but he makes a strong focal point out of psychoanalyzing the characters, exploring how they perceive their relationships with each other, and how they deal with any emotion related to lust.
 

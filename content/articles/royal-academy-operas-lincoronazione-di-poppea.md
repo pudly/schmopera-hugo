@@ -1,6 +1,8 @@
----
-title: "Royal Academy Opera&#039;s L&#039;incoronazione di Poppea"
----
++++
+categories = "Review"
+slug = /royal-academy-operas-lincoronazione-di-poppea/
+title = "Royal Academy Opera&#039;s L&#039;incoronazione di Poppea"
++++
 
 The Royal Academy Opera just finished its performances of Monteverdi's *L'incoronazione di Poppea* this weekend, at Shoreditch Town Hall in London. It was a great reminder that, while Monteverdi's music is by no means "entry level opera", it's a fantastic pick for young singers honing their operatic skills.
 

@@ -1,6 +1,8 @@
----
-title: "Love opera? Love stats? Look at this."
----
++++
+categories = "Editorial"
+slug = /love-opera-love-stats-look-at-this/
+title = "Love opera? Love stats? Look at this."
++++
 
 I made a [pretty neat find](http://opera.wolftrap.org/for-artists/audition-resources/) over at Wolf Trap Opera's website, which has a great section on audition resources. WTO has [collected stats](http://opera.wolftrap.org/for-artists/audition-resources/) on the auditions they've heard over the last four seasons, and which arias are sung the most. 
 

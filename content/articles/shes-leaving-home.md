@@ -1,6 +1,8 @@
----
-title: "She&#039;s leaving home"
----
++++
+categories = "Op-ed"
+slug = /shes-leaving-home/
+title = "She&#039;s leaving home"
++++
 
 Last week I was sitting in Roy Thomson Hall, listening to the TSO play Mozart's *Requiem*, and taking in Joel Ivany's subtle and inclusive staging; one visual constant in this *Requiem* was the use of white index cards, which in the context of this piece about death and grieving, held the names of people that had been lost. Somewhere around the "Benedictus", I remembered the fleeting confusion I had when I was given my programme, along with a blank white card. I'm not sure why it took me until mid-way through the piece to really put that together, but when I did, my reaction surprised me. The inclusive gesture of giving me, little old me, an index card of my own felt so touching; on top of the overwhelming music and beautiful artists, this blank white card was a sort of straw that broke the camel's back of tugging at my heartstrings.
 

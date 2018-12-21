@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Shoestring Opera&#039;s Hansel &amp; Gretel"
----
++++
+categories = "Interview"
+slug = /dont-miss-shoestring-operas-hansel-gretel/
+title = "Don&#039;t miss: Shoestring Opera&#039;s Hansel &amp; Gretel"
++++
 
 ## How have you adapted your *Hansel and Gretel* to better suit a younger audience?
 

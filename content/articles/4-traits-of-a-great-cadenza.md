@@ -1,6 +1,8 @@
----
-title: "4 traits of a great cadenza"
----
++++
+categories = "How-to"
+slug = /4-traits-of-a-great-cadenza/
+title = "4 traits of a great cadenza"
++++
 
 ## It's got rhythm
 

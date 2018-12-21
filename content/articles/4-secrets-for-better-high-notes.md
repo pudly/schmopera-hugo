@@ -1,6 +1,8 @@
----
-title: "4 secrets for better high notes"
----
++++
+categories = "How-to"
+slug = /4-secrets-for-better-high-notes/
+title = "4 secrets for better high notes"
++++
 
 ### Start early
 

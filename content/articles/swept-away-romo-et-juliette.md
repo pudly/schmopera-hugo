@@ -1,6 +1,8 @@
----
-title: "Swept away: Roméo et Juliette"
----
++++
+categories = "Review"
+slug = /swept-away-romo-et-juliette/
+title = "Swept away: Roméo et Juliette"
++++
 
 Having spent the better part of the weekend binging the latest season of *Anne with an E*, Netflix's big-hearted adaptation of the classic Anne of Green Gables novels, I arrived at Wolf Trap on Sunday afternoon fully prepared to be swept away by what Anne Shirley would longingly call "a tragical romance."
 

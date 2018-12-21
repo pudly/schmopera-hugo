@@ -1,6 +1,8 @@
----
-title: "Fierce recitals: Karita Mattila at Wigmore Hall"
----
++++
+categories = "Review"
+slug = /fierce-recitals-karita-mattila-at-wigmore-hall/
+title = "Fierce recitals: Karita Mattila at Wigmore Hall"
++++
 
 When [Karita Mattila](/scene/people/karita-mattila/) came bursting through the stage door of Wigmore Hall on Saturday night, we could tell we were in for something truly special. It's been said that people form an impression of a performer within the first seven seconds of seeing them, and Mattila certainly made a big impression. As she sang the first songs on her program, Brahms' *Zigeunerlieder*, the stage was overtaken with a fire that had us on the edge of our seats. This wasn’t going to be your grandma's Art Song Recital.
 

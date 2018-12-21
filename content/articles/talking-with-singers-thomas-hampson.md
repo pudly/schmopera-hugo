@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Thomas Hampson"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-thomas-hampson/
+title = "Talking with singers: Thomas Hampson"
++++
 
 "Nude was always off the table," says Thomas Hampson of the much-anticipated love scene he would stage as the title role in Rufus Wainwright's second opera, *Hadrian*. "There were various contemplations of clad and unclad, for both of us." For all the experience in Hampson's career - three decades, over 80 roles, and 170 recordings - a homosexual love scene was a first for the famed baritone.
 

@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Hailey Clark"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-hailey-clark/
+title = "Talking with singers: Hailey Clark"
++++
 
 ## Why do you sing professionally?
 

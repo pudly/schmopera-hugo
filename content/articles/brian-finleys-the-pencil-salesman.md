@@ -1,6 +1,8 @@
----
-title: "Brian Finley&#039;s The Pencil Salesman"
----
++++
+categories = "Interview"
+slug = /brian-finleys-the-pencil-salesman/
+title = "Brian Finley&#039;s The Pencil Salesman"
++++
 
 ## What does *The Pencil Salesman* have to say about change, and how people react to it?
 

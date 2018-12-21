@@ -1,6 +1,8 @@
----
-title: "Opera &amp; Song(Fest) team up in LA"
----
++++
+categories = "News"
+slug = /opera-songfest-team-up-in-la/
+title = "Opera &amp; Song(Fest) team up in LA"
++++
 
 Ahead of its 23rd season, [SongFest](http://www.songfest.us/) announces a new collaboration with LA Opera, launching the Marc & Eva Stern SongFest-Los Angeles Opera Fellowship Program.
 

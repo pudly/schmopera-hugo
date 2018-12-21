@@ -1,6 +1,8 @@
----
-title: "Young singers in Santa Fe: Jessica E. Jones"
----
++++
+categories = "Interview"
+slug = /young-singers-in-santa-fe-jessica-e-jones/
+title = "Young singers in Santa Fe: Jessica E. Jones"
++++
 
 ## Can you describe a day in the life of an apprentice singer at Santa Fe Opera?
 

@@ -1,6 +1,8 @@
----
-title: "Theatre company responsible for Canadian singer&#039;s death goes bankrupt"
----
++++
+categories = "Op-ed"
+slug = /theatre-company-responsible-for-canadian-singers-death-goes-bankrupt/
+title = "Theatre company responsible for Canadian singer&#039;s death goes bankrupt"
++++
 
 >"It's nice to have some closure." - Robbie Fenton, cast member who survived the crash.
 

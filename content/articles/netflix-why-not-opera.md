@@ -1,6 +1,8 @@
----
-title: "Netflix: Why Not Opera?"
----
++++
+categories = "Op-ed"
+slug = /netflix-why-not-opera/
+title = "Netflix: Why Not Opera?"
++++
 
 It's a fair question, isn't it? I mean, anyone who's into opera and classical music knows that the [Internet is not our friend](/online-music-is-obscuring-opera/). While there's always trusty YouTube to the rescue when you've got an urge to watch [that old Met Gala](https://www.youtube.com/watch?v=IDEOaz8v54Q&list=PL67AC3AA6E9D76C48), or Jonas Kaufmann is anything at all. But wouldn't it be _amazing_ to be able to browse an opera collection of old and new broadcasts? Especially the new. Plenty of companies broadcast or stream live performances; imagine if they all became available to watch on Netflix?
 

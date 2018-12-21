@@ -1,6 +1,8 @@
----
-title: "In review: Jamie Barton at Wigmore Hall"
----
++++
+categories = "Review"
+slug = /in-review-jamie-barton-at-wigmore-hall/
+title = "In review: Jamie Barton at Wigmore Hall"
++++
 
 Mezzo-soprano [Jamie Barton](/talking-with-singers-jamie-barton/) and pianist [James Baillieu](/scene/people/james-baillieu/) certainly know how to begin a recital at Wigmore Hall, filling it with the warm, bold sounds of Joaquín Turina's *Homenaje a Lope de Vega*. Barton's first phrase was nothing short of gorgeous (and ballsy to boot).
 

@@ -1,6 +1,8 @@
----
-title: "Talking with Singers: David Cangelosi"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-david-cangelosi/
+title = "Talking with Singers: David Cangelosi"
++++
 
 
 

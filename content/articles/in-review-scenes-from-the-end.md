@@ -1,6 +1,8 @@
----
-title: "In review: Scenes from the End"
----
++++
+categories = "Review"
+slug = /in-review-scenes-from-the-end/
+title = "In review: Scenes from the End"
++++
 
 Watching Héloïse Werner perform *Scenes from the End*, a one-woman opera composed by Jonathan Woolgar and brilliantly directed by Emily Burns, was something we'd been anticipating for some time now. After going up at the Camden and Edinburgh Fringe Festivals, [*Scenes from the End*](https://www.tristanbatestheatre.co.uk/whats-on/scenes-from-the-end) has kicked off its London run, playing at the [Tristan Bates Theatre until December 10.](https://www.tristanbatestheatre.co.uk/whats-on/scenes-from-the-end)
 

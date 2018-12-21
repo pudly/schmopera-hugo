@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Nahuel Di Pierro"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-nahuel-di-pierro/
+title = "Talking with singers: Nahuel Di Pierro"
++++
 
 ## Why do you sing professionally?
 

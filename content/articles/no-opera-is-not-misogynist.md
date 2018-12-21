@@ -1,6 +1,8 @@
----
-title: "No, opera is not misogynist"
----
++++
+categories = "Editorial"
+slug = /no-opera-is-not-misogynist/
+title = "No, opera is not misogynist"
++++
 
 "How can I love an artform that is so consistently, insistently cruel to its female characters?" asked Charlotte Higgins in her article for *The Guardian*, ["Is opera the most misogynistic art form?"](https://www.theguardian.com/music/2016/feb/26/is-opera-the-most-misogynistic-art-form) 
 

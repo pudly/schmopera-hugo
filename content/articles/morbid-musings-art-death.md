@@ -1,6 +1,8 @@
----
-title: "Morbid musings: art &amp; death"
----
++++
+categories = "Editorial"
+slug = /morbid-musings-art-death/
+title = "Morbid musings: art &amp; death"
++++
 
 How about some morbidity to kick off the weekend, readers?
 

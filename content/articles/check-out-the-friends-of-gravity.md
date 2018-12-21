@@ -1,6 +1,8 @@
----
-title: "Check out: The Friends of Gravity"
----
++++
+categories = "Interview"
+slug = /check-out-the-friends-of-gravity/
+title = "Check out: The Friends of Gravity"
++++
 
 ### 1. What is the mission behind The Friends of Gravity?
 

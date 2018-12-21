@@ -1,6 +1,8 @@
----
-title: "Pregnant opera characters"
----
++++
+categories = "Humour"
+slug = /pregnant-opera-characters/
+title = "Pregnant opera characters"
++++
 
 ## funny
 

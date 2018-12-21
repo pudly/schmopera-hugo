@@ -1,6 +1,8 @@
----
-title: "Talking with directors: Jennifer Williams"
----
++++
+categories = "Interview"
+slug = /talking-with-directors-jennifer-williams/
+title = "Talking with directors: Jennifer Williams"
++++
 
 ## What do you think is the role of the director in opera?
 

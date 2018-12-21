@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Esprit Orchestra presents m&#039;M"
----
++++
+categories = "News"
+slug = /dont-miss-esprit-orchestra-presents-mm/
+title = "Don&#039;t miss: Esprit Orchestra presents m&#039;M"
++++
 
 The Esprit Orchestra's programme for its second concert of the season is essentially one attention-grabbing piece after another. 
 

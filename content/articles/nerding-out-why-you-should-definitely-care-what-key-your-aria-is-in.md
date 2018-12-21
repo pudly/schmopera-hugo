@@ -1,6 +1,8 @@
----
-title: "Nerding out: why you should definitely care what key your aria is in"
----
++++
+categories = "How-to"
+slug = /nerding-out-why-you-should-definitely-care-what-key-your-aria-is-in/
+title = "Nerding out: why you should definitely care what key your aria is in"
++++
 
 Singers, how closely do you pay attention to the key signature of the arias you sing? You know how to read music, of course - but that's not why I ask. Turns out, there can be a fascinating dramatic significance to the key in which an aria is written. 
 

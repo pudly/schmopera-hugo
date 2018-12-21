@@ -1,6 +1,8 @@
----
-title: "Lovely lunches: the COC Ensemble Studio in recital"
----
++++
+categories = "Review"
+slug = /lovely-lunches-the-coc-ensemble-studio-in-recital/
+title = "Lovely lunches: the COC Ensemble Studio in recital"
++++
 
 Tuesday's lunchtime recital in the Richard Bradshaw Amphitheatre featured four members of the [Canadian Opera Company's Ensemble Studio](/scene/companies/canadian-opera-company-ensemble-studio/), performing two dense sets of songs; the bigger picture seemed a really personal glance at mezzo-soprano [Lauren Eberwein](/scene/people/lauren-eberwein/), soprano [Danika Lorèn](/scene/people/danika-loren/), and pianists [Hyejin Kwon](/scene/people/hyejin-kwon/) and [Stéphane Mayer](/scene/people/stephane-mayer/).
 

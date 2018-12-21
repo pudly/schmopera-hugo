@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Neil Craighead"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-neil-craighead/
+title = "Talking with singers: Neil Craighead"
++++
 
 Among the paths taken by young Canadian opera singers, bass-baritone [Neil Craighead](/scene/people/neil-craighead/)'s was one of the most coveted. "I was extremely fortunate," he says of his quick transition from an undergraduate degree at the University of British Columbia, to Opera NUOVA - a rite-of-passage Canadian summer opera program - and beginning four influential years as a member of the Canadian Opera Company's Ensemble Studio program. 
 

@@ -1,6 +1,8 @@
----
-title: "Cautiously aspirational: Book of Dreams"
----
++++
+categories = "Review"
+slug = /cautiously-aspirational-book-of-dreams/
+title = "Cautiously aspirational: Book of Dreams"
++++
 
 A blinded wanderer chained to the earth navigates a desolate landscape. No humans in sight. Chafed, he claws his way onto a mound of sand in an expansive, bleached desert. A menacing haze of sound builds, builds, into a diffuse burst. Momentary quiet. Rustling. The din emerges again. The bone-white surroundings assert their harsh brightness. Alone, crouched into himself, the wanderer pleads.
 

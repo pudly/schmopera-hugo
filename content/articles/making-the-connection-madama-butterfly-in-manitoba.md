@@ -1,6 +1,8 @@
----
-title: "Making the connection: Madama Butterfly in Manitoba"
----
++++
+categories = "Review"
+slug = /making-the-connection-madama-butterfly-in-manitoba/
+title = "Making the connection: Madama Butterfly in Manitoba"
++++
 
 I had forgotten what a great opera Puccini's *Madama Butterfly* is. My introduction to the piece, at the University of Manitoba's School of Music many years ago, was an unfortunate encounter between Puccini's beautiful melodies and a flighty soprano who was years away (if ever) from being able to sing the role.
 

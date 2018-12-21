@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Sasha Regan&#039;s All-male Mikado"
----
++++
+categories = "Interview"
+slug = /dont-miss-sasha-regans-allmale-mikado/
+title = "Don&#039;t miss: Sasha Regan&#039;s All-male Mikado"
++++
 
 ## How did your early experience with theatre in a single-sex school extend to your all-male adaptations of G&S in your professional career? 
 

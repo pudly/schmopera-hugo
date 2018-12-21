@@ -1,6 +1,8 @@
----
-title: "A stunning premiere: Elizabeth Cree"
----
++++
+categories = "Review"
+slug = /a-stunning-premiere-elizabeth-cree/
+title = "A stunning premiere: Elizabeth Cree"
++++
 
 Opera Philadelphia's opening night gala was in full swing, as exhausted staff members and excited patrons gathered at the Kimmel Center's Perelman Theater to welcome the highly anticipated 2017-18 season, as well as the inaugural festival, O17. What better way to kick off such a fantastic marathon of opera than with a world premiere? Composer [Kevin Puts](/kevin-puts-i-know-who-i-am-as-a-composer/) and librettist Mark Campbell's [*Elizabeth Cree*](https://www.operaphila.org/whats-on/on-stage-2017-2018/elizabeth-cree/) has been the subject of much conversation. Expectations have undoubtedly been high, not only for the composer and librettist, but also for Opera Philadelphia, a company which has set the national standard for producing new opera. Opera Philadelphia's marketing team proudly boasts that Puts and Campbell are Philadelphia favorites, as they won audiences over with their Pulitzer Prize-winning *Silent Night* in 2012.
 

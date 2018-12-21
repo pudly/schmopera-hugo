@@ -1,6 +1,8 @@
----
-title: "Leonard Bernstein &amp; NYFOS: &quot;I think he&#039;d be pretty proud of it.&quot;"
----
++++
+categories = "Interview"
+slug = /leonard-bernstein-nyfos-i-think-hed-be-pretty-proud-of-it/
+title = "Leonard Bernstein &amp; NYFOS: &quot;I think he&#039;d be pretty proud of it.&quot;"
++++
 
 "He's sort of our patron saint," says Michael Barrett, pianist, conductor, and Associate Artistic Director of the New York Festival of Song (NYFOS), of Leonard Bernstein. "His music really lines up sympathetically with our mission, and what we do."
 

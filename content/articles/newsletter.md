@@ -1,6 +1,7 @@
----
-title: "Newsletter"
----
++++
+slug = /newsletter/
+title = "Newsletter"
++++
 
 Hello, readers!
 

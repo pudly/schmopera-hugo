@@ -1,6 +1,8 @@
----
-title: "Plácido Domingo, Verdi baritones, and the ripple effect"
----
++++
+categories = "Op-ed"
+slug = /plcido-domingo-verdi-baritones-and-the-ripple-effect/
+title = "Plácido Domingo, Verdi baritones, and the ripple effect"
++++
 
 The other day, a friend and colleague posted a curious paragraph on Facebook:
 

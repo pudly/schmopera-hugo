@@ -1,6 +1,8 @@
----
-title: "In review: The Cradle Will Rock"
----
++++
+categories = "Review"
+slug = /in-review-the-cradle-will-rock/
+title = "In review: The Cradle Will Rock"
++++
 
 [Opera Saratoga](/scene/companies/opera-saratoga/) opened a brilliant staging by Lawrence Edelson of Marc Blitzstein's *The Cradle Will Rock* on 9 July 2017 in Saratoga Springs. The production alone is reason enough to go. But the chance to be a part of the show's inspiring, fascinating, distillation of American Music Theater History is something that anyone who loves either music theater or opera (or, like me both—and especially the intersection between the two) should witness. For the first time since 1960, the show made famous by being shut down temporarily by the Feds and performed from the house with the composer onstage at the piano is being performed with the composer's own orchestrations. If the media can be the message, sometimes the venue is the vision.
 

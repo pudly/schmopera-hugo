@@ -1,6 +1,8 @@
----
-title: "#Doras2017: &quot;yes, and...&quot;"
----
++++
+categories = "Editorial"
+slug = /doras2017-yes-and/
+title = "#Doras2017: &quot;yes, and...&quot;"
++++
 
 The [nominations](https://tapa.ca/blog/announcement-nominations-for-the-38th-annual-dora-mavor-moore-awards-announced-tapa/) for the 2017 Dora Mavor Moore Awards are announced, and there's a familiar sentiment that follows, a mix of pride and unfinished business.
 

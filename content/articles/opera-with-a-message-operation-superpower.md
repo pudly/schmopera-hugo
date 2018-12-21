@@ -1,6 +1,8 @@
----
-title: "Opera with a message: Operation Superpower"
----
++++
+categories = "Interview"
+slug = /opera-with-a-message-operation-superpower/
+title = "Opera with a message: Operation Superpower"
++++
 
 ## 1. How did the idea for *Operation Superpower* come about?
 

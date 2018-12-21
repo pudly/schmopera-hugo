@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Lara Ciekiewicz"
----
++++
+categories = "Interview"
+slug = /spotlight-on-lara-ciekiewicz/
+title = "Spotlight on: Lara Ciekiewicz"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

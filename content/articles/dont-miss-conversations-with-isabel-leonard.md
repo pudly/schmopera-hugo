@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Conversations with Isabel Leonard"
----
++++
+categories = "News"
+slug = /dont-miss-conversations-with-isabel-leonard/
+title = "Don&#039;t miss: Conversations with Isabel Leonard"
++++
 
 OPERA America continues its *Conversations* series on April 7th, with an intimate chat with mezzo-soprano [Isabel Leonard](/scene/people/isabel-leonard/). At the National Opera Center, OPERA America President/CEO Marc A. Scorca will sit down with the star singer, fresh from her run as Cherubino in [The Metropolitan Opera](/scene/companies/the-metropolitan-opera/)'s *Le nozze di Figaro*. 
 

@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Clarence Frazer"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-clarence-frazer/
+title = "Talking with singers: Clarence Frazer"
++++
 
 ## Why do you sing professionally?
 

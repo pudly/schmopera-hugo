@@ -1,6 +1,8 @@
----
-title: "More operatic roles for women: a pledge"
----
++++
+categories = "Op-ed"
+slug = /more-operatic-roles-for-women-a-pledge/
+title = "More operatic roles for women: a pledge"
++++
 
 Last week at the [National Opera Association](http://www.noa.org/) conference in New Orleans, I participated in a session about what what producers and composers should know about creating successful operas. Planned with fellow composer [Tom Cipullo](https://tomcipullo.net/), I presented our lists of dos and don'ts: Do create a piano vocal score, don't write too much recitative. Do write arias, don't orchestrate too heavily. There were twenty bullet points, ten from Tom and ten from me.
 

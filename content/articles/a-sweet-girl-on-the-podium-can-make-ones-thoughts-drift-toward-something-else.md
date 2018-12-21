@@ -1,6 +1,8 @@
----
-title: "“A sweet girl on the podium can make one’s thoughts drift toward something else.”"
----
++++
+categories = "Editorial"
+slug = /a-sweet-girl-on-the-podium-can-make-ones-thoughts-drift-toward-something-else/
+title = "“A sweet girl on the podium can make one’s thoughts drift toward something else.”"
++++
 
 Ah, classical music. Old-fashioned to the bone. It's almost charming, except we still need to write articles about the plight of the female conductor and the female composer. Young Russian conductor Vasily Petrenko basically said that the male players in the orchestra wouldn't be able to control themselves if they had to look up at the podium and see a pretty lady there. According to Petrenko, male conductors “often have [less sexual energy](http://www.newsinenglish.no/2013/08/30/new-conductor-strikes-sour-note/) and can focus more on the music. A sweet girl on the podium can make one’s thoughts drift towards something else.”
 

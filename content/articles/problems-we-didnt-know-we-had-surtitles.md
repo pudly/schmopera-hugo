@@ -1,6 +1,8 @@
----
-title: "Problems we didn&#039;t know we had: surtitles"
----
++++
+categories = "Humour"
+slug = /problems-we-didnt-know-we-had-surtitles/
+title = "Problems we didn&#039;t know we had: surtitles"
++++
 
 Over lunch the other day, a conductor brought up an interesting problem with the surtitle method in opera. Sure, surtitles are really great at helping an audience understand what the singers are saying in foreign languages (or English librettos by W.H. Auden), but they're pretty poor indicators of *how* the lines of text are delivered.
 

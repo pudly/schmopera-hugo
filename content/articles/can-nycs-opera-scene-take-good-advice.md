@@ -1,6 +1,8 @@
----
-title: "Can NYC&#039;s opera scene take good advice?"
----
++++
+categories = "Op-ed"
+slug = /can-nycs-opera-scene-take-good-advice/
+title = "Can NYC&#039;s opera scene take good advice?"
++++
 
 I like this *Observer* article, entitled, ["Who Can Fix Opera in New York? The Germans!"](http://observer.com/2015/05/who-can-fix-opera-in-new-york-the-germans/) 
 

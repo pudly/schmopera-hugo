@@ -1,6 +1,8 @@
----
-title: "Tristan und Isolde: drug-induced elegance"
----
++++
+categories = "Review"
+slug = /tristan-und-isolde-druginduced-elegance/
+title = "Tristan und Isolde: drug-induced elegance"
++++
 
 Whatever was going on between Richard Wagner and Mathilde Wesendonk, we should be grateful for it. In 1858 Wagner moved into a cottage on the Zürich estate of Mathilde and Otto Wesendonk where he began composing *Tristan und Isolde*, his immortal ode to love and death. We don't know if their relationship was spiritual or physical, or a bit of both, but we do know that it had an influence on Wagner as he set this Celtic legend to music.
 

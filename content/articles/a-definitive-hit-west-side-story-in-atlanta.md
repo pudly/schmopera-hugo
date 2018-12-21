@@ -1,6 +1,8 @@
----
-title: "A definitive hit: West Side Story in Atlanta"
----
++++
+categories = "Review"
+slug = /a-definitive-hit-west-side-story-in-atlanta/
+title = "A definitive hit: West Side Story in Atlanta"
++++
 
 There was a definite amount of worry when The Atlanta Opera announced that they were planning to produce Leonard Bernstein's mid-century adaptation of Shakespeare's classic tale for their 2018-2019 season. [*West Side Story*](https://www.atlantaopera.org/performance/west-side-story/) isn't an easy show and, particularly in current climates, a controversial one to cast. It is dance heavy and, while the Atlanta Opera Chorus shined during their choreographed number during last season's [*La fille du régiment*](/a-bel-canto-winner-atlantas-fille-du-régiment/), *West Side Story* requires specialized training, perfect timing, and active feats of physical intensity. After spending election night in the audience of the same production I was so nervous about, I can genuinely say that it is a production not to miss.
 

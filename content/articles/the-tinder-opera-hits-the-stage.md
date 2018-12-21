@@ -1,6 +1,8 @@
----
-title: "The Tinder Opera hits the stage"
----
++++
+categories = "News"
+slug = /the-tinder-opera-hits-the-stage/
+title = "The Tinder Opera hits the stage"
++++
 
 Readers, do you remember [*The Tinder Opera*](/has-everyone-seen-the-tinder-opera/)? 
 

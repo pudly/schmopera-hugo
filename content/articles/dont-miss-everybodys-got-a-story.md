@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Everybody&#039;s Got a Story"
----
++++
+categories = "News"
+slug = /dont-miss-everybodys-got-a-story/
+title = "Don&#039;t miss: Everybody&#039;s Got a Story"
++++
 
 For Canada's sesquicentennial, Angelwalk Theatre presents the world premiere of [*Everybody's Got a Story: A Celebration of Canadian Women in Music*](https://www.angelwalk.ca/everybodys-got-a-story.html), **June 15-17, 8pm** at the Toronto Centre for the Arts' new Lyric Theatre.
 

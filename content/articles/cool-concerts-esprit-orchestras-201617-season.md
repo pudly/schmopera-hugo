@@ -1,6 +1,8 @@
----
-title: "Cool concerts: Esprit Orchestra&#039;s 2016/17 season"
----
++++
+categories = "News"
+slug = /cool-concerts-esprit-orchestras-201617-season/
+title = "Cool concerts: Esprit Orchestra&#039;s 2016/17 season"
++++
 
 The [Esprit Orchestra](/scene/companies/esprit-orchestra/) has announced its 2016/17 season with a line-up that lives up to their mission of "developing a Canadian musical literature legacy." Four concerts (with catchy titles) present an impressive series of Canadian and world premieres, plus slightly older works by Thomas Adès, John Adams, and George Crumb. Each concert is preceded by a pre-show conversation, moderated by Canadian composer Alexina Louie.
 

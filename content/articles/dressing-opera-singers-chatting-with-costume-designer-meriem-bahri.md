@@ -1,6 +1,8 @@
----
-title: "Dressing opera singers: chatting with costume designer Meriem Bahri"
----
++++
+categories = "Interview"
+slug = /dressing-opera-singers-chatting-with-costume-designer-meriem-bahri/
+title = "Dressing opera singers: chatting with costume designer Meriem Bahri"
++++
 
 Costume designer [Meriem Bahri](http://meriembahri.com/) is beloved in the baroque opera world for her detail-oriented, imaginative work for companies including [Haymarket Opera Company](/scene/companies/haymarket-opera-company/), the Newberry Consort, and Opera Lafayette. *The New York Times* has described her costumes as "gorgeous and evocative." John von Rhein of the *Chicago Tribune* likened a production with Bahri's designs as "a veritable 17th-century fashion parade." Her work brims with historical detail and whimsy, with figures festooned with extravagant headdresses and dressed in impeccably draped brocades. 
 

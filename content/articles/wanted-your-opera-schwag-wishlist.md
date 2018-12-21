@@ -1,6 +1,8 @@
----
-title: "Wanted: your opera schwag wish-list"
----
++++
+categories = "Editorial"
+slug = /wanted-your-opera-schwag-wishlist/
+title = "Wanted: your opera schwag wish-list"
++++
 
 Readers, we want your help!
 

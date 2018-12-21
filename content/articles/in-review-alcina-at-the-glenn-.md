@@ -1,6 +1,7 @@
----
-title: "In review: Alcina at the Glenn "
----
++++
+slug = /in-review-alcina-at-the-glenn-/
+title = "In review: Alcina at the Glenn "
++++
 
 Chorus is expensive
 

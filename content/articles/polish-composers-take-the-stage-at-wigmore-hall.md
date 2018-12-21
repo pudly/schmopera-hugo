@@ -1,6 +1,8 @@
----
-title: "Polish composers take the stage at Wigmore Hall"
----
++++
+categories = "Review"
+slug = /polish-composers-take-the-stage-at-wigmore-hall/
+title = "Polish composers take the stage at Wigmore Hall"
++++
 
 Saturday at the Wigmore Hall featured three concerts full of music by Polish composers. Violinist Jennifer Pike was the organiser of the whole project - the repertoire ranged from the baroque to the brand new and everything in between. Sadly I was only able to attend the final concert of the evening, but I would have loved to hear all three! The performance I saw was wonderful, consummately musical and full of moments of true beauty. All four works were amazing in their own rights, though I felt it was slightly strange programming - particularly the second half felt awkward to me. 
 

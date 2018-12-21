@@ -1,6 +1,8 @@
----
-title: "Stuff to see in January"
----
++++
+categories = "Editorial"
+slug = /stuff-to-see-in-january/
+title = "Stuff to see in January"
++++
 
 <h3>Sunday, January 11th, 3:30pm, Trinity St. Paul's:<br>
 </h3>

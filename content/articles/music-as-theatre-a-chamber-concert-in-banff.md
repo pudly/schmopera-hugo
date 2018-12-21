@@ -1,6 +1,8 @@
----
-title: "Music as Theatre: a chamber concert in Banff"
----
++++
+categories = "Review"
+slug = /music-as-theatre-a-chamber-concert-in-banff/
+title = "Music as Theatre: a chamber concert in Banff"
++++
 
 This week at [The Banff Centre](/scene/companies/the-banff-centre/), the artists of Open Space: Opera in the 21st Century collaborated with the Master Class for Strings and Winds Program for an evening of chamber music at the Rolston Recital Hall. It sounds like your average chamber concert, but I promise you, it wasn't.
 

@@ -1,6 +1,8 @@
----
-title: "Talking with singers: René Barbera"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-ren-barbera/
+title = "Talking with singers: René Barbera"
++++
 
 "It's kind of insane," says tenor René Barbera of what it feels like to sing coloratura. "Although people tell me I do it justice, I don't feel like I'm doing it justice, because I never feel like I'm doing it cleanly enough, or accurately enough, or with enough clarity or enough legato." It's a skill that he continuously works on, and with roles like Nemorino (*L'elisir d'amore*), Ernesto (*Don Pasquale*), and Count Almaviva (*Il barbiere di Siviglia*), Barbera has put it to good use.
 

@@ -1,6 +1,8 @@
----
-title: "In review: Exaudi at Wigmore Hall"
----
++++
+categories = "Review"
+slug = /in-review-exaudi-at-wigmore-hall/
+title = "In review: Exaudi at Wigmore Hall"
++++
 
 The famous acoustic of Wigmore Hall serves well the recital work of the world's best singers. In hindsight, it almost seems an oversight that it took us nearly a year to hear *a cappella* voices in the notoriously friendly performance space. (Frankly, EXAUDI's signature sound had us suddenly eager to hear a barbershop quartet on the Wigmore stage.)
 

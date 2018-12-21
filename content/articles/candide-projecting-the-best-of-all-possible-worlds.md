@@ -1,6 +1,8 @@
----
-title: "Candide: projecting the best of all possible worlds"
----
++++
+categories = "Review"
+slug = /candide-projecting-the-best-of-all-possible-worlds/
+title = "Candide: projecting the best of all possible worlds"
++++
 
 *Candide* feels like a work in progress and perhaps that is part of its rangy charm. One has the feeling that if Leonard Bernstein were still with us and were watching - or more likely conducting - this Carnegie Hall fundraiser, he would be working on ways to improve it from the podium.
 

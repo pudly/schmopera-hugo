@@ -1,6 +1,8 @@
----
-title: "Anne Kostalas: a year with opera singers"
----
++++
+categories = "Interview"
+slug = /anne-kostalas-a-year-with-opera-singers/
+title = "Anne Kostalas: a year with opera singers"
++++
 
 Filmmaker [Anne Kostalas](http://annekostalas.blogspot.ca/2016/07/my-year-in-life-of-opera-mcgill.html) has wrapped a three-part documentary, following the lives of three young singers at [Opera McGill](/scene/companies/opera-mcgill/), Schulich School of Music, Montréal. The documentary was [commissioned by Patrick Hansen](http://patricksoperablog.blogspot.ca/2016/07/a-year-in-life.html), head of Opera McGill, who is "thrilled at how this documentary seems like a love letter, not just to Opera McGill but to the McGill campus and all the people who study and work there."
 

@@ -1,6 +1,8 @@
----
-title: "Cross-Canada opera: The Overcoat comes to Toronto &amp; Vancouver"
----
++++
+categories = "Editorial"
+slug = /crosscanada-opera-the-overcoat-comes-to-toronto-vancouver/
+title = "Cross-Canada opera: The Overcoat comes to Toronto &amp; Vancouver"
++++
 
 In Canada, four years is not a bad turnaround time between the conception of a new opera, and its first full production. In the case of James Rolfe and Morris Panych's *The Overcoat: An Opera*, its journey from [Tapestry Opera](/scene/companies/tapestry-opera/)'s 2014 LibLab culminates in a full premiere in two Canadian cities, both in March 2018. 
 

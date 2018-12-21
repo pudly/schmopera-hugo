@@ -1,6 +1,8 @@
----
-title: "In review: Toronto Masque Theatre&#039;s Les Indes Mécaniques "
----
++++
+categories = "Review"
+slug = /in-review-toronto-masque-theatres-les-indes-mcaniques-/
+title = "In review: Toronto Masque Theatre&#039;s Les Indes Mécaniques "
++++
 
 I braved the land of construction last night, heading to the Fleck Dance Theatre at Harbourfront Centre to catch the final instalment of [Toronto Masque Theatre](http://www.torontomasquetheatre.com/)'s 2014/15 season. TMT presents Rameau's *Les Indes Mécaniques (ou Les Automates de Topkapi)*, a delightfully bizarre opera about girls and boys, and how they end up with each other.
 

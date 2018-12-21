@@ -1,6 +1,8 @@
----
-title: "A product of great artistry: The Return of Ulysses at the Roundhouse"
----
++++
+categories = "Review"
+slug = /a-product-of-great-artistry-the-return-of-ulysses-at-the-roundhouse/
+title = "A product of great artistry: The Return of Ulysses at the Roundhouse"
++++
 
 Monteverdi never fails to delight me - this production particularly shone because of the spectacular playing from the Early Opera Company, who shaped every moment with sensitivity and musicianship. Their playing brought the whole show to life. Every phrase had direction and beauty, every moment of the recit was full of colour and life. 
 

@@ -1,6 +1,8 @@
----
-title: "In review: Juan Diego Flórez&#039;s Rosenblatt Recital"
----
++++
+categories = "Review"
+slug = /in-review-juan-diego-flrezs-rosenblatt-recital/
+title = "In review: Juan Diego Flórez&#039;s Rosenblatt Recital"
++++
 
 Star tenor Juan Diego Flórez made an anticipated visit last night to Royal Albert Hall, as part of the Rosenblatt Recital series. With the Filarmonica Gioachino Rossini Orchestra under maestro Christopher Franklin, Flórez offered up a programme of signature singing - including his famous coloratura and thrilling high notes - as well as a sampling of Italian and Neapolitan songs, featured on his new album, *Italia*.
 

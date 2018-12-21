@@ -1,6 +1,8 @@
----
-title: "The kids are alright: youth-programmed music at the Southbank Centre"
----
++++
+categories = "News"
+slug = /the-kids-are-alright-youthprogrammed-music-at-the-southbank-centre/
+title = "The kids are alright: youth-programmed music at the Southbank Centre"
++++
 
 On **October 22, 3pm at Royal Festival Hall**, as part of the Southbank Centre's [*WHY? What’s Happening for the Young*](http://www.southbankcentre.co.uk/whatson/festivals-series/why) festival, you can catch the exciting [*WHYdentity: Young Programmers Takeover*](http://www.southbankcentre.co.uk/whatson/bbc-concert-orchestra-98015?dt=2016-10-22) concert. 
 

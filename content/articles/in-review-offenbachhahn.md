@@ -1,6 +1,8 @@
----
-title: "In review: Offenbach/Hahn"
----
++++
+categories = "Review"
+slug = /in-review-offenbachhahn/
+title = "In review: Offenbach/Hahn"
++++
 
 This is a guest post by baritone, theatre buff and frequent contributor Gregory Finney. For more by Greg, [click here](http://schmopera.com/author/greg/). Last night was opening night at the New Theatre [Alliance Française de Toronto](http://www.alliance-francaise.ca/) for [Opera 5's](http://www.operafive.com/) (check out their [Opera Cheats](http://www.operafive.com/media/)) season opener: a romp through the French obsession with the Far East during the 19th century. We were treated to a double bill of _Île du rêve_ by Reynaldo Hahn and _Ba-Ta-Clan_ By Jacques Offenbach, two very different pieces that not only show the varied differences of the East's influence on Western music, but also the versatility of a stellar cast of darn fine singers.
 

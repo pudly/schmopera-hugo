@@ -1,6 +1,8 @@
----
-title: "Talking with composers: Cecilia Livingston"
----
++++
+categories = "Interview"
+slug = /talking-with-composers-cecilia-livingston/
+title = "Talking with composers: Cecilia Livingston"
++++
 
 ## How would you describe your musical aesthetic? How have you heard it described by others?
 

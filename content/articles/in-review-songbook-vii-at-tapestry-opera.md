@@ -1,6 +1,8 @@
----
-title: "In review: Songbook VII at Tapestry Opera"
----
++++
+categories = "Review"
+slug = /in-review-songbook-vii-at-tapestry-opera/
+title = "In review: Songbook VII at Tapestry Opera"
++++
 
 For the last few years, one of my favourite events is the *Songbook* series presented by [Tapestry Opera](/scene/companies/tapestry-opera/). It's one of my favourite events because it's something I believe we should see more of here in Toronto. As Artistic Director Michael Mori pointed out in his preamble speech, the unfortunate thing that often happens in Canada with new works is that they only get heard once.
 

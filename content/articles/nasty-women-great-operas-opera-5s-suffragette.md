@@ -1,6 +1,8 @@
----
-title: "Nasty women, great operas: Opera 5&#039;s Suffragette"
----
++++
+categories = "Interview"
+slug = /nasty-women-great-operas-opera-5s-suffragette/
+title = "Nasty women, great operas: Opera 5&#039;s Suffragette"
++++
 
 ## What are you most excited about in presenting this double-bill in Toronto?
 

@@ -1,6 +1,8 @@
----
-title: "Tough to watch: Oksana G."
----
++++
+categories = "Review"
+slug = /tough-to-watch-oksana-g/
+title = "Tough to watch: Oksana G."
++++
 
 **Jenna**: "The story of sex trafficking needs to be told in a way that makes us intuitively realize how real and awful it is. We all know the facts, but we need to feel the plight of a normal girl who gets trapped in this situation; feel that it could have just as easily been us, or our sisters, or our daughters," write composer Aaron Gervais and librettist Colleen Murphy of their opera, [*Oksana G.*](https://tapestryopera.com/3-oksana-g/) "It is that kind of realization that can galvanize an individual to step up and make a difference in the lives of others. That's why this story has to be told as an opera."
 

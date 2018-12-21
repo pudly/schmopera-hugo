@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Luca Pisaroni"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-luca-pisaroni/
+title = "Talking with singers: Luca Pisaroni"
++++
 
 Italian bass-baritone Luca Pisaroni knows how to make the most of three days off. After finishing a performance of *Le nozze di Figaro* at The Metropolitan Opera, he grabbed a few hours worth of sleep, and hopped on a plane with his wife, Catherine, and their two dogs, Tristan and Lenny (after Bernstein, of course), for some much-needed rest in Miami. He had been battling an annoying cold for a few weeks, yet he hasn't missed a show. "You know, I'm a bass-baritone, I'd rather die than cancel," he quips.
 

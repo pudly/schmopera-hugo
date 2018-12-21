@@ -1,6 +1,8 @@
----
-title: "In review: The Pirates of Penzance at ENO"
----
++++
+categories = "Review"
+slug = /in-review-the-pirates-of-penzance-at-eno/
+title = "In review: The Pirates of Penzance at ENO"
++++
 
 What fun it was to finally hear some Gilbert & Sullivan in London, England. Mike Leigh's 2015 production of [*The Pirates of Penzance*](https://www.eno.org/whats-on/the-pirates-of-penzance/) for [English National Opera](/scene/companies/english-national-opera/) has kicked off its first return to the stage with the help of revival director Sarah Tipple. A true lover of G&S, Leigh is the President of both the W.S. Gilbert Society *and* the Sir Arthur Sullivan Society; he also wrote and directed *Topsy Turvy*, the BAFTA Award-winning film about the lives of Sullivan and Gilbert.
 

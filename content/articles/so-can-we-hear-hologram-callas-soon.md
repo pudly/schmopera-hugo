@@ -1,6 +1,8 @@
----
-title: "So, can we hear hologram Callas soon?"
----
++++
+categories = "Humour"
+slug = /so-can-we-hear-hologram-callas-soon/
+title = "So, can we hear hologram Callas soon?"
++++
 
 [Whitney Houston's hologram](http://www.bbc.com/news/technology-34249920) will sing a concert next year at "a major U.S. venue" next year. Pat Houston, president of the Whitney Houston Estate and Greek billionaire Alki David, CEO of Hologram USA, are working together on this latest hologram concert venture; Whitney's image will be shown onstage "the same way that Tupac and Snoop Dogg interacted onstage at Coachella," according to David.
 

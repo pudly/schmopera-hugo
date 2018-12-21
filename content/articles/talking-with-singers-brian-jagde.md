@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Brian Jagde"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-brian-jagde/
+title = "Talking with singers: Brian Jagde"
++++
 
 "When you're stepping onto the stage at [San Francisco Opera](/scene/companies/san-francisco-opera/), you kind of forget," says [Brian Jagde](/scene/people/brian-jagde/) of the long line of famed tenors who have sung at War Memorial Opera House. He is set to sing his first Radamès, in Francesca Zambello's new production of [*Aïda*](http://sfopera.com/discover-opera/201617-season/aida/); the combination of Verdi's masterpiece and the San Francisco Opera - a major site in the history of opera in America - holds a gravity that's not lost on Jagde.
 

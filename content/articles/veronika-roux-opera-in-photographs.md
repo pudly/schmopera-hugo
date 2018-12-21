@@ -1,6 +1,8 @@
----
-title: "Veronika Roux: opera in photographs"
----
++++
+categories = "Interview"
+slug = /veronika-roux-opera-in-photographs/
+title = "Veronika Roux: opera in photographs"
++++
 
 ## Why is opera a passion of yours?
 

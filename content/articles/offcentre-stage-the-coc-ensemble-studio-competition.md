@@ -1,6 +1,8 @@
----
-title: "Off-Centre Stage: the COC Ensemble Studio Competition"
----
++++
+categories = "Editorial"
+slug = /offcentre-stage-the-coc-ensemble-studio-competition/
+title = "Off-Centre Stage: the COC Ensemble Studio Competition"
++++
 
 Lured by curiosity to see the up-and-comers in Canada's opera scene, the Four Seasons Centre welcomed a healthy crowd to this year's Centre Stage. The annual competition is a culmination of nation-wide auditions by the Canadian Opera Company; eight finalists make it to this final round, where they're featured on the big stage, along with Music Director Johannes Debus leading the COC Orchestra.
 

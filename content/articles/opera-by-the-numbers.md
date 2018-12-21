@@ -1,6 +1,8 @@
----
-title: "Opera by the numbers"
----
++++
+categories = "Op-ed"
+slug = /opera-by-the-numbers/
+title = "Opera by the numbers"
++++
 
 If you’re anything like me, you're already dreaming about fresh strawberries and Prosecco, long summer evenings, and outdoor opera. While a chilly fog settles over London once again, I'm getting curious about upcoming shows and trends, so here's a breakdown of what we've got to look forward to at 2017's UK summer festivals.
 

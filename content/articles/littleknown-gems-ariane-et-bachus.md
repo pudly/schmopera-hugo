@@ -1,6 +1,8 @@
----
-title: "&quot;Little-known gems&quot;: Ariane et Bachus"
----
++++
+categories = "Interview"
+slug = /littleknown-gems-ariane-et-bachus/
+title = "&quot;Little-known gems&quot;: Ariane et Bachus"
++++
 
 ## What do you find is unique about Marais' setting of the Ariadne myth? 
 

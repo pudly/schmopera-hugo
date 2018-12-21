@@ -1,6 +1,8 @@
----
-title: "A test of endurance: Satyagraha at ENO"
----
++++
+categories = "Review"
+slug = /a-test-of-endurance-satyagraha-at-eno/
+title = "A test of endurance: Satyagraha at ENO"
++++
 
 Although "Contemporary Opera for the 'Britain's Got Talent' Generation" might be an apt way to describe Phelim McDermott's *Satyagraha*, it would be unfair to both the performers and the audience to describe it as such, due to the mammoth stamina that is required by both parties during a performance of this epic Glass score. 
 

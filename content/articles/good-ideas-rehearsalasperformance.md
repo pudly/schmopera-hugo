@@ -1,6 +1,8 @@
----
-title: "Good ideas: rehearsal-as-performance"
----
++++
+categories = "Op-ed"
+slug = /good-ideas-rehearsalasperformance/
+title = "Good ideas: rehearsal-as-performance"
++++
 
 We know you love to go to the opera. So, wouldn't you also love to be a fly on the wall for the rehearsals?
 

@@ -1,6 +1,8 @@
----
-title: "4 ways to test your memory"
----
++++
+categories = "How-to"
+slug = /4-ways-to-test-your-memory/
+title = "4 ways to test your memory"
++++
 
 ## Can you write down and recite the text?
 

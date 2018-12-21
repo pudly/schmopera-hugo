@@ -1,6 +1,8 @@
----
-title: "Aria guides: &quot;O! du mein holder Abendstern&quot;"
----
++++
+categories = "How-to"
+slug = /aria-guides-o-du-mein-holder-abendstern/
+title = "Aria guides: &quot;O! du mein holder Abendstern&quot;"
++++
 
 1. Like most recitative in Wagner's operas, this works best if it stays in tempo. Wagner is pretty great at setting German, and the pacing of the text has already been clearly laid out. It's not a quick tempo, which is what makes it easy to get heavy and sluggish; there are so many juicy moments that it can be easy to want to milk them all, stopping to smell every single rose. Throughout this recit, take note of the direction of the underlying harmony. The first g minor chord leads right to the c minor chord under "-ahnung"; the D major chord underneath "Dämmrung..." leads right to the g minor under "Lande". It's really illuminating to play (or get your pianist to play) only the orchestra harmonies, and to play the progression way too fast; this way you can figure out where the music goes, and see what that means for the text. <figure data-type="image">
 ![](/webhook-uploads/1487677409519/Aria-Guide---Wolfram---annotated---p1.jpg)

@@ -1,6 +1,8 @@
----
-title: "Chauvinism, cynicism, &amp; great singing: Così fan tutte"
----
++++
+categories = "Review"
+slug = /chauvinism-cynicism-great-singing-cos-fan-tutte/
+title = "Chauvinism, cynicism, &amp; great singing: Così fan tutte"
++++
 
 A lot can happen in twenty-four hours. Fortunes are fleeting. Feelings can change. The surreal materializes. Such is the underlying premise of Mozart's *Così fan tutte*, currently on stage at the Lyric Opera of Chicago.
 

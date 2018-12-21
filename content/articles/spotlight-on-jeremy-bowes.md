@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Jeremy Bowes"
----
++++
+categories = "Interview"
+slug = /spotlight-on-jeremy-bowes/
+title = "Spotlight on: Jeremy Bowes"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

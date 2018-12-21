@@ -1,6 +1,8 @@
----
-title: "The astonishing product: Glass Handel at O18"
----
++++
+categories = "Review"
+slug = /the-astonishing-product-glass-handel-at-o18/
+title = "The astonishing product: Glass Handel at O18"
++++
 
 On Sunday night, a crowd gathered at The Barnes Foundation for a fusion of art, fashion, dance, film, and opera. The world premiere of this multi-faceted artistic experience took place at The Barnes Foundation, and it goes by the name *Glass Handel*. Produced by countertenor [Anthony Roth Costanzo](/scene/people/anthony-roth-costanzo/) and several others, including [Opera Philadelphia](/scene/companies/opera-philadelphia/), *Glass Handel* is a triumph of opera entrepreneurship. 
 

@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: The Living Spectacle"
----
++++
+categories = "Interview"
+slug = /dont-miss-the-living-spectacle/
+title = "Don&#039;t miss: The Living Spectacle"
++++
 
 ## 1. Can you tell us about programming this concert?
 

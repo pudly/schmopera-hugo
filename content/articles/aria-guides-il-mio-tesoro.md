@@ -1,6 +1,8 @@
----
-title: "Aria guides: Il mio tesoro"
----
++++
+categories = "How-to"
+slug = /aria-guides-il-mio-tesoro/
+title = "Aria guides: Il mio tesoro"
++++
 
 1. Right off the bat, Mozart gives you a tricky phrase ending. Give yourself enough sound that you can come away from the end of "intanto"; the phrase rises up, and it can be easy to whack the last syllable of the word.
 

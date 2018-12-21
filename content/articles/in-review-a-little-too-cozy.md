@@ -1,6 +1,7 @@
----
-title: "In review: A Little Too Cozy"
----
++++
+slug = /in-review-a-little-too-cozy/
+title = "In review: A Little Too Cozy"
++++
 
 Indie opera superstars [Against The Grain Theatre](/scene/companies/against-the-grain-theatre/), led by the fearless [Joel Ivany](/scene/people/joel-ivany/) have wowed Toronto yet again. Following on the successes of such performances as [*AtG's Messiah*](/atgs-messiah-a-preview/), [*Death/Desire*](/in-review-death-desire/), and [*Pelléas et Mélisande*](/in-review-pelléas-et-mélisande/) we find ourselves with these kooky upstarts somewhere where you haven't seen opera performed in a long time - a television studio. 
 

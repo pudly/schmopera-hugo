@@ -1,6 +1,8 @@
----
-title: "Tragedies: Toronto&#039;s summer opera shortage"
----
++++
+categories = "Humour"
+slug = /tragedies-torontos-summer-opera-shortage/
+title = "Tragedies: Toronto&#039;s summer opera shortage"
++++
 
 Is there anything more despairing than the life of an opera lover, living in Toronto during the month of August? And is there any worry more utterly trivial and first-world?
 

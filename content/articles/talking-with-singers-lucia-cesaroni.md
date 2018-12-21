@@ -1,6 +1,8 @@
----
-title: "Talking with Singers: Lucia Cesaroni"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-lucia-cesaroni/
+title = "Talking with Singers: Lucia Cesaroni"
++++
 
 <h2>Why do you sing?</h2>
 <p>

@@ -1,6 +1,8 @@
----
-title: "&quot;Hello, Papagena!&quot;"
----
++++
+categories = "Humour"
+slug = /hello-papagena/
+title = "&quot;Hello, Papagena!&quot;"
++++
 
 Readers, did you catch the tiniest, sweetest, heart-warming-est little opera reference in *Minions*? We did:
 

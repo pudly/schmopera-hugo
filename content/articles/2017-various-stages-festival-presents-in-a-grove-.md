@@ -1,6 +1,8 @@
----
-title: "2017 Various Stages Festival presents: In a Grove "
----
++++
+categories = "Interview"
+slug = /2017-various-stages-festival-presents-in-a-grove-/
+title = "2017 Various Stages Festival presents: In a Grove "
++++
 
 ## What can you tell us about the story of *In a Grove*? What appealed to you about Akutagawa's short story as a source material?
 

@@ -1,6 +1,8 @@
----
-title: "Lost history: opera&#039;s most famous premieres"
----
++++
+categories = "Humour"
+slug = /lost-history-operas-most-famous-premieres/
+title = "Lost history: opera&#039;s most famous premieres"
++++
 
 ## *Il barbiere di Siviglia*
 

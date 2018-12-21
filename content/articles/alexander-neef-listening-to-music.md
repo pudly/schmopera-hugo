@@ -1,6 +1,8 @@
----
-title: "Alexander Neef: listening to music"
----
++++
+categories = "Interview"
+slug = /alexander-neef-listening-to-music/
+title = "Alexander Neef: listening to music"
++++
 
 One of Canada's best sets of ears belongs to [Alexander Neef](/scene/people/alexander-neef/), General Director of the [Canadian Opera Company](/scene/companies/canadian-opera-company/). He's an impressive source when it comes to classical music recordings, and until recently he had a wall-to-wall library of CDs collected over his lifetime. "I probably gave between 2500 to 3000 CDs to the COC, because I thought those recordings...I knew quite well all of them would be great for the [COC Ensemble Studio] to use."
 

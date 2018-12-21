@@ -1,6 +1,8 @@
----
-title: "In review: Sondra Radvanovsky at Koerner Hall"
----
++++
+categories = "Review"
+slug = /in-review-sondra-radvanovsky-at-koerner-hall/
+title = "In review: Sondra Radvanovsky at Koerner Hall"
++++
 
 I'd wager that star soprano [Sondra Radvanovsky](/scene/people/sondra-radvanovsky/)'s recital at Koerner Hall, presented by Show One Productions, was one of Toronto's most anticipated events of the 2015/16 season. After her she treated us to Vivaldi's stunning "Sposa son disprezzata" (*Bajazet*), an aria that took real ova to start with, Radvanovsky told us two neat pieces of information: firstly, this was a brand new recital that hadn't been heard before, including a set of Richard Strauss songs that were fresh for her. She also mentioned that it was her 20th year working with her pianist and coach, Anthony Manoli, who was a beautiful collaborator for the evening. So, last night's concert was a mix of old and new for Radvanovsky, and it was a chance for us to hear her as a candid artist.
 

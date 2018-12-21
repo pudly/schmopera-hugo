@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Danielle MacMillan"
----
++++
+categories = "Interview"
+slug = /spotlight-on-danielle-macmillan/
+title = "Spotlight on: Danielle MacMillan"
++++
 
 ### 1. Why do you sing, and why are you pursuing it professionally?
 

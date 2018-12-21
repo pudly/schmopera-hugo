@@ -1,6 +1,8 @@
----
-title: "How to Sit Through Opera and Other Wikigems"
----
++++
+categories = "Humour"
+slug = /how-to-sit-through-opera-and-other-wikigems/
+title = "How to Sit Through Opera and Other Wikigems"
++++
 
 <p>
 	<a href="http://www.wikihow.com/Sit-Through-Opera" target="_blank">How to Sit Through Opera</a> showed up first, containing wise gems like, "Take small candies or chewing gum to quietly chew or suck on. Somehow, having something sweet in your mouth helps to cope with a sour experience," or my favourite, "It's a chance to think about things that you haven't had time to focus on lately: gift lists for friends and family, solutions for that overflowing in-tray at work, and whether or not you should buy that new pair of what's-its you saw in the store window on the way to the theatre."

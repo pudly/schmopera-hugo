@@ -1,6 +1,8 @@
----
-title: "In review: Maometto II"
----
++++
+categories = "Review"
+slug = /in-review-maometto-ii/
+title = "In review: Maometto II"
++++
 
 The Four Seasons Centre for the Performing Arts in downtown Toronto was packed to the rafters last night for the third performance of Gioachino Rossini's rarely performed [*Maometto II*](http://www.coc.ca/PerformancesAndTickets/1516Season/MaomettoII.aspx), with libretto by Cesare della Valle. 
 

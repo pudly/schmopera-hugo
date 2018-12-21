@@ -1,6 +1,8 @@
----
-title: "The beginning of the end of my dream"
----
++++
+categories = "Op-ed"
+slug = /the-beginning-of-the-end-of-my-dream/
+title = "The beginning of the end of my dream"
++++
 
 I've got a confession to make. I am giving up my dream. This might sound like a tragic and self-pitying start to a post, but bear with me.
 

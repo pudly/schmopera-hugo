@@ -1,6 +1,8 @@
----
-title: "Tales from the score: Peter Grimes"
----
++++
+categories = "Editorial"
+slug = /tales-from-the-score-peter-grimes/
+title = "Tales from the score: Peter Grimes"
++++
 
 <h4>Exhibit A:<br>
 </h4>

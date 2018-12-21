@@ -1,6 +1,8 @@
----
-title: "Two emerging singers to make their Carnegie Hall debut in 2017"
----
++++
+categories = "News"
+slug = /two-emerging-singers-to-make-their-carnegie-hall-debut-in-2017/
+title = "Two emerging singers to make their Carnegie Hall debut in 2017"
++++
 
 One of the better ways to kick off a new year: a Carnegie Hall debut.
 

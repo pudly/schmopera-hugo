@@ -1,6 +1,8 @@
----
-title: "&quot;A problematic creaky old masterpiece&quot;: Les vêpres siciliennes"
----
++++
+categories = "Review"
+slug = /a-problematic-creaky-old-masterpiece-les-vpres-siciliennes/
+title = "&quot;A problematic creaky old masterpiece&quot;: Les vêpres siciliennes"
++++
 
 If you're a human being in the western world, chances are you've heard about what's going on in Hollywood with Harvey Weinstein. By direct extension, if you're a human being in the opera world, you might have noticed that people are buzzing about sexual misconduct in our own industry. I'd actually just read [Dan Kempson's cutting editorial](/operas-sexual-assault-secret/) about sexual violence in opera when I settled down to watch [*Les vêpres siciliennes*](http://www.roh.org.uk/productions/les-vepres-siciliennes-by-stefan-herheim) at the [Royal Opera House](/scene/companies/royal-opera-house/) last night. I was expecting to marathon through one of Verdi's longest operas. I was ready for some stonking singing and lots of big choruses. I wasn't expecting what I got: a tired revival of an odd production that hasn't managed to catch up with the rest of the world in condemning sexual assault.
 

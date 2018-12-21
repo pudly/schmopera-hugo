@@ -1,6 +1,8 @@
----
-title: "This week: two lunchtime treats in the RBA"
----
++++
+categories = "Review"
+slug = /this-week-two-lunchtime-treats-in-the-rba/
+title = "This week: two lunchtime treats in the RBA"
++++
 
 It was a good week for vocal recitals at the Canadian Opera Company's Free Concert Series in the Richard Bradshaw Amphitheatre.
 ***

@@ -1,6 +1,8 @@
----
-title: "In review: Lawrence Zazzo at Wigmore Hall"
----
++++
+categories = "Review"
+slug = /in-review-lawrence-zazzo-at-wigmore-hall/
+title = "In review: Lawrence Zazzo at Wigmore Hall"
++++
 
 The *seconda pratica* was the radically modern music of the early 1600's. With an intensely heavy emphasis on text, music coming from this genre by d'India, Carissimi, and Caccini can be as moving as listening to a poem recited, or hearing a beautiful play. 
 

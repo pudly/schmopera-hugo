@@ -1,6 +1,8 @@
----
-title: "In review: Norma at ROH"
----
++++
+categories = "Review"
+slug = /in-review-norma-at-roh/
+title = "In review: Norma at ROH"
++++
 
 Despite a dearth of Druid imagery and gloomy Celtic forests, Àlex Ollé's new production certainly grasps the eerie darkness and suffocating mores of religion in Bellini's *Norma*. "Religion here is the glue that holds society together, an unconscious way of ordering the known world," writes Ollé, "but it is also the means to repress anyone who dares deviate from the 'norm.'"
 

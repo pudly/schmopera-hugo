@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Matthew Polenzani"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-matthew-polenzani/
+title = "Talking with singers: Matthew Polenzani"
++++
 
 Freshly off an acclaimed run as the title role in Mozart's *Idomeneo* at the Metropolitan Opera, star tenor [Matthew Polenzani](/scene/people/matthew-polenzani/) has little time to come down before diving into two more productions in New York. "I think there's a sequence where I have a show on a Friday, a show on a Saturday, then the Met Gala which is on Sunday. So that's going to be a little tiring," he says, clearly happy in his [busy schedule](http://matthewpolenzani.com/schedule/) at one of the world's top houses.
 

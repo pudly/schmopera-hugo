@@ -1,6 +1,8 @@
----
-title: "Operalia &amp; advertising"
----
++++
+categories = "Editorial"
+slug = /operalia-advertising/
+title = "Operalia &amp; advertising"
++++
 
 Congratulations to the winners of the 2016 Operalia competition!
 

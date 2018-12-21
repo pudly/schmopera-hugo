@@ -1,6 +1,8 @@
----
-title: "Aria guides: Deh vieni alla finestra"
----
++++
+categories = "How-to"
+slug = /aria-guides-deh-vieni-alla-finestra/
+title = "Aria guides: Deh vieni alla finestra"
++++
 
 1. I'm a big advocate of singing pick-up notes, and this one is extra-important. Instead of just saying "Come to the window," Giovanni says "*Deh* vieni," which is like saying "*Oh* come," or *Please* come..." It's the first note that the serenaded lady hears, and a good suitor sounds interested, but not desperate. Any Giovanni worth his salt knows that his easy, confident sound is more than enough.
 <figure data-type="image">

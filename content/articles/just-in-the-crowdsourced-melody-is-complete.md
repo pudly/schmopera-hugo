@@ -1,6 +1,8 @@
----
-title: "Just in: the crowdsourced melody is complete"
----
++++
+categories = "News"
+slug = /just-in-the-crowdsourced-melody-is-complete/
+title = "Just in: the crowdsourced melody is complete"
++++
 
 Readers, remember when we told you about the [crowdsourced melody](/vote-for-a-note-crowdsourced-songwriting/) happening over at [CrowdSound.net](https://crowdsound.net/)? Users can put together a full melody by voting on each note, one at a time.
 

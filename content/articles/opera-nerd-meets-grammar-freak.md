@@ -1,6 +1,8 @@
----
-title: "Opera nerd meets grammar freak"
----
++++
+categories = "Editorial"
+slug = /opera-nerd-meets-grammar-freak/
+title = "Opera nerd meets grammar freak"
++++
 
 I look at a lot of artist biographies, concert programs, season line-ups, and other lists of opera titles, and I keep noticing a small, nerdy detail that I've finally decided to address.
 

@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Karolina Pilou"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-karolina-pilou/
+title = "Talking with singers: Karolina Pilou"
++++
 
 ## What do you anticipate most about your debut at the Met?
 

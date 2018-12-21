@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Simone Osborne"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-simone-osborne/
+title = "Talking with singers: Simone Osborne"
++++
 
 "I had a conversation with Jim Robinson, our director," says soprano [Simone Osborne](/scene/people/simone-osborne/) about her early days in rehearsal for [*The Elixir of Love* at the Canadian Opera Company](http://coc.ca/PerformancesAndTickets/1718Season/ElixirofLove.aspx). "I said to him, 'full disclosure, I really don't love it when Adina is played as a mean girl.'"
 

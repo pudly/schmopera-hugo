@@ -1,6 +1,8 @@
----
-title: "&quot;Sex is one of the perks of conducting.&quot;"
----
++++
+categories = "Op-ed"
+slug = /sex-is-one-of-the-perks-of-conducting/
+title = "&quot;Sex is one of the perks of conducting.&quot;"
++++
 
 Norman Lebrecht's [new article for *The Spectator*](https://www.spectator.co.uk/2018/01/the-sex-lives-of-conductors/), "The sex lives of conductors", is a doozy.
 

@@ -1,6 +1,8 @@
----
-title: "New companies to discover: Gramercy Opera"
----
++++
+categories = "Interview"
+slug = /new-companies-to-discover-gramercy-opera/
+title = "New companies to discover: Gramercy Opera"
++++
 
 ## How does Gramercy Opera fit into the rich opera scene in New York?
 

@@ -1,6 +1,8 @@
----
-title: "The 2017 Various Stages Festival presents: Mu&#039;a"
----
++++
+categories = "Interview"
+slug = /the-2017-various-stages-festival-presents-mua/
+title = "The 2017 Various Stages Festival presents: Mu&#039;a"
++++
 
 ## What can you tell us about the narrative of *Mu'a*? How much does the practice of water puppetry act as a device to tell a story about old and new worlds?
 

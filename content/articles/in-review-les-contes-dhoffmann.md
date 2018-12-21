@@ -1,6 +1,8 @@
----
-title: "In review: Les contes d&#039;Hoffmann"
----
++++
+categories = "Review"
+slug = /in-review-les-contes-dhoffmann/
+title = "In review: Les contes d&#039;Hoffmann"
++++
 
 The latest revival of John Schlesinger's production of *Les contes d'Hoffmann* is currently onstage at the Royal Opera House, and it's one that seems to age well. It was our first time seeing the 1980 production by the late film director (*Midnight Cowboy*, *Sunday Bloody Sunday*), and it was unexpectedly comforting to see that solid, hinting-at-sepia-tone of the 1970s and 1980s (perhaps in the same way that Zeffirelli's *La bohème* is like coming home).
 

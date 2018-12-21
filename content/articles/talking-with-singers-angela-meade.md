@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Angela Meade"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-angela-meade/
+title = "Talking with singers: Angela Meade"
++++
 
 ## Why do you sing professionally?
  

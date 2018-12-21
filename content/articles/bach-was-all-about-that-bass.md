@@ -1,6 +1,8 @@
----
-title: "Bach was all about that bass"
----
++++
+categories = "Editorial"
+slug = /bach-was-all-about-that-bass/
+title = "Bach was all about that bass"
++++
 
 If you're serious about music, as an amateur or a professional, you have spent time agonizing over a score. Finding the best place to breathe when there is no good place to breathe. Wondering what would happen if you started just 4bpm faster. Deliberating exactly how far you can stretch this phrase and get away with it. We all know that the smallest details can be of paramount importance.
 

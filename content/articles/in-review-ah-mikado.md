@@ -1,6 +1,8 @@
----
-title: "In review: Ah! Mikado!"
----
++++
+categories = "Review"
+slug = /in-review-ah-mikado/
+title = "In review: Ah! Mikado!"
++++
 
 <p class="intro">
 	Last night I went to see 

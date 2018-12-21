@@ -1,6 +1,8 @@
----
-title: "Living up to its name: Experiments in Opera"
----
++++
+categories = "Interview"
+slug = /living-up-to-its-name-experiments-in-opera/
+title = "Living up to its name: Experiments in Opera"
++++
 
 ## How is EiO's mission unique, compared to other organizations that foster new works?
 

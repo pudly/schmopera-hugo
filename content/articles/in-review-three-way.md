@@ -1,6 +1,8 @@
----
-title: "In review: Three Way"
----
++++
+categories = "Review"
+slug = /in-review-three-way/
+title = "In review: Three Way"
++++
 
 Rarely do we find a postmodern opera that builds in time for audiences to belly laugh, a postmodern opera that encapsulates the complexity and depth of evolving identity and sexuality, and a postmodern opera that is both elegant and accessible.  
 

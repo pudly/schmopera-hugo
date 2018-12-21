@@ -1,6 +1,8 @@
----
-title: "David Lang&#039;s the whisper opera has intimacy issues"
----
++++
+categories = "Review"
+slug = /david-langs-the-whisper-opera-has-intimacy-issues/
+title = "David Lang&#039;s the whisper opera has intimacy issues"
++++
 
 Responding to the ability to access an endless digital musical archive, David Lang sought to create a piece "so quiet and so intimate and so personal to the performers that you needed to be right next to them or you would hear almost nothing". Lang's *the whisper opera* in its recent incarnation at the NYU Skirball Center was quiet, even hard to hear, but not intimate.
           	

@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Will Liverman"
----
++++
+categories = "Interview"
+slug = /spotlight-on-will-liverman/
+title = "Spotlight on: Will Liverman"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

@@ -1,6 +1,8 @@
----
-title: "Interviewing the Greats: Virginia Zeani"
----
++++
+categories = "Interview"
+slug = /interviewing-the-greats-virginia-zeani/
+title = "Interviewing the Greats: Virginia Zeani"
++++
 
 #### 1. How did you find yourself, having been born in a small village in Transylvania, to sing on some of the greatest stages around the world?
 

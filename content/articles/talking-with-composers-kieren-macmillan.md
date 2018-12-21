@@ -1,6 +1,8 @@
----
-title: "Talking with composers: Kieren MacMillan"
----
++++
+categories = "Interview"
+slug = /talking-with-composers-kieren-macmillan/
+title = "Talking with composers: Kieren MacMillan"
++++
 
 ## How would you describe your musical aesthetic? How have you heard it described by others?
 

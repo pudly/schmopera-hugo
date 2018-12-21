@@ -1,6 +1,8 @@
----
-title: "Talking with conductors: Oliver Zeffman"
----
++++
+categories = "Interview"
+slug = /talking-with-conductors-oliver-zeffman/
+title = "Talking with conductors: Oliver Zeffman"
++++
 
 ### What do you find unique about touring a piece like *Written on Skin*, which has a performance history closely associated with George Benjamin, Barbara Hannigan, and Christopher Purves?
 

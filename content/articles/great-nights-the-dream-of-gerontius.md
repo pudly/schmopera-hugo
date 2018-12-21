@@ -1,6 +1,8 @@
----
-title: "Great nights: The Dream of Gerontius"
----
++++
+categories = "Review"
+slug = /great-nights-the-dream-of-gerontius/
+title = "Great nights: The Dream of Gerontius"
++++
 
 It's said that Edward Elgar wasn't satisfied with calling his *The Dream of Gerontius* an oratorio, and it's not hard to see why. Last night's performance by the London Symphony Orchestra, under Sir Mark Elder, had the look of an oratorio, with singers holding scores and in-concert dress filling the stage of the Barbican Centre's Hall, yet the work itself was full of such specificity and honed drama that it felt, well, operatic.
 

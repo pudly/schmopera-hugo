@@ -1,6 +1,8 @@
----
-title: "Meet the folks: Pocket Concerts"
----
++++
+categories = "Interview"
+slug = /meet-the-folks-pocket-concerts/
+title = "Meet the folks: Pocket Concerts"
++++
 
 
 The concept of going to someone's house for some live chamber music might seem strange to anyone who isn't a big concert goer. But musicians know that house concerts are a common occurrence, that they're often under-advertised and often private, and that they're a fantastic way to experience music. The folks from [Pocket Concerts](/scene/companies/pocket-concerts/) are taking the in-home concert model, and making it an experience that anyone can have.

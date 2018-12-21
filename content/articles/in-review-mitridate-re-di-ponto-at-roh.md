@@ -1,6 +1,8 @@
----
-title: "In review: Mitridate, re di Ponto at ROH"
----
++++
+categories = "Review"
+slug = /in-review-mitridate-re-di-ponto-at-roh/
+title = "In review: Mitridate, re di Ponto at ROH"
++++
 
 I love being surprised when I go to the opera, but I find it’s a rare occurrence. I am often delighted and moved, but rarely surprised. On this occasion, *Mitridate, Re di Ponto* was full of the unexpected. First of all, I really wasn’t expecting to enjoy the piece the way I did. Usually four hours of back-to-back *da capo* arias is my idea of torture (that's not to say I don't like *da capo* arias, but an hour is enough!). But this production was captivating from the beginning - campy, full of colour and stunning aesthetic value, but particularly, full of incredibly refined and beautiful singing. 
 

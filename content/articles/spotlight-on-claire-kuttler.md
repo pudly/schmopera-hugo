@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Claire Kuttler"
----
++++
+categories = "Interview"
+slug = /spotlight-on-claire-kuttler/
+title = "Spotlight on: Claire Kuttler"
++++
 
 ## Why do you sing, and why are you doing it professionally? 
 

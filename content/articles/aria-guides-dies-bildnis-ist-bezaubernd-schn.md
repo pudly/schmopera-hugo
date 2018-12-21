@@ -1,6 +1,8 @@
----
-title: "Aria Guides: &quot;Dies Bildnis ist bezaubernd schön&quot;"
----
++++
+categories = "How-to"
+slug = /aria-guides-dies-bildnis-ist-bezaubernd-schn/
+title = "Aria Guides: &quot;Dies Bildnis ist bezaubernd schön&quot;"
++++
 
 <figure data-type="image">![](/webhook-uploads/1463133406870/Aria-Guide---Tamino---annotated---p1.jpg)
 </figure>

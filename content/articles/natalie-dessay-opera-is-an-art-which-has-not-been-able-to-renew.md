@@ -1,6 +1,8 @@
----
-title: "Natalie Dessay: &quot;opera is an art which has not been able to renew.&quot;"
----
++++
+categories = "Editorial"
+slug = /natalie-dessay-opera-is-an-art-which-has-not-been-able-to-renew/
+title = "Natalie Dessay: &quot;opera is an art which has not been able to renew.&quot;"
++++
 
 In an interview with [*Forum Opéra*](http://www.forumopera.com/actu/natalie-dessay-je-veux-metonner-moi-meme), star soprano Natalie Dessay made some comments that got our attention. Translated from French:
 

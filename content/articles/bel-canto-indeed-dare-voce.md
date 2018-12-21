@@ -1,6 +1,8 @@
----
-title: "Bel canto indeed: &quot;Dare Voce&quot;"
----
++++
+categories = "Interview"
+slug = /bel-canto-indeed-dare-voce/
+title = "Bel canto indeed: &quot;Dare Voce&quot;"
++++
 
 ## How did you discover your combined aesthetic for *Dare Voce*?
 

@@ -1,6 +1,8 @@
----
-title: "The weird mystery of the Met&#039;s &quot;diva directors&quot;"
----
++++
+categories = "Editorial"
+slug = /the-weird-mystery-of-the-mets-diva-directors/
+title = "The weird mystery of the Met&#039;s &quot;diva directors&quot;"
++++
 
 We came across a weird [article for *The Observer*](https://cdn.ampproject.org/c/observer.com/2017/02/met-review-opera-i-puritani/amp/) today by James Jorden, entitled, "At the Met, the Diva is the Director". Referring first to the Met's current production of *I Puritani*, starring [Javier Camarena](/scene/people/javier-camarena/) and [Diana Damrau](/scene/people/diana-damrau/), Jorden writes of the star soprano, "In a sense, she outshone even Camarena, because she not only sang the difficult leading role, she also directed the opera."
 

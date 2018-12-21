@@ -1,6 +1,8 @@
----
-title: "In review: Danielle de Niese and Julius Drake"
----
++++
+categories = "Review"
+slug = /in-review-danielle-de-niese-and-julius-drake/
+title = "In review: Danielle de Niese and Julius Drake"
++++
 
 For an enthusiastic, loyal audience, [Danielle de Niese](/scene/people/danielle-de-niese/) and [Julius Drake](/scene/people/julius-drake/) gave a recital at the Barbican Centre on Saturday evening. The programme was one that showed de Niese well; she allowed herself to dive straight into the detail-work with two songs by John Dowland, singing with her feminine, gentle sound that seemed to make her listeners lean in.
 

@@ -1,6 +1,8 @@
----
-title: "In review: The Merchant of Venice"
----
++++
+categories = "Review"
+slug = /in-review-the-merchant-of-venice/
+title = "In review: The Merchant of Venice"
++++
 
 [Welsh National Opera](/scene/companies/welsh-national-opera/) came to Covent Garden in a very short run of André Tchaikowsky's *The Merchant of Venice*. First performed in 2013 at the Bregenz Festival, Tchaikowsky's work was first written between 1968 and 1982. *The Merchant of Venice* was under consideration to be performed by English National Opera, but was not performed, and Tchaikowsky died shortly after in 1982. 
 

@@ -1,6 +1,8 @@
----
-title: "Must-see mash-ups: Mozart vs Machine"
----
++++
+categories = "News"
+slug = /mustsee-mashups-mozart-vs-machine/
+title = "Must-see mash-ups: Mozart vs Machine"
++++
 
 "It's sort of an information overload," says stage director [Frederic Wake-Walker](/scene/people/frederic-wake-walker/) of Mahogany Opera Group's touring production of [*Mozart vs Machine*](https://www.mahoganyoperagroup.co.uk/productions/mozart-vs-machine/). "It's almost like the whole piece is a theatricalised version of what we do when we're just flicking through Twitter and YouTube."
 

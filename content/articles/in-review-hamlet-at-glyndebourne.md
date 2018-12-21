@@ -1,6 +1,8 @@
----
-title: "In review: Hamlet at Glyndebourne"
----
++++
+categories = "Review"
+slug = /in-review-hamlet-at-glyndebourne/
+title = "In review: Hamlet at Glyndebourne"
++++
 
 This season is turning out to be pretty groundbreaking at Glyndebourne - the summer festival has already brought us an [unearthed opera by Cavalli](/in-review-hipermestra-at-glyndebourne/), and in addition we are getting their first commission since Peter Eötvös' *Love and Other Demons* in 2008. Brett Dean's operatic adaptation of *Hamlet* certainly gave us what we expect from a commission of Glyndebourne: exciting music, captivating storytelling, and tons of moments for the ensemble cast to shine vocally and dramatically.
  

@@ -1,6 +1,8 @@
----
-title: "In review: Puss in Boots &amp; Berio&#039;s Folk Songs"
----
++++
+categories = "Review"
+slug = /in-review-puss-in-boots-berios-folk-songs/
+title = "In review: Puss in Boots &amp; Berio&#039;s Folk Songs"
++++
 
 The Glenn Gould School presented its fall opera this week, a double bill of Xavier Montsalvatge's *El gato con botas* (*Puss in Boots*), and Luciano Berio's *Folk Songs*. The two shows are objectively different in musical style and dramatic inspiration, but director [Liza Balkan](/meet-the-director-liza-balkan/) writes that pairing *El gato* and *Folk Songs* "is a desire for storytelling that embraces surprise, humour, truth, freedom of play, and a willingness to be fearless and intimate with you, the audience."
 

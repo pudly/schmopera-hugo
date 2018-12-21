@@ -1,6 +1,8 @@
----
-title: "In review: Dead Man Walking at Miami Music Festival"
----
++++
+categories = "Review"
+slug = /in-review-dead-man-walking-at-miami-music-festival/
+title = "In review: Dead Man Walking at Miami Music Festival"
++++
 
 The Louisiana State Penitentiary, known as Angola, is the largest maximum-security prison in the United States. Most of the inmates – nearly three-quarters – are serving life sentences without the possibility of parole, in a state known for its stringent sentencing laws.
 

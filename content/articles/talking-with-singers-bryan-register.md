@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Bryan Register"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-bryan-register/
+title = "Talking with singers: Bryan Register"
++++
 
 After getting a quick tour of his gorgeous Camden apartment, we had the chance to sit down with American Heldentenor [Bryan Register](/scene/people/bryan-register/). We caught him during some much-needed downtime between gigs, before he makes his company debut with [Grange Park Opera](/scene/companies/grange-park-opera/) in the title role of *Tristan und Isolde*. It will be his first performance of the role in the UK, and he'll follow up his Grange Park shows with another Tristan in Tokyo. 
 

@@ -1,6 +1,8 @@
----
-title: "If opera characters went to the opera"
----
++++
+categories = "Humour"
+slug = /if-opera-characters-went-to-the-opera/
+title = "If opera characters went to the opera"
++++
 
 <h3>1. Manon<br>
 </h3>

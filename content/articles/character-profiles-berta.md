@@ -1,6 +1,7 @@
----
-title: "Character profiles: Berta"
----
++++
+slug = /character-profiles-berta/
+title = "Character profiles: Berta"
++++
 
 ### 1. What's it like working for the formidable Doctor Bartolo?
 

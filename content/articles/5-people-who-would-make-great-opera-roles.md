@@ -1,6 +1,8 @@
----
-title: "5 people who would make great opera roles"
----
++++
+categories = "Humour"
+slug = /5-people-who-would-make-great-opera-roles/
+title = "5 people who would make great opera roles"
++++
 
 ## Anna Wintour
 

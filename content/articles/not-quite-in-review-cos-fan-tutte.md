@@ -1,6 +1,8 @@
----
-title: "Not quite in review: Così fan tutte"
----
++++
+categories = "Review"
+slug = /not-quite-in-review-cos-fan-tutte/
+title = "Not quite in review: Così fan tutte"
++++
 
 Last night, I watched with a perma-grin as my friends and colleagues in the [Canadian Opera Company Ensemble Studio](http://www.coc.ca/aboutthecoc/companymembers/EnsembleStudio.aspx) had their performance of [_Così fan tutte_](http://www.coc.ca/PerformancesAndTickets/1314Season/CosiFanTutte/EnsembleStudioPerformance.aspx) at the Four Seasons Centre. I was fortunate to have worked with some of the cast in the early stages of learning their roles, and it was an amazing experience to hear the final product. Often the long hours spent on the same score throughout a rehearsal process can dull the brain; it's easy to forget the accomplishments and leaps forward everyone has made, and to take for granted the beauty of what's being created. Through my time working with them, my media-privilege glimpses in rehearsals, and my personal relationships with many of the singers, I had the perfect balance of a peek inside and a blank slate with which to attend the performance.
 And man, did they sing their hearts out. In Act I, [Aviva Fortunata](https://twitter.com/AvivaFortunata) and [Charlotte Burrage](https://twitter.com/burragec) introduced Fiordiligi and Dorabella as the perfectly relatable girls that they are; they made me laugh, and they sang superbly. As Fiordiligi, Aviva's was some of the most impressive singing of the night. Her "Come scoglio" earned tons of applause, and rightly so; she was fierce and hilarious, all channeled through her powerful instrument. Charlotte's Dorabella was hysterical and hilarious, throwing a perfect tantrum with her aria, "Smanie implacabili."

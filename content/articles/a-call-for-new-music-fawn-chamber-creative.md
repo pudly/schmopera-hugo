@@ -1,6 +1,8 @@
----
-title: "A call for new music: FAWN Chamber Creative"
----
++++
+categories = "News"
+slug = /a-call-for-new-music-fawn-chamber-creative/
+title = "A call for new music: FAWN Chamber Creative"
++++
 
 Composers, this one's for you!
 

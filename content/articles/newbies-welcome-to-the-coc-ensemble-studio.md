@@ -1,6 +1,8 @@
----
-title: "Newbies: Welcome to the COC Ensemble Studio!"
----
++++
+categories = "Editorial"
+slug = /newbies-welcome-to-the-coc-ensemble-studio/
+title = "Newbies: Welcome to the COC Ensemble Studio!"
++++
 
 The Canadian Opera Company has announced the names of three young singers and one pianist who will join the Ensemble Studio in the 2014/15 season. Soprano Karine Boucher, tenor Jean-Philippe Fortier-Lazure and bass-baritone Iain MacNeil were selected out of nine finalists who competed in the third annual Ensemble Studio Competition in November 2013\. Karine, Jean-Philippe and Iain were the top three prize winners at the competition, the feature event of _[Centre Stage](http://http://www.coc.ca/SupportTheCOC/SpecialEvents/CentreStage.aspx)_, the COC's first Ensemble Studio Competition Gala. In addition to these talented new young artists, the Ensemble Studio welcomes pianist Jennifer Szeto.
 The Ensemble Studio is Canada's most illustrious program for young singers and pianists, offering experience through performance and understudying of mainstage roles, language and acting studies, and coaching with the best people in the industry. Members of the Ensemble Studio are involved in the COC's annual Glencore Ensemble Studio School Tour, which brings opera to young people across Ontario. At the COC's [Free Concert Series in the Richard Bradshaw Amphitheatre](http://www.coc.ca/performancesandtickets/freeconcertseries.aspx) (an incredibly diverse series not to be missed) you can hear these young singers and pianists in recital.

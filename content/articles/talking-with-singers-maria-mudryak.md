@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Maria Mudryak"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-maria-mudryak/
+title = "Talking with singers: Maria Mudryak"
++++
 
 ## How did you plan and pace your operatic training as a teen?
 

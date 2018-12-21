@@ -1,6 +1,8 @@
----
-title: "Folds: the new full-length solo album from Nathan Shubert"
----
++++
+categories = "News"
+slug = /folds-the-new-fulllength-solo-album-from-nathan-shubert/
+title = "Folds: the new full-length solo album from Nathan Shubert"
++++
 
 We first heard the music of Vancouver-based pianist Nathan Shubert on [Official Piano Day 2016](/nathan-shubert-makes-the-most-of-official-piano-day/), when he released his "Saga Norén, Länskrim, Malmö", including a [live studio video](https://youtu.be/x8OG3fY-W4Y).
 

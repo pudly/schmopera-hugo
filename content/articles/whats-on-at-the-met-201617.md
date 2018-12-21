@@ -1,6 +1,8 @@
----
-title: "What&#039;s on at the Met: 2016/17"
----
++++
+categories = "Editorial"
+slug = /whats-on-at-the-met-201617/
+title = "What&#039;s on at the Met: 2016/17"
++++
 
 Well, [The Metropolitan Opera](/scene/people/metropolitan-opera/) has announced its [season line-up for 2016/17](http://www.metopera.org/Season/2016-17-Season/), and for the most part, the repertoire seems, to use an -ism from a [fellow blogger](https://operaramblings.wordpress.com/), quite the "steak dinner".
 

@@ -1,6 +1,8 @@
----
-title: "In review: An Evening with the Ensemble Studio"
----
++++
+categories = "Review"
+slug = /in-review-an-evening-with-the-ensemble-studio/
+title = "In review: An Evening with the Ensemble Studio"
++++
 
 Thursday night as Toronto just finished setting a record high temperature, it turns out this super early sunshine wasn't the only thing burning up the 6ix.
 

@@ -1,6 +1,8 @@
----
-title: "In review: Opera Atelier&#039;s Armide"
----
++++
+categories = "Review"
+slug = /in-review-opera-ateliers-armide/
+title = "In review: Opera Atelier&#039;s Armide"
++++
 
 Torquato Tasso's 1581 poem *La Gerusalemme liberata* has already taken up a large portion of my 2015/16 opera season. I just finished working on the Canadian Opera Company's current [triple bill](http://www.coc.ca/PerformancesAndTickets/1516Season/PyramusandThisbe.aspx), which includes Monteverdi's scena *Il combattimento di Tancredi e Clorinda*; the scene's libretto comes from Tasso's poem, in which the Christian Crusader Tancredi falls in love with Clorinda, a Muslim warrior, and kills her mistakenly in a night-cloaked battle.
 

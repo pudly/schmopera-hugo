@@ -1,6 +1,8 @@
----
-title: "A Lucia with agency and independence at the Royal Opera House"
----
++++
+categories = "Review"
+slug = /a-lucia-with-agency-and-independence-at-the-royal-opera-house/
+title = "A Lucia with agency and independence at the Royal Opera House"
++++
 
 I love a production that shakes up operagoers, and in its first season last year, [Katie Mitchell's production of *Lucia*](/in-review-lucia-di-lammermoor-at-roh/) did just that. People were up in arms about it. I saw it during the run and I was blown away by the intensity and beauty of the story. The the drama was unlike anything I'd ever seen from a bel canto opera and Lucia's fate brought me to floods of tears. It remains one of my favourite productions. Last night's revival of the show was a mixed experience for me. They’ve really taken a lot out of the show, I assume to please the ROH’s audience. Last year, I watched a wild Lucia unabashedly make love to Edgardo in the graveyard in Act I. I thought it was a powerful statement of her autonomy and her passion as a woman. This year, they'd removed the sensuality from the first act, something which I thought took away some of the power of the drama.
 
