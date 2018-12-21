@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /kira-braun-im-happiest-when-im-singing/
+slug = "kira-braun-im-happiest-when-im-singing"
 title = "Kira Braun: &quot;I&#039;m happiest when I&#039;m singing.&quot;"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /music-degrees-expectations-4-tips-for-new-students/
+slug = "music-degrees-expectations-4-tips-for-new-students"
 title = "Music degrees &amp; expectations: 4 tips for new students"
 +++
 

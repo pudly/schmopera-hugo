@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /a-tale-of-two-ciocio-sans/
+slug = "a-tale-of-two-ciocio-sans"
 title = "A Tale of Two Cio-Cio Sans"
 +++
 

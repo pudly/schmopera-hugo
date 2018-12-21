@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /misnomers-interstellar-sex-scenes-vasco-de-gama/
+slug = "misnomers-interstellar-sex-scenes-vasco-de-gama"
 title = "Misnomers &amp; interstellar sex scenes: Vasco de Gama"
 +++
 

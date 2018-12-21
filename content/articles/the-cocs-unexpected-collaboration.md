@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /the-cocs-unexpected-collaboration/
+slug = "the-cocs-unexpected-collaboration"
 title = "The COC&#039;s unexpected collaboration"
 +++
 

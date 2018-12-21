@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /a-daring-desirous-doublebill-at-opera-atelier/
+slug = "a-daring-desirous-doublebill-at-opera-atelier"
 title = "A daring &amp; desirous double-bill at Opera Atelier"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /everyday-arias-presents-14-new-opera-film-shorts/
+slug = "everyday-arias-presents-14-new-opera-film-shorts"
 title = "Everyday Arias presents 14 new opera film shorts"
 +++
 

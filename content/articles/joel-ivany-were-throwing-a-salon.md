@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /joel-ivany-were-throwing-a-salon/
+slug = "joel-ivany-were-throwing-a-salon"
 title = "Joel Ivany: &quot;We&#039;re throwing a salon.&quot;"
 +++
 

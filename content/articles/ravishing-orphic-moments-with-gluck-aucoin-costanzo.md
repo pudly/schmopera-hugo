@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /ravishing-orphic-moments-with-gluck-aucoin-costanzo/
+slug = "ravishing-orphic-moments-with-gluck-aucoin-costanzo"
 title = "Ravishing Orphic Moments with Gluck, Aucoin &amp; Costanzo"
 +++
 

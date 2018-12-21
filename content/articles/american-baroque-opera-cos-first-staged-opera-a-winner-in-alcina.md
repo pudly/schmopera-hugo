@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /american-baroque-opera-cos-first-staged-opera-a-winner-in-alcina/
+slug = "american-baroque-opera-cos-first-staged-opera-a-winner-in-alcina"
 title = "American Baroque Opera Co.&#039;s first staged opera a winner in Alcina"
 +++
 

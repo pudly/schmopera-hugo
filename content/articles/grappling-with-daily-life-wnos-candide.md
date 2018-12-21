@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /grappling-with-daily-life-wnos-candide/
+slug = "grappling-with-daily-life-wnos-candide"
 title = "Grappling with daily life: WNO&#039;s Candide"
 +++
 

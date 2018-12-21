@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-masked-ball-american-baroque-opera-cos-opera-cabaret/
+slug = "a-masked-ball-american-baroque-opera-cos-opera-cabaret"
 title = "A masked ball: American Baroque Opera Co.&#039;s Opera Cabaret"
 +++
 

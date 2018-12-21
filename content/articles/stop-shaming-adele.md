@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /stop-shaming-adele/
+slug = "stop-shaming-adele"
 title = "Stop shaming Adele"
 +++
 

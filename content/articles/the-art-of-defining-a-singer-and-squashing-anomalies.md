@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /the-art-of-defining-a-singer-and-squashing-anomalies/
+slug = "the-art-of-defining-a-singer-and-squashing-anomalies"
 title = "The Art of Defining a Singer and Squashing Anomalies"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /starcrossd-lovers-cross-artistic-lines-in-new-coproduction/
+slug = "starcrossd-lovers-cross-artistic-lines-in-new-coproduction"
 title = "&quot;Star-cross&#039;d lovers&quot; cross artistic lines in new co-production"
 +++
 

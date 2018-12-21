@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /ago-friday-nights-nostalgia-and-newchoir/
+slug = "ago-friday-nights-nostalgia-and-newchoir"
 title = "AGO Friday Nights: nostalgia and newchoir"
 +++
 

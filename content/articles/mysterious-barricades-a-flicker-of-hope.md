@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /mysterious-barricades-a-flicker-of-hope/
+slug = "mysterious-barricades-a-flicker-of-hope"
 title = "Mysterious Barricades: &quot;A flicker of hope.&quot;"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /lifelike-theatre-at-luminato-the-story-of-charlotte-salomon/
+slug = "lifelike-theatre-at-luminato-the-story-of-charlotte-salomon"
 title = "Life-like theatre at Luminato: the story of Charlotte Salomon"
 +++
 

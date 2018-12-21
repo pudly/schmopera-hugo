@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /nasty-women-great-operas-opera-5s-suffragette/
+slug = "nasty-women-great-operas-opera-5s-suffragette"
 title = "Nasty women, great operas: Opera 5&#039;s Suffragette"
 +++
 

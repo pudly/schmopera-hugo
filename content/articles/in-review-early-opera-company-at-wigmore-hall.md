@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-early-opera-company-at-wigmore-hall/
+slug = "in-review-early-opera-company-at-wigmore-hall"
 title = "In review: Early Opera Company at Wigmore Hall"
 +++
 

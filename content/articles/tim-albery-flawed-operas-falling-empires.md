@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /tim-albery-flawed-operas-falling-empires/
+slug = "tim-albery-flawed-operas-falling-empires"
 title = "Tim Albery: flawed operas &amp; falling empires"
 +++
 

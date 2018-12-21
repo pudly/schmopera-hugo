@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /the-price-of-vengeance-rigoletto-at-roh/
+slug = "the-price-of-vengeance-rigoletto-at-roh"
 title = "The price of vengeance: Rigoletto at ROH"
 +++
 

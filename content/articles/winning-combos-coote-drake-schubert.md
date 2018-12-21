@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /winning-combos-coote-drake-schubert/
+slug = "winning-combos-coote-drake-schubert"
 title = "Winning combos: Coote, Drake, &amp; Schubert"
 +++
 

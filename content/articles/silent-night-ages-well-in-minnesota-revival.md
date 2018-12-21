@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /silent-night-ages-well-in-minnesota-revival/
+slug = "silent-night-ages-well-in-minnesota-revival"
 title = "Silent Night ages well in Minnesota revival"
 +++
 

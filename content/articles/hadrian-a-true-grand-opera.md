@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /hadrian-a-true-grand-opera/
+slug = "hadrian-a-true-grand-opera"
 title = "Hadrian: a true grand opera"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /voice-types-for-politicians/
+slug = "voice-types-for-politicians"
 title = "Voice types for politicians"
 +++
 

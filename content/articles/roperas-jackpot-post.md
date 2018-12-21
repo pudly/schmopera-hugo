@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /roperas-jackpot-post/
+slug = "roperas-jackpot-post"
 title = "r/opera&#039;s jackpot post"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /3-tv-opera-references-with-great-meaning-maybe/
+slug = "3-tv-opera-references-with-great-meaning-maybe"
 title = "3 TV opera references with great meaning (maybe)"
 +++
 

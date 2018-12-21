@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /risky-opinions-there-are-2-types-of-singers/
+slug = "risky-opinions-there-are-2-types-of-singers"
 title = "Risky opinions: there are 2 types of singers..."
 +++
 

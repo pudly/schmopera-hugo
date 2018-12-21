@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /beloved-bernstein-hgos-west-side-story/
+slug = "beloved-bernstein-hgos-west-side-story"
 title = "Beloved Bernstein: HGO&#039;s West Side Story"
 +++
 

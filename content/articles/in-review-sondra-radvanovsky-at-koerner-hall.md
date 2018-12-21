@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-sondra-radvanovsky-at-koerner-hall/
+slug = "in-review-sondra-radvanovsky-at-koerner-hall"
 title = "In review: Sondra Radvanovsky at Koerner Hall"
 +++
 

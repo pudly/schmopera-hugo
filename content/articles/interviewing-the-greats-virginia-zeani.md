@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /interviewing-the-greats-virginia-zeani/
+slug = "interviewing-the-greats-virginia-zeani"
 title = "Interviewing the Greats: Virginia Zeani"
 +++
 

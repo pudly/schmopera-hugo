@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /opera-for-lunch-the-roh-young-artists-in-concert/
+slug = "opera-for-lunch-the-roh-young-artists-in-concert"
 title = "Opera for lunch: the ROH Young Artists in concert"
 +++
 

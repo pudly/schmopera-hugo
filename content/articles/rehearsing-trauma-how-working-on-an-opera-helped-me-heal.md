@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /rehearsing-trauma-how-working-on-an-opera-helped-me-heal/
+slug = "rehearsing-trauma-how-working-on-an-opera-helped-me-heal"
 title = "Rehearsing trauma: How working on an opera helped me heal"
 +++
 

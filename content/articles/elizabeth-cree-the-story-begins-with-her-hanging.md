@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /elizabeth-cree-the-story-begins-with-her-hanging/
+slug = "elizabeth-cree-the-story-begins-with-her-hanging"
 title = "Elizabeth Cree: &quot;The story begins with her hanging.&quot;"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /its-official-breaking-the-waves-wins-best-new-opera/
+slug = "its-official-breaking-the-waves-wins-best-new-opera"
 title = "It&#039;s official: Breaking the Waves wins Best New Opera"
 +++
 

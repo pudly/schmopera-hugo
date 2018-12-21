@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /the-mets-201819-seaszzzzzzzzz/
+slug = "the-mets-201819-seaszzzzzzzzz"
 title = "The Met&#039;s 2018/19 seas...zzzzzzzzz"
 +++
 

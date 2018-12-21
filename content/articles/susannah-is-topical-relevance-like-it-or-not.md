@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /susannah-is-topical-relevance-like-it-or-not/
+slug = "susannah-is-topical-relevance-like-it-or-not"
 title = "Susannah is topical relevance, like it or not"
 +++
 

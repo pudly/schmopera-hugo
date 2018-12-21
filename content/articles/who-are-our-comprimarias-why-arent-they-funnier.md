@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /who-are-our-comprimarias-why-arent-they-funnier/
+slug = "who-are-our-comprimarias-why-arent-they-funnier"
 title = "Who are our comprimarias, &amp; why aren&#039;t they funnier?"
 +++
 

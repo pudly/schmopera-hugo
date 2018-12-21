@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /yannick-nzetsguin-musicals-and-great-timing/
+slug = "yannick-nzetsguin-musicals-and-great-timing"
 title = "Yannick Nézet-Séguin, musicals, and great timing"
 +++
 

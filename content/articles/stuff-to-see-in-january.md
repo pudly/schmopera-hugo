@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /stuff-to-see-in-january/
+slug = "stuff-to-see-in-january"
 title = "Stuff to see in January"
 +++
 

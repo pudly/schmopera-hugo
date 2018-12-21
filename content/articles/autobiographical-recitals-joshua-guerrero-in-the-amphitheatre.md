@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /autobiographical-recitals-joshua-guerrero-in-the-amphitheatre/
+slug = "autobiographical-recitals-joshua-guerrero-in-the-amphitheatre"
 title = "Autobiographical recitals: Joshua Guerrero in the Amphitheatre"
 +++
 

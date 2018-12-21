@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-composers-kieren-macmillan/
+slug = "talking-with-composers-kieren-macmillan"
 title = "Talking with composers: Kieren MacMillan"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /bocelli-evancho-to-sing-at-trump-inauguration-opera-folk-feel-weird-about-it/
+slug = "bocelli-evancho-to-sing-at-trump-inauguration-opera-folk-feel-weird-about-it"
 title = "Bocelli &amp; Evancho to sing at Trump inauguration, opera folk feel weird about it"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /fallis-wraps-27-years-with-the-toronto-consort/
+slug = "fallis-wraps-27-years-with-the-toronto-consort"
 title = "Fallis wraps 27 years with the Toronto Consort"
 +++
 

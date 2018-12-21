@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /story-webs-the-original-romeo-juliet/
+slug = "story-webs-the-original-romeo-juliet"
 title = "Story webs &amp; the original Romeo &amp; Juliet"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /hear-the-tso-for-free/
+slug = "hear-the-tso-for-free"
 title = "Hear the TSO for free!"
 +++
 

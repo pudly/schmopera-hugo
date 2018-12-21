@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /slippery-slopes/
+slug = "slippery-slopes"
 title = "Slippery slopes"
 +++
 

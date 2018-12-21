@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /i-think-it-takes-a-brave-artist-to-do-something-like-an-opera-pub/
+slug = "i-think-it-takes-a-brave-artist-to-do-something-like-an-opera-pub"
 title = "&quot;I think it takes a brave artist to do something like an Opera Pub.&quot;"
 +++
 

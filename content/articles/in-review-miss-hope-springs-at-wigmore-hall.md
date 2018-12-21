@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-miss-hope-springs-at-wigmore-hall/
+slug = "in-review-miss-hope-springs-at-wigmore-hall"
 title = "In review: Miss Hope Springs at Wigmore Hall"
 +++
 

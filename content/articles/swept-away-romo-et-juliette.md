@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /swept-away-romo-et-juliette/
+slug = "swept-away-romo-et-juliette"
 title = "Swept away: Roméo et Juliette"
 +++
 

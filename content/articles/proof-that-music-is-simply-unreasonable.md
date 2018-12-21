@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /proof-that-music-is-simply-unreasonable/
+slug = "proof-that-music-is-simply-unreasonable"
 title = "Proof that Music is Simply Unreasonable"
 +++
 

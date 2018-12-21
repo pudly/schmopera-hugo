@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /tales-from-the-score-peter-grimes/
+slug = "tales-from-the-score-peter-grimes"
 title = "Tales from the score: Peter Grimes"
 +++
 

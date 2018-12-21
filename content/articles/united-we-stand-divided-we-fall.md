@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /united-we-stand-divided-we-fall/
+slug = "united-we-stand-divided-we-fall"
 title = "United we stand, divided we fall"
 +++
 

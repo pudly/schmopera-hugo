@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /new-opera-more-singer-input-needed/
+slug = "new-opera-more-singer-input-needed"
 title = "New Opera: More Singer Input Needed"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /singing-at-the-tso-201516-/
+slug = "singing-at-the-tso-201516-"
 title = "Singing at the TSO, 2015/16 "
 +++
 

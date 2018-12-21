@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /spotlight-on-maikai-nash/
+slug = "spotlight-on-maikai-nash"
 title = "Spotlight on: Maika&#039;i Nash"
 +++
 

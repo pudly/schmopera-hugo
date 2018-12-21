@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /metro-youth-operas-kate-applin-on-myobabn/
+slug = "metro-youth-operas-kate-applin-on-myobabn"
 title = "Metro Youth Opera&#039;s Kate Applin on #MYOBéaBén"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /ah-non-abbiamo-il-soprano/
+slug = "ah-non-abbiamo-il-soprano"
 title = "&quot;Ah! Non abbiamo il soprano!&quot;"
 +++
 

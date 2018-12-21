@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /sexy-operas-the-tale-of-januarie/
+slug = "sexy-operas-the-tale-of-januarie"
 title = "Sexy operas: The Tale of Januarie"
 +++
 

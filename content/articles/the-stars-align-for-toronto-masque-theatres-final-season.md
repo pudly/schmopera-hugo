@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /the-stars-align-for-toronto-masque-theatres-final-season/
+slug = "the-stars-align-for-toronto-masque-theatres-final-season"
 title = "The stars align for Toronto Masque Theatre&#039;s final season"
 +++
 

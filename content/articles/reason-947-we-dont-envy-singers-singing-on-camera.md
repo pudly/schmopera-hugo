@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /reason-947-we-dont-envy-singers-singing-on-camera/
+slug = "reason-947-we-dont-envy-singers-singing-on-camera"
 title = "Reason #947 we don&#039;t envy singers: singing on camera"
 +++
 

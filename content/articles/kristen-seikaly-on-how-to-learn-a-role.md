@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /kristen-seikaly-on-how-to-learn-a-role/
+slug = "kristen-seikaly-on-how-to-learn-a-role"
 title = "Kristen Seikaly on how to learn a role"
 +++
 

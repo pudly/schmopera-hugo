@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /cool-concerts-esprit-orchestras-201617-season/
+slug = "cool-concerts-esprit-orchestras-201617-season"
 title = "Cool concerts: Esprit Orchestra&#039;s 2016/17 season"
 +++
 

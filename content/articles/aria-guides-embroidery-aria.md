@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /aria-guides-embroidery-aria/
+slug = "aria-guides-embroidery-aria"
 title = "Aria guides: Embroidery Aria"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /he-saidshe-said-talisker-players-with-carla-huhtanen-andrea-ludwig/
+slug = "he-saidshe-said-talisker-players-with-carla-huhtanen-andrea-ludwig"
 title = "He said/she said: Talisker Players, with Carla Huhtanen &amp; Andrea Ludwig"
 +++
 

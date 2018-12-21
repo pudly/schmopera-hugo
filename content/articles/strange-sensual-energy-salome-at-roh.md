@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /strange-sensual-energy-salome-at-roh/
+slug = "strange-sensual-energy-salome-at-roh"
 title = "Strange sensual energy: Salome at ROH"
 +++
 

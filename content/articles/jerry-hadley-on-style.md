@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /jerry-hadley-on-style/
+slug = "jerry-hadley-on-style"
 title = "Jerry Hadley, on style"
 +++
 

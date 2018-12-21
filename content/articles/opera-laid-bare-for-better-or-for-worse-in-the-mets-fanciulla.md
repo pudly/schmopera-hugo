@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /opera-laid-bare-for-better-or-for-worse-in-the-mets-fanciulla/
+slug = "opera-laid-bare-for-better-or-for-worse-in-the-mets-fanciulla"
 title = "Opera laid bare, for better or for worse in the Met&#039;s Fanciulla"
 +++
 

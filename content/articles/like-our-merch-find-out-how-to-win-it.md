@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /like-our-merch-find-out-how-to-win-it/
+slug = "like-our-merch-find-out-how-to-win-it"
 title = "Like our merch? Find out how to win it!"
 +++
 

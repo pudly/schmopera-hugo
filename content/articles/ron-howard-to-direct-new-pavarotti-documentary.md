@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /ron-howard-to-direct-new-pavarotti-documentary/
+slug = "ron-howard-to-direct-new-pavarotti-documentary"
 title = "Ron Howard to direct new Pavarotti documentary"
 +++
 

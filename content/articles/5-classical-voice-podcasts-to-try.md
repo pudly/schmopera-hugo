@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /5-classical-voice-podcasts-to-try/
+slug = "5-classical-voice-podcasts-to-try"
 title = "5 classical voice podcasts to try"
 +++
 

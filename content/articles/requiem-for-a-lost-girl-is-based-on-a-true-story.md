@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /requiem-for-a-lost-girl-is-based-on-a-true-story/
+slug = "requiem-for-a-lost-girl-is-based-on-a-true-story"
 title = "&quot;Requiem for a Lost Girl is based on a true story.&quot;"
 +++
 

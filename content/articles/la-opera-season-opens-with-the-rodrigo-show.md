@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /la-opera-season-opens-with-the-rodrigo-show/
+slug = "la-opera-season-opens-with-the-rodrigo-show"
 title = "LA Opera season opens with The Rodrigo Show"
 +++
 

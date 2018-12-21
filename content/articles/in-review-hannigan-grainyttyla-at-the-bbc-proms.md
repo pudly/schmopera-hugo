@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-hannigan-grainyttyla-at-the-bbc-proms/
+slug = "in-review-hannigan-grainyttyla-at-the-bbc-proms"
 title = "In review: Hannigan &amp; Gražinytė-Tyla at the BBC Proms"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /heavy-scenes-the-fast-lane-to-a-great-rehearsal-room/
+slug = "heavy-scenes-the-fast-lane-to-a-great-rehearsal-room"
 title = "Heavy scenes: the fast lane to a great rehearsal room"
 +++
 

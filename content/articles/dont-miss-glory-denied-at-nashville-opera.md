@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dont-miss-glory-denied-at-nashville-opera/
+slug = "dont-miss-glory-denied-at-nashville-opera"
 title = "Don&#039;t miss: Glory Denied at Nashville Opera"
 +++
 

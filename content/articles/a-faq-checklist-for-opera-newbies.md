@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /a-faq-checklist-for-opera-newbies/
+slug = "a-faq-checklist-for-opera-newbies"
 title = "A FAQ checklist for opera newbies"
 +++
 

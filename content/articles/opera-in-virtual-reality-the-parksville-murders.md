@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /opera-in-virtual-reality-the-parksville-murders/
+slug = "opera-in-virtual-reality-the-parksville-murders"
 title = "Opera in virtual reality: The Parksville Murders"
 +++
 

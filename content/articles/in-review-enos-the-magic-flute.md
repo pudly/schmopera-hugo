@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-enos-the-magic-flute/
+slug = "in-review-enos-the-magic-flute"
 title = "In review: ENO&#039;s The Magic Flute"
 +++
 

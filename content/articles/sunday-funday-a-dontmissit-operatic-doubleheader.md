@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /sunday-funday-a-dontmissit-operatic-doubleheader/
+slug = "sunday-funday-a-dontmissit-operatic-doubleheader"
 title = "Sunday Funday: a don&#039;t-miss-it operatic double-header"
 +++
 

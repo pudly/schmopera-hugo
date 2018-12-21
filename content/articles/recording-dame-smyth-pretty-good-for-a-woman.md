@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /recording-dame-smyth-pretty-good-for-a-woman/
+slug = "recording-dame-smyth-pretty-good-for-a-woman"
 title = "Recording Dame Smyth: &quot;Pretty good - for a woman.&quot;"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /bad-editions-and-the-limits-of-the-notes/
+slug = "bad-editions-and-the-limits-of-the-notes"
 title = "Bad Editions and the Limits of the Notes"
 +++
 

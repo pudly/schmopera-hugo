@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /kristine-dandavino-on-oshawa-opera/
+slug = "kristine-dandavino-on-oshawa-opera"
 title = "Kristine Dandavino on Oshawa Opera"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /recitals-that-stick-matthias-goerne-at-wigmore-hall/
+slug = "recitals-that-stick-matthias-goerne-at-wigmore-hall"
 title = "Recitals that stick: Matthias Goerne at Wigmore Hall"
 +++
 

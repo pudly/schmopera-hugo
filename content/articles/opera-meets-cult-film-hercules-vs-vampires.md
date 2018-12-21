@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /opera-meets-cult-film-hercules-vs-vampires/
+slug = "opera-meets-cult-film-hercules-vs-vampires"
 title = "Opera meets cult film: Hercules vs. Vampires"
 +++
 

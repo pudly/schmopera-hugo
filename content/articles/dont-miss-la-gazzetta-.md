@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dont-miss-la-gazzetta-/
+slug = "dont-miss-la-gazzetta-"
 title = "Don&#039;t miss: La gazzetta "
 +++
 

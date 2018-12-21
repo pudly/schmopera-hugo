@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-isabel-bayrakdarian-and-tafelmusik/
+slug = "in-review-isabel-bayrakdarian-and-tafelmusik"
 title = "In review: Isabel Bayrakdarian and Tafelmusik"
 +++
 

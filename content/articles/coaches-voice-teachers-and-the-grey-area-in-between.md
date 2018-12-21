@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /coaches-voice-teachers-and-the-grey-area-in-between/
+slug = "coaches-voice-teachers-and-the-grey-area-in-between"
 title = "Coaches, voice teachers, and the grey area in between"
 +++
 

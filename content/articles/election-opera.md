@@ -1,5 +1,5 @@
 +++
-slug = /election-opera/
+slug = "election-opera"
 title = "Election opera"
 +++
 

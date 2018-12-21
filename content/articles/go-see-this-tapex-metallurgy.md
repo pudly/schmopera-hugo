@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /go-see-this-tapex-metallurgy/
+slug = "go-see-this-tapex-metallurgy"
 title = "Go see this: Tap:Ex Metallurgy"
 +++
 

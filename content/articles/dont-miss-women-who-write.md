@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-women-who-write/
+slug = "dont-miss-women-who-write"
 title = "Don&#039;t miss: Women Who Write"
 +++
 

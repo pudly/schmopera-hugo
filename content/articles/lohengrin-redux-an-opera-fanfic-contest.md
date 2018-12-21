@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /lohengrin-redux-an-opera-fanfic-contest/
+slug = "lohengrin-redux-an-opera-fanfic-contest"
 title = "Lohengrin Redux: an opera fanfic contest"
 +++
 

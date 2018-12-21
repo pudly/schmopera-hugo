@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /podcast-iv/
+slug = "podcast-iv"
 title = "Podcast IV"
 +++
 

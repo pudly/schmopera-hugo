@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /cosmic-grandeur-and-human-frailty-crossing/
+slug = "cosmic-grandeur-and-human-frailty-crossing"
 title = "Cosmic grandeur and human frailty: Crossing"
 +++
 

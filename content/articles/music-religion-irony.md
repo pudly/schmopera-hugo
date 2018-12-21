@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /music-religion-irony/
+slug = "music-religion-irony"
 title = "Music, religion, &amp; irony"
 +++
 

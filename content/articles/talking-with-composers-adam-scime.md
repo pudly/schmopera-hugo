@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-composers-adam-scime/
+slug = "talking-with-composers-adam-scime"
 title = "Talking with composers: Adam Scime"
 +++
 

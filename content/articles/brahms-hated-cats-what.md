@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /brahms-hated-cats-what/
+slug = "brahms-hated-cats-what"
 title = "Brahms hated cats? What?"
 +++
 

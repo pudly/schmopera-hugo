@@ -1,5 +1,5 @@
 +++
-slug = /musicians-of-the-met-orchestra-days-of-their-lives/
+slug = "musicians-of-the-met-orchestra-days-of-their-lives"
 title = "Musicians of the MET Orchestra: Days of Their Lives"
 +++
 

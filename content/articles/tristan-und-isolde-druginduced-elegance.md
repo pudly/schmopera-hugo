@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /tristan-und-isolde-druginduced-elegance/
+slug = "tristan-und-isolde-druginduced-elegance"
 title = "Tristan und Isolde: drug-induced elegance"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-la-belle-hlne/
+slug = "in-review-la-belle-hlne"
 title = "In review: La belle Hélène"
 +++
 

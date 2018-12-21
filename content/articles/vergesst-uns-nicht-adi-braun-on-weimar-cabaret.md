@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /vergesst-uns-nicht-adi-braun-on-weimar-cabaret/
+slug = "vergesst-uns-nicht-adi-braun-on-weimar-cabaret"
 title = "&quot;Vergesst uns nicht!&quot;: Adi Braun on Weimar cabaret"
 +++
 

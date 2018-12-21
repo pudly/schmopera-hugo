@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /new-programs-opera-at-tanglewood/
+slug = "new-programs-opera-at-tanglewood"
 title = "New programs: Opera at Tanglewood"
 +++
 

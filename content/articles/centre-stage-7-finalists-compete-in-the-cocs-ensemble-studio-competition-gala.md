@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /centre-stage-7-finalists-compete-in-the-cocs-ensemble-studio-competition-gala/
+slug = "centre-stage-7-finalists-compete-in-the-cocs-ensemble-studio-competition-gala"
 title = "Centre Stage: 7 finalists compete in the COC&#039;s Ensemble Studio Competition Gala"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /heavy-nights-schoenberg-brahms-the-lpo-and-goerne/
+slug = "heavy-nights-schoenberg-brahms-the-lpo-and-goerne"
 title = "Heavy nights: Schoenberg &amp; Brahms, the LPO and Goerne"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-the-demon-at-ava/
+slug = "dont-miss-the-demon-at-ava"
 title = "Don&#039;t miss: The Demon at AVA"
 +++
 

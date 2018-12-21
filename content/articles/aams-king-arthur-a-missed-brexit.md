@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /aams-king-arthur-a-missed-brexit/
+slug = "aams-king-arthur-a-missed-brexit"
 title = "AAM&#039;s King Arthur: a missed Brexit"
 +++
 

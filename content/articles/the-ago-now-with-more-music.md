@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /the-ago-now-with-more-music/
+slug = "the-ago-now-with-more-music"
 title = "The AGO, now with more music!"
 +++
 

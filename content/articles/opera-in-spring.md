@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /opera-in-spring/
+slug = "opera-in-spring"
 title = "Opera in Spring"
 +++
 

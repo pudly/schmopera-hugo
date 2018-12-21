@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /being-a-nice-person-why-art-really-really-matters/
+slug = "being-a-nice-person-why-art-really-really-matters"
 title = "Being a nice person: why art really, really matters"
 +++
 

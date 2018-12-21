@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /he-saidshe-said-aprile-millo-at-trinity-st-pauls/
+slug = "he-saidshe-said-aprile-millo-at-trinity-st-pauls"
 title = "He said/She said: Aprile Millo at Trinity St. Paul&#039;s"
 +++
 

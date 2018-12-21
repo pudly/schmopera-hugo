@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /intimate-brewery-room-la-bohme-a-revelatory-triumph/
+slug = "intimate-brewery-room-la-bohme-a-revelatory-triumph"
 title = "Intimate Brewery Room La Bohème A Revelatory Triumph"
 +++
 

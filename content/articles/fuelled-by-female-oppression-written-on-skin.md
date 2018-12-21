@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /fuelled-by-female-oppression-written-on-skin/
+slug = "fuelled-by-female-oppression-written-on-skin"
 title = "Fuelled by female oppression: Written on Skin"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /a-game-of-would-you-rather-or-please-prove-me-wrong/
+slug = "a-game-of-would-you-rather-or-please-prove-me-wrong"
 title = "A game of &quot;would you rather&quot; or, please prove me wrong"
 +++
 

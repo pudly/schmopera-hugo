@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /offcentre-stage-the-coc-ensemble-studio-competition/
+slug = "offcentre-stage-the-coc-ensemble-studio-competition"
 title = "Off-Centre Stage: the COC Ensemble Studio Competition"
 +++
 

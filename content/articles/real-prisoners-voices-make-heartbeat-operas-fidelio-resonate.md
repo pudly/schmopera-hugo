@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /real-prisoners-voices-make-heartbeat-operas-fidelio-resonate/
+slug = "real-prisoners-voices-make-heartbeat-operas-fidelio-resonate"
 title = "Real Prisoners&#039; Voices Make Heartbeat Opera&#039;s &quot;Fidelio&quot; Resonate"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /alainas-autocorrect/
+slug = "alainas-autocorrect"
 title = "Alaina&#039;s AutoCorrect"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /4-things-youre-probably-thankful-for-if-youre-an-opera-fan/
+slug = "4-things-youre-probably-thankful-for-if-youre-an-opera-fan"
 title = "4 things you&#039;re probably thankful for if you&#039;re an opera fan"
 +++
 

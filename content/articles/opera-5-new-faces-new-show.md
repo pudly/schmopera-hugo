@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /opera-5-new-faces-new-show/
+slug = "opera-5-new-faces-new-show"
 title = "Opera 5: new faces, new show"
 +++
 

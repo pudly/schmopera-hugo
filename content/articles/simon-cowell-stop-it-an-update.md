@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /simon-cowell-stop-it-an-update/
+slug = "simon-cowell-stop-it-an-update"
 title = "Simon Cowell, stop it: An Update"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /rhythm-the-good-the-bad-and-the-stressful/
+slug = "rhythm-the-good-the-bad-and-the-stressful"
 title = "Rhythm: the good, the bad, and the stressful"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /saturday-afternoon-with-ariadne/
+slug = "saturday-afternoon-with-ariadne"
 title = "Saturday Afternoon with Ariadne"
 +++
 

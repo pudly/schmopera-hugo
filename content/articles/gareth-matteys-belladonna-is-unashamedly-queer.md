@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /gareth-matteys-belladonna-is-unashamedly-queer/
+slug = "gareth-matteys-belladonna-is-unashamedly-queer"
 title = "Gareth Mattey&#039;s Belladonna is &quot;unashamedly queer&quot;"
 +++
 

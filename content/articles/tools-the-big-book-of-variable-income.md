@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /tools-the-big-book-of-variable-income/
+slug = "tools-the-big-book-of-variable-income"
 title = "Tools: The Big Book of Variable Income"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /meet-the-folks-opera-after-hours-debi-wong/
+slug = "meet-the-folks-opera-after-hours-debi-wong"
 title = "Meet the folks: Opera After Hours&#039; Debi Wong"
 +++
 

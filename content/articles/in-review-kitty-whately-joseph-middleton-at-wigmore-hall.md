@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-kitty-whately-joseph-middleton-at-wigmore-hall/
+slug = "in-review-kitty-whately-joseph-middleton-at-wigmore-hall"
 title = "In review: Kitty Whately &amp; Joseph Middleton at Wigmore Hall"
 +++
 

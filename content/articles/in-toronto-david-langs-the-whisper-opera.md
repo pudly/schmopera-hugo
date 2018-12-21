@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /in-toronto-david-langs-the-whisper-opera/
+slug = "in-toronto-david-langs-the-whisper-opera"
 title = "In Toronto: David Lang&#039;s The Whisper Opera"
 +++
 

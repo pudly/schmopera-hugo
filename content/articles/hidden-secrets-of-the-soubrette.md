@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /hidden-secrets-of-the-soubrette/
+slug = "hidden-secrets-of-the-soubrette"
 title = "Hidden secrets of the soubrette"
 +++
 

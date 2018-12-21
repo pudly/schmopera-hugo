@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /coming-up-norma-by-request/
+slug = "coming-up-norma-by-request"
 title = "Coming up: Norma by request"
 +++
 

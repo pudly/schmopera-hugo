@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /gibson-girls-and-the-great-opera-theyd-make/
+slug = "gibson-girls-and-the-great-opera-theyd-make"
 title = "Gibson Girls, and the Great Opera They&#039;d Make"
 +++
 

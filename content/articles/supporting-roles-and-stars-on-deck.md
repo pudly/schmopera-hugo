@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /supporting-roles-and-stars-on-deck/
+slug = "supporting-roles-and-stars-on-deck"
 title = "Supporting roles, and stars on deck"
 +++
 

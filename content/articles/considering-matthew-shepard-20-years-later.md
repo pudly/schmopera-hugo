@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /considering-matthew-shepard-20-years-later/
+slug = "considering-matthew-shepard-20-years-later"
 title = "Considering Matthew Shepard: 20 years later"
 +++
 

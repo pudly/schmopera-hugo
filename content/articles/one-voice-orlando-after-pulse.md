@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /one-voice-orlando-after-pulse/
+slug = "one-voice-orlando-after-pulse"
 title = "One Voice Orlando: after Pulse"
 +++
 

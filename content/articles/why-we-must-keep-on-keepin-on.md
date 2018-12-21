@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /why-we-must-keep-on-keepin-on/
+slug = "why-we-must-keep-on-keepin-on"
 title = "Why we must keep on keepin&#039; on"
 +++
 

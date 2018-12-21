@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-ekaterina-gubanova-rachel-andrist-in-recital/
+slug = "in-review-ekaterina-gubanova-rachel-andrist-in-recital"
 title = "In review: Ekaterina Gubanova &amp; Rachel Andrist in recital"
 +++
 

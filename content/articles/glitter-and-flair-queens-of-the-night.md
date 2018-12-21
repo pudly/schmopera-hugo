@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /glitter-and-flair-queens-of-the-night/
+slug = "glitter-and-flair-queens-of-the-night"
 title = "Glitter and flair: Queens of the Night"
 +++
 

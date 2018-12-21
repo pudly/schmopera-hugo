@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-tapex-tables-turned-or-go-see-this-show/
+slug = "in-review-tapex-tables-turned-or-go-see-this-show"
 title = "In review: Tap:Ex Tables Turned, or Go See This Show"
 +++
 

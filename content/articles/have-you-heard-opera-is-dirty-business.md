@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /have-you-heard-opera-is-dirty-business/
+slug = "have-you-heard-opera-is-dirty-business"
 title = "Have you heard? Opera is dirty business"
 +++
 

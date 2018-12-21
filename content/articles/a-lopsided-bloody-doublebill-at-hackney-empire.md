@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-lopsided-bloody-doublebill-at-hackney-empire/
+slug = "a-lopsided-bloody-doublebill-at-hackney-empire"
 title = "A lopsided &amp; bloody double-bill at Hackney Empire"
 +++
 

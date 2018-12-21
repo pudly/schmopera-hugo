@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-the-first-commandment/
+slug = "in-review-the-first-commandment"
 title = "In review: The First Commandment"
 +++
 

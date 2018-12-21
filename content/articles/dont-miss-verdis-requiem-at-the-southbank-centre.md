@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dont-miss-verdis-requiem-at-the-southbank-centre/
+slug = "dont-miss-verdis-requiem-at-the-southbank-centre"
 title = "Don&#039;t miss: Verdi&#039;s Requiem at the Southbank Centre"
 +++
 

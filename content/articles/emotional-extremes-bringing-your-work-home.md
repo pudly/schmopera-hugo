@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /emotional-extremes-bringing-your-work-home/
+slug = "emotional-extremes-bringing-your-work-home"
 title = "Emotional extremes &amp; bringing your work home"
 +++
 

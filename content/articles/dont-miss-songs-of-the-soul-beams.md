@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dont-miss-songs-of-the-soul-beams/
+slug = "dont-miss-songs-of-the-soul-beams"
 title = "Don&#039;t miss: Songs of the Soul Beams"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /the-lady-steals-the-spotlight-in-rohs-macbeth/
+slug = "the-lady-steals-the-spotlight-in-rohs-macbeth"
 title = "The Lady steals the spotlight in ROH&#039;s Macbeth"
 +++
 

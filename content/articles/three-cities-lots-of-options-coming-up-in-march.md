@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /three-cities-lots-of-options-coming-up-in-march/
+slug = "three-cities-lots-of-options-coming-up-in-march"
 title = "Three cities, lots of options: coming up in March"
 +++
 

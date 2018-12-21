@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /the-guy-who-sang-at-the-met-2928-times/
+slug = "the-guy-who-sang-at-the-met-2928-times"
 title = "The guy who sang at the Met 2,928 times"
 +++
 

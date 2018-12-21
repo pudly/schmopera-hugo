@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /strong-despite-the-details-rigoletto-in-minnesota/
+slug = "strong-despite-the-details-rigoletto-in-minnesota"
 title = "Strong despite the details: Rigoletto in Minnesota"
 +++
 

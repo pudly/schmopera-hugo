@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /natalie-dessay-opera-is-an-art-which-has-not-been-able-to-renew/
+slug = "natalie-dessay-opera-is-an-art-which-has-not-been-able-to-renew"
 title = "Natalie Dessay: &quot;opera is an art which has not been able to renew.&quot;"
 +++
 

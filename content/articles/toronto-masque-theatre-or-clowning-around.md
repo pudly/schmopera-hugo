@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /toronto-masque-theatre-or-clowning-around/
+slug = "toronto-masque-theatre-or-clowning-around"
 title = "Toronto Masque Theatre, or Clowning Around"
 +++
 

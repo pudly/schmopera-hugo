@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /fawn-announces-composers-for-next-stage-of-synesthesia-iv/
+slug = "fawn-announces-composers-for-next-stage-of-synesthesia-iv"
 title = "FAWN announces composers for next stage of Synesthesia IV"
 +++
 

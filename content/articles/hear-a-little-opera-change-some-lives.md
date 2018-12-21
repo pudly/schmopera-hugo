@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /hear-a-little-opera-change-some-lives/
+slug = "hear-a-little-opera-change-some-lives"
 title = "Hear a little opera, change some lives"
 +++
 

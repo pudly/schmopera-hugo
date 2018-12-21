@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /live-theatre-respecting-short-attention-spans/
+slug = "live-theatre-respecting-short-attention-spans"
 title = "Live theatre &amp; respecting short attention spans"
 +++
 

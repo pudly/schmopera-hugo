@@ -1,5 +1,5 @@
 +++
-slug = /prom-night-for-rufus/
+slug = "prom-night-for-rufus"
 title = "Prom Night for Rufus"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-sondra-radvanovskys-stunning-london-recital-debut/
+slug = "in-review-sondra-radvanovskys-stunning-london-recital-debut"
 title = "In review: Sondra Radvanovsky&#039;s stunning London recital debut"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /schmopera-coming-to-an-opera-house-near-you/
+slug = "schmopera-coming-to-an-opera-house-near-you"
 title = "Schmopera: coming to an opera house near you!"
 +++
 

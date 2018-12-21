@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /its-his-life-its-him-soundstreams-presents-musik-fr-das-ende/
+slug = "its-his-life-its-him-soundstreams-presents-musik-fr-das-ende"
 title = "&quot;It&#039;s his life, it&#039;s him.&quot; Soundstreams presents Musik für das Ende"
 +++
 

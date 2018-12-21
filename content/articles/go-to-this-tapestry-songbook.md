@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /go-to-this-tapestry-songbook/
+slug = "go-to-this-tapestry-songbook"
 title = "Go to this: Tapestry Songbook"
 +++
 

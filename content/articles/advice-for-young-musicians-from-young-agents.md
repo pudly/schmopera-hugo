@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /advice-for-young-musicians-from-young-agents/
+slug = "advice-for-young-musicians-from-young-agents"
 title = "Advice for Young Musicians, from Young Agents"
 +++
 

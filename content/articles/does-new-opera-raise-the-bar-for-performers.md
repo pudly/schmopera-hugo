@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /does-new-opera-raise-the-bar-for-performers/
+slug = "does-new-opera-raise-the-bar-for-performers"
 title = "Does new opera raise the bar for performers?"
 +++
 

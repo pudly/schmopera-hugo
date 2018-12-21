@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-conversations-with-isabel-leonard/
+slug = "dont-miss-conversations-with-isabel-leonard"
 title = "Don&#039;t miss: Conversations with Isabel Leonard"
 +++
 

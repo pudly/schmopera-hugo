@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-luminous-lucia-at-florida-grand-opera/
+slug = "a-luminous-lucia-at-florida-grand-opera"
 title = "A luminous Lucia at Florida Grand Opera"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /on-the-road-the-bicycle-opera-project/
+slug = "on-the-road-the-bicycle-opera-project"
 title = "On the road: the Bicycle Opera Project"
 +++
 

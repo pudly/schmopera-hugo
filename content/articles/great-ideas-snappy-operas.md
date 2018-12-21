@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /great-ideas-snappy-operas/
+slug = "great-ideas-snappy-operas"
 title = "Great ideas: Snappy Operas"
 +++
 

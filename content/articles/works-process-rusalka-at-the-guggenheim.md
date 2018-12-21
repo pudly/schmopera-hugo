@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /works-process-rusalka-at-the-guggenheim/
+slug = "works-process-rusalka-at-the-guggenheim"
 title = "Works &amp; Process: Rusalka at the Guggenheim"
 +++
 

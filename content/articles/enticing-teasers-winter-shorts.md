@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /enticing-teasers-winter-shorts/
+slug = "enticing-teasers-winter-shorts"
 title = "Enticing teasers: Winter Shorts"
 +++
 

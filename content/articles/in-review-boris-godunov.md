@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-boris-godunov/
+slug = "in-review-boris-godunov"
 title = "In review: Boris Godunov"
 +++
 

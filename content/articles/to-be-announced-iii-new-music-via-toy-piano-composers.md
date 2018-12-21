@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /to-be-announced-iii-new-music-via-toy-piano-composers/
+slug = "to-be-announced-iii-new-music-via-toy-piano-composers"
 title = "To Be Announced III: new music via Toy Piano Composers"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /reflective-stories-rcms-the-cunning-little-vixen/
+slug = "reflective-stories-rcms-the-cunning-little-vixen"
 title = "Reflective stories: RCM&#039;s The Cunning Little Vixen"
 +++
 

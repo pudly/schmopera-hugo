@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /is-new-opera-putting-the-rptiteur-out-of-a-job/
+slug = "is-new-opera-putting-the-rptiteur-out-of-a-job"
 title = "Is new opera putting the répétiteur out of a job?"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-soundstreams-presents-odditorium/
+slug = "dont-miss-soundstreams-presents-odditorium"
 title = "Don&#039;t miss: Soundstreams presents Odditorium"
 +++
 

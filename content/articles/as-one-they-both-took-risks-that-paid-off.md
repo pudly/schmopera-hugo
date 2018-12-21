@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /as-one-they-both-took-risks-that-paid-off/
+slug = "as-one-they-both-took-risks-that-paid-off"
 title = "As One: &quot;they both took risks that paid off.&quot;"
 +++
 

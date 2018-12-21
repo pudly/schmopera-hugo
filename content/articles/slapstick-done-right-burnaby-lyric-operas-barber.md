@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /slapstick-done-right-burnaby-lyric-operas-barber/
+slug = "slapstick-done-right-burnaby-lyric-operas-barber"
 title = "Slapstick done right: Burnaby Lyric Opera&#039;s Barber"
 +++
 

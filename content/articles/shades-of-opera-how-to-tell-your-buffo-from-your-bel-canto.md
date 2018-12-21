@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /shades-of-opera-how-to-tell-your-buffo-from-your-bel-canto/
+slug = "shades-of-opera-how-to-tell-your-buffo-from-your-bel-canto"
 title = "Shades of opera: how to tell your buffo from your bel canto"
 +++
 

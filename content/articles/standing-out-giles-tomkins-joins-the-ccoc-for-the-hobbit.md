@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /standing-out-giles-tomkins-joins-the-ccoc-for-the-hobbit/
+slug = "standing-out-giles-tomkins-joins-the-ccoc-for-the-hobbit"
 title = "Standing out: Giles Tomkins joins the CCOC for The Hobbit"
 +++
 

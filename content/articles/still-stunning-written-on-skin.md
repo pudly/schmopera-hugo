@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /still-stunning-written-on-skin/
+slug = "still-stunning-written-on-skin"
 title = "Still stunning: Written on Skin"
 +++
 

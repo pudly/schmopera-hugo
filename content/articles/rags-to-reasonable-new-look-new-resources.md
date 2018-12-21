@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /rags-to-reasonable-new-look-new-resources/
+slug = "rags-to-reasonable-new-look-new-resources"
 title = "Rags to Reasonable: new look, new resources"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /being-a-helpful-pianist-orchestrasinger-relations/
+slug = "being-a-helpful-pianist-orchestrasinger-relations"
 title = "Being a helpful pianist: orchestra-singer relations"
 +++
 

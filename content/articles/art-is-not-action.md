@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /art-is-not-action/
+slug = "art-is-not-action"
 title = "Art is not action"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /sublime-heartbreak-jesus-christ-superstar/
+slug = "sublime-heartbreak-jesus-christ-superstar"
 title = "Sublime heartbreak: Jesus Christ Superstar"
 +++
 

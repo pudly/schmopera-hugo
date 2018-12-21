@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /opera-da-camera-xerxes-is-the-new-elvis/
+slug = "opera-da-camera-xerxes-is-the-new-elvis"
 title = "Opera da Camera: Xerxes is the new Elvis"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-earnest-the-importance-of-being/
+slug = "in-review-earnest-the-importance-of-being"
 title = "In review: Earnest, the Importance of Being"
 +++
 

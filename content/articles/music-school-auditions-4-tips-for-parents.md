@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /music-school-auditions-4-tips-for-parents/
+slug = "music-school-auditions-4-tips-for-parents"
 title = "Music School Auditions: 4 Tips for Parents"
 +++
 

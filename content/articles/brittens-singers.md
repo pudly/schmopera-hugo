@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /brittens-singers/
+slug = "brittens-singers"
 title = "Britten&#039;s singers"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /forgiving-racism-onstage/
+slug = "forgiving-racism-onstage"
 title = "Forgiving Racism Onstage"
 +++
 

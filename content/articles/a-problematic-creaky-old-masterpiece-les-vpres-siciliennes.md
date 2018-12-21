@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-problematic-creaky-old-masterpiece-les-vpres-siciliennes/
+slug = "a-problematic-creaky-old-masterpiece-les-vpres-siciliennes"
 title = "&quot;A problematic creaky old masterpiece&quot;: Les vêpres siciliennes"
 +++
 

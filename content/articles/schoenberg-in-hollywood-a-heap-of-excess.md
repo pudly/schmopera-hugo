@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /schoenberg-in-hollywood-a-heap-of-excess/
+slug = "schoenberg-in-hollywood-a-heap-of-excess"
 title = "Schoenberg in Hollywood &amp; a heap of excess"
 +++
 

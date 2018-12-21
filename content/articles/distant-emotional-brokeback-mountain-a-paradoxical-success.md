@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /distant-emotional-brokeback-mountain-a-paradoxical-success/
+slug = "distant-emotional-brokeback-mountain-a-paradoxical-success"
 title = "Distant, Emotional Brokeback Mountain A Paradoxical Success"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /harawi-whats-that/
+slug = "harawi-whats-that"
 title = "Harawi? What&#039;s that?"
 +++
 

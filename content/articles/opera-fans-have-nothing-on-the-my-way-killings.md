@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /opera-fans-have-nothing-on-the-my-way-killings/
+slug = "opera-fans-have-nothing-on-the-my-way-killings"
 title = "Opera fans have nothing on the &quot;My Way Killings&quot;"
 +++
 

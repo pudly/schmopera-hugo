@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /the-voice-teacher-series-mitchell-hutchings/
+slug = "the-voice-teacher-series-mitchell-hutchings"
 title = "The voice teacher series: Mitchell Hutchings"
 +++
 

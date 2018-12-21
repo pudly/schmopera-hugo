@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /less-really-is-more/
+slug = "less-really-is-more"
 title = "Less Really Is More"
 +++
 

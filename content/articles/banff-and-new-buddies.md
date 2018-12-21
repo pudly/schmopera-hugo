@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /banff-and-new-buddies/
+slug = "banff-and-new-buddies"
 title = "Banff and new buddies"
 +++
 

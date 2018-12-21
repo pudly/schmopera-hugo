@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /duets-for-lunch-uoft-opera-in-concert/
+slug = "duets-for-lunch-uoft-opera-in-concert"
 title = "Duets for lunch: UofT Opera in concert"
 +++
 

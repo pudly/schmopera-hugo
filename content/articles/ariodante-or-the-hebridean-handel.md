@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /ariodante-or-the-hebridean-handel/
+slug = "ariodante-or-the-hebridean-handel"
 title = "Ariodante, or the Hebridean Handel"
 +++
 

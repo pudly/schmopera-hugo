@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dressing-opera-singers-chatting-with-costume-designer-meriem-bahri/
+slug = "dressing-opera-singers-chatting-with-costume-designer-meriem-bahri"
 title = "Dressing opera singers: chatting with costume designer Meriem Bahri"
 +++
 

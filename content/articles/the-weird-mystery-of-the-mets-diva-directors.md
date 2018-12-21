@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /the-weird-mystery-of-the-mets-diva-directors/
+slug = "the-weird-mystery-of-the-mets-diva-directors"
 title = "The weird mystery of the Met&#039;s &quot;diva directors&quot;"
 +++
 

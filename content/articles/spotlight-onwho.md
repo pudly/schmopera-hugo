@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /spotlight-onwho/
+slug = "spotlight-onwho"
 title = "Spotlight On...who?"
 +++
 

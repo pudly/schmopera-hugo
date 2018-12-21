@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /good-ideas-rehearsalasperformance/
+slug = "good-ideas-rehearsalasperformance"
 title = "Good ideas: rehearsal-as-performance"
 +++
 

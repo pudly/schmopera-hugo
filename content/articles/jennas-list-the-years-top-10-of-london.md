@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /jennas-list-the-years-top-10-of-london/
+slug = "jennas-list-the-years-top-10-of-london"
 title = "Jenna&#039;s list: the year&#039;s Top 10 of London"
 +++
 

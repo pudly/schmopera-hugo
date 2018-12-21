@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-lpo-presents-st-luke-passion/
+slug = "in-review-lpo-presents-st-luke-passion"
 title = "In review: LPO presents St. Luke Passion"
 +++
 

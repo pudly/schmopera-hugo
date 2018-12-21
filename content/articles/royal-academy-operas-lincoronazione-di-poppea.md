@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /royal-academy-operas-lincoronazione-di-poppea/
+slug = "royal-academy-operas-lincoronazione-di-poppea"
 title = "Royal Academy Opera&#039;s L&#039;incoronazione di Poppea"
 +++
 

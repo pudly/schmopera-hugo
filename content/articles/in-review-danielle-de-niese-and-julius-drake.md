@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-danielle-de-niese-and-julius-drake/
+slug = "in-review-danielle-de-niese-and-julius-drake"
 title = "In review: Danielle de Niese and Julius Drake"
 +++
 

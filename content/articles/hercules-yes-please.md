@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /hercules-yes-please/
+slug = "hercules-yes-please"
 title = "Hercules? Yes please!"
 +++
 

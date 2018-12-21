@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /sick-singers-when-its-best-to-shut-up-about-it/
+slug = "sick-singers-when-its-best-to-shut-up-about-it"
 title = "Sick singers &amp; when it&#039;s best to shut up about it"
 +++
 

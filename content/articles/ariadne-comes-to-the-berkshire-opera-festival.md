@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /ariadne-comes-to-the-berkshire-opera-festival/
+slug = "ariadne-comes-to-the-berkshire-opera-festival"
 title = "Ariadne comes to the Berkshire Opera Festival"
 +++
 

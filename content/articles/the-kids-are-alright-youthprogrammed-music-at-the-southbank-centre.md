@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /the-kids-are-alright-youthprogrammed-music-at-the-southbank-centre/
+slug = "the-kids-are-alright-youthprogrammed-music-at-the-southbank-centre"
 title = "The kids are alright: youth-programmed music at the Southbank Centre"
 +++
 

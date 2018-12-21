@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /moral-issues-wellloved-tunes-bk-operas-la-traviata/
+slug = "moral-issues-wellloved-tunes-bk-operas-la-traviata"
 title = "Moral issues &amp; well-loved tunes: BK Opera&#039;s La traviata"
 +++
 

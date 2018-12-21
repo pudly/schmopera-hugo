@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-voice-of-a-nation/
+slug = "dont-miss-voice-of-a-nation"
 title = "Don&#039;t miss: Voice of a Nation"
 +++
 

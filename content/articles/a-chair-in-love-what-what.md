@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /a-chair-in-love-what-what/
+slug = "a-chair-in-love-what-what"
 title = "A Chair in Love. What, what?"
 +++
 

@@ -1,5 +1,5 @@
 +++
-slug = /learn-about-armide-atelier/
+slug = "learn-about-armide-atelier"
 title = "Learn about Armide (Atelier)"
 +++
 

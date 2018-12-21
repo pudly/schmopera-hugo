@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /networking-for-introverted-performers/
+slug = "networking-for-introverted-performers"
 title = "Networking for introverted performers"
 +++
 

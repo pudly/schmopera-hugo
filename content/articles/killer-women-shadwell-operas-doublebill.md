@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /killer-women-shadwell-operas-doublebill/
+slug = "killer-women-shadwell-operas-doublebill"
 title = "Killer women: Shadwell Opera&#039;s double-bill"
 +++
 

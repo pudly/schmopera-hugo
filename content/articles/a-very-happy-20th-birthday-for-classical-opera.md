@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-very-happy-20th-birthday-for-classical-opera/
+slug = "a-very-happy-20th-birthday-for-classical-opera"
 title = "A very happy 20th birthday for Classical Opera"
 +++
 

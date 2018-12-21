@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /embarrassments-of-riches-opera-season-at-the-bbc/
+slug = "embarrassments-of-riches-opera-season-at-the-bbc"
 title = "Embarrassments of riches: Opera Season at the BBC"
 +++
 

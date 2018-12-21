@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /singers-heres-how-to-use-social-media/
+slug = "singers-heres-how-to-use-social-media"
 title = "Singers: here&#039;s how to use social media"
 +++
 

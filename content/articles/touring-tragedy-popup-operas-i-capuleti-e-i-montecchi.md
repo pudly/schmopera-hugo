@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /touring-tragedy-popup-operas-i-capuleti-e-i-montecchi/
+slug = "touring-tragedy-popup-operas-i-capuleti-e-i-montecchi"
 title = "Touring tragedy: Pop-Up Opera&#039;s I Capuleti e i Montecchi"
 +++
 

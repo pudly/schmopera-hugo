@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /rb-schlather-susan-b-anthony-connecting-opera-with-community/
+slug = "rb-schlather-susan-b-anthony-connecting-opera-with-community"
 title = "R.B. Schlather, Susan B. Anthony, &amp; connecting opera with community"
 +++
 

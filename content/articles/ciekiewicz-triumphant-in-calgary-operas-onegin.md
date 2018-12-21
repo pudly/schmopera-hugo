@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /ciekiewicz-triumphant-in-calgary-operas-onegin/
+slug = "ciekiewicz-triumphant-in-calgary-operas-onegin"
 title = "Ciekiewicz &quot;triumphant&quot; in Calgary Opera&#039;s Onegin"
 +++
 

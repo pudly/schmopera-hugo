@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /knoxville-opera-poor-diction-and-prerogative/
+slug = "knoxville-opera-poor-diction-and-prerogative"
 title = "Knoxville Opera, poor diction, and prerogative"
 +++
 

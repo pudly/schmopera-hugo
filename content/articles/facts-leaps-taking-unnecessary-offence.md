@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /facts-leaps-taking-unnecessary-offence/
+slug = "facts-leaps-taking-unnecessary-offence"
 title = "Facts, leaps &amp; taking unnecessary offence"
 +++
 

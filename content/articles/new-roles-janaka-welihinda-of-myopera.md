@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /new-roles-janaka-welihinda-of-myopera/
+slug = "new-roles-janaka-welihinda-of-myopera"
 title = "New roles: Janaka Welihinda of MYOpera"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /technicolour-gs-enos-iolanthe/
+slug = "technicolour-gs-enos-iolanthe"
 title = "Technicolour G&amp;S: ENO&#039;s Iolanthe"
 +++
 

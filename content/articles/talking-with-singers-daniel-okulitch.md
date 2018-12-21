@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-singers-daniel-okulitch/
+slug = "talking-with-singers-daniel-okulitch"
 title = "Talking with singers: Daniel Okulitch"
 +++
 

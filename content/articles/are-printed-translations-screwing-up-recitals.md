@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /are-printed-translations-screwing-up-recitals/
+slug = "are-printed-translations-screwing-up-recitals"
 title = "Are printed translations screwing up recitals?"
 +++
 

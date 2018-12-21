@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /daniel-cabena-on-air-india-redacted/
+slug = "daniel-cabena-on-air-india-redacted"
 title = "Daniel Cabena on air india [redacted]"
 +++
 

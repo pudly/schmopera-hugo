@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /breaking-into-the-industry-a-vicious-cycle/
+slug = "breaking-into-the-industry-a-vicious-cycle"
 title = "Breaking into the industry: a vicious cycle?"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /but-why-didnt-they-write-opera/
+slug = "but-why-didnt-they-write-opera"
 title = "But, why didn&#039;t they write opera?"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /valentina-lisitsa-freedom-of-speech-is-a-twoway-street/
+slug = "valentina-lisitsa-freedom-of-speech-is-a-twoway-street"
 title = "Valentina Lisitsa: Freedom of speech is a two-way street"
 +++
 

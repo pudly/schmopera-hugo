@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /4-myths-from-music-school/
+slug = "4-myths-from-music-school"
 title = "4 myths from music school"
 +++
 

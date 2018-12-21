@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /the-life-of-a-comprimario-or-oh-youre-that-guy/
+slug = "the-life-of-a-comprimario-or-oh-youre-that-guy"
 title = "The life of a comprimario, or &quot;Oh, you&#039;re that guy!&quot;"
 +++
 

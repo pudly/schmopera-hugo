@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /call-for-submissions-mahogany-opera-groups-various-stages/
+slug = "call-for-submissions-mahogany-opera-groups-various-stages"
 title = "Call for submissions: Mahogany Opera Group&#039;s Various Stages"
 +++
 

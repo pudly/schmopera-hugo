@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /a-summer-surprise/
+slug = "a-summer-surprise"
 title = "A summer surprise"
 +++
 

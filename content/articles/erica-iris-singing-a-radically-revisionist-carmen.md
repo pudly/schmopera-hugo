@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /erica-iris-singing-a-radically-revisionist-carmen/
+slug = "erica-iris-singing-a-radically-revisionist-carmen"
 title = "Erica Iris: singing a &quot;radically revisionist&quot; Carmen"
 +++
 

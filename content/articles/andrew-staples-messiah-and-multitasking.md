@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /andrew-staples-messiah-and-multitasking/
+slug = "andrew-staples-messiah-and-multitasking"
 title = "Andrew Staples: Messiah and multi-tasking"
 +++
 

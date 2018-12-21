@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /when-opera-companies-protect-abusers/
+slug = "when-opera-companies-protect-abusers"
 title = "When opera companies protect abusers"
 +++
 

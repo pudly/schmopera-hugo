@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /conductorless-orchestras-cases-for-chamber-opera/
+slug = "conductorless-orchestras-cases-for-chamber-opera"
 title = "Conductorless orchestras, cases for chamber opera"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-a-midsummer-nights-dream-at-glyndebourne/
+slug = "in-review-a-midsummer-nights-dream-at-glyndebourne"
 title = "In review: A Midsummer Night&#039;s Dream at Glyndebourne"
 +++
 

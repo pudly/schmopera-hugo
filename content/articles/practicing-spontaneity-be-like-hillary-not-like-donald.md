@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /practicing-spontaneity-be-like-hillary-not-like-donald/
+slug = "practicing-spontaneity-be-like-hillary-not-like-donald"
 title = "Practicing spontaneity: be like Hillary &amp; not like Donald"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /michael-fabiano-the-profound-effect-of-artsmart/
+slug = "michael-fabiano-the-profound-effect-of-artsmart"
 title = "Michael Fabiano: the &quot;profound effect&quot; of ArtSmart"
 +++
 

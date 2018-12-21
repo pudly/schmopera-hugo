@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /browse-suzanne-vinniks-opera-diva-dress-collection/
+slug = "browse-suzanne-vinniks-opera-diva-dress-collection"
 title = "Browse Suzanne Vinnik&#039;s Opera Diva Dress Collection"
 +++
 

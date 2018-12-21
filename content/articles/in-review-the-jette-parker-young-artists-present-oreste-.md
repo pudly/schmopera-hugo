@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-the-jette-parker-young-artists-present-oreste-/
+slug = "in-review-the-jette-parker-young-artists-present-oreste-"
 title = "In review: the Jette Parker Young Artists present Oreste "
 +++
 

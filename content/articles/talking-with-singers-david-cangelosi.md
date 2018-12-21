@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-singers-david-cangelosi/
+slug = "talking-with-singers-david-cangelosi"
 title = "Talking with Singers: David Cangelosi"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dont-miss-feet-at-the-horniman-museum/
+slug = "dont-miss-feet-at-the-horniman-museum"
 title = "Don&#039;t miss: &quot;Feet&quot; at the Horniman Museum"
 +++
 

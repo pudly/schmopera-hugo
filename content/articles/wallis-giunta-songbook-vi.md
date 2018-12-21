@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /wallis-giunta-songbook-vi/
+slug = "wallis-giunta-songbook-vi"
 title = "Wallis Giunta &amp; Songbook VI"
 +++
 

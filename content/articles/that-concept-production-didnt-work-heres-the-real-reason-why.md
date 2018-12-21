@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /that-concept-production-didnt-work-heres-the-real-reason-why/
+slug = "that-concept-production-didnt-work-heres-the-real-reason-why"
 title = "&quot;That concept production didn&#039;t work,&quot; &amp; here&#039;s the real reason why"
 +++
 

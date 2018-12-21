@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /glamour-fury-idomeneo-in-chicago/
+slug = "glamour-fury-idomeneo-in-chicago"
 title = "Glamour &amp; fury: Idomeneo in Chicago"
 +++
 

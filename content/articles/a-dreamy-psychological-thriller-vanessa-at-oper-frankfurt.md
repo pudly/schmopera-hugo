@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-dreamy-psychological-thriller-vanessa-at-oper-frankfurt/
+slug = "a-dreamy-psychological-thriller-vanessa-at-oper-frankfurt"
 title = "A dreamy psychological thriller: Vanessa at Oper Frankfurt"
 +++
 

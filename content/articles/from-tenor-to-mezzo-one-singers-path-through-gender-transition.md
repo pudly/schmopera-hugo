@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /from-tenor-to-mezzo-one-singers-path-through-gender-transition/
+slug = "from-tenor-to-mezzo-one-singers-path-through-gender-transition"
 title = "From tenor to mezzo: one singer&#039;s path through gender transition"
 +++
 

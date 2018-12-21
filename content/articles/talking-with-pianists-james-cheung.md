@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-pianists-james-cheung/
+slug = "talking-with-pianists-james-cheung"
 title = "Talking with pianists: James Cheung"
 +++
 

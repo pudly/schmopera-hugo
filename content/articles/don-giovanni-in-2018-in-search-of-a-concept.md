@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /don-giovanni-in-2018-in-search-of-a-concept/
+slug = "don-giovanni-in-2018-in-search-of-a-concept"
 title = "Don Giovanni in 2018: in search of a &quot;concept&quot;"
 +++
 

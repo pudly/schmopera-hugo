@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /rowley-wins-the-night-in-nashville-operas-tosca/
+slug = "rowley-wins-the-night-in-nashville-operas-tosca"
 title = "Rowley wins the night in Nashville Opera&#039;s Tosca"
 +++
 

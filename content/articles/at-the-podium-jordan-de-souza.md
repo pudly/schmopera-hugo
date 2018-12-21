@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /at-the-podium-jordan-de-souza/
+slug = "at-the-podium-jordan-de-souza"
 title = "At the podium: Jordan de Souza"
 +++
 

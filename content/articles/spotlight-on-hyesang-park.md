@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /spotlight-on-hyesang-park/
+slug = "spotlight-on-hyesang-park"
 title = "Spotlight on: Hyesang Park"
 +++
 

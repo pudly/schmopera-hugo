@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-composers-david-t-little/
+slug = "talking-with-composers-david-t-little"
 title = "Talking with composers: David T. Little"
 +++
 

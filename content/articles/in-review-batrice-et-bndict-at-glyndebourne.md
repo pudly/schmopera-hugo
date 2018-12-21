@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-batrice-et-bndict-at-glyndebourne/
+slug = "in-review-batrice-et-bndict-at-glyndebourne"
 title = "In review: Béatrice et Bénédict at Glyndebourne"
 +++
 

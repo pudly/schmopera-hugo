@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-singers-peter-mcgillivray/
+slug = "talking-with-singers-peter-mcgillivray"
 title = "Talking with singers: Peter McGillivray"
 +++
 

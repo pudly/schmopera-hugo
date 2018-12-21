@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /album-review-all-who-wander/
+slug = "album-review-all-who-wander"
 title = "Album review: All Who Wander"
 +++
 

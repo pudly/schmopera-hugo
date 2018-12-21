@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-it-songfests-fastapproaching-2018-deadlines/
+slug = "dont-miss-it-songfests-fastapproaching-2018-deadlines"
 title = "Don&#039;t miss it: SongFest&#039;s fast-approaching 2018 deadlines"
 +++
 

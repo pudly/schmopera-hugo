@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /kyra-millan-making-opera-for-all-ages/
+slug = "kyra-millan-making-opera-for-all-ages"
 title = "Kyra Millan: making Opera for All Ages"
 +++
 

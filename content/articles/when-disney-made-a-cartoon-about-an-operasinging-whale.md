@@ -1,5 +1,5 @@
 +++
-slug = /when-disney-made-a-cartoon-about-an-operasinging-whale/
+slug = "when-disney-made-a-cartoon-about-an-operasinging-whale"
 title = "When Disney made a cartoon about an opera-singing whale"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /sfo-tickets-for-tweets/
+slug = "sfo-tickets-for-tweets"
 title = "SFO: tickets for tweets"
 +++
 

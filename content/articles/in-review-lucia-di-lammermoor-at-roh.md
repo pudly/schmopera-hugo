@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-lucia-di-lammermoor-at-roh/
+slug = "in-review-lucia-di-lammermoor-at-roh"
 title = "In review: Lucia di Lammermoor at ROH"
 +++
 

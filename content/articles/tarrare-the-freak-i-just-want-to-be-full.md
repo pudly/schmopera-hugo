@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /tarrare-the-freak-i-just-want-to-be-full/
+slug = "tarrare-the-freak-i-just-want-to-be-full"
 title = "Tarrare the Freak: &quot;I just want to be full.&quot;"
 +++
 

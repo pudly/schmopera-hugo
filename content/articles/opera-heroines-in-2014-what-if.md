@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /opera-heroines-in-2014-what-if/
+slug = "opera-heroines-in-2014-what-if"
 title = "Opera Heroines in 2014: What if?"
 +++
 

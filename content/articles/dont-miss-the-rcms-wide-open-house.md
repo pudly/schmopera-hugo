@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-the-rcms-wide-open-house/
+slug = "dont-miss-the-rcms-wide-open-house"
 title = "Don&#039;t miss: the RCM&#039;s Wide Open House"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /performers-unwilling-players-of-mind-games/
+slug = "performers-unwilling-players-of-mind-games"
 title = "Performers: unwilling players of mind games"
 +++
 

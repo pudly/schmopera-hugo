@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /verdis-tragedy-in-jest/
+slug = "verdis-tragedy-in-jest"
 title = "Verdi&#039;s tragedy in jest"
 +++
 

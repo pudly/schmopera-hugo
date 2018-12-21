@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /tough-to-watch-oksana-g/
+slug = "tough-to-watch-oksana-g"
 title = "Tough to watch: Oksana G."
 +++
 

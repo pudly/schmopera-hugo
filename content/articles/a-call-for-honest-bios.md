@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /a-call-for-honest-bios/
+slug = "a-call-for-honest-bios"
 title = "A call for Honest Bios™"
 +++
 

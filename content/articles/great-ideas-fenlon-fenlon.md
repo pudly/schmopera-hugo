@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /great-ideas-fenlon-fenlon/
+slug = "great-ideas-fenlon-fenlon"
 title = "Great ideas: Fenlon &amp; Fenlon"
 +++
 

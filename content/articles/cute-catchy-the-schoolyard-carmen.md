@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /cute-catchy-the-schoolyard-carmen/
+slug = "cute-catchy-the-schoolyard-carmen"
 title = "Cute &amp; catchy: The Schoolyard Carmen"
 +++
 

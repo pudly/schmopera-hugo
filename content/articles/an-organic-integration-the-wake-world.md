@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /an-organic-integration-the-wake-world/
+slug = "an-organic-integration-the-wake-world"
 title = "An organic integration: The Wake World"
 +++
 

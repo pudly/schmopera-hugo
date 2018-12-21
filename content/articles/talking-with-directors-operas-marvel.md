@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-directors-operas-marvel/
+slug = "talking-with-directors-operas-marvel"
 title = "Talking with directors: opera&#039;s Marvel"
 +++
 

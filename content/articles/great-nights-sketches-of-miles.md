@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /great-nights-sketches-of-miles/
+slug = "great-nights-sketches-of-miles"
 title = "Great nights: Sketches of Miles"
 +++
 

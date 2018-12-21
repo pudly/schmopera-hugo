@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /pavarottis-nessun-dorma-the-trump-campaign/
+slug = "pavarottis-nessun-dorma-the-trump-campaign"
 title = "Pavarotti&#039;s &quot;Nessun dorma&quot; &amp; the Trump campaign"
 +++
 

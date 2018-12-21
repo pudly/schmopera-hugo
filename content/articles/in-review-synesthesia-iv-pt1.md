@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-synesthesia-iv-pt1/
+slug = "in-review-synesthesia-iv-pt1"
 title = "In review: Synesthesia IV pt.1"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-classical-operas-il-vologeso/
+slug = "in-review-classical-operas-il-vologeso"
 title = "In review: Classical Opera&#039;s Il Vologeso"
 +++
 

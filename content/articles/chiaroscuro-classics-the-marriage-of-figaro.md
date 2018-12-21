@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /chiaroscuro-classics-the-marriage-of-figaro/
+slug = "chiaroscuro-classics-the-marriage-of-figaro"
 title = "Chiaroscuro classics: The Marriage of Figaro"
 +++
 

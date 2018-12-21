@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /freedom-of-press-journalistic-integrity/
+slug = "freedom-of-press-journalistic-integrity"
 title = "Freedom of press &amp; journalistic integrity"
 +++
 

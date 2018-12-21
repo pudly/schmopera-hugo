@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /music-the-musicians-therapy-except-when-its-not/
+slug = "music-the-musicians-therapy-except-when-its-not"
 title = "Music: the musician&#039;s therapy, except when it&#039;s not"
 +++
 

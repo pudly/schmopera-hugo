@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-los-gavilanes-at-toronto-operetta-theatre/
+slug = "in-review-los-gavilanes-at-toronto-operetta-theatre"
 title = "In review: Los Gavilanes at Toronto Operetta Theatre"
 +++
 

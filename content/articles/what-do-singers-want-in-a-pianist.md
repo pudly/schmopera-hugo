@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /what-do-singers-want-in-a-pianist/
+slug = "what-do-singers-want-in-a-pianist"
 title = "What do singers want in a pianist?"
 +++
 

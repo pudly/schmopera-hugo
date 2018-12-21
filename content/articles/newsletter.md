@@ -1,5 +1,5 @@
 +++
-slug = /newsletter/
+slug = "newsletter"
 title = "Newsletter"
 +++
 

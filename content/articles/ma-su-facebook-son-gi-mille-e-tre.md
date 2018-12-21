@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /ma-su-facebook-son-gi-mille-e-tre/
+slug = "ma-su-facebook-son-gi-mille-e-tre"
 title = "Ma su Facebook, son già mille e tre!"
 +++
 

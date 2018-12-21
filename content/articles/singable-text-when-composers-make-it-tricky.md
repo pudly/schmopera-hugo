@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /singable-text-when-composers-make-it-tricky/
+slug = "singable-text-when-composers-make-it-tricky"
 title = "Singable text: when composers make it tricky"
 +++
 

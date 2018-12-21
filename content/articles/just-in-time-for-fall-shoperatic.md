@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /just-in-time-for-fall-shoperatic/
+slug = "just-in-time-for-fall-shoperatic"
 title = "Just in time for fall: Shoperatic!"
 +++
 

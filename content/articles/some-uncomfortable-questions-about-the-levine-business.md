@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /some-uncomfortable-questions-about-the-levine-business/
+slug = "some-uncomfortable-questions-about-the-levine-business"
 title = "Some uncomfortable questions about the Levine business"
 +++
 

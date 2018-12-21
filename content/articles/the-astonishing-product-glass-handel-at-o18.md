@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /the-astonishing-product-glass-handel-at-o18/
+slug = "the-astonishing-product-glass-handel-at-o18"
 title = "The astonishing product: Glass Handel at O18"
 +++
 

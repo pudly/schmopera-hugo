@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /opera-meanies-the-august-edition/
+slug = "opera-meanies-the-august-edition"
 title = "Opera meanies: the August edition"
 +++
 

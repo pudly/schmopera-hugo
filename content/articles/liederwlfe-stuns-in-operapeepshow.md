@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /liederwlfe-stuns-in-operapeepshow/
+slug = "liederwlfe-stuns-in-operapeepshow"
 title = "Liederwölfe stuns in #OperaPeepShow"
 +++
 

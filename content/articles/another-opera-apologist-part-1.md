@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /another-opera-apologist-part-1/
+slug = "another-opera-apologist-part-1"
 title = "Another Opera Apologist (Part 1)"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-composers-aaron-gervais/
+slug = "talking-with-composers-aaron-gervais"
 title = "Talking with composers: Aaron Gervais"
 +++
 

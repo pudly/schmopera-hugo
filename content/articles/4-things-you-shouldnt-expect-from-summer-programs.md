@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /4-things-you-shouldnt-expect-from-summer-programs/
+slug = "4-things-you-shouldnt-expect-from-summer-programs"
 title = "4 things you shouldn&#039;t expect from summer programs"
 +++
 

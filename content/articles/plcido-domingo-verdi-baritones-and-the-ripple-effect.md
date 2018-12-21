@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /plcido-domingo-verdi-baritones-and-the-ripple-effect/
+slug = "plcido-domingo-verdi-baritones-and-the-ripple-effect"
 title = "Plácido Domingo, Verdi baritones, and the ripple effect"
 +++
 

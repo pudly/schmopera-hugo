@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /overdue-for-a-chicago-performance-the-haunted-manor/
+slug = "overdue-for-a-chicago-performance-the-haunted-manor"
 title = "Overdue for a Chicago performance: The Haunted Manor"
 +++
 

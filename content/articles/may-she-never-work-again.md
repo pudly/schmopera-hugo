@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /may-she-never-work-again/
+slug = "may-she-never-work-again"
 title = "May She Never Work Again"
 +++
 

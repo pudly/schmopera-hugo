@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /true-biographies/
+slug = "true-biographies"
 title = "True biographies"
 +++
 

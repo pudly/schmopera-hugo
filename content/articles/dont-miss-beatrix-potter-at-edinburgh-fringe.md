@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dont-miss-beatrix-potter-at-edinburgh-fringe/
+slug = "dont-miss-beatrix-potter-at-edinburgh-fringe"
 title = "Don&#039;t miss: Beatrix Potter at Edinburgh Fringe"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /a-great-loss-hvorostovsky-passes-at-55/
+slug = "a-great-loss-hvorostovsky-passes-at-55"
 title = "A great loss: Hvorostovsky passes at 55"
 +++
 

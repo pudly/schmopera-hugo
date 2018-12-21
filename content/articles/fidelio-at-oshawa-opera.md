@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /fidelio-at-oshawa-opera/
+slug = "fidelio-at-oshawa-opera"
 title = "Fidelio at Oshawa Opera"
 +++
 

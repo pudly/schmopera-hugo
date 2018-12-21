@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /on-the-road-with-jmcs-romo-et-juliette/
+slug = "on-the-road-with-jmcs-romo-et-juliette"
 title = "On the road with JMC&#039;s Roméo et Juliette"
 +++
 

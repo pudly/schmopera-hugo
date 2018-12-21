@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /201718-at-the-met-are-conservative-seasons-the-way-to-go/
+slug = "201718-at-the-met-are-conservative-seasons-the-way-to-go"
 title = "2017/18 at the Met: are conservative seasons the way to go?"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /and-i-know-things-now/
+slug = "and-i-know-things-now"
 title = "And I Know Things Now"
 +++
 

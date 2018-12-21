@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /so-about-that-stephen-hawking-opera/
+slug = "so-about-that-stephen-hawking-opera"
 title = "So, about that Stephen Hawking opera..."
 +++
 

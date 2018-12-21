@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /classic-for-good-reason-the-marriage-of-figaro/
+slug = "classic-for-good-reason-the-marriage-of-figaro"
 title = "Classic for good reason: The Marriage of Figaro"
 +++
 

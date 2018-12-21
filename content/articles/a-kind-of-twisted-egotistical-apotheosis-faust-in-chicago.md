@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-kind-of-twisted-egotistical-apotheosis-faust-in-chicago/
+slug = "a-kind-of-twisted-egotistical-apotheosis-faust-in-chicago"
 title = "A kind of twisted, egotistical apotheosis: Faust in Chicago"
 +++
 

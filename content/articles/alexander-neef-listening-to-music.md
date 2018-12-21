@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /alexander-neef-listening-to-music/
+slug = "alexander-neef-listening-to-music"
 title = "Alexander Neef: listening to music"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-shadow-box/
+slug = "in-review-shadow-box"
 title = "In review: shadow box"
 +++
 

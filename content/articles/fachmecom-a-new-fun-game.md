@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /fachmecom-a-new-fun-game/
+slug = "fachmecom-a-new-fun-game"
 title = "FachMe.com: a new fun game"
 +++
 

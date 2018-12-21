@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /why-our-artistic-roots-matter/
+slug = "why-our-artistic-roots-matter"
 title = "Why our artistic roots matter"
 +++
 

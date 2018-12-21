@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /early-music-of-venice-the-academy-of-ancient-music-bridges-the-gap/
+slug = "early-music-of-venice-the-academy-of-ancient-music-bridges-the-gap"
 title = "Early music of Venice: the Academy of Ancient Music bridges the gap"
 +++
 

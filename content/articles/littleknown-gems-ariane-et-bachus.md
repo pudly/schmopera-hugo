@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /littleknown-gems-ariane-et-bachus/
+slug = "littleknown-gems-ariane-et-bachus"
 title = "&quot;Little-known gems&quot;: Ariane et Bachus"
 +++
 

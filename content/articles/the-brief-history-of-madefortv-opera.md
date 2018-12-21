@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /the-brief-history-of-madefortv-opera/
+slug = "the-brief-history-of-madefortv-opera"
 title = "The brief history of made-for-TV opera"
 +++
 

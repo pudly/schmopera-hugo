@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-the-cocktail-poque/
+slug = "dont-miss-the-cocktail-poque"
 title = "Don&#039;t miss: The Cocktail Époque"
 +++
 

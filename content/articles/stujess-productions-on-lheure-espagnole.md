@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /stujess-productions-on-lheure-espagnole/
+slug = "stujess-productions-on-lheure-espagnole"
 title = "Stu&amp;Jess Productions, on L&#039;heure espagnole"
 +++
 

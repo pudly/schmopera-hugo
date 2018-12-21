@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /dont-you-deserve-a-little-spotlight/
+slug = "dont-you-deserve-a-little-spotlight"
 title = "Don&#039;t you deserve a little Spotlight?"
 +++
 

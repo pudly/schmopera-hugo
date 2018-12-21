@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /sleek-storytelling-costly-illusions-wnos-alcina/
+slug = "sleek-storytelling-costly-illusions-wnos-alcina"
 title = "Sleek storytelling &amp; costly illusions: WNO&#039;s Alcina"
 +++
 

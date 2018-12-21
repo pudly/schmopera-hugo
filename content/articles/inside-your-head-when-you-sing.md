@@ -1,5 +1,5 @@
 +++
-slug = /inside-your-head-when-you-sing/
+slug = "inside-your-head-when-you-sing"
 title = "Inside your head when you sing"
 +++
 

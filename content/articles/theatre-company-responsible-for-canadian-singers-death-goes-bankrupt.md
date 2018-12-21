@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /theatre-company-responsible-for-canadian-singers-death-goes-bankrupt/
+slug = "theatre-company-responsible-for-canadian-singers-death-goes-bankrupt"
 title = "Theatre company responsible for Canadian singer&#039;s death goes bankrupt"
 +++
 

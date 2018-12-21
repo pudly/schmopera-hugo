@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-against-nature/
+slug = "dont-miss-against-nature"
 title = "Don&#039;t miss: Against Nature"
 +++
 

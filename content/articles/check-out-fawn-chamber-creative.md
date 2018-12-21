@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /check-out-fawn-chamber-creative/
+slug = "check-out-fawn-chamber-creative"
 title = "Check out: FAWN Chamber Creative"
 +++
 

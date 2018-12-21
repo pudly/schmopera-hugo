@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /viva-claire-aviva/
+slug = "viva-claire-aviva"
 title = "Viva Claire &amp; Aviva!"
 +++
 

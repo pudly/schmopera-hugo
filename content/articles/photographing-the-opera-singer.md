@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /photographing-the-opera-singer/
+slug = "photographing-the-opera-singer"
 title = "Photographing the opera singer"
 +++
 

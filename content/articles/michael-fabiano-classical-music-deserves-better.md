@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /michael-fabiano-classical-music-deserves-better/
+slug = "michael-fabiano-classical-music-deserves-better"
 title = "Michael Fabiano: Classical music deserves better"
 +++
 

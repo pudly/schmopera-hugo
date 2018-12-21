@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /pacific-opera-victorias-steampunkmeetsfantasy-rinaldo/
+slug = "pacific-opera-victorias-steampunkmeetsfantasy-rinaldo"
 title = "Pacific Opera Victoria&#039;s steampunk-meets-fantasy Rinaldo"
 +++
 

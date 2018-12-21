@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /chris-lysack-on-singing-its-naked/
+slug = "chris-lysack-on-singing-its-naked"
 title = "Chris Lysack, on singing: &quot;It’s naked.&quot;"
 +++
 

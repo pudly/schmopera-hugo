@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /netflix-why-not-opera/
+slug = "netflix-why-not-opera"
 title = "Netflix: Why Not Opera?"
 +++
 

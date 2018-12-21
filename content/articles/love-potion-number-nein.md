@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /love-potion-number-nein/
+slug = "love-potion-number-nein"
 title = "Love Potion Number Nein"
 +++
 

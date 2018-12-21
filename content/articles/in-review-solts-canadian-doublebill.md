@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-solts-canadian-doublebill/
+slug = "in-review-solts-canadian-doublebill"
 title = "In review: SOLT&#039;s Canadian double-bill"
 +++
 

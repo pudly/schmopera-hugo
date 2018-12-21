@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-laura-mvula-with-the-lso/
+slug = "in-review-laura-mvula-with-the-lso"
 title = "In review: Laura Mvula with the LSO"
 +++
 

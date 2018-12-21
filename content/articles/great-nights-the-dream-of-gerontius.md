@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /great-nights-the-dream-of-gerontius/
+slug = "great-nights-the-dream-of-gerontius"
 title = "Great nights: The Dream of Gerontius"
 +++
 

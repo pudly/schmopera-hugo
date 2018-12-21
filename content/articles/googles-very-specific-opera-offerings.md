@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /googles-very-specific-opera-offerings/
+slug = "googles-very-specific-opera-offerings"
 title = "Google&#039;s very specific opera offerings"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /songbird-the-debut-album-from-layla-claire/
+slug = "songbird-the-debut-album-from-layla-claire"
 title = "Songbird: the debut album from Layla Claire"
 +++
 

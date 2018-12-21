@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /living-up-to-its-name-experiments-in-opera/
+slug = "living-up-to-its-name-experiments-in-opera"
 title = "Living up to its name: Experiments in Opera"
 +++
 

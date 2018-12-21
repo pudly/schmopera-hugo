@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /leaning-into-the-discomfort/
+slug = "leaning-into-the-discomfort"
 title = "Leaning into the discomfort"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dillon-parmer-mozarts-masonic-journey/
+slug = "dillon-parmer-mozarts-masonic-journey"
 title = "Dillon Parmer &amp; Mozart&#039;s Masonic Journey"
 +++
 

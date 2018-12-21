@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /roundtable-an-operatic-triple-threat/
+slug = "roundtable-an-operatic-triple-threat"
 title = "Roundtable: an operatic triple threat"
 +++
 

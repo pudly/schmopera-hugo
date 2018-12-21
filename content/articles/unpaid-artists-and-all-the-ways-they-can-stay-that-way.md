@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /unpaid-artists-and-all-the-ways-they-can-stay-that-way/
+slug = "unpaid-artists-and-all-the-ways-they-can-stay-that-way"
 title = "Unpaid Artists, and all the ways they can stay that way"
 +++
 

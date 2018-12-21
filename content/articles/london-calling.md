@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /london-calling/
+slug = "london-calling"
 title = "London Calling"
 +++
 

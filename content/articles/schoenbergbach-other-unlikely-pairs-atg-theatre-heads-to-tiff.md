@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /schoenbergbach-other-unlikely-pairs-atg-theatre-heads-to-tiff/
+slug = "schoenbergbach-other-unlikely-pairs-atg-theatre-heads-to-tiff"
 title = "Schoenberg/Bach &amp; other unlikely pairs: AtG Theatre heads to TIFF"
 +++
 

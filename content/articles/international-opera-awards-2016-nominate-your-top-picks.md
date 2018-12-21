@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /international-opera-awards-2016-nominate-your-top-picks/
+slug = "international-opera-awards-2016-nominate-your-top-picks"
 title = "International Opera Awards 2016: nominate your top picks!"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /john-fanning-on-the-pencil-salesman/
+slug = "john-fanning-on-the-pencil-salesman"
 title = "John Fanning on The Pencil Salesman"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /despina-in-banff/
+slug = "despina-in-banff"
 title = "Despina in Banff"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-wellexecuted-mashup-tapex-forbidden/
+slug = "a-wellexecuted-mashup-tapex-forbidden"
 title = "A well-executed mashup: Tap:Ex Forbidden"
 +++
 

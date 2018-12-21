@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /aptly-named-the-living-spectacle/
+slug = "aptly-named-the-living-spectacle"
 title = "Aptly named: The Living Spectacle"
 +++
 

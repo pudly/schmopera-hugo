@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /the-singing-reigns-in-chicagos-i-puritani/
+slug = "the-singing-reigns-in-chicagos-i-puritani"
 title = "The singing reigns in Chicago&#039;s I Puritani"
 +++
 

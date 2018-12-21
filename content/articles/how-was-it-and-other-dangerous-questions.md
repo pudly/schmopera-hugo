@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /how-was-it-and-other-dangerous-questions/
+slug = "how-was-it-and-other-dangerous-questions"
 title = "&quot;How was it?&quot; and other dangerous questions"
 +++
 

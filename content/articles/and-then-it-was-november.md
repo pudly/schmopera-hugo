@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /and-then-it-was-november/
+slug = "and-then-it-was-november"
 title = "...and then it was November"
 +++
 

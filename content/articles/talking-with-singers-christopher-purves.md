@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-singers-christopher-purves/
+slug = "talking-with-singers-christopher-purves"
 title = "Talking with singers: Christopher Purves"
 +++
 

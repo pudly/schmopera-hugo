@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /cmim-finals-one-out-of-three-aint-bad/
+slug = "cmim-finals-one-out-of-three-aint-bad"
 title = "CMIM Finals: one out of three ain&#039;t bad?"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /the-voice-teacher-series-jane-eaglen/
+slug = "the-voice-teacher-series-jane-eaglen"
 title = "The voice teacher series: Jane Eaglen"
 +++
 

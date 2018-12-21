@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /the-positive-impact-of-community-created-performances/
+slug = "the-positive-impact-of-community-created-performances"
 title = "The &quot;positive impact&quot; of Community Created Performances"
 +++
 

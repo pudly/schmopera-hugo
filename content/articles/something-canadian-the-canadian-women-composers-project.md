@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /something-canadian-the-canadian-women-composers-project/
+slug = "something-canadian-the-canadian-women-composers-project"
 title = "&quot;Something Canadian&quot;: the Canadian Women Composers Project"
 +++
 

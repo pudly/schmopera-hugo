@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /summer-opera-nights-in-palm-beach/
+slug = "summer-opera-nights-in-palm-beach"
 title = "Summer Opera Nights in Palm Beach"
 +++
 

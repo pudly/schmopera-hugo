@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /star-trek-and-the-opera/
+slug = "star-trek-and-the-opera"
 title = "Star Trek and the opera"
 +++
 

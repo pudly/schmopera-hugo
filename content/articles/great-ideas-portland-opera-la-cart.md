@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /great-ideas-portland-opera-la-cart/
+slug = "great-ideas-portland-opera-la-cart"
 title = "Great ideas: Portland Opera à la Cart"
 +++
 

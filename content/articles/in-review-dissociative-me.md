@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-dissociative-me/
+slug = "in-review-dissociative-me"
 title = "In review: Dissociative Me"
 +++
 

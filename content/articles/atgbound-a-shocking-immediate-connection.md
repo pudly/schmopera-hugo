@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /atgbound-a-shocking-immediate-connection/
+slug = "atgbound-a-shocking-immediate-connection"
 title = "#AtGBound: &quot;A shocking, immediate connection.&quot;"
 +++
 

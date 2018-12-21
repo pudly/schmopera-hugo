@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /grime-sees-debut-at-wigmore-hall/
+slug = "grime-sees-debut-at-wigmore-hall"
 title = "Grime sees debut at Wigmore Hall"
 +++
 

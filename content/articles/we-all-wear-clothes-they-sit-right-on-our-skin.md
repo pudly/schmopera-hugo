@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /we-all-wear-clothes-they-sit-right-on-our-skin/
+slug = "we-all-wear-clothes-they-sit-right-on-our-skin"
 title = "&quot;We all wear clothes. They sit right on our skin.&quot;"
 +++
 

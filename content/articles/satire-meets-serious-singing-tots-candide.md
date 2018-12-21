@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /satire-meets-serious-singing-tots-candide/
+slug = "satire-meets-serious-singing-tots-candide"
 title = "Satire meets serious singing: TOT&#039;s Candide"
 +++
 

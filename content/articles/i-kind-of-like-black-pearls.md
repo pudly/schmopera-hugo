@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /i-kind-of-like-black-pearls/
+slug = "i-kind-of-like-black-pearls"
 title = "I kind of like Black Pearls..."
 +++
 

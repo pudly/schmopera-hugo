@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /spotlight-on-musa-ngqungwana/
+slug = "spotlight-on-musa-ngqungwana"
 title = "Spotlight on: Musa Ngqungwana"
 +++
 

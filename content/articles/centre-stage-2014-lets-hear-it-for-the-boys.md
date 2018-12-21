@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /centre-stage-2014-lets-hear-it-for-the-boys/
+slug = "centre-stage-2014-lets-hear-it-for-the-boys"
 title = "Centre Stage 2014: Let&#039;s Hear It For the Boys"
 +++
 

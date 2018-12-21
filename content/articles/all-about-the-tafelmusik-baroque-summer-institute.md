@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /all-about-the-tafelmusik-baroque-summer-institute/
+slug = "all-about-the-tafelmusik-baroque-summer-institute"
 title = "All about the Tafelmusik Baroque Summer Institute"
 +++
 

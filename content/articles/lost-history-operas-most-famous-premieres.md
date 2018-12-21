@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /lost-history-operas-most-famous-premieres/
+slug = "lost-history-operas-most-famous-premieres"
 title = "Lost history: opera&#039;s most famous premieres"
 +++
 

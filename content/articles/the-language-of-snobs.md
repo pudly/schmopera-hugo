@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /the-language-of-snobs/
+slug = "the-language-of-snobs"
 title = "The language of snobs?"
 +++
 

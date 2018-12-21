@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /singers-heres-what-you-need-to-know-about-your-website/
+slug = "singers-heres-what-you-need-to-know-about-your-website"
 title = "Singers: here&#039;s what you need to know about your website"
 +++
 

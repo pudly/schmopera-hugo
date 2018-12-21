@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /touching-traditional-eugene-onegin-in-vancouver/
+slug = "touching-traditional-eugene-onegin-in-vancouver"
 title = "Touching &amp; traditional: Eugene Onegin in Vancouver"
 +++
 

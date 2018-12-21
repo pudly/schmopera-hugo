@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /5-opera-crossovers-were-dying-to-see/
+slug = "5-opera-crossovers-were-dying-to-see"
 title = "5 opera crossovers we&#039;re dying to see"
 +++
 

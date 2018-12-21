@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /tamara-wilson-gives-a-flawless-aida-at-wno/
+slug = "tamara-wilson-gives-a-flawless-aida-at-wno"
 title = "Tamara Wilson gives a &quot;flawless&quot; Aida at WNO"
 +++
 

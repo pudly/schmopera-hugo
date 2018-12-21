@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /tales-from-stage-management/
+slug = "tales-from-stage-management"
 title = "Tales from stage management"
 +++
 

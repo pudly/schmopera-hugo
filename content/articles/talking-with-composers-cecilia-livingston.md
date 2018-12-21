@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-composers-cecilia-livingston/
+slug = "talking-with-composers-cecilia-livingston"
 title = "Talking with composers: Cecilia Livingston"
 +++
 

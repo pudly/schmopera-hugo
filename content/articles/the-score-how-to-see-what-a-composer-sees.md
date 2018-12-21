@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /the-score-how-to-see-what-a-composer-sees/
+slug = "the-score-how-to-see-what-a-composer-sees"
 title = "The score: how to see what a composer sees"
 +++
 

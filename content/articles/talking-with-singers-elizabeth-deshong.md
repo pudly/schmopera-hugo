@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-singers-elizabeth-deshong/
+slug = "talking-with-singers-elizabeth-deshong"
 title = "Talking with singers: Elizabeth DeShong"
 +++
 

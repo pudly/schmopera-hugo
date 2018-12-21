@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /fans-unite-opera-box-score/
+slug = "fans-unite-opera-box-score"
 title = "Fans unite: Opera Box Score"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /pianists-plights-and-opera-fights/
+slug = "pianists-plights-and-opera-fights"
 title = "Pianists&#039; plights and opera fights"
 +++
 

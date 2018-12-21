@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /a-call-for-new-music-fawn-chamber-creative/
+slug = "a-call-for-new-music-fawn-chamber-creative"
 title = "A call for new music: FAWN Chamber Creative"
 +++
 

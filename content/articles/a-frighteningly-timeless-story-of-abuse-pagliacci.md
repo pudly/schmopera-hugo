@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-frighteningly-timeless-story-of-abuse-pagliacci/
+slug = "a-frighteningly-timeless-story-of-abuse-pagliacci"
 title = "A frighteningly timeless story of abuse: Pagliacci"
 +++
 

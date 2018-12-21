@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-singers-george-gagnidze/
+slug = "talking-with-singers-george-gagnidze"
 title = "Talking with singers: George Gagnidze"
 +++
 

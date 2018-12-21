@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /becoming-santa-claus/
+slug = "becoming-santa-claus"
 title = "Becoming Santa Claus"
 +++
 

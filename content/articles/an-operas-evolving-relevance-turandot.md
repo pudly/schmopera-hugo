@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /an-operas-evolving-relevance-turandot/
+slug = "an-operas-evolving-relevance-turandot"
 title = "An opera&#039;s evolving relevance: Turandot"
 +++
 

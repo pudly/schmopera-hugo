@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /nashville-operas-carmen-she-dies-because-she-told-a-man-no/
+slug = "nashville-operas-carmen-she-dies-because-she-told-a-man-no"
 title = "Nashville Opera&#039;s Carmen: &quot;She dies because she told a man, &#039;no&#039;.&quot;"
 +++
 

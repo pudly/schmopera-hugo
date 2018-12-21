@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /discomfort-louis-riel-at-the-coc/
+slug = "discomfort-louis-riel-at-the-coc"
 title = "Discomfort: Louis Riel at the COC"
 +++
 

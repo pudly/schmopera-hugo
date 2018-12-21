@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /the-tso-pays-homage-to-maureen-forrester/
+slug = "the-tso-pays-homage-to-maureen-forrester"
 title = "The TSO pays homage to Maureen Forrester"
 +++
 

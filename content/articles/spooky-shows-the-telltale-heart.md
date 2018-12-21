@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /spooky-shows-the-telltale-heart/
+slug = "spooky-shows-the-telltale-heart"
 title = "Spooky shows: The Tell-Tale Heart"
 +++
 

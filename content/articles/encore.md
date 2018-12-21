@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /encore/
+slug = "encore"
 title = "Encore?"
 +++
 

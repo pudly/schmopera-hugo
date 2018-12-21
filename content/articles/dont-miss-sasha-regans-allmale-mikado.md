@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dont-miss-sasha-regans-allmale-mikado/
+slug = "dont-miss-sasha-regans-allmale-mikado"
 title = "Don&#039;t miss: Sasha Regan&#039;s All-male Mikado"
 +++
 

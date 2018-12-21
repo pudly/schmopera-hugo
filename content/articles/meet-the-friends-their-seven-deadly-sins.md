@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /meet-the-friends-their-seven-deadly-sins/
+slug = "meet-the-friends-their-seven-deadly-sins"
 title = "Meet the Friends &amp; their Seven Deadly Sins"
 +++
 

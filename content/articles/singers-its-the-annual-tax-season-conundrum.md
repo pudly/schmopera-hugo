@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /singers-its-the-annual-tax-season-conundrum/
+slug = "singers-its-the-annual-tax-season-conundrum"
 title = "Singers, it&#039;s the annual Tax Season Conundrum!"
 +++
 

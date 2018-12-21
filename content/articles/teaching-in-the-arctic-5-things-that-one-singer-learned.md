@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /teaching-in-the-arctic-5-things-that-one-singer-learned/
+slug = "teaching-in-the-arctic-5-things-that-one-singer-learned"
 title = "Teaching in the Arctic: 5 things that one singer learned"
 +++
 

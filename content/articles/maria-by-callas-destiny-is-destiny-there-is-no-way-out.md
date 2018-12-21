@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /maria-by-callas-destiny-is-destiny-there-is-no-way-out/
+slug = "maria-by-callas-destiny-is-destiny-there-is-no-way-out"
 title = "Maria by Callas: &quot;Destiny is destiny. There is no way out.&quot;"
 +++
 

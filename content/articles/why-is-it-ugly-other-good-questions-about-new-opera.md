@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /why-is-it-ugly-other-good-questions-about-new-opera/
+slug = "why-is-it-ugly-other-good-questions-about-new-opera"
 title = "&quot;Why is it ugly?&quot; &amp; other good questions about new opera"
 +++
 

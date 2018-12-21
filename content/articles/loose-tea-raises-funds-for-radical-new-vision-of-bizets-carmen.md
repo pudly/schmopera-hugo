@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /loose-tea-raises-funds-for-radical-new-vision-of-bizets-carmen/
+slug = "loose-tea-raises-funds-for-radical-new-vision-of-bizets-carmen"
 title = "Loose TEA raises funds for radical new vision of Bizet&#039;s Carmen"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /overdue-for-the-stage-haymarket-opera-companys-ariane-et-bachus/
+slug = "overdue-for-the-stage-haymarket-opera-companys-ariane-et-bachus"
 title = "Overdue for the stage: Haymarket Opera Company&#039;s Ariane et Bachus"
 +++
 

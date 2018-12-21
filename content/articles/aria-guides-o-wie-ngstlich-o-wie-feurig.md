@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /aria-guides-o-wie-ngstlich-o-wie-feurig/
+slug = "aria-guides-o-wie-ngstlich-o-wie-feurig"
 title = "Aria guides: &quot;O wie ängstlich, o wie feurig!&quot;"
 +++
 

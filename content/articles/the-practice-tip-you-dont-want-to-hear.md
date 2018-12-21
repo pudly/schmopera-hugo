@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /the-practice-tip-you-dont-want-to-hear/
+slug = "the-practice-tip-you-dont-want-to-hear"
 title = "The practice tip you don&#039;t want to hear"
 +++
 

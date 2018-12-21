@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /roundup2014/
+slug = "roundup2014"
 title = "#RoundUp2014"
 +++
 

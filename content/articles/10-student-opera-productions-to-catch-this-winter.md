@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /10-student-opera-productions-to-catch-this-winter/
+slug = "10-student-opera-productions-to-catch-this-winter"
 title = "10 student opera productions to catch this winter"
 +++
 

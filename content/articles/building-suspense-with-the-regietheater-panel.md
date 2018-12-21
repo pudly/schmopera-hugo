@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /building-suspense-with-the-regietheater-panel/
+slug = "building-suspense-with-the-regietheater-panel"
 title = "Building Suspense with The Regietheater Panel"
 +++
 

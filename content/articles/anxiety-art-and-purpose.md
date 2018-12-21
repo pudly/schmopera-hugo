@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /anxiety-art-and-purpose/
+slug = "anxiety-art-and-purpose"
 title = "Anxiety, Art, and Purpose"
 +++
 

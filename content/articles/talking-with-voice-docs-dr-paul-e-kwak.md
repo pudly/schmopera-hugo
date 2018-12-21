@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-voice-docs-dr-paul-e-kwak/
+slug = "talking-with-voice-docs-dr-paul-e-kwak"
 title = "Talking with voice docs: Dr. Paul E. Kwak"
 +++
 

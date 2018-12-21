@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /paris-reflected-at-southwark-cathedral/
+slug = "paris-reflected-at-southwark-cathedral"
 title = "Paris Reflected at Southwark Cathedral"
 +++
 

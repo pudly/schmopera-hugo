@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /fidelio-as-a-mirror-of-human-rights/
+slug = "fidelio-as-a-mirror-of-human-rights"
 title = "Fidelio as a mirror of human rights"
 +++
 

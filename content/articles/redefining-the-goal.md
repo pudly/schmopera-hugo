@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /redefining-the-goal/
+slug = "redefining-the-goal"
 title = "Redefining the goal"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /once-again-shushing-meanies/
+slug = "once-again-shushing-meanies"
 title = "Once again, shushing meanies"
 +++
 

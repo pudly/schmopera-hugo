@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /oh-look-its-the-elitist-argument-again/
+slug = "oh-look-its-the-elitist-argument-again"
 title = "Oh look, it&#039;s the &quot;elitist&quot; argument again..."
 +++
 

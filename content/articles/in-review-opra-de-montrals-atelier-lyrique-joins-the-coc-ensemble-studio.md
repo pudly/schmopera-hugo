@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-opra-de-montrals-atelier-lyrique-joins-the-coc-ensemble-studio/
+slug = "in-review-opra-de-montrals-atelier-lyrique-joins-the-coc-ensemble-studio"
 title = "In review: Opéra de Montréal&#039;s Atelier Lyrique joins the COC Ensemble Studio"
 +++
 

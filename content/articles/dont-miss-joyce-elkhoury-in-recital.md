@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-joyce-elkhoury-in-recital/
+slug = "dont-miss-joyce-elkhoury-in-recital"
 title = "Don&#039;t miss: Joyce El-Khoury in recital"
 +++
 

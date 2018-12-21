@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /richard-margison-is-throwing-a-gala-in-the-gardens/
+slug = "richard-margison-is-throwing-a-gala-in-the-gardens"
 title = "Richard Margison is throwing a Gala in the Gardens"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /murky-works-shadwell-opera-presents-the-lighthouse/
+slug = "murky-works-shadwell-opera-presents-the-lighthouse"
 title = "Murky works: Shadwell Opera presents The Lighthouse"
 +++
 

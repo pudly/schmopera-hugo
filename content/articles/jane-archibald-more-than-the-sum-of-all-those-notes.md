@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /jane-archibald-more-than-the-sum-of-all-those-notes/
+slug = "jane-archibald-more-than-the-sum-of-all-those-notes"
 title = "Jane Archibald: more than the sum of all those notes"
 +++
 

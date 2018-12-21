@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-times-two-ensemble-prisma-wien-bernarda-fink/
+slug = "in-review-times-two-ensemble-prisma-wien-bernarda-fink"
 title = "In review times two: Ensemble Prisma Wien &amp; Bernarda Fink"
 +++
 

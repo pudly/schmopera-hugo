@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /how-to-throw-a-funeral-for-a-viola/
+slug = "how-to-throw-a-funeral-for-a-viola"
 title = "How to throw a funeral for a viola"
 +++
 

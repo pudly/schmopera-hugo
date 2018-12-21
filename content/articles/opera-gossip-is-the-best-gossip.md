@@ -1,5 +1,5 @@
 +++
-slug = /opera-gossip-is-the-best-gossip/
+slug = "opera-gossip-is-the-best-gossip"
 title = "Opera Gossip is the best Gossip"
 +++
 

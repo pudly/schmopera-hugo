@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /persona-and-the-sounds-of-silence/
+slug = "persona-and-the-sounds-of-silence"
 title = "Persona and the Sounds of Silence"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /too-much-magic-a-midsummer-nights-dream-at-eno/
+slug = "too-much-magic-a-midsummer-nights-dream-at-eno"
 title = "Too much magic? A Midsummer Night&#039;s Dream at ENO"
 +++
 

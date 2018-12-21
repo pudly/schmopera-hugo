@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /erik-ochsner-on-conducting-star-trek-goose-bumps-and-tears-are-not-optional/
+slug = "erik-ochsner-on-conducting-star-trek-goose-bumps-and-tears-are-not-optional"
 title = "Erik Ochsner on conducting Star Trek: &quot;goose bumps and tears are NOT optional!&quot;"
 +++
 

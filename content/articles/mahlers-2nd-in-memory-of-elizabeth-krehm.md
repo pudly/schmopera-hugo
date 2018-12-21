@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /mahlers-2nd-in-memory-of-elizabeth-krehm/
+slug = "mahlers-2nd-in-memory-of-elizabeth-krehm"
 title = "Mahler&#039;s 2nd: in memory of Elizabeth Krehm"
 +++
 

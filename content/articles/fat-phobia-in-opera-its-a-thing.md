@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /fat-phobia-in-opera-its-a-thing/
+slug = "fat-phobia-in-opera-its-a-thing"
 title = "Fat phobia in opera? It&#039;s a thing"
 +++
 

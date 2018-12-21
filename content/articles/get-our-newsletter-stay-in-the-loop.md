@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /get-our-newsletter-stay-in-the-loop/
+slug = "get-our-newsletter-stay-in-the-loop"
 title = "Get our newsletter, stay in the loop"
 +++
 

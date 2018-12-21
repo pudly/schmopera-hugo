@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /6-opera-houses-googlereviewed/
+slug = "6-opera-houses-googlereviewed"
 title = "6 opera houses, Google-reviewed"
 +++
 

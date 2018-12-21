@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /the-5-best-worst-states-for-finding-an-opera-house/
+slug = "the-5-best-worst-states-for-finding-an-opera-house"
 title = "The 5 best &amp; worst states for finding an opera house"
 +++
 

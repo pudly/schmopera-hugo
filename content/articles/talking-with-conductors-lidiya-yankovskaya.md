@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-conductors-lidiya-yankovskaya/
+slug = "talking-with-conductors-lidiya-yankovskaya"
 title = "Talking with conductors: Lidiya Yankovskaya"
 +++
 

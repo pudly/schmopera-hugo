@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /spotlight-on-jacques-arsenault/
+slug = "spotlight-on-jacques-arsenault"
 title = "Spotlight on: Jacques Arsenault"
 +++
 

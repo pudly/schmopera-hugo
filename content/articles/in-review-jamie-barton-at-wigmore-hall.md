@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-jamie-barton-at-wigmore-hall/
+slug = "in-review-jamie-barton-at-wigmore-hall"
 title = "In review: Jamie Barton at Wigmore Hall"
 +++
 

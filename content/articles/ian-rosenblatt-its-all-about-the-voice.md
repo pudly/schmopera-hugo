@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /ian-rosenblatt-its-all-about-the-voice/
+slug = "ian-rosenblatt-its-all-about-the-voice"
 title = "Ian Rosenblatt: &quot;It&#039;s all about the voice.&quot;"
 +++
 

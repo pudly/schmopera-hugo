@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-singers-kiandra-howarth/
+slug = "talking-with-singers-kiandra-howarth"
 title = "Talking with singers: Kiandra Howarth"
 +++
 

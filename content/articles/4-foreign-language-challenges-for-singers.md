@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /4-foreign-language-challenges-for-singers/
+slug = "4-foreign-language-challenges-for-singers"
 title = "4 foreign language challenges for singers"
 +++
 

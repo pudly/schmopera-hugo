@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /inspiration-seeing-it-for-oneself/
+slug = "inspiration-seeing-it-for-oneself"
 title = "Inspiration: seeing it for oneself"
 +++
 

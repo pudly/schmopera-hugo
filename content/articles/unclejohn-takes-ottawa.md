@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /unclejohn-takes-ottawa/
+slug = "unclejohn-takes-ottawa"
 title = "#UncleJohn takes Ottawa"
 +++
 

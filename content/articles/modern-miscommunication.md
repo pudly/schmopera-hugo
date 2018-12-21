@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /modern-miscommunication/
+slug = "modern-miscommunication"
 title = "Modern miscommunication"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-summer-mozart-menu/
+slug = "a-summer-mozart-menu"
 title = "A summer Mozart menu"
 +++
 

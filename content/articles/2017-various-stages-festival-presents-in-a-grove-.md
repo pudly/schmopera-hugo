@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /2017-various-stages-festival-presents-in-a-grove-/
+slug = "2017-various-stages-festival-presents-in-a-grove-"
 title = "2017 Various Stages Festival presents: In a Grove "
 +++
 

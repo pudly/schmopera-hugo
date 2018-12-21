@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /be-in-on-the-secret-confidential-opera-project/
+slug = "be-in-on-the-secret-confidential-opera-project"
 title = "Be in on the secret: Confidential Opera Project"
 +++
 

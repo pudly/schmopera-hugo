@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /4-opera-scenes-that-should-have-happened/
+slug = "4-opera-scenes-that-should-have-happened"
 title = "4 Opera scenes that should have happened"
 +++
 

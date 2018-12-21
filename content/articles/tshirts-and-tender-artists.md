@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /tshirts-and-tender-artists/
+slug = "tshirts-and-tender-artists"
 title = "T-shirts and tender artists"
 +++
 

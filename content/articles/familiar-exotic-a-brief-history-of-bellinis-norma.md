@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /familiar-exotic-a-brief-history-of-bellinis-norma/
+slug = "familiar-exotic-a-brief-history-of-bellinis-norma"
 title = "Familiar &amp; exotic: a brief history of Bellini&#039;s Norma"
 +++
 

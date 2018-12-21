@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /pyramus-thisbe-and-canadian-opera-history/
+slug = "pyramus-thisbe-and-canadian-opera-history"
 title = "Pyramus, Thisbe, and Canadian opera history"
 +++
 

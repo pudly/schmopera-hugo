@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /jennifer-carter-on-la-traviata-violetta-is-an-everywoman/
+slug = "jennifer-carter-on-la-traviata-violetta-is-an-everywoman"
 title = "Jennifer Carter on La traviata: &quot;Violetta is an everywoman.&quot;"
 +++
 

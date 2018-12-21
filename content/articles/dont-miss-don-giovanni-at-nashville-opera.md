@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dont-miss-don-giovanni-at-nashville-opera/
+slug = "dont-miss-don-giovanni-at-nashville-opera"
 title = "Don&#039;t miss: Don Giovanni at Nashville Opera"
 +++
 

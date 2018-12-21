@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /album-review-guitarias/
+slug = "album-review-guitarias"
 title = "Album Review: Guitarias"
 +++
 

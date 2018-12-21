@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /pocket-concerts-and-their-worthy-campaign/
+slug = "pocket-concerts-and-their-worthy-campaign"
 title = "Pocket Concerts and their worthy campaign"
 +++
 

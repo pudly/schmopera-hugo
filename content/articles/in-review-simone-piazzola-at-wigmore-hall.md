@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-simone-piazzola-at-wigmore-hall/
+slug = "in-review-simone-piazzola-at-wigmore-hall"
 title = "In review: Simone Piazzola at Wigmore Hall"
 +++
 

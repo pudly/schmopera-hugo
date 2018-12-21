@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-quinn-kelseys-songs-from-the-heart/
+slug = "in-review-quinn-kelseys-songs-from-the-heart"
 title = "In review: Quinn Kelsey&#039;s Songs from the Heart"
 +++
 

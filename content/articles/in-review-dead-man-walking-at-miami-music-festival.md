@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-dead-man-walking-at-miami-music-festival/
+slug = "in-review-dead-man-walking-at-miami-music-festival"
 title = "In review: Dead Man Walking at Miami Music Festival"
 +++
 

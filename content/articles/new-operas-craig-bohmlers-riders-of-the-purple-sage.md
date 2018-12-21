@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /new-operas-craig-bohmlers-riders-of-the-purple-sage/
+slug = "new-operas-craig-bohmlers-riders-of-the-purple-sage"
 title = "New operas: Craig Bohmler&#039;s Riders of the Purple Sage"
 +++
 

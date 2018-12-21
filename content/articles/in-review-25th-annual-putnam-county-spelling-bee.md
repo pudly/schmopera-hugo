@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-25th-annual-putnam-county-spelling-bee/
+slug = "in-review-25th-annual-putnam-county-spelling-bee"
 title = "In review: 25th Annual Putnam County Spelling Bee"
 +++
 

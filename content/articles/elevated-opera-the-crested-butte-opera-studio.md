@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /elevated-opera-the-crested-butte-opera-studio/
+slug = "elevated-opera-the-crested-butte-opera-studio"
 title = "Elevated opera: the Crested Butte Opera Studio"
 +++
 

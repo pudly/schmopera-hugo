@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /skills-to-learn-downtime-on-the-job/
+slug = "skills-to-learn-downtime-on-the-job"
 title = "Skills to learn: downtime on the job"
 +++
 

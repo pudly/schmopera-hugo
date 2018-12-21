@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /rusalka-opera-at-its-most-operatic/
+slug = "rusalka-opera-at-its-most-operatic"
 title = "Rusalka: Opera at its most operatic"
 +++
 

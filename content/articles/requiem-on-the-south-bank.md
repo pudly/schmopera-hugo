@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /requiem-on-the-south-bank/
+slug = "requiem-on-the-south-bank"
 title = "Requiem on the South Bank"
 +++
 

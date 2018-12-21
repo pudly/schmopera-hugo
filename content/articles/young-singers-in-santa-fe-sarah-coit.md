@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /young-singers-in-santa-fe-sarah-coit/
+slug = "young-singers-in-santa-fe-sarah-coit"
 title = "Young singers in Santa Fe: Sarah Coit"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /the-business-of-passion/
+slug = "the-business-of-passion"
 title = "The Business of Passion"
 +++
 

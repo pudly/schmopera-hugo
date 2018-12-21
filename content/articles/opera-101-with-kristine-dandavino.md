@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /opera-101-with-kristine-dandavino/
+slug = "opera-101-with-kristine-dandavino"
 title = "Opera 101 with Kristine Dandavino"
 +++
 

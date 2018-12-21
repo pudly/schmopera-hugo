@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /candide-the-best-of-all-possible-productions/
+slug = "candide-the-best-of-all-possible-productions"
 title = "Candide: the Best of All Possible Productions?"
 +++
 

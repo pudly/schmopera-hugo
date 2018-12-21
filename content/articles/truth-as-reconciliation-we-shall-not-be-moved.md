@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /truth-as-reconciliation-we-shall-not-be-moved/
+slug = "truth-as-reconciliation-we-shall-not-be-moved"
 title = "&quot;Truth, as reconciliation&quot;: We Shall Not Be Moved"
 +++
 

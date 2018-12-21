@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /check-out-opera-after-hours/
+slug = "check-out-opera-after-hours"
 title = "Check out: Opera After Hours"
 +++
 

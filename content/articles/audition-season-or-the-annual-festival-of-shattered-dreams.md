@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /audition-season-or-the-annual-festival-of-shattered-dreams/
+slug = "audition-season-or-the-annual-festival-of-shattered-dreams"
 title = "Audition season, or the annual Festival of Shattered Dreams"
 +++
 

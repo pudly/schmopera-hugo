@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /confusing-creepy-proving-up/
+slug = "confusing-creepy-proving-up"
 title = "Confusing &amp; creepy: Proving Up"
 +++
 

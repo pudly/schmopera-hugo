@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-grand-night-out-at-vancouver-operas-turandot/
+slug = "a-grand-night-out-at-vancouver-operas-turandot"
 title = "A grand night out at Vancouver Opera&#039;s Turandot"
 +++
 

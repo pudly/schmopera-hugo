@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /cameron-mcphail-on-competing/
+slug = "cameron-mcphail-on-competing"
 title = "Cameron McPhail: On Competing"
 +++
 

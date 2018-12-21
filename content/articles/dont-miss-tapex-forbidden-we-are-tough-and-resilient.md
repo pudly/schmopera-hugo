@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dont-miss-tapex-forbidden-we-are-tough-and-resilient/
+slug = "dont-miss-tapex-forbidden-we-are-tough-and-resilient"
 title = "Don&#039;t miss Tap:Ex Forbidden: &quot;We are tough and resilient.&quot;"
 +++
 

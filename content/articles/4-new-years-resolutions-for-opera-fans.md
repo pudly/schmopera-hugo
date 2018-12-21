@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /4-new-years-resolutions-for-opera-fans/
+slug = "4-new-years-resolutions-for-opera-fans"
 title = "4 New Year&#039;s resolutions for opera fans"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /john-cage-would-have-laughed/
+slug = "john-cage-would-have-laughed"
 title = "John Cage Would Have Laughed"
 +++
 

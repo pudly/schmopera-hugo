@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /ways-to-procrastinate-the-plotgenerated-opera/
+slug = "ways-to-procrastinate-the-plotgenerated-opera"
 title = "Ways to procrastinate: the plot-generated opera"
 +++
 

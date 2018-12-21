@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /thousands-of-miles-its-raw/
+slug = "thousands-of-miles-its-raw"
 title = "Thousands of Miles: &quot;It&#039;s raw.&quot;"
 +++
 

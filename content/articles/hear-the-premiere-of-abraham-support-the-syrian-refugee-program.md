@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /hear-the-premiere-of-abraham-support-the-syrian-refugee-program/
+slug = "hear-the-premiere-of-abraham-support-the-syrian-refugee-program"
 title = "Hear the premiere of Abraham, support the Syrian Refugee Program"
 +++
 

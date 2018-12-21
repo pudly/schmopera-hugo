@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /the-beginning-of-the-end-of-my-dream/
+slug = "the-beginning-of-the-end-of-my-dream"
 title = "The beginning of the end of my dream"
 +++
 

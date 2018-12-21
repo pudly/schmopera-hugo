@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /the-voice-teacher-series-elizabeth-mcdonald/
+slug = "the-voice-teacher-series-elizabeth-mcdonald"
 title = "The voice teacher series: Elizabeth McDonald"
 +++
 

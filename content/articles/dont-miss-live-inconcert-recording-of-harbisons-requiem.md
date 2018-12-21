@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-live-inconcert-recording-of-harbisons-requiem/
+slug = "dont-miss-live-inconcert-recording-of-harbisons-requiem"
 title = "Don&#039;t miss: live in-concert recording of Harbison&#039;s Requiem"
 +++
 

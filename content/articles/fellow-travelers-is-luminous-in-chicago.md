@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /fellow-travelers-is-luminous-in-chicago/
+slug = "fellow-travelers-is-luminous-in-chicago"
 title = "Fellow Travelers is &quot;luminous&quot; in Chicago"
 +++
 

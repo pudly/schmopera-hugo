@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /mysterious-barricades-crosscanada-concerts-for-hope/
+slug = "mysterious-barricades-crosscanada-concerts-for-hope"
 title = "Mysterious Barricades: Cross-Canada concerts for hope"
 +++
 

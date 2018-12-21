@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /tales-from-the-score-violetta/
+slug = "tales-from-the-score-violetta"
 title = "Tales from the score: Violetta"
 +++
 

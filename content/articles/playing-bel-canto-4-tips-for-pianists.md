@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /playing-bel-canto-4-tips-for-pianists/
+slug = "playing-bel-canto-4-tips-for-pianists"
 title = "Playing bel canto: 4 tips for pianists"
 +++
 

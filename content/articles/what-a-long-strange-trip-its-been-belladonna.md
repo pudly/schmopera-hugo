@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /what-a-long-strange-trip-its-been-belladonna/
+slug = "what-a-long-strange-trip-its-been-belladonna"
 title = "What a long, strange trip it&#039;s been: Belladonna"
 +++
 

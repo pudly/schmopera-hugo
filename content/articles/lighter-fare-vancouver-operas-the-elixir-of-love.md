@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /lighter-fare-vancouver-operas-the-elixir-of-love/
+slug = "lighter-fare-vancouver-operas-the-elixir-of-love"
 title = "Lighter fare: Vancouver Opera&#039;s The Elixir of Love"
 +++
 

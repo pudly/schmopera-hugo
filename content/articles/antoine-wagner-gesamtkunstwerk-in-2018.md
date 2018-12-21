@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /antoine-wagner-gesamtkunstwerk-in-2018/
+slug = "antoine-wagner-gesamtkunstwerk-in-2018"
 title = "Antoine Wagner: Gesamtkunstwerk in 2018"
 +++
 

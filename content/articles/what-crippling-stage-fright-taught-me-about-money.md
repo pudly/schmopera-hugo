@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /what-crippling-stage-fright-taught-me-about-money/
+slug = "what-crippling-stage-fright-taught-me-about-money"
 title = "What crippling stage fright taught me about money"
 +++
 

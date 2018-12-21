@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dont-miss-the-rcms-unsettling-doublebill/
+slug = "dont-miss-the-rcms-unsettling-doublebill"
 title = "Don&#039;t miss: the RCM&#039;s unsettling double-bill"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /grease-live-a-rant/
+slug = "grease-live-a-rant"
 title = "Grease Live: a rant"
 +++
 

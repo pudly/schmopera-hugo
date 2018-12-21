@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /this-weekend-songbook-v/
+slug = "this-weekend-songbook-v"
 title = "This weekend: Songbook V"
 +++
 

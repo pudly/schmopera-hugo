@@ -1,5 +1,5 @@
 +++
-slug = /artistic-success-pay-it-forward/
+slug = "artistic-success-pay-it-forward"
 title = "Artistic success: pay it forward"
 +++
 

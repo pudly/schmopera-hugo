@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-the-art-song-of-healey-willan/
+slug = "dont-miss-the-art-song-of-healey-willan"
 title = "Don&#039;t miss: The Art Song of Healey Willan"
 +++
 

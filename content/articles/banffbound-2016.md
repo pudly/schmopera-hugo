@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /banffbound-2016/
+slug = "banffbound-2016"
 title = "Banff-bound, 2016"
 +++
 

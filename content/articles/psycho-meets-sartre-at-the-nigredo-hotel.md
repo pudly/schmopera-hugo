@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /psycho-meets-sartre-at-the-nigredo-hotel/
+slug = "psycho-meets-sartre-at-the-nigredo-hotel"
 title = "Psycho meets Sartre at the Nigredo Hotel"
 +++
 

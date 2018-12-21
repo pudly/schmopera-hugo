@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /3-ways-your-english-is-showing/
+slug = "3-ways-your-english-is-showing"
 title = "3 ways your English is showing"
 +++
 

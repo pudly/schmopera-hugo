@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /tapestry-operas-selfie-talks-online-bullying/
+slug = "tapestry-operas-selfie-talks-online-bullying"
 title = "Tapestry Opera&#039;s Selfie talks online bullying"
 +++
 

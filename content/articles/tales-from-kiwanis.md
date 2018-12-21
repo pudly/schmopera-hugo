@@ -1,5 +1,5 @@
 +++
-slug = /tales-from-kiwanis/
+slug = "tales-from-kiwanis"
 title = "Tales from Kiwanis"
 +++
 

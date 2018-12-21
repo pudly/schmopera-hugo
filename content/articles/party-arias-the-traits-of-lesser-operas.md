@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /party-arias-the-traits-of-lesser-operas/
+slug = "party-arias-the-traits-of-lesser-operas"
 title = "Party arias: the traits of lesser operas?"
 +++
 

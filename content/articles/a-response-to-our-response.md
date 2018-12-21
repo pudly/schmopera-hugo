@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /a-response-to-our-response/
+slug = "a-response-to-our-response"
 title = "A response to &quot;our response&quot;"
 +++
 

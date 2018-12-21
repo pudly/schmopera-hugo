@@ -1,5 +1,5 @@
 +++
-slug = /in-review-perse/
+slug = "in-review-perse"
 title = "In review: Persée"
 +++
 

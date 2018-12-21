@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /tara-erraught-my-job-is-to-tell-a-story/
+slug = "tara-erraught-my-job-is-to-tell-a-story"
 title = "Tara Erraught: &quot;My job is to tell a story.&quot;"
 +++
 

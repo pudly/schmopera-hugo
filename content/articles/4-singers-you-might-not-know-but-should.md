@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /4-singers-you-might-not-know-but-should/
+slug = "4-singers-you-might-not-know-but-should"
 title = "4 singers you might not know - but should"
 +++
 

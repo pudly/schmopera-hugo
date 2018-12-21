@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /opinionated-opera-fans-come-write-for-us/
+slug = "opinionated-opera-fans-come-write-for-us"
 title = "Opinionated opera fans: come write for us!"
 +++
 

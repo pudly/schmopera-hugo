@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /summer-programs-when-its-time-to-stop-attending-them/
+slug = "summer-programs-when-its-time-to-stop-attending-them"
 title = "Summer programs, &amp; when it&#039;s time to stop attending them"
 +++
 

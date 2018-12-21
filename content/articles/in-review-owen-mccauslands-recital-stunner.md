@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-owen-mccauslands-recital-stunner/
+slug = "in-review-owen-mccauslands-recital-stunner"
 title = "In review: Owen McCausland&#039;s recital stunner"
 +++
 

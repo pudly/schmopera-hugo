@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /bocelli-grande-could-be-an-opera-duo-except-theyre-really-really-not/
+slug = "bocelli-grande-could-be-an-opera-duo-except-theyre-really-really-not"
 title = "Bocelli &amp; Grande: could be an opera duo, except they&#039;re really, really not"
 +++
 

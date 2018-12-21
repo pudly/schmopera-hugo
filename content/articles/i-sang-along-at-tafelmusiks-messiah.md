@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /i-sang-along-at-tafelmusiks-messiah/
+slug = "i-sang-along-at-tafelmusiks-messiah"
 title = "I sang along at Tafelmusik&#039;s Messiah"
 +++
 

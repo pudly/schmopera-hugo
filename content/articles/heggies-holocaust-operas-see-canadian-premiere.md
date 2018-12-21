@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /heggies-holocaust-operas-see-canadian-premiere/
+slug = "heggies-holocaust-operas-see-canadian-premiere"
 title = "Heggie&#039;s Holocaust operas see Canadian premiere"
 +++
 

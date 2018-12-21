@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-haus-musik/
+slug = "dont-miss-haus-musik"
 title = "Don&#039;t miss: Haus Musik"
 +++
 

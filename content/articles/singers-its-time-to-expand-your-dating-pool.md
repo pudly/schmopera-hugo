@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /singers-its-time-to-expand-your-dating-pool/
+slug = "singers-its-time-to-expand-your-dating-pool"
 title = "Singers: it&#039;s time to expand your dating pool"
 +++
 

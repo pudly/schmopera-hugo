@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /using-your-voice-again-a-plan-of-action/
+slug = "using-your-voice-again-a-plan-of-action"
 title = "Using your voice again: a plan of action"
 +++
 

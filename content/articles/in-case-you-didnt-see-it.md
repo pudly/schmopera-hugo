@@ -1,5 +1,5 @@
 +++
-slug = /in-case-you-didnt-see-it/
+slug = "in-case-you-didnt-see-it"
 title = "In case you didn&#039;t see it..."
 +++
 

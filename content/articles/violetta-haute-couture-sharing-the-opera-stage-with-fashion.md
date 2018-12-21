@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /violetta-haute-couture-sharing-the-opera-stage-with-fashion/
+slug = "violetta-haute-couture-sharing-the-opera-stage-with-fashion"
 title = "Violetta, haute couture, &amp; sharing the opera stage with fashion"
 +++
 

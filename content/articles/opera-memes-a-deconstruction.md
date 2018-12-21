@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /opera-memes-a-deconstruction/
+slug = "opera-memes-a-deconstruction"
 title = "Opera Memes: A deconstruction"
 +++
 

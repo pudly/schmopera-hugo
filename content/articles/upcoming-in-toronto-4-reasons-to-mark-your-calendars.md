@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /upcoming-in-toronto-4-reasons-to-mark-your-calendars/
+slug = "upcoming-in-toronto-4-reasons-to-mark-your-calendars"
 title = "Upcoming in Toronto: 4 reasons to mark your calendars"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /5-ways-to-build-your-rhythmic-chops/
+slug = "5-ways-to-build-your-rhythmic-chops"
 title = "5 ways to build your rhythmic chops"
 +++
 

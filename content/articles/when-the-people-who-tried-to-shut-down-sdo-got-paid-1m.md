@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /when-the-people-who-tried-to-shut-down-sdo-got-paid-1m/
+slug = "when-the-people-who-tried-to-shut-down-sdo-got-paid-1m"
 title = "When the people who tried to shut down SDO got paid $1M"
 +++
 

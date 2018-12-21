@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /fostering-maestras-the-institute-for-women-conductors-at-the-dallas-opera/
+slug = "fostering-maestras-the-institute-for-women-conductors-at-the-dallas-opera"
 title = "Fostering Maestras: The Institute for Women Conductors at The Dallas Opera"
 +++
 

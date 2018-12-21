@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /new-recordings-the-man-who-mistook-his-wife-for-a-hat/
+slug = "new-recordings-the-man-who-mistook-his-wife-for-a-hat"
 title = "New recordings: The Man Who Mistook His Wife for a Hat"
 +++
 

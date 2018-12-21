@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /baby-opera-singers-getting-angry-for-the-right-reasons/
+slug = "baby-opera-singers-getting-angry-for-the-right-reasons"
 title = "Baby &quot;opera singers&quot; &amp; getting angry for the right reasons"
 +++
 

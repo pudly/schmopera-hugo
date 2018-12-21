@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /is-the-cost-of-a-music-degree-ethical/
+slug = "is-the-cost-of-a-music-degree-ethical"
 title = "Is the Cost of a Music Degree Ethical?"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /shiny-new-operas/
+slug = "shiny-new-operas"
 title = "Shiny New Operas"
 +++
 

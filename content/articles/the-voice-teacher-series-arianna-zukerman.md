@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /the-voice-teacher-series-arianna-zukerman/
+slug = "the-voice-teacher-series-arianna-zukerman"
 title = "The voice teacher series: Arianna Zukerman"
 +++
 

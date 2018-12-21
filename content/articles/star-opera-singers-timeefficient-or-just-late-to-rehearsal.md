@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /star-opera-singers-timeefficient-or-just-late-to-rehearsal/
+slug = "star-opera-singers-timeefficient-or-just-late-to-rehearsal"
 title = "Star opera singers: time-efficient, or just late to rehearsal?"
 +++
 

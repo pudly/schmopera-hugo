@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-encounter-with-sondra-radvanovsky/
+slug = "dont-miss-encounter-with-sondra-radvanovsky"
 title = "Don&#039;t miss: Encounter with Sondra Radvanovsky"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /the-anxious-singer-10-tips-to-help-with-anxiety/
+slug = "the-anxious-singer-10-tips-to-help-with-anxiety"
 title = "The anxious singer: 10 tips to help with anxiety"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /michael-mori-on-the-devil-inside/
+slug = "michael-mori-on-the-devil-inside"
 title = "Michael Mori on The Devil Inside"
 +++
 

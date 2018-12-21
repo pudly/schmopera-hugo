@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /i-just-wanna-do-my-nails/
+slug = "i-just-wanna-do-my-nails"
 title = "I just wanna do my nails"
 +++
 

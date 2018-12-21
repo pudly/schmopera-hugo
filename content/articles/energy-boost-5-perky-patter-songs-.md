@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /energy-boost-5-perky-patter-songs-/
+slug = "energy-boost-5-perky-patter-songs-"
 title = "Energy boost: 5 perky patter songs "
 +++
 

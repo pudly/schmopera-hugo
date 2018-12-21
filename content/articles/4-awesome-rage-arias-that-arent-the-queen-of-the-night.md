@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /4-awesome-rage-arias-that-arent-the-queen-of-the-night/
+slug = "4-awesome-rage-arias-that-arent-the-queen-of-the-night"
 title = "4 awesome rage arias that aren&#039;t the Queen of the Night"
 +++
 

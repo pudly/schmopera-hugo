@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /keeping-the-thread-momenttomoment-awareness-in-singing/
+slug = "keeping-the-thread-momenttomoment-awareness-in-singing"
 title = "Keeping the thread: moment-to-moment awareness in singing"
 +++
 

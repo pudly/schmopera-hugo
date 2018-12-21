@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /chauvinism-cynicism-great-singing-cos-fan-tutte/
+slug = "chauvinism-cynicism-great-singing-cos-fan-tutte"
 title = "Chauvinism, cynicism, &amp; great singing: Così fan tutte"
 +++
 

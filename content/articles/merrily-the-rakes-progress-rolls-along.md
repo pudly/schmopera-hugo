@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /merrily-the-rakes-progress-rolls-along/
+slug = "merrily-the-rakes-progress-rolls-along"
 title = "Merrily The Rake&#039;s Progress rolls along"
 +++
 

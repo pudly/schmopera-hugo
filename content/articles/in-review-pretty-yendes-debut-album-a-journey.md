@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-pretty-yendes-debut-album-a-journey/
+slug = "in-review-pretty-yendes-debut-album-a-journey"
 title = "In review: Pretty Yende&#039;s debut album, A Journey"
 +++
 

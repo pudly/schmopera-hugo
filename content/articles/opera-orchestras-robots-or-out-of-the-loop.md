@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /opera-orchestras-robots-or-out-of-the-loop/
+slug = "opera-orchestras-robots-or-out-of-the-loop"
 title = "Opera orchestras: robots, or out of the loop?"
 +++
 

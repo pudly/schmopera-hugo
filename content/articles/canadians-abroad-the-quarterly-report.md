@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /canadians-abroad-the-quarterly-report/
+slug = "canadians-abroad-the-quarterly-report"
 title = "Canadians abroad: the quarterly report"
 +++
 

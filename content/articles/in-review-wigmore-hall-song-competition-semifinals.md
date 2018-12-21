@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-wigmore-hall-song-competition-semifinals/
+slug = "in-review-wigmore-hall-song-competition-semifinals"
 title = "In review: Wigmore Hall Song Competition semi-finals"
 +++
 

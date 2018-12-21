@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /who-cares-what-mozart-loved/
+slug = "who-cares-what-mozart-loved"
 title = "Who cares what Mozart loved?"
 +++
 

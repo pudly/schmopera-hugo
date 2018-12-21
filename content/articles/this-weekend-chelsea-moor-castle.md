@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /this-weekend-chelsea-moor-castle/
+slug = "this-weekend-chelsea-moor-castle"
 title = "This weekend: Chelsea Moor Castle"
 +++
 

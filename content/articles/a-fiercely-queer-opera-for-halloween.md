@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /a-fiercely-queer-opera-for-halloween/
+slug = "a-fiercely-queer-opera-for-halloween"
 title = "A &quot;fiercely queer opera&quot; for Halloween"
 +++
 

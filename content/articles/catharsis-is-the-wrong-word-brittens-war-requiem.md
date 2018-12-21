@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /catharsis-is-the-wrong-word-brittens-war-requiem/
+slug = "catharsis-is-the-wrong-word-brittens-war-requiem"
 title = "&quot;Catharsis&quot; is the wrong word: Britten&#039;s War Requiem"
 +++
 

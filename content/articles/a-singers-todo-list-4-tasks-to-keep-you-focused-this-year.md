@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /a-singers-todo-list-4-tasks-to-keep-you-focused-this-year/
+slug = "a-singers-todo-list-4-tasks-to-keep-you-focused-this-year"
 title = "A singer&#039;s to-do list: 4 tasks to keep you focused this year"
 +++
 

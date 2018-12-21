@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /after-15-years-i-felt-like-having-a-party/
+slug = "after-15-years-i-felt-like-having-a-party"
 title = "&quot;After 15 years, I felt like having a party.&quot;"
 +++
 

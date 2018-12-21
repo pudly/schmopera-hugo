@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /stephen-bell-singer-by-night-coffeeshop-creative-by-day/
+slug = "stephen-bell-singer-by-night-coffeeshop-creative-by-day"
 title = "Stephen Bell: singer by night, Coffeeshop Creative by day"
 +++
 

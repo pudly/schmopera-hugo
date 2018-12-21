@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /how-to-sit-through-opera-and-other-wikigems/
+slug = "how-to-sit-through-opera-and-other-wikigems"
 title = "How to Sit Through Opera and Other Wikigems"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /opera-shorthand-part-ii-proben-fcher/
+slug = "opera-shorthand-part-ii-proben-fcher"
 title = "Opera shorthand, part II: Proben &amp; Fächer"
 +++
 

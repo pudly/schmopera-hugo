@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /learning-opera-overtures-with-kyra-millan/
+slug = "learning-opera-overtures-with-kyra-millan"
 title = "Learning: Opera Overtures with Kyra Millan"
 +++
 

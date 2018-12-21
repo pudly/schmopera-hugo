@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /amy-winehouse-the-power-of-an-audience/
+slug = "amy-winehouse-the-power-of-an-audience"
 title = "Amy Winehouse &amp; the power of an audience"
 +++
 

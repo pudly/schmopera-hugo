@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-mozarts-obscure-opera-mass-in-c-minor/
+slug = "in-review-mozarts-obscure-opera-mass-in-c-minor"
 title = "In review: Mozart&#039;s Obscure Opera + Mass in C Minor"
 +++
 

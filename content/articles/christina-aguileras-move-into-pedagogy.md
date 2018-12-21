@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /christina-aguileras-move-into-pedagogy/
+slug = "christina-aguileras-move-into-pedagogy"
 title = "Christina Aguilera&#039;s move into pedagogy"
 +++
 

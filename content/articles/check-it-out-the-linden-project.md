@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /check-it-out-the-linden-project/
+slug = "check-it-out-the-linden-project"
 title = "Check it out: The Linden Project"
 +++
 

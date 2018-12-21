@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /good-first-impressions-casps-latest-commission-by-ana-sokolovi/
+slug = "good-first-impressions-casps-latest-commission-by-ana-sokolovi"
 title = "Good first impressions: CASP&#039;s latest commission by Ana Sokolović"
 +++
 

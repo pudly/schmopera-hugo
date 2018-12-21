@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /an-open-letter-to-audition-candidates/
+slug = "an-open-letter-to-audition-candidates"
 title = "An open letter to audition candidates"
 +++
 

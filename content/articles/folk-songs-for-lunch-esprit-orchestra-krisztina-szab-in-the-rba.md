@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /folk-songs-for-lunch-esprit-orchestra-krisztina-szab-in-the-rba/
+slug = "folk-songs-for-lunch-esprit-orchestra-krisztina-szab-in-the-rba"
 title = "Folk songs for lunch: Esprit Orchestra &amp; Krisztina Szabó in the RBA"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /album-review-o-gladsome-light/
+slug = "album-review-o-gladsome-light"
 title = "Album review: O Gladsome Light"
 +++
 

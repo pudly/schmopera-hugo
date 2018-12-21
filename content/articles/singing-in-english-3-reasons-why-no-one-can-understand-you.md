@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /singing-in-english-3-reasons-why-no-one-can-understand-you/
+slug = "singing-in-english-3-reasons-why-no-one-can-understand-you"
 title = "Singing in English: 3 reasons why no one can understand you"
 +++
 

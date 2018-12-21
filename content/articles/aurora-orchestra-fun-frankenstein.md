@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /aurora-orchestra-fun-frankenstein/
+slug = "aurora-orchestra-fun-frankenstein"
 title = "Aurora Orchestra, fun, &amp; Frankenstein!!"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /poor-decisions-professional-consequences/
+slug = "poor-decisions-professional-consequences"
 title = "Poor decisions &amp; professional consequences"
 +++
 

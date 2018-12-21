@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-visceral-nightmarish-tourdeforce-der-mieter/
+slug = "a-visceral-nightmarish-tourdeforce-der-mieter"
 title = "A visceral, nightmarish tour-de-force: Der Mieter"
 +++
 

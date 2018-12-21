@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /what-oscarssowhite-can-learn-from-opera/
+slug = "what-oscarssowhite-can-learn-from-opera"
 title = "What #OscarsSoWhite can learn from opera"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /livestreamed-in-recital-brancy-dugan/
+slug = "livestreamed-in-recital-brancy-dugan"
 title = "Live-streamed in recital: Brancy &amp; Dugan"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /rehearsing-a-messiah-that-moves/
+slug = "rehearsing-a-messiah-that-moves"
 title = "Rehearsing &quot;a Messiah that moves.&quot;"
 +++
 

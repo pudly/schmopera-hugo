@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /this-years-elizabeth-krehm-memorial-concert-a-followup/
+slug = "this-years-elizabeth-krehm-memorial-concert-a-followup"
 title = "This year&#039;s Elizabeth Krehm Memorial Concert: a follow-up"
 +++
 

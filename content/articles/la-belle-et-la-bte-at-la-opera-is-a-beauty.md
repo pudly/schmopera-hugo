@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /la-belle-et-la-bte-at-la-opera-is-a-beauty/
+slug = "la-belle-et-la-bte-at-la-opera-is-a-beauty"
 title = "La Belle et la Bête at LA Opera is a beauty"
 +++
 

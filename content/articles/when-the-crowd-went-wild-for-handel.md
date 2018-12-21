@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /when-the-crowd-went-wild-for-handel/
+slug = "when-the-crowd-went-wild-for-handel"
 title = "When the crowd went wild for Handel"
 +++
 

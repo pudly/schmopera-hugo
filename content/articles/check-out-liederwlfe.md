@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /check-out-liederwlfe/
+slug = "check-out-liederwlfe"
 title = "Check out: Liederwölfe"
 +++
 

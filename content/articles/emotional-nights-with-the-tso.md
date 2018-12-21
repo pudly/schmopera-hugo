@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /emotional-nights-with-the-tso/
+slug = "emotional-nights-with-the-tso"
 title = "Emotional nights with the TSO"
 +++
 

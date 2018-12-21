@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-accelerando-with-esprit-orchestra/
+slug = "dont-miss-accelerando-with-esprit-orchestra"
 title = "Don&#039;t miss: Accelerando with Esprit Orchestra"
 +++
 

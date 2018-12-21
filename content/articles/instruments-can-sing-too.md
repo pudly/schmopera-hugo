@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /instruments-can-sing-too/
+slug = "instruments-can-sing-too"
 title = "Instruments can sing, too"
 +++
 

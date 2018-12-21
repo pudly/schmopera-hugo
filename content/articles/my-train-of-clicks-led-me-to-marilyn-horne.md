@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /my-train-of-clicks-led-me-to-marilyn-horne/
+slug = "my-train-of-clicks-led-me-to-marilyn-horne"
 title = "My Train of Clicks Led Me To Marilyn Horne"
 +++
 

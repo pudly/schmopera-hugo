@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /4-weird-questions-for-opera-singers/
+slug = "4-weird-questions-for-opera-singers"
 title = "4 weird questions for opera singers"
 +++
 

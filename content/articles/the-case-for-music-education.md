@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /the-case-for-music-education/
+slug = "the-case-for-music-education"
 title = "The Case for Music Education"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /everything-i-know-about-the-piano-i-learned-from-singers/
+slug = "everything-i-know-about-the-piano-i-learned-from-singers"
 title = "Everything I know about the piano, I learned from singers"
 +++
 

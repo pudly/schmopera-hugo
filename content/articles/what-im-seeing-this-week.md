@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /what-im-seeing-this-week/
+slug = "what-im-seeing-this-week"
 title = "What I&#039;m seeing this week"
 +++
 

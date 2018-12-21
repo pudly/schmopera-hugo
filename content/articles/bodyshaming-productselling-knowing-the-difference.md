@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /bodyshaming-productselling-knowing-the-difference/
+slug = "bodyshaming-productselling-knowing-the-difference"
 title = "Body-shaming, product-selling, &amp; knowing the difference"
 +++
 

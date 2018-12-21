@@ -1,5 +1,5 @@
 +++
-slug = /in-review-a-little-too-cozy/
+slug = "in-review-a-little-too-cozy"
 title = "In review: A Little Too Cozy"
 +++
 

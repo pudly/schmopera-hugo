@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /3-things-to-learn-from-joni/
+slug = "3-things-to-learn-from-joni"
 title = "3 things to learn from Joni"
 +++
 

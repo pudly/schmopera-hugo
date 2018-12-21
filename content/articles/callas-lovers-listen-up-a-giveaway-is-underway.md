@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /callas-lovers-listen-up-a-giveaway-is-underway/
+slug = "callas-lovers-listen-up-a-giveaway-is-underway"
 title = "Callas lovers, listen up: a giveaway is underway!"
 +++
 

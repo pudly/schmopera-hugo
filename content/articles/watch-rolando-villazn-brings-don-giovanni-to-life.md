@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /watch-rolando-villazn-brings-don-giovanni-to-life/
+slug = "watch-rolando-villazn-brings-don-giovanni-to-life"
 title = "Watch: Rolando Villazón brings Don Giovanni to life"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /what-comes-first-the-union-or-the-gig/
+slug = "what-comes-first-the-union-or-the-gig"
 title = "What comes first, the union or the gig?"
 +++
 

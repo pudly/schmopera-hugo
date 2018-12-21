@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /lore-lixenberg-is-the-mother/
+slug = "lore-lixenberg-is-the-mother"
 title = "Lore Lixenberg is The Mother"
 +++
 

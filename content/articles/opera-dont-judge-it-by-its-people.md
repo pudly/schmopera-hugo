@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /opera-dont-judge-it-by-its-people/
+slug = "opera-dont-judge-it-by-its-people"
 title = "Opera: don&#039;t judge it by its people"
 +++
 

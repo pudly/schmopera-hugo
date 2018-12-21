@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /tfco-opera-trek-the-next-generation/
+slug = "tfco-opera-trek-the-next-generation"
 title = "TFCO: Opera Trek, The Next Generation"
 +++
 

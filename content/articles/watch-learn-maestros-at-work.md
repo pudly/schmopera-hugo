@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /watch-learn-maestros-at-work/
+slug = "watch-learn-maestros-at-work"
 title = "Watch &amp; learn: maestros at work"
 +++
 

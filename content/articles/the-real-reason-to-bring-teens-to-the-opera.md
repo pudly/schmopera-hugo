@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /the-real-reason-to-bring-teens-to-the-opera/
+slug = "the-real-reason-to-bring-teens-to-the-opera"
 title = "The real reason to bring teens to the opera"
 +++
 

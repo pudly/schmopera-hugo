@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /how-much-to-tell-your-students-about-the-voice/
+slug = "how-much-to-tell-your-students-about-the-voice"
 title = "How much to tell your students about the voice"
 +++
 

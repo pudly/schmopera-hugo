@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /what-to-wear-to-an-audition-via-the-red-carpet/
+slug = "what-to-wear-to-an-audition-via-the-red-carpet"
 title = "What to wear to an audition, via the red carpet"
 +++
 

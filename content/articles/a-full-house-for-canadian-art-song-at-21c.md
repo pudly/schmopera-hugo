@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-full-house-for-canadian-art-song-at-21c/
+slug = "a-full-house-for-canadian-art-song-at-21c"
 title = "A full house for Canadian art song at 21C"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /i-just-met-a-girl-named-cecilia/
+slug = "i-just-met-a-girl-named-cecilia"
 title = "I just met a girl named Cecilia"
 +++
 

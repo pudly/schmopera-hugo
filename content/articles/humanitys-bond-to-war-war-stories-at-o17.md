@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /humanitys-bond-to-war-war-stories-at-o17/
+slug = "humanitys-bond-to-war-war-stories-at-o17"
 title = "&quot;Humanity&#039;s bond to war&quot;: War Stories at O17"
 +++
 

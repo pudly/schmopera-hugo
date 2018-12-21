@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /4-steps-to-taking-fixing-notes/
+slug = "4-steps-to-taking-fixing-notes"
 title = "4 steps to taking (&amp; fixing) notes"
 +++
 

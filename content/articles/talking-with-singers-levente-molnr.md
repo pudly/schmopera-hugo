@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-singers-levente-molnr/
+slug = "talking-with-singers-levente-molnr"
 title = "Talking with singers: Levente Molnár"
 +++
 

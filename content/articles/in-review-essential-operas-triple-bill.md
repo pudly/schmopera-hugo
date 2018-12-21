@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-essential-operas-triple-bill/
+slug = "in-review-essential-operas-triple-bill"
 title = "In Review: Essential Opera&#039;s Triple Bill"
 +++
 

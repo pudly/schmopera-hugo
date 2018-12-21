@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /concert-etiquette-or-put-down-your-phone/
+slug = "concert-etiquette-or-put-down-your-phone"
 title = "Concert etiquette, or put down your phone"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /rose-bruford-college-we-are-absolutely-unique/
+slug = "rose-bruford-college-we-are-absolutely-unique"
 title = "Rose Bruford College: &quot;We are absolutely unique.&quot;"
 +++
 

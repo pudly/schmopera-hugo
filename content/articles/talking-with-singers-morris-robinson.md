@@ -1,5 +1,5 @@
 +++
-slug = /talking-with-singers-morris-robinson/
+slug = "talking-with-singers-morris-robinson"
 title = "Talking with singers: Morris Robinson"
 +++
 

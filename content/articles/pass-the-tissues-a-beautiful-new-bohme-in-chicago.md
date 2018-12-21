@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /pass-the-tissues-a-beautiful-new-bohme-in-chicago/
+slug = "pass-the-tissues-a-beautiful-new-bohme-in-chicago"
 title = "Pass the tissues: a beautiful new Bohème in Chicago"
 +++
 

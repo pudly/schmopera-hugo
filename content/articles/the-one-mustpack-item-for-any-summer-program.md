@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /the-one-mustpack-item-for-any-summer-program/
+slug = "the-one-mustpack-item-for-any-summer-program"
 title = "The one must-pack item for any summer program"
 +++
 

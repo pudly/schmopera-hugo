@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /celebrating-10-years-of-opera-by-request/
+slug = "celebrating-10-years-of-opera-by-request"
 title = "Celebrating 10 years of Opera By Request"
 +++
 

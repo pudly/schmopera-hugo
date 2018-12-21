@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /slightly-unsettling-the-overcoat/
+slug = "slightly-unsettling-the-overcoat"
 title = "Slightly unsettling: The Overcoat"
 +++
 

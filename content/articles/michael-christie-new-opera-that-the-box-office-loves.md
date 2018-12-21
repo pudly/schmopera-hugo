@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /michael-christie-new-opera-that-the-box-office-loves/
+slug = "michael-christie-new-opera-that-the-box-office-loves"
 title = "Michael Christie: new opera that the box office loves"
 +++
 

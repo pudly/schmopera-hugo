@@ -1,5 +1,5 @@
 +++
-slug = /broadcasts/
+slug = "broadcasts"
 title = "Broadcasts"
 +++
 

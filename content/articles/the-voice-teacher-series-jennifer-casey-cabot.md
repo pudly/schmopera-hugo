@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /the-voice-teacher-series-jennifer-casey-cabot/
+slug = "the-voice-teacher-series-jennifer-casey-cabot"
 title = "The voice teacher series: Jennifer Casey Cabot"
 +++
 

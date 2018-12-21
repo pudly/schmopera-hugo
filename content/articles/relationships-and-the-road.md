@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /relationships-and-the-road/
+slug = "relationships-and-the-road"
 title = "Relationships and the road"
 +++
 

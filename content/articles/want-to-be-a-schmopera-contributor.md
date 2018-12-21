@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /want-to-be-a-schmopera-contributor/
+slug = "want-to-be-a-schmopera-contributor"
 title = "Want to be a Schmopera contributor?"
 +++
 

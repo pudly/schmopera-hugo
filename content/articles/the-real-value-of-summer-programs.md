@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /the-real-value-of-summer-programs/
+slug = "the-real-value-of-summer-programs"
 title = "The real value of summer programs"
 +++
 

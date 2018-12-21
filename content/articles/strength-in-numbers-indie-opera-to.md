@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /strength-in-numbers-indie-opera-to/
+slug = "strength-in-numbers-indie-opera-to"
 title = "Strength in numbers: Indie Opera T.O."
 +++
 

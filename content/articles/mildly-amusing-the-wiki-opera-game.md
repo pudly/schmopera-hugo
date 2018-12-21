@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /mildly-amusing-the-wiki-opera-game/
+slug = "mildly-amusing-the-wiki-opera-game"
 title = "Mildly amusing: the Wiki Opera Game"
 +++
 

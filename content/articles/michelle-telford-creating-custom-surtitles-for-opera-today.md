@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /michelle-telford-creating-custom-surtitles-for-opera-today/
+slug = "michelle-telford-creating-custom-surtitles-for-opera-today"
 title = "Michelle Telford, Creating Custom Surtitles for Opera Today"
 +++
 

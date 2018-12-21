@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-albert-herring-at-uoft-opera/
+slug = "in-review-albert-herring-at-uoft-opera"
 title = "In review: Albert Herring at UofT Opera"
 +++
 

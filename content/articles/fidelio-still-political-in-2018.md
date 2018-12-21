@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /fidelio-still-political-in-2018/
+slug = "fidelio-still-political-in-2018"
 title = "Fidelio: still political in 2018"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-anne-sofie-von-otter-and-angela-hewitt/
+slug = "in-review-anne-sofie-von-otter-and-angela-hewitt"
 title = "In review: Anne Sofie von Otter and Angela Hewitt"
 +++
 

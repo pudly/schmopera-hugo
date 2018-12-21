@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /rip-claudio-abbado/
+slug = "rip-claudio-abbado"
 title = "RIP: Claudio Abbado"
 +++
 

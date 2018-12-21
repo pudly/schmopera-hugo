@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /second-opinion-the-marriage-of-figaro-at-the-coc/
+slug = "second-opinion-the-marriage-of-figaro-at-the-coc"
 title = "Second opinion: The Marriage of Figaro at the COC"
 +++
 

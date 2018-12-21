@@ -1,5 +1,5 @@
 +++
-slug = /mt-how-directors-hear-music/
+slug = "mt-how-directors-hear-music"
 title = "MT: How directors hear music"
 +++
 

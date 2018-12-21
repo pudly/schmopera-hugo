@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /when-singers-call-in-sick/
+slug = "when-singers-call-in-sick"
 title = "When singers call in sick"
 +++
 

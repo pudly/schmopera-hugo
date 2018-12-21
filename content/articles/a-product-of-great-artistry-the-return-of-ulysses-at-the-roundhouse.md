@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-product-of-great-artistry-the-return-of-ulysses-at-the-roundhouse/
+slug = "a-product-of-great-artistry-the-return-of-ulysses-at-the-roundhouse"
 title = "A product of great artistry: The Return of Ulysses at the Roundhouse"
 +++
 

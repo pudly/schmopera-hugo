@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /brisk-wicked-die-zauberflte-at-roh/
+slug = "brisk-wicked-die-zauberflte-at-roh"
 title = "Brisk &amp; wicked: Die Zauberflöte at ROH"
 +++
 

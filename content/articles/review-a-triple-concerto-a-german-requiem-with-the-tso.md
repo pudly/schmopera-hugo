@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /review-a-triple-concerto-a-german-requiem-with-the-tso/
+slug = "review-a-triple-concerto-a-german-requiem-with-the-tso"
 title = "Review: a Triple Concerto &amp; a German Requiem with the TSO"
 +++
 

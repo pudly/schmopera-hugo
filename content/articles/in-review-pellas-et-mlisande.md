@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-pellas-et-mlisande/
+slug = "in-review-pellas-et-mlisande"
 title = "In review: Pelléas et Mélisande"
 +++
 

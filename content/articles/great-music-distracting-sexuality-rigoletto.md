@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /great-music-distracting-sexuality-rigoletto/
+slug = "great-music-distracting-sexuality-rigoletto"
 title = "Great music &amp; distracting sexuality: Rigoletto"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /la-traviata-shows-houston-how-to-arise/
+slug = "la-traviata-shows-houston-how-to-arise"
 title = "La traviata shows Houston how to arise"
 +++
 

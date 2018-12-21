@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /nicole-brooks-on-obeah-opera/
+slug = "nicole-brooks-on-obeah-opera"
 title = "Nicole Brooks on Obeah Opera"
 +++
 

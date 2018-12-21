@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /the-heart-and-the-art/
+slug = "the-heart-and-the-art"
 title = "The heart and the art"
 +++
 

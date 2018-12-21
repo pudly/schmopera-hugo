@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /verdi-at-204-toscanini-at-150-the-2017-festival-verdi/
+slug = "verdi-at-204-toscanini-at-150-the-2017-festival-verdi"
 title = "Verdi at 204, Toscanini at 150: the 2017 Festival Verdi"
 +++
 

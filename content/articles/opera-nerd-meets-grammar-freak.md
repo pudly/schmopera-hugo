@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /opera-nerd-meets-grammar-freak/
+slug = "opera-nerd-meets-grammar-freak"
 title = "Opera nerd meets grammar freak"
 +++
 

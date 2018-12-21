@@ -1,5 +1,5 @@
 +++
-slug = /it-all-comes-back-to-monteverdi/
+slug = "it-all-comes-back-to-monteverdi"
 title = "It all comes back to Monteverdi"
 +++
 

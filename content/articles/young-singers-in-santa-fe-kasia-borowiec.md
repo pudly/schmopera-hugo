@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /young-singers-in-santa-fe-kasia-borowiec/
+slug = "young-singers-in-santa-fe-kasia-borowiec"
 title = "Young singers in Santa Fe: Kasia Borowiec"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-perfect-fit-the-overcoat/
+slug = "a-perfect-fit-the-overcoat"
 title = "A perfect fit: The Overcoat"
 +++
 

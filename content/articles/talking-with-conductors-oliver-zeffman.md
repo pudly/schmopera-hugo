@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-conductors-oliver-zeffman/
+slug = "talking-with-conductors-oliver-zeffman"
 title = "Talking with conductors: Oliver Zeffman"
 +++
 

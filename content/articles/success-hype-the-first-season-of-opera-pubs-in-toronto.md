@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /success-hype-the-first-season-of-opera-pubs-in-toronto/
+slug = "success-hype-the-first-season-of-opera-pubs-in-toronto"
 title = "Success &amp; hype: the first season of Opera Pubs in Toronto"
 +++
 

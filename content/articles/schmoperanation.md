@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /schmoperanation/
+slug = "schmoperanation"
 title = "Schmoperanation!"
 +++
 

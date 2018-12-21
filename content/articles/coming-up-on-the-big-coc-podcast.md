@@ -1,5 +1,5 @@
 +++
-slug = /coming-up-on-the-big-coc-podcast/
+slug = "coming-up-on-the-big-coc-podcast"
 title = "Coming up on The Big COC Podcast..."
 +++
 

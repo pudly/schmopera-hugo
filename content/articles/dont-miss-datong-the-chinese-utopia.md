@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dont-miss-datong-the-chinese-utopia/
+slug = "dont-miss-datong-the-chinese-utopia"
 title = "Don&#039;t miss Datong: The Chinese Utopia"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /go-see-this-carla-huhtanen-and-nicole-lize-in-tapex-tables-turned/
+slug = "go-see-this-carla-huhtanen-and-nicole-lize-in-tapex-tables-turned"
 title = "Go See This: Carla Huhtanen and Nicole Lizée in Tap:Ex Tables Turned"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /appetizers-arias-popera-at-the-drake-one-fifty/
+slug = "appetizers-arias-popera-at-the-drake-one-fifty"
 title = "Appetizers &amp; arias: Popera! at the Drake One Fifty"
 +++
 

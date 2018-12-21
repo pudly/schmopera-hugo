@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /the-follies-of-modernization-oedipus-rex-iolanta/
+slug = "the-follies-of-modernization-oedipus-rex-iolanta"
 title = "The follies of modernization: Oedipus Rex &amp; Iolanta"
 +++
 

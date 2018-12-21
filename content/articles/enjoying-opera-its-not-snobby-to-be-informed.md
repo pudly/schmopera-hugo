@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /enjoying-opera-its-not-snobby-to-be-informed/
+slug = "enjoying-opera-its-not-snobby-to-be-informed"
 title = "Enjoying opera: it&#039;s not snobby to be informed"
 +++
 

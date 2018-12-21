@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /mark-morris-clarity/
+slug = "mark-morris-clarity"
 title = "Mark Morris: &quot;Clarity.&quot;"
 +++
 

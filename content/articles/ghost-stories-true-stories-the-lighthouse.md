@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /ghost-stories-true-stories-the-lighthouse/
+slug = "ghost-stories-true-stories-the-lighthouse"
 title = "Ghost stories &amp; true stories: The Lighthouse"
 +++
 

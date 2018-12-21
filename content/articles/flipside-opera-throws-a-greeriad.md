@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /flipside-opera-throws-a-greeriad/
+slug = "flipside-opera-throws-a-greeriad"
 title = "Flipside Opera throws a &quot;Greeriad&quot;"
 +++
 

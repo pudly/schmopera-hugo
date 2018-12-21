@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /opera-technology-hither-and-yon/
+slug = "opera-technology-hither-and-yon"
 title = "Opera Technology: Hither and Yon"
 +++
 

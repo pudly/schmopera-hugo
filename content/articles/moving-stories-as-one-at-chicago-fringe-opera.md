@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /moving-stories-as-one-at-chicago-fringe-opera/
+slug = "moving-stories-as-one-at-chicago-fringe-opera"
 title = "Moving stories: As One at Chicago Fringe Opera"
 +++
 

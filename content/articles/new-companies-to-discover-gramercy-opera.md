@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /new-companies-to-discover-gramercy-opera/
+slug = "new-companies-to-discover-gramercy-opera"
 title = "New companies to discover: Gramercy Opera"
 +++
 

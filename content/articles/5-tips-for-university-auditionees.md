@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /5-tips-for-university-auditionees/
+slug = "5-tips-for-university-auditionees"
 title = "5 Tips for University Auditionees"
 +++
 

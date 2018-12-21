@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /turin-royal-theatre-william-tell-in-toronto/
+slug = "turin-royal-theatre-william-tell-in-toronto"
 title = "Turin Royal Theatre: William Tell in Toronto"
 +++
 

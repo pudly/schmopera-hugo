@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /the-orchestra-problem-should-they-smile-more/
+slug = "the-orchestra-problem-should-they-smile-more"
 title = "The orchestra problem: should they smile more?"
 +++
 

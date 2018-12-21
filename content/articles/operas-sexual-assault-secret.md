@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /operas-sexual-assault-secret/
+slug = "operas-sexual-assault-secret"
 title = "Opera&#039;s sexual assault secret"
 +++
 

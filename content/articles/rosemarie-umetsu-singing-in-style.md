@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /rosemarie-umetsu-singing-in-style/
+slug = "rosemarie-umetsu-singing-in-style"
 title = "Rosemarie Umetsu: singing in style"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /vania-chan-on-airline-icarus/
+slug = "vania-chan-on-airline-icarus"
 title = "Vania Chan on Airline Icarus"
 +++
 

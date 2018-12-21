@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /go-see-les-paradis-perdus-remix/
+slug = "go-see-les-paradis-perdus-remix"
 title = "Go see: Les paradis perdus / Remix"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /the-best-bad-meal-in-london-the-faulty-towers-dining-experience/
+slug = "the-best-bad-meal-in-london-the-faulty-towers-dining-experience"
 title = "The best bad meal in London: the Faulty Towers Dining Experience"
 +++
 

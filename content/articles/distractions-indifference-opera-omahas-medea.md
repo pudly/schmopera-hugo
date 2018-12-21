@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /distractions-indifference-opera-omahas-medea/
+slug = "distractions-indifference-opera-omahas-medea"
 title = "Distractions &amp; indifference: Opera Omaha&#039;s Medea"
 +++
 

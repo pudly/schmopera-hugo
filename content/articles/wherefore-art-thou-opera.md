@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /wherefore-art-thou-opera/
+slug = "wherefore-art-thou-opera"
 title = "Wherefore art thou, opera?"
 +++
 

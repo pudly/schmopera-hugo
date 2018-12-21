@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /blo-barber-brings-delightful-laughter-amid-overdesign/
+slug = "blo-barber-brings-delightful-laughter-amid-overdesign"
 title = "BLO Barber brings delightful laughter amid overdesign"
 +++
 

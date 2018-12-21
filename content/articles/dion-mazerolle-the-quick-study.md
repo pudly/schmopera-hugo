@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dion-mazerolle-the-quick-study/
+slug = "dion-mazerolle-the-quick-study"
 title = "Dion Mazerolle: the quick study"
 +++
 

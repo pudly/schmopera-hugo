@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /real-talk-the-unspoken-realities-of-a-professional-artistic-life/
+slug = "real-talk-the-unspoken-realities-of-a-professional-artistic-life"
 title = "Real talk: the unspoken realities of a professional artistic life"
 +++
 

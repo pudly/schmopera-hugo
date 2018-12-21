@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /young-singers-in-santa-fe-stephen-martin/
+slug = "young-singers-in-santa-fe-stephen-martin"
 title = "Young singers in Santa Fe: Stephen Martin"
 +++
 

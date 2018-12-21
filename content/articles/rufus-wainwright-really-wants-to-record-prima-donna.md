@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /rufus-wainwright-really-wants-to-record-prima-donna/
+slug = "rufus-wainwright-really-wants-to-record-prima-donna"
 title = "Rufus Wainwright really wants to record Prima Donna"
 +++
 

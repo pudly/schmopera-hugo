@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /xenophobia-fake-news-mental-health-peter-grimes/
+slug = "xenophobia-fake-news-mental-health-peter-grimes"
 title = "Xenophobia, Fake News, &amp; Mental Health: Peter Grimes"
 +++
 

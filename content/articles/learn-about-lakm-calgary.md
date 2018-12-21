@@ -1,5 +1,5 @@
 +++
-slug = /learn-about-lakm-calgary/
+slug = "learn-about-lakm-calgary"
 title = "Learn about Lakmé (Calgary)"
 +++
 

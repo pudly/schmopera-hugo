@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /cleanedup-callas-the-remastered-live-recordings/
+slug = "cleanedup-callas-the-remastered-live-recordings"
 title = "Cleaned-up Callas: the remastered live recordings"
 +++
 

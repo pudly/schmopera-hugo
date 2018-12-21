@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /a-diction-lesson-french-canadian-swearing/
+slug = "a-diction-lesson-french-canadian-swearing"
 title = "A diction lesson: French Canadian swearing"
 +++
 

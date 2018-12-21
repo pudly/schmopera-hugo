@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /organizing-your-scores-a-serious-business/
+slug = "organizing-your-scores-a-serious-business"
 title = "Organizing your scores: a serious business"
 +++
 

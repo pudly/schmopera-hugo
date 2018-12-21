@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /how-did-we-do-second-movement-presents-rough-for-opera-16/
+slug = "how-did-we-do-second-movement-presents-rough-for-opera-16"
 title = "&quot;How did we do?&quot; Second Movement Presents: rough for opera #16"
 +++
 

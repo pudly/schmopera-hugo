@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /bronx-opera-50-years-counting/
+slug = "bronx-opera-50-years-counting"
 title = "Bronx Opera: 50 years &amp; counting"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /public-practicing-pet-peeves/
+slug = "public-practicing-pet-peeves"
 title = "Public practicing &amp; pet peeves"
 +++
 

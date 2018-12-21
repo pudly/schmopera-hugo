@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /heavy-on-the-plot-points-the-great-god-pan/
+slug = "heavy-on-the-plot-points-the-great-god-pan"
 title = "Heavy on the plot points: The Great God Pan"
 +++
 

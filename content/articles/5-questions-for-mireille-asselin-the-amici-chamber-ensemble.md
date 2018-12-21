@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /5-questions-for-mireille-asselin-the-amici-chamber-ensemble/
+slug = "5-questions-for-mireille-asselin-the-amici-chamber-ensemble"
 title = "5 Questions for Mireille Asselin &amp; the Amici Chamber Ensemble"
 +++
 

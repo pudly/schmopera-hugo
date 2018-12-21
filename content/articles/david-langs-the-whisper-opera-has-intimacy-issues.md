@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /david-langs-the-whisper-opera-has-intimacy-issues/
+slug = "david-langs-the-whisper-opera-has-intimacy-issues"
 title = "David Lang&#039;s the whisper opera has intimacy issues"
 +++
 

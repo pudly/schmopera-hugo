@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /stephen-frys-latest-charming-appearance-at-the-royal-opera-house/
+slug = "stephen-frys-latest-charming-appearance-at-the-royal-opera-house"
 title = "Stephen Fry&#039;s latest charming appearance at the Royal Opera House"
 +++
 

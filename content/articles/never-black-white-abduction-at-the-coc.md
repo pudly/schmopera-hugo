@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /never-black-white-abduction-at-the-coc/
+slug = "never-black-white-abduction-at-the-coc"
 title = "Never black &amp; white: Abduction at the COC"
 +++
 

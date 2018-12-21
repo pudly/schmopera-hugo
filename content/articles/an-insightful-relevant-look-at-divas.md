@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /an-insightful-relevant-look-at-divas/
+slug = "an-insightful-relevant-look-at-divas"
 title = "An Insightful, Relevant Look At Divas"
 +++
 

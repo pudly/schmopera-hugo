@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /meet-the-folks-pocket-concerts/
+slug = "meet-the-folks-pocket-concerts"
 title = "Meet the folks: Pocket Concerts"
 +++
 

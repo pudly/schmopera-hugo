@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /toronto-opera-initiatives-don-giovanni/
+slug = "toronto-opera-initiatives-don-giovanni"
 title = "Toronto Opera Initiative&#039;s Don Giovanni"
 +++
 

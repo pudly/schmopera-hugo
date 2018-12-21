@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /musician-marketing-masterclass/
+slug = "musician-marketing-masterclass"
 title = "Musician Marketing Masterclass"
 +++
 

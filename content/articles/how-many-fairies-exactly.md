@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /how-many-fairies-exactly/
+slug = "how-many-fairies-exactly"
 title = "How many fairies, exactly?"
 +++
 

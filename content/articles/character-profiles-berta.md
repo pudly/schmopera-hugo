@@ -1,5 +1,5 @@
 +++
-slug = /character-profiles-berta/
+slug = "character-profiles-berta"
 title = "Character profiles: Berta"
 +++
 

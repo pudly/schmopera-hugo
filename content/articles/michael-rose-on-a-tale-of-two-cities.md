@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /michael-rose-on-a-tale-of-two-cities/
+slug = "michael-rose-on-a-tale-of-two-cities"
 title = "Michael Rose on A Tale of Two Cities"
 +++
 

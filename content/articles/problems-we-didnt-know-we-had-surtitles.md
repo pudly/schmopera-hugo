@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /problems-we-didnt-know-we-had-surtitles/
+slug = "problems-we-didnt-know-we-had-surtitles"
 title = "Problems we didn&#039;t know we had: surtitles"
 +++
 

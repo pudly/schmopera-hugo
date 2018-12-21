@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /tosca-the-nyco-renaissance/
+slug = "tosca-the-nyco-renaissance"
 title = "Tosca &amp; the NYCO Renaissance"
 +++
 

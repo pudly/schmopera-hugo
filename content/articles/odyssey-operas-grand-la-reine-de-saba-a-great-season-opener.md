@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /odyssey-operas-grand-la-reine-de-saba-a-great-season-opener/
+slug = "odyssey-operas-grand-la-reine-de-saba-a-great-season-opener"
 title = "Odyssey Opera&#039;s grand La reine de Saba a great season opener"
 +++
 

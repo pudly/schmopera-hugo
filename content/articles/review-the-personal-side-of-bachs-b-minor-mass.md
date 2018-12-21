@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /review-the-personal-side-of-bachs-b-minor-mass/
+slug = "review-the-personal-side-of-bachs-b-minor-mass"
 title = "Review: the personal side of Bach&#039;s B minor Mass"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-string-of-pearls-from-bizet-and-la-opera/
+slug = "a-string-of-pearls-from-bizet-and-la-opera"
 title = "A string of Pearls from Bizet and LA Opera"
 +++
 

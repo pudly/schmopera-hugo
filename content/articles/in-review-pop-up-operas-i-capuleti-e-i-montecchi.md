@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-pop-up-operas-i-capuleti-e-i-montecchi/
+slug = "in-review-pop-up-operas-i-capuleti-e-i-montecchi"
 title = "In review: Pop Up Opera&#039;s I Capuleti e i Montecchi"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /fierce-recitals-karita-mattila-at-wigmore-hall/
+slug = "fierce-recitals-karita-mattila-at-wigmore-hall"
 title = "Fierce recitals: Karita Mattila at Wigmore Hall"
 +++
 

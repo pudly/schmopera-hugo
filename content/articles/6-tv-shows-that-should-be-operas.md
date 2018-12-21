@@ -1,5 +1,5 @@
 +++
-slug = /6-tv-shows-that-should-be-operas/
+slug = "6-tv-shows-that-should-be-operas"
 title = "6 TV shows that should be operas"
 +++
 

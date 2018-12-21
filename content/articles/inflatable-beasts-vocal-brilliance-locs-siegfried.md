@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /inflatable-beasts-vocal-brilliance-locs-siegfried/
+slug = "inflatable-beasts-vocal-brilliance-locs-siegfried"
 title = "Inflatable beasts &amp; vocal brilliance: LOC&#039;s Siegfried"
 +++
 

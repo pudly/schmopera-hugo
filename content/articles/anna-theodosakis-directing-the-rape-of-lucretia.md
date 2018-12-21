@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /anna-theodosakis-directing-the-rape-of-lucretia/
+slug = "anna-theodosakis-directing-the-rape-of-lucretia"
 title = "Anna Theodosakis: directing The Rape of Lucretia"
 +++
 

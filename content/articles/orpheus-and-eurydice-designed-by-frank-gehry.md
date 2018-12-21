@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /orpheus-and-eurydice-designed-by-frank-gehry/
+slug = "orpheus-and-eurydice-designed-by-frank-gehry"
 title = "Orpheus and Eurydice, designed by Frank Gehry"
 +++
 

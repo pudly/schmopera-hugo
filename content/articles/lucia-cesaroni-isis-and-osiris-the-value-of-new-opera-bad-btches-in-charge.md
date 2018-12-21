@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /lucia-cesaroni-isis-and-osiris-the-value-of-new-opera-bad-btches-in-charge/
+slug = "lucia-cesaroni-isis-and-osiris-the-value-of-new-opera-bad-btches-in-charge"
 title = "Lucia Cesaroni: Isis and Osiris, the value of new opera, &amp; &quot;bad b*tches in charge&quot;"
 +++
 

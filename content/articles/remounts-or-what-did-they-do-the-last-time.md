@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /remounts-or-what-did-they-do-the-last-time/
+slug = "remounts-or-what-did-they-do-the-last-time"
 title = "Remounts, or &quot;What did they do the last time?&quot;"
 +++
 

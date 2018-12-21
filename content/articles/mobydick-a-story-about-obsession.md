@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /mobydick-a-story-about-obsession/
+slug = "mobydick-a-story-about-obsession"
 title = "Moby-Dick: &quot;A story about obsession.&quot;"
 +++
 

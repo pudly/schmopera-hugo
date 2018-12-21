@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /thanks-everyone/
+slug = "thanks-everyone"
 title = "Thanks, everyone!"
 +++
 

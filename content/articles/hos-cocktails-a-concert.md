@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /hos-cocktails-a-concert/
+slug = "hos-cocktails-a-concert"
 title = "HOS: Cocktails &amp; a concert"
 +++
 

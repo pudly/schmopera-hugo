@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /desdemona-down/
+slug = "desdemona-down"
 title = "Desdemona Down"
 +++
 

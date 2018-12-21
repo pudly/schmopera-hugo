@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /thomas-paine-in-violence-must-be-witnessed/
+slug = "thomas-paine-in-violence-must-be-witnessed"
 title = "Thomas Paine in Violence &quot;must be witnessed.&quot;"
 +++
 
