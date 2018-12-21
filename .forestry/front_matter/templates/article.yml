@@ -19,10 +19,18 @@ fields:
       type: documents
   label: Author
 - type: select
-  name: category
+  name: categories
   config:
     source:
-      type: documents
+      type: simple
+    options:
+    - Editorial
+    - How-To
+    - Humour
+    - Interview
+    - Meta
+    - Op-Ed
+    - Review
   label: Category
 - type: file
   name: primary_image
@@ -67,5 +75,3 @@ fields:
   name: companies
   label: Companies
   description: Companies mentioned in this article
-pages:
-- content/articles/sample-article-with-all-the-fixins.md
