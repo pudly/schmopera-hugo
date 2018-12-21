@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: No Place Like Home"
----
++++
+categories = "Interview"
+slug = /dont-miss-no-place-like-home/
+title = "Don&#039;t miss: No Place Like Home"
++++
 
 ## Where did the idea of *No Place Like Home* come from?
 

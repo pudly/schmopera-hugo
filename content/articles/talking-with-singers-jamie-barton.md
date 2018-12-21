@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Jamie Barton"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-jamie-barton/
+title = "Talking with singers: Jamie Barton"
++++
 
 We had the chance to talk with American mezzo-soprano [Jamie Barton](/scene/people/jamie-barton/) between rehearsals for [Washington National Opera](/scene/companies/washington-national-opera/)'s upcoming [*Ring Cycle*](http://web.kennedy-center.org/Marketing/Ring/Landing), where she'll be singing Waltraute in *Götterdämmerung*, and covering Fricka in *Die Walküre*. She has been in Washington for about two weeks, prepping for the *Cycle*'s April 30th opening. "I'm just now in cover stagings for Fricka," says Barton. "We were doing the first scene of Wotan and Fricka this morning. I think tomorrow is *Valkyries*. There's a lot of German happening right now!"
 

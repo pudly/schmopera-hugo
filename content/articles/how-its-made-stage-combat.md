@@ -1,6 +1,8 @@
----
-title: "How it&#039;s made: stage combat"
----
++++
+categories = "Interview"
+slug = /how-its-made-stage-combat/
+title = "How it&#039;s made: stage combat"
++++
 
 ## What do you think makes the difference between an onstage fight that is so-so, versus believable?
  

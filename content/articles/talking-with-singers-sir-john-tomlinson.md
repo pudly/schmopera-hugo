@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Sir John Tomlinson"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-sir-john-tomlinson/
+title = "Talking with singers: Sir John Tomlinson"
++++
 
 "It feels quite good, actually," laughs Sir John Tomlinson of his particularly honourable title, which he received when he was knighted in the 2005 Queen's Birthday Honours list in recognition of his exception operatic career. "It's a huge honour, and I'm still slightly bemused that I received it."
 

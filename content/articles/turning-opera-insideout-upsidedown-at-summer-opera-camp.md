@@ -1,6 +1,8 @@
----
-title: "Turning opera &quot;inside-out, upside-down&quot; at Summer Opera Camp"
----
++++
+categories = "Interview"
+slug = /turning-opera-insideout-upsidedown-at-summer-opera-camp/
+title = "Turning opera &quot;inside-out, upside-down&quot; at Summer Opera Camp"
++++
 
 ### 1. How do you introduce theatre to young people?
 

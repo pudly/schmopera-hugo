@@ -1,6 +1,8 @@
----
-title: "In review: Chris Thile at Wigmore Hall"
----
++++
+categories = "Review"
+slug = /in-review-chris-thile-at-wigmore-hall/
+title = "In review: Chris Thile at Wigmore Hall"
++++
 
 How often do you get a glimpse into the mind of a musical genius? Lucky for us, Chris Thile gave a solo recital at Wigmore Hall on Friday night. The vibe of Wigmore was quite unusually lively, as the young audience sat in an excited anticipation of the virtuosic mandolin player.
 

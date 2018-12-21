@@ -1,6 +1,8 @@
----
-title: "In review: La Colla &amp; Katzarava in recital"
----
++++
+categories = "Review"
+slug = /in-review-la-colla-katzarava-in-recital/
+title = "In review: La Colla &amp; Katzarava in recital"
++++
 
 Many times, we've heard a common sentiment from opera singers about giving recitals: they're utterly terrifying. It's easy to understand why; recitals are intimate, and intimate can be scary. Everything about a singer - from the beauty of their sound, to their choices of repertoire - is subject to close scrutiny.
 

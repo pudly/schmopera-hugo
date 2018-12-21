@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Michelle Siemens"
----
++++
+categories = "Interview"
+slug = /spotlight-on-michelle-siemens/
+title = "Spotlight on: Michelle Siemens"
++++
 
 Calgary-born mezzo-soprano [Michelle Siemens](/scene/people/michelle-siemens/) was heard this past season on the Four Seasons Centre stage, as a finalist for the 2014 COC Ensemble Studio competition. Michelle has trained across Canada and in the United States, and I had the chance to work with her on one of her stops, singing Hermia in *A Midsummer Night's Dream* at [Opera on the Avalon](/scene/companies/opera-on-the-avalon/). She chats about singing strong, independent women, the magic of music.
 ***

@@ -1,6 +1,8 @@
----
-title: "An &quot;astonishing&quot; Bryan Hymel in the Royal Opera&#039;s double bill"
----
++++
+categories = "Review"
+slug = /an-astonishing-bryan-hymel-in-the-royal-operas-double-bill/
+title = "An &quot;astonishing&quot; Bryan Hymel in the Royal Opera&#039;s double bill"
++++
 
 I always find *Cavalleria rusticana* and *Pagliacci* to be an unfair pairing: *Pagliacci* upstages *Rusticana* in basically every way. The story is considerably better, more interesting, better paced and more complex. The music has the same imbalance: *Pagliacci*'s score is infinitely more varied and detailed, full of beauty and emotion that *Rusticana* never quite reaches. I appreciate that's not an opinion everyone shares, but every time I see a production of the pair, I'm bored by *Rusticana* and then absolutely floored by *Pagliacci*.
 

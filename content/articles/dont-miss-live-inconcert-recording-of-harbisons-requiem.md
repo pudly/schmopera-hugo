@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: live in-concert recording of Harbison&#039;s Requiem"
----
++++
+categories = "News"
+slug = /dont-miss-live-inconcert-recording-of-harbisons-requiem/
+title = "Don&#039;t miss: live in-concert recording of Harbison&#039;s Requiem"
++++
 
 This week, Pulitzer Prize-winning American composer John Harbison will see two performances of his [*Requiem*](https://www.nashvillesymphony.org/tickets/concert/2017-an-american-requiem), a work completed in 2003 as a response to the attacks on September 11, 2001. 
 

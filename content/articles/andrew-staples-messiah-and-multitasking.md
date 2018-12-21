@@ -1,6 +1,8 @@
----
-title: "Andrew Staples: Messiah and multi-tasking"
----
++++
+categories = "Interview"
+slug = /andrew-staples-messiah-and-multitasking/
+title = "Andrew Staples: Messiah and multi-tasking"
++++
 
 ## What does it feel like to sing the *Messiah*? How many do you think you average each year?
 

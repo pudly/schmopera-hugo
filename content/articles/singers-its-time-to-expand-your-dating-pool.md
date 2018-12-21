@@ -1,6 +1,8 @@
----
-title: "Singers: it&#039;s time to expand your dating pool"
----
++++
+categories = "Editorial"
+slug = /singers-its-time-to-expand-your-dating-pool/
+title = "Singers: it&#039;s time to expand your dating pool"
++++
 
 Readers, how many of you know an "industry couple"? A pair of singers who are dating, or maybe some romantic combination of singer and pianist/stage manager/director/conductor? If you've been nosing around opera folk for any time at all, it's not hard to see that intra-industry dating is really, *really* common. It also makes a lot of sense, considering the huge amounts of time these people spend together during their school years and in their professional circles. They also share a powerful passion, one that can be a bit niche when you venture out into the broader world of people and their interests.
 

@@ -1,6 +1,8 @@
----
-title: "Hear the premiere of Abraham, support the Syrian Refugee Program"
----
++++
+categories = "News"
+slug = /hear-the-premiere-of-abraham-support-the-syrian-refugee-program/
+title = "Hear the premiere of Abraham, support the Syrian Refugee Program"
++++
 
 Tomorrow night, head to the Metropolitan United Church to hear the première of *Abraham*, a new oratorio by Dora award-winning composer [David Warrack](http://www.canadiantheatre.com/dict.pl?term=Warrack%2C%20David) (*Torontosaurus*, *Oh Susanna, Interpretations of a Life*). Tickets start at $36, and funds raised will go towards the Church's Syrian Refugee Program.
 

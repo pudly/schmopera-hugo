@@ -1,6 +1,8 @@
----
-title: "Taking tweed seriously: lessons for the emerging opera composer"
----
++++
+categories = "Op-ed"
+slug = /taking-tweed-seriously-lessons-for-the-emerging-opera-composer/
+title = "Taking tweed seriously: lessons for the emerging opera composer"
++++
 
 "I am becoming a better opera composer" is my brand, to borrow a word from the marketing world. When I was in non-profit administration, we would talk about this quite a bit. We were trying to distill our "soul" — what drove us, as an organization, to do what we did — and then make that into something recognizable to the public that we could, in turn, utilize at fundraising time.  While not my favorite term, The Brand provides a compass, an overarching explanation as to why I make my decisions regarding my work and how I advance plans that will hopefully lead to collaboration. Just saying it — identifying The Brand — doesn't necessarily translate into anybody buying what I am selling, but it does remind me of my true north.
 

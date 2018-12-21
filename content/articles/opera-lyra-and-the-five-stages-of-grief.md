@@ -1,6 +1,8 @@
----
-title: "Opera Lyra and the Five Stages of Grief"
----
++++
+categories = "Op-ed"
+slug = /opera-lyra-and-the-five-stages-of-grief/
+title = "Opera Lyra and the Five Stages of Grief"
++++
 
 There has been a distraught and saddened buzz in the opera community ever since [Opera Lyra](/scene/companies/opera-lyra-ottawa/) announced an [immediate halt](/opera-lyras-immediate-shutdown/) of its 2015-2016 season due to severe budget shortfalls. As the opera world absorbs this difficult hit, reactions on social media are evolving in line with the five stages of grief:
 

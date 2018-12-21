@@ -1,6 +1,8 @@
----
-title: "Callas lovers, listen up: a giveaway is underway!"
----
++++
+categories = "News"
+slug = /callas-lovers-listen-up-a-giveaway-is-underway/
+title = "Callas lovers, listen up: a giveaway is underway!"
++++
 
 Readers, we're feeling generous this month!
 

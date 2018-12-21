@@ -1,6 +1,8 @@
----
-title: "La Gazzetta: The Funny Papers"
----
++++
+categories = "Review"
+slug = /la-gazzetta-the-funny-papers/
+title = "La Gazzetta: The Funny Papers"
++++
 
 When most opera lovers hear the name Rossini, they immediately think of *Il barbiere di Siviglia*, *La Cenerentola*, *Tancredi* or a few of his other titles that have made it into the worldwide repertory. Some might not even think of his operas as much as they think of his great opera overtures, such as his famous composition for *Guillaume Tell* (often performed as an orchestral piece.) Most will not think of the other thirty-plus Rossini operas that are hardly performed and which rarely see "the light of stage."
 

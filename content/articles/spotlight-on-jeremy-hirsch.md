@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Jeremy Hirsch"
----
++++
+categories = "Interview"
+slug = /spotlight-on-jeremy-hirsch/
+title = "Spotlight on: Jeremy Hirsch"
++++
 
 ### 1. Why do you sing, and why are you pursuing it professionally?
 

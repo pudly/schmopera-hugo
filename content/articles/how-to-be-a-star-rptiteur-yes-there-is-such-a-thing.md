@@ -1,6 +1,8 @@
----
-title: "How to be a star répétiteur (yes, there is such a thing)"
----
++++
+categories = "How-to"
+slug = /how-to-be-a-star-rptiteur-yes-there-is-such-a-thing/
+title = "How to be a star répétiteur (yes, there is such a thing)"
++++
 
 ### Rhythm
 

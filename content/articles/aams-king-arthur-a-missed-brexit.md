@@ -1,6 +1,8 @@
----
-title: "AAM&#039;s King Arthur: a missed Brexit"
----
++++
+categories = "Review"
+slug = /aams-king-arthur-a-missed-brexit/
+title = "AAM&#039;s King Arthur: a missed Brexit"
++++
 
 Last year's Brexit vote continues to sharply divide the country, providing a rich bounty for artistic interpretation as a silver lining. The [Academy of Ancient Music](/scene/companies/academy-of-ancient-music/)'s production of *King Arthur* seems like an inspired choice in the current mood of mistrust and animosity. Henry Purcell's semi-opera was composed in the aftermath of the Glorious Revolution, an era of similar rupture and discord. The comparisons between post-Brexit and post-Glorious Revolution Britain are obvious, both 1691 and 2016 being marked by deep social and political divisions. Whether this allows the Stuart propaganda piece to successfully portray the complexity of last year's referendum is more questionable.
 

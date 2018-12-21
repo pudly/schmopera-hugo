@@ -1,6 +1,8 @@
----
-title: "In review: Nashville Symphony&#039;s season opener"
----
++++
+categories = "Review"
+slug = /in-review-nashville-symphonys-season-opener/
+title = "In review: Nashville Symphony&#039;s season opener"
++++
 
 Recently, I attended [Nashville Symphony](https://www.nashvillesymphony.org/tickets/calendar)'s season opening program at Schermerhorn Symphony Center. The program was: *Jubilee: a Tennessee Quilting Party for Orchestra*, composed by the hall's namesake – and the Symphony's late conductor – Kenneth Schermerhorn, and Mahler's *Symphony No. 2*. 
 

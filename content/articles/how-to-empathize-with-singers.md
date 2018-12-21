@@ -1,6 +1,8 @@
----
-title: "How to empathize with singers"
----
++++
+categories = "Editorial"
+slug = /how-to-empathize-with-singers/
+title = "How to empathize with singers"
++++
 
 ## Speak their text
 

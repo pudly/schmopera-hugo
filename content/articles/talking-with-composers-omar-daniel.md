@@ -1,6 +1,8 @@
----
-title: "Talking with composers: Omar Daniel"
----
++++
+categories = "Interview"
+slug = /talking-with-composers-omar-daniel/
+title = "Talking with composers: Omar Daniel"
++++
 
 ## How would you describe your musical aesthetic? How have you heard it described by others?
 

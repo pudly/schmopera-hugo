@@ -1,6 +1,8 @@
----
-title: "Gok&#039;s Divas: solid picks, despite the packaging"
----
++++
+categories = "Editorial"
+slug = /goks-divas-solid-picks-despite-the-packaging/
+title = "Gok&#039;s Divas: solid picks, despite the packaging"
++++
 
 Gok Wan, the UK-based fashion expert, TV-presenter, and ["all round national treasure"](all round national treasure), has recently revealed himself to be a fan of opera. He released [*Gok's Divas*](https://itunes.apple.com/gb/album/goks-divas/id1201354077?i=1201356149&app=music), an album of "my personal selection of favourite arias by opera's greatest stars".
 

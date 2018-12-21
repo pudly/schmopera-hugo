@@ -1,6 +1,8 @@
----
-title: "Learn: Opera in the City"
----
++++
+categories = "News"
+slug = /learn-opera-in-the-city/
+title = "Learn: Opera in the City"
++++
 
 Looking to enhance your opera-going experience? The [Royal Conservatory of Music](/scene/companies/royal-conservatory-of-music/) offers [*Opera in the City*](https://ca.apm.activecommunities.com/theroyalconservatory/Activity_Search/1514), a four-week look into two of Toronto's upcoming shows, [*La traviata*](http://www.coc.ca/PerformancesAndTickets/1516Season/LaTraviata.aspx) (opening at the [Canadian Opera Company](/scene/companies/canadian-opera-company/) October 8th) and [*Armide*](http://operaatelier.com/season/15-16-season/), opening October 22nd with [Opera Atelier](/scene/companies/opera-atelier/).
 

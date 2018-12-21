@@ -1,6 +1,8 @@
----
-title: "Schmopera on the radio"
----
++++
+categories = "Editorial"
+slug = /schmopera-on-the-radio/
+title = "Schmopera on the radio"
++++
 
 <p class="intro">
 	Readers, listen up! This coming Wednesday, January 21st, I get to join arts writer <a href="https://twitter.com/catekustanczy" target="_blank">Catherine Kustanczy</a> (<em>Hyperallergic</em>, <em>xoJane</em>, <em>Opera News</em>) on her brand new radio show, <em>Hydra</em>.<br>

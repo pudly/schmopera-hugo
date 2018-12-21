@@ -1,6 +1,8 @@
----
-title: "He said/she said: Talisker Players, with Carla Huhtanen &amp; Andrea Ludwig"
----
++++
+categories = "Review"
+slug = /he-saidshe-said-talisker-players-with-carla-huhtanen-andrea-ludwig/
+title = "He said/she said: Talisker Players, with Carla Huhtanen &amp; Andrea Ludwig"
++++
 
 
 **Jenna**: Tuesday night, Greg & I went to hear the [Talisker Players](http://www.taliskerplayers.ca/) at Trinity-St. Paul's on Bloor. The Players' chamber series is always a guarantee for great performances and interesting programming, and this concert was no exception. Entitled *Heroes, Gods & Mortals*, the programme included two of my favourite singers to watch: [Carla Huhtanen](http://www.carlahuhtanen.com/) and [Andrea Ludwig](http://andrealudwig.ca/).

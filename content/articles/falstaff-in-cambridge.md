@@ -1,6 +1,8 @@
----
-title: "Falstaff in Cambridge"
----
++++
+categories = "Interview"
+slug = /falstaff-in-cambridge/
+title = "Falstaff in Cambridge"
++++
 
 Established in 1887, the Cambridge Philharmonic is one of Britain's oldest and most established musical societies. Singers like Kathleen Ferrier, Peter Pears, and Philip Langridge all performed there, and in the past decade under Principal Conductor [Timothy Redmond](http://cam-phil.org.uk/bio/TimRedmond.html), the Philharmonic has presented in-concert opera performances as part of their season. 
 

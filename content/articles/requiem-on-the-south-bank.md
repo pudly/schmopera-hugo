@@ -1,6 +1,8 @@
----
-title: "Requiem on the South Bank"
----
++++
+categories = "Review"
+slug = /requiem-on-the-south-bank/
+title = "Requiem on the South Bank"
++++
 
 Verdi's *Requiem* is surrounded, on all sides, by opera. It was written between *Aïda* and *Simon Boccanegra*, and the soprano solo was sung often by Teresa Stolz, who sang the title role in *Aïda*'s European premiere in Milan. The *Requiem* was initially in memory of Rossini; later, Verdi revised the "Libera me" to remember the poet Alessandro Manzoni, most famous for his *I promessi sposi* (*The Betrothed*).
 

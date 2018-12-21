@@ -1,6 +1,8 @@
----
-title: "Muppets at the opera"
----
++++
+categories = "Humour"
+slug = /muppets-at-the-opera/
+title = "Muppets at the opera"
++++
 
 There is this fascinating relationship between opera and the Muppets.  Considering that *The Muppet Show* follows the blueprint of the classic [revue show](http://en.wikipedia.org/wiki/Revue), it’s not that odd; revues are built on sophisticated satire of anyone or anything famous at the time.  Most of the guests were actors and/or musicians, including  Alan Arkin, Gilda Radner, Steve Martin, Johnny Cash, Ethel Merman, John Cleese, Alice Cooper and Chewbacca. And honestly, if Chewie gets to grace the Muppet stage with his noble howl, so does Placido Domingo.
 

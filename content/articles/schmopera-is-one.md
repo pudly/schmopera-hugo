@@ -1,6 +1,8 @@
----
-title: "Schmopera is One!"
----
++++
+categories = "Editorial"
+slug = /schmopera-is-one/
+title = "Schmopera is One!"
++++
 
 <p style="text-align: left;">
 	Cheers, readers! There's yet another reason to celebrate during this festive season: Schmopera is one year old!

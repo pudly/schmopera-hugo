@@ -1,6 +1,8 @@
----
-title: "Graceful exits &amp; double standards"
----
++++
+categories = "Editorial"
+slug = /graceful-exits-double-standards/
+title = "Graceful exits &amp; double standards"
++++
 
 "You don't want people to be saying, 'Oh my God, please stop...Or, 'I heard her when.'"
 

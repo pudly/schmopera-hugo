@@ -1,6 +1,8 @@
----
-title: "How to play for singers"
----
++++
+categories = "How-to"
+slug = /how-to-play-for-singers/
+title = "How to play for singers"
++++
 
 ### When you've got practice time
 

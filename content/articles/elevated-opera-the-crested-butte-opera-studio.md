@@ -1,6 +1,8 @@
----
-title: "Elevated opera: the Crested Butte Opera Studio"
----
++++
+categories = "Interview"
+slug = /elevated-opera-the-crested-butte-opera-studio/
+title = "Elevated opera: the Crested Butte Opera Studio"
++++
 
 ## What attracted you to the CMBF Opera Studio? What do you hope to learn from the programme?
 

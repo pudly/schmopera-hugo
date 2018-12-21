@@ -1,6 +1,8 @@
----
-title: "A response to &quot;our response&quot;"
----
++++
+categories = "Op-ed"
+slug = /a-response-to-our-response/
+title = "A response to &quot;our response&quot;"
++++
 
 Alex Ross, classical music’s advocate, critic, and shining beacon of hope for relevancy and significance in our times, took on every classical musician’s favourite adage in his [most recent piece](http://www.newyorker.com/culture/cultural-comment/making-art-in-a-time-of-rage) for *The New Yorker*. He dissected the Leonard Bernstein quotation used in response to tragedies by musicians all over social media, "This will be our reply to violence: to make music more intensely, more beautifully, more devotedly than ever before."
 

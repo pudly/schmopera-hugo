@@ -1,6 +1,8 @@
----
-title: "Betany Coffland: creating operatic bouquets"
----
++++
+categories = "Interview"
+slug = /betany-coffland-creating-operatic-bouquets/
+title = "Betany Coffland: creating operatic bouquets"
++++
 
 ## What inspired you to work with floral design, on top of your already busy singing schedule?
 

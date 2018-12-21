@@ -1,6 +1,8 @@
----
-title: "Toni Castells: new operas, &amp; new science"
----
++++
+categories = "Interview"
+slug = /toni-castells-new-operas-new-science/
+title = "Toni Castells: new operas, &amp; new science"
++++
 
 ## What are the questions and themes that audiences will find in *2045: The Year Man Becomes Immortal?*
 

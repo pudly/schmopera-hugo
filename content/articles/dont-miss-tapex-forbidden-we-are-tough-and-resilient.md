@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss Tap:Ex Forbidden: &quot;We are tough and resilient.&quot;"
----
++++
+categories = "Interview"
+slug = /dont-miss-tapex-forbidden-we-are-tough-and-resilient/
+title = "Don&#039;t miss Tap:Ex Forbidden: &quot;We are tough and resilient.&quot;"
++++
 
 ## Can you tell us about the chance discovery of your connection in Iran?
 

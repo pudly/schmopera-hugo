@@ -1,6 +1,8 @@
----
-title: "Album review: All Who Wander"
----
++++
+categories = "Review"
+slug = /album-review-all-who-wander/
+title = "Album review: All Who Wander"
++++
 
 "Pinterest boards about exotic locations... the thought of tasting ethnic cuisines in places where they're local rather than "exotic"... Loreena McKennitt's 1997 2x platinum album *The Book of Secrets*... swapping stories with friends and family about places we've been that we'll never forget... the thought of sharing the gift of traveling with my nephews and expanding their world... my passport, just glaring at me from my desk..."
 

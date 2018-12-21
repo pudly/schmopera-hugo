@@ -1,6 +1,8 @@
----
-title: "In review: Der Rosenkavalier at ROH"
----
++++
+categories = "Review"
+slug = /in-review-der-rosenkavalier-at-roh/
+title = "In review: Der Rosenkavalier at ROH"
++++
 
 Robert Carsen's new production of [*Der Rosenkavalier*](http://www.roh.org.uk/productions/der-rosenkavalier-by-robert-carsen) spills over with everything for which the star director is known. The sparse-yet-well-chosen points of focus across the stage fit beautifully with the broad and spacious architecture of Paul Steinberg's sets; Brigitte Reiffenstuel's costumes were ones to die for, classic silhouettes wrapped in richly textured fabric. It was a picture of an enviable, and very real life for the Marschallin in Vienna, 1911.
 

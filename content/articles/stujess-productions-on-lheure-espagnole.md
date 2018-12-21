@@ -1,6 +1,8 @@
----
-title: "Stu&amp;Jess Productions, on L&#039;heure espagnole"
----
++++
+categories = "Interview"
+slug = /stujess-productions-on-lheure-espagnole/
+title = "Stu&amp;Jess Productions, on L&#039;heure espagnole"
++++
 
 ### 1. What about *L’heure Espagnole* makes it an appealing choice for Stu&Jess Productions?
 

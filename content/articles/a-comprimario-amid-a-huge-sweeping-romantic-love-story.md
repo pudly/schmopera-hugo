@@ -1,6 +1,8 @@
----
-title: "A comprimario amid a &quot;huge, sweeping, romantic love story&quot;"
----
++++
+categories = "Interview"
+slug = /a-comprimario-amid-a-huge-sweeping-romantic-love-story/
+title = "A comprimario amid a &quot;huge, sweeping, romantic love story&quot;"
++++
 
 ## How do the two comprimario roles in *La bohème* help to set up the world and relationships that are central to the main story?
 

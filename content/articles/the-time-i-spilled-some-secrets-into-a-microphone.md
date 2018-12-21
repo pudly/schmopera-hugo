@@ -1,6 +1,8 @@
----
-title: "The time I spilled some secrets into a microphone"
----
++++
+categories = "News"
+slug = /the-time-i-spilled-some-secrets-into-a-microphone/
+title = "The time I spilled some secrets into a microphone"
++++
 
 Hi, everyone. Jenna here.
 

@@ -1,6 +1,8 @@
----
-title: "Discomfort: Louis Riel at the COC"
----
++++
+categories = "Review"
+slug = /discomfort-louis-riel-at-the-coc/
+title = "Discomfort: Louis Riel at the COC"
++++
 
 "*Louder, please*," barked the inconsiderate, entitled man sitting in an upper ring of the Four Seasons Centre, as Cole Alvis (The Activist) welcomed the audience to the [Canadian Opera Company](/scene/companies/canadian-opera-company/)'s new production of Harry Somers' [*Louis Riel*](http://www.coc.ca/PerformancesAndTickets/1617Season/LouisRiel.aspx).
 

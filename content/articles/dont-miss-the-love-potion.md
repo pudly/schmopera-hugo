@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: The Love Potion"
----
++++
+categories = "Editorial"
+slug = /dont-miss-the-love-potion/
+title = "Don&#039;t miss: The Love Potion"
++++
 
 Almost as engrossing as the very old story of [Tristan and Isolde](https://en.wikipedia.org/wiki/Tristan_and_Iseult), is the tale's far-reaching lineage. The 12th-century story has roots has origins in literature across Europe and the Middle East, and over nearly a millennium it has been referenced and retold in everything from Wagner's *Tristan und Isolde*, to Joyce's *Finnegan's Wake* to Matt Groening's *Futurama*. 
 

@@ -1,6 +1,8 @@
----
-title: "Aria guides: &quot;Una furtiva lagrima&quot;"
----
++++
+categories = "How-to"
+slug = /aria-guides-una-furtiva-lagrima/
+title = "Aria guides: &quot;Una furtiva lagrima&quot;"
++++
 
 <figure data-type="image">
 ![](/webhook-uploads/1445465677598/Aria-Guide---Una-furtiva-lagrima---p1---Annotated---Cropped.jpg)

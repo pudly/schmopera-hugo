@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Electric Messiah"
----
++++
+categories = "News"
+slug = /dont-miss-electric-messiah/
+title = "Don&#039;t miss: Electric Messiah"
++++
 
 These days, you can hear your beloved *Messiah* any way you like it. [Soundstreams](/scene/companies/soundstreams/) is trying out a brand new way to hear Handel's ubiquitous, beloved work. On December 7 and 8, as part of their [Ear Candy](http://www.soundstreams.ca/performances/ear-candy/) series, Soundstreams presents [*Electric Messiah*](http://www.soundstreams.ca/performances/ear-candy/electric-messiah/), or, "Handel goes Underground: A stripped down, surround-sound electro-improv *Messiah* for today’s Toronto." 
 

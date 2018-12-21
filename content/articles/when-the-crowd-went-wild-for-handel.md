@@ -1,6 +1,8 @@
----
-title: "When the crowd went wild for Handel"
----
++++
+categories = "Op-ed"
+slug = /when-the-crowd-went-wild-for-handel/
+title = "When the crowd went wild for Handel"
++++
 
 Friday night was the second Opera Karaoke night in downtown Banff, AB, and the most amazing thing happened. 
 

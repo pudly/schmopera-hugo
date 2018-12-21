@@ -1,6 +1,8 @@
----
-title: "3 TV opera references with great meaning (maybe)"
----
++++
+categories = "Humour"
+slug = /3-tv-opera-references-with-great-meaning-maybe/
+title = "3 TV opera references with great meaning (maybe)"
++++
 
 ## The Puccini Gala in *House of Cards*
 

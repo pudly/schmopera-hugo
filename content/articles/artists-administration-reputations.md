@@ -1,6 +1,8 @@
----
-title: "Artists, administration &amp; reputations"
----
++++
+categories = "Op-ed"
+slug = /artists-administration-reputations/
+title = "Artists, administration &amp; reputations"
++++
 
 Everybody loves an artist in one way or another; they're such an alluring group of people because they're a creative bunch. Creative, absolutely; yet they're not often thought of primarily as an organized bunch, and there's some truth to that stereotype. Good, employable artists know that they can't be flighty, or bad at returning emails, or constantly late; yet it's not hard to imagine the artist that, left to his or her own devices, would probably keep odd and inconsistent hours, a messy workspace, and they'd occasionally get wrapped up in their work enough to forget to buy groceries. 
 

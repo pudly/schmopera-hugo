@@ -1,6 +1,8 @@
----
-title: "Toronto Opera Initiative&#039;s Don Giovanni"
----
++++
+categories = "Editorial"
+slug = /toronto-opera-initiatives-don-giovanni/
+title = "Toronto Opera Initiative&#039;s Don Giovanni"
++++
 
 The newly-formed Toronto Opera Initiative put up an in-concert, semi-staged presentation of Mozart's beloved *Don Giovanni* at College Street United Church, just in time for Valentine's day.
 

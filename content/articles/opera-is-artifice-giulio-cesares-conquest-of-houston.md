@@ -1,6 +1,8 @@
----
-title: "Opera is artifice: Giulio Cesare&#039;s conquest of Houston"
----
++++
+categories = "Review"
+slug = /opera-is-artifice-giulio-cesares-conquest-of-houston/
+title = "Opera is artifice: Giulio Cesare&#039;s conquest of Houston"
++++
 
 Once upon a time, I was a huge fan of Sierra city-building strategy computer games, most particularly the Egyptian-based Pharaoh and its sequel, Cleopatra. With scenarios posing timeless and diverting lessons about economics, geography, urban planning, and especially history, they are very keenly calculated to give a great deal of education to the young, developing mind, while remaining sophisticated to the adult mind even two decades after their initial release.
 

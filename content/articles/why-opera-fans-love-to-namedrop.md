@@ -1,6 +1,8 @@
----
-title: "Why opera fans love to name-drop"
----
++++
+categories = "Editorial"
+slug = /why-opera-fans-love-to-namedrop/
+title = "Why opera fans love to name-drop"
++++
 
 Every time an opera company makes a season announcement, it predictably includes a whole lot of name dropping. Hardcore fans whip themselves into a frenzy when their favourite singers are set to perform, be it in something familiar (like when [Sondra Radvanovsky](/talking-with-singers-sondra-radvanovsky/) sings a Donizetti Queen), or something new (like when [Gerald Finley](/scene/people/gerald-finley/) announced he would be singing Verdi's Falstaff).
 

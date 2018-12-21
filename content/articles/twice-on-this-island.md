@@ -1,6 +1,8 @@
----
-title: "Twice on This Island"
----
++++
+categories = "Review"
+slug = /twice-on-this-island/
+title = "Twice on This Island"
++++
 
 Decades ago when Stewart Copeland was Sting's partner in the rock group The Police, you would not have predicted that his name would one day appear in an opera review.  But while Mr. Copeland has devoted much of his post-pop life to film scores, he's also worked on quite a bit of what some refer to as "serious" music. And his opera *The Invention of Morel* is seriously good. The Long Beach Opera company, which will celebrate its 40th anniversary next year, continues its long-time tradition of presenting works that speak to a contemporary audience. Known nationally and internationally for their "bold and unconventional repertory," Mr. Copeland's opera is no exception.
 

@@ -1,6 +1,8 @@
----
-title: "A perfect fit: The Overcoat"
----
++++
+categories = "Review"
+slug = /a-perfect-fit-the-overcoat/
+title = "A perfect fit: The Overcoat"
++++
 
 Every once in a while a work comes along where all the pieces fall into place. [*The Overcoat: A Musical Tailoring*](https://www.canadianstage.com/online/overcoat), which opened last night in the Bluma Appel Theatre at the St. Lawrence Centre for the Arts, was one such piece. 
 

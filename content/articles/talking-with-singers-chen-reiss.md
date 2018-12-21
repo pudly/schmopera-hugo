@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Chen Reiss"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-chen-reiss/
+title = "Talking with singers: Chen Reiss"
++++
 
 ## Why do you sing professionally?
 

@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Peter McGillivray"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-peter-mcgillivray/
+title = "Talking with singers: Peter McGillivray"
++++
 
 "I get mine by singing," says baritone Peter McGillivray. "I love making *eye contact* with people." 
 

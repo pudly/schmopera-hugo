@@ -1,6 +1,8 @@
----
-title: "Resources &amp; visibility for IRCPA&#039;s New Singing Stars"
----
++++
+categories = "Review"
+slug = /resources-visibility-for-ircpas-new-singing-stars/
+title = "Resources &amp; visibility for IRCPA&#039;s New Singing Stars"
++++
 
 Among the young artist programmes and summer opera workshops - all in general agreement over their aim to help young singers make the leap from academia to career - is the International Resource Centre for Performing Artists. The organization has, for 35 years, produced workshops and encounters that connect emerging artists with their professional, established counterparts, in the hopes of facilitating the all-important practice of networking.
 

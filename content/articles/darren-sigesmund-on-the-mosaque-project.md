@@ -1,6 +1,8 @@
----
-title: "Darren Sigesmund on the Mosaïque Project"
----
++++
+categories = "Interview"
+slug = /darren-sigesmund-on-the-mosaque-project/
+title = "Darren Sigesmund on the Mosaïque Project"
++++
 
 ## What does it mean to you to be one of the 14 composers creating this musical mosaïque?
 

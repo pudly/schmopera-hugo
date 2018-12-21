@@ -1,6 +1,8 @@
----
-title: "A summer Mozart menu"
----
++++
+categories = "Review"
+slug = /a-summer-mozart-menu/
+title = "A summer Mozart menu"
++++
 
 Mozart's *Meistermusik* was the *amuse bouche* of this summer concert nearing
 the end of Lincoln Center's 2018 edition of its annual [Mostly Mozart Festival](http://www.lincolncenter.org/mostly-mozart-festival). The work was a luscious if solemn taste of what was to come, when, in the latter half of the concert, conductor Louis Langrée, his Mostly Mozart Festival Orchestra and the Concert Chorale of New York directed by James Bagwell, served up the entrée, Mozart's *Requiem*.

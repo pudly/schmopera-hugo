@@ -1,6 +1,8 @@
----
-title: "Opera in concert: uncluttered or uninteresting?"
----
++++
+categories = "Editorial"
+slug = /opera-in-concert-uncluttered-or-uninteresting/
+title = "Opera in concert: uncluttered or uninteresting?"
++++
 
 If you think about it for too long, the idea of doing opera in concert is pretty odd.
 

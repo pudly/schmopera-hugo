@@ -1,6 +1,8 @@
----
-title: "Worthy campaigns: A Silent Night"
----
++++
+categories = "News"
+slug = /worthy-campaigns-a-silent-night/
+title = "Worthy campaigns: A Silent Night"
++++
 
 Baritone [John Brancy](/scene/people/john-brancy/) and pianist [Peter Dugan](/scene/people/peter-dugan/) have been friends and musical colleagues since 2007, during their shared time at [The Juilliard School](/scene/companies/the-juilliard-school/). Together they have created *A Silent Night: A WWI Centenary Tribute in Song*, a collection of songs written by composers who fought, suffered injuries, and died in the Great War. On the program are works by Butterworth, Ives, Debussy, Poulenc, and Carl Orff. 
 

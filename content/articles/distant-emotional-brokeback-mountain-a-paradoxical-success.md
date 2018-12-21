@@ -1,6 +1,8 @@
----
-title: "Distant, Emotional Brokeback Mountain A Paradoxical Success"
----
++++
+categories = "Review"
+slug = /distant-emotional-brokeback-mountain-a-paradoxical-success/
+title = "Distant, Emotional Brokeback Mountain A Paradoxical Success"
++++
 
 Ever since Ang Lee's seminal film version of Annie Proulx's short story *Brokeback Mountain*, many have called the tale of two gay cowboys an important story in the world of LGBTQ representation. With this thought in mind, the production notes of [New York City Opera's production of Charles Wuorinen's opera](https://nycopera.com/shows/brokeback-mountain/) based on the same source seem to indicate misplaced priorities on the part of the creative staff: much is made of how the music emulates the landscapes the story takes place in, to the point that one might be forgiven if they felt the emotional core of this tale is lost. And yet, those who are familiar with the original short story know that this is exactly the same impressionistic effect Proulx employed: her prose contains many descriptions of the Wyoming countryside, and gives merely impressions of moments. This oddly gives the short story much of its emotional weight; the effect the concentration on the landscape has is that it prevents the story from indulging in the kind of schmaltz that might otherwise tarnish a story such as this, which thus amplifies the palpable sense of regret that Ennis Del Mar feels by the story's conclusion.
 

@@ -1,6 +1,8 @@
----
-title: "10 student opera productions to catch this winter"
----
++++
+categories = "News"
+slug = /10-student-opera-productions-to-catch-this-winter/
+title = "10 student opera productions to catch this winter"
++++
 
 ## *Die Fledermaus* in Waterloo
 

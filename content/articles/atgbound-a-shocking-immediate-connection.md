@@ -1,6 +1,8 @@
----
-title: "#AtGBound: &quot;A shocking, immediate connection.&quot;"
----
++++
+categories = "Review"
+slug = /atgbound-a-shocking-immediate-connection/
+title = "#AtGBound: &quot;A shocking, immediate connection.&quot;"
++++
 
 "It'll be a shocking, immediate connection to what is going on in the world today," says Joel Ivany, Artistic Director of Against the Grain Theatre, on the company's upcoming workshop production, [*BOUND*](http://againstthegraintheatre.com/bound/). 
 

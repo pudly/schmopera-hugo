@@ -1,6 +1,8 @@
----
-title: "Opinionated opera fans: come write for us!"
----
++++
+categories = "News"
+slug = /opinionated-opera-fans-come-write-for-us/
+title = "Opinionated opera fans: come write for us!"
++++
 
 Readers, we know you're a savvy bunch. When you go to the opera, you're full of passion - and probably opinions.
 

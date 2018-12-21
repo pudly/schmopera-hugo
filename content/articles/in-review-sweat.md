@@ -1,6 +1,8 @@
----
-title: "In review: Sweat"
----
++++
+categories = "Review"
+slug = /in-review-sweat/
+title = "In review: Sweat"
++++
 
 In mid-July, the [Bicycle Opera Project](scene/companies/the-bicycle-opera-project/) began its touring production of [*Sweat*](http://bicycleopera.com/upcoming-sweat/), the *a cappella* opera for 9 singers by composer [Juliet Palmer](/scene/people/juliet-palmer/) and librettist [Anna Chatterton](/scene/people/anna-chatterton/). In this production directed by Banuta Rubess, BOP is giving *Sweat* its Canadian premiere, bringing to Ontario audiences the bleak story of the lives of women who work in the garment industry's sweat shops. Happily, Schmopera got to watch a technical run in their current space, the Aki Studio at Toronto's Daniels Spectrum.
 

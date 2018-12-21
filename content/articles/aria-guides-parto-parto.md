@@ -1,6 +1,8 @@
----
-title: "Aria guides: &quot;Parto, parto&quot;"
----
++++
+categories = "How-to"
+slug = /aria-guides-parto-parto/
+title = "Aria guides: &quot;Parto, parto&quot;"
++++
 
 1. These initial "partos" can seem very significant, with all the regality and noble silence leading up to them. Mezzos, you can keep these short phrases simple, almost like a brief chance to test the waters as you get into this aria; the first two bars you sing can be treated like an extended pick-up beat to the "ma tu" to come. Be sure that the word "parto" keeps its natural inflection, meaning that the "-to" syllable should be lighter and shorter (yes, Mozart wrote two quarter notes, but like any good composer, rhythm is always contextualized by the natural pulse of the language).<figure data-type="image">
 ![](/webhook-uploads/1462959781465/Aria-Guide---Parto---annotated-1-1.jpg)

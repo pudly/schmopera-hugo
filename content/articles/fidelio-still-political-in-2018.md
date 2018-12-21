@@ -1,6 +1,8 @@
----
-title: "Fidelio: still political in 2018"
----
++++
+categories = "Interview"
+slug = /fidelio-still-political-in-2018/
+title = "Fidelio: still political in 2018"
++++
 
 ## What about *Fidelio* did you see as adaptable and relevant to a contemporary story and new texts?
 

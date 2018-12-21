@@ -1,6 +1,8 @@
----
-title: "Things more important than opera"
----
++++
+categories = "Op-ed"
+slug = /things-more-important-than-opera/
+title = "Things more important than opera"
++++
 
 Opera and music and theatre mean a whole lot to me, and I take seriously what I write about it. To talk about the arts during times like this, after the horrific [attacks in Paris](http://www.telegraph.co.uk/news/worldnews/europe/france/11995246/Paris-shooting-What-we-know-so-far.html), seems to take more justification than usual. 
 

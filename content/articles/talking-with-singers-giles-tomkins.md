@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Giles Tomkins"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-giles-tomkins/
+title = "Talking with singers: Giles Tomkins"
++++
 
 ## What's it like to balance a singing career and a young son? Did you find anything changed about your perspective on singing after becoming a father?
 

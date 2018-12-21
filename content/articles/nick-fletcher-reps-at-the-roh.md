@@ -1,6 +1,8 @@
----
-title: "Nick Fletcher: reps at the ROH"
----
++++
+categories = "Interview"
+slug = /nick-fletcher-reps-at-the-roh/
+title = "Nick Fletcher: reps at the ROH"
++++
 
 ## Can you describe a day in the life as part of the Jette Parker Young Artists Programme?
 

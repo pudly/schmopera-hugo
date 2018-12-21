@@ -1,6 +1,8 @@
----
-title: "Upcoming in Toronto: 4 reasons to mark your calendars"
----
++++
+categories = "News"
+slug = /upcoming-in-toronto-4-reasons-to-mark-your-calendars/
+title = "Upcoming in Toronto: 4 reasons to mark your calendars"
++++
 
 **May 10-11** at Toronto's Jane Mallett Theatre, you can catch [*Hockey Noir*](http://continuummusic.org/seasons/1718/hockey-noir.php), the new graphic chamber opera by The Ensemble contemporain de Montréal (ECM+), co-presented by Continuum Contemporary Music and the Toronto Comic Arts Festival. *Hockey Noir* unfolds during the playoff finals of two fictional Canadian hockey teams, based in cities where the passion for Canada's national sport is "bordering on the fanatical." The production features illustrations by Kimberlyn Porter, and Marie-Josée Chartier directs this "stylized musical adventure full of excitement and intrigue, bathed in a smoky post-war atmosphere of the 'film noir'." For details and ticket information, [click here.](http://continuummusic.org/seasons/1718/hockey-noir.php)
 

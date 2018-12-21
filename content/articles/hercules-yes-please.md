@@ -1,6 +1,8 @@
----
-title: "Hercules? Yes please!"
----
++++
+categories = "Editorial"
+slug = /hercules-yes-please/
+title = "Hercules? Yes please!"
++++
 
 You know you're writing about opera in North America when you start to drool over a show that doesn't open until April 5th. But hey, I like hype. I'm talking about the [COC's production of Handel's _Hercules_](http://www.coc.ca/PerformancesAndTickets/1314Season/Hercules.aspx), directed by the infamous [Peter Sellars](http://en.wikipedia.org/wiki/Peter_Sellars). I just can't imagine what won't be to love. American baritone [Eric Owens](http://imgartists.com/artist/eric_owens) stars as Hercules, and British mezzo-soprano [Alice Coote](http://imgartists.com/artist/alice_coote) will sing the role of his wife, Dejanira. Man, oh man, will I be there with bells on.
 

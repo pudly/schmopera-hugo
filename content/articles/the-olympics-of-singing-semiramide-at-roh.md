@@ -1,6 +1,8 @@
----
-title: "The Olympics of Singing: Semiramide at ROH"
----
++++
+categories = "Review"
+slug = /the-olympics-of-singing-semiramide-at-roh/
+title = "The Olympics of Singing: Semiramide at ROH"
++++
 
 The Olympics of Singing returned to the Royal Opera yesterday afternoon, as Rossini's *Semiramide* was staged in Covent Garden for the first time since the 19th century. Vocal fireworks flew through the house, showing the audience what true *bel canto* singing is all about. 
 

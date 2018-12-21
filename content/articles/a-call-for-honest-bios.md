@@ -1,6 +1,8 @@
----
-title: "A call for Honest Bios™"
----
++++
+categories = "Humour"
+slug = /a-call-for-honest-bios/
+title = "A call for Honest Bios™"
++++
 
 Readers, there's a topic we've been pondering for a while, and we've decided the best way to write about it is with your help.
 

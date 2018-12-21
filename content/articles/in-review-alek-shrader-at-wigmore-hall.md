@@ -1,6 +1,8 @@
----
-title: "In review: Alek Shrader at Wigmore Hall"
----
++++
+categories = "Review"
+slug = /in-review-alek-shrader-at-wigmore-hall/
+title = "In review: Alek Shrader at Wigmore Hall"
++++
 
 American tenor [Alek Shrader](/scene/people/alek-shrader/) opened the 2016/17 season of the [Rosenblatt Recitals](/ian-rosenblatt-its-all-about-the-voice/) series, with Roger Vignoles at the piano.
 

@@ -1,6 +1,8 @@
----
-title: "Conversations &quot;of the most urgent nature&quot;: We Shall Not Be Moved"
----
++++
+categories = "Review"
+slug = /conversations-of-the-most-urgent-nature-we-shall-not-be-moved/
+title = "Conversations &quot;of the most urgent nature&quot;: We Shall Not Be Moved"
++++
 
 Sometimes opera transports us to another place where we can temporarily forget about the troubles of our world. Other times, our beloved art form forces us to confront some of the most prevalent controversies of our time. [*We Shall Not Be Moved*](https://www.operaphila.org/whats-on/on-stage-2017-2018/we-shall-not-be-moved/) premiered last night at the Wilma Theater, marking the third night and second world premiere of Opera Philadelphia's O17 festival. Brought to us by a true powerhouse creative team, which includes composer [Daniel Bernard Roumain](/truth-as-reconciliation-we-shall-not-be-moved/), librettist Marc Bamuthi Joseph, and legendary director, choreographer, and dramaturge Bill T. Jones, this groundbreaking and fearless work defies conventional opera in every aspect. As an innovative new piece, *We Shall Not Be Moved* takes on many of today's social justice issues, and boldly brings them to the forefront. 
 

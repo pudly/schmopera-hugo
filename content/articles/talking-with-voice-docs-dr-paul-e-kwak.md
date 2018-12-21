@@ -1,6 +1,8 @@
----
-title: "Talking with voice docs: Dr. Paul E. Kwak"
----
++++
+categories = "Interview"
+slug = /talking-with-voice-docs-dr-paul-e-kwak/
+title = "Talking with voice docs: Dr. Paul E. Kwak"
++++
 
 "My career, I would say, is a portrait of indecision," smiles Dr. Paul E. Kwak, laryngologist at New York's NYU Langone Medical Center. Kwak is also a graduate of the Juilliard School, where he studied Collaborative Piano with famed pianist and voice coach, Margo Garrett. Though medicine was always a probable career path, he adds, "I think the music piece was always a really important heart piece. I always loved playing."
 

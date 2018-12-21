@@ -1,6 +1,8 @@
----
-title: "via Wolf Trap Opera, Audition Season 2015: the conversation"
----
++++
+categories = "Editorial"
+slug = /via-wolf-trap-opera-audition-season-2015-the-conversation/
+title = "via Wolf Trap Opera, Audition Season 2015: the conversation"
++++
 
 OK, singers, this is the time of year when the blog turns the full force of its attention on you. Yes, my friends, it’s audition season. We’ve been reviewing audition applications for 3 weeks now, and we’re almost done. But for you, the fun is only beginning.
 

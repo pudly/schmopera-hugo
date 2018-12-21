@@ -1,6 +1,8 @@
----
-title: "A world premiere: Anna Christie"
----
++++
+categories = "Review"
+slug = /a-world-premiere-anna-christie/
+title = "A world premiere: Anna Christie"
++++
 
 *Anna Christie*, presented by the Encompass New Opera Theatre does not, in fact, add anything to the world of what we know as opera. The world premiere of *Anna Christie* (an adaptation of Eugene O'Neill's famous play by the same name) is something special, though - a genre-defying combo of drama and music that doesn't fit into any established category (i.e., "a play with music"). Director Nancy Rhodes describes it as "crossover" but it might be more appropriate to call it "criss-cross over"; the music never stops and the singers mostly sing, but sometimes halt to utter a comment, exclamation, or quick exchange of dialogue. The combination always feels just right, as the emotions and/or whimsy of the characters rise and fall.
 

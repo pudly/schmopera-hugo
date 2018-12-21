@@ -1,6 +1,8 @@
----
-title: "Thrilling nights: Boys of Paradise"
----
++++
+categories = "Review"
+slug = /thrilling-nights-boys-of-paradise/
+title = "Thrilling nights: Boys of Paradise"
++++
 
 Remember when we wrote an article called, ["Don't miss: *Boys of Paradise*"](/dont-miss-boys-of-paradise/)? We really meant it.
 

@@ -1,6 +1,8 @@
----
-title: "Heavenly voice visits the City of Angels"
----
++++
+categories = "Review"
+slug = /heavenly-voice-visits-the-city-of-angels/
+title = "Heavenly voice visits the City of Angels"
++++
 
 Soprano Renée Fleming has reached the highest of heights, not only in the opera world, but she has gone just about as far as any classically-trained singer can go in popular culture (she even sang at a Super Bowl.) After receiving just about every award possible and after performing in fifty-plus operas, she announced her retirement from staged works last year (except for Broadway musicals.) It appears that we can now only look forward to recordings and concerts to hear "the people's diva" remind us of why she earned that title.
 

@@ -1,6 +1,8 @@
----
-title: "Banff Diaries: the mid-way report"
----
++++
+categories = "Editorial"
+slug = /banff-diaries-the-midway-report/
+title = "Banff Diaries: the mid-way report"
++++
 
 Amid the Canadian Rockies, the Against the Grain Theatre team and 13 young artists are in the third week of their time at The Banff Centre's [Open Space: Opera in the 21st Century](https://www.banffcentre.ca/announcing-2016-open-space-participants?utm_source=The+Banff+Centre&utm_campaign=55856bf7e4-Arts_Performing+Arts_Apr_2016_Newsletter&utm_medium=email&utm_term=0_ad4acfe1fe-55856bf7e4-) program. 
 

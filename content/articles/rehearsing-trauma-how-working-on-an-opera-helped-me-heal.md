@@ -1,6 +1,8 @@
----
-title: "Rehearsing trauma: How working on an opera helped me heal"
----
++++
+categories = "Op-ed"
+slug = /rehearsing-trauma-how-working-on-an-opera-helped-me-heal/
+title = "Rehearsing trauma: How working on an opera helped me heal"
++++
 
 Everyone was telling me it would be hard. I was saying this to myself. I was about to spend 8 hours a day, 5 days a week, as a 16 year old girl who was abducted, tortured, and raped for 2 1/2 years without trial by a military government in Argentina. Patricia Isasa was going to attend the premiere of this new opera about her struggle, and I was going to meet her.
 

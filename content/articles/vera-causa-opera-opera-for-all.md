@@ -1,6 +1,8 @@
----
-title: "Vera Causa Opera: &quot;Opera for all.&quot;"
----
++++
+categories = "Interview"
+slug = /vera-causa-opera-opera-for-all/
+title = "Vera Causa Opera: &quot;Opera for all.&quot;"
++++
 
 ## Can you tell us a bit about Vera Causa's mission and history?
 

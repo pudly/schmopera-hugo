@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Elizabeth Caballero"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-elizabeth-caballero/
+title = "Talking with singers: Elizabeth Caballero"
++++
 
 Cuban-American soprano [Elizabeth Cabellero](/scene/people/elizabeth-caballero/) has built herself a busy life on the road, singing some of opera's most coveted roles in houses across the United States. She just finished singing Donna Elvira in [Lyric Opera of Kansas City](/scene/companies/lyric-opera-of-kansas-city/)'s *Don Giovanni*, and when we spoke over Skype, she was in Miami, FL, preparing for a recital in honour of legendary Romanian soprano, [Virginia Zeani](/interviewing-the-greats-virginia-zeani/). "Her 90th birthday was yesterday," says Caballero. "They're celebrating her." (For more on Zeani, check out Olivier Bergeron's fantastic interview with her [right here]((/interviewing-the-greats-virginia-zeani/).)
 

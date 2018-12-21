@@ -1,6 +1,8 @@
----
-title: "Art is not action"
----
++++
+categories = "Op-ed"
+slug = /art-is-not-action/
+title = "Art is not action"
++++
 
 When is the last time you felt this badly?
 

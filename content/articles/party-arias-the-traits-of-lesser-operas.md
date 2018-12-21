@@ -1,6 +1,8 @@
----
-title: "Party arias: the traits of lesser operas?"
----
++++
+categories = "Editorial"
+slug = /party-arias-the-traits-of-lesser-operas/
+title = "Party arias: the traits of lesser operas?"
++++
 
 For working opera singers, it may feel as though they spend as much time learning roles as they do choosing arias to sing at concerts, galas, parties, and endless other random events worthy of great singing. There's a list of favourites that make it on these kinds of programmes, like the Laughing Song from *Die Fledermaus*, the Doll Song from *Les contes d'Hoffmann*, stuff from  *Carmen*, *Il barbiere di Siviglia*, *La traviata*, *Le nozze di Figaro*, and just about anything by Puccini.
 

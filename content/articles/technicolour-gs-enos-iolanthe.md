@@ -1,6 +1,8 @@
----
-title: "Technicolour G&amp;S: ENO&#039;s Iolanthe"
----
++++
+categories = "Review"
+slug = /technicolour-gs-enos-iolanthe/
+title = "Technicolour G&amp;S: ENO&#039;s Iolanthe"
++++
 
 A new production of [*Iolanthe*](https://www.eno.org/whats-on/iolanthe/) runs at English National Opera that is as full of gags as it was of colour. The operetta, whose main purpose is to serve as a satirical commentary on 19th-century parliament, follows the story of Iolanthe, a fairy who has married and had a child with a mortal, a crime punishable by her banishment. Iolanthe's son, Strephon, must become a member of parliament in order to marry his love, Phyllis. Cal McCrystal presents this classic Gilbert and Sullivan show as a storybook fantasy, juxtaposing the chorus of fairies with the members of parliament in a great spectacle of gender wars.
 

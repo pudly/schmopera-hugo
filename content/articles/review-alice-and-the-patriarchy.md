@@ -1,6 +1,8 @@
----
-title: "Review: ALICE and the Patriarchy"
----
++++
+categories = "Review"
+slug = /review-alice-and-the-patriarchy/
+title = "Review: ALICE and the Patriarchy"
++++
 
 Composer Mary Prescott is easy to root for. Spend a few afternoons churning through [*Where We Go When*](http://mary-prescott.com/wherewegowhen/?offset=1314062220000), and you'll see what I mean.
 

@@ -1,6 +1,8 @@
----
-title: "Energy boost: 5 perky patter songs "
----
++++
+categories = "Humour"
+slug = /energy-boost-5-perky-patter-songs-/
+title = "Energy boost: 5 perky patter songs "
++++
 
 [Did you know](https://en.wikipedia.org/wiki/Patter_song) that the word "patter" comes from the Catholic "Pater Noster," which was apparently recited as fast as possible by the congregation? 
 

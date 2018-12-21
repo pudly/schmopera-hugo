@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Craig Colclough"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-craig-colclough/
+title = "Talking with singers: Craig Colclough"
++++
 
 "It's like a mountain," says American bass-baritone [Craig Colclough](/scene/people/craig-colclough/) of his pursuit of singing. "Why the hell do people climb mountains?"
 

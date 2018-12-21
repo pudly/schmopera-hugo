@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Kiandra Howarth"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-kiandra-howarth/
+title = "Talking with singers: Kiandra Howarth"
++++
 
 ## Why do you sing professionally?
 

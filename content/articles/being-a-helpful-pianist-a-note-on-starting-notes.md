@@ -1,6 +1,8 @@
----
-title: "Being a helpful pianist: a note on starting notes"
----
++++
+categories = "How-to"
+slug = /being-a-helpful-pianist-a-note-on-starting-notes/
+title = "Being a helpful pianist: a note on starting notes"
++++
 
 Unless a singer has perfect pitch (and a few of you lucky ones do), they'll appreciate being given a starting pitch from the rehearsal pianist. Often, a pianist's first instinct is to do exactly that: they play the singer's first note on the piano, with one finger, once. A note is a note, right?
 

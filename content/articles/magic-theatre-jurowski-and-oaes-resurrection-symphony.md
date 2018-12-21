@@ -1,6 +1,8 @@
----
-title: "Magic &amp; theatre: Jurowski and OAE&#039;s Resurrection Symphony"
----
++++
+categories = "Review"
+slug = /magic-theatre-jurowski-and-oaes-resurrection-symphony/
+title = "Magic &amp; theatre: Jurowski and OAE&#039;s Resurrection Symphony"
++++
 
 Apart from the operatic stage, it's hard to find music more theatrical than the symphonies by Mahler. For its 30th birthday season, the [Orchestra of the Age of Enlightenment](http://www.oae.co.uk/category/whats-on/) presented a special performance of Mahler's Second Symphony. Under maestro Vladimir Jurowski, the OAE filled the Royal Festival Hall with the sounds of the 19th-century instruments for which the composer wrote, an exploration in history as well as a nod to Mahler's own mandate, "I demand that everything must be heard exactly as it sounds in my inner ear."
 

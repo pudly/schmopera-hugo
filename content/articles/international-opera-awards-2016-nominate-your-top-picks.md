@@ -1,6 +1,8 @@
----
-title: "International Opera Awards 2016: nominate your top picks!"
----
++++
+categories = "News"
+slug = /international-opera-awards-2016-nominate-your-top-picks/
+title = "International Opera Awards 2016: nominate your top picks!"
++++
 
 It's one thing to make a list of our [favourite operas of 2016](/roundup2016-greg-jennas-top-10/), but it's another to put those favourites up for well-deserved awards.
 

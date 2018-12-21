@@ -1,6 +1,8 @@
----
-title: "In review: Los Gavilanes at Toronto Operetta Theatre"
----
++++
+categories = "Review"
+slug = /in-review-los-gavilanes-at-toronto-operetta-theatre/
+title = "In review: Los Gavilanes at Toronto Operetta Theatre"
++++
 
 In a word, charming. That is what I experienced tonight with [Toronto Operetta Theatre](/scene/companies/toronto-operetta-theatre/) and their Canadian premiere of Jacinto Guerrero’s *Los Gavilanes* at St. Lawrence Centre for the Arts. From the simple set to the period costumes, the Spanish orchestration and the simple, well-known tale of love lost (and then found), I was charmed. 
 

@@ -1,6 +1,8 @@
----
-title: "The orchestra problem: should they smile more?"
----
++++
+categories = "Op-ed"
+slug = /the-orchestra-problem-should-they-smile-more/
+title = "The orchestra problem: should they smile more?"
++++
 
 There's an interesting contrast that happens on the stage during classical music concerts, the kind that feature large-scale orchestras, performing symphonies and tone poems in spacious, acoustically friendly concert halls. Between the thrilling and moving moments of music, there's are equally stunning moments of disconnect, where an invisible wall is put up around the players. Between pieces, and even movements, it's common to see the orchestra slip out of "performance mode", sharing a few words with their neighbours and picking at their clothes; we'll never forget hearing the sound of a soda can being opened by a brass player at the Met during a performance of *La bohème*. 
 

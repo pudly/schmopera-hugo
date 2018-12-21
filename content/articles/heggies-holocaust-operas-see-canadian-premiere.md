@@ -1,6 +1,8 @@
----
-title: "Heggie&#039;s Holocaust operas see Canadian premiere"
----
++++
+categories = "Interview"
+slug = /heggies-holocaust-operas-see-canadian-premiere/
+title = "Heggie&#039;s Holocaust operas see Canadian premiere"
++++
 
 On **February 10 and 11**, the new Toronto-based Electric Bond Opera Ensemble presents the Canadian premiere of two one-act operas by Jake Heggie and Gene Scheer, [*Farewell, Auschwitz* and *Another Sunrise*](https://www.beth-tzedec.org/page/hub/category/event-another-sunrise-farewell-auschwitz-opera).
 

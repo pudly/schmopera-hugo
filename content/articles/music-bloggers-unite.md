@@ -1,6 +1,8 @@
----
-title: "Music Bloggers Unite!"
----
++++
+categories = "Editorial"
+slug = /music-bloggers-unite/
+title = "Music Bloggers Unite!"
++++
 
 We've got exciting news! [MusicalToronto.org](http://www.musicaltoronto.org/2014/10/01/introducing-a-new-expanded-musical-toronto/) has expanded into a whole new site, and you should [get over there to check it out](http://www.musicaltoronto.org/2014/10/01/introducing-a-new-expanded-musical-toronto/). It's got a new look, a [great new way](http://www.musicaltoronto.org/datebook/) to keep track of upcoming concerts and events, and it'll soon include an interactive map of Toronto concert venues.
 

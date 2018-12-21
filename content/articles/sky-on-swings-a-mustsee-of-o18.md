@@ -1,6 +1,8 @@
----
-title: "Sky on Swings a must-see of O18"
----
++++
+categories = "Review"
+slug = /sky-on-swings-a-mustsee-of-o18/
+title = "Sky on Swings a must-see of O18"
++++
 
 Last night at a bustling and energetic Kimmel Center, a sea of "Opera Ambassadors" in bright red shirts welcomed patrons to the opening of [Opera Philadelphia](/scene/companies/opera-philadelphia/)'s festival, [O18](https://www.operaphila.org/festival/). Opening in the Perelman Theater was the world premiere of [*Sky On Swings*](https://www.operaphila.org/whats-on/on-stage-2018-2019/sky-on-swings/), a one-act opera with music by Lembit Beecher and a libretto by Hannah Moscovitch. This is the duo's second year in a row presenting their collaboration to Philadelphia's opera crowd: [*I Have No Stories To Tell You*](/war-stories-o17/) captivated sold-out audiences during O17.
 

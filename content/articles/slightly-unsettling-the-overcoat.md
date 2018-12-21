@@ -1,6 +1,8 @@
----
-title: "Slightly unsettling: The Overcoat"
----
++++
+categories = "Review"
+slug = /slightly-unsettling-the-overcoat/
+title = "Slightly unsettling: The Overcoat"
++++
 
 [*The Overcoat: A Musical Tailoring*](https://www.vancouveropera.ca/2017/03/27/the-overcoat-a-musical-tailoring/) is the second opera in the Vancouver Opera Festival, and is a co-production with Tapestry Opera and Canadian Stage. This production runs in the smaller Vancouver Playhouse, rather than VO's normal venue the Queen Elizabeth Theatre, and has all the trappings of a piece that is part opera, part musical, and part dance. Those pieces add up to a quirky, off-beat modern opera that is offbeat, thought-provoking, and introspective.
 

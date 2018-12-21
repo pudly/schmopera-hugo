@@ -1,6 +1,8 @@
----
-title: "Recitals that stick: Matthias Goerne at Wigmore Hall"
----
++++
+categories = "Review"
+slug = /recitals-that-stick-matthias-goerne-at-wigmore-hall/
+title = "Recitals that stick: Matthias Goerne at Wigmore Hall"
++++
 
 [Matthias Goerne](/scene/people/matthias-goerne/)'s recital at Wigmore Hall on Wednesday night was an exhaustive, impressive feat. With pianist [Daniil Trifonov](http://daniiltrifonov.com/), Goerne made the case for the "serious recital", with a programme devoid of anything that could be deemed "fluff", and instead packed densely with calculated storytelling.
 

@@ -1,6 +1,8 @@
----
-title: "Young singers in Santa Fe: Kasia Borowiec"
----
++++
+categories = "Interview"
+slug = /young-singers-in-santa-fe-kasia-borowiec/
+title = "Young singers in Santa Fe: Kasia Borowiec"
++++
 
 ## Can you describe a day in the life of an apprentice singer at Santa Fe Opera?
 

@@ -1,6 +1,8 @@
----
-title: "Loose TEA raises funds for radical new vision of Bizet&#039;s Carmen"
----
++++
+categories = "Review"
+slug = /loose-tea-raises-funds-for-radical-new-vision-of-bizets-carmen/
+title = "Loose TEA raises funds for radical new vision of Bizet&#039;s Carmen"
++++
 
 One of the best things about the Toronto [Indie Opera](/scene/companies/indie-opera-to/) scene, is the willingness to perform in venues not accustomed to housing operas. Yes, usually this finds you in a bar or a pub, but that's great. These places have beer, and taverns often play a very crucial role in some of our favourites in the canon. 
 

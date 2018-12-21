@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Sara Schabas"
----
++++
+categories = "Interview"
+slug = /spotlight-on-sara-schabas/
+title = "Spotlight on: Sara Schabas"
++++
 
 ### 1. Why do you sing, and why are you pursuing it professionally?
 

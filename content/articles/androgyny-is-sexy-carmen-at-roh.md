@@ -1,6 +1,8 @@
----
-title: "Androgyny is sexy: Carmen at ROH"
----
++++
+categories = "Review"
+slug = /androgyny-is-sexy-carmen-at-roh/
+title = "Androgyny is sexy: Carmen at ROH"
++++
 
 [Bizet's *Carmen*](http://www.roh.org.uk/productions/carmen-by-barrie-kosky) opened at the Royal Opera House last night with a bang - the music started without warning and the lights disappeared in the house of Covent Garden, quieting the audience and drawing our eyes to the stage.
 

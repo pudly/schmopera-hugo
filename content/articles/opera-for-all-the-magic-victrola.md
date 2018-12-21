@@ -1,6 +1,8 @@
----
-title: "Opera for all: The Magic Victrola"
----
++++
+categories = "Review"
+slug = /opera-for-all-the-magic-victrola/
+title = "Opera for all: The Magic Victrola"
++++
 
 Opera purists may recoil from the idea of a revue-type show, of a mash-up of hits from the most beloved works from the canon, tied loosely together with a makeshift plot and connect-the-dots dialogue. Essentially, that's what a young-audience-friendly piece like *The Magic Victrola* is. Yet the current [production by the Canadian Opera Company](http://www.coc.ca/PerformancesAndTickets/1718Season/OperaforYoungAudiences.aspx) is well done, wrapped up tightly with a smart bow; it's a reminder that excellent artistry - be it singing, direction, or design - can result in an exception to anyone's aesthetic rule.
 

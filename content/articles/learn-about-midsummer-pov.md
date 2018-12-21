@@ -1,5 +1,6 @@
----
-title: "Learn about Midsummer (POV)"
----
++++
+slug = /learn-about-midsummer-pov/
+title = "Learn about Midsummer (POV)"
++++
 
 

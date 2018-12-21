@@ -1,6 +1,8 @@
----
-title: "Aria guides: &quot;Dalla sua pace&quot;"
----
++++
+categories = "How-to"
+slug = /aria-guides-dalla-sua-pace/
+title = "Aria guides: &quot;Dalla sua pace&quot;"
++++
 
 1. The overarching challenge in this aria is to keep it moving. The first bars offer the tenor no pulse onto which to latch, so he needs to create it himself. Mentally subdividing into sixteenth notes can help find direction; it also helps to take these first phrases in two-bar sections, with the first measure always leading into the second. On the little embellishments under "dipende" and "piace", there needs to be rhythm in them despite the stillness in the accompaniment. One little note: there are varying options for text underlay for "piace"; often the "-ce" is placed two sixteenth notes later, on the E-natural. In my opinion, the high G on the second syllable gives the impression of incorrect word stress, and moving the "-ce" later helps keep the word intact.<figure data-type="image">
 ![](/webhook-uploads/1450060104806/Aria-Guide---Dalla---p1---annotated.jpg)

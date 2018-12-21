@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Kimberley-Ann Bartczak"
----
++++
+categories = "Interview"
+slug = /spotlight-on-kimberleyann-bartczak/
+title = "Spotlight on: Kimberley-Ann Bartczak"
++++
 
 ### 1. How does the role of the conductor differ between opera and symphonic work?
 

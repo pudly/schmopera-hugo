@@ -1,6 +1,8 @@
----
-title: "Song guides: Widmung"
----
++++
+categories = "How-to"
+slug = /song-guides-widmung/
+title = "Song guides: Widmung"
++++
 
 ## So what is the correct tempo, anyway?
 

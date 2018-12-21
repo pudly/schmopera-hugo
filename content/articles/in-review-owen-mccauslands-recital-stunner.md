@@ -1,6 +1,8 @@
----
-title: "In review: Owen McCausland&#039;s recital stunner"
----
++++
+categories = "Review"
+slug = /in-review-owen-mccauslands-recital-stunner/
+title = "In review: Owen McCausland&#039;s recital stunner"
++++
 
 At yesterday's noon-hour concert in the Richard Bradshaw Amphitheatre, COC Ensemble Studio member [Owen McCausland](/scene/people/owen-mccausland/) had the stage (mostly) to himself. Originally, the concert was to feature Owen along with mezzo Charlotte Burrage, splitting Janáček's cycle, *Diary of One Who Disappeared*. Instead, Owen sang a full recital, including 6 of the Janáček songs, plus selections from Ralph Vaughan Williams' *The House of Life* and Benjamin Britten's *Les illuminations*. 
 

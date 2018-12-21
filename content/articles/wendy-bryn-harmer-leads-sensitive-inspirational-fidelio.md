@@ -1,6 +1,8 @@
----
-title: "Wendy Bryn Harmer Leads Sensitive, Inspirational Fidelio"
----
++++
+categories = "Review"
+slug = /wendy-bryn-harmer-leads-sensitive-inspirational-fidelio/
+title = "Wendy Bryn Harmer Leads Sensitive, Inspirational Fidelio"
++++
 
 Beethoven's *Fidelio* is the home of one of the stranger paradoxes of the opera world. On the one hand, the music is wonderful, and it does contain quite a large amount of drama within each of the individual numbers. On the other hand, however, the story that Beethoven's score supports suffers from uneven pacing spent developing characters who do not figure prominently into the main conflict of the narrative. This is a duality that any opera company would find daunting when staging the work, but when done right, the show can feel absolutely inspiring. Thankfully, the performance that Boston Baroque gave on Jordan Hall's stage managed to impart this joyous feeling with a briskly-paced show that managed to take out most of the air pockets endemic to the work.
 

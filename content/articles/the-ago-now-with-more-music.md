@@ -1,6 +1,8 @@
----
-title: "The AGO, now with more music!"
----
++++
+categories = "News"
+slug = /the-ago-now-with-more-music/
+title = "The AGO, now with more music!"
++++
 
 Starting this week at the Art Gallery of Ontario, you can have your art with music on the side.
 

@@ -1,6 +1,8 @@
----
-title: "In review: Don Giovanni at Nashville Opera"
----
++++
+categories = "Review"
+slug = /in-review-don-giovanni-at-nashville-opera/
+title = "In review: Don Giovanni at Nashville Opera"
++++
 
 Writing this review is a challenge, because there were lots of good things about Nashville Opera’s season opener, a production of everyone’s old fave, Mozart’s *Don Giovanni*, but there were also some things that made me think, *what is actually happening right now?* And not in a really good way.
 

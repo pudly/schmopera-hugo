@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Verdi&#039;s Requiem at the Southbank Centre"
----
++++
+categories = "Interview"
+slug = /dont-miss-verdis-requiem-at-the-southbank-centre/
+title = "Don&#039;t miss: Verdi&#039;s Requiem at the Southbank Centre"
++++
 
 ## How do you prioritize rehearsal time with a piece of this scale?
 

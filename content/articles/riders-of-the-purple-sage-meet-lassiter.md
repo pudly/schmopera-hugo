@@ -1,6 +1,8 @@
----
-title: "Riders of the Purple Sage: meet Lassiter"
----
++++
+categories = "Interview"
+slug = /riders-of-the-purple-sage-meet-lassiter/
+title = "Riders of the Purple Sage: meet Lassiter"
++++
 
 ## What kind of person is Lassiter?
 

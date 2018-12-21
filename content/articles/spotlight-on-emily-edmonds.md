@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Emily Edmonds"
----
++++
+categories = "Interview"
+slug = /spotlight-on-emily-edmonds/
+title = "Spotlight on: Emily Edmonds"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

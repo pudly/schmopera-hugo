@@ -1,6 +1,8 @@
----
-title: "Singers: masters of illusions"
----
++++
+categories = "How-to"
+slug = /singers-masters-of-illusions/
+title = "Singers: masters of illusions"
++++
 
 ## Vowels are not what they seem
 

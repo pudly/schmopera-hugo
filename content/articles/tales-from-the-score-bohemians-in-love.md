@@ -1,6 +1,8 @@
----
-title: "Tales from the score: Bohemians in love"
----
++++
+categories = "Humour"
+slug = /tales-from-the-score-bohemians-in-love/
+title = "Tales from the score: Bohemians in love"
++++
 
 Without fail, in almost tedious constancy, watching *La bohème* brings out all the feels. Before an upcoming production, I'm more objective, and I can inwardly roll my eyes at the thought of getting swept away by a piece like *La bohème*. It's so obvious, I tell myself, You're falling for low-bar emotional jabs like doomed lovers and friendship despite hardship. But then, you know, I go and see it, and there I am, swept away once again. *La bohème* is a piece that keeps giving as you get to know it better. The tragedy can be found beyond the clear moments created by Puccini, Illica and Giacosa. There exists tragedy too&nbsp;in the small details about the relationship between the Bohemians themselves. For example:
 

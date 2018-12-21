@@ -1,6 +1,8 @@
----
-title: "In review: Jane Archibald and Liz Upchurch"
----
++++
+categories = "Review"
+slug = /in-review-jane-archibald-and-liz-upchurch/
+title = "In review: Jane Archibald and Liz Upchurch"
++++
 
 <p>
 	Out of this season's Free Concert Series in the Richard Bradshaw Amphitheatre, <a href="http://janearchibald.com/" target="_blank">Jane Archibald</a>'s recital with Liz Upchurch was one I was really looking forward to. I was by no means disappointed. Jane's is a voice I've admired since I heard her as Zerbinetta in her COC debut in 2011. She was charmingly frank about her limited experience as a recitalist; I noticed that her programme was heavy on standards and perhaps a bit of a safe selection of rep, but all of it suited Jane beautifully. She gave a classy nod to Liz Upchurch at the piano, who has an extensive career of giving recitals, and Jane credited Liz with encouraging her to sing some new stuff alongside her go-to picks.

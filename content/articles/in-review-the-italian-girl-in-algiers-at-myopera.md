@@ -1,6 +1,8 @@
----
-title: "In review: The Italian Girl in Algiers at MYOpera"
----
++++
+categories = "Review"
+slug = /in-review-the-italian-girl-in-algiers-at-myopera/
+title = "In review: The Italian Girl in Algiers at MYOpera"
++++
 
 "It's refreshing to see a story where the woman saves the man," says stage director [Anna Theodosakis](http://www.schmopera.com/italian-girl-rossini-feminist/) of Rossini's comedy, *The Italian Girl in Algiers*, presented this past weekend by [MYOpera](/scene/companies/myopera/) at Toronto's Aki Studio. The early 19th-century story is of Isabella, who sails from Italy to Algiers in search of her shipwrecked lover, Lindoro; Lindoro has found himself in the service of the Bey of Algiers, a ridiculous chieftain who happens to be on the hunt for a pretty exotic girl to replace his wife, of whom he's grown bored.
 

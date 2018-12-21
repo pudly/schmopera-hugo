@@ -1,6 +1,8 @@
----
-title: "Hvorostovsky to take a &quot;pause in my operatic career&quot;."
----
++++
+categories = "News"
+slug = /hvorostovsky-to-take-a-pause-in-my-operatic-career/
+title = "Hvorostovsky to take a &quot;pause in my operatic career&quot;."
++++
 
 On December 8, 2016 the *New York Times* [reported](http://www.nytimes.com/2016/12/08/arts/music/dmitri-hvorostovsky-citing-brain-tumor-withdraws-from-opera.html?_r=0) that Russian baritone (and heartthrob) [Dmitri Hvorostovksy](/scene/people/dmitri-hvorostovsky/) will be withdrawing from operatic performances for the "foreseeable future".
 

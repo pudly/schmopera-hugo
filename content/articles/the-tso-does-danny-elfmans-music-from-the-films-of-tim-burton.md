@@ -1,6 +1,8 @@
----
-title: "The TSO does Danny Elfman&#039;s music from the films of Tim Burton"
----
++++
+categories = "Review"
+slug = /the-tso-does-danny-elfmans-music-from-the-films-of-tim-burton/
+title = "The TSO does Danny Elfman&#039;s music from the films of Tim Burton"
++++
 
 Hello Schmop-Tops, 
 

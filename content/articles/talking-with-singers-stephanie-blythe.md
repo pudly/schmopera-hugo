@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Stephanie Blythe"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-stephanie-blythe/
+title = "Talking with singers: Stephanie Blythe"
++++
 
 "Very early on, I decided I would really be adventurous in my choices of repertoire," says American mezzo-soprano Stephanie Blythe. Her enviable singing career began with a high-profile professional debut in *Parsifal* at the Metropolitan Opera in 1995; since then she has made the conscious decision to "switch it up," scheduling her contracts so that Handel led into Verdi, concert work leading into fully staged opera. "I'm always changing it up."
 

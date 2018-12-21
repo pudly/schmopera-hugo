@@ -1,6 +1,8 @@
----
-title: "Saturday Afternoon with Ariadne"
----
++++
+categories = "Editorial"
+slug = /saturday-afternoon-with-ariadne/
+title = "Saturday Afternoon with Ariadne"
++++
 
 It's Saturday, and I want to be entertained. And as if the triumvirate gods of Opera, Internet and Day-Of-Week united forces for bored opera-lovers everywhere, the Metropolitan Opera put up its 1988 production of _Ariadne auf Naxos._ Directed by Bodo Igesz, the production features James Levine, Kathleen Battle, Jessye Norman, Tatiana Troyanos and Nico Castel. That's right, _Nico Castel_ performs the role of the Haushofmeister. Now, I've seen the DVD of this production before, mostly because it comes with a short documentary showing rehearsal footage with maestro Levine, Jessye Norman and Kathleen Battle. It's fascinating to see moments of conversation between conductor and singer, especially when you can catch glimpses of young Barbara Bonney and Dawn Upshaw as Najade and Echo.
 

@@ -1,6 +1,8 @@
----
-title: "Music: the musician&#039;s therapy, except when it&#039;s not"
----
++++
+categories = "Op-ed"
+slug = /music-the-musicians-therapy-except-when-its-not/
+title = "Music: the musician&#039;s therapy, except when it&#039;s not"
++++
 
 Most musicians have a story or two to tell about a time they used music to deal with pain in their lives. A pianist feels sad, and he finds catharsis in Chopin and Rachmaninoff; a violinist pours her grief into Sibelius and Brahms, and the singer looks for tragic *bel canto* and *La bohème*. Of course there's catharsis to be found in music, and a release of physical tension comes with playing an instrument and singing. Musicians are lucky to have an option like "make music" in their toolbox when it comes to beating the blues; so are the listeners, since a huge portion of the art and music we value today comes from artists with tragedy in their lives.
 

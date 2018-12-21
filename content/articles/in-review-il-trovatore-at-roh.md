@@ -1,6 +1,8 @@
----
-title: "In review: Il trovatore at ROH"
----
++++
+categories = "Review"
+slug = /in-review-il-trovatore-at-roh/
+title = "In review: Il trovatore at ROH"
++++
 
 David Bösch's production of [*Il trovatore*](http://www.roh.org.uk/productions/il-trovatore-by-david-bosch) - his debut with the [Royal Opera](/scene/companies/royal-opera-house/) - first went up in July of this year; until February 9, 2017, two more casts (and one extra Manrico) step into Bösch's bleak-yet-eclectic look at Verdi and his infamous troubadour.
 

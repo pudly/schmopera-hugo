@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Geoffrey Penar"
----
++++
+categories = "Interview"
+slug = /spotlight-on-geoffrey-penar/
+title = "Spotlight on: Geoffrey Penar"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

@@ -1,6 +1,8 @@
----
-title: "opera on reddit: did you know about it?"
----
++++
+categories = "Editorial"
+slug = /opera-on-reddit-did-you-know-about-it/
+title = "opera on reddit: did you know about it?"
++++
 
 For those who know what Reddit is: there's an opera subreddit!
 

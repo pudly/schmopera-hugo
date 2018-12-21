@@ -1,6 +1,8 @@
----
-title: "One World Symphony gets &quot;Defiant&quot;"
----
++++
+categories = "News"
+slug = /one-world-symphony-gets-defiant/
+title = "One World Symphony gets &quot;Defiant&quot;"
++++
 
 On **January 22** New York City's "hippest orchestra," the [One World Symphony](/scene/companies/one-world-symphony/), presents a fascinating - and important - concert programme, titled [*Defiant*](http://oneworldsymphony.org/concerts2016_Defiant.shtml).
 

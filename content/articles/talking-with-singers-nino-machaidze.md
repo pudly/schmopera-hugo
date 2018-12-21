@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Nino Machaidze"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-nino-machaidze/
+title = "Talking with singers: Nino Machaidze"
++++
 
 ## What kind of woman is Gilda? What do you think are some common misconceptions about her character?
 

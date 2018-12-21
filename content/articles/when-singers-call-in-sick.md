@@ -1,6 +1,8 @@
----
-title: "When singers call in sick"
----
++++
+categories = "Editorial"
+slug = /when-singers-call-in-sick/
+title = "When singers call in sick"
++++
 
 How does a professional singer call in sick?
 

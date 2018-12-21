@@ -1,6 +1,8 @@
----
-title: "Artists management pages: a PSA for singers"
----
++++
+categories = "Editorial"
+slug = /artists-management-pages-a-psa-for-singers/
+title = "Artists management pages: a PSA for singers"
++++
 
 Hello, singers!
 

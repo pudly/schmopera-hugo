@@ -1,6 +1,8 @@
----
-title: "Relevant Art Via the Number 2 Train"
----
++++
+categories = "Editorial"
+slug = /relevant-art-via-the-number-2-train/
+title = "Relevant Art Via the Number 2 Train"
++++
 
 <p>
 	When people ask about creating relevant art, it can be hard to articulate that that might be. Today, I came across one of the more concrete examples I've seen in a long time. Artist and web developer <a href="http://brianfoo.com/" target="_blank">Brian Foo</a>'s <a href="https://vimeo.com/118358642" target="_blank"><em>Two Trains – Sonification of Income Inequality on the NYC Subway's 2 Train</em></a> is an algorithmically composed piece of music that represents the median income of neighbourhoods in Brooklyn, Manhattan, and the Bronx.

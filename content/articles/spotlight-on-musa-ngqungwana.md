@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Musa Ngqungwana"
----
++++
+categories = "Interview"
+slug = /spotlight-on-musa-ngqungwana/
+title = "Spotlight on: Musa Ngqungwana"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

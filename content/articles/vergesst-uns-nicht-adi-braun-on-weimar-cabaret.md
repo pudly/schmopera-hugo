@@ -1,6 +1,8 @@
----
-title: "&quot;Vergesst uns nicht!&quot;: Adi Braun on Weimar cabaret"
----
++++
+categories = "Interview"
+slug = /vergesst-uns-nicht-adi-braun-on-weimar-cabaret/
+title = "&quot;Vergesst uns nicht!&quot;: Adi Braun on Weimar cabaret"
++++
 
 Jazz and cabaret singer Adi Braun comes by music honestly. She was born in Toronto, but grew up in Europe, a part of a musical family that included two famed Canadian baritones, her father [Victor Braun](http://www.thecanadianencyclopedia.ca/en/article/victor-braun-emc/), and her brother [Russell Braun](/scene/people/russell-braun/). Adi too started along a classical trajectory, studying at the University of Toronto and the Royal Conservatory of Music, and singing with the [Canadian Opera Company](/scene/companies/canadian-opera-company/) and [Opera Atelier](/scene/people/opera-atelier/). Starting in the 1990s, she began "to sing sideways", gravitating more closely to jazz and cabaret.
 

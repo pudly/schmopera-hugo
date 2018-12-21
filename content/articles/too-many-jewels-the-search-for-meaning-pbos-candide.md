@@ -1,6 +1,8 @@
----
-title: "Too many jewels &amp; the search for meaning: PBO&#039;s Candide"
----
++++
+categories = "Review"
+slug = /too-many-jewels-the-search-for-meaning-pbos-candide/
+title = "Too many jewels &amp; the search for meaning: PBO&#039;s Candide"
++++
 
 Any opera containing the line "I am, I admit, extremely fond of the potato" is, one can safely assume, not meant to be taken too seriously. Yet [Palm Beach Opera's *Candide*](https://pbopera.org/event/candide/), which opened on February 23, took on sombre meaning in a region still reeling from the tragic shooting at Stoneman Douglas High School only a week earlier.
 

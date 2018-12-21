@@ -1,6 +1,8 @@
----
-title: "Helpful singers: opera does house calls"
----
++++
+categories = "Editorial"
+slug = /helpful-singers-opera-does-house-calls/
+title = "Helpful singers: opera does house calls"
++++
 
 We recently caught [Tim Jonze's article](http://www.theguardian.com/music/2016/mar/27/home-therapy-opera-singers-anxious-stressed-ease-worries) for *The Guardian* about [Opera Helps](http://www.operahelps.com/), a UK-based project started by artist and opera enthusiast [Joshua Sofaer](http://www.joshuasofaer.com/2016/02/opera-helps-uk-tour/). The premise is beautifully succinct: if you're feeling down, stressed, or burdened by a problem, you can [fill out an application](http://www.operahelps.com/#apply), and Opera Helps will respond. "If we can meet their needs, a professional opera singer will visit their home and listen to the problem. Then the singer will select the aria that relates to the problem. The aria will be sung to the participant as they relax in their preferred room."
 

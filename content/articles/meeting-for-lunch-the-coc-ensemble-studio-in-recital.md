@@ -1,6 +1,8 @@
----
-title: "Meeting for lunch: the COC Ensemble Studio in recital"
----
++++
+categories = "Review"
+slug = /meeting-for-lunch-the-coc-ensemble-studio-in-recital/
+title = "Meeting for lunch: the COC Ensemble Studio in recital"
++++
 
 Just like the ubiquitous sirens along University Avenue that permeate the sounds coming from the Richard Bradshaw Amphitheatre, the new season of the COC's [Free Concert Series](http://www.coc.ca/PerformancesAndTickets/FreeConcertSeries.aspx) begins with its annual introduction to the young artists of the Ensemble Studio.
 

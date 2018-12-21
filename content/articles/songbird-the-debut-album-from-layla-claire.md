@@ -1,6 +1,8 @@
----
-title: "Songbird: the debut album from Layla Claire"
----
++++
+categories = "Interview"
+slug = /songbird-the-debut-album-from-layla-claire/
+title = "Songbird: the debut album from Layla Claire"
++++
 
 ## How did you choose the songs for your first album? What do you think they have in common?
 

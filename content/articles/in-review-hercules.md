@@ -1,6 +1,8 @@
----
-title: "In review: Hercules"
----
++++
+categories = "Review"
+slug = /in-review-hercules/
+title = "In review: Hercules"
++++
 
 I went and saw [_Hercules_](http://www.coc.ca/PerformancesAndTickets/1314Season/Hercules.aspx) at the Canadian Opera Company on Tuesday, and it was the jackpot of incredible talent onstage. It's directed by the one-of-a-kind [Peter Sellars](http://en.wikipedia.org/wiki/Peter_Sellars), conducted by the brilliant [Harry Bicket](http://www.askonasholt.co.uk/artists/conductors/harry-bicket), and [Eric Owens](http://imgartists.com/artist/eric_owens) and [Alice Coote](http://imgartists.com/artist/alice_coote) star as the soldier and soldier's wife. Beautiful. And it really was a stunning spectacle, one with an uncomfortably true message. [I saw Sellars speak about this production](/peter-sellars-all-my-subtexts-were-understatements/), and what it tells us about the effect of war, absence and PTSD have on a solider and his family. Based on Sophocles' play _Women of Trachis_, Handel's _Hercules_ really is about the hero's family. It's clear that both Sophocles and Handel knew that as well; Hercules himself sings little in comparison with his wife Dejanira, his son Hyllus and his prisoner, Iöle.
 

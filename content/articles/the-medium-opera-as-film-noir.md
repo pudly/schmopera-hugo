@@ -1,6 +1,8 @@
----
-title: "The Medium: opera as film noir"
----
++++
+categories = "Review"
+slug = /the-medium-opera-as-film-noir/
+title = "The Medium: opera as film noir"
++++
 
 Madame Flora, or Baba as her daughter refers to her with fearful affection, is a blousy, boozy, and conniving crook at heart. When we meet her at the beginning of Gian Carlo Menotti's 1951 film adaptation of his opera, *The Medium*, she is sitting on the stairs outside an apartment door.  A hand emerges offering a few forints (we are in Budapest) that she reluctantly accepts; yet she continues to wait. The door opens wider, revealing a woman holding a small child. When offered a locket, she gives it a cursory inspection, takes it, and heads straight to a pawnshop. There, when offered a meager sum, she casts a wearily suspicious glance at the proprietor, and coaxes him into a better deal.
 

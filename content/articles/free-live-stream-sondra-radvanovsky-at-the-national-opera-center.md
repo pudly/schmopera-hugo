@@ -1,6 +1,8 @@
----
-title: "Free live stream: Sondra Radvanovsky at the National Opera Center"
----
++++
+categories = "News"
+slug = /free-live-stream-sondra-radvanovsky-at-the-national-opera-center/
+title = "Free live stream: Sondra Radvanovsky at the National Opera Center"
++++
 
 On **March 3rd at 7pm EST**, star soprano [Sondra Radvanovsky](/scene/people/sondra-radvanovsky/) joins OPERA America President and CEO Marc A. Scorca for a new instalment of [*Conversations*](http://www.operaamerica.org/content/operacenter/onstage/index.aspx#Conversations), presented by the National Opera Center in New York.
 

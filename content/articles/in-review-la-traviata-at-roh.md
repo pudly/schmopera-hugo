@@ -1,6 +1,8 @@
----
-title: "In review: La traviata at ROH"
----
++++
+categories = "Review"
+slug = /in-review-la-traviata-at-roh/
+title = "In review: La traviata at ROH"
++++
 
 For as much as we babble on about what's new and creative about opera, a good production of Verdi's [*La traviata*](http://www.roh.org.uk/productions/la-traviata-by-richard-eyre) can be like a palate cleanser, a reminder of the difference between so-called "museum pieces" and operas which are simply timeless.
 

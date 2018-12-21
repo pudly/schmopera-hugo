@@ -1,6 +1,8 @@
----
-title: "Pavarotti and all his Friends"
----
++++
+categories = "Humour"
+slug = /pavarotti-and-all-his-friends/
+title = "Pavarotti and all his Friends"
++++
 
 I indulged in some Pavarotti & Friends today, and pulled out a few favourites to share. I recognized that song recipe for Pavarotti's duets with famous pop singers: the famous pop singer starts off by singing the first verse _au naturel_, and Pav joins in for the second verse, in Italian, with what sometimes sounds like a totally new melody. It made me think vaguely of team of [song-arrangers](http://www.discogs.com/artist/10529-Henry-Mancini) that work on a Pavarotti & Friends program, and then imagine a bizarre rehearsal between Pav and, say, Bryan Adam. These duets always start off odd for me, since I'm always wondering what Pavarotti is really thinking when he shares the stage with people like [Stevie Wonder](https://www.youtube.com/watch?v=xoClSToRAxM) and [Barry White](https://www.youtube.com/watch?v=fHCcM_uV-r8&list=PL-alyau4BfH4H04iXV3FooJpGu3WdSF-c). Sometimes I can't get over the difference in the simple _singing_ between Pav and basically anyone else, as if some of these pop singers subject themselves to exposure by singing with someone like Pavarotti. But I shake that off, and begin with this arrangement of "Hero" with Mariah Carey.
 

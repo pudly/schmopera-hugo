@@ -1,6 +1,8 @@
----
-title: "Greg&#039;s First Thursday at the AGO"
----
++++
+categories = "Editorial"
+slug = /gregs-first-thursday-at-the-ago/
+title = "Greg&#039;s First Thursday at the AGO"
++++
 
 Thursday, Februrary 5th was a great day. Not only was it my sister's birthday (Happy Birthday Caren!) it was also the latest instalment of the [Art Gallery of Ontario's First Thursdays](http://www.ago.net/firstthursdays).
 

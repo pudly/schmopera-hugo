@@ -1,6 +1,8 @@
----
-title: "Arizona Opera, on tradition"
----
++++
+categories = "Editorial"
+slug = /arizona-opera-on-tradition/
+title = "Arizona Opera, on tradition"
++++
 
 “Is this going to be a traditional production?”
 

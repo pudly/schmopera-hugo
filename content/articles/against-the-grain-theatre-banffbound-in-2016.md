@@ -1,6 +1,8 @@
----
-title: "Against the Grain Theatre: Banff-bound in 2016"
----
++++
+categories = "News"
+slug = /against-the-grain-theatre-banffbound-in-2016/
+title = "Against the Grain Theatre: Banff-bound in 2016"
++++
 
 The [announcement](https://www.banffcentre.ca/programs/open-space-opera-21st-century) is out, and it's official: [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) will spend a third summer at [The Banff Centre](/scene/companies/the-banff-centre/), for [*Open Space: Opera in the 21st Century*](https://www.banffcentre.ca/programs/open-space-opera-21st-century), a program in partnership with the [Canadian Opera Company](/scene/companies/canadian-opera-company/). 
 

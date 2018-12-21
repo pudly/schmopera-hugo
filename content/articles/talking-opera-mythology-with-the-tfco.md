@@ -1,6 +1,8 @@
----
-title: "Talking opera &amp; mythology with the TFCO"
----
++++
+categories = "Op-ed"
+slug = /talking-opera-mythology-with-the-tfco/
+title = "Talking opera &amp; mythology with the TFCO"
++++
 
 After having an awesome chat with ["the next generation of opera"](/tfco-opera-trek-the-next-generation/) this past Sunday, I eagerly attended a chat presented by the [Toronto Festival of Children's Opera](http://www.canadianchildrensopera.com/content/TFCO.html) called *Swords and Songs*.
 

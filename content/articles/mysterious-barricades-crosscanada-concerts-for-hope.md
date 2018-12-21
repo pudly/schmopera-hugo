@@ -1,6 +1,8 @@
----
-title: "Mysterious Barricades: Cross-Canada concerts for hope"
----
++++
+categories = "News"
+slug = /mysterious-barricades-crosscanada-concerts-for-hope/
+title = "Mysterious Barricades: Cross-Canada concerts for hope"
++++
 
 On **September 10, World Suicide Prevention Day**, 13 Canadian cities will host free, live-streamed concerts presented by the Mysterious Barricades Concert Society, [*A Cross-Canada Concert for Suicide Awareness, Prevention and Hope*.](http://www.mysteriousbarricades.org/)
 

@@ -1,6 +1,8 @@
----
-title: "Talking with composers: David T. Little"
----
++++
+categories = "Interview"
+slug = /talking-with-composers-david-t-little/
+title = "Talking with composers: David T. Little"
++++
 
 ### What can you tell us about the process of writing an opera that the average person might find surprising?
 

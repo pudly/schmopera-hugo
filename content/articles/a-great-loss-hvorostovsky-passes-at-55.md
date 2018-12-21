@@ -1,6 +1,8 @@
----
-title: "A great loss: Hvorostovsky passes at 55"
----
++++
+categories = "News"
+slug = /a-great-loss-hvorostovsky-passes-at-55/
+title = "A great loss: Hvorostovsky passes at 55"
++++
 
 The opera world lost one of the greats today. Baritone [Dmitri Hvorostovsky](/scene/people/dmitri-hvorostovsky/) passed away on November 22, 2017 in London, England.
 

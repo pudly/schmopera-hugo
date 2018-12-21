@@ -1,6 +1,8 @@
----
-title: "Actual opera buzz: The Swarm, in review"
----
++++
+categories = "Review"
+slug = /actual-opera-buzz-the-swarm-in-review/
+title = "Actual opera buzz: The Swarm, in review"
++++
 
 Playing this week at London's Brunel Tunnel is [*The Swarm*](http://www.thequorum.co.uk/), the second collaboration between composer Heloise Tunstall-Behrens and artist/writer/director Roswitha Gerlitz. The women share a common fascination with the behaviour of bees, which also inspired their first project, *Be the Bee*. With an electronic soundscape by Auclair and the acoustic voices of ten women, *The Swarm* earns its subtitle, "A Choral Celebrations of Bees."
 

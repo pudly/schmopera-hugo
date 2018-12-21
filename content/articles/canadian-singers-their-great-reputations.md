@@ -1,6 +1,8 @@
----
-title: "Canadian singers &amp; their great reputations"
----
++++
+categories = "Editorial"
+slug = /canadian-singers-their-great-reputations/
+title = "Canadian singers &amp; their great reputations"
++++
 
 Canadians are known for our polite dispositions, our hot-commodity maple syrup, and perhaps in recent years, our extremely dreamy Prime Minister. Canada is the friendly and soft-spoken neighbour to the United States, and a quaint spin-off of sorts of the British monarchy. It's home to beautiful, hardy cities and stunning landscapes of all ilks; Canadians can spend their whole lives traveling within their home borders and still experience a sense of awe and pride for their country.
 

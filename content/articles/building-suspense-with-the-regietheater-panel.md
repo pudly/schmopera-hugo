@@ -1,6 +1,8 @@
----
-title: "Building Suspense with The Regietheater Panel"
----
++++
+categories = "Editorial"
+slug = /building-suspense-with-the-regietheater-panel/
+title = "Building Suspense with The Regietheater Panel"
++++
 
 <p>
 	Yesterday we hosted our very first panel discussion, and I couldn't have been happier with the result. The discussion was smart and frank, with dense conversations about Regietheater, and its role today in opera's evolution. I can't wait to show you the battles of opinions, and the thoughtful questions posed throughout the talk. For now, you'll have to settle on the photo above (taken by our videographer, <a href="http://jeffhiggins.ca/" target="_blank" data-mce-href="http://jeffhiggins.ca">Jeff Higgins</a>), and a refresher of who joined me for Schmopera's first panel discussion:

@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Gregory Kunde"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-gregory-kunde/
+title = "Talking with singers: Gregory Kunde"
++++
 
 ## How have you kept your voice healthy throughout your career?
 

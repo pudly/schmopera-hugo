@@ -1,6 +1,8 @@
----
-title: "Opera 101 with Kristine Dandavino"
----
++++
+categories = "Interview"
+slug = /opera-101-with-kristine-dandavino/
+title = "Opera 101 with Kristine Dandavino"
++++
 
 ### Can you give us the "Cole's Notes" version of the history of Oshawa Opera?
 

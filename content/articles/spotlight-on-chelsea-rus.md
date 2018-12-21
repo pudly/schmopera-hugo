@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Chelsea Rus"
----
++++
+categories = "Interview"
+slug = /spotlight-on-chelsea-rus/
+title = "Spotlight on: Chelsea Rus"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

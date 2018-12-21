@@ -1,6 +1,8 @@
----
-title: "Alien 3"
----
++++
+categories = "Humour"
+slug = /alien-3/
+title = "Alien 3"
++++
 
 https://www.youtube.com/watch?v=Vic6bO14CZg
 

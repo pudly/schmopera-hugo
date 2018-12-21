@@ -1,6 +1,8 @@
----
-title: "In review: Jamie Barton leaves you wanting more"
----
++++
+categories = "Review"
+slug = /in-review-jamie-barton-leaves-you-wanting-more/
+title = "In review: Jamie Barton leaves you wanting more"
++++
 
 Fall is definitely in the air in Toronto, and the concert season is off to a great start.
 

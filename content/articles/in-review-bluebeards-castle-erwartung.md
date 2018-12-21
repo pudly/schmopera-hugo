@@ -1,6 +1,8 @@
----
-title: "In review: Bluebeard&#039;s Castle/ Erwartung"
----
++++
+categories = "Review"
+slug = /in-review-bluebeards-castle-erwartung/
+title = "In review: Bluebeard&#039;s Castle/ Erwartung"
++++
 
 Last night I was able to check off one of my must-sees. For a while I felt like the only opera fan in Toronto who hadn't seen Robert Lepage's double bill of *Bluebeard's Castle/Erwartung*, but I fixed that. The production couldn't have brought more hype along with it, and I usually try and ignore hype so that it doesn't skew my otherwise fine enjoyment of a production. The rumours turned out to be true, and I was amazed.
 

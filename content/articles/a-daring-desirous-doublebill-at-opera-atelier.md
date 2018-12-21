@@ -1,6 +1,8 @@
----
-title: "A daring &amp; desirous double-bill at Opera Atelier"
----
++++
+categories = "Editorial"
+slug = /a-daring-desirous-doublebill-at-opera-atelier/
+title = "A daring &amp; desirous double-bill at Opera Atelier"
++++
 
 Since 1985, Co-Artistic Directors Marshall Pynkoski and Jeannette Lajeunesse Zingg have grown [Opera Atelier](/scene/companies/opera-atelier/)'s presence like a slow burn, maintaining two productions a year based out of Toronto. In 33 seasons, Atelier has expanded internationally, touring as far as Japan, and becoming a regular import at the Royal Opera House of Versailles; this season the company makes its first trip to Chicago, at the Harris Theater for Music and Dance.
 

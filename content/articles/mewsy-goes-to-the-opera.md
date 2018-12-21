@@ -1,6 +1,8 @@
----
-title: "Mewsy goes to the Opera"
----
++++
+categories = "Humour"
+slug = /mewsy-goes-to-the-opera/
+title = "Mewsy goes to the Opera"
++++
 
 ## PART II
 

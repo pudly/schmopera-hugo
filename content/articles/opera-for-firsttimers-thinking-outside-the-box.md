@@ -1,6 +1,8 @@
----
-title: "Opera for first-timers &amp; thinking outside the box"
----
++++
+categories = "Op-ed"
+slug = /opera-for-firsttimers-thinking-outside-the-box/
+title = "Opera for first-timers &amp; thinking outside the box"
++++
 
 There's a lot written about what operas are great for first-timers. *Carmen*, *Don Giovanni*, *Tosca*, *The Barber of Seville*, *La bohème*, *La traviata*, these are all popular picks, apparently some of our best bets at luring new audiences to the opera (and having them come back again). The [Royal Opera House](http://www.roh.org.uk/news/opera-for-first-timers-your-suggestions) asked its Twitter followers what their suggestions for first-timers would be; their picks mirrored my examples above, plus a few votes of *Die Zauberflöte* and *L'elisir d'amore*.
 

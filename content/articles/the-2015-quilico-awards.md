@@ -1,6 +1,8 @@
----
-title: "The 2015 Quilico Awards"
----
++++
+categories = "Review"
+slug = /the-2015-quilico-awards/
+title = "The 2015 Quilico Awards"
++++
 
 <p>
 	Last night the members of the COC Ensemble Studio competed in the <a href="http://files.coc.ca/pdfs/concert150209.pdf" target="_blank">Christine and Louis Quilico Awards</a>, in the Richard Bradshaw Amphitheatre at the Four Seasons Centre. From my own experience with the <a href="https://operaramblings.wordpress.com/2013/05/14/quilico-awards-2013/" target="_blank">2013 Quilico Awards</a>, I know that this intra-Ensemble competition can be tough on the singers. The winter and spring segments of the COC season have a packed schedule; the young artists are rehearsed and coached by day, and singing in the mainstage shows by night. It's inspiring and exhausting work, and it's hard to find the additional focus needed for a competition like this. The Quilico Awards are unique in that the young artist singers compete internally, during some of the most high-paced, high-stakes years of their careers so far. I'm historically terrible at making the call on competitions (I assume if I were a judge on a panel, I'd be the "difficult" one). It's even more of a crapshoot when all the singers competing are in the middle of big technical and professional changes. I know the Ensemble Studio singers are a tough bunch, and they don't need my empathy; my heart does go out to them, though, because they're worked hard and competing against your closest colleagues (and probably friends) is hard.

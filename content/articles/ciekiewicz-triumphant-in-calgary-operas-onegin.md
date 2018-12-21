@@ -1,6 +1,8 @@
----
-title: "Ciekiewicz &quot;triumphant&quot; in Calgary Opera&#039;s Onegin"
----
++++
+categories = "Review"
+slug = /ciekiewicz-triumphant-in-calgary-operas-onegin/
+title = "Ciekiewicz &quot;triumphant&quot; in Calgary Opera&#039;s Onegin"
++++
 
 Leave it to the sweeping, lush music of Tchaikovsky to warm up an otherwise frigid winter night in Calgary.
 

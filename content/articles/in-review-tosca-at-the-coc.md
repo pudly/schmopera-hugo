@@ -1,6 +1,8 @@
----
-title: "In review: Tosca at the COC"
----
++++
+categories = "Review"
+slug = /in-review-tosca-at-the-coc/
+title = "In review: Tosca at the COC"
++++
 
 It seems to be a trend with the most popular picks of the operatic canon, performed in the world's major opera houses: that the voices are thrilling, and the well-loved music serves to make up for any moments of weakness. Such was the case for [*Tosca*](http://www.coc.ca/PerformancesAndTickets/1617Season/Tosca.aspx), currently onstage at the Canadian Opera Company. 
 

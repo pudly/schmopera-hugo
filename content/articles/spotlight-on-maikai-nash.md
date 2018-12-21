@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Maika&#039;i Nash"
----
++++
+categories = "Interview"
+slug = /spotlight-on-maikai-nash/
+title = "Spotlight on: Maika&#039;i Nash"
++++
 
 ### 1. What was the biggest learning curve when you started working with singers?
 

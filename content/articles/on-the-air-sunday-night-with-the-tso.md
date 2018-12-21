@@ -1,6 +1,8 @@
----
-title: "On the air: Sunday Night with the TSO"
----
++++
+categories = "News"
+slug = /on-the-air-sunday-night-with-the-tso/
+title = "On the air: Sunday Night with the TSO"
++++
 
 This weekend, turn your radio-like devices to [Classical 96.3 FM](http://www.classical963fm.com/) for the latest episode of [*Sunday Night with the TSO*](http://www.classical963fm.com/shows/sunday-night-with-the-tso/). 
 

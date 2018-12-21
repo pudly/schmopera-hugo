@@ -1,6 +1,8 @@
----
-title: "Spotlight on: James Westman"
----
++++
+categories = "Interview"
+slug = /spotlight-on-james-westman/
+title = "Spotlight on: James Westman"
++++
 
 ## Why do you sing professionally?
 

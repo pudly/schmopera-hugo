@@ -1,6 +1,8 @@
----
-title: "Being a nice person: why art really, really matters"
----
++++
+categories = "Editorial"
+slug = /being-a-nice-person-why-art-really-really-matters/
+title = "Being a nice person: why art really, really matters"
++++
 
 This month's [massacre of 49 people](http://www.cnn.com/2016/06/12/us/orlando-nightclub-shooting/) inside an Orlando gay club was the latest example of what ignorant, small-minded people living in small worlds can do with access to weapons. The shooter, Omar Mateen, had his own reasons for killing innocents, but whatever those reasons were, none of them were good or excusable. Though the details may vary, each case of violence against a group of people, apparently defined only by their sexual preferences or race or religion, is fueled by ignorance. Ignorance of this sort isn't benevolent at all; it results in some horrible, violent human who can't grasp the concept of a life lived differently than their own, and who takes their uninformed hate out on others.
 

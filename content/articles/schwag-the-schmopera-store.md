@@ -1,6 +1,8 @@
----
-title: "Schwag: the Schmopera Store"
----
++++
+categories = "News"
+slug = /schwag-the-schmopera-store/
+title = "Schwag: the Schmopera Store"
++++
 
 Readers, we're beyond excited to introduce our latest development over here at Schmopera.
 

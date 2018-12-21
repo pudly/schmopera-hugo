@@ -1,6 +1,8 @@
----
-title: "Despina in Banff"
----
++++
+categories = "Op-ed"
+slug = /despina-in-banff/
+title = "Despina in Banff"
++++
 
 As the half way point of my time at [The Banff Centre](/scene/companies/the-banff-centre/) is coming up quickly, it seems like  a great time to reflect on what it has been like staying in Banff and working on *A Little Too Cozy*.
 

@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Kate Lindsey"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-kate-lindsey/
+title = "Talking with singers: Kate Lindsey"
++++
 
 "It's really rare to be working somewhere and be able to sleep in your bed at night," says American mezzo-soprano [Kate Lindsey](/scene/people/kate-lindsey/), who has been based in London for the last three years. She's currently in rehearsal for [*Les contes d'Hoffmann*](http://www.roh.org.uk/productions/les-contes-dhoffmann-by-john-schlesinger) at the [Royal Opera House](/scene/companies/royal-opera-house/), in which she'll sing Nicklausse/The Muse opposite Vittorio Grigòlo (7-24 November) and Leonardo Capalbo (28 November and 3 December) as Hoffmann and [Thomas Hampson](/scene/people/thomas-hampson/) as the Villains.
 

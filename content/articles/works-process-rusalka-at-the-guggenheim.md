@@ -1,6 +1,8 @@
----
-title: "Works &amp; Process: Rusalka at the Guggenheim"
----
++++
+categories = "Interview"
+slug = /works-process-rusalka-at-the-guggenheim/
+title = "Works &amp; Process: Rusalka at the Guggenheim"
++++
 
 ## How have you decided on the spring season of Works & Process? Why has *Rusalka* made it onto the line-up?
 

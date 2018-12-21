@@ -1,6 +1,8 @@
----
-title: "Michael Mori on The Devil Inside"
----
++++
+categories = "Interview"
+slug = /michael-mori-on-the-devil-inside/
+title = "Michael Mori on The Devil Inside"
++++
 
 ## What can people expect from *The Devil Inside*?
 

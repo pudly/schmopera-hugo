@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Ayre"
----
++++
+categories = "News"
+slug = /dont-miss-ayre/
+title = "Don&#039;t miss: Ayre"
++++
 
 On **November 10-12** at Toronto's Ismaili Centre, [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) presents Osvaldo Golijov's [*Ayre*](http://againstthegraintheatre.com/ayre/). You absolutely do not want to miss it.
 

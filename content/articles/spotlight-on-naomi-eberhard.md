@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Naomi Eberhard"
----
++++
+categories = "Interview"
+slug = /spotlight-on-naomi-eberhard/
+title = "Spotlight on: Naomi Eberhard"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

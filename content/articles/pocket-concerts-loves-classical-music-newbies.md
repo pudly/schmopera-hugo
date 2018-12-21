@@ -1,6 +1,8 @@
----
-title: "Pocket Concerts loves classical music newbies!"
----
++++
+categories = "News"
+slug = /pocket-concerts-loves-classical-music-newbies/
+title = "Pocket Concerts loves classical music newbies!"
++++
 
 Do you have a [classical music newbie](http://www.pocketconcerts.ca/single-post/2016/10/13/Are-you-a-classical-music-newbie-Do-you-know-one-We-want-to-meet-you) in your life? The folks at Pocket Concerts wants to meet them!
 

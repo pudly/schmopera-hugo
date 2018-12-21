@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Andrew Haji"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-andrew-haji/
+title = "Talking with singers: Andrew Haji"
++++
 
 "You know coming in to an aria like that that the audience has some sort of expectation," says tenor [Andrew Haji](/scene/people/andrew-haji/), of the well-known ["Una furtiva lagrima"](/aria-guides-una-furtiva-lagrima/) that Nemorino sings near the finale of Donizetti's *The Elixir of Love*. "When you really get into a role, when you dig into a character, you have to make it your own. Create that aria as you're singing it.
 

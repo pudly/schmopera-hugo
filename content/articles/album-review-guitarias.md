@@ -1,6 +1,8 @@
----
-title: "Album Review: Guitarias"
----
++++
+categories = "Review"
+slug = /album-review-guitarias/
+title = "Album Review: Guitarias"
++++
 
 This week, Canadian baritone and guitarist [Doug MacNaughton](http://www.dougmacnaughton.com/) releases _Guitarias._ It's his debut recording on the guitar, fusing what's clearly been two important elements to Doug's life as a musician.
 

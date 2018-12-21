@@ -1,6 +1,8 @@
----
-title: "Big Jim and the Small-time Investors: a story often told"
----
++++
+categories = "Review"
+slug = /big-jim-and-the-smalltime-investors-a-story-often-told/
+title = "Big Jim and the Small-time Investors: a story often told"
++++
 
 The best stories are the ones told over and over again. How fortunate we are then, to have one of the oldest sung and played with such musical verve and theatrical invention. The story, that of getting rich quick, is summed up in the title of the late Eric Salzman's opera, *Big Jim and the Small-Time Investors*. This week Cutting Edge Concerts New Music Festival 2018 presented the first fully staged production of this timely and innovative work.
 

@@ -1,6 +1,8 @@
----
-title: "Updating operas: why stop at the libretto?"
----
++++
+categories = "Editorial"
+slug = /updating-operas-why-stop-at-the-libretto/
+title = "Updating operas: why stop at the libretto?"
++++
 
 [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) has earned itself some more great press, following the opening of their *A Little Too Cozy*. It's based on Mozart's *Così fan tutte*, the third of Artistic Director [Joel Ivany](/scene/people/joel-ivany/)'s "transladaptations" of the Mozart/Da Ponte operas, which means that he rewrote the libretto into an English version of the original story and set it in the present day.
 

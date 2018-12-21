@@ -1,6 +1,8 @@
----
-title: "The practice tip you don&#039;t want to hear"
----
++++
+categories = "How-to"
+slug = /the-practice-tip-you-dont-want-to-hear/
+title = "The practice tip you don&#039;t want to hear"
++++
 
 Many musicians spend their early years of training - and maybe some of the later years - fighting a cold, hard fact about their practice habits: **the slow way *is* the fast way.**
 

@@ -1,6 +1,8 @@
----
-title: "In review: Boris Godunov"
----
++++
+categories = "Review"
+slug = /in-review-boris-godunov/
+title = "In review: Boris Godunov"
++++
 
 Last night's *Boris Godunov* at the [Royal Opera House](/scene/companies/royal-opera-house/) was an exciting time. [Bryn Terfel](/scene/people/bryn-terfel.) had his second performance in the title role, a new one for him, and Music Director Anthony Pappano took the podium to conduct this new production by Richard Jones. The ROH presents, for the first time, the rarely heard [1869 version](https://en.wikipedia.org/wiki/Boris_Godunov_(opera)#Versions) of Musorgsky's score, slimmer in scenes and truer to Pushkin's drama. There was no interval for the production, and the story unfolded uncomfortably and relentlessly as a result, putting the audience in shoes similar to those of Tsar Boris himself.
 

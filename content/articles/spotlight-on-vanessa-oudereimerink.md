@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Vanessa Oude-Reimerink"
----
++++
+categories = "Interview"
+slug = /spotlight-on-vanessa-oudereimerink/
+title = "Spotlight on: Vanessa Oude-Reimerink"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

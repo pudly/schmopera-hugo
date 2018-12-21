@@ -1,6 +1,8 @@
----
-title: "Edmonton Opera delivers imaginative, inspired Don Giovanni"
----
++++
+categories = "Review"
+slug = /edmonton-opera-delivers-imaginative-inspired-don-giovanni/
+title = "Edmonton Opera delivers imaginative, inspired Don Giovanni"
++++
 
 If love is the soul of genius, as Wolfgang Amadeus Mozart once said, what would that make lustful abandon? In the case of one of opera’s best-known "bad boys", a fiery eternity of damnation.
 

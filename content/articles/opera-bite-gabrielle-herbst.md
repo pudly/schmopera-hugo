@@ -1,6 +1,8 @@
----
-title: "Opera Bite: Gabrielle Herbst"
----
++++
+categories = "Editorial"
+slug = /opera-bite-gabrielle-herbst/
+title = "Opera Bite: Gabrielle Herbst"
++++
 
 I stumbled upon a beautifully articulated answer to one of our industry's biggest questions, in [Carena Liptak's interview](http://noisey.vice.com/blog/gabi-interview-2015) for _Noisey_ with Gabrielle Herbst. Gabrielle is a singer and composer; she's a member of the band GABI, and her first opera, _Bodiless_, had its premiere last year at New York's [Roulette](http://roulette.org/about/). 
 

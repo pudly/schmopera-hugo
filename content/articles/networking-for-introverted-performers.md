@@ -1,6 +1,8 @@
----
-title: "Networking for introverted performers"
----
++++
+categories = "Op-ed"
+slug = /networking-for-introverted-performers/
+title = "Networking for introverted performers"
++++
 
 While it may seem to many people that "introverted performers" is an oxymoron, I assure you that [this is not the case](http://operaversity.com/performance/introverted-performers-thing/%20). Being an introvert in an extroverted field can pose its own challenges though. Perhaps the biggest challenge it poses is networking.
 

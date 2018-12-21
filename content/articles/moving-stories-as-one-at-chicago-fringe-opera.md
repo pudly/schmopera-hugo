@@ -1,6 +1,8 @@
----
-title: "Moving stories: As One at Chicago Fringe Opera"
----
++++
+categories = "Review"
+slug = /moving-stories-as-one-at-chicago-fringe-opera/
+title = "Moving stories: As One at Chicago Fringe Opera"
++++
 
 *As One*, a chamber opera for two voices and string quartet composed by Laura Kaminsky and with a libretto by Mark Campbell and Kimberly Reed, conveys the experiences of a transgender protagonist named Hannah, as she seeks to reconcile her internal identity with the outside world. First commissioned and developed by [American Opera Projects](/american-opera-projects-youre-seeing-the-opera-in-microcosm/) and performed at the Brooklyn Academy of Music in 2014, these performances by [Chicago Fringe Opera](/scene/companies/chicago-fringe-opera/) are *As One*'s Chicago premiere.
 

@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Sarah Vautour"
----
++++
+categories = "Interview"
+slug = /spotlight-on-sarah-vautour/
+title = "Spotlight on: Sarah Vautour"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

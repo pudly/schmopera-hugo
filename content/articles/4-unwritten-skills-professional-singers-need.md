@@ -1,6 +1,8 @@
----
-title: "4 unwritten skills professional singers need"
----
++++
+categories = "Editorial"
+slug = /4-unwritten-skills-professional-singers-need/
+title = "4 unwritten skills professional singers need"
++++
 
 ## Trust
 

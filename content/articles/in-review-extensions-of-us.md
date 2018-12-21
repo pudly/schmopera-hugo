@@ -1,6 +1,8 @@
----
-title: "In review: Extensions of Us"
----
++++
+categories = "Review"
+slug = /in-review-extensions-of-us/
+title = "In review: Extensions of Us"
++++
 
  a cool Thursday night I trotted down to the Extension Room at 30 Eastern Avenue for _Extensions of Us_, featuring [Lucia Cesaroni](http://luciacesaroni.com/), [Adrian Kramer](https://twitter.com/aitkramer), [Jennifer Nichols](https://twitter.com/jennemethod) and [Justin De Bernardi](https://twitter.com/justindebz) with [Maika'i Nash](http://maikai.ca/) on piano.
 I walked into the jam-packed modern space at the [Extension Room](http://www.extensionmethod.com/) to white painted brick walls, a vintage sign on the back wall, chandeliers, a few cruiser tables, an affordable bar, and a banquet spread worthy of a shout out from my tummy (more of us should be doing this at recitals).

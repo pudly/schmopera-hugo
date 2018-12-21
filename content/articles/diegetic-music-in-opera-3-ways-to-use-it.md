@@ -1,6 +1,8 @@
----
-title: "Diegetic music in opera: 3 ways to use it"
----
++++
+categories = "Humour"
+slug = /diegetic-music-in-opera-3-ways-to-use-it/
+title = "Diegetic music in opera: 3 ways to use it"
++++
 
 ## Plot-device performances
 

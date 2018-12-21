@@ -1,6 +1,8 @@
----
-title: "New roles: Janaka Welihinda of MYOpera"
----
++++
+categories = "Interview"
+slug = /new-roles-janaka-welihinda-of-myopera/
+title = "New roles: Janaka Welihinda of MYOpera"
++++
 
 ## MYOpera is dedicated to fostering emerging artists - as a young artist yourself, how do you feel that the company achieves this goal?
 

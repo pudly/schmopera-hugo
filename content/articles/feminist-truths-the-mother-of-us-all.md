@@ -1,6 +1,8 @@
----
-title: "Feminist truths: The Mother of Us All"
----
++++
+categories = "Review"
+slug = /feminist-truths-the-mother-of-us-all/
+title = "Feminist truths: The Mother of Us All"
++++
 
 Gertrude Stein predicted in her libretto for *The Mother of Us All* (music by Virgil Thomson) that the fight for women's equal rights and representation would extend beyond her lifetime. The opera's protagonist, the suffragette hero Susan B. Anthony, sung effortlessly by the captivating dramatic mezzo-soprano [Michaela Martens](/scene/people/michaela-martens/), persistently argues for feminist truths against a nation insistent on maintaining its patriarchal structure.
 

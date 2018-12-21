@@ -1,6 +1,8 @@
----
-title: "Star opera singers: time-efficient, or just late to rehearsal?"
----
++++
+categories = "Editorial"
+slug = /star-opera-singers-timeefficient-or-just-late-to-rehearsal/
+title = "Star opera singers: time-efficient, or just late to rehearsal?"
++++
 
 Though it's decidedly not great timing to pull out of a new production at [the Metropolitan Opera](/scene/companies/the-metropolitan-opera/) mere weeks after it's announced, star tenor [Jonas Kaufmann](/scene/people/jonas-kaufmann/) is one of the fortunate few among opera singers who can afford to do so.
 

@@ -1,6 +1,8 @@
----
-title: "In review: And London Burned"
----
++++
+categories = "Review"
+slug = /in-review-and-london-burned/
+title = "In review: And London Burned"
++++
 
 In this 350th year since the [Great Fire of London](https://en.wikipedia.org/wiki/Great_Fire_of_London) in September of 1666, Temple Church has commissioned the new opera by [Matt Rogers](http://www.gameshowoutpatient.com/) and [Sally O'Reilly](http://www.sallyoreilly.org.uk/), *And London Burned*. 
 

@@ -1,6 +1,8 @@
----
-title: "Oundjian conducts a favourite: Vaughan Williams at the TSO"
----
++++
+categories = "Review"
+slug = /oundjian-conducts-a-favourite-vaughan-williams-at-the-tso/
+title = "Oundjian conducts a favourite: Vaughan Williams at the TSO"
++++
 
 What better music to listen to in November than Ralph Vaughan Williams, #AmIRight?
 

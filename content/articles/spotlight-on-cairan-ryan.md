@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Cairan Ryan"
----
++++
+categories = "Interview"
+slug = /spotlight-on-cairan-ryan/
+title = "Spotlight on: Cairan Ryan"
++++
 
 ### 1. Why do you sing, and why are you pursuing it professionally?
 

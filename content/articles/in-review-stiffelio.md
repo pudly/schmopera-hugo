@@ -1,6 +1,8 @@
----
-title: "In Review: Stiffelio"
----
++++
+categories = "Review"
+slug = /in-review-stiffelio/
+title = "In Review: Stiffelio"
++++
 
 On Sunday, I attended the final show of the season by [Voicebox: Opera in Concert](http://www.operainconcert.com/) at the [St. Lawrence Centre for the Arts](http://www.stlc.com/). They presented Verdi's [_Stiffelio_](http://en.wikipedia.org/wiki/Stiffelio#), one of his lesser-known opera written after _Nabucco_ and _Ernani_, but before _La traviata_ and _La forza del destino_. I'd certainly never heard of it, so I was curious.
 

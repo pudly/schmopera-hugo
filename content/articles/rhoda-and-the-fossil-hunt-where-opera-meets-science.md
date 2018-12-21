@@ -1,6 +1,8 @@
----
-title: "Rhoda and the Fossil Hunt: where opera meets science"
----
++++
+categories = "Interview"
+slug = /rhoda-and-the-fossil-hunt-where-opera-meets-science/
+title = "Rhoda and the Fossil Hunt: where opera meets science"
++++
 
 ## What do you find uniquely enjoyable about performing for young audiences?
 

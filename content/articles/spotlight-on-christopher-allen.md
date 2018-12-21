@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Christopher Allen"
----
++++
+categories = "Interview"
+slug = /spotlight-on-christopher-allen/
+title = "Spotlight on: Christopher Allen"
++++
 
 ## How does the role of the conductor differ between opera and symphonic work? 
 

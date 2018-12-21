@@ -1,6 +1,8 @@
----
-title: "Check out: MYOpera"
----
++++
+categories = "Interview"
+slug = /check-out-myopera/
+title = "Check out: MYOpera"
++++
 
 ### 1. What is the mission behind MYOpera?
 

@@ -1,6 +1,8 @@
----
-title: "Sunday Funday: a don&#039;t-miss-it operatic double-header"
----
++++
+categories = "News"
+slug = /sunday-funday-a-dontmissit-operatic-doubleheader/
+title = "Sunday Funday: a don&#039;t-miss-it operatic double-header"
++++
 
 On **Sunday, January 21**, Torontonians are in for a double-header of creative opera events.
 

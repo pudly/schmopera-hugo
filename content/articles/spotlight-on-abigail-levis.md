@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Abigail Levis"
----
++++
+categories = "Interview"
+slug = /spotlight-on-abigail-levis/
+title = "Spotlight on: Abigail Levis"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

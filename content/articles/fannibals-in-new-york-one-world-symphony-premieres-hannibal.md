@@ -1,6 +1,8 @@
----
-title: "Fannibals in New York: One World Symphony premieres Hannibal"
----
++++
+categories = "Review"
+slug = /fannibals-in-new-york-one-world-symphony-premieres-hannibal/
+title = "Fannibals in New York: One World Symphony premieres Hannibal"
++++
 
 [One World Symphony](/scene/companies/one-world-symphony/)’s Sunday premiere of [*Hannibal*](https://www.youtube.com/watch?feature=player_embedded&v=g-E0KcaR2S0) was like a psychopathic serial killer: equally immense and intimate. Mashing Stravinsky's “Sacrificial Dance” up against Fauré’s *Requiem* against composer [Sung Jin Hong](http://www.oneworldsymphony.org/artists_founders.shtml)’s interpretation of a television show made for a sublimely appropriate start to Halloween week. Anytime you place a full orchestra beneath the dome of a small church--in this case the Church of the Holy Apostles in New York City--the sound is enormous. But when the cast then mingles amidst the audience and the church’s pristine columns, you’ve got opera up close. Hong’s tangible approach is fresh, for both seasoned opera-goers and unseasoned “Fannibals” alike. 
  

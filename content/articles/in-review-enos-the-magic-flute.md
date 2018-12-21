@@ -1,6 +1,8 @@
----
-title: "In review: ENO&#039;s The Magic Flute"
----
++++
+categories = "Review"
+slug = /in-review-enos-the-magic-flute/
+title = "In review: ENO&#039;s The Magic Flute"
++++
 
 We caught Simon McBurney's production of *The Magic Flute* at English National Opera, just in the nick of time. It was a beautiful introduction to the London Coliseum, which is lush and cozy all at once, and this *Flute* was full of life, fun, and and fantastic music. 
 

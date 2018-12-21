@@ -1,6 +1,8 @@
----
-title: "The COC Ensemble Studio: Meet the Newbies"
----
++++
+categories = "Editorial"
+slug = /the-coc-ensemble-studio-meet-the-newbies/
+title = "The COC Ensemble Studio: Meet the Newbies"
++++
 
 Yesterday in the Richard Bradshaw Amphitheatre, the Canadian Opera Company's [Ensemble Studio](http://www.coc.ca/AboutTheCOC/CompanyMembers/EnsembleStudio.aspx) kicked off the new season of the [Free Concert Series](http://www.coc.ca/performancesandtickets/freeconcertseries.aspx). This year there are three new singers and one new pianist in the Ensemble. I'll admit the concert wasn't my first encounter with the COC young artists; I've had the opportunity to see them at work in recent weeks, but I was no less excited to hear them all sing their "introductory" arias. I'm a past member of the COC Ensemble, and I have a clear memory of how nerve-wracking this annual inaugural concert is. As refreshing and impressive as the Amphitheatre is, there's something intimidating about the light-filled space, with the audience around and above you. For this[ _Meet the Artists_](http://files.coc.ca/pdfs/concert140923.pdf) concert, the phrase "sing for Grandma" comes to mind.
 

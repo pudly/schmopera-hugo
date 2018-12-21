@@ -1,6 +1,8 @@
----
-title: "In review: Laura Mvula with the LSO"
----
++++
+categories = "Review"
+slug = /in-review-laura-mvula-with-the-lso/
+title = "In review: Laura Mvula with the LSO"
++++
 
 Friday night was a very special event, as Laura Mvula and the London Symphony Orchestra took to the Barbican for one performance only. In front of the gigantic London Symphony Orchestra, Laura Mvula looked just as at home as if she were in her living room, casually dressed in an extravagant gown that sparkled as she sat at the piano. "I didn't really think this dress through," she jokes, as she shuffles the train around the bench.
 

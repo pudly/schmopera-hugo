@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Rhiannon Giddens at Merkin Concert Hall"
----
++++
+categories = "News"
+slug = /dont-miss-rhiannon-giddens-at-merkin-concert-hall/
+title = "Don&#039;t miss: Rhiannon Giddens at Merkin Concert Hall"
++++
 
 Led by Erika Switzer and Martha Guth, New York-based [Sparks & Wiry Cries](http://www.sparksandwirycries.com/) is a recital series, an ezine, and a commissioning program for new art song, and they're hosting their very first fundraising concert.
 

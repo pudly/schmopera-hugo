@@ -1,6 +1,8 @@
----
-title: "Help wanted: Els Comediants bring Barber to Houston"
----
++++
+categories = "Review"
+slug = /help-wanted-els-comediants-bring-barber-to-houston/
+title = "Help wanted: Els Comediants bring Barber to Houston"
++++
 
 The year 1816 was undoubtedly one of the most important ones for opera as we know it, largely because of the 24-year-old Gioachino Rossini. Not only did he revolutionize the world of serious opera with the Naples premiere of his masterful *Otello*, which transformed onstage death in Italian opera (a very French thing) into a trend that would last the entirety of the century, but he had also earlier that year in Rome bequeathed onto the musical world one of his final Italian comic operas, *Il barbiere di Siviglia*, the exemplar of the genre. Though I am indeed inclined to view his serious operas as more musically inspired, indeed, as better compositions, [Houston Grand Opera's performance](http://www.houstongrandopera.org/thebarberofseville) of this on Mendelssohn's birthday was quite genial. Certainly the fact that HM King Felipe VI had recently celebrated his 50th birthday served to put me in a very good mood to appreciate it.
 

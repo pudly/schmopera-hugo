@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Christine Goerke"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-christine-goerke/
+title = "Talking with singers: Christine Goerke"
++++
 
 "He's such a subliminal dude," says soprano [Christine Goerke](/scene/people/christine-goerke/), when I asked her what it was like to sing Wagner's music. "I love it, and it fits."
 

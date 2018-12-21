@@ -1,6 +1,8 @@
----
-title: "Call for submissions: Mahogany Opera Group&#039;s Various Stages"
----
++++
+categories = "News"
+slug = /call-for-submissions-mahogany-opera-groups-various-stages/
+title = "Call for submissions: Mahogany Opera Group&#039;s Various Stages"
++++
 
 [Mahogany Opera Group](/scene/companies/mahogany-opera-group/) is inviting artists to submit their ideas for their 2017 [Various Stages](http://www.mahoganyoperagroup.co.uk/productions/various-stages/) Festival.
 

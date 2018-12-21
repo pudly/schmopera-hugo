@@ -1,6 +1,8 @@
----
-title: "Leonard reigns as Rosina in WNO&#039;s Barber"
----
++++
+categories = "Review"
+slug = /leonard-reigns-as-rosina-in-wnos-barber/
+title = "Leonard reigns as Rosina in WNO&#039;s Barber"
++++
 
 As the lights came up to signal intermission after the first half of [*The Barber of Seville*](http://www.kennedy-center.org/calendar/event/OSOSE) presented by Washingtion National Opera on Saturday evening, I turned to my companion and asked, "what did I just watch?"  
 

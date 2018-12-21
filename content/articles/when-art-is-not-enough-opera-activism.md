@@ -1,6 +1,8 @@
----
-title: "When art is not enough: opera &amp; activism"
----
++++
+categories = "Editorial"
+slug = /when-art-is-not-enough-opera-activism/
+title = "When art is not enough: opera &amp; activism"
++++
 
 ## Xenophobia and racism
 

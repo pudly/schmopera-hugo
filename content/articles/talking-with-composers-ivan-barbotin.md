@@ -1,6 +1,8 @@
----
-title: "Talking with composers: Ivan Barbotin"
----
++++
+categories = "Interview"
+slug = /talking-with-composers-ivan-barbotin/
+title = "Talking with composers: Ivan Barbotin"
++++
 
 ## How would you describe your musical aesthetic? How have you heard it described by others?
 

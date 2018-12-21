@@ -1,6 +1,8 @@
----
-title: "The score: how to see what a composer sees"
----
++++
+categories = "Op-ed"
+slug = /the-score-how-to-see-what-a-composer-sees/
+title = "The score: how to see what a composer sees"
++++
 
 Most classical musicians spend their time in a very one-sided relationship with the score. The score says something, you do your best to figure out what it means, and you to do it. End of process. This works reasonably well for some very detailed scores like Poulenc and Britten opera (Britten folk songs are a completely different story). But other music, generally with less precise or detailed scores, often demands a degree of interpretation; while the music is great, the page is sometimes really boring. I’m looking at you, Schubert.
 

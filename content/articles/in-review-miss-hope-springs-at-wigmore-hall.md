@@ -1,6 +1,8 @@
----
-title: "In review: Miss Hope Springs at Wigmore Hall"
----
++++
+categories = "Review"
+slug = /in-review-miss-hope-springs-at-wigmore-hall/
+title = "In review: Miss Hope Springs at Wigmore Hall"
++++
 
 The audience tittered, shuffling in their seats as the lights came down in Wigmore Hall late last night. Before the stage door had opened there was already a sense of community among these bums-in-seats, familiar faces greeting each other like long time friends, and strangers being welcomed into what was surely going to be a night to remember. Although I was seated alone in a row by myself, I received so many warm smiles from people whom I had never met. 
 

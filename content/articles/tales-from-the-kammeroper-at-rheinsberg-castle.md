@@ -1,6 +1,8 @@
----
-title: "Tales from the Kammeroper at Rheinsberg Castle"
----
++++
+categories = "Interview"
+slug = /tales-from-the-kammeroper-at-rheinsberg-castle/
+title = "Tales from the Kammeroper at Rheinsberg Castle"
++++
 
 ## Can you describe a day in the life at this summer's Rheinsberg Festival?
 

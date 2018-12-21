@@ -1,6 +1,8 @@
----
-title: "In review: The Seven Deadly Sins at TSO"
----
++++
+categories = "Review"
+slug = /in-review-the-seven-deadly-sins-at-tso/
+title = "In review: The Seven Deadly Sins at TSO"
++++
 
 Wednesday night was a fab night for music in Toronto with the [Toronto Symphony Orchestra](/scene/companies/toronto-symphony-orchestra/).
 

@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Daniel Okulitch"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-daniel-okulitch/
+title = "Talking with singers: Daniel Okulitch"
++++
 
 ## Why do you sing?     
  

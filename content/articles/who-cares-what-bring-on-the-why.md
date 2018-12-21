@@ -1,6 +1,8 @@
----
-title: "Who cares what? Bring on the why"
----
++++
+categories = "Op-ed"
+slug = /who-cares-what-bring-on-the-why/
+title = "Who cares what? Bring on the why"
++++
 
 If I were the artistic director of my own opera company, I'd probably enjoy putting up whatever shows I please. There would be a lot of Britten in my seasons. The question would be, would people want to go see the shows I like best?
 

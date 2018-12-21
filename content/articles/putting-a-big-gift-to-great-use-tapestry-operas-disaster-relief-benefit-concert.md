@@ -1,6 +1,8 @@
----
-title: "Putting a big gift to great use: Tapestry Opera&#039;s Disaster Relief Benefit concert"
----
++++
+categories = "News"
+slug = /putting-a-big-gift-to-great-use-tapestry-operas-disaster-relief-benefit-concert/
+title = "Putting a big gift to great use: Tapestry Opera&#039;s Disaster Relief Benefit concert"
++++
 
 This coming Wednesday, **October 25**, Tapestry Opera presents two concerts in one night, both sending proceeds towards the disaster relief efforts in Puerto Rico, Dominica, Mexico, and India, and the work being done by Medecins san Frontieres and Global Medic.
 

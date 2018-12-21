@@ -1,6 +1,8 @@
----
-title: "In review: Tristan and Isolde at ENO"
----
++++
+categories = "Review"
+slug = /in-review-tristan-and-isolde-at-eno/
+title = "In review: Tristan and Isolde at ENO"
++++
 
 Daniel Kramer's is the first new production of [*Tristan and Isolde*](https://www.eno.org/whats-on/tristan-and-isolde/) at [English National Opera](/scene/companies/english-national-opera/) in 20 years, and after his recent appointment as ENO Artistic Director, his *Tristan* seemed like an unofficial introduction to his aesthetic. 
 

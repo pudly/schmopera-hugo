@@ -1,6 +1,8 @@
----
-title: "Mozart ladies with a twist: Miriam Khalil &amp; Shantelle Przybylo"
----
++++
+categories = "Interview"
+slug = /mozart-ladies-with-a-twist-miriam-khalil-shantelle-przybylo/
+title = "Mozart ladies with a twist: Miriam Khalil &amp; Shantelle Przybylo"
++++
 
 ## Two unique character back-stories
 

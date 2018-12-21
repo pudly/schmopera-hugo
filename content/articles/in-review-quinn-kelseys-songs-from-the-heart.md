@@ -1,6 +1,8 @@
----
-title: "In review: Quinn Kelsey&#039;s Songs from the Heart"
----
++++
+categories = "Review"
+slug = /in-review-quinn-kelseys-songs-from-the-heart/
+title = "In review: Quinn Kelsey&#039;s Songs from the Heart"
++++
 
 Hawaiian baritone [Quinn Kelsey](/scene/people/quinn-kelsey/) strode into the [Richard Bradshaw Amphitheatre](https://www.google.com/analytics/web/?hl=en#report/visitors-overview/a46647120w77702325p80325527/), wearing black cowboy boots with his three-piece suit, and said to the audience, "I apologize in advance for cheat sheets."
 

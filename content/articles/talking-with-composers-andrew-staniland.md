@@ -1,6 +1,8 @@
----
-title: "Talking with composers: Andrew Staniland"
----
++++
+categories = "Interview"
+slug = /talking-with-composers-andrew-staniland/
+title = "Talking with composers: Andrew Staniland"
++++
 
 ## How would you describe your musical aesthetic? How have you heard it described by others?
 

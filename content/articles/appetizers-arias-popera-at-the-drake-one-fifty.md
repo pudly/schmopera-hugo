@@ -1,6 +1,8 @@
----
-title: "Appetizers &amp; arias: Popera! at the Drake One Fifty"
----
++++
+categories = "Editorial"
+slug = /appetizers-arias-popera-at-the-drake-one-fifty/
+title = "Appetizers &amp; arias: Popera! at the Drake One Fifty"
++++
 
 A welcome addition to the cool decor at the Drake One Fifty - a mix of classy, organic, and even diner-chic - was the bar-adjacent grand piano. 
 

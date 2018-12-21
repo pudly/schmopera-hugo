@@ -1,6 +1,8 @@
----
-title: "She said, they said: crossed wires in Buenos Aires"
----
++++
+categories = "Editorial"
+slug = /she-said-they-said-crossed-wires-in-buenos-aires/
+title = "She said, they said: crossed wires in Buenos Aires"
++++
 
 Well, two sides of a weird story about [Angela Gheorghiu](/talking-with-singers-angela-gheorghiu/) and Teatro Colón in Buenos Aires have surfaced.
 

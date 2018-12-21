@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Beatrix Potter at Edinburgh Fringe"
----
++++
+categories = "Interview"
+slug = /dont-miss-beatrix-potter-at-edinburgh-fringe/
+title = "Don&#039;t miss: Beatrix Potter at Edinburgh Fringe"
++++
 
 ## What connection do you have personally to the stories of Beatrix Potter?
 

@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Hyesang Park"
----
++++
+categories = "Interview"
+slug = /spotlight-on-hyesang-park/
+title = "Spotlight on: Hyesang Park"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

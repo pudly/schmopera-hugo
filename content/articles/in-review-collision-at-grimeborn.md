@@ -1,6 +1,8 @@
----
-title: "In review: Collision at Grimeborn"
----
++++
+categories = "Review"
+slug = /in-review-collision-at-grimeborn/
+title = "In review: Collision at Grimeborn"
++++
 
 Among the five operas being performed as part of the Grimeborn 2017 summer season, we saw Spectra Ensemble’s performance of [*Collision*](http://www.arcolatheatre.com/event/collision-2017-08-18/), a new opera with music by Lewis Coenen-Rowe set to a text written by Kurt Schwitters in 1928. The ensemble accurately describes the piece as "part absurdist science-fiction, part sultry cabaret," and it definitely has the underground club feeling, taking place literally underground in the basement of the Arcola Theatre in East London.
 

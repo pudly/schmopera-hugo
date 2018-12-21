@@ -1,6 +1,8 @@
----
-title: "Why we all love Florence Foster Jenkins"
----
++++
+categories = "Editorial"
+slug = /why-we-all-love-florence-foster-jenkins/
+title = "Why we all love Florence Foster Jenkins"
++++
 
 Within the competitive industry of opera singers, full of high standards and aspirations of pitch-perfection, why is it that we have such unashamed love for history's most famous terrible singer?
 

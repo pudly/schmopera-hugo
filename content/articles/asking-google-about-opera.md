@@ -1,6 +1,8 @@
----
-title: "Asking Google About Opera"
----
++++
+categories = "Humour"
+slug = /asking-google-about-opera/
+title = "Asking Google About Opera"
++++
 
 <p>
 	I saw <a href="http://bsomusic.org/stories/what-is-the-internet-asking-google-about-an-orchestra.aspx" target="_blank">this image from the Baltimore Symphony Orchestra</a> floating around the Internet, showing us all what the Googling public asks about the different orchestral instruments. I thought it was funny enough, so I compiled some of the broader Google searches related to the opera singers and their voice types.

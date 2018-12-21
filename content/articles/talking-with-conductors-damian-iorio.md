@@ -1,6 +1,8 @@
----
-title: "Talking with conductors: Damian Iorio"
----
++++
+categories = "Interview"
+slug = /talking-with-conductors-damian-iorio/
+title = "Talking with conductors: Damian Iorio"
++++
 
 ### What does it feel like to conduct an orchestra and singers, when everything is going right?
 

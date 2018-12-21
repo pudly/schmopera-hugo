@@ -1,6 +1,8 @@
----
-title: "Slippery slopes"
----
++++
+categories = "Editorial"
+slug = /slippery-slopes/
+title = "Slippery slopes"
++++
 
 You've likely heard it said by singers for decades: opera is all about the voice. It's not correct to say that it's *only* about the voice, but it's certainly hard for opera to be the affective art that it is without that one element firmly in place.
 

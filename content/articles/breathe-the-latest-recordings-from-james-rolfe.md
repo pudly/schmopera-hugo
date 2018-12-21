@@ -1,6 +1,8 @@
----
-title: "Breathe: the latest recordings from James Rolfe"
----
++++
+categories = "Interview"
+slug = /breathe-the-latest-recordings-from-james-rolfe/
+title = "Breathe: the latest recordings from James Rolfe"
++++
 
 ## What can people expect from this collection of new music written with old instruments in mind?
 

@@ -1,6 +1,8 @@
----
-title: "Introducing...the Schmug!"
----
++++
+categories = "News"
+slug = /introducingthe-schmug/
+title = "Introducing...the Schmug!"
++++
 
 If you're a fan of opera, there's a good chance you're also a fan of curling up with your hot beverage of choice.
 

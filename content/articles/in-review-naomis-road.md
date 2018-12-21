@@ -1,6 +1,8 @@
----
-title: "In review: Naomi&#039;s Road"
----
++++
+categories = "Review"
+slug = /in-review-naomis-road/
+title = "In review: Naomi&#039;s Road"
++++
 
 On Wednesday, November 16th, 2016 my eyes were opened. It's already been a pretty stellar season for opera here in Toronto every company is pulling out all the stops. Tonight, however, I found myself being told a story that I should have been told long ago - a story I should have learned in school and a story that should be talked about and addressed more in today's society. 
 

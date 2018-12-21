@@ -1,6 +1,8 @@
----
-title: "In review: Roberto Devereux"
----
++++
+categories = "Review"
+slug = /in-review-roberto-devereux/
+title = "In review: Roberto Devereux"
++++
 
 Since the dress rehearsal of the Canadian Opera Company's [_Roberto Devereux,_](http://www.coc.ca/PerformancesAndTickets/1314Season/RobertoDevereux.aspx) my Facebook and Twitter feeds have been flipping out about American soprano [Sondra Radvanovksy](http://www.sondraradvanovsky.com/)'s performance as Queen Elizabeth I. So I was really eager to see it for myself.
 

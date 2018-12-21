@@ -1,6 +1,8 @@
----
-title: "In review: Die Walküre at the COC"
----
++++
+categories = "Review"
+slug = /in-review-die-walkre-at-the-coc/
+title = "In review: Die Walküre at the COC"
++++
 
 <p>
 	Last night I finally got the chance to satisfy my curiosity, by seeing the <a href="http://www.coc.ca/PerformancesAndTickets/1415Season/DieWalkure.aspx" target="_blank">Canadian Opera Company's current production of <i>Die Walküre</i></a>, directed by Atom Egoyan (and running until Feb. 22). Since the 2014/15 season was announced, I had been eager to see Egoyan's take on Wagner, and to hear <a href="http://www.christinegoerke.com/" target="_blank">Christine Goerke</a> as Brünnhilde. The women singing the Valkyries themselves included a few friends and colleagues of mine, which always adds a new level of anticipation. I missed the earlier runs of this production, in 2004 and 2006, making me feel slightly out of some <em>Ring Cycle</em> loop. Maybe it's surprising that Wagner isn't my go-to choice for opera listening, but I've learned never to doubt the mesmerizing effect on me. <em>Die Walküre</em> certainly drew me in; now that I'm one quarter into the <em>Ring Cycle</em> loop, I kind of can't wait to see <em>Siegfried</em>.

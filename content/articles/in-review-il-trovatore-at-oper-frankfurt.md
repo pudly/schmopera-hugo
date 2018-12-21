@@ -1,6 +1,8 @@
----
-title: "In review: Il trovatore at Oper Frankfurt"
----
++++
+categories = "Review"
+slug = /in-review-il-trovatore-at-oper-frankfurt/
+title = "In review: Il trovatore at Oper Frankfurt"
++++
 
 Schmopera first reviewed this co-production of Il trovatore at the Royal Opera House in London [last December](https://www.schmopera.com/in-review-il-trovatore-at-roh/). 
 

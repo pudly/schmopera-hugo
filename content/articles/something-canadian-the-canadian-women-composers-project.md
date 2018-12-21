@@ -1,6 +1,8 @@
----
-title: "&quot;Something Canadian&quot;: the Canadian Women Composers Project"
----
++++
+categories = "News"
+slug = /something-canadian-the-canadian-women-composers-project/
+title = "&quot;Something Canadian&quot;: the Canadian Women Composers Project"
++++
 
 When soprano Clarisse Tonigussi was on the hunt for "something Canadian" to include on her graduating recital, she learned that it was surprisingly easy to fill a programme with music written by men. "It was in that moment I realized that I need to learn more about the music written by our women, here in Canada."
 

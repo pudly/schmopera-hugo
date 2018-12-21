@@ -1,6 +1,8 @@
----
-title: "Pavarotti&#039;s &quot;Nessun dorma&quot; &amp; the Trump campaign"
----
++++
+categories = "Editorial"
+slug = /pavarottis-nessun-dorma-the-trump-campaign/
+title = "Pavarotti&#039;s &quot;Nessun dorma&quot; &amp; the Trump campaign"
++++
 
 The family of the late Luciano Pavarotti wants Donald Trump to stop using the famed tenor's recordings as a soundtrack for his campaign events. The Trump campaign has featured Pavarotti's rendition of "Nessun dorma" from *Turandot* as part of their rally music, for mysterious reasons.
 

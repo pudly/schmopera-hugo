@@ -1,6 +1,8 @@
----
-title: "Fostering Maestras: The Institute for Women Conductors at The Dallas Opera"
----
++++
+categories = "Interview"
+slug = /fostering-maestras-the-institute-for-women-conductors-at-the-dallas-opera/
+title = "Fostering Maestras: The Institute for Women Conductors at The Dallas Opera"
++++
 
 <h2>1. Why is the Institute for Women Conductors an important program in today's classical music scene?</h2>
 <p>

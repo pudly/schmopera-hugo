@@ -1,6 +1,8 @@
----
-title: "Talking with composers: Adam Scime"
----
++++
+categories = "Interview"
+slug = /talking-with-composers-adam-scime/
+title = "Talking with composers: Adam Scime"
++++
 
 ## How would you describe your musical aesthetic? How have you heard it described by others?
 

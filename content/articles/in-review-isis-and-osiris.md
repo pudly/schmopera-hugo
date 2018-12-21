@@ -1,6 +1,8 @@
----
-title: "In review: Isis and Osiris"
----
++++
+categories = "Review"
+slug = /in-review-isis-and-osiris/
+title = "In review: Isis and Osiris"
++++
 
 I spent a snowy, blustery, Sunday afternoon in the comfort of the St. Lawrence Centre's Jane Mallett Theatre to witness the culmination of over four years of preparation for the world premiere of Peter-Anthony Togni and Sharon Singer's *Isis and Osiris: Gods of Egypt*. Presented by the new incarnation of one of Toronto's oldest opera companies, [VOICEBOX: Opera In Concert](/scene/companies/voicebox-opera-in-concert/), *Isis and Osiris* was from start to finish a delicious, musical feast. 
 

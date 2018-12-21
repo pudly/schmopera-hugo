@@ -1,6 +1,8 @@
----
-title: "In review: Lucia di Lammermoor at Opera By Request"
----
++++
+categories = "Review"
+slug = /in-review-lucia-di-lammermoor-at-opera-by-request/
+title = "In review: Lucia di Lammermoor at Opera By Request"
++++
 
 Last night I went to see _Lucia di Lammermoor_ with [Opera By Request](http://operabyrequest.ca/wordpress/). It was one of those nights I often have in Toronto, where a good chunk of the cast is made up of friends and colleagues, and my curiosity was piqued to hear some of these young singers in their _Lucia_ roles. OBR does their shows in concert, and _Lucia_ is a great piece to put up in this kind of setting; the music stands on its own, after all. In some ways, _bel canto_ is better in concert; the whole point is to show off some great singing, and clearing away sets and costumes pulls the focus right to the music.
 

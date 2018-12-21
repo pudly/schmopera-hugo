@@ -1,6 +1,8 @@
----
-title: "Tales from the Score: Zerbinetta"
----
++++
+categories = "Humour"
+slug = /tales-from-the-score-zerbinetta/
+title = "Tales from the Score: Zerbinetta"
++++
 
 <h2>1. "Verwandlungen," or, "Transformations"</h2>
 <figure data-type="image"><a href="/webhook-uploads/1428724560157/IMG_20150220_162716-1024x758.jpg"><img data-resize-src="http://lh3.googleusercontent.com/JQ5iypATtCVBRbJ9ckf7kQnhMmV1wLeK_cSMbqfMTUDDPVUP8ehk8OuCiMTvNo05DPC4OSqNegJr-Ue5gR1VE3UrSKLk" src="http://lh3.googleusercontent.com/JQ5iypATtCVBRbJ9ckf7kQnhMmV1wLeK_cSMbqfMTUDDPVUP8ehk8OuCiMTvNo05DPC4OSqNegJr-Ue5gR1VE3UrSKLk=s1200"></a></figure>

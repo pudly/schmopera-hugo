@@ -1,6 +1,8 @@
----
-title: "In review: Ivan Magrì at Wigmore Hall"
----
++++
+categories = "Review"
+slug = /in-review-ivan-magr-at-wigmore-hall/
+title = "In review: Ivan Magrì at Wigmore Hall"
++++
 
 It's not hard to understand why so many singers point to recital work as some of the most nerve-wracking moments in their professional lives - far moreso than performing for thousands in an opera house. Sicilian tenor Ivan Magrì, in his [Rosenblatt Recital](/ian-rosenblatt-its-all-about-the-voice/) with pianist Iain Burnside, proved himself a true product of the operatic stage; his biography is littered with enviable tenor roles like the Duke of Mantua, Rodolfo, and Alfredo, and his training is firmly rooted in the Italian school.
 

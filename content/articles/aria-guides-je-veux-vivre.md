@@ -1,6 +1,8 @@
----
-title: "Aria Guides: &quot;Je veux vivre&quot;"
----
++++
+categories = "How-to"
+slug = /aria-guides-je-veux-vivre/
+title = "Aria Guides: &quot;Je veux vivre&quot;"
++++
 
 1. What a way to start an aria, am I right? This line takes a lot of patient practice, and drilling the intonation is easier if you check your pitch on the piano, in four octaves - hearing the pitch is much easier than with a single note to match. Take advantage of the articulations that Gounod writes, too; you can be almost instrumental in the way you attack each note, and this squareness will help you stay in tune. The last detail to make your life easier: make sure that the last C-natural of Juliette's first bar is easy and vibrating.<figure data-type="image">
 ![](/webhook-uploads/1452532571714/Aria-Guide---Je-veux-vivre-1---annotated.jpg)

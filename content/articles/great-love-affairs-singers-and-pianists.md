@@ -1,6 +1,8 @@
----
-title: "Great love affairs: singers and pianists"
----
++++
+categories = "Editorial"
+slug = /great-love-affairs-singers-and-pianists/
+title = "Great love affairs: singers and pianists"
++++
 
 Up there on the list of life's great pairings - like wine & cheese, peanut butter & jelly, and bubble baths & books - is the formidable combination of singer and pianist.
 

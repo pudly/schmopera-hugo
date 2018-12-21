@@ -1,6 +1,8 @@
----
-title: "Sung Jin Hong: Seoul searching"
----
++++
+categories = "Op-ed"
+slug = /sung-jin-hong-seoul-searching/
+title = "Sung Jin Hong: Seoul searching"
++++
 
 **Seoul-Searching Through the Mountains of Korea and Celebrating 1,700 Years of its Culinary Heritage with Buddhist Chef Beop Song and Venerable Soo Am**
 

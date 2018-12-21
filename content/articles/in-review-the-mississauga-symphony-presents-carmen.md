@@ -1,6 +1,8 @@
----
-title: "In review: the Mississauga Symphony presents Carmen"
----
++++
+categories = "Review"
+slug = /in-review-the-mississauga-symphony-presents-carmen/
+title = "In review: the Mississauga Symphony presents Carmen"
++++
 
 On Saturday night, I did something new. I went to see an opera in Mississauga. 
 

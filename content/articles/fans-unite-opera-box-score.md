@@ -1,6 +1,8 @@
----
-title: "Fans unite: Opera Box Score"
----
++++
+categories = "Editorial"
+slug = /fans-unite-opera-box-score/
+title = "Fans unite: Opera Box Score"
++++
 
 As devoted as opera fans can be, the passion of a sports fan can be an impressive thing. And, as baffling as it may be for those of us deeply entrenched in band-geekdom, there are indeed opera fans who are *also* sports fans. Weird, right?
 

@@ -1,6 +1,8 @@
----
-title: "Strange inside: The Tender Land"
----
++++
+categories = "Review"
+slug = /strange-inside-the-tender-land/
+title = "Strange inside: The Tender Land"
++++
 
 American opera set against a beautiful Iowan backdrop. [Des Moines Metro Opera](/scene/companies/des-moines-metro-opera/)'s picturesque production of Aaron Copland's *The Tender Land* provided a welcoming and intimate opera experience that felt truly Midwestern.
 

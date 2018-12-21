@@ -1,6 +1,8 @@
----
-title: "4 tips for when there are too many notes"
----
++++
+categories = "How-to"
+slug = /4-tips-for-when-there-are-too-many-notes/
+title = "4 tips for when there are too many notes"
++++
 
 ### Break long runs into phrases
 

@@ -1,6 +1,8 @@
----
-title: "5 opera mothers from hell"
----
++++
+categories = "Humour"
+slug = /5-opera-mothers-from-hell/
+title = "5 opera mothers from hell"
++++
 
 ## The Queen of the Night in *Die Zauberflöte*
 

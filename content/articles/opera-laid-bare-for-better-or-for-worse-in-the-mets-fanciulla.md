@@ -1,6 +1,8 @@
----
-title: "Opera laid bare, for better or for worse in the Met&#039;s Fanciulla"
----
++++
+categories = "Review"
+slug = /opera-laid-bare-for-better-or-for-worse-in-the-mets-fanciulla/
+title = "Opera laid bare, for better or for worse in the Met&#039;s Fanciulla"
++++
 
 It had been a good handful of seasons since I last saw a live cinema broadcast in the Metropolitan Opera's *Live in HD* series. I had contented myself with the Met's *On Demand* collection, watching the archived videos on my own time, on my own couch. But for [*La fanciulla del West*](https://www.metopera.org/season/2018-19-season/la-fanciulla-del-west/) - and a bit for Jonas Kaufmann, I admit - I made the trek to my nearest Cineplex theatre.
 

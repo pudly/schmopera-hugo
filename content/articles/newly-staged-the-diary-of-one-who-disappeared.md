@@ -1,6 +1,8 @@
----
-title: "Newly staged: The Diary of One Who Disappeared"
----
++++
+categories = "Review"
+slug = /newly-staged-the-diary-of-one-who-disappeared/
+title = "Newly staged: The Diary of One Who Disappeared"
++++
 
 In a new staging of *The Diary of the One Who Vanished*, the Belgian director Ivo van Hove adds rich new layers of meaning to Janáček's song cycle. Presented at Grand Théâtre de Luxembourg on January 4 and 5, 2018, the production inserted new music from the Belgian composer Annelies van Parys and recitations of Janáček's letters to his young muse Kamila Stösslová into to the body of Janáček's 22-movement song cycle. 
 

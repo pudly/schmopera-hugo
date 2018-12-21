@@ -1,6 +1,8 @@
----
-title: "5 Frankenstein-themed shorts leave you wanting more"
----
++++
+categories = "Review"
+slug = /5-frankensteinthemed-shorts-leave-you-wanting-more/
+title = "5 Frankenstein-themed shorts leave you wanting more"
++++
 
 In what I hope will emerge as a trend in London, The Royal College of Music and [Tête à Tête](/scene/companies/tete-a-tete/) presented five new one-act chamber operas in one night, all inspired by Frankenstein; or, the Modern Prometheus, following the 200 year anniversary of Mary Shelley's novel. Five separate teams of composers and librettists collaborated to create these operas, which all benefited greatly from bright and skilled direction from Bill Bankes-Jones, as well as innovative design from Sarah Booth and Ralph Stokeld. The orchestra dazzled under the baton of Natalie Murray Beale and outstanding students from the RCM in the pit.
 

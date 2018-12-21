@@ -1,6 +1,8 @@
----
-title: "4 ways that opera really is life"
----
++++
+categories = "Editorial"
+slug = /4-ways-that-opera-really-is-life/
+title = "4 ways that opera really is life"
++++
 
 It's clear that we, the Schmopera folks, have a passion for opera, and [like a lot of artsy types](http://www.overthoughtpodcast.com/), we also have a fascination with human nature. The two are linked, of course, and every once in a while, something about opera stands out as particularly representative of our tendencies and behaviours. 
 

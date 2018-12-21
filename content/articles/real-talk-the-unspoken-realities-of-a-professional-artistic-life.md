@@ -1,6 +1,8 @@
----
-title: "Real talk: the unspoken realities of a professional artistic life"
----
++++
+categories = "Op-ed"
+slug = /real-talk-the-unspoken-realities-of-a-professional-artistic-life/
+title = "Real talk: the unspoken realities of a professional artistic life"
++++
 
 We've all had those conversations with close friends and colleagues – the ones about how to navigate the finances of being a freelance artist, what it means for our taxes and health insurance, and how we're to build a life on this career. I feel like these topics come up more often than not over drinks with a few of my more trusted colleagues. 
 

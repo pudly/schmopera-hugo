@@ -1,6 +1,8 @@
----
-title: "10 Years of the Met at the Movies"
----
++++
+categories = "News"
+slug = /10-years-of-the-met-at-the-movies/
+title = "10 Years of the Met at the Movies"
++++
 
 2015/16 marks the 10th anniversary season of [The Met: Live in HD](https://cineplexfiles.s3.amazonaws.com/Events/MetOpera/2016/MET_Opera_LiveInHD-FINAL.pdf), and they're celebrating with a meaty selection to show off the best of opera. The season starts with *Il trovatore* on [October 3rd](http://www.cineplex.com/Events/MetOpera), starring [Anna Netrebko](/scene/people/anna-netrebko/), Dolora Zajick, and star baritone [Dmitri Hvorostovsky](http://www.wqxr.org/#!/story/ailing-baritone-showered-roses-metropolitan-opera-return/). Non-New Yorkers can get their Met fix in over 2000 venues worldwide ([click here](http://www.cineplex.com/Events/MetOpera/ParticipatingTheatres) to find a participating Cineplex theatre near you).
 

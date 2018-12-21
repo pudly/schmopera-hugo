@@ -1,6 +1,8 @@
----
-title: "SFO: tickets for tweets"
----
++++
+categories = "News"
+slug = /sfo-tickets-for-tweets/
+title = "SFO: tickets for tweets"
++++
 
 [San Francisco Opera](/scene/companies/san-francisco-opera/) has an exciting message for Twitter-savvy opera fans:
 

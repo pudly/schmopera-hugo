@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Sondra Radvanovsky"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-sondra-radvanovsky/
+title = "Talking with singers: Sondra Radvanovsky"
++++
 
 "If anybody could do it, everyone would be doing it," says star soprano [Sondra Radvanovsky](/scene/people/sondra-radvanovsky/) of the kind of singing that sets her apart as one of the top opera divas of today. Hers are definitive performances of Bellini's [Norma](/review-sondra-slays-in-bellini-masterwork/), Verdi's Leonora (*Il trovatore*), and Donizetti's Three Queens (*Maria Stuarda*, *Anna Bolena*, and Queen Elizabeth I in *Roberto Devereux*); until December 12, Radvanovsky is at the [Royal Opera House](/scene/companies/royal-opera-house/), singing the title role in Puccini's [*Manon Lescaut*](http://www.roh.org.uk/productions/manon-lescaut-by-jonathan-kent), conducted by Antonio Pappano and directed by Jonathan Kent.
 

@@ -1,6 +1,8 @@
----
-title: "How many fairies, exactly?"
----
++++
+categories = "Op-ed"
+slug = /how-many-fairies-exactly/
+title = "How many fairies, exactly?"
++++
 
 Alright, so [Opera on the Avalon](http://www.operaontheavalon.com/) has a sense of humour. They put up a billboard to advertise Britten's _A Midsummer Night's Dream_, one of two shows the program will present this summer in St. John's, Newfoundland. The billboard, I thought, was funny. The slogan for _Midsummer_ was, "Filled with more fairies than St. John's on Pride Day." Snort.
 

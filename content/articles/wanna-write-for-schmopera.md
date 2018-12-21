@@ -1,6 +1,8 @@
----
-title: "Wanna Write for Schmopera?"
----
++++
+categories = "Editorial"
+slug = /wanna-write-for-schmopera/
+title = "Wanna Write for Schmopera?"
++++
 
 Alright, readers, listen up: Schmopera is on the hunt for guest contributors!
 

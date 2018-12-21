@@ -1,6 +1,8 @@
----
-title: "Missing the point: the Met&#039;s 2015/16 season"
----
++++
+categories = "Op-ed"
+slug = /missing-the-point-the-mets-201516-season/
+title = "Missing the point: the Met&#039;s 2015/16 season"
++++
 
 <p>
 	It's old news by now, but the <a href="http://www.metopera-digital.org/metmobile/2015-16_season_subscriptions#pg1" target="_blank">Metropolitan Opera has announced its season line-up for 2015/2016</a>. I waited a bit before writing about the season, because I couldn't seem to shake distinct feelings of exasperation. I figured that someone with more journalistic experience than myself would soon weigh in, shedding some light on what I thought were glaringly obvious problems with the Met's 15/16 season.

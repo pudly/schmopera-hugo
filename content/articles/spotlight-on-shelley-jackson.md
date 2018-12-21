@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Shelley Jackson"
----
++++
+categories = "Interview"
+slug = /spotlight-on-shelley-jackson/
+title = "Spotlight on: Shelley Jackson"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

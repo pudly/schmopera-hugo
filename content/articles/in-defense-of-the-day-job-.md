@@ -1,6 +1,8 @@
----
-title: "In defense of the &quot;day&quot; job "
----
++++
+categories = "Op-ed"
+slug = /in-defense-of-the-day-job-/
+title = "In defense of the &quot;day&quot; job "
++++
 
 Some of us singers are lucky enough to emerge from undergrad/grad-school and jump straight
 into young artist programs, performance diplomas, summer stock - gigs that not only pay the

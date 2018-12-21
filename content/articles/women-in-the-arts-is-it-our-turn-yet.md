@@ -1,6 +1,8 @@
----
-title: "Women in the arts: is it our turn, yet?"
----
++++
+categories = "Editorial"
+slug = /women-in-the-arts-is-it-our-turn-yet/
+title = "Women in the arts: is it our turn, yet?"
++++
 
 Last week we went to the [Advance Symposium](http://www.tonictheatre-advance.co.uk/) led by Lucy Kerbel of London's [Tonic Theatre](http://www.tonictheatre.co.uk/), where they and 9 other arts organizations presented [research on the topic of gender imbalances](http://www.tonictheatre-advance.co.uk/advance-2016/insights/) in theatre, dance, and opera.
 

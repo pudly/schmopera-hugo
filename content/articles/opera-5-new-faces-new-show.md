@@ -1,6 +1,8 @@
----
-title: "Opera 5: new faces, new show"
----
++++
+categories = "Interview"
+slug = /opera-5-new-faces-new-show/
+title = "Opera 5: new faces, new show"
++++
 
 Along with their upcoming production of Rossini's [*Il barbiere di Siviglia*, **June 13-17**](http://opera5.ca/barber/) at Toronto's Factory Theatre, Opera 5 is rolling out the exciting news of their new leadership.
 

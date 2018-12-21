@@ -1,6 +1,8 @@
----
-title: "Artists to watch: 2 new singing stars of tomorrow"
----
++++
+categories = "News"
+slug = /artists-to-watch-2-new-singing-stars-of-tomorrow/
+title = "Artists to watch: 2 new singing stars of tomorrow"
++++
 
 Hello Schmop-Tops!
 

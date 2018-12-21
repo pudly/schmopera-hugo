@@ -1,6 +1,8 @@
----
-title: "Fidelio at Oshawa Opera"
----
++++
+categories = "Interview"
+slug = /fidelio-at-oshawa-opera/
+title = "Fidelio at Oshawa Opera"
++++
 
 ## 1. Why did you choose Fidelio?
 

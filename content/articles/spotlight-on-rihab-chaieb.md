@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Rihab Chaieb"
----
++++
+categories = "Interview"
+slug = /spotlight-on-rihab-chaieb/
+title = "Spotlight on: Rihab Chaieb"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

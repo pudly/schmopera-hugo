@@ -1,6 +1,8 @@
----
-title: "Aria guides: &quot;Mi chiamano Mimì&quot;"
----
++++
+categories = "How-to"
+slug = /aria-guides-mi-chiamano-mim/
+title = "Aria guides: &quot;Mi chiamano Mimì&quot;"
++++
 
 1. This is the beauty of Puccini. He writes down everything you need to know, like this portamentos. The trick with this style of portamento is to make sure it's fully sung, on the initial vowel. In the first measure, take care to get spinning on the first B-flat, with a nice [ɔ] vowel; as you get to the top, you'll actually be singing that E-natural while still on the "-no" of "chiamano". It's almost like you get to the E early, and you're already sustaining that same pitch when you change to the word "Mimì". This is a subtle stylistic difference between Italian portamentos, and the kind you'd find in Massenet, for example. It shouldn't be the whole point of the gesture, just know that you have the time to really get to where you're going on the first vowel, before shifting to the next.<figure data-type="image">
 ![](/webhook-uploads/1464208810682/Aria-Guides---Mimi---annotated---p1.jpg)

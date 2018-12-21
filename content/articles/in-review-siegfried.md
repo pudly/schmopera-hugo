@@ -1,6 +1,8 @@
----
-title: "In review: Siegfried"
----
++++
+categories = "Review"
+slug = /in-review-siegfried/
+title = "In review: Siegfried"
++++
 
 Even since last season's *Die Walküre* at the Canadian Opera Company, I've been experiencing acute anticipation for Wagner's *Ring Cycle* to continue. In Canada, we have to be more patient than most about our Wagner consumption, yet last night I was sated by François Girard's production of *Siegfried*.
 

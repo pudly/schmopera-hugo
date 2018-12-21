@@ -1,6 +1,8 @@
----
-title: "What comes first, the union or the gig?"
----
++++
+categories = "Op-ed"
+slug = /what-comes-first-the-union-or-the-gig/
+title = "What comes first, the union or the gig?"
++++
 
 "How do you do it?" "Don't you get tired?" "That sounds exhausting!" 
 

@@ -1,6 +1,8 @@
----
-title: "The 2018 CMIM begins!"
----
++++
+categories = "News"
+slug = /the-2018-cmim-begins/
+title = "The 2018 CMIM begins!"
++++
 
 This year's [Concours musical international de Montréal](https://concoursmontreal.ca/en/the-competitions/voice/) is upon us, and 2018 marks its seventh edition dedicated to voice. Known in the industry "The Montréal Competition", the CMIM brings together [38 singers from around the world](https://concoursmontreal.ca/en/the-competitions/voice/) to compete for $270,000 in prizes - including two $30,000 First Prizes in each of the Aria and Art Song divisions.
 

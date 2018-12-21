@@ -1,6 +1,8 @@
----
-title: "In review: Dmitri Hvorostovsky at Koerner Hall"
----
++++
+categories = "Review"
+slug = /in-review-dmitri-hvorostovsky-at-koerner-hall/
+title = "In review: Dmitri Hvorostovsky at Koerner Hall"
++++
 
 Last night's recital at Koerner Hall, presented by [Show One Productions](http://www.showoneproductions.ca/), was arguable one of the most anticipated events of Toronto's music scene this season. Star baritone [Dmitri Hvorostovsky](/scene/people/dmitri-hvorostovsky/) returned to Toronto after his 2014 recital in the same venue, which, predictably, sold out quickly. A full house gathered once again to hear Hvorostovsky and stellar pianist Ivari Ilya, including a few rows of onstage seating for some very lucky listeners.
 

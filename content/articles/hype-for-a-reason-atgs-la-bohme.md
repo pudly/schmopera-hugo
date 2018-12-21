@@ -1,6 +1,8 @@
----
-title: "Hype for a reason: AtG&#039;s La bohème"
----
++++
+categories = "Review"
+slug = /hype-for-a-reason-atgs-la-bohme/
+title = "Hype for a reason: AtG&#039;s La bohème"
++++
 
 With a few sneak peeks of the show under my belt, and more than a few dear friends involved in its creation, this bit of writing about [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/)'s revived [*La bohème*](http://againstthegraintheatre.com/la-boheme/) will hardly be the most objective thing I've ever published.
 

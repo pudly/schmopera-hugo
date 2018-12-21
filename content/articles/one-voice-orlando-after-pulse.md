@@ -1,6 +1,8 @@
----
-title: "One Voice Orlando: after Pulse"
----
++++
+categories = "News"
+slug = /one-voice-orlando-after-pulse/
+title = "One Voice Orlando: after Pulse"
++++
 
 Next month, Opera Orlando presents *One Voice Orlando: A Celebration in Song*, a benefit concert on the three-month anniversary of the mass shooting in Orlando's Pulse nightclub. 
 

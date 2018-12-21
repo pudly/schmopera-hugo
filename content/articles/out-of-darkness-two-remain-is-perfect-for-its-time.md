@@ -1,6 +1,8 @@
----
-title: "Out of Darkness: Two Remain is perfect for its time"
----
++++
+categories = "Review"
+slug = /out-of-darkness-two-remain-is-perfect-for-its-time/
+title = "Out of Darkness: Two Remain is perfect for its time"
++++
 
 Jake Heggie has done it again. He took my heart and soul, reeled me in like a hungry fish on the line with promises of an emotional connection and beautiful music and then he stomped my heart into the ground and spit on it for good measure and, the entire time, I let him, thanked him for it, and would gladly do it again.
 

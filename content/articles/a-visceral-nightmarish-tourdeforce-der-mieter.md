@@ -1,6 +1,8 @@
----
-title: "A visceral, nightmarish tour-de-force: Der Mieter"
----
++++
+categories = "Review"
+slug = /a-visceral-nightmarish-tourdeforce-der-mieter/
+title = "A visceral, nightmarish tour-de-force: Der Mieter"
++++
 
 "I'm not asking you to like me, I know that's impossible, because I'm not likeable, but at least do me the kindness of despising me enough to ignore me." - Roland Topor, *Le locataire chimérique*
 

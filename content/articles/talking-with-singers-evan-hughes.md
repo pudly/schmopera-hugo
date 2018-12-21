@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Evan Hughes"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-evan-hughes/
+title = "Talking with singers: Evan Hughes"
++++
 
 ### How is this production of *Figaro* in San Diego comparing to some of the others you've done?
 

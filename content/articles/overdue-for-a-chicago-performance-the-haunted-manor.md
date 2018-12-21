@@ -1,6 +1,8 @@
----
-title: "Overdue for a Chicago performance: The Haunted Manor"
----
++++
+categories = "Review"
+slug = /overdue-for-a-chicago-performance-the-haunted-manor/
+title = "Overdue for a Chicago performance: The Haunted Manor"
++++
 
 There are certain opera productions that, once planned and announced, ride a wave of excitement, promotion and hype, promising a magnificent splash on opening night: an event not to be missed. Such was the case with Stanisław Moniuszko's (1819-1872) *Straszny Dwór* (*The Haunted Manor*), put on at Chicago's Copernicus Center by the Paderewski Symphony Orchestra, Chorus, and invited guest singers from Poland. 
 

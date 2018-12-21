@@ -1,6 +1,8 @@
----
-title: "On the road with JMC&#039;s Roméo et Juliette"
----
++++
+categories = "Interview"
+slug = /on-the-road-with-jmcs-romo-et-juliette/
+title = "On the road with JMC&#039;s Roméo et Juliette"
++++
 
 ## The demands of a tour
 

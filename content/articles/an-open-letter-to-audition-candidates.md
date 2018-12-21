@@ -1,6 +1,8 @@
----
-title: "An open letter to audition candidates"
----
++++
+categories = "Op-ed"
+slug = /an-open-letter-to-audition-candidates/
+title = "An open letter to audition candidates"
++++
 
 Dear Audition Candidate,
 

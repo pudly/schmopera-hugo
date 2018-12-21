@@ -1,6 +1,8 @@
----
-title: "Great ideas: a streamable opera miniseries"
----
++++
+categories = "News"
+slug = /great-ideas-a-streamable-opera-miniseries/
+title = "Great ideas: a streamable opera miniseries"
++++
 
 Remember how we complained about how there's no opera on Netflix?
 

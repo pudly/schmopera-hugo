@@ -1,6 +1,8 @@
----
-title: "Talking with pianists: James Cheung"
----
++++
+categories = "Interview"
+slug = /talking-with-pianists-james-cheung/
+title = "Talking with pianists: James Cheung"
++++
 
 ## What can pianists learn from singers, and vice versa?
 

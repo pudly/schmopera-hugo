@@ -1,6 +1,8 @@
----
-title: "Heavy scenes: the fast lane to a great rehearsal room"
----
++++
+categories = "Editorial"
+slug = /heavy-scenes-the-fast-lane-to-a-great-rehearsal-room/
+title = "Heavy scenes: the fast lane to a great rehearsal room"
++++
 
 The rehearsal room vibe is a volatile and unique thing. It depends on the individuals in the cast and creative team: whether or not they're the types to toss around jokes, go out for post-rehearsal drinks with the crew, if they're comfortable enough with the work ahead of them to afford the occasional deep conversation or exchange of life anecdotes. Often, the mood of a rehearsal period can be dictated less by the chemistry of the people in a cast, and more by the subject matter of the opera being rehearsed.
 

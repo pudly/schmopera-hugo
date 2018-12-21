@@ -1,6 +1,8 @@
----
-title: "Honing your craft: opera courses at The Associated Studios"
----
++++
+categories = "News"
+slug = /honing-your-craft-opera-courses-at-the-associated-studios/
+title = "Honing your craft: opera courses at The Associated Studios"
++++
 
 The [Associated Studios](http://www.associatedstudios.co.uk/about/), one of Britain's leading academies for the study of opera, music theatre, and acting, is soon auditioning for both its upcoming 8-week and 4-month [Opera Courses](http://www.associatedstudios.co.uk/courses/opera-courses/).
 

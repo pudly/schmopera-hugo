@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: l&#039;homme et le ciel"
----
++++
+categories = "Interview"
+slug = /dont-miss-lhomme-et-le-ciel/
+title = "Don&#039;t miss: l&#039;homme et le ciel"
++++
 
 Next month, Canadian composer [Adam Scime](/scene/people/adam-scime/) will see the world premiere of his chamber opera, *l'homme et le ciel*. [Amanda Smith](/scene/people/amanda-smith/), artistic director of [FAWN Chamber Creative](/scene/companies/fawn-chamber-creative/) directs this co-presentation with FAWN and The Music Gallery. Scime's atmospheric story of "inescapable visions" and "sexual impulses" is scored for chamber ensemble, electronics, and three voices; the libretto by Ian Koiter is adapted from *The Shepherd of Hermas*, a 2nd-century Christian literary work. On December 3rd and 4th at The Music Gallery, the [debut performance of *l'homme et le ciel*](https://www.facebook.com/events/163651107317484/) will feature an all-Canadian cast: baritone Alex Dobson sings the role of Hermas, soprano [Larissa Koniuk](/scene/people/larissa-koniuk/) is Rhoda, and soprano [Adanya Dunn](/scene/people/adanya-dunn/) sings The Messenger. 
 

@@ -1,6 +1,8 @@
----
-title: "Adele &amp; knowing your audience"
----
++++
+categories = "Editorial"
+slug = /adele-knowing-your-audience/
+title = "Adele &amp; knowing your audience"
++++
 
 The reasons to love Adele are plentiful: fab pipes, songs that stick in your head (in the good way), and the calm, humble demeanour of a real pro at work. One of our favourites was after some technical glitches during her performance at the 2016 Grammy Awards:
 

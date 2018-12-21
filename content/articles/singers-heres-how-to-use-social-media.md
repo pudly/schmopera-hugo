@@ -1,6 +1,8 @@
----
-title: "Singers: here&#039;s how to use social media"
----
++++
+categories = "How-to"
+slug = /singers-heres-how-to-use-social-media/
+title = "Singers: here&#039;s how to use social media"
++++
 
 ## Do singers really need to use social media?
 

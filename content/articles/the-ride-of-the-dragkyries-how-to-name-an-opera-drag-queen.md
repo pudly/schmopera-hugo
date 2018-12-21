@@ -1,6 +1,8 @@
----
-title: "The Ride of the Dragkyries: how to name an opera drag queen"
----
++++
+categories = "Humour"
+slug = /the-ride-of-the-dragkyries-how-to-name-an-opera-drag-queen/
+title = "The Ride of the Dragkyries: how to name an opera drag queen"
++++
 
 ### Lucia di Glammermore
 

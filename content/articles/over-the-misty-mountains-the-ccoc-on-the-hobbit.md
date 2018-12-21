@@ -1,6 +1,8 @@
----
-title: "Over the Misty Mountains: the CCOC on The Hobbit"
----
++++
+categories = "Interview"
+slug = /over-the-misty-mountains-the-ccoc-on-the-hobbit/
+title = "Over the Misty Mountains: the CCOC on The Hobbit"
++++
 
 Continuing our coverage of the inaugural [Toronto Festival of Children's Opera](http://www.canadianchildrensopera.com/content/TFCO.html) (TFCO), I found myself visiting a rehearsal for the [Canadian Children's Opera Company](/scene/companies/canadian-childrens-opera-company/)'s upcoming production of Dean Burry's opera [*The Hobbit*](http://www.canadianchildrensopera.com/content/hobbit.html-0), based on J. R. R. Tolkien's classic. 
 

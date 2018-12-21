@@ -1,6 +1,8 @@
----
-title: "Creators in Concert: Jake Heggie"
----
++++
+categories = "News"
+slug = /creators-in-concert-jake-heggie/
+title = "Creators in Concert: Jake Heggie"
++++
 
 The National Opera Center continues its *Creators in Concert* series on **March 15, 7pm EST** with a presentation of composer Jake Heggie and selections of his music.
 

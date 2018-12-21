@@ -1,6 +1,8 @@
----
-title: "Opera&#039;s sexual assault secret"
----
++++
+categories = "Op-ed"
+slug = /operas-sexual-assault-secret/
+title = "Opera&#039;s sexual assault secret"
++++
 
 I'm a gay, married, 32-year old former opera singer living in New York City. There's something I've wanted to talk about for a long time.
 

@@ -1,6 +1,8 @@
----
-title: "In review: Against Nature"
----
++++
+categories = "Review"
+slug = /in-review-against-nature/
+title = "In review: Against Nature"
++++
 
 On the southern tip of Cabbagetown in Toronto's east end is a beautiful yet unassuming brick building called The Citadel, which is the home to [Coleman Lemieux & Co](/scene/companies/coleman-lemieux-compagnie/). I had never noticed this space before and I'm glad I was able to see it for the first time during such an amazing and cool show. We were greeted and ushered into a small mirrored studio (with a cash bar - I DO love this trend) to wait to be escorted into the mainspace. It's not a huge house, but the seats are full and it has a nice and roomy stage. Off the the corner sat a trio of musicians (piano, violin, cello) in full costume. Then the show began. 
 

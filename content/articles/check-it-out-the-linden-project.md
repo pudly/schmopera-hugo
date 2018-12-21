@@ -1,6 +1,8 @@
----
-title: "Check it out: The Linden Project"
----
++++
+categories = "Editorial"
+slug = /check-it-out-the-linden-project/
+title = "Check it out: The Linden Project"
++++
 
 These days, opera is getting its fair share of makeovers; companies are shaking off its perceived cobwebs, doing away with the "elitist" hurdles like hours-long run times and stuffy theatres. The 21st century is the time of the slimmed down, newly translated, not-in-an-opera-house opera.
 

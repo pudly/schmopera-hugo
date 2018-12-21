@@ -1,6 +1,8 @@
----
-title: "Great nights: Sketches of Miles"
----
++++
+categories = "Review"
+slug = /great-nights-sketches-of-miles/
+title = "Great nights: Sketches of Miles"
++++
 
 Last night's concert at the Village Underground will go into the books as one of the most memorable shows we've seen yet.
 

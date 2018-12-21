@@ -1,6 +1,8 @@
----
-title: "Fleming enchants: luscious morsels of post-opera career"
----
++++
+categories = "Review"
+slug = /fleming-enchants-luscious-morsels-of-postopera-career/
+title = "Fleming enchants: luscious morsels of post-opera career"
++++
 
 She's graced opera stages around the world and is perhaps one of the most recognized classical singers of our generation.
 

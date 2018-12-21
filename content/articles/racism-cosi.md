@@ -1,6 +1,8 @@
----
-title: "Racism Cosi"
----
++++
+categories = "Editorial"
+slug = /racism-cosi/
+title = "Racism Cosi"
++++
 
 http://www.theoperaplatform.eu/en/article/cosi-fan-tutte-festival-daix-en-provence-2016
 

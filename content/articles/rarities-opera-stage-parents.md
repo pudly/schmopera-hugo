@@ -1,6 +1,8 @@
----
-title: "Rarities: opera stage parents"
----
++++
+categories = "Editorial"
+slug = /rarities-opera-stage-parents/
+title = "Rarities: opera stage parents"
++++
 
 Opera is no isolated genre; it's deeply connected with its artistic cousins. It's a melding of music and theatre, elements that not only stand on their own, but can be re-shuffled into various combinations and delivered to an audience. Drama and music can add up and equal opera, but they can also equal music theatre, ballet, oratorio, and even straight theatre with no music implied.
 

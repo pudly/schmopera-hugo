@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Christopher Purves"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-christopher-purves/
+title = "Talking with singers: Christopher Purves"
++++
 
 "I was the youngest of four boys," says baritone [Christopher Purves](/scene/people/christopher-purves/) of his early introduction to music. Surrounded by ambitious siblings, and perhaps on a hunt for earned attention, "I started using my show-off gene to very good effect," he remembers. "I got noticed."
 

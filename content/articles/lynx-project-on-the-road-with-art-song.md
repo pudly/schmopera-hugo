@@ -1,6 +1,8 @@
----
-title: "Lynx Project: on the road with art song"
----
++++
+categories = "News"
+slug = /lynx-project-on-the-road-with-art-song/
+title = "Lynx Project: on the road with art song"
++++
 
 When I've asked singers in the past about the difference between singing in an opera and singing a recital, the most common answer I get is that recitals are terrifying. 
 

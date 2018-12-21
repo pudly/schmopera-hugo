@@ -1,6 +1,8 @@
----
-title: "In review: Elektra"
----
++++
+categories = "Review"
+slug = /in-review-elektra/
+title = "In review: Elektra"
++++
 
 [L'Opéra de Montréal](/scene/companies/lopera-de-montreal/) is in the middle of a four-show run of Strauss' [*Elektra*](http://www.operademontreal.com/en/shows/2015-2016-season/elektra), the opera that I'm still waiting to see as a double bill on steroids with *Salome*, for a full night entitled, *Women Who Behave Horrendously*. 
 

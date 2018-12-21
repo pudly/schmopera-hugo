@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Michael J. Scott"
----
++++
+categories = "Interview"
+slug = /spotlight-on-michael-j-scott/
+title = "Spotlight on: Michael J. Scott"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

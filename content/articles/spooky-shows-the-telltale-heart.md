@@ -1,6 +1,8 @@
----
-title: "Spooky shows: The Tell-Tale Heart"
----
++++
+categories = "Interview"
+slug = /spooky-shows-the-telltale-heart/
+title = "Spooky shows: The Tell-Tale Heart"
++++
 
 ## What drew you to set Poe's text to music?
 

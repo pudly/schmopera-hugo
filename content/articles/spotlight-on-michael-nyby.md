@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Michael Nyby"
----
++++
+categories = "Interview"
+slug = /spotlight-on-michael-nyby/
+title = "Spotlight on: Michael Nyby"
++++
 
 ## Why do you sing, and why are you pursuing it professionally?
 

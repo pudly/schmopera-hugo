@@ -1,6 +1,8 @@
----
-title: "Is it time for the Met to move?"
----
++++
+categories = "Editorial"
+slug = /is-it-time-for-the-met-to-move/
+title = "Is it time for the Met to move?"
++++
 
 The recent news of [The Metropolitan Opera's low box office sales](http://www.nytimes.com/2016/05/07/arts/music/metropolitan-opera-faces-a-slide-in-box-office-revenues.html) is equal parts surprising, and not surprising. This season, the Met's potential ticket revenues are projected to be at 66%, the lowest rate yet. Season subscription purchases are down, but general manager Peter Gelb told the *New York Times* that the Met did sell tickets to 74,000 new buyers. 
 

@@ -1,6 +1,8 @@
----
-title: "Canadians abroad: the quarterly report"
----
++++
+categories = "Editorial"
+slug = /canadians-abroad-the-quarterly-report/
+title = "Canadians abroad: the quarterly report"
++++
 
 It's been over three months since we left Toronto to set up shop in London, England. Next week, we'll be back across the pond, overshooting our beloved CN tower, and landing in the mountains of Banff, Alberta. We're not yet done with London, and although we're eager to pay a visit to the homeland and spend some time with the lovely folks of [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/), the opera and classical music scenes in Britain's capital have us inspired and curious. It's a good time to do a first recap of sorts, taking stock of what we've had the chance to see and hear, and sharing our first impressions of what opera looks like on both sides of the Atlantic.
 

@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Tamara Gura"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-tamara-gura/
+title = "Talking with singers: Tamara Gura"
++++
 
 ## Why do you sing professionally?
 

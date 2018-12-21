@@ -1,6 +1,8 @@
----
-title: "Google&#039;s very specific opera offerings"
----
++++
+categories = "Editorial"
+slug = /googles-very-specific-opera-offerings/
+title = "Google&#039;s very specific opera offerings"
++++
 
 A couple of quick finds for the online opera fans, who consistently bemoan the state of opera on the Internet. If you use [Google Play Music](https://play.google.com/music/), you'll be pleased to notice that there's a radio station that plays Metropolitan Opera broadcasts from their 2011-12 season. Sort of oddly specific, I know, but lots of good stuff on there.
 

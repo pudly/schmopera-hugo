@@ -1,6 +1,8 @@
----
-title: "In review: Tcherniakov&#039;s Don Giovanni"
----
++++
+categories = "Review"
+slug = /in-review-tcherniakovs-don-giovanni/
+title = "In review: Tcherniakov&#039;s Don Giovanni"
++++
 
 <p class="intro">
 	After much anticipation (and averting my eyes from the opening night reviews), I had the chance to see the COC's current production of 

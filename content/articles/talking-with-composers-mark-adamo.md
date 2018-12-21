@@ -1,6 +1,8 @@
----
-title: "Talking with composers: Mark Adamo"
----
++++
+categories = "Interview"
+slug = /talking-with-composers-mark-adamo/
+title = "Talking with composers: Mark Adamo"
++++
 
 #### Your upcoming [event at National Sawdust](https://nationalsawdust.org/event/a-night-of-mark-adamo/) focuses on the issue of transformation in each of your operas. Do you think you're drawn to these aspects of the characters initially, or do you find that your approach to storytelling tends to hone in on that trait as you're writing the piece?
 

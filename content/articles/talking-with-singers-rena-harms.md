@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Rena Harms"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-rena-harms/
+title = "Talking with singers: Rena Harms"
++++
 
 ## Why do you sing professionally?
 

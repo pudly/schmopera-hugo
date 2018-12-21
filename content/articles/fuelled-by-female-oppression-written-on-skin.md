@@ -1,6 +1,8 @@
----
-title: "Fuelled by female oppression: Written on Skin"
----
++++
+categories = "Review"
+slug = /fuelled-by-female-oppression-written-on-skin/
+title = "Fuelled by female oppression: Written on Skin"
++++
 
 If sex is about power then George Benjamin's opera *Written on Skin* sharpens it into a vicious weapon. Originally commissioned for the 2012 Aix-en-Provence Festival, the work has since been critically praised and performed internationally, including at Covent Garden. On the 20th it was presented by the [Melos Sinfonia](/scene/companies/melos-sinfonia/) at LSO St. Lukes with the soloists [Lauren Fagan](/scene/people/lauren-fagan/), [Patrick Terry](/scene/people/patrick-terry/), [Ross Ramgobin](/scene/people/ross-ramgobin/), Bethan Longford and Nick Pritchard. Founded seven years ago by Artistic Director [Oliver Zeffman](/talking-with-conductors-oliver-zeffman/), who conducted on Friday night, the Melos Sinfonia has been especially committed to promoting cultural dialogue between Britain and Russia, frequently touring the country as well as bringing Russian composers to British audiences. 
 

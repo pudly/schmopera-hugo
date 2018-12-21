@@ -1,6 +1,7 @@
----
-title: "Broadcasts"
----
++++
+slug = /broadcasts/
+title = "Broadcasts"
++++
 
 Bayerische - https://www.staatsoper.de/en/staatsopertv.html?no_cache=1#c3971
 

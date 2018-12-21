@@ -1,6 +1,8 @@
----
-title: "Charlotte Church the latest voice in music&#039;s Trump boycott"
----
++++
+categories = "Humour"
+slug = /charlotte-church-the-latest-voice-in-musics-trump-boycott/
+title = "Charlotte Church the latest voice in music&#039;s Trump boycott"
++++
 
 The original Jackie Evancho has spoken out, and guess what? I think I've come around completely on my opinion of her. 
 

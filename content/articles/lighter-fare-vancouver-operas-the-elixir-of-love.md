@@ -1,6 +1,8 @@
----
-title: "Lighter fare: Vancouver Opera&#039;s The Elixir of Love"
----
++++
+categories = "Review"
+slug = /lighter-fare-vancouver-operas-the-elixir-of-love/
+title = "Lighter fare: Vancouver Opera&#039;s The Elixir of Love"
++++
 
 The second production in Vancouver Opera's 2017/18 season, this production of [*L'elisir d'amore*](https://www.vancouveropera.ca/L-Elisir-d-amore) takes place in Canada in the early 1900s. With a gazebo setting that looks like it could play double duty for a performance of *The Music Man*, this production is light, and incredibly funny, and complete with an ice cream truck and a sidecar Vespa that drive on and off the stage. 
 

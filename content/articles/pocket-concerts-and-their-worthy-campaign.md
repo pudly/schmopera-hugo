@@ -1,6 +1,8 @@
----
-title: "Pocket Concerts and their worthy campaign"
----
++++
+categories = "Editorial"
+slug = /pocket-concerts-and-their-worthy-campaign/
+title = "Pocket Concerts and their worthy campaign"
++++
 
 Toronto's [Pocket Concerts](http://www.pocketconcerts.ca/) has launched a new [Kickstarter campaign](https://www.kickstarter.com/projects/pocketconcerts/pocket-concerts-season-3-chamber-music-in-toronto) for the next 30 days, and it's a cause that I think is important to share.
 

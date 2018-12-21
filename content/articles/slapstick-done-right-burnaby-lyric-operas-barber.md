@@ -1,6 +1,8 @@
----
-title: "Slapstick done right: Burnaby Lyric Opera&#039;s Barber"
----
++++
+categories = "Review"
+slug = /slapstick-done-right-burnaby-lyric-operas-barber/
+title = "Slapstick done right: Burnaby Lyric Opera&#039;s Barber"
++++
 
 *The Barber of Seville* is definitely a comedy of its age - making fun of the relationships between the various classes, and how a simple barber is able to outwit the nobility through intelligence and wit. Making this comedy relevant to the modern age always presents a challenge, as can making the humour as funny today as it was in Rossini's time; the difficult tasks were met incredibly well by [Burnaby Lyric Opera](http://www.burnabylyricopera.org/Burnaby_Lyric_Opera/Home.html)'s recent production.
 

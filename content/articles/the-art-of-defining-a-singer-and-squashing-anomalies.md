@@ -1,6 +1,8 @@
----
-title: "The Art of Defining a Singer and Squashing Anomalies"
----
++++
+categories = "Editorial"
+slug = /the-art-of-defining-a-singer-and-squashing-anomalies/
+title = "The Art of Defining a Singer and Squashing Anomalies"
++++
 
 <p>
 	I spotted a <a href="http://www.washingtonpost.com/entertainment/music/tenor-ian-bostridge-performs-a-compelling-rendition-of-winterreise/2015/02/08/643ae528-afae-11e4-886b-c22184f27c35_story.html" target="_blank">strange review in the Washington Post</a> by Anne Midgette, on Ian Bostridge's performance of <em>Winterreise</em> at the Library of Congress. I was misled by a clickbait-esque headline (not Anne's): <a href="http://www.artsjournal.com/2015/02/ian-bostridge-is-not-a-classical-singer-says-anne-midgette.html" target="_blank">"'Ian Bostridge Is Not A Classical Singer' Says Anne Midgette"</a>.

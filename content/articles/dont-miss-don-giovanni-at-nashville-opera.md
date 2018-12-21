@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Don Giovanni at Nashville Opera"
----
++++
+categories = "Interview"
+slug = /dont-miss-don-giovanni-at-nashville-opera/
+title = "Don&#039;t miss: Don Giovanni at Nashville Opera"
++++
 
 This week, [Nashville Opera](/scene/companies/nashville-opera/) opens its "strikingly visual" production of [*Don Giovanni*](http://www.nashvilleopera.org/don-giovanni), starring baritone David Adam Moore in the title role.
 

@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Charlotte Mundy"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-charlotte-mundy/
+title = "Talking with singers: Charlotte Mundy"
++++
 
 ## Why do you sing professionally?
  

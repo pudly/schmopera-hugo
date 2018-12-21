@@ -1,6 +1,8 @@
----
-title: "Shades of opera: how to tell your buffo from your bel canto"
----
++++
+categories = "How-to"
+slug = /shades-of-opera-how-to-tell-your-buffo-from-your-bel-canto/
+title = "Shades of opera: how to tell your buffo from your bel canto"
++++
 
 ## *Opera buffa*/*opera seria*
 

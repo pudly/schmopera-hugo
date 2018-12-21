@@ -1,6 +1,8 @@
----
-title: "In review: Pelléas et Mélisande"
----
++++
+categories = "Review"
+slug = /in-review-pellas-et-mlisande/
+title = "In review: Pelléas et Mélisande"
++++
 
 Do you like Debussy? Go see this show. Do you like art? Go see this show. Do you like a coherent plotline that's easy to follow and sticks to a linear timeline? Maybe, prepare yourself before seeing this show.
 Last night my senses were were titillated by the latest instalment from [Against the Grain Theatre](http://againstthegraintheatre.com/) (in my opinion, the leaders opera today): a delightfully impressionistic outdoor performance of Debussy's masterpiece _Pelléas et Mélisande_.

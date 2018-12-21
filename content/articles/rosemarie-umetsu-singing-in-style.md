@@ -1,6 +1,8 @@
----
-title: "Rosemarie Umetsu: singing in style"
----
++++
+categories = "Interview"
+slug = /rosemarie-umetsu-singing-in-style/
+title = "Rosemarie Umetsu: singing in style"
++++
 
 ## When you help singers choose a gown for a performance, what are some criteria that you find unique?
 

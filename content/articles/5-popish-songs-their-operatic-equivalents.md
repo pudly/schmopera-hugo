@@ -1,6 +1,8 @@
----
-title: "5 pop(ish) songs &amp; their operatic equivalents"
----
++++
+categories = "Humour"
+slug = /5-popish-songs-their-operatic-equivalents/
+title = "5 pop(ish) songs &amp; their operatic equivalents"
++++
 
 ## *One Fine Day* (The Chiffons)
 

@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Owen McCausland"
----
++++
+categories = "Interview"
+slug = /spotlight-on-owen-mccausland/
+title = "Spotlight on: Owen McCausland"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

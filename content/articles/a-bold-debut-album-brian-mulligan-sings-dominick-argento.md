@@ -1,6 +1,8 @@
----
-title: "A bold debut album: Brian Mulligan sings Dominick Argento"
----
++++
+categories = "Review"
+slug = /a-bold-debut-album-brian-mulligan-sings-dominick-argento/
+title = "A bold debut album: Brian Mulligan sings Dominick Argento"
++++
 
 American baritone [Brian Mulligan](/scene/people/brian-mulligan/) has released his [debut solo album](https://www.amazon.com/Dominick-Argento-Andree-Expedition-Virginia/dp/B071G991VV?SubscriptionId=AKIAIOCEBIGP6NUBL47A&tag=&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B071G991VV) on the [Naxos label](https://www.naxos.com/catalogue/item.asp?item_code=8.559828), lending his voice to the music of Dominick Argento. On the album are the composer's Pulitzer Prize-winning *From the Diary of Virginia Woolf* (1974) and *The Andrée Expedition* (1980), which sets letters and diary entries written by the members of the [tragic 1897 balloon expedition](https://en.wikipedia.org/wiki/S._A._Andr%C3%A9e%27s_Arctic_Balloon_Expedition_of_1897) to the North Pole.
 

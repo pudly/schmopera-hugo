@@ -1,6 +1,8 @@
----
-title: "Powerful stuff: the Elizabeth Krehm Memorial Concert"
----
++++
+categories = "Review"
+slug = /powerful-stuff-the-elizabeth-krehm-memorial-concert/
+title = "Powerful stuff: the Elizabeth Krehm Memorial Concert"
++++
 
 Last night's Elizabeth Krehm Memorial Concert at Metropolitan United Church was a grand, cathartic experience. Elizabeth Krehm passed away in 2012, after spending a month in St. Michael's Hospital Intensive Care Unit; since 2013, the Krehm family has been holding benefit concerts, donating 100% of the money raised to the ICU in Elizabeth Krehm's name. This year was Mahler's 2nd, his "Resurrection" Symphony, with Evan Mitchell leading the Canzona Chamber Players Orchestra, the Pax Christi Chorale, and soloists Michèle Bogdanowicz and Rachel Krehm.
 

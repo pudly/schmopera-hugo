@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Christina Haldane"
----
++++
+categories = "Interview"
+slug = /spotlight-on-christina-haldane/
+title = "Spotlight on: Christina Haldane"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

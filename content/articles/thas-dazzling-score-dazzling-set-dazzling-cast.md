@@ -1,6 +1,8 @@
----
-title: "Thaïs: dazzling score, dazzling set, dazzling cast"
----
++++
+categories = "Review"
+slug = /thas-dazzling-score-dazzling-set-dazzling-cast/
+title = "Thaïs: dazzling score, dazzling set, dazzling cast"
++++
 
 This wee, [*Thaïs*](https://mnopera.org/season/2017-2018/thais/) opened at Minnesota Opera. In one word, it was magnificent - and begs the question: why is this opera such a rarity? 
 

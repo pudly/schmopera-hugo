@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Alice Privett"
----
++++
+categories = "Interview"
+slug = /spotlight-on-alice-privett/
+title = "Spotlight on: Alice Privett"
++++
 
 ## Why do you sing professionally?
 

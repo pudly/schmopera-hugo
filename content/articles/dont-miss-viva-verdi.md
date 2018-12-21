@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Viva Verdi!"
----
++++
+categories = "Interview"
+slug = /dont-miss-viva-verdi/
+title = "Don&#039;t miss: Viva Verdi!"
++++
 
 ## What do you love best about Verdi's music?
 

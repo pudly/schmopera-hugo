@@ -1,6 +1,8 @@
----
-title: "Opera and sci-fi: the puritan intersection"
----
++++
+categories = "Editorial"
+slug = /opera-and-scifi-the-puritan-intersection/
+title = "Opera and sci-fi: the puritan intersection"
++++
 
 Music is a universal storytelling device, and technology is currently at a point where a composer can imagine virtually any sound, and find a way to recreate it. Whenever we go to hear new works - and precisely *because* they're new works - there's often an infusion of technology, or science fiction, or futurism, because those are the kinds of things from which artists now draw inspiration more and more. We've seen operas about meme lovers on a first date, operas about robots, librettos made up of Google search auto-fills; last night, we added to that list a couple of shorts, presented at [Second Movement](https://secondmovement.org.uk/)'s *rough for opera #14*.
 

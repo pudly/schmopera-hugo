@@ -1,6 +1,8 @@
----
-title: "Elitism, Irony, and The Phantom of the Opera"
----
++++
+categories = "Op-ed"
+slug = /elitism-irony-and-the-phantom-of-the-opera/
+title = "Elitism, Irony, and The Phantom of the Opera"
++++
 
 Guys, maybe we are a little elitist...
 

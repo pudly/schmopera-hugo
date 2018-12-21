@@ -1,6 +1,7 @@
----
-title: "Artistic success: pay it forward"
----
++++
+slug = /artistic-success-pay-it-forward/
+title = "Artistic success: pay it forward"
++++
 
 Kevin Spacey has been quoted as saying, "If you're lucky enough to do well, it's your responsibility to send the elevator back down." This sentiment actually did not come from Spacey directly; he credits it to Jack Lemmon, an actor whom Spacey met in his early career and who later became a life long mentor. It was Lemmon who first instilled the idea of "sending the elevator back down" for future generations in a young Kevin Spacey.
 

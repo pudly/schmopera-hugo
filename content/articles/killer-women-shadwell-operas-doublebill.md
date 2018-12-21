@@ -1,6 +1,8 @@
----
-title: "Killer women: Shadwell Opera&#039;s double-bill"
----
++++
+categories = "Interview"
+slug = /killer-women-shadwell-operas-doublebill/
+title = "Killer women: Shadwell Opera&#039;s double-bill"
++++
 
 ## Where did the idea come from of pairing these two one-acts together?
  

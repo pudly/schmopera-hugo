@@ -1,6 +1,8 @@
----
-title: "Dead Man Walking makes its Minnesota Opera debut"
----
++++
+categories = "Review"
+slug = /dead-man-walking-makes-its-minnesota-opera-debut/
+title = "Dead Man Walking makes its Minnesota Opera debut"
++++
 
 Opening night of the five-show run of Jake Heggie's [*Dead Man Walking*](http://www.mnopera.org/season/2017-2018/dead-man-walking/) was full of high intensity by the cast and creative team at Minnesota Opera. Following the company's precedence of presenting new works, this was a regional premiere. I took advantage of the late seating option to miss the graphic murder scene, but watched some from the monitors (it did not seem too explicit).
 

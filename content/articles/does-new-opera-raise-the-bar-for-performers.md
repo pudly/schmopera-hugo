@@ -1,6 +1,8 @@
----
-title: "Does new opera raise the bar for performers?"
----
++++
+categories = "Editorial"
+slug = /does-new-opera-raise-the-bar-for-performers/
+title = "Does new opera raise the bar for performers?"
++++
 
 When I say the words, "new opera," what comes to mind? Atonality? Complicated rhythms? Progressive and unexpected stories? Extended vocal techniques?
 

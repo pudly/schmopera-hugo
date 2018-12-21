@@ -1,6 +1,8 @@
----
-title: "Just in time for fall: Shoperatic!"
----
++++
+categories = "Op-ed"
+slug = /just-in-time-for-fall-shoperatic/
+title = "Just in time for fall: Shoperatic!"
++++
 
 Dear Schmopera readers,
 

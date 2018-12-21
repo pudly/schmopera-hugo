@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Glory Denied at Nashville Opera"
----
++++
+categories = "Interview"
+slug = /dont-miss-glory-denied-at-nashville-opera/
+title = "Don&#039;t miss: Glory Denied at Nashville Opera"
++++
 
 ## Why did you see the story of Col. Thompson as one that would lend itself well to opera?
 

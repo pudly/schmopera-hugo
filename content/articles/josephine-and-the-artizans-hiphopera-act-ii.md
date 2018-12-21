@@ -1,6 +1,8 @@
----
-title: "Josephine and The Artizans&#039; HipHopera: Act II"
----
++++
+categories = "Review"
+slug = /josephine-and-the-artizans-hiphopera-act-ii/
+title = "Josephine and The Artizans&#039; HipHopera: Act II"
++++
 
 They've just kicked off their 2017 summer festival tour, and [Josephine and The Artizans](/josephine-and-the-artizans-we-call-it-hip-hopera/) have a new EP to go with it. [*HipHopera: Act II*](http://www.josephineandtheartizans.com/music) is a sequel to *Act One*, and the UK-based group continues to find fun ways of fusing rap and hip-hop with classical voice and instruments. 
 

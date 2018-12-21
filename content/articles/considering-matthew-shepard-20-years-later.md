@@ -1,6 +1,8 @@
----
-title: "Considering Matthew Shepard: 20 years later"
----
++++
+categories = "Interview"
+slug = /considering-matthew-shepard-20-years-later/
+title = "Considering Matthew Shepard: 20 years later"
++++
 
 ### What does it mean to you to consider Matthew Shepard?
 

@@ -1,6 +1,8 @@
----
-title: "Kira Braun: &quot;So much music, so little time...&quot;"
----
++++
+categories = "News"
+slug = /kira-braun-so-much-music-so-little-time/
+title = "Kira Braun: &quot;So much music, so little time...&quot;"
++++
 
 Toronto-based soprano [Kira Braun](/kira-braun-im-happiest-when-im-singing/) is one of those singers whose unselfish love of her craft is crystal clear. Following its official launch at Gallery 345, Braun has released *The Echoing Air*, an album of music by Purcell, Poulenc, Bellini, and Schumann with pianist Peter Krochak.
 

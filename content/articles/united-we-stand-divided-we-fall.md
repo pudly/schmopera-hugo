@@ -1,6 +1,8 @@
----
-title: "United we stand, divided we fall"
----
++++
+categories = "Op-ed"
+slug = /united-we-stand-divided-we-fall/
+title = "United we stand, divided we fall"
++++
 
 I was inspired to write this article following the events of the MLB All-star game, where Canadian quartet, The Tenors, left sports fans strikingly disenthralled on the upcoming baseball game. It was during the pre-game performance of the Canadian national anthem that group member, Remigio Pereira, decided to alter the original lyrics of the anthem: "We're all brothers and sisters, all lives matter to the great," in place of "With glowing hearts we see thee rise, the True North strong and free." 
 

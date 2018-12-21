@@ -1,6 +1,8 @@
----
-title: "Schmopera on the Avalon"
----
++++
+categories = "Editorial"
+slug = /schmopera-on-the-avalon/
+title = "Schmopera on the Avalon"
++++
 
 Later this month, I'm packing my bags and heading to St. John's, Newfoundland, to work on a couple of shows at [Opera on the Avalon](https://www.facebook.com/pages/Opera-on-the-Avalon/118240924882531). On the menu are Britten's _A Midsummer Night's Dream_, directed by [Tom Diamond](https://tapestryopera.com/tom-diamond) and conducted by [Vlad Iftinca](http://www.newschool.edu/mannes/subpage.aspx?id=93460), and the ubiquitous _La bohème_, directed by [Michael Cavanagh](http://imgartists.com/artist/michael_cavanagh) and conducted by [Judith Yan](http://www.judithyan.com/Judith_Yan/Welcome_1.html). Two of my personal favourites. _Midsummer_ wins the award for best use of the countertenor, and _La bohème_ wins for consistent ability to make people weep.
 

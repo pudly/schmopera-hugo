@@ -1,6 +1,8 @@
----
-title: "In review: Rigoletto at ENO"
----
++++
+categories = "Review"
+slug = /in-review-rigoletto-at-eno/
+title = "In review: Rigoletto at ENO"
++++
 
 Jonathan Miller's production of *Rigoletto* has kicked off its 13th revival run at [English National Opera](/scene/companies/english-national-opera/). The 1950s/mafia-inspired production is bleak, even minimal, and it capitalizes on the bad behaviour of men and women. 
 

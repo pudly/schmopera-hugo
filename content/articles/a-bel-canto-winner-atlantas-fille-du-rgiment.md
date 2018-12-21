@@ -1,6 +1,8 @@
----
-title: "A bel canto winner: Atlanta&#039;s Fille du régiment"
----
++++
+categories = "Review"
+slug = /a-bel-canto-winner-atlantas-fille-du-rgiment/
+title = "A bel canto winner: Atlanta&#039;s Fille du régiment"
++++
 
 E. Loren Meeker's production of Gaetano Donizetti's [*The Daughter of the Regiment*](https://www.atlantaopera.org/performance/the-daughter-of-the-regiment/) (or *La fille du régiment*) was like a finely tuned cuckoo clock, the well-oiled moving gears seamlessly presenting Atlanta Opera's setting at the Cobb Energy and Performing Arts Center with minimal distractions.
 

@@ -1,6 +1,8 @@
----
-title: "2017/18: Canadians in Paris"
----
++++
+categories = "News"
+slug = /201718-canadians-in-paris/
+title = "2017/18: Canadians in Paris"
++++
 
 It's a great time to be a Canadian opera singer, especially in Paris. It's no secret that Parisians appreciate Canadian voices; just this season, they have had the pleasure of hearing [Julie Boulianne](/scene/people/julie-boulianne/) singing her first Donna Elvira to great acclaim at the Théâtre des Champs-Élysées, [Karina Gauvin](/scene/people/karina-gauvin/) and [Marie-Nicole Lemieux](/scene/people/marie-nicole-lemieux/) have just taken the city by storm in Handel's *Rodelinda* and [Étienne Dupuis](/scene/people/etienne-dupuis/) just finished a run of *Iphigénie en Tauride* in the role of Oreste with the Paris Opera. [Marie-Nicole Lemieux](/scene/people/marie-nicole-lemieux/) will also sing her very first *Carmen* next week at the Théâtre des Champs-Élysées. 
 

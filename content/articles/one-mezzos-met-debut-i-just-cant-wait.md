@@ -1,6 +1,8 @@
----
-title: "One mezzo&#039;s Met debut: &quot;I just can&#039;t wait.&quot;"
----
++++
+categories = "Interview"
+slug = /one-mezzos-met-debut-i-just-cant-wait/
+title = "One mezzo&#039;s Met debut: &quot;I just can&#039;t wait.&quot;"
++++
 
 ## What do you look forward to most for your first opening night at the Met? 
 

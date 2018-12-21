@@ -1,6 +1,8 @@
----
-title: "Aria Guides: &quot;Quando m&#039;en vo&quot;"
----
++++
+categories = "How-to"
+slug = /aria-guides-quando-men-vo/
+title = "Aria Guides: &quot;Quando m&#039;en vo&quot;"
++++
 
 1. The very first note of "Quando m'en vo" is fairly exposed for the soprano, who's expected to produce an endless line of stunningly beautiful sound. One simpler way of looking at this phrase is thinking of the first two bars as a pick-up to the third. An Italian speaking "quando m'en vo" would naturally move towards "vo'", so it's not far off from what the text wants. Imagining an extended pick up is a way to avoid landing heavily on downbeats, and it'll open up more technical possibilities for you colour this first phrase. For the full legato experience, sing through the letter N in the words "quando" and "me'n"; you can afford more of a double-consonant effect in these spots, which will encourage you to maintain pitch and vibrato into the consonants.
 

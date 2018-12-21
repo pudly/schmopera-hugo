@@ -1,6 +1,8 @@
----
-title: "Performers: unwilling players of mind games"
----
++++
+categories = "Humour"
+slug = /performers-unwilling-players-of-mind-games/
+title = "Performers: unwilling players of mind games"
++++
 
 ## Peaking too soon
 

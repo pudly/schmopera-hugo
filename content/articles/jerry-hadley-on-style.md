@@ -1,6 +1,8 @@
----
-title: "Jerry Hadley, on style"
----
++++
+categories = "Interview"
+slug = /jerry-hadley-on-style/
+title = "Jerry Hadley, on style"
++++
 
 On the recommendation of a colleague, I found this gem of an interview from 1995 with the late and great tenor Jerry Hadley. At just under half an hour, it's not a big time commitment to listen to the whole thing. But I love what he says starting at 3:16, which is where I've cued up this video below.
 

@@ -1,6 +1,8 @@
----
-title: "Schmopera: coming to an opera house near you!"
----
++++
+categories = "News"
+slug = /schmopera-coming-to-an-opera-house-near-you/
+title = "Schmopera: coming to an opera house near you!"
++++
 
 Readers, we've got an exciting announcement to make!
 

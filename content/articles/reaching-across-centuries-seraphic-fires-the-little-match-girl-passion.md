@@ -1,6 +1,8 @@
----
-title: "Reaching across centuries: Seraphic Fire&#039;s the little match girl passion"
----
++++
+categories = "Review"
+slug = /reaching-across-centuries-seraphic-fires-the-little-match-girl-passion/
+title = "Reaching across centuries: Seraphic Fire&#039;s the little match girl passion"
++++
 
 In his original program note to accompany *the little match girl passion*, [David Lang](/scene/people/david-lang/) concisely summed up the work's purpose: "I wanted to tell a story."
 

@@ -1,6 +1,8 @@
----
-title: "Talking with singers: J&#039;Nai Bridges"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-jnai-bridges/
+title = "Talking with singers: J&#039;Nai Bridges"
++++
 
 "We're very sensitive beings," says American mezzo-soprano J'Nai Bridges of living the life of a singer. "We're being criticised all the time, and that's just the nature of the job." It's a mountainous task to develop the vocal technique needed to survive as an opera singer; it's another thing entirely to develop the thick skin that keeps a singer sane and healthy within a career that can depend on the opinions of others. "Inherently, whether we want to admit or not, we think about what people think of us," says Bridges, sympathising with singers who suffer from nerves and self-doubt onstage. "It's just natural, I think." 
 

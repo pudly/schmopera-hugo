@@ -1,6 +1,8 @@
----
-title: "The brief history of made-for-TV opera"
----
++++
+categories = "Editorial"
+slug = /the-brief-history-of-madefortv-opera/
+title = "The brief history of made-for-TV opera"
++++
 
 We stumbled across an interesting find the other day. Have a look at [this Wikipedia list of operas made for television](https://en.wikipedia.org/wiki/List_of_television_operas), and have a look at the dates.
 

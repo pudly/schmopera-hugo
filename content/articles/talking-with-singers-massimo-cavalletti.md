@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Massimo Cavalletti"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-massimo-cavalletti/
+title = "Talking with singers: Massimo Cavalletti"
++++
 
 ## What sort of history do you have with *La bohème* in your own career so far?
 

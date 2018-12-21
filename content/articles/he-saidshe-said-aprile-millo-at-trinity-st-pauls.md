@@ -1,6 +1,8 @@
----
-title: "He said/She said: Aprile Millo at Trinity St. Paul&#039;s"
----
++++
+categories = "Review"
+slug = /he-saidshe-said-aprile-millo-at-trinity-st-pauls/
+title = "He said/She said: Aprile Millo at Trinity St. Paul&#039;s"
++++
 
 This is a joint review with contributor Greg Finney. [Read more by Greg](http://schmopera.com/author/greg/).
 

@@ -1,6 +1,8 @@
----
-title: "He said/she said: Songbook VI"
----
++++
+categories = "Review"
+slug = /he-saidshe-said-songbook-vi/
+title = "He said/she said: Songbook VI"
++++
 
 **Jenna**: This past weekend marked the sixth in [Tapestry Opera](/scene/companies/tapestry-opera/)'s *Songbook* series, which present new Canadian opera, performed by emerging Canadian artists. It sounds like a simple concept, but these workshop-showcase concerts are consistently an intense and memorable event. 
 

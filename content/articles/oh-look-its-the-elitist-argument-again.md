@@ -1,6 +1,8 @@
----
-title: "Oh look, it&#039;s the &quot;elitist&quot; argument again..."
----
++++
+categories = "Op-ed"
+slug = /oh-look-its-the-elitist-argument-again/
+title = "Oh look, it&#039;s the &quot;elitist&quot; argument again..."
++++
 
 English National Opera has been following the suit of several American companies and introduced Broadway musicals into their seasons as a way to reach out to potential new audiences. The ire of the British opera world was raised almost immediately after its most recent announcement. Loud were the cries of ENO’s losing its integrity in an attempt to get “butts in the seats”. 
 

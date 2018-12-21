@@ -1,6 +1,8 @@
----
-title: "Nicole Lizée on the Mosaïque Project"
----
++++
+categories = "Interview"
+slug = /nicole-lize-on-the-mosaque-project/
+title = "Nicole Lizée on the Mosaïque Project"
++++
 
 ## What does it mean to you to be one of the 14 composers creating this Musical Mosaïque?
 

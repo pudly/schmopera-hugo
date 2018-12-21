@@ -1,6 +1,8 @@
----
-title: "DiDonato inspires inmates through song"
----
++++
+categories = "Op-ed"
+slug = /didonato-inspires-inmates-through-song/
+title = "DiDonato inspires inmates through song"
++++
 
 My Beloved Schmop-Tops! Happy New Year!
 

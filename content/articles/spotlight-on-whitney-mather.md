@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Whitney Mather"
----
++++
+categories = "Interview"
+slug = /spotlight-on-whitney-mather/
+title = "Spotlight on: Whitney Mather"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

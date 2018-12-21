@@ -1,6 +1,8 @@
----
-title: "The singing reigns in Chicago&#039;s I Puritani"
----
++++
+categories = "Review"
+slug = /the-singing-reigns-in-chicagos-i-puritani/
+title = "The singing reigns in Chicago&#039;s I Puritani"
++++
 
 On Superbowl Sunday, a different kind of spectator sport was underway at the Lyric Opera of Chicago: an athletic display of bel canto bravura coloratura by the brilliant cast of Vincenzo Bellini's [*I Puritani*](https://www.lyricopera.org/concertstickets/calendar/2017-2018/productions/lyricopera/i-puritani-opera-tickets).
 

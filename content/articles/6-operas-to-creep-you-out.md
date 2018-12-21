@@ -1,6 +1,8 @@
----
-title: "6 operas to creep you out"
----
++++
+categories = "Humour"
+slug = /6-operas-to-creep-you-out/
+title = "6 operas to creep you out"
++++
 
 ## *Bluebeard's Castle*
 

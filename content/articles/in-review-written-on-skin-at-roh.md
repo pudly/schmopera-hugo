@@ -1,6 +1,8 @@
----
-title: "In review: Written On Skin at ROH"
----
++++
+categories = "Review"
+slug = /in-review-written-on-skin-at-roh/
+title = "In review: Written On Skin at ROH"
++++
 
 It was a noticeably different crowd than usual at the ROH's *Written on Skin*, the dense and evocative 2012 opera by George Benjamin and Martin Crimp. Particularly for an opening night, the demographic was certainly young; with nearly five years between the premiere of Katie Mitchell's production and this season's revival, audiences in London seemed invested in the life of one of the 21st century's most important English-language operas.
 

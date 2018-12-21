@@ -1,6 +1,8 @@
----
-title: "Opera Heroines in 2014: What if?"
----
++++
+categories = "Humour"
+slug = /opera-heroines-in-2014-what-if/
+title = "Opera Heroines in 2014: What if?"
++++
 
 So, it's the week of Valentine's Day, and I was trying to think of an appropriate post. I started thinking of opera couples, and the things they have in common. It turns out that the thing in common is a break-up of some sorts. And the majority of the time it's because the stories are from long ago, before women could stand up for themselves. So, in a manner far from lovey-dovey, I started thinking about what would have happened to our favourite opera heroines if they had existed today.
 

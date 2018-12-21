@@ -1,6 +1,8 @@
----
-title: "He said/she said: Songbook V"
----
++++
+categories = "Review"
+slug = /he-saidshe-said-songbook-v/
+title = "He said/she said: Songbook V"
++++
 
 <h2>Jenna:</h2>
 <p>

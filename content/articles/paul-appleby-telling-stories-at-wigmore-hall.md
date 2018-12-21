@@ -1,6 +1,8 @@
----
-title: "Paul Appleby: telling stories at Wigmore Hall"
----
++++
+categories = "Interview"
+slug = /paul-appleby-telling-stories-at-wigmore-hall/
+title = "Paul Appleby: telling stories at Wigmore Hall"
++++
 
 ## Why do you sing professionally?
 

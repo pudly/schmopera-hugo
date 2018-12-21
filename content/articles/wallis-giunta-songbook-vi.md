@@ -1,6 +1,8 @@
----
-title: "Wallis Giunta &amp; Songbook VI"
----
++++
+categories = "Interview"
+slug = /wallis-giunta-songbook-vi/
+title = "Wallis Giunta &amp; Songbook VI"
++++
 
 ## What will your role be with Tapestry's *Songbook VI*?
 

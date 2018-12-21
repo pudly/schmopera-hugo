@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Zachary Nelson"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-zachary-nelson/
+title = "Talking with singers: Zachary Nelson"
++++
 
 "When I was in college, the only thing I had in my head was, I have to make it to the absolute top as fast as possible." Ambition was never something that American baritone [Zachary Nelson](/scene/people/zachary-nelson/) lacked, and he remembers the [Opera Apprentice Program at Santa Fe Opera](https://www.santafeopera.org/about-us/apprentice-opportunities/singers/about-the-program) as one of his earliest professional goals. "I'm a freshman in college, I barely know how to read music, my skills are deplorable at this point," he recalls, adding that his first application for Santa Fe resulted in a "resounding" rejection. 
 

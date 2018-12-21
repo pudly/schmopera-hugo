@@ -1,6 +1,8 @@
----
-title: "Reconstructing a lost opera: Amleto"
----
++++
+categories = "Interview"
+slug = /reconstructing-a-lost-opera-amleto/
+title = "Reconstructing a lost opera: Amleto"
++++
 
 ## 1. How did *Amleto* get “lost”?
 

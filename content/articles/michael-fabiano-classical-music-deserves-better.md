@@ -1,6 +1,8 @@
----
-title: "Michael Fabiano: Classical music deserves better"
----
++++
+categories = "Op-ed"
+slug = /michael-fabiano-classical-music-deserves-better/
+title = "Michael Fabiano: Classical music deserves better"
++++
 
 Back in 1996, when the first metadata system was developed for MP3s there were only three options for attaching text to the files – artist, song name, and album.  Although categorization has changed, it hasn’t evolved to effectively categorize classical music.  It was only in 2004 that iTunes added a "Composer" tag.  A recent [article](http://www.theatlantic.com/technology/archive/2015/07/the-tragedy-of-itunes-and-classical-music/399788/) in *The Atlantic* titled "The Tragedy of iTunes and Classical Music" sheds a light on just how problematic iTunes and other major digital libraries are for storing and categorizing classical music.   What exactly is the problem?  Professional musicians, particularly classical ones, need quick and easy access to multiple recordings and iTunes just doesn’t cut it.
 

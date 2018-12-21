@@ -1,6 +1,8 @@
----
-title: "Risky opinions: there are 2 types of singers..."
----
++++
+categories = "Editorial"
+slug = /risky-opinions-there-are-2-types-of-singers/
+title = "Risky opinions: there are 2 types of singers..."
++++
 
 Even within a niche environment like opera, there are extremes, aesthetic poles that define subgenres within the larger art form. There are composers who write opera scores which are objectively beautiful to the ear; the music of *Madama Butterfly* or *Norma*, for example, is pleasing and memorable even out of context from the operas' plots. Conversely, there are composers whose operas have fewer hummable tunes, but instead try to find an exaggerated version of real-time drama with their scores; Britten, Monteverdi, Strauss, these guys took speech and turned it into a fantastical world of subtext and heightened emotions.
 

@@ -1,6 +1,8 @@
----
-title: "Touring tragedy: Pop-Up Opera&#039;s I Capuleti e i Montecchi"
----
++++
+categories = "News"
+slug = /touring-tragedy-popup-operas-i-capuleti-e-i-montecchi/
+title = "Touring tragedy: Pop-Up Opera&#039;s I Capuleti e i Montecchi"
++++
 
 Pop-Up Opera is a touring company that's passionate about bringing fully-staged productions around the UK, cast with young professional singers at the start of their operatic careers. They adapt eagerly to unconvential venues, like boats, wineries, and caverns; the novel performance spaces let Pop-Up Opera "open the hidden door to this art form and make even more seasoned opera goers feel like they have been given a secret backstage pass."
 

@@ -1,6 +1,8 @@
----
-title: "Advice for Young Musicians, from Young Agents"
----
++++
+categories = "Interview"
+slug = /advice-for-young-musicians-from-young-agents/
+title = "Advice for Young Musicians, from Young Agents"
++++
 
 <h2>Being a Good Colleague</h2>
 <p>

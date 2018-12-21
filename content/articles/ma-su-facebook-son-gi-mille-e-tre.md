@@ -1,6 +1,8 @@
----
-title: "Ma su Facebook, son già mille e tre!"
----
++++
+categories = "Humour"
+slug = /ma-su-facebook-son-gi-mille-e-tre/
+title = "Ma su Facebook, son già mille e tre!"
++++
 
 We hit a milestone this weekend: [Schmopera cleared 1000 likes on Facebook](https://www.facebook.com/schmopera)! 
 

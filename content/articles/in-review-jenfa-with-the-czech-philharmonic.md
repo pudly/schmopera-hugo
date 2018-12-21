@@ -1,6 +1,8 @@
----
-title: "In review: Jenůfa with the Czech Philharmonic"
----
++++
+categories = "Review"
+slug = /in-review-jenfa-with-the-czech-philharmonic/
+title = "In review: Jenůfa with the Czech Philharmonic"
++++
 
 Last night, the Royal Festival Hall welcomed the Czech Philharmonic to the stage, under the baton of Jiří Bělohlávek, for an in-concert performance of Leoš Janáček's *Jenůfa*. It's an opera we hadn't seen performed before, and after the evening's musical taste, it's one we're eager to see fully staged.
 

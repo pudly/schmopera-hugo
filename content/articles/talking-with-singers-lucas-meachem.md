@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Lucas Meachem"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-lucas-meachem/
+title = "Talking with singers: Lucas Meachem"
++++
 
 ## Why do you sing professionally?
 

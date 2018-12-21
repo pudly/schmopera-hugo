@@ -1,6 +1,8 @@
----
-title: "Lighting #UncleJohn: Jason Hand"
----
++++
+categories = "Interview"
+slug = /lighting-unclejohn-jason-hand/
+title = "Lighting #UncleJohn: Jason Hand"
++++
 
 ### What's your favourite part about your work as a lighting designer?
 

@@ -1,6 +1,8 @@
----
-title: "Becoming Santa Claus"
----
++++
+categories = "News"
+slug = /becoming-santa-claus/
+title = "Becoming Santa Claus"
++++
 
 - DVD release of Mark Adamo's opera *Becoming Santa Claus*. 
 - Adamo wrote music and libretto

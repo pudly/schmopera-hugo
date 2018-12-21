@@ -1,6 +1,8 @@
----
-title: "Schoenberg/Bach &amp; other unlikely pairs: AtG Theatre heads to TIFF"
----
++++
+categories = "Interview"
+slug = /schoenbergbach-other-unlikely-pairs-atg-theatre-heads-to-tiff/
+title = "Schoenberg/Bach &amp; other unlikely pairs: AtG Theatre heads to TIFF"
++++
 
 The Toronto International Film Festival (TIFF) is best known for its star-studded galas and premieres that take over the city every September; yet it actually does some amazing programming all year round. They present both classic works and those that may be relatively unknown to those who are not serious cinephiles.
 

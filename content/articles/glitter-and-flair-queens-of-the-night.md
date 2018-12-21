@@ -1,6 +1,8 @@
----
-title: "Glitter and flair: Queens of the Night"
----
++++
+categories = "Review"
+slug = /glitter-and-flair-queens-of-the-night/
+title = "Glitter and flair: Queens of the Night"
++++
 
 A much-needed break from the weighty and profound operatic material that O18 as been tirelessly producing, *Queens of the Night* at the Theater of Living Arts was a hilarious and joyful breath of fresh air.
 

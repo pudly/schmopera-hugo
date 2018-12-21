@@ -1,6 +1,8 @@
----
-title: "Everyday Arias presents 14 new opera film shorts"
----
++++
+categories = "News"
+slug = /everyday-arias-presents-14-new-opera-film-shorts/
+title = "Everyday Arias presents 14 new opera film shorts"
++++
 
 London-area opera fans and film buffs alike are in for a treat this month. *Everyday Arias* presents a collection of short opera films, to be screened at the Republic Gallery, East India, 2 Clove Crescent, on **January 21, 7-9:00pm**, and at Grosvenor Casino (near Piccadilly Station) on **January 28, 12-2:00pm**.
 

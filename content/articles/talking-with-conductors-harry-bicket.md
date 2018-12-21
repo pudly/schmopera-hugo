@@ -1,6 +1,8 @@
----
-title: "Talking with conductors: Harry Bicket"
----
++++
+categories = "Interview"
+slug = /talking-with-conductors-harry-bicket/
+title = "Talking with conductors: Harry Bicket"
++++
 
 ## How did you find yourself a "specialist" of sorts in Baroque music?
  

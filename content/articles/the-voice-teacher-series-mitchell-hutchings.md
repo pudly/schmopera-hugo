@@ -1,6 +1,8 @@
----
-title: "The voice teacher series: Mitchell Hutchings"
----
++++
+categories = "Interview"
+slug = /the-voice-teacher-series-mitchell-hutchings/
+title = "The voice teacher series: Mitchell Hutchings"
++++
 
 ## What do you enjoy most about teaching voice?
 

@@ -1,6 +1,8 @@
----
-title: "Aria guides: Dido&#039;s Lament"
----
++++
+categories = "How-to"
+slug = /aria-guides-didos-lament/
+title = "Aria guides: Dido&#039;s Lament"
++++
 
 <figure data-type="image">
 ![](/webhook-uploads/1481043661206/Aria-Guide---Dido---annotated---1.jpg)</figure>

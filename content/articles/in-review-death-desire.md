@@ -1,6 +1,8 @@
----
-title: "In review: Death &amp; Desire"
----
++++
+categories = "Review"
+slug = /in-review-death-desire/
+title = "In review: Death &amp; Desire"
++++
 
 *Death & Desire* is a blending of two art song cycles. One, *Die schöne 
 Müllerin* by the art song emperor, Franz Schubert and the second by France's master of the bird call, Olivier Messiaen, called *Harawi*. It's not an opera in the traditional sense, as per usual with AtG. It is, however, one of the most coherent, artistic and thrilling examples of lyric theatre to date.

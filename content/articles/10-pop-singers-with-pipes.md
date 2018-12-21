@@ -1,6 +1,8 @@
----
-title: "10 pop singers with pipes"
----
++++
+categories = "Editorial"
+slug = /10-pop-singers-with-pipes/
+title = "10 pop singers with pipes"
++++
 
 ## Aretha Franklin
 

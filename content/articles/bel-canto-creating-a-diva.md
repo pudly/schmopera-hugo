@@ -1,6 +1,8 @@
----
-title: "Bel Canto: creating a diva"
----
++++
+categories = "Editorial"
+slug = /bel-canto-creating-a-diva/
+title = "Bel Canto: creating a diva"
++++
 
 She may be officially [retired](https://www.nytimes.com/2017/04/05/arts/music/the-diva-departs-renee-flemings-farewell-to-opera.html) from the opera stage, but no one can accuse Renée Fleming of slowing down. She has a new album out on Decca Records - the self-explanatory *Renée Fleming - Broadway!* - and she continues her role at Lyric Opera of Chicago as Creative Consultant. In fact, LOC has a [star-studded gala](https://www.lyricopera.org/concertstickets/calendar/2018-2019/renee-fleming-25th-anniversary-tickets?utm_source=Newsletter&utm_medium=email&utm_content=PRESS+RELEASE%3A+Lyric+Announces+Guest+Artists+for+Ren%C3%A9e+Fleming+25th+Anniversary+Concert&utm_campaign=1819+RF+concert) in store to celebrate 25 years of Fleming's "extraordinary commitment to Chicago and her unparalleled contributions to our art form."
 

@@ -1,6 +1,8 @@
----
-title: "Cleaned-up Callas: the remastered live recordings"
----
++++
+categories = "Review"
+slug = /cleanedup-callas-the-remastered-live-recordings/
+title = "Cleaned-up Callas: the remastered live recordings"
++++
 
 For many younger opera fans - the kind who have a balance of love and reverence for the art and its artists - getting a big stack of remastered live recordings of Maria Callas presents as much joy as it does a sense of responsibility. The art (or science, even) of listening to recordings has changed in recent decades; it's an activity that has shifted for many from a slow and methodical process of collecting and comparing long-form media (like full-length opera recordings), to a ravenous grasping at the endless small bites available online (like instantly turning up 50+ different versions of "Sempre libera" on YouTube).
 

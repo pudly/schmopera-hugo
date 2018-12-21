@@ -1,6 +1,8 @@
----
-title: "A summer surprise"
----
++++
+categories = "News"
+slug = /a-summer-surprise/
+title = "A summer surprise"
++++
 
 On this beautiful Saturday morning, we've got exciting news to announce! 
 

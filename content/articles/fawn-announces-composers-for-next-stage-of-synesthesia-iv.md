@@ -1,6 +1,8 @@
----
-title: "FAWN announces composers for next stage of Synesthesia IV"
----
++++
+categories = "News"
+slug = /fawn-announces-composers-for-next-stage-of-synesthesia-iv/
+title = "FAWN announces composers for next stage of Synesthesia IV"
++++
 
 December is such a busy month for classical music lovers, with all the *Messiahs*, *Christmas Oratorios*, and carol-sings, and the whole host of other regular season offerings. 
 

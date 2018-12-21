@@ -1,6 +1,8 @@
----
-title: "Does a Good Artistic Director Read Music?"
----
++++
+categories = "Op-ed"
+slug = /does-a-good-artistic-director-read-music/
+title = "Does a Good Artistic Director Read Music?"
++++
 
 <p>
 	Paris Opera Artistic Director Stéphane Lissner. Photo: G Korganow.

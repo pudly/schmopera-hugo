@@ -1,6 +1,8 @@
----
-title: "Riders of the Purple Sage: meet Jane"
----
++++
+categories = "Interview"
+slug = /riders-of-the-purple-sage-meet-jane/
+title = "Riders of the Purple Sage: meet Jane"
++++
 
 ## What kind of person is Jane Withersteen?
 

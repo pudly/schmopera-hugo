@@ -1,6 +1,8 @@
----
-title: "In review: Hannigan &amp; Gražinytė-Tyla at the BBC Proms"
----
++++
+categories = "Review"
+slug = /in-review-hannigan-grainyttyla-at-the-bbc-proms/
+title = "In review: Hannigan &amp; Gražinytė-Tyla at the BBC Proms"
++++
 
 Saturday night was BBC Prom 55 at the Royal Albert Hall; the City of Birmingham Symphony Orchestra, under Lithuanian maestra [Mirga Gražinytė-Tyla](http://www.classicfm.com/artists/mirga-grazinyte-tyla/news/cbso-new-conductor-music-director/#9utRVBAuFB2coXl1.97), shared the stage with Canadian soprano Barbara Hannigan for what was an evening of firsts.
 

@@ -1,6 +1,8 @@
----
-title: "The flip side of the baby opera singer coin"
----
++++
+categories = "Op-ed"
+slug = /the-flip-side-of-the-baby-opera-singer-coin/
+title = "The flip side of the baby opera singer coin"
++++
 
 Well, here's yet another post on Laura Bretan, the 13-year old who recently performed ["Nessun dorma"](https://www.youtube.com/watch?v=xCoxGV7j71c&feature=youtu.be) on *America's Got Talent*. I'm sure you’ve read a bunch of opinions on her performance (like [this one](/baby-opera-singers-getting-angry-for-the-right-reasons/) or [this one](http://www.claudiafriedlander.com/the-liberated-voice/thats-not-opera-its-an-opportunity.html), as we all do every time a baby "opera singer" makes a splash on a similar show.
 

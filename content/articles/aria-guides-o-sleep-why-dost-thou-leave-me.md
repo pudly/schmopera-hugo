@@ -1,6 +1,8 @@
----
-title: "Aria guides: O sleep, why dost thou leave me?"
----
++++
+categories = "How-to"
+slug = /aria-guides-o-sleep-why-dost-thou-leave-me/
+title = "Aria guides: O sleep, why dost thou leave me?"
++++
 
 1. There's so much to enjoy in this first phrase, and with the silence underneath Semele, Handel is hinting (loudly) that she should make the most of it. She just woke up, after all. It's important to stay connected to the written rhythms, even if you're going to take some liberty with them. There's tension in the way Semele begins singing on beat 2, and we should feel that syncopation, as gentle as it is. I'm a champion of coming in right *a tempo*, and then taking a bit of freedom while you're singing. 
 

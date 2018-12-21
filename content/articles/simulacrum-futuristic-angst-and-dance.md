@@ -1,6 +1,8 @@
----
-title: "Simulacrum: Futuristic angst and dance"
----
++++
+categories = "Review"
+slug = /simulacrum-futuristic-angst-and-dance/
+title = "Simulacrum: Futuristic angst and dance"
++++
 
 The word *simulacrum*, is having quite a run these days. Rooted in Latin, it has been used at least twice in the last two years, first as the title of a ballet and currently as that of an opera, the inaugural project of Path New Music, that played earlier this month for three performances at the 3LD Art and Technology Center in New York's financial district. The meaning of simulacrum ranges from a
 likeness and similarity to an unreal or vague semblance. 

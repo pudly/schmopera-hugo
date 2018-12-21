@@ -1,6 +1,8 @@
----
-title: "The TFCO: a young people&#039;s opera blitz"
----
++++
+categories = "News"
+slug = /the-tfco-a-young-peoples-opera-blitz/
+title = "The TFCO: a young people&#039;s opera blitz"
++++
 
 Continuing Toronto's trend of innovative and exciting ways to experience opera is the inaugural [Toronto Festival of Children's Opera](http://www.canadianchildrensopera.com/content/TFCO.html), running **May 29 to June 12**. Opera written for and by young audiences is an expanding part of the art form in the 21st-century, and some of Canada's biggest players are partnering up to celebrate children's opera: the [Canadian Opera Company](/scene/companies/canadian-opera-company/), [Tapestry Opera](/scene/companies/tapestry-opera/), VIVA! Youth Singers of Toronto, the Canadian Music Centre, Opera.ca, and yours truly, Schmopera. The Festival is being led by Canadian Children’s Opera Company’s [Dean Burry](/scene/people/dean-burry/) (Artistic Director) and Ken Hall (Managing Director).
 

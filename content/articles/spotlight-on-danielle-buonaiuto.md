@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Danielle Buonaiuto"
----
++++
+categories = "Interview"
+slug = /spotlight-on-danielle-buonaiuto/
+title = "Spotlight on: Danielle Buonaiuto"
++++
 
 ## Why do you pursue the arts, and why are you doing it professionally?
 	

@@ -1,6 +1,8 @@
----
-title: "Classical vs popular music: is it a global thing?"
----
++++
+categories = "Op-ed"
+slug = /classical-vs-popular-music-is-it-a-global-thing/
+title = "Classical vs popular music: is it a global thing?"
++++
 
 In the West, one of our ongoing cultural discussions is the divide (which seems to grow wider) between audiences of Classical music and popular music. I had always vaguely wondered if this perceived divide exists elsewhere in the world, or if it was unique to Europe and North America. 
 

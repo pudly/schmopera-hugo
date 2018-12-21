@@ -1,6 +1,8 @@
----
-title: "Things I want to see: La Zombiata"
----
++++
+categories = "Humour"
+slug = /things-i-want-to-see-la-zombiata/
+title = "Things I want to see: La Zombiata"
++++
 
 If you're in the Boston area this month, count yourself lucky. [WholeTone Opera](http://wholetoneopera.com/), a new company devoted to working with women composers, is presenting *La Zombiata: A Zombie Opera*, **February 12-14 at Davis Square Theater** in Somerville, MA. The opera is by Jillian Flexner, and it's a comedy loosely based on Verdi's infamous *La traviata*. 
 

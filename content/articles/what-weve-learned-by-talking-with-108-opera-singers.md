@@ -1,6 +1,8 @@
----
-title: "What we&#039;ve learned by talking with 108 opera singers"
----
++++
+categories = "Editorial"
+slug = /what-weve-learned-by-talking-with-108-opera-singers/
+title = "What we&#039;ve learned by talking with 108 opera singers"
++++
 
 Since we started Schmopera in late 2013, we have interviewed 108 singers. One hundred and eight! We're proud of that number, and we're by no means done.
 

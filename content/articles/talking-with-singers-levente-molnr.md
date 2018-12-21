@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Levente Molnár"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-levente-molnr/
+title = "Talking with singers: Levente Molnár"
++++
 
 ### Why do you sing, particularly in the field of opera?
 

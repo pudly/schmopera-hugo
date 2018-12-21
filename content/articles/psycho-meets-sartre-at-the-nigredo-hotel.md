@@ -1,6 +1,8 @@
----
-title: "Psycho meets Sartre at the Nigredo Hotel"
----
++++
+categories = "Review"
+slug = /psycho-meets-sartre-at-the-nigredo-hotel/
+title = "Psycho meets Sartre at the Nigredo Hotel"
++++
 
 City Opera Vancouver's newest production of [*Nigredo Hotel*](http://cityoperavancouver.com/nigredo-hotel) is one part Carl Jung, one part 50s thriller movie, and a profound trip into the darkest parts of the human mind. 
 

@@ -1,6 +1,8 @@
----
-title: "A frighteningly timeless story of abuse: Pagliacci"
----
++++
+categories = "Review"
+slug = /a-frighteningly-timeless-story-of-abuse-pagliacci/
+title = "A frighteningly timeless story of abuse: Pagliacci"
++++
 
 The storyline of *Pagliacci* is unfortunately just as realistic and relevant as when it premiered in 1892. Leoncavallo found his inspiration for the plot in a newspaper crime report, and he wouldn't have to look too hard to find similar cases of violence against women in a newspaper today. Sure the darker aspects of the story are surrounded by more lighthearted theatrical trappings, but at its core, the opera is less about clowns and more about the dangerous emotions of a jealous, abusive husband. Opera Omaha's production of *Pagliacci* delivered the classic contrast between the players' two worlds - the thin theatrical façade that hides their tumultuous emotions.
 

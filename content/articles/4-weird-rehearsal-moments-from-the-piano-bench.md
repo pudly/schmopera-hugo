@@ -1,6 +1,8 @@
----
-title: "4 weird rehearsal moments from the piano bench"
----
++++
+categories = "Humour"
+slug = /4-weird-rehearsal-moments-from-the-piano-bench/
+title = "4 weird rehearsal moments from the piano bench"
++++
 
 ## Ambiguous Upbeats
 

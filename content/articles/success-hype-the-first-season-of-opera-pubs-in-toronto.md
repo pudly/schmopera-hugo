@@ -1,6 +1,8 @@
----
-title: "Success &amp; hype: the first season of Opera Pubs in Toronto"
----
++++
+categories = "Editorial"
+slug = /success-hype-the-first-season-of-opera-pubs-in-toronto/
+title = "Success &amp; hype: the first season of Opera Pubs in Toronto"
++++
 
 There are few events in the Canadian opera scene that have garnered as much hype as the Opera Pubs presented by Toronto's [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/). Like most good things, the premise is simple: a mixture of the opera-savvy and the opera-curious gather at the Amsterdam Bicycle Club, and a handful of opera singers share the work of performing a few sets' worth of arias and duets.
 

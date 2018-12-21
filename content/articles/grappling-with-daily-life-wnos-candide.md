@@ -1,6 +1,8 @@
----
-title: "Grappling with daily life: WNO&#039;s Candide"
----
++++
+categories = "Review"
+slug = /grappling-with-daily-life-wnos-candide/
+title = "Grappling with daily life: WNO&#039;s Candide"
++++
 
 As I sat down to the computer to write my review of Saturday night's premiere of [Washington National Opera](/scene/companies/washington-national-opera/) Artistic Director Francesca Zambello's [production of *Candide*](http://www.kennedy-center.org/calendar/event/OSOSF), I began by glancing at the front page of a couple major US newspapers. "Storms, Missteps, and an Ailing Grid Left Puerto Rico in the Dark," "SpaceX using Rocket Technology that could Endanger Lives, Nasa Advisers Say," "Hawaii's Big Island Rocked by Historic Earthquake as Lava Flow Threatens Homes," "Bombing Kills at least 14 Afghans Registering to Vote." Tragedies happen everywhere, every day. People motivated by greed or power commit evil acts over and over again. They always have, and they always will. It's this daily, unrelenting horror of life that Leonard Bernstein's adaptation of the Voltaire classic attempts to grapple with, and somehow does it hilariously.
 

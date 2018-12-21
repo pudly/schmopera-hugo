@@ -1,6 +1,8 @@
----
-title: "Grease Live: a rant"
----
++++
+categories = "Op-ed"
+slug = /grease-live-a-rant/
+title = "Grease Live: a rant"
++++
 
 Alright, so, it's good news that a big TV network like FOX aired a musical, not to mention a live performance. Last night was [*Grease Live*](http://www.fox.com/grease-live), a fairly unique event for mainstream media that seemed on par with NBC's [*The Sound of Music Live!*](http://www.imdb.com/title/tt3141866/) with Carrie Underwood as Maria (yup).
 

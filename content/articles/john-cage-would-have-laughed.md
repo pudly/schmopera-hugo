@@ -1,6 +1,8 @@
----
-title: "John Cage Would Have Laughed"
----
++++
+categories = "Humour"
+slug = /john-cage-would-have-laughed/
+title = "John Cage Would Have Laughed"
++++
 
 Since John Cage didn't write anything easily defined as an opera, this is officially a topical digression. Concerning the above screenshot, possible explanations include:
 

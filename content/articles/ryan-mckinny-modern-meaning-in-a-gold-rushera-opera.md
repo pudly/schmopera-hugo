@@ -1,6 +1,8 @@
----
-title: "Ryan McKinny: Modern meaning in a Gold Rush-era opera"
----
++++
+categories = "Interview"
+slug = /ryan-mckinny-modern-meaning-in-a-gold-rushera-opera/
+title = "Ryan McKinny: Modern meaning in a Gold Rush-era opera"
++++
 
 ## What can you tell us about Clarence King?
 

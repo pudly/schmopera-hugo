@@ -1,6 +1,8 @@
----
-title: "He said/she said: Tap:Ex Metallurgy"
----
++++
+categories = "Review"
+slug = /he-saidshe-said-tapex-metallurgy/
+title = "He said/she said: Tap:Ex Metallurgy"
++++
 
 ## She said:
 

@@ -1,6 +1,8 @@
----
-title: "Opera in the age of Netflix"
----
++++
+categories = "Op-ed"
+slug = /opera-in-the-age-of-netflix/
+title = "Opera in the age of Netflix"
++++
 
 We've all been there. It's a Friday night after a long week. We're exhausted. Our boss has taken every ounce of motivation and joy out of our job, which otherwise would be palatable. We get home and scramble to fix something remotely tasty, disregarding to a certain extent the healthiness of our choices. We want something to comfort us, take us away from the stress from a job that barely pays our bills and allows us some small, simple joys.
  

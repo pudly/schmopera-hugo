@@ -1,6 +1,8 @@
----
-title: "The TFCO kicks off with Tolkien"
----
++++
+categories = "News"
+slug = /the-tfco-kicks-off-with-tolkien/
+title = "The TFCO kicks off with Tolkien"
++++
 
 The inaugural [Toronto Festival of Children's Opera](http://www.canadianchildrensopera.com/content/TFCO.html) launches this Sunday, May 29th with the first of eight events, [*Swords and Songs*](http://www.canadianchildrensopera.com/content/swords-and-songs.html). 
 

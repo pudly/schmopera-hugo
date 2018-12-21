@@ -1,6 +1,8 @@
----
-title: "In review: When the Sun Comes Out"
----
++++
+categories = "Review"
+slug = /in-review-when-the-sun-comes-out/
+title = "In review: When the Sun Comes Out"
++++
 
 Thursday, June 25th, I made my way to the healthily air-conditioned Ernest Balmer Studio, home of Tapestry New Opera to see the Toronto Concert Premiere of [Leslie Uyeda](http://leslieuyeda.com/)'s opera _When the Sun Comes Out._ #WorldPride2014.
 Originally produced in Vancouver on August 5, 2013 and commissioned by the Queer Arts Festival, _When the Sun Comes Out_ tells the heart-wrenching story of what happens to those unfortunate enough to live where they can't love freely. It tells a poignant story of Solana, a young lesbian from Montréal who has shunned society's edicts on what a woman is, should be, and how she should behave. We find her as she's seeking out her one lost love, Lilah. The opera lends credibility to the fictional country where the action takes place by making Solana from an actual city here in Canada - that happens to be one of my favourites, even if I'm yet to have a cronut. The piece is actually in a dystopian country called Fundamentalia - which is exactly what it sounds like. Deviation from patriarchal/antiquated gender roles is one of many things apparently punishable by death.

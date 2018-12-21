@@ -1,6 +1,8 @@
----
-title: "A refreshing gateway drug: The Magic Flute at O17"
----
++++
+categories = "Review"
+slug = /a-refreshing-gateway-drug-the-magic-flute-at-o17/
+title = "A refreshing gateway drug: The Magic Flute at O17"
++++
 
 In total contrast to the [previous night's world premiere](/a-stunning-premiere-elizabeth-cree/), Opera Philadelphia's production of [*The Magic Flute*](https://www.operaphila.org/whats-on/on-stage-2017-2018/the-magic-flute/) is a genius selection that satisfies both the conservative opera patron and the progressive audience member. While the concept is certainly modern, it still has a Mozartian elegance, charm, and cleverness. Suzanne Andrade, Barrie Kosky, and Paul Barritt have put together a very smart production, which even the most traditional of viewers is sure to enjoy. It becomes instantly clear that this production of a classic manages to look and feel fresh, while also satisfying our craving for the well-loved masterpiece. 
 

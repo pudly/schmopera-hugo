@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: The Art Song of Healey Willan"
----
++++
+categories = "News"
+slug = /dont-miss-the-art-song-of-healey-willan/
+title = "Don&#039;t miss: The Art Song of Healey Willan"
++++
 
 On **November 18, 7:30pm** at Trinity-St. Paul's, the [Canadian Art Song Project](/scene/companies/canadian-art-song-project/) presents [*The Art Song of Healey Willan*](http://www.canadianartsongproject.ca/concert-season/), celebrating some of the unpublished songs by the Anglo-Canadian composer and organist. 
 
