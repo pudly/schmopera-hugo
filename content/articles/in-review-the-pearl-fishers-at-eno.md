@@ -1,6 +1,8 @@
----
-title: "In review: The Pearl Fishers at ENO"
----
++++
+categories = "Review"
+slug = /in-review-the-pearl-fishers-at-eno/
+title = "In review: The Pearl Fishers at ENO"
++++
 
 Penny Woolcock's production of Bizet's *The Pearl Fishers* opened its second revival last night at [English National Opera](/scene/companies/english-national-opera/). The design by Dick Bird (sets), Kevin Pollard (costumes), and Jennifer Schriever (lighting) created a picture of contemporary Sri Lanka; by day it was alive and slightly claustrophobic, and by night it was layers-deep with stunning depictions of city lights and rolling waves. The image of divers, descending for pearls, was a lovely opening, beautifully done by eight aerialists.
 

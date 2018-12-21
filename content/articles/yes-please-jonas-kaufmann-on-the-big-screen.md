@@ -1,6 +1,8 @@
----
-title: "Yes, please: Jonas Kaufmann on the big screen"
----
++++
+categories = "News"
+slug = /yes-please-jonas-kaufmann-on-the-big-screen/
+title = "Yes, please: Jonas Kaufmann on the big screen"
++++
 
 Coming up on **February 24 and March 20**, Grammy-award winning tenor [Jonas Kaufmann](/scene/people/jonas-kaufmann/) takes the big screen in select Canadian theatres for *Jonas Kaufmann: An Evening with Puccini*. The all-Giacomo concert was given at Teatro alla Scala in June, 2015, along with the Filarmonica della Scala, and conducted by Jochen Rieder in his Scala debut. 
 

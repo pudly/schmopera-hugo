@@ -1,6 +1,8 @@
----
-title: "&quot;Viva la operetta!&quot;"
----
++++
+categories = "Review"
+slug = /viva-la-operetta/
+title = "&quot;Viva la operetta!&quot;"
++++
 
 For someone who knows virtually nothing about mariachi (like this reviewer), the production of *Cruzar La Cara De La Luna* was an eye-opening experience. It was a chance to not only hear, for the first time, the most famous mariachi band in the world ([Mariachi Vargas De Tecalitlan](https://www.youtube.com/watch?v=8NWSWg7c0Ec)), but a chance to see that mariachi, as a genre, can sustain a lovely and poignant book musical. Commissioned by and premiered at Houston Grand Opera in 2010, this is the Los Angeles premiere of the work (for one weekend only at the Younes and Soraya Nazarian Center for the Performing Arts, formerly the Valley Performing Arts Center on the campus of CSUN.)
 

@@ -1,6 +1,8 @@
----
-title: "Dynamic and physical: Rinaldo at Oper Frankfurt"
----
++++
+categories = "Review"
+slug = /dynamic-and-physical-rinaldo-at-oper-frankfurt/
+title = "Dynamic and physical: Rinaldo at Oper Frankfurt"
++++
 
 A few years back, while working for [Tafelmusik](/scene/companies/tafelmusik-baroque-orchestra-chamber-choir/) in Toronto, I was introduced to the concept of Baroque music as alternative and irreverent. Baroque is, by design, full of revolution, and performances of Baroque music today are at their best when they are exploratory and used as a space to play. A new production of Georg Friedrich Handel's tricentenarian [*Rinaldo*](http://www.oper-frankfurt.de/en/season-calendar/rinaldo/?id_datum=990) at [Oper Frankfurt](/scene/companies/oper-frankfurt/), set in the company's alternative space - an old streetcar hangar turned theatre in the early 90s, the Bockenheimer Depot - took that to a delicious extreme and showcased North American style in both the cast and creative team.
 

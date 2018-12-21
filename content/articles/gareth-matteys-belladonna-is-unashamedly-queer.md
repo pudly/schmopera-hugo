@@ -1,6 +1,8 @@
----
-title: "Gareth Mattey&#039;s Belladonna is &quot;unashamedly queer&quot;"
----
++++
+categories = "Interview"
+slug = /gareth-matteys-belladonna-is-unashamedly-queer/
+title = "Gareth Mattey&#039;s Belladonna is &quot;unashamedly queer&quot;"
++++
 
 ## What is a queer narrative, and how do you adapt "unashamedly queer" stories to a musical or operatic setting?
 

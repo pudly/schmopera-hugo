@@ -1,6 +1,8 @@
----
-title: "Pyramus, Thisbe, and Canadian opera history"
----
++++
+categories = "News"
+slug = /pyramus-thisbe-and-canadian-opera-history/
+title = "Pyramus, Thisbe, and Canadian opera history"
++++
 
 Sunday night I got to witness a dress rehearsal for an amazing thing happening here in Toronto. For the first time I saw a Canadian composer take a curtain call on the [Canadian Opera Company](/scene/companies/canadian-opera-company/) stage after the performance of what will be a world premiere Canadian work. 
 

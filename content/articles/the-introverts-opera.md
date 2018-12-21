@@ -1,6 +1,8 @@
----
-title: "The Introvert&#039;s Opera"
----
++++
+categories = "Op-ed"
+slug = /the-introverts-opera/
+title = "The Introvert&#039;s Opera"
++++
 
 <p>
 	Opera has this air about it that screams, "I am grand! I am big and loud! I am epic and serious!" Even comic opera has a dignified energy about it, and the singers onstage have no choice but to command the audience's attention. A similar idea exists about the people who make opera, like the spotlight-loving singers, the excitable directors, the magnetic conductors. They're all larger-than-life, and people like Jessye Norman, Carlos Kleiber, and Christopher Alden are examples of opera's extrovert personality.

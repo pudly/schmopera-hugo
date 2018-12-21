@@ -1,6 +1,8 @@
----
-title: "Encore?"
----
++++
+categories = "Op-ed"
+slug = /encore/
+title = "Encore?"
++++
 
 I was in rehearsal for an upcoming concert, and the only thing left to look at was the encore. I always feel like a lame impostor, rehearsing an encore. The whole idea of the encore is that it's a repetition of a song that the audience clearly loved ("encore" is French for "again"), or it's a bonus number, understood that it's of the _impromptu_ sort. So here I am, rehearsing my spontaneity, all the while assuming (somewhat narcissistically, I might add) that the audience will love me so much that they will _demand_ more. It's one of those conundrums of Classical music that's hard to defend to the layperson.
 

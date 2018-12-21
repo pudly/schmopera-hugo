@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Stephanie Tritchew"
----
++++
+categories = "Interview"
+slug = /spotlight-on-stephanie-tritchew/
+title = "Spotlight on: Stephanie Tritchew"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

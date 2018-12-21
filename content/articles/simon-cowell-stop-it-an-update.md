@@ -1,6 +1,8 @@
----
-title: "Simon Cowell, stop it: An Update"
----
++++
+categories = "Editorial"
+slug = /simon-cowell-stop-it-an-update/
+title = "Simon Cowell, stop it: An Update"
++++
 
 [Yesterday I posted a link to a ridiculous track](http://schmopera.com/simon-cowell-stop-it/) from 10-year-old Amira Willighagen's new album, produced by Simon Cowell's label, [Syco Entertainment](http://www.simoncowellonline.com/syco/4579192368).  The track was a duet version of Puccini's "Nessun dorma," which featured the dubbed and transposed voice of Luciano Pavarotti, taken without permission from one of his studio recordings of the aria.
 

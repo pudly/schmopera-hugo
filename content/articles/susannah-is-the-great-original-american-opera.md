@@ -1,6 +1,8 @@
----
-title: "&quot;Susannah is THE great original American opera.&quot;"
----
++++
+categories = "Interview"
+slug = /susannah-is-the-great-original-american-opera/
+title = "&quot;Susannah is THE great original American opera.&quot;"
++++
 
 ## What do you think is the significance of performing *Susannah*?
  

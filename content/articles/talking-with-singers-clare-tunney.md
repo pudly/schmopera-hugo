@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Clare Tunney"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-clare-tunney/
+title = "Talking with singers: Clare Tunney"
++++
 
 ## What does it feel like to sing Mozart's music, when all is going well?
 

@@ -1,6 +1,8 @@
----
-title: "Aria guides: &quot;Lieben, Hassen&quot;"
----
++++
+categories = "How-to"
+slug = /aria-guides-lieben-hassen/
+title = "Aria guides: &quot;Lieben, Hassen&quot;"
++++
 
 1. Strauss packs these first two bars with what's basically a masterclass in [word painting](https://en.wikipedia.org/wiki/Word_painting). Each of these four words should sound like their meaning: "Loving, hating, hoping, fearing". If you're having trouble coming up with ideas, Strauss offers a few colour options with the dynamic markings, and those accents over "Hassen". <figure data-type="image">
 ![](/webhook-uploads/1503017778481/Aria-Guide---Harlekin---annotated-1.jpg)

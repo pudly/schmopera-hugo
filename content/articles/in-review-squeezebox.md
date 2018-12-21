@@ -1,6 +1,8 @@
----
-title: "In review: Squeezebox"
----
++++
+categories = "Review"
+slug = /in-review-squeezebox/
+title = "In review: Squeezebox"
++++
 
 Trinity-St. Paul's never looks better than when it has a full house, and that's what [Soundstreams](/scene/companies/soundstreams/) had Wednesday night in Toronto.
 

@@ -1,6 +1,8 @@
----
-title: "Ottawa&#039;s Barber is brushing up his skills"
----
++++
+categories = "News"
+slug = /ottawas-barber-is-brushing-up-his-skills/
+title = "Ottawa&#039;s Barber is brushing up his skills"
++++
 
 Ottawans, do you love opera? Do you love a good haircut? Head over to Byward Market Square tomorrow to find out more about both.
 

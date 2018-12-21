@@ -1,6 +1,8 @@
----
-title: "In review: Rowan Pierce &amp; the London Handel Players"
----
++++
+categories = "Review"
+slug = /in-review-rowan-pierce-the-london-handel-players/
+title = "In review: Rowan Pierce &amp; the London Handel Players"
++++
 
 Easter is officially over, Christ is risen, and tons of musicians have been performing Bach for the past month. Passion after Passion, St. Matthew after St. John, we are reminded of the quality and quantity of work J.S. Bach composed during his lifetime. Indeed, the big composers of the eighteenth century seem to have written so much work, some of it tends to get lost - minor works by major composers have to fight for the limelight in an early music world dominated by the *Giulio Cesares* and Bach *Magnificats* of the time.
 

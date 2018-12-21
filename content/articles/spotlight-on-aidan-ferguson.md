@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Aidan Ferguson"
----
++++
+categories = "Interview"
+slug = /spotlight-on-aidan-ferguson/
+title = "Spotlight on: Aidan Ferguson"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

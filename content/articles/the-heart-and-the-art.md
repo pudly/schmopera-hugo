@@ -1,6 +1,8 @@
----
-title: "The heart and the art"
----
++++
+categories = "Op-ed"
+slug = /the-heart-and-the-art/
+title = "The heart and the art"
++++
 
 Our jobs must seem quite surreal to the average person. The opera industry is full of professional travellers; singers, conductors, directors, coaches, stage managers and designers are often in a constant state of transit. It's not uncommon for an opera-type's calendar to feature three weeks in Toronto, two in Montreal, a four-week audition tour throughout Europe, and three nights in New York, all back-to-back. We tell our less artsy friends about our work, and the consensus is that our lifestyle sounds "glamourous". And there are certainly parts of it that are indeed glamourous. Opera folk are well-traveled, often multi-lingual, with a huge circle of friends and colleagues from around the world. They work in theatres and concert halls, which is a cool idea in itself. They seem to jet-set from gig to gig, and I suppose the average person imagines an opera singer's travel experience is a slightly tamer version of the [Beatles' arrival in America](https://www.youtube.com/watch?v=1Df-LvrRcEo), touching down on a runway and rushing off to the concert stage to accept their applause. For those who choose to make a career out of making opera, travel is a necessity; but at what cost?
 

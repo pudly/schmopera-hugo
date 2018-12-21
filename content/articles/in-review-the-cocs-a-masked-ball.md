@@ -1,6 +1,8 @@
----
-title: "In review: the COC&#039;s A Masked Ball"
----
++++
+categories = "Review"
+slug = /in-review-the-cocs-a-masked-ball/
+title = "In review: the COC&#039;s A Masked Ball"
++++
 
 On Wednesday, I braved the ridiculous snow for a much-needed Verdi fix at the Four Seasons Centre. The Canadian Opera Company's current production of [_A Masked Ball_](http://www.coc.ca/PerformancesAndTickets/1314Season/UnBalloInMaschera.aspx) had piqued my interest, both for the exciting cast and for the production, of which I'd only seen a few curious photos.
 Directors [Jossi Wieler](http://www.oper-stuttgart.de/jossi-wieler/wunderzaichen/jossi-wieler/) and [Sergio Morabito](http://www.oper-stuttgart.com/team/sergio-morabito/) capitalized on the timelessness of the libretto's dramatic themes: an unhappy marriage, a child caught between arguing parents, maintaining one's good public image, the desire for revenge. "We wanted to explore how fragile our identity can be, how quickly apparently secure contexts and relationships – social, professional, family or personal – can break down."

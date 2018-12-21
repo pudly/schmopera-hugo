@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: &quot;Feet&quot; at the Horniman Museum"
----
++++
+categories = "Interview"
+slug = /dont-miss-feet-at-the-horniman-museum/
+title = "Don&#039;t miss: &quot;Feet&quot; at the Horniman Museum"
++++
 
 ## What can you tell us about *Feet* and what makes it an "opera installation"?
 

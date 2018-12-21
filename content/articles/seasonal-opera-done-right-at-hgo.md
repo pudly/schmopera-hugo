@@ -1,6 +1,8 @@
----
-title: "Seasonal opera done right at HGO"
----
++++
+categories = "Review"
+slug = /seasonal-opera-done-right-at-hgo/
+title = "Seasonal opera done right at HGO"
++++
 
 In their so-far three-year odyssey of Christmas opera commissions, [Houston Grand Opera](/scene/companies/houston-grand-opera/) has finally managed to unearth that elusive commodity: a modern opera set around the holiday season that inherently possesses at least a modicum of universality and staying power. For though their stated goal of finding the exact equivalent of Pyotr Tchaikovsky's immortal ballet *Shchelkunchik* may well be ambitious and unrealizable without a dedicated aristocracy, yet Ricky Ian Gordon's newest opera, [*The House without a Christmas Tree*](http://www.houstongrandopera.org/the-house-without-a-christmas-tree), is indeed a greatly heartwarming piece, which is ultimately what matters for audiences accustomed to cinema, and a greatly sophisticated one, which is what matters for connoisseurs.
 

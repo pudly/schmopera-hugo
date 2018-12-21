@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Héloïse Werner"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-hlose-werner/
+title = "Talking with singers: Héloïse Werner"
++++
 
 With her mismatched earrings and generous smile, chatting with soprano [Héloïse Werner](/scene/people/heloise-werner/) was a breath of fresh air. The 25 year-old singer, cellist, composer, and producer is one of the most industrious young artists working today, and she shows no signs of letting up.
 

@@ -1,6 +1,8 @@
----
-title: "Materialism turns tragic: don&#039;t miss The Overcoat"
----
++++
+categories = "Interview"
+slug = /materialism-turns-tragic-dont-miss-the-overcoat/
+title = "Materialism turns tragic: don&#039;t miss The Overcoat"
++++
 
 *The Overcoat*, the 1842 Ukrainian short story by Nikolai Gogol, sees its second adaptation this month in a [co-production with Tapestry Opera, Canadian Stage, and Vancouver Opera](https://tapestryopera.com/the-overcoat-a-musical-tailoring/). Director and playwright Morris Panych first imagined *The Overcoat* 20 years ago with movement director Wendy Gorling, as a piece of "silent-theatre" underscored by selected music by Dmitri Shostakovich. Now, Panych and his creative team revisit the story, adapted into an opera with an original score by James Rolfe (*Beatrice Chancy*, *Crush*, *Elijah's Kite*).
 

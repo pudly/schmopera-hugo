@@ -1,6 +1,8 @@
----
-title: "Harawi? What&#039;s that?"
----
++++
+categories = "Editorial"
+slug = /harawi-whats-that/
+title = "Harawi? What&#039;s that?"
++++
 
 Olivier Messaien isn't known for his opera (he wrote just one, the 5-hour, heavily Catholic *St. Francois d'Assise*), but he's certainly known for lofty subjects. Against the Grain Theatre opens [*Death & Desire*](http://againstthegraintheatre.com/shows/deathanddesire) tonight, which combines Schubert's *Die schöne Müllerin* with Messaien's *Harawi*, shuffling them together "like a deck of cards," to quote Artistic Director Joel Ivany. Perhaps it's not surprising that, compared to the tomes written about Schubert and his famous song cycle, there is little to say about *Harawi* that can't be deduced from the score. While that didn't stop me from trying to find out more, I concluded early on that the dearth of contextual information about *Harawi* is indicative of how the audiences experiences the piece. 
 

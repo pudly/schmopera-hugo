@@ -1,6 +1,8 @@
----
-title: "Summer Opera Nights in Palm Beach"
----
++++
+categories = "Review"
+slug = /summer-opera-nights-in-palm-beach/
+title = "Summer Opera Nights in Palm Beach"
++++
 
 Floridians often jokingly attest that the weather in their home state offers only two seasons: summer, and hurricane. It was fitting, then, that [Palm Beach Opera](/scene/companies/palm-beach-opera/) fans and newcomers alike gathered on a hot, humid evening in late September to enjoy the final installment of the company's newest community outreach series, [Summer Opera Nights](https://pbopera.org/event/operanights/).
 

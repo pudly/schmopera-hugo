@@ -1,6 +1,8 @@
----
-title: "Tee-oh, eh?"
----
++++
+categories = "Editorial"
+slug = /teeoh-eh/
+title = "Tee-oh, eh?"
++++
 
 If you're a subscriber to our [newsletter](/get-our-newsletter-stay-in-the-loop/), you've already heard the good news: [Jenna](/authors/jenna-douglas/) is heading back across the pond, to her beloved Toronto (#the6ix!).
 

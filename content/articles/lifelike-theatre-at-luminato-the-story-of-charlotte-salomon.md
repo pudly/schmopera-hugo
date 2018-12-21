@@ -1,6 +1,8 @@
----
-title: "Life-like theatre at Luminato: the story of Charlotte Salomon"
----
++++
+categories = "Interview"
+slug = /lifelike-theatre-at-luminato-the-story-of-charlotte-salomon/
+title = "Life-like theatre at Luminato: the story of Charlotte Salomon"
++++
 
 ## How is Charlotte Salomon's work unique among Jewish art from WWII?
 

@@ -1,6 +1,8 @@
----
-title: "Concert etiquette, or put down your phone"
----
++++
+categories = "Humour"
+slug = /concert-etiquette-or-put-down-your-phone/
+title = "Concert etiquette, or put down your phone"
++++
 
 Alright, so I've been thoroughly enjoying the 2015/16 season of opera and concerts so far, but I'm a little dismayed that it's only November and we already need to talk about concert etiquette.
 

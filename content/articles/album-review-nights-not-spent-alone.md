@@ -1,6 +1,8 @@
----
-title: "Album review: Nights Not Spent Alone"
----
++++
+categories = "Review"
+slug = /album-review-nights-not-spent-alone/
+title = "Album review: Nights Not Spent Alone"
++++
 
 [Kitty Whately](/scene/people/kitty-whately/)'s second album of English songs is a refreshing look at the music of Jonathan Dove. With pianist Simon Lepper, Whately has recorded Dove's complete works for mezzo-soprano, which add up to five song sets, and one stand-alone work for *a cappella* voice. The album is [*Nights Not Spent Alone*](https://kitty-whately.squarespace.com/shop/nightsnotspentalone), and Whately's voice seems to match beautifully the personal touches found all over Dove's music. 
 

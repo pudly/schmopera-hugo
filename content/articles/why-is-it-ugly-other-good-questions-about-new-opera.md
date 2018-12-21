@@ -1,6 +1,8 @@
----
-title: "&quot;Why is it ugly?&quot; &amp; other good questions about new opera"
----
++++
+categories = "Editorial"
+slug = /why-is-it-ugly-other-good-questions-about-new-opera/
+title = "&quot;Why is it ugly?&quot; &amp; other good questions about new opera"
++++
 
 If you're someone who goes to hear a lot of opera and concerts, you're likely exposed to a fair amount of what's called "contemporary" music. Defining "contemporary" is a funny thing. Strictly speaking, it means music written in our time; like the term "modern", "contemporary music" can also be a common blanket label for music that's actually decades old - just not centuries old.
 

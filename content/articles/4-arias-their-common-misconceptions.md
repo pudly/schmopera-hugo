@@ -1,6 +1,8 @@
----
-title: "4 arias &amp; their common misconceptions"
----
++++
+categories = "How-to"
+slug = /4-arias-their-common-misconceptions/
+title = "4 arias &amp; their common misconceptions"
++++
 
 ## "O mio babbino caro"
 

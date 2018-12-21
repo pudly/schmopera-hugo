@@ -1,6 +1,8 @@
----
-title: "Rhythm: the good, the bad, and the stressful"
----
++++
+categories = "Humour"
+slug = /rhythm-the-good-the-bad-and-the-stressful/
+title = "Rhythm: the good, the bad, and the stressful"
++++
 
 A long time ago, a smart voice teacher once said, "the most important thing in music is rhythm." That statement still rings true; the elements of music, like a melody that moves people, and lyrics that mean something, are held together with rhythm. It's the same thing in speech; without the rhythm of a language, it can be really hard to draw meaning from a string of words (it's why we hear foreign accents in our native language).
 

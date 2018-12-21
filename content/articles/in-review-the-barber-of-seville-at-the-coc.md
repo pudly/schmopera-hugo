@@ -1,6 +1,8 @@
----
-title: "In review: The Barber of Seville at the COC"
----
++++
+categories = "Review"
+slug = /in-review-the-barber-of-seville-at-the-coc/
+title = "In review: The Barber of Seville at the COC"
++++
 
 I went yesterday afternoon to see [*The Barber of Seville*](http://www.coc.ca/PerformancesAndTickets/1415Season/BarberofSeville.aspx) at the Four Seasons Centre. The anticipation was serious, especially since I was able to see the director's concept discussion, and I interviewed three singers from the cast ([Joshua Hopkins](/talking-figaro-with-joshua-hopkins/), [Alek Shrader](/talking-with-counts-alek-shrader/), and [Serena Malfi](/serena-malfi-on-singing-rosina/)). So, I was fairly hyped up for this production, and full of curiosity.
 

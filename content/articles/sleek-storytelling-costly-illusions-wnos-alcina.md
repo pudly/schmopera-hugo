@@ -1,6 +1,8 @@
----
-title: "Sleek storytelling &amp; costly illusions: WNO&#039;s Alcina"
----
++++
+categories = "Review"
+slug = /sleek-storytelling-costly-illusions-wnos-alcina/
+title = "Sleek storytelling &amp; costly illusions: WNO&#039;s Alcina"
++++
 
 Is the cold harsh truth better than a comforting lie?  That is the question asked by Handel's *Alcina*, an opera filled with lies and illusions; the beauty of Alcina's island, Bradamante's disguise as Ricciardo, and Ruggiero's enchanted love for Alcina are all falsehoods whose exposure have serious emotional consequences for the characters of this story. "Ignorance is bliss," so the idiom says, and yet another reminds that "the truth will set you free."
 

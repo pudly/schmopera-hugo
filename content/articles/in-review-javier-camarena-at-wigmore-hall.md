@@ -1,6 +1,8 @@
----
-title: "In review: Javier Camarena at Wigmore Hall"
----
++++
+categories = "Review"
+slug = /in-review-javier-camarena-at-wigmore-hall/
+title = "In review: Javier Camarena at Wigmore Hall"
++++
 
 Last night's [Rosenblatt Recital](/ian-rosenblatt-its-all-about-the-voice/), featuring tenor [Javier Camarena](/scene/people/javier-camarena/) and pianist [Ángel Rodríguez](http://www.angelrodriguez.mx/), was a lesson in what it means to have technique, and to use it for entertainment.
 

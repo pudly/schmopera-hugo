@@ -1,6 +1,8 @@
----
-title: "A week in the Amphitheatre"
----
++++
+categories = "Review"
+slug = /a-week-in-the-amphitheatre/
+title = "A week in the Amphitheatre"
++++
 
 This week, the Free Concert Series in the Richard Bradshaw Amphitheatre featured up a selection of voice recitals that seemed to have a theme of "unusual music". 
 

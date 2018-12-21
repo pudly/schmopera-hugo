@@ -1,6 +1,8 @@
----
-title: "Richard Margison is throwing a Gala in the Gardens"
----
++++
+categories = "Interview"
+slug = /richard-margison-is-throwing-a-gala-in-the-gardens/
+title = "Richard Margison is throwing a Gala in the Gardens"
++++
 
 ### 1. Can you tell us about The Commons: Highlands Opera Theatre? In what stage of development is it, and what are the next steps beyond this concert?
 

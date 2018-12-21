@@ -1,6 +1,8 @@
----
-title: "Shh! Confidential Opera Project is back!"
----
++++
+categories = "News"
+slug = /shh-confidential-opera-project-is-back/
+title = "Shh! Confidential Opera Project is back!"
++++
 
 Hello, Schmop-Tops!
 

@@ -1,6 +1,8 @@
----
-title: "And Here We Are: voice versus volume"
----
++++
+categories = "Review"
+slug = /and-here-we-are-voice-versus-volume/
+title = "And Here We Are: voice versus volume"
++++
 
 It's voice versus volume in [Experiments In Opera](/scene/companies/experiments-in-opera/)'s presentation of Matthew Welch's [*And Here We Are*](http://experimentsinopera.com/portfolio-item/and-here-we-are/), which he also conducts. The opera is based on a memoir of Edgar Kneedler, a detainee in a World War II interment camp. With few exceptions, the individual style and vocal quality that the three supporting singers bring to their roles, is compromised by the production's high-octane acoustics. Baritone Daniel Neer, who wrote the lumbering libretto, sings Kneedler who dominates as he supplies the narrative. One wonders if this didn't set out to be a series of soliloquies.
 

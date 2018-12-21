@@ -1,6 +1,8 @@
----
-title: "Conductors: what else do they tell us?"
----
++++
+categories = "Op-ed"
+slug = /conductors-what-else-do-they-tell-us/
+title = "Conductors: what else do they tell us?"
++++
 
 When George Martin and The Beatles made *Sgt. Pepper's Lonely Hearts Club Band* in 1967, they made history by using the recording studio itself as a sort of "instrument." Songs like "A Day in the Life", or even "With a Little Help from My Friends" aren't easy to reproduce on a live stage, and the album isn't meant to be a preserved concert in the same way that *Please Please Me* is. What's cool about *Sgt. Pepper* and all the inspired albums after it, is that the album itself is the medium; it's not a holding place until you can see a band live, but its own piece of art, like a novel. When you write music with the possibilities of a recording studio or other technology at your disposal, the palates of sound and rhythm can be endless; the playing field becomes exponentially immense. 
 

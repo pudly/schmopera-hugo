@@ -1,6 +1,8 @@
----
-title: "How to really learn a song"
----
++++
+categories = "How-to"
+slug = /how-to-really-learn-a-song/
+title = "How to really learn a song"
++++
 
 ### Know your rhythm, know everyone's rhythm
 

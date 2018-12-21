@@ -1,6 +1,8 @@
----
-title: "Rags to Reasonable&#039;s Personal Finance Holy Grail"
----
++++
+categories = "News"
+slug = /rags-to-reasonables-personal-finance-holy-grail/
+title = "Rags to Reasonable&#039;s Personal Finance Holy Grail"
++++
 
 My pal [Chris Enns](/scene/people/christopher-enns/) is a [hardworking tenor](http://www.schmopera.com/on-the-road-the-bicycle-opera-project/), and creator of [Rags to Reasonable](http://www.ragstoreasonable.com/), a blog about personal finance geared towards artists. 
 

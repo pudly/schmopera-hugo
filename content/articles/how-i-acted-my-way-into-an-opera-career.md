@@ -1,6 +1,8 @@
----
-title: "How I acted my way into an opera career"
----
++++
+categories = "Op-ed"
+slug = /how-i-acted-my-way-into-an-opera-career/
+title = "How I acted my way into an opera career"
++++
 
 I remember when I first told my parents I wanted to be an actor. I had just performed in our school district’s Speech and Drama Festival and scored a near perfect mark for my portrayal of the Big Bad Wolf (of "Three Little Pigs" fame) telling the true account of what happened with those mischievous swine.
 

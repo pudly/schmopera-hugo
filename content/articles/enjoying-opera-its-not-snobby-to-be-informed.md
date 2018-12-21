@@ -1,6 +1,8 @@
----
-title: "Enjoying opera: it&#039;s not snobby to be informed"
----
++++
+categories = "Editorial"
+slug = /enjoying-opera-its-not-snobby-to-be-informed/
+title = "Enjoying opera: it&#039;s not snobby to be informed"
++++
 
 The other night, I was at a performance of the Royal Opera's *La traviata*, and a strange thing dawned on me: there just may be a legitimate case for being "elitist" with opera.
 

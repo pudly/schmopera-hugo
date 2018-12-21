@@ -1,6 +1,8 @@
----
-title: "Spectacle &amp; art: Dragus Maximus"
----
++++
+categories = "Review"
+slug = /spectacle-art-dragus-maximus/
+title = "Spectacle &amp; art: Dragus Maximus"
++++
 
 Heartbeat Opera's *Dragus Maximus: A Homersexual Opera Odyssey* was a treat for the eyes and ears and an appeal to the Love that unites us, of which we must constantly be reminded.
 

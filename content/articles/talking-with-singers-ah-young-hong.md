@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Ah Young Hong"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-ah-young-hong/
+title = "Talking with singers: Ah Young Hong"
++++
 
 ## What drove you to a professional career in singing?
  

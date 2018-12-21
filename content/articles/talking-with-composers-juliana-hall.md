@@ -1,6 +1,8 @@
----
-title: "Talking with composers: Juliana Hall"
----
++++
+categories = "Interview"
+slug = /talking-with-composers-juliana-hall/
+title = "Talking with composers: Juliana Hall"
++++
 
 ## How would you describe your musical aesthetic? How have you heard it described by others?
 

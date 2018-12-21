@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Lida Szkwarek"
----
++++
+categories = "Interview"
+slug = /spotlight-on-lida-szkwarek/
+title = "Spotlight on: Lida Szkwarek"
++++
 
 ### 1. Why do you sing, and why are you pursuing it professionally?
 

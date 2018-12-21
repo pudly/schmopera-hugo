@@ -1,6 +1,8 @@
----
-title: "In review: Isabel Bayrakdarian and Tafelmusik"
----
++++
+categories = "Review"
+slug = /in-review-isabel-bayrakdarian-and-tafelmusik/
+title = "In review: Isabel Bayrakdarian and Tafelmusik"
++++
 
 On Thursday night I went to see the Tafelmusik orchestra perform with Canadian soprano [Isabel Bayrakdarian](http://bayrakdarian.com/) in a concert with a good title: _Rival Queens_.
 

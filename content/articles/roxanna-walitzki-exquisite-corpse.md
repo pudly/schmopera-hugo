@@ -1,6 +1,8 @@
----
-title: "Roxanna Walitzki: Exquisite Corpse"
----
++++
+categories = "News"
+slug = /roxanna-walitzki-exquisite-corpse/
+title = "Roxanna Walitzki: Exquisite Corpse"
++++
 
 ## What made you choose these songs, and how did you come up with the aesthetic of the new arrangements?
 

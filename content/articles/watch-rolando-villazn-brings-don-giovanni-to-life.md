@@ -1,6 +1,8 @@
----
-title: "Watch: Rolando Villazón brings Don Giovanni to life"
----
++++
+categories = "Editorial"
+slug = /watch-rolando-villazn-brings-don-giovanni-to-life/
+title = "Watch: Rolando Villazón brings Don Giovanni to life"
++++
 
 In case you need another reason to fall in love with Mozart and his *Don Giovanni*, BBC Music has you covered.
 

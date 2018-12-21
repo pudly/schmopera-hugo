@@ -1,6 +1,8 @@
----
-title: "Browse Suzanne Vinnik&#039;s Opera Diva Dress Collection"
----
++++
+categories = "Interview"
+slug = /browse-suzanne-vinniks-opera-diva-dress-collection/
+title = "Browse Suzanne Vinnik&#039;s Opera Diva Dress Collection"
++++
 
 ### 1. Can you tell us about the unlikely problem of having too many gowns in one’s closet?
 

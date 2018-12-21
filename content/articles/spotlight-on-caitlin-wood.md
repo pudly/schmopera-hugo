@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Caitlin Wood"
----
++++
+categories = "Interview"
+slug = /spotlight-on-caitlin-wood/
+title = "Spotlight on: Caitlin Wood"
++++
 
 ## What does "good singing" mean to you? What does it feel like when you achieve it?
 

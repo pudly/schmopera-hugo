@@ -1,6 +1,8 @@
----
-title: "&quot;Catharsis&quot; is the wrong word: Britten&#039;s War Requiem"
----
++++
+categories = "Review"
+slug = /catharsis-is-the-wrong-word-brittens-war-requiem/
+title = "&quot;Catharsis&quot; is the wrong word: Britten&#039;s War Requiem"
++++
 
 There was a moment of particular vitriol in Bramwell Tovey's brief remarks before giving the Toronto Symphony Orchestra its downbeat for Britten's arresting *War Requiem*. He said, "When the sun goes down, and when the sun comes up - *and in the rain* - we shall remember." It was a pointed, verbal bite directed at a US President who, 100 years after the official end of WWI, was too small and weak to pay an in-person visit to an American military cemetary outside Paris; he cited rain as his excuse, which is in horrific taste even as it is thinly-veiled code for pouting and narcissism.
 

@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Samantha Pickett"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-samantha-pickett/
+title = "Talking with singers: Samantha Pickett"
++++
 
 If you're looking for them, it's easy to spot the young artists of the Canadian Opera Company throughout the season. The singers of the Ensemble Studio - Canada's top-tier training program - share the stage with world-class headlining artists, singing supporting roles and often staying on-the-ready to step in as understudies. 
 

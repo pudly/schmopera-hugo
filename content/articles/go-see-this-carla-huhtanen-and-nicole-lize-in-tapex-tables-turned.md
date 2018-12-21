@@ -1,6 +1,8 @@
----
-title: "Go See This: Carla Huhtanen and Nicole Lizée in Tap:Ex Tables Turned"
----
++++
+categories = "Interview"
+slug = /go-see-this-carla-huhtanen-and-nicole-lize-in-tapex-tables-turned/
+title = "Go See This: Carla Huhtanen and Nicole Lizée in Tap:Ex Tables Turned"
++++
 
 ## 1\. A soprano and a turntablist are an unlikely pair to share a stage; what brought you together for this project?
 

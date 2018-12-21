@@ -1,6 +1,8 @@
----
-title: "In review: Tim Mead &amp; James Baillieu in recital"
----
++++
+categories = "Review"
+slug = /in-review-tim-mead-james-baillieu-in-recital/
+title = "In review: Tim Mead &amp; James Baillieu in recital"
++++
 
 Countertenor [Tim Mead](/scene/people/tim-mead/)'s recital with pianist [James Baillieu](/scene/people/james-baillieu/) was the perfect fix for a rainy Sunday afternoon. The pair delivered an hour's worth of English songs, favourites by Purcell, Quilter, Vaughan Williams, and Ireland, and more obscure pieces by Betty Roe, Joseph Phibbs, and John Dankworth.
 

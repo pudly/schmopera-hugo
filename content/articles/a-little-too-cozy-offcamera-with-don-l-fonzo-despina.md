@@ -1,6 +1,8 @@
----
-title: "A Little Too Cozy: Off-camera with Don L. Fonzo &amp; Despina"
----
++++
+categories = "Interview"
+slug = /a-little-too-cozy-offcamera-with-don-l-fonzo-despina/
+title = "A Little Too Cozy: Off-camera with Don L. Fonzo &amp; Despina"
++++
 
 ## What are your thoughts on this group of *Cozy* contestants? 
 

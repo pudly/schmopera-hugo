@@ -1,6 +1,8 @@
----
-title: "New recordings: The Man Who Mistook His Wife for a Hat"
----
++++
+categories = "Review"
+slug = /new-recordings-the-man-who-mistook-his-wife-for-a-hat/
+title = "New recordings: The Man Who Mistook His Wife for a Hat"
++++
 
 "Popular" is a strong word for the minimalist chamber opera, *The Man Who Mistook His Wife For A Hat* (1986), composed by Michael Nyman (b. 1944).  Rarely produced, and more rarely recorded, the opera is a subtle and reflective examination of fear of the unknown, the weakening of a previously fortified relationship, and really, the realization that all that we know to be true teeters arbitrarily between "Sure, everything is fine," and perceived calamity.
  

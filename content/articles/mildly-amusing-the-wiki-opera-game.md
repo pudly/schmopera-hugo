@@ -1,6 +1,8 @@
----
-title: "Mildly amusing: the Wiki Opera Game"
----
++++
+categories = "Humour"
+slug = /mildly-amusing-the-wiki-opera-game/
+title = "Mildly amusing: the Wiki Opera Game"
++++
 
 Do you like opera? How about silly games?
 

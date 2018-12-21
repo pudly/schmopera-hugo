@@ -1,6 +1,8 @@
----
-title: "Standing out: Giles Tomkins joins the CCOC for The Hobbit"
----
++++
+categories = "Interview"
+slug = /standing-out-giles-tomkins-joins-the-ccoc-for-the-hobbit/
+title = "Standing out: Giles Tomkins joins the CCOC for The Hobbit"
++++
 
 One of the best things that's happening with the first-ever Toronto Festival of Children's Opera is that the young, up-and-coming singers are getting the chance to see full professional productions, and work with the best in the business. 
 

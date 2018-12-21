@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Marjorie Maltais"
----
++++
+categories = "Interview"
+slug = /spotlight-on-marjorie-maltais/
+title = "Spotlight on: Marjorie Maltais"
++++
 
 ### 1. Why do you sing, and why are you pursuing it professionally? 
 

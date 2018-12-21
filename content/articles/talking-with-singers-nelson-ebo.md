@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Nelson Ebo"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-nelson-ebo/
+title = "Talking with singers: Nelson Ebo"
++++
 
 ## How do you approach a role like Stan, an adapted version of a character from Beethoven's *Fidelio*?
 

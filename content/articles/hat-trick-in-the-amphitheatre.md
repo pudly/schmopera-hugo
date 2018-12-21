@@ -1,6 +1,8 @@
----
-title: "Hat trick in the Amphitheatre"
----
++++
+categories = "Editorial"
+slug = /hat-trick-in-the-amphitheatre/
+title = "Hat trick in the Amphitheatre"
++++
 
 The [Free Concert Series](http://www.coc.ca/PerformancesAndTickets/FreeConcertSeries.aspx) in the Four Seasons Centre's Richard Bradshaw Amphitheatre is winding down for the summer, and [this week marks the end](http://www.coc.ca/PerformancesAndTickets/FreeConcertSeries/May.aspx) of the Vocal Series performances. At noon this Tuesday, Wednesday, and Thursday, you can catch some stellar singing, *for free*.
 

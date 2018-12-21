@@ -1,6 +1,8 @@
----
-title: "The price of vengeance: Rigoletto at ROH"
----
++++
+categories = "Review"
+slug = /the-price-of-vengeance-rigoletto-at-roh/
+title = "The price of vengeance: Rigoletto at ROH"
++++
 
 Vendetta: that infamous word, tarnished by association with Mafia bloodshed and *The Godfather*. Vendettas have a nasty tendency to self-perpetuate, as each act of retribution in turn generates further reprisals, ad infinitum. The burning lust for revenge can be passed on for generations, until groups have long forgotten why they despise their opponents in the first place. Vendetta plays a central role in Verdi's opera *Rigoletto*. After all, one of the eponymous character's most celebrated arias is "Si! Vendetta, tremenda vendetta!"
 

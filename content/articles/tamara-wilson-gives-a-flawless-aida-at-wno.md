@@ -1,6 +1,8 @@
----
-title: "Tamara Wilson gives a &quot;flawless&quot; Aida at WNO"
----
++++
+categories = "Review"
+slug = /tamara-wilson-gives-a-flawless-aida-at-wno/
+title = "Tamara Wilson gives a &quot;flawless&quot; Aida at WNO"
++++
 
 It's not a new idea to invite well-known artists to join an opera production's design team; Marc Chagall's famous 1967 *Magic Flute* production for [The Metropolitan Opera](/scene/companies/the-metropolitan-opera/) comes to mind as a notable example, and William Kentridge's productions of *The Nose* and [*Lulu*](/in-review-lulu-at-eno/) have run at the Met and [English National Opera](/scene/companies/english-national-opera/) to acclaim in the last decade. 
 

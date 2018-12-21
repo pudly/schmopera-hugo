@@ -1,6 +1,8 @@
----
-title: "Odyssey Opera&#039;s Giovanna D&#039;Arco Bold and Flawed"
----
++++
+categories = "Review"
+slug = /odyssey-operas-giovanna-darco-bold-and-flawed/
+title = "Odyssey Opera&#039;s Giovanna D&#039;Arco Bold and Flawed"
++++
 
 A big problem with many of Giuseppe Verdi's early operas is how they brush up against the conventions of Italian opera: one frequently gets the distinct feeling watching any performance of Verdi's early works that he would have been able to produce much better results, had he eschewed the bel canto trappings of his time. This is especially true of his efforts in *Giovanna D'Arco*, a production of which ended Odyssey Opera's season-long exploration of various rarely-performed musical settings of the life of Joan of Arc.
 

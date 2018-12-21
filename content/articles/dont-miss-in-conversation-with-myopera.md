@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: In Conversation with MYOpera"
----
++++
+categories = "News"
+slug = /dont-miss-in-conversation-with-myopera/
+title = "Don&#039;t miss: In Conversation with MYOpera"
++++
 
 This coming **Thursday, March 3rd** you can catch me at [The Spoke Club](http://www.thespokeclub.com/), chatting with some of the most inspiring upstarts in Canadian opera.
 

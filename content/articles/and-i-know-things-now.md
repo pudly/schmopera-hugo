@@ -1,6 +1,8 @@
----
-title: "And I Know Things Now"
----
++++
+categories = "Editorial"
+slug = /and-i-know-things-now/
+title = "And I Know Things Now"
++++
 
 The great Stephen Sondheim wrote:
 

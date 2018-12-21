@@ -1,6 +1,8 @@
----
-title: "Onto the finals: why can&#039;t they all just win?"
----
++++
+categories = "Editorial"
+slug = /onto-the-finals-why-cant-they-all-just-win/
+title = "Onto the finals: why can&#039;t they all just win?"
++++
 
 The great thing about voice competitions is that they're an efficient way of getting your fix of no-holds-barred singing from the singers who are serious enough about their craft to do all the hard work it takes to vie for a prize.
 

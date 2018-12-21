@@ -1,6 +1,8 @@
----
-title: "5 Tips for University Auditionees"
----
++++
+categories = "How-to"
+slug = /5-tips-for-university-auditionees/
+title = "5 Tips for University Auditionees"
++++
 
 <h2>1. Do your research, <em>then</em> find your pianist</h2>
 <p>

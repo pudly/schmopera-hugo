@@ -1,6 +1,8 @@
----
-title: "Good ideas: Adult Summer Acting Intensive"
----
++++
+categories = "News"
+slug = /good-ideas-adult-summer-acting-intensive/
+title = "Good ideas: Adult Summer Acting Intensive"
++++
 
 Singers, do you have your summer plans sorted?
 

@@ -1,6 +1,8 @@
----
-title: "5 ways to make watching an opera at home even more fun"
----
++++
+categories = "Humour"
+slug = /5-ways-to-make-watching-an-opera-at-home-even-more-fun/
+title = "5 ways to make watching an opera at home even more fun"
++++
 
 ## Hooking
 

@@ -1,6 +1,8 @@
----
-title: "Wacky &amp; silly Médecin malgré lui an over-the-top delight"
----
++++
+categories = "Review"
+slug = /wacky-silly-mdecin-malgr-lui-an-overthetop-delight/
+title = "Wacky &amp; silly Médecin malgré lui an over-the-top delight"
++++
 
 Molière as a playwright was a man given to the silly and over-the-top when it came to lampooning the conventions of his time. This is especially so for any adaptations of plays starring his Sganarelle character, who often received lengthy monologues thanks to the fact Molière played him rather often in productions. It is thus that we arrive at the central issue surrounding Gounod's rarely-performed opera (accompanied, in this case, by recitatives by Erik Satie) based on his [*Le médecin malgré lui*](https://www.odysseyopera.org/2018-gounod-le-medecin-malgre-lui/): in order for any performance of this opera to work, the singers have to play directly into the absurdity.
 

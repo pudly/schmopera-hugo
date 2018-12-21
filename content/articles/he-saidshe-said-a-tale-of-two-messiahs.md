@@ -1,6 +1,8 @@
----
-title: "He said/She said: a tale of two Messiahs"
----
++++
+categories = "Review"
+slug = /he-saidshe-said-a-tale-of-two-messiahs/
+title = "He said/She said: a tale of two Messiahs"
++++
 
 **Greg**: Jenna's back in Toronto, and all is right with the world. This time last year we were [in the throes of our own *Messiah* madness](/rehearsing-a-messiah-that-moves/), so we thought it only perfect to jump with two feet into this year's offerings.
 

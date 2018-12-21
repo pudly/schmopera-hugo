@@ -1,6 +1,8 @@
----
-title: "Memorable nights: the TSO&#039;s tribute Glenn Gould"
----
++++
+categories = "Review"
+slug = /memorable-nights-the-tsos-tribute-glenn-gould/
+title = "Memorable nights: the TSO&#039;s tribute Glenn Gould"
++++
 
 In this final quarter of Canada's 150th year, I cross my fingers and hope that I'm not the only one who is just a pinch weary of concerts and theatre that make a point of paying timely homage to our country. Happily, there was something organic and cohesive about the [Toronto Symphony Orchestra](/scene/companies/toronto-symphony-orchestra/)'s *A Tribute To Glenn Gould*, presented this weekend at Roy Thomson Hall. The simple ingredients for a great concert were there: great music, eye-popping performers, and a thematic link that was endearing and interesting.
 

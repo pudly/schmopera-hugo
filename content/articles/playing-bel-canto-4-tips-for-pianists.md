@@ -1,6 +1,8 @@
----
-title: "Playing bel canto: 4 tips for pianists"
----
++++
+categories = "How-to"
+slug = /playing-bel-canto-4-tips-for-pianists/
+title = "Playing bel canto: 4 tips for pianists"
++++
 
 ## Get literal
 

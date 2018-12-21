@@ -1,6 +1,8 @@
----
-title: "Check out: Opera 5"
----
++++
+categories = "Interview"
+slug = /check-out-opera-5/
+title = "Check out: Opera 5"
++++
 
 ### 1. What is the mission behind Opera 5?
 

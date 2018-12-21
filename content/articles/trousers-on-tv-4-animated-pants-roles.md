@@ -1,6 +1,8 @@
----
-title: "Trousers on TV: 4 animated pants roles"
----
++++
+categories = "Humour"
+slug = /trousers-on-tv-4-animated-pants-roles/
+title = "Trousers on TV: 4 animated pants roles"
++++
 
 Though they conjure up images of the 17th and 18th centuries - an impatient Cherubino-type, or Handel royalty - trouser roles are still a thing in opera today. In fact, women playing male characters, and vice versa (a skirt role?), is a thing outside of opera, too. It makes odd sense that some of television's most popular animated shows have what could be called "trouser roles"; after all, like opera, the actors on animated shows are working primarily with, well, their voice.
 

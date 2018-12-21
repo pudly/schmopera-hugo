@@ -1,6 +1,8 @@
----
-title: "Practicing spontaneity: be like Hillary &amp; not like Donald"
----
++++
+categories = "Op-ed"
+slug = /practicing-spontaneity-be-like-hillary-not-like-donald/
+title = "Practicing spontaneity: be like Hillary &amp; not like Donald"
++++
 
 The run up to the American Election is interminable so I don't generally pay attention, but one item caught my eye a couple of days ago:  It turns out that Donald Trump, brilliant politician that he is, says he is doing very little preparation for his 3 debates with Hillary Clinton.  
 

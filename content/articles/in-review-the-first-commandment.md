@@ -1,6 +1,8 @@
----
-title: "In review: The First Commandment"
----
++++
+categories = "Review"
+slug = /in-review-the-first-commandment/
+title = "In review: The First Commandment"
++++
 
 Continuing its fascinating MOZART 250 project, which chronologically presents the works of W.A. Mozart in the 250th year of their composition, [Classical Opera](/ian-page-mozart-imagination/) presents the little-known *Die Schuldigkeit des ersten Gebots*, K. 35, or *The First Commandment* (though the original German title better translates to, "The obligation of the first commandment"). Written in 1767 when Mozart was just 11 years old, the work marks the composer's first extended dramatic work. His *The First Commandment* is the first of three parts, the latter two written by Michael Haydn and Anton Adlgasser, respectively; it was first presented over three consecutive Thursdays during Lent in 1767, and Mozart's portion even received an encore performance.
 

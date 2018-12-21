@@ -1,6 +1,8 @@
----
-title: "An isolated tenor in an operatic masterwork: Les contes d&#039;Hoffmann"
----
++++
+categories = "Review"
+slug = /an-isolated-tenor-in-an-operatic-masterwork-les-contes-dhoffmann/
+title = "An isolated tenor in an operatic masterwork: Les contes d&#039;Hoffmann"
++++
 
 In its current incarnation at the Metropolitan Opera, Bartlett Sher's 2009 production of *Les contes d'Hoffmann* renews hope for a tired institution. Composer Jacques Offenbach wanted to write a dramatic opera to eclipse the operettas that made him famous. As a young man, he encountered *Les contes d'Hoffmann*, a play written by Jules Barbier and Michel Carré that dramatized three E.T.A. Hoffmann stories. He thought it could be good operatic source material. Years later, Offenbach approached Barbier to write the libretto and the two began collaborating on the opera. With his health in decline, Offenbach desperately tried to finish the work, but died before he could complete the orchestration and witness the premiere.
  

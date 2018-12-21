@@ -1,6 +1,8 @@
----
-title: "Talking with singers: David Shipley"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-david-shipley/
+title = "Talking with singers: David Shipley"
++++
 
 David Shipley, a young bass with the [Royal Opera House](/scene/companies/royal-opera-house/)'s Jette Parker Young Artists Programme, took some time to chat between rehearsals for [*The Nose*](http://www.roh.org.uk/productions/the-nose-by-barrie-kosky), set to open at Covent Garden on October 20. Shipley is in his second season with the ROH, and he seems already a pro at balancing the busy schedule of his mainstage responsibilities, and the demands of the Young Artists Programme itself.
 

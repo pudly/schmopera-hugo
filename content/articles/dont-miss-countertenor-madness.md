@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Countertenor Madness!"
----
++++
+categories = "News"
+slug = /dont-miss-countertenor-madness/
+title = "Don&#039;t miss: Countertenor Madness!"
++++
 
 Next month with the [Kingston Road United Church Concert Series](https://www.kruc.ca/concerts/), you can see something that might truly be a once-in-a-lifetime event.
 

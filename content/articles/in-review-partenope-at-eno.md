@@ -1,6 +1,8 @@
----
-title: "In review: Partenope at ENO"
----
++++
+categories = "Review"
+slug = /in-review-partenope-at-eno/
+title = "In review: Partenope at ENO"
++++
 
 Handel's setting of Silvio Stampiglia's wildly popular libretto, [*Partenope*](https://www.eno.org/whats-on/partenope/), is the best-known of the at least ten operatic versions from the 18th century. Though in his opera she is the Queen of Naples, Partenope is also the name of one of the sirens of Greek mythology, the half-bird, half-human creatures who lured sailors, fatally, with the sounds of their voices.
 

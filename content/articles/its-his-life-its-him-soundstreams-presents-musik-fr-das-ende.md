@@ -1,6 +1,8 @@
----
-title: "&quot;It&#039;s his life, it&#039;s him.&quot; Soundstreams presents Musik für das Ende"
----
++++
+categories = "Interview"
+slug = /its-his-life-its-him-soundstreams-presents-musik-fr-das-ende/
+title = "&quot;It&#039;s his life, it&#039;s him.&quot; Soundstreams presents Musik für das Ende"
++++
 
 10 singers are currently deep into rehearsals with stage director Chris Abraham and music director John Hess for what will be the premiere staged performance of Claude Vivier's 1971 work, *Musik für das Ende* (*Music of the End*). [Presented by Soundstreams](https://www.soundstreams.ca/performances/main-stage/musik-fur-das-ende/), **October 27 to November 4**, *Musik für das Ende* is programmed along with the last piece Vivier wrote before his premature death in 1983, *Glaubst du an die Unsterblichkeit der Seele* (*Do You Believe in the Immortality of the Soul?*)
 

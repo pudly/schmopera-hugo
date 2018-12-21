@@ -1,6 +1,8 @@
----
-title: "Canada sounds like: Mosaïque Project"
----
++++
+categories = "Interview"
+slug = /canada-sounds-like-mosaque-project/
+title = "Canada sounds like: Mosaïque Project"
++++
 
 ### What was the inspiration behind this Musical Mosaïque?
 

@@ -1,6 +1,8 @@
----
-title: "&quot;Thank you for the music...&quot;"
----
++++
+categories = "Review"
+slug = /thank-you-for-the-music/
+title = "&quot;Thank you for the music...&quot;"
++++
 
 Hello Schmop-Tops, 
 

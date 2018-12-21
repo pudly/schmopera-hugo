@@ -1,6 +1,7 @@
----
-title: "Election opera"
----
++++
+slug = /election-opera/
+title = "Election opera"
++++
 
 Donald Trump - comprimario tenor
 

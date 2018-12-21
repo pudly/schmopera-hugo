@@ -1,6 +1,8 @@
----
-title: "In review: Lucia di Lammermoor at ROH"
----
++++
+categories = "Review"
+slug = /in-review-lucia-di-lammermoor-at-roh/
+title = "In review: Lucia di Lammermoor at ROH"
++++
 
 The hype surrounding [Katie Mitchell](http://www.roh.org.uk/people/katie-mitchell)'s new production of *Lucia di Lammermoor*, currently on at the [Royal Opera House](/scene/companies/royal-opera-house/), was no empty threat. Much had been made of the warnings sent out to subscribers that this *Lucia* would feature violence and shocking scenes, and [Diana Damrau](/scene/people/diana-damrau/) herself [told *The Guardian*](http://www.theguardian.com/music/2016/mar/20/be-ready-for-blood-diana-damrau) that audiences would feel "shaken" after seeing it. "Shaken" is right, in every positive meaning of that word.
 

@@ -1,6 +1,8 @@
----
-title: "Silent Night ages well in Minnesota revival"
----
++++
+categories = "Review"
+slug = /silent-night-ages-well-in-minnesota-revival/
+title = "Silent Night ages well in Minnesota revival"
++++
 
 In 2011 *Silent Night* by composer Kevin Puts and librettist Mark Campbell debuted at Minnesota OPera. In 2012 it won the Pulitzer Prize fin Music. It is based on the film Joyeux Noël about the [Christmas truce](https://en.wikipedia.org/wiki/Christmas_truce) in 1914 (which was just the beginning of the war). It is sung in five different languages (French, English, German, Latin and Italian). And this November, the opera is being revived once again in the Twin Cities.
 

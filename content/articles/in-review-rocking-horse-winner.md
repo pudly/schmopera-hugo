@@ -1,6 +1,8 @@
----
-title: "In review: Rocking Horse Winner"
----
++++
+categories = "Review"
+slug = /in-review-rocking-horse-winner/
+title = "In review: Rocking Horse Winner"
++++
 
 On one of the hottest days Toronto has seen so far in 2016, I tore myself away from a patio in the distillery district - anyone who lives in Toronto knows how hard that is to do on a hot Saturday afternoon - and made my way through the Old Town of York over to the Berkeley Street Theatre for [Tapestry Opera](/scene/companies/tapestry-opera/)'s *Rocking Horse Winner*.
 

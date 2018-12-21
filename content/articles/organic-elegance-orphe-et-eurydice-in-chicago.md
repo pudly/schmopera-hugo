@@ -1,6 +1,8 @@
----
-title: "Organic elegance: Orphée et Eurydice in Chicago"
----
++++
+categories = "Review"
+slug = /organic-elegance-orphe-et-eurydice-in-chicago/
+title = "Organic elegance: Orphée et Eurydice in Chicago"
++++
 
 The Lyric Opera of Chicago opened its 2017-2018 season this weekend with a stunning new production of Christoph Gluck's [*Orphée et Eurydice*](https://www.lyricopera.org/concertstickets/calendar/2017-2018/productions/lyricopera/orphee-et-eurydice-opera-tickets#./Meet%20the%20Artists?&_suid=1506347404981002233772685965474) that constitutes an historic collaboration with Joffrey Ballet. With much of the audience dressed to the nines for the post-performance [Opera Ball](https://www.lyricopera.org/support/operaball2017), it was a night of high glamour and beauty all around.
 

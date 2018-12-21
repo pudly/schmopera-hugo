@@ -1,6 +1,8 @@
----
-title: "Elizabeth Cree: &quot;The story begins with her hanging.&quot;"
----
++++
+categories = "Interview"
+slug = /elizabeth-cree-the-story-begins-with-her-hanging/
+title = "Elizabeth Cree: &quot;The story begins with her hanging.&quot;"
++++
 
 ## What do you find most fascinating about the story of Elizabeth Cree?
 

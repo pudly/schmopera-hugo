@@ -1,6 +1,8 @@
----
-title: "3 life lessons that practice rooms can teach you"
----
++++
+categories = "Humour"
+slug = /3-life-lessons-that-practice-rooms-can-teach-you/
+title = "3 life lessons that practice rooms can teach you"
++++
 
 ## The Golden Rule
 

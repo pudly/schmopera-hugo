@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Robin Johannsen"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-robin-johannsen/
+title = "Talking with singers: Robin Johannsen"
++++
 
 "I originally wanted to sing all those Puccini roles, those Verdi roles," says Philadelphia-born soprano [Robin Johannsen](/scene/people/robin-johannsen/) of her early years with opera. As she gained professional experience, most notably at the [Deutsche Oper Berlin](/scene/companies/deutsche-oper-berlin/), Johannsen had a taste of the standard operatic roles for a young soprano; all the while, she received encouragement about how her voice would be well-suited to Baroque music.
 

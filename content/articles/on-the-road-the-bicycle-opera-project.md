@@ -1,6 +1,8 @@
----
-title: "On the road: the Bicycle Opera Project"
----
++++
+categories = "Interview"
+slug = /on-the-road-the-bicycle-opera-project/
+title = "On the road: the Bicycle Opera Project"
++++
 
 ### 1. Can you give us an idea of what *The Bells of Baddeck* is about?
 

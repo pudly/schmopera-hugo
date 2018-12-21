@@ -1,6 +1,8 @@
----
-title: "In Review: Written On Skin"
----
++++
+categories = "Review"
+slug = /in-review-written-on-skin/
+title = "In Review: Written On Skin"
++++
 
 <p>
 	As part of the 

@@ -1,6 +1,8 @@
----
-title: "Talking with composers: Chris Thornborrow"
----
++++
+categories = "Interview"
+slug = /talking-with-composers-chris-thornborrow/
+title = "Talking with composers: Chris Thornborrow"
++++
 
 ## How would you describe your musical aesthetic? How have you heard it described by others?
 

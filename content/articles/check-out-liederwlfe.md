@@ -1,6 +1,8 @@
----
-title: "Check out: Liederwölfe"
----
++++
+categories = "Interview"
+slug = /check-out-liederwlfe/
+title = "Check out: Liederwölfe"
++++
 
 ### 1. What is the mission behind Liederwölfe?
 

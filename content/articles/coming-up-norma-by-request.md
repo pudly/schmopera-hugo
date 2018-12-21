@@ -1,6 +1,8 @@
----
-title: "Coming up: Norma by request"
----
++++
+categories = "News"
+slug = /coming-up-norma-by-request/
+title = "Coming up: Norma by request"
++++
 
 Next month, [Opera by Request](/scene/companies/opera-by-request/) is bringing some winter warmth in the form of Bellini's *bel canto* stunner, [*Norma*](https://www.facebook.com/events/800602460083386/). Soprano Naomi Eberhard will sing the title role, alongside fellow soprano [Jessica Lane](/scene/people/jessica-lane/) as Adalgisa; and tenor Jason Lamont sings Pollione, the man caught in one of opera's most beautiful love triangles. *Norma* is one night only, **February 6, 7:30pm**,
 

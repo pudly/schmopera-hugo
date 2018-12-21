@@ -1,6 +1,8 @@
----
-title: "In review: Albert Herring at UofT Opera"
----
++++
+categories = "Review"
+slug = /in-review-albert-herring-at-uoft-opera/
+title = "In review: Albert Herring at UofT Opera"
++++
 
 So much celebration happened on Thursday night. Director [Joel Ivany](http://www.joelivany.com/index/biography.html) celebrated the opening night of his production of Benjamin Britten's _Albert Herring_ in the MacMillan theatre at the University of Toronto. UofT celebrated the [50th anniversary](http://performance.rcmusic.ca/event/university-toronto-faculty-music-presents-brbritten-albert-herring-2) of its first opera performance in 1964: _Albert Herring_. And of course, everyone celebrated Albert the Good.
 

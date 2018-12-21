@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Audrey Luna"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-audrey-luna/
+title = "Talking with singers: Audrey Luna"
++++
 
 "That wasn't a decision," explains coloratura soprano [Audrey Luna](/scene/people/audrey-luna/) of her chosen life as an opera singer. "That wasn't a choice." 
 

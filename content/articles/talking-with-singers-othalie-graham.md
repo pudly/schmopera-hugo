@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Othalie Graham"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-othalie-graham/
+title = "Talking with singers: Othalie Graham"
++++
 
 "I did my training in Canada," says Canadian soprano [Othalie Graham](/scene/people/othalie-graham/), "but I've never sung in my own country. Much to the shock and surprise of many, many people, I have never ever sung in Canada. And I think a lot of people probably don't know that."
 

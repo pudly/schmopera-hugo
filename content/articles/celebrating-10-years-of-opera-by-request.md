@@ -1,6 +1,8 @@
----
-title: "Celebrating 10 years of Opera By Request"
----
++++
+categories = "News"
+slug = /celebrating-10-years-of-opera-by-request/
+title = "Celebrating 10 years of Opera By Request"
++++
 
 Hello Schmop-Tops, 
 

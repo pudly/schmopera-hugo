@@ -1,6 +1,8 @@
----
-title: "In review: Erwartung/Twice Through the Heart"
----
++++
+categories = "Review"
+slug = /in-review-erwartungtwice-through-the-heart/
+title = "In review: Erwartung/Twice Through the Heart"
++++
 
 Shadwell Opera's double-bill, pairing Schoenberg's *Erwartung* with Turnage's *Twice Through the Heart*, is one of those combinations which is glaringly obvious in hindsight. They're both short pieces with texts by women, scored for one female singer and orchestra; more interestingly, we meet two women dealing with what happened on the worst day of their lives (so far).
 

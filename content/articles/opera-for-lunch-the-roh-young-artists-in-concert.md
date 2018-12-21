@@ -1,6 +1,8 @@
----
-title: "Opera for lunch: the ROH Young Artists in concert"
----
++++
+categories = "Review"
+slug = /opera-for-lunch-the-roh-young-artists-in-concert/
+title = "Opera for lunch: the ROH Young Artists in concert"
++++
 
 Day one of [Meet the Young Artists Week](http://www.roh.org.uk/about/jette-parker-young-artists-programme/events/meet-the-young-artists-week) with the [Royal Opera House](/scene/companies/royal-opera-house/) was a delightful midday concert of arias and ensembles, showing off the singers and pianists of the [Jette Parker Young Artists Programme](http://www.roh.org.uk/about/jette-parker-young-artists-programme).
 

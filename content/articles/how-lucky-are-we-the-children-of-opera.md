@@ -1,6 +1,8 @@
----
-title: "&quot;How lucky are we, the children of opera?&quot;"
----
++++
+categories = "Interview"
+slug = /how-lucky-are-we-the-children-of-opera/
+title = "&quot;How lucky are we, the children of opera?&quot;"
++++
 
 ## What was it like to travel with your daughter for work?
 

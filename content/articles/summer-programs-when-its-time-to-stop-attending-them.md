@@ -1,6 +1,8 @@
----
-title: "Summer programs, &amp; when it&#039;s time to stop attending them"
----
++++
+categories = "Editorial"
+slug = /summer-programs-when-its-time-to-stop-attending-them/
+title = "Summer programs, &amp; when it&#039;s time to stop attending them"
++++
 
 Ah, summer opera programs, full of youth and opportunity. Young singers audition for these programs to continue their technical work between school semesters, and perhaps more importantly, to gain experience singing in operas. Most summer programs have some combination of private lessons and coachings, group-format masterclasses and advice sessions, and at least one "big project" that's often a full-length operatic production. Singers with success on the audition circuit may even have their pick of a handful of programs to attend, and many of those singers make their decision based on the roles they're being offered. Who wouldn't want to sing a Musetta instead of a Barbarina?
 

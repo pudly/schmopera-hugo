@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Adela Zaharia"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-adela-zaharia/
+title = "Talking with singers: Adela Zaharia"
++++
 
 *Adela Zaharia is singing the role of Gilda at the LA Opera from May 27 to June 3, 2018. She was the first place winner of the 2017 Operalia competition. She hails from Arad in Romania and currently lives in Dusseldorf, where she has a contract with Deutsche Oper am Rhein.*
 

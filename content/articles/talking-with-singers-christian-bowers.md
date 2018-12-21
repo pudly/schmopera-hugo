@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Christian Bowers"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-christian-bowers/
+title = "Talking with singers: Christian Bowers"
++++
 
 American baritone [Christian Bowers](/scene/people/christian-bowers/) is mid-run of Utah Opera's production of [*Carmen*](http://www.utahopera.org/16-17-season/carmen), where he sings the bullfighter with the famous aria, Escamillo. With his résumé full of roles like Dandini in *La Cenerentola*, Count Almaviva in *Le nozze di Figaro*, and Maximilian in *Candide*, singing Bizet's infamous Toreador seems an inevitable gig for the rising star. Yet for Bowers, his operatic work falls under a broader definition.
 

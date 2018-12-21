@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Haus Musik"
----
++++
+categories = "News"
+slug = /dont-miss-haus-musik/
+title = "Don&#039;t miss: Haus Musik"
++++
 
 Tafelmusik rolls out its new "Classical alternative" concert programming with [Haus Musik](https://www.facebook.com/events/1709718326007552/), **February 2, 8pm** at Toronto's Longboat Hall, 1087 Queen St W.
 

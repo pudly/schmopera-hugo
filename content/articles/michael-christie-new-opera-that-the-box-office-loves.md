@@ -1,6 +1,8 @@
----
-title: "Michael Christie: new opera that the box office loves"
----
++++
+categories = "Interview"
+slug = /michael-christie-new-opera-that-the-box-office-loves/
+title = "Michael Christie: new opera that the box office loves"
++++
 
 ## Selling out new opera
 

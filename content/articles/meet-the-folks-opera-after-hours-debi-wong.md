@@ -1,6 +1,8 @@
----
-title: "Meet the folks: Opera After Hours&#039; Debi Wong"
----
++++
+categories = "Interview"
+slug = /meet-the-folks-opera-after-hours-debi-wong/
+title = "Meet the folks: Opera After Hours&#039; Debi Wong"
++++
 
 ###  1. How did you first get into opera?
 

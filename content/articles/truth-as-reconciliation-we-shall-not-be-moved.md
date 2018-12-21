@@ -1,6 +1,8 @@
----
-title: "&quot;Truth, as reconciliation&quot;: We Shall Not Be Moved"
----
++++
+categories = "Interview"
+slug = /truth-as-reconciliation-we-shall-not-be-moved/
+title = "&quot;Truth, as reconciliation&quot;: We Shall Not Be Moved"
++++
 
 ## What stood out to you about the story of the MOVE bombing?
  

@@ -1,6 +1,8 @@
----
-title: "Hadrian: a true grand opera"
----
++++
+categories = "Review"
+slug = /hadrian-a-true-grand-opera/
+title = "Hadrian: a true grand opera"
++++
 
 *Hadrian* has finally made it to the stage.
 

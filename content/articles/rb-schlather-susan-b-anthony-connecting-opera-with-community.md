@@ -1,6 +1,8 @@
----
-title: "R.B. Schlather, Susan B. Anthony, &amp; connecting opera with community"
----
++++
+categories = "Interview"
+slug = /rb-schlather-susan-b-anthony-connecting-opera-with-community/
+title = "R.B. Schlather, Susan B. Anthony, &amp; connecting opera with community"
++++
 
 "I first saw it in 1998 at Glimmerglass Opera," says stage director [R.B. Schlather](/scene/people/rb-schlather/) of *The Mother of Us All*, the opera by Gertrude Stein and Virgil Thomson. "They were going to take us to see it on a school trip, and they said it's an opera about [Susan B. Anthony](https://en.wikipedia.org/wiki/Susan_B._Anthony). I honestly thought, 'what could be more boring?'"
 

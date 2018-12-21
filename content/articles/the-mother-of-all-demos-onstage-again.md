@@ -1,6 +1,8 @@
----
-title: "&quot;The Mother of All Demos,&quot; Onstage Again"
----
++++
+categories = "Editorial"
+slug = /the-mother-of-all-demos-onstage-again/
+title = "&quot;The Mother of All Demos,&quot; Onstage Again"
++++
 
 <p>
 	More relevant art! This week at Stanford University, composers and performers <a href="http://mikelrouse.com/new/" target="_blank" data-mce-href="http://mikelrouse.com/new/">Mikel Rouse</a> and <a href="http://www.benneill.com/" target="_blank" data-mce-href="http://www.benneill.com/">Ben Neill</a> present the world premiere of their music theatre piece, <a href="http://www.mikelrouse.com/images/DemoDossier2014UPDATE2.pdf" target="_blank" data-mce-href="http://www.mikelrouse.com/images/DemoDossier2014UPDATE2.pdf"><em>The Demo</em></a>. The piece is based on the true story of Douglas Engelbart's demonstration of new technology in 1968, in which he introduced the idea of hypertext and even the very first mouse. Engelbart led the demonstration remotely from his office 30 miles away, via videoconferencing and screen-sharing, two more <em>huge</em> steps forward in technology. The presentation became aptly known as "the mother of all demos."

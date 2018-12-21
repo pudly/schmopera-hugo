@@ -1,6 +1,8 @@
----
-title: "In review: Don Quichotte"
----
++++
+categories = "Review"
+slug = /in-review-don-quichotte/
+title = "In review: Don Quichotte"
++++
 
 Massenet's [_Don Quichotte_](http://www.coc.ca/PerformancesAndTickets/1314Season/DonQuichotte.aspx) has opened at the Canadian Opera Company, the final in the three spring shows of the 2013/14 season. I'm glad I saw it last, since there was something bittersweet about ending a season with comedy and charm. I'll admit I have a strange personal tendency to get annoyed by everyone's favourite bumbling knight; but perhaps I'm coveting Don Quixote's unwavering pursuit of goodness. Philosophical thoughts quickly vanished when I saw the live horse and mule onstage.
 

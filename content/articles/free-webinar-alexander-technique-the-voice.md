@@ -1,6 +1,8 @@
----
-title: "Free webinar: Alexander Technique &amp; the voice"
----
++++
+categories = "News"
+slug = /free-webinar-alexander-technique-the-voice/
+title = "Free webinar: Alexander Technique &amp; the voice"
++++
 
 Singers, make some time this weekend for [this free webinar](http://kateconklin.com/events/webinar/), *Applying Alexander Technique to the Voice*.
 

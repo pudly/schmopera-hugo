@@ -1,6 +1,8 @@
----
-title: "In review: The Threepenny Opera "
----
++++
+categories = "Review"
+slug = /in-review-the-threepenny-opera-/
+title = "In review: The Threepenny Opera "
++++
 
 "This is an opera for a city that has gone beyond morality. This...is a *cheap* opera."
 

@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Anna Caterina Antonacci"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-anna-caterina-antonacci/
+title = "Talking with singers: Anna Caterina Antonacci"
++++
 
 ## Why do you sing professionally?
 

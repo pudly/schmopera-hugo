@@ -1,6 +1,8 @@
----
-title: "Sublime heartbreak: Jesus Christ Superstar"
----
++++
+categories = "Review"
+slug = /sublime-heartbreak-jesus-christ-superstar/
+title = "Sublime heartbreak: Jesus Christ Superstar"
++++
 
 I have a confession to make: before opening-night performance of *Jesus Christ Superstar* at [Lyric Opera of Chicago](/scene/companies/lyric-opera-of-chicago/), I had never seen a live musical-theater production. Though I may be a neophyte when it comes to musical theater, I can only hope that you, dear reader, will embrace the impressions of an enthusiastic newcomer to the genre because…I loved this show and I want to tell you why!
  

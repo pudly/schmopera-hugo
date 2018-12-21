@@ -1,6 +1,8 @@
----
-title: "In review: Ayre"
----
++++
+categories = "Review"
+slug = /in-review-ayre/
+title = "In review: Ayre"
++++
 
 Tucked away on Wynford Road in North York is the beautiful Ismaili Centre. Located next to the Aga Khan Museum, the Ismaili Centre is one of Toronto's newest gems. The white marble floors and mosaics of semiprecious stones provided a stunning locale for [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/)'s latest offering.
 

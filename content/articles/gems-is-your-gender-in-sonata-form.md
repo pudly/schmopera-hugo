@@ -1,6 +1,8 @@
----
-title: "Gems: is your gender in sonata form?"
----
++++
+categories = "Humour"
+slug = /gems-is-your-gender-in-sonata-form/
+title = "Gems: is your gender in sonata form?"
++++
 
 Readers, we've got a gem to share with you, and we're not sure how you're going to feel about it.
 

@@ -1,6 +1,7 @@
----
-title: "Talking with singers: Morris Robinson"
----
++++
+slug = /talking-with-singers-morris-robinson/
+title = "Talking with singers: Morris Robinson"
++++
 
 ### On singing
 

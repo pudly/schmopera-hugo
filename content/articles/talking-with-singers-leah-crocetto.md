@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Leah Crocetto"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-leah-crocetto/
+title = "Talking with singers: Leah Crocetto"
++++
 
 ## What was it like to have your Metropolitan Opera debut this season? How did you anticipate you would feel? 
 

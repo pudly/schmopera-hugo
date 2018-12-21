@@ -1,6 +1,8 @@
----
-title: "&quot;A dove, as you know, is respected.&quot;"
----
++++
+categories = "Review"
+slug = /a-dove-as-you-know-is-respected/
+title = "&quot;A dove, as you know, is respected.&quot;"
++++
 
 Our first visit to the gorgeous Horniman Museum & Gardens was to see the new opera installation, "Feet." The piece is by composer [Oliver Leith](http://www.oliverchristopheleith.com/home.html), with text and direction by [Ruth Mariner](http://www.ruthmariner.co.uk/), Artistic Director of [Gestalt Arts](http://www.gestaltarts.co.uk/); it was performed as part of the Museum's [Magic Late](http://www.horniman.ac.uk/visit/events/magic-late) event, an after-hours series of arts and performances throughout the space, all exploring the idea of magic and sorcery.
 

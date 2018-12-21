@@ -1,6 +1,8 @@
----
-title: "Musicians, sexual harassment, &amp; blurred lines"
----
++++
+categories = "Editorial"
+slug = /musicians-sexual-harassment-blurred-lines/
+title = "Musicians, sexual harassment, &amp; blurred lines"
++++
 
 It was slightly eerie to listen to [Lauren Pierce describe](http://www.insidethearts.com/audience/going-confidently-in-the-direction-of-her-dreams/) some uncomfortable moments during a contract subbing as a double bassist in an orchestra. She recalled a man, a fellow orchestra member, whose seat was behind Pierce's, who spent a few rehearsals moving from friendly with her, to suggestive, to crossing lines.
 

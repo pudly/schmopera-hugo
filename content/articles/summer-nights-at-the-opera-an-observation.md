@@ -1,6 +1,8 @@
----
-title: "Summer Nights at the Opera: an observation"
----
++++
+categories = "Op-ed"
+slug = /summer-nights-at-the-opera-an-observation/
+title = "Summer Nights at the Opera: an observation"
++++
 
 Over its ten-year history the Metropolitan Opera's Summer HD Festival opened with films that in one way or another, evoked the world of opera - or at least Lincoln Center, whose plaza it annually transforms into a 3000-seat outdoor opera house. This transformation takes place in late August and runs through the Labor Day weekend when an impressively sharp projection and sound system erected near the plaza fountain and a giant screen mounted atop the Grand Tier level of opera house take over.
 

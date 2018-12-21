@@ -1,6 +1,8 @@
----
-title: "Appreciating Opera: A Learned Skill"
----
++++
+categories = "Editorial"
+slug = /appreciating-opera-a-learned-skill/
+title = "Appreciating Opera: A Learned Skill"
++++
 
 The Royal Conservatory of Music is offering a cool new way to help you get to know some of the shows you can see around Toronto this fall. [Opera in the City](http://files.rc.mu/RoyalConservatorySchool/2014/Jul30/NEWMusicAppreciationClasses_3.html) is a new Music Appreciation Class at the RCM, and it focuses on Handel's _Alcina_ (opening at [Opera Atelier](http://www.operaatelier.com/season/14-15-season/) October 23rd), Verdi's _Falstaff,_ and Puccini's _Madama Butterfly_ (both at the [Canadian Opera Company](http://www.coc.ca/PerformancesAndTickets/1415Season.aspx)beginning in October). Leading the new course is Eric Domville, Professor Emeritus of English literature at the University of Toronto, writer and lecturer on opera and song, and frequent speaker at Opera Atelier's and the COC's pre-show talks. I had the pleasure of working with him on a concert that was all about the Brothers Grimm, and he's a fascinating guy. The [course](http://files.rc.mu/RoyalConservatorySchool/2014/Jul30/NEWMusicAppreciationClasses_3.html) runs Tuesday afternoons, September 9th-October 14th.
 

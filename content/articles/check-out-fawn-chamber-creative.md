@@ -1,6 +1,8 @@
----
-title: "Check out: FAWN Chamber Creative"
----
++++
+categories = "Interview"
+slug = /check-out-fawn-chamber-creative/
+title = "Check out: FAWN Chamber Creative"
++++
 
 ### 1. What is the mission behind FAWN Chamber Creative?
 

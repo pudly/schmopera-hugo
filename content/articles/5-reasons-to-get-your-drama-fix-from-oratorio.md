@@ -1,6 +1,8 @@
----
-title: "5 reasons to get your drama fix from oratorio"
----
++++
+categories = "Editorial"
+slug = /5-reasons-to-get-your-drama-fix-from-oratorio/
+title = "5 reasons to get your drama fix from oratorio"
++++
 
 It's the week of palm cross sightings and store fronts that tend towards pastel colours and egg-shaped advertising campaigns (quite the crass contrast, if you think on it much about). Whether you're someone who's well aware of the Christian calendar, or you're one of the many singers who hold a regular gig singing in church services, you know it's Holy Week, which leads up to Easter Sunday on April 16, 2017. 
 

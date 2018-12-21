@@ -1,6 +1,8 @@
----
-title: "Opera: the Inside Job"
----
++++
+categories = "Op-ed"
+slug = /opera-the-inside-job/
+title = "Opera: the Inside Job"
++++
 
 When I started Schmopera, I started checking out how the "pros" do this blogging thing. What were they saying, and how? Were they talking about artists, concerts, recordings? Were they spreading the word about shows to see? Were they publishing profiles and reviews of artists? Were they vouching for the arts and bringing awareness to the current events that concern artists and art-lovers? The answer was "yes"; everyone was writing about opera, who was making it happen and whether or not they were doing a good job of it.
 

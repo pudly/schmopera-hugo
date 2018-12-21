@@ -1,6 +1,8 @@
----
-title: "Strong despite the details: Rigoletto in Minnesota"
----
++++
+categories = "Review"
+slug = /strong-despite-the-details-rigoletto-in-minnesota/
+title = "Strong despite the details: Rigoletto in Minnesota"
++++
 
 Minnesota's Opera production of *Rigoletto* was an unforgettable evening. The curtain opened on a striking party scene; the Duke sat high upon a throne perched on his treasures. The lighting was red and the observatory window that was used in *Dead Man Walking*, was in place high above the stage where stormtrooper-like guards patrolled.  The transition set that backed the first meeting between Rigoletto and the assassin Sparafucile was shiny black tarp and a bunch of lasers. The second scene highlighted Gilda's child-like innocence. Next to Gilda's bed there was a wall full of angel figurines and candles. This set really came alive with the first duet between Rigoletto and Gilda. 
 

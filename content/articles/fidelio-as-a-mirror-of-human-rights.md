@@ -1,6 +1,8 @@
----
-title: "Fidelio as a mirror of human rights"
----
++++
+categories = "Review"
+slug = /fidelio-as-a-mirror-of-human-rights/
+title = "Fidelio as a mirror of human rights"
++++
 
 [Pacific Opera Victoria](/scene/people/pacific-opera-victoria/)'s season opener is [Beethoven's *Fidelio*](https://www.pov.bc.ca/fidelio.html) - a production that POV has only tackled once in its history. In this modernized version, the action takes place in a setting vaguely reminiscent of a South American dictatorship of the 1960/70s, with the heroine  Leonore joining a resistance faction in an attempt to free her husband, a political prisoner being held without trial.
 

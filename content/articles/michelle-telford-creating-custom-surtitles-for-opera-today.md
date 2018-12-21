@@ -1,6 +1,8 @@
----
-title: "Michelle Telford, Creating Custom Surtitles for Opera Today"
----
++++
+categories = "Editorial"
+slug = /michelle-telford-creating-custom-surtitles-for-opera-today/
+title = "Michelle Telford, Creating Custom Surtitles for Opera Today"
++++
 
 In the English-speaking world of non-English language opera, a surtitlist's work is vital - some wouldn't agree, but every day a surtitlist has to wake up and ignore the haters. Surtitles have had their share of critique from the snob-pera folks (not that I'm against any form of opera, from the purest of the purists to Fat Mike's new "Home Street Home") but for many companies, they're essential to the success of a production by providing a more universal accessibility. 
 

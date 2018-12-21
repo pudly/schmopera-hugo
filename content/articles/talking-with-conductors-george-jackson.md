@@ -1,6 +1,8 @@
----
-title: "Talking with conductors: George Jackson"
----
++++
+categories = "Interview"
+slug = /talking-with-conductors-george-jackson/
+title = "Talking with conductors: George Jackson"
++++
 
 ## What does it feel like to conduct an orchestra when everything is going "right"?
 

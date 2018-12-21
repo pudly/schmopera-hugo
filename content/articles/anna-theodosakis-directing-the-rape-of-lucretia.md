@@ -1,6 +1,8 @@
----
-title: "Anna Theodosakis: directing The Rape of Lucretia"
----
++++
+categories = "Interview"
+slug = /anna-theodosakis-directing-the-rape-of-lucretia/
+title = "Anna Theodosakis: directing The Rape of Lucretia"
++++
 
 ## For you, what do you think this opera has to say about women? Is there anything significant about its being written by men?
  

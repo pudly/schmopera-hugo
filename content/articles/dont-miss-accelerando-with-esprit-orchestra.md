@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Accelerando with Esprit Orchestra"
----
++++
+categories = "News"
+slug = /dont-miss-accelerando-with-esprit-orchestra/
+title = "Don&#039;t miss: Accelerando with Esprit Orchestra"
++++
 
 True champions of contemporary music in Canada, he [Esprit Orchestra](/scene/companies/esprit-orchestra/) hits the ground running in 2017, with *Accelerando*, their latest collection of new - and brand new - Canadian works.
 

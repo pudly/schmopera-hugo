@@ -1,6 +1,8 @@
----
-title: "Adi Braun, the Moderne Frau"
----
++++
+categories = "Interview"
+slug = /adi-braun-the-moderne-frau/
+title = "Adi Braun, the Moderne Frau"
++++
 
 ## Why have you been so drawn to Weimar cabaret?
  

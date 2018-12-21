@@ -1,6 +1,8 @@
----
-title: "Skills to learn: downtime on the job"
----
++++
+categories = "Editorial"
+slug = /skills-to-learn-downtime-on-the-job/
+title = "Skills to learn: downtime on the job"
++++
 
 Right up there with engineering students, and likely something leading to medicine, music students are some of the busiest academics in any post-secondary school. Their class load includes private lessons and performance-based classes where the weekly theory assignments and history papers also include learning the Poulenc *Sonata for Clarinet and Piano*, conducting a movement of a Mozart Symphony, and singing a concert with the choir.
 

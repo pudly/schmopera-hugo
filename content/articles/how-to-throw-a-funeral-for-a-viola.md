@@ -1,6 +1,8 @@
----
-title: "How to throw a funeral for a viola"
----
++++
+categories = "Op-ed"
+slug = /how-to-throw-a-funeral-for-a-viola/
+title = "How to throw a funeral for a viola"
++++
 
 To all those who've loved and lost a loaner...
 

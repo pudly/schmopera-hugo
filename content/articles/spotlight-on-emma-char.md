@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Emma Char"
----
++++
+categories = "Interview"
+slug = /spotlight-on-emma-char/
+title = "Spotlight on: Emma Char"
++++
 
 ## Why do you sing and why are you doing it professionally? 
 

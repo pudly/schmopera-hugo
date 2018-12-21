@@ -1,6 +1,8 @@
----
-title: "Playing the long game: fostering artistic respect"
----
++++
+categories = "Op-ed"
+slug = /playing-the-long-game-fostering-artistic-respect/
+title = "Playing the long game: fostering artistic respect"
++++
 
 I've been going to concerts since I could walk. Growing up, I lived in a city with a great concert series and a few theatre companies; [my mother is a musician](/talking-with-voice-teachers-or-meet-my-mother/), and not only did she know the value of dragging her daughter to show after show, she knew what to look for. We went to Stratford for Shakespeare and musicals, to Toronto for the TSO (and musicals), and at home there was a constant flow of *Messiahs* and piano concerti to hear.
 

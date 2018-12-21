@@ -1,6 +1,7 @@
----
-title: "Musicians of the MET Orchestra: Days of Their Lives"
----
++++
+slug = /musicians-of-the-met-orchestra-days-of-their-lives/
+title = "Musicians of the MET Orchestra: Days of Their Lives"
++++
 
 Wednesday, May 18 was not the best day in the life of the orchestra of the Metropolitan Opera, otherwise knows as the MET Orchestra. It should have been at least a very good one, considering that it was the beginning of the annual series that former music director, [James Levine](/levines-ugly-exit-the-disposable-met/), was instrumental in creating - three on-stage appearances at Carnegie Hall.
 

@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Angela Gheorghiu"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-angela-gheorghiu/
+title = "Talking with singers: Angela Gheorghiu"
++++
 
 ## When the opera industry is as competitive as it is today, how can young singers have their opinions and voices heard without risking their career?
 

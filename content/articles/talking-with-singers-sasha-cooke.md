@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Sasha Cooke"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-sasha-cooke/
+title = "Talking with singers: Sasha Cooke"
++++
 
 "I can't imagine anyone who wouldn't be interested in it," says American mezzo-soprano [Sasha Cooke](/scene/people/sasha-cooke/) about the highly anticipated world premiere of [*The (R)evolution of Steve Jobs* at Santa Fe Opera](https://www.santafeopera.org/operas-and-ticketing/the-revolution-of-steve-jobs). She calls *Steve Jobs* a "family project" of sorts, a working environment where she knows well the opera's composer, Mason Bates, and most of the creative team, which includes her husband, baritone Kelly Markgraf. 
 

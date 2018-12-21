@@ -1,6 +1,8 @@
----
-title: "Transparent Glass: the composer turns 80"
----
++++
+categories = "Editorial"
+slug = /transparent-glass-the-composer-turns-80/
+title = "Transparent Glass: the composer turns 80"
++++
 
 On January 31st, 2017, Philip Glass will turn 80. The BBC Symphony Orchestra & Chorus, helped him celebrate in the only appropriate way for the famed composer of epic, trance-inducing minimalist music, by stretching the festivities over several days. Housed at London's Barbican Centre on Saturday was a day-long celebration, *Total Immersion: Philip Glass at 80*, featuring conversations and concerts of his music, and that of his contemporaries like Terry Riley, Michael Nyman, and Nico Muhly. On Glass' actual 80th, it's the Bruckner Orchestra Linz that will sing a "Happy Birthday" of sorts, by [premiering his Symphony No. 11 at Carnegie Hall](http://www.carnegiehall.org/Calendar/2017/1/31/0730/PM/Bruckner-Orchestra-Linz/).
 

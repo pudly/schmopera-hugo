@@ -1,6 +1,8 @@
----
-title: "Keeping the thread: moment-to-moment awareness in singing"
----
++++
+categories = "Op-ed"
+slug = /keeping-the-thread-momenttomoment-awareness-in-singing/
+title = "Keeping the thread: moment-to-moment awareness in singing"
++++
 
 One of the most important elements of music making, and one that I find is somewhat undervalued in the general conversation around performance, is the role played by our awareness during singing; that is, where our attention lies as performers while we are playing or singing. My own observations with singers I have worked with have led me to the firm conclusion that a performance is greatly improved when our attention is fully and intensely involved on a note-to-note basis in the music. This includes the breath, too, since as well as being a physical necessity, breathing is very much involved in the drama of the music. 
 

@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Cassandra Warner"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-cassandra-warner/
+title = "Talking with singers: Cassandra Warner"
++++
 
 ## When do you think opera can be a versatile, mobile art form, and when do you think it's best experienced in a more stationary, traditional setting?
 

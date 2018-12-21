@@ -1,6 +1,8 @@
----
-title: "New programs: Opera at Tanglewood"
----
++++
+categories = "Interview"
+slug = /new-programs-opera-at-tanglewood/
+title = "New programs: Opera at Tanglewood"
++++
 
 ## Who is this new opera workshop for, and what are the goals for the two-week period?
 

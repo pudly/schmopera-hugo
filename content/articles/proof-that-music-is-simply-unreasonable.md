@@ -1,6 +1,8 @@
----
-title: "Proof that Music is Simply Unreasonable"
----
++++
+categories = "Op-ed"
+slug = /proof-that-music-is-simply-unreasonable/
+title = "Proof that Music is Simply Unreasonable"
++++
 
 <h2>Appealing to Authority and Tradition</h2>
 <p>

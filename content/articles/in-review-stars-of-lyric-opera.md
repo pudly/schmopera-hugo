@@ -1,6 +1,8 @@
----
-title: "In review: Stars of Lyric Opera"
----
++++
+categories = "Review"
+slug = /in-review-stars-of-lyric-opera/
+title = "In review: Stars of Lyric Opera"
++++
 
 Every September, Chicagoans flock to Millennium Park for the annual *Stars of the Lyric Opera* concert. This year, unseasonably cool weather in The Loop meant lugging sweaters, hats, and warm blankets along with the customary lawn chairs and wine coolers. Last night’s concert featured enticing excerpts from seven operas from the Lyric's upcoming season along with other crowd-pleasing favorites. 
 

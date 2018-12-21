@@ -1,6 +1,8 @@
----
-title: "Don Pasquale: a colorful season starter at Minnesota Opera"
----
++++
+categories = "Review"
+slug = /don-pasquale-a-colorful-season-starter-at-minnesota-opera/
+title = "Don Pasquale: a colorful season starter at Minnesota Opera"
++++
 
 [Minnesota Opera](/scene/companies/minnesota-opera/) opened their 55th Anniversary season with a well-received production of Donizetti's [*Don Pasquale*](http://www.mnopera.org/season/2017-2018/don-pasquale/). The production by Chuck Hudson was set in 1950s Hollywood, with Don Pasquale as a Norma Desmond-like character, a famous screen actor from the bygone days of silent films (complete with a bald butler carrying a pet gorilla). During the overture, a video screen came down to introduce the character Don Pasquale to the audience. What ensued was a silent film starring the cast of the production (reminiscent to Rolando Villazon's production of Donizetti's *L'elisir d'amore* at Baden-Baden Festspielhaus). *The Sheik of Arabia* was the Don's crowning glory in the 1920s, but, in trying to repeat the success, the sequel to *Sheik* was a flop. Newspaper reels and clippings with headlines of "Talkies all the rage" segued the audience into the first act of the opera. 
 

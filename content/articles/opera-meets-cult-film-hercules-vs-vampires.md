@@ -1,6 +1,8 @@
----
-title: "Opera meets cult film: Hercules vs. Vampires"
----
++++
+categories = "Review"
+slug = /opera-meets-cult-film-hercules-vs-vampires/
+title = "Opera meets cult film: Hercules vs. Vampires"
++++
 
 In a special, one-night only event, Nashville Opera presented Patrick Morganelli's *Hercules vs. Vampires*, an opera he composed to partner with the 1961 B-horror film *Hercules in the Haunted World*, directed by Mario Bava. The evening was a charming departure from what we think is "traditional" opera: ticket holders were encouraged to dress up in costumes to match the spooky theme of the opera, to react organically during the piece, and to generally be a bit less stuffy than normal. Additionally, Nashville Opera priced the tickets modestly, making the opera more accessible to attend. Director John Hoomes chose to cast mostly young singers, several from its Mary Ragland Emerging Artists program, and many of whom made their Nashville Opera debuts in *Hercules*.
 

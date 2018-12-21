@@ -1,6 +1,8 @@
----
-title: "2017/18 at the Met: are conservative seasons the way to go?"
----
++++
+categories = "Editorial"
+slug = /201718-at-the-met-are-conservative-seasons-the-way-to-go/
+title = "2017/18 at the Met: are conservative seasons the way to go?"
++++
 
 It was a pretty weird experience to peruse the newly-announced [2017/18 season](http://www.metopera.org/Season/2017-18-Season/) for [The Metropolitan Opera](/scene/companies/the-metropolitan-opera/). We did a double take; at first glance, the new season looks almost identical to the current one. Of course that's not true, since with a few exceptions like the Met's staple *La bohème* and Barlett's Sher's production of *Roméo et Juliette* from, the operas on their 17/18 season are different. But if we though last year's announcement was conservative (boasting only one opera on the line-up written in the 21st century), the new season seems to be simply another shade of grey.
 

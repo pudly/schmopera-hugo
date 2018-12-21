@@ -1,6 +1,8 @@
----
-title: "Who are our comprimarias, &amp; why aren&#039;t they funnier?"
----
++++
+categories = "Op-ed"
+slug = /who-are-our-comprimarias-why-arent-they-funnier/
+title = "Who are our comprimarias, &amp; why aren&#039;t they funnier?"
++++
 
 When we think of comprimario roles, they're usually male. Monostatos (*Die Zauberflöte*), Dr. Bartolo (*Il barbiere di Siviglia*), Bardolfo and Pistola (*Falstaff*), Goro (*Madama Butterfly*), all dudes, unless the director is concept-productioning the &$%# out of the show. Comprimario characters have the potential to steal the show, especially if they're given great comedy, like Dr. Blind in *Die Fledermaus* or the "Four Servants" in *Les contes d'Hoffmann*.
 

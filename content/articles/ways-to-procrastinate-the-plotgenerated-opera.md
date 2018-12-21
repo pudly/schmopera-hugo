@@ -1,6 +1,8 @@
----
-title: "Ways to procrastinate: the plot-generated opera"
----
++++
+categories = "Humour"
+slug = /ways-to-procrastinate-the-plotgenerated-opera/
+title = "Ways to procrastinate: the plot-generated opera"
++++
 
 Readers, we've discovered a new game.
 

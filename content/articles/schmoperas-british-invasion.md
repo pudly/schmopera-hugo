@@ -1,6 +1,8 @@
----
-title: "Schmopera&#039;s British invasion"
----
++++
+categories = "Editorial"
+slug = /schmoperas-british-invasion/
+title = "Schmopera&#039;s British invasion"
++++
 
 Readers, we've a big announcement to make!
 

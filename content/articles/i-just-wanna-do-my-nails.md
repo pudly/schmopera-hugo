@@ -1,6 +1,8 @@
----
-title: "I just wanna do my nails"
----
++++
+categories = "Humour"
+slug = /i-just-wanna-do-my-nails/
+title = "I just wanna do my nails"
++++
 
 Pianists, am I right? 
 

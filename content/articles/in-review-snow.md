@@ -1,6 +1,8 @@
----
-title: "In review: Snow"
----
++++
+categories = "Review"
+slug = /in-review-snow/
+title = "In review: Snow"
++++
 
 Three one-act operas, set by three composers and one librettist, make up *Snow*, the new work presented by [The Opera Story](http://theoperastory.com/) based on the lesser-known corners of the story of Snow White.
 

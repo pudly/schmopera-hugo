@@ -1,6 +1,8 @@
----
-title: "Look at all the new operas!"
----
++++
+categories = "Editorial"
+slug = /look-at-all-the-new-operas/
+title = "Look at all the new operas!"
++++
 
 I came across this [comprehensive list](http://vagnethierry.fr/contemporary-operas.html) of operas written after World War II, compiled by French writer and critic [Thierry Vagne](http://vagnethierry.fr/about/). There are hundreds of operas listed by John Adams, Krzysztof Penderecki, Steve Reich, Harrison Birtwistle, Benjamin Britten, and way, *way* more that I'd bet you've never heard of.
 

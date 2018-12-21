@@ -1,6 +1,8 @@
----
-title: "What&#039;s my line?"
----
++++
+categories = "Humour"
+slug = /whats-my-line/
+title = "What&#039;s my line?"
++++
 
 "Love them for muscles and screaming our names, tell them they're great and they'll do it again." 
 

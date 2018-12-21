@@ -1,6 +1,8 @@
----
-title: "Opera 5&#039;s Aria Umezawa on Offenbach/Hahn"
----
++++
+categories = "Interview"
+slug = /opera-5s-aria-umezawa-on-offenbachhahn/
+title = "Opera 5&#039;s Aria Umezawa on Offenbach/Hahn"
++++
 
 ### Why pair together _Ba-ta-clan_ and _L'île du rêve_?
 

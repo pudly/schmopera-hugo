@@ -1,6 +1,8 @@
----
-title: "Aria guides: Embroidery Aria"
----
++++
+categories = "How-to"
+slug = /aria-guides-embroidery-aria/
+title = "Aria guides: Embroidery Aria"
++++
 
 1. In case you needed another reminder that Britten is a genius, check this out: the most prominent method of [word painting](https://en.wikipedia.org/wiki/Word_painting) in this aria is also the key to singing it well. Like embroidery work, the winding tune should feel like an unbroken thread, where every twist and turn is accounted for. "Embroidery Aria" is written well for the voice, in that if the instrument is being used efficiently, the aria almost "sings itself". Glossing over details - letting harmless sixteenth notes go un-sung - will make it feel difficult and lengthy. Get a great start on this first note, on "em-", leaving lots of room for a vibrating vowel before you say the letter M; you can use a legato-friendly rolled R in "-broidery" to help connect that first note to the rest of the phrase.<figure data-type="image">
 ![](/webhook-uploads/1502670730957/Aria-guide---Embroidery---annotated-1.jpg)

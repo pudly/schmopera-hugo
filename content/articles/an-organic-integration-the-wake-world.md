@@ -1,6 +1,8 @@
----
-title: "An organic integration: The Wake World"
----
++++
+categories = "Review"
+slug = /an-organic-integration-the-wake-world/
+title = "An organic integration: The Wake World"
++++
 
 [*The Wake World*](https://www.operaphila.org/whats-on/on-stage-2017-2018/the-wake-world/) by David Hertzberg, with a libretto drawn from Aleister Crowley's story of the same name had its premiere last night at Philadelphia's Barnes Foundation. To use the [composer's own words](https://www.youtube.com/watch?v=Ve7XtgFUp4M), the production was "pretty wacky."
 

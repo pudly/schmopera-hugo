@@ -1,6 +1,8 @@
----
-title: "Redefining the goal"
----
++++
+categories = "Op-ed"
+slug = /redefining-the-goal/
+title = "Redefining the goal"
++++
 
 The first opera I experienced was *Don Giovanni*. I hated it. I wasn't an opera person.
 

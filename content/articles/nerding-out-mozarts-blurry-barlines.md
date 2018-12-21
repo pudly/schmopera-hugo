@@ -1,6 +1,8 @@
----
-title: "Nerding out: Mozart&#039;s blurry barlines"
----
++++
+categories = "Editorial"
+slug = /nerding-out-mozarts-blurry-barlines/
+title = "Nerding out: Mozart&#039;s blurry barlines"
++++
 
 Want to see something neat?
 

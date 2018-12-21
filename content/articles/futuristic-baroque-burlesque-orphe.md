@@ -1,6 +1,8 @@
----
-title: "Futuristic Baroque burlesque: Orphée"
----
++++
+categories = "Review"
+slug = /futuristic-baroque-burlesque-orphe/
+title = "Futuristic Baroque burlesque: Orphée"
++++
 
 *Orpheus and Eurydice* is one of the original classic love stories. The story of a man who literally walks into the afterlife to bring his beloved back with him. The catch? He has to lead her back to the land of the living without looking at her. There's the river Styx, denizens of the Underwold, and even Love herself shows up to tangle up in this mess. 
 

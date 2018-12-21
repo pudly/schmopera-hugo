@@ -1,6 +1,8 @@
----
-title: "Glamour &amp; fury: Idomeneo in Chicago"
----
++++
+categories = "Review"
+slug = /glamour-fury-idomeneo-in-chicago/
+title = "Glamour &amp; fury: Idomeneo in Chicago"
++++
 
 [*Idomeneo*](https://www.lyricopera.org/idomeneo?gclid=CjwKCAjwpKveBRAwEiwAo4Pqm656DoDhYc1kknLj3a-GcYjgCu9T8ehsgtK46tGb2TVIAjtziJLQ9hoCEEEQAvD_BwE) is often referred to as Mozart's first mature opera, though he wrote it when he was just twenty-four. While its trappings — a vengeful god, a sea monster, a beautiful captive princess — have all the hallmarks of a conventional fairytale, the crux of the story is the love between a father and his son. 
 

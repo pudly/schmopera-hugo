@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Hercules vs Vampires"
----
++++
+categories = "Interview"
+slug = /dont-miss-hercules-vs-vampires/
+title = "Don&#039;t miss: Hercules vs Vampires"
++++
 
 ## What's the most interesting part about combining opera with a film like *Hercules in the Underworld*?
  

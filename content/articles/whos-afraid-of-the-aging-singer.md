@@ -1,6 +1,8 @@
----
-title: "Who&#039;s afraid of the aging singer?"
----
++++
+categories = "Interview"
+slug = /whos-afraid-of-the-aging-singer/
+title = "Who&#039;s afraid of the aging singer?"
++++
 
 <figure data-type="image">
 ![](/webhook-uploads/1484905015840/2017-01-19---Barber-4.jpg)

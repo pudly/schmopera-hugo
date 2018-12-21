@@ -1,6 +1,8 @@
----
-title: "Idealism &amp; questions about unions"
----
++++
+categories = "Op-ed"
+slug = /idealism-questions-about-unions/
+title = "Idealism &amp; questions about unions"
++++
 
 About a year ago, when the Metropolitan Opera was in the middle of [nightmarish talks](http://www.wsj.com/articles/metropolitan-opera-general-manager-peter-gelb-warns-union-employees-of-august-1-of-lockout-1406144068) with its unions, spurred on by a proposed 17% wage cut for its artists (click [here](http://parterre.com/wp-content/uploads/2014/08/met-agma_memo_agreement.pdf) to read the final agreement between the American Guild of Musical Artists and The Metropolitan Opera, courtesy of [Parterre](http://parterre.com/)). 
 

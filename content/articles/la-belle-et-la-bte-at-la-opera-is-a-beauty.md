@@ -1,6 +1,8 @@
----
-title: "La Belle et la Bête at LA Opera is a beauty"
----
++++
+categories = "Review"
+slug = /la-belle-et-la-bte-at-la-opera-is-a-beauty/
+title = "La Belle et la Bête at LA Opera is a beauty"
++++
 
 Is it possible to take an existing masterpiece and make something equally aesthetic? In the world of fine art, Andy Warhol would say yes. But what about film? I'm not talking about an adaptation or a remake - in the case of great films, remakes seldom work. But composer Philip Glass had a truly unique idea of what to do with the magnificent 1946 Jean Cocteau film *La Belle et la Bête* (*Beauty and the Beast*). He took out the dialogue and music, and replaced it all with an original opera. Written over twenty years ago, the Philip Glass work just made its [LA Opera debut](https://www.laopera.org/season/1718-Season/Belle/) at the Theatre at Ace Hotel as part of the LA Opera Off Grand series. Off Grand, presented at various venues, is dedicated to exploring "unusual repertoire" as a kind of counterpoint to the more well-established operas chosen for the Dorothy Chandler Pavilion. 
 

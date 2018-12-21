@@ -1,6 +1,8 @@
----
-title: "An extended mad scene: Glory Denied"
----
++++
+categories = "Review"
+slug = /an-extended-mad-scene-glory-denied/
+title = "An extended mad scene: Glory Denied"
++++
 
 Spare a thought for Gaetano Donizetti (who celebrates his 220th birthday later this month), the acknowledged master of operatic mad scenes with whom all operatic composers have to reckon. Though he composed those in spades, whether or not he considered writing an opera that was in its entirety a mad scene is a secret that must remain lost to the ages.
 

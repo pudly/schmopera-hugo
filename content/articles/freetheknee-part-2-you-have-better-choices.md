@@ -1,6 +1,8 @@
----
-title: "#FreeTheKnee Part 2: &quot;You have better choices.&quot;"
----
++++
+categories = "How-to"
+slug = /freetheknee-part-2-you-have-better-choices/
+title = "#FreeTheKnee Part 2: &quot;You have better choices.&quot;"
++++
 
 [Opera Diva Dress Collection](https://web.facebook.com/groups/456489367792116/) and [Sing For Hope](http://www.singforhope.org/) teamed up for a special photoshoot to promote and celebrate the passionate, fashionable, entrepreneurial, and altruistic divas that make up ODDC, and showcase the 2016 Sing For Hope Pianos as the first joint project under our cultural partnership. 
 

@@ -1,6 +1,8 @@
----
-title: "Young singing done right: Aksel Rykkvin"
----
++++
+categories = "News"
+slug = /young-singing-done-right-aksel-rykkvin/
+title = "Young singing done right: Aksel Rykkvin"
++++
 
 We've written [quite a lot about child singers](/baby-opera-singers-getting-angry-for-the-right-reasons/), and the odd combination of talented kids and big-budget TV talent shows.
 

@@ -1,6 +1,8 @@
----
-title: "Learning: Opera Overtures with Kyra Millan"
----
++++
+categories = "News"
+slug = /learning-opera-overtures-with-kyra-millan/
+title = "Learning: Opera Overtures with Kyra Millan"
++++
 
 Soprano and opera comedienne [Kyra Millan](/kyra-millan-arts-education-counts/) returns to the Royal Conservatory of Music for their [*Opera Overtures*](https://ca.apm.activecommunities.com/theroyalconservatory/Activity_Search/2079) course, each Monday night from 7-8:30pm, **March 21 to April 18**. Over five weeks, partipants will "learn about the history, the music, and the sublime and sublimely ridiculous elements that make opera so fabulous."
 

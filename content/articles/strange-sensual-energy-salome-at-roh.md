@@ -1,6 +1,8 @@
----
-title: "Strange sensual energy: Salome at ROH"
----
++++
+categories = "Review"
+slug = /strange-sensual-energy-salome-at-roh/
+title = "Strange sensual energy: Salome at ROH"
++++
 
 Last night's production of [*Salome* at the Royal Opera House](http://www.roh.org.uk/productions/salome-by-david-mcvicar) was an aural experience: Strauss' music never ceases to astonish me with its otherworldly decadence. The production itself didn't do much for me - with music so extraordinary, I would have liked to have seen something a little more lush, a little more *fin-de-siécle*. The grime was too 21st-century, too obvious. I wanted something otherworldly and overwhelming. 
 

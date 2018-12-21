@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Toronto Opera Initiative&#039;s Don Giovanni"
----
++++
+categories = "News"
+slug = /dont-miss-toronto-opera-initiatives-don-giovanni/
+title = "Don&#039;t miss: Toronto Opera Initiative&#039;s Don Giovanni"
++++
 
 Need a last-minute-Valentine's-Day opera fix? This **Saturday, February 13th at 7pm at College Street United Church**, [Toronto Opera Initiative](https://www.facebook.com/events/1040623135968658/) presents Mozart's tale of romance and love (?), *Don Giovanni*.
 

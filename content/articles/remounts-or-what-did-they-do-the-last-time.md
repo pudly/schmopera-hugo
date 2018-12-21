@@ -1,6 +1,8 @@
----
-title: "Remounts, or &quot;What did they do the last time?&quot;"
----
++++
+categories = "Op-ed"
+slug = /remounts-or-what-did-they-do-the-last-time/
+title = "Remounts, or &quot;What did they do the last time?&quot;"
++++
 
 <p>
 	This week, I'm helping out on a remount production of <em>Semele</em>. I first worked on it in 2012 during my time in the COC Ensemble Studio, and this March, Zhang Huan's <em>Semele</em> is heading to the Brooklyn Academy of Music.

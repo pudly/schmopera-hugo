@@ -1,5 +1,6 @@
----
-title: "MT - Online decorum"
----
++++
+slug = /mt-online-decorum/
+title = "MT - Online decorum"
++++
 
 

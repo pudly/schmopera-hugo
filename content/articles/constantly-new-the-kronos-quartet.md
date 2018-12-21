@@ -1,6 +1,8 @@
----
-title: "Constantly new: the Kronos Quartet"
----
++++
+categories = "Review"
+slug = /constantly-new-the-kronos-quartet/
+title = "Constantly new: the Kronos Quartet"
++++
 
 Last night's concert at the Barbican Centre was a dense, tangible reminder of why the [Kronos Quartet](http://kronosquartet.org/home) is a leading ensemble in contemporary music. After over 40 years together, Kronos has had over 750 pieces of music written for them; their collaborations reach across borders and genres, including music by Terry Riley, Henryk Górecki, Philip Glass, Wu Man, Alim Qasimov, and Asha Bhosle, and they have shared the stage with everyone from Paul McCartney to Tom Waits to David Bowie.
 

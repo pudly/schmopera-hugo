@@ -1,6 +1,8 @@
----
-title: "Squeezebox at Soundstreams"
----
++++
+categories = "News"
+slug = /squeezebox-at-soundstreams/
+title = "Squeezebox at Soundstreams"
++++
 
 On February 10th at Trinity-St. Paul's Centre, [Soundstreams](/scene/companies/soundstreams/) presents *Squeezebox*, a "cross-cultural concert celebrating all things accordion". 
 

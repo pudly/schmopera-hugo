@@ -1,6 +1,8 @@
----
-title: "A luminous Lucia at Florida Grand Opera"
----
++++
+categories = "Review"
+slug = /a-luminous-lucia-at-florida-grand-opera/
+title = "A luminous Lucia at Florida Grand Opera"
++++
 
 The [*Lucia di Lammermoor*](http://tickets.fgo.org/Tickets/EventDetails.aspx?id=1592) "mad scene" is, to say the least, iconic. Gowned in nuptial white and bathed in blood, Lucia sings to the hallucinated spectre of her lover, Edgardo, after having murdered Arturo, the nobleman she was forced to marry. A quick YouTube survey turns up widely varied interpretations — Lucias who are defiant, urgent, and dangerous; or Lucias who are broken and frail, ethereal tropes of female mental fragility.
 

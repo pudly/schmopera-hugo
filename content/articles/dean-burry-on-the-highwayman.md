@@ -1,6 +1,8 @@
----
-title: "Dean Burry on &quot;The Highwayman&quot;"
----
++++
+categories = "Interview"
+slug = /dean-burry-on-the-highwayman/
+title = "Dean Burry on &quot;The Highwayman&quot;"
++++
 
 ## What appealed to you about Noyes' poem "The Highwayman", and why did you decide it would make a good basis for a musical setting?
 

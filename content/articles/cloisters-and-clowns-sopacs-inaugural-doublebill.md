@@ -1,6 +1,8 @@
----
-title: "Cloisters and clowns: SOPAC&#039;s inaugural double-bill"
----
++++
+categories = "Interview"
+slug = /cloisters-and-clowns-sopacs-inaugural-doublebill/
+title = "Cloisters and clowns: SOPAC&#039;s inaugural double-bill"
++++
 
 ## Can you tell us a bit about the vision SOPAC, and your own history with the organization?
 

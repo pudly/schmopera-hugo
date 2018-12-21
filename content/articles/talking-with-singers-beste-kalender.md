@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Beste Kalender"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-beste-kalender/
+title = "Talking with singers: Beste Kalender"
++++
 
 ## What sort of impact has Marilyn Horne and *The Song Continues* had on the current generation of professional singers?
 

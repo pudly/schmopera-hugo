@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Iain MacNeil"
----
++++
+categories = "Interview"
+slug = /spotlight-on-iain-macneil/
+title = "Spotlight on: Iain MacNeil"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

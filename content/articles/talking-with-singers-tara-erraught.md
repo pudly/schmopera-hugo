@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Tara Erraught"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-tara-erraught/
+title = "Talking with singers: Tara Erraught"
++++
 
 ## With a piece like *Le nozze di Figaro*, what balance do you find between comedy and drama?
 

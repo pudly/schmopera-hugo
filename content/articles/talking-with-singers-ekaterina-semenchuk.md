@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Ekaterina Semenchuk"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-ekaterina-semenchuk/
+title = "Talking with singers: Ekaterina Semenchuk"
++++
 
 ## What kind of a woman is Amneris? What do you think are some misconceptions about her character?
 

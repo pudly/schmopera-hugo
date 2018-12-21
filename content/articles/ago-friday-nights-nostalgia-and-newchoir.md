@@ -1,6 +1,8 @@
----
-title: "AGO Friday Nights: nostalgia and newchoir"
----
++++
+categories = "Editorial"
+slug = /ago-friday-nights-nostalgia-and-newchoir/
+title = "AGO Friday Nights: nostalgia and newchoir"
++++
 
 At the Art Gallery of Ontario, February is all about the 1960s and '70s. Luckily, Schmopera has a soft spot for The Beatles (who doesn't?), Creedence Clearwater Revival, The Guess Who, Crosby, Stills, Nash & Young, that whole gang of awesome music-makers.
 

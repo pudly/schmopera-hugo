@@ -1,6 +1,8 @@
----
-title: "Take a joke, have a nap"
----
++++
+categories = "Op-ed"
+slug = /take-a-joke-have-a-nap/
+title = "Take a joke, have a nap"
++++
 
 So, the other night [Al Roker fell asleep at the opera:](https://www.nytimes.com/2017/05/02/arts/music/al-roker-sleeping-at-der-rosenkavalier-opera.html)
 

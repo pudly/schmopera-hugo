@@ -1,6 +1,8 @@
----
-title: "Talking with conductors: Lidiya Yankovskaya"
----
++++
+categories = "Interview"
+slug = /talking-with-conductors-lidiya-yankovskaya/
+title = "Talking with conductors: Lidiya Yankovskaya"
++++
 
 ## What does it feel like to conduct an orchestra and singers, when everything is going right?
 

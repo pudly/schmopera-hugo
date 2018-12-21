@@ -1,6 +1,8 @@
----
-title: "Go see: Les paradis perdus / Remix"
----
++++
+categories = "News"
+slug = /go-see-les-paradis-perdus-remix/
+title = "Go see: Les paradis perdus / Remix"
++++
 
 This week, go see something a little different. Originally created by [Coleman Lemieux & Compagnie](http://colemanlemieux.com/) in 2005, *Les paradis perdus / Remix* is a melding of music and dance that's "a world within a world." The show is part of the new [BRIGHT NIGHTS](http://colemanlemieux.com/citadel/brightnights/) dance/theatre series, and *Les paradis perdus* features original music by Victoria-based composer Christopher Butterfield. Choreographer [Laurence Lemieux](http://colemanlemieux.com/company/laurencelemieux/) leads dancers Luke Garwood and Erin Poole in this work that is "inspired by childhood memories both fond and fearsome."
 

@@ -1,6 +1,8 @@
----
-title: "Star Trek and the opera"
----
++++
+categories = "Humour"
+slug = /star-trek-and-the-opera/
+title = "Star Trek and the opera"
++++
 
 So, I have a loving husband who happens to be a *Star Trek* fan. There's not a whole lot of direct overlap between a sci-fi lover and an opera lover, but one point of contact is in Robert Picardo, (aka The Doctor), and his singing skills on *Star Trek: Voyager*.
 

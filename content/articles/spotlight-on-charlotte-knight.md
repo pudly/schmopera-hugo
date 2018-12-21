@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Charlotte Knight"
----
++++
+categories = "Interview"
+slug = /spotlight-on-charlotte-knight/
+title = "Spotlight on: Charlotte Knight"
++++
 
 ### 1. Why do you sing, and why are you pursuing it professionally?
 

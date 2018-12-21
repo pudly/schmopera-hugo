@@ -1,6 +1,8 @@
----
-title: "Embarrassments of riches: Opera Season at the BBC"
----
++++
+categories = "News"
+slug = /embarrassments-of-riches-opera-season-at-the-bbc/
+title = "Embarrassments of riches: Opera Season at the BBC"
++++
 
 This fall, the BBC is presenting an [Opera Season](https://www.bbc.co.uk/programmes/p05h6n8y) of its own. In partnership with the Royal Opera House, BBC Two, BBC Radio 3, BBC Four, and BBC Arts Digital is collaborating with the Victoria and Albert Museum for their current blockbuster exhibition, *Opera: Passion, Power, and Politics*. 
 

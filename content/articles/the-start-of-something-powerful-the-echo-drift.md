@@ -1,6 +1,8 @@
----
-title: "The start of something powerful: The Echo Drift"
----
++++
+categories = "Review"
+slug = /the-start-of-something-powerful-the-echo-drift/
+title = "The start of something powerful: The Echo Drift"
++++
 
 Solitary confinement, like the death penalty, is a uniquely American punitive practice. Experts generally agree that it is dysfunctional and amoral. Advocacy site [*Solitary Watch*](http://solitarywatch.com/) reports that in 2011, the UN chief torture investigator recommended all UN member nations ban prolonged isolation, describing it as utterly harmful and akin to torture. But the American public and political body, uninformed, tend to uphold it as a necessary evil, and so the practice persists.
 

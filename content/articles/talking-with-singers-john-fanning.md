@@ -1,6 +1,8 @@
----
-title: "Talking with singers: John Fanning"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-john-fanning/
+title = "Talking with singers: John Fanning"
++++
 
 "This role, it's a tricky little thing," says baritone [John Fanning](/scene/people/john-fanning/) of singing Waldner in [*Arabella*](http://coc.ca/PerformancesAndTickets/1718Season/Arabella.aspx), running at the Canadian Opera Company **October 5-28**. Fanning takes on the role of the Count who's "down on his luck", trying to solve his family's financial woes by marrying off his eldest daughter, Arabella, to a wealthy friend of his from Croatia. "He's pretty much lost everything," says Fanning of Waldner, whose habits have him now "living in a bit of a run-down hotel in Vienna because he's a gambler."
 

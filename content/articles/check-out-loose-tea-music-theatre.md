@@ -1,6 +1,8 @@
----
-title: "Check out: Loose TEA Music Theatre"
----
++++
+categories = "Interview"
+slug = /check-out-loose-tea-music-theatre/
+title = "Check out: Loose TEA Music Theatre"
++++
 
 ### 1. What is the mission behind Loose TEA?
 

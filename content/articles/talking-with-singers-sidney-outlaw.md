@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Sidney Outlaw"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-sidney-outlaw/
+title = "Talking with singers: Sidney Outlaw"
++++
 
 New York-based baritone [Sidney Outlaw](/scene/people/sidney-outlaw/) likens his career as a singer to a quote from actress [Jenifer Lewis](imdb.com/name/nm0507338/): "The elevator to success is broken, honey. Take the stairs."
 

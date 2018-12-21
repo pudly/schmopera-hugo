@@ -1,6 +1,8 @@
----
-title: "Three Big Things We Can All Learn From Singers"
----
++++
+categories = "Editorial"
+slug = /three-big-things-we-can-all-learn-from-singers/
+title = "Three Big Things We Can All Learn From Singers"
++++
 
 ## 1. How to take criticism like a pro.
 

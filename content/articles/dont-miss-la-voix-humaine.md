@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: La voix humaine"
----
++++
+categories = "News"
+slug = /dont-miss-la-voix-humaine/
+title = "Don&#039;t miss: La voix humaine"
++++
 
 This **Sunday, January 24th**, mezzo-soprano [Christina Campsall](/scene/people/christina-campsall/) presents Poulenc's one-act, one-woman opera, [*La voix humaine*](https://www.facebook.com/events/541573745993031/), as part of The Glenn Gould School's "Free Recitals" series in **Mazzoleni Hall**. The opera is an adaptation of Jean Cocteau's play of the same name, and Poulenc worked with him and soprano Denise Duval toward its première in 1959 at the Théâtre National de l'Opéra-Comique in Paris.
 

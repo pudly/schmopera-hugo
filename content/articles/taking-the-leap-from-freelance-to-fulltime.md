@@ -1,6 +1,8 @@
----
-title: "Taking the leap from freelance to full-time"
----
++++
+categories = "Op-ed"
+slug = /taking-the-leap-from-freelance-to-fulltime/
+title = "Taking the leap from freelance to full-time"
++++
 
 >"The future isn’t just something that happens. It’s a brutal force with a great sense of humor that will steamroll you, if you’re not watching." -- Aloha
 

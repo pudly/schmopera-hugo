@@ -1,6 +1,8 @@
----
-title: "The voice teacher series: Jane Eaglen"
----
++++
+categories = "Interview"
+slug = /the-voice-teacher-series-jane-eaglen/
+title = "The voice teacher series: Jane Eaglen"
++++
 
 "I think it's almost unique for someone who's had a career as long as I've had," says English dramatic soprano Jane Eaglen, "that I've literally had one voice teacher since I was 17 years old." Her work with [Joseph Ward](https://goo.gl/nFyBBR) - who created roles like Sid in *Albert Herring* and Starveling in *A Midsummer Night's Dream* - preceded Eaglen's first professional seasons at English National Opera, and continued throughout her enviable career singing signature roles like Brünnhilde (*Ring Cycle*), Norma (*Norma*), Isolde (*Tristan und Isolde*), and Donna Anna (*Don Giovanni*). "He's completely like family to me because of the journey we've gone on. I trusted him immediately and believed he was right, even when I was young and knew nothing." 
 

@@ -1,6 +1,8 @@
----
-title: "(not quite) In review: The COC Ensemble Studio&#039;s Barber of Seville"
----
++++
+categories = "Review"
+slug = /not-quite-in-review-the-coc-ensemble-studios-barber-of-seville/
+title = "(not quite) In review: The COC Ensemble Studio&#039;s Barber of Seville"
++++
 
 After much hype and *much* rehearsal, the young artists of the Canadian Opera Company Ensemble Studio had their go at *The Barber of Seville* on the Four Seasons Centre Stage. This is a yearly offering for the Ensemble Studio; for one performance a year, they step into the roles of a mainstage production, which they've also been following as understudies. As much as there's the obvious hard work involved, this performance is always a bit special. The audience is filled with family and friends of the cast, and everyone is aware that we're seeing a very tangible product of these young singers' growing skills. Because I'm one of these invested friends (and I got to see [a few previews of the show](/a-preview-of-the-barber-of-seville-from-the-coc-ensemble-studio/)) I won't attempt to give an unbiased review of the show. 
 

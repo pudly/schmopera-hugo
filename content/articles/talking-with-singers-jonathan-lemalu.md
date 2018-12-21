@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Jonathan Lemalu"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-jonathan-lemalu/
+title = "Talking with singers: Jonathan Lemalu"
++++
 
 ## Why do you sing professionally?
 

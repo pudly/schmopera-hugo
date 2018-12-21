@@ -1,6 +1,8 @@
----
-title: "The voice teacher series: Arianna Zukerman"
----
++++
+categories = "Interview"
+slug = /the-voice-teacher-series-arianna-zukerman/
+title = "The voice teacher series: Arianna Zukerman"
++++
 
 ## What do you enjoy most about teaching voice?
 

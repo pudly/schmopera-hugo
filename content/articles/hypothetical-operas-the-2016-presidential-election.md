@@ -1,6 +1,8 @@
----
-title: "Hypothetical operas: The 2016 Presidential Election"
----
++++
+categories = "Humour"
+slug = /hypothetical-operas-the-2016-presidential-election/
+title = "Hypothetical operas: The 2016 Presidential Election"
++++
 
 It's almost operatic, this 2016 Presidential Election? Operatic yes; it's a spectacle, gigantic in size, and there's a confusing mix of dramatic tension, polarising characters, and of course, tragedy. Canadian tenor and CBC Radio host [Ben Heppner](/scene/people/ben-heppner/) also heard the operatic strains in the words of one Donald Trump, and paid hilarious homage by [singing some of his most quotable quotes](http://www.cbc.ca/radio/becausenews/opera-star-ben-heppner-sings-trump-quotes-plus-trudeau-s-sexcation-and-skinny-tv-shows-1.3603594/opera-star-ben-heppner-sings-the-role-of-donald-trump-1.3603977) in *The Trumpera* (including one brilliantly translated into German).
 

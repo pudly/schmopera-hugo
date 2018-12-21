@@ -1,6 +1,8 @@
----
-title: "Magic &amp; high standards: Midsummer at Glyndebourne"
----
++++
+categories = "Interview"
+slug = /magic-high-standards-midsummer-at-glyndebourne/
+title = "Magic &amp; high standards: Midsummer at Glyndebourne"
++++
 
 ## What does it mean to you to be performing in *A Midsummer Night's Dream* in the 400th anniversary of Shakespeare's death?
  

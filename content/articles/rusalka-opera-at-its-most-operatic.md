@@ -1,6 +1,8 @@
----
-title: "Rusalka: Opera at its most operatic"
----
++++
+categories = "Review"
+slug = /rusalka-opera-at-its-most-operatic/
+title = "Rusalka: Opera at its most operatic"
++++
 
 Not all fairy tales have happy endings. In fact, the majority of them are quite bloody. Des Moines Metro Opera delivered a production of [*Rusalka*](http://desmoinesmetroopera.org/productions/rusalka/) that perfectly balanced the fairy tale dichotomy of whimsy and darkness. When the *Little Mermaid* melds with Czech folklore and music, the results are beautiful, haunting, and heartbreaking in the best possible way.
 

@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Composers (of the) Roundtable"
----
++++
+categories = "News"
+slug = /dont-miss-composers-of-the-roundtable/
+title = "Don&#039;t miss: Composers (of the) Roundtable"
++++
 
 ## What is important about writing opera for children?
 

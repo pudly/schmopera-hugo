@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Gyula Nagy"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-gyula-nagy/
+title = "Talking with singers: Gyula Nagy"
++++
 
 "The whole [singing] thing came from shouting Guns n' Roses at home," laughs Gyula Nagy, the Hungarian baritone who is a new member of the Jette Parker Young Artists Programme with the [Royal Opera House](/scene/companies/royal-opera-house/). "'Paradise City' and all these things." Nagy's parents figured if he would continue "shouting," some voice lessons would be in order. 
 

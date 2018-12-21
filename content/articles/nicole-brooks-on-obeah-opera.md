@@ -1,6 +1,8 @@
----
-title: "Nicole Brooks on Obeah Opera"
----
++++
+categories = "Interview"
+slug = /nicole-brooks-on-obeah-opera/
+title = "Nicole Brooks on Obeah Opera"
++++
 
 ### What can people expect from an "a cappella theatrical epic"?
 

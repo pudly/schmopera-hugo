@@ -1,6 +1,8 @@
----
-title: "Talking with composers: Alexina Louie"
----
++++
+categories = "Interview"
+slug = /talking-with-composers-alexina-louie/
+title = "Talking with composers: Alexina Louie"
++++
 
 ## How would you describe your musical aesthetic? How have you heard it described by others?
 

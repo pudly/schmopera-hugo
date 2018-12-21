@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Riccardo Massi"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-riccardo-massi/
+title = "Talking with singers: Riccardo Massi"
++++
 
 ## How does your martial arts training help you with the physical aspects of singing, and vice versa?
 

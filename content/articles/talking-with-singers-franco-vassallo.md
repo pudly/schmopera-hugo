@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Franco Vassallo"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-franco-vassallo/
+title = "Talking with singers: Franco Vassallo"
++++
 
 ## Why do you sing professionally?
 

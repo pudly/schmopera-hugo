@@ -1,6 +1,8 @@
----
-title: "Talking with composers: Brian Harman"
----
++++
+categories = "Interview"
+slug = /talking-with-composers-brian-harman/
+title = "Talking with composers: Brian Harman"
++++
 
 ## What are your priorities when you begin writing something new? 
 

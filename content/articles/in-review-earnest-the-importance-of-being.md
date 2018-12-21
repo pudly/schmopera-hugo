@@ -1,6 +1,8 @@
----
-title: "In review: Earnest, the Importance of Being"
----
++++
+categories = "Review"
+slug = /in-review-earnest-the-importance-of-being/
+title = "In review: Earnest, the Importance of Being"
++++
 
 Last night I went to opening night of *Earnest, the Importance of Being* at [Toronto Operetta Theatre](http://www.torontooperetta.com/shows.html). The piece, by Victor Davies and Eugene Benson, had its premiere in 2008. It's a rare thing to find an original Canadian operetta, and this one is a hilarious and charming take on Oscar Wilde's *The Importance of Being Earnest*.
 

@@ -1,6 +1,8 @@
----
-title: "He said/she said: a sweet Elixir at the COC"
----
++++
+categories = "Review"
+slug = /he-saidshe-said-a-sweet-elixir-at-the-coc/
+title = "He said/she said: a sweet Elixir at the COC"
++++
 
 **Jenna**: Opera lovers certainly enjoy their *gravitas*, their 12-minute-long scenes of crisis and cerebral combinations of *commedia dell'arte*, Jungian psychology, and contemporary political mirrors. Yet if you're going to see a show full of well-loved plot devices and impossibly catchy music that leaves a decidedly saccharine taste in your mouth, that show had better run with its sunny disposition, 110%.
 

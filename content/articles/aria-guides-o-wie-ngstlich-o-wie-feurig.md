@@ -1,6 +1,8 @@
----
-title: "Aria guides: &quot;O wie ängstlich, o wie feurig!&quot;"
----
++++
+categories = "How-to"
+slug = /aria-guides-o-wie-ngstlich-o-wie-feurig/
+title = "Aria guides: &quot;O wie ängstlich, o wie feurig!&quot;"
++++
 
 1. This is a nice, straight-forward way of starting a beast of an aria. Take advantage of these two small phrases; they're chances for you to take a couple of easy breaths, and spend the air healthily. Don't be afraid to start at a comfortable volume; the important part is to safe some fire, as it were, for the bigger outbust at "o wie feurig".<figure data-type="image">
 ![](/webhook-uploads/1480700040380/Aria-Guide---Belmonte---annotated---1.jpg)

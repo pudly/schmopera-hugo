@@ -1,6 +1,8 @@
----
-title: "Banff-bound, 2016"
----
++++
+categories = "News"
+slug = /banffbound-2016/
+title = "Banff-bound, 2016"
++++
 
 It's that time of year again, readers. It's the season where Schmopera heads to the Canadian Rockies, to join [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) and the [Canadian Opera Company](/scene/companies/canadian-opera-company/) at the big, beautiful [Banff Centre](/scene/companies/the-banff-centre/) for its [Open Space: Opera in the 21st-Century Program](https://www.banffcentre.ca/announcing-2016-open-space-participants?utm_source=The+Banff+Centre&utm_campaign=55856bf7e4-Arts_Performing+Arts_Apr_2016_Newsletter&utm_medium=email&utm_term=0_ad4acfe1fe-55856bf7e4-).
 

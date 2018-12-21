@@ -1,6 +1,8 @@
----
-title: "Opera spin-offs round III"
----
++++
+categories = "Humour"
+slug = /opera-spinoffs-round-iii/
+title = "Opera spin-offs round III"
++++
 
 ## Maddalena in *Rigoletto*
 

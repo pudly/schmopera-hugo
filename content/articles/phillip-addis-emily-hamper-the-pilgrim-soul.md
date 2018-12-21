@@ -1,6 +1,8 @@
----
-title: "Phillip Addis &amp; Emily Hamper: The Pilgrim Soul"
----
++++
+categories = "Interview"
+slug = /phillip-addis-emily-hamper-the-pilgrim-soul/
+title = "Phillip Addis &amp; Emily Hamper: The Pilgrim Soul"
++++
 
 ## What can you tell us about the Canadian works on this concert? 
 

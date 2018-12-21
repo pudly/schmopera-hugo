@@ -1,6 +1,8 @@
----
-title: "After the opera: spin-offs we&#039;d go see"
----
++++
+categories = "Humour"
+slug = /after-the-opera-spinoffs-wed-go-see/
+title = "After the opera: spin-offs we&#039;d go see"
++++
 
 ### 1. After _La bohème_: Schaunard
 

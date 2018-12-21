@@ -1,6 +1,8 @@
----
-title: "36 high C&#039;s to perk up your day"
----
++++
+categories = "Editorial"
+slug = /36-high-cs-to-perk-up-your-day/
+title = "36 high C&#039;s to perk up your day"
++++
 
 Tonight, we're pretty excited to hear Peruvian tenor [Juan Diego Flórez](/scene/people/juan-diego-florez/) in recital at Royal Albert Hall, as part of the [Rosenblatt Recital series](http://www.rosenblattrecitalseries.co.uk/recital.aspx?key=162). The tenor is famous for his stratospheric singing, and although one of his signature arias, "Ah, mes amis" from Donizetti's *La fille du régiment* isn't listed on his programme, there's always the promise of an encore...
 

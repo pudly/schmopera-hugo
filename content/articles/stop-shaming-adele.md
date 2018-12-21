@@ -1,6 +1,8 @@
----
-title: "Stop shaming Adele"
----
++++
+categories = "Op-ed"
+slug = /stop-shaming-adele/
+title = "Stop shaming Adele"
++++
 
 Long after she is gone, Adele's greatest legacy will unquestionably be her music.
 

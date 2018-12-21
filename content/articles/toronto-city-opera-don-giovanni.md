@@ -1,6 +1,8 @@
----
-title: "Toronto City Opera: Don Giovanni"
----
++++
+categories = "Review"
+slug = /toronto-city-opera-don-giovanni/
+title = "Toronto City Opera: Don Giovanni"
++++
 
 Wednesday night, I went to see _Don Giovanni_ at [Toronto City Opera](http://www.torontocityopera.com/#!mission-and-vision/c1bu9); I don't know much about the company, and I was most surprised to learn that they're in their 48th season. _Forty eighth!_ TCO's mission is to "grow the art of opera. It will facilitate this by training young and/or inexperienced singers through an intense regimen of coaching in musicianship, stagecraft and performance." I'm a big fan of companies who create performance opportunities for young singers. There was a wide range of skill and experience among the cast, and for the most part the singers were still in the process of negotiating their technique and putting it into practice onstage. Because of Toronto City Opera's mission, and how much I support it, I'll refrain from writing a review in the same vein as I would for a professional company. 
 

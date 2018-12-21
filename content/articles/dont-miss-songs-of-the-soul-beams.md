@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Songs of the Soul Beams"
----
++++
+categories = "Interview"
+slug = /dont-miss-songs-of-the-soul-beams/
+title = "Don&#039;t miss: Songs of the Soul Beams"
++++
 
 ## What can you tell us about the subject of *Songs of the Soul Beams*?
 

@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Meghan Lindsay"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-meghan-lindsay/
+title = "Talking with singers: Meghan Lindsay"
++++
 
 ## What kind of person is Giunia? What have you discovered about her in Mozart’s music?
 

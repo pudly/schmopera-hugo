@@ -1,6 +1,8 @@
----
-title: "Tales from stage management"
----
++++
+categories = "Interview"
+slug = /tales-from-stage-management/
+title = "Tales from stage management"
++++
 
 ## What’s your favourite part about stage managing for opera?
 **Mike**: I would have to say my favourite part about stage managing for opera is the scale. It doesn't get much bigger. This makes it for an interesting environment, and there is never a dull moment. It keeps things interesting and no day is ever the same. Despite the large scale, it is a fairly small world, and you do get to develop a lot of friendships with some amazing people, some who you may only see every few years. You do feel a sense of community. 

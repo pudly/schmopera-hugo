@@ -1,6 +1,8 @@
----
-title: "Summer of love: Bampton Opera presents The School of Jealousy"
----
++++
+categories = "Interview"
+slug = /summer-of-love-bampton-opera-presents-the-school-of-jealousy/
+title = "Summer of love: Bampton Opera presents The School of Jealousy"
++++
 
 ## What should we know about an obscure opera like Salieri's *La scuola de' gelosi*?
 

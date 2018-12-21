@@ -1,6 +1,8 @@
----
-title: "Curiosity and the Met"
----
++++
+categories = "Op-ed"
+slug = /curiosity-and-the-met/
+title = "Curiosity and the Met"
++++
 
 The anticipation grows at the Metropolitan Opera; their negotiation period has been extended by 72hrs as of last night, in the hopes that the Met management and their union workers can do some math and share some hugs. I can't shake the feeling that the Met is hindered from making a respectful decision about the state of their company's books because of that pesky ego factor. The face of grandeur has been a long-standing staple at the Met, from the red-carpeted, Swarovsky-chandeliered lobby, to the very sights and sounds coming from the stage. It certainly is one-of-a-kind, that Met.
 

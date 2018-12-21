@@ -1,6 +1,8 @@
----
-title: "In review: Così fan tutte at ROH"
----
++++
+categories = "Review"
+slug = /in-review-cos-fan-tutte-at-roh/
+title = "In review: Così fan tutte at ROH"
++++
 
 The catalyst for Jan Philipp Gloger's new staging of *Così fan tutte* for the [Royal Opera House](/scene/companies/royal-opera-house/) was the question, "What would happen if this *Così fan tutte* were to take place after a performance of *Così fan tutte* - if the couples who are so sure of themselves and of their ideas of love were ctually in the audience and wanted to discuss what they've just seen?"
 

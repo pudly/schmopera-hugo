@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Waltz Rivals"
----
++++
+categories = "News"
+slug = /dont-miss-waltz-rivals/
+title = "Don&#039;t miss: Waltz Rivals"
++++
 
 Hello, Schmop-Tops!
 

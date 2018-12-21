@@ -1,6 +1,8 @@
----
-title: "Regietheater? Ja oder nein?"
----
++++
+categories = "Op-ed"
+slug = /regietheater-ja-oder-nein/
+title = "Regietheater? Ja oder nein?"
++++
 
 <p>
 	This past weekend, I attended The Opera Exchange, an event presented semi-regularly by the Canadian Opera Company to discuss relevant opera topics, structured around the COC's current season. With Dmitri Tcherniakov's production of <em>Don Giovanni</em> set to open on January 24th at the Four Seasons Centre, it was a good opportunity to chat about that polarizing topic, <em>Regietheater</em>, or director's theatre.

@@ -1,6 +1,8 @@
----
-title: "In review: Early Opera Company at Wigmore Hall"
----
++++
+categories = "Review"
+slug = /in-review-early-opera-company-at-wigmore-hall/
+title = "In review: Early Opera Company at Wigmore Hall"
++++
 
 One of the best things about Handel’s music is also one of the most confusing things: its power to sound like it could have come from anywhere. There are moments when listening to a Handel opera when, if listened in isolation, we could easily say, "Oh, that music is definitely by Lully," or, "Vivaldi had to have written this aria."
 

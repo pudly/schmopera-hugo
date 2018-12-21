@@ -1,6 +1,8 @@
----
-title: "Singers branching out"
----
++++
+categories = "News"
+slug = /singers-branching-out/
+title = "Singers branching out"
++++
 
 Within the last few weeks, a few of today's most admired opera singers have announced how they keep making waves in the industry, this time from off-stage. 
 

@@ -1,6 +1,8 @@
----
-title: "&quot;A truly otherworldly space&quot;: Heartbeat Opera&#039;s Drag Extravaganza"
----
++++
+categories = "Interview"
+slug = /a-truly-otherworldly-space-heartbeat-operas-drag-extravaganza/
+title = "&quot;A truly otherworldly space&quot;: Heartbeat Opera&#039;s Drag Extravaganza"
++++
 
 ## What do you think opera and drag have most closely in common?
 

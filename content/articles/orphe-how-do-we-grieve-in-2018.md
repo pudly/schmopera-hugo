@@ -1,6 +1,8 @@
----
-title: "Orphée⁺: &quot;How do we grieve in 2018?&quot;"
----
++++
+categories = "Interview"
+slug = /orphe-how-do-we-grieve-in-2018/
+title = "Orphée⁺: &quot;How do we grieve in 2018?&quot;"
++++
 
 ## What does the "⁺" denote in this adaptation of *Orphée et Eurydice*?
 

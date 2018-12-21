@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Megan Marino"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-megan-marino/
+title = "Talking with singers: Megan Marino"
++++
 
 ## Why do you sing professionally?
 

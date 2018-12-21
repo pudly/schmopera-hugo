@@ -1,6 +1,8 @@
----
-title: "In review: Götterdämmerung at the COC"
----
++++
+categories = "Review"
+slug = /in-review-gtterdmmerung-at-the-coc/
+title = "In review: Götterdämmerung at the COC"
++++
 
 I've been around a while. I've sung a lot of music. I've teched (worked backstage) for even more. Due to the way performing and rehearsal schedules have always worked out in the past, I found myself, at this late juncture, *finally* witnessing my first full, fully-staged Wagner opera.
 

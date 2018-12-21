@@ -1,6 +1,8 @@
----
-title: "In review: Glory Denied"
----
++++
+categories = "Review"
+slug = /in-review-glory-denied/
+title = "In review: Glory Denied"
++++
 
 "May the faith and hope that have sustained you in the past continue in the days that follow."
 

@@ -1,6 +1,8 @@
----
-title: "Review: Sondra slays in Bellini masterwork"
----
++++
+categories = "Review"
+slug = /review-sondra-slays-in-bellini-masterwork/
+title = "Review: Sondra slays in Bellini masterwork"
++++
 
 Hi, Schmop-Tops!
 

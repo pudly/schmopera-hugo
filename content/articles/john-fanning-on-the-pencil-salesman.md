@@ -1,6 +1,8 @@
----
-title: "John Fanning on The Pencil Salesman"
----
++++
+categories = "Interview"
+slug = /john-fanning-on-the-pencil-salesman/
+title = "John Fanning on The Pencil Salesman"
++++
 
 ## What kind of man is Boris?
 

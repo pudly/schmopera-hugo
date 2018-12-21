@@ -1,6 +1,8 @@
----
-title: "Leaning into the discomfort"
----
++++
+categories = "Op-ed"
+slug = /leaning-into-the-discomfort/
+title = "Leaning into the discomfort"
++++
 
 It is a question I consider often: why do I make art? What is it that compels me to write and direct? I think Kazuo Ishiguro came the closest to summing up the impulse when he said, in his Nobel acceptance speech in 2017, "in the end, stories are about one person saying to another: This is the way it feels to me. Can you understand what I'm saying? Does it also feel this way to you?" 
 

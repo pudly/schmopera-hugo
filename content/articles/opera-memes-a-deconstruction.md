@@ -1,6 +1,8 @@
----
-title: "Opera Memes: A deconstruction"
----
++++
+categories = "Humour"
+slug = /opera-memes-a-deconstruction/
+title = "Opera Memes: A deconstruction"
++++
 
 I feel like deconstructing today. I was going for lighter fare on a Sunday, which usually means heading over to the land of the opera nerds on Tumblr.
 

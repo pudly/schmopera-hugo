@@ -1,6 +1,8 @@
----
-title: "Autobiographical recitals: Joshua Guerrero in the Amphitheatre"
----
++++
+categories = "Review"
+slug = /autobiographical-recitals-joshua-guerrero-in-the-amphitheatre/
+title = "Autobiographical recitals: Joshua Guerrero in the Amphitheatre"
++++
 
 Tuesday's recital - part of the Canadian Opera Company's [Free Concert Series](https://www.coc.ca/plan-your-visit/free-concert-series) in the Richard Bradshaw Amphitheatre - seemed to suit the day's merciful bit of warm weather. 
 

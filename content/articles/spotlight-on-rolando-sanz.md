@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Rolando Sanz"
----
++++
+categories = "Interview"
+slug = /spotlight-on-rolando-sanz/
+title = "Spotlight on: Rolando Sanz"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

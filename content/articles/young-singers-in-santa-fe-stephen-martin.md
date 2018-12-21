@@ -1,6 +1,8 @@
----
-title: "Young singers in Santa Fe: Stephen Martin"
----
++++
+categories = "Interview"
+slug = /young-singers-in-santa-fe-stephen-martin/
+title = "Young singers in Santa Fe: Stephen Martin"
++++
 
 ## Can you describe a day in the life of an apprentice singer at Santa Fe Opera?
 

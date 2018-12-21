@@ -1,6 +1,8 @@
----
-title: "New season offerings from Esprit Orchestra"
----
++++
+categories = "News"
+slug = /new-season-offerings-from-esprit-orchestra/
+title = "New season offerings from Esprit Orchestra"
++++
 
 [Esprit Orchestra](/scene/companies/esprit-orchestra/), a Canadian leader in new orchestra music, launches its new season this week with the first of five concerts, all packed with new and brand new works.
 

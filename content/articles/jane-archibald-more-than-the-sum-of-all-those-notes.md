@@ -1,6 +1,8 @@
----
-title: "Jane Archibald: more than the sum of all those notes"
----
++++
+categories = "Review"
+slug = /jane-archibald-more-than-the-sum-of-all-those-notes/
+title = "Jane Archibald: more than the sum of all those notes"
++++
 
 The recital program that Jane Archibald brought to the Richard Bradshaw Amphitheatre this week was clean and dense, an unfettered glance at her instrument. The light-filled recital space is notoriously nerve-wracking for a performer, as though the environment, though filled with eager listeners, is brittle and exposed. 
 

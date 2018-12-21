@@ -1,6 +1,8 @@
----
-title: "Opera meanies: the August edition"
----
++++
+categories = "Editorial"
+slug = /opera-meanies-the-august-edition/
+title = "Opera meanies: the August edition"
++++
 
 Sometimes I wonder if there's some natural - if counterintuitive - correlation between disciplines that take an extraordinary amount of specialised training, and a fan base that is full of "those who know better than the pros".
 

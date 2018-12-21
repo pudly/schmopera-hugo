@@ -1,6 +1,8 @@
----
-title: "Chiaroscuro classics: The Marriage of Figaro"
----
++++
+categories = "Review"
+slug = /chiaroscuro-classics-the-marriage-of-figaro/
+title = "Chiaroscuro classics: The Marriage of Figaro"
++++
 
 On November 11, [*The Marriage of Figaro*](http://www.mnopera.org/season/2017-2018/the-marriage-of-figaro/) opened at [Minnesota Opera](/scene/companies/minnesota-opera/) at the Ordway Performing Arts Center. The show was headed by [Richard Ollarsaba](/scene/people/richard-ollarsaba/) as Figaro, and [Angela Mortellaro](/scene/people/angela-mortellaro/) as his bride, Susanna. The Countess was sung by South African soprano [Johanni Van Oostrum](/scene/people/johanni-van-oostrum/). Her luscious high notes filled the hall.  [Adriana Zabala](http://www.mnopera.org/biography/adriana-zabala-2/) sang an energetic Cherubino. Count Almaviva, [Jacques Imbrailo](/scene/people/jacques-imbrailo/), was appropriately slimy, but lacked palpable outrage and anger in the first two acts.
 

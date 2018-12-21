@@ -1,6 +1,8 @@
----
-title: "FachMe.com: a new fun game"
----
++++
+categories = "Humour"
+slug = /fachmecom-a-new-fun-game/
+title = "FachMe.com: a new fun game"
++++
 
 If you're into opera, you do that charming/annoying thing where you hear someone sing and come up with your own, brilliant list of what else that person should sing. "Her Susanna is so pretty. She'd be an awesome Lulu." Or, "Ooh, a high C! He should sing Tonio so that I can hear 9 high Cs instead of just one." You know, educated stuff like that.
 

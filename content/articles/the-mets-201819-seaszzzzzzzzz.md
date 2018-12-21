@@ -1,6 +1,8 @@
----
-title: "The Met&#039;s 2018/19 seas...zzzzzzzzz"
----
++++
+categories = "Humour"
+slug = /the-mets-201819-seaszzzzzzzzz/
+title = "The Met&#039;s 2018/19 seas...zzzzzzzzz"
++++
 
 The Met announced their [2018/19 season](http://www.metopera.org/Season/2018-19-season/), and I'm almost too bored to look at the details.
 

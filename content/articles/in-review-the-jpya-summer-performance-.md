@@ -1,6 +1,8 @@
----
-title: "In review: the JPYA summer performance "
----
++++
+categories = "Review"
+slug = /in-review-the-jpya-summer-performance-/
+title = "In review: the JPYA summer performance "
++++
 
 Sunday night was a rare peep into the journey of becoming a professional singer: the singers from the [Royal Opera House](/scene/companies/royal-opera-house/)'s Jette Parker Young Artist Programme took to the mainstage of Covent Garden to present a set of opera scenes from Mozart to Mascagni.
 

@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Maeve Palmer"
----
++++
+categories = "Interview"
+slug = /spotlight-on-maeve-palmer/
+title = "Spotlight on: Maeve Palmer"
++++
 
 ### 1. Why do you sing, and why are you pursuing it professionally?
 

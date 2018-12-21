@@ -1,6 +1,8 @@
----
-title: "4 English language habits that make a singer&#039;s life harder"
----
++++
+categories = "How-to"
+slug = /4-english-language-habits-that-make-a-singers-life-harder/
+title = "4 English language habits that make a singer&#039;s life harder"
++++
 
 ## Silent final letters
 

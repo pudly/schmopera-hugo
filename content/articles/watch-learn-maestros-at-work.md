@@ -1,6 +1,8 @@
----
-title: "Watch &amp; learn: maestros at work"
----
++++
+categories = "Editorial"
+slug = /watch-learn-maestros-at-work/
+title = "Watch &amp; learn: maestros at work"
++++
 
 ## Carlos Kleiber
 

@@ -1,6 +1,8 @@
----
-title: "Hidden secrets of the soubrette"
----
++++
+categories = "Editorial"
+slug = /hidden-secrets-of-the-soubrette/
+title = "Hidden secrets of the soubrette"
++++
 
 Recently we came across a [curious post](https://www.reddit.com/r/singing/) on Reddit, specifically in [r/singing](https://www.reddit.com/r/singing/), from someone who had learned a rather skewed idea of the soubrette:
 

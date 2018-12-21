@@ -1,6 +1,8 @@
----
-title: "Check out: Opera After Hours"
----
++++
+categories = "Interview"
+slug = /check-out-opera-after-hours/
+title = "Check out: Opera After Hours"
++++
 
 ### 1. Can you tell us about the mission behind Opera After Hours?
 

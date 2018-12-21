@@ -1,6 +1,8 @@
----
-title: "COSI: A day in the life"
----
++++
+categories = "Editorial"
+slug = /cosi-a-day-in-the-life/
+title = "COSI: A day in the life"
++++
 
 This evening, when a group of Canadians presents productions of two Italian operas, Mozart's *Cos􏰀􏰁ì fan tutte* and Cavalli's *La Calisto*, no one will be fussing over subtitles. The audience will be made up of residents of the quaint cittadina of Sulmona, and they can manage without a translation.
 

@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Beth Hagerman"
----
++++
+categories = "Interview"
+slug = /spotlight-on-beth-hagerman/
+title = "Spotlight on: Beth Hagerman"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

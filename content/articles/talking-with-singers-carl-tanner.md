@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Carl Tanner"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-carl-tanner/
+title = "Talking with singers: Carl Tanner"
++++
 
 ## Can you tell us about your past lives as a truck driver, and a bounty hunter? How accurate are our TV-and-movie-inspired ideas of these jobs?
 

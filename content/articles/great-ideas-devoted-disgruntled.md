@@ -1,6 +1,8 @@
----
-title: "Great ideas: Devoted &amp; Disgruntled"
----
++++
+categories = "Interview"
+slug = /great-ideas-devoted-disgruntled/
+title = "Great ideas: Devoted &amp; Disgruntled"
++++
 
 ## "A holder of an infinite number of opinions"
 

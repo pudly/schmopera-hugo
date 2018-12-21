@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Marina Rebeka"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-marina-rebeka/
+title = "Talking with singers: Marina Rebeka"
++++
 
 "It's a different feeling," says Latvian soprano Marina Rebeka, of her return to the Metropolitan Opera. "It's much more calm, much more on the ground."
 

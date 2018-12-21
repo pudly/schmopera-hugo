@@ -1,6 +1,8 @@
----
-title: "Artists to watch: Teng Li"
----
++++
+categories = "Interview"
+slug = /artists-to-watch-teng-li/
+title = "Artists to watch: Teng Li"
++++
 
 ## What do you find is special about the Walton *Viola Concerto*? What do you hope to say with the piece?
 

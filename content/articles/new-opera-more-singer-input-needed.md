@@ -1,6 +1,8 @@
----
-title: "New Opera: More Singer Input Needed"
----
++++
+categories = "Op-ed"
+slug = /new-opera-more-singer-input-needed/
+title = "New Opera: More Singer Input Needed"
++++
 
 Historical memory in opera production is very short. It is probably a shorthand that is not intended to insult, but as time passes we forget the directors, designers, singers and producers of an opera. Even the librettists can get left behind. It is a shame and creates the perception that composers are all Wagnerian control freaks whose work arrives perfectly formed.
 

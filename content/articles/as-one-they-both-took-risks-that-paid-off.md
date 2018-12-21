@@ -1,6 +1,8 @@
----
-title: "As One: &quot;they both took risks that paid off.&quot;"
----
++++
+categories = "Review"
+slug = /as-one-they-both-took-risks-that-paid-off/
+title = "As One: &quot;they both took risks that paid off.&quot;"
++++
 
 Unlike the trajectory of many new operas, *As One* is already on track to become one of the most frequently performed modern works. The opera premiered in 2014, and since then it has been performed at an increasing rate. [Des Moines Metro Opera](/scene/companies/des-moines-metro-opera/) is the thirteenth company to produce [*As One*](http://desmoinesmetroopera.org/education-and-community/second-stages-series), and there are many more upcoming performances scheduled across the nation within the next year. (*Dead Man Walking* better watch its back. *As One* is coming for ya!)
 

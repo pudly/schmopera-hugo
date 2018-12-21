@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Sara Duchovnay"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-sara-duchovnay/
+title = "Talking with singers: Sara Duchovnay"
++++
 
 ## Why do you sing professionally?
 

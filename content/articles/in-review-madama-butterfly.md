@@ -1,6 +1,8 @@
----
-title: "In review: Madama Butterfly"
----
++++
+categories = "Review"
+slug = /in-review-madama-butterfly/
+title = "In review: Madama Butterfly"
++++
 
 On Wednesday, October 15th I made my way on over the Four Seasons Centre at University and Queen Street West to check out the [Canadian Opera Company](http://www.coc.ca/Home.aspx)'s production of [_Madama Butterfly_](http://www.coc.ca/PerformancesAndTickets/1415Season/MadamaButterfly.aspx) by Giacomo Puccini (duh, Greg.)
 Let me preface this by saying one thing: the music is beautiful, the story is not. I don't have the emotional, visceral attachment to this piece that other people have. I can't explain why - well, actually I can, but that's a completely different piece for another time here at Schmopera.

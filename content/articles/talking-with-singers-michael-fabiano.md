@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Michael Fabiano"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-michael-fabiano/
+title = "Talking with singers: Michael Fabiano"
++++
 
 *[Michael Fabiano](/scene/people/michael-fabiano/) will be singing the Duke of Mantua in [Rigoletto at the LA Opera](/verdis-tragedy-in-jest/) in three performances from May 27 to June 3 in a production conducted by Matthew Aucoin.*
 

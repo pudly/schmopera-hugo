@@ -1,6 +1,8 @@
----
-title: "A lopsided &amp; bloody double-bill at Hackney Empire"
----
++++
+categories = "Review"
+slug = /a-lopsided-bloody-doublebill-at-hackney-empire/
+title = "A lopsided &amp; bloody double-bill at Hackney Empire"
++++
 
 Every trip to the [Hackney Empire](https://hackneyempire.co.uk/whats-on/senza-sangue-bluebeards-castle/) is an experience; I'm always surprised that the building manages to be equal parts kitschy and elegant. The space also has a surprisingly wonderful acoustic as well as clear sight lines and a big stage. It's wonderful for opera, although it doesn't have an orchestra pit.
 

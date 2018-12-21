@@ -1,6 +1,8 @@
----
-title: "3 ways to have a great first rehearsal"
----
++++
+categories = "How-to"
+slug = /3-ways-to-have-a-great-first-rehearsal/
+title = "3 ways to have a great first rehearsal"
++++
 
 ### 1. Prepare for the uncomfortable
 

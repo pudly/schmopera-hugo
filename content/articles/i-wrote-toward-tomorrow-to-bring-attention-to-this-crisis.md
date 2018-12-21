@@ -1,6 +1,8 @@
----
-title: "&quot;I wrote Toward Tomorrow to bring attention to this crisis.&quot;"
----
++++
+categories = "News"
+slug = /i-wrote-toward-tomorrow-to-bring-attention-to-this-crisis/
+title = "&quot;I wrote Toward Tomorrow to bring attention to this crisis.&quot;"
++++
 
 This month Vancouver's [Opera Mariposa](/scene/companies/opera-mariposa/), a company "run by young artists, for young artists", presents [*Toward Tomorrow*](http://operamariposa.com/schedule), a something-for-everyone event with a great cause.
 

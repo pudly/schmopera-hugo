@@ -1,6 +1,8 @@
----
-title: "By the Numbers: 2nd birthday edition"
----
++++
+categories = "Meta"
+slug = /by-the-numbers-2nd-birthday-edition/
+title = "By the Numbers: 2nd birthday edition"
++++
 
 ## Hi Everyone!
 

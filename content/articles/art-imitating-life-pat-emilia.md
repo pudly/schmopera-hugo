@@ -1,6 +1,8 @@
----
-title: "Art imitating life: Pat &amp; Emilia"
----
++++
+categories = "Interview"
+slug = /art-imitating-life-pat-emilia/
+title = "Art imitating life: Pat &amp; Emilia"
++++
 
 ## Can you tell us about the performance history of *Pat & Emilia*? 
 

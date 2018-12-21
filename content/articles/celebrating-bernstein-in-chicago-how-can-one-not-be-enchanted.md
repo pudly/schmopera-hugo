@@ -1,6 +1,8 @@
----
-title: "Celebrating Bernstein in Chicago: &quot;How can one not be enchanted?&quot;"
----
++++
+categories = "Review"
+slug = /celebrating-bernstein-in-chicago-how-can-one-not-be-enchanted/
+title = "Celebrating Bernstein in Chicago: &quot;How can one not be enchanted?&quot;"
++++
 
 I was only four years old when Leonard Bernstein died in 1990 – just too young to have had any real, direct contact with the man. I have, however, over the course of my education, had the good fortune of studying with two teachers who are bona fide Bernstein progeny (pianist André Watts and conductor Victor Yampolsky), whose personal and professional lives were formed by and indebted to the great artist. In lessons, "Lenny" was ever-present: "You know, Lenny used to say…", "When I did this with Lenny...", "Lenny had a marvelous way of...". Their Bernstein anecdotes were ample and I gleefully soaked up the details, hoping to extract as much vicarious wisdom and experience as possible. Over the years, and thanks to the treasure-trove that is YouTube, I've absorbed further Bernstein's prolific legacy: the composer, pianist, conductor, teacher, thinker, humanitarian. 
 

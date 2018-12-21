@@ -1,6 +1,8 @@
----
-title: "4 singers you might not know - but should"
----
++++
+categories = "Op-ed"
+slug = /4-singers-you-might-not-know-but-should/
+title = "4 singers you might not know - but should"
++++
 
 Last summer I was in Quebec City, and one day as I happened along the Grand Allée Ouest I came upon an old church with the doors open and a [Big Mama Thornton](https://www.youtube.com/watch?v=wxoGvBQtjpM&feature=youtu.be) record wailing away at high volume. Intrigued, I went in for a closer look and discovered that in fact the church had been converted into a record shop and used book store. 
 

@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Dion Mazerolle"
----
++++
+categories = "Interview"
+slug = /spotlight-on-dion-mazerolle/
+title = "Spotlight on: Dion Mazerolle"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

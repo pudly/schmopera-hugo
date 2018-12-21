@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss Acis &amp; Galatea: A Gender Liberation Opera"
----
++++
+categories = "Interview"
+slug = /dont-miss-acis-galatea-a-gender-liberation-opera/
+title = "Don&#039;t miss Acis &amp; Galatea: A Gender Liberation Opera"
++++
 
 ## What can you tell us about your newly adapted libretto for *Acis and Galatea*, and how it fits into the musical world created by Handel?
 

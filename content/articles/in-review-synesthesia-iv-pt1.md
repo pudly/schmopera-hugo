@@ -1,6 +1,8 @@
----
-title: "In review: Synesthesia IV pt.1"
----
++++
+categories = "Review"
+slug = /in-review-synesthesia-iv-pt1/
+title = "In review: Synesthesia IV pt.1"
++++
 
 Saturday, May 7th, tucked away in the middle of a bunch of abandoned industrial spaces just off Bloor Street in the West End of Toronto, I found myself amongst an incredibly diverse audience for [FAWN Chamber Creative](/scene/companies/fawn-chamber-creative/) (formerly FAWN Opera): hipsters and opera groupies mingling with some of the artsiest people on the Toronto Scene. 
 

@@ -1,6 +1,8 @@
----
-title: "The Bicycle Opera Project at 21C"
----
++++
+categories = "Review"
+slug = /the-bicycle-opera-project-at-21c/
+title = "The Bicycle Opera Project at 21C"
++++
 
 Last night, as part of the Royal Conservatory of Music's ongoing contemporary music festival, [*21C*](https://www.rcmusic.ca/media/news-releases/21c-music-festival), the [Bicycle Opera Project](/scene/companies/the-bicycle-opera-project/) presented a teaser of their upcoming season. The BOP team will first take up an artist residency in Baddeck, Nova Scotia, to premiere Dean Burry's new opera, *The Bells of Baddeck*. After that, they'll tour both Nova Scotia and Ontario with *shadow box*, a cohesive collective of Canadian scenes. At last night's preview, Bicycle Opera gave us a small taste of *The Bells of Baddeck*, plus about half of *shadow box*. A quick list of the BOP team:
 

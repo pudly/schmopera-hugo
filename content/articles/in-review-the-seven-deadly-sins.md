@@ -1,6 +1,8 @@
----
-title: "In review: The Seven Deadly Sins"
----
++++
+categories = "Review"
+slug = /in-review-the-seven-deadly-sins/
+title = "In review: The Seven Deadly Sins"
++++
 
 I'm always excited by Kurt Weill. Ever since my first exposure to *Mahagonny* and *Down in the Valley* (one of his American musicals) I've been fascinated by his work with Bertolt Brecht. On Friday, September 25th I got to re-hear one of my favourites presented by [The Friends of Gravity](/scene/companies/the-friends-of-gravity/).
 

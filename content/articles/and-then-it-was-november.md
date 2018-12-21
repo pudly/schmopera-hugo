@@ -1,6 +1,8 @@
----
-title: "...and then it was November"
----
++++
+categories = "Op-ed"
+slug = /and-then-it-was-november/
+title = "...and then it was November"
++++
 
 Hello, Schmop-Tops.
 

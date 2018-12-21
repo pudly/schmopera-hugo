@@ -1,6 +1,8 @@
----
-title: "Soundstreams announces the cast of Julie"
----
++++
+categories = "News"
+slug = /soundstreams-announces-the-cast-of-julie/
+title = "Soundstreams announces the cast of Julie"
++++
 
 This November, Soundstreams present the North American premiere of *Julie*, the chamber opera by Philippe Boesmans and librettist Luc Bondy, based on the 1888 Strindberg play, *Miss Julie*. "Depicting a flirtation that turns into an erotic danse macabre between its aristocratic title character and her father’s valet, August Strindberg’s play Miss Julie was considered too scandalous to be produced when it was written in 1888—only to become a defining classic of modern drama." Of course, this kind of thing makes me even more curious to see the opera. Directed by Canadian Stage's Matthew Jocelyn and conducted by Les Dala, *Julie* has a compact cast of three exciting Canadian singers. 
 

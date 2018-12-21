@@ -1,6 +1,8 @@
----
-title: "In review: La belle Hélène"
----
++++
+categories = "Review"
+slug = /in-review-la-belle-hlne/
+title = "In review: La belle Hélène"
++++
 
 <p>
 	Last night I went to see opening night of the Glenn Gould School's production of Offenbach's 

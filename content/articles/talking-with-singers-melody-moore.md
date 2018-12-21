@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Melody Moore"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-melody-moore/
+title = "Talking with singers: Melody Moore"
++++
 
 ## Your repertoire is a mix of coveted roles from traditional opera, as well as new opera (*The Passenger*, *Prima Donna*, *Heart of a Soldier*). Do you find any differences in the process of rehearsing and performing new versus traditional works?
 

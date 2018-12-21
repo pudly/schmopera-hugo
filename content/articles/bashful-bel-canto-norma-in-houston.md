@@ -1,6 +1,8 @@
----
-title: "Bashful bel canto: Norma in Houston"
----
++++
+categories = "Review"
+slug = /bashful-bel-canto-norma-in-houston/
+title = "Bashful bel canto: Norma in Houston"
++++
 
 The island of Sicily has given to the world many important personages: Diodorus Siculus, Sigismondo d'India, Luigi Pirandello, Alessandro Scarlatti, Vittorio Orlando, Giovanni Verga, Giovanni Pacini, and, famously, Archimedes. It will be evident to those reading that I have left off this list the person who is, of course, my favorite Sicilian by far, Vincenzo Bellini. Certainly, as he has had his face on the Italian Republic's 5000 lira note, I should hope that my regard of this composer's craft is justified. After all, who am I to contradict Chopin's preferences?
 

@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Lisette Oropesa"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-lisette-oropesa/
+title = "Talking with singers: Lisette Oropesa"
++++
 
 ## Why do you sing?
 

@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Christopher James Ray"
----
++++
+categories = "Interview"
+slug = /spotlight-on-christopher-james-ray/
+title = "Spotlight on: Christopher James Ray"
++++
 
 [Christopher James Ray](/scene/people/christopher-james-ray/) is a rising conductor based out of Houston, TX. In recent seasons, Christopher has been busy at Florida State Opera and Sarasota Opera, and he'll make his debut at Opera on the James in 2015/16. Christopher is a student and protégé of American composer Carlisle Floyd, having assisted him on *Of Mice and Men* in 2012, and recording an [album](http://www.amazon.com/C-Floyd-Letter-Susanne-Mentzer/dp/B00G4U7UNK) of Floyd's songs with mezzo-soprano Susanne Mentzer. I asked Christopher about being a singer-friendly conductor, and investing in contemporary works.
 

@@ -1,6 +1,8 @@
----
-title: "Murky works: Shadwell Opera presents The Lighthouse"
----
++++
+categories = "Review"
+slug = /murky-works-shadwell-opera-presents-the-lighthouse/
+title = "Murky works: Shadwell Opera presents The Lighthouse"
++++
 
 [Shadwell Opera](/scene/companies/shadwell-opera/) is a brave young company based in East London - they continue to present exciting and innovative music from the 20th and 21st centuries. I was intrigued to see their production of Peter Maxwell Davies' dark, macabre monster, [*The Lighthouse*](https://www.hackneyshowroom.com/the-lighthouse/). They chose the Hackney Showroom to present the opera, an unconventional space in East London nestled amongst artist studios. I loved the venue - it was the perfect space for such a strange and atmospheric work. 
 

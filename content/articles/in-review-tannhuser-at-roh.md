@@ -1,6 +1,8 @@
----
-title: "In review: Tannhäuser at ROH"
----
++++
+categories = "Review"
+slug = /in-review-tannhuser-at-roh/
+title = "In review: Tannhäuser at ROH"
++++
 
 Opening night of *Tannhäuser* at Covent Garden had all the makings of excellence; the production is by Tim Albery, and designed by Michael Levine, and the notorious Heldentenor [Peter Seiffert](/scene/people/peter-seiffert/) took the title role. There was indeed excellence onstage, yet cohesion and consistency were what we craved.
 

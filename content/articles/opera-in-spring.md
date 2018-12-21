@@ -1,6 +1,8 @@
----
-title: "Opera in Spring"
----
++++
+categories = "Editorial"
+slug = /opera-in-spring/
+title = "Opera in Spring"
++++
 
 <p>
 	<strong>Sunday, March 29</strong>: <a href="http://www.operainconcert.com/Louise.html" target="_blank">VOICEBOX: Opera in Concert</a> presents Charpentier's <em>Louise</em>, starring <a href="http://www.leslieannbradley.com/" target="_blank">Leslie Ann Bradley</a> in the title roles. <a href="http://www.michele-bogdanowicz.com/" target="_blank">Michèle Bogdanowicz</a>, <a href="http://www.keithklassen.com/" target="_blank">Keith Klassen</a>, and <a href="http://www.domoneyartists.com/Baritone/Mazerolle_Bio/mazerolle_bio.html" target="_blank">Dion Mazerolle</a> complete the cast, and <a href="https://twitter.com/petertiefenbach" target="_blank">Peter Tiefenbach</a> leads as Music Director and pianist.<em>Louise</em> isn't done that often, but I know the music is gorgeous, and Leslie Ann is certainly a singer to watch. It's a single performance only, on March 29th at 2:30pm, at the St. Lawrence Centre for the Arts. Get details and ticket information <a href="http://www.operainconcert.com/Louise.html" target="_blank">right here</a>.<br>

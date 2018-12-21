@@ -1,6 +1,8 @@
----
-title: "Tales from the score: Violetta"
----
++++
+categories = "Editorial"
+slug = /tales-from-the-score-violetta/
+title = "Tales from the score: Violetta"
++++
 
 Verdi's _La traviata_ is one of those operas, like _Il barbiere di Siviglia_ or _Die Walküre_, that's so full of famous stories and tunes that the real significance of these moments is almost forgotten. But because it's Verdi, let's not dock him points for being obvious. I'm sure every opera fan has own favourite bits from _La traviata_, including the tragic first few bars, pictured above, that scream "foreshadowing! Foreshadowing!" very loudly in Italian. I chose a few musical moments that I feel act as dramatic checkpoints within the story of Violetta and her Alfredo.
 

@@ -1,6 +1,8 @@
----
-title: "Schmopera is three!"
----
++++
+categories = "Editorial"
+slug = /schmopera-is-three/
+title = "Schmopera is three!"
++++
 
 It's been three years ago since we started Schmopera from a cozy chalet, on a ski trip near Montréal. At the beginning, there was a distinct feeling of opening a large can of worms inside the small world of opera; now, we're insanely proud of what Schmopera has become, and we're humbled by our readers.
 

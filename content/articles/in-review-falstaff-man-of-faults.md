@@ -1,6 +1,8 @@
----
-title: "In review: Falstaff, man of faults"
----
++++
+categories = "Review"
+slug = /in-review-falstaff-man-of-faults/
+title = "In review: Falstaff, man of faults"
++++
 
 Verdi's *Falstaff* is a hard-on-his-luck protagonist who lives outside his means while considering himself God's gift to women. Baritone [Craig Colclough](/talking-with-singers-craig-colclough/) brilliantly plays the old washed-up knight in Opera Vlaanderen's  production of this Verdi classic.  With comedic timing - and tasteful drunkenness - Colclough captures his audience while exhibiting his extraordinary vocal talent. Falstaff has many, many faults, and his lack of moral compass makes the audience question if we should indeed root for such a man; but his resilient self-confidence and delusion fuels the comedic role that allows the public to accept such tasteless behavior from a loser like Falstaff.
 

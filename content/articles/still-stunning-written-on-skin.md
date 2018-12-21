@@ -1,6 +1,8 @@
----
-title: "Still stunning: Written on Skin"
----
++++
+categories = "Review"
+slug = /still-stunning-written-on-skin/
+title = "Still stunning: Written on Skin"
++++
 
 The Barbican Centre closed its *Benjamin at the Barbican* series last night, with a semi-staged performance of George Benjamin's opera with Martin Crimp, *Written on Skin*. Since its premiere at Aix-en-Provence in 2012, *Written on Skin* seems to pop up everywhere, nestling itself firmly among the gems of contemporary English opera. We had the chance to hear an in-concert performance of the work [last year with the Toronto Symphony Orchestra](/in-review-written-on-skin/), conducted by Benjamin, and featuring the cornerstone pair of singers from the world-premiere cast, baritone [Christopher Purves](/scene/people/christopher-purves/) as The Protector, and in the role of Agnès, soprano/conductor/übermensch, [Barbara Hannigan](/scene/people/barbara-hannigan/).
 

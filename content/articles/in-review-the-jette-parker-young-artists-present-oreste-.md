@@ -1,6 +1,8 @@
----
-title: "In review: the Jette Parker Young Artists present Oreste "
----
++++
+categories = "Review"
+slug = /in-review-the-jette-parker-young-artists-present-oreste-/
+title = "In review: the Jette Parker Young Artists present Oreste "
++++
 
 Two hundred and eighty-two years after its first performance as part of the 1734/35 Covent Garden season, members of the Royal Opera's Jette Parker Young Artists Programme have put up *Oreste* at Wilton's Music Hall. *Oreste* is one of three *pasticcio* operas by Handel; set to an anonymous libretto after Euripides' *Iphigenia in Tauris* and Barlocci's *L'Oreste*, it is essentially a collection of previously-written music. The *pasticcio* caught on in the 18th century, in part because the genre allowed for audiences to hear popular arias again.
 

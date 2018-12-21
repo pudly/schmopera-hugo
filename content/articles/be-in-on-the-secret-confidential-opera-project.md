@@ -1,6 +1,8 @@
----
-title: "Be in on the secret: Confidential Opera Project"
----
++++
+categories = "News"
+slug = /be-in-on-the-secret-confidential-opera-project/
+title = "Be in on the secret: Confidential Opera Project"
++++
 
 Guys, I'm having a baby. 
 

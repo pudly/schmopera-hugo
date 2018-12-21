@@ -1,6 +1,8 @@
----
-title: "The value of creating new work for singers"
----
++++
+categories = "Op-ed"
+slug = /the-value-of-creating-new-work-for-singers/
+title = "The value of creating new work for singers"
++++
 
 In the creation of new opera, the focus is on the composer and librettist who have been brought together. The journey to opening night is a long one that takes years as the work is shaped and reworked into its final form. As the opera moves from sketches to workshops through to staging and opening night, singers present the work to audiences large and small at each stage of its development.
 

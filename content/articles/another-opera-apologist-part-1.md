@@ -1,6 +1,8 @@
----
-title: "Another Opera Apologist (Part 1)"
----
++++
+categories = "Op-ed"
+slug = /another-opera-apologist-part-1/
+title = "Another Opera Apologist (Part 1)"
++++
 
 ### Opera? Why?
 

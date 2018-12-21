@@ -1,6 +1,8 @@
----
-title: "In review: LPO presents St. Luke Passion"
----
++++
+categories = "Review"
+slug = /in-review-lpo-presents-st-luke-passion/
+title = "In review: LPO presents St. Luke Passion"
++++
 
 "Passion season" kicks off early this year, as Saturday evening we were treated to a stunning performance of Krzysztof Penderecki’s *St. Luke Passion*. 
 

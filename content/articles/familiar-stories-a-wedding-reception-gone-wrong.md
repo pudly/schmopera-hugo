@@ -1,6 +1,8 @@
----
-title: "Familiar stories: A Wedding Reception (gone wrong)"
----
++++
+categories = "Review"
+slug = /familiar-stories-a-wedding-reception-gone-wrong/
+title = "Familiar stories: A Wedding Reception (gone wrong)"
++++
 
 In the midst of a opera- and concert-going calendar filled with music, sometimes there's beautiful perspective to be found in non-musical live theatre. After a fun, cult-following-inspired night out at London's [*Faulty Towers Dining Experience*](/the-best-bad-meal-in-london-the-faulty-towers-dining-experience/), we tried out a similar style of interactive dinner theatre with [*The Wedding Reception*](http://interactivetheatre.com.au/theweddingreception/), currently playing at the Kingsway Hotel in Covent Garden. 
 

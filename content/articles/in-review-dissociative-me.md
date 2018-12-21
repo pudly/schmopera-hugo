@@ -1,6 +1,8 @@
----
-title: "In review: Dissociative Me"
----
++++
+categories = "Review"
+slug = /in-review-dissociative-me/
+title = "In review: Dissociative Me"
++++
 
 With my friend, mezzo-soprano [Christina Campsall](/scene/people/christina-campsall/), on my arm, I walked into [RED Nightclub](http://www.rednightclub.ca/) to catch [LooseTea Music Theatre](/scene/companies/loose-tea-music-theatre/)'s latest offering, "Dissociative Me". A new translapdatation of Gounod's *Faust*, in which we find the devious relationship with the malevolent spirit Mephistopheles has evolved into a dissociative personality disorder, where he inhabits the other part of John Faustus's psyche. 
 

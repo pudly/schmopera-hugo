@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: the 2nd annual New York Opera Fest"
----
++++
+categories = "Interview"
+slug = /dont-miss-the-2nd-annual-new-york-opera-fest/
+title = "Don&#039;t miss: the 2nd annual New York Opera Fest"
++++
 
 ## What kind of reception did the first NYOF receive? 
 

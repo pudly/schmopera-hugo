@@ -1,6 +1,8 @@
----
-title: "Rags to Reasonable: new look, new resources"
----
++++
+categories = "News"
+slug = /rags-to-reasonable-new-look-new-resources/
+title = "Rags to Reasonable: new look, new resources"
++++
 
 Are you an artist who's stressed out about the prospect of managing your money? (A rare concept, no doubt...)
 

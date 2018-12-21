@@ -1,6 +1,8 @@
----
-title: "Lore Lixenberg is The Mother"
----
++++
+categories = "Interview"
+slug = /lore-lixenberg-is-the-mother/
+title = "Lore Lixenberg is The Mother"
++++
 
 ## What kind of woman is The Mother?
 

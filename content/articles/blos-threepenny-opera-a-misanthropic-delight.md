@@ -1,6 +1,8 @@
----
-title: "BLO&#039;s Threepenny Opera: a misanthropic delight"
----
++++
+categories = "Review"
+slug = /blos-threepenny-opera-a-misanthropic-delight/
+title = "BLO&#039;s Threepenny Opera: a misanthropic delight"
++++
 
 The world of Kurt Weill's *The Threepenny Opera* is a world not easily broken into by most audiences: even aside from the hyper-theatrical tappings in Bertold Brecht's libretto, it's a cold, unfeeling world filled with characters who are all so universally selfish and greedy that the only way for any ending to be considered just is - as one character observes - for all of the characters to hang, not just Macheath, the man around whom the entire work revolves. This poses a challenge for any company that decides to stage the work: how does one handle what is, essentially, a satirical morality tale?
 

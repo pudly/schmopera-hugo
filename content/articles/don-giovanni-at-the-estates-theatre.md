@@ -1,6 +1,8 @@
----
-title: "Don Giovanni at the Estates Theatre"
----
++++
+categories = "Interview"
+slug = /don-giovanni-at-the-estates-theatre/
+title = "Don Giovanni at the Estates Theatre"
++++
 
 ### On the Estates Theatre
 

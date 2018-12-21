@@ -1,6 +1,8 @@
----
-title: "In review: Il trittico at ROH"
----
++++
+categories = "Review"
+slug = /in-review-il-trittico-at-roh/
+title = "In review: Il trittico at ROH"
++++
 
 Last night we had a debut of our own, our first visit to the Royal Opera House. The space is plush yet packed, ornate yet functional. We got turned around a few times in what seemed like endless stairways leading anywhere but our seats; yet despite the grandeur of the building, there was something charmingly everyday about the scene. We exercised will power against the intermission ice cream vendors, and our kind seat neighbour offered some wise advice about checking out the balcony overlooking the square in Covent Garden.
 

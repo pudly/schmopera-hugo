@@ -1,6 +1,8 @@
----
-title: "A shining Violetta in Washington"
----
++++
+categories = "Review"
+slug = /a-shining-violetta-in-washington/
+title = "A shining Violetta in Washington"
++++
 
 I overheard a conversation as I approached the entrance to the Kennedy Center Opera House before Tuesday night's performance of [*La Traviata*](http://www.kennedy-center.org/calendar/event/OTOSA). "Yeah, I used to subscribe to the Met season but after a while I found it got repetitive," a man said to his friend, "but I always love Traviata."
 

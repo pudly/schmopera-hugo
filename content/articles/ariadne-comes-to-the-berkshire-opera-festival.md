@@ -1,6 +1,8 @@
----
-title: "Ariadne comes to the Berkshire Opera Festival"
----
++++
+categories = "Interview"
+slug = /ariadne-comes-to-the-berkshire-opera-festival/
+title = "Ariadne comes to the Berkshire Opera Festival"
++++
 
 ## What advice do you have for artists who are interested in starting their own opera company?
 

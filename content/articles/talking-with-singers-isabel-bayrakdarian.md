@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Isabel Bayrakdarian"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-isabel-bayrakdarian/
+title = "Talking with singers: Isabel Bayrakdarian"
++++
 
 ## What do you think it takes for a group like the Amici Chamber Ensemble to reach 30 seasons?
 

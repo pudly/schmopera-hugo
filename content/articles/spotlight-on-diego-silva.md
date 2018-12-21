@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Diego Silva"
----
++++
+categories = "Interview"
+slug = /spotlight-on-diego-silva/
+title = "Spotlight on: Diego Silva"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

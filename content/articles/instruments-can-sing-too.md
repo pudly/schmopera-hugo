@@ -1,6 +1,8 @@
----
-title: "Instruments can sing, too"
----
++++
+categories = "Op-ed"
+slug = /instruments-can-sing-too/
+title = "Instruments can sing, too"
++++
 
 Something that young instrumentalists hear for much of their training is that they're not "singing" enough. It can be confusing, because no, they're not singing at all. They're dragging bow hairs across strings, plunking down keys, maybe even using their own air supply to make sound; but they're not quite singing. 
 

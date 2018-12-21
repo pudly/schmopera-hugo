@@ -1,6 +1,8 @@
----
-title: "Talking with conductors: Riccardo Frizza"
----
++++
+categories = "Interview"
+slug = /talking-with-conductors-riccardo-frizza/
+title = "Talking with conductors: Riccardo Frizza"
++++
 
 ## Among his operas, what do you think is most special about Verdi's *Falstaff*? Is there any particular challenge in conducting a comedy?
 

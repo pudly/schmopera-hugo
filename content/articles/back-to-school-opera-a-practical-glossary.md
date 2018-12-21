@@ -1,6 +1,8 @@
----
-title: "Back to school opera: a practical glossary"
----
++++
+categories = "Editorial"
+slug = /back-to-school-opera-a-practical-glossary/
+title = "Back to school opera: a practical glossary"
++++
 
 ### In-Concert
 

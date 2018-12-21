@@ -1,6 +1,8 @@
----
-title: "In review: Pop Up Opera&#039;s I Capuleti e i Montecchi"
----
++++
+categories = "Review"
+slug = /in-review-pop-up-operas-i-capuleti-e-i-montecchi/
+title = "In review: Pop Up Opera&#039;s I Capuleti e i Montecchi"
++++
 
 The raw concrete cylinder of the Thames Tunnel Shaft at the Brunel Museum is a delicious spot for an opera. The acoustics are generous, the space is adaptive, and for companies like [Pop Up Opera](/scene/companies/pop-up-opera/), who specialize in unorthodox performance venues, there's a gritty, blank-slate quality that's conducive to getting creative with classic operas.
 

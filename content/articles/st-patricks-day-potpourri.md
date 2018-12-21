@@ -1,6 +1,8 @@
----
-title: "St. Patrick&#039;s Day Potpourri"
----
++++
+categories = "Humour"
+slug = /st-patricks-day-potpourri/
+title = "St. Patrick&#039;s Day Potpourri"
++++
 
 Happy St. Patrick's Day, everyone! To give an operatic nod to the patron saint of Ireland, here are some appropriately-themed clips via YouTube. First up is Irish tenor [John McCormack](http://en.wikipedia.org/wiki/John_McCormack_(tenor)) (1884-1945), who had a pretty enviable career; he sang at Covent Garden, Royal Albert Hall, made tons of recordings. He [apparently](http://en.wikipedia.org/wiki/John_McCormack_(tenor)) had such great breath control that he could sing 64 notes in a row of Mozart's "Il mio tesoro" without taking a breath (that's a weird way of putting it, but that's [Wiki](http://en.wikipedia.org/wiki/John_McCormack_(tenor)) for you). So, here's John McCormack singing "Il mio tesoro".
 

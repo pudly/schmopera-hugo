@@ -1,6 +1,8 @@
----
-title: "How your voice type determines your on-the-job social life"
----
++++
+categories = "Editorial"
+slug = /how-your-voice-type-determines-your-onthejob-social-life/
+title = "How your voice type determines your on-the-job social life"
++++
 
 The opera world is one where socializing is done in fits and starts. For a few weeks at a time, a group of artists is thrown together into a hectic routine of rehearsal and post-rehearsal festivities. The tightly-knit network is full of people separated by just one or two degrees; if two artists don't already know each other, they surely have at least a handful of friends in common (and Facebook makes it even weirder). Each bit of contract work – be it a fully staged production, a concert gig, a workshop of sorts – comes with a temporary social circle.
 

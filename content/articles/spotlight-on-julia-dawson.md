@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Julia Dawson"
----
++++
+categories = "Interview"
+slug = /spotlight-on-julia-dawson/
+title = "Spotlight on: Julia Dawson"
++++
 
 [Julia Dawson](/scene/people/julia-dawson/) is a Canadian mezzo-soprano currently based in the United States. Julia is a hardworking, creative artist, and she's been keeping busy singing at the Academy of Vocal Arts, the Glimmerglass Festival, and Opera Philadelphia, to name a few. Get to know this smart singer:
 

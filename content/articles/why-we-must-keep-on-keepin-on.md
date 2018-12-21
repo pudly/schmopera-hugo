@@ -1,6 +1,8 @@
----
-title: "Why we must keep on keepin&#039; on"
----
++++
+categories = "Editorial"
+slug = /why-we-must-keep-on-keepin-on/
+title = "Why we must keep on keepin&#039; on"
++++
 
 Hi, readers. Jenna here.
 

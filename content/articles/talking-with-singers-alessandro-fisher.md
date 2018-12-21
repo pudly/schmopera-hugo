@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Alessandro Fisher"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-alessandro-fisher/
+title = "Talking with singers: Alessandro Fisher"
++++
 
 ## Why do you sing professionally?
 

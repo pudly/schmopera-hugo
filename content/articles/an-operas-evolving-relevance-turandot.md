@@ -1,6 +1,8 @@
----
-title: "An opera&#039;s evolving relevance: Turandot"
----
++++
+categories = "Review"
+slug = /an-operas-evolving-relevance-turandot/
+title = "An opera&#039;s evolving relevance: Turandot"
++++
 
 An imperious gold dragon coils around the stage of the Lyric this January, its enormous serpentine body and outstretched talons frame the stage for performances of [*Turandot*](https://www.lyricopera.org/concertstickets/calendar/2017-2018/productions/lyricopera/turandot-opera-tickets), Puccini's final and most lavish opera. This visually splendid production, designed by Allen Charles Klein, has the old-school spectacle you crave in a Turandot without the elaborate fussiness of Zeffirelli's famed Met production.
 

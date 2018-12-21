@@ -1,6 +1,8 @@
----
-title: "Second opinion: The Marriage of Figaro at the COC"
----
++++
+categories = "Review"
+slug = /second-opinion-the-marriage-of-figaro-at-the-coc/
+title = "Second opinion: The Marriage of Figaro at the COC"
++++
 
 First and foremost, I loved the show. 
 

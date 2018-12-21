@@ -1,6 +1,8 @@
----
-title: "Song Guides: &quot;Die Nacht&quot;"
----
++++
+categories = "How-to"
+slug = /song-guides-die-nacht/
+title = "Song Guides: &quot;Die Nacht&quot;"
++++
 
 ## Some general wisdom
 

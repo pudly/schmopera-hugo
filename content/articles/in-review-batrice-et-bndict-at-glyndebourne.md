@@ -1,6 +1,8 @@
----
-title: "In review: Béatrice et Bénédict at Glyndebourne"
----
++++
+categories = "Review"
+slug = /in-review-batrice-et-bndict-at-glyndebourne/
+title = "In review: Béatrice et Bénédict at Glyndebourne"
++++
 
 Laurent Pelly's production of *Beatrice et Benedict* rounded out our Shakespeare-themed time at Glyndebourne this summer. Much like the rain that doused the gardens on this Friday afternoon, *B and B* is a refreshing version of a love story, one that rings more true to the average person than an easy, reciprocated declaration of love. Shakespeare pokes fun at how fragile we are with others - how we crave emotional safety before taking a leap of love - and how much easier it is to be defensive than to be honest.
 

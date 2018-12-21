@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Craig Irvin"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-craig-irvin/
+title = "Talking with singers: Craig Irvin"
++++
 
 "If I would have known 10 years ago, the path that would bring me here, and the struggle, I might not have done it," says American baritone [Craig Irvin](/scene/people/craig-irvin/) of his career so far. 
 

@@ -1,6 +1,8 @@
----
-title: "All about the Tafelmusik Baroque Summer Institute"
----
++++
+categories = "Interview"
+slug = /all-about-the-tafelmusik-baroque-summer-institute/
+title = "All about the Tafelmusik Baroque Summer Institute"
++++
 
 ## What did you find attractive about attending the Tafelmusik Summer Baroque Institute?
 

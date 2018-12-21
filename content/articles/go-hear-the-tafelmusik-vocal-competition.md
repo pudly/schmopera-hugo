@@ -1,6 +1,8 @@
----
-title: "Go hear the Tafelmusik Vocal Competition"
----
++++
+categories = "News"
+slug = /go-hear-the-tafelmusik-vocal-competition/
+title = "Go hear the Tafelmusik Vocal Competition"
++++
 
 Next Saturday, you can hear the final round of the inaugural [Tafelmusik Vocal Competition](http://www.tafelmusik.org/education/tafelmusik-vocal-competition), at 1pm in the Trinity-St. Paul's Centre Jeanne Lamon Hall, 427 Bloor St. W. **Admission is free!**
 

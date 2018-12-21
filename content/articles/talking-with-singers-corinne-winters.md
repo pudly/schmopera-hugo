@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Corinne Winters"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-corinne-winters/
+title = "Talking with singers: Corinne Winters"
++++
 
 ## You've had the chance to sing some of opera's most coveted women. What kind of connections have you found with these characters? Do you find the rehearsal process changes with the type of character you sing?
 

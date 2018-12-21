@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Alfred Walker"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-alfred-walker/
+title = "Talking with singers: Alfred Walker"
++++
 
 ## Why do you sing? 
  

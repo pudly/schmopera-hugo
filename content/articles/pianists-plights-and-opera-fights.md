@@ -1,6 +1,8 @@
----
-title: "Pianists&#039; plights and opera fights"
----
++++
+categories = "Humour"
+slug = /pianists-plights-and-opera-fights/
+title = "Pianists&#039; plights and opera fights"
++++
 
 ## Rossini
 

@@ -1,6 +1,8 @@
----
-title: "Aria guides: [insert Christmas carol here]"
----
++++
+categories = "Humour"
+slug = /aria-guides-insert-christmas-carol-here/
+title = "Aria guides: [insert Christmas carol here]"
++++
 
 1. Whether your voice sounds like angels on high, or like cats in heat, all a Christmas carol really needs is joy. Breathe deeply, breathe often, and don't be afraid of those high notes. Keep a festive beverage within arm's reach to fend off any shyness that may creep in, and affect your joyous tone.
 

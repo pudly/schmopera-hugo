@@ -1,6 +1,8 @@
----
-title: "It&#039;s beginning to look a lot like **SUB NEEDED**"
----
++++
+categories = "Op-ed"
+slug = /its-beginning-to-look-a-lot-like-sub-needed/
+title = "It&#039;s beginning to look a lot like **SUB NEEDED**"
++++
 
 It started last week with a bit of a trickle. But then, the landslide began. 
 

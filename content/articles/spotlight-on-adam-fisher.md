@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Adam Fisher"
----
++++
+categories = "Interview"
+slug = /spotlight-on-adam-fisher/
+title = "Spotlight on: Adam Fisher"
++++
 
 ## Why do you sing? 
 

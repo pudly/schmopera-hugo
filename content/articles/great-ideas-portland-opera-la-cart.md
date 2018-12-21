@@ -1,6 +1,8 @@
----
-title: "Great ideas: Portland Opera à la Cart"
----
++++
+categories = "Editorial"
+slug = /great-ideas-portland-opera-la-cart/
+title = "Great ideas: Portland Opera à la Cart"
++++
 
 [Portland Opera's new "opera cart"](http://www.oregonlive.com/art/index.ssf/2016/07/portland_opera_cart.html) has us excited about how audiences can get their fix of live music and theatre.
 

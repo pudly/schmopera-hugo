@@ -1,6 +1,8 @@
----
-title: "Roundup, 2015"
----
++++
+categories = "Editorial"
+slug = /roundup-2015/
+title = "Roundup, 2015"
++++
 
 ## When Don Giovanni wreaked his usual havoc
 

@@ -1,6 +1,8 @@
----
-title: "Opera directors: an unfair disadvantage?"
----
++++
+categories = "Op-ed"
+slug = /opera-directors-an-unfair-disadvantage/
+title = "Opera directors: an unfair disadvantage?"
++++
 
 One of the funny things about the opera rehearsal room is the delegation of tasks between the two "bosses," the conductor and director. It's hard to make a case one way or the other about whether the director or the maestro knows the opera the best. You could argue that the conductor has the advantage of being able to decipher both the text (in theory, anyway) and the music. It’s relatively rare to find a director who reads music well, and although he or she has the dramaturgical chops, it’s sometimes fair to say that the director misses elements of the story that exist in the music itself.
 

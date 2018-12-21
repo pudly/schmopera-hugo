@@ -1,6 +1,8 @@
----
-title: "&quot;After 15 years, I felt like having a party.&quot;"
----
++++
+categories = "Editorial"
+slug = /after-15-years-i-felt-like-having-a-party/
+title = "&quot;After 15 years, I felt like having a party.&quot;"
++++
 
 "It's basically a celebration of friendships," says Larry Beckwith, Artistic Director and Founder of [Toronto Masque Theatre](/scene/companies/toronto-masque-theatre/), of their upcoming concert, entitled [*The Last Chaconne*](http://torontomasquetheatre.com/node/67). 
 

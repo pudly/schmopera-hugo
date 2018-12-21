@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: yoga &amp; mindfulness for singers"
----
++++
+categories = "Op-ed"
+slug = /dont-miss-yoga-mindfulness-for-singers/
+title = "Don&#039;t miss: yoga &amp; mindfulness for singers"
++++
 
 Opera singing is tough. It is physically and mentally demanding, competitive, and requires complete and utter dedication to the craft. Opera singers train like elite athletes to maintain the coordination of their technique so that they can fling themselves around the stage, cry, laugh, and bend-over backwards while producing flawless, healthy, beautiful sound. Even the audience knows that these moments of operatic brilliance take several hours of working on the music, technique and stagecraft. What many people don't see is the enormous amount of mental and physical preparation that has led to these fleeting moments on stage. 
 

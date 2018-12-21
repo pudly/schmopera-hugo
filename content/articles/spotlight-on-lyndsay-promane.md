@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Lyndsay Promane"
----
++++
+categories = "Interview"
+slug = /spotlight-on-lyndsay-promane/
+title = "Spotlight on: Lyndsay Promane"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

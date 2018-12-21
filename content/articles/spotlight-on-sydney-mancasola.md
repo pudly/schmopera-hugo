@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Sydney Mancasola"
----
++++
+categories = "Interview"
+slug = /spotlight-on-sydney-mancasola/
+title = "Spotlight on: Sydney Mancasola"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

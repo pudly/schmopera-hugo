@@ -1,6 +1,8 @@
----
-title: "4 great love duets &amp; why they&#039;re awkward"
----
++++
+categories = "Humour"
+slug = /4-great-love-duets-why-theyre-awkward/
+title = "4 great love duets &amp; why they&#039;re awkward"
++++
 
 ## Nero & Poppea
 

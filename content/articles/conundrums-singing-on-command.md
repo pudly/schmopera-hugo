@@ -1,6 +1,8 @@
----
-title: "Conundrums: singing on command"
----
++++
+categories = "Op-ed"
+slug = /conundrums-singing-on-command/
+title = "Conundrums: singing on command"
++++
 
 There are few words more unnerving to an opera singer than, "You're an opera singer?? Will you sing something??"
 

@@ -1,6 +1,8 @@
----
-title: "Liederwölfe stuns in #OperaPeepShow"
----
++++
+categories = "Review"
+slug = /liederwlfe-stuns-in-operapeepshow/
+title = "Liederwölfe stuns in #OperaPeepShow"
++++
 
 Standing proudly kitty-corner to the impressive and beautiful Four Seasons Centre, at the northwest corner of Queen Street West and University Avenue, is the heritage building Campbell House, a treasure trove of historical artefacts from the early 19th-century.
 

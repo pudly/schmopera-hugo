@@ -1,6 +1,8 @@
----
-title: "Booing at the opera: why?"
----
++++
+categories = "Editorial"
+slug = /booing-at-the-opera-why/
+title = "Booing at the opera: why?"
++++
 
 When it comes to operatic culture shock between North America and Europe, more jarring than scandalous sets or onstage nudity is the practice of booing in the opera house. In North America - and particularly in Canada - the opposite of applause is simply less enthusiastic applause. In Europe, it's booing. We've heard the loud, well-directed jeers and boos hurled from the audience; they're usually directed at the creative team, but on rare occasions, individual singers [fall prey](https://www.theguardian.com/music/musicblog/2006/dec/12/neverletlascalasbooboyss) to the ululating critics.
 

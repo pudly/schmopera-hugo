@@ -1,6 +1,8 @@
----
-title: "Laughing out loud: The Barber of Seville at ENO"
----
++++
+categories = "Review"
+slug = /laughing-out-loud-the-barber-of-seville-at-eno/
+title = "Laughing out loud: The Barber of Seville at ENO"
++++
 
 I'm traditionally not a Rossini fan, or even much of an Italian opera fan - I found myself sitting in the Coliseum, wondering why I was listening to the overture of Rossini's iconic [*Barber of Seville*](https://www.eno.org/whats-on/the-barber-of-seville/). I was prepared to be bored. But from the moment the curtain went up, I was captivated by the intense amount of energy and playfulness portrayed on the stage. There were a few hiccoughs, as there often are on an opening night (a few dropped props and a few dead moments in the comedy, as well as a few moments where the singers were not quite with the orchestra). Despite that, I found myself actually laughing out loud to the on-stage antics: all the leads had excellent comedic timing and the comedy was very cleverly considered. 
 

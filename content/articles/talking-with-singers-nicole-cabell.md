@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Nicole Cabell"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-nicole-cabell/
+title = "Talking with singers: Nicole Cabell"
++++
 
 "You know, if I suppose you let that pressure get to your head, you'd never sing," laughs Nicole Cabell, who's currently sharing the role of Hanna with fellow star soprano [Renée Fleming](/scene/people/renee-fleming/), in Lyric Opera of Chicago's [*The Merry Widow*](https://www.lyricopera.org/concertstickets/calendar/2015-2016/productions/lyricopera/the-merry-widow). 
 

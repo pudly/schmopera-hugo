@@ -1,6 +1,8 @@
----
-title: "The voice teacher series: Betsy Bishop"
----
++++
+categories = "Interview"
+slug = /the-voice-teacher-series-betsy-bishop/
+title = "The voice teacher series: Betsy Bishop"
++++
 
 ## What do you enjoy most about teaching voice?
 

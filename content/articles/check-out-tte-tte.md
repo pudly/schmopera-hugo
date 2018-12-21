@@ -1,6 +1,8 @@
----
-title: "Check out: Tête à Tête"
----
++++
+categories = "Interview"
+slug = /check-out-tte-tte/
+title = "Check out: Tête à Tête"
++++
 
 # What has been the mission behind Tête à Tête over these 20 years?
 

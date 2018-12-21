@@ -1,6 +1,8 @@
----
-title: "The language of snobs?"
----
++++
+categories = "Op-ed"
+slug = /the-language-of-snobs/
+title = "The language of snobs?"
++++
 
 Remember that ridiculous clip from Glenn Beck's radio show about his trip to the Metropolitan Opera? That Neanderthal-like rant about how opera is full of "leftist" snobs that eat brie and say words like "lilt"? I mean, if you want to hear some homophobic, proudly ignorant, reverse-elitist babble, [have a listen](https://www.youtube.com/watch?v=rcmMZIX0pZo&feature=kp). Now, I'm clearly an advocate of keeping opera accessible to the general public. But Glenn Beck's level of stupidity (staged or not) is gross enough that I proclaim him a lost cause; it's a loss over which I'm not losing any sleep.
 

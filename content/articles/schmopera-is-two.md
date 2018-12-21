@@ -1,6 +1,8 @@
----
-title: "Schmopera is two!"
----
++++
+categories = "Op-ed"
+slug = /schmopera-is-two/
+title = "Schmopera is two!"
++++
 
 Dear Readers,
 

@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Saimir Pirgu"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-saimir-pirgu/
+title = "Talking with singers: Saimir Pirgu"
++++
 
 "What can I say? I'm a product of the Three Tenors," says Albanian tenor [Saimir Pirgu](/scene/people/saimir-pirgu/) with a smile. He says his teenage years were filled with the voices of Pavarotti, Domingo, and Carreras, particularly after hearing their infamous [1990 concert](https://www.amazon.co.uk/Original-Three-Tenors-Concert-DVD/dp/B00004R72K) in Rome's Caracella Baths. "Even now I remember the whole thing," he says, hinting at his own ability to sing everything on their line-up, from "Nessun Dorma" to "Granada".
 

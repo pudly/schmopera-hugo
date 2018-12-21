@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: The Cocktail Époque"
----
++++
+categories = "News"
+slug = /dont-miss-the-cocktail-poque/
+title = "Don&#039;t miss: The Cocktail Époque"
++++
 
 Presented by [Off Centre Music Salon](/scene/people/off-centre-music-salon/) and hosted by [Julia Zarankin](http://offcentremusic.com/wp/?staff=julia-zarankin), *The Cocktail Époque* is a concert event featuring all things 1920s, at **Trinity-St. Paul's Centre, February 21st at 3pm**. 
 

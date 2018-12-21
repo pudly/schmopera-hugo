@@ -1,6 +1,8 @@
----
-title: "Shower thoughts: Billy Budd in space"
----
++++
+categories = "Humour"
+slug = /shower-thoughts-billy-budd-in-space/
+title = "Shower thoughts: Billy Budd in space"
++++
 
 Is it just me, or would *Billy Budd* not amazing as sci-fi concept production, set on a spaceship?
 

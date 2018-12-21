@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Story Binge II"
----
++++
+categories = "News"
+slug = /dont-miss-story-binge-ii/
+title = "Don&#039;t miss: Story Binge II"
++++
 
 Are you an opera fan with a short attention span? On **December 15, 7:30pm ET**, head over to Kaufman Music Center's Merkin Concert Hall for [*Story Binge II*](http://experimentsinopera.com/portfolio-item/1876/), a night of five operatic premieres by five New York-based composers. It's the second annual *Binge* , presented by [Experiments in Opera](http://experimentsinopera.com/about/).
 

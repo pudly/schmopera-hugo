@@ -1,6 +1,8 @@
----
-title: "Classic for good reason: The Marriage of Figaro"
----
++++
+categories = "Review"
+slug = /classic-for-good-reason-the-marriage-of-figaro/
+title = "Classic for good reason: The Marriage of Figaro"
++++
 
 Each time I see another production of [*The Marriage of Figaro*](https://www.eno.org/whats-on/the-marriage-of-figaro/) I remember why it is done so often. Not only does it lend itself immensely well to scenic adaptation, the music and story are just so darn good. This one, a revival of Fiona Shaw's 2011 staging for English National Opera, particularly brings out the hilarious elements of the opera. Jeremy Sams' English translation works remarkably well, as usual. 
 

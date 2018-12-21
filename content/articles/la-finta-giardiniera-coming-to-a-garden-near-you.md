@@ -1,6 +1,8 @@
----
-title: "La finta giardiniera, coming to a garden near you"
----
++++
+categories = "Interview"
+slug = /la-finta-giardiniera-coming-to-a-garden-near-you/
+title = "La finta giardiniera, coming to a garden near you"
++++
 
 ## How did the partnership develop between On Site Opera and the Atlanta Opera?
 

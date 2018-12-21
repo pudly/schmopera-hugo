@@ -1,6 +1,8 @@
----
-title: "Using your voice again: a plan of action"
----
++++
+categories = "Op-ed"
+slug = /using-your-voice-again-a-plan-of-action/
+title = "Using your voice again: a plan of action"
++++
 
 1. Hear other people sing. Feel it in your gut. Hear their voices rise from their guts. Be moved to tears. Know that you can do that, too; that you have already done it in your life, once; that your life depends on doing it again.
 

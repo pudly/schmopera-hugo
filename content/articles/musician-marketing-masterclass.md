@@ -1,6 +1,8 @@
----
-title: "Musician Marketing Masterclass"
----
++++
+categories = "Editorial"
+slug = /musician-marketing-masterclass/
+title = "Musician Marketing Masterclass"
++++
 
 If you are a professional musician, you’re stuck on the B team until your marketing package includes:
 

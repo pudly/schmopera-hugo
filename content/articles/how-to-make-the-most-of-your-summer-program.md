@@ -1,6 +1,8 @@
----
-title: "How to make the most of your summer program"
----
++++
+categories = "How-to"
+slug = /how-to-make-the-most-of-your-summer-program/
+title = "How to make the most of your summer program"
++++
 
 ### Come with a plan
 

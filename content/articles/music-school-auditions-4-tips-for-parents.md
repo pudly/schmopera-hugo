@@ -1,6 +1,8 @@
----
-title: "Music School Auditions: 4 Tips for Parents"
----
++++
+categories = "How-to"
+slug = /music-school-auditions-4-tips-for-parents/
+title = "Music School Auditions: 4 Tips for Parents"
++++
 
 <h2>1. Encourage your son/daughter to contact their audition pianist themselves</h2>
 <p>

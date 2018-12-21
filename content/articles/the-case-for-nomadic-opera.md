@@ -1,6 +1,8 @@
----
-title: "The Case for Nomadic Opera"
----
++++
+categories = "Op-ed"
+slug = /the-case-for-nomadic-opera/
+title = "The Case for Nomadic Opera"
++++
 
 <p>
 	The opera scene in Canada can be divided into two broad groups: those with real estate, and those without. Companies like the <a href="http://www.coc.ca/" target="_blank" data-mce-href="http://www.coc.ca/">Canadian Opera Company</a> own the Four Seasons Centre, which they use for their whole season. Other companies, like <a href="http://www.operafive.com/" target="_blank" data-mce-href="http://www.operafive.com/">Opera 5</a>, move between various venues for their shows. There is indeed a blurry line between a company owning its primary performance space, and a company's having a history of regular use in a specific venue, the way <a href="http://www.operademontreal.com/en" target="_blank" data-mce-href="http://www.operademontreal.com/en">l'Opéra de Montréal</a> uses space at Place des Arts. Generally speaking, though, larger opera companies have a fixed performance venue, and smaller, independent companies are more nomadic.

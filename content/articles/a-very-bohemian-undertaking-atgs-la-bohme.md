@@ -1,6 +1,8 @@
----
-title: "&quot;A very Bohemian undertaking&quot;: AtG&#039;s La bohème"
----
++++
+categories = "Editorial"
+slug = /a-very-bohemian-undertaking-atgs-la-bohme/
+title = "&quot;A very Bohemian undertaking&quot;: AtG&#039;s La bohème"
++++
 
 "Would [Puccini] be proud? Probably not," says Joel Ivany with a wry smile, of [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/)'s updated, translated version of [*La bohème*](http://againstthegraintheatre.com/la-boheme/), playing at The Tranzac Club in Toronto **May 19 to June 2**. "I think he would think it was a very Bohemian undertaking," adds baritone [Andrew Love](/scene/people/andrew-love/), singing Marcello.
 

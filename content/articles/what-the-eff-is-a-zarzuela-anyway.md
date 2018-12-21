@@ -1,6 +1,8 @@
----
-title: "What the eff is a Zarzuela, anyway?"
----
++++
+categories = "Op-ed"
+slug = /what-the-eff-is-a-zarzuela-anyway/
+title = "What the eff is a Zarzuela, anyway?"
++++
 
 [Wikipedia](https://en.wikipedia.org/wiki/Zarzuela) states the following: "Zarzuela (Spanish pronunciation: [θarˈθwela]) is a Spanish lyric-dramatic genre that alternates between spoken and sung scenes, the latter incorporating operatic and popular song, as well as dance."
 

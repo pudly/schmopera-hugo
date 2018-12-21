@@ -1,6 +1,8 @@
----
-title: "Early music of Venice: the Academy of Ancient Music bridges the gap"
----
++++
+categories = "Editorial"
+slug = /early-music-of-venice-the-academy-of-ancient-music-bridges-the-gap/
+title = "Early music of Venice: the Academy of Ancient Music bridges the gap"
++++
 
 Early Music always seems like a distilled glance at the function of music in a society - any society, really. Composers were producing a mix of works, some for their patrons, and some for having fun with their medium. The goal was the same as all art had been and would be for centuries after: to entertain, and to provoke thought. It's perhaps odd that 17th-century music seems to encompass the art as a whole, since it's also the genesis of what we consider "Western music," classical or otherwise.
 

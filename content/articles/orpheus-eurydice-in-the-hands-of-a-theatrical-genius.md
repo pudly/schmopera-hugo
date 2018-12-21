@@ -1,6 +1,8 @@
----
-title: "Orpheus &amp; Eurydice in the hands of a theatrical genius"
----
++++
+categories = "Review"
+slug = /orpheus-eurydice-in-the-hands-of-a-theatrical-genius/
+title = "Orpheus &amp; Eurydice in the hands of a theatrical genius"
++++
 
 Too often, opera directors are referred to as "theatrical geniuses", but the success of their productions are almost always a collaboration with great designers and, in the case of operas with ballet passages, great choreographers. With [*Orpheus and Eurydice*](https://www.laopera.org/season/1718-Season/orpheus/), however, which just began its run at LA Opera, "theatrical genius" can justifiably describe the work of one man working alone - John Neumeier. He is not only the director of this production, but also the choreographer, set designer, costume designer and lighting designer. Talk about a single vision. And what a visionary.
 

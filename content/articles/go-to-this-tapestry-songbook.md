@@ -1,6 +1,8 @@
----
-title: "Go to this: Tapestry Songbook"
----
++++
+categories = "Editorial"
+slug = /go-to-this-tapestry-songbook/
+title = "Go to this: Tapestry Songbook"
++++
 
 In the evening of February 1st, I'll be working on the west end. I wish I could be in the Distillery District, however, to catch Tapestry Opera's presentation of their Tapestry Songbook Concert. Featuring Canadian mezzo Krisztina Szabó and pianist Dr. Chris Foley, the concert will be a showcase of operatic scenes and arias from Tapestry's impressive collection of new Canadian works.
 

@@ -1,6 +1,8 @@
----
-title: "The coughing phenomenon"
----
++++
+categories = "Humour"
+slug = /the-coughing-phenomenon/
+title = "The coughing phenomenon"
++++
 
 Anyone who has been to a classical-ish concert of sorts: what's with that weird thing where there's silence between movements/songs, and someone coughs, and then like twenty other people decide they too have to cough, and then there's this weird period of time where what's happening is everyone's waiting for all potential coughers to get their coughing out and settle back down so the concert can continue?
 

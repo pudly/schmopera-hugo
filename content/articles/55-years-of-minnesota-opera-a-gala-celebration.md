@@ -1,6 +1,8 @@
----
-title: "55 years of Minnesota Opera: a gala celebration"
----
++++
+categories = "Review"
+slug = /55-years-of-minnesota-opera-a-gala-celebration/
+title = "55 years of Minnesota Opera: a gala celebration"
++++
 
 To kick off their 55th Anniversary season, [Minnesota Opera](/scene/companies/minnesota-opera/) hosted a [free concert](http://www.mnopera.org/event/55th-anniversary-celebration/) of highlights from their upcoming season at The Ordway Center for the Performing Arts. Artistic director Dale Johnson was the MC for the event. The program started off with a homage to Dominick Argento, who was in the audience celebrating his 90th birthday, with performances of one of his song cycles *Miss Manners on Music* (a satire of the newspaper column title "Miss Manners"). Mr. Argento's presence was even more poignant at this event given that he was the co-founder of the Center City Opera (that later merged with The Opera Company of St. Paul to become Minnesota Opera). The surprising highlight of the afternoon was the world premiere of [Jack Torrance](/brian-mulligan-singing-jack-torrance/)'s aria for Paul Moravec's* The Shining*.
 

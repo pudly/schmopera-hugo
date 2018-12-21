@@ -1,6 +1,8 @@
----
-title: "A generous Winterreise at Wigmore Hall"
----
++++
+categories = "Review"
+slug = /a-generous-winterreise-at-wigmore-hall/
+title = "A generous Winterreise at Wigmore Hall"
++++
 
 *Winterreise* is always an experience. It is a work which always has power, both in the intensity of the storytelling and the beauty of the music. I am always surprised by how sparse and striking the score is - it always seems to belong to a different world from our own.
 

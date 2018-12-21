@@ -1,6 +1,8 @@
----
-title: "Britten&#039;s singers"
----
++++
+categories = "Editorial"
+slug = /brittens-singers/
+title = "Britten&#039;s singers"
++++
 
 Owen Brannigan (Swallow, Collatinus, Herring role) - https://www.youtube.com/watch?v=sTmvjjoGgYw
 

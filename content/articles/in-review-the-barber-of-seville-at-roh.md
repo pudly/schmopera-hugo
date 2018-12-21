@@ -1,6 +1,8 @@
----
-title: "In review: The Barber of Seville at ROH"
----
++++
+categories = "Review"
+slug = /in-review-the-barber-of-seville-at-roh/
+title = "In review: The Barber of Seville at ROH"
++++
 
 The neat thing about *Il barbiere di Siviglia* is that it can become as grand or as intimate as you like. The production by Moshe Leiser and Patrice Caurier, which opened last night at the [Royal Opera House](http://www.roh.org.uk/productions/il-barbiere-di-siviglia-by-moshe-leiser-and-patrice-caurier), has a curious knack for reaping the benefits of both. Christian Fenouillat's set design seems to shrink the stage, and thrust it right out towards the audience; it's an effect delightfully reminiscent of when we went to see the Marionetten Theater in Salzburg. The production finds its roots along that tricky spectrum between real people and exaggerated archetypes.
 

@@ -1,6 +1,8 @@
----
-title: "True stories: the critic who loves opera even more now"
----
++++
+categories = "Op-ed"
+slug = /true-stories-the-critic-who-loves-opera-even-more-now/
+title = "True stories: the critic who loves opera even more now"
++++
 
 Recently, I had a conversation with a fellow opera-goer, curious about the pen and notebook I whip out before the lights dim and the opera begins. A long-time attendee of the Royal Opera House, she told me that she would find it difficult to become removed enough from the action onstage to write coherently about it. The conversation sparked a question: do critics and reviewers have a lesser experience at the opera, precisely because they're charged with writing about it afterwards?
 

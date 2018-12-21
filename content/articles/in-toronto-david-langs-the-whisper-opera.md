@@ -1,6 +1,8 @@
----
-title: "In Toronto: David Lang&#039;s The Whisper Opera"
----
++++
+categories = "Editorial"
+slug = /in-toronto-david-langs-the-whisper-opera/
+title = "In Toronto: David Lang&#039;s The Whisper Opera"
++++
 
 <p class="intro">
 	<a href="http://www.soundstreams.ca/home" target="_blank">Soundstreams</a> welcomes the Canadian premiere of <a href="http://davidlangmusic.com/" target="_blank">David Lang</a>'s <em>The Whisper Opera</em> at <a href="http://theatrecentre.org/" target="_blank">The Theatre Centre</a> from February 26-March 1st. Performing the work are soprano <a href="http://www.screecher.com/" target="_blank">Tony Arnold</a> and New York's <a href="http://iceorg.org/" target="_blank">International Contemporary Ensemble</a>, also giving their Canadian debuts.<br>

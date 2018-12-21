@@ -1,6 +1,8 @@
----
-title: "Opera: don&#039;t judge it by its people"
----
++++
+categories = "Op-ed"
+slug = /opera-dont-judge-it-by-its-people/
+title = "Opera: don&#039;t judge it by its people"
++++
 
 There is this stereotype of "theatre folk." They come to rehearsal enveloped in pashmina, they identify themselves with their choice of uniquely quirky glasses-frames, and they wear the kind of clothing that begs the honest question, "Did you make that tunic yourself?"
 

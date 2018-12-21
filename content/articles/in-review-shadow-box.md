@@ -1,6 +1,8 @@
----
-title: "In review: shadow box"
----
++++
+categories = "Review"
+slug = /in-review-shadow-box/
+title = "In review: shadow box"
++++
 
 Last night I went with conductor, pianist, and man of [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) Topher Mokrzewski to hear [The Bicycle Opera Project](/scene/companies/the-bicycle-opera-project/), at, well, a bike shop. Curbside Cycle on Bloor West was the first Toronto stop along Bike Opera's tour of Nova Scotia and Ontario. Prior to the tour, the team held a residency in Cape Breton, presenting the new opera [*The Bells of Baddeck*](/on-the-road-the-bicycle-opera-project/), by Dean Burry and Lorna MacDonald. 
 

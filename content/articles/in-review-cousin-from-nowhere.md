@@ -1,6 +1,8 @@
----
-title: "In review: Cousin from Nowhere"
----
++++
+categories = "Review"
+slug = /in-review-cousin-from-nowhere/
+title = "In review: Cousin from Nowhere"
++++
 
 I went to [Toronto Operetta Theatre](http://www.torontooperetta.com/)'s _Cousin From Nowhere_, an English translation of Eduard Künneke's [_Das Vetter aus Dingsda_](http://de.wikipedia.org/wiki/Der_Vetter_aus_Dingsda). Whenever I go and hear TOT shows, I always end up hearing some new music that gets stuck in my head, sung by lovely Canadian talent. And _Cousin From Nowhere_, directed by [Guillermo Silva-Marin](http://www.silva-marin.com/) did exactly that. The can't-help-but-smile tunes got to me right away (conducted by [Jurgen Petrenko](http://www.jurgenpetrenko.com/biography.htm)), and the set made me think of old musicals like _My Fair Lady_ and _Carousel_. Kitschy, perhaps; but definitely _charmant_.
 

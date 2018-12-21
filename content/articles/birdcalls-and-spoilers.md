@@ -1,6 +1,8 @@
----
-title: "Birdcalls and Spoilers"
----
++++
+categories = "Humour"
+slug = /birdcalls-and-spoilers/
+title = "Birdcalls and Spoilers"
++++
 
 The above is a photo of a birdcall. It was recently loaned to me by the COC, because I’l be using it backstage during the twelve upcoming performances of _[Madama Butterfly](http://www.coc.ca/PerformancesAndTickets/Subscriptions/1415DigitalBrochure/discover-the-season/Madama-Butterfly.aspx) _(I know, I spoiled the magic of live birds). Backstage things like birdcalls, offstage conducting, ominous door knocking, cueing foghorns, etc., are all neat bonuses of the Music Staff job description. I had been warned, vaguely, when I was learning about the weird responsibilities of the opera coach, that my job wouldn’t be done when the curtain went up on opening night. They were right; the job morphs into duties that continue to surprise me.
 

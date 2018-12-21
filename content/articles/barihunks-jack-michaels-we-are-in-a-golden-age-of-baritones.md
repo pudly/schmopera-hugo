@@ -1,6 +1,8 @@
----
-title: "Barihunks&#039; Jack Michaels: &quot;We are in a golden age of baritones&quot;"
----
++++
+categories = "Interview"
+slug = /barihunks-jack-michaels-we-are-in-a-golden-age-of-baritones/
+title = "Barihunks&#039; Jack Michaels: &quot;We are in a golden age of baritones&quot;"
++++
 
 ## What is it about baritones? Doesn't everyone love the tenor?
 

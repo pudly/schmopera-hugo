@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Elizabeth DeShong"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-elizabeth-deshong/
+title = "Talking with singers: Elizabeth DeShong"
++++
 
 ### Why do you sing?
 

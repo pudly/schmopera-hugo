@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Jennifer Taverner"
----
++++
+categories = "Interview"
+slug = /spotlight-on-jennifer-taverner/
+title = "Spotlight on: Jennifer Taverner"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

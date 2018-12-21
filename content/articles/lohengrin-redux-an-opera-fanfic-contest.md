@@ -1,6 +1,8 @@
----
-title: "Lohengrin Redux: an opera fanfic contest"
----
++++
+categories = "News"
+slug = /lohengrin-redux-an-opera-fanfic-contest/
+title = "Lohengrin Redux: an opera fanfic contest"
++++
 
 Fanfiction writers, listen up. The Wagner Society of Santa Fe his holding a contest called "Lohengrin Redux," where you can submit your own original epilogue to the story of Wagner's *Lohengrin*.
 

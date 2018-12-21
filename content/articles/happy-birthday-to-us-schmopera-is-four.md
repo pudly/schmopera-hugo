@@ -1,6 +1,8 @@
----
-title: "Happy birthday to us: Schmopera is four!"
----
++++
+categories = "Editorial"
+slug = /happy-birthday-to-us-schmopera-is-four/
+title = "Happy birthday to us: Schmopera is four!"
++++
 
 Can you believe Schmopera is celebrating its fourth birthday?
 

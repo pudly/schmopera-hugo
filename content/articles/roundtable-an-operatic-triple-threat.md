@@ -1,6 +1,8 @@
----
-title: "Roundtable: an operatic triple threat"
----
++++
+categories = "Interview"
+slug = /roundtable-an-operatic-triple-threat/
+title = "Roundtable: an operatic triple threat"
++++
 
 *Lyric Opera of Chicago is currently wrapping up its 2017/18 mainstage opera season with an innovative new production of Gounod's *Faust* under the direction of Kevin Newbury and maestro Emmanuel Villaume*. 
 

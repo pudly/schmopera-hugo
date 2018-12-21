@@ -1,6 +1,8 @@
----
-title: "Talking with Singers: Jessica Muirhead"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-jessica-muirhead/
+title = "Talking with Singers: Jessica Muirhead"
++++
 
 <h3>1. What's it like to return to a role like Pamina, which you say originally put you "on the map"?<br>
 </h3>

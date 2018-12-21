@@ -1,6 +1,8 @@
----
-title: "We don&#039;t have to starve: dreaming of an artistic middle class"
----
++++
+categories = "Editorial"
+slug = /we-dont-have-to-starve-dreaming-of-an-artistic-middle-class/
+title = "We don&#039;t have to starve: dreaming of an artistic middle class"
++++
 
 Now that North America is fully entrenched in election cycles, there’s a lot of talk about the ‘middle class’. 
 

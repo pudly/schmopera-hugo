@@ -1,6 +1,8 @@
----
-title: "Young singers in Santa Fe: Adelaide Boedecker"
----
++++
+categories = "Interview"
+slug = /young-singers-in-santa-fe-adelaide-boedecker/
+title = "Young singers in Santa Fe: Adelaide Boedecker"
++++
 
 ## Can you describe a day in the life of an apprentice singer at Santa Fe Opera?
 

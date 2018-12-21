@@ -1,6 +1,8 @@
----
-title: "Layered comedy: Flight"
----
++++
+categories = "Review"
+slug = /layered-comedy-flight/
+title = "Layered comedy: Flight"
++++
 
 "Soon our journeys will start!" We are all captivated by the idea of reinventing ourselves. All we need is a fresh start or a chance to escape our normal routine. Travel is seen as a gateway to adventure and unknown opportunities. [Des Moines Metro Opera](/scene/companies/des-moines-metro-opera/)'s production of [*Flight*](http://desmoinesmetroopera.org/productions/flight/) captured the magic of travel and the complex emotions that go with it.
 

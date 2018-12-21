@@ -1,6 +1,8 @@
----
-title: "Self-Doubt: The Accidental Manual"
----
++++
+categories = "Op-ed"
+slug = /selfdoubt-the-accidental-manual/
+title = "Self-Doubt: The Accidental Manual"
++++
 
 An unsuspecting friend of mine recently posted on Facebook, "Any cures for (unfounded) self-doubt? Do you just tell your brain to knock it off?" How could she have known (how could anyone have known) that this was like giving Donald Trump the final exam question, "Are you good at making deals? Explain aloud, using accentuating hand gestures." 
  

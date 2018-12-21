@@ -1,6 +1,8 @@
----
-title: "How much to tell your students about the voice"
----
++++
+categories = "Op-ed"
+slug = /how-much-to-tell-your-students-about-the-voice/
+title = "How much to tell your students about the voice"
++++
 
 When it comes to teaching the voice, it can be difficult to explain certain concepts. Even though we *technically* have a physical instrument as singers, it ends up being so abstract. We can't see it. We can't really feel it. Instead, we must simply imagine the instrument and feel the sensations that come from using it.
 

@@ -1,6 +1,8 @@
----
-title: "Anonymity, starting Schmopera, &amp; working"
----
++++
+categories = "Op-ed"
+slug = /anonymity-starting-schmopera-working/
+title = "Anonymity, starting Schmopera, &amp; working"
++++
 
 COC generosity
 Keeping Schmopera a secret

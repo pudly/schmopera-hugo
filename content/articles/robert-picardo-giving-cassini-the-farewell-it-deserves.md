@@ -1,6 +1,8 @@
----
-title: "Robert Picardo, giving Cassini the farewell it deserves"
----
++++
+categories = "Humour"
+slug = /robert-picardo-giving-cassini-the-farewell-it-deserves/
+title = "Robert Picardo, giving Cassini the farewell it deserves"
++++
 
 On Friday, September 15, 2017, NASA's [Cassini Spacecraft ended 13 years of exploring](https://saturn.jpl.nasa.gov/news/3121/nasas-cassini-spacecraft-ends-its-historic-exploration-of-saturn/) Saturn and its moons with an "intentional plunge" into the planet. "Cassini may be gone, but its scientific bounty will keep us occupied for many years," says Linda Spilker, Cassini project scientist at NASA's Jet Propulsion Laboratory. "We've only scratched the surface of what we can learn from the mountain of data it has sent back over its lifetime."
 

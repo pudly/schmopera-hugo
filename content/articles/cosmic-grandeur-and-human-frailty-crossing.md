@@ -1,6 +1,8 @@
----
-title: "Cosmic grandeur and human frailty: Crossing"
----
++++
+categories = "Review"
+slug = /cosmic-grandeur-and-human-frailty-crossing/
+title = "Cosmic grandeur and human frailty: Crossing"
++++
 
 Now in its second major iteration, Matthew Aucoin's [*Crossing*](https://www.bam.org/opera/2017/crossing) has a chance to transcend the wunderkind fetishism that dominated its 2015 Boston premier. Written, composed and conducted by Aucoin and directed by Diana Paulus, *Crossing* (New York premier at BAM's Howard Gilman Opera House, Oct. 3-8) tells a fictional version of Walt Whitman's genesis story. Using "Memoranda During the War", a book collecting Whitman's notes during the civil war, as a starting point, the opera takes Whitman's essential experience helping wounded union soldiers and shows how it solidified his poetic identity. Though the real Whitman visited many hospitals and sat with many patients, the opera takes a small-scale approach, placing Whitman (played by baritone [Rod Gilfry](/scene/people/rod-gilfry/)) in an isolated make-shift hospital without medical staff. The cabin-like hospital is populated with nearly a dozen wounded union soldiers waiting out the war. Charismatic and empathetic, Whitman takes charge keeping order and maintaining moral.
 

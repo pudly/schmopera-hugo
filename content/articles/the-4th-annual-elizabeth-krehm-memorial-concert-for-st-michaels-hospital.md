@@ -1,6 +1,8 @@
----
-title: "The 4th annual Elizabeth Krehm Memorial Concert for St. Michael&#039;s Hospital"
----
++++
+categories = "News"
+slug = /the-4th-annual-elizabeth-krehm-memorial-concert-for-st-michaels-hospital/
+title = "The 4th annual Elizabeth Krehm Memorial Concert for St. Michael&#039;s Hospital"
++++
 
 Hello Schmop-Tops, 
 

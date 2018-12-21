@@ -1,6 +1,8 @@
----
-title: "Suor Angelica at Oshawa Opera"
----
++++
+categories = "Interview"
+slug = /suor-angelica-at-oshawa-opera/
+title = "Suor Angelica at Oshawa Opera"
++++
 
 ### 1. Who is Suor Angelica?
 

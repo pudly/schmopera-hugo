@@ -1,6 +1,8 @@
----
-title: "In review: Simone Piazzola at Wigmore Hall"
----
++++
+categories = "Review"
+slug = /in-review-simone-piazzola-at-wigmore-hall/
+title = "In review: Simone Piazzola at Wigmore Hall"
++++
 
 The 2016/17 season of [Rosenblatt Recitals](/ian-rosenblatt-its-all-about-the-voice/) continued last night with baritone [Simone Piazzola](/scene/people/simone-piazzola/) and pianist [Giuseppe Vaccaro](/scene/people/giuseppe-vaccaro/) at Wigmore Hall. 
 

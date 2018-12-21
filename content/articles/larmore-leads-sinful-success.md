@@ -1,6 +1,8 @@
----
-title: "Larmore leads &quot;Sinful&quot; success"
----
++++
+categories = "Review"
+slug = /larmore-leads-sinful-success/
+title = "Larmore leads &quot;Sinful&quot; success"
++++
 
 Since taking over as General and Artistic Director in 2013, [Tomer Zvulun](/tomer-zvulun-the-atlanta-operas-intriguing-201718/) has been praised for revitalizing the image of [The Atlanta Opera](/scene/companies/the-atlanta-opera/) by bringing in new talent, extending the span of their season, helping start the Atlanta Opera Studio Program (now in its second year), and Atlanta Opera's Discoveries Series, a series dedicated to providing audiences with new or lesser known works presented in different venues than one would normally expect when going to see an opera. Past Discoveries performances have included Jake Heggie's *Three Decembers* and Mozart's [*The Secret Garden*](/la-finta-giardiniera-coming-to-a-garden-near-you/), which was presented last spring in conjunction with [On Site Opera](/scene/companies/on-site-opera/). This year has been no exception in expanding Zvulun's vision of The Atlanta Opera's success, presenting six full productions (two of which are presented as a part of the Discovery Series) and a studio tour meant to feature local Atlanta talent as well as the young artists in their Studio Program.
 

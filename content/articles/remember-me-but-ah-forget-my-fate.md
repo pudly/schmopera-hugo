@@ -1,6 +1,8 @@
----
-title: "&quot;Remember me, but ah, forget my fate&quot;"
----
++++
+categories = "Editorial"
+slug = /remember-me-but-ah-forget-my-fate/
+title = "&quot;Remember me, but ah, forget my fate&quot;"
++++
 
 <p>
 	I've been in a weird place for the past couple days and today is no exception.

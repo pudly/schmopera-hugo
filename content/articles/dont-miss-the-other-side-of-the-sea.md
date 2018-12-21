@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: The Other Side of the Sea"
----
++++
+categories = "News"
+slug = /dont-miss-the-other-side-of-the-sea/
+title = "Don&#039;t miss: The Other Side of the Sea"
++++
 
 Following the critical acclaim of her 2016 one-woman opera, [*Scenes From the End*](/in-review-scenes-from-the-end/) [Héloïse Werner](/talking-with-singers-heloise-werner/) is set to present her new work for voice and cello, *The Other Side of the Sea*.
 

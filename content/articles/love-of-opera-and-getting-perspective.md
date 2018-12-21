@@ -1,6 +1,8 @@
----
-title: "Love of opera, and getting perspective"
----
++++
+categories = "Op-ed"
+slug = /love-of-opera-and-getting-perspective/
+title = "Love of opera, and getting perspective"
++++
 
 I got into writing about opera because I wanted to tell people about this very cool industry of mine. The art is enormous and stunning, and the people who created opera are extraordinary folks. I knew that most people my age didn't have much exposure to opera, and it seemed like an obvious way to bridge the gap, to show just how *fascinating* it really is.
 

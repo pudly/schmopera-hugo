@@ -1,6 +1,8 @@
----
-title: "The psychology of an audition"
----
++++
+categories = "How-to"
+slug = /the-psychology-of-an-audition/
+title = "The psychology of an audition"
++++
 
 ## If you start with something 20th-century or newer, especially in English...
 

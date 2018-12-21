@@ -1,6 +1,8 @@
----
-title: "In review: Paul Appleby at Wigmore Hall"
----
++++
+categories = "Review"
+slug = /in-review-paul-appleby-at-wigmore-hall/
+title = "In review: Paul Appleby at Wigmore Hall"
++++
 
 It's noteworthy when a singer, in the midst of a busy schedule on the opera stage, is equally dedicated to his work in recital. Tenor [Paul Appleby](/scene/people/paul-appleby/) is a thoughtful artist, and he seems to relish the chance not only to tell many small stories in one sitting, but to collect them into a larger story arc of his own creation. While we wouldn't have been opposed to hearing arias from some of Appleby's signature roles like Ferrando (*Così fan tutte*) and Tom Rakewell (*The Rake's Progress*), it's impressive that he stayed within the confines (broad as they are) of song. 
 

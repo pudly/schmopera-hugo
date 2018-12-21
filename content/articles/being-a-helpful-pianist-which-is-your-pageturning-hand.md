@@ -1,6 +1,8 @@
----
-title: "Being a helpful pianist: which is your page-turning hand?"
----
++++
+categories = "How-to"
+slug = /being-a-helpful-pianist-which-is-your-pageturning-hand/
+title = "Being a helpful pianist: which is your page-turning hand?"
++++
 
 Even though pianists can boast some level of extraordinary abilities when it comes to being ambidextrous, we too are subject to our natural tendencies to favour our right or left hand.
 

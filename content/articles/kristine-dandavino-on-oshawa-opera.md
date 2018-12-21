@@ -1,6 +1,8 @@
----
-title: "Kristine Dandavino on Oshawa Opera"
----
++++
+categories = "Interview"
+slug = /kristine-dandavino-on-oshawa-opera/
+title = "Kristine Dandavino on Oshawa Opera"
++++
 
 <h3>1. Why did you start Oshawa Opera?<br>
 </h3>

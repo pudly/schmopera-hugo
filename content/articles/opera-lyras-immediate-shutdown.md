@@ -1,6 +1,8 @@
----
-title: "Opera Lyra&#039;s &quot;immediate shutdown&quot;"
----
++++
+categories = "News"
+slug = /opera-lyras-immediate-shutdown/
+title = "Opera Lyra&#039;s &quot;immediate shutdown&quot;"
++++
 
 One of Canada's leading opera companies is shuttering its doors for the rest of the season, as it ceases operations.
 

@@ -1,6 +1,8 @@
----
-title: "Clairvoyant art: Enrico at Oper Frankfurt"
----
++++
+categories = "Review"
+slug = /clairvoyant-art-enrico-at-oper-frankfurt/
+title = "Clairvoyant art: Enrico at Oper Frankfurt"
++++
 
 A man suffering from cognitive damage exerts a tyrannical rule over the people around him. He believes himself to be a powerful leader. His entourage plays into this delusion, at first as a joke, then out of fear. The man is volatile and unpredictable. He strips down to his skivvies and sexually assaults a young woman. His traumatized and obedient relatives and staff tiptoe around him as if on eggshells. They lay careful plans when he is out of earshot to coax him in their favour. A doctor is brought in to evaluate his cognitive function. Despite his erratic speech and behaviour, the man declares that he is not crazy, and is in fact well aware of the lie that is being kept up for him. What started as a game has become a years-long living nightmare, and everyone is just trying to avoid a catastrophe.
 

@@ -1,6 +1,8 @@
----
-title: "Brian Mulligan: singing Jack Torrance"
----
++++
+categories = "Interview"
+slug = /brian-mulligan-singing-jack-torrance/
+title = "Brian Mulligan: singing Jack Torrance"
++++
 
 ## You’ve played villains before in your career	- how does Jack Torrance compare to roles like Enrico or Sweeney Todd?
 

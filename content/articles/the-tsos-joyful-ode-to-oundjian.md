@@ -1,6 +1,8 @@
----
-title: "The TSO&#039;s joyful ode to Oundjian"
----
++++
+categories = "Review"
+slug = /the-tsos-joyful-ode-to-oundjian/
+title = "The TSO&#039;s joyful ode to Oundjian"
++++
 
 Last night at Roy Thomson Hall, there seemed to converge a truly Torontonian night of celebration. The temperature hovered around 30 degrees, and King Street West was alive with the signs of an urban Canadian summer: excitable tourists with theatre tickets, locals dining on patios, commuters pouring in and out of streetcars, and people of all ages taking advantage of the city-gifted Adirondack chairs for an oh-so-Canadian photo op.
 

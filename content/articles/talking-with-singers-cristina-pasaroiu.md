@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Cristina Pasaroiu"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-cristina-pasaroiu/
+title = "Talking with singers: Cristina Pasaroiu"
++++
 
 ## What do you love about singing bel canto opera? What does the style demand of the voice?
 

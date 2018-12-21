@@ -1,6 +1,8 @@
----
-title: "Go see this: Tap:Ex Metallurgy"
----
++++
+categories = "News"
+slug = /go-see-this-tapex-metallurgy/
+title = "Go see this: Tap:Ex Metallurgy"
++++
 
 Tapestry opera continues its kick-ass 2015/16 season in November with the latest instalment of *Tap:Ex Metallurgy*. *Tap:Ex* is a performance series started by Artistic Director [Michael Mori](/scene/people/michael-mori/), that is "committed to radically redefining the future of opera." *Metallurgy* blends opera with punk rock, as Canadian punk band [Fucked Up](http://fuckedup.cc/home/) shares the stage with tenor [David Pomeroy](/scene/people/david-pomeroy/) and mezzo-soprano (and chameleon) [Krisztina Szabó](/scene/people/krisztina-szabo/). You'll also catch composer Ivan Barbotin, librettist David James Brock, plus pianist and Tapestry's Resident Conductor [Jordan de Souza](/scene/people/jordan-de-souza/).
 

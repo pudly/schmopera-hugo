@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Emily Peragine"
----
++++
+categories = "Interview"
+slug = /spotlight-on-emily-peragine/
+title = "Spotlight on: Emily Peragine"
++++
 
 I met Montana-born soprano [Emily Peragine](/scene/people/emily-peragine/) during her undergraduate degree at [Oberlin College Conservatory](/scene/companies/oberlin-college-and-conservatory/), and she struck me immediately as a rare breed. Emily is a real lover of singing, and a refreshingly thoughtful artist. You can see more of what I mean by reading her beautiful [blog](https://montanasoprano.wordpress.com/). For a while now, I've been looking forward to the chance to introduce Emily to my readers, and she doesn't disappoint with this interview. She chats about *Der Rosenkavalier* and exposing career myths.
 

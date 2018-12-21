@@ -1,6 +1,8 @@
----
-title: "Spotlight on: Keith Lam"
----
++++
+categories = "Interview"
+slug = /spotlight-on-keith-lam/
+title = "Spotlight on: Keith Lam"
++++
 
 ### 1. Why do you sing, and why are you pursuing it professionally?
 

@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Lieder, Leaders, and Lovers"
----
++++
+categories = "News"
+slug = /dont-miss-lieder-leaders-and-lovers/
+title = "Don&#039;t miss: Lieder, Leaders, and Lovers"
++++
 
 "Why is it that you sing?"
 

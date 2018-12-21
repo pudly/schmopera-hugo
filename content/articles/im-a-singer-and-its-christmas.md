@@ -1,6 +1,8 @@
----
-title: "I&#039;m a singer and it&#039;s Christmas"
----
++++
+categories = "Op-ed"
+slug = /im-a-singer-and-its-christmas/
+title = "I&#039;m a singer and it&#039;s Christmas"
++++
 
 I'm a singer and it's Christmas. I’ve been practicing Christmas music since September, yet somehow when my favourite Christmas carol comes on the radio I'm still filled with love. I may have banned learning *Silent Night* in my voice studio, because every. single. kid. asks to sing it, but when I'm playing the piano for fun its still the first one I go to.
 

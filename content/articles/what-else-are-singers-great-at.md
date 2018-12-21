@@ -1,6 +1,8 @@
----
-title: "What else are singers great at?"
----
++++
+categories = "Editorial"
+slug = /what-else-are-singers-great-at/
+title = "What else are singers great at?"
++++
 
 ## Meeting new people
 

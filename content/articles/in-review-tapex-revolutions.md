@@ -1,6 +1,8 @@
----
-title: "In Review: Tap:Ex Revolutions"
----
++++
+categories = "Review"
+slug = /in-review-tapex-revolutions/
+title = "In Review: Tap:Ex Revolutions"
++++
 
 I saw something beautiful on Friday night, and I'm not quite sure I can even tell you what it was. I _can_ tell you that it was the inaugural presentation of _Tapestry Explorations: Revolutions_, and that it left an impression on me.  The evening seemed to evolve on its own accord, beginning with understated and subtle entrances by performers [Neema Bickersteth](https://tapestryopera.com/node/69), [Andrew Love](/talking-to-singers-andrew-love/), [Andrea Ludwig](https://tapestryopera.com/node/65) and [Adrian Kramer](https://tapestryopera.com/node/66). They began spread out across the space, behind and among the audience. As they moved throughout the space and embodied different "characters" with each piece, they pulled your attention across the room. These four were simply pros. Choreographer [Marie-Josée Chartier](http://www.chartierdanse.com/) provided a beautiful movement aesthetic, always organic to the body but never predictable. The effect of Chartier's movements, exercised by these expert performers, had my rapt attention. At times I felt torn, unable to watch two places at once.  They took the audience through a fluid, riveting experience and I couldn't take my eyes off them.
 

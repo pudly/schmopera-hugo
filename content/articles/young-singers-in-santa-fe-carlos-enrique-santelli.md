@@ -1,6 +1,8 @@
----
-title: "Young singers in Santa Fe: Carlos Enrique Santelli"
----
++++
+categories = "Interview"
+slug = /young-singers-in-santa-fe-carlos-enrique-santelli/
+title = "Young singers in Santa Fe: Carlos Enrique Santelli"
++++
 
 ## Can you describe a day in the life of an apprentice singer at Santa Fe Opera?
 

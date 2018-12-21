@@ -1,6 +1,8 @@
----
-title: "Don&#039;t miss: Comfort"
----
++++
+categories = "Interview"
+slug = /dont-miss-comfort/
+title = "Don&#039;t miss: Comfort"
++++
 
 ## How common is the subject of "comfort women" in contemporary art and theatre? 
 

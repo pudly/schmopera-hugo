@@ -1,6 +1,8 @@
----
-title: "Album review: O Gladsome Light"
----
++++
+categories = "Review"
+slug = /album-review-o-gladsome-light/
+title = "Album review: O Gladsome Light"
++++
 
 The latest in tenor [Lawrence Wiliford](/scene/people/lawrence-wiliford/)'s extensive discography is [*O Gladsome Light*](http://stonerecords.co.uk/album/o-gladsome-light/), released on [Stone Records](http://stonerecords.co.uk/album/o-gladsome-light/); the album is a collection of sacred songs by Gustav Holst, his friend and colleague Ralph Vaughan Williams, and his composition pupil Edmund Rubbra.
 

@@ -1,6 +1,8 @@
----
-title: "Get curious at FAWN 2016/17"
----
++++
+categories = "News"
+slug = /get-curious-at-fawn-201617/
+title = "Get curious at FAWN 2016/17"
++++
 
 On **December 1st, 7-10pm**, head over to [Electric Perfume](http://electricperfume.com/) for [*FAWN 2016/17* a drop-in-style event](https://www.facebook.com/events/1269251889825082/) hosted by [FAWN Chamber Creative](/scene/companies/fawn-chamber-creative/). 
 

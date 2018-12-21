@@ -1,6 +1,8 @@
----
-title: "Chatting with Canada&#039;s Opera Biggies"
----
++++
+categories = "Editorial"
+slug = /chatting-with-canadas-opera-biggies/
+title = "Chatting with Canada&#039;s Opera Biggies"
++++
 
 <p>
 	Exciting news, everyone! Late next week, I'll be sitting down to chat with a panel of folks who certainly know their opera.

@@ -1,6 +1,8 @@
----
-title: "Palpable chamber music: Haymarket Opera&#039;s Lenten Oratorio"
----
++++
+categories = "Review"
+slug = /palpable-chamber-music-haymarket-operas-lenten-oratorio/
+title = "Palpable chamber music: Haymarket Opera&#039;s Lenten Oratorio"
++++
 
 As their annual Lenten Oratorio offering, the Haymarket Opera Company presented a concert performance of Luigi Rossi's *Oratorio per la settimana santa* (*Oratorio for Holy Week*) at the Chicago Temple on March 8th. The oratorio dates approximately from the 1640s and is notable as one of the first musical settings of the Passion of Christ. The concert concluded with another Rossi work, *Un Peccator Pentito* (*A Repentant Sinner*) for the full ensemble. 
 

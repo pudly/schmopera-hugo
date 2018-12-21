@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Scott Hendricks"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-scott-hendricks/
+title = "Talking with singers: Scott Hendricks"
++++
 
 ## Why do you sing professionally?
 

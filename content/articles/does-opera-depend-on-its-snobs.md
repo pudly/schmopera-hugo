@@ -1,6 +1,8 @@
----
-title: "Does opera depend on its snobs?"
----
++++
+categories = "Op-ed"
+slug = /does-opera-depend-on-its-snobs/
+title = "Does opera depend on its snobs?"
++++
 
 On that old topic of opera's social relevance, I came across an article by Robert Thicknesse of _The Guardian_, entitled ["How I fell out of love with opera"](http://www.theguardian.com/music/2010/may/27/falling-out-of-love-opera). The long-time arts critic argues that the social snobbery that clouds opera will never be shed, since those social snobs are the ones funding it all to begin with. "In order to survive, opera has to prostitute itself to the rich and to people who don't like it, to betray its own essence again and again, to the point where it doesn't even realise it's doing so. The influential part of its audience wants it dead, repetitive, predictable, pretty, safely insulated in some foreign language."
 

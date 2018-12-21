@@ -1,6 +1,8 @@
----
-title: "Dion Mazerolle: the quick study"
----
++++
+categories = "Interview"
+slug = /dion-mazerolle-the-quick-study/
+title = "Dion Mazerolle: the quick study"
++++
 
 ## What did you take into consideration before taking this "quick study" gig?
 

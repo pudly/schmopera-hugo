@@ -1,6 +1,8 @@
----
-title: "Valerian Ruminski, or &quot;Those who forget the past are doomed to repeat it&quot;"
----
++++
+categories = "Op-ed"
+slug = /valerian-ruminski-or-those-who-forget-the-past-are-doomed-to-repeat-it/
+title = "Valerian Ruminski, or &quot;Those who forget the past are doomed to repeat it&quot;"
++++
 
 So as it turns out, [Tamar Iveri](/desdemona-down/) isn't the only one with controversial opinions on alternative lifestyles.
 Only about 2 months ago the Georgian soprano was released from contracts in Australia due to an ultra-homophobic and hate-mongering post on her Facebook. There's been a fair bit of media around it and her reactions and you can catch up on the drama [here](/desdemona-down/).

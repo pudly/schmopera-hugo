@@ -1,6 +1,8 @@
----
-title: "Nevill Holt Opera inaugurates new theatre with Mozart &amp; Adès"
----
++++
+categories = "Interview"
+slug = /nevill-holt-opera-inaugurates-new-theatre-with-mozart-ads/
+title = "Nevill Holt Opera inaugurates new theatre with Mozart &amp; Adès"
++++
 
 ### What has been the vision for Nevill Holt Opera's new performance space?
 

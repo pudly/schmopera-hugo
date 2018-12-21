@@ -1,6 +1,8 @@
----
-title: "Music, religion, &amp; irony"
----
++++
+categories = "Editorial"
+slug = /music-religion-irony/
+title = "Music, religion, &amp; irony"
++++
 
 Hi everyone, Jenna here.
 

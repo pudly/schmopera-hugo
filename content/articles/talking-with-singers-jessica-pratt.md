@@ -1,6 +1,8 @@
----
-title: "Talking with singers: Jessica Pratt"
----
++++
+categories = "Interview"
+slug = /talking-with-singers-jessica-pratt/
+title = "Talking with singers: Jessica Pratt"
++++
 
 ## What do you anticipate most about your debut in *The Magic Flute* at The Metropolitan Opera?
 

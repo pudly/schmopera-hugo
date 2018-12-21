@@ -1,6 +1,8 @@
----
-title: "Opera da Camera: Xerxes is the new Elvis"
----
++++
+categories = "Interview"
+slug = /opera-da-camera-xerxes-is-the-new-elvis/
+title = "Opera da Camera: Xerxes is the new Elvis"
++++
 
 <h2>1. How did the connection between the stories of <em>Xerxes</em>and a drag king's love triangle come about?</h2>
 <p>

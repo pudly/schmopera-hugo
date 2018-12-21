@@ -1,6 +1,8 @@
----
-title: "The TSO pays homage to Maureen Forrester"
----
++++
+categories = "Review"
+slug = /the-tso-pays-homage-to-maureen-forrester/
+title = "The TSO pays homage to Maureen Forrester"
++++
 
 G'day Schmop-Tops!
 

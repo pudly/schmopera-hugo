@@ -1,6 +1,8 @@
----
-title: "Check out: Urbanvessel"
----
++++
+categories = "Interview"
+slug = /check-out-urbanvessel/
+title = "Check out: Urbanvessel"
++++
 
 ### 1. What’s the mission behind Urbanvessel?
 

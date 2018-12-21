@@ -1,6 +1,8 @@
----
-title: "A dreamy psychological thriller: Vanessa at Oper Frankfurt"
----
++++
+categories = "Review"
+slug = /a-dreamy-psychological-thriller-vanessa-at-oper-frankfurt/
+title = "A dreamy psychological thriller: Vanessa at Oper Frankfurt"
++++
 
 Three generations of almost identical women await the [Oper Frankfurt](/scene/companies/opera-frankfurt/) audience as they find their seats for Samuel Barber's [*Vanessa*](http://www.oper-frankfurt.de/en/season-calendar/vanessa/?id_datum=892). Frozen in time, they are behind a translucent scrim, seated separately and each wrapped up in their own world. Even after conductor Rasmus Baumann reaches the podium and after the clapping dies down, they remain frozen, this time joined by the audience, for another full minute. Further emphasizing Vanessa's 20-year wait, a very slow and gradual fade of lights leads into the beginning of the opera.
 

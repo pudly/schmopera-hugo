@@ -1,6 +1,8 @@
----
-title: "What are your irrational stage fears?"
----
++++
+categories = "Humour"
+slug = /what-are-your-irrational-stage-fears/
+title = "What are your irrational stage fears?"
++++
 
 Mine is falling onstage.
 

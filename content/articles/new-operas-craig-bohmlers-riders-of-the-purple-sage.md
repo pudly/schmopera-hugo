@@ -1,6 +1,8 @@
----
-title: "New operas: Craig Bohmler&#039;s Riders of the Purple Sage"
----
++++
+categories = "Interview"
+slug = /new-operas-craig-bohmlers-riders-of-the-purple-sage/
+title = "New operas: Craig Bohmler&#039;s Riders of the Purple Sage"
++++
 
 ### Why does Zane Grey's novel adapt well to an opera?
 

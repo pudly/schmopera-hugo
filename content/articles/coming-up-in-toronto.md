@@ -1,6 +1,7 @@
----
-title: "Coming up in Toronto"
----
++++
+slug = /coming-up-in-toronto/
+title = "Coming up in Toronto"
++++
 
 Alright, it's Monday, and we're going to jump right in with a personal list of things to catch in Toronto as the weather warms up over the next little while.
 

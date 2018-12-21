@@ -1,6 +1,8 @@
----
-title: "In review: Wigmore Hall Song Competition semi-finals"
----
++++
+categories = "Review"
+slug = /in-review-wigmore-hall-song-competition-semifinals/
+title = "In review: Wigmore Hall Song Competition semi-finals"
++++
 
 This week in London is the [Wigmore Hall and Kohn Foundation International Song Competition](https://wigmore-hall.org.uk/song-competition/2017-songcompetition). Since this past Sunday, young singer and pianist duos have been performing at London's most famous recital venue while competing for hefty cash prizes.
 

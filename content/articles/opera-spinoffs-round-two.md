@@ -1,6 +1,8 @@
----
-title: "Opera spin-offs, round two"
----
++++
+categories = "Humour"
+slug = /opera-spinoffs-round-two/
+title = "Opera spin-offs, round two"
++++
 
 ### After *Carmen*: Escamillo
 

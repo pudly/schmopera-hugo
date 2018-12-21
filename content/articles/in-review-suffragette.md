@@ -1,6 +1,8 @@
----
-title: "In review: Suffragette"
----
++++
+categories = "Review"
+slug = /in-review-suffragette/
+title = "In review: Suffragette"
++++
 
 Dame Ethel Smyth: composer, activist, suffragette. 
 

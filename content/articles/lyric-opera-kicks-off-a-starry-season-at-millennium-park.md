@@ -1,6 +1,8 @@
----
-title: "Lyric Opera kicks off a starry season at Millennium Park"
----
++++
+categories = "Review"
+slug = /lyric-opera-kicks-off-a-starry-season-at-millennium-park/
+title = "Lyric Opera kicks off a starry season at Millennium Park"
++++
 
 While the [Lyric Opera of Chicago](/scene/companies/lyric-opera-of-chicago/)'s official opening night is still a month away, Chicagoans got a substantial teaser this month at the annual Stars of the Lyric at Millennium Park. Two Chicago-based Schmopera contributors were on hand for the event - below they share their favorite moments from the evening and what they’re looking forward to most this season!
 
