@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /6-creative-affordable-ways-to-learn-a-language-/
+slug = "6-creative-affordable-ways-to-learn-a-language-"
 title = "6 creative &amp; affordable ways to learn a language "
 +++
 

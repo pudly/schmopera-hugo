@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dont-miss-rocking-horse-winner/
+slug = "dont-miss-rocking-horse-winner"
 title = "Don&#039;t miss: Rocking Horse Winner"
 +++
 

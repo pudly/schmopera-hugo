@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /putting-a-big-gift-to-great-use-tapestry-operas-disaster-relief-benefit-concert/
+slug = "putting-a-big-gift-to-great-use-tapestry-operas-disaster-relief-benefit-concert"
 title = "Putting a big gift to great use: Tapestry Opera&#039;s Disaster Relief Benefit concert"
 +++
 

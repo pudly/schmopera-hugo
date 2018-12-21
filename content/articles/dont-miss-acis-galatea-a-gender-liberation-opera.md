@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dont-miss-acis-galatea-a-gender-liberation-opera/
+slug = "dont-miss-acis-galatea-a-gender-liberation-opera"
 title = "Don&#039;t miss Acis &amp; Galatea: A Gender Liberation Opera"
 +++
 

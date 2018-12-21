@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /betany-coffland-creating-operatic-bouquets/
+slug = "betany-coffland-creating-operatic-bouquets"
 title = "Betany Coffland: creating operatic bouquets"
 +++
 

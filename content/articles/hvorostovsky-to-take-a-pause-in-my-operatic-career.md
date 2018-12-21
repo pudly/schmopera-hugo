@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /hvorostovsky-to-take-a-pause-in-my-operatic-career/
+slug = "hvorostovsky-to-take-a-pause-in-my-operatic-career"
 title = "Hvorostovsky to take a &quot;pause in my operatic career&quot;."
 +++
 

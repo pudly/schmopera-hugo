@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /an-open-letter-to-a-rude-bunch-of-operagoers/
+slug = "an-open-letter-to-a-rude-bunch-of-operagoers"
 title = "An open letter to a rude bunch of operagoers"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /all-about-brott-opera/
+slug = "all-about-brott-opera"
 title = "All about Brott Opera"
 +++
 

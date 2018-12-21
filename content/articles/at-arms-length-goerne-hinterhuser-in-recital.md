@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /at-arms-length-goerne-hinterhuser-in-recital/
+slug = "at-arms-length-goerne-hinterhuser-in-recital"
 title = "At arm&#039;s length: Goerne &amp; Hinterhäuser in recital"
 +++
 

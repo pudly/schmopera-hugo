@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /can-nycs-opera-scene-take-good-advice/
+slug = "can-nycs-opera-scene-take-good-advice"
 title = "Can NYC&#039;s opera scene take good advice?"
 +++
 

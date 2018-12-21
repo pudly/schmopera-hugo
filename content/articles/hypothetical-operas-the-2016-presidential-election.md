@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /hypothetical-operas-the-2016-presidential-election/
+slug = "hypothetical-operas-the-2016-presidential-election"
 title = "Hypothetical operas: The 2016 Presidential Election"
 +++
 

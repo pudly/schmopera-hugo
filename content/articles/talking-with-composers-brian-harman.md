@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-composers-brian-harman/
+slug = "talking-with-composers-brian-harman"
 title = "Talking with composers: Brian Harman"
 +++
 

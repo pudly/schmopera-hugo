@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /the-2018-cmim-begins/
+slug = "the-2018-cmim-begins"
 title = "The 2018 CMIM begins!"
 +++
 

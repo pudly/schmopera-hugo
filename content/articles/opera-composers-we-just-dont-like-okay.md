@@ -1,5 +1,5 @@
 +++
-slug = /opera-composers-we-just-dont-like-okay/
+slug = "opera-composers-we-just-dont-like-okay"
 title = "Opera composers we just don&#039;t like, okay?"
 +++
 

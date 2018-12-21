@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /why-directing-opera-is-like-directing-music-videos-sort-of/
+slug = "why-directing-opera-is-like-directing-music-videos-sort-of"
 title = "Why directing opera is like directing music videos (sort of)"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /opera-faster-the-cocs-cheeky-new-app/
+slug = "opera-faster-the-cocs-cheeky-new-app"
 title = "Opera, faster: the COC&#039;s cheeky new app"
 +++
 

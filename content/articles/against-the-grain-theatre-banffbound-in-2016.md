@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /against-the-grain-theatre-banffbound-in-2016/
+slug = "against-the-grain-theatre-banffbound-in-2016"
 title = "Against the Grain Theatre: Banff-bound in 2016"
 +++
 

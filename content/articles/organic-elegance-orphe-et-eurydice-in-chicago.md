@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /organic-elegance-orphe-et-eurydice-in-chicago/
+slug = "organic-elegance-orphe-et-eurydice-in-chicago"
 title = "Organic elegance: Orphée et Eurydice in Chicago"
 +++
 

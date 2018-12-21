@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /is-it-time-for-the-met-to-move/
+slug = "is-it-time-for-the-met-to-move"
 title = "Is it time for the Met to move?"
 +++
 

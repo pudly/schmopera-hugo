@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /gordon-gerrard-music-doesnt-really-work-without-breath/
+slug = "gordon-gerrard-music-doesnt-really-work-without-breath"
 title = "Gordon Gerrard: &quot;Music doesn&#039;t really work without breath.&quot;"
 +++
 

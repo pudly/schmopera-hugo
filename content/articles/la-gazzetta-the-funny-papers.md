@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /la-gazzetta-the-funny-papers/
+slug = "la-gazzetta-the-funny-papers"
 title = "La Gazzetta: The Funny Papers"
 +++
 

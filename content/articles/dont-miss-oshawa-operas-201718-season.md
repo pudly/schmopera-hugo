@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-oshawa-operas-201718-season/
+slug = "dont-miss-oshawa-operas-201718-season"
 title = "Don&#039;t miss: Oshawa Opera&#039;s 2017/18 season"
 +++
 

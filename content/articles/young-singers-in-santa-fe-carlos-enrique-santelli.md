@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /young-singers-in-santa-fe-carlos-enrique-santelli/
+slug = "young-singers-in-santa-fe-carlos-enrique-santelli"
 title = "Young singers in Santa Fe: Carlos Enrique Santelli"
 +++
 

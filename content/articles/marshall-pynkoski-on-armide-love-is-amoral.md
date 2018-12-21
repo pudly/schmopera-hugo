@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /marshall-pynkoski-on-armide-love-is-amoral/
+slug = "marshall-pynkoski-on-armide-love-is-amoral"
 title = "Marshall Pynkoski on Armide: &quot;Love is amoral.&quot;"
 +++
 

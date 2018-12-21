@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /from-don-juan-to-unclejohn/
+slug = "from-don-juan-to-unclejohn"
 title = "From Don Juan to #UncleJohn"
 +++
 

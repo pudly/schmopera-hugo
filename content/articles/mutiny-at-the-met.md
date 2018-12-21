@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /mutiny-at-the-met/
+slug = "mutiny-at-the-met"
 title = "Mutiny at the Met?"
 +++
 

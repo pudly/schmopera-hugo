@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /music-as-theatre-a-chamber-concert-in-banff/
+slug = "music-as-theatre-a-chamber-concert-in-banff"
 title = "Music as Theatre: a chamber concert in Banff"
 +++
 

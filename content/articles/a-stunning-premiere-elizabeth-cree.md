@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-stunning-premiere-elizabeth-cree/
+slug = "a-stunning-premiere-elizabeth-cree"
 title = "A stunning premiere: Elizabeth Cree"
 +++
 

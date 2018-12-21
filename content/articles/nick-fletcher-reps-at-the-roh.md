@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /nick-fletcher-reps-at-the-roh/
+slug = "nick-fletcher-reps-at-the-roh"
 title = "Nick Fletcher: reps at the ROH"
 +++
 

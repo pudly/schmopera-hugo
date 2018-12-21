@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /great-love-affairs-singers-and-pianists/
+slug = "great-love-affairs-singers-and-pianists"
 title = "Great love affairs: singers and pianists"
 +++
 

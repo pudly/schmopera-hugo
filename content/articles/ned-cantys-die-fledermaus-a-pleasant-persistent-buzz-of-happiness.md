@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /ned-cantys-die-fledermaus-a-pleasant-persistent-buzz-of-happiness/
+slug = "ned-cantys-die-fledermaus-a-pleasant-persistent-buzz-of-happiness"
 title = "Ned Canty&#039;s Die Fledermaus: &quot;A pleasant, persistent buzz of happiness.&quot;"
 +++
 

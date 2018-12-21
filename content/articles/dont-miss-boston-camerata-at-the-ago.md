@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-boston-camerata-at-the-ago/
+slug = "dont-miss-boston-camerata-at-the-ago"
 title = "Don&#039;t miss: Boston Camerata at the AGO"
 +++
 

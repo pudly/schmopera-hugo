@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-roberto-devereux/
+slug = "in-review-roberto-devereux"
 title = "In review: Roberto Devereux"
 +++
 

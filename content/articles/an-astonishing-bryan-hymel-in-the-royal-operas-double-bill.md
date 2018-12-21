@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /an-astonishing-bryan-hymel-in-the-royal-operas-double-bill/
+slug = "an-astonishing-bryan-hymel-in-the-royal-operas-double-bill"
 title = "An &quot;astonishing&quot; Bryan Hymel in the Royal Opera&#039;s double bill"
 +++
 

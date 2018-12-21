@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /steps-forward-for-operas-women-tosca-at-pbo/
+slug = "steps-forward-for-operas-women-tosca-at-pbo"
 title = "Steps forward for opera&#039;s women: Tosca at PBO"
 +++
 

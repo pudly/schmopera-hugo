@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /my-wtf-lightbulb-moment/
+slug = "my-wtf-lightbulb-moment"
 title = "My WTF lightbulb moment"
 +++
 

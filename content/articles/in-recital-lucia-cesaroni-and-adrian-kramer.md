@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /in-recital-lucia-cesaroni-and-adrian-kramer/
+slug = "in-recital-lucia-cesaroni-and-adrian-kramer"
 title = "In recital: Lucia Cesaroni and Adrian Kramer"
 +++
 

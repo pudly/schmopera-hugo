@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /5-frankensteinthemed-shorts-leave-you-wanting-more/
+slug = "5-frankensteinthemed-shorts-leave-you-wanting-more"
 title = "5 Frankenstein-themed shorts leave you wanting more"
 +++
 

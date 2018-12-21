@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /how-your-voice-type-determines-your-onthejob-social-life/
+slug = "how-your-voice-type-determines-your-onthejob-social-life"
 title = "How your voice type determines your on-the-job social life"
 +++
 

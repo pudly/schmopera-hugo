@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /diegetic-music-in-opera-3-ways-to-use-it/
+slug = "diegetic-music-in-opera-3-ways-to-use-it"
 title = "Diegetic music in opera: 3 ways to use it"
 +++
 

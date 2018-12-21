@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /don-giovanni-strengthened-by-reinterpretation/
+slug = "don-giovanni-strengthened-by-reinterpretation"
 title = "Don Giovanni: &quot;strengthened by reinterpretation.&quot;"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /truly-gripping-die-walkre-at-lyric-opera-of-chicago/
+slug = "truly-gripping-die-walkre-at-lyric-opera-of-chicago"
 title = "&quot;Truly gripping&quot;: Die Walküre at Lyric Opera of Chicago"
 +++
 

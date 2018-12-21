@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /artists-management-pages-a-psa-for-singers/
+slug = "artists-management-pages-a-psa-for-singers"
 title = "Artists management pages: a PSA for singers"
 +++
 

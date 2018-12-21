@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /opera-is-artifice-giulio-cesares-conquest-of-houston/
+slug = "opera-is-artifice-giulio-cesares-conquest-of-houston"
 title = "Opera is artifice: Giulio Cesare&#039;s conquest of Houston"
 +++
 

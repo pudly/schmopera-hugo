@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /generally-awesome-mezzo-joyce-didonato-saves-my-writers-block/
+slug = "generally-awesome-mezzo-joyce-didonato-saves-my-writers-block"
 title = "Generally Awesome Mezzo Joyce DiDonato Saves My Writer&#039;s Block"
 +++
 

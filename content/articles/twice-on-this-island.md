@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /twice-on-this-island/
+slug = "twice-on-this-island"
 title = "Twice on This Island"
 +++
 

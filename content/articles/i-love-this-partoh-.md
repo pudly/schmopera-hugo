@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /i-love-this-partoh-/
+slug = "i-love-this-partoh-"
 title = "I love this part...oh &amp;#$*"
 +++
 

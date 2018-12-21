@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /too-many-jewels-the-search-for-meaning-pbos-candide/
+slug = "too-many-jewels-the-search-for-meaning-pbos-candide"
 title = "Too many jewels &amp; the search for meaning: PBO&#039;s Candide"
 +++
 

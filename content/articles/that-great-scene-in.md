@@ -1,5 +1,5 @@
 +++
-slug = /that-great-scene-in/
+slug = "that-great-scene-in"
 title = "That great scene in..."
 +++
 

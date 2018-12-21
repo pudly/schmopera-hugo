@@ -1,5 +1,5 @@
 +++
-slug = /competitions/
+slug = "competitions"
 title = "Competitions"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /robert-picardo-giving-cassini-the-farewell-it-deserves/
+slug = "robert-picardo-giving-cassini-the-farewell-it-deserves"
 title = "Robert Picardo, giving Cassini the farewell it deserves"
 +++
 

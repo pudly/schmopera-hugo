@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /quintus-4-has-no-choice-but-to-have-a-unique-sound/
+slug = "quintus-4-has-no-choice-but-to-have-a-unique-sound"
 title = "Quintus 4 &quot;has no choice but to have a unique sound.&quot;"
 +++
 

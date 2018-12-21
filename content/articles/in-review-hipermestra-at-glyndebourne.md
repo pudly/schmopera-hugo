@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-hipermestra-at-glyndebourne/
+slug = "in-review-hipermestra-at-glyndebourne"
 title = "In review: Hipermestra at Glyndebourne"
 +++
 

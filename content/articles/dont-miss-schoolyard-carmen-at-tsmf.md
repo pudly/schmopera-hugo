@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-schoolyard-carmen-at-tsmf/
+slug = "dont-miss-schoolyard-carmen-at-tsmf"
 title = "Don&#039;t miss: Schoolyard Carmen at TSMF"
 +++
 

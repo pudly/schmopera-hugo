@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /reaching-across-centuries-seraphic-fires-the-little-match-girl-passion/
+slug = "reaching-across-centuries-seraphic-fires-the-little-match-girl-passion"
 title = "Reaching across centuries: Seraphic Fire&#039;s the little match girl passion"
 +++
 

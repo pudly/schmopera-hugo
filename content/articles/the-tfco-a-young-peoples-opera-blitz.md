@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /the-tfco-a-young-peoples-opera-blitz/
+slug = "the-tfco-a-young-peoples-opera-blitz"
 title = "The TFCO: a young people&#039;s opera blitz"
 +++
 

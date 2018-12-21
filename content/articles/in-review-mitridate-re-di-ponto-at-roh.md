@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-mitridate-re-di-ponto-at-roh/
+slug = "in-review-mitridate-re-di-ponto-at-roh"
 title = "In review: Mitridate, re di Ponto at ROH"
 +++
 

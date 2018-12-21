@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /hot-topics-singers-who-scoop/
+slug = "hot-topics-singers-who-scoop"
 title = "Hot topics: singers who scoop"
 +++
 

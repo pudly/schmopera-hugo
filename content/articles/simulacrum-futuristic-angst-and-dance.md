@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /simulacrum-futuristic-angst-and-dance/
+slug = "simulacrum-futuristic-angst-and-dance"
 title = "Simulacrum: Futuristic angst and dance"
 +++
 

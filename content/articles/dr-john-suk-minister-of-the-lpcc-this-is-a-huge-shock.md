@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /dr-john-suk-minister-of-the-lpcc-this-is-a-huge-shock/
+slug = "dr-john-suk-minister-of-the-lpcc-this-is-a-huge-shock"
 title = "Dr. John Suk, Minister of the LPCC: &quot;This is a huge shock.&quot;"
 +++
 

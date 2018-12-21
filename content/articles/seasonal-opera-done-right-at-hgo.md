@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /seasonal-opera-done-right-at-hgo/
+slug = "seasonal-opera-done-right-at-hgo"
 title = "Seasonal opera done right at HGO"
 +++
 

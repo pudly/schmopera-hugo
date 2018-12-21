@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /dead-man-walking-makes-its-minnesota-opera-debut/
+slug = "dead-man-walking-makes-its-minnesota-opera-debut"
 title = "Dead Man Walking makes its Minnesota Opera debut"
 +++
 

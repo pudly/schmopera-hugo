@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /in-defence-of-pianists/
+slug = "in-defence-of-pianists"
 title = "In defence of pianists"
 +++
 

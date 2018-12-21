@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /how-to-be-a-star-rptiteur-yes-there-is-such-a-thing/
+slug = "how-to-be-a-star-rptiteur-yes-there-is-such-a-thing"
 title = "How to be a star répétiteur (yes, there is such a thing)"
 +++
 

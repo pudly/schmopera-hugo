@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-dreamy-indulgence-the-pearl-fishers-in-chicago/
+slug = "a-dreamy-indulgence-the-pearl-fishers-in-chicago"
 title = "A dreamy indulgence: The Pearl Fishers in Chicago"
 +++
 

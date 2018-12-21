@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /opera-for-voyeurs-opera-peep-show/
+slug = "opera-for-voyeurs-opera-peep-show"
 title = "Opera for voyeurs: Opera Peep Show"
 +++
 

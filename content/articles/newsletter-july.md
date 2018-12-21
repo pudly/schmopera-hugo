@@ -1,5 +1,5 @@
 +++
-slug = /newsletter-july/
+slug = "newsletter-july"
 title = "Newsletter July"
 +++
 

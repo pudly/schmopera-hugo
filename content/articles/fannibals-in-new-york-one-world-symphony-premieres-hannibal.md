@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /fannibals-in-new-york-one-world-symphony-premieres-hannibal/
+slug = "fannibals-in-new-york-one-world-symphony-premieres-hannibal"
 title = "Fannibals in New York: One World Symphony premieres Hannibal"
 +++
 

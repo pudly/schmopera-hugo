@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /operalia-advertising/
+slug = "operalia-advertising"
 title = "Operalia &amp; advertising"
 +++
 

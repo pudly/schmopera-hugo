@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /getting-vexed-over-wagner-other-narcissisms/
+slug = "getting-vexed-over-wagner-other-narcissisms"
 title = "Getting vexed over Wagner &amp; other narcissisms"
 +++
 

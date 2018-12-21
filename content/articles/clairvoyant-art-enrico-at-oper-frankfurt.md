@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /clairvoyant-art-enrico-at-oper-frankfurt/
+slug = "clairvoyant-art-enrico-at-oper-frankfurt"
 title = "Clairvoyant art: Enrico at Oper Frankfurt"
 +++
 

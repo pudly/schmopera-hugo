@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /cos-fan-tutte-misogynist-or-just-unreasonable/
+slug = "cos-fan-tutte-misogynist-or-just-unreasonable"
 title = "Così fan tutte: misogynist, or just unreasonable?"
 +++
 

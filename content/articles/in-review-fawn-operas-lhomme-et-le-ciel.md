@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-fawn-operas-lhomme-et-le-ciel/
+slug = "in-review-fawn-operas-lhomme-et-le-ciel"
 title = "In review: Fawn Opera&#039;s L&#039;homme et le ciel"
 +++
 

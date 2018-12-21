@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /singing-at-tso1617-fleming-barton-giunta/
+slug = "singing-at-tso1617-fleming-barton-giunta"
 title = "Singing at #TSO1617: Fleming, Barton, &amp; Giunta"
 +++
 

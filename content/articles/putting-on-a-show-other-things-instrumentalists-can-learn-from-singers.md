@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /putting-on-a-show-other-things-instrumentalists-can-learn-from-singers/
+slug = "putting-on-a-show-other-things-instrumentalists-can-learn-from-singers"
 title = "Putting on a show &amp; other things instrumentalists can learn from singers"
 +++
 

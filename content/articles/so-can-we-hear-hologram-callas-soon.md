@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /so-can-we-hear-hologram-callas-soon/
+slug = "so-can-we-hear-hologram-callas-soon"
 title = "So, can we hear hologram Callas soon?"
 +++
 

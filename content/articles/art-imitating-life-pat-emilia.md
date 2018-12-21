@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /art-imitating-life-pat-emilia/
+slug = "art-imitating-life-pat-emilia"
 title = "Art imitating life: Pat &amp; Emilia"
 +++
 

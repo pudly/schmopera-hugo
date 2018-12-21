@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /learn-opera-in-the-city/
+slug = "learn-opera-in-the-city"
 title = "Learn: Opera in the City"
 +++
 

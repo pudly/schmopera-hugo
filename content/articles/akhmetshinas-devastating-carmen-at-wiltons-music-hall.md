@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /akhmetshinas-devastating-carmen-at-wiltons-music-hall/
+slug = "akhmetshinas-devastating-carmen-at-wiltons-music-hall"
 title = "Akhmetshina&#039;s &quot;devastating&quot; Carmen at Wilton&#039;s Music Hall"
 +++
 

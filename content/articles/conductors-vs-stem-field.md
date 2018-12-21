@@ -1,5 +1,5 @@
 +++
-slug = /conductors-vs-stem-field/
+slug = "conductors-vs-stem-field"
 title = "Conductors vs STEM field"
 +++
 

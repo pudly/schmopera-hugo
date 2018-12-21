@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /he-saidshe-said-tapex-metallurgy/
+slug = "he-saidshe-said-tapex-metallurgy"
 title = "He said/she said: Tap:Ex Metallurgy"
 +++
 

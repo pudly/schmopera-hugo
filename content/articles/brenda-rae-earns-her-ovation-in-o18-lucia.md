@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /brenda-rae-earns-her-ovation-in-o18-lucia/
+slug = "brenda-rae-earns-her-ovation-in-o18-lucia"
 title = "Brenda Rae earns her ovation in O18 Lucia"
 +++
 

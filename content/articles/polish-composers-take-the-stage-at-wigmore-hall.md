@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /polish-composers-take-the-stage-at-wigmore-hall/
+slug = "polish-composers-take-the-stage-at-wigmore-hall"
 title = "Polish composers take the stage at Wigmore Hall"
 +++
 

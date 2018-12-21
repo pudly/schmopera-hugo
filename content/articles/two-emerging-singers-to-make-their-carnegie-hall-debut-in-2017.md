@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /two-emerging-singers-to-make-their-carnegie-hall-debut-in-2017/
+slug = "two-emerging-singers-to-make-their-carnegie-hall-debut-in-2017"
 title = "Two emerging singers to make their Carnegie Hall debut in 2017"
 +++
 

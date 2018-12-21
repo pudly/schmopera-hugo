@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dellarte-opera-nods-to-mozart-salieri-in-2018/
+slug = "dellarte-opera-nods-to-mozart-salieri-in-2018"
 title = "dell&#039;Arte Opera nods to Mozart &amp; Salieri in 2018"
 +++
 

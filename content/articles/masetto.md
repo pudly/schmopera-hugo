@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /masetto/
+slug = "masetto"
 title = "Masetto"
 +++
 

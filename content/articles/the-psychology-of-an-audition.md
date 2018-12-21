@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /the-psychology-of-an-audition/
+slug = "the-psychology-of-an-audition"
 title = "The psychology of an audition"
 +++
 

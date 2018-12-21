@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /coc1516-the-new-ensemble-studio/
+slug = "coc1516-the-new-ensemble-studio"
 title = "#COC1516: the new Ensemble Studio"
 +++
 

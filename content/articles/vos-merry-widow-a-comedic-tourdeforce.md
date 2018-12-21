@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /vos-merry-widow-a-comedic-tourdeforce/
+slug = "vos-merry-widow-a-comedic-tourdeforce"
 title = "VO&#039;s Merry Widow a comedic tour-de-force"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /onto-the-finals-why-cant-they-all-just-win/
+slug = "onto-the-finals-why-cant-they-all-just-win"
 title = "Onto the finals: why can&#039;t they all just win?"
 +++
 

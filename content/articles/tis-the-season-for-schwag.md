@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /tis-the-season-for-schwag/
+slug = "tis-the-season-for-schwag"
 title = "&#039;Tis the season for Schwag!"
 +++
 

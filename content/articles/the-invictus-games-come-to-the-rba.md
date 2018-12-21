@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /the-invictus-games-come-to-the-rba/
+slug = "the-invictus-games-come-to-the-rba"
 title = "The Invictus Games come to the RBA"
 +++
 

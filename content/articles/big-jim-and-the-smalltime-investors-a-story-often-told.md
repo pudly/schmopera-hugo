@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /big-jim-and-the-smalltime-investors-a-story-often-told/
+slug = "big-jim-and-the-smalltime-investors-a-story-often-told"
 title = "Big Jim and the Small-time Investors: a story often told"
 +++
 

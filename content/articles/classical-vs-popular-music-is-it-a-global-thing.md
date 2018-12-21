@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /classical-vs-popular-music-is-it-a-global-thing/
+slug = "classical-vs-popular-music-is-it-a-global-thing"
 title = "Classical vs popular music: is it a global thing?"
 +++
 

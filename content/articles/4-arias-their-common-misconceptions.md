@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /4-arias-their-common-misconceptions/
+slug = "4-arias-their-common-misconceptions"
 title = "4 arias &amp; their common misconceptions"
 +++
 

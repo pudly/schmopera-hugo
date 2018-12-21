@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-singers-daniela-mack/
+slug = "talking-with-singers-daniela-mack"
 title = "Talking with singers: Daniela Mack"
 +++
 

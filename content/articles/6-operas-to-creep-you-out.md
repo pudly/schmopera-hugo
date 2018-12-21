@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /6-operas-to-creep-you-out/
+slug = "6-operas-to-creep-you-out"
 title = "6 operas to creep you out"
 +++
 

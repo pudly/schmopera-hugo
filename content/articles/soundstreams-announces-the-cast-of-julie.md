@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /soundstreams-announces-the-cast-of-julie/
+slug = "soundstreams-announces-the-cast-of-julie"
 title = "Soundstreams announces the cast of Julie"
 +++
 

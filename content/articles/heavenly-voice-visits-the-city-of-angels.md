@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /heavenly-voice-visits-the-city-of-angels/
+slug = "heavenly-voice-visits-the-city-of-angels"
 title = "Heavenly voice visits the City of Angels"
 +++
 

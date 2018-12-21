@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /equal-parts-stressful-and-reverent-atgbound/
+slug = "equal-parts-stressful-and-reverent-atgbound"
 title = "Equal parts stressful and reverent: #AtGBound"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /birdcalls-and-spoilers/
+slug = "birdcalls-and-spoilers"
 title = "Birdcalls and Spoilers"
 +++
 

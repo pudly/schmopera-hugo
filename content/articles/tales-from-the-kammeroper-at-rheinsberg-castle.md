@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /tales-from-the-kammeroper-at-rheinsberg-castle/
+slug = "tales-from-the-kammeroper-at-rheinsberg-castle"
 title = "Tales from the Kammeroper at Rheinsberg Castle"
 +++
 

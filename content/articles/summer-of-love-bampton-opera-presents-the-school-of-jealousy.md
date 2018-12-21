@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /summer-of-love-bampton-opera-presents-the-school-of-jealousy/
+slug = "summer-of-love-bampton-opera-presents-the-school-of-jealousy"
 title = "Summer of love: Bampton Opera presents The School of Jealousy"
 +++
 

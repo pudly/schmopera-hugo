@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /adele-knowing-your-audience/
+slug = "adele-knowing-your-audience"
 title = "Adele &amp; knowing your audience"
 +++
 

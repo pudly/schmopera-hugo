@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /wendy-bryn-harmer-leads-sensitive-inspirational-fidelio/
+slug = "wendy-bryn-harmer-leads-sensitive-inspirational-fidelio"
 title = "Wendy Bryn Harmer Leads Sensitive, Inspirational Fidelio"
 +++
 

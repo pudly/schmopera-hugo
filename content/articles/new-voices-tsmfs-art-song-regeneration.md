@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /new-voices-tsmfs-art-song-regeneration/
+slug = "new-voices-tsmfs-art-song-regeneration"
 title = "New voices: TSMF&#039;s Art Song ReGENERATION"
 +++
 

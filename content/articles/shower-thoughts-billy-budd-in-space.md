@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /shower-thoughts-billy-budd-in-space/
+slug = "shower-thoughts-billy-budd-in-space"
 title = "Shower thoughts: Billy Budd in space"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /lynx-project-on-the-road-with-art-song/
+slug = "lynx-project-on-the-road-with-art-song"
 title = "Lynx Project: on the road with art song"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-singers-massimo-cavalletti/
+slug = "talking-with-singers-massimo-cavalletti"
 title = "Talking with singers: Massimo Cavalletti"
 +++
 

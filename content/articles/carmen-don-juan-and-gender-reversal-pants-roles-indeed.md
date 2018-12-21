@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /carmen-don-juan-and-gender-reversal-pants-roles-indeed/
+slug = "carmen-don-juan-and-gender-reversal-pants-roles-indeed"
 title = "Carmen, Don Juan, and gender reversal: pants roles indeed"
 +++
 

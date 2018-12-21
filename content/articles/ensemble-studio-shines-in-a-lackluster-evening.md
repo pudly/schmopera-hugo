@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /ensemble-studio-shines-in-a-lackluster-evening/
+slug = "ensemble-studio-shines-in-a-lackluster-evening"
 title = "Ensemble Studio shines in a lackluster Evening"
 +++
 

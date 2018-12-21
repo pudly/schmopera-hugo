@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-songbook-vii-at-tapestry-opera/
+slug = "in-review-songbook-vii-at-tapestry-opera"
 title = "In review: Songbook VII at Tapestry Opera"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /levines-ugly-exit-the-disposable-met/
+slug = "levines-ugly-exit-the-disposable-met"
 title = "Levine&#039;s ugly exit, &amp; the disposable Met"
 +++
 

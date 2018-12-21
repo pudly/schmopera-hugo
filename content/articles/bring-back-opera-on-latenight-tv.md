@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /bring-back-opera-on-latenight-tv/
+slug = "bring-back-opera-on-latenight-tv"
 title = "Bring back opera on late-night TV"
 +++
 

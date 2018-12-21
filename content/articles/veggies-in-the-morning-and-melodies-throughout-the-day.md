@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /veggies-in-the-morning-and-melodies-throughout-the-day/
+slug = "veggies-in-the-morning-and-melodies-throughout-the-day"
 title = "&quot;Veggies in the morning, and melodies throughout the day&quot;"
 +++
 

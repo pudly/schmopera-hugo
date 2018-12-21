@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /are-the-arts-other-creative-fields-a-waste-of-time-money/
+slug = "are-the-arts-other-creative-fields-a-waste-of-time-money"
 title = "Are the arts &amp; other creative fields a waste of time &amp; money?"
 +++
 

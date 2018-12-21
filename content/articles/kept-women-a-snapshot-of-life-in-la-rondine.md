@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /kept-women-a-snapshot-of-life-in-la-rondine/
+slug = "kept-women-a-snapshot-of-life-in-la-rondine"
 title = "Kept women &amp; a snapshot of life in La Rondine"
 +++
 

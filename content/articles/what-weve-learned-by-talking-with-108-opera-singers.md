@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /what-weve-learned-by-talking-with-108-opera-singers/
+slug = "what-weve-learned-by-talking-with-108-opera-singers"
 title = "What we&#039;ve learned by talking with 108 opera singers"
 +++
 

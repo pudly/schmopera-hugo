@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /kinder-schafft-neues-die-meistersinger-von-nrnberg/
+slug = "kinder-schafft-neues-die-meistersinger-von-nrnberg"
 title = "&quot;Kinder schafft neues&quot;: Die Meistersinger von Nürnberg"
 +++
 

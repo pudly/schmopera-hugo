@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /nabucco-is-hard-to-find-in-the-latest-la-opera-production/
+slug = "nabucco-is-hard-to-find-in-the-latest-la-opera-production"
 title = "Nabucco is hard to find in the latest LA Opera production"
 +++
 

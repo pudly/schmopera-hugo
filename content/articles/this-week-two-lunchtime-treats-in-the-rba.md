@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /this-week-two-lunchtime-treats-in-the-rba/
+slug = "this-week-two-lunchtime-treats-in-the-rba"
 title = "This week: two lunchtime treats in the RBA"
 +++
 

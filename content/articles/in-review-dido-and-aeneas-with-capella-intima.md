@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-dido-and-aeneas-with-capella-intima/
+slug = "in-review-dido-and-aeneas-with-capella-intima"
 title = "In review: Dido and Aeneas with Capella Intima"
 +++
 

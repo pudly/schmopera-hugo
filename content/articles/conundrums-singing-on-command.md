@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /conundrums-singing-on-command/
+slug = "conundrums-singing-on-command"
 title = "Conundrums: singing on command"
 +++
 

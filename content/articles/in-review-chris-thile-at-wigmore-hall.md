@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-chris-thile-at-wigmore-hall/
+slug = "in-review-chris-thile-at-wigmore-hall"
 title = "In review: Chris Thile at Wigmore Hall"
 +++
 

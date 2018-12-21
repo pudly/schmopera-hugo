@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /aria-umezawa-opera-5s-die-fledermaus-with-surprises/
+slug = "aria-umezawa-opera-5s-die-fledermaus-with-surprises"
 title = "Aria Umezawa: Opera 5&#039;s Die Fledermaus, with surprises"
 +++
 

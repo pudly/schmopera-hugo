@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /memorable-nights-the-tsos-tribute-glenn-gould/
+slug = "memorable-nights-the-tsos-tribute-glenn-gould"
 title = "Memorable nights: the TSO&#039;s tribute Glenn Gould"
 +++
 

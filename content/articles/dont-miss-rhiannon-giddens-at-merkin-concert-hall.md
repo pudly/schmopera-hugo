@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-rhiannon-giddens-at-merkin-concert-hall/
+slug = "dont-miss-rhiannon-giddens-at-merkin-concert-hall"
 title = "Don&#039;t miss: Rhiannon Giddens at Merkin Concert Hall"
 +++
 

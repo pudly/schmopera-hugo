@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /schmopera-takes-a-breather/
+slug = "schmopera-takes-a-breather"
 title = "Schmopera takes a breather"
 +++
 

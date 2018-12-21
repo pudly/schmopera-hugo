@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /lets-hear-it-for-the-basses/
+slug = "lets-hear-it-for-the-basses"
 title = "Let&#039;s hear it for the basses"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /opera-lyras-immediate-shutdown/
+slug = "opera-lyras-immediate-shutdown"
 title = "Opera Lyra&#039;s &quot;immediate shutdown&quot;"
 +++
 

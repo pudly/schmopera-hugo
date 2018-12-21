@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /fachisms-stereotypes-for-a-reason/
+slug = "fachisms-stereotypes-for-a-reason"
 title = "Fach-isms &amp; stereotypes for a reason"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /audra-mcdonald-and-the-art-of-perfection/
+slug = "audra-mcdonald-and-the-art-of-perfection"
 title = "Audra McDonald and the Art of Perfection"
 +++
 

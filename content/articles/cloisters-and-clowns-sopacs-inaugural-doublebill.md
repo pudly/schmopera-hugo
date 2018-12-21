@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /cloisters-and-clowns-sopacs-inaugural-doublebill/
+slug = "cloisters-and-clowns-sopacs-inaugural-doublebill"
 title = "Cloisters and clowns: SOPAC&#039;s inaugural double-bill"
 +++
 

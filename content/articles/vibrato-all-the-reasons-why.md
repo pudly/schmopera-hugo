@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /vibrato-all-the-reasons-why/
+slug = "vibrato-all-the-reasons-why"
 title = "Vibrato: all the reasons why"
 +++
 

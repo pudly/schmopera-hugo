@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /what-are-your-irrational-stage-fears/
+slug = "what-are-your-irrational-stage-fears"
 title = "What are your irrational stage fears?"
 +++
 

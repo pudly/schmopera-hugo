@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /quasi-review-the-ensemble-studios-figaro/
+slug = "quasi-review-the-ensemble-studios-figaro"
 title = "Quasi review: The Ensemble Studio&#039;s Figaro"
 +++
 

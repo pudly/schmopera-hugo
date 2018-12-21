@@ -1,5 +1,5 @@
 +++
-slug = /is-technology-making-it-harder-to-tell-stories/
+slug = "is-technology-making-it-harder-to-tell-stories"
 title = "Is technology making it harder to tell stories?"
 +++
 

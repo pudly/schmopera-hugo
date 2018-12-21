@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-tim-mead-james-baillieu-in-recital/
+slug = "in-review-tim-mead-james-baillieu-in-recital"
 title = "In review: Tim Mead &amp; James Baillieu in recital"
 +++
 

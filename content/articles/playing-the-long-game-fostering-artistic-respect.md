@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /playing-the-long-game-fostering-artistic-respect/
+slug = "playing-the-long-game-fostering-artistic-respect"
 title = "Playing the long game: fostering artistic respect"
 +++
 

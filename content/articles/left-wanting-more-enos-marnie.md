@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /left-wanting-more-enos-marnie/
+slug = "left-wanting-more-enos-marnie"
 title = "Left wanting more: ENO&#039;s Marnie"
 +++
 

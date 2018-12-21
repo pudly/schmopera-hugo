@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /profound-moving-bernstein-doublebill/
+slug = "profound-moving-bernstein-doublebill"
 title = "Profound, moving Bernstein double-bill"
 +++
 

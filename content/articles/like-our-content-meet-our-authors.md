@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /like-our-content-meet-our-authors/
+slug = "like-our-content-meet-our-authors"
 title = "Like our content? Meet our authors!"
 +++
 

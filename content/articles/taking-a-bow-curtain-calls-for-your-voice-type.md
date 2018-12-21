@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /taking-a-bow-curtain-calls-for-your-voice-type/
+slug = "taking-a-bow-curtain-calls-for-your-voice-type"
 title = "Taking a bow: curtain calls for your voice type"
 +++
 

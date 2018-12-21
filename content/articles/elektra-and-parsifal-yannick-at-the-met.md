@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /elektra-and-parsifal-yannick-at-the-met/
+slug = "elektra-and-parsifal-yannick-at-the-met"
 title = "Elektra and Parsifal: Yannick at the MET"
 +++
 

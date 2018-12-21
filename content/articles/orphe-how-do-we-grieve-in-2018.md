@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /orphe-how-do-we-grieve-in-2018/
+slug = "orphe-how-do-we-grieve-in-2018"
 title = "Orphée⁺: &quot;How do we grieve in 2018?&quot;"
 +++
 

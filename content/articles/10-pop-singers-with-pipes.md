@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /10-pop-singers-with-pipes/
+slug = "10-pop-singers-with-pipes"
 title = "10 pop singers with pipes"
 +++
 

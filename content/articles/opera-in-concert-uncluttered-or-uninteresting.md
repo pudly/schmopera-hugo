@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /opera-in-concert-uncluttered-or-uninteresting/
+slug = "opera-in-concert-uncluttered-or-uninteresting"
 title = "Opera in concert: uncluttered or uninteresting?"
 +++
 

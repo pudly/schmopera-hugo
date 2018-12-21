@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /relevant-art-via-the-number-2-train/
+slug = "relevant-art-via-the-number-2-train"
 title = "Relevant Art Via the Number 2 Train"
 +++
 

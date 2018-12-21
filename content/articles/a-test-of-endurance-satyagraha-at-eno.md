@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-test-of-endurance-satyagraha-at-eno/
+slug = "a-test-of-endurance-satyagraha-at-eno"
 title = "A test of endurance: Satyagraha at ENO"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /folds-the-new-fulllength-solo-album-from-nathan-shubert/
+slug = "folds-the-new-fulllength-solo-album-from-nathan-shubert"
 title = "Folds: the new full-length solo album from Nathan Shubert"
 +++
 

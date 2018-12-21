@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /opera-songfest-team-up-in-la/
+slug = "opera-songfest-team-up-in-la"
 title = "Opera &amp; Song(Fest) team up in LA"
 +++
 

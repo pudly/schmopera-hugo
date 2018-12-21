@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-composers-alexina-louie/
+slug = "talking-with-composers-alexina-louie"
 title = "Talking with composers: Alexina Louie"
 +++
 

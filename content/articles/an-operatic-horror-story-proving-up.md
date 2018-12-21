@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /an-operatic-horror-story-proving-up/
+slug = "an-operatic-horror-story-proving-up"
 title = "An operatic horror story: Proving Up"
 +++
 

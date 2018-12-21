@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /vera-causa-opera-opera-for-all/
+slug = "vera-causa-opera-opera-for-all"
 title = "Vera Causa Opera: &quot;Opera for all.&quot;"
 +++
 

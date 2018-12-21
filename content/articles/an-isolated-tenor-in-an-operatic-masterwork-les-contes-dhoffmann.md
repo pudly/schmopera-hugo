@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /an-isolated-tenor-in-an-operatic-masterwork-les-contes-dhoffmann/
+slug = "an-isolated-tenor-in-an-operatic-masterwork-les-contes-dhoffmann"
 title = "An isolated tenor in an operatic masterwork: Les contes d&#039;Hoffmann"
 +++
 

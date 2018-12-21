@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /missing-the-point-the-mets-201516-season/
+slug = "missing-the-point-the-mets-201516-season"
 title = "Missing the point: the Met&#039;s 2015/16 season"
 +++
 

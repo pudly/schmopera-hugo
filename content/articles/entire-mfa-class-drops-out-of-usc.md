@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /entire-mfa-class-drops-out-of-usc/
+slug = "entire-mfa-class-drops-out-of-usc"
 title = "Entire MFA class drops out of USC"
 +++
 

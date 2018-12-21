@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /childfree-opera-singers-happiness/
+slug = "childfree-opera-singers-happiness"
 title = "Child-free opera singers &amp; happiness"
 +++
 

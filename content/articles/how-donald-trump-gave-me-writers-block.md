@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /how-donald-trump-gave-me-writers-block/
+slug = "how-donald-trump-gave-me-writers-block"
 title = "How Donald Trump gave me writer&#039;s block"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /operas-survival-tightened-belts-callous-questions/
+slug = "operas-survival-tightened-belts-callous-questions"
 title = "Opera&#039;s survival: tightened belts &amp; callous questions"
 +++
 

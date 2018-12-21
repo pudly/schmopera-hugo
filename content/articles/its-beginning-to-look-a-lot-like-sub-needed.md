@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /its-beginning-to-look-a-lot-like-sub-needed/
+slug = "its-beginning-to-look-a-lot-like-sub-needed"
 title = "It&#039;s beginning to look a lot like **SUB NEEDED**"
 +++
 

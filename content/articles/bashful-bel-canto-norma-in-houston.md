@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /bashful-bel-canto-norma-in-houston/
+slug = "bashful-bel-canto-norma-in-houston"
 title = "Bashful bel canto: Norma in Houston"
 +++
 

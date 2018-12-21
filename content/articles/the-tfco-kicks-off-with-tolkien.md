@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /the-tfco-kicks-off-with-tolkien/
+slug = "the-tfco-kicks-off-with-tolkien"
 title = "The TFCO kicks off with Tolkien"
 +++
 

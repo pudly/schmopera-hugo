@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /a-very-bohemian-undertaking-atgs-la-bohme/
+slug = "a-very-bohemian-undertaking-atgs-la-bohme"
 title = "&quot;A very Bohemian undertaking&quot;: AtG&#039;s La bohème"
 +++
 

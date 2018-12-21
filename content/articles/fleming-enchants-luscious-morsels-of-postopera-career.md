@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /fleming-enchants-luscious-morsels-of-postopera-career/
+slug = "fleming-enchants-luscious-morsels-of-postopera-career"
 title = "Fleming enchants: luscious morsels of post-opera career"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /celebrating-bernstein-in-chicago-how-can-one-not-be-enchanted/
+slug = "celebrating-bernstein-in-chicago-how-can-one-not-be-enchanted"
 title = "Celebrating Bernstein in Chicago: &quot;How can one not be enchanted?&quot;"
 +++
 

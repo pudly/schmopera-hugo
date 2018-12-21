@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /music-bloggers-unite/
+slug = "music-bloggers-unite"
 title = "Music Bloggers Unite!"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /potential-orchestra-mutiny-and-conductor-envy/
+slug = "potential-orchestra-mutiny-and-conductor-envy"
 title = "Potential orchestra mutiny and conductor envy"
 +++
 

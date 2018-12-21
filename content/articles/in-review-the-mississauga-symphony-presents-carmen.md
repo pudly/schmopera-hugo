@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-the-mississauga-symphony-presents-carmen/
+slug = "in-review-the-mississauga-symphony-presents-carmen"
 title = "In review: the Mississauga Symphony presents Carmen"
 +++
 

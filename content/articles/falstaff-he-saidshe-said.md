@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /falstaff-he-saidshe-said/
+slug = "falstaff-he-saidshe-said"
 title = "Falstaff: He said/She said"
 +++
 

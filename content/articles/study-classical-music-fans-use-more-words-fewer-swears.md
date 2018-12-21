@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /study-classical-music-fans-use-more-words-fewer-swears/
+slug = "study-classical-music-fans-use-more-words-fewer-swears"
 title = "Study: classical music fans use more words, fewer swears"
 +++
 

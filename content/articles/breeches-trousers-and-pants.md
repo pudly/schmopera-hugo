@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /breeches-trousers-and-pants/
+slug = "breeches-trousers-and-pants"
 title = "Breeches, trousers, and pants"
 +++
 

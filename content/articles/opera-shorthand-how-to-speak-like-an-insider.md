@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /opera-shorthand-how-to-speak-like-an-insider/
+slug = "opera-shorthand-how-to-speak-like-an-insider"
 title = "Opera shorthand: how to speak like an insider"
 +++
 

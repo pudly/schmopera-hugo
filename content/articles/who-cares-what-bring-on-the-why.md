@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /who-cares-what-bring-on-the-why/
+slug = "who-cares-what-bring-on-the-why"
 title = "Who cares what? Bring on the why"
 +++
 

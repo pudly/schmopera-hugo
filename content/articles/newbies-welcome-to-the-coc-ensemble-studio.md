@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /newbies-welcome-to-the-coc-ensemble-studio/
+slug = "newbies-welcome-to-the-coc-ensemble-studio"
 title = "Newbies: Welcome to the COC Ensemble Studio!"
 +++
 

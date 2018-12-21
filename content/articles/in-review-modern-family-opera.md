@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-modern-family-opera/
+slug = "in-review-modern-family-opera"
 title = "In review: Modern (Family) Opera"
 +++
 

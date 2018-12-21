@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /helpful-singers-opera-does-house-calls/
+slug = "helpful-singers-opera-does-house-calls"
 title = "Helpful singers: opera does house calls"
 +++
 

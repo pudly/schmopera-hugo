@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /spotlight-on-christopher-james-ray/
+slug = "spotlight-on-christopher-james-ray"
 title = "Spotlight on: Christopher James Ray"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /are-the-good-old-days-of-opera-really-gone/
+slug = "are-the-good-old-days-of-opera-really-gone"
 title = "Are the good old days of opera really gone?"
 +++
 

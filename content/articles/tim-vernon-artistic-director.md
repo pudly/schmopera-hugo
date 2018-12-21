@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /tim-vernon-artistic-director/
+slug = "tim-vernon-artistic-director"
 title = "Tim Vernon, Artistic Director²"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /tune-into-cardiff-2015/
+slug = "tune-into-cardiff-2015"
 title = "Tune into Cardiff 2015"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-bel-canto-winner-atlantas-fille-du-rgiment/
+slug = "a-bel-canto-winner-atlantas-fille-du-rgiment"
 title = "A bel canto winner: Atlanta&#039;s Fille du régiment"
 +++
 

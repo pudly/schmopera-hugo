@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /kristin-hoffs-love-songs/
+slug = "kristin-hoffs-love-songs"
 title = "Kristin Hoff&#039;s Love Songs"
 +++
 

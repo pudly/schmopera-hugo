@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /strong-ensemble-lifts-edmonton-opera-production-of-la-traviata/
+slug = "strong-ensemble-lifts-edmonton-opera-production-of-la-traviata"
 title = "Strong ensemble lifts Edmonton Opera production of La traviata"
 +++
 

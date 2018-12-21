@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /preparing-for-performance-what-i-didnt-know-i-knew/
+slug = "preparing-for-performance-what-i-didnt-know-i-knew"
 title = "Preparing for performance: what I didn&#039;t know I knew"
 +++
 

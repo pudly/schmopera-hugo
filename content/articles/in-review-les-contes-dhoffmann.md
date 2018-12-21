@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-les-contes-dhoffmann/
+slug = "in-review-les-contes-dhoffmann"
 title = "In review: Les contes d&#039;Hoffmann"
 +++
 

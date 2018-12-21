@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /gimmicks-tactics-discouraging-the-new-/
+slug = "gimmicks-tactics-discouraging-the-new-"
 title = "Gimmicks &amp; tactics: discouraging the new "
 +++
 

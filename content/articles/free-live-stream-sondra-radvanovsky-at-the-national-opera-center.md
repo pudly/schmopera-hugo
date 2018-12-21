@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /free-live-stream-sondra-radvanovsky-at-the-national-opera-center/
+slug = "free-live-stream-sondra-radvanovsky-at-the-national-opera-center"
 title = "Free live stream: Sondra Radvanovsky at the National Opera Center"
 +++
 

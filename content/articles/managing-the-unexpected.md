@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /managing-the-unexpected/
+slug = "managing-the-unexpected"
 title = "Managing the unexpected"
 +++
 

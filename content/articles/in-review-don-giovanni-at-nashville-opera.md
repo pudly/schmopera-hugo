@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-don-giovanni-at-nashville-opera/
+slug = "in-review-don-giovanni-at-nashville-opera"
 title = "In review: Don Giovanni at Nashville Opera"
 +++
 

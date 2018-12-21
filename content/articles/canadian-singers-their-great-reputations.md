@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /canadian-singers-their-great-reputations/
+slug = "canadian-singers-their-great-reputations"
 title = "Canadian singers &amp; their great reputations"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /wacky-silly-mdecin-malgr-lui-an-overthetop-delight/
+slug = "wacky-silly-mdecin-malgr-lui-an-overthetop-delight"
 title = "Wacky &amp; silly Médecin malgré lui an over-the-top delight"
 +++
 

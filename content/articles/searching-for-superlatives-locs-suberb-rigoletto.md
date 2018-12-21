@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /searching-for-superlatives-locs-suberb-rigoletto/
+slug = "searching-for-superlatives-locs-suberb-rigoletto"
 title = "Searching for superlatives: LOC&#039;s suberb Rigoletto"
 +++
 

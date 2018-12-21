@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dont-miss-no-place-like-home/
+slug = "dont-miss-no-place-like-home"
 title = "Don&#039;t miss: No Place Like Home"
 +++
 

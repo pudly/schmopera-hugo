@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /schmopera-is-two/
+slug = "schmopera-is-two"
 title = "Schmopera is two!"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /she-said-they-said-crossed-wires-in-buenos-aires/
+slug = "she-said-they-said-crossed-wires-in-buenos-aires"
 title = "She said, they said: crossed wires in Buenos Aires"
 +++
 

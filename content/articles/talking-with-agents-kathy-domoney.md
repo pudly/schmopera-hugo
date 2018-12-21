@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-agents-kathy-domoney/
+slug = "talking-with-agents-kathy-domoney"
 title = "Talking with agents: Kathy Domoney"
 +++
 

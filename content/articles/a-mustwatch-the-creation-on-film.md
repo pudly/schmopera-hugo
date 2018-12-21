@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /a-mustwatch-the-creation-on-film/
+slug = "a-mustwatch-the-creation-on-film"
 title = "A must-watch: The Creation on film"
 +++
 

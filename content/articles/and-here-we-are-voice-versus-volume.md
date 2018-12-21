@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /and-here-we-are-voice-versus-volume/
+slug = "and-here-we-are-voice-versus-volume"
 title = "And Here We Are: voice versus volume"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-nashville-symphonys-season-opener/
+slug = "in-review-nashville-symphonys-season-opener"
 title = "In review: Nashville Symphony&#039;s season opener"
 +++
 

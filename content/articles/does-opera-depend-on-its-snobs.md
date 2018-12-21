@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /does-opera-depend-on-its-snobs/
+slug = "does-opera-depend-on-its-snobs"
 title = "Does opera depend on its snobs?"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-singers-cristina-pasaroiu/
+slug = "talking-with-singers-cristina-pasaroiu"
 title = "Talking with singers: Cristina Pasaroiu"
 +++
 

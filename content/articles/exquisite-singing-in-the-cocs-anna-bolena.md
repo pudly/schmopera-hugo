@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /exquisite-singing-in-the-cocs-anna-bolena/
+slug = "exquisite-singing-in-the-cocs-anna-bolena"
 title = "Exquisite singing in the COC&#039;s Anna Bolena"
 +++
 

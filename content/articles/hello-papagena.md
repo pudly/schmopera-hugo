@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /hello-papagena/
+slug = "hello-papagena"
 title = "&quot;Hello, Papagena!&quot;"
 +++
 

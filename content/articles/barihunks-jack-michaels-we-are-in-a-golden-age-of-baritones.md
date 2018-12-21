@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /barihunks-jack-michaels-we-are-in-a-golden-age-of-baritones/
+slug = "barihunks-jack-michaels-we-are-in-a-golden-age-of-baritones"
 title = "Barihunks&#039; Jack Michaels: &quot;We are in a golden age of baritones&quot;"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /a-little-too-cozy-offcamera-with-don-l-fonzo-despina/
+slug = "a-little-too-cozy-offcamera-with-don-l-fonzo-despina"
 title = "A Little Too Cozy: Off-camera with Don L. Fonzo &amp; Despina"
 +++
 

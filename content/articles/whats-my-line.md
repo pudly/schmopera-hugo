@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /whats-my-line/
+slug = "whats-my-line"
 title = "What&#039;s my line?"
 +++
 

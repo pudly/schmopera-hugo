@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /luxury-at-arms-length-arabella/
+slug = "luxury-at-arms-length-arabella"
 title = "Luxury at arm&#039;s length: Arabella"
 +++
 

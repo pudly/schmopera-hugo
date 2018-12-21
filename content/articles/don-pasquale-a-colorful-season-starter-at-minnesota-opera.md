@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /don-pasquale-a-colorful-season-starter-at-minnesota-opera/
+slug = "don-pasquale-a-colorful-season-starter-at-minnesota-opera"
 title = "Don Pasquale: a colorful season starter at Minnesota Opera"
 +++
 

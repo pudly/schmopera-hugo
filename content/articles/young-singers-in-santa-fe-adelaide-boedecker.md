@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /young-singers-in-santa-fe-adelaide-boedecker/
+slug = "young-singers-in-santa-fe-adelaide-boedecker"
 title = "Young singers in Santa Fe: Adelaide Boedecker"
 +++
 

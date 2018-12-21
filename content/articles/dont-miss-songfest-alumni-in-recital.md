@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-songfest-alumni-in-recital/
+slug = "dont-miss-songfest-alumni-in-recital"
 title = "Don&#039;t miss: SongFest alumni in recital"
 +++
 

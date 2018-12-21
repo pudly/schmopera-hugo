@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /nate-douglas-writing-songs-is-fun/
+slug = "nate-douglas-writing-songs-is-fun"
 title = "Nate Douglas: &quot;Writing songs is fun.&quot;"
 +++
 

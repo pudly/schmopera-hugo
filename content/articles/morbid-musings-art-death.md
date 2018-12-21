@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /morbid-musings-art-death/
+slug = "morbid-musings-art-death"
 title = "Morbid musings: art &amp; death"
 +++
 

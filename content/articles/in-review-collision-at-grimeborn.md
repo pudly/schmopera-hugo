@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-collision-at-grimeborn/
+slug = "in-review-collision-at-grimeborn"
 title = "In review: Collision at Grimeborn"
 +++
 

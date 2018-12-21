@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /in-defense-of-the-day-job-/
+slug = "in-defense-of-the-day-job-"
 title = "In defense of the &quot;day&quot; job "
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /new-works-the-imaginings/
+slug = "new-works-the-imaginings"
 title = "New works: The Imaginings"
 +++
 

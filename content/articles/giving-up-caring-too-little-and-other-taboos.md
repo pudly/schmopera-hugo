@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /giving-up-caring-too-little-and-other-taboos/
+slug = "giving-up-caring-too-little-and-other-taboos"
 title = "Giving up, caring too little, and other taboos"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-toronto-opera-initiatives-don-giovanni/
+slug = "dont-miss-toronto-opera-initiatives-don-giovanni"
 title = "Don&#039;t miss: Toronto Opera Initiative&#039;s Don Giovanni"
 +++
 

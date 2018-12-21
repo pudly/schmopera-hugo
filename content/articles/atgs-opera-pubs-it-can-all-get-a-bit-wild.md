@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /atgs-opera-pubs-it-can-all-get-a-bit-wild/
+slug = "atgs-opera-pubs-it-can-all-get-a-bit-wild"
 title = "AtG&#039;s Opera Pubs: &quot;It can all get a bit wild.&quot;"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /vote-for-a-note-crowdsourced-songwriting/
+slug = "vote-for-a-note-crowdsourced-songwriting"
 title = "Vote for a note: crowdsourced songwriting?"
 +++
 

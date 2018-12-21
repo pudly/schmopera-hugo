@@ -1,5 +1,5 @@
 +++
-slug = /alcina-translation/
+slug = "alcina-translation"
 title = "Alcina translation"
 +++
 

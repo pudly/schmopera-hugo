@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /rags-to-reasonables-personal-finance-holy-grail/
+slug = "rags-to-reasonables-personal-finance-holy-grail"
 title = "Rags to Reasonable&#039;s Personal Finance Holy Grail"
 +++
 

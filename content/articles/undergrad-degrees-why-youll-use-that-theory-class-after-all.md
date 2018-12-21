@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /undergrad-degrees-why-youll-use-that-theory-class-after-all/
+slug = "undergrad-degrees-why-youll-use-that-theory-class-after-all"
 title = "Undergrad degrees &amp; why you&#039;ll use that theory class after all"
 +++
 

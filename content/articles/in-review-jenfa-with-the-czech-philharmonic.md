@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-jenfa-with-the-czech-philharmonic/
+slug = "in-review-jenfa-with-the-czech-philharmonic"
 title = "In review: Jenůfa with the Czech Philharmonic"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /why-this-opera-singer-took-a-nonsinging-job-at-an-opera-company/
+slug = "why-this-opera-singer-took-a-nonsinging-job-at-an-opera-company"
 title = "Why This Opera Singer Took a Non-Singing Job at an Opera Company"
 +++
 

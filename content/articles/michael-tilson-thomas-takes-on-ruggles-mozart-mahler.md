@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /michael-tilson-thomas-takes-on-ruggles-mozart-mahler/
+slug = "michael-tilson-thomas-takes-on-ruggles-mozart-mahler"
 title = "Michael Tilson Thomas takes on Ruggles: Mozart &amp; Mahler"
 +++
 

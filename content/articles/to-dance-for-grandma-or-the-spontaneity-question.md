@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /to-dance-for-grandma-or-the-spontaneity-question/
+slug = "to-dance-for-grandma-or-the-spontaneity-question"
 title = "To Dance for Grandma, or the Spontaneity Question"
 +++
 

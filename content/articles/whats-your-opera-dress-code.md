@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /whats-your-opera-dress-code/
+slug = "whats-your-opera-dress-code"
 title = "What&#039;s your opera dress code?"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /artists-they-walk-among-us/
+slug = "artists-they-walk-among-us"
 title = "Artists: they walk among us"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /riders-of-the-purple-sage-meet-jane/
+slug = "riders-of-the-purple-sage-meet-jane"
 title = "Riders of the Purple Sage: meet Jane"
 +++
 

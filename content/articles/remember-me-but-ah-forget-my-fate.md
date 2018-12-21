@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /remember-me-but-ah-forget-my-fate/
+slug = "remember-me-but-ah-forget-my-fate"
 title = "&quot;Remember me, but ah, forget my fate&quot;"
 +++
 

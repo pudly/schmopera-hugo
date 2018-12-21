@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /graceful-exits-double-standards/
+slug = "graceful-exits-double-standards"
 title = "Graceful exits &amp; double standards"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /honing-your-craft-opera-courses-at-the-associated-studios/
+slug = "honing-your-craft-opera-courses-at-the-associated-studios"
 title = "Honing your craft: opera courses at The Associated Studios"
 +++
 

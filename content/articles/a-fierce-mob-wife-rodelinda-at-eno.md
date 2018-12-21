@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-fierce-mob-wife-rodelinda-at-eno/
+slug = "a-fierce-mob-wife-rodelinda-at-eno"
 title = "A fierce mob wife: Rodelinda at ENO"
 +++
 

@@ -1,5 +1,5 @@
 +++
-slug = /consonant-before-the-beat-on-time/
+slug = "consonant-before-the-beat-on-time"
 title = "Consonant before the beat = on time"
 +++
 

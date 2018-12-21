@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /banff-diaries-day-0/
+slug = "banff-diaries-day-0"
 title = "Banff Diaries: Day 0"
 +++
 

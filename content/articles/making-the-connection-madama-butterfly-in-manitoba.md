@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /making-the-connection-madama-butterfly-in-manitoba/
+slug = "making-the-connection-madama-butterfly-in-manitoba"
 title = "Making the connection: Madama Butterfly in Manitoba"
 +++
 

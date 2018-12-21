@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /cosi-a-day-in-the-life/
+slug = "cosi-a-day-in-the-life"
 title = "COSI: A day in the life"
 +++
 

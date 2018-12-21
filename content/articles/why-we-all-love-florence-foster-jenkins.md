@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /why-we-all-love-florence-foster-jenkins/
+slug = "why-we-all-love-florence-foster-jenkins"
 title = "Why we all love Florence Foster Jenkins"
 +++
 

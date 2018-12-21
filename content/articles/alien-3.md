@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /alien-3/
+slug = "alien-3"
 title = "Alien 3"
 +++
 

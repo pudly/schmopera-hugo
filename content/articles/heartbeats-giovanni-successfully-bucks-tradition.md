@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /heartbeats-giovanni-successfully-bucks-tradition/
+slug = "heartbeats-giovanni-successfully-bucks-tradition"
 title = "Heartbeat&#039;s Giovanni successfully bucks tradition"
 +++
 

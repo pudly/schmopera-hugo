@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /chatting-with-canadas-opera-biggies/
+slug = "chatting-with-canadas-opera-biggies"
 title = "Chatting with Canada&#039;s Opera Biggies"
 +++
 

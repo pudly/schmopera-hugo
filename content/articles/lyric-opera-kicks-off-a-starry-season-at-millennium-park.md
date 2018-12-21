@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /lyric-opera-kicks-off-a-starry-season-at-millennium-park/
+slug = "lyric-opera-kicks-off-a-starry-season-at-millennium-park"
 title = "Lyric Opera kicks off a starry season at Millennium Park"
 +++
 

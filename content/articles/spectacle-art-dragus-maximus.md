@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /spectacle-art-dragus-maximus/
+slug = "spectacle-art-dragus-maximus"
 title = "Spectacle &amp; art: Dragus Maximus"
 +++
 

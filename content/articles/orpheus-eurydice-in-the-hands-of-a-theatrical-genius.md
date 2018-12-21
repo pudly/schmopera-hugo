@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /orpheus-eurydice-in-the-hands-of-a-theatrical-genius/
+slug = "orpheus-eurydice-in-the-hands-of-a-theatrical-genius"
 title = "Orpheus &amp; Eurydice in the hands of a theatrical genius"
 +++
 

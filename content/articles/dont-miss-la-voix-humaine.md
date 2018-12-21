@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-la-voix-humaine/
+slug = "dont-miss-la-voix-humaine"
 title = "Don&#039;t miss: La voix humaine"
 +++
 

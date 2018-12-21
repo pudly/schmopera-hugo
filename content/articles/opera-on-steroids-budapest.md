@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /opera-on-steroids-budapest/
+slug = "opera-on-steroids-budapest"
 title = "Opera on Steroids: Budapest!"
 +++
 

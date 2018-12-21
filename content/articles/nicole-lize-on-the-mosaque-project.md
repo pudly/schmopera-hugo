@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /nicole-lize-on-the-mosaque-project/
+slug = "nicole-lize-on-the-mosaque-project"
 title = "Nicole Lizée on the Mosaïque Project"
 +++
 

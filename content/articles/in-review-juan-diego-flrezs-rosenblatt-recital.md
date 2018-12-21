@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-juan-diego-flrezs-rosenblatt-recital/
+slug = "in-review-juan-diego-flrezs-rosenblatt-recital"
 title = "In review: Juan Diego Flórez&#039;s Rosenblatt Recital"
 +++
 

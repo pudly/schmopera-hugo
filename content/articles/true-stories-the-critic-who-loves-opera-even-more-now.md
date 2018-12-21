@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /true-stories-the-critic-who-loves-opera-even-more-now/
+slug = "true-stories-the-critic-who-loves-opera-even-more-now"
 title = "True stories: the critic who loves opera even more now"
 +++
 

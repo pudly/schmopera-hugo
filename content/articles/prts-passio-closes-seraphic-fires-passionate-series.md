@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /prts-passio-closes-seraphic-fires-passionate-series/
+slug = "prts-passio-closes-seraphic-fires-passionate-series"
 title = "Pärt&#039;s Passio closes Seraphic Fire&#039;s passionate series"
 +++
 

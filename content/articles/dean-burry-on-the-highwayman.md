@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dean-burry-on-the-highwayman/
+slug = "dean-burry-on-the-highwayman"
 title = "Dean Burry on &quot;The Highwayman&quot;"
 +++
 

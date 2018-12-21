@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-jane-archibald-and-liz-upchurch/
+slug = "in-review-jane-archibald-and-liz-upchurch"
 title = "In review: Jane Archibald and Liz Upchurch"
 +++
 

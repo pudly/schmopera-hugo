@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /art-song-initiative-commissions-texts-by-children-with-autism/
+slug = "art-song-initiative-commissions-texts-by-children-with-autism"
 title = "Art song initiative commissions texts by children with autism"
 +++
 

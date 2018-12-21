@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /talking-opera-mythology-with-the-tfco/
+slug = "talking-opera-mythology-with-the-tfco"
 title = "Talking opera &amp; mythology with the TFCO"
 +++
 

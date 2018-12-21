@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-composers-chris-thornborrow/
+slug = "talking-with-composers-chris-thornborrow"
 title = "Talking with composers: Chris Thornborrow"
 +++
 

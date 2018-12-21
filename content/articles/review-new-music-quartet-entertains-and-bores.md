@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /review-new-music-quartet-entertains-and-bores/
+slug = "review-new-music-quartet-entertains-and-bores"
 title = "Review: New music quartet entertains and bores"
 +++
 

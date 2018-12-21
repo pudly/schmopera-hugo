@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /5-people-who-would-make-great-opera-roles/
+slug = "5-people-who-would-make-great-opera-roles"
 title = "5 people who would make great opera roles"
 +++
 

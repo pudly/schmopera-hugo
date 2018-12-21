@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /can-opera-make-money/
+slug = "can-opera-make-money"
 title = "Can Opera Make Money?"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /gems-is-your-gender-in-sonata-form/
+slug = "gems-is-your-gender-in-sonata-form"
 title = "Gems: is your gender in sonata form?"
 +++
 

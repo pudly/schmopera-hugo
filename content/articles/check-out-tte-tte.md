@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /check-out-tte-tte/
+slug = "check-out-tte-tte"
 title = "Check out: Tête à Tête"
 +++
 

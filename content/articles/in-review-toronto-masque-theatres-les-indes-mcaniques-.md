@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-toronto-masque-theatres-les-indes-mcaniques-/
+slug = "in-review-toronto-masque-theatres-les-indes-mcaniques-"
 title = "In review: Toronto Masque Theatre&#039;s Les Indes Mécaniques "
 +++
 

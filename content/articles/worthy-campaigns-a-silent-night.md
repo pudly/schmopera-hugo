@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /worthy-campaigns-a-silent-night/
+slug = "worthy-campaigns-a-silent-night"
 title = "Worthy campaigns: A Silent Night"
 +++
 

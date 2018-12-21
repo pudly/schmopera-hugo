@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /oundjian-conducts-a-favourite-vaughan-williams-at-the-tso/
+slug = "oundjian-conducts-a-favourite-vaughan-williams-at-the-tso"
 title = "Oundjian conducts a favourite: Vaughan Williams at the TSO"
 +++
 

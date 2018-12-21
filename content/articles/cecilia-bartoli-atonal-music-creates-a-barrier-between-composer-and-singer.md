@@ -1,5 +1,5 @@
 +++
-slug = /cecilia-bartoli-atonal-music-creates-a-barrier-between-composer-and-singer/
+slug = "cecilia-bartoli-atonal-music-creates-a-barrier-between-composer-and-singer"
 title = "Cecilia Bartoli: &quot;atonal music creates a barrier between composer and singer&quot;"
 +++
 

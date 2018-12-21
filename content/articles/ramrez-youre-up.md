@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /ramrez-youre-up/
+slug = "ramrez-youre-up"
 title = "Ramírez, you&#039;re up."
 +++
 

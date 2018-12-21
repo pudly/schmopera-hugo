@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /valerian-ruminski-or-those-who-forget-the-past-are-doomed-to-repeat-it/
+slug = "valerian-ruminski-or-those-who-forget-the-past-are-doomed-to-repeat-it"
 title = "Valerian Ruminski, or &quot;Those who forget the past are doomed to repeat it&quot;"
 +++
 

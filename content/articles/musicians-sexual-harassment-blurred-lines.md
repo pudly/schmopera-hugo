@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /musicians-sexual-harassment-blurred-lines/
+slug = "musicians-sexual-harassment-blurred-lines"
 title = "Musicians, sexual harassment, &amp; blurred lines"
 +++
 

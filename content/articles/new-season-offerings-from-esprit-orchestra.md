@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /new-season-offerings-from-esprit-orchestra/
+slug = "new-season-offerings-from-esprit-orchestra"
 title = "New season offerings from Esprit Orchestra"
 +++
 

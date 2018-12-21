@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-rene-fleming-joins-opening-night-at-the-tso/
+slug = "in-review-rene-fleming-joins-opening-night-at-the-tso"
 title = "In review: Renée Fleming joins opening night at the TSO"
 +++
 

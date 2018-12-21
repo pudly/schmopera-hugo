@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-the-songs-of-leonard-cohen/
+slug = "dont-miss-the-songs-of-leonard-cohen"
 title = "Don&#039;t miss: the songs of Leonard Cohen"
 +++
 

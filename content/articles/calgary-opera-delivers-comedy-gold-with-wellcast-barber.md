@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /calgary-opera-delivers-comedy-gold-with-wellcast-barber/
+slug = "calgary-opera-delivers-comedy-gold-with-wellcast-barber"
 title = "Calgary Opera delivers comedy gold with well-cast Barber"
 +++
 

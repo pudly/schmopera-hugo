@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /substance-abuse-in-the-opera-industry-yup-but-why/
+slug = "substance-abuse-in-the-opera-industry-yup-but-why"
 title = "Substance abuse in the opera industry, yup. But why?"
 +++
 

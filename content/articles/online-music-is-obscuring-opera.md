@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /online-music-is-obscuring-opera/
+slug = "online-music-is-obscuring-opera"
 title = "Online Music is Obscuring Opera"
 +++
 

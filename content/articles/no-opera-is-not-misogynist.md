@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /no-opera-is-not-misogynist/
+slug = "no-opera-is-not-misogynist"
 title = "No, opera is not misogynist"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /pianists-wheres-the-fire/
+slug = "pianists-wheres-the-fire"
 title = "Pianists: where&#039;s the fire?"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /shining-a-light-toward-tomorrow/
+slug = "shining-a-light-toward-tomorrow"
 title = "Shining a light: Toward Tomorrow"
 +++
 

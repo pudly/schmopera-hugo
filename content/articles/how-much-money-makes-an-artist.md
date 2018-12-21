@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /how-much-money-makes-an-artist/
+slug = "how-much-money-makes-an-artist"
 title = "How Much Money Makes an Artist?"
 +++
 

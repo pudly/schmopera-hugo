@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /yes-please-jonas-kaufmann-on-the-big-screen/
+slug = "yes-please-jonas-kaufmann-on-the-big-screen"
 title = "Yes, please: Jonas Kaufmann on the big screen"
 +++
 

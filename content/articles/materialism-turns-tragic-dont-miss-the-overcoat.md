@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /materialism-turns-tragic-dont-miss-the-overcoat/
+slug = "materialism-turns-tragic-dont-miss-the-overcoat"
 title = "Materialism turns tragic: don&#039;t miss The Overcoat"
 +++
 

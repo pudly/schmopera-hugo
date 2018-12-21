@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /the-future-of-opera-is-indie/
+slug = "the-future-of-opera-is-indie"
 title = "The Future of Opera is Indie"
 +++
 

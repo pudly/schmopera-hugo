@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /on-the-air-sunday-night-with-the-tso/
+slug = "on-the-air-sunday-night-with-the-tso"
 title = "On the air: Sunday Night with the TSO"
 +++
 

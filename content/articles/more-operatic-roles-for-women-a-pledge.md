@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /more-operatic-roles-for-women-a-pledge/
+slug = "more-operatic-roles-for-women-a-pledge"
 title = "More operatic roles for women: a pledge"
 +++
 

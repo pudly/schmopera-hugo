@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /stormy-weather-6-nasty-opera-tempests/
+slug = "stormy-weather-6-nasty-opera-tempests"
 title = "Stormy weather: 6 nasty opera tempests"
 +++
 

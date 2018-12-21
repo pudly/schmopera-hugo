@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /anticipation-cmim-aria-semifinals-part-i/
+slug = "anticipation-cmim-aria-semifinals-part-i"
 title = "Anticipation: CMIM Aria Semifinals, part I"
 +++
 

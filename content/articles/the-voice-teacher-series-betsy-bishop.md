@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /the-voice-teacher-series-betsy-bishop/
+slug = "the-voice-teacher-series-betsy-bishop"
 title = "The voice teacher series: Betsy Bishop"
 +++
 

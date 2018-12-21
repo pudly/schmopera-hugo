@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /heartfelt-and-intimate-manitoba-operas-la-traviata/
+slug = "heartfelt-and-intimate-manitoba-operas-la-traviata"
 title = "Heartfelt and intimate: Manitoba Opera&#039;s La Traviata"
 +++
 

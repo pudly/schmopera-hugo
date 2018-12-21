@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /charlotte-church-the-latest-voice-in-musics-trump-boycott/
+slug = "charlotte-church-the-latest-voice-in-musics-trump-boycott"
 title = "Charlotte Church the latest voice in music&#039;s Trump boycott"
 +++
 

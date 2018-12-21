@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /leslie-dala-on-postcard-from-morocco-julie-and-his-conducting-bucket-list/
+slug = "leslie-dala-on-postcard-from-morocco-julie-and-his-conducting-bucket-list"
 title = "Leslie Dala, on Postcard from Morocco, Julie, and His Conducting Bucket List"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /go-hear-majesty-madness-murder/
+slug = "go-hear-majesty-madness-murder"
 title = "Go hear Majesty, Madness &amp; Murder"
 +++
 

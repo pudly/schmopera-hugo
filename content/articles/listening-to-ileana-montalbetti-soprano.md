@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /listening-to-ileana-montalbetti-soprano/
+slug = "listening-to-ileana-montalbetti-soprano"
 title = "Listening to: Ileana Montalbetti, soprano"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /36-high-cs-to-perk-up-your-day/
+slug = "36-high-cs-to-perk-up-your-day"
 title = "36 high C&#039;s to perk up your day"
 +++
 

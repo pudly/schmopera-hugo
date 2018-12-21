@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /take-a-joke-have-a-nap/
+slug = "take-a-joke-have-a-nap"
 title = "Take a joke, have a nap"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /how-i-acted-my-way-into-an-opera-career/
+slug = "how-i-acted-my-way-into-an-opera-career"
 title = "How I acted my way into an opera career"
 +++
 

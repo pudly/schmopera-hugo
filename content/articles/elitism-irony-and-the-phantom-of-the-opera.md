@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /elitism-irony-and-the-phantom-of-the-opera/
+slug = "elitism-irony-and-the-phantom-of-the-opera"
 title = "Elitism, Irony, and The Phantom of the Opera"
 +++
 

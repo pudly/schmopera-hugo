@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /not-quite-in-review-the-coc-ensemble-studios-barber-of-seville/
+slug = "not-quite-in-review-the-coc-ensemble-studios-barber-of-seville"
 title = "(not quite) In review: The COC Ensemble Studio&#039;s Barber of Seville"
 +++
 

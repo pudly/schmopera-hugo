@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-rowan-pierce-the-london-handel-players/
+slug = "in-review-rowan-pierce-the-london-handel-players"
 title = "In review: Rowan Pierce &amp; the London Handel Players"
 +++
 

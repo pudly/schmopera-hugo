@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /josephine-and-the-artizans-we-call-it-hiphopera/
+slug = "josephine-and-the-artizans-we-call-it-hiphopera"
 title = "Josephine and The Artizans: &quot;We call it hip-hopera.&quot;"
 +++
 

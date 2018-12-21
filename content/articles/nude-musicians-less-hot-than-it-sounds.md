@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /nude-musicians-less-hot-than-it-sounds/
+slug = "nude-musicians-less-hot-than-it-sounds"
 title = "Nude musicians: less hot than it sounds"
 +++
 

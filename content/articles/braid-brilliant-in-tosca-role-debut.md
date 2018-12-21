@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /braid-brilliant-in-tosca-role-debut/
+slug = "braid-brilliant-in-tosca-role-debut"
 title = "Braid &quot;brilliant&quot; in Tosca role debut"
 +++
 

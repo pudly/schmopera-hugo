@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /simpler-cos-offers-sizzle-substance-for-emerging-artists/
+slug = "simpler-cos-offers-sizzle-substance-for-emerging-artists"
 title = "Simpler Così offers sizzle &amp; substance for Emerging Artists"
 +++
 

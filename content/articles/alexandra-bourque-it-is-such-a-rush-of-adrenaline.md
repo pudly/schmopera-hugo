@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /alexandra-bourque-it-is-such-a-rush-of-adrenaline/
+slug = "alexandra-bourque-it-is-such-a-rush-of-adrenaline"
 title = "Alexandra Bourque: &quot;It is such a rush of adrenaline.&quot;"
 +++
 

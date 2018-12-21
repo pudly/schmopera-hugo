@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /kevin-puts-i-know-who-i-am-as-a-composer/
+slug = "kevin-puts-i-know-who-i-am-as-a-composer"
 title = "Kevin Puts: &quot;I know who I am as a composer.&quot;"
 +++
 

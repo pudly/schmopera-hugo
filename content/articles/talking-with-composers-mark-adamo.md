@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-composers-mark-adamo/
+slug = "talking-with-composers-mark-adamo"
 title = "Talking with composers: Mark Adamo"
 +++
 

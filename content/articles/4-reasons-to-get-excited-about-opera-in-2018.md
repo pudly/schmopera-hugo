@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /4-reasons-to-get-excited-about-opera-in-2018/
+slug = "4-reasons-to-get-excited-about-opera-in-2018"
 title = "4 reasons to get excited about opera in 2018"
 +++
 

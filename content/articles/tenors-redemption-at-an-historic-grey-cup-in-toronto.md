@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /tenors-redemption-at-an-historic-grey-cup-in-toronto/
+slug = "tenors-redemption-at-an-historic-grey-cup-in-toronto"
 title = "Tenors&#039; redemption at an historic Grey Cup in Toronto"
 +++
 

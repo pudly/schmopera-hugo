@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /brian-mulligan-singing-jack-torrance/
+slug = "brian-mulligan-singing-jack-torrance"
 title = "Brian Mulligan: singing Jack Torrance"
 +++
 

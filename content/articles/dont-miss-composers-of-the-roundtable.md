@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-composers-of-the-roundtable/
+slug = "dont-miss-composers-of-the-roundtable"
 title = "Don&#039;t miss: Composers (of the) Roundtable"
 +++
 

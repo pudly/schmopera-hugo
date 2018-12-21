@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /opera-5s-barber-fab-singing-spanish-flair/
+slug = "opera-5s-barber-fab-singing-spanish-flair"
 title = "Opera 5&#039;s Barber: fab singing &amp; Spanish flair"
 +++
 

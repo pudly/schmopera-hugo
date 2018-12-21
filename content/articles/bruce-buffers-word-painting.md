@@ -1,5 +1,5 @@
 +++
-slug = /bruce-buffers-word-painting/
+slug = "bruce-buffers-word-painting"
 title = "Bruce Buffer&#039;s word painting"
 +++
 

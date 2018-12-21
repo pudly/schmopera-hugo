@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /artists-to-watch-2-new-singing-stars-of-tomorrow/
+slug = "artists-to-watch-2-new-singing-stars-of-tomorrow"
 title = "Artists to watch: 2 new singing stars of tomorrow"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /4-ways-to-test-your-memory/
+slug = "4-ways-to-test-your-memory"
 title = "4 ways to test your memory"
 +++
 

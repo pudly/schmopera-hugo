@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /boys-who-are-girls-who-love-girls-that-are-boys-or-handels-alcina/
+slug = "boys-who-are-girls-who-love-girls-that-are-boys-or-handels-alcina"
 title = "Boys who are girls who love girls that are boys, or, Handel&#039;s Alcina"
 +++
 

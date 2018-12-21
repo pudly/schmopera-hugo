@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /6-animals-who-love-opera-more-than-penguins/
+slug = "6-animals-who-love-opera-more-than-penguins"
 title = "6 animals who love opera more than penguins"
 +++
 

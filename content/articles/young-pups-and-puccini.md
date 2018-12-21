@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /young-pups-and-puccini/
+slug = "young-pups-and-puccini"
 title = "Young Pups and Puccini"
 +++
 

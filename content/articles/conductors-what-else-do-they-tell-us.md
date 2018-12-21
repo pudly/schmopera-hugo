@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /conductors-what-else-do-they-tell-us/
+slug = "conductors-what-else-do-they-tell-us"
 title = "Conductors: what else do they tell us?"
 +++
 

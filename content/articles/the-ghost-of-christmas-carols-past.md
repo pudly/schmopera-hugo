@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /the-ghost-of-christmas-carols-past/
+slug = "the-ghost-of-christmas-carols-past"
 title = "The Ghost of Christmas Carols Past"
 +++
 

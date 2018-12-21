@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /jeremy-dutcher-deep-in-dialogue-with-his-roots/
+slug = "jeremy-dutcher-deep-in-dialogue-with-his-roots"
 title = "Jeremy Dutcher: &quot;deep in dialogue&quot; with his roots"
 +++
 

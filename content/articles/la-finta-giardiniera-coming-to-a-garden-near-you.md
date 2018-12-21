@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /la-finta-giardiniera-coming-to-a-garden-near-you/
+slug = "la-finta-giardiniera-coming-to-a-garden-near-you"
 title = "La finta giardiniera, coming to a garden near you"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /we-dont-have-the-cash-to-carry-on/
+slug = "we-dont-have-the-cash-to-carry-on"
 title = "&quot;We don&#039;t have the cash to carry on.&quot;"
 +++
 

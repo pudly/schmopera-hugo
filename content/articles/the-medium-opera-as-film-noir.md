@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /the-medium-opera-as-film-noir/
+slug = "the-medium-opera-as-film-noir"
 title = "The Medium: opera as film noir"
 +++
 

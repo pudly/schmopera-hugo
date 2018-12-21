@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-shining-violetta-in-washington/
+slug = "a-shining-violetta-in-washington"
 title = "A shining Violetta in Washington"
 +++
 

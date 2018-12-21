@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /good-ideas-adult-summer-acting-intensive/
+slug = "good-ideas-adult-summer-acting-intensive"
 title = "Good ideas: Adult Summer Acting Intensive"
 +++
 

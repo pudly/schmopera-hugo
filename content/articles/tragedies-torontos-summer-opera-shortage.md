@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /tragedies-torontos-summer-opera-shortage/
+slug = "tragedies-torontos-summer-opera-shortage"
 title = "Tragedies: Toronto&#039;s summer opera shortage"
 +++
 

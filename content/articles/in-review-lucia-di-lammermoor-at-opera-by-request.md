@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-lucia-di-lammermoor-at-opera-by-request/
+slug = "in-review-lucia-di-lammermoor-at-opera-by-request"
 title = "In review: Lucia di Lammermoor at Opera By Request"
 +++
 

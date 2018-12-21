@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /over-the-misty-mountains-the-ccoc-on-the-hobbit/
+slug = "over-the-misty-mountains-the-ccoc-on-the-hobbit"
 title = "Over the Misty Mountains: the CCOC on The Hobbit"
 +++
 

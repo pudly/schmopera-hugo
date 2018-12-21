@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /pianists-3-tips-for-sounding-like-an-orchestra/
+slug = "pianists-3-tips-for-sounding-like-an-orchestra"
 title = "Pianists: 3 tips for sounding like an orchestra"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /overthinking-it-and-other-traps/
+slug = "overthinking-it-and-other-traps"
 title = "Overthinking it and other traps"
 +++
 

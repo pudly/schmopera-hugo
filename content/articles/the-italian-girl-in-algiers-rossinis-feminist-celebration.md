@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /the-italian-girl-in-algiers-rossinis-feminist-celebration/
+slug = "the-italian-girl-in-algiers-rossinis-feminist-celebration"
 title = "The Italian Girl in Algiers: Rossini&#039;s &quot;feminist celebration&quot;"
 +++
 

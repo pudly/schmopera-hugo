@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /blos-threepenny-opera-a-misanthropic-delight/
+slug = "blos-threepenny-opera-a-misanthropic-delight"
 title = "BLO&#039;s Threepenny Opera: a misanthropic delight"
 +++
 

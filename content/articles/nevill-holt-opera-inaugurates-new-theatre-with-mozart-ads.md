@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /nevill-holt-opera-inaugurates-new-theatre-with-mozart-ads/
+slug = "nevill-holt-opera-inaugurates-new-theatre-with-mozart-ads"
 title = "Nevill Holt Opera inaugurates new theatre with Mozart &amp; Adès"
 +++
 

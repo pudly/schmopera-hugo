@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /album-review-nights-not-spent-alone/
+slug = "album-review-nights-not-spent-alone"
 title = "Album review: Nights Not Spent Alone"
 +++
 

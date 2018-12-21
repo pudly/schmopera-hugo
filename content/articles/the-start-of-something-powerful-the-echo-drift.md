@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /the-start-of-something-powerful-the-echo-drift/
+slug = "the-start-of-something-powerful-the-echo-drift"
 title = "The start of something powerful: The Echo Drift"
 +++
 

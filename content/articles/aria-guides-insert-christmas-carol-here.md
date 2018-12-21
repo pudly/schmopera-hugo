@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /aria-guides-insert-christmas-carol-here/
+slug = "aria-guides-insert-christmas-carol-here"
 title = "Aria guides: [insert Christmas carol here]"
 +++
 

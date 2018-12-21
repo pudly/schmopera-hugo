@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /great-ideas-devoted-disgruntled/
+slug = "great-ideas-devoted-disgruntled"
 title = "Great ideas: Devoted &amp; Disgruntled"
 +++
 

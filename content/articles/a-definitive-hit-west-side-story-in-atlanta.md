@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-definitive-hit-west-side-story-in-atlanta/
+slug = "a-definitive-hit-west-side-story-in-atlanta"
 title = "A definitive hit: West Side Story in Atlanta"
 +++
 

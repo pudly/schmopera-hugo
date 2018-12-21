@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /edmonton-opera-delivers-imaginative-inspired-don-giovanni/
+slug = "edmonton-opera-delivers-imaginative-inspired-don-giovanni"
 title = "Edmonton Opera delivers imaginative, inspired Don Giovanni"
 +++
 

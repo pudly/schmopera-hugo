@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-lucia-with-agency-and-independence-at-the-royal-opera-house/
+slug = "a-lucia-with-agency-and-independence-at-the-royal-opera-house"
 title = "A Lucia with agency and independence at the Royal Opera House"
 +++
 

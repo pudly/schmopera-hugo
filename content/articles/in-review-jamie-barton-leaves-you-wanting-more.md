@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-jamie-barton-leaves-you-wanting-more/
+slug = "in-review-jamie-barton-leaves-you-wanting-more"
 title = "In review: Jamie Barton leaves you wanting more"
 +++
 

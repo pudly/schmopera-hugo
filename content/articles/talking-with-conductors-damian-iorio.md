@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-conductors-damian-iorio/
+slug = "talking-with-conductors-damian-iorio"
 title = "Talking with conductors: Damian Iorio"
 +++
 

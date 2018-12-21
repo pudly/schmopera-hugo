@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /regietheater-ja-oder-nein/
+slug = "regietheater-ja-oder-nein"
 title = "Regietheater? Ja oder nein?"
 +++
 

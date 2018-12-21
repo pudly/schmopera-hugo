@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /a-comprimario-amid-a-huge-sweeping-romantic-love-story/
+slug = "a-comprimario-amid-a-huge-sweeping-romantic-love-story"
 title = "A comprimario amid a &quot;huge, sweeping, romantic love story&quot;"
 +++
 

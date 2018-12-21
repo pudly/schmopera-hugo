@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /trousers-on-tv-4-animated-pants-roles/
+slug = "trousers-on-tv-4-animated-pants-roles"
 title = "Trousers on TV: 4 animated pants roles"
 +++
 

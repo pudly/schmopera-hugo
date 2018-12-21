@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /die-fledermaus-adaptation-delivers-effervescent-performance/
+slug = "die-fledermaus-adaptation-delivers-effervescent-performance"
 title = "Die Fledermaus adaptation delivers effervescent performance"
 +++
 

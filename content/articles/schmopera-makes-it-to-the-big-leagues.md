@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /schmopera-makes-it-to-the-big-leagues/
+slug = "schmopera-makes-it-to-the-big-leagues"
 title = "Schmopera makes it to the big leagues"
 +++
 

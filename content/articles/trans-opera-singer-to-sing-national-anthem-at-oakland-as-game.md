@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /trans-opera-singer-to-sing-national-anthem-at-oakland-as-game/
+slug = "trans-opera-singer-to-sing-national-anthem-at-oakland-as-game"
 title = "Trans opera singer to sing national anthem at Oakland A&#039;s game"
 +++
 

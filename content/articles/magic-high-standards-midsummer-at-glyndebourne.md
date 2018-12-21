@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /magic-high-standards-midsummer-at-glyndebourne/
+slug = "magic-high-standards-midsummer-at-glyndebourne"
 title = "Magic &amp; high standards: Midsummer at Glyndebourne"
 +++
 

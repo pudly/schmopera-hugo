@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /banff-diaries-the-midway-report/
+slug = "banff-diaries-the-midway-report"
 title = "Banff Diaries: the mid-way report"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /constantly-new-the-kronos-quartet/
+slug = "constantly-new-the-kronos-quartet"
 title = "Constantly new: the Kronos Quartet"
 +++
 

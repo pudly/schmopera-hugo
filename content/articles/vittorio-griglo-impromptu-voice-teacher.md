@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /vittorio-griglo-impromptu-voice-teacher/
+slug = "vittorio-griglo-impromptu-voice-teacher"
 title = "Vittorio Grigòlo, impromptu voice teacher"
 +++
 

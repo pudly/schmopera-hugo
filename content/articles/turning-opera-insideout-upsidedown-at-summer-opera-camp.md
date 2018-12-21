@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /turning-opera-insideout-upsidedown-at-summer-opera-camp/
+slug = "turning-opera-insideout-upsidedown-at-summer-opera-camp"
 title = "Turning opera &quot;inside-out, upside-down&quot; at Summer Opera Camp"
 +++
 

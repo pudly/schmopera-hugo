@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-fiery-love-triangle-les-feluettes-at-edmonton-opera/
+slug = "a-fiery-love-triangle-les-feluettes-at-edmonton-opera"
 title = "A fiery love triangle: Les feluettes at Edmonton Opera"
 +++
 

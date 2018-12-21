@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /on-a-mental-precipice-hgos-elektra/
+slug = "on-a-mental-precipice-hgos-elektra"
 title = "On a mental precipice: HGO&#039;s Elektra"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dont-miss-odyssey-operas-season-opener/
+slug = "dont-miss-odyssey-operas-season-opener"
 title = "Don&#039;t miss: Odyssey Opera&#039;s season opener"
 +++
 

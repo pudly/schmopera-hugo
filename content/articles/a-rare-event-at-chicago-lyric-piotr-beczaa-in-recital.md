@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /a-rare-event-at-chicago-lyric-piotr-beczaa-in-recital/
+slug = "a-rare-event-at-chicago-lyric-piotr-beczaa-in-recital"
 title = "A &quot;rare event&quot; at Chicago Lyric: Piotr Beczała in recital"
 +++
 

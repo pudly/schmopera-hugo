@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /thrilling-nights-boys-of-paradise/
+slug = "thrilling-nights-boys-of-paradise"
 title = "Thrilling nights: Boys of Paradise"
 +++
 

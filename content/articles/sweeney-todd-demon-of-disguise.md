@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /sweeney-todd-demon-of-disguise/
+slug = "sweeney-todd-demon-of-disguise"
 title = "Sweeney Todd: Demon of Disguise"
 +++
 

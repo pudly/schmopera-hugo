@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-tcherniakovs-don-giovanni/
+slug = "in-review-tcherniakovs-don-giovanni"
 title = "In review: Tcherniakov&#039;s Don Giovanni"
 +++
 

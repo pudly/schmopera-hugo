@@ -1,5 +1,5 @@
 +++
-slug = /meet-the-folks-alaina-viau-of-loose-tea/
+slug = "meet-the-folks-alaina-viau-of-loose-tea"
 title = "Meet the folks: Alaina Viau of Loose TEA"
 +++
 

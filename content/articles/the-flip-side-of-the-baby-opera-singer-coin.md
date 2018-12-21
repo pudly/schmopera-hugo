@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /the-flip-side-of-the-baby-opera-singer-coin/
+slug = "the-flip-side-of-the-baby-opera-singer-coin"
 title = "The flip side of the baby opera singer coin"
 +++
 

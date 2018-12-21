@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /adi-braun-the-moderne-frau/
+slug = "adi-braun-the-moderne-frau"
 title = "Adi Braun, the Moderne Frau"
 +++
 

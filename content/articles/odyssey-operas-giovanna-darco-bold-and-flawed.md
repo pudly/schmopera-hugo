@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /odyssey-operas-giovanna-darco-bold-and-flawed/
+slug = "odyssey-operas-giovanna-darco-bold-and-flawed"
 title = "Odyssey Opera&#039;s Giovanna D&#039;Arco Bold and Flawed"
 +++
 

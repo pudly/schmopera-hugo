@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /rarities-opera-stage-parents/
+slug = "rarities-opera-stage-parents"
 title = "Rarities: opera stage parents"
 +++
 

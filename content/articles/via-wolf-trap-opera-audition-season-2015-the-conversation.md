@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /via-wolf-trap-opera-audition-season-2015-the-conversation/
+slug = "via-wolf-trap-opera-audition-season-2015-the-conversation"
 title = "via Wolf Trap Opera, Audition Season 2015: the conversation"
 +++
 

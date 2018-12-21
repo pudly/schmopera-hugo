@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /delightfully-creepy-mahogany-opera-groups-the-rattler/
+slug = "delightfully-creepy-mahogany-opera-groups-the-rattler"
 title = "Delightfully creepy: Mahogany Opera Group&#039;s The Rattler"
 +++
 

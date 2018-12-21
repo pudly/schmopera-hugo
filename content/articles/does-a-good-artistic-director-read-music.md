@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /does-a-good-artistic-director-read-music/
+slug = "does-a-good-artistic-director-read-music"
 title = "Does a Good Artistic Director Read Music?"
 +++
 

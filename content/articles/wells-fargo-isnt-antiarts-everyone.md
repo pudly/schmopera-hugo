@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /wells-fargo-isnt-antiarts-everyone/
+slug = "wells-fargo-isnt-antiarts-everyone"
 title = "Wells Fargo isn&#039;t anti-arts, everyone"
 +++
 

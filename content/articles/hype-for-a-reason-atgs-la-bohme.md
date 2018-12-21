@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /hype-for-a-reason-atgs-la-bohme/
+slug = "hype-for-a-reason-atgs-la-bohme"
 title = "Hype for a reason: AtG&#039;s La bohème"
 +++
 

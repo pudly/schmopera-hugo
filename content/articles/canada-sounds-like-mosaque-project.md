@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /canada-sounds-like-mosaque-project/
+slug = "canada-sounds-like-mosaque-project"
 title = "Canada sounds like: Mosaïque Project"
 +++
 

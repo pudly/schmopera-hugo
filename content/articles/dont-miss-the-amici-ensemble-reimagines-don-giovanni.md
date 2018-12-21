@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-the-amici-ensemble-reimagines-don-giovanni/
+slug = "dont-miss-the-amici-ensemble-reimagines-don-giovanni"
 title = "Don&#039;t miss: the Amici Ensemble reimagines Don Giovanni"
 +++
 

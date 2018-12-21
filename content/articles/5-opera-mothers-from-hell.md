@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /5-opera-mothers-from-hell/
+slug = "5-opera-mothers-from-hell"
 title = "5 opera mothers from hell"
 +++
 

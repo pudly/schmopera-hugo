@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /don-giovanni-at-the-estates-theatre/
+slug = "don-giovanni-at-the-estates-theatre"
 title = "Don Giovanni at the Estates Theatre"
 +++
 

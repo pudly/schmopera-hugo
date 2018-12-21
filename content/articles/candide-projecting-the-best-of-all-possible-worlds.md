@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /candide-projecting-the-best-of-all-possible-worlds/
+slug = "candide-projecting-the-best-of-all-possible-worlds"
 title = "Candide: projecting the best of all possible worlds"
 +++
 

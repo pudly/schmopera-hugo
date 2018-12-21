@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /mustsee-mashups-mozart-vs-machine/
+slug = "mustsee-mashups-mozart-vs-machine"
 title = "Must-see mash-ups: Mozart vs Machine"
 +++
 

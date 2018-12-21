@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /mozart-ladies-with-a-twist-miriam-khalil-shantelle-przybylo/
+slug = "mozart-ladies-with-a-twist-miriam-khalil-shantelle-przybylo"
 title = "Mozart ladies with a twist: Miriam Khalil &amp; Shantelle Przybylo"
 +++
 

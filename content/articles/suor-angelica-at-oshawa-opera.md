@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /suor-angelica-at-oshawa-opera/
+slug = "suor-angelica-at-oshawa-opera"
 title = "Suor Angelica at Oshawa Opera"
 +++
 

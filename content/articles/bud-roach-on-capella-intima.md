@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /bud-roach-on-capella-intima/
+slug = "bud-roach-on-capella-intima"
 title = "Bud Roach, on Capella Intima"
 +++
 

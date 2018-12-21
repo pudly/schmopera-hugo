@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /tots-pirates-of-penzance-a-glorious-thing/
+slug = "tots-pirates-of-penzance-a-glorious-thing"
 title = "TOT&#039;s Pirates of Penzance: &quot;A glorious thing&quot;"
 +++
 

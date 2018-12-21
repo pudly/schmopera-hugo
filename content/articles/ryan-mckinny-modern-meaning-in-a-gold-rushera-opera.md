@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /ryan-mckinny-modern-meaning-in-a-gold-rushera-opera/
+slug = "ryan-mckinny-modern-meaning-in-a-gold-rushera-opera"
 title = "Ryan McKinny: Modern meaning in a Gold Rush-era opera"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-directors-jennifer-williams/
+slug = "talking-with-directors-jennifer-williams"
 title = "Talking with directors: Jennifer Williams"
 +++
 

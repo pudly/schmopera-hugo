@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /and-she-was-an-opera-singer/
+slug = "and-she-was-an-opera-singer"
 title = "....AND she was an opera singer"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-composers-andrew-staniland/
+slug = "talking-with-composers-andrew-staniland"
 title = "Talking with composers: Andrew Staniland"
 +++
 

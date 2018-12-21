@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /the-microphone-question/
+slug = "the-microphone-question"
 title = "The Microphone Question"
 +++
 

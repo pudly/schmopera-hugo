@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-singers-beste-kalender/
+slug = "talking-with-singers-beste-kalender"
 title = "Talking with singers: Beste Kalender"
 +++
 

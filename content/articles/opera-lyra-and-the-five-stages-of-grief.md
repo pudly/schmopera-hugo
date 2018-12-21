@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /opera-lyra-and-the-five-stages-of-grief/
+slug = "opera-lyra-and-the-five-stages-of-grief"
 title = "Opera Lyra and the Five Stages of Grief"
 +++
 

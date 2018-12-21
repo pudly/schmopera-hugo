@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /arts-education-teaches-better-manners-more-preaching-to-the-choir/
+slug = "arts-education-teaches-better-manners-more-preaching-to-the-choir"
 title = "Arts education teaches better manners, &amp; more preaching to the choir"
 +++
 

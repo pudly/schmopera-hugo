@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /meet-the-director-liza-balkan/
+slug = "meet-the-director-liza-balkan"
 title = "Meet the director: Liza Balkan"
 +++
 

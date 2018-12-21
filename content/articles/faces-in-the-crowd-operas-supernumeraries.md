@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /faces-in-the-crowd-operas-supernumeraries/
+slug = "faces-in-the-crowd-operas-supernumeraries"
 title = "Faces in the crowd: opera&#039;s supernumeraries"
 +++
 

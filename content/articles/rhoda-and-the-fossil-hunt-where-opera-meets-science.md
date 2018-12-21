@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /rhoda-and-the-fossil-hunt-where-opera-meets-science/
+slug = "rhoda-and-the-fossil-hunt-where-opera-meets-science"
 title = "Rhoda and the Fossil Hunt: where opera meets science"
 +++
 

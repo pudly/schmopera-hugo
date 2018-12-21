@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /jerry-springer-the-opera-hits-new-york/
+slug = "jerry-springer-the-opera-hits-new-york"
 title = "Jerry Springer - The Opera hits New York"
 +++
 

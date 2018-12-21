@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /opera-and-scifi-the-puritan-intersection/
+slug = "opera-and-scifi-the-puritan-intersection"
 title = "Opera and sci-fi: the puritan intersection"
 +++
 

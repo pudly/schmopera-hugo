@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /10-years-of-the-met-at-the-movies/
+slug = "10-years-of-the-met-at-the-movies"
 title = "10 Years of the Met at the Movies"
 +++
 

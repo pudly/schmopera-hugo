@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-tapestry-briefs-booster-shots/
+slug = "in-review-tapestry-briefs-booster-shots"
 title = "In review: Tapestry Briefs: Booster Shots"
 +++
 

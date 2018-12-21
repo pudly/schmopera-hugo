@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /and-he-never-came-back/
+slug = "and-he-never-came-back"
 title = "And he never came back"
 +++
 

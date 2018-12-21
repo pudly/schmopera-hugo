@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /draculas-neighbour-nancy-allen-lundy/
+slug = "draculas-neighbour-nancy-allen-lundy"
 title = "Dracula&#039;s neighbour: Nancy Allen Lundy"
 +++
 

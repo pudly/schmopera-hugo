@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /whats-the-deal-with-canadian-music/
+slug = "whats-the-deal-with-canadian-music"
 title = "What&#039;s the deal with Canadian music?"
 +++
 

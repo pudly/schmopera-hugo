@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /a-fine-mess-an-emerging-opera-composer-vs-the-american-new-opera-machine/
+slug = "a-fine-mess-an-emerging-opera-composer-vs-the-american-new-opera-machine"
 title = "A fine mess: an emerging opera composer vs. the American new opera machine"
 +++
 

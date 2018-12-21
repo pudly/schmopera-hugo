@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /just-in-the-crowdsourced-melody-is-complete/
+slug = "just-in-the-crowdsourced-melody-is-complete"
 title = "Just in: the crowdsourced melody is complete"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /meet-the-folks-collectf/
+slug = "meet-the-folks-collectf"
 title = "Meet the folks: Collectìf"
 +++
 

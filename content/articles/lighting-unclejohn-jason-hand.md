@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /lighting-unclejohn-jason-hand/
+slug = "lighting-unclejohn-jason-hand"
 title = "Lighting #UncleJohn: Jason Hand"
 +++
 

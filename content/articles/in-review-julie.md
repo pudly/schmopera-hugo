@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-julie/
+slug = "in-review-julie"
 title = "In review: Julie"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /audition-arias-101-the-young-singers-guide/
+slug = "audition-arias-101-the-young-singers-guide"
 title = "Audition arias 101: the young singer&#039;s guide"
 +++
 

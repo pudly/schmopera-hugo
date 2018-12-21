@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /american-opera-projects-youre-seeing-the-opera-in-microcosm/
+slug = "american-opera-projects-youre-seeing-the-opera-in-microcosm"
 title = "American Opera Projects: &quot;You&#039;re seeing the opera in microcosm.&quot;"
 +++
 

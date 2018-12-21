@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /varied-opera-bites-delivers-interesting-delectable-morsels/
+slug = "varied-opera-bites-delivers-interesting-delectable-morsels"
 title = "Varied Opera Bites delivers interesting &amp; delectable morsels"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /taking-the-leap-from-freelance-to-fulltime/
+slug = "taking-the-leap-from-freelance-to-fulltime"
 title = "Taking the leap from freelance to full-time"
 +++
 

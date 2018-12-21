@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /the-olympics-of-singing-semiramide-at-roh/
+slug = "the-olympics-of-singing-semiramide-at-roh"
 title = "The Olympics of Singing: Semiramide at ROH"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /im-chuffed/
+slug = "im-chuffed"
 title = "&quot;I&#039;m chuffed!&quot;"
 +++
 

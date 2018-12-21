@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /sky-on-swings-a-mustsee-of-o18/
+slug = "sky-on-swings-a-mustsee-of-o18"
 title = "Sky on Swings a must-see of O18"
 +++
 

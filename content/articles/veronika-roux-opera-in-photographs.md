@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /veronika-roux-opera-in-photographs/
+slug = "veronika-roux-opera-in-photographs"
 title = "Veronika Roux: opera in photographs"
 +++
 

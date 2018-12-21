@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /toni-castells-new-operas-new-science/
+slug = "toni-castells-new-operas-new-science"
 title = "Toni Castells: new operas, &amp; new science"
 +++
 

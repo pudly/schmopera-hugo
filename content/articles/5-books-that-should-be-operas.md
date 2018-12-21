@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /5-books-that-should-be-operas/
+slug = "5-books-that-should-be-operas"
 title = "5 books that should be operas"
 +++
 

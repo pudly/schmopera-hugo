@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /arianna-zukerman-youve-got-to-live-your-truth/
+slug = "arianna-zukerman-youve-got-to-live-your-truth"
 title = "Arianna Zukerman: &quot;You&#039;ve got to live your truth.&quot;"
 +++
 

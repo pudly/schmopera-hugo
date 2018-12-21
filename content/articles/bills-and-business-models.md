@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /bills-and-business-models/
+slug = "bills-and-business-models"
 title = "Bills and Business Models"
 +++
 

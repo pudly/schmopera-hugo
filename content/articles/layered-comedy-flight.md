@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /layered-comedy-flight/
+slug = "layered-comedy-flight"
 title = "Layered comedy: Flight"
 +++
 

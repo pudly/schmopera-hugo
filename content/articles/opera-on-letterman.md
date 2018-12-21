@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /opera-on-letterman/
+slug = "opera-on-letterman"
 title = "Opera on Letterman"
 +++
 

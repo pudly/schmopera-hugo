@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /anonymity-starting-schmopera-working/
+slug = "anonymity-starting-schmopera-working"
 title = "Anonymity, starting Schmopera, &amp; working"
 +++
 

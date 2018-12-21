@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-orpheus-eurydice-at-opera-atelier/
+slug = "in-review-orpheus-eurydice-at-opera-atelier"
 title = "In review: Orpheus &amp; Eurydice at Opera Atelier"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /hibla-gerzmava-danielle-akta-with-the-moscow-virtuosi/
+slug = "hibla-gerzmava-danielle-akta-with-the-moscow-virtuosi"
 title = "Hibla Gerzmava &amp; Danielle Akta with The Moscow Virtuosi"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /the-klinghoffer-example/
+slug = "the-klinghoffer-example"
 title = "The Klinghoffer Example"
 +++
 

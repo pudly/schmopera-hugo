@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /new-opera-honest-marketing/
+slug = "new-opera-honest-marketing"
 title = "New opera &amp; honest marketing"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /just-plain-great-pbos-le-nozze-di-figaro/
+slug = "just-plain-great-pbos-le-nozze-di-figaro"
 title = "Just plain great: PBO&#039;s Le nozze di Figaro"
 +++
 

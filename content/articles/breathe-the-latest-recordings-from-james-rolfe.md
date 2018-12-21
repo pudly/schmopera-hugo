@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /breathe-the-latest-recordings-from-james-rolfe/
+slug = "breathe-the-latest-recordings-from-james-rolfe"
 title = "Breathe: the latest recordings from James Rolfe"
 +++
 

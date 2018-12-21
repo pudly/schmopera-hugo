@@ -1,5 +1,5 @@
 +++
-slug = /showerthoughts-2/
+slug = "showerthoughts-2"
 title = "Showerthoughts 2"
 +++
 

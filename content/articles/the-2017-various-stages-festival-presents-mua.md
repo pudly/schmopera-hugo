@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /the-2017-various-stages-festival-presents-mua/
+slug = "the-2017-various-stages-festival-presents-mua"
 title = "The 2017 Various Stages Festival presents: Mu&#039;a"
 +++
 

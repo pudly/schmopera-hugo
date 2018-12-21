@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-fascinating-marriage-of-art-forms-kayoi-komachi/
+slug = "a-fascinating-marriage-of-art-forms-kayoi-komachi"
 title = "&quot;A fascinating marriage of art forms&quot;: Kayoi Komachi"
 +++
 

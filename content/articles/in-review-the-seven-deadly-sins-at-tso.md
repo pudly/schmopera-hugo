@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-the-seven-deadly-sins-at-tso/
+slug = "in-review-the-seven-deadly-sins-at-tso"
 title = "In review: The Seven Deadly Sins at TSO"
 +++
 

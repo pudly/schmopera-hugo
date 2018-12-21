@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-carmen-at-nashville-opera/
+slug = "in-review-carmen-at-nashville-opera"
 title = "In review: Carmen at Nashville Opera"
 +++
 

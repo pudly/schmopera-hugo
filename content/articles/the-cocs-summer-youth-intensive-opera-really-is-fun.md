@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /the-cocs-summer-youth-intensive-opera-really-is-fun/
+slug = "the-cocs-summer-youth-intensive-opera-really-is-fun"
 title = "The COC&#039;s Summer Youth Intensive: Opera really is fun!"
 +++
 

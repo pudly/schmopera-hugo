@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /leonard-bernstein-nyfos-i-think-hed-be-pretty-proud-of-it/
+slug = "leonard-bernstein-nyfos-i-think-hed-be-pretty-proud-of-it"
 title = "Leonard Bernstein &amp; NYFOS: &quot;I think he&#039;d be pretty proud of it.&quot;"
 +++
 

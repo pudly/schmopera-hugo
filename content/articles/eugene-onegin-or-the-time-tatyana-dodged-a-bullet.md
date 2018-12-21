@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /eugene-onegin-or-the-time-tatyana-dodged-a-bullet/
+slug = "eugene-onegin-or-the-time-tatyana-dodged-a-bullet"
 title = "Eugene Onegin, or the time Tatyana dodged a bullet"
 +++
 

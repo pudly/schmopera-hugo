@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /love-opera-love-stats-look-at-this/
+slug = "love-opera-love-stats-look-at-this"
 title = "Love opera? Love stats? Look at this."
 +++
 

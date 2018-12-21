@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /an-extended-mad-scene-glory-denied/
+slug = "an-extended-mad-scene-glory-denied"
 title = "An extended mad scene: Glory Denied"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dont-miss-shoestring-operas-hansel-gretel/
+slug = "dont-miss-shoestring-operas-hansel-gretel"
 title = "Don&#039;t miss: Shoestring Opera&#039;s Hansel &amp; Gretel"
 +++
 

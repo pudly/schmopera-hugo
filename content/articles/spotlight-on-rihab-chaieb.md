@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /spotlight-on-rihab-chaieb/
+slug = "spotlight-on-rihab-chaieb"
 title = "Spotlight on: Rihab Chaieb"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /one-mezzos-met-debut-i-just-cant-wait/
+slug = "one-mezzos-met-debut-i-just-cant-wait"
 title = "One mezzo&#039;s Met debut: &quot;I just can&#039;t wait.&quot;"
 +++
 

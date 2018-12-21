@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /5-ways-being-a-background-actor-helps-your-singing/
+slug = "5-ways-being-a-background-actor-helps-your-singing"
 title = "5 ways being a background actor helps your singing"
 +++
 

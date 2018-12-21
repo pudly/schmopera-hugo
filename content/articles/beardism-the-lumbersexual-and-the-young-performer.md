@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /beardism-the-lumbersexual-and-the-young-performer/
+slug = "beardism-the-lumbersexual-and-the-young-performer"
 title = "Beardism, the Lumbersexual, and the Young Performer"
 +++
 

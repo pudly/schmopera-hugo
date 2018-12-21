@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /young-singing-done-right-aksel-rykkvin/
+slug = "young-singing-done-right-aksel-rykkvin"
 title = "Young singing done right: Aksel Rykkvin"
 +++
 

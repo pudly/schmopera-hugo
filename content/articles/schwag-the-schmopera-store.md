@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /schwag-the-schmopera-store/
+slug = "schwag-the-schmopera-store"
 title = "Schwag: the Schmopera Store"
 +++
 

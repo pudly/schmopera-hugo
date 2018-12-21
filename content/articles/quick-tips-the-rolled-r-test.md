@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /quick-tips-the-rolled-r-test/
+slug = "quick-tips-the-rolled-r-test"
 title = "Quick tips: the rolled R test"
 +++
 

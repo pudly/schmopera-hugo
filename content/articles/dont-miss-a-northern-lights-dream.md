@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dont-miss-a-northern-lights-dream/
+slug = "dont-miss-a-northern-lights-dream"
 title = "Don&#039;t miss: A Northern Lights Dream"
 +++
 

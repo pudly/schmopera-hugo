@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /infographic-exercising-for-your-art/
+slug = "infographic-exercising-for-your-art"
 title = "Infographic: exercising for your art"
 +++
 

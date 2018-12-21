@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-singers-elza-van-den-heever/
+slug = "talking-with-singers-elza-van-den-heever"
 title = "Talking with singers: Elza van den Heever"
 +++
 

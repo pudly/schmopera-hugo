@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /going-out-in-style-sy-kwon-in-the-rba/
+slug = "going-out-in-style-sy-kwon-in-the-rba"
 title = "Going out in style: Sy &amp; Kwon in the RBA"
 +++
 

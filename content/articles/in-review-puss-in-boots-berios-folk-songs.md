@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-puss-in-boots-berios-folk-songs/
+slug = "in-review-puss-in-boots-berios-folk-songs"
 title = "In review: Puss in Boots &amp; Berio&#039;s Folk Songs"
 +++
 

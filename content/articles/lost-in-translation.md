@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /lost-in-translation/
+slug = "lost-in-translation"
 title = "Lost in translation?"
 +++
 

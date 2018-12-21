@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /toronto-city-opera-don-giovanni/
+slug = "toronto-city-opera-don-giovanni"
 title = "Toronto City Opera: Don Giovanni"
 +++
 

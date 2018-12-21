@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /asking-google-about-opera/
+slug = "asking-google-about-opera"
 title = "Asking Google About Opera"
 +++
 

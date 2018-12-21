@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /the-big-and-everpresent-whats-next/
+slug = "the-big-and-everpresent-whats-next"
 title = "The big, and ever-present, &quot;what&#039;s next?&quot;"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /artists-administration-reputations/
+slug = "artists-administration-reputations"
 title = "Artists, administration &amp; reputations"
 +++
 

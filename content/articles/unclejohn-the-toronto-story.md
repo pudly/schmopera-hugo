@@ -1,5 +1,5 @@
 +++
-slug = /unclejohn-the-toronto-story/
+slug = "unclejohn-the-toronto-story"
 title = "#UncleJohn: the Toronto story"
 +++
 

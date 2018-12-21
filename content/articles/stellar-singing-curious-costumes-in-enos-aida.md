@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /stellar-singing-curious-costumes-in-enos-aida/
+slug = "stellar-singing-curious-costumes-in-enos-aida"
 title = "Stellar singing &amp; curious costumes in ENO&#039;s Aida"
 +++
 

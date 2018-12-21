@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /rohs-madama-butterfly-better-to-be-furious-than-bored/
+slug = "rohs-madama-butterfly-better-to-be-furious-than-bored"
 title = "ROH&#039;s Madama Butterfly: better to be furious than bored"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /review-sondra-slays-in-bellini-masterwork/
+slug = "review-sondra-slays-in-bellini-masterwork"
 title = "Review: Sondra slays in Bellini masterwork"
 +++
 

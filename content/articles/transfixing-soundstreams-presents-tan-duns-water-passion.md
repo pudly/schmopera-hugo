@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /transfixing-soundstreams-presents-tan-duns-water-passion/
+slug = "transfixing-soundstreams-presents-tan-duns-water-passion"
 title = "Transfixing: Soundstreams presents Tan Dun&#039;s Water Passion"
 +++
 

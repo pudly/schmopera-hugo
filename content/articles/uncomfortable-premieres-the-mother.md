@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /uncomfortable-premieres-the-mother/
+slug = "uncomfortable-premieres-the-mother"
 title = "Uncomfortable premieres: The Mother"
 +++
 

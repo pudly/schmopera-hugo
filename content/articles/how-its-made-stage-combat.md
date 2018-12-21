@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /how-its-made-stage-combat/
+slug = "how-its-made-stage-combat"
 title = "How it&#039;s made: stage combat"
 +++
 

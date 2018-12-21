@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /opera-on-reddit-did-you-know-about-it/
+slug = "opera-on-reddit-did-you-know-about-it"
 title = "opera on reddit: did you know about it?"
 +++
 

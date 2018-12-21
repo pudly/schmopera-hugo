@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /gordon-vavreks-27-the-new-york-premiere/
+slug = "gordon-vavreks-27-the-new-york-premiere"
 title = "Gordon &amp; Vavrek&#039;s 27: the New York premiere"
 +++
 

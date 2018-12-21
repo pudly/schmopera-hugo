@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-luminatos-bearing/
+slug = "dont-miss-luminatos-bearing"
 title = "Don&#039;t miss: Luminato&#039;s Bearing"
 +++
 

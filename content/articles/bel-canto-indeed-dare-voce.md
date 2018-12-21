@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /bel-canto-indeed-dare-voce/
+slug = "bel-canto-indeed-dare-voce"
 title = "Bel canto indeed: &quot;Dare Voce&quot;"
 +++
 

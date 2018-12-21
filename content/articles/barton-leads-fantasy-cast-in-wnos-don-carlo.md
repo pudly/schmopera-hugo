@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /barton-leads-fantasy-cast-in-wnos-don-carlo/
+slug = "barton-leads-fantasy-cast-in-wnos-don-carlo"
 title = "Barton leads &quot;fantasy cast&quot; in WNO&#039;s Don Carlo"
 +++
 

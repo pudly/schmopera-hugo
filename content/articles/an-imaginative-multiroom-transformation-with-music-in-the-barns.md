@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /an-imaginative-multiroom-transformation-with-music-in-the-barns/
+slug = "an-imaginative-multiroom-transformation-with-music-in-the-barns"
 title = "An &quot;imaginative multi-room transformation&quot; with Music in the Barns"
 +++
 

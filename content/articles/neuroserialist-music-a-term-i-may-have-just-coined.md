@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /neuroserialist-music-a-term-i-may-have-just-coined/
+slug = "neuroserialist-music-a-term-i-may-have-just-coined"
 title = "Neuroserialist music: a term I may have just coined"
 +++
 

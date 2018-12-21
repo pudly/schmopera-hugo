@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /thrilling-nights-szymanowski-orff-with-the-tso/
+slug = "thrilling-nights-szymanowski-orff-with-the-tso"
 title = "Thrilling nights: Szymanowski &amp; Orff with the TSO"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-radvanovsky-in-recital-at-cadogan-hall/
+slug = "dont-miss-radvanovsky-in-recital-at-cadogan-hall"
 title = "Don&#039;t miss: Radvanovsky in recital at Cadogan Hall"
 +++
 

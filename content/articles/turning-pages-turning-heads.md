@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /turning-pages-turning-heads/
+slug = "turning-pages-turning-heads"
 title = "Turning Pages, Turning Heads"
 +++
 

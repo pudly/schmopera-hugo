@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /one-more-reason-we-dont-envy-singers/
+slug = "one-more-reason-we-dont-envy-singers"
 title = "One more reason we don&#039;t envy singers"
 +++
 

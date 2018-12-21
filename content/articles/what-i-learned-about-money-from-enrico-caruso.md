@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /what-i-learned-about-money-from-enrico-caruso/
+slug = "what-i-learned-about-money-from-enrico-caruso"
 title = "What I learned about money from Enrico Caruso"
 +++
 

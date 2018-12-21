@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /why-opera-fans-love-to-namedrop/
+slug = "why-opera-fans-love-to-namedrop"
 title = "Why opera fans love to name-drop"
 +++
 

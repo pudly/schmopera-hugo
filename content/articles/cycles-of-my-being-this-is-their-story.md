@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /cycles-of-my-being-this-is-their-story/
+slug = "cycles-of-my-being-this-is-their-story"
 title = "Cycles of My Being: &quot;This is their story.&quot;"
 +++
 

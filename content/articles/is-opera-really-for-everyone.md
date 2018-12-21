@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /is-opera-really-for-everyone/
+slug = "is-opera-really-for-everyone"
 title = "Is opera really for everyone?"
 +++
 

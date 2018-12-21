@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /the-value-of-creating-new-work-for-singers/
+slug = "the-value-of-creating-new-work-for-singers"
 title = "The value of creating new work for singers"
 +++
 

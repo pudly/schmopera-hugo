@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /familiar-stories-a-wedding-reception-gone-wrong/
+slug = "familiar-stories-a-wedding-reception-gone-wrong"
 title = "Familiar stories: A Wedding Reception (gone wrong)"
 +++
 

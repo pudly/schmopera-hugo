@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /nerding-out-why-you-should-definitely-care-what-key-your-aria-is-in/
+slug = "nerding-out-why-you-should-definitely-care-what-key-your-aria-is-in"
 title = "Nerding out: why you should definitely care what key your aria is in"
 +++
 

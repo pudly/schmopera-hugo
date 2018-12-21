@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /5-reasons-to-get-your-drama-fix-from-oratorio/
+slug = "5-reasons-to-get-your-drama-fix-from-oratorio"
 title = "5 reasons to get your drama fix from oratorio"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dont-miss-in-the-alps-with-the-aurora-orchestra/
+slug = "dont-miss-in-the-alps-with-the-aurora-orchestra"
 title = "Don&#039;t miss: In the Alps with the Aurora Orchestra"
 +++
 

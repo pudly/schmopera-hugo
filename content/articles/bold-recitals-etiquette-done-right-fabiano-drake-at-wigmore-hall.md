@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /bold-recitals-etiquette-done-right-fabiano-drake-at-wigmore-hall/
+slug = "bold-recitals-etiquette-done-right-fabiano-drake-at-wigmore-hall"
 title = "Bold recitals &amp; etiquette done right: Fabiano &amp; Drake at Wigmore Hall"
 +++
 

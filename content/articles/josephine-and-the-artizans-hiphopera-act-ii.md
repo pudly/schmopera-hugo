@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /josephine-and-the-artizans-hiphopera-act-ii/
+slug = "josephine-and-the-artizans-hiphopera-act-ii"
 title = "Josephine and The Artizans&#039; HipHopera: Act II"
 +++
 

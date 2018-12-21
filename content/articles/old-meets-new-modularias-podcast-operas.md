@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /old-meets-new-modularias-podcast-operas/
+slug = "old-meets-new-modularias-podcast-operas"
 title = "Old meets new: Modularias &amp; podcast operas"
 +++
 

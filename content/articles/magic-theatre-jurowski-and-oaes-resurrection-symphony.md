@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /magic-theatre-jurowski-and-oaes-resurrection-symphony/
+slug = "magic-theatre-jurowski-and-oaes-resurrection-symphony"
 title = "Magic &amp; theatre: Jurowski and OAE&#039;s Resurrection Symphony"
 +++
 

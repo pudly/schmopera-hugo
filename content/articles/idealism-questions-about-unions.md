@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /idealism-questions-about-unions/
+slug = "idealism-questions-about-unions"
 title = "Idealism &amp; questions about unions"
 +++
 

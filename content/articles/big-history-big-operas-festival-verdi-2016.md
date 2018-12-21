@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /big-history-big-operas-festival-verdi-2016/
+slug = "big-history-big-operas-festival-verdi-2016"
 title = "Big history &amp; big operas: Festival Verdi 2016"
 +++
 

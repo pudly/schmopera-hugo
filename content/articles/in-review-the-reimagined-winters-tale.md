@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-the-reimagined-winters-tale/
+slug = "in-review-the-reimagined-winters-tale"
 title = "In review: The (reimagined) Winter&#039;s Tale"
 +++
 

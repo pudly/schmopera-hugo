@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /sung-jin-hong-seoul-searching/
+slug = "sung-jin-hong-seoul-searching"
 title = "Sung Jin Hong: Seoul searching"
 +++
 

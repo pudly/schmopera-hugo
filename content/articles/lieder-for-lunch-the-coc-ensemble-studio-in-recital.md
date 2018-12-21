@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /lieder-for-lunch-the-coc-ensemble-studio-in-recital/
+slug = "lieder-for-lunch-the-coc-ensemble-studio-in-recital"
 title = "Lieder for Lunch: the COC Ensemble Studio in Recital"
 +++
 

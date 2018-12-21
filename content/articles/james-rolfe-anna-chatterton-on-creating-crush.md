@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /james-rolfe-anna-chatterton-on-creating-crush/
+slug = "james-rolfe-anna-chatterton-on-creating-crush"
 title = "James Rolfe &amp; Anna Chatterton, on creating Crush"
 +++
 

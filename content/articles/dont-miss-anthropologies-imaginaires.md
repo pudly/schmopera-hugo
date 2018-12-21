@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-anthropologies-imaginaires/
+slug = "dont-miss-anthropologies-imaginaires"
 title = "Don&#039;t miss: Anthropologies imaginaires"
 +++
 

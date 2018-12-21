@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /song-guides-widmung/
+slug = "song-guides-widmung"
 title = "Song guides: Widmung"
 +++
 

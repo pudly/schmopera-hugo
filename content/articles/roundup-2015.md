@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /roundup-2015/
+slug = "roundup-2015"
 title = "Roundup, 2015"
 +++
 

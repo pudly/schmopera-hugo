@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /6-new-works-presented-at-various-stages-2017/
+slug = "6-new-works-presented-at-various-stages-2017"
 title = "6 new works presented at Various Stages 2017"
 +++
 

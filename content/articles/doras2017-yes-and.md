@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /doras2017-yes-and/
+slug = "doras2017-yes-and"
 title = "#Doras2017: &quot;yes, and...&quot;"
 +++
 

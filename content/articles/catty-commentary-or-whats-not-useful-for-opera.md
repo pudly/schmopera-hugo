@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /catty-commentary-or-whats-not-useful-for-opera/
+slug = "catty-commentary-or-whats-not-useful-for-opera"
 title = "Catty commentary, or what&#039;s not useful for opera"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /tomer-zvulun-the-atlanta-operas-intriguing-201718/
+slug = "tomer-zvulun-the-atlanta-operas-intriguing-201718"
 title = "Tomer Zvulun: The Atlanta Opera&#039;s intriguing 2017/18"
 +++
 

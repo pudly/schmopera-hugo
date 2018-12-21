@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /the-tsos-joyful-ode-to-oundjian/
+slug = "the-tsos-joyful-ode-to-oundjian"
 title = "The TSO&#039;s joyful ode to Oundjian"
 +++
 

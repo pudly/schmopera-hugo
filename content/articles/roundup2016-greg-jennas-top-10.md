@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /roundup2016-greg-jennas-top-10/
+slug = "roundup2016-greg-jennas-top-10"
 title = "#Roundup2016: Greg &amp; Jenna&#039;s Top 10"
 +++
 

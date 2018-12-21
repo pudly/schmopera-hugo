@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /go-hear-the-tafelmusik-vocal-competition/
+slug = "go-hear-the-tafelmusik-vocal-competition"
 title = "Go hear the Tafelmusik Vocal Competition"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /opera-for-all-the-magic-victrola/
+slug = "opera-for-all-the-magic-victrola"
 title = "Opera for all: The Magic Victrola"
 +++
 

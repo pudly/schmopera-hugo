@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /moving-on-up-3-ways-my-old-career-prepared-me-for-my-new-one/
+slug = "moving-on-up-3-ways-my-old-career-prepared-me-for-my-new-one"
 title = "Moving on &amp; up: 3 ways my old career prepared me for my new one"
 +++
 

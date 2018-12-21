@@ -1,5 +1,5 @@
 +++
-slug = /coming-up-in-toronto/
+slug = "coming-up-in-toronto"
 title = "Coming up in Toronto"
 +++
 

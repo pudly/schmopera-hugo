@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /5-times-handel-got-weird/
+slug = "5-times-handel-got-weird"
 title = "5 times Handel got weird"
 +++
 

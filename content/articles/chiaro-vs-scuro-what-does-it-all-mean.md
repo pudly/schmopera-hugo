@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /chiaro-vs-scuro-what-does-it-all-mean/
+slug = "chiaro-vs-scuro-what-does-it-all-mean"
 title = "Chiaro vs. scuro: what does it all mean?"
 +++
 

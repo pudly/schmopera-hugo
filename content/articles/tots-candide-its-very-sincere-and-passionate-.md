@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /tots-candide-its-very-sincere-and-passionate-/
+slug = "tots-candide-its-very-sincere-and-passionate-"
 title = "TOT&#039;s Candide: &quot;It&#039;s very sincere and passionate.&quot; "
 +++
 

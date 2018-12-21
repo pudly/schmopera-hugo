@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /on-pianists-those-vicarious-opera-singers/
+slug = "on-pianists-those-vicarious-opera-singers"
 title = "On Pianists, Those Vicarious Opera Singers"
 +++
 

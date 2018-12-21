@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /song-guides-die-nacht/
+slug = "song-guides-die-nacht"
 title = "Song Guides: &quot;Die Nacht&quot;"
 +++
 

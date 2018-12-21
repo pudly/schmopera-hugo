@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-electric-messiah/
+slug = "dont-miss-electric-messiah"
 title = "Don&#039;t miss: Electric Messiah"
 +++
 

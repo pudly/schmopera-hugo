@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /pavarotti-and-all-his-friends/
+slug = "pavarotti-and-all-his-friends"
 title = "Pavarotti and all his Friends"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /oksana-g-its-so-out-of-this-world-and-yet-so-realistic/
+slug = "oksana-g-its-so-out-of-this-world-and-yet-so-realistic"
 title = "Oksana G.: &quot;It&#039;s so out of this world, and yet so realistic.&quot;"
 +++
 

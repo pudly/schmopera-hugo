@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /anne-kostalas-a-year-with-opera-singers/
+slug = "anne-kostalas-a-year-with-opera-singers"
 title = "Anne Kostalas: a year with opera singers"
 +++
 

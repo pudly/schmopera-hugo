@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /the-flying-dutchman-a-stellar-homecoming-for-hgo/
+slug = "the-flying-dutchman-a-stellar-homecoming-for-hgo"
 title = "The Flying Dutchman a stellar homecoming for HGO"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /check-out-loose-tea-music-theatre/
+slug = "check-out-loose-tea-music-theatre"
 title = "Check out: Loose TEA Music Theatre"
 +++
 

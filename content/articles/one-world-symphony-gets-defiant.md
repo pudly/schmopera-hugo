@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /one-world-symphony-gets-defiant/
+slug = "one-world-symphony-gets-defiant"
 title = "One World Symphony gets &quot;Defiant&quot;"
 +++
 

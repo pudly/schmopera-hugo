@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-bold-debut-album-brian-mulligan-sings-dominick-argento/
+slug = "a-bold-debut-album-brian-mulligan-sings-dominick-argento"
 title = "A bold debut album: Brian Mulligan sings Dominick Argento"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /when-critics-are-jerks/
+slug = "when-critics-are-jerks"
 title = "When critics are jerks"
 +++
 

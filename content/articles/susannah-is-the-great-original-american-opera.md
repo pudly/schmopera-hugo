@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /susannah-is-the-great-original-american-opera/
+slug = "susannah-is-the-great-original-american-opera"
 title = "&quot;Susannah is THE great original American opera.&quot;"
 +++
 

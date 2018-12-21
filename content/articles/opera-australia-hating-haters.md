@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /opera-australia-hating-haters/
+slug = "opera-australia-hating-haters"
 title = "Opera Australia: hating haters?"
 +++
 

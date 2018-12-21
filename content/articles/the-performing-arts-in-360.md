@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /the-performing-arts-in-360/
+slug = "the-performing-arts-in-360"
 title = "The performing arts, in 360˚"
 +++
 

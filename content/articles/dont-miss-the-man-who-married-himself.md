@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-the-man-who-married-himself/
+slug = "dont-miss-the-man-who-married-himself"
 title = "Don&#039;t miss: The Man Who Married Himself"
 +++
 

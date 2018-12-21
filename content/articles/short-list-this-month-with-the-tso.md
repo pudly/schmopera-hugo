@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /short-list-this-month-with-the-tso/
+slug = "short-list-this-month-with-the-tso"
 title = "Short list: this month with the TSO"
 +++
 

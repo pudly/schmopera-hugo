@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-sophisticated-precise-fearlessness-at-wigmore-hall/
+slug = "in-review-sophisticated-precise-fearlessness-at-wigmore-hall"
 title = "In review: &quot;Sophisticated, precise fearlessness&quot; at Wigmore Hall"
 +++
 

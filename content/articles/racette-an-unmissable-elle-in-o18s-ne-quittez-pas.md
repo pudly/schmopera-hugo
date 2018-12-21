@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /racette-an-unmissable-elle-in-o18s-ne-quittez-pas/
+slug = "racette-an-unmissable-elle-in-o18s-ne-quittez-pas"
 title = "Racette an unmissable Elle in O18&#039;s Ne Quittez Pas"
 +++
 

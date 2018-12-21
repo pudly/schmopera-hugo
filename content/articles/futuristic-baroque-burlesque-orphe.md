@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /futuristic-baroque-burlesque-orphe/
+slug = "futuristic-baroque-burlesque-orphe"
 title = "Futuristic Baroque burlesque: Orphée"
 +++
 

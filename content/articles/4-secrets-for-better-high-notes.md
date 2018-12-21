@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /4-secrets-for-better-high-notes/
+slug = "4-secrets-for-better-high-notes"
 title = "4 secrets for better high notes"
 +++
 

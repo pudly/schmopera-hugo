@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /crosscanada-opera-the-overcoat-comes-to-toronto-vancouver/
+slug = "crosscanada-opera-the-overcoat-comes-to-toronto-vancouver"
 title = "Cross-Canada opera: The Overcoat comes to Toronto &amp; Vancouver"
 +++
 

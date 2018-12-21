@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /get-curious-at-fawn-201617/
+slug = "get-curious-at-fawn-201617"
 title = "Get curious at FAWN 2016/17"
 +++
 

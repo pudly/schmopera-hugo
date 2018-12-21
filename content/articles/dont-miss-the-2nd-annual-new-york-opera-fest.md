@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dont-miss-the-2nd-annual-new-york-opera-fest/
+slug = "dont-miss-the-2nd-annual-new-york-opera-fest"
 title = "Don&#039;t miss: the 2nd annual New York Opera Fest"
 +++
 

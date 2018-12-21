@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /opera-da-cameras-hnsel-und-gretel/
+slug = "opera-da-cameras-hnsel-und-gretel"
 title = "Opera da Camera&#039;s Hänsel und Gretel"
 +++
 

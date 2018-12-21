@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /the-2015-quilico-awards/
+slug = "the-2015-quilico-awards"
 title = "The 2015 Quilico Awards"
 +++
 

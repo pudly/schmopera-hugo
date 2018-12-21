@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /spotlight-on-shauna-yarnell/
+slug = "spotlight-on-shauna-yarnell"
 title = "Spotlight on: Shauna Yarnell"
 +++
 

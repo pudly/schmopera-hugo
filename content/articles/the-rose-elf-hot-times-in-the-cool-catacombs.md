@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /the-rose-elf-hot-times-in-the-cool-catacombs/
+slug = "the-rose-elf-hot-times-in-the-cool-catacombs"
 title = "The Rose Elf: Hot Times In The Cool Catacombs"
 +++
 

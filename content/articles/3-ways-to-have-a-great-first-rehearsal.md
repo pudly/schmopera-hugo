@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /3-ways-to-have-a-great-first-rehearsal/
+slug = "3-ways-to-have-a-great-first-rehearsal"
 title = "3 ways to have a great first rehearsal"
 +++
 

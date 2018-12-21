@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /michael-park-on-opera-disease/
+slug = "michael-park-on-opera-disease"
 title = "Michael Park: on opera &amp; disease"
 +++
 

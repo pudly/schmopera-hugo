@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /opera-directors-an-unfair-disadvantage/
+slug = "opera-directors-an-unfair-disadvantage"
 title = "Opera directors: an unfair disadvantage?"
 +++
 

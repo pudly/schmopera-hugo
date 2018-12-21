@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /thas-dazzling-score-dazzling-set-dazzling-cast/
+slug = "thas-dazzling-score-dazzling-set-dazzling-cast"
 title = "Thaïs: dazzling score, dazzling set, dazzling cast"
 +++
 

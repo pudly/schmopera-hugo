@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /unpopular-opinions-when-bravo-kills-the-mood/
+slug = "unpopular-opinions-when-bravo-kills-the-mood"
 title = "Unpopular opinions: when &quot;bravo!&quot; kills the mood"
 +++
 

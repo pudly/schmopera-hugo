@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /ian-smith-of-the-emc-we-unite-through-the-common-language-of-music/
+slug = "ian-smith-of-the-emc-we-unite-through-the-common-language-of-music"
 title = "Ian Smith of the EMC: &quot;We unite through the common language of music&quot;"
 +++
 

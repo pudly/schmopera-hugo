@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /canadian-childrens-opera-companys-lullabies-from-kids-for-kids/
+slug = "canadian-childrens-opera-companys-lullabies-from-kids-for-kids"
 title = "Canadian Children&#039;s Opera Company&#039;s Lullabies: from kids, for kids"
 +++
 

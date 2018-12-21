@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /strange-inside-the-tender-land/
+slug = "strange-inside-the-tender-land"
 title = "Strange inside: The Tender Land"
 +++
 

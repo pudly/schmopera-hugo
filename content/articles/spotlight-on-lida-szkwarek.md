@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /spotlight-on-lida-szkwarek/
+slug = "spotlight-on-lida-szkwarek"
 title = "Spotlight on: Lida Szkwarek"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /a-sweet-girl-on-the-podium-can-make-ones-thoughts-drift-toward-something-else/
+slug = "a-sweet-girl-on-the-podium-can-make-ones-thoughts-drift-toward-something-else"
 title = "“A sweet girl on the podium can make one’s thoughts drift toward something else.”"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /theres-a-role-for-you-in-schmopera-act-ii/
+slug = "theres-a-role-for-you-in-schmopera-act-ii"
 title = "There&#039;s a role for you in Schmopera: Act II!"
 +++
 

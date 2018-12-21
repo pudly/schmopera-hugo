@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /music-matters-at-mini-mozarts-summer-music-camp/
+slug = "music-matters-at-mini-mozarts-summer-music-camp"
 title = "Music Matters at Mini Mozarts Summer Music Camp"
 +++
 

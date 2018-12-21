@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /schmoperas-faves-of-2013/
+slug = "schmoperas-faves-of-2013"
 title = "Schmopera&#039;s Faves of 2013"
 +++
 

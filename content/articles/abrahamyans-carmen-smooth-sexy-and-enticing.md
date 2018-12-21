@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /abrahamyans-carmen-smooth-sexy-and-enticing/
+slug = "abrahamyans-carmen-smooth-sexy-and-enticing"
 title = "Abrahamyan&#039;s Carmen &quot;smooth, sexy, and enticing.&quot;"
 +++
 

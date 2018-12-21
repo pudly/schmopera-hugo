@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-directors-frederic-wakewalker/
+slug = "talking-with-directors-frederic-wakewalker"
 title = "Talking with directors: Frederic Wake-Walker"
 +++
 

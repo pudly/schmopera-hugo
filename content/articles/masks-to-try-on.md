@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /masks-to-try-on/
+slug = "masks-to-try-on"
 title = "Masks to Try On"
 +++
 

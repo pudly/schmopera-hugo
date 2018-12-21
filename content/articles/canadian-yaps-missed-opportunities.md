@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /canadian-yaps-missed-opportunities/
+slug = "canadian-yaps-missed-opportunities"
 title = "Canadian YAPs &amp; missed opportunities"
 +++
 

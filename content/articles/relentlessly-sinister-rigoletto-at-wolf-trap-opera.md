@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /relentlessly-sinister-rigoletto-at-wolf-trap-opera/
+slug = "relentlessly-sinister-rigoletto-at-wolf-trap-opera"
 title = "Relentlessly sinister: Rigoletto at Wolf Trap Opera"
 +++
 

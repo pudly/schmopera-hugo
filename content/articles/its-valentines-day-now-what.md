@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /its-valentines-day-now-what/
+slug = "its-valentines-day-now-what"
 title = "It&#039;s Valentines Day! Now what?"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /spotlight-on-iain-macneil/
+slug = "spotlight-on-iain-macneil"
 title = "Spotlight on: Iain MacNeil"
 +++
 

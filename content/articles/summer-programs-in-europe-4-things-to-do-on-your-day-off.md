@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /summer-programs-in-europe-4-things-to-do-on-your-day-off/
+slug = "summer-programs-in-europe-4-things-to-do-on-your-day-off"
 title = "Summer programs in Europe: 4 things to do on your day off"
 +++
 

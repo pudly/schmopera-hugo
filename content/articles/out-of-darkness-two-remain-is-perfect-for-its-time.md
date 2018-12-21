@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /out-of-darkness-two-remain-is-perfect-for-its-time/
+slug = "out-of-darkness-two-remain-is-perfect-for-its-time"
 title = "Out of Darkness: Two Remain is perfect for its time"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /viva-la-operetta/
+slug = "viva-la-operetta"
 title = "&quot;Viva la operetta!&quot;"
 +++
 

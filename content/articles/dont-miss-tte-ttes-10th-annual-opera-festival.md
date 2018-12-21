@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /dont-miss-tte-ttes-10th-annual-opera-festival/
+slug = "dont-miss-tte-ttes-10th-annual-opera-festival"
 title = "Don&#039;t miss: Tête à Tête&#039;s 10th annual Opera Festival"
 +++
 

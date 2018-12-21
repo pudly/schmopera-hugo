@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /9-ways-to-fend-off-a-canadian-winter/
+slug = "9-ways-to-fend-off-a-canadian-winter"
 title = "9 ways to fend off a Canadian winter"
 +++
 

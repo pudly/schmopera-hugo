@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /shes-leaving-home/
+slug = "shes-leaving-home"
 title = "She&#039;s leaving home"
 +++
 

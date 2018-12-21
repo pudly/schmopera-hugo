@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-composers-ivan-barbotin/
+slug = "talking-with-composers-ivan-barbotin"
 title = "Talking with composers: Ivan Barbotin"
 +++
 

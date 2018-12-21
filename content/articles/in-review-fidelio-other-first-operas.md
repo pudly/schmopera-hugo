@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /in-review-fidelio-other-first-operas/
+slug = "in-review-fidelio-other-first-operas"
 title = "In review: Fidelio &amp; other first operas"
 +++
 

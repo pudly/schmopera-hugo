@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /opera-bite-gabrielle-herbst/
+slug = "opera-bite-gabrielle-herbst"
 title = "Opera Bite: Gabrielle Herbst"
 +++
 

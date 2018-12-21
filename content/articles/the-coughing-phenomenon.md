@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /the-coughing-phenomenon/
+slug = "the-coughing-phenomenon"
 title = "The coughing phenomenon"
 +++
 

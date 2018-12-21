@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /great-operas-dont-just-happen/
+slug = "great-operas-dont-just-happen"
 title = "&quot;Great Operas Don&#039;t Just Happen.&quot;"
 +++
 

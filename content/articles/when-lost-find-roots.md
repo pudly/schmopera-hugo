@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /when-lost-find-roots/
+slug = "when-lost-find-roots"
 title = "When lost, find roots"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /singers-masters-of-illusions/
+slug = "singers-masters-of-illusions"
 title = "Singers: masters of illusions"
 +++
 

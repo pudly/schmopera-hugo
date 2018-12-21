@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /album-review-gino-quilicos-secrets-of-christmas/
+slug = "album-review-gino-quilicos-secrets-of-christmas"
 title = "Album review: Gino Quilico&#039;s Secrets of Christmas"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /paid-summer-programs-is-it-time-for-a-revolution/
+slug = "paid-summer-programs-is-it-time-for-a-revolution"
 title = "Paid summer programs: is it time for a revolution?"
 +++
 

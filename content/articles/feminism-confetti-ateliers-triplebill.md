@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /feminism-confetti-ateliers-triplebill/
+slug = "feminism-confetti-ateliers-triplebill"
 title = "Feminism &amp; confetti: Atelier&#039;s triple-bill"
 +++
 

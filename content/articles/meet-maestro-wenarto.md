@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /meet-maestro-wenarto/
+slug = "meet-maestro-wenarto"
 title = "Meet Maestro Wenarto"
 +++
 

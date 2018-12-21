@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /happy-birthday-to-us-schmopera-is-four/
+slug = "happy-birthday-to-us-schmopera-is-four"
 title = "Happy birthday to us: Schmopera is four!"
 +++
 

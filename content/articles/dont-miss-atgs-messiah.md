@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-atgs-messiah/
+slug = "dont-miss-atgs-messiah"
 title = "Don&#039;t miss: AtG&#039;s Messiah"
 +++
 

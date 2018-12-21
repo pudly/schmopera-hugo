@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /the-pianists-tech-week-plight/
+slug = "the-pianists-tech-week-plight"
 title = "The pianist&#039;s tech week plight"
 +++
 

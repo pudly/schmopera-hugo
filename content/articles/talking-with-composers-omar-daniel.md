@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-composers-omar-daniel/
+slug = "talking-with-composers-omar-daniel"
 title = "Talking with composers: Omar Daniel"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /safe-words-masquerades-nashville-opera-presents-three-way/
+slug = "safe-words-masquerades-nashville-opera-presents-three-way"
 title = "Safe words &amp; Masquerades: Nashville Opera presents Three Way"
 +++
 

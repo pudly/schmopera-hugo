@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /living-opera-at-the-coc/
+slug = "living-opera-at-the-coc"
 title = "Living Opera at the COC"
 +++
 

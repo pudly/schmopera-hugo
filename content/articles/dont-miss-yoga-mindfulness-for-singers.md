@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /dont-miss-yoga-mindfulness-for-singers/
+slug = "dont-miss-yoga-mindfulness-for-singers"
 title = "Don&#039;t miss: yoga &amp; mindfulness for singers"
 +++
 

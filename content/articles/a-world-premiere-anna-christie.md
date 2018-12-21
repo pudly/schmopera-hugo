@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-world-premiere-anna-christie/
+slug = "a-world-premiere-anna-christie"
 title = "A world premiere: Anna Christie"
 +++
 

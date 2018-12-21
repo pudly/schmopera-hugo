@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /die-fledermaus-die-flederfabulous/
+slug = "die-fledermaus-die-flederfabulous"
 title = "Die Fledermaus? Die Fleder-fabulous!"
 +++
 

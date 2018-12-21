@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /still-incredible-robert-lepages-nightingale/
+slug = "still-incredible-robert-lepages-nightingale"
 title = "&quot;Still incredible&quot;: Robert Lepage&#039;s Nightingale"
 +++
 

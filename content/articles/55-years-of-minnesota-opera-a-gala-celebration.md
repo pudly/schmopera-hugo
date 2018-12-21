@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /55-years-of-minnesota-opera-a-gala-celebration/
+slug = "55-years-of-minnesota-opera-a-gala-celebration"
 title = "55 years of Minnesota Opera: a gala celebration"
 +++
 

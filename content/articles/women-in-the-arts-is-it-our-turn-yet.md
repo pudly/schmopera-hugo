@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /women-in-the-arts-is-it-our-turn-yet/
+slug = "women-in-the-arts-is-it-our-turn-yet"
 title = "Women in the arts: is it our turn, yet?"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /i-wrote-toward-tomorrow-to-bring-attention-to-this-crisis/
+slug = "i-wrote-toward-tomorrow-to-bring-attention-to-this-crisis"
 title = "&quot;I wrote Toward Tomorrow to bring attention to this crisis.&quot;"
 +++
 

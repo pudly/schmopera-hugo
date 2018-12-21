@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /free-webinar-alexander-technique-the-voice/
+slug = "free-webinar-alexander-technique-the-voice"
 title = "Free webinar: Alexander Technique &amp; the voice"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-refreshing-gateway-drug-the-magic-flute-at-o17/
+slug = "a-refreshing-gateway-drug-the-magic-flute-at-o17"
 title = "A refreshing gateway drug: The Magic Flute at O17"
 +++
 

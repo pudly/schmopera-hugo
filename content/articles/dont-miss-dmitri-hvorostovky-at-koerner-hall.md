@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-dmitri-hvorostovky-at-koerner-hall/
+slug = "dont-miss-dmitri-hvorostovky-at-koerner-hall"
 title = "Don&#039;t miss: Dmitri Hvorostovky at Koerner Hall"
 +++
 

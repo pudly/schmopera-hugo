@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /a-nextlevel-fledermaus-in-des-moines/
+slug = "a-nextlevel-fledermaus-in-des-moines"
 title = "A next-level Fledermaus in Des Moines"
 +++
 

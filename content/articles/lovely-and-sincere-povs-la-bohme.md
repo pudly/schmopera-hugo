@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /lovely-and-sincere-povs-la-bohme/
+slug = "lovely-and-sincere-povs-la-bohme"
 title = "Lovely and sincere: POV&#039;s La Bohème"
 +++
 

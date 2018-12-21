@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /the-opera-posse-phenomenon/
+slug = "the-opera-posse-phenomenon"
 title = "The Opera Posse Phenomenon"
 +++
 

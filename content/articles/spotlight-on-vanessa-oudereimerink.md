@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /spotlight-on-vanessa-oudereimerink/
+slug = "spotlight-on-vanessa-oudereimerink"
 title = "Spotlight on: Vanessa Oude-Reimerink"
 +++
 

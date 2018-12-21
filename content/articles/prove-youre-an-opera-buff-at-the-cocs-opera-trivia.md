@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /prove-youre-an-opera-buff-at-the-cocs-opera-trivia/
+slug = "prove-youre-an-opera-buff-at-the-cocs-opera-trivia"
 title = "Prove you&#039;re an opera buff at the COC&#039;s Opera Trivia"
 +++
 

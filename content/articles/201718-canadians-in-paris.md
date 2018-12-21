@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /201718-canadians-in-paris/
+slug = "201718-canadians-in-paris"
 title = "2017/18: Canadians in Paris"
 +++
 

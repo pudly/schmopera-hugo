@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /taking-tweed-seriously-lessons-for-the-emerging-opera-composer/
+slug = "taking-tweed-seriously-lessons-for-the-emerging-opera-composer"
 title = "Taking tweed seriously: lessons for the emerging opera composer"
 +++
 

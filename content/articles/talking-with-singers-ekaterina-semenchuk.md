@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /talking-with-singers-ekaterina-semenchuk/
+slug = "talking-with-singers-ekaterina-semenchuk"
 title = "Talking with singers: Ekaterina Semenchuk"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /squeezebox-at-soundstreams/
+slug = "squeezebox-at-soundstreams"
 title = "Squeezebox at Soundstreams"
 +++
 

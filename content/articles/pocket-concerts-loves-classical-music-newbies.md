@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /pocket-concerts-loves-classical-music-newbies/
+slug = "pocket-concerts-loves-classical-music-newbies"
 title = "Pocket Concerts loves classical music newbies!"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /kira-braun-so-much-music-so-little-time/
+slug = "kira-braun-so-much-music-so-little-time"
 title = "Kira Braun: &quot;So much music, so little time...&quot;"
 +++
 

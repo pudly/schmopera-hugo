@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /money-manners-one-critics-observations-from-her-really-great-opera-seats/
+slug = "money-manners-one-critics-observations-from-her-really-great-opera-seats"
 title = "Money &amp; manners: one critic&#039;s observations from her really great opera seats"
 +++
 

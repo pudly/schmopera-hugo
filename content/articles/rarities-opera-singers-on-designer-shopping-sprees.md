@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /rarities-opera-singers-on-designer-shopping-sprees/
+slug = "rarities-opera-singers-on-designer-shopping-sprees"
 title = "Rarities: opera singers on designer shopping sprees"
 +++
 

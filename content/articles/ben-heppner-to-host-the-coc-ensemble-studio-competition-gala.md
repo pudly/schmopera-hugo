@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /ben-heppner-to-host-the-coc-ensemble-studio-competition-gala/
+slug = "ben-heppner-to-host-the-coc-ensemble-studio-competition-gala"
 title = "Ben Heppner To Host the COC Ensemble Studio Competition Gala"
 +++
 

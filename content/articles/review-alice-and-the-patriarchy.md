@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /review-alice-and-the-patriarchy/
+slug = "review-alice-and-the-patriarchy"
 title = "Review: ALICE and the Patriarchy"
 +++
 

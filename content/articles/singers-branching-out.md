@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /singers-branching-out/
+slug = "singers-branching-out"
 title = "Singers branching out"
 +++
 

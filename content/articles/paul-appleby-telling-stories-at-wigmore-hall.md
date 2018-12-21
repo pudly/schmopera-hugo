@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /paul-appleby-telling-stories-at-wigmore-hall/
+slug = "paul-appleby-telling-stories-at-wigmore-hall"
 title = "Paul Appleby: telling stories at Wigmore Hall"
 +++
 

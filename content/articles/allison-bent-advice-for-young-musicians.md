@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /allison-bent-advice-for-young-musicians/
+slug = "allison-bent-advice-for-young-musicians"
 title = "Allison Bent: Advice for Young Musicians"
 +++
 

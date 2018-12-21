@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /help-wanted-els-comediants-bring-barber-to-houston/
+slug = "help-wanted-els-comediants-bring-barber-to-houston"
 title = "Help wanted: Els Comediants bring Barber to Houston"
 +++
 

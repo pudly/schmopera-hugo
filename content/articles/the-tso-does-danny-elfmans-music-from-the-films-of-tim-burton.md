@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /the-tso-does-danny-elfmans-music-from-the-films-of-tim-burton/
+slug = "the-tso-does-danny-elfmans-music-from-the-films-of-tim-burton"
 title = "The TSO does Danny Elfman&#039;s music from the films of Tim Burton"
 +++
 

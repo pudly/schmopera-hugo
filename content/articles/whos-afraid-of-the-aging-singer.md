@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /whos-afraid-of-the-aging-singer/
+slug = "whos-afraid-of-the-aging-singer"
 title = "Who&#039;s afraid of the aging singer?"
 +++
 

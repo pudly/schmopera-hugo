@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /check-out-the-friends-of-gravity/
+slug = "check-out-the-friends-of-gravity"
 title = "Check out: The Friends of Gravity"
 +++
 

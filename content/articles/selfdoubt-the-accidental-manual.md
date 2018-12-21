@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /selfdoubt-the-accidental-manual/
+slug = "selfdoubt-the-accidental-manual"
 title = "Self-Doubt: The Accidental Manual"
 +++
 

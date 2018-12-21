@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /sawney-bean-his-cannibal-clan-would-make-a-great-opera/
+slug = "sawney-bean-his-cannibal-clan-would-make-a-great-opera"
 title = "Sawney Bean &amp; his cannibal clan would make a great opera"
 +++
 

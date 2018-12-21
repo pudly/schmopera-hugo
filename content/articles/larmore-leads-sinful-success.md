@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /larmore-leads-sinful-success/
+slug = "larmore-leads-sinful-success"
 title = "Larmore leads &quot;Sinful&quot; success"
 +++
 

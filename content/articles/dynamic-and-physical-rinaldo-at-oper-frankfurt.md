@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /dynamic-and-physical-rinaldo-at-oper-frankfurt/
+slug = "dynamic-and-physical-rinaldo-at-oper-frankfurt"
 title = "Dynamic and physical: Rinaldo at Oper Frankfurt"
 +++
 

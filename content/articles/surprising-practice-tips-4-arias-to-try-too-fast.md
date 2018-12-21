@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /surprising-practice-tips-4-arias-to-try-too-fast/
+slug = "surprising-practice-tips-4-arias-to-try-too-fast"
 title = "Surprising practice tips: 4 arias to try too fast"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /conversations-of-the-most-urgent-nature-we-shall-not-be-moved/
+slug = "conversations-of-the-most-urgent-nature-we-shall-not-be-moved"
 title = "Conversations &quot;of the most urgent nature&quot;: We Shall Not Be Moved"
 +++
 

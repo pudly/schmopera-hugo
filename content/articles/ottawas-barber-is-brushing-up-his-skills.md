@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /ottawas-barber-is-brushing-up-his-skills/
+slug = "ottawas-barber-is-brushing-up-his-skills"
 title = "Ottawa&#039;s Barber is brushing up his skills"
 +++
 

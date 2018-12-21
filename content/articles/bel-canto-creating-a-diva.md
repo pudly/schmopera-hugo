@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /bel-canto-creating-a-diva/
+slug = "bel-canto-creating-a-diva"
 title = "Bel Canto: creating a diva"
 +++
 

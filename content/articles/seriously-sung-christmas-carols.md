@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /seriously-sung-christmas-carols/
+slug = "seriously-sung-christmas-carols"
 title = "Seriously sung Christmas carols"
 +++
 

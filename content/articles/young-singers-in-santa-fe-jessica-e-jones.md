@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /young-singers-in-santa-fe-jessica-e-jones/
+slug = "young-singers-in-santa-fe-jessica-e-jones"
 title = "Young singers in Santa Fe: Jessica E. Jones"
 +++
 

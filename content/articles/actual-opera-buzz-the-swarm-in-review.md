@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /actual-opera-buzz-the-swarm-in-review/
+slug = "actual-opera-buzz-the-swarm-in-review"
 title = "Actual opera buzz: The Swarm, in review"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /justin-ralph-it-all-comes-down-to-storytelling/
+slug = "justin-ralph-it-all-comes-down-to-storytelling"
 title = "Justin Ralph: &quot;It all comes down to storytelling.&quot;"
 +++
 

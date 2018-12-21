@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /whats-on-eh/
+slug = "whats-on-eh"
 title = "What&#039;s on, eh?"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /go-canada/
+slug = "go-canada"
 title = "Go, Canada!"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /freetheknee-part-2-you-have-better-choices/
+slug = "freetheknee-part-2-you-have-better-choices"
 title = "#FreeTheKnee Part 2: &quot;You have better choices.&quot;"
 +++
 

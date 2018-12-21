@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /opera-on-taps-her-kind-music-a-beer/
+slug = "opera-on-taps-her-kind-music-a-beer"
 title = "Opera On Tap&#039;s Her Kind: music &amp; a beer"
 +++
 

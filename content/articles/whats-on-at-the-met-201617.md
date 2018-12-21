@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /whats-on-at-the-met-201617/
+slug = "whats-on-at-the-met-201617"
 title = "What&#039;s on at the Met: 2016/17"
 +++
 

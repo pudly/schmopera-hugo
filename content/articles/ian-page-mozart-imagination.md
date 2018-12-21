@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /ian-page-mozart-imagination/
+slug = "ian-page-mozart-imagination"
 title = "Ian Page: Mozart &amp; imagination"
 +++
 

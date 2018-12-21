@@ -1,6 +1,6 @@
 +++
 categories = "Op-ed"
-slug = /power-plays-and-crossing-lines-/
+slug = "power-plays-and-crossing-lines-"
 title = "Power plays and crossing lines "
 +++
 

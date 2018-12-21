@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /the-dallas-opera-picks-its-women-conductors/
+slug = "the-dallas-opera-picks-its-women-conductors"
 title = "The Dallas Opera picks its Women Conductors"
 +++
 

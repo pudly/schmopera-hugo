@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /for-kids-grownups-alike-the-scorpions-sting/
+slug = "for-kids-grownups-alike-the-scorpions-sting"
 title = "For kids &amp; grown-ups alike: The Scorpion&#039;s Sting"
 +++
 

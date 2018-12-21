@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /bo-burnham-live-theatre/
+slug = "bo-burnham-live-theatre"
 title = "Bo Burnham, live theatre"
 +++
 

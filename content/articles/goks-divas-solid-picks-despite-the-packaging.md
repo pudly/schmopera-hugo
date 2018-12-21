@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /goks-divas-solid-picks-despite-the-packaging/
+slug = "goks-divas-solid-picks-despite-the-packaging"
 title = "Gok&#039;s Divas: solid picks, despite the packaging"
 +++
 

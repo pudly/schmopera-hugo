@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /atg-in-banff-2015/
+slug = "atg-in-banff-2015"
 title = "AtG in Banff, 2015"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /a-futuristic-love-story-the-invention-of-morel/
+slug = "a-futuristic-love-story-the-invention-of-morel"
 title = "A futuristic love story: The Invention of Morel"
 +++
 

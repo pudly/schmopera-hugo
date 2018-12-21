@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /opera-with-a-message-operation-superpower/
+slug = "opera-with-a-message-operation-superpower"
 title = "Opera with a message: Operation Superpower"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /a-little-mozart-a-little-murder-a-lot-of-fun/
+slug = "a-little-mozart-a-little-murder-a-lot-of-fun"
 title = "A little Mozart, a little murder, a lot of fun"
 +++
 

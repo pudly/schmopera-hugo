@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /palpable-chamber-music-haymarket-operas-lenten-oratorio/
+slug = "palpable-chamber-music-haymarket-operas-lenten-oratorio"
 title = "Palpable chamber music: Haymarket Opera&#039;s Lenten Oratorio"
 +++
 

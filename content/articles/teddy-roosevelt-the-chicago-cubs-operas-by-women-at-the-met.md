@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /teddy-roosevelt-the-chicago-cubs-operas-by-women-at-the-met/
+slug = "teddy-roosevelt-the-chicago-cubs-operas-by-women-at-the-met"
 title = "Teddy Roosevelt, the Chicago Cubs, &amp; operas by women at the Met"
 +++
 

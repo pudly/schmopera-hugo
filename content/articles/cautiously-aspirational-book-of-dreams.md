@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /cautiously-aspirational-book-of-dreams/
+slug = "cautiously-aspirational-book-of-dreams"
 title = "Cautiously aspirational: Book of Dreams"
 +++
 

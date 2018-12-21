@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /artists-to-watch-teng-li/
+slug = "artists-to-watch-teng-li"
 title = "Artists to watch: Teng Li"
 +++
 

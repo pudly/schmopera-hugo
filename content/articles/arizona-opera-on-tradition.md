@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /arizona-opera-on-tradition/
+slug = "arizona-opera-on-tradition"
 title = "Arizona Opera, on tradition"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /mireille-asselins-phone-call-from-the-met/
+slug = "mireille-asselins-phone-call-from-the-met"
 title = "Mireille Asselin&#039;s phone call from the Met"
 +++
 

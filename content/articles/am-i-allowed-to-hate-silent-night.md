@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /am-i-allowed-to-hate-silent-night/
+slug = "am-i-allowed-to-hate-silent-night"
 title = "Am I allowed to hate Silent Night?"
 +++
 

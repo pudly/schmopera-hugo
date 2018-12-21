@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /8-contemporary-roles-to-covet/
+slug = "8-contemporary-roles-to-covet"
 title = "8 contemporary roles to covet"
 +++
 

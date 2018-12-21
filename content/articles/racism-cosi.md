@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /racism-cosi/
+slug = "racism-cosi"
 title = "Racism Cosi"
 +++
 

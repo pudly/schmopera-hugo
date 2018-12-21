@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /ropera-and-elephants-ears/
+slug = "ropera-and-elephants-ears"
 title = "R/Opera and Elephant&#039;s Ears"
 +++
 

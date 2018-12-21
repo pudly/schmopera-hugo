@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /the-mikado-and-champagne/
+slug = "the-mikado-and-champagne"
 title = "The Mikado and Champagne"
 +++
 

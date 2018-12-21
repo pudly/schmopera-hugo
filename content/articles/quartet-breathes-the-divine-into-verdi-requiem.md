@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /quartet-breathes-the-divine-into-verdi-requiem/
+slug = "quartet-breathes-the-divine-into-verdi-requiem"
 title = "Quartet breathes the divine into Verdi Requiem"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /st-patricks-day-potpourri/
+slug = "st-patricks-day-potpourri"
 title = "St. Patrick&#039;s Day Potpourri"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /introducingthe-schmug/
+slug = "introducingthe-schmug"
 title = "Introducing...the Schmug!"
 +++
 

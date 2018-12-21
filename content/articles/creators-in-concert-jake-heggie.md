@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /creators-in-concert-jake-heggie/
+slug = "creators-in-concert-jake-heggie"
 title = "Creators in Concert: Jake Heggie"
 +++
 

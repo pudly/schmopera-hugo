@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /aviva-fortunata-it-was-a-total-blur/
+slug = "aviva-fortunata-it-was-a-total-blur"
 title = "Aviva Fortunata: &quot;It was a total blur!&quot;"
 +++
 

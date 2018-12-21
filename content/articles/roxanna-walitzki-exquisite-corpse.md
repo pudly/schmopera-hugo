@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /roxanna-walitzki-exquisite-corpse/
+slug = "roxanna-walitzki-exquisite-corpse"
 title = "Roxanna Walitzki: Exquisite Corpse"
 +++
 

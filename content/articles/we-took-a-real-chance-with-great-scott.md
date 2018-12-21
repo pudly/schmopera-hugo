@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /we-took-a-real-chance-with-great-scott/
+slug = "we-took-a-real-chance-with-great-scott"
 title = "&quot;We took a real chance with Great Scott.&quot;"
 +++
 

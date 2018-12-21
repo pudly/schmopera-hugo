@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /resources-visibility-for-ircpas-new-singing-stars/
+slug = "resources-visibility-for-ircpas-new-singing-stars"
 title = "Resources &amp; visibility for IRCPA&#039;s New Singing Stars"
 +++
 

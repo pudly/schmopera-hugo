@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /metrowest-double-bill-provides-thrills-delights-despite-mismatch/
+slug = "metrowest-double-bill-provides-thrills-delights-despite-mismatch"
 title = "MetroWest Double Bill Provides Thrills &amp; Delights Despite Mismatch"
 +++
 

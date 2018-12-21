@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /singing-in-germany-bel-canto-summer-voice-program/
+slug = "singing-in-germany-bel-canto-summer-voice-program"
 title = "Singing in Germany: Bel Canto Summer Voice Program"
 +++
 

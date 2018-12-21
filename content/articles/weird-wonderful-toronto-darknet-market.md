@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /weird-wonderful-toronto-darknet-market/
+slug = "weird-wonderful-toronto-darknet-market"
 title = "Weird &amp; wonderful: Toronto Darknet Market"
 +++
 

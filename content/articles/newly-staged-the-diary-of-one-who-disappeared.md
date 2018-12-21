@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /newly-staged-the-diary-of-one-who-disappeared/
+slug = "newly-staged-the-diary-of-one-who-disappeared"
 title = "Newly staged: The Diary of One Who Disappeared"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "How-to"
-slug = /how-to-really-learn-a-song/
+slug = "how-to-really-learn-a-song"
 title = "How to really learn a song"
 +++
 

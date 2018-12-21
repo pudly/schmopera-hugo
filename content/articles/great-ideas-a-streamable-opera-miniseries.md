@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /great-ideas-a-streamable-opera-miniseries/
+slug = "great-ideas-a-streamable-opera-miniseries"
 title = "Great ideas: a streamable opera miniseries"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-la-colla-katzarava-in-recital/
+slug = "in-review-la-colla-katzarava-in-recital"
 title = "In review: La Colla &amp; Katzarava in recital"
 +++
 

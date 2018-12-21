@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /feminist-truths-the-mother-of-us-all/
+slug = "feminist-truths-the-mother-of-us-all"
 title = "Feminist truths: The Mother of Us All"
 +++
 

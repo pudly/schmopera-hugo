@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /powerful-stuff-the-elizabeth-krehm-memorial-concert/
+slug = "powerful-stuff-the-elizabeth-krehm-memorial-concert"
 title = "Powerful stuff: the Elizabeth Krehm Memorial Concert"
 +++
 

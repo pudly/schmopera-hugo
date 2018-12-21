@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /robert-ames-deep-minimalism-lco/
+slug = "robert-ames-deep-minimalism-lco"
 title = "Robert Ames: Deep Minimalism &amp; LCO"
 +++
 

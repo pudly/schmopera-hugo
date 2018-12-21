@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /brian-finleys-the-pencil-salesman/
+slug = "brian-finleys-the-pencil-salesman"
 title = "Brian Finley&#039;s The Pencil Salesman"
 +++
 

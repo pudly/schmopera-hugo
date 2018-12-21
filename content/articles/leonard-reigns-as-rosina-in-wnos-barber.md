@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /leonard-reigns-as-rosina-in-wnos-barber/
+slug = "leonard-reigns-as-rosina-in-wnos-barber"
 title = "Leonard reigns as Rosina in WNO&#039;s Barber"
 +++
 

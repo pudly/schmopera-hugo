@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /la-opera-scores-in-first-half-of-bizet-doubleheader/
+slug = "la-opera-scores-in-first-half-of-bizet-doubleheader"
 title = "LA Opera scores in first half of Bizet double-header"
 +++
 

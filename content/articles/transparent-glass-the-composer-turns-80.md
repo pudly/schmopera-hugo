@@ -1,6 +1,6 @@
 +++
 categories = "Editorial"
-slug = /transparent-glass-the-composer-turns-80/
+slug = "transparent-glass-the-composer-turns-80"
 title = "Transparent Glass: the composer turns 80"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Interview"
-slug = /matjash-mrozewski-delight-wonder-are-great-things/
+slug = "matjash-mrozewski-delight-wonder-are-great-things"
 title = "Matjash Mrozewski: &quot;Delight &amp; wonder are great things.&quot;"
 +++
 

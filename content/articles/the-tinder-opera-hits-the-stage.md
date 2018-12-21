@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /the-tinder-opera-hits-the-stage/
+slug = "the-tinder-opera-hits-the-stage"
 title = "The Tinder Opera hits the stage"
 +++
 

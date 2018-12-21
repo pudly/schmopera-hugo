@@ -1,6 +1,6 @@
 +++
 categories = "News"
-slug = /dont-miss-esprit-orchestras-35th-anniversary-season/
+slug = "dont-miss-esprit-orchestras-35th-anniversary-season"
 title = "Don&#039;t miss: Esprit Orchestra&#039;s 35th anniversary season"
 +++
 

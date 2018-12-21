@@ -1,6 +1,6 @@
 +++
 categories = "Humour"
-slug = /tales-from-the-score-bohemians-in-love/
+slug = "tales-from-the-score-bohemians-in-love"
 title = "Tales from the score: Bohemians in love"
 +++
 

@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /in-review-strauss-brahms-at-the-barbican/
+slug = "in-review-strauss-brahms-at-the-barbican"
 title = "In review: Strauss &amp; Brahms at the Barbican"
 +++
 

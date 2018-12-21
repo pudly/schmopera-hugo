@@ -1,6 +1,6 @@
 +++
 categories = "Review"
-slug = /more-than-the-scream-dear-edvard/
+slug = "more-than-the-scream-dear-edvard"
 title = "More than The Scream: Dear Edvard"
 +++
 
