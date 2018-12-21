@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-02-08T11:55:00-05:00"
 lastmod = "2018-02-08T13:11:00-05:00"
 publishDate = "2018-02-08T11:55:00-05:00"
+short_description = "The night ended with a nod to Leonard Bernstein's 100th Birthday - \"Somewhere\" from West Side Story. The lyrics \"There's a place for us - somewhere a place for us…\" she dedicated to the DACA Dreamers, and the evening ended with many in tears and everyone on their feet for several standing ovations."
 slug = "heavenly-voice-visits-the-city-of-angels"
 title = "Heavenly voice visits the City of Angels"
 +++

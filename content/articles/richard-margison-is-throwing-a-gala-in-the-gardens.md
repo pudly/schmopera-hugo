@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2015-07-24T10:12:00-04:00"
 lastmod = "2015-07-26T10:26:00-04:00"
+preamble = "On Saturday, August 8th at [Abbey Gardens](http://www.abbeygardens.ca/), Haliburton, [Highlands Opera Studio](/scene/companies/highlands-opera-studio/) present *Gala in the Gardens*, in honour of their exciting initiative of creating a new, attractive theatre space. Richard Margison, famed Canadian tenor and Artistic Director of Highlands Opera Studio, is putting on quite a show, featuring jazz artists, players from the Canadian Opera Company Orchestra, and alumni singers from past HOS seasons.\n\nThis summer at Highlands, you can catch recitals, concerts, and performances of two operas: Mozart's *Le nozze di Figaro* (Aug.30-Sep.3) and Tobin Stoke's *The Vinedressers* (Aug. 19 & 21). I chatted with Margison about the *Gala*, his 2015 summer season, and about what it takes to support art in communities large and small.\n\nFor details and tickets, visit [HOS' website](http://www.highlandsoperastudio.com/#sthash.IRX9tDH2.dpbs). "
 publishDate = "2015-07-26T10:12:00-04:00"
+short_description = " Highlands Opera Studio present Gala in the Gardens, in honour of their exciting initiative of creating a new, attractive theatre space. Richard Margison, famed Canadian tenor and Artistic Director of Highlands Opera Studio, is putting on quite a show, featuring jazz artists, players from the Canadian Opera Company Orchestra, and alumni singers from past HOS seasons."
 slug = "richard-margison-is-throwing-a-gala-in-the-gardens"
 title = "Richard Margison is throwing a Gala in the Gardens"
 +++

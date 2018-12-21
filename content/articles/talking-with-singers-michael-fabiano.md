@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2018-05-26T14:03:00-04:00"
 lastmod = "2018-05-26T17:56:00-04:00"
 publishDate = "2018-05-26T17:56:00-04:00"
+short_description = "\"We're in an era where things need to be tried. We can't just do the same. That's the argument against the model in America sometimes, where we just do traditional opera productions for the sake of doing them traditionally because no one wants to see anything different. That to me is not an acceptable answer.\""
 slug = "talking-with-singers-michael-fabiano"
 title = "Talking with singers: Michael Fabiano"
 +++

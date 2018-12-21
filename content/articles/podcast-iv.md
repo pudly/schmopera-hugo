@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2015-01-08T15:21:00-05:00"
 lastmod = "2015-04-11T23:41:00-04:00"
 publishDate = "2015-01-08T15:21:00-05:00"
+short_description = "This week, I join host extraordinaire Gianmarco Segato for the latest instalment of The Big COC Podcast. With arts critics Joseph So (La Scena Musicale) and Catherine Kustanczy (Opera News, Bachtrack, Hyperallergic), we chat about the current-est of current opera events: New York City Opera and its renaissance, adaptable opera companies, and the silencing of critics."
 slug = "podcast-iv"
 title = "Podcast IV"
 +++

@@ -2,7 +2,9 @@
 categories = "Review"
 date = "2015-11-04T13:12:00-05:00"
 lastmod = "2015-11-04T21:28:00-05:00"
+preamble = "Last night, I went with [Greg Finney](https://twitter.com/gregory_finney) to [Centre Stage](http://coccentrestage.ca/), the [Canadian Opera Company](/scene/companies/canadian-opera-company/)'s Ensemble Studio Competition. The competition is the culmination of nationwide auditions, narrowing the 120 applicants down to eight young Canadian singers. Dressed in gorgeous gowns and suits (gifted to them from The Hudson's Bay Company's Queen Street store), finalists sing on the Four Seasons Centre stage, with the COC Orchestra led by Music Director Johannes Debus. It's a pretty big deal for these aspiring young singers.\n\nThe evening is separated into two rounds, one for the panel of judges and a private audience, followed by a second round for the public. This year, Greg and I were lucky enough to hear both rounds, and so we were each able to get a slightly broader look at these young artists. Here's what we thought, ladies first:"
 publishDate = "2015-11-04T14:26:00-05:00"
+short_description = "Last night, I went with Greg Finney to Centre Stage, the Canadian Opera Company's Ensemble Studio Competition. The competition is the culmination of nationwide auditions, narrowing the 120 applicants down to eight young Canadian singers. Dressed in gorgeous gowns and suits (gifted to them from The Hudson's Bay Company's Queen Street store), finalists sing on the Four Seasons Centre stage, with the COC Orchestra led by Music Director Johannes Debus. It's a pretty big deal for these aspiring young singers."
 slug = "she-saidhe-said-centre-stage-2015"
 title = "She said/He said: Centre Stage 2015"
 +++

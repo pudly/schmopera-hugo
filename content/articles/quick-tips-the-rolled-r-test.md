@@ -3,6 +3,7 @@ categories = "How-to"
 date = "2015-09-25T10:24:00-04:00"
 lastmod = "2017-11-11T14:20:00-05:00"
 publishDate = "2015-09-29T08:00:00-04:00"
+short_description = "What I've found is that rolled Rs in a singer's text can act as a sort of litmus test for where that singer is maintaining their resonance. As a coach, if I ask for more consonants in an Italian aria, and a rolled R seems difficult to project, the problem usually lies in the preceding vowel."
 slug = "quick-tips-the-rolled-r-test"
 title = "Quick tips: the rolled R test"
 +++

@@ -3,6 +3,7 @@ categories = "News"
 date = "2017-02-01T10:30:00+00:00"
 lastmod = "2017-02-01T12:47:00+00:00"
 publishDate = "2017-02-01T12:39:00+00:00"
+short_description = "\"Adventure ensues as we experience the world around us for the first time through the eyes of the recently awoken Leeka, a curious and vivacious young woman from a galaxy far away.\""
 slug = "dont-miss-haus-musik"
 title = "Don&#039;t miss: Haus Musik"
 +++

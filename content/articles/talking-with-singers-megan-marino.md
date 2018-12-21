@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2018-06-18T13:30:00-04:00"
 lastmod = "2018-06-20T13:24:00-04:00"
+preamble = "This month, American-Italian mezzo-soprano [Megan Marino](/scene/people/megan-marino/) will begin a run of [*Madama Butterfly* at Santa Fe Opera](https://www.santafeopera.org/operas-and-ticketing/madame-butterfly), singing Suzuki opposite two casts led by [Kelly Kaduce](/scene/people/kelly-kaduce/) and [Ana-María Martínez](/scene/people/ana-maria-martinez/) in the title roles.\n\nMarino is an artist in love with her craft, and she dives into the roles she sings with personal investment. We spoke with her about the emotional rollercoaster of singing Suzuki, and why she likes a wholistic approach to her varied roles, from Hänsel to Olga to Despina."
 publishDate = "2018-06-19T09:01:00-04:00"
+short_description = "\"We just had our first work-through, and I'm done; none of those tears are forced, they're just human. In this production, by the time we get to the end, it's set up so that the audience can most relate to Suzuki's journey and reactions. They see everything from her vantage point. She knows how it's all going to end from the moment the Americans enter the house, but stays the course.\""
 slug = "talking-with-singers-megan-marino"
 title = "Talking with singers: Megan Marino"
 +++

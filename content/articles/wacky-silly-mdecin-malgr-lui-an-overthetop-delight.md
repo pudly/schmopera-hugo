@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-11-10T12:27:00-05:00"
 lastmod = "2018-11-10T13:27:00-05:00"
 publishDate = "2018-11-10T12:27:00-05:00"
+short_description = "But of course, Stephen Salters proved to be the definitive star of the night with the way he played the role of Sganarelle. Salters proved to be an extremely versatile performer whose comedy was absolutely on point throughout the whole, be it from his tasteful vocal colorations in his drinking song to the exasperation towards his near-hanging at the end of the opera."
 slug = "wacky-silly-mdecin-malgr-lui-an-overthetop-delight"
 title = "Wacky &amp; silly Médecin malgré lui an over-the-top delight"
 +++

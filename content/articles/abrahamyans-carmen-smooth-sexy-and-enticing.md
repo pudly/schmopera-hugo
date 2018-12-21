@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-05-05T16:24:00-04:00"
 lastmod = "2018-05-07T20:50:00-04:00"
 publishDate = "2018-05-07T20:14:00-04:00"
+short_description = "There was a lot about this production that I enjoyed - Corner's staging keeps the energy and feel of Bizet's original piece while also allowing for Atlanta Opera's chorus to provide some of their trademark cheekiness within the larger chorus numbers."
 slug = "abrahamyans-carmen-smooth-sexy-and-enticing"
 title = "Abrahamyan&#039;s Carmen &quot;smooth, sexy, and enticing.&quot;"
 +++

@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2014-09-06T12:26:00-04:00"
 lastmod = "2017-11-11T14:17:00-05:00"
 publishDate = "2014-09-06T12:26:00-04:00"
+short_description = "A few articles popped up recently about the problem of anxiety and depression amongst classical musicians. A survey done by Help Musicians UK sampled after 500 working musicians (about 20% of them singers), and found that 60% claimed to have suffered from a psychological concern such as depression and/or debilitating anxiety. "
 slug = "substance-abuse-in-the-opera-industry-yup-but-why"
 title = "Substance abuse in the opera industry, yup. But why?"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-10-10T09:18:00+01:00"
 lastmod = "2016-10-11T14:09:00+01:00"
 publishDate = "2016-10-11T14:02:00+01:00"
+short_description = "Commendations go to stage director John Hoomes. We were promised a \"visually striking\" production, and that promise was fulfilled. Mr. Hoomes, whose choice to juxtapose the classic opera with modern, minimalist (yet effective) set design, action that ebbed and flowed between pleasing camp and very human, and innovative color schemes, used exciting visual symbolism to highlight the thematic duality of the story."
 slug = "in-review-don-giovanni-at-nashville-opera"
 title = "In review: Don Giovanni at Nashville Opera"
 +++

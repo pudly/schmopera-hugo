@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-10-01T17:03:00-04:00"
 lastmod = "2017-10-01T21:45:00-04:00"
 publishDate = "2017-10-01T21:33:00-04:00"
+short_description = "A highlight of the performance was the chorus of the furies in Act IV, as summoned by the sorcerer Géralde. Snakes were an effective unifying visual element here: not only were the demons themselves swaying like charmed snakes and brandishing faux snakes, but their Medusa-like wigs and skirts fashioned from wide strips of flowing fabric brought great movement to the scene. The music's regular flowing triple meter was often unexpectedly interrupted by hemiola hiccups so typical of baroque dance rhythms."
 slug = "overdue-for-the-stage-haymarket-opera-companys-ariane-et-bachus"
 title = "Overdue for the stage: Haymarket Opera Company&#039;s Ariane et Bachus"
 +++

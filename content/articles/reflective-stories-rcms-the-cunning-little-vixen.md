@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-12-04T20:58:00-05:00"
 lastmod = "2017-12-05T20:33:00-05:00"
 publishDate = "2017-12-05T20:33:00-05:00"
+short_description = "This is what makes The Cunning Little Vixen such a remarkable opera: in watching its complicated and confused characters, ironically half of whom are animals, we see so much of ourselves. Understanding these intricacies and subtleties, the RCM created a production which explored the contradictions and pretenses that comprise being human."
 slug = "reflective-stories-rcms-the-cunning-little-vixen"
 title = "Reflective stories: RCM&#039;s The Cunning Little Vixen"
 +++

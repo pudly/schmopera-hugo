@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2017-04-18T13:59:00-04:00"
 lastmod = "2017-04-25T09:39:00-04:00"
 publishDate = "2017-04-25T09:39:00-04:00"
+short_description = "Hers is a career that proves the value of working well with one's contemporaries, be they professional or academic. \"You don't realize when you're young that everyone around you will continue to be around you. Treat people well, be grateful.\" Cooke knows well that no musician is an island, and \"in a way, being a musician is a perfect heightened example of being human. We are all dependent on one another.\""
 slug = "talking-with-singers-sasha-cooke"
 title = "Talking with singers: Sasha Cooke"
 +++

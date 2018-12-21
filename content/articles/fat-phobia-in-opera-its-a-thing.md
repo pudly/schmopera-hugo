@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2016-08-31T08:08:00-04:00"
 lastmod = "2017-08-14T09:10:00-04:00"
 publishDate = "2016-09-01T08:47:00-04:00"
+short_description = "What I do know is I have questions that I hope we all can start to ask ourselves: Where does this critical conversation fit in this profession? What happens when superficial beauty standards discriminate gifted singers out of the business? Is there a way to have a body positive mindset and approach in this industry?"
 slug = "fat-phobia-in-opera-its-a-thing"
 title = "Fat phobia in opera? It&#039;s a thing"
 +++

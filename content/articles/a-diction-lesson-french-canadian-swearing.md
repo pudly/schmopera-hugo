@@ -2,7 +2,9 @@
 categories = "Op-ed"
 date = "2016-11-28T20:10:00+00:00"
 lastmod = "2016-11-30T14:52:00+00:00"
+preamble = "This article is based on an email sent by contributor [Blanche Israël](/authors/blanche-israel/) to the creative team behind [*Chasse-Galerie*](https://www.soulpepper.ca/performances/chasse-galerie/2003), the musical by James Smith that's currently onstage at [Soulpepper Theatre](https://www.soulpepper.ca/). The company has responded positively to Blanche's tips, which are fascinating enough to warrant a special post on cursing *en français*."
 publishDate = "2016-11-29T17:36:00+00:00"
+short_description = "Words like tabarnak, câlisse, criss, simonaque, ciboire, calvaire, viarge and esti are nouns, so they generally require a \"de\" after them when they are used to describe something. A few of them were used as adjectives on a few occasions, which sounds off to a native speaker. For example, you can't say \"that tabarnak chair\". A connector word is missing: \"that tabarnak de chair\", \"cette tabarnak de chaise\". It's like saying \"that f*ck chair\", it just doesn't work, it has to be \"f*cking\" for it to make grammatical sense."
 slug = "a-diction-lesson-french-canadian-swearing"
 title = "A diction lesson: French Canadian swearing"
 +++

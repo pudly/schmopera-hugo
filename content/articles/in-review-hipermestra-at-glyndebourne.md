@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-05-30T08:42:00-04:00"
 lastmod = "2017-05-30T08:49:00-04:00"
 publishDate = "2017-05-30T08:49:00-04:00"
+short_description = "Fifty brides, a giant flying peacock, and appropriated costumes from the middle east are all present in Glyndebourne’s new production of Hipermestra by Cavalli. Long-established Glyndebourne veterans William Christie and Graham Vick collaborated to bring this opera to life for the first time since the seventeenth century."
 slug = "in-review-hipermestra-at-glyndebourne"
 title = "In review: Hipermestra at Glyndebourne"
 +++

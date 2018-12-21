@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2015-02-02T16:16:00-05:00"
 lastmod = "2015-04-11T21:53:00-04:00"
 publishDate = "2015-02-02T16:16:00-05:00"
+short_description = "This morning, Peter Oundjian announced the Toronto Symphony Orchestra's 2015/16 season. It looks creative and diverse, and there are more than a few items on the menu I can't wait to see. One of them is The Decades Project, a collection of six concert programmes featuring music from 1900-1909 (Oct. 21-Nov. 14, 2015), and 1910-1919 (May 25-Jun. 11, 2016)."
 slug = "singing-at-the-tso-201516-"
 title = "Singing at the TSO, 2015/16 "
 +++

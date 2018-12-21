@@ -3,6 +3,7 @@ categories = "Review"
 date = "2015-01-10T15:05:00-05:00"
 lastmod = "2015-04-11T23:32:00-04:00"
 publishDate = "2015-01-10T15:05:00-05:00"
+short_description = "Last night I went to see famed mezzo-soprano Anne Sofie von Otter and star pianist Angela Hewitt in recital. I couldn’t believe my luck; these two women are both artists whom I’ve wanted to hear live for years, and here they both were at the very convenient Koerner Hall. They performed a focused, cohesive program. "
 slug = "in-review-anne-sofie-von-otter-and-angela-hewitt"
 title = "In review: Anne Sofie von Otter and Angela Hewitt"
 +++

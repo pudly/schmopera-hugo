@@ -3,6 +3,7 @@ categories = "News"
 date = "2015-12-02T18:23:00-05:00"
 lastmod = "2015-12-03T10:38:00-05:00"
 publishDate = "2015-12-03T10:32:00-05:00"
+short_description = "With the Google Cultural Institute, you can listen to the dress rehearsal for Lohengrin at Fundação Theatro Municipal de São Paulo, or watch Yannick Nézet-Séguin conduct the Philadelphia Orchestra at Carnegie Hall, or basically stand onstage for a rehearsal of Gregory Doran's Henry V at The Royal Shakespeare Company. Multiple 360˚ cameras are placed in the space, sitting you right among the woodwinds, or centre stage among the sets."
 slug = "the-performing-arts-in-360"
 title = "The performing arts, in 360˚"
 +++

@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2014-01-15T10:23:00-05:00"
 lastmod = "2015-04-28T22:45:00-04:00"
 publishDate = "2014-01-15T10:23:00-05:00"
+short_description = "So, in 1993 there was a study published in Nature by Francis Rauscher to try and measure the effect of classical music on spatial skills in children. The study found that 10 minutes of Mozart improved the spatial reasoning skills of college students and rats, and 10 minutes of piano or singing lessons did the same for preschoolers. "
 slug = "the-case-for-music-education"
 title = "The Case for Music Education"
 +++

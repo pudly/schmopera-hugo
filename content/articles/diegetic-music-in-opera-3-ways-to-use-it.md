@@ -2,7 +2,9 @@
 categories = "Humour"
 date = "2017-02-22T13:53:00+00:00"
 lastmod = "2017-02-25T11:00:00+00:00"
+preamble = "If you don't recognize the term, you definitely recognize the device. [Diegetic music](https://en.wikipedia.org/wiki/Diegesis#Film_sound_and_music) in a show - be it television, film, or even opera - is essentially music that the characters hear as well as the audience. In film and TV, often we realize that music is diegetic because it stops when a character switches off a radio, or pulls headphones out of their ears.\n\nBy design, most of the music in opera is non-diegetic, meaning the characters in opera do not hear it. But often composers will get creative with the medium of opera, using the music itself to bring the audience closer to the character's experience.\n\nWe've come up with a few great examples of diegetic music in opera, and how the device can offer comic relief, dramatic irony, and even shows within the show."
 publishDate = "2017-02-25T10:50:00+00:00"
+short_description = "One of the most moving examples of this diegetic music technique is in that shattering finale of Poulenc's Dialogues des Carmélites. The nuns sing the \"Salve regina\" as they are led hopelessly to the guillotine; one by one, the voices peter out, and Poulenc even adds the horrific sound of a guillotine, as though he wants to make you wince and weep."
 slug = "diegetic-music-in-opera-3-ways-to-use-it"
 title = "Diegetic music in opera: 3 ways to use it"
 +++

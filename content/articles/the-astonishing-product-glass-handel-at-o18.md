@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-09-24T20:32:00-04:00"
 lastmod = "2018-09-24T20:33:00-04:00"
 publishDate = "2018-09-24T20:32:00-04:00"
+short_description = "As the audience made their way to seats, there was a rising sense of tension. We had been informed at least six times that we would be moved around during this multimedia event. One had to question why there were so many disclaimers. Do we really want a stranger moving our chairs during a performance? Well, it turns out, yes we do."
 slug = "the-astonishing-product-glass-handel-at-o18"
 title = "The astonishing product: Glass Handel at O18"
 +++

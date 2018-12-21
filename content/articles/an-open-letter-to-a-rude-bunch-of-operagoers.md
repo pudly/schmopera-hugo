@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2017-02-23T08:49:00-05:00"
 lastmod = "2017-09-22T11:30:00-04:00"
 publishDate = "2017-02-24T04:24:00-05:00"
+short_description = "Maybe you were dragged to the opera against your will. Maybe you were guilted into seeing the show, because you knew someone in it. Maybe you were hangry, or maybe your ass fell asleep. Or maybe Occam's Razor applies to you and your disruptive crew, and you're rude, phone-addicted people who can't read the room."
 slug = "an-open-letter-to-a-rude-bunch-of-operagoers"
 title = "An open letter to a rude bunch of operagoers"
 +++

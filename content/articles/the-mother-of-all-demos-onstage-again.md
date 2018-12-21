@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2015-04-10T20:56:00-04:00"
 lastmod = "2015-04-10T20:56:00-04:00"
 publishDate = "2015-03-31T08:55:00-04:00"
+short_description = "This week at Stanford University, composers and performers Mikel Rouse and Ben Neill present the world premiere of their music theatre piece, The Demo. The piece is based on the true story of Douglas Engelbart's demonstration of new technology in 1968, in which he introduced the idea of hypertext and even the very first mouse."
 slug = "the-mother-of-all-demos-onstage-again"
 title = "&quot;The Mother of All Demos,&quot; Onstage Again"
 +++

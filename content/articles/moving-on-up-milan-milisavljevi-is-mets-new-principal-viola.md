@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2018-06-24T11:20:00-04:00"
 lastmod = "2018-06-25T20:12:00-04:00"
+preamble = "After 12 seasons as Assistant Principal Violist of the Metropolitan Opera Orchestra, 2018/19 will mark [Milan Milisavljević](http://milanmilisavljevic.com/news-articles/milan-wins-the-position-of-principal-violist-of-the-metropolitan-opera-orchestra/)'s first season as Principal Violist. It's rare nin North America for a player to move up within his own orchestral section, and Milisavljević is only the fifth person to hold his new post since the founding of the Met.\n\nWe spoke with Milisavljević about the unique psychology of blind auditions - playing behind a screen, so the player's identity is unknown - and the ups and downs of playing in the pit for one of the world's most iconic, news-worthy opera companies."
 publishDate = "2018-06-25T20:08:00-04:00"
+short_description = "\"Any section can have great harmony as well as tremendous strife. With a change of personnel and myself becoming Principal after twelve years of sitting Third Chair, I hope to usher an era of cooperation, artistic integrity and excellence that my section mates and I desired and can finally have.\""
 slug = "moving-on-up-milan-milisavljevi-is-mets-new-principal-viola"
 title = "Moving on up: Milan Milisavljević is MET&#039;s new Principal Viola"
 +++

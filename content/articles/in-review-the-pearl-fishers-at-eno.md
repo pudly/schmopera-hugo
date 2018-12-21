@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-10-20T10:18:00+01:00"
 lastmod = "2016-10-20T12:47:00+01:00"
 publishDate = "2016-10-20T11:55:00+01:00"
+short_description = "The ENO Chorus had a busy night, and they delivered solid, precise crowd scenes, full of sparkling individuality. With the booming James Creswell as Nourabad, they created a world that drew us in. Under maestro Roland Böer, the ENO Orchestra had a lush, rich sound; at times it overpowered, yet perhaps it was only a problem for the orchestra-level seats."
 slug = "in-review-the-pearl-fishers-at-eno"
 title = "In review: The Pearl Fishers at ENO"
 +++

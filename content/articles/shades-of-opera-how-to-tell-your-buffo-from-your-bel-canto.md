@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2017-02-08T10:50:00-05:00"
 lastmod = "2018-03-14T10:58:00-04:00"
+preamble = "Opera is opera is opera, right? Lots of singing, some love affairs and some deaths? Well, of course. But within the broad term of \"opera\", there are subgenres which all offer something a bit different.\n\nWhether you're looking for some clarity on the operatic styles, or you're hoping to make an educated choice on an upcoming trip to the opera, we've got a crash course in everything from *opera seria* to *Romantische Oper* - and even a few examples.\n"
 publishDate = "2017-02-13T05:50:00-05:00"
+short_description = "Verismo music is decidedly gorgeous, with long, sweeping lines and a thick orchestra. The musical style is a foundation for the film scores of today, and though the impression is powerful, the harmonic structure of many verismo scores is fairly simple; it adds to the audience accessibility, and makes for some beautiful tunes to hum as you leave the theatre."
 slug = "shades-of-opera-how-to-tell-your-buffo-from-your-bel-canto"
 title = "Shades of opera: how to tell your buffo from your bel canto"
 +++

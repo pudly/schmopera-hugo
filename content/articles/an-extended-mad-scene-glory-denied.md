@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-11-08T10:16:00-05:00"
 lastmod = "2017-11-08T22:12:00-05:00"
 publishDate = "2017-11-08T20:19:00-05:00"
+short_description = "This work does succeed in its desire, as the composer explained in a talkback, to give an idea of the angst of the time period for the current generation, and it does successfully highlight the plight of disregard for veterans' care that casts a pall over the legacy of our great nation."
 slug = "an-extended-mad-scene-glory-denied"
 title = "An extended mad scene: Glory Denied"
 +++

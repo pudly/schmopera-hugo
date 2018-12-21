@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2018-10-15T20:24:00-04:00"
 lastmod = "2018-10-15T20:27:00-04:00"
 publishDate = "2018-10-15T20:27:00-04:00"
+short_description = "Such longevity puts it among the upper echelon of Canadian opera companies in Canada - a feat more impressive when we consider that Atelier performs exclusively 17th- and 18th-century baroque opera. It's almost impossible to resist saying it: \"If it ain't baroque, don't fix it.\""
 slug = "a-daring-desirous-doublebill-at-opera-atelier"
 title = "A daring &amp; desirous double-bill at Opera Atelier"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-10-08T23:02:00-04:00"
 lastmod = "2017-10-08T23:32:00-04:00"
 publishDate = "2017-10-08T23:26:00-04:00"
+short_description = "Here is when a reviewer typically starts reaching into his bag of superlatives, but at the risk of hyperbolizing, Kelsey's performance sets a new standard. At just 39 years old, the Ryan-Opera-Center-alumnus looked and sounded every bit the part of a father aged and disfigured by paranoia, disillusionment, and delusion."
 slug = "searching-for-superlatives-locs-suberb-rigoletto"
 title = "Searching for superlatives: LOC&#039;s suberb Rigoletto"
 +++

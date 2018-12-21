@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2018-03-15T20:24:00-04:00"
 lastmod = "2018-03-19T12:48:00-04:00"
 publishDate = "2018-03-18T18:23:00-04:00"
+short_description = "Lots of laughter punctuated our shop talk and often the most memorable moments occurred during the singers' natural repartee. Below is a lightly-edited collection of answers to some of my questions, which I asked over the course of an hour-long conversation. Read on for a bit of insight into these three singers' lives and work."
 slug = "roundtable-an-operatic-triple-threat"
 title = "Roundtable: an operatic triple threat"
 +++

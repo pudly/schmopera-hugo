@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-10-25T23:35:00-04:00"
 lastmod = "2018-11-02T12:56:00-04:00"
 publishDate = "2018-10-26T10:04:00-04:00"
+short_description = "Thank goodness for one-act operas. They're like a shot of great espresso, or a single chocolate truffle - the kind of indulgence that's short-lived, but immediate and totally satisfying. Among all the lengthy, luxuriating opera we see - all the da capo arias and all the Wagner - compact one-acts like Actéon and Pygmalion allow even the most hardcore of opera fans to admit that their attention spans don't always like to be stretched so thin."
 slug = "feminism-confetti-ateliers-triplebill"
 title = "Feminism &amp; confetti: Atelier&#039;s triple-bill"
 +++

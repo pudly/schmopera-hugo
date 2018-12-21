@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2018-02-12T21:50:00-05:00"
 lastmod = "2018-02-13T21:08:00-05:00"
+preamble = "American baritone [Lucas Meachem](/scene/people/lucas-meachem/) just finished singing the title role in *Il barbiere di Siviglia* at Houston Grand Opera, and this week he begins a run of Marcello in *La bohème* at the Metropolitan Opera. Later this season, he'll sing Athanaël in *Thaïs* at Minnesota Opera, and the title role in *Don Giovanni* at Semperoper Dresden.\n\nWe loved our chat with Meachem, about a very charmed night of karaoke in Paris, and how he uses his [blog](https://thebaritoneblog.com/) to communicate with his colleagues and fans."
 publishDate = "2018-02-13T21:08:00-05:00"
+short_description = "\"I didn't wait around for an interview that wasn't going to happen - I took it into my own hands through my blog. It's a lot of work and I'm proud to say I've posted consistently for over a year now. Phew! What motivates and inspires me most are real conversations I have with others in the opera world. That's what makes it so authentic.\""
 slug = "talking-with-singers-lucas-meachem"
 title = "Talking with singers: Lucas Meachem"
 +++

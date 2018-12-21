@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2014-01-21T12:29:00-05:00"
 lastmod = "2015-04-28T22:28:00-04:00"
 publishDate = "2014-01-21T12:29:00-05:00"
+short_description = "I'm getting myself in the mood for the COC's fast-approaching production of Verdi's Un ballo in maschera. So I'm Masked-Ball-hopping, watching about three different versions at once at the moment. In the foreground is the classic Moshinsky production from the Met in 1980, with Pavarotti, Ricciarelli, Berini, and Canada's beloved Louis Quilico as Renato."
 slug = "masks-to-try-on"
 title = "Masks to Try On"
 +++

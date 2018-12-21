@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2015-07-12T16:14:00-06:00"
 lastmod = "2015-07-15T21:28:00-06:00"
+preamble = "Baritone [John Holland](/scene/people/john-holland/) wrote me recently from Prague, Czech Republic (one of my favourite cities). He was there until recently as part of the [Prague Summer Nights Young Artist Music Festival](/scene/companies/prague-summer-nights/), singing Masetto in *Don Giovanni*. John got to go to a beautiful city to sing in a masterpiece opera, in a production directed by the formidable [Sherrill Milnes](/scene/people/sherrill-milnes/); best of all he got to do it in the Estates Theatre, where Mozart conducted the premiere performance of *Giovanni*. I made sure to visit the theatre during my own travels to Prague (with buddy and fellow [blogger](http://www.ragstoreasonable.com/), [Christopher Enns](/scene/people/christopher-enns/)), and I remember imagining Mozart walking the same streets on his way to opening night. I was so glad John reached out to tell me about his historically overflowing operatic experience."
 publishDate = "2015-07-16T07:28:00-06:00"
+short_description = "Baritone John Holland wrote me recently from Prague, Czech Republic (one of my favourite cities). He was there until recently as part of the Prague Summer Nights Young Artist Music Festival, singing Masetto in Don Giovanni. Sure, John got to go to a beautiful city to sing in a masterpiece opera, but he got to do it in the Estates Theatre, where Mozart conducted the premiere performance of Giovanni."
 slug = "don-giovanni-at-the-estates-theatre"
 title = "Don Giovanni at the Estates Theatre"
 +++

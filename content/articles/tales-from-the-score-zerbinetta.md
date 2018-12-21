@@ -2,7 +2,9 @@
 categories = "Humour"
 date = "2015-04-11T00:01:00-04:00"
 lastmod = "2015-04-11T00:01:00-04:00"
+preamble = "<p>\n\tIf there's one thing that makes me love a composer, it's word painting. What's word painting? It's when you write a musical line for the singer that sounds like the word they're saying. Example: \"Oh no, I am fall-ing down\" on six descending syllables. Zerbinetta's aria from Strauss' <em>Ariadne auf Naxos</em> is one of the densest moments of word painting that I can think of. Here are some fun bits:\n</p>"
 publishDate = "2015-02-22T09:01:00-05:00"
+short_description = "If there’s one thing that makes me love a composer, it’s word painting. What’s word painting? It’s when you write a musical line for the singer that sounds like the word they’re saying. Example: “Oh no, I am fall-ing down” on six descending syllables. Zerbinetta’s aria from Strauss’ Ariadne auf Naxos is one of the densest moments of word painting that I can think of. Here are some fun bits:"
 slug = "tales-from-the-score-zerbinetta"
 title = "Tales from the Score: Zerbinetta"
 +++

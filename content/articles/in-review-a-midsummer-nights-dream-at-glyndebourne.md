@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-08-19T09:45:00+01:00"
 lastmod = "2016-08-19T10:58:00+01:00"
 publishDate = "2016-08-19T10:52:00+01:00"
+short_description = "The royal fairy pair were delightfully complemented by David Evans as Puck, who was one part eerie, and one part utterly charming. He brought the audience to roaring applause at the finale, after an evening of chuckles and smitten murmuring from the crowd."
 slug = "in-review-a-midsummer-nights-dream-at-glyndebourne"
 title = "In review: A Midsummer Night&#039;s Dream at Glyndebourne"
 +++

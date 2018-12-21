@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-07-08T13:43:00-04:00"
 lastmod = "2017-07-13T13:39:00-04:00"
+preamble = "Canadian composer [Andrew Staniland](/scene/people/andrew-staniland/) is currently a faculty member at Memorial University in St. John's, NL; there, he founded MEARL (Memorial ElectroAcoustic Research Lab), where his research team developed the - very cool - [Mune](http://munemusic.com/) digital instrument. Staniland's oratorio, *Dark Star Requiem*, earned him two Juno Award nominations in 2017; it was the \"Beautymark Aria\" from *Dark Star Requiem* that first caught our attention, at [Tapestry Opera's *Songbook VI*](/he-saidshe-said-songbook-vi/) in early 2016.\n\nIn our latest composer profile, Staniland chats about his past life as a heavy metal guitarist, and the ill-fitting stereotype of a \"tortured artist\".\n\n"
 publishDate = "2017-07-13T12:40:00-04:00"
+short_description = "\"There is nothing like the feeling of music that appears to write itself. It is a total rush – like the whole earth is vibrating just right to make the sounds, totally in the moment. However, in my experience, these moments are made possible only by nurturing a deep discipline.\""
 slug = "talking-with-composers-andrew-staniland"
 title = "Talking with composers: Andrew Staniland"
 +++

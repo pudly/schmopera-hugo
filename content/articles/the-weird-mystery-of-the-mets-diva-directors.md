@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2017-02-16T17:06:00+00:00"
 lastmod = "2017-02-17T11:00:00+00:00"
 publishDate = "2017-02-17T11:00:00+00:00"
+short_description = "This paragraph seems dangerously presumptuous, and more than a little insulting to Meyers. It's quite a thing to say, that a director was entirely uninvolved in a singer's performance, and to credit a singer with being the saving grace of a production. It's a simple case of problematic journalism: how does Jorden know that Damrau's performance wasn't guided by Meyers?"
 slug = "the-weird-mystery-of-the-mets-diva-directors"
 title = "The weird mystery of the Met&#039;s &quot;diva directors&quot;"
 +++

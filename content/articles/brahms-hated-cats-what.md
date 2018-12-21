@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2014-04-21T08:58:00-04:00"
 lastmod = "2015-04-23T21:30:00-04:00"
 publishDate = "2014-04-21T08:58:00-04:00"
+short_description = "Has anyone else read about this? Richard Wagner, the \"notoriously bitchy composer\" (David Ward, The Guardian), said that Johannes Brahms, composer and owner of classical music's best beard, hated cats. "
 slug = "brahms-hated-cats-what"
 title = "Brahms hated cats? What?"
 +++

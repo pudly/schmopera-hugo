@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2018-03-16T22:13:00-04:00"
 lastmod = "2018-03-18T21:38:00-04:00"
 publishDate = "2018-03-18T21:38:00-04:00"
+short_description = "If he could go back and give himself some advice, however, Craighead would add in some encouragement. \"I would tell myself that I was on the right track,\" he says. \"I had a lot of the right instincts and a lot of the right tools given to me, but I just needed to trust them.\""
 slug = "talking-with-singers-neil-craighead"
 title = "Talking with singers: Neil Craighead"
 +++

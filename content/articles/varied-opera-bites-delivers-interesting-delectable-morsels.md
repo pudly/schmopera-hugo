@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-10-28T12:49:00-04:00"
 lastmod = "2018-10-28T16:16:00-04:00"
 publishDate = "2018-10-28T12:49:00-04:00"
+short_description = "Of course no wife would be spurred to murder her husband based on fortune cookie fortunes, but here it happens, and in exactly the kind of over-the-top manner that only opera can pull off. It was a joyous way to end the first half of the program."
 slug = "varied-opera-bites-delivers-interesting-delectable-morsels"
 title = "Varied Opera Bites delivers interesting &amp; delectable morsels"
 +++

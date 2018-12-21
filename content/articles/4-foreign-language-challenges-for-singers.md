@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2017-08-10T18:07:00-04:00"
 lastmod = "2017-11-22T16:36:00-05:00"
+preamble = "Singers have a better handle than most when it comes to mastering foreign languages. Rolled R's, umlauts, they do it all. For singers whose mother tongue is English, there are a few common traps that come up when they're asked to sing in any of the other common operatic languages. In the name of commiseration, and even offering a few tips, we've got our top four foreign-language tongue-twisters:"
 publishDate = "2017-08-11T09:21:00-04:00"
+short_description = "Without enough nasal quality in those very particular French vowels, you'll sound like an awkward American, speaking Italian with a bad head cold; go too far with your nasality, and you can be accused of making a gross mockery of what French sounds like to non-French people."
 slug = "4-foreign-language-challenges-for-singers"
 title = "4 foreign language challenges for singers"
 +++

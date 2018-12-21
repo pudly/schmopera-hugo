@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-02-25T19:55:00-05:00"
 lastmod = "2018-02-25T19:55:00-05:00"
 publishDate = "2018-02-25T19:55:00-05:00"
+short_description = "Lang's music can feel voyeuristic, akin to watching a caged animal on display. The sonic vessel breaths and twitches while staying in place. The listener can examine and probe it at his leisure."
 slug = "david-langs-the-whisper-opera-has-intimacy-issues"
 title = "David Lang&#039;s the whisper opera has intimacy issues"
 +++

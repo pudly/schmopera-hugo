@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2018-03-18T17:06:00-04:00"
 lastmod = "2018-03-23T10:59:00-04:00"
 publishDate = "2018-03-20T20:28:00-04:00"
+short_description = "\"The overcoat is stunning,\" says baritone Geoffrey Sirett, who is set to sing the role of Akakiy. \"It transforms his life, because it is so beautiful and immaculately designed, and it gives him his five minutes of fame.\""
 slug = "materialism-turns-tragic-dont-miss-the-overcoat"
 title = "Materialism turns tragic: don&#039;t miss The Overcoat"
 +++

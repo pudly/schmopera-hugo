@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-12-14T18:31:00+00:00"
 lastmod = "2017-01-17T11:59:00+00:00"
 publishDate = "2016-12-16T09:35:00+00:00"
+short_description = "Personally, I suppose I feel a bit icky that it was within the opera world (which does include popera) where the Trump people found artists willing to perform for his big day.  Like it somehow shames by association a whole community of opera singers who are largely liberal-leaning."
 slug = "bocelli-evancho-to-sing-at-trump-inauguration-opera-folk-feel-weird-about-it"
 title = "Bocelli &amp; Evancho to sing at Trump inauguration, opera folk feel weird about it"
 +++

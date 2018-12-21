@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-08-18T09:52:00-04:00"
 lastmod = "2017-08-20T20:18:00-04:00"
 publishDate = "2017-08-18T11:33:00-04:00"
+short_description = "The fact is, that when the world doesn't actually end, this show still makes an audience member think, \"What was the point of all that?\" And while this response may have been desired by Schwitters and his dada contemporaries, this 21st century opera-goer was a bit confused."
 slug = "in-review-collision-at-grimeborn"
 title = "In review: Collision at Grimeborn"
 +++

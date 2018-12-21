@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-09-13T09:41:00-04:00"
 lastmod = "2017-09-13T10:36:00-04:00"
 publishDate = "2017-09-13T10:33:00-04:00"
+short_description = "Speaking of maniacal, the Monostatos of Peter Bronder brought the house down. This creepy and twisted creature slithered about the stage, more screaming his lines than singing, which made the actions of him and his evil band of goons thrilling to watch. Bronder is the kind of performer who we could glean meaning from only seeing his eyes peering through a black curtain - every movement is filled with intention."
 slug = "brisk-wicked-die-zauberflte-at-roh"
 title = "Brisk &amp; wicked: Die Zauberflöte at ROH"
 +++

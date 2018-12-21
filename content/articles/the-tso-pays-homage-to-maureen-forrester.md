@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-10-20T11:05:00-04:00"
 lastmod = "2017-10-20T11:25:00-04:00"
 publishDate = "2017-10-20T11:19:00-04:00"
+short_description = "Forrester became known for her interpretations of Mahler and for her professional relationship with the composer's protegé Bruno Walter, so it's no surprise to find the composer on the program. After the intermission, German-Canadian tenor Michael Schade joined Ms. Platts for Mahler's Das Lied von der Erde (The Song of the Earth), one of the composer's best loved works."
 slug = "the-tso-pays-homage-to-maureen-forrester"
 title = "The TSO pays homage to Maureen Forrester"
 +++

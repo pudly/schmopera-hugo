@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-07-04T13:41:00-06:00"
 lastmod = "2015-07-08T12:51:00-06:00"
 publishDate = "2015-07-08T07:15:00-06:00"
+short_description = "Friday night was the second Opera Karaoke night at the Royal Canadian Legion in Banff, AB, and the most amazing thing happened. Soprano Caitlin Wood (singing Despina in A Little Too Cozy) showed off her coloratura chops with Handel's \"Da tempeste,\" Cleopatra's flashiest aria from Giulio Cesare. We weren't performing for a particularly opera-savvy crowd, and in my own experience, the older the aria, the bigger the risk of boredom for this kind of audience."
 slug = "when-the-crowd-went-wild-for-handel"
 title = "When the crowd went wild for Handel"
 +++

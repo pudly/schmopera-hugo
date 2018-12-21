@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2017-05-08T11:42:00-04:00"
 lastmod = "2017-05-10T16:46:00-04:00"
 publishDate = "2017-05-10T07:34:00-04:00"
+short_description = "Oftentimes, the singers who spend most - or all - of their time singing the tragic operas by Puccini, Verdi, maybe a bit of Donizetti and Gounod, tend to have acting skills that are less well-honed. That's in comparison to singers who perform a lot of new opera, Baroque opera, and subtler stuff by the likes of Britten, Janáček, Shostakovich, and even Wagner and Strauss."
 slug = "a-game-of-would-you-rather-or-please-prove-me-wrong"
 title = "A game of &quot;would you rather&quot; or, please prove me wrong"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-05-29T19:23:00-04:00"
 lastmod = "2018-05-30T11:18:00-04:00"
 publishDate = "2018-05-30T11:18:00-04:00"
+short_description = "It is apparent that one doesn't question the avant-garde at Mannes, but welcomes it. Recent productions of Robert Ashley's conceptual Dust and Philip Glass' rarely performed The Fall of the House of Usher reinforce that point. And there is enough invention in Stravinsky's composition and the beautiful libretto by W.H. Auden with Chester Kallman, (a satisfying read in its own right) to keep these gifted singers and musicians on their toes."
 slug = "merrily-the-rakes-progress-rolls-along"
 title = "Merrily The Rake&#039;s Progress rolls along"
 +++

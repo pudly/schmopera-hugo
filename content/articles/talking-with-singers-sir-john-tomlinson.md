@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2017-03-07T06:10:00-05:00"
 lastmod = "2017-10-02T21:00:00-04:00"
 publishDate = "2017-03-16T06:34:00-04:00"
+short_description = "\"They're the most important years of my working life,\" he says, proud of the legacy of live performances and recordings, particularly from his time at the Bayreuth Festival. There, in the late 1980s, Sir John sang his first Wotans, along with fellow first-timer Daniel Barenboim at the podium. In his 18 years at Bayreuth, he recalls, \"I've never answered so much fan mail in my whole life.\" The cast would sign autographs in the mornings following performances, \"and it would be a two-hour long session with endless people.\""
 slug = "talking-with-singers-sir-john-tomlinson"
 title = "Talking with singers: Sir John Tomlinson"
 +++

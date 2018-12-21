@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-05-14T21:24:00-04:00"
 lastmod = "2018-05-15T09:39:00-04:00"
 publishDate = "2018-05-14T21:24:00-04:00"
+short_description = "The work has finally reached a larger New York audience with two performances in an elegantly expanded version at Lincoln Center's Rose Theater. It features the 130-member MasterVoices and the Orchestra of St. Luke's. Smartly directed by Zack Winokur, the production has a sleek and courtly feel, enhance by Stacey Berman's stylish costumes."
 slug = "ravishing-orphic-moments-with-gluck-aucoin-costanzo"
 title = "Ravishing Orphic Moments with Gluck, Aucoin &amp; Costanzo"
 +++

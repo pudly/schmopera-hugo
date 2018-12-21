@@ -3,6 +3,7 @@ categories = "Review"
 date = "2015-01-23T11:39:00-05:00"
 lastmod = "2015-04-11T22:44:00-04:00"
 publishDate = "2015-01-23T11:39:00-05:00"
+short_description = "At lunchtime on Thursday, January 22nd, members of the COC Ensemble Studio gave a concert in the Richard Bradshaw Amphitheatre. Just past the 25th anniversary of the fall of the Berlin Wall, the music on this concert dealt with themes of war, love, and separation; we heard songs by Erich Korngold, Charles Ives, Hanns Eisler, and Francis Poulenc. "
 slug = "in-review-songs-of-love-and-war"
 title = "In review: Songs of Love and War"
 +++

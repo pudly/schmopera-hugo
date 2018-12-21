@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2015-11-06T13:47:00-05:00"
 lastmod = "2015-11-09T08:00:00-05:00"
+preamble = "For our next instalment of Aria Guides, we're sticking with the tried and true pick of divas around the world, \"Quando me'n vo\" from Puccini's *La bohème*. It's got everything you really want in an aria: girl tries to make her ex-boyfriend jealous, and she does it by singing sexy lines and shimmering high notes. The basics of this aria are really about great technique and great rhythm, and your voice teacher is the one to ask about the former. This guide will help you keep the easy stuff easy, and get you to a place where you can bring Musetta off the page.\n\nFollow along with the excerpts below, or starting on page 129 of [this score](http://javanese.imslp.info/files/imglnks/usimg/2/24/IMSLP21947-PMLP50378-Puccini_-_La_Boh__me__vocal_score_.pdf)."
 publishDate = "2015-11-09T07:55:00-05:00"
+short_description = "For our next instalment of Aria Guides, we're sticking with the tried and true pick of divas around the world, \"Quando me'n vo\" from Puccini's La bohème. It's got everything you really want in an aria: girl tries to make her ex-boyfriend jealous, and she does it by singing sexy lines and shimmering high notes."
 slug = "aria-guides-quando-men-vo"
 title = "Aria Guides: &quot;Quando m&#039;en vo&quot;"
 +++

@@ -2,7 +2,9 @@
 categories = "Op-ed"
 date = "2015-04-10T22:31:00-04:00"
 lastmod = "2015-04-10T22:31:00-04:00"
+preamble = "<p>\n\tMusicians come in many kinds, and most work with a fascinating balance of pragmatism and imagination. We, like other artists, get a reputation for having our heads in the clouds, for making decisions based on emotion instead of reason. We are artsy-fartsy. I know as well as any other musician that we also have stunning moments of reason and logic (think: memorizing music). I tend to favour logic in my everyday life, but during a recent practice session, it occurred to me that there are major logical fallacies that musicians commit every single day. Bear with me:\n</p>"
 publishDate = "2015-03-14T10:31:00-04:00"
+short_description = "Musicians come in many kinds, and most work with a fascinating balance of pragmatism and imagination. We, like other artists, get a reputation for having our heads in the clouds, for making decisions based on emotion instead of reason. We are artsy-fartsy. "
 slug = "proof-that-music-is-simply-unreasonable"
 title = "Proof that Music is Simply Unreasonable"
 +++

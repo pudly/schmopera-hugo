@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-06-24T13:53:00-06:00"
 lastmod = "2017-06-24T15:17:00-06:00"
 publishDate = "2017-06-24T14:52:00-06:00"
+short_description = "Director Jessica Derventzis opened The Boatswain's Mate with a rousing British chorale vigorously waving Canadian Flags, Gay Pride Flags, and Trans Pride Flags - only to not introduce a single queer character. It seemed disjointed, out of place, and kind of pandering. While I respect that there are queers all over this industry, if you're going to wave our flags in your opening number of your show, we should at least be in the show somewhere. Ultimately, I felt like Dame Ethel Smyth's suffragette mentality and protest spirit was missing in the material."
 slug = "in-review-suffragette"
 title = "In review: Suffragette"
 +++

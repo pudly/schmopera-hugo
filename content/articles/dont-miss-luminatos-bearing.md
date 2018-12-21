@@ -3,6 +3,7 @@ categories = "News"
 date = "2017-06-18T19:06:00-06:00"
 lastmod = "2017-06-20T13:06:00-06:00"
 publishDate = "2017-06-20T11:52:00-06:00"
+short_description = "\"Bearing is the first production in which I am examining what Indian Residential School means - to myself, to this company, and more importantly to this nation. This is not something that happened to a few people a long time ago; what happened then echoes and reverberates through all our lives. That's what Bearing means - how do we carry this history? How do we come to terms with it?\""
 slug = "dont-miss-luminatos-bearing"
 title = "Don&#039;t miss: Luminato&#039;s Bearing"
 +++

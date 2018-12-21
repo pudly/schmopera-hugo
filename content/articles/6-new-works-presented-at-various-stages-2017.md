@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2017-02-27T12:22:00+00:00"
 lastmod = "2017-02-28T11:25:00+00:00"
 publishDate = "2017-02-28T11:25:00+00:00"
+short_description = "What was fascinating was hearing the questions that the creators of the works posed to the listeners. They offered their own inspiration for artistic choices, wondering if their intended affect made its way to the audience. Perhaps it's a good test to run works-in-process by an audience of industry folks and critics; if an opera can impress them, they're likely in good shape for general audiences."
 slug = "6-new-works-presented-at-various-stages-2017"
 title = "6 new works presented at Various Stages 2017"
 +++

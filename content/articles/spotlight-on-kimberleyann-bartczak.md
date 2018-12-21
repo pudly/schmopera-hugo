@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2015-07-20T16:24:00-04:00"
 lastmod = "2015-07-27T08:02:00-04:00"
+preamble = "[Kimberley-Ann Bartzcak]() is a current member of the [Yulanda M. Faris Young Artists Program](http://www.vancouveropera.ca/about/artists/young_artists_program) at [Vancouver Opera](/scene/companies/vancouver-opera/); at VO, she's a pianist, coach and répétiteur, but she's also a driven young conductor who's beginning to make waves. I always thing young conductors are some of the bravest folks around (not to mention a woman in what's arguably a man's world), so I was curious to ask Kim about her experience on the podium. She chats about French opera, and what singers and instruments have in common (hint: everything)."
 publishDate = "2015-07-27T08:02:00-04:00"
+short_description = "Kimberley-Ann Bartzcak is a current member of the Yulanda M. Faris Young Artists Program at Vancouver Opera; at VO, she's a pianist, coach and répétiteur, but she's also a driven young conductor who's beginning to make waves. I always thing young conductors are some of the bravest folks around (not to mention a woman in what's arguably a man's world), so I was curious to ask Kim about her experience on the podium. "
 slug = "spotlight-on-kimberleyann-bartczak"
 title = "Spotlight on: Kimberley-Ann Bartczak"
 +++

@@ -2,7 +2,9 @@
 categories = "Editorial"
 date = "2015-01-07T13:30:00-05:00"
 lastmod = "2015-04-12T10:43:00-04:00"
+preamble = "<p>\n\tMy January concert-going schedule is filling up nicely. I offer up a quick list of stuff I'm seeing this month in Toronto, in the hopes that I'll see you guys there.\n</p>"
 publishDate = "2015-01-07T13:30:00-05:00"
+short_description = "My January concert-going schedule is filling up nicely. I offer up a quick list of stuff I’m seeing this month in Toronto, in the hopes that I’ll see you guys there."
 slug = "stuff-to-see-in-january"
 title = "Stuff to see in January"
 +++

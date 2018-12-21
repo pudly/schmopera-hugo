@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-11-17T13:23:00-05:00"
 lastmod = "2015-11-20T11:09:00-05:00"
 publishDate = "2015-11-20T10:40:00-05:00"
+short_description = "The system still appeared odd to me. Why weren't these voice teachers, in their lessons full of exercises and tone production, also pointing out wrong rhythms, missed entrances, and poor diction? And why did these pianists feel that they had so much to offer someone who is probably much more advanced at singing than they are?"
 slug = "coaches-voice-teachers-and-the-grey-area-in-between"
 title = "Coaches, voice teachers, and the grey area in between"
 +++

@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2015-10-20T15:55:00-06:00"
 lastmod = "2017-06-20T22:37:00-06:00"
+preamble = "Tenors, we haven't forgotten about you. Continuing our series of Aria Guides, we're focusing on Nemorino's very lovely, very popular aria from *L'elisir d'amore*, \"Una furtiva lagrima\". It's one of those arias that can show a lot, and if you sing it well, it's great for auditions and crowd-pleasing concerts alike. It's not a easy feat to pull off this *bel canto* staple, but here are a few tips meant to help.\n\nWant to suggest or request an aria for our Aria Guides? Let us know at [hello@schmopera.com](mailto:hello@schmopera.com)!"
 publishDate = "2015-10-22T06:00:00-06:00"
+short_description = "Tenors, we haven't forgotten about you. Continuing our series of Aria Guides, we're focusing on Nemorino's very lovely, very popular aria from L'elisir d'amore, \"Una furtiva lagrima\". It's one of those arias that can show a lot, and if you sing it well, it's great for auditions and crowd-pleasing concerts alike. It's not a easy feat to pull off this bel canto staple, but here are a few tips meant to help."
 slug = "aria-guides-una-furtiva-lagrima"
 title = "Aria guides: &quot;Una furtiva lagrima&quot;"
 +++

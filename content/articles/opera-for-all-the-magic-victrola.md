@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-11-30T22:06:00-05:00"
 lastmod = "2017-12-02T17:33:00-05:00"
 publishDate = "2017-12-02T17:33:00-05:00"
+short_description = "The Magic Victrola features opera's top-shelf tunes: the Lakmé Flower Duet, Carmen's \"Habanera\", the infamous \"O mio babbino caro\" from Gianni Schicchi; perhaps less well-known are the picks that stand for larger operatic truths, like the textbook bel canto of \"Quanto è bella\" (L'elisir d'amore), the delicious coloratura of the \"Doll Song\" (Les contes d'Hoffmann), and timeless scenes from The Magic Flute."
 slug = "opera-for-all-the-magic-victrola"
 title = "Opera for all: The Magic Victrola"
 +++

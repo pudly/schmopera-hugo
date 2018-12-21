@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-02-26T13:50:00-05:00"
 lastmod = "2018-02-26T19:41:00-05:00"
 publishDate = "2018-02-26T14:36:00-05:00"
+short_description = "The entire cast had impeccable comic timing, but the crowd favorite was Stephanie Blythe's role and company debut as the Marquise of Berkenfield. Ms. Blythe, who is one of the most frequently sought after mezzo-sopranos of the day, moved with exceptional comic timing, managing to make her grace and composure a source of hilarity."
 slug = "a-bel-canto-winner-atlantas-fille-du-rgiment"
 title = "A bel canto winner: Atlanta&#039;s Fille du régiment"
 +++

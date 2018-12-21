@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-11-21T12:07:00-05:00"
 lastmod = "2017-11-21T13:16:00-05:00"
 publishDate = "2017-11-21T12:07:00-05:00"
+short_description = "Remarkably, despite all the difficulties of this work, the cast took it all in stride, making it seem effortless as they thrilled with truly pristine singing. The singers also had the difficult job of filling a massive stage, sparse with sets or props. This was achieved by real presence and unteachable charisma, which the ensemble possessed in spades."
 slug = "the-olympics-of-singing-semiramide-at-roh"
 title = "The Olympics of Singing: Semiramide at ROH"
 +++

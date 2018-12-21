@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-09-08T09:07:00+01:00"
 lastmod = "2016-09-15T15:26:00+01:00"
 publishDate = "2016-09-15T15:20:00+01:00"
+short_description = "If an opera truly is a great work of drama and music, does that mean it's less likely to translate well without sets or costumes? If the drama and music are wonderfully combined, does an in-concert performance mess up a composer's delicate balance? If a great opera feels like it's going on for days, how much fault lies in our dwindling contemporary attention spans?"
 slug = "opera-in-concert-uncluttered-or-uninteresting"
 title = "Opera in concert: uncluttered or uninteresting?"
 +++

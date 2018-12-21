@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-06-24T21:57:00-06:00"
 lastmod = "2016-07-06T16:10:00-06:00"
 publishDate = "2016-06-24T22:45:00-06:00"
+short_description = "A Mahogany creation, with the aim to test and challenge new ideas in opera and music theatre, Various Stages is an annual programme that offers selected artists the chance to put their projects through various workshops, sharings, and public showings, with support given along the way."
 slug = "call-for-submissions-mahogany-opera-groups-various-stages"
 title = "Call for submissions: Mahogany Opera Group&#039;s Various Stages"
 +++

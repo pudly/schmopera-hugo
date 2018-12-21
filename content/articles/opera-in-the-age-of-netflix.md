@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2018-09-27T21:22:00-04:00"
 lastmod = "2018-10-01T09:12:00-04:00"
 publishDate = "2018-10-01T09:12:00-04:00"
+short_description = "What if there was a more direct way to accomplish this goal? What would that look like? To all the opera companies, self-producers, recitalists, and alike, let me offer the following suggestions."
 slug = "opera-in-the-age-of-netflix"
 title = "Opera in the age of Netflix"
 +++

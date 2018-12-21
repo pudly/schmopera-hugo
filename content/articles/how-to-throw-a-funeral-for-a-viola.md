@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2017-01-11T13:12:00+00:00"
 lastmod = "2017-01-14T17:13:00+00:00"
 publishDate = "2017-01-14T17:13:00+00:00"
+short_description = "My viola: you were with me for a thousand mornings. How do you greet an empty room? With Bach of course. Or as time went on, with improv, as your magic worked in me and I felt freer and freer to sing anything from the heart, trusting what would come from you."
 slug = "how-to-throw-a-funeral-for-a-viola"
 title = "How to throw a funeral for a viola"
 +++

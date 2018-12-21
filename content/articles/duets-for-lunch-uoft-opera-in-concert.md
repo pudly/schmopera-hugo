@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-10-11T10:40:00-04:00"
 lastmod = "2017-10-12T10:44:00-04:00"
 publishDate = "2017-10-12T09:50:00-04:00"
+short_description = "Hearing pre-professional singers is always fascinating, at least for me. It's a chance to hear new voices, in a context that allows for the in-flux status of their vocal development. Personal opinion: voices that are settling and sorting themselves out are one of the world's most interesting things."
 slug = "duets-for-lunch-uoft-opera-in-concert"
 title = "Duets for lunch: UofT Opera in concert"
 +++

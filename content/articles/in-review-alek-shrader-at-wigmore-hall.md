@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-09-27T09:15:00+01:00"
 lastmod = "2016-09-27T11:17:00+01:00"
 publishDate = "2016-09-27T10:12:00+01:00"
+short_description = "There seemed to be two versions of Alek Shrader, one who was invested in singing well and communicating deeply, and another who was humble, perhaps a bit shy, and who relished the chance to move the spotlight onto Vignoles for the fun piano part in Rossini's tarantella. "
 slug = "in-review-alek-shrader-at-wigmore-hall"
 title = "In review: Alek Shrader at Wigmore Hall"
 +++

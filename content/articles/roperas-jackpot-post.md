@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2014-08-19T12:35:00-04:00"
 lastmod = "2015-04-16T22:21:00-04:00"
 publishDate = "2014-08-19T12:35:00-04:00"
+short_description = "There is a dude out there on the Internet who has gotten the opera bug. Great news, we all say! Good choice, sir. Even better, the budding operaphile is reaching out via r/opera, asking how to get a proper introduction to opera. "
 slug = "roperas-jackpot-post"
 title = "r/opera&#039;s jackpot post"
 +++

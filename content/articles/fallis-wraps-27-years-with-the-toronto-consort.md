@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2018-05-11T21:26:00-04:00"
 lastmod = "2018-05-15T16:12:00-04:00"
 publishDate = "2018-05-13T15:41:00-04:00"
+short_description = "Readers, we're giving away two pairs of tickets to the matinee performance on May 27 (3:30pm). To be eligible for the draw, share or retweet this post (give us a tag @Schmopera, too!) and tell us why you're keen to see David Fallis' final collaboration with one of Toronto's cornerstones of Early Music."
 slug = "fallis-wraps-27-years-with-the-toronto-consort"
 title = "Fallis wraps 27 years with the Toronto Consort"
 +++

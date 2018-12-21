@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-05-06T12:22:00-04:00"
 lastmod = "2015-05-07T11:01:00-04:00"
 publishDate = "2015-05-07T10:50:00-04:00"
+short_description = "Don Giovanni may have a drug problem, or he may be secretly gay, or he may be grossly insecure, but you can *play* seduction. And that's enough, you know? Simplicity doesn't mean you put in less work, it just means you let the audience get interested on their own."
 slug = "overthinking-it-and-other-traps"
 title = "Overthinking it and other traps"
 +++

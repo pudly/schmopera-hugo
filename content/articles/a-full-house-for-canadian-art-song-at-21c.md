@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-05-26T10:35:00-04:00"
 lastmod = "2017-05-26T15:04:00-04:00"
 publishDate = "2017-05-26T13:17:00-04:00"
+short_description = "The Canadian Art Song Project itself has an unblemished history of presenting concert events that are thoughtful, wisely collaborative, and beautifully executed. No doubt, their high standards of concert-giving would extend beyond the realm of Canadian music; yet a trustworthy entity like CASP is a valuable tool in the large challenge of getting Canadian music written and heard. Simply put: if there's quality to the work, a sold-out crowd is no mystery."
 slug = "a-full-house-for-canadian-art-song-at-21c"
 title = "A full house for Canadian art song at 21C"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-04-24T21:33:00-04:00"
 lastmod = "2018-04-25T19:27:00-04:00"
 publishDate = "2018-04-25T19:27:00-04:00"
+short_description = "There is the vexing notion that Bernstein was his own Dr. Pangloss, coaxing himself out of Westphalia into a musical and theatrical breach. If divine providence finally lights the way, it is energized more by the rigorous tug of theatrical absurdity and naive optimism, than Voltaire's satirical bite."
 slug = "candide-projecting-the-best-of-all-possible-worlds"
 title = "Candide: projecting the best of all possible worlds"
 +++

@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2016-04-27T14:28:00+01:00"
 lastmod = "2016-04-27T15:00:00+01:00"
 publishDate = "2016-04-27T14:55:00+01:00"
+short_description = "A sparrow hawk is known in the wild for stealing the chicks of other birds from their nests. This Zarzuela tells the story of Juan, a man who left his poor fishing village in search of adventure and fortune in Peru. He returns twenty years later a millionaire - and that's when things get sticky. He agrees to marry Rosaura, a young maiden in the village who happens to be in love with Gustavo (the only guy in the village who's paid off his debts), and takes her from the young man's arms. See the metaphor?"
 slug = "what-the-eff-is-a-zarzuela-anyway"
 title = "What the eff is a Zarzuela, anyway?"
 +++

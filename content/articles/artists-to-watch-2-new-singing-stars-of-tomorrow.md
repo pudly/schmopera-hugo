@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-10-27T10:20:00+01:00"
 lastmod = "2016-10-27T13:32:00+01:00"
 publishDate = "2016-10-27T13:31:00+01:00"
+short_description = "At the end of the evening, we learned that after their intensive work with Radvanovsky, \"La Wowza\" couldn't decide which singer should be awarded the Career Blueprint - so they decided to send TWO singers. The winners of the evening were Marjorie Maltais and Natalya Gennadi. "
 slug = "artists-to-watch-2-new-singing-stars-of-tomorrow"
 title = "Artists to watch: 2 new singing stars of tomorrow"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-02-03T09:28:00+00:00"
 lastmod = "2017-02-03T10:50:00+00:00"
 publishDate = "2017-02-03T10:37:00+00:00"
+short_description = "The night truly went to Sydney Mancasola, in her company debut as Gilda. Her first sounds were clear as a bell, like a sorbet to Rigoletto's dark and murky world. Her singing was polished and thoughtful, with a stunning bloom at the top of her range. Frustrating as Gilda may be - though she comes by her innocence honestly - Mancasola sang with an earnest sound that reminded us of her youth and sheltered existence."
 slug = "in-review-rigoletto-at-eno"
 title = "In review: Rigoletto at ENO"
 +++

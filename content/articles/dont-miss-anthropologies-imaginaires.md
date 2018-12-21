@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-08-01T18:43:00+01:00"
 lastmod = "2016-08-02T13:41:00+01:00"
 publishDate = "2016-08-02T13:34:00+01:00"
+short_description = "\"The experts on screen comment on invented vocal traditions demonstrated by the singer-performer. Various odd or isolated vocal expressions from around the world are woven together and revisited through imaginary folklore and experimental voice techniques, showcasing the virtuosity, versatility, and strangeness of the human voice.\""
 slug = "dont-miss-anthropologies-imaginaires"
 title = "Don&#039;t miss: Anthropologies imaginaires"
 +++

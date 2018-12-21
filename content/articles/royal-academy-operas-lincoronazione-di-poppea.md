@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-05-21T22:34:00+01:00"
 lastmod = "2016-05-22T10:39:00+01:00"
 publishDate = "2016-05-22T10:36:00+01:00"
+short_description = "Most importantly, not a note can go by without meaning. Monteverdi is generous with hints; he's a master of word-painting, illuminating words like \"sorrow\" and \"fly\" with musical gestures that are almost too obvious to miss. Something like Poppea almost echoes that bit by George Carlin on the blues: paraphrased, he says, \"it's not enough to know what notes to play, you have to know why they need to be played.\""
 slug = "royal-academy-operas-lincoronazione-di-poppea"
 title = "Royal Academy Opera&#039;s L&#039;incoronazione di Poppea"
 +++

@@ -2,7 +2,9 @@
 categories = "Editorial"
 date = "2018-01-08T21:06:00-05:00"
 lastmod = "2018-01-08T21:06:00-05:00"
+preamble = "Readers, what are you looking forward to in your operatic lives this year? Every now and then it's nice to take stock of the exciting things on the horizon, to keep us interested and invested in the art form we all love. We've got four things for opera fans to get properly pumped about in 2018:"
 publishDate = "2018-01-08T21:06:00-05:00"
+short_description = "Readers, what are you looking forward to in your operatic lives this year? Every now and then it's nice to take stock of the exciting things on the horizon, to keep us interested and invested in the art form we all love. We've got four things for opera fans to get properly pumped about in 2018:"
 slug = "4-reasons-to-get-excited-about-opera-in-2018"
 title = "4 reasons to get excited about opera in 2018"
 +++

@@ -2,7 +2,9 @@
 categories = "Humour"
 date = "2015-01-13T15:11:00-05:00"
 lastmod = "2015-04-11T23:25:00-04:00"
+preamble = "<p>\n\tIt's time for some beautifully nerdy, utterly hypothetical, and completely meta musings. Sure, the next few paragraphs won't really contain any practically useful information, but it's hard to stop me once I've gotten on the character-deconstruction-train that is dramaturgy. It's my favourite pastime, and now I'm sharing it with you. I present to you all the following hypothetical: if opera characters went to the opera, what would they see?\n</p>"
 publishDate = "2015-01-13T15:11:00-05:00"
+short_description = "It’s time for some beautifully nerdy, utterly hypothetical, and completely meta musings. Sure, the next few paragraphs won’t really contain any practically useful information, but it’s hard to stop me once I’ve gotten on the character-deconstruction-train that is dramaturgy. It’s my favourite pastime, and now I’m sharing it with you. I present to you all the following hypothetical: if opera characters went to the opera, what would they see? Photo: Werther after a really bad night at the opera."
 slug = "if-opera-characters-went-to-the-opera"
 title = "If opera characters went to the opera"
 +++

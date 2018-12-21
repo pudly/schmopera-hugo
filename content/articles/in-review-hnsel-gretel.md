@@ -3,6 +3,7 @@ categories = "Review"
 date = "2014-04-26T17:39:00-04:00"
 lastmod = "2015-04-27T18:22:00-04:00"
 publishDate = "2014-04-26T17:39:00-04:00"
+short_description = "I went and saw one of my favourite operas last night: Hänsel and Gretel, by Engelbert Humperdinck, based on the creepy Brothers Grimm fairytale. I think it's a show that transports itself well on small and large stages, with small and large orchestras and even pianos. So it was great to see this production by Metro Youth Opera in an intimate space, where we could see subtle moments and get to know the characters more quickly."
 slug = "in-review-hnsel-gretel"
 title = "In review: Hänsel &amp; Gretel"
 +++

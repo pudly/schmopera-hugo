@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-05-16T13:38:00-04:00"
 lastmod = "2017-09-13T21:25:00-04:00"
 publishDate = "2015-05-19T08:41:00-04:00"
+short_description = "Artists are such neat people because they're a creative bunch, not an organized bunch. Good, employable artists know that they can't be flighty, or bad at returning emails, or constantly late; yet it's not hard for me to imagine the artist that, left to his or her own devices, would probably keep odd and inconsistent hours, a messy workspace, and they'd occasionally get wrapped up in their work enough to forget to buy groceries. "
 slug = "artists-administration-reputations"
 title = "Artists, administration &amp; reputations"
 +++

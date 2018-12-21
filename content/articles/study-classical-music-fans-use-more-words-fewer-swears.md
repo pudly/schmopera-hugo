@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2014-09-08T09:30:00-04:00"
 lastmod = "2015-04-16T15:29:00-04:00"
 publishDate = "2014-09-08T09:30:00-04:00"
+short_description = "A cool find today: some stats about what kind of vocabulary is used by different music lovers. Reddit Timemachine put out a survey of music fans from various subreddits about Classical music, jazz, punk, reggae, etc. The results were based on searching for specific words in each subreddit, showing the different frequencies that word is used in different fan circles."
 slug = "study-classical-music-fans-use-more-words-fewer-swears"
 title = "Study: classical music fans use more words, fewer swears"
 +++

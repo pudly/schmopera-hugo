@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2016-10-10T10:42:00+01:00"
 lastmod = "2016-10-10T12:16:00+01:00"
 publishDate = "2016-10-10T11:15:00+01:00"
+short_description = "To be clear, readers, this bit of grumbling isn't meant to say, \"look how bad the average person's rhythm is!\" It's truly an impressive feat to master the art of keeping a beat. It's a skill that makes a stellar beat-boxer, and adds to the value of a great drummer."
 slug = "rhythm-the-good-the-bad-and-the-stressful"
 title = "Rhythm: the good, the bad, and the stressful"
 +++

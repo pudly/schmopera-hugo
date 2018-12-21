@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2016-04-09T14:10:00+01:00"
 lastmod = "2016-04-09T16:02:00+01:00"
 publishDate = "2016-04-09T15:18:00+01:00"
+short_description = "What Christiansen calls gimmicks and tactics, we call creativity. In the case of ROH's Lucia, we clearly loved it, so on this particular point, we simply differ in opinion. There are \"concept\" productions that have fallen flat for us, too, so we're not out to blindly promote the wild, anything-goes ideas of today's directors. But to condemn creativity and attempts at novelty as Christiansen does is shameful."
 slug = "gimmicks-tactics-discouraging-the-new-"
 title = "Gimmicks &amp; tactics: discouraging the new "
 +++

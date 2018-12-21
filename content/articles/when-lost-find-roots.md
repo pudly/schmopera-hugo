@@ -2,7 +2,9 @@
 categories = "Op-ed"
 date = "2016-10-23T15:47:00+01:00"
 lastmod = "2016-10-24T12:01:00+01:00"
+preamble = "This is a cross-post by guest contributor [Vanessa Chumbley](https://lefarfalleblog.wordpress.com/), originally published on [BayArts.org](https://bayart.org/2016/09/03/when-lost-find-roots/). If you're interested in contributing to Schmopera.com, email us at [contribute@schmopera.com.](mailto:contribute@schmopera.com)"
 publishDate = "2016-10-24T11:56:00+01:00"
+short_description = "For any of you involved in the freelance performing arts as a source of income, I don't have to tell you the struggles of making a living, having a life, or maintaining relationships. There are, of course, the 1% who have hit the jackpot of a permanent gig that provides steady income, God forbid benefits, and the luxury of being in one place year round as to actually have a family and a home.\n\n"
 slug = "when-lost-find-roots"
 title = "When lost, find roots"
 +++

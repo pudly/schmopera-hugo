@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2015-12-10T22:28:00+00:00"
 lastmod = "2017-03-25T12:23:00+00:00"
 publishDate = "2015-12-12T14:00:00+00:00"
+short_description = "Recently, one of our readers posed a question about that particular vocal technique, commonly (and charmingly) known as \"scooping\". When a singer scoops up to a note, it means they start making sound on a pitch that's below the one they mean to sing. Pop singers do a similar thing, but usually with less vibrato. It's a stylistic choice, and it's often on a conscious decision by the singer."
 slug = "hot-topics-singers-who-scoop"
 title = "Hot topics: singers who scoop"
 +++

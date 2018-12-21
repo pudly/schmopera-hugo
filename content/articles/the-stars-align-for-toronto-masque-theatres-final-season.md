@@ -3,6 +3,7 @@ categories = "News"
 date = "2017-09-12T20:21:00-04:00"
 lastmod = "2017-09-17T11:27:00-04:00"
 publishDate = "2017-09-17T11:27:00-04:00"
+short_description = "\"I'm filled with so many emotions as I introduce you to our final season,\" says Beckwith. \"I'm humbled to present many of Canada's leading performing artists – some TMT regulars alongside some new faces. I'm heavy-hearted as I contemplate the end of a magnificent journey. But above all, I'm excited to present to you an entertaining season of music, theatre and dance that I'm sure will demonstrate the accomplishments of this unique company and its place in the performing arts in Canada.\""
 slug = "the-stars-align-for-toronto-masque-theatres-final-season"
 title = "The stars align for Toronto Masque Theatre&#039;s final season"
 +++

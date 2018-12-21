@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-05-15T16:41:00-04:00"
 lastmod = "2017-05-18T09:47:00-04:00"
+preamble = "For the first time, the Hong Kong Arts Development Council is presenting the Hong Hong Music Series in London, **July 7-28**. Part of the Series includes the European premiere of *Datong: The Chinese Utopia*, the opera by composer Chan Hing-Yan and librettist Evans Chan, which chronicles the life of Chinese scholar Kang Youwei.\n\nThe performances happen **July 27-28** at the Richmond Theatre, and it's a rare opportunity to see and hear the work of Hong Kong-based singers and creative artists, tell a story which may be obscure for European audiences.\n\nWe spoke with librettist Evans Chan and Tisa Ho Executive Director of the Hong Kong Arts Festival, about the genesis of *Datong: The Chinese Utopia*, and its much-anticipated Western premiere. For more details and to purchase tickets [click here.](http://hongkongmusicseries.hk/datong-the-chinese-utopia.html)"
 publishDate = "2017-05-16T09:44:00-04:00"
+short_description = "\"The Kang Youwei story, especially the Hundred Days Reform, has riveted modern Chinese audiences for more than a century, probably as a reminder of the setback for China's political modernization. The incident has been reimagined in movies many times.\""
 slug = "dont-miss-datong-the-chinese-utopia"
 title = "Don&#039;t miss Datong: The Chinese Utopia"
 +++

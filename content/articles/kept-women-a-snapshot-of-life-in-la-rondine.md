@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-10-08T12:36:00-04:00"
 lastmod = "2018-10-08T19:17:00-04:00"
 publishDate = "2018-10-08T12:46:00-04:00"
+short_description = "The choice of making La Rondine and Verdi's La Traviata the book ends to the season is interesting. It is interesting to look at two \"kept women\" who fall in love with the young and impetus tenor, retire to the countryside, and then after a while have to part ways out of shame of their past and in the name of honor. Magda goes back to her old life and Ruggero is left heart broken. Magda had a choice, and ultimately Violetta does not."
 slug = "kept-women-a-snapshot-of-life-in-la-rondine"
 title = "Kept women &amp; a snapshot of life in La Rondine"
 +++

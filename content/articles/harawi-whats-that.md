@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2015-06-01T15:41:00-04:00"
 lastmod = "2015-06-02T16:32:00-04:00"
 publishDate = "2015-06-02T14:41:00-04:00"
+short_description = "It's not hard to see why Harawi is a good partner to Die Schöne Müllerin. Love, seemingly one-sided. results in the complete spectrum between ecstasy and death. I was curious to know more, so I sat down with pianist, Messaien enthusiast, and Against the Grain Theatre Music Director, Topher Mokrzewski."
 slug = "harawi-whats-that"
 title = "Harawi? What&#039;s that?"
 +++

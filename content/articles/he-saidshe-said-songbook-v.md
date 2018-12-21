@@ -3,6 +3,7 @@ categories = "Review"
 date = "2015-01-25T14:06:00-05:00"
 lastmod = "2015-04-11T22:27:00-04:00"
 publishDate = "2015-01-25T14:06:00-05:00"
+short_description = "Marking the end of my weekend hat-trick of stuff to see, was Tapestry’s Songbook V. It’s the fifth year of Tapestry’s New Opera 101 Program, which gives singers and pianists a chance to work on contemporary opera with some of the best in the business; the rep is chosen from within Tapestry’s impressive library of commissions."
 slug = "he-saidshe-said-songbook-v"
 title = "He said/she said: Songbook V"
 +++

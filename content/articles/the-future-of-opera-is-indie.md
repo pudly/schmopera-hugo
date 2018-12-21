@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2015-06-07T19:07:00-04:00"
 lastmod = "2015-12-04T15:47:00-05:00"
 publishDate = "2015-06-09T08:45:00-04:00"
+short_description = "What we call ‘indie’ opera is not necessarily any more ‘independent’ than Big Opera – ‘grass-roots opera’ might be a better definition. Whatever you call them, what these organizations do have is a license to artistic freedom and experimentation that big-budget opera has had to renounce in order to maintain an outdated model of funding: subscriptions, high-profile donors, and swanky corporate sponsors. "
 slug = "the-future-of-opera-is-indie"
 title = "The Future of Opera is Indie"
 +++

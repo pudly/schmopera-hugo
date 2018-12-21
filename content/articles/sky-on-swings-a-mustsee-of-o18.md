@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-09-21T18:47:00-04:00"
 lastmod = "2018-09-21T18:51:00-04:00"
 publishDate = "2018-09-21T18:47:00-04:00"
+short_description = "The most captivating moments in the opera are those that involve only von Stade and Simpson together onstage. They create a sense of emotional intimacy and truth, by superb acting and unshakable presence. Their performance is the epitome of genuine artistry and truthful expression."
 slug = "sky-on-swings-a-mustsee-of-o18"
 title = "Sky on Swings a must-see of O18"
 +++

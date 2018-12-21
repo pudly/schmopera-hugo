@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-04-29T12:10:00+01:00"
 lastmod = "2016-04-29T14:03:00+01:00"
 publishDate = "2016-04-29T13:55:00+01:00"
+short_description = "Perhaps it's true that Jommelli will not be remembered as one of the great composers of his time, but Il Vologeso is a great opera. It's full of love and lust, neglected and abused women, political differences, pride, and just endings. Under Ian Page, the Orchestra of Classical Opera started with a burst of energy that stayed present throughout the night; no two phrases were alike, and the orchestra were main players in the drama alongside the singers."
 slug = "in-review-classical-operas-il-vologeso"
 title = "In review: Classical Opera&#039;s Il Vologeso"
 +++

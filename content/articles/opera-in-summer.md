@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2014-08-06T12:32:00-04:00"
 lastmod = "2015-04-16T23:04:00-04:00"
 publishDate = "2014-08-06T12:32:00-04:00"
+short_description = "We're nearing the end of Summer Program Season, people. As a veteran of SPs myself, I always wonder about the young folks that went to OperaNUOVA or COSI or COAA/AEDO or the Halifax Summer Opera Festival or St. Andrews-by-the-Sea or any of those Canadian summer staples. "
 slug = "opera-in-summer"
 title = "Opera in Summer"
 +++

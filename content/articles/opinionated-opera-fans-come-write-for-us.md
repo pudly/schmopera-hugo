@@ -3,6 +3,7 @@ categories = "News"
 date = "2017-05-21T14:32:00-06:00"
 lastmod = "2017-07-05T09:17:00-06:00"
 publishDate = "2017-05-24T09:10:00-06:00"
+short_description = "We're looking for opera lovers with writing chops! You'll attend shows, tell us all about them, and have your subsequent reviews published on Schmopera. Specifically (but not exclusively), we're eager to catch what's onstage in Calgary, Montréal, Vancouver, New York, Chicago, San Francisco, Los Angeles, Houston, Philadelphia, and Minneapolis."
 slug = "opinionated-opera-fans-come-write-for-us"
 title = "Opinionated opera fans: come write for us!"
 +++

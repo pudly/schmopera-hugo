@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2017-08-25T15:43:00-04:00"
 lastmod = "2017-08-27T11:45:00-04:00"
 publishDate = "2017-08-26T21:39:00-04:00"
+short_description = "Whether you turn Sawney Bean himself into a booming basso profundo with a mean snarl and a taste for human flesh, or you tell the story of an anti-social family living among a mob-like community with a tendency toward exaggeration and gossip, the story is full of operatic qualities."
 slug = "sawney-bean-his-cannibal-clan-would-make-a-great-opera"
 title = "Sawney Bean &amp; his cannibal clan would make a great opera"
 +++

@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2015-06-30T19:11:00-06:00"
 lastmod = "2015-06-30T22:49:00-06:00"
 publishDate = "2015-07-01T07:00:00-06:00"
+short_description = "In a competitive industry, I'm fine with the concept of promoting singers who have acting skills and can learn music fast enough to fit into the woefully short rehearsal time many companies are afforded. Survival of the fittest, I say, and new opera is a beautiful and direct route to honing those skills."
 slug = "does-new-opera-raise-the-bar-for-performers"
 title = "Does new opera raise the bar for performers?"
 +++

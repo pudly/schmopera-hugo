@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-11-20T21:17:00-05:00"
 lastmod = "2017-11-21T13:25:00-05:00"
 publishDate = "2017-11-21T13:25:00-05:00"
+short_description = "This fabulous production that Manitoba Opera has mounted at the Centennial Concert Hall in Winnipeg, with an absolutely stellar cast, has made me remember why Madama Butterfly is one of the most popular operas of all time."
 slug = "making-the-connection-madama-butterfly-in-manitoba"
 title = "Making the connection: Madama Butterfly in Manitoba"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2015-09-23T09:57:00-04:00"
 lastmod = "2015-09-23T13:54:00-04:00"
 publishDate = "2015-09-23T11:47:00-04:00"
+short_description = "The Canadian Opera Company Ensemble Studio have kicked off the 2015/16 Free Concert Series in the Richard Bradshaw Amphitheatre with their annual introductory concert, Meet the Young Artists. Eight singers and two pianists performed in what's called the \"death by aria\" style, each singer showing off an aria that shows what they do best."
 slug = "coc1516-the-new-ensemble-studio"
 title = "#COC1516: the new Ensemble Studio"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-10-29T11:35:00-04:00"
 lastmod = "2017-10-29T20:51:00-04:00"
 publishDate = "2017-10-29T12:28:00-04:00"
+short_description = "Costanzo's take on the title role, which HGO's Thursday Facebook release went to great lengths to publicize as a take on Indiana Jones, was very effective indeed, in spite of this whimsical comparison. He well personified the countertenor as young virile male hero, particularly being skilled in the arias that showed off his agility and fiery, piercing upper register."
 slug = "opera-is-artifice-giulio-cesares-conquest-of-houston"
 title = "Opera is artifice: Giulio Cesare&#039;s conquest of Houston"
 +++

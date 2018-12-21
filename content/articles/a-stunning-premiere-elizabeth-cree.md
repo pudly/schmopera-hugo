@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-09-15T13:12:00-04:00"
 lastmod = "2017-09-15T16:35:00-04:00"
 publishDate = "2017-09-15T14:15:00-04:00"
+short_description = "The production is bursting at the seams with variations in style, mood and display. Its musical ideas seamlessly transition from comical to frightening. The score includes some familiarity in terms of the musical vocabulary it employs. We hear moments evoking a Broadway musical, moments that are reminiscent of Bernard Herrmann's sounds of horror, and moments of gorgeously sweeping romantic lines."
 slug = "a-stunning-premiere-elizabeth-cree"
 title = "A stunning premiere: Elizabeth Cree"
 +++

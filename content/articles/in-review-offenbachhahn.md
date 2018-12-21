@@ -3,6 +3,7 @@ categories = "Review"
 date = "2014-09-20T12:39:00-04:00"
 lastmod = "2015-04-15T22:08:00-04:00"
 publishDate = "2014-09-20T12:39:00-04:00"
+short_description = "Last night was opening night at the New Theatre Alliance Française de Toronto for Opera 5's (check out their Opera Cheats) season opener: a romp through the French obsession with the Far East during the 19th century. We were treated to a double bill of Île du rêve by Reynaldo Hahn and Ba-Ta-Clan By Jacques Offenbach, two very different pieces that not only show the varied differences of the East's influence on Western music, but also the versatility of a stellar cast of darn fine singers."
 slug = "in-review-offenbachhahn"
 title = "In review: Offenbach/Hahn"
 +++

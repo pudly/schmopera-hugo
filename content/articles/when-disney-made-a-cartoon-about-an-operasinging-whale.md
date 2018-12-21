@@ -2,6 +2,7 @@
 date = "2014-11-11T09:00:00-05:00"
 lastmod = "2015-04-13T23:22:00-04:00"
 publishDate = "2014-11-11T09:00:00-05:00"
+short_description = "So, in 1946 Walt Disney produced an anthology of animated short films, called Make Mine Music. There are ten film segments, almost all of them set to music; there's an animation of Prokofiev's Peter and the Wolf, and the artists involved include Benny Goodman and the Andrews Sisters. "
 slug = "when-disney-made-a-cartoon-about-an-operasinging-whale"
 title = "When Disney made a cartoon about an opera-singing whale"
 +++

@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-04-10T23:43:00-04:00"
 lastmod = "2015-04-10T23:43:00-04:00"
 publishDate = "2015-02-25T09:13:00-05:00"
+short_description = "It’s old news by now, but the Metropolitan Opera has announced its season line-up for 2015/2016. I waited a bit before writing about the season, because I couldn’t seem to shake distinct feelings of exasperation. I figured that someone with more journalistic experience than myself would soon weigh in, shedding some light on what I thought were glaringly obvious problems with the Met’s 15/16 season."
 slug = "missing-the-point-the-mets-201516-season"
 title = "Missing the point: the Met&#039;s 2015/16 season"
 +++

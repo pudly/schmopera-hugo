@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-04-14T19:06:00-04:00"
 lastmod = "2015-04-15T12:24:00-04:00"
 publishDate = "2015-04-15T08:34:00-04:00"
+short_description = "I'm by no means the first to weigh in on the Toronto Symphony Orchestra's decision to cancel Ukrainian-born pianist Valentina Lisitsa's performances on April 8-9th. The decision came after the TSO was made aware of some crass tweets on Lisitsa's Twitter feed, and after they confirmed that Lisitsa was indeed the author of the controversial comments, they made the quick decision to cancel."
 slug = "valentina-lisitsa-freedom-of-speech-is-a-twoway-street"
 title = "Valentina Lisitsa: Freedom of speech is a two-way street"
 +++

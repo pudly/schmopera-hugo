@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-01-12T17:35:00+00:00"
 lastmod = "2017-01-17T12:02:00+00:00"
+preamble = "The 2017 season for [Works & Process](https://www.guggenheim.org/event/event_series/works-process) at the Guggenheim Museum has begun, and on the line-up are a few gems for New York-area opera fans. On [**January 23**](https://www.guggenheim.org/event/the-met-opera-rusalka), Works & Process presents excerpts from Dvořák's *Rusalka*, ahead of the production opening at [The Metropolitan Opera](https://www.metopera.org/season/2016-17-season/rusalka-dvorak-tickets/) on February 2nd. In addition, the Met's GM Peter Gelb will chat with *Rusalka* director Mary Zimmerman about her take on Dvořák's fairy tale.\n\nWe spoke with Duke Dang, General Manager of Works & Process at the Guggenheim, about their artistic mission, and the exciting variety offered in the 2017 season.\n\n"
 publishDate = "2017-01-17T12:02:00+00:00"
+short_description = "\"I hope that when audience members come to Works & Process, they are stimulated by the conversation on the artist panel, gain a greater understanding and appreciation, feel a closer or more personal connection to the work because they meet and hear the artists’ creative visions, and that seeing our performance inspires them to attend the full work.\""
 slug = "works-process-rusalka-at-the-guggenheim"
 title = "Works &amp; Process: Rusalka at the Guggenheim"
 +++

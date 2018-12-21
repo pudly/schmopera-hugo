@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-12-12T14:21:00-05:00"
 lastmod = "2017-12-13T04:49:00-05:00"
+preamble = "Baritone [Clarence Frazer](/scene/people/clarence-frazer/) strikes a fine balance between singing staple roles like Figaro in *Il barbiere di Siviglia* and Guglielmo in *Così fan tutte*, and taking on the more contemporary, like Sam in Rolfe's [*Crush*](http://calgaryherald.com/entertainment/music/opera-review-my-crush-on-rolfe-and-chattertons-latest-success) and Jean in the North American premiere of Boesman's [*Julie*](/in-review-julie/).\n\nHe is the recipient of this year's [IRCPA](http://ircpa.net/) Career Blueprint Award; he'll spend three days at National Opera Center, provided with new professional photographs, website consultation, video and audio recordings, and mentoring with professionals.\n\nIt was great to chat with Frazer about the rush he gets from working on something as collective as opera, and the special kind of patience that many young baritones need to have."
 publishDate = "2017-12-12T20:35:00-05:00"
+short_description = "\"Only if you are 100% prepared can you make art, can you make music. This is where the fun is. This is where the passion is. This where the reward is. It's amazing when you know something so well, how rewarding the rehearsal and performance process will be, the discoveries you'll make, in the music, with your colleagues and with yourself.\""
 slug = "talking-with-singers-clarence-frazer"
 title = "Talking with singers: Clarence Frazer"
 +++

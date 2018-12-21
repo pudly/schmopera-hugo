@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2017-07-30T10:22:00-04:00"
 lastmod = "2017-07-31T22:00:00-04:00"
+preamble = "August is here, readers, which means many of you may be mere weeks away from starting an academic year pursuing a music degree. Whether you're an incoming first-year student, or a seasoned pro at academia, there's an art to being a student; on top of showing up on time and turning in your theory assignments, post-secondary music education is about taking responsibility for what you learn. "
 publishDate = "2017-07-31T22:00:00-04:00"
+short_description = "Remember that being able to call yourself a Curtis student or a Juilliard student or say you attend the Conservatoire is a statement about status, and no indicator of your musicianship. So, be fair to your chosen school and what it can offer; more importantly, be honest with yourself about your academic goals."
 slug = "music-degrees-expectations-4-tips-for-new-students"
 title = "Music degrees &amp; expectations: 4 tips for new students"
 +++

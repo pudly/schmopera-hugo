@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-01-13T11:38:00-05:00"
 lastmod = "2016-01-14T12:52:00-05:00"
 publishDate = "2016-01-14T12:23:00-05:00"
+short_description = "NYCO Renaissance's general director is Michael Capasso, who previously ran Dicapo Opera Theatre, a small New York-based company that has since \"disbanded\", and which was sued in 2013 by the musicians' unions for failure to pay their artists. Capasso is \"thrilled\" about directing the revived company, despite any questions of his ability to keep it financially afloat."
 slug = "tosca-the-nyco-renaissance"
 title = "Tosca &amp; the NYCO Renaissance"
 +++

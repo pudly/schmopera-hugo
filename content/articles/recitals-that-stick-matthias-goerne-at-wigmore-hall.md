@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-06-09T10:52:00+01:00"
 lastmod = "2016-06-10T09:40:00+01:00"
 publishDate = "2016-06-10T09:28:00+01:00"
+short_description = "The character of the poet became more completely fleshed out with the Wolf, Shostakovich, and Brahms. It was almost like fan fiction, a satisfying sequel to Schumann's cycle that ends ambiguously and seemingly without resolve. Goerne's singing of the Brahms Ernste Gesänge' left us heavy in our seats, the most stunning of which was his \"O Tod,\" half lullaby and half prayer."
 slug = "recitals-that-stick-matthias-goerne-at-wigmore-hall"
 title = "Recitals that stick: Matthias Goerne at Wigmore Hall"
 +++

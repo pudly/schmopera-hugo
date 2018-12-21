@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2016-03-02T10:22:00+00:00"
 lastmod = "2016-03-02T12:01:00+00:00"
 publishDate = "2016-03-02T11:57:00+00:00"
+short_description = "Perhaps opera is making a mess of this whole thing by keeping racist shows like Madama Butterfly on stages, or even sexist shows like The Marriage of Figaro alive and well. And yes, film is different than opera; a film doesn't go through different productions, doesn't get re-made over and over again with new casts of characters. But I think there's light in our madness, because it means we've paid attention to the stories themselves, rather than the people charged with telling them."
 slug = "what-oscarssowhite-can-learn-from-opera"
 title = "What #OscarsSoWhite can learn from opera"
 +++

@@ -3,6 +3,7 @@ categories = "News"
 date = "2015-11-09T16:57:00-05:00"
 lastmod = "2015-11-09T23:50:00-05:00"
 publishDate = "2015-11-10T08:00:00-05:00"
+short_description = "November is a great month for the Toronto Symphony Orchestra, and I figured I'd share a couple of my picks for the coming weeks."
 slug = "short-list-this-month-with-the-tso"
 title = "Short list: this month with the TSO"
 +++

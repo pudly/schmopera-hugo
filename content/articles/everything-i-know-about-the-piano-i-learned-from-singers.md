@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2014-07-22T08:00:00-04:00"
 lastmod = "2015-04-23T14:33:00-04:00"
 publishDate = "2014-07-22T08:00:00-04:00"
+short_description = "Well, maybe not everything, but my title isn't tongue-in-cheek. I'm aware of the stereotypical opinions about singers that are held by instrumentalists within the classical music scenes; I won't say they're not there for a reason, but there's opportunity for learning between these seemingly polar points of origin in music. Now, singers and pianists work closely together within the opera industry; but when you really think about it, it's an odd pairing."
 slug = "everything-i-know-about-the-piano-i-learned-from-singers"
 title = "Everything I know about the piano, I learned from singers"
 +++

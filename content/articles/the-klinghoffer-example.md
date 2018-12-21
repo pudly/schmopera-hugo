@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2014-09-16T17:00:00-04:00"
 lastmod = "2015-04-16T15:10:00-04:00"
 publishDate = "2014-09-16T17:00:00-04:00"
+short_description = "I came across an article today that prompted me to weigh in on all the talk about The Death of Klinghoffer. Andrea Peyser at the New York Post just published this piece, stating, \"The Met is to present an obscene opera titled 'The Death of Klinghoffer' — a musical celebration of the senseless murder by Palestinian monsters of a defenseless, elderly Jewish New Yorker.\" Sigh. "
 slug = "the-klinghoffer-example"
 title = "The Klinghoffer Example"
 +++

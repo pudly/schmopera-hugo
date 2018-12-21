@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2015-06-26T13:26:00-06:00"
 lastmod = "2015-06-27T17:16:00-06:00"
 publishDate = "2015-06-27T14:33:00-06:00"
+short_description = "The 6 skills/topics listed above are core to an effective marketing package. Yup, it takes time and work to acquire any of these items. But it will not cost you thousands of dollars, nor is it impossible…if you have the determination to use your search bar, put in a few hours a week, and chip away at the tasks over time."
 slug = "musician-marketing-masterclass"
 title = "Musician Marketing Masterclass"
 +++

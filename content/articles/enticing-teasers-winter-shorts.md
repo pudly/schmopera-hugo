@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-11-30T21:57:00-05:00"
 lastmod = "2017-12-02T02:58:00-05:00"
 publishDate = "2017-12-01T19:11:00-05:00"
+short_description = "The night consisted of eleven selections from LIBLAB, touching on subjects ranging from the barista's crush on the handsome regular (as a former barista myself, this one rang very true) to a piece inspired by the world-famous photo of the poor Syrian boy found dead in the sand on the beach. It was a range of topics only Tapestry could tackle and pull off successfully."
 slug = "enticing-teasers-winter-shorts"
 title = "Enticing teasers: Winter Shorts"
 +++

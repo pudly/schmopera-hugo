@@ -3,6 +3,7 @@ categories = "Review"
 date = "2014-09-11T09:00:00-04:00"
 lastmod = "2015-04-16T15:16:00-04:00"
 publishDate = "2014-09-11T09:00:00-04:00"
+short_description = "Canadian composer Dean Burry's opera Baby Kintyre is the coolest thing I've heard in a long time. The opera, with the libretto also by Dean, had its first performance in 2009 on six consecutive broadcasts of the CBC's Saturday Afternoon at the Opera. Baby Kintyre is written  in the style of a radio serial in five episodes, based on the true story of a mummified baby found in the wall of 29 Kintyre (near Queen and Broadview) in Toronto. "
 slug = "in-review-baby-kintyre"
 title = "In Review: Baby Kintyre"
 +++

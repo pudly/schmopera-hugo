@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2015-04-10T22:28:00-04:00"
 lastmod = "2015-04-12T19:28:00-04:00"
+preamble = "[Tapestry Opera](https://tapestryopera.com/)_ continues its 35th anniversary season with _[_Tap:Ex Tables Turned_](https://tapestryopera.com/tapex-tables-turned/)_, running March 20 & 21 at the Ernest Balmer Studio in the Distillery District. Soprano _[Carla Huhtanen](http://www.carlahuhtanen.com/)_ (right) teams up with Montréal-based composer and turntablist_[ Nicole Lizée](http://www.nicolelizee.com/)_ (left) to present \"a boundary-breaking, multi-media concert.\" I was curious about the combination of electronic and acoustic sounds, and the collaboration between artists of such different professional backgrounds. I was able to chat with Carla, Nicole, and Tapestry Opera Artistic Director _[Michael Mori](https://tapestryopera.com/about/who-we-are/)_, about this must-see concert. _"
 publishDate = "2015-03-15T10:28:00-04:00"
+short_description = "Tapestry Opera continues its 35th anniversary season with Tap:Ex Tables Turned, running March 20 & 21 at the Ernest Balmer Studio in the Distillery District. Soprano Carla Huhtanen (right) teams up with Montréal-based composer and turntablist Nicole Lizée (left) to present “a boundary-breaking, multi-media concert.” "
 slug = "go-see-this-carla-huhtanen-and-nicole-lize-in-tapex-tables-turned"
 title = "Go See This: Carla Huhtanen and Nicole Lizée in Tap:Ex Tables Turned"
 +++

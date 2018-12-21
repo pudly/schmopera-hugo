@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-09-20T20:37:00-04:00"
 lastmod = "2017-09-20T21:36:00-04:00"
 publishDate = "2017-09-20T21:33:00-04:00"
+short_description = "The second piece of the programme was Bartók's staggering Bluebeard's Castle. Bluebeard's lush mystery couldn't have provided a stronger contrast to tense grey world of Senza Sangue. This production too began with a bare stage, but through the brilliant lighting design of Philippe Grosperrin, each of Bluebeard's seven forbidden rooms came to light."
 slug = "a-lopsided-bloody-doublebill-at-hackney-empire"
 title = "A lopsided &amp; bloody double-bill at Hackney Empire"
 +++

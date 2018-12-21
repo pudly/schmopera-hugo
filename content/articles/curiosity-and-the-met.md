@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2014-08-01T17:01:00-04:00"
 lastmod = "2015-04-23T14:26:00-04:00"
 publishDate = "2014-08-01T17:01:00-04:00"
+short_description = "Human curiosity should be to opera companies what human insecurity is to the beauty product industry. We all want to snoop, take behind-the-scenes tours, figure out how that magician created that cool illusion. Hell, even I often prefer to watch a show from backstage. It's special, and unique."
 slug = "curiosity-and-the-met"
 title = "Curiosity and the Met"
 +++

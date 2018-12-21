@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2015-09-28T09:56:00-04:00"
 lastmod = "2015-09-28T12:04:00-04:00"
+preamble = "MYOpera is the brand new face of Toronto-based indie opera company Metro Youth Opera. Their commitment to providing professional experience to emerging artists remains the same, but MYOpera has a new name, and a new season. At the aptly chosen [Opera Bob's Public House](http://www.operabobspublichouse.com/), Artistic Director Kate Applin announced MYOpera's upcoming production of Britten's *The Rape of Lucretia* in spring, 2016. Get to know the company, and how they fit in with Toronto's [Indie Opera T.O.](/scene/companies/indie-opera-to/) collective."
 publishDate = "2015-09-28T12:04:00-04:00"
+short_description = "MYOpera is the brand new face of Toronto-based indie opera company Metro Youth Opera. Their commitment to providing professional experience to emerging artists remains the same, but MYOpera has a new name, and a new season. At the aptly chosen Opera Bob's Public House, Artistic Director Kate Applin announced MYOpera's upcoming production of Britten's The Rape of Lucretia in spring, 2016. "
 slug = "check-out-myopera"
 title = "Check out: MYOpera"
 +++

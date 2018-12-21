@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-10-17T12:33:00-04:00"
 lastmod = "2017-10-18T21:45:00-04:00"
 publishDate = "2017-10-18T21:45:00-04:00"
+short_description = "This production's prologue opened with a sequence of generic opera tropes that undermined the opera's quality. One cliché followed another: a bad silent-movie love-pantomime, uninspired park and bark narration, a silly \"Oliver Twist\" money pouch, muggy chorus acting, and way too many people standing on tables. This brand of stale opera is what convinces people the form is dying."
 slug = "an-isolated-tenor-in-an-operatic-masterwork-les-contes-dhoffmann"
 title = "An isolated tenor in an operatic masterwork: Les contes d&#039;Hoffmann"
 +++

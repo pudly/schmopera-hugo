@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2016-11-16T19:45:00+00:00"
 lastmod = "2016-11-24T09:44:00+00:00"
 publishDate = "2016-11-24T09:23:00+00:00"
+short_description = "\"It took me twenty years to get here,\" says Radvanovsky of the long game that is the opera singer's career. \"Twenty years of cracking on high notes at the Metropolitan Opera, and saying, 'This didn't work tonight, let's try it another way!'\" And the work is still not over."
 slug = "talking-with-singers-sondra-radvanovsky"
 title = "Talking with singers: Sondra Radvanovsky"
 +++

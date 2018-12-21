@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-06-22T09:11:00-06:00"
 lastmod = "2017-06-22T09:49:00-06:00"
 publishDate = "2017-06-22T09:23:00-06:00"
+short_description = "Allan Clayton was sensational in the title role. From the first scene we get a sense that he is a black sheep to the rest of the royal family, and in the two acts of the opera he is in a constant state of unhinge - sometimes he is laughing and enjoying life with Horatio, but one comment from Gertrude can set him off into a frenzy. Clayton played Hamlet on the brink of a breakdown without sacrificing the beauty in his vocal production."
 slug = "in-review-hamlet-at-glyndebourne"
 title = "In review: Hamlet at Glyndebourne"
 +++

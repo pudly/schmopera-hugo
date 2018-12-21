@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-07-02T12:07:00-04:00"
 lastmod = "2018-07-05T11:12:00-04:00"
 publishDate = "2018-07-02T12:07:00-04:00"
+short_description = "All the antics amount to nothing more than a big helium balloon and to keep the whole enterprise on the ground, director and designer Josh Shaw has approached it as if it were a musical-comedy. Every \"song\" is a \"number\" filled with coordinated movements and choreography."
 slug = "la-gazzetta-the-funny-papers"
 title = "La Gazzetta: The Funny Papers"
 +++

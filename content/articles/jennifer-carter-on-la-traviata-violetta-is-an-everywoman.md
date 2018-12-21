@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2015-04-10T20:34:00-04:00"
 lastmod = "2015-04-12T15:52:00-04:00"
+preamble = "Canadian soprano [Jennifer Carter](http://www.jennifercartersoprano.com/) will appear with [Oshawa Opera](http://www.theoshawaopera.com/#!la-traviata/c24sd) this month, singing Violetta in Verdi's beloved [La traviata](http://www.theoshawaopera.com/#!la-traviata/c24sd). It's a role that demands a lot and gives back even more, and I asked Jennifer a few questions about singing one of opera's most famous ladies."
 publishDate = "2015-04-07T08:34:00-04:00"
+short_description = "An interview with soprano Jennifer Carter, who sings Violetta in Oshawa Opera's production of La traviata, April 19th."
 slug = "jennifer-carter-on-la-traviata-violetta-is-an-everywoman"
 title = "Jennifer Carter on La traviata: &quot;Violetta is an everywoman.&quot;"
 +++

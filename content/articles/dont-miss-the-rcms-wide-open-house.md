@@ -3,6 +3,7 @@ categories = "News"
 date = "2017-06-11T16:26:00-06:00"
 lastmod = "2017-06-12T22:15:00-06:00"
 publishDate = "2017-06-12T21:47:00-06:00"
+short_description = "Wide Open House includes free concerts by RCM students and faculty, 15-minute trial lessons, instrument \"petting zoos\" (adorable), and music appreciation lectures. There are events geared towards kids, including Smart Start™ classes for babies and toddlers, and from 10am-2pm, the KidZone offers crafts, songs, and games for kids aged 5-10."
 slug = "dont-miss-the-rcms-wide-open-house"
 title = "Don&#039;t miss: the RCM&#039;s Wide Open House"
 +++

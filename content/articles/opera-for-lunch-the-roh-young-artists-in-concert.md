@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-10-03T15:25:00+01:00"
 lastmod = "2016-10-03T16:55:00+01:00"
 publishDate = "2016-10-03T16:55:00+01:00"
+short_description = "Safe as the programme may have been, the singers and pianists impressed; some of our highlights were the performances by tenor Thomas Atkins, sopranos Jennifer Davis and Vlada Borovko, and tenor David Junghoon Kim. The quality of singing was quite high across the board, and yet it's always a fascinating exercise to notice recurring differences between artists who are so-called \"young,\" and those with more experience."
 slug = "opera-for-lunch-the-roh-young-artists-in-concert"
 title = "Opera for lunch: the ROH Young Artists in concert"
 +++

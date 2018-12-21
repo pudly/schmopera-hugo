@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2015-04-22T18:22:00-04:00"
 lastmod = "2015-04-25T15:12:00-04:00"
 publishDate = "2015-04-23T09:00:00-04:00"
+short_description = "English National Opera announced their 2015/15 season, and making an appearance is friend, fellow COC Ensemble graduate, and stellar soprano Ambur Braid. "
 slug = "friends-at-the-eno"
 title = "Friends at the ENO"
 +++

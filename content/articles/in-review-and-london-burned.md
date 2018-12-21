@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-10-29T12:34:00+01:00"
 lastmod = "2016-10-31T17:43:00+00:00"
 publishDate = "2016-10-29T13:52:00+01:00"
+short_description = "It was the stories of the Londoners, represented by Gwilym Bowen, Aoife O'Sullivan, and Andrew Rupp (who also sang the Duke of York and Dryden), that earned even more fear than the tale of the fire itself; they were the horrifying story of *people* during a disaster. There were the carters who inflated their prices to evil proportions; there were those who wasted time blaming the fire on sin or the Dutch or the year 1666; there were looters, racists, and useless officials. It's terrifying to consider, in a disaster, how a city is at the mercy of its citizens."
 slug = "in-review-and-london-burned"
 title = "In review: And London Burned"
 +++

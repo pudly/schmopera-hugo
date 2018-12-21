@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2014-05-08T16:04:00-04:00"
 lastmod = "2015-04-27T18:05:00-04:00"
 publishDate = "2014-05-08T16:04:00-04:00"
+short_description = "This spring, opera-going Canadians are in luck: across the country, opera is a-happening.\n\nStarting in the West, you can still catch Verdi's Don Carlo at Vancouver Opera, playing until May 11th. The cast includes Canadian faves like Joni Henson and Brett Polegato, and they're doing it in Italian. Nice."
 slug = "whats-on-eh"
 title = "What&#039;s on, eh?"
 +++

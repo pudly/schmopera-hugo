@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2017-03-09T18:08:00+01:00"
 lastmod = "2017-03-10T11:53:00+01:00"
 publishDate = "2017-03-10T11:47:00+01:00"
+short_description = "With the few exceptions of singers who are stepping back into a production they've already rehearsed, with the same cast and conductor, it seems as though companies are willing to offer their audiences a lesser production in favour of having a famous name onstage. And maybe it's a profitable trade-off. It just feels...not right."
 slug = "star-opera-singers-timeefficient-or-just-late-to-rehearsal"
 title = "Star opera singers: time-efficient, or just late to rehearsal?"
 +++

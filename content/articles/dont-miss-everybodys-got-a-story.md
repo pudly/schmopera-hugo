@@ -2,7 +2,9 @@
 categories = "News"
 date = "2017-06-14T21:22:00-06:00"
 lastmod = "2017-06-14T22:09:00-06:00"
+preamble = "Clockwise from top left: Sarite Harris, Elena Juatco, Saccha Dennis, Michelle Bouey, and Kelly Holiff."
 publishDate = "2017-06-14T22:09:00-06:00"
+short_description = "Katie Edwards has conceived of this tribute to Canada's proud legacy of women singers and songwriters, and with the musical direction and arrangements by Jeannie Wyse, Everybody's Got a Story nods to greats like Joni Mitchell, Anne Murray, Celine Dion, Alanis Morissette, Shania Twain, Buffy Sainte-Marie, Jann Arden and Sarah McLachlan."
 slug = "dont-miss-everybodys-got-a-story"
 title = "Don&#039;t miss: Everybody&#039;s Got a Story"
 +++

@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2016-11-28T18:54:00+00:00"
 lastmod = "2016-12-01T11:19:00+00:00"
+preamble = "*Der Freischütz* is an action-packed story about girls, guns, and selling one's soul to the devil. Caspar is a man who owes his soul to the devil, and when he sings \"Schweig! damit dich Niemand warnt,\" he plans to substitute Max's soul instead of his own. This aria is difficult, even erratic, but it's mostly about finding the most energy-efficient way of singing. Caspar's aria is a schizophrenic rambling of a desperate man, and Weber's score is packed with traps that cost you breath and beauty of sound, and it's an aria that takes patience and time with your teachers and coaches.\n\nWe can offer some starting points, to help you pace yourself, avoid the traps, and keep breathing.\n\nPhoto: [Rob Albright](https://www.flickr.com/photos/8015956@N04/) via [Flickr.](https://creativecommons.org/licenses/by-nc/2.0/legalcode)"
 publishDate = "2016-12-01T11:19:00+00:00"
+short_description = "Der Freischütz is an action-packed story about girls, guns, and selling one's soul to the devil. Caspar is a man who owes his soul to the devil, and when he sings \"Schweig! damit dich Niemand warnt,\" he plans to substitute Max's soul instead of his own. Caspar's aria is a schizophrenic rambling of a desperate man, and Weber's score is packed with traps that cost you breath and beauty of sound, and it's an aria that takes patience and time with your teachers and coaches."
 slug = "aria-guides-schweig-damit-dich-niemand-warnt"
 title = "Aria guides: &quot;Schweig! damit dich Niemand warnt&quot;"
 +++

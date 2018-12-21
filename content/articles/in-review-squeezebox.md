@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-02-12T09:51:00-05:00"
 lastmod = "2016-02-12T10:16:00-05:00"
 publishDate = "2016-02-12T10:10:00-05:00"
+short_description = "In an eclectic program that only an accomplished company like Soundstreams can pull off, we were treated to Squeezebox, a program of instruments from the accordion family, which is a thing, and includes one played with your mouth (think harmonica meets tiny bagpipes and has a threesome with an accordion.)"
 slug = "in-review-squeezebox"
 title = "In review: Squeezebox"
 +++

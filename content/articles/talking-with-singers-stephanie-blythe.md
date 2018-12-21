@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2018-03-12T11:38:00-04:00"
 lastmod = "2018-03-13T08:25:00-04:00"
 publishDate = "2018-03-12T22:36:00-04:00"
+short_description = "Blythe approaches her recital work with a refreshingly casual air, as though she doesn't confuse her passion with taking it all too seriously. She has even graced the recital stage with her ukulele in hand, a more recent passion-project of hers. \"I just did a recital in New York; here we are in Merkin Hall, singing 'Don't Fence Me In' and I was accompanying on ukulele.\""
 slug = "talking-with-singers-stephanie-blythe"
 title = "Talking with singers: Stephanie Blythe"
 +++

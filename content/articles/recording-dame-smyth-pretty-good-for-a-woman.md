@@ -3,6 +3,7 @@ categories = "News"
 date = "2018-11-16T21:50:00-05:00"
 lastmod = "2018-11-17T13:34:00-05:00"
 publishDate = "2018-11-16T21:50:00-05:00"
+short_description = "Predictably, Smyth's music has not received the same recognition and appreciation as that of her male contemporaries like Brahms, Tchaikovsky, and Grieg. \"Pretty good - for a woman,\" was among the tiring sentiments by critics of Smyth's day."
 slug = "recording-dame-smyth-pretty-good-for-a-woman"
 title = "Recording Dame Smyth: &quot;Pretty good - for a woman.&quot;"
 +++

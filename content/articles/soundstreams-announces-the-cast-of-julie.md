@@ -3,6 +3,7 @@ categories = "News"
 date = "2015-06-13T17:38:00-04:00"
 lastmod = "2015-06-17T15:23:00-04:00"
 publishDate = "2015-06-14T11:19:00-04:00"
+short_description = "This November, Soundstreams present the North American premiere of Julie, the chamber opera by Philippe Boesmans, based on the 1888 Strindberg play, Miss Julie. \"Depicting a flirtation that turns into an erotic danse macabre between its aristocratic title character and her father’s valet, August Strindberg’s play Miss Julie was considered too scandalous to be produced when it was written in 1888—only to become a defining classic of modern drama.\""
 slug = "soundstreams-announces-the-cast-of-julie"
 title = "Soundstreams announces the cast of Julie"
 +++

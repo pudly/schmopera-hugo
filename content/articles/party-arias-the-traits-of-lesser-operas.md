@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-04-22T19:37:00+01:00"
 lastmod = "2016-04-23T12:03:00+01:00"
 publishDate = "2016-04-23T11:55:00+01:00"
+short_description = "When it's harder to pull a section away from an entire scene, to find the real beginnings and ends of an aria, does that mean the opera is a purer melding of theatre and music? When a singer fights the urge to sing a bit from Bluebeard's Castle, and opts instead for \"Quando m'en vo\", are her urges founded in some quantifiable difference in quality? "
 slug = "party-arias-the-traits-of-lesser-operas"
 title = "Party arias: the traits of lesser operas?"
 +++

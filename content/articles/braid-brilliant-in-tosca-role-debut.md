@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-04-21T20:52:00-04:00"
 lastmod = "2018-04-24T10:35:00-04:00"
 publishDate = "2018-04-22T10:16:00-04:00"
+short_description = "Her performance was made more exquisite by the fact she sang the whole aria on the floor, often in positions that would make most voice teachers and coaches cringe. And yet, her sound never suffered, maintaining her presence well above the swell of the orchestra, in nothing short of a world-class performance."
 slug = "braid-brilliant-in-tosca-role-debut"
 title = "Braid &quot;brilliant&quot; in Tosca role debut"
 +++

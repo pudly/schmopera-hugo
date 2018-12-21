@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2014-10-01T11:27:00-04:00"
 lastmod = "2015-04-14T14:59:00-04:00"
 publishDate = "2014-10-01T11:27:00-04:00"
+short_description = "We've got exciting news! MusicalToronto.org has expanded into a whole new site, and you should get over there to check it out. It's got a new look, a great new way to keep track of upcoming concerts and events, and it'll soon include an interactive map of Toronto concert venues."
 slug = "music-bloggers-unite"
 title = "Music Bloggers Unite!"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-03-24T20:31:00-04:00"
 lastmod = "2018-03-24T20:59:00-04:00"
 publishDate = "2018-03-24T20:31:00-04:00"
+short_description = "And then Kelly Kaduce came onstage: when her Polly Peachum walked on in an unglamorous wedding dress and unkempt black hair playing a sarcastic, monotone version of the typical operatic ingenue her character is written as, it became clear exactly what the work was setting out to do."
 slug = "blos-threepenny-opera-a-misanthropic-delight"
 title = "BLO&#039;s Threepenny Opera: a misanthropic delight"
 +++

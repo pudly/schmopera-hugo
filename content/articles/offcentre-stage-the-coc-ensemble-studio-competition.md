@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2018-11-02T18:26:00-04:00"
 lastmod = "2018-11-02T22:31:00-04:00"
 publishDate = "2018-11-02T18:26:00-04:00"
+short_description = "It's a lot of hype for one night, and only part of it is open to the public. The competitors sing one closed round before the crowd files in for the second, and after the competition is done, the singers are whisked away for a gala dinner with their colleagues - and most notably, the evening's donors."
 slug = "offcentre-stage-the-coc-ensemble-studio-competition"
 title = "Off-Centre Stage: the COC Ensemble Studio Competition"
 +++

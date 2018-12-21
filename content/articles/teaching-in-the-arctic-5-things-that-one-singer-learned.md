@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2016-09-16T09:52:00+01:00"
 lastmod = "2016-09-17T08:56:00+01:00"
 publishDate = "2016-09-16T13:40:00+01:00"
+short_description = "My work up north has made me a better singer and artist, without question. At the most basic level it's one of the ways I remind myself why art is so, so important, even though trying to be a singer is so difficult. So here are five epiphanies I've had because of my time teaching in some of the most beautiful places on earth."
 slug = "teaching-in-the-arctic-5-things-that-one-singer-learned"
 title = "Teaching in the Arctic: 5 things that one singer learned"
 +++

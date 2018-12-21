@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2016-10-26T20:12:00+01:00"
 lastmod = "2016-11-01T14:53:00+00:00"
 publishDate = "2016-11-01T14:33:00+00:00"
+short_description = "\"You have to continue to get better,\" says Jagde of his constant work with his teachers and coaches. \"You're working really hard to just even have a job and to have a career, and now you have to keep it. The work never stops. It's not that you make it, and then you're there.\""
 slug = "talking-with-singers-brian-jagde"
 title = "Talking with singers: Brian Jagde"
 +++

@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2016-06-01T21:02:00+01:00"
 lastmod = "2017-02-09T10:44:00+00:00"
 publishDate = "2016-06-01T22:31:00+01:00"
+short_description = "Bosom first, she glides across the stage like Morticia from The Addams Family. At centre stage, one hand presses in between her breasts, the other gracefully clutching at her skirts in preparation. One foot invisibly steps upstage under metres of fabric, and the leading lady descends into a curtsy so deep it could convince you that she's actually only a bust, perched upon a hydraulic office chair hidden beneath her tulle. "
 slug = "taking-a-bow-curtain-calls-for-your-voice-type"
 title = "Taking a bow: curtain calls for your voice type"
 +++

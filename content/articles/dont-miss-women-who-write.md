@@ -3,6 +3,7 @@ categories = "News"
 date = "2017-02-06T12:31:00+00:00"
 lastmod = "2017-02-08T15:20:00+00:00"
 publishDate = "2017-02-08T15:05:00+00:00"
+short_description = "Sara Constant, flutist and writer for Wholenote leads a round-table dicussion with three Canadian women: Norma Beecroft, pioneer of electronic music composition, Juliet Palmer, composer and Artistic Director of Urbavessel, and Tara Kannangara, Juno-nominated jazz artist and composer. The conversation will \"reveal the joys and triumphs of each composer as they find their voices in the Canadian music scene\"."
 slug = "dont-miss-women-who-write"
 title = "Don&#039;t miss: Women Who Write"
 +++

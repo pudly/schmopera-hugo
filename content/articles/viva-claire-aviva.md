@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2015-05-11T16:08:00-04:00"
 lastmod = "2015-05-12T12:24:00-04:00"
 publishDate = "2015-05-12T12:00:00-04:00"
+short_description = "On Sunday, I was lucky enough to find myself invited to a small private recital by two of the best young singers in the country (there, I said it). Sopranos, and besties, Claire de Sevigne and Aviva Fortunata treated us to an intimate recital before they split up for about a year."
 slug = "viva-claire-aviva"
 title = "Viva Claire &amp; Aviva!"
 +++

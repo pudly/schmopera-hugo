@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2016-08-05T14:01:00+01:00"
 lastmod = "2016-08-06T11:51:00+01:00"
 publishDate = "2016-08-06T11:51:00+01:00"
+short_description = "Judge if you must, but the whole image of a naked cellist playing a wedding gig had us thinking about the realities of nude music-making. Upon further consideration, the idea may be better in fantasy than in reality."
 slug = "nude-musicians-less-hot-than-it-sounds"
 title = "Nude musicians: less hot than it sounds"
 +++

@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-05-15T18:30:00+01:00"
 lastmod = "2016-05-16T13:00:00+01:00"
 publishDate = "2016-05-16T11:04:00+01:00"
+short_description = "Does this point to a subtle, non-malicious, yet inherent slight towards libretti, and by extension, librettists? If opera is the spectacular melding of music and text, why does the former seem more sacred than the latter? And finally, is an updated libretto to the tune of un-updated music a fundamentally incomplete idea?"
 slug = "updating-operas-why-stop-at-the-libretto"
 title = "Updating operas: why stop at the libretto?"
 +++

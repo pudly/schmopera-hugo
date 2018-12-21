@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-09-21T12:52:00-04:00"
 lastmod = "2018-09-21T16:20:00-04:00"
 publishDate = "2018-09-21T12:52:00-04:00"
+short_description = "Director Alan Corbishley describes Nigredo (blackening) as a process that ancient alchemists believed was necessary to create the Philosopher's Stone, and thus find immortality. In psychology, this process is a metaphor for the \"dark night of the soul\" that is necessary for a person to confront in order to reach acceptance of oneself.\n"
 slug = "psycho-meets-sartre-at-the-nigredo-hotel"
 title = "Psycho meets Sartre at the Nigredo Hotel"
 +++

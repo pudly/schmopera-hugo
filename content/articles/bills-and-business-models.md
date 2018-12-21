@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2014-01-12T10:09:00-05:00"
 lastmod = "2015-04-28T22:58:00-04:00"
 publishDate = "2014-01-12T10:09:00-05:00"
+short_description = "2013 was a bad year for the business of classical music. New York City Opera was North America's big story in the ever-widening category of struggling or bankrupt opera houses. Seattle Opera suffered large cutbacks in order to stay alive, and the Minnesota Orchestra's standoff with the board has cost them at least a season and a half. And although outside of our stated calendar year, Canadians certainly felt this week's closure of Opera Hamilton."
 slug = "bills-and-business-models"
 title = "Bills and Business Models"
 +++

@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2015-04-11T20:25:00-04:00"
 lastmod = "2015-04-11T20:25:00-04:00"
+preamble = "<p>\n\tAllison Bent is Orchestra Personnel Administrator for the Toronto Symphony Orchestra, and was an Artist Representative for Andrew Kwan Artists. I asked her about advice she could offer young musicians entering or new to the professional world.\n</p>"
 publishDate = "2015-02-09T08:25:00-05:00"
+short_description = "Allison Bent is Orchestra Personnel Administrator for the Toronto Symphony Orchestra, and was an Artist Representative for Andrew Kwan Artists. I asked her about advice she could offer young musicians entering or new to the professional world."
 slug = "allison-bent-advice-for-young-musicians"
 title = "Allison Bent: Advice for Young Musicians"
 +++

@@ -2,7 +2,9 @@
 categories = "Editorial"
 date = "2016-12-13T10:37:00+00:00"
 lastmod = "2016-12-15T13:20:00+00:00"
+preamble = "Can you believe it, readers? It's nearly the end of 2016! What is this insanity?\n\nMany of you likely feel like there's plenty to forget about this year (like losing David Bowie, Robin Willians, Alan Rickman, Florence Henderson, Leonard Cohen, Prince, and *oh god make it stop*). But at the opera, at least, Greg and I have certainly seen some excellence. As 2016 starts to wrap up, and with all the fab shows and conversations with artists, the time is right for each of us to make a Top 10 list (because trying to narrow them down to a Top 5 seemed cruel).\n\nSo here goes, our respective Top 10 lists of 2016, in a rough order that doesn't really mean much:"
 publishDate = "2016-12-15T10:05:00+00:00"
+short_description = "\"I totally loved interviewing baritone Sidney Outlaw. He has a peace and wisdom about him that translates into his work. He answers every tough question about the industry with some form of \"take it to the practice room.\" He was easy to talk with, and funny enough to make me wish we could have done a podcast out of it.\""
 slug = "roundup2016-greg-jennas-top-10"
 title = "#Roundup2016: Greg &amp; Jenna&#039;s Top 10"
 +++

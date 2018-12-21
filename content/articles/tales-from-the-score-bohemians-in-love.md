@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2014-12-03T08:00:00-05:00"
 lastmod = "2015-04-13T20:55:00-04:00"
 publishDate = "2014-12-03T08:00:00-05:00"
+short_description = "Without fail, in almost tedious constancy, watching La bohème brings out all the feels. Before an upcoming production, I'm more objective, and I can inwardly roll my eyes at the thought of getting swept away by a piece like La bohème. It's so obvious, I tell myself, You're falling for low-bar emotional jabs like doomed lovers and friendship despite hardship. "
 slug = "tales-from-the-score-bohemians-in-love"
 title = "Tales from the score: Bohemians in love"
 +++

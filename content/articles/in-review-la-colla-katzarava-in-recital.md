@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-01-10T13:38:00+00:00"
 lastmod = "2017-01-11T12:38:00+00:00"
 publishDate = "2017-01-11T12:25:00+00:00"
+short_description = "At the same time, Wigmore Hall is not conducive to an evening of opera scenes. The two singers seemed to fall into a groove, carved from their respective past performances of Butterfly or Turandot. They seemed to want to fill the recital stage with stuff, making up for the lack of sets and costumes and space, when instead they could have done less, and simply let their voices do the work."
 slug = "in-review-la-colla-katzarava-in-recital"
 title = "In review: La Colla &amp; Katzarava in recital"
 +++

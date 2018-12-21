@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-05-29T08:17:00-06:00"
 lastmod = "2017-06-13T09:16:00-06:00"
+preamble = "After singing Mercédès in *Carmen* and the title role in *Dido and Aeneas* at the [Deutsche Oper](/scene/companies/deutsche-oper-berlin/), American mezzo-soprano [Abigail Levis](/scene/people/abigail-levis/) returns to Berlin this summer for *Don Carlos* (Thibault). This fall, she heads to her home country to sing in Opera Philadelphia's double-bill, [*War Stories*](https://www.operaphila.org/whats-on/on-stage-2017-2018/war-stories/).\n\nUnique and refreshing, Levis talks about life after training, creating for herself room to grow as an artist, and focusing on the things a singer **can** control."
 publishDate = "2017-06-11T22:56:00-06:00"
+short_description = "\"Once you are out of school, and as you move through your training programs, you find that there is no definite way to be an artist and there is no right way to be an opera singer. It's about making choices and standing by them. It's about trying new things and finding what works for you in this moment and what does not.\""
 slug = "spotlight-on-abigail-levis"
 title = "Spotlight on: Abigail Levis"
 +++

@@ -3,6 +3,7 @@ categories = "News"
 date = "2015-10-27T17:44:00-04:00"
 lastmod = "2015-10-29T09:35:00-04:00"
 publishDate = "2015-10-29T08:00:00-04:00"
+short_description = "Tapestry opera continues its kick-ass 2015/16 season with the latest instalment of Tap:Ex Metallurgy. Tap:Ex is a performance series started by Artistic Director Michael Mori, that is \"committed to radically redefining the future of opera.\" Metallurgy blends opera with punk rock, as Canadian punk band Fucked Up shares the stage with tenor David Pomeroy and mezzo-soprano (and chameleon) Krisztina Szabó. "
 slug = "go-see-this-tapex-metallurgy"
 title = "Go see this: Tap:Ex Metallurgy"
 +++

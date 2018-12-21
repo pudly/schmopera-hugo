@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2016-06-19T16:57:00-06:00"
 lastmod = "2016-06-22T11:16:00-06:00"
+preamble = "Canadian composer [Jeff Smallman](http://www.jeffsmallman.com/)'s chamber opera, [*Pat & Emilia*](http://patandemilia.wix.com/opera), tells a story that cuts to the quick about the lives of artists. Based on the lives of photographer Pat Sturn and opera singer Emilia Cundari, both from Windsor, Ontario, *Pat & Emilia* is the story of two women who make decisions about their artistic careers, and how they find balance between their work and their family life. Pat turned down a marriage proposal in order to focus on her career, while Emilia chose her family over her singing.\n\nThe choice isn't always binary, and we've met plenty of singers who refuse to make an \"either/or\" decision about work and family. Still, it's one of the biggest points of crisis for a working artist, and there's something fascinating and meta about how Smallman's opera, and the singers in it, unpack this familiar story. We had the chance to ask Smallman about the positive reception of *Pat & Emilia*, and what he and the creative team learned from its creation."
 publishDate = "2016-06-21T20:08:00-06:00"
+short_description = "The choice isn't always binary, and we've met plenty of singers who refuse to make an \"either/or\" decision about work and family. Still, it's one of the biggest points of crisis for a working artist, and there's something fascinating and meta about how Smallman's opera, and the singers in it, unpack this familiar story."
 slug = "art-imitating-life-pat-emilia"
 title = "Art imitating life: Pat &amp; Emilia"
 +++

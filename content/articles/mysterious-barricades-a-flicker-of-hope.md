@@ -3,6 +3,7 @@ categories = "News"
 date = "2017-09-08T11:24:00-04:00"
 lastmod = "2017-09-08T14:35:00-04:00"
 publishDate = "2017-09-08T12:21:00-04:00"
+short_description = "With a mission \"to raise awareness surrounding the mysterious barricades between mental illness and health, between the darkness of depression and a flicker of hope, between life and death,\" Mysterious Barricades brings free concerts to 15 Canadian cities, starting in St. John's, NL, and ending in Victoria, BC. The organization is led by mezzo-soprano Elizabeth Turnbull, whose late husband took his own life two years ago."
 slug = "mysterious-barricades-a-flicker-of-hope"
 title = "Mysterious Barricades: &quot;A flicker of hope.&quot;"
 +++

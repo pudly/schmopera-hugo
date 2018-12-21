@@ -2,7 +2,9 @@
 categories = "News"
 date = "2016-05-17T14:32:00+01:00"
 lastmod = "2016-05-18T08:02:00+01:00"
+preamble = "Photo via [Rocor](https://www.flickr.com/photos/rocor/23735524485) on [Flickr](https://creativecommons.org/licenses/by-nc/2.0/)."
 publishDate = "2016-05-18T08:02:00+01:00"
+short_description = "Any time this is tried out, we get excited about following along during a production we can't catch live. Of course, the pool of sources is usually limited to a small group, so anyone hoping to piece together a full picture of what happened onstage may be out of luck. It's also a risk, since it can make these companies, not to mention the artists onstage, vulnerable to the kind of garbage that people feel brave enough to post; the level of anonymity, or at least avoiding face-to-face criticism, can bring out the worst in an audience."
 slug = "sfo-tickets-for-tweets"
 title = "SFO: tickets for tweets"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-11-16T10:41:00+00:00"
 lastmod = "2016-11-16T15:41:00+00:00"
 publishDate = "2016-11-16T12:27:00+00:00"
+short_description = "His Hoffmann was strapping, sexy, and desperate, and his open-throated, silvery sound was utterly thrilling. He sang with an extraordinary range of colour, and he took us through the vocal evolution of Hoffmann, as he accumulates more and more emotional baggage from his failed affairs."
 slug = "in-review-les-contes-dhoffmann"
 title = "In review: Les contes d&#039;Hoffmann"
 +++

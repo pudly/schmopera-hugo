@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-11-20T10:57:00-05:00"
 lastmod = "2015-11-20T21:45:00-05:00"
 publishDate = "2015-11-21T08:45:00-05:00"
+short_description = "So you want to be a comprimario? Great! There's lots of work for you if you're good it, but beware, it's not as glitzy and glamorous as playing Violetta or Don José, but it's just as labour-intensive."
 slug = "the-life-of-a-comprimario-or-oh-youre-that-guy"
 title = "The life of a comprimario, or &quot;Oh, you&#039;re that guy!&quot;"
 +++

@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2014-08-19T15:04:00-04:00"
 lastmod = "2015-04-16T22:15:00-04:00"
 publishDate = "2014-08-19T15:04:00-04:00"
+short_description = "A while back, I got impatient with a bunch of opera memes that were circulating around the Internet. It has happened again, partly thanks to the Opera Memes Facebook page. Here we go, for Act II of the Opera Memes Deconstruction:"
 slug = "opera-memes-act-ii"
 title = "Opera Memes, Act II"
 +++

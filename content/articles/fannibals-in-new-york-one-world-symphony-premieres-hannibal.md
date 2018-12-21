@@ -3,6 +3,7 @@ categories = "Review"
 date = "2015-10-26T22:42:00-04:00"
 lastmod = "2015-10-27T10:07:00-04:00"
 publishDate = "2015-10-27T09:13:00-04:00"
+short_description = "Thematically, the darkness of Hannibal is not an unfamiliar subject to opera. Psychopathic heroes and murderers have long taken the stage through works like Wozzeck and Salome, characters like Bluebeard and Scarpia. A lot of operas are bloody. Yet, I’m not sure the question is whether Hong is doing something new. Rather, the point is what he’s doing to make opera contextually relevant to those who otherwise might not go to the opera at all."
 slug = "fannibals-in-new-york-one-world-symphony-premieres-hannibal"
 title = "Fannibals in New York: One World Symphony premieres Hannibal"
 +++

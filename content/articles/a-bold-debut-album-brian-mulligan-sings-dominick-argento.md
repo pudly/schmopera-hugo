@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-10-10T19:17:00-04:00"
 lastmod = "2017-10-17T10:07:00-04:00"
 publishDate = "2017-10-17T10:07:00-04:00"
+short_description = "Mulligan has a thrilling quality in his voice, an open-throated sound that's masculine, honest, and completely appealing; his is an exhilarating balance between constant beauty and toeing a risky edge."
 slug = "a-bold-debut-album-brian-mulligan-sings-dominick-argento"
 title = "A bold debut album: Brian Mulligan sings Dominick Argento"
 +++

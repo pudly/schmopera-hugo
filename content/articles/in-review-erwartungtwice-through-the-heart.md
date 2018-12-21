@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-11-05T14:46:00+00:00"
 lastmod = "2016-11-05T16:55:00+00:00"
 publishDate = "2016-11-05T16:50:00+00:00"
+short_description = "Erwartung and Twice Through the Heart both hurl listeners directly into the action. We are presented with questions: are these women killers? Are they crazy? Are they liars? Are their memories to be trusted? Sitting above the immediate curiosity with these women are larger questions about how women in particular are pushed to violence."
 slug = "in-review-erwartungtwice-through-the-heart"
 title = "In review: Erwartung/Twice Through the Heart"
 +++

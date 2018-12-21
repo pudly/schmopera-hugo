@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-02-18T10:24:00-05:00"
 lastmod = "2018-02-19T09:20:00-05:00"
 publishDate = "2018-02-19T09:20:00-05:00"
+short_description = "There were cheap laughs as well - seeing an MP with the hair of Boris Johnson was funny once, but the second time was over-doing it. An unwelcome flamingo made its way onto the stage for apparently no reason at all. The two-person cow suit made me feel like I was at a Christmas panto and not the London Coliseum - not to say that's an entirely bad thing."
 slug = "technicolour-gs-enos-iolanthe"
 title = "Technicolour G&amp;S: ENO&#039;s Iolanthe"
 +++

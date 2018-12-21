@@ -2,7 +2,9 @@
 categories = "Humour"
 date = "2016-06-08T10:22:00+01:00"
 lastmod = "2016-06-09T13:01:00+01:00"
+preamble = "We won't come right out and say this is an opera drinking game, but we have devised a little way to make watching opera (in the comfort of your home, without distracting other ticket buyers, please!) a more social, even competitive, activity. Our points system can be worth whatever currency you so desire; but we're not opposed to a point equalling hearty gulps of your preferred beverage..."
 publishDate = "2016-06-08T22:38:00+01:00"
+short_description = "We won't come right out and say this is an opera drinking game, but we have devised a little way to make watching opera (in the comfort of your home, without distracting other ticket buyers, please!) a more social, even competitive, activity. Our points system can be worth whatever currency you so desire; but we're not opposed to a point equalling hearty gulps of your preferred beverage..."
 slug = "5-ways-to-make-watching-an-opera-at-home-even-more-fun"
 title = "5 ways to make watching an opera at home even more fun"
 +++

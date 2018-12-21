@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2014-08-18T14:56:00-04:00"
 lastmod = "2015-04-16T22:29:00-04:00"
 publishDate = "2014-08-18T14:56:00-04:00"
+short_description = "Rufus Wainwright is eager to make a studio recording of his first opera, Prima Donna, and the only thing stopping him is money. Rufus has yet to find a financial backer for the project, so he has turned to crowdfunding to find the cash on his own. "
 slug = "rufus-wainwright-really-wants-to-record-prima-donna"
 title = "Rufus Wainwright really wants to record Prima Donna"
 +++

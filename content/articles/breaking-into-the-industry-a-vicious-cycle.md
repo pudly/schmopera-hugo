@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-06-16T10:12:00-04:00"
 lastmod = "2015-06-16T10:42:00-04:00"
 publishDate = "2015-06-16T10:39:00-04:00"
+short_description = "When you want something like this so badly, you will do pretty near anything to keep going. It makes you feel crazy, sure! But is it crazier to deny yourself what you love, or is it crazier to keep going when there's no end in sight? I wish I was here to bring you some hope and be all, “Here is a solution to all your problems! And here, 10 points for Griffindor!” Unfortunately, however, I am not a wizard and cannot wave a wand, say a little charm, do a little dance and have the circle stop and re-order itself into a tidy, chronological line."
 slug = "breaking-into-the-industry-a-vicious-cycle"
 title = "Breaking into the industry: a vicious cycle?"
 +++

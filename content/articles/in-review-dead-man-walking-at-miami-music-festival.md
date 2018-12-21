@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-07-30T19:13:00-04:00"
 lastmod = "2017-07-31T09:01:00-04:00"
 publishDate = "2017-07-30T23:00:00-04:00"
+short_description = "The audience was left with no question of Joseph De Rocher's guilt – but Sister Helen's resolute narrative transformed the convicted murderer into a man who is conflicted, complicated, and deeply human. In the final scene, De Rocher was administered the lethal injection, strapped upright to a gurney in imagery undoubtedly evoking a crucifixion. The audience, then, was left with questions: did De Rocher's death truly achieve justice? In admitting his guilt, did he open himself to forgiveness? Or were his horrible crimes simply unforgivable?"
 slug = "in-review-dead-man-walking-at-miami-music-festival"
 title = "In review: Dead Man Walking at Miami Music Festival"
 +++

@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2015-10-04T20:09:00-04:00"
 lastmod = "2015-10-18T00:49:00-04:00"
+preamble = "Readers, we've got a new treat for you! Welcome to our new series of posts that take you through popular arias of all voice types, step by step. We'll point out tips and tricks for making the learning process efficient, and try to answer as many FAQs about the repertoire as we can. To request an aria guide, send us your suggestions! Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).\n\nWe're starting with \"Deh vieni, non tardar,\" Susanna's famous aria from Mozart's *Le nozze di Figaro*. Use the excerpts for reference, or get the bigger picture on page 199 of [the vocal score](http://petrucci.mus.auth.gr/imglnks/usimg/8/89/IMSLP220533-SIBLEY1802.16871.abe9-39087011127240score.pdf) via IMSLP."
 publishDate = "2015-10-07T08:00:00-04:00"
+short_description = "Readers, we've got a new treat for you! Welcome to our new series of posts that take you through popular arias of all voice types, step by step. We'll point out tips and tricks for making the learning process efficient, and try to answer as many FAQs about the repertoire as we can. To request an aria guide, send us your suggestions! Get in touch at hello@schmopera.com."
 slug = "aria-guides-deh-vieni-non-tardar"
 title = "Aria guides: &quot;Deh vieni, non tardar&quot;"
 +++

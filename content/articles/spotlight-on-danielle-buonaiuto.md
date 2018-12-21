@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-06-22T12:23:00-06:00"
 lastmod = "2017-06-22T21:25:00-06:00"
+preamble = "Based in Brooklyn, NY, Canadian soprano [Danielle Buonaiuto](/scene/people/danielle-buonaiuto/) is one of those tirelessly versatile freelance artists of the 21st century. She sings in choral, chamber, and solo settings, and she is currently Executive Director of [Musica Viva NY](http://musicaviva.org/).\n\nBuonaiuto's artistic work comes out of a continuous search for projects which are collaborative, meaningful, and which lie outside of her comfort zone. In our latest Spotlight interview, she chats about what it means for classical music to be \"accessible\", and her striving for the \"full effect\" onstage."
 publishDate = "2017-06-22T21:14:00-06:00"
+short_description = "\"A successful performance is happening when I can make some eye contact, elicit laughter or other commentary, feel energy coming back from the audience - in short, when everyone in the room is engaged in the moment with me. After such a concert, I'll often have audience members want to connect with me directly to talk with me about the experience.\""
 slug = "spotlight-on-danielle-buonaiuto"
 title = "Spotlight on: Danielle Buonaiuto"
 +++

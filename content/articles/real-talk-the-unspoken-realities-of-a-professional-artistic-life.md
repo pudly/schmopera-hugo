@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2016-12-22T16:03:00-05:00"
 lastmod = "2016-12-28T10:03:00-05:00"
 publishDate = "2016-12-28T10:03:00-05:00"
+short_description = "Is it okay for us to talk about this openly? Can we be honest for a minute about how difficult this is? After a while I started to notice that I wasn’t the only one feeling the strain, and I definitely am not the only one wondering if it's alright to talk about it. So I'm here to talk about it. Openly, honestly, and publicly. And to invite others to be part of the real talk surrounding our endlessly difficult and confusing line of work."
 slug = "real-talk-the-unspoken-realities-of-a-professional-artistic-life"
 title = "Real talk: the unspoken realities of a professional artistic life"
 +++

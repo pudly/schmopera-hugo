@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-03-18T17:09:00+00:00"
 lastmod = "2016-03-21T16:05:00+00:00"
 publishDate = "2016-03-21T15:50:00+00:00"
+short_description = "The Rattler is terrifying, in a way that would make the Brothers Grimm proud. The Rattler himself is a puppet, a confusing and repulsive thing that calls to mind Egyptian mummies, Disney's The Skeleton Dance, and the big hyena scene from The Lion King. Singers double as puppeteers, their Rattler-work resulting in hysterical shrieks from the young audience. Martin Riley adapts the story into a libretto, and Stephen Deazley's music covers everything from plaintive folk songs to familiar jigs; as any good show should be, the music is catchy yet smart, singer-friendly yet arguably not easy."
 slug = "delightfully-creepy-mahogany-opera-groups-the-rattler"
 title = "Delightfully creepy: Mahogany Opera Group&#039;s The Rattler"
 +++

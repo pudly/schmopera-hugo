@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-04-04T13:37:00+01:00"
 lastmod = "2017-04-04T14:27:00+01:00"
 publishDate = "2017-04-04T14:26:00+01:00"
+short_description = "You could argue that the recital, packed with songs and arias by Bellini, Donizetti, Verdi, Puccini, and Tosti (with some Massenet for variety), was a one-flavour kind of deal. Yet like the familiar flavours of steak frites, chocolate truffles, and great red wine, what sort of party-pooper could complain?"
 slug = "in-review-ivan-magr-at-wigmore-hall"
 title = "In review: Ivan Magrì at Wigmore Hall"
 +++

@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2014-11-11T13:37:00-05:00"
 lastmod = "2015-04-13T23:12:00-04:00"
 publishDate = "2014-11-11T13:37:00-05:00"
+short_description = "I was in rehearsal for an upcoming concert, and the only thing left to look at was the encore. I always feel like a lame impostor, rehearsing an encore. "
 slug = "encore"
 title = "Encore?"
 +++

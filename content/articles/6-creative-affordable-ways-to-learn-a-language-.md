@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2015-06-04T12:45:00-04:00"
 lastmod = "2017-06-01T10:54:00-04:00"
+preamble = "This is a cross-post from mezzo-soprano Kristen Seikaly's fantastic [blog](http://www.kristenseikaly.com/blog/). Read the original post [here](http://www.kristenseikaly.com/6-creative-ways-to-learn-a-language-affordably/)."
 publishDate = "2015-06-05T08:34:00-04:00"
+short_description = "As classical singers, we constantly are looking for creative ways to learn a language quickly and affordably. Languages are important to our craft: we sing in different languages, we work in different countries, and our colleagues speak different languages. Yet we’re often not in another country long enough to learn the language by exposure alone."
 slug = "6-creative-affordable-ways-to-learn-a-language-"
 title = "6 creative &amp; affordable ways to learn a language "
 +++

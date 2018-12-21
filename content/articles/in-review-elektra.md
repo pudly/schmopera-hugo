@@ -3,6 +3,7 @@ categories = "Review"
 date = "2015-11-25T10:43:00-05:00"
 lastmod = "2015-11-25T11:47:00-05:00"
 publishDate = "2015-11-25T11:47:00-05:00"
+short_description = "L'Opéra de Montréal is in the middle of a four-show run of Strauss' Elektra, the opera that I'm still waiting to see as a double bill on steroids with Salome, for a full night entitled, Women Who Behave Horrendously. It was a thrill to watch Yannick Nézet-Séguin conduct Strauss' delicious score with the huge amounts of energy he brings. He became somewhat of a meta-principal character in the show; it seems appriopriate, since the music speaks so much detail in this story of revenge."
 slug = "in-review-elektra"
 title = "In review: Elektra"
 +++

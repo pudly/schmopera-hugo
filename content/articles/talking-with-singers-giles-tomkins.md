@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-05-27T11:02:00-04:00"
 lastmod = "2017-05-27T13:44:00-04:00"
+preamble = "Canadian bass-baritone [Giles Tomkins](/scene/people/giles-tomkins/) has enviable roles like Timur (*Turandot*), Don Basilio (*Il barbiere di Siviglia*), and even Gandalf (*The Hobbit*) on his résumé, and each time he takes the stage, his is a memorable performance. He just wrapped a run of *Tosca* at the Canadian Opera Company, and he's already looking forward to being a part of the world premiere of James Rolfe and Morris Panych's *The Overcoat* next season.\n\nAn articulate guy on top of being a stellar singer, Tomkins chats about the international route to a Canadian career, and all the beautiful ways his life as a new dad has transformed his work onstage."
 publishDate = "2017-05-27T11:39:00-04:00"
+short_description = "\"Being a dad has also included an emotional maturity that frankly took me a little by surprise. As a result, I often feel more dramatically connected to the opera roles I take on, and not just the typical \"father figure\" parts. This in turn has impacted my singing as it's all part and parcel of how I produce my sound on the stage. It's an exciting time, as I feel there are many more opportunities opening up to me.\""
 slug = "talking-with-singers-giles-tomkins"
 title = "Talking with singers: Giles Tomkins"
 +++

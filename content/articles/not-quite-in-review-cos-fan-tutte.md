@@ -3,6 +3,7 @@ categories = "Review"
 date = "2014-02-08T17:51:00-05:00"
 lastmod = "2015-04-28T20:57:00-04:00"
 publishDate = "2014-02-08T17:51:00-05:00"
+short_description = "Last night, I watched with a perma-grin as my friends and colleagues in the Canadian Opera Company Ensemble Studio had their performance of Così fan tutte at the Four Seasons Centre. I was fortunate to have worked with some of the cast in the early stages of learning their roles, and it was an amazing experience to hear the final product."
 slug = "not-quite-in-review-cos-fan-tutte"
 title = "Not quite in review: Così fan tutte"
 +++

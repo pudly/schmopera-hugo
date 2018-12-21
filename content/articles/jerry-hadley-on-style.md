@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2015-06-04T15:04:00-04:00"
 lastmod = "2015-06-04T15:19:00-04:00"
 publishDate = "2015-06-04T15:19:00-04:00"
+short_description = "On the recommendation of a colleague, I found this gem of an interview with the late and great tenor Jerry Hadley. At just under half an hour, it's not a big time commitment to listen to the whole thing. But I love what he says starting at 3:16, which is where I've cued up this video below."
 slug = "jerry-hadley-on-style"
 title = "Jerry Hadley, on style"
 +++

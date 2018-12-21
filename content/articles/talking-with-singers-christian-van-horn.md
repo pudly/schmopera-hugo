@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2016-03-23T12:32:00+00:00"
 lastmod = "2016-10-18T18:11:00+01:00"
 publishDate = "2016-03-23T13:10:00+00:00"
+short_description = "Carmen will mark Van Horn's third contract with the Canadian Opera Company, and it's a place he likes to be. \"It's a world-class company,\" he says. \"It always has been, but especially in the last five years, specifically since Alexander [Neef] got here, he's really turned this into a place to be. There's not a singer in the world that doesn't want to sing at COC.\""
 slug = "talking-with-singers-christian-van-horn"
 title = "Talking with singers: Christian Van Horn"
 +++

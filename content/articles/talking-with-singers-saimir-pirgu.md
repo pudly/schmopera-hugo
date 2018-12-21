@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2017-03-22T14:07:00+00:00"
 lastmod = "2017-03-24T12:43:00+00:00"
 publishDate = "2017-03-24T12:43:00+00:00"
+short_description = "Though the risks are low in practicing one's craft within school or young artist productions, Pirgu feels that the benefits are equally low. \"From nothing, comes nothing,\" he says. \"That's what I learned in those years. I did things when I was not supposed to do it.\" In a way, he misses the carefree approach he had towards singing in these early years. \"It was beautiful. Just go straight away and sing. Now, I think too much.\""
 slug = "talking-with-singers-saimir-pirgu"
 title = "Talking with singers: Saimir Pirgu"
 +++

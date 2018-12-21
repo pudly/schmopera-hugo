@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2016-12-07T12:42:00+00:00"
 lastmod = "2016-12-07T17:58:00+00:00"
 publishDate = "2016-12-07T15:00:00+00:00"
+short_description = "\"There is something very exciting about staging grand opera in an intimate venue,\" says Redmond, \"that brings a power and intensity to the performances that one can sometimes miss in a large opera house. With an orchestra of 80, a chorus of nearly 100, and an international cast of soloists, it's an exciting sound!\""
 slug = "falstaff-in-cambridge"
 title = "Falstaff in Cambridge"
 +++

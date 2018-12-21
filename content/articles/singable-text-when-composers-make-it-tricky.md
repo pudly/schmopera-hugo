@@ -2,7 +2,9 @@
 categories = "Humour"
 date = "2016-02-25T09:32:00-05:00"
 lastmod = "2016-02-26T09:28:00-05:00"
+preamble = "One of the biggest signs of that a composer has written well for the voice is when he or she sets the text in an organic way. In a broad sense, this means finding a rhythm and melody that works with the text, allowing it to be expressed the way the composer wants. In the same way that Verdi seemed to naturally fuse his music with the librettos he set, there are just as many examples of text setting that seems unnatural. The curious singer will look at the weird combination of music and words, and try to solve the mystery of what the composer was after. Those mysteries get especially interesting when we're dealing with great composers. What do we mean? Here are a few examples:\n"
 publishDate = "2016-02-26T09:28:00-05:00"
+short_description = "One of the biggest signs of that a composer has written well for the voice is when he or she sets the text in an organic way. In a broad sense, this means finding a rhythm and melody that works with the text, allowing it to be expressed the way the composer wants. In the same way that Verdi seemed to naturally fuse his music with the librettos he set, there are just as many examples of text setting that seems unnatural."
 slug = "singable-text-when-composers-make-it-tricky"
 title = "Singable text: when composers make it tricky"
 +++

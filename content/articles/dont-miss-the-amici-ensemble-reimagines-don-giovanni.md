@@ -3,6 +3,7 @@ categories = "News"
 date = "2017-02-13T13:40:00+00:00"
 lastmod = "2017-02-13T16:46:00+00:00"
 publishDate = "2017-02-13T16:46:00+00:00"
+short_description = "Insiring the concert's title, Don Giovanni Reimagined, the Amici ensemble presents Josef Triebensee's arrangement; the Bohemian oboist and composer reduced Mozar'ts opera, scoring it for a chamber ensemble of wind instruments, and enough singers to cover the short selection of numbers from the opera."
 slug = "dont-miss-the-amici-ensemble-reimagines-don-giovanni"
 title = "Don&#039;t miss: the Amici Ensemble reimagines Don Giovanni"
 +++

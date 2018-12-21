@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-12-02T21:04:00-05:00"
 lastmod = "2015-12-10T10:43:00-05:00"
 publishDate = "2015-12-10T10:35:00-05:00"
+short_description = "There are assumptions being made about the phrase, \"age appropriate, attractive artists,\" the first of which is that it's synonymous with saying, \"no ugly, old singers allowed.\" Age appropriate can mean not too old to pass for a character in La bohème (including Benoit, I figure), or not too young to sing Rodolfo right to the end. \"Attractive\" could mean a lot of things, but Knoxville Opera didn't specify what; they also didn't say that they were planning to prioritize physical attractiveness over vocal. "
 slug = "knoxville-opera-poor-diction-and-prerogative"
 title = "Knoxville Opera, poor diction, and prerogative"
 +++

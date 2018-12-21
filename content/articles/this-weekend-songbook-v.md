@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2015-01-21T12:54:00-05:00"
 lastmod = "2015-04-11T22:59:00-04:00"
 publishDate = "2015-01-21T12:54:00-05:00"
+short_description = "This Saturday, January 24th, Tapestry Opera presents Songbook V. It’s a one-night-only concert, featuring excerpts from Tapestry’s library of Canadian opera. Baritone Peter McGillivray and pianist Steven Philcox will perform along with the singers and pianists of Tapestry Opera’s New Opera 101 program."
 slug = "this-weekend-songbook-v"
 title = "This weekend: Songbook V"
 +++

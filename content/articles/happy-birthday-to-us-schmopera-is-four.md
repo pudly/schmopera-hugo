@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2017-12-05T21:29:00-05:00"
 lastmod = "2017-12-06T10:43:00-05:00"
 publishDate = "2017-12-05T21:29:00-05:00"
+short_description = "We're proud to call ourselves an artist-run publication, set on demystifying opera without dumbing it down. In this past year, we've expanded our opera coverage to cities across North America and Europe - our new contributors are an amazing, dedicated group of loquacious artists who keep our mission afloat."
 slug = "happy-birthday-to-us-schmopera-is-four"
 title = "Happy birthday to us: Schmopera is four!"
 +++

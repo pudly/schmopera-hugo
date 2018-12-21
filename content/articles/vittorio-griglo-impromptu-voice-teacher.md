@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2017-04-26T09:35:00-04:00"
 lastmod = "2017-04-26T10:28:00-04:00"
 publishDate = "2017-04-26T10:28:00-04:00"
+short_description = "Is it just us, or do strapping tenors always seem to waver on the line between charming enthusiasm and invasion of personal space? Now, this woman is being a great sport as a stranger (for all intents and purposes) touches her face. She's likely one of the many women and men who would indulge Mr. Grigòlo in an impromptu - and tactile - voice lesson. "
 slug = "vittorio-griglo-impromptu-voice-teacher"
 title = "Vittorio Grigòlo, impromptu voice teacher"
 +++

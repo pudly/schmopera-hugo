@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-05-12T17:27:00+01:00"
 lastmod = "2016-05-13T15:11:00+01:00"
 publishDate = "2016-05-13T13:01:00+01:00"
+short_description = "The singing was clean and beautiful, even if in my opinion there was far too little of it. MacArthur's light lyric tone and fantastic English diction marry so well with contemporary pieces, I was felt wanting a lot more from him - not because his performance lacked anything, but the complete opposite; he was so good I wanted more, but there were only 2 pieces of the six that featured a singing vocal line."
 slug = "in-review-synesthesia-iv-pt1"
 title = "In review: Synesthesia IV pt.1"
 +++

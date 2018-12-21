@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-08-25T19:40:00+01:00"
 lastmod = "2016-08-27T16:17:00+01:00"
 publishDate = "2016-08-27T09:41:00+01:00"
+short_description = "Singers, sign up now; you don't want to pass on the chance to work with Radvanovsky, whose career speaks for itself. For singer fans, the October 22nd concert is a great chance to hear new voices at exciting stages of their development."
 slug = "dont-miss-encounter-with-sondra-radvanovsky"
 title = "Don&#039;t miss: Encounter with Sondra Radvanovsky"
 +++

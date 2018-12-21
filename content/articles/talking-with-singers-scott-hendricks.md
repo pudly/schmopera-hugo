@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-01-26T15:26:00+00:00"
 lastmod = "2017-01-28T10:48:00+00:00"
+preamble = "American baritone Scott Hendricks is currently in his home state of Texas, singing the title role in [Houston Grand Opera](/scene/companies/houston-grand-opera/)'s production of [*Nixon in China*](http://www.houstongrandopera.org/scheduletickets/2016-17-season/performances/nixon-in-china/). Later this season, he returns to the [Royal Opera House](/scene/companies/royal-opera-house/) to sing another American, Sharpless in *Madama Butterfly*. \n\nWe spoke with Hendricks about catching the \"opera bug\", stay on track as Richard Nixon, and the role he connects with most."
 publishDate = "2017-01-28T10:48:00+00:00"
+short_description = "\"This is a very good question. Firstly, my current self would tell my younger self to keep studying voice on a consistent basis. This is difficult because we travel so much and we're away from home for weeks and months at a time. Regardless, it's important to make time for touching base with your voice teacher and/or vocal coach.\""
 slug = "talking-with-singers-scott-hendricks"
 title = "Talking with singers: Scott Hendricks"
 +++

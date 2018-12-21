@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2014-05-13T10:35:00-04:00"
 lastmod = "2015-04-23T20:15:00-04:00"
 publishDate = "2014-05-13T10:35:00-04:00"
+short_description = "Exciting news! In July, I'll be heading to work at Open Space, the exciting new program partnering Against the Grain Theatre with The Banff Centre and the Canadian Opera Company. There, we'll explore Uncle John, the brand new adaptation of Mozart's _Don Giovanni _with a libretto by AtG Theatre's Artistic Director, Joel Ivany."
 slug = "schmopera-goes-west"
 title = "Schmopera goes west"
 +++

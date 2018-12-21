@@ -3,6 +3,7 @@ categories = "News"
 date = "2015-10-15T11:03:00-04:00"
 lastmod = "2015-10-17T13:03:00-04:00"
 publishDate = "2015-10-17T09:00:00-04:00"
+short_description = "The members of Lynx Project point out a thought that has lingered vaguely in my head since my university years: art song is rare to hear outside of an academic setting. Founded by three singers and one pianist, all graduates of the Eastman School of Music, Lynx Project is about bringing more art song to more people. It's a simple goal, and they plan to give \"intimate and inclusive performances [which] challenge the traditional form of an art song recital.\""
 slug = "lynx-project-on-the-road-with-art-song"
 title = "Lynx Project: on the road with art song"
 +++

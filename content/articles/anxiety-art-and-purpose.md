@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2018-09-27T20:44:00-04:00"
 lastmod = "2018-09-28T22:35:00-04:00"
 publishDate = "2018-09-28T22:35:00-04:00"
+short_description = "I know a lot of my friends and colleagues struggle with performance anxiety, and I wanted to share my thoughts here in the hopes that it might help someone else who is struggling, and open up a dialogue about anxiety and art, which I think for many of us go hand in hand."
 slug = "anxiety-art-and-purpose"
 title = "Anxiety, Art, and Purpose"
 +++

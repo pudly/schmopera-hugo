@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-06-10T11:05:00+01:00"
 lastmod = "2016-06-10T12:56:00+01:00"
 publishDate = "2016-06-10T12:56:00+01:00"
+short_description = "Guys, this is a great kickoff to summer. It's campy, it's fun, there's free beer and snacks. It's exactly the way I think that Strauss II would want to see it performed in this day and age. Seriously, get a group of you together, buy some tickets and go literally have a ball. And even though we all hate audience participation (usually), trust me when I say the more you throw yourself into the scene, the more fun the show will become. "
 slug = "die-fledermaus-die-flederfabulous"
 title = "Die Fledermaus? Die Fleder-fabulous!"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-05-01T16:32:00-04:00"
 lastmod = "2017-05-02T13:59:00-04:00"
 publishDate = "2017-05-02T13:44:00-04:00"
+short_description = "This was a sold out house at the Living Arts Centre in Mississauga, and you could tell by the millings about that most of these people rarely, if ever, go to the opera. To be clear, this is really exciting. It shows the strength of the medium and that it, by no means, is a dying art. The overture started and the audience was still milling about excitedly, chatting and laughing and drinking."
 slug = "in-review-the-mississauga-symphony-presents-carmen"
 title = "In review: the Mississauga Symphony presents Carmen"
 +++

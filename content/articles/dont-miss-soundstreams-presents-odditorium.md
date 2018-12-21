@@ -3,6 +3,7 @@ categories = "News"
 date = "2017-03-01T15:47:00+00:00"
 lastmod = "2017-03-02T20:17:00+00:00"
 publishDate = "2017-03-02T09:12:00+00:00"
+short_description = "Amente-Nufe, Crown of Ariadne, Tantrika, and La testa d'Adriana are the four selections from R. Murray Schafer's 12-piece musical/theatrical cycle, Patria, which will be presented in a newly-realized performance directed by Chris Abraham, with music direction by the contemporary musical guru himself, Dr. John Hess."
 slug = "dont-miss-soundstreams-presents-odditorium"
 title = "Don&#039;t miss: Soundstreams presents Odditorium"
 +++

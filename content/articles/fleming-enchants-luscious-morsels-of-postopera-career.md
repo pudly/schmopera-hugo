@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-09-27T12:40:00-04:00"
 lastmod = "2018-09-28T08:48:00-04:00"
 publishDate = "2018-09-28T08:48:00-04:00"
+short_description = "When soprano Renée Fleming offers a concert without any operatic repertoire, you wonder what the \"People's Diva\" will sing. Not surprisingly, in front of a capacity crowd, Fleming delivered with luscious morsels of her career after opera."
 slug = "fleming-enchants-luscious-morsels-of-postopera-career"
 title = "Fleming enchants: luscious morsels of post-opera career"
 +++

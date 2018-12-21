@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-07-26T13:40:00-04:00"
 lastmod = "2017-07-27T08:38:00-04:00"
+preamble = "Spanish-American tenor [Eric Barry](/scene/people/eric-barry/) has an enviable collection of staple roles, including Alfredo in *La traviata*, Rodolfo in *La bohème*, and the Duke of Mantua in *Rigoletto*. He just finished a run of *Lucia di Lammermoor* at Opera Colorado, where *Opera News* raved about his \"large, beefy tenor\" in the role of Edgardo. Currently, Barry is in Boston, singing Nemorino in [Boston Midsummer Opera](http://www.bostonmidsummeropera.org/wordpress/)'s *L'elisir d'amore*; this September, he sings Macduff with [Opera San Antonio](https://operasa.org/events/verdis-macbeth), sharing the stage with Greer Grimsley in the title role.\n\nIt was cathartic to chat with Barry about the opera industry, in all its unjust reality, and about his dedication to making \"a joyful noise\".\n"
 publishDate = "2017-07-26T22:21:00-04:00"
+short_description = "\"Thinking of the collective hours everyone in the room has spent honing their craft is mind-blowing, and in this brief instant it all comes together to create a magical moment in time that can never be recreated. Whoa.\""
 slug = "spotlight-on-eric-barry"
 title = "Spotlight on: Eric Barry"
 +++

@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2016-06-23T15:09:00+01:00"
 lastmod = "2016-06-28T16:36:00+01:00"
 publishDate = "2016-06-28T03:42:00+01:00"
+short_description = "\"It gets to be a bit much,\" confesses Barbera.\"That's the hardest thing about this career, no question, is being on the road all the time.\" He's away from home roughly 10 months out of a given year; this season, he moved into his apartment with his wife in late December, and by the second week of January, they were gone for five months, minus a 36-hour stop at home between contracts."
 slug = "talking-with-singers-ren-barbera"
 title = "Talking with singers: René Barbera"
 +++

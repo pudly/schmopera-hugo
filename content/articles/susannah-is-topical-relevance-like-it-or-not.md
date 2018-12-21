@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-04-11T09:39:00-04:00"
 lastmod = "2018-04-12T22:42:00-04:00"
 publishDate = "2018-04-12T22:29:00-04:00"
+short_description = "Susannah is the all-too-common story of a woman, accused and ostracized by her community, raped, and left with more questions than answers, and even less justice. Floyd's music, at once both modern and nostalgic, presents a challenge to its musicians that Nashville Opera's singers took on and largely conquered."
 slug = "susannah-is-topical-relevance-like-it-or-not"
 title = "Susannah is topical relevance, like it or not"
 +++

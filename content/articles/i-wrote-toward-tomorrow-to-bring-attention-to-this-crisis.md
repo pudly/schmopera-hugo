@@ -3,6 +3,7 @@ categories = "News"
 date = "2018-06-10T12:00:00-04:00"
 lastmod = "2018-06-11T10:25:00-04:00"
 publishDate = "2018-06-11T10:25:00-04:00"
+short_description = "Since starting Opera Mariposa, Ko's performances have raised over $50,000 in support of treatment, education, and research of chronic neuroimmune disease."
 slug = "i-wrote-toward-tomorrow-to-bring-attention-to-this-crisis"
 title = "&quot;I wrote Toward Tomorrow to bring attention to this crisis.&quot;"
 +++

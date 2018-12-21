@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2016-04-16T11:39:00+01:00"
 lastmod = "2016-04-16T12:42:00+01:00"
 publishDate = "2016-04-16T12:30:00+01:00"
+short_description = "It's funny how imagination is strengthened by experience. Here in Britain, we've seen grassy hills, greener than ever seemed possible in real life, and populated with the cutest, shaggiest sheep you've ever seen. The Thames river is a heavy, looming landmark that's rarely blue, and it swerves and veers through the middle of London in a way that's unmistakable on a map."
 slug = "inspiration-seeing-it-for-oneself"
 title = "Inspiration: seeing it for oneself"
 +++

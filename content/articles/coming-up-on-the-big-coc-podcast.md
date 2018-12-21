@@ -2,6 +2,7 @@
 date = "2014-03-07T09:00:00-05:00"
 lastmod = "2015-04-16T15:56:00-04:00"
 publishDate = "2014-03-07T09:00:00-05:00"
+short_description = "Well, Schmopera is officially a veteran of the Big COC Podcast. Later this week, mark my third appearance on the COC's official podcast, joining guests Opera Canada editor Wayne Gooding and arts journalist Catherine Kustanczy (Hyperalleric, Torontoist). Host extraordinaire Gianmarco Segato will lead a chat about the latest current events in the opera world. What will the topics be? A little Met, a little elitism; but you'll have to listen to really find out. In the meantime, click here for archives of past episodes of the Big COC Podcast."
 slug = "coming-up-on-the-big-coc-podcast"
 title = "Coming up on The Big COC Podcast..."
 +++

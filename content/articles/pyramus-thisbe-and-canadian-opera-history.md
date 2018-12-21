@@ -2,7 +2,9 @@
 categories = "News"
 date = "2015-10-19T22:05:00-04:00"
 lastmod = "2015-10-20T08:31:00-04:00"
+preamble = "Photo: [Owen McCausland](/scene/people/owen-mccausland/) as Testo in *Il combattimento di Tancredi e Clorinda* from the Canadian Opera Company’s world premiere production of *Pyramus and Thisbe* (with *Lamento d’Arianna* and *Il combattimento di Tancredi e Clorinda*), 2015. Photo by Chris Hutcheson"
 publishDate = "2015-10-20T08:20:00-04:00"
+short_description = "Sunday night I got to witness a dress rehearsal for an amazing thing happening here in Toronto. For the first time I saw a Canadian composer take a curtain call on the Canadian Opera Company stage after the performance of what will be a world premiere Canadian work."
 slug = "pyramus-thisbe-and-canadian-opera-history"
 title = "Pyramus, Thisbe, and Canadian opera history"
 +++

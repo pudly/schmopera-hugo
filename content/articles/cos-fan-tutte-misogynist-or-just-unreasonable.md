@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-07-08T06:31:00+01:00"
 lastmod = "2016-08-10T08:36:00+01:00"
 publishDate = "2015-07-09T17:21:00+01:00"
+short_description = "The other day I was fortunate to hear Graham Forst speak about Così fan tutte. If Graham's last name sounds familiar, it's because his wife is the formidable mezzo-soprano Judith Forst; they're both gracing The Banff Centre with their presences, she to teach, and he to get our minds a-spinning."
 slug = "cos-fan-tutte-misogynist-or-just-unreasonable"
 title = "Così fan tutte: misogynist, or just unreasonable?"
 +++

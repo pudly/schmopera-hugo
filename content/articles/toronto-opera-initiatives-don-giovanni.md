@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-02-14T14:32:00-05:00"
 lastmod = "2016-02-14T15:41:00-05:00"
 publishDate = "2016-02-14T15:30:00-05:00"
+short_description = "Led by sopranos Jaclyn Grossman and Rebecca Townsend, the artist-centric collective creates performance opportunities for young artists. During their transition between student and professional life, it's all about gaining experience, even in what may seem like \"stretch roles\" for these emerging singers."
 slug = "toronto-opera-initiatives-don-giovanni"
 title = "Toronto Opera Initiative&#039;s Don Giovanni"
 +++

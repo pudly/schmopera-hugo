@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-10-05T09:39:00-04:00"
 lastmod = "2017-10-05T10:01:00-04:00"
 publishDate = "2017-10-05T10:01:00-04:00"
+short_description = "Some segments worked well, such as the famous freezing scene as a metaphor for the despair felt by the Remainers, or the ambiguity subverting the triumphalism of \"Saint George, the patron of our isle\". But why the duet \"Two Daughters of Aged Stream are we\" should evoke a nightclub or the martial posturing of \"Come if you dare our trumpets sound\" should call to mind a train station will have to be explained to me."
 slug = "aams-king-arthur-a-missed-brexit"
 title = "AAM&#039;s King Arthur: a missed Brexit"
 +++

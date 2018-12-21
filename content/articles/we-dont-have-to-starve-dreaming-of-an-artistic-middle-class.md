@@ -2,7 +2,9 @@
 categories = "Editorial"
 date = "2015-10-08T08:49:00-04:00"
 lastmod = "2015-10-08T09:47:00-04:00"
+preamble = "This is a guest post by Chris Enns, tenor and creator of the artist personal finance blog, [Rags To Reasonable](/chris-enns-rags-to-reasonable/). He's a fellow artist/writer, and I encourage readers to [read his stuff](http://www.ragstoreasonable.com/) for some sound advice (financial or otherwise)."
 publishDate = "2015-10-08T09:04:00-04:00"
+short_description = "The starving artist. A cliché so played out it wouldn’t even deserve mentioning if it didn’t reflect the reality of so many.  It’s generally agreed upon that since artists have the luxury of living their dreams, they’re signing up for a life of financial struggle. They knew life would be like this, and they chose it anyway."
 slug = "we-dont-have-to-starve-dreaming-of-an-artistic-middle-class"
 title = "We don&#039;t have to starve: dreaming of an artistic middle class"
 +++

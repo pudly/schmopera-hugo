@@ -3,6 +3,7 @@ categories = "Review"
 date = "2014-03-25T08:00:00-04:00"
 lastmod = "2015-04-24T09:47:00-04:00"
 publishDate = "2014-03-25T08:00:00-04:00"
+short_description = "On Sunday, I attended the final show of the season by Voicebox: Opera in Concert at the St. Lawrence Centre for the Arts. They presented Verdi's Stiffelio, one of his lesser-known opera written after Nabucco and Ernani, but before La traviata and La forza del destino. I'd certainly never heard of it, so I was curious."
 slug = "in-review-stiffelio"
 title = "In Review: Stiffelio"
 +++

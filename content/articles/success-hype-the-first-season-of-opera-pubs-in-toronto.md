@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2017-05-06T23:02:00-04:00"
 lastmod = "2017-05-07T13:42:00-04:00"
 publishDate = "2017-05-07T11:09:00-04:00"
+short_description = "The success of the Opera Pubs brings to light something that is - and should be - considered seriously among operatic circles across the globe: the potential for circular gratification among those on the inside. In Toronto, the audiences of most operatic events include familiar faces - fans, colleagues, and friends of those involved in the show; these are a beautiful group of folks, full of support and delight for the work done in their city. But any opera company worth the hype is constantly seeking audiences full of new faces, an ever-widening pool of interested listeners."
 slug = "success-hype-the-first-season-of-opera-pubs-in-toronto"
 title = "Success &amp; hype: the first season of Opera Pubs in Toronto"
 +++

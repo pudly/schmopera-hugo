@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2016-01-12T11:09:00-05:00"
 lastmod = "2016-01-13T12:43:00-05:00"
+preamble = "Canadian mezzo-soprano [Aidan Ferguson](/scene/people/aidan-ferguson/) is an alumna of [l'Opéra de Montréal](/scene/companies/lopera-de-montreal/)'s Atelier lyrique program, as well as Operavenir, the Opera Studio at Theater Basel, Switzerland.\n\nIn her honest interview, Aidan talks about perfection, what she calls \"beige singing\", and her not-so-secret dream of singing Scarpia."
 publishDate = "2016-01-13T11:00:00-05:00"
+short_description = "\"Many people have told me along the way 'If you could see yourself doing something else, then go do it!' I have always felt a bit of frustration at that statement. I know that it comes from a place of wanting to warn young singers about the crazy journey that lies ahead. It is a crazy life, but there are many different things that I could be doing, but I am choosing this career right now. I believe this is what I am suppose to be doing.\""
 slug = "spotlight-on-aidan-ferguson"
 title = "Spotlight on: Aidan Ferguson"
 +++

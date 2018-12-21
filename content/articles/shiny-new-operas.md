@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2014-01-07T20:01:00-05:00"
 lastmod = "2015-04-28T23:07:00-04:00"
 publishDate = "2014-01-07T20:01:00-05:00"
+short_description = "Starting in 2014, the operatic repertoire will grow with fresh and intriguing new pieces. Here are a few to which I look forward."
 slug = "shiny-new-operas"
 title = "Shiny New Operas"
 +++

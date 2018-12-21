@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-11-09T07:28:00-03:30"
 lastmod = "2016-11-09T10:47:00-03:30"
 publishDate = "2016-11-09T10:47:00-03:30"
+short_description = "We first heard Khalil perform Ayre at The Banff Centre for Arts and Creativity, and it completely shattered any expectations we had of Golijov's music, or of Khalil's range of vocal colour. It feels ancient, reverent, and like the sound of city buskers; it feels like a catchy tune you've heard before, and something intangible.\n"
 slug = "dont-miss-ayre"
 title = "Don&#039;t miss: Ayre"
 +++

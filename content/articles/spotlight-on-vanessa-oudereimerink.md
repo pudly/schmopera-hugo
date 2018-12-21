@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2016-07-03T20:03:00-06:00"
 lastmod = "2016-07-06T16:06:00-06:00"
+preamble = "Canadian soprano [Vanessa Oude-Reimerink](/scene/people/vanessa-oude-reimerink/) is currently in Banff, AB, with [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) and the Open Space: Opera in the 21st Century program, to sing Lucia in *The Rape of Lucretia* and Sarah Thorpe in *No One's Safe*. She's a recent Emerging Artist with Calgary Opera, and a soon-to-be member of Vancouver Opera's Yulanda M. Faris Young Artist program.\n\nShe took the time to talk about the \"wrestling coach\" mindset that gets her pumped for a performance, and about the feeling of \"floating\" that comes with great singing."
 publishDate = "2016-07-03T20:15:00-06:00"
+short_description = "\"Normally, the voice in my head would say things like 'you're running out of air' but instead I try to hear 'you have all the air in the world and you WILL make it through this phrase!' I really believe that sending out positive energy and thoughts will not only make your life more enjoyable, but you will notice a difference in the people who surround you. \""
 slug = "spotlight-on-vanessa-oudereimerink"
 title = "Spotlight on: Vanessa Oude-Reimerink"
 +++

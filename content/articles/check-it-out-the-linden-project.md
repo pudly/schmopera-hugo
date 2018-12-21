@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2018-10-11T21:24:00-04:00"
 lastmod = "2018-10-13T12:29:00-04:00"
 publishDate = "2018-10-12T20:03:00-04:00"
+short_description = "Art song - a broad classical music term to describe a piece written for solo singer and accompaniment, usually by a piano - can feel equal parts vague and exclusive. A song by Schubert and a song by Bernstein are both considered art songs, despite enormous differences in style; conversely, art song carries with it some special qualities, like the conversational relationship between the voice and piano."
 slug = "check-it-out-the-linden-project"
 title = "Check it out: The Linden Project"
 +++

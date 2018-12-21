@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-02-14T15:33:00-05:00"
 lastmod = "2016-02-14T18:29:00-05:00"
 publishDate = "2016-02-15T08:17:00-05:00"
+short_description = "While I loved the added element of the character \"Cherubim\" representing the chaos that can be wreaked by the basest desires of each of the characters, I feel like we lost a lot of the original Beaumarchais and Da Ponte brilliance. A lot of the sexuality seemed gratuitous, I think in this examination of class and propriety, there has to be a level of decorum and innuendo, or it just looks like you're trying to \"sex up some Mozart\"."
 slug = "second-opinion-the-marriage-of-figaro-at-the-coc"
 title = "Second opinion: The Marriage of Figaro at the COC"
 +++

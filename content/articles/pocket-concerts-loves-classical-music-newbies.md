@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-10-21T13:54:00+01:00"
 lastmod = "2016-10-24T11:21:00+01:00"
 publishDate = "2016-10-21T23:40:00+01:00"
+short_description = "\"If you or someone you know has never heard live classical music before, we want to give you the most intense and personal experience we can, for FREE. All you have to do is post a photo or video of yourself on Instagram or Twitter with the hashtag #classicalnewbie and tell us why you want to come.\""
 slug = "pocket-concerts-loves-classical-music-newbies"
 title = "Pocket Concerts loves classical music newbies!"
 +++

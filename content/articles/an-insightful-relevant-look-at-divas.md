@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-06-22T20:51:00-04:00"
 lastmod = "2018-06-22T21:03:00-04:00"
 publishDate = "2018-06-22T20:51:00-04:00"
+short_description = "But of course, I would be remiss if I did not mention Arielle Rogers as Sisieretta Jones. Arielle Rogers had easily the most to do throughout the night: Sisieretta eventually became the emotional core of the evening, and that is no small task."
 slug = "an-insightful-relevant-look-at-divas"
 title = "An Insightful, Relevant Look At Divas"
 +++

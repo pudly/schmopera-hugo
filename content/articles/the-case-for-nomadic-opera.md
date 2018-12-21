@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-04-10T21:13:00-04:00"
 lastmod = "2015-04-10T21:13:00-04:00"
 publishDate = "2015-03-27T09:13:00-04:00"
+short_description = "I'm always an advocate of up-close theatre, but the need for large-scale, overwhelming productions of Verdi, Wagner, and the likes, is legitimate. But what would happen if Canada's larger opera companies took a portion of their productions out of their main stage?"
 slug = "the-case-for-nomadic-opera"
 title = "The Case for Nomadic Opera"
 +++

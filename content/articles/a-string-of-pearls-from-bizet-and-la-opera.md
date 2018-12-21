@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-10-09T10:20:00-04:00"
 lastmod = "2017-10-09T13:36:00-04:00"
 publishDate = "2017-10-09T10:51:00-04:00"
+short_description = "Dark fabric billows beneath the set, and one is never allowed to forget that the sea is the underpinning of everything that’s happening. When the inevitable storm comes, the fabric is no longer lovely and tranquil but frightening as it inflates to ever bigger and bigger \"waves.\" Another constant device: during much of the drama in Act I, a lone fisherman bobs up and down in his boat beneath the pillars that hold up the village."
 slug = "a-string-of-pearls-from-bizet-and-la-opera"
 title = "A string of Pearls from Bizet and LA Opera"
 +++

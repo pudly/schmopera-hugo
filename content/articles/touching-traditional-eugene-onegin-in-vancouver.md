@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-05-04T21:19:00-04:00"
 lastmod = "2018-05-04T21:34:00-04:00"
 publishDate = "2018-05-04T21:19:00-04:00"
+short_description = "As one of the few non-Russian principals, one would think she'd be at a disadvantage, but her diction was so flawless, that a native Russian speaker in attendance was amazed that it wasn't her first language. I hope this role becomes a staple in her repertoire. "
 slug = "touching-traditional-eugene-onegin-in-vancouver"
 title = "Touching &amp; traditional: Eugene Onegin in Vancouver"
 +++

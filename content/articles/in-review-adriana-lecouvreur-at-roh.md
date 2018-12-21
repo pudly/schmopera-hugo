@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-02-08T11:21:00+00:00"
 lastmod = "2017-02-08T13:42:00+00:00"
 publishDate = "2017-02-08T12:56:00+00:00"
+short_description = "In his role debut as Maurizio, Brian Jagde was a total standout performance. An athletic, strapping Count, Jagde had all the virile charisma that actor-types love. His sound was a throaty, grounded tenor with unreal beauty, and he wisely chose a handful of moments to show almost impossible volume. With Gheorghiu, Jagde created an honest relationship between Maurizio and Adriana. They had chemistry and respect for each other, reminiscent of Tosca and Cavaradossi. "
 slug = "in-review-adriana-lecouvreur-at-roh"
 title = "In review: Adriana Lecouvreur at ROH"
 +++

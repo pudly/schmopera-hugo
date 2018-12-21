@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-02-21T16:28:00-05:00"
 lastmod = "2018-02-21T21:01:00-05:00"
 publishDate = "2018-02-21T21:01:00-05:00"
+short_description = "Desautels created a bit of magic with his first note of Schubert, dovetailing the piano's set-up note with an otherworldly sound that came out of nothing. He was really moving to watch. He seemed to cater his playing to the subtleties of Archibald's voice, even making his clarinet speak some text in the metaphorical margins of Schubert's score."
 slug = "jane-archibald-more-than-the-sum-of-all-those-notes"
 title = "Jane Archibald: more than the sum of all those notes"
 +++

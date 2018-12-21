@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2015-09-21T10:48:00-04:00"
 lastmod = "2015-09-23T09:08:00-04:00"
 publishDate = "2015-09-24T12:00:00-04:00"
+short_description = "Whitney Houston's hologram will sing a concert next year at \"a major U.S. venue\" next year. Pat Houston, president of the Whitney Houston Estate and Greek billionaire Alki David, CEO of Hologram USA, are working together on this latest hologram concert venture; Whitney's image will be shown onstage \"the same way that Tupac and Snoop Dogg interacted onstage at Coachella,\" according to David."
 slug = "so-can-we-hear-hologram-callas-soon"
 title = "So, can we hear hologram Callas soon?"
 +++

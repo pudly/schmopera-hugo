@@ -2,7 +2,9 @@
 categories = "Op-ed"
 date = "2016-09-29T09:21:00+01:00"
 lastmod = "2016-09-30T13:32:00+01:00"
+preamble = "This is a [crosspost by Rebecca Woodmass](http://www.quillcreativeliving.com/rehearsing-trauma/), writer and coloratura soprano, via [Quill Creative Living](http://www.quillcreativeliving.com/). Note: This article comes with a content warning for discussion of violence and sexual assault.\n"
 publishDate = "2016-09-30T13:00:00+01:00"
+short_description = "It is not enough to re-experience our own pain on stage; we must externalize it so the audience can join us through empathy."
 slug = "rehearsing-trauma-how-working-on-an-opera-helped-me-heal"
 title = "Rehearsing trauma: How working on an opera helped me heal"
 +++

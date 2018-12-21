@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-01-29T17:43:00-05:00"
 lastmod = "2018-01-29T21:42:00-05:00"
 publishDate = "2018-01-29T20:59:00-05:00"
+short_description = "There were ominous prison guards lurking above the action throughout the whole opera, and a confusing element of the set was the huge American flag, which hung above center stage. What was the message? That Americans are the only ones who deal with capital punishment?"
 slug = "dead-man-walking-makes-its-minnesota-opera-debut"
 title = "Dead Man Walking makes its Minnesota Opera debut"
 +++

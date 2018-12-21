@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-07-26T12:42:00-04:00"
 lastmod = "2016-07-28T07:13:00-04:00"
 publishDate = "2016-07-28T07:04:00-04:00"
+short_description = "It's entirely refreshing to hear 13-year old Aksel Rykkvin, Norwegian boy soprano. With early classical training, Rykkvin has already appeared with Norwegian National Opera; now, he has released an album of arias by Mozart, Handel and Bach, with the Orchestra of the Age of Enlightenment under conductor Nigel Short."
 slug = "young-singing-done-right-aksel-rykkvin"
 title = "Young singing done right: Aksel Rykkvin"
 +++

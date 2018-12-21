@@ -3,6 +3,7 @@ categories = "News"
 date = "2018-01-30T18:13:00-05:00"
 lastmod = "2018-01-30T18:13:00-05:00"
 publishDate = "2018-01-30T18:13:00-05:00"
+short_description = "It's a way of giving back to the kind folks who support our Patreon campaign; and if you want to win some of our merchandise, or even a ticket to a show with the folks of Schmopera, head over to our Patreon page to find out how to make yourself eligible."
 slug = "like-our-merch-find-out-how-to-win-it"
 title = "Like our merch? Find out how to win it!"
 +++

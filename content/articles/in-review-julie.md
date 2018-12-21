@@ -3,6 +3,7 @@ categories = "Review"
 date = "2015-11-18T11:53:00-05:00"
 lastmod = "2015-11-18T16:07:00-05:00"
 publishDate = "2015-11-18T16:06:00-05:00"
+short_description = "Last night Soundstreams and Canadian Stage opened their collaborative production of Julie, the fourth opera by Belgian composer Philippe Boesmans. There was a good amount of hype leading up to this opening, and for good reason. Julie is adapted by librettists Luc Bondy and Marie-Louise Bischofberger from the controversial play by August Strindberg, Miss Julie; its three-singer cast is a cross-section of the rising stars of our current generation. "
 slug = "in-review-julie"
 title = "In review: Julie"
 +++

@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2015-04-10T23:53:00-04:00"
 lastmod = "2015-04-10T23:53:00-04:00"
 publishDate = "2015-02-23T08:53:00-05:00"
+short_description = "When I was thinking about pursuing a Doctorate degree in Collaborative Piano, I had a germ of an idea for a thesis project: to create a piano-vocal score of a standard opera (Le nozze di Figaro, or La traviata, for example) that would be designed for pianists who didn’t necessarily have a strong operatic background. These scores would be edited so that a pianist could play everything they see, and it wouldn’t sound stupid (which is what happens if you play every note you see in, say, a Bärenreiter edition of anything). "
 slug = "bad-editions-and-the-limits-of-the-notes"
 title = "Bad Editions and the Limits of the Notes"
 +++

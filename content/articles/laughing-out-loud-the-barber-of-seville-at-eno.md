@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-10-07T13:27:00-04:00"
 lastmod = "2017-10-07T21:35:00-04:00"
 publishDate = "2017-10-07T21:35:00-04:00"
+short_description = "Count Almaviva was sung by Eleazar Rodríguez, a singer who had as much energy in his stage presence as he did in his singing. He brilliantly toed the line between goofy and sincerely lovestruck, playing the character of Almaviva full of youthful optimism and romantic determination. His singing, too, was wonderful - his lovely leggiero voice handled the technical demands of Rossini with ease."
 slug = "laughing-out-loud-the-barber-of-seville-at-eno"
 title = "Laughing out loud: The Barber of Seville at ENO"
 +++

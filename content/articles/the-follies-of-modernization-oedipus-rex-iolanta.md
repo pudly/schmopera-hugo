@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-11-04T16:17:00-05:00"
 lastmod = "2018-11-05T07:13:00-05:00"
 publishDate = "2018-11-04T18:17:00-05:00"
+short_description = "It's a crass move to co-opt sexual assault as a means to artificially raise an opera's stakes. It also causes serious dramaturgical issues. By screwing around with the plot, the director has given herself the irreconcilable task of manufacturing staging that respects the repercussions of Iolanta's assault, while spinning an idyllic, fairytale love story, with a libretto that only supports the latter."
 slug = "the-follies-of-modernization-oedipus-rex-iolanta"
 title = "The follies of modernization: Oedipus Rex &amp; Iolanta"
 +++

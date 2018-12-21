@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-09-18T15:25:00-04:00"
 lastmod = "2017-09-18T21:42:00-04:00"
 publishDate = "2017-09-18T21:42:00-04:00"
+short_description = "Beecher's score is a gripping manifestation of the heart-breaking and heavy content of the libretto. His choice to use the same instruments that were used in the Monteverdi is a brilliant blend of past and present. From the very first eerie sounds that welcome us into the world of the piece, one hears similarities to George Crumb's Black Angels, which is a response to the Vietnam War."
 slug = "humanitys-bond-to-war-war-stories-at-o17"
 title = "&quot;Humanity&#039;s bond to war&quot;: War Stories at O17"
 +++

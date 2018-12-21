@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-08-03T04:11:00-04:00"
 lastmod = "2017-01-02T20:35:00-05:00"
 publishDate = "2016-08-07T13:44:00-04:00"
+short_description = "Jokes about double-entendre music terms (\"fingering,\" \"tongue tension,\" \"G-string,\" etc.), invasion of personal space (teaching by demonstration), and (perhaps) innocent flirting; all of these commonplace pieces of sexual harassment are perhaps more dangerous when combined with a captive audience of sorts."
 slug = "musicians-sexual-harassment-blurred-lines"
 title = "Musicians, sexual harassment, &amp; blurred lines"
 +++

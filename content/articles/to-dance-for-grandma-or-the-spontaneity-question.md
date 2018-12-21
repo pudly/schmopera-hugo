@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-01-07T09:38:00-05:00"
 lastmod = "2015-04-12T10:45:00-04:00"
 publishDate = "2015-01-07T09:38:00-05:00"
+short_description = "In opera circles, one of the beloved stories of innocent lay-person ignorance is the old chestnut: “Oh you’re an opera singer? Can you sing something for me right now?” The implication of this hypothetical, that it’s utterly ridiculous to ask an opera singer to demonstrate his or her skills, is really telling of characteristics unique to classical musicians. For trained opera singers, the concept of spontaneity is, for some reason, unwelcome."
 slug = "to-dance-for-grandma-or-the-spontaneity-question"
 title = "To Dance for Grandma, or the Spontaneity Question"
 +++

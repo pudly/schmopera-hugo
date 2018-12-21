@@ -3,6 +3,7 @@ categories = "Meta"
 date = "2016-01-02T21:44:00-05:00"
 lastmod = "2016-01-03T11:24:00-05:00"
 publishDate = "2016-01-02T21:44:00-05:00"
+short_description = "Meet Andrej, our co-founder and brain behind all things technical here at Schmopera. Since we're kicking off our third year in operation, and Schmopera has grown from a blog into a brand, we figured it was a good time for Andrej to fill you in on the technical happenings from behind-the-scenes."
 slug = "by-the-numbers-2nd-birthday-edition"
 title = "By the Numbers: 2nd birthday edition"
 +++

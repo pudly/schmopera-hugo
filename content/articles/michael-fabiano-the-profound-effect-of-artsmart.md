@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2017-01-02T21:47:00+00:00"
 lastmod = "2017-01-12T21:27:00+00:00"
 publishDate = "2017-01-07T11:54:00+00:00"
+short_description = "When it comes to young people with little to no extra-curricular activities in their daily schedules, it's a major discovery to see that students are eager to stay after school for their private sessions. \"Lots of the kids are genuinely excited to be able to stay after school and wait for a lesson,\" says Fabiano. \"To be able to focus on something every day, and to wait an hour to do their lesson, is good for them because it keeps them in the incubator environment.\""
 slug = "michael-fabiano-the-profound-effect-of-artsmart"
 title = "Michael Fabiano: the &quot;profound effect&quot; of ArtSmart"
 +++

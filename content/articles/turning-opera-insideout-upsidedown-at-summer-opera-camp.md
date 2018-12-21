@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2015-06-19T14:20:00-04:00"
 lastmod = "2015-06-19T15:50:00-04:00"
+preamble = "In the last of our conversations with the folks behind the Canadian Opera Company's [Summer Opera Camp](http://www.coc.ca/exploreandlearn/children/summeroperacamp), I chat with drama specialist Jen Johnson and design specialist Sonja Rainey. Drama teacher Jen is Co-Artistic Director of [Kick Start Arts](http://kickstartarts.com/), a not-for-profit aimed at using the arts \"to empower students, youth and adults to express themselves through the creative process.\" Sonja is a Dora-award nominated set and costume designer, working most recently with the [Bicycle Opera Project](/scene/companies/the-bicycle-opera-project/) for their East coast tour this summer. Jen and Sonja were both kind enough to answer my questions about working with kids, and how \"they keep things fresh, always.\"\n\nFor more, check out our interview with COC Summer Opera Camp Music Director [Chris Thornborrow](/chris-thornborrow-on-composing-with-kids/), and Associate Director of Education & Outreach at the COC, [Katherine Semcesen](/summer-opera-camp-at-the-coc/)."
 publishDate = "2015-06-19T15:27:00-04:00"
+short_description = "In the last of our conversations with the folks behind the Canadian Opera Company's Summer Opera Camp, I chat with drama specialist Jen Johnson and design specialist Sonja Rainey. Drama teacher Jen is Co-Artistic Director of Kick Start Arts, a not-for-profit aimed at using the arts \"to empower students, youth and adults to express themselves through the creative process.\" Sonja is a Dora-award nominated set and costume designer, working most recently with the Bicycle Opera Project for their East coast tour this summer."
 slug = "turning-opera-insideout-upsidedown-at-summer-opera-camp"
 title = "Turning opera &quot;inside-out, upside-down&quot; at Summer Opera Camp"
 +++

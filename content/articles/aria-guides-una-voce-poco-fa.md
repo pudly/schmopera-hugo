@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2015-10-14T07:51:00-06:00"
 lastmod = "2017-06-20T22:50:00-06:00"
+preamble = "For the next in our series of [Aria Guides](/aria-guides-the-counts-aria/), we're nodding to all the mezzos (and a few sopranos) with \"Una voce poco fa,\" from *Il barbiere di Siviglia*. This is a cornerstone aria for many young mezzos, and one of the few chances they have to show off coloratura *and* play a girl. It's also an aria full of options. Ornamentation, cadenzas, high or low keys; there's no \"right way\" to sing rep like this. I can offer up a few tips based on common traps and hurdles I've noticed as a coach. \n\nFollow along on page 82 of [this score](http://javanese.imslp.info/files/imglnks/usimg/1/1a/IMSLP41530-PMLP07237-Rossini-BarbiereVSlucca.pdf), or use the excerpts below. For suggestions, or to request an aria, get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).\n\n"
 publishDate = "2015-10-19T06:47:00-06:00"
+short_description = "For the next in our series of Aria Guides, we're nodding to all the mezzos (and a few sopranos) with \"Una voce poco fa,\" from Il barbiere di Siviglia. This is a cornerstone aria for many young mezzos, and one of the few chances they have to show off coloratura and play a girl. It's also an aria full of options. Ornamentation, cadenzas, high or low keys; there's no \"right way\" to sing rep like this."
 slug = "aria-guides-una-voce-poco-fa"
 title = "Aria guides: &quot;Una voce poco fa&quot;"
 +++

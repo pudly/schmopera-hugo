@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2014-10-14T09:54:00-04:00"
 lastmod = "2015-04-25T22:21:00-04:00"
 publishDate = "2014-10-14T09:54:00-04:00"
+short_description = "I remember working with a class of first year voice students a few years ago; I saw them all individually (totally a bad idea, switched to masterclass format the next year), and I got the sense that for a majority of these students, they were working with a vocal coach for the first time. One particularly outspoken singer asked an unexpected question during our first coaching session together: \"But, you're a pianist. Why are you telling me what to do?\""
 slug = "on-pianists-those-vicarious-opera-singers"
 title = "On Pianists, Those Vicarious Opera Singers"
 +++

@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-10-03T10:14:00+01:00"
 lastmod = "2016-10-03T11:52:00+01:00"
 publishDate = "2016-10-03T11:12:00+01:00"
+short_description = "So, for those well-balanced fans of opera and sports, there's Opera Box Score, the podcast that asks, \"what if opera – its performances, personnel and programming – could be demystified, discussed and promoted in such a way as to become as much a part of the public consciousness as sports?\""
 slug = "fans-unite-opera-box-score"
 title = "Fans unite: Opera Box Score"
 +++

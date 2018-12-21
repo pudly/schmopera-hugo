@@ -1,7 +1,9 @@
 +++
 date = "2014-08-11T12:03:00-04:00"
 lastmod = "2015-04-16T23:01:00-04:00"
+preamble = "If you're an opera dork like me, you often see operatic potential wherever you go. Today's it's in TV. The [_Breaking Bad_ ](http://www.esquire.com/blogs/culture/breaking-bad-opera-interview)opera has already had its premiere, and it even includes the \"Bitch Aria\", sung by none other than Jesse Pinkman. Have a [listen here](https://www.youtube.com/watch?v=JQ2C77flKNk). And really, to make a great opera, one would just need all the same dramatic elements that one needs for great books, and for great TV. Here we go, spoilers and all:"
 publishDate = "2014-08-11T12:03:00-04:00"
+short_description = "If you're an opera dork like me, you often see operatic potential wherever you go. Today's it's in TV. The Breaking Bad opera has already had its premiere, and it even includes the \"Bitch Aria\", sung by none other than Jesse Pinkman. Have a listen here. And really, to make a great opera, one would just need all the same dramatic elements that one needs for great books, and for great TV. Here we go, spoilers and all:"
 slug = "6-tv-shows-that-should-be-operas"
 title = "6 TV shows that should be operas"
 +++

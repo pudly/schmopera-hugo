@@ -2,7 +2,9 @@
 categories = "Humour"
 date = "2016-04-14T15:32:00+01:00"
 lastmod = "2016-04-15T14:59:00+01:00"
+preamble = "We write plenty about the shows we see, but sometimes the best little anecdotes happen before the downbeat. In [monologue](/the-opera-party-monologue/) format, we want to give you an exemplary taste of the pre-opera adventures we have, en route to the main event."
 publishDate = "2016-04-15T14:59:00+01:00"
+short_description = "Ok, shrug off the coat, and find your phone. Do-not-disturb setting, don't fail me now. 1 minute left! Time for an anticipatory show-related Tweet. Sir to my left, I see you eyeing my phone and drawing conclusions related to my lack of grey hair; don't you worry, though, I will not live up to your stereotype of mid-show texters. Tweet sent! Double check volume is off, and let's add airplane mode for good measure. See, sir to my left, phone is going into the purse."
 slug = "the-preshow-monologue"
 title = "The pre-show monologue"
 +++

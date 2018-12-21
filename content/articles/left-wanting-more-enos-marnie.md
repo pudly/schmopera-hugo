@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-11-27T20:43:00-05:00"
 lastmod = "2017-11-27T21:11:00-05:00"
 publishDate = "2017-11-27T20:43:00-05:00"
+short_description = "I wasn't convinced this particular story was served well by becoming an opera. The sense of suspense and unease which characterises the film didn't transfer onto the stage at all. Particularly, the climactic scene of the novel, a hunt on horseback, seemed somewhat stunted. It was very creative and clever staging, with projected horses running and action on stage from dancers."
 slug = "left-wanting-more-enos-marnie"
 title = "Left wanting more: ENO&#039;s Marnie"
 +++

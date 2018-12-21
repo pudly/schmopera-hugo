@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-04-10T11:53:00+01:00"
 lastmod = "2016-04-11T10:03:00+01:00"
 publishDate = "2016-04-11T09:45:00+01:00"
+short_description = "It was Goerne that was the highlight of the night. His is one of the most beautiful baritones singing today, and he was a complete picture of expression. His love for Brahms' music was completely clear, and he sang with his whole body in a huge range of colour. You could certainly hear the Lieder singer as he delivered this heavy text; he risked some soft singing, but gave us some of the more satisfying moments of the Requiem with a triumphant, full sound."
 slug = "heavy-nights-schoenberg-brahms-the-lpo-and-goerne"
 title = "Heavy nights: Schoenberg &amp; Brahms, the LPO and Goerne"
 +++

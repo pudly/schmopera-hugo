@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-05-23T11:43:00-04:00"
 lastmod = "2018-05-23T19:56:00-04:00"
 publishDate = "2018-05-23T11:43:00-04:00"
+short_description = "The design of the opera, under the obviously careful eye of Kofen, felt almost Bauhaus-inspired, which really worked with the bonkers nature of both the libretto (also by Kofen) and the music and the DIY nature of the costumes (mostly made out of waste paper, hence the company's name)."
 slug = "i-opera-run-by-the-cool-kids"
 title = "&#039;i&#039;: opera run by the cool kids"
 +++

@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2014-08-28T13:25:00-04:00"
 lastmod = "2015-04-16T17:35:00-04:00"
 publishDate = "2014-08-28T13:25:00-04:00"
+short_description = "Well, Schmopera is officially a veteran of the Big COC Podcast. Later this week, mark my third appearance on the COC’s official podcast, joining guests Opera Canada editor Wayne Gooding and arts journalist Catherine Kustanczy (Hyperalleric, Torontoist). "
 slug = "the-big-coc-podcast-round-three"
 title = "The Big COC Podcast, round three"
 +++

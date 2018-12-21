@@ -3,6 +3,7 @@ categories = "News"
 date = "2017-12-08T22:00:00-05:00"
 lastmod = "2017-12-08T22:00:00-05:00"
 publishDate = "2017-12-08T22:00:00-05:00"
+short_description = "We've got tees, hoodies, and our adorable little Schmug, all designed with care by the folks here at Schmopera. Get a laugh and help support our ad-free, opera-savvy content this holiday season. Happy shopping!"
 slug = "tis-the-season-for-schwag"
 title = "&#039;Tis the season for Schwag!"
 +++

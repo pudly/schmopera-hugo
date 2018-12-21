@@ -2,7 +2,9 @@
 categories = "Op-ed"
 date = "2017-06-25T09:43:00-06:00"
 lastmod = "2017-06-25T22:44:00-06:00"
+preamble = "This is the second in a series of essays by composer and guest contributor Frank Pesci. In four installments originally published on [New Music Box](http://www.newmusicbox.org/articles/author/frank-pesci/), Pesci recounts his participation in Fort Worth Opera's [Frontiers](http://www.fwopera.org/operas/frontiers/) showcase, a major opportunity for emerging American composers. "
 publishDate = "2017-06-25T22:05:00-06:00"
+short_description = "I could easily represent myself as a safe choice, saying, in effect, \"I'm not going to be a problem for you. I’m not one of those crazy egocentric composers who is going to make ridiculous demands and make you sorry you wanted to work with me.\" I can assuage these preconceptions with a picture that pretty much sums me up: \"I'm normal!  I'm a nice guy! I'm wearing tweed, for God's sake!\""
 slug = "taking-tweed-seriously-lessons-for-the-emerging-opera-composer"
 title = "Taking tweed seriously: lessons for the emerging opera composer"
 +++

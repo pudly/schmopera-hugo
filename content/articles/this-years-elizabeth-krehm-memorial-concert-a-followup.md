@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2016-11-23T12:06:00+00:00"
 lastmod = "2016-11-23T14:42:00+00:00"
 publishDate = "2016-11-23T14:42:00+00:00"
+short_description = "At last count, the evening raised over $20,000 for the ICU at St. Michael's Hospital, showing once again that music can heal almost any hurt. On the whole, since the inaugural concert, the Krehms have raised over $60,000 in support of the place that provided Elizabeth with the top-level care and support."
 slug = "this-years-elizabeth-krehm-memorial-concert-a-followup"
 title = "This year&#039;s Elizabeth Krehm Memorial Concert: a follow-up"
 +++

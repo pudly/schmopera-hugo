@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2017-05-18T21:24:00-04:00"
 lastmod = "2017-05-25T23:17:00-04:00"
+preamble = "English speakers, this one's for you. You might have already discovered that singing in your native language can be trickier than expected, sometimes even more than singing in a language you don't speak well. When you're in the rehearsal room getting note after note about your unintelligible English text, it can be disheartening to discover that spitting out more consonants doesn't always solve the problem.\n\nWe all have habits in our speech, and singing has a way of exaggerating those habits. We've narrowed down a few "
 publishDate = "2017-05-25T23:13:00-04:00"
+short_description = "There are some words that aren't actually helped by being overly literal with the pronunciation. The T's in words like \"better\" and \"getting\" have a natural tendency to sound more like D's; depending on how they're set, the sung versions of these words come out more clearly by keeping these \"lazy\" D sounds. An airy T sound can actually obscure the sound of the word, since it's unfamiliar to the ear."
 slug = "4-english-language-habits-that-make-a-singers-life-harder"
 title = "4 English language habits that make a singer&#039;s life harder"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-11-02T12:55:00+00:00"
 lastmod = "2016-11-02T16:05:00+00:00"
 publishDate = "2016-11-02T15:47:00+00:00"
+short_description = "The pair paid homage to their Italian roots with a programme of Donizetti, Verdi, Mozart, and songs by Paolo Tosti. In fact, the Tosti songs that Piazzola and Vaccaro chose were first performed in London - and did you know: Tosti taught at the Royal Academy of Music, became a British citizen in 1906, and was knighted by King Edward VII in 1908?"
 slug = "in-review-simone-piazzola-at-wigmore-hall"
 title = "In review: Simone Piazzola at Wigmore Hall"
 +++

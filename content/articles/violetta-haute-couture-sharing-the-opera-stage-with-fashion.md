@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-05-22T20:33:00+01:00"
 lastmod = "2016-05-23T10:01:00+01:00"
 publishDate = "2016-05-22T21:34:00+01:00"
+short_description = "Combining fashion design and opera is like any use of cross-disciplinary art - it's about finding balance. Valentino wouldn't be a great choice for the costumes of Hänsel und Gretel, say, and perhaps Coppola wouldn't have been wise to choose a brand new work as her first foray into directing opera. Likewise, there's little room for homage to hip-hop in Dialoges des Carmélites, or to try adding the Can-Can in Wozzeck."
 slug = "violetta-haute-couture-sharing-the-opera-stage-with-fashion"
 title = "Violetta, haute couture, &amp; sharing the opera stage with fashion"
 +++

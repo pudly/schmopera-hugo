@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-09-19T20:38:00-04:00"
 lastmod = "2017-09-20T21:34:00-04:00"
 publishDate = "2017-09-20T21:34:00-04:00"
+short_description = "On the 18th of September a new musical group, The Mozartists, was launched at Wigmore Hall. The creation of Classical Opera conductor and Artistic Director Ian Page, it aims to cultivate the music of Mozart and his contemporaries, as suggested by the name. So with the blessing of the Soul of Music on the cupola above, The Mozartists gave a successful debut."
 slug = "a-warm-introduction-the-mozartists-at-wigmore-hall"
 title = "A warm introduction: The Mozartists at Wigmore Hall"
 +++

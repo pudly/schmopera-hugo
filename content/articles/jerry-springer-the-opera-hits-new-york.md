@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-03-13T16:30:00-04:00"
 lastmod = "2018-03-14T19:41:00-04:00"
 publishDate = "2018-03-13T21:12:00-04:00"
+short_description = "But why be churlish when songs like \"Diaper Man,\" \"Him Am The Devil\" and the production number, \"This is My KKK Moment,\" tune up this gleefully lewd production? In fact, you would be advised to just sit back and be a complicit member of the audience that comes pre-stocked with an immensely talented group of misfits longing for their 15 seconds of fame."
 slug = "jerry-springer-the-opera-hits-new-york"
 title = "Jerry Springer - The Opera hits New York"
 +++

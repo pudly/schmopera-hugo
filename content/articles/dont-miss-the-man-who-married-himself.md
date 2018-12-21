@@ -3,6 +3,7 @@ categories = "News"
 date = "2017-02-20T20:24:00+00:00"
 lastmod = "2017-02-22T13:41:00+00:00"
 publishDate = "2017-02-22T13:41:00+00:00"
+short_description = "The Man Who Married Himself is based in an Indian folk tale, about a man who is unwilling to marry a woman, and who instead creates a lover for himself out of his own left side. \"He finds himself enraptured by his creation's perfect beauty – a mirror of his own – until he discovers that this new woman longs for another.\""
 slug = "dont-miss-the-man-who-married-himself"
 title = "Don&#039;t miss: The Man Who Married Himself"
 +++

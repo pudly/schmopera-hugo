@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-07-11T20:38:00-04:00"
 lastmod = "2017-07-21T08:47:00-04:00"
 publishDate = "2017-07-20T20:45:00-04:00"
+short_description = "Kaufmann, in a terribly cute red convertible and colourful shoes, takes a tour along the Italian coastlines. The German tenor tells stories of his childhood visits to Italy with his family, and connects his life in opera - Italian and otherwise - with the culture and lifestyle he grew to love."
 slug = "dont-miss-kaufmann-at-the-movies"
 title = "Don&#039;t miss: Kaufmann at the movies"
 +++

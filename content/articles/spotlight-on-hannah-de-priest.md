@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-06-01T20:10:00-06:00"
 lastmod = "2017-06-10T08:44:00-06:00"
+preamble = "Rising soprano [Hannah De Priest](/scene/people/hannah-de-priest/) is carving out a specialty in Early Music, her résumé already filled with roles like Belinda (*Dido and Aeneas*), Ïole (*Hercules*), and Oberto (*Alcina*). This month, De Priest is nurturing her love for Early Music at the 2017 [Boston Early Music Festival](http://www.bemf.org/pages/fest/festOpera.htm), where she'll sing in André Campra's 1699 [*Le carnaval de Venise*](http://www.bemf.org/pages/fest/opera_centerpiece.htm). \n\nIn our latest Spotlight feature, De Priest chats about the definition of good singing, the \"dynamic music-making\" among Early Music circles, and the \"insurmountable monster\" that is jealousy within the operatic industry (and among sopranos)."
 publishDate = "2017-06-10T08:44:00-06:00"
+short_description = "\"I think what does all of us — especially those of us just breaking onto the scene — a disservice is making jealousy into this mystical, insurmountable monster. Hey, it's not because you're a soprano, it's because you're human. Everyone experiences that self-defeating twinge and everyone has to sort out how to deal with it so it doesn't morph into something all-consuming.\""
 slug = "spotlight-on-hannah-de-priest"
 title = "Spotlight on: Hannah De Priest"
 +++

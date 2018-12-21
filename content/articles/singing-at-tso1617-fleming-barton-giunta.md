@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-08-31T12:11:00+01:00"
 lastmod = "2016-09-02T13:47:00+01:00"
 publishDate = "2016-09-02T13:47:00+01:00"
+short_description = "For the patient, on June 14 an 15, the TSO welcomes back director Joel Ivany for a semi-staged production of Kurt Weill's Seven Deadly Sins. Sharing the programme with Barber's Adagio for Strings and Bartók's Music for Strings, Percussion, and Celesta, the cast of singers for Weill's \"sung ballet\" includes Wallis Giunta, Isaiah Bell, Owen McCausland, Stephen Hegedus, and Geoffrey Sirett, working with dancer/choreographer Jennifer Nichols. It would be a...sin...to miss this one."
 slug = "singing-at-tso1617-fleming-barton-giunta"
 title = "Singing at #TSO1617: Fleming, Barton, &amp; Giunta"
 +++

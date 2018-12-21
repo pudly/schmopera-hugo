@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2017-03-13T15:26:00+00:00"
 lastmod = "2017-03-18T07:59:00+00:00"
 publishDate = "2017-03-18T07:59:00+00:00"
+short_description = "It's been a year and change of fantastic musical experiences here in London. The companies have been generous and welcoming, the shows have been full of ear- and eye-candy, and the sheer quantity of operatic offerings have been a total treat."
 slug = "teeoh-eh"
 title = "Tee-oh, eh?"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-09-12T10:19:00-04:00"
 lastmod = "2017-09-13T12:01:00-04:00"
 publishDate = "2017-09-12T13:48:00-04:00"
+short_description = "The stories they shared were uniquely told yet, sadly, all too familiar in today’s social and political climate. Drawn from the performers' own lived experiences, messages of solidarity and discrimination, faith and dejection, success and failure were accented against that complex mosaic of a backdrop: Chicago."
 slug = "the-positive-impact-of-community-created-performances"
 title = "The &quot;positive impact&quot; of Community Created Performances"
 +++

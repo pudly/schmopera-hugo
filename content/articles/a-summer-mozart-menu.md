@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-08-12T20:49:00-04:00"
 lastmod = "2018-08-14T16:44:00-04:00"
 publishDate = "2018-08-12T21:13:00-04:00"
+short_description = "After such a substantial appetizer there was a reasonable interval before the\nentrée. It is at this point appropriate to mention the reconfiguration that Mostly Mozart brings to David Geffen Hall. The stage extends beyond the proscenium into the auditorium. Seating is placed at either side of the extended portions of the stage and, when a chorus isn't performing, behind it."
 slug = "a-summer-mozart-menu"
 title = "A summer Mozart menu"
 +++

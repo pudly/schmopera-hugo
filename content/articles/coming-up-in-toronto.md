@@ -2,6 +2,7 @@
 date = "2014-03-10T10:56:00-04:00"
 lastmod = "2015-04-26T11:08:00-04:00"
 publishDate = "2014-03-10T10:56:00-04:00"
+short_description = "Alright, it's Monday, and we're going to jump right in with a personal list of things to catch in Toronto as the weather warms up over the next little while."
 slug = "coming-up-in-toronto"
 title = "Coming up in Toronto"
 +++

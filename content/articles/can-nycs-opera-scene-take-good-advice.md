@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-05-25T13:58:00-04:00"
 lastmod = "2015-06-03T17:03:00-04:00"
 publishDate = "2015-05-26T08:11:00-04:00"
+short_description = "Opera in New York has been pretty perilous the past few years, between NYCO's demise and potential rebirth, and the Metropolitan Opera's frustrating back-and-forth with several of its unions last summer. \"The smartest city in the world seems to think that opera is an old-fashioned, expensive toy — or worse, high camp, something so ridiculous you can’t help adding it to your list of guilty pleasures.\""
 slug = "can-nycs-opera-scene-take-good-advice"
 title = "Can NYC&#039;s opera scene take good advice?"
 +++

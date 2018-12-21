@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-09-04T11:52:00+01:00"
 lastmod = "2016-09-05T09:24:00+01:00"
 publishDate = "2016-09-05T09:24:00+01:00"
+short_description = "Can't we place this ad - perhaps poorly worded as it was - next to all the stories about how universities take too many arts students for the number of job opportunities, about getting suckered into too many pay-to-sing summer programs, and all the times that passionate artists finally stepped back from the pressure of making their passion their livelihood?"
 slug = "wells-fargo-isnt-antiarts-everyone"
 title = "Wells Fargo isn&#039;t anti-arts, everyone"
 +++

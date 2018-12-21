@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-05-03T15:19:00-04:00"
 lastmod = "2015-05-07T08:40:00-04:00"
 publishDate = "2015-05-07T13:24:00-04:00"
+short_description = "I got into writing about opera because I wanted to tell people about this very cool industry of mine. The art is enormous and stunning, and the people who created opera are extraordinary folks. I knew that most people my age didn't have much exposure to opera, and it seemed like an obvious way to bridge the gap, to show just how fascinating it really is."
 slug = "love-of-opera-and-getting-perspective"
 title = "Love of opera, and getting perspective"
 +++

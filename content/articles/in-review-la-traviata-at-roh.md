@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-01-26T13:31:00+00:00"
 lastmod = "2017-01-26T17:07:00+00:00"
 publishDate = "2017-01-26T17:00:00+00:00"
+short_description = "The broad-strokes architecture of the opera's four sets are a clean contrast against the ladies' luxurious dresses, even against the messy humanity of Verdi's simple, classic tale of love and the opinions of others. Joyce El-Khoury's Violetta comes with easy charisma, and a strong desire to maintain composure and dignity. El-Khoury matured along with Violetta's story, yet somehow retained a young voice, full of the best intentions. Her third-act aria, \"Addio del passato\" was the highlight of the night."
 slug = "in-review-la-traviata-at-roh"
 title = "In review: La traviata at ROH"
 +++

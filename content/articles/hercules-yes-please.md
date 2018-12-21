@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2014-02-25T13:21:00-05:00"
 lastmod = "2015-04-27T21:26:00-04:00"
 publishDate = "2014-02-25T13:21:00-05:00"
+short_description = "You know you're writing about opera in North America when you start to drool over a show that doesn't open until April 5th. But hey, I like hype. I'm talking about the COC's production of Handel's Hercules, directed by the infamous Peter Sellars. I just can't imagine what won't be to love. "
 slug = "hercules-yes-please"
 title = "Hercules? Yes please!"
 +++

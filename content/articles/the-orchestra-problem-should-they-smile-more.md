@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2016-04-13T16:35:00+01:00"
 lastmod = "2016-04-14T16:08:00+01:00"
 publishDate = "2016-04-14T16:03:00+01:00"
+short_description = " The necessities of large-scale concerts like these are a reality; bodies need to be shuffled, chairs need to be added, and tuning needs to happen. But, why ignore the listeners during any of this? There's a difference between a relaxed environment, and one that ignores the fact that they're performers. Onstage housekeeping is the perfect opportunity for musicians to communicate with their listeners, and prove that they're human beings as well as talented artists. Talk to them, guys! "
 slug = "the-orchestra-problem-should-they-smile-more"
 title = "The orchestra problem: should they smile more?"
 +++

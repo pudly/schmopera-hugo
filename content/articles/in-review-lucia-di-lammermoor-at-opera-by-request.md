@@ -3,6 +3,7 @@ categories = "Review"
 date = "2014-09-28T15:33:00-04:00"
 lastmod = "2015-04-15T17:14:00-04:00"
 publishDate = "2014-09-28T15:33:00-04:00"
+short_description = "Last night I went to see Lucia di Lammermoor with Opera By Request. It was one of those nights I often have in Toronto, where a good chunk of the cast is made up of friends and colleagues, and my curiosity was piqued to hear some of these young singers in their Lucia roles. "
 slug = "in-review-lucia-di-lammermoor-at-opera-by-request"
 title = "In review: Lucia di Lammermoor at Opera By Request"
 +++

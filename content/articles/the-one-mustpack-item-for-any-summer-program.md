@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2017-06-05T20:52:00-06:00"
 lastmod = "2017-06-06T21:56:00-06:00"
 publishDate = "2017-06-06T21:48:00-06:00"
+short_description = "Spontaneity counts for a lot, especially in an environment that seems like it's all about first impressions. So singers, as you pack your bags and board your flights for your summer program(s) of choice, don't forget to add to your repertoire binder some Gerswhin or some Sondheim or even some inappropriate Puccini."
 slug = "the-one-mustpack-item-for-any-summer-program"
 title = "The one must-pack item for any summer program"
 +++

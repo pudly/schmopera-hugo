@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2016-03-15T16:56:00+00:00"
 lastmod = "2016-03-16T10:16:00+00:00"
+preamble = "Next month, Canadian soprano [Meghan Lindsay](/scene/people/meghan-lindsay/) is heading back to a familiar stage: Toronto's Elgin Theatre, where [Opera Atelier](/scene/companies/opera-atelier/) houses its productions of early opera. Their upcoming production of [Mozart's *Lucio Silla*](http://operaatelier.com/season/15-16-season/lucio-silla-apr-7-16-2016/) comes to Canada for the first time, after going up at the [Salzburg Festival](/scene/companies/salzburg-festival/) and [Teatro alla Scala](/scene/companies/teatro-alla-scala/). With Kresimir Spicer in the title role, and stellar sopranos [Mireille Asselin](/scene/people/mireille-asselin/) and [Peggy Kriha Dye](/scene/people/peggy-kriha-dye/), Lindsay takes on Giunia, a role that's full of \"lots of high notes, lots of coloratura!\"\n\nWe chat with Lindsay about singing old operas, pre-performance yoga, and \"finding value between contracts.\""
 publishDate = "2016-03-16T08:00:00+00:00"
+short_description = "\"To me, the most rewarding thing about a singing career is the relationships you form. I love the fact that music is another language that we can explore and play with. I really enjoy practicing and find that part of the process very gratifying. There's something very meditative in doing something every day and knowing that each day, there are going to be different challenges and changes to my situation, in my voice, in my interactions.\""
 slug = "talking-with-singers-meghan-lindsay"
 title = "Talking with singers: Meghan Lindsay"
 +++

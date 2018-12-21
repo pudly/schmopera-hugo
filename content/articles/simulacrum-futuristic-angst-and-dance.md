@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-06-15T20:07:00-04:00"
 lastmod = "2018-07-09T12:37:00-04:00"
 publishDate = "2018-06-15T20:07:00-04:00"
+short_description = "Broadly interpreted and playing to the opera's self styled emphasis on technology, Simulacrum is about the conflict between man and machine. More specifically, it is a story of futuristic angst told against a backdrop of techno-existentialism. "
 slug = "simulacrum-futuristic-angst-and-dance"
 title = "Simulacrum: Futuristic angst and dance"
 +++

@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-10-24T09:50:00+01:00"
 lastmod = "2016-10-24T11:05:00+01:00"
 publishDate = "2016-10-24T10:31:00+01:00"
+short_description = "Barton's big smile is infectious, and her singing is totally satisfying. She left us heavy in our seats during Brahms' \"Unbewegte laue Luft,\" and Dvořák's \"Songs My Mother Taught Me,\" and she seemed to be making a good case for a definitive performance of Turina's Homenaje and the Sibelius songs. "
 slug = "in-review-jamie-barton-at-wigmore-hall"
 title = "In review: Jamie Barton at Wigmore Hall"
 +++

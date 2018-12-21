@@ -2,7 +2,9 @@
 categories = "How-to"
 date = "2015-11-23T10:36:00-05:00"
 lastmod = "2015-11-23T12:10:00-05:00"
+preamble = "For English speaking singers, singing in their native language is harder than you'd think. It's difficult to think of your own language objectively, and English is often a complicated mess of vague vowels. In today's opera and classical music scenes, it's more important than ever for young singers to sing well in English, and to be understood by their audiences. Crisp consonants can go a long way, but here are three valuable tips to keep your listeners' attention, and eventually make same-language surtitles a thing of the past."
 publishDate = "2015-11-23T12:08:00-05:00"
+short_description = "It's hard to think of your own language objectively, and English is often a complicated mess of vague vowels. In today's opera and classical music scenes, it's more important than ever for young singers to sing well in English, and to be understood by their audiences. Crisp consonants can go a long way, but here are three valuable tips to keep your listeners' attention, and eventually make same-language surtitles a thing of the past."
 slug = "singing-in-english-3-reasons-why-no-one-can-understand-you"
 title = "Singing in English: 3 reasons why no one can understand you"
 +++

@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-05-16T14:58:00+01:00"
 lastmod = "2016-05-22T10:47:00+01:00"
 publishDate = "2016-05-16T22:19:00+01:00"
+short_description = "Even the legend of Jenkins is almost enough to bring tears to our eyes. She went through a lot of tough stuff, and it's poignant for us, as writers of reviews, that even she, with all her well-placed ignorance and unashamed love for music, was deeply hurt by the negativity hurled at her from critics. Aren't we all searching for Jenkins' mix of unapologetic joy, and transparent vulnerability?"
 slug = "why-we-all-love-florence-foster-jenkins"
 title = "Why we all love Florence Foster Jenkins"
 +++

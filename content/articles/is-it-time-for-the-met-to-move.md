@@ -2,7 +2,9 @@
 categories = "Editorial"
 date = "2016-05-11T19:34:00+01:00"
 lastmod = "2016-05-12T12:37:00+01:00"
+preamble = "Photo: [Nicholas Huk](https://www.flickr.com/photos/128359034@N07/17233058042) on [Flickr](https://creativecommons.org/licenses/by/2.0/)"
 publishDate = "2016-05-12T12:35:00+01:00"
+short_description = "It would be decidedly difficult for the Met as a company to wriggle free from the Met as a building. They're absolutely one and the same, especially for the new audiences, who are being courted while loyal subscribers grow older, and single-ticket buyers become more important sales targets. For these new people that the Met wants in their seats, the experience of going to that building is as much a part of the evening as the show itself."
 slug = "is-it-time-for-the-met-to-move"
 title = "Is it time for the Met to move?"
 +++

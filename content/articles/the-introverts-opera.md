@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-04-10T21:39:00-04:00"
 lastmod = "2015-04-10T21:39:00-04:00"
 publishDate = "2015-03-20T15:39:00-04:00"
+short_description = "opera is a fantastic industry in which to be an introvert. Those flashy singers are a small proportion of the team of people it takes to put up an opera. Assuming people fit into two broad groups, extroverts and introverts, I'd put most of the coaches, stage managers, designers, and orchestra musicians into the latter group."
 slug = "the-introverts-opera"
 title = "The Introvert&#039;s Opera"
 +++

@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-12-08T18:36:00+00:00"
 lastmod = "2016-12-09T09:33:00+00:00"
 publishDate = "2016-12-09T09:33:00+00:00"
+short_description = "After the discovery of a brain tumor in 2015, and taking a break to deal with his health last summer, he returned to the opera and recital stage to great reviews. Anthony Tommasini from the Times noted from Hvorostovsky's appearance in Il Trovotore at the Metropolitan Opera that his \"resplendent voice, with its distinctive mellow character and dusky veneer, sounded not at all compromised.\""
 slug = "hvorostovsky-to-take-a-pause-in-my-operatic-career"
 title = "Hvorostovsky to take a &quot;pause in my operatic career&quot;."
 +++

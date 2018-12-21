@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-10-01T11:38:00-04:00"
 lastmod = "2018-10-01T13:47:00-04:00"
 publishDate = "2018-10-01T11:45:00-04:00"
+short_description = "It's hard to get a sense of whether Tchaikovsky means us to see Onegin as an anti-hero, a villain, or some pitiful shell of a man (like Patrick Bateman's less murderous brother, Sean). By the skin of her teeth, Tatyana comes out of their whole uncomfortable relationship unscathed, but not without some doubt; she rightly turns Onegin down in the final scene, but it's frustrating that she only does so because she's married to someone else."
 slug = "eugene-onegin-or-the-time-tatyana-dodged-a-bullet"
 title = "Eugene Onegin, or the time Tatyana dodged a bullet"
 +++

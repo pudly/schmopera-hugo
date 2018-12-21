@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2015-12-29T15:32:00-05:00"
 lastmod = "2015-12-30T16:02:00-05:00"
 publishDate = "2015-12-30T10:19:00-05:00"
+short_description = "There's something about Handel's operas that seems to lend a particularly blank slate to directors. Some of the wackiest takes on opera by the most Regie of the \"concept\" directors happen in Baroque opera, and Handel's works get their fair share. That's not to say that none of these ideas work well, but they sure can be weird."
 slug = "5-times-handel-got-weird"
 title = "5 times Handel got weird"
 +++

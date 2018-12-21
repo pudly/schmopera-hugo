@@ -3,6 +3,7 @@ categories = "Interview"
 date = "2016-04-07T15:29:00+01:00"
 lastmod = "2016-04-08T15:31:00+01:00"
 publishDate = "2016-04-08T15:10:00+01:00"
+short_description = "\"I love the way things have changed in the last generation or two. There are people who behave stupidly and tyrannically, there will always be. But it's more and more of a minority now, and I think it's so clear that when people feel enabled and bring themselves to their work, it's bound to be better. It's so obvious.\""
 slug = "ian-page-mozart-imagination"
 title = "Ian Page: Mozart &amp; imagination"
 +++

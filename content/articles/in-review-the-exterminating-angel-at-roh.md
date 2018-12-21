@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-04-25T08:46:00-04:00"
 lastmod = "2017-04-25T09:37:00-04:00"
 publishDate = "2017-04-25T09:21:00-04:00"
+short_description = "The guests arrive on stage, dressed in retro evening wear that reminded us of Jonathan Lynn’s Clue. We are prepared for a drawing room comedy to start, but are immediately informed that something is not right by the servants' departure from the grand mansion. We also know something's up when, in a genius expository tool, the guests arrive together a second time: they repeat the formal introductions from character to character, as if they are all trapped in a loop."
 slug = "in-review-the-exterminating-angel-at-roh"
 title = "In review: The Exterminating Angel at ROH"
 +++

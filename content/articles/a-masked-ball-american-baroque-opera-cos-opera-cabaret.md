@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-09-17T11:28:00-04:00"
 lastmod = "2017-09-17T15:54:00-04:00"
 publishDate = "2017-09-17T14:55:00-04:00"
+short_description = "This group has succeeded in being a passionate representative of Baroque opera as not merely an outlier that \"comes before the real operas of Mozart, Puccini, Verdi, and Bizet\", but as a vibrant, effusive, and brilliant genre sui generis that appreciates the love and devotion performers bring to it."
 slug = "a-masked-ball-american-baroque-opera-cos-opera-cabaret"
 title = "A masked ball: American Baroque Opera Co.&#039;s Opera Cabaret"
 +++

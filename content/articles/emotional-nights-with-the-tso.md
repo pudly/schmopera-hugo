@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-11-11T14:13:00-05:00"
 lastmod = "2017-11-11T21:42:00-05:00"
 publishDate = "2017-11-11T17:14:00-05:00"
+short_description = "AFGHANISTAN: Requiem for A Generation was not only a solemn concert to remember those men and women who have served, and just as importantly - continue to serve, in our Armed Forces, but also to remember those whose lives are touched by war. It was equal parts celebratory for our freedoms, respectful that we still have a way to go, and reverent to those who have gone before us."
 slug = "emotional-nights-with-the-tso"
 title = "Emotional nights with the TSO"
 +++

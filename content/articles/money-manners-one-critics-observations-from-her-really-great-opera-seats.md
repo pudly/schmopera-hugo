@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2017-10-19T20:03:00-04:00"
 lastmod = "2017-10-26T23:19:00-04:00"
 publishDate = "2017-10-26T23:19:00-04:00"
+short_description = "There's a funny catch, though, because when you're sitting in those pricey sections of the opera house, your neighbours are likely of a certain demographic; basically, they're sitting in those seats because they're good, and they can afford them. The important thing to note here is not that there are wealthy people who go to the opera, but that there's likely a stark difference between their tax bracket, and that of someone who writes about opera for a living."
 slug = "money-manners-one-critics-observations-from-her-really-great-opera-seats"
 title = "Money &amp; manners: one critic&#039;s observations from her really great opera seats"
 +++

@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-04-11T20:35:00-04:00"
 lastmod = "2015-04-11T20:35:00-04:00"
 publishDate = "2015-02-06T09:34:00-05:00"
+short_description = "In the last few weeks, a recurring topic has come up among my artist friends. The crux of the issue can actually be boiled down to one question: are you still an artist if you can’t survive on your artist income?"
 slug = "how-much-money-makes-an-artist"
 title = "How Much Money Makes an Artist?"
 +++

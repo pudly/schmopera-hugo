@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2015-04-12T00:18:00+01:00"
 lastmod = "2016-10-07T14:57:00+01:00"
+preamble = "<p>\n\tCanadian soprano <a href=\"http://luciacesaroni.com/index.html\" target=\"_blank\">Lucia Cesaroni</a> is one of my favourite singers to hear, and she happens to be equally delightful offstage as well as on. She was even nice enough to give me a heartfelt and honest interview about her life as a singer. She talks about connecting with different types of artists, learning to be her own producer, and about how she found out that singing was just the thing for her.\n</p>"
 publishDate = "2015-02-16T14:18:00+00:00"
+short_description = "Canadian soprano Lucia Cesaroni is one of my favourite singers to hear, and she happens to be equally delightful offstage as well as on. She was even nice enough to give me a heartfelt and honest interview about her life as a singer. She talks about connecting with different types of artists, learning to be her own producer, and about how she found out that singing was just the thing for her. "
 slug = "talking-with-singers-lucia-cesaroni"
 title = "Talking with Singers: Lucia Cesaroni"
 +++

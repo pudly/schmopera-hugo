@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2016-03-01T14:40:00+00:00"
 lastmod = "2016-03-01T15:55:00+00:00"
 publishDate = "2016-03-01T15:45:00+00:00"
+short_description = "When the average, non-opera-obsessed North American attends an opera, they come away with the tale that they've seen La bohème or Aïda, and that's the end of it. They're not likely to tell their fellow, non-opera-obsessed friends that they saw \"Zeffirelli's Bohème\" or \"Tim Albery's Aïda\". There's nothing maliciously ignorant about any of this. It's just not how North Americans generally understand the process of putting an opera onstage."
 slug = "a-funny-thing-happened-on-the-way-to-the-opera"
 title = "A funny thing happened on the way to the opera"
 +++

@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2014-11-02T10:00:00-05:00"
 lastmod = "2017-09-17T21:21:00-04:00"
 publishDate = "2014-11-02T10:00:00-05:00"
+short_description = "So, I have a loving husband who happens to be a Star Trek fan. There's not a whole lot of direct overlap between a sci-fi lover and an opera lover, but one point of contact is in Robert Picardo, (aka The Doctor), and his singing skills on Star Trek: Voyager."
 slug = "star-trek-and-the-opera"
 title = "Star Trek and the opera"
 +++

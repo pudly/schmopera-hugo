@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2015-09-22T19:21:00-04:00"
 lastmod = "2015-09-23T20:19:00-04:00"
+preamble = "This interview is part of our ongoing series of features on young working artists in the opera industry. If you think you'd be a great candidate for an interview, or know someone you'd like to nominate, get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
 publishDate = "2015-09-24T08:00:00-04:00"
+short_description = "\"I sing because it is a holistic musical experience. It's the only thing I can think of that comes close to complete participation of your brain, body, and what some people may call a soul. At its peak, it unites all three into a living, breathing instrument, that's always completely unique and arrestingly different. I sing to always find that unity.\""
 slug = "spotlight-on-cairan-ryan"
 title = "Spotlight on: Cairan Ryan"
 +++

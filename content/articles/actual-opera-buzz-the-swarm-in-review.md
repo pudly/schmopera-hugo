@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-09-21T09:38:00+01:00"
 lastmod = "2016-09-21T10:13:00+01:00"
 publishDate = "2016-09-21T10:09:00+01:00"
+short_description = "Themes of community, even sisterhood, poured through The Swarm, and we begin to get a sense of the relationship among the individuals in the hive. They were curious together, scared together, and when they finally take flight together, there was something reminiscent of Wagner's Valkyries."
 slug = "actual-opera-buzz-the-swarm-in-review"
 title = "Actual opera buzz: The Swarm, in review"
 +++

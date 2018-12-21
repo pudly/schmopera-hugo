@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-10-23T14:09:00-04:00"
 lastmod = "2017-10-24T12:08:00-04:00"
 publishDate = "2017-10-23T15:25:00-04:00"
+short_description = "Kevin March's score is a tour de force: truly sensitive and theatrical. It was tender and loving when it needed to be, with subtle dissonances that hint of the conflict lurking in the shadows. The score magnificently plays homage to the musical language of Debussy and other great French composers of the early 20th century."
 slug = "a-fiery-love-triangle-les-feluettes-at-edmonton-opera"
 title = "A fiery love triangle: Les feluettes at Edmonton Opera"
 +++

@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2017-05-30T15:15:00-04:00"
 lastmod = "2017-05-31T11:04:00-04:00"
 publishDate = "2017-05-30T20:23:00-04:00"
+short_description = "I can a) quit doing this thing I love and just sit in a corner, or, b) do a diffident, guarded, joyless job of it because I'm hyper-aware of their negative opinions, and making room for their big important opinions is more important to me than my own fulfilment and mental health. (The latter is my default — that's where I'm most likely to go when the self-doubt gets to me.)"
 slug = "selfdoubt-the-accidental-manual"
 title = "Self-Doubt: The Accidental Manual"
 +++

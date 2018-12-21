@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2014-09-23T09:00:00-04:00"
 lastmod = "2015-04-15T17:23:00-04:00"
 publishDate = "2014-09-23T09:00:00-04:00"
+short_description = "Conductors are dropping like flies in Europe. Riccardo Muti just resigned as chief conductor from Teatro dell'Opera di Roma. “Despite all my efforts to contribute to your cause,” Muti said, “there are no conditions to ensure the serenity necessary for the success of the production.\""
 slug = "and-he-never-came-back"
 title = "And he never came back"
 +++

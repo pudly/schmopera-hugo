@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2014-01-25T22:22:00-05:00"
 lastmod = "2015-04-28T22:19:00-04:00"
 publishDate = "2014-01-25T22:22:00-05:00"
+short_description = "In the evening of February 1st, I'll be working on the west end. I wish I could be in the Distillery District, however, to catch Tapestry Opera's presentation of their Tapestry Songbook Concert. Featuring Canadian mezzo Krisztina Szabó and pianist Dr. Chris Foley, the concert will be a showcase of operatic scenes and arias from Tapestry's impressive collection of new Canadian works."
 slug = "go-to-this-tapestry-songbook"
 title = "Go to this: Tapestry Songbook"
 +++

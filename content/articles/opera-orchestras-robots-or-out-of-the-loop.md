@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-10-03T13:10:00-04:00"
 lastmod = "2015-10-07T09:56:00-04:00"
 publishDate = "2015-10-07T09:30:00-04:00"
+short_description = "I've written before about the emotional rollercoaster caused by the arrival of the orchestra. In short: you, the singer/pianist/director/passionate stage manager, have spent weeks in music and staging rehearsals for a particular show, and you've no doubt grown close to the piece, and all your favourite moments in this particular production. For pianists, the way they play the score is informed by what they see being built up onstage; if it's an interesting rehearsal process, I'll probably play the score differently at the end of it than at the beginning, because I'll know more things about this story now."
 slug = "opera-orchestras-robots-or-out-of-the-loop"
 title = "Opera orchestras: robots, or out of the loop?"
 +++

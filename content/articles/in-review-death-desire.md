@@ -2,7 +2,9 @@
 categories = "Review"
 date = "2015-06-03T11:14:00-04:00"
 lastmod = "2015-06-03T16:42:00-04:00"
+preamble = "A blank white room. A black table. A grand piano. A big white box. A crowded room. Exposed brick walls. An excited buzz. [Neubacher Schor Contemporary](http://neubachershor.com/) gallery on Brock street in Toronto's super hip Queen West district was the perfect setting for Against The Grain's season closer. \n\nYes. I love AtG's work. That is known. But they earned that love because they never fail to produce top quality theatre. They do not disappoint. "
 publishDate = "2015-06-03T11:23:00-04:00"
+short_description = "Death & Desire is a blending of two art song cycles. One, Die schöne \nMüllerin by the art song emperor, Franz Schubert and the second by France's master of the bird call, Olivier Messiaen, called Harawi. It's not an opera in the traditional sense, as per usual with AtG. It is, however, one of the most coherent, artistic and thrilling examples of lyric theatre to date."
 slug = "in-review-death-desire"
 title = "In review: Death &amp; Desire"
 +++

@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2016-09-28T14:16:00+01:00"
 lastmod = "2016-09-29T11:00:00+01:00"
+preamble = "Nick Fletcher is a London-based conductor and répétiteur, and currently a member of the [Royal Opera](/scene/companies/royal-opera-house/)'s Jette Parker Young Artists Programme. As part of [Meet the Young Artists Week](http://www.roh.org.uk/about/jette-parker-young-artists-programme/events/meet-the-young-artists-week), he'll be joining the JPYAP singers for workshops and concert events, including [Juke Box](http://www.roh.org.uk/productions/meet-the-young-artists-week-juke-box-by-jette-parker-young-artists) on October 9 at St. Clement Danes Anglican Church.\n\nWe spoke with Fletcher about the role of the répétiteur in young artist programmes, and what a day in the life looks like for him at the Royal Opera House."
 publishDate = "2016-09-29T11:00:00+01:00"
+short_description = "\"It's taken me a long time to realise that as a rep you're not just a piano player meekly sitting in the corner, but instead a wide-ranging and versatile musician whose ideas, even if ultimately rejected, should still be part of the creative process that happens in the rehearsal room.\""
 slug = "nick-fletcher-reps-at-the-roh"
 title = "Nick Fletcher: reps at the ROH"
 +++

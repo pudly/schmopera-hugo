@@ -3,6 +3,7 @@ categories = "News"
 date = "2017-11-22T15:30:00-05:00"
 lastmod = "2017-11-22T20:53:00-05:00"
 publishDate = "2017-11-22T20:53:00-05:00"
+short_description = "Stravinsky's L'histoire du soldat is re-imagined by First Nations choreographer Aria Evans \"through a truly Canadian lens\"; and mezzo-soprano Rebecca Cuddy sings the new orchestral song cycle by Ian Cusson, Five Orchestra Songs, based on Métis poet Marilyn Dumont's A Really Good Brown Girl. The song cycle is directed by Tapestry Opera Artistic Director Michael Mori."
 slug = "dont-miss-voice-of-a-nation"
 title = "Don&#039;t miss: Voice of a Nation"
 +++

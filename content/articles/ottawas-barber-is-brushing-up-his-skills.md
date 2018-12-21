@@ -3,6 +3,7 @@ categories = "News"
 date = "2015-09-09T10:51:00-04:00"
 lastmod = "2015-09-09T13:12:00-04:00"
 publishDate = "2015-09-09T12:05:00-04:00"
+short_description = "Opera Lyra Ottawa's production of The Barber of Seville opens September 26th, and not only will baritone Joshua Hopkins sing the title role (Torontonians caught him in the COC's Barber last spring), he'll be getting a lesson in the tonsorial arts (#wordoftheday!) from House of Barons Barber Shop."
 slug = "ottawas-barber-is-brushing-up-his-skills"
 title = "Ottawa&#039;s Barber is brushing up his skills"
 +++

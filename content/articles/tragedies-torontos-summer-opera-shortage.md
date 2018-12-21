@@ -3,6 +3,7 @@ categories = "Humour"
 date = "2017-08-22T18:36:00-04:00"
 lastmod = "2017-08-22T22:24:00-04:00"
 publishDate = "2017-08-22T20:32:00-04:00"
+short_description = "Perhaps they're trying to tell us something, these vacationing opera-and-music-makers. Maybe they're saying, Get out of the city, you crazy opera-house addicts, they're saying. Go sit by a lake somewhere, and build up your vitamin D for the season to come."
 slug = "tragedies-torontos-summer-opera-shortage"
 title = "Tragedies: Toronto&#039;s summer opera shortage"
 +++

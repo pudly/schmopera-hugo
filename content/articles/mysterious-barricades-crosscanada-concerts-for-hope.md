@@ -3,6 +3,7 @@ categories = "News"
 date = "2016-09-03T19:53:00+02:00"
 lastmod = "2016-09-06T23:14:00+02:00"
 publishDate = "2016-09-06T11:09:00+02:00"
+short_description = "Led by President and mezzo-soprano Elizabeth Turnbull, Mysterious Barricades is named after a favourite piece of music of her late husband, Chris', who sadly took his own life last year. The organization has organized an incredible 18-hour series of concerts happening across Canada, starting at sunrise in St. John's, NL, and ending at sunset in Victoria, BC."
 slug = "mysterious-barricades-crosscanada-concerts-for-hope"
 title = "Mysterious Barricades: Cross-Canada concerts for hope"
 +++

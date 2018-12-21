@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2017-05-28T10:43:00-04:00"
 lastmod = "2017-05-28T22:10:00-04:00"
+preamble = "Since her graduation from Accademia del Teatro alla Scala in Milan, Georgian soprano [Nino Machaidze](/scene/people/nino-machaidze/) has kept a full schedule of enviable roles at major opera houses; women like Desdemona (*Otello*), Violetta (*La traviata*), Micaëla (*Carmen*) and Thaïs (*Thaïs*) have brought her to Covent Garden, La Scala, the Vienna State Opera, Teatro del Liceu, and Los Angeles. \n\nThis week, [San Francisco Opera](/scene/companies/san-francisco-opera/) opens *Rigoletto*, starring Machaidze as Gilda. We spoke with the soprano about playing young characters, the opera singer's universal love of Verdi, and how social media offers her a major boost in connecting with her audience."
 publishDate = "2017-05-28T21:48:00-04:00"
+short_description = "\"I think a long career is made by saying 'No,' not by saying 'Yes' to everything. Even when there are really attractive operas that you want to sing in that moment and important opera houses are offering them to you, even more you must say 'No.' The more carefully you go, the further you will go!\""
 slug = "talking-with-singers-nino-machaidze"
 title = "Talking with singers: Nino Machaidze"
 +++

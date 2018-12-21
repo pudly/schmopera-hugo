@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2014-09-30T11:39:00-04:00"
 lastmod = "2015-04-14T15:01:00-04:00"
 publishDate = "2014-09-30T11:39:00-04:00"
+short_description = "It's a fair question, isn't it? I mean, anyone who's into opera and classical music knows that the Internet is not our friend. While there's always trusty YouTube to the rescue when you've got an urge to watch that old Met Gala, or Jonas Kaufmann is anything at all. But wouldn't it be amazing to be able to browse an opera collection of old and new broadcasts? "
 slug = "netflix-why-not-opera"
 title = "Netflix: Why Not Opera?"
 +++

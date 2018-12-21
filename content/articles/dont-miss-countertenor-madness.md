@@ -3,6 +3,7 @@ categories = "News"
 date = "2018-09-22T15:50:00-04:00"
 lastmod = "2018-09-23T20:50:00-04:00"
 publishDate = "2018-09-23T19:52:00-04:00"
+short_description = "The concert - aptly titled Countertenor Madness! - is likely to be a crash course in what makes the countertenor one of opera's most exciting voice types. "
 slug = "dont-miss-countertenor-madness"
 title = "Don&#039;t miss: Countertenor Madness!"
 +++

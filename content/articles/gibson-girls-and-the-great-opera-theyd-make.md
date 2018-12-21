@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2015-04-10T21:06:00-04:00"
 lastmod = "2015-04-12T18:48:00-04:00"
 publishDate = "2015-03-30T09:05:00-04:00"
+short_description = " I think the story, the mythology, even, of the Gibson Girl would make a great opera in itself. The story could speak about women, men, the media, the human urge to follow trends; there's even a story in the lives of Mr. and Mrs. Gibson, whose understanding of social issues seemed ahead of their time."
 slug = "gibson-girls-and-the-great-opera-theyd-make"
 title = "Gibson Girls, and the Great Opera They&#039;d Make"
 +++

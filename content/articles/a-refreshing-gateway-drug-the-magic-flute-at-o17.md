@@ -3,6 +3,7 @@ categories = "Review"
 date = "2017-09-16T17:16:00-04:00"
 lastmod = "2017-09-16T18:08:00-04:00"
 publishDate = "2017-09-16T17:22:00-04:00"
+short_description = "While a new and forward-thinking production such as this Flute is of tremendous value, we must be wary of the cost on the performers themselves. There is a danger in productions where singers are made to fit into a sort of machine (see The Metropolitan Opera) and do not have total freedom to access their full range of expressive tools. These are the tools which would otherwise allow them to connect with the audience and portray their respective characters without limitation."
 slug = "a-refreshing-gateway-drug-the-magic-flute-at-o17"
 title = "A refreshing gateway drug: The Magic Flute at O17"
 +++

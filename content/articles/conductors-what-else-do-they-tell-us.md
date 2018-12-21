@@ -3,6 +3,7 @@ categories = "Op-ed"
 date = "2015-09-09T12:44:00-04:00"
 lastmod = "2015-09-11T09:08:00-04:00"
 publishDate = "2015-09-11T09:08:00-04:00"
+short_description = "When George Martin and The Beatles made Sgt. Pepper's Lonely Hearts Club Band in 1967, they made history by using the recording studio itself as a sort of \"instrument.\" Songs like \"A Day in the Life\", or even \"With a Little Help from My Friends\" aren't easy to reproduce on a live stage, and the album isn't meant to be a preserved concert in the same way that Please Please Me is. "
 slug = "conductors-what-else-do-they-tell-us"
 title = "Conductors: what else do they tell us?"
 +++

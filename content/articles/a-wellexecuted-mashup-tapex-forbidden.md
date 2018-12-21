@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-02-13T10:14:00-05:00"
 lastmod = "2018-02-13T13:16:00-05:00"
 publishDate = "2018-02-13T13:16:00-05:00"
+short_description = "Sky flitted around the scenes and acted almost as an echo of Hajek's Lucifer through the conscience of each character. That, coupled with a dramatic performance as a young child terrorist dreaming of the rewards he'll be given, made it chilling and powerful. "
 slug = "a-wellexecuted-mashup-tapex-forbidden"
 title = "A well-executed mashup: Tap:Ex Forbidden"
 +++

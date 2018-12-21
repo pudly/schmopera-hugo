@@ -3,6 +3,7 @@ categories = "Editorial"
 date = "2016-07-26T19:57:00+01:00"
 lastmod = "2016-08-01T11:53:00+01:00"
 publishDate = "2016-08-01T11:53:00+01:00"
+short_description = "A Portland Opera-style cart is a brilliant way of showcasing opera presented by one or several companies; in the same way that a picture is worth a thousand words, offering up short bites of opera to listeners is the perfect marketing campaign to lure audiences to future full-length productions."
 slug = "great-ideas-portland-opera-la-cart"
 title = "Great ideas: Portland Opera à la Cart"
 +++

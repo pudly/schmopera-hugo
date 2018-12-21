@@ -2,7 +2,9 @@
 categories = "Interview"
 date = "2018-01-11T17:33:00-05:00"
 lastmod = "2018-01-12T13:57:00-05:00"
+preamble = "As part of Utah Opera's 40th anniversary season, Jake Heggie's *Moby-Dick* will see its first new staging since its original production, premiered at The Dallas Opera in 2010. Kristine McIntyre directs the new production, running **January 20-28**; *Moby-Dick* marks her latest collaboration with Heggie, after directing his *Dead Man Walking* (Des Moines Metro Opera, Madison Opera) and *The End of the Affair* (Lyric Opera of Kansas City).\n\nWe spoke with McIntyre about the unique responsibility of directing a contemporary opera, and her take on the role of the opera director."
 publishDate = "2018-01-11T20:13:00-05:00"
+short_description = "\"I think Moby-Dick is ultimately about the redeeming power of friendship - and how an open heart can literally save your life. It's no accident that in both the book and the opera, Greenhorn (Ishmael) is saved from drowning by floating on the coffin on his new dear friend Queequeg, who is a 'foreigner' and a 'savage.'\""
 slug = "mobydick-a-story-about-obsession"
 title = "Moby-Dick: &quot;A story about obsession.&quot;"
 +++

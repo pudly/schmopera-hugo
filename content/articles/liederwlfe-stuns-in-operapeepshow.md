@@ -3,6 +3,7 @@ categories = "Review"
 date = "2016-04-29T16:15:00+01:00"
 lastmod = "2016-04-29T16:49:00+01:00"
 publishDate = "2016-04-29T16:45:00+01:00"
+short_description = "To say that it was unique would be a broad understatement. Upon arrival, you are greeted at the door and presented a key which gets you into the event, and then you are ushered downstairs where you get to choose, à la carte, which combination of the companies presenting you wished to check out."
 slug = "liederwlfe-stuns-in-operapeepshow"
 title = "Liederwölfe stuns in #OperaPeepShow"
 +++

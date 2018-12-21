@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-01-21T12:29:00-05:00"
 lastmod = "2018-01-21T18:22:00-05:00"
 publishDate = "2018-01-21T18:22:00-05:00"
+short_description = "This story also asks questions about the very nature of the American Dream. In the clutches of the Sodbuster, Miles is driven to question his entire mission. He asks \"Does a window make a home? Does a deed make the land yours?\" While these questions might have been better left implied rather than sung out loud, they lead to another question: Who really benefited from America's Manifest Destiny?"
 slug = "an-operatic-horror-story-proving-up"
 title = "An operatic horror story: Proving Up"
 +++

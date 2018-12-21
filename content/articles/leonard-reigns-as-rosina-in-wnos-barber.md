@@ -3,6 +3,7 @@ categories = "Review"
 date = "2018-04-30T17:46:00-04:00"
 lastmod = "2018-04-30T21:41:00-04:00"
 publishDate = "2018-04-30T21:41:00-04:00"
+short_description = "Leonard's voice is smooth and dark, but simultaneously buoyant and splendidly agile; she is perfectly suited to Rossini, and she appears to love it. If only the staging used her better!  She subtly pulled off one of the funniest moments of the evening as she began the cabaletta while genteelly practicing her needlepoint as she sings about being a sweet, obedient young lady, but once she arrives at the all important \"ma...\" sings \"ma se mi toccano dov'è il mio debole\" through gritted teeth as she aggressively stabs the sampler with her needle, while the audience roars with laughter."
 slug = "leonard-reigns-as-rosina-in-wnos-barber"
 title = "Leonard reigns as Rosina in WNO&#039;s Barber"
 +++
