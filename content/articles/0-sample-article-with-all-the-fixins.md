@@ -16,6 +16,7 @@ short_description = "Short Description. Pellentesque habitant morbi tristique se
 slug = "sample-article-with-all-the-fixins"
 title = "Sample article with all the fixins"
 url = "testing123"
+youtube_url = "https://www.youtube.com/watch?v=HOh6d_r63Bw"
 
 +++
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel ipsum ut leo efficitur aliquet. Nunc tempor, tellus nec ornare porta, dui velit tincidunt leo, in tincidunt ipsum metus vel metus. Quisque ut condimentum mi. Vivamus vel enim sit amet neque auctor volutpat. Praesent at sagittis neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis orci nulla, venenatis vitae fringilla sit amet, commodo in sem. Fusce libero ante, sollicitudin vestibulum consequat ut, facilisis consectetur enim. Maecenas pellentesque laoreet ultrices.
