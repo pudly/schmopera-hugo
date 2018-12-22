@@ -19,7 +19,7 @@ title = "Erik Ochsner on conducting Star Trek: &quot;goose bumps and tears are N
 </p>
 <dl>
 	<dt></dt>
-	<figure data-type="image"><a href="/webhook-uploads/1428719702658/Erik-Ochsner-2012.jpg"><img data-resize-src="http://lh3.googleusercontent.com/77qVxAolaQijGlTjKC6mOc5S89KttZ7Vc75toaMpgDfHzBLZRwJkldrxEAW-Pm2_eDpXrIU4s39Ag0n946NvnWQMUdQx" src="http://lh3.googleusercontent.com/77qVxAolaQijGlTjKC6mOc5S89KttZ7Vc75toaMpgDfHzBLZRwJkldrxEAW-Pm2_eDpXrIU4s39Ag0n946NvnWQMUdQx=s1200"></a><figcaption>Conductor Erik Ochsner. Photo: erikochsner.com</figcaption></figure>
+	<figure data-type="image"><a href="https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428719702658/Erik-Ochsner-2012.jpg"><img data-resize-src="http://lh3.googleusercontent.com/77qVxAolaQijGlTjKC6mOc5S89KttZ7Vc75toaMpgDfHzBLZRwJkldrxEAW-Pm2_eDpXrIU4s39Ag0n946NvnWQMUdQx" src="http://lh3.googleusercontent.com/77qVxAolaQijGlTjKC6mOc5S89KttZ7Vc75toaMpgDfHzBLZRwJkldrxEAW-Pm2_eDpXrIU4s39Ag0n946NvnWQMUdQx=s1200"></a><figcaption>Conductor Erik Ochsner. Photo: erikochsner.com</figcaption></figure>
 </dl>
 <h2>3. Conversely, how do these original scores maintain the sound of "classical music" in today's culture?</h2>
 <p>

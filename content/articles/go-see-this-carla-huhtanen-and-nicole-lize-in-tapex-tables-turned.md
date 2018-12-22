@@ -28,7 +28,7 @@ title = "Go See This: Carla Huhtanen and Nicole Lizée in Tap:Ex Tables Turned"
 **Carla**: And our percussionist, don't forget that. [Ben Reimer](http://music.cbc.ca/#!/artists/Ben-Reimer) plays the drumkit and various percussion instruments, and he's so talented, and he knows Nicole very well, he's worked with her for a long time. 
 
 <figure data-type="image">
-![](/webhook-uploads/1428719219823/NicoleLizee-pc-ChrisHutcheson.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428719219823/NicoleLizee-pc-ChrisHutcheson.jpg)
 <figcaption>Nicole Lizée. Photo: Chris Hutcheson</figcaption>
 </figure>
 

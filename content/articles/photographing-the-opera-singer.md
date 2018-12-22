@@ -18,7 +18,7 @@ title = "Photographing the opera singer"
 **Emily**: I try to make them comfortable, so they have time to bring out their personality out and into their portraits. Mostly, I want to bring our their confidence and friendliness into the camera, all the while looking effortless natural. 
 
 <figure data-type="image">
-![](/webhook-uploads/1431379164757/Anna-Netrebko-by-Dario-Acosta-3.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431379164757/Anna-Netrebko-by-Dario-Acosta-3.jpg)
 <figcaption>Soprano Anna Netrebko, photographed by Dario Acosta</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ An instrumentalist has an external instrument which is absent from a singer. The
 Yes, singers and instrumentalists are a bit different in needs, but fundamentally I look for their personality as I approach the session. Instrumentalists might need to have their instrument with them, so I need to figure out a way to convey what they do and their instrument in the photo without being “cliché” and boring and expected. 
 
 <figure data-type="image">
-![](/webhook-uploads/1431367668161/osborne4.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431367668161/osborne4.jpg)
 <figcaption> Canadian soprano Simone Osborne, photographed by Bo Huang.</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ On stage they try to make everyone in the hall feel their presence, and in the p
 Sometimes it takes a different perspective to tell us that we look great (that's my job, and I do think that, and each can look and feel fabulous, even if it takes a little of teasing). I think that's the same conclusion I can take away in a performance--don't judge yourself too harshly. 
 
 <figure data-type="image">
-![](/webhook-uploads/1431368606439/ClaireEmilyDing.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431368606439/ClaireEmilyDing.jpg)
 <figcaption>Claire de Sévigné, photographed by Emily Ding</figcaption>
 </figure>
 

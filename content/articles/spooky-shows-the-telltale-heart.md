@@ -34,7 +34,7 @@ The challenge is to find the right balance between letting the words register an
 In *The Tell-Tale Heart*, I want the music to let us feel as though we're in the narrator's world. Her suffering needs to be ours; her pride needs to be ours; her fear and shock and joy and anger and frustration and diminishing grip on sanity need to be ours. The music has to pull us even deeper into the story.
 
 <figure data-type="image">
-![](/webhook-uploads/1476353340758/2016-10-13---Gregg-Crypt-Announcement.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476353340758/2016-10-13---Gregg-Crypt-Announcement.jpg)
 <figcaption>Photo by Andrew Ousley.</figcaption>
 </figure>
 

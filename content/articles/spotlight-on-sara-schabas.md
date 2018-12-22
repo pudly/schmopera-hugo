@@ -22,7 +22,7 @@ When I sing opera and art songs in a professional context, it’s that visceral 
 When I’m singing well, it generally means I’m singing with a full body engagement (heart, body, soul) that comes from a deep connection to what I’m singing. I get swept up in the music and character and all of a sudden phrases feel way less long and I start singing from my heart and forget about all the technical things I worry about in the practise room. It’s sorta magical. :) 
 
 <figure data-type="image">
-![](/webhook-uploads/1443996694042/Schabas.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443996694042/Schabas.jpg)
 <figcaption>Photo by Kristen Miccoli.</figcaption>
 </figure>
 

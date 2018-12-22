@@ -17,7 +17,7 @@ That didn't mean Ms. Fleming would stop singing, however, and so she hit the roa
 For whatever reason Ms. Fleming has retired, it has nothing to do with her voice, which is as glorious as ever.
 
 <figure data-type="image">
-![](/webhook-uploads/1518108606153/renee-fleming_recital_2-6-2018_photo_by_larry-ho_01.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518108606153/renee-fleming_recital_2-6-2018_photo_by_larry-ho_01.jpg)
 <figcaption>Renée Fleming in recital with pianist Hartmut Holl at LA Opera on February 6, 2018. Photo: Larry Ho.</figcaption>
 </figure>
 

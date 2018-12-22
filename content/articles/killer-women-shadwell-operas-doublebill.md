@@ -39,5 +39,5 @@ I hope they won’t go away saying "Oh, maybe opera is ok." I hope they'll go aw
 
 
 <figure data-type="image">
-![](/webhook-uploads/1477391544790/2016-10-25---Shadwell-Opera-poster.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477391544790/2016-10-25---Shadwell-Opera-poster.jpg)
 </figure>

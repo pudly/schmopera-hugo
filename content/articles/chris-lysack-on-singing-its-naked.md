@@ -22,7 +22,7 @@ Sometimes the two worlds collide unexpectedly. For example in January of this ye
 Meistersinger von Nürnberg* in Bremen. I actually posted that whole day’s happenings using the hashtag #ThisDayIsEvenLongerThanAGermanNoun. 
 
 <figure data-type="image">
-![](/webhook-uploads/1446671779373/2015-11-04---LysackJenufa.jpg)<figcaption>Chris Lysack in *Jenůfa*, Theater Aachen, 2015. Photo: Carl Brunn.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446671779373/2015-11-04---LysackJenufa.jpg)<figcaption>Chris Lysack in *Jenůfa*, Theater Aachen, 2015. Photo: Carl Brunn.</figcaption>
 </figure>
 
 ## 2. How did you discover that your voice fit this exciting repertoire?
@@ -46,7 +46,7 @@ All of these composers (Britten, Wagner, Puccini, and Janáček) were primarily 
 And then, speaking of musical transcendence, let’s not forget *Fidelio*.
 
 <figure data-type="image">
-![](/webhook-uploads/1446672046873/2015-11-04---LysackRusalka.jpg)<figcaption>Chris Lysack in *Rusalka*, Theater Aachen, 2013. Photo: Ludwig Koerfer.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446672046873/2015-11-04---LysackRusalka.jpg)<figcaption>Chris Lysack in *Rusalka*, Theater Aachen, 2013. Photo: Ludwig Koerfer.</figcaption>
 </figure>
 
 ## 4. As a Canadian singer abroad, what advice do you have for young singers in North America hoping to gain work in Europe?

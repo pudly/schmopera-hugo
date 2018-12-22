@@ -31,7 +31,7 @@ This pilgrimage to my homeland during Chuseok — a time for giving thanks, cele
 He longed for us to be in the moment: past, present, future… time flowing eternally…
 
 <figure data-type="image">
-![](/webhook-uploads/1506435017547/2017-09-25---SungJinHong_JVinsek3_SQ.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506435017547/2017-09-25---SungJinHong_JVinsek3_SQ.jpg)
 <figcaption>Sung Jin Hong. Photo: Jaka Vinsek.</figcaption>
 </figure>
 ***

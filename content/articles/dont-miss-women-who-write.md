@@ -15,5 +15,5 @@ Sara Constant, flutist and writer for *Wholenote* leads a round-table dicussion 
 Tickets are just $15, and a reception follows the round-table discussion. For more details about *Women Who Write*, **March 8th at 6:30pm**, [click here](http://www.rcmusic.ca/music-appreciation).
 
 <figure data-type="image">
-![](/webhook-uploads/1486484991577/2017-02-07---Women-Who-Write.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486484991577/2017-02-07---Women-Who-Write.jpg)
 </figure>

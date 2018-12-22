@@ -13,7 +13,7 @@ Next month sees the world premiere of [*Against Nature (À Rebours)*](http://col
 The work is based on the book of the same name by Joris-Karl Huysmans, about a wealthy, contrarian aesthete who has grown to despise human society. He leaves Paris and retreats to the countryside to contemplate life, rather than be a part of it.
 
 <figure data-type="image">
-![](/webhook-uploads/1461438053441/2016-04-23---James-Kudelka-Laurence-Lemieux-in-rehearsal-for-Against-Nature.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461438053441/2016-04-23---James-Kudelka-Laurence-Lemieux-in-rehearsal-for-Against-Nature.jpg)
 <figcaption>James Kudelka and Laurence Lemieux in rehearsal for *Against Nature*. Photo: Jeremy Mimnagh.</figcaption>
 </figure>
 

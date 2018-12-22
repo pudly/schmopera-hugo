@@ -12,6 +12,6 @@ Let me share what I think is a common source of frustration for pianists learnin
 "Ride of the Valkyries" for scale:
 
 <figure data-type="image">
-![](/webhook-uploads/1429213917601/Screen%20Shot%202015-04-16%20at%203.51.12%20PM.png)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429213917601/Screen%20Shot%202015-04-16%20at%203.51.12%20PM.png)
 
 Pianists, what famous parts from operas get your fingers in a twist? Let us know in the comments below!

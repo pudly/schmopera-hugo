@@ -20,7 +20,7 @@ I first got the idea for VCO when I wrote my first opera, [*Rise of the Roaches*
 The first formal Vera Causa Opera show was [*The Death of Maria*](https://www.youtube.com/watch?v=sraWYTW3Lvc&feature=youtu.be) in November of 2015. Following the positive experience of *Rise of the Roaches*, I decided that it was time to formalize this project into an organization. Thus VCO was created, an organization which is dedicated to giving opportunities to deserving young professionals of all sorts, providing them with a positive, collaborative, and professional environment in which to hone their skills. We wholeheartedly believe in making opera more enjoyable, affordable, and accessible to everyone. That means $10 tickets (free for students), putting on new opera, and adapting old operas for a new kind of audience.
 
 <figure data-type="image">
-![](/webhook-uploads/1486418205550/2017-02-07---VCO---River-singing-loud.jpg)<figcaption>Photo courtesy of Vera Causa Opera.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486418205550/2017-02-07---VCO---River-singing-loud.jpg)<figcaption>Photo courtesy of Vera Causa Opera.</figcaption>
 </figure>
 
 ## What does it mean for opera to be "accessible"? How does Vera Causa advocate this?
@@ -37,7 +37,7 @@ Accessible opera is opera which allows the viewer to have a direct connection wi
 
 As for accessibility in regards to performers, the reduction in the amount of musical material certainly goes a long way in making their role/part far easier to combat. I will go to great lengths to ensure that a role/part is right for a performer, whether that means cutting a repeat, writing an *ossia*, or even making singing roles speaking ones. Adaptation of this nature means that anyone from any level of musical experience can take part in our shows. They may not be playing the leading tenor (we still need that!), but they will certainly be a vibrant and active part of our production. Thanks to these efforts, our operas are a blast on both sides of the curtain.
 
-<figure data-type="image">![](/webhook-uploads/1486418326163/2017-02-07---Midori-Marsh-River-Guard-Peter-Brooks-Rachel-Ginther-in-Vera-Causa-Opera-Production-of-Echo.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486418326163/2017-02-07---Midori-Marsh-River-Guard-Peter-Brooks-Rachel-Ginther-in-Vera-Causa-Opera-Production-of-Echo.jpg)
 <figcaption>Midori Marsh, River Guard, Peter Brooks, and Rachel Ginther in Vera Causa opera's production of *Echo*.</figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ Vera Causa Opera fits quite nicely! We are also part of the Cambridge scene, so 
 
 
 <figure data-type="image">
-![](/webhook-uploads/1486418134628/2017-02-07---Vera-Causa.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486418134628/2017-02-07---Vera-Causa.jpg)
 <figcaption>Dylan Langan, Artistic Director of Vera Causa Opera.</figcaption>
 </figure>
 

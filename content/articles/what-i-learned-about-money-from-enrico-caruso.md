@@ -49,7 +49,7 @@ And on the surface that diversification seems great, like a wonderful rich life�
 The problem comes in when I see my expectations for that diversification: 
 
 <figure data-type="image">
-![](/webhook-uploads/1481573287801/2016-12-12---Focus-1.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481573287801/2016-12-12---Focus-1.jpg)
 </figure>
 
 You don't have to be good at math to see that even giving 110% won't get me close to meeting those expectations…
@@ -57,7 +57,7 @@ You don't have to be good at math to see that even giving 110% won't get me clos
 So this is what usually happens:
 
 <figure data-type="image">
-![](/webhook-uploads/1481573319962/2016-12-12---Focus.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481573319962/2016-12-12---Focus.jpg)
 </figure>
 
 I overwork on Monday trying to do too much. I spread myself so thin that it never feels like I'm making progress in any one area, and I end up at the end of the week really frustrated. 
@@ -83,7 +83,7 @@ Maybe you want to pay off debt, save for retirement AND invest in your business.
 If you want to do it all at once, it might look like this: 
 
 <figure data-type="image">
-![](/webhook-uploads/1481573452392/2016-12-12---Focus-3.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481573452392/2016-12-12---Focus-3.jpg)
 </figure>
 
 Which is fine, but it's all going to go slower. 
@@ -91,7 +91,7 @@ Which is fine, but it's all going to go slower.
 Or you could shrink your focus: 
 
 <figure data-type="image">
-![](/webhook-uploads/1481573466627/2016-12-12---Focus-4.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481573466627/2016-12-12---Focus-4.jpg)
 </figure>
 
 Things happen much faster, but you can’t complain about not having enough money for auditions and supplies. 

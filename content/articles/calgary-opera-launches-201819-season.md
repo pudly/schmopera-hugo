@@ -19,7 +19,7 @@ Of its mainstage productions, the first is ***Roméo et Juliette*** by Charles G
 "While the ballet is often cut in nineteenth-century opera, I couldn't pass up the opportunity to bring Monsieur Grand-Maître's renowned choreography to the production," says Cerny. The extended ballet will include professional dancers and advanced students from Alberta Ballet. Of note, MacIntosh is a recent alumna of Calgary Opera's Emerging Artist Development Program.
 
 <figure data-type="image">
-![](/webhook-uploads/1521812583314/Romeo%26Juliette-Hero-Image.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521812583314/Romeo%26Juliette-Hero-Image.jpg)
 </figure>
 
 Calgary Opera dusts off ***Amahl and the Night Visitors*** by Gian Carlo Menotti for a run in December. Featuring members of the company's Emerging Artist Development Program, the production will also be looking for a boy soprano to fill the role of the titular Amahl, a crippled boy who is miraculously healed when he offers his cane to one of the Wise Men who are en route to Bethlehem to pay homage to the Christ child. Calgary Opera last staged Amahl thirty years ago, when a teenaged [Daniel Okulitch](/scene/people/daniel-okulitch/) shared the role with Yuri Hooker.
@@ -29,7 +29,7 @@ Continuing its tradition of premiere performances, Calgary Opera will stage the 
 "This story seemed to have all those big emotions, everything from love and death and hubris and heroism, " says Talbot. "People absolutely pushed to the full extremes of their mental and physical capacity. It's an interesting psychological journey through the minds of various different people."
 
 <figure data-type="image">
-![](/webhook-uploads/1521812659855/02-Keith-Cerny-introduces-Everest.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521812659855/02-Keith-Cerny-introduces-Everest.jpg)
 <figcaption>Keith Cerny introduces *Everest*, part of Calgary Opera's 2018/19 season. Photo by Oliver Munar.</figcaption>
 </figure>
 
@@ -40,13 +40,13 @@ Tenor Andrew Bidlack and bass-baritone Kevin Burdette, who premiered the roles o
 Calgary Opera will stage Giuseppe Verdi's ***Rigoletto*** April 6, 10 & 12, starring baritone [Gregory Dahl](/scene/people/gregory-dahl/) as the tragic court jester. Nikki Einfeld will play Rigoletto's daughter Gilda, while Leonardo Capalbo will play the philandering Duke. Michael Cavanagh will direct.
 
 <figure data-type="image">
-![](/webhook-uploads/1521812760516/Rigoletto-Hero-Image.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521812760516/Rigoletto-Hero-Image.jpg)
 </figure>
 
 In May, members of the Emerging Artist Development Program again take centre stage with ***Ghost Opera***, a collaboration with The Old Trout Puppet Workshop and The Banff Centre for Arts and Creativity. Inspired by an Ancient Greek ghost story, the opera is a lighthearted take on the supernatural and the afterlife. It features music by Canadian composer Veronika Krausas and a unique libretto by André Alexis.
 
 <figure data-type="image">
-![](/webhook-uploads/1521812770565/04-EADP-17-18-sing-excerpt-from-Ghost-Opera.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521812770565/04-EADP-17-18-sing-excerpt-from-Ghost-Opera.jpg)
 <figcaption>Calgary Opera's Emerging Artists sing an exceprt from *Ghost Opera*. Photo by Oliver Munar.</figcaption>
 </figure>
 

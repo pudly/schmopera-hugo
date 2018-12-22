@@ -22,7 +22,7 @@ Good singing means marrying technique with artistry in a way that they never get
 Sing your songs the way you hear them in your head. Find perspective and leave fear at home. Enjoy yourself. Be real. Be gentle with yourself, but be honest. Be kind. Just keep singing.
 
 <figure data-type="image">
-![](/webhook-uploads/1496718133577/2017-06-06---Promane---Brent-Calis-3.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496718133577/2017-06-06---Promane---Brent-Calis-3.jpg)
 <figcaption>Lyndsay Promane, mezzo-soprano. Photo: Brent Calis.</figcaption>
 </figure>
 

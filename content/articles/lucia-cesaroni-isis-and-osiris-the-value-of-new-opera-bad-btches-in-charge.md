@@ -25,7 +25,7 @@ There are a multitude of companies that have big budgets, and what's interesting
 
 I don't want to keep comparing to the States, but we're behind. We hate to admit it, but we are behind - and that's okay. We're a younger country, we're a younger industry. We may be behind here, but look at all the other places where we're ahead. It's very important to me that we find a way to secure a creative, successful, tenable way to secure a future for opera in Canada.
 
-<figure data-type="image">![](/webhook-uploads/1458654304215/CESARONI-PHOTO2014.jpg)<figcaption>Lucia Cesaroni, soprano.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458654304215/CESARONI-PHOTO2014.jpg)<figcaption>Lucia Cesaroni, soprano.</figcaption>
 </figure>
 
 ### Can you describe Peter Togni's score?
@@ -57,7 +57,7 @@ Hands down: "Work" by Rihanna and Drake. I saw the video, it kinda makes me wish
 Susanna in *Le nozze di Figaro* under the baton of James Conlon. It's my Italian debut and we're performing in Spoleto, Italy. I spent a lot of time in Italy growing up (my family has a house there) so I'm going to get to go around and visit some of my favourite places while I'm there. 
 
 <figure data-type="image">
-![](/webhook-uploads/1458652441256/2016-03-22---ISIS-and-Osiris_eFlyer.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458652441256/2016-03-22---ISIS-and-Osiris_eFlyer.jpg)
 </figure>
 
 ***

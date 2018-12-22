@@ -23,7 +23,7 @@ It's an impressive thought, to consider that a story like that of Tristan and Is
 "Love, or whatever you want to call that emotion, that trait that we as humans carry, starts with the moment we are born," says Mitisek. "We all hope that we become such an important person to someone, some time in our life."
 
 <figure data-type="image">
-![](/webhook-uploads/1526150600625/Mitisek.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526150600625/Mitisek.jpg)
 <figcaption>Andreas Mitisek, Artistic & General Director of Long Beach Opera, and stage director/video & projection designer of *The Love Potion*.</figcaption>
 </figure>
 

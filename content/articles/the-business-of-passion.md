@@ -21,7 +21,7 @@ I kind of dread being asked what I do. That's an awful thing to say, given what 
 "Wow!" – and then, shortly afterwards, almost inevitably – "How amazing to be following your passion!"
 
 <figure data-type="image">
-![](/webhook-uploads/1429832260631/passion-of-the-cellist1.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429832260631/passion-of-the-cellist1.jpg)
 <figcaption>What Passion Definitely Looks Like For Real, You Guys.</figcaption>
 </figure>
 

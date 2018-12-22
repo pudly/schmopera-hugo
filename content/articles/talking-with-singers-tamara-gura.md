@@ -26,7 +26,7 @@ Trust your uniqueness and what you have to say. Make it your goal to find out wh
 Transport the audience to a place where your passion lights a fire in them. They will see a part of themselves if you dare to offer an authentic portrayal. Don't be fearful of the unknown - that's where the best surprises often live!
 
 <figure data-type="image">
-![](/webhook-uploads/1518976002367/_MG_2867.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518976002367/_MG_2867.jpg)
 <figcaption>Photo: Uwe Arens.</figcaption>
 </figure>
 

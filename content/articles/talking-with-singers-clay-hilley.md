@@ -26,7 +26,7 @@ The music is often so strenuous - even for voices appropriate to the repertoire 
 Another temporary obstacle is youth. For the longest time, the toughest thing for me was evading debt collectors long enough to absorb as much as I could about style, language, and technique to eventually earn enough coins to appease them, however temporarily.  Impresarios are justifiably skeptical of 30 year old self-proclaimed "Heldentenors."  It takes a while to prove yourself to the casting crowd.
 
 <figure data-type="image">
-![](/webhook-uploads/1514911460549/f2b22b_987b9f3467744603a8e1967ca1fb329b~mv1.png)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514911460549/f2b22b_987b9f3467744603a8e1967ca1fb329b~mv1.png)
 <figcaption>Clay Hilley in the title role of *Siegfried*, Union Avenue Opera.</figcaption>
 </figure>
  

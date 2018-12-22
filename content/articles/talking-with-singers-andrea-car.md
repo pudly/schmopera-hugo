@@ -22,7 +22,7 @@ I see Don José as a passionate man, surely too passionate. But I also see him a
 Also, circumstances and environment can enormously affect enormously reactions and our perspective of things around us. I think that Don José is not a complete victim of his fate, and he is not an evil man. I think he is a fragile human being that happened to meet the wrong group of people in the wrong moment in his life.
 
 <figure data-type="image">
-![](/webhook-uploads/1517278903656/Andrea-Care%CC%80_-pc-Juan-Carranza.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517278903656/Andrea-Care%CC%80_-pc-Juan-Carranza.jpg)
 <figcaption>Andrea Carè, tenor. Photo: Juan Carranza.</figcaption>
 </figure>
 

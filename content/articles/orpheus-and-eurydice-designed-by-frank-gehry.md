@@ -17,7 +17,7 @@ title = "Orpheus and Eurydice, designed by Frank Gehry"
 	<em>Don Giovanni</em>, directed by Christopher Alden, with the Los Angeles Philharmonic (in <a href="http://www.latimes.com/entertainment/arts/disneyhall/la-et-cm-disney-hall-hawthorne-dto-htmlstory.html" target="_blank" data-mce-href="http://www.latimes.com/entertainment/arts/disneyhall/la-et-cm-disney-hall-hawthorne-dto-htmlstory.html">Walt Disney Hall</a>, of course). Here's a quick look:
 </p>
 <figure data-type="image">
-<a href="/webhook-uploads/1428713945882/GehryGiovanni.jpg">
+<a href="https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428713945882/GehryGiovanni.jpg">
 <img data-resize-src="http://lh3.googleusercontent.com/wlBfa2gUxwQ_0oooN-5T-pNXiS-INuCkq5Imm0Nz9jM_7S79iwfMm65cw6eAppcEuyUwfqzO1UTTffpxHQMn8sC2G9ed" src="http://lh3.googleusercontent.com/wlBfa2gUxwQ_0oooN-5T-pNXiS-INuCkq5Imm0Nz9jM_7S79iwfMm65cw6eAppcEuyUwfqzO1UTTffpxHQMn8sC2G9ed=s1200">
 </a>
 <figcaption>
@@ -26,14 +26,14 @@ title = "Orpheus and Eurydice, designed by Frank Gehry"
 	Taking a look at Jürgen Flimm's aesthetic, it appears that he and Gehry will have little trouble getting on the same page with this 
 	<em>Orpheus</em>. Flimm's work is quite architectural, with looming sets and eye-catching lines. He directed the <em>Salome</em> with Karita Mattila at the Metropolitan Opera in 2004, which was definitely striking. Take a look at his <em>Fidelio </em>at the Royal Opera House
 </p>
-<figure data-type="image"><a href="/webhook-uploads/1428713907488/FlimmFidelio-1024x733.jpg"><img data-resize-src="http://lh3.googleusercontent.com/UvB8kpIWPIES2O_c37Q8mK9HklAcsmSp2-fSV1ysLuwtLwbwdJhzEDRhAwZRfFaQ0-KgrTRT90HejnJ_379OIkmqKWY" src="http://lh3.googleusercontent.com/UvB8kpIWPIES2O_c37Q8mK9HklAcsmSp2-fSV1ysLuwtLwbwdJhzEDRhAwZRfFaQ0-KgrTRT90HejnJ_379OIkmqKWY=s1200"></a><figcaption>
+<figure data-type="image"><a href="https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428713907488/FlimmFidelio-1024x733.jpg"><img data-resize-src="http://lh3.googleusercontent.com/UvB8kpIWPIES2O_c37Q8mK9HklAcsmSp2-fSV1ysLuwtLwbwdJhzEDRhAwZRfFaQ0-KgrTRT90HejnJ_379OIkmqKWY" src="http://lh3.googleusercontent.com/UvB8kpIWPIES2O_c37Q8mK9HklAcsmSp2-fSV1ysLuwtLwbwdJhzEDRhAwZRfFaQ0-KgrTRT90HejnJ_379OIkmqKWY=s1200"></a><figcaption>
 A scene from Jürgen Flimm's 
 <em>Fidelio</em> at the Royal Opera House.</figcaption></figure>
 <p>
 	Or his 
 	<em>Manon Lescaut</em> in St. Petersburg in 2014:
 </p>
-<figure data-type="image"><a href="/webhook-uploads/1428713866739/FlimmManon.jpg"><img data-resize-src="http://lh3.googleusercontent.com/WnkCoRdBIaqhdaPKLFU5bK1jcGC62cdFopC_GwU-2i4lBdqaanq960gB1YQg3cUxyEXC4S9sv7mtJhrae78oolAvEJb1" src="http://lh3.googleusercontent.com/WnkCoRdBIaqhdaPKLFU5bK1jcGC62cdFopC_GwU-2i4lBdqaanq960gB1YQg3cUxyEXC4S9sv7mtJhrae78oolAvEJb1=s1200"></a>
+<figure data-type="image"><a href="https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428713866739/FlimmManon.jpg"><img data-resize-src="http://lh3.googleusercontent.com/WnkCoRdBIaqhdaPKLFU5bK1jcGC62cdFopC_GwU-2i4lBdqaanq960gB1YQg3cUxyEXC4S9sv7mtJhrae78oolAvEJb1" src="http://lh3.googleusercontent.com/WnkCoRdBIaqhdaPKLFU5bK1jcGC62cdFopC_GwU-2i4lBdqaanq960gB1YQg3cUxyEXC4S9sv7mtJhrae78oolAvEJb1=s1200"></a>
 <figcaption>
 A scene from 
 <em>Manon Lescaut</em>, directed by Jürgen Flimm, 2014. Photo: mikhailovsky.ru.</figcaption></figure>

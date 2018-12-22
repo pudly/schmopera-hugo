@@ -18,7 +18,7 @@ title = "Opera in Spring"
 <p>
 	<strong>April 24-26</strong>: <a href="http://www.metroyouthopera.ca/" target="_blank">Metro Youth Opera</a> is putting up another fairly rare opera, Mozart's <em>Béatrice et Bénédict</em>. Rob Herriot adapts the original production by <a href="https://twitter.com/alleywo" target="_blank">Alison Wong</a>, which stars mezzo-soprano Simone McIntosh and tenor Asitha Tennekoon in the title roles. <em>Béatrice</em> runs for three performances starting April 24th, at the Aki Studio Theatre, 585 Dundas St. E. Full casting details and ticket information <a href="http://www.metroyouthopera.ca/201415-season/" target="_blank">can be fond here</a>.
 </p>
-<figure data-type="image"><a href="/webhook-uploads/1428717616453/JohnRelyea-pc-ShirleySuarez.jpg"><img data-resize-src="http://lh3.googleusercontent.com/f5sboKJKRkRhXmuE-Rvv4SM8d193_OVxKP8NlGhd2OWyM-yEf2apUz6_CKKKv7eSviDZFx2VJZD4qatc85bH97_ZKn_8" src="http://lh3.googleusercontent.com/f5sboKJKRkRhXmuE-Rvv4SM8d193_OVxKP8NlGhd2OWyM-yEf2apUz6_CKKKv7eSviDZFx2VJZD4qatc85bH97_ZKn_8=s1200"></a><figcaption>
+<figure data-type="image"><a href="https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428717616453/JohnRelyea-pc-ShirleySuarez.jpg"><img data-resize-src="http://lh3.googleusercontent.com/f5sboKJKRkRhXmuE-Rvv4SM8d193_OVxKP8NlGhd2OWyM-yEf2apUz6_CKKKv7eSviDZFx2VJZD4qatc85bH97_ZKn_8" src="http://lh3.googleusercontent.com/f5sboKJKRkRhXmuE-Rvv4SM8d193_OVxKP8NlGhd2OWyM-yEf2apUz6_CKKKv7eSviDZFx2VJZD4qatc85bH97_ZKn_8=s1200"></a><figcaption>
 John Relyea, bass. Photo: Shirley Suarez.
 </figcaption></figure>
 <p>

@@ -47,7 +47,7 @@ Here's how our conversation went, and I'll warn you, it's very hard to discern t
 **Gabriel**: You know, it's really hard to sing while moving around. You lose all this technique and skill that you've learned just goes out the window so you have to teach yourself how to do both at the same time. 
 
 <figure data-type="image">
-![](/webhook-uploads/1465205551510/2016-06-06---Hobbit-2.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465205551510/2016-06-06---Hobbit-2.jpg)
 <figcaption>l-r:  Connor Ross, Gabriel Gough, Giles Tomkins, Maaike van Benthem and Frances Quilty.</figcaption>
 </figure>
 

@@ -18,14 +18,14 @@ William Golding's 1954 novel was a staple of high school English class, a commen
 One of the cornerstone stories of my childhood, Roald Dahl's 1982 children's book, *The BFG* (short for Big Friendly Giant), would make a beautiful opera for audiences of all ages. Perhaps the next great soubrette role could be Sophie, the little orphaned girl who gets plucked out of her bed one night by the BFG (but also rescued from the mean lady at the orphanage, Mrs. Clonkers). The Giant himself could be a glorious bass, a little like the title character in Massenet's *Don Quichotte*. There are mean giants, too; the Bloodbottler and the Fleshlumpeater are potentially the Fasolt and Fafner of the 21st century. 
 
 <figure data-type="image">
-![](/webhook-uploads/1452909206980/2016-01-16---BFG.jpg)<figcaption>Illustration by Quentin Blake, from Roald Dahl's *The BFG*.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452909206980/2016-01-16---BFG.jpg)<figcaption>Illustration by Quentin Blake, from Roald Dahl's *The BFG*.</figcaption>
 </figure>
 
 ## *American Psycho*
 
 True, there's a Broadway musical based on Bret Easton Ellis' 1991 story of New York City yuppie society and what the game does to the hardest of players. The music could be a cool, intertwining homage to some of Bateman's favourite artists, like Huey Lewis & the News and Phil Collins. I hear Patrick Bateman as a piercing bass, sort of like the cold steel in John Relyea's voice. Find a coloratura soprano for his girlfriend, Evelyn, a mezzo for his secretary, Jean, some lyric soprano lines for his women of the night, and an endless trail of clone baritones to sing Timothy Price, Paul Allen, and every other faceless Wall Street guy in a great suit and a white business card. Speaking of which, can we get someone to write "The Business Card Quartet"?
 
-<figure data-type="image">![](/webhook-uploads/1452908769044/2016-01-16---Bateman.jpg)<figcaption>Patrick Bateman belting out a high note.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452908769044/2016-01-16---Bateman.jpg)<figcaption>Patrick Bateman belting out a high note.</figcaption>
 </figure>
 
 ## *The Beach*
@@ -36,7 +36,7 @@ Another opportunity for some cool ensemble writing could be an operatic version 
 
 It's true that opera might be a difficult genre in which to tell the entirety of Hunter S. Thompson's drug-fuelled, quasi auto-biographical romp through Nevada. Yet, I see it as a hazy story, with the music taking on the brunt of the surrealist, blurred reality of Raoul Duke and his attorney, Dr. Gonzo. Think about it: bizarre duets in that desert-bound convertible, casino sounds morphing in the LSD fog, and the potential for a chorus of porcine police officers. It should probably be written by Mark-Anthony Turnage, too.
 
-<figure data-type="image">![](/webhook-uploads/1452908819642/2016-01-16---Fear-and-Loathing.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452908819642/2016-01-16---Fear-and-Loathing.jpg)
 <figcaption>Illustration by Ralph Steadman, from Hunter S. Thompson's *Fear and Loathing in Las Vegas*.</figcaption>
 </figure>
 

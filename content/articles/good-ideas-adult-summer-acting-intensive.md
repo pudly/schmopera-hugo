@@ -19,5 +19,5 @@ Singers, you're all pros at making the most out of your summer education, and su
 To find out more about Ryerson's Summer Acting Intensive, send your questions to [rts.summer@ryerson.ca](mailto:rts.summer@ryerson.ca), or call 416-979-5086. To register, [click here](https://www.eply.com/RyersonTheatreSchoolAdultSummerActingIntensive1463316).
 
 <figure data-type="image">
-![](/webhook-uploads/1459848405287/Summer-Acting-Intensive-Postcard-1.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459848405287/Summer-Acting-Intensive-Postcard-1.jpg)
 </figure>

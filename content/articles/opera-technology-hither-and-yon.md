@@ -21,7 +21,7 @@ To paraphrase Shakespeare and as purists would contend, the voice is the thing. 
 But the fact remains that the illusion begins with the creation of a visual Callas. A body double was trained to duplicate Callas' distinct posture and mannerisms. Then her striking features were digitally transposed on to the filmed image of the double and the visual source material was born.
 
 <figure data-type="image">
-![](/webhook-uploads/1522463124585/Callas-w-conductor.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522463124585/Callas-w-conductor.jpg)
 <figcaption>BASE Hologram interactive concert performance with Maria Callas at the Jazz at Lincoln Center Frederick P. Rose Hall on Sunday, January 14, 2018 in New York.</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ Images, moving and otherwise, appeared on a scrim in front of the stage and on a
 The promised 3-D sets consisted mainly of photographs of a luxurious hotel room, an empty restaurant and an interior that looked like a page from an IKEA catalog. Film and animation projections included aerial footage of Manhattan and Niagara Falls by night, streaming stardust, cascading rose petals and an ascending angel. The cumulative result was purported to smash opera conventions. They remained intact.
 
 <figure data-type="image">
-![](/webhook-uploads/1522463579271/EJL-180320-1875.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522463579271/EJL-180320-1875.jpg)
 <figcaption>Alex Richardson as Alfredo and Karen Chila-ling Ho in the PONY production of Verdi's *La Traviata*. © 2018 ed Lefkowicz / lefkowicz.com.</figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ Project Hand in Hand, partnering with PONY, provides performance opportunities t
 
 
 <figure data-type="image">
-![](/webhook-uploads/1522463139742/GerDancerVio.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522463139742/GerDancerVio.jpg)
 <figcaption>Robert Kerr as Germont, modern dancer, Kiki Cat and Karen Chila-linh Ho as Violetta in the PONY production of Verdi's *La Traviata*. © 2018 ed Lefkowicz / lefkowicz.com.</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ Atsushi Yamada's conducting was efficient and meticulous, though he did not imbu
 The technical effects compromised what was otherwise a respectable *La Traviata*. The artistic forces behind the production seemed more intent on creating a high-energy spectacle rather than a powerful romantic tragedy. At times the effects undercut the efforts of its earnest singers. PONY would do well to focus its resources on what it does best--providing a forum for emerging musicians, in this case, opera singers, just as it does with the orchestra and through its Hand to Hand choir partnership.
 
 <figure data-type="image">
-![](/webhook-uploads/1522463532236/Ring-of-Fire.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522463532236/Ring-of-Fire.jpg)
 <figcaption>Larrson Suzuki dances with a ring of fire in the PONY production of Verdi's *La Traviata*. © 2018 ed Lefkowicz / lefkowicz.com.</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ The curtain calls received rapturous response at the 2015 Salzburg Easter Festiv
 Stage director and set designer, Philipp Stolzl's melding of these two verismo mainstays jolted the senses with a stage design that included six playing areas on two levels. Scene changes flowed as smoothly and as frequently as motion picture fades. Close-up projections heightened the passions of the operas. The stage areas, often combining to form one larger area on the lower level, alternately offered atmospheric material in addition to close-ups, and simultaneous happenings. 
 
 <figure data-type="image">
-![](/webhook-uploads/1522463170594/vlcsnap_Pictures_cavandpagsalzburgnoredbull00053.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522463170594/vlcsnap_Pictures_cavandpagsalzburgnoredbull00053.jpg)
 <figcaption>In *Cavalleria Rusticana*, Turridu (Jonas Kaufmann), left, is having an affair with Lola, wife of Alfio (Ambrogio Masteri). Turiddu has just bitten Alfio's ear, signifying that one of them must die as a result of a duel with knives, according to "country honor." ©2016 Unitel Classica/Sony Classical.</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Kaufmann, as Turiddu, after what appeared to be a slightly unsteady start, thoug
 After intermission, or rather a change of disks in this two DVD set, the curtain rises on a garish, Technicolor inspired *Pagliacci*. While *Cav* wraps itself in the black and white of strict behavioral codes, *Pag* is about the consequences of unhinged passions and tempers. Of course it plays in color, as close to gaudy Technicolor as stage reality can get, and what a visual shock it is. 
 
 <figure data-type="image">
-![](/webhook-uploads/1522463183303/vlcsnap_Pictures_cavandpagsalzburgnoredbull00060.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522463183303/vlcsnap_Pictures_cavandpagsalzburgnoredbull00060.jpg)
 <figcaption>Here is an audience view of the six playing areas used in both *Pagliacci* (pictured here in garish colors) and in *Cavalleria Rusticana* in somber black & white settings. The lower sections combine to create a larger playing area while all include screens for close-ups and other projected material. ©2016 Unitel Classica/Sony Classical.</figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ You may wish to turn up the volume or use earphones to fully appreciate Christia
 Here motion picture technology plays a conceptual as well as technical role in shaping this *Cav/Pag* and the results are stunning to the eye and ear. Undeniably, this all took place in one of the most operatically advantaged environments in the world, but the lessons are transferable.
 
 <figure data-type="image">
-![](/webhook-uploads/1522463202463/vlcsnap_Pictures_cavandpagsalzburgnoredbull00106.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522463202463/vlcsnap_Pictures_cavandpagsalzburgnoredbull00106.jpg)
 <figcaption>Jonas Kaufmann as Canio in *Pagliacci* who has discovered his wife's infidelity and contemplates how to punish her and her lover. ©2016 Unitel Classica/Sony Classical.</figcaption>
 </figure>
 

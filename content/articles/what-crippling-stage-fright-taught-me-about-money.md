@@ -32,7 +32,7 @@ I couldn't leave this thing that used to bring me so much joy… at least not li
 So. I found a new teacher and we got to work - by painstakingly building up my technique and my shattered confidence.
 
 <figure data-type="image">
-![](/webhook-uploads/1479221132217/2016-11-16---Stage-Fright-1.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479221132217/2016-11-16---Stage-Fright-1.jpg)
 </figure>
 
 **Technique is a funny thing.**
@@ -82,13 +82,13 @@ I'm not going to just serve up a bunch of nice ideas and a fun story about a ten
 
 [Here's a 10 day email guide](http://www.ragstoreasonable.com/intro-to-your-money/) to help you get control over your money (great for people who don't know where to start)!
 
-<a href="http://www.ragstoreasonable.com/intro-to-your-money/" target="blank"><figure data-type="image">![](/webhook-uploads/1479221461499/2016-11-16---Intro-to-money---cartoon-ad.jpg)
+<a href="http://www.ragstoreasonable.com/intro-to-your-money/" target="blank"><figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479221461499/2016-11-16---Intro-to-money---cartoon-ad.jpg)
 </figure>
 </a>
 
 [Here's a FREE spreadsheet](http://www.ragstoreasonable.com/variable-income-opera/) to help you compare variable income and variable expenses over the course of a year. 
 
-<a href="http://www.ragstoreasonable.com/variable-income-opera/" target="blank"><figure data-type="image">![](/webhook-uploads/1479221607776/2016-11-16---Variable-Income-2.jpg)</figure></a>
+<a href="http://www.ragstoreasonable.com/variable-income-opera/" target="blank"><figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479221607776/2016-11-16---Variable-Income-2.jpg)</figure></a>
 
 And if you just need someone to talk to… I have weekly office hours… where you can schedule a free 30 minute Skype session to talk to a real person about your money. It's a great place to come to if you really don't know what to do first.
 

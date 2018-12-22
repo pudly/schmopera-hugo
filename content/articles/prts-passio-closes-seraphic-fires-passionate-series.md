@@ -17,7 +17,7 @@ Text and narrative took a backseat to phrasing and colour, with Seraphic Fire's 
 "This is a piece that is better seen as a forest rather than trees," Quigley advised during his lecture. "Allow the flow of the piece to be something that you yourself become a part of [...] Allow yourself to exist in this music."
 
 <figure data-type="image">
-![](/webhook-uploads/1523898333828/SFGroup.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523898333828/SFGroup.jpg)
 <figcaption>Sephardic Fire.</figcaption>
 </figure>
 

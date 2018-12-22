@@ -17,7 +17,7 @@ First and foremost, because of a love for the art form. When a person doesn't re
 
 Bánk, first of all, is a man of strength and character. These are his most important attributes and what allow him to come across as a heroic figure. At the same time, he is a victim, just like in a Greek tragedy. He is trapped by enormous feelings that no man could bear. The love for his homeland and the sanctity of the family… the destruction of these sacred things force him to constantly choose. He is faced with dilemmas that are unknown to ordinary people, who only experience them through this tragic hero - watching aghast as they imagine what they would do in his place. He is a character of deep integrity, the kind of person we all hope we are or at least strive to be.
 
-<figure data-type="image">![](/webhook-uploads/1539789177647/bank_ban1_photo_by_attila_nagy.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539789177647/bank_ban1_photo_by_attila_nagy.jpg)
 <figcaption>
 Levente Molnár in the title role of *Bánk bán*, Hungarian State Opera. Photo: Attila Nagy.</figcaption>
 </figure>
@@ -26,7 +26,7 @@ Levente Molnár in the title role of *Bánk bán*, Hungarian State Opera. Photo:
 
 To expand on what I said before, about needing the right knowledge and a moving experience to fall in love with opera, our job as artists is to make it known and give the opportunity for such an experience. While there are distinctly Hungarian aspects to *Bánk bán*, these are elevated to a universal dimension just like in Greek or Shakespearean tragedies. The emotional intensity, the sense of destiny, the attachment to home… it's all important and universal, such that this music can be touching to everyone. The story is richly written, exploring many different emotional levels with clear characterization; we as artists only have to convey them; this is our task. Now we are taking an important step in bringing *Bánk bán* to a wider audience. It's an honor to be able to bring to the U.S. this opera that has become so emblematic - like a monument - in Hungary.
 
-<figure data-type="image">![](/webhook-uploads/1539789187593/bank_ban2_photo_by_attila_nagy.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539789187593/bank_ban2_photo_by_attila_nagy.jpg)
 <figcaption>
 Levente Molnár in the title role of *Bánk bán*, Hungarian State Opera. Photo: Attila Nagy.</figcaption>
 </figure>
@@ -35,7 +35,7 @@ Levente Molnár in the title role of *Bánk bán*, Hungarian State Opera. Photo:
 
 That's difficult to answer and not something I've really thought about yet. I think that the level of audience engagement from the performer's standpoint can vary as much as the quality of different productions varies from the audience's point of view. Perhaps the freshness and unfamiliarity of *Bánk bán* in the U.S. will make the story, as it unfolds on the stage, especially gripping to American audiences. However, I have also experienced very sincere, touching reactions at home. I love my audiences, and I love to be loved. It's very nice when such a relationship can blossom, and I don't wish to offend anyone by making distinctions. I only hope we can make American audiences love this production of *Bánk bán*, our national opera that is so important to us. This tragedy - our tragedy - deserves to be known by the whole world, and it's one way that we as Hungarians can show the place and relevance of our culture nowadays, our history and our calling.
 
-<figure data-type="image">![](/webhook-uploads/1539789196086/bank_ban4_photo_by_attila_nagy.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539789196086/bank_ban4_photo_by_attila_nagy.jpg)
 <figcaption>
 Levente Molnár in the title role of *Bánk bán*, Hungarian State Opera. Photo: Attila Nagy.</figcaption>
 </figure>
