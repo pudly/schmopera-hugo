@@ -1,0 +1,41 @@
+---
+label: Author
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: name
+  label: Name
+  config:
+    required: true
+- type: text
+  name: slug
+  label: Slug
+  config:
+    required: true
+- type: file
+  name: primary_image
+  label: Primary Image
+- type: textarea
+  name: short_bio
+  label: Short bio
+  description: One or two sentences for a short biography
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: text
+  name: email
+  label: Email Address
+- type: text
+  label: Website
+  name: website
+  description: Must be complete URL (https://www.website.com)
+- type: text
+  label: Twitter
+  name: twitter
+  description: Must be complete URL (https://www.twitter.com/username)
+- type: text
+  label: Facebook
+  name: facebook
+  description: Must be complete URL (https://www.facebook.com/username)
