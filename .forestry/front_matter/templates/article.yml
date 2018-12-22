@@ -84,3 +84,7 @@ fields:
   name: companies
   label: Companies
   description: Companies mentioned in this article
+- type: text
+  name: youtube_url
+  label: Youtube URL
+  description: If this is a Video Post, paste full Youtube URL with HTTPS
