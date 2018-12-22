@@ -64,9 +64,15 @@ fields:
 - type: image_gallery
   name: image_gallery
   label: Image Gallery
-- type: field_group_list
+- type: list
   name: related_articles
   label: Related Articles
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: articles
+  default: []
 - type: field_group_list
   name: people
   label: People
