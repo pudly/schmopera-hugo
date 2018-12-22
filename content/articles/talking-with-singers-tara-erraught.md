@@ -1,51 +1,37 @@
 +++
 categories = "Interview"
-date = "2018-03-20T21:09:00-04:00"
-lastmod = "2018-04-05T14:40:00-04:00"
-preamble = "Irish mezzo-soprano [Tara Erraught](/scene/companies/tara-erraught/) is making a bit if history with her upcoming run as Susanna in Mozart's [*Le nozze di Figaro*](http://www.irishnationalopera.ie/whats-on/current-upcoming-productions/the-marriage-of-figaro). [Irish National Opera](/scene/companies/irish-national-opera/), newly formed with the merging of two of Ireland's most important producers, Wide Open Opera and Opera Theatre Company, presents Mozart's operatic cornerstone as their [first major new production](http://www.irishnationalopera.ie/whats-on/current-upcoming-productions/the-marriage-of-figaro). Erraught will make a much-anticipated return home for the production, marking a special combination of her work as an internationally acclaimed mezzo-soprano, and an artistic partner of INO.\n\nWe spoke with Erraught about the opera scene in Ireland, her evolving professional wish-list, and why an opera singer's support system is as invaluable as a healthy instrument."
-publishDate = "2018-04-04T21:38:00-04:00"
-short_description = "&quot;It never gets easier to say no to an interesting offer, even though you may well know you don&#039;t have the time, so your management team and your teacher are vital in guiding you at every step in what is a healthy decision, always.&quot;"
+date = "2017-02-15T13:10:00-05:00"
+lastmod = "2018-04-05T11:44:00-04:00"
+preamble = "Before she dives in to the Komponist in Strauss' *Ariadne auf Naxos* in Munich, and Rosina in *Il barbiere di Siviglia* in Berlin, Irish mezzo-soprano [Tara Erraught](/scene/people/tara-erraught/) stop in London, to sing at Wigmore Hall in the Rosenblatt Recitals Series. On [**March 6, 7:30pm**](http://www.rosenblattrecitalseries.co.uk/recital.aspx?key=172), Erraught is joined by pianist [James Baillieu](/scene/people/james-baillieu/) and clarinettist Ulrich Pluta for a program of Schubert, Mozart, Rossini, and more obscure picks by Louis Spohr and and Franz Lachner. \n\nWe spoke with Erraught about how she gets into the trouser-role spirit, and the acute differences between singing opera, and giving a recital."
+publishDate = "2017-02-16T04:08:00-05:00"
+short_description = "&quot;I also adore singing Hansel, as I feel like I play exactly as my brother was when we were children, and let me tell you, boys have more fun! (They don&#039;t care about keeping their clothes clean, or sitting up straight, or how their hair looks... they just eat, play and are merry!)&quot;"
 slug = "talking-with-singers-tara-erraught"
-title = "Talking with singers: Tara Erraught"
+title = "Tara Erraught: &quot;My job is to tell a story.&quot;"
 +++
 
-## With a piece like *Le nozze di Figaro*, what balance do you find between comedy and drama?
+## Why do you sing professionally?
 
-In all acting you must throw yourself fully into the role, not playing funny or playing dramatic, simply being in the character, truly, drives the emotion, whatever that might be. In each situation you have to let the character drive the emotion. Your colleagues also play a part in how much that swings in and out between comedy and seriousness, as their reactions to you and vice versa are all organic and in the moment. 
+At my very first singing lesson, I learned that my job as a singer is to tell a story, to transport people into the world of the song. I love being able to take an audience on a journey, be it in opera or recital, your audience is there to experience something, and it is your job to bring them on the journey. It's very exciting! 
 
-## What is the current opera scene like in Ireland?
+## Do you have any roles with whom you identify or connect closely?
 
-It is a very exciting time for opera in Ireland, as we are about to have our first premiere production from our new national opera company, [Irish National Opera](/scene/companies/irish-national-opera/) (INO). Ireland has a hugely fruitful legacy of opera singers, like Margaret Burke-Sheridan (who was famously loved by Puccini), William Michael Balfe (whom Rossini chose to sing Figaro in the Venice premiere of *Barbiere*), John McCormack... Veronica Dunne (whom I studied with and continue to work with), and Suzanne Murphy - all of who have taught a lot of Ireland's current opera singers. 
+I had the pleasure last season to debut the role of Susanna in *Le Nozze di Figaro*, and even my close friends would tell you, that her character is so very close to my own, it's amazing! I also adore singing Hansel, as I feel like I play exactly as my brother was when we were children, and let me tell you, boys have more fun! (They don't care about keeping their clothes clean, or sitting up straight, or how their hair looks... they just eat, play and are merry!) 
 
-To have such a rich tradition of singers with big international careers, it was imperative that we find the opportunity to perform also at home. Fergus Sheil, Artistic Director of INO, has tirelessly fought to find a platform for Irish singers to be able to perform at home, and now we have it!
+## Do you have any tricks for playing male characters?
 
-## What do Irish audiences want to hear, and how well is opera supported by the public?
-
-In my experience thus far, the audiences are very, very eager!
- 
-I have done many gala concerts with the RTÉ National Symphony Orchestra in Dublin, and I have found the audience were so appreciative of every different type of repertoire I presented, which only adds to my excitement with the new opera company. 
-
-Ireland is a land of arts and culture - the arts are part of our DNA! Every school child learns to sing or dance or act or play an instrument - it's part of our heritage. This new production of Mozart's *Le nozze di Figaro*, where I shall sing Susanna, it is only my third operatic performance on home soil. I can, with my hand on my heart, say that Irish people are wonderful at supporting home grown talent.
-
-Also, as an artistic partner of INO, I can bring the experiences I have learned abroad, home.
-
-I fully credit my career to date to the strong arts foundation I received in Ireland. We have a wonderful tradition of church choirs, music, dancing and drama in schools, each child gets this artistic exposure. We also have a splendid tradition of Feis ceoil, which is Gaelic for music competition. It's a wonderful performance opportunity for adults and children alike. You can compete in music, dancing and speech & drama. I feel these experiences and my musical education at the Royal Irish Academy fully prepared me to begin my professional career in Germany.
+I usually try and wear flat shoes during the entire rehearsal period. Whether at rehearsals or privately. I do a lot of yoga to loosen my hips and shoulders, and I sit differently, I am very careful not to sit and directly cross my legs...little habitual things. 
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522941945639/0116-Tara-Erraught-HI-RES.jpg)
-<figcaption>Tara Erraught, mezzo-soprano. Photo: Kristin Hoebermann.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487182821711/2017-02-16---Tara_Erraught.jpg)
+<figcaption>Tara Erraught, mezzo-soprano. Photo courtesy of IMG Artists.</figcaption>
 </figure>
 
-## Do you have any roles or venues still on your career wish-list?
+## What do you find is different about singing a recital versus singing a role?
 
-*A lot!* I would love to sing in ROH Covent Garden, and explore more of the US houses also. Repertoire wise, the wish list is endless! I would love to do some baroque repertoire, Ariodante, Ruggerio in *Alcina*, a lot of Handel. Also, more bel canto, Donna del Lago, Adalgisa in *Norma*, Orsini in *Lucrezia Borgia*, and of course I would love to do Romeo in *Capuleti* again! 
+An opera role is singing one person's story in detail over an evening's performance. In an opera you sing someone else's story, imagining their experiences. A recital is a selection of stories, colours, languages, composers... using only the singer's own life experience as colours. It's also a much more intimate performance opportunity to work with the energy coming from the audience. 
 
-But I am also looking forward to get to really know roles I have already debuted, like Octavian and Komponist. The more I work the more I can see that it is so enjoyable to revisit a role! It's different every time.
+## If you didn't sing for a living, what do you think you would do instead?
 
-## What do you know now about the singing career that you wish you knew 10 years ago?
+I think I would have gone into the hospitality industry, as a hotel manager or something along those lines. My parents are both chefs, and I believe our industries are strongly linked together. Each evening a new audience, different taste, a performance. 
 
-That it is very difficult to find sufficient calm time to study, so learn as much as you can as early as you can! If I think of the two roles I sing most, Rosina and Cenerentola, I learnt them both in college, I know them inside out, back to front and upside down. I had no idea at the time how valuable that study would be!
-
-That it's not just you who makes sacrifices for your career, but also your family.
-
-It never gets easier to say no to an interesting offer, even though you may well know you don't have the time, so your management team and your teacher are vital in guiding you at every step in what is a healthy decision, always. I feel so very lucky to have such a team around me, and had I known this ten years ago, I wouldn't have been so worried about knowing what I could and couldn't do.
+>Tara Erraught performs at Wigmore Hall, March 6th at 7:30pm. For details and tickets, [click here.](http://www.rosenblattrecitalseries.co.uk/recital.aspx?key=172)
