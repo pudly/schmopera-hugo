@@ -12,12 +12,15 @@ fields:
   name: slug
   label: Slug
   description: Optional URL Slug
-- type: select
+- type: list
   name: author
+  label: Author(s)
+  description: ''
   config:
+    use_select: true
     source:
-      type: documents
-  label: Author
+      type: pages
+      section: authors
 - type: select
   name: categories
   config:
