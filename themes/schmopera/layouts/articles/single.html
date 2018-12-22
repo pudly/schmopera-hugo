@@ -78,7 +78,7 @@
       <h1><span>{{ .Title }}</span></h1>
 
       <span class="post--meta">
-        <em class="post--meta-date">{{ .Date.Format "Mon Jan 2, 2006" }}</em>
+        <em class="post--meta-date">{{ .Date.Format "Jan 2, 2006" }}</em>
 
         {{/* TODO 
         {% for relation in item.authors %}
@@ -93,7 +93,6 @@
       </span>
     </section>
     {{ with .Params.primary_image_credit }}
-    {% if item.primary_image_credit %}
       <span class="post--single_hero-credit">{{ . }}</span>
     {{ end }}
 
@@ -116,21 +115,21 @@
   {{ end }}
 
 
-  {# Preamble #}
-    {% if item.preamble %}
+  {{/* Preamble */}}
+  {{ with .Params.preamble }}
     <section class="post--single_preamble">
-      { item.preamble|markdown }
+      {{ . }}
     </section>
-    {% endif %}
+  {{ end }}
 
 
-  {# Post Content #}
+  {{/* Post Content */}}
     <section class="post--single_body">
       {{ .Content }}
     </section>
 
 
-  {# Image Gallery #}
+  {{/*
     {% if item.gallery|size !== 0 %}
     <section class="post--single_gallery">
       <h2 class="pill">Gallery</h2>
@@ -151,9 +150,9 @@
       document.addEventListener('DOMContentLoaded', function() { initGallery(); });
     </script>
     {% endif %}
+  */}}
 
-
-  {# Social media integration #}
+  {{/* Social media integration */}}
     <section class="post--single_social">
       <nav class="nav--share">
         <a href="https://www.facebook.com/sharer/sharer.php?u={ site_url }{ url(item)|replace('&', '&amp;', 'g') }" class="social--facebook pill"><i class="icon-facebook"></i> Facebook <em class="social--count_facebook" data-url="{ site_url }{ url(item)|replace('&', '&amp;', 'g') }"></em></a>
@@ -161,13 +160,17 @@
       </nav>
     </section>
 
-  {# Adspot 1 #}
+  {{/* Adspot 1 */}}
     <section class="post--single_adspot">
-{% include "templates/partials/ad-spot1.html" %}
+      {{- partial "ad-spot1.html" . -}}
     </section>
 
 
-  {# Author details #}
+  {{/* 
+    
+    TODO:
+    Author details
+
     <section class="post--single_authors">
       <h2 class="pill">Written by</h2>
     {% for author in item.authors %}
@@ -189,9 +192,14 @@
       </div>
     {% endfor %}
     </section>
+    
+  */}}
 
-
-  {# Prev/Next Posts #}
+  {{/*
+    
+    TODO:    
+    Prev/Next Posts
+    
     <nav class="post--single_jump">
     {% set prev = prevItem(item, 'publish_date', true) %}
     {% set next = nextItem(item, 'publish_date', true) %}
@@ -230,9 +238,14 @@
       </a>
     {% endif %}
     </nav>
+  
+  */}}
 
-
-  {# Related Content #}
+  {{/* 
+    
+    TODO:
+    Related Content 
+    
     {% if item.related_articles|size !== 0 || item.related_videos|size !== 0 %}
     {% set relitems = merge(item.related_articles, item.related_videos) %}
     {% set relitems = relitems|sort('publish_date', true) %}
@@ -264,8 +277,13 @@
     </section>
     {% endif %}
 
+  */}}
 
-  {# People and Companies - The Scene #}
+  {{/* 
+    
+    TODO:
+    People and Companies - The Scene
+
     {% if item.people|size !== 0 || item.companies|size !== 0 %}
     <section class="post--single_scene">
       <h2 class="pill">The Scene</h2>
@@ -301,61 +319,10 @@
       {% endif %}
     </section>
     {% endif %}
+  
+  */}}
 
-
-  {# Box Office #}
-    {% if item.box_office|size !== 0 %}
-    <section class="post--single_boxoffice">
-      <h2 class="pill">Box Office</h2>
-      <ul>
-      {% for row in item.box_office %}
-        <li>
-          <section>
-          {% if row.logo %}
-            {% set srcset = row.logo|imageCrop(150, 150) + ", " +  row.logo|imageCrop(300, 300) + " 2x" %}
-            <picture>
-              <source srcset="{ srcset }" media="(min-width: 40em)">
-              <img src="{ row.logo|imageCrop(150, 150) }" alt="{ row.title }">
-            </picture>
-          {% endif %}
-
-            <div>
-              <h3>{ row.title }</h3>
-
-              {% if row.description %}
-                <div class="post--single_boxoffice-desc">{ row.description|markdown }</div>
-              {% endif %}
-            </div>
-          </section>
-          <footer>
-          {% if row.more_info_url || row.tickets_url %}
-            <nav class="post--single_boxoffice-nav">
-              {% if row.more_info_url %}
-              <a href="{ row.more_info_url }" target=_blank class="btn">More information</a>
-              {% endif %}
-              {% if row.tickets_url %}
-              <a href="{ row.tickets_url }" target=_blank class="btn">Buy Tickets</a>
-              {% endif %}
-            </nav>
-          {% endif %}
-          {% if row.starts_on %}
-            <p class="post--single_boxoffice-duration">
-              {% if row.ends_on %}
-              { row.starts_on|date('F d, Y') }&nbsp;to&nbsp;{ row.ends_on|date('F d, Y') }
-              {% else %}
-              { row.starts_on|date('F d, Y') }
-              {% endif %}
-            </p>
-          {% endif %}
-          </footer>
-        </li>
-      {% endfor %}
-      </ul>
-    </section>
-    {% endif %}
-
-
-  {# Comments from Disqus #}
+  {{/* Comments from Disqus */}}
     <section class="post--single_comments" id="comments">
       <h2 class="pill">Comments</h2>
 
