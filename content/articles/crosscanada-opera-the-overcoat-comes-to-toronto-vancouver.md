@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2017-03-02T15:06:00+00:00"
 lastmod = "2017-03-02T17:26:00+00:00"
 publishDate = "2017-03-02T17:26:00+00:00"
-short_description = "The Overcoat: An Opera has its roots in the 1998 Canadian play by Morris Panych and Wendy Gorling. Rolfe's operatic adaptation is a co-commission with Tapestry Opera and Vancouver Opera, and a co-production between Tapestry, VO, and Canadian Stage."
+short_description = "The Overcoat: An Opera has its roots in the 1998 Canadian play by Morris Panych and Wendy Gorling. Rolfe&#039;s operatic adaptation is a co-commission with Tapestry Opera and Vancouver Opera, and a co-production between Tapestry, VO, and Canadian Stage."
 slug = "crosscanada-opera-the-overcoat-comes-to-toronto-vancouver"
 title = "Cross-Canada opera: The Overcoat comes to Toronto &amp; Vancouver"
 +++

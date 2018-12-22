@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-05-24T09:59:00+01:00"
 lastmod = "2016-05-24T13:22:00+01:00"
 publishDate = "2016-05-24T13:22:00+01:00"
-short_description = "From our place in history, with well over a century of hindsight, Verdi's Requiem can feel like a meta work; it's as though these beloved characters make a cameo, like a \"operatic special\", sharing the stage to perform a work that seems to evoke a first-person delivery by Verdi of these texts."
+short_description = "From our place in history, with well over a century of hindsight, Verdi&#039;s Requiem can feel like a meta work; it&#039;s as though these beloved characters make a cameo, like a &quot;operatic special&quot;, sharing the stage to perform a work that seems to evoke a first-person delivery by Verdi of these texts."
 slug = "requiem-on-the-south-bank"
 title = "Requiem on the South Bank"
 +++

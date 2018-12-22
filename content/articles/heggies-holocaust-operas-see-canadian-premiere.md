@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2018-01-30T21:07:00-05:00"
 lastmod = "2018-02-01T10:16:00-05:00"
 publishDate = "2018-01-31T20:35:00-05:00"
-short_description = "\"What we wanted to explore in these pieces is, what it is to survive when you're not necessarily doing heroic things, you're just surviving,\" Heggie says of his Holocaust-themed one-acts. \"What Krystyna had to do in order to survive was not heroic, it was horrifying.\""
+short_description = "&quot;What we wanted to explore in these pieces is, what it is to survive when you&#039;re not necessarily doing heroic things, you&#039;re just surviving,&quot; Heggie says of his Holocaust-themed one-acts. &quot;What Krystyna had to do in order to survive was not heroic, it was horrifying.&quot;"
 slug = "heggies-holocaust-operas-see-canadian-premiere"
 title = "Heggie&#039;s Holocaust operas see Canadian premiere"
 +++

@@ -4,7 +4,7 @@ date = "2017-06-14T09:04:00-06:00"
 lastmod = "2017-06-15T22:24:00-06:00"
 preamble = "Award-winning Canadian composer [Omar Daniel](/scene/people/omar-daniel/)'s work is full of collaboration, blending the acoustic with the electronic, and commissioning texts from writers like Anne Michaels and Yann Martel. Daniel's works for singers are extensive, including small-scale works for voice and piano, to vocal chamber ensembles, to his opera [*The Shadow*](https://tapestryopera.com/the-shadow-2009/), which premiered in 2009 at with [Tapestry Opera](/scene/companies/tapestry-opera/). He is an Associate Professor of composition at Western University, and he was a pupil of John Beckwith's at the University of Toronto.\n\nIn a concise interview that piques curiosity, Daniel talks about the composers who inspire him, and the problem-solving element of his craft.\n\n"
 publishDate = "2017-06-15T21:29:00-06:00"
-short_description = "\"Writing music is like building a house. Some decisions are based on inspiration (what material is the floor? Oak, maple? What colour is the stain going to be?). Others are based on using simple tools to build: a hammer and nails. When I am uninspired, there is always hammer-and-nail work to do.\""
+short_description = "&quot;Writing music is like building a house. Some decisions are based on inspiration (what material is the floor? Oak, maple? What colour is the stain going to be?). Others are based on using simple tools to build: a hammer and nails. When I am uninspired, there is always hammer-and-nail work to do.&quot;"
 slug = "talking-with-composers-omar-daniel"
 title = "Talking with composers: Omar Daniel"
 +++

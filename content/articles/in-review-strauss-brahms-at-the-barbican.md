@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-03-08T12:48:00+00:00"
 lastmod = "2016-03-09T09:51:00+00:00"
 publishDate = "2016-03-09T09:38:00+00:00"
-short_description = "It's a piece that contains within it all that's needed to pack a punch; Brahms can get a reputation for being un-fun, and less imaginative than some of his contemporaries (like Strauss and Wagner), yet there was always something respectful about his music-first approach to telling a story. The City of London Choir and the Philharmonic Orchestra delivered thrilling waves of sound in those fantastic moments of \"Denn alles Fleisch...\", and the soloists rang through the Hall like encouraging cries from a mass of bodies."
+short_description = "It&#039;s a piece that contains within it all that&#039;s needed to pack a punch; Brahms can get a reputation for being un-fun, and less imaginative than some of his contemporaries (like Strauss and Wagner), yet there was always something respectful about his music-first approach to telling a story. The City of London Choir and the Philharmonic Orchestra delivered thrilling waves of sound in those fantastic moments of &quot;Denn alles Fleisch...&quot;, and the soloists rang through the Hall like encouraging cries from a mass of bodies."
 slug = "in-review-strauss-brahms-at-the-barbican"
 title = "In review: Strauss &amp; Brahms at the Barbican"
 +++

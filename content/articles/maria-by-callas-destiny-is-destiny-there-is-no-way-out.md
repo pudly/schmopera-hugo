@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-10-09T21:06:00-04:00"
 lastmod = "2018-10-10T21:27:00-04:00"
 publishDate = "2018-10-10T21:27:00-04:00"
-short_description = "It's funny how easy it is, as a woman in 2018, to look at someone like Maria Callas and decide that she is unquestionably forward-thinking, a strong feminist who worked endlessly for her success. And then she says that being a wife and mother is \"the main vocation for a woman.\""
+short_description = "It&#039;s funny how easy it is, as a woman in 2018, to look at someone like Maria Callas and decide that she is unquestionably forward-thinking, a strong feminist who worked endlessly for her success. And then she says that being a wife and mother is &quot;the main vocation for a woman.&quot;"
 slug = "maria-by-callas-destiny-is-destiny-there-is-no-way-out"
 title = "Maria by Callas: &quot;Destiny is destiny. There is no way out.&quot;"
 +++

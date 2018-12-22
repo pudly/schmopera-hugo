@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-05-01T21:39:00-04:00"
 lastmod = "2018-05-01T21:47:00-04:00"
 publishDate = "2018-05-01T21:47:00-04:00"
-short_description = "However, in spite of all the great music, I got a sense that the company radiated severe apathy about the sheer task of putting on \"yet another grand opera like this one because it is a classic which is, however, very boring.\" Combined with this aura, I got the sense that this production was blessed with a great many artists who only just failed, in their combined efforts, to make this production truly take off and maintain altitude."
+short_description = "However, in spite of all the great music, I got a sense that the company radiated severe apathy about the sheer task of putting on &quot;yet another grand opera like this one because it is a classic which is, however, very boring.&quot; Combined with this aura, I got the sense that this production was blessed with a great many artists who only just failed, in their combined efforts, to make this production truly take off and maintain altitude."
 slug = "bashful-bel-canto-norma-in-houston"
 title = "Bashful bel canto: Norma in Houston"
 +++

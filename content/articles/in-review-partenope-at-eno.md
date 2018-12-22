@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-03-16T09:26:00+00:00"
 lastmod = "2017-03-17T10:03:00+00:00"
 publishDate = "2017-03-17T09:42:00+00:00"
-short_description = "There's no envy on our end for directors who put up Handel operas, and Partenope seems another which poses tricky dramaturgical questions; the biggest of these is the problem fo where these characters are, and why they share a common space. Alden's open-house concept, where everyone seems to hang out chez Partenope, works well; he finds an organic way to waver between real-time action and inner monologues, as though he hits \"pause\" and \"play\" on the general timeline of the story."
+short_description = "There&#039;s no envy on our end for directors who put up Handel operas, and Partenope seems another which poses tricky dramaturgical questions; the biggest of these is the problem fo where these characters are, and why they share a common space. Alden&#039;s open-house concept, where everyone seems to hang out chez Partenope, works well; he finds an organic way to waver between real-time action and inner monologues, as though he hits &quot;pause&quot; and &quot;play&quot; on the general timeline of the story."
 slug = "in-review-partenope-at-eno"
 title = "In review: Partenope at ENO"
 +++

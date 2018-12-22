@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-03-16T11:13:00+00:00"
 lastmod = "2016-03-16T15:05:00+00:00"
 publishDate = "2016-03-16T11:56:00+00:00"
-short_description = "In 2010, it was announced that the Metropolitan Opera would commission an operatic adaptation of Stephen Hawking's A Brief History of Time. Sounds cool, right? Osvaldo Golijov was set to write music for black holes and Big Bangs, and Argentine-Canadian author Alberto Manguel would write the libretto. The premiere production would be directed by Robert Lepage."
+short_description = "In 2010, it was announced that the Metropolitan Opera would commission an operatic adaptation of Stephen Hawking&#039;s A Brief History of Time. Sounds cool, right? Osvaldo Golijov was set to write music for black holes and Big Bangs, and Argentine-Canadian author Alberto Manguel would write the libretto. The premiere production would be directed by Robert Lepage."
 slug = "so-about-that-stephen-hawking-opera"
 title = "So, about that Stephen Hawking opera..."
 +++

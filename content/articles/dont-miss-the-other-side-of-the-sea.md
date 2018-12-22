@@ -3,7 +3,7 @@ categories = "News"
 date = "2018-06-14T17:25:00-04:00"
 lastmod = "2018-06-15T08:41:00-04:00"
 publishDate = "2018-06-14T17:25:00-04:00"
-short_description = "Werner is a Paris-born soprano with an extraordinary predisposition for creativity. Aided by a short gig as an au pair in the UK, and studying music at Cambridge University, the native French-speaker now also speaks fluent English. It's her bilingualism that inspired The Other Side of the Sea, a piece which uses the metaphor of the sea \"to explore the tension of an identity split linguistically\"."
+short_description = "Werner is a Paris-born soprano with an extraordinary predisposition for creativity. Aided by a short gig as an au pair in the UK, and studying music at Cambridge University, the native French-speaker now also speaks fluent English. It&#039;s her bilingualism that inspired The Other Side of the Sea, a piece which uses the metaphor of the sea &quot;to explore the tension of an identity split linguistically&quot;."
 slug = "dont-miss-the-other-side-of-the-sea"
 title = "Don&#039;t miss: The Other Side of the Sea"
 +++

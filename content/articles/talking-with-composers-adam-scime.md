@@ -4,7 +4,7 @@ date = "2017-08-30T13:20:00-04:00"
 lastmod = "2017-09-01T13:16:00-04:00"
 preamble = "Award-winning composer and double-bassist [Adam Scime](/scene/people/adam-scime/) is based in Toronto, and his music has been commissioned and performed by the [Esprit Orchestra](/scene/companies/esprit-orchestra/), [The Bicycle Opera Project](/scene/companies/the-bicycle-opera-project/), [Soundstreams](/scene/companies/soundstreams/), and the National Arts Centre Orchestra. Opera fans in Toronto may have heard his *l'homme et le ciel*, with [FAWN Chamber Creative](/scene/companies/fawn-chamber-creative/) (2014), or even his collaborative work on *Rob Ford, An Operatic Life* (2012).\n\nScime spoke with us about guiltless pleasures, the reality of inspiration, and how he evades writer's block.\n\n"
 publishDate = "2017-08-31T11:27:00-04:00"
-short_description = "\"I like to try something different with each piece I write. It's how I keep the process exciting and at the same time it becomes a learning experience. It also keeps me on edge - which I like - and for me this is actually a positive thing.\""
+short_description = "&quot;I like to try something different with each piece I write. It&#039;s how I keep the process exciting and at the same time it becomes a learning experience. It also keeps me on edge - which I like - and for me this is actually a positive thing.&quot;"
 slug = "talking-with-composers-adam-scime"
 title = "Talking with composers: Adam Scime"
 +++

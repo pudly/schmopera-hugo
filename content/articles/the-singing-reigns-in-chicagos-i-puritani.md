@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-02-05T21:55:00-05:00"
 lastmod = "2018-02-06T16:28:00-05:00"
 publishDate = "2018-02-05T21:55:00-05:00"
-short_description = "While no tenor on earth welcomes comparisons to the undisputed \"King of High C's,\" Brownlee is a triumph in this role and it's not just the singing — Brownlee is a physically-engaged actor, throwing off coloratura while crawling between set pieces and even dashing through the auditorium during a chase scene. And yes, he does take the high F (the F above tenor high C) in the final act's \"Credeasi misera.\""
+short_description = "While no tenor on earth welcomes comparisons to the undisputed &quot;King of High C&#039;s,&quot; Brownlee is a triumph in this role and it&#039;s not just the singing — Brownlee is a physically-engaged actor, throwing off coloratura while crawling between set pieces and even dashing through the auditorium during a chase scene. And yes, he does take the high F (the F above tenor high C) in the final act&#039;s &quot;Credeasi misera.&quot;"
 slug = "the-singing-reigns-in-chicagos-i-puritani"
 title = "The singing reigns in Chicago&#039;s I Puritani"
 +++

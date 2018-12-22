@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-04-22T17:19:00-04:00"
 lastmod = "2018-04-22T17:19:00-04:00"
 publishDate = "2018-04-22T17:19:00-04:00"
-short_description = "As they fall asleep, the magical characters of Rinaldo are transported into their living room to enact the story to the children's delight. It's one part steampunk, one part fantasy movie, one part 50s B-movie, and 100% delightful."
+short_description = "As they fall asleep, the magical characters of Rinaldo are transported into their living room to enact the story to the children&#039;s delight. It&#039;s one part steampunk, one part fantasy movie, one part 50s B-movie, and 100% delightful."
 slug = "pacific-opera-victorias-steampunkmeetsfantasy-rinaldo"
 title = "Pacific Opera Victoria&#039;s steampunk-meets-fantasy Rinaldo"
 +++

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-12-19T18:12:00-05:00"
 lastmod = "2017-12-19T21:11:00-05:00"
 publishDate = "2017-12-19T19:09:00-05:00"
-short_description = "Despite the sombre mis-en-scene for a comedy, the characters pull the production together with finesse and theatrical flair. The artistic decision to put the intermission in the middle of Act III makes for a long first half – and the energy in the room seemed to dwindle before they called the curtain for a much needed breather. This decision made more sense after the intermission - there is a surprise for the audience as far as staging goes, and it doesn't disappoint."
+short_description = "Despite the sombre mis-en-scene for a comedy, the characters pull the production together with finesse and theatrical flair. The artistic decision to put the intermission in the middle of Act III makes for a long first half – and the energy in the room seemed to dwindle before they called the curtain for a much needed breather. This decision made more sense after the intermission - there is a surprise for the audience as far as staging goes, and it doesn&#039;t disappoint."
 slug = "in-review-falstaff-man-of-faults"
 title = "In review: Falstaff, man of faults"
 +++

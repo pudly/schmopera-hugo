@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-03-31T10:02:00+01:00"
 lastmod = "2017-03-31T13:43:00+01:00"
 publishDate = "2017-03-31T12:42:00+01:00"
-short_description = "Yet there's something horridly patronising about how Puccini romanticises the Japanese. The music he writes for Cio-Cio San's family at the wedding is purposefully cacophonous, almost laughable sound effects and definitely not the reactions of fully-realised human beings. The story of Madama Butterfly existed before Puccini's opera, but there's a clear attraction to her youth and ignorance, and the idea of \"rescuing\" her from her \"shameful\" past as a geisha and making her a proud Westerner, as though in recovery from her savage Eastern upbringing."
+short_description = "Yet there&#039;s something horridly patronising about how Puccini romanticises the Japanese. The music he writes for Cio-Cio San&#039;s family at the wedding is purposefully cacophonous, almost laughable sound effects and definitely not the reactions of fully-realised human beings. The story of Madama Butterfly existed before Puccini&#039;s opera, but there&#039;s a clear attraction to her youth and ignorance, and the idea of &quot;rescuing&quot; her from her &quot;shameful&quot; past as a geisha and making her a proud Westerner, as though in recovery from her savage Eastern upbringing."
 slug = "rohs-madama-butterfly-better-to-be-furious-than-bored"
 title = "ROH&#039;s Madama Butterfly: better to be furious than bored"
 +++

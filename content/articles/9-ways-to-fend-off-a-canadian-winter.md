@@ -4,7 +4,7 @@ date = "2015-12-29T21:11:00-05:00"
 lastmod = "2015-12-30T16:51:00-05:00"
 preamble = "After all the food is cleared away, the bottles recycled, and once the days of the week start to mean something again, it's time to get back to real life. For us, real life means going to see lots and lots of shows. It's hard to bundle up in the dead of winter and brave the cold for a few hours of music, but we hope to convince you of some of our cold weather picks across Canada to kick off 2016."
 publishDate = "2015-12-30T16:39:00-05:00"
-short_description = "After all the food is cleared away, the bottles recycled, and once the days of the week start to mean something again, it's time to get back to real life. For us, real life means going to see lots and lots of shows. It's hard to bundle up in the dead of winter and brave the cold for a few hours of music, but we hope to convince you of some of our cold weather picks across Canada to kick off 2016."
+short_description = "After all the food is cleared away, the bottles recycled, and once the days of the week start to mean something again, it&#039;s time to get back to real life. For us, real life means going to see lots and lots of shows. It&#039;s hard to bundle up in the dead of winter and brave the cold for a few hours of music, but we hope to convince you of some of our cold weather picks across Canada to kick off 2016."
 slug = "9-ways-to-fend-off-a-canadian-winter"
 title = "9 ways to fend off a Canadian winter"
 +++

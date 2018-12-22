@@ -3,7 +3,7 @@ categories = "Humour"
 date = "2014-08-12T15:16:00-04:00"
 lastmod = "2015-04-16T22:49:00-04:00"
 publishDate = "2014-08-12T15:16:00-04:00"
-short_description = "If you're into opera, you do that charming/annoying thing where you hear someone sing and come up with your own, brilliant list of what else that person should sing. \"Her Susanna is so pretty. She'd be an awesome Lulu.\" Or, \"Ooh, a high C! "
+short_description = "If you&#039;re into opera, you do that charming/annoying thing where you hear someone sing and come up with your own, brilliant list of what else that person should sing. &quot;Her Susanna is so pretty. She&#039;d be an awesome Lulu.&quot; Or, &quot;Ooh, a high C! "
 slug = "fachmecom-a-new-fun-game"
 title = "FachMe.com: a new fun game"
 +++

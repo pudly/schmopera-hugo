@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-09-26T21:58:00-04:00"
 lastmod = "2018-09-27T11:15:00-04:00"
 publishDate = "2018-09-27T08:25:00-04:00"
-short_description = "It is best not to overanalyze the production, as it was, for lack of better words, a wickedly entertaining opera-themed drag show. The evening's show followed a plotline involving Martha Graham Cracker's desire to impress her crush, Blythely Oratonio (Stephanie Blythe's drag king alter ego.) Throughout the performance, there were musical numbers, which were very clever arrangements, combining pop music with operatic motives (such as \"I Want To Break Free\" combined with \"Quando m'en vo.\")"
+short_description = "It is best not to overanalyze the production, as it was, for lack of better words, a wickedly entertaining opera-themed drag show. The evening&#039;s show followed a plotline involving Martha Graham Cracker&#039;s desire to impress her crush, Blythely Oratonio (Stephanie Blythe&#039;s drag king alter ego.) Throughout the performance, there were musical numbers, which were very clever arrangements, combining pop music with operatic motives (such as &quot;I Want To Break Free&quot; combined with &quot;Quando m&#039;en vo.&quot;)"
 slug = "glitter-and-flair-queens-of-the-night"
 title = "Glitter and flair: Queens of the Night"
 +++

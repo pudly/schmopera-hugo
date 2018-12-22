@@ -4,7 +4,7 @@ date = "2017-08-13T20:30:00-04:00"
 lastmod = "2017-08-14T21:36:00-04:00"
 preamble = "For mezzo-sopranos, there are few arias that are as exhilarating to sing as the Composer's Aria from Strauss' *Ariadne auf Naxos*. It's brisk, colourful, more than a little meta in subject matter, and it's a trouser role to boot. It's a densely packed aria that shows off your goods, and there's a fine line to tread between singing beautifully in the way that Strauss so often asks for, and pushing your voice into the realm of screaming.\n\nThis aria is tricky to learn, but tons of fun when it starts to sit right. With the work you do in the practice room and with your teachers and coaches, our latest Aria Guide will help you navigate the score and pace yourself in style."
 publishDate = "2017-08-14T21:36:00-04:00"
-short_description = "It's brisk, colourful, more than a little meta in subject matter, and it's a trouser role to boot. It's a densely packed aria that shows off your goods, and there's a fine line to tread between singing beautifully in the way that Strauss so often asks for, and pushing your voice into the realm of screaming."
+short_description = "It&#039;s brisk, colourful, more than a little meta in subject matter, and it&#039;s a trouser role to boot. It&#039;s a densely packed aria that shows off your goods, and there&#039;s a fine line to tread between singing beautifully in the way that Strauss so often asks for, and pushing your voice into the realm of screaming."
 slug = "aria-guides-the-composers-aria"
 title = "Aria guides: the Composer&#039;s Aria"
 +++

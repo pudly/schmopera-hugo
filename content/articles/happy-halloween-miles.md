@@ -3,10 +3,10 @@ categories = "Editorial"
 date = "2015-10-30T21:32:00-04:00"
 lastmod = "2015-10-30T22:20:00-04:00"
 publishDate = "2015-10-31T09:19:00-04:00"
-short_description = "I'm always looking for an excuse for more Benjamin Britten, and thankfully he wrote the notoriously creepy opera based on Henry James' novella, The Turn of the Screw. It's got ghosts, troubled kids, maybe a haunted house, maybe some mental illness, and the general eeriness of what I imagine is a damp, foggy English countryside."
+short_description = "I&#039;m always looking for an excuse for more Benjamin Britten, and thankfully he wrote the notoriously creepy opera based on Henry James&#039; novella, The Turn of the Screw. It&#039;s got ghosts, troubled kids, maybe a haunted house, maybe some mental illness, and the general eeriness of what I imagine is a damp, foggy English countryside."
 slug = "happy-halloween-miles"
 title = "Happy Hallowe&#039;en, Miles..."
-youtube_url = https://www.youtube.com/watch?v=mEA5ByEhX6g
+youtube_url = "https://www.youtube.com/watch?v=mEA5ByEhX6g"
 +++
 
 Happy Hallowe'en, readers! Time for some spooky opera.

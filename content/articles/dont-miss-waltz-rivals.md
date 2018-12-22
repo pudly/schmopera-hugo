@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-11-04T14:42:00+00:00"
 lastmod = "2016-11-04T15:12:00+00:00"
 publishDate = "2016-11-04T15:06:00+00:00"
-short_description = "It promises to be a lovely Sunday afternoon here in the T-dot, so if you're looking for some beautiful music and beautiful people (myself excluded, #selfdeprecationischarmingright), stop on by. The show is about 75% sold out but there are still some great seats left, since there isn't a bad seat to be found in the beautifully restored Jane Mallett Theatre."
+short_description = "It promises to be a lovely Sunday afternoon here in the T-dot, so if you&#039;re looking for some beautiful music and beautiful people (myself excluded, #selfdeprecationischarmingright), stop on by. The show is about 75% sold out but there are still some great seats left, since there isn&#039;t a bad seat to be found in the beautifully restored Jane Mallett Theatre."
 slug = "dont-miss-waltz-rivals"
 title = "Don&#039;t miss: Waltz Rivals"
 +++

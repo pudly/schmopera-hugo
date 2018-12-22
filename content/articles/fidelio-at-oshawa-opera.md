@@ -4,7 +4,7 @@ date = "2015-10-25T18:44:00-04:00"
 lastmod = "2015-10-26T11:11:00-04:00"
 preamble = "[Oshawa Opera](/scene/companies/oshawa-opera/) continues its season with *Fidelio* on November 15th. The in-concert performance features mezzo-soprano Brigitte Bogar as Leonora and tenor Jason Lamont as her husband, Florestan. Pianist Kate Carver plays Beethoven's score, and Oshawa Opera Artistic Director [Kristine Dandavino](/scene/people/kristine-dandavino/) narrates. \n\nI spoke with Kristine and Brigitte about Beethoven's only opera, about choosing happy endings and taking on not-your-average pants role. *Fidelio* plays at Kingsview United Church, 505 Adelaide Avenue East, Oshawa, at 3pm on November 15th. Admission is $25 (free for kids!); for details, follow the box office links below."
 publishDate = "2015-10-26T11:01:00-04:00"
-short_description = "Oshawa Opera continues its season with Fidelio on November 15th. The in-concert performance features mezzo-soprano Brigitte Bogar as Leonora and tenor Jason Lamont as her husband, Florestan. Pianist Kate Carver plays Beethoven's score, and Oshawa Opera Artistic Director Kristine Dandavino narrates."
+short_description = "Oshawa Opera continues its season with Fidelio on November 15th. The in-concert performance features mezzo-soprano Brigitte Bogar as Leonora and tenor Jason Lamont as her husband, Florestan. Pianist Kate Carver plays Beethoven&#039;s score, and Oshawa Opera Artistic Director Kristine Dandavino narrates."
 slug = "fidelio-at-oshawa-opera"
 title = "Fidelio at Oshawa Opera"
 +++

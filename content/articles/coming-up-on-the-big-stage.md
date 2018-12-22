@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2014-08-28T09:00:00-04:00"
 lastmod = "2015-04-16T16:01:00-04:00"
 publishDate = "2014-08-28T09:00:00-04:00"
-short_description = "This fall at the Canadian Opera Company, the stars come out. First to open on October 3rd will be that great last work of Giuseppe Verdi's, Falstaff. It's a co-pro with The Royal Opera House (Covent Garden), Teatro alla Scala, the Metropolitan Opera and Dutch National Opera; and because it's by Robert Carsen, it means we'll see stark visuals and a stripped-bare style of storytelling."
+short_description = "This fall at the Canadian Opera Company, the stars come out. First to open on October 3rd will be that great last work of Giuseppe Verdi&#039;s, Falstaff. It&#039;s a co-pro with The Royal Opera House (Covent Garden), Teatro alla Scala, the Metropolitan Opera and Dutch National Opera; and because it&#039;s by Robert Carsen, it means we&#039;ll see stark visuals and a stripped-bare style of storytelling."
 slug = "coming-up-on-the-big-stage"
 title = "Coming up on the big stage"
 +++

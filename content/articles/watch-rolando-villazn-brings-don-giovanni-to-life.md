@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2016-04-04T10:29:00+01:00"
 lastmod = "2016-04-04T11:22:00+01:00"
 publishDate = "2016-04-04T11:22:00+01:00"
-short_description = "He talks with historians and experts about the public hype around Mozart's tale of Don Juan, hears the sound of period instruments, learns the dances of the day, and explores the dangers of special effects in the 18th-century. We find out what the audience ate and drank during the show, how they wandered around the theatre, chatting and singing along."
+short_description = "He talks with historians and experts about the public hype around Mozart&#039;s tale of Don Juan, hears the sound of period instruments, learns the dances of the day, and explores the dangers of special effects in the 18th-century. We find out what the audience ate and drank during the show, how they wandered around the theatre, chatting and singing along."
 slug = "watch-rolando-villazn-brings-don-giovanni-to-life"
 title = "Watch: Rolando Villazón brings Don Giovanni to life"
 +++

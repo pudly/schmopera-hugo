@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2017-12-29T21:05:00-05:00"
 lastmod = "2018-01-01T19:53:00-05:00"
 publishDate = "2018-01-01T19:53:00-05:00"
-short_description = "\"I actually started off by doing only operetta,\" Joel notes, insistent that learning to lead operas with a lot of rubato is the best way into the technique of conducting. \"You have to know how to really control the orchestra with singers, to feel where they're going to move.\""
+short_description = "&quot;I actually started off by doing only operetta,&quot; Joel notes, insistent that learning to lead operas with a lot of rubato is the best way into the technique of conducting. &quot;You have to know how to really control the orchestra with singers, to feel where they&#039;re going to move.&quot;"
 slug = "talking-with-conductors-alexander-joel"
 title = "Talking with conductors: Alexander Joel"
 +++

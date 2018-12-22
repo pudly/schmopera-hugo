@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-12-22T12:08:00-05:00"
 lastmod = "2017-12-24T10:54:00-05:00"
 publishDate = "2017-12-23T15:39:00-05:00"
-short_description = "GLMMR's creative team has constructed a scenario in which a Promethean ur-man (David Adam Moore) grapples with a deity-like overseer (pre-recorded narration by new-music impresario Beth Morrison), as he searches for identity in a world bereft of humankind."
+short_description = "GLMMR&#039;s creative team has constructed a scenario in which a Promethean ur-man (David Adam Moore) grapples with a deity-like overseer (pre-recorded narration by new-music impresario Beth Morrison), as he searches for identity in a world bereft of humankind."
 slug = "cautiously-aspirational-book-of-dreams"
 title = "Cautiously aspirational: Book of Dreams"
 +++

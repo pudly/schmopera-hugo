@@ -3,7 +3,7 @@ categories = "News"
 date = "2015-10-02T10:05:00-04:00"
 lastmod = "2015-10-02T13:08:00-04:00"
 publishDate = "2015-10-02T12:52:00-04:00"
-short_description = "Next week, Tapestry Opera opens its new season with a workshop presentation of Selfie, a new opera with text by Julie Tepperman and music by Chris Thornborrow. Selfie was a part of Tapestry's Opera Briefs in past seasons, where Artistic Director Michael Mori says \"it received the most support.\""
+short_description = "Next week, Tapestry Opera opens its new season with a workshop presentation of Selfie, a new opera with text by Julie Tepperman and music by Chris Thornborrow. Selfie was a part of Tapestry&#039;s Opera Briefs in past seasons, where Artistic Director Michael Mori says &quot;it received the most support.&quot;"
 slug = "tapestry-operas-selfie-talks-online-bullying"
 title = "Tapestry Opera&#039;s Selfie talks online bullying"
 +++

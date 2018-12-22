@@ -3,7 +3,7 @@ categories = "Review"
 date = "2015-05-19T16:11:00-04:00"
 lastmod = "2015-05-20T10:08:00-04:00"
 publishDate = "2015-05-20T10:08:00-04:00"
-short_description = "Since Ekaterina was completely stunning in Bluebeard, I was eager to hear her up close, in the well-lit Amphitheatre. The women treated us to two sets of Russian songs; Three Songs by Tchaikovsky preceded Modest Mussorgsky's amazing Songs and Dances of Death."
+short_description = "Since Ekaterina was completely stunning in Bluebeard, I was eager to hear her up close, in the well-lit Amphitheatre. The women treated us to two sets of Russian songs; Three Songs by Tchaikovsky preceded Modest Mussorgsky&#039;s amazing Songs and Dances of Death."
 slug = "in-review-ekaterina-gubanova-rachel-andrist-in-recital"
 title = "In review: Ekaterina Gubanova &amp; Rachel Andrist in recital"
 +++

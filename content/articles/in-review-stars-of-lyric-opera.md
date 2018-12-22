@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-09-10T11:11:00-04:00"
 lastmod = "2017-09-11T16:03:00-04:00"
 publishDate = "2017-09-11T14:14:00-04:00"
-short_description = "The highlight of the evening for me was Matthew Polenzani and Anthony Clark Evans singing the famous tenor/baritone duet from Bizet's The Pearl Fishers. This was old-school opera glamour and Polenzani's elegant tenor found a lovely match in Clark Evans' rich, easy baritone. The Pearl Fishers, with Polenzani as Nadir, comes to LOC in a new-to-Chicago production at the end of November."
+short_description = "The highlight of the evening for me was Matthew Polenzani and Anthony Clark Evans singing the famous tenor/baritone duet from Bizet&#039;s The Pearl Fishers. This was old-school opera glamour and Polenzani&#039;s elegant tenor found a lovely match in Clark Evans&#039; rich, easy baritone. The Pearl Fishers, with Polenzani as Nadir, comes to LOC in a new-to-Chicago production at the end of November."
 slug = "in-review-stars-of-lyric-opera"
 title = "In review: Stars of Lyric Opera"
 +++

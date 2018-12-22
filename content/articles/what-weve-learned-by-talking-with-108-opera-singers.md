@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2016-05-28T20:28:00+01:00"
 lastmod = "2016-05-30T11:34:00+01:00"
 publishDate = "2016-05-29T22:40:00+01:00"
-short_description = "Since we started Schmopera in late 2013, we have interviewed 108 singers. One hundred and eight! We're proud of that number, and we're by no means done. This site began partly out of our huge admiration for what singers do, and our respect for their skill and thick skins. We thought it might be a good milestone, at roughly 100 conversations with 100 singers, to take stock of what they've told us."
+short_description = "Since we started Schmopera in late 2013, we have interviewed 108 singers. One hundred and eight! We&#039;re proud of that number, and we&#039;re by no means done. This site began partly out of our huge admiration for what singers do, and our respect for their skill and thick skins. We thought it might be a good milestone, at roughly 100 conversations with 100 singers, to take stock of what they&#039;ve told us."
 slug = "what-weve-learned-by-talking-with-108-opera-singers"
 title = "What we&#039;ve learned by talking with 108 opera singers"
 +++

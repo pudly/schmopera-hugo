@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-02-03T12:01:00-05:00"
 lastmod = "2016-02-03T13:15:00-05:00"
 publishDate = "2016-02-03T13:15:00-05:00"
-short_description = "Off Centre Music Salon is all about presenting classical music \"in an innovative atmosphere that evokes the spirit of a 19th century European salon.\" The beautiful Trinity-St. Paul's Centre is a great space to hear these fantastic artists, and tickets for The Cocktail Époque start at just $5."
+short_description = "Off Centre Music Salon is all about presenting classical music &quot;in an innovative atmosphere that evokes the spirit of a 19th century European salon.&quot; The beautiful Trinity-St. Paul&#039;s Centre is a great space to hear these fantastic artists, and tickets for The Cocktail Époque start at just $5."
 slug = "dont-miss-the-cocktail-poque"
 title = "Don&#039;t miss: The Cocktail Époque"
 +++

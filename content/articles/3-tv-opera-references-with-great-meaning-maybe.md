@@ -3,7 +3,7 @@ categories = "Humour"
 date = "2016-04-22T10:26:00+01:00"
 lastmod = "2016-04-22T12:15:00+01:00"
 publishDate = "2016-04-22T12:12:00+01:00"
-short_description = "Is McGill reflected in those poor ladies, tricked by Albuquerque Alfonso into what seemed like a lucrative case? Or is it a more general reminder that Jimmy McGill is about as trustworthy as Alfonso himself? Like Puccini, Mozart places deception in a package that's pretty on the outside; sweet-talking, truth-bending McGill certainly makes a career doing the same thing."
+short_description = "Is McGill reflected in those poor ladies, tricked by Albuquerque Alfonso into what seemed like a lucrative case? Or is it a more general reminder that Jimmy McGill is about as trustworthy as Alfonso himself? Like Puccini, Mozart places deception in a package that&#039;s pretty on the outside; sweet-talking, truth-bending McGill certainly makes a career doing the same thing."
 slug = "3-tv-opera-references-with-great-meaning-maybe"
 title = "3 TV opera references with great meaning (maybe)"
 +++

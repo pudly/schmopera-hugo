@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2016-06-02T05:47:00-06:00"
 lastmod = "2016-07-06T16:12:00-06:00"
 publishDate = "2016-06-03T14:30:00-06:00"
-short_description = "With a few years of unsettled music direction, and a real need to try something actually new (perhaps veering towards what many opera fans would call \"pandering\"), it seems like a perfect opportunity for the Met to take a serious try at adding musicals to their heavy roster of over 20 productions per season. There's perhaps an untapped, enthusiastic potential audience that would love to pair the grandeur and the chandeliers with the kind of onstage action that is less foreign to their eyes and ears."
+short_description = "With a few years of unsettled music direction, and a real need to try something actually new (perhaps veering towards what many opera fans would call &quot;pandering&quot;), it seems like a perfect opportunity for the Met to take a serious try at adding musicals to their heavy roster of over 20 productions per season. There&#039;s perhaps an untapped, enthusiastic potential audience that would love to pair the grandeur and the chandeliers with the kind of onstage action that is less foreign to their eyes and ears."
 slug = "yannick-nzetsguin-musicals-and-great-timing"
 title = "Yannick Nézet-Séguin, musicals, and great timing"
 +++

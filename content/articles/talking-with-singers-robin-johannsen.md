@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2017-02-15T14:55:00+00:00"
 lastmod = "2017-02-23T11:27:00+00:00"
 publishDate = "2017-02-23T10:21:00+00:00"
-short_description = "\"It's like a burning desire to connect with people,\" says Johannsen of her pursuit of opera. \"I think I do it because there's unfortunately nothing else that I can find that makes me have that feeling that I'm doing what I'm supposed to be doing.\" Not everyone finds a career that's fulfilling, let alone one \"where you really feel alive.\""
+short_description = "&quot;It&#039;s like a burning desire to connect with people,&quot; says Johannsen of her pursuit of opera. &quot;I think I do it because there&#039;s unfortunately nothing else that I can find that makes me have that feeling that I&#039;m doing what I&#039;m supposed to be doing.&quot; Not everyone finds a career that&#039;s fulfilling, let alone one &quot;where you really feel alive.&quot;"
 slug = "talking-with-singers-robin-johannsen"
 title = "Talking with singers: Robin Johannsen"
 +++

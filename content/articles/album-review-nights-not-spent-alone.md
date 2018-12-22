@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-04-21T19:18:00-04:00"
 lastmod = "2017-04-24T12:21:00-04:00"
 publishDate = "2017-04-24T09:38:00-04:00"
-short_description = "For two English artists performing music by an English composer, Whately and Lepper seem to create something almost North American in style; those sounds are in Dove's scores, but the two performers keep an immediacy that feels like an American revue show or even a cabaret. Whately is polished and real, and Lepper is flexible and soloistic."
+short_description = "For two English artists performing music by an English composer, Whately and Lepper seem to create something almost North American in style; those sounds are in Dove&#039;s scores, but the two performers keep an immediacy that feels like an American revue show or even a cabaret. Whately is polished and real, and Lepper is flexible and soloistic."
 slug = "album-review-nights-not-spent-alone"
 title = "Album review: Nights Not Spent Alone"
 +++

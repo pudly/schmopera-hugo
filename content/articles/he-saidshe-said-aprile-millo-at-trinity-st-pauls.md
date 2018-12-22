@@ -3,7 +3,7 @@ categories = "Review"
 date = "2014-11-17T12:16:00-05:00"
 lastmod = "2015-04-13T22:53:00-04:00"
 publishDate = "2014-11-17T12:16:00-05:00"
-short_description = "On Saturday night I went with go-to concert date Greg Finney to Trinity St. Paul's Centre on Bloor Street to hear the great Aprile Millo in recital. Upon opening sitting down and flipping through the programme, I was a little humbled to find out that I really should have known more about Aprile. "
+short_description = "On Saturday night I went with go-to concert date Greg Finney to Trinity St. Paul&#039;s Centre on Bloor Street to hear the great Aprile Millo in recital. Upon opening sitting down and flipping through the programme, I was a little humbled to find out that I really should have known more about Aprile. "
 slug = "he-saidshe-said-aprile-millo-at-trinity-st-pauls"
 title = "He said/She said: Aprile Millo at Trinity St. Paul&#039;s"
 +++

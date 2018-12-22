@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2014-12-10T09:00:00-05:00"
 lastmod = "2015-04-13T17:46:00-04:00"
 publishDate = "2014-12-10T09:00:00-05:00"
-short_description = "Against the Grain Theatre's production of #UncleJohn opens this Thursday, to the delight of indie opera lovers in Canada. After its initial premiere this summer at the Cave and Basin National Historic Site in Banff, AB, #UncleJohn has sparked much anticipation from audiences here in Toronto."
+short_description = "Against the Grain Theatre&#039;s production of #UncleJohn opens this Thursday, to the delight of indie opera lovers in Canada. After its initial premiere this summer at the Cave and Basin National Historic Site in Banff, AB, #UncleJohn has sparked much anticipation from audiences here in Toronto."
 slug = "unclejohn-in-toronto"
 title = "#UncleJohn in Toronto"
 +++

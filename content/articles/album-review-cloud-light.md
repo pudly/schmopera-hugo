@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-03-06T14:55:00+00:00"
 lastmod = "2016-03-07T11:19:00+00:00"
 publishDate = "2016-03-07T11:19:00+00:00"
-short_description = "The Canadian Art Song Project has released its second full-length recording (the first being 2014's Ash Roses), which features the music of Polish-born composer Norbert Palej (currently teaching at the University of Toronto), performed by five important Canadian artists of today. Cloud Light, released this year by Centrediscs, is an album of music \"that actively grapples with the modern understanding of art song and demonstrates that it is still a genre capable of the most profound musical expression and innovation.\""
+short_description = "The Canadian Art Song Project has released its second full-length recording (the first being 2014&#039;s Ash Roses), which features the music of Polish-born composer Norbert Palej (currently teaching at the University of Toronto), performed by five important Canadian artists of today. Cloud Light, released this year by Centrediscs, is an album of music &quot;that actively grapples with the modern understanding of art song and demonstrates that it is still a genre capable of the most profound musical expression and innovation.&quot;"
 slug = "album-review-cloud-light"
 title = "Album review: Cloud Light"
 +++

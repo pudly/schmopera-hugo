@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2016-05-21T12:29:00+01:00"
 lastmod = "2016-05-22T10:47:00+01:00"
 publishDate = "2016-05-21T13:06:00+01:00"
-short_description = "Does it mean that all art is rooted in the morbid? A desperate attempt to sweep the dust of life under a beautifully crafted rug? A shout into the constant turnover of individual humans sharing their time on Earth, asking \"does anyone care that I'm here?\""
+short_description = "Does it mean that all art is rooted in the morbid? A desperate attempt to sweep the dust of life under a beautifully crafted rug? A shout into the constant turnover of individual humans sharing their time on Earth, asking &quot;does anyone care that I&#039;m here?&quot;"
 slug = "morbid-musings-art-death"
 title = "Morbid musings: art &amp; death"
 +++

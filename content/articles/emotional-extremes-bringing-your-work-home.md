@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2015-11-24T17:55:00-05:00"
 lastmod = "2015-11-25T16:26:00-05:00"
 publishDate = "2015-11-25T16:21:00-05:00"
-short_description = "Roles like Violetta and Don José can emotionally cost a lot, and, some singers feel the need to shake off a character's heaviness after rehearsal is done. Women who sing Cio-Cio San (not to mention those who have kids of their own) can have an inevitable sympathetic resonse to that final scene. Singers playing villain roles might feel guilt or disgust after staging a particularly nasty scene, despite the obvious fictional element to the whole thing."
+short_description = "Roles like Violetta and Don José can emotionally cost a lot, and, some singers feel the need to shake off a character&#039;s heaviness after rehearsal is done. Women who sing Cio-Cio San (not to mention those who have kids of their own) can have an inevitable sympathetic resonse to that final scene. Singers playing villain roles might feel guilt or disgust after staging a particularly nasty scene, despite the obvious fictional element to the whole thing."
 slug = "emotional-extremes-bringing-your-work-home"
 title = "Emotional extremes &amp; bringing your work home"
 +++

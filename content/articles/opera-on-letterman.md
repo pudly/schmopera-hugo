@@ -3,7 +3,7 @@ categories = "Humour"
 date = "2015-05-15T12:52:00-04:00"
 lastmod = "2015-05-20T13:44:00-04:00"
 publishDate = "2015-05-20T13:30:00-04:00"
-short_description = "In case you haven't heard, David Letterman is retiring from his late-night hosting duties tonight. So, I went to work finding some opera on the Late Show, as my small but mighty nod to Letterman and his 33-year career (22 years on CBS, 11 on NBC)."
+short_description = "In case you haven&#039;t heard, David Letterman is retiring from his late-night hosting duties tonight. So, I went to work finding some opera on the Late Show, as my small but mighty nod to Letterman and his 33-year career (22 years on CBS, 11 on NBC)."
 slug = "opera-on-letterman"
 title = "Opera on Letterman"
 +++

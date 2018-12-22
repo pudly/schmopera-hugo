@@ -4,7 +4,7 @@ date = "2017-03-08T18:45:00+01:00"
 lastmod = "2017-03-09T09:57:00+01:00"
 preamble = "This article was originally published by [here](http://kartsconsulting.com/2017/03/03/arts-waste-time-money/) by Kristina Driskill, and is re-posted with permission from the author."
 publishDate = "2017-03-09T09:57:00+01:00"
-short_description = "Go ahead and get rid of all the music on your phone and elsewhere. When you go into stores, no music will be playing, and you won't be hearing any while you work out at the gym. If you've got tickets to a concert of any kind, throw those out. Musicians are artists, and you won't be needing any of that."
+short_description = "Go ahead and get rid of all the music on your phone and elsewhere. When you go into stores, no music will be playing, and you won&#039;t be hearing any while you work out at the gym. If you&#039;ve got tickets to a concert of any kind, throw those out. Musicians are artists, and you won&#039;t be needing any of that."
 slug = "are-the-arts-other-creative-fields-a-waste-of-time-money"
 title = "Are the arts &amp; other creative fields a waste of time &amp; money?"
 +++

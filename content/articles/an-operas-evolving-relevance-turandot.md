@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-01-14T20:16:00-05:00"
 lastmod = "2018-01-15T12:53:00-05:00"
 publishDate = "2018-01-14T20:16:00-05:00"
-short_description = "Ultimately, the vision of \"China\" that Puccini articulated with his Turandot is pure fantasy. While his scrupulousness in incorporating elements of Chinese music-making into his score is self-evident, there is little to suggest the other trappings of Turandot are anything other than an over-eagerness on the part of Puccini and his librettists to produce a spectacle that no one had seen before."
+short_description = "Ultimately, the vision of &quot;China&quot; that Puccini articulated with his Turandot is pure fantasy. While his scrupulousness in incorporating elements of Chinese music-making into his score is self-evident, there is little to suggest the other trappings of Turandot are anything other than an over-eagerness on the part of Puccini and his librettists to produce a spectacle that no one had seen before."
 slug = "an-operas-evolving-relevance-turandot"
 title = "An opera&#039;s evolving relevance: Turandot"
 +++

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-11-15T13:30:00-05:00"
 lastmod = "2018-11-16T10:35:00-05:00"
 publishDate = "2018-11-16T10:35:00-05:00"
-short_description = "Alas, if only the final product understood the virtues of restraint! Its frequent dips into genre-based excess often veered into garish, meandering displays that more often than not proved so distracting it lost sight of the work's soul."
+short_description = "Alas, if only the final product understood the virtues of restraint! Its frequent dips into genre-based excess often veered into garish, meandering displays that more often than not proved so distracting it lost sight of the work&#039;s soul."
 slug = "schoenberg-in-hollywood-a-heap-of-excess"
 title = "Schoenberg in Hollywood &amp; a heap of excess"
 +++

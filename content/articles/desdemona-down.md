@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2014-06-23T11:30:00-04:00"
 lastmod = "2015-04-23T15:42:00-04:00"
 publishDate = "2014-06-23T11:30:00-04:00"
-short_description = "After an impressive media tempest, soprano Tamar Iveri will not be appearing as Desdemona in Opera Australia's upcoming production of Otello. OA made the decision to replace Tamar after the singer's homophobic remarks were made public. "
+short_description = "After an impressive media tempest, soprano Tamar Iveri will not be appearing as Desdemona in Opera Australia&#039;s upcoming production of Otello. OA made the decision to replace Tamar after the singer&#039;s homophobic remarks were made public. "
 slug = "desdemona-down"
 title = "Desdemona Down"
 +++

@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2015-11-14T14:46:00-05:00"
 lastmod = "2015-11-15T11:18:00-05:00"
 publishDate = "2015-11-15T11:18:00-05:00"
-short_description = "The only necessary ingredient in bringing up a generation of respect for the arts is constant exposure. It's not a passive thing at all, and what makes me nervous is that it's largely up to the grown-ups to plant the seeds."
+short_description = "The only necessary ingredient in bringing up a generation of respect for the arts is constant exposure. It&#039;s not a passive thing at all, and what makes me nervous is that it&#039;s largely up to the grown-ups to plant the seeds."
 slug = "playing-the-long-game-fostering-artistic-respect"
 title = "Playing the long game: fostering artistic respect"
 +++

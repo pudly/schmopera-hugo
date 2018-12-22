@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-04-18T09:49:00-04:00"
 lastmod = "2018-04-19T10:48:00-04:00"
 publishDate = "2018-04-19T10:48:00-04:00"
-short_description = "If love is the soul of genius, as Wolfgang Amadeus Mozart once said, what would that make lustful abandon? In the case of one of opera’s best-known \"bad boys\", a fiery eternity of damnation."
+short_description = "If love is the soul of genius, as Wolfgang Amadeus Mozart once said, what would that make lustful abandon? In the case of one of opera’s best-known &quot;bad boys&quot;, a fiery eternity of damnation."
 slug = "edmonton-opera-delivers-imaginative-inspired-don-giovanni"
 title = "Edmonton Opera delivers imaginative, inspired Don Giovanni"
 +++

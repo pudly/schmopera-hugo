@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2015-09-16T09:41:00-04:00"
 lastmod = "2015-09-18T12:32:00-04:00"
 publishDate = "2015-09-17T08:47:00-04:00"
-short_description = "No piece of art is created in a vacuum. Any time I've worked on an opera, I've always loved learning of the connections between the story, and its ancestry in literature and history. Greek mythology, Shakespeare, the Bible, Egyptian history, the atomic bomb..."
+short_description = "No piece of art is created in a vacuum. Any time I&#039;ve worked on an opera, I&#039;ve always loved learning of the connections between the story, and its ancestry in literature and history. Greek mythology, Shakespeare, the Bible, Egyptian history, the atomic bomb..."
 slug = "story-webs-the-original-romeo-juliet"
 title = "Story webs &amp; the original Romeo &amp; Juliet"
 +++

@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2015-01-26T16:19:00-05:00"
 lastmod = "2015-04-04T21:00:00-04:00"
 publishDate = "2015-01-26T16:19:00-05:00"
-short_description = "Who else saw that piece on Jezebel by Collier Meyerson, about her trip to the Metropolitan Opera? It's not really an article about opera or the Met, but I'm inclined to weigh in on it on behalf of opera-goers, because this story edges towards the elitism amongst opera fans."
+short_description = "Who else saw that piece on Jezebel by Collier Meyerson, about her trip to the Metropolitan Opera? It&#039;s not really an article about opera or the Met, but I&#039;m inclined to weigh in on it on behalf of opera-goers, because this story edges towards the elitism amongst opera fans."
 slug = "a-tale-of-big-hair-at-the-met"
 title = "A Tale of Big Hair at the Met"
 +++

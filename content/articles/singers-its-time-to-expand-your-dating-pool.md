@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2017-08-05T20:26:00-04:00"
 lastmod = "2017-11-28T19:06:00-05:00"
 publishDate = "2017-08-07T20:23:00-04:00"
-short_description = "Having a partner who isn't a musician will also be a great way of making sure you don't lose your friends in the process of gaining a romantic relationship; you'll always need to have those cathartic, industry-specific conversations with people who get your shorthand, and it's a beautiful thing to have a few things that remain specially reserved for you and your singer friends."
+short_description = "Having a partner who isn&#039;t a musician will also be a great way of making sure you don&#039;t lose your friends in the process of gaining a romantic relationship; you&#039;ll always need to have those cathartic, industry-specific conversations with people who get your shorthand, and it&#039;s a beautiful thing to have a few things that remain specially reserved for you and your singer friends."
 slug = "singers-its-time-to-expand-your-dating-pool"
 title = "Singers: it&#039;s time to expand your dating pool"
 +++

@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2017-10-14T12:15:00-04:00"
 lastmod = "2017-10-16T10:21:00-04:00"
 publishDate = "2017-10-15T20:56:00-04:00"
-short_description = "\"Lycanthropy is such a great metaphor for sexual fluidity,\" says co-librettist Teri Kowiak. \"Our werewolf is not human when in human form, nor is he a wolf when he is in wolf form. He is always a werewolf, no matter how he appears at a specific time.\""
+short_description = "&quot;Lycanthropy is such a great metaphor for sexual fluidity,&quot; says co-librettist Teri Kowiak. &quot;Our werewolf is not human when in human form, nor is he a wolf when he is in wolf form. He is always a werewolf, no matter how he appears at a specific time.&quot;"
 slug = "a-fiercely-queer-opera-for-halloween"
 title = "A &quot;fiercely queer opera&quot; for Halloween"
 +++

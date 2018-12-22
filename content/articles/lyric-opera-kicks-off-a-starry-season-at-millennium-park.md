@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-09-14T13:28:00-04:00"
 lastmod = "2018-09-14T19:49:00-04:00"
 publishDate = "2018-09-14T17:30:00-04:00"
-short_description = "The night's theme, (and requisite hashtag) #LongLivePassion was on-point — we were treated to some of opera's most impassioned moments from Puccini's beloved \"O mio babbino caro\" to the seductive \"Mon coeur s'ouvre à ta voix\" from Saint-Saën's Samson et Dalila. It was a glamorous, fun-filled night that featured the headliners of the Lyric's upcoming production of La Bohéme as well as four young artists from the Patrick G. and Shirley W. Ryan Center."
+short_description = "The night&#039;s theme, (and requisite hashtag) #LongLivePassion was on-point — we were treated to some of opera&#039;s most impassioned moments from Puccini&#039;s beloved &quot;O mio babbino caro&quot; to the seductive &quot;Mon coeur s&#039;ouvre à ta voix&quot; from Saint-Saën&#039;s Samson et Dalila. It was a glamorous, fun-filled night that featured the headliners of the Lyric&#039;s upcoming production of La Bohéme as well as four young artists from the Patrick G. and Shirley W. Ryan Center."
 slug = "lyric-opera-kicks-off-a-starry-season-at-millennium-park"
 title = "Lyric Opera kicks off a starry season at Millennium Park"
 +++

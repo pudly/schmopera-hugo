@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-05-05T16:49:00-04:00"
 lastmod = "2018-05-05T21:57:00-04:00"
 publishDate = "2018-05-05T21:57:00-04:00"
-short_description = "It's not the most dramatically fulfilling show but the singing is exquisite. The show definitely could have benefitted from (more than) a few judicious cuts. It's one thing when the text is repeated in a number, it's quite another when it's repeated in three or four."
+short_description = "It&#039;s not the most dramatically fulfilling show but the singing is exquisite. The show definitely could have benefitted from (more than) a few judicious cuts. It&#039;s one thing when the text is repeated in a number, it&#039;s quite another when it&#039;s repeated in three or four."
 slug = "exquisite-singing-in-the-cocs-anna-bolena"
 title = "Exquisite singing in the COC&#039;s Anna Bolena"
 +++

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-01-09T18:23:00-05:00"
 lastmod = "2018-01-09T21:08:00-05:00"
 publishDate = "2018-01-09T18:35:00-05:00"
-short_description = "There was also the choice for some characters to use dialects - dangerous territory when you're already dealing with the pitfalls of Mid-Atlantic English pronunciation. I found the inconsistency of the dialects to be a bit distracting in the longer dialogue scenes, but the focus on great singing always brought you back home. "
+short_description = "There was also the choice for some characters to use dialects - dangerous territory when you&#039;re already dealing with the pitfalls of Mid-Atlantic English pronunciation. I found the inconsistency of the dialects to be a bit distracting in the longer dialogue scenes, but the focus on great singing always brought you back home. "
 slug = "satire-meets-serious-singing-tots-candide"
 title = "Satire meets serious singing: TOT&#039;s Candide"
 +++

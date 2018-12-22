@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2017-03-24T15:44:00+00:00"
 lastmod = "2017-03-28T08:42:00+01:00"
 publishDate = "2017-03-27T10:45:00+01:00"
-short_description = "\"If you're going through a divorce, or there's been a death in the family, or your children are misbehaving, or whatever it is, that stuff can be difficult on a voice.\" Polenzani has watched his own colleagues go through tough times in their offstage lives, and the personal costs are certainly audible in a singer's voice. \"On the other hand, I also know singers who have been through divorce who are singing better afterwards, because the stress of a failing marriage was difficult on their voices.\""
+short_description = "&quot;If you&#039;re going through a divorce, or there&#039;s been a death in the family, or your children are misbehaving, or whatever it is, that stuff can be difficult on a voice.&quot; Polenzani has watched his own colleagues go through tough times in their offstage lives, and the personal costs are certainly audible in a singer&#039;s voice. &quot;On the other hand, I also know singers who have been through divorce who are singing better afterwards, because the stress of a failing marriage was difficult on their voices.&quot;"
 slug = "talking-with-singers-matthew-polenzani"
 title = "Talking with singers: Matthew Polenzani"
 +++

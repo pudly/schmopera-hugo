@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-04-27T21:09:00-04:00"
 lastmod = "2018-04-28T11:11:00-04:00"
 publishDate = "2018-04-28T11:11:00-04:00"
-short_description = "Undoubtedly, the standout performance of the show goes to the remarkable Company XIV. These six dancers, in some of the most exquisite costuming I've ever seen, moved throughout the show functioning much in the way a Greek chorus would. Their physicality representing the off-stage chorus as well as the virtual one compiled by singers from around the world submitting recordings of themselves."
+short_description = "Undoubtedly, the standout performance of the show goes to the remarkable Company XIV. These six dancers, in some of the most exquisite costuming I&#039;ve ever seen, moved throughout the show functioning much in the way a Greek chorus would. Their physicality representing the off-stage chorus as well as the virtual one compiled by singers from around the world submitting recordings of themselves."
 slug = "futuristic-baroque-burlesque-orphe"
 title = "Futuristic Baroque burlesque: Orphée"
 +++

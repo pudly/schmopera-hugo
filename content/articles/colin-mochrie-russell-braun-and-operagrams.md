@@ -6,7 +6,7 @@ publishDate = "2014-10-05T08:46:00-04:00"
 short_description = "Ok, so a friend of mine showed me this video, and it’s absolutely Colin Mochrie lip-syncing to the voice of Russell Braun in a clip from Burnt Toast, an eight-part coming opera made for television 2006 (CBC, Bravo!). The music is by Alexina Louie, with text by Dan Redican, and the series features some of Canada’s best voices, including Isabel Bayrakdarian, Krisztina Szabó, and Peter McGillivray."
 slug = "colin-mochrie-russell-braun-and-operagrams"
 title = "Colin Mochrie, Russell Braun and Operagrams"
-youtube_url = https://youtu.be/9LXUrnVdV7M
+youtube_url = "https://youtu.be/9LXUrnVdV7M"
 +++
 
 Ok, so a friend of mine showed me this video:

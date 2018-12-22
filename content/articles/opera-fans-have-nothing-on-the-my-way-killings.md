@@ -3,7 +3,7 @@ categories = "Humour"
 date = "2017-04-05T15:11:00+01:00"
 lastmod = "2017-04-07T12:22:00+01:00"
 publishDate = "2017-04-07T12:22:00+01:00"
-short_description = "Karaoke is pretty huge in the Philippines, and apparently the standards of performance are held to dangerously high levels. In fact between roughly 2002 and 2012, there were about six instances of karaoke-induced violence, which later became known as the \"My Way Killings\". Yup, as in the song \"My Way\", famously popularised by Frank Sinatra in the late 1960s."
+short_description = "Karaoke is pretty huge in the Philippines, and apparently the standards of performance are held to dangerously high levels. In fact between roughly 2002 and 2012, there were about six instances of karaoke-induced violence, which later became known as the &quot;My Way Killings&quot;. Yup, as in the song &quot;My Way&quot;, famously popularised by Frank Sinatra in the late 1960s."
 slug = "opera-fans-have-nothing-on-the-my-way-killings"
 title = "Opera fans have nothing on the &quot;My Way Killings&quot;"
 +++

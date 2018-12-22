@@ -4,7 +4,7 @@ date = "2018-10-16T20:47:00-04:00"
 lastmod = "2018-10-17T12:28:00-04:00"
 preamble = "Hungarian baritone [Levente Molnár](/scene/people/levente-molnar/) is joining the Hungarian State Opera as it makes its U.S. debut at Lincoln Center's Koch Theater, October 30 to November 11. The HSO will present four operas by Hungarian composers, including Ferenc Erkel's *Bánk bán*, in which Molnár will sing the title role.\n\nErkel, the 19th-century composer, conductor, pianist, and past Music Director of the Hungarian State Opera, is dubbed the \"father of Hungarian grand opera\". His *Bánk bán*, considered a national opera of Hungary, is certainly obscure in North America; the HSO's current production by Attila Vidnyánszky will mark an important introduction of the opera to American audiences.\n\nWe spoke with Molnár about the intense character of Bánk bán, and the significance of bringing a major piece of his Hungarian culture across the Atlantic."
 publishDate = "2018-10-17T11:29:00-04:00"
-short_description = "\"I have learnt a lot but there is still a lot to learn. The most important thing I've learned is that the calling is not only about professionalism and talent. Many other factors also play a role in the career of a professional singer, some of which might be harmful to the art itself.\""
+short_description = "&quot;I have learnt a lot but there is still a lot to learn. The most important thing I&#039;ve learned is that the calling is not only about professionalism and talent. Many other factors also play a role in the career of a professional singer, some of which might be harmful to the art itself.&quot;"
 slug = "talking-with-singers-levente-molnr"
 title = "Talking with singers: Levente Molnár"
 +++

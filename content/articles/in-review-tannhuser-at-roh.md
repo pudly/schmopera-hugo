@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-04-27T09:44:00+01:00"
 lastmod = "2016-04-27T11:48:00+01:00"
 publishDate = "2016-04-27T11:32:00+01:00"
-short_description = "The dancers moved in a constant, fluid canon, the men tirelessly chasing the teasing women, hurling themselves across a long spinning banquet table, trading clothes and bending their bodies like elastic rag dolls. Visually, it was the high point of the production, relaxing into what became a static tale. It's not inappropriate, to place the audience in the shoes of Tannhäuser himself, who goes from the heights of pleasure and excitement, and returns to the mortal world; indeed, no human stimulation would quite meet of Venusberg."
+short_description = "The dancers moved in a constant, fluid canon, the men tirelessly chasing the teasing women, hurling themselves across a long spinning banquet table, trading clothes and bending their bodies like elastic rag dolls. Visually, it was the high point of the production, relaxing into what became a static tale. It&#039;s not inappropriate, to place the audience in the shoes of Tannhäuser himself, who goes from the heights of pleasure and excitement, and returns to the mortal world; indeed, no human stimulation would quite meet of Venusberg."
 slug = "in-review-tannhuser-at-roh"
 title = "In review: Tannhäuser at ROH"
 +++

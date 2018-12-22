@@ -4,7 +4,7 @@ date = "2016-08-04T05:55:00-04:00"
 lastmod = "2017-11-28T19:49:00-05:00"
 preamble = "This post was originally published by [Kristen Seikaly](/scene/people/kristen-seikaly) on [Operaversity](http://operaversity.com/business/networking-for-introverted-performers), a great resource for working singers and teachers. For more, follow Operaversity on [Twitter](https://twitter.com/Operaversity) and [Instagram](https://www.instagram.com/operaversity/)."
 publishDate = "2016-08-10T03:27:00-04:00"
-short_description = "While it may seem to many people that \"introverted performers\" is an oxymoron, I assure you that this is not the case. Being an introvert in an extroverted field can pose its own challenges though. Perhaps the biggest challenge it poses is networking."
+short_description = "While it may seem to many people that &quot;introverted performers&quot; is an oxymoron, I assure you that this is not the case. Being an introvert in an extroverted field can pose its own challenges though. Perhaps the biggest challenge it poses is networking."
 slug = "networking-for-introverted-performers"
 title = "Networking for introverted performers"
 +++

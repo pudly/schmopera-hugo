@@ -3,7 +3,7 @@ categories = "News"
 date = "2018-10-30T15:48:00-04:00"
 lastmod = "2018-10-31T10:04:00-04:00"
 publishDate = "2018-10-31T10:04:00-04:00"
-short_description = "A modular synth opera is about a hipster as you can get: \"Modular synthesizers have been around since the early 1960s but they fell out of favor in the 1980s,\" say Cady and EiO founders Matthew Welch and Aaron Siegel. \"In the last 10 years, there has been a resurgence of interest in modular synthesizers as they have gotten cheaper, smaller and generally more accessible for enthusiasts and musicians.\""
+short_description = "A modular synth opera is about a hipster as you can get: &quot;Modular synthesizers have been around since the early 1960s but they fell out of favor in the 1980s,&quot; say Cady and EiO founders Matthew Welch and Aaron Siegel. &quot;In the last 10 years, there has been a resurgence of interest in modular synthesizers as they have gotten cheaper, smaller and generally more accessible for enthusiasts and musicians.&quot;"
 slug = "old-meets-new-modularias-podcast-operas"
 title = "Old meets new: Modularias &amp; podcast operas"
 +++

@@ -4,7 +4,7 @@ date = "2016-11-28T22:01:00+00:00"
 lastmod = "2016-11-29T21:37:00+00:00"
 preamble = "Pamina's aria from Mozart's *Die Zauberflöte* feels like the epitome of sadness, an emotional archetype amplified by some of the saddest music in opera. By the time she sings \"Ach, ich fühl's,\" she's had a rough day. Her mother told her to stab Sarastro, and Tamino won't talk to her (because he's on a vow of silence, but Pamina doesn't know that) and he maybe doesn't love her anymore. \n\nIt's a deceptively simple aria, and the empty accompaniment can make a singer feel as though they're walking on eggshells. Along with help from your teachers and coaches, we can offer a few tips for keeping things simple, and creating the illusion of superhuman breath control."
 publishDate = "2016-11-29T15:29:00+00:00"
-short_description = "It's a deceptively simple aria, and the empty accompaniment, a singer can easily feel as though they're walking on eggshells. Along with help from your teachers and coaches, we can offer a few tips for keeping things simple, and creating the illusion of superhuman breath control."
+short_description = "It&#039;s a deceptively simple aria, and the empty accompaniment, a singer can easily feel as though they&#039;re walking on eggshells. Along with help from your teachers and coaches, we can offer a few tips for keeping things simple, and creating the illusion of superhuman breath control."
 slug = "aria-guides-ach-ich-fhls"
 title = "Aria guides: &quot;Ach, ich fühl&#039;s&quot;"
 +++

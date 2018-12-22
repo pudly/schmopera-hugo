@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-03-27T17:11:00-04:00"
 lastmod = "2018-03-27T21:33:00-04:00"
 publishDate = "2018-03-27T17:11:00-04:00"
-short_description = "The percussionist inside Mr. Copeland finds the perfect places for the musical punctuation of xylophone, triangle, concert tom-toms, etc. And even though the tip-toeing steps of the bass and bassoon are heard throughout, it's the booming bass and bass drum that drive the drama, expressing the developing madness inside and outside the characters."
+short_description = "The percussionist inside Mr. Copeland finds the perfect places for the musical punctuation of xylophone, triangle, concert tom-toms, etc. And even though the tip-toeing steps of the bass and bassoon are heard throughout, it&#039;s the booming bass and bass drum that drive the drama, expressing the developing madness inside and outside the characters."
 slug = "twice-on-this-island"
 title = "Twice on This Island"
 +++

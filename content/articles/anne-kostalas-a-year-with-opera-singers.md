@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-07-21T16:34:00-04:00"
 lastmod = "2016-07-23T08:08:00-04:00"
 publishDate = "2016-07-22T22:06:00-04:00"
-short_description = "Filmmaker Anne Kostalas has wrapped a three-part documentary, following the lives of three young singers at Opera McGill, Schulich School of Music, Montréal. The documentary was commissioned by Patrick Hansen, head of Opera McGill, who is \"thrilled at how this documentary seems like a love letter, not just to Opera McGill but to the McGill campus and all the people who study and work there.\""
+short_description = "Filmmaker Anne Kostalas has wrapped a three-part documentary, following the lives of three young singers at Opera McGill, Schulich School of Music, Montréal. The documentary was commissioned by Patrick Hansen, head of Opera McGill, who is &quot;thrilled at how this documentary seems like a love letter, not just to Opera McGill but to the McGill campus and all the people who study and work there.&quot;"
 slug = "anne-kostalas-a-year-with-opera-singers"
 title = "Anne Kostalas: a year with opera singers"
 +++

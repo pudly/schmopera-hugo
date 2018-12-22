@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2016-11-25T11:34:00+00:00"
 lastmod = "2016-11-25T16:48:00+00:00"
 publishDate = "2016-11-25T16:48:00+00:00"
-short_description = "Your colleagues are not competition. Along with you, the motivated young artist, the singers and pianists that are learning beside you are the ones who, in a handful of years, will become founders of opera companies and concert series; they'll become assistant conductors and directors, and they may eventually end up in a position to hire someone like you. "
+short_description = "Your colleagues are not competition. Along with you, the motivated young artist, the singers and pianists that are learning beside you are the ones who, in a handful of years, will become founders of opera companies and concert series; they&#039;ll become assistant conductors and directors, and they may eventually end up in a position to hire someone like you. "
 slug = "the-real-value-of-summer-programs"
 title = "The real value of summer programs"
 +++

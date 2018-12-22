@@ -4,7 +4,7 @@ date = "2018-05-07T13:25:00-04:00"
 lastmod = "2018-05-07T21:41:00-04:00"
 preamble = "Readers, don't worry: the 2017/18 season isn't done just yet. Mark your calendars for these four must-see items in May:"
 publishDate = "2018-05-07T21:27:00-04:00"
-short_description = "Estonia counts more from its diaspora in Toronto than anywhere else in the world, and in the 100th year of the country's independence, Estonia sends some of its finest musicians to collaborate with artists in Toronto."
+short_description = "Estonia counts more from its diaspora in Toronto than anywhere else in the world, and in the 100th year of the country&#039;s independence, Estonia sends some of its finest musicians to collaborate with artists in Toronto."
 slug = "upcoming-in-toronto-4-reasons-to-mark-your-calendars"
 title = "Upcoming in Toronto: 4 reasons to mark your calendars"
 +++

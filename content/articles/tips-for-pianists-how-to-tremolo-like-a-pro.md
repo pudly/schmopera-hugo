@@ -4,7 +4,7 @@ date = "2017-01-24T10:39:00+00:00"
 lastmod = "2017-01-24T17:17:00+00:00"
 preamble = "Sometimes a tremolo is just a tremolo, but sometimes there's more to it than that. Pianists, when you're playing orchestral reductions of opera scores, the pages can seem littered with tremolos. At worst, they can make you feel like you're a living player-piano in an old saloon; at best, they offer the textures and forward propulsion that can make an orchestra such a thrilling beast.\n\nWe've summed up three big categories of tremolos that pop up in the pages of piano-vocal opera scores, and how to make them all sound as orchestral as possible."
 publishDate = "2017-01-24T17:11:00+00:00"
-short_description = "In a case like this, sometimes a slower tremolo yields better results on the piano. If you try for speed, it'll likely sound a bit drier, a bit more percussive; a slow tremolo lets you just sit in the sound that already exists, and your muscles will be relaxed enough to sustain it."
+short_description = "In a case like this, sometimes a slower tremolo yields better results on the piano. If you try for speed, it&#039;ll likely sound a bit drier, a bit more percussive; a slow tremolo lets you just sit in the sound that already exists, and your muscles will be relaxed enough to sustain it."
 slug = "tips-for-pianists-how-to-tremolo-like-a-pro"
 title = "Tips for pianists: how to tremolo like a pro"
 +++

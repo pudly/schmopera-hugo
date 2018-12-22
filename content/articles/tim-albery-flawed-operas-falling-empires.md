@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2017-09-29T19:43:00-04:00"
 lastmod = "2017-10-04T21:15:00-04:00"
 publishDate = "2017-10-04T21:15:00-04:00"
-short_description = "\"It depends where you are, and what the culture of the place you're working in is,\" says Albery. He points to obvious hurdles, like companies with large overhead costs (\"The people with buildings are the people with commitments to paying salaries\") and a tradition - even a perceived dependecy - on patrons buying season-long subscriptions, a trend he says is \"dying\"."
+short_description = "&quot;It depends where you are, and what the culture of the place you&#039;re working in is,&quot; says Albery. He points to obvious hurdles, like companies with large overhead costs (&quot;The people with buildings are the people with commitments to paying salaries&quot;) and a tradition - even a perceived dependecy - on patrons buying season-long subscriptions, a trend he says is &quot;dying&quot;."
 slug = "tim-albery-flawed-operas-falling-empires"
 title = "Tim Albery: flawed operas &amp; falling empires"
 +++

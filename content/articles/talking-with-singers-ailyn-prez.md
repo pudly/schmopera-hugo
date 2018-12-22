@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2017-02-11T17:09:00+00:00"
 lastmod = "2017-02-20T15:31:00+00:00"
 publishDate = "2017-02-20T10:31:00+00:00"
-short_description = "\"I would tell everybody that the work is real,\" she says with a laugh. \"Just because now you've sung at the Metropolitan Opera or have a new production, or have reached your dream role...the work still remains.\" Pérez describes it as having to \"reintroduce yourself all the time,\" taking charge of her own professional choices and constantly looking ahead to the next project."
+short_description = "&quot;I would tell everybody that the work is real,&quot; she says with a laugh. &quot;Just because now you&#039;ve sung at the Metropolitan Opera or have a new production, or have reached your dream role...the work still remains.&quot; Pérez describes it as having to &quot;reintroduce yourself all the time,&quot; taking charge of her own professional choices and constantly looking ahead to the next project."
 slug = "talking-with-singers-ailyn-prez"
 title = "Talking with singers: Ailyn Pérez"
 +++

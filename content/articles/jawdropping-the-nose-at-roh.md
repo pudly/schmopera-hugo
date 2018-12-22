@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-10-21T10:02:00+01:00"
 lastmod = "2016-10-21T11:05:00+01:00"
 publishDate = "2016-10-21T10:55:00+01:00"
-short_description = "The Nose - particularly in Kosky's production - is truly an ensemble opera, and every single detail felt part of a curious world, one hard to describe, yet perfectly recognizable. The dancers, the Royal Opera House chorus, even the curious balalaika player in exaggerated traditional costume - it was completely, delightfully, ridiculous."
+short_description = "The Nose - particularly in Kosky&#039;s production - is truly an ensemble opera, and every single detail felt part of a curious world, one hard to describe, yet perfectly recognizable. The dancers, the Royal Opera House chorus, even the curious balalaika player in exaggerated traditional costume - it was completely, delightfully, ridiculous."
 slug = "jawdropping-the-nose-at-roh"
 title = "Jaw-dropping: The Nose at ROH"
 +++

@@ -3,10 +3,10 @@ categories = "Humour"
 date = "2015-05-19T17:03:00-04:00"
 lastmod = "2017-08-13T21:55:00-04:00"
 publishDate = "2015-05-21T14:30:00-04:00"
-short_description = "Readers, we can't stop watching Jerry Lewis lip-sync to Mario Lanza singing \"Be My Love.\" "
+short_description = "Readers, we can&#039;t stop watching Jerry Lewis lip-sync to Mario Lanza singing &quot;Be My Love.&quot; "
 slug = "and-you-thought-your-singer-face-was-weird"
 title = "And you thought your singer face was weird..."
-youtube_url = https://www.youtube.com/watch?v=s0TZyzasgsQ
+youtube_url = "https://www.youtube.com/watch?v=s0TZyzasgsQ"
 +++
 
 Readers, we can't stop watching this clip of Jerry Lewis lip-syncing to Mario Lanza's "Be My Love." 

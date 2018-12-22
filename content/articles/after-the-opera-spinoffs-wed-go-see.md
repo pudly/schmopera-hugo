@@ -4,7 +4,7 @@ date = "2014-08-27T15:33:00-04:00"
 lastmod = "2017-05-28T11:20:00-04:00"
 preamble = "We always love it when a supporting character in an opera steals the show. It's a tip-of-the-hat to the writing of the character, and to the singer/actor pulling it off. Sometimes these characters even stick with me longer than the leads; it's fun to imagine what happens to them after the main action has finished. Do the Five Jews all go and move into an apartment together, bickering charmingly like the Golden Girls? Does Cherubino stay with Rosina and play the good dad, or does he skip town to satisfy his still-ravenous sexual appetite, Don-Juan-style? Was Leporello gay, after all? Let's imagine a few potential operatic spin-offs, shall we?"
 publishDate = "2014-08-27T15:33:00-04:00"
-short_description = "I always love it when a supporting character in an opera steals the show. It's a tip-of-the-hat to the writing of the character, and to the singer/actor pulling it off. Sometimes these characters even stick with me longer than the leads; I imagine what happens to them after the main action has finished. "
+short_description = "I always love it when a supporting character in an opera steals the show. It&#039;s a tip-of-the-hat to the writing of the character, and to the singer/actor pulling it off. Sometimes these characters even stick with me longer than the leads; I imagine what happens to them after the main action has finished. "
 slug = "after-the-opera-spinoffs-wed-go-see"
 title = "After the opera: spin-offs we&#039;d go see"
 +++

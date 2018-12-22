@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-11-15T10:00:00+00:00"
 lastmod = "2016-11-15T11:31:00+00:00"
 publishDate = "2016-11-15T11:26:00+00:00"
-short_description = "We have our own exasperations with the idea of a femme fatale, especially when they're two-dimensional, relying on sex and spineless men. Yet Kentridge's Lulu brings us into a specific world, while seeming to simply reveal the story without bias. Like Berg's score, the production is one we're eager to see again, to notice more details in Kentridge's layered work."
+short_description = "We have our own exasperations with the idea of a femme fatale, especially when they&#039;re two-dimensional, relying on sex and spineless men. Yet Kentridge&#039;s Lulu brings us into a specific world, while seeming to simply reveal the story without bias. Like Berg&#039;s score, the production is one we&#039;re eager to see again, to notice more details in Kentridge&#039;s layered work."
 slug = "in-review-lulu-at-eno"
 title = "In review: Lulu at ENO"
 +++

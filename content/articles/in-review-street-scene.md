@@ -3,7 +3,7 @@ categories = "Review"
 date = "2015-02-02T10:51:00-05:00"
 lastmod = "2015-04-11T22:05:00-04:00"
 publishDate = "2015-02-02T10:51:00-05:00"
-short_description = "On Sunday afternoon I went to see VOICEBOX: Opera In Concert's production of Street Scene at the St. Lawrence Centre for the Arts. Kurt Weill's \"American Opera\", with text by Elmer Rice and Langston Hughes, is a fantastic piece, and I agreed with Artistic Director Guillermo Silva-Marin when he said that the show doesn't get done enough."
+short_description = "On Sunday afternoon I went to see VOICEBOX: Opera In Concert&#039;s production of Street Scene at the St. Lawrence Centre for the Arts. Kurt Weill&#039;s &quot;American Opera&quot;, with text by Elmer Rice and Langston Hughes, is a fantastic piece, and I agreed with Artistic Director Guillermo Silva-Marin when he said that the show doesn&#039;t get done enough."
 slug = "in-review-street-scene"
 title = "In review: Street Scene"
 +++

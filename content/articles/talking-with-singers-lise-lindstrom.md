@@ -4,7 +4,7 @@ date = "2016-08-20T18:44:00+01:00"
 lastmod = "2016-08-22T09:42:00+01:00"
 preamble = "American soprano Lise Lindstrom spends her time onstage with some of opera's most extraordinary women, like Turandot, Salome, Elektra, and Brünnhilde. Her 2016/17 season is no different, starting with *Turandot* in September at the [Wiener Staatsoper](http://www.wiener-staatsoper.at/Content.Node/home/spielplan/Spielplandetail.en.php?eventid=963266177), followed by a [*Ring Cycle* at Opera Australia](https://opera.org.au/melbourne/ring-cycle) in November.\n\nWe spoke with Lindstrom about the enviable roles she sings, and how she stays healthy enough for a *Ring Cycle* on the road."
 publishDate = "2016-08-22T09:42:00+01:00"
-short_description = "\"I sing because I couldn't NOT sing.  There was nothing else I was particularly good at or interested in, so thank heaven it worked out!  I am truly an artist at heart, and the joy I feel when being able to express myself through my voice is absolutely unparalleled.\""
+short_description = "&quot;I sing because I couldn&#039;t NOT sing.  There was nothing else I was particularly good at or interested in, so thank heaven it worked out!  I am truly an artist at heart, and the joy I feel when being able to express myself through my voice is absolutely unparalleled.&quot;"
 slug = "talking-with-singers-lise-lindstrom"
 title = "Talking with singers: Lise Lindstrom"
 +++

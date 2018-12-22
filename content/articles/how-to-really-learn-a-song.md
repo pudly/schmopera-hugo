@@ -4,7 +4,7 @@ date = "2015-06-07T14:44:00-04:00"
 lastmod = "2017-11-22T16:51:00-05:00"
 preamble = "The universal steps to learning a song, I know you've all got them down. You can read music, count rhythms, learn language, and tell stories. A lot of the music I work with involves a pianist and singer, and duetting is all about communication. In the process of \"learning your part,\" it's easy to forget to look up (or down) at some of the other musical lines happening in tandem with your own. Pianists are often guilty of getting micro-focused on what they're playing, forgetting to read the singers' words. Conversely, singers often learn their songs without fully taking advantage of the information in the piano part. Here are a few ways to do that, and improve your song-learning system."
 publishDate = "2015-06-08T08:00:00-04:00"
-short_description = "The universal steps to learning a song, I know you've all got them down. You can read music, count rhythms, learn language, and tell stories. A lot of the music I work with involves a pianist and singer, and duetting is all about communication. In the process of \"learning your part,\" it's easy to forget to look up (or down) at some of the other musical lines happening in tandem with your own. "
+short_description = "The universal steps to learning a song, I know you&#039;ve all got them down. You can read music, count rhythms, learn language, and tell stories. A lot of the music I work with involves a pianist and singer, and duetting is all about communication. In the process of &quot;learning your part,&quot; it&#039;s easy to forget to look up (or down) at some of the other musical lines happening in tandem with your own. "
 slug = "how-to-really-learn-a-song"
 title = "How to really learn a song"
 +++

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-11-11T14:33:00-05:00"
 lastmod = "2017-11-12T21:59:00-05:00"
 publishDate = "2017-11-12T10:26:00-05:00"
-short_description = "It's Alma, played by mezzo-soprano Crider who must carry the show on her musical shoulders and she delivers a stunning performance, both as singer and as actress. Crider doesn't miss a beat capturing the emotional complexity of Alma's character while traversing the complexity of Keeril Makan's score."
+short_description = "It&#039;s Alma, played by mezzo-soprano Crider who must carry the show on her musical shoulders and she delivers a stunning performance, both as singer and as actress. Crider doesn&#039;t miss a beat capturing the emotional complexity of Alma&#039;s character while traversing the complexity of Keeril Makan&#039;s score."
 slug = "persona-and-the-sounds-of-silence"
 title = "Persona and the Sounds of Silence"
 +++

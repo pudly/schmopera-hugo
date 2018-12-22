@@ -3,7 +3,7 @@ categories = "News"
 date = "2017-11-27T18:04:00-05:00"
 lastmod = "2017-11-27T18:55:00-05:00"
 publishDate = "2017-11-27T18:55:00-05:00"
-short_description = "The programme is a fantastic mix of top-shelf art song by Poulenc, Schubert, Zemlinsky, Marx, Turina, and Berg, alongside works by SongFest featured composers Tom Cipullo and Jake Heggie. Plus, there are a few tastes of the artists' operatic work, including the delicious final trio from Der Rosenkavalier."
+short_description = "The programme is a fantastic mix of top-shelf art song by Poulenc, Schubert, Zemlinsky, Marx, Turina, and Berg, alongside works by SongFest featured composers Tom Cipullo and Jake Heggie. Plus, there are a few tastes of the artists&#039; operatic work, including the delicious final trio from Der Rosenkavalier."
 slug = "dont-miss-songfest-alumni-in-recital"
 title = "Don&#039;t miss: SongFest alumni in recital"
 +++

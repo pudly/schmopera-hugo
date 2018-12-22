@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2015-05-03T14:03:00-04:00"
 lastmod = "2015-05-03T14:11:00-04:00"
 publishDate = "2015-05-03T14:10:00-04:00"
-short_description = "I made a pretty neat find over at Wolf Trap Opera's website, which has a great section on audition resources. WTO has [collected stats(http://opera.wolftrap.org/for-artists/audition-resources/) on the auditions they've heard over the last four seasons, and which arias are sung the most."
+short_description = "I made a pretty neat find over at Wolf Trap Opera&#039;s website, which has a great section on audition resources. WTO has [collected stats(http://opera.wolftrap.org/for-artists/audition-resources/) on the auditions they&#039;ve heard over the last four seasons, and which arias are sung the most."
 slug = "love-opera-love-stats-look-at-this"
 title = "Love opera? Love stats? Look at this."
 +++

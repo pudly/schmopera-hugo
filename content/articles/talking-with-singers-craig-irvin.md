@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-09-25T19:19:00+01:00"
 lastmod = "2016-10-05T09:54:00+01:00"
 publishDate = "2016-10-05T09:43:00+01:00"
-short_description = "Perhaps not surprisingly, Irvin learned some big truths about his singing life from being an amateur comic. \"If it was about the applause, I wouldn't have gotten up and done it again,\" he explains. \"It was about the performance. That's what I'm drawn to most of all.\""
+short_description = "Perhaps not surprisingly, Irvin learned some big truths about his singing life from being an amateur comic. &quot;If it was about the applause, I wouldn&#039;t have gotten up and done it again,&quot; he explains. &quot;It was about the performance. That&#039;s what I&#039;m drawn to most of all.&quot;"
 slug = "talking-with-singers-craig-irvin"
 title = "Talking with singers: Craig Irvin"
 +++

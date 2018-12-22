@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-01-27T21:23:00-05:00"
 lastmod = "2018-01-27T21:23:00-05:00"
 publishDate = "2018-01-27T21:23:00-05:00"
-short_description = "In a world where consent is so often coerced – Tosca's world, and ours – it's impossible not to draw comparisons to stories of #MeToo, #TimesUp, and a slew of fallen titans. It's easy to imagine Scarpia as a man who might have a button hidden beneath his desk to lock his office door."
+short_description = "In a world where consent is so often coerced – Tosca&#039;s world, and ours – it&#039;s impossible not to draw comparisons to stories of #MeToo, #TimesUp, and a slew of fallen titans. It&#039;s easy to imagine Scarpia as a man who might have a button hidden beneath his desk to lock his office door."
 slug = "steps-forward-for-operas-women-tosca-at-pbo"
 title = "Steps forward for opera&#039;s women: Tosca at PBO"
 +++

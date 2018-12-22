@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2014-01-16T12:12:00-05:00"
 lastmod = "2015-04-28T22:39:00-04:00"
 publishDate = "2014-01-16T12:12:00-05:00"
-short_description = "Did you hear? Against the Grain Theatre is partnering with the Banff Centre for the Arts and the Canadian Opera Company to premiere a new opera training program! Led by AtG's artistic director Joel Ivany and music director Christopher Mokrzewski, eight singers will have the chance to workshop operatic skills in an innovative way."
+short_description = "Did you hear? Against the Grain Theatre is partnering with the Banff Centre for the Arts and the Canadian Opera Company to premiere a new opera training program! Led by AtG&#039;s artistic director Joel Ivany and music director Christopher Mokrzewski, eight singers will have the chance to workshop operatic skills in an innovative way."
 slug = "im-chuffed"
 title = "&quot;I&#039;m chuffed!&quot;"
 +++

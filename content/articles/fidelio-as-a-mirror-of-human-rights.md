@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-10-15T10:59:00-04:00"
 lastmod = "2018-10-15T20:52:00-04:00"
 publishDate = "2018-10-15T20:52:00-04:00"
-short_description = "In fact, this whole production makes reference to human rights abuses across the world; projected background images include those of Colombian mothers protesting the army-sponsored murder of their sons, to Goya's painting \"The Third of May\", a depiction of the execution of unarmed soldiers. This production misses no opportunity to shine a light on the corruption of power, and the resultant loss of human rights."
+short_description = "In fact, this whole production makes reference to human rights abuses across the world; projected background images include those of Colombian mothers protesting the army-sponsored murder of their sons, to Goya&#039;s painting &quot;The Third of May&quot;, a depiction of the execution of unarmed soldiers. This production misses no opportunity to shine a light on the corruption of power, and the resultant loss of human rights."
 slug = "fidelio-as-a-mirror-of-human-rights"
 title = "Fidelio as a mirror of human rights"
 +++

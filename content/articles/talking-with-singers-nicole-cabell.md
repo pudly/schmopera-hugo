@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2015-11-28T23:50:00+00:00"
 lastmod = "2016-10-18T21:00:00+01:00"
 publishDate = "2015-12-01T13:52:00+00:00"
-short_description = "\"There's a part of me, and every singer I know, that wants to settle down and have a normal job and a family, and all that. But then there's this other part, and I think if you don't have this, you're gonna have a hard time. There's this other part where you're really restless if you're not aways going, and having crazy adventures. *Wanderlust*, I guess. I have that in me.\" "
+short_description = "&quot;There&#039;s a part of me, and every singer I know, that wants to settle down and have a normal job and a family, and all that. But then there&#039;s this other part, and I think if you don&#039;t have this, you&#039;re gonna have a hard time. There&#039;s this other part where you&#039;re really restless if you&#039;re not aways going, and having crazy adventures. *Wanderlust*, I guess. I have that in me.&quot; "
 slug = "talking-with-singers-nicole-cabell"
 title = "Talking with singers: Nicole Cabell"
 +++

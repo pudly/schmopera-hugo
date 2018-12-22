@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2017-04-01T13:06:00+01:00"
 lastmod = "2017-04-03T13:17:00+01:00"
 publishDate = "2017-04-03T13:17:00+01:00"
-short_description = "Unless you are fortunate enough to be a star in high demand you don't have to worry right? WRONG! Even then, you've got bills not limited to agent commissions, AGMA fees, health insurance, travel, rent sometimes in multiple locations and those dreaded gigs that don't line up in the calendar year in a foreign country... even out of state poses challenges depending on your official place of residence."
+short_description = "Unless you are fortunate enough to be a star in high demand you don&#039;t have to worry right? WRONG! Even then, you&#039;ve got bills not limited to agent commissions, AGMA fees, health insurance, travel, rent sometimes in multiple locations and those dreaded gigs that don&#039;t line up in the calendar year in a foreign country... even out of state poses challenges depending on your official place of residence."
 slug = "singers-its-the-annual-tax-season-conundrum"
 title = "Singers, it&#039;s the annual Tax Season Conundrum!"
 +++

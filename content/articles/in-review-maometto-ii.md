@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-05-04T17:33:00+01:00"
 lastmod = "2016-05-04T18:00:00+01:00"
 publishDate = "2016-05-04T18:00:00+01:00"
-short_description = "David Alden's production of Maometto, a work that until the revival in Santa Fe in 2012 hadn't been performed in it's entirety since Naples in 1820, was exactly what I think the COC needed in its season at this point. A simple, easy to digest set and staging, with a thrilling orchestra and incomparable vocals. I can't... I just can't get over the voices I heard last night."
+short_description = "David Alden&#039;s production of Maometto, a work that until the revival in Santa Fe in 2012 hadn&#039;t been performed in it&#039;s entirety since Naples in 1820, was exactly what I think the COC needed in its season at this point. A simple, easy to digest set and staging, with a thrilling orchestra and incomparable vocals. I can&#039;t... I just can&#039;t get over the voices I heard last night."
 slug = "in-review-maometto-ii"
 title = "In review: Maometto II"
 +++

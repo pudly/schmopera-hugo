@@ -4,7 +4,7 @@ date = "2016-05-25T05:23:00-04:00"
 lastmod = "2017-09-28T11:28:00-04:00"
 preamble = "There's no faking what opera singers do onstage. It's the result of legitimate hard work, and the staggering skills they show come precisely from not taking shortcuts or band-aid approaches to fixing problems. Real as it is, these artists have their bags of tricks. Singers, please forgive us for outing some of your little secrets..."
 publishDate = "2016-05-25T06:53:00-04:00"
-short_description = "There's no faking what opera singers do onstage. It's the result of legitimate hard work, and the staggering skills they show come precisely from not taking shortcuts or band-aid approaches to fixing problems. Real as it is, these artists have their bags of tricks. Singers, please forgive us for outing some of your little secrets..."
+short_description = "There&#039;s no faking what opera singers do onstage. It&#039;s the result of legitimate hard work, and the staggering skills they show come precisely from not taking shortcuts or band-aid approaches to fixing problems. Real as it is, these artists have their bags of tricks. Singers, please forgive us for outing some of your little secrets..."
 slug = "singers-masters-of-illusions"
 title = "Singers: masters of illusions"
 +++

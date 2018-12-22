@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-06-01T22:13:00-04:00"
 lastmod = "2018-07-02T18:48:00-04:00"
 publishDate = "2018-06-01T22:13:00-04:00"
-short_description = "I would say that Wuorinen has done Proulx's story justice, and breathed new, interesting life into what is already considered an important narrative in LGBTQ storytelling."
+short_description = "I would say that Wuorinen has done Proulx&#039;s story justice, and breathed new, interesting life into what is already considered an important narrative in LGBTQ storytelling."
 slug = "distant-emotional-brokeback-mountain-a-paradoxical-success"
 title = "Distant, Emotional Brokeback Mountain A Paradoxical Success"
 +++

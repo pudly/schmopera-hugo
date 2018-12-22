@@ -3,7 +3,7 @@ categories = "Review"
 date = "2015-11-13T12:10:00-05:00"
 lastmod = "2015-11-13T13:41:00-05:00"
 publishDate = "2015-11-13T13:04:00-05:00"
-short_description = "I took a break from straight-up opera last night, and headed to Roy Thomson Hall to hear the Toronto Symphony Orchestra in the latest instalment of their ongoing Decades Project, in partnership with the AGO, which looks deeply at the music of the early 20th century, last night in particular, 1900-1909. These years brought us a large orchestra, with lush, creative sound palates that are a clear predecessor to soon-to-come film scores. It's the culmination of all the Romantic music coming out of the 19th century, and all the experimentation and industry of the early 1900s. A simplified way of describing it is, \"more is more\"."
+short_description = "I took a break from straight-up opera last night, and headed to Roy Thomson Hall to hear the Toronto Symphony Orchestra in the latest instalment of their ongoing Decades Project, in partnership with the AGO, which looks deeply at the music of the early 20th century, last night in particular, 1900-1909. These years brought us a large orchestra, with lush, creative sound palates that are a clear predecessor to soon-to-come film scores. It&#039;s the culmination of all the Romantic music coming out of the 19th century, and all the experimentation and industry of the early 1900s. A simplified way of describing it is, &quot;more is more&quot;."
 slug = "in-review-mahler-other-beauties-at-the-tso"
 title = "In review: Mahler &amp; other beauties at the TSO"
 +++

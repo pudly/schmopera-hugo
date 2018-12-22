@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2017-10-31T17:59:00-04:00"
 lastmod = "2017-11-01T14:34:00-04:00"
 publishDate = "2017-11-01T14:34:00-04:00"
-short_description = "Moreso than a healthy sex life, is it not also empowering for an older woman to have agency of her own? To make her own decisions? Maybe Octavian can sleep with anyone, but for now he's sleeping with her. Not once does the Marschallin confuse what she has with Octavian with true love."
+short_description = "Moreso than a healthy sex life, is it not also empowering for an older woman to have agency of her own? To make her own decisions? Maybe Octavian can sleep with anyone, but for now he&#039;s sleeping with her. Not once does the Marschallin confuse what she has with Octavian with true love."
 slug = "facts-leaps-taking-unnecessary-offence"
 title = "Facts, leaps &amp; taking unnecessary offence"
 +++

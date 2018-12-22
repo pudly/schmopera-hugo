@@ -3,7 +3,7 @@ categories = "Review"
 date = "2015-08-19T19:30:00+02:00"
 lastmod = "2015-08-20T15:08:00+02:00"
 publishDate = "2015-08-19T20:10:00+02:00"
-short_description = " I walked into RED Nightclub to catch LooseTea Music Theatre's latest offering, \"Dissociative Me\". A new transladaptation of Gounod's Faust, in which we find the devious relationship with the malevolent spirit Mephistopheles has evolved into a dissociative personality disorder, where he inhabits the other part of John Faustus's psyche."
+short_description = " I walked into RED Nightclub to catch LooseTea Music Theatre&#039;s latest offering, &quot;Dissociative Me&quot;. A new transladaptation of Gounod&#039;s Faust, in which we find the devious relationship with the malevolent spirit Mephistopheles has evolved into a dissociative personality disorder, where he inhabits the other part of John Faustus&#039;s psyche."
 slug = "in-review-dissociative-me"
 title = "In review: Dissociative Me"
 +++

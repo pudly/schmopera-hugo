@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2015-10-25T17:30:00-06:00"
 lastmod = "2016-06-19T19:33:00-06:00"
 publishDate = "2015-10-28T09:00:00-06:00"
-short_description = "Cuban-American soprano Elizabeth Cabellero has built herself a busy life on the road, singing some of opera's most coveted roles in houses across the United States. She just finished singing Donna Elvira in Lyric Opera of Kansas City's Don Giovanni, and when we spoke over Skype, she was in Miami, FL, preparing for a recital in honour of legendary Romanian soprano, Virginia Zeani. "
+short_description = "Cuban-American soprano Elizabeth Cabellero has built herself a busy life on the road, singing some of opera&#039;s most coveted roles in houses across the United States. She just finished singing Donna Elvira in Lyric Opera of Kansas City&#039;s Don Giovanni, and when we spoke over Skype, she was in Miami, FL, preparing for a recital in honour of legendary Romanian soprano, Virginia Zeani. "
 slug = "talking-with-singers-elizabeth-caballero"
 title = "Talking with singers: Elizabeth Caballero"
 +++

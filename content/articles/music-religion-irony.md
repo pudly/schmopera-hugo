@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2016-09-19T10:15:00+01:00"
 lastmod = "2016-09-19T13:39:00+01:00"
 publishDate = "2016-09-19T13:00:00+01:00"
-short_description = "Perhaps this happens because music is one of those things that can truly offer the exhilarating joy and sense of belonging that many religious seek. It's perhaps not the same thing, but in my work with music, I have experienced moments of happiness, awe, and admiration so great my whole self vibrates."
+short_description = "Perhaps this happens because music is one of those things that can truly offer the exhilarating joy and sense of belonging that many religious seek. It&#039;s perhaps not the same thing, but in my work with music, I have experienced moments of happiness, awe, and admiration so great my whole self vibrates."
 slug = "music-religion-irony"
 title = "Music, religion, &amp; irony"
 +++

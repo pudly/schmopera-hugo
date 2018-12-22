@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2014-05-03T11:11:00-04:00"
 lastmod = "2015-04-23T20:55:00-04:00"
 publishDate = "2014-05-03T11:11:00-04:00"
-short_description = "That's right, they asked me back. This time I joined host Gianmarco Segato with COC Ensemble member Cameron McPhail and artist manager Alia Rosenstock (Dean Artists Management). We talked about the San Diego Opera kerfuffle, about the Metropolitan Opera Chorus, and what the arts are worth. It gets juicy, let me tell you. Have a listen!"
+short_description = "That&#039;s right, they asked me back. This time I joined host Gianmarco Segato with COC Ensemble member Cameron McPhail and artist manager Alia Rosenstock (Dean Artists Management). We talked about the San Diego Opera kerfuffle, about the Metropolitan Opera Chorus, and what the arts are worth. It gets juicy, let me tell you. Have a listen!"
 slug = "im-on-a-podcast-again"
 title = "I&#039;m on a podcast! Again!"
 +++

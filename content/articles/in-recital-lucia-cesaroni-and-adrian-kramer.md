@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2014-10-28T09:00:00-04:00"
 lastmod = "2015-04-14T10:09:00-04:00"
 publishDate = "2014-10-28T09:00:00-04:00"
-short_description = "Coming up in Toronto next month: two Canadian singers team up in recital. Tenor Adrian Kramer, soprano Lucia Cesaroni and pianist Maika'i Nash present Extensions  of Us: Melody and Movement. "
+short_description = "Coming up in Toronto next month: two Canadian singers team up in recital. Tenor Adrian Kramer, soprano Lucia Cesaroni and pianist Maika&#039;i Nash present Extensions  of Us: Melody and Movement. "
 slug = "in-recital-lucia-cesaroni-and-adrian-kramer"
 title = "In recital: Lucia Cesaroni and Adrian Kramer"
 +++

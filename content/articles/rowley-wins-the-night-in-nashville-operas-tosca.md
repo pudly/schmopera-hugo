@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-10-07T10:37:00-04:00"
 lastmod = "2017-10-07T11:13:00-04:00"
 publishDate = "2017-10-07T11:00:00-04:00"
-short_description = "My companion for the evening hadn't seen Tosca before (or even heard the music!), and quickly read a synopsis in advance (\"I get the idea,\" she texted me, \"Opera war Italy love murder. Papal stuff.\"), but a synopsis can't really prepare one for this opera, can it?"
+short_description = "My companion for the evening hadn&#039;t seen Tosca before (or even heard the music!), and quickly read a synopsis in advance (&quot;I get the idea,&quot; she texted me, &quot;Opera war Italy love murder. Papal stuff.&quot;), but a synopsis can&#039;t really prepare one for this opera, can it?"
 slug = "rowley-wins-the-night-in-nashville-operas-tosca"
 title = "Rowley wins the night in Nashville Opera&#039;s Tosca"
 +++

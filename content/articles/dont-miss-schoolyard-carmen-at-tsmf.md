@@ -1,8 +1,8 @@
 +++
 categories = "News"
 date = "2017-07-04T17:11:00-06:00"
+draft = true
 lastmod = "2017-07-05T15:28:00-06:00"
-publishDate = "undefined"
 short_description = "For over 10 seasons, Shoestring Opera has performed for sold-out audiences, adapting operatic classics for young audiences to enjoy. The Schoolyard Carmen brings together soprano Gillian Grossman, baritone Janaka Welihinda, pianist Jiayin Liu, and cellist/executive producer Anne Rankin."
 slug = "dont-miss-schoolyard-carmen-at-tsmf"
 title = "Don&#039;t miss: Schoolyard Carmen at TSMF"

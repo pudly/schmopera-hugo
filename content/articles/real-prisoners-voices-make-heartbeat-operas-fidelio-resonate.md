@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-05-11T18:24:00-04:00"
 lastmod = "2018-05-11T21:25:00-04:00"
 publishDate = "2018-05-11T19:58:00-04:00"
-short_description = "Video projections reinforce the inmates' commitment to music and text, their chins raised, brows gently furrowed, and lips outstretched to form German vowels. The singing is emotionally wrenching in its delicate roughness."
+short_description = "Video projections reinforce the inmates&#039; commitment to music and text, their chins raised, brows gently furrowed, and lips outstretched to form German vowels. The singing is emotionally wrenching in its delicate roughness."
 slug = "real-prisoners-voices-make-heartbeat-operas-fidelio-resonate"
 title = "Real Prisoners&#039; Voices Make Heartbeat Opera&#039;s &quot;Fidelio&quot; Resonate"
 +++

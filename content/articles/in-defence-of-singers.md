@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2014-04-22T08:09:00-06:00"
 lastmod = "2017-06-28T21:32:00-06:00"
 publishDate = "2014-04-22T08:09:00-06:00"
-short_description = "I remember playing some auditions as part of a \"mock\" audition panel where the singers would get feedback about their audition presentation. I played for a soprano (who’s doing very well for herself lately) who started smart with some Mozart. One of the auditioners then said to her, “Not that it’s at all appropriate, but I’d love to hear the Lodoletta.” Sigh."
+short_description = "I remember playing some auditions as part of a &quot;mock&quot; audition panel where the singers would get feedback about their audition presentation. I played for a soprano (who’s doing very well for herself lately) who started smart with some Mozart. One of the auditioners then said to her, “Not that it’s at all appropriate, but I’d love to hear the Lodoletta.” Sigh."
 slug = "in-defence-of-singers"
 title = "In defence of singers"
 +++

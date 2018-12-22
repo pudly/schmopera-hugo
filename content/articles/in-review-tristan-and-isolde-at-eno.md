@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-06-10T12:03:00+01:00"
 lastmod = "2016-06-11T12:54:00+01:00"
 publishDate = "2016-06-11T12:02:00+01:00"
-short_description = "Tristan's ship was full of looming angles and barriers, allowing for beautiful symmetry of the two would-be lovers and their respective servants. Act II seemed an otherworldly spot for Tristan and Isolde's nocturnal tryst; it looked like its own planet, or perhaps the very center of the earth, in either case clearly underlining the singular, primordial ur-love that this couple embodies. Act III was bleak, harsh white against thick black, evolving only to blood red and a charred vista of  dead rock, where Isolde and Tristan reunite in life for the last time."
+short_description = "Tristan&#039;s ship was full of looming angles and barriers, allowing for beautiful symmetry of the two would-be lovers and their respective servants. Act II seemed an otherworldly spot for Tristan and Isolde&#039;s nocturnal tryst; it looked like its own planet, or perhaps the very center of the earth, in either case clearly underlining the singular, primordial ur-love that this couple embodies. Act III was bleak, harsh white against thick black, evolving only to blood red and a charred vista of  dead rock, where Isolde and Tristan reunite in life for the last time."
 slug = "in-review-tristan-and-isolde-at-eno"
 title = "In review: Tristan and Isolde at ENO"
 +++

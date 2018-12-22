@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2014-03-03T12:26:00-05:00"
 lastmod = "2015-04-27T21:14:00-04:00"
 publishDate = "2014-03-03T12:26:00-05:00"
-short_description = "You know, after sitting at the piano through many, _many_ voice lessons, I've never felt an urge to attempt to do what singers do. It's too difficult; and too many people have an opinion on how to do the difficult thing, and I honestly don't know how professional singers do it."
+short_description = "You know, after sitting at the piano through many, _many_ voice lessons, I&#039;ve never felt an urge to attempt to do what singers do. It&#039;s too difficult; and too many people have an opinion on how to do the difficult thing, and I honestly don&#039;t know how professional singers do it."
 slug = "three-big-things-we-can-all-learn-from-singers"
 title = "Three Big Things We Can All Learn From Singers"
 +++

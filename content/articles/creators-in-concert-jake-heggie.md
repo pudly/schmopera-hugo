@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-03-09T20:20:00+00:00"
 lastmod = "2016-03-10T11:08:00+00:00"
 publishDate = "2016-03-10T10:45:00+00:00"
-short_description = "Heggie will take the piano, along with soprano Talise Trevigne, mezzo Elise Quagliata, tenor Stephen Costello and baritone Joseph Lattanzi. The four singers have been involved in the workshopping and performance history of Heggie's works, and with the in-demand American composer, they'll perform selections from Moby-Dick, Dead Man Walking, Three Decembers and more."
+short_description = "Heggie will take the piano, along with soprano Talise Trevigne, mezzo Elise Quagliata, tenor Stephen Costello and baritone Joseph Lattanzi. The four singers have been involved in the workshopping and performance history of Heggie&#039;s works, and with the in-demand American composer, they&#039;ll perform selections from Moby-Dick, Dead Man Walking, Three Decembers and more."
 slug = "creators-in-concert-jake-heggie"
 title = "Creators in Concert: Jake Heggie"
 +++

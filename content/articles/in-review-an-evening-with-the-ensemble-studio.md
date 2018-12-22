@@ -4,7 +4,7 @@ date = "2017-02-25T11:04:00+00:00"
 lastmod = "2017-02-25T16:04:00+00:00"
 preamble = "Feature photo: Mezzo-soprano Emily D'Angelo performs in the Canadian Opera Company's An Evening with the Ensemble Studio on February 23, 2017, with the COC Orchestra conducted by COC Music Director Johannes Debus. Photographer: Bronwen Sharp."
 publishDate = "2017-02-25T15:58:00+00:00"
-short_description = "With the incredible COC Orchestra on stage surrounded by the set of their current production of Mozart's The Magic Flute, the night opened with the overture and first five scenes of Mozart's La finta giardiniera, then the stunning Norma/Adalgisa duet scene from Norma. After intermission they closed out the night with the final string of scenes from Handel's Ariodante."
+short_description = "With the incredible COC Orchestra on stage surrounded by the set of their current production of Mozart&#039;s The Magic Flute, the night opened with the overture and first five scenes of Mozart&#039;s La finta giardiniera, then the stunning Norma/Adalgisa duet scene from Norma. After intermission they closed out the night with the final string of scenes from Handel&#039;s Ariodante."
 slug = "in-review-an-evening-with-the-ensemble-studio"
 title = "In review: An Evening with the Ensemble Studio"
 +++

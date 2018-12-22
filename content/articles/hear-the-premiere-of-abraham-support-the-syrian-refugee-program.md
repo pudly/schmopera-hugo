@@ -3,7 +3,7 @@ categories = "News"
 date = "2015-10-26T22:28:00-04:00"
 lastmod = "2015-10-27T15:29:00-04:00"
 publishDate = "2015-10-27T14:25:00-04:00"
-short_description = "Tomorrow night, head to the Metropolitan United Church to hear the première of Abraham, a new oratorio by Dora award-winning composer David Warrack (Torontosaurus, Oh Susanna, Interpretations of a Life). Tickets start at $36, and funds raised will go towards the Church's Syrian Refugee Program."
+short_description = "Tomorrow night, head to the Metropolitan United Church to hear the première of Abraham, a new oratorio by Dora award-winning composer David Warrack (Torontosaurus, Oh Susanna, Interpretations of a Life). Tickets start at $36, and funds raised will go towards the Church&#039;s Syrian Refugee Program."
 slug = "hear-the-premiere-of-abraham-support-the-syrian-refugee-program"
 title = "Hear the premiere of Abraham, support the Syrian Refugee Program"
 +++

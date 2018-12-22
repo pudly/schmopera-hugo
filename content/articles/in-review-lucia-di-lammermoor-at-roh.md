@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-04-08T10:27:00+01:00"
 lastmod = "2017-01-09T10:29:00+00:00"
 publishDate = "2016-04-08T11:24:00+01:00"
-short_description = "There was Lucia, embodying the most horrible, messy, inappropriate and inconvenient lows in a woman's life. By showing us all these unseen scenes, Mitchell managed to create a real relationship not only between Lucia and Edgardo, but between Lucia and Alisa, sung and acted beautifully by Rachael Lloyd. The gross differences between victory and loss, men's stories and women's, were powerful."
+short_description = "There was Lucia, embodying the most horrible, messy, inappropriate and inconvenient lows in a woman&#039;s life. By showing us all these unseen scenes, Mitchell managed to create a real relationship not only between Lucia and Edgardo, but between Lucia and Alisa, sung and acted beautifully by Rachael Lloyd. The gross differences between victory and loss, men&#039;s stories and women&#039;s, were powerful."
 slug = "in-review-lucia-di-lammermoor-at-roh"
 title = "In review: Lucia di Lammermoor at ROH"
 +++

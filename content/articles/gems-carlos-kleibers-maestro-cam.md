@@ -2,10 +2,10 @@
 date = "2015-09-09T11:51:00-04:00"
 lastmod = "2015-09-10T12:48:00-04:00"
 publishDate = "2015-09-10T11:46:00-04:00"
-short_description = "One of my favourite parts about being backstage during a show is looking at all the monitors. They're mostly showing the maestro, via the now-ubiquitous camera in the orchestra pit. I love watching the small reactions on the maestro's face, noting what he hears, what he wants, if he has any opinions on what's happening on stage."
+short_description = "One of my favourite parts about being backstage during a show is looking at all the monitors. They&#039;re mostly showing the maestro, via the now-ubiquitous camera in the orchestra pit. I love watching the small reactions on the maestro&#039;s face, noting what he hears, what he wants, if he has any opinions on what&#039;s happening on stage."
 slug = "gems-carlos-kleibers-maestro-cam"
 title = "Gems: Carlos Kleiber&#039;s Maestro Cam"
-youtube_url = https://www.youtube.com/watch?v=j54XR1JcMJA
+youtube_url = "https://www.youtube.com/watch?v=j54XR1JcMJA"
 +++
 
 One of my favourite parts about being backstage during a show is looking at all the monitors. They're mostly showing the maestro, via the now-ubiquitous camera in the orchestra pit. I love watching the small reactions on the maestro's face, noting what he hears, what he wants, if he has any opinions on what's happening on stage.

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-09-17T12:51:00+01:00"
 lastmod = "2016-09-17T15:29:00+01:00"
 publishDate = "2016-09-17T15:25:00+01:00"
-short_description = "Ollé's production slowly revealed itself to be much more than a collection of provocative symbols, yet it still left us with questions. There were unnecessary distractions: he let swing a giant, swinging thurible just before Norma's infamous \"Casta diva\" aria; and when Norma's kids fall asleep watching television, the flat-screen TV blared (silent) cartoons throughout her entire act II scene with Adalgisa."
+short_description = "Ollé&#039;s production slowly revealed itself to be much more than a collection of provocative symbols, yet it still left us with questions. There were unnecessary distractions: he let swing a giant, swinging thurible just before Norma&#039;s infamous &quot;Casta diva&quot; aria; and when Norma&#039;s kids fall asleep watching television, the flat-screen TV blared (silent) cartoons throughout her entire act II scene with Adalgisa."
 slug = "in-review-norma-at-roh"
 title = "In review: Norma at ROH"
 +++

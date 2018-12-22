@@ -3,7 +3,7 @@ categories = "Review"
 date = "2014-04-18T16:56:00-04:00"
 lastmod = "2015-04-27T21:19:00-04:00"
 publishDate = "2014-04-18T16:56:00-04:00"
-short_description = "I went and saw Hercules at the Canadian Opera Company on Tuesday, and it was the jackpot of incredible talent onstage. It's directed by the one-of-a-kind Peter Sellars, conducted by the brilliant Harry Bicket, and Eric Owens and Alice Coote star as the soldier and soldier's wife. Beautiful. And it really was a stunning spectacle, one with an uncomfortably true message."
+short_description = "I went and saw Hercules at the Canadian Opera Company on Tuesday, and it was the jackpot of incredible talent onstage. It&#039;s directed by the one-of-a-kind Peter Sellars, conducted by the brilliant Harry Bicket, and Eric Owens and Alice Coote star as the soldier and soldier&#039;s wife. Beautiful. And it really was a stunning spectacle, one with an uncomfortably true message."
 slug = "in-review-hercules"
 title = "In review: Hercules"
 +++

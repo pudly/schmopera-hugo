@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2017-03-24T13:03:00+00:00"
 lastmod = "2017-03-25T11:55:00+00:00"
 publishDate = "2017-03-25T11:35:00+00:00"
-short_description = "There's something to be said for adding personal comportment to the long list of must-haves within the competitive industry of opera; with so many great singers vying for coveted professional spots, why give the gigs to the man who drinks so much that he smashes peoples' heads against toilet bowls?"
+short_description = "There&#039;s something to be said for adding personal comportment to the long list of must-haves within the competitive industry of opera; with so many great singers vying for coveted professional spots, why give the gigs to the man who drinks so much that he smashes peoples&#039; heads against toilet bowls?"
 slug = "poor-decisions-professional-consequences"
 title = "Poor decisions &amp; professional consequences"
 +++

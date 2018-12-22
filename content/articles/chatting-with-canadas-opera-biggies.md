@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2015-04-10T21:24:00-04:00"
 lastmod = "2015-04-10T21:24:00-04:00"
 publishDate = "2015-03-24T13:24:00-04:00"
-short_description = "Exciting news, everyone! Late next week, I'll be sitting down to chat with a panel of folks who certainly know their opera.\n\nThe topic? Regietheater productions, the role of the opera director, and how their innovative (and often wacky) ideas can propel opera forward."
+short_description = "Exciting news, everyone! Late next week, I&#039;ll be sitting down to chat with a panel of folks who certainly know their opera.\n\nThe topic? Regietheater productions, the role of the opera director, and how their innovative (and often wacky) ideas can propel opera forward."
 slug = "chatting-with-canadas-opera-biggies"
 title = "Chatting with Canada&#039;s Opera Biggies"
 +++

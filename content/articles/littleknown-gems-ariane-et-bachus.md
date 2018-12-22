@@ -4,7 +4,7 @@ date = "2017-09-21T12:01:00-04:00"
 lastmod = "2017-09-23T11:48:00-04:00"
 preamble = "Late this month, Haymarket Opera Company opens its run of [*Ariane et Bachus*](http://www.haymarketopera.org/arianeetbachus), a rare take on a tale that opera lovers know well. First performed in Paris, 1696, under the reign of Louis XIV, the opera by Marin Marais, famed composer and virtuoso gamba player  tells the story of Ariadne and Bacchus, with enough surprising plot twists in the libretto by Saint-Jean to keep Greek mythology experts on their toes.\n\n[*Ariane et Bachus*](http://www.haymarketopera.org/arianeetbachus) runs at the Studebaker Theater in Chicago, **September 30, October 1 & 3, 2017**. We spoke with music director Craig Trompeter and stage director/choreographer Sarah Edgar about Haymarket Opera's first foray into French *tragédie en musique*, the strong focus on dance and design, and their favourite parts of Marais' opera."
 publishDate = "2017-09-23T11:48:00-04:00"
-short_description = "\"I have to admit that I am partial to demons, having portrayed a dancing fury a few times myself. After carefully embodying good taste in the noble characters, the evil characters get to break all the rules. Plus, in hell you get to play with snakes, wands, and torches.\""
+short_description = "&quot;I have to admit that I am partial to demons, having portrayed a dancing fury a few times myself. After carefully embodying good taste in the noble characters, the evil characters get to break all the rules. Plus, in hell you get to play with snakes, wands, and torches.&quot;"
 slug = "littleknown-gems-ariane-et-bachus"
 title = "&quot;Little-known gems&quot;: Ariane et Bachus"
 +++

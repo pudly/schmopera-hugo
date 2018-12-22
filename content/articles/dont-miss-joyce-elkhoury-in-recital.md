@@ -3,7 +3,7 @@ categories = "News"
 date = "2015-10-08T09:32:00-04:00"
 lastmod = "2015-10-08T13:54:00-04:00"
 publishDate = "2015-10-08T12:00:00-04:00"
-short_description = "On October 19th at noon, soprano Joyce El-Khoury is giving a recital at Classical 96.3 FM's The New Zoomer Studio in Liberty Village. Send an RSVP by email; the first 50 to respond will get two passes for the recital, followed by a gourmet lunch."
+short_description = "On October 19th at noon, soprano Joyce El-Khoury is giving a recital at Classical 96.3 FM&#039;s The New Zoomer Studio in Liberty Village. Send an RSVP by email; the first 50 to respond will get two passes for the recital, followed by a gourmet lunch."
 slug = "dont-miss-joyce-elkhoury-in-recital"
 title = "Don&#039;t miss: Joyce El-Khoury in recital"
 +++

@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2016-07-24T21:48:00-04:00"
 lastmod = "2018-02-15T09:32:00-05:00"
 publishDate = "2016-07-25T10:18:00-04:00"
-short_description = "Promoting Domingo, in between the well-honed performances of the Operalia finalists, felt in opposition to the competition's mission. The business of advertising seemed to take over the air time between competitors. Perhaps it was the perfect opportunity for Domingo to promote his work, since the Operalia audience is the right demographic to purchase a documentary like \"My Greatest Roles\"."
+short_description = "Promoting Domingo, in between the well-honed performances of the Operalia finalists, felt in opposition to the competition&#039;s mission. The business of advertising seemed to take over the air time between competitors. Perhaps it was the perfect opportunity for Domingo to promote his work, since the Operalia audience is the right demographic to purchase a documentary like &quot;My Greatest Roles&quot;."
 slug = "operalia-advertising"
 title = "Operalia &amp; advertising"
 +++

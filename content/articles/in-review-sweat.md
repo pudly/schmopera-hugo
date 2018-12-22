@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-08-03T12:39:00-04:00"
 lastmod = "2017-08-03T13:08:00-04:00"
 publishDate = "2017-08-03T13:05:00-04:00"
-short_description = "It's a story that confirms one's hunches about where their $12 tank tops come from, and one that addresses the unresolved truths that are sadly outweighed by the temptations of corporate profit and customer convenience (\"If I don't buy it, someone else will.\"). The opera itself is a cross between an ensemble piece and a vaguely heroic story of one factory worker who fights for fair treatment."
+short_description = "It&#039;s a story that confirms one&#039;s hunches about where their $12 tank tops come from, and one that addresses the unresolved truths that are sadly outweighed by the temptations of corporate profit and customer convenience (&quot;If I don&#039;t buy it, someone else will.&quot;). The opera itself is a cross between an ensemble piece and a vaguely heroic story of one factory worker who fights for fair treatment."
 slug = "in-review-sweat"
 title = "In review: Sweat"
 +++

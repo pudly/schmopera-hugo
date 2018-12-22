@@ -3,7 +3,7 @@ categories = "News"
 date = "2017-04-21T18:46:00-04:00"
 lastmod = "2017-04-22T08:39:00-04:00"
 publishDate = "2017-04-22T08:39:00-04:00"
-short_description = "\"Once I became comfortable with my ability as an opera singer, once I got to the point where I felt immersed in the form, then I began to question the form itself,\" says Bickersteth. \"I started to wonder how I, as a black person singing white European roles from another era, connect personally to this art form. It became problematic to connect with what I was trained to sing. I love the music, but I began to feel constricted in my expression of it. I began to look for other ways to fuse my training and love of classical music, with my dawning awareness of other modes of expression.\""
+short_description = "&quot;Once I became comfortable with my ability as an opera singer, once I got to the point where I felt immersed in the form, then I began to question the form itself,&quot; says Bickersteth. &quot;I started to wonder how I, as a black person singing white European roles from another era, connect personally to this art form. It became problematic to connect with what I was trained to sing. I love the music, but I began to feel constricted in my expression of it. I began to look for other ways to fuse my training and love of classical music, with my dawning awareness of other modes of expression.&quot;"
 slug = "dont-miss-century-song"
 title = "Don&#039;t miss: Century Song"
 +++

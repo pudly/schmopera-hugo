@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-05-30T10:06:00+01:00"
 lastmod = "2016-05-30T16:54:00+01:00"
 publishDate = "2016-05-30T10:24:00+01:00"
-short_description = "As the autistic son, Paul, Asitha Tennekoon is a revelation. His beautiful leggiero tenor was perfect for playing the delicate Paul. It bridged the gap between full Mozart opera and contemporary musical theatre. But to be honest, his acting is the reason to see this show. I've been watching Asitha grow as a performer over the last couple of years and I have to say that this could literally be a breakout role for this young man. It was endearing, truthful, and raw. "
+short_description = "As the autistic son, Paul, Asitha Tennekoon is a revelation. His beautiful leggiero tenor was perfect for playing the delicate Paul. It bridged the gap between full Mozart opera and contemporary musical theatre. But to be honest, his acting is the reason to see this show. I&#039;ve been watching Asitha grow as a performer over the last couple of years and I have to say that this could literally be a breakout role for this young man. It was endearing, truthful, and raw. "
 slug = "in-review-rocking-horse-winner"
 title = "In review: Rocking Horse Winner"
 +++

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-01-22T12:48:00-05:00"
 lastmod = "2018-01-22T20:00:00-05:00"
 publishDate = "2018-01-22T20:00:00-05:00"
-short_description = "In his introduction, Quigley explained, \"We understand ‘passion' to mean an exploration and a meditation on human suffering.\" The four works on the program shared this theme of suffering and loss, but Seraphic Fire transformed this superficial thematic similarity into a compelling and heartfelt story, building an innovative, accessible, and deeply moving experience far beyond delineation into categories of time period or genre."
+short_description = "In his introduction, Quigley explained, &quot;We understand ‘passion&#039; to mean an exploration and a meditation on human suffering.&quot; The four works on the program shared this theme of suffering and loss, but Seraphic Fire transformed this superficial thematic similarity into a compelling and heartfelt story, building an innovative, accessible, and deeply moving experience far beyond delineation into categories of time period or genre."
 slug = "reaching-across-centuries-seraphic-fires-the-little-match-girl-passion"
 title = "Reaching across centuries: Seraphic Fire&#039;s the little match girl passion"
 +++

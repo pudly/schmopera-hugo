@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-02-05T14:07:00-05:00"
 lastmod = "2018-02-05T16:22:00-05:00"
 publishDate = "2018-02-05T14:07:00-05:00"
-short_description = "Addis carries himself with poise and swagger that underscore his character's coldness. But in the third act, Addis unleashes a full range of his acting and vocal ability when his character finally recognizes his love for Tatyana. His vibrant voice is pierced with desperation as he pleads with Tatyana, who refuses to act on her feelings for him."
+short_description = "Addis carries himself with poise and swagger that underscore his character&#039;s coldness. But in the third act, Addis unleashes a full range of his acting and vocal ability when his character finally recognizes his love for Tatyana. His vibrant voice is pierced with desperation as he pleads with Tatyana, who refuses to act on her feelings for him."
 slug = "ciekiewicz-triumphant-in-calgary-operas-onegin"
 title = "Ciekiewicz &quot;triumphant&quot; in Calgary Opera&#039;s Onegin"
 +++

@@ -3,7 +3,7 @@ categories = "News"
 date = "2015-11-27T17:59:00-05:00"
 lastmod = "2015-11-28T20:18:00-05:00"
 publishDate = "2015-11-29T09:00:00-05:00"
-short_description = "These days, you can hear your beloved Messiah any way you like it. Soundstreams is trying out a brand new way to hear Handel's ubiquitous, beloved work. On December 7 and 8, as part of their Ear Candy series, Soundstreams presents Electric Messiah, or, \"Handel goes Underground: A stripped down, surround-sound electro-improv Messiah for today’s Toronto.\""
+short_description = "These days, you can hear your beloved Messiah any way you like it. Soundstreams is trying out a brand new way to hear Handel&#039;s ubiquitous, beloved work. On December 7 and 8, as part of their Ear Candy series, Soundstreams presents Electric Messiah, or, &quot;Handel goes Underground: A stripped down, surround-sound electro-improv Messiah for today’s Toronto.&quot;"
 slug = "dont-miss-electric-messiah"
 title = "Don&#039;t miss: Electric Messiah"
 +++

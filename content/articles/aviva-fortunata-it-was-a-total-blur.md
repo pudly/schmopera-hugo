@@ -4,7 +4,7 @@ date = "2017-02-19T22:15:00+00:00"
 lastmod = "2017-02-20T16:21:00+00:00"
 preamble = "Earlier this month, Canadian soprano [Aviva Fortunata](/scene/people/aviva-fortunata/) got one of those phone calls that's equal parts exciting and horrifying for any understudy. With about 30 minutes notice, Fortunata stepped in for an ailing [Ileana Montalbetti](/scene/people/ileana-montalbetti/) to sing the roles of Gutrune and Third Norn in *Götterdämmerung* at the [Canadian Opera Company](/scene/companies/canadian-opera-company/). \n\nWe asked Fortunata about all of it, from warming up in her Uber ride to the theatre, to the onstage teamwork with her brand new castmates."
 publishDate = "2017-02-20T16:07:00+00:00"
-short_description = "\"There wasn't time for much but to put on my costume and have a quick chat with the other Norns about all the rope action. The next thing I remember is the curtain opening and then the scene ending, it was a total blur! After that, I had 16 minutes to change into my first Gutrune costume. There were at least four ladies waiting to get me ready, it was a real team effort, to say the least.\""
+short_description = "&quot;There wasn&#039;t time for much but to put on my costume and have a quick chat with the other Norns about all the rope action. The next thing I remember is the curtain opening and then the scene ending, it was a total blur! After that, I had 16 minutes to change into my first Gutrune costume. There were at least four ladies waiting to get me ready, it was a real team effort, to say the least.&quot;"
 slug = "aviva-fortunata-it-was-a-total-blur"
 title = "Aviva Fortunata: &quot;It was a total blur!&quot;"
 +++

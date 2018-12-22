@@ -3,7 +3,7 @@ categories = "Humour"
 date = "2016-05-06T10:04:00+01:00"
 lastmod = "2016-05-06T11:14:00+01:00"
 publishDate = "2016-05-06T11:00:00+01:00"
-short_description = "Sustained sound is different from regular speech, and there's a reason why composers take an opera libretto and divide it into recitatives, arias, ensembles, etc. This text is different than that text, and the music delivers this message loudly. But with those blasé slides popping up in the surtitle box, it's like the the titles themselves are bored, and contemptuous of any textual subtleties woven by a composer into their opera."
+short_description = "Sustained sound is different from regular speech, and there&#039;s a reason why composers take an opera libretto and divide it into recitatives, arias, ensembles, etc. This text is different than that text, and the music delivers this message loudly. But with those blasé slides popping up in the surtitle box, it&#039;s like the the titles themselves are bored, and contemptuous of any textual subtleties woven by a composer into their opera."
 slug = "problems-we-didnt-know-we-had-surtitles"
 title = "Problems we didn&#039;t know we had: surtitles"
 +++

@@ -3,7 +3,7 @@ categories = "How-to"
 date = "2017-01-30T15:35:00+00:00"
 lastmod = "2017-01-31T09:44:00+00:00"
 publishDate = "2017-01-31T09:44:00+00:00"
-short_description = "It can be extremely humbling for a trained pianist to discover just how hard it is to stay with a conductor. It may seem unfair - shouldn't a conductor be a living, breathing version of a metronome, after all? In some cases, that's true; Philip Glass' music works well when a tempo is set and maintained, but we guarantee you wouldn't want to hear your Puccini at an unwavering 108 clicks a minute."
+short_description = "It can be extremely humbling for a trained pianist to discover just how hard it is to stay with a conductor. It may seem unfair - shouldn&#039;t a conductor be a living, breathing version of a metronome, after all? In some cases, that&#039;s true; Philip Glass&#039; music works well when a tempo is set and maintained, but we guarantee you wouldn&#039;t want to hear your Puccini at an unwavering 108 clicks a minute."
 slug = "pianists-wheres-the-fire"
 title = "Pianists: where&#039;s the fire?"
 +++

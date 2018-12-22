@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-04-04T19:43:00+01:00"
 lastmod = "2016-04-05T10:33:00+01:00"
 publishDate = "2016-04-05T09:47:00+01:00"
-short_description = "Devin feels \"completely at home in Handel\" and relishes the collaborative process of pulling the music off the page. \"You can't actually be wrong; you can have a difference of opinion between you and the conductor, but there's nothing to say that you're wrong. And I quite like that, because it means we can have interesting discussions about why you should do one thing and why you shouldn't do another.\""
+short_description = "Devin feels &quot;completely at home in Handel&quot; and relishes the collaborative process of pulling the music off the page. &quot;You can&#039;t actually be wrong; you can have a difference of opinion between you and the conductor, but there&#039;s nothing to say that you&#039;re wrong. And I quite like that, because it means we can have interesting discussions about why you should do one thing and why you shouldn&#039;t do another.&quot;"
 slug = "talking-with-singers-anna-devin"
 title = "Talking with singers: Anna Devin"
 +++

@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2015-12-08T15:41:00+00:00"
 lastmod = "2017-01-19T18:09:00+00:00"
 publishDate = "2015-12-08T16:32:00+00:00"
-short_description = "All those squiggly lines that he wrote are erased bar lines. The duet is in 6/8 time, and in this version, Mozart has the downbeats lined up with words like \"Männern\" and \"Liebe\"; they're good words for downbeats, but Mozart apparently thought the pulse of this duet was a bit heavy-handed. So, he moved the all of the barlines over by half a measure, and the effect is pretty amazing."
+short_description = "All those squiggly lines that he wrote are erased bar lines. The duet is in 6/8 time, and in this version, Mozart has the downbeats lined up with words like &quot;Männern&quot; and &quot;Liebe&quot;; they&#039;re good words for downbeats, but Mozart apparently thought the pulse of this duet was a bit heavy-handed. So, he moved the all of the barlines over by half a measure, and the effect is pretty amazing."
 slug = "nerding-out-mozarts-blurry-barlines"
 title = "Nerding out: Mozart&#039;s blurry barlines"
 +++

@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2017-09-15T13:02:00-04:00"
 lastmod = "2017-10-02T21:12:00-04:00"
 publishDate = "2017-10-02T20:51:00-04:00"
-short_description = "\"Even geezer singers will take breaths they shouldn't,\" he says of the all-too-human aspect to singing live onstage. \"Those things never change, we just get better at dealing with them.\""
+short_description = "&quot;Even geezer singers will take breaths they shouldn&#039;t,&quot; he says of the all-too-human aspect to singing live onstage. &quot;Those things never change, we just get better at dealing with them.&quot;"
 slug = "talking-with-singers-john-fanning"
 title = "Talking with singers: John Fanning"
 +++

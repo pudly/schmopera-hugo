@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-07-31T12:02:00-04:00"
 lastmod = "2017-08-01T12:28:00-04:00"
 publishDate = "2017-08-01T11:31:00-04:00"
-short_description = "Night Blooming Cereus and A Northern Lights Dream have little in common except the fact that they're Canadian operas, set in the worlds of small-town Shakespeare, Ontario."
+short_description = "Night Blooming Cereus and A Northern Lights Dream have little in common except the fact that they&#039;re Canadian operas, set in the worlds of small-town Shakespeare, Ontario."
 slug = "in-review-solts-canadian-doublebill"
 title = "In review: SOLT&#039;s Canadian double-bill"
 +++

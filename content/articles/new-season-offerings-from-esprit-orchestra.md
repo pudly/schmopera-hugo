@@ -3,7 +3,7 @@ categories = "News"
 date = "2018-10-22T20:54:00-04:00"
 lastmod = "2018-10-23T20:59:00-04:00"
 publishDate = "2018-10-23T20:50:00-04:00"
-short_description = "The four mainstage concerts of Esprit Orchestra's 2018/19 season happen at Toronto's Koerner Hall at 8pm. Pre-concert chats happen at 7:15pm, moderated by Alexina Louie. and New Wave Reprise goes up at Trinity St. Paul's Centre, with John Rea as keynote speaker."
+short_description = "The four mainstage concerts of Esprit Orchestra&#039;s 2018/19 season happen at Toronto&#039;s Koerner Hall at 8pm. Pre-concert chats happen at 7:15pm, moderated by Alexina Louie. and New Wave Reprise goes up at Trinity St. Paul&#039;s Centre, with John Rea as keynote speaker."
 slug = "new-season-offerings-from-esprit-orchestra"
 title = "New season offerings from Esprit Orchestra"
 +++

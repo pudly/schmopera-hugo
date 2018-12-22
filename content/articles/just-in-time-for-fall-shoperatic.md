@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2017-09-12T19:44:00-04:00"
 lastmod = "2017-09-12T23:00:00-04:00"
 publishDate = "2017-09-12T22:41:00-04:00"
-short_description = "It's Suzanne Vinnik and Sara Duchovnay of Shoperatic.com! We're excited to announce that after talking about our new online peer-to-peer marketplace for what seems like eons, we are LAUNCHED and open for business! When we ran into a little technical snafu in beta testing, we reached out to our friends at Schmopera who were able to help us figure out the problem and got us back on track!"
+short_description = "It&#039;s Suzanne Vinnik and Sara Duchovnay of Shoperatic.com! We&#039;re excited to announce that after talking about our new online peer-to-peer marketplace for what seems like eons, we are LAUNCHED and open for business! When we ran into a little technical snafu in beta testing, we reached out to our friends at Schmopera who were able to help us figure out the problem and got us back on track!"
 slug = "just-in-time-for-fall-shoperatic"
 title = "Just in time for fall: Shoperatic!"
 +++

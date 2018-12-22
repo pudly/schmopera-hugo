@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2014-01-05T18:26:00-05:00"
 lastmod = "2015-04-28T23:10:00-04:00"
 publishDate = "2014-01-05T18:26:00-05:00"
-short_description = "\"That is what, most of all, is shrinking audiences for contemporary music: not any particular musicians, stylistic approaches, or programming, but rather a pernicious idea that contemporary music can only succeed if it bets against itself, and pretends that losing was really winning all along.\""
+short_description = "&quot;That is what, most of all, is shrinking audiences for contemporary music: not any particular musicians, stylistic approaches, or programming, but rather a pernicious idea that contemporary music can only succeed if it bets against itself, and pretends that losing was really winning all along.&quot;"
 slug = "humility-and-hadrian"
 title = "Humility and Hadrian"
 +++

@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2017-01-09T11:37:00+00:00"
 lastmod = "2017-01-10T10:35:00+00:00"
 publishDate = "2017-01-10T10:13:00+00:00"
-short_description = "\"With track, she explains, 'you're competing against people, but really what you're trying to do is get your best time.' Playing basketball as part of a team, 'you really have to be an integral part of the team that you're on,' Bridges says. 'You have to be a player.'\""
+short_description = "&quot;With track, she explains, &#039;you&#039;re competing against people, but really what you&#039;re trying to do is get your best time.&#039; Playing basketball as part of a team, &#039;you really have to be an integral part of the team that you&#039;re on,&#039; Bridges says. &#039;You have to be a player.&#039;&quot;"
 slug = "talking-with-singers-jnai-bridges"
 title = "Talking with singers: J&#039;Nai Bridges"
 +++

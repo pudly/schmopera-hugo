@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-03-10T15:52:00+00:00"
 lastmod = "2016-03-14T09:48:00+00:00"
 publishDate = "2016-03-14T09:15:00+00:00"
-short_description = "Pisaroni is quick to note that, \"all operas are difficult to cast.\" Still, the coloratura bass-baritone Maometto is a notable departure from Rossini's fast-moving mezzos and tenors. \"I could lie to you and say 'oh yeah, I love it, it's easy',\" he laughs. \"It's very difficult because it requires everything from you. There are low notes, high notes, coloratura, long phrases, legato, it's really challenging, all of it.\""
+short_description = "Pisaroni is quick to note that, &quot;all operas are difficult to cast.&quot; Still, the coloratura bass-baritone Maometto is a notable departure from Rossini&#039;s fast-moving mezzos and tenors. &quot;I could lie to you and say &#039;oh yeah, I love it, it&#039;s easy&#039;,&quot; he laughs. &quot;It&#039;s very difficult because it requires everything from you. There are low notes, high notes, coloratura, long phrases, legato, it&#039;s really challenging, all of it.&quot;"
 slug = "talking-with-singers-luca-pisaroni"
 title = "Talking with singers: Luca Pisaroni"
 +++

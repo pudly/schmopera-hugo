@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-10-21T21:10:00+01:00"
 lastmod = "2016-10-25T18:58:00+01:00"
 publishDate = "2016-10-21T23:51:00+01:00"
-short_description = "Speaking of the Ballet, this is some of the most athletic dancing I've seen them do yet. An actor friend of mine once described period dancing as \"just fancy walking\". This is proof of the opposite. The lines, shapes and footwork were energetic, clean, and emotionally executed. For once I found the ladies large skirts accented and enhanced their choreography, rather than getting the way of me enjoying their fancy footwork. "
+short_description = "Speaking of the Ballet, this is some of the most athletic dancing I&#039;ve seen them do yet. An actor friend of mine once described period dancing as &quot;just fancy walking&quot;. This is proof of the opposite. The lines, shapes and footwork were energetic, clean, and emotionally executed. For once I found the ladies large skirts accented and enhanced their choreography, rather than getting the way of me enjoying their fancy footwork. "
 slug = "in-review-dido-and-aeneas"
 title = "In review: Dido and Aeneas"
 +++

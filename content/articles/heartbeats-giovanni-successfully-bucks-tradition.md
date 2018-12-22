@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-05-04T19:01:00-04:00"
 lastmod = "2018-05-05T22:01:00-04:00"
 publishDate = "2018-05-04T20:51:00-04:00"
-short_description = "From the overture's opening measures, the band produced genuine chamber music. Gleb Kanasevich, whose playing I've admired since his conservatory days, had increased responsibility as the lone wind. Schlosberg's orchestration demands fast arpeggiated chords, virtuosic melodies, and character-driven phrases to compensate for the missing winds and brass."
+short_description = "From the overture&#039;s opening measures, the band produced genuine chamber music. Gleb Kanasevich, whose playing I&#039;ve admired since his conservatory days, had increased responsibility as the lone wind. Schlosberg&#039;s orchestration demands fast arpeggiated chords, virtuosic melodies, and character-driven phrases to compensate for the missing winds and brass."
 slug = "heartbeats-giovanni-successfully-bucks-tradition"
 title = "Heartbeat&#039;s Giovanni successfully bucks tradition"
 +++

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-11-04T12:53:00-04:00"
 lastmod = "2017-11-04T13:10:00-04:00"
 publishDate = "2017-11-04T12:57:00-04:00"
-short_description = "Cocteau's haunting visuals are appropriate to watch on Halloween. At the 10/31 LA Opera production there was in fact a sell-out crowd. Many were dressed for the costume contest and party that followed (included in the price of admission) but this reviewer was extremely impressed to see a sell-out crowd in Los Angeles wildly applaud the combination of a vintage film and avant-garde opera."
+short_description = "Cocteau&#039;s haunting visuals are appropriate to watch on Halloween. At the 10/31 LA Opera production there was in fact a sell-out crowd. Many were dressed for the costume contest and party that followed (included in the price of admission) but this reviewer was extremely impressed to see a sell-out crowd in Los Angeles wildly applaud the combination of a vintage film and avant-garde opera."
 slug = "la-belle-et-la-bte-at-la-opera-is-a-beauty"
 title = "La Belle et la Bête at LA Opera is a beauty"
 +++

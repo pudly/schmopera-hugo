@@ -6,7 +6,7 @@ publishDate = "2015-03-02T09:28:00-05:00"
 short_description = "The BBC Cardiff Singer of the World Competition has announced its 20 finalists from around the world; Calgary-born soprano Aviva Fortunata is one of them. She’s a member of the COC Ensemble Studio, and just finished singing the role of Helmwige in Atom Egoyan’s Die Walküre. Aviva is the sole Canadian among the finalists, and in June she’ll head to Cardiff, Wales, to compete in the final competition round, which will be broadcast live online."
 slug = "aviva-fortunata-finalist-2015-cardiff-singer-of-the-world-competition"
 title = "Aviva Fortunata, finalist, 2015 Cardiff Singer of the World Competition"
-youtube_url = https://youtu.be/qhiW-BpKTwU
+youtube_url = "https://youtu.be/qhiW-BpKTwU"
 +++
 
 The [BBC Cardiff Singer of the World Competition](http://www.bbc.co.uk/events/r2hzp6) has announced its [finalists](http://www.bbc.co.uk/mediacentre/latestnews/2015/csotw-2015-finalists) from around the world; Calgary-born soprano [Aviva Fortunata](https://twitter.com/avivafortunata) is one of them. She's a member of the COC Ensemble Studio, and just finished singing the role of Helmwige in Atom Egoyan's*Die Walküre*. Aviva is the sole Canadian among the finalists, and in June she'll head to Cardiff, Wales, to compete in the final competition round, which will be broadcast live online. I was lucky to have the chance to sit down and chat with her. She talks about high-stakes competitions, what she'll sing, and the phenomenon that is #FrockWatch. Enjoy!

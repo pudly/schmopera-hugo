@@ -3,7 +3,7 @@ categories = "Review"
 date = "2015-04-10T20:10:00-04:00"
 lastmod = "2015-04-13T16:16:00-04:00"
 publishDate = "2015-04-10T20:10:00-04:00"
-short_description = "A collaborative review with contributor Greg Finney of Opera Atelier production of Orpheus & Eurydice at Opera Atelier."
+short_description = "A collaborative review with contributor Greg Finney of Opera Atelier production of Orpheus &amp; Eurydice at Opera Atelier."
 slug = "in-review-orpheus-eurydice-at-opera-atelier"
 title = "In review: Orpheus &amp; Eurydice at Opera Atelier"
 +++

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2014-05-12T17:47:00-04:00"
 lastmod = "2015-04-27T18:04:00-04:00"
 publishDate = "2014-05-12T17:47:00-04:00"
-short_description = "Massenet's Don Quichotte has opened at the Canadian Opera Company, the final in the three spring shows of the 2013/14 season. I'm glad I saw it last, since there was something bittersweet about ending a season with comedy and charm. I'll admit I have a strange personal tendency to get annoyed by everyone's favourite bumbling knight; but perhaps I'm coveting Don Quixote's unwavering pursuit of goodness."
+short_description = "Massenet&#039;s Don Quichotte has opened at the Canadian Opera Company, the final in the three spring shows of the 2013/14 season. I&#039;m glad I saw it last, since there was something bittersweet about ending a season with comedy and charm. I&#039;ll admit I have a strange personal tendency to get annoyed by everyone&#039;s favourite bumbling knight; but perhaps I&#039;m coveting Don Quixote&#039;s unwavering pursuit of goodness."
 slug = "in-review-don-quichotte"
 title = "In review: Don Quichotte"
 +++

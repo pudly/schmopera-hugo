@@ -3,7 +3,7 @@ categories = "Humour"
 date = "2016-09-02T04:26:00-04:00"
 lastmod = "2018-01-11T10:29:00-05:00"
 publishDate = "2016-09-03T06:00:00-04:00"
-short_description = "But who are the cartoon pants roles (and skirt roles) of more recent years? And how does a casting choice affect how we react to a character? We tracked down four of our favourite 21st-century cartoon characters, who all take a cue from opera's tradition."
+short_description = "But who are the cartoon pants roles (and skirt roles) of more recent years? And how does a casting choice affect how we react to a character? We tracked down four of our favourite 21st-century cartoon characters, who all take a cue from opera&#039;s tradition."
 slug = "trousers-on-tv-4-animated-pants-roles"
 title = "Trousers on TV: 4 animated pants roles"
 +++

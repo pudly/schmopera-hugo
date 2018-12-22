@@ -3,7 +3,7 @@ categories = "News"
 date = "2017-08-17T10:03:00-04:00"
 lastmod = "2017-08-30T09:52:00-04:00"
 publishDate = "2017-08-20T20:07:00-04:00"
-short_description = "\"On one level, it feels very much like a musical cabaret-revue,\" says Wake-Walker, who directs Mozart vs Machine. \"There is a narrative, there is a story that is told, but not in a traditional sense.\" That loose narrative tells of a malfunctioning time-machine, resulting in a chance meeting between Raymond Scott, early pioneer of electronic music, and Wolfgang Amadeus Mozart."
+short_description = "&quot;On one level, it feels very much like a musical cabaret-revue,&quot; says Wake-Walker, who directs Mozart vs Machine. &quot;There is a narrative, there is a story that is told, but not in a traditional sense.&quot; That loose narrative tells of a malfunctioning time-machine, resulting in a chance meeting between Raymond Scott, early pioneer of electronic music, and Wolfgang Amadeus Mozart."
 slug = "mustsee-mashups-mozart-vs-machine"
 title = "Must-see mash-ups: Mozart vs Machine"
 +++

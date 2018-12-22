@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-09-15T14:23:00+01:00"
 lastmod = "2016-09-20T09:10:00+01:00"
 publishDate = "2016-09-18T16:11:00+01:00"
-short_description = "The Man Who Mistook His Wife For A Hat is not a technically a tragedy, though; deaths do not a tragedy make. The opera is based on Oliver Sacks's case study (1985), with a libretto by Sacks, Christopher Rawlence, and Michael Morris, and tells of a neurologist's study of his patient, Dr. P."
+short_description = "The Man Who Mistook His Wife For A Hat is not a technically a tragedy, though; deaths do not a tragedy make. The opera is based on Oliver Sacks&#039;s case study (1985), with a libretto by Sacks, Christopher Rawlence, and Michael Morris, and tells of a neurologist&#039;s study of his patient, Dr. P."
 slug = "new-recordings-the-man-who-mistook-his-wife-for-a-hat"
 title = "New recordings: The Man Who Mistook His Wife for a Hat"
 +++

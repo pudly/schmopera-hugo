@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2018-02-28T20:42:00-05:00"
 lastmod = "2018-02-28T22:13:00-05:00"
 publishDate = "2018-02-28T20:55:00-05:00"
-short_description = "\"I am pleased to say that, in my experience, audiences outside Poland respond to Polish music with great satisfaction and enthusiasm. I appeared one-and-a-half months ago in Zürich with this same program and the great majority of the audience seemed smitten with the Polish portion of the program.\""
+short_description = "&quot;I am pleased to say that, in my experience, audiences outside Poland respond to Polish music with great satisfaction and enthusiasm. I appeared one-and-a-half months ago in Zürich with this same program and the great majority of the audience seemed smitten with the Polish portion of the program.&quot;"
 slug = "a-rare-event-at-chicago-lyric-piotr-beczaa-in-recital"
 title = "A &quot;rare event&quot; at Chicago Lyric: Piotr Beczała in recital"
 +++

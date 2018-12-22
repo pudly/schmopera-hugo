@@ -1,7 +1,5 @@
 +++
-date = "undefined"
-lastmod = "undefined"
-publishDate = "undefined"
+draft = true
 slug = "in-review-alcina-at-the-glenn-"
 title = "In review: Alcina at the Glenn "
 +++

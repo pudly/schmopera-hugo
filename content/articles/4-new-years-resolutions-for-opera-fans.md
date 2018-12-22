@@ -4,7 +4,7 @@ date = "2016-12-29T13:08:00-05:00"
 lastmod = "2018-01-01T11:49:00-05:00"
 preamble = "'Tis the season for resolutions, readers! While you're making promises of frequent gym visits and less time spent on Facebook, we've got our own list of New Year's resolutions for our fellow opera-goers."
 publishDate = "2016-12-29T13:59:00-05:00"
-short_description = "If you're going to an opera for the first time, and you don't know the plot ahead of time, fantastic! You may be tempted to get a head start on the action to come, by reading the synopsis included in most programmes; try to resist the urge. It's a chance to experience an opera in a fresh way, to be surprised and shocked and saddened at all the right moments."
+short_description = "If you&#039;re going to an opera for the first time, and you don&#039;t know the plot ahead of time, fantastic! You may be tempted to get a head start on the action to come, by reading the synopsis included in most programmes; try to resist the urge. It&#039;s a chance to experience an opera in a fresh way, to be surprised and shocked and saddened at all the right moments."
 slug = "4-new-years-resolutions-for-opera-fans"
 title = "4 New Year&#039;s resolutions for opera fans"
 +++

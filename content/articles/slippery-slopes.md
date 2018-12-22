@@ -1,8 +1,8 @@
 +++
 categories = "Editorial"
 date = "2017-04-11T11:55:00+01:00"
+draft = true
 lastmod = "2017-04-11T13:34:00+01:00"
-publishDate = "undefined"
 slug = "slippery-slopes"
 title = "Slippery slopes"
 +++

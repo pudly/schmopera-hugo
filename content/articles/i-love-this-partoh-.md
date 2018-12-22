@@ -3,7 +3,7 @@ categories = "Humour"
 date = "2014-08-29T08:00:00-04:00"
 lastmod = "2015-04-27T18:01:00-04:00"
 publishDate = "2014-08-29T08:00:00-04:00"
-short_description = "Let me share what I think is a common source of frustration for pianists learning operas. You're playing along (sight-reading like a pro), maybe missing a few notes here and there, but getting the general sound of the show, and you get to that really famous part in that opera. Like, \"Ride of the Valkyries\"/\"Largo al factotum\"/\"Toreador Song\" famous. "
+short_description = "Let me share what I think is a common source of frustration for pianists learning operas. You&#039;re playing along (sight-reading like a pro), maybe missing a few notes here and there, but getting the general sound of the show, and you get to that really famous part in that opera. Like, &quot;Ride of the Valkyries&quot;/&quot;Largo al factotum&quot;/&quot;Toreador Song&quot; famous. "
 slug = "i-love-this-partoh-"
 title = "I love this part...oh &amp;#$*"
 +++

@@ -4,7 +4,7 @@ date = "2015-04-10T21:20:00-04:00"
 lastmod = "2015-04-12T18:57:00-04:00"
 preamble = "This is a guest post by Michelle Telford, custom surtitlist with Saskatoon Opera. \"Seeing is for suckers, and sleep is for the weak.\" - Michelle.\n"
 publishDate = "2015-03-25T09:20:00-04:00"
-short_description = "This is a guest post by Michelle Telford, custom surtitlist with Saskatoon Opera. \"Seeing is for suckers, and sleep is for the weak.\" - Michelle."
+short_description = "This is a guest post by Michelle Telford, custom surtitlist with Saskatoon Opera. &quot;Seeing is for suckers, and sleep is for the weak.&quot; - Michelle."
 slug = "michelle-telford-creating-custom-surtitles-for-opera-today"
 title = "Michelle Telford, Creating Custom Surtitles for Opera Today"
 +++

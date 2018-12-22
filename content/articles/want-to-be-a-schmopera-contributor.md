@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2015-05-30T14:20:00-04:00"
 lastmod = "2015-05-30T14:46:00-04:00"
 publishDate = "2015-05-30T14:46:00-04:00"
-short_description = "Readers, we want you! Here at Schmopera, we're proud that we can write about the opera industry from within it. We want as big a slice as possible of the current artists, teachers, and fans, so we can keep bringing you the most relevant and important topics."
+short_description = "Readers, we want you! Here at Schmopera, we&#039;re proud that we can write about the opera industry from within it. We want as big a slice as possible of the current artists, teachers, and fans, so we can keep bringing you the most relevant and important topics."
 slug = "want-to-be-a-schmopera-contributor"
 title = "Want to be a Schmopera contributor?"
 +++

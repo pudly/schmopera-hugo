@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-05-07T11:05:00-04:00"
 lastmod = "2018-05-07T20:54:00-04:00"
 publishDate = "2018-05-07T11:52:00-04:00"
-short_description = "The production is the focal point of the Kennedy Center's programming in honor of Bernstein's 100th birthday, and amounts to the most enjoyable night of theater offered by WNO this season with its just-right combination of thrilling music, vocal gymnastics, impressive theatrical effects, belly-aching comedy, and effective storytelling."
+short_description = "The production is the focal point of the Kennedy Center&#039;s programming in honor of Bernstein&#039;s 100th birthday, and amounts to the most enjoyable night of theater offered by WNO this season with its just-right combination of thrilling music, vocal gymnastics, impressive theatrical effects, belly-aching comedy, and effective storytelling."
 slug = "grappling-with-daily-life-wnos-candide"
 title = "Grappling with daily life: WNO&#039;s Candide"
 +++

@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2015-10-15T13:38:00-04:00"
 lastmod = "2015-10-18T12:07:00-04:00"
 publishDate = "2015-10-16T12:33:00-04:00"
-short_description = "So, Andrea Bocelli has \"graced\" us (and probably a BILLION wedding receptions hence) with a new duet called \"E Piú ti Penso\", and although it is kinda sorta pretty, it's totally rubbing me the wrong way. It has all the proper ingredients: string ensemble, a video shot through a soft-filtered lens, a pretty pop princess, and it's written by Ennio Morricone. MORRICONE!!!"
+short_description = "So, Andrea Bocelli has &quot;graced&quot; us (and probably a BILLION wedding receptions hence) with a new duet called &quot;E Piú ti Penso&quot;, and although it is kinda sorta pretty, it&#039;s totally rubbing me the wrong way. It has all the proper ingredients: string ensemble, a video shot through a soft-filtered lens, a pretty pop princess, and it&#039;s written by Ennio Morricone. MORRICONE!!!"
 slug = "bocelli-grande-could-be-an-opera-duo-except-theyre-really-really-not"
 title = "Bocelli &amp; Grande: could be an opera duo, except they&#039;re really, really not"
 +++

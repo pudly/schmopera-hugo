@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-08-25T19:58:00+01:00"
 lastmod = "2016-08-30T13:46:00+01:00"
 publishDate = "2016-08-30T13:00:00+01:00"
-short_description = "As the world of opera moves toward chamber-sized orchestras and intimate venues, the world of art song moves in closer. Companies like the Canadian Art Song Project and Against the Grain Theatre have wowed audiences with reimagined art song, and so it's an exciting thing to find a supportive organization like Sparks & Wiry Cries that will foster performances and new works."
+short_description = "As the world of opera moves toward chamber-sized orchestras and intimate venues, the world of art song moves in closer. Companies like the Canadian Art Song Project and Against the Grain Theatre have wowed audiences with reimagined art song, and so it&#039;s an exciting thing to find a supportive organization like Sparks &amp; Wiry Cries that will foster performances and new works."
 slug = "dont-miss-rhiannon-giddens-at-merkin-concert-hall"
 title = "Don&#039;t miss: Rhiannon Giddens at Merkin Concert Hall"
 +++

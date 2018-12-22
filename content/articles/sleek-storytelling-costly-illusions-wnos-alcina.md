@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-11-06T10:25:00-05:00"
 lastmod = "2017-11-06T16:53:00-05:00"
 publishDate = "2017-11-06T14:43:00-05:00"
-short_description = "Is the cold harsh truth better than a comforting lie? That is the question asked by Handel's Alcina, an opera filled with lies and illusions; the beauty of Alcina's island, Bradamante's disguise as Ricciardo, and Ruggiero's enchanted love for Alcina are all falsehoods whose exposure have serious emotional consequences for the characters of this story."
+short_description = "Is the cold harsh truth better than a comforting lie? That is the question asked by Handel&#039;s Alcina, an opera filled with lies and illusions; the beauty of Alcina&#039;s island, Bradamante&#039;s disguise as Ricciardo, and Ruggiero&#039;s enchanted love for Alcina are all falsehoods whose exposure have serious emotional consequences for the characters of this story."
 slug = "sleek-storytelling-costly-illusions-wnos-alcina"
 title = "Sleek storytelling &amp; costly illusions: WNO&#039;s Alcina"
 +++

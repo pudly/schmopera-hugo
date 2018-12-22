@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-09-03T14:40:00+01:00"
 lastmod = "2016-09-16T09:11:00+01:00"
 publishDate = "2016-09-16T08:00:00+01:00"
-short_description = "\"I was really hoping my voice was going to drop so I could sing the big Verdi mezzo girls,\" Alkema remembers. But instead, the natural change in her voice led her to higher rep. \"I kind of walked into that in a natural way.\""
+short_description = "&quot;I was really hoping my voice was going to drop so I could sing the big Verdi mezzo girls,&quot; Alkema remembers. But instead, the natural change in her voice led her to higher rep. &quot;I kind of walked into that in a natural way.&quot;"
 slug = "talking-with-singers-keri-alkema"
 title = "Talking with singers: Keri Alkema"
 +++

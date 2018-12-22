@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-11-08T12:39:00-05:00"
 lastmod = "2018-11-08T20:47:00-05:00"
 publishDate = "2018-11-08T20:11:00-05:00"
-short_description = "Pountney's concept for this Siegfried is rooted in his perception of the eponymous character's childlike naiveté and exuberance. Much of this production is experienced through the eyes of the young hero, but with some unabashed anachronisms. Siegfried's scenes were awash with primary colors taken straight out of a Crayola Crayon box."
+short_description = "Pountney&#039;s concept for this Siegfried is rooted in his perception of the eponymous character&#039;s childlike naiveté and exuberance. Much of this production is experienced through the eyes of the young hero, but with some unabashed anachronisms. Siegfried&#039;s scenes were awash with primary colors taken straight out of a Crayola Crayon box."
 slug = "inflatable-beasts-vocal-brilliance-locs-siegfried"
 title = "Inflatable beasts &amp; vocal brilliance: LOC&#039;s Siegfried"
 +++

@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2014-06-02T06:30:00-04:00"
 lastmod = "2018-01-03T10:08:00-05:00"
 publishDate = "2014-06-02T06:30:00-04:00"
-short_description = "Remember that ridiculous clip from Glenn Beck's radio show about his trip to the Metropolitan Opera? That Neanderthal-like rant about how opera is full of \"leftist\" snobs that eat brie and say words like \"lilt\"?"
+short_description = "Remember that ridiculous clip from Glenn Beck&#039;s radio show about his trip to the Metropolitan Opera? That Neanderthal-like rant about how opera is full of &quot;leftist&quot; snobs that eat brie and say words like &quot;lilt&quot;?"
 slug = "the-language-of-snobs"
 title = "The language of snobs?"
 +++

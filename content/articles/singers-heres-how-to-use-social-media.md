@@ -4,7 +4,7 @@ date = "2015-04-22T21:31:00+01:00"
 lastmod = "2016-10-31T09:56:00+00:00"
 preamble = "Social media is...what? Handy? A headache? Free self-promotion? It can be all of those things, but more than anything, it's a necessity. We know that lots and lots of opera singers are on Facebook, Twitter, Instagram and all the rest, and it's completely changed the way we see the business. Now, opera lovers can see all the dressing room selfies in full make-up, still-life photos singer luggage, links to covert rehearsal videos, and funny #overheardbackstage quips.\n\nSince we look at (and look for) a *lot* of singers on social media, we offer up some tips on how to use your online presence to your advantage, while staying classy."
 publishDate = "2015-05-05T13:50:00+01:00"
-short_description = "Social media is...what? Handy? A headache? Free self-promotion? It can be all of those things, but more than anything, it's a necessity. We know that lots and lots of opera singers are on Facebook and Twitter, and it's completely changed the way we see the business."
+short_description = "Social media is...what? Handy? A headache? Free self-promotion? It can be all of those things, but more than anything, it&#039;s a necessity. We know that lots and lots of opera singers are on Facebook and Twitter, and it&#039;s completely changed the way we see the business."
 slug = "singers-heres-how-to-use-social-media"
 title = "Singers: here&#039;s how to use social media"
 +++

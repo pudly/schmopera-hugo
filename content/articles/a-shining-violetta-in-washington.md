@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-10-10T21:23:00-04:00"
 lastmod = "2018-10-10T21:23:00-04:00"
 publishDate = "2018-10-10T21:23:00-04:00"
-short_description = "With a voice that's all crystal clear, ringing resonance, yet absolutely weightless, she danced through the fioratura of \"Sempre libera\" without breaking a sweat, and finishing with a perfect high E-flat, then sang with a breathtakingly tender sotto voce in her scene with Germont at \"Dite alla giovine,\" before opening up later in the act with the broad, sweeping \"Amami Alfredo!\" while never over-singing. In the final act she offered a gloriously floated high A at the end of simply and beautifully sung \"Addio del passato.\""
+short_description = "With a voice that&#039;s all crystal clear, ringing resonance, yet absolutely weightless, she danced through the fioratura of &quot;Sempre libera&quot; without breaking a sweat, and finishing with a perfect high E-flat, then sang with a breathtakingly tender sotto voce in her scene with Germont at &quot;Dite alla giovine,&quot; before opening up later in the act with the broad, sweeping &quot;Amami Alfredo!&quot; while never over-singing. In the final act she offered a gloriously floated high A at the end of simply and beautifully sung &quot;Addio del passato.&quot;"
 slug = "a-shining-violetta-in-washington"
 title = "A shining Violetta in Washington"
 +++

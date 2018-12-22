@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-10-22T12:32:00-04:00"
 lastmod = "2018-10-22T19:40:00-04:00"
 publishDate = "2018-10-22T19:40:00-04:00"
-short_description = "The night, however, belonged to baritone James Westman and his standout performance of Giorgio Germont, Alfredo's father. Westman has considerable longevity with this role; he will play Germont for the 200th time in the spring of 2019 in a celebrated career that has spanned two decades."
+short_description = "The night, however, belonged to baritone James Westman and his standout performance of Giorgio Germont, Alfredo&#039;s father. Westman has considerable longevity with this role; he will play Germont for the 200th time in the spring of 2019 in a celebrated career that has spanned two decades."
 slug = "strong-ensemble-lifts-edmonton-opera-production-of-la-traviata"
 title = "Strong ensemble lifts Edmonton Opera production of La traviata"
 +++

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-04-26T16:38:00-04:00"
 lastmod = "2017-04-26T17:12:00-04:00"
 publishDate = "2017-04-26T17:08:00-04:00"
-short_description = "If the central love story doesn't entice you, go for the brilliant performances in the supporting cast. Mezzo-soprano Eugenia Dermentzis is a scene-stealer as Aurelia, her face an exaggerated picture of uppity, bewildered, and scheming; even with her polished mezzo, her presence onstage is something delightfully out of a Pixar film. Plus, The Chocolate Soldier is a beautiful chance to catch Schmopera's own Gregory Finney onstage as the patriarch Popoff."
+short_description = "If the central love story doesn&#039;t entice you, go for the brilliant performances in the supporting cast. Mezzo-soprano Eugenia Dermentzis is a scene-stealer as Aurelia, her face an exaggerated picture of uppity, bewildered, and scheming; even with her polished mezzo, her presence onstage is something delightfully out of a Pixar film. Plus, The Chocolate Soldier is a beautiful chance to catch Schmopera&#039;s own Gregory Finney onstage as the patriarch Popoff."
 slug = "dont-miss-the-chocolate-soldier"
 title = "Don&#039;t miss: The Chocolate Soldier"
 +++

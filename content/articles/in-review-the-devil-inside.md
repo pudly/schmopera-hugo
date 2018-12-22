@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-03-11T11:06:00+00:00"
 lastmod = "2016-03-11T12:49:00+00:00"
 publishDate = "2016-03-11T12:26:00+00:00"
-short_description = "Oh yeah, and like all good wish-based fairy tales, there's a caveat. If you die in possession of this bottle, your soul is damned to hell for all time; if you sell it, you must sell it for less than you paid for it. Two hours and a bunch of bad decisions later, we find the characters in a very interesting predicament. I won't spoil the show for you, but trust me, it's gooooooooood!"
+short_description = "Oh yeah, and like all good wish-based fairy tales, there&#039;s a caveat. If you die in possession of this bottle, your soul is damned to hell for all time; if you sell it, you must sell it for less than you paid for it. Two hours and a bunch of bad decisions later, we find the characters in a very interesting predicament. I won&#039;t spoil the show for you, but trust me, it&#039;s gooooooooood!"
 slug = "in-review-the-devil-inside"
 title = "In review: The Devil Inside"
 +++

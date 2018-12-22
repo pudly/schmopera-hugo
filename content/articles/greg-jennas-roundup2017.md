@@ -4,7 +4,7 @@ date = "2017-12-29T00:03:00-05:00"
 lastmod = "2017-12-29T11:53:00-05:00"
 preamble = "Can you believe it's that time already? The end of the twelfth month is upon us, and we have a duty to reflect on the year. 2017 brought lots of goodies: high notes, great conversations, and even a puppet opera. [Greg](/authors/greg/) and [Jenna](/authors/jenna/) whittled down the year's riches to their top 5 picks:"
 publishDate = "2017-12-29T11:29:00-05:00"
-short_description = "Can you believe it's that time already? The end of the twelfth month is upon us, and we have a duty to reflect on the year. 2017 brought lots of goodies: high notes, great conversations, and even a puppet opera. Greg and Jenna whittled down the year's riches to their top 5 picks:"
+short_description = "Can you believe it&#039;s that time already? The end of the twelfth month is upon us, and we have a duty to reflect on the year. 2017 brought lots of goodies: high notes, great conversations, and even a puppet opera. Greg and Jenna whittled down the year&#039;s riches to their top 5 picks:"
 slug = "greg-jennas-roundup2017"
 title = "Greg &amp; Jenna&#039;s #RoundUp2017"
 +++

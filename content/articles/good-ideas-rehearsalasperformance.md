@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2015-12-29T15:44:00-05:00"
 lastmod = "2016-01-08T14:13:00-05:00"
 publishDate = "2016-01-09T09:00:00-05:00"
-short_description = "For those involved in the creation of opera, we know that there's a less-glamourous method of reaching that finished product; so, we're able to experience the joy of watching a singer achieve something we watched her struggle to do, or admire how things like set, costume, and lighting design can turn a regular old opera scene into utter magic. "
+short_description = "For those involved in the creation of opera, we know that there&#039;s a less-glamourous method of reaching that finished product; so, we&#039;re able to experience the joy of watching a singer achieve something we watched her struggle to do, or admire how things like set, costume, and lighting design can turn a regular old opera scene into utter magic. "
 slug = "good-ideas-rehearsalasperformance"
 title = "Good ideas: rehearsal-as-performance"
 +++

@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-04-12T11:05:00+01:00"
 lastmod = "2016-04-12T16:34:00+01:00"
 publishDate = "2016-04-12T11:38:00+01:00"
-short_description = "\"This seems a bit cliché in terms of mezzo roles, but dude, throw me a Carmen. I would love to sing a Carmen. I think I would sing the pants off of her. And she's also, once again, a character who is so fascinating to me, psychologically.\" Barton is eager to portray opera's infamous, hedonistic femme-fatale as \"someone who is not the typical body type. I think that is an envelope I would love to try and push, given the right director and the right production.\""
+short_description = "&quot;This seems a bit cliché in terms of mezzo roles, but dude, throw me a Carmen. I would love to sing a Carmen. I think I would sing the pants off of her. And she&#039;s also, once again, a character who is so fascinating to me, psychologically.&quot; Barton is eager to portray opera&#039;s infamous, hedonistic femme-fatale as &quot;someone who is not the typical body type. I think that is an envelope I would love to try and push, given the right director and the right production.&quot;"
 slug = "talking-with-singers-jamie-barton"
 title = "Talking with singers: Jamie Barton"
 +++

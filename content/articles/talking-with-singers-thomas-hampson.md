@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2018-10-28T11:01:00-04:00"
 lastmod = "2018-10-28T19:47:00-04:00"
 publishDate = "2018-10-28T19:47:00-04:00"
-short_description = "\"As a singer, as a professional, experienced singer, older colleague,\" Hampson advises young singers entering the profession, \"I can only say that the industry you're in is not the industry I started in.\""
+short_description = "&quot;As a singer, as a professional, experienced singer, older colleague,&quot; Hampson advises young singers entering the profession, &quot;I can only say that the industry you&#039;re in is not the industry I started in.&quot;"
 slug = "talking-with-singers-thomas-hampson"
 title = "Talking with singers: Thomas Hampson"
 +++

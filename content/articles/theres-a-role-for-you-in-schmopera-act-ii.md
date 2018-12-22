@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2017-07-18T18:07:00-04:00"
 lastmod = "2017-07-26T20:05:00-04:00"
 publishDate = "2017-07-18T21:05:00-04:00"
-short_description = "Readers, in order to take this next step, we need your help. We've never liked the idea of putting ads up on the site; they clutter up your reading experience, and they inhibit our ability to write unbiased material."
+short_description = "Readers, in order to take this next step, we need your help. We&#039;ve never liked the idea of putting ads up on the site; they clutter up your reading experience, and they inhibit our ability to write unbiased material."
 slug = "theres-a-role-for-you-in-schmopera-act-ii"
 title = "There&#039;s a role for you in Schmopera: Act II!"
 +++

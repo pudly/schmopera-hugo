@@ -4,7 +4,7 @@ date = "2016-05-26T17:55:00+01:00"
 lastmod = "2016-05-27T14:57:00+01:00"
 preamble = "Photo: [William Warby](https://www.flickr.com/photos/wwarby/3895151999) via [Flickr](https://creativecommons.org/licenses/by/2.0/legalcode)."
 publishDate = "2016-05-27T14:44:00+01:00"
-short_description = "The link between human behavior and art is so strong and so complicated that it's even an understatement to call it a \"link\" at all; art comes from humans, and humans are part and a product of our environments, natural and otherwise. There's a potential regression from La traviata to single-cell organisms, if you step back far enough."
+short_description = "The link between human behavior and art is so strong and so complicated that it&#039;s even an understatement to call it a &quot;link&quot; at all; art comes from humans, and humans are part and a product of our environments, natural and otherwise. There&#039;s a potential regression from La traviata to single-cell organisms, if you step back far enough."
 slug = "4-ways-that-opera-really-is-life"
 title = "4 ways that opera really is life"
 +++

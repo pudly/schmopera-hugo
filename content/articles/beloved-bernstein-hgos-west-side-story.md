@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-04-25T15:45:00-04:00"
 lastmod = "2018-04-25T17:28:00-04:00"
 publishDate = "2018-04-25T17:28:00-04:00"
-short_description = "HGO hit the nail on the head in making West Side Story come across as a highly successful play with songs, with Jerome Robbins's choreography being by far the lead attraction of the evening in terms of its sheer power of unspoken expression."
+short_description = "HGO hit the nail on the head in making West Side Story come across as a highly successful play with songs, with Jerome Robbins&#039;s choreography being by far the lead attraction of the evening in terms of its sheer power of unspoken expression."
 slug = "beloved-bernstein-hgos-west-side-story"
 title = "Beloved Bernstein: HGO&#039;s West Side Story"
 +++

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-01-22T09:28:00-05:00"
 lastmod = "2018-01-23T09:37:00-05:00"
 publishDate = "2018-01-23T09:37:00-05:00"
-short_description = "\"Hegedus was brilliant in his comic interplay between the fake face he gives to the other characters and the interjections with his assistant, or his interludes to himself. When he believes his elixir is actually working in Act II, his reactions are incredibly funny, without taking anything away from his beautiful vocal performance.\""
+short_description = "&quot;Hegedus was brilliant in his comic interplay between the fake face he gives to the other characters and the interjections with his assistant, or his interludes to himself. When he believes his elixir is actually working in Act II, his reactions are incredibly funny, without taking anything away from his beautiful vocal performance.&quot;"
 slug = "lighter-fare-vancouver-operas-the-elixir-of-love"
 title = "Lighter fare: Vancouver Opera&#039;s The Elixir of Love"
 +++

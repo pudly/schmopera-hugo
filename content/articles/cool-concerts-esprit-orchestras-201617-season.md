@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-08-30T20:05:00+01:00"
 lastmod = "2016-09-03T10:37:00+01:00"
 publishDate = "2016-09-02T09:08:00+01:00"
-short_description = "On October 23, Power On celebrates Canadian great R. Murray Schafer, featuring three of his works, plus the Canadian premiere of Andrew Norman's Switch, for percussion and orchestra. Under Music Director Alex Pauk, the Esprit Orchestra is joined by mezzo-soprano Krisztina Szabó, flautist Robert Aitken, and percussionist Ryan Scott."
+short_description = "On October 23, Power On celebrates Canadian great R. Murray Schafer, featuring three of his works, plus the Canadian premiere of Andrew Norman&#039;s Switch, for percussion and orchestra. Under Music Director Alex Pauk, the Esprit Orchestra is joined by mezzo-soprano Krisztina Szabó, flautist Robert Aitken, and percussionist Ryan Scott."
 slug = "cool-concerts-esprit-orchestras-201617-season"
 title = "Cool concerts: Esprit Orchestra&#039;s 2016/17 season"
 +++

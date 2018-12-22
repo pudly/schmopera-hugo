@@ -7,7 +7,7 @@ publishDate = "2017-04-01T12:17:00+01:00"
 short_description = "After mid-performance harpsichord malfunction, stage management saves the day with crappy piano and large piece of scrap paper."
 slug = "broken-harpsichord-replaced-midshow-by-crappy-piano-sheet-of-paper"
 title = "Broken harpsichord replaced mid-show by crappy piano &amp; sheet of paper"
-youtube_url = https://youtu.be/Fi3ix6lMqvU
+youtube_url = "https://youtu.be/Fi3ix6lMqvU"
 +++
 
 

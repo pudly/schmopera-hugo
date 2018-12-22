@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-10-26T19:19:00+01:00"
 lastmod = "2016-11-03T12:06:00+00:00"
 publishDate = "2016-11-03T12:06:00+00:00"
-short_description = "\"One of the most challenging things on stage is to really, really open yourself up and give,\" she says. Singers often feel a responsibility to do well, to move an audience, and as a result, it's easy for the body to give in to pressure. \"We can either play it safe, because we're just not sure what the support is like, we may not feel like we have enough breath under us, so we can play it safe, maybe not go for that pianissimo,\" Lindsey explains of taking risks onstage. \"It's really hard to do that in front of thousands of people when your heart's pounding.\""
+short_description = "&quot;One of the most challenging things on stage is to really, really open yourself up and give,&quot; she says. Singers often feel a responsibility to do well, to move an audience, and as a result, it&#039;s easy for the body to give in to pressure. &quot;We can either play it safe, because we&#039;re just not sure what the support is like, we may not feel like we have enough breath under us, so we can play it safe, maybe not go for that pianissimo,&quot; Lindsey explains of taking risks onstage. &quot;It&#039;s really hard to do that in front of thousands of people when your heart&#039;s pounding.&quot;"
 slug = "talking-with-singers-kate-lindsey"
 title = "Talking with singers: Kate Lindsey"
 +++

@@ -3,7 +3,7 @@ categories = "News"
 date = "2015-11-10T20:46:00-05:00"
 lastmod = "2015-11-11T09:12:00-05:00"
 publishDate = "2015-11-11T09:06:00-05:00"
-short_description = "Highlands Opera Studio is entering its 10th season, and they're ready to throw a party about it. The afternoon will feature performances by star tenor and HOS Artistic Director Richard Margison, as well as alumni singers Adam Luther, tenor, Marjorie Maltais, mezzo (and recent COC Ensemble Studio Competition finalist), baritone Michael Nyby, and soprano Lauren Margison."
+short_description = "Highlands Opera Studio is entering its 10th season, and they&#039;re ready to throw a party about it. The afternoon will feature performances by star tenor and HOS Artistic Director Richard Margison, as well as alumni singers Adam Luther, tenor, Marjorie Maltais, mezzo (and recent COC Ensemble Studio Competition finalist), baritone Michael Nyby, and soprano Lauren Margison."
 slug = "hos-cocktails-a-concert"
 title = "HOS: Cocktails &amp; a concert"
 +++

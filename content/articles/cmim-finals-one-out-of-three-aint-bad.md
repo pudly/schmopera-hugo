@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2018-06-08T11:56:00-04:00"
 lastmod = "2018-06-09T21:35:00-04:00"
 publishDate = "2018-06-08T12:19:00-04:00"
-short_description = "Even for me, I was quite errant in my guesses for the winners of this year's Concours musical international de Montréal. "
+short_description = "Even for me, I was quite errant in my guesses for the winners of this year&#039;s Concours musical international de Montréal. "
 slug = "cmim-finals-one-out-of-three-aint-bad"
 title = "CMIM Finals: one out of three ain&#039;t bad?"
 +++

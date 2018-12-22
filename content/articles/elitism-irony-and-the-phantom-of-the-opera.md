@@ -4,7 +4,7 @@ date = "2014-07-14T06:00:00-04:00"
 lastmod = "2015-04-23T14:46:00-04:00"
 preamble = "This is a guest post by singer and Schmopera contributor [Gregory Finney.](https://twitter.com/gregory_finney) He has written for us before, [to much success](http://schmopera.com/how-i-acted-my-way-into-an-opera-career/). Catch him onstage later this summer with [LooseTEA Music Theatre](http://looseteamusictheatre.com/current-productionautocorrect-operas/)."
 publishDate = "2014-07-14T06:00:00-04:00"
-short_description = "Guys, maybe we are a little elitist...\n\nSo. On quartz.com recently there was a piece by a young soprano named Chelsea Feltman entitled \"Don't Ask a Young Opera Singer These Three Questions\". This piece has kinda been written before, but that's fine, and there were some pretty funny animations done about it from a stage actor's perspective circling around about four years ago."
+short_description = "Guys, maybe we are a little elitist...\n\nSo. On quartz.com recently there was a piece by a young soprano named Chelsea Feltman entitled &quot;Don&#039;t Ask a Young Opera Singer These Three Questions&quot;. This piece has kinda been written before, but that&#039;s fine, and there were some pretty funny animations done about it from a stage actor&#039;s perspective circling around about four years ago."
 slug = "elitism-irony-and-the-phantom-of-the-opera"
 title = "Elitism, Irony, and The Phantom of the Opera"
 +++

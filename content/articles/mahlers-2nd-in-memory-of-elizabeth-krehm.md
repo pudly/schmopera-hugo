@@ -3,7 +3,7 @@ categories = "News"
 date = "2015-10-25T17:19:00-04:00"
 lastmod = "2015-10-28T09:17:00-04:00"
 publishDate = "2015-10-28T08:21:00-04:00"
-short_description = "Opera 5 Artistic Director Rachel Krehm and her family present a benefit concert to raise funds for St. Michael's Hospital, where Rachel's sister Elizabeth passed away on November 17, 2012 at the age of 22. The concert is part of an annual series started by the Krehm family in 2013, in honour of Elizabeth and of the wonderful care she received from the doctors and nurses of St. Michael's Hospital."
+short_description = "Opera 5 Artistic Director Rachel Krehm and her family present a benefit concert to raise funds for St. Michael&#039;s Hospital, where Rachel&#039;s sister Elizabeth passed away on November 17, 2012 at the age of 22. The concert is part of an annual series started by the Krehm family in 2013, in honour of Elizabeth and of the wonderful care she received from the doctors and nurses of St. Michael&#039;s Hospital."
 slug = "mahlers-2nd-in-memory-of-elizabeth-krehm"
 title = "Mahler&#039;s 2nd: in memory of Elizabeth Krehm"
 +++

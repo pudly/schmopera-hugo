@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-02-10T22:17:00-05:00"
 lastmod = "2018-02-12T08:50:00-05:00"
 publishDate = "2018-02-11T20:33:00-05:00"
-short_description = "The songs by Edmund Rubbra (1901-1986) are the real find in this album. His songs have a unique sound, a style that's difficult to place, but eventually emerges as English - yet with an edge. "
+short_description = "The songs by Edmund Rubbra (1901-1986) are the real find in this album. His songs have a unique sound, a style that&#039;s difficult to place, but eventually emerges as English - yet with an edge. "
 slug = "album-review-o-gladsome-light"
 title = "Album review: O Gladsome Light"
 +++

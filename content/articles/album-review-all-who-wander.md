@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-11-12T15:51:00+00:00"
 lastmod = "2016-11-29T10:12:00+00:00"
 publishDate = "2016-11-29T09:43:00+00:00"
-short_description = "\"Sure, I didn't grow up in a gypsy camp,\" says Barton of Dvořák's songs, \"but I do have fond memories of playing music around a bonfire with family and dancing. I treasure my memories of family members teaching me the songs of where I come from. I identify with trying to find myself, and wanting to walk/dance/boogie down to the beat of my own drum.\""
+short_description = "&quot;Sure, I didn&#039;t grow up in a gypsy camp,&quot; says Barton of Dvořák&#039;s songs, &quot;but I do have fond memories of playing music around a bonfire with family and dancing. I treasure my memories of family members teaching me the songs of where I come from. I identify with trying to find myself, and wanting to walk/dance/boogie down to the beat of my own drum.&quot;"
 slug = "album-review-all-who-wander"
 title = "Album review: All Who Wander"
 +++

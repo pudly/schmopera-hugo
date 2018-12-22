@@ -4,7 +4,7 @@ date = "2016-11-15T13:28:00+00:00"
 lastmod = "2016-11-16T10:05:00+00:00"
 preamble = "This is the first in a series of posts written by Christopher Enns, Canadian tenor and financial planner/coach. His work is all about \"money help for artists,\" and for more writing and resources, head over to his blog, [Rags to Reasonable.](http://www.ragstoreasonable.com/)"
 publishDate = "2016-11-16T10:05:00+00:00"
-short_description = "A money technique is built in the same way, by investing hours of time into building solid fundamentals. Instead of breath, it's cashflow (the daily ins and outs of your money), instead of onsets it's deliberate decision making (learning to stop making default money decisions and make the ones you really want), and instead of working with someone to lift your soft palette, you work with someone to find one of a thousand little ways you can make your money life easier (by building a safety net, learning to save, and eliminating debt)."
+short_description = "A money technique is built in the same way, by investing hours of time into building solid fundamentals. Instead of breath, it&#039;s cashflow (the daily ins and outs of your money), instead of onsets it&#039;s deliberate decision making (learning to stop making default money decisions and make the ones you really want), and instead of working with someone to lift your soft palette, you work with someone to find one of a thousand little ways you can make your money life easier (by building a safety net, learning to save, and eliminating debt)."
 slug = "what-crippling-stage-fright-taught-me-about-money"
 title = "What crippling stage fright taught me about money"
 +++

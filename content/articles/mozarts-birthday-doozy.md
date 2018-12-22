@@ -3,7 +3,7 @@ categories = "Humour"
 date = "2015-01-27T10:56:00-05:00"
 lastmod = "2015-04-04T20:57:00-04:00"
 publishDate = "2015-01-27T10:56:00-05:00"
-short_description = "As someone who has his own laundry list of embarrassing things done in the throes of Wild Birthday Celebration (I now celebrate an 8 day festival, commonly called 'greggyfest'), I want to share this doozy."
+short_description = "As someone who has his own laundry list of embarrassing things done in the throes of Wild Birthday Celebration (I now celebrate an 8 day festival, commonly called &#039;greggyfest&#039;), I want to share this doozy."
 slug = "mozarts-birthday-doozy"
 title = "Mozart&#039;s Birthday Doozy"
 +++

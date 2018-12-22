@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-05-03T13:31:00-04:00"
 lastmod = "2018-05-03T13:33:00-04:00"
 publishDate = "2018-05-03T13:31:00-04:00"
-short_description = "\"He's a man. He's just a man.\" These lyrics, so central to Mary's song, seemed to me the springboard for Heath Saunders' portrayal of Jesus. In Saunders' performance we saw Jesus as a victim-of-circumstance, but in the most dire way. It wouldn't be enough to say that the vulnerability Saunders brought to the role was \"relatable\" or even \"human\"; it was sublime (or sublimated?) heartbreak."
+short_description = "&quot;He&#039;s a man. He&#039;s just a man.&quot; These lyrics, so central to Mary&#039;s song, seemed to me the springboard for Heath Saunders&#039; portrayal of Jesus. In Saunders&#039; performance we saw Jesus as a victim-of-circumstance, but in the most dire way. It wouldn&#039;t be enough to say that the vulnerability Saunders brought to the role was &quot;relatable&quot; or even &quot;human&quot;; it was sublime (or sublimated?) heartbreak."
 slug = "sublime-heartbreak-jesus-christ-superstar"
 title = "Sublime heartbreak: Jesus Christ Superstar"
 +++

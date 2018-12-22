@@ -3,7 +3,7 @@ categories = "News"
 date = "2015-11-07T09:40:00-05:00"
 lastmod = "2015-11-07T11:12:00-05:00"
 publishDate = "2015-11-07T10:37:00-05:00"
-short_description = "Tonight the Canadian Art Song Project presents The Living Spectacle, a recital of music, new and old, Canadian and otherwise. On paper, it may not look much different from other recitals; I had a chance to see the dress rehearsal of tonight's concert, and not only was it extraordinary in presentation, but it got me genuinely excited about Canadians who make music."
+short_description = "Tonight the Canadian Art Song Project presents The Living Spectacle, a recital of music, new and old, Canadian and otherwise. On paper, it may not look much different from other recitals; I had a chance to see the dress rehearsal of tonight&#039;s concert, and not only was it extraordinary in presentation, but it got me genuinely excited about Canadians who make music."
 slug = "aptly-named-the-living-spectacle"
 title = "Aptly named: The Living Spectacle"
 +++

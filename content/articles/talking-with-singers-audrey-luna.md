@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-09-16T15:01:00+01:00"
 lastmod = "2016-09-19T19:12:00+01:00"
 publishDate = "2016-09-19T09:22:00+01:00"
-short_description = "\"I can be left depleted after something as intense as premiering Exterminating Angel,\" says Luna. She relishes the chance to return home to Hawaii, which grounds her between high-paced singing gigs. \"In some way, it just fills my cup back up, and then I'm ready to go out again.\""
+short_description = "&quot;I can be left depleted after something as intense as premiering Exterminating Angel,&quot; says Luna. She relishes the chance to return home to Hawaii, which grounds her between high-paced singing gigs. &quot;In some way, it just fills my cup back up, and then I&#039;m ready to go out again.&quot;"
 slug = "talking-with-singers-audrey-luna"
 title = "Talking with singers: Audrey Luna"
 +++

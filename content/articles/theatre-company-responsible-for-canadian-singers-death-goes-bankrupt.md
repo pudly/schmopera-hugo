@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2018-04-15T21:52:00-04:00"
 lastmod = "2018-04-18T10:28:00-04:00"
 publishDate = "2018-04-16T11:11:00-04:00"
-short_description = "It's the question that crosses any touring performer's mind when the stage manager misses a stop sign or forgets to check their blind spot. You grip the armrests and wonder, \"what if we crashed?\" A year ago today, the members of one Canadian production found out. "
+short_description = "It&#039;s the question that crosses any touring performer&#039;s mind when the stage manager misses a stop sign or forgets to check their blind spot. You grip the armrests and wonder, &quot;what if we crashed?&quot; A year ago today, the members of one Canadian production found out. "
 slug = "theatre-company-responsible-for-canadian-singers-death-goes-bankrupt"
 title = "Theatre company responsible for Canadian singer&#039;s death goes bankrupt"
 +++

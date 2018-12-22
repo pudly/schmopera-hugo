@@ -3,7 +3,7 @@ categories = "Humour"
 date = "2016-04-02T19:50:00+01:00"
 lastmod = "2016-04-04T10:04:00+01:00"
 publishDate = "2016-04-04T09:50:00+01:00"
-short_description = "She got bored with Sérannes, and began an affair with a young woman, whose parents responded by shipping the girl off to a convent. Julie responded in turn by stealing the body of a dead nun, putting it in her lover's bed, and setting the convent on fire so they both could escape. Three months later, Julie's lover had had enough, and she went back to mum and dad. Julie had been charged for her crimes in absentia, but the authorities apparently didn't catch her because they thought she really was a man."
+short_description = "She got bored with Sérannes, and began an affair with a young woman, whose parents responded by shipping the girl off to a convent. Julie responded in turn by stealing the body of a dead nun, putting it in her lover&#039;s bed, and setting the convent on fire so they both could escape. Three months later, Julie&#039;s lover had had enough, and she went back to mum and dad. Julie had been charged for her crimes in absentia, but the authorities apparently didn&#039;t catch her because they thought she really was a man."
 slug = "and-she-was-an-opera-singer"
 title = "....AND she was an opera singer"
 +++

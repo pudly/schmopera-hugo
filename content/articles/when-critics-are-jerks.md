@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2014-05-22T06:00:00-04:00"
 lastmod = "2015-04-23T19:44:00-04:00"
 publishDate = "2014-05-22T06:00:00-04:00"
-short_description = "Der Rosenkavalier opened at Glyndebourne on May 17th, and the opening night reviews ticked off some opera fans. Ordinarily, one would be happy that a bunch of critics can't stop talking about Irish mezzo Tara Erraught's performance of Octavian."
+short_description = "Der Rosenkavalier opened at Glyndebourne on May 17th, and the opening night reviews ticked off some opera fans. Ordinarily, one would be happy that a bunch of critics can&#039;t stop talking about Irish mezzo Tara Erraught&#039;s performance of Octavian."
 slug = "when-critics-are-jerks"
 title = "When critics are jerks"
 +++

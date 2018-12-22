@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-03-17T11:30:00+00:00"
 lastmod = "2016-03-17T17:16:00+00:00"
 publishDate = "2016-03-17T12:47:00+00:00"
-short_description = "Of course, the use of foley artists is novel in opera, yet it wasn't just the novelty that drew us in to McBurney's world. It was completely delightful to use the \"guts\" of the theatre to unashamedly tell this story; *Flute* is a piece that resists against specific places and times, and its impact is weakened when a director attempts to focus on the libretto's life lessons, at the expense of the silliness. With set designer Michael Levine, McBurney struck a beautiful balance of respect for Mozart, and comfortable inclusivity."
+short_description = "Of course, the use of foley artists is novel in opera, yet it wasn&#039;t just the novelty that drew us in to McBurney&#039;s world. It was completely delightful to use the &quot;guts&quot; of the theatre to unashamedly tell this story; *Flute* is a piece that resists against specific places and times, and its impact is weakened when a director attempts to focus on the libretto&#039;s life lessons, at the expense of the silliness. With set designer Michael Levine, McBurney struck a beautiful balance of respect for Mozart, and comfortable inclusivity."
 slug = "in-review-enos-the-magic-flute"
 title = "In review: ENO&#039;s The Magic Flute"
 +++

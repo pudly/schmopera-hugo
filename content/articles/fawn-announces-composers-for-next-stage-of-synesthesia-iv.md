@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-12-08T20:46:00+00:00"
 lastmod = "2016-12-10T22:12:00+00:00"
 publishDate = "2016-12-10T13:14:00+00:00"
-short_description = "\"I feel very lucky to realize new music in this collaborative way,\" says MacArthur. \"I love the music, the tension and the excitement of a FAWN show. When I perform with FAWN, I can lose myself in the performance and feel new sounds. It's such a rush!\""
+short_description = "&quot;I feel very lucky to realize new music in this collaborative way,&quot; says MacArthur. &quot;I love the music, the tension and the excitement of a FAWN show. When I perform with FAWN, I can lose myself in the performance and feel new sounds. It&#039;s such a rush!&quot;"
 slug = "fawn-announces-composers-for-next-stage-of-synesthesia-iv"
 title = "FAWN announces composers for next stage of Synesthesia IV"
 +++

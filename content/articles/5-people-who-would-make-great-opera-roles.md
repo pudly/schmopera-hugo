@@ -4,7 +4,7 @@ date = "2016-10-23T15:57:00+01:00"
 lastmod = "2016-10-25T18:52:00+01:00"
 preamble = "Thank goodness for people who live loudly and influentially; where else would we get great fodder for the new operas of the 21st century? Though we all love the supernatural, sometimes it's even better when you know an opera is based on a real person's life, like *Maria Stuarda*, *Giulio Cesare*, *Nixon in China*, and *Anna Nicole*. We've got five people to add to that list of people whose lives deserve an opera.\n\n"
 publishDate = "2016-10-25T14:45:00+01:00"
-short_description = "Right up there with Donizetti's Tudor Queens, the hypothetical opera about Michelle Obama is packed with some serious history. The election of Barack Obama exposed the real racism that still exists in the United States; yet at the same time, the Obamas set a new bar for humanity and class among politicians."
+short_description = "Right up there with Donizetti&#039;s Tudor Queens, the hypothetical opera about Michelle Obama is packed with some serious history. The election of Barack Obama exposed the real racism that still exists in the United States; yet at the same time, the Obamas set a new bar for humanity and class among politicians."
 slug = "5-people-who-would-make-great-opera-roles"
 title = "5 people who would make great opera roles"
 +++

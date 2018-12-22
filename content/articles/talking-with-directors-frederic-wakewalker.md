@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-11-02T20:11:00+00:00"
 lastmod = "2016-11-10T11:01:00+00:00"
 publishDate = "2016-11-10T10:53:00+00:00"
-short_description = "\"I love going into these places and working with kids,\" says Wake-Walker. \"It's wonderful. I learn so much.\" He jokes that working primary school students is \"pretty much the same\" as directing the singers at La Scala, and adds that for any aspiring director, young people offer valuable learning experiences. \"Kids ask questions that even the pros at La Scala are sometimes a little bit embarrassed to ask.\""
+short_description = "&quot;I love going into these places and working with kids,&quot; says Wake-Walker. &quot;It&#039;s wonderful. I learn so much.&quot; He jokes that working primary school students is &quot;pretty much the same&quot; as directing the singers at La Scala, and adds that for any aspiring director, young people offer valuable learning experiences. &quot;Kids ask questions that even the pros at La Scala are sometimes a little bit embarrassed to ask.&quot;"
 slug = "talking-with-directors-frederic-wakewalker"
 title = "Talking with directors: Frederic Wake-Walker"
 +++

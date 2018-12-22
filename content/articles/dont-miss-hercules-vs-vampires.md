@@ -4,7 +4,7 @@ date = "2018-01-10T18:39:00-05:00"
 lastmod = "2018-01-11T20:27:00-05:00"
 preamble = "For one night only on **January 27**, Nashville Opera presents a unique operatic event not to be missed. [*Hercules vs Vampires*](http://www.nashvilleopera.org/hercules), the opera by composer Patrick Morganelli, is inspired by the 1961 cult-classic film by Mario Bava, *Hercules in the Underworld* (*Ercole al centro della terra*); Bava's film is projected in its entirety, and Morganelli's opera - conducted by Kelly Corcoran and directed by John Hoomes - provides a new original soundtrack.\n\nWe spoke with Morganelli about this ingenious project, and the fun combination of film and opera."
 publishDate = "2018-01-11T20:27:00-05:00"
-short_description = "\"There will certainly be places in the work where people will laugh at things onscreen which are unintentionally funny. This is a great thing, and I want audiences to laugh if they feel inclined, I want them to cheer Hercules and to boo the forces of evil.\""
+short_description = "&quot;There will certainly be places in the work where people will laugh at things onscreen which are unintentionally funny. This is a great thing, and I want audiences to laugh if they feel inclined, I want them to cheer Hercules and to boo the forces of evil.&quot;"
 slug = "dont-miss-hercules-vs-vampires"
 title = "Don&#039;t miss: Hercules vs Vampires"
 +++

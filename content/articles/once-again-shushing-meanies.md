@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2016-02-10T15:38:00+00:00"
 lastmod = "2016-03-01T16:03:00+00:00"
 publishDate = "2016-02-10T21:50:00+00:00"
-short_description = "It's almost a good thing that we now have this example of critics body-shaming a male singer, since we can put to rest some of the sexism claims that accompany criticism of women onstage. I've often thought that when you boil down an objection about a fat person falling in love, or some dumb variation on this \"problem\", you really just peel back the truth about the objector, who's letting the world know that they actually feel this way."
+short_description = "It&#039;s almost a good thing that we now have this example of critics body-shaming a male singer, since we can put to rest some of the sexism claims that accompany criticism of women onstage. I&#039;ve often thought that when you boil down an objection about a fat person falling in love, or some dumb variation on this &quot;problem&quot;, you really just peel back the truth about the objector, who&#039;s letting the world know that they actually feel this way."
 slug = "once-again-shushing-meanies"
 title = "Once again, shushing meanies"
 +++

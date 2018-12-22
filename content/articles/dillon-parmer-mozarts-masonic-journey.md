@@ -4,7 +4,7 @@ date = "2016-01-26T17:16:00-05:00"
 lastmod = "2016-01-27T11:59:00-05:00"
 preamble = "Once again, contributor [Greg Finney](http://www.schmopera.com/greg-jennas-201415-opera-season-roundup/) finds himself involved with another 'outside-the-box' concert presentation. This time it's the perennial favourite, Mozart's [*Die Zauberflöte*](https://rerum-74311.ticketbud.com/mozart-s-magic-flute), happening January 28 and 30th at the York Banquet & Event Center.\n\nThis concert's a little different, so [Greg](/scene/people/gregory-finney/) asked tenor Dillon Parmer, who organized the concert and the whole event, to give us a little more insight on what's happening with this concert, and what's coming up for him."
 publishDate = "2016-01-27T11:42:00-05:00"
-short_description = "Once again, contributor Greg Finney finds himself involved with another 'outside-the-box' concert presentation. This time it's the perennial favourite, Mozart's Die Zauberflöte. This concert's a little different, so Greg asked tenor Dillon Parmer, who organized the concert and the whole event, to give us a little more insight on what's happening with this concert, and what's coming up for him."
+short_description = "Once again, contributor Greg Finney finds himself involved with another &#039;outside-the-box&#039; concert presentation. This time it&#039;s the perennial favourite, Mozart&#039;s Die Zauberflöte. This concert&#039;s a little different, so Greg asked tenor Dillon Parmer, who organized the concert and the whole event, to give us a little more insight on what&#039;s happening with this concert, and what&#039;s coming up for him."
 slug = "dillon-parmer-mozarts-masonic-journey"
 title = "Dillon Parmer &amp; Mozart&#039;s Masonic Journey"
 +++

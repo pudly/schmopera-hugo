@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2014-12-15T08:00:00-05:00"
 lastmod = "2015-04-13T22:27:00-04:00"
 publishDate = "2014-12-15T08:00:00-05:00"
-short_description = "Verdi's La traviata is one of those operas, like Il barbiere di Siviglia or Die Walküre, that's so full of famous stories and tunes that the real significance of these moments is almost forgotten. But because it's Verdi, let's not dock him points for being obvious."
+short_description = "Verdi&#039;s La traviata is one of those operas, like Il barbiere di Siviglia or Die Walküre, that&#039;s so full of famous stories and tunes that the real significance of these moments is almost forgotten. But because it&#039;s Verdi, let&#039;s not dock him points for being obvious."
 slug = "tales-from-the-score-violetta"
 title = "Tales from the score: Violetta"
 +++

@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-10-05T09:21:00+01:00"
 lastmod = "2016-10-05T12:51:00+01:00"
 publishDate = "2016-10-05T12:51:00+01:00"
-short_description = "Don Giovanni starts a curious season at Nashville Opera, which also includes Bizet's Carmen, Tom Cipullo's Glory Denied, and the world premiere of Robert Paterson's Three Way, a trio of one-acts (\"Think Sex and the City meets The Twilight Zone,\" say Nashville Opera)."
+short_description = "Don Giovanni starts a curious season at Nashville Opera, which also includes Bizet&#039;s Carmen, Tom Cipullo&#039;s Glory Denied, and the world premiere of Robert Paterson&#039;s Three Way, a trio of one-acts (&quot;Think Sex and the City meets The Twilight Zone,&quot; say Nashville Opera)."
 slug = "dont-miss-don-giovanni-at-nashville-opera"
 title = "Don&#039;t miss: Don Giovanni at Nashville Opera"
 +++

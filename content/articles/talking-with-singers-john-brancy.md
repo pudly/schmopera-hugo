@@ -7,7 +7,7 @@ publishDate = "2016-10-27T14:14:00+01:00"
 short_description = "Fresh off a recording session for his new album with pianist Peter Dugan, A Silent Night, baritone John Brancy relishes the chance to take a break from the opera stage, and spend time with art song."
 slug = "talking-with-singers-john-brancy"
 title = "Talking with singers: John Brancy"
-youtube_url = https://youtu.be/FLwyzFLlZQg
+youtube_url = "https://youtu.be/FLwyzFLlZQg"
 +++
 
 >For details and ticket information about Brancy's upcoming concerts with the New York Festival of Song, [click right here.](http://nyfos.org/Rodgers.html)

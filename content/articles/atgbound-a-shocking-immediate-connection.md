@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-12-07T22:36:00-05:00"
 lastmod = "2017-12-08T11:10:00-05:00"
 publishDate = "2017-12-07T22:46:00-05:00"
-short_description = "A certain type of demographic goes to the opera, and perhaps there's only a small amount of overlap between that demographic and those who may understand more clearly what it feels like to be detained, mistreated, or bound by others' rules."
+short_description = "A certain type of demographic goes to the opera, and perhaps there&#039;s only a small amount of overlap between that demographic and those who may understand more clearly what it feels like to be detained, mistreated, or bound by others&#039; rules."
 slug = "atgbound-a-shocking-immediate-connection"
 title = "#AtGBound: &quot;A shocking, immediate connection.&quot;"
 +++

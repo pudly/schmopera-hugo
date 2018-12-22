@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-04-13T10:08:00+01:00"
 lastmod = "2016-04-13T12:00:00+01:00"
 publishDate = "2016-04-13T11:13:00+01:00"
-short_description = "Jurowski was the centre of the theatre of this piece, a physical chameleon that inspired and listened to the OAE. He took us through startling interruptions, adorable waltzes, and ugly and distorted folk sounds. The shuffling around onstage and in the audience between the first and second movements were decidedly too much, and too much for Jurowski; in a satisfying demand of the floor, he went from the second movement into the third with a forward-march kind of authority that seemed to scream, \"order in the house!\""
+short_description = "Jurowski was the centre of the theatre of this piece, a physical chameleon that inspired and listened to the OAE. He took us through startling interruptions, adorable waltzes, and ugly and distorted folk sounds. The shuffling around onstage and in the audience between the first and second movements were decidedly too much, and too much for Jurowski; in a satisfying demand of the floor, he went from the second movement into the third with a forward-march kind of authority that seemed to scream, &quot;order in the house!&quot;"
 slug = "magic-theatre-jurowski-and-oaes-resurrection-symphony"
 title = "Magic &amp; theatre: Jurowski and OAE&#039;s Resurrection Symphony"
 +++

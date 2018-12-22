@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-12-05T10:39:00+00:00"
 lastmod = "2016-12-05T12:58:00+00:00"
 publishDate = "2016-12-05T12:46:00+00:00"
-short_description = "First performed in 1853, just after Rigoletto and just before La traviata, Il trovatore gives unfortunate talking points to those who may say that opera plots are silly. There's the \"I burned the wrong baby\" bit, the \"it's too dark to tell who I'm hugging\" bit, and there are all the opera-esque moments of oddly-timed shock and rage."
+short_description = "First performed in 1853, just after Rigoletto and just before La traviata, Il trovatore gives unfortunate talking points to those who may say that opera plots are silly. There&#039;s the &quot;I burned the wrong baby&quot; bit, the &quot;it&#039;s too dark to tell who I&#039;m hugging&quot; bit, and there are all the opera-esque moments of oddly-timed shock and rage."
 slug = "in-review-il-trovatore-at-roh"
 title = "In review: Il trovatore at ROH"
 +++

@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2017-10-05T12:22:00-04:00"
 lastmod = "2017-10-09T21:46:00-04:00"
 publishDate = "2017-10-09T21:46:00-04:00"
-short_description = "\"I think he'd be pretty proud of it,\" Barrett imagines of Bernstein's reaction to NYFOS' entering its 30th season of thematic vocal programming in large and small venues around New York. Barrett adds in another surprising anecdote: \"In fact, he was our founding president.\""
+short_description = "&quot;I think he&#039;d be pretty proud of it,&quot; Barrett imagines of Bernstein&#039;s reaction to NYFOS&#039; entering its 30th season of thematic vocal programming in large and small venues around New York. Barrett adds in another surprising anecdote: &quot;In fact, he was our founding president.&quot;"
 slug = "leonard-bernstein-nyfos-i-think-hed-be-pretty-proud-of-it"
 title = "Leonard Bernstein &amp; NYFOS: &quot;I think he&#039;d be pretty proud of it.&quot;"
 +++

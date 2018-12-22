@@ -4,7 +4,7 @@ date = "2017-06-01T19:23:00-06:00"
 lastmod = "2017-06-13T21:27:00-06:00"
 preamble = "American soprano [Sarah Vautour](/scene/people/sarah-vautour/) is spending her summer in beautiful Colorado, as a New Horizons fellow at the Aspen Music Festival and School. A young singer based in Houston, Vautour's varied repertoire already includes Tytania in *A Midsummer Night's Dream*, Morgana in *Alcina*, Rose Maurrant in *Street Scene*, and the title role in Donizetti's *Maria Stuarda*.\n\nFor our latest Spotlight interivew, Vautour chats about her early love affair with music, and the magic that comes out of what she calls the \"vulnerability factor\"."
 publishDate = "2017-06-13T21:27:00-06:00"
-short_description = "\"It's important to find the perfect balance between being professional, and not taking yourself too seriously. We are all human. What this means in the professional world is that its okay to make a mistake, but important to learn from it. On the same token, I have learned to take more seriously the role of servant to my art.\""
+short_description = "&quot;It&#039;s important to find the perfect balance between being professional, and not taking yourself too seriously. We are all human. What this means in the professional world is that its okay to make a mistake, but important to learn from it. On the same token, I have learned to take more seriously the role of servant to my art.&quot;"
 slug = "spotlight-on-sarah-vautour"
 title = "Spotlight on: Sarah Vautour"
 +++

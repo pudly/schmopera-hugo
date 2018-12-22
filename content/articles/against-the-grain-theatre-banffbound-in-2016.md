@@ -3,7 +3,7 @@ categories = "News"
 date = "2015-12-15T10:12:00-05:00"
 lastmod = "2015-12-15T14:03:00-05:00"
 publishDate = "2015-12-15T12:34:00-05:00"
-short_description = "Open Space is noticeably forward-thinking in its approach to training young artists. 13 young singers, 1 assistant director, and 1 assistant répétiteur will be selected for 5 weeks of music and staging rehearsals, lessons, coachings, and performance opportunities within the Banff community. \"The focus of Open Space is to impart the skills of tomorrow to the young opera professionals of today.\""
+short_description = "Open Space is noticeably forward-thinking in its approach to training young artists. 13 young singers, 1 assistant director, and 1 assistant répétiteur will be selected for 5 weeks of music and staging rehearsals, lessons, coachings, and performance opportunities within the Banff community. &quot;The focus of Open Space is to impart the skills of tomorrow to the young opera professionals of today.&quot;"
 slug = "against-the-grain-theatre-banffbound-in-2016"
 title = "Against the Grain Theatre: Banff-bound in 2016"
 +++

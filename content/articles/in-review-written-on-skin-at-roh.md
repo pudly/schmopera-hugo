@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-01-14T14:53:00+00:00"
 lastmod = "2017-01-19T17:49:00+00:00"
 publishDate = "2017-01-14T16:17:00+00:00"
-short_description = "What's most thrilling about this Written on Skin was how the piece itself shone through Mitchell's production. Phrases from the libretto - like \"blame her for everything\" - leapt out as though shouted; Benjamin's use of the glass armonica - the instrument of \"hysteria\" - is well-timed and significant. Though it didn't overshadow the human stories of Agnès and The Protector, there was clear commentary on free will, and the cruelty inherent in God's creation of man."
+short_description = "What&#039;s most thrilling about this Written on Skin was how the piece itself shone through Mitchell&#039;s production. Phrases from the libretto - like &quot;blame her for everything&quot; - leapt out as though shouted; Benjamin&#039;s use of the glass armonica - the instrument of &quot;hysteria&quot; - is well-timed and significant. Though it didn&#039;t overshadow the human stories of Agnès and The Protector, there was clear commentary on free will, and the cruelty inherent in God&#039;s creation of man."
 slug = "in-review-written-on-skin-at-roh"
 title = "In review: Written On Skin at ROH"
 +++

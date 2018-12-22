@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-04-10T13:27:00+01:00"
 lastmod = "2017-04-10T14:21:00+01:00"
 publishDate = "2017-04-10T14:21:00+01:00"
-short_description = "As we finally met the newlyweds, Will & Kate, what stayed funny was the familiarity of the entire scene. The stereotypes were well-chosen, and they allowed the diners some common ground for conversation with their table-mates. The short interactions at the top of the show between \"guests\" and actors continued to pay off; the audience felt connected and in-the-know with this weird family, freeing them to shout out their two cents at the goings-on. (\"What a twat,\" was one oft-proclaimed phrase from our table.)"
+short_description = "As we finally met the newlyweds, Will &amp; Kate, what stayed funny was the familiarity of the entire scene. The stereotypes were well-chosen, and they allowed the diners some common ground for conversation with their table-mates. The short interactions at the top of the show between &quot;guests&quot; and actors continued to pay off; the audience felt connected and in-the-know with this weird family, freeing them to shout out their two cents at the goings-on. (&quot;What a twat,&quot; was one oft-proclaimed phrase from our table.)"
 slug = "familiar-stories-a-wedding-reception-gone-wrong"
 title = "Familiar stories: A Wedding Reception (gone wrong)"
 +++

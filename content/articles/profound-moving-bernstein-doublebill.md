@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-05-12T17:27:00-04:00"
 lastmod = "2018-05-15T12:11:00-04:00"
 publishDate = "2018-05-13T19:32:00-04:00"
-short_description = "As it turns out: with some very intelligent staging and committed performances from the cast, the tale of Sam and Dinah's dysfunctional marriage became the perfect backdrop for Arias. Thus, it became the kind of thought-provoking evening that I think Bernstein always strived for but never seemed to get through his music."
+short_description = "As it turns out: with some very intelligent staging and committed performances from the cast, the tale of Sam and Dinah&#039;s dysfunctional marriage became the perfect backdrop for Arias. Thus, it became the kind of thought-provoking evening that I think Bernstein always strived for but never seemed to get through his music."
 slug = "profound-moving-bernstein-doublebill"
 title = "Profound, moving Bernstein double-bill"
 +++

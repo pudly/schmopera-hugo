@@ -4,7 +4,7 @@ date = "2017-05-22T21:27:00-04:00"
 lastmod = "2017-05-23T13:10:00-04:00"
 preamble = "Edmonton-born, San Francisco-based composer [Aaron Gervais](/scene/people/aaron-gervais/) has not only a knack for giving his works great titles (*Puppies!!!*, *Louis CK am Spinnrade*, *Prescription Drug Nation*), but his varied, imaginative music speaks to a creative process rooted in \"a place of pure emotion\". \n\nThis week, Gervais sees the premiere of his new opera, [*Oksana G.*](https://tapestryopera.com/3-oksana-g/), presented by [Tapestry Opera](/scene/companies/tapestry-opera/) from **May 24-30**. We spoke with the composer about the pride he takes in his work, and the curious descriptors his music has earned."
 publishDate = "2017-05-23T13:10:00-04:00"
-short_description = "Obviously, my opera Oksana G., which is opening this week, is something I'm very proud of. It's the longest and most ambitious piece I've ever written, the story is gripping and powerful, the vocal lines are nuanced yet singerly, the orchestration is colorful and dynamic, and every moment is vital — there is no \"filler\" music. It really embodies what I believe makes for great opera."
+short_description = "Obviously, my opera Oksana G., which is opening this week, is something I&#039;m very proud of. It&#039;s the longest and most ambitious piece I&#039;ve ever written, the story is gripping and powerful, the vocal lines are nuanced yet singerly, the orchestration is colorful and dynamic, and every moment is vital — there is no &quot;filler&quot; music. It really embodies what I believe makes for great opera."
 slug = "talking-with-composers-aaron-gervais"
 title = "Talking with composers: Aaron Gervais"
 +++

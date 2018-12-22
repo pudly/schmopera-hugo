@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-11-20T11:00:00-05:00"
 lastmod = "2017-11-21T11:45:00-05:00"
 publishDate = "2017-11-20T21:07:00-05:00"
-short_description = "I was struck most in Hannah's story by how significant seemingly small things became. Her handwriting was the greatest example of this. It had never occurred to me that handwriting could be so gendered and a source of exposure for a trans person. Much of Hannah's childhood is spent trying to be the perfect boy, and even her handwriting has to fit the perception of masculinity."
+short_description = "I was struck most in Hannah&#039;s story by how significant seemingly small things became. Her handwriting was the greatest example of this. It had never occurred to me that handwriting could be so gendered and a source of exposure for a trans person. Much of Hannah&#039;s childhood is spent trying to be the perfect boy, and even her handwriting has to fit the perception of masculinity."
 slug = "as-one-they-both-took-risks-that-paid-off"
 title = "As One: &quot;they both took risks that paid off.&quot;"
 +++

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-06-14T13:03:00-04:00"
 lastmod = "2018-06-14T13:50:00-04:00"
 publishDate = "2018-06-14T13:03:00-04:00"
-short_description = "One great concept is putting guitarist Andrew Cloutier into the action. He plays all the recitatives - a perfect sound that piques interest without pulling focus - and he plays a wordless role as the accompanist to Almaviva's serenades to Rosina, and to Rosina's singing lesson with \"Don Alonso\"."
+short_description = "One great concept is putting guitarist Andrew Cloutier into the action. He plays all the recitatives - a perfect sound that piques interest without pulling focus - and he plays a wordless role as the accompanist to Almaviva&#039;s serenades to Rosina, and to Rosina&#039;s singing lesson with &quot;Don Alonso&quot;."
 slug = "opera-5s-barber-fab-singing-spanish-flair"
 title = "Opera 5&#039;s Barber: fab singing &amp; Spanish flair"
 +++

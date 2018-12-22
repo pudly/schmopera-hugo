@@ -7,7 +7,7 @@ publishDate = "2017-04-01T12:03:00+01:00"
 short_description = "Breaking: Music historians discover lost Mozart opera, opera circles collectively agree that it is crap."
 slug = "music-historians-find-lost-mozart-opera-all-agree-that-it-is-crap"
 title = "Music historians find lost Mozart opera, all agree that it is crap"
-youtube_url = https://youtu.be/gaF7kT5Moc0
+youtube_url = "https://youtu.be/gaF7kT5Moc0"
 +++
 
 

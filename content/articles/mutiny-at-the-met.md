@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2014-07-28T10:00:00-04:00"
 lastmod = "2015-04-23T14:30:00-04:00"
 publishDate = "2014-07-28T10:00:00-04:00"
-short_description = "If you're reading this, you're probably already aware that the Metropolitan Opera is in trouble. This Thursday, the contracts of 15 unions are set to expire, and the negotiations between the unions and the Met's general manager, Peter Gelb, seem to be going nowhere good."
+short_description = "If you&#039;re reading this, you&#039;re probably already aware that the Metropolitan Opera is in trouble. This Thursday, the contracts of 15 unions are set to expire, and the negotiations between the unions and the Met&#039;s general manager, Peter Gelb, seem to be going nowhere good."
 slug = "mutiny-at-the-met"
 title = "Mutiny at the Met?"
 +++

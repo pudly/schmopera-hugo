@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-10-15T18:37:00-04:00"
 lastmod = "2017-10-15T21:07:00-04:00"
 publishDate = "2017-10-15T21:07:00-04:00"
-short_description = "Given the size of the Chinese community in Vancouver, tackling Turandot is not only an ambitious project, but a potentially controversial one. However VO dealt with the controversies head-on, talking extensively in the program about the accusations of \"Orientalism\" in the score, and how they wanted to address those for a modern audience, and how these kinds of dialogues will continue to inform productions for years to come."
+short_description = "Given the size of the Chinese community in Vancouver, tackling Turandot is not only an ambitious project, but a potentially controversial one. However VO dealt with the controversies head-on, talking extensively in the program about the accusations of &quot;Orientalism&quot; in the score, and how they wanted to address those for a modern audience, and how these kinds of dialogues will continue to inform productions for years to come."
 slug = "a-grand-night-out-at-vancouver-operas-turandot"
 title = "A grand night out at Vancouver Opera&#039;s Turandot"
 +++

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-01-28T10:26:00-05:00"
 lastmod = "2016-01-28T17:38:00-05:00"
 publishDate = "2016-01-28T15:36:00-05:00"
-short_description = "Even since last season's Die Walküre at the Canadian Opera Company, I've been experiencing acute anticipation for Wagner's Ring Cycle to continue. In Canada, we have to be more patient than most about our Wagner consumption, yet last night I was sated by François Girard's production of Siegfried."
+short_description = "Even since last season&#039;s Die Walküre at the Canadian Opera Company, I&#039;ve been experiencing acute anticipation for Wagner&#039;s Ring Cycle to continue. In Canada, we have to be more patient than most about our Wagner consumption, yet last night I was sated by François Girard&#039;s production of Siegfried."
 slug = "in-review-siegfried"
 title = "In review: Siegfried"
 +++

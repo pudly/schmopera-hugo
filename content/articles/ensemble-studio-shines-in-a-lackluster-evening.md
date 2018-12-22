@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2018-05-26T18:29:00-04:00"
 lastmod = "2018-05-27T21:49:00-04:00"
 publishDate = "2018-05-27T11:23:00-04:00"
-short_description = "Whatever its form, this annual event is meant to show off what these artists do best. It's clear that the Ensemble Studio features seven excellent young voices and two industrious pianists. With that said, An Evening With the Ensemble Studio seemed to show that what these young artists do best is prosper under the oddest of onstage circumstances."
+short_description = "Whatever its form, this annual event is meant to show off what these artists do best. It&#039;s clear that the Ensemble Studio features seven excellent young voices and two industrious pianists. With that said, An Evening With the Ensemble Studio seemed to show that what these young artists do best is prosper under the oddest of onstage circumstances."
 slug = "ensemble-studio-shines-in-a-lackluster-evening"
 title = "Ensemble Studio shines in a lackluster Evening"
 +++

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-09-17T15:01:00-04:00"
 lastmod = "2017-09-17T21:37:00-04:00"
 publishDate = "2017-09-17T21:27:00-04:00"
-short_description = "While Zambello's attempt to create a modern, stylized Aida may have failed, this performance is a delight for the ears. Tamara Wilson's flawless performance alone is worth making the trip to the Kennedy Center."
+short_description = "While Zambello&#039;s attempt to create a modern, stylized Aida may have failed, this performance is a delight for the ears. Tamara Wilson&#039;s flawless performance alone is worth making the trip to the Kennedy Center."
 slug = "tamara-wilson-gives-a-flawless-aida-at-wno"
 title = "Tamara Wilson gives a &quot;flawless&quot; Aida at WNO"
 +++

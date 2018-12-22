@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2014-06-18T08:32:00-04:00"
 lastmod = "2015-04-23T16:05:00-04:00"
 publishDate = "2014-06-18T08:32:00-04:00"
-short_description = "Don Juan. Love him or hate him, he's been around for at least 400 years. Why? Because he's a juicy character with which we've all got something in common. Everyone struggles with moderation in their lives; food, drink, and sex have forever played a role in our personal conflicts with desire and will-power. If you're mysteriously immune to the temptations of the Big Three, you're bound to be lured by something else. Or, you're a robot."
+short_description = "Don Juan. Love him or hate him, he&#039;s been around for at least 400 years. Why? Because he&#039;s a juicy character with which we&#039;ve all got something in common. Everyone struggles with moderation in their lives; food, drink, and sex have forever played a role in our personal conflicts with desire and will-power. If you&#039;re mysteriously immune to the temptations of the Big Three, you&#039;re bound to be lured by something else. Or, you&#039;re a robot."
 slug = "from-don-juan-to-unclejohn"
 title = "From Don Juan to #UncleJohn"
 +++

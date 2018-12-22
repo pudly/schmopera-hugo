@@ -3,7 +3,7 @@ categories = "Review"
 date = "2015-09-27T10:36:00-04:00"
 lastmod = "2015-09-28T10:26:00-04:00"
 publishDate = "2015-09-27T11:05:00-04:00"
-short_description = "I'm always excited by Kurt Weill. Ever since my first exposure to Mahagonny and Down in the Valley (one of his American musicals) I've been fascinated by his work with Bertolt Brecht. On Friday, September 25th I got to re-hear one of my favourites presented by The Friends of Gravity."
+short_description = "I&#039;m always excited by Kurt Weill. Ever since my first exposure to Mahagonny and Down in the Valley (one of his American musicals) I&#039;ve been fascinated by his work with Bertolt Brecht. On Friday, September 25th I got to re-hear one of my favourites presented by The Friends of Gravity."
 slug = "in-review-the-seven-deadly-sins"
 title = "In review: The Seven Deadly Sins"
 +++

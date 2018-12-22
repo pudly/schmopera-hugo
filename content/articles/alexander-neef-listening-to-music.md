@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-01-08T15:30:00-05:00"
 lastmod = "2016-01-11T09:47:00-05:00"
 publishDate = "2016-01-11T08:51:00-05:00"
-short_description = "One of the best sets of ears in Toronto belongs to Alexander Neef, General Director of the Canadian Opera Company. He's an impressive source when it comes to classical music recordings, and until recently he had a wall-to-wall library of CDs collected over his lifetime. \"I probably gave between 2500-3000 CDs to the COC, because I thought those recordings...I knew quite well all of them would be great for the [COC Ensemble Studio] to use.\""
+short_description = "One of the best sets of ears in Toronto belongs to Alexander Neef, General Director of the Canadian Opera Company. He&#039;s an impressive source when it comes to classical music recordings, and until recently he had a wall-to-wall library of CDs collected over his lifetime. &quot;I probably gave between 2500-3000 CDs to the COC, because I thought those recordings...I knew quite well all of them would be great for the [COC Ensemble Studio] to use.&quot;"
 slug = "alexander-neef-listening-to-music"
 title = "Alexander Neef: listening to music"
 +++

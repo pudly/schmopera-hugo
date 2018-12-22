@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-02-23T10:43:00-05:00"
 lastmod = "2016-02-23T11:47:00-05:00"
 publishDate = "2016-02-23T11:47:00-05:00"
-short_description = "These annual performances are often a cornerstone for the members of the Ensemble Studio. It's a unique experience, both as a performance and as a learning process; rarely in their lives will these young artists have so much rehearsal time, coachings with multiple members of music staff, or compounded staging rehearsals (both as understudies and as principal roles). "
+short_description = "These annual performances are often a cornerstone for the members of the Ensemble Studio. It&#039;s a unique experience, both as a performance and as a learning process; rarely in their lives will these young artists have so much rehearsal time, coachings with multiple members of music staff, or compounded staging rehearsals (both as understudies and as principal roles). "
 slug = "quasi-review-the-ensemble-studios-figaro"
 title = "Quasi review: The Ensemble Studio&#039;s Figaro"
 +++

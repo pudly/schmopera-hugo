@@ -3,7 +3,7 @@ categories = "How-to"
 date = "2016-07-19T11:40:00-04:00"
 lastmod = "2016-07-19T13:48:00-04:00"
 publishDate = "2016-07-19T13:48:00-04:00"
-short_description = "This aria is so often sung that we can become immune to its effect in the context of the entire opera. It's incredibly difficult to play all the musical and dramatic layers when singing the aria alone in an audition or concert. But it can be tons of fun to pretend (to pretend to pretend, really) that Susanna is imagining herself a Real Lady, and finally gets the chance to try it out. It's very Eliza Doolittle, when you think about it."
+short_description = "This aria is so often sung that we can become immune to its effect in the context of the entire opera. It&#039;s incredibly difficult to play all the musical and dramatic layers when singing the aria alone in an audition or concert. But it can be tons of fun to pretend (to pretend to pretend, really) that Susanna is imagining herself a Real Lady, and finally gets the chance to try it out. It&#039;s very Eliza Doolittle, when you think about it."
 slug = "tales-from-the-score-deh-vieni-non-tardar"
 title = "Tales from the score: Deh vieni, non tardar"
 +++

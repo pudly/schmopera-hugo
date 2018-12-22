@@ -3,7 +3,7 @@ categories = "News"
 date = "2015-06-05T16:15:00-04:00"
 lastmod = "2015-06-17T15:24:00-04:00"
 publishDate = "2015-06-08T12:31:00-04:00"
-short_description = "The Dallas Opera has created a new residential program, the Institute for Women Conductors. \"This program has already generated tremendous international interest, and over extremely 100 talented women applied -- from the U.S. and 26 other countries. The field was extremely competitive, and the acceptance on the program is recognition of the significant accomplishments in the candidate’s career to date.\""
+short_description = "The Dallas Opera has created a new residential program, the Institute for Women Conductors. &quot;This program has already generated tremendous international interest, and over extremely 100 talented women applied -- from the U.S. and 26 other countries. The field was extremely competitive, and the acceptance on the program is recognition of the significant accomplishments in the candidate’s career to date.&quot;"
 slug = "the-dallas-opera-picks-its-women-conductors"
 title = "The Dallas Opera picks its Women Conductors"
 +++

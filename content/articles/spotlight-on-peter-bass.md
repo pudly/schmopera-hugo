@@ -4,7 +4,7 @@ date = "2015-06-14T13:48:00-06:00"
 lastmod = "2015-06-22T13:37:00-06:00"
 preamble = "This interview is part of our ongoing series of features on young working artists in the opera industry. If you think you'd be a great candidate for an interview, or know someone you'd like to nominate, get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
 publishDate = "2015-06-22T13:30:00-06:00"
-short_description = "Peter Bass is one of those smart and serious singers who carries with him a wicked sense of humour to the rehearsal room. I last saw him onstage with Metro Youth Opera as the Father in their production of Hänsel und Gretel, and I've had small opportunities to work with him since. I'm always refreshed by a practical singer, and Peter is one of those. In his wise interview, he talks about Billy Budd, Michael Bublé, and telling stories."
+short_description = "Peter Bass is one of those smart and serious singers who carries with him a wicked sense of humour to the rehearsal room. I last saw him onstage with Metro Youth Opera as the Father in their production of Hänsel und Gretel, and I&#039;ve had small opportunities to work with him since. I&#039;m always refreshed by a practical singer, and Peter is one of those. In his wise interview, he talks about Billy Budd, Michael Bublé, and telling stories."
 slug = "spotlight-on-peter-bass"
 title = "Spotlight on: Peter Bass"
 +++

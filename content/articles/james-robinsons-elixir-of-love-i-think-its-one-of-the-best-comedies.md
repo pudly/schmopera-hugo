@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2017-10-02T20:33:00-04:00"
 lastmod = "2017-10-03T20:56:00-04:00"
 publishDate = "2017-10-03T20:43:00-04:00"
-short_description = "\"I'm always the first person to say, 'Ok, I had a bad idea, let's try something else',\" he says, smiling. \"When singers feel that they are part of the discovery process, making choices on their own, they memorize it faster, they're more reliable, they're more comfortable, and they sing better.\""
+short_description = "&quot;I&#039;m always the first person to say, &#039;Ok, I had a bad idea, let&#039;s try something else&#039;,&quot; he says, smiling. &quot;When singers feel that they are part of the discovery process, making choices on their own, they memorize it faster, they&#039;re more reliable, they&#039;re more comfortable, and they sing better.&quot;"
 slug = "james-robinsons-elixir-of-love-i-think-its-one-of-the-best-comedies"
 title = "James Robinson&#039;s Elixir of Love: &quot;I think it&#039;s one of the best comedies.&quot;"
 +++

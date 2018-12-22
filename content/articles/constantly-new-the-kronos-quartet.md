@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-05-10T10:15:00+01:00"
 lastmod = "2016-05-10T11:42:00+01:00"
 publishDate = "2016-05-10T11:42:00+01:00"
-short_description = "Though not surprising, based on the Quartet's history, their concert was one that reminded us that there still exist new sounds, new ways of playing these very old instruments. That included the \"show\" aspect of a string quartet performance; now a staple element of the music they perform, theirs is an organic use of amplification, helped by sound designer Scott Fraser, and effective lighting design, by Brian H. Scott."
+short_description = "Though not surprising, based on the Quartet&#039;s history, their concert was one that reminded us that there still exist new sounds, new ways of playing these very old instruments. That included the &quot;show&quot; aspect of a string quartet performance; now a staple element of the music they perform, theirs is an organic use of amplification, helped by sound designer Scott Fraser, and effective lighting design, by Brian H. Scott."
 slug = "constantly-new-the-kronos-quartet"
 title = "Constantly new: the Kronos Quartet"
 +++

@@ -2,7 +2,7 @@
 date = "2014-11-23T09:00:00-05:00"
 lastmod = "2015-04-13T22:36:00-04:00"
 publishDate = "2014-11-23T09:00:00-05:00"
-short_description = "If you love opera, you probably love Mozart's Don Giovanni. The jury is out, however, on the question of whether or not you like Donna Anna. \"Hmm, tough one,\" say you. Mozart and Da Ponte start this story of Don Juan just after his encounter with Donna Anna, which means we can only infer information from the last pieces of their post-coital conversation. "
+short_description = "If you love opera, you probably love Mozart&#039;s Don Giovanni. The jury is out, however, on the question of whether or not you like Donna Anna. &quot;Hmm, tough one,&quot; say you. Mozart and Da Ponte start this story of Don Juan just after his encounter with Donna Anna, which means we can only infer information from the last pieces of their post-coital conversation. "
 slug = "tales-from-the-score-annas-innocence"
 title = "Tales from the score: Anna&#039;s innocence"
 +++

@@ -3,7 +3,7 @@ categories = "News"
 date = "2017-01-23T18:35:00+00:00"
 lastmod = "2017-01-25T16:42:00+00:00"
 publishDate = "2017-01-25T16:42:00+00:00"
-short_description = "In March and April, Pop-Up Opera revives their first tragic opera, Bellini's I Capuleti e i Montecchi. The production, sung in Italian and featuring \"silent movie-style\" English captions, heads across the southern UK, including stops at London's The Vaults, March 20-23."
+short_description = "In March and April, Pop-Up Opera revives their first tragic opera, Bellini&#039;s I Capuleti e i Montecchi. The production, sung in Italian and featuring &quot;silent movie-style&quot; English captions, heads across the southern UK, including stops at London&#039;s The Vaults, March 20-23."
 slug = "touring-tragedy-popup-operas-i-capuleti-e-i-montecchi"
 title = "Touring tragedy: Pop-Up Opera&#039;s I Capuleti e i Montecchi"
 +++

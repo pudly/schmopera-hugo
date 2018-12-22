@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2016-02-28T18:28:00+00:00"
 lastmod = "2016-02-29T09:19:00+00:00"
 publishDate = "2016-02-29T09:15:00+00:00"
-short_description = "Well, readers, after much anticipation and a slight delay, Schmopera has made it to London. It's an amazing thing to be in a city with not only a myriad of opera companies large and small, but great pickings of arts and cultural centres offering up a buffet of musical options."
+short_description = "Well, readers, after much anticipation and a slight delay, Schmopera has made it to London. It&#039;s an amazing thing to be in a city with not only a myriad of opera companies large and small, but great pickings of arts and cultural centres offering up a buffet of musical options."
 slug = "london-calling"
 title = "London Calling"
 +++

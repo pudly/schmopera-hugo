@@ -3,7 +3,7 @@ categories = "Humour"
 date = "2016-07-20T11:17:00-04:00"
 lastmod = "2016-07-22T08:01:00-04:00"
 publishDate = "2016-07-22T07:55:00-04:00"
-short_description = "Trump would be a buffo bass role, clearly. Blustering, bumbling and woofy, his lines would be meaningless patter in the style of Rossini. His lines would overlap those of all other characters', interrupting in that charming way, and rambling on long after anything of possible meaning had been said."
+short_description = "Trump would be a buffo bass role, clearly. Blustering, bumbling and woofy, his lines would be meaningless patter in the style of Rossini. His lines would overlap those of all other characters&#039;, interrupting in that charming way, and rambling on long after anything of possible meaning had been said."
 slug = "hypothetical-operas-the-2016-presidential-election"
 title = "Hypothetical operas: The 2016 Presidential Election"
 +++

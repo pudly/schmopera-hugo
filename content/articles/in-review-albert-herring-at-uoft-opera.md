@@ -3,7 +3,7 @@ categories = "Review"
 date = "2014-03-22T11:10:00-04:00"
 lastmod = "2015-04-24T09:56:00-04:00"
 publishDate = "2014-03-22T11:10:00-04:00"
-short_description = "So much celebration happened on Thursday night. Director Joel Ivany celebrated the opening night of his production of Benjamin Britten's Albert Herring in the MacMillan theatre at the University of Toronto. UofT celebrated the 50th anniversary of its first opera performance in 1964: Albert Herring. And of course, everyone celebrated Albert the Good."
+short_description = "So much celebration happened on Thursday night. Director Joel Ivany celebrated the opening night of his production of Benjamin Britten&#039;s Albert Herring in the MacMillan theatre at the University of Toronto. UofT celebrated the 50th anniversary of its first opera performance in 1964: Albert Herring. And of course, everyone celebrated Albert the Good."
 slug = "in-review-albert-herring-at-uoft-opera"
 title = "In review: Albert Herring at UofT Opera"
 +++

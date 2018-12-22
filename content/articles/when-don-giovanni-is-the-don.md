@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-04-16T21:14:00-04:00"
 lastmod = "2018-04-18T10:27:00-04:00"
 publishDate = "2018-04-17T20:03:00-04:00"
-short_description = "There is a temptation for any director, therefore, to try something different or new. To quote Stephen Sondheim: \"you gotta get a gimmick.\" In this case, it's not a gimmick but a brilliant conceit from director Josh Shaw that works on every level. Here, Don Giovanni is…well…the \"Don\" as in the head of the local mafia.\n"
+short_description = "There is a temptation for any director, therefore, to try something different or new. To quote Stephen Sondheim: &quot;you gotta get a gimmick.&quot; In this case, it&#039;s not a gimmick but a brilliant conceit from director Josh Shaw that works on every level. Here, Don Giovanni is…well…the &quot;Don&quot; as in the head of the local mafia.\n"
 slug = "when-don-giovanni-is-the-don"
 title = "When Don Giovanni is the &quot;Don&quot;"
 +++

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-12-10T13:48:00-05:00"
 lastmod = "2017-12-10T21:26:00-05:00"
 publishDate = "2017-12-10T13:48:00-05:00"
-short_description = "Rarely have I ever been able to use the word \"effervescent\" to describe performances of newly-composed operas, but that is exactly the word I used to describe this one upon its conclusion. This work came as a breath of fresh air. It did not try overly hard to be anything other than a setting of a good story which happened to be set at Christmastime, and that is precisely why I perceive this work as having longevity."
+short_description = "Rarely have I ever been able to use the word &quot;effervescent&quot; to describe performances of newly-composed operas, but that is exactly the word I used to describe this one upon its conclusion. This work came as a breath of fresh air. It did not try overly hard to be anything other than a setting of a good story which happened to be set at Christmastime, and that is precisely why I perceive this work as having longevity."
 slug = "seasonal-opera-done-right-at-hgo"
 title = "Seasonal opera done right at HGO"
 +++

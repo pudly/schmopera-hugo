@@ -4,7 +4,7 @@ date = "2018-05-30T16:27:00-04:00"
 lastmod = "2018-05-31T21:39:00-04:00"
 preamble = "The recent winner of the [inaugural Glyndebourne Cup](https://www.glyndebourne.com/discover/news-and-blogs/2018/march/samantha-hankey-wins-the-inaugural-glyndebourne-opera-cup/), American mezzo-soprano [Samantha Hankey](/scene/people/samantha-hankey/) will sing the title role in the new chamber opera by David Hertzberg, *The Rose Elf*, June 6-10. This world premiere, directed by [R.B. Schlather](/scene/people/rb-schlather/) as part of [*The Angel's Share*](https://www.deathofclassical.com/angelshare), a new concert series in the Catacombs of Brooklyn's Green-Wood Cemetery. \n\nWe spoke with Hankey about performing new work, the art of competing, and the importance of making one's own rules."
 publishDate = "2018-05-31T11:42:00-04:00"
-short_description = "\"At the end of the day, it is our career and our life, and we need to make the artistic and personal choices that makes us who and what we are. It is important to accept all of the feedback, suggestions, and options with an open mind, but always sift through them to find your voice.\""
+short_description = "&quot;At the end of the day, it is our career and our life, and we need to make the artistic and personal choices that makes us who and what we are. It is important to accept all of the feedback, suggestions, and options with an open mind, but always sift through them to find your voice.&quot;"
 slug = "talking-with-singers-samantha-hankey"
 title = "Talking with singers: Samantha Hankey"
 +++

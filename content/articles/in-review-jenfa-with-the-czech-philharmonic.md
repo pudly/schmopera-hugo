@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-04-19T10:01:00+01:00"
 lastmod = "2016-04-19T12:03:00+01:00"
 publishDate = "2016-04-19T11:10:00+01:00"
-short_description = "As Jenůfa's mother, Kostelnička, Karita Mattila was a total force. She tore into the role's enormous range and horrific moments of drama with her notoriously brazen energy. She sang wildly at moments, yet it was funneled through a perfect character, one who constantly veers outside the comfortable and controlled."
+short_description = "As Jenůfa&#039;s mother, Kostelnička, Karita Mattila was a total force. She tore into the role&#039;s enormous range and horrific moments of drama with her notoriously brazen energy. She sang wildly at moments, yet it was funneled through a perfect character, one who constantly veers outside the comfortable and controlled."
 slug = "in-review-jenfa-with-the-czech-philharmonic"
 title = "In review: Jenůfa with the Czech Philharmonic"
 +++

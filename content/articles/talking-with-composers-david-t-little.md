@@ -4,7 +4,7 @@ date = "2018-10-10T20:55:00-04:00"
 lastmod = "2018-10-12T14:31:00-04:00"
 preamble = "David T. Little's opera, [*Soldier Songs*](https://www.laopera.org/season/1819-season-la-opera-season/soldier-songs/), is being co-presented by the LA Opera with the Ford Theatres and Beth Morrison Projects at the Ford Theatres in LA on Saturday October 13. *Soldier Songs* brings together opera, theater, rock, and film in an examination of the impact of war to the individuals fighting it. "
 publishDate = "2018-10-10T20:55:00-04:00"
-short_description = "\"As the composer, I try to see both the forest and the trees - to feel the small details and the small moments while making sure the text is right, the high notes are being approached in just the right way, and I'm also monitoring the large-scale form while keeping the pacing moving. It's multi-tasking at an intense level.\""
+short_description = "&quot;As the composer, I try to see both the forest and the trees - to feel the small details and the small moments while making sure the text is right, the high notes are being approached in just the right way, and I&#039;m also monitoring the large-scale form while keeping the pacing moving. It&#039;s multi-tasking at an intense level.&quot;"
 slug = "talking-with-composers-david-t-little"
 title = "Talking with composers: David T. Little"
 +++

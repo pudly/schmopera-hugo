@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2017-03-27T11:04:00+01:00"
 lastmod = "2017-03-28T11:40:00+01:00"
 publishDate = "2017-03-28T11:16:00+01:00"
-short_description = "Frankly, there are either examples of forward-looking operas, or there aren't. It's strange that Dessay dismisses the works of two of the great opera composers of the 20th and 21st centuries, as though their rarity makes them invalid. On top of the big names like Adams and Adès, a fair peruse of what's happening in places like Minnesota Opera, Opera Philadelphia, Lyric Opera of Chicago, and Houston Grand Opera can easily dispel the \"rare\" myth."
+short_description = "Frankly, there are either examples of forward-looking operas, or there aren&#039;t. It&#039;s strange that Dessay dismisses the works of two of the great opera composers of the 20th and 21st centuries, as though their rarity makes them invalid. On top of the big names like Adams and Adès, a fair peruse of what&#039;s happening in places like Minnesota Opera, Opera Philadelphia, Lyric Opera of Chicago, and Houston Grand Opera can easily dispel the &quot;rare&quot; myth."
 slug = "natalie-dessay-opera-is-an-art-which-has-not-been-able-to-renew"
 title = "Natalie Dessay: &quot;opera is an art which has not been able to renew.&quot;"
 +++

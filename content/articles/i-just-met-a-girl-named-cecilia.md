@@ -3,7 +3,7 @@ categories = "News"
 date = "2015-05-25T21:27:00-04:00"
 lastmod = "2015-06-17T15:23:00-04:00"
 publishDate = "2015-05-26T12:08:00-04:00"
-short_description = "I don't know how I feel about the recent announcement that Italian mezzo Cecilia Bartoli will star as Maria in Leonard Bernstein's West Side Story at the 2016 Salzburg Whitsun Festival."
+short_description = "I don&#039;t know how I feel about the recent announcement that Italian mezzo Cecilia Bartoli will star as Maria in Leonard Bernstein&#039;s West Side Story at the 2016 Salzburg Whitsun Festival."
 slug = "i-just-met-a-girl-named-cecilia"
 title = "I just met a girl named Cecilia"
 +++

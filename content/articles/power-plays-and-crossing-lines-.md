@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2016-03-30T22:31:00+01:00"
 lastmod = "2016-03-31T10:09:00+01:00"
 publishDate = "2016-03-31T10:09:00+01:00"
-short_description = "So, it comes down to an imbalance of power, and a blurry line between standing up for oneself and pissing off someone who can give an artist a serious leg up in their career. People who take advantage of their power within a competitive industry aren't good people - that's simple. And it's only fair to point out that the majority of people with whom I've worked have passed The Dad Test with flying colours. "
+short_description = "So, it comes down to an imbalance of power, and a blurry line between standing up for oneself and pissing off someone who can give an artist a serious leg up in their career. People who take advantage of their power within a competitive industry aren&#039;t good people - that&#039;s simple. And it&#039;s only fair to point out that the majority of people with whom I&#039;ve worked have passed The Dad Test with flying colours. "
 slug = "power-plays-and-crossing-lines-"
 title = "Power plays and crossing lines "
 +++

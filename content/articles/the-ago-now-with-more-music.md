@@ -3,7 +3,7 @@ categories = "News"
 date = "2015-11-01T11:16:00-05:00"
 lastmod = "2015-11-02T16:29:00-05:00"
 publishDate = "2015-11-02T13:07:00-05:00"
-short_description = "The AGO has partnered with Tapestry Opera to launch a new concert series on Friday evenings, each featuring music go to hand-in-hand with what's on at the Gallery. Yesterday the AGO launched J.M.W. Turner: Painting Set Free, an exhibition of over 50 large-scale paintings and watercolours by British artist Joseph Mallord William Turner (1775–1851)."
+short_description = "The AGO has partnered with Tapestry Opera to launch a new concert series on Friday evenings, each featuring music go to hand-in-hand with what&#039;s on at the Gallery. Yesterday the AGO launched J.M.W. Turner: Painting Set Free, an exhibition of over 50 large-scale paintings and watercolours by British artist Joseph Mallord William Turner (1775–1851)."
 slug = "the-ago-now-with-more-music"
 title = "The AGO, now with more music!"
 +++

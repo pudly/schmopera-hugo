@@ -4,7 +4,7 @@ date = "2018-02-12T18:27:00-05:00"
 lastmod = "2018-02-13T09:05:00-05:00"
 preamble = "American countertenor [John Holiday](/scene/people/john-holiday/) sings [Handel](https://www.youtube.com/watch?v=-TmQG2GkX1c) as comfortably as he does jazz and spirituals, even [accompanying himself at the piano](https://www.youtube.com/watch?v=yf7xu0f91wk). Joining the ranks of Denyce Graves, Eric Owens, and Lawrence Brownlee, Holiday is the 2017 Winner of the Marian Anderson Vocal Award; in conjuction with the award, he will make his [Kennedy Center recital debut](http://www.kennedy-center.org/calendar/event/OSOCC) on **February 15**.\n\nIt was a treat to talk with Holiday about the great care he takes with his craft, the importance of a support system, and music as his \"sanctuary\"."
 publishDate = "2018-02-13T09:05:00-05:00"
-short_description = "\"I can remember dragging myself out of my third floor dorm room, in Mary Hay Hall (sidenote: Above my room, there was a plaque that read 'Future Leaders of Tomorrow'), and being late to those required acting classes for music majors.  Ladies and gentlemen, if you're reading, take advantage of those classes.  You'll be thankful you did.\""
+short_description = "&quot;I can remember dragging myself out of my third floor dorm room, in Mary Hay Hall (sidenote: Above my room, there was a plaque that read &#039;Future Leaders of Tomorrow&#039;), and being late to those required acting classes for music majors.  Ladies and gentlemen, if you&#039;re reading, take advantage of those classes.  You&#039;ll be thankful you did.&quot;"
 slug = "talking-with-singers-john-holiday"
 title = "Talking with singers: John Holiday"
 +++

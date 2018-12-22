@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2016-03-29T13:22:00+01:00"
 lastmod = "2016-03-29T13:46:00+01:00"
 publishDate = "2016-03-29T13:45:00+01:00"
-short_description = "Tonight, we're pretty excited to hear Peruvian tenor Juan Diego Flórez in recital at Royal Albert Hall, as part of the Rosenblatt Recital series. The tenor is famous for his stratospheric singing, and although one of his signature arias, \"Ah, mes amis\" from Donizetti's La fille du régiment isn't listed on his programme, there's always the promise of an encore..."
+short_description = "Tonight, we&#039;re pretty excited to hear Peruvian tenor Juan Diego Flórez in recital at Royal Albert Hall, as part of the Rosenblatt Recital series. The tenor is famous for his stratospheric singing, and although one of his signature arias, &quot;Ah, mes amis&quot; from Donizetti&#039;s La fille du régiment isn&#039;t listed on his programme, there&#039;s always the promise of an encore..."
 slug = "36-high-cs-to-perk-up-your-day"
 title = "36 high C&#039;s to perk up your day"
 +++

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2015-08-08T13:21:00-04:00"
 lastmod = "2015-09-16T18:45:00-04:00"
 publishDate = "2015-08-08T14:17:00-04:00"
-short_description = "Friday, August 7th, 2015. This is the day I finally understood why the human race began singing and dancing in the first place. I don't know how or why it started, but I was reminded of how blessed we are by its presence in our lives."
+short_description = "Friday, August 7th, 2015. This is the day I finally understood why the human race began singing and dancing in the first place. I don&#039;t know how or why it started, but I was reminded of how blessed we are by its presence in our lives."
 slug = "in-review-obeah-opera"
 title = "In review: Obeah Opera"
 +++

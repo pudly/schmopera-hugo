@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2014-01-09T19:55:00-05:00"
 lastmod = "2015-04-28T23:03:00-04:00"
 publishDate = "2014-01-09T19:55:00-05:00"
-short_description = "George Carlin said on playing the blues, \"I'll tell you a little secret about the blues: it's not enough to know which notes to play, you have to know why they need to be played.\""
+short_description = "George Carlin said on playing the blues, &quot;I&#039;ll tell you a little secret about the blues: it&#039;s not enough to know which notes to play, you have to know why they need to be played.&quot;"
 slug = "young-pups-and-puccini"
 title = "Young Pups and Puccini"
 +++

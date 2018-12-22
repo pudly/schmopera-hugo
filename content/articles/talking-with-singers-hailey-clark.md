@@ -4,7 +4,7 @@ date = "2018-05-13T20:59:00-04:00"
 lastmod = "2018-05-13T21:17:00-04:00"
 preamble = "American soprano [Hailey Clark](/scene/people/hailey-clark/) is currently in Switzerland, where she is nearly through her first season with the ensemble at Theater Basel. She is set to sing the role of Anne Trulove in a new production of [*The Rake's Progress*](https://www.theater-basel.ch/Schedule/The-Rakes-Progress/oYxgCgJO/Pv4Ya/), directed by Lydia Steier, running **May 18 to June 24**. She will share the stage with fellow American singers Matthew Newlin as Tom Rakewell and Seth Carico as Nick Shadow.\n\nWe spoke with Clark about the nuances of playing an archetypal role like Anne Trulove, and how she balances her artistic profession with the realities of being an entrepreneur."
 publishDate = "2018-05-13T20:59:00-04:00"
-short_description = "\"The sooner you can define who you are and what you do best, the easier it is for people to identify and understand your \"brand.\" This is an artistic field, of course, but it's also a business, and in order for companies to sell tickets and keep the art form alive, it's important for them to know the three-dimensional artist that they’re hiring and trusting to tell their story.\""
+short_description = "&quot;The sooner you can define who you are and what you do best, the easier it is for people to identify and understand your &quot;brand.&quot; This is an artistic field, of course, but it&#039;s also a business, and in order for companies to sell tickets and keep the art form alive, it&#039;s important for them to know the three-dimensional artist that they’re hiring and trusting to tell their story.&quot;"
 slug = "talking-with-singers-hailey-clark"
 title = "Talking with singers: Hailey Clark"
 +++

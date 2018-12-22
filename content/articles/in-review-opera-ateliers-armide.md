@@ -3,7 +3,7 @@ categories = "Review"
 date = "2015-10-31T11:59:00-04:00"
 lastmod = "2015-10-31T13:07:00-04:00"
 publishDate = "2015-10-31T13:07:00-04:00"
-short_description = "Earlier this month I spoke with OA Artistic Director Marshall Pynkoski, who said, \"love can be something that saves people or destroys people. Love is amoral. Love cuts through like a knife – anyone in love is cut open. Love is more powerful than hate, but that doesn’t mean it’s a happy ending.\""
+short_description = "Earlier this month I spoke with OA Artistic Director Marshall Pynkoski, who said, &quot;love can be something that saves people or destroys people. Love is amoral. Love cuts through like a knife – anyone in love is cut open. Love is more powerful than hate, but that doesn’t mean it’s a happy ending.&quot;"
 slug = "in-review-opera-ateliers-armide"
 title = "In review: Opera Atelier&#039;s Armide"
 +++

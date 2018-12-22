@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-04-21T09:50:00+01:00"
 lastmod = "2016-04-21T12:10:00+01:00"
 publishDate = "2016-04-21T12:05:00+01:00"
-short_description = "The whole evening was one that urged us to simply close our eyes and listen. It's always refreshing to hear a well-honed orchestra with so much attention paid to the experience, rather than relying simply on the deep roots of traditional classical concert tropes."
+short_description = "The whole evening was one that urged us to simply close our eyes and listen. It&#039;s always refreshing to hear a well-honed orchestra with so much attention paid to the experience, rather than relying simply on the deep roots of traditional classical concert tropes."
 slug = "paris-reflected-at-southwark-cathedral"
 title = "Paris Reflected at Southwark Cathedral"
 +++

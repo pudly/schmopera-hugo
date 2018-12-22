@@ -4,7 +4,7 @@ date = "2017-09-29T11:39:00-04:00"
 lastmod = "2017-09-29T21:50:00-04:00"
 preamble = "What would opera singers be without their stretchy, malleable tempos? More specifically, where would they be without the unwritten rules - \"performance practice\", they're often called - about when you simply **must** take some extra time? Opera is no place for heartless clockwork; but when it comes to mastering operatic skills, sometimes being a cold metronome is a clarifying experiment.\n\nWe've picked three examples of places where ignoring tradition (and many recordings) can help you see the forest for the trees:"
 publishDate = "2017-09-29T21:33:00-04:00"
-short_description = "What would opera singers be without their stretchy, malleable tempos? More specifically, where would they be without the unwritten rules - \"performance practice\", they're often called - about when you simply must take some extra time? Opera is no place for heartless clockwork; but when it comes to mastering operatic skills, sometimes being a cold metronome is a clarifying experiment."
+short_description = "What would opera singers be without their stretchy, malleable tempos? More specifically, where would they be without the unwritten rules - &quot;performance practice&quot;, they&#039;re often called - about when you simply must take some extra time? Opera is no place for heartless clockwork; but when it comes to mastering operatic skills, sometimes being a cold metronome is a clarifying experiment."
 slug = "tick-tock-singers-3-spots-to-ditch-the-rubato-for-now"
 title = "Tick tock, singers! 3 spots to ditch the rubato (for now)"
 +++

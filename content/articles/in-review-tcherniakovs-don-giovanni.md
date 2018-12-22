@@ -3,7 +3,7 @@ categories = "Review"
 date = "2015-01-28T17:48:00-05:00"
 lastmod = "2015-04-11T22:11:00-04:00"
 publishDate = "2015-01-28T17:48:00-05:00"
-short_description = "After much anticipation (and averting my eyes from the opening night reviews), I had the chance to see the COC's current production of Don Giovanni, directed and designed by Dmitri Tcherniakov, and conducted by Michael Hofstetter. The production was new to me, and my curiosity was piqued by some press photos and a few rumoured details. "
+short_description = "After much anticipation (and averting my eyes from the opening night reviews), I had the chance to see the COC&#039;s current production of Don Giovanni, directed and designed by Dmitri Tcherniakov, and conducted by Michael Hofstetter. The production was new to me, and my curiosity was piqued by some press photos and a few rumoured details. "
 slug = "in-review-tcherniakovs-don-giovanni"
 title = "In review: Tcherniakov&#039;s Don Giovanni"
 +++

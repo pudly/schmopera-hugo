@@ -4,7 +4,7 @@ date = "2017-12-20T12:05:00-05:00"
 lastmod = "2018-01-02T12:04:00-05:00"
 preamble = "This weekend on [Saturday, January 6](http://www.wagnersocietyny.org/flyerrecital010618.pdf), the Wagner Society of New York presents tenor [Clay Hilley](/scene/people/clay-hilley/) in recital, after awarding him their Top Prize, the Robert Launch Award in 2015. Among young tenors, Hilley has stepped into the exciting worlds of Heldentenor repertoire, taking on hefty roles like Siegfried, Calaf, Parsifal, and Samson.\n\nWe spoke with Hilley about the fun challenges of Heldentenor repertoire, and what it's like to study closely with fellow tenor and mentor [Jon Fredric West](http://www.guybarzilayartists.com/Jon-Fredric-West)."
 publishDate = "2018-01-02T11:54:00-05:00"
-short_description = "\"Another temporary obstacle is youth. For the longest time, the toughest thing for me was evading debt collectors long enough to absorb as much as I could about style, language, and technique to eventually earn enough coins to appease them, however temporarily. Impresarios are justifiably skeptical of 30 year old self-proclaimed \"Heldentenors.\" It takes a while to prove yourself to the casting crowd.\""
+short_description = "&quot;Another temporary obstacle is youth. For the longest time, the toughest thing for me was evading debt collectors long enough to absorb as much as I could about style, language, and technique to eventually earn enough coins to appease them, however temporarily. Impresarios are justifiably skeptical of 30 year old self-proclaimed &quot;Heldentenors.&quot; It takes a while to prove yourself to the casting crowd.&quot;"
 slug = "talking-with-singers-clay-hilley"
 title = "Talking with singers: Clay Hilley"
 +++

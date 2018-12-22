@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2016-01-02T21:32:00-05:00"
 lastmod = "2016-01-08T17:05:00-05:00"
 publishDate = "2016-01-06T12:19:00-05:00"
-short_description = "This isn't a post about how singers need to become better actors. The problem of dual-audience opera is almost a microcosm of an issue that's becoming more in the foreground of what's demanded of opera singers today. Many of these same singers - who have all the right stuff for the world's largest stages, yet lack the refined acting skills that are required of the camera - would be equally out of their comfort zones in much of the so-called \"indie opera\" happening in small venues."
+short_description = "This isn&#039;t a post about how singers need to become better actors. The problem of dual-audience opera is almost a microcosm of an issue that&#039;s becoming more in the foreground of what&#039;s demanded of opera singers today. Many of these same singers - who have all the right stuff for the world&#039;s largest stages, yet lack the refined acting skills that are required of the camera - would be equally out of their comfort zones in much of the so-called &quot;indie opera&quot; happening in small venues."
 slug = "a-tale-of-two-audiences"
 title = "A tale of two audiences"
 +++

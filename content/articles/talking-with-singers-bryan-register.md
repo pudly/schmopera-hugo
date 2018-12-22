@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-05-24T20:15:00+01:00"
 lastmod = "2016-05-28T10:50:00+01:00"
 publishDate = "2016-05-28T10:42:00+01:00"
-short_description = "\"Physically, it feels like I'm doing my yoga practice in public, in front of an audience,\" Register laughs. Singers and yogis alike know how tricky it can be to find a comfortable balance of effort and ease. \"I would equate a long, difficult phrase, to holding a difficult pose in yoga. You just have to breathe into it, accept it, you're not going to die.\""
+short_description = "&quot;Physically, it feels like I&#039;m doing my yoga practice in public, in front of an audience,&quot; Register laughs. Singers and yogis alike know how tricky it can be to find a comfortable balance of effort and ease. &quot;I would equate a long, difficult phrase, to holding a difficult pose in yoga. You just have to breathe into it, accept it, you&#039;re not going to die.&quot;"
 slug = "talking-with-singers-bryan-register"
 title = "Talking with singers: Bryan Register"
 +++

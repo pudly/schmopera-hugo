@@ -7,7 +7,7 @@ publishDate = "2017-04-01T12:19:00+01:00"
 short_description = "Breaking: everyone brings their own pencil to rehearsal, leaving stage management stunned."
 slug = "stage-management-shocked-as-everyone-brings-own-pencil-to-rehearsal"
 title = "Stage management shocked as everyone brings own pencil to rehearsal"
-youtube_url = https://youtu.be/Im81aCGAcJM
+youtube_url = "https://youtu.be/Im81aCGAcJM"
 +++
 
 

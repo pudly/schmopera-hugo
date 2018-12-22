@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-09-28T15:47:00-04:00"
 lastmod = "2017-09-29T13:19:00-04:00"
 publishDate = "2017-09-29T12:26:00-04:00"
-short_description = "The three violin parts seem to babble, talk over each other, like a gaggle of enthusiastic talkers whose conversation borders on an argument. They echo each other in a three-fold cascade of gesture, single pitches splicing themselves into harmonies; there are moments of Strauss-like vocal writing, and what feels like an exciting nod towards the Toccata movement from John Adam's Violin Concerto."
+short_description = "The three violin parts seem to babble, talk over each other, like a gaggle of enthusiastic talkers whose conversation borders on an argument. They echo each other in a three-fold cascade of gesture, single pitches splicing themselves into harmonies; there are moments of Strauss-like vocal writing, and what feels like an exciting nod towards the Toccata movement from John Adam&#039;s Violin Concerto."
 slug = "review-a-triple-concerto-a-german-requiem-with-the-tso"
 title = "Review: a Triple Concerto &amp; a German Requiem with the TSO"
 +++

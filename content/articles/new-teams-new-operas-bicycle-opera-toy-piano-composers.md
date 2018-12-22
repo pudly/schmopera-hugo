@@ -3,10 +3,10 @@ categories = "Interview"
 date = "2016-03-11T20:55:00+00:00"
 lastmod = "2016-03-12T15:37:00+00:00"
 publishDate = "2016-03-12T12:12:00+00:00"
-short_description = "Bicycle Opera and Toy Piano Composers will premiere Travelogue, a new collection of operas by composers Monica Pearce, Elisha Denburg, August Murphy-King, Tobin Stokes, and librettist Colleen Murphy. Travelogue is exciting in itself, and it's part of Toy Piano Composer's inaugural new music festival, Curiosity Festival, happening April 1-9th (find out all about it right here)."
+short_description = "Bicycle Opera and Toy Piano Composers will premiere Travelogue, a new collection of operas by composers Monica Pearce, Elisha Denburg, August Murphy-King, Tobin Stokes, and librettist Colleen Murphy. Travelogue is exciting in itself, and it&#039;s part of Toy Piano Composer&#039;s inaugural new music festival, Curiosity Festival, happening April 1-9th (find out all about it right here)."
 slug = "new-teams-new-operas-bicycle-opera-toy-piano-composers"
 title = "New teams, new operas: Bicycle Opera + Toy Piano Composers"
-youtube_url = https://youtu.be/BX5GKcxQOqY
+youtube_url = "https://youtu.be/BX5GKcxQOqY"
 +++
 
 Next month, Toronto will see the results of a new collaboration between two exciting and innovative groups of musicians. [The Bicycle Opera Project](/on-the-road-the-bicycle-opera-project/), Canada's only opera company who arrives at every show by bike, is teaming up with [Toy Piano Composers](/scene/companies/toy-piano-composers/), a collective of nine composers who champion the creation of new music, and present it in a fun, listeners-first way. 

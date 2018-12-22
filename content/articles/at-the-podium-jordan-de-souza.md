@@ -4,7 +4,7 @@ date = "2016-02-04T11:54:00-05:00"
 lastmod = "2016-02-05T00:03:00-05:00"
 preamble = "Conductor and keyboardist [Jordan de Souza](/scene/people/jordan-de-souza/) is currently assisting maestro [Johannes Debus](/johannes-debus-falstaff-comedy-and-teamwork/) on the [Canadian Opera Company](/scene/companies/canadian-opera-company/)'s production of [*The Marriage of Figaro*](http://www.coc.ca/PerformancesAndTickets/1516Season/TheMarriageofFigaro.aspx), and he'll be taking the podium for two performances, February 23 and 25.\n\nHe talks with us about high pressure gigs, uncovering Mozart's meaning, and leading the fantastic Canadian Opera Company Orchestra.\n\n"
 publishDate = "2016-02-05T08:03:00-05:00"
-short_description = "Conductor and keyboardist Jordan de Souza is currently assisting maestro Johannes Debus on the Canadian Opera Company's production of The Marriage of Figaro, and he'll be taking the podium for two performances, February 23 and 25. He talks with us about high pressure gigs, uncovering Mozart's meaning, and leading the fantastic Canadian Opera Company Orchestra."
+short_description = "Conductor and keyboardist Jordan de Souza is currently assisting maestro Johannes Debus on the Canadian Opera Company&#039;s production of The Marriage of Figaro, and he&#039;ll be taking the podium for two performances, February 23 and 25. He talks with us about high pressure gigs, uncovering Mozart&#039;s meaning, and leading the fantastic Canadian Opera Company Orchestra."
 slug = "at-the-podium-jordan-de-souza"
 title = "At the podium: Jordan de Souza"
 +++

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2014-11-16T10:00:00-05:00"
 lastmod = "2015-04-13T23:09:00-04:00"
 publishDate = "2014-11-16T10:00:00-05:00"
-short_description = "On a cool Thursday night I trotted down to the Extension Room at 30 Eastern Avenue for Extensions of Us, featuring Lucia Cesaroni, Adrian Kramer, Jennifer Nichols and Justin De Bernardi with Maika'i Nash on piano."
+short_description = "On a cool Thursday night I trotted down to the Extension Room at 30 Eastern Avenue for Extensions of Us, featuring Lucia Cesaroni, Adrian Kramer, Jennifer Nichols and Justin De Bernardi with Maika&#039;i Nash on piano."
 slug = "in-review-extensions-of-us"
 title = "In review: Extensions of Us"
 +++

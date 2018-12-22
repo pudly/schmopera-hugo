@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2018-10-31T20:50:00-04:00"
 lastmod = "2018-11-02T10:40:00-04:00"
 publishDate = "2018-11-02T10:40:00-04:00"
-short_description = "\"He spins a beautiful melody,\" says mezzo-soprano Krisztina Szabó, who joins the Tafelmusik Baroque Orchestra and Chamber Choir on this programme of Steffani's music. The composer's style, \"for me, it falls between Cavalli and Handel.\""
+short_description = "&quot;He spins a beautiful melody,&quot; says mezzo-soprano Krisztina Szabó, who joins the Tafelmusik Baroque Orchestra and Chamber Choir on this programme of Steffani&#039;s music. The composer&#039;s style, &quot;for me, it falls between Cavalli and Handel.&quot;"
 slug = "dont-miss-the-drama-devotion-of-agostino-steffani"
 title = "Don&#039;t miss: the drama &amp; devotion of Agostino Steffani"
 +++

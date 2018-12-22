@@ -4,7 +4,7 @@ date = "2014-10-12T09:00:00-04:00"
 lastmod = "2015-05-30T20:23:00-04:00"
 preamble = "[Greg](http://schmopera.com/author/greg/) and I went together to the COC's current production of Verdi's _Falstaff_, starring the cream of the Canadian crop. We decided to combine forces and write a joint review. Who loved what? Read on to see."
 publishDate = "2014-10-12T09:00:00-04:00"
-short_description = "Greg and I went together to the COC's current production of Verdi's Falstaff, starring the cream of the Canadian crop. We decided to combine forces and write a joint review. Who loved what? Read on to see."
+short_description = "Greg and I went together to the COC&#039;s current production of Verdi&#039;s Falstaff, starring the cream of the Canadian crop. We decided to combine forces and write a joint review. Who loved what? Read on to see."
 slug = "falstaff-he-saidshe-said"
 title = "Falstaff: He said/She said"
 +++

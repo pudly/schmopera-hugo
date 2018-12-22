@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2016-10-14T07:12:00-04:00"
 lastmod = "2017-11-30T21:32:00-05:00"
 publishDate = "2016-10-14T07:56:00-04:00"
-short_description = "So, perhaps we've dubbed this Friday \"Hug a Singer Day\" for the pianists out there, and \"Hug a Pianist Day\" for the owners of lovely voices. Together, singers and pianists are our favourite example of something that's greater than the sum of its parts.\n"
+short_description = "So, perhaps we&#039;ve dubbed this Friday &quot;Hug a Singer Day&quot; for the pianists out there, and &quot;Hug a Pianist Day&quot; for the owners of lovely voices. Together, singers and pianists are our favourite example of something that&#039;s greater than the sum of its parts.\n"
 slug = "great-love-affairs-singers-and-pianists"
 title = "Great love affairs: singers and pianists"
 +++

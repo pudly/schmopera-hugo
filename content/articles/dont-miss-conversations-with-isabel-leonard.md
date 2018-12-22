@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-03-23T18:52:00+00:00"
 lastmod = "2016-03-24T10:08:00+00:00"
 publishDate = "2016-03-24T10:00:00+00:00"
-short_description = "OPERA America continues its Conversations series on April 7th, with an intimate chat with mezzo-soprano Isabel Leonard. At the National Opera Center, OPERA America President/CEO Marc A. Scorca will sit down with the star singer, fresh from her run as Cherubino in The Metropolitan Opera's Le nozze di Figaro."
+short_description = "OPERA America continues its Conversations series on April 7th, with an intimate chat with mezzo-soprano Isabel Leonard. At the National Opera Center, OPERA America President/CEO Marc A. Scorca will sit down with the star singer, fresh from her run as Cherubino in The Metropolitan Opera&#039;s Le nozze di Figaro."
 slug = "dont-miss-conversations-with-isabel-leonard"
 title = "Don&#039;t miss: Conversations with Isabel Leonard"
 +++

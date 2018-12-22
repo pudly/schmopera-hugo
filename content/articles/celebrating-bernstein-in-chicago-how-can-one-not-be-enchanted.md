@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-03-12T12:30:00-04:00"
 lastmod = "2018-03-12T13:01:00-04:00"
 publishDate = "2018-03-12T13:01:00-04:00"
-short_description = "How can one not be enchanted? This is the same Bernstein-ian smile I recognize in my teachers' recollections of their mentor, the same smile that, to my ears, permeates his whole artistic output, and the same smile that suffused the Lyric Opera of Chicago's commemorative Bernstein concert this past Saturday at the Lyric Opera House."
+short_description = "How can one not be enchanted? This is the same Bernstein-ian smile I recognize in my teachers&#039; recollections of their mentor, the same smile that, to my ears, permeates his whole artistic output, and the same smile that suffused the Lyric Opera of Chicago&#039;s commemorative Bernstein concert this past Saturday at the Lyric Opera House."
 slug = "celebrating-bernstein-in-chicago-how-can-one-not-be-enchanted"
 title = "Celebrating Bernstein in Chicago: &quot;How can one not be enchanted?&quot;"
 +++

@@ -3,7 +3,7 @@ categories = "News"
 date = "2018-01-12T20:08:00-05:00"
 lastmod = "2018-01-12T21:03:00-05:00"
 publishDate = "2018-01-12T20:08:00-05:00"
-short_description = "\"One of the things I love most about music is the undeniable connections between different genres,\" says Amanda Smith, FAWN Founding Artistic Director & Resident Stage Director. \" I’ve always listened to electronic music with a similar ear as I do with classical and my experience as a listener is often comparable – so many intricate musical layers and visuals to explore.\""
+short_description = "&quot;One of the things I love most about music is the undeniable connections between different genres,&quot; says Amanda Smith, FAWN Founding Artistic Director &amp; Resident Stage Director. &quot; I’ve always listened to electronic music with a similar ear as I do with classical and my experience as a listener is often comparable – so many intricate musical layers and visuals to explore.&quot;"
 slug = "sunday-funday-a-dontmissit-operatic-doubleheader"
 title = "Sunday Funday: a don&#039;t-miss-it operatic double-header"
 +++

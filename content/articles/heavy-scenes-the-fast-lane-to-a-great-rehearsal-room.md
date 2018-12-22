@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2016-07-01T20:35:00-06:00"
 lastmod = "2016-07-02T08:53:00-06:00"
 publishDate = "2016-07-01T21:52:00-06:00"
-short_description = "Rehearsing comedy is a picky thing, and at least it comes with work-mandated jokes. Rehearsing tragedy can really underscore an artist's maturity, willingness to be vulnerable, and the respect that is the inevitable cornerstone of any collaborative work. It's an odd thing, to be grateful for a rape scene. Perhaps it shouldn't be surprising that the heaviest of onstage stories are the best at fostering offstage relationships."
+short_description = "Rehearsing comedy is a picky thing, and at least it comes with work-mandated jokes. Rehearsing tragedy can really underscore an artist&#039;s maturity, willingness to be vulnerable, and the respect that is the inevitable cornerstone of any collaborative work. It&#039;s an odd thing, to be grateful for a rape scene. Perhaps it shouldn&#039;t be surprising that the heaviest of onstage stories are the best at fostering offstage relationships."
 slug = "heavy-scenes-the-fast-lane-to-a-great-rehearsal-room"
 title = "Heavy scenes: the fast lane to a great rehearsal room"
 +++

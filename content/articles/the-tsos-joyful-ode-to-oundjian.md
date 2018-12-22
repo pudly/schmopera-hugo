@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-06-30T22:08:00-04:00"
 lastmod = "2018-06-30T22:10:00-04:00"
 publishDate = "2018-06-30T22:08:00-04:00"
-short_description = "The symphony itself feels like an entire world, encompassing at once the life of one man - I always like it to be Beethoven's - and the lives of all people. It feels as though Beethoven offers up his story first, a conversation starter with humanity, letting us know of his hardships and his joys and his sense of humour, like an invitation for us to respond."
+short_description = "The symphony itself feels like an entire world, encompassing at once the life of one man - I always like it to be Beethoven&#039;s - and the lives of all people. It feels as though Beethoven offers up his story first, a conversation starter with humanity, letting us know of his hardships and his joys and his sense of humour, like an invitation for us to respond."
 slug = "the-tsos-joyful-ode-to-oundjian"
 title = "The TSO&#039;s joyful ode to Oundjian"
 +++

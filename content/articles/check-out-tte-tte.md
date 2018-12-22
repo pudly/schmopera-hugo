@@ -1,10 +1,10 @@
 +++
 categories = "Interview"
 date = "2016-06-28T18:22:00-06:00"
+draft = true
 lastmod = "2016-07-05T19:50:00-06:00"
 preamble = "Since 1997, [Tête à Tête](/scene/companies/tete-a-tete/) has produced over 70 new works by over 50 different composers, and the London-based company is a leader among those who foster contemporary opera. We spoke with Artistic Director Bill Bankes-Jones, about Tête à Tête's place among today's collective opera scene, some of his most memorable productions, and the upcoming premiere of Toni Castells' [*2045: The Year Man Becomes Immortal?*](http://www.tete-a-tete.org.uk/2045-year-man-becomes-immortal/), happening July 6th."
-publishDate = "undefined"
-short_description = "\"The initial impulse behind Tête à Tête was to share with audiences the wonder of experiencing opera at very close quarters - quite literally tête-à-tête.  I had been working in huge international opera houses for quite a few years before founding the company, having a wonderful time, but also feeling a sense of loss as we moved from rehearsal room, where the greatest singers in the world would sing right in front of you, to the houses where they became tiny dots in the distance on the stage.\""
+short_description = "&quot;The initial impulse behind Tête à Tête was to share with audiences the wonder of experiencing opera at very close quarters - quite literally tête-à-tête.  I had been working in huge international opera houses for quite a few years before founding the company, having a wonderful time, but also feeling a sense of loss as we moved from rehearsal room, where the greatest singers in the world would sing right in front of you, to the houses where they became tiny dots in the distance on the stage.&quot;"
 slug = "check-out-tte-tte"
 title = "Check out: Tête à Tête"
 +++

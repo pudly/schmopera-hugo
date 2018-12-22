@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-09-23T13:31:00-04:00"
 lastmod = "2018-09-23T15:48:00-04:00"
 publishDate = "2018-09-23T15:48:00-04:00"
-short_description = "Odyssey Opera's work restored all of the finales of the middle three acts to their complete forms, with a note in the program adding that they believe most of the material they restored had never been heard prior to their performance. That this content was cut to begin with should come as an absolute shock: the restored content felt absolutely vital to how the work unfolds dramatically."
+short_description = "Odyssey Opera&#039;s work restored all of the finales of the middle three acts to their complete forms, with a note in the program adding that they believe most of the material they restored had never been heard prior to their performance. That this content was cut to begin with should come as an absolute shock: the restored content felt absolutely vital to how the work unfolds dramatically."
 slug = "odyssey-operas-grand-la-reine-de-saba-a-great-season-opener"
 title = "Odyssey Opera&#039;s grand La reine de Saba a great season opener"
 +++

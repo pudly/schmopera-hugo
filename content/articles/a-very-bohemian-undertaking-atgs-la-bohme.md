@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2017-05-12T11:33:00-04:00"
 lastmod = "2017-05-15T12:04:00-04:00"
 publishDate = "2017-05-15T08:30:00-04:00"
-short_description = "Poverty - and the limited options that come with it - is a major theme in the original story of 19th-century Paris. Today, young people across Toronto still have the same limitations, particularly those who choose to pursue the arts. \"There are a lot of constraints on their ability to live,\" says Mokrzewski. \"Bringing [La bohème] into this context exaggerates, almost, the underlying class stuff that was happening.\""
+short_description = "Poverty - and the limited options that come with it - is a major theme in the original story of 19th-century Paris. Today, young people across Toronto still have the same limitations, particularly those who choose to pursue the arts. &quot;There are a lot of constraints on their ability to live,&quot; says Mokrzewski. &quot;Bringing [La bohème] into this context exaggerates, almost, the underlying class stuff that was happening.&quot;"
 slug = "a-very-bohemian-undertaking-atgs-la-bohme"
 title = "&quot;A very Bohemian undertaking&quot;: AtG&#039;s La bohème"
 +++

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-11-15T13:21:00+00:00"
 lastmod = "2016-11-15T15:42:00+00:00"
 publishDate = "2016-11-15T15:42:00+00:00"
-short_description = "The work questions the perspective of emotional trauma, and whose is the most devastating? Is it enduring a prison camp for years only to return to an unrecognizable life? Is it enduring a different kind of prison-like solitude, guilt when one's life's work isn't enough? Nashville Opera's production of Glory Denied, fittingly opened on Veterans' Day, is now one of only five or six full productions of the opera."
+short_description = "The work questions the perspective of emotional trauma, and whose is the most devastating? Is it enduring a prison camp for years only to return to an unrecognizable life? Is it enduring a different kind of prison-like solitude, guilt when one&#039;s life&#039;s work isn&#039;t enough? Nashville Opera&#039;s production of Glory Denied, fittingly opened on Veterans&#039; Day, is now one of only five or six full productions of the opera."
 slug = "in-review-glory-denied"
 title = "In review: Glory Denied"
 +++

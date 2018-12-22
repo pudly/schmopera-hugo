@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2015-05-08T13:12:00-04:00"
 lastmod = "2015-05-09T12:29:00-04:00"
 publishDate = "2015-05-08T14:42:00-04:00"
-short_description = "I'm a huge advocate of music education for young people, including the programs set up by the Canadian Opera Company's Education & Outreach department. One of their programs is Living Opera, which gives a class of secondary school students a chance to hear voice and drama workshops, tour the Four Seasons Centre, and see one of the mainstage shows."
+short_description = "I&#039;m a huge advocate of music education for young people, including the programs set up by the Canadian Opera Company&#039;s Education &amp; Outreach department. One of their programs is Living Opera, which gives a class of secondary school students a chance to hear voice and drama workshops, tour the Four Seasons Centre, and see one of the mainstage shows."
 slug = "living-opera-at-the-coc"
 title = "Living Opera at the COC"
 +++

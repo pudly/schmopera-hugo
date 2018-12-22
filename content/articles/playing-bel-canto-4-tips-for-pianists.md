@@ -4,7 +4,7 @@ date = "2017-10-09T19:15:00-04:00"
 lastmod = "2017-10-17T13:38:00-04:00"
 preamble = "Singers know well that *bel canto* opera is demanding stuff. For pianists, a quick glance at the sparse, simple accompaniments in the arias by Bellini, Donizetti, and Rossini can give the false impression that the repertoire is simple. The notes may be straightforward, but there's more to the art of playing *bel canto* than meets the eye:"
 publishDate = "2017-10-13T22:10:00-04:00"
-short_description = "Singers know well that bel canto opera is demanding stuff. For pianists, a quick glance at the sparse, simple accompaniments in the arias by Bellini, Donizetti, and Rossini can give the false impression that the repertoire is simple. The notes may be straightforward, but there's more to the art of playing bel canto than meets the eye:"
+short_description = "Singers know well that bel canto opera is demanding stuff. For pianists, a quick glance at the sparse, simple accompaniments in the arias by Bellini, Donizetti, and Rossini can give the false impression that the repertoire is simple. The notes may be straightforward, but there&#039;s more to the art of playing bel canto than meets the eye:"
 slug = "playing-bel-canto-4-tips-for-pianists"
 title = "Playing bel canto: 4 tips for pianists"
 +++

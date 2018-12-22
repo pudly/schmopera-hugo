@@ -3,7 +3,7 @@ categories = "Humour"
 date = "2016-04-13T16:53:00+01:00"
 lastmod = "2016-04-14T11:38:00+01:00"
 publishDate = "2016-04-14T11:38:00+01:00"
-short_description = "It can be a tough life for those basses; not only are they rarely the title role in an opera, but they spend a huge amount of kind being skeevy, grabby old men at the party, or money-hungry meddlers, or murderous recluses. When they're not any of those things, they're penniless philosophers making much out of the meaning of donating a coat, or morally questionable cult leaders, or four different faces of the devil."
+short_description = "It can be a tough life for those basses; not only are they rarely the title role in an opera, but they spend a huge amount of kind being skeevy, grabby old men at the party, or money-hungry meddlers, or murderous recluses. When they&#039;re not any of those things, they&#039;re penniless philosophers making much out of the meaning of donating a coat, or morally questionable cult leaders, or four different faces of the devil."
 slug = "lets-hear-it-for-the-basses"
 title = "Let&#039;s hear it for the basses"
 +++

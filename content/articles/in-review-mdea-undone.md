@@ -3,7 +3,7 @@ categories = "Review"
 date = "2015-05-27T09:04:00-04:00"
 lastmod = "2015-06-03T16:47:00-04:00"
 publishDate = "2015-05-27T10:20:00-04:00"
-short_description = "I went with Greg last night to see M'dea Undone, Tapestry Opera's much-anticipated world premiere by composer John Harris and librettist Marjorie Chan. The short version of this review is that I loved, loved it, and it was one of the most integrated nights out at the opera I'd experienced."
+short_description = "I went with Greg last night to see M&#039;dea Undone, Tapestry Opera&#039;s much-anticipated world premiere by composer John Harris and librettist Marjorie Chan. The short version of this review is that I loved, loved it, and it was one of the most integrated nights out at the opera I&#039;d experienced."
 slug = "in-review-mdea-undone"
 title = "In review: M&#039;dea Undone"
 +++

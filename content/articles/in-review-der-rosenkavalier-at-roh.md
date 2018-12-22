@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-01-08T21:51:00+00:00"
 lastmod = "2017-01-10T15:10:00+00:00"
 publishDate = "2017-01-10T14:09:00+00:00"
-short_description = "It's as though Richard Strauss envisioned the skill of singers like Renée Fleming and Alice Coote when he wrote that first scene of Rosenkavalier. It's not something that can be properly anticipated, the thrill of watching two exceptional singers perform roles for which they are rightly known."
+short_description = "It&#039;s as though Richard Strauss envisioned the skill of singers like Renée Fleming and Alice Coote when he wrote that first scene of Rosenkavalier. It&#039;s not something that can be properly anticipated, the thrill of watching two exceptional singers perform roles for which they are rightly known."
 slug = "in-review-der-rosenkavalier-at-roh"
 title = "In review: Der Rosenkavalier at ROH"
 +++

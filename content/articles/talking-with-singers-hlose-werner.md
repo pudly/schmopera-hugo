@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-10-11T13:40:00+01:00"
 lastmod = "2017-04-08T12:19:00+01:00"
 publishDate = "2016-10-14T09:45:00+01:00"
-short_description = "\"Getting a job at the Royal Opera House in the chorus, for me, even if that would be amazing for most other singers, I wouldn't like it.\" Werner is aware of the different pursuits of professional singers - career stability, for example. \"I can totally understand why most people aren't like me.\""
+short_description = "&quot;Getting a job at the Royal Opera House in the chorus, for me, even if that would be amazing for most other singers, I wouldn&#039;t like it.&quot; Werner is aware of the different pursuits of professional singers - career stability, for example. &quot;I can totally understand why most people aren&#039;t like me.&quot;"
 slug = "talking-with-singers-hlose-werner"
 title = "Talking with singers: Héloïse Werner"
 +++

@@ -4,7 +4,7 @@ date = "2016-07-03T11:57:00-06:00"
 lastmod = "2016-07-14T11:52:00-06:00"
 preamble = "We had the chance to meet [Michael Christie](/scene/people/michael-christie/), conductor and Music Director of [Minnesota Opera](/scene/companies/minnesota-opera/), when he was paying a visit to the young artists of [Open Space: Opera in the 21st Century](https://www.banffcentre.ca/announcing-2016-open-space-participants?utm_source=The+Banff+Centre&utm_campaign=55856bf7e4-Arts_Performing+Arts_Apr_2016_Newsletter&utm_medium=email&utm_term=0_ad4acfe1fe-55856bf7e4-) at The Banff Centre. We asked him about Minnesota's strong history with new works, and the trends they continue to set across the opera world."
 publishDate = "2016-07-13T21:08:00-06:00"
-short_description = "It seems, when an audience is left to decide what they deem \"opera\", that they respond positively to hearing new works; Christie credits the community surrounding Minnesota Opera for the consistent support. \"In some communities, new music doesn't go over quite as well,\" he explains. \"Minnesota is a very particular community; I feel very lucky to be there.\""
+short_description = "It seems, when an audience is left to decide what they deem &quot;opera&quot;, that they respond positively to hearing new works; Christie credits the community surrounding Minnesota Opera for the consistent support. &quot;In some communities, new music doesn&#039;t go over quite as well,&quot; he explains. &quot;Minnesota is a very particular community; I feel very lucky to be there.&quot;"
 slug = "michael-christie-new-opera-that-the-box-office-loves"
 title = "Michael Christie: new opera that the box office loves"
 +++

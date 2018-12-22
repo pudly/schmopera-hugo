@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2014-03-14T08:00:00-04:00"
 lastmod = "2015-04-26T00:15:00-04:00"
 publishDate = "2014-03-14T08:00:00-04:00"
-short_description = "Well, it's happened. Child opera singer (and human oxymoron) Amira Willighagen will release her first album, and it's going to be on Simon Cowell's label, Syco Entertainment. It features the poor little thing singing things like \"O mio babbino caro\" and dub-over duets with Luciano Pavarotti. Wait, what? Yup. "
+short_description = "Well, it&#039;s happened. Child opera singer (and human oxymoron) Amira Willighagen will release her first album, and it&#039;s going to be on Simon Cowell&#039;s label, Syco Entertainment. It features the poor little thing singing things like &quot;O mio babbino caro&quot; and dub-over duets with Luciano Pavarotti. Wait, what? Yup. "
 slug = "simon-cowell-stop-it"
 title = "Simon Cowell, stop it."
 +++

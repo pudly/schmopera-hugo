@@ -3,7 +3,7 @@ categories = "Humour"
 date = "2016-02-25T13:30:00-05:00"
 lastmod = "2016-02-25T14:01:00-05:00"
 publishDate = "2016-02-25T14:01:00-05:00"
-short_description = "Tumblr user socialjusticeweg posted some fun ways of being the most unique-est, quirktastic-est, gender-mysterious-est person at school, with a bunch of new gender identification labels, all falling under the umbrella of \"Musigender\" (defined as \"A gender that is closely related to musicianship or music theory\")."
+short_description = "Tumblr user socialjusticeweg posted some fun ways of being the most unique-est, quirktastic-est, gender-mysterious-est person at school, with a bunch of new gender identification labels, all falling under the umbrella of &quot;Musigender&quot; (defined as &quot;A gender that is closely related to musicianship or music theory&quot;)."
 slug = "gems-is-your-gender-in-sonata-form"
 title = "Gems: is your gender in sonata form?"
 +++

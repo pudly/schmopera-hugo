@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-10-11T12:44:00-04:00"
 lastmod = "2017-10-11T23:17:00-04:00"
 publishDate = "2017-10-11T22:49:00-04:00"
-short_description = "Unlike the song-dialogue-song-dialogue-duet-quintet-dialogue-finale formula of operetta - which uses dance forms like polka, czardas, and waltzes - in Arabella, we find characteristic soaring beauty and dramatic pulse in a through-composed score which is what we love about Herr Strauss's music. The appealing play between consonant and dissonant harmonies, lush strings, and emphatic brass were handled masterfully well from the pit under the baton of maestro Patrick Lange. "
+short_description = "Unlike the song-dialogue-song-dialogue-duet-quintet-dialogue-finale formula of operetta - which uses dance forms like polka, czardas, and waltzes - in Arabella, we find characteristic soaring beauty and dramatic pulse in a through-composed score which is what we love about Herr Strauss&#039;s music. The appealing play between consonant and dissonant harmonies, lush strings, and emphatic brass were handled masterfully well from the pit under the baton of maestro Patrick Lange. "
 slug = "review-arabella-or-poor-little-rich-girl"
 title = "Review: Arabella, or &quot;Poor Little Rich Girl&quot;"
 +++

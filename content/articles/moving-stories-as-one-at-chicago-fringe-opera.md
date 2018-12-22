@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-11-17T16:03:00-05:00"
 lastmod = "2017-11-17T18:15:00-05:00"
 publishDate = "2017-11-17T16:50:00-05:00"
-short_description = "The libretto by Mark Campbell and Kimberly Reed is linear in structure and sheds light on Hannah's childhood, college years, and her search for identity. Hannah's recollections are personal but also relatable: we discover that she wore a stolen blouse beneath her jacket on her paper route and first found the word \"transsexual\" in a card catalog in the public library."
+short_description = "The libretto by Mark Campbell and Kimberly Reed is linear in structure and sheds light on Hannah&#039;s childhood, college years, and her search for identity. Hannah&#039;s recollections are personal but also relatable: we discover that she wore a stolen blouse beneath her jacket on her paper route and first found the word &quot;transsexual&quot; in a card catalog in the public library."
 slug = "moving-stories-as-one-at-chicago-fringe-opera"
 title = "Moving stories: As One at Chicago Fringe Opera"
 +++

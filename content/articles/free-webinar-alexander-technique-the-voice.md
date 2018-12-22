@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-08-28T16:02:00+01:00"
 lastmod = "2016-08-30T21:02:00+01:00"
 publishDate = "2016-08-31T08:00:00+01:00"
-short_description = "This Saturday, September 3 at 1-2:30 PDT, Conklin will give a free webinar about Alexander Technique, and she'll share some of the work she does with performers and athletes. \"Vocal, musical and performance skills are synergized in a coordinated, continual flow,\" she writes. \"In short, I will show a simple and potent process that is an invaluable tool for performers.\""
+short_description = "This Saturday, September 3 at 1-2:30 PDT, Conklin will give a free webinar about Alexander Technique, and she&#039;ll share some of the work she does with performers and athletes. &quot;Vocal, musical and performance skills are synergized in a coordinated, continual flow,&quot; she writes. &quot;In short, I will show a simple and potent process that is an invaluable tool for performers.&quot;"
 slug = "free-webinar-alexander-technique-the-voice"
 title = "Free webinar: Alexander Technique &amp; the voice"
 +++

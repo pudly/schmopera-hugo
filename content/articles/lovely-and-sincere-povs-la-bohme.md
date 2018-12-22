@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-02-20T16:26:00-05:00"
 lastmod = "2018-02-21T16:06:00-05:00"
 publishDate = "2018-02-20T16:26:00-05:00"
-short_description = "In this version, Mimì is far more coquettish - obviously trying to catch Rodolfo's interest in a more seductive way than is typical of the demure Mimì we typically expect. Slayden's \"Che gelida manina\" was absolutely breathtaking, his voice resonant and brilliant, and he absolutely brought the house down with his flawless performance."
+short_description = "In this version, Mimì is far more coquettish - obviously trying to catch Rodolfo&#039;s interest in a more seductive way than is typical of the demure Mimì we typically expect. Slayden&#039;s &quot;Che gelida manina&quot; was absolutely breathtaking, his voice resonant and brilliant, and he absolutely brought the house down with his flawless performance."
 slug = "lovely-and-sincere-povs-la-bohme"
 title = "Lovely and sincere: POV&#039;s La Bohème"
 +++

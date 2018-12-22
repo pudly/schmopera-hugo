@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2018-10-25T16:10:00-04:00"
 lastmod = "2018-10-25T22:34:00-04:00"
 publishDate = "2018-10-25T22:34:00-04:00"
-short_description = "With no lines or a prescribed opening time the Summer HD Festival has been a welcoming presence since its inception. Entering off Broadway, people first encounter a table with volunteers from the Metropolitan Opera Guild, providing information about the Guild's programs and benefits of membership as well as complementary issues of its publication, Opera News."
+short_description = "With no lines or a prescribed opening time the Summer HD Festival has been a welcoming presence since its inception. Entering off Broadway, people first encounter a table with volunteers from the Metropolitan Opera Guild, providing information about the Guild&#039;s programs and benefits of membership as well as complementary issues of its publication, Opera News."
 slug = "summer-nights-at-the-opera-an-observation"
 title = "Summer Nights at the Opera: an observation"
 +++

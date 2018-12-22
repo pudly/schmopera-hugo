@@ -4,7 +4,7 @@ date = "2018-06-01T21:05:00-04:00"
 lastmod = "2018-06-04T22:52:00-04:00"
 preamble = "Nevill Holt Opera is rolling out its [2018 season](https://www.nevillholtopera.co.uk/whats-on), to be housed in the company's brand new theatre. The 400-seat theatre, developed within a Leicestershire stable yard, will be inaugurated with Mozart's [*Le nozze di Figaro*](https://www.nevillholtopera.co.uk/whats-on/le-nozze-di-figaro), **June 14-21**, and Thomas Adès' [*Powder Her Face*](https://www.nevillholtopera.co.uk/whats-on/powder-her-face), **June 28 & 30**.\n\nWe spoke with General Manager Rosenna East and Artistic Director Nicholas Chalmers about the theatre's award-winning architecture, and the nod to both old and new in [Nevill Holt Opera's 2018 season](https://www.nevillholtopera.co.uk/whats-on)."
 publishDate = "2018-06-04T22:52:00-04:00"
-short_description = "\"Above all, it's a beautiful and intimate space. The natural colours and textures of the historic materials are brought out, and through a stunning skylight, daylight is brought into the space that was formerly a courtyard. It's a gem of a theatre!\""
+short_description = "&quot;Above all, it&#039;s a beautiful and intimate space. The natural colours and textures of the historic materials are brought out, and through a stunning skylight, daylight is brought into the space that was formerly a courtyard. It&#039;s a gem of a theatre!&quot;"
 slug = "nevill-holt-opera-inaugurates-new-theatre-with-mozart-ads"
 title = "Nevill Holt Opera inaugurates new theatre with Mozart &amp; Adès"
 +++

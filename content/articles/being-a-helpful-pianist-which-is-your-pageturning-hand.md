@@ -3,7 +3,7 @@ categories = "How-to"
 date = "2016-11-14T14:53:00+00:00"
 lastmod = "2016-12-02T10:51:00+00:00"
 publishDate = "2016-12-02T10:37:00+00:00"
-short_description = "Our theory is that there's more nature than nurture in each pianist's preferred page-turning hand. For us, it's our left, because we find ease in a motion across the body, towards the bottom-right corner of the page; in turning the page, our left hand retracts swiftly back into playing position."
+short_description = "Our theory is that there&#039;s more nature than nurture in each pianist&#039;s preferred page-turning hand. For us, it&#039;s our left, because we find ease in a motion across the body, towards the bottom-right corner of the page; in turning the page, our left hand retracts swiftly back into playing position."
 slug = "being-a-helpful-pianist-which-is-your-pageturning-hand"
 title = "Being a helpful pianist: which is your page-turning hand?"
 +++

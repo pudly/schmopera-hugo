@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-03-03T13:35:00+00:00"
 lastmod = "2016-03-03T14:49:00+00:00"
 publishDate = "2016-03-03T14:49:00+00:00"
-short_description = "The night's program, Spirit Dreaming, was a presentation of various creation myths from around the world. The eclectic program included readings from \"Beginnings: Creation Myths of the World\", edited by Penelope Farmer, and \"In the Beginning: Creation Stories from Around the World\", compiled by Virginia Hamilton, read wonderfully by actor Andrew Moodie."
+short_description = "The night&#039;s program, Spirit Dreaming, was a presentation of various creation myths from around the world. The eclectic program included readings from &quot;Beginnings: Creation Myths of the World&quot;, edited by Penelope Farmer, and &quot;In the Beginning: Creation Stories from Around the World&quot;, compiled by Virginia Hamilton, read wonderfully by actor Andrew Moodie."
 slug = "in-review-the-talisker-players-spirit-dreaming"
 title = "In review: The Talisker Players &amp; Spirit Dreaming"
 +++

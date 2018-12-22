@@ -4,7 +4,7 @@ date = "2015-06-23T22:00:00-06:00"
 lastmod = "2015-06-25T08:03:00-06:00"
 preamble = "Here at The Banff Centre, we're working on *Crush*, a new opera by composer [James Rolfe](/scene/people/james-rolfe/) and librettist [Anna Chatterton](/scene/people/anna-chatterton/). It's a fascinating piece, based on Mozart's *Don Giovanni*, this time featuring a female protagonist named Donna. I was thrilled when Anna and James offered to talks about the process of creating *Crush*. They both write eloquently about how they've collaborated on the piece; I've learned that whatever amount of work I sense has been put into writing an opera, doubling that amount is probably more accurate. "
 publishDate = "2015-06-25T08:00:00-06:00"
-short_description = "Here at The Banff Centre, we're working on Crush, a new opera by composer James Rolfe and librettist Anna Chatterton. It's a fascinating piece, based on Mozart's Don Giovanni, this time featuring a female protagonist named Donna. I was thrilled when Anna and James offered to talks about the process of creating Crush. "
+short_description = "Here at The Banff Centre, we&#039;re working on Crush, a new opera by composer James Rolfe and librettist Anna Chatterton. It&#039;s a fascinating piece, based on Mozart&#039;s Don Giovanni, this time featuring a female protagonist named Donna. I was thrilled when Anna and James offered to talks about the process of creating Crush. "
 slug = "james-rolfe-anna-chatterton-on-creating-crush"
 title = "James Rolfe &amp; Anna Chatterton, on creating Crush"
 +++

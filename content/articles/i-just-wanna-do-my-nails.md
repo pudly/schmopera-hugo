@@ -3,7 +3,7 @@ categories = "Humour"
 date = "2015-06-09T15:50:00-04:00"
 lastmod = "2015-06-10T21:25:00-04:00"
 publishDate = "2015-06-10T14:16:00-04:00"
-short_description = "Pianists, am I right? I'm speaking for the pianists who have a #justgirlythings side, the ones who like to look like a half-decent person on top of showing off their skills at the keys. There's no shame in that, ladies (mostly, probably). I too have to make the decision between wearing Weitzman pumps and a) tripping on the way to the piano, and b) being able to use the damper pedal."
+short_description = "Pianists, am I right? I&#039;m speaking for the pianists who have a #justgirlythings side, the ones who like to look like a half-decent person on top of showing off their skills at the keys. There&#039;s no shame in that, ladies (mostly, probably). I too have to make the decision between wearing Weitzman pumps and a) tripping on the way to the piano, and b) being able to use the damper pedal."
 slug = "i-just-wanna-do-my-nails"
 title = "I just wanna do my nails"
 +++

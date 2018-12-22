@@ -4,7 +4,7 @@ date = "2017-07-02T22:22:00-06:00"
 lastmod = "2017-07-04T22:40:00-06:00"
 preamble = "London-based Canadian composer [Cecilia Livingston](/scene/people/cecilia-livingston/)'s music is evocative on first hearing, layered with musical influences to explore. Her operatic work has been heard through [Tapestry Opera](/scene/companies/tapestry-opera/), [Opera 5](/scene/companies/opera-5/), [The Bicycle Opera Project](/scene/companies/the-bicycle-opera-project/), and American Opera Projects; next season she'll present a new full-length opera with [Opera 5](/scene/companies/opera-5/) and TorQ Percussion Quartet.\n\nLivingston has a way with words as she does with music; it was fascinating to chat with her about writer's block, musical snobbery, and her admiration for singers."
 publishDate = "2017-07-04T22:16:00-06:00"
-short_description = "\"When people reach for a musical comparison they usually say I remind them of Britten, which is a huge compliment – and what a comparison to live up to! And it makes sense of the darkness that's in a lot of what I write. (I really enjoy writing music that is witty and satirical; I just keep getting asked for those darker emotional journeys.)\""
+short_description = "&quot;When people reach for a musical comparison they usually say I remind them of Britten, which is a huge compliment – and what a comparison to live up to! And it makes sense of the darkness that&#039;s in a lot of what I write. (I really enjoy writing music that is witty and satirical; I just keep getting asked for those darker emotional journeys.)&quot;"
 slug = "talking-with-composers-cecilia-livingston"
 title = "Talking with composers: Cecilia Livingston"
 +++

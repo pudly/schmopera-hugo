@@ -4,7 +4,7 @@ date = "2018-03-14T22:36:00-04:00"
 lastmod = "2018-03-15T21:47:00-04:00"
 preamble = "Kathy Domoney recently celebrated her 10th anniversary as director of Domoney Artists Management, moving from a busy career as a soprano to her role as an agent and artist manager. Domoney's clients take the stages across Canada and internationally, and she represents an important step in the professional lives of young, emerging opera singers.\n\nWe spoke with Domoney about the reponsibility of an artist manager, the changes she has seen over 30 years in the opera industry, and what she looks for in a client."
 publishDate = "2018-03-15T21:35:00-04:00"
-short_description = "\"Singers think I can wave a magic wand and fill their calendar with engagements - if only that were the case! I make it very clear to potential clients that my job is to open doors through auditions, and the singer's job is to present themselves at auditions with confidence, wonderful singing and a strong emotional connection to their arias.\""
+short_description = "&quot;Singers think I can wave a magic wand and fill their calendar with engagements - if only that were the case! I make it very clear to potential clients that my job is to open doors through auditions, and the singer&#039;s job is to present themselves at auditions with confidence, wonderful singing and a strong emotional connection to their arias.&quot;"
 slug = "talking-with-agents-kathy-domoney"
 title = "Talking with agents: Kathy Domoney"
 +++

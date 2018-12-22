@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-08-29T18:28:00+01:00"
 lastmod = "2016-09-01T08:45:00+01:00"
 publishDate = "2016-09-01T08:45:00+01:00"
-short_description = "He considers the impetus for professional singing a simple one, through those moments of encouragement as a teenager in school. Yet when asked why he still sings, Thomas nods to the freedom he finds onstage. \"I could escape my own life by trying to be somebody else. And that's the reason why I still do it now, because it's the escape from all of my own baggage.\""
+short_description = "He considers the impetus for professional singing a simple one, through those moments of encouragement as a teenager in school. Yet when asked why he still sings, Thomas nods to the freedom he finds onstage. &quot;I could escape my own life by trying to be somebody else. And that&#039;s the reason why I still do it now, because it&#039;s the escape from all of my own baggage.&quot;"
 slug = "talking-with-singers-russell-thomas"
 title = "Talking with singers: Russell Thomas"
 +++

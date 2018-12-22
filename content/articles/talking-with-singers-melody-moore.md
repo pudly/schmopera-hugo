@@ -4,7 +4,7 @@ date = "2016-05-11T06:46:00-04:00"
 lastmod = "2017-08-30T13:13:00-04:00"
 preamble = "Soprano [Melody Moore](/scene/people/melody-moore/) calls the connection she has with Puccini's Floria Tosca \"incredibly strong\"; she has sung the role in Los Angeles and San Francisco, and in September she brings it to Jose Maria Condemi's production at [l'Opéra de Montréal](http://www.operademontreal.com/programmation/tosca#banner).\n\nMoore took the time to talk about some of the enviable roles she's had the chance to perform, about singing new opera, and what's left on her singing bucket list."
 publishDate = "2016-05-11T10:18:00-04:00"
-short_description = "\"It feels like heaven to sing this music. It is a perfect 'lean' into an orchestra that supports and urges forward. I suppose, in singing larger Puccini roles, that I began to see room for roles like Senta and Sieglinde, as did professional coaches and conductors surrounding me - who encouraged me to begin looking into Strauss, Wagner, and Janáček.\""
+short_description = "&quot;It feels like heaven to sing this music. It is a perfect &#039;lean&#039; into an orchestra that supports and urges forward. I suppose, in singing larger Puccini roles, that I began to see room for roles like Senta and Sieglinde, as did professional coaches and conductors surrounding me - who encouraged me to begin looking into Strauss, Wagner, and Janáček.&quot;"
 slug = "talking-with-singers-melody-moore"
 title = "Talking with singers: Melody Moore"
 +++

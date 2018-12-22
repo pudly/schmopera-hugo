@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-11-29T20:33:00+00:00"
 lastmod = "2016-11-30T11:48:00+00:00"
 publishDate = "2016-11-30T11:48:00+00:00"
-short_description = "\"Not unlike Canada, China is an immense country with many peoples and cultures scattered across its vastness,\" explains Music Director Zhang Gaoxiang by translator. \"In Enchanting China, we share the voices of these many places and introduce Canadians to Chinese music’s cultural richness. We hope Toronto will be intrigued to experience our country’s version of the orchestra – and be spellbound by the music that it weaves.\""
+short_description = "&quot;Not unlike Canada, China is an immense country with many peoples and cultures scattered across its vastness,&quot; explains Music Director Zhang Gaoxiang by translator. &quot;In Enchanting China, we share the voices of these many places and introduce Canadians to Chinese music’s cultural richness. We hope Toronto will be intrigued to experience our country’s version of the orchestra – and be spellbound by the music that it weaves.&quot;"
 slug = "dont-miss-enchanting-china"
 title = "Don&#039;t miss: Enchanting China"
 +++

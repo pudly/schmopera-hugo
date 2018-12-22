@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-05-25T21:04:00+01:00"
 lastmod = "2016-05-26T13:03:00+01:00"
 publishDate = "2016-05-26T12:56:00+01:00"
-short_description = "David Day, author of A Tolkien Bestiary, will give a talk and discussion about the fantasy worlds of King Arthur and J. R. R. Tolkien's The Hobbit. Also on the docket are sneak peeks of two operas for young people, coming up later in the TFCO line-up, The Sword in the Schoolyard and The Hobbit, both by Canadian composer Dean Burry (The Brothers Grimm, The Bremen Town Musicians)."
+short_description = "David Day, author of A Tolkien Bestiary, will give a talk and discussion about the fantasy worlds of King Arthur and J. R. R. Tolkien&#039;s The Hobbit. Also on the docket are sneak peeks of two operas for young people, coming up later in the TFCO line-up, The Sword in the Schoolyard and The Hobbit, both by Canadian composer Dean Burry (The Brothers Grimm, The Bremen Town Musicians)."
 slug = "the-tfco-kicks-off-with-tolkien"
 title = "The TFCO kicks off with Tolkien"
 +++

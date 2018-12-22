@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-09-23T09:02:00+01:00"
 lastmod = "2016-09-23T12:30:00+01:00"
 publishDate = "2016-09-23T09:12:00+01:00"
-short_description = "After three encores that included a sing-along of \"I Could Have Danced All Night\" and \"Summertime\", her third encore closed the show with a touching and soaring rendition of \"O mio babbino caro\". The ovation went on for what seemed like several minutes and people were reluctant to leave their seats. "
+short_description = "After three encores that included a sing-along of &quot;I Could Have Danced All Night&quot; and &quot;Summertime&quot;, her third encore closed the show with a touching and soaring rendition of &quot;O mio babbino caro&quot;. The ovation went on for what seemed like several minutes and people were reluctant to leave their seats. "
 slug = "in-review-rene-fleming-joins-opening-night-at-the-tso"
 title = "In review: Renée Fleming joins opening night at the TSO"
 +++

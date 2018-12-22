@@ -3,7 +3,7 @@ categories = "Review"
 date = "2015-10-08T23:23:00-04:00"
 lastmod = "2015-10-09T11:53:00-04:00"
 publishDate = "2015-10-09T11:29:00-04:00"
-short_description = "Last night the Canadian Opera Company opened its new production of La traviata, and I was officially excited. La traviata is done often, but it's another thing to hear it done really well. I got my fix at the Four Seasons Centre with the first of two casts singing the 11 shows between now and November 6th."
+short_description = "Last night the Canadian Opera Company opened its new production of La traviata, and I was officially excited. La traviata is done often, but it&#039;s another thing to hear it done really well. I got my fix at the Four Seasons Centre with the first of two casts singing the 11 shows between now and November 6th."
 slug = "in-review-la-traviata-at-the-coc"
 title = "In review: La traviata at the COC"
 +++

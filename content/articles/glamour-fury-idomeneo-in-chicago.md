@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-10-20T14:42:00-04:00"
 lastmod = "2018-10-23T14:24:00-04:00"
 publishDate = "2018-10-20T15:23:00-04:00"
-short_description = "Matthew Polenzani, in his fifteenth(!) role at the Lyric, is the dramatic anchor of the cast. His dependably excellent and grounded singing is ideal for the role of this grand, eloquent king. Even in the most bravura moments, Polenzani's singing was refined and elegant."
+short_description = "Matthew Polenzani, in his fifteenth(!) role at the Lyric, is the dramatic anchor of the cast. His dependably excellent and grounded singing is ideal for the role of this grand, eloquent king. Even in the most bravura moments, Polenzani&#039;s singing was refined and elegant."
 slug = "glamour-fury-idomeneo-in-chicago"
 title = "Glamour &amp; fury: Idomeneo in Chicago"
 +++

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-05-14T20:41:00-04:00"
 lastmod = "2018-05-14T21:25:00-04:00"
 publishDate = "2018-05-14T21:25:00-04:00"
-short_description = "In spite of the fact that it's hard to tell a story in twenty minutes, I walked away from this exciting evening hungry for more short bonbons of opera. I was grateful for the theme of the evening, which the creative teams either ran with or ran away from. "
+short_description = "In spite of the fact that it&#039;s hard to tell a story in twenty minutes, I walked away from this exciting evening hungry for more short bonbons of opera. I was grateful for the theme of the evening, which the creative teams either ran with or ran away from. "
 slug = "5-frankensteinthemed-shorts-leave-you-wanting-more"
 title = "5 Frankenstein-themed shorts leave you wanting more"
 +++

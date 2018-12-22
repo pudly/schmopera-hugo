@@ -4,7 +4,7 @@ date = "2018-10-16T20:22:00-04:00"
 lastmod = "2018-10-17T09:55:00-04:00"
 preamble = "American bass-baritone Evan Hughes is making his company debut as Figaro at the San Diego Opera in Mozart's *The Marriage of Figaro*, October 20 to October 28, 2018."
 publishDate = "2018-10-17T09:55:00-04:00"
-short_description = "\"Opera is so difficult to get right. There are a lot of valiant efforts but even in the master works of previous centuries, so many things have to come together for an opera to actually work for the audience. The story telling has to be clear, all the actors have to be on the same page, and the chorus has to be invested.\""
+short_description = "&quot;Opera is so difficult to get right. There are a lot of valiant efforts but even in the master works of previous centuries, so many things have to come together for an opera to actually work for the audience. The story telling has to be clear, all the actors have to be on the same page, and the chorus has to be invested.&quot;"
 slug = "talking-with-singers-evan-hughes"
 title = "Talking with singers: Evan Hughes"
 +++

@@ -3,7 +3,7 @@ categories = "News"
 date = "2017-01-03T20:18:00+00:00"
 lastmod = "2017-01-04T13:51:00+00:00"
 publishDate = "2017-01-04T13:46:00+00:00"
-short_description = "The International Opera Awards raises funds for almost 50 bursaries for aspiring artists. It's super easy to submit your nominations, and it's a great chance to push lesser-known gems into the spotlight."
+short_description = "The International Opera Awards raises funds for almost 50 bursaries for aspiring artists. It&#039;s super easy to submit your nominations, and it&#039;s a great chance to push lesser-known gems into the spotlight."
 slug = "international-opera-awards-2016-nominate-your-top-picks"
 title = "International Opera Awards 2016: nominate your top picks!"
 +++

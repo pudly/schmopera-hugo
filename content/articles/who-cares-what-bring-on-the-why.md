@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2014-07-12T10:55:00-04:00"
 lastmod = "2018-01-03T10:06:00-05:00"
 publishDate = "2014-07-12T10:55:00-04:00"
-short_description = "If I were the artistic director of my own opera company, I'd probably enjoy putting up whatever shows I please. There would be a lot of Britten in my seasons. The question would be, would people want to go see the shows I like best?"
+short_description = "If I were the artistic director of my own opera company, I&#039;d probably enjoy putting up whatever shows I please. There would be a lot of Britten in my seasons. The question would be, would people want to go see the shows I like best?"
 slug = "who-cares-what-bring-on-the-why"
 title = "Who cares what? Bring on the why"
 +++

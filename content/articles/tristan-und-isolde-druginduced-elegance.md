@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-04-16T22:03:00-04:00"
 lastmod = "2018-04-17T20:03:00-04:00"
 publishDate = "2018-04-17T20:03:00-04:00"
-short_description = "Caught between duty, desire and despondence, Kaufmann's Tristan navigated with a melancholic and determined grace, building to fanatical splendor only to dissolve in hallucinatory turmoil. Whether he can sustain all of this vocally and emotionally in a full production is a question that the opera world eagerly waits to have answered."
+short_description = "Caught between duty, desire and despondence, Kaufmann&#039;s Tristan navigated with a melancholic and determined grace, building to fanatical splendor only to dissolve in hallucinatory turmoil. Whether he can sustain all of this vocally and emotionally in a full production is a question that the opera world eagerly waits to have answered."
 slug = "tristan-und-isolde-druginduced-elegance"
 title = "Tristan und Isolde: drug-induced elegance"
 +++

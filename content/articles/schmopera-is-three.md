@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2016-12-03T19:47:00+00:00"
 lastmod = "2016-12-05T15:20:00+00:00"
 publishDate = "2016-12-05T14:30:00+00:00"
-short_description = "It's been three years ago since we started Schmopera from a cozy chalet, on a ski trip near Montréal. At the beginning, there was a distinct feeling of opening a large can of worms inside the small world of opera; now, we're insanely proud of what Schmopera has become, and we're humbled by our readers."
+short_description = "It&#039;s been three years ago since we started Schmopera from a cozy chalet, on a ski trip near Montréal. At the beginning, there was a distinct feeling of opening a large can of worms inside the small world of opera; now, we&#039;re insanely proud of what Schmopera has become, and we&#039;re humbled by our readers."
 slug = "schmopera-is-three"
 title = "Schmopera is three!"
 +++

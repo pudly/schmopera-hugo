@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-02-26T22:26:00+00:00"
 lastmod = "2016-02-29T21:00:00+00:00"
 publishDate = "2016-02-28T11:33:00+00:00"
-short_description = "I'm really excited to be chatting with MYOpera's Artistic Director Kate Applin, Music Director Natasha Fransblow, Stage Director Anna Theodosakis and tenor Daevyd Pepper, all of whom are involved with their exciting upcoming production of Britten's The Rape of Lucretia."
+short_description = "I&#039;m really excited to be chatting with MYOpera&#039;s Artistic Director Kate Applin, Music Director Natasha Fransblow, Stage Director Anna Theodosakis and tenor Daevyd Pepper, all of whom are involved with their exciting upcoming production of Britten&#039;s The Rape of Lucretia."
 slug = "dont-miss-in-conversation-with-myopera"
 title = "Don&#039;t miss: In Conversation with MYOpera"
 +++

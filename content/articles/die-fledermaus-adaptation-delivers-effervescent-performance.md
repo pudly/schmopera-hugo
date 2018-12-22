@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-09-30T09:50:00-04:00"
 lastmod = "2018-09-30T20:25:00-04:00"
 publishDate = "2018-09-30T09:51:00-04:00"
-short_description = "The standout performer of the evening, however, was soprano Laura Brandt as Eisenstein's wife, Rose. Brandt's spinning, confident voice pervaded this production from beginning to end with richness and depth. And in the tradition of a true leading lady, Brandt's chemistry with each of her castmates - from her husband to her ex-lover to her maid and beyond - is naturally seamless with each interaction. Hers was truly a tour-de-force performance."
+short_description = "The standout performer of the evening, however, was soprano Laura Brandt as Eisenstein&#039;s wife, Rose. Brandt&#039;s spinning, confident voice pervaded this production from beginning to end with richness and depth. And in the tradition of a true leading lady, Brandt&#039;s chemistry with each of her castmates - from her husband to her ex-lover to her maid and beyond - is naturally seamless with each interaction. Hers was truly a tour-de-force performance."
 slug = "die-fledermaus-adaptation-delivers-effervescent-performance"
 title = "Die Fledermaus adaptation delivers effervescent performance"
 +++

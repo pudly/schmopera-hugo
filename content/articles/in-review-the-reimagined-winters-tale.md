@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-12-14T10:11:00+00:00"
 lastmod = "2016-12-14T11:22:00+00:00"
 publishDate = "2016-12-14T11:22:00+00:00"
-short_description = "Hovering somewhere between medieval inspiration and abstract improvisation, Kim Ashton's music served as evocative incidental music, offering subtext and commentary in what felt like a live version of a film score. With admirable listening skills, the quartet played from memory, removing one more barrier that can separate the audience from the creative process."
+short_description = "Hovering somewhere between medieval inspiration and abstract improvisation, Kim Ashton&#039;s music served as evocative incidental music, offering subtext and commentary in what felt like a live version of a film score. With admirable listening skills, the quartet played from memory, removing one more barrier that can separate the audience from the creative process."
 slug = "in-review-the-reimagined-winters-tale"
 title = "In review: The (reimagined) Winter&#039;s Tale"
 +++

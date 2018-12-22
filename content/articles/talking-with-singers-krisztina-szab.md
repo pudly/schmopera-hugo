@@ -3,10 +3,10 @@ categories = "Interview"
 date = "2015-05-02T10:42:00-04:00"
 lastmod = "2015-05-02T11:15:00-04:00"
 publishDate = "2015-05-02T11:11:00-04:00"
-short_description = "Hungarian-Canadian mezzo-soprano Krisztina Szabó is no strangers to the Four Seasons Centre stage. This time, she'll sing The Woman in Schoenberg's Erwartung, which, with Bartók's Bluebeard's Castle, makes up the iconic double-bill by Robert Lepage."
+short_description = "Hungarian-Canadian mezzo-soprano Krisztina Szabó is no strangers to the Four Seasons Centre stage. This time, she&#039;ll sing The Woman in Schoenberg&#039;s Erwartung, which, with Bartók&#039;s Bluebeard&#039;s Castle, makes up the iconic double-bill by Robert Lepage."
 slug = "talking-with-singers-krisztina-szab"
 title = "Talking with singers: Krisztina Szabó"
-youtube_url = https://youtu.be/_GMV5bknktI
+youtube_url = "https://youtu.be/_GMV5bknktI"
 +++
 
 Hungarian-Canadian mezzo-soprano [Krisztina Szabó](http://www.krisztinaszabo.com/) is no strangers to the Four Seasons Centre stage. This time, she'll sing The Woman in Schoenberg's *Erwartung*, which, with Bartók's *Bluebeard's Castle*, makes up the [iconic double-bill by Robert Lepage](http://www.coc.ca/PerformancesAndTickets/1415Season/BluebeardErwartung.aspx). 

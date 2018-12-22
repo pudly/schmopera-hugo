@@ -3,7 +3,7 @@ categories = "News"
 date = "2018-02-27T09:46:00-05:00"
 lastmod = "2018-02-27T17:23:00-05:00"
 publishDate = "2018-02-27T09:46:00-05:00"
-short_description = "It's an exciting step for the program, which focuses on the interpretation of art song. It's a place where voice lessons, coachings, and studio work between pianist and singer are distilled into the performing of song repertoire - a refreshing bit of clarity in the craft of communicating music and text to an audience."
+short_description = "It&#039;s an exciting step for the program, which focuses on the interpretation of art song. It&#039;s a place where voice lessons, coachings, and studio work between pianist and singer are distilled into the performing of song repertoire - a refreshing bit of clarity in the craft of communicating music and text to an audience."
 slug = "opera-songfest-team-up-in-la"
 title = "Opera &amp; Song(Fest) team up in LA"
 +++

@@ -4,7 +4,7 @@ date = "2016-10-06T16:41:00+01:00"
 lastmod = "2016-10-08T14:12:00+01:00"
 preamble = "Canadian baritone [Alexander Hajek](/scene/people/alexander-hajek/) has taken stages on both sides of the Atlantic, from the [Canadian Opera Company](/scene/companies/canadian-opera-company/) and [l'Opéra de Montréal](/scene/companies/lopera-de-montreal/) to the [Semperoper Dresden](/scene/people/semperoper-dresden/), Oper Stuttgart, and the [Royal Opera House](/scene/companies/royal-opera-house/), Covent Garden. His staple roles include Count Almaviva in *Le nozze di Figaro*, Schaunard in *La bohème*, and the men of *Don Giovanni*, and this fall he heads to [Atlanta Opera](/scene/companies/atlanta-opera/) to sing Lt. Gordon in Kevin Puts's *Silent Night*.\n\nHajek chats about the checklist he has for \"good singing,\" and making artistic use of the \"inevitable suffering\" in life."
 publishDate = "2016-10-08T14:07:00+01:00"
-short_description = "\"For 'good' singing, I use a few benchmarks to keep myself in check. After the curtain goes down, is my voice in good enough shape to do the whole thing again? Did I manage to make the audience laugh AND cry? Did I discover a deeper truth about the piece or myself?\""
+short_description = "&quot;For &#039;good&#039; singing, I use a few benchmarks to keep myself in check. After the curtain goes down, is my voice in good enough shape to do the whole thing again? Did I manage to make the audience laugh AND cry? Did I discover a deeper truth about the piece or myself?&quot;"
 slug = "spotlight-on-alexander-hajek"
 title = "Spotlight on: Alexander Hajek"
 +++

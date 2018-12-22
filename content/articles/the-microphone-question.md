@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2014-10-07T09:00:00-04:00"
 lastmod = "2015-04-15T17:10:00-04:00"
 publishDate = "2014-10-07T09:00:00-04:00"
-short_description = "The other day I was presented with one of those artistic conundrums that's so simple it rarely occurs to me: the question of using microphones in live opera. If you're an opera lover, your nose probably just scrunched up a little bit at the thought of Violetta sporting a headset mic."
+short_description = "The other day I was presented with one of those artistic conundrums that&#039;s so simple it rarely occurs to me: the question of using microphones in live opera. If you&#039;re an opera lover, your nose probably just scrunched up a little bit at the thought of Violetta sporting a headset mic."
 slug = "the-microphone-question"
 title = "The Microphone Question"
 +++

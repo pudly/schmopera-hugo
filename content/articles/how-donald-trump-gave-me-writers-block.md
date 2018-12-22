@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2017-01-17T10:59:00+00:00"
 lastmod = "2017-01-17T13:36:00+00:00"
 publishDate = "2017-01-17T12:22:00+00:00"
-short_description = "At these very, very low points in the history of humans, the idea of \"inspiring\" people with art and music feels silly, as though we artists are children being told to go play in the corner while the grown-ups (the doctors and lawyers, et al.) sort out the problem. I suppose it's hard to write about opera with scary nonsense in one's head."
+short_description = "At these very, very low points in the history of humans, the idea of &quot;inspiring&quot; people with art and music feels silly, as though we artists are children being told to go play in the corner while the grown-ups (the doctors and lawyers, et al.) sort out the problem. I suppose it&#039;s hard to write about opera with scary nonsense in one&#039;s head."
 slug = "how-donald-trump-gave-me-writers-block"
 title = "How Donald Trump gave me writer&#039;s block"
 +++

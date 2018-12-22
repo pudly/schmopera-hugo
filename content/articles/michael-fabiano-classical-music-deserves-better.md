@@ -4,7 +4,7 @@ date = "2016-08-07T10:46:00+01:00"
 lastmod = "2016-08-12T09:43:00+01:00"
 preamble = "This is a cross-post, originally published on tenor [Michael Fabiano](/scene/people/michael-fabiano/)'s blog, available [via his website.](http://michaelfabianotenor.com/2016/08/classical-music-deserves-better/) "
 publishDate = "2016-08-12T08:00:00+01:00"
-short_description = "A recent article in The Atlantic titled \"The Tragedy of iTunes and Classical Music\" sheds a light on just how problematic iTunes and other major digital libraries are for storing and categorizing classical music. What exactly is the problem? Professional musicians, particularly classical ones, need quick and easy access to multiple recordings and iTunes just doesn’t cut it."
+short_description = "A recent article in The Atlantic titled &quot;The Tragedy of iTunes and Classical Music&quot; sheds a light on just how problematic iTunes and other major digital libraries are for storing and categorizing classical music. What exactly is the problem? Professional musicians, particularly classical ones, need quick and easy access to multiple recordings and iTunes just doesn’t cut it."
 slug = "michael-fabiano-classical-music-deserves-better"
 title = "Michael Fabiano: Classical music deserves better"
 +++

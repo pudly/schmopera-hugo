@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-09-26T17:36:00-04:00"
 lastmod = "2017-09-28T21:49:00-04:00"
 publishDate = "2017-09-28T21:49:00-04:00"
-short_description = "Wiliford joked that it \"took an American\" to found the Canadian Art Song Project, which focuses on getting new Canadian song repertoire written, performed, and recorded. Coming from the more fostering environment in the United States, Wiliford was surprised that Canadian performers weren't as quick to step into the role of champion for their own new music. Similarly, Alex Pauk admits that founding the Esprit Orchestra came out of his and other composers' frustration with the dearth of groups willing to program Canadian material."
+short_description = "Wiliford joked that it &quot;took an American&quot; to found the Canadian Art Song Project, which focuses on getting new Canadian song repertoire written, performed, and recorded. Coming from the more fostering environment in the United States, Wiliford was surprised that Canadian performers weren&#039;t as quick to step into the role of champion for their own new music. Similarly, Alex Pauk admits that founding the Esprit Orchestra came out of his and other composers&#039; frustration with the dearth of groups willing to program Canadian material."
 slug = "whats-the-deal-with-canadian-music"
 title = "What&#039;s the deal with Canadian music?"
 +++

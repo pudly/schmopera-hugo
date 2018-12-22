@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-11-10T12:31:00-05:00"
 lastmod = "2018-11-10T12:57:00-05:00"
 publishDate = "2018-11-10T12:31:00-05:00"
-short_description = "performance. Each instance of the \"Dies Irae\" theme, in which the chorus competes with a bombastic orchestra, was performed with gusto and confidence. The choir also excelled in its polyphony, with the challenging \"Sanctus\" and \"Libera me\" fugue performed well on this night."
+short_description = "performance. Each instance of the &quot;Dies Irae&quot; theme, in which the chorus competes with a bombastic orchestra, was performed with gusto and confidence. The choir also excelled in its polyphony, with the challenging &quot;Sanctus&quot; and &quot;Libera me&quot; fugue performed well on this night."
 slug = "quartet-breathes-the-divine-into-verdi-requiem"
 title = "Quartet breathes the divine into Verdi Requiem"
 +++

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2015-04-29T23:19:00-04:00"
 lastmod = "2015-05-09T12:56:00-04:00"
 publishDate = "2015-04-30T13:55:00-04:00"
-short_description = "Last night I went to opening night of Earnest, the Importance of Being at Toronto Operetta Theatre. The piece, by Victor Davies and Eugene Benson, had its premiere in 2008. It's a rare thing to find an original Canadian operetta, and this one is a hilarious and charming take on Oscar Wilde's *The Importance of Being Earnest*."
+short_description = "Last night I went to opening night of Earnest, the Importance of Being at Toronto Operetta Theatre. The piece, by Victor Davies and Eugene Benson, had its premiere in 2008. It&#039;s a rare thing to find an original Canadian operetta, and this one is a hilarious and charming take on Oscar Wilde&#039;s *The Importance of Being Earnest*."
 slug = "in-review-earnest-the-importance-of-being"
 title = "In review: Earnest, the Importance of Being"
 +++

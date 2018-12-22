@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-01-20T17:50:00-05:00"
 lastmod = "2016-01-21T10:23:00-05:00"
 publishDate = "2016-01-21T10:23:00-05:00"
-short_description = "Campsall is an emerging singer to watch, and we were lucky to catch her and pianist Brahm Goldhamer in their dress rehearsal performance. She worked with \"phenomenal director\" Oliver Klöter to create a dense, claustrophobic telling of the one-sided phone conversation between a suicidal woman and her silent, invisible lover. \"He was very patient with me,\" says Campsall, who admits that Poulenc's music is challenging, and achieving her level of comfort with it is a long process. "
+short_description = "Campsall is an emerging singer to watch, and we were lucky to catch her and pianist Brahm Goldhamer in their dress rehearsal performance. She worked with &quot;phenomenal director&quot; Oliver Klöter to create a dense, claustrophobic telling of the one-sided phone conversation between a suicidal woman and her silent, invisible lover. &quot;He was very patient with me,&quot; says Campsall, who admits that Poulenc&#039;s music is challenging, and achieving her level of comfort with it is a long process. "
 slug = "dont-miss-la-voix-humaine"
 title = "Don&#039;t miss: La voix humaine"
 +++

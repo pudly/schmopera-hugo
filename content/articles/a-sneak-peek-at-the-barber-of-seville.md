@@ -3,10 +3,10 @@ categories = "Interview"
 date = "2015-04-10T21:34:00-04:00"
 lastmod = "2015-04-13T21:24:00-04:00"
 publishDate = "2015-03-23T09:33:00-04:00"
-short_description = "Rehearsals for the COC's Barber of Seville started a few days ago, and I had the chance to sit in on the concept discussion, led by director (and founder of Els Comediants) Joan Font and associate director Tanya Kane-Parry. They showed off some costume and set designs, discussed the Commedia dell'arte, and spoke about this story's web of fascinating characters."
+short_description = "Rehearsals for the COC&#039;s Barber of Seville started a few days ago, and I had the chance to sit in on the concept discussion, led by director (and founder of Els Comediants) Joan Font and associate director Tanya Kane-Parry. They showed off some costume and set designs, discussed the Commedia dell&#039;arte, and spoke about this story&#039;s web of fascinating characters."
 slug = "a-sneak-peek-at-the-barber-of-seville"
 title = "A Sneak Peek at the Barber of Seville"
-youtube_url = https://youtu.be/V42PId7hO0o
+youtube_url = "https://youtu.be/V42PId7hO0o"
 +++
 
 <p>

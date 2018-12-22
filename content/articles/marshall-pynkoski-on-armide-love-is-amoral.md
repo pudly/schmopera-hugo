@@ -3,7 +3,7 @@ categories = "News"
 date = "2015-10-14T18:49:00-04:00"
 lastmod = "2015-10-15T09:28:00-04:00"
 publishDate = "2015-10-15T12:00:00-04:00"
-short_description = "It's a twist on a tragic love story that seems progressive for its 17th century creation. \"By the end of the opera no one wants to feel hate more than Armide, but her tragedy is that she can now only feel love. There are no winners and no losers: love has annihilated everyone.\""
+short_description = "It&#039;s a twist on a tragic love story that seems progressive for its 17th century creation. &quot;By the end of the opera no one wants to feel hate more than Armide, but her tragedy is that she can now only feel love. There are no winners and no losers: love has annihilated everyone.&quot;"
 slug = "marshall-pynkoski-on-armide-love-is-amoral"
 title = "Marshall Pynkoski on Armide: &quot;Love is amoral.&quot;"
 +++

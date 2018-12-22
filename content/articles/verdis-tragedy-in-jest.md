@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-05-16T10:49:00-04:00"
 lastmod = "2018-05-16T10:49:00-04:00"
 publishDate = "2018-05-16T10:49:00-04:00"
-short_description = "To protect his daughter from the Duke (and his entourage of like-minded cruel courtiers), Rigoletto hides her from the real world. She isn't allowed to venture outside, except to go to church. And that's where the Duke spies her and decides he must have her. There is an abundance of well-placed irony throughout the drama."
+short_description = "To protect his daughter from the Duke (and his entourage of like-minded cruel courtiers), Rigoletto hides her from the real world. She isn&#039;t allowed to venture outside, except to go to church. And that&#039;s where the Duke spies her and decides he must have her. There is an abundance of well-placed irony throughout the drama."
 slug = "verdis-tragedy-in-jest"
 title = "Verdi&#039;s tragedy in jest"
 +++

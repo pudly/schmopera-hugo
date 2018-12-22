@@ -3,7 +3,7 @@ categories = "News"
 date = "2017-01-16T10:28:00+00:00"
 lastmod = "2017-01-17T11:38:00+00:00"
 publishDate = "2017-01-16T11:52:00+00:00"
-short_description = "The films' stories are diverse: an intoxicated Elvis in a kebab shop, a young ghazal singer pursuing her dreams, a fish who sings its own requiem, and one tenor's take on Carmina Burana that promises to be \"the biggest, boldest, and sexiest operatic flash mob the internet has ever witnessed.\""
+short_description = "The films&#039; stories are diverse: an intoxicated Elvis in a kebab shop, a young ghazal singer pursuing her dreams, a fish who sings its own requiem, and one tenor&#039;s take on Carmina Burana that promises to be &quot;the biggest, boldest, and sexiest operatic flash mob the internet has ever witnessed.&quot;"
 slug = "everyday-arias-presents-14-new-opera-film-shorts"
 title = "Everyday Arias presents 14 new opera film shorts"
 +++

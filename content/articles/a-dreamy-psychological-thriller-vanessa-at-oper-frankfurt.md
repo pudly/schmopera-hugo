@@ -4,7 +4,7 @@ date = "2017-09-16T16:56:00-04:00"
 lastmod = "2017-09-17T13:23:00-04:00"
 preamble = "Main image: Canadian Jessica Strong (Vanessa) and Barbara Zechmeister (the Old Baroness; on floor facing away) in *Vanessa*, Oper Frankfurt, 2017. Photo: Barbara Aumüller."
 publishDate = "2017-09-17T12:46:00-04:00"
-short_description = "Thoma presents the trio of women as three generations of the same person: Erika, the Baroness and Vanessa herself are all one immortal woman, eternally alone and suffering, stuck in time forever and unable to move forward. The Baroness embodies Vanessa's future as a bitter widow, while her niece Erika represents her past as a hopeful, beautiful, innocent young girl. As Erika laments, \"Sometimes I am her niece/But mostly her shadow\"."
+short_description = "Thoma presents the trio of women as three generations of the same person: Erika, the Baroness and Vanessa herself are all one immortal woman, eternally alone and suffering, stuck in time forever and unable to move forward. The Baroness embodies Vanessa&#039;s future as a bitter widow, while her niece Erika represents her past as a hopeful, beautiful, innocent young girl. As Erika laments, &quot;Sometimes I am her niece/But mostly her shadow&quot;."
 slug = "a-dreamy-psychological-thriller-vanessa-at-oper-frankfurt"
 title = "A dreamy psychological thriller: Vanessa at Oper Frankfurt"
 +++

@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2017-01-22T13:31:00+00:00"
 lastmod = "2017-01-23T13:43:00+00:00"
 publishDate = "2017-01-23T13:22:00+00:00"
-short_description = "Yet it's a fascinating, almost humanizing thing, to hear Beethoven struggle with how to really write for the voice. It's a bit like listening to Verdi's Stiffelio, which was written after Nabucco and Macbeth and Ernani, but before Rigoletto and La traviata; one couldn't argue with Verdi's skills as a composer, but even he, the opera expert, found his slow and steady way to effortless vocal writing."
+short_description = "Yet it&#039;s a fascinating, almost humanizing thing, to hear Beethoven struggle with how to really write for the voice. It&#039;s a bit like listening to Verdi&#039;s Stiffelio, which was written after Nabucco and Macbeth and Ernani, but before Rigoletto and La traviata; one couldn&#039;t argue with Verdi&#039;s skills as a composer, but even he, the opera expert, found his slow and steady way to effortless vocal writing."
 slug = "in-review-fidelio-other-first-operas"
 title = "In review: Fidelio &amp; other first operas"
 +++

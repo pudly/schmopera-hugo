@@ -4,7 +4,7 @@ date = "2015-06-26T18:05:00-06:00"
 lastmod = "2015-06-27T10:40:00-06:00"
 preamble = "Répétiteurs, rehearsal pianists, the ones who *repeat* sections of music over and over; they're a special breed of pianist, with an insanely focused set of skills. Being a répétiteur is one of those jobs that can feel thankless, where people only notice your playing when you mess up. It's about checking your pianist ego at the door, and facilitating a rehearsal for others: singers, conductors, and directors. It takes a thick skin, and a knowledge of the score that rivals that of the top-billed creative staff. Here are four major parts of doing a tough job like a pro."
 publishDate = "2015-06-27T08:30:00-06:00"
-short_description = "Répétiteurs, rehearsal pianists, the ones who repeat sections of music over and over; they're a special breed of pianist, with an insanely focused set of skills. Being a répétiteur is one of those jobs that can feel thankless, where people only notice your playing when you mess up. It's about checking your pianist ego at the door, and facilitating a rehearsal for others: singers, conductors, and directors."
+short_description = "Répétiteurs, rehearsal pianists, the ones who repeat sections of music over and over; they&#039;re a special breed of pianist, with an insanely focused set of skills. Being a répétiteur is one of those jobs that can feel thankless, where people only notice your playing when you mess up. It&#039;s about checking your pianist ego at the door, and facilitating a rehearsal for others: singers, conductors, and directors."
 slug = "how-to-be-a-star-rptiteur-yes-there-is-such-a-thing"
 title = "How to be a star répétiteur (yes, there is such a thing)"
 +++

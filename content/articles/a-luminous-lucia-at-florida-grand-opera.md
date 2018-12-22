@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-11-13T14:08:00-05:00"
 lastmod = "2017-11-13T18:09:00-05:00"
 publishDate = "2017-11-13T18:09:00-05:00"
-short_description = "Soprano Haeran Hong in the title role was superb. Her performance from start to finish was a spellbinding display of virtuosity and musical imagination; her mad scene cadenza felt effortless, almost improvised. She captured a range of emotion and colour to rival the soaring range of notes — flawlessly executed — that comprise Donizetti's challenging score."
+short_description = "Soprano Haeran Hong in the title role was superb. Her performance from start to finish was a spellbinding display of virtuosity and musical imagination; her mad scene cadenza felt effortless, almost improvised. She captured a range of emotion and colour to rival the soaring range of notes — flawlessly executed — that comprise Donizetti&#039;s challenging score."
 slug = "a-luminous-lucia-at-florida-grand-opera"
 title = "A luminous Lucia at Florida Grand Opera"
 +++

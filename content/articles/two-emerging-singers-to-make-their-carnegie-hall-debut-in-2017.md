@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-11-24T12:48:00+00:00"
 lastmod = "2016-11-24T15:22:00+00:00"
 publishDate = "2016-11-24T14:44:00+00:00"
-short_description = "For their Carnegie debuts, Dickerson and Kalender will be joined by world-renowned pianist and conductor, Warren Jones. Kalender first met Jones at the Music Academy of the West in 2014; \"I performed in a number of projects and he was my main mentor throughout the summer festival,\" says Kalender. \"Our work together for opera scenes, art song and chamber music inspired me in so many ways, and I am delighted to collaborate with this amazing maestro at Carnegie Hall.\""
+short_description = "For their Carnegie debuts, Dickerson and Kalender will be joined by world-renowned pianist and conductor, Warren Jones. Kalender first met Jones at the Music Academy of the West in 2014; &quot;I performed in a number of projects and he was my main mentor throughout the summer festival,&quot; says Kalender. &quot;Our work together for opera scenes, art song and chamber music inspired me in so many ways, and I am delighted to collaborate with this amazing maestro at Carnegie Hall.&quot;"
 slug = "two-emerging-singers-to-make-their-carnegie-hall-debut-in-2017"
 title = "Two emerging singers to make their Carnegie Hall debut in 2017"
 +++

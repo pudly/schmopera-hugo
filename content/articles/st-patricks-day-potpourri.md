@@ -3,7 +3,7 @@ categories = "Humour"
 date = "2015-04-10T22:23:00-04:00"
 lastmod = "2015-04-12T19:10:00-04:00"
 publishDate = "2015-03-17T10:23:00-04:00"
-short_description = "​Happy St. Patrick's Day, everyone! To give an operatic nod to the patron saint of Ireland, here are some appropriately-themed clips via YouTube."
+short_description = "​Happy St. Patrick&#039;s Day, everyone! To give an operatic nod to the patron saint of Ireland, here are some appropriately-themed clips via YouTube."
 slug = "st-patricks-day-potpourri"
 title = "St. Patrick&#039;s Day Potpourri"
 +++

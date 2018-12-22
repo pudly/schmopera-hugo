@@ -3,7 +3,7 @@ categories = "Humour"
 date = "2014-09-22T12:11:00-04:00"
 lastmod = "2015-04-15T17:45:00-04:00"
 publishDate = "2014-09-22T12:11:00-04:00"
-short_description = "I indulged in some Pavarotti & Friends today, and pulled out a few favourites to share. I recognized that song recipe for Pavarotti's duets with famous pop singers: the famous pop singer starts off by singing the first verse au naturel, and Pav joins in for the second verse, in Italian, with what sometimes sounds like a totally new melody. "
+short_description = "I indulged in some Pavarotti &amp; Friends today, and pulled out a few favourites to share. I recognized that song recipe for Pavarotti&#039;s duets with famous pop singers: the famous pop singer starts off by singing the first verse au naturel, and Pav joins in for the second verse, in Italian, with what sometimes sounds like a totally new melody. "
 slug = "pavarotti-and-all-his-friends"
 title = "Pavarotti and all his Friends"
 +++

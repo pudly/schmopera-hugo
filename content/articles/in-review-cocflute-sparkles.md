@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-01-21T11:25:00+00:00"
 lastmod = "2017-01-21T11:46:00+00:00"
 publishDate = "2017-01-21T11:46:00+00:00"
-short_description = "The second act drops us fully into their world as we follow Tamino, Papageno, and later Pamina through their trials to join Sarastro's order, the union of male and female being pivotal to the outcome. The only thing I missed in this concept was the closing of the metatheatrical envelope. Once the second act started, we never saw the concept established in the first act return to complete the idea."
+short_description = "The second act drops us fully into their world as we follow Tamino, Papageno, and later Pamina through their trials to join Sarastro&#039;s order, the union of male and female being pivotal to the outcome. The only thing I missed in this concept was the closing of the metatheatrical envelope. Once the second act started, we never saw the concept established in the first act return to complete the idea."
 slug = "in-review-cocflute-sparkles"
 title = "In review: #COCFlute sparkles"
 +++

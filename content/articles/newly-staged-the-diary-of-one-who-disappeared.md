@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-01-24T20:11:00-05:00"
 lastmod = "2018-01-26T20:11:00-05:00"
 publishDate = "2018-01-25T18:03:00-05:00"
-short_description = "The singers gave gripping and intensely theatrical performances. Yet the atmosphere created was meditative, as their judicious movements possessed calm and reserve. The singing was nuanced, if at times a bit uneven. In the tenor Peter Gijsbertsen's highest register, some passages sounded tense and forced, but these were also the moments of most impassioned emotional intensity."
+short_description = "The singers gave gripping and intensely theatrical performances. Yet the atmosphere created was meditative, as their judicious movements possessed calm and reserve. The singing was nuanced, if at times a bit uneven. In the tenor Peter Gijsbertsen&#039;s highest register, some passages sounded tense and forced, but these were also the moments of most impassioned emotional intensity."
 slug = "newly-staged-the-diary-of-one-who-disappeared"
 title = "Newly staged: The Diary of One Who Disappeared"
 +++

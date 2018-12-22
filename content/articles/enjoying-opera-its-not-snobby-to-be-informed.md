@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2017-01-27T12:33:00+00:00"
 lastmod = "2017-01-27T14:40:00+00:00"
 publishDate = "2017-01-27T14:34:00+00:00"
-short_description = "Perhaps my knowledge of singing technique and what it takes to create opera puts me among the \"elite\" (or maybe it's even a form of \"opera privilege\"). It doesn't change the fact, though, that the more you know, the more you hear. If you know the singers personally, their performances are more meaningful. If you know the score well, you can hear the choices being made by different artists."
+short_description = "Perhaps my knowledge of singing technique and what it takes to create opera puts me among the &quot;elite&quot; (or maybe it&#039;s even a form of &quot;opera privilege&quot;). It doesn&#039;t change the fact, though, that the more you know, the more you hear. If you know the singers personally, their performances are more meaningful. If you know the score well, you can hear the choices being made by different artists."
 slug = "enjoying-opera-its-not-snobby-to-be-informed"
 title = "Enjoying opera: it&#039;s not snobby to be informed"
 +++

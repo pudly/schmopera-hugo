@@ -4,7 +4,7 @@ date = "2015-06-28T14:36:00-06:00"
 lastmod = "2015-06-29T13:00:00-06:00"
 preamble = "I first met soprano [Kelsey Vicary](/scene/people/kelsey-vicary/) when we were both studying at Western University, and I had the chance to work with her most recently as Helena in [Opera on the Avalon](/scene/companies/opera-on-the-avalon/)'s production of *A Midsummer Night's Dream*. You may have heard her as the Mother in [Metro Youth Opera](/scene/companies/metro-youth-opera/)'s *Hänsel und Gretel*, or as a past finalist in the Canadian Opera Company's Ensemble Studio Competition. In her smart interview, Kelsey chats about the long-term process that is becoming a singer, and how she strives for simplicity."
 publishDate = "2015-06-29T12:55:00-06:00"
-short_description = "I first met soprano Kelsey Vicary when we were both studying at Western University, and I had the chance to work with her most recently as Helena in Opera on the Avalon's production of A Midsummer Night's Dream. You may have heard her as the Mother in Metro Youth Opera's Hänsel und Gretel, or as a past finalist in the Canadian Opera Company's Ensemble Studio Competition. "
+short_description = "I first met soprano Kelsey Vicary when we were both studying at Western University, and I had the chance to work with her most recently as Helena in Opera on the Avalon&#039;s production of A Midsummer Night&#039;s Dream. You may have heard her as the Mother in Metro Youth Opera&#039;s Hänsel und Gretel, or as a past finalist in the Canadian Opera Company&#039;s Ensemble Studio Competition. "
 slug = "spotlight-on-kelsey-vicary"
 title = "Spotlight on: Kelsey Vicary"
 +++

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-08-17T10:09:00+01:00"
 lastmod = "2016-08-18T09:32:00+01:00"
 publishDate = "2016-08-18T09:32:00+01:00"
-short_description = "Singing curse words and unromantic sex are still relatively rare on the opera stage, even if the stories themselves are full of the same amount of emotional extremes. Whether or not you're the type to point at \"gratuity\" or \"shock value,\" what Norris' production achieves is a totally organic theatre experience. At times the whole thing feels like meta-theatre, and other times the action holds you rapt."
+short_description = "Singing curse words and unromantic sex are still relatively rare on the opera stage, even if the stories themselves are full of the same amount of emotional extremes. Whether or not you&#039;re the type to point at &quot;gratuity&quot; or &quot;shock value,&quot; what Norris&#039; production achieves is a totally organic theatre experience. At times the whole thing feels like meta-theatre, and other times the action holds you rapt."
 slug = "in-review-the-threepenny-opera-"
 title = "In review: The Threepenny Opera "
 +++

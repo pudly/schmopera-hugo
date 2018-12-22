@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-11-03T16:18:00+00:00"
 lastmod = "2016-11-08T10:00:00+00:00"
 publishDate = "2016-11-08T10:00:00+00:00"
-short_description = "He takes seriously the artistic work he does as a singer, yet the come-what-may attitude that Nagy has about his pursuit of singing is one of his biggest advantages. \"If I hadn't gotten this [position at the ROH], then probably I would have gone on auditioning on my own,\" he says of the Jette Parker programme's influence on his career. \"I would have managed somehow. It would have been really different, but there would have been another way.\""
+short_description = "He takes seriously the artistic work he does as a singer, yet the come-what-may attitude that Nagy has about his pursuit of singing is one of his biggest advantages. &quot;If I hadn&#039;t gotten this [position at the ROH], then probably I would have gone on auditioning on my own,&quot; he says of the Jette Parker programme&#039;s influence on his career. &quot;I would have managed somehow. It would have been really different, but there would have been another way.&quot;"
 slug = "talking-with-singers-gyula-nagy"
 title = "Talking with singers: Gyula Nagy"
 +++

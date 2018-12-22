@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-10-15T19:07:00-04:00"
 lastmod = "2017-10-15T22:55:00-04:00"
 publishDate = "2017-10-15T21:07:00-04:00"
-short_description = "Yes, there was a Verdi opera somewhere in those three and a half hours - and we got to see brilliant flashes at times of what the show should and could have been - but mostly we had to wade through a lot of concept and conceit to get there. It wasn't until Act IV (the final act) that our wishes came true: singing, acting and staging that actually touched the audience, and touched us deeply."
+short_description = "Yes, there was a Verdi opera somewhere in those three and a half hours - and we got to see brilliant flashes at times of what the show should and could have been - but mostly we had to wade through a lot of concept and conceit to get there. It wasn&#039;t until Act IV (the final act) that our wishes came true: singing, acting and staging that actually touched the audience, and touched us deeply."
 slug = "nabucco-is-hard-to-find-in-the-latest-la-opera-production"
 title = "Nabucco is hard to find in the latest LA Opera production"
 +++

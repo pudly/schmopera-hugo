@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-02-21T12:05:00-05:00"
 lastmod = "2018-03-04T16:44:00-05:00"
 publishDate = "2018-02-21T12:05:00-05:00"
-short_description = "The overt chauvinism and cynicism of this plot aside, what isn't made clear — and what inevitably proves difficult for any production of this opera — is what happens at the end once the wager is divulged and all has been revealed to the sisters. Do the original pairs simply reunite despite all that transpired?"
+short_description = "The overt chauvinism and cynicism of this plot aside, what isn&#039;t made clear — and what inevitably proves difficult for any production of this opera — is what happens at the end once the wager is divulged and all has been revealed to the sisters. Do the original pairs simply reunite despite all that transpired?"
 slug = "chauvinism-cynicism-great-singing-cos-fan-tutte"
 title = "Chauvinism, cynicism, &amp; great singing: Così fan tutte"
 +++

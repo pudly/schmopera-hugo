@@ -3,7 +3,7 @@ categories = "Review"
 date = "2015-09-05T11:08:00-04:00"
 lastmod = "2015-09-05T12:23:00-04:00"
 publishDate = "2015-09-05T11:26:00-04:00"
-short_description = "Last night I went with conductor, pianist, and man of Against the Grain Theatre Topher Mokrzewski to hear The Bicycle Opera Project, at, well, a bike shop. Curbside Cycle on Bloor West was the first Toronto stop along Bike Opera's tour of Nova Scotia and Ontario."
+short_description = "Last night I went with conductor, pianist, and man of Against the Grain Theatre Topher Mokrzewski to hear The Bicycle Opera Project, at, well, a bike shop. Curbside Cycle on Bloor West was the first Toronto stop along Bike Opera&#039;s tour of Nova Scotia and Ontario."
 slug = "in-review-shadow-box"
 title = "In review: shadow box"
 +++

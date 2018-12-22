@@ -3,7 +3,7 @@ categories = "News"
 date = "2015-10-09T11:31:00-04:00"
 lastmod = "2015-10-11T10:46:00-04:00"
 publishDate = "2015-10-11T10:46:00-04:00"
-short_description = "Opera da Camera is all about accessibility. For their upcoming Hänsel, they'll hold two free pre-show talks, aimed at both young and adult audiences. \"Before our matinée performance, there will be a pre-opera talk geared especially towards children with a professional story teller, and before the opening night there is a pre-opera talk given by a representative of the Goethe Institute of Montreal.\""
+short_description = "Opera da Camera is all about accessibility. For their upcoming Hänsel, they&#039;ll hold two free pre-show talks, aimed at both young and adult audiences. &quot;Before our matinée performance, there will be a pre-opera talk geared especially towards children with a professional story teller, and before the opening night there is a pre-opera talk given by a representative of the Goethe Institute of Montreal.&quot;"
 slug = "opera-da-cameras-hnsel-und-gretel"
 title = "Opera da Camera&#039;s Hänsel und Gretel"
 +++

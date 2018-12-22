@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-05-01T12:15:00-04:00"
 lastmod = "2017-05-01T14:19:00-04:00"
 publishDate = "2017-05-01T14:11:00-04:00"
-short_description = "Rossini's music demands plenty from its singers, and Italian Girl comes with the extra challenges of making a comedy, well, funny. It may sound like a small thing, but this production succeeded largely because of the fun and risk that the cast took in the Italian recitatives. The singers allowed themselves silly sounds, and pulled the notes clear off the page into the realm of spoken text. It's one of the hardest things about performing this kind of opera, and their skill with the Italian text allowed the audience to embrace the show's absurdities."
+short_description = "Rossini&#039;s music demands plenty from its singers, and Italian Girl comes with the extra challenges of making a comedy, well, funny. It may sound like a small thing, but this production succeeded largely because of the fun and risk that the cast took in the Italian recitatives. The singers allowed themselves silly sounds, and pulled the notes clear off the page into the realm of spoken text. It&#039;s one of the hardest things about performing this kind of opera, and their skill with the Italian text allowed the audience to embrace the show&#039;s absurdities."
 slug = "in-review-the-italian-girl-in-algiers-at-myopera"
 title = "In review: The Italian Girl in Algiers at MYOpera"
 +++

@@ -3,7 +3,7 @@ categories = "How-to"
 date = "2015-09-25T13:27:00-04:00"
 lastmod = "2015-09-26T10:36:00-04:00"
 publishDate = "2015-09-26T10:34:00-04:00"
-short_description = "Pianists, when you're playing orchestral reductions, it's all a complicated system of smoke and mirrors. Rather than on getting every note under your fingers, your priorities lay in creating a broader palate of sound, representing the different sections of a hypothetical orchestra. There's a difference in sound between a viola and an oboe, and a group of strings can have a different collective rhythm than a group of winds. "
+short_description = "Pianists, when you&#039;re playing orchestral reductions, it&#039;s all a complicated system of smoke and mirrors. Rather than on getting every note under your fingers, your priorities lay in creating a broader palate of sound, representing the different sections of a hypothetical orchestra. There&#039;s a difference in sound between a viola and an oboe, and a group of strings can have a different collective rhythm than a group of winds. "
 slug = "pianists-3-tips-for-sounding-like-an-orchestra"
 title = "Pianists: 3 tips for sounding like an orchestra"
 +++

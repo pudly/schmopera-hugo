@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-05-29T20:56:00+01:00"
 lastmod = "2016-05-31T09:53:00+01:00"
 publishDate = "2016-05-30T21:32:00+01:00"
-short_description = "Farnsworth was the perfect surreal emcee-type. With direction by Martin Berry, Farnsworth's extraordinary character was layers thick, at once a gleeful child, enamoured with the music around him and the tales he tells, and an unpredictable psychopath. His vocal gymnastics were paired with delightful virtuosity on some of the toy instruments that Grüber includes in his scoring, like slide whistles and kazoos."
+short_description = "Farnsworth was the perfect surreal emcee-type. With direction by Martin Berry, Farnsworth&#039;s extraordinary character was layers thick, at once a gleeful child, enamoured with the music around him and the tales he tells, and an unpredictable psychopath. His vocal gymnastics were paired with delightful virtuosity on some of the toy instruments that Grüber includes in his scoring, like slide whistles and kazoos."
 slug = "aurora-orchestra-fun-frankenstein"
 title = "Aurora Orchestra, fun, &amp; Frankenstein!!"
 +++

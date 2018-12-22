@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2016-01-01T21:53:00-05:00"
 lastmod = "2016-01-02T10:59:00-05:00"
 publishDate = "2016-01-02T09:00:00-05:00"
-short_description = "The trope is that when kids are trailblazers of sorts, the kind to think outside the box, they rebel and turn their attention to something slightly verboten, perhaps exasperating to their parents. Often, that's the arts. It's not difficult to find a tale from a musician or one of his friends about their unsupportive parents, and their stubborn pursuit of their artistic career in spite of their family's disapproval."
+short_description = "The trope is that when kids are trailblazers of sorts, the kind to think outside the box, they rebel and turn their attention to something slightly verboten, perhaps exasperating to their parents. Often, that&#039;s the arts. It&#039;s not difficult to find a tale from a musician or one of his friends about their unsupportive parents, and their stubborn pursuit of their artistic career in spite of their family&#039;s disapproval."
 slug = "tshirts-and-tender-artists"
 title = "T-shirts and tender artists"
 +++

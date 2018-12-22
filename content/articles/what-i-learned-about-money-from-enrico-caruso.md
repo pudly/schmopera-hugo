@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2016-12-12T20:04:00+00:00"
 lastmod = "2016-12-13T12:47:00+00:00"
 publishDate = "2016-12-13T12:47:00+00:00"
-short_description = "The voice in my head wants me to be a brilliant actor, an incredible singer, the best blogger, a life changing financial planner, and everyone's favourite friend. I want all the things. You see… I'm not the kind of guy who can do just 'one thing'. I like having multiple focuses… focusi? And so I'm constantly in conflict with my want to do all of things, and my want to be great at all those things. The smaller the focus, the larger the voice."
+short_description = "The voice in my head wants me to be a brilliant actor, an incredible singer, the best blogger, a life changing financial planner, and everyone&#039;s favourite friend. I want all the things. You see… I&#039;m not the kind of guy who can do just &#039;one thing&#039;. I like having multiple focuses… focusi? And so I&#039;m constantly in conflict with my want to do all of things, and my want to be great at all those things. The smaller the focus, the larger the voice."
 slug = "what-i-learned-about-money-from-enrico-caruso"
 title = "What I learned about money from Enrico Caruso"
 +++

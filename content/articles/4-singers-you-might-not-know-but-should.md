@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2018-05-08T21:25:00-04:00"
 lastmod = "2018-05-09T20:07:00-04:00"
 publishDate = "2018-05-09T20:07:00-04:00"
-short_description = "I browsed through some boxes and found records by Caruso, Bjoerling, Pavarotti, Tozzi, and on and on. I didn't even own a record player, but I purchased about $45 worth of vinyl at about $5 per record, and so began my latest obsession. "
+short_description = "I browsed through some boxes and found records by Caruso, Bjoerling, Pavarotti, Tozzi, and on and on. I didn&#039;t even own a record player, but I purchased about $45 worth of vinyl at about $5 per record, and so began my latest obsession. "
 slug = "4-singers-you-might-not-know-but-should"
 title = "4 singers you might not know - but should"
 +++

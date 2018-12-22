@@ -4,7 +4,7 @@ date = "2015-09-13T20:51:00-04:00"
 lastmod = "2015-09-14T08:22:00-04:00"
 preamble = "I sometimes wonder what the average number of evening gowns in the closets of opera singers. Probably at least 5 - maybe closer to 10? Having a closet that won't stay shut from all the tulle doesn't actually sound like a bad problem, but it's certainly not practical. American soprano [Suzanne Vinnik](/scene/people/suzanne-vinnik/) knows that it can be pricey to be a professional singer, and concert wear can be a huge expense. So, she started the [Opera Diva Dress Collection](https://www.facebook.com/groups/456489367792116/) Facebook group, where singers can buy, sell, and rent gowns from other like-sized singers. Dresses make the rounds and get the stage-time they deserve, and singers can save money without looking like an *actual* starving artist. Brilliant!"
 publishDate = "2015-09-14T08:17:00-04:00"
-short_description = "I sometimes wonder what the average number of evening gowns in the closets of opera singers. Probably at least 5 - maybe closer to 10? Having a closet that won't stay shut from all the tulle doesn't actually sound like a bad problem, but it's certainly not practical. "
+short_description = "I sometimes wonder what the average number of evening gowns in the closets of opera singers. Probably at least 5 - maybe closer to 10? Having a closet that won&#039;t stay shut from all the tulle doesn&#039;t actually sound like a bad problem, but it&#039;s certainly not practical. "
 slug = "browse-suzanne-vinniks-opera-diva-dress-collection"
 title = "Browse Suzanne Vinnik&#039;s Opera Diva Dress Collection"
 +++

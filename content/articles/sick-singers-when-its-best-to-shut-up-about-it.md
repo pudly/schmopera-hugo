@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2017-06-27T20:50:00-06:00"
 lastmod = "2017-06-28T21:49:00-06:00"
 publishDate = "2017-06-28T21:23:00-06:00"
-short_description = "Singers, if you show up to a coaching or a rehearsal and you feel the urge to tell your coach or conductor that you're under the weather, ask yourself this: what do you expect will be the outcome of your volunteering this information?"
+short_description = "Singers, if you show up to a coaching or a rehearsal and you feel the urge to tell your coach or conductor that you&#039;re under the weather, ask yourself this: what do you expect will be the outcome of your volunteering this information?"
 slug = "sick-singers-when-its-best-to-shut-up-about-it"
 title = "Sick singers &amp; when it&#039;s best to shut up about it"
 +++

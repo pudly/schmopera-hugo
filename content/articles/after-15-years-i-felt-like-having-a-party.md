@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2018-05-07T12:37:00-04:00"
 lastmod = "2018-05-07T21:48:00-04:00"
 publishDate = "2018-05-07T21:48:00-04:00"
-short_description = "\"I think we really mined [masque] to a huge extent,\" he says. Now, Beckwith's decision to wrap up TMT is fuelled by a desire for something new."
+short_description = "&quot;I think we really mined [masque] to a huge extent,&quot; he says. Now, Beckwith&#039;s decision to wrap up TMT is fuelled by a desire for something new."
 slug = "after-15-years-i-felt-like-having-a-party"
 title = "&quot;After 15 years, I felt like having a party.&quot;"
 +++

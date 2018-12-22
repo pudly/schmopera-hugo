@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-12-15T12:00:00-05:00"
 lastmod = "2017-12-15T17:12:00-05:00"
 publishDate = "2017-12-15T12:08:00-05:00"
-short_description = "Never a stranger to tackling contemporary subject matter, Against the Grain once again confirms its position as a leader of the pack in the world of underground, indie opera. BOUND is currently finishing the first stage of its multi-year workshop journey, and the direction it's heading in is both exciting and scary - in very good ways."
+short_description = "Never a stranger to tackling contemporary subject matter, Against the Grain once again confirms its position as a leader of the pack in the world of underground, indie opera. BOUND is currently finishing the first stage of its multi-year workshop journey, and the direction it&#039;s heading in is both exciting and scary - in very good ways."
 slug = "equal-parts-stressful-and-reverent-atgbound"
 title = "Equal parts stressful and reverent: #AtGBound"
 +++

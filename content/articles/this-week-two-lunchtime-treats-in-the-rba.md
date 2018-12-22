@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-02-15T16:44:00-05:00"
 lastmod = "2018-02-16T14:54:00-05:00"
 publishDate = "2018-02-15T21:57:00-05:00"
-short_description = "De Sévigné's voice made the same journey; she started from a young place, almost a timid sound, that finally bloomed (and perhaps wilted, appropriately). Her instrument has always had a bell-like ring to it, and lately she has proven that she is a layered artist, both in sound and in the thought she gives to her onstage work."
+short_description = "De Sévigné&#039;s voice made the same journey; she started from a young place, almost a timid sound, that finally bloomed (and perhaps wilted, appropriately). Her instrument has always had a bell-like ring to it, and lately she has proven that she is a layered artist, both in sound and in the thought she gives to her onstage work."
 slug = "this-week-two-lunchtime-treats-in-the-rba"
 title = "This week: two lunchtime treats in the RBA"
 +++

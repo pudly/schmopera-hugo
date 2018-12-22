@@ -4,7 +4,7 @@ date = "2018-10-10T16:42:00-04:00"
 lastmod = "2018-10-11T20:11:00-04:00"
 preamble = "Day jobs: A good one keeps you fed and sheltered while you grow towards doing what you love full time. A bad one drains time and energy from your artistic life.\n\nBackground acting (AKA working as an \"extra\" on a television or film set), with few barriers to entry and mostly single-day commitments, could be a good way to fill gaps between gigs. Approach it constructively and you can hone your craft while earning a (mostly) quick buck."
 publishDate = "2018-10-11T20:11:00-04:00"
-short_description = "Background acting (AKA working as an \"extra\" on a television or film set), with few barriers to entry and mostly single-day commitments, could be a good way to fill gaps between gigs. Approach it constructively and you can hone your craft while earning a (mostly) quick buck."
+short_description = "Background acting (AKA working as an &quot;extra&quot; on a television or film set), with few barriers to entry and mostly single-day commitments, could be a good way to fill gaps between gigs. Approach it constructively and you can hone your craft while earning a (mostly) quick buck."
 slug = "5-ways-being-a-background-actor-helps-your-singing"
 title = "5 ways being a background actor helps your singing"
 +++

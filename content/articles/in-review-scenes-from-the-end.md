@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-12-07T10:46:00+00:00"
 lastmod = "2016-12-07T11:33:00+00:00"
 publishDate = "2016-12-07T11:33:00+00:00"
-short_description = "\"Over the past few years, I have experienced grief. It's impossible to rationally 'describe' your experience of grief because death is absurd,\" writes Werner in her performer's notes. \"When you lose someone, you find yourself surrounded by people who never talk to you about it - not in person anyway - because they simply can't. Or, if they think they can, it quickly becomes unhelpful and patronising, in a weird sort of way.\""
+short_description = "&quot;Over the past few years, I have experienced grief. It&#039;s impossible to rationally &#039;describe&#039; your experience of grief because death is absurd,&quot; writes Werner in her performer&#039;s notes. &quot;When you lose someone, you find yourself surrounded by people who never talk to you about it - not in person anyway - because they simply can&#039;t. Or, if they think they can, it quickly becomes unhelpful and patronising, in a weird sort of way.&quot;"
 slug = "in-review-scenes-from-the-end"
 title = "In review: Scenes from the End"
 +++
