@@ -10,16 +10,14 @@
           <section class="footer--posts">
             <h3>Recent Posts</h3>
             <ul class="post--list __micro">
-            {% for object in data_posts %}
+            {{ range first 5 (where .Data.Pages "Type" "articles") }}
               <li>
-                <a href="{ url(object) }" class="post--list-title">
-                  {% if object.publish_date %}
-                  <em class="post--list-meta-date">{ object.publish_date|date('m.d.y') }</em>
-                  {% endif %}
-                  <h4>{ object.name }</h4>
-                </a>
+                  <a href="{{.Permalink}}" class="post--list-title">
+                    <em class="post--list-meta-date">{{.Date.Format "01.02.06"}}</em>
+                    <h4>{{.Title | htmlUnescape }}</h4>
+                  </a>
               </li>
-            {% endfor %}
+            {{ end }}
             </ul>
           </section>
           <section class="footer--info">
@@ -52,9 +50,8 @@
                 >
               <div class="footer--about-info">
                 <p class="footer--about-info-hero">Schmopera is the brainchild of <strong>Jenna Simeonov</strong></p>
-      
-                { site_data.jennas_bio|markdown }
-      
+                  <p>Jenna is the editor and co-creator of Schmopera.com. She's a pianist and vocal coach, and her work in opera allows her to present a truly insider look at the industry and its artists. Jenna has also written for Musical Toronto and the Canadian Opera Company's <em>Parlando</em> blog.</p>
+                  <p>Find out a little bit more about Jenna below:</p>
                 <ul class="footer--about-info-social">
                   <li><a href="https://www.facebook.com/jenna.douglas.509" class="social--facebook"><i class="icon-facebook"></i></a></li>
                   <li><a href="https://twitter.com/jennamariepiano" class="social--twitter"><i class="icon-twitter"></i></a></li>
