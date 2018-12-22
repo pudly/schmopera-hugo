@@ -7,15 +7,17 @@ sections:
 - type: directory
   path: content/articles
   label: Articles
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - article
 - type: directory
   path: content/authors
   label: Authors
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - author
 - type: directory
   path: content/scene/companies
   label: Companies
