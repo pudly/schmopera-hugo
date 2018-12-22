@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-11-17T14:37:00+00:00"
 lastmod = "2016-11-23T12:07:00+00:00"
 publishDate = "2016-11-23T12:07:00+00:00"
-short_description = "If you're interested in training that's focused, yet flexible, have a look through the courses offered by Associate Studios. They audition on a rolling basis, with the next confirmed dates on November 30 and December 15, 2016. Click here to find out more about their Opera Courses, and to apply online."
+short_description = "If you&#039;re interested in training that&#039;s focused, yet flexible, have a look through the courses offered by Associate Studios. They audition on a rolling basis, with the next confirmed dates on November 30 and December 15, 2016. Click here to find out more about their Opera Courses, and to apply online."
 slug = "honing-your-craft-opera-courses-at-the-associated-studios"
 title = "Honing your craft: opera courses at The Associated Studios"
 +++

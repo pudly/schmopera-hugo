@@ -4,7 +4,7 @@ date = "2015-04-12T23:47:00-04:00"
 lastmod = "2015-04-13T14:21:00-04:00"
 preamble = "For an inside look at rehearsals for Béatrice & Bénédict, [click here](/videos/an-inside-look-at-myos-béatrice-bénédict/)."
 publishDate = "2015-04-13T11:47:00-04:00"
-short_description = "As Metro Youth Opera prepares for the opening of Berlioz's Béatrice & Bénédict, Artistic Director Kate Applin was kind enough to talk about her love of the show: \"I feel like I could listen *B&B* every day.\""
+short_description = "As Metro Youth Opera prepares for the opening of Berlioz&#039;s Béatrice &amp; Bénédict, Artistic Director Kate Applin was kind enough to talk about her love of the show: &quot;I feel like I could listen *B&amp;B* every day.&quot;"
 slug = "metro-youth-operas-kate-applin-on-myobabn"
 title = "Metro Youth Opera&#039;s Kate Applin on #MYOBéaBén"
 +++

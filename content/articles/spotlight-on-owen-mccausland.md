@@ -4,7 +4,7 @@ date = "2016-10-11T17:03:00-02:30"
 lastmod = "2016-10-14T19:27:00-02:30"
 preamble = "New Brunswick-born tenor [Owen McCausland](/scene/people/owen-mccausland/) is back at the [Canadian Opera Company](/scene/companies/canadian-opera-company/), to sing opposite [Alice Coote](/talking-with-singers-alice-coote/) and [Jane Archibald](/scene/people/jane-archibald/) in Richard Jones's production of [*Ariodante*](http://www.coc.ca/PerformancesAndTickets/1617Season/Ariodante.aspx). Amid the busy countdown to opening night on [October 16](http://www.coc.ca/PerformancesAndTickets/1617Season/Ariodante.aspx), McCausland gave a thoughtful interview about his fascination with the power of the voice, and the disciplined approach he takes to his time in the practice room."
 publishDate = "2016-10-13T10:09:00-02:30"
-short_description = "\"Get used to listening to yourself. That recording of your last - lesson/coaching/recital/opera has important information and it will help you move forward. Video is even better. It can be hard, especially at first, but it will highlight the things you can’t hear and also help you forgive yourself for dumb mistakes.\""
+short_description = "&quot;Get used to listening to yourself. That recording of your last - lesson/coaching/recital/opera has important information and it will help you move forward. Video is even better. It can be hard, especially at first, but it will highlight the things you can’t hear and also help you forgive yourself for dumb mistakes.&quot;"
 slug = "spotlight-on-owen-mccausland"
 title = "Spotlight on: Owen McCausland"
 +++

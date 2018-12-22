@@ -4,7 +4,7 @@ date = "2015-05-23T14:38:00-04:00"
 lastmod = "2015-05-25T09:05:00-04:00"
 preamble = "Good operas and good productions often make me think about the characters after the curtain closes. When that happens, I end up imagining the operatic spin-offs, sequels, and prequels that could be. Since our [last instalment](/what-about-schaunard-and-other-opera-spin-offs/) was such fun, I'll share a few of my imaginings once again; readers, leave your ideas in the comments below!"
 publishDate = "2015-05-25T09:05:00-04:00"
-short_description = "Good operas and good productions often make me think about the characters after the curtain closes. When that happens, I end up imagining the operatic spin-offs, sequels, and prequels that could be. Since our last instalment was such fun, I'll share a few of my imaginings once again; readers, leave your ideas in the comments below!"
+short_description = "Good operas and good productions often make me think about the characters after the curtain closes. When that happens, I end up imagining the operatic spin-offs, sequels, and prequels that could be. Since our last instalment was such fun, I&#039;ll share a few of my imaginings once again; readers, leave your ideas in the comments below!"
 slug = "opera-spinoffs-round-two"
 title = "Opera spin-offs, round two"
 +++

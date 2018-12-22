@@ -3,7 +3,7 @@ categories = "Review"
 date = "2015-10-29T22:05:00-04:00"
 lastmod = "2015-10-30T22:19:00-04:00"
 publishDate = "2015-10-30T09:58:00-04:00"
-short_description = "Last night I went to Mây on Dundas West for one of the most compact, strange evenings of music theatre I've ever seen. Canadian tenor Jonathan MacArthur, Loose TEA Music Theatre Artistic Director Alaina Viau, and Fawn Chamber Creative Artistic Director Amanda Smith have collaborated on Toronto Darknet Market, a fundraising event for Medée Toronto's 2016 production of Medée by Charpentier."
+short_description = "Last night I went to Mây on Dundas West for one of the most compact, strange evenings of music theatre I&#039;ve ever seen. Canadian tenor Jonathan MacArthur, Loose TEA Music Theatre Artistic Director Alaina Viau, and Fawn Chamber Creative Artistic Director Amanda Smith have collaborated on Toronto Darknet Market, a fundraising event for Medée Toronto&#039;s 2016 production of Medée by Charpentier."
 slug = "weird-wonderful-toronto-darknet-market"
 title = "Weird &amp; wonderful: Toronto Darknet Market"
 +++

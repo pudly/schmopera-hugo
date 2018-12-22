@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-11-09T07:28:00-03:30"
 lastmod = "2016-11-09T10:47:00-03:30"
 publishDate = "2016-11-09T10:47:00-03:30"
-short_description = "We first heard Khalil perform Ayre at The Banff Centre for Arts and Creativity, and it completely shattered any expectations we had of Golijov's music, or of Khalil's range of vocal colour. It feels ancient, reverent, and like the sound of city buskers; it feels like a catchy tune you've heard before, and something intangible.\n"
+short_description = "We first heard Khalil perform Ayre at The Banff Centre for Arts and Creativity, and it completely shattered any expectations we had of Golijov&#039;s music, or of Khalil&#039;s range of vocal colour. It feels ancient, reverent, and like the sound of city buskers; it feels like a catchy tune you&#039;ve heard before, and something intangible.\n"
 slug = "dont-miss-ayre"
 title = "Don&#039;t miss: Ayre"
 +++
@@ -23,5 +23,5 @@ The staging of *Ayre* by AtG Artistic Director [Joel Ivany](/scene/people/joel-i
 *Ayre* happens **November 10, 11 and 12 at the Ismaili Centre**, 49 Wynford Dr, Toronto. Doors open at 7:30, and the show begins at 8pm. You *want* to see this. [Click here](http://againstthegraintheatre.com/ayre/) for full details and to purchase tickets.
 
 <figure data-type="image">
-![](/webhook-uploads/1478689779571/Ayre%20Cinemagraph.gif)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478689779571/Ayre%20Cinemagraph.gif)
 </figure>

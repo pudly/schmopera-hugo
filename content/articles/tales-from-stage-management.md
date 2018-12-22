@@ -4,7 +4,7 @@ date = "2016-04-19T20:13:00+01:00"
 lastmod = "2016-04-21T15:12:00+01:00"
 preamble = "Any performer worth their salt knows that the first order of business on any contract is to make friends with the stage managers. Without them and their endless attention to detail, the artist may miss his cue, or find herself out onstage without that vital prop, or miss his mark and sing that big aria tragically outside of his light. Stage managers are an organized bunch, a team who knows everything about you, and what you'll need next. They help directors, singers, conductors, schedulers, wardrobe and make-up departments; they're the glue that holds the show together, and they stay humbly obscured in their extensive black wardrobe, standing just out of the audience's sight.\n\nSo, writing about opera simply wouldn't be complete without talking to the stage managers about their work. Backstage heroes [Joanna Barrotta](https://twitter.com/JoJoBarBar) and [Mike Lewandowski](https://twitter.com/LewandowskiM) share their hilarious tales from the job, and clues to the very special world just behind the opera stage."
 publishDate = "2016-04-21T14:23:00+01:00"
-short_description = "Stage managers are an organized bunch, a team who knows everything about you, and what you'll need next. They help directors, singers, schedulers, wardrobe and make-up departments; they're the glue that holds the show together, and they stay humbly obscured, dressed in black and standing just out of the audience's sight."
+short_description = "Stage managers are an organized bunch, a team who knows everything about you, and what you&#039;ll need next. They help directors, singers, schedulers, wardrobe and make-up departments; they&#039;re the glue that holds the show together, and they stay humbly obscured, dressed in black and standing just out of the audience&#039;s sight."
 slug = "tales-from-stage-management"
 title = "Tales from stage management"
 +++
@@ -19,7 +19,7 @@ But truly, the best part is when you sit there and get to listen to [Christine G
 **Mike**: As stage managers we are also very lucky that we not only get to know the singers very well, and everyone else involved in the process. As most people know it takes a village, and as stage managers we are lucky to get to interact with all these people, from Production Assistants, Wardrobe, Wigs & Makeup, Props, Lighting, Designers, Scheduling Manager, Company Manager, Production Manager, Technical Director, Music Department, General Manager, crew and on and on. Stage managers truly know what everyone else is doing at all times. (And if they don't, they are sure to read the production notes and find out!)
 
 <figure data-type="image">
-![](/webhook-uploads/1461144531908/Joanna-Headshot.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461144531908/Joanna-Headshot.jpg)
 <figcaption>Joanna Barrotta.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ But truly, the best part is when you sit there and get to listen to [Christine G
 **Jo**: An enema pump in *Ariadne auf Naxos*.
 
 <figure data-type="image">
-![](/webhook-uploads/1461169353943/2016-04-20---Mikey-Sparkle.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461169353943/2016-04-20---Mikey-Sparkle.jpg)
 <figcaption>Mike Lewandowski. Photo by Cara Tierney.</figcaption>
 </figure>
 

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2015-06-11T20:32:00-04:00"
 lastmod = "2015-06-12T09:15:00-04:00"
 publishDate = "2015-06-12T09:15:00-04:00"
-short_description = "On Friday, June 5th I hit up Artscape Wychwood Barns to see a small production of William Finn's 25th Annual Putnam County Spelling Bee. Based on an improvisation play called C-R-E-P-U-S-C-L-E conceived by Rebecca Feldman, this show took the Tony Awards and Broadway by storm in 2005.  I love this show, so it was a no-brainer to check it out."
+short_description = "On Friday, June 5th I hit up Artscape Wychwood Barns to see a small production of William Finn&#039;s 25th Annual Putnam County Spelling Bee. Based on an improvisation play called C-R-E-P-U-S-C-L-E conceived by Rebecca Feldman, this show took the Tony Awards and Broadway by storm in 2005.  I love this show, so it was a no-brainer to check it out."
 slug = "in-review-25th-annual-putnam-county-spelling-bee"
 title = "In review: 25th Annual Putnam County Spelling Bee"
 +++
@@ -17,7 +17,7 @@ Under the guidance of Susan Cuthbert (*CATS!*, *Phantom of the Opera*), Kate Car
 Cuthbert and intern/associate director Mary Askwith used the intimate theatre space at Artscape Wychwood Barns to the best of their ability. *Spelling Bee* isn't a particularly technically demanding show, so the bee is easily recreated with minimal sets and props. What sets the rest of the scene is up to the lighting, the costumes and the actors. Piano accompaniment was provided by Jonathan Corkal and suited the small intimate production perfectly. A student at Sheridan College himself, he has a bright future ahead of him in and out of the pit. 
 
 <figure data-type="image">
-![](/webhook-uploads/1434068752616/Knight-and-Moffatt---Peretti-and-Panch.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434068752616/Knight-and-Moffatt---Peretti-and-Panch.jpg)
 </figcaption>Charlotte Knight (Rona Lisa Peretti) and Lizzie Moffatt (Donna Panch). Photo by Greg King.</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ The actors were up to the challenge as well. There were some shaky moments and m
 Stephane Gaudet as Leaf Coneybear and Tommy Amoroso as William Barfee showed some serious promise as character actors. Their extreme characterizations of these misfit spellers were solid, well thought out and committed. Amoroso's singing voice was bit of a surprise and holds some serious promise. Steven Bennet as Chip Tolentino had a bit of a false start, but possesses a young soulful voice with a lot of potential as well. It was great to see the cast pull together to get through that small hiccup. A sure sign of great young professional company. With the right vocal coaching, these three could be at the top of the game in Toronto.
 
 <figure data-type="image">
-![](/webhook-uploads/1434068815410/Amoroso-and-Adam---Barfee-and-Ostrovsky.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434068815410/Amoroso-and-Adam---Barfee-and-Ostrovsky.jpg)
 <figcaption>Tommy Amoroso (William Barfee) and Vicktoria Adam (Olive Ostrovsky). Photo by Greg King.</figcaption>
 </figure>
 

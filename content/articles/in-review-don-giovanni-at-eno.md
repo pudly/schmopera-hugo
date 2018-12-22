@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-10-01T00:05:00+01:00"
 lastmod = "2016-10-01T13:00:00+01:00"
 publishDate = "2016-10-01T11:48:00+01:00"
-short_description = "So, it was a real moment of excitement to settle into the first minutes of Richard Jones's new production at English National Opera. His is a production that ingeniously straddles the line between the symbolic and the real; the characters are at once archetypes - the virgin, the scorned, the doting boyfriend - and specific people."
+short_description = "So, it was a real moment of excitement to settle into the first minutes of Richard Jones&#039;s new production at English National Opera. His is a production that ingeniously straddles the line between the symbolic and the real; the characters are at once archetypes - the virgin, the scorned, the doting boyfriend - and specific people."
 slug = "in-review-don-giovanni-at-eno"
 title = "In review: Don Giovanni at ENO"
 +++
@@ -15,7 +15,7 @@ So, it was a real moment of excitement to settle into the first minutes of Richa
 "How do you play Don Giovanni?" Asked Christopher Purves [in an interview](/talking-with-singers-christopher-purves/) about singing the title role. "You just don't - other people do it for you."
 
 <figure data-type="image">
-![](/webhook-uploads/1475276560568/2016-09-30---ENO-Don-Giovanni-Christopher-Purves-2-Robert-Workman.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475276560568/2016-09-30---ENO-Don-Giovanni-Christopher-Purves-2-Robert-Workman.jpg)
 <figcaption>Christopher Purves in *Don Giovanni*, ENO, 2016. Photo: Robert Workman.</figcaption>
 </figure>
 
@@ -24,28 +24,28 @@ That angle seemed to be at the root of the large and small of this production. O
 [Christopher Purves](/talking-with-singers-christopher-purves/) was a Don Giovanni who was attractive - in the fullest sense of the word - even from the balconies of the Coliseum. He stood still, confident that *he* was more than enough for any woman; it left him with the real tools of a seducer, which are the eyes. That calm stillness allowed the people around him to project onto Giovanni any sort of man they want. Purves's Giovanni was a man who had extraordinary control over his outbursts, which were animalistic and dangerous; he let them out only around Leporello (and once, in a moment of frustration, at Masetto). Hidden in the beauty of his bass-baritone, his voice had pleasing grit, like a mix between hunger and not enough sleep, but with a laser-like focus to his desires.
 
 <figure data-type"image">
-![](/webhook-uploads/1475276507284/2016-09-30---ENO-Don-Giovanni-Caitlin-Lynch-and-Allan-Clayton-Robert-Workman.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475276507284/2016-09-30---ENO-Don-Giovanni-Caitlin-Lynch-and-Allan-Clayton-Robert-Workman.jpg)
 <figcaption>Caitlin Lynch and Allan Clayton in *Don Giovanni*, ENO, 2016. Photo: Robert Workman.</figcaption>
 </figure>
 
 Caitlyn Lynch, in her ENO debut, was a pitiful Donna Anna, yet for more interesting reasons than we usually get. She had a beautiful sorrow and desperation in her sound, which was somewhere between girlish and wailing; she suffers trauma that's plain to see, but her real burdens are secrets, making her resistance to Don Ottavio more tragic. [Allan Clayton](/scene/people/allan-clayton/) was a stunning Ottavio, both in voice and as an actor. We're getting used to hearing what can only be described as "perfection" in Clayton's singing, and he was a sympathetic partner to Anna, kind-hearted instead of clingy.
 
 <figure data-type"image">
-![](/webhook-uploads/1475276517070/2016-09-30---ENO-Don-Giovanni-Nicholas-Crawley-and-Mary-Bevan-1-Robert-Workman.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475276517070/2016-09-30---ENO-Don-Giovanni-Nicholas-Crawley-and-Mary-Bevan-1-Robert-Workman.jpg)
 <figcaption>Nicholas Crawley and Mary Bevan in *Don Giovanni*, ENO, 2016. Photo: Robert Workman.</figcaption>
 </figure>
 
 Mary Bevan and Nicholas Crawley were energetic and at odds as Zerlina and Masetto. It was clear that their relationship was not on equal ground from the start, letting Zerlina find a much-craved outlet in Giovanni. Bevan had a young lightness in her warm sound, and Crawley's youth was in his impulsive, almost violent singing. We never quite saw Masetto and Zerlina solve their marital spats, a choice that paves the way for more conflict.
 
 <figure data-type"image">
-![](/webhook-uploads/1475276482823/2016-09-30---ENO-Don-Giovanni-Allan-Clayton-Christine-Rice-Robert-Workman.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475276482823/2016-09-30---ENO-Don-Giovanni-Allan-Clayton-Christine-Rice-Robert-Workman.jpg)
 <figcaption>Christine Rice, Allan Clayton (background), in *Don Giovanni*, ENO, 2016. Photo: Robert Workman.</figcaption>
 </figure>
 
 Christine Rice was a heartfelt Donna Elvira. Jones seemed to let the character speak for herself, without infusing anything new for her as he did with Anna and Zerlina. Her arc seemed more futile than usual, made even more tragic by Rice's excellent singing. Jones seemed to hit on something in Elvira's constant need for Giovanni's attention and penance: it really is about *her*, not him.
 
 <figure data-type"image">
-![](/webhook-uploads/1475318002310/2016-09-30---ENO-Don-Giovanni-James-Creswell-Clive-Bayley-Christopher-Purves-Robert-Workman.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475318002310/2016-09-30---ENO-Don-Giovanni-James-Creswell-Clive-Bayley-Christopher-Purves-Robert-Workman.jpg)
 <figcaption>James Creswell, Clive Bayley, and Christopher Purves in *Don Giovanni*, ENO, 2016. Photo: Robert Workman.</figcaption>
 </figure>
 

@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2017-03-14T15:49:00+00:00"
 lastmod = "2017-03-15T10:17:00+00:00"
 publishDate = "2017-03-15T09:45:00+00:00"
-short_description = "For folks like us - who often get accused of opera snobbery - hearing Wan talk about how great the \"songs\" are, and singling out picks like \"Summertime\" from Porgy and Bess can be annoying. But in reality, Wan is choosing smart talking points for interviews on mainstream TV."
+short_description = "For folks like us - who often get accused of opera snobbery - hearing Wan talk about how great the &quot;songs&quot; are, and singling out picks like &quot;Summertime&quot; from Porgy and Bess can be annoying. But in reality, Wan is choosing smart talking points for interviews on mainstream TV."
 slug = "goks-divas-solid-picks-despite-the-packaging"
 title = "Gok&#039;s Divas: solid picks, despite the packaging"
 +++

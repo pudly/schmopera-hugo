@@ -4,7 +4,7 @@ date = "2016-10-25T11:20:00+01:00"
 lastmod = "2016-10-26T09:33:00+01:00"
 preamble = "[Shadwell Opera](/scene/companies/shadwell-opera/) is gearing up for its creative double-bill, pairing together Schoenberg's *Erwartung* and Mark-Anthony Turnage's *Twice Through the Heart* on [November 4 and 5 at Hackney Showroom](http://www.hackneyshowroom.com/shadwellopera/). The production is directed by Shadwell Opera Artistic Director Jack Furness and Associate Director Celine Lowenthal, and conducted by Musical Director Finnegan Downie Dear; soprano [Madeleine Pierard](http://www.madeleinepierard.com/) and mezzo-soprano [Kate Howden](http://www.katehowden.co.uk/) perform.\n\n\"I can't think of a more challenging, extraordinary pairing of pieces, both of them filled with all of the crazy texture of the modern world,\" says Artistic Director Jack Furness. \"This is more than just a show for Shadwell Opera - it is a statement of company identity.\"\n\nWe spoke with Furness about Shadwell Opera's *Erwartung* and *Twice Through the Heart*, and what gets him excited about presenting them together.\n\nFor more details and ticket information, [click here.](http://www.hackneyshowroom.com/shadwellopera/)"
 publishDate = "2016-10-26T09:29:00+01:00"
-short_description = "\"I think the honesty and compassion of these pieces can have a saline, stripping effect on boring ideas about how the mind works. Somehow the psychology of a single human being is unfathomably more complex than we pretend from day to day. Without the music, it would not be possible to explore those depths in the same way.\""
+short_description = "&quot;I think the honesty and compassion of these pieces can have a saline, stripping effect on boring ideas about how the mind works. Somehow the psychology of a single human being is unfathomably more complex than we pretend from day to day. Without the music, it would not be possible to explore those depths in the same way.&quot;"
 slug = "killer-women-shadwell-operas-doublebill"
 title = "Killer women: Shadwell Opera&#039;s double-bill"
 +++
@@ -39,5 +39,5 @@ I hope they won’t go away saying "Oh, maybe opera is ok." I hope they'll go aw
 
 
 <figure data-type="image">
-![](/webhook-uploads/1477391544790/2016-10-25---Shadwell-Opera-poster.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477391544790/2016-10-25---Shadwell-Opera-poster.jpg)
 </figure>

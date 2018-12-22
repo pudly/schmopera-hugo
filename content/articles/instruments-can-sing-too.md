@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2015-11-27T21:30:00-05:00"
 lastmod = "2015-11-27T23:00:00-05:00"
 publishDate = "2015-11-28T09:00:00-05:00"
-short_description = "Something that young instrumentalists hear for much of their training is that they're not \"singing\" enough. It can be confusing, because no, they're not singing at all. They're dragging bow hairs across strings, plunking keys downwards, maybe even using their own air supply to make sound; but they're not quite singing."
+short_description = "Something that young instrumentalists hear for much of their training is that they&#039;re not &quot;singing&quot; enough. It can be confusing, because no, they&#039;re not singing at all. They&#039;re dragging bow hairs across strings, plunking keys downwards, maybe even using their own air supply to make sound; but they&#039;re not quite singing."
 slug = "instruments-can-sing-too"
 title = "Instruments can sing, too"
 +++

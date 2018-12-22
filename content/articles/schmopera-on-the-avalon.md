@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2014-05-06T14:15:00-04:00"
 lastmod = "2015-04-23T20:39:00-04:00"
 publishDate = "2014-05-06T14:15:00-04:00"
-short_description = "Later this month, I'm packing my bags and heading to St. John's, Newfoundland, to work on a couple of shows at Opera on the Avalon. On the menu are Britten's A Midsummer Night's Dream, directed by Tom Diamond and conducted by Vlad Iftinca, and the ubiquitous La bohème, directed by Michael Cavanagh and conducted by Judith Yan. "
+short_description = "Later this month, I&#039;m packing my bags and heading to St. John&#039;s, Newfoundland, to work on a couple of shows at Opera on the Avalon. On the menu are Britten&#039;s A Midsummer Night&#039;s Dream, directed by Tom Diamond and conducted by Vlad Iftinca, and the ubiquitous La bohème, directed by Michael Cavanagh and conducted by Judith Yan. "
 slug = "schmopera-on-the-avalon"
 title = "Schmopera on the Avalon"
 +++

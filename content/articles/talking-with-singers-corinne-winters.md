@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-04-23T12:31:00-04:00"
 lastmod = "2018-02-05T14:57:00-05:00"
 publishDate = "2016-04-25T04:39:00-04:00"
-short_description = "We had the chance to speak with Winters about the \"intense and subtle\" Mélisande, her offstage creative outlets, and how she stays happy and healthy on the road. Frankly, we'll take wellness tips from any soprano who can run a half-marathon."
+short_description = "We had the chance to speak with Winters about the &quot;intense and subtle&quot; Mélisande, her offstage creative outlets, and how she stays happy and healthy on the road. Frankly, we&#039;ll take wellness tips from any soprano who can run a half-marathon."
 slug = "talking-with-singers-corinne-winters"
 title = "Talking with singers: Corinne Winters"
 +++
@@ -14,7 +14,7 @@ I can relate to all of these iconic heroines (and this is probably why they're i
 
 I don't find that the process changes based on the role, but rather the cast and team. Each production is its own living, breathing entity, and the team dynamic really sets the tone for the process. I love that I can never go on autopilot – I'm forced to stay present with how the process unfolds in that particular moment.
 
-<figure data-type="image">![](/webhook-uploads/1509410788445/2017-10-30---Winters-Fox-1.jpg)<figcaption>Corinne Winters, soprano. Photo: Fay Fox.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509410788445/2017-10-30---Winters-Fox-1.jpg)<figcaption>Corinne Winters, soprano. Photo: Fay Fox.</figcaption>
 </figure>
 
 ## You've always been very health-conscious, both on and off-stage. How does this connect with your singing, and do you have a preferred show-day workout/diet routine?
@@ -28,7 +28,7 @@ On a typical show day I sleep in, drink my coffee, do my morning routine, practi
 Writing was my first creative outlet...before I knew I had a voice, and before I had ever even heard of opera. Putting pen to paper helps me make sense of myself and the world. I journal every morning, and also authored a health and wellness blog called The Artisan Traveler. I said goodbye to the blog to focus on all things opera, but it was my beloved pet project. A few of those blog posts have just been shared via a new [Writing page](http://corinnewinters.com/writing/) on my website. Stay tuned for some new opera-related content as well! 
 
 <figure data-type="image">
-![](/webhook-uploads/1509410817365/2017-10-30---Winters-Fox-2.jpg)<figcaption>Corinne Winters, soprano. Photo by Fay Fox.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509410817365/2017-10-30---Winters-Fox-2.jpg)<figcaption>Corinne Winters, soprano. Photo by Fay Fox.</figcaption>
 </figure>
 
 ## Can you tell us about your background with other styles of music, besides opera?

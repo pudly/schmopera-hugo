@@ -25,7 +25,7 @@ title = "How it&#039;s made: stage combat"
 
 If given enough time on a job, I will work for several days with the actors training them in combat with the style they will use in the production. After they are comfortable with the style, then we move to choreographing the scene. I will take as much time as I am allowed for this. I once trained the actors for nine months for a production. If I only have two days, so be it. Often though, we don’t even get that. We usually get “You’ve got two hours to create and rehearse the fight.” At that point, I do good sequences, but not overly complex ones.
 
-<figure data-type="image">![](/webhook-uploads/1452475239139/2016-01-10---Langsner-Teaching.jpg)<figcaption>Meron Langsner teaching a workshop on Dramaturgy to the Choreographer Track students at the 2015 Summer Sling NYC Regional Stage Combat Workshop. Photo by Theik Smith Photography.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452475239139/2016-01-10---Langsner-Teaching.jpg)<figcaption>Meron Langsner teaching a workshop on Dramaturgy to the Choreographer Track students at the 2015 Summer Sling NYC Regional Stage Combat Workshop. Photo by Theik Smith Photography.</figcaption>
 </figure>
 
 ## What do you find are some common hurdles for artists when developing their stage combat skills?
@@ -37,7 +37,7 @@ If given enough time on a job, I will work for several days with the actors trai
 **Lennox**: I would say that for the artist themselves a serious hurdle is finding a qualified instructor with whom to train on a regular basis. There are a lot of qualified instructors, but there are a lot of areas in the world where none exist. Finding one in close proximity with whom you can regularly train can be a difficult hurdle.
 
 <figure data-type="image">
-![](/webhook-uploads/1452553638821/2016-01-11---John-Lennox.jpg)<figcaption>Dr. John Lennox. </figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452553638821/2016-01-11---John-Lennox.jpg)<figcaption>Dr. John Lennox. </figcaption>
 </figure>
 
 ## What challenges are unique to working with opera singers?
@@ -47,7 +47,7 @@ If given enough time on a job, I will work for several days with the actors trai
 **Lennox**: I’ve only worked on one opera. I was honored to be asked by Jacques Cappelle, the fight director for the National Opera of Brussels to create a fight for a production of Il Trovatore in 2012. He is a sword master and they needed a street fight. That is my specialty. I was in town for a workshop for Jacques’ academy, so I created that fight for him. The biggest challenge in working with opera singers in a street fight style combat scenario is that you cannot do anything that goes near the throat- for obvious reasons. Past that, I never had any more difficulty working with them than I have with other professional performers. They did what I asked and worked hard to make it look like I did when I showed them each move. I have heard plenty of stories about diva attitudes, but I personally never experienced that.
 
 <figure data-type="image">
-![](/webhook-uploads/1452475005220/2016-01-10---Meron-Fight-2.jpg)<figcaption> Meron Langsner choreographing LOVE HURTS, Malarkey Films' entry to the 2013 Boston 48 Hour Film Project</figcaption></figure>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452475005220/2016-01-10---Meron-Fight-2.jpg)<figcaption> Meron Langsner choreographing LOVE HURTS, Malarkey Films' entry to the 2013 Boston 48 Hour Film Project</figcaption></figure>
 
 ## What do you enjoy most about your work?
  

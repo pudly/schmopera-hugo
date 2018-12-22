@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-07-30T19:13:00-04:00"
 lastmod = "2017-07-31T09:01:00-04:00"
 publishDate = "2017-07-30T23:00:00-04:00"
-short_description = "The audience was left with no question of Joseph De Rocher's guilt – but Sister Helen's resolute narrative transformed the convicted murderer into a man who is conflicted, complicated, and deeply human. In the final scene, De Rocher was administered the lethal injection, strapped upright to a gurney in imagery undoubtedly evoking a crucifixion. The audience, then, was left with questions: did De Rocher's death truly achieve justice? In admitting his guilt, did he open himself to forgiveness? Or were his horrible crimes simply unforgivable?"
+short_description = "The audience was left with no question of Joseph De Rocher&#039;s guilt – but Sister Helen&#039;s resolute narrative transformed the convicted murderer into a man who is conflicted, complicated, and deeply human. In the final scene, De Rocher was administered the lethal injection, strapped upright to a gurney in imagery undoubtedly evoking a crucifixion. The audience, then, was left with questions: did De Rocher&#039;s death truly achieve justice? In admitting his guilt, did he open himself to forgiveness? Or were his horrible crimes simply unforgivable?"
 slug = "in-review-dead-man-walking-at-miami-music-festival"
 title = "In review: Dead Man Walking at Miami Music Festival"
 +++
@@ -29,7 +29,7 @@ Opposite Viñas, McMonigle sang a compelling, devout, and at times lighthearted 
 As Sister Rose, friend of Sister Helen, soprano Naomi Worley sang warmly and drew laughs from the audience. Tenor Mark Tempesta sang solidly as stern prison chaplain Father Grenville, convinced that Sister Helen's mission – to elicit and, ultimately, forgive De Rocher's confession of guilt – was a futile one.
 
 <figure data-type="image">
-![](/webhook-uploads/1501456734657/2017-07-30---DeadManWalkingimage1.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501456734657/2017-07-30---DeadManWalkingimage1.jpg)
 <figcaption>Erin Alford (Sister Helen) in *Dead Man Walking*, Miami Music Festival, 2017. Photo courtesy of Miami Music Festival.</figcaption>
 </figure>
 

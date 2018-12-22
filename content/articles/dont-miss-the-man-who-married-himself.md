@@ -3,7 +3,7 @@ categories = "News"
 date = "2017-02-20T20:24:00+00:00"
 lastmod = "2017-02-22T13:41:00+00:00"
 publishDate = "2017-02-22T13:41:00+00:00"
-short_description = "The Man Who Married Himself is based in an Indian folk tale, about a man who is unwilling to marry a woman, and who instead creates a lover for himself out of his own left side. \"He finds himself enraptured by his creation's perfect beauty – a mirror of his own – until he discovers that this new woman longs for another.\""
+short_description = "The Man Who Married Himself is based in an Indian folk tale, about a man who is unwilling to marry a woman, and who instead creates a lover for himself out of his own left side. &quot;He finds himself enraptured by his creation&#039;s perfect beauty – a mirror of his own – until he discovers that this new woman longs for another.&quot;"
 slug = "dont-miss-the-man-who-married-himself"
 title = "Don&#039;t miss: The Man Who Married Himself"
 +++
@@ -21,7 +21,7 @@ Toronto Masque Theatre pulls together three singers (Scott Belluz, Susha Rangara
 Tickets start at just $20, and you can get them through TMT's [website](http://torontomasquetheatre.com/node/59) or by calling 416-410-4561.
 
 <figure data-type="image">
-![](/webhook-uploads/1487623408338/2017-02-20---MWMH-dancers-Jelani-Ade-Lam-and-Sze-Yang-Ade-Lam-pc-Al-Uehre.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487623408338/2017-02-20---MWMH-dancers-Jelani-Ade-Lam-and-Sze-Yang-Ade-Lam-pc-Al-Uehre.jpg)
 <figcaption>Dancers Jelani Ade-Lam and Sze Yang Ade-Lam. Photo by Al Uehre.</figcaption>
 </figure>
 

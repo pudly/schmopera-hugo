@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-10-15T10:59:00-04:00"
 lastmod = "2018-10-15T20:52:00-04:00"
 publishDate = "2018-10-15T20:52:00-04:00"
-short_description = "In fact, this whole production makes reference to human rights abuses across the world; projected background images include those of Colombian mothers protesting the army-sponsored murder of their sons, to Goya's painting \"The Third of May\", a depiction of the execution of unarmed soldiers. This production misses no opportunity to shine a light on the corruption of power, and the resultant loss of human rights."
+short_description = "In fact, this whole production makes reference to human rights abuses across the world; projected background images include those of Colombian mothers protesting the army-sponsored murder of their sons, to Goya&#039;s painting &quot;The Third of May&quot;, a depiction of the execution of unarmed soldiers. This production misses no opportunity to shine a light on the corruption of power, and the resultant loss of human rights."
 slug = "fidelio-as-a-mirror-of-human-rights"
 title = "Fidelio as a mirror of human rights"
 +++
@@ -15,7 +15,7 @@ The set is a raked stage at stark angles in what is made to look like a platform
 In fact, this whole production makes reference to human rights abuses across the world; projected background images include those of Colombian mothers protesting the army-sponsored murder of their sons, to Goya's painting "The Third of May", a depiction of the execution of unarmed soldiers. This production misses no opportunity to shine a light on the corruption of power, and the resultant loss of human rights.
 
 <figure data-type="image">
-![](/webhook-uploads/1539636525779/Fidelio_0352.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539636525779/Fidelio_0352.jpg)
 <figcaption>Aviva Fortunata (Leonore/Fidelio) and the Pacific Opera Victoria Chorus in Pacific Opera Victoria's production of *Fidelio*, 2018. Photo: Emily Cooper.</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ In this version, Marzelline (Miriam Khalil) and Jaquino (Owen McCausland) help L
 Bass Valerian Ruminski as Rocco really came into his stride in Act II, shining brilliantly in the trio, and his conflict about whether or not to follow his orders to aid in killing Florestan was very emotional and convincing.
 
 <figure data-type="image">
-![](/webhook-uploads/1539636373177/Fidelio_0599.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539636373177/Fidelio_0599.jpg)
 <figcaption>Brent Turner (Florestan) and Aviva Fortunata (Leonore/Fidelio) in Pacific Opera Victoria's production of *Fidelio*, 2018. Photo: Emily Cooper.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ Baritone [Peter McGillivray](/scene/people/peter-mcgillivray/) as Pizarro portra
 Tenor [Brent Reilly Turner](/scene/people/brent-reilly-turner/) was a force of nature as Florestan. Remarkably strong and dynamic in vocal performance, his moment in prison of chasing a single beam of light across his cell was heartbreaking.
 
 <figure data-type="image">
-![](/webhook-uploads/1539636385317/Fidelio_0266.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539636385317/Fidelio_0266.jpg)
 <figcaption>Peter McGillivray (Don Pizarro) in Pacific Opera Victoria's production of *Fidelio*, 2018. Photo: Emily Cooper.</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ The POV Chorus, portraying prisoners let out to their prison yard for a small mo
 Much of the setting of *Fidelio* was created through projections, thanks to Projection Designer Monica Hernandez. With subtle pieces of animation, the projections were effective at giving the feeling of imprisonment and gloom throughout. 
 
 <figure data-type="image">
-![](/webhook-uploads/1539636441411/Fidelio_0434.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539636441411/Fidelio_0434.jpg)
 <figcaption>Aviva Fortunata (Leonore/Fidelio); Brent Turner (Florestan); Owen McCausland (Jaquino); Miriam Khalil (Marzelline); Neil Craighead (Don Fernando); Valerian Ruminski (Rocco) in Pacific Opera Victoria's production of *Fidelio*, 2018. Photo: Emily Cooper.</figcaption>
 </figure>
 

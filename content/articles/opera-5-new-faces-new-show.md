@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2018-05-31T12:54:00-04:00"
 lastmod = "2018-06-05T11:46:00-04:00"
 publishDate = "2018-06-04T22:52:00-04:00"
-short_description = "Derventzis loves that Beaumarchais' Figaro plays - the 18th century source material of Rossini's Barber - tell stories of rich people being outwitted by society's underdogs: \"a woman and a servant.\""
+short_description = "Derventzis loves that Beaumarchais&#039; Figaro plays - the 18th century source material of Rossini&#039;s Barber - tell stories of rich people being outwitted by society&#039;s underdogs: &quot;a woman and a servant.&quot;"
 slug = "opera-5-new-faces-new-show"
 title = "Opera 5: new faces, new show"
 +++
@@ -29,7 +29,7 @@ Derventzis loves that Beaumarchais' *Figaro* plays - the 18th century source mat
 "Rosina is very intelligent and very wise to her surroundings," Derventzis adds. "The fact that she's able to get out of there on her and create this freedom for herself, says a lot about how wrong men are about women."
 
 <figure data-type="image">
-![](/webhook-uploads/1528213592056/Barbiere-poster-web.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528213592056/Barbiere-poster-web.jpg)
 </figure>
 
 Opera 5's [*Il barbiere di Siviglia*](http://opera5.ca/barber/) runs for three performances, **June 13, 15, and 17** at Factory Theatre, 125 Bathurst St. For details and tickets, [click here.](http://opera5.ca/barber/)

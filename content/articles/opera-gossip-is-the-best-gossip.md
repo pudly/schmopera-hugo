@@ -2,7 +2,7 @@
 date = "2014-03-13T10:05:00-04:00"
 lastmod = "2015-04-27T18:25:00-04:00"
 publishDate = "2014-03-13T10:05:00-04:00"
-short_description = "I heard some interesting news through that long and winding operatic grapevine: Toronto's small and mighty opera companies are banding together! There are some great creative minds behind this indie opera collective, and the possibilities are even greater. By forming a collective, the companies will be able to share resources like performance venues, audition space, and their respective contact lists of singers."
+short_description = "I heard some interesting news through that long and winding operatic grapevine: Toronto&#039;s small and mighty opera companies are banding together! There are some great creative minds behind this indie opera collective, and the possibilities are even greater. By forming a collective, the companies will be able to share resources like performance venues, audition space, and their respective contact lists of singers."
 slug = "opera-gossip-is-the-best-gossip"
 title = "Opera Gossip is the best Gossip"
 +++

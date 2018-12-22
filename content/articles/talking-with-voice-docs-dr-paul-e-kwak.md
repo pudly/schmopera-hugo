@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2017-07-24T18:14:00-04:00"
 lastmod = "2017-08-09T16:47:00-04:00"
 publishDate = "2017-08-09T13:09:00-04:00"
-short_description = "\"People have so much fear about injury or the discovery of pathology on the vocal cords,\" Kwak explains of common diagnoses like nodules, cysts, or polyps on the cords. \"I think a lot of it was borne out of this unscientific school of voice teaching.\""
+short_description = "&quot;People have so much fear about injury or the discovery of pathology on the vocal cords,&quot; Kwak explains of common diagnoses like nodules, cysts, or polyps on the cords. &quot;I think a lot of it was borne out of this unscientific school of voice teaching.&quot;"
 slug = "talking-with-voice-docs-dr-paul-e-kwak"
 title = "Talking with voice docs: Dr. Paul E. Kwak"
 +++

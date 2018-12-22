@@ -1,7 +1,7 @@
 +++
 date = "2016-06-13T22:18:00-06:00"
+draft = true
 lastmod = "2016-06-13T22:18:00-06:00"
-publishDate = "undefined"
 slug = "conductors-vs-stem-field"
 title = "Conductors vs STEM field"
 +++

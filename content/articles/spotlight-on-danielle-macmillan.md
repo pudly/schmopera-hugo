@@ -4,7 +4,7 @@ date = "2015-07-04T23:38:00-06:00"
 lastmod = "2015-07-07T14:46:00-06:00"
 preamble = "I first met mezzo-soprano Danielle MacMillan during the Canadian Opera Company's 2013 production of *Peter Grimes*, where she was one of the sassy Nieces keeping the Boar Pub interesting. Versatile like all good mezzos, Danielle is also preparing to sing Cherubino at [Highlands Opera Studio](/scene/companies/highlands-opera-studio/)'s production of *Le nozze di Figaro*, this August/September. Danielle talks about staying well-rounded, and how \"I just don't want to do anything else."
 publishDate = "2015-07-07T12:30:00-06:00"
-short_description = "I first met mezzo-soprano Danielle MacMillan during the Canadian Opera Company's 2013 production of Peter Grimes, where she was one of the sassy Nieces keeping the Boar Pub interesting. Versatile like all good mezzos, Danielle is also preparing to sing Cherubino at Highlands Opera Studio's production of Le nozze di Figaro, this August/September."
+short_description = "I first met mezzo-soprano Danielle MacMillan during the Canadian Opera Company&#039;s 2013 production of Peter Grimes, where she was one of the sassy Nieces keeping the Boar Pub interesting. Versatile like all good mezzos, Danielle is also preparing to sing Cherubino at Highlands Opera Studio&#039;s production of Le nozze di Figaro, this August/September."
 slug = "spotlight-on-danielle-macmillan"
 title = "Spotlight on: Danielle MacMillan"
 +++

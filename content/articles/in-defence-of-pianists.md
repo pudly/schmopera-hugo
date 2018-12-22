@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2014-05-26T05:28:00-06:00"
 lastmod = "2017-06-23T23:27:00-06:00"
 publishDate = "2014-05-26T05:28:00-06:00"
-short_description = "I'm a pianist who works with opera singers. It's awesome, and I love it, and I can't stop doing it. But in all honesty, I must address some gross habits of disrespect and neglect with which pianists often have to deal. Enough is enough."
+short_description = "I&#039;m a pianist who works with opera singers. It&#039;s awesome, and I love it, and I can&#039;t stop doing it. But in all honesty, I must address some gross habits of disrespect and neglect with which pianists often have to deal. Enough is enough."
 slug = "in-defence-of-pianists"
 title = "In defence of pianists"
 +++

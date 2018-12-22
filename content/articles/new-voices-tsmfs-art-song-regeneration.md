@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-07-23T20:23:00-04:00"
 lastmod = "2017-07-25T09:45:00-04:00"
 publishDate = "2017-07-24T21:30:00-04:00"
-short_description = "Hearing final-product concerts like this second Art Song reGENERATION is a bit like looking through a keyhole, piquing plenty of curiosity about these singers' work in a broader sense. Their performances spoke of a combination of thoughtful artists and excellent mentors."
+short_description = "Hearing final-product concerts like this second Art Song reGENERATION is a bit like looking through a keyhole, piquing plenty of curiosity about these singers&#039; work in a broader sense. Their performances spoke of a combination of thoughtful artists and excellent mentors."
 slug = "new-voices-tsmfs-art-song-regeneration"
 title = "New voices: TSMF&#039;s Art Song ReGENERATION"
 +++

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-03-17T09:52:00+00:00"
 lastmod = "2017-03-17T13:03:00+00:00"
 publishDate = "2017-03-17T12:50:00+00:00"
-short_description = "Looking around the crowd in Cadogan Hall, we've never seen so many people wiping their eyes or stifling sniffles. Radvanovsky pairs truly excellent singing with her whole heart and soul; she's honest and candid with her audiences, and with that bridge of personal connection come all the listeners' waterworks."
+short_description = "Looking around the crowd in Cadogan Hall, we&#039;ve never seen so many people wiping their eyes or stifling sniffles. Radvanovsky pairs truly excellent singing with her whole heart and soul; she&#039;s honest and candid with her audiences, and with that bridge of personal connection come all the listeners&#039; waterworks."
 slug = "in-review-sondra-radvanovskys-stunning-london-recital-debut"
 title = "In review: Sondra Radvanovsky&#039;s stunning London recital debut"
 +++

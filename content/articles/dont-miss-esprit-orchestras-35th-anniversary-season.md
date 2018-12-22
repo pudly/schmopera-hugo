@@ -3,7 +3,7 @@ categories = "News"
 date = "2017-08-21T13:43:00-04:00"
 lastmod = "2017-08-25T10:08:00-04:00"
 publishDate = "2017-08-25T10:08:00-04:00"
-short_description = "For a pre-season taste, you can hear artists of the Esprit Orchestra and Canadian mezzo-soprano Krisztina Szabó perform Luciano Berio's Folk Songs at the Free Concert Series in the Richard Bradshaw Amphitheatre, October 3, 12pm."
+short_description = "For a pre-season taste, you can hear artists of the Esprit Orchestra and Canadian mezzo-soprano Krisztina Szabó perform Luciano Berio&#039;s Folk Songs at the Free Concert Series in the Richard Bradshaw Amphitheatre, October 3, 12pm."
 slug = "dont-miss-esprit-orchestras-35th-anniversary-season"
 title = "Don&#039;t miss: Esprit Orchestra&#039;s 35th anniversary season"
 +++
@@ -21,7 +21,7 @@ On **October 15, 2017**, Esprit begins its mainstage line-up with [*Eternal Ligh
 Finally, [*Taiko Plus!*](https://www.espritorchestra.com/concert-tickets/concert/taiko-plus/), on **April 15, 2018**, includes the Canadian premieres of Maki Ishii's *Mono-Prism* (1976) and Fuhong Shi's *Concentric Circles* (2009), and the world premieres of new works by Canadian composers Scott Wilson and Chris Paul Harman. The concert also features soprano [Shannon Mercer](/scene/people/shannon-mercer/), and Japanese taiko drumming ensemble Nagata Shachu.
 
 <figure data-type="image">
-![](/webhook-uploads/1503611567649/shannon%20mercer%20edited.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503611567649/shannon%20mercer%20edited.jpg)
 <figcaption>Shannon Mercer, soprano. Photo courtesy of Esprit Orchestra.</figcaption>
 </figure>
 

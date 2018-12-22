@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-01-19T15:36:00-05:00"
 lastmod = "2016-01-25T09:13:00-05:00"
 publishDate = "2016-01-25T09:08:00-05:00"
-short_description = "Her bread-and-butter roles these days are large and daunting, like Elektra, Elsa, Ariadne, and Turandot. Still, Wagner's operas ask for unique standards of its singers. \"I guess it's like a marathon,\" says Goerke, \"but if you're a marathon-runner who's used to running marathons, it's just a total adrenaline rush, and it feels amazing.\""
+short_description = "Her bread-and-butter roles these days are large and daunting, like Elektra, Elsa, Ariadne, and Turandot. Still, Wagner&#039;s operas ask for unique standards of its singers. &quot;I guess it&#039;s like a marathon,&quot; says Goerke, &quot;but if you&#039;re a marathon-runner who&#039;s used to running marathons, it&#039;s just a total adrenaline rush, and it feels amazing.&quot;"
 slug = "talking-with-singers-christine-goerke"
 title = "Talking with singers: Christine Goerke"
 +++
@@ -31,7 +31,7 @@ She says it's the only way she can approach this kind of repertoire. "There are 
 Goerke empathizes with the urge to push sound out when singing Wagner; his music is known for its enormous scale, yet the best Wagnerians capitalize on the smart orchestration underneath them. "I find, having done this for a little bit now, that it has to do with the kind of colour and the kind of focus that the singers who sing this kind of repertoire have." She's learned that cutting through a large orchestra isn't about volume, "but having the right colour to ride on top of it. Because if you try and push through something, you will lose - there are more of them than you!"
 
 <figure data-type="image">
-![](/webhook-uploads/1453606907035/Siegfried-4492---resized.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453606907035/Siegfried-4492---resized.jpg)
 <figcaption>Stefan Vinke as Siegfried and Christine Goerke as Brünnhilde in the Canadian Opera Company production of *Siegfried*, 2016. Photo: Michael Cooper.</figcaption>
 </figure>
 

@@ -3,7 +3,7 @@ categories = "News"
 date = "2017-02-10T18:28:00+00:00"
 lastmod = "2017-02-11T13:44:00+00:00"
 publishDate = "2017-02-11T13:25:00+00:00"
-short_description = "\"There's an intensity and dramatic commitment with Sondra that's made her connect with audiences in a way few singers are able to do,\" says Rosenblatt, founder of the series, of Radvanovsky's place as a leading soprano in opera today. \"The actual instrument itself is nothing short of a marvel – it's a huge voice but one that she's able to use with complete control so that she's also able to sing the most delicate of phrasing that touches whoever she's singing with.\""
+short_description = "&quot;There&#039;s an intensity and dramatic commitment with Sondra that&#039;s made her connect with audiences in a way few singers are able to do,&quot; says Rosenblatt, founder of the series, of Radvanovsky&#039;s place as a leading soprano in opera today. &quot;The actual instrument itself is nothing short of a marvel – it&#039;s a huge voice but one that she&#039;s able to use with complete control so that she&#039;s also able to sing the most delicate of phrasing that touches whoever she&#039;s singing with.&quot;"
 slug = "dont-miss-radvanovsky-in-recital-at-cadogan-hall"
 title = "Don&#039;t miss: Radvanovsky in recital at Cadogan Hall"
 +++

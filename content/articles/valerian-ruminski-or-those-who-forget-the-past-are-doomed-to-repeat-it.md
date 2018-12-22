@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2014-08-25T13:16:00-04:00"
 lastmod = "2015-04-16T17:21:00-04:00"
 publishDate = "2014-08-25T13:16:00-04:00"
-short_description = "So as it turns out, Tamar Iveri isn't the only one with controversial opinions on alternative lifestyles.\nOnly about 2 months ago the Georgian soprano was released from contracts in Australia due to an ultra-homophobic and hate-mongering post on her Facebook."
+short_description = "So as it turns out, Tamar Iveri isn&#039;t the only one with controversial opinions on alternative lifestyles.\nOnly about 2 months ago the Georgian soprano was released from contracts in Australia due to an ultra-homophobic and hate-mongering post on her Facebook."
 slug = "valerian-ruminski-or-those-who-forget-the-past-are-doomed-to-repeat-it"
 title = "Valerian Ruminski, or &quot;Those who forget the past are doomed to repeat it&quot;"
 +++

@@ -3,7 +3,7 @@ categories = "Humour"
 date = "2015-06-14T12:12:00-04:00"
 lastmod = "2015-06-16T10:03:00-04:00"
 publishDate = "2015-06-14T13:42:00-04:00"
-short_description = "Auditions are fun, right? Completely fun. I know it gets old sometimes, but I always did find the ritual of dressing for an audition quite calming. Something to do other than be nervous, I figure. I do like the mini fashion-show with which I'm presented at any audition venue; I like noticing which mezzos stubbornly wear their best dress to sing Siebel (why not?), and whether or not the baritones are the type to match their shoes to their whatever."
+short_description = "Auditions are fun, right? Completely fun. I know it gets old sometimes, but I always did find the ritual of dressing for an audition quite calming. Something to do other than be nervous, I figure. I do like the mini fashion-show with which I&#039;m presented at any audition venue; I like noticing which mezzos stubbornly wear their best dress to sing Siebel (why not?), and whether or not the baritones are the type to match their shoes to their whatever."
 slug = "what-to-wear-to-an-audition-via-the-red-carpet"
 title = "What to wear to an audition, via the red carpet"
 +++
@@ -19,7 +19,7 @@ I figured I'd nod to celebrities, who actually *do live* in scrutiny of what the
 ### The classic catch-all dress
 
 <figure data-type="image">
-![](/webhook-uploads/1434299766348/KateObamaAdele.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434299766348/KateObamaAdele.jpg)
 <figcaption>Kate Middleton in Diane von Furstenberg, Michelle Obama in Oscar de la Renta, and Adele in Valentino.</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ Three great ladies, right? The thing about these dresses is that they look great
 ### The black option
 
 <figure data-type="image">
-![](/webhook-uploads/1434300794654/AuditionBlack.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434300794654/AuditionBlack.jpg)
 <figcaption>Michelle Williams in Louis Vuitton, Jennifer Aniston in Burberry, and Heidi Klum in her LBD.</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ I'm a pianist, so I love wearing black. I think it's a great audition option, es
 ### Dressing to get remembered
 
 <figure data-type="image">
-![](/webhook-uploads/1434301834445/AuditionBranchingOut.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434301834445/AuditionBranchingOut.jpg)
 <figcaption>Emma Watson in Elie Saab, Cate Blanchett in Lanvin, Mindy Kaling in Tadashi Shoji.</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ In red-carpet terms, these dresses are hardly screaming "remember me!" the way B
 ### Not for an audition...
 
 <figure data-type="image">
-![](/webhook-uploads/1434302017839/CuteButNoAudition.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434302017839/CuteButNoAudition.jpg)
 <figcaption>Sofia Vergara's top half, Taylor Swift in Zuhair Murad, Natalie Portman in Givenchy.
 </figcaption>
 </figure>
@@ -56,7 +56,7 @@ So, Sofia looks pretty great, but no one should ever wear this to an audition. I
 ### Points for enthusiasm
 
 <figure data-type="image">
-![](/webhook-uploads/1434302559305/SillyAudition.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434302559305/SillyAudition.jpg)
 <figcaption>Cate Blanchett in Dior, and Rihanna in Giambattista Valli.</figcaption>
 </figure>
 

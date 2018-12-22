@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2016-10-28T10:35:00+01:00"
 lastmod = "2016-10-28T12:23:00+01:00"
 publishDate = "2016-10-28T12:23:00+01:00"
-short_description = "The launch of Indie Opera Toronto includes profiles of each company's history and creative teams, brand new photography by Dahlia Katz, integrated social media for the Indie Opera platforms and each company's own social media outlets, an integrated calendar for all upcoming productions and short films by Darren Bryant."
+short_description = "The launch of Indie Opera Toronto includes profiles of each company&#039;s history and creative teams, brand new photography by Dahlia Katz, integrated social media for the Indie Opera platforms and each company&#039;s own social media outlets, an integrated calendar for all upcoming productions and short films by Darren Bryant."
 slug = "strength-in-numbers-indie-opera-to"
 title = "Strength in numbers: Indie Opera T.O."
 +++
@@ -23,7 +23,7 @@ The idea for Indie Opera Toronto began with Michael Mori, Artistic Director of [
 These informal potlucks grew into an internal shared calendar to help us ensure that, whenever possible, we were not scheduling shows on top of one another. Once we started having regular meetings we decided to apply for the Opera America grant and get more organized on social media. The website is a reflection of the scene in Toronto!
 
 <figure data-type="image">
-![](/webhook-uploads/1477651620732/2016-10-28---MYOpera-Katz.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477651620732/2016-10-28---MYOpera-Katz.jpg)
 <figcaption>l-r: MYOpera's Stephanie Applin, Anna Theodosakis, Kate Applin, and Natasha Fransblow. Photo by Dahlia Katz.</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ One of the aspects of Indie Opera Toronto that I love, and which drives me profe
 But thanks to our internal planning, there is likely another Indie Opera show the next month; so, taken from an annual calendar perspective, there's an indie opera show almost every month of the year! Coupled with the fact that each company has its own unique and distinctive mission statement there is no overlap or direct competition, this allows us to operate in a very unique way, encouraging, supporting and driving each other as professional colleagues. 
 
 <figure data-type="image">
-![](/webhook-uploads/1477651613001/2016-10-28---IOTO-Shoot.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477651613001/2016-10-28---IOTO-Shoot.jpg)
 <figcaption>On set of the Indie Opera Toronto photo shoot.</figcaption>
 </figure>
 

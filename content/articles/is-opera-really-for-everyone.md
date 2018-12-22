@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2015-04-22T09:55:00-04:00"
 lastmod = "2015-04-25T15:12:00-04:00"
 publishDate = "2015-04-22T11:00:00-04:00"
-short_description = "You might have read the recent interview in *The Courrier-Journal* with Eric Owens and Morris Robinson, who sing King Philip II and the Grand Inquisitor in Opera Philadelphia's upcoming Don Carlo. Mike Silverman asks them about the \"challenges of being a black opera singer.\" It struck me, though, that while barriers like race have dissipated quickly, an opera career can still be contingent on a few factors, many of which fall under \"luck of the draw.\""
+short_description = "You might have read the recent interview in *The Courrier-Journal* with Eric Owens and Morris Robinson, who sing King Philip II and the Grand Inquisitor in Opera Philadelphia&#039;s upcoming Don Carlo. Mike Silverman asks them about the &quot;challenges of being a black opera singer.&quot; It struck me, though, that while barriers like race have dissipated quickly, an opera career can still be contingent on a few factors, many of which fall under &quot;luck of the draw.&quot;"
 slug = "is-opera-really-for-everyone"
 title = "Is opera really for everyone?"
 +++

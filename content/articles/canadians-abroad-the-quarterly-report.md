@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2016-06-05T06:41:00-06:00"
 lastmod = "2016-07-06T16:12:00-06:00"
 publishDate = "2016-06-07T15:54:00-06:00"
-short_description = "It's been invigorating to hear such exciting voices that are new to our ears. Perhaps it's our bias showing, but the conclusion we draw is that Canadian singers are pretty fantastic. It's not a better-than situation, and we don't waste our time comparing the voices onstage over versus back home; but really, for a country that can struggle with niggling inferiority complexes, it's a neat thing to see that Canadian singers hold their own among the great voices working in one of the world's most established artistic centres."
+short_description = "It&#039;s been invigorating to hear such exciting voices that are new to our ears. Perhaps it&#039;s our bias showing, but the conclusion we draw is that Canadian singers are pretty fantastic. It&#039;s not a better-than situation, and we don&#039;t waste our time comparing the voices onstage over versus back home; but really, for a country that can struggle with niggling inferiority complexes, it&#039;s a neat thing to see that Canadian singers hold their own among the great voices working in one of the world&#039;s most established artistic centres."
 slug = "canadians-abroad-the-quarterly-report"
 title = "Canadians abroad: the quarterly report"
 +++

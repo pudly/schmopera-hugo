@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2017-09-29T19:43:00-04:00"
 lastmod = "2017-10-04T21:15:00-04:00"
 publishDate = "2017-10-04T21:15:00-04:00"
-short_description = "\"It depends where you are, and what the culture of the place you're working in is,\" says Albery. He points to obvious hurdles, like companies with large overhead costs (\"The people with buildings are the people with commitments to paying salaries\") and a tradition - even a perceived dependecy - on patrons buying season-long subscriptions, a trend he says is \"dying\"."
+short_description = "&quot;It depends where you are, and what the culture of the place you&#039;re working in is,&quot; says Albery. He points to obvious hurdles, like companies with large overhead costs (&quot;The people with buildings are the people with commitments to paying salaries&quot;) and a tradition - even a perceived dependecy - on patrons buying season-long subscriptions, a trend he says is &quot;dying&quot;."
 slug = "tim-albery-flawed-operas-falling-empires"
 title = "Tim Albery: flawed operas &amp; falling empires"
 +++
@@ -25,7 +25,7 @@ Albery is currently in Toronto, staging his production of Richard Strauss' [*Ara
 *Arabella* is the sixth and final collaboration between Strauss and librettist Hugo von Hofmannsthal, preceded by *Elektra*, *Der Rosenkavalier*, *Ariadne auf Naxos*, *Die Frau ohne Schatten*, and *Die ägyptische Helena*. Hofmannsthal died before having the usual period of editing and revision, resulting in what Albery calls a "flawed" piece. "The last half of the evening has problems, which led to what have now become pretty standard cuts," he explains. "But the opera speaks to a lot of good things, I think, about how we live our lives."
 
 <figure data-type="image">
-![](/webhook-uploads/1507161829021/2017-10-04---Arabella-MC-0895.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507161829021/2017-10-04---Arabella-MC-0895.jpg)
 <figcaption>(l-r) Claire de Sévigné as the Fiakermilli, Tomasz Konieczny as Mandryka, John Fanning as Count Waldner and Gundula Hintz as Adelaide in the Canadian Opera Company's new production of *Arabella*, 2017, photo: Michael Cooper.</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ Albery is currently in Toronto, staging his production of Richard Strauss' [*Ara
 An arranged marriage certainly doesn't appeal to most women today, but within the context of Arabella's 19th-century Viennese world, her options are manageable. "I love the fact that she loves to party, and that people like her suitor Elemer amuse her and are easy to control," says Albery. "It's more complicated than it looks at first sight, in terms of who's abusing whom. But Arabella also knows instinctively there can be another better, purer kind of life and of love, and when it arrives out of the blue she grabs it with both hands."
 
 <figure data-type=image>
-![](/webhook-uploads/1507161762530/2017-10-04---Arabella-MC-0107.jpg)<figcaption>Erin Wall as Arabella in the Canadian Opera Company's new production of *Arabella*, 2017, photo: Michael Cooper.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507161762530/2017-10-04---Arabella-MC-0107.jpg)<figcaption>Erin Wall as Arabella in the Canadian Opera Company's new production of *Arabella*, 2017, photo: Michael Cooper.</figcaption>
 </figure>
 
 ## "Rhythm, silence, speed, all of those things must be discovered in the language."
@@ -46,7 +46,7 @@ Having worked on both ends of the theatrical spectrum - from straight play to th
 Next to the sense of narrowed choices some directors feel within the opera world, the process of working with singers is perhaps ironically freeing. "I often surprise people who don't know about opera when I say in a wild generalisation that singers on the whole, compared with actors, are much more open-minded about how a production might be," says Albery. He suspects one reason may be simple: singers are much more likely than actors to perform a role in several productions. For an actor "who will only play King Lear once," it's harder to approach a production with flexibility when there's no "next time" in mind.
 
 <figure data-type="image">
-![](/webhook-uploads/1506898376318/2017-10-01---Albery%2C-Tim.jpg)<figcaption>Tim Albery.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506898376318/2017-10-01---Albery%2C-Tim.jpg)<figcaption>Tim Albery.</figcaption>
 </figure>
 
 ## "It won't be the first time empires have fallen, will it?"

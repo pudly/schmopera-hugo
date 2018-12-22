@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-04-01T17:39:00+01:00"
 lastmod = "2016-04-02T15:52:00+01:00"
 publishDate = "2016-04-02T15:52:00+01:00"
-short_description = "\"Women are at the centre of each story in this programme,\" says Bardua. \"Some are tied together by classic Canadian imagery, like tempestuous weather and isolation. Others are more intimate and personal - mother-daughter relationships, or questioning sexuality.\""
+short_description = "&quot;Women are at the centre of each story in this programme,&quot; says Bardua. &quot;Some are tied together by classic Canadian imagery, like tempestuous weather and isolation. Others are more intimate and personal - mother-daughter relationships, or questioning sexuality.&quot;"
 slug = "dont-miss-shes-the-one"
 title = "Don&#039;t miss: She&#039;s The One"
 +++

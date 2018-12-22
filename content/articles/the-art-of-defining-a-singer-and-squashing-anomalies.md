@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2015-04-11T19:33:00-04:00"
 lastmod = "2015-04-11T19:33:00-04:00"
 publishDate = "2015-02-12T09:33:00-05:00"
-short_description = "​I spotted a strange review in the Washington Post by Anne Midgette, on Ian Bostridge's performance of Winterreise at the Library of Congress. I was misled by a clickbait-esque headline (not Anne's): \"'Ian Bostridge Is Not A Classical Singer' Says Anne Midgette\"."
+short_description = "​I spotted a strange review in the Washington Post by Anne Midgette, on Ian Bostridge&#039;s performance of Winterreise at the Library of Congress. I was misled by a clickbait-esque headline (not Anne&#039;s): &quot;&#039;Ian Bostridge Is Not A Classical Singer&#039; Says Anne Midgette&quot;."
 slug = "the-art-of-defining-a-singer-and-squashing-anomalies"
 title = "The Art of Defining a Singer and Squashing Anomalies"
 +++

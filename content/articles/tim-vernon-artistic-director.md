@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2015-06-29T18:23:00-06:00"
 lastmod = "2015-07-02T12:41:00-06:00"
 publishDate = "2015-07-02T12:41:00-06:00"
-short_description = "If you've not yet heard the news, Maestro Timothy Vernon has been appointed the new Artistic Director of Opera Lyra Ottawa. Vernon will begin immediately with the 2015/16 season, and he'll maintain his position as Artistic Director of Pacific Opera Victoria. A busy man just got busier."
+short_description = "If you&#039;ve not yet heard the news, Maestro Timothy Vernon has been appointed the new Artistic Director of Opera Lyra Ottawa. Vernon will begin immediately with the 2015/16 season, and he&#039;ll maintain his position as Artistic Director of Pacific Opera Victoria. A busy man just got busier."
 slug = "tim-vernon-artistic-director"
 title = "Tim Vernon, Artistic Director²"
 +++

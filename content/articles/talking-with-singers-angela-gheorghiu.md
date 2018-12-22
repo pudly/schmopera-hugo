@@ -4,7 +4,7 @@ date = "2017-02-02T16:13:00+00:00"
 lastmod = "2017-02-06T16:46:00+00:00"
 preamble = "Throughout her starry career on stages from Vienna to Sydney, Romanian-born soprano [Angela Gheorghiu](/scene/people/angela-gheorghiu/) has always had a significant relationship with the Royal Opera House. She made her debut at Covent Garden in 1992, as Zerlina in *Don Giovanni*; she has since returned for what have become definitive performances of *Tosca*, *La traviata*, *La rondine*, and *La bohème*, and to sing for the 1999 reopening of the Royal Opera. She has sung for Queen Elizabeth II and Barack Obama, and her extensive discography is Grammy award-winning.\n\nThis month, Gheorghiu is back in London to sing the title role in the first revival of David McVicar's [*Adriana Lecouvreur*](http://www.roh.org.uk/productions/adriana-lecouvreur-by-david-mcvicar) at the Royal Opera, alongside American tenor [Brian Jagde](/talking-with-singers-brian-jagde/) as Maurizio. She spoke with us about maintaining her own ideals in the rehearsal room, and staying true to her art form."
 publishDate = "2017-02-04T09:55:00+00:00"
-short_description = "\"Often colleagues are scared to say \"no\", they fear that they would no longer be invited any more. Everyone wants to be able to sing a lot. Sometimes singers want everything, too fast and too soon. Nobody really constructs a real career, a personality which may, in the future, fill the concert halls and theatres. Many colleagues have difficulties and concerns with modern productions, but once again, no-one has the courage to refuse to perform on this basis.\""
+short_description = "&quot;Often colleagues are scared to say &quot;no&quot;, they fear that they would no longer be invited any more. Everyone wants to be able to sing a lot. Sometimes singers want everything, too fast and too soon. Nobody really constructs a real career, a personality which may, in the future, fill the concert halls and theatres. Many colleagues have difficulties and concerns with modern productions, but once again, no-one has the courage to refuse to perform on this basis.&quot;"
 slug = "talking-with-singers-angela-gheorghiu"
 title = "Talking with singers: Angela Gheorghiu"
 +++
@@ -24,7 +24,7 @@ All directors rely on the physique of singers, seemingly to listen to artists wi
 Even eminent artists are pulled by the ears of management.  I do believe that opera managers should consult the artists because by doing things without consultation can lead to disagreements and failure.  Every director who may have strange or crazy ideas can be asked to reconsider their point of view.  I have been lucky to be able to have my career unfold in an almost ideal way.   
 
 <figure data-type="image">
-![](/webhook-uploads/1486144772887/2017-02-02---JONAS-KAUFMANN-AS-MAURIZIO-ANGELA-GHEORGHIU-AS-ADRIANA-CATHERINE-ASHMORE.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486144772887/2017-02-02---JONAS-KAUFMANN-AS-MAURIZIO-ANGELA-GHEORGHIU-AS-ADRIANA-CATHERINE-ASHMORE.jpg)
 <figcaption>Jonas Kaufmann (Maurizio) and Angela Gheorghiu (Adriana) in *Adriana Lecouvreur*, ROH. Photo by Catherine Ashmore.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ I could answer that the sacrifice is total, supreme, it's the pressure of one's 
 Changing the time zone may also change your life.  Children are never together with their parents, only during holidays. It is never easy, I can assure you.  The public may have the impression that we were born on a stage somewhere and have to be perfect for every performance for 30 years or even more. 
 
 <figure data-type="image">
-![](/webhook-uploads/1486144944406/2017-02-02---LA-RONDINE-ANGELA-GHEORGHIU-AS-MADGA-DE-CIVRY-CATHERINE-ASHMORE.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486144944406/2017-02-02---LA-RONDINE-ANGELA-GHEORGHIU-AS-MADGA-DE-CIVRY-CATHERINE-ASHMORE.jpg)
 <figcaption>Angela Gheorghiu as Magda de Civry in *La Rondine*, ROH. Photo by Catherine Ashmore.</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ I did not do anything, that is why it is so interesting and the media is interes
 The difference in opera is in fact only made by the artists themselves.  It is clear that the presence of a great conductor or director helps, but I saw divine performances which did not feature stars as well.  When I see the hundreds of people queuing up for tickets in Vienna or elsewhere, I do ask myself and realise how a personality and a big talent, how an artist having the sacred fire of creation can make a difference.  And there is God, for sure!
 
 <figure data-type="image">
-![](/webhook-uploads/1486144991905/2017-02-02---Angela-Gheorghiu---Marguerite---Catherine-Ashmore.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486144991905/2017-02-02---Angela-Gheorghiu---Marguerite---Catherine-Ashmore.jpg)
 <figcaption>Angela Gheorghiu as Marguerite in *Faust*, ROH. Photo by Catherine Ashmore.</figcaption>
 </figure>
 

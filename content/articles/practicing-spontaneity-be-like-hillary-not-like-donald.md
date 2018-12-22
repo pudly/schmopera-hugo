@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2016-09-13T09:47:00+01:00"
 lastmod = "2016-09-13T10:29:00+01:00"
 publishDate = "2016-09-13T10:00:00+01:00"
-short_description = "Isn't it possible, though, that you've taken all the fun out of it both for yourself and the audience? If you're running to a plan, there is no room for whimsy or spontaneity, for some little piece of improvisation that might turn a good performance into one which is delightful and memorable."
+short_description = "Isn&#039;t it possible, though, that you&#039;ve taken all the fun out of it both for yourself and the audience? If you&#039;re running to a plan, there is no room for whimsy or spontaneity, for some little piece of improvisation that might turn a good performance into one which is delightful and memorable."
 slug = "practicing-spontaneity-be-like-hillary-not-like-donald"
 title = "Practicing spontaneity: be like Hillary &amp; not like Donald"
 +++

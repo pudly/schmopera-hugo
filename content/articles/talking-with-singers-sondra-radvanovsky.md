@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-11-16T19:45:00+00:00"
 lastmod = "2016-11-24T09:44:00+00:00"
 publishDate = "2016-11-24T09:23:00+00:00"
-short_description = "\"It took me twenty years to get here,\" says Radvanovsky of the long game that is the opera singer's career. \"Twenty years of cracking on high notes at the Metropolitan Opera, and saying, 'This didn't work tonight, let's try it another way!'\" And the work is still not over."
+short_description = "&quot;It took me twenty years to get here,&quot; says Radvanovsky of the long game that is the opera singer&#039;s career. &quot;Twenty years of cracking on high notes at the Metropolitan Opera, and saying, &#039;This didn&#039;t work tonight, let&#039;s try it another way!&#039;&quot; And the work is still not over."
 slug = "talking-with-singers-sondra-radvanovsky"
 title = "Talking with singers: Sondra Radvanovsky"
 +++
@@ -23,7 +23,7 @@ It's an extraordinary amount of trust, for a performer to distance herself from 
 "I lost my father very early in my life. I found him dead when I was 16," says Radvanovsky, candidly. "There are certain arias, like 'D'amor, sull'ali rosee' in *Trovatore*, where I even think about it, and I have to step back." That character's experience is "too much" for Radvanovsky to connect with on a personal level, and it's a moment where "I have to read the phonebook, and tell myself, 'don't go there.'"
 
 <figure data-type="image">
-![](/webhook-uploads/1479928671538/2016-11-23---SONDRA-RADVANOVSKY-AS-MANON-LESCAUT%2C-ALEKSANDRS-ANTONENKO-AS-CHEVALIER-DES-GRIEUX-ROH-PHOTO-BY-BILL-COOPER.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479928671538/2016-11-23---SONDRA-RADVANOVSKY-AS-MANON-LESCAUT%2C-ALEKSANDRS-ANTONENKO-AS-CHEVALIER-DES-GRIEUX-ROH-PHOTO-BY-BILL-COOPER.jpg)
 <figcaption>Sondra Radvanovsky as Manon Lescaut, ROH, 2016. Photo by Bill Cooper.</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ Her enthusiasm for acting is no secondary passion. For "a brief second," Radvano
 "I can't not have music in my life."
 
 <figure data-type="image">
-![](/webhook-uploads/1479393237854/2016-11-16---Radvanovsky---Eccles---2.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479393237854/2016-11-16---Radvanovsky---Eccles---2.jpg)
 <figcaption>Sondra Radvanovsky, soprano. Photo by Andrew Eccles.</figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ She points to her phone, wrapped in those ubiquitous earbuds, sitting atop the p
 Her support system of teachers and coaches is another set of tools that Radvanovsky has honed along the way; the responsibilities and trust that she has in her mentors have come from active participation in the learning process. "You have to listen to yourself, and you have to 100% trust what [your teachers] are doing," she says. "And if you don't, then you need a different teacher."
 
 <figure data-type="image">
-![](/webhook-uploads/1479928627433/2016-11-23---SONDRA-RADVANOVSKY-AS-MANON-LESCAUT-ROH-PHOTO-BY-BILL-COOPER.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479928627433/2016-11-23---SONDRA-RADVANOVSKY-AS-MANON-LESCAUT-ROH-PHOTO-BY-BILL-COOPER.jpg)
 <figcaption>Sondra Radvanovsky as Manon Lescaut, ROH, 2016. Photo by Bill Cooper.</figcaption>
 </figure>
 

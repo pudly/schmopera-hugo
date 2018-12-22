@@ -3,7 +3,7 @@ categories = "Review"
 date = "2014-11-26T10:12:00-05:00"
 lastmod = "2015-04-13T11:00:00-04:00"
 publishDate = "2014-11-26T10:12:00-05:00"
-short_description = "Last night the seven finalists of the COC's Ensemble Studio Competition sang on the stage of the Four Seasons Centre for the second annual Centre Stage Gala. I like this event, and I like the hype it brings to this exciting part of today's opera world. This year, Centre Stage was hosted by Canada's favourite tenor, Ben Heppner, who was as warm and funny as he was respectful of the competitors. "
+short_description = "Last night the seven finalists of the COC&#039;s Ensemble Studio Competition sang on the stage of the Four Seasons Centre for the second annual Centre Stage Gala. I like this event, and I like the hype it brings to this exciting part of today&#039;s opera world. This year, Centre Stage was hosted by Canada&#039;s favourite tenor, Ben Heppner, who was as warm and funny as he was respectful of the competitors. "
 slug = "centre-stage-2014-lets-hear-it-for-the-boys"
 title = "Centre Stage 2014: Let&#039;s Hear It For the Boys"
 +++

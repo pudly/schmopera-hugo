@@ -4,7 +4,7 @@ date = "2016-07-26T15:11:00-04:00"
 lastmod = "2016-07-31T10:57:00-04:00"
 preamble = "Baritone Will Liverman seems to be a vocal chameleon, singing everything from Tarquinius in *The Rape of Lucretia* to Figaro in *Il barbiere di Siviglia* to Dizzy Gillespie in *Charlie Parker's Yardbird*. In August, he heads to Seattle Opera to sing Raimbaud in *Le comte Ory*, and in 2017 he'll reprise the role of Dizzy Gillespie at Madison Opera. In his refreshing interview, Liverman attests to the value of learning languages, his coloratura-soprano-envy, and his failed attempt at a career in the NBA."
 publishDate = "2016-07-28T20:29:00-04:00"
-short_description = "\"I enjoy singing because of the rush I get every time I'm onstage. There's absolutely nothing like it and there's nothing better than having that chance to move someone to tears or laughter through the power of music and performance.\""
+short_description = "&quot;I enjoy singing because of the rush I get every time I&#039;m onstage. There&#039;s absolutely nothing like it and there&#039;s nothing better than having that chance to move someone to tears or laughter through the power of music and performance.&quot;"
 slug = "spotlight-on-will-liverman"
 title = "Spotlight on: Will Liverman"
 +++

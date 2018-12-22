@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-09-15T10:36:00+01:00"
 lastmod = "2016-09-15T11:46:00+01:00"
 publishDate = "2016-09-15T11:26:00+01:00"
-short_description = "Listening to the voted-upon melody is a pretty fascinating exercise for anyone with an interest in music and in people. It sounds like something you've definitely heard before, and the lyrics are just on the tip of your tongue (something likely by Coldplay). "
+short_description = "Listening to the voted-upon melody is a pretty fascinating exercise for anyone with an interest in music and in people. It sounds like something you&#039;ve definitely heard before, and the lyrics are just on the tip of your tongue (something likely by Coldplay). "
 slug = "just-in-the-crowdsourced-melody-is-complete"
 title = "Just in: the crowdsourced melody is complete"
 +++

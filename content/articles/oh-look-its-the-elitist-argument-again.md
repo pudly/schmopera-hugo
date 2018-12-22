@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2016-12-07T17:13:00+00:00"
 lastmod = "2016-12-08T13:07:00+00:00"
 publishDate = "2016-12-08T13:07:00+00:00"
-short_description = "But here's the kicker in my eyes: no one bats an eye when someone says, \"Oh, she's a Susanna, not an Ariadne,\" but thinking that this Susanna would also sound great as Lucy in The Secret Garden garners a completely different response."
+short_description = "But here&#039;s the kicker in my eyes: no one bats an eye when someone says, &quot;Oh, she&#039;s a Susanna, not an Ariadne,&quot; but thinking that this Susanna would also sound great as Lucy in The Secret Garden garners a completely different response."
 slug = "oh-look-its-the-elitist-argument-again"
 title = "Oh look, it&#039;s the &quot;elitist&quot; argument again..."
 +++
@@ -21,7 +21,7 @@ For it latest infusion of "new", ENO will present Rodgers and Hammerstein's [*Ca
 The crux of the issue seems to be the casting of classical crossover singer Katherine Jenkins as Julie Jordan. While she tours the world doing concerts, she has been plagued by a number of cancellations that seem to be too much of a coincidence; but without speaking to Ms. Jenkins, I can't and won't say for certain. That being said, Ms. Jenkins is a draw, if not just her fans, but for the people who will come to see if she fails. 
 
 <figure data-type="image">
-![](/webhook-uploads/1481193961010/2016-12-8---Katherine_Jenkins.jpg)<figcaption>Katherine Jenkins.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481193961010/2016-12-8---Katherine_Jenkins.jpg)<figcaption>Katherine Jenkins.</figcaption>
 </figure>
 
 And this is what leads me back to a discussion we've had before. Are we elitist? Is this part of the problem opera has in branching out to new audiences?

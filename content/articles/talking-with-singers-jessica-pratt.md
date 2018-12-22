@@ -4,7 +4,7 @@ date = "2016-12-11T10:54:00+00:00"
 lastmod = "2016-12-12T15:23:00+00:00"
 preamble = "Roles like Rosina, Lucia di Lammermoor, and Rossini's Desdemona have taken soprano [Jessica Pratt](/scene/people/jessica-pratt/) to stages in Italy, Germany, Spain, the Netherlands, the UK, and Australia. This month, she makes her debut at [The Metropolitan Opera](/scene/companies/the-metropolitan-opera/) as the Queen of the Night in Julie Taymor's 21st-century classic production of [*The Magic Flute*](https://www.metopera.org/Season/2016-17-Season/magic-flute-mozart-tickets/) (December 20 to January 5). \n\nPratt spoke with us about being patient with her voice, about the opinionated opera fans in Italy, and offers advice on how to be competitive in a healthy way."
 publishDate = "2016-12-12T13:23:00+00:00"
-short_description = "\"It is our diversity that makes for a healthy industry. I prefer to think of us all contributing in our own way, rather than all competing, which seems like such a limiting view to me. The only competition that I feel constantly is competition with myself, to try overtime to improve something in my performance or my technique.\""
+short_description = "&quot;It is our diversity that makes for a healthy industry. I prefer to think of us all contributing in our own way, rather than all competing, which seems like such a limiting view to me. The only competition that I feel constantly is competition with myself, to try overtime to improve something in my performance or my technique.&quot;"
 slug = "talking-with-singers-jessica-pratt"
 title = "Talking with singers: Jessica Pratt"
 +++

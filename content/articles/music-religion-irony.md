@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2016-09-19T10:15:00+01:00"
 lastmod = "2016-09-19T13:39:00+01:00"
 publishDate = "2016-09-19T13:00:00+01:00"
-short_description = "Perhaps this happens because music is one of those things that can truly offer the exhilarating joy and sense of belonging that many religious seek. It's perhaps not the same thing, but in my work with music, I have experienced moments of happiness, awe, and admiration so great my whole self vibrates."
+short_description = "Perhaps this happens because music is one of those things that can truly offer the exhilarating joy and sense of belonging that many religious seek. It&#039;s perhaps not the same thing, but in my work with music, I have experienced moments of happiness, awe, and admiration so great my whole self vibrates."
 slug = "music-religion-irony"
 title = "Music, religion, &amp; irony"
 +++
@@ -29,7 +29,7 @@ The funny/sad thing about all of this is the fact that no one is considering wha
 The religious community is divided about what kind of music is considered permissible, and it's not something unique to Islam. The extreme ends of the Abrahamic religions share this thing with denying oneself pleasure. Frowned upon are sex, dancing, drinking, books/songs/plays/movies "celebrating" any of the above, and beautiful things that don't need God to be currently enjoyed.
 
 <figure data-type="image">
-![](/webhook-uploads/1474284277011/Footloose2.gif)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474284277011/Footloose2.gif)
 </figure>
 
 Historically, a concession will be made when the church discovers how one of these pleasure-inducing threats can actually be used to complement their own mission, like non-*a cappella* music that people enjoy, and stained-glass windows to make the long sermons seem more flashy.

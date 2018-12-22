@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2017-12-12T21:05:00-05:00"
 lastmod = "2017-12-12T21:05:00-05:00"
 publishDate = "2017-12-12T21:05:00-05:00"
-short_description = "When it comes to Levine's abuse of those who are younger than him and who looked up to him, I'm almost at a loss. Should he be judged for his actions in a contemporary arena, where the tolerance for is closer to zero? Should he be one who takes the fall for an industry that has turned a blind eye for too long? Should we crane our necks and look past Levine, towards the next abuser?"
+short_description = "When it comes to Levine&#039;s abuse of those who are younger than him and who looked up to him, I&#039;m almost at a loss. Should he be judged for his actions in a contemporary arena, where the tolerance for is closer to zero? Should he be one who takes the fall for an industry that has turned a blind eye for too long? Should we crane our necks and look past Levine, towards the next abuser?"
 slug = "some-uncomfortable-questions-about-the-levine-business"
 title = "Some uncomfortable questions about the Levine business"
 +++

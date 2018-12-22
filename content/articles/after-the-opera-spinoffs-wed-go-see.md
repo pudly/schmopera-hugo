@@ -4,7 +4,7 @@ date = "2014-08-27T15:33:00-04:00"
 lastmod = "2017-05-28T11:20:00-04:00"
 preamble = "We always love it when a supporting character in an opera steals the show. It's a tip-of-the-hat to the writing of the character, and to the singer/actor pulling it off. Sometimes these characters even stick with me longer than the leads; it's fun to imagine what happens to them after the main action has finished. Do the Five Jews all go and move into an apartment together, bickering charmingly like the Golden Girls? Does Cherubino stay with Rosina and play the good dad, or does he skip town to satisfy his still-ravenous sexual appetite, Don-Juan-style? Was Leporello gay, after all? Let's imagine a few potential operatic spin-offs, shall we?"
 publishDate = "2014-08-27T15:33:00-04:00"
-short_description = "I always love it when a supporting character in an opera steals the show. It's a tip-of-the-hat to the writing of the character, and to the singer/actor pulling it off. Sometimes these characters even stick with me longer than the leads; I imagine what happens to them after the main action has finished. "
+short_description = "I always love it when a supporting character in an opera steals the show. It&#039;s a tip-of-the-hat to the writing of the character, and to the singer/actor pulling it off. Sometimes these characters even stick with me longer than the leads; I imagine what happens to them after the main action has finished. "
 slug = "after-the-opera-spinoffs-wed-go-see"
 title = "After the opera: spin-offs we&#039;d go see"
 +++
@@ -22,7 +22,7 @@ title = "After the opera: spin-offs we&#039;d go see"
  It could be very _Dialogues des Carmélites_, very _Orange is the New Black_. Elvira told us all that she'd quit it with men and go live in a convent. She'd meet other nuns, some of the friendly and some of them not; some of the nuns might be suspicious of this new addition, thinking that she's just going through a post-breakup-church-phase. Elvira would have to prove herself genuine, perhaps finding her true self along the way amongst these well-behaved ladies. Maybe it could be very _Sister Act_.
  
 <figure data-type="image">
-![](/webhook-uploads/1429216951043/Sister-Act-3871-4f028fb2760ee37c4a00394f-1325735617.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429216951043/Sister-Act-3871-4f028fb2760ee37c4a00394f-1325735617.jpg)
 </figure>
 
 ### 4. After _Lucia di Lammermoor_: Enrico

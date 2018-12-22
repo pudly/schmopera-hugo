@@ -33,7 +33,7 @@ title = "Kira Braun: &quot;I&#039;m happiest when I&#039;m singing.&quot;"
 <p>
 	For this year, we are already considering recording some Rachmaninoff, Schumann, and Fauré. I've been speaking with Claudia Morawetz too, about choosing some of <a href="http://www.oskarmorawetz.com/Tabs/TabHome/index.php" target="_blank">her father's works</a> to try, along with a couple of other Canadian composers. (We have been friends since 1973, when we were both in the CCOC together!) It seems that art songs and Baroque music are a very good fit for my voice, but I want to be involved in opera too.
 </p>
-<figure data-type="image"><a href="/webhook-uploads/1428851518086/KiraPeter.jpg"><img data-resize-src="http://lh3.googleusercontent.com/EKYy8VD72Lav4YWdLYp5xox9N3hl56H2mt3i1M6BIJSDIUlkkQRH43GD1yYrUCqEuQ5DWlG8WNGOY1FCbZJXNOXyYxLT" src="http://lh3.googleusercontent.com/EKYy8VD72Lav4YWdLYp5xox9N3hl56H2mt3i1M6BIJSDIUlkkQRH43GD1yYrUCqEuQ5DWlG8WNGOY1FCbZJXNOXyYxLT=s1200"></a><figcaption>Peter Krochack and Kira Braun. Photo: Richard Sibbald</figcaption></figure>
+<figure data-type="image"><a href="https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428851518086/KiraPeter.jpg"><img data-resize-src="http://lh3.googleusercontent.com/EKYy8VD72Lav4YWdLYp5xox9N3hl56H2mt3i1M6BIJSDIUlkkQRH43GD1yYrUCqEuQ5DWlG8WNGOY1FCbZJXNOXyYxLT" src="http://lh3.googleusercontent.com/EKYy8VD72Lav4YWdLYp5xox9N3hl56H2mt3i1M6BIJSDIUlkkQRH43GD1yYrUCqEuQ5DWlG8WNGOY1FCbZJXNOXyYxLT=s1200"></a><figcaption>Peter Krochack and Kira Braun. Photo: Richard Sibbald</figcaption></figure>
 <h3></h3>
 <h3>3. How did your time at the Canadian Children's Opera Company inspire your love of music and performing?</h3>
 <p>

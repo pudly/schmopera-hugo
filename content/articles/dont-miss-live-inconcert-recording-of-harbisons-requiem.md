@@ -3,7 +3,7 @@ categories = "News"
 date = "2017-05-09T09:44:00-04:00"
 lastmod = "2017-05-09T16:36:00-04:00"
 publishDate = "2017-05-09T09:55:00-04:00"
-short_description = "\"This is an important work, reflective of a critical time in our history, and we are honored to be documenting it for posterity,\" says Tucker Biddlecombe, chorus director. \"It has all the elements of the great pieces of music we all love, from Brahms-like fugues coupled with complicated and exciting harmonies, to the Dies Irae movement that hearkens to the great music of Verdi and Mozart describing the final judgement day.\""
+short_description = "&quot;This is an important work, reflective of a critical time in our history, and we are honored to be documenting it for posterity,&quot; says Tucker Biddlecombe, chorus director. &quot;It has all the elements of the great pieces of music we all love, from Brahms-like fugues coupled with complicated and exciting harmonies, to the Dies Irae movement that hearkens to the great music of Verdi and Mozart describing the final judgement day.&quot;"
 slug = "dont-miss-live-inconcert-recording-of-harbisons-requiem"
 title = "Don&#039;t miss: live in-concert recording of Harbison&#039;s Requiem"
 +++

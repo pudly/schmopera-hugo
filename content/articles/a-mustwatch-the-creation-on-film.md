@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-12-20T14:08:00-05:00"
 lastmod = "2016-12-20T14:23:00-05:00"
 publishDate = "2016-12-20T14:23:00-05:00"
-short_description = "Happily, the London premiere of Rambert's The Creation was captured on film, directed by award-winning dance filmmaker Ross MacGibbon; starting today, the film is available to stream online. The filmed performance, conducted by Rambert Music Director Paul Hoskins, features over 40 dancers, along with the Rambert Orchestra, the BBC Singers, and soloists Sarah Tynan, James Gilchrist, and Neal Davies."
+short_description = "Happily, the London premiere of Rambert&#039;s The Creation was captured on film, directed by award-winning dance filmmaker Ross MacGibbon; starting today, the film is available to stream online. The filmed performance, conducted by Rambert Music Director Paul Hoskins, features over 40 dancers, along with the Rambert Orchestra, the BBC Singers, and soloists Sarah Tynan, James Gilchrist, and Neal Davies."
 slug = "a-mustwatch-the-creation-on-film"
 title = "A must-watch: The Creation on film"
 +++

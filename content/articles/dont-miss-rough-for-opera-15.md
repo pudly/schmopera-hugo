@@ -3,7 +3,7 @@ categories = "News"
 date = "2017-02-09T12:03:00+00:00"
 lastmod = "2017-02-09T14:49:00+00:00"
 publishDate = "2017-02-09T13:33:00+00:00"
-short_description = "Jonathan Higgins' Schutzwall is set in 1961 Berlin, one month after the wall was put up, overnight, with no warning. Catherine Kontz's A Certain Sense of Order draws on the life and work of Anne Sexton, the fascinating American poet who struggled with mental illness all her life, and whose shocking poems were considered \"confessional\". Benjamin Tassie's Hurricane Zoo is an operatic adaptation of Hunter S. Thompson's First Visit with Mescalito, the Gonzo-journalism-style account of his first mescaline trip."
+short_description = "Jonathan Higgins&#039; Schutzwall is set in 1961 Berlin, one month after the wall was put up, overnight, with no warning. Catherine Kontz&#039;s A Certain Sense of Order draws on the life and work of Anne Sexton, the fascinating American poet who struggled with mental illness all her life, and whose shocking poems were considered &quot;confessional&quot;. Benjamin Tassie&#039;s Hurricane Zoo is an operatic adaptation of Hunter S. Thompson&#039;s First Visit with Mescalito, the Gonzo-journalism-style account of his first mescaline trip."
 slug = "dont-miss-rough-for-opera-15"
 title = "Don&#039;t miss: rough for opera #15"
 +++

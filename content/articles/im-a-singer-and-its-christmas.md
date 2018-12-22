@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2016-12-15T10:50:00-05:00"
 lastmod = "2016-12-19T09:49:00-05:00"
 publishDate = "2016-12-19T09:27:00-05:00"
-short_description = "I'm a singer and it's Christmas. It feels like I have a rehearsal or performance every single day. My Facebook feed is full of spam about performances (half of which I'm in) and memories of past statuses congratulating my fellow performers on a job well done. My partner and I are like ships in the night. My Mom guilt is at record levels. So many babysitters, late nights, and not enough sleep for my little guy who still needs Mommy to fall asleep."
+short_description = "I&#039;m a singer and it&#039;s Christmas. It feels like I have a rehearsal or performance every single day. My Facebook feed is full of spam about performances (half of which I&#039;m in) and memories of past statuses congratulating my fellow performers on a job well done. My partner and I are like ships in the night. My Mom guilt is at record levels. So many babysitters, late nights, and not enough sleep for my little guy who still needs Mommy to fall asleep."
 slug = "im-a-singer-and-its-christmas"
 title = "I&#039;m a singer and it&#039;s Christmas"
 +++

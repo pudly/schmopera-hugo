@@ -3,7 +3,7 @@ categories = "How-to"
 date = "2015-04-22T21:14:00+01:00"
 lastmod = "2016-08-20T12:17:00+01:00"
 publishDate = "2015-04-25T20:05:00+01:00"
-short_description = "Singers, how much do you love auditions? I know you're all troopers, experts at the art of wowing someone in two arias or less. It's really all about making your way through the huge list of Things You Can't Control. Often, one of those things is the prowess of your audition accompanist."
+short_description = "Singers, how much do you love auditions? I know you&#039;re all troopers, experts at the art of wowing someone in two arias or less. It&#039;s really all about making your way through the huge list of Things You Can&#039;t Control. Often, one of those things is the prowess of your audition accompanist."
 slug = "how-to-lead-your-pianist"
 title = "How to lead your pianist"
 +++

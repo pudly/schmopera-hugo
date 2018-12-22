@@ -4,7 +4,7 @@ date = "2015-04-12T00:13:00+01:00"
 lastmod = "2017-03-29T23:13:00+01:00"
 preamble = "<p>\n\tLike many others in the Canadian opera scene, I first met <a href=\"https://twitter.com/aitkramer\" target=\"_blank\">Adrian Kramer</a> as a baritone in the COC Ensemble Studio. Recently, Adrian made a dramatic and successful shift into tenor singing, and I'm not the only person who heard a truly exciting leap forward. As a natural musician and a very smart singer, I was eager to ask Adrian about what it takes to change vocal fach. Whose idea was it to move from baritone to tenor, and what kind of work was involved? Adrian offers up some fascinating insight on the question of singing comfortably and voice types.\n</p>"
 publishDate = "2015-02-17T14:12:00+00:00"
-short_description = "​Like many others in the Canadian opera scene, I first met Adrian Kramer as a baritone in the COC Ensemble Studio. Recently, Adrian made a dramatic and successful shift into tenor singing, and I'm not the only person who heard a truly exciting leap forward. "
+short_description = "​Like many others in the Canadian opera scene, I first met Adrian Kramer as a baritone in the COC Ensemble Studio. Recently, Adrian made a dramatic and successful shift into tenor singing, and I&#039;m not the only person who heard a truly exciting leap forward. "
 slug = "talking-with-singers-adrian-kramer"
 title = "Talking with singers: Adrian Kramer"
 +++
@@ -33,7 +33,7 @@ title = "Talking with singers: Adrian Kramer"
 <p>
 	The suggestion was peppered throughout my first ten years of singing. There was a split camp idea about me. A lot of people thought, "Oh no, you're a <a href="http://en.wikipedia.org/wiki/Baritone#Bariton.2FBaryton-Martin" target="_blank">Baryton-Martin</a>; you're so sensitive; it's a beautiful sound; for opera, it'll be a specific thing, but you'll do it well; as a recitalist it's so worthwhile".
 </p>
-<figure data-type="image"><a href="/webhook-uploads/1428793847855/KramerRBA-Chris-Hutcheson.jpg"><img data-resize-src="http://lh3.googleusercontent.com/ucj7oR1FB59VY2u8WoBbzaPOIfg86EAAfy0moebq96BQjd0WuSAtjK59HDxoDHxvHqvCUe1emEVgLLoZkgItSUhMVd0" src="http://lh3.googleusercontent.com/ucj7oR1FB59VY2u8WoBbzaPOIfg86EAAfy0moebq96BQjd0WuSAtjK59HDxoDHxvHqvCUe1emEVgLLoZkgItSUhMVd0=s1200"></a><figcaption>Photo: Chris Hutcheson</figcaption></figure>
+<figure data-type="image"><a href="https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428793847855/KramerRBA-Chris-Hutcheson.jpg"><img data-resize-src="http://lh3.googleusercontent.com/ucj7oR1FB59VY2u8WoBbzaPOIfg86EAAfy0moebq96BQjd0WuSAtjK59HDxoDHxvHqvCUe1emEVgLLoZkgItSUhMVd0" src="http://lh3.googleusercontent.com/ucj7oR1FB59VY2u8WoBbzaPOIfg86EAAfy0moebq96BQjd0WuSAtjK59HDxoDHxvHqvCUe1emEVgLLoZkgItSUhMVd0=s1200"></a><figcaption>Photo: Chris Hutcheson</figcaption></figure>
 <p>
 	There were some people who said "I think you're a tenor", but nobody was willing to say, "you're a tenor and you should switch now". No teachers, no coaches, nobody wanted to be, I think, accountable if it didn't work. That's fair enough; the relationships between a singer and a coach, or a singer and a teacher are delicate things. It's a great deal of trust that has to be given, and I just didn't run into anyone who wanted to take that particular bull by the horns. That was also a valuable lesson for me to learn, that people care, and people are interested, but nobody cares as much as you do. I realized that I was the only one who was going to take ownership of it and do it.
 </p>

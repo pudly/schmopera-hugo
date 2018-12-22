@@ -3,7 +3,7 @@ categories = "News"
 date = "2015-06-19T12:41:00-04:00"
 lastmod = "2015-06-20T10:42:00-04:00"
 publishDate = "2015-06-20T10:42:00-04:00"
-short_description = "On this beautiful Saturday morning, we've got exciting news to announce! For four weeks starting Monday, I'll be writing from the beautiful Banff Centre, where I'll be joining Against the Grain Theatre and the Canadian Opera Company at Open Space: Opera in the 21st Century. I'll be there to music direct the workshop production of James Rolfe's new opera, Crush, which is a completely cool take (homage?) on the Don Juan story and Mozart's Don Giovanni."
+short_description = "On this beautiful Saturday morning, we&#039;ve got exciting news to announce! For four weeks starting Monday, I&#039;ll be writing from the beautiful Banff Centre, where I&#039;ll be joining Against the Grain Theatre and the Canadian Opera Company at Open Space: Opera in the 21st Century. I&#039;ll be there to music direct the workshop production of James Rolfe&#039;s new opera, Crush, which is a completely cool take (homage?) on the Don Juan story and Mozart&#039;s Don Giovanni."
 slug = "a-summer-surprise"
 title = "A summer surprise"
 +++

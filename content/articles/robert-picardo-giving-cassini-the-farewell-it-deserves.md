@@ -3,7 +3,7 @@ categories = "Humour"
 date = "2017-09-17T16:17:00-04:00"
 lastmod = "2017-09-20T13:18:00-04:00"
 publishDate = "2017-09-20T11:20:00-04:00"
-short_description = "Cassini's research is catalogued by NASA with some pretty stunning images. Giving a different kind of tribute - one that's a bit more operatic - is the one and only Robert Picard, whom you may know The Doctor on Star Trek: Voyager. It's not his first time straddling the worlds of space exploration and opera; we recounted a few gems a few years back."
+short_description = "Cassini&#039;s research is catalogued by NASA with some pretty stunning images. Giving a different kind of tribute - one that&#039;s a bit more operatic - is the one and only Robert Picard, whom you may know The Doctor on Star Trek: Voyager. It&#039;s not his first time straddling the worlds of space exploration and opera; we recounted a few gems a few years back."
 slug = "robert-picardo-giving-cassini-the-farewell-it-deserves"
 title = "Robert Picardo, giving Cassini the farewell it deserves"
 +++
@@ -13,7 +13,7 @@ On Friday, September 15, 2017, NASA's [Cassini Spacecraft ended 13 years of expl
 Cassini's research is catalogued by NASA with some pretty [stunning images](https://saturn.jpl.nasa.gov/galleries/images/). Giving a different kind of tribute - one that's a bit more operatic - is the one and only Robert Picard, whom you may know The Doctor on *Star Trek: Voyager*. It's not his first time straddling the worlds of space exploration and opera; we recounted a few gems [a few years back](/star-trek-and-the-opera/).
 
 <figure data-type="image">
-![](/webhook-uploads/1505692715475/2017-09-17---Picardo.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505692715475/2017-09-17---Picardo.jpg)
 <figcaption>Robert Picardo, aka The Doctor in *Star Trek: Voyager*</figcaption>
 </figure>
 

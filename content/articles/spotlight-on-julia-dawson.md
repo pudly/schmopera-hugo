@@ -4,7 +4,7 @@ date = "2015-06-08T22:44:00-04:00"
 lastmod = "2015-06-12T22:31:00-04:00"
 preamble = "This is the first in a series of feature interviews that we'll be publishing over the summer. We're talking to singers, conductors, pianists, the whole lot. If you think you'd be a good candidate, or know an artist who would, shoot us a message at [hello@schmopera.com](mailto:hello@schmopera.com)."
 publishDate = "2015-06-09T16:12:00-04:00"
-short_description = "Julia Dawson is a Canadian mezzo-soprano currently based in the United States. Julia is a hardworking, creative artist, and she's been keeping busy singing at the Academy of Vocal Arts, the Glimmerglass Festival, and Opera Philadelphia, to name a few. Get to know this smart singer:"
+short_description = "Julia Dawson is a Canadian mezzo-soprano currently based in the United States. Julia is a hardworking, creative artist, and she&#039;s been keeping busy singing at the Academy of Vocal Arts, the Glimmerglass Festival, and Opera Philadelphia, to name a few. Get to know this smart singer:"
 slug = "spotlight-on-julia-dawson"
 title = "Spotlight on: Julia Dawson"
 +++

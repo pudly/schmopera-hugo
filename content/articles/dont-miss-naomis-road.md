@@ -4,7 +4,7 @@ date = "2016-11-10T16:50:00+00:00"
 lastmod = "2016-11-14T15:27:00+00:00"
 preamble = "From **November 16-20** at St. David's Anglican Church, [Tapestry Opera](/scene/companies/tapestry-opera/) presents [*Naomi's Road*](https://tapestryopera.com/naomis-road/), by Ramona Luengen and Ann Hodges, based on the novel by Joy Kogawa. Set in Vancouver during WWII, the opera tells the story of Japanese-Canadian Naomi, a young girl who journeys to an internment camp in British Columbia. It recalls muted events in Canadian history, and Tapestry Opera's Michael Hidetoshi Mori directs.\n\nWe spoke with Hiather Darnel-Kadonaga, who sings the role of Naomi in this [Tapestry Opera production](https://tapestryopera.com/naomis-road/)."
 publishDate = "2016-11-14T13:32:00+00:00"
-short_description = "\"One of the most beautiful things about this opera is that, despite the family being completely separated and the children being torn away from their parents, they seem to create a secure and loving family unit finding a way to stay together and remain strong against adversity.\""
+short_description = "&quot;One of the most beautiful things about this opera is that, despite the family being completely separated and the children being torn away from their parents, they seem to create a secure and loving family unit finding a way to stay together and remain strong against adversity.&quot;"
 slug = "dont-miss-naomis-road"
 title = "Don&#039;t miss: Naomi&#039;s Road"
 +++
@@ -22,7 +22,7 @@ One of the most beautiful things about this opera is that, despite the family be
 I find that the hardest part of playing a child is being naïve and simple.  As adults we are so accustomed to living everyday dramatic, intense and sometimes complicated situations and tend to forget that as children, life is quite simple and they live completely in the moment.
 
 <figure data-type="image">
-![](/webhook-uploads/1479044867875/2016-11-12---Hiather-Darnel-Kadonaga.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479044867875/2016-11-12---Hiather-Darnel-Kadonaga.jpg)
 <figcaption>Hiather Darnel-Kadonaga, soprano. Photo courtesy of Tapestry Opera.</figcaption>
 </figure>
  

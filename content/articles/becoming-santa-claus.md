@@ -1,8 +1,8 @@
 +++
 categories = "News"
 date = "2016-11-17T09:49:00+00:00"
+draft = true
 lastmod = "2016-11-17T09:59:00+00:00"
-publishDate = "undefined"
 slug = "becoming-santa-claus"
 title = "Becoming Santa Claus"
 +++
@@ -19,7 +19,7 @@ title = "Becoming Santa Claus"
 "Adamo creates a completely new legend for his Santa Claus and sets a Pixar-esque opera with an explosion of kaleidoscopic music." - [*Theater Jones*](http://www.theaterjones.com/ntx/reviews/20151207085805/2015-12-07/Dallas-Opera/Becoming-Santa-Claus)
 
 <figure data-type="image">
-![](/webhook-uploads/1479376407438/2016-11-16---BSC---Karen-Almond-Blalock.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479376407438/2016-11-16---BSC---Karen-Almond-Blalock.jpg)
 <figcaption>Jonathan Blalock (Prince Claus) and Kevin Burdette (Ob) in *Becoming Santa Claus* at The Dallas Opera, 2015. Photo by Karen Almond.</figcaption>
 </figure>
 

@@ -4,7 +4,7 @@ date = "2016-05-01T12:07:00+01:00"
 lastmod = "2016-05-02T21:36:00+01:00"
 preamble = "\"Can you fall in love with someone you’ve never met?\" That's the big question on the minds of the four hopeful, love-seeking contestants on the dating game show [*A Little Too Cozy*](http://againstthegraintheatre.com/a-little-too-cozy/). Felicity and Dora have been getting to know Elmo and Fernando in that classically romantic way, texting. Soon, they'll join host Donald Alfonso and talent relations guru Despina for the finale episode of *A Little Too Cozy*, where they'll finally be able to go on a face-to-face date with the objects of their text-affections.\n\nWe asked Felicity, Elmo, Dora, and Fernando about how their romances have blossomed so far, and whether or not they think they'll find true love on *A Little Too Cozy*.\n\n[Click here](http://againstthegraintheatre.com/a-little-too-cozy/) for full details, and to [snag your seats](http://againstthegraintheatre.ticketleap.com/a-little-too-cozy/) for the live show at CBC Toronto's Studio 42."
 publishDate = "2016-05-02T15:11:00+01:00"
-short_description = "\"Can you fall in love with someone you’ve never met?\" That's the big question on the minds of the four hopeful, love-seeking contestants on A Little Too Cozy. Felicity and Dora have been getting to know Elmo and Fernando in that classically romantic way, texting. Soon, they'll join host Donald Alfonso and talent relations guru Despina for the finale episode of A Little Too Cozy, where they'll finally be able to go on a face-to-face date with the objects of their text-affections."
+short_description = "&quot;Can you fall in love with someone you’ve never met?&quot; That&#039;s the big question on the minds of the four hopeful, love-seeking contestants on A Little Too Cozy. Felicity and Dora have been getting to know Elmo and Fernando in that classically romantic way, texting. Soon, they&#039;ll join host Donald Alfonso and talent relations guru Despina for the finale episode of A Little Too Cozy, where they&#039;ll finally be able to go on a face-to-face date with the objects of their text-affections."
 slug = "meet-the-contestants-of-a-little-too-cozy"
 title = "Meet the contestants of A Little Too Cozy!"
 +++
@@ -20,7 +20,7 @@ title = "Meet the contestants of A Little Too Cozy!"
 **Dora**: I thought, "well, why not?" It can't be more horrifying than what's on the street, so worst case scenario, it gets me off of work for a while.  ;) 
 
 <figure data-type="image">
-![](/webhook-uploads/1462221215250/2016-05-03---SHANTELLE-PRZYBYLO-by-DARRYL-BLOCK.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462221215250/2016-05-03---SHANTELLE-PRZYBYLO-by-DARRYL-BLOCK.jpg)
 <figcaption>Shantelle Przybylo as Felicity. Photo: Darryl Block.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ title = "Meet the contestants of A Little Too Cozy!"
 **Fernando**: We only communicate with text. It’s crazy - I've only sent her texts and e-mails, but I'm sure I can picture her beautiful face. I know her soul is beautiful though – and that's all that really matters anyways. 
 
 <figure data-type="image">
-![](/webhook-uploads/1462221266900/2-16-05-03---CozyCLARENCE-FRAZER-by-DARRYL-BLOCK.jpg)<figcaption>Clarence Frazer as Elmo. Photo: Darryl Block.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462221266900/2-16-05-03---CozyCLARENCE-FRAZER-by-DARRYL-BLOCK.jpg)<figcaption>Clarence Frazer as Elmo. Photo: Darryl Block.</figcaption>
 </figure>
 
 ## What was the cutest text you’ve gotten yet from your man/lady? Any memorable emojis?
@@ -60,9 +60,9 @@ title = "Meet the contestants of A Little Too Cozy!"
 
 
 **Dora**: <figure data-type="image">
-![](/webhook-uploads/1462101454156/Biceps-Emoji30x1360leftpx.jpg)</figure>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462101454156/Biceps-Emoji30x1360leftpx.jpg)</figure>
 
-<figure data-type="image">![](/webhook-uploads/1462221311540/2016-05-03---CozyRIHAB-CHAIEB-by-DARRYL-BLOCK.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462221311540/2016-05-03---CozyRIHAB-CHAIEB-by-DARRYL-BLOCK.jpg)
 <figcaption>Rihab Chaieb as Dora. Photo: Darryl Block.</figcaption>
 </figure>
  
@@ -77,7 +77,7 @@ title = "Meet the contestants of A Little Too Cozy!"
 **Elmo**: There are no deal breakers for Elmo. I'm so connected with Felicity that nothing could pull us apart. It's such a different experience. My love burns for her like a sizzling rump roast at Christmas dinner.
 
 <figure data-type="image">
-![](/webhook-uploads/1462221335664/2016-05-03---CozyAARON-SHEPPARD-by-DARRYL-BLOCK.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462221335664/2016-05-03---CozyAARON-SHEPPARD-by-DARRYL-BLOCK.jpg)
 <figcaption>Aaron Sheppard as Fernando. Photo: Darryl Block.</figcaption>
 </figure>
 

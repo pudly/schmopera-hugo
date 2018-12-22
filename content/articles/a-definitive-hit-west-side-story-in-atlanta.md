@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-11-07T13:49:00-05:00"
 lastmod = "2018-11-07T14:12:00-05:00"
 publishDate = "2018-11-07T14:12:00-05:00"
-short_description = "West Side Story isn't an easy show and, particularly in current climates, a controversial one to cast. It is dance heavy and, while the Atlanta Opera Chorus shined during their choreographed number during last season's La fille du régiment, West Side Story requires specialized training, perfect timing, and active feats of physical intensity. After spending election night in the audience of the same production I was so nervous about, I can genuinely say that it is a production not to miss."
+short_description = "West Side Story isn&#039;t an easy show and, particularly in current climates, a controversial one to cast. It is dance heavy and, while the Atlanta Opera Chorus shined during their choreographed number during last season&#039;s La fille du régiment, West Side Story requires specialized training, perfect timing, and active feats of physical intensity. After spending election night in the audience of the same production I was so nervous about, I can genuinely say that it is a production not to miss."
 slug = "a-definitive-hit-west-side-story-in-atlanta"
 title = "A definitive hit: West Side Story in Atlanta"
 +++
@@ -17,7 +17,7 @@ The Sharks, a group of Puerto Rican immigrants have faced notable conflict and d
 The Atlanta Opera's production is a co-production that was recently staged at The Glimmerglass Festival (evident by the number of singers who returned for this production), Houston Grand, and Lyric Opera of Chicago. As the curtain rises we see an extravagant and cinematic set, designed by Peter Davison, which functionally acts as the various streets and venues, perfectly unfolding the interior of Maria's room at various points. The set was strikingly decisive in setting the scene, allowing TAO's production to feel the period fully.
 
 <figure data-type="image">
-![](/webhook-uploads/1541617836550/_D8M2986.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541617836550/_D8M2986.jpg)
 <figcaption>Brian Vu as Riff (centre) in *West Side Story*, The Atlanta Opera, 2018. Photo: Greg Mooney.</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ Brian Vu takes on the role of Riff, the leader of the Jets and Tony's best frien
 The rest of the Jets were made up by Connor McRory, whose humorous and sometimes intimidating Action was a treat during "Gee, Officer Krupke", PJ Palmer (A-Rab), Tyler Whitaker (Baby John), Matthew Steriti (Big Deal), Schyler Vargas (Diesel), Taylor Simmons (Snowboy), and Spencer Britten (Gee-Tar). Additionally, Kelsey Gibbs' Anybodys provided another concept to the narrative of acceptance and helped round out the Jets alongside Melissa McCann (Graziella), Kaylee Guzowski (Velma), Ayana DuBose (Minnie), Rachel Shiffman (Clarice), and Priscilla Eugene Curtis (Pauline).
 
 <figure data-type="image">
-![](/webhook-uploads/1541617885690/_D800615.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541617885690/_D800615.jpg)
 <figcaption>Amanda Castro as Anita (centre) in *West Side Story*, The Atlanta Opera, 2018. Photo: Greg Mooney</figcaption>
 </figure>
 

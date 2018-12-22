@@ -3,7 +3,7 @@ categories = "Humour"
 date = "2016-02-01T09:52:00-05:00"
 lastmod = "2016-02-01T10:11:00-05:00"
 publishDate = "2016-02-01T10:11:00-05:00"
-short_description = "\"Our story begins in a Parisian penthouse infested by an undead hoard lead by Xenobia, huntress of humans. As the minions mingle at a bloody soiree, romantically inclined Christolpho meets the ravenous-yet-rapturous Philonia. Suddenly, all-too-human emotions come into play, leading to chaos, comedy, and a splash-zone worthy chainsaw massacre.\""
+short_description = "&quot;Our story begins in a Parisian penthouse infested by an undead hoard lead by Xenobia, huntress of humans. As the minions mingle at a bloody soiree, romantically inclined Christolpho meets the ravenous-yet-rapturous Philonia. Suddenly, all-too-human emotions come into play, leading to chaos, comedy, and a splash-zone worthy chainsaw massacre.&quot;"
 slug = "things-i-want-to-see-la-zombiata"
 title = "Things I want to see: La Zombiata"
 +++
@@ -23,5 +23,5 @@ And if you think a zombie opera is a cool idea, you can help them out by contrib
 To get details and ticket info for *La Zombiata*, follow the box office links below. WholeTone Opera, we're sorry to miss this one.
 
 <figure data-type="image">
-![](/webhook-uploads/1454338873725/5472981_orig.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454338873725/5472981_orig.jpg)
 </figure>

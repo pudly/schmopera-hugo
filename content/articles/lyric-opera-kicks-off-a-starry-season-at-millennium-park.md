@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-09-14T13:28:00-04:00"
 lastmod = "2018-09-14T19:49:00-04:00"
 publishDate = "2018-09-14T17:30:00-04:00"
-short_description = "The night's theme, (and requisite hashtag) #LongLivePassion was on-point — we were treated to some of opera's most impassioned moments from Puccini's beloved \"O mio babbino caro\" to the seductive \"Mon coeur s'ouvre à ta voix\" from Saint-Saën's Samson et Dalila. It was a glamorous, fun-filled night that featured the headliners of the Lyric's upcoming production of La Bohéme as well as four young artists from the Patrick G. and Shirley W. Ryan Center."
+short_description = "The night&#039;s theme, (and requisite hashtag) #LongLivePassion was on-point — we were treated to some of opera&#039;s most impassioned moments from Puccini&#039;s beloved &quot;O mio babbino caro&quot; to the seductive &quot;Mon coeur s&#039;ouvre à ta voix&quot; from Saint-Saën&#039;s Samson et Dalila. It was a glamorous, fun-filled night that featured the headliners of the Lyric&#039;s upcoming production of La Bohéme as well as four young artists from the Patrick G. and Shirley W. Ryan Center."
 slug = "lyric-opera-kicks-off-a-starry-season-at-millennium-park"
 title = "Lyric Opera kicks off a starry season at Millennium Park"
 +++
@@ -13,7 +13,7 @@ While the [Lyric Opera of Chicago](/scene/companies/lyric-opera-of-chicago/)'s o
 The night's theme, (and requisite hashtag) #LongLivePassion was on-point — we were treated to some of opera's most impassioned moments from Puccini's beloved "O mio babbino caro" to the seductive "Mon coeur s'ouvre à ta voix" from Saint-Saën's *Samson et Dalila*. It was a glamorous, fun-filled night that featured the headliners of the Lyric's upcoming production of *La Bohéme* as well as four young artists from the Patrick G. and Shirley W. Ryan Center. The centerpiece of the evening was the second half, which featured the end of Act I and entirety of Act II of Puccini's *La Bohéme* and starred the principal singers along with LOC chorus and children's chorus, conducted by Domingo Hindoyan.
 
 <figure data-type="image">
-![](/webhook-uploads/1536946595091/DomingoHindoyan.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1536946595091/DomingoHindoyan.jpg)
 <figcaption>Domingo Hindoyan conducts the Stars of Lyric Opera in Millennium Park. Photo: Todd Rosenberg.</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ The night's theme, (and requisite hashtag) #LongLivePassion was on-point — we 
 **Michael Pecak**: There was an audible gasp when [J'nai Bridges](/scene/people/jnai-bridges/) came onto the stage—gorgeous in a turquoise gown. For me, her singing in "Mon coeur s'ouvre à ta voix" was an early highlight of the night. Her silken turns of phrase and alluring tone seemed to draw in the whole of the large, outdoor audience. She sang with apparent ease, despite singing to what is essentially a massive field.
 
 <figure data-type="image">
-![](/webhook-uploads/1536946588339/AdrianSampetreanRicardoJoseRiveraJakeGardnerDanielledeNieseMichaelFabianoMariaAgrestaZacharyNelsonandChicagoChildrensChoir.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1536946588339/AdrianSampetreanRicardoJoseRiveraJakeGardnerDanielledeNieseMichaelFabianoMariaAgrestaZacharyNelsonandChicagoChildrensChoir.jpg)
 <figcaption>Adrian Sâmpetrean, Ricard José Rivera, Jake Gardner, Danielle de Niese, Michael Fabiano, Maria Agresta, Zachary Nelson, and  in the Stars of Lyric Opera in Millennium Park. Photo: Todd Rosenberg.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ The night's theme, (and requisite hashtag) #LongLivePassion was on-point — we 
 **HP**: I can't wait for [*Idomeneo*](https://www.lyricopera.org/concertstickets/calendar/2018-2019/idomeneo-opera-tickets) - last year, I was blown away by [Janai Brugger](/scene/people/janai-brugger/)'s Lìu in *Turandot* and I'm so eager to hear her sing Ilia in this production of Mozart's myth-tastic opera seria. I'm also looking forward to hearing [Alice Coote](/scene/people/alice-coote/) in not one but two productions: Massenet's [*Cendrillon*](https://www.lyricopera.org/concertstickets/calendar/2018-2019/cendrillon-opera-tickets) and Handel's [*Ariodante*](https://www.lyricopera.org/concertstickets/calendar/2018-2019/la-traviata-opera-tickets). 
 
 <figure data-type="image">
-![](/webhook-uploads/1536946574482/MariaAgrestaandMichaelFabiano.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1536946574482/MariaAgrestaandMichaelFabiano.jpg)
 <figcaption>Maria Agresta and Michael Fabiano in the Stars of Lyric Opera in Millennium Park. Photo: Todd Rosenberg.</figcaption>
 </figure>
 
@@ -44,14 +44,14 @@ The night's theme, (and requisite hashtag) #LongLivePassion was on-point — we 
 **MP**: As an admirer of the LOC orchestra, I'm eager to hear them led by Harry Bicket in Handel's *Ariodante*, especially after experiencing his conducting in last season's *Orphée et Eurydice*. And as a musical theater neophyte, I'm excited to see Bernstein's [*West Side Story*](https://www.lyricopera.org/concertstickets/calendar/2018-2019/west-side-story-musical-tickets) (with Jerome Kern's choreography!) for the very first time.
 
 <figure data-type="image">
-![](/webhook-uploads/1536946559603/WhitneyMorrisonandMarioRojas.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1536946559603/WhitneyMorrisonandMarioRojas.jpg)
 <figcaption>Whitney Morrison and Mario Rojas in the Stars of Lyric Opera in Millennium Park. Photo: Todd Rosenberg.</figcaption>
 </figure>
 
 **HD**: I’m curious to see how they’ll carry off depicting Fafner, (the dragon!) in *Siegfried*. I’m also really interested to catch [*An American Dream*](https://www.lyricopera.org/concertstickets/calendar/2018-2019/an-american-dream-opera-tickets) in March. The short opera premiered in Seattle in 2015 to rave reviews. Interweaving the stories of a Japanese-American family forced into an internment camp and a Jewish-American family made to emigrate to escape the Holocaust, I can't think of a more poignant time to view a work of art that grapples so earnestly with issues of immigration, class, and ethnic identity. The presentation also comes at a time when our community is rightly re-assessing how Asian-Americans are represented in the performing arts.
 
 <figure data-type="image">
-![](/webhook-uploads/1536946543897/MillenniumParkCrowd.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1536946543897/MillenniumParkCrowd.jpg)
 <figcaption>The crowd at Stars of Lyric Opera in Millennium Park. Photo: Todd Rosenberg.</figcaption>
 </figure>
 

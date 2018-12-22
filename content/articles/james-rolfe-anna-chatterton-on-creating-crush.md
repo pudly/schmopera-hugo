@@ -4,7 +4,7 @@ date = "2015-06-23T22:00:00-06:00"
 lastmod = "2015-06-25T08:03:00-06:00"
 preamble = "Here at The Banff Centre, we're working on *Crush*, a new opera by composer [James Rolfe](/scene/people/james-rolfe/) and librettist [Anna Chatterton](/scene/people/anna-chatterton/). It's a fascinating piece, based on Mozart's *Don Giovanni*, this time featuring a female protagonist named Donna. I was thrilled when Anna and James offered to talks about the process of creating *Crush*. They both write eloquently about how they've collaborated on the piece; I've learned that whatever amount of work I sense has been put into writing an opera, doubling that amount is probably more accurate. "
 publishDate = "2015-06-25T08:00:00-06:00"
-short_description = "Here at The Banff Centre, we're working on Crush, a new opera by composer James Rolfe and librettist Anna Chatterton. It's a fascinating piece, based on Mozart's Don Giovanni, this time featuring a female protagonist named Donna. I was thrilled when Anna and James offered to talks about the process of creating Crush. "
+short_description = "Here at The Banff Centre, we&#039;re working on Crush, a new opera by composer James Rolfe and librettist Anna Chatterton. It&#039;s a fascinating piece, based on Mozart&#039;s Don Giovanni, this time featuring a female protagonist named Donna. I was thrilled when Anna and James offered to talks about the process of creating Crush. "
 slug = "james-rolfe-anna-chatterton-on-creating-crush"
 title = "James Rolfe &amp; Anna Chatterton, on creating Crush"
 +++
@@ -20,7 +20,7 @@ We wondered how a woman seduces today, with words, to bridge the gap between mov
 It wasn't a straightforward change! It's a great way to get to know the original, with all its dramatic strengths and challenges. For me, the emotional weight is carried by the protagonist's victims, so we strengthened their roles, and downplayed the supernatural justice of the original, which is less credible nowadays. One essential bond is the father-daughter relationship of Matt and Lola, which proves too much even for superhuman Donna.
 
 <figure data-type="image">
-![](/webhook-uploads/1435240307379/AnnaChatterton.jpeg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435240307379/AnnaChatterton.jpeg)
 </figure>
 
 ### Can you tell us about your creative process for *Crush*?
@@ -36,7 +36,7 @@ James will begin to write his first draft, stopping along the way to ask for qui
 Revisions can seem endless, because the devil is in the details. Choosing the right vocal register will make or break a phrase, and a difference as little as a tone or a semitone can make a moment sublime or ridiculous. The same goes for words, pacing, tempi. And as ever, timing is everything. All these must be just so.
 
 <figure data-type="image">
-![](/webhook-uploads/1435240350317/JamesRolfe.jpeg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435240350317/JamesRolfe.jpeg)
 <figcaption>Composer James Rolfe.</figcaption>
 </figure>
 

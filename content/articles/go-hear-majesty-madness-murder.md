@@ -3,7 +3,7 @@ categories = "News"
 date = "2015-06-13T12:24:00-04:00"
 lastmod = "2015-06-17T15:25:00-04:00"
 publishDate = "2015-06-13T17:12:00-04:00"
-short_description = "Next week, Ontario audiences have a chance to hear two exciting young sopranos in recital. On June 16 (Hamilton) and June 19 (Toronto), Teiya Kasahara and Stephanie Yelovich present *Majesty, Madness & Murder: An evening of Italian Opera and Art Song*, to raise funds towards tuition for the Operavision Academy in Urbania, Italy."
+short_description = "Next week, Ontario audiences have a chance to hear two exciting young sopranos in recital. On June 16 (Hamilton) and June 19 (Toronto), Teiya Kasahara and Stephanie Yelovich present *Majesty, Madness &amp; Murder: An evening of Italian Opera and Art Song*, to raise funds towards tuition for the Operavision Academy in Urbania, Italy."
 slug = "go-hear-majesty-madness-murder"
 title = "Go hear Majesty, Madness &amp; Murder"
 +++

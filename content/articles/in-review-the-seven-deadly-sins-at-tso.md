@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-06-15T08:35:00-06:00"
 lastmod = "2017-06-16T07:48:00-06:00"
 publishDate = "2017-06-15T21:29:00-06:00"
-short_description = "Ivany seems to take a different tack with their relationship. It almost seems this time around as though Anna I (the singer) is actually part of Anna II's (the dancer) demise. She seems to be the one encouraging her sister to indulge in the seven sins in order to make their money. #CouPIMPgh."
+short_description = "Ivany seems to take a different tack with their relationship. It almost seems this time around as though Anna I (the singer) is actually part of Anna II&#039;s (the dancer) demise. She seems to be the one encouraging her sister to indulge in the seven sins in order to make their money. #CouPIMPgh."
 slug = "in-review-the-seven-deadly-sins-at-tso"
 title = "In review: The Seven Deadly Sins at TSO"
 +++
@@ -21,7 +21,7 @@ TSO closed the first half with Bartók's *Music for Strings, Percussion and Cele
 And then after the intermission...
 
 <figure data-type="image">
-![](/webhook-uploads/1497537354460/2017-06-14---Peter-Oundjian-Wallis-Giunta-Jennifer-Nichols-Jag-Gundu.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497537354460/2017-06-14---Peter-Oundjian-Wallis-Giunta-Jennifer-Nichols-Jag-Gundu.jpg)
 <figcaption>Peter Oundjian, Wallis Giunta (centre), and Jennifer Nichols in Kurt Weill's *Seven Deadly Sins*, TSO. Photo: Jag Gundu.</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ Ivany seems to take a different tack with their relationship. It almost seems th
 
 Presented with the orchestra (who played flawlessly) onstage, the action took place along the front half of the Roy Thomson Hall stage with [Wallis Giunta](/scene/people/wallis-giunta/) singing Anna I, and Nichols dancing as Anna II, both telling their story. Their family was portrayed by a group of strapping men: tenors [Isaiah Bell](/scene/people/isaiah-bell/) (Father) and [Owen McCausland](/scene/people/owen-mccausland/) (Brother), baritone [Geoffrey Sirett](/scene/people/geoffrey-sirett/) (Brother). and bass-baritone [Stephen Hegedus](/scene/people/stephen-hegedus/) (Mother). The  men did double duty representing the family and shifting seamlessly into the faceless men whom the Annas use as they go from city to city.
 
-<figure data-type="image">![](/webhook-uploads/1497537362707/2017-06-14---Jennifer-Nichols-centre-Wallis-Giunta-Jag-Gundu.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497537362707/2017-06-14---Jennifer-Nichols-centre-Wallis-Giunta-Jag-Gundu.jpg)
 <figcaption>Jennifer Nichols (centre) and Wallis Giunta in Kurt Weill's *Seven Deadly Sins*, TSO. Photo: Jag Gundu.</figcaption>
 </figure>
 

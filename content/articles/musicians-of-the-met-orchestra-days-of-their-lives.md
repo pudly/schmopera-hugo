@@ -2,7 +2,7 @@
 date = "2018-06-09T19:07:00-04:00"
 lastmod = "2018-06-09T19:45:00-04:00"
 publishDate = "2018-06-09T19:45:00-04:00"
-short_description = "Levine filed his suit a couple of months ago, on the day that the Met's new production of Così fan tutte, a specialty of his, opened without him. The timing of both suits was sadly ironic. The Met's move on May 18 must have affected at least some of the musicians in this band, that is still so much Levine's creation, as they prepared to open their Carnegie Hall series with Debussy's \"Prelude to the Afternoon of a Fawn.\""
+short_description = "Levine filed his suit a couple of months ago, on the day that the Met&#039;s new production of Così fan tutte, a specialty of his, opened without him. The timing of both suits was sadly ironic. The Met&#039;s move on May 18 must have affected at least some of the musicians in this band, that is still so much Levine&#039;s creation, as they prepared to open their Carnegie Hall series with Debussy&#039;s &quot;Prelude to the Afternoon of a Fawn.&quot;"
 slug = "musicians-of-the-met-orchestra-days-of-their-lives"
 title = "Musicians of the MET Orchestra: Days of Their Lives"
 +++
@@ -18,7 +18,7 @@ Mirga Gražinytė-Tyla, the increasingly prominent music director of the City of
 At best a languid opener, it was followed by the appearance of mezzo-soprano, [Anita Rachvelishvili](/scene/people/anita-rachvelishvili/) who has impressed Met audiences with her interpretations of the title role in *Carmen* and most recently, Azucena in *Il trovatore*. Some artists do not inhabit roles in concert or recital with the same commitment that they bring to staged operas. Rachvelishvili on this occasion appeared to be one of them. Mussorgsky's *Songs and Dances of Death*, in a stirring orchestration by Shostakovich, requires an almost surreal devotion to the text to communicate its fateful subject matter. While she sang with a dramatic luster and responded to the orchestra's dark and turbulent reading with technical precision, her sound was only beautiful when it should have been emotionally overwrought. Gražinytė-Tyla held both singer and orchestra in an otherwise spellbinding grasp, reinforcing her own increasingly impressive reputation on the podium. 
 
 <figure data-type="image">
-![](/webhook-uploads/1528585494608/CH1384283_Original.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528585494608/CH1384283_Original.jpg)
 <figcaption>Mezzo-soprano Anita Rachvelishvili, conductor Mirga Gražinytė-Tyla, and the MET Orchestra, Carnegie Hall, 2018. Photo: Chris Lee.</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ With no news of litigation, May 30 appeared to be a day for collaboration. Giana
 Ehnes, a remarkably lyrical violinist who is a frequent collaborator with Noseda, and the orchestra responded to each other like the best of friends. Indeed, a feeling of musical well being swept over the hall reminding the audience that music making can be genuinely nurturing, especially when circumstances surrounding it are something less.
 
 <figure data-type="image">
-![](/webhook-uploads/1528585557759/CH1385494_Original.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528585557759/CH1385494_Original.jpg)
 <figcaption>Violinist James Ehnes plays with the MET Orchestra, Carnegie Hall, 2018. Photo: Chris Lee.</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ Fresh and exciting as all of this was, the program would give way to Mahler's Fi
 Noseda may be a near perfect conductor of Mahler because of his ability to harness with such precision and balance, the disparate elements of this work. Opening with its funeral march, towering horns, (surprisingly off at moments) its "fever dream," as Mahler termed it, of a Scherzo, and the melting Adagietto that follows, the task is immense and Noseda was elegantly committed throughout.
 
 <figure data-type="image">
-![](/webhook-uploads/1528585546907/CH1385511_Original.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528585546907/CH1385511_Original.jpg)
 <figcaption>Conductor Gianandrea Noseda and violinist James Ehnes with the MET Orchestra, Carnegie Hall, 2018. Photo: Chris Lee.</figcaption>
 </figure>
 

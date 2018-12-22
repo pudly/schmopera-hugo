@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2018-05-26T17:25:00-04:00"
 lastmod = "2018-05-29T09:29:00-04:00"
 publishDate = "2018-05-27T18:16:00-04:00"
-short_description = "I have different favorite singers, especially for the roles that I am singing. For Traviata, it's the great Virginia Zeani or Anna Moffo, for Konstanze in Entführung it's Eda Moser. For her interpretation, energy on stage, and the passion that goes into the singing, it's of course Maria Callas."
+short_description = "I have different favorite singers, especially for the roles that I am singing. For Traviata, it&#039;s the great Virginia Zeani or Anna Moffo, for Konstanze in Entführung it&#039;s Eda Moser. For her interpretation, energy on stage, and the passion that goes into the singing, it&#039;s of course Maria Callas."
 slug = "talking-with-singers-adela-zaharia"
 title = "Talking with singers: Adela Zaharia"
 +++
@@ -53,7 +53,7 @@ The entire Operalia experience has been a dream for me. I honestly didn't realiz
 Thinking about it beforehand, I was extremely intimidated but when I met him after the second round, as we were talking about the repertoire we would choose for the third round, the first thing that struck me was how human, warm and open he is. After shaking hands with him and seeing what an amazing and generous person he is, after seeing the good and positive energy that surrounds him, I couldn't be nervous anymore during the coaching. I was just ready to take in all the tips and knowledge he had to share. I was like a sponge trying to assimilate as much as I could.
 
 <figure data-type="image">
-![](/webhook-uploads/1527459347591/HDAdela.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527459347591/HDAdela.jpg)
 <figcaption>Adela Zaharia, soprano. Photo: Kartal Karadegik.</figcaption>
 </figure>
 

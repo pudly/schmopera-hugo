@@ -4,7 +4,7 @@ date = "2015-07-28T13:59:00-04:00"
 lastmod = "2015-09-18T09:05:00-04:00"
 preamble = "You've met [The Friends of Gravity](/check-out-the-friends-of-gravity/), of Toronto's Indie Opera T.O. collective. Now, see them in action. [Next weekend](https://www.universe.com/events/the-seven-deadly-sins-by-kurt-weill-tickets-toronto-FXN47) on September 25th and 26th, The Friends debut with a sexy little number:\n\n\"Cabaret band, silent film, inverted morality & more, in a pocket-sized production of Kurt Weill and Bertolt Brecht’s *Die Sieben Todsünden* (*The Seven Deadly Sins*).\"\n\nShows are at 8pm at St. Bartholomew's Anglican Church, 509 Dundas St. E. For tickets and details, follow the box office links below. In the meantime, get to know The Friends themselves: soloist [Stephanie Conn](/scene/people/stephanie-conn/) (singing Anna) and conductor [Scott Gabriel](/scene/people/scott-gabriel/). \n\nHope to see you all at the show!"
 publishDate = "2015-09-18T08:52:00-04:00"
-short_description = "You've met The Friends of Gravity, of Toronto's Indie Opera T.O. collective. Now, see them in action. Next weekend on September 25th and 26th, The Friends present a sexy little number."
+short_description = "You&#039;ve met The Friends of Gravity, of Toronto&#039;s Indie Opera T.O. collective. Now, see them in action. Next weekend on September 25th and 26th, The Friends present a sexy little number."
 slug = "meet-the-friends-their-seven-deadly-sins"
 title = "Meet the Friends &amp; their Seven Deadly Sins"
 +++
@@ -24,7 +24,7 @@ I’ve listened to a lot of opera and experienced it from the pit, but I wouldn�
 **Stephanie**: Exactly, and many of them are quite young. But also, I had always noticed a greater number of younger folks attending opera than other classical genres, so it seems natural that there should be a lot of them wanting to make it, too.
 
 <figure data-type="image">
-![](/webhook-uploads/1442580066041/FoGRehearsal.jpg)<figcaption>Co-founders Stephanie Conn and Scott Gabriel in rehearsal.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442580066041/FoGRehearsal.jpg)<figcaption>Co-founders Stephanie Conn and Scott Gabriel in rehearsal.</figcaption>
 </figure>
 
 ### 3. What do you look for in young professional singers?
@@ -40,7 +40,7 @@ I’ve listened to a lot of opera and experienced it from the pit, but I wouldn�
 **Stephanie**: Many years ago as a CBC production assistant, I worked on a recording of Nic Gotham’s *Nigredo Hotel* (produced by Tapestry under Wayne Strongman, directed by Banuta Rubess). That blew my ideas of what opera could be out of the water and stayed with me for a long time.  As a singer, I owe so much to the master teacher Carol Forte, who is just amazing at helping singers to get out of their own way, vocally and emotionally! Every minute with her is a master class and she is lovely, too.
 
 <figure data-type="image">
-![](/webhook-uploads/1442580118481/Anna-stage-door-PS-film-grain.jpg)<figcaption>Stephanie Conn as Anna in *The Seven Deadly Sins*. Photo courtesy of The Friends of Gravity.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442580118481/Anna-stage-door-PS-film-grain.jpg)<figcaption>Stephanie Conn as Anna in *The Seven Deadly Sins*. Photo courtesy of The Friends of Gravity.</figcaption>
 </figure>
 
 ### 5. What do you get out of your work with The Friends of Gravity? What do you try to accomplish with each production?

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-10-24T09:50:00+01:00"
 lastmod = "2016-10-24T11:05:00+01:00"
 publishDate = "2016-10-24T10:31:00+01:00"
-short_description = "Barton's big smile is infectious, and her singing is totally satisfying. She left us heavy in our seats during Brahms' \"Unbewegte laue Luft,\" and Dvořák's \"Songs My Mother Taught Me,\" and she seemed to be making a good case for a definitive performance of Turina's Homenaje and the Sibelius songs. "
+short_description = "Barton&#039;s big smile is infectious, and her singing is totally satisfying. She left us heavy in our seats during Brahms&#039; &quot;Unbewegte laue Luft,&quot; and Dvořák&#039;s &quot;Songs My Mother Taught Me,&quot; and she seemed to be making a good case for a definitive performance of Turina&#039;s Homenaje and the Sibelius songs. "
 slug = "in-review-jamie-barton-at-wigmore-hall"
 title = "In review: Jamie Barton at Wigmore Hall"
 +++
@@ -23,5 +23,5 @@ It's notable that Barton never stepped into the world of opera for this recital 
 Surely, readers, you didn't think we wouldn't have a great time with Jamie Barton, did you?
 
 <figure data-type="image">
-![](/webhook-uploads/1477301175409/2016-10-24---Jenna-Jamie.jpg)<figcaption>Jamie Barton and Schmopera editor Jenna Douglas post-recital at Wigmore Hall. Photo by Jenna Douglas.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477301175409/2016-10-24---Jenna-Jamie.jpg)<figcaption>Jamie Barton and Schmopera editor Jenna Douglas post-recital at Wigmore Hall. Photo by Jenna Douglas.</figcaption>
 </figure>

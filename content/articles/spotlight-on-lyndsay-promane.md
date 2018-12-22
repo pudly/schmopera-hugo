@@ -4,7 +4,7 @@ date = "2017-06-05T20:59:00-06:00"
 lastmod = "2017-06-21T22:43:00-06:00"
 preamble = "Toronto-based mezzo-soprano [Lyndsay Promane](/scene/people/lyndsay-promane/) is an arresting presence on the opera stage, and a thoughtful concert artist. The UofT Opera graduate finds ease in traditional trouser roles like Hansel (*Hansel and Gretel*) and Bradamante (*Alcina*), and her recital programmes speak to a versatile, interested young singer.\n\nPromane heads this summer to New Brunswick for the St. Andrews-by-the-Sea Opera Workshop, led by in-demand Canadian voice teacher, [Wendy Nielsen](/wendy-nielsen-on-teaching-singing/). Ahead of her trip, she chats with us about her \"spirit animal, Oprah Winfrey\", and how she likes to \"sing your songs\"."
 publishDate = "2017-06-21T21:54:00-06:00"
-short_description = "\"Much like my spirit animal, Oprah Winfrey, I'm not a fan of surprises. Unfortunately, I chose the wrong career and the wrong planet since my favourite performances came my way when I was not expecting them at all. Saying 'yes' is powerful, and it's something I'm learning to do more often.\""
+short_description = "&quot;Much like my spirit animal, Oprah Winfrey, I&#039;m not a fan of surprises. Unfortunately, I chose the wrong career and the wrong planet since my favourite performances came my way when I was not expecting them at all. Saying &#039;yes&#039; is powerful, and it&#039;s something I&#039;m learning to do more often.&quot;"
 slug = "spotlight-on-lyndsay-promane"
 title = "Spotlight on: Lyndsay Promane"
 +++
@@ -22,7 +22,7 @@ Good singing means marrying technique with artistry in a way that they never get
 Sing your songs the way you hear them in your head. Find perspective and leave fear at home. Enjoy yourself. Be real. Be gentle with yourself, but be honest. Be kind. Just keep singing.
 
 <figure data-type="image">
-![](/webhook-uploads/1496718133577/2017-06-06---Promane---Brent-Calis-3.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496718133577/2017-06-06---Promane---Brent-Calis-3.jpg)
 <figcaption>Lyndsay Promane, mezzo-soprano. Photo: Brent Calis.</figcaption>
 </figure>
 

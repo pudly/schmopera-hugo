@@ -3,7 +3,7 @@ categories = "How-to"
 date = "2017-06-16T17:47:00-06:00"
 lastmod = "2017-06-19T21:52:00-06:00"
 publishDate = "2017-06-19T21:40:00-06:00"
-short_description = "That's where slowness comes in. It's the great magnifying glass, the exposer of weak spots. It's in slow practice that you find the crux of the problem, the ignored detail, the missing piece that makes the difference between a section of music that's hit-and-miss, and one that's consistent like a Swiss watch."
+short_description = "That&#039;s where slowness comes in. It&#039;s the great magnifying glass, the exposer of weak spots. It&#039;s in slow practice that you find the crux of the problem, the ignored detail, the missing piece that makes the difference between a section of music that&#039;s hit-and-miss, and one that&#039;s consistent like a Swiss watch."
 slug = "the-practice-tip-you-dont-want-to-hear"
 title = "The practice tip you don&#039;t want to hear"
 +++

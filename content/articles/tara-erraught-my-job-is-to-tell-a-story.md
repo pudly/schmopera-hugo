@@ -4,7 +4,7 @@ date = "2017-02-15T13:10:00-05:00"
 lastmod = "2018-04-05T11:44:00-04:00"
 preamble = "Before she dives in to the Komponist in Strauss' *Ariadne auf Naxos* in Munich, and Rosina in *Il barbiere di Siviglia* in Berlin, Irish mezzo-soprano [Tara Erraught](/scene/people/tara-erraught/) stop in London, to sing at Wigmore Hall in the Rosenblatt Recitals Series. On [**March 6, 7:30pm**](http://www.rosenblattrecitalseries.co.uk/recital.aspx?key=172), Erraught is joined by pianist [James Baillieu](/scene/people/james-baillieu/) and clarinettist Ulrich Pluta for a program of Schubert, Mozart, Rossini, and more obscure picks by Louis Spohr and and Franz Lachner. \n\nWe spoke with Erraught about how she gets into the trouser-role spirit, and the acute differences between singing opera, and giving a recital."
 publishDate = "2017-02-16T04:08:00-05:00"
-short_description = "\"I also adore singing Hansel, as I feel like I play exactly as my brother was when we were children, and let me tell you, boys have more fun! (They don't care about keeping their clothes clean, or sitting up straight, or how their hair looks... they just eat, play and are merry!)\""
+short_description = "&quot;I also adore singing Hansel, as I feel like I play exactly as my brother was when we were children, and let me tell you, boys have more fun! (They don&#039;t care about keeping their clothes clean, or sitting up straight, or how their hair looks... they just eat, play and are merry!)&quot;"
 slug = "tara-erraught-my-job-is-to-tell-a-story"
 title = "Tara Erraught: &quot;My job is to tell a story.&quot;"
 +++
@@ -22,7 +22,7 @@ I had the pleasure last season to debut the role of Susanna in *Le Nozze di Figa
 I usually try and wear flat shoes during the entire rehearsal period. Whether at rehearsals or privately. I do a lot of yoga to loosen my hips and shoulders, and I sit differently, I am very careful not to sit and directly cross my legs...little habitual things. 
 
 <figure data-type="image">
-![](/webhook-uploads/1487182821711/2017-02-16---Tara_Erraught.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487182821711/2017-02-16---Tara_Erraught.jpg)
 <figcaption>Tara Erraught, mezzo-soprano. Photo courtesy of IMG Artists.</figcaption>
 </figure>
 

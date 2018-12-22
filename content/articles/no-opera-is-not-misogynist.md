@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2017-07-21T11:54:00-04:00"
 lastmod = "2017-07-24T13:24:00-04:00"
 publishDate = "2017-07-24T13:08:00-04:00"
-short_description = "Certainly, if you look at opera's plots in a vacuum, perhaps you could find evidence of misogyny. But it would entirely miss the point of opera - art, really - to ignore the opinions of its composers and librettists."
+short_description = "Certainly, if you look at opera&#039;s plots in a vacuum, perhaps you could find evidence of misogyny. But it would entirely miss the point of opera - art, really - to ignore the opinions of its composers and librettists."
 slug = "no-opera-is-not-misogynist"
 title = "No, opera is not misogynist"
 +++

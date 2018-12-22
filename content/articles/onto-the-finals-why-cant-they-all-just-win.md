@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2018-06-05T23:45:00-04:00"
 lastmod = "2018-06-05T23:45:00-04:00"
 publishDate = "2018-06-05T23:45:00-04:00"
-short_description = "I suppose that's what happened as the CMIM Aria finalists were announced. I made a few private predictions of my own, and I was largely on the same page as the jury. But I was dismayed to see two singers left out of the final round, perhaps for swinging too far one way or the other."
+short_description = "I suppose that&#039;s what happened as the CMIM Aria finalists were announced. I made a few private predictions of my own, and I was largely on the same page as the jury. But I was dismayed to see two singers left out of the final round, perhaps for swinging too far one way or the other."
 slug = "onto-the-finals-why-cant-they-all-just-win"
 title = "Onto the finals: why can&#039;t they all just win?"
 +++
@@ -17,7 +17,7 @@ When 12 great singers compete for 6 spots in the CMIM finals, it can become an e
 Does a jury value vocal precision, excellent technique, and error-free execution? Or do they give a nod to storytelling, and the art of "leaving it all out on the stage"? 
 
 <figure data-type="image">
-![](/webhook-uploads/1528256522791/AriaSemiFinalsIII-3.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528256522791/AriaSemiFinalsIII-3.jpg)
 <figcaption>The jury of the Concours musical international de Montréal, 2018. Photo: Tam Lan Truong Photography.</figcaption>
 </figure>
 
@@ -28,14 +28,14 @@ Sometimes these options can come at the expense of each other. Precision can tak
 I suppose that's what happened as the CMIM Aria finalists were announced. I made a few private predictions of my own, and I was largely on the same page as the jury. But I was dismayed to see two singers left out of the final round, perhaps for swinging too far one way or the other.
 
 <figure data-type="image">
-![](/webhook-uploads/1528256448309/AriaSemiFinalsII-4.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528256448309/AriaSemiFinalsII-4.jpg)
 <figcaption>Tenor Petr Nekoranec in the Aria Semifinals of the Concours musical international de Montréal, 2018. Photo: Tam Lan Truong Photography.</figcaption>
 </figure>
 
 Czech tenor Petr Nekoranec, I thought, earned himself a spot in the final 6 with his crystal-clear vocal cut in the Maison symphonique, and his proudly ringing high Cs (and a D for good measure). And Canadian-Tunisian mezzo Rihab Chaieb put everything into her program, which went from the ecstatic exhale of the Composer's Aria from *Ariadne auf Naxos* to the layered scena that is Charlotte's Letter Scene from *Werther*. 
 
 <figure data-type="image">
-![](/webhook-uploads/1528256475105/AriaSemiFinalsIII-1.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528256475105/AriaSemiFinalsIII-1.jpg)
 <figcaption>Mezzo-soprano Rihab Chaieb in the Aria Semifinals of the Concours musical international de Montréal, 2018. Photo: Tam Lan Truong Photography.</figcaption>
 </figure>
 

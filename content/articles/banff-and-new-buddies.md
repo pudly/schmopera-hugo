@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2014-07-07T10:00:00+01:00"
 lastmod = "2016-11-27T21:33:00+00:00"
 publishDate = "2014-07-07T10:00:00+01:00"
-short_description = "Well, it's happening. Yesterday, the whole cast and crew of #UncleJohn moved into their new digs at the stunning Banff Centre. It was a day of informally bumping into each other over meals and self-guided orientations. I caught Leporello going over his patter outside Le café, and talked business over beer with maestro Hargreaves."
+short_description = "Well, it&#039;s happening. Yesterday, the whole cast and crew of #UncleJohn moved into their new digs at the stunning Banff Centre. It was a day of informally bumping into each other over meals and self-guided orientations. I caught Leporello going over his patter outside Le café, and talked business over beer with maestro Hargreaves."
 slug = "banff-and-new-buddies"
 title = "Banff and new buddies"
 +++

@@ -4,7 +4,7 @@ date = "2017-07-20T19:14:00-04:00"
 lastmod = "2017-07-21T10:40:00-04:00"
 preamble = "American soprano [Brenda Rae](/scene/people/brenda-rae/) is used to spending her time high above the staff; currently, she's pairing high singing with the heights of Santa Fe, as she takes on the title role of [*Lucia di Lammermoor* at The Santa Fe Opera](https://www.santafeopera.org/operas-and-ticketing/lucia-di-lammermoor).\n\nWe first heard Rae as [Lulu at English National Opera](/in-review-lulu-at-eno/) in 2016, so it was a treat to chat with her about Mad Scenes, women who aren't weak, and one-of-a-kind performance spaces."
 publishDate = "2017-07-21T10:27:00-04:00"
-short_description = "\"For me, the key to a great Mad Scene is freedom. It's good to have parameters, but when there's freedom, I can do something unexpected which I think keeps the scene really fresh, and lends to the 'mad' quality of it! Musically, dynamics are key, and really help to keep the audience on the edge of their seats.\""
+short_description = "&quot;For me, the key to a great Mad Scene is freedom. It&#039;s good to have parameters, but when there&#039;s freedom, I can do something unexpected which I think keeps the scene really fresh, and lends to the &#039;mad&#039; quality of it! Musically, dynamics are key, and really help to keep the audience on the edge of their seats.&quot;"
 slug = "talking-with-singers-brenda-rae"
 title = "Talking with singers: Brenda Rae"
 +++
@@ -16,7 +16,7 @@ Honestly, I don't know of any common misconceptions about the character of Lucia
 It takes some strength and bravery to continue her relationship with a man who's in the "wrong" political party, and the only reason she's convinced to marry Arturo is because her brother tricks her (as well as Raimondo pressuring her by bringing up her dead family, especially her mother). Lucia is certainly a victim, but she's not weak in my opinion.
 
 <figure data-type="image">
-![](/webhook-uploads/1500593012638/2017-07-21---Howard---Rae-Lucia2.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500593012638/2017-07-21---Howard---Rae-Lucia2.jpg)
 <figcaption>Lucia (Brenda Rae) in *Lucia di Lammermoor*. Photo: Ken Howard for The Santa Fe Opera, 2017.</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ It takes some strength and bravery to continue her relationship with a man who's
 For me, the key to a great Mad Scene is freedom. It's good to have parameters, but when there's freedom, I can do something unexpected which I think keeps the scene really fresh, and lends to the "mad" quality of it! Musically, dynamics are key, and really help to keep the audience on the edge of their seats. I performed the *Lucia* mad scene in a master class once, and the teacher (Regina Resnik) told me not to be afraid of silence, to really take time on fermatas, and I've also tried to take that to heart!
 
 <figure data-type="image">
-![](/webhook-uploads/1500593020030/2017-07-21---Howard---Rae---Lucia.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500593020030/2017-07-21---Howard---Rae---Lucia.jpg)
 <figcaption>Lucia (Brenda Rae) in *Lucia di Lammermoor*. Photo: Ken Howard for The Santa Fe Opera, 2017.</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ Where to begin? It starts way before rehearsals even commence. There's such a la
 Also, there's simply no other theater like it. The beauty of the theater and its surroundings are really breathtaking, plus sometimes you get some extra drama with the weather, since it's an outdoor theater (although there is a roof, thank goodness)! I was surprised by how good the acoustics are in the theater, since there are no walls for the sound to bounce off of. 
 
 <figure data-type="image">
-![](/webhook-uploads/1500593028164/2017-07-21---Hoebermann---Rae---backlit.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500593028164/2017-07-21---Hoebermann---Rae---backlit.jpg)
 <figcaption>Brenda Rae, soprano. Photo by Kristin Hoebermann.</figcaption>
 </figure>
 

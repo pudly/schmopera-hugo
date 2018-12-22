@@ -3,7 +3,7 @@ categories = "Review"
 date = "2015-05-31T19:45:00-04:00"
 lastmod = "2015-06-02T08:52:00-04:00"
 publishDate = "2015-06-01T13:17:00-04:00"
-short_description = "As part of Sing! - The Toronto Vocal Arts Festival, I heard mezzo Kristin Hoff perform the one-woman vocal feat by Ana Sokolovic, Love Songs. The work was commissioned by Queen of Puddings Music Theatre (premiered in 2009 by Lauren Phillips), and it's a compilation of love poetry in over 100 hundred languages, all sung a cappella. "
+short_description = "As part of Sing! - The Toronto Vocal Arts Festival, I heard mezzo Kristin Hoff perform the one-woman vocal feat by Ana Sokolovic, Love Songs. The work was commissioned by Queen of Puddings Music Theatre (premiered in 2009 by Lauren Phillips), and it&#039;s a compilation of love poetry in over 100 hundred languages, all sung a cappella. "
 slug = "kristin-hoffs-love-songs"
 title = "Kristin Hoff&#039;s Love Songs"
 +++

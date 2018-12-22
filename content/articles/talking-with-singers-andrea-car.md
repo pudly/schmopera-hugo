@@ -4,7 +4,7 @@ date = "2018-01-29T21:24:00-05:00"
 lastmod = "2018-01-30T10:28:00-05:00"
 preamble = "Following his Royal Opera House debut in 2013, Italian tenor [Andrea Carè](/scene/people/andrea-care/) brings his signature Don José back to Covent Garden next month, starring opposite Gaëlle Arquez in Barrie Kosky's \"intense\" production of *Carmen*.\n\nIt was a treat to chat with Carè about sharing the stage with superstar colleagues, and the value of trusting one's instinct."
 publishDate = "2018-01-30T10:28:00-05:00"
-short_description = "\"I sincerely believe there’s not only one reason. I myself never decided or planned to sing professionally; I never thought I would manage my developing in a way that I could make this form of art my job.\""
+short_description = "&quot;I sincerely believe there’s not only one reason. I myself never decided or planned to sing professionally; I never thought I would manage my developing in a way that I could make this form of art my job.&quot;"
 slug = "talking-with-singers-andrea-car"
 title = "Talking with singers: Andrea Carè"
 +++
@@ -22,7 +22,7 @@ I see Don José as a passionate man, surely too passionate. But I also see him a
 Also, circumstances and environment can enormously affect enormously reactions and our perspective of things around us. I think that Don José is not a complete victim of his fate, and he is not an evil man. I think he is a fragile human being that happened to meet the wrong group of people in the wrong moment in his life.
 
 <figure data-type="image">
-![](/webhook-uploads/1517278903656/Andrea-Care%CC%80_-pc-Juan-Carranza.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517278903656/Andrea-Care%CC%80_-pc-Juan-Carranza.jpg)
 <figcaption>Andrea Carè, tenor. Photo: Juan Carranza.</figcaption>
 </figure>
 

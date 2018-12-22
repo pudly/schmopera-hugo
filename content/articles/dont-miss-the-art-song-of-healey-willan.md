@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-11-08T12:38:00+00:00"
 lastmod = "2016-11-12T12:29:00+00:00"
 publishDate = "2016-11-12T12:29:00+00:00"
-short_description = "Continuing their history of performance and research of Canadian composers, the Canadian Art Song Project has transcribed and edited several of Willan's songs, previously available only in manuscript in the national archives in Ottawa; the programme also includes songs that have been out of publication for over 10 years."
+short_description = "Continuing their history of performance and research of Canadian composers, the Canadian Art Song Project has transcribed and edited several of Willan&#039;s songs, previously available only in manuscript in the national archives in Ottawa; the programme also includes songs that have been out of publication for over 10 years."
 slug = "dont-miss-the-art-song-of-healey-willan"
 title = "Don&#039;t miss: The Art Song of Healey Willan"
 +++

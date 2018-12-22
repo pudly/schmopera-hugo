@@ -3,7 +3,7 @@ categories = "News"
 date = "2017-06-02T08:35:00-04:00"
 lastmod = "2017-06-02T10:09:00-04:00"
 publishDate = "2017-06-02T10:09:00-04:00"
-short_description = "The documentary will include interview footage, clips of him singing, and Howard and his team will have full access to the Pavarotti family archives. \"He has been vastly documented and recorded,\" says Howard, \"enough that even though he's not with us, we’re going to be able to allow Pavarotti to tell his own story.\""
+short_description = "The documentary will include interview footage, clips of him singing, and Howard and his team will have full access to the Pavarotti family archives. &quot;He has been vastly documented and recorded,&quot; says Howard, &quot;enough that even though he&#039;s not with us, we’re going to be able to allow Pavarotti to tell his own story.&quot;"
 slug = "ron-howard-to-direct-new-pavarotti-documentary"
 title = "Ron Howard to direct new Pavarotti documentary"
 +++
@@ -19,7 +19,7 @@ John Goodman? Maybe, but he doesn't really have that Italian flair. Jack Black c
 Weirdly, if we're just going for someone to play young Pavarotti, Dan Levy may just be the man for the job.
 
 <figure data-type="image">
-![](/webhook-uploads/1496409903193/dan_schmitt_creek.jpg)<figcaption>Dan Levy. Photo via out.com.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496409903193/dan_schmitt_creek.jpg)<figcaption>Dan Levy. Photo via out.com.</figcaption>
 </figure>
 
 Anyway. We're excited about the news. 

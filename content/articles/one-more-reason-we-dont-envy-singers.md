@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2016-05-17T17:29:00+01:00"
 lastmod = "2016-05-19T13:39:00+01:00"
 publishDate = "2016-05-18T23:34:00+01:00"
-short_description = "The story of Bartoli's Bernstein, plus Netrebko's evaded Norma, combine in an example of one big plight of opera singers today: they're damned if they do, and they're damned if they don't. Bartoli did; she took a role that seemed an odd choice, and plenty of unfavourable reviews of McKinley's West Side Story seemed to have an undercurrent of \"I told you so\". She should have shown more self-awareness, more respect for the demands of Bernstein's score, right?"
+short_description = "The story of Bartoli&#039;s Bernstein, plus Netrebko&#039;s evaded Norma, combine in an example of one big plight of opera singers today: they&#039;re damned if they do, and they&#039;re damned if they don&#039;t. Bartoli did; she took a role that seemed an odd choice, and plenty of unfavourable reviews of McKinley&#039;s West Side Story seemed to have an undercurrent of &quot;I told you so&quot;. She should have shown more self-awareness, more respect for the demands of Bernstein&#039;s score, right?"
 slug = "one-more-reason-we-dont-envy-singers"
 title = "One more reason we don&#039;t envy singers"
 +++

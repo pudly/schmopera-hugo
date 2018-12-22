@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-05-18T20:15:00-04:00"
 lastmod = "2017-05-23T14:48:00-04:00"
 publishDate = "2017-05-23T14:35:00-04:00"
-short_description = "Sokolović's work brims over with imagination of sound. In setting the human voice, she never seems to run out of ideas, and with this new cycle, she brought out audible reactions of delight from the audience."
+short_description = "Sokolović&#039;s work brims over with imagination of sound. In setting the human voice, she never seems to run out of ideas, and with this new cycle, she brought out audible reactions of delight from the audience."
 slug = "good-first-impressions-casps-latest-commission-by-ana-sokolovi"
 title = "Good first impressions: CASP&#039;s latest commission by Ana Sokolović"
 +++
@@ -17,7 +17,7 @@ The world premiere took place in the Amphitheatre as part of the Canadian Opera 
 Sokolović's work brims over with imagination of sound. In setting the human voice, she never seems to run out of ideas, and with this new cycle, she brought out audible reactions of delight from the audience.
 
 <figure data-type="image">
-![](/webhook-uploads/1495564486990/2017-05-23---DSC03320.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495564486990/2017-05-23---DSC03320.jpg)
 <figcaption>(l-r) Aaron Sheppard, Emily D’Angelo, Danika Lorèn and Bruno Roy in the Richard Bradshaw Amphitheatre, 2017.</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ pleasing, feminine David Attenborough.
 The poetry in the cycle seemed to comment on Canadian landscapes, on the odd social interactions of humans, and on language itself as a fun toy. Sokolović added meaning of her own; the result had the audience rapt, agreeing with the composer's personal lament that she had not known the work of all 12 poets earlier.
 
 <figure data-type="image">
-![](/webhook-uploads/1495564506607/2017-05-23---DSC03305.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495564506607/2017-05-23---DSC03305.jpg)
 <figcaption>(l-r) Liz Upchurch, Danika Lorèn and Emily D’Angelo in the Richard Bradshaw Amphitheatre, 2017.</figcaption>
 </figure>
 

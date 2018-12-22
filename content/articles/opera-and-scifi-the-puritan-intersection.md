@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2016-12-06T09:09:00+00:00"
 lastmod = "2016-12-06T12:01:00+00:00"
 publishDate = "2016-12-06T10:49:00+00:00"
-short_description = "The great, classic sci-fi isn't about aliens or lasers or teleportation; it's about people and the things we go through in any environment. Similarly, the great, classic operas aren't about singing for its own sake; they're about those same people and those same environments."
+short_description = "The great, classic sci-fi isn&#039;t about aliens or lasers or teleportation; it&#039;s about people and the things we go through in any environment. Similarly, the great, classic operas aren&#039;t about singing for its own sake; they&#039;re about those same people and those same environments."
 slug = "opera-and-scifi-the-puritan-intersection"
 title = "Opera and sci-fi: the puritan intersection"
 +++

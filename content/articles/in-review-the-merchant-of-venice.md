@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-07-21T08:50:00-04:00"
 lastmod = "2017-07-27T10:06:00-04:00"
 publishDate = "2017-07-26T23:04:00-04:00"
-short_description = "At the end, we were left feeling like this was too big a piece for Welsh National Opera to chew on. With most of the cast underwhelming and the orchestra's lack of musical interpretation, it wasn't easy to sit through. We're glad to feel uncomfortable in an opera because of sensitive issues is might broach, or because of a controversy it might cause. But in this case, we were just wondering if they would make it to the end."
+short_description = "At the end, we were left feeling like this was too big a piece for Welsh National Opera to chew on. With most of the cast underwhelming and the orchestra&#039;s lack of musical interpretation, it wasn&#039;t easy to sit through. We&#039;re glad to feel uncomfortable in an opera because of sensitive issues is might broach, or because of a controversy it might cause. But in this case, we were just wondering if they would make it to the end."
 slug = "in-review-the-merchant-of-venice"
 title = "In review: The Merchant of Venice"
 +++

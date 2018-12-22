@@ -4,7 +4,7 @@ date = "2017-04-02T13:13:00+01:00"
 lastmod = "2017-04-11T11:49:00+01:00"
 preamble = "Last year, we brought you some tips on opera-insider jargon, and how to speak the industry shorthand. [Part I](/opera-shorthand-how-to-speak-like-an-insider/) focused on the names of operas and their nicknames, and in part II, we're talking rehearsals and types of voices. So, if you're hoping to infiltrate opening-night opera parties, or just keep up with the opera talk with your singer friends, we can help you with the shortened lingo.\n\n"
 publishDate = "2017-04-11T11:21:00+01:00"
-short_description = "Last year, we brought you some tips on opera-insider jargon, and how to speak the industry shorthand. Part I focused on the names of operas and their nicknames, and in part II, we're talking rehearsals and types of voices. So, if you're hoping to infiltrate opening-night opera parties, or just keep up with the opera talk with your singer friends, we can help you with the shortened lingo."
+short_description = "Last year, we brought you some tips on opera-insider jargon, and how to speak the industry shorthand. Part I focused on the names of operas and their nicknames, and in part II, we&#039;re talking rehearsals and types of voices. So, if you&#039;re hoping to infiltrate opening-night opera parties, or just keep up with the opera talk with your singer friends, we can help you with the shortened lingo."
 slug = "opera-shorthand-part-ii-proben-fcher"
 title = "Opera shorthand, part II: Proben &amp; Fächer"
 +++

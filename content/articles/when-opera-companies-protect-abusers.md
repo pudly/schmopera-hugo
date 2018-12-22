@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2017-12-19T21:52:00-05:00"
 lastmod = "2017-12-21T14:55:00-05:00"
 publishDate = "2017-12-19T21:52:00-05:00"
-short_description = "It is irresponsible and dangerous to assume that a criminal's colleagues are unaware or indifferent to such serious offenses. This attitude needs to be addressed. An entire art form is at stake."
+short_description = "It is irresponsible and dangerous to assume that a criminal&#039;s colleagues are unaware or indifferent to such serious offenses. This attitude needs to be addressed. An entire art form is at stake."
 slug = "when-opera-companies-protect-abusers"
 title = "When opera companies protect abusers"
 +++

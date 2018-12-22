@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2014-05-09T10:11:00-04:00"
 lastmod = "2015-04-23T20:19:00-04:00"
 publishDate = "2014-05-09T10:11:00-04:00"
-short_description = "Tomorrow night, Toronto-based tenor Ernesto Ramírez will step into the title role of Donizetti's Roberto Devereux, playing now at the Four Seasons Centre. Italian tenor Giuseppe Filianoti was scheduled to sing the run, but he withdrew from the first few performances, and the Canadian Opera Company brought in American tenor Leonardo Capalbo to step in."
+short_description = "Tomorrow night, Toronto-based tenor Ernesto Ramírez will step into the title role of Donizetti&#039;s Roberto Devereux, playing now at the Four Seasons Centre. Italian tenor Giuseppe Filianoti was scheduled to sing the run, but he withdrew from the first few performances, and the Canadian Opera Company brought in American tenor Leonardo Capalbo to step in."
 slug = "ramrez-youre-up"
 title = "Ramírez, you&#039;re up."
 +++

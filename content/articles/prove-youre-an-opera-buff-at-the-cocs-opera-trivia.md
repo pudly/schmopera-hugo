@@ -3,7 +3,7 @@ categories = "News"
 date = "2017-01-19T21:49:00+00:00"
 lastmod = "2017-01-22T17:25:00+00:00"
 publishDate = "2017-01-22T15:45:00+00:00"
-short_description = "Opera Trivia is part of the COC's ongoing Opera Insights programs, which offer conversations and events to enhance your opera-going experience at the Four Seasons Centre. Bring your friends, show off your impressive niche intellect, and learn some new fascinating opera factoids. All the programs, including Opera Trivia, are free to attend, but it's highly recommended to register online."
+short_description = "Opera Trivia is part of the COC&#039;s ongoing Opera Insights programs, which offer conversations and events to enhance your opera-going experience at the Four Seasons Centre. Bring your friends, show off your impressive niche intellect, and learn some new fascinating opera factoids. All the programs, including Opera Trivia, are free to attend, but it&#039;s highly recommended to register online."
 slug = "prove-youre-an-opera-buff-at-the-cocs-opera-trivia"
 title = "Prove you&#039;re an opera buff at the COC&#039;s Opera Trivia"
 +++

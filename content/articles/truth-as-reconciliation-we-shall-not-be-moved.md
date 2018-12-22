@@ -4,7 +4,7 @@ date = "2017-08-20T11:19:00-04:00"
 lastmod = "2017-08-21T13:23:00-04:00"
 preamble = "Coming to [Opera Philadelphia](/scene/companies/opera-philadelphia/)'s O17 Festival this fall is the world premiere of [*We Shall Not Be Moved*](https://www.operaphila.org/whats-on/on-stage-2017-2018/we-shall-not-be-moved/), **September 16-24**. Created by composer Daniel Bernard Roumain and librettist Marc Bamuthi Joseph, and directed by Bill T. Jones, *We Shall Not Be Moved* tells the story of five teens who find shelter in the abandoned West Philadelphia building that occupies the same spot as the [MOVE organization](https://en.wikipedia.org/wiki/MOVE)'s headquarters, home of the 1985 police standoff that resulted in the destruction of a neighbourhood and 11 deaths (including 5 children).\n\nDaniel Bernard Roumain's work is a \"brooding, often joyful score filled with place, purpose, and possibility\", and combines classical singing with R&B, jazz, and spoken word. We spoke with the composer about *We Shall Not Be Moved*, and its connection with a piece of American history in Philadelphia."
 publishDate = "2017-08-21T12:03:00-04:00"
-short_description = "\"As an artist, I am most concerned with offering an antidote to the ills of the world within our communities. As a Haitian-American composer, I am always wanting to create music that speaks to multiple, overlapping cultures, and combine sounds that might, upon an initial hearing, appear to conflict, and upon a deeper listening, offers resolution and beauty.\""
+short_description = "&quot;As an artist, I am most concerned with offering an antidote to the ills of the world within our communities. As a Haitian-American composer, I am always wanting to create music that speaks to multiple, overlapping cultures, and combine sounds that might, upon an initial hearing, appear to conflict, and upon a deeper listening, offers resolution and beauty.&quot;"
 slug = "truth-as-reconciliation-we-shall-not-be-moved"
 title = "&quot;Truth, as reconciliation&quot;: We Shall Not Be Moved"
 +++
@@ -26,7 +26,7 @@ Our brilliant director, Bill T. Jones, asked probing questions that demanded cle
 I think so. 
 
 <figure data-type="image">
-![](/webhook-uploads/1503243543655/2017-08-20---we-shall-not-be-moved-001.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503243543655/2017-08-20---we-shall-not-be-moved-001.jpg)
 <figcaption>John Little (tenor Daniel Shirley), John Blue (countertenor John Holiday), John
 Mack (baritone Adam Richardson), Un/Sung (spoken word artist Lauren Whitehead), and John Henry (bassbaritone Aubrey Allicock) in front of the boarded-up Osage Avenue home on the site of the 1985 MOVE bombing in Philadelphia. Photograph by Dominic M. Mercier for Opera Philadelphia.</figcaption>
 </figure>
@@ -40,7 +40,7 @@ My music is an amalgam of all the music I listen to and love. From Satie to Sade
 For me, Marc's words are full of music. I never have to imagine or find or even "set" his words to music. His hybrid opera, in which spoken-word and spoken-word rhythms are married to operatic singing, felt and feels organic, natural, and frankly, timely. Marc and I, working closely with Bill T. Jones, have created an opera full of a world of ideas, sound, and intrigue. 
 
 <figure data-type="image">
-![](/webhook-uploads/1503243553452/2017-08-20---we-shall-not-be-moved-002.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503243553452/2017-08-20---we-shall-not-be-moved-002.jpg)
 <figcaption>Composer Daniel Bernard Roumain, director Bill T. Jones, and librettist Marc
 Bamuthi Joseph. Photograph by Dave DiRentis for Opera Philadelphia.</figcaption>
 </figure>

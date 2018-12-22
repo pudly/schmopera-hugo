@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-05-29T20:56:00+01:00"
 lastmod = "2016-05-31T09:53:00+01:00"
 publishDate = "2016-05-30T21:32:00+01:00"
-short_description = "Farnsworth was the perfect surreal emcee-type. With direction by Martin Berry, Farnsworth's extraordinary character was layers thick, at once a gleeful child, enamoured with the music around him and the tales he tells, and an unpredictable psychopath. His vocal gymnastics were paired with delightful virtuosity on some of the toy instruments that Grüber includes in his scoring, like slide whistles and kazoos."
+short_description = "Farnsworth was the perfect surreal emcee-type. With direction by Martin Berry, Farnsworth&#039;s extraordinary character was layers thick, at once a gleeful child, enamoured with the music around him and the tales he tells, and an unpredictable psychopath. His vocal gymnastics were paired with delightful virtuosity on some of the toy instruments that Grüber includes in his scoring, like slide whistles and kazoos."
 slug = "aurora-orchestra-fun-frankenstein"
 title = "Aurora Orchestra, fun, &amp; Frankenstein!!"
 +++
@@ -17,7 +17,7 @@ There's a trope in various mythologies about how it's a horrific crime to give h
 It's worth remembering that the full title of Mary Shelley's 1818 book is *Frankenstein; or, the Modern Prometheus*. In Grüber's work, the chansonnier takes listeners through various chapters, each a mysterious, storytelling-on-steroids look at various pushers of human limitations. Along with Dr. Frankenstein, we heard weird tales of Dracula, Goldfinger of James Bond lore, John Wayne, Superman, Batman & Robin, and werewolves. 
 
 <figure data-type="image">
-![](/webhook-uploads/1464635504474/2016-05-31---NR-16-05-20-069.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464635504474/2016-05-31---NR-16-05-20-069.jpg)
 <figcaption>Marcus Farnsworth in rehearsal with the Aurora Orchestra. Photo: Nick Rutter.</figcaption>
 </figure>
 
@@ -26,14 +26,14 @@ Baritone [Marcus Farnsworth](/scene/people/marcus-farnsworth/) joined the Aurora
 The Aurora Orchestra joined in the fun, too. They wielded noisemakers, toy pianos, and whirley tubes (those singing tube-shaped instruments that make sound when you spin them around in the air above your head); the sights were as bizarre as the sounds, and the whole effect spoke both to the child and the lover of the weird within us all. 
 
 <figure data-type="image">
-![](/webhook-uploads/1464635537917/2016-05-31---NR-16-05-20-316.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464635537917/2016-05-31---NR-16-05-20-316.jpg)
 <figcaption>Nicholas Collon and Marcus Farnsworth in rehearsal with the Aurora Orchestra. Photo: Nick Rutter.</figcaption>
 </figure>
 
 *Playing with Fire* was our first chance to hear Aurora Orchestra, and they were refreshing not only because of Grüber's music. They're a comparably young group of players, and when possible, most of them stood while they played (excluding, forgivably, the cellists); they let the music speak for itself, without forgetting that they were putting on a show and that being a part of an orchestra could be *fun*. The intimate setting of this programme meant that each listener experienced a slightly different performance, aurally and visually; the orchestra seemed to be working *with* the elements of live music, pairing their collective skill with their individual personalities.
 
 <figure data-type="image">
-![](/webhook-uploads/1464635574241/2016-05-31---NR-16-05-20-348.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464635574241/2016-05-31---NR-16-05-20-348.jpg)
 <figcaption>Photo: Nick Rutter.</figcaption>
 </figure>
 

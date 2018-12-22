@@ -14,7 +14,7 @@ title = "4 secrets for better high notes"
 I get the logic. Singers want to tread lightly before expounding energy on a high note, but doing this often has the opposite effect. Here's a small section of Don José's aria from *Carmen*:
 
 <figure data-type="image">
-![](/webhook-uploads/1434318209409/Jose2.png)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434318209409/Jose2.png)
 </figure>
 
 At "je m'enivrais," the instinct can be to save steam; the result can be a mix of crooning with an explosive high A-flat. It doesn't have to be like that, but I understand that it takes a lot of trust to sing through the phrase. It can feel nonchalant, not energized enough; one of the universal things I've learned as a coach is that sound begets sound. Without air moving before a high note, it's probably similar to try to drive fast by going from parked to slamming on the gas. It's not sustainable, and it's not pretty. A tenor who trusts that finding optimal vowels and placement for "je m'eni..." will have the tools to find the "...vrais" that he wants.
@@ -24,7 +24,7 @@ At "je m'enivrais," the instinct can be to save steam; the result can be a mix o
 Understandably, singers put a lot of concentration into that high A or C or F; yet, they don’t always *sing* the notes leading to and from it. When I say they don’t sing, I mean just that; the resonant space has changed, the vibrato disappears, and the body isn’t engaged in the same way. In short, the legato is gone. I think singers do this harmlessly, out of a good place; they’re thinking about that high note, because it’s not easy. Here’s an example:
 
 <figure data-type="image">
-![](/webhook-uploads/1434316695229/Tosca.png)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434316695229/Tosca.png)
 </figure>
 
 In “Vissi d’arte,” Tosca starts harmlessly with short phrases in her low-to-middle range; seeing that high A-flat suddenly appear can tempt a soprano into zeroing in on that one note. The slow descent of this phrase suddenly becomes more of an attack and decay, and instead of the voice carrying through all four notes unabashedly, the A-flat gets lots of spotlight, and the lower notes become less important. Add to that the vowels [e] and [i] on the way down, and that’s when the singing stops. 
@@ -36,7 +36,7 @@ In the case of Tosca, she has to return to that A-flat shortly after the first o
 More exemplary Puccini, from *La bohème*:
 
 <figure data-type="image">
-![](/webhook-uploads/1434317236266/Boheme.png)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434317236266/Boheme.png)
 </figure>
 
 Traditionally, there's a fermata added above the option (hah!) high C, and the tenors I like usually portamento down to the B-flat, which is wise from technical and musical perspectives. Basic music theory tells us that the C is a passing tone leading to the B-flat. Sure, I want the big grand high C, but it's about *singing* the B-flat. A portamento is a good way to track the consistency of your sound production between the two notes; the real money of this phrase is in guaranteeing enough resonant room for the B-flat. The C is all foreplay.
@@ -44,7 +44,7 @@ Traditionally, there's a fermata added above the option (hah!) high C, and the t
 Some tenors will kill me when I say this, but the same rule applies to things like Tonio’s aria from *La fille du régiment*:
 
 <figure data-type="image">
-![](/webhook-uploads/1434316687417/Tonio.png)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434316687417/Tonio.png)
 </figure>
 
 Look. If you’ve got that many high Cs, that’s not something that needs extra help from me. Congrats! I do know, though, that this aria is a lot less tiring if that passing A on the way down gets some attention too. This is a tricky example; on the one hand, a passage like this is not one in which to add weight to the voice, by asking them to “make sure you sing every note!” On the other hand, too much relaxation (dropping, really) between extremely high singing has a quickly diminishing return when it comes to sound quality of your high notes. I think it comes down to this: that passing A I’m talking about, if you were to stop on that note mid-bar and sustain it, would it be free to vibrate?
@@ -54,7 +54,7 @@ Look. If you’ve got that many high Cs, that’s not something that needs extra
 Baritone example, coming right up. From *Rigoletto*:
 
 <figure data-type="image">
-![](/webhook-uploads/1434316723982/Rigoletto.png)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434316723982/Rigoletto.png)
 </figure>
 
 Passaggio, hello! Like the other excerpts, the point is to leave room for every note, no matter how small and harmless it may look. This aria is a good example of how smart technique can feel counterproductive; Verdi's so great at writing for the voice that he uses technical needs to create beauty. Relentless legato, enjoying vowels on every note, gives that elastic, visceral vocal sound to which humans constantly respond. 

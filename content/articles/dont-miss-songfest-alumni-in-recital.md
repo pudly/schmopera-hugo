@@ -3,7 +3,7 @@ categories = "News"
 date = "2017-11-27T18:04:00-05:00"
 lastmod = "2017-11-27T18:55:00-05:00"
 publishDate = "2017-11-27T18:55:00-05:00"
-short_description = "The programme is a fantastic mix of top-shelf art song by Poulenc, Schubert, Zemlinsky, Marx, Turina, and Berg, alongside works by SongFest featured composers Tom Cipullo and Jake Heggie. Plus, there are a few tastes of the artists' operatic work, including the delicious final trio from Der Rosenkavalier."
+short_description = "The programme is a fantastic mix of top-shelf art song by Poulenc, Schubert, Zemlinsky, Marx, Turina, and Berg, alongside works by SongFest featured composers Tom Cipullo and Jake Heggie. Plus, there are a few tastes of the artists&#039; operatic work, including the delicious final trio from Der Rosenkavalier."
 slug = "dont-miss-songfest-alumni-in-recital"
 title = "Don&#039;t miss: SongFest alumni in recital"
 +++
@@ -16,5 +16,5 @@ The programme is a fantastic mix of top-shelf art song by Poulenc, Schubert, Zem
 
 [Tickets](https://www.eventbrite.com/e/songfests-2017-marc-and-eva-stern-fellowship-awardees-tickets-37703059867?discount=SONGFESTFRIENDS) to the Emerging Artist Recital start at just $10, available for reservation with the [discount code SONGFESTFRIENDS](https://www.eventbrite.com/e/songfests-2017-marc-and-eva-stern-fellowship-awardees-tickets-37703059867?discount=SONGFESTFRIENDS). If you're in or around New York next week, head over to the Opera Center to hear some great music. Stay in the loop with all things *SongFest* by following them on [Twitter!](https://twitter.com/SongFestUS)
 
-<figure data-type="image">![](/webhook-uploads/1511823947203/2017-11-27---OA_Email-complete-.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511823947203/2017-11-27---OA_Email-complete-.jpg)
 </figure>

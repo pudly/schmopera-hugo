@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2013-12-18T18:22:00-05:00"
 lastmod = "2018-01-03T09:58:00-05:00"
 publishDate = "2013-12-18T18:22:00-05:00"
-short_description = "It's simple enough: there's something just neat about it. People are up on stage doing weirdly supernatural things with their voices. Voices of all sizes and shapes, too; beautiful, floating sopranos and, big, hollering baritones. "
+short_description = "It&#039;s simple enough: there&#039;s something just neat about it. People are up on stage doing weirdly supernatural things with their voices. Voices of all sizes and shapes, too; beautiful, floating sopranos and, big, hollering baritones. "
 slug = "another-opera-apologist-part-1"
 title = "Another Opera Apologist (Part 1)"
 +++

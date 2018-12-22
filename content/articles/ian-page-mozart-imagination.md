@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-04-07T15:29:00+01:00"
 lastmod = "2016-04-08T15:31:00+01:00"
 publishDate = "2016-04-08T15:10:00+01:00"
-short_description = "\"I love the way things have changed in the last generation or two. There are people who behave stupidly and tyrannically, there will always be. But it's more and more of a minority now, and I think it's so clear that when people feel enabled and bring themselves to their work, it's bound to be better. It's so obvious.\""
+short_description = "&quot;I love the way things have changed in the last generation or two. There are people who behave stupidly and tyrannically, there will always be. But it&#039;s more and more of a minority now, and I think it&#039;s so clear that when people feel enabled and bring themselves to their work, it&#039;s bound to be better. It&#039;s so obvious.&quot;"
 slug = "ian-page-mozart-imagination"
 title = "Ian Page: Mozart &amp; imagination"
 +++
@@ -25,7 +25,7 @@ Page acknowledges that, "easily and lazily", people can distill Mozart's staged 
 Pieces that inspired Mozart are as important to Page as works he criticised, when it comes to contextualizing the composer's aesthetic. "The things that [Mozart] does criticise are so interesting. Like, he had the temerity to criticise [Shakespeare's] *Hamlet*," he laughs. "I love *Hamlet* to bits, but he's sort of right. He said that the ghost spoke too often, and actually it would be much more menacing and frightening if he were to say fewer words." As anyone who's sung a Mozart opera knows, criticism of this scale is indicative of the composer's innate sense of dramatic timing and storytelling. "He was so practical; he was always thinking about how to create an effect."
 
 <figure data-type="image">
-![](/webhook-uploads/1460124586045/2016-04-08---Full-orchestra-and-Ian-Page-c-Benjamin-Ealovega.jpg)<figcaption>Ian Page conducting the Classical Opera orchestra. Photo by Benjamin Ealovega.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460124586045/2016-04-08---Full-orchestra-and-Ian-Page-c-Benjamin-Ealovega.jpg)<figcaption>Ian Page conducting the Classical Opera orchestra. Photo by Benjamin Ealovega.</figcaption>
 </figure>
 
 ## Fostering great rehearsals

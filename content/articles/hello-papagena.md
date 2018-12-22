@@ -3,7 +3,7 @@ categories = "Humour"
 date = "2016-03-09T21:13:00+00:00"
 lastmod = "2016-03-11T11:48:00+00:00"
 publishDate = "2016-03-11T11:30:00+00:00"
-short_description = "That's right. Stuart the Minion spots a fine-looking yellow fire hydrant in New York City, and he uses his best pick-up line, best translated as, \"Hello, Papagena! You're beautiful like a papaya.\""
+short_description = "That&#039;s right. Stuart the Minion spots a fine-looking yellow fire hydrant in New York City, and he uses his best pick-up line, best translated as, &quot;Hello, Papagena! You&#039;re beautiful like a papaya.&quot;"
 slug = "hello-papagena"
 title = "&quot;Hello, Papagena!&quot;"
 +++

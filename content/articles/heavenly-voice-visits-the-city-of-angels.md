@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-02-08T11:55:00-05:00"
 lastmod = "2018-02-08T13:11:00-05:00"
 publishDate = "2018-02-08T11:55:00-05:00"
-short_description = "The night ended with a nod to Leonard Bernstein's 100th Birthday - \"Somewhere\" from West Side Story. The lyrics \"There's a place for us - somewhere a place for us…\" she dedicated to the DACA Dreamers, and the evening ended with many in tears and everyone on their feet for several standing ovations."
+short_description = "The night ended with a nod to Leonard Bernstein&#039;s 100th Birthday - &quot;Somewhere&quot; from West Side Story. The lyrics &quot;There&#039;s a place for us - somewhere a place for us…&quot; she dedicated to the DACA Dreamers, and the evening ended with many in tears and everyone on their feet for several standing ovations."
 slug = "heavenly-voice-visits-the-city-of-angels"
 title = "Heavenly voice visits the City of Angels"
 +++
@@ -17,7 +17,7 @@ That didn't mean Ms. Fleming would stop singing, however, and so she hit the roa
 For whatever reason Ms. Fleming has retired, it has nothing to do with her voice, which is as glorious as ever.
 
 <figure data-type="image">
-![](/webhook-uploads/1518108606153/renee-fleming_recital_2-6-2018_photo_by_larry-ho_01.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518108606153/renee-fleming_recital_2-6-2018_photo_by_larry-ho_01.jpg)
 <figcaption>Renée Fleming in recital with pianist Hartmut Holl at LA Opera on February 6, 2018. Photo: Larry Ho.</figcaption>
 </figure>
 

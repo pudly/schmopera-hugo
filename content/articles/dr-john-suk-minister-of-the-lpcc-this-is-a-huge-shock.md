@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2015-04-18T11:05:00-04:00"
 lastmod = "2015-04-18T18:16:00-04:00"
 publishDate = "2015-04-18T18:11:00-04:00"
-short_description = "As the Valentina Lisitsa topic rambles on, I was fortunate to be able to speak with Dr. John Suk, Minister at Lawrence Park Community Church. After Lisitsa's TSO performances were cancelled, she announced on Twitter that she would be performing instead at the LPCC on April 10th. The catch: no one booked the church."
+short_description = "As the Valentina Lisitsa topic rambles on, I was fortunate to be able to speak with Dr. John Suk, Minister at Lawrence Park Community Church. After Lisitsa&#039;s TSO performances were cancelled, she announced on Twitter that she would be performing instead at the LPCC on April 10th. The catch: no one booked the church."
 slug = "dr-john-suk-minister-of-the-lpcc-this-is-a-huge-shock"
 title = "Dr. John Suk, Minister of the LPCC: &quot;This is a huge shock.&quot;"
 +++

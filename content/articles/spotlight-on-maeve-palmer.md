@@ -4,7 +4,7 @@ date = "2015-07-24T02:47:00+02:00"
 lastmod = "2015-08-23T10:35:00+02:00"
 preamble = "For Toronto-based soprano [Maeve Palmer](/scene/people/maeve-palmer/), learning music is \"like a puzzle that you can never quite finish decoding.\" Currently a student of Mary Morrison's, Maeve has a great handle on the concept of patience. She writes articulately about enjoying the process of learning to sing, and the excitement she gets out of singing well. You can hear her [this fall](http://www.maevepalmer.com/schedule.html) with the Orpheus Choir, and in a new project with the Toronto Laptop Orchestra (!)."
 publishDate = "2015-08-23T10:35:00+02:00"
-short_description = "For Toronto-based soprano Maeve Palmer, learning music is \"like a puzzle that you can never quite finish decoding.\" Currently a student of Mary Morrison's, Maeve has a great handle on the concept of patience. She writes articulately about enjoying the process of learning to sing, and the excitement she gets out of singing well."
+short_description = "For Toronto-based soprano Maeve Palmer, learning music is &quot;like a puzzle that you can never quite finish decoding.&quot; Currently a student of Mary Morrison&#039;s, Maeve has a great handle on the concept of patience. She writes articulately about enjoying the process of learning to sing, and the excitement she gets out of singing well."
 slug = "spotlight-on-maeve-palmer"
 title = "Spotlight on: Maeve Palmer"
 +++

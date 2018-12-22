@@ -4,7 +4,7 @@ date = "2016-03-04T10:59:00+00:00"
 lastmod = "2016-03-04T13:01:00+00:00"
 preamble = "Photo: Rebecca Evans (Nella), Paolo Fanale (Rinuccio), Carlo Bosi (Gherardo), David Kempster (Marco), Gwynne Howell (Simone), Jeremy White (Betto), Marie McLaughlin (La Ciesca), Elena Zilio (Zita). ROH. Photographer: Bill Cooper."
 publishDate = "2016-03-04T13:01:00+00:00"
-short_description = "We were thrilled to get a three-for-one deal with our inaugural trip to the ROH, in the form of Richard Jones' production of Puccini's Il trittico. The through line holding together the stories of Il tabarro, Suor Angelica and Gianni Schicchi was the original theme: the fact that Puccini wrote them. The shows looked as different as the stories they told, and it was a true feast for opera lovers with slight ADD."
+short_description = "We were thrilled to get a three-for-one deal with our inaugural trip to the ROH, in the form of Richard Jones&#039; production of Puccini&#039;s Il trittico. The through line holding together the stories of Il tabarro, Suor Angelica and Gianni Schicchi was the original theme: the fact that Puccini wrote them. The shows looked as different as the stories they told, and it was a true feast for opera lovers with slight ADD."
 slug = "in-review-il-trittico-at-roh"
 title = "In review: Il trittico at ROH"
 +++
@@ -17,7 +17,7 @@ We were thrilled to get a three-for-one deal with our inaugural trip to the ROH,
 
 Soprano [Patricia Racette](/scene/people/patricia-racette/) was the first to shine as Giorgetta, wife of Michele, the owner of the barge. She had a sad air of desperation as she made the best of her trapped existence; yet she never whined, never bemoaned without hope the fact that she was living someone else's (her husband's) life. [Lucio Gallo](/scene/people/lucio-gallo/) was a stiff, cold Michele, yet Puccini quickly creates a three-dimensional character out of him with his sad, ill-timed conversation about the late son he had with Giorgetta. Gallo and Racette made sense of each other as a married couple, unhappy for different reasons. Even in the compact tale, we get to see the two-way street that always exists when a marriage goes badly. 
 
-<figure data-type="image">![](/webhook-uploads/1457093269677/Tabarro%202.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457093269677/Tabarro%202.jpg)
 <figcaption>Patricia Racette as Giorgetta, Carl Tanner as Luigi. Copyright: ROH. Photographer: Bill Cooper.</figcaption>
 </figure>
 
@@ -27,14 +27,14 @@ There was some lovely singing by two members of the Jette Parker Young Artists P
 
 As familiar as Puccini can get for any opera-goer, shows like *Il tabarro* remind us of his skills in dramatic timing. The gruesome finale to the act builds quickly and terribly, with a final blackout the only response to Giorgetta's shriek upon finding her lover dead at her husband's hands. It's a rare thing in opera to find no true denouement; it makes your breath catch, and it almost makes you *want* the emotional catharsis that *Suor Angelica* brings.
 
-<figure data-type="image">![](/webhook-uploads/1457093285896/Tabarro%201.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457093285896/Tabarro%201.jpg)
 <figcaption>Lucio Gallo as Michele, Patricia Racette as Giorgetta. Copyright: ROH. Photographer: Bill Cooper.</figcaption>
 </figure>
 
 *Suor Angelica* unfolds in Miriam Buether's sterile set, depicting a children's hospital run by the nuns. There was a church-like arc that shaped this hospital, and in contrast to the expansive street scene of *Il tabarro*, this set seemed too small, too confining. The story is just as claustrophobic, one where even without the historically oppressive presence of men, women still can't seem to find freedom. The powerful women were almost eerily so; Irina Mishura as the Abbess, Elena Zilio as the Monitress, and Anna Larsson as the Princess, they were all terrifying in voice and demeanour. Who needs mean men when you've got mean women, right? Larsson was particularly great at making our skin crawl, especially with the full fox pelt she brought as her primary accessory.
 
 <figure data-type="image">
-![](/webhook-uploads/1457094702069/Suor-2.jpg)<figcaption>Ermonela Jaho as Sister Angelica. Copyright: ROH. Photographer: Bill Cooper.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457094702069/Suor-2.jpg)<figcaption>Ermonela Jaho as Sister Angelica. Copyright: ROH. Photographer: Bill Cooper.</figcaption>
 </figure>
 
 As it should be, [Ermonela Jaho](/scene/people/ermonela-jaho/) was entirely heartbreaking as Suor Angelica. She stood out among the sea of identically dressed nuns almost immediately, with an air of calmness that somehow felt too wise for a Sister. Jaho was stunning throughout, and she managed to unveil a long familial history in her infamous scene with her aunt, the Princess. Her soft singing in "Senza mamma" could have been straight from a lullaby to a sleeping child, and it made her outbursts hurt even more. 
@@ -42,14 +42,14 @@ As it should be, [Ermonela Jaho](/scene/people/ermonela-jaho/) was entirely hear
 Jaho's voice cut right through us; she had an enormous sound in the house, and she didn't hold back from letting wildness into her sound when the story needed it. Her curtain call was almost as affecting as her performance; it was a candid moment where the singer has put everything into a role, and she feels the audience recognize and appreciate it. It was a special moment, and one that brought us closer to the story, even in hindsight.
 
 <figure data-type="image">
-![](/webhook-uploads/1457094685004/Suor-1.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457094685004/Suor-1.jpg)
 <figcaption>Anna Larsson as The Princess, Ermonela Jaho as Sister Angelica. Copyright: ROH. Photographer: Bill Cooper.</figcaption>
 </figure>
 
 After all the tears, there's nothing left to do but laugh. *Gianni Schicchi* rounds out *Il trittico*, with the mercifully hilarious tale of a family of horrible people, acting horribly after the death of their "beloved" uncle Buoso. Lucio Gallo returned to sing the title role, with a relaxed air about him and a costume by Nicky Gillibrand that made me think of [Earnest P. Worrell](https://en.wikipedia.org/wiki/Ernest_P._Worrell). 
 
 <figure data-type="image">
-![](/webhook-uploads/1457093319019/Schicchi%202.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457093319019/Schicchi%202.jpg)
 <figcaption>Lucio Gallo as Gianni Schicchi, Susanna Hurrell as Lauretta. Copyright: ROH. Photographer: Bill Cooper.</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ This ensemble show had a truly ensemble cast of colourful, complete characters. 
 
 Tenor Paolo Fanale and soprano Susanna Hurrell were a beautiful, adorable Rinuccio and Lauretta. They were melodramatic and funny, and both sang with a youthful brightness that never bordered on annoying. As Schicchi, Gallo had an honest relationship with the pair, and we believed his final monologue about spending money on young love.
 
-<figure data-type="image">![](/webhook-uploads/1457093337400/Schicchi%201.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457093337400/Schicchi%201.jpg)
 <figcaption>Rebecca Evans as Nella, Lucio Gallo as Gianni Schicchi, Carlo Bosi as Gherardo, Marie McLaughlin as Nella. Copyright: ROH. Photographer: Bill Cooper.</figcaption>
 </figure>
 

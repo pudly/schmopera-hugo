@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2018-07-04T16:29:00-04:00"
 lastmod = "2018-07-04T17:42:00-04:00"
 publishDate = "2018-07-04T17:42:00-04:00"
-short_description = "He remembers an early-1990s summer at the Bayreuth Festival, during the creation of the now-famed Harry Kupfer production of the Ring Cycle, conducted by Daniel Barenboim. Antoine and Barenboim's son, David, had renamed all of their He-Man figurines after Wagnerian characters."
+short_description = "He remembers an early-1990s summer at the Bayreuth Festival, during the creation of the now-famed Harry Kupfer production of the Ring Cycle, conducted by Daniel Barenboim. Antoine and Barenboim&#039;s son, David, had renamed all of their He-Man figurines after Wagnerian characters."
 slug = "antoine-wagner-gesamtkunstwerk-in-2018"
 title = "Antoine Wagner: Gesamtkunstwerk in 2018"
 +++
@@ -19,7 +19,7 @@ His ancestry automatically piques the interest of most opera fans, yet Antoine p
 "When I set foot in that Frank Gehry building and saw the projection sails, the ability that this kind of morphing space had, it threw me over the edge."
 
 <figure data-type="image">
-![](/webhook-uploads/1530739605948/Miami_New_World_Center.jpg)<figcaption>The New World Symphony Center, Miami, FL.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530739605948/Miami_New_World_Center.jpg)<figcaption>The New World Symphony Center, Miami, FL.</figcaption>
 </figure>
 
 Listeners will hear the second act of *Die Walküre* - featuring Alan Held as Wotan and Linda Watson as Brünnhilde - but Antoine is creating an evening that tells the opera's full story. As well as the interior, he has too the exterior of the New World Center to his disposal, and he will project video mappings on the building's façade - on the way in, alluding to *Die Walküre* Act I, and on the way out, Act III. "The idea is to offer an evening of experience."

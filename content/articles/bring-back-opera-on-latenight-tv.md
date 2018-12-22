@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2015-05-18T11:48:00-04:00"
 lastmod = "2015-05-23T23:01:00-04:00"
 publishDate = "2015-05-23T14:18:00-04:00"
-short_description = "In an earlier post, I was hunting for operatic tributes to David Letterman as his retirement quickly approaches. Few and far between as they may be, there seems to have been a definite \"Golden Age\" of opera on late-night television. From the 1950s to the 80s, folks like Plácido Domingo, Marilyn Horne, Maria Callas, Leontyne Price, Richard Tucker, Martina Arroyo, and Beverly Sills made appearances on late-night shows with Johnny Carson, Ed Sullivan, and Merv Griffin."
+short_description = "In an earlier post, I was hunting for operatic tributes to David Letterman as his retirement quickly approaches. Few and far between as they may be, there seems to have been a definite &quot;Golden Age&quot; of opera on late-night television. From the 1950s to the 80s, folks like Plácido Domingo, Marilyn Horne, Maria Callas, Leontyne Price, Richard Tucker, Martina Arroyo, and Beverly Sills made appearances on late-night shows with Johnny Carson, Ed Sullivan, and Merv Griffin."
 slug = "bring-back-opera-on-latenight-tv"
 title = "Bring back opera on late-night TV"
 +++

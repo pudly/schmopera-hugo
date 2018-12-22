@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2017-09-05T21:09:00-04:00"
 lastmod = "2017-09-07T14:38:00-04:00"
 publishDate = "2017-09-07T09:26:00-04:00"
-short_description = "\"It is fascinating that the average Torontonian's understanding of Toronto's history is pretty limited,\" says Tapestry Artistic Director Michael Mori. \"We are all a pretty new lot here, and so stories about the bandits in the Don Valley in the late 1800s and far-reaching industrial innovations that came from people like George Taylor are news to everyone except historians.\""
+short_description = "&quot;It is fascinating that the average Torontonian&#039;s understanding of Toronto&#039;s history is pretty limited,&quot; says Tapestry Artistic Director Michael Mori. &quot;We are all a pretty new lot here, and so stories about the bandits in the Don Valley in the late 1800s and far-reaching industrial innovations that came from people like George Taylor are news to everyone except historians.&quot;"
 slug = "dont-miss-bandits-in-the-valley"
 title = "Don&#039;t miss: Bandits in the Valley"
 +++
@@ -13,7 +13,7 @@ With [*Bandits in the Valley*](https://tapestryopera.com/bandits-in-the-valley/)
 "It is fascinating that the average Torontonian's understanding of Toronto's history is pretty limited," says Tapestry Artistic Director [Michael Mori](/scene/people/michael-mori/). "We are all a pretty new lot here, and so stories about the bandits in the Don Valley in the late 1800s and far-reaching industrial innovations that came from people like George Taylor are news to everyone except historians."
 
 <figure data-type="image">
-![](/webhook-uploads/1504710464298/2017-09-06---Bandits-photobyDahliaKatz-1442.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504710464298/2017-09-06---Bandits-photobyDahliaKatz-1442.jpg)
 <figcaption>Jacques Arsenault in *Bandits in the Valley*, Tapestry Opera, 2017. Photo by Dahlia Katz.</figcaption>
 </figure>
 
@@ -22,14 +22,14 @@ With [*Bandits in the Valley*](https://tapestryopera.com/bandits-in-the-valley/)
 Although Tapestry Opera has built its history on creating opera that's innovative and new, *Bandits* still stands out as a unique offering from the company. The "instrument wielding" singers perform in the beautiful park setting of Todmorden Mills, and "they go deep and hilariously into a clever libretto written by Julie Tepperman to folk infused scoring by Benton Roark."
 
 <figure data-type="image">
-![](/webhook-uploads/1504710530334/2017-08-06---Bandits-photobyDahliaKatz-1487.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504710530334/2017-08-06---Bandits-photobyDahliaKatz-1487.jpg)
 <figcaption>Sara Schabas and Stephanie Tritchew (background) in *Bandits in the Valley*, Tapestry Opera, 2017. Photo by Dahlia Katz.</figcaption>
 </figure>
 
 "Opera can often be about the hardest moments in life, the betrayals, the murders, the situations that carry high stakes and dire consequences," says Mori. "But this is an opera that expresses a great joy in its making of music and an unpretentious story that might just end well."
 
 <figure data-type="image">
-![](/webhook-uploads/1504710538591/2017-09-06---Bandits-photobyDahliaKatz-1589.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504710538591/2017-09-06---Bandits-photobyDahliaKatz-1589.jpg)
 <figcaption>Jacques Arsenault (background), Jennifer Taverner, and Keith Klassen in *Bandits in the Valley*, Tapestry Opera, 2017. Photo by Dahlia Katz.</figcaption>
 </figure>
 

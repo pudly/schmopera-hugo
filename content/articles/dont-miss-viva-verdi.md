@@ -4,7 +4,7 @@ date = "2016-02-02T10:45:00-05:00"
 lastmod = "2016-02-02T11:25:00-05:00"
 preamble = "On **February 28 at 3pm**, [Oshawa Opera](/scene/companies/oshawa-opera/) continues its 2015/16 season with [*Viva Verdi!*](https://www.facebook.com/events/1656444951304679/), an afternoon of arias and ensembles from one of opera's most beloved composers. Kristine Dandavino, mezzo-soprano and Artistic Director of Oshawa Opera, is joined by sopranos Stacie Carmona and Renée Salewski, baritone Michael York, tenor Jason Lamont, and pianist Sabatino Vacca for this opera-sized concert event. \n\nWe asked for a sneak peek from the team, and they were kind enough to tell us why they're Verdi-philes.\n\n*Viva Verdi!* happens at The Arts Resource Centre, 45 Queen St., Oshawa, 3pm on February 28th. Tickets are $25, and admission is free for anyone under 18! For full details and ticket information, follow our box office links below."
 publishDate = "2016-02-02T11:25:00-05:00"
-short_description = "On February 28 at 3pm, Oshawa Opera continues its 2015/16 season with Viva Verdi!, an afternoon of arias and ensembles from one of opera's most beloved composers. Kristine Dandavino, mezzo-soprano and Artistic Director of Oshawa Opera, is joined by sopranos Stacie Carmona and Renée Salewski, baritone Michael York, tenor Jason Lamont, and pianist Sabatino Vacca for this opera-sized concert event."
+short_description = "On February 28 at 3pm, Oshawa Opera continues its 2015/16 season with Viva Verdi!, an afternoon of arias and ensembles from one of opera&#039;s most beloved composers. Kristine Dandavino, mezzo-soprano and Artistic Director of Oshawa Opera, is joined by sopranos Stacie Carmona and Renée Salewski, baritone Michael York, tenor Jason Lamont, and pianist Sabatino Vacca for this opera-sized concert event."
 slug = "dont-miss-viva-verdi"
 title = "Don&#039;t miss: Viva Verdi!"
 +++
@@ -32,5 +32,5 @@ title = "Don&#039;t miss: Viva Verdi!"
 **Stacie and Michael**: Human.
 
 <figure data-type="image">
-![](/webhook-uploads/1454429152398/VVerdi-Poster.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454429152398/VVerdi-Poster.jpg)
 </figure>

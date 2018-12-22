@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-05-24T20:15:00+01:00"
 lastmod = "2016-05-28T10:50:00+01:00"
 publishDate = "2016-05-28T10:42:00+01:00"
-short_description = "\"Physically, it feels like I'm doing my yoga practice in public, in front of an audience,\" Register laughs. Singers and yogis alike know how tricky it can be to find a comfortable balance of effort and ease. \"I would equate a long, difficult phrase, to holding a difficult pose in yoga. You just have to breathe into it, accept it, you're not going to die.\""
+short_description = "&quot;Physically, it feels like I&#039;m doing my yoga practice in public, in front of an audience,&quot; Register laughs. Singers and yogis alike know how tricky it can be to find a comfortable balance of effort and ease. &quot;I would equate a long, difficult phrase, to holding a difficult pose in yoga. You just have to breathe into it, accept it, you&#039;re not going to die.&quot;"
 slug = "talking-with-singers-bryan-register"
 title = "Talking with singers: Bryan Register"
 +++
@@ -21,7 +21,7 @@ The physical work involved is one thing, and the psychological work is another b
 For many, the vulnerability involved in singing is a risk not worth taking, but Register knows the payoff that comes with the career. "The emotional rewards that I get from it, I haven't found anything else that gives me that kind of a reward. The connection with the audience, and the feeling of that emotional exchange when I'm performing, I haven't been able to find that anywhere else." He doesn't quite call it a religion, but it's a spiritual practice in his life. "It's cleansing, it makes me feel good physically, it makes me clear-headed, it makes me happy."
 
 <figure data-type="image">
-![](/webhook-uploads/1464118184394/Register%20-%20Carmen-10%20-%20Virginia%20Opera%202006.jpg)<figcaption>Bryan Register, pictured with Catherine Cangiano, soprano, in Virgina Opera's production of *Carmen*, 2006.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464118184394/Register%20-%20Carmen-10%20-%20Virginia%20Opera%202006.jpg)<figcaption>Bryan Register, pictured with Catherine Cangiano, soprano, in Virgina Opera's production of *Carmen*, 2006.</figcaption>
 </figure>
 
 ## "It was just working."
@@ -39,7 +39,7 @@ He says he never learned the exact amount of his scholarship, only that his grad
 Nilsson had heard his audition for MSM, and told the panel that he was set to be a Heldentenor. Register wrote her to thank her, and she wrote him back. "And I still have the letter."
 
 <figure data-type="image">
-![](/webhook-uploads/1464118194734/wozzeck-eno-236-850x582.jpg)<figcaption>Register in English National Opera's production of *Wozzeck*, 2013. Photo: Robert Workman.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464118194734/wozzeck-eno-236-850x582.jpg)<figcaption>Register in English National Opera's production of *Wozzeck*, 2013. Photo: Robert Workman.</figcaption>
 </figure>
 
 ## "I would have laughed in your face."
@@ -57,7 +57,7 @@ Young singers often equate a certain age with a ticket into "heavy" repertoire, 
 He looks back on Birgit Nilsson's early recognition of his potential with a retrospective understanding. "I think now that I'm older and I actually do it, I could hear how she could hear a younger singer and connect immediately to that feeling of 'He's one of us'." He posed that there is often an incomplete message delivered to young singers about the "horror stories" of tackling repertoire like Wagner. "If there was some sort of explanation, that 'you're doing this now, and you're learning a lot about your body, you're building your instrument through this repertoire, and someday I think you might do this repertoire,' that's a completely different approach than, 'you're 25, so you need to sing Mozart and you need to sing some Handel, and that's what you do because you're 25'."
 
 <figure data-type="image">
-![](/webhook-uploads/1464355794650/2016-05-27---Bryan-Register-Olaf-Struck.jpg)<figcaption>Register in Theater Kiel's production of *Die Walküre*, 2016. Photo: Olaf Struck.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464355794650/2016-05-27---Bryan-Register-Olaf-Struck.jpg)<figcaption>Register in Theater Kiel's production of *Die Walküre*, 2016. Photo: Olaf Struck.</figcaption>
 </figure>
 
 ## Advice and "that little inside voice."

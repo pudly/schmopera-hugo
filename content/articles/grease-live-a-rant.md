@@ -4,7 +4,7 @@ date = "2016-01-31T21:08:00-05:00"
 lastmod = "2016-02-01T10:36:00-05:00"
 preamble = "Note: we've received some comments from readers who insist that *Grease Live* was indeed sung live. To our eyes and ears, that wasn't clear, and [other reviewers had the same sense](http://www.usatoday.com/story/life/tv/columnist/2016/01/31/review-grease-live-fox-musical-tv/79614800/). We've put in an inquiry to find out for sure; we're reviewing the final product, as always."
 publishDate = "2016-02-01T09:00:00-05:00"
-short_description = "We've been talking a lot lately about opera on the big screen; how stage acting looks weird on camera, and how the acoustic experience from a film or TV broadcast is basically non-existent when compared to actual live opera. My own little nit-picks aside, I'll grant one big thing to opera made for broadcast: it's actually live."
+short_description = "We&#039;ve been talking a lot lately about opera on the big screen; how stage acting looks weird on camera, and how the acoustic experience from a film or TV broadcast is basically non-existent when compared to actual live opera. My own little nit-picks aside, I&#039;ll grant one big thing to opera made for broadcast: it&#039;s actually live."
 slug = "grease-live-a-rant"
 title = "Grease Live: a rant"
 +++

@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2017-09-15T13:04:00-04:00"
 lastmod = "2017-09-24T23:32:00-04:00"
 publishDate = "2017-09-24T23:32:00-04:00"
-short_description = "After high school, Haji went not into music, but into computer science. After just two years - and a realization that he was miserable - he \"quickly abandoned ship\". He took a year off, during which he met with his high school music teacher, discussing the beginnings of his plan to pursue music."
+short_description = "After high school, Haji went not into music, but into computer science. After just two years - and a realization that he was miserable - he &quot;quickly abandoned ship&quot;. He took a year off, during which he met with his high school music teacher, discussing the beginnings of his plan to pursue music."
 slug = "talking-with-singers-andrew-haji"
 title = "Talking with singers: Andrew Haji"
 +++
@@ -27,7 +27,7 @@ Robinson's production moves the action out of the 18th-century setting in Romani
 "It's clear that Nemorino really, really loves this girl, and he'll stop at nothing to let her know that."
 
 <figure data-type="image">
-![](/webhook-uploads/1505495037203/2017-09-15---Haji-Flute-16-17-03b-MC-D-3687.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505495037203/2017-09-15---Haji-Flute-16-17-03b-MC-D-3687.jpg)
 <figcaption>Andrew Haji as Tamino in the Canadian Opera Company's production of *The Magic Flute*, 2017. Photo: Michael Cooper.</figcaption>
 </figure>
 

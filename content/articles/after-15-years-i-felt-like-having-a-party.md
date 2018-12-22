@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2018-05-07T12:37:00-04:00"
 lastmod = "2018-05-07T21:48:00-04:00"
 publishDate = "2018-05-07T21:48:00-04:00"
-short_description = "\"I think we really mined [masque] to a huge extent,\" he says. Now, Beckwith's decision to wrap up TMT is fuelled by a desire for something new."
+short_description = "&quot;I think we really mined [masque] to a huge extent,&quot; he says. Now, Beckwith&#039;s decision to wrap up TMT is fuelled by a desire for something new."
 slug = "after-15-years-i-felt-like-having-a-party"
 title = "&quot;After 15 years, I felt like having a party.&quot;"
 +++
@@ -15,7 +15,7 @@ The event on **May 12** will be Toronto Masque Theatre's final performance. Afte
 *The Last Chaconne* will feature a this-is-your-life-style group of performers, almost all of whom have a strong history with TMT. "[Monica Whicher](/scene/people/monica-whicher/) sang in our first show in 2004," Beckwith recalls, "and I've always adored her singing." The company also welcomes regular collaborators like tenors [Colin Ainsworth](/scene/people/colin-ainsworth/) and [Lawrence Wiliford](/scene/people/lawrence-wiliford/), and sopranos [Vania Chan](/scene/people/vania-chan/) and [Shannon Mercer](/scene/people/shannon-mercer/).
 
 <figure data-type="image">
-![](/webhook-uploads/1525713572687/LarryBeckwithFairestIsle2013.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525713572687/LarryBeckwithFairestIsle2013.jpg)
 <figcaption>Larry Beckwith conducting Toronto Masque Theatre. Photo courtesy of Toronto Masque Theatre.</figcaption>
 </figure>
 

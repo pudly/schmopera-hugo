@@ -4,7 +4,7 @@ date = "2014-09-05T13:41:00+01:00"
 lastmod = "2016-11-17T15:31:00+00:00"
 preamble = "Since we're amongst operaphiles, it's safe to admit that we listen to opera on and off the job. Daily commutes, housecleaning, cooking; they're all better with opera as a soundtrack. So, who here has listened to opera while working out? Hi, nice to meet you. Opera and classical music are tricky waters for navigation when it comes to designing a cardio-friendly playlist (all those surprise fermatas tend to throw off one's pace), but it's worth the search, because jogging to Rossini kind of feels like there's a whole orchestra challenging you to a friendly race. Including Rossini, of course, I've managed to gather a few examples of what your opera-tastic workout could look like. Operaphilic cardio junkies, feel free to add your own suggestions in the comments below."
 publishDate = "2014-09-05T13:41:00+01:00"
-short_description = "Since we're amongst operaphiles, it's safe to admit that we listen to opera on and off the job. Daily commutes, housecleaning, cooking; they're all better with opera as a soundtrack. So, who here has listened to opera while working out? Hi, nice to meet you."
+short_description = "Since we&#039;re amongst operaphiles, it&#039;s safe to admit that we listen to opera on and off the job. Daily commutes, housecleaning, cooking; they&#039;re all better with opera as a soundtrack. So, who here has listened to opera while working out? Hi, nice to meet you."
 slug = "the-opera-workout"
 title = "The Opera Workout"
 +++

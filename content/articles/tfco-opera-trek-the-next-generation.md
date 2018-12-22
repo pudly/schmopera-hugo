@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-05-30T19:23:00+01:00"
 lastmod = "2016-05-31T22:51:00+01:00"
 publishDate = "2016-05-31T11:07:00+01:00"
-short_description = "I got to chat with a few of the next generation involved in Burry's The Sword in the Schoolyard: Viva Egoyan-Rokeby (young Morgan), David Grace (young Arthur), Emma Thornton-Ockrant (young Gwen), and Henry Kemeny-Wodlinger (young Mordred)."
+short_description = "I got to chat with a few of the next generation involved in Burry&#039;s The Sword in the Schoolyard: Viva Egoyan-Rokeby (young Morgan), David Grace (young Arthur), Emma Thornton-Ockrant (young Gwen), and Henry Kemeny-Wodlinger (young Mordred)."
 slug = "tfco-opera-trek-the-next-generation"
 title = "TFCO: Opera Trek, The Next Generation"
 +++
@@ -27,7 +27,7 @@ I got to chat with a few of the next generation involved in Burry's *The Sword i
 **Henry**: I've always loved to sing and act, so opera is basically my dream come true because I get to do both. 
 
 <figure data-type="image">
-![](/webhook-uploads/1464635146613/2016-05-31---VIVA-Fight-Scene.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464635146613/2016-05-31---VIVA-Fight-Scene.jpg)
 <figcaption>Photo courtesy of VIVA! Youth Singers.</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ I got to chat with a few of the next generation involved in Burry's *The Sword i
 **Henry**: I like when we finally see the set, it really helps me set the atmosphere of the whole show.
 
 <figure data-type="image">
-![](/webhook-uploads/1464635157310/2016-05-31---Rex-Arturus.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464635157310/2016-05-31---Rex-Arturus.jpg)
 <figcaption>Photo courtesy of VIVA! Youth Singers.</figcaption>
 </figure>
 

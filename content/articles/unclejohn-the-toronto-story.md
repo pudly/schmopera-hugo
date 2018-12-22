@@ -2,7 +2,7 @@
 date = "2014-12-17T14:00:00+00:00"
 lastmod = "2016-11-28T10:11:00+00:00"
 publishDate = "2014-12-17T14:00:00+00:00"
-short_description = "I went to see opening night of Against the Grain Theatre's production of #UncleJohn, the re-imagination of Mozart's Don Giovanni by Joel Ivany. It was fantastic, but I'm hardly the unbiased media figure I should be in order to offer up a true review."
+short_description = "I went to see opening night of Against the Grain Theatre&#039;s production of #UncleJohn, the re-imagination of Mozart&#039;s Don Giovanni by Joel Ivany. It was fantastic, but I&#039;m hardly the unbiased media figure I should be in order to offer up a true review."
 slug = "unclejohn-the-toronto-story"
 title = "#UncleJohn: the Toronto story"
 +++

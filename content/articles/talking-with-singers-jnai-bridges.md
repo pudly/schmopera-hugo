@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2017-01-09T11:37:00+00:00"
 lastmod = "2017-01-10T10:35:00+00:00"
 publishDate = "2017-01-10T10:13:00+00:00"
-short_description = "\"With track, she explains, 'you're competing against people, but really what you're trying to do is get your best time.' Playing basketball as part of a team, 'you really have to be an integral part of the team that you're on,' Bridges says. 'You have to be a player.'\""
+short_description = "&quot;With track, she explains, &#039;you&#039;re competing against people, but really what you&#039;re trying to do is get your best time.&#039; Playing basketball as part of a team, &#039;you really have to be an integral part of the team that you&#039;re on,&#039; Bridges says. &#039;You have to be a player.&#039;&quot;"
 slug = "talking-with-singers-jnai-bridges"
 title = "Talking with singers: J&#039;Nai Bridges"
 +++
@@ -21,7 +21,7 @@ She echoes some staple advice for young singers in their auditions: don't worry 
 "I am just thankful that I'm able to block all of the nonsense out. It just takes away from what I can deliver."
 
 <figure data-type="image">
-![](/webhook-uploads/1483973274596/2017-01-09---Bridges.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483973274596/2017-01-09---Bridges.jpg)
 <figcaption>J'Nai Bridges in concert with the Lyric Opera of Chicago Young Artist Showcase, 2014. Photo by Todd Rosenberg.</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ This spring, Bridges will sing the role of Sister Helen Prejean in [*Dead Man Wa
 She's comfortable with the idea of someone in the audience who disagrees with her casting; with a smile, she adds, "but again, that's not my problem."
 
 <figure data-type="image">
-![](/webhook-uploads/1483973415038/2017-01-09---Bridges---TheRapeofLucretia.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483973415038/2017-01-09---Bridges---TheRapeofLucretia.jpg)
 <figcaption>Bridges in the title role of *The Rape of Lucretia*, Wolf Trap Opera, June 2016. Photo by Scott Suchman.</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ A "West Coast girl" from the Seattle area, Bridges loves her work in California.
 "I was enjoying it - a lot," laughs Bridges. "If I were to live there now, I would enjoy it in a different way, a more mature way." She's already looking forward to her next New York gig, which happens to be on **January 21** with the [Marilyn Horne Song Celebration](http://www.carnegiehall.org/Calendar/2017/1/21/0730/PM/Marilyn-Horne-Song-Celebration/).
 
 <figure data-type="image">
-![](/webhook-uploads/1483974117229/2017-01-09---Bridges---AndreaChenier.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483974117229/2017-01-09---Bridges---AndreaChenier.jpg)
 <figcaption>Bridges as Bersi in *Andrea Chénier*, San Francisco Opera, September 2016. Photo by Cory Weaver.</figcaption>
 </figure>
 

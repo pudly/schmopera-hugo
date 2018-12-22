@@ -4,7 +4,7 @@ date = "2018-05-30T16:42:00-04:00"
 lastmod = "2018-06-02T18:29:00-04:00"
 preamble = "Romanian soprano [Cristina Pasaroiu](/scene/people/cristina-pasaroiu/) fills her calendar with delicious soprano roles like Adriana Lecouvreur, Violetta (*La traviata*), Magda (*La rondine*), and Mimì (*La bohème*), and this season she made role debuts as Liù in *Turandot* at the Deutsche Oper Berlin, and just last month  as Manon at the Korean National Opera in Seoul. This summer, she'll bring another signature role to the Bregenz Festival, as Micaëla in [*Carmen*](https://bregenzerfestspiele.com/en/programme/carmen-0). \n\nIt was a treat to talk with Pasaroiu about bel canto, Massenet's Manon, and her simple bit of career wisdom."
 publishDate = "2018-06-01T21:45:00-04:00"
-short_description = "\"Everything is relative. You have just to be true with yourself, to know where your limits and qualities are and try to be always sincere.\""
+short_description = "&quot;Everything is relative. You have just to be true with yourself, to know where your limits and qualities are and try to be always sincere.&quot;"
 slug = "talking-with-singers-cristina-pasaroiu"
 title = "Talking with singers: Cristina Pasaroiu"
 +++
@@ -18,7 +18,7 @@ Bel-canto demands the perfect control of the breath, of the emission, of the ent
 Manon is a very complex role. I can describe it as one of the most difficult roles in the French repertoire and not only. It demands a lot of stamina to stay on stage almost all the time. She has 5 arias, some duets and a lot of ensembles, passing from the lightness of the first act, sensuality of the second one, coloraturas in the third one to the dramatic side of the duet with Des Grieux and then the death scene. She is a very young girl without life experience, but who also hides a very interesting personality from the beginning. She lives permanently in a fight between real love and luxury, between passion and security. I try to avoid stereotypes and fake pathos when singing this role: I try to be first of all an actress and then a singer. If you are not sincere with your feelings and intentions, you can't make Manon credible. She is just so spontaneous and sparkling, curious, passionate.
 
 <figure data-type="image">
-![](/webhook-uploads/1527815641904/1D6A1851_1_33cmlr.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527815641904/1D6A1851_1_33cmlr.jpg)
 <figcaption>Photo: Patrik Hänggi.</figcaption>
 </figure>
 

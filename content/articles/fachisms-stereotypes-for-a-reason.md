@@ -3,7 +3,7 @@ categories = "Humour"
 date = "2015-05-14T13:19:00-04:00"
 lastmod = "2015-05-15T13:42:00-04:00"
 publishDate = "2015-05-15T13:30:00-04:00"
-short_description = "I do get the jokes. Stereotypes for a reason, and all that. It's interesting to note that even if singers of different voice-types don't align perfectly with the above cross-section, there are still a few fach-specific thought processes that I've noticed from my seat at the piano. "
+short_description = "I do get the jokes. Stereotypes for a reason, and all that. It&#039;s interesting to note that even if singers of different voice-types don&#039;t align perfectly with the above cross-section, there are still a few fach-specific thought processes that I&#039;ve noticed from my seat at the piano. "
 slug = "fachisms-stereotypes-for-a-reason"
 title = "Fach-isms &amp; stereotypes for a reason"
 +++
@@ -11,7 +11,7 @@ title = "Fach-isms &amp; stereotypes for a reason"
 I saw this oldie-but-goodie making the rounds on Facebook today:
 
 <figure data-type="image">
-![](/webhook-uploads/1431626119851/classicoperacartoon.jpg%3Fw%3D640)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431626119851/classicoperacartoon.jpg%3Fw%3D640)
 </figure>
 
 This comic says (implies, I suppose) a few things.

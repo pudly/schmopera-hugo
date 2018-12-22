@@ -4,7 +4,7 @@ date = "2014-06-21T09:28:00-04:00"
 lastmod = "2015-04-23T15:59:00-04:00"
 preamble = "This is a guest review by Canadian baritone and theatro-phile Gregory Finney. He had the chance to see AtG's _Pelléas et Mélisande_ before I will, and he has been kind enough to fill you in. Thanks, Greg!"
 publishDate = "2014-06-21T09:28:00-04:00"
-short_description = "Do you like Debussy? Go see this show. Do you like art? Go see this show. Do you like a coherent plotline that's easy to follow and sticks to a linear timeline? Maybe, prepare yourself before seeing this show."
+short_description = "Do you like Debussy? Go see this show. Do you like art? Go see this show. Do you like a coherent plotline that&#039;s easy to follow and sticks to a linear timeline? Maybe, prepare yourself before seeing this show."
 slug = "in-review-pellas-et-mlisande"
 title = "In review: Pelléas et Mélisande"
 +++
@@ -15,7 +15,7 @@ Last night my senses were were titillated by the latest instalment from [Agains
 Personally, I think it would have blown Claude's mind just as much as it did my own.
 
 <figure data-type="image">
-![](/webhook-uploads/1429818878792/blockd-3184-683x1024.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429818878792/blockd-3184-683x1024.jpg)
 <figcaption> Andrea Nuñez and Gregory Dahl. Photo by Darryl Block.
 </figcaption>
 </figure>
@@ -25,7 +25,7 @@ Artistic Director [Joel Ivany](http://www.joelivany.com/index/welcome.html), who
 The cellular composition of the piece doesn't lend itself to any ensemble singing (nor was any written), and the "arias" are really  genuine monologues or soliloquies with little repetition and a lot of information. The storyline of a young lady Mélisande (Khalil) discovered in the woods by Prince Golaud (Gregory Dahl - #swoon), married and brought home only to have the consequences of her arrival destroy the house of King Arkel (Coulombe #doubleswoon) and bring about the end of the idealistic Pelléas (Dupuis - #tripleswoontimesinfinity). My only issue was that the non-linear timeline would have been helped by the addition of dates or a "six months later" to the location slides in the surtitles. That being said it was the only thing I missed.
 
 <figure data-type="image">
-![](/webhook-uploads/1429818953613/blockd-3237-1024x683.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429818953613/blockd-3237-1024x683.jpg)
 <figcaption>Alain Coulombe and Miriam Khalil. Photo by Darryl Block.
 </figcaption>
 </figure>
@@ -39,7 +39,7 @@ Soprano [Miriam Khalil](http://www.miriamkhalil.com/Home.html) shows us once aga
 As the lovestruck Pelléas, baritone [Étienne Dupuis](http://www.ariamanagement.com/en/nos-artistes/etienne-dupuis-w/) lulls you into a false sense of security and "piano" in the first act, only to unleash the full breadth of his masculine, lyrical tone in the second. The use of straight tones alongside full, free singing added a depth of brushstroke to the music that truly supported Pelléas's emotional journey.
 
 <figure data-type="image">
-![](/webhook-uploads/1429819015554/blockd-2869-1024x758.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429819015554/blockd-2869-1024x758.jpg)
 <figcaption>Etienne Dupuis. Photo: Darryl Block.
 </figcaption>
 </figure>

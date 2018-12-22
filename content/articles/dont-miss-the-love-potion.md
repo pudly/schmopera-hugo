@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2018-05-12T09:10:00-04:00"
 lastmod = "2018-05-15T09:51:00-04:00"
 publishDate = "2018-05-12T14:44:00-04:00"
-short_description = "\"As social beings, we depend on love and being loved,\" says Mitisek, explaining our fascination with love stories - even those that end in death. An opera like The Love Potion tells us about the possibilities and the limits of love, and we can experience its extremes through catharsis."
+short_description = "&quot;As social beings, we depend on love and being loved,&quot; says Mitisek, explaining our fascination with love stories - even those that end in death. An opera like The Love Potion tells us about the possibilities and the limits of love, and we can experience its extremes through catharsis."
 slug = "dont-miss-the-love-potion"
 title = "Don&#039;t miss: The Love Potion"
 +++
@@ -23,7 +23,7 @@ It's an impressive thought, to consider that a story like that of Tristan and Is
 "Love, or whatever you want to call that emotion, that trait that we as humans carry, starts with the moment we are born," says Mitisek. "We all hope that we become such an important person to someone, some time in our life."
 
 <figure data-type="image">
-![](/webhook-uploads/1526150600625/Mitisek.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526150600625/Mitisek.jpg)
 <figcaption>Andreas Mitisek, Artistic & General Director of Long Beach Opera, and stage director/video & projection designer of *The Love Potion*.</figcaption>
 </figure>
 

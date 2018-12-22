@@ -4,7 +4,7 @@ date = "2016-01-19T23:54:00-05:00"
 lastmod = "2016-01-20T11:40:00-05:00"
 preamble = "Canadian mezzo-soprano [Wallis Giunta](/scene/people/wallis-giunta/) is getting ready to join the [Tapestry Opera](/scene/companies/tapestry-opera/) team for [*Songbook VI*](https://tapestryopera.com/songbook-vi/), the sixth annual concert of new operatic works presented by the emerging artists of Tapestry's New Opera 101 program. With her own extensive experience with traditional and new opera (Mozart's *Così fan tutte* at the Canadian Opera Company, Adams' *I Was Looking at the Ceiling and Then I Saw the Sky* at Teatro dell'opera di Roma), Giunta will work with these young artists alongside Tapestry's Resident Conductor [Jordan de Souza](/scene/people/jordan-de-souza/) to present [*Songbook VI*](https://tapestryopera.com/songbook-vi/), February 5 and 6, in their Distillery District studio. \n\nGiunta chats about working with Tapestry Opera, and the crucial role new music plays in the careers of opera singers today."
 publishDate = "2016-01-20T11:31:00-05:00"
-short_description = "Canadian mezzo-soprano Wallis Giunta is getting ready to join the Tapestry Opera team for Songbook VI, the sixth annual concert of new operatic works presented by the emerging artists of Tapestry's New Opera 101 program. Giunta chats about working with Tapestry Opera, and the crucial role new music plays in the careers of opera singers today."
+short_description = "Canadian mezzo-soprano Wallis Giunta is getting ready to join the Tapestry Opera team for Songbook VI, the sixth annual concert of new operatic works presented by the emerging artists of Tapestry&#039;s New Opera 101 program. Giunta chats about working with Tapestry Opera, and the crucial role new music plays in the careers of opera singers today."
 slug = "wallis-giunta-songbook-vi"
 title = "Wallis Giunta &amp; Songbook VI"
 +++
@@ -28,7 +28,7 @@ Some of my colleagues have a good balance of traditional repertoire and new work
 There are so many commissions happening these days, and remounts of other modern works, that there really is a good market for singers willing to perform contemporary rep.
 
 <figure data-type="image">
-![](/webhook-uploads/1453306812980/Wallis-Giunta---pc---Dario-Acosta.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453306812980/Wallis-Giunta---pc---Dario-Acosta.jpg)
 <figcaption>Wallis Giunta, mezzo-soprano. Photo by Dario Acosta.</figcaption></figure>
 
 ## Why is singing new music an important "niche skill" to develop?

@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2015-04-11T19:25:00-04:00"
 lastmod = "2015-04-11T19:25:00-04:00"
 publishDate = "2015-02-13T09:25:00-05:00"
-short_description = "\"Between 3 and 30 instruments are playing during each segment of this song. Some instruments play softly (i.e. piano/pianissimo) and some play loudly (i.e. forte/fortissimo.) The number and type of instruments are selected based on that station's surrounding median income taken from the 2011 US Census Data Release. In general, the higher the income, the greater the dynamics and quantity of instruments.\""
+short_description = "&quot;Between 3 and 30 instruments are playing during each segment of this song. Some instruments play softly (i.e. piano/pianissimo) and some play loudly (i.e. forte/fortissimo.) The number and type of instruments are selected based on that station&#039;s surrounding median income taken from the 2011 US Census Data Release. In general, the higher the income, the greater the dynamics and quantity of instruments.&quot;"
 slug = "relevant-art-via-the-number-2-train"
 title = "Relevant Art Via the Number 2 Train"
 +++

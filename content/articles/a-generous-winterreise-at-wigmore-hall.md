@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-12-12T11:14:00-05:00"
 lastmod = "2017-12-12T13:28:00-05:00"
 publishDate = "2017-12-12T13:28:00-05:00"
-short_description = "Mitsuko Uchida's playing was beyond beautiful from the very beginning. The music seemed to be a part of her. Her musicianship was flawless, creating a churning winter landscape full of ice and storms. Her playing never lost its relentless energy, driving the story to its inevitable conclusion."
+short_description = "Mitsuko Uchida&#039;s playing was beyond beautiful from the very beginning. The music seemed to be a part of her. Her musicianship was flawless, creating a churning winter landscape full of ice and storms. Her playing never lost its relentless energy, driving the story to its inevitable conclusion."
 slug = "a-generous-winterreise-at-wigmore-hall"
 title = "A generous Winterreise at Wigmore Hall"
 +++
@@ -13,7 +13,7 @@ title = "A generous Winterreise at Wigmore Hall"
 [Mitsuko Uchida](/scene/people/mitsuko-uchida/)'s playing was beyond beautiful from the very beginning. The music seemed to be a part of her. Her musicianship was flawless, creating a churning winter landscape full of ice and storms. Her playing never lost its relentless energy, driving the story to its inevitable conclusion. I was particularly struck by her playing in *Das Wirsthaus*, a song I'd never much paid attention to before. Her touch was bone-chilling, heart-breakingly lonely and bereft of comfort. Her *Leiermann* was without compare - the melody was fluid, but seemed perverse and otherworldly, coming from beyond our world.
 
 <figure data-type="image">
-![](/webhook-uploads/1513094877790/PadmoreUchida.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513094877790/PadmoreUchida.jpg)
 <figcaption>Tenor Mark Padmore (Marco Borggreve) and pianist Mitsuko Uchida (Richard Avedon).</figcaption>
 </figure>
 

@@ -4,7 +4,7 @@ date = "2017-06-06T22:22:00-06:00"
 lastmod = "2017-06-08T22:55:00-06:00"
 preamble = "This month, [Opera 5](/scene/companies/opera-5/) presents a double-bill by \"opera's original nasty woman\", Ethel Smyth. Before last season's production of Kaija Saariaho's *L'amour du loin*, Smyth's opera *Der Wald* held the title of the most recent opera composed by a woman to be performed at the Metropolitan Opera - and it went up [over 100 years ago](/teddy-roosevelt-the-chicago-cubs-operas-by-women-at-the-met/). Perhaps more interestingly, Smyth lived a life of political activism, fighting fiercely for women's rights. \n\nSmyth's operas *The Boatswain's Mate* and *Fête Galante* make up Opera 5's production of [*Suffragette*](http://opera5.ca/project/suffragette-details-announced/), directed by [Jessica Derventzis](/scene/people/jessica-derventzis/); the double-bill runs at Theatre Passe Muraille, **June 22-25**. We spoke with Derventzis and Opera 5 co-founder and General Director [Rachel Krehm](/scene/people/rachel-krehm/) about feminist operas, and the strong female leadership of Toronto's opera and classical music scenes.\n\n"
 publishDate = "2017-06-08T21:27:00-06:00"
-short_description = "\"Seeing women at the forefront of so many of the indie opera companies here in Toronto is thrilling. Everyone is doing work that is pushing boundaries, poking at that glass ceiling, and making art that is interesting, exciting, and creative. To see the women responsible for that art, starting their own companies and beginning from nothing, it's truly inspiring.\""
+short_description = "&quot;Seeing women at the forefront of so many of the indie opera companies here in Toronto is thrilling. Everyone is doing work that is pushing boundaries, poking at that glass ceiling, and making art that is interesting, exciting, and creative. To see the women responsible for that art, starting their own companies and beginning from nothing, it&#039;s truly inspiring.&quot;"
 slug = "nasty-women-great-operas-opera-5s-suffragette"
 title = "Nasty women, great operas: Opera 5&#039;s Suffragette"
 +++
@@ -28,7 +28,7 @@ In terms of style, narrative, and genre, both operas are vastly different. With 
 We are tying both shows together through a number of design elements as well. See if you can spot the similarities when you see the show!
 
 <figure data-type="image">
-![](/webhook-uploads/1496809433370/2017-06-07---Jess-Derventzis-Headshots_037.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496809433370/2017-06-07---Jess-Derventzis-Headshots_037.jpg)
 <figcaption>Jessica Derventzis, Opera 5 Production Manager and Stage Director.</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ We are tying both shows together through a number of design elements as well. Se
 What I find most intriguing about Smyth's music is that she has an amazing sense of drama and storytelling, and she knows when to go from the ridiculous to the sublime. This to me is the mark of a fine composer who deserves a platform to be heard.
 
 <figure data-type="image">
-![](/webhook-uploads/1496809421420/2017-06-07---Rachel-Krehm-headshot.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496809421420/2017-06-07---Rachel-Krehm-headshot.jpg)
 <figcaption>Rachel Krehm, Co-Founder and General Director of Opera 5.</figcaption>
 </figure>
 

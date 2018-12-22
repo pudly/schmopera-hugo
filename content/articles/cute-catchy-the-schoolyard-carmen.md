@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-07-27T12:21:00-04:00"
 lastmod = "2017-07-30T11:16:00-04:00"
 publishDate = "2017-07-30T10:27:00-04:00"
-short_description = "Hardcore opera fans will also get a kick out of a show like Schoolyard Carmen. It's entertaining to hear how the music is re-purposed, and there's an added layer of humour comparing the aria contexts of Bizet's work, and Shoestring Opera's. The \"Toreador Song\" was basically the same - a cocky kid telling everyone how great he really is - and Carmen's sombre Card Aria retains its fateful mood as the young newcomer to school ponders her destiny while sitting expectantly in the Vice Principal's office."
+short_description = "Hardcore opera fans will also get a kick out of a show like Schoolyard Carmen. It&#039;s entertaining to hear how the music is re-purposed, and there&#039;s an added layer of humour comparing the aria contexts of Bizet&#039;s work, and Shoestring Opera&#039;s. The &quot;Toreador Song&quot; was basically the same - a cocky kid telling everyone how great he really is - and Carmen&#039;s sombre Card Aria retains its fateful mood as the young newcomer to school ponders her destiny while sitting expectantly in the Vice Principal&#039;s office."
 slug = "cute-catchy-the-schoolyard-carmen"
 title = "Cute &amp; catchy: The Schoolyard Carmen"
 +++
@@ -17,7 +17,7 @@ Perhaps to the relief of concerned opera-savvy adults, *The Schoolyard Carmen* f
 Soprano [Gillian Grossman](/scene/people/gillian-grossman/) plays the spunky, headstrong Carmen, and baritone [Janaka Welihinda](/scene/people/janaka-welihinda/) takes on triple duty as Carmen's uncle, her Vice Principal, and as Toreo, the cocky schoolyard antagonizer that lands Carmen in trouble. Pianist Jiayin Liu and cellist (and Shoestring Opera executive producer) Anne Rankin had orchestra duty, and at times doubled as chorus voices.
 
 <figure data-type="image">
-![](/webhook-uploads/1501172388736/Schoolyard%20Carmen%20Music.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501172388736/Schoolyard%20Carmen%20Music.jpg)
 <figcaption>Jiayin Liu (piano) and Anne Rankin (cello) of Shoestring Opera.</figcaption>
 </figure>
 

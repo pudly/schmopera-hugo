@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-03-09T21:22:00-05:00"
 lastmod = "2018-03-09T22:49:00-05:00"
 publishDate = "2018-03-09T21:29:00-05:00"
-short_description = "The music of the crowd and demons, solidly sung by Kaitlin Foley, Carrie Henneman Shaw, Mischa Bouvier, Drew Minter, William Dwyer, and Mark Haddad, featured shifting homophonic and imitative textures and brisk dance rhythms. Musical highlights include the snappy setting of the word \"Barabbas,\" which formed a recognizable ritornello early on, and a flourishing melisma on the final word of part one (\"festante\"), that traveled brilliantly through each voice in succession."
+short_description = "The music of the crowd and demons, solidly sung by Kaitlin Foley, Carrie Henneman Shaw, Mischa Bouvier, Drew Minter, William Dwyer, and Mark Haddad, featured shifting homophonic and imitative textures and brisk dance rhythms. Musical highlights include the snappy setting of the word &quot;Barabbas,&quot; which formed a recognizable ritornello early on, and a flourishing melisma on the final word of part one (&quot;festante&quot;), that traveled brilliantly through each voice in succession."
 slug = "palpable-chamber-music-haymarket-operas-lenten-oratorio"
 title = "Palpable chamber music: Haymarket Opera&#039;s Lenten Oratorio"
 +++
@@ -13,7 +13,7 @@ As their annual Lenten Oratorio offering, the Haymarket Opera Company presented 
 Structurally the oratorio comprises two sections: the first pits Pontius Pilate against the masses who are clamoring for the release of Barabbas (a rebel detained by Roman governor at the same time as Jesus Christ) and the crucifixion of Jesus. In the second part, the Virgin Mary laments the death of her son among the demons of Hell. Throughout, the music alternated between ensemble sections in a Italian madrigal style, and solo airs for Pilate, a Demon, and Mary that seemed more like very lyrically sung accompanied recitative than full-blown arias. 
 
 <figure data-type="image">
-![](/webhook-uploads/1520648269125/IMG-4894.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520648269125/IMG-4894.jpg)
 <figcaption>Luigi Rossi's *Oratorio per la settimana santa*, Haymarket Opera Company, 2018.</figcaption>
 </figure>
 

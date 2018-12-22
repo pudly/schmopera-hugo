@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-03-05T13:56:00+00:00"
 lastmod = "2016-03-06T15:52:00+00:00"
 publishDate = "2016-03-05T15:15:00+00:00"
-short_description = "It's noteworthy when a singer, in the midst of a busy schedule on the opera stage, is equally dedicated to his work in recital. Tenor Paul Appleby is a thoughtful artist, and he seems to relish the chance not only to tell many small stories in one sitting, but to collect them into a larger story arc of his own creation."
+short_description = "It&#039;s noteworthy when a singer, in the midst of a busy schedule on the opera stage, is equally dedicated to his work in recital. Tenor Paul Appleby is a thoughtful artist, and he seems to relish the chance not only to tell many small stories in one sitting, but to collect them into a larger story arc of his own creation."
 slug = "in-review-paul-appleby-at-wigmore-hall"
 title = "In review: Paul Appleby at Wigmore Hall"
 +++
@@ -19,7 +19,7 @@ A similar arc was built out of the Wolf selections; the Eichendorff texts had mu
 The latter half brought out more voice and gusto from both Appleby and Martineau. Appleby's tenor comes with an enormous palette of colour, including everything from a mixed, floating sound to a full and virile ring. He suited the English songs by Bridge really well, making us want to hear him in some Britten (it's in his repertoire, fear not). The Berlioz were a beautiful change, and his inviting, almost cocky attitude to the final selection, "L'île inconnue", was charming as all get-out.
 
 <figure data-type="image">
-![](/webhook-uploads/1457190875716/Paul-Appleby-High-Res-1---credit-Dario-AcostaResized.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457190875716/Paul-Appleby-High-Res-1---credit-Dario-AcostaResized.jpg)
 <figcaption>Paul Appleby, tenor. Photo by Dario Acosta.</figcaption>
 </figure>
 

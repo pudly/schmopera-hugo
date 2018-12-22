@@ -3,7 +3,7 @@ categories = "News"
 date = "2015-10-18T17:03:00-04:00"
 lastmod = "2015-10-20T14:57:00-04:00"
 publishDate = "2015-10-20T12:30:00-04:00"
-short_description = "This Friday, October 23rd, at Heliconian Hall, \"Duelling Divas\" Kathleen Promane, mezzo-soprano, and Allison Arends, soprano, present a concert full of arias and duets. Pianist Maika'i Nash joins the two ladies, who will be looking very bejeweled indeed with accessories by designer Catherine Sequalino-Poitier. Tickets are $25 at the door and $20 in advance, available by email phone (647-833-5400)."
+short_description = "This Friday, October 23rd, at Heliconian Hall, &quot;Duelling Divas&quot; Kathleen Promane, mezzo-soprano, and Allison Arends, soprano, present a concert full of arias and duets. Pianist Maika&#039;i Nash joins the two ladies, who will be looking very bejeweled indeed with accessories by designer Catherine Sequalino-Poitier. Tickets are $25 at the door and $20 in advance, available by email phone (647-833-5400)."
 slug = "hear-a-little-opera-change-some-lives"
 title = "Hear a little opera, change some lives"
 +++

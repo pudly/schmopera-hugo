@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-11-01T15:34:00+00:00"
 lastmod = "2016-11-03T09:40:00+00:00"
 publishDate = "2016-11-03T09:31:00+00:00"
-short_description = "\"Summon your muse and tell us what happens to Lohengrin after he gets on the swan-less boat at the end of the opera.  Did his boat turn into a time machine and bring him to America's shores to clean up in the aftermath of our presidential election?  Perhaps Lohengrin jumps ship entirely and decides he'd rather dance to Tchaikovsky ballet music.\""
+short_description = "&quot;Summon your muse and tell us what happens to Lohengrin after he gets on the swan-less boat at the end of the opera.  Did his boat turn into a time machine and bring him to America&#039;s shores to clean up in the aftermath of our presidential election?  Perhaps Lohengrin jumps ship entirely and decides he&#039;d rather dance to Tchaikovsky ballet music.&quot;"
 slug = "lohengrin-redux-an-opera-fanfic-contest"
 title = "Lohengrin Redux: an opera fanfic contest"
 +++

@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2014-04-24T08:08:00-04:00"
 lastmod = "2015-04-23T21:24:00-04:00"
 publishDate = "2014-04-24T08:08:00-04:00"
-short_description = "Alright, so Opera on the Avalon has a sense of humour. They put up a billboard to advertise Britten's A Midsummer Night's Dream, one of two shows the program will present this summer in St. John's, Newfoundland. The billboard, I thought, was funny. The slogan for Midsummer was, \"Filled with more fairies than St. John's on Pride Day.\" Snort."
+short_description = "Alright, so Opera on the Avalon has a sense of humour. They put up a billboard to advertise Britten&#039;s A Midsummer Night&#039;s Dream, one of two shows the program will present this summer in St. John&#039;s, Newfoundland. The billboard, I thought, was funny. The slogan for Midsummer was, &quot;Filled with more fairies than St. John&#039;s on Pride Day.&quot; Snort."
 slug = "how-many-fairies-exactly"
 title = "How many fairies, exactly?"
 +++

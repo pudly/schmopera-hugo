@@ -4,7 +4,7 @@ date = "2017-03-28T16:38:00+01:00"
 lastmod = "2017-03-30T23:13:00+01:00"
 preamble = "*The Long Walk*, the new opera by composer Jeremy Howard Beck and librettist Stephanie Fleischmann, had its world premiere in 2015 at Opera Saratoga. The work is based on the book of the same name by [Brian Castner](https://briancastner.com/), Iraq veteran and member of an Explosive Ornance Disposal unit; *The Long Walk* is a personal account of Castner's return home, and his struggle with reintegrating himself into the lives of his family while battling with what he calls \"the Crazy\".\n\nBaritone [Daniel Belcher](/scene/people/daniel-belcher/) returns to the role of Brian in [Utah Opera's upcoming production of *The Long Walk*](http://www.utahopera.org/16-17-season/the-long-walk), **March 31 and April 1** at Wagner Center in Salt Lake City. He spoke about what he calls \"a very special and visceral piece of new music theatre\", and his real-life relationship with Castner."
 publishDate = "2017-03-30T09:51:00+01:00"
-short_description = "\"The best part is getting to know the man very well over the last four years. When I first met Brian in New York, I was very intimidated and, honestly, worried that he would think, 'Who is this guy to play me?' It was quite the opposite; he opened his arms, said, 'Opera Brian!' and gave me a hug. He has been nothing but supportive and in fact, over the years we have become very good friends.\""
+short_description = "&quot;The best part is getting to know the man very well over the last four years. When I first met Brian in New York, I was very intimidated and, honestly, worried that he would think, &#039;Who is this guy to play me?&#039; It was quite the opposite; he opened his arms, said, &#039;Opera Brian!&#039; and gave me a hug. He has been nothing but supportive and in fact, over the years we have become very good friends.&quot;"
 slug = "daniel-belcher-returns-to-the-long-walk"
 title = "Daniel Belcher returns to The Long Walk"
 +++
@@ -24,7 +24,7 @@ In researching a role, first and foremost, I have to know what the librettist an
 The best part is getting to know the man very well over the last four years.  When I first met Brian in New York, I was very intimidated and, honestly, worried that he would think, "Who is this guy to play me?"  It was quite the opposite; he opened his arms, said, "Opera Brian!" and gave me a hug.  He has been nothing but supportive and in fact, over the years we have become very good friends.  I have visited their house in Buffalo, played games with the kids, had barbecues, went to Royals-Blue Jays playoff games, and had innumerable discussions on life over a couple beers.  He is as generous with his story in life as he was in his book.  He truly is an open page.  My job is to tell his story as honestly, heart-felt, open, and expressively as possible.
 
 <figure data-type="image">
-![](/webhook-uploads/1490824107758/2017-03-30---Long-Walk-2.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490824107758/2017-03-30---Long-Walk-2.jpg)
 <figcaption>Daniel Belcher in *The Long Walk*. Photo: Utah Opera/Addie Salazar.</figcaption>
 </figure>
  

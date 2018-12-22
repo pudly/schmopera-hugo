@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2016-01-03T00:29:00-05:00"
 lastmod = "2016-01-03T15:52:00-05:00"
 publishDate = "2016-01-03T15:52:00-05:00"
-short_description = "It seems as though the odd thoughts knocking around my brain about this wacky world of opera weren't unique. Readers, you too were curious about how artists learn their craft, how they earn a living wage by doing it, and what those opera directors are up to. You too wanted to stop defending our beloved art form, and start making more of it without apologies."
+short_description = "It seems as though the odd thoughts knocking around my brain about this wacky world of opera weren&#039;t unique. Readers, you too were curious about how artists learn their craft, how they earn a living wage by doing it, and what those opera directors are up to. You too wanted to stop defending our beloved art form, and start making more of it without apologies."
 slug = "schmopera-is-two"
 title = "Schmopera is two!"
 +++

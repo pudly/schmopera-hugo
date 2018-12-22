@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2015-09-09T12:44:00-04:00"
 lastmod = "2015-09-11T09:08:00-04:00"
 publishDate = "2015-09-11T09:08:00-04:00"
-short_description = "When George Martin and The Beatles made Sgt. Pepper's Lonely Hearts Club Band in 1967, they made history by using the recording studio itself as a sort of \"instrument.\" Songs like \"A Day in the Life\", or even \"With a Little Help from My Friends\" aren't easy to reproduce on a live stage, and the album isn't meant to be a preserved concert in the same way that Please Please Me is. "
+short_description = "When George Martin and The Beatles made Sgt. Pepper&#039;s Lonely Hearts Club Band in 1967, they made history by using the recording studio itself as a sort of &quot;instrument.&quot; Songs like &quot;A Day in the Life&quot;, or even &quot;With a Little Help from My Friends&quot; aren&#039;t easy to reproduce on a live stage, and the album isn&#039;t meant to be a preserved concert in the same way that Please Please Me is. "
 slug = "conductors-what-else-do-they-tell-us"
 title = "Conductors: what else do they tell us?"
 +++
@@ -15,7 +15,7 @@ This is sort of what the role of the conductor has given classical music, if you
 When it comes to contemporary music, the presence of a maestro has come to mean that technically, anything is possible as long as you can show it in a beat pattern. I've worked on opera where singers need to watch a conductor for what they know are the musical basics, like tempo and when to come in. Sometimes that's because the singers and the orchestra can't hear each other, and sometimes it's because there's something unintuitive about the music. 
 
 <figure data-type="image">
-![](/webhook-uploads/1441976197060/toscanini-at-la-scala.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441976197060/toscanini-at-la-scala.jpg)
 <figcaption>Toscanini.</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ Simply put, if trained musicians can't find something intuitive, something human
 I've spoken in broad strokes, I'm sure. Composers are constantly challenged to write something that stays with listeners, and that's difficult because the criteria is vague. I often wonder if the role of a conductor is a tangible point of reference; a more objective version "will it speak to an audience," it's about asking, "what is natural about this music?" Because, what's natural in art will always move people.
 
 <figure data-type="image">
-![](/webhook-uploads/1441976399693/Boulez.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441976399693/Boulez.jpg)
 <figcaption>Pierre Boulez.</figcaption>
 </figure>
 

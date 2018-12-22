@@ -4,7 +4,7 @@ date = "2015-07-28T19:55:00+02:00"
 lastmod = "2015-08-13T00:26:00+02:00"
 preamble = "[The Friends of Gravity](/scene/companies/the-friends-of-gravity/) is all about \"expressive immediacy,\" producing music theatre in intimate spaces, and combining live action and music with film and photographic media. This fall, The Friends of Gravity presents Kurt Weill's fantastic [*Seven Deadly Sins*](http://thefriendsofgravity.org/seven-deadly-sins/), complete with silent film elements. The Friends are [Scott Gabriel](/scene/people/scott-grabriel/), Artistic Director, conductor, and arranger, and [Stephanie Conn](/scene/people/stephanie-conn/), producer and vocal artist. I had the chance to ask them both about The Friends of Gravity, and their place in the Indie Opera T.O. collective.\n\n*Seven Deadly Sins* runs September 25 & 26 at St. Bartholomew Church, 509 Dundas St. E. For details and tickets, follow the box office links below."
 publishDate = "2015-08-12T14:47:00+02:00"
-short_description = "The Friends of Gravity is all about \"expressive immediacy,\" producing music theatre in intimate spaces, and combining live action and music with film and photographic media. This fall, The Friends of Gravity presents Kurt Weill's fantastic Seven Deadly Sins, complete with silent film elements."
+short_description = "The Friends of Gravity is all about &quot;expressive immediacy,&quot; producing music theatre in intimate spaces, and combining live action and music with film and photographic media. This fall, The Friends of Gravity presents Kurt Weill&#039;s fantastic Seven Deadly Sins, complete with silent film elements."
 slug = "check-out-the-friends-of-gravity"
 title = "Check out: The Friends of Gravity"
 +++

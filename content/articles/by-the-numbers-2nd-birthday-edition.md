@@ -3,7 +3,7 @@ categories = "Meta"
 date = "2016-01-02T21:44:00-05:00"
 lastmod = "2016-01-03T11:24:00-05:00"
 publishDate = "2016-01-02T21:44:00-05:00"
-short_description = "Meet Andrej, our co-founder and brain behind all things technical here at Schmopera. Since we're kicking off our third year in operation, and Schmopera has grown from a blog into a brand, we figured it was a good time for Andrej to fill you in on the technical happenings from behind-the-scenes."
+short_description = "Meet Andrej, our co-founder and brain behind all things technical here at Schmopera. Since we&#039;re kicking off our third year in operation, and Schmopera has grown from a blog into a brand, we figured it was a good time for Andrej to fill you in on the technical happenings from behind-the-scenes."
 slug = "by-the-numbers-2nd-birthday-edition"
 title = "By the Numbers: 2nd birthday edition"
 +++
@@ -16,7 +16,7 @@ Just about two years ago now, [Jenna](http://twitter.com/jennamariepiano) and [m
 
 There, that's me.
 
-<img src="/webhook-uploads/1451793905119/me-square.jpg" style="float: right; width: 36%; max-width: 200px; margin: 0 0 1em 1em;">
+<img src="https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451793905119/me-square.jpg" style="float: right; width: 36%; max-width: 200px; margin: 0 0 1em 1em;">
 
 My name is Andrej, I'm the co-founder of Schompera, and the "web guy", "marketing guy", "something's broken, fix it guy", to name a few. I've been a web developer and designer for close to 20 years now, and for my day job, I work for a digital agency called [Sapient Nitro](http://www.sapientnitro.com). Basically, I spend my days solving technical problems for large and complicated web sites and digital campaigns.
 
@@ -33,8 +33,8 @@ You know... I think I'm just going to show you, then explain.
 With no further ado, take a look at a high level view of the traffic that Schmopera has been able generate in the last 24 months:
 
 <figure data-type="image">
-<a href="/webhook-uploads/1451799704613/infographic.webstats.svg">
-![Schmopera Webstats Infographic](/webhook-uploads/1451799704613/infographic.webstats.svg)
+<a href="https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451799704613/infographic.webstats.svg">
+![Schmopera Webstats Infographic](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451799704613/infographic.webstats.svg)
 </a>
 <figcaption>(Click on the image for a -much- larger version you can see in detail)</figcaption>
 </figure>

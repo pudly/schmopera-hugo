@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2014-10-31T09:00:00-04:00"
 lastmod = "2015-04-13T23:38:00-04:00"
 publishDate = "2014-10-31T09:00:00-04:00"
-short_description = "I worked on the COC's production of Madama Butterfly (the final show is tonight), and it was a chance for me to see a perfect example of artistic individuality. The twelve-show run at the Four Seasons Centre was shared by two almost entirely different leading casts, save for Elizabeth DeShong as Suzuki. "
+short_description = "I worked on the COC&#039;s production of Madama Butterfly (the final show is tonight), and it was a chance for me to see a perfect example of artistic individuality. The twelve-show run at the Four Seasons Centre was shared by two almost entirely different leading casts, save for Elizabeth DeShong as Suzuki. "
 slug = "a-tale-of-two-ciocio-sans"
 title = "A Tale of Two Cio-Cio Sans"
 +++

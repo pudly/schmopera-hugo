@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-04-25T10:30:00+01:00"
 lastmod = "2016-04-25T13:51:00+01:00"
 publishDate = "2016-04-25T13:51:00+01:00"
-short_description = "Coote and Clayton shared perfect moments of acknowledgement from their places on opposite sides of the conductor's podium. She was stunning to watch; she had such specificity on her face, from her almost-shy greeting of Gerontius, to her wise, tour-guide qualities as she takes him through his first moments in the afterlife."
+short_description = "Coote and Clayton shared perfect moments of acknowledgement from their places on opposite sides of the conductor&#039;s podium. She was stunning to watch; she had such specificity on her face, from her almost-shy greeting of Gerontius, to her wise, tour-guide qualities as she takes him through his first moments in the afterlife."
 slug = "great-nights-the-dream-of-gerontius"
 title = "Great nights: The Dream of Gerontius"
 +++

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-05-14T20:41:00-04:00"
 lastmod = "2018-05-14T21:25:00-04:00"
 publishDate = "2018-05-14T21:25:00-04:00"
-short_description = "In spite of the fact that it's hard to tell a story in twenty minutes, I walked away from this exciting evening hungry for more short bonbons of opera. I was grateful for the theme of the evening, which the creative teams either ran with or ran away from. "
+short_description = "In spite of the fact that it&#039;s hard to tell a story in twenty minutes, I walked away from this exciting evening hungry for more short bonbons of opera. I was grateful for the theme of the evening, which the creative teams either ran with or ran away from. "
 slug = "5-frankensteinthemed-shorts-leave-you-wanting-more"
 title = "5 Frankenstein-themed shorts leave you wanting more"
 +++
@@ -13,7 +13,7 @@ In what I hope will emerge as a trend in London, The Royal College of Music and 
 The cinematic sound of Joe Kiely's *Amira* began the evening, making me think of a short film produced by Disney and Pixar. The text, also written by Kiely, focused on Harrison, the creator of an artificial intelligence called Amira for the fictional Social Media Company (think Siri, or Alexa). Harrison is contacted by an anonymous figure called Maria (anagrammatic spoiler!) who wishes to install a virus into the Social Media Company to release Amira from the tyranny of government corruption and corporate greed. 
 
 <figure data-type="image">
-![](/webhook-uploads/1526344497630/AnnaCooperPeterEdge.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526344497630/AnnaCooperPeterEdge.jpg)
 <figcaption>Anna Cooper and Peter Edge. Photo courtesy of Tête à Tête.</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ The brilliance of this piece was that in only twenty minutes the psychological s
 *John Henry*, with music by Maeve McCarthy and words by Gary Matthewman, departed from the theme of futuristic invention and instead opted for a setting in the industrial revolution in America. Based on the story of the American folk hero, John Henry is working laying tracks for a railroad in southern America, until the Foreman arrives to say that a steam-powered drilling machine will be replacing the team of builders on this railroad. John Henry challenges the Foreman, setting out to prove that he can work harder and faster than the machine in a competition. John Henry wins the competition, but dies after completion.
 
 <figure data-type="image">
-![](/webhook-uploads/1526344558314/SamuelJamesDewesecompany.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526344558314/SamuelJamesDewesecompany.jpg)
 <figcaption>Samuel James Dewese & company. Photo courtesy of Tête à Tête.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ In terms of narrative arc and the building of characters, I didn't get much besi
 Completely switching gears, *Bear and Friends* was absurd, silly, hilarious, and disturbing all at the same time. Lena Vercauteren's text tells the story of cartoon animals in a forest whose joy in life is to decorate cakes. The dark and ominous music of Lente Verelst warns the audience from the beginning that something strange is going to happen, and when a hungry bear decides that eating all the cake in the forest wasn't enough, the "shocking" turn this story takes is that the bear eats all the animals in the forest as well.
 
 <figure data-type="image">
-![](/webhook-uploads/1526344580649/TimothyMorganGuyElliottPeterEdge.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526344580649/TimothyMorganGuyElliottPeterEdge.jpg)
 <figcaption>Timothy Morgan, Guy Elliott, and Peter Edge. Photo courtesy of Tête à Tête.</figcaption>
 </figure>
 

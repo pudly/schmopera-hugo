@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2014-01-28T14:07:00-05:00"
 lastmod = "2018-01-03T11:25:00-05:00"
 publishDate = "2014-01-28T14:07:00-05:00"
-short_description = "There is this stereotype of \"theatre folk.\" They come to rehearsal enveloped in pashmina, they identify themselves with their choice of uniquely quirky glasses-frames, and they wear the kind of clothing that begs the honest question, \"Did you make that tunic yourself?\""
+short_description = "There is this stereotype of &quot;theatre folk.&quot; They come to rehearsal enveloped in pashmina, they identify themselves with their choice of uniquely quirky glasses-frames, and they wear the kind of clothing that begs the honest question, &quot;Did you make that tunic yourself?&quot;"
 slug = "opera-dont-judge-it-by-its-people"
 title = "Opera: don&#039;t judge it by its people"
 +++

@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2018-05-26T14:03:00-04:00"
 lastmod = "2018-05-26T17:56:00-04:00"
 publishDate = "2018-05-26T17:56:00-04:00"
-short_description = "\"We're in an era where things need to be tried. We can't just do the same. That's the argument against the model in America sometimes, where we just do traditional opera productions for the sake of doing them traditionally because no one wants to see anything different. That to me is not an acceptable answer.\""
+short_description = "&quot;We&#039;re in an era where things need to be tried. We can&#039;t just do the same. That&#039;s the argument against the model in America sometimes, where we just do traditional opera productions for the sake of doing them traditionally because no one wants to see anything different. That to me is not an acceptable answer.&quot;"
 slug = "talking-with-singers-michael-fabiano"
 title = "Talking with singers: Michael Fabiano"
 +++
@@ -39,7 +39,7 @@ We're in a world right now [in opera] where we should be additive and not multip
 The kids from New Jersey went to see the Discovery Orchestra and heard some classical music and operatic literature, and then all the kids wanted to sing "O mio babbino caro" and similar arias. If you lead people to opera and show them what a wonderful thing it is, most people are going to see it's incredible. They never realized 80 instrument could sound that good together and a voice could sing over it. Instead they were used to hearing a piano and a woman with an airy voice at a microphone. When you shift their paradigm, the openness happens.
 
 <figure data-type="image">
-![](/webhook-uploads/1527362010899/222edit.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527362010899/222edit.jpg)
 <figcaption>Michael Fabiano, tenor. Photo by Arielle Doneson.</figcaption>
 </figure>
 

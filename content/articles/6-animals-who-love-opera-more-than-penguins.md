@@ -3,7 +3,7 @@ categories = "Humour"
 date = "2016-05-11T18:16:00+01:00"
 lastmod = "2016-05-16T13:20:00+01:00"
 publishDate = "2016-05-12T14:03:00+01:00"
-short_description = "If you haven't yet heard, there's a certain waddle of penguins (apparently it's \"waddle\", not \"flock\"!) in Antarctica that get totally freaked out by the sound of a tenor:\n"
+short_description = "If you haven&#039;t yet heard, there&#039;s a certain waddle of penguins (apparently it&#039;s &quot;waddle&quot;, not &quot;flock&quot;!) in Antarctica that get totally freaked out by the sound of a tenor:\n"
 slug = "6-animals-who-love-opera-more-than-penguins"
 title = "6 animals who love opera more than penguins"
 +++

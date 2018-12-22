@@ -3,7 +3,7 @@ categories = "Review"
 date = "2015-10-27T14:53:00-04:00"
 lastmod = "2015-10-28T16:25:00-04:00"
 publishDate = "2015-10-28T12:29:00-04:00"
-short_description = "Hawaiian baritone Quinn Kelsey strode into the Richard Bradshaw Amphitheatre, wearing black cowboy boots with his three-piece suit, and said to the audience, \"I apologize in advance for cheat sheets.\""
+short_description = "Hawaiian baritone Quinn Kelsey strode into the Richard Bradshaw Amphitheatre, wearing black cowboy boots with his three-piece suit, and said to the audience, &quot;I apologize in advance for cheat sheets.&quot;"
 slug = "in-review-quinn-kelseys-songs-from-the-heart"
 title = "In review: Quinn Kelsey&#039;s Songs from the Heart"
 +++
@@ -15,7 +15,7 @@ He's preparing for his debut at [Wigmore Hall](https://wigmore-hall.org.uk/whats
 I forgave him for his "cheat sheets" pretty quickly, since Quinn's sound is one of the most beautiful baritone voices singing today. For weeks, I have been looking forward to hearing him at a closer distance, without the bells and whistles of productions like the COC's current [*La traviata*](http://www.coc.ca/PerformancesAndTickets/1516Season/LaTraviata.aspx), in which Quinn sings Giorgio Germont. He chose two English sets, Vaughan Williams' *Songs of Travel* and Finzi's *Let Us Garlands Bring*, plus a few Brahms songs (including a "Von ewiger Liebe" that was "kick-ass," to quote a nearby audience member). It was repertoire that showed Quinn's intuitive musicianship and honest delivery.
 
 <figure data-type="image">
-![](/webhook-uploads/1446063921600/kelsey-headshot--new.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446063921600/kelsey-headshot--new.jpg)
 <figcaption>Quinn Kelsey, baritone. Photo by Ken Howard.
 </figcaption>
 </figure>

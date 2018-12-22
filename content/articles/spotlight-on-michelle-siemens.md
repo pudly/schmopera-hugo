@@ -4,7 +4,7 @@ date = "2015-06-10T21:42:00-04:00"
 lastmod = "2015-06-15T15:19:00-04:00"
 preamble = "This interview is part of our ongoing series of features on young working artists in the opera industry. If you think you'd be a great candidate for an interview, or know someone you'd like to nominate, get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
 publishDate = "2015-06-12T13:53:00-04:00"
-short_description = "Calgary-born mezzo-soprano Michelle Siemens was heard this past season on the Four Seasons Centre stage, as a finalist for the 2014 COC Ensemble Studio competition. Michelle has trained across Canada and in the United States, and I had the chance to work with her on one of her stops, singing Hermia in A Midsummer Night's Dream at Opera on the Avalon."
+short_description = "Calgary-born mezzo-soprano Michelle Siemens was heard this past season on the Four Seasons Centre stage, as a finalist for the 2014 COC Ensemble Studio competition. Michelle has trained across Canada and in the United States, and I had the chance to work with her on one of her stops, singing Hermia in A Midsummer Night&#039;s Dream at Opera on the Avalon."
 slug = "spotlight-on-michelle-siemens"
 title = "Spotlight on: Michelle Siemens"
 +++

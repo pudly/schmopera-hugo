@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2018-07-24T10:33:00-04:00"
 lastmod = "2018-07-26T20:29:00-04:00"
 publishDate = "2018-07-26T20:29:00-04:00"
-short_description = "And, let's be honest, we've all seen these productions, in which even basic narrative details of a piece are obscured, confused, ignored or senselessly \"deconstructed\" with sometimes baffling outcomes."
+short_description = "And, let&#039;s be honest, we&#039;ve all seen these productions, in which even basic narrative details of a piece are obscured, confused, ignored or senselessly &quot;deconstructed&quot; with sometimes baffling outcomes."
 slug = "don-giovanni-in-2018-in-search-of-a-concept"
 title = "Don Giovanni in 2018: in search of a &quot;concept&quot;"
 +++

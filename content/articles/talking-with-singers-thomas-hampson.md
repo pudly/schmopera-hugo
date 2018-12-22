@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2018-10-28T11:01:00-04:00"
 lastmod = "2018-10-28T19:47:00-04:00"
 publishDate = "2018-10-28T19:47:00-04:00"
-short_description = "\"As a singer, as a professional, experienced singer, older colleague,\" Hampson advises young singers entering the profession, \"I can only say that the industry you're in is not the industry I started in.\""
+short_description = "&quot;As a singer, as a professional, experienced singer, older colleague,&quot; Hampson advises young singers entering the profession, &quot;I can only say that the industry you&#039;re in is not the industry I started in.&quot;"
 slug = "talking-with-singers-thomas-hampson"
 title = "Talking with singers: Thomas Hampson"
 +++
@@ -17,7 +17,7 @@ Regardless of whether the focus of the scene is on the physical - how much skin 
 Creating this scene was a small part of the staggering task of creating a new opera; Hampson, though he admits to minimal influence in *Hadrian*'s genesis, took judicious opportunities to vouch for the importance of the voice. Where Wainwright's original writing for Hadrian was too low for Hampson to sing with maxiumum impact, the baritone made the case for revisions. "I essentially rewrote the second half of the trio [with Antinous and Sabina], and [Rufus] was thrilled," he says. "It was all about what makes this work."
 
 <figure data-type="image">
-![](/webhook-uploads/1540737356455/COCHadrian_photobyCatherinePisaroni_LennysStudio.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540737356455/COCHadrian_photobyCatherinePisaroni_LennysStudio.jpg)
 <figcaption>Thomas Hampson (Hadrian) and Isaiah Bell (Antinous) in the Canadian Opera Company's world premiere production of *Hadrian*, 2018. Photo: Catherine Pisaroni/Lenny's Studio.</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Perhaps depressingly, Hampson compares the modern industry with his own early ye
 "There was this foregone conclusion that with every operatic role and experience, you should develop into something vocally and theatrically better," Hampson says. "I don't see that kind of emphasis today."
 
 <figure data-type="image">
-![](/webhook-uploads/1540737290090/ThomasHampson_byDarioAcosta_2.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540737290090/ThomasHampson_byDarioAcosta_2.jpg)
 <figcaption>Thomas Hampson. Photo: Dario Acosta.</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ It leaves a bad taste, to see evidence of the opera industry losing its noble ai
 Perhaps it's Hampson's continuous work in art song that has kept him tethered to this basic tenet of his profession; without costumes, sets, or director's "concepts", a recital singer is left with the simple tools of voice, melody, and text. "A young singer who doesn't sing songs is just going to have a different process of finding the internal life of who he or she is on stage," says Hampson. "There's not an opera singer on the planet who wouldn't benefit from singing songs."
 
 <figure data-type="image">
-![](/webhook-uploads/1540737297642/ThomasHampson_byDarioAcosta_1.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540737297642/ThomasHampson_byDarioAcosta_1.jpg)
 <figcaption>Thomas Hampson. Photo: Dario Acosta.</figcaption>
 </figure>
 

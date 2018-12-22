@@ -4,7 +4,7 @@ date = "2017-06-25T09:58:00-06:00"
 lastmod = "2017-06-26T21:55:00-06:00"
 preamble = "This is the third in a series of essays by composer and guest contributor Frank Pesci. In four installments originally published on [New Music Box](http://www.newmusicbox.org/articles/author/frank-pesci/), Pesci recounts his participation in Fort Worth Opera's [Frontiers](http://www.fwopera.org/operas/frontiers/) showcase, a major opportunity for emerging American composers. "
 publishDate = "2017-06-26T21:22:00-06:00"
-short_description = "I've always been amazed how the rehearsal process produces in me a higher awareness of what I have written. To think that I know every motivation behind every note and gesture is, for me, conceit. I need another's inquiries to drag out the nuggets of meaning and all the things I didn't know I knew about the piece. "
+short_description = "I&#039;ve always been amazed how the rehearsal process produces in me a higher awareness of what I have written. To think that I know every motivation behind every note and gesture is, for me, conceit. I need another&#039;s inquiries to drag out the nuggets of meaning and all the things I didn&#039;t know I knew about the piece. "
 slug = "preparing-for-performance-what-i-didnt-know-i-knew"
 title = "Preparing for performance: what I didn&#039;t know I knew"
 +++
@@ -25,7 +25,7 @@ I've always been amazed how the rehearsal process produces in me a higher awaren
 
 Until it does. Case in point: at the end of the soprano aria, there is a section marked "suddenly cheery," in contrast to previous sections. It wasn't working, and I soon realized that it was because this marking had not made it to the soprano's part. Further, I was able to connect this hopeful moment to a later arietta, in which she sings to her estranged father of her hope that he see the light, metaphorically, which presents blindness as another example of perception, the work's general theme. Light bulbs went on across the rehearsal space and the impact on everyone's performance was immediate.
 
-<figure data-type="image">![](/webhook-uploads/1498406591993/Rehearsal_in_McDavid5.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498406591993/Rehearsal_in_McDavid5.jpg)
 <figcaption>The rehearsal for the reading of my opera The System of Soothing at the McDavid Studio.</figcaption>
 </figure>
 

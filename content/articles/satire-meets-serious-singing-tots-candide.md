@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-01-09T18:23:00-05:00"
 lastmod = "2018-01-09T21:08:00-05:00"
 publishDate = "2018-01-09T18:35:00-05:00"
-short_description = "There was also the choice for some characters to use dialects - dangerous territory when you're already dealing with the pitfalls of Mid-Atlantic English pronunciation. I found the inconsistency of the dialects to be a bit distracting in the longer dialogue scenes, but the focus on great singing always brought you back home. "
+short_description = "There was also the choice for some characters to use dialects - dangerous territory when you&#039;re already dealing with the pitfalls of Mid-Atlantic English pronunciation. I found the inconsistency of the dialects to be a bit distracting in the longer dialogue scenes, but the focus on great singing always brought you back home. "
 slug = "satire-meets-serious-singing-tots-candide"
 title = "Satire meets serious singing: TOT&#039;s Candide"
 +++
@@ -15,7 +15,7 @@ Bernstein himself called *Candide* an operetta and drew the material from Voltai
 In his characteristic minimalist style, Silva Marin had a cast that switched characters, and a set that switched locales very frequently - a tough task to accomplish in a space like the Jane Mallett Theatre. This cast attacked the challenge head-on. 
 
 <figure data-type="image">
-![](/webhook-uploads/1515540776421/2018-01-10---Beller%2CChan%2C-Abrego.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515540776421/2018-01-10---Beller%2CChan%2C-Abrego.jpg)
 <figcaption>(l-r): Vania Chan (Cunegonde), Elizabeth Beeler (Old Woman) and Tonatiuh Abrego (Candide) in *Candide*, Toronto Operetta Theatre, 2017. Photo: Gary Beechey.</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ As the narrator Voltaire, Dr. Pangloss, and the Streetsweeper Martin baritone [N
 Rounding out the principal cast was Elizabeth Beeler in the role of the Old Woman. A comedic *tour de force*, I love watching Beeler on stage. Her ability to clown around while maintaining an elegance and grace is something I won't tire of seeing any time soon. Her big number "I Am Easily Assimilated" was another showstopper - and hilarious to boot. 
 
 <figure data-type="image">
-![](/webhook-uploads/1515540808780/2018-01-10---Beeler-lifted.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515540808780/2018-01-10---Beeler-lifted.jpg)
 <figcaption>Elizabeth Beeler (Old Woman) in *Candide*, Toronto Operetta Theatre, 2017. Photo: Gary Beechey.</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ I felt that the design was a little at odds with the concept though. A blank sta
 One of the pitfalls for *Candide* is the vast number of locales that the story takes place in. In this production, there seemed to be too many complete *a vista* scene changes, which kind of killed the pace for me - though the performers, particularly Borg, were quite adept at picking it back up. 
 
 <figure data-type="image">
-![](/webhook-uploads/1515540824988/2018-01-10---Beller%2C-Chan-We-are-Women.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515540824988/2018-01-10---Beller%2C-Chan-We-are-Women.jpg)
 <figcaption>(l-r): Elizabeth Beeler (Old Woman) an Vania Chan (Cunegonde) in *Candide*, Toronto Operetta Theatre, 2017. Photo: Gary Beechey.</figcaption>
 </figure>
 

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2014-04-12T18:23:00-04:00"
 lastmod = "2015-04-23T22:34:00-04:00"
 publishDate = "2014-04-12T18:23:00-04:00"
-short_description = "Friday night, I went to a workshop presentation given by Fawn Opera & New Music. They presented three excerpts from their latest operatic project, L'homme et le ciel by Canadian composer Adam Scime, with text by Ian Koiter with a French translation by Eric Démoré."
+short_description = "Friday night, I went to a workshop presentation given by Fawn Opera &amp; New Music. They presented three excerpts from their latest operatic project, L&#039;homme et le ciel by Canadian composer Adam Scime, with text by Ian Koiter with a French translation by Eric Démoré."
 slug = "in-review-fawn-operas-lhomme-et-le-ciel"
 title = "In review: Fawn Opera&#039;s L&#039;homme et le ciel"
 +++

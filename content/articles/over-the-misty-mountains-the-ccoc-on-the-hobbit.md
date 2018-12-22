@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-06-06T09:24:00+01:00"
 lastmod = "2016-06-06T16:13:00+01:00"
 publishDate = "2016-06-06T12:29:00+01:00"
-short_description = "\"I think the hardest part was trying to figure out my character. For some characters, they're really specific in what they want and need, but other characters - like mine - you have to figure it all out on your own. I had go on the internet and find out a bunch of stuff on my character. \""
+short_description = "&quot;I think the hardest part was trying to figure out my character. For some characters, they&#039;re really specific in what they want and need, but other characters - like mine - you have to figure it all out on your own. I had go on the internet and find out a bunch of stuff on my character. &quot;"
 slug = "over-the-misty-mountains-the-ccoc-on-the-hobbit"
 title = "Over the Misty Mountains: the CCOC on The Hobbit"
 +++
@@ -47,7 +47,7 @@ Here's how our conversation went, and I'll warn you, it's very hard to discern t
 **Gabriel**: You know, it's really hard to sing while moving around. You lose all this technique and skill that you've learned just goes out the window so you have to teach yourself how to do both at the same time. 
 
 <figure data-type="image">
-![](/webhook-uploads/1465205551510/2016-06-06---Hobbit-2.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465205551510/2016-06-06---Hobbit-2.jpg)
 <figcaption>l-r:  Connor Ross, Gabriel Gough, Giles Tomkins, Maaike van Benthem and Frances Quilty.</figcaption>
 </figure>
 

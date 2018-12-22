@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2014-01-08T22:47:00-05:00"
 lastmod = "2015-04-28T23:04:00-04:00"
 publishDate = "2014-01-08T22:47:00-05:00"
-short_description = "Let's make no fat-lady-singing jokes; this is just sad. Opera Hamilton announced today that it would \"cease operations.\" The company has canceled its upcoming gala Popera, scheduled for Saturday night, as well as its production of Carmen that was set to go up in April. "
+short_description = "Let&#039;s make no fat-lady-singing jokes; this is just sad. Opera Hamilton announced today that it would &quot;cease operations.&quot; The company has canceled its upcoming gala Popera, scheduled for Saturday night, as well as its production of Carmen that was set to go up in April. "
 slug = "we-dont-have-the-cash-to-carry-on"
 title = "&quot;We don&#039;t have the cash to carry on.&quot;"
 +++

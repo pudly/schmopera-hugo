@@ -4,7 +4,7 @@ date = "2016-06-07T03:36:00-06:00"
 lastmod = "2016-06-15T20:31:00-06:00"
 preamble = "American soprano [Angel Blue](/scene/people/angel-blue/) keeps busy with coveted soprano roles like Violetta, Musetta, and Manon, and as a 2015 Opera Awards nominee, a presenter for the BBC Cardiff Singer of the Year Competition, and a former beauty queen, her career is refreshingly versatile. Her singing schedule has her on the stages of La Scala and the Royal Opera House, and this summer she'll sing with the [Metropolitan Opera's Summer Concert Series](https://www.metopera.org/user-information/summer-recital-series/), and with the Los Angeles Philharmonic at the Hollywood Bowl.\n\nAngel chats with us about roles on her bucket list, embracing weaknesses, and the opera-singer-as-athlete."
 publishDate = "2016-06-14T22:33:00-06:00"
-short_description = "\"Be yourself and be happy being yourself. Often times so many young singers in the opera world feel that they need to \"fit in\" with whatever is popular in the field. In slang terms we say, \"do you!\" Just be yourself and be happy being yourself, singing like yourself, looking like yourself, be comfortable with your voice...its strengths and its weaknesses. Even the weaknesses (if you choose to call them that) make you unique.\""
+short_description = "&quot;Be yourself and be happy being yourself. Often times so many young singers in the opera world feel that they need to &quot;fit in&quot; with whatever is popular in the field. In slang terms we say, &quot;do you!&quot; Just be yourself and be happy being yourself, singing like yourself, looking like yourself, be comfortable with your voice...its strengths and its weaknesses. Even the weaknesses (if you choose to call them that) make you unique.&quot;"
 slug = "spotlight-on-angel-blue"
 title = "Spotlight on: Angel Blue"
 +++
@@ -22,7 +22,7 @@ Good singing... I'm not sure that it can really be described. I don't know what 
 I suppose, for me, that good singing simply means that I'm committed to whatever I'm singing, be it opera, oratorio, or a gospel song I grew up with.
 
 <figure data-type="image">
-![](/webhook-uploads/1465826365314/2016-06-13---Angel-Blue---Credit-Sonya-Garza.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465826365314/2016-06-13---Angel-Blue---Credit-Sonya-Garza.jpg)
 <figcaption>Photo by Sonya Garza.</figcaption>
 </figure>
 

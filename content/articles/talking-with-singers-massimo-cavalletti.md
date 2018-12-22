@@ -4,7 +4,7 @@ date = "2016-11-12T14:31:00+00:00"
 lastmod = "2016-11-14T09:36:00+00:00"
 preamble = "Italian baritone Massimo Cavalletti has sung on virtually every major stage from New York to Dubai, yet his roots lie in the real heart of Italian opera. Like Giacomo Puccini, Cavalletti was born in Lucca, Italy, and the beginnings of his professional career were in Milan, in the Academy at La Scala.\n\nThis month, he returns to The Metropolitan Opera to sing in Franco Zeffirelli's iconic production of *La bohème*, opposite Kristine Opolais as Mimì, and Piotr Beczala as Rodolfo; Cavalletti has sung both Marcello and Schaunard at the Met, and this run of performances includes his 100th as Marcello.\n\nCavalletti gave us a thoughtful interview about his relationships with his teachers, his audiences, and his heritage."
 publishDate = "2016-11-14T09:07:00+00:00"
-short_description = "\"I am also happy to come from a family of farmers, from the land that has given and still gives me my cultural and historical roots as well as an attachment to the values of family, homeland and faith, which in many cases are at the foundation of opera itself.\""
+short_description = "&quot;I am also happy to come from a family of farmers, from the land that has given and still gives me my cultural and historical roots as well as an attachment to the values of family, homeland and faith, which in many cases are at the foundation of opera itself.&quot;"
 slug = "talking-with-singers-massimo-cavalletti"
 title = "Talking with singers: Massimo Cavalletti"
 +++

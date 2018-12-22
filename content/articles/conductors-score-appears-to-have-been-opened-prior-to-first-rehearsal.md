@@ -1,0 +1,13 @@
++++
+categories = "Humour"
+date = "2017-03-31T18:20:00+01:00"
+lastmod = "2017-04-01T13:33:00+01:00"
+preamble = "Happy April Fool's Day, readers! Please enjoy Samuel Ramey singing low."
+publishDate = "2017-04-01T13:33:00+01:00"
+short_description = "Breaking news: spine on conductor’s score shows signs of having been opened before the first rehearsal, says source sitting nearby. Currently unclear if the score has been borrowed from a friend."
+slug = "conductors-score-appears-to-have-been-opened-prior-to-first-rehearsal"
+title = "Conductor&#039;s score appears to have been opened prior to first rehearsal"
+youtube_url = "https://youtu.be/85ezTttDh0I"
++++
+
+

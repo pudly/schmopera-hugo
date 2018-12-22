@@ -3,7 +3,7 @@ categories = "News"
 date = "2017-01-06T10:05:00+00:00"
 lastmod = "2017-01-06T14:14:00+00:00"
 publishDate = "2017-01-06T14:14:00+00:00"
-short_description = "There's an appealing subtlety to Folds, a muted chain of pieces that wavers between improvisation and a feeling of familiarity. \"Expressive and accessible, Nathan wrote these pieces purely for the pleasure and beauty inherent in them, not as exercises in composerly rigor or pianistic dexterity. Free of external meanings, the pieces take on their own deeply implicit, wordless significance. These pieces became Folds.\""
+short_description = "There&#039;s an appealing subtlety to Folds, a muted chain of pieces that wavers between improvisation and a feeling of familiarity. &quot;Expressive and accessible, Nathan wrote these pieces purely for the pleasure and beauty inherent in them, not as exercises in composerly rigor or pianistic dexterity. Free of external meanings, the pieces take on their own deeply implicit, wordless significance. These pieces became Folds.&quot;"
 slug = "folds-the-new-fulllength-solo-album-from-nathan-shubert"
 title = "Folds: the new full-length solo album from Nathan Shubert"
 +++
@@ -14,7 +14,7 @@ Later this month, Shubert releases *Folds*, his debut full-length solo album of 
 
 There's an appealing subtlety to *Folds*, a muted chain of pieces that wavers between improvisation and a feeling of familiarity. "Expressive and accessible, Nathan wrote these pieces purely for the pleasure and beauty inherent in them, not as exercises in composerly rigor or pianistic dexterity. Free of external meanings, the pieces take on their own deeply implicit, wordless significance. These pieces became *Folds*."
 
-<figure data-type="image">![](/webhook-uploads/1483697131154/2017-01-07---Shubert---Crowe.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483697131154/2017-01-07---Shubert---Crowe.jpg)
 <figcaption>Nathan Shubert, composer/pianist/keyboardist. Photo by Elissa Crowe.</figcaption>
 </figure>
 

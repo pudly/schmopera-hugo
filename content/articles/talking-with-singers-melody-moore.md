@@ -4,7 +4,7 @@ date = "2016-05-11T06:46:00-04:00"
 lastmod = "2017-08-30T13:13:00-04:00"
 preamble = "Soprano [Melody Moore](/scene/people/melody-moore/) calls the connection she has with Puccini's Floria Tosca \"incredibly strong\"; she has sung the role in Los Angeles and San Francisco, and in September she brings it to Jose Maria Condemi's production at [l'Opéra de Montréal](http://www.operademontreal.com/programmation/tosca#banner).\n\nMoore took the time to talk about some of the enviable roles she's had the chance to perform, about singing new opera, and what's left on her singing bucket list."
 publishDate = "2016-05-11T10:18:00-04:00"
-short_description = "\"It feels like heaven to sing this music. It is a perfect 'lean' into an orchestra that supports and urges forward. I suppose, in singing larger Puccini roles, that I began to see room for roles like Senta and Sieglinde, as did professional coaches and conductors surrounding me - who encouraged me to begin looking into Strauss, Wagner, and Janáček.\""
+short_description = "&quot;It feels like heaven to sing this music. It is a perfect &#039;lean&#039; into an orchestra that supports and urges forward. I suppose, in singing larger Puccini roles, that I began to see room for roles like Senta and Sieglinde, as did professional coaches and conductors surrounding me - who encouraged me to begin looking into Strauss, Wagner, and Janáček.&quot;"
 slug = "talking-with-singers-melody-moore"
 title = "Talking with singers: Melody Moore"
 +++
@@ -14,7 +14,7 @@ title = "Talking with singers: Melody Moore"
 The process of learning new roles is much different, mostly because there is little to no primary information or performance practice to study. Therefore, the learning happens at the piano or with a trusted coach with no previous information about the piece. No tempi from other conductors. No colors from other singers. Just the words and the music, and the music can be tonally difficult if it is newer. Newer music, not always, but often, does not just "fall" into the ear the same as a more traditional western harmony would.
 
 <figure data-type="image">
-![](/webhook-uploads/1462963868365/2016-05-11---Heart-of-a-Soldier-duo-with-Thomas-Hampson-San-Francisco-Opera-image-by-Cory-Weaver.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462963868365/2016-05-11---Heart-of-a-Soldier-duo-with-Thomas-Hampson-San-Francisco-Opera-image-by-Cory-Weaver.jpg)
 <figcaption>Melody Moore with Thomas Hampson in San Francisco Opera's *Heart of a Soldier*. Photo by Cory Weaver.</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ It feels like heaven to sing this music. It is a perfect "lean" into an orchestr
 I was asked to look at a beautiful song, "One Child" by Gregg Kallor, and I was absolutely in love with it: the culmination of its creation, the genesis and growth of the foundational story behind it, and the association with AMFAR. I love supporting humanitarian efforts; especially for a continent that pulls on my soul the way Africa has for my entire life. 
 
 <figure data-type="image">
-![](/webhook-uploads/1462963902324/2016-05-11---Melody-Moore-as-Lady-Macbeth-in-The-Glimmerglass-Festival's-2015-production-of-Macbeth.-Photo--Karli-Cadel-The-Glimmerglass-Festival.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462963902324/2016-05-11---Melody-Moore-as-Lady-Macbeth-in-The-Glimmerglass-Festival's-2015-production-of-Macbeth.-Photo--Karli-Cadel-The-Glimmerglass-Festival.jpg)
 <figcaption>Melody Moore as Lady Macbeth in the Glimmgerglass Festival's 2015 production of *Macbeth*. Photo: Karli Cadel/The Glimmerglass Festival.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ I was asked to look at a beautiful song, "One Child" by Gregg Kallor, and I was 
 I have an incredibly strong connection to Tosca. I believe the role has been calling me since my first walk into the door of classical music. If my love of the opera affected my learning process differently, it would probably be because I was emotionally invested BEFORE learning the role instead of AFTER learning it. 
 
 <figure data-type="image">
-![](/webhook-uploads/1462963946522/2016-05-11---Melody-Moore-as-Tosca-at-San-Francisco-Opera-Photo-by-Kristen-Loken.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462963946522/2016-05-11---Melody-Moore-as-Tosca-at-San-Francisco-Opera-Photo-by-Kristen-Loken.jpg)
 <figcaption>Moore as Tosca at San Francisco Opera. Photo by Kristen Loken.</figcaption>
 </figure>
 

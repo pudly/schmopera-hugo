@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2017-01-04T15:47:00+00:00"
 lastmod = "2017-01-05T11:25:00+00:00"
 publishDate = "2017-01-05T11:01:00+00:00"
-short_description = "If you know an artist - even better, an up-and-coming artist - with some wise words to share about the opera life, please introduce us! You can email us at hello@schmopera.com, and let us know a bit about what they're up to."
+short_description = "If you know an artist - even better, an up-and-coming artist - with some wise words to share about the opera life, please introduce us! You can email us at hello@schmopera.com, and let us know a bit about what they&#039;re up to."
 slug = "spotlight-onwho"
 title = "Spotlight On...who?"
 +++

@@ -4,7 +4,7 @@ date = "2018-06-01T21:05:00-04:00"
 lastmod = "2018-06-04T22:52:00-04:00"
 preamble = "Nevill Holt Opera is rolling out its [2018 season](https://www.nevillholtopera.co.uk/whats-on), to be housed in the company's brand new theatre. The 400-seat theatre, developed within a Leicestershire stable yard, will be inaugurated with Mozart's [*Le nozze di Figaro*](https://www.nevillholtopera.co.uk/whats-on/le-nozze-di-figaro), **June 14-21**, and Thomas Adès' [*Powder Her Face*](https://www.nevillholtopera.co.uk/whats-on/powder-her-face), **June 28 & 30**.\n\nWe spoke with General Manager Rosenna East and Artistic Director Nicholas Chalmers about the theatre's award-winning architecture, and the nod to both old and new in [Nevill Holt Opera's 2018 season](https://www.nevillholtopera.co.uk/whats-on)."
 publishDate = "2018-06-04T22:52:00-04:00"
-short_description = "\"Above all, it's a beautiful and intimate space. The natural colours and textures of the historic materials are brought out, and through a stunning skylight, daylight is brought into the space that was formerly a courtyard. It's a gem of a theatre!\""
+short_description = "&quot;Above all, it&#039;s a beautiful and intimate space. The natural colours and textures of the historic materials are brought out, and through a stunning skylight, daylight is brought into the space that was formerly a courtyard. It&#039;s a gem of a theatre!&quot;"
 slug = "nevill-holt-opera-inaugurates-new-theatre-with-mozart-ads"
 title = "Nevill Holt Opera inaugurates new theatre with Mozart &amp; Adès"
 +++
@@ -21,7 +21,7 @@ Above all, it's a beautiful and intimate space. The natural colours and textures
 a composer and librettist in the 18th century (the same century as our stable yard theatre exterior was constructed). *Powder Her Face* tells of the life and times of the Duchess of Argyll. The score is full of the energy of a young composer, Thomas Adès. Like the architecture of the new building, we have programmed the traditional with the contemporary.
 
 <figure data-type="image">
-![](/webhook-uploads/1527902684785/EastChalmers.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527902684785/EastChalmers.jpg)
 <figcaption>Nevill Holt Opera General Manager Rosenna East, and Artistic Director Nicholas Chalmers.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ a composer and librettist in the 18th century (the same century as our stable ya
 **RE**: Most buildings are designed from the outside in. But a theatre must be designed from the inside out – the most important thing is the acoustic, above all. After that it needs to be visually great for all the audience – and we are proud that in our theatre there are no "bad" seats, no restricted views. That is important. The audience should feel drawn in to the magical space of the performance, and the performers should be able to look out and feel the audience there, supportive, and wrapped up in the drama and the music.
 
 <figure data-type="image">
-![](/webhook-uploads/1527902650596/NewtheatreatNevillHoltOpera.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527902650596/NewtheatreatNevillHoltOpera.jpg)
 <figcaption>The New Theatre at Nevill Holt Opera. Image courtesy of Nevill Holt Opera.</figcaption>
 </figure>
 

@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-11-17T11:03:00+00:00"
 lastmod = "2016-11-17T15:11:00+00:00"
 publishDate = "2016-11-17T15:01:00+00:00"
-short_description = "The \"M\" in Leroux's m'M is the phonetic interpretation of the French word for \"love\" (\"aime\"); complementary to the concerto grosso form - a handful of musicians playing alongside a large ensemble - Leroux offers that \"'m' represents a small group of instrumentalists within the orchestra, and 'M' represents the remaining larger combination of players surrounding the small group.\""
+short_description = "The &quot;M&quot; in Leroux&#039;s m&#039;M is the phonetic interpretation of the French word for &quot;love&quot; (&quot;aime&quot;); complementary to the concerto grosso form - a handful of musicians playing alongside a large ensemble - Leroux offers that &quot;&#039;m&#039; represents a small group of instrumentalists within the orchestra, and &#039;M&#039; represents the remaining larger combination of players surrounding the small group.&quot;"
 slug = "dont-miss-esprit-orchestra-presents-mm"
 title = "Don&#039;t miss: Esprit Orchestra presents m&#039;M"
 +++

@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2017-09-08T12:17:00-04:00"
 lastmod = "2017-09-10T21:29:00-04:00"
 publishDate = "2017-09-10T20:48:00-04:00"
-short_description = "Pianists who work with singers tend to pride themselves on being an anticipator of needs. A great pianist seems to know before the singer does if they need an emergency breath, could use some extra hang-time on a high note, or wants a friendly push in tempo. Yet just as married-for-decades couples can still manage to surprise each other, even the best of pianist-singer relationships aren't perfectly telepathic."
+short_description = "Pianists who work with singers tend to pride themselves on being an anticipator of needs. A great pianist seems to know before the singer does if they need an emergency breath, could use some extra hang-time on a high note, or wants a friendly push in tempo. Yet just as married-for-decades couples can still manage to surprise each other, even the best of pianist-singer relationships aren&#039;t perfectly telepathic."
 slug = "what-do-singers-want-in-a-pianist"
 title = "What do singers want in a pianist?"
 +++

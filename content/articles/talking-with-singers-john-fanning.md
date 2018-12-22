@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2017-09-15T13:02:00-04:00"
 lastmod = "2017-10-02T21:12:00-04:00"
 publishDate = "2017-10-02T20:51:00-04:00"
-short_description = "\"Even geezer singers will take breaths they shouldn't,\" he says of the all-too-human aspect to singing live onstage. \"Those things never change, we just get better at dealing with them.\""
+short_description = "&quot;Even geezer singers will take breaths they shouldn&#039;t,&quot; he says of the all-too-human aspect to singing live onstage. &quot;Those things never change, we just get better at dealing with them.&quot;"
 slug = "talking-with-singers-john-fanning"
 title = "Talking with singers: John Fanning"
 +++
@@ -25,7 +25,7 @@ His role in *Arabella* is the most recent in Fanning's long history with the Can
 For any working opera singer, maintaining an over-30-year career like Fanning's is no accident. "Good advice was the big one," he says of the elements needed for longevity on the stage. His training came with plenty of advice about which roles to take and which to turn down. "I mostly sang roles I should have," he says, adding with a laugh, "with the odd exception to stretch things." Those roles have included everything from Figaro in *Il barbiere di Siviglia*, to Wotan in the COC's production of *Das Rheingold* (marking the opening of the Four Seasons Centre in 2007), to the title role in the world premiere of John Estacio's *Frobisher*.
 
 <figure data-type="image">
-![](/webhook-uploads/1506991848467/Fanning%2C%20John%202.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506991848467/Fanning%2C%20John%202.jpg)
 <figcaption>John Fanning, Canadian baritone.</figcaption>
 </figure>
 

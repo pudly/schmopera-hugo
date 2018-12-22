@@ -4,7 +4,7 @@ date = "2017-05-29T07:17:00-06:00"
 lastmod = "2017-06-06T21:41:00-06:00"
 preamble = "British-Canadian soprano [Christina Haldane](/scene/people/christina-haldane/) has built her career on both sides of the Atlantic, and she seems like an endless source of inspired energy. Rossini, Handel, Donizetti, and lesser-known versions of Cleopatra fill her schedule, and her understudy work brought her to Salzburg and London for the premiere performances of Thomas Adès' *The Exterminating Angel*.\n\nHaldane chats about her childhood spent in self-produced \"one-woman productions\", facing the realities of vocal limitations, and how to free oneself of \"student-itis\"."
 publishDate = "2017-06-06T21:41:00-06:00"
-short_description = "\"I feel one of the biggest challenges for us all not to compare our own successes with others. Have faith in your abilities and learn to keep re-defining your image of what 'success' looks like to you. Check in with what the 'old' you in a rocking chair would say about the choices you make now, any regrets? \""
+short_description = "&quot;I feel one of the biggest challenges for us all not to compare our own successes with others. Have faith in your abilities and learn to keep re-defining your image of what &#039;success&#039; looks like to you. Check in with what the &#039;old&#039; you in a rocking chair would say about the choices you make now, any regrets? &quot;"
 slug = "spotlight-on-christina-haldane"
 title = "Spotlight on: Christina Haldane"
 +++
@@ -20,7 +20,7 @@ WHY singing is my professions is because I can't picture myself doing anything e
 Oh, and I love the dresses and costumes of course! The frocks are of the outmost importance, the best to date being an 8 meter long dress I wore while suspended from the ceiling to sing "v'adoro pupille"... I wish I could have kept it, as it would be fun love to wear it out for my weekly grocery run in Roncy.
 
 <figure data-type="image">
-![](/webhook-uploads/1496064839440/2017-05-29---Cleopatra-11.jpg)<figcaption>Christina Haldane (left) as Cleopatra in *Giulio Cesare in Egitto*, Finnish National Opera, 2012.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496064839440/2017-05-29---Cleopatra-11.jpg)<figcaption>Christina Haldane (left) as Cleopatra in *Giulio Cesare in Egitto*, Finnish National Opera, 2012.</figcaption>
 </figure>
 
 ## What does "good singing" mean to you? What does it feel like when you achieve it?
@@ -36,7 +36,7 @@ It's a challenging work environment at the moment, and I speak with many singers
 In terms of advice, I'd say to focus on the joy and curiosity that the singing world provides: explore your repertoire, work hard, get immersed in your local music scene, enjoy the process of your own artistic development and delve into collaborating with your colleagues. Find your niche, what is it that you have to say as an artist? We are learning throughout our whole careers, so don't get overwhelmed with your technical goals, which are a long term process. 
 
 <figure data-type="image">
-![](/webhook-uploads/1496064789940/2017-05-29---Hadane---Marie---regiment-1.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496064789940/2017-05-29---Hadane---Marie---regiment-1.jpg)
 <figcaption>Christina Haldane as Marie in *La fille du régiment*, 2010.</figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ One thing I have noticed, is that in the UK there are more opportunities for sin
 In Toronto I see a lot of artists turning to self production which contributes vibrantly to the arts scene. However, it would be great to see more options open to singers starting out, in order to bridge that gap between training and singing at the level that's right for national level Canadian companies.
 
 <figure data-type="image">
-![](/webhook-uploads/1496064803111/2017-05-29---Haldane---Cleopatra-19.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496064803111/2017-05-29---Haldane---Cleopatra-19.jpg)
 <figcaption>Christina Haldane (left) as Cleopatra in *Giulio Cesare in Egitto*, Finnish National Opera, 2012.</figcaption>
 </figure>
 

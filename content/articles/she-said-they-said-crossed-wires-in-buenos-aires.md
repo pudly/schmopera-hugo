@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2017-03-13T13:16:00+00:00"
 lastmod = "2017-03-13T13:32:00+00:00"
 publishDate = "2017-03-13T13:32:00+00:00"
-short_description = "She continues, \"Due to pre-contractual breaches and the failure of Teatro Colon to fulfil my contractual terms, which are unquestionably respected wherever I sing, in opera houses and concert halls all over the world, I find myself in the impossibility to perform for the Argentinian audiences, which I love and highly adore.\""
+short_description = "She continues, &quot;Due to pre-contractual breaches and the failure of Teatro Colon to fulfil my contractual terms, which are unquestionably respected wherever I sing, in opera houses and concert halls all over the world, I find myself in the impossibility to perform for the Argentinian audiences, which I love and highly adore.&quot;"
 slug = "she-said-they-said-crossed-wires-in-buenos-aires"
 title = "She said, they said: crossed wires in Buenos Aires"
 +++

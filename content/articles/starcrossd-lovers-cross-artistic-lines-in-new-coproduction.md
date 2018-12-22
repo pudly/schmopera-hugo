@@ -4,7 +4,7 @@ date = "2018-11-16T10:28:00-05:00"
 lastmod = "2018-11-16T10:34:00-05:00"
 preamble = "For its first mainstage production of 2018-19, [Calgary Opera](/scene/people/calgary-opera/) has joined forces with Alberta Ballet to produce the classic tale of William Shakespeare's \"star-cross'd lovers\". Charles Gounod's [*Roméo et Juliette*](https://www.calgaryopera.com/18-19/romeo-and-juliette), conducted by Gordon Gerrard, is directed by Jean Grand-Maître, the Artistic Director of Alberta Ballet.\n\nSchmopera contributor Oliver Munar, who is singing in the coproduction, met with director Grand-Maître for a preview."
 publishDate = "2018-11-16T10:33:00-05:00"
-short_description = "\"I'm glad that Charles Gounod is a French composer because I can understand the opera in my own language. In many ways, Gounod's score is so far away from the Prokofiev score. Prokofiev's music is imminently danceable, the chords and harmonizations are rich and original. But Prokofiev's score is very dark while Gounod infuses a lot of colour, humour and drama.\""
+short_description = "&quot;I&#039;m glad that Charles Gounod is a French composer because I can understand the opera in my own language. In many ways, Gounod&#039;s score is so far away from the Prokofiev score. Prokofiev&#039;s music is imminently danceable, the chords and harmonizations are rich and original. But Prokofiev&#039;s score is very dark while Gounod infuses a lot of colour, humour and drama.&quot;"
 slug = "starcrossd-lovers-cross-artistic-lines-in-new-coproduction"
 title = "&quot;Star-cross&#039;d lovers&quot; cross artistic lines in new co-production"
 +++
@@ -20,7 +20,7 @@ title = "&quot;Star-cross&#039;d lovers&quot; cross artistic lines in new co-pro
 It was a real refreshing journey for me to create and stage this production. When you're choreographing a ballet you know where dancers breathe, where the drama is going to be, where they can tense and where they can relax. With singers, you have to understand how they breathe and live through a moment or a narrative. Breath is emotion. You have to be able to find the place where the singers are so comfortable, and and they feel that what I'm staging is very organic, with their breath and the music itself.
 
 <figure data-type="image">
-![](/webhook-uploads/1542382319369/Jean_Grand_Maiitre_DIRECTOR.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542382319369/Jean_Grand_Maiitre_DIRECTOR.jpg)
 <figcaption>Jean Grand-Maître, Artistic Director of Alberta Ballet and stage director for Calgary Opera's production of *Roméo et Juliette*.</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ It's always interesting to see how we can mix audiences, not just the art. Fusio
 **JGM**: This story seems even more poignant now than any other time I've staged it in the last 25 years. What Shakespeare basically is talking about is the "we" and "they", and intolerance and fear of what is not "us". In these difficult times, I hope people can leave the theatre remembering how precious a life is, how precious compassion is, and that they can both feel and cherish their own humanity.
 
 <figure data-type="image">
-![](/webhook-uploads/1542382386085/RomeoetJuliette_Anne-Marie_MacIntosh_Adam_Luther_Photo_by_Trudie_Lee_Photography_balcony.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542382386085/RomeoetJuliette_Anne-Marie_MacIntosh_Adam_Luther_Photo_by_Trudie_Lee_Photography_balcony.jpg)
 <figcaption>Adam Luther (Romeo) and Anne-Marie MacIntosh (Juliet) in Calgary Opera's production of *Roméo et Juliette*. Photo: Trudie Lee.</figcaption>
 </figure>
 

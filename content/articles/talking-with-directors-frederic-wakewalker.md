@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-11-02T20:11:00+00:00"
 lastmod = "2016-11-10T11:01:00+00:00"
 publishDate = "2016-11-10T10:53:00+00:00"
-short_description = "\"I love going into these places and working with kids,\" says Wake-Walker. \"It's wonderful. I learn so much.\" He jokes that working primary school students is \"pretty much the same\" as directing the singers at La Scala, and adds that for any aspiring director, young people offer valuable learning experiences. \"Kids ask questions that even the pros at La Scala are sometimes a little bit embarrassed to ask.\""
+short_description = "&quot;I love going into these places and working with kids,&quot; says Wake-Walker. &quot;It&#039;s wonderful. I learn so much.&quot; He jokes that working primary school students is &quot;pretty much the same&quot; as directing the singers at La Scala, and adds that for any aspiring director, young people offer valuable learning experiences. &quot;Kids ask questions that even the pros at La Scala are sometimes a little bit embarrassed to ask.&quot;"
 slug = "talking-with-directors-frederic-wakewalker"
 title = "Talking with directors: Frederic Wake-Walker"
 +++
@@ -15,7 +15,7 @@ The "funny gig" is no small house debut for Wake-Walker, and he "relished" the o
 Wake-Walker is not the first director to see that Mozart's *Figaro* is "an incredibly complex piece," full of characters who are "finely drawn." He sees the story of love, marriage, status as one that represents all people, and one that takes us through "all the issues of the world." 
 
 <figure data-type="image">
-![](/webhook-uploads/1478535063085/2016-11-08---Photo-credit-BresciaAmisano-Teatro-alla-Scala-3.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478535063085/2016-11-08---Photo-credit-BresciaAmisano-Teatro-alla-Scala-3.jpg)
 <figcaption>Rehearsing *Le nozze di Figaro* at La Scala. Photo by Brescia Amisano, copyright Teatro alla Scala.</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ Wake-Walker is not the first director to see that Mozart's *Figaro* is "an incre
 "It's an impossibility, it's a world where everyone is loving and forgiving," he explains. "And yet it's there right in front of us on the stage." With this final image, Mozart and Da Ponte pose a question to the public: "Why can we put it up here, why can it not exist over there, [in real life]?"
 
 <figure data-type="image">
-![](/webhook-uploads/1478535126548/Photo-credit-BresciaAmisano-Teatro-alla-Scala-4.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478535126548/Photo-credit-BresciaAmisano-Teatro-alla-Scala-4.jpg)
 <figcaption>Frederic Wake-Walker rehearsing *Le nozze di Figaro* at La Scala. Photo by Brescia Amisano, copyright Teatro alla Scala.</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ Staging masterpieces in historical theatres is only one way that Wake-Walker cre
 "I'm going to go from the rehearsal room in Milan to a primary school in west Cumbria, which is pretty cool," says Wake-Walker. Mahogany has already developed the first Snappy Opera, *The Itch Witch* by Emily Hall and Toby Litt, and now they're working on the next four. The Snappy Operas will travel to various regions in the UK, along with scores and teaching resources to help schools pick them up independently of the workshop process. Developing these ten Snappy Operas "is also a way of building these ongoing relationships with these ten regions in the UK," Wake-Walker explains. With these relationships, Mahogany can develop teams of conductors, directors, and répétiteurs for each region, and Wake-Walker looks forward to "whole follow-up programme" planned for the future, including larger-scale commissions for children's operas.
 
 <figure data-type="image">
-![](/webhook-uploads/1478535159349/2016-11-08---Photo-credit-BresciaAmisano-Teatro-alla-Scala.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478535159349/2016-11-08---Photo-credit-BresciaAmisano-Teatro-alla-Scala.jpg)
 <figcaption>Frederic Wake-Walker rehearsing *Le nozze di Figaro* at La Scala. Photo by Brescia Amisano, copyright Teatro alla Scala.</figcaption>
 </figure>
 

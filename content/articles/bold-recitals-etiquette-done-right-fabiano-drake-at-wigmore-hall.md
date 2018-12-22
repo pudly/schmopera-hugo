@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-05-17T10:53:00-04:00"
 lastmod = "2017-05-17T11:27:00-04:00"
 publishDate = "2017-05-17T11:06:00-04:00"
-short_description = "Many in the audience knew Fabiano from the 2015 production of Onegin and were thrilled to hear the piece - there was much discussion in the ladies washroom after the show. The ladies also concluded that they couldn't wait to hear him on stage again!"
+short_description = "Many in the audience knew Fabiano from the 2015 production of Onegin and were thrilled to hear the piece - there was much discussion in the ladies washroom after the show. The ladies also concluded that they couldn&#039;t wait to hear him on stage again!"
 slug = "bold-recitals-etiquette-done-right-fabiano-drake-at-wigmore-hall"
 title = "Bold recitals &amp; etiquette done right: Fabiano &amp; Drake at Wigmore Hall"
 +++
@@ -25,7 +25,7 @@ After the intermission (interval!) Fabiano and Drake returned with Puccini, Tosc
 It is in this Italian repertoire that Fabiano really shines as this music suits him perfectly. The dramatic range allows for a beautiful amount of diversity. His next piece, Puccini's "Terra e mare" was the most Puccini-esque of the evening with its soaring melody, very evocative of the classic Puccini vocal lines.
 
 <figure data-type="image">
-![](/webhook-uploads/1495033158215/2017-05-17---Drake_Julius_pc_Sim_Canetty-Clarke.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495033158215/2017-05-17---Drake_Julius_pc_Sim_Canetty-Clarke.jpg)
 <figcaption>Julius Drake, pianist. Photo by Sim Canetty-Clarke.</figcaption>
 </figure>
 

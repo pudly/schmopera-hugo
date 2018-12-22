@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2017-10-20T12:07:00-04:00"
 lastmod = "2017-10-20T21:46:00-04:00"
 publishDate = "2017-10-20T19:39:00-04:00"
-short_description = "With the daunting score has come an \"unbelievable\" level of focus from the performers. \"That's maybe even more powerful than this music, these people working either in pairs or quartets or quintets,\" he says of the \"fierce\" level of listening between the singers. \"They're totally wrapped up with this other person.\""
+short_description = "With the daunting score has come an &quot;unbelievable&quot; level of focus from the performers. &quot;That&#039;s maybe even more powerful than this music, these people working either in pairs or quartets or quintets,&quot; he says of the &quot;fierce&quot; level of listening between the singers. &quot;They&#039;re totally wrapped up with this other person.&quot;"
 slug = "its-his-life-its-him-soundstreams-presents-musik-fr-das-ende"
 title = "&quot;It&#039;s his life, it&#039;s him.&quot; Soundstreams presents Musik für das Ende"
 +++

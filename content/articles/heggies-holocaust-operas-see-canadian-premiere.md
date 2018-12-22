@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2018-01-30T21:07:00-05:00"
 lastmod = "2018-02-01T10:16:00-05:00"
 publishDate = "2018-01-31T20:35:00-05:00"
-short_description = "\"What we wanted to explore in these pieces is, what it is to survive when you're not necessarily doing heroic things, you're just surviving,\" Heggie says of his Holocaust-themed one-acts. \"What Krystyna had to do in order to survive was not heroic, it was horrifying.\""
+short_description = "&quot;What we wanted to explore in these pieces is, what it is to survive when you&#039;re not necessarily doing heroic things, you&#039;re just surviving,&quot; Heggie says of his Holocaust-themed one-acts. &quot;What Krystyna had to do in order to survive was not heroic, it was horrifying.&quot;"
 slug = "heggies-holocaust-operas-see-canadian-premiere"
 title = "Heggie&#039;s Holocaust operas see Canadian premiere"
 +++
@@ -17,7 +17,7 @@ On **February 10 and 11**, the new Toronto-based Electric Bond Opera Ensemble pr
 "What we wanted to explore in these pieces is, what it is to survive when you're not necessarily doing heroic things, you're just surviving," he says of his Holocaust-themed one-acts. "What Krystyna had to do in order to survive was not heroic, it was horrifying." 
 
 <figure data-type="image">
-![](/webhook-uploads/1517435667076/HeggieZywulska.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517435667076/HeggieZywulska.jpg)
 <figcaption>Krystyna Żywulska and composer Jake Heggie.</figcaption>
 </figure>
 
@@ -26,12 +26,12 @@ Electric Bond Opera Ensemble's production of *Farewell, Auschwitz* and *Another 
 "I choose stories that make me feel changed," he adds. "If I feel changed in the studio somehow, maybe there's a chance when it gets out in front of people, they will feel changed and touched somehow too."
 
 <figure data-type="image">
-![](/webhook-uploads/1517435674863/IMG_5247.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517435674863/IMG_5247.jpg)
 <figcaption>(l-r) Aaron Willis, Michael Shannon, and Sara Schabas in rehearsal. Photo: Jim Roe.</figcaption>
 </figure>
 
 Electric Bond Opera Ensemble presents [*Farewell, Auschwitz* and *Another Sunrise*](https://www.beth-tzedec.org/page/hub/category/event-another-sunrise-farewell-auschwitz-opera) at **8pm on February 10, and 2pm on February 11**, at Toronto's Beth Tzedec Congregation. For details and ticket information, visit [anothersunrise.ca](https://www.beth-tzedec.org/page/hub/category/event-another-sunrise-farewell-auschwitz-opera) or call 416-781-3511.
 
 <figure data-type="image">
-![](/webhook-uploads/1517498180988/2018_AnotherSunriseOpera.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517498180988/2018_AnotherSunriseOpera.jpg)
 </figure>

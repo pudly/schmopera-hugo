@@ -3,7 +3,7 @@ categories = "News"
 date = "2015-10-09T11:31:00-04:00"
 lastmod = "2015-10-11T10:46:00-04:00"
 publishDate = "2015-10-11T10:46:00-04:00"
-short_description = "Opera da Camera is all about accessibility. For their upcoming Hänsel, they'll hold two free pre-show talks, aimed at both young and adult audiences. \"Before our matinée performance, there will be a pre-opera talk geared especially towards children with a professional story teller, and before the opening night there is a pre-opera talk given by a representative of the Goethe Institute of Montreal.\""
+short_description = "Opera da Camera is all about accessibility. For their upcoming Hänsel, they&#039;ll hold two free pre-show talks, aimed at both young and adult audiences. &quot;Before our matinée performance, there will be a pre-opera talk geared especially towards children with a professional story teller, and before the opening night there is a pre-opera talk given by a representative of the Goethe Institute of Montreal.&quot;"
 slug = "opera-da-cameras-hnsel-und-gretel"
 title = "Opera da Camera&#039;s Hänsel und Gretel"
 +++
@@ -17,7 +17,7 @@ Accessible opera means a comfy night at the theatre, too. "The Théâtre Le Châ
 Opera da Camera has expanded their season from one show to two, and they continue to look at the big picture of what it means to produce opera. "One lofty goal we have for this company is to create future audiences and future artists for this art form we all love and have chosen to make careers in. At least, with our productions, we hope to provide an entry point into opera for tentative, first-time opera goers, and with this show in particular, for children."
 
 <figure data-type="image">
-![](/webhook-uploads/1444405786518/_MG_9803Resized.jpg)<figcaption>Meagan Zantingh as Hänsel and Valérie Bélanger as Gretel. Photo courtesy of Opera da Camera.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444405786518/_MG_9803Resized.jpg)<figcaption>Meagan Zantingh as Hänsel and Valérie Bélanger as Gretel. Photo courtesy of Opera da Camera.</figcaption>
 </figure>
 
 *Hänsel und Gretel* plays for 4 shows, October 17, 18 (matinee), 22 and 24th at the [Ciné-Théâtre Le Château](http://www.theatrelechateau.ca/). For details and tickets, follow the box office links below.

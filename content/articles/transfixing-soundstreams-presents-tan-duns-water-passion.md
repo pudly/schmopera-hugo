@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-03-13T16:52:00-04:00"
 lastmod = "2018-03-13T16:52:00-04:00"
 publishDate = "2018-03-13T16:52:00-04:00"
-short_description = "Michelle Colton, Aiyun Huang, and Ryan Scott showed what true musical versatility means, playing timpani, water (yes, they actually played the water - sometimes with cups to create a neat effect that reminded me of horses galloping through water), cymbals (which they would then dip in the water to create new effects), singing prayer bowls and that's just in the first two movements."
+short_description = "Michelle Colton, Aiyun Huang, and Ryan Scott showed what true musical versatility means, playing timpani, water (yes, they actually played the water - sometimes with cups to create a neat effect that reminded me of horses galloping through water), cymbals (which they would then dip in the water to create new effects), singing prayer bowls and that&#039;s just in the first two movements."
 slug = "transfixing-soundstreams-presents-tan-duns-water-passion"
 title = "Transfixing: Soundstreams presents Tan Dun&#039;s Water Passion"
 +++
@@ -17,7 +17,7 @@ The stage was set up with a series of clear glass basins, lit from beneath, and 
 The choir, Soundstreams's own Choir 21 were incredible. Their dynamic range was incredible and their tuning was spine-tingling. The diction could have been a little crisper, but I'm not sure that is really a priority in this kind of a work. Their haunting harmonies and the divisions of the female and male voices added a neat dimension to the production of the sound. 
 
 <figure data-type="image">
-![](/webhook-uploads/1520974165387/Soundstreams_TanDun_WaterPassion-122.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520974165387/Soundstreams_TanDun_WaterPassion-122.jpg)
 <figcaption>David Fallis, soprano Carla Huhtanen and Choir 21. Photo by Trevor Haldenby.</figcaption>
 </figure>
 

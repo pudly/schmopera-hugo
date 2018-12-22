@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2015-10-03T13:29:00-04:00"
 lastmod = "2015-10-04T18:01:00-04:00"
 publishDate = "2015-10-03T13:36:00-04:00"
-short_description = "I came across this comprehensive list of operas written after World War II, compiled by French writer and critic Thierry Vagne. There are hundreds of operas listed by John Adams, Krzysztof Penderecki, Steve Reich, Harrison Birtwistle, Benjamin Britten, and way, way more that I'd bet you've never heard of."
+short_description = "I came across this comprehensive list of operas written after World War II, compiled by French writer and critic Thierry Vagne. There are hundreds of operas listed by John Adams, Krzysztof Penderecki, Steve Reich, Harrison Birtwistle, Benjamin Britten, and way, way more that I&#039;d bet you&#039;ve never heard of."
 slug = "look-at-all-the-new-operas"
 title = "Look at all the new operas!"
 +++

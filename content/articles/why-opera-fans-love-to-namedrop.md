@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2017-03-22T21:35:00+00:00"
 lastmod = "2017-03-23T11:31:00+00:00"
 publishDate = "2017-03-23T11:03:00+00:00"
-short_description = "Basically, if we were to tell you that Terrence Malick has made a new Netflix miniseries starring Meryl Streep and John C. Reilly, and that it was written by JJ Abrams, and that it features cameos by Alan Rickman, Uzo Aduba, and (maybe?) Stan Lee, you'd go see it, right?"
+short_description = "Basically, if we were to tell you that Terrence Malick has made a new Netflix miniseries starring Meryl Streep and John C. Reilly, and that it was written by JJ Abrams, and that it features cameos by Alan Rickman, Uzo Aduba, and (maybe?) Stan Lee, you&#039;d go see it, right?"
 slug = "why-opera-fans-love-to-namedrop"
 title = "Why opera fans love to name-drop"
 +++

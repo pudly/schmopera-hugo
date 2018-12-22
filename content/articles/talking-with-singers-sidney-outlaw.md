@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-09-24T14:59:00+01:00"
 lastmod = "2016-09-27T13:09:00+01:00"
 publishDate = "2016-09-27T12:53:00+01:00"
-short_description = "\"I try my best to lead by example,\" he says. Outlaw sees his singing as an opportunity for putting something positive in the world, \"to perform and sing and be a blessing in people's lives, so if they have that kind of hate in their heart, when I'm done with them, they don't any more.\""
+short_description = "&quot;I try my best to lead by example,&quot; he says. Outlaw sees his singing as an opportunity for putting something positive in the world, &quot;to perform and sing and be a blessing in people&#039;s lives, so if they have that kind of hate in their heart, when I&#039;m done with them, they don&#039;t any more.&quot;"
 slug = "talking-with-singers-sidney-outlaw"
 title = "Talking with singers: Sidney Outlaw"
 +++
@@ -29,7 +29,7 @@ Though the repertoire sits comfortably in his voice, his insists, "I practice te
 On top of his singing regime, Outlaw trains at Olympic weightlifting and CrossFit. "I have a great coach here in the city, and he's found a really great way to relate singing to the strength portion of our workout." He compares great singing to the fleeting moment of zero-gravity when lifting a weight above his head. "I kind of think of singing, in that way," he says. When things are going right, "it feels free, it feels weightless, effortless. And the reason that it feels effortless is because of the air flow."
 
 <figure data-type="image">
-![](/webhook-uploads/1474836852778/2016-09-25---Outlaw.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474836852778/2016-09-25---Outlaw.jpg)
 <figcaption>Sidney Outlaw, baritone and avid Olympic weightlifter. Photo: Anthony Lucic.</figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ It's a topic that carries weight, but it doesn't take up a lot of head space for
 "There's so much hate in the world, and people look to us as artists to be there. They use music and art as a means of release and forgetting about that," he explains of what he calls his "charge" as a singer. "People look to musicians for that, people look to singers. It is the most high art form, what we do."
 
 <figure data-type="image">
-![](/webhook-uploads/1474836762023/2016-09-25---Outlaw-Jones.jpg)<figcaption>Outlaw with Warren Jones, Music for a Great Space.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474836762023/2016-09-25---Outlaw-Jones.jpg)<figcaption>Outlaw with Warren Jones, Music for a Great Space.</figcaption>
 </figure>
 
 "I'd love to see more blacks in the administrative positions in the opera world," adds Outlaw, who himself has considered working as an artist manager. "That's one thing I would love to do, is see more black people in the arts administration portion of what we do as artists. Teaching, being the heads of voice departments, things like that."

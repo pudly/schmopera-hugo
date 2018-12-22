@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-12-07T12:42:00+00:00"
 lastmod = "2016-12-07T17:58:00+00:00"
 publishDate = "2016-12-07T15:00:00+00:00"
-short_description = "\"There is something very exciting about staging grand opera in an intimate venue,\" says Redmond, \"that brings a power and intensity to the performances that one can sometimes miss in a large opera house. With an orchestra of 80, a chorus of nearly 100, and an international cast of soloists, it's an exciting sound!\""
+short_description = "&quot;There is something very exciting about staging grand opera in an intimate venue,&quot; says Redmond, &quot;that brings a power and intensity to the performances that one can sometimes miss in a large opera house. With an orchestra of 80, a chorus of nearly 100, and an international cast of soloists, it&#039;s an exciting sound!&quot;"
 slug = "falstaff-in-cambridge"
 title = "Falstaff in Cambridge"
 +++
@@ -21,7 +21,7 @@ The cast of *Falstaff* is a mix of established and rising artists. Bass-baritone
 To find out more, check out the Cambridge Philharmonic's 2016-17 [season line-up](http://cam-phil.org.uk/programme.html); for tickets to *Falstaff*, **December 10** at West Road Concert Hall, [click here.](http://cam-phil.org.uk/programme.html?showpayments#2016-12-10)
 
 <figure data-type="image">
-![](/webhook-uploads/1481117628839/2016-12-7---Falstaff-Poster.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481117628839/2016-12-7---Falstaff-Poster.jpg)
 </figure>. 
 
 

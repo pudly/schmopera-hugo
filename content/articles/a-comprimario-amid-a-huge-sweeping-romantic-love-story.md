@@ -4,7 +4,7 @@ date = "2017-05-16T14:08:00-04:00"
 lastmod = "2017-05-17T21:24:00-04:00"
 preamble = "Toronto-based baritone (and Schmopera contributor) [Gregory Finney](/scene/people/gregory-finney/) has made a name for himself performing opera's favourite *comprimario* roles - or [character roles](/the-life-of-a-comprimario-or-oh-youre-that-guy/). Like all great character singers, Finney specialises in short bursts of scene-stealing stage time, the kind you can catch this month in [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/)'s upcoming production of [*La bohème*](/bohemian-atg-boheme/). Starting this Friday night, the show sees its 3rd run in Toronto, and Finney is the sole returning cast member from the original production in 2011.\n\nWe spoke with Finney about playing bumbling landlords and oblivious older gentlemen, and how attention to detail - even in the small roles - creates a realistic, organic world in which Puccini's heartbreaking action can unfold."
 publishDate = "2017-05-17T20:05:00-04:00"
-short_description = "\"I also love seeing how Joel [Ivany] and Toph [Mokrzewski] have evolved with the score and libretto, and with their directing styles. One of my favourite things about this business is watching my friends and colleagues grow and learn and develop and continue to astound me. I never cease to learn from everyone in the room, and you learn the most from people with a bona fide passion for what they do.\""
+short_description = "&quot;I also love seeing how Joel [Ivany] and Toph [Mokrzewski] have evolved with the score and libretto, and with their directing styles. One of my favourite things about this business is watching my friends and colleagues grow and learn and develop and continue to astound me. I never cease to learn from everyone in the room, and you learn the most from people with a bona fide passion for what they do.&quot;"
 slug = "a-comprimario-amid-a-huge-sweeping-romantic-love-story"
 title = "A comprimario amid a &quot;huge, sweeping, romantic love story&quot;"
 +++
@@ -22,7 +22,7 @@ As for Alcindoro - or Lulu, as Musetta calls him - in the original can come off 
 In all honesty, I can't really fault Benoît for coming to collect the rent. I've been a renter my entire adult life. In Benoît's case, it's been six months since a rent cheque cleared, and if I were Benoît, I'd be upset too. That being said, what I like about Benoît, is that he's still a human with faults and flaws and who makes bad choices - he's not just a totalitarian who's always right. 
 
 <figure data-type="image">
-![](/webhook-uploads/1494989832511/2017-05-16---Boheme-2011.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494989832511/2017-05-16---Boheme-2011.jpg)
 <figcaption>(l-r) Justin Welsh (Marcello), Ryan Harper (Rodolfo), Gregory Finney (Benoît), Keith Lam (Schaunard), and Neil Craighead (Colline) in AtG's *La bohème*, 2011. Photo courtesy of NikPix.ca.</figcaption>
 </figure>
 

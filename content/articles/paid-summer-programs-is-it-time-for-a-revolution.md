@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2015-11-27T09:35:00-05:00"
 lastmod = "2015-11-27T11:39:00-05:00"
 publishDate = "2015-11-27T11:30:00-05:00"
-short_description = "Summer programs, and their expensive nature, have been under scrutiny during this 2015/16 audition season. It's not a new conversation; the advent of bloggers has meant conversations about not-cheap aspects to the opera training industry, including famed bass-baritone Alan Held's strong words for YAPs (conversely, there's this controversial article about why audition fees are necessary)."
+short_description = "Summer programs, and their expensive nature, have been under scrutiny during this 2015/16 audition season. It&#039;s not a new conversation; the advent of bloggers has meant conversations about not-cheap aspects to the opera training industry, including famed bass-baritone Alan Held&#039;s strong words for YAPs (conversely, there&#039;s this controversial article about why audition fees are necessary)."
 slug = "paid-summer-programs-is-it-time-for-a-revolution"
 title = "Paid summer programs: is it time for a revolution?"
 +++

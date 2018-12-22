@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2018-03-15T20:24:00-04:00"
 lastmod = "2018-03-19T12:48:00-04:00"
 publishDate = "2018-03-18T18:23:00-04:00"
-short_description = "Lots of laughter punctuated our shop talk and often the most memorable moments occurred during the singers' natural repartee. Below is a lightly-edited collection of answers to some of my questions, which I asked over the course of an hour-long conversation. Read on for a bit of insight into these three singers' lives and work."
+short_description = "Lots of laughter punctuated our shop talk and often the most memorable moments occurred during the singers&#039; natural repartee. Below is a lightly-edited collection of answers to some of my questions, which I asked over the course of an hour-long conversation. Read on for a bit of insight into these three singers&#039; lives and work."
 slug = "roundtable-an-operatic-triple-threat"
 title = "Roundtable: an operatic triple threat"
 +++
@@ -21,7 +21,7 @@ title = "Roundtable: an operatic triple threat"
 **BB**: Never! Never ever. It's what I call a "trap aria." I find it very dangerous to sing in auditions. So for me, it was time to do my first big French opera and things just came together. In the end, I put the music in my hands and I tried to stay as flexible as possible… I want to be open to anything.
 
 <figure data-type="image">
-![](/webhook-uploads/1521411406502/Ailyn-Pe%CC%81rez_Benjamin-Bernheim_FAUST_T8A1213_c.Cory-Weaver.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521411406502/Ailyn-Pe%CC%81rez_Benjamin-Bernheim_FAUST_T8A1213_c.Cory-Weaver.jpg)
 <figcaption>Ailyn Pérez and Benjamin Bernheim in *Faust*, Lyric Opera of Chicago, 2018. Photo: Cory Weaver.</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ And I still always think to myself, "What would Maria Callas do?"
 **CVH**: We all have humble beginnings.
 
 <figure data-type="image">
-![](/webhook-uploads/1521411658407/Christian-Van-Horn_Benjamin-Bernheim_FAUST_37A0501_c.Cory-Weaver.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521411658407/Christian-Van-Horn_Benjamin-Bernheim_FAUST_37A0501_c.Cory-Weaver.jpg)
 <figcaption>Christian Van Horn and Benjamin Bernheim in *Faust*, Lyric Opera of Chicago, 2018. Photo: Cory Weaver.</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ And I still always think to myself, "What would Maria Callas do?"
 **AP**: It's couture!
 
 <figure data-type="image">
-![](/webhook-uploads/1521411642505/Ailyn-Pe%CC%81rez_Benjamin-Bernheim_Christian-Van-Horn_FAUST_T8A1141_c.Cory-Weaver.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521411642505/Ailyn-Pe%CC%81rez_Benjamin-Bernheim_Christian-Van-Horn_FAUST_T8A1141_c.Cory-Weaver.jpg)
 <figcaption>Ailyn Pérez, Benjamin Bernheim, and Christian Van Horn in *Faust*, Lyric Opera of Chicago, 2018. Photo: Cory Weaver.</figcaption>
 </figure>
 
@@ -136,7 +136,7 @@ And I still always think to myself, "What would Maria Callas do?"
 [*laughter*]
 
 <figure data-type="image">
-![](/webhook-uploads/1521411764895/Ailyn-Pe%25CC%2581rez_Benjamin-Bernheim_Christian-Van-Horn_FAUST_T8A1168c.Cory-Weaver.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521411764895/Ailyn-Pe%25CC%2581rez_Benjamin-Bernheim_Christian-Van-Horn_FAUST_T8A1168c.Cory-Weaver.jpg)
 <figcaption>Ailyn Pérez, Benjamin Bernheim, and Christian Van Horn in *Faust*, Lyric Opera of Chicago, 2018. Photo: Cory Weaver.</figcaption>
 </figure>
 

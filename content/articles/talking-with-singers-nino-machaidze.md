@@ -4,7 +4,7 @@ date = "2017-05-28T10:43:00-04:00"
 lastmod = "2017-05-28T22:10:00-04:00"
 preamble = "Since her graduation from Accademia del Teatro alla Scala in Milan, Georgian soprano [Nino Machaidze](/scene/people/nino-machaidze/) has kept a full schedule of enviable roles at major opera houses; women like Desdemona (*Otello*), Violetta (*La traviata*), Micaëla (*Carmen*) and Thaïs (*Thaïs*) have brought her to Covent Garden, La Scala, the Vienna State Opera, Teatro del Liceu, and Los Angeles. \n\nThis week, [San Francisco Opera](/scene/companies/san-francisco-opera/) opens *Rigoletto*, starring Machaidze as Gilda. We spoke with the soprano about playing young characters, the opera singer's universal love of Verdi, and how social media offers her a major boost in connecting with her audience."
 publishDate = "2017-05-28T21:48:00-04:00"
-short_description = "\"I think a long career is made by saying 'No,' not by saying 'Yes' to everything. Even when there are really attractive operas that you want to sing in that moment and important opera houses are offering them to you, even more you must say 'No.' The more carefully you go, the further you will go!\""
+short_description = "&quot;I think a long career is made by saying &#039;No,&#039; not by saying &#039;Yes&#039; to everything. Even when there are really attractive operas that you want to sing in that moment and important opera houses are offering them to you, even more you must say &#039;No.&#039; The more carefully you go, the further you will go!&quot;"
 slug = "talking-with-singers-nino-machaidze"
 title = "Talking with singers: Nino Machaidze"
 +++
@@ -18,7 +18,7 @@ Gilda is a naive, young girl who wants to discover life outside of the door of h
 You can't sing Verdi without goosebumps and tears, just like Puccini. With Verdi, you must always wait to sing his operas because almost all his parts need someone of the right age and maturity. Gilda is a young character, but still her part as written in the score is lyrical and needs a lyrical voice. Of course, you need high notes, i "filati" e "mezze voci"; but Gilda needs a lyrical voice, especially in the last act where the orchestra is really loud and you have to project your voice to the back of the hall! Verdi is unique; Verdi is emotions; Verdi is perfection!
 
 <figure data-type="image">
-![](/webhook-uploads/1495982906404/2017-05-28---Nino-Machaidze-as-Gilda-in-Verdis-Rigoletto-in-rehearsal-at-San-Francisco-Opera-Photo-by-Cory-Weaver.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495982906404/2017-05-28---Nino-Machaidze-as-Gilda-in-Verdis-Rigoletto-in-rehearsal-at-San-Francisco-Opera-Photo-by-Cory-Weaver.jpg)
 <figcaption>Nino Machaidze as Gilda in Verdi's *Rigoletto*, in rehearsal at San Francisco Opera. Photo: Cory Weaver.</figcaption>
 </figure>
 

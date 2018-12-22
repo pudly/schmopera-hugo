@@ -3,7 +3,7 @@ categories = "News"
 date = "2015-11-27T17:59:00-05:00"
 lastmod = "2015-11-28T20:18:00-05:00"
 publishDate = "2015-11-29T09:00:00-05:00"
-short_description = "These days, you can hear your beloved Messiah any way you like it. Soundstreams is trying out a brand new way to hear Handel's ubiquitous, beloved work. On December 7 and 8, as part of their Ear Candy series, Soundstreams presents Electric Messiah, or, \"Handel goes Underground: A stripped down, surround-sound electro-improv Messiah for today’s Toronto.\""
+short_description = "These days, you can hear your beloved Messiah any way you like it. Soundstreams is trying out a brand new way to hear Handel&#039;s ubiquitous, beloved work. On December 7 and 8, as part of their Ear Candy series, Soundstreams presents Electric Messiah, or, &quot;Handel goes Underground: A stripped down, surround-sound electro-improv Messiah for today’s Toronto.&quot;"
 slug = "dont-miss-electric-messiah"
 title = "Don&#039;t miss: Electric Messiah"
 +++
@@ -17,7 +17,7 @@ If it sounds interesting, you're right. Staged cabaret-style, by dramaturg [Ashl
 Selections of *Messiah* will be stripped down to their "barest essentials", and four singers, with guitar and electronics, bring their own artistic styles and backgrounds to the stage. Featured are [Gabriel Dharmoo](https://www.musiccentre.ca/node/37905/biography), South Indian sound poet, [Christine Duncan](http://www.barnyardrecords.com/bio%20christine.html), improvisation specialist, Maliseet musician [Jeremy Dutcher](https://twitter.com/jdutcher_music), and Finnish-Canadian soprano [Carla Huhtanen](/scene/people/carla-huhtanen/). Finally, turntable artist [SlowPitch Sound](http://www.slowpitchsound.com/) will "weave his magic throughout, mixing in *Messiah* old and new in humorous and poignant response to the other performers."
 
 <figure data-type="image">
-![](/webhook-uploads/1448759479022/2015-11-29---SlowPitch-Sound.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448759479022/2015-11-29---SlowPitch-Sound.jpg)
 <figcaption>Turntable artist SlowPitch Sound.</figcaption>
 </figure>
 

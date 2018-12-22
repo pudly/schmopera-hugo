@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2017-04-21T20:33:00-04:00"
 lastmod = "2017-05-03T10:01:00-04:00"
 publishDate = "2017-05-03T09:44:00-04:00"
-short_description = "Listening to Thousands of Miles is a complete treat. Lindsey's clear, warm mezzo is certainly versatile, but she has also chosen her repertoire wisely. It's the sound of the Weill songs that seems to inform the rest of the music on this album; though the songs by Zemlinsky, Korngold, and Alma Mahler can easily fall in the world of late-Romantic German Lieder, there's a delicious flavour in the way Lindsey and Trotignon perform them."
+short_description = "Listening to Thousands of Miles is a complete treat. Lindsey&#039;s clear, warm mezzo is certainly versatile, but she has also chosen her repertoire wisely. It&#039;s the sound of the Weill songs that seems to inform the rest of the music on this album; though the songs by Zemlinsky, Korngold, and Alma Mahler can easily fall in the world of late-Romantic German Lieder, there&#039;s a delicious flavour in the way Lindsey and Trotignon perform them."
 slug = "thousands-of-miles-its-raw"
 title = "Thousands of Miles: &quot;It&#039;s raw.&quot;"
 +++
@@ -19,7 +19,7 @@ With her early background in musical theatre, and her professional experience as
 "He would say, 'I think these things fit together nicely,' because as a jazz pianist, he could feel the emergence of jazz in the classical pieces." 
 
 <figure data-type="image">
-![](/webhook-uploads/1493751533039/2017-05-02---Kate2016a--c-Richard-Dumas_Alpha-Classics.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493751533039/2017-05-02---Kate2016a--c-Richard-Dumas_Alpha-Classics.jpg)
 <figcaption>Kate Lindsey. Photo by Richard Dumas/Alpha Classics.</figcaption>
 </figure>
 

@@ -3,7 +3,7 @@ categories = "Review"
 date = "2015-05-20T15:36:00-04:00"
 lastmod = "2015-05-21T09:11:00-04:00"
 publishDate = "2015-05-21T08:30:00-04:00"
-short_description = "At yesterday's noon-hour concert in the Richard Bradshaw Amphitheatre, COC Ensemble Studio member Owen McCausland had the stage (mostly) to himself. Owen sang a full recital, including 6 of the Janáček songs, plus selections from Ralph Vaughan Williams' The House of Life and Benjamin Britten's Les illuminations."
+short_description = "At yesterday&#039;s noon-hour concert in the Richard Bradshaw Amphitheatre, COC Ensemble Studio member Owen McCausland had the stage (mostly) to himself. Owen sang a full recital, including 6 of the Janáček songs, plus selections from Ralph Vaughan Williams&#039; The House of Life and Benjamin Britten&#039;s Les illuminations."
 slug = "in-review-owen-mccauslands-recital-stunner"
 title = "In review: Owen McCausland&#039;s recital stunner"
 +++

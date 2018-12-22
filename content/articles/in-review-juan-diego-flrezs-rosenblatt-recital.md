@@ -3,7 +3,7 @@ categories = "Review"
 date = "2016-03-30T09:51:00+01:00"
 lastmod = "2016-03-30T11:25:00+01:00"
 publishDate = "2016-03-30T11:19:00+01:00"
-short_description = "It's always been an amazing thing to hear Flórez sing coloratura; there's efficiency in the sound, yet it's not necessarily light. His machine-gun approach is full of precision and control, and he always seems malleable and flexible despite all the work involved. Flórez treated us to \"Cessa di più resistere\" from Il barbiere di Siviglia, where we heard the expertise and ease that gave the tenor his star status."
+short_description = "It&#039;s always been an amazing thing to hear Flórez sing coloratura; there&#039;s efficiency in the sound, yet it&#039;s not necessarily light. His machine-gun approach is full of precision and control, and he always seems malleable and flexible despite all the work involved. Flórez treated us to &quot;Cessa di più resistere&quot; from Il barbiere di Siviglia, where we heard the expertise and ease that gave the tenor his star status."
 slug = "in-review-juan-diego-flrezs-rosenblatt-recital"
 title = "In review: Juan Diego Flórez&#039;s Rosenblatt Recital"
 +++

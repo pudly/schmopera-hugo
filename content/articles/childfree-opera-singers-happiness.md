@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2016-05-31T11:30:00+01:00"
 lastmod = "2017-04-15T19:09:00+01:00"
 publishDate = "2016-06-01T11:25:00+01:00"
-short_description = "Basically, when the work isn't going well, it can be quite devastating when it truly is the most important thing in an artist's life. It seems a lame excuse for moping, though, and it's easy to compound the guilt of being a \"bad artist\" with the guilt of \"not having anything else going for you\"; after all, compared to singers with \"real\" responsibilities outside of their work, a child-free singer should remember that they're among the lucky ones, right? "
+short_description = "Basically, when the work isn&#039;t going well, it can be quite devastating when it truly is the most important thing in an artist&#039;s life. It seems a lame excuse for moping, though, and it&#039;s easy to compound the guilt of being a &quot;bad artist&quot; with the guilt of &quot;not having anything else going for you&quot;; after all, compared to singers with &quot;real&quot; responsibilities outside of their work, a child-free singer should remember that they&#039;re among the lucky ones, right? "
 slug = "childfree-opera-singers-happiness"
 title = "Child-free opera singers &amp; happiness"
 +++
@@ -24,7 +24,7 @@ All artists experience a lull (or several) during their careers, where their pas
 
 It can be easy to equate one's value as a person with one's value as an artist; it's even easier when there's no "other big thing", like kids and marriages, that is deemed important enough to give value to one's life. Basically, when the work isn't going well, it can be quite devastating when it truly is the most important thing in an artist's life. It seems a lame excuse for moping, though, and it's easy to compound the guilt of being a "bad artist" with the guilt of "not having anything else going for you"; after all, compared to singers with "real" responsibilities outside of their work, a child-free singer should remember that they're among the lucky ones, right? 
 
-<figure data-type="image">![](/webhook-uploads/1464727022207/2016-06-01---Baby.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464727022207/2016-06-01---Baby.jpg)
 <figcaption>Adorable. Yet, not for everyone.</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ Perhaps they're unwise about it, and instead of dating other colleagues, they sh
 
 Readers, in case any of you watched *Sex and the City*, this whole thing is sort of like that episode, "A Woman's Right to Shoes", where Carrie loses a pair of Manolo Blahniks at a party. When the party host seems too busy being a mom to worry about where the shoes went, Carrie decides to throw herself an "I'm single, yay" kind of party, invite said host, and open up a one-item gift registry at, you guessed it, Manolo Blahnik.
 
-<figure data-type="image">![](/webhook-uploads/1464727006307/2016-06-01---Blahnik.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464727006307/2016-06-01---Blahnik.jpg)
 <figcaption>Adorable. Yet, again, not for everyone.</figcaption>
 </figure>
 

@@ -3,7 +3,7 @@ categories = "News"
 date = "2018-11-16T21:50:00-05:00"
 lastmod = "2018-11-17T13:34:00-05:00"
 publishDate = "2018-11-16T21:50:00-05:00"
-short_description = "Predictably, Smyth's music has not received the same recognition and appreciation as that of her male contemporaries like Brahms, Tchaikovsky, and Grieg. \"Pretty good - for a woman,\" was among the tiring sentiments by critics of Smyth's day."
+short_description = "Predictably, Smyth&#039;s music has not received the same recognition and appreciation as that of her male contemporaries like Brahms, Tchaikovsky, and Grieg. &quot;Pretty good - for a woman,&quot; was among the tiring sentiments by critics of Smyth&#039;s day."
 slug = "recording-dame-smyth-pretty-good-for-a-woman"
 title = "Recording Dame Smyth: &quot;Pretty good - for a woman.&quot;"
 +++
@@ -27,5 +27,5 @@ EXO has set up a [Kickstarter campaign](https://www.kickstarter.com/projects/smy
 To learn more about EXO's Kickstarter, *Herstory: Recording Composer Dame Ethel Smyth's Masterpiece*, and to donate, [click here.](https://www.kickstarter.com/projects/smyth/herstory-recording-composer-dame-ethel-smyths-mast)
 
 <figure data-type="image">
-![](/webhook-uploads/1542422945624/NOV2018Newslettergraphic.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542422945624/NOV2018Newslettergraphic.jpg)
 </figure>

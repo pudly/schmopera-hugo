@@ -4,7 +4,7 @@ date = "2016-12-22T16:14:00-05:00"
 lastmod = "2016-12-29T13:01:00-05:00"
 preamble = "In 2017, [The Bronx Opera Company](/scene/companies/bronx-opera/) celebrates its 50th season. Its **50th season**! Other than [The Metropolitan Opera](/scene/companies/the-metropolitan-opera/), Bronx Opera is the only New York-based opera company to produce work each year since 1967. To celebrate 50 years of putting opera onstage, Bronx Opera offers up a season that nods to Shakespeare's infamous Sir John Falstaff, including Ralph Vaughan Williams' [*Sir John in Love*](http://bronxopera.org/2017-season/) (January 14-22) and Verdi's beloved comedy, [*Falstaff*](http://bronxopera.org/2017-season/) (April 29-May 7).\n\nWe spoke with Artistic Director Michael Spierman and Managing Director Benjamin Spierman about Bronx Opera's longevity, and why Sir John is the right man to help celebrate the company's major milestone."
 publishDate = "2016-12-29T11:46:00-05:00"
-short_description = "\"It took our company a number of seasons, since its inception in 1967, to even realize that there was a possibility for its longevity. When this rather startling thought took hold, we had already formulated our basic missions: to give talented operatic artists an opportunity for meaningful experience and exposure (57 to date have gone to the Met), to nurture new audiences for opera...to expose outstanding and rarely performed works to audiences each winter and to proudly represent the quality of life in our home borough.\""
+short_description = "&quot;It took our company a number of seasons, since its inception in 1967, to even realize that there was a possibility for its longevity. When this rather startling thought took hold, we had already formulated our basic missions: to give talented operatic artists an opportunity for meaningful experience and exposure (57 to date have gone to the Met), to nurture new audiences for opera...to expose outstanding and rarely performed works to audiences each winter and to proudly represent the quality of life in our home borough.&quot;"
 slug = "bronx-opera-50-years-counting"
 title = "Bronx Opera: 50 years &amp; counting"
 +++
@@ -16,7 +16,7 @@ title = "Bronx Opera: 50 years &amp; counting"
 **Michael Spierman**: Many great composers have viewed the Falstaff story from the unique perspective of their individual geniuses.  This special season gives our audiences an opportunity to experience two very different, and at the same time first-rate, examinations of this topic.  The result allows audiences an interesting perspective and, at the same time, makes the point that no work of art is definitive on a given subject, only compelling in its own right.  
 
 <figure data-type="image">
-![](/webhook-uploads/1483032525742/2016-12-29---Michael-Spierman-with-Ralph-Vaughan-Williams-widow-.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483032525742/2016-12-29---Michael-Spierman-with-Ralph-Vaughan-Williams-widow-.jpg)
 <figcaption>Michael Spierman with Ursula Vaughan Williams, widow of Ralph Vaughan Williams.</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ title = "Bronx Opera: 50 years &amp; counting"
 **Michael**: Our long legacy is based on consistent quality, careful organization, respect for our participants and a group of missions, detailed above, that can adapt to changing times.
 
 <figure data-type="image">
-![](/webhook-uploads/1483032617918/2016-12-29---Cinderella-BOC.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483032617918/2016-12-29---Cinderella-BOC.jpg)
 <figcaption>A scene from *Cinderella* at Bronx Opera Company.</figcaption>
 </figure>
  

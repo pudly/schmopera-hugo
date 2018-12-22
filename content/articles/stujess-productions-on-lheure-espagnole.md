@@ -4,7 +4,7 @@ date = "2015-05-01T08:56:00-04:00"
 lastmod = "2015-05-01T09:53:00-04:00"
 preamble = "[Stu&Jess Productions](https://twitter.com/stuandjess) are gearing up to present Ravel's delightfully bizarre *L'heure espagnole* on May 7, 8 & 9th at the Techno-Lith paper company in Montréal. I asked a few questions of conductor [Stuart Martin](https://twitter.com/stuiy) and director [Jessica Derventzis](https://twitter.com/jessderventzis), about Ravel's really neat opera, and setting it in a paper warehouse. \"It's a magical chamber of sound.\""
 publishDate = "2015-05-01T09:44:00-04:00"
-short_description = "Stu&Jess Productions are gearing up to present Ravel's delightfully bizarre L'heure espagnole on May 7, 8 & 9th at the Techno-Lith paper company in Montréal. I asked a few questions of conductor Stuart Martin and director Jessica Derventzis, about Ravel's really neat opera, and setting it in a paper warehouse. \"It's a magical chamber of sound.\""
+short_description = "Stu&amp;Jess Productions are gearing up to present Ravel&#039;s delightfully bizarre L&#039;heure espagnole on May 7, 8 &amp; 9th at the Techno-Lith paper company in Montréal. I asked a few questions of conductor Stuart Martin and director Jessica Derventzis, about Ravel&#039;s really neat opera, and setting it in a paper warehouse. &quot;It&#039;s a magical chamber of sound.&quot;"
 slug = "stujess-productions-on-lheure-espagnole"
 title = "Stu&amp;Jess Productions, on L&#039;heure espagnole"
 +++

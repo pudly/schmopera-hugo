@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-11-11T11:32:00-05:00"
 lastmod = "2018-11-11T11:38:00-05:00"
 publishDate = "2018-11-11T11:35:00-05:00"
-short_description = "There was bile on Tovey's tongue that rang into Roy Thomson Hall, and its effect lingered long enough to dovetail into the first bars of the War Requiem. I have always found something magnetic and charismatic about Tovey, and as silly as it may sound, to hear him indulge in a brief moment of personal feelings about the meaning of war and commemoration felt akin to hearing a friend's firsthand experience with tragedy."
+short_description = "There was bile on Tovey&#039;s tongue that rang into Roy Thomson Hall, and its effect lingered long enough to dovetail into the first bars of the War Requiem. I have always found something magnetic and charismatic about Tovey, and as silly as it may sound, to hear him indulge in a brief moment of personal feelings about the meaning of war and commemoration felt akin to hearing a friend&#039;s firsthand experience with tragedy."
 slug = "catharsis-is-the-wrong-word-brittens-war-requiem"
 title = "&quot;Catharsis&quot; is the wrong word: Britten&#039;s War Requiem"
 +++
@@ -17,7 +17,7 @@ For as long as I can recall, the ceremonies that come with November 11 have evok
 The TSO's performance of Britten's *War Requiem* was excellent, and rooted in respect well before the first notes were played. Nodding to the three soloists whom Britten envisioned for the 1962 premiere of his work, Russian soprano Galina Vishnevskaya, German baritone Dietrich Fischer-Dieskau, and English tenor Peter Pears, the TSO mirrored the gesture of global reconciliation with their line-up of singers: Russian soprano Tatiana Pavlovskaya, German-Canadian baritone Russell Braun, and English tenor Toby Spence.
 
 <figure data-type="image">
-![](/webhook-uploads/1541954109691/TatianaPavlovskayaWarRequiemJagGundu.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541954109691/TatianaPavlovskayaWarRequiemJagGundu.jpg)
 <figcaption>Tatiana Pavlovskaya performing Britten's *War Requiem* with the Toronto Symphony Orchestra. Photo: Jag Gundu.</figcaption>
 </figure>
 

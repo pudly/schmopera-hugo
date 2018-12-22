@@ -3,7 +3,7 @@ categories = "Humour"
 date = "2014-02-14T16:29:00-05:00"
 lastmod = "2015-04-27T22:44:00-04:00"
 publishDate = "2014-02-14T16:29:00-05:00"
-short_description = "I thought about making a flow chart for Valentine's Day. It was going to be sort of like If-You're-Single-Do-This and If-You're-Attached-Do-This. But the answer to both is the same, making this a very simplistic flow chart indeed."
+short_description = "I thought about making a flow chart for Valentine&#039;s Day. It was going to be sort of like If-You&#039;re-Single-Do-This and If-You&#039;re-Attached-Do-This. But the answer to both is the same, making this a very simplistic flow chart indeed."
 slug = "its-valentines-day-now-what"
 title = "It&#039;s Valentines Day! Now what?"
 +++
@@ -13,7 +13,7 @@ I thought about making a flow chart for Valentine's Day. It was going to be sort
 Watch _[La bohème](http://whatshouldwecallopera.tumblr.com/post/48698251061/the-end-of-la-boheme)._
 
 <figure data-type="image">
-![](/webhook-uploads/1430188988270/Phil-Dunphy.gif)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430188988270/Phil-Dunphy.gif)
 </figure>
 
 It's great for cherry-picking. You can cry over the cute bonnet Rodolfo bought, or you can be glad you don't have a Musetta on your hands, or you can just forget about Valentine's Day altogether and watch some good opera. Box of chocolates unnecessary, but probably a great idea.

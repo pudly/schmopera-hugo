@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2017-05-30T14:03:00-04:00"
 lastmod = "2017-05-31T12:49:00-04:00"
 publishDate = "2017-05-31T12:34:00-04:00"
-short_description = "None of this is to minimize the work and merit of the 2017 Dora Award nominees. Yet it's a list that's desperately incomplete. Perhaps the juror qualifications exclude too many people with knowledgeable and unbiased connections to the Toronto industry. More importantly, maybe the TAPA membership qualifications are prohibitive to what much of Toronto's opera and theatre scenes can manage."
+short_description = "None of this is to minimize the work and merit of the 2017 Dora Award nominees. Yet it&#039;s a list that&#039;s desperately incomplete. Perhaps the juror qualifications exclude too many people with knowledgeable and unbiased connections to the Toronto industry. More importantly, maybe the TAPA membership qualifications are prohibitive to what much of Toronto&#039;s opera and theatre scenes can manage."
 slug = "doras2017-yes-and"
 title = "#Doras2017: &quot;yes, and...&quot;"
 +++
@@ -31,13 +31,13 @@ At any rate, congratulations are in order for all the nominees. Theatre-goers in
 For a full list of the 2017 Dora Mavor Award Opera Division nominees, check out the PDFs below:
 
 <figure data-type="image">
-![](/webhook-uploads/1496171501839/2017-DORA-NOMINEES-GRID-FINAL2-6.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496171501839/2017-DORA-NOMINEES-GRID-FINAL2-6.jpg)
 </figure>
 
 <figure data-type="image">
-![](/webhook-uploads/1496171509553/2017-DORA-NOMINEES-GRID-FINAL2-7.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496171509553/2017-DORA-NOMINEES-GRID-FINAL2-7.jpg)
 </figure>
 
 <figure data-type="image">
-![](/webhook-uploads/1496171518988/2017-DORA-NOMINEES-GRID-FINAL2-8.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496171518988/2017-DORA-NOMINEES-GRID-FINAL2-8.jpg)
 </figure>

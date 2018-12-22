@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2018-06-08T11:56:00-04:00"
 lastmod = "2018-06-09T21:35:00-04:00"
 publishDate = "2018-06-08T12:19:00-04:00"
-short_description = "Even for me, I was quite errant in my guesses for the winners of this year's Concours musical international de Montréal. "
+short_description = "Even for me, I was quite errant in my guesses for the winners of this year&#039;s Concours musical international de Montréal. "
 slug = "cmim-finals-one-out-of-three-aint-bad"
 title = "CMIM Finals: one out of three ain&#039;t bad?"
 +++
@@ -15,7 +15,7 @@ Even for me, I was quite errant in my guesses for the winners of this year's Con
 The good news first: mezzo-sopranos [Emily D'Angelo](/scene/people/emily-dangelo/) and [Rihab Chaieb](/scene/people/rihab-chaieb/) took the awards for Best Canadian Artist in the Aria and Art Song categories, respectively, and Canadian tenor [Andrew Haji](/scene/people/andrew-haji/) won the Oratorio Award. People's Choice Awards went to Clara Osowski (Art Song) and Emily D'Angelo (Aria), and baritones [John Brancy](/scene/people/john-brancy/) and [Julien Van Mellaerts](/scene/people/julien-van-mellaerts/) each took prizes for Best French Mélodie and Best German Lied.
 
 <figure data-type="image">
-![](/webhook-uploads/1528473214408/WinnersGroupPhoto-1.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528473214408/WinnersGroupPhoto-1.jpg)
 <figcaption>(l-r) Julien Van Mellaerts, Clara Osowski, and John Brancy, winners of the 2018 CMIM Art Song Prizes. Photo: Tam Lan Truong Photography.</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Andrew Haji, I thought, sang his best round in these Finals. The Canadian tenor 
 Also overlooked was Russian bass Mikhail Golovushkin. He spent three rounds giving us undeniably beautiful sound, with a level of care and finesse in his technique that is hard to find among true basses. Sandwiched between two great Russian picks, Golovushkin gave us Verdi's delicious "Ella gammai m'amò" (*Don Carlo*), which earned him a spot in my personal top three. Perhaps the jurors didn't like the passing moment of Golovushkin's being out of sync with conductor Graeme Jenkins - indeed, the bass had to turn his attention away from his performance and toward the collecting of ensemble, a task that shouldn't have been his to do. It wasn't the first time I was frustrated with Jenkins' sluggish reaction time to the singers' lead. Golovushkin didn't place, either, which was a real shame.
 
 <figure data-type="image">
-![](/webhook-uploads/1528473246084/WinnersGroupPhoto-2.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528473246084/WinnersGroupPhoto-2.jpg)
 <figcaption>(l-r) Emily D'Angelo, Mario Bahg, and Konstantin Lee, winners of the 2018 CMIM Aria Prizes. Photo: Tam Lan Truong Photography.</figcaption>
 </figure>
 

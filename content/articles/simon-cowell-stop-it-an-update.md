@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2014-03-15T23:33:00-04:00"
 lastmod = "2015-04-26T00:07:00-04:00"
 publishDate = "2014-03-15T23:33:00-04:00"
-short_description = "Yesterday I posted a link to a ridiculous track from 10-year-old Amira Willighagen's new album, produced by Simon Cowell's label, Syco Entertainment. The track was a duet version of Puccini's \"Nessun dorma,\" which featured the dubbed and transposed voice of Luciano Pavarotti, taken without permission from one of his studio recordings of the aria."
+short_description = "Yesterday I posted a link to a ridiculous track from 10-year-old Amira Willighagen&#039;s new album, produced by Simon Cowell&#039;s label, Syco Entertainment. The track was a duet version of Puccini&#039;s &quot;Nessun dorma,&quot; which featured the dubbed and transposed voice of Luciano Pavarotti, taken without permission from one of his studio recordings of the aria."
 slug = "simon-cowell-stop-it-an-update"
 title = "Simon Cowell, stop it: An Update"
 +++

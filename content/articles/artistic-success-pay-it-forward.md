@@ -2,7 +2,7 @@
 date = "2016-12-11T17:07:00+00:00"
 lastmod = "2016-12-14T09:31:00+00:00"
 publishDate = "2016-12-14T09:31:00+00:00"
-short_description = "This field is small, it is competitive. I understand the urge to protect your job(s) and hold onto employment you’ve worked hard to get. This is a deeply rooted urge, grown from the subconscious fears that \"I am not good enough\" and \"Maybe this other person could do it better\". In some people, this manifests into a refusal to help others up the ladder, an inability to send the elevator down for someone perceived as a threat."
+short_description = "This field is small, it is competitive. I understand the urge to protect your job(s) and hold onto employment you’ve worked hard to get. This is a deeply rooted urge, grown from the subconscious fears that &quot;I am not good enough&quot; and &quot;Maybe this other person could do it better&quot;. In some people, this manifests into a refusal to help others up the ladder, an inability to send the elevator down for someone perceived as a threat."
 slug = "artistic-success-pay-it-forward"
 title = "Artistic success: pay it forward"
 +++

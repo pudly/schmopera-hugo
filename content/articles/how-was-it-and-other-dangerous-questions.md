@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2016-06-13T22:19:00-06:00"
 lastmod = "2016-07-06T16:11:00-06:00"
 publishDate = "2016-06-15T21:22:00-06:00"
-short_description = "You're conscious of the difference between creation and reception, you respect things like lighting and acoustic and comic timing, and you're seeking the right balance of all the factors that add up to a great piece of art. But it's a risky way to seek that balance; by hungrily asking for feedback, you're saying to the world that you, the artist, aren't sure about your decisions."
+short_description = "You&#039;re conscious of the difference between creation and reception, you respect things like lighting and acoustic and comic timing, and you&#039;re seeking the right balance of all the factors that add up to a great piece of art. But it&#039;s a risky way to seek that balance; by hungrily asking for feedback, you&#039;re saying to the world that you, the artist, aren&#039;t sure about your decisions."
 slug = "how-was-it-and-other-dangerous-questions"
 title = "&quot;How was it?&quot; and other dangerous questions"
 +++

@@ -4,7 +4,7 @@ date = "2017-10-05T10:09:00-04:00"
 lastmod = "2017-10-06T11:06:00-04:00"
 preamble = "This year's [Festival Verdi](http://www.teatroregioparma.it/Default.en-Us.aspx) is in full swing, paying its annual homage to Giuseppe Verdi in events large and small to various venues in Busseto and Parma - two Italian cities that make up \"the Verdi homeland\". Their mainstage events include productions of Verdi's *Stiffelio*, *Jérusalem*, *Falstaff* and *La traviata*, and their ongoing [AroundVerdi](http://teatroregioparma.it/Categorie/default.en-Us.aspx?idCategoria=103) and [VerdiYoung](http://teatroregioparma.it/Categorie/default.en-Us.aspx?idCategoria=102) offer events dedicated to young - and very young - audiences, complementing the performances of Verdi's infamous body of work. This year, the Festival is also making an extra nod to Arturo Toscanini in the 150th anniversary of his birth.\n\nWe spoke with Anna Maria Meo, General Director of the Festival, about the onstage and community line-up running through **October 22nd**. For full details, [click here.](http://www.teatroregioparma.it/Default.en-Us.aspx)\n"
 publishDate = "2017-10-06T11:06:00-04:00"
-short_description = "\"The Festival Verdi was inaugurated in 2001, one hundred years after Verdi's death. Since then, extraordinarily talented artists have performed here, including Bruno Bartoletti, Riccardo Chailly, Daniele Gatti, Lorin Maazel, Zubin Mehta, Riccardo Muti, Daniel Oren, Antonio Pappano and Yuri Temirkanov.\""
+short_description = "&quot;The Festival Verdi was inaugurated in 2001, one hundred years after Verdi&#039;s death. Since then, extraordinarily talented artists have performed here, including Bruno Bartoletti, Riccardo Chailly, Daniele Gatti, Lorin Maazel, Zubin Mehta, Riccardo Muti, Daniel Oren, Antonio Pappano and Yuri Temirkanov.&quot;"
 slug = "verdi-at-204-toscanini-at-150-the-2017-festival-verdi"
 title = "Verdi at 204, Toscanini at 150: the 2017 Festival Verdi"
 +++
@@ -38,7 +38,7 @@ A few examples of what Verdi Off has to offer this year:
 In addition to Verdi Off, we continue with AroundVerdi and VerdiYoung. The former is dedicated to young people and to the blending of expressive genres and language to stimulate new reflections on the music of Verdi. The latter is designed for young children, with shows, projects and teaching laboratories, as well as fun musical activities, aimed at instilling and deepening their appreciation of the Maestro and his works.
 
 <figure data-type="image">
-![](/webhook-uploads/1507213227896/2017-10-05---Verdi-Off---Notte-verdiana_ph----Annalisa-Andolina.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507213227896/2017-10-05---Verdi-Off---Notte-verdiana_ph----Annalisa-Andolina.jpg)
 <figcaption>Verdi Off's Notte verdiana. Photo: Annalisa Andolina.</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ The Festival Verdi was inaugurated in 2001, one hundred years after Verdi's deat
 Each autumn, around Giuseppe Verdi's birthday on October 10th, his two hometowns of Parma and Busseto resonate with unique colours and fragrances that speak to our collective imagination, the Festival Verdi comes to life: a full month of music, opera, exhibitions and conferences to celebrate the great Maestro.
 
 <figure data-type="image">
-![](/webhook-uploads/1507213254341/2017-10-05---Teatro-Farnese-photo-Roberto----Ricci.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507213254341/2017-10-05---Teatro-Farnese-photo-Roberto----Ricci.jpg)
 <figcaption>The Teatro Farnese di Parma. Photo: Roberto Ricci.</figcaption>
 </figure>
 

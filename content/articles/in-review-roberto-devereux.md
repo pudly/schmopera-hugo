@@ -3,7 +3,7 @@ categories = "Review"
 date = "2014-05-01T08:30:00-04:00"
 lastmod = "2015-04-23T21:19:00-04:00"
 publishDate = "2014-05-01T08:30:00-04:00"
-short_description = "Since the dress rehearsal of the Canadian Opera Company's Roberto Devereux, my Facebook and Twitter feeds have been flipping out about American soprano Sondra Radvanovksy's performance as Queen Elizabeth I. So I was really eager to see it for myself."
+short_description = "Since the dress rehearsal of the Canadian Opera Company&#039;s Roberto Devereux, my Facebook and Twitter feeds have been flipping out about American soprano Sondra Radvanovksy&#039;s performance as Queen Elizabeth I. So I was really eager to see it for myself."
 slug = "in-review-roberto-devereux"
 title = "In review: Roberto Devereux"
 +++
@@ -11,7 +11,7 @@ title = "In review: Roberto Devereux"
 Since the dress rehearsal of the Canadian Opera Company's [_Roberto Devereux,_](http://www.coc.ca/PerformancesAndTickets/1314Season/RobertoDevereux.aspx) my Facebook and Twitter feeds have been flipping out about American soprano [Sondra Radvanovksy](http://www.sondraradvanovsky.com/)'s performance as Queen Elizabeth I. So I was really eager to see it for myself.
 
 <figure data-type="image">
-![](/webhook-uploads/1429837868851/0187-Sara-and-Elisabetta-Credit-Michael-Cooper-1024x681.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429837868851/0187-Sara-and-Elisabetta-Credit-Michael-Cooper-1024x681.jpg)
 <figcaption>Allyson McHardy and Sondra Radvanovsky. Photo by Michael Cooper.</figcaption>
 </figure>
 
@@ -19,7 +19,7 @@ Since the dress rehearsal of the Canadian Opera Company's [_Roberto Devereux,_
 
 The overture was all I needed to be on board with this production. Lawless staged a sequence that's best described as an operatic version of _Here's Your Life_, showing historical highlights from the life of the Queen. With swift, clean transitions, we saw mini-scenes, of Elizabeth's attendance at the premiere of Shakespeare's _A Midsummer Night's Dream_, of her defeat of the [Spanish Armada](http://en.wikipedia.org/wiki/Spanish_Armada), etc. It was cool, not corny, and it set an organic precedent for the use of the stage-within-stage for the whole show.
 <figure data-type="image">
-![](/webhook-uploads/1429837927115/0823-centre-Elisabetta-and-Roberto-Devereux-Credit-Michael-Cooper-1024x665.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429837927115/0823-centre-Elisabetta-and-Roberto-Devereux-Credit-Michael-Cooper-1024x665.jpg)
 <figcaption>Sondra Radvanovsky, Leonardo Capalbo, Russell Braun. Photo by Michael Cooper.</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ As Elizabeth I, Sondra Radvanovsky truly was spectacular. Her voice was beautifu
 Canadian mezzo-soprano [Allyson McHardy](http://www.allysonmchardy.com/) sang the role of Sara, the Duchess of Nottingham and the unfortunate rival of the Queen. I really like Allyson's singing, and this was the first time I've heard her in a _bel canto_ role like this. I thought she was a beautiful foil to the fierce, volatile Queen; she was poised and classy, with expressive singing that helped the audience warm to her character. She didn't seem entirely comfortable in her top register, and the role seemed to lie in an irritating spot for most mezzos. But, I thought she paced the role well, finding moments of lightness in the trickier bars. I thought she portrayed Sara as a victim of circumstance, and it just helped make the Queen seem that much more of a wild card.
 
 <figure data-type="image">
-![](/webhook-uploads/1429838006167/0489-490-Roberto-Devereux-and-Sara-Credit-Michael-Cooper-720x1024.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429838006167/0489-490-Roberto-Devereux-and-Sara-Credit-Michael-Cooper-720x1024.jpg)
 <figcaption>Leonardo Capalbo and Allyson McHardy. Photo by Michael Cooper.</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ Italian-American tenor Leonardo Capalbo sang the role of Roberto Devereux; origi
 Cornerstone Canadian baritone [Russell Braun](http://www.russellbraun.com/) sang the Duke of Nottingham, the poor guy whose wife, Sara, cheats on him with his friend, Roberto. Russell's warm, benevolent voice gained him sympathy as the Duke, and he had a stoic presence onstage that set us up beautifully for his eventual desire for revenge against all the liars around him. I love hearing Russell sing; I don't think this was a good role for him. He seemed to be working hard in the wrong way, perhaps trying to produce a louder sound, or one that's more like a dramatic baritone. The result was a pressurized sound that made him creep sharp a times, and didn't always cut over the orchestra. Russell is an intensely expressive singer, and I feel that he didn't allow his expression all to come simply from his voice.  It's true that Russell's voice doesn't resonate the same way most _bel canto_ baritones do, but I love his naturally rich, haunting sound. I'd be truly curious to hear what it would sound like if he simplified his performance and let his voice take over.
 
 <figure data-type="image">
-![](/webhook-uploads/1429838056788/0302-Elisabetta-Credit-Michael-Cooper1-681x1024.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429838056788/0302-Elisabetta-Credit-Michael-Cooper1-681x1024.jpg)
 <figcaption>Sondra Radvanovsky as Queen Elizabeth I. Photo by Michael Cooper.</figcaption>
 </figure>
 

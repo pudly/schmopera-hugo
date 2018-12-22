@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-05-21T17:45:00-04:00"
 lastmod = "2018-05-22T08:55:00-04:00"
 publishDate = "2018-05-21T21:11:00-04:00"
-short_description = "She let us know that she considers herself \"a champion of new composers.\" \"That way,\" she told us, maybe only half-joking, \"I'll still have a job in the future.\" She reminded us that Jason Robert Brown was once a \"new composer\" and proffered his \"Stars and Moon\" which has become one of her signature songs."
+short_description = "She let us know that she considers herself &quot;a champion of new composers.&quot; &quot;That way,&quot; she told us, maybe only half-joking, &quot;I&#039;ll still have a job in the future.&quot; She reminded us that Jason Robert Brown was once a &quot;new composer&quot; and proffered his &quot;Stars and Moon&quot; which has become one of her signature songs."
 slug = "audra-mcdonald-and-the-art-of-perfection"
 title = "Audra McDonald and the Art of Perfection"
 +++
@@ -21,7 +21,7 @@ There were a few shout-outs from the crowd, as the Broadway-savvy audience tried
 She let us know that she considers herself "a champion of new composers." "That way," she told us, maybe only half-joking, "I'll still have a job in the future." She reminded us that Jason Robert Brown was once a "new composer" and proffered his "Stars and Moon" which has become one of her signature songs. She has sung this countless times over the last two decades, but she conveyed the meaning and importance of every lyric as if she was singing it for the very first time. And so it was with everything she did.
 
 <figure data-type="image">
-![](/webhook-uploads/1526939077512/1718public_audra1.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526939077512/1718public_audra1.jpg)
 <figcaption></figcaption>
 </figure>
 

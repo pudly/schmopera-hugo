@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-09-03T15:48:00+02:00"
 lastmod = "2016-09-10T09:28:00+02:00"
 publishDate = "2016-09-10T09:09:00+02:00"
-short_description = "\"One of the big motivators for me will be setting an example for her so that she will also be able to follow whatever her passion is, and to show her that that's a possibility.\""
+short_description = "&quot;One of the big motivators for me will be setting an example for her so that she will also be able to follow whatever her passion is, and to show her that that&#039;s a possibility.&quot;"
 slug = "talking-with-singers-daniela-mack"
 title = "Talking with singers: Daniela Mack"
 +++
@@ -15,7 +15,7 @@ title = "Talking with singers: Daniela Mack"
 "I can't let everything else sink in way too much," says Mack of the combination of big company and big singers. "Because at the end of the day, it is my job and I have to focus on that first." She admits that the comfort of a familiar role, and a "team of veterans" onstage with her are good things. "It gives you the freedom to really just go into the rehearsal space and just play."
 
 <figure data-type="image">
-![](/webhook-uploads/1472998445491/2016-09-04---Daniela-Mack---Pauly.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472998445491/2016-09-04---Daniela-Mack---Pauly.jpg)
 <figcaption>Photo by Simon Pauly.</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ Mack recalls a lightbulb moment of sorts, from her time as a finalist in the 201
 "If you can't leave all of your goods on the table then, then what's the point?" It's a feeling that she tries to repeat each time she performs; "that's when I'm most satisfied with my performance, when I feel like I didn't hold back."
 
 <figure data-type="image">
-![](/webhook-uploads/1472911119082/2016-09-03---Daniel-Mack---SImon-Pauly.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472911119082/2016-09-03---Daniel-Mack---SImon-Pauly.jpg)
 <figcaption>Photo by Simon Pauly.</figcaption>
 </figure>
 

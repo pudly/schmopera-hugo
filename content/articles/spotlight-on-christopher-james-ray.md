@@ -4,7 +4,7 @@ date = "2015-06-24T17:48:00-06:00"
 lastmod = "2015-06-25T14:53:00-06:00"
 preamble = "This interview is part of our ongoing series of features on young working artists in the opera industry. If you think you'd be a great candidate for an interview, or know someone you'd like to nominate, get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
 publishDate = "2015-06-25T14:41:00-06:00"
-short_description = "Christopher James Ray is a rising conductor based out of Houston, TX. In recent seasons, Christopher has been busy at Florida State Opera and Sarasota Opera, and he'll make his debut at Opera on the James in 2015/16. Christopher is a student and protégé of American composer Carlisle Floyd, having assisted him on Of Mice and Men in 2012, and recording an album of Floyd's songs with mezzo-soprano Susanne Mentzer."
+short_description = "Christopher James Ray is a rising conductor based out of Houston, TX. In recent seasons, Christopher has been busy at Florida State Opera and Sarasota Opera, and he&#039;ll make his debut at Opera on the James in 2015/16. Christopher is a student and protégé of American composer Carlisle Floyd, having assisted him on Of Mice and Men in 2012, and recording an album of Floyd&#039;s songs with mezzo-soprano Susanne Mentzer."
 slug = "spotlight-on-christopher-james-ray"
 title = "Spotlight on: Christopher James Ray"
 +++

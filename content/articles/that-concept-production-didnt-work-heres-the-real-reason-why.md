@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2015-07-05T10:32:00-06:00"
 lastmod = "2015-07-06T22:29:00-06:00"
 publishDate = "2015-07-07T07:00:00-06:00"
-short_description = "Instead of the lazy/meta/shock-value tactic, just commission an opera that tells the story you want to tell. Yep, that's a big ask, I know. It's a longer, riskier, more difficult process than slapping rape scenes onto Rossini, but I think it's the more creative way. Plus, it could be a serious killing of two birds with one stone; the stories would be organic (and still shocking, if you want - I'm no Victorian with what I want to see onstage), and it would be a great motivator to fuel the need for more contemporary operas."
+short_description = "Instead of the lazy/meta/shock-value tactic, just commission an opera that tells the story you want to tell. Yep, that&#039;s a big ask, I know. It&#039;s a longer, riskier, more difficult process than slapping rape scenes onto Rossini, but I think it&#039;s the more creative way. Plus, it could be a serious killing of two birds with one stone; the stories would be organic (and still shocking, if you want - I&#039;m no Victorian with what I want to see onstage), and it would be a great motivator to fuel the need for more contemporary operas."
 slug = "that-concept-production-didnt-work-heres-the-real-reason-why"
 title = "&quot;That concept production didn&#039;t work,&quot; &amp; here&#039;s the real reason why"
 +++

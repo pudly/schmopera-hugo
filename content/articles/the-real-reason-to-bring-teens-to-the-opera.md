@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2018-01-28T11:21:00-05:00"
 lastmod = "2018-01-28T21:20:00-05:00"
 publishDate = "2018-01-28T21:20:00-05:00"
-short_description = "This is a decent list of reasons to bring your teen to the opera. It's fair to add that opera is not the only place to learn these things; the list above is an argument for getting teens excited about reading, going to museums, and yes, watching well-written film and television. "
+short_description = "This is a decent list of reasons to bring your teen to the opera. It&#039;s fair to add that opera is not the only place to learn these things; the list above is an argument for getting teens excited about reading, going to museums, and yes, watching well-written film and television. "
 slug = "the-real-reason-to-bring-teens-to-the-opera"
 title = "The real reason to bring teens to the opera"
 +++

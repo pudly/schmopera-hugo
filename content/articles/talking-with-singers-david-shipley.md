@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-10-14T15:13:00+01:00"
 lastmod = "2016-10-18T14:54:00+01:00"
 publishDate = "2016-10-18T13:02:00+01:00"
-short_description = "Shipley also sang in Tosca with Angela Gheorghiu (\"She was lovely.\"), and in Nabucco with Plácido Domingo; this season, he'll join Sondra Radvanovsky in Manon Lescaut, and Bryn Terfel in Die Meistersinger von Nürnberg. \"You're having a conversation with these huge figures of the opera world,\" says Shipley of the opportunity to work closely with top-tier singers in the industry. "
+short_description = "Shipley also sang in Tosca with Angela Gheorghiu (&quot;She was lovely.&quot;), and in Nabucco with Plácido Domingo; this season, he&#039;ll join Sondra Radvanovsky in Manon Lescaut, and Bryn Terfel in Die Meistersinger von Nürnberg. &quot;You&#039;re having a conversation with these huge figures of the opera world,&quot; says Shipley of the opportunity to work closely with top-tier singers in the industry. "
 slug = "talking-with-singers-david-shipley"
 title = "Talking with singers: David Shipley"
 +++

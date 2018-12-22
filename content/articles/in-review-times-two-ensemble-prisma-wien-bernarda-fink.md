@@ -4,7 +4,7 @@ date = "2017-04-07T12:27:00+01:00"
 lastmod = "2017-04-08T12:38:00+01:00"
 preamble = "Contributors [Collin](/authors/collin-shay/) and [Jenna](/authors/jenna-douglas/) both caught Ensemble Prisma Wien and Bernarda Fink at Wigmore Hall. Both brought their notebooks, and enough disagreement arose to warrant this special double review. For more like this, check out [Greg](/authors/greg/) and Jenna's [\"He said/She said\" review of Robert Carsen's *Falstaff*](/falstaff-he-saidshe-said/), & our [season round-up](/greg-jennas-201415-opera-season-roundup/) over wisdom-enhancing wine."
 publishDate = "2017-04-07T14:34:00+01:00"
-short_description = "Ensemble Prisma Wien's debut concert at Wigmore Hall was a successful combination of excellent artists, and the kind of music that seems to flow organically from the group's dynamic. The Ensemble gave us music by Haydn, Schubert and Dvořák, all effortless melodists whose tunes feel as though they've always existed."
+short_description = "Ensemble Prisma Wien&#039;s debut concert at Wigmore Hall was a successful combination of excellent artists, and the kind of music that seems to flow organically from the group&#039;s dynamic. The Ensemble gave us music by Haydn, Schubert and Dvořák, all effortless melodists whose tunes feel as though they&#039;ve always existed."
 slug = "in-review-times-two-ensemble-prisma-wien-bernarda-fink"
 title = "In review times two: Ensemble Prisma Wien &amp; Bernarda Fink"
 +++
@@ -18,7 +18,7 @@ Perhaps it was because Schubert's early quartet writing relies heavily on the fi
 **Jenna**: The Ensemble Prisma Wien adapts slightly the traditional string quintet, trading a second viola for a double bass. The acoustic affect worked particularly well with their picks by Schubert and Dvořák, where the delicious open intervals and folk-like harmonic motion was amplified by the extra sound down low; perhaps most interesting was the relationship between the double bass and the cello, which sometimes duetted, and sometimes acted as a miniature melody-accompaniment element within the quintet. The 5 Minuets that Schubert wrote as a young composer had the broad rhythmic spaciousness that keeps chamber music feeling improvisatory; the quintet shared large, spinning beats and traded smaller moments of flexibility that speak to an impressive level of communication and collective "feeling it".
 
 <figure data-type="image">
-![](/webhook-uploads/1491568109964/2017-04-07---Prisma-Wien.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491568109964/2017-04-07---Prisma-Wien.jpg)
 <figcaption>Ensemble Prisma Wien. Photo via [Facebook.](https://www.facebook.com/Ensemble-Prisma-Wien-276229798478/)</figcaption>
 </figure>
 

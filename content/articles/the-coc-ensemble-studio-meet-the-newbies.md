@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2014-09-24T11:46:00-04:00"
 lastmod = "2015-04-27T17:55:00-04:00"
 publishDate = "2014-09-24T11:46:00-04:00"
-short_description = "Yesterday in the Richard Bradshaw Amphitheatre, the Canadian Opera Company's Ensemble Studio kicked off the new season of the Free Concert Series. This year there are three new singers and one new pianist in the Ensemble. I'll admit the concert wasn't my first encounter with the COC young artists; I've had the opportunity to see them at work in recent weeks, but I was no less excited to hear them all sing their \"introductory\" arias."
+short_description = "Yesterday in the Richard Bradshaw Amphitheatre, the Canadian Opera Company&#039;s Ensemble Studio kicked off the new season of the Free Concert Series. This year there are three new singers and one new pianist in the Ensemble. I&#039;ll admit the concert wasn&#039;t my first encounter with the COC young artists; I&#039;ve had the opportunity to see them at work in recent weeks, but I was no less excited to hear them all sing their &quot;introductory&quot; arias."
 slug = "the-coc-ensemble-studio-meet-the-newbies"
 title = "The COC Ensemble Studio: Meet the Newbies"
 +++

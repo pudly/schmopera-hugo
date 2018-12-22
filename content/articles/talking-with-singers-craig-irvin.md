@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-09-25T19:19:00+01:00"
 lastmod = "2016-10-05T09:54:00+01:00"
 publishDate = "2016-10-05T09:43:00+01:00"
-short_description = "Perhaps not surprisingly, Irvin learned some big truths about his singing life from being an amateur comic. \"If it was about the applause, I wouldn't have gotten up and done it again,\" he explains. \"It was about the performance. That's what I'm drawn to most of all.\""
+short_description = "Perhaps not surprisingly, Irvin learned some big truths about his singing life from being an amateur comic. &quot;If it was about the applause, I wouldn&#039;t have gotten up and done it again,&quot; he explains. &quot;It was about the performance. That&#039;s what I&#039;m drawn to most of all.&quot;"
 slug = "talking-with-singers-craig-irvin"
 title = "Talking with singers: Craig Irvin"
 +++
@@ -23,7 +23,7 @@ After a few [concerts in Orlando](http://www.thesharon.com/event.php?id=121&titl
 "I hadn't even thought about that fact. It hadn't even dawned on me that my name would be in the front of the book," says Irvin, calling it "amazing," that "one hundred years from now, somebody's going to open this score to perform this show, and they're going to see my name in the score."
 
 <figure data-type="image">
-![](/webhook-uploads/1475582842720/2016-10-04---Irvin-Silent-Night.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475582842720/2016-10-04---Irvin-Silent-Night.jpg)
 <figcaption>Irvin as Lt. Horstmayer in *Silent Night*, Minnesota Opera, 2012.</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ It's an unexpected advantage of working outside of the major-company circle, tha
 
 
 <figure data-type="image">
-![](/webhook-uploads/1475582930575/2016-10-04---Irvin-Arabella.jpg)<figcaption>Irvin as Mandryka in *Arabella*, Minnesota Opera, 2013.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475582930575/2016-10-04---Irvin-Arabella.jpg)<figcaption>Irvin as Mandryka in *Arabella*, Minnesota Opera, 2013.</figcaption>
 </figure>
 
 ## "I'm driven to perform."
@@ -50,7 +50,7 @@ He recalls a lull-like period in his early career, shortly after finishing his t
 
 
 <figure data-type="image">
-![](/webhook-uploads/1475582960197/2016-10-04---Irvin-Hansel.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475582960197/2016-10-04---Irvin-Hansel.jpg)
 <figcaption>Irvin as Peter in *Hänsel and Gretel*, Minnesota Opera, 2014.</figcaption>
 </figure>
 

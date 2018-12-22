@@ -4,7 +4,7 @@ date = "2018-06-26T12:07:00-04:00"
 lastmod = "2018-06-26T12:47:00-04:00"
 preamble = "This month, Pacific Opera Project presents the west coast premiere of Rossini's lesser-known opera buffa, [*La gazzetta*](https://www.pacificoperaproject.com/lagazzettarossini). The opera tells the story of Lisetta, whose father Don Pomponio Storione, travels the world putting ads in newspapers in order to find her a \"suitable\" husband.\n\nPOP Artistic Director Josh Shaw designs and directs this production, [running **June 28 to July 7**](https://www.pacificoperaproject.com/lagazzettarossini) at LA's Highland Park Ebell Club. We spoke with Shaw about directing opera, and the freedom that comes with an obscure work like *La gazzetta*."
 publishDate = "2018-06-26T12:37:00-04:00"
-short_description = "\"I look at an opera like Gazzetta as a special case for myself and for the POP audience. It's almost certain that no one in the audience will have every seen this opera, and the story is pretty easy to relate to - a father seeking fame and fortune puts his daughter out in public to gain attention for himself - so I feel comfortable keeping the concept pretty 'traditional'.\""
+short_description = "&quot;I look at an opera like Gazzetta as a special case for myself and for the POP audience. It&#039;s almost certain that no one in the audience will have every seen this opera, and the story is pretty easy to relate to - a father seeking fame and fortune puts his daughter out in public to gain attention for himself - so I feel comfortable keeping the concept pretty &#039;traditional&#039;.&quot;"
 slug = "dont-miss-la-gazzetta-"
 title = "Don&#039;t miss: La gazzetta "
 +++
@@ -18,7 +18,7 @@ Secondly, *Gazzetta* was written very specifically for the audience in Naples. T
 The plot of *Gazzetta* is no more thin (and actually much more believable) than say, *Barbiere*, but it is less direct perhaps. In *Barbiere*, guy wants girl and disguises himself to get here - the end. In *Gazzetta* there is a secondary couple, a father/daughter relationship, and other side plots that kind of distract from the main simplistic plot. I think this makes for a better story, but maybe not. And of course *Cenerentola*'s plot is a classic fairytale, so it was known already.
 
 <figure data-type="image">
-![](/webhook-uploads/1530030928524/sqLa-gazzetta.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530030928524/sqLa-gazzetta.jpg)
 </figure>
 
 ## What do you think *La gazzetta* says about women and the concept of marriage?

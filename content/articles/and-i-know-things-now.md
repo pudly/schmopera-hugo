@@ -4,7 +4,7 @@ date = "2015-05-31T20:33:00-04:00"
 lastmod = "2015-06-01T08:20:00-04:00"
 preamble = "\"And I Know Things Now\" is by [Patrick Hansen](http://patricksoperablog.blogspot.ca/), Director of [Opera McGill](/scene/companies/opera-mcgill/) and author of a really great [blog](http://patricksoperablog.blogspot.ca/). Patrick was kind enough to share his work with our readers; the original post can be found [here](http://patricksoperablog.blogspot.ca/2015/05/and-i-know-things-now.html).\n\nGet to know Opera McGill on [YouTube](https://www.youtube.com/channel/UC4wjQ-ovggRS3lfxU1XmyVA):\n\n- [*Le nozze di Figaro*](https://www.youtube.com/watch?v=789T3UqK5Ig&feature=youtu.be) (preview)\n- [*Opera McGill's Year of Shakespeare*](https://www.youtube.com/watch?v=yVmF70SCDm8&feature=youtu.be)"
 publishDate = "2015-06-01T08:00:00-04:00"
-short_description = "Nice is indeed diff'rent than Good! These words came to mind recently again when a person who I'm sure thinks of themselves as a good person was causing another person to suffer greatly. They did it nicely and that's why I think they thought they were still doing good. Nope, not good at all."
+short_description = "Nice is indeed diff&#039;rent than Good! These words came to mind recently again when a person who I&#039;m sure thinks of themselves as a good person was causing another person to suffer greatly. They did it nicely and that&#039;s why I think they thought they were still doing good. Nope, not good at all."
 slug = "and-i-know-things-now"
 title = "And I Know Things Now"
 +++

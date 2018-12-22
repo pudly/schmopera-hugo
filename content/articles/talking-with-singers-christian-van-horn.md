@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-03-23T12:32:00+00:00"
 lastmod = "2016-10-18T18:11:00+01:00"
 publishDate = "2016-03-23T13:10:00+00:00"
-short_description = "Carmen will mark Van Horn's third contract with the Canadian Opera Company, and it's a place he likes to be. \"It's a world-class company,\" he says. \"It always has been, but especially in the last five years, specifically since Alexander [Neef] got here, he's really turned this into a place to be. There's not a singer in the world that doesn't want to sing at COC.\""
+short_description = "Carmen will mark Van Horn&#039;s third contract with the Canadian Opera Company, and it&#039;s a place he likes to be. &quot;It&#039;s a world-class company,&quot; he says. &quot;It always has been, but especially in the last five years, specifically since Alexander [Neef] got here, he&#039;s really turned this into a place to be. There&#039;s not a singer in the world that doesn&#039;t want to sing at COC.&quot;"
 slug = "talking-with-singers-christian-van-horn"
 title = "Talking with singers: Christian Van Horn"
 +++
@@ -29,7 +29,7 @@ Van Horn is working for the first time with director [Joel Ivany](/scene/people/
 In rehearsal for Escamillo's mega-famous entrance, "the first thing I said to [Joel], I said, 'I don't really want to get on a table. Let's not be cliché and get on the stupid table'. And he said, 'Ok', and I said, 'Oh, we're going to be best friends.'" At 6'6", Van Horn likes to sing with his feet on the ground, despite some conventional staging for the Toreador Song. "I don't think the biggest guy in the room needs to get on the table," he adds with a laugh.
 
 <figure data-type="image">
-![](/webhook-uploads/1458736718266/2016-03-23---Boheme-Met.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458736718266/2016-03-23---Boheme-Met.jpg)
 <figcaption>l-r: Joshua Hopkins, Irina Lungu, Alexsei Markov, Maija Kovalevska, Joseph Calleja, and Christian Van Horn, taking a curtain call at The Metropolitan Opera's *La bohème*, 2014. Photo via christianvanhorn.com.</figcaption>
 </figure>
 

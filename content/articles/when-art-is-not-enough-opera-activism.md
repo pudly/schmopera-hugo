@@ -4,7 +4,7 @@ date = "2017-07-12T14:25:00-04:00"
 lastmod = "2017-07-18T12:48:00-04:00"
 preamble = "Art is an important mirror of ourselves, showing us the good, the bad, and the timely. The presence of artistic commentary is an indicator of a society that strives to be healthy and free; yet that commentary is incomplete without further action.\n\nOpera has always had a close relationship with moral dilemma and ugly human behaviour. We can watch an opera about corrupt leaders, prejudicial hate, or fatal sexism - and still, when the curtain falls there always looms the question, \"then what\"? In the hopes of answering that question, we've compiled some contemporary examples, along with a list of organisations that can help turn pathos into positive action."
 publishDate = "2017-07-18T12:48:00-04:00"
-short_description = "Opera has always had a close relationship with moral dilemma and ugly human behaviour. We can watch an opera about corrupt leaders, prejudicial hate, or fatal sexism - and still, when the curtain falls there always looms the question, \"then what\"?"
+short_description = "Opera has always had a close relationship with moral dilemma and ugly human behaviour. We can watch an opera about corrupt leaders, prejudicial hate, or fatal sexism - and still, when the curtain falls there always looms the question, &quot;then what&quot;?"
 slug = "when-art-is-not-enough-opera-activism"
 title = "When art is not enough: opera &amp; activism"
 +++

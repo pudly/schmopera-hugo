@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-08-25T19:58:00+01:00"
 lastmod = "2016-08-30T13:46:00+01:00"
 publishDate = "2016-08-30T13:00:00+01:00"
-short_description = "As the world of opera moves toward chamber-sized orchestras and intimate venues, the world of art song moves in closer. Companies like the Canadian Art Song Project and Against the Grain Theatre have wowed audiences with reimagined art song, and so it's an exciting thing to find a supportive organization like Sparks & Wiry Cries that will foster performances and new works."
+short_description = "As the world of opera moves toward chamber-sized orchestras and intimate venues, the world of art song moves in closer. Companies like the Canadian Art Song Project and Against the Grain Theatre have wowed audiences with reimagined art song, and so it&#039;s an exciting thing to find a supportive organization like Sparks &amp; Wiry Cries that will foster performances and new works."
 slug = "dont-miss-rhiannon-giddens-at-merkin-concert-hall"
 title = "Don&#039;t miss: Rhiannon Giddens at Merkin Concert Hall"
 +++
@@ -17,5 +17,5 @@ As the world of opera moves toward chamber-sized orchestras and intimate venues,
 [Tickets](http://www.kaufmanmusiccenter.org/mch/event/art-song-reimagined-singer-rhiannon-giddens-with-pianist-spencer-myer/) to *Art Song: Reimagined* are $75, and the cost includes a post-concert champagne reception with Rhiannon Giddens. 
 
 <figure data-type="image">
-![](/webhook-uploads/1472151651119/2016-08-29---Sparks-Poster.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472151651119/2016-08-29---Sparks-Poster.jpg)
 </figure>

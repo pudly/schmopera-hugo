@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-04-13T15:27:00-04:00"
 lastmod = "2018-04-14T16:29:00-04:00"
 publishDate = "2018-04-14T16:29:00-04:00"
-short_description = "But actually, this is the big revelation of the production: the show works better when the cast is allowed to treat the show's lighter moments like a comedy, because it only highlights how truly tragic their situation is when reality comes crashing back in. "
+short_description = "But actually, this is the big revelation of the production: the show works better when the cast is allowed to treat the show&#039;s lighter moments like a comedy, because it only highlights how truly tragic their situation is when reality comes crashing back in. "
 slug = "intimate-brewery-room-la-bohme-a-revelatory-triumph"
 title = "Intimate Brewery Room La Bohème A Revelatory Triumph"
 +++
@@ -19,7 +19,7 @@ The effect was to increase the importance of the performances and of the details
 The entire production is full of brilliant little touches like this, from Marcello's angry munching on chicken wings throughout Musetta's Waltz to the way the lights flickered off during the landlord Benoit's short scene. The attention to the chemistry between the characters was also wonderful to watch. Here, there's no shortage of examples to pick from: the flat mates' banter throughout the opera felt real and funny, Musetta and Marcello's connection was fun and tempestuous in the right ways, and there was a magic to Mimì and Rodolfo falling in love that transcended the playful flirtation surrounding the key she loses in Rodolfo's flat.
 
 <figure data-type="image">
-![](/webhook-uploads/1523647508513/BosOpColBoheme041018-0108.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523647508513/BosOpColBoheme041018-0108.jpg)
 <figcaption>(l-r) Francis Rogers, Mitch FitzDaniel, Andrew Miller, Scott Ballantine, and Seth Grondin in *La bohème*, Boston Opera Collaborative, 2018. Photo courtesy of Boston Opera Collaborative.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ Nowhere was this more apparent than when Musetta came onstage in Act IV to tell 
 Ultimately, I doubt the effect would have been as strong had we not seen these characters in their more joyful, exuberant moments, and the fact they were allowed to wrangle laughs from the audience only helped increase the story's stakes.
 
 <figure data-type="image">
-![](/webhook-uploads/1523647500845/BosOpColBoheme041018-0182.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523647500845/BosOpColBoheme041018-0182.jpg)
 <figcaption>Scott Ballantine and Carina DiGianfilippo in *La bohème*, Boston Opera Collaborative, 2018. Photo courtesy of Boston Opera Collaborative.</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ It should be apparent that the young, up-and-coming singer-actors who ran around
 Francis Rogers made for a warm, soulful Rodolfo, whose acting chops were on par with a luscious tenor voice that stole the show every time he opened his mouth. Celeste Godin was every bit his match as Mimì, providing a dynamic but appropriately frail voice to her portrayal as the meek, well-natured heroine of the story. Andrew Miller made for a robust Marcello whose warm voice complemented the cast quite well, and Carina DiGianfilippo's Musetta traversed the stage with a voice as playful and sharp as her mannerisms. Rounding out this excellent cast was Mitch FitzDaniel's wonderfully pathetic Schaunard, and Seth Grondin's stoic Colline was a good counterpoint to his roommates backed by a lovely voice.
 
 <figure data-type="image">
-![](/webhook-uploads/1523647485807/BosOpColBoheme041018-0324.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523647485807/BosOpColBoheme041018-0324.jpg)
 <figcaption>Francis Rogers and Celeste Godin in *La bohème*, Boston Opera Collaborative, 2018. Photo courtesy of Boston Opera Collaborative.</figcaption>
 </figure>
 

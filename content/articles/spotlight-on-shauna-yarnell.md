@@ -4,7 +4,7 @@ date = "2016-06-07T04:14:00-06:00"
 lastmod = "2016-06-24T18:52:00-06:00"
 preamble = "Toronto-based mezzo-soprano [Shauna Yarnell](/scene/people/shauna-yarnell/) impressed us most recently in [Tapestry Opera](/scene/companies/tapestry-opera/)'s [*Songbook VI*](/he-saidshe-said-songbook-vi/), and in Luciano Berio's [*Folk Songs*](/in-review-puss-in-boots-berios-folk-songs/) with the Glenn Gould School. A rising figure in the Canadian scene, Shauna gives a smart interview about the new comedic opera show she's writing, about singing as \"energized talking\", and the importance of maintaining non-musical interests."
 publishDate = "2016-06-22T21:30:00-06:00"
-short_description = "\"I'm a fitness junkie and I love cooking and baking. This year I have picked up tennis and it’s been a lot of fun. When you feel confident in various parts of your life you will feel less of a need to prove yourself when you are singing. This gives you more opportunity to take risks and trust yourself.\""
+short_description = "&quot;I&#039;m a fitness junkie and I love cooking and baking. This year I have picked up tennis and it’s been a lot of fun. When you feel confident in various parts of your life you will feel less of a need to prove yourself when you are singing. This gives you more opportunity to take risks and trust yourself.&quot;"
 slug = "spotlight-on-shauna-yarnell"
 title = "Spotlight on: Shauna Yarnell"
 +++
@@ -18,7 +18,7 @@ Singing is a part of my soul. Growing up I was always drawn to music, and I took
 Good singing to me means committing to the present moment with your entire mind, heart and voice. Good singing feels like energized talking. Or it can also feel like you are incredibly huge but weightless and flying.  It depends on the repertoire.  It always feels like the most freeing thing in the world.  To me, I know when I have done some good singing when I leave the stage and I can't remember clearly what happened. It means I was totally in the present moment. 
 
 <figure data-type="image">
-![](/webhook-uploads/1465294450757/2016-06-07---Yarnell.jpg)<figcaption>Photo by Emily Ding.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465294450757/2016-06-07---Yarnell.jpg)<figcaption>Photo by Emily Ding.</figcaption>
 </figure>
 
 ## What do young singers need to do more of? What should they do less of?

@@ -5,7 +5,7 @@ disclaimer = "Fair warning: there will be some strong language and mature themes
 lastmod = "2016-04-07T10:51:00+01:00"
 preamble = "This special collaboration between Schmopera and [Claryon Fitzgibbon](http://mewsytheadulteress.com/about/), author of the Erotic Novel in Tweets \"Mewsy the Adulteress\", is an exclusive preview of the first chapter of Mewsy: Part II, before it is tweeted to the public. Catch up on Part I at [MewsyTheAdulteress.com](http://mewsytheadulteress.com/), or follow [@MewsyAdulteress](https://twitter.com/MewsyAdulteress) on Twitter! Strong Adult Themes and Immodest Filth contained below."
 publishDate = "2014-09-02T13:00:00+01:00"
-short_description = "This special collaboration between Schmopera and Claryon Fitzgibbon, author of the Erotic Novel in Tweets \"Mewsy the Adulteress\", is an exclusive preview of the first chapter of Mewsy: Part II, before it is tweeted to the public. Catch up on Part I at MewsyTheAdulteress.com, or follow @MewsyAdulteress on Twitter! Strong Adult Themes and Immodest Filth contained below."
+short_description = "This special collaboration between Schmopera and Claryon Fitzgibbon, author of the Erotic Novel in Tweets &quot;Mewsy the Adulteress&quot;, is an exclusive preview of the first chapter of Mewsy: Part II, before it is tweeted to the public. Catch up on Part I at MewsyTheAdulteress.com, or follow @MewsyAdulteress on Twitter! Strong Adult Themes and Immodest Filth contained below."
 slug = "mewsy-goes-to-the-opera"
 title = "Mewsy goes to the Opera"
 +++

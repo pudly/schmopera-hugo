@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2015-11-17T18:00:00-05:00"
 lastmod = "2015-11-18T21:10:00-05:00"
 publishDate = "2015-11-18T08:59:00-05:00"
-short_description = "Next month, Canadian composer Adam Scime will see the world premiere of his chamber opera, l'homme et le ciel. Amanda Smith, artistic director of FAWN Chamber Creative directs this co-presentation with FAWN and The Music Gallery. Scime's atmospheric story of \"inescapable visions\" and \"sexual impulses\" is scored for chamber ensemble, electronics, and three voices; the libretto by Ian Koiter is adapted from The Shepherd of Hermas, a 2nd-century Christian literary work."
+short_description = "Next month, Canadian composer Adam Scime will see the world premiere of his chamber opera, l&#039;homme et le ciel. Amanda Smith, artistic director of FAWN Chamber Creative directs this co-presentation with FAWN and The Music Gallery. Scime&#039;s atmospheric story of &quot;inescapable visions&quot; and &quot;sexual impulses&quot; is scored for chamber ensemble, electronics, and three voices; the libretto by Ian Koiter is adapted from The Shepherd of Hermas, a 2nd-century Christian literary work."
 slug = "dont-miss-lhomme-et-le-ciel"
 title = "Don&#039;t miss: l&#039;homme et le ciel"
 +++
@@ -15,7 +15,7 @@ For Scime, the story "is more or less a cautionary tale warning us of the implic
 Scime feels the story speaks to humans and their daily lives. "The lessons taught to Hermas through the mysterious Messenger are of course in some way relevant to all our lives. It is through art - and through opera - that one may be allowed to reflect on the human condition in a way that perhaps wasn't a consideration prior to a given artistic experience." 
 
 <figure data-type="image">
-![](/webhook-uploads/1447821619318/Scime.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447821619318/Scime.jpg)
 <figcaption>Adam Scime, composer.</figcaption>
 </figure>
 

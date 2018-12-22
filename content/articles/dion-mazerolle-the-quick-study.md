@@ -4,7 +4,7 @@ date = "2016-02-03T13:19:00-05:00"
 lastmod = "2016-02-04T09:27:00-05:00"
 preamble = "Baritone [Dion Mazerolle](/scene/people/dion-mazerolle/) is getting ready to sing the title role in Antonio Salieri's [*Falstaff*](http://www.operainconcert.com/Falstaff.html), presented by [Voicebox: Opera in Concert](/scene/companies/voicebox-opera-in-concert/) on **Sunday, February 7th at 2:30pm at the St. Lawrence Centre for the Arts**. Mazerolle's Falstaff has been a lesson in quick study, having had less than a month to learn the notoriously verbose role; it's a position in which many opera singers find themselves, and it's no small feat to learn and find comfort in a leading role when the countdown is on.\n\nDespite his busy month, Mazerolle found time to tell us about what it takes to speed-learn an opera, and what audiences can expect from this lesser-known telling of the tale of Sir John Falstaff by Salieri. \n\nFor full details and ticket information, follow our box office links below."
 publishDate = "2016-02-04T09:14:00-05:00"
-short_description = "Mazerolle's Falstaff has been a lesson in quick study, having had less than a month to learn the notoriously verbose role; it's a position in which many opera singers find themselves, and it's no small feat to learn and find comfort in a leading role when the countdown is on."
+short_description = "Mazerolle&#039;s Falstaff has been a lesson in quick study, having had less than a month to learn the notoriously verbose role; it&#039;s a position in which many opera singers find themselves, and it&#039;s no small feat to learn and find comfort in a leading role when the countdown is on."
 slug = "dion-mazerolle-the-quick-study"
 title = "Dion Mazerolle: the quick study"
 +++

@@ -4,7 +4,7 @@ date = "2016-04-27T18:42:00+01:00"
 lastmod = "2016-04-28T11:43:00+01:00"
 preamble = "This is the first post by Toronto-based contributor and baritone [Aaron Durand](/talking-with-singers-aaron-durand/). He's a singer to watch, a [beat-boxing instructor](https://www.youtube.com/watch?v=s8Bh1Pmf5hg), and a talented writer. If you like his style, let us know, and give him a follow on Twitter, [@Gingervanni](https://twitter.com/Gingervanni)."
 publishDate = "2016-04-28T11:30:00+01:00"
-short_description = "For musicians, it was a masterclass not only in great singing and excellent playing, but in audience engagement. Terfel, the loveable scamp, managed his very enthusiastic listeners with a genial nature that's normally reserved for cool uncles, panda bears, and Jimmy Fallon."
+short_description = "For musicians, it was a masterclass not only in great singing and excellent playing, but in audience engagement. Terfel, the loveable scamp, managed his very enthusiastic listeners with a genial nature that&#039;s normally reserved for cool uncles, panda bears, and Jimmy Fallon."
 slug = "in-review-bryn-terfel-at-koerner-hall"
 title = "In review: Bryn Terfel at Koerner Hall"
 +++
@@ -14,7 +14,7 @@ It's only fair you know before we begin that Bryn Terfel is one of my absolute f
 On Sunday afternoon, Toronto was given a musical potpourri informally called "Bryn at 50" by the man himself. And what a delightful potpourri! Terfel immediately captured the entirety of Koerner Hall and held it right through to the third (!) encore. We had Keel's *Three Saltwater Ballads* (a Bryn staple), excerpts from Schubert's *Schwanengesang*, and Ibert's *Chansons de Don Quichotte*. All wonderful, all gold-standard baritone rep. Placed alongside them were somewhat lesser performed works, like Schumann's grand *Belsatzar* and spectacular Welsh songs by Meirion Williams, Bryan Davies and others. The final set, which failed to make the printed program, was pieces originally written for John Charles Thomas, that smooth and classy piece of American baritone. These included a sing-along *Home on the Range*, and *The Green Eyed Dragon*, the second best dragon song ever written ([this is the first](https://youtu.be/BEm0AjTbsac)).
 
 <figure data-type="image">
-![](/webhook-uploads/1461779733657/2016-04-27---Bryn.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461779733657/2016-04-27---Bryn.jpg)
 <figcaption>Photo by Lisa Sakulensky Photography.</figcaption>
 </figure>
 
@@ -23,7 +23,7 @@ A singer in the truest sense of the word, Terfel's voice is whatever he needs it
 The repertoire choices proved (in this ginger's eyes) that yes, you can program "simpler" or more typical repertoire alongside the uncommon, and still have an incredibly moving and respectable show.  So long as you love whatever you're performing, we as an audience will travel with you. And it's easy to see that Bryn loves these pieces. He cherishes the music he's singing and it radiates from him like he's made of some sort of isotope. Artsongium? Musicium? Hm. I should email CERN.  
 
 <figure data-type="image">
-![](/webhook-uploads/1461779818627/2016-04-27---Bryn-Katyukova-2.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461779818627/2016-04-27---Bryn-Katyukova-2.jpg)
 <figcaption>Terfel and pianist Natalia Katyukova. Photo by Lisa Sakulensky Photography.</figcaption>
 </figure>
 

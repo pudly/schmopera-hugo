@@ -3,7 +3,7 @@ categories = "Review"
 date = "2017-04-28T15:46:00-04:00"
 lastmod = "2017-04-29T10:42:00-04:00"
 publishDate = "2017-04-29T09:48:00-04:00"
-short_description = "hat seemed like the true oversight, at least for this recital of Canadian young artists, is that no young, Canadian music made it onto the programme. These annual collaborations between two of Canada's biggest opera houses seem like a perfect opportunity to explore the huge library of 20th- and 21st-century opera, much of which comes in the form of short, self-contained scenes that are perfect for a showcase concert."
+short_description = "hat seemed like the true oversight, at least for this recital of Canadian young artists, is that no young, Canadian music made it onto the programme. These annual collaborations between two of Canada&#039;s biggest opera houses seem like a perfect opportunity to explore the huge library of 20th- and 21st-century opera, much of which comes in the form of short, self-contained scenes that are perfect for a showcase concert."
 slug = "canadian-yaps-missed-opportunities"
 title = "Canadian YAPs &amp; missed opportunities"
 +++
@@ -17,7 +17,7 @@ The young artists all showed clear skill, no doubt. Emily D'Angelo's performance
 Salvas, a strapping, fiery baritone, sang "Fin ch'han dal vino" from *Don Giovanni*, and "Mab, la reine des mensonges" from *Roméo et Juliette*, two of the most frantic, wordy arias in the traditional repertoire; he sang both arias admirably and with ease, neither really gave Salvas the space to truly let out his sound. Kevin Geddes offered Verdi's "La donna è mobile" just before the famed *Rigoletto* quartet; it showed perhaps where the young tenor's voice will be in future seasons, but gave little indication of what he can do in the present. Gélinas showed off a clear, light "Habanera" from *Carmen*; her sound is lovely, but the choice of Bizet seemed to ignore all the signs pointing to a sweet spot in Handel, Mozart, or Rossini.
 
 <figure data-type="image">
-![](/webhook-uploads/1493476305573/2017-04-29---Atelier-Ensemble.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493476305573/2017-04-29---Atelier-Ensemble.jpg)
 <figcaption>Clockwise from top left: Emily D'Angelo, Geoffroy Salvas, Caroline Gélinas, Danika Lorèn, Kevin Geddes.</figcaption>
 </figure>
 

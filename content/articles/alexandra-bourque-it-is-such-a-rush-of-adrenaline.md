@@ -4,7 +4,7 @@ date = "2017-03-16T14:03:00+00:00"
 lastmod = "2017-03-20T16:08:00+00:00"
 preamble = "[Alexandra Bourque](/scene/people/alexandra-bourque/) has all the industrious ambition of a rising young conductor. The French Canadian-born maestra is the founder and artistic director of the University of Toronto Brass Ensemble, assistant conductor of both the University of Toronto Wind Ensemble and the Toronto Community Orchestra, and an in-demand pedagogue and violin teacher in Québec and Ontario.\n\nWe spoke with Bourque about what it takes to carve out a career as a conductor, and how the current generation of musicians can change the noticeable gender imbalance on the podium."
 publishDate = "2017-03-20T15:43:00+00:00"
-short_description = "\"I believe it is because of the subjectivity within the audition process that it is still difficult for women to gain entry into this profession. Even with the best education and experience, if you do not fit \"the vision,\" which has traditionally been of a male conductor, you do not have a chance.\""
+short_description = "&quot;I believe it is because of the subjectivity within the audition process that it is still difficult for women to gain entry into this profession. Even with the best education and experience, if you do not fit &quot;the vision,&quot; which has traditionally been of a male conductor, you do not have a chance.&quot;"
 slug = "alexandra-bourque-it-is-such-a-rush-of-adrenaline"
 title = "Alexandra Bourque: &quot;It is such a rush of adrenaline.&quot;"
 +++

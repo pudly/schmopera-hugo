@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2017-10-14T12:15:00-04:00"
 lastmod = "2017-10-16T10:21:00-04:00"
 publishDate = "2017-10-15T20:56:00-04:00"
-short_description = "\"Lycanthropy is such a great metaphor for sexual fluidity,\" says co-librettist Teri Kowiak. \"Our werewolf is not human when in human form, nor is he a wolf when he is in wolf form. He is always a werewolf, no matter how he appears at a specific time.\""
+short_description = "&quot;Lycanthropy is such a great metaphor for sexual fluidity,&quot; says co-librettist Teri Kowiak. &quot;Our werewolf is not human when in human form, nor is he a wolf when he is in wolf form. He is always a werewolf, no matter how he appears at a specific time.&quot;"
 slug = "a-fiercely-queer-opera-for-halloween"
 title = "A &quot;fiercely queer opera&quot; for Halloween"
 +++
@@ -25,7 +25,7 @@ Although we were very excited to find an original werewolf opera written by a wo
 We are proud of the fact that almost all of the main characters in this story identify as queer or gay - at least by the end of the opera. Some of them struggle with discovering and revealing their closeted identities more than others. One character is casually open about being queer, which is even more rare to see on the stage. I love when queer characters are as unabashedly comfortable in their identities, as I, a queer gender fluid person, attempt to be. It takes quite a bit of bravery and fierceness of will to live authentically. Four out of our five main characters make huge strides in that regard through the course of the show. It is a beautiful thing to watch them grow into their true forms.
 
 <figure data-type="image">
-![](/webhook-uploads/1507997908628/2017-10-14---The-Werewolf.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507997908628/2017-10-14---The-Werewolf.jpg)
 </figure>
 
 ## What do you think the opera industry gains from from a new focus on female, femme, and non-binary composers?

@@ -3,7 +3,7 @@ categories = "Interview"
 date = "2016-01-08T15:30:00-05:00"
 lastmod = "2016-01-11T09:47:00-05:00"
 publishDate = "2016-01-11T08:51:00-05:00"
-short_description = "One of the best sets of ears in Toronto belongs to Alexander Neef, General Director of the Canadian Opera Company. He's an impressive source when it comes to classical music recordings, and until recently he had a wall-to-wall library of CDs collected over his lifetime. \"I probably gave between 2500-3000 CDs to the COC, because I thought those recordings...I knew quite well all of them would be great for the [COC Ensemble Studio] to use.\""
+short_description = "One of the best sets of ears in Toronto belongs to Alexander Neef, General Director of the Canadian Opera Company. He&#039;s an impressive source when it comes to classical music recordings, and until recently he had a wall-to-wall library of CDs collected over his lifetime. &quot;I probably gave between 2500-3000 CDs to the COC, because I thought those recordings...I knew quite well all of them would be great for the [COC Ensemble Studio] to use.&quot;"
 slug = "alexander-neef-listening-to-music"
 title = "Alexander Neef: listening to music"
 +++
@@ -29,7 +29,7 @@ He's passionate about historical recordings as a means to understand singers and
 Not just the performances, but the legacies of some early 20th-century singers were left in the hands of early recording technology. It was so limited, says Neef, "that some voices just sound terrible." There were exceptions, notably Enrico Caruso, who sounded good on a gramophone. "The way his voice vibrated, and the overtones and all that, it just reproduced well. There are other tenors of that time that initially were way more famous than Caruso that just didn't record well."
 
 <figure data-type="image">
-![](/webhook-uploads/1452309490074/2016-01-08---Caruso.jpg)<figcaption>Enrico Caruso in 1918, with a Victrola phonograph.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452309490074/2016-01-08---Caruso.jpg)<figcaption>Enrico Caruso in 1918, with a Victrola phonograph.</figcaption>
 </figure>
 
 ## New ways to listen 

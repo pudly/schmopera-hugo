@@ -3,7 +3,7 @@ categories = "News"
 date = "2015-10-14T18:28:00-04:00"
 lastmod = "2015-10-15T08:41:00-04:00"
 publishDate = "2015-10-15T08:37:00-04:00"
-short_description = "\"Our core problem is that revenues have not grown to cover the costs of presenting high quality opera on the stage of the National Arts Centre. There are challenges in all revenue areas, including: major shortfalls in commercial sponsorships, modest shortfalls in private philanthropy, reductions in funding from the federal and provincial governments and, recently, weaker ticket sales.\""
+short_description = "&quot;Our core problem is that revenues have not grown to cover the costs of presenting high quality opera on the stage of the National Arts Centre. There are challenges in all revenue areas, including: major shortfalls in commercial sponsorships, modest shortfalls in private philanthropy, reductions in funding from the federal and provincial governments and, recently, weaker ticket sales.&quot;"
 slug = "opera-lyras-immediate-shutdown"
 title = "Opera Lyra&#039;s &quot;immediate shutdown&quot;"
 +++

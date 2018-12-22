@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2016-11-25T13:17:00+00:00"
 lastmod = "2016-12-13T09:37:00+00:00"
 publishDate = "2016-12-13T09:15:00+00:00"
-short_description = "\"I was a very high tenor,\" she says, even recalling many conversations with her mentors and peers about pursuing a career as a countertenor. On a daily basis, Sinclairé \"always had this debate with myself\" about how to train her voice; though not an easy decision to make, there was at least one simple truth to the matter: \"I never felt comfortable playing tenor roles.\""
+short_description = "&quot;I was a very high tenor,&quot; she says, even recalling many conversations with her mentors and peers about pursuing a career as a countertenor. On a daily basis, Sinclairé &quot;always had this debate with myself&quot; about how to train her voice; though not an easy decision to make, there was at least one simple truth to the matter: &quot;I never felt comfortable playing tenor roles.&quot;"
 slug = "from-tenor-to-mezzo-one-singers-path-through-gender-transition"
 title = "From tenor to mezzo: one singer&#039;s path through gender transition"
 +++
@@ -21,7 +21,7 @@ Baltimore native and mezzo-soprano [Breanna Sinclairé](/scene/people/breanna-si
 "Singing in the tenor range, I was still battling with my gender and would envy sopranos because I knew this was the *Fach* I should be singing," Sinclairé recalls. "I hated the timbre of my tenor voice. It was flat, shaky, not a true tenor sound, and had no core. It didn't feel authentic."
 
 <figure data-type="image">
-![](/webhook-uploads/1481463731721/2016-11-24---Breanna-Sinclaire.jpg)<figcaption>Breanna Sinclairé.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481463731721/2016-11-24---Breanna-Sinclaire.jpg)<figcaption>Breanna Sinclairé.</figcaption>
 </figure>
 
 It's a question that piques curiosity: how does a singer, well, *sing* during a gender transition?

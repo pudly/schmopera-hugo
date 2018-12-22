@@ -3,7 +3,7 @@ categories = "Humour"
 date = "2014-02-11T16:25:00-05:00"
 lastmod = "2015-04-27T22:53:00-04:00"
 publishDate = "2014-02-11T16:25:00-05:00"
-short_description = "So, it's the week of Valentine's Day, and I was trying to think of an appropriate post. I started thinking of opera couples, and the things they have in common. It turns out that the thing in common is a break-up of some sorts. And the majority of the time it's because the stories are from long ago, before women could stand up for themselves."
+short_description = "So, it&#039;s the week of Valentine&#039;s Day, and I was trying to think of an appropriate post. I started thinking of opera couples, and the things they have in common. It turns out that the thing in common is a break-up of some sorts. And the majority of the time it&#039;s because the stories are from long ago, before women could stand up for themselves."
 slug = "opera-heroines-in-2014-what-if"
 title = "Opera Heroines in 2014: What if?"
 +++

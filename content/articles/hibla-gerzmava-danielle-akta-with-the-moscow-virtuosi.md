@@ -3,7 +3,7 @@ categories = "News"
 date = "2017-05-16T13:26:00-04:00"
 lastmod = "2017-05-30T14:06:00-04:00"
 publishDate = "2017-05-18T10:38:00-04:00"
-short_description = "Featuring works by Mozart, Shostakovich, Grieg, Poulenc, Verdi and more, the Moscow Virtuosi bring its characteristic \"precision and sharply defined phrases\" (New York Times) to dazzle Toronto audiences. Tickets are on sale now and can be purchased here. The show is June 8, 2017 at 8PM at Roy Thomson Hall. This promises to be a beauty of a concert. Get your tickets now and don't miss out."
+short_description = "Featuring works by Mozart, Shostakovich, Grieg, Poulenc, Verdi and more, the Moscow Virtuosi bring its characteristic &quot;precision and sharply defined phrases&quot; (New York Times) to dazzle Toronto audiences. Tickets are on sale now and can be purchased here. The show is June 8, 2017 at 8PM at Roy Thomson Hall. This promises to be a beauty of a concert. Get your tickets now and don&#039;t miss out."
 slug = "hibla-gerzmava-danielle-akta-with-the-moscow-virtuosi"
 title = "Hibla Gerzmava &amp; Danielle Akta with The Moscow Virtuosi"
 +++

@@ -4,7 +4,7 @@ date = "2018-01-24T20:35:00-05:00"
 lastmod = "2018-01-25T21:19:00-05:00"
 preamble = "Canadian soprano [Elizabeth McDonald](/scene/people/elizabeth-mcdonald/) has quickly made a name for herself as a voice educator. She is a past-president of the Ontario chapter of the National Association of Teachers of Singing (NATS), an adjudicator of major voice festivals Canada-wide, and she is currently on the voice faculty at the University of Toronto.\n\nPragmatic in her teaching style and a champion of individualism in her students, McDonald spoke with us about empowering singers, the elusive idea of \"support\", and her systematic approach to selecting repertoire."
 publishDate = "2018-01-25T20:00:00-05:00"
-short_description = "\"For me, breath is the genesis of everything in life, and therefore singing, and I am a very demanding teacher when it comes to breath, especially for singers at the beginning stages of training.\""
+short_description = "&quot;For me, breath is the genesis of everything in life, and therefore singing, and I am a very demanding teacher when it comes to breath, especially for singers at the beginning stages of training.&quot;"
 slug = "the-voice-teacher-series-elizabeth-mcdonald"
 title = "The voice teacher series: Elizabeth McDonald"
 +++

@@ -3,7 +3,7 @@ categories = "Op-ed"
 date = "2015-11-20T10:57:00-05:00"
 lastmod = "2015-11-20T21:45:00-05:00"
 publishDate = "2015-11-21T08:45:00-05:00"
-short_description = "So you want to be a comprimario? Great! There's lots of work for you if you're good it, but beware, it's not as glitzy and glamorous as playing Violetta or Don José, but it's just as labour-intensive."
+short_description = "So you want to be a comprimario? Great! There&#039;s lots of work for you if you&#039;re good it, but beware, it&#039;s not as glitzy and glamorous as playing Violetta or Don José, but it&#039;s just as labour-intensive."
 slug = "the-life-of-a-comprimario-or-oh-youre-that-guy"
 title = "The life of a comprimario, or &quot;Oh, you&#039;re that guy!&quot;"
 +++
@@ -15,7 +15,7 @@ First thing you'll have to remember is that you're probably there for your fine 
 For instance in Verdi's *Falstaff*, Bardolfo and Pistola are present almost all the time and work on both sides of the cuckold coin. They don't get much in the line of music, but what they do get is the amazing ensembles throughout the show and awesome parts in the final [fugue](https://www.youtube.com/watch?v=LvFyDeOwMtY). Are you singing Marcellina and your aria's cut? Don't worry, you still get the Act II finale and the [sextet](https://www.youtube.com/watch?v=mCU61w42vPE). So there's lots of beautiful music to sing - and isn't more fun to make music with other singers? 
 
 <figure data-type=image>
-![](/webhook-uploads/1448036123528/2015-11-20---Resized---as-Orlofsky-with-Lucia-Cesaroni-in-Die-Fledermaus-TOT-.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448036123528/2015-11-20---Resized---as-Orlofsky-with-Lucia-Cesaroni-in-Die-Fledermaus-TOT-.jpg)
 <figcaption>As Orlofsky, with Lucia Cesaroni in *Die Fledermaus*, Toronto Operetta Theatre.</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ Secondly, you'll also get recognized a lot, but they probably won't remember you
 Thirdly, you need to be smart. Not book-smart, but body-smart and environment-smart. Trust me on this. More than once something will happen in your show or rehearsal that means you're going to save the day. Zerbinetta may lose her mirror, Mimì her candle, or Don José his knife, and nine times out of ten YOU will be the one to save the scene. Being a comprimario takes the spotlight off you in certain ways and that affords you a freedom and mobility around the stage that the principals often won't enjoy. There's only so many ways you can play 'dying woman on a deathbed" and still maintain the suspension of disbelief. However, if you're playing Monostatos or Kate Pinkerton, you're going to have a lot more freedom of characterization and physicality. Not to mention the scene-stealing factor - we've all experienced this with the Major-Domo in *Ariade auf Naxos* (gasp! a SPOKEN role) or Frosch in *Die Fledermaus*.
 
 <figure data-type="image">
-![](/webhook-uploads/1448036216597/2015-11-20---Alcindoro-in-La-boheme-ATG-Nikola-Novak-Photographer.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448036216597/2015-11-20---Alcindoro-in-La-boheme-ATG-Nikola-Novak-Photographer.jpg)
 <figcaption>As Alcindoro in *Against the Grain Theatre*'s production of *La bohème*. Photo by Nikola Novak.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ So yes, we all love the big showstopping arias, the cadenzas that hit every note
 You may not get the last bow in the curtain call, but you'll always have a score in your pocket. 
 
 <figure data-type="image">
-![](/webhook-uploads/1448036304660/2015-11-20---Truffaldino-SOLT-Emily-Ding-Photographer.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448036304660/2015-11-20---Truffaldino-SOLT-Emily-Ding-Photographer.jpg)
 <figcaption>As Truffaldino in Summer Opera Lyric Theatre's production of *Ariadne auf Naxos*. Photo by Emily Ding.</figcaption>
 </figure>
 

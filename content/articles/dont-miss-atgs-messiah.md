@@ -3,7 +3,7 @@ categories = "News"
 date = "2015-11-24T14:42:00-05:00"
 lastmod = "2015-11-24T15:38:00-05:00"
 publishDate = "2015-11-24T15:24:00-05:00"
-short_description = "Hallelujah! Massey Hall presents AtG's Messiah at the Harbourfront Centre Theatre, December 16-19th. Mokrzewski conducts Handel's infamous score (bonus: I can be spotted at the harpsichord), and Ivany collaborates with dancer and choreographer Jennifer Nichols to present something innovative, featuring very little parking or barking. \"We ditched the 'stand and deliver' performance, tuxedos and choral folders, and mounted a barefoot, choreographed oratorio — one that walked the line between edgy and faithful.\""
+short_description = "Hallelujah! Massey Hall presents AtG&#039;s Messiah at the Harbourfront Centre Theatre, December 16-19th. Mokrzewski conducts Handel&#039;s infamous score (bonus: I can be spotted at the harpsichord), and Ivany collaborates with dancer and choreographer Jennifer Nichols to present something innovative, featuring very little parking or barking. &quot;We ditched the &#039;stand and deliver&#039; performance, tuxedos and choral folders, and mounted a barefoot, choreographed oratorio — one that walked the line between edgy and faithful.&quot;"
 slug = "dont-miss-atgs-messiah"
 title = "Don&#039;t miss: AtG&#039;s Messiah"
 +++

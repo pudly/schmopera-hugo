@@ -3,7 +3,7 @@ categories = "News"
 date = "2016-08-23T10:19:00+01:00"
 lastmod = "2016-08-23T13:34:00+01:00"
 publishDate = "2016-08-23T13:12:00+01:00"
-short_description = "Hosted by famed baritone Sherrill Milnes, and conducted by David Charles Abell, the concert will donate proceeds to Orlando Health's Level One Trauma Center, the Orlando LGBTQ Community Center, Proyecto Somos Orlando, the Interfaith Council of Central Florida, the Zebra Coalition, and the Holocaust Center's \"UpStanders: Stand Up to Bullying Initiative.\""
+short_description = "Hosted by famed baritone Sherrill Milnes, and conducted by David Charles Abell, the concert will donate proceeds to Orlando Health&#039;s Level One Trauma Center, the Orlando LGBTQ Community Center, Proyecto Somos Orlando, the Interfaith Council of Central Florida, the Zebra Coalition, and the Holocaust Center&#039;s &quot;UpStanders: Stand Up to Bullying Initiative.&quot;"
 slug = "one-voice-orlando-after-pulse"
 title = "One Voice Orlando: after Pulse"
 +++

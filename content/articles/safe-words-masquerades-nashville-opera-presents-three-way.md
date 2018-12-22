@@ -4,7 +4,7 @@ date = "2017-01-16T15:42:00+00:00"
 lastmod = "2017-01-18T13:33:00+00:00"
 preamble = "What's better than a double-bill? A triple-bill, clearly. This month, [Nashville Opera](/scene/companies/nashville-opera/) continues its 2016/17 season with [*Three Way*](http://www.nashvilleopera.org/three-way/), three one-act operas by composer Robert Paterson and librettist David Cote. *The Companion*, *Safe Word*, and *Masquerade* tell stories which are \"sexy, funny, and a little bit naughty,\" about swingers, sex robots, and a dominatrix named \"Mistress Salomé\".\n\nWe spoke with Paterson and Cote about their triple-bill, and about telling stories of 21st-century sexuality without relying on shock value.\n\n*Three Way* runs **January 27-29** at Nashville's James K. Polk Theater. For details and ticket information, [click here](http://www.nashvilleopera.org/three-way/), or download the [*Three Way* study guide](https://static1.squarespace.com/static/523741ace4b05227e9571e60/t/587805d9b8a79b0a4ee5037e/1484260830063/StudyGuideTHREEWAY.pdf)."
 publishDate = "2017-01-18T13:33:00+00:00"
-short_description = "\"I'd love audiences to have the realization that new opera can be as witty and memorable as a good Broadway musical. I also hope they see the light and dark sides of what we're after — beyond the humor there's sadness, strangeness. And the idea that sexuality and gender may be evolving through changing social attitudes and technology — that's real, it's here, and I think it should be celebrated.\""
+short_description = "&quot;I&#039;d love audiences to have the realization that new opera can be as witty and memorable as a good Broadway musical. I also hope they see the light and dark sides of what we&#039;re after — beyond the humor there&#039;s sadness, strangeness. And the idea that sexuality and gender may be evolving through changing social attitudes and technology — that&#039;s real, it&#039;s here, and I think it should be celebrated.&quot;"
 slug = "safe-words-masquerades-nashville-opera-presents-three-way"
 title = "Safe words &amp; Masquerades: Nashville Opera presents Three Way"
 +++
@@ -28,7 +28,7 @@ title = "Safe words &amp; Masquerades: Nashville Opera presents Three Way"
 **Cote**: In terms of emotional spectrum, we wanted to give the singers and audiences a wide range. The challenge in writing essentially realistic scenarios (in a highly un-realistic medium such as opera) is to create plausible characters or situations—even when we're talking about robot lovers. If you are hooked by the narrative as much as Rob's gorgeous, melodic music, then it's working. Another challenge is to avoid prurience or shock for its own sake. We have very little swearing in the piece. Or explicit sexual language. Or nudity. Except for the stage crew. Buck nekkid, every last one.
 
 <figure data-type="image">
-![](/webhook-uploads/1484735999023/2017-01-promo-collage.jpg)<figcaption>Photo by Jason Lee Denton.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484735999023/2017-01-promo-collage.jpg)<figcaption>Photo by Jason Lee Denton.</figcaption>
 </figure>
 
 ## So far, what sort of feedback have you received from workshop processes or rehearsals with the artists?

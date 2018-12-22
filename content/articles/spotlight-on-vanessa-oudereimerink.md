@@ -4,7 +4,7 @@ date = "2016-07-03T20:03:00-06:00"
 lastmod = "2016-07-06T16:06:00-06:00"
 preamble = "Canadian soprano [Vanessa Oude-Reimerink](/scene/people/vanessa-oude-reimerink/) is currently in Banff, AB, with [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) and the Open Space: Opera in the 21st Century program, to sing Lucia in *The Rape of Lucretia* and Sarah Thorpe in *No One's Safe*. She's a recent Emerging Artist with Calgary Opera, and a soon-to-be member of Vancouver Opera's Yulanda M. Faris Young Artist program.\n\nShe took the time to talk about the \"wrestling coach\" mindset that gets her pumped for a performance, and about the feeling of \"floating\" that comes with great singing."
 publishDate = "2016-07-03T20:15:00-06:00"
-short_description = "\"Normally, the voice in my head would say things like 'you're running out of air' but instead I try to hear 'you have all the air in the world and you WILL make it through this phrase!' I really believe that sending out positive energy and thoughts will not only make your life more enjoyable, but you will notice a difference in the people who surround you. \""
+short_description = "&quot;Normally, the voice in my head would say things like &#039;you&#039;re running out of air&#039; but instead I try to hear &#039;you have all the air in the world and you WILL make it through this phrase!&#039; I really believe that sending out positive energy and thoughts will not only make your life more enjoyable, but you will notice a difference in the people who surround you. &quot;"
 slug = "spotlight-on-vanessa-oudereimerink"
 title = "Spotlight on: Vanessa Oude-Reimerink"
 +++
@@ -20,7 +20,7 @@ I am also a huge people person and love working with others towards an end proje
 Good singing is when you get to the performance or audition and you have done absolutely all the preparation you could have done. You let go, are not worried at all about technique and you just sing and communicate with full honesty, freedom and commitment. I can't really explain how to get to this point – it sometimes happens for me and it sometimes doesn't. I'm still trying to discover how to reach it every time. However, when it's happening, I *definitely* know and I have a feeling of lightless – kind of like I'm floating. 
 
 <figure data-type="image">
-![](/webhook-uploads/1467598002833/2016-07-04---VanessaMidsummer4.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467598002833/2016-07-04---VanessaMidsummer4.jpg)
 <figcaption>Vanessa (centre) as Tytania in *A Midsummer Night's Dream* with Opera McGill, 2014. Photo by Adam Scotti.</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ Normally, the voice in my head would say things like "you're running out of air"
 Fiordiligi, Adina, Norina, Anne Trulove. Non-realistic: Carmen!
 
 <figure data-type="image">
-![](/webhook-uploads/1467598013110/2016-07-04---Le-Nozze-di-Figaro-August-2013.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467598013110/2016-07-04---Le-Nozze-di-Figaro-August-2013.jpg)
 <figcaption>As Susanna in *Le nozze di Figaro* with Halifax Summer Opera Festival, 2013. Photo by Emily Jewer
 </figcaption>
 </figure>

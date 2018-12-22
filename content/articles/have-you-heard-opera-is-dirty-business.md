@@ -4,7 +4,7 @@ date = "2015-12-22T16:50:00-05:00"
 lastmod = "2015-12-23T10:06:00-05:00"
 preamble = "Note: this post may not be safe for work."
 publishDate = "2015-12-23T10:00:00-05:00"
-short_description = "When I was in my first year of my undergrad degree, I lived in a dorm, on a floor full of music students. I remember one day, when a floormate burst into our room, saying she'd just heard \"the cutest pick-up line ever for musicians\". I prepared myself for a nerdtastic joke, and was rewarded when she quoted, \"I'm a fermata, hold me!\""
+short_description = "When I was in my first year of my undergrad degree, I lived in a dorm, on a floor full of music students. I remember one day, when a floormate burst into our room, saying she&#039;d just heard &quot;the cutest pick-up line ever for musicians&quot;. I prepared myself for a nerdtastic joke, and was rewarded when she quoted, &quot;I&#039;m a fermata, hold me!&quot;"
 slug = "have-you-heard-opera-is-dirty-business"
 title = "Have you heard? Opera is dirty business"
 +++

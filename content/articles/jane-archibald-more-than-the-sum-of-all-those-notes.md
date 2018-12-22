@@ -3,7 +3,7 @@ categories = "Review"
 date = "2018-02-21T16:28:00-05:00"
 lastmod = "2018-02-21T21:01:00-05:00"
 publishDate = "2018-02-21T21:01:00-05:00"
-short_description = "Desautels created a bit of magic with his first note of Schubert, dovetailing the piano's set-up note with an otherworldly sound that came out of nothing. He was really moving to watch. He seemed to cater his playing to the subtleties of Archibald's voice, even making his clarinet speak some text in the metaphorical margins of Schubert's score."
+short_description = "Desautels created a bit of magic with his first note of Schubert, dovetailing the piano&#039;s set-up note with an otherworldly sound that came out of nothing. He was really moving to watch. He seemed to cater his playing to the subtleties of Archibald&#039;s voice, even making his clarinet speak some text in the metaphorical margins of Schubert&#039;s score."
 slug = "jane-archibald-more-than-the-sum-of-all-those-notes"
 title = "Jane Archibald: more than the sum of all those notes"
 +++
@@ -17,7 +17,7 @@ Desautels created a bit of magic with his first note of Schubert, dovetailing th
 With an abriged version of the *Brentano Lieder*, Archibald delivered some Richard Strauss that was essentially perfect. It's easy to understand why some of the soprano's fans are firmly convinced that Strauss' music is her ultimate vocation. There's a womanly curve to the way she sings coloratura, and a kind of pliable agility that suits Strauss' stretchy leaps and twisting runs. She ended with "Amor", and made it sound all too easy.
 
 <figure data-type="image">
-![](/webhook-uploads/1519263825685/KLP180220-_A7R2561.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519263825685/KLP180220-_A7R2561.jpg)
 <figcaption>Soprano Jane Archibald, 2018. Photo: Kevin Lloyd.</figcaption>
 </figure>
 

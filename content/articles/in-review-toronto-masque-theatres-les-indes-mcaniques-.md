@@ -3,7 +3,7 @@ categories = "Review"
 date = "2015-05-15T09:34:00-04:00"
 lastmod = "2015-05-15T10:30:00-04:00"
 publishDate = "2015-05-15T10:30:00-04:00"
-short_description = "I braved the land of construction last night, heading to the Fleck Dance Theatre at Harbourfront Centre to catch the final instalment of Toronto Masque Theatre's 2014/15 season. TMT presents Rameau's Les Indes Mécaniques (ou Les Automates de Topkapi), a delightfully bizarre opera about girls and boys, and how they end up with each other."
+short_description = "I braved the land of construction last night, heading to the Fleck Dance Theatre at Harbourfront Centre to catch the final instalment of Toronto Masque Theatre&#039;s 2014/15 season. TMT presents Rameau&#039;s Les Indes Mécaniques (ou Les Automates de Topkapi), a delightfully bizarre opera about girls and boys, and how they end up with each other."
 slug = "in-review-toronto-masque-theatres-les-indes-mcaniques-"
 title = "In review: Toronto Masque Theatre&#039;s Les Indes Mécaniques "
 +++

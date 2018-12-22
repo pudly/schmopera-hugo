@@ -3,7 +3,7 @@ categories = "Editorial"
 date = "2014-10-30T09:00:00-04:00"
 lastmod = "2015-04-14T10:04:00-04:00"
 publishDate = "2014-10-30T09:00:00-04:00"
-short_description = "On November 25th, the Canadian Opera Company will present the second annual Centre Stage: Ensemble Studio Competition Gala. The best of Canada's young opera scene will sing for the chance to win some prize money ($1500-$5000), and they'll also be vying for a spot in the COC Ensemble Studio."
+short_description = "On November 25th, the Canadian Opera Company will present the second annual Centre Stage: Ensemble Studio Competition Gala. The best of Canada&#039;s young opera scene will sing for the chance to win some prize money ($1500-$5000), and they&#039;ll also be vying for a spot in the COC Ensemble Studio."
 slug = "ben-heppner-to-host-the-coc-ensemble-studio-competition-gala"
 title = "Ben Heppner To Host the COC Ensemble Studio Competition Gala"
 +++

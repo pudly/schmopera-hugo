@@ -4,7 +4,7 @@ date = "2016-10-24T12:32:00+01:00"
 lastmod = "2016-10-25T19:39:00+01:00"
 preamble = "\"Orchestra Underground: Contempo-Scary Music\" is the great title that the [American Composers Orchestra](http://www.americancomposers.org/2016/09/04/orchestra-underground-contempo-scary/) gave to their [Halloween-themed season opener at Zankel Hall, **October 28 at 7:30pm**](http://www.americancomposers.org/2016/09/04/orchestra-underground-contempo-scary/). On the spooky programme are Bernard Herrmann's *Psycho Suite* (after Hitchock's film), the world premiere of Judith Shatin's *Black Moon*, Paul Moravec's *The Overlook Hotel Suite* (based on his opera, and Stephen King's novel, *The Shining*), and David del Tredici's scena for soprano/narrator and orchestra, *Dracula*.\n\nNancy Allen Lundy sings del Tredici's surreal, spooky piece, which is a setting of Alfred Corn's poem, \"My Neighbor, the Distinguished Count.\" We spoke with Allen about the singer-as-narrator, and becoming the lady who livies next-door to Count Dracula.\n\nFor full details and ticket information about \"Contempo-Scary Music\" on October 28, [click here.](http://www.americancomposers.org/2016/09/04/orchestra-underground-contempo-scary/)"
 publishDate = "2016-10-25T09:26:00+01:00"
-short_description = "\"Alfred Corn is the brilliant wordsmith of this beguiling story. I can't say enough about how beautifully crafted the text is. The words are like music, tripping and bubbling off the tongue. They are a pleasure to speak, and every phrase is an economic distillation of words to convey intention.\""
+short_description = "&quot;Alfred Corn is the brilliant wordsmith of this beguiling story. I can&#039;t say enough about how beautifully crafted the text is. The words are like music, tripping and bubbling off the tongue. They are a pleasure to speak, and every phrase is an economic distillation of words to convey intention.&quot;"
 slug = "draculas-neighbour-nancy-allen-lundy"
 title = "Dracula&#039;s neighbour: Nancy Allen Lundy"
 +++
@@ -20,7 +20,7 @@ The singer is asked to narrate as well as sing. Much of the monologue is set to 
 Opera singers memorize whole evenings of text, often in a foreign language, which is a challenge, but the music and staging offer triggers to use as road marks. Reciting text alone from one place on stage I find more difficult.  It is crucial for me to delve completely into the story to remember what’s next. I'm learning, too, that reciting text and singing text require different diction. The kind of English diction required for a singer in a large hall, un-amplified, tends to pop and sputter into a microphone, whereas normal speech patterns aren't quite enough. 
 
 <figure data-type="image">
-![](/webhook-uploads/1477309099360/2016-10-24---NancyAllenLundy.jpg)<figcaption>Nancy Allen Lundy, soprano. Photo by Masataka Suemitsu.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477309099360/2016-10-24---NancyAllenLundy.jpg)<figcaption>Nancy Allen Lundy, soprano. Photo by Masataka Suemitsu.</figcaption>
 </figure>
 
 ## What kind of reaction do you sense from the audience when you perform *Dracula*?
