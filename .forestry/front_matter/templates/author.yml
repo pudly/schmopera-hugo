@@ -4,8 +4,8 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  name: name
-  label: Name
+  name: title
+  label: Title
   config:
     required: true
 - type: text
@@ -13,6 +13,7 @@ fields:
   label: Slug
   config:
     required: true
+  description: Friendly URL for author (name-of-author)
 - type: file
   name: primary_image
   label: Primary Image
