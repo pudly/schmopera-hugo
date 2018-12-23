@@ -40,10 +40,6 @@ fields:
 - type: file
   name: primary_image
   label: Primary Image
-- type: text
-  name: youtube_url
-  label: Youtube URL
-  description: If this is a Video Post, paste full Youtube URL with HTTPS
 - type: textarea
   name: primary_image_credit
   label: Primary Image Credit
@@ -70,9 +66,10 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-- type: image_gallery
-  name: image_gallery
-  label: Image Gallery
+- type: text
+  name: youtube_url
+  label: Youtube URL
+  description: If this is a Video Post, paste full Youtube URL with HTTPS
 - type: list
   name: related_articles
   label: Related Articles
@@ -99,5 +96,8 @@ fields:
     source:
       type: pages
       section: companies
+- type: image_gallery
+  name: image_gallery
+  label: Image Gallery
 pages:
 - content/articles/here-s-a-new-article.md
