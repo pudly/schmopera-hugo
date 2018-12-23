@@ -1,7 +1,6 @@
 +++
 contact_email = "person@fakecompany.com"
 date = "2018-12-23T01:51:08+00:00"
-draft = true
 facebook = "https://facebook.com/fakecompany"
 instagram = "https://instagram.com/fakecompany"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545529805/media/2018/12/Dunder_Mifflin%2C_Inc.svg.png"
