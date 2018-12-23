@@ -1,0 +1,26 @@
+---
+label: Social Media
+hide_body: false
+is_partial: true
+display_field: platform
+fields:
+- type: select
+  name: platform
+  config:
+    source:
+      type: simple
+    options:
+    - Facebook
+    - " Twitter"
+    - Instagram
+    - Youtube
+    - Linkedin
+    - Soundcloud
+    required: true
+  label: Platform
+- type: text
+  name: url
+  label: URL
+  description: Must be complete URL
+  config:
+    required: true
