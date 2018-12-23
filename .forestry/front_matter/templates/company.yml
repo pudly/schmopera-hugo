@@ -1,0 +1,48 @@
+---
+label: Company
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  name: slug
+  label: Slug
+  description: Friendly URL for Company (company-name)
+  config:
+    required: true
+- type: file
+  name: primary_image
+  label: Primary Image
+- type: text
+  name: primary_image_credit
+  label: Primary Image Credit
+- type: text
+  name: type_of_company
+  label: Type of Company
+- type: text
+  name: website_url
+  label: Website
+  description: Must be complete URL
+- type: text
+  name: contact_email
+  label: Contact Email
+- type: text
+  label: Twitter
+  name: twitter
+  description: Must be complete URL
+- type: text
+  name: facebook
+  label: Facebook
+  description: Must be complete URL
+- type: text
+  label: Instagram
+  name: instagram
+  description: Must be complete URL
+- type: text
+  name: youtube
+  label: Youtube
+  description: Must be complete URL
