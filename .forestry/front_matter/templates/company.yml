@@ -27,6 +27,9 @@ fields:
   name: website_url
   label: Website
   description: Must be complete URL
+- type: textarea
+  name: address
+  label: Address
 - type: text
   name: contact_email
   label: Contact Email
