@@ -40,6 +40,10 @@ fields:
 - type: file
   name: primary_image
   label: Primary Image
+- type: text
+  name: youtube_url
+  label: Youtube URL
+  description: If this is a Video Post, paste full Youtube URL with HTTPS
 - type: textarea
   name: primary_image_credit
   label: Primary Image Credit
@@ -78,17 +82,22 @@ fields:
       type: pages
       section: articles
   default: []
-- type: field_group_list
-  name: people
+- type: list
+  name: related_people
   label: People
-  description: People mentioned in this article
-- type: field_group_list
-  name: companies
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: people
+- type: list
+  name: related_companies
   label: Companies
-  description: Companies mentioned in this article
-- type: text
-  name: youtube_url
-  label: Youtube URL
-  description: If this is a Video Post, paste full Youtube URL with HTTPS
+  description: ''
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: companies
 pages:
 - content/articles/here-s-a-new-article.md
