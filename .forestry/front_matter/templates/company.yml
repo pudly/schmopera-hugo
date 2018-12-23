@@ -24,14 +24,14 @@ fields:
   name: type_of_company
   label: Type of Company
 - type: text
-  name: website_url
+  name: website
   label: Website
   description: Must be complete URL
 - type: textarea
   name: address
   label: Address
 - type: text
-  name: contact_email
+  name: email
   label: Contact Email
 - type: blocks
   template_types:
