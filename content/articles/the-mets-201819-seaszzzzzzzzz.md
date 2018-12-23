@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Humour"
+companies = ["The Metropolitan Opera"]
 date = "2018-02-17T13:07:00-05:00"
 lastmod = "2018-02-17T22:01:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518908897144/pexels-photo-277017.jpg"
 publishDate = "2018-02-17T13:07:00-05:00"
 short_description = "But, compared with the offerings at places like Opera Philadelphia, Minnesota Opera, The Atlanta Opera, and a fast-growing proportion of other regional opera houses in the United States and Canada, the Metropolitan Opera is proving its status as an honest-to-God opera museum."
 slug = "the-mets-201819-seaszzzzzzzzz"

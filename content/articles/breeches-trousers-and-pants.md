@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["Lyric Opera of Chicago"]
 date = "2015-06-02T16:31:00-04:00"
 lastmod = "2015-06-03T19:32:00-04:00"
+people = ["Alice Coote","Elizabeth DeShong","Danielle de Niese"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433362311696/03.-Elizabeth-DeShong-Maria-Kanyova-HANSEL-GRETEL-DR2_0100-c.-Dan-Rest.jpg"
 publishDate = "2015-06-03T16:37:00-04:00"
 short_description = "The value of the male soprano voice comes from an aesthetic of another time. It&#039;s a curiously stubborn aesthetic, too. There was obvious value placed on a high voice with agility and expression, and yet turning to women to provide that kind of sound was bluntly off the table. The castration of promising young singers was, according to history, a better option than training women and letting them perform."
 slug = "breeches-trousers-and-pants"

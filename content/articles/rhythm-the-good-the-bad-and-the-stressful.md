@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Humour"
 date = "2016-10-10T10:42:00+01:00"
 lastmod = "2016-10-10T12:16:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476093842808/2016-10-10---Metronome.jpg"
 publishDate = "2016-10-10T11:15:00+01:00"
 short_description = "To be clear, readers, this bit of grumbling isn&#039;t meant to say, &quot;look how bad the average person&#039;s rhythm is!&quot; It&#039;s truly an impressive feat to master the art of keeping a beat. It&#039;s a skill that makes a stellar beat-boxer, and adds to the value of a great drummer."
 slug = "rhythm-the-good-the-bad-and-the-stressful"

@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Canadian Opera Company"]
 date = "2015-10-27T14:53:00-04:00"
 lastmod = "2015-10-28T16:25:00-04:00"
+people = ["Quinn Kelsey"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445980520412/QuinnKelseyRecital.jpg"
 publishDate = "2015-10-28T12:29:00-04:00"
 short_description = "Hawaiian baritone Quinn Kelsey strode into the Richard Bradshaw Amphitheatre, wearing black cowboy boots with his three-piece suit, and said to the audience, &quot;I apologize in advance for cheat sheets.&quot;"
 slug = "in-review-quinn-kelseys-songs-from-the-heart"

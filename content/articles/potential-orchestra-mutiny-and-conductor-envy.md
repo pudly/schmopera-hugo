@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
 date = "2015-07-09T13:25:00-06:00"
 lastmod = "2015-07-15T08:43:00-06:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436744137294/PlenaryHall.jpg"
 publishDate = "2015-07-15T08:33:00-06:00"
 short_description = "As a pianist and répétiteur, I don&#039;t envy conductors, either. Plenty of pianists do, and often their work repping in rehearsals or coaching singers is a stepping stone for them into the eventual world of conducting. I&#039;ve never wanted to stand on the other side of the piano, largely because orchestras can be terrifying."
 slug = "potential-orchestra-mutiny-and-conductor-envy"

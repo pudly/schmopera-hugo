@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Canadian Opera Company"]
 date = "2017-04-27T14:44:00-04:00"
 lastmod = "2017-04-28T11:40:00-04:00"
+people = ["Russell Braun","Allyson McHardy","Simone Osborne","Michael Colvin","Charles Sy","Clarence Frazer","Aaron Sheppard","Jean-Philippe Fortier-Lazure","Johannes Debus","James Westman","Keith Klassen","Andrew Haji","Peter Barrett","Alain Coulombe"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493319059317/2017-04-27---Square---LouisRiel-SI-1272.jpg"
 publishDate = "2017-04-28T11:20:00-04:00"
 short_description = "Perhaps without Hinton&#039;s supernumeraries, Louis Riel might have been more &quot;comfortable&quot; for Toronto audiences. With the faces of the affected placed right amid a piece of theatre that comes out of a Western European tradition, the production seems to mirror the slow, significant steps being taken by Canada as a whole, beginning with the acknowledgement of injustice within our country&#039;s short history."
 slug = "discomfort-louis-riel-at-the-coc"

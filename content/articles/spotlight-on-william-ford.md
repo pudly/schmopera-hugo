@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Highlands Opera Studio","University of Toronto Opera","Canadian Opera Company","Halifax Summer Opera Festival"]
 date = "2015-07-17T16:40:00-04:00"
 lastmod = "2015-07-21T13:58:00-04:00"
+people = ["William Ford"]
 preamble = "Toronto-based tenor [William Ford](/scene/people/william-ford/) is fresh out of the University of Toronto Opera School; this makes him a young singer, but he's not lacking in wisdom. I was thrilled to read his eloquent and smart interview responses, and more than a little blown away by his awareness of self (something that took me and many others much longer to learn). William heads to [Highlands Opera Studio](/scene/companies/highlands-opera-studio/) later this summer, to sing in their production of *Le nozze di Figaro*, and he'll join the prestigious Canadian Opera Company chorus for their spring productions in 2016. You can also hear William in recital this month, in Exeter, Ontario, July 25th. Head over to his [GoFundMe campaign](http://www.gofundme.com/williamfordtenor) to help him do a bit more of what he loves: singing."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437165629832/FordWeb_1Square.jpg"
 publishDate = "2015-07-18T09:00:00-04:00"
 short_description = "Toronto-based tenor William Ford is fresh out of the University of Toronto Opera School; this makes him a young singer, but he&#039;s not lacking in wisdom. I was thrilled to read his eloquent and smart interview responses, and more than a little blown away by his awareness of self (something that took me and many others much longer to learn). "
 slug = "spotlight-on-william-ford"

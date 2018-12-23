@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Against the Grain Theatre","The Banff Centre"]
 date = "2018-04-10T22:19:00-04:00"
 lastmod = "2018-04-11T12:02:00-04:00"
+people = ["Joel Ivany","Christopher Mokrzewski"]
 preamble = "Against the Grain Theatre's spring production is upon us, and it boasts all the innovation and surprises for which the award-winning company is known. In collaboration with Opera Columbus, Banff Centre for Arts and Creativity, and NYC's Company XIV, AtG presents [*Orphée⁺*](http://againstthegraintheatre.com/orphee/), April 26-28 at the Fleck Dance Theatre in Toronto's Harbourfront Centre. Gluck and Berlioz's score is transformed with new orchestration and arrangements, and the production by Joel Ivany features burlesque dancers, aerialists, and a \"virtual chorus\". \n\nWe spoke with Ivany and AtG Music Director Topher Mokrzewski about all the curiosity inherent in their [*Orphée⁺*](http://againstthegraintheatre.com/orphee/), and what audiences can expect this month:"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523412995166/sq---Marcy-hi-res.jpg"
 publishDate = "2018-04-10T22:19:00-04:00"
 short_description = "&quot;The key is to employ all these elements to further enhance and heighten the experience of the drama - that is to say, these are not random tricks that have been selected for novelty&#039;s sake. Despite the number of collaborators, there is a unity of purpose behind every device, and I think they coalesce beautifully.&quot;"
 slug = "orphe-how-do-we-grieve-in-2018"

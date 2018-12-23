@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["Royal Conservatory of Music"]
 date = "2014-08-12T13:03:00-04:00"
 lastmod = "2015-04-16T22:51:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429239049080/RCM.jpg"
 publishDate = "2014-08-12T13:03:00-04:00"
 short_description = "The Royal Conservatory of Music is offering a cool new way to help you get to know some of the shows you can see around Toronto this fall. Opera in the City is a new Music Appreciation Class at the RCM, and it focuses on Handel&#039;s Alcina (opening at Opera Atelier October 23rd), Verdi&#039;s Falstaff, and Puccini&#039;s Madama Butterfly (both at the Canadian Opera Companybeginning in October)."
 slug = "appreciating-opera-a-learned-skill"

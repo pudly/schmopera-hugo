@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Opera on the Avalon","The Metropolitan Opera"]
 date = "2015-04-23T22:04:00+01:00"
 lastmod = "2016-11-28T10:13:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429833567018/foto-gerald-martin-moore-03.jpg"
 publishDate = "2014-06-09T14:04:00+01:00"
 short_description = "Pianist, coach and voice teacher Gerald Martin Moore works with, well, everybody. He&#039;s in demand as a coach, teacher and pianist for the likes of Renée Fleming, Joyce DiDonato, and Sarah Connolly, and he interviewed the spectacular Beverly Sills."
 slug = "talking-singing-with-gerald-martin-moore"

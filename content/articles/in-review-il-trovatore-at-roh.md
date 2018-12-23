@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Royal Opera House"]
 date = "2016-12-05T10:39:00+00:00"
 lastmod = "2016-12-05T12:58:00+00:00"
+people = ["Anita Rachvelishvili","Quinn Kelsey","Maria Agresta"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480934233271/2016-12-5---2777ashm_665-664-ANITA-RACHVELISHVILI-AS-AZUCENA-NAJMIDDIN-MAVLYANOV-AS-MANRICO-ROH-PHOTOGRAPHER-CATHERINE-ASHMORE.jpg"
 publishDate = "2016-12-05T12:46:00+00:00"
 short_description = "First performed in 1853, just after Rigoletto and just before La traviata, Il trovatore gives unfortunate talking points to those who may say that opera plots are silly. There&#039;s the &quot;I burned the wrong baby&quot; bit, the &quot;it&#039;s too dark to tell who I&#039;m hugging&quot; bit, and there are all the opera-esque moments of oddly-timed shock and rage."
 slug = "in-review-il-trovatore-at-roh"

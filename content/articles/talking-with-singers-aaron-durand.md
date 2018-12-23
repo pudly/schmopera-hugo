@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
 date = "2015-03-15T18:53:00+00:00"
 lastmod = "2016-11-28T10:11:00+00:00"
+people = ["Aaron Durand"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1426445539049/Aaron1_8x10.jpg"
 publishDate = "2015-03-05T19:53:00+00:00"
 short_description = "Baritone Aaron Durand is new to Toronto, originally hailing from 100 Mile House, British Columbia. If you caught Against the Grain Theatre’s production of #UncleJohn, either in Banff, AB, or in Toronto, you caught his charmingly protective performance of Masetto. Aaron is a thoughtful guy, and he agreed to chat."
 slug = "talking-with-singers-aaron-durand"

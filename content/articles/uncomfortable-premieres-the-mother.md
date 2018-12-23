@@ -1,7 +1,11 @@
 +++
+author = "John Beckett"
 categories = "Review"
+companies = ["Mahogany Opera Group"]
 date = "2018-04-27T16:18:00-04:00"
 lastmod = "2018-04-27T16:18:00-04:00"
+people = ["Frederic Wake-Walker"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524859651430/sqRebeccaB.jpg"
 publishDate = "2018-04-27T16:18:00-04:00"
 short_description = "I would place Merz and Osborn&#039;s opera somewhere in the middle of absurdist and literalist. They attempt to explore the psychological relationship of mother and son through repetitive material and an assertive musical language."
 slug = "uncomfortable-premieres-the-mother"

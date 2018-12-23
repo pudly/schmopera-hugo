@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Toronto Symphony Orchestra"]
 date = "2018-06-30T22:08:00-04:00"
 lastmod = "2018-06-30T22:10:00-04:00"
+people = ["Andrew Haji","Kirsten MacKinnon","Lauren Segal","Tyler Duncan"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530410694349/20180630_182734.jpg"
 publishDate = "2018-06-30T22:08:00-04:00"
 short_description = "The symphony itself feels like an entire world, encompassing at once the life of one man - I always like it to be Beethoven&#039;s - and the lives of all people. It feels as though Beethoven offers up his story first, a conversation starter with humanity, letting us know of his hardships and his joys and his sense of humour, like an invitation for us to respond."
 slug = "the-tsos-joyful-ode-to-oundjian"

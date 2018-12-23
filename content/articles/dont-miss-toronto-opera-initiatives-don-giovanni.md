@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
 date = "2016-02-11T11:29:00-05:00"
 lastmod = "2016-02-11T11:32:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455207926267/TOIGiovanni.jpg"
 publishDate = "2016-02-11T11:32:00-05:00"
 short_description = "Need a last-minute-Valentine&#039;s-Day opera fix? This Saturday at 7pm at College Street United Church, Toronto Opera Initiative presents Mozart&#039;s tale of romance and love (?), Don Giovanni. The cast is full of exciting young artists, including baritone Andrey Andreychik in the title role, and Toronto Opera Initiative founder and General Manager, Jaclyn Grossman as Donna Anna."
 slug = "dont-miss-toronto-opera-initiatives-don-giovanni"

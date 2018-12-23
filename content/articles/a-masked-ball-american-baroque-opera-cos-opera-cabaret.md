@@ -1,7 +1,10 @@
 +++
+author = "Andrew Schneider"
 categories = "Review"
+companies = ["American Baroque Opera Co."]
 date = "2017-09-17T11:28:00-04:00"
 lastmod = "2017-09-17T15:54:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505670433175/2017-09-17---square---_KA38212.jpg"
 publishDate = "2017-09-17T14:55:00-04:00"
 short_description = "This group has succeeded in being a passionate representative of Baroque opera as not merely an outlier that &quot;comes before the real operas of Mozart, Puccini, Verdi, and Bizet&quot;, but as a vibrant, effusive, and brilliant genre sui generis that appreciates the love and devotion performers bring to it."
 slug = "a-masked-ball-american-baroque-opera-cos-opera-cabaret"

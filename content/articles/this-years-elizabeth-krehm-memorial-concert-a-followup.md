@@ -1,7 +1,11 @@
 +++
+author = "Greg Finney"
 categories = "Op-ed"
+companies = ["Opera 5","Indie Opera T.O."]
 date = "2016-11-23T12:06:00+00:00"
 lastmod = "2016-11-23T14:42:00+00:00"
+people = ["Rachel Krehm"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479903026073/Lbpur_9otC4yFAWIJPbd7BxPZpbgCXxKtyL9PoWfIxorhVxMw6j1_tn_u5-ZtfQe1NVZYPWHhBWDVnv1wxKE6dk8XYs%3Dw680-h680-c"
 publishDate = "2016-11-23T14:42:00+00:00"
 short_description = "At last count, the evening raised over $20,000 for the ICU at St. Michael&#039;s Hospital, showing once again that music can heal almost any hurt. On the whole, since the inaugural concert, the Krehms have raised over $60,000 in support of the place that provided Elizabeth with the top-level care and support."
 slug = "this-years-elizabeth-krehm-memorial-concert-a-followup"

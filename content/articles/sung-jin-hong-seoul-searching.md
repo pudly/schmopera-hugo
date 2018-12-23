@@ -1,8 +1,11 @@
 +++
+author = "Sung Jin Hong"
 categories = "Op-ed"
+companies = ["One World Symphony"]
 date = "2017-09-25T12:39:00-04:00"
 lastmod = "2017-09-26T21:25:00-04:00"
 preamble = "This is a cross-post originally published on [One World Symphony's blog](http://oneworldsymphony.org/news13BreakingBlog.shtml#Sep2517)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506434195343/2017-09-26---Hallasan_Jeju-Island.jpg"
 publishDate = "2017-09-26T10:11:00-04:00"
 short_description = "If The Rite of Spring &quot;kissed the earth&quot; through a savagely primitive lens, that temple-food-inspired table celebrated our planet&#039;s primordial bounty from a more intimate perspective. The meal was prepared using centuries-old methods and crafted with ingredients that shared their origins with the mountains themselves. Traditional Korean cooking has nurtured a patient alchemy, where delicacies, seasoned with time to develop deep undercurrents of flavor, emerge transformed."
 slug = "sung-jin-hong-seoul-searching"

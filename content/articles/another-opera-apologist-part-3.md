@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
 date = "2013-12-18T23:30:00-05:00"
 lastmod = "2015-04-28T23:42:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430278951395/Curtain.png"
 publishDate = "2013-12-18T23:30:00-05:00"
 short_description = "Terence Corcoran, in his grossly closed-minded article inspired by the COC’s 2013 production of La clemenza di Tito, found himself so distraught by the sight of two women kissing (that head-turning product of opera&#039;s &quot;pants role&quot; tradition) that he suggested we throw out all of opera with the bathwater."
 slug = "another-opera-apologist-part-3"

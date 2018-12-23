@@ -1,7 +1,9 @@
 +++
+author = "Loren Lester"
 categories = "Review"
 date = "2018-03-27T17:11:00-04:00"
 lastmod = "2018-03-27T21:33:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522185034632/sq---image%5B8%5D.jpg"
 publishDate = "2018-03-27T17:11:00-04:00"
 short_description = "The percussionist inside Mr. Copeland finds the perfect places for the musical punctuation of xylophone, triangle, concert tom-toms, etc. And even though the tip-toeing steps of the bass and bassoon are heard throughout, it&#039;s the booming bass and bass drum that drive the drama, expressing the developing madness inside and outside the characters."
 slug = "twice-on-this-island"

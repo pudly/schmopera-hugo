@@ -1,7 +1,10 @@
 +++
+author = "Arturo Fernandez"
 categories = "Review"
+companies = ["Odyssey Opera"]
 date = "2018-11-10T12:27:00-05:00"
 lastmod = "2018-11-10T13:27:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541870795258/sqWhitneyRobinson_StephenSalters.jpg"
 publishDate = "2018-11-10T12:27:00-05:00"
 short_description = "But of course, Stephen Salters proved to be the definitive star of the night with the way he played the role of Sganarelle. Salters proved to be an extremely versatile performer whose comedy was absolutely on point throughout the whole, be it from his tasteful vocal colorations in his drinking song to the exasperation towards his near-hanging at the end of the opera."
 slug = "wacky-silly-medecin-malgre-lui-an-over-the-top-delight"

@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
 date = "2016-05-24T09:59:00+01:00"
 lastmod = "2016-05-24T13:22:00+01:00"
+people = ["David Soar","Maria Gulik","John Hudson"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464083865911/2016-05-24---Southbank.gif"
 publishDate = "2016-05-24T13:22:00+01:00"
 short_description = "From our place in history, with well over a century of hindsight, Verdi&#039;s Requiem can feel like a meta work; it&#039;s as though these beloved characters make a cameo, like a &quot;operatic special&quot;, sharing the stage to perform a work that seems to evoke a first-person delivery by Verdi of these texts."
 slug = "requiem-on-the-south-bank"

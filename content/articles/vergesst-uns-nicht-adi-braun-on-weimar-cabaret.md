@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Royal Conservatory of Music","Canadian Opera Company","Opera Atelier"]
 date = "2015-12-10T19:44:00-05:00"
 lastmod = "2015-12-18T10:10:00-05:00"
+people = ["Adi Braun"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449795824874/2015-12-12---Adi-Braun.jpg"
 publishDate = "2015-12-18T10:06:00-05:00"
 short_description = "In the Weimar era, there seemed to be a cabaret for just about anybody. The dinner-theatre style of cabaret was common, says Adi, but there were also &quot;comedy clubs, gay cabarets and political cabarets, [and] each cabaret likely had its own audience.&quot;"
 slug = "vergesst-uns-nicht-adi-braun-on-weimar-cabaret"

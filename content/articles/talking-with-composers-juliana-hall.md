@@ -1,8 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
 date = "2017-06-21T09:07:00-06:00"
 lastmod = "2017-07-03T22:07:00-06:00"
 preamble = "American composer [Juliana Hall](https://www.julianahall.com/about-juliana-hall/) has over 50 song cycles and vocal chamber works to her name, her most recent cycle having just premiered in Los Angeles at the 2017 SongFest program. Since turning to composition in her 20s, Hall has written for the likes of Dawn Upshaw and Brian Asawa, and her music has been heard in 29 counties; just this past season, she heard the world premieres of five new works for voice and piano.\n\nIn a delightful chat with the voice-friendly composer, she speaks about writing \"active piano parts\" in her songs, and how the tough parts of the job are easily outweighed by the pleasure of composing."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498057683874/2017-06-21---composer-juliana-hall.jpg"
 publishDate = "2017-07-03T22:07:00-06:00"
 short_description = "&quot;Despite its difficulties, there is nothing I can imagine I would rather be doing with my life than composing art songs...it is my world, and it is where I belong.&quot;"
 slug = "talking-with-composers-juliana-hall"

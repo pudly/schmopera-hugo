@@ -1,8 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Vera Causa Opera"]
 date = "2017-02-06T20:45:00+00:00"
 lastmod = "2017-02-07T23:56:00+00:00"
 preamble = "With its mission to \"give opera an exciting face lift,\" [Vera Causa Opera](/scene/companies/vera-causa-opera/) is a company based in Ontario's Waterloo region that dedicated to doing away with the old, in favour of what makes opera accessible and free from intimidation. VCO performs new works and adapts old ones, and they keep their ticket prices low ($10 for regular admission, $5 for [VCO members](http://www.vcopera.ca/membership), and free for students). They even post videos of their [past productions online](http://www.vcopera.ca/past-shows).\n\nVCO's next production is Mozart's *Don Giovanni* on **Mard 23, 7pm** at the Kitchener Public Library, and **March 24, 7pm** at the Cambridge Centre for the Arts. We spoke with Dylan Langan, composer, conductor, and Artistic Director of Vera Causa Opera, about how his company offers \"opera for all.\"\n"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486417554467/2017-02-07---VCO.jpg"
 publishDate = "2017-02-07T14:38:00+00:00"
 short_description = "&quot;Accessible opera is opera which allows the viewer to have a direct connection with the work, and allows for performers that would otherwise not be able to partake in the production to be a significant part of it. The fact of the matter is there are things which hinder a direct connection to traditional opera. For us, we tailor our operas to suit the average person and in some ways take off the rose-coloured glasses.&quot;"
 slug = "vera-causa-opera-opera-for-all"

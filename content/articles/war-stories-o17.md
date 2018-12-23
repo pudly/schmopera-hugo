@@ -1,7 +1,11 @@
 +++
+author = "Erik Flaten"
 categories = "Review"
+companies = ["Opera Philadelphia"]
 date = "2017-09-18T15:25:00-04:00"
 lastmod = "2017-09-18T21:42:00-04:00"
+people = ["Rachel Calloway","Sarah Tucker","Abigail Levis","Cecelia Hall","Samuel Levine","Craig Verm"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505766130532/2071-09-18---square---war-stories02.jpg"
 publishDate = "2017-09-18T21:42:00-04:00"
 short_description = "Beecher&#039;s score is a gripping manifestation of the heart-breaking and heavy content of the libretto. His choice to use the same instruments that were used in the Monteverdi is a brilliant blend of past and present. From the very first eerie sounds that welcome us into the world of the piece, one hears similarities to George Crumb&#039;s Black Angels, which is a response to the Vietnam War."
 slug = "war-stories-o17"

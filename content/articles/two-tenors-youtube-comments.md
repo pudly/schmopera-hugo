@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Humour"
 date = "2015-04-24T14:29:00+01:00"
 lastmod = "2016-11-28T10:12:00+00:00"
+people = ["Christopher Mayell","Isaiah Bell"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429882059742/MayellBell1-1024x564.jpg"
 publishDate = "2014-04-04T14:29:00+01:00"
 short_description = "Eager for topical conversation, I showed Canadian tenors Christopher Mayell and Isaiah Bell some comments made about one of those videos with one of those &quot;child opera singers&quot; singing Puccini. Specifically, whether or not 9-year old Amira Willighagen was better than 11-year old Jackie Evancho. It got pretty real."
 slug = "two-tenors-youtube-comments"

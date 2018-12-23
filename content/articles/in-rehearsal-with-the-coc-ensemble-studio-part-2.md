@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Canadian Opera Company","Canadian Opera Company Ensemble Studio"]
 date = "2015-04-28T22:09:00-04:00"
 lastmod = "2015-04-28T22:09:00-04:00"
+people = ["Sasha Djihanian","Aviva Fortunata","Charlotte Burrage","Clarence Frazer","Owen McCausland","Andrew Haji","Cameron McPhail","Claire de Sévigné","Gordon Bintner"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430273201258/IMG_2302.jpg"
 publishDate = "2014-02-04T10:09:00-05:00"
 short_description = "Later this week, the young artists of the Canadian Opera Company will grace the stage of the Four Seasons Centre as they present their unique performance of Mozart&#039;s Così fan tutte. Below is the second in our three-part video series, where we meet the four young singers who sing the roles of the lovers in Act II."
 slug = "in-rehearsal-with-the-coc-ensemble-studio-part-2"

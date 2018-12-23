@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
 date = "2013-12-18T23:23:00-05:00"
 lastmod = "2015-04-28T23:44:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430278985261/Callas.jpg"
 publishDate = "2013-12-18T23:23:00-05:00"
 short_description = "Because one can’t defend opera without defending all of its porous plots: right off the bat, let&#039;s start in defence of the stupid public. In what I imagine are the thoughts of the average first-time operagoer."
 slug = "another-opera-apologist-part-2"

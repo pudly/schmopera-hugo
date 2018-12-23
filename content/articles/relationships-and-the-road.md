@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
 date = "2015-06-05T15:05:00-04:00"
 lastmod = "2015-06-10T14:12:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433883195214/Suitcase_Fotor.jpg"
 publishDate = "2015-06-10T09:16:00-04:00"
 short_description = "Even if there&#039;s endless respect for each others&#039; careers, working away from home means that you will have experiences without that person. You can tell them about the incredible show you sang, or send photos of the beautiful cities you visit, but it will never be the same as having them there with you. Not only that, but you will have these experiences with other people."
 slug = "relationships-and-the-road"

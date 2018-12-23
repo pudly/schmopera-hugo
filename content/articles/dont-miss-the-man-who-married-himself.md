@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
+companies = ["Toronto Masque Theatre"]
 date = "2017-02-20T20:24:00+00:00"
 lastmod = "2017-02-22T13:41:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487622816273/2017-02-20---MWMH-dancers-Jelani-Ade-Lam-and-Sze-Yang-Ade-Lam-pc-Kakuma-Mori.jpg"
 publishDate = "2017-02-22T13:41:00+00:00"
 short_description = "The Man Who Married Himself is based in an Indian folk tale, about a man who is unwilling to marry a woman, and who instead creates a lover for himself out of his own left side. &quot;He finds himself enraptured by his creation&#039;s perfect beauty – a mirror of his own – until he discovers that this new woman longs for another.&quot;"
 slug = "dont-miss-the-man-who-married-himself"

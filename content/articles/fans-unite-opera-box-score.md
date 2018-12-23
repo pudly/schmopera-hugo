@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["Chicago Fringe Opera"]
 date = "2016-10-03T10:14:00+01:00"
 lastmod = "2016-10-03T11:52:00+01:00"
+people = ["Giovanna Jacques"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475487845954/2016-10-03---Opera-Box-Podcast.jpg"
 publishDate = "2016-10-03T11:12:00+01:00"
 short_description = "So, for those well-balanced fans of opera and sports, there&#039;s Opera Box Score, the podcast that asks, &quot;what if opera – its performances, personnel and programming – could be demystified, discussed and promoted in such a way as to become as much a part of the public consciousness as sports?&quot;"
 slug = "fans-unite-opera-box-score"

@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "How-to"
 date = "2016-04-05T20:03:00+01:00"
 lastmod = "2016-04-06T13:48:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459886504668/Christina-Aguilera.jpg"
 publishDate = "2016-04-06T13:45:00+01:00"
 short_description = "We don&#039;t know why it&#039;s so annoying that she does her &quot;vocal scales&quot; on the words &quot;Ave Maria&quot; (maybe it alludes to something a bit more classical). And ironically, her demonstration of the &quot;wrong&quot; way is easier on our ears than the &quot;right&quot; way, which upon hearing makes our throats sympathetically tighten."
 slug = "christina-aguileras-move-into-pedagogy"

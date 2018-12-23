@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["Tapestry Opera","The Metropolitan Opera","Los Angeles Opera","Opera Philadelphia","Minnesota Opera"]
 date = "2016-10-04T14:40:00+01:00"
 lastmod = "2016-10-06T15:46:00+01:00"
+people = ["Jonas Kaufmann","Elizabeth DeShong","Anna Netrebko","Plácido Domingo"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475762801652/2016-10-06---Sales.jpg"
 publishDate = "2016-10-06T15:43:00+01:00"
 short_description = "Without the long histories of Tristan und Isolde or La traviata, new operas need substance within the pages of the score in order to attract listeners. It&#039;s no longer enough to rely on the internal opera fan club, who get excited when folks like Plácido Domingo move from tenor to baritone roles, or when Peter Sellars gets his hands on a Bach oratorio; the people who care about these things are already putting their bums in seats."
 slug = "new-opera-honest-marketing"

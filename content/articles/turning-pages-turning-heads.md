@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Humour"
 date = "2015-04-12T00:31:00+01:00"
 lastmod = "2016-06-05T20:16:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428794740446/pageturner.jpg"
 publishDate = "2015-02-13T16:31:00+00:00"
 short_description = "Pianists, can we talk about page-turning for a minute? Nothing ignites panic in a pianist quite like that horrible feeling of two pages, disguised as one, inexplicably stuck together. The subsequent scuffle between index finger and thumb can escalate into the unthinkable: having to turn the page with both hands. I’ve never been a fan of having a designated page-turner seated beside me at the piano, because I like my bubble of personal space when I play; my stubbornness on this issue has only grown stronger since I’ve been playing opera scores. "
 slug = "turning-pages-turning-heads"

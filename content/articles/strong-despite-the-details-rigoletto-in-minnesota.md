@@ -1,7 +1,11 @@
 +++
+author = "Callie Cooper"
 categories = "Review"
+companies = ["Minnesota Opera"]
 date = "2018-03-25T20:24:00-04:00"
 lastmod = "2018-03-25T20:24:00-04:00"
+people = ["Michael Christie"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522023306508/sq---_37A3402.jpg"
 publishDate = "2018-03-25T20:24:00-04:00"
 short_description = "The musicality and the drama reached its peak with the final scene. The electricity coming up from the pit was so palpable, I felt physically ill when Rigoletto held his daughter for one last time. Despite a few issues with the production itself, the power of the story came through."
 slug = "strong-despite-the-details-rigoletto-in-minnesota"

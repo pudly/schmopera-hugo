@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Canadian Opera Company"]
 date = "2015-04-28T23:14:00-04:00"
 lastmod = "2015-04-28T23:14:00-04:00"
+people = ["Stephen Lord"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430277171243/Screen-Shot-2014-01-03-at-3.01.57-PM.png"
 publishDate = "2014-01-04T10:14:00-05:00"
 short_description = "&quot;He was master of the score&#039;s details and the orchestra played superbly for him.&quot;\n\nAmerican conductor Stephen Lord comes back to Toronto early this year, and we&#039;re excited. He&#039;ll conduct Un ballo in maschera at the Canadian Opera Company, opening February 2nd; after his stunning Lucia di Lammermoor last year, that&#039;s a lot to look forward to."
 slug = "stephen-lord-on-bel-canto-singers-and-theatre"

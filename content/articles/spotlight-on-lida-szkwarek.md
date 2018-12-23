@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Saskatoon Opera","Calgary Opera","Edmonton Opera","The Metropolitan Opera"]
 date = "2015-07-04T00:41:00-06:00"
 lastmod = "2015-07-06T22:32:00-06:00"
+people = ["Lida Szkwarek"]
 preamble = "Winnipeg-born soprano [Lida Szkwarek](/scene/people/lida-szkwarek/) is a past finalist of the Metropolitan Opera National Council Auditions, and she makes her [Edmonton Opera](/scene/companies/edmonton-opera/) debut this coming seasons as Micaëla in [*Carmen*](http://www.edmontonopera.com/season/2015-16/carmen). Lida will return to [Calgary Opera](/scene/people/calgary-opera/) to sing First Lady in their 2016 production of *Die Zauberflöte*. She's also sung on stages in Saskatoon and at The Banff Centre; speaking The Banff Centre, I was recently reminded of a beautiful story by a mutual colleague of Lida and mine, where Lida's now fiancé, tenor [Michael Marino](https://twitter.com/marino_fulltime), proposed to her on the Eric Harvie Theatre stage after a performance of *Don Giovanni* (#operaproposals?). Cute stories aside, I was thrilled to have Lida speak so eloquently on what singing means to her, and  about figuring out what she wants from this crazy career."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435992090004/Lida.jpg"
 publishDate = "2015-07-04T10:39:00-06:00"
 short_description = "Winnipeg-born soprano Lida Szkwarek is a past finalist of the Metropolitan Opera National Council Auditions, and she makes her Edmonton Opera debut this coming seasons as Micaëla in Carmen. Lida will return to Calgary Opera to sing First Lady in their 2016 production of Die Zauberflöte. She&#039;s also sung on stages in Saskatoon and at The Banff Centre; speaking The Banff Centre, I was recently reminded of a beautiful story by a mutual colleague of Lida and mine, where Lida&#039;s now fiancé, tenor Michael Marino, proposed to her on the Eric Harvie Theatre stage after a performance of Don Giovanni (#operaproposals?)."
 slug = "spotlight-on-lida-szkwarek"

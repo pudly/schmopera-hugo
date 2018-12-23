@@ -1,6 +1,8 @@
 +++
+author = "Jenna Simeonov"
 date = "2014-09-10T11:03:00-04:00"
 lastmod = "2015-04-16T15:19:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429211831393/eventshot_brunch_with_rufus_wainwright%402x.jpg"
 publishDate = "2014-09-10T11:03:00-04:00"
 short_description = "Tomorrow night at Royal Albert Hall in London, Rufus Wainwright will have his debut performance as part of the BBC Late Night Proms. Rufus is Canada&#039;s most chatter-worthy addition to the operatic scene (with his upcoming COC commission, Hadrian), and he&#039;ll be joined by soprano Deborah Voigt to sing a couple of arias from his 2009 opera, Prima Donna. "
 slug = "prom-night-for-rufus"

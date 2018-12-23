@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
+companies = ["The Metropolitan Opera"]
 date = "2014-11-11T13:37:00-05:00"
 lastmod = "2015-04-13T23:12:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428981045243/luciano-pavarotti-720x1081.jpg"
 publishDate = "2014-11-11T13:37:00-05:00"
 short_description = "I was in rehearsal for an upcoming concert, and the only thing left to look at was the encore. I always feel like a lame impostor, rehearsing an encore. "
 slug = "encore"

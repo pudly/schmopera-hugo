@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
 date = "2016-05-20T09:43:00+01:00"
 lastmod = "2016-05-20T17:55:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463735830263/2016-05-20---Sex-Workers-Opera-Square.jpg"
 publishDate = "2016-05-20T10:30:00+01:00"
 short_description = "In the context of the show, these stories were dragged from the abstract, and into the specific. Stereotypes like The Average John (always with a mustache), the CEO who likes to be slapped around, and the &quot;moral person&quot; who broadcasts loudly his own preferences in his judgement of which forms of sex work toe the line of &quot;appropriate&quot;, and which are downright lewd and dangerous."
 slug = "in-review-sex-workers-opera"

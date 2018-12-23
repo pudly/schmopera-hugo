@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Royal Opera House"]
 date = "2017-01-26T13:31:00+00:00"
 lastmod = "2017-01-26T17:07:00+00:00"
+people = ["Joyce El-Khoury","Artur Ruciński","Sergey Romanovsky"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485448627035/2017-01-26---La-Traviata-13-01-17-ROH-1119x2-JOYCE-EL-KHOURY-AS-VIOLETTA-VALERY-SERGEY-ROMANOVSKY-AS-ALFREDO-GERMONT-ROH-PHOTO-BY-TRISTRAM-KENTON.jpg"
 publishDate = "2017-01-26T17:00:00+00:00"
 short_description = "The broad-strokes architecture of the opera&#039;s four sets are a clean contrast against the ladies&#039; luxurious dresses, even against the messy humanity of Verdi&#039;s simple, classic tale of love and the opinions of others. Joyce El-Khoury&#039;s Violetta comes with easy charisma, and a strong desire to maintain composure and dignity. El-Khoury matured along with Violetta&#039;s story, yet somehow retained a young voice, full of the best intentions. Her third-act aria, &quot;Addio del passato&quot; was the highlight of the night."
 slug = "in-review-la-traviata-at-roh"

@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
+companies = ["Tapestry Opera"]
 date = "2017-10-20T19:04:00-04:00"
 lastmod = "2017-10-21T21:02:00-04:00"
+people = ["Simone Osborne","Asitha Tennekoon","Erica Iris","Keith Klassen","Alexander Hajek"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508541551043/2017-10-20---Distillery.jpg"
 publishDate = "2017-10-21T20:53:00-04:00"
 short_description = "The first of the two concerts starts at 7pm, featuring operatic and musical theatre offerings from the likes of Simone Osborne, Erica Iris Huang, Asitha Tennekoon, Keith Klassen, and Alexander Hajek. Tickets are $30. At 10pm the Bösendorfer gets a workout, with performances by jazz pianist Robi Botos and concert virtuoso Younggun Kim. Tickets are also $30."
 slug = "putting-a-big-gift-to-great-use-tapestry-operas-disaster-relief-benefit-concert"

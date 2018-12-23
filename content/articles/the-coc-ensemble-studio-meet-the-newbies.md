@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["Canadian Opera Company Ensemble Studio","Canadian Opera Company"]
 date = "2014-09-24T11:46:00-04:00"
 lastmod = "2015-04-27T17:55:00-04:00"
+people = ["Jean-Philippe Fortier-Lazure","Karine Boucher","Iain MacNeil","Andrew Haji","Charlotte Burrage","Clarence Frazer","Jennifer Szeto"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429223484845/resize%3Fkey%3D1e6a1a1efdb011df84894040444cdc60%26url%3Dhttp%253A%252F%252Ffarm3.static.flickr.com%252F2809%252F11122178713_9b192799e2_z.jpg%26width%3D810"
 publishDate = "2014-09-24T11:46:00-04:00"
 short_description = "Yesterday in the Richard Bradshaw Amphitheatre, the Canadian Opera Company&#039;s Ensemble Studio kicked off the new season of the Free Concert Series. This year there are three new singers and one new pianist in the Ensemble. I&#039;ll admit the concert wasn&#039;t my first encounter with the COC young artists; I&#039;ve had the opportunity to see them at work in recent weeks, but I was no less excited to hear them all sing their &quot;introductory&quot; arias."
 slug = "the-coc-ensemble-studio-meet-the-newbies"

@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Oshawa Opera"]
 date = "2015-09-04T14:14:00-04:00"
 lastmod = "2015-09-05T10:26:00-04:00"
+people = ["Natalya Matyusheva","Kristine Dandavino","Christina Campsall","Kira Braun"]
 preamble = "On Sunday, September 27th, [Oshawa Opera](/scene/companies/oshawa-opera/) presents Puccini's one-act, punch-packing tragedy, *Suor Angelica*. This in-concert production features Oshawa Opera's Artistic Director, Kristine Dandavino, at the piano, with a [cast](https://www.facebook.com/events/1635452866673086/) of Canadian talent. I spoke with Kristine, and with Ukrainian-Canadian soprano Natalya Matyusheva, singing the heartbreaking title role. \"We promise to have boxes of tissues in the audience, because, it is almost impossible to watch this opera without crying.\" Oshawa Opera, always considerate. *Suor Angelica* has one performance only; tickets are $25 online or at the door, with free admission for kids. For details, visit the box office links below."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441391035543/NatalyaHeadshotSquare.jpg"
 publishDate = "2015-09-05T10:03:00-04:00"
 short_description = "On Sunday, September 27th, Oshawa Opera presents Puccini&#039;s one-act, punch-packing tragedy, Suor Angelica. This in-concert production features Oshawa Opera&#039;s Artistic Director, Kristine Dandavino, at the piano, with a cast of Canadian talent. I spoke with Kristine, and with Ukrainian-Canadian soprano Natalya Matyusheva, singing the heartbreaking title role. "
 slug = "suor-angelica-at-oshawa-opera"

@@ -1,7 +1,11 @@
 +++
+author = "Loren Lester"
 categories = "Review"
+companies = ["Los Angeles Opera"]
 date = "2018-03-12T22:34:00-04:00"
 lastmod = "2018-03-14T20:01:00-04:00"
+people = ["Liv Redpath","Lisette Oropesa","Maxim Mironov"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520908371117/sq---orph_1358p.jpg"
 publishDate = "2018-03-14T20:01:00-04:00"
 short_description = "Though he has a decades-long, international reputation for his ballets, Mr. Neumeier&#039;s ingenious and beautiful choreography is only part of the story, or rather &quot;his&quot; story. Writers are supposed to write what they know; in this case, Mr. Neumeier directs what he knows. This is the famous opera written by Gluck in 1774, but it&#039;s no longer the travel and travail of a musician."
 slug = "orpheus-eurydice-in-the-hands-of-a-theatrical-genius"

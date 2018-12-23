@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["MYOpera"]
 date = "2015-04-12T23:47:00-04:00"
 lastmod = "2015-04-13T14:21:00-04:00"
+people = ["Kate Applin","Alison Wong","Simone McIntosh","Asitha Tennekoon"]
 preamble = "For an inside look at rehearsals for Béatrice & Bénédict, [click here](/videos/an-inside-look-at-myos-béatrice-bénédict/)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428896627040/blair-small.jpeg%3Fresize%3D1024%252C680"
 publishDate = "2015-04-13T11:47:00-04:00"
 short_description = "As Metro Youth Opera prepares for the opening of Berlioz&#039;s Béatrice &amp; Bénédict, Artistic Director Kate Applin was kind enough to talk about her love of the show: &quot;I feel like I could listen *B&amp;B* every day.&quot;"
 slug = "metro-youth-operas-kate-applin-on-MYOBeaBen"

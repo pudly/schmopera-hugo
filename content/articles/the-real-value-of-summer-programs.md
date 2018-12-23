@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["COSI: Centre for Opera Studies in Italy"]
 date = "2016-11-25T11:34:00+00:00"
 lastmod = "2016-11-25T16:48:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480078918785/2016-11-25---Summer.jpg"
 publishDate = "2016-11-25T16:48:00+00:00"
 short_description = "Your colleagues are not competition. Along with you, the motivated young artist, the singers and pianists that are learning beside you are the ones who, in a handful of years, will become founders of opera companies and concert series; they&#039;ll become assistant conductors and directors, and they may eventually end up in a position to hire someone like you. "
 slug = "the-real-value-of-summer-programs"

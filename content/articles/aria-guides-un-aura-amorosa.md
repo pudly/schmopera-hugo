@@ -1,8 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "How-to"
 date = "2017-08-17T20:41:00-04:00"
 lastmod = "2017-08-22T13:17:00-04:00"
 preamble = "Our latest wave of Aria Guides wouldn't be complete without a nod to tenors. Mozart's *Così fan tutte* - that weird mix of romantic comedy and relationship commentary - is one of the most common picks in the operatic canon; yet for many tenors, Ferrando's first aria, \"Un aura amorosa\", tends to come with a bit of jitters and baggage. It's fairly slow, and sits in an exposed and tricky range of the voice. When it's done well, all the technical feats go largely unnoticed, overshadowed by the beauty of Mozart's writing.\n\nIt may not be the perfect fit for every tenor, but it certainly comes with oodles of learning opportunities. Along with the work you do with teachers, coaches, and in the practice room, we can help you get started on making some tough Mozart sound, well, breezy."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503017729342/2017-08-18---Aura.jpg"
 publishDate = "2017-08-22T13:01:00-04:00"
 short_description = "Mozart&#039;s Così fan tutte - that weird mix of romantic comedy and relationship commentary - is one of the most common picks in the operatic canon; yet for many tenors, Ferrando&#039;s first aria, &quot;Un aura amorosa&quot;, tends to come with a bit of jitters and baggage. It&#039;s fairly slow, and sits in an exposed and tricky range of the voice. When it&#039;s done well, all the technical feats go largely unnoticed, overshadowed by the beauty of Mozart&#039;s writing."
 slug = "aria-guides-un-aura-amorosa"

@@ -1,7 +1,11 @@
 +++
+author = "Oliver Munar"
 categories = "Review"
+companies = ["Calgary Opera"]
 date = "2017-11-19T11:38:00-05:00"
 lastmod = "2017-11-20T14:03:00-05:00"
+people = ["Russell Braun","Peter McGillivray","Christopher Mokrzewski","Aaron Dimoff","Anne-Marie MacIntosh","Andrea Hill"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511192573327/2017-11-20---square---Barber-2.jpg"
 publishDate = "2017-11-20T10:46:00-05:00"
 short_description = "With Barber, Calgary Opera gets the laughs, thanks to a roster of principals at the top of their craft who are well cast for their respective roles. More importantly, it does justice to one of the most beloved works in the operatic repertoire, by casting singers who can handle the vocal acrobatics of Rossini."
 slug = "calgary-opera-delivers-comedy-gold-with-wellcast-barber"

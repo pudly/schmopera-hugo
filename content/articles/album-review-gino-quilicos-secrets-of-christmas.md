@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
 date = "2015-12-06T17:54:00-05:00"
 lastmod = "2015-12-08T10:04:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449450547411/2015-12-05---QuilicoCover.jpg"
 publishDate = "2015-12-08T10:00:00-05:00"
 short_description = "Quilico sings with a lazy ease that sounds fittingly cozy for a Christmas album. His voice is straightforward, clean, but with personality and an air of improvisation. In the more popular, crooning numbers, he made me think of Bing Crosby, Frank Sinatra, and those Lawrence Welk Show Christmas specials. "
 slug = "album-review-gino-quilicos-secrets-of-christmas"

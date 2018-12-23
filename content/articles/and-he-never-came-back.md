@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
 date = "2014-09-23T09:00:00-04:00"
 lastmod = "2015-04-15T17:23:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429132908954/Riccardo_Muti.jpg"
 publishDate = "2014-09-23T09:00:00-04:00"
 short_description = "Conductors are dropping like flies in Europe. Riccardo Muti just resigned as chief conductor from Teatro dell&#039;Opera di Roma. “Despite all my efforts to contribute to your cause,” Muti said, “there are no conditions to ensure the serenity necessary for the success of the production.&quot;"
 slug = "and-he-never-came-back"

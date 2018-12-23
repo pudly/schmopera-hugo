@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
 date = "2014-09-11T09:00:00-04:00"
 lastmod = "2015-04-16T15:16:00-04:00"
+people = ["Dean Burry","Giles Tomkins","Krisztina Szabó","Laura Albino"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429211675022/01_Vocal_05_Burry_Baby_Kintyre.jpg"
 publishDate = "2014-09-11T09:00:00-04:00"
 short_description = "Canadian composer Dean Burry&#039;s opera Baby Kintyre is the coolest thing I&#039;ve heard in a long time. The opera, with the libretto also by Dean, had its first performance in 2009 on six consecutive broadcasts of the CBC&#039;s Saturday Afternoon at the Opera. Baby Kintyre is written  in the style of a radio serial in five episodes, based on the true story of a mummified baby found in the wall of 29 Kintyre (near Queen and Broadview) in Toronto. "
 slug = "in-review-baby-kintyre"

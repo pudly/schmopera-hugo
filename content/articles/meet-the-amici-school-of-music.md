@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Amici School of Music"]
 date = "2015-05-16T22:29:00-04:00"
 lastmod = "2015-05-19T16:31:00-04:00"
+people = ["Leigh-Ann Allen","Michelle Garlough"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431829757332/Michelle-and-Leigh-at-Piano-copy.jpg"
 publishDate = "2015-05-19T15:15:00-04:00"
 short_description = "Toronto-based singers Leigh-Ann Allen and Michelle Garlough are the founders of the Amici School of Music. The school offers private lessons as well as Music Together® classes for kids 0-5 years old (and their parents). When they&#039;re not teaching, Leigh and Michelle are active performers on the opera stage."
 slug = "meet-the-amici-school-of-music"

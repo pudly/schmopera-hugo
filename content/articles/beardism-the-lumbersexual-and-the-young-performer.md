@@ -1,7 +1,10 @@
 +++
+author = "Greg Finney"
 categories = "Op-ed"
 date = "2015-01-13T14:04:00-05:00"
 lastmod = "2015-04-11T23:29:00-04:00"
+people = ["Gregory Finney"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428809173592/GregBeard.jpg"
 publishDate = "2015-01-13T14:04:00-05:00"
 short_description = "This post isn’t so much about singing or opera or theatre in the usual sense. I just wanted to talk about one of the parts of our industry that sort of gets taken for granted by the audience. I make that statement because I’m guilty of it. I also opened with that little bit of a diatribe so that I can hope make a point stronger."
 slug = "beardism-the-lumbersexual-and-the-young-performer"

@@ -1,7 +1,11 @@
 +++
+author = "Erik Flaten"
 categories = "Review"
+companies = ["Opera Philadelphia"]
 date = "2017-09-17T18:25:00-04:00"
 lastmod = "2017-09-17T19:31:00-04:00"
+people = ["Lauren Whitehead","Kirstin Chávez","John Holiday","Daniel Shirley","Adam Richardson","Aubrey Allicock"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505690234376/2017-09-17---square---04wsnbm_dm.jpg"
 publishDate = "2017-09-17T19:31:00-04:00"
 short_description = "We Shall Not Be Moved asks hard questions about race, gender, flaws in our education system, and more. This work brings up parts of history that many would have us sweep under the rug. Great art has the ability to teach us the difficult lessons our education has deliberately excluded. After the performance was over, Bill T. Jones said that he wanted this opera to start a conversation."
 slug = "conversations-we-shall-not-be-moved"

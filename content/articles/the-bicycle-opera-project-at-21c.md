@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["The Bicycle Opera Project","Royal Conservatory of Music"]
 date = "2015-05-22T09:41:00-04:00"
 lastmod = "2015-05-22T10:44:00-04:00"
+people = ["Larissa Koniuk","Chris Thornborrow","Dean Burry","Liza Balkan"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432305050894/IMG_20150522_102801.jpg"
 publishDate = "2015-05-22T10:36:00-04:00"
 short_description = "Last night, as part of the Royal Conservatory of Music&#039;s ongoing contemporary music festival, 21C, the Bicycle Opera Project presented a teaser of their upcoming season. The BOP team will first take up an artist residency in Baddeck, Nova Scotia, to premiere Dean Burry&#039;s new opera, The Bells of Baddeck. "
 slug = "the-bicycle-opera-project-at-21c"

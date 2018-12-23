@@ -1,7 +1,11 @@
 +++
+author = "Tracy Monaghan"
 categories = "Review"
+companies = ["Nashville Opera"]
 date = "2017-04-09T11:16:00+01:00"
 lastmod = "2017-04-09T11:47:00+01:00"
+people = ["Jeffrey Williams","Zachary Devin","Ginger Costa-Jackson","Noah Stewart","Melisa Bonetti","Laura Wilde","Courtney Ruckman","Edward Parks"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491733209080/2017-04-09---Square-Nashville-Carmen.jpg"
 publishDate = "2017-04-09T11:40:00+01:00"
 short_description = "The story is all too familiar: girl meets boy, girl loves boy, when girl changes her mind...boy goes bananas. Carmen is a complicated role that requires both vocal dexterity and superior interpretive choices. Fortunately for us, Nashville Opera&#039;s Carmen, Ginger Costa-Jackson, goes above and beyond those requirements. Ms. Costa-Jackson, a native of Italy who has made a name for herself singing the titular role, was enchanting as Carmen."
 slug = "in-review-carmen-at-nashville-opera"

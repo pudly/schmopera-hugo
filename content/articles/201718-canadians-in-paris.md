@@ -1,7 +1,11 @@
 +++
+author = "Olivier Bergeron"
 categories = "News"
+companies = ["Opéra National de Paris"]
 date = "2017-01-26T15:54:00+00:00"
 lastmod = "2017-01-27T11:48:00+00:00"
+people = ["Julie Boulianne","Philippe Sly","Etienne Dupuis","Frédéric Antoun","Karina Gauvin","Barbara Hannigan","Marie-Nicole Lemieux","Sondra Radvanovsky","John Relyea"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485451905517/2017-01-27---Canadians-Paris.jpg"
 publishDate = "2017-01-27T10:50:00+00:00"
 short_description = "Paris accueille les chanteurs canadiens à bras ouverts. Comme on peut en témoigner depuis le début de la saison 2016-2017, le public parisien semble beaucoup apprécier les talents de chez nous. C&#039;est au Théâtre des Champs-Élysées que Julie Boulianne a chanté, en décembre dernier, sa première Donna Elvira dans Don Giovanni. Étienne Dupuis terminait, il y a quelques semaines, une série de représentations d&#039;Iphigénie en Tauride à l&#039;Opéra Garnier et Karina Gauvin triomphait cette semaine, aux côtés de Marie-Nicole Lemieux, dans la Rodelinda de Handel."
 slug = "201718-canadians-in-paris"

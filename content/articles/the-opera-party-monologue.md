@@ -1,8 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Humour"
 date = "2015-05-27T23:20:00-03:00"
 lastmod = "2017-08-05T21:33:00-03:00"
 preamble = "Sometimes, opera really is glamourous. Young artists in the opera scene often get access to pretty great parties, with fascinating people scattered throughout. The parties celebrate opening and closing nights, and they're often ackowledging the philanthropy of the many generous donors that help make opera happen. There's wine and tasty munchies, and much mingling to do. I often joke that I've played party piano at events where the plates of *hors d'oeuvres* cost more than me.\n\nYoung artists aren't known for being well-off, and although they're always welcome guests, they're rarely in the same tax bracket as the philanthropists and higher-ups in the opera industry. Feeling out of one's league is common at parties with opera bosses, donors, and human opera encyclopedias. So, why go, you ask? If you're in a young artist programme, you're there because people want to meet you, and you can be charming on behalf of the opera company. Also, it never hurts to be at the same parties as the decision-makers.\n\nIn the hopes that I'm not the only one who experiences this, let me take you through the inner monologue of a socially awkward introvert, mingling with intimidating strangers."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501979572848/2017-08-05---Party.jpg"
 publishDate = "2015-05-28T14:36:00-03:00"
 short_description = "Young artists aren&#039;t known for being well-off, and although they&#039;re always welcome guests, they&#039;re rarely in the same tax bracket as the philanthropists and higher-ups in the opera industry. Feeling out of one&#039;s league is common at parties with opera bosses, donors, and human opera encyclopedias. So, why go, you ask?"
 slug = "the-opera-party-monologue"

@@ -1,7 +1,9 @@
 +++
+author = "Michael Pecak"
 categories = "Review"
 date = "2017-11-08T09:31:00-05:00"
 lastmod = "2017-11-08T09:53:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510151745442/2017-11-08---square---PaSO-Hanted-Manor---Return-of-Hunters.jpg"
 publishDate = "2017-11-08T09:53:00-05:00"
 short_description = "I must confess a certain bias on my part for this opera. As both a Chicagoan and fellow Pole, this opera has had a special place in my heart since my childhood. I grew up with its melodies and rhythms and came to appreciate its historical significance in Polish Saturday School. Naturally, I was thrilled to learn of a Chicago production."
 slug = "overdue-for-a-chicago-performance-the-haunted-manor"

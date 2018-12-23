@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Vancouver Opera"]
 date = "2017-04-20T20:17:00-04:00"
 lastmod = "2017-05-01T08:25:00-04:00"
+people = ["Caitlin Wood"]
 preamble = "Versatile and unforgettable, Canadian soprano [Caitlin Wood](/scene/people/caitlin-wood/) is currently onstage as Susanna in the [Vancouver Opera Festival](/scene/companies/vancouver-opera/)'s production of [*The Marriage of Figaro*](https://www.vancouveropera.ca/the-Marriage-of-Figaro), running at the Vancouver Playhouse until **May 18**. A favourite on Canada's west coast, you might have heard her as Johanna in *Sweeney Todd*, or as Frasquita in *Carmen*, both at Vancouver Opera; she also sang a sassy Despina in [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/)'s productions of [*A Little Too Cozy*](https://www.vancouveropera.ca/the-Marriage-of-Figaro) in Banff and Toronto.\n\nWe spoke with Wood about the kind of singing that makes her feel \"free\", and the value of being a sponge for all things artistic."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492734099953/2017-04-20---Caitlin-Wood.jpg"
 publishDate = "2017-05-01T08:25:00-04:00"
 short_description = "&quot;Being a good colleague will get you much further and faster than being just a &#039;good singer&#039;. People want to work with talented singers but they also want to make the experience as pleasant as possible. Be on time, know your music, be respectful in rehearsals, and be generous with your colleagues.&quot;"
 slug = "spotlight-on-caitlin-wood"

@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
+companies = ["Canadian Opera Company","Tapestry Opera","Canadian Children's Opera Company"]
 date = "2016-04-26T12:33:00+01:00"
 lastmod = "2016-04-26T14:48:00+01:00"
+people = ["Dean Burry","James Rolfe"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461676804185/2016-04-26---TFCO---Logo-resized.jpg"
 publishDate = "2016-04-26T14:21:00+01:00"
 short_description = "&quot;For me, the most exciting thing about the Toronto Festival of Children’s Opera is that it shines a bright light on both the incredible work that is being done in Toronto and the incredible people who are doing it,&quot; says Burry. &quot;A lot of people think that works for children aren’t as valid or important as &#039;adult&#039; opera. This couldn’t be further from the truth, and great children’s opera really has something to offer everyone.&quot;"
 slug = "the-tfco-a-young-peoples-opera-blitz"

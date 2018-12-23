@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
 date = "2017-01-29T19:38:00+00:00"
 lastmod = "2017-01-30T13:22:00+00:00"
+people = ["Tim Mead","James Baillieu"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485778609267/2017-01-30---MeadBaillieu.jpg"
 publishDate = "2017-01-30T13:07:00+00:00"
 short_description = "Mead&#039;s sound is truly impeccable. When he sings, it&#039;s as if he&#039;s insistently speaking, listening to the impact of his words. He listened, too, to Baillieu at the piano. Baillieu, with his warm sound and enpathetic ear, is one of our favourite pianists these days. Baillieu has a knack for creating a soloistic phrase out of a singer&#039;s intent; he follows, without losing his autonomy."
 slug = "in-review-tim-mead-james-baillieu-in-recital"

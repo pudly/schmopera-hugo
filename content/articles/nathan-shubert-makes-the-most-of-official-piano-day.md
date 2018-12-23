@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
 date = "2016-03-29T16:14:00+01:00"
 lastmod = "2016-03-29T16:18:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459264318342/2016-03-29---nathan-shubert_saga-noren.jpg"
 publishDate = "2016-03-29T16:18:00+01:00"
 short_description = "Nathan Shubert, Vancouver-based pianist, session artist, and composer, is one of these artists. He has released his debut solo album, which includes &quot;Saga Norén, Länskrim, Malmö&quot;, named after the protagonist of the Swedish/Danish television show, Bron (The Bridge). It&#039;s mesmerizing and more than a little bit beautiful - have a listen, and be sure to check out more from Shubert on Soundcloud."
 slug = "nathan-shubert-makes-the-most-of-official-piano-day"

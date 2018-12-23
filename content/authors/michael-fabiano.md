@@ -2,11 +2,11 @@
 date = "2016-08-12T10:05:00+01:00"
 facebook = "https://www.facebook.com/Michael-Fabiano-309732654941/"
 lastmod = "2016-08-12T10:19:00+01:00"
-name = "Michael Fabiano"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470993381877/2016-08-07---MichaelFabiano_Arielle-Doneson.jpg"
 publishDate = "2016-08-12T10:05:00+01:00"
 short_bio = "Mr. Fabiano has performed at many of the world’s leading opera houses; a list that includes: the Metropolitan Opera, San Francisco Opera, Teatro Real, Opéra National de Paris, Dutch National Opera, La Scala, Asociacíon Bilbaina de Amigos de la Ópera, Dresden Semperoper, Deutsche Oper Berlin, English National Opera, and the Teatro San Carlo. In addition, he has graced concert stages with some of the world’s most acclaimed orchestras such as the Cleveland Orchestra, San Francisco Symphony, Los Angeles Philharmonic, Philadelphia Orchestra, Oslo Philharmonic, and the Vienna Symphony.\n\nPhoto: Arielle Doneson."
 slug = "michael-fabiano"
+title = "Michael Fabiano"
 twitter = "https://twitter.com/MichaelFabiano"
 website = "http://michaelfabianotenor.com/"
 +++

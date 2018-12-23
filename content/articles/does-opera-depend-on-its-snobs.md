@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
 date = "2014-08-26T14:43:00-04:00"
 lastmod = "2015-04-16T17:18:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429219041778/w-champagne-flute-bubbles-118894.jpg"
 publishDate = "2014-08-26T14:43:00-04:00"
 short_description = "On that old topic of opera&#039;s social relevance, I came across an article by Robert Thicknesse of The Guardian, entitled &quot;How I fell out of love with opera&quot;. The long-time arts critic argues that the social snobbery that clouds opera will never be shed, since those social snobs are the ones funding it all to begin with. &quot;"
 slug = "does-opera-depend-on-its-snobs"

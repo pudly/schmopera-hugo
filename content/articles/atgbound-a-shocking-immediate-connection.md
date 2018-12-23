@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Against the Grain Theatre","Canadian Opera Company"]
 date = "2017-12-07T22:36:00-05:00"
 lastmod = "2017-12-08T11:10:00-05:00"
+people = ["Joel Ivany","Christopher Mokrzewski","Miriam Khalil","Justin Welsh","David Trudgen"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512703844661/2017-12-08---sq---BOUND_MEDIA_012.jpg"
 publishDate = "2017-12-07T22:46:00-05:00"
 short_description = "A certain type of demographic goes to the opera, and perhaps there&#039;s only a small amount of overlap between that demographic and those who may understand more clearly what it feels like to be detained, mistreated, or bound by others&#039; rules."
 slug = "atgbound-a-shocking-immediate-connection"

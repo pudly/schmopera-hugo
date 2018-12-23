@@ -1,7 +1,9 @@
 +++
+author = "Michael Heitmann"
 categories = "Op-ed"
 date = "2018-09-27T21:22:00-04:00"
 lastmod = "2018-10-01T09:12:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538099550779/netflix.jpg"
 publishDate = "2018-10-01T09:12:00-04:00"
 short_description = "What if there was a more direct way to accomplish this goal? What would that look like? To all the opera companies, self-producers, recitalists, and alike, let me offer the following suggestions."
 slug = "opera-in-the-age-of-netflix"

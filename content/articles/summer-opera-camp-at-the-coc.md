@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Canadian Opera Company"]
 date = "2015-06-17T21:17:00-04:00"
 lastmod = "2015-06-18T08:18:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434590047223/Camps-e-flyer-Intermediate-and-Senior.jpg"
 publishDate = "2015-06-18T08:18:00-04:00"
 short_description = "Katherine Semcesen is the Associate Director of Education &amp; Outreach at the Canadian Opera Company. The countdown is on for this year&#039;s Summer Opera Camp, which offers training and experience designed for teenagers, grades 7-10. Participants work with voice teachers, drama coaches, set and costume designers, and fight choreographers over an intensive five-day program."
 slug = "summer-opera-camp-at-the-coc"

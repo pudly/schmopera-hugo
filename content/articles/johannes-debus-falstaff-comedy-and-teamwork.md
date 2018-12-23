@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Canadian Opera Company"]
 date = "2015-04-12T19:38:00-04:00"
 lastmod = "2015-04-13T22:04:00-04:00"
+people = ["Johannes Debus"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428881800337/Screen-Shot-2014-10-23-at-10.08.06-AM.png"
 publishDate = "2014-10-23T09:38:00-04:00"
 short_description = "I caught up with Johannes Debus, Music Director of the Canadian Opera Company, between performances of the current (and spectacular!) production of Verdi’s Falstaff. He was kind enough to talk about what it’s like to conduct a piece like Falstaff, and how teamwork can amount to fantastic comedy. Maestro Debus even gives us a taste of fun things to come in the COC’s 2014/15,like the famed Robert LePage double-bill of Schoenberg’s Erwartung and Bartók’s Bluebeard’s Castle in May."
 slug = "johannes-debus-falstaff-comedy-and-teamwork"

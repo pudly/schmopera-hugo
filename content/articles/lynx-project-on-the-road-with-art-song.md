@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
+companies = ["Lynx Project"]
 date = "2015-10-15T11:03:00-04:00"
 lastmod = "2015-10-17T13:03:00-04:00"
+people = ["Caitleen Kahn","Megan Moore","Steven Humes","Florence Mak"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445033085679/SChubertiade.jpg"
 publishDate = "2015-10-17T09:00:00-04:00"
 short_description = "The members of Lynx Project point out a thought that has lingered vaguely in my head since my university years: art song is rare to hear outside of an academic setting. Founded by three singers and one pianist, all graduates of the Eastman School of Music, Lynx Project is about bringing more art song to more people. It&#039;s a simple goal, and they plan to give &quot;intimate and inclusive performances [which] challenge the traditional form of an art song recital.&quot;"
 slug = "lynx-project-on-the-road-with-art-song"

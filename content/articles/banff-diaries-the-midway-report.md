@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["Against the Grain Theatre","Canadian Opera Company","The Banff Centre"]
 date = "2016-06-26T23:40:00-06:00"
 lastmod = "2016-07-06T16:10:00-06:00"
+people = ["Joel Ivany","Christopher Mokrzewski","Alexander Neef","Judith Forst","Ben Heppner","Owen McCausland","Iain MacNeil","Chelsea Rus","Emma Char","Vanessa Oude-Reimerink","Ellen McAteer","Anna Theodosakis","Paul Curran","Beste Kalender","Peter Rolfe Dauz"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467161085124/2016-06-28--Banff-Bridge.jpg"
 publishDate = "2016-06-29T17:20:00-06:00"
 short_description = "Among the facts of the program are the moments of inspiration and joy that come out of opera, and working on opera in beautiful Banff. Each person at Open Space has had the chance to look at a stunning mountain vista, or stellar sunset, and say to the person next to them, &quot;wow.&quot; There have been heroic tales of hiking mountains, of bear sightings, of conquering the horror that is 80% oxygen levels while being asked to sing."
 slug = "banff-diaries-the-midway-report"

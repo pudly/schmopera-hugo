@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
 date = "2014-10-14T09:54:00-04:00"
 lastmod = "2015-04-25T22:21:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430014883109/Piano-Technology.jpg"
 publishDate = "2014-10-14T09:54:00-04:00"
 short_description = "I remember working with a class of first year voice students a few years ago; I saw them all individually (totally a bad idea, switched to masterclass format the next year), and I got the sense that for a majority of these students, they were working with a vocal coach for the first time. One particularly outspoken singer asked an unexpected question during our first coaching session together: &quot;But, you&#039;re a pianist. Why are you telling me what to do?&quot;"
 slug = "on-pianists-those-vicarious-opera-singers"

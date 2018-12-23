@@ -1,7 +1,11 @@
 +++
+author = "Greg Finney"
 categories = "News"
+companies = ["Tapestry Opera","Indie Opera T.O.","Confidential Opera Project"]
 date = "2016-04-09T11:45:00+01:00"
 lastmod = "2016-04-09T11:59:00+01:00"
+people = ["Gregory Finney"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460199122598/2016-04-09---COP.jpg"
 publishDate = "2016-04-09T11:59:00+01:00"
 short_description = "My goal with applying it to opera is to help de-mystify the whole thing. I want the audience to experience the magic that you&#039;re only privy to on the first sing-through of a score - I know my fellow singers will agree that the first sing-through is probably one of the most fun rehearsals for a show. There will be mis-steps, but there are also moments of supreme beauty and magic that come from the adrenaline that pumps through these talented artists&#039; veins."
 slug = "be-in-on-the-secret-confidential-opera-project"

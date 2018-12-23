@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["English National Opera"]
 date = "2016-06-10T12:03:00+01:00"
 lastmod = "2016-06-11T12:54:00+01:00"
+people = ["Craig Colclough","Matthew Rose"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465561988072/2016-06-10---ENO-Tristan-and-Isolde-Heid-Melton-and-Stuart-Skelton-9-Catherine-Ashmore---square.jpg"
 publishDate = "2016-06-11T12:02:00+01:00"
 short_description = "Tristan&#039;s ship was full of looming angles and barriers, allowing for beautiful symmetry of the two would-be lovers and their respective servants. Act II seemed an otherworldly spot for Tristan and Isolde&#039;s nocturnal tryst; it looked like its own planet, or perhaps the very center of the earth, in either case clearly underlining the singular, primordial ur-love that this couple embodies. Act III was bleak, harsh white against thick black, evolving only to blood red and a charred vista of  dead rock, where Isolde and Tristan reunite in life for the last time."
 slug = "in-review-tristan-and-isolde-at-eno"

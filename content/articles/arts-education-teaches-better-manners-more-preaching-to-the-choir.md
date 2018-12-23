@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
 date = "2017-05-18T16:42:00-04:00"
 lastmod = "2017-05-18T22:13:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495141880850/2017-05-18---Yes.jpg"
 publishDate = "2017-05-18T22:08:00-04:00"
 short_description = "What I&#039;m saying is that confirmation bias is an issue, particularly in a corner of the internet like Schmopera. The people who don&#039;t know they&#039;re being rude with their phones likely aren&#039;t reading this. The people who think arts education is a waste of money certainly aren&#039;t seeking out opera-centric blogs. That asshole at the concert today will never read this and feel shame."
 slug = "arts-education-teaches-better-manners-more-preaching-to-the-choir"

@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
+companies = ["The Bicycle Opera Project","Against the Grain Theatre","Tapestry Opera","Indie Opera T.O."]
 date = "2016-01-18T11:46:00-05:00"
 lastmod = "2016-01-28T20:25:00-05:00"
+people = ["Krisztina Szabó"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454030634731/DeathtoStock_London9Resized.jpg"
 publishDate = "2016-01-29T09:00:00-05:00"
 short_description = "A question often lingers: would I love all of this stuff as much if you didn&#039;t already know half of the creative team? In an interesting experiment in journalistic bias, London is a place where there&#039;s no shortage of excellent music and theatre, yet in comparison to writing about Toronto, I&#039;ll have little personal connection to the artists onstage. Basically, the art that London has to offer will speak for itself, at least to me."
 slug = "shes-leaving-home"

@@ -1,7 +1,9 @@
 +++
+author = "John Hohmann"
 categories = "Review"
 date = "2018-02-09T16:28:00-05:00"
 lastmod = "2018-02-09T17:14:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518211122575/sq---Set_Poe_YoungR%26AdultM.jpg"
 publishDate = "2018-02-09T17:14:00-05:00"
 short_description = "Mr. Hourie directed with a terse and foreboding air that dispelled any memories of the films. The sleek and minimal set, comprised of skeletal architectural elements and lace curtains facilitated the action. As scenographer Hourie filled picture frames suggesting decaying ancestral portraits with video of flames, ghosts and all manner of frightening imagery."
 slug = "a-warhorse-for-operas-new-world"

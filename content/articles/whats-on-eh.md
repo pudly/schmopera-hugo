@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["Tapestry Opera","Against the Grain Theatre","Saskatoon Opera","Cowtown Opera Company","Calgary Opera"]
 date = "2014-05-08T16:04:00-04:00"
 lastmod = "2015-04-27T18:05:00-04:00"
+people = ["Joni Henson","Ambur Braid","Gordon Bintner","Christopher Enns","Christopher Mokrzewski","Quinn Kelsey","Anita Rachvelishvili","Keith Klassen","Andrea Ludwig","Miriam Khalil","Etienne Dupuis","Alain Coulombe","Gregory Dahl","Joel Ivany"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429834831388/Backstage.jpg"
 publishDate = "2014-05-08T16:04:00-04:00"
 short_description = "This spring, opera-going Canadians are in luck: across the country, opera is a-happening.\n\nStarting in the West, you can still catch Verdi&#039;s Don Carlo at Vancouver Opera, playing until May 11th. The cast includes Canadian faves like Joni Henson and Brett Polegato, and they&#039;re doing it in Italian. Nice."
 slug = "whats-on-eh"

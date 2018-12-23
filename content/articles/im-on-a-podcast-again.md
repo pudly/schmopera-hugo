@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["Canadian Opera Company"]
 date = "2014-05-03T11:11:00-04:00"
 lastmod = "2015-04-23T20:55:00-04:00"
+people = ["Cameron McPhail","Alia Rosenstock"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429836898011/4eq-DQo5w6PJfK_hc-sMrJfEf3dmDiSC_w5X6Kfh_JU0g1sEAnm1U2HSmsWcX_g1Z2OtVMuGU2vFKSPxObmlGoNifB-C%3Dw680-h680-c"
 publishDate = "2014-05-03T11:11:00-04:00"
 short_description = "That&#039;s right, they asked me back. This time I joined host Gianmarco Segato with COC Ensemble member Cameron McPhail and artist manager Alia Rosenstock (Dean Artists Management). We talked about the San Diego Opera kerfuffle, about the Metropolitan Opera Chorus, and what the arts are worth. It gets juicy, let me tell you. Have a listen!"
 slug = "im-on-a-podcast-again"

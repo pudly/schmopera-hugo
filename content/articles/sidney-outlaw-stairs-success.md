@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["The Metropolitan Opera"]
 date = "2016-09-24T14:59:00+01:00"
 lastmod = "2016-09-27T13:09:00+01:00"
+people = ["Sidney Outlaw"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474725623578/2016-09-22---Sidney-Outlaw.jpg"
 publishDate = "2016-09-27T12:53:00+01:00"
 short_description = "&quot;I try my best to lead by example,&quot; he says. Outlaw sees his singing as an opportunity for putting something positive in the world, &quot;to perform and sing and be a blessing in people&#039;s lives, so if they have that kind of hate in their heart, when I&#039;m done with them, they don&#039;t any more.&quot;"
 slug = "sidney-outlaw-stairs-success"

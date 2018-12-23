@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Canadian Opera Company"]
 date = "2015-05-06T17:07:00-04:00"
 lastmod = "2015-06-03T16:57:00-04:00"
+people = ["Krisztina Szabó","Johannes Debus","John Relyea","Ekaterina Gubanova","Robert Lepage"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430946263145/Erwartung-MC-0760Square.jpg"
 publishDate = "2015-05-09T09:29:00-04:00"
 short_description = "Last night I was able to check off one of my must-sees. For a while I felt like the only opera fan in Toronto who hadn&#039;t seen Robert Lepage&#039;s double bill of Bluebeard&#039;s Castle/Erwartung, but I fixed that. The production couldn&#039;t have brought more hype along with it, and I usually try and ignore hype so that it doesn&#039;t skew my otherwise fine enjoyment of a production. The rumours turned out to be true, and I was amazed."
 slug = "in-review-bluebeards-castle-erwartung"

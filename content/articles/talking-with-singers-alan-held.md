@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Canadian Opera Company","The Metropolitan Opera","Bayerische Staatsoper","l'Opéra de Montréal","Teatro alla Scala","Lyric Opera of Chicago"]
 date = "2016-01-17T20:42:00-05:00"
 lastmod = "2016-01-18T10:51:00-05:00"
+people = ["Alan Held"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453081265867/2016-01-17---Alan-Held.jpg"
 publishDate = "2016-01-18T08:00:00-05:00"
 short_description = "Currently, bass-baritone Alan Held is in Toronto, a common stop for him in recent seasons, to sing the Wanderer in the Canadian Opera Company&#039;s production of Siegfried, opening January 23rd. He chats about being patient with big roles, building stamina, and Wagner as bel canto."
 slug = "talking-with-singers-alan-held"

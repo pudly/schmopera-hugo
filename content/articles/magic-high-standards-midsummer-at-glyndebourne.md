@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Glyndebourne"]
 date = "2016-08-03T09:17:00+01:00"
 lastmod = "2016-08-04T13:06:00+01:00"
+people = ["Elizabeth DeShong","Matthew Rose"]
 preamble = "Next week, the Glyndebourne Festival opens its 8-show run of Peter Hall's 1981 production of Britten's [*A Midsummer Night's Dream*](http://www.glyndebourne.com/tickets-and-whats-on/events/2016/f16dream/), revived for the first time in 10 years. We have plenty of love for Britten's operas, and we can't wait for our trip to Lewes to catch *Dream*, one of our favourites.\n\nSo, it was a pleasure to chat with two members of the cast: mezzo-soprano [Elizabeth DeShong](/scene/people/elizabeth-deshong/), singing the role of Hermia, and bass [Matthew Rose](/scene/people/matthew-rose/), who will don the infamous donkey costume as Bottom. The two singers offer up insight on the \"magic\" of Hall's *Dream*, the trick to singing beautifully in English, and their definitions of off-stage fun in the countryside."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470212913351/2016-08-03---Midsummer.jpg"
 publishDate = "2016-08-04T12:59:00+01:00"
 short_description = "&quot;Peter Hall&#039;s Midsummer is the first &#039;traditional&#039; production of this opera that I have been a part of. It is specific without being rigid, magical without being obvious, and true to the story and setting. It is important to not shy away from the harshness within Midsummer, and to acknowledge the individual journeys of each of the characters, joyful and pitiful, alike.&quot;"
 slug = "magic-high-standards-midsummer-at-glyndebourne"

@@ -1,8 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Humour"
 date = "2015-12-22T16:50:00-05:00"
 lastmod = "2015-12-23T10:06:00-05:00"
 preamble = "Note: this post may not be safe for work."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450829652521/2015-12-23---RomeoJuliette.jpg"
 publishDate = "2015-12-23T10:00:00-05:00"
 short_description = "When I was in my first year of my undergrad degree, I lived in a dorm, on a floor full of music students. I remember one day, when a floormate burst into our room, saying she&#039;d just heard &quot;the cutest pick-up line ever for musicians&quot;. I prepared myself for a nerdtastic joke, and was rewarded when she quoted, &quot;I&#039;m a fermata, hold me!&quot;"
 slug = "have-you-heard-opera-is-dirty-business"

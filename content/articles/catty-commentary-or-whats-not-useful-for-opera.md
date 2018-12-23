@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
+companies = ["Cardiff Singer of the World Competition"]
 date = "2015-06-22T09:51:00-06:00"
 lastmod = "2015-06-23T08:22:00-06:00"
+people = ["Aviva Fortunata"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435023936275/Regina.jpg"
 publishDate = "2015-06-23T08:05:00-06:00"
 short_description = "The Cardiff broadcast looks a bit like a mix between mainstream talent shows (So-and-So-Country&#039;s Got Talent, etc.) and TSN; I&#039;m not opposed to the preamble, introducing the singers with an interview and building hype with all the backstage footage. What I didn&#039;t like was the commentary. I was appalled to hear what was being said about these young singers; perhaps the idea was to provide context and insider information for listeners, but I think it was just mean."
 slug = "catty-commentary-or-whats-not-useful-for-opera"

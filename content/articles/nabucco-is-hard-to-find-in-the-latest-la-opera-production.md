@@ -1,7 +1,11 @@
 +++
+author = "Loren Lester"
 categories = "Review"
+companies = ["Los Angeles Opera"]
 date = "2017-10-15T19:07:00-04:00"
 lastmod = "2017-10-15T22:55:00-04:00"
+people = ["Plácido Domingo","Morris Robinson","Liudmyla Monastyrska","Mario Chang"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508110142322/2017-10-16---square---nab_3005pr.jpg"
 publishDate = "2017-10-15T21:07:00-04:00"
 short_description = "Yes, there was a Verdi opera somewhere in those three and a half hours - and we got to see brilliant flashes at times of what the show should and could have been - but mostly we had to wade through a lot of concept and conceit to get there. It wasn&#039;t until Act IV (the final act) that our wishes came true: singing, acting and staging that actually touched the audience, and touched us deeply."
 slug = "nabucco-is-hard-to-find-in-the-latest-la-opera-production"

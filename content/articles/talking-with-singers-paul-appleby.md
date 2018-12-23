@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Glyndebourne","The Metropolitan Opera"]
 date = "2016-05-26T20:46:00+01:00"
 lastmod = "2016-05-27T10:53:00+01:00"
+people = ["Paul Appleby"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464295746355/2016-05-26---Paul-Appleby.jpg"
 publishDate = "2016-05-26T21:03:00+01:00"
 short_description = "American tenor Paul Appleby recently finished a run of Belmonte in The Metropolitan Opera&#039;s production of Die Entführung aus dem Serail, and he heads next to the Glyndebourne Festival, to sing the title role in Berlioz&#039;s Béatrice et Bénédict. Paul is one of those thoughtful, curious artists who craves the stage as a recitalist as well as in operatic roles."
 slug = "talking-with-singers-paul-appleby"

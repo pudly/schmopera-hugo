@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
+companies = ["Wiener Staatsoper","The Metropolitan Opera"]
 date = "2016-04-20T11:18:00+01:00"
 lastmod = "2016-04-20T11:53:00+01:00"
+people = ["Jonas Kaufmann"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461147983883/2016-04-20---Backstage.jpg"
 publishDate = "2016-04-20T11:45:00+01:00"
 short_description = "In interesting timing, Gheorghiu recently announced that she would be cancelling her recital at London&#039;s Royal Festival Hall, which was scheduled for April 25th. Apparently, the soprano is ill, and her doctor has prescribed her some vocal rest. The concert hasn&#039;t yet been rescheduled, but hopefully that will change."
 slug = "ah-non-abbiamo-il-soprano"

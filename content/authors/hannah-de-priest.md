@@ -2,11 +2,11 @@
 date = "2017-09-05T13:06:00-04:00"
 facebook = "https://www.facebook.com/nannerdepriest/"
 lastmod = "2017-09-05T13:06:00-04:00"
-name = "Hannah De Priest"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504631193388/HannahDePriest__J7A0635-1_HR.jpg"
 publishDate = "2017-09-05T13:06:00-04:00"
 short_bio = "Hannah De Priest is a writer and emerging soprano currently based in Chicago. A die-hard opera fan, she is especially drawn to the opulence and eccentricity of baroque opera."
 slug = "hannah-de-priest"
+title = "Hannah De Priest"
 website = "http://www.hannahdepriest.com/"
 +++
 

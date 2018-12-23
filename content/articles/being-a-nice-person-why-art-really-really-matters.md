@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
 date = "2016-06-15T22:51:00-06:00"
 lastmod = "2016-06-22T11:15:00-06:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466561457461/2016-06-22---Art-Matters.jpg"
 publishDate = "2016-06-22T01:11:00-06:00"
 short_description = "Ignorance like this is the real reason why art matters. Fixing this kind of problem is a more important and more universal benefit of the arts, moreso than honing your fine motor skills or learning a foreign language. Without the arts, people are left with an alarmingly low chance of understanding the world which they share with others."
 slug = "being-a-nice-person-why-art-really-really-matters"

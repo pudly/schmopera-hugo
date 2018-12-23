@@ -1,8 +1,10 @@
 +++
+author = "Vanessa Chumbley"
 categories = "Op-ed"
 date = "2016-10-28T14:45:00+01:00"
 lastmod = "2016-10-28T17:21:00+01:00"
 preamble = "This is a crosspost by guest contributor Vanessa Chumbley, originally published on [BayArt.org.](https://bayart.org/2016/09/07/why-our-artistic-roots-matter/) To submit writing to Schmopera.com, get in touch at [contribute@schmopera.com.](mailto:contribute@schmopera.com)"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477662483669/2016-10-28---Garden.jpg"
 publishDate = "2016-10-28T14:52:00+01:00"
 short_description = "It&#039;s no secret that many professionals in the arts struggle to make ends meet. There is little to no job security, financial stability, or benefits that people in other fields often take for granted. Artistic professionals are often self employed or freelancers. It is an unfortunate reality of our field that artists are sometimes asked to provide their services for free, in exchange for &quot;great exposure&quot;. What a steaming pile of horse shit."
 slug = "why-our-artistic-roots-matter"

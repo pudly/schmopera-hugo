@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
 date = "2013-12-23T13:15:00-05:00"
 lastmod = "2015-04-28T23:33:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430278286813/Female-Conductor-Hair1.jpg"
 publishDate = "2013-12-23T13:15:00-05:00"
 short_description = "Ah, classical music. Old-fashioned to the bone. It&#039;s almost charming, except we still need to write articles about the plight of the female conductor and the female composer. Young Russian conductor Vasily Petrenko basically said that the male players in the orchestra wouldn&#039;t be able to control themselves if they had to look up at the podium and see a pretty lady there."
 slug = "a-sweet-girl-on-the-podium-can-make-ones-thoughts-drift-toward-something-else"

@@ -1,7 +1,9 @@
 +++
+author = "Meghan Klinkenborg"
 categories = "Review"
 date = "2018-04-23T20:08:00-04:00"
 lastmod = "2018-04-23T20:08:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524528371875/TGradyPhoto_Opera_Omaha_Medea_2018-05601.jpg"
 publishDate = "2018-04-23T20:08:00-04:00"
 short_description = "Cherubini&#039;s music suggests that Medea is going out in a blaze of remorseless glory, but nothing manifested in the staging to support this. I wanted to either hate Medea or cheer her on, but I was left feeling indifferent and unsatisfied."
 slug = "distractions-indifference-opera-omahas-medea"

@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "How-to"
 date = "2015-09-25T10:24:00-04:00"
 lastmod = "2017-11-11T14:20:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510428033601/2017-11-11---rolled-R.jpg"
 publishDate = "2015-09-29T08:00:00-04:00"
 short_description = "What I&#039;ve found is that rolled Rs in a singer&#039;s text can act as a sort of litmus test for where that singer is maintaining their resonance. As a coach, if I ask for more consonants in an Italian aria, and a rolled R seems difficult to project, the problem usually lies in the preceding vowel."
 slug = "quick-tips-the-rolled-r-test"

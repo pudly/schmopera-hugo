@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Canadian Opera Company Ensemble Studio"]
 date = "2015-01-23T11:39:00-05:00"
 lastmod = "2015-04-11T22:44:00-04:00"
+people = ["Andrew Haji","Jean-Philippe Fortier-Lazure","Jennifer Szeto","Clarence Frazer"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428806586208/RBAJAn22.jpg"
 publishDate = "2015-01-23T11:39:00-05:00"
 short_description = "At lunchtime on Thursday, January 22nd, members of the COC Ensemble Studio gave a concert in the Richard Bradshaw Amphitheatre. Just past the 25th anniversary of the fall of the Berlin Wall, the music on this concert dealt with themes of war, love, and separation; we heard songs by Erich Korngold, Charles Ives, Hanns Eisler, and Francis Poulenc. "
 slug = "in-review-songs-of-love-and-war"

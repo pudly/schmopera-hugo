@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
+companies = ["Loose TEA Music Theatre","FAWN Chamber Creative","Indie Opera T.O."]
 date = "2018-01-12T20:08:00-05:00"
 lastmod = "2018-01-12T21:03:00-05:00"
+people = ["Amanda Smith","Alaina Viau","Gregory Finney"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515808192308/2018-01-12-Jan21.jpg"
 publishDate = "2018-01-12T20:08:00-05:00"
 short_description = "&quot;One of the things I love most about music is the undeniable connections between different genres,&quot; says Amanda Smith, FAWN Founding Artistic Director &amp; Resident Stage Director. &quot; I’ve always listened to electronic music with a similar ear as I do with classical and my experience as a listener is often comparable – so many intricate musical layers and visuals to explore.&quot;"
 slug = "sunday-funday-a-dontmissit-operatic-doubleheader"

@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Opera on the Avalon","Dayton Opera"]
 date = "2015-10-04T18:05:00-04:00"
 lastmod = "2015-10-05T08:34:00-04:00"
+people = ["Sara Schabas"]
 preamble = "Canadian soprano [Sara Schabas](/scene/people/sara-schabas/) has learned, in her still-young career, how much singing can mean to an audience. She knows that it takes more than technique to move listeners, and she knows that her work is valuable on stages of all sizes and shapes. Sara sings to give back, bringing music to patients in hospitals and care facilities through charities like [Songs By Heart](http://www.songsbyheart.org/about.html) and [Sharing Notes](http://www.sharing-notes.org/). She's also got the stuff for the big stage, taking on roles like Susanna, Lauretta, and Papagena in Canada and the United States. Sara talks about her love of French composers, and how living a diverse life makes her an engaging singer.\n\nThis interview is part of our ongoing series of features on young working artists in the opera industry. If you think you'd be a great candidate for an interview, or know someone you'd like to nominate, get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443996471606/SaraSquare.jpg"
 publishDate = "2015-10-05T08:00:00-04:00"
 short_description = "Canadian soprano Sara Schabas has learned, in her still-young career, how much singing can mean to an audience. She knows that it takes more than technique to move listeners, and she knows that her work is valuable on stages of all sizes and shapes. Sara sings to give back, bringing music to patients in hospitals and care facilities through charities like Songs By Heart and Sharing Notes. "
 slug = "spotlight-on-sara-schabas"

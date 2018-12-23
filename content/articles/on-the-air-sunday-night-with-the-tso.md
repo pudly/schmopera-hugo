@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
+companies = ["Toronto Symphony Orchestra"]
 date = "2015-10-25T21:55:00-04:00"
 lastmod = "2015-11-07T09:22:00-05:00"
+people = ["Simone Osborne"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446760685134/2015-11-05---Radio.jpg"
 publishDate = "2015-11-07T09:22:00-05:00"
 short_description = "This weekend, turn your radio-like devices to Classical 96.3 FM for the latest episode of Sunday Night with the TSO. Recently I joined hosts Kathleen Kajioka and Jeff Melanson (President and CEO of the Toronto Symphony Orchestra) and fellow guest Michael Vincent (editor, Musical Toronto) for a somewhat meta-conversation about the value of music criticism."
 slug = "on-the-air-sunday-night-with-the-tso"

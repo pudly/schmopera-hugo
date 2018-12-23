@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Canadian Opera Company"]
 date = "2015-06-16T09:26:00-04:00"
 lastmod = "2015-06-17T08:36:00-04:00"
+people = ["Chris Thornborrow"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434543977462/Thornborrow.jpg"
 publishDate = "2015-06-17T08:30:00-04:00"
 short_description = "Toronto-based composer Chris Thornborrow is bringing his work and experience with young musicians to the Canadian Opera Company&#039;s Summer Opera Camp this July. Chris will help a group of young opera-philes to create their own work, as he&#039;s done before with students of the Toronto District School Board."
 slug = "chris-thornborrow-on-composing-with-kids"

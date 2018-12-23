@@ -1,7 +1,11 @@
 +++
+author = "Vivian Darkbloom"
 categories = "Review"
+companies = ["Royal Opera House"]
 date = "2017-11-01T12:04:00-04:00"
 lastmod = "2017-11-01T12:31:00-04:00"
+people = ["Lisette Oropesa","Christopher Maltman","Charles Castronovo"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509552937502/2017-11-01---square---PR8A5280-LISETTE-OROPESA-AS-LUCIA%2C-CHARLES-CASTRONOVO-AS-EDGARDO-ROH.-PHOTO-BY-STEPHEN-CUMMISKEY.jpg"
 publishDate = "2017-11-01T12:23:00-04:00"
 short_description = "It was even more refreshing to see a very real depiction of female pain on stage - something that could never be sterilised or downplayed. There was nothing but bravery from Oropesa as she navigated the emotional turmoil of the second half of the opera. "
 slug = "a-lucia-with-agency-and-independence-at-the-royal-opera-house"

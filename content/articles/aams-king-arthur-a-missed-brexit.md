@@ -1,7 +1,10 @@
 +++
+author = "Thomas Pierce"
 categories = "Review"
+companies = ["Academy of Ancient Music"]
 date = "2017-10-05T09:39:00-04:00"
 lastmod = "2017-10-05T10:01:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507211715037/2017-10-05---square---purcells-arthur-002.jpg"
 publishDate = "2017-10-05T10:01:00-04:00"
 short_description = "Some segments worked well, such as the famous freezing scene as a metaphor for the despair felt by the Remainers, or the ambiguity subverting the triumphalism of &quot;Saint George, the patron of our isle&quot;. But why the duet &quot;Two Daughters of Aged Stream are we&quot; should evoke a nightclub or the martial posturing of &quot;Come if you dare our trumpets sound&quot; should call to mind a train station will have to be explained to me."
 slug = "aams-king-arthur-a-missed-brexit"

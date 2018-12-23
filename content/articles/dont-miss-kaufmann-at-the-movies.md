@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
 date = "2017-07-11T20:38:00-04:00"
 lastmod = "2017-07-21T08:47:00-04:00"
+people = ["Jonas Kaufmann"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500415121813/2017-07-18---JonasKaufmannMyItaly-1.jpg"
 publishDate = "2017-07-20T20:45:00-04:00"
 short_description = "Kaufmann, in a terribly cute red convertible and colourful shoes, takes a tour along the Italian coastlines. The German tenor tells stories of his childhood visits to Italy with his family, and connects his life in opera - Italian and otherwise - with the culture and lifestyle he grew to love."
 slug = "dont-miss-kaufmann-at-the-movies"

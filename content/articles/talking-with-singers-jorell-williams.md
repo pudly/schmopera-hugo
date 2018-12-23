@@ -1,8 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
 date = "2015-11-12T13:58:00-07:00"
 lastmod = "2016-07-15T12:15:00-06:00"
+people = ["Jorell Williams"]
 preamble = "[Jorell Williams](/scene/people/jorell-williams) is a baritone based in New York City, back home after a busy summer with Santa Fe Opera's Apprentice Program, singing in productions of *La fille du régiment*, *Rigoletto* and the world premiere of Jennifer Higdon's *Cold Mountain*.\n\nI first met Jorell in rainy St. John's, NL, while he was singing Schaunard in *La bohème*. We had a summer of great conversations about the realities of the opera industry, and so he has been on my must-interview list ever since. We spoke over Skype about some big topics, like being an African-American baritone in the United States, the decline of the operatic superstar, and helping people \"go somewhere that's not reality\" with his singing.\n\nYou can hear Jorell Williams sing Haydn's *Creation* with the Geneseo Symphony Orchestra on November 22nd (free admission, 3pm, Wadsworth Auditorium, Geneseo, NY), at Handel's [*Messiah*](http://www.branfordmessiah.org/index.html) with the Branford Chorale on December 20th (5:30pm, First Congregational Church, Branford, CT)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447424077771/2015-11-13---Jorell-Williams.jpg"
 publishDate = "2015-11-13T07:55:00-07:00"
 short_description = "Jorell Williams is a baritone based in New York City, back home after a busy summer with Santa Fe Opera&#039;s Apprentice Program, singing in productions of La fille du régiment, Rigoletto and the world premiere of Jennifer Higdon&#039;s Cold Mountain."
 slug = "talking-with-singers-jorell-williams"

@@ -1,7 +1,9 @@
 +++
+author = "Laura Attridge"
 categories = "Op-ed"
 date = "2018-09-29T11:43:00-04:00"
 lastmod = "2018-10-02T19:29:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538237803574/cactus.jpg"
 publishDate = "2018-10-02T19:29:00-04:00"
 short_description = "We each go through life with our own subjective experience of the world around us: a personal story as unique and beautiful as a fingerprint, but with implicit bias and limitation. Art allows us the opportunity to reach out to one another, to find connections and disparities, to compare notes on different ways of seeing the world. "
 slug = "leaning-into-the-discomfort"

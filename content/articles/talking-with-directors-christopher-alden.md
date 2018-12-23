@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Canadian Opera Company"]
 date = "2015-10-13T20:05:00-04:00"
 lastmod = "2015-10-14T11:43:00-04:00"
+people = ["Christopher Alden","Krisztina Szabó","Phillip Addis","Owen McCausland"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444788477517/yBJPUrFjYCG3xPnpnxoR0y_42P4vxQULBBnJbLUxO6YRpizxtLjcM66D8sv1wWzaSFZQUgwFy5lQNaSBIak2XyZCWbAu%3Dw1360-h1360"
 publishDate = "2015-10-14T11:00:00-04:00"
 short_description = "American opera director Christopher Alden is in Toronto to direct Pyramus and Thisbe, a new opera by Barbara Monk Feldman based on the very old story of Ovid&#039;s. Canadian Opera Company General Director Alexander Neef had the idea to create a triple bill, pairing Monk Feldman&#039;s opera with two works of Monteverdi: Lamento d&#039;Arianna (the only remaining fragment of his lost opera, Arianna) and Il combattimento di Tancredi e Clorinda."
 slug = "talking-with-directors-christopher-alden"

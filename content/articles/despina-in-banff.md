@@ -1,8 +1,12 @@
 +++
+author = "Caitlin Wood"
 categories = "Op-ed"
+companies = ["Against the Grain Theatre","The Banff Centre","Canadian Opera Company"]
 date = "2015-07-06T00:50:00-06:00"
 lastmod = "2015-07-10T00:16:00-06:00"
+people = ["Caitlin Wood"]
 preamble = "This is a post by guest contributor Caitlin Wood. Cait is here at The Banff Centre with [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/), singing Despina in *A Little Too Cozy*. I asked her how she was liking Banff, and she outdid herself with her response."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436237094615/BanffBlueRodeo.jpg"
 publishDate = "2015-07-10T08:16:00-06:00"
 short_description = "As the half way point of my time at The Banff Centre is coming up quickly, it seems like a great time to reflect on what it has been like staying in Banff and working on A Little Too Cozy."
 slug = "despina-in-banff"

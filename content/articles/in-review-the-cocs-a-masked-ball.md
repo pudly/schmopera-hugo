@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Canadian Opera Company"]
 date = "2014-02-07T09:18:00-05:00"
 lastmod = "2015-04-28T20:59:00-04:00"
+people = ["Adrianne Pieczonka","Simone Osborne","Dimitri Pittas"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430269092934/MaskedBall-MC-0681.jpg"
 publishDate = "2014-02-07T09:18:00-05:00"
 short_description = "On Wednesday, I braved the ridiculous snow for a much-needed Verdi fix at the Four Seasons Centre. The Canadian Opera Company&#039;s current production of A Masked Ball had piqued my interest, both for the exciting cast and for the production, of which I&#039;d only seen a few curious photos. "
 slug = "in-review-the-cocs-a-masked-ball"

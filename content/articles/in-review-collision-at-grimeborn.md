@@ -1,7 +1,9 @@
 +++
+author = "John Beckett"
 categories = "Review"
 date = "2017-08-18T09:52:00-04:00"
 lastmod = "2017-08-20T20:18:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503070312168/2017-08-18---Image---Spectra-Ensemble-presents-Collision-credit-Katie-Edwards.jpg"
 publishDate = "2017-08-18T11:33:00-04:00"
 short_description = "The fact is, that when the world doesn&#039;t actually end, this show still makes an audience member think, &quot;What was the point of all that?&quot; And while this response may have been desired by Schwitters and his dada contemporaries, this 21st century opera-goer was a bit confused."
 slug = "in-review-collision-at-grimeborn"

@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
+companies = ["Soundstreams"]
 date = "2015-11-12T14:11:00-05:00"
 lastmod = "2015-11-16T15:44:00-05:00"
+people = ["Lucia Cervoni","Clarence Frazer","Sharleen Joynt","Leslie Dala"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447700636602/2015-11-16---JulieSquare---Lucia-Cervoni-(Julie)-%26-Clarence-Frazer-(Jean)-_Cylla-Von-Tiedemann.jpg"
 publishDate = "2015-11-16T14:29:00-05:00"
 short_description = "Tomorrow night is the North American premiere of Julie, Philippe Boesmans&#039; 2005 opera, presented by Soundstreams. The piece is based on the Strindberg 1888 play, Miss Julie, which has one of those fantastic premiere stories of scandal followed by success. I mean, in the 19th century, a story about a woman who tried to &quot;train&quot; her fiancé with a whip is pretty darn honest."
 slug = "dont-miss-julie"

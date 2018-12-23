@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Against the Grain Theatre"]
 date = "2015-12-08T19:31:00-05:00"
 lastmod = "2015-12-09T12:55:00-05:00"
+people = ["Joel Ivany","Christopher Mokrzewski","Miriam Khalil","Stephen Hegedus","Owen McCausland","Andrea Ludwig","Vanessa Oude-Reimerink","Jonathan MacArthur","Michaela Dickey","Jennifer Nichols"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449620497680/AtG-Messiah-Instagram.jpg"
 publishDate = "2015-12-09T08:00:00-05:00"
 short_description = "Against the Grain Theatre is revisiting its innovative, &quot;smash-success&quot; production of Handel&#039;s Messiah, this time at the Harbourfront Centre Theatre, in partnership with the Roy Thomson Hall and Massey Hall. We caught a few moments of rehearsal, and chatted with the soloists and a few keen chorus members about adding movement and new meaning to Handel&#039;s masterpiece."
 slug = "atgs-messiah-a-preview"

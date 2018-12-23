@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Tapestry Opera","Scottish Opera"]
 date = "2015-05-14T09:57:00-04:00"
 lastmod = "2015-05-14T12:21:00-04:00"
+people = ["Lauren Segal","Jacqueline Woodley","Peter Barrett","Jordan de Souza","James McLean","Michael Mori"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431612873360/IMG_3230.JPG"
 publishDate = "2015-05-14T12:00:00-04:00"
 short_description = "Tapestry Opera is getting ready for the world premiere of M&#039;dea Undone, a new opera by John Harris and Marjorie Chan, in the Holcim Gallery of Evergreen Brick Works. Based on the Greek myth of Jason and Medea, M&#039;dea Undone is a collaboration with Scottish Opera, and features a fantastic cast of Canadians."
 slug = "tapestry-opera-at-evergreen-brick-works"

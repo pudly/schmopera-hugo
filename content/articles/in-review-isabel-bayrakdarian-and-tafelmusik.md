@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Tafelmusik Baroque Orchestra & Chamber Choir"]
 date = "2014-04-12T08:35:00-04:00"
 lastmod = "2015-04-23T22:38:00-04:00"
+people = ["Isabel Bayrakdarian"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429842937860/Tafelmusik-716x1024.jpg"
 publishDate = "2014-04-12T08:35:00-04:00"
 short_description = "On Thursday night I went to see the Tafelmusik orchestra perform with Canadian soprano Isabel Bayrakdarian in a concert with a good title: Rival Queens.\n\nThe queens in this case are 18th-century operatic divas Francesca Cuzzoni and Faustina Bordoni, who were in a famous feud throughout their careers, resulting in onstage catfights and general shallow rivalry."
 slug = "in-review-isabel-bayrakdarian-and-tafelmusik"

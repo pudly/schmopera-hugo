@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
 date = "2015-04-10T23:06:00-04:00"
 lastmod = "2015-04-10T23:06:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428721261112/16539825350_8740547eb0_k.jpg"
 publishDate = "2015-03-05T10:05:00-05:00"
 short_description = "For a while, I’ve been itching for a change: I wanted to see more non-musical theatre. Maybe it’s because opera lets me hear fantastic singers regularly, but there’s rarely a person onstage who started their training in drama, rather than music. I was really thrilled to be able to catch Simon Stephens‘ play Harper Regan at Canadian Stage, which premiered in 2008 at the Royal National Theatre. I figured it would quell my straight theatre bug, and I was clearly curious to see Molly Parker (House of Cards, Deadwood) in the title role. Harper Regan is inspired by the Greek plays surrounding the House of Atreus, and the stories of a cursed family"
 slug = "in-review-harper-regan"

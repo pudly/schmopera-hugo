@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
+companies = ["FAWN Chamber Creative","Indie Opera T.O."]
 date = "2016-02-20T09:05:00-05:00"
 lastmod = "2016-02-20T09:50:00-05:00"
+people = ["Amanda Smith"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455977947882/2016-02-20---FAWN-light-dimmer---square.jpg"
 publishDate = "2016-02-20T09:34:00-05:00"
 short_description = "Composers interested in submitting must do so by March 18, 2016, and FAWN is accepting a 1-5 minute recording of their work, plus the corresponding score, a bio, résumé, and a short summary of their compositional interests. The instrumentation is specific, and works must be include some or all of: tenor (voice), cello, electronics, percussion, and acoustic guitar."
 slug = "a-call-for-new-music-fawn-chamber-creative"

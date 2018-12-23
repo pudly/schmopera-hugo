@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
 date = "2016-04-15T10:41:00+01:00"
 lastmod = "2016-04-15T11:08:00+01:00"
+people = ["Javier Camarena"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460714250975/2016-04-11---Javier-Camarena.jpg"
 publishDate = "2016-04-15T11:00:00+01:00"
 short_description = "This recital was the best use of the &quot;crowd pleasing&quot; tactic. Camarena chose repertoire with which he just couldn&#039;t have gone wrong, but he followed up expectation with perfect delivery. It&#039;s no wonder that he holds rank along with Pavarotti and Flórez, as the third singer in 70 years to encore an aria at the Metropolitan Opera."
 slug = "in-review-javier-camarena-at-wigmore-hall"

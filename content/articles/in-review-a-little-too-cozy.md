@@ -1,6 +1,8 @@
 +++
+author = "Greg Finney"
 date = "2016-05-13T17:55:00+01:00"
 lastmod = "2016-05-14T12:21:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463158501614/2016-05-13---CozySquare.jpg"
 publishDate = "2016-05-14T12:21:00+01:00"
 short_description = "The show has a longer run than most AtG shows (running from now until May 21) so now even more people get a chance to experience the magic. This group keeps turning out hit, after hit, after hit, and the shows will no doubt sell out. They keep changing up the game with their many-pronged media attack, and I think A Little Too Cozy succeeded moreso than the other DaPontes. "
 slug = "in-review-a-little-too-cozy"

@@ -1,8 +1,10 @@
 +++
+author = "Rich Coburn"
 categories = "Editorial"
 date = "2015-12-16T13:06:00-05:00"
 lastmod = "2015-12-16T15:29:00-05:00"
 preamble = "This is a post by guest contributor Rich Coburn, a pianist and organist based in Montréal. If you like what you read, head over to Rich's [blog](http://www.richcoburn.com/blog/) to find the original article and more."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450292192541/2015-12-16---Bach.jpg"
 publishDate = "2015-12-16T14:24:00-05:00"
 short_description = "It is not possible to overstate how crazy it would be to hear infrasounds in music for the first time. It would be like if tomorrow we discovered a new colour of visible light that we’d been overlooking since the beginning of time. A completely new response from a sense that had been giving you exactly the same feedback for decades. This sound, and therefore the music it&#039;s a part of, would make a huge impression on you."
 slug = "bach-was-all-about-that-bass"

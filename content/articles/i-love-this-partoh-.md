@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Humour"
 date = "2014-08-29T08:00:00-04:00"
 lastmod = "2015-04-27T18:01:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429219797843/Screen%20Shot%202015-04-16%20at%205.29.26%20PM.png"
 publishDate = "2014-08-29T08:00:00-04:00"
 short_description = "Let me share what I think is a common source of frustration for pianists learning operas. You&#039;re playing along (sight-reading like a pro), maybe missing a few notes here and there, but getting the general sound of the show, and you get to that really famous part in that opera. Like, &quot;Ride of the Valkyries&quot;/&quot;Largo al factotum&quot;/&quot;Toreador Song&quot; famous. "
 slug = "i-love-this-partoh-"

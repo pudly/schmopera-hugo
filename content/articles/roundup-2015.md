@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["Canadian Opera Company","The Bicycle Opera Project","Indie Opera T.O.","Tapestry Opera","Opera Lyra Ottawa","Vancouver Opera","Canadian Art Song Project"]
 date = "2015-12-21T17:32:00-05:00"
 lastmod = "2015-12-27T19:05:00-05:00"
+people = ["Krisztina Szabó","Joel Ivany","Wayne Gooding","Michael Mori","Alexander Neef","Larissa Koniuk","Stephanie Tritchew","Geoffrey Sirett","Christopher Enns","David Pomeroy","Lauren Segal","Peter Barrett","Jordan de Souza","Jacqueline Woodley","Christopher Mokrzewski","Jennifer Nichols","Ambur Braid","Carla Huhtanen"]
 preamble = "2015 is almost done, everyone! Slightly incredulous over here. It means it's time for some retrospective writing about notable moments in the opera scene for yet another calendar year. \n\nThe easy (?) part is naming some standout performances, like [*Bluebeard's Castle/Erwartung*](/in-review-bluebeards-castle-erwartung/) at the Canadian Opera Company, [*Death & Desire*](/in-review-bluebeards-castle-erwartung/) with Against the Grain Theatre, and [Sondra Radvanovsky's recital](/in-review-sondra-radvanovsky-at-koerner-hall/) at Koerner Hall. More importantly, 2015 started tangible conversations about looming issues around opera, the money it costs, and the reasons to produce it. Like water-cooler conversations, but with more substance.\n\nSo, here are a few of our notable moments from 2015, and why they deserve writing for posterity. "
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450751253619/2015-12-22---Roundup.jpg"
 publishDate = "2015-12-27T10:25:00-05:00"
 short_description = "2015 is almost done, everyone! Slightly incredulous over here. It means it&#039;s time for some retrospective writing about notable moments in the opera scene for yet another calendar year. 2015 started tangible conversations about looming issues around opera, the money it costs, and the reasons to produce it. Like water-cooler conversations, but with more substance."
 slug = "roundup-2015"

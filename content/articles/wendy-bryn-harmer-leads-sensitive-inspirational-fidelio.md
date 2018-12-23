@@ -1,7 +1,10 @@
 +++
+author = "Arturo Fernandez"
 categories = "Review"
 date = "2018-04-16T13:02:00-04:00"
 lastmod = "2018-04-16T22:25:00-04:00"
+people = ["Anna Christy"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523897895104/sqBostonBaroqueFidelio.jpg"
 publishDate = "2018-04-16T22:25:00-04:00"
 short_description = "It is a great thing, then, that Boston Baroque has mostly found the right cast with which to lead this reading of the opera, especially with Wendy Bryn Harmer. By the end of it, I felt as inspired by Harmer&#039;s portrayal of Leonore as the other characters on the stage: and really, is that not the most important feeling one should have coming out of an opera where good triumphs over evil?"
 slug = "wendy-bryn-harmer-leads-sensitive-inspirational-fidelio"

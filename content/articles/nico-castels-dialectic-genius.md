@@ -1,6 +1,9 @@
 +++
+author = "Jenna Simeonov"
+companies = ["The Metropolitan Opera"]
 date = "2015-06-07T17:09:00-04:00"
 lastmod = "2015-06-07T17:21:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433711388849/Castel_Fotor.jpg"
 publishDate = "2015-06-07T17:15:00-04:00"
 short_description = "On May 31st, the opera world lost comprimario tenor and linguistic authority, Nico Castel. I never personally had the chance to work with Castel, but I&#039;m among the many who thanked him every day for his *Complete Opera Libretti Translation Series*, the invaluable anthologies of opera libretti, translated and phoneticized."
 slug = "nico-castels-dialectic-genius"

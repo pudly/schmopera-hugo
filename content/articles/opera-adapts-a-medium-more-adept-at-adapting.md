@@ -1,7 +1,10 @@
 +++
+author = "Jeremy Hirsch"
 categories = "Review"
 date = "2018-09-28T15:19:00-04:00"
 lastmod = "2018-09-28T22:35:00-04:00"
+people = ["John Brancy","Rupert Enticknap"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538162044319/sq3679_losthighway16_gross.jpg"
 publishDate = "2018-09-28T22:35:00-04:00"
 short_description = "For an opera, the score doesn&#039;t have much singing. Mr. Eddy&#039;s part is the most unique, full of guttural throat clicks, pops, screams, and burps. At one point he babbles like a tape on fast forward, an unexpectedly thrilling effect live. The character comes off more comic than scary, but who cares with such entertaining music."
 slug = "opera-adapts-a-medium-more-adept-at-adapting"

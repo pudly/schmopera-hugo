@@ -1,8 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
 date = "2016-05-03T09:51:00+01:00"
 lastmod = "2016-05-03T11:31:00+01:00"
 preamble = "Photo: [Tech. Sgt. Matt Hecht](https://www.flickr.com/photos/satransport/8349998703), [Flickr](https://creativecommons.org/licenses/by/2.0/legalcode)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462270041741/2016-05-03---Helicopter.jpg"
 publishDate = "2016-05-03T11:25:00+01:00"
 short_description = "So, because training for opera takes patience and nurturing, and rarely results in the kind of fame and fortune that makes terrible parents proud, have we escaped the curse of stage moms and dads? Is opera an ironic blind spot, ignored by the validation seekers in favour of TV commercials and youth beauty pageants?"
 slug = "rarities-opera-stage-parents"

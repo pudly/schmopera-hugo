@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
 date = "2017-01-17T10:59:00+00:00"
 lastmod = "2017-01-17T13:36:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484654471557/2017-01-16---Why.jpg"
 publishDate = "2017-01-17T12:22:00+00:00"
 short_description = "At these very, very low points in the history of humans, the idea of &quot;inspiring&quot; people with art and music feels silly, as though we artists are children being told to go play in the corner while the grown-ups (the doctors and lawyers, et al.) sort out the problem. I suppose it&#039;s hard to write about opera with scary nonsense in one&#039;s head."
 slug = "how-donald-trump-gave-me-writers-block"

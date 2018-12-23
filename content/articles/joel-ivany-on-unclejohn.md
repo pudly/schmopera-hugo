@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Against the Grain Theatre","The Banff Centre"]
 date = "2015-04-23T15:10:00-04:00"
 lastmod = "2015-04-23T19:58:00-04:00"
+people = ["Joel Ivany"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429816202526/image-682x1024.jpeg"
 publishDate = "2014-07-06T15:10:00-04:00"
 short_description = "Joel Ivany, artistic director of Against the Grain Theatre, has had a pretty wild year. Just this week, he won a Dora Award with Figaro&#039;s Wedding for Outstanding New Musical/Opera, and closed a sold-out run of Pelléas et Mélisande."
 slug = "joel-ivany-on-unclejohn"

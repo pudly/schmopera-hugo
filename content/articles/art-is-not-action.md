@@ -1,7 +1,9 @@
 +++
+author = "Christopher Mokrzewski"
 categories = "Op-ed"
 date = "2016-11-10T10:56:00+00:00"
 lastmod = "2017-01-17T11:35:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478805992437/2016-11-10---Action.jpg"
 publishDate = "2016-11-11T11:00:00+00:00"
 short_description = "If you seek change, do more: engage, vote, donate and work for your political party, protest, write petitions, run for office, do not take money from dubious sources out of alleged necessity and do not support or enlist those artists who do. It is our duty, as artists, and as citizens, the be a part of the process."
 slug = "art-is-not-action"

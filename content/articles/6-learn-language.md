@@ -1,8 +1,11 @@
 +++
+author = "Kristen Seikaly"
 categories = "How-to"
 date = "2015-06-04T12:45:00-04:00"
 lastmod = "2017-06-01T10:54:00-04:00"
+people = ["Kristen Seikaly"]
 preamble = "This is a cross-post from mezzo-soprano Kristen Seikaly's fantastic [blog](http://www.kristenseikaly.com/blog/). Read the original post [here](http://www.kristenseikaly.com/6-creative-ways-to-learn-a-language-affordably/)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496328025434/2017-06-01---Language.jpg"
 publishDate = "2015-06-05T08:34:00-04:00"
 short_description = "As classical singers, we constantly are looking for creative ways to learn a language quickly and affordably. Languages are important to our craft: we sing in different languages, we work in different countries, and our colleagues speak different languages. Yet we’re often not in another country long enough to learn the language by exposure alone."
 slug = "6-learn-language"

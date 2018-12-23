@@ -1,7 +1,9 @@
 +++
+author = "Carly Gordon"
 categories = "Review"
 date = "2018-04-16T13:06:00-04:00"
 lastmod = "2018-04-17T16:32:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523898301257/sqSFGroup2.png"
 publishDate = "2018-04-16T22:25:00-04:00"
 short_description = "Pärt&#039;s trademark, soaring dissonances churning uninterrupted, punctuated by tense, expectant silences and delicate instrumental interludes. During the lecture preceding Seraphic Fire&#039;s April 14 performance, Artistic Director Patrick Dupré Quigley noted the symbolism behind this hardline continuity: a sense of predestination, advancing steadily through the traditional text toward the inevitable crucifixion."
 slug = "parts-passio-closes-seraphic-fires-passionate-season"

@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
 date = "2016-12-01T08:26:00-05:00"
 lastmod = "2017-08-20T20:59:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480598658288/2016-12-1---Schmug.jpg"
 publishDate = "2016-12-01T08:40:00-05:00"
 short_description = "If you like to drink a lot of Faching coffee, or if you&#039;re a Faching huge tea guru, the Schmug helps you caffeinate your way to Faching perfection. We all secretly want to be the Queen of the Night, so if you&#039;re a bass who wants to drink himself all the way up to those high Fs, you&#039;ll hear no judgement from us."
 slug = "introducingthe-schmug"

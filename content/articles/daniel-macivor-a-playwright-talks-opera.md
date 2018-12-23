@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["The Banff Centre","Against the Grain Theatre","Canadian Opera Company"]
 date = "2015-04-12T22:30:00-04:00"
 lastmod = "2015-04-13T21:23:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428892177349/Screen-Shot-2014-07-24-at-10.08.59-AM.png"
 publishDate = "2014-08-24T10:30:00-04:00"
 short_description = "Playwright and performer Daniel MacIvor is a self-professed opera newbie. He’s currently in the process of writing his first libretto for Hadrian, the new commission by the Canadian Opera Company, to be set to music by Rufus Wainwright. Hadrian is set to open the COC’s 2018/19 season, and so Daniel joined the Against the Grain Theatre crew at The Banff Centre to observe rehearsals for #UncleJohn."
 slug = "daniel-macivor-a-playwright-talks-opera"

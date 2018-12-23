@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
 date = "2017-01-29T11:02:00+00:00"
 lastmod = "2017-01-30T10:45:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485693112326/2017-01-29---Glass.jpg"
 publishDate = "2017-01-30T10:35:00+00:00"
 short_description = "Alsop met Glass when she was a young violinist, and perhaps it was that familiarity with the composer and his work that allowed her to conduct the BBC Orchestra and Chorus with a focused, efficient hand. There was a settled ease to her posture that emanated into the orchestra, a physical representation of how Glass&#039; music works, which is to simply stay out of its way."
 slug = "transparent-glass-the-composer-turns-80"

@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Esprit Orchestra","Canadian Opera Company"]
 date = "2017-10-04T10:10:00-04:00"
 lastmod = "2017-10-04T15:35:00-04:00"
+people = ["Krisztina Szabó"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507131945850/2017-10-03---RBA.jpg"
 publishDate = "2017-10-04T14:01:00-04:00"
 short_description = "Szabó takes a cue from folk-song performance practice, keeping things simple and all about storytelling. She found ease in her role among Berio&#039;s varied sound worlds, and let her listeners settle in to what&#039;s familiar in these songs: the tunes. The light-filled, close-up environment of the Amphitheatre is unnerving for many artists, but Szabó is a performer who relishes the chance to step into her audience&#039;s personal space."
 slug = "folk-songs-esprit-szabo"

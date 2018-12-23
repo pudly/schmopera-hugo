@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["London Contemporary Orchestra"]
 date = "2016-05-21T22:11:00+01:00"
 lastmod = "2016-05-25T10:04:00+01:00"
+people = ["Robert Ames","Hugh Brunt"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464094565508/2016-05-24---Robert-Ames.gif"
 publishDate = "2016-05-24T21:45:00+01:00"
 short_description = "&quot;I keep notes all the time of pieces that I want to do, and dreaming up programmes. There&#039;s an absolutely humongous list of composers, and specific pieces of music, different artists I&#039;d work with, people in theatre, people in dance, electronic artists, certain films that I&#039;m interested in that we&#039;d love to do live scores for.&quot;"
 slug = "robert-ames-deep-minimalism-lco"

@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
 date = "2015-11-14T14:46:00-05:00"
 lastmod = "2015-11-15T11:18:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447534683353/2015-11-14---WateringPlants.jpg"
 publishDate = "2015-11-15T11:18:00-05:00"
 short_description = "The only necessary ingredient in bringing up a generation of respect for the arts is constant exposure. It&#039;s not a passive thing at all, and what makes me nervous is that it&#039;s largely up to the grown-ups to plant the seeds."
 slug = "playing-the-long-game-fostering-artistic-respect"

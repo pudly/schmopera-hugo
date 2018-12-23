@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
 date = "2014-03-15T23:33:00-04:00"
 lastmod = "2015-04-26T00:07:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430021215555/AmiraPav-1024x576.jpg"
 publishDate = "2014-03-15T23:33:00-04:00"
 short_description = "Yesterday I posted a link to a ridiculous track from 10-year-old Amira Willighagen&#039;s new album, produced by Simon Cowell&#039;s label, Syco Entertainment. The track was a duet version of Puccini&#039;s &quot;Nessun dorma,&quot; which featured the dubbed and transposed voice of Luciano Pavarotti, taken without permission from one of his studio recordings of the aria."
 slug = "simon-cowell-stop-it-an-update"

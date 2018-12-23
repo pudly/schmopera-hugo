@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Canadian Opera Company"]
 date = "2015-05-04T09:31:00-04:00"
 lastmod = "2015-05-04T12:47:00-04:00"
+people = ["Krisztina Szabó","John Relyea","Robert Lepage"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430746541732/Bluebeard-501-Peter-Fried-and-Sara-Fulgoni-COC-2001-production-of-Bluebeards-Castle-Photo-credit-Michael-Cooper.jpg"
 publishDate = "2015-05-04T09:49:00-04:00"
 short_description = "François Racine is the revival director of Robert Lepage&#039;s production of Bluebeard&#039;s Castle/Erwartung, and he has seen the double bill performed across the globe over the last 20 years. He took a few moments out of a tech rehearsal in the Four Seasons Centre to talk about these two &quot;very dark&quot; operas, and this production by Lepage that seems so timelessly compelling."
 slug = "francois-racine-on-bluebeards-castle-erwartung"

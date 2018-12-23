@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Royal Opera House"]
 date = "2016-04-08T10:27:00+01:00"
 lastmod = "2017-01-09T10:29:00+00:00"
+people = ["Diana Damrau","Charles Castronovo","Ludovic Tézier"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460109525136/2016-04-08---PR8A1676-DIANA-DAMRAU-AS-LUCIA-ROH-PHOTOGRAPHER-STEPHEN-CUMMISKEY.jpg"
 publishDate = "2016-04-08T11:24:00+01:00"
 short_description = "There was Lucia, embodying the most horrible, messy, inappropriate and inconvenient lows in a woman&#039;s life. By showing us all these unseen scenes, Mitchell managed to create a real relationship not only between Lucia and Edgardo, but between Lucia and Alisa, sung and acted beautifully by Rachael Lloyd. The gross differences between victory and loss, men&#039;s stories and women&#039;s, were powerful."
 slug = "in-review-lucia-di-lammermoor-at-roh"

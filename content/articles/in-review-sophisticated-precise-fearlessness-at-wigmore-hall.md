@@ -1,7 +1,10 @@
 +++
+author = "Vivian Darkbloom"
 categories = "Review"
 date = "2017-09-08T15:25:00-04:00"
 lastmod = "2017-09-09T11:00:00-04:00"
+people = ["Clara Osowski","John Brancy","Peter Dugan","Julien Van Mellaerts","Gamal Khamis","Tyler Wottrich"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504899844428/2017-09-08---Van-Mellearts-Khamis.jpg"
 publishDate = "2017-09-08T20:02:00-04:00"
 short_description = "This year&#039;s Wigmore Hall Song Competition was a wonderful experience. The judges commented on the incredibly high standard of this year&#039;s performers. I completely concur. The level of music making was very refined and intelligent. It was wonderful to see a concert with such a wide range of repertoire performed by young musicians making bold and individual choices."
 slug = "in-review-sophisticated-precise-fearlessness-at-wigmore-hall"

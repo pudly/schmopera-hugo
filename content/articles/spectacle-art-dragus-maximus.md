@@ -1,7 +1,10 @@
 +++
+author = "Lara Secord-Haid"
 categories = "Review"
+companies = ["Heartbeat Opera"]
 date = "2018-10-29T20:46:00-04:00"
 lastmod = "2018-10-31T13:24:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540860117841/sqBoyleDSC_1104.jpg"
 publishDate = "2018-10-29T21:36:00-04:00"
 short_description = "The show, a revue of Baroque arias and a world premiere by music director Daniel Schlosberg, incorporated masterful singing, a costumed 6-piece band, gender bending, lip syncing, imaginative costumes and dazzling makeup in the intimate venue of Roulette Theatre in Brooklyn."
 slug = "spectacle-art-dragus-maximus"

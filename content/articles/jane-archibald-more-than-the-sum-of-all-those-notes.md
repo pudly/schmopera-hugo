@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Canadian Opera Company"]
 date = "2018-02-21T16:28:00-05:00"
 lastmod = "2018-02-21T21:01:00-05:00"
+people = ["Jane Archibald"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519248473888/sq---KLP180220-_A7R2653_Cropped.jpg"
 publishDate = "2018-02-21T21:01:00-05:00"
 short_description = "Desautels created a bit of magic with his first note of Schubert, dovetailing the piano&#039;s set-up note with an otherworldly sound that came out of nothing. He was really moving to watch. He seemed to cater his playing to the subtleties of Archibald&#039;s voice, even making his clarinet speak some text in the metaphorical margins of Schubert&#039;s score."
 slug = "jane-archibald-more-than-the-sum-of-all-those-notes"

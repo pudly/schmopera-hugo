@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
+companies = ["The Bicycle Opera Project","Indie Opera T.O."]
 date = "2015-10-13T18:56:00-04:00"
 lastmod = "2015-10-13T19:57:00-04:00"
+people = ["Christopher Enns"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444779975585/HolyGrail.jpg"
 publishDate = "2015-10-14T08:00:00-04:00"
 short_description = "My pal Chris Enns is a hardworking tenor, and creator of Rags to Reasonable, a blog about personal finance geared towards artists. He created this fantastic document, The Big Book of Back to School, which is a wicked one-stop link for all your questions about budgets, working as an entrepreneur, and managing your happy factor as well as your money."
 slug = "rags-to-reasonables-personal-finance-holy-grail"

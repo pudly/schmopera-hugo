@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Loose TEA Music Theatre"]
 date = "2014-08-08T11:58:00-04:00"
 lastmod = "2015-04-27T18:02:00-04:00"
+people = ["Gregory Finney","Alaina Viau"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429239943077/Alaina-Viau-2048px.jpg"
 publishDate = "2014-08-08T11:58:00-04:00"
 short_description = "Alaina Viau is the Artistic Director of LooseTEA Music Theatre. She&#039;s hard at work with the creative team of LooseTEA&#039;s upcoming double-bill, Love in the Age of AutoCorrect. The double-bill includes present-day adaptations of Mozart&#039;s Bastien und Bastienne and Stravinsky&#039;s Mavra. "
 slug = "alainas-autocorrect"

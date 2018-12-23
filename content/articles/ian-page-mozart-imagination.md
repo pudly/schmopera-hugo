@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Classical Opera"]
 date = "2016-04-07T15:29:00+01:00"
 lastmod = "2016-04-08T15:31:00+01:00"
+people = ["Ian Page"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460039298378/2016-04-08---Ian-Page-c-Sheila-Rock.jpg"
 publishDate = "2016-04-08T15:10:00+01:00"
 short_description = "&quot;I love the way things have changed in the last generation or two. There are people who behave stupidly and tyrannically, there will always be. But it&#039;s more and more of a minority now, and I think it&#039;s so clear that when people feel enabled and bring themselves to their work, it&#039;s bound to be better. It&#039;s so obvious.&quot;"
 slug = "ian-page-mozart-imagination"

@@ -1,7 +1,11 @@
 +++
+author = "Malcolm Vella"
 categories = "Op-ed"
+companies = ["Canadian Opera Company"]
 date = "2016-02-17T18:17:00-05:00"
 lastmod = "2016-02-19T09:12:00-05:00"
+people = ["Gregory Finney","Jane Archibald","Russell Braun","Erin Wall","Josef Wagner","Michael Colvin","Robert Pomakov","Johannes Debus","Jordan de Souza"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455750113373/2016-02-18---Malcolm.jpg"
 publishDate = "2016-02-19T08:45:00-05:00"
 short_description = "We entered the theatre and got to our seats minutes before the curtain rose. The stage set was simple and yet magnificent with a full staircase as the main backdrop, and then the orchestra started and the singing began, WOW! The voices. I never thought operas could be so humorous and enjoyable, I always thought operas were serious and tragic with the cliché of a fat lady in a flowing floor length  gown and horned helmet - was I wrong!"
 slug = "newbies-at-the-opera"

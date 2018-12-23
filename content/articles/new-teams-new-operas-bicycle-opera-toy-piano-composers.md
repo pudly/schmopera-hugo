@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["The Bicycle Opera Project","Toy Piano Composers"]
 date = "2016-03-11T20:55:00+00:00"
 lastmod = "2016-03-12T15:37:00+00:00"
+people = ["Larissa Koniuk","Geoffrey Sirett","Chris Thornborrow","Marjorie Maltais","Liza Balkan","Monica Pearce"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457784079529/2016-03-12---Curiosity-Festival-Poster.jpg"
 publishDate = "2016-03-12T12:12:00+00:00"
 short_description = "Bicycle Opera and Toy Piano Composers will premiere Travelogue, a new collection of operas by composers Monica Pearce, Elisha Denburg, August Murphy-King, Tobin Stokes, and librettist Colleen Murphy. Travelogue is exciting in itself, and it&#039;s part of Toy Piano Composer&#039;s inaugural new music festival, Curiosity Festival, happening April 1-9th (find out all about it right here)."
 slug = "new-teams-new-operas-bicycle-opera-toy-piano-composers"

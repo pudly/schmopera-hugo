@@ -1,7 +1,11 @@
 +++
+author = "Molly Simoneau"
 categories = "Review"
+companies = ["Washington National Opera"]
 date = "2018-03-04T17:16:00-05:00"
 lastmod = "2018-03-04T19:50:00-05:00"
+people = ["Eric Owens","Leah Crocetto","Jamie Barton","Russell Thomas"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520201776500/sq---Baritone-Quinn-Kelsey-Rodrigo-and-bass-baritone-Eric-Owens-King-Philip-in-WNO's-Don-Carlo_credit-Scott-Suchman.jpg"
 publishDate = "2018-03-04T19:50:00-05:00"
 short_description = "If you were asked to come up with a fantasy cast for a hypothetical production of Don Carlo, you&#039;d be have a hard time assembling a lineup better than the one at Saturday night&#039;s performance. Tenor Russell Thomas sings the title role with clarity and passion, and not a hint of the strain which is all too common in this repertoire. Throughout their duet, his voice blends seamlessly with Quinn Kelsey’s Rodrigo. "
 slug = "barton-leads-fantasy-cast-in-wnos-don-carlo"

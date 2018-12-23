@@ -1,7 +1,9 @@
 +++
+author = "Melissa Ratcliff"
 categories = "Review"
 date = "2018-03-04T20:44:00-05:00"
 lastmod = "2018-03-05T08:01:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520217127445/sq---IMG_8252.jpg"
 publishDate = "2018-03-04T21:18:00-05:00"
 short_description = "When Figaro needs a guitar, a hand simply juts out from the wings with a guitar in hand, then promptly collects it when he&#039;s done. The show is full of hilarious slapstick comedy, amazing comic acting, and is an absolute comedic tour de force, which had the audience howling with laughter throughout."
 slug = "slapstick-done-right-burnaby-lyric-operas-barber"

@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Humour"
 date = "2013-12-19T17:59:00-07:00"
 lastmod = "2017-06-16T22:23:00-06:00"
+people = ["Isabel Leonard"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447952733363/2015-11-19---MuppetsTBT.jpg"
 publishDate = "2013-12-19T17:59:00-07:00"
 short_description = "There is this fascinating relationship between opera and the Muppets.  Considering that The Muppet Show follows the blueprint of the classic revue show, it’s not that odd; revues are built on sophisticated satire of anyone or anything famous at the time."
 slug = "muppets-at-the-opera"

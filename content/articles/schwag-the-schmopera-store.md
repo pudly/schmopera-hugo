@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
 date = "2015-12-02T20:40:00-05:00"
 lastmod = "2017-08-20T20:59:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449106793907/2015-12-20---TShirts.jpg"
 publishDate = "2015-12-03T08:00:00-05:00"
 short_description = "Although it&#039;s a labour of love, operating a blog like this is no small feat. That&#039;s why, instead of cluttering your experience with ads, we&#039;ve opted instead to open the Schmopera Store, where you can shop for unique opera-centric apparel. Our T-shirts and hoodies are designed by the Schmopera team, from one set of opera nerds to another."
 slug = "schwag-the-schmopera-store"

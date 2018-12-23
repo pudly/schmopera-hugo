@@ -1,8 +1,12 @@
 +++
+author = "Oliver Munar"
 categories = "Interview"
+companies = ["Calgary Opera"]
 date = "2018-11-16T10:28:00-05:00"
 lastmod = "2018-11-16T10:34:00-05:00"
+people = ["Adam Luther","Anne-Marie MacIntosh"]
 preamble = "For its first mainstage production of 2018-19, [Calgary Opera](/scene/people/calgary-opera/) has joined forces with Alberta Ballet to produce the classic tale of William Shakespeare's \"star-cross'd lovers\". Charles Gounod's [*Roméo et Juliette*](https://www.calgaryopera.com/18-19/romeo-and-juliette), conducted by Gordon Gerrard, is directed by Jean Grand-Maître, the Artistic Director of Alberta Ballet.\n\nSchmopera contributor Oliver Munar, who is singing in the coproduction, met with director Grand-Maître for a preview."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542382264996/sqRomeoetJuliette_Anne-Marie_MacIntosh_Adam_Luther_Photo_by_Trudie_Lee_Photography_146.jpg"
 publishDate = "2018-11-16T10:33:00-05:00"
 short_description = "&quot;I&#039;m glad that Charles Gounod is a French composer because I can understand the opera in my own language. In many ways, Gounod&#039;s score is so far away from the Prokofiev score. Prokofiev&#039;s music is imminently danceable, the chords and harmonizations are rich and original. But Prokofiev&#039;s score is very dark while Gounod infuses a lot of colour, humour and drama.&quot;"
 slug = "starcrossd-lovers-cross-artistic-lines-in-new-coproduction"

@@ -1,8 +1,11 @@
 +++
+author = "Christopher Enns"
 categories = "Editorial"
 date = "2015-10-08T08:49:00-04:00"
 lastmod = "2015-10-08T09:47:00-04:00"
+people = ["Christopher Enns"]
 preamble = "This is a guest post by Chris Enns, tenor and creator of the artist personal finance blog, [Rags To Reasonable](/chris-enns-rags-to-reasonable/). He's a fellow artist/writer, and I encourage readers to [read his stuff](http://www.ragstoreasonable.com/) for some sound advice (financial or otherwise)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444308522113/Dreaming-of-an-Artistic-Middle-Class-Just-pic.jpg"
 publishDate = "2015-10-08T09:04:00-04:00"
 short_description = "The starving artist. A cliché so played out it wouldn’t even deserve mentioning if it didn’t reflect the reality of so many.  It’s generally agreed upon that since artists have the luxury of living their dreams, they’re signing up for a life of financial struggle. They knew life would be like this, and they chose it anyway."
 slug = "we-dont-have-to-starve-dreaming-of-an-artistic-middle-class"

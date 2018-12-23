@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
+companies = ["The Metropolitan Opera","Canadian Opera Company","Calgary Opera","Vancouver Opera","Edmonton Opera","Opera Atelier","Manitoba Opera","Pacific Opera Victoria"]
 date = "2015-07-22T13:08:00-04:00"
 lastmod = "2015-07-24T08:11:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437699999002/elephants.jpg"
 publishDate = "2015-07-24T08:00:00-04:00"
 short_description = "I&#039;ll never be quoted as saying that artists deserve to be paid less than they already do. They work incredibly hard in a specialized set of skills. I think it&#039;s important, though, to be self-aware in an industry that&#039;s ubiquitously almost out of money. Will the unions be the first to adapt to a contemporary opera economy, or should contemporary artists be the ones to take the bold steps for the sake of the industry (perhaps martyring themselves along the way)?"
 slug = "idealism-questions-unions"

@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
 date = "2015-11-17T13:23:00-05:00"
 lastmod = "2015-11-20T11:09:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448035765824/2015-11-20%20-%20Two%20Doors.jpg"
 publishDate = "2015-11-20T10:40:00-05:00"
 short_description = "The system still appeared odd to me. Why weren&#039;t these voice teachers, in their lessons full of exercises and tone production, also pointing out wrong rhythms, missed entrances, and poor diction? And why did these pianists feel that they had so much to offer someone who is probably much more advanced at singing than they are?"
 slug = "coaches-voice-teachers-and-the-grey-area-in-between"

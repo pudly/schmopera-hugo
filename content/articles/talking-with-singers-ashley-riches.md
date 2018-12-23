@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["English National Opera","Grange Park Opera","The Grange Festival"]
 date = "2018-05-27T18:34:00-04:00"
 lastmod = "2018-05-29T21:46:00-04:00"
+people = ["Ashley Riches"]
 preamble = "After a critically-acclaimed inaugural season, The Grange Festival is back this summer, boasting three new productions on its line-up. One of these is Handel's [*Agrippina*](https://thegrangefestival.co.uk/operas/agrippina/) (June 8 to July 6), which features British bass-baritone [Ashley Riches](/scene/people/ashley-riches/) as Claudio. \n\nWe spoke with Riches about the art of playing the professional long game, and where he focuses his energy."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527468994087/sq5DebbieScanlon.jpg"
 publishDate = "2018-05-29T21:00:00-04:00"
 short_description = "&quot;The mobile and solitary nature of the job is one of the hardest things for singers, so my time with my family is really important to me. I&#039;m really careful about letting my job compromise that and I&#039;ve been lucky enough (so far) to have a good balance between time at home vs. travelling. When away I read and write a lot, which in combination with cross-fit and crosswords, keeps me sane.&quot;"
 slug = "talking-with-singers-ashley-riches"

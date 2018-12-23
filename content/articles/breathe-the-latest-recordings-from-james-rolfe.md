@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Toronto Masque Theatre"]
 date = "2017-10-17T12:50:00-04:00"
 lastmod = "2017-10-18T20:16:00-04:00"
+people = ["James Rolfe"]
 preamble = "**October 20 and 21**, [Toronto Masque Theatre](/scene/companies/toronto-masque-theatre/) presents an intriguing double-bill of Purcell's *Dido and Aeneas*, and the 2007 masque by [James Rolfe](/scene/people/james-rolfe/) and André Alexis, *Aeneas and Dido*.\n\nFollowing the October 21st performance at Trinity-St. Paul's is also the [release of *Breathe*, Rolfe's latest CD](http://www.jamesrolfe.ca/events/breathe-cd-release/) (Centrediscs) which features three works for voices an early instruments: *Aeneas and Dido*, *Breathe* (2011) with texts by Anna Chatterton and Hildegard von Bingen, and *Europa* (2013) with libretto by Steven Heighton). \n\nRolfe spoke with us about writing new music for \"old\" instruments, and his long-standing relationship with Toronto Masque Theatre."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508259133879/2017-10-17---James-Rolfe.jpg"
 publishDate = "2017-10-18T20:16:00-04:00"
 short_description = "&quot;I&#039;m both flattered and sad that I&#039;ll be part of their final season. I will miss TMT greatly, as these pieces have marked some of my most artistically satisfying experiences. But I&#039;ll also miss the wonderful people who made these collaborations so enjoyable.&quot;"
 slug = "breathe-the-latest-recordings-from-james-rolfe"

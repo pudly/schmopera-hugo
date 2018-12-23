@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Against the Grain Theatre","The Banff Centre"]
 date = "2015-04-23T20:06:00-04:00"
 lastmod = "2015-04-23T20:06:00-04:00"
+people = ["Betty Waynne Allison"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429833926322/B-Allison-PRINT-682x1024.jpg"
 publishDate = "2014-05-21T10:06:00-04:00"
 short_description = "Canadian soprano Betty Allison is getting ready to sing the role of Anna in Uncle John at the Banff Centre&#039;s Open Space program. She answered a few of my questions about who Anna is, setting no expectations, and taking advantage of her time in Banff."
 slug = "anna"

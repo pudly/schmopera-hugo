@@ -1,7 +1,10 @@
 +++
+author = "John Hohmann"
 categories = "Review"
 date = "2018-04-29T19:51:00-04:00"
 lastmod = "2018-04-30T17:55:00-04:00"
+people = ["Kacey Cardin","Chelsea Feltman"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525044907322/sqDSC_7132_preview.jpg"
 publishDate = "2018-04-29T20:49:00-04:00"
 short_description = "Her Kind opened mysteriously enough as the sopranos entered costumed in dissimilar black outfits, their heads covered in grey veils. Standing strategically around the periphery of the playing area, they produced a polyphonic sound evoking the solemnity and religiosity of Hildegard&#039;s composition concerning salvation and the Virgin Mother."
 slug = "opera-on-taps-her-kind-music-a-beer"

@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Canadian Opera Company","Canadian Opera Company Ensemble Studio"]
 date = "2017-09-15T13:04:00-04:00"
 lastmod = "2017-09-24T23:32:00-04:00"
+people = ["Andrew Haji"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505495063509/2017-09-15---Haji%2C-Andrew-Haji---Credit-Veronika-Roux.jpg"
 publishDate = "2017-09-24T23:32:00-04:00"
 short_description = "After high school, Haji went not into music, but into computer science. After just two years - and a realization that he was miserable - he &quot;quickly abandoned ship&quot;. He took a year off, during which he met with his high school music teacher, discussing the beginnings of his plan to pursue music."
 slug = "talking-with-singers-andrew-haji"

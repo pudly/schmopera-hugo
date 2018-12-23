@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Tapestry Opera"]
 date = "2015-01-25T14:06:00-05:00"
 lastmod = "2015-04-11T22:27:00-04:00"
+people = ["Aaron Durand","Michael Mori","Peter McGillivray","Michael Robert-Broder","Maeve Palmer"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428805225699/10428063_10152774633183547_6533989054763531644_n.jpg"
 publishDate = "2015-01-25T14:06:00-05:00"
 short_description = "Marking the end of my weekend hat-trick of stuff to see, was Tapestry’s Songbook V. It’s the fifth year of Tapestry’s New Opera 101 Program, which gives singers and pianists a chance to work on contemporary opera with some of the best in the business; the rep is chosen from within Tapestry’s impressive library of commissions."
 slug = "he-saidshe-said-songbook-v"

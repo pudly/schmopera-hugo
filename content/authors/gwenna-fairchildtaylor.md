@@ -2,11 +2,11 @@
 date = "2016-09-16T10:04:00+01:00"
 facebook = "https://www.facebook.com/UofTOpera/"
 lastmod = "2016-09-16T13:19:00+01:00"
-name = "Gwenna Fairchild-Taylor"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474016588852/2016-09-16---Gwenna-Fairchild-HS.jpg"
 publishDate = "2016-09-16T10:04:00+01:00"
 short_bio = "Ottawa native soprano Gwenna Fairchild-Taylor holds a Master of Music (Opera) from University of Toronto and a Bachelor of Music (Honours Voice Performance) from Western University. Highlights from this past season include Berta in *The Barber of Seville* at the Indian River Festival (PEI) and Stratford Summer Music, Soprano Soloist in Beethoven Symphony No. 9 under Bramwell Tovey, appearing in Tapestry Opera’s *Songbook VI* and Narrating *Peter and the Wolf* for the North York Concert Orchestra.\n"
 slug = "gwenna-fairchildtaylor"
+title = "Gwenna Fairchild-Taylor"
 twitter = "https://twitter.com/GwennaFT"
 website = "http://gwennafairchildtaylor.com/"
 +++

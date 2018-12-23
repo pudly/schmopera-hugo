@@ -1,7 +1,11 @@
 +++
+author = "Carly Gordon"
 categories = "Review"
+companies = ["Florida Grand Opera"]
 date = "2017-11-13T14:08:00-05:00"
 lastmod = "2017-11-13T18:09:00-05:00"
+people = ["Simon Dyer","Haeran Hong","Jesús León"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510600667370/2017-11-13---square---Lucia-Anna-Christy-2-Photo-Credit-Chris-Kakol.jpg"
 publishDate = "2017-11-13T18:09:00-05:00"
 short_description = "Soprano Haeran Hong in the title role was superb. Her performance from start to finish was a spellbinding display of virtuosity and musical imagination; her mad scene cadenza felt effortless, almost improvised. She captured a range of emotion and colour to rival the soaring range of notes — flawlessly executed — that comprise Donizetti&#039;s challenging score."
 slug = "a-luminous-lucia-at-florida-grand-opera"

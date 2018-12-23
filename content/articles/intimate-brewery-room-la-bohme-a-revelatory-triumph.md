@@ -1,7 +1,9 @@
 +++
+author = "Arturo Fernandez"
 categories = "Review"
 date = "2018-04-13T15:27:00-04:00"
 lastmod = "2018-04-14T16:29:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523647099530/sq---BosOpColBoheme041018-0168.jpg"
 publishDate = "2018-04-14T16:29:00-04:00"
 short_description = "But actually, this is the big revelation of the production: the show works better when the cast is allowed to treat the show&#039;s lighter moments like a comedy, because it only highlights how truly tragic their situation is when reality comes crashing back in. "
 slug = "intimate-brewery-room-la-bohme-a-revelatory-triumph"

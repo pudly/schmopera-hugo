@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Urbanvessel","Indie Opera T.O."]
 date = "2015-07-22T16:35:00-04:00"
 lastmod = "2015-09-13T20:17:00-04:00"
+people = ["Juliet Palmer"]
 preamble = "Based in Toronto, [Urbanvessel](/scene/companies/urbanvessel/) produces performances that are interdisciplinary, provocative, and based in the human voice. Past shows include *Voice-Box*, a boxing opera for an all-woman cast, *Stitch*, an *a cappella* opera for three women and sewing machines, and this summer's *Singing River*, which brought dance, poetry, singing and more to the Toronto's Don River. I spoke with Artistic Director [Juliet Palmer](/scene/people/juliet-palmer/), herself a composer and performer, about Urbanvessel's place in the Indie Opera T.O. collective, and in Canada's larger arts scene."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437685981935/SingingRiver-1Square.jpg"
 publishDate = "2015-09-01T12:44:00-04:00"
 short_description = "Based in Toronto, Urbanvessel produces performances that are interdisciplinary, provocative, and based in the human voice. Past shows include Voice-Box, a boxing opera for an all-woman cast, Stitch, an a cappella opera for three women and sewing machines, and this summer&#039;s Singing River, which brought dance, poetry, singing and more to the Toronto&#039;s Don River."
 slug = "check-out-urbanvessel"

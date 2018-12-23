@@ -1,7 +1,11 @@
 +++
+author = "Tracy Monaghan"
 categories = "Review"
+companies = ["Nashville Opera"]
 date = "2017-01-28T09:32:00+00:00"
 lastmod = "2017-01-28T10:55:00+00:00"
+people = ["Matthew Treviño","Danielle Pastin","Wes Mason","Samuel Levine","Eliza Bonet","Courtney Ruckman","Jordan Rutter","Melisa Bonetti"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485596390728/2017-01-28---Nashville-Opera---Three-Way--20.jpg"
 publishDate = "2017-01-28T10:25:00+00:00"
 short_description = "Exposure to culture so outwardly, unabashedly about sex (whatever form it takes) will very likely challenge the typical Nashville Opera patron (#biblebelt). Three Way manages to take a subject that is most taboo, particularly in the American South, and – I think, I hope – manages to inspire its audiences to a greater understanding of their fellow person…which is something we all super need right now."
 slug = "in-review-three-way"

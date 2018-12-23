@@ -1,7 +1,11 @@
 +++
+author = "Daniel Weisman"
 categories = "Review"
+companies = ["The Atlanta Opera"]
 date = "2018-02-26T13:50:00-05:00"
 lastmod = "2018-02-26T19:41:00-05:00"
+people = ["Andriana Chuchman"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519670939672/sq---JB4A0761.jpg"
 publishDate = "2018-02-26T14:36:00-05:00"
 short_description = "The entire cast had impeccable comic timing, but the crowd favorite was Stephanie Blythe&#039;s role and company debut as the Marquise of Berkenfield. Ms. Blythe, who is one of the most frequently sought after mezzo-sopranos of the day, moved with exceptional comic timing, managing to make her grace and composure a source of hilarity."
 slug = "a-bel-canto-winner-atlantas-fille-du-rgiment"

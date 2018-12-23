@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Soundstreams"]
 date = "2015-04-10T23:33:00-04:00"
 lastmod = "2015-04-12T19:50:00-04:00"
+people = ["David Lang"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428723027892/%25C2%25A9ARMEN-Elliott1030-The-Whisper-Opera-NYC-2013_1_Fotor.jpg"
 publishDate = "2015-03-01T09:33:00-05:00"
 short_description = "On Saturday I had the chance to see David Lang‘s The Whisper Opera, presented by Soundstreams at The Theatre Centre; with a sold-out run, I was lucky to catch this in Toronto. It was one of the coolest things I’ve seen in a long time, made better by the few expectations I had beforehand. The Pulitzer Prize winning composer (the little matchgirl passion) asks, “what if a piece were so quiet, and intimate, and so personal to the performers, that you needed to be right next to them or you would hear almost nothing?” The Whisper Opera is aptly named; it’s certainly a piece that achieves Lang’s aim to write “pieces that try to highlight things that can only happen live.”"
 slug = "in-review-the-whisper-opera"

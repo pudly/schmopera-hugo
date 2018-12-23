@@ -1,7 +1,11 @@
 +++
+author = "Thomas Pierce"
 categories = "Review"
+companies = ["Melos Sinfonia"]
 date = "2017-10-23T12:42:00-04:00"
 lastmod = "2017-10-24T10:49:00-04:00"
+people = ["Oliver Zeffman","Ross Ramgobin","Patrick Terry","Lauren Fagan"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508856260032/2017-10-24---Lauren-Fagan-Agnes%2C-Ross-Ramgobin-The-Protector%2C-Oliver-Zeffman-conductor-pc-Nick-Rutter.jpg"
 publishDate = "2017-10-24T10:49:00-04:00"
 short_description = "The music develops in parallel to the narrative, twisting and turning in response to the events portrayed. From the subtle, gliding arcs of the strings during the seduction to the terrifying crescendos accompanying The Boy&#039;s murder, the score varies immensely. Benjamin is especially gifted at disseminating horror, the overwhelming psychological intensity of the opera&#039;s key moments becoming almost unbearable."
 slug = "fuelled-by-female-oppression-written-on-skin"

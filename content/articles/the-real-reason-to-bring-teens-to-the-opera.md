@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
+companies = ["Royal Opera House"]
 date = "2018-01-28T11:21:00-05:00"
 lastmod = "2018-01-28T21:20:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517156406211/2018-01-28---Teens.jpg"
 publishDate = "2018-01-28T21:20:00-05:00"
 short_description = "This is a decent list of reasons to bring your teen to the opera. It&#039;s fair to add that opera is not the only place to learn these things; the list above is an argument for getting teens excited about reading, going to museums, and yes, watching well-written film and television. "
 slug = "the-real-reason-to-bring-teens-to-the-opera"

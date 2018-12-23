@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Salzburg Festival","The Metropolitan Opera"]
 date = "2016-08-03T10:58:00+01:00"
 lastmod = "2016-08-03T13:11:00+01:00"
+people = ["Layla Claire","Luca Pisaroni"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470218313134/2016-08-03---LAYLA-CLAIRE-Lisa-Marie-Mazzucco.jpg"
 publishDate = "2016-08-03T12:51:00+01:00"
 short_description = "Claire makes her debut at the Salzburg Festival this summer, singing Donna Elvira in Don Giovanni, and she&#039;s part of a stellar cast, including Ildebrando D&#039;Arcangelo (Giovanni) and Luca Pisaroni (Leporello). We were able to chat with Claire about the dream of singing Mozart in his birth-city, and how a cast of Italians helps her raise the bar with all those recits."
 slug = "talking-with-singers-layla-claire"

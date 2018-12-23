@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
+companies = ["Toronto Symphony Orchestra"]
 date = "2015-11-09T16:57:00-05:00"
 lastmod = "2015-11-09T23:50:00-05:00"
+people = ["Simone Osborne"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447108720930/2015-11-09%20-%20SimoneRick%20-%20Square.jpg"
 publishDate = "2015-11-10T08:00:00-05:00"
 short_description = "November is a great month for the Toronto Symphony Orchestra, and I figured I&#039;d share a couple of my picks for the coming weeks."
 slug = "short-list-this-month-with-the-tso"

@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Against the Grain Theatre","The Banff Centre"]
 date = "2015-04-23T16:21:00-04:00"
 lastmod = "2015-04-23T20:10:00-04:00"
+people = ["Cameron McPhail"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429820424208/Cam-Headshot-682x1024_Fotor.jpg"
 publishDate = "2014-06-09T11:21:00-04:00"
 short_description = "#UncleJohn has a new star! Baritone Cameron McPhail is pretty pumped to put on his Mozart hat and head to the Banff Centre next month. He&#039;ll be singing the title role in Against the Grain Theatre&#039;s production of #UncleJohn, in the Open Space program at the Banff Centre."
 slug = "unclejohn-always-unpredictable"

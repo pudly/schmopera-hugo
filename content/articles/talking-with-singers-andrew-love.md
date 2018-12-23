@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
 date = "2015-04-24T09:24:00-04:00"
 lastmod = "2015-04-24T09:24:00-04:00"
+people = ["Andrew Love"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429881691005/AndrewLove.jpeg"
 publishDate = "2014-04-04T09:24:00-04:00"
 short_description = "Baritone Andrew Love is singer who recently succeeded in an official crossing-over between opera and musical theatre. He&#039;s sung at Calgary Opera, Pacific Opera Victoria, Saskatoon Opera and l&#039;Opéra de Québec. On top of that, he just finished singing The Bishop and understudying the role of Javert in a run of Cameron Mackintosh&#039;s Les Misérables here in Toronto. "
 slug = "talking-with-singers-andrew-love"

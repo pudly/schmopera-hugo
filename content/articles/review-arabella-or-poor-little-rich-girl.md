@@ -1,7 +1,11 @@
 +++
+author = "Greg Finney"
 categories = "Review"
+companies = ["Canadian Opera Company","The Santa Fe Opera","Minnesota Opera"]
 date = "2017-10-11T12:44:00-04:00"
 lastmod = "2017-10-11T23:17:00-04:00"
+people = ["Erin Wall","Jane Archibald","John Fanning","Megan Latham","Patrick Lange","Claire de Sévigné","Corey Bix","Gundula Hintz","Michael Brandenburg"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507741049261/2017-10-11---Arabella-MC-0724.jpg"
 publishDate = "2017-10-11T22:49:00-04:00"
 short_description = "Unlike the song-dialogue-song-dialogue-duet-quintet-dialogue-finale formula of operetta - which uses dance forms like polka, czardas, and waltzes - in Arabella, we find characteristic soaring beauty and dramatic pulse in a through-composed score which is what we love about Herr Strauss&#039;s music. The appealing play between consonant and dissonant harmonies, lush strings, and emphatic brass were handled masterfully well from the pit under the baton of maestro Patrick Lange. "
 slug = "review-arabella-or-poor-little-rich-girl"

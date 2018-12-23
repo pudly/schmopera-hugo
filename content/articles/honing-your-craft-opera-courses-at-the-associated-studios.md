@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
 date = "2016-11-17T14:37:00+00:00"
 lastmod = "2016-11-23T12:07:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479394089701/2016-11-16---School.jpg"
 publishDate = "2016-11-23T12:07:00+00:00"
 short_description = "If you&#039;re interested in training that&#039;s focused, yet flexible, have a look through the courses offered by Associate Studios. They audition on a rolling basis, with the next confirmed dates on November 30 and December 15, 2016. Click here to find out more about their Opera Courses, and to apply online."
 slug = "honing-your-craft-opera-courses-at-the-associated-studios"

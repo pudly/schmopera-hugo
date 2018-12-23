@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
+companies = ["The Metropolitan Opera"]
 date = "2014-09-16T17:00:00-04:00"
 lastmod = "2015-04-16T15:10:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429211300636/Klinghoffer-1.jpg"
 publishDate = "2014-09-16T17:00:00-04:00"
 short_description = "I came across an article today that prompted me to weigh in on all the talk about The Death of Klinghoffer. Andrea Peyser at the New York Post just published this piece, stating, &quot;The Met is to present an obscene opera titled &#039;The Death of Klinghoffer&#039; — a musical celebration of the senseless murder by Palestinian monsters of a defenseless, elderly Jewish New Yorker.&quot; Sigh. "
 slug = "the-klinghoffer-example"

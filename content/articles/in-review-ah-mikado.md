@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Toronto Operetta Theatre"]
 date = "2014-12-28T13:00:00-05:00"
 lastmod = "2015-04-12T12:09:00-04:00"
+people = ["Adrian Kramer","Lucia Cesaroni","Giles Tomkins","Gregory Finney"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428853512946/166-copy_Fotor.jpg"
 publishDate = "2014-12-28T13:00:00-05:00"
 short_description = "Last night I went to see Toronto Operetta Theatre‘s production of The Mikado at the St. Lawrence Centre for the Arts. Neither Gilbert nor Sullivan show up frequently on my list of must-sees, due to personal taste and perhaps too many earworms (#iamtheverymodelofamodernmajorgeneral). But I had much faith (and a few friends) in the Canadian cast, and I absolutely wasn’t disappointed."
 slug = "in-review-ah-mikado"

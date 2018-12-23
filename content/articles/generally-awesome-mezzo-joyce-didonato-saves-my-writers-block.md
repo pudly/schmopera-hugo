@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
 date = "2014-02-19T09:30:00-05:00"
 lastmod = "2015-04-27T21:51:00-04:00"
+people = ["Joyce DiDonato"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430185844851/JoyceGrammysSquare.jpg"
 publishDate = "2014-02-19T09:30:00-05:00"
 short_description = "My hunt for blog-worthy tidbits had begun, and just as I felt the beginnings of a good old writer&#039;s block, I found myself on Joyce DiDonato&#039;s blog. That lady is just great. I&#039;m not sure if everyone will remember this, but I spotted that letter to the editor that Joyce wrote for a publication by online magazine Opera21."
 slug = "generally-awesome-mezzo-joyce-didonato-saves-my-writers-block"

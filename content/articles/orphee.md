@@ -1,7 +1,11 @@
 +++
+author = "Hannah De Priest"
 categories = "Review"
+companies = ["Lyric Opera of Chicago"]
 date = "2017-09-25T10:00:00-04:00"
 lastmod = "2017-09-25T13:00:00-04:00"
+people = ["Dmitry Korchak","Lauren Snouffer","Andriana Chuchman"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506348554980/2017-09-24---square---Andriana-Chuchman_Dmitry-Korchak_The-Joffrey-Ballet_ORPHEE-ET-EURYDICE_LYR170915_1195_c.Todd-Rosenberg.jpg"
 publishDate = "2017-09-25T10:28:00-04:00"
 short_description = "Tacking happy endings onto tellings of traditionally tragic myths in this way was very much en vogue in the eighteenth-century. But for Neumeier&#039;s concept-driven production, while the musical substance remains the same, the story&#039;s denouement is rendered far more devastating than even the myth&#039;s usual tragic end."
 slug = "orphee"

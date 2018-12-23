@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
 date = "2016-03-23T18:52:00+00:00"
 lastmod = "2016-03-24T10:08:00+00:00"
+people = ["Isabel Leonard"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458759321362/2016-03-23---Isabel-Leonard---Becca-Fay.jpg"
 publishDate = "2016-03-24T10:00:00+00:00"
 short_description = "OPERA America continues its Conversations series on April 7th, with an intimate chat with mezzo-soprano Isabel Leonard. At the National Opera Center, OPERA America President/CEO Marc A. Scorca will sit down with the star singer, fresh from her run as Cherubino in The Metropolitan Opera&#039;s Le nozze di Figaro."
 slug = "dont-miss-conversations-with-isabel-leonard"

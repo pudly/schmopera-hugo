@@ -1,7 +1,10 @@
 +++
+author = "John Hohmann"
 categories = "Review"
+companies = ["Experiments in Opera"]
 date = "2018-05-10T20:54:00-04:00"
 lastmod = "2018-05-10T20:54:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525999867472/SQimage1.jpg"
 publishDate = "2018-05-10T20:54:00-04:00"
 short_description = "The opera is billed as a shadow puppetry opera. That sounds interesting but it is a concept that, while lending a certain artistic edge, falls short of fulfilling the promise of collaborative storytelling. The impression it leaves is more that of a crutch, which Welch&#039;s fine composition does not need. "
 slug = "and-here-we-are-voice-versus-volume"

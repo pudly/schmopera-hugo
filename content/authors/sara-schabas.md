@@ -2,11 +2,11 @@
 date = "2017-02-13T17:01:00+00:00"
 facebook = "https://www.facebook.com/saraschabassoprano/"
 lastmod = "2017-02-14T12:15:00+00:00"
-name = "Sara Schabas"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487005252044/2017-02-13---Sara-Schabas.jpg"
 publishDate = "2017-02-13T17:01:00+00:00"
 short_bio = "Canadian soprano Sara Schabas, an artist acclaimed for her performances of nuance and beauty, recently returned from her second summer at the Aspen Music Festival as a Mercedes T. Bass Opera Fellow. Her 2016-2017 season includes recitals at Toronto&#039;s Arts and Letters Club and Gallery 345, as well as her debut with the Mississauga Symphony Orchestra as Frasquita in Bizet&#039;s *Carmen*.\n"
 slug = "sara-schabas"
+title = "Sara Schabas"
 website = "https://www.saraschabas.com/"
 +++
 

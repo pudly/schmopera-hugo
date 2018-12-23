@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
+companies = ["Against the Grain Theatre","Tapestry Opera","Indie Opera T.O.","The Metropolitan Opera","Royal Opera House"]
 date = "2015-05-25T13:56:00+01:00"
 lastmod = "2016-02-29T19:11:00+00:00"
+people = ["Ana Sokolovic","David Lang"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433177914389/ParisOpera.jpg"
 publishDate = "2015-06-02T14:18:00+01:00"
 short_description = "We&#039;re talking about newbies, here; if everything is new, everything is on the table. I say then, let&#039;s first present opera in its most progressive form. Not to create a bias, but precisely because preconceptions about opera exist; the simplest way to break them down is to show them something, called opera, that doesn&#039;t fit the stereotypes."
 slug = "opera-for-firsttimers-thinking-outside-the-box"

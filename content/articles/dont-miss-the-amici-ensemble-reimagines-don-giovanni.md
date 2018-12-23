@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
 date = "2017-02-13T13:40:00+00:00"
 lastmod = "2017-02-13T16:46:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486994247544/2017-02-12---Telus-Centre.jpg"
 publishDate = "2017-02-13T16:46:00+00:00"
 short_description = "Insiring the concert&#039;s title, Don Giovanni Reimagined, the Amici ensemble presents Josef Triebensee&#039;s arrangement; the Bohemian oboist and composer reduced Mozar&#039;ts opera, scoring it for a chamber ensemble of wind instruments, and enough singers to cover the short selection of numbers from the opera."
 slug = "dont-miss-the-amici-ensemble-reimagines-don-giovanni"

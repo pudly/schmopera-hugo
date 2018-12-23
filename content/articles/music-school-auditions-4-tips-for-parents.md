@@ -1,8 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "How-to"
 date = "2015-04-11T18:56:00-04:00"
 lastmod = "2015-04-11T18:56:00-04:00"
 preamble = "<p>\n\tAs a follow-up to my recent <a href=\"http://schmopera.com/5-tips-for-university-auditionees/\" target=\"_blank\">5 Tips for University Auditionees</a>, I wanted to extend advice to the parents of young singers. You're supportive, you travel long distances with your kids, and you wait around all day as they do their audition thing. Here are a few etiquette tips for parents, from the mouths of professional pianists who play auditions all day long.\n</p>"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428792894920/Juilliard2.jpg"
 publishDate = "2015-02-18T09:56:00-05:00"
 short_description = "As a follow-up to my recent 5 Tips for University Auditionees, I wanted to extend advice to the parents of young singers. You’re supportive, you travel long distances with your kids, and you wait around all day as they do their audition thing. Here are a few etiquette tips for parents, from the mouths of professional pianists who play auditions all day long."
 slug = "music-school-auditions-4-tips-for-parents"

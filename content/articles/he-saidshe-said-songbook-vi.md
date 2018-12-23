@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Tapestry Opera","Indie Opera T.O."]
 date = "2016-02-07T21:22:00-05:00"
 lastmod = "2016-02-09T12:09:00-05:00"
+people = ["Beth Hagerman","Wallis Giunta","Jordan de Souza","Michael Mori","Jonathan MacArthur","Shauna Yarnell","Andrew Staniland"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454963622669/Songbook-4Square.jpg"
 publishDate = "2016-02-09T11:47:00-05:00"
 short_description = "This past weekend marked the sixth in Tapestry Opera&#039;s Songbook series, which present new Canadian opera, performed by emerging Canadian artists. It sounds like a simple concept, but these workshop-showcase concerts are consistently an intense and memorable event."
 slug = "he-saidshe-said-songbook-vi"

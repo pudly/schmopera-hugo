@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Canadian Opera Company"]
 date = "2015-04-06T22:30:00-04:00"
 lastmod = "2015-04-13T21:36:00-04:00"
+people = ["Heidi Melton"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428373686503/Heidi-Melton.jpg"
 publishDate = "2015-01-26T14:00:00-05:00"
 short_description = "American dramatic soprano Heidi Melton is currently in Toronto to sing Sieglinde in Atom Egoyan’s upcoming production of Die Walküre at the Canadian Opera Company."
 slug = "talking-with-singers-heidi-melton"

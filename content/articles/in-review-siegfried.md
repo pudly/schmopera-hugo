@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Canadian Opera Company"]
 date = "2016-01-28T10:26:00-05:00"
 lastmod = "2016-01-28T17:38:00-05:00"
+people = ["Christine Goerke","Alan Held","Stefan Vinke","Christopher Purves","Johannes Debus"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454001943642/2016-01-28---SiegfriedSquare.jpg"
 publishDate = "2016-01-28T15:36:00-05:00"
 short_description = "Even since last season&#039;s Die Walküre at the Canadian Opera Company, I&#039;ve been experiencing acute anticipation for Wagner&#039;s Ring Cycle to continue. In Canada, we have to be more patient than most about our Wagner consumption, yet last night I was sated by François Girard&#039;s production of Siegfried."
 slug = "in-review-siegfried"

@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
 date = "2014-10-07T09:00:00-04:00"
 lastmod = "2015-04-15T17:10:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429132237310/Screen%20Shot%202015-04-15%20at%205.10.07%20PM.png"
 publishDate = "2014-10-07T09:00:00-04:00"
 short_description = "The other day I was presented with one of those artistic conundrums that&#039;s so simple it rarely occurs to me: the question of using microphones in live opera. If you&#039;re an opera lover, your nose probably just scrunched up a little bit at the thought of Violetta sporting a headset mic."
 slug = "the-microphone-question"

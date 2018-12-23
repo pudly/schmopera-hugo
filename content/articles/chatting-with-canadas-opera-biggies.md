@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["Canadian Opera Company","Tapestry Opera","Against the Grain Theatre","Krisztina Szabo"]
 date = "2015-04-10T21:24:00-04:00"
 lastmod = "2015-04-10T21:24:00-04:00"
+people = ["Alexander Neef","Wayne Gooding","Michael Mori"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428715450231/VegasRigoletto.jpg"
 publishDate = "2015-03-24T13:24:00-04:00"
 short_description = "Exciting news, everyone! Late next week, I&#039;ll be sitting down to chat with a panel of folks who certainly know their opera.\n\nThe topic? Regietheater productions, the role of the opera director, and how their innovative (and often wacky) ideas can propel opera forward."
 slug = "chatting-with-canadas-opera-biggies"

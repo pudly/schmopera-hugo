@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
 date = "2017-10-25T13:44:00-04:00"
 lastmod = "2017-10-26T23:18:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508955057517/2017-10-25---Baby.jpg"
 publishDate = "2017-10-26T23:18:00-04:00"
 short_description = "My focus was so great that it likely made me a not-very-interesting person to those outside of my opera bubble, but I didn&#039;t care. In the years of academia, summer opera programs, and YAP audition circuits, there was always someone with whom I could talk about my love affair with opera. We were all smitten, it seemed."
 slug = "opera-other-trysts-a-love-story"

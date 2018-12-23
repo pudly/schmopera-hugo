@@ -1,7 +1,9 @@
 +++
+author = "John Hohmann"
 categories = "Review"
 date = "2018-06-15T20:07:00-04:00"
 lastmod = "2018-07-09T12:37:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529107444772/CopyofPIL_4252.jpg"
 publishDate = "2018-06-15T20:07:00-04:00"
 short_description = "Broadly interpreted and playing to the opera&#039;s self styled emphasis on technology, Simulacrum is about the conflict between man and machine. More specifically, it is a story of futuristic angst told against a backdrop of techno-existentialism. "
 slug = "simulacrum-futuristic-angst-and-dance"

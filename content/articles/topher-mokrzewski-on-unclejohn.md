@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Against the Grain Theatre","The Banff Centre"]
 date = "2015-04-23T20:07:00+01:00"
 lastmod = "2016-11-27T21:29:00+00:00"
+people = ["Christopher Mokrzewski"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429816086981/Topher.jpg"
 publishDate = "2014-07-06T20:07:00+01:00"
 short_description = "Topher Mokrzewski is a man of many hats. As Music Director of Against the Grain Theatre, he has been the musical mind behind most of AtG Theatre&#039;s projects, including the Dora Award-winning Figaro&#039;s Wedding. Topher recently wrapped up a season as Calgary Opera&#039;s Resident Conductor, and his next stop is the Banff Centre for the Arts, for the inevitable #UncleJohn. "
 slug = "topher-mokrzewski-on-unclejohn"

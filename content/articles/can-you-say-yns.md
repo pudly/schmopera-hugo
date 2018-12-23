@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Humour"
 date = "2016-08-22T19:38:00+01:00"
 lastmod = "2016-08-26T09:09:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472134434939/2016-08-26---YNS-Marco-Borggreve.jpg"
 publishDate = "2016-08-26T09:09:00+01:00"
 short_description = "A little bit Stephen Colbert-esque, Nick chats with greats like conductor Yannick Nézet-Séguin and Emmanuel Ax (or, Yo-Yo Ma&#039;s accompanist) about their work. We can&#039;t quite tell if the interviewees knew what they were getting into with Nick, but we like it."
 slug = "can-you-say-yns"

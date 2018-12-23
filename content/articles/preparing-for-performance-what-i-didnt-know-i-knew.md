@@ -1,8 +1,11 @@
 +++
+author = "Frank Pesci"
 categories = "Op-ed"
+companies = ["Fort Worth Opera"]
 date = "2017-06-25T09:58:00-06:00"
 lastmod = "2017-06-26T21:55:00-06:00"
 preamble = "This is the third in a series of essays by composer and guest contributor Frank Pesci. In four installments originally published on [New Music Box](http://www.newmusicbox.org/articles/author/frank-pesci/), Pesci recounts his participation in Fort Worth Opera's [Frontiers](http://www.fwopera.org/operas/frontiers/) showcase, a major opportunity for emerging American composers. "
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498407470673/2017-06-25---Performance.jpg"
 publishDate = "2017-06-26T21:22:00-06:00"
 short_description = "I&#039;ve always been amazed how the rehearsal process produces in me a higher awareness of what I have written. To think that I know every motivation behind every note and gesture is, for me, conceit. I need another&#039;s inquiries to drag out the nuggets of meaning and all the things I didn&#039;t know I knew about the piece. "
 slug = "preparing-for-performance-what-i-didnt-know-i-knew"

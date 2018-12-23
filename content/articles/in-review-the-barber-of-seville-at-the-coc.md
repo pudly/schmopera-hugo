@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Canadian Opera Company Ensemble Studio","Canadian Opera Company"]
 date = "2015-04-20T10:03:00-04:00"
 lastmod = "2015-04-22T13:17:00-04:00"
+people = ["Alek Shrader","Joshua Hopkins","Serena Malfi","Robert Gleadow","Aviva Fortunata","Ferruccio Furlanetto"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429538555915/Barber-MC-1761.jpg"
 publishDate = "2015-04-20T11:57:00-04:00"
 short_description = "I went yesterday afternoon to see The Barber of Seville at the Four Seasons Centre. The anticipation was serious, especially since I was able to see the director&#039;s concept discussion, and I interviewed three singers from the cast, Joshua Hopkins, Alek Shrader, and Serena Malfi."
 slug = "in-review-the-barber-of-seville-at-the-coc"

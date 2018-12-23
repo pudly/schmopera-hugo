@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
 date = "2018-09-22T15:50:00-04:00"
 lastmod = "2018-09-23T20:50:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537645773505/sqDSC01468.jpg"
 publishDate = "2018-09-23T19:52:00-04:00"
 short_description = "The concert - aptly titled Countertenor Madness! - is likely to be a crash course in what makes the countertenor one of opera&#039;s most exciting voice types. "
 slug = "dont-miss-countertenor-madness"

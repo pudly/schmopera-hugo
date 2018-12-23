@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Essential Opera"]
 date = "2014-04-08T08:00:00-04:00"
 lastmod = "2015-04-27T18:23:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429843272594/TripleBill-829x1024.jpg"
 publishDate = "2014-04-08T08:00:00-04:00"
 short_description = "This past weekend, Essential Opera achieved a true feat in the Canadian opera scene: they presented a triple bill of Canadian works, all brand new. It was really exciting to see an event like this in Toronto; to hear Canadian opera, you most likely need to attend something involving Tapestry New Opera Works. "
 slug = "in-review-essential-operas-triple-bill"

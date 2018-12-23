@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
+companies = ["Lyric Opera of Chicago","The Metropolitan Opera","Los Angeles Opera"]
 date = "2015-05-26T09:06:00-04:00"
 lastmod = "2015-06-17T15:23:00-04:00"
+people = ["Plácido Domingo","Renée Fleming","Neil Shicoff"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432836908224/ReneePlacidoNeil.jpg"
 publishDate = "2015-05-29T14:06:00-04:00"
 short_description = "Within the last few weeks, a few of today&#039;s most admired opera singers have announced how they keep making waves in the industry, this time from off-stage. "
 slug = "singers-branching-out"

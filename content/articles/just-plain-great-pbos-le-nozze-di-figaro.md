@@ -1,7 +1,10 @@
 +++
+author = "Carly Gordon"
 categories = "Review"
+companies = ["Palm Beach Opera"]
 date = "2018-03-26T21:38:00-04:00"
 lastmod = "2018-03-27T09:29:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522114263696/sq---PBO-Figaro-1.jpg"
 publishDate = "2018-03-26T21:38:00-04:00"
 short_description = "Palm Beach Opera put on a great show, but it&#039;s worth noting that the aspects that made it so great – a stellar cast, thoughtful design, skillful interpretation – can be applied to any opera, regardless of inclusion in the Greatness canon."
 slug = "just-plain-great-pbos-le-nozze-di-figaro"

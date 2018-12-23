@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["The Bicycle Opera Project"]
 date = "2017-08-03T12:39:00-04:00"
 lastmod = "2017-08-03T13:08:00-04:00"
+people = ["Stephanie Tritchew","Larissa Koniuk","Jennifer Nichols","Keith Lam","Emma Char","Caitlin Wood","Geoffrey Sirett","Catherine Daniel"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501778798035/2017-08-03---Square---Sweatstills-photobyDahliaKatz-4998.jpg"
 publishDate = "2017-08-03T13:05:00-04:00"
 short_description = "It&#039;s a story that confirms one&#039;s hunches about where their $12 tank tops come from, and one that addresses the unresolved truths that are sadly outweighed by the temptations of corporate profit and customer convenience (&quot;If I don&#039;t buy it, someone else will.&quot;). The opera itself is a cross between an ensemble piece and a vaguely heroic story of one factory worker who fights for fair treatment."
 slug = "in-review-sweat"
