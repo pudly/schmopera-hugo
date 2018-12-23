@@ -1,16 +1,24 @@
 +++
 contact_email = "person@fakecompany.com"
 date = "2018-12-23T01:51:08+00:00"
-facebook = "https://facebook.com/fakecompany"
-instagram = "https://instagram.com/fakecompany"
+facebook = ""
+instagram = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545529805/media/2018/12/Dunder_Mifflin%2C_Inc.svg.png"
 primary_image_credit = "Wikipedia"
 slug = "fake-company"
 title = "Fake Company"
-twitter = "https://twitter.com/fakecompany"
+twitter = ""
 type_of_company = "Made up fictitious Company"
 website_url = "https://www.fakecompany.com"
-youtube = "https://youtube.com/fakecompany"
+youtube = ""
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "http://facebook.com"
+[[social_media]]
+platform = " Twitter"
+template = "social-media"
+url = "twitter.com/something"
 
 +++
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in congue erat. Quisque eget varius justo. Curabitur a feugiat nulla, sed pulvinar arcu. Aenean nisi dolor, tempor tempor justo eget, interdum placerat mauris. Aliquam at erat eget diam cursus efficitur. Curabitur malesuada tempor ex, eu consequat quam. Nunc tellus ante, varius nec rhoncus quis, facilisis porta felis. Suspendisse sed tempor sapien, et tempor dolor. Sed eget pulvinar arcu. Nulla facilisi. Sed varius nibh est, non gravida enim sagittis nec. Donec vulputate orci vel elit commodo, vitae efficitur odio viverra. Fusce consectetur rhoncus justo, commodo feugiat tortor sollicitudin vitae.
