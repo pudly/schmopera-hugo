@@ -11,7 +11,7 @@ fields:
       type: simple
     options:
     - Facebook
-    - " Twitter"
+    - Twitter
     - Instagram
     - Youtube
     - Linkedin
