@@ -21,8 +21,10 @@ sections:
 - type: directory
   path: content/scene/companies
   label: Companies
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - company
 - type: directory
   path: content/scene/people
   label: People
