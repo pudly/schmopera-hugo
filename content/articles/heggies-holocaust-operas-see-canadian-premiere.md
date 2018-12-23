@@ -5,6 +5,7 @@ date = "2018-01-30T21:07:00-05:00"
 lastmod = "2018-02-01T10:16:00-05:00"
 people = ["Sara Schabas","Jake Heggie"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517435634108/sq---Schabas-1.jpg.jpg"
+primary_image_credit = "Photo: Jim Roe."
 publishDate = "2018-01-31T20:35:00-05:00"
 short_description = "&quot;What we wanted to explore in these pieces is, what it is to survive when you&#039;re not necessarily doing heroic things, you&#039;re just surviving,&quot; Heggie says of his Holocaust-themed one-acts. &quot;What Krystyna had to do in order to survive was not heroic, it was horrifying.&quot;"
 slug = "heggies-holocaust-operas-see-canadian-premiere"

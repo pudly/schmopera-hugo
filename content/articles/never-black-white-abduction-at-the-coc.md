@@ -6,6 +6,7 @@ date = "2018-02-09T11:43:00-05:00"
 lastmod = "2018-02-09T17:22:00-05:00"
 people = ["Jane Archibald","Mauro Peter","Claire de Sévigné","Owen McCausland"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518193482982/sq---17-18-04-MC-D-1013.jpg.jpg"
+primary_image_credit = "Claire de Sévigné as Blonde and Owen McCausland as Pedrillo in the Canadian Opera Company’s new production of The Abduction from the Seraglio, 2018. Photo: Michael Cooper."
 publishDate = "2018-02-09T11:52:00-05:00"
 short_description = "It was a decidedly more positive portrayal of the &quot;Mohameddans&quot; as they&#039;re called in a new prologue by Mouawad. However, we are sort of expected to gloss over the fact that Bassa Selim is involved in the slave trade (he hands Blonde off to Osmin as property) and reward him for being &quot;kind&quot; to Konstanze and Blonde  - meaning he didn&#039;t imprison them or send them to the kitchens, but to the bedrooms."
 slug = "never-black-white-abduction-at-the-coc"

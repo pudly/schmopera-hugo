@@ -6,6 +6,7 @@ date = "2018-03-24T20:31:00-04:00"
 lastmod = "2018-03-24T20:59:00-04:00"
 people = ["Kelly Kaduce","Daniel Belcher"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521937792283/sq---BLO2018_3PO2.jpg.jpg"
+primary_image_credit = "Kelly Kaduce as Polly Peachum sings the iconic “Pirate Jenny” in the Boston Lyric Opera’s production of Weill and Brecht’s THE THREEPENNY OPERA, running March 16-25 at the Huntington Avenue Theatre. BLO.org. Photo: Liza Voll Photography."
 publishDate = "2018-03-24T20:31:00-04:00"
 short_description = "And then Kelly Kaduce came onstage: when her Polly Peachum walked on in an unglamorous wedding dress and unkempt black hair playing a sarcastic, monotone version of the typical operatic ingenue her character is written as, it became clear exactly what the work was setting out to do."
 slug = "blos-threepenny-opera-a-misanthropic-delight"

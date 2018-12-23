@@ -6,6 +6,7 @@ date = "2018-06-25T10:07:00-04:00"
 lastmod = "2018-06-26T16:45:00-04:00"
 people = ["Craig Irvin","Susannah Biller","Anna Christy"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530045801775/sqiDSC_4878.jpg.jpg"
+primary_image_credit = "A scene from Die Fledermaus, Des Moines Metro Opera, 2018. Photo: (c) Duane Tinkey for Des Moines Metro Opera."
 publishDate = "2018-06-26T16:45:00-04:00"
 short_description = "Although Frosch is a relatively minor character in the operetta, Brian Frutiger quite frankly stole the entire last act in my opinion. His physical comedy and drunken slur had the audience in stitches during his first scene, and I think he could have kept ad libbing for an hour without any complaints from the crowd."
 slug = "a-nextlevel-fledermaus-in-des-moines"

@@ -6,6 +6,7 @@ date = "2018-01-29T17:43:00-05:00"
 lastmod = "2018-01-29T21:42:00-05:00"
 people = ["Catherine Martin","Karen Slack","Seth Carico","Dennis Petersen","Emily Pulley","Jake Heggie","Joel Ivany"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517269123898/sq---_37A2352.jpg.jpg"
+primary_image_credit = "Seth Carico as Joseph De Rocher in the Minnesota Opera premiere of Dead Man Walking. Photo: Cory Weaver."
 publishDate = "2018-01-29T20:59:00-05:00"
 short_description = "There were ominous prison guards lurking above the action throughout the whole opera, and a confusing element of the set was the huge American flag, which hung above center stage. What was the message? That Americans are the only ones who deal with capital punishment?"
 slug = "dead-man-walking-makes-its-minnesota-opera-debut"

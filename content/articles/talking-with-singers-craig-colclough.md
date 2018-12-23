@@ -6,6 +6,7 @@ date = "2017-05-15T19:42:00-04:00"
 lastmod = "2017-05-23T07:21:00-04:00"
 people = ["Craig Colclough"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495062736369/2017-05-15---Craig-Colclough.jpg.jpg"
+primary_image_credit = "Photo: Chris Gloag."
 publishDate = "2017-05-22T21:45:00-04:00"
 short_description = "Immaturity may not seem like it goes hand-in-hand with an artist who is serious about his work, but Colclough makes a great point. &quot;If you get too serious or too full of yourself or too jaded,&quot; he says, &quot;you start cutting off emotional parts of yourself that you need to use onstage.&quot; It&#039;s part of what&#039;s scary about singing or acting, to be an open, vulnerable person, in life as well as at work."
 slug = "talking-with-singers-craig-colclough"

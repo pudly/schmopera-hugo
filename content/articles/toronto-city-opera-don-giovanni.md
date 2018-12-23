@@ -5,6 +5,7 @@ companies = ["Toronto City Opera"]
 date = "2015-04-10T23:41:00-04:00"
 lastmod = "2015-04-12T19:53:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428723386294/Screen-Shot-2015-02-26-at-9.30.45-AM.png"
+primary_image_credit = "Photo: Carla-Grace Colaguori (Zerlina) and Bradley Hoover (Don Giovanni) in Toronto City Opera's production of Don Giovanni."
 publishDate = "2015-02-26T09:40:00-05:00"
 short_description = "Wednesday night, I went to see Don Giovanni at Toronto City Opera; I don’t know much about the company, and I was most surprised to learn that they’re in their 48th season. Forty eighth! TCO’s mission is to “grow the art of opera. It will facilitate this by training young and/or inexperienced singers through an intense regimen of coaching in musicianship, stagecraft and performance.” I’m a big fan of companies who create performance opportunities for young singers. "
 slug = "toronto-city-opera-don-giovanni"

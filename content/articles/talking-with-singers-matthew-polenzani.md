@@ -6,6 +6,7 @@ date = "2017-03-24T15:44:00+00:00"
 lastmod = "2017-03-28T08:42:00+01:00"
 people = ["Matthew Polenzani"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490370440510/2017-03-24---Matthew-Polenzani---Fay-Fox.jpg.jpg"
+primary_image_credit = "Photo by Fay Fox."
 publishDate = "2017-03-27T10:45:00+01:00"
 short_description = "&quot;If you&#039;re going through a divorce, or there&#039;s been a death in the family, or your children are misbehaving, or whatever it is, that stuff can be difficult on a voice.&quot; Polenzani has watched his own colleagues go through tough times in their offstage lives, and the personal costs are certainly audible in a singer&#039;s voice. &quot;On the other hand, I also know singers who have been through divorce who are singing better afterwards, because the stress of a failing marriage was difficult on their voices.&quot;"
 slug = "talking-with-singers-matthew-polenzani"

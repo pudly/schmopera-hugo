@@ -5,6 +5,7 @@ companies = ["Hungarian State Opera"]
 date = "2015-06-11T20:47:00-04:00"
 lastmod = "2015-06-13T13:14:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434070561606/mefistofele_053_resize_Zs%C3%B3fia-P%C3%A1lyiSquare.jpg.jpg"
+primary_image_credit = "A scene from Mefistofele at the Hungarian State Opera. Photo by Zsófia Pályi."
 publishDate = "2015-06-13T10:45:00-04:00"
 short_description = "In late May I had the opportunity to experience opera from an entirely different viewpoint from which many of us are accustomed to in larger North American opera centres. I spent 10 glorious days in Budapest, attending operas, concerts and recitals in a variety of stunning venues, listening to a wide range of soloists, orchestral and choral ensembles in productions that simply blew the mind of this Torontonian."
 slug = "opera-on-steroids-budapest"

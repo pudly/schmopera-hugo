@@ -6,6 +6,7 @@ date = "2016-06-06T09:24:00+01:00"
 lastmod = "2016-06-06T16:13:00+01:00"
 people = ["Dean Burry","Giles Tomkins"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465205478918/2016-06-06---Hobbit.jpg.jpg"
+primary_image_credit = "The CCOC rehearses The Hobbit with Giles Tomkins. Photo: Gregory Finney."
 publishDate = "2016-06-06T12:29:00+01:00"
 short_description = "&quot;I think the hardest part was trying to figure out my character. For some characters, they&#039;re really specific in what they want and need, but other characters - like mine - you have to figure it all out on your own. I had go on the internet and find out a bunch of stuff on my character. &quot;"
 slug = "over-the-misty-mountains-the-ccoc-on-the-hobbit"

@@ -10,7 +10,10 @@ publishDate = "2015-08-15T20:24:00+02:00"
 short_description = "You probably know American-Italian soprano Anna Moffo as Violetta, Susanna, Manon, Cio-Cio San, Périchole, Gilda, Lucia di Lammermoor, really any lead soprano role in Italian or French, it seems. Have you heard of her Italian TV show from the 1960s, Anna Moffo Show? Television and film were always staples in Moffo&#039;s operatic career, and I think it&#039;s pretty darn impressive for a woman in Italy, 50 years ago, to have her own TV show."
 slug = "gems-the-anna-moffo-show"
 title = "Gems: The Anna Moffo Show"
-youtube_url = "https://www.youtube.com/watch?v=s1UVAmsIYcs"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/watch?v=s1UVAmsIYcs"
 +++
 
 

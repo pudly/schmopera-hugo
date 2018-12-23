@@ -6,8 +6,11 @@ publishDate = "2017-10-09T11:19:00-04:00"
 short_bio = "Jeremy Hirsch is a contributor to the opera blog Schmopera, primarily covering new opera in New York City. While at Peabody Conservatory, Hirsch studied English literature at Johns Hopkins University as a member of the institutions’ double degree program. Hirsch is also a professional bass-baritone. He has been described as &quot;a compelling actor and singer&quot; (*Los Angeles Times*), and enjoys performing a wide range of opera, art song, and concert repertoire."
 slug = "jeremy-hirsch"
 title = "Jeremy Hirsch"
-twitter = "https://twitter.com/JHirschMusic"
 website = "http://www.jeremyhirschbaritone.com/"
+[[social_media]]
+platform = " Twitter"
+template = "social-media"
+url = "https://twitter.com/JHirschMusic"
 +++
 
 Jeremy Hirsch is a contributor to the opera blog Schmopera, primarily covering new opera in New York City. While at Peabody Conservatory, Hirsch studied English literature at Johns Hopkins University as a member of the institutions’ double degree program.

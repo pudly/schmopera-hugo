@@ -5,6 +5,7 @@ date = "2017-02-25T16:41:00+00:00"
 lastmod = "2017-02-26T11:21:00+00:00"
 people = ["Matthias Goerne"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488043709244/DVSzPkL_LBhgb0ApqobAE8qnbneRS0pwhChWCSSr7kWCdc1a7NQQJvz6C3z1KjV2s1ocTbVnC-ZxGn5p0OysjcrWU_4%3Dw1360-h1360"
+primary_image_credit = "Photo: Marco Borggreve."
 publishDate = "2017-02-26T11:21:00+00:00"
 short_description = "Not only did Hinterhäuser make for an uncomfortable start to a recital, but he seemed to behave it poor, selfish taste. Goerne seemed prepared to continue singing, even if Hinterhäuser needed to scramble to save the missed page-turn; yet this pianist decided to stop the whole thing entirely, draw attention to the human error that may have happened beside him, and force Goerne to restart."
 slug = "at-arms-length-goerne-hinterhauser-in-recital"

@@ -6,6 +6,7 @@ date = "2017-05-16T10:27:00-04:00"
 lastmod = "2017-05-16T13:10:00-04:00"
 people = ["Natalya Matyusheva","Keith Klassen","Adam Fisher","Krisztina Szabó","Tom Diamond","Jordan de Souza","Michael Mori","Aaron Gervais"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494948103861/2017-05-16---OksanaGPromoShoot_HeatherKilner.jpg.jpg"
+primary_image_credit = "Natalya Gennadi in the title role of Oksana G., Tapestry Opera, 2017. Photo: Heather Kilner."
 publishDate = "2017-05-16T12:37:00-04:00"
 short_description = "&quot;This is very common, and I have heard lots of stories like this,&quot; she says. Economic desperation, and a certain level of naïveté can make it quite simple for recruiters to entice young women with the promise of decently paying work. Gennadi grew up in the Ukraine, and she is of a similar age to Oksana herself. &quot;I understand this desperate desire to improve your life.&quot;"
 slug = "oksana-g-its-so-out-of-this-world-and-yet-so-realistic"

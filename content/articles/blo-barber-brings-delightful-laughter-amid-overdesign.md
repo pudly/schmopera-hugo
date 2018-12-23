@@ -6,6 +6,7 @@ date = "2018-10-13T10:10:00-04:00"
 lastmod = "2018-10-13T16:07:00-04:00"
 people = ["Daniela Mack"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539439833095/sqBLO2018_Barber-10.jpg.jpg"
+primary_image_credit = "Daniela Mack (Rosina) in Boston Lyric Opera's new production of The Barber of Seville, directed by Rosetta Cucchi, 2018. Photo: Liza Voll Photography."
 publishDate = "2018-10-13T10:10:00-04:00"
 short_description = "So was this production of Barbiere overdesigned? For sure. But unlike most overdesigned productions, the director remembered that, at the end of the day, opera is a storytelling medium, and she carried that knowledge into the performances just as much as the production design. The result was thus a delight to watch, and even with the occasional misstep it proved to be perhaps the best demonstration of Italian opera I have seen in a long time."
 slug = "blo-barber-brings-delightful-laughter-amid-overdesign"

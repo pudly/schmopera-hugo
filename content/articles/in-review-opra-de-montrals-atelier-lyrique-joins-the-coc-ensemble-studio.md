@@ -6,6 +6,7 @@ date = "2014-02-22T17:14:00-05:00"
 lastmod = "2015-04-27T21:35:00-04:00"
 people = ["Claire de Sévigné","Andrew Haji","Aviva Fortunata","Cairan Ryan"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430184767993/Ensemble-Studio%2BODM-Photo-by-Karen-Reeves-720x479.jpg.jpg"
+primary_image_credit = "Artists of l'Opéra de Montréal's Atelier lyrique & the COC Ensemble Studio. Photo by Karen Reeves."
 publishDate = "2014-02-22T17:14:00-05:00"
 short_description = "Each year the COC Ensemble and the Atelier lyrique de L&#039;Opéra de Montréal send several of their respective artists on a week-long exchange. The artists travel to Toronto or to Montréal to work with teachers, coaches and dramaturges at the opposite company, and give local concerts highlighting the visiting singers and pianists."
 slug = "in-review-opra-de-montrals-atelier-lyrique-joins-the-coc-ensemble-studio"

@@ -7,7 +7,10 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/m
 publishDate = "2015-10-12T09:00:00-04:00"
 slug = "victor-borges-mozart-opera"
 title = "Victor Borge&#039;s Mozart Opera"
-youtube_url = "https://www.youtube.com/watch?v=ZKkZXSJO5iU"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/watch?v=ZKkZXSJO5iU"
 +++
 
 Weekend smiles, brought to you by the hilarious and beloved Victor Borge.

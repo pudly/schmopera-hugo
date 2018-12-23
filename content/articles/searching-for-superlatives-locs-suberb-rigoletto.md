@@ -6,6 +6,7 @@ date = "2017-10-08T23:02:00-04:00"
 lastmod = "2017-10-08T23:32:00-04:00"
 people = ["Quinn Kelsey","Matthew Polenzani","Rosa Feola","Zanda Švēde"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507518563006/2017-10-09---square---Quinn-Kelsey_RIGOLETTO_LYR171004_175_c.Todd-Rosenberg.jpg.jpg"
+primary_image_credit = "Quinn Kelsey in the title role of Rigoletto, Lyric Opera of Chicago, 2017. Photo: Todd Rosenberg."
 publishDate = "2017-10-08T23:26:00-04:00"
 short_description = "Here is when a reviewer typically starts reaching into his bag of superlatives, but at the risk of hyperbolizing, Kelsey&#039;s performance sets a new standard. At just 39 years old, the Ryan-Opera-Center-alumnus looked and sounded every bit the part of a father aged and disfigured by paranoia, disillusionment, and delusion."
 slug = "searching-for-superlatives-locs-suberb-rigoletto"

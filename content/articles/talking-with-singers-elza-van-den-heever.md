@@ -7,6 +7,7 @@ lastmod = "2016-11-02T13:57:00+00:00"
 people = ["Elza van den Heever"]
 preamble = "South African soprano [Elza van den Heever](/scene/people/elza-van-den-heever/) is currently in Toronto to sing one of her signature roles, Bellini's Norma; shared with  [Sondra Radvanovsky](/review-sondra-slays-in-bellini-masterwork/), van den Heever sings the final four performances of Kevin Newbury's [*Norma* at the Canadian Opera Company](http://www.coc.ca/PerformancesAndTickets/1617Season/Norma.aspx). Like Elsa in *Lohengrin* and the Elisabettas of *Maria Stuarda* and *Don Carlo*, Norma is one of the enviable roles which fill van den Heever's calendar.\n\nShe chats about Bellini's iconic role, singing smart, and her favourite spots in Toronto."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477953267442/2016-10-31---Elza_by-Dario-Acosta-2.jpg.jpg"
+primary_image_credit = "Photo by Dario Acosta."
 publishDate = "2016-11-02T13:33:00+00:00"
 short_description = "&quot;&#039;Casta Diva&#039; alone is of course that one moment of magic that craves to be sung to absolute precision - problem is, at least for me, that the aria is truly very low in the soprano tessitura and makes it just incredibly difficult and uncomfortable if you&#039;re nervous. It’s at the top of the show where you are most vulnerable and scared and nerves often get in the way.&quot;"
 slug = "talking-with-singers-elza-van-den-heever"

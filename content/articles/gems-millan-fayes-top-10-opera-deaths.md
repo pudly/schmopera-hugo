@@ -10,7 +10,10 @@ publishDate = "2015-11-08T12:33:00-05:00"
 short_description = "Singing through tuberculosis, poisonous leaves, or death by high note? Millan &amp; Faye are soprano and opera comedienne Kyra Millan, and pianist and straight man extraordinaire Tina Faye. In this hilarious short, they opera&#039;s ten best death scenes in under 5 minutes. I&#039;ll admit to laughing out loud at Rigoletto."
 slug = "gems-millan-fayes-top-10-opera-deaths"
 title = "Gems: Millan &amp; Faye&#039;s Top 10 Opera Deaths"
-youtube_url = "https://youtu.be/Tc4wNVoZsaU"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://youtu.be/Tc4wNVoZsaU"
 +++
 
 

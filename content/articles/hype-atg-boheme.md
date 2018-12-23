@@ -6,6 +6,7 @@ date = "2017-05-20T11:59:00-04:00"
 lastmod = "2017-05-20T21:56:00-04:00"
 people = ["Owen McCausland","Kimy McLaren","Andrew Love","Adanya Dunn","Micah Schroeder","Kenneth Kellogg","Gregory Finney","Joel Ivany","Christopher Mokrzewski"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495295657339/2017-05-20---AtGBoheme-Square.jpg.jpg"
+primary_image_credit = "Kimy McLaren and Owen McCausland in AtG's La bohème, 2017. Photo: Darryl Block Photography."
 publishDate = "2017-05-20T14:24:00-04:00"
 short_description = "There are a few moments that always kill me in La bohème. There&#039;s the sexy &quot;buona sera/good night&quot; that Rodolfo says to Mimì in Act I; there&#039;s that that part in Act IV where he tells her she&#039;s as pretty as a sunrise, and she corrects his poetry, saying it should be &quot;sunset&quot;. There&#039;s the look on Schaunard&#039;s face when their fun and games pull a sudden 180, and he&#039;s faced with the scene of a dying woman and a very sad friend."
 slug = "hype-atg-boheme"

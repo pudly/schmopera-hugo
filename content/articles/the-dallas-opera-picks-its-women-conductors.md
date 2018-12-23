@@ -6,6 +6,7 @@ date = "2015-06-05T16:15:00-04:00"
 lastmod = "2015-06-17T15:24:00-04:00"
 people = ["Luçik Aprahämian","Natalie Murray Beale","Stephanie Rhodes","Lidiya Yankovskaya","Arianne Abela","Jennifer Condon","Jessica Gethin"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433556787617/o-MAESTRO-facebook.jpg.jpg"
+primary_image_credit = "Photo: Getty Images"
 publishDate = "2015-06-08T12:31:00-04:00"
 short_description = "The Dallas Opera has created a new residential program, the Institute for Women Conductors. &quot;This program has already generated tremendous international interest, and over extremely 100 talented women applied -- from the U.S. and 26 other countries. The field was extremely competitive, and the acceptance on the program is recognition of the significant accomplishments in the candidate’s career to date.&quot;"
 slug = "the-dallas-opera-picks-its-women-conductors"

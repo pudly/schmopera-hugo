@@ -7,6 +7,7 @@ lastmod = "2016-01-22T11:19:00-05:00"
 people = ["Lydia Teuscher","Allyson McHardy","Frédéric Antoun","Philippe Sly","Joel Ivany"]
 preamble = "Greg Finney and I went to see one of Toronto's most anticipated concert events, presented by the Toronto Symphony Orchestra. Maestro Bernard Labadie returns to the TSO to conduct Mozart's *Requiem*, in an unique presentation led by director Joel Ivany, of [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/). Ivany has staged Mozart's unfinished work, giving movement and arc to the four soloists, [Lydia Teuscher](/scene/people/lydia-teuscher/), [Allyson McHardy](/scene/people/allyson-mchardy/), [Frédéric Antoun](/scene/people/frederic-antoun/), and [Philippe Sly](/scene/people/philippe-sly/), and both the Amadeus Choir and the Elmer Isler Singers. "
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453438860078/2016-01-22---Requiem-Square.jpg.jpg"
+primary_image_credit = "l-r: Lydia Teuscher, Frédéric Antoun, Philippe Sly, and Allyson McHardy. Background: Bernard Labadie. Photo: Michael Morreale"
 publishDate = "2016-01-22T11:00:00-05:00"
 short_description = "Greg Finney and I went to see one of Toronto&#039;s most anticipated concert events, presented by the Toronto Symphony Orchestra. Maestro Bernard Labadie returns to the TSO to conduct Mozart&#039;s Requiem, in an unique presentation led by director Joel Ivany, of Against the Grain Theatre."
 slug = "he-saidshe-said-mozarts-requiem-at-tso"

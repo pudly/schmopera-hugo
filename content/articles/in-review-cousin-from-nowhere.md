@@ -6,6 +6,7 @@ date = "2014-05-03T14:22:00-04:00"
 lastmod = "2015-04-27T18:05:00-04:00"
 people = ["Charlotte Knight","Lucia Cesaroni","Gregory Finney","Christopher Mayell"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429836471370/Cousin-from-Nowhere-6321-1024x681.jpg.jpg"
+primary_image_credit = "Christopher Mayell and Lucia Cesaroni in TOT's Cousin from Nowhere. All photos by Emily Ding"
 publishDate = "2014-05-03T14:22:00-04:00"
 short_description = "I went to Toronto Operetta Theatre&#039;s Cousin From Nowhere, an English translation of Eduard Künneke&#039;s Das Vetter aus Dingsda. Whenever I go and hear TOT shows, I always end up hearing some new music that gets stuck in my head, sung by lovely Canadian talent. "
 slug = "in-review-cousin-from-nowhere"

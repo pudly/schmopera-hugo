@@ -6,6 +6,7 @@ date = "2018-01-17T21:02:00-05:00"
 lastmod = "2018-01-18T09:09:00-05:00"
 people = ["Blythe Gaissert"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516240460857/sq---Echo_Drift_Baranova-7020.jpg.jpg"
+primary_image_credit = "Blythe Gaissert in The Echo Drift, Prototype Festival, 2018. Photo: Maria Baranova."
 publishDate = "2018-01-17T21:02:00-05:00"
 short_description = "The moth, appealingly mesmerizing, could have a spin-off opera all to itself. Created by individual acrylic paintings set in stop-motion animation, it moves like an insect shadow ricocheting off a porch light on a chilly autumn night in the country."
 slug = "the-start-of-something-powerful-the-echo-drift"

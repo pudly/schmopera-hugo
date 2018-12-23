@@ -6,6 +6,7 @@ date = "2016-09-23T09:02:00+01:00"
 lastmod = "2016-09-23T12:30:00+01:00"
 people = ["Renée Fleming"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474617919367/2016-09-23---TSO_Renee-Fleming-2-credit-Dale-Wilcox.jpg.jpg"
+primary_image_credit = "Soprano Renée Fleming with the TSO. Dale Wilcox."
 publishDate = "2016-09-23T09:12:00+01:00"
 short_description = "After three encores that included a sing-along of &quot;I Could Have Danced All Night&quot; and &quot;Summertime&quot;, her third encore closed the show with a touching and soaring rendition of &quot;O mio babbino caro&quot;. The ovation went on for what seemed like several minutes and people were reluctant to leave their seats. "
 slug = "renee-fleming-tso"

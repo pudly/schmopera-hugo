@@ -7,6 +7,7 @@ lastmod = "2016-03-04T13:01:00+00:00"
 people = ["Patricia Racette","Lucio Gallo","Carl Tanner","Ermonela Jaho"]
 preamble = "Photo: Rebecca Evans (Nella), Paolo Fanale (Rinuccio), Carlo Bosi (Gherardo), David Kempster (Marco), Gwynne Howell (Simone), Jeremy White (Betto), Marie McLaughlin (La Ciesca), Elena Zilio (Zita). ROH. Photographer: Bill Cooper."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457092742979/%C2%A9BC20160222_GIANNI_SCHICCHI_1478-SEE-PHOTO-CAPTIONS-LIST-(C)-ROH.-PHOTOGRAPHER-BILL-COOPER---square.jpg.jpg"
+primary_image_credit = "Photographer: Bill Cooper."
 publishDate = "2016-03-04T13:01:00+00:00"
 short_description = "We were thrilled to get a three-for-one deal with our inaugural trip to the ROH, in the form of Richard Jones&#039; production of Puccini&#039;s Il trittico. The through line holding together the stories of Il tabarro, Suor Angelica and Gianni Schicchi was the original theme: the fact that Puccini wrote them. The shows looked as different as the stories they told, and it was a true feast for opera lovers with slight ADD."
 slug = "in-review-il-trittico-at-roh"

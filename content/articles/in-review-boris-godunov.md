@@ -6,6 +6,7 @@ date = "2016-03-19T10:32:00+00:00"
 lastmod = "2016-03-19T15:05:00+00:00"
 people = ["Bryn Terfel","Ain Anger","David Butt Philip"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458398140443/Square---BRYN-TERFEL-AS-BORIS-GODUNOV-ROH-PHOTOGRAPH-BY-CATHERINE-ASHMORE.jpg.jpg"
+primary_image_credit = "Bryn Terfel as Boris Godunov. Copyright: ROH. Photo by Catherine Ashmore."
 publishDate = "2016-03-19T14:50:00+00:00"
 short_description = "Richard Jones makes much of this incessant guilt, exaggerating the unjustness of Boris&#039; actions with childish images of colourful spinning tops and a cherub-like mask on the silent Dmitry. Jones carries the image through the final tableau, driving home the sacrifices of the young and innocent, when men seek political power."
 slug = "in-review-boris-godunov"

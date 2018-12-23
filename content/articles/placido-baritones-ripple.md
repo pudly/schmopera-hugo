@@ -6,6 +6,7 @@ date = "2015-09-04T16:48:00+01:00"
 lastmod = "2016-06-08T10:14:00+01:00"
 people = ["Plácido Domingo"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441388095638/DomingoRigolettoSquare.jpg.jpg"
+primary_image_credit = "A scene from Rigoletto a Mantova. Photo: © RadaFilm/C. Gigliotti, 2010."
 publishDate = "2015-09-08T13:00:00+01:00"
 short_description = "The complaint is: legendary tenor Plácido Domingo has retired his notorious Don José, Cavaradossi, and Otello, and has started taking on baritone roles (Oreste in Iphigénie en Tauride, and the title roles in Simon Boccanegra and Rigoletto). The argument is that his singing these roles takes away a potential gig from a hard-working, vocally appropriate Verdi baritone."
 slug = "placido-baritones-ripple"

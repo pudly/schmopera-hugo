@@ -8,7 +8,10 @@ publishDate = "2017-01-29T19:33:00+00:00"
 short_description = "It propelled the stereotype that opera singers are angry, horned ladies. It taught us some of Wagner&#039;s best tunes, before we even realized what they were. It tugged at our heartstrings, tickled our funny bones. It&#039;s one of the most epic face-offs between Bugs and Elmer, cloaked in a 7-minute version of the entirety of Wagner&#039;s &quot;Der Ring des Nibelungen&quot;. If you haven&#039;t yet seen it, get comfy and prepare yourself for some genius."
 slug = "a-true-operatic-classic-kill-the-wabbit"
 title = "A true operatic classic: &quot;Kill the wabbit!&quot;"
-youtube_url = "https://vimeo.com/115773980"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://vimeo.com/115773980"
 +++
 
 It propelled the stereotype that opera singers are angry, horned ladies. It taught us some of Wagner's best tunes, before we even realized what they were. It tugged at our heartstrings, tickled our funny bones.

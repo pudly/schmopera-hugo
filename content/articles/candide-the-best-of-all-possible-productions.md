@@ -6,6 +6,7 @@ date = "2018-02-16T21:30:00-05:00"
 lastmod = "2018-02-16T22:24:00-05:00"
 people = ["Peabody Southwell","Jack Swanson","Brian Michael Moore","Matthew Scollin","Erin Morley"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518833177910/sq---cand_0016_pr.jpg.jpg"
+primary_image_credit = "Kelsey Grammer as Voltaire in LA Opera's 2018 production of Candide. Photo: Ken Howard/LA Opera."
 publishDate = "2018-02-16T21:30:00-05:00"
 short_description = "All of Candide’s disasters could translate into a disastrous evening, but thanks to the clear and sure hand of director Zambello, the humor is allowed to speak for itself without too many additional bits and gags that often make a funny show tiresome and unwatchable."
 slug = "candide-the-best-of-all-possible-productions"

@@ -6,6 +6,7 @@ date = "2018-10-20T14:42:00-04:00"
 lastmod = "2018-10-23T14:24:00-04:00"
 people = ["Matthew Polenzani","Janai Brugger","Erin Wall","Angela Brower"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540063244541/sqErinWall_JanaiBrugger_IDOMENEO_0V8A5918_c.jpg.jpg"
+primary_image_credit = "Erin Wall (Elettra) and Janai Brugger (Ilia) in Idomeneo, Lyric Opera of Chicago, 2018. Photo by Kyle Flubacker."
 publishDate = "2018-10-20T15:23:00-04:00"
 short_description = "Matthew Polenzani, in his fifteenth(!) role at the Lyric, is the dramatic anchor of the cast. His dependably excellent and grounded singing is ideal for the role of this grand, eloquent king. Even in the most bravura moments, Polenzani&#039;s singing was refined and elegant."
 slug = "glamour-fury-idomeneo-in-chicago"

@@ -7,6 +7,7 @@ lastmod = "2017-05-29T12:15:00-04:00"
 people = ["Ivan Barbotin"]
 preamble = "Born in St. Petersburg, Toronto-based [Ivan Barbotin](/scene/people/ivan-barbotin/) has taken a long and winding road to his life as a full-time composer. As a teen, he was a guitarist in rock bands (Sphinx, Forum) in Russia, and upon his move to Canada, he focused on linguistics and spent time as a video editor. Now, [Barbotin writes](http://www.barbotin.com/projects.html) film and TV scores (*Cosmic Vistas*, *The Mountie*) ballet scores (*The Velveteen Rabbit*), chamber and orchestral music, and of course, operatic works (*Oubliette*, *The Fetishist*, *What Rhymes with Azimuth*).\n\nBarbotin chats about his \"melodist\" aesthetic, and why he doesn't quite believe in inspiration."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496068225716/2017-05-29---Ivan-Barbotin.jpg.jpg"
+primary_image_credit = "Photo: Ray Allen."
 publishDate = "2017-05-29T11:46:00-04:00"
 short_description = "&quot;I don&#039;t really believe in inspiration. If what you are referring to by that word is a state of mind allowing for a free and easy flow of ideas, then I think it can be activated by simply sitting down and doing the work at hand. If at first nothing interesting comes to mind, I think the process itself eventually activates the neural circuitry required for being &#039;in the zone&#039;.&quot;"
 slug = "talking-with-composers-ivan-barbotin"

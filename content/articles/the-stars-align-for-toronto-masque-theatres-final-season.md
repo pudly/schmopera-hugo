@@ -6,6 +6,7 @@ date = "2017-09-12T20:21:00-04:00"
 lastmod = "2017-09-17T11:27:00-04:00"
 people = ["Krisztina Szabó","Jacqueline Woodley","Monica Whicher","Geoffrey Sirett","Colin Ainsworth","Marion Newman","Alexander Dobson","Andrea Ludwig","Lawrence Wiliford","James Rolfe","Shannon Mercer","Vania Chan","Patricia O'Callaghan"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505493235099/2017-09-15---Larry-Beckwith-photo-by-James-Lynch-4.jpg.jpg"
+primary_image_credit = "Larry Beckwith, founder and Artistic Director of Toronto Masque Theatre. Photo: James Lynch."
 publishDate = "2017-09-17T11:27:00-04:00"
 short_description = "&quot;I&#039;m filled with so many emotions as I introduce you to our final season,&quot; says Beckwith. &quot;I&#039;m humbled to present many of Canada&#039;s leading performing artists – some TMT regulars alongside some new faces. I&#039;m heavy-hearted as I contemplate the end of a magnificent journey. But above all, I&#039;m excited to present to you an entertaining season of music, theatre and dance that I&#039;m sure will demonstrate the accomplishments of this unique company and its place in the performing arts in Canada.&quot;"
 slug = "the-stars-align-for-toronto-masque-theatres-final-season"

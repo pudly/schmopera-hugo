@@ -1,0 +1,37 @@
++++
+date = "2015-04-13T03:14:00+01:00"
+discipline = "Mezzo-soprano"
+lastmod = "2016-04-12T11:35:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460457329238/2016-04-12---Barton-Updated-Headshot.jpg.jpg"
+primary_image_credit = "Fay Fox."
+publishDate = "2015-04-13T03:14:00+01:00"
+slug = "jamie-barton"
+title = "Jamie Barton"
+website = "http://www.jamiebartonmezzo.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/jamiebartonmezzosoprano?fref=ts"
+[[social_media]]
+platform = " Twitter"
+template = "social-media"
+url = "https://twitter.com/jbartonmezzo"
++++
+
+The winner of both the Main and the Song Prizes at the 2013 BBC Cardiff Singer of the World Competition, a winner of the 2007 Metropolitan Opera National Council Auditions and a Grammy nominee, American mezzo-soprano Jamie Barton has been described by The Guardian as “a great artist, no question, with an imperturbable steadiness of tone, and a nobility of utterance that invites comparison not so much with her contemporaries as with mid-20th century greats such as Kirsten Flagstad”. 
+
+Jamie Barton’s 2014-2015 season begins with a debut at the San Francisco Opera as Adalgisa in *Norma*. This will be followed by a return to Atlanta for Beethoven’s Symphony No. 9 with Donald Runnicles. Other concert engagements include the world premiere of Jake Heggie’s *The Work at Hand* with the Pittsburgh Symphony and the Verdi *Requiem* with the Toronto Symphony and Sir Andrew Davis. As the latest recipient of the Marian Anderson Award, Ms. Barton will appear in Recital at the Kennedy Center. Further Recital dates include Carnegie’s Zankel Hall, Worcester, MA, Frankfurt, Germany and a benefit for the Wolf Trap Foundation. In opera Jamie Barton will return to the Lyric Opera of Chicago in a new role, Giovanna Seymour in *Anna Bolena*, followed by her return to the Houston Grand Opera as Fricka in *Die Walküre*. Later in the season Ms. Barton will debut the role of Azucena in *Il Trovatore* with the Cincinnati Opera and will make a company debut with the Seattle Opera, also in a leading role. Future projects include returns to the Metropolitan Opera and the Houston Grand Opera and debuts at the Royal Opera House, Covent Garden, the Oper Frankfurt, the Deutsche Oper, Berlin, the Los Angeles Opera and the Washington National Opera, all in leading roles.
+
+The 2013-2014 season included a triumphant return to the Metropolitan Opera as Adalgisa in *Norma*, and to the Houston Grand Opera as Fricka in Das Rheingold as well as as Katisha in Opera Memphis’ *The Mikado*. In the summer, Jamie Barton made her Japanese debut as Meg Page in a new production of *Falstaff* at the Saito Kinen Festival. In concert, Ms. Barton sang the Verdi *Requiem* with the Melbourne Symphony and Sir Andrew Davis, Britten’s Spring Symphony with the Cleveland Orchestra and Franz Welser-Möst, a Concert of Verdi Arias and Ensembles at the Lanaudière Festival with Jean-Marie Zeitouni and Elgar’s *Sea Pictures* at the Aspen Music Festival. Last, but not least, Jamie Barton was heard in recital in Pace University’s new series as well as at Atlanta’s prestigious Spivey Hall before returning to Carnegie Hall for Marilyn Horne’s 80th birthday gala celebration. 
+
+The 2012-2013 season saw her return to the Lyric Opera of Chicago as Magdalene in a new production of *Die Meistersinger* conducted by Sir Andrew Davis. In concert, Ms. Barton made her UK debut at the Barbican Centre performing Elgar’s *Sea Pictures* with the London Schools Symphony Orchestra followed by Mozart’s *Requiem* with the Atlanta Sacred Chorale and the Orchestra of St. Luke’s at Carnegie Hall. In recital she appeared with tenor Russell Thomas and the Atlanta Vocal Arts Society, as well as in the role of Julia Child in “Bon Appétit” as part of the first annual Chamber Opera Festival with Opera Memphis. Prior to that, Ms. Barton made her debut with the Lyric Opera of Chicago in productions of *Les Contes d’Hoffmann* (voice of the Mother), *Boris Godunov* (Nurse), and *Ariadne auf Naxos* (Dryade), followed by Grandma Josephine and Mrs.Teavee in *The Golden Ticket* with Atlanta Opera and 2nd Norn in *Götterdämmerung* with the Bayerische Staatsoper, Munich. Recently Ms. Barton returned to record Scarlatti’s *La Dirindina* with Ars Lyrica in Houston. 
+
+In recent seasons she has performed Second Lady in *The Magic Flute* with the Metropolitan Opera, Mère Marie in *Dialogues des Carmélites* with the Bayerische Staatsoper, appeared in productions of Faust and Gian Carlo Menotti’s *The Last Savage* with Santa Fe Opera, and Emilia in Otello with the Canadian Opera Company. Concert appearances include: Bernstein’s *Opening Prayer* and Jeremiah Symphony with the Colorado Symphony under Marin Alsop, Domenico Scarlatti’s rarely performed comic intermezzo *La Dirindina* with Ars Lyrica (Music of the Baroque), Mozart’s Requiem with Milwaukee Symphony Orchestra under Edo de Waart, Schubert’s Mass No. 6 with San Diego Symphony and Beethoven’s Symphony No. 9 with the Omaha Symphony. In recital she appeared with the Vocal Arts Society at the Kennedy Center, under the auspices of the Marilyn Horne Foundation, as well as Carnegie Hall as part of their Great Singers III: Evenings of Song series. She also appeared as a guest soloist in the Marilyn Horne Foundation Gala at Carnegie Hall. 
+
+A former member of the Houston Grand Opera Studio, Ms. Barton appeared as Ursula in *Béatrice et Bénédict*, Giovanna in *Rigoletto*, and Mary Norton in the world premiere of André Previn’s *Brief Encounter*. With the Opera Theatre of Saint Louis she performed Suzuki in *Madama Butterfly* and Marcellina in *Le nozze di Figaro*. With the Wolf Trap Opera Company she performed the role of Penelope in Monteverdi’s *Il ritorno d'Ulisse in Patria*, as well as a series of recitals with pianist Steve Blier. With the Aspen Music Festival, Ms. Barton appeared as the Witch in *Hansel and Gretel* as well as a recital with bass-baritone Ryan McKinny, and a concert of Bernstein/Bruce Coughlin: Arias and Barcarolles with the Aspen Chamber Symphony.
+
+An avid recitalist, Ms. Barton has appeared with the Marilyn Horne Foundation at Weill Hall with tenor Russell Thomas as well as a solo recital with On Wings of Song. She made her Spivey Hall debut singing Brahms’ Alto Rhapsody, which was also broadcast on NPR. Ms. Barton has received extensive training as a recitalist at the Tanglewood Music Center, where she was a Fellow in Vocal Studies for the summers of 2006 and 2007. At the Tanglewood Music Center, she worked with such artists and coaches as James Levine, Dawn Upshaw, Phyllis Curtin, Kayo Iwama, Ira Siff, Lucy Shelton, Alan Smith, and Olly Wilson. As a member of the Houston Grand Opera Studio, she participated in several recital series including the popular “Recital at Rienzi.” 
+
+Additional concert performances include the world premiere of Chris Theofanidis’s The Refuge with the Houston Grand Opera, Duruflé’s *Requiem*, Bach’s Cantata 197 with the ensemble Kammerbach, Handel’s Alexander’s Feast, Honegger’s *King David*, and Mozart’s *Requiem*. 
+
+A graduate of the Houston Grand Opera Studio, Ms. Barton attended Indiana University in Bloomington, where she performed roles such as Tisbe in La Cenerentola, Buttercup in *HMS Pinafore*, and Mrs. Soames in the 2006 world premiere of Ned Rorem's *Our Town*.

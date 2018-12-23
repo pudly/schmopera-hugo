@@ -8,7 +8,10 @@ publishDate = "2014-06-08T11:33:00-04:00"
 short_description = "Soprano Cree Carrico thinks outside the box. Case in point: The Ophelia Project. With director Christopher Mirto, she has created The Ophelia Project, a one-woman opera/theatre hybrid exploring the fractured psyche of Shakespeare&#039;s Ophelia. "
 slug = "cree-carrico-the-ophelia-project"
 title = "Cree Carrico: The Ophelia Project"
-youtube_url = "https://www.youtube.com/watch?v=I3cRJLcD0Ms"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/watch?v=I3cRJLcD0Ms"
 +++
 
 Soprano Cree Carrico thinks outside the box. Case in point: _The Ophelia Project_. With director Christopher Mirto, she has created _[The Ophelia Project](http://entertainmentdrivethru.com/cree-carrico/)_, a one-woman opera/theatre hybrid exploring the fractured psyche of Shakespeare's Ophelia. The piece stars Cree Carrico and pianist Kyung-Eun Na, and it's an exciting way to develop the "traditional" recital format. Cree's own history as a performer includes operatic roles like Vitellia (_La clemenza di Tito_) and Marie Antoinette (_Ghosts of Versailles_), and plenty of theatre experience to boot, like _Carousel_ with the New York Philharmonic (and Nathan Gunn!) and _Flora the Red Menace _ with Oberlin College Theatre.

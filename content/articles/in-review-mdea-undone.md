@@ -6,6 +6,7 @@ date = "2015-05-27T09:04:00-04:00"
 lastmod = "2015-06-03T16:47:00-04:00"
 people = ["Lauren Segal","Peter Barrett","Jacqueline Woodley","Jordan de Souza","Michael Mori"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432735197094/M'Dea-Undone---Featuring-Lauren-Segal---photo-by-Dahlia-Katz.jpg.jpg"
+primary_image_credit = "Photo by Dahlia Katz."
 publishDate = "2015-05-27T10:20:00-04:00"
 short_description = "I went with Greg last night to see M&#039;dea Undone, Tapestry Opera&#039;s much-anticipated world premiere by composer John Harris and librettist Marjorie Chan. The short version of this review is that I loved, loved it, and it was one of the most integrated nights out at the opera I&#039;d experienced."
 slug = "in-review-mdea-undone"

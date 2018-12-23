@@ -6,6 +6,7 @@ date = "2018-03-18T17:06:00-04:00"
 lastmod = "2018-03-23T10:59:00-04:00"
 people = ["Geoffrey Sirett","Asitha Tennekoon"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521407190631/Geoffrey-Sirett-as-Akakiy-in-The-Overcoat-A-Musical-Tailoring_Photo-Credit-Dahlia-Katz.jpg.jpg"
+primary_image_credit = "Geoffrey Sirett as Akakiy in The Overcoat, a co-production from Tapestry Opera, Canadian Stage, and Vancouver Opera. Photo by Dahlia Katz."
 publishDate = "2018-03-20T20:28:00-04:00"
 short_description = "&quot;The overcoat is stunning,&quot; says baritone Geoffrey Sirett, who is set to sing the role of Akakiy. &quot;It transforms his life, because it is so beautiful and immaculately designed, and it gives him his five minutes of fame.&quot;"
 slug = "materialism-turns-tragic-dont-miss-the-overcoat"

@@ -6,6 +6,7 @@ lastmod = "2016-07-31T10:48:00-04:00"
 people = ["Diego Silva"]
 preamble = "A finalist of the 2013 Operalia Competition, tenor Diego Silva keeps busy with roles like Rodolfo (*La bohème*), Alfredo (*La traviata*), and the title role in *Faust*. In the 2016/17 season, he'll sing the Duke of Mantua (*Rigoletto*) at the Luzerner Theater in Switzerland, and he's set to make his Metropolitan Opera debut in the 2016/17 season as Tybalt in Gounod's *Roméo et Juliette*. Silva chats about loving his work, and the \"liberating\" feeling of great singing."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469554369129/2016-07-26---Diego-Silva.jpg.jpg"
+primary_image_credit = "Photo by Ana Lourdes Herrera"
 publishDate = "2016-07-31T10:48:00-04:00"
 short_description = "&quot;I make a living from doing what I love to do, and my schedule is always changing and includes lots of travel. I never get bored because I have to study a lot of different music in different languages and there is always room for improvement.&quot;"
 slug = "spotlight-on-diego-silva"

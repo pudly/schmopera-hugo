@@ -6,6 +6,7 @@ date = "2016-03-11T11:06:00+00:00"
 lastmod = "2016-03-11T12:49:00+00:00"
 people = ["Michael Mori","Rachel Kelly","Nicholas Sharratt"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457694662678/THE-DEVIL-INSIDE-Ben-McAteer-James-and-Rachel-Kelly-Catherine---Credit-Bill-Cooper-Scottish-OperaSquare.jpg.jpg"
+primary_image_credit = "Ben McAteer (James) and Rachel Kelly (Catherine) in The Devil Inside, Scottish Opera, 2016. Photo by Bill Cooper."
 publishDate = "2016-03-11T12:26:00+00:00"
 short_description = "Oh yeah, and like all good wish-based fairy tales, there&#039;s a caveat. If you die in possession of this bottle, your soul is damned to hell for all time; if you sell it, you must sell it for less than you paid for it. Two hours and a bunch of bad decisions later, we find the characters in a very interesting predicament. I won&#039;t spoil the show for you, but trust me, it&#039;s gooooooooood!"
 slug = "in-review-the-devil-inside"

@@ -10,7 +10,10 @@ publishDate = "2015-02-10T11:22:00-05:00"
 short_description = "Among the Artistic Directors of North America’s opera companies, it’s fair to say that Michael Mori has a unique vantage point on the industry of opera and its future. I ask him about what Tapestry does, and why historical works don’t always mean cultural relevance."
 slug = "michael-mori-on-contemporary-opera"
 title = "Michael Mori: On Contemporary Opera"
-youtube_url = "https://youtu.be/gq1TJdwghdc"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://youtu.be/gq1TJdwghdc"
 +++
 
 <p>

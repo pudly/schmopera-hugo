@@ -5,6 +5,7 @@ companies = ["City of London Sinfonia","Toy Piano Composers","Indie Opera T.O."]
 date = "2016-04-13T16:35:00+01:00"
 lastmod = "2016-04-14T16:08:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460645134023/2016-04-14---Orchestra.jpg.jpg"
+primary_image_credit = "Painting by Adolph Menzel, c. 1850. Photo: commons.wikimedia.org"
 publishDate = "2016-04-14T16:03:00+01:00"
 short_description = " The necessities of large-scale concerts like these are a reality; bodies need to be shuffled, chairs need to be added, and tuning needs to happen. But, why ignore the listeners during any of this? There&#039;s a difference between a relaxed environment, and one that ignores the fact that they&#039;re performers. Onstage housekeeping is the perfect opportunity for musicians to communicate with their listeners, and prove that they&#039;re human beings as well as talented artists. Talk to them, guys! "
 slug = "the-orchestra-problem-should-they-smile-more"

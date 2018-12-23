@@ -6,6 +6,7 @@ date = "2018-09-23T19:44:00-04:00"
 lastmod = "2018-09-25T10:21:00-04:00"
 people = ["Plácido Domingo","Morris Robinson","Ana Maria Martinez","Ramón Vargas","Anna Smirnova"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537746208598/sqdc_t8a2655_pr.jpg.jpg"
+primary_image_credit = "Plácido Domingo as Rodrigo and Ferruccio Furlanetto as King Philip II in LA Opera's 2018 production of Don Carlo. Photo: Cory Weaver/LA Opera."
 publishDate = "2018-09-24T10:40:00-04:00"
 short_description = "Morris Robinson hits his third home run in a row at LA Opera as the blind, self-righteous, single-minded Grand Inquisitor.  Having wowed us as Zaccaria in Nabucco, and Sparafucile in Rigoletto, he’s become a regular at LA Opera and he lifts any production to the sublime in any role that he plays."
 slug = "la-opera-season-opens-with-the-rodrigo-show"

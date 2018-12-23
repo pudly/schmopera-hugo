@@ -6,6 +6,7 @@ date = "2017-10-17T13:27:00-04:00"
 lastmod = "2017-10-18T10:38:00-04:00"
 people = ["Erin Wall","Jane Archibald","Tomasz Konieczny","Michael Brandenburg","John Fanning","Gundula Hintz","Claire de Sévigné","Patrick Lange"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508260971133/2017-10-16---square---Arabella-MC-0629.jpg.jpg"
+primary_image_credit = "Erin Wall as Arabella and Tomasz Konieczny as Mandryka in the Canadian Opera Company’s new production of Arabella, 2017, photo: Michael Cooper."
 publishDate = "2017-10-18T10:38:00-04:00"
 short_description = "A woman with a spine is somewhat of a rare find in opera, and so it&#039;s hard to admit that Arabella is a woman who warrants very little empathy - even from this female reviewer. Arabella&#039;s insistence on waiting for the &quot;right man&quot; among her train of suitors is something that&#039;s admirable and surprisingly contemporary even for this 1932 opera. "
 slug = "luxury-at-arms-length-arabella"

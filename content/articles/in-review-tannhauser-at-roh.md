@@ -6,6 +6,7 @@ date = "2016-04-27T09:44:00+01:00"
 lastmod = "2016-04-27T11:48:00+01:00"
 people = ["Peter Seiffert","Emma Bell","Christian Gerhaher","Stephen Milling"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461752007127/2016-04-16---Tannhauser-Square---Clive-Barda.jpg.jpg"
+primary_image_credit = "Tannhäuser Production Image, (c) ROH. Photo by Clive Barda."
 publishDate = "2016-04-27T11:32:00+01:00"
 short_description = "The dancers moved in a constant, fluid canon, the men tirelessly chasing the teasing women, hurling themselves across a long spinning banquet table, trading clothes and bending their bodies like elastic rag dolls. Visually, it was the high point of the production, relaxing into what became a static tale. It&#039;s not inappropriate, to place the audience in the shoes of Tannhäuser himself, who goes from the heights of pleasure and excitement, and returns to the mortal world; indeed, no human stimulation would quite meet of Venusberg."
 slug = "in-review-tannhauser-at-roh"

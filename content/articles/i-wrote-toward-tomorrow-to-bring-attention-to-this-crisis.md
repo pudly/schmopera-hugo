@@ -5,6 +5,7 @@ companies = ["Opera Mariposa"]
 date = "2018-06-10T12:00:00-04:00"
 lastmod = "2018-06-11T10:25:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528726738539/sqJacquelineKo_1.jpg.jpg"
+primary_image_credit = "Jacqueline Ko, co-founder of Opera Mariposa and creator of Toward Tomorrow. Photo courtesy of Opera Mariposa."
 publishDate = "2018-06-11T10:25:00-04:00"
 short_description = "Since starting Opera Mariposa, Ko&#039;s performances have raised over $50,000 in support of treatment, education, and research of chronic neuroimmune disease."
 slug = "i-wrote-toward-tomorrow-to-bring-attention-to-this-crisis"

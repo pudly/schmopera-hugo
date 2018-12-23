@@ -6,6 +6,7 @@ lastmod = "2016-03-08T11:42:00+00:00"
 people = ["Betany Coffland"]
 preamble = "American mezzo-soprano [Betany Coffland](/scene/people/betany-coffland/) has some of opera's juiciest roles under her belt, like Carmen, Rosina, Dorabella, and Elle in *La voix humaine*. She recently started her own floral design business, [Chloris Floral](http://www.chlorisfloral.com/#home), where she even designs bouquets based on her favourite pieces of classical music and [operatic characters](http://blog.chlorisfloral.com/index.php/2015/09/19/mozarts-zerlina-says-i-do/). \n\nBetany chats with us about stepping outside of singing in order to find artistic fulfilment, about the curious practice of [floriography](https://en.wikipedia.org/wiki/Language_of_flowers), and creating a *Pierrot Lunaire*-inspired bouquet.\n\n"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457432930883/2016-03-08---Betany---Paige_Green_film_photo.jpg.jpg"
+primary_image_credit = "Photo by Paige Green."
 publishDate = "2016-03-08T11:39:00+00:00"
 short_description = "It’s funny what happens when you let go and put out your truth to the world. Good things happen. So, I recommend for all singers at whatever stage of their career, look for passion. Passion is cultivating, inspiring and uplifting and it will only enhance your life and therefore, your art."
 slug = "betany-coffland-creating-operatic-bouquets"

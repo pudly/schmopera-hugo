@@ -5,6 +5,7 @@ companies = ["Los Angeles Opera"]
 date = "2018-05-26T17:25:00-04:00"
 lastmod = "2018-05-29T09:29:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527459289056/_LPP4373.jpg.jpg"
+primary_image_credit = "Photo: Liviu Popa."
 publishDate = "2018-05-27T18:16:00-04:00"
 short_description = "I have different favorite singers, especially for the roles that I am singing. For Traviata, it&#039;s the great Virginia Zeani or Anna Moffo, for Konstanze in Entführung it&#039;s Eda Moser. For her interpretation, energy on stage, and the passion that goes into the singing, it&#039;s of course Maria Callas."
 slug = "talking-with-singers-adela-zaharia"

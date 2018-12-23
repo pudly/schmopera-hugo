@@ -6,6 +6,7 @@ date = "2016-09-13T23:43:00+01:00"
 lastmod = "2016-09-14T10:34:00+01:00"
 people = ["Javier Camarena","Daniela Mack","Vito Priante"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473807100251/2016-09-14---VITO-PRIANTE-AS-FIGARO-DANIELA-MACK-AS-ROSINA-IL-BARBIERE-DI-SIVIGLIA-ROH-PHOTO-MARK-DOUET.jpg.jpg"
+primary_image_credit = "Vito Priante as Figaro, Daniela Mack as Rosina, Il barbiere di Siviglia. © ROH. Photo by Mark Douet."
 publishDate = "2016-09-14T10:15:00+01:00"
 short_description = "In theory, having a cast of big, hall-filling voices can seem like a pointless exercise (a futile precaution?), when the whole opera is designed to clear the way for easy, flexible, and funny singing. Yet this cast was a complete win from top to bottom; as they each sang their first notes of the evening, we were struck (and satisfied) with how these rich, go-big-or-go-home voices managed everything from dizzying coloratura to cackling comedy."
 slug = "in-review-the-barber-of-seville-at-roh"

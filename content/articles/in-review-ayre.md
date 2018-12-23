@@ -6,6 +6,7 @@ date = "2016-11-15T12:46:00+00:00"
 lastmod = "2016-11-15T14:16:00+00:00"
 people = ["Miriam Khalil","Adanya Dunn","Ellen McAteer"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479214379013/2016-11-15---Ayre-Square-Block.jpg.jpg"
+primary_image_credit = "Photo by Darryl Block."
 publishDate = "2016-11-15T13:11:00+00:00"
 short_description = "This wasn&#039;t just &quot;Miriam sings beautifully,&quot; she brought us in and told us stories of life, danger, heartbreak, violence, and love. Miriam is - and always was - a flawless singer, but her acting in this show was unparalleled. Sensitive, candid, visceral, and dedicated to truth - all the things I crave in a theatrical performance."
 slug = "in-review-ayre"

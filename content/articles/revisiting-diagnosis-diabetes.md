@@ -10,7 +10,10 @@ publishDate = "2016-03-08T13:55:00+00:00"
 short_description = "A few months ago, we spoke with pianist and composer Michael Park about his new one-act, interactive chamber opera, Diagnosis: Diabetes. Since our interview, Park has seen the workshop premiere of his opera with Vancouver&#039;s Erato Ensemble, and received the first audience feedback from the performance. Many listeners were new to opera in general, and even more were there to learn about this unique perspective on experiencing life with diabetes."
 slug = "revisiting-diagnosis-diabetes"
 title = "Revisiting Diagnosis: Diabetes"
-youtube_url = "https://youtu.be/xh89yF0eeZY"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://youtu.be/xh89yF0eeZY"
 +++
 
 [A few months ago](/michael-park-on-opera-disease/), we spoke with pianist and composer [Michael Park](/scene/people/michael-park/) about his new one-act, interactive chamber opera, [*Diagnosis: Diabetes*](/michael-park-on-opera-disease/). Since [our interview](/michael-park-on-opera-disease/), Park has seen the workshop premiere of his opera with Vancouver's [Erato Ensemble](/scene/companies/erato-ensemble/), and received the first audience feedback from the performance. Many listeners were new to opera in general, and even more were there to learn about this unique perspective on experiencing life with diabetes. 

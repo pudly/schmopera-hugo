@@ -6,6 +6,7 @@ date = "2016-08-20T11:39:00+01:00"
 lastmod = "2016-08-20T14:40:00+01:00"
 people = ["Paul Appleby","Philippe Sly","Anne-Catherine Gillet","Katarina Bradić"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471697124465/2016-08-20---BB---RichardHubertSmith.jpg.jpg"
+primary_image_credit = "Bénédict (Paul Appleby) and Béatrice (Stéphanie d'Oustrac). Glyndebourne, 2016. Photo: Richard Hubert Smith."
 publishDate = "2016-08-20T14:22:00+01:00"
 short_description = "In the great gag scenes with the Glyndebourne Chorus, Lionel Lhote was a big bite of extra comedy as Somarone, the music master. Lhote seemed a delightful buffo combination of the Komponist from Ariadne auf Naxos, Bottom from A Midsummer Night&#039;s Dream, and Bartolo from Il barbiere di Siviglia. "
 slug = "in-review-beatrice-et-benedict-at-glyndebourne"

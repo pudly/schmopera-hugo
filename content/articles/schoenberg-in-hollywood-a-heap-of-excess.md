@@ -5,6 +5,7 @@ companies = ["Boston Lyric Opera"]
 date = "2018-11-15T13:30:00-05:00"
 lastmod = "2018-11-16T10:35:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542306045831/sqBLO2018-Schoenberg-7-Ebrahim.jpg.jpg"
+primary_image_credit = "Omar Ebrahim (Arnold Schoenberg) in Schoenberg in Hollywood, Boston Lyric Opera, 2018. Photo: Liza Voll Photography."
 publishDate = "2018-11-16T10:35:00-05:00"
 short_description = "Alas, if only the final product understood the virtues of restraint! Its frequent dips into genre-based excess often veered into garish, meandering displays that more often than not proved so distracting it lost sight of the work&#039;s soul."
 slug = "schoenberg-in-hollywood-a-heap-of-excess"

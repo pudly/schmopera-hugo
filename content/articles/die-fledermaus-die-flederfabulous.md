@@ -6,6 +6,7 @@ date = "2016-06-10T11:05:00+01:00"
 lastmod = "2016-06-10T12:56:00+01:00"
 people = ["Rachel Krehm","Michael Barrett","Aria Umezawa","Erin Lawson","Julie Ludwig","Keith Lam","Justin Ralph","Geoffrey Penar"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465554265845/2016-06-10---Die-Fledermaus-square.jpg.jpg"
+primary_image_credit = "Photo by Emily Ding."
 publishDate = "2016-06-10T12:56:00+01:00"
 short_description = "Guys, this is a great kickoff to summer. It&#039;s campy, it&#039;s fun, there&#039;s free beer and snacks. It&#039;s exactly the way I think that Strauss II would want to see it performed in this day and age. Seriously, get a group of you together, buy some tickets and go literally have a ball. And even though we all hate audience participation (usually), trust me when I say the more you throw yourself into the scene, the more fun the show will become. "
 slug = "die-fledermaus-die-flederfabulous"

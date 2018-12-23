@@ -1,0 +1,25 @@
++++
+date = "2015-04-04T20:59:00-04:00"
+lastmod = "2015-10-31T15:05:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446318312936/Logo---OIC.jpg.jpg"
+publishDate = "2015-04-04T20:59:00-04:00"
+slug = "voicebox-opera-in-concert"
+title = "VOICEBOX: Opera in Concert"
+type_of_company = "Opera Company"
+website = "http://www.operainconcert.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/OperaInConcert?fref=ts"
+[[social_media]]
+platform = " Twitter"
+template = "social-media"
+url = "https://twitter.com/OperainConcert"
++++
+
+<p>
+	Opera in Concert, founded by Stuart Hamilton, C.M., made its debut on October 21st 1974 with Ambroise Thomas' HAMLET at the St. Lawrence Centre's Jane Mallett Theatre. Never before heard in Canada, Thomas' treatment of the Shakespeare play was a revelation, establishing a remarkable precedent: audiences were ready for unknown repertoire that showcased young Canadian talent presented in a format that was unadorned and direct. With a single stroke the Opera in Concert vision of rarely heard works sung by remarkable artists attained validity with opera professionals and the opera loving public. Soon enough, Opera in Concert expanded to as many as four operas per season with a full sized Choral component under Robert Cooper, C.M., an orchestra component for each season and THE BACKGROUNDER with Iain Scott.
+</p>
+<p>
+	Since 1974, Opera in Concert has achieved an amazing record of more than 158 operas, 90 of which have been Canadian Premieres, stylistically ranging from Vivaldi's LA GRISELDA through Schmidt's NOTRE DAME to the modern sonorities of Harry Somers' THE FOOL. The company promoted the careers of Isabel Bayrakdarian, Ben Heppner, Aline Kutan, John Relyea, Richard Margison, Russell Braun, Frederique Vezina, Allyson McHardy, Michael Schade, Josh Hopkins, Jean Stilwell, Colin Ainsworth, John Mac Master and Rosemarie Landry, just to name a few and to this day, continues its commitment to nurture and foster the advancement of young artists.
+</p>

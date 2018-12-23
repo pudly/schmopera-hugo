@@ -5,6 +5,7 @@ date = "2016-04-25T10:30:00+01:00"
 lastmod = "2016-04-25T13:51:00+01:00"
 people = ["Allan Clayton","Alice Coote","Gerald Finley"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461588377579/2016-04-25---CooteClaytonFinley.jpg.jpg"
+primary_image_credit = "Clockwise from top left: Allan Clayton, Alice Coote, Gerald Finley."
 publishDate = "2016-04-25T13:51:00+01:00"
 short_description = "Coote and Clayton shared perfect moments of acknowledgement from their places on opposite sides of the conductor&#039;s podium. She was stunning to watch; she had such specificity on her face, from her almost-shy greeting of Gerontius, to her wise, tour-guide qualities as she takes him through his first moments in the afterlife."
 slug = "great-nights-the-dream-of-gerontius"

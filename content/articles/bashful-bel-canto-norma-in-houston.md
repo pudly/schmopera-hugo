@@ -6,6 +6,7 @@ date = "2018-05-01T21:39:00-04:00"
 lastmod = "2018-05-01T21:47:00-04:00"
 people = ["Liudmyla Monastyrska","Jamie Barton","Chad Shelton"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525224744278/sqhgo---norma---photographer-lynn-lane-50-3000x2000.jpg.jpg"
+primary_image_credit = "Jamie Barton (Adalgisa) in Norma, Houston Grand Opera, 2018. Photo: Lynn Lane."
 publishDate = "2018-05-01T21:47:00-04:00"
 short_description = "However, in spite of all the great music, I got a sense that the company radiated severe apathy about the sheer task of putting on &quot;yet another grand opera like this one because it is a classic which is, however, very boring.&quot; Combined with this aura, I got the sense that this production was blessed with a great many artists who only just failed, in their combined efforts, to make this production truly take off and maintain altitude."
 slug = "bashful-bel-canto-norma-in-houston"

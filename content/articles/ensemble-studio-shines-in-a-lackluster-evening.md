@@ -6,6 +6,7 @@ date = "2018-05-26T18:29:00-04:00"
 lastmod = "2018-05-27T21:49:00-04:00"
 people = ["Samantha Pickett","Simone McIntosh","Danika Lorèn","Lauren Eberwein","Samuel Chan","Bruno Roy","Megan Quick","Stéphane Mayer","Rachael Kerr","Andrew Haji"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527373485750/sqDSC_3895.jpg.jpg"
+primary_image_credit = "(l-r) Soprano Danika Lorèn and soprano Lauren Eberwein in the Canadian Opera Company’s An Evening with the Ensemble Studio, 2018, with the COC Orchestra conducted by COC Music Director Johannes Debus. Photo: Gaetz Photography."
 publishDate = "2018-05-27T11:23:00-04:00"
 short_description = "Whatever its form, this annual event is meant to show off what these artists do best. It&#039;s clear that the Ensemble Studio features seven excellent young voices and two industrious pianists. With that said, An Evening With the Ensemble Studio seemed to show that what these young artists do best is prosper under the oddest of onstage circumstances."
 slug = "ensemble-studio-shines-in-a-lackluster-evening"

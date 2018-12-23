@@ -6,6 +6,7 @@ date = "2015-01-06T15:52:00-05:00"
 lastmod = "2015-04-12T11:04:00-04:00"
 people = ["Lyndon Terracini"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428849970212/Lyndon.jpg.jpg"
+primary_image_credit = "Nicole Cleary"
 publishDate = "2015-01-06T15:52:00-05:00"
 short_description = "Well, it&#039;s been a weird week for critics. After opera critic Paolo Isotta, of the Italian newspaper Corriere della Sera, got himself blacklisted from receiving free media tickets from La Scala, new management has lifted his ban. Although Corriere has since decided to refuse free ticket offers from La Scala in the future, Artistic and music directors Alexander Pereira and Riccardo Chailly have said that they won&#039;t ban any critics from requesting media seats (including Paolo Isotta). How progressive."
 slug = "opera-australia-hating-haters"

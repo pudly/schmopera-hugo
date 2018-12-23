@@ -6,6 +6,7 @@ date = "2016-04-23T12:31:00-04:00"
 lastmod = "2018-02-05T14:57:00-05:00"
 people = ["Corinne Winters"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509410722587/2017-10-20---Winters-Fox-square.jpg.jpg"
+primary_image_credit = "Photo by Fay Fox."
 publishDate = "2016-04-25T04:39:00-04:00"
 short_description = "We had the chance to speak with Winters about the &quot;intense and subtle&quot; Mélisande, her offstage creative outlets, and how she stays happy and healthy on the road. Frankly, we&#039;ll take wellness tips from any soprano who can run a half-marathon."
 slug = "talking-with-singers-corinne-winters"

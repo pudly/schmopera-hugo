@@ -6,6 +6,7 @@ date = "2017-03-01T13:40:00+00:00"
 lastmod = "2017-03-13T16:46:00+00:00"
 people = ["Joel Ivany"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488378414013/2017-03-01---AMB-choeur-denfants.jpg.jpg"
+primary_image_credit = "A still from \"The Chronicles of Anna Magdalena Bach\". Image courtesy of TIFF."
 publishDate = "2017-03-01T14:27:00+00:00"
 short_description = "&quot;This past week, we were able to have an open, pop-up rehearsal in the atrium of TIFF Bell Lightbox. To see a new and engaged audience stop by and listen to both pianist Topher Mokrzewski and soprano Adanya Dunn rehearse is what makes this collaboration so special. It&#039;s been really great to work with a partner that is open to creating intersectional performances like this, who wants to activate their building into a site for film, art, and music.&quot;"
 slug = "schoenbergbach-other-unlikely-pairs-atg-theatre-heads-to-tiff"

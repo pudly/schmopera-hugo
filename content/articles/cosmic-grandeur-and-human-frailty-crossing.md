@@ -6,6 +6,7 @@ date = "2017-10-09T11:02:00-04:00"
 lastmod = "2017-10-10T09:19:00-04:00"
 people = ["Rod Gilfry","Alexander Lewis","Jennifer Zetlan"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507561059063/2017-10-09---Cross332-copy.jpg.jpg"
+primary_image_credit = "Rod Gilfry (Walt Whitman) and Alexander Lewis (John) in Crossing, BAM, 2017. Photo: Richard Termine."
 publishDate = "2017-10-10T09:19:00-04:00"
 short_description = "But forgetting this ambiguous relationship for a moment: Crossing is an engaging opera, held together over its generous hour and forty-minute run time (no intermission, thank goodness!) by a cohesive score happily swollen with motivic unity. When a recording becomes available, audiophiles can look forward to listening on repeat like a Wagnerite, collecting and linking more motifs each time."
 slug = "cosmic-grandeur-and-human-frailty-crossing"

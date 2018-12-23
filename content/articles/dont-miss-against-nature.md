@@ -6,6 +6,7 @@ date = "2016-04-23T19:35:00+01:00"
 lastmod = "2016-04-24T14:08:00+01:00"
 people = ["Geoffrey Sirett","Alexander Dobson"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461436589199/2016-04-23---Geoffrey-Sirett-Alex-Dobson-Laurence-Lemieux-rehearse-for-Against-Nature.jpg.jpg"
+primary_image_credit = "Geoffrey Sirett, Alexander Dobson, and Laurence Lemieux rehearse for Against Nature. Photo: Jeremy Mimnagh."
 publishDate = "2016-04-24T10:32:00+01:00"
 short_description = "Next month sees the world premiere of Against Nature (À Rebours), presented by Coleman Lemieux &amp; Compagnie. It&#039;s the second in a series of salon pieces by James Kudelka, director and choreographer, following up on From the House of Mirth in 2012 and 2013. Against Nature features music by Canadian composer James Rolfe (Beatrice Chancy, Elijah&#039;s Kite, Crush) and a libretto by award-winning playwright Alex Poch-Goldin (Cringeworthy, From the House of Mirth, The Shadow)."
 slug = "dont-miss-against-nature"

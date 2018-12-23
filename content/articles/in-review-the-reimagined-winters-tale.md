@@ -5,6 +5,7 @@ date = "2016-12-14T10:11:00+00:00"
 lastmod = "2016-12-14T11:22:00+00:00"
 people = ["Héloïse Werner"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481712527313/2016-12-14---the-winters-tale-5.jpg.jpg"
+primary_image_credit = "Sadie Parsons (Hermione) and Héloïse Werner (Perdita) in The Hermes Experiment's The Winter's Tale. Photo by Cathy Pyle."
 publishDate = "2016-12-14T11:22:00+00:00"
 short_description = "Hovering somewhere between medieval inspiration and abstract improvisation, Kim Ashton&#039;s music served as evocative incidental music, offering subtext and commentary in what felt like a live version of a film score. With admirable listening skills, the quartet played from memory, removing one more barrier that can separate the audience from the creative process."
 slug = "in-review-the-reimagined-winters-tale"

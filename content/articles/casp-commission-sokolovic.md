@@ -6,6 +6,7 @@ date = "2017-05-18T20:15:00-04:00"
 lastmod = "2017-05-23T14:48:00-04:00"
 people = ["Emily D'Angelo","Danika Lorèn","Aaron Sheppard","Bruno Roy"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495564433880/2017-05-23---DSC03335.jpg.jpg"
+primary_image_credit = "(l-r)  Danika Lorèn, Aaron Sheppard, Liz Upchurch, Emily D’Angelo and Bruno Roy in the Richard Bradshaw Amphitheatre, 2017."
 publishDate = "2017-05-23T14:35:00-04:00"
 short_description = "Sokolović&#039;s work brims over with imagination of sound. In setting the human voice, she never seems to run out of ideas, and with this new cycle, she brought out audible reactions of delight from the audience."
 slug = "casp-commission-sokolovic"

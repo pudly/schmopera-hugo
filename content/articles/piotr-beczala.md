@@ -6,6 +6,7 @@ date = "2018-02-28T20:42:00-05:00"
 lastmod = "2018-02-28T22:13:00-05:00"
 people = ["Piotr Beczała"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519870447037/sq---piotrbecza%2Be%CC%81aflubackerhighlights005.jpg.jpg"
+primary_image_credit = "Piotr Beczała and Martin Katz in recital, Lyric Opera of Chicago, 2018. Photo: Kyle Flubacker."
 publishDate = "2018-02-28T20:55:00-05:00"
 short_description = "&quot;I am pleased to say that, in my experience, audiences outside Poland respond to Polish music with great satisfaction and enthusiasm. I appeared one-and-a-half months ago in Zürich with this same program and the great majority of the audience seemed smitten with the Polish portion of the program.&quot;"
 slug = "piotr-beczala"

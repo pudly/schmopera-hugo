@@ -5,6 +5,7 @@ date = "2016-09-03T15:48:00+02:00"
 lastmod = "2016-09-10T09:28:00+02:00"
 people = ["Daniela Mack"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472911088396/2016-09-03---Daniela-Mack---Simon-Pauly-Square.jpg.jpg"
+primary_image_credit = "Photo by Simon Pauly."
 publishDate = "2016-09-10T09:09:00+02:00"
 short_description = "&quot;One of the big motivators for me will be setting an example for her so that she will also be able to follow whatever her passion is, and to show her that that&#039;s a possibility.&quot;"
 slug = "talking-with-singers-daniela-mack"

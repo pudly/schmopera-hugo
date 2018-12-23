@@ -6,6 +6,7 @@ date = "2018-05-07T12:37:00-04:00"
 lastmod = "2018-05-07T21:48:00-04:00"
 people = ["Monica Whicher","Colin Ainsworth","Lawrence Wiliford","Vania Chan","Shannon Mercer"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525713414163/sqLarryBeckwith.jpg.jpg"
+primary_image_credit = "Larry Beckwith, Artistic Director and Founder of Toronto Masque Theatre."
 publishDate = "2018-05-07T21:48:00-04:00"
 short_description = "&quot;I think we really mined [masque] to a huge extent,&quot; he says. Now, Beckwith&#039;s decision to wrap up TMT is fuelled by a desire for something new."
 slug = "after-15-years-i-felt-like-having-a-party"

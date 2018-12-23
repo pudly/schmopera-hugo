@@ -10,7 +10,10 @@ publishDate = "2015-05-10T10:40:00-04:00"
 short_description = "The COC Ensemble Studio&#039;s performance of The Barber of Seville happens this coming Friday, May 15th at the Four Seasons Centre. Following up to Part I, I was able to a) invade their rehearsal a little bit, and b) sit down and chat with the rest of this fantastic cast. "
 slug = "in-rehearsal-with-the-coc-ensemble-studio-part-ii"
 title = "In rehearsal with the COC Ensemble Studio, part II"
-youtube_url = "https://youtu.be/Rx0ooWBedE8"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://youtu.be/Rx0ooWBedE8"
 +++
 
 The COC Ensemble Studio's performance of *The Barber of Seville* happens this coming Friday, May 15th at the Four Seasons Centre. Following up to [Part I](/in-rehearsal-with-the-coc-ensemble-studio/), I was able to a) invade their rehearsal a little bit, and b) sit down and chat with the rest of this fantastic cast. 

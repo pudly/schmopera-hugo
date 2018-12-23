@@ -7,6 +7,7 @@ lastmod = "2016-04-28T11:43:00+01:00"
 people = ["Bryn Terfel"]
 preamble = "This is the first post by Toronto-based contributor and baritone [Aaron Durand](/talking-with-singers-aaron-durand/). He's a singer to watch, a [beat-boxing instructor](https://www.youtube.com/watch?v=s8Bh1Pmf5hg), and a talented writer. If you like his style, let us know, and give him a follow on Twitter, [@Gingervanni](https://twitter.com/Gingervanni)."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461779312359/2016-04-28---Terfel-Katyukova.jpg.jpg"
+primary_image_credit = "Natalia Katyukova and Bryn Terfel at Koerner Hall. Photo by Lisa Sakulensky Photography"
 publishDate = "2016-04-28T11:30:00+01:00"
 short_description = "For musicians, it was a masterclass not only in great singing and excellent playing, but in audience engagement. Terfel, the loveable scamp, managed his very enthusiastic listeners with a genial nature that&#039;s normally reserved for cool uncles, panda bears, and Jimmy Fallon."
 slug = "in-review-bryn-terfel-at-koerner-hall"

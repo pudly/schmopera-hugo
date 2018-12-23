@@ -6,6 +6,7 @@ date = "2017-09-11T10:16:00-04:00"
 lastmod = "2017-09-11T11:42:00-04:00"
 people = ["Brian Mulligan","Elza van den Heever"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505139621227/2017-09-11---3328_iltrovatore14_gross.jpg.jpg"
+primary_image_credit = "Elza van den Heever as Leonora, Il trovatore, Oper Frankfurt, 2017. Photographer: Barbara Aumüller."
 publishDate = "2017-09-11T10:32:00-04:00"
 short_description = "&quot;Balanced&quot; is the emphasis here, with the infamous requirements of the four lead roles met by the quadfecta of Piero Pretti (Manrico), Elza van den Heever (Leonora), Brian Mulligan (Conte di Luna), and the very last-minute replacement for an ailing Tanja Baumgartner, mezzo-soprano Marianne Cornetti (Azucena), flown in from Pittsburgh just in time for Friday&#039;s dress rehearsal."
 slug = "in-review-il-trovatore-at-oper-frankfurt"

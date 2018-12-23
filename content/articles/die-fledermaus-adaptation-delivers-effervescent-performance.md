@@ -5,6 +5,7 @@ companies = ["Cowtown Opera Company"]
 date = "2018-09-30T09:50:00-04:00"
 lastmod = "2018-09-30T20:25:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538315315210/sqSCHULTZ_Orlofsky.jpg.jpg"
+primary_image_credit = "Meaghan Schultz as Orlofsky in Cowtown Opera Company's 2018 production of The Bat."
 publishDate = "2018-09-30T09:51:00-04:00"
 short_description = "The standout performer of the evening, however, was soprano Laura Brandt as Eisenstein&#039;s wife, Rose. Brandt&#039;s spinning, confident voice pervaded this production from beginning to end with richness and depth. And in the tradition of a true leading lady, Brandt&#039;s chemistry with each of her castmates - from her husband to her ex-lover to her maid and beyond - is naturally seamless with each interaction. Hers was truly a tour-de-force performance."
 slug = "die-fledermaus-adaptation-delivers-effervescent-performance"

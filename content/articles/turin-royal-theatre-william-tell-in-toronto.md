@@ -5,6 +5,7 @@ date = "2014-12-02T08:00:00-05:00"
 lastmod = "2015-04-13T21:04:00-04:00"
 people = ["Angela Meade"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428973182022/Dario_2_high_res_web_1.jpg.jpg"
+primary_image_credit = "Photo by Dario Acosta"
 publishDate = "2014-12-02T08:00:00-05:00"
 short_description = "Soprano Angela Meade, singing Mathilde in the Turin Royal Theatre&#039;s in-concert production of Rossini&#039;s William Tell at Roy Thomson Hall. Photo: Dario Acosta\nLooking for something to catch this weekend in Toronto? Head to Roy Thomson Hall to hear some Rossini."
 slug = "turin-royal-theatre-william-tell-in-toronto"

@@ -5,6 +5,7 @@ companies = ["Lyric Opera of Chicago"]
 date = "2017-10-17T18:48:00-04:00"
 lastmod = "2017-10-19T20:33:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508280787063/2017-10-17---square---17.-Matthan-Black%2C-Julia-Hardin%2C-Curtis-Bannister%2C-Melinda-Alberty_The-Scorpions'-Sting.jpg.jpg"
+primary_image_credit = "Matthan Black, Julia Hardin, Curtis Bannister, and Melinda Alberty in The Scorpions' Sting, Lyric Opera of Chicago, 2017. Photo: Michael Brosilow."
 publishDate = "2017-10-19T20:13:00-04:00"
 short_description = "It must be a difficult task, to write a work specifically for young people that does not come off as overly moralistic or saccharine. Happily, the gist of The Scorpions&#039; Sting - the power of forgiveness and the importance of teamwork - avoids sentimentality by being genuinely funny, (alternating effectively between sarcasm and overt goofiness). "
 slug = "for-kids-grownups-alike-the-scorpions-sting"

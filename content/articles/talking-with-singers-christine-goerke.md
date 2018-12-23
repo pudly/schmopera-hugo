@@ -6,6 +6,7 @@ date = "2016-01-19T15:36:00-05:00"
 lastmod = "2016-01-25T09:13:00-05:00"
 people = ["Christine Goerke"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453235943435/2016-01-19---Christine-Goerke---pc---Arielle-Doneson.jpg.jpg"
+primary_image_credit = "Photo by Arielle Doneson."
 publishDate = "2016-01-25T09:08:00-05:00"
 short_description = "Her bread-and-butter roles these days are large and daunting, like Elektra, Elsa, Ariadne, and Turandot. Still, Wagner&#039;s operas ask for unique standards of its singers. &quot;I guess it&#039;s like a marathon,&quot; says Goerke, &quot;but if you&#039;re a marathon-runner who&#039;s used to running marathons, it&#039;s just a total adrenaline rush, and it feels amazing.&quot;"
 slug = "talking-with-singers-christine-goerke"

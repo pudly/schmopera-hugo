@@ -6,6 +6,7 @@ date = "2018-10-21T21:27:00-04:00"
 lastmod = "2018-10-22T08:21:00-04:00"
 people = ["Lucia Cesaroni","Michael Nyby","Sasha Djihanian","John Tessier","John Cudia"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540171381327/sqVOTheMerryWidow_credTimMatheson39A7240a.jpg.jpg"
+primary_image_credit = "Lucia Cesaroni (Hanna) in The Merry Widow, Vancouver Opera, 2018. Photo: Tim Matheson."
 publishDate = "2018-10-21T21:27:00-04:00"
 short_description = "The setup for the Widow&#039;s entrance was hilarious, with all the men in the cast fussing over themselves and falling over each other to get to the door. The whole scene is an awkward, funny, madcap buildup to the heroine&#039;s entrance."
 slug = "vos-merry-widow-a-comedic-tourdeforce"

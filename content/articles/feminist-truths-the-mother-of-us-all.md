@@ -5,6 +5,7 @@ date = "2017-11-18T14:04:00-05:00"
 lastmod = "2017-11-18T15:56:00-05:00"
 people = ["R.B. Schlather","Robert Osborne","Marc Molomot","Dominic Armstrong","Nancy Allen Lundy","Michaela Martens"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511031727253/2017-11-18---square---171109_Hudson_Opera_MOUA-2181-1.jpg.jpg"
+primary_image_credit = "Michaela Martens as Susan B. Anthony in The Mother of Us All, Hudson Hall, 2017. Photo: Matthew Placek."
 publishDate = "2017-11-18T15:56:00-05:00"
 short_description = "Martens&#039; Susan B. Anthony grows more and more exhausted by the selfish idiocy of the men in power. She becomes a reluctant yet unstoppable hero, wearied by the immense task in front of her yet brimming with moral certitude."
 slug = "feminist-truths-the-mother-of-us-all"

@@ -6,6 +6,7 @@ date = "2016-09-16T09:52:00+01:00"
 lastmod = "2016-09-17T08:56:00+01:00"
 people = ["Gwenna Fairchild-Taylor"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474028718270/2016-09-16---"
+primary_image_credit = "Photo: Amanda Graham via Flickr."
 publishDate = "2016-09-16T13:40:00+01:00"
 short_description = "My work up north has made me a better singer and artist, without question. At the most basic level it&#039;s one of the ways I remind myself why art is so, so important, even though trying to be a singer is so difficult. So here are five epiphanies I&#039;ve had because of my time teaching in some of the most beautiful places on earth."
 slug = "teaching-in-the-arctic-5-things-that-one-singer-learned"

@@ -6,6 +6,7 @@ date = "2016-09-30T09:29:00+01:00"
 lastmod = "2016-09-30T10:13:00+01:00"
 people = ["Jamie Barton"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475224156688/2016-09-30---Jamie-Barton-Peter-Oundjian-Jag-Photography.jpg.jpg"
+primary_image_credit = "Jamie Barton and Peter Oundjian with the TSO. Photo: Jag Photography"
 publishDate = "2016-09-30T09:56:00+01:00"
 short_description = "I know I often talk about the immense amount of amazingly talented singers, but I want to go on record and say it applies to all musicians - and last night was proof positive of that. That being said, this was Mahler, so the night belonged to the brass."
 slug = "in-review-jamie-barton-leaves-you-wanting-more"

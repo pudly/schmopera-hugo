@@ -6,6 +6,7 @@ date = "2017-05-18T22:32:00-04:00"
 lastmod = "2017-05-19T14:34:00-04:00"
 people = ["Charles Sy","Hyejin Kwon"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495209745705/2017-05-19---Charles-Sy.jpg.jpg"
+primary_image_credit = "Charles Sy, tenor."
 publishDate = "2017-05-19T12:03:00-04:00"
 short_description = "It seems appropriate that the Les Adieux concerts show off a side to these singers that&#039;s rarely seen on the COC mainstage. For Sy, this was the first undertaking of Schubert&#039;s behemoth song cycle, and his performance had a beautiful balance of fresh youthfulness, and careful thought. He took enormous risks in vocal colour, nailing just about all of those choices; the detail work was impressive, and his sound has settled into something unique and warm."
 slug = "going-out-in-style-sy-kwon-in-the-rba"

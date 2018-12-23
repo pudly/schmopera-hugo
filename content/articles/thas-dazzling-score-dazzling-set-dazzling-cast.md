@@ -6,6 +6,7 @@ date = "2018-05-14T20:20:00-04:00"
 lastmod = "2018-05-14T20:20:00-04:00"
 people = ["Kelly Kaduce","Lucas Meachem"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526342647997/sq_37A0644.jpg.jpg"
+primary_image_credit = "Kelly Kaduce as Thaïs in Minnesota Opera's new production of Thaïs, 2018. Photo: Cory Weaver."
 publishDate = "2018-05-14T20:20:00-04:00"
 short_description = "I have liked every production in the Minnesota Opera this year, but after this one, I felt that the creative team had been holding out on us. Thaïs blew the rest of the season out of the water. The lighting (Marcus Dilliard), sets and costumes (Lorenzo Cutuli) were perfect. The creative team came out and took a bow, and they certainly deserved it."
 slug = "thas-dazzling-score-dazzling-set-dazzling-cast"

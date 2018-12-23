@@ -6,6 +6,7 @@ date = "2014-11-18T09:00:00-05:00"
 lastmod = "2015-04-13T22:51:00-04:00"
 people = ["Michael Mori","Carla Huhtanen","Keith Klassen","Krisztina Szabó","Dean Burry","Chris Thornborrow"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428979784808/Tapestry1.png"
+primary_image_credit = "Keith Klassen, Krisztina Szabó and Alexander Dobson in The Overcoat by Morris Panych and James Rolfe. Photo credit: Dahlia Katz."
 publishDate = "2014-11-18T09:00:00-05:00"
 short_description = "Tapestry Opera is currently enjoying its 35th anniversary season, and they seem to be celebrating by putting on fantastic theatre (and a bit of food and drink). I went to see Tapestry Briefs: Booster Shots on Sunday night, the last of three performances in the  Distillery Historic District. "
 slug = "in-review-tapestry-briefs-booster-shots"

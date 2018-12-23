@@ -6,6 +6,7 @@ date = "2016-04-21T09:50:00+01:00"
 lastmod = "2016-04-21T12:10:00+01:00"
 people = ["Helen Charlston","Charlotte Bray"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461235507927/2016-04-21---CLS-2015-16-Season-Finale-Credit-James-Berry.jpg.jpg"
+primary_image_credit = "Photo by James Berry."
 publishDate = "2016-04-21T12:05:00+01:00"
 short_description = "The whole evening was one that urged us to simply close our eyes and listen. It&#039;s always refreshing to hear a well-honed orchestra with so much attention paid to the experience, rather than relying simply on the deep roots of traditional classical concert tropes."
 slug = "paris-reflected-at-southwark-cathedral"

@@ -6,6 +6,7 @@ date = "2017-09-05T21:09:00-04:00"
 lastmod = "2017-09-07T14:38:00-04:00"
 people = ["Michael Mori","Stephanie Tritchew","Jacques Arsenault","Keith Klassen","Jennifer Taverner","Sara Schabas"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504710369930/2017-09-06---Bandits-photobyDahliaKatz-1318.jpg.jpg"
+primary_image_credit = "Photo: Dahlia Katz."
 publishDate = "2017-09-07T09:26:00-04:00"
 short_description = "&quot;It is fascinating that the average Torontonian&#039;s understanding of Toronto&#039;s history is pretty limited,&quot; says Tapestry Artistic Director Michael Mori. &quot;We are all a pretty new lot here, and so stories about the bandits in the Don Valley in the late 1800s and far-reaching industrial innovations that came from people like George Taylor are news to everyone except historians.&quot;"
 slug = "dont-miss-bandits-in-the-valley"

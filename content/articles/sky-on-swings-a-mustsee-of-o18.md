@@ -5,6 +5,7 @@ companies = ["Opera Philadelphia"]
 date = "2018-09-21T18:47:00-04:00"
 lastmod = "2018-09-21T18:51:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537569914373/sqSKYONSWINGS08SP.jpg.jpg"
+primary_image_credit = "Martha (mezzo-soprano Marietta Simpson) experiences an Alzheimer's hallucination in Sky on Swings, Opera Philadelphia's O18 Festival, 2018. Photo: Steven Pisano."
 publishDate = "2018-09-21T18:47:00-04:00"
 short_description = "The most captivating moments in the opera are those that involve only von Stade and Simpson together onstage. They create a sense of emotional intimacy and truth, by superb acting and unshakable presence. Their performance is the epitome of genuine artistry and truthful expression."
 slug = "sky-on-swings-a-mustsee-of-o18"

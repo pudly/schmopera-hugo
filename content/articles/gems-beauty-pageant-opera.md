@@ -9,7 +9,10 @@ publishDate = "2015-09-21T13:00:00-04:00"
 short_description = "It&#039;s rare, but I just love it when it happens: beauty pageant opera. It usually happens one of two ways for me: predictably not great, or surprisingly good. When I&#039;m listening to the former, I&#039;m wondering how they picked their aria, trying to hear their singing background in their sound, all very judgy things that I scold myself over almost immediately."
 slug = "gems-beauty-pageant-opera"
 title = "Gems: Beauty Pageant Opera"
-youtube_url = "https://www.youtube.com/watch?v=HTZAmv3Dkg4"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/watch?v=HTZAmv3Dkg4"
 +++
 
 

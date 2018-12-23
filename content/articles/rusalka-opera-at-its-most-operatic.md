@@ -5,6 +5,7 @@ companies = ["Des Moines Metro Opera"]
 date = "2018-06-23T20:50:00-04:00"
 lastmod = "2018-06-24T16:28:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529854813520/1DSC_4544.jpg.jpg"
+primary_image_credit = "Sara Gartland in Rusalka, Des Moines Metro Opera, 2018. Photo: Duane Tinkey for Des Moines Metro Opera."
 publishDate = "2018-06-24T11:46:00-04:00"
 short_description = "The last act brought the curse to its deadly conclusion. I could sense the audience collectively grimacing as Rusalka wandered onstage, knife in hand and feet bloodied. The pristine white floors became stained with pools of red where she discarded her silvery heels. The imagery and music made it clear. There will be no happy ending for the poor nymph."
 slug = "rusalka-opera-at-its-most-operatic"

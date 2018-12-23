@@ -6,6 +6,7 @@ date = "2017-01-23T18:35:00+00:00"
 lastmod = "2017-01-25T16:42:00+00:00"
 people = ["Alice Privett","Flora McIntosh","Cliff Zammit Stevens"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485345521724/2017-01-25---Square---PopUpOperaRandJProduction.jpg.jpg"
+primary_image_credit = "Pop-Up Opera's production of I Capuleti e i Montecchi. Photo by Richard Lakos."
 publishDate = "2017-01-25T16:42:00+00:00"
 short_description = "In March and April, Pop-Up Opera revives their first tragic opera, Bellini&#039;s I Capuleti e i Montecchi. The production, sung in Italian and featuring &quot;silent movie-style&quot; English captions, heads across the southern UK, including stops at London&#039;s The Vaults, March 20-23."
 slug = "touring-tragedy-popup-operas-i-capuleti-e-i-montecchi"

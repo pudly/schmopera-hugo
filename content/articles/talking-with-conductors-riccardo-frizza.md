@@ -6,6 +6,7 @@ lastmod = "2017-10-17T20:14:00-04:00"
 people = ["Riccardo Frizza"]
 preamble = "Born in Brescia, conductor [Riccardo Frizzza](/scene/people/riccardo-frizza/) is known worldwide for his specialist work in *bel canto*, and with the operas of one of his favourite composers, Giuseppe Verdi. Frizza is currently conducting a run of *Falstaff* at the Teatro Regio di Parma for the 2017 Festival Verdi, and next month he'll head to Tokyo to conduct *La traviata* at the [New National Theatre](http://www.nntt.jac.go.jp/english/productions/detail_009667.html). \n\nWe had the chance to ask him about the relationship between singer and conductor, conductor and director, and about his current favourite opera (hint: it's by Verdi!)."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508174994736/2017-10-16---Riccardo-Frizza-Joan-Toma%CC%81s---Fidelio-Artist.jpg.jpg"
+primary_image_credit = "Photo: Joan Tomás."
 publishDate = "2017-10-17T20:01:00-04:00"
 short_description = "&quot;I believe that there is always a mutual learning process between performers and conductors.  If a conductor is well trained he can pass a great deal of his wisdom to the performers, and in the same way a conductor can learn all about breathing from a singer.&quot;"
 slug = "talking-with-conductors-riccardo-frizza"
