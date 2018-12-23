@@ -2,7 +2,7 @@
 date = "2016-08-24T15:58:00+01:00"
 facebook = "https://www.facebook.com/adam.iannetta.9"
 lastmod = "2016-08-24T15:58:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472050666241/2016-08-25---Adam-Iannetta--Loud-Photography.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472050666241/2016-08-25---Adam-Iannetta--Loud-Photography.jpg.jpg"
 publishDate = "2016-08-24T15:58:00+01:00"
 short_bio = "Windsor-born baritone, Adam Iannetta, is quickly gaining notoriety as a versatile, up-and-coming performance scholar. Having graduated with a Masters Degree in Music Performance and Literature from Western University, Adam is currently working towards a Doctorate of Musical Arts.\n"
 slug = "adam-iannetta"

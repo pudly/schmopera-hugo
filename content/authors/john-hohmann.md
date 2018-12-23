@@ -1,7 +1,7 @@
 +++
 date = "2018-02-09T09:11:00-05:00"
 lastmod = "2018-02-14T10:18:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518185461090/Hohmann.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518185461090/Hohmann.jpg.jpg"
 publishDate = "2018-02-09T09:11:00-05:00"
 short_bio = "As a child John saw *Cavalleria Rusticana* on television. It made an impression. Later he discovered jazz via Stan Getz and currently enjoys a life of musical schizophrenia. A former film critic, arts administrator, college professor and music producer, he lives in New York City and is writing a book about audiences. "
 slug = "john-hohmann"

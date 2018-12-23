@@ -1,7 +1,7 @@
 +++
 date = "2018-03-24T17:04:00-04:00"
 lastmod = "2018-03-24T18:24:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521925397303/Arturo%20Fernandez%20Headshot.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521925397303/Arturo%20Fernandez%20Headshot.jpg.jpg"
 publishDate = "2018-03-24T17:04:00-04:00"
 short_bio = "Arturo Fernandez is a composer, violist, Thereminist, writer, and opera enthusiast currently based in Boston. When he&#039;s not busy writing or checking the pulse on the new opera scene, he enjoys tapletop RPGs and other geeky undertakings with his friends."
 slug = "arturo-fernandez"

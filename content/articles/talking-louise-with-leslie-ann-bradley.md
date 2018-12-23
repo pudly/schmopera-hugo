@@ -6,7 +6,7 @@ date = "2015-04-10T21:16:00-04:00"
 lastmod = "2015-04-10T21:16:00-04:00"
 people = ["Leslie Ann Bradley"]
 preamble = "<p>\n\t<em>Canadian soprano </em><a href=\"http://www.leslieannbradley.com/\" target=\"_blank\" data-mce-href=\"http://www.leslieannbradley.com/\">Leslie Ann Bradley</a><em> is currently in Toronto to sing the title role in Charpentier's Louise, for </em><a href=\"http://www.operainconcert.com/Louise.html\" target=\"_blank\" data-mce-href=\"http://www.operainconcert.com/Louise.html\">VOICEBOX: Opera in Concert'</a><em>s upcoming performance on March 29th. Leslie Ann had some great things to say about the opera, singing the role of Louise, and what kind of story it tells about women at the turn of the 20th century. Photo: </em><a href=\"http://www.lisamariemazzucco.com/\" target=\"_blank\" data-mce-href=\"http://www.lisamariemazzucco.com/\">Lisa-Marie Mazzucco</a><em>.</em>\n</p>"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428714873377/LeslieAnnBradley.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428714873377/LeslieAnnBradley.jpg.jpg"
 publishDate = "2015-03-26T11:15:00-04:00"
 short_description = "Canadian soprano Leslie Ann Bradley is currently in Toronto  to sing the title role in Charpentier&#039;s Louise, for VOICEBOX: Opera in Concert&#039;s upcoming performance on March 29th. Leslie Ann had some great things to say about the opera, singing the role of Louise, and what kind of story it tells about women at the turn of the 20th century. Photo: Lisa-Marie Mazzucco."
 slug = "talking-louise-with-leslie-ann-bradley"

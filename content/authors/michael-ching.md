@@ -2,7 +2,7 @@
 date = "2015-09-07T22:05:00-04:00"
 facebook = "https://www.facebook.com/michael.ching.5667"
 lastmod = "2018-01-09T19:48:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441677917710/MichaelChingSquare.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441677917710/MichaelChingSquare.jpg.jpg"
 publishDate = "2015-09-07T22:05:00-04:00"
 short_bio = "Michael Ching is the composer/librettist of [*SPEED DATING TONIGHT!*](https://www.youtube.com/watch?v=Q0nhqsKRG8c) and [*BUOSO&#039;S GHOST*](https://ecspublishing.com/opera/buosos-ghost). He is Opera Consultant for [E. C. Schirmer Music Publishers](https://ecspublishing.com/), Composer-in-Residence at [Savannah Voice Festival](http://savannahvoicefestival.org/), and Music Director of Amarillo Opera. SpDT! has been done over sixty times since its 2013 premiere. He is currently working on new operas for Cedar Rapids Opera Theater and the Palm Springs Opera Guild."
 slug = "michael-ching"

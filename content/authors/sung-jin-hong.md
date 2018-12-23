@@ -2,7 +2,7 @@
 date = "2017-09-26T10:09:00-04:00"
 facebook = "https://www.facebook.com/oneworldsymphony/"
 lastmod = "2017-09-26T10:09:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506434916786/2017-09-25---SungJinHong_JVinsek3_SQ.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506434916786/2017-09-25---SungJinHong_JVinsek3_SQ.jpg.jpg"
 publishDate = "2017-09-26T10:09:00-04:00"
 short_bio = "As Artistic Director and Composer-Conductor, Sung Jin Hong is dedicated to integrating One World Symphony into the fabric of the community through adventurous programming, inspiring performances, benefit concerts, and audience engagement. The symphony has extended its activism with benefit concerts and civic events that serve to heal, uplift, and empower."
 slug = "sung-jin-hong"

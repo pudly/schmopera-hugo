@@ -5,7 +5,7 @@ date = "2016-01-15T15:06:00-05:00"
 lastmod = "2016-01-19T14:21:00-05:00"
 people = ["Yannick Nézet-Séguin"]
 preamble = "Just like all the different ways a human voice can sound to our ears, each conductor brings their unique presence to an orchestra. A different posture, a different flow of gesture can bring out a huge variance of sound from the players as they react to what they see. Conducting is much, *much* more than a clear beat pattern, and we wanted to show our readers just how differently rhythmic information can look. \n\nNow, [Anthony Pappano's sporting of a GoPro](https://www.youtube.com/watch?v=JiIo16E1VtY) camera while he conducts a rehearsal is pretty neat, but we'd rather show you the big picture. We've selected clips of 8 conductors and their 8 unique styles at work; have a look, and ask yourself, who would you want to follow?"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453072264473/2016-01-17%20-%20Conductors.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453072264473/2016-01-17%20-%20Conductors.jpg.jpg"
 publishDate = "2016-01-19T13:00:00-05:00"
 short_description = "Just like all the different ways a human voice can sound to our ears, each conductor brings their unique presence to an orchestra. A different posture, a different flow of gesture can bring out a huge variance of sound from the players as they react to what they see. Conducting is much, much more than a clear beat pattern, and we wanted to show our readers just how differently rhythmic information can look. "
 slug = "watch-learn-maestros-at-work"

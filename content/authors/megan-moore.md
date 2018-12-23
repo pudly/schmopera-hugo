@@ -2,7 +2,7 @@
 date = "2015-12-13T20:31:00-05:00"
 facebook = "https://www.facebook.com/meganmooresoprano?fref=ts"
 lastmod = "2015-12-13T20:31:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450056480651/2015-12-14---Megan-Moore.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450056480651/2015-12-14---Megan-Moore.jpg.jpg"
 publishDate = "2015-12-13T20:31:00-05:00"
 short_bio = "Active as a singing actress, Megan sang the role of Blanche de la Force in Eastman Opera Theatre’s most recent production of *Dialogues of the Carmelites*. Other leading operatic roles include Mabel in *Pirates of Penzance* and the title role in Massenet’s *Cinderella*. Megan made her operatic debut singing La Suora Infermiera in Puccini’s *Suor Angelica*. Megan’s training and skills extend to musical theatre and dance. Musical theatre credits include Jo in *Little Women*, Hope in *Anything Goes*, and Belle in *Beauty and the Beast*. She is also no stranger to straight theatre, having performed the role of Mrs. Frank in *The Diary of Anne Frank*.\n"
 slug = "megan-moore"

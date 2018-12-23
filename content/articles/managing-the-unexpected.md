@@ -5,7 +5,7 @@ date = "2015-10-28T22:07:00-04:00"
 lastmod = "2015-11-01T10:28:00-05:00"
 people = ["Christopher Enns"]
 preamble = "This is a guest post by Canadian tenor [Chris Enns](/scene/people/christopher-enns/), creator of the personal finance blog for artists, [Rags to Reasonable](http://www.ragstoreasonable.com/). If you want to get to know Chris and his blog, start by checking out his [5 Money Tips for Artists](https://www.youtube.com/watch?v=HJoaiRHHZcs)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446084530034/15-10-29---Enns-Post.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446084530034/15-10-29---Enns-Post.jpg.jpg"
 publishDate = "2015-11-01T10:00:00-05:00"
 short_description = "Risk-proof your life. That’s what the personal finance experts will tell you. Well, experts... The prospect of ‘risk-proofing’ an artist&#039;s life seems pretty dang daunting. Do you guys ever feel like there’s nothing in this business that you can actually control?"
 slug = "managing-the-unexpected"
