@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2015-04-10T20:50:00-04:00"
 lastmod = "2015-04-12T19:47:00-04:00"
@@ -7,6 +7,7 @@ preamble = "On[ April 12th at Mazzoleni Concert Hall](http://amiciensemble.com/e
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428713220950/AmiciMireill.jpg.jpg"
 primary_image_credit = "Bo Huang (Amici Ensemble) & Matthew Fried (Mireille Asselin)"
 publishDate = "2015-04-01T10:00:00-04:00"
+related_articles = ["articles/dont-miss-the-amici-ensemble-reimagines-don-giovanni.md"]
 short_description = "An interview with soprano Mireille Asselin and the Amici Chamber Ensemble, as they prepare to collaborate in concert on April 12th."
 slug = "5-questions-mireille-asselin-amici-chamber-ensemble"
 title = "5 Questions for Mireille Asselin &amp; the Amici Chamber Ensemble"

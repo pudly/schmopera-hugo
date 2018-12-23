@@ -1,13 +1,14 @@
 +++
-author = "Alessia Naccarato"
+author = ["authors/alessia-naccarato.md"]
 categories = "Review"
-companies = ["English National Opera"]
 date = "2018-11-18T17:15:00-05:00"
 lastmod = "2018-11-19T12:04:00-05:00"
-people = ["Roderick Williams OBE","David Butt Philip","Emma Bell"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542647057603/sqENOWarRequiemRoderickWilliamsDavidButtPhilipRichardHubertSmith.jpg.jpg"
 primary_image_credit = "David Butt Philip and Roderick Williams in Benjamin Britten's War Requiem, English National Opera, 2018. Photo: Richard Hubert Smith."
 publishDate = "2018-11-19T11:54:00-05:00"
+related_articles = ["articles/catharsis-is-the-wrong-word-brittens-war-requiem.md"]
+related_companies = ["scene/companies/english-national-opera.md"]
+related_people = ["scene/people/scene/roderick-williams.md","scene/people/david-butt-philip.md","scene/people/emma-bell.md"]
 short_description = "It is a piece that could have been so unabashedly English but instead it was a nationless, chilling cry of warning. It was a perverted mockery of the dangerous, power hungry nature of war. It was one long, beautiful moment of extended prayer."
 slug = "a-chilling-cry-of-warning-enos-war-requiem"
 title = "A chilling cry of warning: ENO&#039;s War Requiem"

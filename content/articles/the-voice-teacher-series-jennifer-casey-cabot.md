@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2018-04-18T16:55:00-04:00"
 lastmod = "2018-04-30T21:41:00-04:00"
@@ -7,6 +7,7 @@ preamble = "A student of renowned voice technician Richard Miller (*The Structur
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524862656671/sqCabot.jpg.jpg"
 primary_image_credit = "Photo: Alexander Vasiljev Photography."
 publishDate = "2018-04-30T21:41:00-04:00"
+related_articles = ["articles/the-voice-teacher-series-betsy-bishop.md","articles/the-voice-teacher-series-edith-wiens.md"]
 short_description = "&quot;Breath support is the foundation of everything we do as singers, so it is a constant focus in my studio to understand and integrate buoyancy, appoggio and breath pacing mastery.&quot;"
 slug = "the-voice-teacher-series-jennifer-casey-cabot"
 title = "The voice teacher series: Jennifer Casey Cabot"

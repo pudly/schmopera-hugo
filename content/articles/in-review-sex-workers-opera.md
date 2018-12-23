@@ -1,10 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
 date = "2016-05-20T09:43:00+01:00"
 lastmod = "2016-05-20T17:55:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463735830263/2016-05-20---Sex-Workers-Opera-Square.jpg.jpg"
 publishDate = "2016-05-20T10:30:00+01:00"
+related_articles = ["articles/have-you-heard-opera-is-dirty-business.md","articles/mewsy-goes-to-the-opera.md","articles/safe-words-masquerades-nashville-opera-presents-three-way.md"]
 short_description = "In the context of the show, these stories were dragged from the abstract, and into the specific. Stereotypes like The Average John (always with a mustache), the CEO who likes to be slapped around, and the &quot;moral person&quot; who broadcasts loudly his own preferences in his judgement of which forms of sex work toe the line of &quot;appropriate&quot;, and which are downright lewd and dangerous."
 slug = "in-review-sex-workers-opera"
 title = "In review: Sex Workers&#039; Opera"

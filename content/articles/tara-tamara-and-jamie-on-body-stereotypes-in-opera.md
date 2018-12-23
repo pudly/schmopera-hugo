@@ -1,11 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2015-04-12T21:33:00-04:00"
 lastmod = "2015-04-13T22:08:00-04:00"
-people = ["Tamara Wilson","Jamie Barton"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428888672930/Tammy.jpg.jpg"
 publishDate = "2014-08-13T09:33:00-04:00"
+related_people = ["scene/people/tamara-wilson.md","scene/people/jamie-barton.md"]
 short_description = "Remember the old(ish) story about Irish mezzo Tara Erraught getting fat-shamed as Octavian at Glyndebourne this summer? They called her “dumpy” and “chubby”, and the lovely Alexander Chancellor at The Spectator added, “it is time that opera singers stopped rejoicing in their fatness and joined with the rest of mankind in the great battle against obesity.” "
 slug = "tara-tamara-and-jamie-on-body-stereotypes-in-opera"
 title = "Tara, Tamara, and Jamie: on body stereotypes in opera"

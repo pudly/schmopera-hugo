@@ -1,10 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Humour"
 date = "2016-07-20T11:17:00-04:00"
 lastmod = "2016-07-22T08:01:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469030078083/2016-07-20---Trump.jpg.jpg"
 publishDate = "2016-07-22T07:55:00-04:00"
+related_articles = ["articles/fachisms-stereotypes-for-a-reason.md","articles/fachmecom-a-new-fun-game.md","articles/taking-a-bow-curtain-calls-for-your-voice-type.md"]
 short_description = "Trump would be a buffo bass role, clearly. Blustering, bumbling and woofy, his lines would be meaningless patter in the style of Rossini. His lines would overlap those of all other characters&#039;, interrupting in that charming way, and rambling on long after anything of possible meaning had been said."
 slug = "hypothetical-operas-the-2016-presidential-election"
 title = "Hypothetical operas: The 2016 Presidential Election"

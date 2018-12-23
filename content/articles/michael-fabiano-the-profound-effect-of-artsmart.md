@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2017-01-02T21:47:00+00:00"
 lastmod = "2017-01-12T21:27:00+00:00"
-people = ["Michael Fabiano","John Viscardi"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483626621649/20-17-01-05---Fabiano---Doneson.jpg.jpg"
 primary_image_credit = "Photo by Arielle Doneson"
 publishDate = "2017-01-07T11:54:00+00:00"
+related_articles = ["articles/arts-money-waste.md","articles/talking-with-singers-michael-fabiano.md"]
+related_people = ["scene/people/scene/rolando-villazon.md","scene/people/john-viscardi.md"]
 short_description = "When it comes to young people with little to no extra-curricular activities in their daily schedules, it&#039;s a major discovery to see that students are eager to stay after school for their private sessions. &quot;Lots of the kids are genuinely excited to be able to stay after school and wait for a lesson,&quot; says Fabiano. &quot;To be able to focus on something every day, and to wait an hour to do their lesson, is good for them because it keeps them in the incubator environment.&quot;"
 slug = "michael-fabiano-the-profound-effect-of-artsmart"
 title = "Michael Fabiano: the &quot;profound effect&quot; of ArtSmart"

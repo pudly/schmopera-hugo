@@ -1,11 +1,11 @@
 +++
-author = "Greg Finney"
+author = ["authors/greg.md"]
 categories = "Review"
 date = "2014-11-16T10:00:00-05:00"
 lastmod = "2015-04-13T23:09:00-04:00"
-people = ["Lucia Cesaroni","Adrian Kramer","Maika'i Nash"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428980878414/Extensions-Collage-720x720.jpg.jpg"
 publishDate = "2014-11-16T10:00:00-05:00"
+related_people = ["scene/people/lucia-cesaroni.md","scene/people/adrian-kramer.md","scene/people/maikai-nash.md"]
 short_description = "On a cool Thursday night I trotted down to the Extension Room at 30 Eastern Avenue for Extensions of Us, featuring Lucia Cesaroni, Adrian Kramer, Jennifer Nichols and Justin De Bernardi with Maika&#039;i Nash on piano."
 slug = "in-review-extensions-of-us"
 title = "In review: Extensions of Us"

@@ -1,13 +1,14 @@
 +++
-author = "Greg Finney"
+author = ["authors/greg.md"]
 categories = "Review"
-companies = ["Against the Grain Theatre","The Banff Centre"]
 date = "2018-04-27T21:09:00-04:00"
 lastmod = "2018-04-28T11:11:00-04:00"
-people = ["Mireille Asselin","Joel Ivany","Christopher Mokrzewski","Siman Chung","Marcy Richardson"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524877647023/sqORPHEE_1236.jpg.jpg"
 primary_image_credit = "Darryl Block Photography. Mireille Asselin (Eurydice) and Siman Chung  (Orphée)."
 publishDate = "2018-04-28T11:11:00-04:00"
+related_articles = ["articles/ravishing-orphic-moments-with-gluck-aucoin-costanzo.md"]
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md"]
+related_people = ["scene/people/mireille-asselin.md","scene/people/joel-ivany.md","scene/people/christopher-mokrzewski.md","scene/people/siman-chung.md","scene/people/marcy-richardson.md"]
 short_description = "Undoubtedly, the standout performance of the show goes to the remarkable Company XIV. These six dancers, in some of the most exquisite costuming I&#039;ve ever seen, moved throughout the show functioning much in the way a Greek chorus would. Their physicality representing the off-stage chorus as well as the virtual one compiled by singers from around the world submitting recordings of themselves."
 slug = "futuristic-baroque-burlesque-orphe"
 title = "Futuristic Baroque burlesque: Orphée"

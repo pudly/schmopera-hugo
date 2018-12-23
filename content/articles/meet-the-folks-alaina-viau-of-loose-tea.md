@@ -1,9 +1,10 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 date = "2015-07-31T17:02:00-04:00"
 draft = true
 lastmod = "2015-07-31T17:20:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438377425605/AlainaHeadshotSquare.jpg.jpg"
+related_articles = ["articles/loose-tea-raises-funds-for-radical-new-vision-of-bizets-carmen.md"]
 slug = "meet-the-folks-alaina-viau-of-loose-tea"
 title = "Meet the folks: Alaina Viau of Loose TEA"
 +++

@@ -1,13 +1,14 @@
 +++
-author = "Meghan Klinkenborg"
+author = ["authors/meghan-klinkenborg.md"]
 categories = "Review"
-companies = ["Des Moines Metro Opera"]
 date = "2018-11-18T17:16:00-05:00"
 lastmod = "2018-11-22T11:18:00-05:00"
-people = ["Kelly Kaduce"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542902531496/sqDSC_3304.png"
 primary_image_credit = "Michael Mayes as Older Thompson in Glory Denied, Des Moines Metro Opera, 2018. Photo: Duane Tinkey."
 publishDate = "2018-11-22T11:18:00-05:00"
+related_articles = ["articles/an-extended-mad-scene-glory-denied.md"]
+related_companies = ["scene/companies/des-moines-metro-opera.md"]
+related_people = ["scene/people/kelly-kaduce.md"]
 short_description = "This is Des Moines Metro Opera&#039;s second opera performed at Camp Dodge, and I hope it will not be the last. Aside from the physical location, the collaboration with the military community produces numerous benefits. The participation of veterans and active duty service members in the post-show panel discussion helped to bridge the gap between theater and reality."
 slug = "true-impact-dmmos-glory-denied"
 title = "True impact: DMMO&#039;s Glory Denied"

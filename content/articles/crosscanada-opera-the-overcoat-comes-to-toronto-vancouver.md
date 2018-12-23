@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Tapestry Opera","Vancouver Opera"]
 date = "2017-03-02T15:06:00+00:00"
 lastmod = "2017-03-02T17:26:00+00:00"
-people = ["Michael Mori","James Rolfe"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488468600188/KL9BI1nJhap3RsMqfNnuS0_r7mjTV-DsU-BF7UZYyBKVld4tjglzmlOeTDBorifsB9jYQFPv1H_AtPVUiBQ8T5HVhEqlIw%3Dw680-h680-c"
 primary_image_credit = "Keith Klassen, Krisztina Szabó & Alexander Dobson in The Overcoat by Morris Panych & James Rolfe, 2014. Photo: Dahlia Katz."
 publishDate = "2017-03-02T17:26:00+00:00"
+related_articles = ["articles/in-review-rocking-horse-winner.md","articles/in-review-mdea-undone.md"]
+related_companies = ["scene/companies/tapestry-opera.md","scene/companies/vancouver-opera.md"]
+related_people = ["scene/people/michael-mori.md","scene/people/james-rolfe.md"]
 short_description = "The Overcoat: An Opera has its roots in the 1998 Canadian play by Morris Panych and Wendy Gorling. Rolfe&#039;s operatic adaptation is a co-commission with Tapestry Opera and Vancouver Opera, and a co-production between Tapestry, VO, and Canadian Stage."
 slug = "crosscanada-opera-the-overcoat-comes-to-toronto-vancouver"
 title = "Cross-Canada opera: The Overcoat comes to Toronto &amp; Vancouver"

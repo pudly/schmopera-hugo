@@ -1,11 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md","authors/greg.md"]
 categories = "Review"
 date = "2017-07-31T12:02:00-04:00"
 lastmod = "2017-08-01T12:28:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501600877917/2017-08-01---SOLT-square.jpg.jpg"
 primary_image_credit = "A scene from Night Blooming Cereus, SOLT, 2017. Photo: Emily Ding."
 publishDate = "2017-08-01T11:31:00-04:00"
+related_articles = ["articles/falstaff-he-saidshe-said.md","articles/ariodante-or-the-hebridean-handel.md"]
 short_description = "Night Blooming Cereus and A Northern Lights Dream have little in common except the fact that they&#039;re Canadian operas, set in the worlds of small-town Shakespeare, Ontario."
 slug = "in-review-solts-canadian-doublebill"
 title = "In review: SOLT&#039;s Canadian double-bill"

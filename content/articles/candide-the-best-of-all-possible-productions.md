@@ -1,13 +1,14 @@
 +++
-author = "Loren Lester"
+author = ["authors/loren-lester.md"]
 categories = "Review"
-companies = ["Los Angeles Opera"]
 date = "2018-02-16T21:30:00-05:00"
 lastmod = "2018-02-16T22:24:00-05:00"
-people = ["Peabody Southwell","Jack Swanson","Brian Michael Moore","Matthew Scollin","Erin Morley"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518833177910/sq---cand_0016_pr.jpg.jpg"
 primary_image_credit = "Kelsey Grammer as Voltaire in LA Opera's 2018 production of Candide. Photo: Ken Howard/LA Opera."
 publishDate = "2018-02-16T21:30:00-05:00"
+related_articles = ["articles/too-many-jewels-the-search-for-meaning-pbos-candide.md","articles/candide-projecting-the-best-of-all-possible-worlds.md","articles/grappling-with-daily-life-wnos-candide.md"]
+related_companies = ["scene/companies/los-angeles-opera.md"]
+related_people = ["scene/people/peabody-southwell.md","scene/people/jack-swanson.md","scene/people/brian-michael-moore.md","scene/people/matthew-scollin.md","scene/people/erin-morley.md"]
 short_description = "All of Candide’s disasters could translate into a disastrous evening, but thanks to the clear and sure hand of director Zambello, the humor is allowed to speak for itself without too many additional bits and gags that often make a funny show tiresome and unwatchable."
 slug = "candide-the-best-of-all-possible-productions"
 title = "Candide: the Best of All Possible Productions?"

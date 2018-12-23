@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Royal Opera House"]
 date = "2016-11-16T10:41:00+00:00"
 lastmod = "2016-11-16T15:41:00+00:00"
-people = ["Vittorio Grigòlo","Sonya Yoncheva","Thomas Hampson","Sofia Fomina","Christine Rice","Kate Lindsey"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479296667974/2016-11-16---2774ashm_0559--VITTORIO-GRIGOLO-AS-HOFFMANN-ROH-PHOTOGRAPHER-CATHERINE-ASHMORE.jpg.jpg"
 primary_image_credit = "VIttorio Grigòlo (Hoffmann) in Les contes d'Hoffmann, ROH, 2016. Photo by Catherine Ashmore."
 publishDate = "2016-11-16T12:27:00+00:00"
+related_articles = ["articles/jawdropping-the-nose-at-roh.md","articles/in-review-tannhauser-at-roh.md","articles/in-review-lucia-di-lammermoor-at-roh.md","articles/an-isolated-tenor-in-an-operatic-masterwork-les-contes-dhoffmann.md"]
+related_companies = ["scene/companies/royal-opera-house.md"]
+related_people = ["scene/people/scene/vittorio-grigolo.md","scene/people/sonya-yoncheva.md","scene/people/thomas-hampson.md","scene/people/sofia-fomina.md","scene/people/christine-rice.md","scene/people/kate-lindsey.md"]
 short_description = "His Hoffmann was strapping, sexy, and desperate, and his open-throated, silvery sound was utterly thrilling. He sang with an extraordinary range of colour, and he took us through the vocal evolution of Hoffmann, as he accumulates more and more emotional baggage from his failed affairs."
 slug = "in-review-les-contes-dhoffmann"
 title = "In review: Les contes d&#039;Hoffmann"

@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Canadian Opera Company"]
 date = "2016-05-17T21:49:00+01:00"
 lastmod = "2016-05-18T16:54:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463519486099/2016-05-18---Maometto-MC-1161.jpg.jpg"
 primary_image_credit = "Luca Pisaroni as Maometto II and Leah Crocetto as Anna in the COC’s production of Maometto II, 2016, photo: Michael Cooper"
 publishDate = "2016-05-18T12:43:00+01:00"
+related_articles = ["articles/dr-john-suk-minister-of-the-lpcc-this-is-a-huge-shock.md","articles/valentina-lisitsa-freedom-of-speech-is-a-twoway-street.md","articles/opera-australia-hating-haters.md"]
+related_companies = ["scene/companies/canadian-opera-company.md"]
 short_description = "In a story that was apparently about freedom of press, it&#039;s frustrating to read Lebrecht&#039;s posting of incomplete stories, full of opinions and phrases like &quot;suppressed review,&quot; &quot;protest,&quot; and &quot;sniffing glue,&quot; all of which are clearly biased against the Canadian Opera Company. We&#039;re really glad to see how the COC was quick to be transparent, and to clarify the errors and omissions by Lebrecht."
 slug = "freedom-of-press-journalistic-integrity"
 title = "Freedom of press &amp; journalistic integrity"

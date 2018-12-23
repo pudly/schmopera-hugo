@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Welsh National Opera","Teatro alla Scala"]
 date = "2016-04-04T19:43:00+01:00"
 lastmod = "2016-04-05T10:33:00+01:00"
-people = ["Anna Devin"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459795500620/2016-04-04---Anna-Devin.jpg.jpg"
 primary_image_credit = "Photo: Victoria Cadisch."
 publishDate = "2016-04-05T09:47:00+01:00"
+related_articles = ["articles/talking-with-singers-elizabeth-deshong.md","articles/talking-with-singers-leah-crocetto.md","articles/talking-with-singers-christine-goerke.md","articles/a-very-happy-20th-birthday-for-classical-opera.md"]
+related_companies = ["scene/companies/welsh-national-opera.md","scene/companies/teatro-alla-scala.md"]
+related_people = ["scene/people/anna-devin.md"]
 short_description = "Devin feels &quot;completely at home in Handel&quot; and relishes the collaborative process of pulling the music off the page. &quot;You can&#039;t actually be wrong; you can have a difference of opinion between you and the conductor, but there&#039;s nothing to say that you&#039;re wrong. And I quite like that, because it means we can have interesting discussions about why you should do one thing and why you shouldn&#039;t do another.&quot;"
 slug = "talking-with-singers-anna-devin"
 title = "Talking with singers: Anna Devin"

@@ -1,11 +1,12 @@
 +++
-author = "Loren Lester"
+author = ["authors/loren-lester.md"]
 categories = "Review"
 date = "2018-02-18T09:59:00-05:00"
 lastmod = "2018-02-19T21:09:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519092318147/sq---LUQ_7392.jpg.jpg"
 primary_image_credit = "(left to right) Suzanna Guzmán (Lupita), Juan Mendoza (Chucho) in Cruzar la Cara de la Luna, 2018."
 publishDate = "2018-02-19T21:09:00-05:00"
+related_articles = ["articles/vos-merry-widow-a-comedic-tourdeforce.md"]
 short_description = "Director Guerrero, using only a small acting space and nothing more than a door, a chair and bed as set pieces, utilized beautiful and, in some cases, symbolic rear projections to underpin the production, which is as much about the heart-breaking issue of immigration as it is about the heart-felt music."
 slug = "viva-la-operetta"
 title = "&quot;Viva la operetta!&quot;"

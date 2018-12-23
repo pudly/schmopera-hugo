@@ -1,13 +1,13 @@
 +++
-author = "Meghan Klinkenborg"
+author = ["authors/meghan-klinkenborg.md"]
 categories = "Review"
-companies = ["Des Moines Metro Opera"]
 date = "2018-07-12T15:07:00-04:00"
 lastmod = "2018-07-12T15:07:00-04:00"
-people = ["Elise Quagliata","Audrey Luna","John Holiday"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1531422311199/sqDSC_6359.jpg.jpg"
 primary_image_credit = "Flight, Des Moines Metro Opera, 2018. Photo: Duane Tinkey for Des Moines Metro Opera."
 publishDate = "2018-07-12T15:07:00-04:00"
+related_companies = ["scene/companies/des-moines-metro-opera.md"]
+related_people = ["scene/people/elise-quagliata.md","scene/people/audrey-luna.md","scene/people/john-holiday.md"]
 short_description = "What struck me most about this work by Jonathan Dove and April de Angelis is the intricate, layered nature of the music and text. I could see numerous performances of this opera and discover something new about it everything single time. Great comedy should make us think, and Flight provides plenty of food for thought."
 slug = "layered-comedy-flight"
 title = "Layered comedy: Flight"

@@ -1,11 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "News"
-companies = ["SongFest"]
 date = "2018-01-16T21:48:00-05:00"
 lastmod = "2018-01-16T21:48:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516157083758/2018-01-17---Hourglass.jpg.jpg"
 publishDate = "2018-01-16T21:48:00-05:00"
+related_articles = ["articles/how-to-make-the-most-of-your-summer-program.md","articles/opera-songfest-team-up-in-la.md"]
+related_companies = ["scene/companies/songfest.md"]
 short_description = "I&#039;m an alumna of SongFest, and I can vouch for the program&#039;s extraordinarily dense and empowering training environment. It&#039;s a special chance to work, often one-on-one, with figures who represent the contemporary industry. It can be a career-making encounter, no doubt."
 slug = "dont-miss-it-songfests-fastapproaching-2018-deadlines"
 title = "Don&#039;t miss it: SongFest&#039;s fast-approaching 2018 deadlines"

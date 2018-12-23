@@ -1,11 +1,12 @@
 +++
-author = "Melissa Ratcliff"
+author = ["authors/melissa-ratcliff.md"]
 categories = "Review"
 date = "2017-10-27T11:39:00-04:00"
 lastmod = "2017-10-27T14:24:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509128537321/2017-10-27---KayoiKomachi_HeatherPawseyAsKomachi_photoTrevanWong_6492.jpg.jpg"
 primary_image_credit = "Soprano Heather Pawsey. Photo by Trevan Wong."
 publishDate = "2017-10-27T14:24:00-04:00"
+related_articles = ["articles/a-grand-night-out-at-vancouver-operas-turandot.md","articles/tarrare-the-freak-i-just-want-to-be-full.md"]
 short_description = "In traditional Noh, there is far less in terms of story and action than you would expect in a Western-style play or opera. So much of the story is often based in metaphor, and the performers, rather than acting out a series of events, are conveying the essence of a story instead of enacting it."
 slug = "a-fascinating-marriage-of-art-forms-kayoi-komachi"
 title = "&quot;A fascinating marriage of art forms&quot;: Kayoi Komachi"

@@ -1,11 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "How-to"
 date = "2015-11-23T10:36:00-05:00"
 lastmod = "2015-11-23T12:10:00-05:00"
 preamble = "For English speaking singers, singing in their native language is harder than you'd think. It's difficult to think of your own language objectively, and English is often a complicated mess of vague vowels. In today's opera and classical music scenes, it's more important than ever for young singers to sing well in English, and to be understood by their audiences. Crisp consonants can go a long way, but here are three valuable tips to keep your listeners' attention, and eventually make same-language surtitles a thing of the past."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448295056098/2015-11-22---English.jpg.jpg"
 publishDate = "2015-11-23T12:08:00-05:00"
+related_articles = ["articles/quick-tips-the-rolled-r-test.md","articles/5-ways-to-build-your-rhythmic-chops.md","articles/singable-text-when-composers-make-it-tricky.md","articles/4-myths-from-music-school.md","articles/how-much-to-tell-your-students-about-the-voice.md","articles/4-ways-to-test-your-memory.md","articles/dear-me-advice-to-my-freshman-self.md","articles/3-ways-your-english-is-showing.md","articles/rhythm-the-good-the-bad-and-the-stressful.md","articles/4-english-language-habits-that-make-a-singers-life-harder.md","articles/4-foreign-language-challenges-for-singers.md"]
 short_description = "It&#039;s hard to think of your own language objectively, and English is often a complicated mess of vague vowels. In today&#039;s opera and classical music scenes, it&#039;s more important than ever for young singers to sing well in English, and to be understood by their audiences. Crisp consonants can go a long way, but here are three valuable tips to keep your listeners&#039; attention, and eventually make same-language surtitles a thing of the past."
 slug = "singing-in-english-3-reasons-why-no-one-can-understand-you"
 title = "Singing in English: 3 reasons why no one can understand you"

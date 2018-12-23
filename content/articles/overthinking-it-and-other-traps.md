@@ -1,11 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Op-ed"
 date = "2015-05-06T12:22:00-04:00"
 lastmod = "2015-05-07T11:01:00-04:00"
-people = ["Alice Coote","Gerald Finley"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430945963770/TheThinker.jpg.jpg"
 publishDate = "2015-05-07T10:50:00-04:00"
+related_articles = ["articles/power-plays-and-crossing-lines-.md"]
+related_people = ["scene/people/alice-coote.md","scene/people/gerald-finley.md"]
 short_description = "Don Giovanni may have a drug problem, or he may be secretly gay, or he may be grossly insecure, but you can *play* seduction. And that&#039;s enough, you know? Simplicity doesn&#039;t mean you put in less work, it just means you let the audience get interested on their own."
 slug = "overthinking-it-and-other-traps"
 title = "Overthinking it and other traps"

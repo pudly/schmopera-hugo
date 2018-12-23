@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Royal Opera House"]
 date = "2017-01-08T21:51:00+00:00"
 lastmod = "2017-01-10T15:10:00+00:00"
-people = ["Renée Fleming","Alice Coote","Matthew Rose","Sophie Bevan"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484056145982/2017-01-10---0565-RENEE-FLEMING-AS-THE-MARSCHALLIN-ROH-PHOTO-CATHERINE-ASHMORE.jpg.jpg"
 primary_image_credit = "Renée Fleming as the Marschallin in Der Rosenkavalier, Royal Opera House, 2016. Photo by Catherine Ashmore."
 publishDate = "2017-01-10T14:09:00+00:00"
+related_articles = ["articles/falstaff-he-saidshe-said.md","articles/in-review-lucia-di-lammermoor-at-roh.md","articles/ariodante-or-the-hebridean-handel.md","articles/a-problematic-creaky-old-masterpiece-les-vpres-siciliennes.md","articles/facts-leaps-taking-unnecessary-offence.md","articles/fleming-enchants-luscious-morsels-of-postopera-career.md"]
+related_companies = ["scene/companies/royal-opera-house.md"]
+related_people = ["scene/people/scene/renee-fleming.md","scene/people/alice-coote.md","scene/people/matthew-rose.md","scene/people/sophie-bevan.md"]
 short_description = "It&#039;s as though Richard Strauss envisioned the skill of singers like Renée Fleming and Alice Coote when he wrote that first scene of Rosenkavalier. It&#039;s not something that can be properly anticipated, the thrill of watching two exceptional singers perform roles for which they are rightly known."
 slug = "in-review-der-rosenkavalier-at-roh"
 title = "In review: Der Rosenkavalier at ROH"

@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "News"
-companies = ["Off Centre Music Salon"]
 date = "2016-02-03T12:01:00-05:00"
 lastmod = "2016-02-03T13:15:00-05:00"
-people = ["Krisztina Szabó","James Westman"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454522811932/2016-02-03---Off-Centre-Salon.jpg.jpg"
 publishDate = "2016-02-03T13:15:00-05:00"
+related_articles = ["articles/squeezebox-at-soundstreams.md"]
+related_companies = ["scene/companies/off-centre-music-salon.md"]
+related_people = ["scene/people/krisztina-szab.md","scene/people/james-westman.md"]
 short_description = "Off Centre Music Salon is all about presenting classical music &quot;in an innovative atmosphere that evokes the spirit of a 19th century European salon.&quot; The beautiful Trinity-St. Paul&#039;s Centre is a great space to hear these fantastic artists, and tickets for The Cocktail Époque start at just $5."
 slug = "dont-miss-the-cocktail-epoque"
 title = "Don&#039;t miss: The Cocktail Époque"

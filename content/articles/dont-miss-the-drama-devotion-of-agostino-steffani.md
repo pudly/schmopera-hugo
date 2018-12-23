@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Tafelmusik Baroque Orchestra & Chamber Choir"]
 date = "2018-10-31T20:50:00-04:00"
 lastmod = "2018-11-02T10:40:00-04:00"
-people = ["Krisztina Szabó","Victoria Marshall"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541033701812/sqDSC_8494bohuang_f.jpg.jpg"
 primary_image_credit = "Krisztina Szabó, mezzo-soprano. Photo by Bo Huang."
 publishDate = "2018-11-02T10:40:00-04:00"
+related_articles = ["articles/i-sang-along-at-tafelmusiks-messiah.md"]
+related_companies = ["scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md"]
+related_people = ["scene/people/krisztina-szab.md","scene/people/victoria-marshall.md"]
 short_description = "&quot;He spins a beautiful melody,&quot; says mezzo-soprano Krisztina Szabó, who joins the Tafelmusik Baroque Orchestra and Chamber Choir on this programme of Steffani&#039;s music. The composer&#039;s style, &quot;for me, it falls between Cavalli and Handel.&quot;"
 slug = "dont-miss-the-drama-devotion-of-agostino-steffani"
 title = "Don&#039;t miss: the drama &amp; devotion of Agostino Steffani"

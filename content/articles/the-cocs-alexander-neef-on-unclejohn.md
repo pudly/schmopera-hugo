@@ -1,12 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Canadian Opera Company","Against the Grain Theatre","The Banff Centre"]
 date = "2015-04-12T22:27:00-04:00"
 lastmod = "2015-04-13T22:08:00-04:00"
-people = ["Alexander Neef"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428891975148/alexander-neef.jpg.jpg"
 publishDate = "2014-07-28T09:27:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md"]
+related_people = ["scene/people/alexander-neef.md"]
 short_description = "Last week, the #UncleJohn team was joined by Alexander Neef, General Director of the Canadian Opera Company. The COC has provided mentorship and support throughout the Open Space program, and while he was here at The Banff Centre, the singers had a chance to sing for Mr. Neef and ask him some of their questions about the operatic industry. "
 slug = "the-cocs-alexander-neef-on-unclejohn"
 title = "The COC&#039;s Alexander Neef on #UncleJohn"

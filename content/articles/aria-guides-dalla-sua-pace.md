@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "How-to"
 date = "2015-12-13T20:49:00-05:00"
 lastmod = "2015-12-15T10:03:00-05:00"
@@ -7,6 +7,7 @@ preamble = "Ah, Don Ottavio. Is he the lame duck of *Don Giovanni*, or is he the
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450062143687/2015-12-15---Dalla.jpg.jpg"
 primary_image_credit = "Matthew Polenzani (Don Ottavio) and Maria Bengtsson (Donna Anna), Opéra national de Paris, 2015. Photo: C. Pele / OnP"
 publishDate = "2015-12-15T10:03:00-05:00"
+related_articles = ["articles/aria-guides-quando-men-vo.md","articles/aria-guides-una-furtiva-lagrima.md","articles/aria-guides-the-counts-aria.md","articles/aria-guide-dies-bildnis-ist-bezaubernd-schon.md","articles/aria-guides-il-mio-tesoro.md","articles/aria-guides-o-wie-angstlich.md","articles/aria-guides-un-aura-amorosa.md"]
 short_description = "Ah, Don Ottavio. Is he the lame duck of Don Giovanni, or is he the quiet hero that doesn&#039;t get a lot of high notes? Whatever your opinions on the useless/heartfelt role of Ottavio, you can&#039;t deny that his arias are difficult, and often thankless. &quot;Dalla sua pace&quot; is an introductory piece to Ottavio&#039;s character; we get that he&#039;s sympathetic to Donna Anna&#039;s emotional highs and lows, and we know we&#039;ll never meet a more dedicated man when it comes to love."
 slug = "aria-guides-dalla-sua-pace"
 title = "Aria guides: &quot;Dalla sua pace&quot;"

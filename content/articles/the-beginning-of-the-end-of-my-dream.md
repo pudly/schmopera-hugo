@@ -1,5 +1,5 @@
 +++
-author = "Patrick Egersborg"
+author = ["authors/patrick-egersborg.md"]
 categories = "Op-ed"
 date = "2017-12-28T11:46:00-05:00"
 lastmod = "2017-12-28T21:20:00-05:00"

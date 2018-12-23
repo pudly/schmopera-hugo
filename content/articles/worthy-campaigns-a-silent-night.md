@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "News"
-companies = ["The Juilliard School"]
 date = "2016-03-12T15:23:00+00:00"
 lastmod = "2016-03-12T16:14:00+00:00"
-people = ["Peter Dugan","John Brancy"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457796147845/2016-03-12---Brancy-Dugan.jpg.jpg"
 primary_image_credit = "Baritone John Brancy (left) and pianist Peter Dugan. Photo by Gerard Collett. "
 publishDate = "2016-03-12T16:08:00+00:00"
+related_articles = ["articles/opera-with-a-message-operation-superpower.md"]
+related_companies = ["scene/companies/the-juilliard-school.md"]
+related_people = ["scene/people/peter-dugan.md","scene/people/john-brancy.md"]
 short_description = "Brancy and Dugan premiered A Silent Night at the Kennedy Center, and their subsequent recital tour has included their debut with Carnegie Hall Presents. The duo now wish to record A Silent Night, and they have launched an Indiegogo campaign to help the project. Tax-deductible donations will fund album production and post-production, artwork design, marketing, and other costs."
 slug = "worthy-campaigns-a-silent-night"
 title = "Worthy campaigns: A Silent Night"

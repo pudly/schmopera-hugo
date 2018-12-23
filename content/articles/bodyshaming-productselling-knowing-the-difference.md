@@ -1,10 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Op-ed"
 date = "2017-08-26T21:02:00-04:00"
 lastmod = "2017-08-27T22:31:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503887175158/2017-08-27---Product.jpg.jpg"
 publishDate = "2017-08-27T22:31:00-04:00"
+related_articles = ["articles/fat-phobia-in-opera-its-a-thing.md","articles/once-agan-shushing-meanies.md"]
 short_description = "But with a minimal amount of online vetting, a professional musician should be able to tell the difference between an organization which is about presenting concerts that put their artists in the spotlight, and one that offers &quot;background wallpaper&quot; in a variety of patterns and colours. There&#039;s nothing wrong with either, but each come with their own set of expectations."
 slug = "bodyshaming-productselling-knowing-the-difference"
 title = "Body-shaming, product-selling, &amp; knowing the difference"

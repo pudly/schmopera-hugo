@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["The Banff Centre","Against the Grain Theatre"]
 date = "2014-07-07T10:00:00+01:00"
 lastmod = "2016-11-27T21:33:00+00:00"
-people = ["Aaron Durand","Conrad Siebert"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429815120300/OttavioMasetto-768x1024.jpg.jpg"
 publishDate = "2014-07-07T10:00:00+01:00"
+related_articles = ["articles/im-chuffed.md"]
+related_companies = ["scene/companies/the-banff-centre.md","scene/companies/against-the-grain-theatre.md"]
+related_people = ["scene/people/aaron-durand.md","scene/people/conrad-siebert.md"]
 short_description = "Well, it&#039;s happening. Yesterday, the whole cast and crew of #UncleJohn moved into their new digs at the stunning Banff Centre. It was a day of informally bumping into each other over meals and self-guided orientations. I caught Leporello going over his patter outside Le café, and talked business over beer with maestro Hargreaves."
 slug = "banff-and-new-buddies"
 title = "Banff and new buddies"

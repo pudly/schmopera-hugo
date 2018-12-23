@@ -1,5 +1,5 @@
 +++
-author = "Madison Arsenault"
+author = ["authors/madison-arsenault.md","authors/danielle-simpson.md"]
 categories = "Op-ed"
 date = "2016-11-26T14:20:00+00:00"
 lastmod = "2016-11-28T12:35:00+00:00"

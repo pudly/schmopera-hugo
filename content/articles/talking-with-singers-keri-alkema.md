@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["English National Opera","Canadian Opera Company"]
 date = "2016-09-03T14:40:00+01:00"
 lastmod = "2016-09-16T09:11:00+01:00"
-people = ["Keri Alkema"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472910053353/2016-09-03---Keri-Alkema-Dario-Acosta.jpg.jpg"
 primary_image_credit = "Photo by Dario Acosta."
 publishDate = "2016-09-16T08:00:00+01:00"
+related_articles = ["articles/talking-with-singers-nicole-cabell.md","articles/talking-with-singers-christine-goerke.md","articles/talking-with-singers-othalie-graham.md","articles/talking-with-singers-luca-pisaroni.md","articles/talking-with-singers-rene-barbera.md","articles/in-review-tosca-at-eno.md","articles/in-review-tosca-at-the-coc.md","articles/talking-with-singers-jennifer-rowley.md","articles/steps-forward-for-operas-women-tosca-at-pbo.md"]
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/keri-alkema.md"]
 short_description = "&quot;I was really hoping my voice was going to drop so I could sing the big Verdi mezzo girls,&quot; Alkema remembers. But instead, the natural change in her voice led her to higher rep. &quot;I kind of walked into that in a natural way.&quot;"
 slug = "talking-with-singers-keri-alkema"
 title = "Talking with singers: Keri Alkema"

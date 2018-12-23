@@ -1,10 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2016-04-22T19:37:00+01:00"
 lastmod = "2016-04-23T12:03:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461407604298/2016-04-23---Scissors-2.jpg.jpg"
 publishDate = "2016-04-23T11:55:00+01:00"
+related_articles = ["articles/opera-in-concert-uncluttered-or-uninteresting.md"]
 short_description = "When it&#039;s harder to pull a section away from an entire scene, to find the real beginnings and ends of an aria, does that mean the opera is a purer melding of theatre and music? When a singer fights the urge to sing a bit from Bluebeard&#039;s Castle, and opts instead for &quot;Quando m&#039;en vo&quot;, are her urges founded in some quantifiable difference in quality? "
 slug = "party-arias-the-traits-of-lesser-operas"
 title = "Party arias: the traits of lesser operas?"

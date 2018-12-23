@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Against the Grain Theatre"]
 date = "2015-12-08T19:31:00-05:00"
 lastmod = "2015-12-09T12:55:00-05:00"
-people = ["Joel Ivany","Christopher Mokrzewski","Miriam Khalil","Stephen Hegedus","Owen McCausland","Andrea Ludwig","Vanessa Oude-Reimerink","Jonathan MacArthur","Michaela Dickey","Jennifer Nichols"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449620497680/AtG-Messiah-Instagram.jpg.jpg"
 publishDate = "2015-12-09T08:00:00-05:00"
+related_articles = ["articles/dont-miss-atgs-messiah.md","articles/rehearsing-a-messiah-that-moves.md","articles/in-review-against-nature.md","articles/free-webinar-alexander-technique-the-voice.md"]
+related_companies = ["scene/companies/against-the-grain-theatre.md"]
+related_people = ["scene/people/joel-ivany.md","scene/people/christopher-mokrzewski.md","scene/people/miriam-khalil.md","scene/people/stephen-hegedus.md","scene/people/owen-mccausland.md","scene/people/andrea-ludwig.md","scene/people/vanessa-oudereimerink.md","scene/people/jonathan-macarthur.md","scene/people/michaela-dickey.md","scene/people/jennifer-nichols.md"]
 short_description = "Against the Grain Theatre is revisiting its innovative, &quot;smash-success&quot; production of Handel&#039;s Messiah, this time at the Harbourfront Centre Theatre, in partnership with the Roy Thomson Hall and Massey Hall. We caught a few moments of rehearsal, and chatted with the soloists and a few keen chorus members about adding movement and new meaning to Handel&#039;s masterpiece."
 slug = "atgs-messiah-a-preview"
 title = "AtG&#039;s Messiah: a preview"

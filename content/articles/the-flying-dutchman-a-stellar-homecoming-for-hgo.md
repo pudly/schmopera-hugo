@@ -1,13 +1,14 @@
 +++
-author = "Andrew Schneider"
+author = ["authors/andrew-schneider.md"]
 categories = "Review"
-companies = ["Houston Grand Opera"]
 date = "2018-10-22T08:22:00-04:00"
 lastmod = "2018-10-23T10:20:00-04:00"
-people = ["Eric Cutler","Melody Moore"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540222746549/sqhgo---the-flying-dutchment---2018---photographer-lynn-lane-95-3000x2000.jpg.jpg"
 primary_image_credit = "Andrzej Dobber (Dutchman) in The Flying Dutchman, Houston Grand Opera, 2018. Photo: Lynn Lane."
 publishDate = "2018-10-22T19:44:00-04:00"
+related_articles = ["articles/kinder-schafft-neues-die-meistersinger-von-nrnberg.md","articles/in-review-siegfried.md"]
+related_companies = ["scene/companies/houston-grand-opera.md"]
+related_people = ["scene/people/eric-cutler.md","scene/people/melody-moore.md"]
 short_description = "HGO&#039;s triumphant return to this venue was replete with sheer authenticity of spirit, dedication, and craftsmanship from all quarters. Throughout this marathon performance, I was pleasantly touched by this production that treated the central narrative of redemption through love as something to be regarded passively, and not inhabited fully, to be believed, yet inviting scrutiny from all angles."
 slug = "the-flying-dutchman-a-stellar-homecoming-for-hgo"
 title = "The Flying Dutchman a stellar homecoming for HGO"

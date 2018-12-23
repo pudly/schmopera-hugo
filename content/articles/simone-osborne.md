@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Canadian Opera Company","Canadian Opera Company Ensemble Studio"]
 date = "2017-09-15T12:59:00-04:00"
 lastmod = "2017-09-25T23:09:00-04:00"
-people = ["Simone Osborne","Gordon Bintner","Andrew Haji"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505494538889/2017-09-15---Square---osborne4.jpg.jpg"
 primary_image_credit = "Photo: Bo Huang."
 publishDate = "2017-09-25T22:57:00-04:00"
+related_articles = ["articles/spotlight-on-amanda-majeski.md","articles/talking-with-singers-jamie-barton.md","articles/talking-with-singers-brenda-rae.md","articles/james-robinson-elixir.md","articles/he-saidshe-said-a-sweet-elixir-at-the-coc.md"]
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
+related_people = ["scene/people/simone-osborne.md","scene/people/gordon-bintner.md","scene/people/andrew-haji.md"]
 short_description = "&quot;For the first couple of seasons that I came back I still very much felt like I had to prove myself,&quot; says Osborne of returning to what she considers her home company. She admits to feeling pressure to bring consistently great performances to the COC, where the standard of artistry is high and the audiences are in-the-know. &quot;It&#039;s probably the pressure I put on myself.&quot;"
 slug = "simone-osborne"
 title = "Talking with singers: Simone Osborne"

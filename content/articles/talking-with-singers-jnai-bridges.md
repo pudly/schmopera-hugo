@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Los Angeles Opera"]
 date = "2017-01-09T11:37:00+00:00"
 lastmod = "2017-01-10T10:35:00+00:00"
-people = ["J'Nai Bridges"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483965173589/2017-01-09---Bridges---S-Richards.jpg.jpg"
 primary_image_credit = "Photo by S. Richards Photography"
 publishDate = "2017-01-10T10:13:00+00:00"
+related_articles = ["articles/talking-with-singers-christine-goerke.md","articles/talking-with-singers-jorell-williams.md","articles/talking-with-singers-marina-rebeka.md","articles/in-review-dead-man-walking-at-miami-music-festival.md","articles/dead-man-walking-makes-its-minnesota-opera-debut.md","articles/a-test-of-endurance-satyagraha-at-eno.md","articles/talking-with-singers-john-holiday.md"]
+related_companies = ["scene/companies/los-angeles-opera.md"]
+related_people = ["scene/people/jnai-bridges.md"]
 short_description = "&quot;With track, she explains, &#039;you&#039;re competing against people, but really what you&#039;re trying to do is get your best time.&#039; Playing basketball as part of a team, &#039;you really have to be an integral part of the team that you&#039;re on,&#039; Bridges says. &#039;You have to be a player.&#039;&quot;"
 slug = "talking-with-singers-jnai-bridges"
 title = "Talking with singers: J&#039;Nai Bridges"

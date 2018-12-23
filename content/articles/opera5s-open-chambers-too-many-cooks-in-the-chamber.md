@@ -1,12 +1,12 @@
 +++
-author = "Michael Zarathus-Cook"
+author = ["authors/michael-zarathuscook.md"]
 categories = "Review"
-companies = ["Opera 5"]
 date = "2018-12-01T21:38:00-05:00"
 lastmod = "2018-12-02T09:32:00-05:00"
-people = ["Jacqueline Woodley","Rachel Krehm"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543718324805/sqOpenChambers-8.jpg.jpg"
 publishDate = "2018-12-01T21:39:00-05:00"
+related_companies = ["scene/companies/opera-5.md"]
+related_people = ["scene/people/jacqueline-woodley.md","scene/people/rachel-krehm.md"]
 short_description = "Ultimately it&#039;s the music that resonated the most, while the theatrics — played out in a dichromatic set via mimetic interpretations of the libretto — filled in the gaps that awkward shuffling and transitional applause between segments are otherwise expected."
 slug = "opera5s-open-chambers-too-many-cooks-in-the-chamber"
 title = "Opera5&#039;s Open Chambers: Too many cooks in the chamber?"

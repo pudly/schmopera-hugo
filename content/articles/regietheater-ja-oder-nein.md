@@ -1,12 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Op-ed"
-companies = ["Canadian Opera Company"]
 date = "2015-01-24T11:59:00-05:00"
 lastmod = "2015-04-11T22:39:00-04:00"
-people = ["Wayne Gooding","Joel Ivany","Lawrence Wiliford"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428806302633/OperaExchange.jpg.jpg"
 publishDate = "2015-01-24T11:59:00-05:00"
+related_companies = ["scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/wayne-gooding.md","scene/people/joel-ivany.md","scene/people/lawrence-wiliford.md"]
 short_description = "This past weekend, I attended The Opera Exchange, an event presented semi-regularly by the Canadian Opera Company to discuss relevant opera topics, structured around the COC’s current season. With Dmitri Tcherniakov’s production of Don Giovanni set to open on January 24th at the Four Seasons Centre, it was a good opportunity to chat about that polarizing topic, Regietheater, or director’s theatre."
 slug = "regietheater-ja-oder-nein"
 title = "Regietheater? Ja oder nein?"

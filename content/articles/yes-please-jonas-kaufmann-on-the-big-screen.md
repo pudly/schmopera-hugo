@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "News"
-companies = ["Teatro alla Scala"]
 date = "2016-02-16T22:23:00-05:00"
 lastmod = "2016-02-17T10:53:00-05:00"
-people = ["Jonas Kaufmann"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455679354954/%E2%88%8F-Julian-Hargreaves_Sony-Classical_IMG_3210Resized.jpg.jpg"
 primary_image_credit = "Photo: Julian Hargreaves/Sony Classical/IMG"
 publishDate = "2016-02-17T10:39:00-05:00"
+related_articles = ["articles/theres-still-no-opera-on-netflix.md"]
+related_companies = ["scene/companies/teatro-alla-scala.md"]
+related_people = ["scene/people/jonas-kaufmann.md"]
 short_description = "For two hours, Kaufmann and the Filarmonica take us through Puccini&#039;s whole body of work; the programme includes arias from his lesser-known work (like his first opera, Le ville), as well as the hits we&#039;re all dying to hear again and again. This includes gorgeous orchestral works, like the famous interlude form Madama Butterfly."
 slug = "yes-please-jonas-kaufmann-on-the-big-screen"
 title = "Yes, please: Jonas Kaufmann on the big screen"

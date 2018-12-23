@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2016-05-19T16:49:00+01:00"
 lastmod = "2016-05-20T09:22:00+01:00"
@@ -7,6 +7,7 @@ preamble = "There's no leading lady without a maid, right? No star tenor without
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463675288082/2016-05-20---Gladys-Knight-and-the-Pips.jpg.jpg"
 primary_image_credit = "(l-r) The Pips (William Guest, Edward Patten, & Merald \"Bubba\" Knight) and Gladys Knight."
 publishDate = "2016-05-19T17:42:00+01:00"
+related_articles = ["articles/star-repetiteur-there-is-such-a-thing.md","articles/tales-from-stage-management.md","articles/the-life-of-a-comprimario-or-oh-youre-that-guy.md","articles/4-arias-their-common-misconceptions.md"]
 short_description = "There&#039;s no leading lady without a maid, right? No star tenor without his best friend? Not all operatic roles get their moment in the spotlight: just ask any comprimario. But there&#039;s even a grey area, between title role and character tenor, where there are important characters hanging out onstage saying important lines, but they&#039;re not granted a full-blown aria by the composer."
 slug = "5-important-roles-who-dont-get-an-aria"
 title = "5 important roles who don&#039;t get an aria"

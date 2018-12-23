@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Op-ed"
-companies = ["Opera Philadelphia"]
 date = "2015-04-22T09:55:00-04:00"
 lastmod = "2015-04-25T15:12:00-04:00"
-people = ["Eric Owens"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429716532027/Opera_Copenhagen_02.jpg.jpg"
 primary_image_credit = "Photo: henninglarsen.com"
 publishDate = "2015-04-22T11:00:00-04:00"
+related_articles = []
+related_companies = ["scene/companies/opera-philadelphia.md"]
+related_people = ["scene/people/eric-owens.md"]
 short_description = "You might have read the recent interview in *The Courrier-Journal* with Eric Owens and Morris Robinson, who sing King Philip II and the Grand Inquisitor in Opera Philadelphia&#039;s upcoming Don Carlo. Mike Silverman asks them about the &quot;challenges of being a black opera singer.&quot; It struck me, though, that while barriers like race have dissipated quickly, an opera career can still be contingent on a few factors, many of which fall under &quot;luck of the draw.&quot;"
 slug = "is-opera-really-for-everyone"
 title = "Is opera really for everyone?"

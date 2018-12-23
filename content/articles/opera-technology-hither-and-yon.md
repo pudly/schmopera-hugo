@@ -1,11 +1,12 @@
 +++
-author = "John Hohmann"
+author = ["authors/john-hohmann.md"]
 categories = "Review"
 date = "2018-03-30T22:35:00-04:00"
 lastmod = "2018-03-31T10:05:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522463609000/sq---Callas-w-cards.jpg.jpg"
 primary_image_credit = "BASE Hologram interactive concert performance with Maria Callas at the Jazz at Lincoln Center Frederick P. Rose Hall on Sunday, January 14, 2018 in New York."
 publishDate = "2018-03-30T22:35:00-04:00"
+related_articles = ["articles/cleanedup-callas-the-remastered-live-recordings.md","articles/so-can-we-hear-hologram-callas-soon.md","articles/big-jim-and-the-smalltime-investors-a-story-often-told.md"]
 short_description = "While I was not in attendance at the recent Maria Callas presentation in New York, neither was she. Within limits then, I can write about what is loosely termed a demonstration of holographic inspired illusion, as this consideration kicks off."
 slug = "opera-technology-hither-and-yon"
 title = "Opera Technology: Hither and Yon"

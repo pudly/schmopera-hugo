@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Royal Opera House","The Metropolitan Opera","Washington National Opera","Seattle Opera","Salzburg Festival"]
 date = "2016-10-26T19:19:00+01:00"
 lastmod = "2016-11-03T12:06:00+00:00"
-people = ["Kate Lindsey"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477843983238/2016-10-30---Kate-Lindsey---Rosetta-Greek.jpg.jpg"
 primary_image_credit = "Photo by Rosetta Greek."
 publishDate = "2016-11-03T12:06:00+00:00"
+related_articles = ["articles/talking-with-singers-gyula-nagy.md","articles/songbird-the-debut-album-from-layla-claire.md"]
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md","scene/companies/washington-national-opera.md","scene/companies/seattle-opera.md","scene/companies/salzburg-festival.md"]
+related_people = ["scene/people/kate-lindsey.md"]
 short_description = "&quot;One of the most challenging things on stage is to really, really open yourself up and give,&quot; she says. Singers often feel a responsibility to do well, to move an audience, and as a result, it&#039;s easy for the body to give in to pressure. &quot;We can either play it safe, because we&#039;re just not sure what the support is like, we may not feel like we have enough breath under us, so we can play it safe, maybe not go for that pianissimo,&quot; Lindsey explains of taking risks onstage. &quot;It&#039;s really hard to do that in front of thousands of people when your heart&#039;s pounding.&quot;"
 slug = "talking-with-singers-kate-lindsey"
 title = "Talking with singers: Kate Lindsey"

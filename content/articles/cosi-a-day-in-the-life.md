@@ -1,13 +1,14 @@
 +++
-author = "Blanche Israël"
+author = ["authors/blanche-isral.md"]
 categories = "Editorial"
-companies = ["COSI: Centre for Opera Studies in Italy"]
 date = "2015-07-15T00:06:00-06:00"
 lastmod = "2015-07-16T01:30:00-06:00"
-people = ["Daevyd Pepper","Lyndsay Promane","Joel Ivany","Iain MacNeil"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436941356258/SulmonaConfetti.jpg.jpg"
 primary_image_credit = "Sulmona, Italy, is known for its artistic confetti (or, tasty tasty sweets wrapped up to look like flowers)."
 publishDate = "2015-07-15T13:22:00-06:00"
+related_articles = ["articles/the-future-of-opera-is-indie.md"]
+related_companies = ["scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
+related_people = ["scene/people/daevyd-pepper.md","scene/people/lyndsay-promane.md","scene/people/joel-ivany.md","scene/people/iain-macneil.md"]
 short_description = "It&#039;s the final week of the Centre for Opera Studies in Italy (COSI), a month-long, comprehensive summer training program that immerses emerging opera artists into the complete world of opera. Nearly a decade old, the program&#039;s illustrious alumni have gone on to grace the stage of the Met, staff the majority of the current COC Ensemble Studio, and launch opera companies."
 slug = "cosi-a-day-in-the-life"
 title = "COSI: A day in the life"

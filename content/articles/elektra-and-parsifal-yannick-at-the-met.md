@@ -1,13 +1,14 @@
 +++
-author = "John Hohmann"
+author = ["authors/john-hohmann.md"]
 categories = "Review"
-companies = ["The Metropolitan Opera","Opera Philadelphia"]
 date = "2018-03-09T21:59:00-05:00"
 lastmod = "2018-03-12T11:20:00-04:00"
-people = ["Yannick Nézet-Séguin"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520650683680/sq---Yannick-Parsifal.jpg.jpg"
 primary_image_credit = "Yannick Nézet-Séguin conducting the Met Orchestra during a rehearsal for Wagner's Parsifal. Photo: Ken Howard / Met Opera."
 publishDate = "2018-03-10T23:16:00-05:00"
+related_articles = ["articles/spotlight-on-christopher-allen.md","articles/gordon-gerrard-music-doesnt-really-work-without-breath.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/opera-philadelphia.md"]
+related_people = ["scene/people/scene/yannick-nezet-seguin.md"]
 short_description = "When Yannick made his Met debut on New Year&#039;s Eve, 2009, he wrought perhaps the most propulsive Carmen prelude ever from the Met orchestra and fuelled crazily impassioned singing from an all-star cast."
 slug = "elektra-and-parsifal-yannick-at-the-met"
 title = "Elektra and Parsifal: Yannick at the MET"

@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["MYOpera"]
 date = "2015-05-28T09:06:00-04:00"
 lastmod = "2015-05-28T09:29:00-04:00"
-people = ["Lyndsay Promane","Daevyd Pepper"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432819437305/LyndsayDaevydPosterSquare.jpg.jpg"
 publishDate = "2015-05-28T09:29:00-04:00"
+related_articles = ["articles/toronto-opera-initiatives-don-giovanni.md","articles/spotlight-on-lyndsay-promane.md"]
+related_companies = ["scene/companies/myopera.md"]
+related_people = ["scene/people/lyndsay-promane.md","scene/people/daevyd-pepper.md"]
 short_description = "Mezzo-soprano Lyndsay Promane and tenor Daevyd Pepper are getting ready to present Waiting: a recital, on June 13th at 7:30, Islington United Church, with pianist Natasha Fransblow. "
 slug = "waiting-with-lyndsay-promane-daevyd-pepper"
 title = "Waiting with Lyndsay Promane &amp; Daevyd Pepper"

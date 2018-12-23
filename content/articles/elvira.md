@@ -1,12 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Against the Grain Theatre","The Banff Centre"]
 date = "2015-04-23T20:12:00-04:00"
 lastmod = "2015-04-23T20:12:00-04:00"
-people = ["Miriam Khalil"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429834318338/Miriam-Khalil-1024x678.jpg.jpg"
 publishDate = "2014-05-21T10:12:00-04:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md"]
+related_people = ["scene/people/miriam-khalil.md"]
 short_description = "Everyone, meet Miriam Khalil. She&#039;s a Lebanese-Canadian soprano currently based in Toronto, and she&#039;ll be singing in Uncle John, as everyone&#039;s favourite clingy chick, Elvira."
 slug = "elvira"
 title = "Elvira"

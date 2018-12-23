@@ -1,10 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2016-08-06T12:32:00+01:00"
 lastmod = "2016-08-17T09:26:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471372936317/2016-08-16---TV.jpg.jpg"
 publishDate = "2016-08-17T09:24:00+01:00"
+related_articles = ["articles/netflix-why-not-opera.md","articles/theres-still-no-opera-on-netflix.md","articles/opera-on-letterman.md","articles/great-ideas-a-streamable-opera-miniseries.md"]
 short_description = "Do television networks, publicly funded or otherwise, have a responsibility to foster underdog-like forms of art by keeping them visible to the public? Are commercial networks like NBC or CBS or HBO free from the responsibility of exposing viewers to what they may enjoy - may learn from, even - and not just whats been statistically proven to get high ratings?"
 slug = "the-brief-history-of-madefortv-opera"
 title = "The brief history of made-for-TV opera"

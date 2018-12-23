@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Canadian Opera Company","Canadian Opera Company Ensemble Studio"]
 date = "2014-11-26T10:12:00-05:00"
 lastmod = "2015-04-13T11:00:00-04:00"
-people = ["Adrianne Pieczonka","Nathan Keoughan","Eliza Johnson","Ben Heppner","Charles Sy","Aaron Sheppard","Zoe Band","Michelle Siemens","Dimitri Katotakis"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428937040209/sy.jpg.jpg"
 primary_image_credit = "Charles Sy, tenor"
 publishDate = "2014-11-26T10:12:00-05:00"
+related_articles = ["articles/ben-heppner-to-host-the-coc-ensemble-studio-competition-gala.md","articles/the-coc-ensemble-studio-meet-the-newbies.md","articles/centre-stage-7-finalists-compete-in-the-cocs-ensemble-studio-competition-gala.md","articles/she-saidhe-said-centre-stage-2015.md"]
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
+related_people = ["scene/people/adrianne-pieczonka.md","scene/people/nathan-keoughan.md","scene/people/eliza-johnson.md","scene/people/ben-heppner.md","scene/people/charles-sy.md","scene/people/aaron-sheppard.md","scene/people/zoe-band.md","scene/people/michelle-siemens.md","scene/people/dimitri-katotakis.md"]
 short_description = "Last night the seven finalists of the COC&#039;s Ensemble Studio Competition sang on the stage of the Four Seasons Centre for the second annual Centre Stage Gala. I like this event, and I like the hype it brings to this exciting part of today&#039;s opera world. This year, Centre Stage was hosted by Canada&#039;s favourite tenor, Ben Heppner, who was as warm and funny as he was respectful of the competitors. "
 slug = "centre-stage-2014-lets-hear-it-for-the-boys"
 title = "Centre Stage 2014: Let&#039;s Hear It For the Boys"

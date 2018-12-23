@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Against the Grain Theatre"]
 date = "2017-05-12T11:33:00-04:00"
 lastmod = "2017-05-15T12:04:00-04:00"
-people = ["Joel Ivany","Christopher Mokrzewski","Owen McCausland","Andrew Love","Adanya Dunn","Kenneth Kellogg","Kimy McLaren","Micah Schroeder","Gregory Finney"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494711672866/2017-05-13---Tranzac.jpg.jpg"
 publishDate = "2017-05-15T08:30:00-04:00"
+related_articles = ["articles/comprimario-romantic-story.md","articles/pass-the-tissues-a-beautiful-new-bohme-in-chicago.md"]
+related_companies = ["scene/companies/against-the-grain-theatre.md"]
+related_people = ["scene/people/joel-ivany.md","scene/people/christopher-mokrzewski.md","scene/people/owen-mccausland.md","scene/people/andrew-love.md","scene/people/adanya-dunn.md","scene/people/kenneth-kellogg.md","scene/people/kimy-mclaren.md","scene/people/micah-schroeder.md","scene/people/gregory-finney.md"]
 short_description = "Poverty - and the limited options that come with it - is a major theme in the original story of 19th-century Paris. Today, young people across Toronto still have the same limitations, particularly those who choose to pursue the arts. &quot;There are a lot of constraints on their ability to live,&quot; says Mokrzewski. &quot;Bringing [La bohème] into this context exaggerates, almost, the underlying class stuff that was happening.&quot;"
 slug = "bohemian-atg-boheme"
 title = "&quot;A very Bohemian undertaking&quot;: AtG&#039;s La bohème"

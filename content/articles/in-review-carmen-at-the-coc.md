@@ -1,13 +1,14 @@
 +++
-author = "Greg Finney"
+author = ["authors/greg.md"]
 categories = "Review"
-companies = ["Canadian Opera Company","Canadian Children's Opera Company","Canadian Opera Company Ensemble Studio"]
 date = "2016-05-05T17:16:00+01:00"
 lastmod = "2016-05-05T18:08:00+01:00"
-people = ["Anita Rachvelishvili","Sasha Djihanian","Charlotte Burrage","Peter Barrett","Alain Coulombe","Iain MacNeil","Jean-Philippe Fortier-Lazure","Simone Osborne","Joel Ivany","Russell Thomas"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462465222662/2016-05-06---Rachvelishvili-as-Carmen-Thomas-as-Jose-Photo-by-Michael-Cooper.jpg.jpg"
 primary_image_credit = "Russell Thomas as Don José, Anita Rachvelishvili as Carmen in the COC production of Carmen, 2016, photo: Michael Cooper."
 publishDate = "2016-05-05T18:08:00+01:00"
+related_articles = ["articles/in-review-maometto-ii.md","articles/in-review-the-rape-of-lucretia.md","articles/nashville-operas-carmen-she-dies-because-she-told-a-man-no.md","articles/in-review-carmen-at-nashville-opera.md","articles/la-opera-scores-in-first-half-of-bizet-doubleheader.md"]
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-childrens-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
+related_people = ["scene/people/anita-rachvelishvili.md","scene/people/sasha-djihanian.md","scene/people/charlotte-burrage.md","scene/people/peter-barrett.md","scene/people/alain-coulombe.md","scene/people/iain-macneil.md","scene/people/jeanphilippe-fortierlazure.md","scene/people/simone-osborne.md","scene/people/joel-ivany.md","scene/people/russell-thomas.md"]
 short_description = "Ivany&#039;s setting of the story lends itself well to the given circumstances already laid out in the play and the score. I particularly liked several of the choices Ivany has made. I felt like he directed José to be less of a jilted lover, and more a young man who completely misreads the intentions of a worldly young woman. This man&#039;s inability to deal with the idea that Carmen&#039;s feelings have changed lead to disastrous consequences."
 slug = "in-review-carmen-at-the-coc"
 title = "In review: Carmen at the COC"

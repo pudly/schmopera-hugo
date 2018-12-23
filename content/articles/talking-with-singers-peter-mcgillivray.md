@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Opera Lyra Ottawa","Pacific Opera Victoria","Calgary Opera","Opéra de Québec","Manitoba Opera","Saskatoon Opera","Canadian Opera Company","Canadian Opera Company Ensemble Studio","Tapestry Opera","Vancouver Opera","Edmonton Opera","The Metropolitan Opera"]
 date = "2015-12-03T12:20:00-05:00"
 lastmod = "2015-12-07T15:21:00-05:00"
-people = ["Peter McGillivray"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449201876606/2015-12-03---Peter-McGillivray.jpg.jpg"
 publishDate = "2015-12-07T14:10:00-05:00"
+related_articles = ["articles/talking-with-singers-nicole-cabell.md","articles/talking-with-singers-othalie-graham.md"]
+related_companies = ["scene/companies/opera-lyra-ottawa.md","scene/companies/pacific-opera-victoria.md","scene/companies/calgary-opera.md","scene/companies/opra-de-qubec.md","scene/companies/manitoba-opera.md","scene/companies/saskatoon-opera.md","scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/tapestry-opera.md","scene/companies/vancouver-opera.md","scene/companies/edmonton-opera.md","scene/companies/the-metropolitan-opera.md"]
+related_people = ["scene/people/peter-mcgillivray.md"]
 short_description = "&quot;I came to opera a little bit later,&quot; says McGillivray, who studied English, history, and Political Science before turning his attention to singing. &quot;I think it was helpful for me to have to make the conscious decision to study this, because in the end you do decide that it&#039;s the only thing you can do.&quot;"
 slug = "talking-with-singers-peter-mcgillivray"
 title = "Talking with singers: Peter McGillivray"

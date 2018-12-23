@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Humour"
 date = "2016-10-27T13:22:00+01:00"
 lastmod = "2016-10-29T18:13:00+01:00"
@@ -7,6 +7,7 @@ preamble = "Industry jargon is one of those things that can set the professional
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477661648294/2016-10-28---Opera-Glasses.jpg.jpg"
 primary_image_credit = "Photo: Barry S. via Flickr."
 publishDate = "2016-10-29T18:01:00+01:00"
+related_articles = ["articles/shorthand-ii-proben-facher.md"]
 short_description = "Often, opera titles get whittled down to one indicative word in the full title. Instead of The Magic Flute, it&#039;s just Flute, the same way it&#039;s just Ballo, not Un ballo in maschera. Così rarely needs the fan tutte in general conversation, Fanciulla will do without the del West, and The Turn of the is redundant when we&#039;re talking about Screw. It&#039;s Dialogues, but no Carmélites, Elixir with an assumption of Love, and one can just say Rake, with the Progress implied."
 slug = "opera-shorthand-how-to-speak-like-an-insider"
 title = "Opera shorthand: how to speak like an insider"

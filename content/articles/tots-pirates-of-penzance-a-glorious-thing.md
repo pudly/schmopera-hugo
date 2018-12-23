@@ -1,13 +1,14 @@
 +++
-author = "Greg Finney"
+author = ["authors/greg.md"]
 categories = "Review"
-companies = ["Toronto Operetta Theatre"]
 date = "2017-01-08T11:37:00+00:00"
 lastmod = "2017-01-08T12:13:00+00:00"
-people = ["Colin Ainsworth","Vania Chan","Curtis Sullivan","Janaka Welihinda"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483875485052/2017-01-08---Pirates-Square.jpg.jpg"
 primary_image_credit = "Curtis Sullivan as Major-General Stanley, and Female Chorus in TOT's The Pirates of Penzance. Photo: Emily Ding"
 publishDate = "2017-01-08T12:03:00+00:00"
+related_articles = ["articles/dont-miss-the-pirates-of-penzance-with-tot.md","articles/in-review-los-gavilanes-at-toronto-operetta-theatre.md","articles/in-review-isis-and-osiris.md","articles/dont-miss-the-chocolate-soldier.md"]
+related_companies = ["scene/companies/toronto-operetta-theatre.md"]
+related_people = ["scene/people/colin-ainsworth.md","scene/people/vania-chan.md","scene/people/curtis-sullivan.md","scene/people/janaka-welihinda.md"]
 short_description = "Colin Ainsworth steps out as the hapless, handsome, if somewhat dim-witted Frederic. His bright face matched his clear, sailing tone throughout the house. His protrayal of Frederic&#039;s dim-wittedness was presented less as a sheer stupidity or unintelligence and more as absent-minded thoughtlessness which I thought was a strong choice. His chemistry with Mabel and Ruth was tangible through the whole show."
 slug = "tots-pirates-of-penzance-a-glorious-thing"
 title = "TOT&#039;s Pirates of Penzance: &quot;A glorious thing&quot;"

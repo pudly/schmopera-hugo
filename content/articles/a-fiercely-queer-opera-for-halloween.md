@@ -1,11 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["WholeTone Opera"]
 date = "2017-10-14T12:15:00-04:00"
 lastmod = "2017-10-16T10:21:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507997888626/2017-10-14---Mirror-Werewolves.jpg.jpg"
 publishDate = "2017-10-15T20:56:00-04:00"
+related_articles = ["articles/things-i-want-to-see-la-zombiata.md","articles/gareth-matteys-belladonna-is-unashamedly-queer.md"]
+related_companies = ["scene/companies/wholetone-opera.md"]
 short_description = "&quot;Lycanthropy is such a great metaphor for sexual fluidity,&quot; says co-librettist Teri Kowiak. &quot;Our werewolf is not human when in human form, nor is he a wolf when he is in wolf form. He is always a werewolf, no matter how he appears at a specific time.&quot;"
 slug = "a-fiercely-queer-opera-for-halloween"
 title = "A &quot;fiercely queer opera&quot; for Halloween"

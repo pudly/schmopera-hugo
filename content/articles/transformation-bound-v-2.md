@@ -1,13 +1,14 @@
 +++
-author = "Greg Finney"
+author = ["authors/greg.md"]
 categories = "Review"
-companies = ["Against the Grain Theatre"]
 date = "2018-11-20T21:40:00-05:00"
 lastmod = "2018-11-20T21:40:00-05:00"
-people = ["Miriam Khalil","David Trudgen","Andrew Haji","Justin Welsh"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542767749820/sqBOUND676.jpg.jpg"
 primary_image_credit = "Miriam Khalil in BOUND, Against the Grain Theatre, 2018. Photo: Darryl Block Photography."
 publishDate = "2018-11-20T21:40:00-05:00"
+related_articles = ["articles/atgbound-a-shocking-immediate-connection.md"]
+related_companies = ["scene/companies/against-the-grain-theatre.md"]
+related_people = ["scene/people/miriam-khalil.md","scene/people/david-trudgen.md","scene/people/andrew-haji.md","scene/people/justin-welsh.md"]
 short_description = "Although this iteration seems to be much more of a display of the the transformation of the score in particular, I did miss the theatricality of the original staging. I missed the solitary cells, the cold ambiance, the interrogations by the state."
 slug = "transformation-bound-v-2"
 title = "Transformation: BOUND v. 2"

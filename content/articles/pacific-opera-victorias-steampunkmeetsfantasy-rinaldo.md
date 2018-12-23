@@ -1,13 +1,13 @@
 +++
-author = "Melissa Ratcliff"
+author = ["authors/melissa-ratcliff.md"]
 categories = "Review"
-companies = ["Pacific Opera Victoria"]
 date = "2018-04-22T17:19:00-04:00"
 lastmod = "2018-04-22T17:19:00-04:00"
-people = ["David Trudgen","Christopher Dunham","Jennifer Taverner","Stéphanie Lessard"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524431799435/sqRinaldo_0864.jpg.jpg"
 primary_image_credit = "Andrey Nemzer (Rinaldo) in Pacific Opera Victoria's production of Rinaldo, 2018. Photo: David Cooper."
 publishDate = "2018-04-22T17:19:00-04:00"
+related_companies = ["scene/companies/pacific-opera-victoria.md"]
+related_people = ["scene/people/david-trudgen.md","scene/people/christopher-dunham.md","scene/people/jennifer-taverner.md","scene/people/scene/stephanie-lessard.md"]
 short_description = "As they fall asleep, the magical characters of Rinaldo are transported into their living room to enact the story to the children&#039;s delight. It&#039;s one part steampunk, one part fantasy movie, one part 50s B-movie, and 100% delightful."
 slug = "pacific-opera-victorias-steampunkmeetsfantasy-rinaldo"
 title = "Pacific Opera Victoria&#039;s steampunk-meets-fantasy Rinaldo"

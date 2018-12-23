@@ -1,13 +1,14 @@
 +++
-author = "Hannah De Priest"
+author = ["authors/hannah-de-priest.md"]
 categories = "Review"
-companies = ["Lyric Opera of Chicago"]
 date = "2017-11-22T13:45:00-05:00"
 lastmod = "2017-11-22T20:52:00-05:00"
-people = ["Marina Rebeka","Matthew Polenzani","Mariusz Kwiecień"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511376095491/2017-11-22---square---Matthew-Polenzani_THE-PEARL-FISHERS_LYR171115b_0264_c.Todd-Rosenberg.jpg.jpg"
 primary_image_credit = "Matthew Polenzani as Nadir in The Pearl Fishers, Lyric Opera of Chicago, 2017. Photo: Todd Rosenberg."
 publishDate = "2017-11-22T20:52:00-05:00"
+related_articles = ["articles/la-opera-scores-in-first-half-of-bizet-doubleheader.md","articles/talking-with-singers-matthew-polenzani.md","articles/piotr-beczala.md"]
+related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
+related_people = ["scene/people/marina-rebeka.md","scene/people/matthew-polenzani.md","scene/people/scene/mariusz-kwiecien.md"]
 short_description = "The plot may be banal, the title confusing, and the libretto outrageous, but the fine singers of the Lyric wrought every possible nuance from the story and embraced The Pearl Fishers for what it is. Sure, it&#039;s no Carmen, but why should it be? The Pearl Fishers is something else: an unapologetic bit of hazy escapist fantasy — a rumination on passion and friendship set against an alluring, (if problematically ill-defined), &quot;oriental&quot; backdrop."
 slug = "a-dreamy-indulgence-the-pearl-fishers-in-chicago"
 title = "A dreamy indulgence: The Pearl Fishers in Chicago"

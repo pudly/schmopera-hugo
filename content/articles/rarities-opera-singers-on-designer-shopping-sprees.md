@@ -1,12 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["The Metropolitan Opera"]
 date = "2016-11-24T12:26:00+00:00"
 lastmod = "2016-11-26T15:09:00+00:00"
-people = ["Anna Netrebko"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480001449673/2016-11-24---Shopping.jpg.jpg"
 publishDate = "2016-11-26T15:07:00+00:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md"]
+related_people = ["scene/people/anna-netrebko.md"]
 short_description = "Our first reaction to the Times&#039; glamour-soaked glance at one of today&#039;s leading opera singers was a bit of lip-curling, to be sure. Most of the singers we know personally are surely not spending their time between rehearsals buying &quot;a mountain of presents, and then I buy the suitcases to carry them in.&quot; Netrebko&#039;s success is rare and extraordinary among the opera world; most artists who live solely off their performance schedule walk away with modest-to-comfortable profits after all the travel expenses, performance wardrobe, expensive scores, and hours spent with their teachers and coaches."
 slug = "rarities-opera-singers-on-designer-shopping-sprees"
 title = "Rarities: opera singers on designer shopping sprees"

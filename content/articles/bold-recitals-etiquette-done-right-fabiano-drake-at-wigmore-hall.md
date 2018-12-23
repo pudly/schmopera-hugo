@@ -1,12 +1,12 @@
 +++
-author = "Stephanie Applin"
+author = ["authors/stephanie-applin.md"]
 categories = "Review"
 date = "2017-05-17T10:53:00-04:00"
 lastmod = "2017-05-17T11:27:00-04:00"
-people = ["Michael Fabiano","Julius Drake"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495033082294/2017-05-17---Michael-Fabiano---Doneson.jpg.jpg"
 primary_image_credit = "Michael Fabiano, tenor. Photo by Arielle Doneson."
 publishDate = "2017-05-17T11:06:00-04:00"
+related_people = ["scene/people/scene/rolando-villazon.md","scene/people/julius-drake.md"]
 short_description = "Many in the audience knew Fabiano from the 2015 production of Onegin and were thrilled to hear the piece - there was much discussion in the ladies washroom after the show. The ladies also concluded that they couldn&#039;t wait to hear him on stage again!"
 slug = "bold-recitals-etiquette-done-right-fabiano-drake-at-wigmore-hall"
 title = "Bold recitals &amp; etiquette done right: Fabiano &amp; Drake at Wigmore Hall"

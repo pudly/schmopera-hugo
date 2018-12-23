@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "News"
-companies = ["Talisker Players","Tapestry Opera","Canadian Opera Company","Calgary Opera","Edmonton Opera","l'Opéra de Montréal","VOICEBOX: Opera in Concert"]
 date = "2015-12-29T21:11:00-05:00"
 lastmod = "2015-12-30T16:51:00-05:00"
-people = ["Virginia Hatfield","James Levesque","David Pomeroy","Geoffrey Sirett","Lida Szkwarek","Vanessa Oude-Reimerink","Colin Ainsworth","Allison Angelo","Jordan de Souza","Pasquale D'Alessio","Geoffroy Salvas","Josh Whelan","Christine Goerke","Josef Wagner","Stefan Vinke","Alan Held","Robert Pomakov","Lauren Segal","Karine Boucher","Aviva Fortunata","Iain MacNeil","Gordon Bintner","Erin Wall","Jane Archibald","Russell Braun","Johannes Debus","Joel Ivany","Philippe Sly","Allyson McHardy","Frédéric Antoun","Lydia Teuscher","Jeffrey Gwaltney","Géraldine Chauvet"]
 preamble = "After all the food is cleared away, the bottles recycled, and once the days of the week start to mean something again, it's time to get back to real life. For us, real life means going to see lots and lots of shows. It's hard to bundle up in the dead of winter and brave the cold for a few hours of music, but we hope to convince you of some of our cold weather picks across Canada to kick off 2016."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451507339965/2015-12-29---January.jpg.jpg"
 publishDate = "2015-12-30T16:39:00-05:00"
+related_articles = ["articles/he-saidshe-said-mozarts-requiem-at-tso.md"]
+related_companies = ["scene/companies/talisker-players.md","scene/companies/tapestry-opera.md","scene/companies/canadian-opera-company.md","scene/companies/calgary-opera.md","scene/companies/edmonton-opera.md","scene/companies/lopra-de-montral.md","scene/companies/voicebox-opera-in-concert.md"]
+related_people = ["scene/people/virginia-hatfield.md","scene/people/james-levesque.md","scene/people/david-pomeroy.md","scene/people/geoffrey-sirett.md","scene/people/lida-szkwarek.md","scene/people/vanessa-oudereimerink.md","scene/people/colin-ainsworth.md","scene/people/allison-angelo.md","scene/people/jordan-de-souza.md","scene/people/pasquale-dalessio.md","scene/people/geoffroy-salvas.md","scene/people/josh-whelan.md","scene/people/christine-goerke.md","scene/people/josef-wagner.md","scene/people/stefan-vinke.md","scene/people/alan-held.md","scene/people/robert-pomakov.md","scene/people/lauren-segal.md","scene/people/karine-boucher.md","scene/people/aviva-fortunata.md","scene/people/iain-macneil.md","scene/people/gordon-bintner.md","scene/people/erin-wall.md","scene/people/jane-archibald.md","scene/people/russell-braun.md","scene/people/johannes-debus.md","scene/people/joel-ivany.md","scene/people/philippe-sly.md","scene/people/allyson-mchardy.md","scene/people/frdric-antoun.md","scene/people/lydia-teuscher.md","scene/people/jeffrey-gwaltney.md","scene/people/scene/geraldine-chauvet.md"]
 short_description = "After all the food is cleared away, the bottles recycled, and once the days of the week start to mean something again, it&#039;s time to get back to real life. For us, real life means going to see lots and lots of shows. It&#039;s hard to bundle up in the dead of winter and brave the cold for a few hours of music, but we hope to convince you of some of our cold weather picks across Canada to kick off 2016."
 slug = "9-ways-to-fend-off-a-canadian-winter"
 title = "9 ways to fend off a Canadian winter"

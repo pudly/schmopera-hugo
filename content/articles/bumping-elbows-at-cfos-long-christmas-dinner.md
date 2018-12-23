@@ -1,12 +1,13 @@
 +++
-author = "Emma Kelley"
+author = ["authors/emma-kelley.md"]
 categories = "Review"
-companies = ["Chicago Fringe Opera"]
 date = "2018-11-27T19:47:00-05:00"
 lastmod = "2018-11-27T19:53:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543366303831/sqLXDNov15-6.jpg.jpg"
 primary_image_credit = "Gabriel DiGennaro and Jesse Lyons in The Long Christmas Dinner, Chicago Fringe Opera, 2018. Photo: Victor LeJeune."
 publishDate = "2018-11-27T19:53:00-05:00"
+related_articles = ["articles/liederwolfe-stuns-in-operapeepshow.md","articles/mrozewski-delight-wonder.md"]
+related_companies = ["scene/companies/chicago-fringe-opera.md"]
 short_description = "Soprano Jessie Lyons went hardly unnoticed as Lucia, who spent most of her time on the winding stage, alongside Jonathan Zeng as Charles, whose charisma and stunning tenor voice required the attention of all attending. The audience also couldn&#039;t ignore Andrew Groble&#039;s thunderous baritone voice that was a delight for the ears, with additional support from Naomi Brigell emotional performance of the slowly deteriorating Genevieve. "
 slug = "bumping-elbows-at-cfos-long-christmas-dinner"
 title = "Bumping elbows at CFO&#039;s Long Christmas Dinner"

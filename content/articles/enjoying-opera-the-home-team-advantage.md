@@ -1,12 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["The Banff Centre","Against the Grain Theatre"]
 date = "2016-07-15T12:58:00-06:00"
 lastmod = "2016-07-17T09:28:00-06:00"
-people = ["Emma Char","Iain MacNeil","Chelsea Rus","Owen McCausland","Vanessa Oude-Reimerink","Paul Curran","Christopher Mokrzewski"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468768979928/2016-07-16---Lucretia.jpg.jpg"
 publishDate = "2016-07-17T09:23:00-06:00"
+related_companies = ["scene/companies/the-banff-centre.md","scene/companies/against-the-grain-theatre.md"]
+related_people = ["scene/people/emma-char.md","scene/people/iain-macneil.md","scene/people/chelsea-rus.md","scene/people/owen-mccausland.md","scene/people/vanessa-oudereimerink.md","scene/people/paul-curran.md","scene/people/christopher-mokrzewski.md"]
 short_description = "For the audience, the creative team can only wish listeners the richest experience when they go to see their work. Great operas have seemingly infinite moments of dramatic significance, of a musical changes that speaks volumes of the story; will the average audience notice those details, and feel moved by them?"
 slug = "enjoying-opera-the-home-team-advantage"
 title = "Enjoying opera: the home team advantage"

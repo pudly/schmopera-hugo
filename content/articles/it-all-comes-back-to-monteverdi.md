@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 date = "2015-09-12T17:33:00-04:00"
 draft = true
 lastmod = "2015-09-12T17:33:00-04:00"

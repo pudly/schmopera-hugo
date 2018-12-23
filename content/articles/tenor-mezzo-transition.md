@@ -1,11 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2016-11-25T13:17:00+00:00"
 lastmod = "2016-12-13T09:37:00+00:00"
-people = ["Breanna Sinclairé"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481475651083/2016-12-11---Roses.jpg.jpg"
 publishDate = "2016-12-13T09:15:00+00:00"
+related_articles = ["articles/spotlight-on-danielle-buonaiuto.md","articles/moving-stories-as-one-at-chicago-fringe-opera.md"]
+related_people = ["scene/people/scene/breanna-sinclaire.md"]
 short_description = "&quot;I was a very high tenor,&quot; she says, even recalling many conversations with her mentors and peers about pursuing a career as a countertenor. On a daily basis, Sinclairé &quot;always had this debate with myself&quot; about how to train her voice; though not an easy decision to make, there was at least one simple truth to the matter: &quot;I never felt comfortable playing tenor roles.&quot;"
 slug = "tenor-mezzo-transition"
 title = "From tenor to mezzo: one singer&#039;s path through gender transition"

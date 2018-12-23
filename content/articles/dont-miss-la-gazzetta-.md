@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2018-06-26T12:07:00-04:00"
 lastmod = "2018-06-26T12:47:00-04:00"
@@ -7,6 +7,7 @@ preamble = "This month, Pacific Opera Project presents the west coast premiere o
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530030888966/sqJShaw2018.jpg.jpg"
 primary_image_credit = "Josh Shaw, Artistic Director of Pacific Opera Project."
 publishDate = "2018-06-26T12:37:00-04:00"
+related_articles = ["articles/la-gazzetta-the-funny-papers.md"]
 short_description = "&quot;I look at an opera like Gazzetta as a special case for myself and for the POP audience. It&#039;s almost certain that no one in the audience will have every seen this opera, and the story is pretty easy to relate to - a father seeking fame and fortune puts his daughter out in public to gain attention for himself - so I feel comfortable keeping the concept pretty &#039;traditional&#039;.&quot;"
 slug = "dont-miss-la-gazzetta-"
 title = "Don&#039;t miss: La gazzetta "

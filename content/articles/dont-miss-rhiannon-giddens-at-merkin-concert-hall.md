@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "News"
-companies = ["Kronos Quartet","Against the Grain Theatre","Canadian Art Song Project"]
 date = "2016-08-25T19:58:00+01:00"
 lastmod = "2016-08-30T13:46:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472151490511/2016-08-26---RhiannonGiddens.jpg.jpg"
 primary_image_credit = "Rhiannon Giddens."
 publishDate = "2016-08-30T13:00:00+01:00"
+related_articles = ["articles/dont-miss-encounter-with-sondra-radvanovsky.md","articles/united-we-stand-divided-we-fall.md"]
+related_companies = ["scene/companies/kronos-quartet.md","scene/companies/against-the-grain-theatre.md","scene/companies/canadian-art-song-project.md"]
 short_description = "As the world of opera moves toward chamber-sized orchestras and intimate venues, the world of art song moves in closer. Companies like the Canadian Art Song Project and Against the Grain Theatre have wowed audiences with reimagined art song, and so it&#039;s an exciting thing to find a supportive organization like Sparks &amp; Wiry Cries that will foster performances and new works."
 slug = "dont-miss-rhiannon-giddens-at-merkin-concert-hall"
 title = "Don&#039;t miss: Rhiannon Giddens at Merkin Concert Hall"

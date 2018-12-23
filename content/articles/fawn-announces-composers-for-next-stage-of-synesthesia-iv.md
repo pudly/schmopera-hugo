@@ -1,12 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "News"
-companies = ["FAWN Chamber Creative","Indie Opera T.O."]
 date = "2016-12-08T20:46:00+00:00"
 lastmod = "2016-12-10T22:12:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481230650858/2016-12-8---50-FAWN-2016.jpg.jpg"
 primary_image_credit = "Photo courtesy of FAWN Chamber Creative."
 publishDate = "2016-12-10T13:14:00+00:00"
+related_companies = ["scene/companies/fawn-chamber-creative.md","scene/companies/indie-opera-to.md"]
 short_description = "&quot;I feel very lucky to realize new music in this collaborative way,&quot; says MacArthur. &quot;I love the music, the tension and the excitement of a FAWN show. When I perform with FAWN, I can lose myself in the performance and feel new sounds. It&#039;s such a rush!&quot;"
 slug = "fawn-announces-composers-for-next-stage-of-synesthesia-iv"
 title = "FAWN announces composers for next stage of Synesthesia IV"

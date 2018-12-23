@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Against the Grain Theatre","The Banff Centre"]
 date = "2016-07-01T20:35:00-06:00"
 lastmod = "2016-07-02T08:53:00-06:00"
-people = ["Owen McCausland","Emma Char","Chelsea Rus","Iain MacNeil","Christopher Mokrzewski","Vanessa Oude-Reimerink","Paul Curran"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467430896809/2016-07-02---Rehearsals.jpg.jpg"
 publishDate = "2016-07-01T21:52:00-06:00"
+related_articles = ["articles/being-a-nice-person-why-art-really-really-matters.md","articles/rehearsing-trauma-how-working-on-an-opera-helped-me-heal.md"]
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md"]
+related_people = ["scene/people/owen-mccausland.md","scene/people/emma-char.md","scene/people/chelsea-rus.md","scene/people/iain-macneil.md","scene/people/christopher-mokrzewski.md","scene/people/vanessa-oudereimerink.md","scene/people/paul-curran.md"]
 short_description = "Rehearsing comedy is a picky thing, and at least it comes with work-mandated jokes. Rehearsing tragedy can really underscore an artist&#039;s maturity, willingness to be vulnerable, and the respect that is the inevitable cornerstone of any collaborative work. It&#039;s an odd thing, to be grateful for a rape scene. Perhaps it shouldn&#039;t be surprising that the heaviest of onstage stories are the best at fostering offstage relationships."
 slug = "heavy-scenes-the-fast-lane-to-a-great-rehearsal-room"
 title = "Heavy scenes: the fast lane to a great rehearsal room"

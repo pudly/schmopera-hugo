@@ -1,13 +1,14 @@
 +++
-author = "Daron Hagen"
+author = ["authors/daron-hagen.md"]
 categories = "Review"
-companies = ["Opera Saratoga"]
 date = "2017-07-14T14:08:00-04:00"
 lastmod = "2017-07-15T13:31:00-04:00"
-people = ["Ginger Costa-Jackson"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500056079144/2017-07-14---Cradle-Square.jpg.jpg"
 primary_image_credit = "Ginger Costa-Jackson is Moll in Opera Saratoga's production. Photo Credit: Gary David Gold."
 publishDate = "2017-07-15T13:24:00-04:00"
+related_articles = ["articles/in-review-hipermestra-at-glyndebourne.md","articles/in-review-hamlet-at-glyndebourne.md"]
+related_companies = ["scene/companies/opera-saratoga.md"]
+related_people = ["scene/people/ginger-costajackson.md"]
 short_description = "Thanks to this production, I am ready, as a devotee of Blitzstein’s work, to let go of Marc on the piano stool and allow his authorial Authority to grow, to allow the ongoing struggle to reconcile Power, Authority, and Truth to be carried forward through the lens of a conductor’s vision. I encourage everyone else to witness as Blitzstein’s powerful orchestral Cradle at last begins to earn its rightful Authority by catching this production while the paint’s still wet."
 slug = "in-review-the-cradle-will-rock"
 title = "In review: The Cradle Will Rock"

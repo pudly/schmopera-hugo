@@ -1,12 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2018-10-11T21:24:00-04:00"
 lastmod = "2018-10-13T12:29:00-04:00"
-people = ["Julie Ludwig","Jeremy Ludwig"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539352221751/LindenTrio.jpg.jpg"
 primary_image_credit = "Clockwise: pianist Trevor Chartrand, soprano Julie Ludwig, and baritone Jeremy Ludwig."
 publishDate = "2018-10-12T20:03:00-04:00"
+related_people = ["scene/people/julie-ludwig.md","scene/people/jeremy-ludwig.md"]
 short_description = "Art song - a broad classical music term to describe a piece written for solo singer and accompaniment, usually by a piano - can feel equal parts vague and exclusive. A song by Schubert and a song by Bernstein are both considered art songs, despite enormous differences in style; conversely, art song carries with it some special qualities, like the conversational relationship between the voice and piano."
 slug = "check-it-out-the-linden-project"
 title = "Check it out: The Linden Project"

@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Esprit Orchestra","Canadian Opera Company"]
 date = "2017-10-04T10:10:00-04:00"
 lastmod = "2017-10-04T15:35:00-04:00"
-people = ["Krisztina Szabó"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507131945850/2017-10-03---RBA.jpg.jpg"
 publishDate = "2017-10-04T14:01:00-04:00"
+related_articles = ["articles/cool-concerts-esprit-orchestras-201617-season.md","articles/in-review-bluebeards-castle-erwartung.md"]
+related_companies = ["scene/companies/esprit-orchestra.md","scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/krisztina-szab.md"]
 short_description = "Szabó takes a cue from folk-song performance practice, keeping things simple and all about storytelling. She found ease in her role among Berio&#039;s varied sound worlds, and let her listeners settle in to what&#039;s familiar in these songs: the tunes. The light-filled, close-up environment of the Amphitheatre is unnerving for many artists, but Szabó is a performer who relishes the chance to step into her audience&#039;s personal space."
 slug = "folk-songs-esprit-szabo"
 title = "Folk songs for lunch: Esprit Orchestra &amp; Krisztina Szabó in the RBA"

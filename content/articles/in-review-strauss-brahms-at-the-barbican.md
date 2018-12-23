@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
 date = "2016-03-08T12:48:00+00:00"
 lastmod = "2016-03-09T09:51:00+00:00"
-people = ["Claire Rutter","Stephen Gadd"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457464310539/2016-03-08---Barbican-Foyers---pc---Jorge-Royan.jpg.jpg"
 primary_image_credit = "The Foyers in the Barbican Centre. Photo: copyright Jorge Royan."
 publishDate = "2016-03-09T09:38:00+00:00"
+related_articles = ["articles/london-calling.md","articles/he-saidshe-said-mozarts-requiem-at-tso.md","articles/heavy-nights-schoenberg-brahms-the-lpo-and-goerne.md","articles/in-review-lpo-presents-st-luke-passion.md","articles/review-the-personal-side-of-bachs-b-minor-mass.md"]
+related_people = ["scene/people/claire-rutter.md","scene/people/stephen-gadd.md"]
 short_description = "It&#039;s a piece that contains within it all that&#039;s needed to pack a punch; Brahms can get a reputation for being un-fun, and less imaginative than some of his contemporaries (like Strauss and Wagner), yet there was always something respectful about his music-first approach to telling a story. The City of London Choir and the Philharmonic Orchestra delivered thrilling waves of sound in those fantastic moments of &quot;Denn alles Fleisch...&quot;, and the soloists rang through the Hall like encouraging cries from a mass of bodies."
 slug = "in-review-strauss-brahms-at-the-barbican"
 title = "In review: Strauss &amp; Brahms at the Barbican"

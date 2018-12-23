@@ -1,11 +1,12 @@
 +++
-author = "Greg Finney"
+author = ["authors/greg.md"]
 categories = "News"
 date = "2017-11-22T13:16:00-05:00"
 lastmod = "2017-11-22T15:14:00-05:00"
-people = ["Dmitri Hvorostovsky"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511374496761/2017-11-23---LEON0262_hi_res.jpg.jpg"
 publishDate = "2017-11-22T13:16:00-05:00"
+related_articles = ["articles/placido-baritones-ripple.md","articles/talking-with-singers-craig-colclough.md"]
+related_people = ["scene/people/dmitri-hvorostovsky.md"]
 short_description = "Hvorostovsky was diagnosed with a brain tumor in 2015 and retired from the opera world in 2016. The world will miss him."
 slug = "a-great-loss-hvorostovsky-passes-at-55"
 title = "A great loss: Hvorostovsky passes at 55"

@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["The Santa Fe Opera"]
 date = "2017-03-12T14:28:00+00:00"
 lastmod = "2017-03-21T14:31:00+00:00"
-people = ["Zachary Nelson"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489331744272/2017-03-12---Zachary-Nelson.jpg.jpg"
 primary_image_credit = "Photo: Dario Acosta."
 publishDate = "2017-03-21T14:12:00+00:00"
+related_articles = ["articles/talking-with-singers-luca-pisaroni.md","articles/talking-with-singers-craig-irvin.md","articles/talking-with-singers-ailyn-perez.md","articles/young-singers-in-santa-fe-stephen-martin.md","articles/don-pasquale-a-colorful-season-starter-at-minnesota-opera.md","articles/talking-with-singers-clarence-frazer.md"]
+related_companies = ["scene/companies/the-santa-fe-opera.md"]
+related_people = ["scene/people/zachary-nelson.md"]
 short_description = "&quot;When I was in Chicago doing Das Rheingold, it was the first Wagner I&#039;d ever done,&quot; Nelson recalls. &quot;I was sitting onstage on opening night, and Eric Owens is just wailing away [as Wotan]. I&#039;m standing there on the stage with him, and I just started welling up.&quot; It was a moment in his career that will stick with him, and which offered a clear picture of the rewards that remain in store for the young baritone."
 slug = "talking-with-singers-zachary-nelson"
 title = "Talking with singers: Zachary Nelson"

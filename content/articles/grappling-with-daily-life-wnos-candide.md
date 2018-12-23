@@ -1,13 +1,14 @@
 +++
-author = "Molly Simoneau"
+author = ["authors/molly-simoneau.md"]
 categories = "Review"
-companies = ["Washington National Opera"]
 date = "2018-05-07T11:05:00-04:00"
 lastmod = "2018-05-07T20:54:00-04:00"
-people = ["Alek Shrader","Emily Pogorelc"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525705419433/SopranoEmilyPogorelcCunegondeandTenoAlekShraderCandideinWNOsproductionofCandide_creditScottSuchman.jpg.jpg"
 primary_image_credit = "Emily Pogorelc (Cunegonde) and Alek Shrader (Candide) in Candide, Washington National Opera, 2018. Photo: Scott Suchman."
 publishDate = "2018-05-07T11:52:00-04:00"
+related_articles = ["articles/candide-the-best-of-all-possible-productions.md","articles/too-many-jewels-the-search-for-meaning-pbos-candide.md"]
+related_companies = ["scene/companies/washington-national-opera.md"]
+related_people = ["scene/people/alek-shrader.md","scene/people/emily-pogorelc.md"]
 short_description = "The production is the focal point of the Kennedy Center&#039;s programming in honor of Bernstein&#039;s 100th birthday, and amounts to the most enjoyable night of theater offered by WNO this season with its just-right combination of thrilling music, vocal gymnastics, impressive theatrical effects, belly-aching comedy, and effective storytelling."
 slug = "grappling-with-daily-life-wnos-candide"
 title = "Grappling with daily life: WNO&#039;s Candide"

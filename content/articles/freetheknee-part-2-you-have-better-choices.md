@@ -1,12 +1,13 @@
 +++
-author = "Suzanne Vinnik"
+author = ["authors/suzanne-vinnik.md","authors/sara-duchovnay.md"]
 categories = "How-to"
 date = "2016-09-11T16:51:00+01:00"
 lastmod = "2016-09-13T14:59:00+01:00"
-people = ["Amal El-Shrafi","Jenna Siladie","Megan Brunning","Suzanne Vinnik","Sara Duchovnay","Sharin Apostolou","Elizabeth Westerman Yoder"]
 preamble = "All portraits by [S. Richards Photography](http://www.srichardsphotography.com/), shot at Sing for Hope Piano Studio, 28 Liberty. Hair and makeup by Olivia McKeldin of [Bombshell Studios](http://www.bombshellstudiosnyc.com/) NYC, LLC."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473683373809/FTK2-Square-Option.jpg.jpg"
 publishDate = "2016-09-13T14:30:00+01:00"
+related_articles = ["articles/a-letter-to-the-modern-diva.md","articles/dont-miss-boys-of-paradise.md","articles/whats-your-opera-dress-code.md","articles/singers-its-the-annual-tax-season-conundrum.md","articles/just-in-time-for-fall-shoperatic.md","articles/talking-with-singers-sara-duchovnay.md"]
+related_people = ["scene/people/amal-elshrafi.md","scene/people/jenna-siladie.md","scene/people/megan-brunning.md","scene/people/suzanne-vinnik.md","scene/people/sara-duchovnay.md","scene/people/sharin-apostolou.md","scene/people/elizabeth-westerman-yoder.md"]
 short_description = "Rather than recap, we decided to use our photoshoot to create a &quot;lookbook&quot; to serve as inspiration to empower the operatic community to make choices that serve your artistry."
 slug = "freetheknee-part-2-you-have-better-choices"
 title = "#FreeTheKnee Part 2: &quot;You have better choices.&quot;"

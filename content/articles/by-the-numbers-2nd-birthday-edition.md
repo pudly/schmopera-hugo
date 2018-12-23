@@ -1,10 +1,11 @@
 +++
-author = "Andrej Simeonov"
+author = ["authors/drej.md"]
 categories = "Meta"
 date = "2016-01-02T21:44:00-05:00"
 lastmod = "2016-01-03T11:24:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451798998521/by-the-numbers.jpg.jpg"
 publishDate = "2016-01-02T21:44:00-05:00"
+related_articles = ["articles/schmopera-is-two.md","articles/schmopera-is-one.md"]
 short_description = "Meet Andrej, our co-founder and brain behind all things technical here at Schmopera. Since we&#039;re kicking off our third year in operation, and Schmopera has grown from a blog into a brand, we figured it was a good time for Andrej to fill you in on the technical happenings from behind-the-scenes."
 slug = "by-the-numbers-2nd-birthday-edition"
 title = "By the Numbers: 2nd birthday edition"

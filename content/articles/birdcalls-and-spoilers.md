@@ -1,11 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Humour"
-companies = ["Canadian Opera Company"]
 date = "2014-09-29T09:00:00-04:00"
 lastmod = "2015-04-14T15:04:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429038158793/IMG_20140928_135758.jpg.jpg"
 publishDate = "2014-09-29T09:00:00-04:00"
+related_articles = ["articles/in-review-madama-butterfly.md","articles/inspiration-seeing-it-for-oneself.md"]
+related_companies = ["scene/companies/canadian-opera-company.md"]
 short_description = "The above is a photo of a birdcall. It was recently loaned to me by the COC, because I’l be using it backstage during the twelve upcoming performances of Madama Butterfly (I know, I spoiled the magic of live birds). Backstage things like birdcalls, offstage conducting, ominous door knocking, cueing foghorns, etc., are all neat bonuses of the Music Staff job description. "
 slug = "birdcalls-and-spoilers"
 title = "Birdcalls and Spoilers"

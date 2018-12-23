@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Canadian Opera Company","Canadian Opera Company Ensemble Studio"]
 date = "2018-05-22T21:52:00-04:00"
 lastmod = "2018-05-22T22:08:00-04:00"
-people = ["Samantha Pickett"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527040256619/sqSamanthaPickett-DSC_3902.jpg.jpg"
 primary_image_credit = "Samantha Pickett, 2017. Photo: Gaetz Photography."
 publishDate = "2018-05-22T21:52:00-04:00"
+related_articles = ["articles/spotlight-on-samantha-pickett.md"]
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
+related_people = ["scene/people/samantha-pickett.md"]
 short_description = "There&#039;s no manual for anyone&#039;s five-year plan, and Pickett is on no quest for any sort of Right Answer™. &quot;That would make for a really uninteresting artistic journey, if we were all following the same path.&quot;"
 slug = "talking-with-singers-samantha-pickett"
 title = "Talking with singers: Samantha Pickett"

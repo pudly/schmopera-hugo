@@ -1,11 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
 date = "2014-03-28T08:12:00-04:00"
 lastmod = "2015-04-24T09:39:00-04:00"
-people = ["Lawrence Wiliford","Monica Whicher","Brett Polegato","Colin Ainsworth"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429882714583/CanadianArtSong.jpg.jpg"
 publishDate = "2014-03-28T08:12:00-04:00"
+related_people = ["scene/people/lawrence-wiliford.md","scene/people/monica-whicher.md","scene/people/brett-polegato.md","scene/people/colin-ainsworth.md"]
 short_description = "I went to hear some music by Canadians yesterday at the Richard Bradshaw Amphitheatre, as part of the Free Concert Series (that you should all be checking out!). It was a chance for the public to hear some of the products of the ongoing Canadian Art Song Project, headed by artistic directors Lawrence Wiliford and Steven Philcox."
 slug = "go-canada"
 title = "Go, Canada!"

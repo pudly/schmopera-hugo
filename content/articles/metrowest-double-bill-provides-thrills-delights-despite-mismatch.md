@@ -1,11 +1,12 @@
 +++
-author = "Arturo Fernandez"
+author = ["authors/arturo-fernandez.md"]
 categories = "Review"
 date = "2018-04-20T15:32:00-04:00"
 lastmod = "2018-04-20T19:28:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524252282217/sqBorrowed_Blue_1st_Night_117.jpg.jpg"
 primary_image_credit = "Celeste Godin in Miss Havisham's Wedding Night, MetroWest Opera, 2018. Photo: Nile Hawver."
 publishDate = "2018-04-20T15:32:00-04:00"
+related_articles = ["articles/in-review-bluebeards-castle-erwartung.md"]
 short_description = "Of course, sometimes the trickiest part of finding a pair of operas to form a double bill with is finding the links between the two works to be presented: after all, an operatic double-bill is only made stronger with the right pairing of works to perform."
 slug = "metrowest-double-bill-provides-thrills-delights-despite-mismatch"
 title = "MetroWest Double Bill Provides Thrills &amp; Delights Despite Mismatch"

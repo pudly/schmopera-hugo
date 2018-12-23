@@ -1,12 +1,13 @@
 +++
-author = "Eva Cahen"
+author = ["authors/eva-cahen.md"]
 categories = "Interview"
-companies = ["San Diego Opera"]
 date = "2018-11-29T19:55:00-05:00"
 lastmod = "2018-11-30T14:54:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543539678914/sqTRUCE.jpg.jpg"
 primary_image_credit = "San Diego Opera presents All is Calm: The Christmas Truce of 1914, a co-production with Bodhi Tree Concerts and SACRA/PROFANA, December 7, 8, and 9m, 2018. Part of the Detour Series. Illustration by Scott McKowen."
 publishDate = "2018-11-29T20:53:00-05:00"
+related_articles = ["articles/talking-with-composers-david-t-little.md"]
+related_companies = ["scene/companies/san-diego-opera.md"]
 short_description = "&quot;In Turandot, that we did last year, or in All is Calm, the expressive potency of the human voice is the commonality. The spoken word is expressive too because it uses the human voice. It has music, it has rhythm, it has form, and it has pitch – all the things that some music does, but just that it is spoken. That is the dramatic glue to this piece.&quot;"
 slug = "san-diego-opera-takes-a-detour-with-all-is-calm"
 title = "San Diego Opera takes a detour with All is Calm"

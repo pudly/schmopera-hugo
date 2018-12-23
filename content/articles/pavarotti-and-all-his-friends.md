@@ -1,10 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Humour"
 date = "2014-09-22T12:11:00-04:00"
 lastmod = "2015-04-15T17:45:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429133123749/Luciano-Pavarotti-teamed-up-Spice-Girls-his-1998.jpg.jpg"
 publishDate = "2014-09-22T12:11:00-04:00"
+related_articles = ["articles/bocelli-grande-could-be-an-opera-duo-except-theyre-really-really-not.md"]
 short_description = "I indulged in some Pavarotti &amp; Friends today, and pulled out a few favourites to share. I recognized that song recipe for Pavarotti&#039;s duets with famous pop singers: the famous pop singer starts off by singing the first verse au naturel, and Pav joins in for the second verse, in Italian, with what sometimes sounds like a totally new melody. "
 slug = "pavarotti-and-all-his-friends"
 title = "Pavarotti and all his Friends"

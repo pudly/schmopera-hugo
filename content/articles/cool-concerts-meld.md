@@ -1,10 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "News"
 date = "2016-08-06T13:43:00+01:00"
 lastmod = "2016-08-09T09:12:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470487987954/2016-08-06---MELD.jpg.jpg"
 publishDate = "2016-08-09T09:12:00+01:00"
+related_articles = ["articles/in-review-baby-kintyre.md","articles/great-ideas-a-streamable-opera-miniseries.md","articles/theres-still-no-opera-on-netflix.md"]
 short_description = "With multiple cameras placed around Royal Albert Hall, The Space has captured a concert experience where &quot;the end result places the audience at the heart of the experience, giving a vivid sense of the movements and interactions\tof the musicians and singers\twith the space.&quot;"
 slug = "cool-concerts-meld"
 title = "Cool concerts: MELD"

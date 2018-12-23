@@ -1,5 +1,5 @@
 +++
-author = "Vanessa Chumbley"
+author = ["authors/vanessa-chumbley.md"]
 date = "2016-12-11T17:07:00+00:00"
 lastmod = "2016-12-14T09:31:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481476776187/2016-12-11---Help.jpg.jpg"

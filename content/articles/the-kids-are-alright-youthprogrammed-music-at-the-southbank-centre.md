@@ -1,10 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "News"
 date = "2016-10-03T11:22:00+01:00"
 lastmod = "2016-10-04T10:12:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475489986867/2016-10-03---Southbank.jpg.jpg"
 publishDate = "2016-10-04T10:12:00+01:00"
+related_articles = ["articles/great-ideas-snappy-operas.md"]
 short_description = "Festival Maker Layla, aged 17, says: &quot;We&#039;ve tried to incorporate young musicians into the programme: we’ve looked for young people who are already achieving, to make the point that this isn’t about young people tomorrow, it&#039;s about them today and what they are already doing.&quot;"
 slug = "the-kids-are-alright-youthprogrammed-music-at-the-southbank-centre"
 title = "The kids are alright: youth-programmed music at the Southbank Centre"

@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "News"
-companies = ["Wiener Staatsoper","The Metropolitan Opera"]
 date = "2016-04-20T11:18:00+01:00"
 lastmod = "2016-04-20T11:53:00+01:00"
-people = ["Jonas Kaufmann"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461147983883/2016-04-20---Backstage.jpg.jpg"
 primary_image_credit = "Backstage at the Vienna State Opera. Photo: commons.wikimedia.org."
 publishDate = "2016-04-20T11:45:00+01:00"
+related_articles = ["articles/i-kind-of-like-black-pearls.md"]
+related_companies = ["scene/companies/wiener-staatsoper.md","scene/companies/the-metropolitan-opera.md"]
+related_people = ["scene/people/jonas-kaufmann.md"]
 short_description = "In interesting timing, Gheorghiu recently announced that she would be cancelling her recital at London&#039;s Royal Festival Hall, which was scheduled for April 25th. Apparently, the soprano is ill, and her doctor has prescribed her some vocal rest. The concert hasn&#039;t yet been rescheduled, but hopefully that will change."
 slug = "ah-non-abbiamo-il-soprano"
 title = "&quot;Ah! Non abbiamo il soprano!&quot;"

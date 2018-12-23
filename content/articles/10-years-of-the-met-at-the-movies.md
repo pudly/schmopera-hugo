@@ -1,12 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "News"
-companies = ["The Metropolitan Opera"]
 date = "2015-09-29T15:59:00-04:00"
 lastmod = "2015-10-02T13:31:00-04:00"
-people = ["Anna Netrebko","Dmitri Hvorostovsky","Eric Owens","Adrianne Pieczonka","Sondra Radvanovsky","Jonas Kaufmann","Nina Stemme","Diana Damrau","Susan Graham","Eva-Maria Westbroek","Alexandrs Antonenko","Sonya Yoncheva","Johan Botha","Daniel Brenna","Matthew Polenzani","Mariusz Kwiecen","Marco Berti","Kristine Opolais"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443807073679/Movies.jpg.jpg"
 publishDate = "2015-09-30T10:12:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md"]
+related_people = ["scene/people/anna-netrebko.md","scene/people/dmitri-hvorostovsky.md","scene/people/eric-owens.md","scene/people/adrianne-pieczonka.md","scene/people/sondra-radvanovsky.md","scene/people/jonas-kaufmann.md","scene/people/nina-stemme.md","scene/people/diana-damrau.md","scene/people/susan-graham.md","scene/people/evamaria-westbroek.md","scene/people/alexandrs-antonenko.md","scene/people/sonya-yoncheva.md","scene/people/johan-botha.md","scene/people/daniel-brenna.md","scene/people/matthew-polenzani.md","scene/people/mariusz-kwiecen.md","scene/people/marco-berti.md","scene/people/kristine-opolais.md"]
 short_description = "2015/16 marks the 10th anniversary season of The Met: Live in HD, and they&#039;re celebrating with a meaty selection to show off the best of opera. Starting with Il trovatore on October 3rd, non-New Yorkers can get their Met fix in Cineplex theatres across North America (including four in Toronto!)."
 slug = "10-years-of-the-met-at-the-movies"
 title = "10 Years of the Met at the Movies"

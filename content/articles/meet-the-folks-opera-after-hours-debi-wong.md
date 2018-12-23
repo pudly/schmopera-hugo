@@ -1,11 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["re:Naissance"]
 date = "2015-07-20T17:53:00+02:00"
 draft = true
 lastmod = "2015-08-12T14:51:00+02:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437410418183/094DWong-PRINTSquare.jpg.jpg"
+related_companies = ["scene/companies/renaissance.md"]
 slug = "meet-the-folks-opera-after-hours-debi-wong"
 title = "Meet the folks: Opera After Hours&#039; Debi Wong"
 +++

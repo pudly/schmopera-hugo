@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["English National Opera"]
 date = "2016-10-04T10:21:00+01:00"
 lastmod = "2016-10-04T12:36:00+01:00"
-people = ["Keri Alkema","Craig Colclough","Gwyn Hughes Jones"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475577108623/2016-10-04---square---ENO-Tosca-Keri-Alkema-and-Gwyn-Hughes-Jones-Richard-Hubert-Smith.jpg.jpg"
 primary_image_credit = "Keri Alkema (Tosca) and Gwyn Hughes Jones (Cavaradossi) in Tosca, ENO, 2016. Photo by Richard Hubert Smith."
 publishDate = "2016-10-04T12:27:00+01:00"
+related_articles = ["articles/talking-with-singers-keri-alkema.md","articles/in-review-tristan-and-isolde-at-eno.md","articles/in-review-don-giovanni-at-eno.md","articles/rowley-wins-the-night-in-nashville-operas-tosca.md"]
+related_companies = ["scene/companies/english-national-opera.md"]
+related_people = ["scene/people/keri-alkema.md","scene/people/craig-colclough.md","scene/people/gwyn-hughes-jones.md"]
 short_description = "Performing Tosca in English is about on par with performing Peter Grimes in Italian, when you think about it. Like with all great operas, Puccini&#039;s music leaps from the ebbs and flows of the text; simply put, if the libretto had been different, there would be different tunes for us to hum post-show."
 slug = "in-review-tosca-at-eno"
 title = "In review: Tosca at ENO"

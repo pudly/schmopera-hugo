@@ -1,13 +1,14 @@
 +++
-author = "Michael Calderone"
+author = ["authors/michael-calderone.md"]
 categories = "Review"
-companies = ["Haymarket Opera Company"]
 date = "2017-10-01T17:03:00-04:00"
 lastmod = "2017-10-01T21:45:00-04:00"
-people = ["Scott Brunscheen","David Govertsen","Nathalie Colas","Kristin Knutson","Ryan de Ryke"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506891758128/2017-10-01---square---01258Ariane-et-Bachus.jpg.jpg"
 primary_image_credit = "Ariane et Bachus, Haymarket Opera Company, 2017. Photo: Chuck Osgood Photography."
 publishDate = "2017-10-01T21:33:00-04:00"
+related_articles = ["articles/littleknown-gems-ariane-et-bachus.md","articles/palpable-chamber-music-haymarket-operas-lenten-oratorio.md"]
+related_companies = ["scene/companies/haymarket-opera-company.md"]
+related_people = ["scene/people/scott-brunscheen.md","scene/people/david-govertsen.md","scene/people/nathalie-colas.md","scene/people/kristin-knutson.md","scene/people/ryan-de-ryke.md"]
 short_description = "A highlight of the performance was the chorus of the furies in Act IV, as summoned by the sorcerer Géralde. Snakes were an effective unifying visual element here: not only were the demons themselves swaying like charmed snakes and brandishing faux snakes, but their Medusa-like wigs and skirts fashioned from wide strips of flowing fabric brought great movement to the scene. The music&#039;s regular flowing triple meter was often unexpectedly interrupted by hemiola hiccups so typical of baroque dance rhythms."
 slug = "overdue-for-the-stage-haymarket-opera-companys-ariane-et-bachus"
 title = "Overdue for the stage: Haymarket Opera Company&#039;s Ariane et Bachus"

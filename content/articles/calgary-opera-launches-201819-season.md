@@ -1,13 +1,13 @@
 +++
-author = "Oliver Munar"
+author = ["authors/oliver-munar.md"]
 categories = "News"
-companies = ["Calgary Opera","Calgary Opera Emerging Artist Development Program"]
 date = "2018-03-23T09:48:00-04:00"
 lastmod = "2018-03-23T09:48:00-04:00"
-people = ["Gregory Dahl","Adam Luther","Anne-Marie MacIntosh"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521812470986/sq---CO1819.jpg.jpg"
 primary_image_credit = "Clockwise from left: tenor Andrew Bidlack, baritone Gregory Dahl, and soprano Anne-Marie MacIntosh."
 publishDate = "2018-03-23T09:48:00-04:00"
+related_companies = ["scene/companies/calgary-opera.md","scene/companies/calgary-opera-emerging-artist-development-program.md"]
+related_people = ["scene/people/gregory-dahl.md","scene/people/adam-luther.md","scene/people/annemarie-macintosh.md"]
 short_description = "&quot;This story seemed to have all those big emotions, everything from love and death and hubris and heroism, &quot; says Talbot. &quot;People absolutely pushed to the full extremes of their mental and physical capacity. It&#039;s an interesting psychological journey through the minds of various different people.&quot;"
 slug = "calgary-opera-launches-201819-season"
 title = "Calgary Opera launches 2018-19 season"

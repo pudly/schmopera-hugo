@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2017-06-05T20:59:00-06:00"
 lastmod = "2017-06-21T22:43:00-06:00"
-people = ["Lyndsay Promane"]
 preamble = "Toronto-based mezzo-soprano [Lyndsay Promane](/scene/people/lyndsay-promane/) is an arresting presence on the opera stage, and a thoughtful concert artist. The UofT Opera graduate finds ease in traditional trouser roles like Hansel (*Hansel and Gretel*) and Bradamante (*Alcina*), and her recital programmes speak to a versatile, interested young singer.\n\nPromane heads this summer to New Brunswick for the St. Andrews-by-the-Sea Opera Workshop, led by in-demand Canadian voice teacher, [Wendy Nielsen](/wendy-nielsen-on-teaching-singing/). Ahead of her trip, she chats with us about her \"spirit animal, Oprah Winfrey\", and how she likes to \"sing your songs\"."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496718089649/2017-06-06---Lyndsay-Promane.jpg.jpg"
 primary_image_credit = "Photo: Self Limited Photography."
 publishDate = "2017-06-21T21:54:00-06:00"
+related_articles = ["articles/spotlight-on-stephanie-tritchew.md","articles/spotlight-on-rihab-chaieb.md"]
+related_people = ["scene/people/lyndsay-promane.md"]
 short_description = "&quot;Much like my spirit animal, Oprah Winfrey, I&#039;m not a fan of surprises. Unfortunately, I chose the wrong career and the wrong planet since my favourite performances came my way when I was not expecting them at all. Saying &#039;yes&#039; is powerful, and it&#039;s something I&#039;m learning to do more often.&quot;"
 slug = "spotlight-on-lyndsay-promane"
 title = "Spotlight on: Lyndsay Promane"

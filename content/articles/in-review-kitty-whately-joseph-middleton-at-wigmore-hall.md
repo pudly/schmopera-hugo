@@ -1,11 +1,12 @@
 +++
-author = "John Beckett"
+author = ["authors/john-beckett.md"]
 categories = "Review"
 date = "2017-04-11T13:39:00+01:00"
 lastmod = "2017-04-11T14:10:00+01:00"
-people = ["Kitty Whately"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491915104741/2017-04-11---Kitty-Whately.gif"
 publishDate = "2017-04-11T14:10:00+01:00"
+related_articles = ["articles/recitals-that-stick-matthias-goerne-at-wigmore-hall.md","articles/in-review-paul-appleby-at-wigmore-hall.md","articles/in-review-sondra-radvanovskys-stunning-london-recital-debut.md","articles/in-review-rowan-pierce-the-london-handel-players.md"]
+related_people = ["scene/people/kitty-whately.md"]
 short_description = "But from Whately&#039;s performance, you would never know the extenuating circumstances at play. Her demeanor was calm and elegant, her expression was engaged, and we felt like we were watching someone who just revels in the joy of singing. Together with pianist Joseph Middleton, the two acted as painters together, showing us beautiful scenes in a program inspired by themes of nature."
 slug = "in-review-kitty-whately-joseph-middleton-at-wigmore-hall"
 title = "In review: Kitty Whately &amp; Joseph Middleton at Wigmore Hall"

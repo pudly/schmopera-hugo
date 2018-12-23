@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2017-02-23T10:50:00+00:00"
 lastmod = "2017-02-24T15:45:00+00:00"
@@ -7,6 +7,7 @@ preamble = "This weekend marks the world premiere of [*Riders of the Purple Sage
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487847163826/2017-02-23---KarinWolvertonAsJane_credit_TimTrumble.jpg.jpg"
 primary_image_credit = "Karin Wolverton as Jane Withersteen in Riders of the Purple Sage. Photo by Tim Trumble."
 publishDate = "2017-02-24T15:41:00+00:00"
+related_articles = ["articles/riders-of-the-purple-sage-meet-lassiter.md"]
 short_description = "&quot;Lassiter enters Jane&#039;s life and turns everything upside down. She is intrigued by and attracted to him, but also knows that he is outside her faith and his anger and hatred for the church is unsettling for her. However, he is the only man in the opera who affirms and admires her strength, while lovingly pushing back against her long-held beliefs.&quot;"
 slug = "riders-of-the-purple-sage-meet-jane"
 title = "Riders of the Purple Sage: meet Jane"

@@ -1,5 +1,5 @@
 +++
-author = "Eva Cahen"
+author = ["authors/eva-cahen.md"]
 date = "2018-09-25T16:53:00-04:00"
 lastmod = "2018-09-25T18:55:00-04:00"
 preamble = "Morris Robinson, the American bass, is appearing as the Grand Inquisitor in [*Don Carlo*](https://www.laopera.org/season/1819-season-la-opera-season/don-carlo/) by Giuseppe Verdi September 22, 29, October 4, 7, 11, and 14 and as Parsi Rustomji in [*Satyagraha*](https://www.laopera.org/season/1819-season-la-opera-season/satyagraha/) by Philip Glass October 20, 27, November 1, 4, 8, and 11 at the LA Opera."

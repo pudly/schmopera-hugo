@@ -1,10 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Op-ed"
 date = "2016-03-18T17:43:00+00:00"
 lastmod = "2016-03-21T10:23:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458503262332/2016-03-20---Writers.jpg.jpg"
 publishDate = "2016-03-21T10:23:00+00:00"
+related_articles = ["articles/music-the-musicians-therapy-except-when-its-not.md","articles/once-agan-shushing-meanies.md","articles/catty-commentary-or-whats-not-useful-for-opera.md","articles/when-critics-are-jerks.md"]
 short_description = "Maybe it&#039;s the concept of the critic, or maybe it&#039;s the notebook itself, that can evoke suspicion. The notebook is open to record all the mistakes, and while the critic is scribbling in the dark, magic is happening onstage and they&#039;re missing it. It&#039;s not just a myth; these things happen, and critics can be relentlessly harsh, to the point where one wonders why they keep going to the opera, if they dislike everything they see."
 slug = "true-stories-the-critic-who-loves-opera-even-more-now"
 title = "True stories: the critic who loves opera even more now"

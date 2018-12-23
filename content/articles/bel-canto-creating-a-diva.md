@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2018-10-26T19:47:00-04:00"
 lastmod = "2018-10-26T19:53:00-04:00"
-people = ["Renée Fleming"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540597048713/sqBelCanto.jpg.jpg"
 primary_image_credit = "l-r: Renée Fleming (photo: Andrew Eccles/Decca); Julianne Moore in Bel Canto (still courtesy of Pacific Northwest Pictures)."
 publishDate = "2018-10-26T19:53:00-04:00"
+related_articles = ["articles/diegetic-music-in-opera-3-ways-to-use-it.md"]
+related_people = ["scene/people/scene/renee-fleming.md"]
 short_description = "The term diva has been somewhat hijacked in 21st-century North America; &quot;Mostly now, it means bad behaviour,&quot; Fleming admits. Still, the character of Roxane has qualities that are charmingly familiar to those in the opera industry. Her ease in high-profile social situations, her ability to articulate what she does and does not want, her general fearlessness - these are the qualities of people like Sondra Radvanovsky, Anna Netrebko, and of course, Fleming."
 slug = "bel-canto-creating-a-diva"
 title = "Bel Canto: creating a diva"

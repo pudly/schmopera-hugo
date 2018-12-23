@@ -1,12 +1,13 @@
 +++
-author = "Hannah De Priest"
+author = ["authors/hannah-de-priest.md"]
 categories = "Interview"
-companies = ["Lyric Opera of Chicago","Deutsche Oper Berlin","Royal Opera House"]
 date = "2018-12-10T20:29:00-05:00"
 lastmod = "2018-12-10T20:29:00-05:00"
-people = ["Siobhan Stagg"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544491721633/sqSiobhan_StaggSimonPauly2018_13.jpg.jpg"
 publishDate = "2018-12-10T20:29:00-05:00"
+related_articles = ["articles/talking-with-singers-melody-moore.md","articles/talking-with-singers-sondra-radvanovsky.md"]
+related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/deutsche-oper-berlin.md","scene/companies/royal-opera-house.md"]
+related_people = ["scene/people/siobhan-stagg.md"]
 short_description = "For the moment, Stagg is enjoying Chicago. Recent highlights include bundling up for a walk through Millennium Park, an outing to hear Verdi&#039;s Requiem with Riccardo Muti at the Chicago Symphony, and a trip to the city&#039;s famed Art Institute, where she especially enjoyed the collection of French impressionist paintings."
 slug = "talking-with-singers-siobhan-stagg"
 title = "Talking with singers: Siobhan Stagg"

@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["The Banff Centre","Canadian Opera Company","Against the Grain Theatre"]
 date = "2015-07-20T13:12:00-04:00"
 lastmod = "2015-07-21T08:47:00-04:00"
-people = ["Joel Ivany","Christopher Mokrzewski","Pascale Spinney","Pasquale D'Alessio","Caitlin Wood","Aaron Sheppard","Simone McIntosh","Ellen McAteer","Bruno Roy","Samantha Pickett","Clarence Frazer","Britton Riley","Aaron Schwebel","Cairan Ryan","Amiel Gladstone","Brent Calis","Michael McMahon","Russell Braun","Judith Forst"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437421153246/HoodoosSquare.jpg.jpg"
 publishDate = "2015-07-21T07:00:00-04:00"
+related_articles = ["articles/banff-diaries-day-0.md","articles/james-rolfe-anna-chatterton-on-creating-crush.md","articles/atg-in-banff-2015.md","articles/more-atg-in-banff-2015.md","articles/against-the-grain-theatre-banffbound-in-2016.md","articles/banffbound-2016.md"]
+related_companies = ["scene/companies/the-banff-centre.md","scene/companies/canadian-opera-company.md","scene/companies/against-the-grain-theatre.md"]
+related_people = ["scene/people/joel-ivany.md","scene/people/christopher-mokrzewski.md","scene/people/pascale-spinney.md","scene/people/pasquale-dalessio.md","scene/people/caitlin-wood.md","scene/people/aaron-sheppard.md","scene/people/simone-mcintosh.md","scene/people/ellen-mcateer.md","scene/people/bruno-roy.md","scene/people/samantha-pickett.md","scene/people/clarence-frazer.md","scene/people/britton-riley.md","scene/people/aaron-schwebel.md","scene/people/cairan-ryan.md","scene/people/amiel-gladstone.md","scene/people/brent-calis.md","scene/people/michael-mcmahon.md","scene/people/russell-braun.md","scene/people/judith-forst.md"]
 short_description = "Opening night brought audiences into a seedy bar, with intimidating bouncers, walls covered in sex toys and a floor littered with latex. Novelty aside, the team delivered in quality with two...arousing?...performances."
 slug = "banff-diaries-a-postlude"
 title = "Banff Diaries: a postlude"

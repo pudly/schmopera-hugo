@@ -1,12 +1,13 @@
 +++
-author = "Greg Finney"
+author = ["authors/greg.md"]
 categories = "Review"
-companies = ["Canadian Opera Company"]
 date = "2018-02-05T11:53:00-05:00"
 lastmod = "2018-02-05T13:06:00-05:00"
-people = ["Christopher Alden","Stephen Lord","Stephen Costello","Anna Christy","Neil Craighead","Lauren Eberwein","Roland Wood"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517849262594/sq---17-18-03-MC-D-1526.jpg.jpg"
 publishDate = "2018-02-05T11:53:00-05:00"
+related_articles = ["articles/searching-for-superlatives-locs-suberb-rigoletto.md","articles/the-price-of-vengeance-rigoletto-at-roh.md"]
+related_companies = ["scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/christopher-alden.md","scene/people/stephen-lord.md","scene/people/stephen-costello.md","scene/people/anna-christy.md","scene/people/neil-craighead.md","scene/people/lauren-eberwein.md","scene/people/roland-wood.md"]
 short_description = "We find ourselves in the domain of the Duke. He exerts his power over the masses through his manipulation of Rigoletto&#039;s remarkable skill for what is now popularly known as &quot;reading&quot; people."
 slug = "great-music-distracting-sexuality-rigoletto"
 title = "Great music &amp; distracting sexuality: Rigoletto"

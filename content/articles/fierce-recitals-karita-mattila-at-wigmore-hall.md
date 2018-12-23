@@ -1,12 +1,13 @@
 +++
-author = "John Beckett"
+author = ["authors/john-beckett.md"]
 categories = "Review"
 date = "2017-05-07T17:02:00-04:00"
 lastmod = "2017-05-08T09:24:00-04:00"
-people = ["Karita Mattila"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494191176678/2017-05-08---Mattila-Marica-Rosengard.jpg.jpg"
 primary_image_credit = "Photo: Marica Rosengard."
 publishDate = "2017-05-08T09:24:00-04:00"
+related_articles = ["articles/in-review-lawrence-zazzo-at-wigmore-hall.md","articles/in-review-jamie-barton-at-wigmore-hall.md","articles/in-review-paul-appleby-at-wigmore-hall.md","articles/in-review-miss-hope-springs-at-wigmore-hall.md","articles/polish-composers-take-the-stage-at-wigmore-hall.md","articles/winning-combos-coote-drake-schubert.md"]
+related_people = ["scene/people/karita-mattila.md"]
 short_description = "Was it perfect? No. In fact, she threw perfectionism out the window. But what she gave up in terms of perfecting the music, she gained in the freedom of her expression. Wild and uninhibited, she switched freely from head voice to chest voice, casting away any notion that she would be singing in a reserved or false manner."
 slug = "fierce-recitals-karita-mattila-at-wigmore-hall"
 title = "Fierce recitals: Karita Mattila at Wigmore Hall"

@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Oshawa Opera"]
 date = "2015-01-09T09:00:00-05:00"
 lastmod = "2015-04-11T23:35:00-04:00"
-people = ["Kristine Dandavino"]
 preamble = "<p>\n\tIn the midst of grim news for plenty of North American companies, I love to hear about new places to catch some opera. Mezzo-soprano <a href=\"http://www.theoshawaopera.com/#!staff/clbi\" target=\"_blank\">Kristine Dandavino</a> is Artistic Director of <a href=\"http://www.theoshawaopera.com/\" target=\"_blank\">Oshawa Opera</a>, founded in 2013, and looking forward to finishing its second season this April with <em>La traviata</em> on April 19th, and a reprisal of Norma on April 25th. I'm always in awe of people who start opera companies, no matter what size, and so I took the chance to ask Kristine a bit about this new company in what is perhaps an unlikely community for opera.\n</p>"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428809594963/Screen-Shot-2015-01-08-at-3.55.30-PM.png"
 publishDate = "2015-01-09T09:00:00-05:00"
+related_articles = ["articles/suor-angelica-at-oshawa-opera.md","articles/dont-miss-viva-verdi.md","articles/opera-101-with-kristine-dandavino.md","articles/vera-causa-opera-opera-for-all.md"]
+related_companies = ["scene/companies/oshawa-opera.md"]
+related_people = ["scene/people/kristine-dandavino.md"]
 short_description = "In the midst of grim news for plenty of North American companies, I love to hear about new places to catch some opera. Mezzo-soprano Kristine Dandavino is Artistic Director of Oshawa Opera, founded in 2013, and looking forward to finishing its second season this April with La traviata on April 19th, and a reprisal of Norma on April 25th. I’m always in awe of people who start opera companies, no matter what size, and so I took the chance to ask Kristine a bit about this new company in what is perhaps an unlikely community for opera. "
 slug = "kristine-dandavino-on-oshawa-opera"
 title = "Kristine Dandavino on Oshawa Opera"

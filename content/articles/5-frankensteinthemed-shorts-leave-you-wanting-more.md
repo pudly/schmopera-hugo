@@ -1,12 +1,12 @@
 +++
-author = "John Beckett"
+author = ["authors/john-beckett.md"]
 categories = "Review"
-companies = ["Tête à Tête"]
 date = "2018-05-14T20:41:00-04:00"
 lastmod = "2018-05-14T21:25:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526344706274/RebeccaSilvermanEdwardJowleSamuelJenkins.jpg.jpg"
 primary_image_credit = "Rebecca Silverman, Edward Jowle, Samuel Jenkins. Photo courtesy of Tête à Tête."
 publishDate = "2018-05-14T21:25:00-04:00"
+related_companies = ["scene/companies/scene/tete-a-tete.md"]
 short_description = "In spite of the fact that it&#039;s hard to tell a story in twenty minutes, I walked away from this exciting evening hungry for more short bonbons of opera. I was grateful for the theme of the evening, which the creative teams either ran with or ran away from. "
 slug = "5-frankensteinthemed-shorts-leave-you-wanting-more"
 title = "5 Frankenstein-themed shorts leave you wanting more"

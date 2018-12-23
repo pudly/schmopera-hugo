@@ -1,10 +1,11 @@
 +++
-author = "Jeremy Hirsch"
+author = ["authors/jeremy-hirsch.md"]
 categories = "Review"
 date = "2018-03-19T17:08:00-04:00"
 lastmod = "2018-03-20T14:25:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521493648003/sq---Hypercube-2.jpg.jpg"
 publishDate = "2018-03-20T14:25:00-04:00"
+related_articles = ["articles/review-alice-and-the-patriarchy.md"]
 short_description = "In the second section, the ensemble collectively sustained a layered, nuanced, morphing wail. Imagine an emergency foghorn exploding a metropolitan soundscape, triggering car alarms, and galvanizing old-timey constables to lay on their whistles. Think a Lichtenstein-ian Whaam! Blam! Pop! in musical form."
 slug = "review-new-music-quartet-entertains-and-bores"
 title = "Review: New music quartet entertains and bores"

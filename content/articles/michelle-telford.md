@@ -1,13 +1,14 @@
 +++
-author = "Michelle Telford"
+author = ["authors/michelle-telford.md"]
 categories = "Editorial"
-companies = ["Saskatoon Opera"]
 date = "2015-04-10T21:20:00-04:00"
 lastmod = "2015-04-12T18:57:00-04:00"
 preamble = "This is a guest post by Michelle Telford, custom surtitlist with Saskatoon Opera. \"Seeing is for suckers, and sleep is for the weak.\" - Michelle.\n"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428715008105/4-Thats-Better.jpg.jpg"
 primary_image_credit = "Michelle Telford"
 publishDate = "2015-03-25T09:20:00-04:00"
+related_articles = ["articles/tales-from-stage-management.md","articles/problems-we-didnt-know-we-had-surtitles.md","articles/vera-causa-opera-opera-for-all.md"]
+related_companies = ["scene/companies/saskatoon-opera.md"]
 short_description = "This is a guest post by Michelle Telford, custom surtitlist with Saskatoon Opera. &quot;Seeing is for suckers, and sleep is for the weak.&quot; - Michelle."
 slug = "michelle-telford"
 title = "Michelle Telford, Creating Custom Surtitles for Opera Today"

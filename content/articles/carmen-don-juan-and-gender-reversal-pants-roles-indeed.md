@@ -1,11 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Humour"
 date = "2014-08-15T12:18:00-04:00"
 lastmod = "2015-04-16T22:43:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429238134206/CarmenJamesMorgan.jpg.jpg"
 primary_image_credit = "Photo by James Morgan"
 publishDate = "2014-08-15T12:18:00-04:00"
+related_articles = ["articles/who-are-our-comprimarias-why-arent-they-funnier.md","articles/and-she-was-an-opera-singer.md","articles/la-opera-scores-in-first-half-of-bizet-doubleheader.md"]
 short_description = "Earlier this summer I was listening to the brilliant Graham Forst (husband of the formidable Judith Forst) give a talk on the history of the Don Juan character. He was talking about how Don Juan comes from the concept of Dionysus or Bacchus, these figures of indulgences that sound so fun. "
 slug = "carmen-don-juan-and-gender-reversal-pants-roles-indeed"
 title = "Carmen, Don Juan, and gender reversal: pants roles indeed"

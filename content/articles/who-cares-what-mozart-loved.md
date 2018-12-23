@@ -1,10 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Op-ed"
 date = "2014-02-09T09:05:00-05:00"
 lastmod = "2015-04-28T20:52:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430268692620/mozart_Fotor.jpg.jpg"
 publishDate = "2014-02-09T09:05:00-05:00"
+related_articles = ["articles/don-giovanni-at-the-estates-theatre.md"]
 slug = "who-cares-what-mozart-loved"
 title = "Who cares what Mozart loved?"
 +++

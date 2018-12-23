@@ -1,12 +1,13 @@
 +++
-author = "Greg Finney"
+author = ["authors/greg.md"]
 categories = "Interview"
-companies = ["Canadian Opera Company Ensemble Studio"]
 date = "2015-05-11T16:08:00-04:00"
 lastmod = "2015-05-12T12:24:00-04:00"
-people = ["Claire de Sévigné","Aviva Fortunata","Gregory Finney"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431378837355/IMG_20150511_171158.jpg.jpg"
 publishDate = "2015-05-12T12:00:00-04:00"
+related_articles = []
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md"]
+related_people = ["scene/people/scene/claire-de-sevigne.md","scene/people/aviva-fortunata.md","scene/people/gregory-finney.md"]
 short_description = "On Sunday, I was lucky enough to find myself invited to a small private recital by two of the best young singers in the country (there, I said it). Sopranos, and besties, Claire de Sevigne and Aviva Fortunata treated us to an intimate recital before they split up for about a year."
 slug = "viva-claire-aviva"
 title = "Viva Claire &amp; Aviva!"

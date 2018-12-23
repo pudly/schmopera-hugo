@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Opera By Request"]
 date = "2014-09-28T15:33:00-04:00"
 lastmod = "2015-04-15T17:14:00-04:00"
-people = ["Allison Arends","Michael Robert-Broder"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429132327553/123AArends-WEBsmall.jpg.jpg"
 primary_image_credit = "Photo by Kevin Clark"
 publishDate = "2014-09-28T15:33:00-04:00"
+related_articles = ["articles/a-chair-in-love-what-what.md","articles/celebrating-10-years-of-opera-by-request.md"]
+related_companies = ["scene/companies/opera-by-request.md"]
+related_people = ["scene/people/allison-arends.md","scene/people/michael-robertbroder.md"]
 short_description = "Last night I went to see Lucia di Lammermoor with Opera By Request. It was one of those nights I often have in Toronto, where a good chunk of the cast is made up of friends and colleagues, and my curiosity was piqued to hear some of these young singers in their Lucia roles. "
 slug = "in-review-lucia-di-lammermoor-at-opera-by-request"
 title = "In review: Lucia di Lammermoor at Opera By Request"

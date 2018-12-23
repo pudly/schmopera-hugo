@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Wiener Staatsoper","The Metropolitan Opera","Royal Opera House"]
 date = "2017-03-22T14:07:00+00:00"
 lastmod = "2017-03-24T12:43:00+00:00"
-people = ["Saimir Pirgu"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490190871247/2017-03-22---SAIMIR_PIGRU-Paul-Scala.jpg.jpg"
 primary_image_credit = "Photo by Paul Scala."
 publishDate = "2017-03-24T12:43:00+00:00"
+related_articles = ["articles/spotlight-on-william-ford.md","articles/spotlight-on-owen-mccausland.md","articles/talking-with-singers-rene-barbera.md"]
+related_companies = ["scene/companies/wiener-staatsoper.md","scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md"]
+related_people = ["scene/people/saimir-pirgu.md"]
 short_description = "Though the risks are low in practicing one&#039;s craft within school or young artist productions, Pirgu feels that the benefits are equally low. &quot;From nothing, comes nothing,&quot; he says. &quot;That&#039;s what I learned in those years. I did things when I was not supposed to do it.&quot; In a way, he misses the carefree approach he had towards singing in these early years. &quot;It was beautiful. Just go straight away and sing. Now, I think too much.&quot;"
 slug = "talking-with-singers-saimir-pirgu"
 title = "Talking with singers: Saimir Pirgu"

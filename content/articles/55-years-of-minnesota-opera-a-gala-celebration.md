@@ -1,12 +1,13 @@
 +++
-author = "Callie Cooper"
+author = ["authors/callie-cooper.md"]
 categories = "Review"
-companies = ["Minnesota Opera"]
 date = "2017-10-02T13:14:00-04:00"
 lastmod = "2017-10-03T13:11:00-04:00"
-people = ["Karin Wolverton","Mary Evelyn Hangley","Andres Acosta","Nadia Fayad","Andrew Wilkowske"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506964659791/2017-10-02---Minneapolis.jpg.jpg"
 publishDate = "2017-10-03T13:11:00-04:00"
+related_articles = ["articles/michael-christie-new-opera-that-the-box-office-loves.md","articles/silent-night-ages-well-in-minnesota-revival.md"]
+related_companies = ["scene/companies/minnesota-opera.md"]
+related_people = ["scene/people/karin-wolverton.md","scene/people/mary-evelyn-hangley.md","scene/people/andres-acosta.md","scene/people/nadia-fayad.md","scene/people/andrew-wilkowske.md"]
 short_description = "A company well-known for their journeys into new music and non standard repertoire, this concert was a refreshing take on the typical opera company showcase. The spirit of bringing new works to life was certainly felt at this performance, and I hope The Minnesota Opera will continue to grow in their mission for years to come!"
 slug = "55-years-of-minnesota-opera-a-gala-celebration"
 title = "55 years of Minnesota Opera: a gala celebration"

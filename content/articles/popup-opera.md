@@ -1,12 +1,13 @@
 +++
-author = "Loren Lester"
+author = ["authors/loren-lester.md"]
 categories = "Review"
-companies = ["On Site Opera"]
 date = "2018-12-12T12:39:00-05:00"
 lastmod = "2018-12-12T13:36:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544636303849/sqOnSiteOpera-AmahlandtheNightVisitors01.jpg.jpg"
 primary_image_credit = "Amahl (Devin Zamir Coleman) in Amahl and the Night Visitors, On Site Opera, 2018. Photo: Pavel Antonov."
 publishDate = "2018-12-12T12:39:00-05:00"
+related_articles = ["articles/amahl-production-a-charming-gift-of-youthful-energy.md"]
+related_companies = ["scene/companies/on-site-opera.md"]
 short_description = "Menotti holds an unusual niche in musical history – he&#039;s one of the rare post-Puccini composers who continued in the romantic or verismo style while the opera world became mostly atonal and minimalist. He is also one of only a handful of composers – like Wagner – who wrote his own libretti."
 slug = "popup-opera"
 title = "&quot;Pop-Up Opera&quot;"

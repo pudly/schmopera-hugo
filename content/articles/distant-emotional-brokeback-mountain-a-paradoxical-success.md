@@ -1,13 +1,13 @@
 +++
-author = "Arturo Fernandez"
+author = ["authors/arturo-fernandez.md"]
 categories = "Review"
-companies = ["NYC Opera Renaissance"]
 date = "2018-06-01T22:13:00-04:00"
 lastmod = "2018-07-02T18:48:00-04:00"
-people = ["Daniel Okulitch"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527905172526/sqSS053018NYCO_0347.jpg.jpg"
 primary_image_credit = "Brokeback Mountain, New York City Opera, 2018. Photo: Sarah Schatz."
 publishDate = "2018-06-01T22:13:00-04:00"
+related_companies = ["scene/companies/nyc-opera-renaissance.md"]
+related_people = ["scene/people/daniel-okulitch.md"]
 short_description = "I would say that Wuorinen has done Proulx&#039;s story justice, and breathed new, interesting life into what is already considered an important narrative in LGBTQ storytelling."
 slug = "distant-emotional-brokeback-mountain-a-paradoxical-success"
 title = "Distant, Emotional Brokeback Mountain A Paradoxical Success"

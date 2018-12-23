@@ -1,12 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Canadian Opera Company"]
 date = "2015-05-08T13:12:00-04:00"
 lastmod = "2015-05-09T12:29:00-04:00"
-people = ["Mark Joelson Daboll"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431107497607/LivingOperaFeature.jpg.jpg"
 publishDate = "2015-05-08T14:42:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/mark-joelson-daboll.md"]
 short_description = "I&#039;m a huge advocate of music education for young people, including the programs set up by the Canadian Opera Company&#039;s Education &amp; Outreach department. One of their programs is Living Opera, which gives a class of secondary school students a chance to hear voice and drama workshops, tour the Four Seasons Centre, and see one of the mainstage shows."
 slug = "living-opera-at-the-coc"
 title = "Living Opera at the COC"

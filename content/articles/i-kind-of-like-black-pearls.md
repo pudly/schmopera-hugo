@@ -1,10 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Humour"
 date = "2014-11-19T14:39:00-05:00"
 lastmod = "2015-04-27T17:56:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428979522113/58853_1600x1200-wallpaper-cb1350056774.jpg.jpg"
 publishDate = "2014-11-19T14:39:00-05:00"
+related_articles = ["articles/ah-non-abbiamo-il-soprano.md"]
 short_description = "One afternoon a few years back, after discovering these on YouTube, I showed them to a singer friend of mine; I figured they&#039;d find the collection of operatic misses as fascinating as I did. My singer friend didn&#039;t find it fascinating, perhaps due to the sympathy he couldn&#039;t help but feel for the voices. "
 slug = "i-kind-of-like-black-pearls"
 title = "I kind of like Black Pearls..."

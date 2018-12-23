@@ -1,14 +1,15 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Washington National Opera","Los Angeles Opera","The Metropolitan Opera"]
 date = "2017-04-06T12:12:00+01:00"
 lastmod = "2017-04-06T22:59:00+01:00"
-people = ["Renée Fleming","Plácido Domingo"]
 preamble = "Update: Fleming may not be retiring after all. Thanks to one of our readers, we found [Tom Huizenga's WRTI article](http://wrti.org/post/hold-ren-e-fleming-not-retiring-opera) clarifying some of the points made in Fleming's interview with the New York Times."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491480465749/2017-04-06---Fleming-Domingo.jpg.jpg"
 primary_image_credit = "Renée Fleming in Der Rosenkavalier, ROH/2017, Plácido Domingo in La traviata, LAO/2014. Photos: Catherine Ashmore/Craig Mathew."
 publishDate = "2017-04-06T13:18:00+01:00"
+related_articles = ["articles/placido-baritones-ripple.md","articles/whos-afraid-of-the-aging-singer.md"]
+related_companies = ["scene/companies/washington-national-opera.md","scene/companies/los-angeles-opera.md","scene/companies/the-metropolitan-opera.md"]
+related_people = ["scene/people/scene/renee-fleming.md","scene/people/plcido-domingo.md"]
 short_description = "Why, when Domingo is clearly still involved in the operatic industry in a huge way, must his schedule still include staged performances in roles meant for true baritones? When his work at WNO, LAO, and Operalia includes time spent with such skilled artists at the starts of their careers, has Domingo considered the possibility that he is taking opportunities from these rising stars - particularly the hardworking baritones?"
 slug = "graceful-exits-double-standards"
 title = "Graceful exits &amp; double standards"

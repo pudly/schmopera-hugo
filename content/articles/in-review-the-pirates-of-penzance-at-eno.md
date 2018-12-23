@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["English National Opera"]
 date = "2017-02-10T11:33:00+00:00"
 lastmod = "2017-02-10T14:09:00+00:00"
-people = ["David Webb","Soraya Mafi","Andrew Shore","Sir John Tomlinson","Ashley Riches","Lucy Schaufer"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486726095318/2017-02-09---square---ENO-The-Pirates-of-Penzance-ENO-Company-Tom-Bowles.jpg.jpg"
 publishDate = "2017-02-10T13:23:00+00:00"
+related_articles = ["articles/in-review-partenope-at-eno.md","articles/dont-miss-sasha-regans-allmale-mikado.md","articles/technicolour-gs-enos-iolanthe.md"]
+related_companies = ["scene/companies/english-national-opera.md"]
+related_people = ["scene/people/david-webb.md","scene/people/soraya-mafi.md","scene/people/andrew-shore.md","scene/people/sir-john-tomlinson.md","scene/people/ashley-riches.md","scene/people/lucy-schaufer.md"]
 short_description = "With the ENO Orchestra sounding the best yet we&#039;ve heard them under Gareth Jones, this Pirates of Penzance has a ball with everything that&#039;s silly and absurd about the show. Broad, flat geometric shapes created imaginative, flexible sets; saturated blues and reds placed us properly in Britain, and flashes of green came with the young, fresh flock of Stanley girls, and a murky purple took the story into the nighttime hours."
 slug = "in-review-the-pirates-of-penzance-at-eno"
 title = "In review: The Pirates of Penzance at ENO"

@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Op-ed"
-companies = ["Against the Grain Theatre"]
 date = "2015-12-18T13:05:00-05:00"
 lastmod = "2015-12-21T09:22:00-05:00"
-people = ["Joel Ivany","Christopher Mokrzewski","Miriam Khalil","Owen McCausland","Andrea Ludwig","Stephen Hegedus","Samantha Pickett","Christina Campsall","Gregory Finney","Jonathan MacArthur","Vanessa Oude-Reimerink","Michaela Dickey","Jennifer Nichols","Whitney Mather"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450507330640/AtG-Messiah---Josh---square.jpg.jpg"
 primary_image_credit = "Joshua Wales in Against the Grain Theatre's Messiah. Photo by Darryl Block."
 publishDate = "2015-12-21T08:00:00-05:00"
+related_articles = ["articles/good-ideas-rehearsalasperformance.md","articles/he-saidshe-said-mozarts-requiem-at-tso.md","articles/free-webinar-alexander-technique-the-voice.md","articles/he-saidshe-said-a-tale-of-two-messiahs.md","articles/5-reasons-to-get-your-drama-fix-from-oratorio.md","articles/in-review-seven-deadly-sins-at-tso.md"]
+related_companies = ["scene/companies/against-the-grain-theatre.md"]
+related_people = ["scene/people/joel-ivany.md","scene/people/christopher-mokrzewski.md","scene/people/miriam-khalil.md","scene/people/owen-mccausland.md","scene/people/andrea-ludwig.md","scene/people/stephen-hegedus.md","scene/people/samantha-pickett.md","scene/people/christina-campsall.md","scene/people/gregory-finney.md","scene/people/jonathan-macarthur.md","scene/people/vanessa-oudereimerink.md","scene/people/michaela-dickey.md","scene/people/jennifer-nichols.md","scene/people/whitney-mather.md"]
 short_description = "Of course, the final product was something greater than the sum of its parts. Each night, there was that great Against the Grain alchemy onstage, that amazing thing that happens when performers reach out to the audience, and the audience gives back. The proof is in the audience feedback, in truth. The run has stirred up the usual AtG-show Twitter buzz, full of people loving the novelty of this Messiah."
 slug = "rehearsing-a-messiah-that-moves"
 title = "Rehearsing &quot;a Messiah that moves.&quot;"

@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2018-07-13T20:01:00-04:00"
 lastmod = "2018-07-20T16:53:00-04:00"
@@ -7,6 +7,7 @@ preamble = "What does Canadian music sound like? It's a question that the member
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1531526393387/sqsarahslean_promophoto_blazer_credit-david-leyes.jpg.jpg"
 primary_image_credit = "Photo: David Leyes."
 publishDate = "2018-07-20T16:53:00-04:00"
+related_articles = ["articles/canada-sounds-like-mosaque-project.md","articles/darren-sigesmund-on-the-mosaque-project.md","articles/nicole-lize-on-the-mosaque-project.md"]
 short_description = "&quot;It&#039;s always a treat writing music for master musicians and I&#039;m thrilled to be in the company of such great composers, but I&#039;m especially honoured to be part of this project, I think it&#039;s ambitious and timely and a beautiful tribute to Canada.&quot;"
 slug = "sarah-slean-on-the-mosaque-project"
 title = "Sarah Slean on the Mosaïque Project"

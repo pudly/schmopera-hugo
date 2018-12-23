@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Against the Grain Theatre","Indie Opera T.O."]
 date = "2015-06-01T15:41:00-04:00"
 lastmod = "2015-06-02T16:32:00-04:00"
-people = ["Krisztina Szabó","Stephen Hegedus","Christopher Mokrzewski"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433270355896/TwoBirds.jpg.jpg"
 publishDate = "2015-06-02T14:41:00-04:00"
+related_articles = ["articles/opera-in-spring.md"]
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/indie-opera-to.md"]
+related_people = ["scene/people/krisztina-szab.md","scene/people/stephen-hegedus.md","scene/people/christopher-mokrzewski.md"]
 short_description = "It&#039;s not hard to see why Harawi is a good partner to Die Schöne Müllerin. Love, seemingly one-sided. results in the complete spectrum between ecstasy and death. I was curious to know more, so I sat down with pianist, Messaien enthusiast, and Against the Grain Theatre Music Director, Topher Mokrzewski."
 slug = "harawi-whats-that"
 title = "Harawi? What&#039;s that?"

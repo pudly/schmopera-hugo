@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["The Metropolitan Opera"]
 date = "2016-06-02T05:47:00-06:00"
 lastmod = "2016-07-06T16:12:00-06:00"
-people = ["Yannick Nézet-Séguin"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464980611100/2016-06-04---YNZ-2009002-Marco-Borggreve.jpg.jpg"
 primary_image_credit = "Photo by Marco Borggreve."
 publishDate = "2016-06-03T14:30:00-06:00"
+related_articles = ["articles/is-it-time-for-the-met-to-move.md","articles/elitism-irony-and-the-phantom-of-the-opera.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md"]
+related_people = ["scene/people/scene/yannick-nezet-seguin.md"]
 short_description = "With a few years of unsettled music direction, and a real need to try something actually new (perhaps veering towards what many opera fans would call &quot;pandering&quot;), it seems like a perfect opportunity for the Met to take a serious try at adding musicals to their heavy roster of over 20 productions per season. There&#039;s perhaps an untapped, enthusiastic potential audience that would love to pair the grandeur and the chandeliers with the kind of onstage action that is less foreign to their eyes and ears."
 slug = "yannick-nezet-seguin-musicals-and-great-timing"
 title = "Yannick Nézet-Séguin, musicals, and great timing"

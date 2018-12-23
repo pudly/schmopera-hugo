@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "News"
-companies = ["One World Symphony"]
 date = "2017-01-03T20:21:00+00:00"
 lastmod = "2017-01-15T19:00:00+00:00"
-people = ["Sonya Headlam"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483533802513/2017-01-05---SungJinHong_byJakaVinsek.jpg.jpg"
 primary_image_credit = "Sung Jin Hong, creator of One World Symphony. Photo by Jaka Vinsek."
 publishDate = "2017-01-05T14:44:00+00:00"
+related_articles = ["articles/fannibals-in-new-york-one-world-symphony-premieres-hannibal.md","articles/sung-jin-hong-seoul-searching.md"]
+related_companies = ["scene/companies/one-world-symphony.md"]
+related_people = ["scene/people/sonya-headlam.md"]
 short_description = "Defiance is truly the theme of this programme. Beethoven defied his deafness, Chaplin and Obama the violence and hatred of their times, and composers like Margaret Allison Bonds and Valerie Capers (the first blind composer to graduate from Juilliard) produced their work defiantly amid the racism, ableism, and sexism that pervaded their lives."
 slug = "one-world-symphony-gets-defiant"
 title = "One World Symphony gets &quot;Defiant&quot;"

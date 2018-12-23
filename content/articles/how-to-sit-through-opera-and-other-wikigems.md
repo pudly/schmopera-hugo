@@ -1,11 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Humour"
 date = "2015-04-11T21:30:00-04:00"
 lastmod = "2015-04-11T21:32:00-04:00"
 preamble = "<p>\n\tEvery once in a while I like to pretend I'm an opera newbie and Google things like \"why do opera singers sing so loud\" and \"why is opera so long\". I was rewarded this time with a WikiHow goldmine of entertainment. Now, I know these articles can be written by anyone, so I'm not going on a snob rant. I just think these are hilarious.\n</p>"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428802157111/WikiHow.jpg.jpg"
 publishDate = "2015-02-05T09:30:00-05:00"
+related_articles = ["articles/gems-is-your-gender-in-sonata-form.md"]
 short_description = "Every once in a while I like to pretend I’m an opera newbie and Google things like “why do opera singers sing so loud” and “why is opera so long”. I was rewarded this time with a WikiHow goldmine of entertainment. Now, I know these articles can be written by anyone, so I’m not going on a snob rant. I just think these are hilarious."
 slug = "how-to-sit-through-opera-and-other-wikigems"
 title = "How to Sit Through Opera and Other Wikigems"

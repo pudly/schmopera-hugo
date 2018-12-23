@@ -1,13 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Toronto Symphony Orchestra"]
 date = "2015-04-11T20:25:00-04:00"
 lastmod = "2015-04-11T20:25:00-04:00"
-people = ["Allison Bent"]
 preamble = "<p>\n\tAllison Bent is Orchestra Personnel Administrator for the Toronto Symphony Orchestra, and was an Artist Representative for Andrew Kwan Artists. I asked her about advice she could offer young musicians entering or new to the professional world.\n</p>"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428798243576/Allison-2.jpg.jpg"
 publishDate = "2015-02-09T08:25:00-05:00"
+related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
+related_people = ["scene/people/allison-bent.md"]
 short_description = "Allison Bent is Orchestra Personnel Administrator for the Toronto Symphony Orchestra, and was an Artist Representative for Andrew Kwan Artists. I asked her about advice she could offer young musicians entering or new to the professional world."
 slug = "allison-bent-advice-for-young-musicians"
 title = "Allison Bent: Advice for Young Musicians"

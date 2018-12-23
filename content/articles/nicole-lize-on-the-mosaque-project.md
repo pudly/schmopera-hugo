@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2018-07-13T20:13:00-04:00"
 lastmod = "2018-07-17T19:53:00-04:00"
@@ -7,6 +7,7 @@ preamble = "What does Canadian music sound like? It's a question that the member
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1531871591258/sqNicole-Lizee-Nov-2013-11.jpg.jpg"
 primary_image_credit = "Photo: Murray Lightburn."
 publishDate = "2018-07-17T19:53:00-04:00"
+related_articles = ["articles/sarah-slean-on-the-mosaque-project.md","articles/canada-sounds-like-mosaque-project.md"]
 short_description = "&quot;For the past few years I&#039;ve been thinking a lot about Canadian culture - or Canadiana - and, more specifically, Saskatchewan culture and identity. I&#039;ve written two large-scale works in addition to this one that explores this as a premise. I feel I&#039;ve just started this exploration.&quot;"
 slug = "nicole-lize-on-the-mosaque-project"
 title = "Nicole Lizée on the Mosaïque Project"

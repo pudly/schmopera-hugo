@@ -1,13 +1,14 @@
 +++
-author = "John Beckett"
+author = ["authors/john-beckett.md"]
 categories = "Review"
-companies = ["English National Opera"]
 date = "2018-03-02T15:25:00-05:00"
 lastmod = "2018-03-02T17:13:00-05:00"
-people = ["Eleanor Dennis","Christopher Ainslie","David Webb","Soraya Mafi","Clare Presland","Matthew Durkan","Joshua Bloom"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520021705161/sq---ENO-A-Midsummer-Night's-Dream-David-Webb-Clare-Presland-Matthew-Durkan-Eleanor-Dennis-Robert-Workman.jpg.jpg"
 primary_image_credit = "David Webb, Clare Presland, Matthew Durkan, and Eleanor Dennis in A Midsummer Night's Dream, ENO, 2018. Photo: Robert Workman."
 publishDate = "2018-03-02T16:29:00-05:00"
+related_articles = ["articles/in-review-a-midsummer-nights-dream-at-glyndebourne.md"]
+related_companies = ["scene/companies/english-national-opera.md"]
+related_people = ["scene/people/eleanor-dennis.md","scene/people/christopher-ainslie.md","scene/people/david-webb.md","scene/people/soraya-mafi.md","scene/people/clare-presland.md","scene/people/matthew-durkan.md","scene/people/joshua-bloom.md"]
 short_description = "Britten&#039;s stunning opera has made it into the standard operatic repertory not only because of the genius writing but because of its malleability as a piece. There are so many directions the design of this opera can go, and so many choices to be made for the character&#039;s relationships, thus every new production of Midsummer can feel like a new opera entirely."
 slug = "too-much-magic-a-midsummer-nights-dream-at-eno"
 title = "Too much magic? A Midsummer Night&#039;s Dream at ENO"

@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2018-07-08T20:33:00-04:00"
 lastmod = "2018-07-15T13:17:00-04:00"
@@ -7,6 +7,7 @@ preamble = "Pianist Angela Park, violinist Elissa Lee, violist Sharon Wei, and c
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1531096065003/sqemic_6_Huang.jpg.jpg"
 primary_image_credit = "Photo: Bo Huang."
 publishDate = "2018-07-13T20:05:00-04:00"
+related_articles = ["articles/sarah-slean-on-the-mosaque-project.md","articles/darren-sigesmund-on-the-mosaque-project.md","articles/nicole-lize-on-the-mosaque-project.md"]
 short_description = "&quot;We dreamed of going on a nation-wide tour for our 10th anniversary, and realised that it was not going to be easy to pull off. So we came up with the idea of commissioning a piece that takes us across the country musically. One thing let to another, and we now have a nation-wide tour, and a great added visual dimension, including listeners from all across Canada.&quot;"
 slug = "canada-sounds-like-mosaque-project"
 title = "Canada sounds like: Mosaïque Project"

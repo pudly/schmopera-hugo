@@ -1,12 +1,13 @@
 +++
-author = "Greg Finney"
+author = ["authors/greg.md"]
 categories = "Review"
-companies = ["Opera 5"]
 date = "2014-09-20T12:39:00-04:00"
 lastmod = "2015-04-15T22:08:00-04:00"
-people = ["Adrian Kramer","Teiya Kasahara"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429150134884/o5-offenbach-hahn-ba-ta-clan-1.jpg.jpg"
 publishDate = "2014-09-20T12:39:00-04:00"
+related_articles = ["articles/opera-5s-aria-umezawa-on-offenbachhahn.md"]
+related_companies = ["scene/companies/opera-5.md"]
+related_people = ["scene/people/adrian-kramer.md","scene/people/teiya-kasahara.md"]
 short_description = "Last night was opening night at the New Theatre Alliance Française de Toronto for Opera 5&#039;s (check out their Opera Cheats) season opener: a romp through the French obsession with the Far East during the 19th century. We were treated to a double bill of Île du rêve by Reynaldo Hahn and Ba-Ta-Clan By Jacques Offenbach, two very different pieces that not only show the varied differences of the East&#039;s influence on Western music, but also the versatility of a stellar cast of darn fine singers."
 slug = "in-review-offenbachhahn"
 title = "In review: Offenbach/Hahn"

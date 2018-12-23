@@ -1,12 +1,13 @@
 +++
-author = "Tracy Monaghan"
+author = ["authors/tracy-monaghan.md"]
 categories = "Review"
-companies = ["Nashville Opera"]
 date = "2016-09-15T14:23:00+01:00"
 lastmod = "2016-09-20T09:10:00+01:00"
-people = ["Matthew Treviño","Ryan MacPherson","Rebecca Sjöwall"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473947873410/2016-09-14---Hat.jpg.jpg"
 publishDate = "2016-09-18T16:11:00+01:00"
+related_articles = ["articles/in-review-baby-kintyre.md","articles/a-chair-in-love-what-what.md"]
+related_companies = ["scene/companies/nashville-opera.md"]
+related_people = ["scene/people/scene/matthew-trevino.md","scene/people/ryan-macpherson.md","scene/people/scene/rebecca-sjowall.md"]
 short_description = "The Man Who Mistook His Wife For A Hat is not a technically a tragedy, though; deaths do not a tragedy make. The opera is based on Oliver Sacks&#039;s case study (1985), with a libretto by Sacks, Christopher Rawlence, and Michael Morris, and tells of a neurologist&#039;s study of his patient, Dr. P."
 slug = "new-recordings-the-man-who-mistook-his-wife-for-a-hat"
 title = "New recordings: The Man Who Mistook His Wife for a Hat"

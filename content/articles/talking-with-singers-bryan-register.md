@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Grange Park Opera"]
 date = "2016-05-24T20:15:00+01:00"
 lastmod = "2016-05-28T10:50:00+01:00"
-people = ["Bryan Register"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464117956977/2016-05-24---Bryan-Register-1-credit-Dario-Acosta.gif"
 primary_image_credit = "Photo by Dario Acosta."
 publishDate = "2016-05-28T10:42:00+01:00"
+related_articles = ["articles/talking-with-singers-jorell-williams.md","articles/talking-with-singers-christine-goerke.md","articles/talking-with-singers-jamie-barton.md","articles/what-weve-learned-by-talking-with-108-opera-singers.md","articles/talking-with-singers-rene-barbera.md","articles/talking-with-singers-eleazar-rodriguez.md","articles/talking-with-singers-christian-bowers.md","articles/talking-with-singers-brian-jagde.md","articles/two-emerging-singers-to-make-their-carnegie-hall-debut-in-2017.md","articles/talking-with-singers-george-gagnidze.md","articles/talking-with-singers-scott-hendricks.md","articles/talking-with-singers-clay-hilley.md"]
+related_companies = ["scene/companies/grange-park-opera.md"]
+related_people = ["scene/people/bryan-register.md"]
 short_description = "&quot;Physically, it feels like I&#039;m doing my yoga practice in public, in front of an audience,&quot; Register laughs. Singers and yogis alike know how tricky it can be to find a comfortable balance of effort and ease. &quot;I would equate a long, difficult phrase, to holding a difficult pose in yoga. You just have to breathe into it, accept it, you&#039;re not going to die.&quot;"
 slug = "talking-with-singers-bryan-register"
 title = "Talking with singers: Bryan Register"

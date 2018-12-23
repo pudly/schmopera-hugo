@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Humour"
 date = "2015-09-01T16:14:00-04:00"
 lastmod = "2015-09-06T11:18:00-04:00"
-people = ["David Lang"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441396920841/dbCHRONICLEmodel.jpg.jpg"
 primary_image_credit = "Photo courtesy of dianabroussard.com."
 publishDate = "2015-09-06T11:16:00-04:00"
+related_articles = ["articles/what-to-wear-to-an-audition-via-the-red-carpet.md"]
+related_people = ["scene/people/david-lang.md"]
 short_description = "Accessories designer Diana Broussard is introducing a new resin handbag this November. This doesn&#039;t seem like a topic worthy of an opera blog, but stay with me. The handbag comes equipped with an LCD screen, and wearers can play video and audio of their choice, whatever goes best with your outfit, I suppose."
 slug = "if-you-could-accessorize-with-opera"
 title = "If you could accessorize with opera..."

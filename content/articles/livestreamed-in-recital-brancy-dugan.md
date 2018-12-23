@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "News"
 date = "2018-11-02T12:50:00-04:00"
 lastmod = "2018-11-02T18:38:00-04:00"
-people = ["John Brancy","Peter Dugan"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541177278077/sqBrancyDuganGerardCollett.png"
 primary_image_credit = "l-r: John Brancy and Peter Dugan. Photo: Gerard Collett."
 publishDate = "2018-11-02T12:50:00-04:00"
+related_articles = ["articles/recitals-that-stick-matthias-goerne-at-wigmore-hall.md"]
+related_people = ["scene/people/john-brancy.md","scene/people/peter-dugan.md"]
 short_description = "The Journey Home is inspired by the 100th anniversary of the end of WWI, and features traditional picks (Schubert, Vaughan Williams), as well as popular and art songs by composers who were killed in the war."
 slug = "livestreamed-in-recital-brancy-dugan"
 title = "Live-streamed in recital: Brancy &amp; Dugan"

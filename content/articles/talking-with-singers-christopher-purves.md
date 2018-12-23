@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["English National Opera"]
 date = "2016-08-26T13:02:00+01:00"
 lastmod = "2016-08-30T13:31:00+01:00"
-people = ["Christopher Purves"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472217585321/2016-08-27---Christopher-Purves-Chis-Gloag.jpg.jpg"
 primary_image_credit = "Photo by Chris Gloag."
 publishDate = "2016-08-30T08:08:00+01:00"
+related_articles = ["articles/talking-with-singers-christine-goerke.md","articles/talking-with-singers-corinne-winters.md","articles/talking-with-singers-othalie-graham.md","articles/barihunks-jack-michaels-we-are-in-a-golden-age-of-baritones.md","articles/in-review-written-on-skin-at-roh.md","articles/greg-jennas-roundup2017.md"]
+related_companies = ["scene/companies/english-national-opera.md"]
+related_people = ["scene/people/christopher-purves.md"]
 short_description = "&quot;He knows exactly, with one look or brief conversation with a person, he knows exactly what their sexual proclivities are, and he knows exactly what they would like to do.&quot; Paired with confidence and unhindered by morals, Giovanni is free to say, &quot;I&#039;m gonna shag her, I&#039;m going to screw this woman.&quot;"
 slug = "talking-with-singers-christopher-purves"
 title = "Talking with singers: Christopher Purves"

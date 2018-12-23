@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md","authors/greg.md"]
 categories = "Review"
-companies = ["Opera Atelier"]
 date = "2015-04-10T20:10:00-04:00"
 lastmod = "2015-04-13T16:16:00-04:00"
-people = ["Meghan Lindsay","Peggy Kriha Dye","Mireille Lebel"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428711043690/Orpheus_Fotor.jpg.jpg"
 publishDate = "2015-04-10T20:10:00-04:00"
+related_articles = ["articles/in-review-opera-ateliers-armide.md"]
+related_companies = ["scene/companies/opera-atelier.md"]
+related_people = ["scene/people/meghan-lindsay.md","scene/people/peggy-kriha-dye.md","scene/people/mireille-lebel.md"]
 short_description = "A collaborative review with contributor Greg Finney of Opera Atelier production of Orpheus &amp; Eurydice at Opera Atelier."
 slug = "orpheus-eurydice-opera-atelier"
 title = "In review: Orpheus &amp; Eurydice at Opera Atelier"

@@ -1,13 +1,14 @@
 +++
-author = "Erik Flaten"
+author = ["authors/erik-flaten.md"]
 categories = "Review"
-companies = ["Opera Philadelphia"]
 date = "2017-09-18T15:25:00-04:00"
 lastmod = "2017-09-18T21:42:00-04:00"
-people = ["Rachel Calloway","Sarah Tucker","Abigail Levis","Cecelia Hall","Samuel Levine","Craig Verm"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505766130532/2071-09-18---square---war-stories02.jpg.jpg"
 primary_image_credit = "Daniel (Craig Verm) & Sorrel (Cecelia Hall) in I Have No Stories to Tell You. Photo: Dominic M. Mercier/Opera Philadelphia."
 publishDate = "2017-09-18T21:42:00-04:00"
+related_articles = ["articles/catharsis-is-the-wrong-word-brittens-war-requiem.md"]
+related_companies = ["scene/companies/opera-philadelphia.md"]
+related_people = ["scene/people/rachel-calloway.md","scene/people/sarah-tucker.md","scene/people/abigail-levis.md","scene/people/cecelia-hall.md","scene/people/samuel-levine.md","scene/people/craig-verm.md"]
 short_description = "Beecher&#039;s score is a gripping manifestation of the heart-breaking and heavy content of the libretto. His choice to use the same instruments that were used in the Monteverdi is a brilliant blend of past and present. From the very first eerie sounds that welcome us into the world of the piece, one hears similarities to George Crumb&#039;s Black Angels, which is a response to the Vietnam War."
 slug = "war-stories-o17"
 title = "&quot;Humanity&#039;s bond to war&quot;: War Stories at O17"

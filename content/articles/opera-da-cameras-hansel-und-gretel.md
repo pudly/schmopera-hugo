@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "News"
-companies = ["Opera da Camera"]
 date = "2015-10-09T11:31:00-04:00"
 lastmod = "2015-10-11T10:46:00-04:00"
-people = ["Meagan Zantingh","Valérie Bélanger"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444404646261/OdCHanselGretel_G_LSquare.jpg.jpg"
 publishDate = "2015-10-11T10:46:00-04:00"
+related_articles = ["articles/opera-da-camera-xerxes-is-the-new-elvis.md"]
+related_companies = ["scene/companies/opera-da-camera.md"]
+related_people = ["scene/people/meagan-zantingh.md","scene/people/scene/valerie-belanger.md"]
 short_description = "Opera da Camera is all about accessibility. For their upcoming Hänsel, they&#039;ll hold two free pre-show talks, aimed at both young and adult audiences. &quot;Before our matinée performance, there will be a pre-opera talk geared especially towards children with a professional story teller, and before the opening night there is a pre-opera talk given by a representative of the Goethe Institute of Montreal.&quot;"
 slug = "opera-da-cameras-hansel-und-gretel"
 title = "Opera da Camera&#039;s Hänsel und Gretel"

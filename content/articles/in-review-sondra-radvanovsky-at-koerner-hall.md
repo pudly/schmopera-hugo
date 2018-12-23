@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["The Metropolitan Opera"]
 date = "2015-12-05T11:24:00-05:00"
 lastmod = "2015-12-05T12:02:00-05:00"
-people = ["Sondra Radvanovsky"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449333943420/2015-12-04---Sondra.jpg.jpg"
 primary_image_credit = "Photo by Pavel Antonov."
 publishDate = "2015-12-05T11:59:00-05:00"
+related_articles = ["articles/he-saidshe-said-aprile-millo-at-trinity-st-pauls.md","articles/free-live-stream-sondra-radvanovsky-at-the-national-opera-center.md","articles/in-review-dmitri-hvorostovsky-at-koerner-hall.md","articles/in-review-paul-appleby-at-wigmore-hall.md","articles/in-review-juan-diego-florezs-rosenblatt-recital.md","articles/ian-rosenblatt-its-all-about-the-voice.md","articles/in-review-bryn-terfel-at-koerner-hall.md","articles/dont-miss-encounter-with-sondra-radvanovsky.md","articles/renee-fleming-tso.md","articles/review-sondra-slays-in-bellini-masterwork.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md"]
+related_people = ["scene/people/sondra-radvanovsky.md"]
 short_description = "She spent the aria pouring her voice out into Koerner Hall, showing us the steel in her sound that travels up to her warm, thrilling top. Radvanovsky is one of those singers that seems of another generation, of the old-guard of bel canto, the never-ending sound, hold-that-note-forever style that&#039;s truly a rare find (in any generation, really)."
 slug = "in-review-sondra-radvanovsky-at-koerner-hall"
 title = "In review: Sondra Radvanovsky at Koerner Hall"

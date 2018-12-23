@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Glimmerglass Festival"]
 date = "2017-10-10T21:26:00-04:00"
 lastmod = "2017-10-17T21:27:00-04:00"
-people = ["R.B. Schlather","Christopher Alden","Michaela Martens"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508195090640/2017-10-16---square---RB_Schlather_Portrait.jpg.jpg"
 publishDate = "2017-10-17T21:01:00-04:00"
+related_articles = ["articles/an-organic-integration-the-wake-world.md","articles/feminist-truths-the-mother-of-us-all.md","articles/the-rose-elf-hot-times-in-the-cool-catacombs.md"]
+related_companies = ["scene/companies/glimmerglass-festival.md"]
+related_people = ["scene/people/rb-schlather.md","scene/people/christopher-alden.md","scene/people/michaela-martens.md"]
 short_description = "Not only is Schlather&#039;s latest project site-specific, but one which is in response to a performance space&#039;s unique history. &quot;That&#039;s exciting for me, and it&#039;s the continuation of explorations that I&#039;ve been doing for the past couple years,&quot; he says. These explorations, he explains, haven&#039;t always been clear in direction, but they have always ben led by the question, &quot;what does it mean to do this opera in this location?&quot;"
 slug = "rb-schlather-susan-b-anthony-connecting-opera-with-community"
 title = "R.B. Schlather, Susan B. Anthony, &amp; connecting opera with community"

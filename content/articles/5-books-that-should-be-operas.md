@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2016-01-14T18:08:00-05:00"
 lastmod = "2017-11-11T13:30:00-05:00"
@@ -7,6 +7,7 @@ preamble = "Opera lovers are people who crave a great story, just like bookworms
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452909607939/2016-01-16---Books.jpg.jpg"
 primary_image_credit = "Illustration by Quentin Blake, from Roald Dahl's \"The BFG*"
 publishDate = "2016-01-16T10:24:00-05:00"
+related_articles = ["articles/opera-spin-off.md","articles/opera-spinoffs-round-two.md","articles/6-tv-shows-that-should-be-operas.md"]
 short_description = "Of course, not every work of fiction lends itself well to the addition of music; an operatic Finnegan&#039;s Wake might not be boring, but it may miss the point. Authors like John Irving write compelling characters (I could read The World According to Garp a hundred times), but they&#039;re developed over the long-haul, over a scope that&#039;s not conducive to the way opera tells stories. The same goes for delicious epics, like Harry Potter, The Lord of the Rings, A Song of Ice and Fire, and even Diana Gabaldon&#039;s Outlander series."
 slug = "5-books-that-should-be-operas"
 title = "5 books that should be operas"

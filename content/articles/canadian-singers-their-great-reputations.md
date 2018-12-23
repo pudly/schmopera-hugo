@@ -1,11 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["COSI: Centre for Opera Studies in Italy"]
 date = "2016-12-23T10:07:00-05:00"
 lastmod = "2016-12-28T09:25:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482857909449/2016-12-27---Canada.jpg.jpg"
 publishDate = "2016-12-28T08:52:00-05:00"
+related_articles = ["articles/canadian-yaps-missed-opportunities.md"]
+related_companies = ["scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
 short_description = "Perhaps it&#039;s because we border the behemoth that is the United States, and perhaps it&#039;s because we&#039;re far-removed from the operatic centre that is Europe. In any case, it drives Canadian singers to meet the perceived standards of the &quot;biggest and best&quot;. Maybe we underestimate the quality of training available at home, and thus we head out into the world in over-prepared hordes. "
 slug = "canadian-singers-their-great-reputations"
 title = "Canadian singers &amp; their great reputations"

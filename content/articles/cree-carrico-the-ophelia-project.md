@@ -2,9 +2,9 @@
 categories = "Interview"
 date = "2015-04-23T16:33:00-04:00"
 lastmod = "2015-04-23T19:58:00-04:00"
-people = ["Cree Carrico"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429833514150/CREE-HEADSHOT.jpg.jpg"
 publishDate = "2014-06-08T11:33:00-04:00"
+related_people = ["scene/people/cree-carrico.md"]
 short_description = "Soprano Cree Carrico thinks outside the box. Case in point: The Ophelia Project. With director Christopher Mirto, she has created The Ophelia Project, a one-woman opera/theatre hybrid exploring the fractured psyche of Shakespeare&#039;s Ophelia. "
 slug = "cree-carrico-the-ophelia-project"
 title = "Cree Carrico: The Ophelia Project"

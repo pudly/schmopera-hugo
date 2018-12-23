@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 date = "2014-03-08T16:05:00-05:00"
 lastmod = "2015-04-27T18:33:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430173899101/Screen%20Shot%202015-04-27%20at%206.27.22%20PM.png"

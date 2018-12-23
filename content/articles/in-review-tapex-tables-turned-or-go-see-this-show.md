@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Tapestry Opera"]
 date = "2015-04-10T21:36:00-04:00"
 lastmod = "2015-04-12T19:01:00-04:00"
-people = ["Carla Huhtanen","Michael Mori"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428716069380/Lizee.jpg.jpg"
 primary_image_credit = "Steve Raegele"
 publishDate = "2015-03-21T09:36:00-04:00"
+related_articles = ["articles/go-see-this-tapex-metallurgy.md","articles/dont-miss-naomis-road.md","articles/dont-miss-century-song.md","articles/dont-miss-tapex-forbidden-we-are-tough-and-resilient.md","articles/a-wellexecuted-mashup-tapex-forbidden.md"]
+related_companies = ["scene/companies/tapestry-opera.md"]
+related_people = ["scene/people/carla-huhtanen.md","scene/people/michael-mori.md"]
 short_description = "Last night was the first of two performances of Tapestry&#039;s 2nd annual Tap:Ex (Tapestry Explorations/Experimentations), this time the program is Tables Turned,  featuring the music of Montréal-based composer and turn table artist Nicole Lizée, with percussionist Ben Reimer and the spectacular soprano Carla Huhtanen. "
 slug = "in-review-tapex-tables-turned-or-go-see-this-show"
 title = "In review: Tap:Ex Tables Turned, or Go See This Show"

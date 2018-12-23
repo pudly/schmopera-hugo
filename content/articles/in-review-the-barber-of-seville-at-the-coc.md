@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Canadian Opera Company Ensemble Studio","Canadian Opera Company"]
 date = "2015-04-20T10:03:00-04:00"
 lastmod = "2015-04-22T13:17:00-04:00"
-people = ["Alek Shrader","Joshua Hopkins","Serena Malfi","Robert Gleadow","Aviva Fortunata","Ferruccio Furlanetto"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429538555915/Barber-MC-1761.jpg.jpg"
 primary_image_credit = "Renato Girolami as Doctor Bartolo & Joshua Hopkins as Figaro in the COC's The Barber of Seville, 2015. Photo: Michael Cooper"
 publishDate = "2015-04-20T11:57:00-04:00"
+related_articles = ["articles/in-review-the-marriage-of-figaro.md","articles/calgary-opera-delivers-comedy-gold-with-wellcast-barber.md"]
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/alek-shrader.md","scene/people/joshua-hopkins.md","scene/people/serena-malfi.md","scene/people/robert-gleadow.md","scene/people/aviva-fortunata.md","scene/people/ferruccio-furlanetto.md"]
 short_description = "I went yesterday afternoon to see The Barber of Seville at the Four Seasons Centre. The anticipation was serious, especially since I was able to see the director&#039;s concept discussion, and I interviewed three singers from the cast, Joshua Hopkins, Alek Shrader, and Serena Malfi."
 slug = "in-review-the-barber-of-seville-at-the-coc"
 title = "In review: The Barber of Seville at the COC"

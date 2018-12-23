@@ -1,12 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Toronto Operetta Theatre"]
 date = "2014-12-17T11:50:00-05:00"
 lastmod = "2015-04-13T22:13:00-04:00"
-people = ["Lucia Cesaroni","Adrian Kramer","Giles Tomkins"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428977444833/club.jpg.jpg"
 publishDate = "2014-12-17T11:50:00-05:00"
+related_companies = ["scene/companies/toronto-operetta-theatre.md"]
+related_people = ["scene/people/lucia-cesaroni.md","scene/people/adrian-kramer.md","scene/people/giles-tomkins.md"]
 short_description = "Looking for something to tide you over between the annual stretch of Christmas-New Year&#039;s-Regular Life? Want a way to get some catchy songs in your head that aren&#039;t Christmas carols? Me too."
 slug = "the-mikado-and-champagne"
 title = "The Mikado and Champagne"

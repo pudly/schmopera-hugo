@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Canadian Opera Company","The Metropolitan Opera"]
 date = "2016-03-07T06:10:00-05:00"
 lastmod = "2017-04-20T09:06:00-04:00"
-people = ["Tracy Dahl","Jane Archibald","Danielle de Niese"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492693535109/2017-04-20---Soubrette.jpg.jpg"
 publishDate = "2016-03-07T08:06:00-05:00"
+related_articles = ["articles/who-are-our-comprimarias-why-arent-they-funnier.md","articles/4-tips-for-when-there-are-too-many-notes.md","articles/taking-a-bow-curtain-calls-for-your-voice-type.md"]
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md"]
+related_people = ["scene/people/tracy-dahl.md","scene/people/jane-archibald.md","scene/people/danielle-de-niese.md"]
 short_description = "A soubrette is like a moving target, where casting depends on everything around her; in one house, a soprano may be a Nannetta, and elsewhere she&#039;s Alice Ford. The term &quot;soubrette&quot; is more of a convenient appendix tacked on to the larger context of what a singer can do. So, soubrettes, we hope you&#039;re taking these roles like the compliments they are."
 slug = "hidden-secrets-of-the-soubrette"
 title = "Hidden secrets of the soubrette"

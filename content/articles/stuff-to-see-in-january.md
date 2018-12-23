@@ -1,13 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Tapestry Opera","Canadian Opera Company","Opera 5","Toronto Symphony Orchestra"]
 date = "2015-01-07T13:30:00-05:00"
 lastmod = "2015-04-12T10:43:00-04:00"
-people = ["Russell Braun","Kyle Ketelsen","Jane Archibald","Jennifer Holloway","Michael Schade","Julie Boulianne","Gordon Bintner","Jean-Philippe Fortier-Lazure","Joel Ivany"]
 preamble = "<p>\n\tMy January concert-going schedule is filling up nicely. I offer up a quick list of stuff I'm seeing this month in Toronto, in the hopes that I'll see you guys there.\n</p>"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428849673309/TorontoWinterIsland.jpg.jpg"
 publishDate = "2015-01-07T13:30:00-05:00"
+related_companies = ["scene/companies/tapestry-opera.md","scene/companies/canadian-opera-company.md","scene/companies/opera-5.md","scene/companies/toronto-symphony-orchestra.md"]
+related_people = ["scene/people/russell-braun.md","scene/people/kyle-ketelsen.md","scene/people/jane-archibald.md","scene/people/jennifer-holloway.md","scene/people/michael-schade.md","scene/people/julie-boulianne.md","scene/people/gordon-bintner.md","scene/people/jeanphilippe-fortierlazure.md","scene/people/joel-ivany.md"]
 short_description = "My January concert-going schedule is filling up nicely. I offer up a quick list of stuff I’m seeing this month in Toronto, in the hopes that I’ll see you guys there."
 slug = "stuff-to-see-in-january"
 title = "Stuff to see in January"

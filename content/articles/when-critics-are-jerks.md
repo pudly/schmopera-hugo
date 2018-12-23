@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Op-ed"
-companies = ["Glyndebourne"]
 date = "2014-05-22T06:00:00-04:00"
 lastmod = "2015-04-23T19:44:00-04:00"
-people = ["Tara Erraught"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429832580907/Erraught.jpg.jpg"
 primary_image_credit = "Mezzo-soprano Tara Erraught"
 publishDate = "2014-05-22T06:00:00-04:00"
+related_articles = ["articles/true-stories-the-critic-who-loves-opera-even-more-now.md","articles/in-review-lucia-di-lammermoor-at-roh.md","articles/gimmicks-tactics-discouraging-the-new-.md","articles/sfo-tickets-for-tweets.md","articles/opera-meanies-the-august-edition.md"]
+related_companies = ["scene/companies/glyndebourne.md"]
+related_people = ["scene/people/tara-erraught.md"]
 short_description = "Der Rosenkavalier opened at Glyndebourne on May 17th, and the opening night reviews ticked off some opera fans. Ordinarily, one would be happy that a bunch of critics can&#039;t stop talking about Irish mezzo Tara Erraught&#039;s performance of Octavian."
 slug = "when-critics-are-jerks"
 title = "When critics are jerks"

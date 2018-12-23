@@ -1,10 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2017-10-16T13:46:00-04:00"
 lastmod = "2017-10-30T20:01:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508453904034/2017-10-19---Jane-Eaglen.jpg.jpg"
 publishDate = "2017-10-30T20:01:00-04:00"
+related_articles = ["articles/the-voice-teacher-series-elizabeth-mcdonald.md","articles/the-voice-teacher-series-betsy-bishop.md"]
 short_description = "Eaglen has noticed that in some circles, opinions on breath support are so varied that the conversation can even make it a &quot;dirty word&quot; of sorts. Still, &quot;I don&#039;t see how you can talk about singing and not talk about support,&quot; she says."
 slug = "the-voice-teacher-series-jane-eaglen"
 title = "The voice teacher series: Jane Eaglen"

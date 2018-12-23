@@ -1,13 +1,13 @@
 +++
-author = "Melissa Ratcliff"
+author = ["authors/melissa-ratcliff.md"]
 categories = "Review"
-companies = ["Pacific Opera Victoria"]
 date = "2018-10-15T10:59:00-04:00"
 lastmod = "2018-10-15T20:52:00-04:00"
-people = ["Aviva Fortunata","Peter McGillivray","Owen McCausland","Miriam Khalil","Brent Reilly Turner"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539636257180/sqFidelio_0643.jpg.jpg"
 primary_image_credit = "Brent Turner (Florestan) and Aviva Fortunata (Leonore/Fidelio) in Pacific Opera Victoria's production of Fidelio, 2018. Photo: Emily Cooper."
 publishDate = "2018-10-15T20:52:00-04:00"
+related_companies = ["scene/companies/pacific-opera-victoria.md"]
+related_people = ["scene/people/aviva-fortunata.md","scene/people/peter-mcgillivray.md","scene/people/owen-mccausland.md","scene/people/miriam-khalil.md","scene/people/brent-reilly-turner.md"]
 short_description = "In fact, this whole production makes reference to human rights abuses across the world; projected background images include those of Colombian mothers protesting the army-sponsored murder of their sons, to Goya&#039;s painting &quot;The Third of May&quot;, a depiction of the execution of unarmed soldiers. This production misses no opportunity to shine a light on the corruption of power, and the resultant loss of human rights."
 slug = "fidelio-as-a-mirror-of-human-rights"
 title = "Fidelio as a mirror of human rights"

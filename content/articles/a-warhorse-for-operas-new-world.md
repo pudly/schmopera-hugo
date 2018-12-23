@@ -1,11 +1,12 @@
 +++
-author = "John Hohmann"
+author = ["authors/john-hohmann.md"]
 categories = "Review"
 date = "2018-02-09T16:28:00-05:00"
 lastmod = "2018-02-09T17:14:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518211122575/sq---Set_Poe_YoungR%26AdultM.jpg.jpg"
 primary_image_credit = "Photo: © Matthew Septimus, Courtesy of The New School"
 publishDate = "2018-02-09T17:14:00-05:00"
+related_articles = ["articles/transparent-glass-the-composer-turns-80.md"]
 short_description = "Mr. Hourie directed with a terse and foreboding air that dispelled any memories of the films. The sleek and minimal set, comprised of skeletal architectural elements and lace curtains facilitated the action. As scenographer Hourie filled picture frames suggesting decaying ancestral portraits with video of flames, ghosts and all manner of frightening imagery."
 slug = "a-warhorse-for-operas-new-world"
 title = "A Warhorse For Opera&#039;s New World?"

@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Against the Grain Theatre","The Banff Centre","Canadian Opera Company"]
 date = "2014-05-13T10:35:00-04:00"
 lastmod = "2015-04-23T20:15:00-04:00"
-people = ["Joel Ivany","Christopher Mokrzewski"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429834432931/Banff1.jpg.jpg"
 publishDate = "2014-05-13T10:35:00-04:00"
+related_articles = ["articles/schmoperas-british-invasion.md"]
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md","scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/joel-ivany.md","scene/people/christopher-mokrzewski.md"]
 short_description = "Exciting news! In July, I&#039;ll be heading to work at Open Space, the exciting new program partnering Against the Grain Theatre with The Banff Centre and the Canadian Opera Company. There, we&#039;ll explore Uncle John, the brand new adaptation of Mozart&#039;s _Don Giovanni _with a libretto by AtG Theatre&#039;s Artistic Director, Joel Ivany."
 slug = "schmopera-goes-west"
 title = "Schmopera goes west"

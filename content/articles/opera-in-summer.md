@@ -1,11 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Op-ed"
-companies = ["Halifax Summer Opera Festival","Opera on the Avalon","Opera NUOVA","Highlands Opera Studio","COSI: Centre for Opera Studies in Italy"]
 date = "2014-08-06T12:32:00-04:00"
 lastmod = "2015-04-16T23:04:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429239835168/SummerOpera.jpg.jpg"
 publishDate = "2014-08-06T12:32:00-04:00"
+related_articles = ["articles/how-to-make-the-most-of-your-summer-program.md","articles/back-to-school-opera-a-practical-glossary.md","articles/paid-summer-programs-is-it-time-for-a-revolution.md"]
+related_companies = ["scene/companies/halifax-summer-opera-festival.md","scene/companies/opera-on-the-avalon.md","scene/companies/opera-nuova.md","scene/companies/highlands-opera-studio.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
 short_description = "We&#039;re nearing the end of Summer Program Season, people. As a veteran of SPs myself, I always wonder about the young folks that went to OperaNUOVA or COSI or COAA/AEDO or the Halifax Summer Opera Festival or St. Andrews-by-the-Sea or any of those Canadian summer staples. "
 slug = "opera-in-summer"
 title = "Opera in Summer"

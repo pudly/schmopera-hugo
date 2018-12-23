@@ -1,10 +1,11 @@
 +++
-author = "Greg Finney"
+author = ["authors/greg.md"]
 categories = "Op-ed"
 date = "2016-11-29T09:34:00+00:00"
 lastmod = "2016-11-30T11:11:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480429729724/2016-11-28---Football.jpg.jpg"
 publishDate = "2016-11-30T11:03:00+00:00"
+related_articles = ["articles/united-we-stand-divided-we-fall.md"]
 short_description = "“I don’t think we can see ourselves performing with Remigio again,” fellow Tenor Fraser Walters said in July of this year. Rightly so. The backlash received by the quartet immediately after Pereira&#039;s &quot;going rogue&quot; prompted the decision back in the summer, and no amount of back-pedalling by Pereira was able to save his spot in the roster - imagine. Not even this non-apology released on Soundcloud was enough to save him."
 slug = "tenors-redemption-at-an-historic-grey-cup-in-toronto"
 title = "Tenors&#039; redemption at an historic Grey Cup in Toronto"

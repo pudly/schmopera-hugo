@@ -1,13 +1,14 @@
 +++
-author = "Michael Pecak"
+author = ["authors/michael-pecak.md"]
 categories = "Review"
-companies = ["Lyric Opera of Chicago"]
 date = "2018-11-19T13:36:00-05:00"
 lastmod = "2018-11-30T13:08:00-05:00"
-people = ["Tamara Wilson","Russell Thomas","Jamie Barton","Artur Ruciński"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542652498125/sqTamaraWilson_ILTROVATORE_LyricOperaofChicago_CamA-12.jpg.jpg"
 primary_image_credit = "Tamara Wilson as Leonora in Lyric Opera of Chicago's production of Il trovatore, 2018. Photo: Lyric Opera of Chicago."
 publishDate = "2018-11-20T21:40:00-05:00"
+related_articles = ["articles/talking-with-singers-artur-ruciski.md"]
+related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
+related_people = ["scene/people/tamara-wilson.md","scene/people/russell-thomas.md","scene/people/jamie-barton.md","scene/people/scene/artur-rucinski.md"]
 short_description = "The performance was something truly special and memorable. Last night, I understood what it must have been like to have heard the likes of Pavarotti, Milnes, Horne, and Sutherland. Just as those artists had defined the canonic Verdi roles for their generation, the cast of this Trovatore at LOC is poised to set a new standard for this repertoire."
 slug = "historymaking-cast-in-chicagos-il-trovatore"
 title = "History-making cast in Chicago&#039;s Il trovatore"

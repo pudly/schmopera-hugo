@@ -1,11 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 date = "2014-12-17T14:00:00+00:00"
 lastmod = "2016-11-28T10:11:00+00:00"
-people = ["Miriam Khalil","Sharleen Joynt","Patrick DuWors"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428961106430/uncle_john_by_brent_calis.jpg.jpg"
 primary_image_credit = "Cameron McPhail in #UncleJohn. Photo by Brent Calis"
 publishDate = "2014-12-17T14:00:00+00:00"
+related_articles = ["articles/unclejohn-takes-ottawa.md"]
+related_people = ["scene/people/miriam-khalil.md","scene/people/sharleen-joynt.md","scene/people/patrick-duwors.md"]
 short_description = "I went to see opening night of Against the Grain Theatre&#039;s production of #UncleJohn, the re-imagination of Mozart&#039;s Don Giovanni by Joel Ivany. It was fantastic, but I&#039;m hardly the unbiased media figure I should be in order to offer up a true review."
 slug = "unclejohn-the-toronto-story"
 title = "#UncleJohn: the Toronto story"

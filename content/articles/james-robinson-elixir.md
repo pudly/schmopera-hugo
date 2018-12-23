@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Canadian Opera Company","Opera Theatre of St. Louis"]
 date = "2017-10-02T20:33:00-04:00"
 lastmod = "2017-10-03T20:56:00-04:00"
-people = ["Simone Osborne","Gordon Bintner","Andrew Haji","James Robinson"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506991083968/2017-10-02---Robinson%2C-James.jpg.jpg"
 publishDate = "2017-10-03T20:43:00-04:00"
+related_articles = ["articles/simone-osborne.md","articles/talking-with-singers-andrew-haji.md","articles/tim-albery-flawed-operas-falling-empires.md","articles/he-saidshe-said-a-sweet-elixir-at-the-coc.md","articles/lighter-fare-vancouver-operas-the-elixir-of-love.md"]
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/opera-theatre-of-st-louis.md"]
+related_people = ["scene/people/simone-osborne.md","scene/people/gordon-bintner.md","scene/people/andrew-haji.md","scene/people/james-robinson.md"]
 short_description = "&quot;I&#039;m always the first person to say, &#039;Ok, I had a bad idea, let&#039;s try something else&#039;,&quot; he says, smiling. &quot;When singers feel that they are part of the discovery process, making choices on their own, they memorize it faster, they&#039;re more reliable, they&#039;re more comfortable, and they sing better.&quot;"
 slug = "james-robinson-elixir"
 title = "James Robinson&#039;s Elixir of Love: &quot;I think it&#039;s one of the best comedies.&quot;"

@@ -1,11 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["The Metropolitan Opera"]
 date = "2018-03-13T09:49:00-04:00"
 lastmod = "2018-03-13T09:58:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520949505485/LincolnCenter.jpg.jpg"
 publishDate = "2018-03-13T09:58:00-04:00"
+related_articles = ["articles/some-uncomfortable-questions-about-the-levine-business.md","articles/when-opera-companies-protect-abusers.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md"]
 short_description = "Now, as I read the conclusion of the Met&#039;s gross display of Righteous Response™ - their investigation, launched with seriousness only after this group of victims came forward with corroborating, damning accounts of abuse by Levine - I say, let it fall."
 slug = "levines-ugly-exit-the-disposable-met"
 title = "Levine&#039;s ugly exit, &amp; the disposable Met"

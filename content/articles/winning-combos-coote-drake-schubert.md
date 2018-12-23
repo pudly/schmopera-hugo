@@ -1,11 +1,12 @@
 +++
-author = "Vivian Darkbloom"
+author = ["authors/vivian-darkbloom.md"]
 categories = "Review"
 date = "2017-12-11T21:01:00-05:00"
 lastmod = "2017-12-11T22:15:00-05:00"
-people = ["Alice Coote","Julius Drake"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513048510513/Coote-Drake.jpg.jpg"
 publishDate = "2017-12-11T21:01:00-05:00"
+related_articles = ["articles/fierce-recitals-karita-mattila-at-wigmore-hall.md","articles/recitals-that-stick-matthias-goerne-at-wigmore-hall.md","articles/a-generous-winterreise-at-wigmore-hall.md"]
+related_people = ["scene/people/alice-coote.md","scene/people/julius-drake.md"]
 short_description = "They finished the first half with a stirring rendition of Erlkönig, a song which Coote navigated with a wonderful array of vocal colours and a beautiful sense of drama. Drake created a gorgeous picture of the dramatic song through the energy of his playing, the pair bringing to life the scene in an intense and visceral way. "
 slug = "winning-combos-coote-drake-schubert"
 title = "Winning combos: Coote, Drake, &amp; Schubert"

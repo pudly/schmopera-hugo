@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Canadian Art Song Project"]
 date = "2018-02-10T22:17:00-05:00"
 lastmod = "2018-02-12T08:50:00-05:00"
-people = ["Lawrence Wiliford","Steven Philcox"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518318383389/lawrence-cover.jpg.jpg"
 publishDate = "2018-02-11T20:33:00-05:00"
+related_articles = ["articles/album-review-all-who-wander.md"]
+related_companies = ["scene/companies/canadian-art-song-project.md"]
+related_people = ["scene/people/lawrence-wiliford.md","scene/people/steven-philcox.md"]
 short_description = "The songs by Edmund Rubbra (1901-1986) are the real find in this album. His songs have a unique sound, a style that&#039;s difficult to place, but eventually emerges as English - yet with an edge. "
 slug = "album-review-o-gladsome-light"
 title = "Album review: O Gladsome Light"

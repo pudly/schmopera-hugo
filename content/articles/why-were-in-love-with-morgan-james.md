@@ -1,11 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2016-08-04T20:21:00+01:00"
 lastmod = "2016-08-05T09:13:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470337843143/2016-08-04---Morgan-James---Joana-Cardozo.jpg.jpg"
 primary_image_credit = "Photo by Joana Cardozo."
 publishDate = "2016-08-05T08:58:00+01:00"
+related_articles = ["articles/5-popish-songs-their-operatic-equivalents.md","articles/10-pop-singers-with-pipes.md"]
 short_description = "Want to hear something nuts? Check out the video above, where she covers Aqua&#039;s &quot;Barbie Girl&quot; (remember Aqua??) with Scott Bradlee&#039;s Postmodern Jukebox. For the truly impatient, skip to the &quot;human theramin&quot; bit at 2:07. Like, come on."
 slug = "why-were-in-love-with-morgan-james"
 title = "Why we&#039;re in love with Morgan James"

@@ -1,11 +1,12 @@
 +++
-author = "Greg Finney"
+author = ["authors/greg.md"]
 categories = "Op-ed"
-companies = ["Opera Lyra Ottawa"]
 date = "2014-08-25T13:16:00-04:00"
 lastmod = "2015-04-16T17:21:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429219210836/whitehead-1.png"
 publishDate = "2014-08-25T13:16:00-04:00"
+related_articles = ["articles/dont-miss-boys-of-paradise.md"]
+related_companies = ["scene/companies/opera-lyra-ottawa.md"]
 short_description = "So as it turns out, Tamar Iveri isn&#039;t the only one with controversial opinions on alternative lifestyles.\nOnly about 2 months ago the Georgian soprano was released from contracts in Australia due to an ultra-homophobic and hate-mongering post on her Facebook."
 slug = "valerian-ruminski-or-those-who-forget-the-past-are-doomed-to-repeat-it"
 title = "Valerian Ruminski, or &quot;Those who forget the past are doomed to repeat it&quot;"

@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Canadian Opera Company"]
 date = "2015-05-19T16:11:00-04:00"
 lastmod = "2015-05-20T10:08:00-04:00"
-people = ["Ekaterina Gubanova"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432066115615/IMG_20150519_125155.jpg.jpg"
 publishDate = "2015-05-20T10:08:00-04:00"
+related_articles = ["articles/hat-trick-in-the-amphitheatre.md"]
+related_companies = ["scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/ekaterina-gubanova.md"]
 short_description = "Since Ekaterina was completely stunning in Bluebeard, I was eager to hear her up close, in the well-lit Amphitheatre. The women treated us to two sets of Russian songs; Three Songs by Tchaikovsky preceded Modest Mussorgsky&#039;s amazing Songs and Dances of Death."
 slug = "in-review-ekaterina-gubanova-rachel-andrist-in-recital"
 title = "In review: Ekaterina Gubanova &amp; Rachel Andrist in recital"

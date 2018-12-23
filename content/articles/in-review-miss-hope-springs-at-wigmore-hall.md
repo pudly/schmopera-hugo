@@ -1,10 +1,11 @@
 +++
-author = "John Beckett"
+author = ["authors/john-beckett.md"]
 categories = "Review"
 date = "2017-06-17T13:40:00-06:00"
 lastmod = "2017-06-17T14:08:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497729101429/2017-06-17---Miss-Hope-Springs.jpg.jpg"
 publishDate = "2017-06-17T14:02:00-06:00"
+related_articles = ["articles/fierce-recitals-karita-mattila-at-wigmore-hall.md","articles/in-review-jamie-barton-leaves-you-wanting-more.md","articles/in-review-laura-mvula-with-the-lso.md"]
 short_description = "It&#039;s difficult to come up with any artists who have recently graced Wigmore Hall who have that same power - whose mere entrance can rile up a crowd, who doesn&#039;t even have to play a note to have us on the edge of our seats. This is the kind of magical ability that classical performers should be trying to discover. "
 slug = "in-review-miss-hope-springs-at-wigmore-hall"
 title = "In review: Miss Hope Springs at Wigmore Hall"

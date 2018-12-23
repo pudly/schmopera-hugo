@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Canadian Opera Company","Canadian Opera Company Ensemble Studio"]
 date = "2017-09-28T19:32:00-04:00"
 lastmod = "2017-10-01T09:04:00-04:00"
-people = ["Samuel Chan","Samantha Pickett","Megan Quick","Rachael Kerr","Stéphane Mayer","Simone McIntosh"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506642181064/2017-09-28---KLP170927-_DSF7461.jpg.jpg"
 primary_image_credit = "Artists of the COC Ensemble Studio perform in the Canadian Opera Company’s Free Concert Series in the Richard Bradshaw Amphitheatre (Celebrating the Invictus Games, September 27, 2017), photo: Kevin Lloyd."
 publishDate = "2017-09-29T12:26:00-04:00"
+related_articles = ["articles/in-review-a-shropshire-lad.md","articles/in-review-death-desire.md"]
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
+related_people = ["scene/people/samuel-chan.md","scene/people/samantha-pickett.md","scene/people/megan-quick.md","scene/people/rachael-kerr.md","scene/people/scene/stephane-mayer.md","scene/people/simone-mcintosh.md"]
 short_description = "When packed together into a single recital, it&#039;s always interesting to hear how different composers write the sounds of war. Kurt Weill writes the literal sounds of drums in his &quot;Beat! Beat! Drums!&quot;, and Charles Ives capitalizes on the sounds of grossly happy Americana (propaganda, really) in &quot;He is there!&quot; Dominic Argento&#039;s &quot;War (June, 1940)&quot; gives a disorienting, broken image of combat that sounds in stark contrast to the more familiar sounds of war-themed songs, the nostalgia and longing of Gerald Finzi and George Butterworth."
 slug = "the-invictus-games-come-to-the-rba"
 title = "The Invictus Games come to the RBA"

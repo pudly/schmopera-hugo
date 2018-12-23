@@ -1,13 +1,14 @@
 +++
-author = "Alessia Naccarato"
+author = ["authors/alessia-naccarato.md"]
 categories = "Review"
-companies = ["Royal Opera House"]
 date = "2018-12-02T12:33:00-05:00"
 lastmod = "2018-12-02T12:46:00-05:00"
-people = ["Brian Jagde","Gaëlle Arquez"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543771863736/sq0006Gaa%CC%82lleArquezasCarmenROH.jpg.jpg"
 primary_image_credit = "Gaëlle Arquez in the title role of Carmen, Royal Opera House, 2018. Photo: Bill Cooper."
 publishDate = "2018-12-02T12:46:00-05:00"
+related_articles = ["articles/androgyny-is-sexy-carmen-at-roh.md","articles/in-review-carmen-at-nashville-opera.md"]
+related_companies = ["scene/companies/royal-opera-house.md"]
+related_people = ["scene/people/brian-jagde.md","scene/people/scene/gaelle-arquez.md"]
 short_description = "We open to a massive set of stairs as wide as the stage. Perched atop is a lone figure in garishly flamboyant toreador garb. This is our narrator and we understand her to be Carmen, or at least, a version of her. She is an omniscient and timeless figure, as if speaking to us from beyond the grave to tell her story."
 slug = "an-absolute-triumph-koskys-carmen"
 title = "An absolute triumph: Kosky&#039;s Carmen"
