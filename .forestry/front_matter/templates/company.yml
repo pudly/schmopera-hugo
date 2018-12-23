@@ -30,22 +30,6 @@ fields:
 - type: text
   name: contact_email
   label: Contact Email
-- type: text
-  label: Twitter
-  name: twitter
-  description: Must be complete URL
-- type: text
-  name: facebook
-  label: Facebook
-  description: Must be complete URL
-- type: text
-  label: Instagram
-  name: instagram
-  description: Must be complete URL
-- type: text
-  name: youtube
-  label: Youtube
-  description: Must be complete URL
 - type: blocks
   template_types:
   - social-media
