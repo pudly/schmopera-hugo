@@ -14,11 +14,27 @@ youtube = ""
 [[social_media]]
 platform = "Facebook"
 template = "social-media"
-url = "http://facebook.com"
+url = "http://facebook.com/fakecompany"
 [[social_media]]
 platform = " Twitter"
 template = "social-media"
-url = "twitter.com/something"
+url = "https://twitter.com/fakecompany"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://instagram.com/fakecompany"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://youtube.com/fakecompany"
+[[social_media]]
+platform = "Linkedin"
+template = "social-media"
+url = "https://linkedin.com/fakecompany"
+[[social_media]]
+platform = "Soundcloud"
+template = "social-media"
+url = "http://soundcloud.com/fakecompany"
 
 +++
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in congue erat. Quisque eget varius justo. Curabitur a feugiat nulla, sed pulvinar arcu. Aenean nisi dolor, tempor tempor justo eget, interdum placerat mauris. Aliquam at erat eget diam cursus efficitur. Curabitur malesuada tempor ex, eu consequat quam. Nunc tellus ante, varius nec rhoncus quis, facilisis porta felis. Suspendisse sed tempor sapien, et tempor dolor. Sed eget pulvinar arcu. Nulla facilisi. Sed varius nibh est, non gravida enim sagittis nec. Donec vulputate orci vel elit commodo, vitae efficitur odio viverra. Fusce consectetur rhoncus justo, commodo feugiat tortor sollicitudin vitae.
