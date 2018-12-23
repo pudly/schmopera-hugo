@@ -10,7 +10,7 @@
           <section class="footer--posts">
             <h3>Recent Posts</h3>
             <ul class="post--list __micro">
-            {{ range first 5 (where .Data.Pages "Type" "articles") }}
+            {{ range first 6 (where .Data.Pages "Type" "articles") }}
               <li>
                   <a href="{{.Permalink}}" class="post--list-title">
                     <em class="post--list-meta-date">{{.Date.Format "01.02.06"}}</em>
