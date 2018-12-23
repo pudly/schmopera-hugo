@@ -1,0 +1,34 @@
+---
+label: Person
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  name: slug
+  label: Slug
+  description: Friendly URL for Person (person-name)
+  config:
+    required: true
+- type: file
+  name: primary_image
+  label: Primary Image
+- type: text
+  name: primary_image_credit
+  label: Primary Image Credit
+- type: text
+  name: discipline
+  label: Discipline
+- type: text
+  label: Website
+  name: website
+  description: Must be complete URL
+- type: blocks
+  name: social_media
+  label: Social Media
+  template_types:
+  - social-media
