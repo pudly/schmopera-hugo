@@ -90,3 +90,5 @@ fields:
   name: youtube_url
   label: Youtube URL
   description: If this is a Video Post, paste full Youtube URL with HTTPS
+pages:
+- content/articles/here-s-a-new-article.md
