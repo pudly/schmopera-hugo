@@ -1,7 +1,11 @@
 +++
+author = "Melissa Ratcliff"
 categories = "Review"
+companies = ["Pacific Opera Victoria"]
 date = "2018-04-22T17:19:00-04:00"
 lastmod = "2018-04-22T17:19:00-04:00"
+people = ["David Trudgen","Christopher Dunham","Jennifer Taverner","Stéphanie Lessard"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524431799435/sqRinaldo_0864.jpg"
 publishDate = "2018-04-22T17:19:00-04:00"
 short_description = "As they fall asleep, the magical characters of Rinaldo are transported into their living room to enact the story to the children&#039;s delight. It&#039;s one part steampunk, one part fantasy movie, one part 50s B-movie, and 100% delightful."
 slug = "pacific-opera-victorias-steampunkmeetsfantasy-rinaldo"

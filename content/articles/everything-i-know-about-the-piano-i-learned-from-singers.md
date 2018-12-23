@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
 date = "2014-07-22T08:00:00-04:00"
 lastmod = "2015-04-23T14:33:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429813932876/ELton.jpg"
 publishDate = "2014-07-22T08:00:00-04:00"
 short_description = "Well, maybe not everything, but my title isn&#039;t tongue-in-cheek. I&#039;m aware of the stereotypical opinions about singers that are held by instrumentalists within the classical music scenes; I won&#039;t say they&#039;re not there for a reason, but there&#039;s opportunity for learning between these seemingly polar points of origin in music. Now, singers and pianists work closely together within the opera industry; but when you really think about it, it&#039;s an odd pairing."
 slug = "everything-i-know-about-the-piano-i-learned-from-singers"

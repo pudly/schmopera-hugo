@@ -1,7 +1,11 @@
 +++
+author = "Carly Gordon"
 categories = "Review"
+companies = ["Palm Beach Opera"]
 date = "2018-02-25T18:51:00-05:00"
 lastmod = "2018-02-25T19:19:00-05:00"
+people = ["Tobias Greenhalgh","Kasia Borowiec","Miles Mykkanen","Alisa Jordheim"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519602620388/Miles-%26-Alissa.jpg"
 publishDate = "2018-02-25T19:19:00-05:00"
 short_description = "&quot;How can such ghastly horrors befall a world where all is for the best?&quot; Candide asks. We may not live in the best of all possible worlds, but when the music fades and the curtain falls, it&#039;s our job to try and make the world a little better."
 slug = "too-many-jewels-the-search-for-meaning-pbos-candide"

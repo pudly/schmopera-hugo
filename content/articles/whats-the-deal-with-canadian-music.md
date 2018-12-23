@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Toronto Masque Theatre","Canadian Art Song Project","Esprit Orchestra"]
 date = "2017-09-26T17:36:00-04:00"
 lastmod = "2017-09-28T21:49:00-04:00"
+people = ["Lawrence Wiliford","Alexina Louie"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506611300063/2017-09-29---Canadian.jpg"
 publishDate = "2017-09-28T21:49:00-04:00"
 short_description = "Wiliford joked that it &quot;took an American&quot; to found the Canadian Art Song Project, which focuses on getting new Canadian song repertoire written, performed, and recorded. Coming from the more fostering environment in the United States, Wiliford was surprised that Canadian performers weren&#039;t as quick to step into the role of champion for their own new music. Similarly, Alex Pauk admits that founding the Esprit Orchestra came out of his and other composers&#039; frustration with the dearth of groups willing to program Canadian material."
 slug = "whats-the-deal-with-canadian-music"

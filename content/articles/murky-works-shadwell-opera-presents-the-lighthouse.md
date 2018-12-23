@@ -1,7 +1,11 @@
 +++
+author = "Vivian Darkbloom"
 categories = "Review"
+companies = ["Shadwell Opera"]
 date = "2017-11-14T17:20:00-05:00"
 lastmod = "2017-11-14T21:09:00-05:00"
+people = ["Paul Curievici","Owain Browne","Pauls Putnins"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510698213319/2017-11-13---Paul-Curievici%2C-Pauls-Putnins%2C-Owain-Browne%2C-The-Lighthouse%2C-Shadwell-Opera%2C-directed-by-Jack-Furness%2C-Photo-Nick-Rutter-2017.jpg"
 publishDate = "2017-11-14T21:09:00-05:00"
 short_description = "The confusion in the space translated into some confusion about the plot. Unfortunately, it wasn’t very clear that the trio of sailors from the opening were sitting before a board of inquiry, which also made the ending quite difficult to follow when it came. The first part of the opera was murky and perhaps could have been more interesting in its staging."
 slug = "murky-works-shadwell-opera-presents-the-lighthouse"

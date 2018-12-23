@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Canadian Opera Company Ensemble Studio","Canadian Opera Company","Cardiff Singer of the World Competition"]
 date = "2015-04-10T23:28:00-04:00"
 lastmod = "2015-04-13T21:46:00-04:00"
+people = ["Aviva Fortunata"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428722809217/AvivaFortunata.jpg"
 publishDate = "2015-03-02T09:28:00-05:00"
 short_description = "The BBC Cardiff Singer of the World Competition has announced its 20 finalists from around the world; Calgary-born soprano Aviva Fortunata is one of them. She’s a member of the COC Ensemble Studio, and just finished singing the role of Helmwige in Atom Egoyan’s Die Walküre. Aviva is the sole Canadian among the finalists, and in June she’ll head to Cardiff, Wales, to compete in the final competition round, which will be broadcast live online."
 slug = "aviva-fortunata-finalist-2015-cardiff-singer-of-the-world-competition"

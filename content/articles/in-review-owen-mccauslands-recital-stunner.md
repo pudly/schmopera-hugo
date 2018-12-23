@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Canadian Opera Company Ensemble Studio","Canadian Opera Company"]
 date = "2015-05-20T15:36:00-04:00"
 lastmod = "2015-05-21T09:11:00-04:00"
+people = ["Owen McCausland","Charlotte Burrage"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432150505625/IMG_20150520_114809.jpg"
 publishDate = "2015-05-21T08:30:00-04:00"
 short_description = "At yesterday&#039;s noon-hour concert in the Richard Bradshaw Amphitheatre, COC Ensemble Studio member Owen McCausland had the stage (mostly) to himself. Owen sang a full recital, including 6 of the Janáček songs, plus selections from Ralph Vaughan Williams&#039; The House of Life and Benjamin Britten&#039;s Les illuminations."
 slug = "in-review-owen-mccauslands-recital-stunner"

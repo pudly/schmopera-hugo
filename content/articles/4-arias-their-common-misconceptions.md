@@ -1,8 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "How-to"
 date = "2017-03-27T11:55:00-04:00"
 lastmod = "2018-06-23T16:33:00-04:00"
 preamble = "One of the best part about opera is that it can be a lifelong practice of discovery. Even some of opera's best-loved arias come with hidden layers of meaning, that sometimes take a while to recognise. We've compiled a few of our favourite arias, and why they're commonly misunderstood."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490713132594/2017-03-28---Misunderstood.jpg"
 publishDate = "2017-03-28T11:23:00-04:00"
 short_description = "Daughters have been making pouting faces and puppy eyes at their fathers to get what they want for centuries, and Puccini encapsulates the strategy perfectly. &quot;Babbino&quot; is like saying &quot;Daddy&quot;, or even &quot;Daddykins&quot;, and to sing it on top of the lush tune is the equivalent of crocodile tears. &quot;I&#039;ll throw myself off a bridge&quot;, Lauretta paraphrases (twice), if she doesn&#039;t get her way. Ugh."
 slug = "4-arias-their-common-misconceptions"

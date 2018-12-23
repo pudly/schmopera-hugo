@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
 date = "2016-04-19T10:01:00+01:00"
 lastmod = "2016-04-19T12:03:00+01:00"
+people = ["Karita Mattila"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461058929231/2016-04-19---Karita-Mattila-Jiri-Belohlavek_Czech-Philharmonic_Jenufa.jpg"
 publishDate = "2016-04-19T11:10:00+01:00"
 short_description = "As Jenůfa&#039;s mother, Kostelnička, Karita Mattila was a total force. She tore into the role&#039;s enormous range and horrific moments of drama with her notoriously brazen energy. She sang wildly at moments, yet it was funneled through a perfect character, one who constantly veers outside the comfortable and controlled."
 slug = "in-review-jenufa-czech-philharmonic"

@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Opera da Camera"]
 date = "2015-04-11T19:37:00-04:00"
 lastmod = "2015-04-11T19:57:00-04:00"
+people = ["Meagan Zantingh","Valérie Bélanger","Kathrin Welte"]
 preamble = "<p>\n\t<a href=\"http://www.operadacamera.ca/\" target=\"_blank\">Opera da Camera</a> is hard at work, getting ready for their upcoming production of Handel's <a href=\"http://www.operadacamera.ca/2014-15\" target=\"_blank\">Xerxes</a>, running February 19, 21, 28 and March 1st. What's with the Elvis get-up, you ask? I asked Co-Artistic Directors Meagan Zantingh and Kathrin Welte about all that gender fluidity in Handel's operas, and how Opera da Camera is answering the big question of audience accessibility. #viveleroi indeed!\n</p>"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428795263966/Serse-Poster-Web.jpg"
 publishDate = "2015-02-12T09:09:00-05:00"
 short_description = "Opera da Camera is hard at work, getting ready for their upcoming production of Handel’s Xerxes, running February 19, 21, 28 and March 1st. What’s with the Elvis get-up, you ask? I asked co-Artistic Directors Meagan Zantingh and Kathrin Welte about all that gender fluidity in Handel’s operas, and how Opera da Camera is answering the big question of audience accessibility. #viveleroi indeed!"
 slug = "opera-da-camera-xerxes-is-the-new-elvis"

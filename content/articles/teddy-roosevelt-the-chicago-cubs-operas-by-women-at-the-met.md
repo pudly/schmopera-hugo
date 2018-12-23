@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Humour"
+companies = ["The Metropolitan Opera"]
 date = "2016-11-25T22:10:00+00:00"
 lastmod = "2016-11-26T14:35:00+00:00"
+people = ["Eric Owens","Susanna Phillips","Tamara Mumford"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480113577369/2016-11-25---Met-Chandelier.jpg"
 publishDate = "2016-11-26T12:16:00+00:00"
 short_description = "On the one hand, this is great news. There are indeed operas - and good ones - written by women, and Saariaho&#039;s mesmerizing tale of 12th-century troubadour Jaufré Rudel is one of them. On the other hand, it&#039;s fairly stunning that after Der Wald, there was a 113-year wait for the Met (the Met, for goodness&#039; sake!) to stage a second opera by a woman composer."
 slug = "teddy-roosevelt-the-chicago-cubs-operas-by-women-at-the-met"

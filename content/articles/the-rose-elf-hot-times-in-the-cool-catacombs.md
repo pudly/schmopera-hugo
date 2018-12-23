@@ -1,7 +1,10 @@
 +++
+author = "John Hohmann"
 categories = "Review"
 date = "2018-06-21T18:41:00-04:00"
 lastmod = "2018-06-21T18:41:00-04:00"
+people = ["R.B. Schlather","Samantha Hankey"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529620312128/sqTRE5.jpg"
 publishDate = "2018-06-21T18:41:00-04:00"
 short_description = "Early in the opera the lovers share a moment in which they assume the role of rose petals and enfold the elf, quite literally, within themselves. It was a wildly passionate action, which, like the presence of a life-size elf, distorts our sense of reality, even within the confines of this dark fairy tale."
 slug = "the-rose-elf-hot-times-in-the-cool-catacombs"

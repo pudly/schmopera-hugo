@@ -1,8 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Tête à Tête"]
 date = "2016-06-28T18:17:00-06:00"
 lastmod = "2016-07-06T16:09:00-06:00"
 preamble = "On July 6th, 7:30pm at St. James', 197 Picadilly, Tête à Tête presents the world premiere of Toni Castells' *2045: The Year Man Becomes Immortal?* The piece explores immortality and human scientific advancements, and Castells gave us a fascinating interview about what it means to tell stories of our future through opera, an art form full of history.\n\n\"*2045* has served its purpose in the sense that it has overcome my own fear of death, it has shifted it completely actually, and has made me understand why I'm here.\""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467241974402/2016-06-29---Toni-Castells-1.jpg"
 publishDate = "2016-07-05T19:43:00-06:00"
 short_description = "&quot;Science and technology have always fascinated me but at times I&#039;ve wondered if they are slowly distancing us from our true nature and true purpose. My work is a diary of my existence, about what issues interest or trouble me at a particular stage of life, so I use my music as a cathartic experience to deal with these issues and try and understand them.&quot;"
 slug = "toni-castells-new-operas-new-science"

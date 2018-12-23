@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Grange Park Opera"]
 date = "2016-05-24T20:15:00+01:00"
 lastmod = "2016-05-28T10:50:00+01:00"
+people = ["Bryan Register"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464117956977/2016-05-24---Bryan-Register-1-credit-Dario-Acosta.gif"
 publishDate = "2016-05-28T10:42:00+01:00"
 short_description = "&quot;Physically, it feels like I&#039;m doing my yoga practice in public, in front of an audience,&quot; Register laughs. Singers and yogis alike know how tricky it can be to find a comfortable balance of effort and ease. &quot;I would equate a long, difficult phrase, to holding a difficult pose in yoga. You just have to breathe into it, accept it, you&#039;re not going to die.&quot;"
 slug = "talking-with-singers-bryan-register"

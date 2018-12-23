@@ -1,11 +1,11 @@
 +++
 date = "2018-11-14T16:06:00-05:00"
 lastmod = "2018-11-14T18:18:00-05:00"
-name = "Kimberly Barber"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542229534786/wblouse2.jpg"
 publishDate = "2018-11-14T16:06:00-05:00"
 short_bio = "Canadian mezzo-soprano Kimberly Barber recently celebrated 30 years of continued activity on international operatic and concert stages (Paris, Chicago, New York City, London, Rome, Tokyo, Frankfurt, Montreal, Seattle and Toronto are among her stomping grounds) in a diverse and eclectic repertoire. Her return to Toronto&#039;s Tapestry Opera in May 2017, creating the role of the fortune-teller Asa in the world premiere of *Oksana G.*, garnered rave reviews and a Dora Award nomination for Best Ensemble. Her newly commissioned work, *This Land* (Abigail Richardson-Schulte), saw her join forces with TorQ Percussion Quartet, storyteller Rene Meshake and harpist Angela Schwarzkopf in a world premiere with *Numus* in Waterloo, Ontario (May 2017)."
 slug = "kimberly-barber"
+title = "Kimberly Barber"
 twitter = "https://twitter.com/thislandcanada"
 website = "https://www.kimberlybarber.com/"
 +++

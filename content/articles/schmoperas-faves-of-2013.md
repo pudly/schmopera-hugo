@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["Against the Grain Theatre","The Metropolitan Opera"]
 date = "2013-12-31T20:19:00-05:00"
 lastmod = "2015-04-28T23:21:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430277472480/Top10.png"
 publishDate = "2013-12-31T20:19:00-05:00"
 short_description = "Selfishly, I chose to wrap up the year with a list of my favourite tidbits of operatic delight. Included are my favourite renditions of great moments in opera."
 slug = "schmoperas-faves-of-2013"

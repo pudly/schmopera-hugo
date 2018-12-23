@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Humour"
+companies = ["Toronto Operetta Theatre"]
 date = "2015-04-23T21:08:00-04:00"
 lastmod = "2015-04-23T21:08:00-04:00"
+people = ["Christopher Mayell"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429837682954/MayellMidAtlantic.png"
 publishDate = "2014-05-02T10:08:00-04:00"
 short_description = "Toronto Operetta Theatre opens Cousin From Nowhere on Thursday night, and you can catch tenor Christopher Mayell onstage. He sheds some light on the question we all ask at the oper(ett)a: &quot;Why Mid-Atlantic?&quot;"
 slug = "mayells-midatlantic"

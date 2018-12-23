@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
 date = "2015-10-03T13:10:00-04:00"
 lastmod = "2015-10-07T09:56:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444224898593/Pit.jpg"
 publishDate = "2015-10-07T09:30:00-04:00"
 short_description = "I&#039;ve written before about the emotional rollercoaster caused by the arrival of the orchestra. In short: you, the singer/pianist/director/passionate stage manager, have spent weeks in music and staging rehearsals for a particular show, and you&#039;ve no doubt grown close to the piece, and all your favourite moments in this particular production. For pianists, the way they play the score is informed by what they see being built up onstage; if it&#039;s an interesting rehearsal process, I&#039;ll probably play the score differently at the end of it than at the beginning, because I&#039;ll know more things about this story now."
 slug = "opera-orchestras-robots-or-out-of-the-loop"

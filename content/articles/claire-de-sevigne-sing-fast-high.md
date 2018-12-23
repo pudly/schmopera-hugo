@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "How-to"
+companies = ["Canadian Opera Company Ensemble Studio","Opernhaus Zürich","Music Academy of the West - Voice Program","Opera Theatre of St. Louis"]
 date = "2015-06-17T15:40:00+02:00"
 lastmod = "2017-03-06T09:28:00+01:00"
+people = ["Claire de Sévigné"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488788897391/2017-03-06---Claire4.jpg"
 publishDate = "2015-06-17T18:35:00+02:00"
 short_description = "If you go to hear Claire de Sévigné in an opera, there&#039;s a good chance she&#039;s the one singing the highest. The Canadian coloratura is a graduate of the COC Ensemble Studio, a recent finalist of the Montréal International Music Competition, and soon to be a member of the International Opera Studio at the Zürich Opernhaus."
 slug = "claire-de-sevigne-sing-fast-high"

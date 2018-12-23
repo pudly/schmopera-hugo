@@ -1,8 +1,10 @@
 +++
+author = "Paul E. Kwak, MD"
 categories = "Op-ed"
 date = "2017-07-05T13:36:00-06:00"
 lastmod = "2017-07-05T21:17:00-06:00"
 preamble = "This is a guest contribution by [Paul E. Kwak, MD](http://nyulangone.org/doctors/1184937914/paul-e-kwak), laryngologist and laryngeal surgeon at the NYU Voice Center, and Assistant Professor in the NYU Department of Otolaryngology - Head and Neck Surgery. "
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499289496191/2017-07-05---Adele.jpg"
 publishDate = "2017-07-05T21:12:00-06:00"
 short_description = "We can do better. We can espouse and proclaim the value of vocal health, technique, and efficiency, while recognizing with great respect and awe the beauty in non-traditional voices, and overcoming the professional and territorial myopia that threatens to rob us of our innate desire to hear the gift of a great voice raised in song."
 slug = "stop-shaming-adele"

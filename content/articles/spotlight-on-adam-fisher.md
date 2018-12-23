@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Tapestry Opera"]
 date = "2017-05-28T13:37:00-04:00"
 lastmod = "2017-06-02T19:49:00-04:00"
+people = ["Adam Fisher"]
 preamble = "Equal parts uplifting and heartbreaking, Canadian tenor [Adam Fisher](/scene/people/adam-fisher/) most recently sang the role of Father Alexander in [Tapestry Opera](/scene/companies/tapestry-opera/)'s world premiere production of [*Oksana G.*](/tough-to-watch-oksana-g/). With a unexpected past as a heavy metal drummer and a strong connection to music theatre and pop singers, Fisher brings a refreshing energy to the stage that seems fuelled by curiosity for the stage in its broadest sense.\n\nFisher heads next to Los Angeles, to sing the title role in Lou Harrison's [*Young Caesar* with the LA Philharmonic](http://www.laphil.com/tickets/young-caesar/2017-06-13). He talks about lesser-known corners of history, dream roles, and the difference between singing that's \"flashy\" versus \"connected\"."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495993287998/2017-05-28---Adam-Fisher.jpg"
 publishDate = "2017-06-02T19:07:00-04:00"
 short_description = "&quot;For me, exercise and the outdoors has always cathartic. Getting outside for a bike ride or weight training during a contract is such a great release for me. It&#039;s kinda like meditation and gives me a place to let out all the baggage built up from the process of creating art.&quot;"
 slug = "spotlight-on-adam-fisher"

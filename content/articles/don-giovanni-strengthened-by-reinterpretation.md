@@ -1,8 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Heartbeat Opera"]
 date = "2018-04-15T21:30:00-04:00"
 lastmod = "2018-04-19T10:48:00-04:00"
 preamble = "Heartbeat Opera Co-Music Director Daniel Schlosberg is ready for the company's fourth annual Spring Festival, where he'll unveil his new arrangement of Mozart's [*Don Giovanni*](https://www.heartbeatopera.org/don-giovanni). The composer and pianist has taken on operatic classics in past seasons, experimenting with percussion with *Lucia di Lammermoor* and adding jazz into *Carmen*; for this *Don Giovanni*, directed by Heartbeat Opera Co-Artistic Director Louisa Proske, he gets creative with the clarinet.\n\nWe spoke with Schlosberg about telling stories with orchestral instruments, and how to keep classic operas from becoming \"museum pieces\"."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523842120929/sqBoyle_MAC_HeartbeatOpera_0303.jpg"
 publishDate = "2018-04-19T10:48:00-04:00"
 short_description = "&quot;These classic opera scores, like any art form, are never static, and I believe they are strengthened by reinterpretation. We&#039;ve all become used to hearing them in a certain way over the years, with the same orchestration, to the point that they have become museum pieces. My intention is to breathe new life into the scores, and I hope that audiences are able to gain a fresh perspective on the music as a result.&quot;"
 slug = "don-giovanni-strengthened-by-reinterpretation"

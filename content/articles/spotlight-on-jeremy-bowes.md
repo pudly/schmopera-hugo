@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Against the Grain Theatre","Pacific Opera Victoria","Vancouver Opera"]
 date = "2015-12-30T14:33:00-05:00"
 lastmod = "2015-12-31T12:38:00-05:00"
+people = ["Jeremy Bowes"]
 preamble = "Victoria-born bass [Jeremy Bowes](/scene/people/jeremy-bowes/) recently wrapped up two seasons at the Sächsische Staatsoper Dresden, where he sang everything from *La bohème* to *Dead Man Walking*. We first met Jeremy at The Banff Centre, where he joined [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) to sing Leporello in the debut production of *#UncleJohn*, based on Mozart's *Don Giovanni*. He's a constantly thoughtful singer with a refreshing take on this finnicky business. \"Do not blend in, for heaven’s sake. Ruffle some feathers!\""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451503982831/2015-12-30---Jeremy-Bowes.jpg"
 publishDate = "2015-12-31T12:38:00-05:00"
 short_description = "&quot;The singing world is rich with possibility, and it needs every part of the machine to fire in order to succeed. That said, do not blend in, for heaven’s sake. Ruffle some feathers! If I hear tisking from one end of a panel, and see ear to ear smiles from another, I know I am on the right track.&quot;"
 slug = "spotlight-on-jeremy-bowes"

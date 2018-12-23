@@ -1,7 +1,9 @@
 +++
+author = "Loren Lester"
 categories = "Review"
 date = "2018-10-13T14:04:00-04:00"
 lastmod = "2018-10-14T22:08:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539453362938/sq20181003-DSC04731.jpg"
 publishDate = "2018-10-13T15:53:00-04:00"
 short_description = "Director Nancy Rhodes describes it as &quot;crossover&quot; but it might be more appropriate to call it &quot;criss-cross over&quot;; the music never stops and the singers mostly sing, but sometimes halt to utter a comment, exclamation, or quick exchange of dialogue. The combination always feels just right, as the emotions and/or whimsy of the characters rise and fall."
 slug = "a-world-premiere-anna-christie"

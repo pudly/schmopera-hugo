@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["Grange Park Opera","Glyndebourne"]
 date = "2016-10-17T13:23:00+01:00"
 lastmod = "2016-10-19T09:32:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476712628846/2016-10-17---Bow-Tie"
 publishDate = "2016-10-19T09:27:00+01:00"
 short_description = "The opera world is often full of rich-looking theatres, expensive concessions, and wealthy patrons; but in truth, the vast majority of the artists making it all happen are not in the wealthy camp. They spend staggering proportions of their income on a great pair of shoes, a well-tailored suit, and a few great dresses that they hope will carry them through seasons of donor dinners, after-show cocktail parties, and other events where the starving artists need to look anything but broke."
 slug = "whats-your-opera-dress-code"

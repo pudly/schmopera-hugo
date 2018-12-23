@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
 date = "2017-06-18T19:06:00-06:00"
 lastmod = "2017-06-20T13:06:00-06:00"
+people = ["Marion Newman"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497930158647/2017-06-20---Bearing-Photo-by-Liz-Beddall-Marion-Newman.jpg"
 publishDate = "2017-06-20T11:52:00-06:00"
 short_description = "&quot;Bearing is the first production in which I am examining what Indian Residential School means - to myself, to this company, and more importantly to this nation. This is not something that happened to a few people a long time ago; what happened then echoes and reverberates through all our lives. That&#039;s what Bearing means - how do we carry this history? How do we come to terms with it?&quot;"
 slug = "dont-miss-luminatos-bearing"

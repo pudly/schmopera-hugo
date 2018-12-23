@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Canadian Opera Company","Canadian Opera Company Ensemble Studio"]
 date = "2015-10-08T23:23:00-04:00"
 lastmod = "2015-10-09T11:53:00-04:00"
+people = ["Ekaterina Siurina","Charles Castronovo","Quinn Kelsey","Marco Guidarini","James Westman","Aviva Fortunata","Lauren Segal","Robert Gleadow","Iain MacNeil","Charles Sy"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444360426087/Traviata-MC-1052Square.jpg"
 publishDate = "2015-10-09T11:29:00-04:00"
 short_description = "Last night the Canadian Opera Company opened its new production of La traviata, and I was officially excited. La traviata is done often, but it&#039;s another thing to hear it done really well. I got my fix at the Four Seasons Centre with the first of two casts singing the 11 shows between now and November 6th."
 slug = "in-review-la-traviata-at-the-coc"

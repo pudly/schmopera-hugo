@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Canadian Opera Company","Salzburg Festival"]
 date = "2016-02-07T22:27:00-05:00"
 lastmod = "2016-02-08T16:36:00-05:00"
+people = ["Jane Archibald","Russell Braun","Josef Wagner","Erin Wall","Robert Pomakov","Doug MacNaughton","Jean-Philippe Fortier-Lazure","Sasha Djihanian","Emily Fons","Johannes Debus","Jordan de Souza","Michael Colvin"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454904851685/Figaro-MC-1107-(1)---square.jpg"
 publishDate = "2016-02-08T12:26:00-05:00"
 short_description = "The comedy in Mozart&#039;s masterpiece isn&#039;t lost on Guth, but he makes a strong focal point out psychoanalyzing the characters, exploring how they perceive their relationships with each other, and how they deal with any emotion related to lust."
 slug = "in-review-the-marriage-of-figaro"

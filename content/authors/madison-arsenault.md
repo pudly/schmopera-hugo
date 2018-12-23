@@ -2,11 +2,11 @@
 date = "2016-11-26T14:29:00+00:00"
 facebook = "https://www.facebook.com/MezzoMadisonArsenault/"
 lastmod = "2016-11-28T11:10:00+00:00"
-name = "Madison Arsenault"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480170549319/2016-11-26---Madison-Arsenault.jpg"
 publishDate = "2016-11-26T14:29:00+00:00"
 short_bio = "Madison has recently graduated with a Master’s of Music in Voice Performance and Literature at Western University, studying with Anita Krause-Wiebe. She is also a registered yoga teacher, and has been teaching classes and workshops around the city since moving here in September. It has always been a dream to help her fellow singers overcome performance anxiety and heighten their performance abilities through the healing practices of yoga and mediation."
 slug = "madison-arsenault"
+title = "Madison Arsenault"
 twitter = "https://twitter.com/maddieryley"
 website = "http://www.madisonarsenault.com/"
 +++

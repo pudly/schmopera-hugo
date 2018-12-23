@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Opera Lyra Ottawa","Pacific Opera Victoria","Calgary Opera","Opéra de Québec","Manitoba Opera","Saskatoon Opera","Canadian Opera Company","Canadian Opera Company Ensemble Studio","Tapestry Opera","Vancouver Opera","Edmonton Opera","The Metropolitan Opera"]
 date = "2015-12-03T12:20:00-05:00"
 lastmod = "2015-12-07T15:21:00-05:00"
+people = ["Peter McGillivray"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449201876606/2015-12-03---Peter-McGillivray.jpg"
 publishDate = "2015-12-07T14:10:00-05:00"
 short_description = "&quot;I came to opera a little bit later,&quot; says McGillivray, who studied English, history, and Political Science before turning his attention to singing. &quot;I think it was helpful for me to have to make the conscious decision to study this, because in the end you do decide that it&#039;s the only thing you can do.&quot;"
 slug = "talking-with-singers-peter-mcgillivray"

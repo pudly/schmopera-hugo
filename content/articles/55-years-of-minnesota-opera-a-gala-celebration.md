@@ -1,7 +1,11 @@
 +++
+author = "Callie Cooper"
 categories = "Review"
+companies = ["Minnesota Opera"]
 date = "2017-10-02T13:14:00-04:00"
 lastmod = "2017-10-03T13:11:00-04:00"
+people = ["Karin Wolverton","Mary Evelyn Hangley","Andres Acosta","Nadia Fayad","Andrew Wilkowske"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506964659791/2017-10-02---Minneapolis.jpg"
 publishDate = "2017-10-03T13:11:00-04:00"
 short_description = "A company well-known for their journeys into new music and non standard repertoire, this concert was a refreshing take on the typical opera company showcase. The spirit of bringing new works to life was certainly felt at this performance, and I hope The Minnesota Opera will continue to grow in their mission for years to come!"
 slug = "55-years-of-minnesota-opera-a-gala-celebration"

@@ -1,7 +1,11 @@
 +++
+author = "Callie Cooper"
 categories = "Review"
+companies = ["Minnesota Opera"]
 date = "2017-11-13T17:38:00-05:00"
 lastmod = "2017-11-13T18:07:00-05:00"
+people = ["Jacques Imbrailo","Nadia Fayad","Richard Ollarsaba","Johanni van Oostrum","Angela Mortellaro"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510614192903/2017-11-13---square---DN4_8689.jpg"
 publishDate = "2017-11-13T18:07:00-05:00"
 short_description = "Even with the dark elements, the piece did not lose its comic lightness. It was still an evening full of laughs and slapstick, but the more serious aspects were brought forth. Along with this unexpected episode, Mortellaro&#039;s characterization of Susanna in the final two acts deviated from the common chipper portrayal of this sassy maid. She was a bride-to-be who truly didn&#039;t want to go along with the Countess&#039; plan to trap the Count."
 slug = "chiaroscuro-classics-the-marriage-of-figaro"

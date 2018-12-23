@@ -1,7 +1,11 @@
 +++
+author = "Greg Finney"
 categories = "Review"
+companies = ["MYOpera"]
 date = "2016-05-01T18:28:00+01:00"
 lastmod = "2016-05-02T12:50:00+01:00"
+people = ["Christina Campsall","Daevyd Pepper","Anna Theodosakis"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462123945294/2016-05-01---MyOperaLucretiaSquare.jpg"
 publishDate = "2016-05-02T12:50:00+01:00"
 short_description = "It was incredibly close and intimate and I think it added to the stressful undercurrent of the entire score. The male and female chorus guide us through the horrific unfolding of events, there is a clear point of view from a feminine perspective, but one that was nobly sympathetic to the weakness of the men who are the catalyst to all this indignity."
 slug = "in-review-the-rape-of-lucretia"

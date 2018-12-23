@@ -1,7 +1,11 @@
 +++
+author = "Michael Pecak"
 categories = "Review"
+companies = ["Lyric Opera of Chicago"]
 date = "2018-03-18T21:04:00-04:00"
 lastmod = "2018-03-19T21:43:00-04:00"
+people = ["Joseph Lattanzi","Jonas Hacker","Devon Guthrie","Vanessa Becerra"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521421442576/sq---Joseph-Lattanzi_Jonas-Hacker_FELLOW-TRAVELERS_LYR180315_621_c.Todd-Rosenberg.jpg"
 publishDate = "2018-03-19T21:43:00-04:00"
 short_description = "The chemistry between these two singer-actors in their respective roles was electrifying and irresistible. Your heart soared watching their passion ignite and then sink as their lives and personalities diverged."
 slug = "fellow-travelers-is-luminous-in-chicago"

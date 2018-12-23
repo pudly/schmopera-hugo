@@ -1,11 +1,11 @@
 +++
 date = "2018-11-10T17:17:00-05:00"
 lastmod = "2018-11-10T17:17:00-05:00"
-name = "Alessia Naccarato"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541887760320/Alessia-Naccarato-Headshot.jpg"
 publishDate = "2018-11-10T17:17:00-05:00"
 short_bio = "Alessia Naccarato is a Canadian mezzo-soprano currently living in London, England, where she recently completed an MMus at the Guildhall School of Music and Drama. She is passionate about the power of storytelling through music, and fell in love with opera very early on. Some of her favourites include *Peter Grimes*, *Le nozze di Figaro*, and *Salome*. When she is not listening to or performing opera, Alessia can be found enjoying a good book, a good cup of tea, or a good, long walk."
 slug = "alessia-naccarato"
+title = "Alessia Naccarato"
 twitter = "https://twitter.com/alinaccs"
 +++
 

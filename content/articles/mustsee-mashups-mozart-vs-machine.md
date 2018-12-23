@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
+companies = ["Mahogany Opera Group"]
 date = "2017-08-17T10:03:00-04:00"
 lastmod = "2017-08-30T09:52:00-04:00"
+people = ["Frederic Wake-Walker"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502986825287/2017-08-18---Square---MozartVsMachine_Folkestone_034.jpg"
 publishDate = "2017-08-20T20:07:00-04:00"
 short_description = "&quot;On one level, it feels very much like a musical cabaret-revue,&quot; says Wake-Walker, who directs Mozart vs Machine. &quot;There is a narrative, there is a story that is told, but not in a traditional sense.&quot; That loose narrative tells of a malfunctioning time-machine, resulting in a chance meeting between Raymond Scott, early pioneer of electronic music, and Wolfgang Amadeus Mozart."
 slug = "mustsee-mashups-mozart-vs-machine"

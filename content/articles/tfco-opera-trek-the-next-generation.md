@@ -1,7 +1,11 @@
 +++
+author = "Greg Finney"
 categories = "Interview"
+companies = ["Canadian Children's Opera Company"]
 date = "2016-05-30T19:23:00+01:00"
 lastmod = "2016-05-31T22:51:00+01:00"
+people = ["Dean Burry"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464634909450/2016-05-31---Greg-VIVA.jpg"
 publishDate = "2016-05-31T11:07:00+01:00"
 short_description = "I got to chat with a few of the next generation involved in Burry&#039;s The Sword in the Schoolyard: Viva Egoyan-Rokeby (young Morgan), David Grace (young Arthur), Emma Thornton-Ockrant (young Gwen), and Henry Kemeny-Wodlinger (young Mordred)."
 slug = "tfco-opera-trek-the-next-generation"

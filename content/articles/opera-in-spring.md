@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["Opera Atelier","Canadian Opera Company","MYOpera"]
 date = "2015-04-10T22:05:00-04:00"
 lastmod = "2015-04-10T22:05:00-04:00"
+people = ["Joel Ivany","Christopher Mokrzewski","Lauren Segal","Joshua Hopkins","Meghan Lindsay","Alek Shrader","James McLean"]
 preamble = "<p>\n\tWith the official end of winter less than a week away, it's time to mark your calendars with some spring opera-going. Here are a few of the events I'm catching over the next couple of months.\n</p>"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428717476073/Spring.jpg"
 publishDate = "2015-03-18T10:05:00-04:00"
 short_description = "​With the official end of winter less than a week away, it&#039;s time to mark your calendars with some spring opera-going. Here are a few of the events I&#039;m catching over the next couple of months."
 slug = "opera-in-spring"

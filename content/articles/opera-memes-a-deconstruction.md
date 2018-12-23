@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Humour"
 date = "2014-02-16T14:11:00-05:00"
 lastmod = "2015-04-27T22:51:00-04:00"
+people = ["Eva-Maria Westbroek"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430186718061/Grumpy-Belinda.jpg"
 publishDate = "2014-02-16T14:11:00-05:00"
 short_description = "I feel like deconstructing today. I was going for lighter fare on a Sunday, which usually means heading over to the land of the opera nerds on Tumblr."
 slug = "opera-memes-a-deconstruction"

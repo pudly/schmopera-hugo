@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
 date = "2018-01-30T18:13:00-05:00"
 lastmod = "2018-01-30T18:13:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517353947614/UeRNBCC5DBsakrnLS5Et6IULQdwibTZLCnX1g5eoNxEIDJkTJChawaN7yvYeAFBgN2MuFHv2dFArMePBqpq9tyrveP5xsw%3Dw1360-h1360-c"
 publishDate = "2018-01-30T18:13:00-05:00"
 short_description = "It&#039;s a way of giving back to the kind folks who support our Patreon campaign; and if you want to win some of our merchandise, or even a ticket to a show with the folks of Schmopera, head over to our Patreon page to find out how to make yourself eligible."
 slug = "like-our-merch-find-out-how-to-win-it"

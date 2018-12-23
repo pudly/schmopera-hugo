@@ -2,11 +2,11 @@
 date = "2016-12-01T15:02:00+00:00"
 facebook = "https://www.facebook.com/emilyloowho"
 lastmod = "2016-12-01T15:07:00+00:00"
-name = "Emily Peragine"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480604437777/iHikPC7JfkVzFnTb1lgyV3UzJg_tyRYcDJt9Hw94v4ZOJjC3P-J7WcroecOaNOGti67skvJiiSTq3nGa-fW94Oz5c42a4g%3Dw1360-h1360"
 publishDate = "2016-12-01T15:02:00+00:00"
 short_bio = "Emily Peragine is a 20-something soprano from Missoula, Montana. She has recently graduated from the Oberlin Conservatory of Music, and is now moving to the Big Apple to pursue her dreams. She&#039;s obsessed with cats, breweries, and loves to go out dancing, especially when it&#039;s &quot;90&#039;s night.&quot;"
 slug = "emily-peragine"
+title = "Emily Peragine"
 twitter = "https://twitter.com/emilyperagine"
 +++
 

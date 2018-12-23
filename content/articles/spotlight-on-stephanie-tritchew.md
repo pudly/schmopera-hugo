@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Opera Theatre of St. Louis","Calgary Opera"]
 date = "2016-06-19T13:04:00-06:00"
 lastmod = "2016-06-21T02:58:00-06:00"
+people = ["Stephanie Tritchew"]
 preamble = "From cycling across the east coast of Canada with [The Bicycle Opera Project](/scene/companies/the-bicycle-opera-project/) to taking the more formal stages of [Calgary Opera](/scene/companies/calgary-opera/) and [Opera Theater of Saint Louis](/scene/companies/opera-theatre-of-st-louis/), rising mezzo-soprano [Stephanie Tritchew](/scene/people/stephanie-tritchew/) is a versatile, smart young artist. She's currently mid-run of the world premiere of [*Shalimar the Clown*](https://www.opera-stl.org/season-and-events/productions/shalimar-the-clown), based on the novel by Salman Rushdie (and [she got to meet him](https://twitter.com/StephT_mezzo/status/743310437064728576), to boot!), and next season she'll sing in [Edmonton Opera](/scene/companies/edmonton-opera/)'s production of *Elektra*.\n\nStephanie gave us a totally honest and endearing interview, about the exhaustive mind game that can come with singing, and the freedom she finds from becoming a different person onstage."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466370212045/2016-06-20---Stephanie-Tritchew.jpg"
 publishDate = "2016-06-19T19:24:00-06:00"
 short_description = "&quot;Why am I doing it professionally? That&#039;s easy: because I&#039;m lucky enough to have that opportunity. If I wasn&#039;t doing it professionally, I&#039;d be doing it for fun. I think if anyone could do their absolute favourite thing on the planet and get paid for doing it, they would every time.&quot;"
 slug = "spotlight-on-stephanie-tritchew"

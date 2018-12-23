@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
 date = "2015-04-27T21:40:00-04:00"
 lastmod = "2015-04-27T21:41:00-04:00"
+people = ["Lauren Margison"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430185230421/Lauren.JPG"
 publishDate = "2014-02-21T09:40:00-05:00"
 short_description = "Young Canadian soprano Lauren Margison has lived her life surrounded by opera and the people who make it. The daughter of renowned Canadian tenor Richard Margison and of violist and stage director Valerie Kuinka, Lauren has an unique perspective on the operatic industry."
 slug = "talking-with-singers-lauren-margison"

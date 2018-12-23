@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Pocket Concerts"]
 date = "2015-10-26T19:34:00-04:00"
 lastmod = "2015-10-29T12:24:00-04:00"
+people = ["Rory McLeod","Emily Rho"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446085538390/15-10-29%20-%20PocketConcertsVertical.jpg"
 publishDate = "2015-10-29T11:30:00-04:00"
 short_description = "The concept of going to someone&#039;s house for some live chamber music might seem strange to anyone who isn&#039;t a big concert goer. But musicians know that house concerts are a common occurrence, that they&#039;re often under-advertised and often private, and that they&#039;re a fantastic way to experience music. The folks from Pocket Concerts are taking the in-home concert model, and making it an experience that anyone can have."
 slug = "meet-the-folks-pocket-concerts"

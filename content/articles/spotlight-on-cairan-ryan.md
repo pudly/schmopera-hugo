@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Highlands Opera Studio","Against the Grain Theatre","l'Opéra de Montréal"]
 date = "2015-09-22T19:21:00-04:00"
 lastmod = "2015-09-23T20:19:00-04:00"
+people = ["Cairan Ryan"]
 preamble = "This interview is part of our ongoing series of features on young working artists in the opera industry. If you think you'd be a great candidate for an interview, or know someone you'd like to nominate, get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442964184191/HeadshotCairanRyanHighDefSquare.jpg"
 publishDate = "2015-09-24T08:00:00-04:00"
 short_description = "&quot;I sing because it is a holistic musical experience. It&#039;s the only thing I can think of that comes close to complete participation of your brain, body, and what some people may call a soul. At its peak, it unites all three into a living, breathing instrument, that&#039;s always completely unique and arrestingly different. I sing to always find that unity.&quot;"
 slug = "spotlight-on-cairan-ryan"

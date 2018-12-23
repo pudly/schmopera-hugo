@@ -1,8 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "How-to"
+companies = ["Halifax Summer Opera Festival","COSI: Centre for Opera Studies in Italy","The Banff Centre","Opera NUOVA"]
 date = "2015-05-28T15:01:00-04:00"
 lastmod = "2017-05-18T10:20:00-04:00"
 preamble = "It's summer program season, everyone. I'm so excited for you all! These are good months, spent in intensive training programs with teachers and coaches that are hard to pin down throughout the year. Lightbulb moments will be had, and new arias will be learned. Summer programs are great at bringing together the people and places that will help you to succeed; it's up to you to ensure that **you** get what you need. Here are some tips for doing just that."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495117198377/2017-05-18---Summer.jpg"
 publishDate = "2015-05-29T08:21:00-04:00"
 short_description = "It&#039;s summer program season, everyone. I&#039;m so excited for you all! These are good months, spent in intensive training programs with teachers and coaches that are hard to pin down throughout the year. Lightbulb moments will be had, and new arias will be learned."
 slug = "how-to-make-the-most-of-your-summer-program"

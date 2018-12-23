@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
 date = "2014-01-28T14:07:00-05:00"
 lastmod = "2018-01-03T11:25:00-05:00"
+people = ["Isaiah Bell"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514991811717/2018-01-03---Scarf.jpg"
 publishDate = "2014-01-28T14:07:00-05:00"
 short_description = "There is this stereotype of &quot;theatre folk.&quot; They come to rehearsal enveloped in pashmina, they identify themselves with their choice of uniquely quirky glasses-frames, and they wear the kind of clothing that begs the honest question, &quot;Did you make that tunic yourself?&quot;"
 slug = "opera-great-or-just-the-greatest"

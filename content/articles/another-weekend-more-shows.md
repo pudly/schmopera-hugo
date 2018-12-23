@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["Tafelmusik Baroque Orchestra & Chamber Choir","FAWN Chamber Creative"]
 date = "2014-04-10T08:00:00-04:00"
 lastmod = "2015-04-23T22:40:00-04:00"
+people = ["Isabel Bayrakdarian"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429843181349/Theatre-1024x1024.jpg"
 publishDate = "2014-04-10T08:00:00-04:00"
 short_description = "Tonight (it&#039;s quasi-weekend) I&#039;m going to Koerner Hall to hear Isabel Bayrakdarian sing with Tafelmusik. The programme is titled Rival Queens, and I&#039;m pretty excited about it. It&#039;s inspired by that famous 18th-century operatic feud between superstars Faustina Bordoni and Francesca Cuzzoni."
 slug = "another-weekend-more-shows"

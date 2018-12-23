@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
 date = "2016-11-12T15:51:00+00:00"
 lastmod = "2016-11-29T10:12:00+00:00"
+people = ["Jamie Barton"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478965911421/2016-11-12---All-Who-Wander-Cover.jpg"
 publishDate = "2016-11-29T09:43:00+00:00"
 short_description = "&quot;Sure, I didn&#039;t grow up in a gypsy camp,&quot; says Barton of Dvořák&#039;s songs, &quot;but I do have fond memories of playing music around a bonfire with family and dancing. I treasure my memories of family members teaching me the songs of where I come from. I identify with trying to find myself, and wanting to walk/dance/boogie down to the beat of my own drum.&quot;"
 slug = "album-review-all-who-wander"

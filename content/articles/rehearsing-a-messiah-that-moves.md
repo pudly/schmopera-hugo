@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
+companies = ["Against the Grain Theatre"]
 date = "2015-12-18T13:05:00-05:00"
 lastmod = "2015-12-21T09:22:00-05:00"
+people = ["Joel Ivany","Christopher Mokrzewski","Miriam Khalil","Owen McCausland","Andrea Ludwig","Stephen Hegedus","Samantha Pickett","Christina Campsall","Gregory Finney","Jonathan MacArthur","Vanessa Oude-Reimerink","Michaela Dickey","Jennifer Nichols","Whitney Mather"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450507330640/AtG-Messiah---Josh---square.jpg"
 publishDate = "2015-12-21T08:00:00-05:00"
 short_description = "Of course, the final product was something greater than the sum of its parts. Each night, there was that great Against the Grain alchemy onstage, that amazing thing that happens when performers reach out to the audience, and the audience gives back. The proof is in the audience feedback, in truth. The run has stirred up the usual AtG-show Twitter buzz, full of people loving the novelty of this Messiah."
 slug = "rehearsing-a-messiah-that-moves"

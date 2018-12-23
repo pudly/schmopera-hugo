@@ -1,7 +1,10 @@
 +++
+author = "Andrew Schneider"
 categories = "Review"
+companies = ["Houston Grand Opera"]
 date = "2018-02-07T11:29:00-05:00"
 lastmod = "2018-02-07T16:15:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518020949716/sq---hgo---the-barber-of-seville---2018---photographer-lynn-lane-142-3000x2000.jpg"
 publishDate = "2018-02-07T16:15:00-05:00"
 short_description = "At any rate, the production focuses on the perennial problem of &quot;finding good help these days;&quot; do the servants really care about their employers&#039; tribulations? Is it any wonder that Bartolo&#039;s (Peixin Chen) house is falling apart? Indeed, the Houston Grand Opera Chorus were skilled at portraying a motley group of musicians who just need to keep their voices down once in a while, lest they attract the attention of the bayonet-armed, plume-graced Seville gendarmes."
 slug = "help-wanted-els-comediants-bring-barber-to-houston"

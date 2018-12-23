@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Nashville Opera"]
 date = "2017-09-27T16:19:00-04:00"
 lastmod = "2017-09-28T09:35:00-04:00"
+people = ["Jennifer Rowley"]
 preamble = "Soprano [Jennifer Rowley](/scene/people/jennifer-rowley/) is in the middle of a three-run stretch of Puccini's *Tosca*, starting in August with The Finger Lakes Opera, and ending in January with David McVicar's new production at The Metropolitan Opera. Currently, she's in Nashville, set to open John Hoomes' production of [*Tosca* at Nashville Opera](http://www.nashvilleopera.org/tosca-copy/) on **October 5**.\n\nIt was a treat to talk with Rowley about the layers of learning that come with revisiting a role like Floria Tosca, her pre-performance routine, and what it truly means to be part of a career that is ever-changing.\n\n"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506543676931/2017-09-27---Rowley-Headshot-2017.jpg"
 publishDate = "2017-09-28T09:35:00-04:00"
 short_description = "&quot;There is always something to learn every time you do a role – from the very first time and all the times after. I find something new in the character and music every time I sing Tosca, and it astonishes me that I can add a layer to her character each and every time.&quot;"
 slug = "talking-with-singers-jennifer-rowley"

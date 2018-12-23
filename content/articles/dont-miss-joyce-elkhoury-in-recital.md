@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
+companies = ["Canadian Opera Company"]
 date = "2015-10-08T09:32:00-04:00"
 lastmod = "2015-10-08T13:54:00-04:00"
+people = ["Joyce El-Khoury"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444312482709/4082-Joyce-El-Khoury-HI-RES.jpg"
 publishDate = "2015-10-08T12:00:00-04:00"
 short_description = "On October 19th at noon, soprano Joyce El-Khoury is giving a recital at Classical 96.3 FM&#039;s The New Zoomer Studio in Liberty Village. Send an RSVP by email; the first 50 to respond will get two passes for the recital, followed by a gourmet lunch."
 slug = "dont-miss-joyce-elkhoury-in-recital"

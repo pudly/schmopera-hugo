@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
 date = "2017-10-06T11:32:00-04:00"
 lastmod = "2017-10-06T13:13:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507306187537/2017-10-06---Ego.jpg"
 publishDate = "2017-10-06T12:10:00-04:00"
 short_description = "Like I said, this is a stereotype. But even if the opera singer herself is a humble, down-to-earth type, the above scene is still part of her job. She might be a sci-fi nerd and an excellent giver of hugs, but she&#039;s still standing up on that stage holding flowers and looking like a cross between a swan and Grecian fresco. "
 slug = "a-singer-and-her-ego"

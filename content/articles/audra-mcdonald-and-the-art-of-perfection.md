@@ -1,7 +1,10 @@
 +++
+author = "Loren Lester"
 categories = "Review"
+companies = ["Los Angeles Opera"]
 date = "2018-05-21T17:45:00-04:00"
 lastmod = "2018-05-22T08:55:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526939085388/sq1718public_audra2.jpg"
 publishDate = "2018-05-21T21:11:00-04:00"
 short_description = "She let us know that she considers herself &quot;a champion of new composers.&quot; &quot;That way,&quot; she told us, maybe only half-joking, &quot;I&#039;ll still have a job in the future.&quot; She reminded us that Jason Robert Brown was once a &quot;new composer&quot; and proffered his &quot;Stars and Moon&quot; which has become one of her signature songs."
 slug = "audra-mcdonald-and-the-art-of-perfection"

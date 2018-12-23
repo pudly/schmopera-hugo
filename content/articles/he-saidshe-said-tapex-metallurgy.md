@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Tapestry Opera","Indie Opera T.O."]
 date = "2015-11-20T09:34:00-05:00"
 lastmod = "2015-11-20T12:47:00-05:00"
+people = ["Krisztina Szabó","David Pomeroy","Michael Mori"]
 preamble = "Contributor [Greg Finney](/scene/people/gregory-finney/) and I went to Tapestry Opera's opening of Tap:Ex Metallurgy last night. It was one of those shows where one review didn't seem to do it justice. So, here's our She said/He said account of one of the coolest operatic events we'd ever seen."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448034556710/2015-11-20---TapEx---square---David-Pomeroy%2C-Krisztina-Szab%C3%B3-and-Mike-Haliechuk-in-TAP-EX-METALLURGY-photo-by-Dahlia-Katz.jpg"
 publishDate = "2015-11-20T12:46:00-05:00"
 short_description = "Contributor Greg Finney and I went to Tapestry Opera&#039;s opening of Tap:Ex Metallurgy last night. It was one of those shows where one review didn&#039;t seem to do it justice. So, here&#039;s our She said/He said account of one of the coolest operatic events we&#039;d ever seen."
 slug = "he-saidshe-said-tapex-metallurgy"

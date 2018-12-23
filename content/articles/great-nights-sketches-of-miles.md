@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["City of London Sinfonia"]
 date = "2016-04-07T10:16:00+01:00"
 lastmod = "2016-04-07T11:38:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460022879820/2016-04-07--G-Simcock-Trio-Tim-Garland_Cr-James-Berry.jpg"
 publishDate = "2016-04-07T11:14:00+01:00"
 short_description = "The music was stellar, and the vibe was so great that even a momentary power outage mid-&quot;Summertime&quot; didn&#039;t dampen the night one bit. It&#039;s hard to say what we expected from CLS, but expectations don&#039;t matter when the experience holds us rapt and happy. "
 slug = "great-nights-sketches-of-miles"

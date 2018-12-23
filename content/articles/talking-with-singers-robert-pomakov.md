@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Canadian Opera Company","The Metropolitan Opera"]
 date = "2015-04-12T18:53:00-04:00"
 lastmod = "2015-04-13T22:01:00-04:00"
+people = ["Robert Pomakov"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428879048209/bob_edit_8_forprintsharpercolourcrop.jpg"
 publishDate = "2014-12-05T09:53:00-05:00"
 short_description = "Canadian bass Robert Pomakov has built himself a pretty enviable career. He’s currently in the middle of a Metropolitan Opera-heavy season, returning in January for productions of Les contes d’Hoffmann, Manon and Don Carlo. He has sung for conductors like James Levine, James Conlon, Riccardo Muti, Yannick Nézet-Séguin and Nicola Luisotti."
 slug = "talking-with-singers-robert-pomakov"

@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Royal Opera House"]
 date = "2017-01-14T14:53:00+00:00"
 lastmod = "2017-01-19T17:49:00+00:00"
+people = ["Barbara Hannigan","Christopher Purves"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484406271712/2017-01-17---6837-CHRISTOPHER-PURVES-AS-THE-PROTECTOR-BARBARA-HANNIGAN-AS-AGNES-ROH-PHOTO-STEPHEN-CUMMISKEY.jpg"
 publishDate = "2017-01-14T16:17:00+00:00"
 short_description = "What&#039;s most thrilling about this Written on Skin was how the piece itself shone through Mitchell&#039;s production. Phrases from the libretto - like &quot;blame her for everything&quot; - leapt out as though shouted; Benjamin&#039;s use of the glass armonica - the instrument of &quot;hysteria&quot; - is well-timed and significant. Though it didn&#039;t overshadow the human stories of Agnès and The Protector, there was clear commentary on free will, and the cruelty inherent in God&#039;s creation of man."
 slug = "in-review-written-on-skin-at-roh"

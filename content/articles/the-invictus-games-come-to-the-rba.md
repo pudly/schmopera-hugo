@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Canadian Opera Company","Canadian Opera Company Ensemble Studio"]
 date = "2017-09-28T19:32:00-04:00"
 lastmod = "2017-10-01T09:04:00-04:00"
+people = ["Samuel Chan","Samantha Pickett","Megan Quick","Rachael Kerr","Stéphane Mayer","Simone McIntosh"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506642181064/2017-09-28---KLP170927-_DSF7461.jpg"
 publishDate = "2017-09-29T12:26:00-04:00"
 short_description = "When packed together into a single recital, it&#039;s always interesting to hear how different composers write the sounds of war. Kurt Weill writes the literal sounds of drums in his &quot;Beat! Beat! Drums!&quot;, and Charles Ives capitalizes on the sounds of grossly happy Americana (propaganda, really) in &quot;He is there!&quot; Dominic Argento&#039;s &quot;War (June, 1940)&quot; gives a disorienting, broken image of combat that sounds in stark contrast to the more familiar sounds of war-themed songs, the nostalgia and longing of Gerald Finzi and George Butterworth."
 slug = "the-invictus-games-come-to-the-rba"

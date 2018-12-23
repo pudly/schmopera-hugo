@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Royal Opera House"]
 date = "2016-11-27T11:33:00+00:00"
 lastmod = "2016-11-27T13:35:00+00:00"
+people = ["Sondra Radvanovsky","David Shipley","Antonio Pappano"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480247200033/2016-11-27---SONDRA-RADVANOVSKY-AS-MANON-LESCAUT-ALEKSANDRS-ANTONENKO-AS-CHEVALIER-DES-GRIEUX-ROH-PHOTO-BY-BILL-COOPER.jpg"
 publishDate = "2016-11-27T13:31:00+00:00"
 short_description = "There are 21st-century women who are pressured by their parents into a life they don&#039;t choose, yet being sent to a convent is arguably more period-specific. Rich people get to enjoy private entertainment; yet a troupe of minstrels showing up in someone&#039;s bedroom is of another time. And while there&#039;s a theatrical trope of a chorus who comments on the actions of a main character, it&#039;s harder to believe a hoarde of people at a casino have turned their attention away from gambling, to Manon&#039;s outsmarting of her would-be abductors."
 slug = "in-review-manon-lescaut-at-roh"

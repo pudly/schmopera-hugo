@@ -1,6 +1,8 @@
 +++
+author = "Jenna Simeonov"
 date = "2015-10-19T12:54:00-04:00"
 lastmod = "2015-10-25T10:31:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445562263013/RobotSinging.jpg"
 publishDate = "2015-10-25T10:31:00-04:00"
 short_description = "As technology develops and more and more of our problems are solved, creators of opera will be charged with finding truer and truer ways of getting to emotional heights. The challenge comes in the form of a question: now that you have the Internet in your pocket, what&#039;s left to sing about?"
 slug = "is-technology-making-it-harder-to-tell-stories"

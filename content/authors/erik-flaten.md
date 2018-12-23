@@ -2,11 +2,11 @@
 date = "2017-09-07T18:07:00-04:00"
 facebook = "https://www.facebook.com/erik.flaten.3"
 lastmod = "2018-09-24T10:57:00-04:00"
-name = "Erik Flaten"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504822036912/Headshot.jpg"
 publishDate = "2017-09-07T18:07:00-04:00"
 short_bio = "Pianist, teacher, and Music Director, Erik Flaten was born and raised in Eastern Washington State. Erik has been heard as both a soloist and collaborative pianist in his native Pacific Northwest, as well as in major cities including Seattle, Portland, San Francisco, Los Angeles, Philadelphia and New York City."
 slug = "erik-flaten"
+title = "Erik Flaten"
 twitter = "https://twitter.com/ErikFlaten"
 website = "http://www.erikflaten.com/"
 +++

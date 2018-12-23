@@ -1,7 +1,9 @@
 +++
+author = "Loren Lester"
 categories = "Review"
 date = "2018-05-20T21:47:00-04:00"
 lastmod = "2018-05-20T21:47:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526867048582/sqLPotion-TD-085.jpg"
 publishDate = "2018-05-20T21:47:00-04:00"
 short_description = "Mr. Mitisek and Long Beach Opera have built their world-renowned reputations on new works and the discovery of neglected treasures from the past. Mr. Martin&#039;s 1942 opera does not fit into either category."
 slug = "love-potion-number-nein"

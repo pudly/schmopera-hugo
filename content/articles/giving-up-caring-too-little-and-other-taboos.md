@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
 date = "2015-06-04T16:42:00-04:00"
 lastmod = "2015-06-11T08:52:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433559406329/Nemo.jpg"
 publishDate = "2015-06-11T08:52:00-04:00"
 short_description = "A couple of articles popped up this week that circle around the big issue of taboo in the arts. Allison Ford, in her &quot;I Gave Up My Dream And I&#039;d Do It Again,&quot; talks about her decision to walk away from pursuing a career in theatre, at the tender age of 20-something. Closer to opera is Kathryn McAdam&#039;s &quot;Soprano on Sabbatical...What on earth does she mean?&quot;, where she reveals a beautifully personal story about her struggles with vocal health that finally trumped all."
 slug = "giving-up-caring-too-little-and-other-taboos"

@@ -1,7 +1,11 @@
 +++
+author = "Greg Finney"
 categories = "Op-ed"
+companies = ["Canadian Children's Opera Company"]
 date = "2016-06-03T10:22:00+01:00"
 lastmod = "2016-06-03T14:15:00+01:00"
+people = ["Dean Burry"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464947482057/2016-06-03---King-Arthur.jpg"
 publishDate = "2016-06-03T13:12:00+01:00"
 short_description = "Day led us through a survey of the similarities between the two subjects. He explained the idea of the sword as mystical icon, how the sword embedded in stone had its roots in Norse mythology, as Odin stuck his sword in the family tree and said only he who could remove it would rule. The dragon slaying, the underdog being worthy, etc., they are all related to the same source material."
 slug = "talking-opera-mythology-with-the-tfco"

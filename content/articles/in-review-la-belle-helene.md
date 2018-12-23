@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Royal Conservatory of Music"]
 date = "2015-04-10T21:45:00-04:00"
 lastmod = "2015-04-10T23:18:00-04:00"
+people = ["Joel Ivany","Christina Campsall","Asitha Tennekoon"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428716409730/La-Belle-Helene-089-2.jpg"
 publishDate = "2015-03-19T09:45:00-04:00"
 short_description = "Last night I went to see opening night of the Glenn Gould School&#039;s production of Offenbach&#039;s La belle Hélène."
 slug = "in-review-la-belle-helene"

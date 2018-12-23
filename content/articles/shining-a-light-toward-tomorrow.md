@@ -1,7 +1,10 @@
 +++
+author = "Melissa Ratcliff"
 categories = "Review"
+companies = ["Opera Mariposa"]
 date = "2018-06-18T13:04:00-04:00"
 lastmod = "2018-06-19T07:43:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1529341423899/sqJacquelineKo_2_DiamondsEdgePhotography.jpg"
 publishDate = "2018-06-18T13:04:00-04:00"
 short_description = "Ko&#039;s rendition of Yentl&#039;s &quot;Papa, Can You Hear Me?&quot; and &quot;A Piece of Sky&quot; were both touching and fraught with emotion to open and close the show. Her aria &quot;Elle a fui, la tourterelle&quot; had wonderful moments of pathos, and her floated high notes were bright and brilliant."
 slug = "shining-a-light-toward-tomorrow"

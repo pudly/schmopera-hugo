@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["Academy of Ancient Music"]
 date = "2016-12-08T10:53:00+00:00"
 lastmod = "2016-12-11T10:46:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481194694548/2016-12-8---Venice.jpg"
 publishDate = "2016-12-11T10:46:00+00:00"
 short_description = "Christopher Hitchens once said of religion, that it was &quot;the race&#039;s first (and worst) attempt to make sense of reality.&quot; In later conversations, Hitchens clarified that because it was our first attempt, it was by nature, our worst. This concept doesn&#039;t seem to apply to Early Music; rather, over and over again we are stunned by the timelessness - the edginess, really - of Baroque music."
 slug = "early-music-of-venice-the-academy-of-ancient-music-bridges-the-gap"

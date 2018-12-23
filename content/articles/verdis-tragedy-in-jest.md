@@ -1,7 +1,11 @@
 +++
+author = "Loren Lester"
 categories = "Review"
+companies = ["Los Angeles Opera"]
 date = "2018-05-16T10:49:00-04:00"
 lastmod = "2018-05-16T10:49:00-04:00"
+people = ["Lisette Oropesa","Morris Robinson","Ginger Costa-Jackson","Arturo Chacon-Cruz"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526481567401/sqrig_0284p.jpg"
 publishDate = "2018-05-16T10:49:00-04:00"
 short_description = "To protect his daughter from the Duke (and his entourage of like-minded cruel courtiers), Rigoletto hides her from the real world. She isn&#039;t allowed to venture outside, except to go to church. And that&#039;s where the Duke spies her and decides he must have her. There is an abundance of well-placed irony throughout the drama."
 slug = "verdis-tragedy-in-jest"

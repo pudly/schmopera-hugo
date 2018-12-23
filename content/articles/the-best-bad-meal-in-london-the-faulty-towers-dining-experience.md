@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
 date = "2017-02-17T11:05:00+00:00"
 lastmod = "2017-02-17T15:47:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487332020312/2017-02-27---Faulty-Towers.jpg"
 publishDate = "2017-02-17T13:08:00+00:00"
 short_description = "It&#039;s an evening full of scripted sketches and impressive improvisation alike, all three characters constantly interacting with the guests. Diners were scolded for &quot;hanky panky&quot; at the table, reprimanded for taking too long to eat their soup, and they made room under the table for hiding Basils. Manuel caused wave after wave of eye rolls with his hilarious lost-in-translation antics, and the simmering domestic dispute between Basil and Sybil was anything but subtle."
 slug = "the-best-bad-meal-in-london-the-faulty-towers-dining-experience"

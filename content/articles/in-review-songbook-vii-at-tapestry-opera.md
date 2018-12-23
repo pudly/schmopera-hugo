@@ -1,7 +1,11 @@
 +++
+author = "Greg Finney"
 categories = "Review"
+companies = ["Tapestry Opera","Indie Opera T.O."]
 date = "2017-02-26T17:46:00+00:00"
 lastmod = "2017-02-27T10:37:00+00:00"
+people = ["Janaka Welihinda","Gwenna Fairchild-Taylor","Krisztina Szabó","Keith Klassen","Michael Mori","Steven Philcox"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488132177115/2017-02-25---Tapestry-Square.jpg"
 publishDate = "2017-02-27T10:37:00+00:00"
 short_description = "For the last few years, one of my favourite events is the Songbook series presented by Tapestry Opera. It&#039;s one of my favourite events because it&#039;s something I believe we should see more of here in Toronto. As Artistic Director Michael Mori pointed out in his preamble speech, the unfortunate thing that often happens in Canada with new works is that they only get heard once."
 slug = "in-review-songbook-vii-at-tapestry-opera"

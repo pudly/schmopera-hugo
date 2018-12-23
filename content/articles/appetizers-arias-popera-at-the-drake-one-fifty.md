@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["Canadian Opera Company","Canadian Opera Company Ensemble Studio"]
 date = "2018-03-01T20:40:00-05:00"
 lastmod = "2018-03-01T21:01:00-05:00"
+people = ["Samantha Pickett","Bruno Roy","Stéphane Mayer"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519953472023/sq---drake.jpg"
 publishDate = "2018-03-01T21:01:00-05:00"
 short_description = "Popera! has a chic air of exclusivity to it, the menu items like &quot;Love Elixir&quot; cocktails and &quot;Opera Cake&quot; seeming positively swanky when paired with Mozart. My only wish is that the event grows in size - as in, more singing, please. I could have done with a couple of sets&#039; worth of singing, perhaps over appetizers as well as cocktails, with a bonus handful of sweet picks - some Andrew Lloyd Webber, say - for dessert."
 slug = "appetizers-arias-popera-at-the-drake-one-fifty"

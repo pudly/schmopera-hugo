@@ -1,7 +1,9 @@
 +++
+author = "Rich Coburn"
 categories = "Op-ed"
 date = "2016-06-06T21:09:00+01:00"
 lastmod = "2016-06-07T13:07:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465244287253/2016-06-07---LauraFlip.jpg"
 publishDate = "2016-06-06T21:31:00+01:00"
 short_description = "What if instead of considering this some sort of bastardization of great art, you were to look at it as some sort of pop inspired by opera? What if you recognize that popular songs tend to get covered in any genre — as well as across genres — and that this is actually a part of our classical heritage also, even if we rarely celebrate it? "
 slug = "the-flip-side-of-the-baby-opera-singer-coin"

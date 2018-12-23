@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
 date = "2014-09-30T11:39:00-04:00"
 lastmod = "2015-04-14T15:01:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429038010436/netflix-logo.png"
 publishDate = "2014-09-30T11:39:00-04:00"
 short_description = "It&#039;s a fair question, isn&#039;t it? I mean, anyone who&#039;s into opera and classical music knows that the Internet is not our friend. While there&#039;s always trusty YouTube to the rescue when you&#039;ve got an urge to watch that old Met Gala, or Jonas Kaufmann is anything at all. But wouldn&#039;t it be amazing to be able to browse an opera collection of old and new broadcasts? "
 slug = "netflix-why-not-opera"

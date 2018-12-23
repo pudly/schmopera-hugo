@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Canadian Opera Company"]
 date = "2017-05-06T23:04:00-04:00"
 lastmod = "2017-05-08T13:11:00-04:00"
+people = ["Marcelo Puente","Adrianne Pieczonka","Musa Ngqungwana","Markus Marquardt","Craig Colclough","Keri Alkema"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494126158909/2017-05-07---Tosca-MC-0984.jpg"
 publishDate = "2017-05-08T11:37:00-04:00"
 short_description = "She seemed deaf to much of the text, and her over-conducting (opting for 6 beats when 2 would do) left her with little room to follow the voices&#039; lead. Plus, her frustrating choice to leave a break for applause after both of Cavaradossi&#039;s arias seemed to completely undermine the careful dramatic timing in Puccini&#039;s writing. Thank goodness for Adrianne."
 slug = "in-review-tosca-at-the-coc"

@@ -1,7 +1,9 @@
 +++
+author = "Molly Simoneau"
 categories = "Review"
 date = "2018-08-04T10:02:00-04:00"
 lastmod = "2018-08-04T10:15:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1533391245573/sqWolfTrapOperaRigoletto_ManeGaloyan4.jpg"
 publishDate = "2018-08-04T10:02:00-04:00"
 short_description = "The production, directed by Crystal Manich, is pretty standard as *Rigolettos* go, the Italian renaissance evoked in the costumes and scenery, and all the characters do what they always do - the Duke rapes, Rigoletto rages, Gilda falls foolishly in love, Sparafucile murders. There is an added element of surreal projections on the architectural set which proved more a distraction than an enhancement."
 slug = "relentlessly-sinister-rigoletto-at-wolf-trap-opera"

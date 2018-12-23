@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
 date = "2017-07-28T09:19:00-04:00"
 lastmod = "2017-07-28T13:34:00-04:00"
+people = ["Danika Lorèn","Julie Nesrallah","Roger Honeywell"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501262715249/TSMF%20Opera.jpg"
 publishDate = "2017-07-28T13:00:00-04:00"
 short_description = "There were some serious highlights of the evening; Lorèn earned some well-deserved &quot;bravas&quot; after her stunning &quot;Caro nome&quot; from Rigoletto, and Honeywell made an impactful entrance with his first aria, &quot;Ah, la paterna mano&quot; from Verdi&#039;s Macbeth. Relyea made us lean in with his &quot;Il lacerato spirito&quot; (Don Carlo), and Nesrallah broke the ice with her lovely starter, &quot;Mon coeur s&#039;ouvre à ta voix&quot; (Samson et Dalila). Plus, honourary singer of the evening Nikki Chooi broke hearts with the Méditation from Massenet&#039;s Thaïs."
 slug = "in-review-tsmfs-night-at-the-opera"

@@ -1,7 +1,10 @@
 +++
+author = "Molly Simoneau"
 categories = "Review"
+companies = ["Wolf Trap Opera"]
 date = "2018-07-17T19:42:00-04:00"
 lastmod = "2018-07-18T08:01:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1531870945978/sqRomeo%26Juliette_MadisonLeonard_AlexanderMcKissick.jpg"
 publishDate = "2018-07-17T19:42:00-04:00"
 short_description = "The contemporary setting didn&#039;t feel like a gimmick but a way to make the characters that much more relatable, and the overall effect was that of a John Hughes movie. Muller&#039;s approach gets teenagers and how they feel emotion so intensely that it can turn fatal in an instant."
 slug = "swept-away-romo-et-juliette"

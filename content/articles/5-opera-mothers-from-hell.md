@@ -1,8 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Humour"
 date = "2017-05-12T15:58:00-04:00"
 lastmod = "2018-05-12T20:27:00-04:00"
 preamble = "They're mean, mad, and even murderous: call it sexism, or call it a series of very loud Freudian slips, but the creators of opera have never been too kind to mothers. Still, Mother's Day is here; despite the generally poor representation they have in our favourite operas, these crazy mamas sure do get some great music."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526171263966/mothers.jpg"
 publishDate = "2017-05-13T09:07:00-04:00"
 short_description = "They&#039;re mean, mad, and even murderous: call it sexism, or call it a series of very loud Freudian slips, but the creators of opera have never been too kind to mothers. Still, Mother&#039;s Day is fast approaching; despite the generally poor representation they have in our favourite operas, these crazy mamas sure do get some great music."
 slug = "5-opera-mothers-from-hell"

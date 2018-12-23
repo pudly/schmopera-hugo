@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Canadian Opera Company"]
 date = "2018-10-01T11:38:00-04:00"
 lastmod = "2018-10-01T13:47:00-04:00"
+people = ["Joyce El-Khoury","Joseph Kaiser","Gordon Bintner","Varduhi Abrahamyan"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538408590961/sq18-19-01-MC-D-0459.jpg"
 publishDate = "2018-10-01T11:45:00-04:00"
 short_description = "It&#039;s hard to get a sense of whether Tchaikovsky means us to see Onegin as an anti-hero, a villain, or some pitiful shell of a man (like Patrick Bateman&#039;s less murderous brother, Sean). By the skin of her teeth, Tatyana comes out of their whole uncomfortable relationship unscathed, but not without some doubt; she rightly turns Onegin down in the final scene, but it&#039;s frustrating that she only does so because she&#039;s married to someone else."
 slug = "eugene-onegin-or-the-time-tatyana-dodged-a-bullet"

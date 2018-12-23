@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
 date = "2016-03-20T13:19:00+00:00"
 lastmod = "2016-03-20T15:08:00+00:00"
+people = ["Barbara Hannigan","Christopher Purves","Victoria Simmonds","Tim Mead","Robert Murray"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458485674293/2016-03-20---Benjamin-Matthew-Lloyd.jpg"
 publishDate = "2016-03-20T14:55:00+00:00"
 short_description = "As one hopes, there were new layers uncovered with our second hearing of Written on Skin. Martin Crimp&#039;s libretto juxtaposes a story set in the 12th century, where a woman feels stifled in her marriage, and a man responds with a tightened grip on his wife, with images of the 21st century. Car-parks, airports, and concrete buildings pull against everything we know about Agnès: a woman married at 14, never taught to read or write, with a husband that confidently and explicitly declares her his property."
 slug = "still-stunning-written-on-skin"

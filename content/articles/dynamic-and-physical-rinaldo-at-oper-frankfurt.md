@@ -1,7 +1,11 @@
 +++
+author = "Blanche Israël"
 categories = "Review"
+companies = ["Oper Frankfurt"]
 date = "2017-09-19T11:07:00-04:00"
 lastmod = "2017-09-19T12:08:00-04:00"
+people = ["Jakub Józef Orliński","Elizabeth Reiter","Daniel Miroslaw","Karen Vuong","Brandon Cedel","Julia Dawson","Ted Huffman"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505835673687/2017-09-19---3353_rinaldo17_gross.jpg"
 publishDate = "2017-09-19T11:42:00-04:00"
 short_description = "Three tiny, nearly-nude dancers painted from head to toe acted as freaky humanoid henchwomen to Armida. These impish women did Armida&#039;s bidding, transforming at different points into a three-headed monster, a forest, or mermaids, and stopping time to control various characters. A particularly striking moment was when Rinaldo sang &quot;Abbruggio, avampo, e fremo&quot; while being tormented and yanked around by the imps on three long ropes. "
 slug = "dynamic-and-physical-rinaldo-at-oper-frankfurt"

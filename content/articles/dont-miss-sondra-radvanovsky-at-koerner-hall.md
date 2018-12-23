@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
+companies = ["Royal Conservatory of Music"]
 date = "2015-11-09T18:09:00-05:00"
 lastmod = "2015-11-10T11:25:00-05:00"
+people = ["Sondra Radvanovsky"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447110626778/2015-11-09---SondraR-Square.jpg"
 publishDate = "2015-11-10T11:20:00-05:00"
 short_description = "Her performance of Queen Elizabeth I stayed with me a long time after seeing the Canadian Opera Company&#039;s 2014 production of Roberto Devereux, so Sondra Radvanovsky&#039;s upcoming recital at Toronto&#039;s Koerner Hall is on my absolutely-do-not-miss list."
 slug = "dont-miss-sondra-radvanovsky-at-koerner-hall"

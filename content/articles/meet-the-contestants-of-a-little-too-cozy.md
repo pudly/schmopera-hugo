@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Against the Grain Theatre","Canadian Opera Company","The Banff Centre"]
 date = "2016-05-01T12:07:00+01:00"
 lastmod = "2016-05-02T21:36:00+01:00"
+people = ["Joel Ivany","Christopher Mokrzewski","Rihab Chaieb","Shantelle Przybylo","Aaron Sheppard","Clarence Frazer","Caitlin Wood","Cairan Ryan"]
 preamble = "\"Can you fall in love with someone you’ve never met?\" That's the big question on the minds of the four hopeful, love-seeking contestants on the dating game show [*A Little Too Cozy*](http://againstthegraintheatre.com/a-little-too-cozy/). Felicity and Dora have been getting to know Elmo and Fernando in that classically romantic way, texting. Soon, they'll join host Donald Alfonso and talent relations guru Despina for the finale episode of *A Little Too Cozy*, where they'll finally be able to go on a face-to-face date with the objects of their text-affections.\n\nWe asked Felicity, Elmo, Dora, and Fernando about how their romances have blossomed so far, and whether or not they think they'll find true love on *A Little Too Cozy*.\n\n[Click here](http://againstthegraintheatre.com/a-little-too-cozy/) for full details, and to [snag your seats](http://againstthegraintheatre.ticketleap.com/a-little-too-cozy/) for the live show at CBC Toronto's Studio 42."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462102262404/2016-05-01---Cozy-6---Don-Lee---The-Banff-Centre.jpg"
 publishDate = "2016-05-02T15:11:00+01:00"
 short_description = "&quot;Can you fall in love with someone you’ve never met?&quot; That&#039;s the big question on the minds of the four hopeful, love-seeking contestants on A Little Too Cozy. Felicity and Dora have been getting to know Elmo and Fernando in that classically romantic way, texting. Soon, they&#039;ll join host Donald Alfonso and talent relations guru Despina for the finale episode of A Little Too Cozy, where they&#039;ll finally be able to go on a face-to-face date with the objects of their text-affections."
 slug = "meet-the-contestants-of-a-little-too-cozy"

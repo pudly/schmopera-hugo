@@ -1,7 +1,11 @@
 +++
+author = "Loren Lester"
 categories = "Review"
+companies = ["Los Angeles Opera"]
 date = "2017-09-15T19:39:00-04:00"
 lastmod = "2017-09-16T09:19:00-04:00"
+people = ["Riccardo Massi","Ana Maria Martinez","Philip Cokorinos","Theo Hoffman","Kelley O'Connor","Liv Redpath","Amanda Woodbury","Brandon Jovanovich"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505520495584/2017-09-15---square---car_0638.jpg"
 publishDate = "2017-09-16T09:19:00-04:00"
 short_description = "If you&#039;re someone who has seen little or no opera, Carmen is perhaps the perfect place to start because it&#039;s a perfect show; the libretto and score are true partners. Although the show runs about three and a half hours, the drama is so compelling and the music is so beautiful, you never find yourself looking at your watch (or, depending on your age, the clock on your cellphone)."
 slug = "la-opera-scores-in-first-half-of-bizet-doubleheader"

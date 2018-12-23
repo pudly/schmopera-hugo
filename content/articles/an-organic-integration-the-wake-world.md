@@ -1,7 +1,11 @@
 +++
+author = "Erik Flaten"
 categories = "Review"
+companies = ["Opera Philadelphia"]
 date = "2017-09-19T14:54:00-04:00"
 lastmod = "2017-09-19T22:20:00-04:00"
+people = ["Maeve Höglund","Rihab Chaieb","David Hertzberg","R.B. Schlather","Samantha Hankey"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505848295680/2017-09-19---Square---20170917-img_8402.jpg"
 publishDate = "2017-09-19T21:25:00-04:00"
 short_description = "The audience literally follows Lola (Maeve Höglund) as she embarks on a wild love story with The Fairy Prince (Rihab Chaieb). Soprano Maeve Höglund sings exquisitely and brings an infectious wonder to the role. Rihab Chaieb has a rapturous voice, full of lush colors."
 slug = "an-organic-integration-the-wake-world"

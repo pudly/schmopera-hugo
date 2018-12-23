@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
 date = "2016-10-26T14:14:00+01:00"
 lastmod = "2016-10-28T09:46:00+01:00"
+people = ["Isaiah Bell","Christopher Mayell"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477487567472/2016-10-26---Microphone.jpg"
 publishDate = "2016-10-28T09:46:00+01:00"
 short_description = "How do I get away with writing about opera from within it, when I know the cast and creative team? How do I publish fair reviews? How do I address problems in different organizations, and decide whether or not to name names? Why do some in the opera industry resort to anonymity in order to say what they feel is true?"
 slug = "the-time-i-spilled-some-secrets-into-a-microphone"

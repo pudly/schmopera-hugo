@@ -1,7 +1,9 @@
 +++
+author = "Meghan Klinkenborg"
 categories = "Review"
 date = "2018-04-16T12:57:00-04:00"
 lastmod = "2018-04-17T20:03:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523897687427/sqOmahaOne180409ProvingUp4549.jpg"
 publishDate = "2018-04-17T20:03:00-04:00"
 short_description = "Personally, I felt like The Sodbuster was more of a symbolic spectre of death. Death must have been a powerful presence among settlers. It was an extremely perilous way of life, and people died frequently, often isolated and unknown. "
 slug = "confusing-creepy-proving-up"

@@ -1,7 +1,11 @@
 +++
+author = "Molly Simoneau"
 categories = "Review"
+companies = ["Washington National Opera"]
 date = "2018-11-11T16:55:00-05:00"
 lastmod = "2018-11-12T10:28:00-05:00"
+people = ["Alexander McKissick"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541973259107/sqNikolausSprinkAlexanderMcKissickandAnnaSorensenRaquelGonzalezrefusetoseparateinWNOsSilentNightproduction_creditTeresaWood.jpg"
 publishDate = "2018-11-11T23:24:00-05:00"
 short_description = "And I&#039;m sorry, but I did hate it. These are words I&#039;ve almost never uttered about an opera, and it doesn&#039;t feel good to be typing them now. The work&#039;s overall message - that if we can only see the humanity in our opponents, then we might be able to put an end to the violence of war - rings hollow when the fascism and authoritarianism that rose out of the ashes of the Great War (something the libretto only acknowledges in passing) are looming once again in the 21st century."
 slug = "am-i-allowed-to-hate-silent-night"

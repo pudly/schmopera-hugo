@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
 date = "2018-06-08T11:56:00-04:00"
 lastmod = "2018-06-09T21:35:00-04:00"
+people = ["Emily D'Angelo","Andrew Haji","John Brancy","Rihab Chaieb","Julien Van Mellaerts"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528473120267/CMIMFinals.jpg"
 publishDate = "2018-06-08T12:19:00-04:00"
 short_description = "Even for me, I was quite errant in my guesses for the winners of this year&#039;s Concours musical international de Montréal. "
 slug = "cmim-finals-one-out-of-three-aint-bad"

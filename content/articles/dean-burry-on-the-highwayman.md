@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Talisker Players","Canadian Children's Opera Company","Canadian Opera Company","Opera Lyra Ottawa","Toronto Masque Theatre","Against the Grain Theatre"]
 date = "2016-04-22T13:43:00+01:00"
 lastmod = "2016-04-22T14:38:00+01:00"
+people = ["Dean Burry","Krisztina Szabó","Aaron Durand","Jacqueline Woodley"]
 preamble = "On May 3 and 4 at Toronto's Trinity-St. Paul's Centre, the [Talisker Players](/scene/companies/talisker-players/) present [*Cross'd by the Stars*](http://www.taliskerplayers.ca/crossedbystars.html), a concert filled with music about \"soulmates who are fated to be torn apart.\" Mezzo-soprano [Krisztina Szabó](/scene/people/krisztina-szabo/), baritone [Aaron Durand](/talking-with-singers-aaron-durand/), and reader Stewart Arnott join the Talisker Players for works by Purcell, Gluck, Bernstein, Mahler, and the premiere of [Dean Burry](/scene/people/dean-burry/)'s *The Highwayman*, based on the poem by Alfred Noyes.\n\nWe spoke with Burry about his new piece, about having it premiered by Szabó, a noted champion of new music, and on what he has learned about writing for the voice.\n\nFor full details and ticket information for *Cross'd by the Stars*, follow our box office links below."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461329041293/2016-04-22---Burry-pic.jpg"
 publishDate = "2016-04-22T13:55:00+01:00"
 short_description = "On May 3 and 4 at Toronto&#039;s Trinity-St. Paul&#039;s Centre, the Talisker Players present Cross&#039;d by the Stars, a concert filled with music about &quot;soulmates who are fated to be torn apart.&quot; Mezzo-soprano Krisztina Szabó, baritone Aaron Durand, and reader Stewart Arnott join the Talisker Players for works by Purcell, Gluck, Bernstein, Mahler, and the premiere of Dean Burry&#039;s The Highwayman, based on the poem by Alfred Noyes."
 slug = "dean-burry-on-the-highwayman"

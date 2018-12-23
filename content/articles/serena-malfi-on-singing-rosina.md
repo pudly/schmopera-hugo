@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Canadian Opera Company"]
 date = "2015-04-15T22:30:00-04:00"
 lastmod = "2015-04-16T22:31:00-04:00"
+people = ["Serena Malfi"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429150628674/0e4e2f_0acaa6cb45c406a692b969cf364d4e5c.jpg_srb_p_600_688_75_22_0.50_1.20_0.00_jpg_srb"
 publishDate = "2015-04-16T09:00:00-04:00"
 short_description = "Italian mezzo-soprano Serena Malfi has been in Toronto for the last month (enjoying the weather, I&#039;m sure), preparing to sing Rosina with the Canadian Opera Company, in Els Comediants&#039; production of The Barber of Seville, which opens. She was delightful to chat with; I asked her a bit about singing the role of Rosina, and the fun of switching from trouser roles into dresses. "
 slug = "serena-malfi-on-singing-rosina"

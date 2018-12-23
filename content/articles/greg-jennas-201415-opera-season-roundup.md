@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Humour"
+companies = ["Tapestry Opera","Indie Opera T.O.","Against the Grain Theatre","Canadian Opera Company","Opera Atelier"]
 date = "2015-06-20T11:10:00-04:00"
 lastmod = "2015-06-21T08:56:00-04:00"
+people = ["Meghan Lindsay","Peter Barrett","Krisztina Szabó","Lauren Segal","Jacqueline Woodley","Aprile Millo","Gerald Finley","Simone Osborne","Christopher Mokrzewski","Joel Ivany","Stephen Hegedus"]
 preamble = "[Greg Finney](/scene/people/gregory-finney/) and I caught plenty of shows together over the 2014/15 opera season in Toronto, and we like to join forces with our reviews to see where we agree, disagree, come to fisticuffs, etc. I figured a recap of our most memorable of the year was in order, so, over some wine, Greg & I chat about what shows, and which artists, we both loved."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434851073707/IMG_20150526_185905-2.jpg"
 publishDate = "2015-06-21T08:00:00-04:00"
 short_description = "Greg Finney and I caught plenty of shows together over the 2014/15 opera season in Toronto, and we like to join forces with our reviews to see where we agree, disagree, come to fisticuffs, etc. I figured a recap of our most memorable of the year was in order, so, over some wine, Greg &amp; I chat about what shows, and which artists, we both loved."
 slug = "greg-jennas-201415-opera-season-roundup"

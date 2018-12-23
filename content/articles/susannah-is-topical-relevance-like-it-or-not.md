@@ -1,7 +1,10 @@
 +++
+author = "Tracy Monaghan"
 categories = "Review"
+companies = ["Nashville Opera"]
 date = "2018-04-11T09:39:00-04:00"
 lastmod = "2018-04-12T22:42:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523586467428/sq---SE5D1099.jpg"
 publishDate = "2018-04-12T22:29:00-04:00"
 short_description = "Susannah is the all-too-common story of a woman, accused and ostracized by her community, raped, and left with more questions than answers, and even less justice. Floyd&#039;s music, at once both modern and nostalgic, presents a challenge to its musicians that Nashville Opera&#039;s singers took on and largely conquered."
 slug = "susannah-is-topical-relevance-like-it-or-not"

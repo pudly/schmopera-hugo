@@ -1,8 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Humour"
 date = "2016-04-01T10:23:00+01:00"
 lastmod = "2016-04-01T12:33:00+01:00"
 preamble = "Photo: [NPS Photo/Ken Conger](https://creativecommons.org/licenses/by/2.0/legalcode) via [Flickr](https://www.flickr.com/photos/denalinps/6968121996). "
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459509424816/2016-04-01---Bear.jpg"
 publishDate = "2016-04-01T12:25:00+01:00"
 short_description = "When a few late-night serenades ended in street brawls between amateur guitarists and the husbands of the ladies at these windows, the police gave up their bribes and banned strummed instruments played by young men after sunset."
 slug = "lost-history-operas-most-famous-premieres"

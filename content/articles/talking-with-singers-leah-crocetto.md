@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Canadian Opera Company","The Metropolitan Opera","San Francisco Opera"]
 date = "2016-01-04T17:02:00-05:00"
 lastmod = "2016-01-05T10:39:00-05:00"
+people = ["Leah Crocetto"]
 preamble = "American soprano [Leah Crocetto](/scene/people/leah-crocetto/) is a Cardiff BBC Singer of the World (2011), a Metropolitan Opera National Council Audition Grand Finals Winner (2010), a former Adler fellow at San Francisco Opera, and this season, she made her [Metropolitan Opera](/scene/companies/the-metropolitan-opera/) debut as Liù in Franco Zeffirelli's iconic production of *Turandot*. In the spring, she heads to the [Canadian Opera Company](/scene/companies/canadian-opera-company/) to sing Anna in Rossini's *Maometto II*, a role she's reprising in David Alden's production, originally at [Santa Fe Opera in 2012](http://www.nytimes.com/2012/07/31/arts/music/a-rossini-masterwork-ahead-of-its-time.html).\n\nBetween performances of *Turandot*, Leah Crocetto took the time to chat about singing Rossini, traveling a whole lot, and how all the hard work pays off."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451944928176/2016-01-05---Leah-Crocetto.jpg"
 publishDate = "2016-01-05T09:00:00-05:00"
 short_description = "American soprano Leah Crocetto is a Cardiff BBC Singer of the World, a Metropolitan Opera National Council Audition Grand Finals Winner, a former Adler fellow at San Francisco Opera, and this season, she made her Metropolitan Opera debut as Liù in Franco Zeffirelli&#039;s iconic production of Turandot."
 slug = "talking-with-singers-leah-crocetto"

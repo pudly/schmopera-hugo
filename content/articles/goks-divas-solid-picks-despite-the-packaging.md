@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
 date = "2017-03-14T15:49:00+00:00"
 lastmod = "2017-03-15T10:17:00+00:00"
+people = ["Ailyn Pérez","Stephen Costello","Nina Stemme"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489507964077/2017-03-14---Gok-Wan.jpg"
 publishDate = "2017-03-15T09:45:00+00:00"
 short_description = "For folks like us - who often get accused of opera snobbery - hearing Wan talk about how great the &quot;songs&quot; are, and singling out picks like &quot;Summertime&quot; from Porgy and Bess can be annoying. But in reality, Wan is choosing smart talking points for interviews on mainstream TV."
 slug = "goks-divas-solid-picks-despite-the-packaging"

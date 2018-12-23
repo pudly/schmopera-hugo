@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Canadian Opera Company"]
 date = "2014-10-12T09:00:00-04:00"
 lastmod = "2015-05-30T20:23:00-04:00"
+people = ["Simone Osborne","Gerald Finley","Lauren Segal","Robert Gleadow"]
 preamble = "[Greg](http://schmopera.com/author/greg/) and I went together to the COC's current production of Verdi's _Falstaff_, starring the cream of the Canadian crop. We decided to combine forces and write a joint review. Who loved what? Read on to see."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433031502982/Falstaff-MC-1533.jpg"
 publishDate = "2014-10-12T09:00:00-04:00"
 short_description = "Greg and I went together to the COC&#039;s current production of Verdi&#039;s Falstaff, starring the cream of the Canadian crop. We decided to combine forces and write a joint review. Who loved what? Read on to see."
 slug = "falstaff-he-saidshe-said"

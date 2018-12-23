@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
+companies = ["Royal Conservatory of Music"]
 date = "2016-01-14T15:22:00-05:00"
 lastmod = "2016-01-17T12:08:00-05:00"
+people = ["Dmitri Hvorostovsky"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452811300420/2016-01-14---Dmitri-Hvorotovsky.jpg"
 publishDate = "2016-01-17T12:08:00-05:00"
 short_description = "Hvorostovsky has cancelled several February dates for Il trovatore at the Metropolitan Opera, but we all hope he&#039;s feeling well enough to sing, at Toronto&#039;s Koerner Hall, if only for the selfish pleasure of hearing his voice (and maybe catching a glimpse of that hair)."
 slug = "dont-miss-dmitri-hvorostovky-at-koerner-hall"

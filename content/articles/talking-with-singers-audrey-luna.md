@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["The Metropolitan Opera","Royal Opera House"]
 date = "2016-09-16T15:01:00+01:00"
 lastmod = "2016-09-19T19:12:00+01:00"
+people = ["Audrey Luna"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474035544822/2016-09-16---Audrey-Luna-credit-Brian-Kuhlmann.jpg"
 publishDate = "2016-09-19T09:22:00+01:00"
 short_description = "&quot;I can be left depleted after something as intense as premiering Exterminating Angel,&quot; says Luna. She relishes the chance to return home to Hawaii, which grounds her between high-paced singing gigs. &quot;In some way, it just fills my cup back up, and then I&#039;m ready to go out again.&quot;"
 slug = "talking-with-singers-audrey-luna"

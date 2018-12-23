@@ -1,7 +1,11 @@
 +++
+author = "Greg Finney"
 categories = "News"
+companies = ["Opera By Request"]
 date = "2017-05-16T13:46:00-04:00"
 lastmod = "2017-05-17T09:21:00-04:00"
+people = ["Gregory Finney"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494986275999/2017-05-16---Shookhoff.jpg"
 publishDate = "2017-05-17T08:53:00-04:00"
 short_description = "Shookhoff, whose own operatic career spans four decades and includes opera companies on both sides of the Atlantic as well as university, festival, and music theatre engagements, sees OBR as a way to give back to the operatic community and to provide opportunities for emerging talent, just as established mentors (including Canadian icons Herman Geiger-Torel, Ernesto Barbini, and Mario Bernardi) provided those opportunities for artists of his generation."
 slug = "celebrating-10-years-of-opera-by-request"

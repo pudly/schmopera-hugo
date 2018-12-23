@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
+companies = ["Opéra National de Paris"]
 date = "2015-04-10T21:30:00-04:00"
 lastmod = "2015-04-10T21:30:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428715691598/StephaneLissner-pc-.jpg"
 publishDate = "2015-03-24T09:30:00-04:00"
 short_description = "Do musically untrained artistic directors add to the problem of alienation between opera and its audiences? Or are opera companies right to leave arts administration to those who make it their day job, and leave the art to the artists?"
 slug = "does-a-good-artistic-director-read-music"

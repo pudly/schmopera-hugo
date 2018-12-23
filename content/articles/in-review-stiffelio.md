@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["VOICEBOX: Opera in Concert"]
 date = "2014-03-25T08:00:00-04:00"
 lastmod = "2015-04-24T09:47:00-04:00"
+people = ["Ernesto Ramirez","Laura Albino","Geoffrey Sirett"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429882789900/Stiffelio-764x1024.jpg"
 publishDate = "2014-03-25T08:00:00-04:00"
 short_description = "On Sunday, I attended the final show of the season by Voicebox: Opera in Concert at the St. Lawrence Centre for the Arts. They presented Verdi&#039;s Stiffelio, one of his lesser-known opera written after Nabucco and Ernani, but before La traviata and La forza del destino. I&#039;d certainly never heard of it, so I was curious."
 slug = "in-review-stiffelio"

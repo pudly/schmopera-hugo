@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Vancouver Opera","Opera on the Avalon"]
 date = "2015-07-20T16:24:00-04:00"
 lastmod = "2015-07-27T08:02:00-04:00"
+people = ["Kimberley-Ann Bartczak"]
 preamble = "[Kimberley-Ann Bartzcak]() is a current member of the [Yulanda M. Faris Young Artists Program](http://www.vancouveropera.ca/about/artists/young_artists_program) at [Vancouver Opera](/scene/companies/vancouver-opera/); at VO, she's a pianist, coach and répétiteur, but she's also a driven young conductor who's beginning to make waves. I always thing young conductors are some of the bravest folks around (not to mention a woman in what's arguably a man's world), so I was curious to ask Kim about her experience on the podium. She chats about French opera, and what singers and instruments have in common (hint: everything)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437422287673/Black-and-white.jpg"
 publishDate = "2015-07-27T08:02:00-04:00"
 short_description = "Kimberley-Ann Bartzcak is a current member of the Yulanda M. Faris Young Artists Program at Vancouver Opera; at VO, she&#039;s a pianist, coach and répétiteur, but she&#039;s also a driven young conductor who&#039;s beginning to make waves. I always thing young conductors are some of the bravest folks around (not to mention a woman in what&#039;s arguably a man&#039;s world), so I was curious to ask Kim about her experience on the podium. "
 slug = "spotlight-on-kimberleyann-bartczak"

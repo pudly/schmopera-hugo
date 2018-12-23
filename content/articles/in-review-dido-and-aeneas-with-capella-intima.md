@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
 date = "2015-04-10T23:00:00-04:00"
 lastmod = "2015-04-10T23:00:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428720890950/Jennifer-Enns-Modolo.jpg"
 publishDate = "2015-03-07T10:14:00-05:00"
 short_description = "Capella Intima showed off some incredible solo and ensemble singing, supported by the exciting chamber ensemble of the Gallery Players of Niagara (Rona Goldensher and Julie Baumgartel, violins, Brandon Chui, viola, Margaret Gay, cello, Borys Medicky, harpsichord)."
 slug = "in-review-dido-and-aeneas-with-capella-intima"

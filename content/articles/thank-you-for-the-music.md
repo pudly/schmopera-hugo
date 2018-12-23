@@ -1,7 +1,10 @@
 +++
+author = "Greg Finney"
 categories = "Review"
+companies = ["Toronto Symphony Orchestra"]
 date = "2016-10-07T10:36:00+01:00"
 lastmod = "2016-10-07T10:59:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475833511541/2016-10-07---Rajaton-Steven-Reineke-Jag-Photography.jpg"
 publishDate = "2016-10-07T10:46:00+01:00"
 short_description = "I would highly recommend checking out the TSO Pops series. It&#039;s a great way to stay in touch with the orchestra and their incredible versatility, but it&#039;s also nice to sit and relax and hear some of your favourite tunes from the pop side of life. I love Mahler too, but every now and again one needs a little disco in their life."
 slug = "thank-you-for-the-music"

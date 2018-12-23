@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
 date = "2018-05-28T21:53:00-04:00"
 lastmod = "2018-05-29T20:16:00-04:00"
+people = ["Andrew Haji","Rihab Chaieb","Lauren Margison","Magali Simard-Galdès","Emily D'Angelo"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527558763427/PlacedesArts.jpg"
 publishDate = "2018-05-29T09:28:00-04:00"
 short_description = "Competitions are a funny thing. They demand a different set of skills than a performance in an opera or recital, and with the CMIM&#039;s expanded, online audience, the pressure for perfection is at its peak. A competition doesn&#039;t always give a good indication of what a singer does well - they may be an entirely different beast in performance-mode - but it&#039;s a fascinating snapshot into what a singer is doing at a specific point in their career."
 slug = "the-2018-cmim-begins"

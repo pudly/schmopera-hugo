@@ -1,7 +1,9 @@
 +++
+author = "Collin Shay"
 categories = "Review"
 date = "2017-03-26T14:20:00+01:00"
 lastmod = "2017-03-26T14:37:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490534530419/2017-03-26---Chris-Thile.jpg"
 publishDate = "2017-03-26T14:25:00+01:00"
 short_description = "The virtuosity of his mandolin playing reminded us of the pristine coloratura of singers like Marilyn Horne or Joan Sutherland - every note is perfect, and every note has purpose. We hear every note in its exact place, and even as Thile was playing in just one voice, we heard how the harmony progressed."
 slug = "in-review-chris-thile-at-wigmore-hall"

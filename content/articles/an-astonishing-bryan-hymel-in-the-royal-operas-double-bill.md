@@ -1,7 +1,11 @@
 +++
+author = "Vivian Darkbloom"
 categories = "Review"
+companies = ["Royal Opera House"]
 date = "2017-12-04T19:11:00-05:00"
 lastmod = "2018-02-12T09:48:00-05:00"
+people = ["Bryan Hymel","Elīna Garanča","Carmen Giannattasio","Mark S. Doss"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512432377325/2017-12-04---square---2810ashm_368-Bryan-Hymel-as-CANIO-in-Pagliacci---ROH.-PHOTO-BY-Catherine-Ashmore.jpg"
 publishDate = "2017-12-04T20:11:00-05:00"
 short_description = "The singing, in particular, was phenomenal. Elīna Garanča was nothing short of flawless as Santuzza. Her voice was warm, with a steely edge and full of raw emotional power. She made everything she could have out of the character, singing with true beauty and mastery. Opposite her, Bryan Hymel sang a stunning Turiddu."
 slug = "an-astonishing-bryan-hymel-in-the-royal-operas-double-bill"

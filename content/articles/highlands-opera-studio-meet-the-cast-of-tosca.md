@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Highlands Opera Studio"]
 date = "2015-04-12T22:21:00-04:00"
 lastmod = "2015-04-13T22:07:00-04:00"
+people = ["Michael Robert-Broder","Keith Lam"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428891597932/IMG_20140816_165729.jpg"
 publishDate = "2014-08-22T10:21:00-04:00"
 short_description = "I took a trip up to Haliburton, ON, to hang out with the folks at Highlands Opera Studio. The summer opera program is putting up Tosca, beginning August 22nd, and I had the chance to speak with the singers. In the first of two videos about HOS’ Tosca, you’ll meet the lead characters (your Toscas, your Cavaradossis, your Scarpias). You even get to hear some singing."
 slug = "highlands-opera-studio-meet-the-cast-of-tosca"

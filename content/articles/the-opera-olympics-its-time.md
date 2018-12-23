@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Humour"
 date = "2016-08-13T17:20:00+01:00"
 lastmod = "2016-08-15T09:49:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471107639903/2016-08-13---Olympics.jpg"
 publishDate = "2016-08-15T09:02:00+01:00"
 short_description = "But in competition, singers are judged on the big picture that comes out of countless achievements in vocal technique, foreign language skills, dramatic training and general charisma (can that be taught?). So, what if, like the Olympics, competitions were broken down into these smaller parts? Like gymnasts or track-and-field stars?"
 slug = "the-opera-olympics-its-time"

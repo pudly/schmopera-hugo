@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Canadian Opera Company","Canadian Opera Company Ensemble Studio"]
 date = "2015-11-04T13:12:00-05:00"
 lastmod = "2015-11-04T21:28:00-05:00"
+people = ["Lauren Eberwein","Pascale Spinney","Samantha Pickett","Bruno Roy","Marjorie Maltais","Eliza Johnson","Emily D'Angelo","Zachary Read","Joyce El-Khoury","Andrew Haji"]
 preamble = "Last night, I went with [Greg Finney](https://twitter.com/gregory_finney) to [Centre Stage](http://coccentrestage.ca/), the [Canadian Opera Company](/scene/companies/canadian-opera-company/)'s Ensemble Studio Competition. The competition is the culmination of nationwide auditions, narrowing the 120 applicants down to eight young Canadian singers. Dressed in gorgeous gowns and suits (gifted to them from The Hudson's Bay Company's Queen Street store), finalists sing on the Four Seasons Centre stage, with the COC Orchestra led by Music Director Johannes Debus. It's a pretty big deal for these aspiring young singers.\n\nThe evening is separated into two rounds, one for the panel of judges and a private audience, followed by a second round for the public. This year, Greg and I were lucky enough to hear both rounds, and so we were each able to get a slightly broader look at these young artists. Here's what we thought, ladies first:"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446663138166/2015-11-04---Centre-Stage-Winners---Square.jpg"
 publishDate = "2015-11-04T14:26:00-05:00"
 short_description = "Last night, I went with Greg Finney to Centre Stage, the Canadian Opera Company&#039;s Ensemble Studio Competition. The competition is the culmination of nationwide auditions, narrowing the 120 applicants down to eight young Canadian singers. Dressed in gorgeous gowns and suits (gifted to them from The Hudson&#039;s Bay Company&#039;s Queen Street store), finalists sing on the Four Seasons Centre stage, with the COC Orchestra led by Music Director Johannes Debus. It&#039;s a pretty big deal for these aspiring young singers."
 slug = "she-saidhe-said-centre-stage-2015"

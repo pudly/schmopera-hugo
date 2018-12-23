@@ -1,11 +1,11 @@
 +++
 date = "2017-09-14T09:24:00-04:00"
 lastmod = "2017-09-14T09:24:00-04:00"
-name = "Andrew Schneider"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505395382825/_08A1428.jpg"
 publishDate = "2017-09-14T09:24:00-04:00"
 short_bio = "A Houston native, Andrew Schneider is a pianist, harpsichordist, sometime organist, composer, vocal coach, aspiring conductor, and Renaissance scholar. He obtained his B.Mus. in composition at Rice University. \n\nHe has also served as organist at St. Michael Catholic Church in Houston from 2012-16 and as a staff accompanist at Lone Star College-Kingwood since 2014. As a pianist, he has played as part of the Texas Medical Center Orchestra. He more recently made his music directorial debut in a 2013 production of *Sweeney Todd*, and his opera coaching debut in a 2014 production of *Ariadne auf Naxos*."
 slug = "andrew-schneider"
+title = "Andrew Schneider"
 +++
 
 A Houston native, Andrew Schneider is a pianist, harpsichordist, organist, conductor, composer, music copyist, vocal and instrumental coach. He obtained his B.Mus. in composition at Rice University. In 2009, he was a finalist in the ASCAP Morton Gould Young Composers Competition. His compositions, including a growing body of music for educational-level ensembles, evince his complete faith in the relevance of traditional musical aesthetics and

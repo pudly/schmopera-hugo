@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Opera Atelier"]
 date = "2018-10-25T23:35:00-04:00"
 lastmod = "2018-11-02T12:56:00-04:00"
+people = ["Colin Ainsworth","Mireille Asselin","Meghan Lindsay","Allyson McHardy"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540562072716/sq181023_40670.jpg"
 publishDate = "2018-10-26T10:04:00-04:00"
 short_description = "Thank goodness for one-act operas. They&#039;re like a shot of great espresso, or a single chocolate truffle - the kind of indulgence that&#039;s short-lived, but immediate and totally satisfying. Among all the lengthy, luxuriating opera we see - all the da capo arias and all the Wagner - compact one-acts like Actéon and Pygmalion allow even the most hardcore of opera fans to admit that their attention spans don&#039;t always like to be stretched so thin."
 slug = "feminism-confetti-ateliers-triplebill"

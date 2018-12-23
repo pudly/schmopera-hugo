@@ -1,7 +1,11 @@
 +++
+author = "Meghan Klinkenborg"
 categories = "Review"
+companies = ["Opera Omaha"]
 date = "2018-10-21T12:36:00-04:00"
 lastmod = "2018-10-21T21:33:00-04:00"
+people = ["Leah Partridge","Jonathan Burton","Alexander Elliott","Todd Thomas"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540156687491/sqTGradyPhoto-9143.jpg"
 publishDate = "2018-10-21T21:05:00-04:00"
 short_description = "In the second act, it felt like Burton and Partridge were no longer holding back dramatically, and in their final confrontation during the play within a play, both singers delivered the most heart wrenching vocals of the opera. Their struggle was rife with emotional and physical violence, and predictably, it did not end well for Nedda or her lover, Silvio."
 slug = "a-frighteningly-timeless-story-of-abuse-pagliacci"

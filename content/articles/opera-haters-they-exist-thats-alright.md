@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Humour"
 date = "2016-03-14T09:26:00+00:00"
 lastmod = "2016-03-15T09:55:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457983373751/2016-03-12---Haters.jpg"
 publishDate = "2016-03-15T09:28:00+00:00"
 short_description = "Sure, it&#039;s disheartening, a bit maddening, and confusing, to stumble across someone who just really doesn&#039;t like opera. We want to challenge their opposition, ask them if they&#039;ve ever been to an opera, heard anyone sing it besides Katherine Jenkins or Andrea Bocelli. The truth is, they may have heard the best of the best singing Verdi, Wagner, and Mozart, and they still hate opera."
 slug = "opera-haters-they-exist-thats-alright"

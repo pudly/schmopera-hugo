@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["The Santa Fe Opera"]
 date = "2017-07-31T10:28:00-03:00"
 lastmod = "2017-08-05T21:16:00-03:00"
+people = ["Stephen Martin"]
 preamble = "Tenor [Stephen Martin](/scene/people/stephen-martin/) is a returning member of the Apprentice Singer program at [Santa Fe Opera](/scene/companies/the-santa-fe-opera/), after spending the 2016 season as an understudy in *Roméo et Juliette* and *Capriccio*. This summer, he sings Normanno in SFO's *Lucia di Lammermoor*, sharing the stage with [Brenda Rae](/talking-with-singers-brenda-rae/) in the title role, Mario Chang as Edgardo, and [Zachary Nelson](/talking-with-singers-zachary-nelson/) as Enrico.\n\nMartin chats about the high expectations of the Apprentice Singer program and its participants, and the valuable opportunities for professional exposure at SFO."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501508289373/bw_StephenMartin.jpg"
 publishDate = "2017-08-05T21:16:00-03:00"
 short_description = "&quot;Of course there is also the house audition, where directors, agents, and other music staff from opera houses from the United States and around the world attend to hear each apprentice sing an aria. It&#039;s huge exposure for us.&quot;"
 slug = "young-singers-in-santa-fe-stephen-martin"

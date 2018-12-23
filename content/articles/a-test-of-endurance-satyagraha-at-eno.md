@@ -1,7 +1,11 @@
 +++
+author = "Vivian Darkbloom"
 categories = "Review"
+companies = ["English National Opera"]
 date = "2018-02-02T09:26:00-05:00"
 lastmod = "2018-02-02T11:12:00-05:00"
+people = ["Toby Spence"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517580353838/sq---ENO-Satyagraha-Toby-Spence-ENO-Chorus-3-Donald-Cooper.jpg"
 publishDate = "2018-02-02T09:26:00-05:00"
 short_description = "Unfortunately, we have come to expect this lack of attention to aesthetics in the big opera houses, and as theatre and film move strides across the artistic plane, opera tends to fall flat on its face on its reliance with tradition, outdated gimmicks, and its clumsy and naive understanding of mass audience appeal."
 slug = "a-test-of-endurance-satyagraha-at-eno"

@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
+companies = ["Opera 5","The Bicycle Opera Project","Against the Grain Theatre","Canadian Opera Company","Tapestry Opera","l'Opéra de Montréal"]
 date = "2015-04-10T21:13:00-04:00"
 lastmod = "2015-04-10T21:13:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428714696371/UncleJohn-Audience.jpg"
 publishDate = "2015-03-27T09:13:00-04:00"
 short_description = "I&#039;m always an advocate of up-close theatre, but the need for large-scale, overwhelming productions of Verdi, Wagner, and the likes, is legitimate. But what would happen if Canada&#039;s larger opera companies took a portion of their productions out of their main stage?"
 slug = "the-case-for-nomadic-opera"

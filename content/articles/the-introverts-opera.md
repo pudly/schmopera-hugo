@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
 date = "2015-04-10T21:39:00-04:00"
 lastmod = "2015-04-10T21:39:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428716257676/Introvert-pc-Shutterstock.jpg"
 publishDate = "2015-03-20T15:39:00-04:00"
 short_description = "opera is a fantastic industry in which to be an introvert. Those flashy singers are a small proportion of the team of people it takes to put up an opera. Assuming people fit into two broad groups, extroverts and introverts, I&#039;d put most of the coaches, stage managers, designers, and orchestra musicians into the latter group."
 slug = "the-introverts-opera"

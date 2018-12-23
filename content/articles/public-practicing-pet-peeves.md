@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Humour"
 date = "2015-09-21T16:37:00+01:00"
 lastmod = "2016-08-12T09:38:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470991039278/2016-08-12---Bagpipes.jpg"
 publishDate = "2015-09-22T13:30:00+01:00"
 short_description = "Singers, I love you all. You&#039;re brave folks, putting in literally endless hours of practice, taking all the criticism with a smile, getting up in front of bored-faced crowds to bare your souls. I always admire you guys, and never envy your jobs. But singers, let&#039;s chat about singing in undesignated areas."
 slug = "public-practicing-pet-peeves"

@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
+companies = ["The Metropolitan Opera"]
 date = "2014-08-01T17:01:00-04:00"
 lastmod = "2015-04-23T14:26:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429813563990/Black%20Box.jpg"
 publishDate = "2014-08-01T17:01:00-04:00"
 short_description = "Human curiosity should be to opera companies what human insecurity is to the beauty product industry. We all want to snoop, take behind-the-scenes tours, figure out how that magician created that cool illusion. Hell, even I often prefer to watch a show from backstage. It&#039;s special, and unique."
 slug = "curiosity-and-the-met"

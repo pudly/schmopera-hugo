@@ -1,7 +1,11 @@
 +++
+author = "Vivian Darkbloom"
 categories = "Review"
+companies = ["Royal Opera House"]
 date = "2018-01-10T10:25:00-05:00"
 lastmod = "2018-01-10T20:26:00-05:00"
+people = ["Michael Volle","David Butt Philip","Malin Byström"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515597451342/2018-01-10---sq---0460-DUNCAN-MEADOWS-AS-EXECUTIONER%2C-MALIN-BYSTRO%CC%88M-AS-SALOME-ROH.-PHOTO-BY-CLIVE-BARDA.jpg"
 publishDate = "2018-01-10T18:13:00-05:00"
 short_description = "I didn&#039;t love the conceptual presentation of the Dance of the Seven Veils. It felt contrived and obvious, with its Freudian symbolism. I wanted more mystery, more horror and more beauty from it. Like the set, it felt distinctly 21st-century. It lacked the fragrance and uncomfortable beauty of Strauss&#039; score and the original text itself."
 slug = "strange-sensual-energy-salome-at-roh"

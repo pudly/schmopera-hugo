@@ -1,7 +1,11 @@
 +++
+author = "Greg Finney"
 categories = "Review"
+companies = ["Coleman Lemieux & Compagnie","Against the Grain Theatre"]
 date = "2016-05-13T11:39:00+01:00"
 lastmod = "2016-05-13T15:12:00+01:00"
+people = ["Geoffrey Sirett","Alexander Dobson","Steven Philcox"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463136125511/2016-05-13---AGAINST-NATURE-Laurence-Lemieux-Geoffrey-Sirett_W0A3159_against-nature.jpg"
 publishDate = "2016-05-13T11:46:00+01:00"
 short_description = "The overall effect of the piece was enchanting. A moving piece of lyrical theatre that is a perfect fit for this time of year. Beautiful music with entrancing movement in a charming space that tells a nuanced and layered story. Toronto has had a great spring so far with regards to performing arts and events, and Against Nature is one of the reasons."
 slug = "in-review-against-nature"

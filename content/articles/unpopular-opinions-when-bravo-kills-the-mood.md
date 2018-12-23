@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
 date = "2017-03-19T11:23:00+00:00"
 lastmod = "2017-03-19T12:11:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489925147264/2017-03-19---Bravo.jpg"
 publishDate = "2017-03-19T12:11:00+00:00"
 short_description = "Frankly, a &quot;bravo&quot; best follows an aria with a great high note near the end, or some stellar coloratura, or one of those spinning-to-the-bitter-end final notes that singers love to do in bel canto. In other cases, where an aria should leave you sunken in your seat, fading out into the sounds of a pin-drop silence, shouting &quot;bravo&quot; is just obscene."
 slug = "unpopular-opinions-when-bravo-kills-the-mood"

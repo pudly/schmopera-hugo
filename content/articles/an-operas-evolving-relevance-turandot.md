@@ -1,7 +1,11 @@
 +++
+author = "Hannah De Priest"
 categories = "Review"
+companies = ["Lyric Opera of Chicago"]
 date = "2018-01-14T20:16:00-05:00"
 lastmod = "2018-01-15T12:53:00-05:00"
+people = ["Amber Wagner","Janai Brugger","Stefano La Colla","Zachary Nelson"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515978720270/sq---Josh-Lovell_Amber-Wagner_TURANDOT_LYR171202_318_c.Todd-Rosenberg.jpg"
 publishDate = "2018-01-14T20:16:00-05:00"
 short_description = "Ultimately, the vision of &quot;China&quot; that Puccini articulated with his Turandot is pure fantasy. While his scrupulousness in incorporating elements of Chinese music-making into his score is self-evident, there is little to suggest the other trappings of Turandot are anything other than an over-eagerness on the part of Puccini and his librettists to produce a spectacle that no one had seen before."
 slug = "an-operas-evolving-relevance-turandot"

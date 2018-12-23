@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Canadian Opera Company"]
 date = "2015-04-11T20:00:00-04:00"
 lastmod = "2015-04-11T20:00:00-04:00"
+people = ["Jane Archibald","Liz Upchurch"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428796689661/JaneArchibald.jpg"
 publishDate = "2015-02-11T09:00:00-05:00"
 short_description = "Out of this season’s Free Concert Series in the Richard Bradshaw Amphitheatre, Jane Archibald‘s recital with Liz Upchurch was one I was really looking forward to. I was by no means disappointed. Jane’s is a voice I’ve admired since I heard her as Zerbinetta in her COC debut in 2011."
 slug = "in-review-jane-archibald-and-liz-upchurch"

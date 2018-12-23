@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
 date = "2015-12-22T19:22:00-05:00"
 lastmod = "2015-12-28T11:23:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451315235708/2015-12-28---Netflix.jpg"
 publishDate = "2015-12-28T10:45:00-05:00"
 short_description = "The idea that companies are teasing, luring new opera lovers to their theatres with a taste of Verdi online, is outdated. Opera will begin to be consumed in video form only; purists can argue all they want that this is a lesser experience (and I&#039;d agree with them), but the argument won&#039;t persuade people who aren&#039;t already into opera. "
 slug = "theres-still-no-opera-on-netflix"

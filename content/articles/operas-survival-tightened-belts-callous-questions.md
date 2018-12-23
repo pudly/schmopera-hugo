@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
+companies = ["Canadian Opera Company","English National Opera","The Bicycle Opera Project","Toy Piano Composers","Against the Grain Theatre","Tapestry Opera"]
 date = "2016-03-17T17:21:00+00:00"
 lastmod = "2016-03-18T16:32:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458317032217/2016-03-18---Growth.jpg"
 publishDate = "2016-03-18T16:23:00+00:00"
 short_description = "All of this is nearing an uncomfortable suggestion. We ask, honestly and without further insinuations: when was the last time that the chorus, or the orchestra, was the most memorable element of an opera?"
 slug = "operas-survival-tightened-belts-callous-questions"

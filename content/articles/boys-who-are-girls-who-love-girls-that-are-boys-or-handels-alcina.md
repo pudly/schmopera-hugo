@@ -1,8 +1,12 @@
 +++
+author = "Greg Finney"
 categories = "Review"
+companies = ["Royal Conservatory of Music"]
 date = "2016-03-17T16:12:00+00:00"
 lastmod = "2016-03-17T17:50:00+00:00"
+people = ["Christina Campsall","Asitha Tennekoon","Keith Lam"]
 preamble = "Editor's note: if you love the title of this review, [you'll really love our T-shirts](http://store.schmopera.com/collections/t-shirts/products/opera-is-boys-being-girls-being-boys-womens-t-shirt)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458232109584/2016-03-17---Square---Alcina_-Nicola-Betts-Photography.jpg"
 publishDate = "2016-03-17T16:48:00+00:00"
 short_description = "The stage was filled with some amazing talent to watch. All the singers did a remarkable job keeping up with Taurins&#039;s spritely, yet well-informed tempi, while there were some hallmarks of the &quot;student production&quot; it&#039;s definitely one of the better ones I&#039;ve seen - not just at GGS, but overall. "
 slug = "boys-who-are-girls-who-love-girls-that-are-boys-or-handels-alcina"

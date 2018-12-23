@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Canadian Opera Company","Canadian Opera Company Ensemble Studio"]
 date = "2016-02-17T18:59:00-05:00"
 lastmod = "2016-02-18T09:50:00-05:00"
+people = ["Aviva Fortunata","Gordon Bintner","Karine Boucher","Iain MacNeil","Jean-Philippe Fortier-Lazure","Aaron Sheppard"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455753932165/Figaro-MC-3479-(1)Square.jpg"
 publishDate = "2016-02-18T09:00:00-05:00"
 short_description = "On Monday, February 22nd at Toronto&#039;s Four Seasons Centre, the Canadian Opera Company Ensemble Studio takes the main stage for their performance of Mozart&#039;s The Marriage of Figaro. This is an annual highlight for the young artists, who take on the task of understudying the main cast, on top of countless hours of preparation for their very special night."
 slug = "the-coc-ensembles-marriage-of-figaro"

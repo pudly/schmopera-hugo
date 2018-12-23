@@ -1,7 +1,11 @@
 +++
+author = "Hannah De Priest"
 categories = "Review"
+companies = ["Lyric Opera of Chicago"]
 date = "2018-09-14T13:28:00-04:00"
 lastmod = "2018-09-14T19:49:00-04:00"
+people = ["Janai Brugger","J'Nai Bridges","Michael Fabiano","Albina Shagimuratova","Zachary Nelson"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1536946355044/sqJnaiBridges.jpg"
 publishDate = "2018-09-14T17:30:00-04:00"
 short_description = "The night&#039;s theme, (and requisite hashtag) #LongLivePassion was on-point — we were treated to some of opera&#039;s most impassioned moments from Puccini&#039;s beloved &quot;O mio babbino caro&quot; to the seductive &quot;Mon coeur s&#039;ouvre à ta voix&quot; from Saint-Saën&#039;s Samson et Dalila. It was a glamorous, fun-filled night that featured the headliners of the Lyric&#039;s upcoming production of La Bohéme as well as four young artists from the Patrick G. and Shirley W. Ryan Center."
 slug = "lyric-opera-kicks-off-a-starry-season-at-millennium-park"

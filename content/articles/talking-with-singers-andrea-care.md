@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Royal Opera House"]
 date = "2018-01-29T21:24:00-05:00"
 lastmod = "2018-01-30T10:28:00-05:00"
+people = ["Andrea Carè"]
 preamble = "Following his Royal Opera House debut in 2013, Italian tenor [Andrea Carè](/scene/people/andrea-care/) brings his signature Don José back to Covent Garden next month, starring opposite Gaëlle Arquez in Barrie Kosky's \"intense\" production of *Carmen*.\n\nIt was a treat to chat with Carè about sharing the stage with superstar colleagues, and the value of trusting one's instinct."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517279024195/sq---Andrea-Care%CC%80_-pc-Juan-Carranza.jpg"
 publishDate = "2018-01-30T10:28:00-05:00"
 short_description = "&quot;I sincerely believe there’s not only one reason. I myself never decided or planned to sing professionally; I never thought I would manage my developing in a way that I could make this form of art my job.&quot;"
 slug = "talking-with-singers-andrea-care"

@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Royal Opera House"]
 date = "2017-05-29T07:44:00-06:00"
 lastmod = "2017-06-14T07:41:00-06:00"
+people = ["Michael J. Scott"]
 preamble = "American tenor [Michael J. Scott](/scene/people/michael-j-scott/) is making a name for himself in Europe, both in leading roles (Don José, Rodolfo), and in comprimario repertoire. With standards like Monostatos (*Die Zauberflöte*), Don Curzio (*Le nozze di Figaro*) and Erster Jude (*Salome*) under his belt, Scott's character work has also brought him one-of-a-kind professional experiences in Philip Glass' *The Trial*, and Barrie Kosky's eye-popping production of Shostakovich's *The Nose*.\n\nThis month, Scott sings the role of Sopel in Rimsky-Korsakov's *Sadko* at Opera Vlaanderen. We spoke with him about how he stays inspired at work, and the surprising reason he'd love to sing Mimì."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496065476219/2017-05-29---Scott-Headshot.jpg"
 publishDate = "2017-06-13T21:05:00-06:00"
 short_description = "&quot;As for what not to do, I can say as the most guilty party, stop bitching and moaning. It doesn&#039;t help anything and will put you in a terrible place emotionally. It is tempting and easy to sit around complaining about the system, about other singers, about the schedule being late again, but it&#039;s just a waste of your time and energy.&quot;"
 slug = "spotlight-on-michael-scott"

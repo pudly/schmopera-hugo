@@ -1,7 +1,10 @@
 +++
+author = "Michael Calderone"
 categories = "Review"
+companies = ["Haymarket Opera Company"]
 date = "2018-03-09T21:22:00-05:00"
 lastmod = "2018-03-09T22:49:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520648129150/church.jpg"
 publishDate = "2018-03-09T21:29:00-05:00"
 short_description = "The music of the crowd and demons, solidly sung by Kaitlin Foley, Carrie Henneman Shaw, Mischa Bouvier, Drew Minter, William Dwyer, and Mark Haddad, featured shifting homophonic and imitative textures and brisk dance rhythms. Musical highlights include the snappy setting of the word &quot;Barabbas,&quot; which formed a recognizable ritornello early on, and a flourishing melisma on the final word of part one (&quot;festante&quot;), that traveled brilliantly through each voice in succession."
 slug = "palpable-chamber-music-haymarket-operas-lenten-oratorio"

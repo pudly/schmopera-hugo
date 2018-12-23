@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Opera Atelier"]
 date = "2014-10-25T12:37:00-04:00"
 lastmod = "2015-04-14T10:15:00-04:00"
+people = ["Wallis Giunta","Mireille Lebel","Meghan Lindsay","Mireille Asselin"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429020602976/AlcinaHeader.png"
 publishDate = "2014-10-25T12:37:00-04:00"
 short_description = "Greg and I headed to the Elgin Theatre to see opening night of Opera Atelier&#039;s Alcina, and we teamed up on another joint review. Bonus: Greg can speak intelligently about Atelier Ballet, something I won&#039;t pretend to know well."
 slug = "he-saidshe-said-alcina-at-opera-atelier"

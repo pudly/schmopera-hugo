@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
 date = "2015-07-21T14:38:00-04:00"
 lastmod = "2015-07-30T14:05:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437527302596/noopera.jpg"
 publishDate = "2015-07-22T07:00:00-04:00"
 short_description = "Before I got into opera, I dealt with a certain list of composers. J.S. Bach, Beethoven, Mozart, Haydn, Debussy, Chopin, Scriabin, Liszt - all these guys wrote some pretty fantastic music for solo piano. Then, I started working with chamber ensembles, and my composer pool expanded to Bartók, Brahms, Sarasate, Chaminade, Poulenc, Fauré, and Piazzola. I began looking at song repertoire with singers, so I found Hugo Wolf, and realized what the big deal was with Schubert and Schumann. "
 slug = "but-why-didnt-they-write-opera"

@@ -1,7 +1,11 @@
 +++
+author = "Andrew Schneider"
 categories = "Review"
+companies = ["Houston Grand Opera"]
 date = "2018-01-21T12:55:00-05:00"
 lastmod = "2018-01-21T18:31:00-05:00"
+people = ["Christine Goerke","Tamara Wilson","Greer Grimsley"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516557234468/sq---hgo---elektra---piano-rehearsal---photographer-lynn-lane-26-3000x2000.jpg"
 publishDate = "2018-01-21T18:31:00-05:00"
 short_description = "If Strauss had not given Elektra so much deceptively tender waltz music of her own, then Chrysothemis&#039;s tender accompaniments (waltzes about mammaries) would come across as a moment of respite; however, by the time Chrysothemis is introduced, we know Elektra so well that nobody comes across as anything else other than a foil to her. "
 slug = "on-a-mental-precipice-hgos-elektra"

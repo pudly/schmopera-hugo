@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Canadian Opera Company","Canadian Opera Company Ensemble Studio"]
 date = "2018-03-16T22:13:00-04:00"
 lastmod = "2018-03-18T21:38:00-04:00"
+people = ["Neil Craighead"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521252761254/sq---cropped-ncraighead-8241.jpg"
 publishDate = "2018-03-18T21:38:00-04:00"
 short_description = "If he could go back and give himself some advice, however, Craighead would add in some encouragement. &quot;I would tell myself that I was on the right track,&quot; he says. &quot;I had a lot of the right instincts and a lot of the right tools given to me, but I just needed to trust them.&quot;"
 slug = "talking-with-singers-neil-craighead"

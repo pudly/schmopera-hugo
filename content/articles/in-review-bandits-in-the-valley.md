@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Tapestry Opera","Indie Opera T.O."]
 date = "2017-09-10T17:23:00-04:00"
 lastmod = "2017-09-11T22:33:00-04:00"
+people = ["Stephanie Tritchew","Jacques Arsenault","Keith Klassen","Alexander Dobson","Jennifer Taverner","Sara Schabas"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505174153646/2017-09-11---Square---Bandits-photobyDahliaKatz-1442.jpg"
 publishDate = "2017-09-11T22:10:00-04:00"
 short_description = "The short, opera-esque piece of theatre - by composer Benton Roark and librettist Julie Tepperman - happens in various locations around Toronto&#039;s Todmorden Mills, the historic location that beautifully serves the concurrent tales of George Taylor (whose paper mill celebrates its 25th anniversary), the traveling theatre troupe that specializes in Gilbert &amp; Sullivan, and The Rift Rafters, the group of bandits."
 slug = "in-review-bandits-in-the-valley"

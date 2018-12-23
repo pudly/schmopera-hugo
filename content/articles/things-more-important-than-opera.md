@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
 date = "2015-11-14T16:14:00-05:00"
 lastmod = "2015-11-20T11:10:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448035800650/2015-11-15%20-%20Paris.jpg"
 publishDate = "2015-11-16T09:12:00-05:00"
 short_description = "Opera and music and theatre mean a whole lot to me, and I take seriously what I write about it. To talk about the arts during times like this, after the horrific attacks in Paris, seems to take more justification than usual."
 slug = "things-more-important-than-opera"

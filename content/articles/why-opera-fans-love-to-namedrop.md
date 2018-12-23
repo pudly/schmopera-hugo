@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
 date = "2017-03-22T21:35:00+00:00"
 lastmod = "2017-03-23T11:31:00+00:00"
+people = ["Sonya Yoncheva","Elizabeth DeShong","Sondra Radvanovsky","Gerald Finley","Christine Goerke","Alice Coote","Javier Camarena","Ailyn Pérez","Diana Damrau","Kristine Opolais","Audrey Luna","Lawrence Brownlee","Ferruccio Furlanetto"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490266757538/2017-03-23---Stars.jpg"
 publishDate = "2017-03-23T11:03:00+00:00"
 short_description = "Basically, if we were to tell you that Terrence Malick has made a new Netflix miniseries starring Meryl Streep and John C. Reilly, and that it was written by JJ Abrams, and that it features cameos by Alan Rickman, Uzo Aduba, and (maybe?) Stan Lee, you&#039;d go see it, right?"
 slug = "why-opera-fans-love-to-namedrop"

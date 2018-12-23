@@ -1,8 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "How-to"
 date = "2015-05-20T20:46:00-04:00"
 lastmod = "2015-05-23T23:00:00-04:00"
 preamble = "Pianists, you're a busy bunch. So how do you learn all that music, and prioritize like a pro? When it comes to playing for singers, pianists are often in one of three situations:\n\n1. They have practice time to learn a song or aria.\n2. They know the song or aria, but they're playing for a new singer.\n3. They don't know the piece, and they don't know the singer.\n\nPianists have their generally great skills in sight-reading at their disposal, and the addition of a singer can easily throw a wrench in your musical plans. Here's a condensed guide to adapting your sight-reading to these three scenarios; singers notice this kind of thing, and they tend to call you back for the next gig."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432313196607/LegoPianoSquare.jpg"
 publishDate = "2015-05-22T13:02:00-04:00"
 short_description = "Pianists, you&#039;re a busy bunch. So how do you learn all that music, and prioritize like a pro? When it comes to playing for singers, pianists are often in one of three situations:"
 slug = "how-to-play-for-singers"

@@ -1,7 +1,10 @@
 +++
+author = "John Hohmann"
 categories = "Review"
 date = "2018-04-12T22:27:00-04:00"
 lastmod = "2018-04-13T17:46:00-04:00"
+people = ["Scott Joiner","Jessica Fishenfeld"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523586145261/sq---6Q5A0562.jpg"
 publishDate = "2018-04-12T22:27:00-04:00"
 short_description = "If the title sounds more like a riff on Dion and the Belmonts or Martha Reeves and the Vandellas, in a way, it is. Big Jim sings, or more precisely, croons, about getting rich by investing in his interactive &quot;reality&quot; fantasy goggles. His small-time investors hum along. Big Jim appears live to the audience but only on suggested video screens to his investors. They are the ultimate back-up singers."
 slug = "big-jim-and-the-smalltime-investors-a-story-often-told"

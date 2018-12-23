@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Opera on the Avalon","Music Academy of the West - Voice Program"]
 date = "2015-07-12T16:54:00-06:00"
 lastmod = "2015-07-17T10:50:00-06:00"
+people = ["Marjorie Maltais"]
 preamble = "Mezzo-soprano [Marjorie Maltais](/scene/people/marjorie-maltas/) first impressed me with her rich sound and feisty stage presence as Hermia in [Opera on the Avalon](/scene/companies/opera-on-the-avalon/)'s *A Midsummer Night's Dream*. Coveted mezzo roles like Rosina, Cenerentola and Carmen are also on Marjorie's résumé, and she recently wrote me from Santa Barbara, where she's enjoying her time with Marilyn Horne at the Music Academy of the West. She chats about trouser-role envy, and the huge rewards of hard work in this industry."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436741732873/Marjorie-Maltais--mezzo-soprano.jpg"
 publishDate = "2015-07-17T10:50:00-06:00"
 short_description = "Mezzo-soprano Marjorie Maltais first impressed me with her rich sound and feisty stage presence as Hermia in Opera on the Avalon&#039;s A Midsummer Night&#039;s Dream. Coveted mezzo roles like Rosina, Cenerentola and Carmen are also on Marjorie&#039;s résumé, and she recently wrote me from Santa Barbara, where she&#039;s enjoying her time with Marilyn Horne at the Music Academy of the West."
 slug = "spotlight-on-marjorie-maltais"

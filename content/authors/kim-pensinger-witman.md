@@ -2,11 +2,11 @@
 date = "2015-09-21T20:42:00-04:00"
 email = "kimw@wolftrap.org"
 lastmod = "2015-09-21T20:42:00-04:00"
-name = "Kim Pensinger Witman"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442882510947/2565KimWitman_2014_CourtesyofWolfTrap.jpg"
 publishDate = "2015-09-21T20:42:00-04:00"
 short_bio = "As the Wolf Trap Foundation’s Senior Director of Opera &amp; Classical Programming, Kim Pensinger Witman has the privilege of running a small but prestigious opera company that is also a young artist development program. She started her career as a freelance pianist, adjunct university instructor, assistant conductor, registered music therapist, and music administrator.\n\nPhoto: Kristin Hoebermann, courtesy of Wolf Trap Opera."
 slug = "kim-pensinger-witman"
+title = "Kim Pensinger Witman"
 twitter = "https://twitter.com/kimpwitman"
 website = "http://opera.wolftrap.org/blog/"
 +++

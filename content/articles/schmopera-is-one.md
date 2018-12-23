@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["The Metropolitan Opera"]
 date = "2014-12-30T09:00:00-05:00"
 lastmod = "2015-04-25T23:48:00-04:00"
+people = ["Tom Diamond","Alice Coote","Christopher Mayell"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428856185942/Birthday-Cupcake.jpg"
 publishDate = "2014-12-30T09:00:00-05:00"
 short_description = "Cheers, readers! There&#039;s yet another reason to celebrate during this festive season: Schmopera is one year old!"
 slug = "schmopera-is-one"

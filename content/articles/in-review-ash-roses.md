@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Canadian Art Song Project"]
 date = "2014-04-16T10:48:00-04:00"
 lastmod = "2015-04-23T22:30:00-04:00"
+people = ["Lawrence Wiliford","Mireille Asselin","Liz Upchurch","Steven Philcox"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429842444037/AshRosesAlbum.png"
 publishDate = "2014-04-16T10:48:00-04:00"
 short_description = "Ash Roses is the first CD released by the Canadian Art Song Project (CASP), and it features the music of composer Derek Holman. I&#039;m not personally familiar with Holman&#039;s work, but I caught some at the CASP recital in the Richard Bradshaw Amphitheatre a few weeks ago, and I distinctly remember liking it."
 slug = "in-review-ash-roses"

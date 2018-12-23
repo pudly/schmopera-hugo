@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Canadian Opera Company"]
 date = "2015-04-24T09:34:00-04:00"
 lastmod = "2015-04-27T12:50:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429882292309/SellarsHeadshot-764x1024.jpg"
 publishDate = "2014-04-03T09:34:00-04:00"
 short_description = "Hercules opens on April 5th, at the Canadian Opera Company, and it features a spectacular cast: Eric Owens (Hercules), Alice Coote (Dejanira) and David Daniels (Lichas) headline this special production. Go and see it."
 slug = "peter-sellars-all-my-subtitles-were-understatements"

@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Canadian Opera Company"]
 date = "2017-10-12T14:12:00-04:00"
 lastmod = "2017-10-12T23:05:00-04:00"
+people = ["Andrew Haji","Simone Osborne","Gordon Bintner","Andrew Shore","James Robinson"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507833238614/2017-10-13---square---Elixir-MC-0543.jpg"
 publishDate = "2017-10-12T21:15:00-04:00"
 short_description = "Haji&#039;s Nemorino didn&#039;t whine or pine; instead, he took the refreshing route of unashamed honesty, piquing Adina&#039;s curiosity by being one of the few (only?) men in her life who presents himself as just that - himself. It brought to mind that line from The Office, when Kelly Kapoor muses, &quot;I mean, who says exactly what they&#039;re thinking? What kind of game is that?&quot;"
 slug = "he-saidshe-said-a-sweet-elixir-at-the-coc"

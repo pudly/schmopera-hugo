@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["Against the Grain Theatre","The Banff Centre"]
 date = "2014-06-18T08:32:00-04:00"
 lastmod = "2015-04-23T16:05:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429819491049/UncleJohnScore-1024x757.jpg"
 publishDate = "2014-06-18T08:32:00-04:00"
 short_description = "Don Juan. Love him or hate him, he&#039;s been around for at least 400 years. Why? Because he&#039;s a juicy character with which we&#039;ve all got something in common. Everyone struggles with moderation in their lives; food, drink, and sex have forever played a role in our personal conflicts with desire and will-power. If you&#039;re mysteriously immune to the temptations of the Big Three, you&#039;re bound to be lured by something else. Or, you&#039;re a robot."
 slug = "from-don-juan-to-unclejohn"

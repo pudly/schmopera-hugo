@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Classical Opera"]
 date = "2017-03-22T10:16:00+00:00"
 lastmod = "2017-03-22T13:39:00+00:00"
+people = ["Alessandro Fisher","Gemma Summerfield"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490180524663/2017-03-22---CO---Square---Alessandro-Fisher.jpg"
 publishDate = "2017-03-22T12:28:00+00:00"
 short_description = "&quot;Flaws&quot; like an overly thick orchestration, or a vocal tessitura that is relentless and awkward, are what thrill the lovers of music history; it&#039;s indicative of just how much of a genius Mozart was, that moments of orchestra imbalance or slightly less organic melodies - largely harmless in the big picture - seem the &quot;rudimentary&quot; product of 11 year-old Wolfgang."
 slug = "in-review-the-first-commandment"

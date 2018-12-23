@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Canadian Opera Company"]
 date = "2018-10-28T11:01:00-04:00"
 lastmod = "2018-10-28T19:47:00-04:00"
+people = ["Thomas Hampson","Isaiah Bell"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540737217938/sqThomasHampson_byJiyangChen_1.jpg"
 publishDate = "2018-10-28T19:47:00-04:00"
 short_description = "&quot;As a singer, as a professional, experienced singer, older colleague,&quot; Hampson advises young singers entering the profession, &quot;I can only say that the industry you&#039;re in is not the industry I started in.&quot;"
 slug = "talking-with-singers-thomas-hampson"

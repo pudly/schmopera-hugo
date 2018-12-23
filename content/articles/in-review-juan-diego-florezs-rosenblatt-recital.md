@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
 date = "2016-03-30T09:51:00+01:00"
 lastmod = "2016-03-30T11:25:00+01:00"
+people = ["Juan Diego Flórez"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459332468177/2016-03-30---FLOREZ_Cover-image.jpg"
 publishDate = "2016-03-30T11:19:00+01:00"
 short_description = "It&#039;s always been an amazing thing to hear Flórez sing coloratura; there&#039;s efficiency in the sound, yet it&#039;s not necessarily light. His machine-gun approach is full of precision and control, and he always seems malleable and flexible despite all the work involved. Flórez treated us to &quot;Cessa di più resistere&quot; from Il barbiere di Siviglia, where we heard the expertise and ease that gave the tenor his star status."
 slug = "in-review-juan-diego-florezs-rosenblatt-recital"

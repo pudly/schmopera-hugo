@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
 date = "2017-03-02T09:24:00+00:00"
 lastmod = "2017-03-02T11:00:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488447815696/2017-03-02---Guildhall-School_The-Tale-of-Januarie_John-Findon-as-Januarie-and-Joanna-Marie-Skillett-as-May_Clive-Barda.jpg"
 publishDate = "2017-03-02T10:39:00+00:00"
 short_description = "It has all the stuff of classic storytelling: an old man marries a young blonde girl, a young man is lovesick over that same blonde girl, and the whole story is fuelled by sex. In fact, Priapus himself (played by Carl Stone) sets quite the tone indeed, introducing the story with a penile hat atop his head, a wheelbarrow in front of him to carry the weight of his four-foot-long penis. "
 slug = "sexy-operas-the-tale-of-januarie"

@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
 date = "2014-11-24T08:00:00-05:00"
 lastmod = "2015-04-13T22:30:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428978544677/UnpaidArtists.png"
 publishDate = "2014-11-24T08:00:00-05:00"
 short_description = "I came across two separate articles the other day, on the topic of artists working without pay. The first was this open letter to Oprah, written by Revolva, a professional hula hoop act and vaudeville performer. Apparently, Oprah&#039;s The Life You Want Weekend tour invited Revolva to work for their San Jose stop earlier this month. The catch: she&#039;d be working for free."
 slug = "unpaid-artists-and-all-the-ways-they-can-stay-that-way"

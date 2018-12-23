@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
+companies = ["FAWN Chamber Creative","Indie Opera T.O."]
 date = "2016-11-15T16:24:00+00:00"
 lastmod = "2016-11-18T14:37:00+00:00"
+people = ["Amanda Smith","Jennifer Nichols","Adanya Dunn","Jonathan MacArthur"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479375319961/2016-11-17---1-Syn-IV-pic.jpg"
 publishDate = "2016-11-18T14:37:00+00:00"
 short_description = " FAWN will announce the three composers selected by audiences at last season&#039;s Synesthesia IV pt. 1: Sound and Body; plus, they&#039;ll reveal details about their new collaboration with Canadian composer Anna Höstman. Throughout the evening, music by Höstman and the three audience-chosen composers will &quot;emerge sporadically&quot; as guests mingle and drink."
 slug = "get-curious-at-fawn-201617"

@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["The Metropolitan Opera"]
 date = "2015-11-28T16:00:00-05:00"
 lastmod = "2015-11-28T16:19:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448744951754/2015-11-28%20-%20Met.jpg"
 publishDate = "2015-11-28T16:19:00-05:00"
 short_description = "In what can be deemed the Great Find of the Weekend, check out this list of artists who have had the most performers at The Metropolitan Opera. I can&#039;t vouch for detail-accuracy, and since it&#039;s a Wikipedia article, go ahead and take it with a grain of salt. That said, have a look at the ten singers with the most Met stage time:"
 slug = "the-guy-who-sang-at-the-met-2928-times"

@@ -2,11 +2,11 @@
 date = "2018-05-08T21:24:00-04:00"
 facebook = "https://www.facebook.com/canadianbassbaritone/"
 lastmod = "2018-05-08T21:24:00-04:00"
-name = "Neil Craighead"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525828891282/QWREFmyF2GdPB8A5inQ2evgXkIXikiJ6GJNSUPgC4xnVIkQ6srBgKpFB9PsG7N3tvK5N08fTPiueqXnALWz-3Uskb2pLkw%3Dw600-h600"
 publishDate = "2018-05-08T21:24:00-04:00"
 short_bio = "Bass-baritone Neil Craighead was born in Cape Town, South Africa and grew up in Calgary, where he was member of the Calgary Boys Choir. An alumnus of the Canadian Opera Company’s Ensemble Studio, Neil&#039;s coming season is highlighted by his role debuts as Zuniga in *Carmen* for Opéra de Québec, and as Baron Scarpia in *Tosca* for Opera on the Avalon."
 slug = "neil-craighead"
+title = "Neil Craighead"
 twitter = "https://twitter.com/n_craighead"
 website = "https://neilcraighead.com/"
 +++

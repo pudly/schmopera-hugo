@@ -1,7 +1,11 @@
 +++
+author = "Greg Finney"
 categories = "Review"
+companies = ["Liederwölfe Opera Collective","Essential Opera","Urbanvessel","re:Naissance","Indie Opera T.O.","MYOpera"]
 date = "2016-04-29T16:15:00+01:00"
 lastmod = "2016-04-29T16:49:00+01:00"
+people = ["Francesca Perez","Lindsay Michael"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461942960766/YE-B-Cypb7jdM_XNhw-_B9Lksb7ITY4sMhvRTBLNpbKhytfuFKn5-dbR873piqCyzizZtlwMItMry-x4LheS44ZPvrWSMA%3Dw680-h680-c"
 publishDate = "2016-04-29T16:45:00+01:00"
 short_description = "To say that it was unique would be a broad understatement. Upon arrival, you are greeted at the door and presented a key which gets you into the event, and then you are ushered downstairs where you get to choose, à la carte, which combination of the companies presenting you wished to check out."
 slug = "liederwolfe-stuns-in-operapeepshow"

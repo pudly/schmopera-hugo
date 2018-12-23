@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["Seattle Opera","Teatro alla Scala"]
 date = "2014-01-12T10:09:00-05:00"
 lastmod = "2015-04-28T22:58:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430276320204/almost-empty-theatre.jpg"
 publishDate = "2014-01-12T10:09:00-05:00"
 short_description = "2013 was a bad year for the business of classical music. New York City Opera was North America&#039;s big story in the ever-widening category of struggling or bankrupt opera houses. Seattle Opera suffered large cutbacks in order to stay alive, and the Minnesota Orchestra&#039;s standoff with the board has cost them at least a season and a half. And although outside of our stated calendar year, Canadians certainly felt this week&#039;s closure of Opera Hamilton."
 slug = "bills-and-business-models"

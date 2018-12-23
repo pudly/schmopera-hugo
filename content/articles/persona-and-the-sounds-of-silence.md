@@ -1,7 +1,11 @@
 +++
+author = "Loren Lester"
 categories = "Review"
+companies = ["Los Angeles Opera"]
 date = "2017-11-11T14:33:00-05:00"
 lastmod = "2017-11-12T21:59:00-05:00"
+people = ["Amanda Crider"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510428422772/2017-11-11---square---persona_04pr.jpg"
 publishDate = "2017-11-12T10:26:00-05:00"
 short_description = "It&#039;s Alma, played by mezzo-soprano Crider who must carry the show on her musical shoulders and she delivers a stunning performance, both as singer and as actress. Crider doesn&#039;t miss a beat capturing the emotional complexity of Alma&#039;s character while traversing the complexity of Keeril Makan&#039;s score."
 slug = "persona-and-the-sounds-of-silence"

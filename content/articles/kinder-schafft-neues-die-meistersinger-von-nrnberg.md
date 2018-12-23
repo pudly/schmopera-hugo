@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["Royal Opera House"]
 date = "2017-03-20T10:57:00+00:00"
 lastmod = "2017-03-21T09:22:00+00:00"
+people = ["Bryn Terfel","Gwyn Hughes Jones","Rachel Willis-Sørensen","Hanna Hipp","Allan Clayton"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490043970715/2017-03-20---Square---170306_1561_meistersinger-BRYN-TERFEL-AS-HANS-SACHS-ROH-PHOTO-BY-CLIVE-BARDA.jpg"
 publishDate = "2017-03-21T08:52:00+00:00"
 short_description = "Die Meistersinger is a story about tradition, and whether or not it&#039;s good for anything; it exposes how people treat tradesman differently from artists, and the contempt that makers of &quot;high art&quot; can have for the opinions of the general public. Holten&#039;s production seems to shine extra light on the tradition of using women as prizes, even complicating the matter with an Eva Pogner who doesn&#039;t even get the chance to manipulate the system to her own advantage."
 slug = "kinder-schafft-neues-die-meistersinger-von-nrnberg"

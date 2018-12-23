@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Humour"
 date = "2017-04-11T21:12:00+01:00"
 lastmod = "2017-04-13T09:35:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492072518965/2017-04-13---Klingon.jpg"
 publishDate = "2017-04-13T09:35:00+01:00"
 short_description = "It&#039;s true! If you&#039;re a fan of Star Trek, you&#039;re well aware of the Klingon culture&#039;s appreciation for opera. &#039;u&#039;, the so-called &quot;First authentic Klingon opera on Earth&quot; by Eef van Breen, Kees Ligtelijn, and Marc Okrand, was put up in 2010 in The Hague to sold-out crowds."
 slug = "theres-a-new-klingon-opera-in-the-works"

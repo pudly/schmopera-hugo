@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
 date = "2017-05-29T20:01:00-04:00"
 lastmod = "2017-05-29T21:14:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496105843045/2017-05-30---Rat.jpg"
 publishDate = "2017-05-29T21:14:00-04:00"
 short_description = "After all, opera isn&#039;t just music, and it isn&#039;t just theatre. If it&#039;s well-written opera, the music we hear is directly connected with the action and text. I often wonder: if people had heard famous film scores - Psycho, Star Wars, etc. - without having ever seen the films, would they find the music appealing? Would they find the Imperial March catchy, or full of wrong notes? If they thought those sawing strings from Hitchcock&#039;s shower scene sounded screechy and ugly, could they be blamed?"
 slug = "why-is-it-ugly-other-good-questions-about-new-opera"

@@ -1,7 +1,11 @@
 +++
+author = "Greg Finney"
 categories = "Review"
+companies = ["Canadian Opera Company"]
 date = "2018-10-18T20:41:00-04:00"
 lastmod = "2018-10-19T12:28:00-04:00"
+people = ["Thomas Hampson","Isaiah Bell","Ambur Braid","Karita Mattila","Roger Honeywell","Gregory Dahl","John MacMaster","Joel Allison","Samuel Chan","Ben Heppner","Anna-Sophie Neher","Thomas Glenn"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539909628086/sqHADRIAN-18-19-02-MC-D-1307.jpg"
 publishDate = "2018-10-18T20:41:00-04:00"
 short_description = "Antinous, Hadrian&#039;s lover, has possibly the dopest (and gayest) entrance of any opera, ever. Surrounded by a bevy of mostly-nude, highly-sculpted, male dancers, I can only imagine tenor (and friend of Schmopera&#039;s) Isaiah Bell was living his absolute best life - and it showed in his singing. From his first &quot;Antinous&quot; when the cacophany in the pit mirrors the chaotic joy Hadrian feels, to his final moment onstage, Bell is a vision."
 slug = "hadrian-a-true-grand-opera"

@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
+companies = ["Canadian Opera Company","Vancouver Opera","Edmonton Opera","Opera Lyra Ottawa"]
 date = "2014-12-04T12:46:00-05:00"
 lastmod = "2015-04-13T17:57:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428962193727/OperaMakingMoney.jpg"
 publishDate = "2014-12-04T12:46:00-05:00"
 short_description = "Opera doesn&#039;t make money, it never has, and we all know it. I was recently asked about opera&#039;s economy and why opera companies have never functioned as a for-profit theatre company. The theoretical comparison was between the Canadian Opera Company and Mirvish Productions. "
 slug = "can-opera-make-money"

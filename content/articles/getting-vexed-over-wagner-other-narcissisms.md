@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
+companies = ["Bayerische Staatsoper"]
 date = "2017-08-14T21:43:00-04:00"
 lastmod = "2017-08-15T22:12:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502849008987/2017-08-15---Bubble.jpg"
 publishDate = "2017-08-15T22:08:00-04:00"
 short_description = "The appalled opera goers make claims about wasted money and travel time, and they take a strange stance of half-defending, half-blaming the performers onstage. But the main objections seem to be the apparent &quot;desecration&quot; of Wagner&#039;s work. &quot;Yes, I naively assumed that Wagner’s family had obeyed his very exacting wishes, and that Bayreuth was the place to see his operas as he intended them,&quot; writes Peacock."
 slug = "getting-vexed-over-wagner-other-narcissisms"

@@ -1,7 +1,11 @@
 +++
+author = "Arturo Fernandez"
 categories = "Review"
+companies = ["Boston Lyric Opera"]
 date = "2018-03-24T20:31:00-04:00"
 lastmod = "2018-03-24T20:59:00-04:00"
+people = ["Kelly Kaduce","Daniel Belcher"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521937792283/sq---BLO2018_3PO2.jpg"
 publishDate = "2018-03-24T20:31:00-04:00"
 short_description = "And then Kelly Kaduce came onstage: when her Polly Peachum walked on in an unglamorous wedding dress and unkempt black hair playing a sarcastic, monotone version of the typical operatic ingenue her character is written as, it became clear exactly what the work was setting out to do."
 slug = "blos-threepenny-opera-a-misanthropic-delight"

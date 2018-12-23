@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Humour"
 date = "2015-04-29T04:25:00+01:00"
 lastmod = "2016-11-28T10:12:00+00:00"
+people = ["Isaiah Bell","Christopher Mayell"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477488253995/2016-10-26---BellMayell.jpg"
 publishDate = "2013-12-30T15:25:00+00:00"
 short_description = "Canadian tenors Isaiah Bell and Christopher Mayell are thoughtful guys. Here, they chat about the tricky task of recording by opera singers; they talk about why it&#039;s difficult, why it&#039;s not the same as performing live, and why they should have to do it in the first place."
 slug = "on-the-recording-of-opera-singers"

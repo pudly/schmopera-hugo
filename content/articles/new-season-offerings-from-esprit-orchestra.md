@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
+companies = ["Esprit Orchestra"]
 date = "2018-10-22T20:54:00-04:00"
 lastmod = "2018-10-23T20:59:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540256042536/sqbirthday-gift-bow-box-190930.jpg"
 publishDate = "2018-10-23T20:50:00-04:00"
 short_description = "The four mainstage concerts of Esprit Orchestra&#039;s 2018/19 season happen at Toronto&#039;s Koerner Hall at 8pm. Pre-concert chats happen at 7:15pm, moderated by Alexina Louie. and New Wave Reprise goes up at Trinity St. Paul&#039;s Centre, with John Rea as keynote speaker."
 slug = "new-season-offerings-from-esprit-orchestra"

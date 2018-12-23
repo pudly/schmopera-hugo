@@ -1,7 +1,9 @@
 +++
+author = "John Hohmann"
 categories = "Review"
 date = "2018-04-16T22:03:00-04:00"
 lastmod = "2018-04-17T20:03:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523930611399/sqCH1379245_Original.jpg"
 publishDate = "2018-04-17T20:03:00-04:00"
 short_description = "Caught between duty, desire and despondence, Kaufmann&#039;s Tristan navigated with a melancholic and determined grace, building to fanatical splendor only to dissolve in hallucinatory turmoil. Whether he can sustain all of this vocally and emotionally in a full production is a question that the opera world eagerly waits to have answered."
 slug = "tristan-und-isolde-druginduced-elegance"

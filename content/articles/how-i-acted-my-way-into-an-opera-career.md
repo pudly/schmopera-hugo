@@ -1,7 +1,10 @@
 +++
+author = "Greg Finney"
 categories = "Op-ed"
 date = "2014-04-15T10:23:00-04:00"
 lastmod = "2017-08-28T10:45:00-04:00"
+people = ["Gregory Finney"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503931309181/2017-08-28---Greg-Boheme.jpg"
 publishDate = "2014-04-15T10:23:00-04:00"
 short_description = "I remember when I first told my parents I wanted to be an actor. I had just performed in our school district’s Speech and Drama Festival and scored a near perfect mark for my portrayal of the Big Bad Wolf (of “Three Little Pigs” fame) telling the true account of what happened with those mischievous swine."
 slug = "how-i-acted-my-way-into-an-opera-career"

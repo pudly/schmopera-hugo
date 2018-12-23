@@ -1,8 +1,12 @@
 +++
+author = "Blanche Israël"
 categories = "Review"
+companies = ["Oper Frankfurt"]
 date = "2017-09-16T16:56:00-04:00"
 lastmod = "2017-09-17T13:23:00-04:00"
+people = ["Jessica Strong","Jenny Carlstedt"]
 preamble = "Main image: Canadian Jessica Strong (Vanessa) and Barbara Zechmeister (the Old Baroness; on floor facing away) in *Vanessa*, Oper Frankfurt, 2017. Photo: Barbara Aumüller."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505666756073/2017-09-17---square---vanessa_2017-18_barbara_aumueller_07.jpg"
 publishDate = "2017-09-17T12:46:00-04:00"
 short_description = "Thoma presents the trio of women as three generations of the same person: Erika, the Baroness and Vanessa herself are all one immortal woman, eternally alone and suffering, stuck in time forever and unable to move forward. The Baroness embodies Vanessa&#039;s future as a bitter widow, while her niece Erika represents her past as a hopeful, beautiful, innocent young girl. As Erika laments, &quot;Sometimes I am her niece/But mostly her shadow&quot;."
 slug = "a-dreamy-psychological-thriller-vanessa-at-oper-frankfurt"

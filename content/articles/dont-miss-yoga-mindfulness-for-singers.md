@@ -1,7 +1,9 @@
 +++
+author = "Madison Arsenault"
 categories = "Op-ed"
 date = "2016-11-26T14:20:00+00:00"
 lastmod = "2016-11-28T12:35:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480331275889/2016-11-28---Yoga.jpg"
 publishDate = "2016-11-28T12:20:00+00:00"
 short_description = "On December 15th, opera singers will come together for a yoga and meditation practice specifically designed for their profession. We are Opera Yogis Madison Arsenault and Danielle Simpson, and we have designed a 2-hour workshop for singers who want to carry the benefits of yoga into their singing."
 slug = "dont-miss-yoga-mindfulness-for-singers"

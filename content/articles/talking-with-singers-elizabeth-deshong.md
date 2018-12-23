@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Canadian Opera Company","The Metropolitan Opera","Los Angeles Opera","San Francisco Opera"]
 date = "2014-10-20T09:00:00-04:00"
 lastmod = "2015-04-14T13:52:00-04:00"
+people = ["Elizabeth DeShong"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429033804460/da1.jpg"
 publishDate = "2014-10-20T09:00:00-04:00"
 short_description = "American mezzo-soprano Elizabeth DeShong is currently in Toronto, singing a whopping twelve performances of Suzuki in the COC&#039;s Madama Butterfly. I asked her about singing, about listening onstage, and roles she&#039;d love to sing."
 slug = "talking-with-singers-elizabeth-deshong"

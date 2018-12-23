@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
+companies = ["Canadian Opera Company"]
 date = "2015-09-16T09:41:00-04:00"
 lastmod = "2015-09-18T12:32:00-04:00"
+people = ["Owen McCausland","Krisztina Szabó","Phillip Addis","Christopher Alden"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442414727859/Wall.jpg"
 publishDate = "2015-09-17T08:47:00-04:00"
 short_description = "No piece of art is created in a vacuum. Any time I&#039;ve worked on an opera, I&#039;ve always loved learning of the connections between the story, and its ancestry in literature and history. Greek mythology, Shakespeare, the Bible, Egyptian history, the atomic bomb..."
 slug = "story-webs-original-romeo"

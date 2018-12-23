@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["VOICEBOX: Opera in Concert"]
 date = "2015-02-02T10:51:00-05:00"
 lastmod = "2015-04-11T22:05:00-04:00"
+people = ["Colin Ainsworth","Jennifer Taverner","Monica Whicher","Gregory Finney","Leigh-Ann Allen","Michelle Garlough"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1427062263560/montague1914.jpg"
 publishDate = "2015-02-02T10:51:00-05:00"
 short_description = "On Sunday afternoon I went to see VOICEBOX: Opera In Concert&#039;s production of Street Scene at the St. Lawrence Centre for the Arts. Kurt Weill&#039;s &quot;American Opera&quot;, with text by Elmer Rice and Langston Hughes, is a fantastic piece, and I agreed with Artistic Director Guillermo Silva-Marin when he said that the show doesn&#039;t get done enough."
 slug = "in-review-street-scene"

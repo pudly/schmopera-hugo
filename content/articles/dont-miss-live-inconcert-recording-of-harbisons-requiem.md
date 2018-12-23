@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
 date = "2017-05-09T09:44:00-04:00"
 lastmod = "2017-05-09T16:36:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494338072209/2017-05-09---Nashville-Symphony.jpg"
 publishDate = "2017-05-09T09:55:00-04:00"
 short_description = "&quot;This is an important work, reflective of a critical time in our history, and we are honored to be documenting it for posterity,&quot; says Tucker Biddlecombe, chorus director. &quot;It has all the elements of the great pieces of music we all love, from Brahms-like fugues coupled with complicated and exciting harmonies, to the Dies Irae movement that hearkens to the great music of Verdi and Mozart describing the final judgement day.&quot;"
 slug = "dont-miss-live-inconcert-recording-of-harbisons-requiem"

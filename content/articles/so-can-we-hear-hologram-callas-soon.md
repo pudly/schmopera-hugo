@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Humour"
+companies = ["The Metropolitan Opera"]
 date = "2015-09-21T10:48:00-04:00"
 lastmod = "2015-09-23T09:08:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442849067221/whitney.JPG"
 publishDate = "2015-09-24T12:00:00-04:00"
 short_description = "Whitney Houston&#039;s hologram will sing a concert next year at &quot;a major U.S. venue&quot; next year. Pat Houston, president of the Whitney Houston Estate and Greek billionaire Alki David, CEO of Hologram USA, are working together on this latest hologram concert venture; Whitney&#039;s image will be shown onstage &quot;the same way that Tupac and Snoop Dogg interacted onstage at Coachella,&quot; according to David."
 slug = "so-can-we-hear-hologram-callas-soon"

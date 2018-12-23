@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["Royal Opera House"]
 date = "2016-06-11T11:27:00-06:00"
 lastmod = "2016-06-17T08:18:00-06:00"
+people = ["Gregory Kunde"]
 preamble = "After almost 40 years spent singing professionally, American tenor [Gregory Kunde](/scene/people/gregory-kunde/) is the epitome of what it means to play the long game. His long history with roles in the operas of Bellini, Rossini, and Donizetti has gradually led to heavier repertoire, like Puccini's Pinkerton, Verdi's Otello, and Britten's Peter Grimes.\n\nLast month, Kunde was named \"Best Male Singer\" at the International Opera Awards, and in July, he makes his long-awaited debut at the Royal Opera House as Manrico in David Bösch's new production of [*Il trovatore*](http://www.roh.org.uk/productions/il-trovatore-by-david-bosch). In his touching interview, he chats about keeping his voice in shape decade after decade, about the roles that still make him cry, and what's left on his to-do list."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466141899090/2016-06-17---Gregory-Kunde-credit-Chris-Gloag.jpg"
 publishDate = "2016-06-17T00:26:00-06:00"
 short_description = "&quot;I try to make a connection with EVERY role I do. But, I will say there have been a few that have made an impact and left an impression on me. The first is Otello. One can&#039;t help but sympathize with this character. He is so amazing to play. There is every emotion in this role. I have been extremely fortunate to have played him in both the Rossini and Verdi versions and musically, they couldn&#039;t be more different. But Otello is always Otello.&quot;"
 slug = "talking-with-singers-gregory-kunde"

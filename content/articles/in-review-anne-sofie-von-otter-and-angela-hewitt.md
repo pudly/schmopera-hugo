@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
 date = "2015-01-10T15:05:00-05:00"
 lastmod = "2015-04-11T23:32:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428809465138/anne-sofie-von-otter-credit-ewa-marie-rundquist.jpg"
 publishDate = "2015-01-10T15:05:00-05:00"
 short_description = "Last night I went to see famed mezzo-soprano Anne Sofie von Otter and star pianist Angela Hewitt in recital. I couldn’t believe my luck; these two women are both artists whom I’ve wanted to hear live for years, and here they both were at the very convenient Koerner Hall. They performed a focused, cohesive program. "
 slug = "in-review-anne-sofie-von-otter-and-angela-hewitt"

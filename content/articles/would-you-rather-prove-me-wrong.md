@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Op-ed"
 date = "2017-05-08T11:42:00-04:00"
 lastmod = "2017-05-10T16:46:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494361062624/2017-05-09---Choice.jpg"
 publishDate = "2017-05-10T07:34:00-04:00"
 short_description = "Oftentimes, the singers who spend most - or all - of their time singing the tragic operas by Puccini, Verdi, maybe a bit of Donizetti and Gounod, tend to have acting skills that are less well-honed. That&#039;s in comparison to singers who perform a lot of new opera, Baroque opera, and subtler stuff by the likes of Britten, Janáček, Shostakovich, and even Wagner and Strauss."
 slug = "would-you-rather-prove-me-wrong"

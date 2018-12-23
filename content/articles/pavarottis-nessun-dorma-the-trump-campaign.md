@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
 date = "2016-07-24T12:24:00-04:00"
 lastmod = "2016-07-25T08:40:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469411134947/2016-07-25---Pavarotti---Anton-Corbijn.jpg"
 publishDate = "2016-07-25T08:36:00-04:00"
 short_description = "What&#039;s likely is that the sweeping sounds of Puccini sounded fancy to the Trump folk, and that Pavarotti&#039;s voice sounds heroic (#winning). They&#039;re not wrong, but it just screams, &quot;I heard this on YouTube once.&quot;"
 slug = "pavarottis-nessun-dorma-the-trump-campaign"

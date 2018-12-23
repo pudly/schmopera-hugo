@@ -1,7 +1,11 @@
 +++
+author = "Daniel Weisman"
 categories = "Review"
+companies = ["The Atlanta Opera"]
 date = "2017-09-29T18:43:00-04:00"
 lastmod = "2017-10-02T15:39:00-04:00"
+people = ["Jennifer Larmore","Christopher Dunham","Bryn Holdsworth"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506952744507/2017-10-02---JB4A9001.jpg"
 publishDate = "2017-10-02T09:59:00-04:00"
 short_description = "The laziness that the characters feel in having to get ready when the star diva hasn&#039;t arrived (sloth), the pride that Mr. Dunham&#039;s self-named character feels towards Ms. Holdsworth, Ms. Larmore&#039;s cameo can be seen as anger and covetousness towards Holdsworth&#039;s envy, Mr. Munson&#039;s alcoholism is addressed as gluttony, Ms. Holdsworth&#039;s lust towards Mr. Dunham, Mr. Munson, and Mr. Stolz, all is masterfully and subtly woven into the script by director Brian Clowdus, helping tie in his cabaret to the front-billed one-act."
 slug = "larmore-leads-sinful-success"

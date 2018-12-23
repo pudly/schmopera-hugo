@@ -1,7 +1,11 @@
 +++
+author = "Michael Pecak"
 categories = "Review"
+companies = ["Lyric Opera of Chicago"]
 date = "2017-11-08T20:08:00-05:00"
 lastmod = "2017-11-08T21:58:00-05:00"
+people = ["Christine Goerke","Brandon Jovanovich","Elisabet Strid","Tanja Ariane Baumgartner","Eric Owens"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510189665022/2017-11-09---Christine-Goerke_DIE-WALKU%CC%88RE_37A5016a_c.Cory-Weaver.jpg"
 publishDate = "2017-11-08T21:58:00-05:00"
 short_description = "This is a dark and ponderous tale that is driven by the psychologies of the handful of principal characters who share between themselves several lengthy dialogues. Wagner&#039;s worlds are inherently immense and overly ambitious (that is, garish) productions of his Ring in particular merely distract."
 slug = "die-walkure"

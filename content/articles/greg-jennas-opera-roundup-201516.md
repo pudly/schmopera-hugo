@@ -1,8 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["Canadian Opera Company","Royal Opera House","City of London Sinfonia"]
 date = "2016-05-28T11:06:00+01:00"
 draft = true
 lastmod = "2016-05-28T22:44:00+01:00"
+people = ["Javier Camarena","Stefan Vinke","Christine Goerke","Alan Held","Diana Damrau","Charles Castronovo"]
 slug = "greg-jennas-opera-roundup-201516"
 title = "Greg &amp; Jenna&#039;s Opera Roundup, 2015/16"
 +++

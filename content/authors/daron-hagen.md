@@ -2,11 +2,11 @@
 date = "2017-07-14T14:13:00-04:00"
 facebook = "https://www.facebook.com/DaronHagenOfficial"
 lastmod = "2017-07-14T14:13:00-04:00"
-name = "Daron Hagen"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500055971887/2017-07-14---Daron_Hagen_full_by_Karen_Pearson.jpg"
 publishDate = "2017-07-14T14:13:00-04:00"
 short_bio = "Daron Hagen is a prolific composer of acoustic and electro-acoustic music for the concert hall and stage. He is also a stage director, conductor, librettist, essayist, clinician, and collaborative pianist. Described as a “composer born to write operas” (*Chicago Tribune*) whose music is “dazzling, unsettling, exuberant, and heroic” (*The New Yorker*), his opera Amelia was described as “one of the 20 best operas of the 21st century” by *Opera News*. Hagen’s work often includes collaborations with both mainstream and cutting-edge filmmakers, directors, conductors, choreographers, and musicians worldwide.\n\nPhoto: Karen Pearson."
 slug = "daron-hagen"
+title = "Daron Hagen"
 twitter = "https://twitter.com/burningsled"
 website = "http://www.daronhagen.com/"
 +++

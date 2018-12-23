@@ -1,7 +1,11 @@
 +++
+author = "Greg Finney"
 categories = "Review"
+companies = ["Tapestry Opera","Indie Opera T.O."]
 date = "2017-11-30T21:57:00-05:00"
 lastmod = "2017-12-02T02:58:00-05:00"
+people = ["Jacqueline Woodley","Alexander Dobson","Erica Iris"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512096891448/2017-11-30---sq--Jacqueline-Woodley_PURSUIT_photobyDahliaKatz-5174.jpg"
 publishDate = "2017-12-01T19:11:00-05:00"
 short_description = "The night consisted of eleven selections from LIBLAB, touching on subjects ranging from the barista&#039;s crush on the handsome regular (as a former barista myself, this one rang very true) to a piece inspired by the world-famous photo of the poor Syrian boy found dead in the sand on the beach. It was a range of topics only Tapestry could tackle and pull off successfully."
 slug = "enticing-teasers-winter-shorts"

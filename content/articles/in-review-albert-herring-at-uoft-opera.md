@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Review"
+companies = ["University of Toronto Opera"]
 date = "2014-03-22T11:10:00-04:00"
 lastmod = "2015-04-24T09:56:00-04:00"
+people = ["Ryan Downey","Adanya Dunn","Iain MacNeil","Joel Ivany","William Ford","Laurelle Jade Froese"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883305749/Herring.jpg"
 publishDate = "2014-03-22T11:10:00-04:00"
 short_description = "So much celebration happened on Thursday night. Director Joel Ivany celebrated the opening night of his production of Benjamin Britten&#039;s Albert Herring in the MacMillan theatre at the University of Toronto. UofT celebrated the 50th anniversary of its first opera performance in 1964: Albert Herring. And of course, everyone celebrated Albert the Good."
 slug = "in-review-albert-herring-at-uoft-opera"

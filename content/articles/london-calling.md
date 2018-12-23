@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["English National Opera","Royal Opera House","Mahogany Opera Group"]
 date = "2016-02-28T18:28:00+00:00"
 lastmod = "2016-02-29T09:19:00+00:00"
+people = ["Renée Fleming"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456737297691/2016-02-29---London.jpg"
 publishDate = "2016-02-29T09:15:00+00:00"
 short_description = "Well, readers, after much anticipation and a slight delay, Schmopera has made it to London. It&#039;s an amazing thing to be in a city with not only a myriad of opera companies large and small, but great pickings of arts and cultural centres offering up a buffet of musical options."
 slug = "london-calling"

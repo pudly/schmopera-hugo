@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["The Metropolitan Opera"]
 date = "2017-02-16T10:18:00+00:00"
 lastmod = "2017-02-20T14:14:00+00:00"
+people = ["Nadine Sierra","Angela Meade","Jamie Barton","Christine Goerke","Kristine Opolais","Plácido Domingo","Bryn Terfel","Tara Erraught","Pretty Yende","Joyce DiDonato","Yannick Nézet-Séguin","Johannes Debus","Sondra Radvanovsky","Sonya Yoncheva","Elizabeth DeShong","Audrey Luna","Alice Coote","Vittorio Grigòlo","Roberto Alagna"]
 preamble = "Images, clockwise rom top left: scenes from *Parsifal* (Ken Howard), *Madama Butterfly* (Marty Sohl), *The Exterminating Angel* (Monika Rittershaus), *Cendrillon* (Ken Howard), and Kathryn Lewek as the Queen of the Night in Mozart's *Die Zauberflote* (Ken Howard)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487347679648/2017-02-17---Met-1718.jpg"
 publishDate = "2017-02-18T09:35:00+00:00"
 short_description = "By far, the coolest thing on the Met&#039;s new season line-up is Thomas Adès&#039; The Exterminating Angel, when the composer himself will conduct a cast that includes the likes of Audrey Luna, Alice Coote, and Iestyn Davies. The opera seems to be the token new work of the season, like Saariaho&#039;s L&#039;amour de loin was in 2016."
 slug = "201718-at-the-met-are-conservative-seasons-the-way-to-go"

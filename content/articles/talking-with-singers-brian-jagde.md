@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["San Francisco Opera"]
 date = "2016-10-26T20:12:00+01:00"
 lastmod = "2016-11-01T14:53:00+00:00"
+people = ["Brian Jagde","Leah Crocetto"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477929217509/2016-10-26---Brian-Jagde---Simon-Pauly.jpg"
 publishDate = "2016-11-01T14:33:00+00:00"
 short_description = "&quot;You have to continue to get better,&quot; says Jagde of his constant work with his teachers and coaches. &quot;You&#039;re working really hard to just even have a job and to have a career, and now you have to keep it. The work never stops. It&#039;s not that you make it, and then you&#039;re there.&quot;"
 slug = "talking-with-singers-brian-jagde"

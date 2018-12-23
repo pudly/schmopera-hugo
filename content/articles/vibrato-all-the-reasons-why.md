@@ -1,8 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "How-to"
 date = "2016-03-15T10:28:00+00:00"
 lastmod = "2016-08-14T12:20:00+01:00"
 preamble = "Often, people are curious about all the vibrato they hear from opera singers. Compared to the way most pop singers use their voices, vibrato can seem like an effect, superimposed by the singer in an active way, to achieve that \"opera singer sound\". In reality, vibrato is the result of the ultra-efficient, healthy sound that opera singer work to achieve. Vibrato is a great litmus test, one that reveals what's happening in the mysterious and subtle vocal mechanism. Opera isn't all about singing with a constantly vibrating tone, but when a singer maintains the potential to vibrate any note, it means that they're singing with breath support and a relaxed body.\n\nThere are a few instances where singers can really use this vibrato-as-litmus-test phenomenon. The examples are likely endless, but we've narrowed down a few sections from beloved arias, where attention to vibrato can keep the singing easy, and the singer honest."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471173385915/2016-08-14---Vibrato.jpg"
 publishDate = "2016-03-15T11:58:00+00:00"
 short_description = "There are a few instances where singers can really use this vibrato-as-litmus-test phenomenon. The examples are likely endless, but we&#039;ve narrowed down a few sections from beloved arias, where attention to vibrato can keep the singing easy, and the singer honest."
 slug = "vibrato-all-the-reasons-why"

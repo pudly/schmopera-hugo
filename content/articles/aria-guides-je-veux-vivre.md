@@ -1,8 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "How-to"
 date = "2016-01-11T11:26:00-05:00"
 lastmod = "2016-01-12T12:25:00-05:00"
+people = ["Nadine Sierra"]
 preamble = "Continuing our series of Aria Guides, it's time for something French: \"Je veux vivre\" from Gounod's *Roméo et Juliette*. \n\nThis is Juliette's first aria, and she sings it after her nurse *yet again* brings up the fact that she has to get married to Paris. Juliette is young, and that can either mean she's giddy and exciteable, or that she's nervous and insecure about things like arranged marriages and being only 13 or so. \"Je veux vivre\" is a hugely popular pick for audition packages; it's not too long, it shows off some coloratura, and it's a great opportunity to show polished acting chops. Along with tried-and-true methods like voice teachers, coaches, and good old practice time, we offer up some handy tips for making the learning process a little easier. \n\nYou can follow along starting on page 49 of [this score](http://imslp.nl/imglnks/usimg/e/e3/IMSLP21548-PMLP49624-Gounod-RometJulietteVSch.pdf), or use the notated excerpts below."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452554587670/2016-01-11---Juliet.jpg"
 publishDate = "2016-01-12T12:00:00-05:00"
 short_description = "This is Juliette&#039;s first aria from Gounod&#039;s Roméo et Juliette, and she sings it after her nurse yet again brings up the fact that she has to get married to Paris. Juliette is young, and that can either mean she&#039;s giddy and exciteable, or that she&#039;s nervous and insecure about things like arranged marriages and being only 13 or so. &quot;Je veux vivre&quot; is a hugely popular pick for audition packages; it&#039;s not too long, it shows off some coloratura, and it&#039;s a great opportunity to show polished acting chops. "
 slug = "aria-guides-je-veux-vivre"

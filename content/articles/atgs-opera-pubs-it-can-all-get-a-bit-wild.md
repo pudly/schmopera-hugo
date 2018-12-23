@@ -1,7 +1,11 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["Against the Grain Theatre"]
 date = "2016-09-21T10:33:00+01:00"
 lastmod = "2016-09-21T19:24:00+01:00"
+people = ["Joel Ivany","Christopher Mokrzewski"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474451690599/2016-09-22---Pub-2.jpg"
 publishDate = "2016-09-21T18:54:00+01:00"
 short_description = "Opera Pubs accommodate the kind of listeners who simply enjoy the sound of operatic singing, and who aren&#039;t necessarily itching to know the details of the story. Even better, the common ground of a pub environment allows listeners to feel as though they&#039;re among the group of singers, rather than watching from afar."
 slug = "atgs-opera-pubs-it-can-all-get-a-bit-wild"

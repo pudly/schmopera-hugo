@@ -1,8 +1,11 @@
 +++
+author = "Isaiah Bell"
 categories = "Op-ed"
 date = "2014-03-01T22:25:00+01:00"
 lastmod = "2017-03-06T17:12:00+01:00"
+people = ["Isaiah Bell"]
 preamble = "This is a guest post by [Isaiah Bell](/authors/isaiah-bell/), Canadian tenor and co-host of [*Overthought: A Podcast*](http://www.overthoughtpodcast.com/)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468291614804/2016-07-11---Bubble.jpg"
 publishDate = "2014-03-01T22:25:00+01:00"
 short_description = "I want people to like me.  I got into singing because I want people to like me. Yup. Of course, I didn’t think of it like that at the time; wanting people to like you is not necessarily an attractive quality.  Later, when I really thought about what it means to be a performer, I decided that I didn’t actually want it to be about me."
 slug = "on-the-ego"

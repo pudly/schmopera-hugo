@@ -1,7 +1,11 @@
 +++
+author = "Molly Simoneau"
 categories = "Review"
+companies = ["Washington National Opera"]
 date = "2017-11-06T10:25:00-05:00"
 lastmod = "2017-11-06T16:53:00-05:00"
+people = ["Angela Meade","Elizabeth DeShong","Daniela Mack","Ying Fang"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509995388800/2017-11-06---square---Angela-Meade-sings-the-title-role-in-WNO's-Alcina.2.creditScottSuchman.jpg"
 publishDate = "2017-11-06T14:43:00-05:00"
 short_description = "Is the cold harsh truth better than a comforting lie? That is the question asked by Handel&#039;s Alcina, an opera filled with lies and illusions; the beauty of Alcina&#039;s island, Bradamante&#039;s disguise as Ricciardo, and Ruggiero&#039;s enchanted love for Alcina are all falsehoods whose exposure have serious emotional consequences for the characters of this story."
 slug = "sleek-storytelling-costly-illusions-wnos-alcina"

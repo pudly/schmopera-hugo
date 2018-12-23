@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Editorial"
+companies = ["Lyric Opera of Chicago"]
 date = "2015-01-12T10:11:00-05:00"
 lastmod = "2015-04-11T23:30:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428809399618/LyricOperaChicago.jpg"
 publishDate = "2015-01-12T10:11:00-05:00"
 short_description = "A Chicago-based non-profit organization is trying to help 92-year-old Diana see her first opera in about 8 years.\n\nOne Dream has set up a crowdfunding campaign, hoping to raise $1400 to pay for Diana’s ticket for a Lyric Opera of Chicago production, as well as handicap accessible transportation, and a videographer to capture her night out. "
 slug = "help-get-diana-to-the-opera"

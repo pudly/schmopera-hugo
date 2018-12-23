@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "News"
 date = "2017-06-02T08:35:00-04:00"
 lastmod = "2017-06-02T10:09:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496411851583/2017-06-02---Pavarotti.jpg"
 publishDate = "2017-06-02T10:09:00-04:00"
 short_description = "The documentary will include interview footage, clips of him singing, and Howard and his team will have full access to the Pavarotti family archives. &quot;He has been vastly documented and recorded,&quot; says Howard, &quot;enough that even though he&#039;s not with us, we’re going to be able to allow Pavarotti to tell his own story.&quot;"
 slug = "ron-howard-to-direct-new-pavarotti-documentary"

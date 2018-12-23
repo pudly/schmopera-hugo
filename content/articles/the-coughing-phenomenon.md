@@ -1,7 +1,9 @@
 +++
+author = "Jenna Simeonov"
 categories = "Humour"
 date = "2016-08-31T13:04:00+01:00"
 lastmod = "2016-09-04T10:51:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472902715007/2016-09-03---Cough.jpg"
 publishDate = "2016-09-04T10:51:00+01:00"
 short_description = "Does the initial cougher do so because they really were holding it in for the last little bit? Or is it a release of tension, brought on by impressive music and then a sudden, maybe uncomfortable, silence? "
 slug = "the-coughing-phenomenon"

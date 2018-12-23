@@ -1,7 +1,10 @@
 +++
+author = "Jenna Simeonov"
 categories = "Humour"
+companies = ["Royal Opera House"]
 date = "2013-12-20T09:29:00-05:00"
 lastmod = "2015-04-28T23:35:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430278492837/Screen-Shot-2013-12-20-at-10.51.16-AM.png"
 publishDate = "2013-12-20T09:29:00-05:00"
 short_description = "I think this event was a groundbreaking step forward in making opera accessible to a new generation. Moderated by our favourite Stephen Fry, the Intelligence² debate was whether Richard Wagner or Giuseppe Verdi reigned as an operatic master. "
 slug = "stephen-frys-latest-charming-appearance-at-the-royal-opera-house"

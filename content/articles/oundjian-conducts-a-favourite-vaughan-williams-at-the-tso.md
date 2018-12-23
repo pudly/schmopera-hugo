@@ -1,7 +1,11 @@
 +++
+author = "Greg Finney"
 categories = "Review"
+companies = ["Toronto Symphony Orchestra"]
 date = "2017-11-17T12:50:00-05:00"
 lastmod = "2017-11-18T09:31:00-05:00"
+people = ["Carla Huhtanen","Lawrence Wiliford","Emily D'Angelo","Tyler Duncan"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510940299895/2017-11-17---square---EIS%2C-Huhtanen%2C-DAngelo%2C-Wiliford%2C-Duncan-Jag-Gundu-TSO.jpg"
 publishDate = "2017-11-17T12:50:00-05:00"
 short_description = "Soprano Carla Huhtanen sang with her bright, piercing yet warm tone and was a perfect fit for the composer&#039;s score. Her bloom over the apogee of each phrase was thrilling every time. Emily D&#039;Angelo brought a strong dark mezzo to the mix and flashed some incredibly impressive chest voice. Tenor Lawrence Williford demonstrated yet again why this kind of work is definitely in his wheelhouse, I found that his diction was the clearest throughout the piece."
 slug = "oundjian-conducts-a-favourite-vaughan-williams-at-the-tso"

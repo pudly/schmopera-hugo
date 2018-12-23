@@ -1,7 +1,11 @@
 +++
+author = "Blanche Israël"
 categories = "Review"
+companies = ["Oper Frankfurt"]
 date = "2017-10-09T11:45:00-04:00"
 lastmod = "2017-10-09T21:57:00-04:00"
+people = ["Sydney Mancasola","AJ Glueckert","Clive Bayley","Jane Henschel","Angela Vallone","Vincent Wolfsteiner","Sara Jakubiak"]
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507564036570/2017-10-09---3391_petergrimes07_gross.jpg"
 publishDate = "2017-10-09T19:22:00-04:00"
 short_description = "Warner&#039;s Grimes is far from blameless, mirroring the ambiguity around an attitude that welcomes outsiders when those outsiders pose a perceived threat. For a German audience that is still adjusting to the arrival of a million Syrian refugees in the wake of the 2015 migrant crisis and whose dark history of unfounded scapegoating still looms large, this Peter Grimes struck a resounding chord. "
 slug = "xenophobia-fake-news-mental-health-peter-grimes"

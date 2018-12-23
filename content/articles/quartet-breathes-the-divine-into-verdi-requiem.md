@@ -1,7 +1,9 @@
 +++
+author = "Oliver Munar"
 categories = "Review"
 date = "2018-11-10T12:31:00-05:00"
 lastmod = "2018-11-10T12:57:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541871051128/sqCPORequiem.jpg"
 publishDate = "2018-11-10T12:31:00-05:00"
 short_description = "performance. Each instance of the &quot;Dies Irae&quot; theme, in which the chorus competes with a bombastic orchestra, was performed with gusto and confidence. The choir also excelled in its polyphony, with the challenging &quot;Sanctus&quot; and &quot;Libera me&quot; fugue performed well on this night."
 slug = "quartet-breathes-the-divine-into-verdi-requiem"

@@ -1,8 +1,12 @@
 +++
+author = "Jenna Simeonov"
 categories = "Interview"
+companies = ["The Dallas Opera"]
 date = "2015-04-10T23:25:00-04:00"
 lastmod = "2015-04-10T23:25:00-04:00"
+people = ["Jennifer Condon","Jessica Gethin","Natalie Murray Beale","Stephanie Rhodes","Anna Skryleva","Lidiya Yankovskaya","Arianne Abela","Luçik Aprahämian"]
 preamble = "<p>\n\t<a href=\"http://dallasopera.org/\" target=\"_blank\" data-mce-href=\"http://dallasopera.org/\">The Dallas Opera</a> has announced an exciting new residential program: the <a href=\"http://dallasopera.org/learn/womens-conducting-institute/\" target=\"_blank\" data-mce-href=\"http://dallasopera.org/learn/womens-conducting-institute/\">Institute for Women Conductors</a>. Running November 28th to December 5th, 2015, the program gives young women the chance to learn and gain conducting experience, with guidance from TDO's Music Director <a href=\"http://dallasopera.org/about/staff/music-director/\" target=\"_blank\" data-mce-href=\"http://dallasopera.org/about/staff/music-director/\">Emmanuel Villaume</a>, and Principal Guest Conductor, <a href=\"http://dallasopera.org/about/staff/guest-conductor/\" target=\"_blank\" data-mce-href=\"http://dallasopera.org/about/staff/guest-conductor/\">Nicole Paiement</a> (pictured above). Six participants will be selected from the application process, and all six will conduct in a final concert with The Dallas Opera Orchestra. <a href=\"http://dallasopera.org/about/staff/general-director/\" target=\"_blank\" data-mce-href=\"http://dallasopera.org/about/staff/general-director/\">Keith Cerny</a>, General Director and CEO of The Dallas Opera, took the time to answer a few of my questions about what I think is an exciting new precedent in training today's artists.\n</p>"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428722480411/Nicole-Paiement-by-Roger-Steen-1_Fotor.jpg"
 publishDate = "2015-03-02T09:25:00-05:00"
 short_description = "The Dallas Opera has announced an exciting new residential program: the Institute for Women Conductors. Running November 28th to December 5th, 2015, the program gives young women the chance to learn and gain conducting experience, with guidance from TDO’s Music Director Emmanuel Villaume, and Principal Guest Conductor, Nicole Paiement (pictured above). Six participants will be selected from the application process, and all six will conduct in a final concert with The Dallas Opera Orchestra."
 slug = "fostering-maestras-the-institute-for-women-conductors-at-the-dallas-opera"
