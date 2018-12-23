@@ -6,6 +6,7 @@ date = "2016-10-14T15:54:00+01:00"
 lastmod = "2016-10-15T15:12:00+01:00"
 people = ["Christine Buras"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476528660323/2016-10-14---Feet-Square.jpg.jpg"
+primary_image_credit = "Christine Buras performing \"Feet.\" Photo courtesy of Gestalt Arts."
 publishDate = "2016-10-15T12:02:00+01:00"
 short_description = "At the back of the Natural History gallery, soprano Christine Buras was found in pigeon-like garb, curiously inspecting the listeners with twitching movements and unsettling direct eye contact. The story unfolded of a pigeon, whose feet had been cruelly severed by &quot;country folk,&quot; and put &quot;in the pockets of farm boys,&quot; as a good luck charm."
 slug = "a-dove-as-you-know-is-respected"

@@ -9,7 +9,10 @@ publishDate = "2015-07-02T07:30:00-06:00"
 short_description = "Today, readers, is my lovely father&#039;s 60th birthday! Over the years, he has become a big fan of live music; he may argue that it was against his will, but he never balked at the chance to hear me play, I know that. "
 slug = "my-dad-rigoletto"
 title = "My dad &gt; Rigoletto"
-youtube_url = "https://youtu.be/KwwC5AVy5xQ"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://youtu.be/KwwC5AVy5xQ"
 +++
 
 Today, readers, is my lovely father's 60th birthday! Over the years, he has become a big fan of live music; he may jokingly argue that it was against his will, but he never balked at the chance to hear me play, I know that. 

@@ -5,6 +5,7 @@ companies = ["Glyndebourne"]
 date = "2017-05-30T08:42:00-04:00"
 lastmod = "2017-05-30T08:49:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496148209163/Square-Hipermestra-Glyndebourne-2493.jpg.jpg"
+primary_image_credit = "Hipermestra (Emőke Baráth) in Hipermestra, Glyndebourne, 2017. Photo: Tristam Kenton."
 publishDate = "2017-05-30T08:49:00-04:00"
 short_description = "Fifty brides, a giant flying peacock, and appropriated costumes from the middle east are all present in Glyndebourne’s new production of Hipermestra by Cavalli. Long-established Glyndebourne veterans William Christie and Graham Vick collaborated to bring this opera to life for the first time since the seventeenth century."
 slug = "in-review-hipermestra-at-glyndebourne"

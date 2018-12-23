@@ -6,6 +6,7 @@ date = "2018-01-14T17:40:00-05:00"
 lastmod = "2018-01-14T21:16:00-05:00"
 people = ["Samuel Boden"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515969245301/sq---PR8A8347-RODERICK-WILLIAMS-AS-ULYSSES-ROH-%26-ROUNDHOUSE.-PHOTO-BY-STEPHEN-CUMMISKEY.jpg.jpg"
+primary_image_credit = "Roderick Williams as Ulysses in The Return of Ulysses, The Roundhouse, ROH, 2018. Photo: Stephen Cummiskey."
 publishDate = "2018-01-14T18:38:00-05:00"
 short_description = "The undeniable star of the show was the spectacular Roderick Williams. His performance was completely committed, both vocally and from an acting perspective. He savoured every word of recitative, brought out every moment of power and beauty in the music he performed. He welcomed his audience into the space with his unique, natural warmth, making the production a joy from beginning to end."
 slug = "a-product-of-great-artistry-the-return-of-ulysses-at-the-roundhouse"

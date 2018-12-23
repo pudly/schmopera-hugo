@@ -10,7 +10,10 @@ publishDate = "2014-05-02T10:08:00-04:00"
 short_description = "Toronto Operetta Theatre opens Cousin From Nowhere on Thursday night, and you can catch tenor Christopher Mayell onstage. He sheds some light on the question we all ask at the oper(ett)a: &quot;Why Mid-Atlantic?&quot;"
 slug = "mayells-midatlantic"
 title = "Mayell&#039;s Mid-Atlantic"
-youtube_url = "https://www.youtube.com/watch?v=34XwGCqM_t4&feature=youtu.be"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/watch?v=34XwGCqM_t4&feature=youtu.be"
 +++
 
 Toronto Operetta Theatre opens [_Cousin From Nowhere_](https://boxoffice.stlc.com/public/show.asp?shcode=944) on Thursday night, and you can catch tenor Christopher Mayell onstage. He sheds some light on the question we all ask at the oper(ett)a: "Why Mid-Atlantic?"

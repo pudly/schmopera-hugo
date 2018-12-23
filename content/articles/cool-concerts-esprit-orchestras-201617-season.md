@@ -6,6 +6,7 @@ date = "2016-08-30T20:05:00+01:00"
 lastmod = "2016-09-03T10:37:00+01:00"
 people = ["Krisztina Szabó"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472584619387/2016-08-30---EspritSzabo.jpg.jpg"
+primary_image_credit = "The Esprit Orchestra (left) and Krisztina Szabó, mezzo-soprano. Photos by Bo Huang."
 publishDate = "2016-09-02T09:08:00+01:00"
 short_description = "On October 23, Power On celebrates Canadian great R. Murray Schafer, featuring three of his works, plus the Canadian premiere of Andrew Norman&#039;s Switch, for percussion and orchestra. Under Music Director Alex Pauk, the Esprit Orchestra is joined by mezzo-soprano Krisztina Szabó, flautist Robert Aitken, and percussionist Ryan Scott."
 slug = "cool-concerts-esprit-orchestras-201617-season"

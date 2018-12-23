@@ -6,6 +6,7 @@ date = "2018-04-09T12:55:00-04:00"
 lastmod = "2018-04-10T12:33:00-04:00"
 people = ["Elise Quagliata"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523297302011/sq---JB4A7198.jpg.jpg"
+primary_image_credit = "Out of Darkness: Two Remain, the Atlanta Opera, 2018. Photo courtesy of The Atlanta Opera."
 publishDate = "2018-04-09T14:18:00-04:00"
 short_description = "The second act follows the story of Gad Beck, performed by actor Tom Key. Gad, an older man, is preparing for bed when the ghost of his lover, Manfred Lewin, appears to remind Gad of the horrors, though Gad, who has held on to Manfred&#039;s book of poetry and his picture, had spent years just trying to forget it."
 slug = "perfect-for-its-time-heggie-double-bill-in-atlanta"

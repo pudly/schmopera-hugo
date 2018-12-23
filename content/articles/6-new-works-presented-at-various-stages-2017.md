@@ -5,6 +5,7 @@ companies = ["Mahogany Opera Group"]
 date = "2017-02-27T12:22:00+00:00"
 lastmod = "2017-02-28T11:25:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488280027751/2017-02-28---Square-VSF17_Samples_James-Berry_023.jpg.jpg"
+primary_image_credit = "The Various Stages Festival, presented by Mahogany Opera Group, 2017. Photo by James Berry."
 publishDate = "2017-02-28T11:25:00+00:00"
 short_description = "What was fascinating was hearing the questions that the creators of the works posed to the listeners. They offered their own inspiration for artistic choices, wondering if their intended affect made its way to the audience. Perhaps it&#039;s a good test to run works-in-process by an audience of industry folks and critics; if an opera can impress them, they&#039;re likely in good shape for general audiences."
 slug = "6-new-works-presented-at-various-stages-2017"

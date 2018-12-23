@@ -6,6 +6,7 @@ date = "2018-10-10T21:23:00-04:00"
 lastmod = "2018-10-10T21:23:00-04:00"
 people = ["Joshua Guerrero","Lucas Meachem","Venera Gimadieva"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539220853410/ViolettasopranoVeneraGimadievrealizesfatewontbekindtoherinWNOsLaTraviata2018production_creditScottSuchman.jpg.jpg"
+primary_image_credit = "Venera Gimadieva (Violetta) in Washington National Opera's production of La traviata, 2018. Photo by Scott Suchman."
 publishDate = "2018-10-10T21:23:00-04:00"
 short_description = "With a voice that&#039;s all crystal clear, ringing resonance, yet absolutely weightless, she danced through the fioratura of &quot;Sempre libera&quot; without breaking a sweat, and finishing with a perfect high E-flat, then sang with a breathtakingly tender sotto voce in her scene with Germont at &quot;Dite alla giovine,&quot; before opening up later in the act with the broad, sweeping &quot;Amami Alfredo!&quot; while never over-singing. In the final act she offered a gloriously floated high A at the end of simply and beautifully sung &quot;Addio del passato.&quot;"
 slug = "a-shining-violetta-in-washington"

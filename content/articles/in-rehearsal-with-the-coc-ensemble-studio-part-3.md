@@ -10,7 +10,10 @@ publishDate = "2014-02-05T10:05:00-05:00"
 short_description = "This Friday, the Canadian Opera Company&#039;s Ensemble Studio have their performance of Così fan tutte, directed by Atom Egoyan. This unique performance features all the young artists in the Ensemble Studio, who work additionally as covers to the mainstage cast. In the last of our three-part series, we meet soprano Claire de Sévigné (Despina) and baritone Gordon Bintner (Don Alfonso)."
 slug = "in-rehearsal-with-the-coc-ensemble-studio-part-3"
 title = "In rehearsal with the COC Ensemble Studio: part 3"
-youtube_url = "https://youtu.be/_U3x3JQ6a0o"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://youtu.be/_U3x3JQ6a0o"
 +++
 
 This Friday, the Canadian Opera Company's Ensemble Studio have their performance of Così fan tutte, directed by Atom Egoyan. This unique performance features all the young artists in the Ensemble Studio, who work additionally as covers to the mainstage cast. In the last of our three-part series, we meet soprano Claire de Sévigné (Despina) and baritone Gordon Bintner (Don Alfonso). It's a peek into their rehearsal process, and what these two young singers think of their onstage personae.

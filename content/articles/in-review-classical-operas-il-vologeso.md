@@ -6,6 +6,7 @@ date = "2016-04-29T12:10:00+01:00"
 lastmod = "2016-04-29T14:03:00+01:00"
 people = ["Ian Page","Rachel Kelly","Angela Simkin"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461932677954/2016-04-29---Cadogan-Hall.jpg.jpg"
+primary_image_credit = "Cadogan Hall."
 publishDate = "2016-04-29T13:55:00+01:00"
 short_description = "Perhaps it&#039;s true that Jommelli will not be remembered as one of the great composers of his time, but Il Vologeso is a great opera. It&#039;s full of love and lust, neglected and abused women, political differences, pride, and just endings. Under Ian Page, the Orchestra of Classical Opera started with a burst of energy that stayed present throughout the night; no two phrases were alike, and the orchestra were main players in the drama alongside the singers."
 slug = "in-review-classical-operas-il-vologeso"

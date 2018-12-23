@@ -10,7 +10,10 @@ publishDate = "2018-02-22T11:15:00-05:00"
 short_description = "Some warmth on this chilly Thursday: the Amici Ensemble and soprano Mireille Asselin covers Leonard Cohen&#039;s Hallelujah. It&#039;s a clip from their newly released album, Inspired by Canada/Notre Pays. Curl up with some tea, hit play, and let the tears flow."
 slug = "hallelujah-for-the-amici-ensemble"
 title = "Hallelujah for the Amici Ensemble"
-youtube_url = "https://youtu.be/Zxew3rtd16g"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://youtu.be/Zxew3rtd16g"
 +++
 
 

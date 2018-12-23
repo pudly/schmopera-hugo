@@ -8,7 +8,10 @@ publishDate = "2015-04-21T15:44:00-04:00"
 short_description = "I was watching Freddie Mercury videos earlier today, in research for my recent post about music videos and opera. So, I just want to make sure everyone has seen this. Freddie Mercury sings &quot;Barcelona&quot; with Montserrat Caballé, released in 1988. Freddie looks so dapper, and Monserrat is hamming it up. I love it."
 slug = "speaking-of-freddie-mercury"
 title = "Speaking of Freddie Mercury..."
-youtube_url = "https://www.youtube.com/watch?v=o8Eg-mWdDLc"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/watch?v=o8Eg-mWdDLc"
 +++
 
 

@@ -5,6 +5,7 @@ date = "2018-04-30T17:46:00-04:00"
 lastmod = "2018-04-30T21:41:00-04:00"
 people = ["Isabel Leonard","Andrey Zhilikhovsky","Taylor Stayton","Paolo Bordogna","Wei Wu"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525124778173/sqIsabelLeonardRosinaTenorTaylorStaytonCountAlmavivainWNOTheBarberofSeville_creditScottSuchman.jpg.jpg"
+primary_image_credit = "Isabel Leonard (Rosina) and Taylor Stayton (Almaviva) in The Barber of Seville, WNO, 2018. Photo: Scott Suchman."
 publishDate = "2018-04-30T21:41:00-04:00"
 short_description = "Leonard&#039;s voice is smooth and dark, but simultaneously buoyant and splendidly agile; she is perfectly suited to Rossini, and she appears to love it. If only the staging used her better!  She subtly pulled off one of the funniest moments of the evening as she began the cabaletta while genteelly practicing her needlepoint as she sings about being a sweet, obedient young lady, but once she arrives at the all important &quot;ma...&quot; sings &quot;ma se mi toccano dov&#039;è il mio debole&quot; through gritted teeth as she aggressively stabs the sampler with her needle, while the audience roars with laughter."
 slug = "leonard-reigns-as-rosina-in-wnos-barber"

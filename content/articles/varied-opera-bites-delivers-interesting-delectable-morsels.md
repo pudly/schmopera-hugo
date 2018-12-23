@@ -5,6 +5,7 @@ companies = ["Boston Opera Collaborative"]
 date = "2018-10-28T12:49:00-04:00"
 lastmod = "2018-10-28T16:16:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540745177708/sqAbsentGrace.jpg.jpg"
+primary_image_credit = "Carley DeFranco in Opera Bites, Boston Opera Collaborative, 2018. Photo: Dan Busler."
 publishDate = "2018-10-28T12:49:00-04:00"
 short_description = "Of course no wife would be spurred to murder her husband based on fortune cookie fortunes, but here it happens, and in exactly the kind of over-the-top manner that only opera can pull off. It was a joyous way to end the first half of the program."
 slug = "varied-opera-bites-delivers-interesting-delectable-morsels"

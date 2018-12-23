@@ -5,6 +5,7 @@ date = "2016-09-27T09:15:00+01:00"
 lastmod = "2016-09-27T11:17:00+01:00"
 people = ["Alek Shrader"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474964220163/2016-09-26---Alek-Shrader.jpg.jpg"
+primary_image_credit = "Photo: Peter Schaaf"
 publishDate = "2016-09-27T10:12:00+01:00"
 short_description = "There seemed to be two versions of Alek Shrader, one who was invested in singing well and communicating deeply, and another who was humble, perhaps a bit shy, and who relished the chance to move the spotlight onto Vignoles for the fun piano part in Rossini&#039;s tarantella. "
 slug = "in-review-alek-shrader-at-wigmore-hall"

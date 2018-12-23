@@ -6,6 +6,7 @@ date = "2017-09-29T19:14:00-04:00"
 lastmod = "2017-09-30T08:49:00-04:00"
 people = ["Gwyn Hughes Jones","Musa Ngqungwana","Michelle DeYoung","Latonia Moore"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506775588092/2017-09-29---square---ENO-Aida-Latonia-Moore-4-Tristram-Kenton.jpg.jpg"
+primary_image_credit = "Latonia Moore in the title role of Aida, ENO, 2017. Photo: Tristam Kenton."
 publishDate = "2017-09-30T08:48:00-04:00"
 short_description = "This production was very beautiful from a visual perspective. The sets were colossal, drawing the audience into a strange fantasy world. It was full of stunning tableaus, especially those that included the whole cast, the chorus and the wonderful acrobatic ensemble, Improbable. The lighting design was particularly clever, illuminating the production in a way which seemed almost symbolistc. For me, the most stunning moment of the whole production was the strange ending."
 slug = "stellar-singing-curious-costumes-in-enos-aida"

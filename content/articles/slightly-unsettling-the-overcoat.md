@@ -6,6 +6,7 @@ date = "2018-05-08T11:12:00-04:00"
 lastmod = "2018-05-10T20:14:00-04:00"
 people = ["Geoffrey Sirett","Peter McGillivray","Andrea Ludwig","Erica Iris","Caitlin Wood","Giles Tomkins","Asitha Tennekoon","Aaron Durand","Magali Simard-Galdès","Meher Pavri"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525792262349/sqVancouverOperaTheOvercoatcredTimMatheson195A5504e.jpg.jpg"
+primary_image_credit = "Geoffrey Sirett in The Overcoat: A Musical Tailoring, Vancouver Opera, 2018. Photo: Tim Matheson."
 publishDate = "2018-05-08T11:12:00-04:00"
 short_description = "Sometimes they&#039;ll just lay under the bed and watch the action taking place, or curl up into a corner; it is creepy and odd, but works so well for this style."
 slug = "slightly-unsettling-the-overcoat"

@@ -5,6 +5,7 @@ date = "2017-10-10T19:17:00-04:00"
 lastmod = "2017-10-17T10:07:00-04:00"
 people = ["Brian Mulligan"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507906719458/2017-10-13---square---Brian-Mulligan-46-3615.ImagebyDarioAcosta.jpg.jpg"
+primary_image_credit = "Photo by Dario Acosta."
 publishDate = "2017-10-17T10:07:00-04:00"
 short_description = "Mulligan has a thrilling quality in his voice, an open-throated sound that&#039;s masculine, honest, and completely appealing; his is an exhilarating balance between constant beauty and toeing a risky edge."
 slug = "a-bold-debut-album-brian-mulligan-sings-dominick-argento"

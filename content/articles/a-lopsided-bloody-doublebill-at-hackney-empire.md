@@ -5,6 +5,7 @@ date = "2017-09-20T20:37:00-04:00"
 lastmod = "2017-09-20T21:36:00-04:00"
 people = ["Albane Carrère","Romain Bockler","Adrienn Miksch"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505954725944/2017-09-20---square---Senza-Sangue-14---Albane-Carre%CC%80re-as--The-Woman-and-Romain-Bockler-as-The-Man.jpg.jpg"
+primary_image_credit = "Albane Carrère as The Woman and Romain Bockler as The Man in Senza Sangue, Hackney Empire, 2017. Photo: Anett Kállay-Tóth."
 publishDate = "2017-09-20T21:33:00-04:00"
 short_description = "The second piece of the programme was Bartók&#039;s staggering Bluebeard&#039;s Castle. Bluebeard&#039;s lush mystery couldn&#039;t have provided a stronger contrast to tense grey world of Senza Sangue. This production too began with a bare stage, but through the brilliant lighting design of Philippe Grosperrin, each of Bluebeard&#039;s seven forbidden rooms came to light."
 slug = "a-lopsided-bloody-doublebill-at-hackney-empire"

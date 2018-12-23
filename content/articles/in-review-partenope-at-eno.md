@@ -6,6 +6,7 @@ date = "2017-03-16T09:26:00+00:00"
 lastmod = "2017-03-17T10:03:00+00:00"
 people = ["Rupert Charlesworth","Patricia Bardon","Sarah Tynan","James Laing","Stephanie Windsor-Lewis"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489656315078/2017-03-16---Square---ENO-Partenope-Sarah-Tynan-Donald-Cooper.jpg.jpg"
+primary_image_credit = "Sarah Tynan in the title role of Partenope, English National Opera, 2017. Photo: Donald Cooper."
 publishDate = "2017-03-17T09:42:00+00:00"
 short_description = "There&#039;s no envy on our end for directors who put up Handel operas, and Partenope seems another which poses tricky dramaturgical questions; the biggest of these is the problem fo where these characters are, and why they share a common space. Alden&#039;s open-house concept, where everyone seems to hang out chez Partenope, works well; he finds an organic way to waver between real-time action and inner monologues, as though he hits &quot;pause&quot; and &quot;play&quot; on the general timeline of the story."
 slug = "in-review-partenope-at-eno"

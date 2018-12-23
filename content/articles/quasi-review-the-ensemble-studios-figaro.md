@@ -6,6 +6,7 @@ date = "2016-02-23T10:43:00-05:00"
 lastmod = "2016-02-23T11:47:00-05:00"
 people = ["Iain MacNeil","Karine Boucher","Gordon Bintner","Aviva Fortunata","Jacqueline Woodley","Jean-Philippe Fortier-Lazure","Aaron Sheppard","Jordan de Souza","Jennifer Szeto","Russell Braun","Jane Archibald","Erin Wall","Megan Latham"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456243228958/2016-02-23---Figaro-Ensemble-MC-Square.jpg.jpg"
+primary_image_credit = "A scene from the Ensemble Studio performance of The Marriage of Figaro, Canadian Opera Company, 2016. Photo: Michael Cooper."
 publishDate = "2016-02-23T11:47:00-05:00"
 short_description = "These annual performances are often a cornerstone for the members of the Ensemble Studio. It&#039;s a unique experience, both as a performance and as a learning process; rarely in their lives will these young artists have so much rehearsal time, coachings with multiple members of music staff, or compounded staging rehearsals (both as understudies and as principal roles). "
 slug = "quasi-review-the-ensemble-studios-figaro"

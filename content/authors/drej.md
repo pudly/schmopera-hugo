@@ -7,8 +7,11 @@ publishDate = "2016-01-03T02:40:00+00:00"
 short_bio = "A technologist, entrepreneur, and manager of experience technology during his &#039;day job&#039;. Andrej is the designer and developer of Schmopera and orchestrator all things marketing, development, and business related. While he hides behind the curtain most of the time, he will poke his head out and provide some insightful knowledge about the workings of Schmopera itself."
 slug = "drej"
 title = "Andrej Simeonov"
-twitter = "http://twitter.com/dr_drej/"
 website = "http://www.pud.ca/"
+[[social_media]]
+platform = " Twitter"
+template = "social-media"
+url = "http://twitter.com/dr_drej/"
 +++
 
 A technologist, entrepreneur, and manager of experience technology during his 'day job'. Andrej is the designer and developer of Schmopera and orchestrator all things marketing, development, and business related. While he hides behind the curtain most of the time, he will poke his head out and provide some insightful knowledge about the workings of Schmopera itself.

@@ -6,6 +6,7 @@ date = "2015-04-22T18:22:00-04:00"
 lastmod = "2015-04-25T15:12:00-04:00"
 people = ["Ambur Braid"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429742751732/AmburChloeMag_Fotor.jpg.jpg"
+primary_image_credit = "Soprano Ambur Braid. Photo: Chloe magazine."
 publishDate = "2015-04-23T09:00:00-04:00"
 short_description = "English National Opera announced their 2015/15 season, and making an appearance is friend, fellow COC Ensemble graduate, and stellar soprano Ambur Braid. "
 slug = "friends-at-the-eno"

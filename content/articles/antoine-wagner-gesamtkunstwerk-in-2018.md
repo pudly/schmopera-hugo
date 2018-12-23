@@ -5,6 +5,7 @@ date = "2018-07-04T16:29:00-04:00"
 lastmod = "2018-07-04T17:42:00-04:00"
 people = ["Alan Held"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1530736137589/Antoine-wagner-portrait1.jpg.jpg"
+primary_image_credit = "Photo: Thomas Birkett."
 publishDate = "2018-07-04T17:42:00-04:00"
 short_description = "He remembers an early-1990s summer at the Bayreuth Festival, during the creation of the now-famed Harry Kupfer production of the Ring Cycle, conducted by Daniel Barenboim. Antoine and Barenboim&#039;s son, David, had renamed all of their He-Man figurines after Wagnerian characters."
 slug = "antoine-wagner-gesamtkunstwerk-in-2018"

@@ -11,7 +11,10 @@ publishDate = "2015-08-31T08:19:00-04:00"
 short_description = "Essential Opera&#039;s new seasons starts October 8th in Halifax, with a presentation of Elisha Denburg&#039;s Regina at the Gilsig Series in Jewish Arts &amp; Culture at Dalhousie University. Regina reprises along with Monica Pearce&#039;s Etiquette in Ottawa on October 16-18, in conjunction with Opera Lyra Ottawa."
 slug = "check-out-essential-opera"
 title = "Check out: Essential Opera"
-youtube_url = "https://youtu.be/OJSCTSHJ6uc"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://youtu.be/OJSCTSHJ6uc"
 +++
 
 

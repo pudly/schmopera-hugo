@@ -6,6 +6,7 @@ date = "2016-10-01T00:05:00+01:00"
 lastmod = "2016-10-01T13:00:00+01:00"
 people = ["Christopher Purves","Allan Clayton","Christine Rice","Mary Bevan"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475276672012/2016-09-30---ENO-Don-Giovanni-Christopher-Purves-5-Robert-Workman.jpg.jpg"
+primary_image_credit = "Christopher Purves in the title role of Don Giovanni, ENO, 2016. Photo: Robert Workman."
 publishDate = "2016-10-01T11:48:00+01:00"
 short_description = "So, it was a real moment of excitement to settle into the first minutes of Richard Jones&#039;s new production at English National Opera. His is a production that ingeniously straddles the line between the symbolic and the real; the characters are at once archetypes - the virgin, the scorned, the doting boyfriend - and specific people."
 slug = "in-review-don-giovanni-at-eno"

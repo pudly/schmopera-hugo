@@ -6,6 +6,7 @@ date = "2016-02-13T12:02:00-05:00"
 lastmod = "2016-02-13T12:45:00-05:00"
 people = ["Sondra Radvanovsky","Jake Heggie"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455382307263/2016-02-13---Sonda-Radvanovsky.jpg.jpg"
+primary_image_credit = "Photo: Pavel Antonov"
 publishDate = "2016-02-13T12:29:00-05:00"
 short_description = "Radvanovsky will chat with Scorca about her &quot;Three Queens&quot; project with the Metropolitan Opera this season (she sings the title roles in Donizetti&#039;s Anna Bolena, Roberto Devereux, and Maria Stuarda); plus, she&#039;ll talk about her career and success in what will likely be an engaging and honest discussion."
 slug = "free-live-stream-sondra-radvanovsky-at-the-national-opera-center"

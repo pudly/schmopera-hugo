@@ -6,6 +6,7 @@ date = "2016-07-24T10:10:00-04:00"
 lastmod = "2016-07-25T09:34:00-04:00"
 people = ["Emma Char","Owen McCausland","Chelsea Rus","Christopher Mokrzewski","Joel Ivany","Anna Theodosakis","Beste Kalender","Ellen McAteer","Peter Rolfe Dauz","Iain MacNeil"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469370769220/2016-07-24---Lucretia-TSFM-Square.jpg.jpg"
+primary_image_credit = "Emma Char as Lucretia in Against the Grain Theatre's The Rape of Lucretia, TSMF, 2016. Photo by Jorge Chaves."
 publishDate = "2016-07-24T10:45:00-04:00"
 short_description = "In the title role, mezzo-soprano Emma Char, was every bit of the descriptions we hear of Lucretia at the beginning of the show. Delicate, pure, and lovely on stage, she had a groundedness that I really enjoyed. The whole space seemed to calm down when she stepped on stage - which was made all the more thrilling when her character shifts to a darker place after the events of Act II. "
 slug = "in-review-the-rape-of-lucretia-at-tsmf"

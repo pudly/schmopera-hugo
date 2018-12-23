@@ -6,6 +6,7 @@ date = "2016-02-22T09:55:00-05:00"
 lastmod = "2016-02-22T11:10:00-05:00"
 people = ["Dmitri Hvorostovsky"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456155167180/2016-02-22---Dmitri-Hvorostovsky---Pavel-Antonov"
+primary_image_credit = "Photo by Pavel Antonov."
 publishDate = "2016-02-22T10:30:00-05:00"
 short_description = "He sang with that delicious, velvety focus in his sound, and it struck me how rare it is to hear a baritone sing as consistently lyrically as he does. At 53, Hvorostovsky still has that enormous breath control, and the unfailing legato we all love; there was youth and fitness in his sound, and it was thrilling to watch."
 slug = "in-review-dmitri-hvorostovsky-at-koerner-hall"

@@ -1,0 +1,20 @@
++++
+date = "2015-04-22T20:06:00-04:00"
+discipline = "Baritone"
+lastmod = "2015-04-22T22:59:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429757919050/949ceee4-ac54-4721-bf90-ce14bdbbfd53.jpg.jpg"
+publishDate = "2015-04-22T20:13:00-04:00"
+slug = "brent-calis"
+title = "Brent Calis"
+website = "http://brentcalisphotography.com/about/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/pages/Brent-Calis-Photography/60298349096?fref=ts"
+[[social_media]]
+platform = " Twitter"
+template = "social-media"
+url = "https://twitter.com/BrentCalis"
++++
+
+Brent Calis is a Montréal-based baritone. Canadian born, with Turkish/Armenian roots, Brent Calis sings opera in the winters and takes pictures in the summers.

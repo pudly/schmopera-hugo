@@ -6,6 +6,7 @@ date = "2017-09-15T13:02:00-04:00"
 lastmod = "2017-10-02T21:12:00-04:00"
 people = ["John Fanning"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505494895761/2017-09-15---Fanning-Gotterdammerung---Gunther-Brunnhilde-0492.jpg.jpg"
+primary_image_credit = "John Fanning (Gunther) and Susan Bullock as (Brünnhilde) in the COC's production of Götterdämmerung. Photo: Michael Cooper."
 publishDate = "2017-10-02T20:51:00-04:00"
 short_description = "&quot;Even geezer singers will take breaths they shouldn&#039;t,&quot; he says of the all-too-human aspect to singing live onstage. &quot;Those things never change, we just get better at dealing with them.&quot;"
 slug = "talking-with-singers-john-fanning"

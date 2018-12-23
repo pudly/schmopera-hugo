@@ -6,6 +6,7 @@ date = "2018-01-24T16:26:00-05:00"
 lastmod = "2018-01-24T20:36:00-05:00"
 people = ["Joshua Guerrero"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516828894697/sq---KLP180123-_DSC1292.jpg.jpg"
+primary_image_credit = "Joshua Guerrero and Andrea Grant (on piano) perform in the Richard Bradshaw Amphitheatre, photo: Kevin Lloyd."
 publishDate = "2018-01-24T20:36:00-05:00"
 short_description = "It was one of those recitals that really does let you get to know an artist more. He was honest, open, and almost wide-eyed about his art; happily, he has the serious chops to back up the biography."
 slug = "autobiographical-recitals-joshua-guerrero-in-the-amphitheatre"

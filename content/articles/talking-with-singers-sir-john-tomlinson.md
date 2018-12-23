@@ -6,6 +6,7 @@ date = "2017-03-07T06:10:00-05:00"
 lastmod = "2017-10-02T21:00:00-04:00"
 people = ["Sir John Tomlinson"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489058833158/2017-03-09---Sir-John-Tomlinson-Photo-credit-Robert-Workman-(1).jpg.jpg"
+primary_image_credit = "Photo: Robert Workman."
 publishDate = "2017-03-16T06:34:00-04:00"
 short_description = "&quot;They&#039;re the most important years of my working life,&quot; he says, proud of the legacy of live performances and recordings, particularly from his time at the Bayreuth Festival. There, in the late 1980s, Sir John sang his first Wotans, along with fellow first-timer Daniel Barenboim at the podium. In his 18 years at Bayreuth, he recalls, &quot;I&#039;ve never answered so much fan mail in my whole life.&quot; The cast would sign autographs in the mornings following performances, &quot;and it would be a two-hour long session with endless people.&quot;"
 slug = "talking-with-singers-sir-john-tomlinson"

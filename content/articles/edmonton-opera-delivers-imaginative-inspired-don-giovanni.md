@@ -6,6 +6,7 @@ date = "2018-04-18T09:49:00-04:00"
 lastmod = "2018-04-19T10:48:00-04:00"
 people = ["Phillip Addis","John Tessier","Erik Anstine","Michele Capalbo","Whitney Leigh Sloan","Kirk Eichelberger"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524058584860/sq02PhillipAddisGiovanni.jpg.jpg"
+primary_image_credit = "Phillip Addis in the title role of Don Giovanni, Edmonton Opera, 2018. Photo: Nanc Price."
 publishDate = "2018-04-19T10:48:00-04:00"
 short_description = "If love is the soul of genius, as Wolfgang Amadeus Mozart once said, what would that make lustful abandon? In the case of one of opera’s best-known &quot;bad boys&quot;, a fiery eternity of damnation."
 slug = "edmonton-opera-delivers-imaginative-inspired-don-giovanni"

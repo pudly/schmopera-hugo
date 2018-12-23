@@ -6,6 +6,7 @@ date = "2017-03-13T13:16:00+00:00"
 lastmod = "2017-03-13T13:32:00+00:00"
 people = ["Angela Gheorghiu"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489411496883/2017-03-13----0512-ANGELA-GHEORGHIU-AS-ADRIANA-LECOUVREUR-ROH-PHOTO-BY-CATHERINE-ASHMORE.jpg.jpg"
+primary_image_credit = "Angela Gheorghiu in the title role of Adriana Lecouvreur, ROH, 2017. Photo by Catherine Ashmore."
 publishDate = "2017-03-13T13:32:00+00:00"
 short_description = "She continues, &quot;Due to pre-contractual breaches and the failure of Teatro Colon to fulfil my contractual terms, which are unquestionably respected wherever I sing, in opera houses and concert halls all over the world, I find myself in the impossibility to perform for the Argentinian audiences, which I love and highly adore.&quot;"
 slug = "she-said-they-said-crossed-wires-in-buenos-aires"

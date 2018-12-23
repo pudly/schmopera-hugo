@@ -6,6 +6,7 @@ date = "2016-08-23T18:22:00+01:00"
 lastmod = "2016-08-25T14:55:00+01:00"
 people = ["Sondra Radvanovsky","Isabel Leonard","Russell Thomas","Sonya Yoncheva","Sonia Ganassi","Elizabeth DeShong"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472061851056/2016-08-25---Norma.jpg.jpg"
+primary_image_credit = "Photo: Deborah's Perspective on Flickr."
 publishDate = "2016-08-25T14:49:00+01:00"
 short_description = "For British audiences, the Druids were a healthy dose of exoticism; still, the connection to the ancient societies of their own land likely held some form of national and cultural pride. Perhaps it was just enough mystery to pique interest in Norma, and just enough familiarity to easily identify with the values and decisions of the characters."
 slug = "familiar-exotic-a-brief-history-of-bellinis-norma"

@@ -5,6 +5,7 @@ date = "2016-08-17T11:56:00+01:00"
 lastmod = "2016-08-17T13:47:00+01:00"
 people = ["Peter McGillivray"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471435874613/2016-08-17---Adele-Oakland.jpg.jpg"
+primary_image_credit = "Adele at Oracle Arena, Oakland, August 2, 2016. Photo by Alexandra Waespi."
 publishDate = "2016-08-17T13:33:00+01:00"
 short_description = "It must be a strange thing to know that you&#039;re an artist who&#039;s in demand enough to be on a realistic list of artists who may sing at an event like the Superbowl, but that you&#039;re not the kind of artist to give a good show in that context. Artists of all calibres, and particularly opera singers, get put in plenty of little situations where the idea of the gig is better than the reality. "
 slug = "adele-knowing-your-audience"

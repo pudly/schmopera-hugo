@@ -6,6 +6,7 @@ date = "2016-05-04T17:33:00+01:00"
 lastmod = "2016-05-04T18:00:00+01:00"
 people = ["Luca Pisaroni","Leah Crocetto","Elizabeth DeShong","Harry Bicket"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462379676267/2016-05-05---Pisaroni-as-Maometto-II---Photo-by-Michael-Cooper.jpg.jpg"
+primary_image_credit = "Luca Pisaroni as Maometto II in the Canadian Opera Company's production of Maometto II. Photo: Michael Cooper."
 publishDate = "2016-05-04T18:00:00+01:00"
 short_description = "David Alden&#039;s production of Maometto, a work that until the revival in Santa Fe in 2012 hadn&#039;t been performed in it&#039;s entirety since Naples in 1820, was exactly what I think the COC needed in its season at this point. A simple, easy to digest set and staging, with a thrilling orchestra and incomparable vocals. I can&#039;t... I just can&#039;t get over the voices I heard last night."
 slug = "in-review-maometto-ii"

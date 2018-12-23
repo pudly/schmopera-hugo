@@ -5,6 +5,7 @@ companies = ["Lyric Opera of Chicago"]
 date = "2017-09-12T10:19:00-04:00"
 lastmod = "2017-09-13T12:01:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505237921168/2017-09-12---square---Blu-Rhythm-Collective-CCP-Final-performance-1-c.-Michael-Brosilow.jpg.jpg"
+primary_image_credit = "Blu Rhythm Collective, Community Created Performances, 2017. Photo: Michael Brosilow."
 publishDate = "2017-09-12T13:48:00-04:00"
 short_description = "The stories they shared were uniquely told yet, sadly, all too familiar in today’s social and political climate. Drawn from the performers&#039; own lived experiences, messages of solidarity and discrimination, faith and dejection, success and failure were accented against that complex mosaic of a backdrop: Chicago."
 slug = "the-positive-impact-of-community-created-performances"

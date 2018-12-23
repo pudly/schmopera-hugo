@@ -5,6 +5,7 @@ companies = ["Boston Lyric Opera"]
 date = "2018-05-12T17:27:00-04:00"
 lastmod = "2018-05-15T12:11:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526160248240/sq2018BLO-TAHITI-l-r-NFerreira-HJohnson-MBonde-VTurregano_sm.jpg.jpg"
+primary_image_credit = "(l-r) Neal Ferreira, Heather Johnson (Dinah), Mara Bonde, and Vincent Turregano in Trouble in Tahiti, Boston Lyric Opera, 2018. Photo: Liza Voll."
 publishDate = "2018-05-13T19:32:00-04:00"
 short_description = "As it turns out: with some very intelligent staging and committed performances from the cast, the tale of Sam and Dinah&#039;s dysfunctional marriage became the perfect backdrop for Arias. Thus, it became the kind of thought-provoking evening that I think Bernstein always strived for but never seemed to get through his music."
 slug = "profound-moving-bernstein-doublebill"

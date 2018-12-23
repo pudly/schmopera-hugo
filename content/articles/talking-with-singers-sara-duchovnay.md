@@ -6,6 +6,7 @@ lastmod = "2018-04-21T10:30:00-04:00"
 people = ["Sara Duchovnay"]
 preamble = "Soprano [Sara Duchovnay](/scene/people/sara-duchovnay/) is making waves in the opera world. She's gearing up to sing Lauretta in Opera Delaware's double-bill of Puccini's [*Gianni Schicchi* and *Buoso's Ghost*](http://www.operade.org/2018-festival-gianni-schicchi-buosos-ghost) (by composer and Schmopera contributor, [Michael Ching](/authors/michael-ching/)), and she's a co-owner of [Shoperatic.com](http://shoperatic.com/), the ingenious peer-to-peer platform for #divaswhohustle.\n\nWe spoke with Duchovnay about lovely Lauretta, and what it's like to be a trailblazer in the 21st-century opera community."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524254343784/sqDuchovnay.jpg.jpg"
+primary_image_credit = "Sara Duchovnay, soprano and co-owner, Shoperatic. Photo by Kaleigh Rae Gamache, makeup by Tracy Cox, styled by Shoperatic."
 publishDate = "2018-04-21T10:12:00-04:00"
 short_description = "&quot;In addition to emotional support,  I want to be able to provide members of my community with opportunities for financial stability so they can get out of unhealthy situations, whether they be unhealthy relationships, less-than-ideal living situations, or jobs that don’t enhance their careers.&quot;"
 slug = "talking-with-singers-sara-duchovnay"

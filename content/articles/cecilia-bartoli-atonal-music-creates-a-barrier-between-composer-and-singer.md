@@ -4,6 +4,7 @@ date = "2014-12-15T14:54:00-05:00"
 lastmod = "2015-04-13T17:44:00-04:00"
 people = ["Cecilia Bartoli"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428961346324/53756789.jpg.jpg"
+primary_image_credit = "Photo: Uli Weber"
 publishDate = "2014-12-15T14:54:00-05:00"
 short_description = "Did anyone catch Cecilia Bartoli&#039;s comments earlier this year, in an interview promoting her new album, St Petersburg? Cecilia is known for her singing of Mozart, Vivaldi, and plenty of long-lost songs from the 18th-century and earlier. Early Music folks are notoriously eccentric, and at their worst, annoyingly closed-minded about &quot;modern music&quot;."
 slug = "cecilia-bartoli-atonal-music-creates-a-barrier-between-composer-and-singer"

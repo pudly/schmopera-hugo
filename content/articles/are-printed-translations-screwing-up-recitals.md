@@ -5,6 +5,7 @@ date = "2015-05-24T20:40:00-04:00"
 lastmod = "2015-05-25T13:35:00-04:00"
 people = ["Stephanie Blythe","Warren Jones"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432574158603/Goethe_Square.jpg.jpg"
+primary_image_credit = "Autograph manuscript of Goethe's \"Gliech und Gleich\""
 publishDate = "2015-05-25T13:35:00-04:00"
 short_description = "After academia, it becomes less common to give spoken translations in voice recitals. It&#039;s one thing to hear an undergrad voice student tell you what &quot;Das Veilchen&quot; is about, but it&#039;s another thing entirely to hear the likes of Stephanie Blythe and Warren Jones reciting song texts."
 slug = "are-printed-translations-screwing-up-recitals"

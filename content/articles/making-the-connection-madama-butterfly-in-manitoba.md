@@ -6,6 +6,7 @@ date = "2017-11-20T21:17:00-05:00"
 lastmod = "2017-11-21T13:25:00-05:00"
 people = ["David Pomeroy","Gregory Dahl","Laurelle Jade Froese","Hiromi Omura","Nina Yoshida Nelsen"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511230713459/2017-11-21---square---MB-Opera%2C-Madama-Butterfly%2C-2017-Hiromi-Omura-Cio-Cio-San-and-David-Pomeroy-Pinkerton.-Photo---R.-Tinker.jpg.jpg"
+primary_image_credit = "Hiromi Omura (Cio-Cio Sam) and David Pomeroy (Pinkerton) in Madama Butterfly, Manitoba Opera, 2017. Photo: R. Tinker."
 publishDate = "2017-11-21T13:25:00-05:00"
 short_description = "This fabulous production that Manitoba Opera has mounted at the Centennial Concert Hall in Winnipeg, with an absolutely stellar cast, has made me remember why Madama Butterfly is one of the most popular operas of all time."
 slug = "making-the-connection-madama-butterfly-in-manitoba"

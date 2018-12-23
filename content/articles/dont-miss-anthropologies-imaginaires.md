@@ -5,6 +5,7 @@ date = "2016-08-01T18:43:00+01:00"
 lastmod = "2016-08-02T13:41:00+01:00"
 people = ["Gabriel Dharmoo"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470074107423/2016-08-01---Gabriel-Dharmoo---Leif-Norman.jpg.jpg"
+primary_image_credit = "Photo by Leif Norman."
 publishDate = "2016-08-02T13:34:00+01:00"
 short_description = "&quot;The experts on screen comment on invented vocal traditions demonstrated by the singer-performer. Various odd or isolated vocal expressions from around the world are woven together and revisited through imaginary folklore and experimental voice techniques, showcasing the virtuosity, versatility, and strangeness of the human voice.&quot;"
 slug = "dont-miss-anthropologies-imaginaires"

@@ -6,6 +6,7 @@ date = "2017-10-13T21:18:00-04:00"
 lastmod = "2017-10-13T22:02:00-04:00"
 people = ["Bryan Hymel","Malin Byström","Michael Volle","Erwin Schrott"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507944763505/2017-10-13---square---VEPRES_0523-MALIN-BYSTRO%CC%88M-AS-HE%CC%81LE%CC%80NE-ROH.-PHOTO-BILL-COOPER.jpg.jpg"
+primary_image_credit = "Malin Byström (Hélène) in Les vêpres siciliennes, ROH, 2017. Photo: Bill Cooper."
 publishDate = "2017-10-13T22:02:00-04:00"
 short_description = "I don&#039;t understand why we haven&#039;t critically and fundamentally re-read all of these classic operas. I am a huge fan of modernising the way we produce opera, but I think has to include radical re-readings of characters and scenarios, not just new costuming and concepts."
 slug = "a-problematic-creaky-old-masterpiece-les-vpres-siciliennes"

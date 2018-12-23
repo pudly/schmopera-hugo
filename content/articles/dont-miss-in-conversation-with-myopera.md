@@ -6,6 +6,7 @@ date = "2016-02-26T22:26:00+00:00"
 lastmod = "2016-02-29T21:00:00+00:00"
 people = ["Kate Applin"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456525843814/2016-02-26---Oct-2015-7247Square.jpg.jpg"
+primary_image_credit = "The MYOpera team: l-r, Natasha Fransblow, Anna Theodosakis, Kate Applin, and Stephanie Applin. Photo by Emily Ding."
 publishDate = "2016-02-28T11:33:00+00:00"
 short_description = "I&#039;m really excited to be chatting with MYOpera&#039;s Artistic Director Kate Applin, Music Director Natasha Fransblow, Stage Director Anna Theodosakis and tenor Daevyd Pepper, all of whom are involved with their exciting upcoming production of Britten&#039;s The Rape of Lucretia."
 slug = "dont-miss-in-conversation-with-myopera"

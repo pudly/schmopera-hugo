@@ -6,6 +6,7 @@ date = "2017-12-19T21:03:00-05:00"
 lastmod = "2017-12-19T21:03:00-05:00"
 people = ["Michael Fabiano","Dimitri Platanias","Sofia Fomina","Lucy Crowe"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513735176151/sq---DOMINIC-SEDGWICK-AS-MARULLO%2C-DIMITIRI-PLATANIAS-AS-RIGOLETTO-ROH.-PHOTO-BY-MARK-DOUET_31B2186.jpg.jpg"
+primary_image_credit = "Dimitri Platanias in the title role of Rigoletto, ROH, 2017. Photo: Mark Douet."
 publishDate = "2017-12-19T21:03:00-05:00"
 short_description = "A patch of barbed wire symbolised Gilda&#039;s fragility in this ruthless world. Giovanna, Gilda&#039;s nurse, meets the Duke and the two converse through the fence. A slit in the middle of it, hinting at Gilda&#039;s sexuality, becomes the medium for the Duke to bribe Giovanna, and he punches his fist through it in boorish coarseness. Gilda is clearly too pure for this world."
 slug = "the-price-of-vengeance-rigoletto-at-roh"

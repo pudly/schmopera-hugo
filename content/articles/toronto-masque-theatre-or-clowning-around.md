@@ -5,6 +5,7 @@ companies = ["Toronto Masque Theatre"]
 date = "2015-04-10T22:44:00-04:00"
 lastmod = "2015-04-12T19:44:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428720202401/Arlecchino-Allegro-6-photo-by-Tariq-Kieran.jpg.jpg"
+primary_image_credit = "Photo: Tariq Kieran"
 publishDate = "2015-03-10T10:44:00-04:00"
 short_description = "Last night I went for the first time to see Toronto Masque Theatre, who are in the middle of their 11th season. I don&#039;t know much bout the masque tradition, but I&#039;ve learned that it was most popular in the 16th and early 17th centuries, and combined music, acting, dancing, and even architecture into a piece of theatre meant to flatter the man paying for all of it. So You Want To Write A Masque? was a fun look at how this art form comes together. "
 slug = "toronto-masque-theatre-or-clowning-around"

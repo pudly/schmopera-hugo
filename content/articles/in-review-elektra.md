@@ -6,6 +6,7 @@ date = "2015-11-25T10:43:00-05:00"
 lastmod = "2015-11-25T11:47:00-05:00"
 people = ["Yannick Nézet-Séguin","Lise Lindstrom","John MacMaster","Alan Held","Nicola Beller Carbone","Aidan Ferguson"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448466345412/2015-11-25---Agnes-Zwierko-%26-Lise-Lindstrom-Yves-Renaud.jpg.jpg"
+primary_image_credit = "Agnes Zwierko as Klytemnästra and Lise Lindstrom as Elektra. Photo: Yves Renaud."
 publishDate = "2015-11-25T11:47:00-05:00"
 short_description = "L&#039;Opéra de Montréal is in the middle of a four-show run of Strauss&#039; Elektra, the opera that I&#039;m still waiting to see as a double bill on steroids with Salome, for a full night entitled, Women Who Behave Horrendously. It was a thrill to watch Yannick Nézet-Séguin conduct Strauss&#039; delicious score with the huge amounts of energy he brings. He became somewhat of a meta-principal character in the show; it seems appriopriate, since the music speaks so much detail in this story of revenge."
 slug = "in-review-elektra"

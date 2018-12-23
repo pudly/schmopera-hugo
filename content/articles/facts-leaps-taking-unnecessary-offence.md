@@ -5,6 +5,7 @@ companies = ["The Metropolitan Opera","Royal Opera House"]
 date = "2017-10-31T17:59:00-04:00"
 lastmod = "2017-11-01T14:34:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509490092715/2017-10-31---square---1565-rene-fleming-as-the-marschallin-sophie-bevan-as-sophie-von-faninal-c-roh.-photo-catherine-ashmore.jpg.jpg"
+primary_image_credit = "Renée Fleming as the Marschallin and Sophie Bevan as Sophie in Der Rosenkavalier, ROH, 2017. Photo: Catherine Ashmore."
 publishDate = "2017-11-01T14:34:00-04:00"
 short_description = "Moreso than a healthy sex life, is it not also empowering for an older woman to have agency of her own? To make her own decisions? Maybe Octavian can sleep with anyone, but for now he&#039;s sleeping with her. Not once does the Marschallin confuse what she has with Octavian with true love."
 slug = "facts-leaps-taking-unnecessary-offence"

@@ -6,6 +6,7 @@ date = "2015-09-27T10:36:00-04:00"
 lastmod = "2015-09-28T10:26:00-04:00"
 people = ["Stephanie Conn","Scott Gabriel"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443364573977/SDSRickHarris.jpg.jpg"
+primary_image_credit = "Stephanie Conn as Anna in The Seven Deadly Sins. Photo by Rick Harris."
 publishDate = "2015-09-27T11:05:00-04:00"
 short_description = "I&#039;m always excited by Kurt Weill. Ever since my first exposure to Mahagonny and Down in the Valley (one of his American musicals) I&#039;ve been fascinated by his work with Bertolt Brecht. On Friday, September 25th I got to re-hear one of my favourites presented by The Friends of Gravity."
 slug = "in-review-the-seven-deadly-sins"

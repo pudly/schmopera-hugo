@@ -6,6 +6,7 @@ date = "2015-04-10T20:43:00-04:00"
 lastmod = "2015-04-10T22:32:00-04:00"
 people = ["Krisztina Szabó","Joel Ivany","Alexander Neef","Wayne Gooding","Michael Mori"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428713042536/SchmoperaPanelTeaserPhoto.jpg.jpg"
+primary_image_credit = "Jeff Higgins"
 publishDate = "2015-04-03T08:43:00-04:00"
 short_description = "A quick preview of our upcoming panel discussion on Regietheater. We brought together heads of opera companies, singers, and arts journalists to discuss the flaws and merits of &quot;director&#039;s theatre,&quot; and its role in the ongoing evolution of opera."
 slug = "building-suspense-with-the-regietheater-panel"

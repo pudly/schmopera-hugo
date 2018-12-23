@@ -6,6 +6,7 @@ date = "2015-09-25T11:56:00-04:00"
 lastmod = "2017-07-18T16:16:00-04:00"
 people = ["Othalie Graham"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443445066361/GrahamResizedSquare.jpg.jpg"
+primary_image_credit = "Photo by Devon Cass."
 publishDate = "2015-09-28T08:00:00-04:00"
 short_description = "&quot;If I&#039;m cast in something, I show up incredibly prepared, I&#039;m a very good colleague, and I do the things I can do to make it work. There&#039;s so much of it that we can&#039;t control, as you know. *So much* of it that you can&#039;t control. But I do the best that I can every day, I work really hard with the things I can control,&quot; she laughs. &quot;Which isn&#039;t a lot.&quot;"
 slug = "talking-with-singers-othalie-graham"

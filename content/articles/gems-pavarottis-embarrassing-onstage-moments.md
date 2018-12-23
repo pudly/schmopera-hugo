@@ -8,7 +8,10 @@ publishDate = "2015-12-13T13:05:00-05:00"
 short_description = "In case you needed another reason to love The Pav, this video will seal the deal. In his accent that&#039;s about as charming as it gets, he answers audience questions about some of his most embarrassing moments onstage. Sitting in his underwear too long in Paris, and &quot;fragile&quot; chairs in which he sat. (&quot;If I&#039;m going to sit in that chair, I will break it.&quot;)"
 slug = "gems-pavarottis-embarrassing-onstage-moments"
 title = "Gems: Pavarotti&#039;s embarrassing onstage moments"
-youtube_url = "https://www.youtube.com/watch?v=9zjrgbCaC1U"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/watch?v=9zjrgbCaC1U"
 +++
 
 In case you needed another reason to love The Pav, this video will seal the deal. In his accent that's about as charming as it gets, he answers audience questions about some of his most embarrassing moments onstage. Sitting in his underwear too long in Paris, and "fragile" chairs in which he sat. ("If I'm going to sit in that chair, I will break it.") Who says Pavarotti doesn't have comic timing? At about 3:30, he sums up a scene in *Tosca* in a way I'll never forget.

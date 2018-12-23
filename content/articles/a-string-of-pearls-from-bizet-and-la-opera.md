@@ -6,6 +6,7 @@ date = "2017-10-09T10:20:00-04:00"
 lastmod = "2017-10-09T13:36:00-04:00"
 people = ["Javier Camarena","Nino Machaidze","Alfredo Daza"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507559204651/2017-10-09---square---pf_1385pr.jpg.jpg"
+primary_image_credit = "Nino Machaidze (Leïla) with Nicholas Brownlee (Nourabad) in LA Opera's 2017 production of The Pearl Fishers. Photo: Ken Howard."
 publishDate = "2017-10-09T10:51:00-04:00"
 short_description = "Dark fabric billows beneath the set, and one is never allowed to forget that the sea is the underpinning of everything that’s happening. When the inevitable storm comes, the fabric is no longer lovely and tranquil but frightening as it inflates to ever bigger and bigger &quot;waves.&quot; Another constant device: during much of the drama in Act I, a lone fisherman bobs up and down in his boat beneath the pillars that hold up the village."
 slug = "a-string-of-pearls-from-bizet-and-la-opera"

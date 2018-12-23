@@ -6,6 +6,7 @@ date = "2018-02-21T07:47:00-05:00"
 lastmod = "2018-02-21T08:42:00-05:00"
 people = ["Joyce DiDonato","Ailyn Pérez","Anthony Roth Costanzo","Jake Heggie"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519219912908/sq---KA_3357_a-1.jpg.jpg"
+primary_image_credit = "Ailyn Pérez (Tatyana Bakst) and Joyce Di Donato (Arden Scott) in Great Scott, The Dallas Opera, 2015. Photo: Karen Almond."
 publishDate = "2018-02-21T08:42:00-05:00"
 short_description = "But really, who can argue with the riotous laughter that makes this recording something worthy of a listen? In opera, contemporary or otherwise, it’s a big deal to get an audience who reacts not only to what they see (and what was it they saw that was so funny? Ah, the plight of the live audio recording), but to details in the libretto."
 slug = "we-took-a-real-chance-with-great-scott"

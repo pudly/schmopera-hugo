@@ -5,6 +5,7 @@ date = "2017-03-22T09:48:00+00:00"
 lastmod = "2017-03-22T10:03:00+00:00"
 people = ["David Daniels"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490176444646/2017-03-22---David_Daniels_pc_Simon_Pauly.jpg.jpg"
+primary_image_credit = "Photo: Simon Pauly."
 publishDate = "2017-03-22T10:03:00+00:00"
 short_description = "With a career that started twenty-five years ago, singing entirely different from our patriarchs of Alfred Deller and James Bowman, Daniels is responsible for growing what was once a niched zoo animal of a fach into one to stand up with the rest of them. In doing so, he has set the bar extremely high for countertenors, to a standard to which he continues to hold himself."
 slug = "in-review-daniels-katz-at-wigmore-hall"

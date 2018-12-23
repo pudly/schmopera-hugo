@@ -10,7 +10,10 @@ publishDate = "2014-05-05T10:57:00-04:00"
 short_description = "British mezzo-soprano Alice Coote was in Toronto until very recently, singing Dejanira in Peter Sellars&#039; production of Hercules at the Canadian Opera Company. Alice is in demand all over the world, known for trouser roles (Octavian, Sesto, Ruggiero, le Prince Charmant), and utterly versatile across the stylistic board."
 slug = "talking-with-singers-alice-coote"
 title = "Talking with singers: Alice Coote"
-youtube_url = "https://www.youtube.com/watch?v=jtn1IrGQdl4"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/watch?v=jtn1IrGQdl4"
 +++
 
 British mezzo-soprano Alice Coote was in Toronto until very recently, singing Dejanira in Peter Sellars' production of _Hercules_ at the Canadian Opera Company. Alice is in demand all over the world, known for trouser roles (Octavian, Sesto, Ruggiero, le Prince Charmant), and utterly versatile across the stylistic board. I was fortunate enough to have a few minutes with Alice before her final Dejanira at the Four Seasons Centre, and she spoke with me about why and how she sings.

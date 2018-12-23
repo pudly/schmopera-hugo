@@ -6,6 +6,7 @@ date = "2015-11-18T11:53:00-05:00"
 lastmod = "2015-11-18T16:07:00-05:00"
 people = ["Lucia Cervoni","Clarence Frazer","Sharleen Joynt","Leslie Dala"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447869245096/2015-11-18---Square---Lucia-Cervoni-(Julie)_Photo-by-Cylla-von-Tiedemann.jpg.jpg"
+primary_image_credit = "Lucia Cervoni as Julie. Photo by Cylla Von Tiedemann"
 publishDate = "2015-11-18T16:06:00-05:00"
 short_description = "Last night Soundstreams and Canadian Stage opened their collaborative production of Julie, the fourth opera by Belgian composer Philippe Boesmans. There was a good amount of hype leading up to this opening, and for good reason. Julie is adapted by librettists Luc Bondy and Marie-Louise Bischofberger from the controversial play by August Strindberg, Miss Julie; its three-singer cast is a cross-section of the rising stars of our current generation. "
 slug = "in-review-julie"

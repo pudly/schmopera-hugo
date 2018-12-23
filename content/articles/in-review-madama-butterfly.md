@@ -6,6 +6,7 @@ date = "2014-10-16T15:57:00-04:00"
 lastmod = "2015-04-14T14:14:00-04:00"
 people = ["Elizabeth DeShong","Patricia Racette","Patrick Lange"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429035102925/Butterfly-MC-1291.jpg.jpg"
+primary_image_credit = "Patricia Racette as Cio-Cio San. Photo by MIchael Cooper"
 publishDate = "2014-10-16T15:57:00-04:00"
 short_description = "On Wednesday, October 15th I made my way on over the Four Seasons Centre at University and Queen Street West to check out the Canadian Opera Company‘s production of Madama Butterfly by Giacomo Puccini (duh, Greg.)g"
 slug = "in-review-madama-butterfly"

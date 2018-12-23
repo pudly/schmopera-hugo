@@ -6,6 +6,7 @@ date = "2018-09-24T20:32:00-04:00"
 lastmod = "2018-09-24T20:33:00-04:00"
 people = ["Anthony Roth Costanzo"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537835215918/sqGLASSHANDEL6.jpg.jpg"
+primary_image_credit = "Anthony Roth Costanzo in Glass Handel, costumed by Raf Simons for Calvin Klein. Photo by Dominic M. Mercier."
 publishDate = "2018-09-24T20:32:00-04:00"
 short_description = "As the audience made their way to seats, there was a rising sense of tension. We had been informed at least six times that we would be moved around during this multimedia event. One had to question why there were so many disclaimers. Do we really want a stranger moving our chairs during a performance? Well, it turns out, yes we do."
 slug = "the-astonishing-product-glass-handel-at-o18"

@@ -6,6 +6,7 @@ date = "2018-02-07T16:40:00-05:00"
 lastmod = "2018-02-07T17:14:00-05:00"
 people = ["Aigul Akhmetshina","Jacquelyn Stucker","Anna Goryachova","Kristina Mkhitaryan"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518039592721/sq---0177-Anna-Goryachova-as-Carmen-ROH.-Photo-by-Bill-Cooper.jpg.jpg"
+primary_image_credit = "Anna Goryachova (Carmen) in Carmen, ROH, 2018. Photo: Bill Cooper."
 publishDate = "2018-02-07T16:40:00-05:00"
 short_description = "In Barrie Kosky&#039;s new production for the Royal Opera that had its premiere in 2016 at Oper Frankfurt, there is no time period, nor geographical location. The sultry voice of Claude de Demo narrates the story and sets the scene in between musical numbers, in lieu of spoken dialogue or recitative. All this being said, the entire evening was thrilling and unforgettable for all the right reasons."
 slug = "androgyny-is-sexy-carmen-at-roh"

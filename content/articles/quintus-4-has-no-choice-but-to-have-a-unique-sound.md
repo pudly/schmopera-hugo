@@ -6,6 +6,7 @@ lastmod = "2017-12-18T12:37:00-05:00"
 people = ["Suzanne Kantorski","Rich Coburn"]
 preamble = "Dubbed \"a new experiment in old music\", [Quintus 4](https://www.quintus4.com/) is set on  finding a new way to put on a concert. Making up the [ensemble](https://www.quintus4.com/bios/) are soprano [Suzanne Kantorski](/scene/people/suzanne-kantorski/), percussionist Krystina Marcoux, cellist Juan Sebastian Delgado, and pianist and composer [Rich Coburn](/scene/people/rich-coburn/). \n\nWe spoke with Kantorski and Coburn about their newest concert programme, *Tresillo*, and Quintus 4's pursuit of what truly unifies music of all styles and ages:"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513610252902/2017-11-30---square---Quintus-4.jpg.jpg"
+primary_image_credit = "(l-r): Suzanne Kantorski, Juan Sebastian Delgado, Krystina Marcoux, Rich Coburn."
 publishDate = "2017-12-18T12:15:00-05:00"
 short_description = "&quot;A themed recital can mean many things, but the program is often not tied together by the actual music. This is a little like taking an architectural tour of houses owned by people with the same surname. It might still be interesting, but it&#039;s not what we&#039;re trying to do.&quot;"
 slug = "quintus-4-has-no-choice-but-to-have-a-unique-sound"

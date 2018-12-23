@@ -6,6 +6,7 @@ date = "2017-10-17T12:33:00-04:00"
 lastmod = "2017-10-18T21:45:00-04:00"
 people = ["Vittorio Grigòlo","Tara Erraught","Robert Pomakov","Laurent Naouri","Erin Morley","Anita Hartig"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508258334760/2017-10-17---square---Hoffmann_2551-s.jpg.jpg"
+primary_image_credit = "Vittorio Grigolo in the title role of Offenbach's \"Les Contes d’Hoffmann.\" Photo: Marty Sohl/Metropolitan Opera."
 publishDate = "2017-10-18T21:45:00-04:00"
 short_description = "This production&#039;s prologue opened with a sequence of generic opera tropes that undermined the opera&#039;s quality. One cliché followed another: a bad silent-movie love-pantomime, uninspired park and bark narration, a silly &quot;Oliver Twist&quot; money pouch, muggy chorus acting, and way too many people standing on tables. This brand of stale opera is what convinces people the form is dying."
 slug = "an-isolated-tenor-in-an-operatic-masterwork-les-contes-dhoffmann"

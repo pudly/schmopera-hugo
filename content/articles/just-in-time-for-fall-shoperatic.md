@@ -5,6 +5,7 @@ date = "2017-09-12T19:44:00-04:00"
 lastmod = "2017-09-12T23:00:00-04:00"
 people = ["Suzanne Vinnik","Sara Duchovnay"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505259968278/2017-09-12---Shoperatic.jpg.jpg"
+primary_image_credit = "Suzanne Vinnik (left) and Sara Duchovnay, creators of Shoperatic. Photo: Kaleigh Rae Photography."
 publishDate = "2017-09-12T22:41:00-04:00"
 short_description = "It&#039;s Suzanne Vinnik and Sara Duchovnay of Shoperatic.com! We&#039;re excited to announce that after talking about our new online peer-to-peer marketplace for what seems like eons, we are LAUNCHED and open for business! When we ran into a little technical snafu in beta testing, we reached out to our friends at Schmopera who were able to help us figure out the problem and got us back on track!"
 slug = "just-in-time-for-fall-shoperatic"

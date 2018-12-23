@@ -6,6 +6,7 @@ date = "2015-06-07T19:07:00-04:00"
 lastmod = "2015-12-04T15:47:00-05:00"
 people = ["Francesca Perez","Lindsay Michael"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433718612620/IndieFeature.jpg.jpg"
+primary_image_credit = "Krisztina Szabó in Against the Grain Theatre's Death & Desire"
 publishDate = "2015-06-09T08:45:00-04:00"
 short_description = "What we call ‘indie’ opera is not necessarily any more ‘independent’ than Big Opera – ‘grass-roots opera’ might be a better definition. Whatever you call them, what these organizations do have is a license to artistic freedom and experimentation that big-budget opera has had to renounce in order to maintain an outdated model of funding: subscriptions, high-profile donors, and swanky corporate sponsors. "
 slug = "the-future-of-opera-is-indie"

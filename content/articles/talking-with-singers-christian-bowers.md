@@ -6,6 +6,7 @@ date = "2016-10-10T12:44:00+01:00"
 lastmod = "2016-10-12T13:07:00+01:00"
 people = ["Christian Bowers"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476109585401/2016-10-10--Christian-Bowers.jpg.jpg"
+primary_image_credit = "Photo by Arielle Doneson."
 publishDate = "2016-10-12T13:07:00+01:00"
 short_description = "&quot;There are a lot of times when I&#039;m in an empty hotel room, and I&#039;m looking at Facebook and I&#039;m seeing you with pictures of your kids, the pictures of your house and the garden you planted,&quot; he explains. &quot;All my stuff&#039;s in my room that I grew up in, and I live out of a suitcase or two for five weeks at a time.&quot;"
 slug = "talking-with-singers-christian-bowers"

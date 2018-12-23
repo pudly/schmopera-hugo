@@ -6,6 +6,7 @@ date = "2017-12-10T13:48:00-05:00"
 lastmod = "2017-12-10T21:26:00-05:00"
 people = ["Lauren Snouffer","Megan Mikailovna Samarin","Daniel Belcher","Heidi Stober"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512930648773/2017-12-10---sq---hgo---the-house-without-a-christmas-tree---2017---photographer-lynn-lane-149-copy.jpg.jpg"
+primary_image_credit = "The House Without a Christmas Tree, HGO, 2017. Photo: Lynn Lane."
 publishDate = "2017-12-10T13:48:00-05:00"
 short_description = "Rarely have I ever been able to use the word &quot;effervescent&quot; to describe performances of newly-composed operas, but that is exactly the word I used to describe this one upon its conclusion. This work came as a breath of fresh air. It did not try overly hard to be anything other than a setting of a good story which happened to be set at Christmastime, and that is precisely why I perceive this work as having longevity."
 slug = "seasonal-opera-done-right-at-hgo"

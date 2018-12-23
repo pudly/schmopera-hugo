@@ -6,8 +6,11 @@ publishDate = "2016-08-23T12:10:00+01:00"
 short_bio = "Praised by Opera News for &quot;the agility with which she negotiated her beautiful upper register&quot;, soprano Sara Duchovnay continues to garner critical acclaim for her performances across the country.\n\nSara recently appeared as Stella in *A Streetcar Named Desire* with Opera San Jose, as Zerlina in *Don Giovanni* with Opera Santa Barbara, as Della in David Conte’s *The Gift of the Magi* with Hidden Valley Opera Ensemble, and as Rosina in Paisiello’s *Il barbiere di Siviglia* with West Edge Opera."
 slug = "sara-duchovnay"
 title = "Sara Duchovnay"
-twitter = "https://twitter.com/SaraDuchovnay"
 website = "http://www.saraduchovnay.com/"
+[[social_media]]
+platform = " Twitter"
+template = "social-media"
+url = "https://twitter.com/SaraDuchovnay"
 +++
 
 Praised by *Opera News* for "the agility with which she negotiated her beautiful upper register", soprano Sara Duchovnay continues to garner critical acclaim for her performances across the country.

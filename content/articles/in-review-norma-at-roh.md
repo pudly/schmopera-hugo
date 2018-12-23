@@ -6,6 +6,7 @@ date = "2016-09-17T12:51:00+01:00"
 lastmod = "2016-09-17T15:29:00+01:00"
 people = ["Sonya Yoncheva","Joseph Calleja","Sonia Ganassi"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474112738905/2016-09-17---Square---SONYA-YONCHEVA-AS-NORMA-ROH-PHOTOGRAPHER-BILL-COOPER.jpg.jpg"
+primary_image_credit = "Sonya Yoncheva as Norma. Royal Opera House, 2016. Photographer: Bill Cooper."
 publishDate = "2016-09-17T15:25:00+01:00"
 short_description = "Ollé&#039;s production slowly revealed itself to be much more than a collection of provocative symbols, yet it still left us with questions. There were unnecessary distractions: he let swing a giant, swinging thurible just before Norma&#039;s infamous &quot;Casta diva&quot; aria; and when Norma&#039;s kids fall asleep watching television, the flat-screen TV blared (silent) cartoons throughout her entire act II scene with Adalgisa."
 slug = "in-review-norma-at-roh"

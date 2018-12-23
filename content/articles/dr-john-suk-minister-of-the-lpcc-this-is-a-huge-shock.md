@@ -5,6 +5,7 @@ companies = ["Toronto Symphony Orchestra"]
 date = "2015-04-18T11:05:00-04:00"
 lastmod = "2015-04-18T18:16:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429380564236/by_column_bw.jpg.jpg"
+primary_image_credit = "Photo by Gilbert Francois"
 publishDate = "2015-04-18T18:11:00-04:00"
 short_description = "As the Valentina Lisitsa topic rambles on, I was fortunate to be able to speak with Dr. John Suk, Minister at Lawrence Park Community Church. After Lisitsa&#039;s TSO performances were cancelled, she announced on Twitter that she would be performing instead at the LPCC on April 10th. The catch: no one booked the church."
 slug = "dr-john-suk-minister-of-the-lpcc-this-is-a-huge-shock"

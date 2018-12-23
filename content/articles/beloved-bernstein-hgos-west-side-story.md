@@ -5,6 +5,7 @@ companies = ["Houston Grand Opera"]
 date = "2018-04-25T15:45:00-04:00"
 lastmod = "2018-04-25T17:28:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524685175131/sqhgo---west-side-story---photographer-lynn-lane-30-3000x2000.jpg.jpg"
+primary_image_credit = "Andrea Carroll (Maria) and Norman Reinhardt (Tony) in West Side Story, Houston Grand Opera, 2018. Photo: Lynn Lane."
 publishDate = "2018-04-25T17:28:00-04:00"
 short_description = "HGO hit the nail on the head in making West Side Story come across as a highly successful play with songs, with Jerome Robbins&#039;s choreography being by far the lead attraction of the evening in terms of its sheer power of unspoken expression."
 slug = "beloved-bernstein-hgos-west-side-story"

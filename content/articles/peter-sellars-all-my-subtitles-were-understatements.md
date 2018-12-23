@@ -9,7 +9,10 @@ publishDate = "2014-04-03T09:34:00-04:00"
 short_description = "Hercules opens on April 5th, at the Canadian Opera Company, and it features a spectacular cast: Eric Owens (Hercules), Alice Coote (Dejanira) and David Daniels (Lichas) headline this special production. Go and see it."
 slug = "peter-sellars-all-my-subtitles-were-understatements"
 title = "Peter Sellars: all my subtitles were understatements"
-youtube_url = "https://www.youtube.com/watch?v=FcZ-AWpGJ-k&"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/watch?v=FcZ-AWpGJ-k&"
 +++
 
 _Hercules_ opens on April 5th, at the [Canadian Opera Company](http://www.coc.ca/Home.aspx), and it features a spectacular cast: [Eric Owens](http://imgartists.com/artist/eric_owens) (Hercules), [Alice Coote](http://imgartists.com/artist/alice_coote) (Dejanira) and [David Daniels](http://www.danielssings.com/) (Lichas) headline this special production. Go and see it. For ticket information, click [here](http://www.coc.ca/PerformancesAndTickets/1314Season/Hercules.aspx).

@@ -5,6 +5,7 @@ date = "2017-02-10T18:28:00+00:00"
 lastmod = "2017-02-11T13:44:00+00:00"
 people = ["Sondra Radvanovsky"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486751386588/2017-02-10---Radvanovsky---Eccles.jpg.jpg"
+primary_image_credit = "Photo by Andrew Eccles."
 publishDate = "2017-02-11T13:25:00+00:00"
 short_description = "&quot;There&#039;s an intensity and dramatic commitment with Sondra that&#039;s made her connect with audiences in a way few singers are able to do,&quot; says Rosenblatt, founder of the series, of Radvanovsky&#039;s place as a leading soprano in opera today. &quot;The actual instrument itself is nothing short of a marvel – it&#039;s a huge voice but one that she&#039;s able to use with complete control so that she&#039;s also able to sing the most delicate of phrasing that touches whoever she&#039;s singing with.&quot;"
 slug = "dont-miss-radvanovsky-in-recital-at-cadogan-hall"

@@ -6,6 +6,7 @@ date = "2018-05-05T16:24:00-04:00"
 lastmod = "2018-05-07T20:50:00-04:00"
 people = ["Varduhi Abrahamyan","Joseph Lattanzi","Nicole Cabell"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525738389603/sq2C0A2849.jpg.jpg"
+primary_image_credit = "Carmen, The Atlanta Opera, 2018. Photo: Jeff Roffman."
 publishDate = "2018-05-07T20:14:00-04:00"
 short_description = "There was a lot about this production that I enjoyed - Corner&#039;s staging keeps the energy and feel of Bizet&#039;s original piece while also allowing for Atlanta Opera&#039;s chorus to provide some of their trademark cheekiness within the larger chorus numbers."
 slug = "abrahamyans-carmen-smooth-sexy-and-enticing"

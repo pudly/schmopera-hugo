@@ -7,6 +7,7 @@ lastmod = "2017-06-06T21:41:00-06:00"
 people = ["Christina Haldane"]
 preamble = "British-Canadian soprano [Christina Haldane](/scene/people/christina-haldane/) has built her career on both sides of the Atlantic, and she seems like an endless source of inspired energy. Rossini, Handel, Donizetti, and lesser-known versions of Cleopatra fill her schedule, and her understudy work brought her to Salzburg and London for the premiere performances of Thomas Adès' *The Exterminating Angel*.\n\nHaldane chats about her childhood spent in self-produced \"one-woman productions\", facing the realities of vocal limitations, and how to free oneself of \"student-itis\"."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496064216596/2017-05-29---Christina-Haldane-Headshot.jpg.jpg"
+primary_image_credit = "Photo: Kristin Hoebermann."
 publishDate = "2017-06-06T21:41:00-06:00"
 short_description = "&quot;I feel one of the biggest challenges for us all not to compare our own successes with others. Have faith in your abilities and learn to keep re-defining your image of what &#039;success&#039; looks like to you. Check in with what the &#039;old&#039; you in a rocking chair would say about the choices you make now, any regrets? &quot;"
 slug = "spotlight-on-christina-haldane"

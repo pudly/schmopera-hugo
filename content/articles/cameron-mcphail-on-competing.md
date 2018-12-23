@@ -6,6 +6,7 @@ date = "2014-03-05T13:50:00-05:00"
 lastmod = "2015-04-27T18:36:00-04:00"
 people = ["Cameron McPhail"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430174169607/McPhailSquare.jpg.jpg"
+primary_image_credit = "Photo by Veronika Roux"
 publishDate = "2014-03-05T13:50:00-05:00"
 short_description = "Last month, fellow colleague and buddy Cameron McPhail was named a winner of the George London Foundation Awards Competition. Way to go, Cam! I asked the COC Ensemble Studio member how it felt:"
 slug = "cameron-mcphail-on-competing"

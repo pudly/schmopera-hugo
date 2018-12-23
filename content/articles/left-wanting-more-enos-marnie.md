@@ -6,6 +6,7 @@ date = "2017-11-27T20:43:00-05:00"
 lastmod = "2017-11-27T21:11:00-05:00"
 people = ["Sasha Cooke","Daniel Okulitch","James Laing"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511833094582/square---ENO-Marnie-Sasha-Cooke-Richard-Hubert-Smith-X2.jpg.jpg"
+primary_image_credit = "Sasha Cooke in ENO's Marnie, 2017. Photo: Richard Hubert Smith."
 publishDate = "2017-11-27T20:43:00-05:00"
 short_description = "I wasn&#039;t convinced this particular story was served well by becoming an opera. The sense of suspense and unease which characterises the film didn&#039;t transfer onto the stage at all. Particularly, the climactic scene of the novel, a hunt on horseback, seemed somewhat stunted. It was very creative and clever staging, with projected horses running and action on stage from dancers."
 slug = "left-wanting-more-enos-marnie"

@@ -6,6 +6,7 @@ date = "2016-11-13T12:08:00+00:00"
 lastmod = "2016-11-14T12:14:00+00:00"
 people = ["Vlada Borovko","Angela Simkin","Thomas Atkins","Jennifer Davis","Simon Shibambu","Nick Fletcher","Emily Edmonds"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479120396655/2016-11-15---Square-161107_0964-oreste-adj-ANGELA-SIMKIN-AS-ORESTE-ROH-PHOTO-BY-CLIVE-BARDA.jpg.jpg"
+primary_image_credit = "Angela Simkin as Oreste, (c) ROH, 2016. Photo by Clive Barda."
 publishDate = "2016-11-14T12:13:00+00:00"
 short_description = "The action unfolds in the graffiti-covered, industrial corners of what could be any contemporary city. During the overture, we were treated with a picture of the goings-on under Toante: a ruthless leader, his witless captain of the guard, and a near-mad Ifigenia, who through rogue mascara, bludgeons to death one unlucky visitor with a hammer. Narrative hook, indeed."
 slug = "in-review-the-jette-parker-young-artists-present-oreste-"

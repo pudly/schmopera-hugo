@@ -5,6 +5,7 @@ companies = ["San Diego Opera"]
 date = "2018-03-26T21:17:00-04:00"
 lastmod = "2018-04-16T16:29:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1522113377638/sq---jkat_Amazonas_031418_376.jpg.jpg"
+primary_image_credit = "Soprano Elaine Alvarez is Florencia Grimaldi in San Diego Opera's FLORENCIA EN EL AMAZONAS. March, 2018. Photo by J. Katarzyna Woronowicz Johnson."
 publishDate = "2018-03-26T21:17:00-04:00"
 short_description = "The riverboat set is a marvel of art and engineering by Mark Frederic Smith. Taking up nearly the entire width of the proscenium, it gracefully and quickly revolves to reveal the front, back, and both sides of the boat, giving Ms. Evans and her cast many options to play the various scenes."
 slug = "a-butterfly-but-not-from-puccini"

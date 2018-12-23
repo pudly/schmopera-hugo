@@ -5,6 +5,7 @@ date = "2017-04-26T09:35:00-04:00"
 lastmod = "2017-04-26T10:28:00-04:00"
 people = ["Vittorio Grigòlo"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493215281080/2017-04-25---Grigolo.jpg.jpg"
+primary_image_credit = "Photo: Alex D. James"
 publishDate = "2017-04-26T10:28:00-04:00"
 short_description = "Is it just us, or do strapping tenors always seem to waver on the line between charming enthusiasm and invasion of personal space? Now, this woman is being a great sport as a stranger (for all intents and purposes) touches her face. She&#039;s likely one of the many women and men who would indulge Mr. Grigòlo in an impromptu - and tactile - voice lesson. "
 slug = "grigolo-rogue-teacher"

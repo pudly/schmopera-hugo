@@ -6,6 +6,7 @@ date = "2018-05-04T18:40:00-04:00"
 lastmod = "2018-05-04T20:50:00-04:00"
 people = ["Morgan Traynor","Jillian Bonner","Anne-Marie MacIntosh","Johnathon Kirby","Geoffrey Schellenberg","Daevyd Pepper"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525476137150/06_Kirby-MacIntosh.jpg.jpg"
+primary_image_credit = "Johnathon Kirby and Anne-Marie MacIntosh in Così fan tutte, Calgary Opera's Emerging Artists, 2018. Photo: Jan van der Hooft."
 publishDate = "2018-05-04T20:50:00-04:00"
 short_description = "Of course, the success of Così fan tutte rests with the six singers and the magic they create both individually and in various combinations of duets, trios and more. For this production, two of the characters - Ferrando and Despina - are double cast, while the other four characters remain constant for the run."
 slug = "simpler-cos-offers-sizzle-substance-for-emerging-artists"
