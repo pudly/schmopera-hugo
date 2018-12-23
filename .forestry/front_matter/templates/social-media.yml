@@ -18,6 +18,7 @@ fields:
     - Soundcloud
     required: true
   label: Platform
+  default: Facebook
 - type: text
   name: url
   label: URL
