@@ -46,3 +46,5 @@ fields:
   name: youtube
   label: Youtube
   description: Must be complete URL
+pages:
+- content/scene/companies/fake-company.md
