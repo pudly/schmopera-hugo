@@ -32,3 +32,5 @@ fields:
   label: Social Media
   template_types:
   - social-media
+pages:
+- content/scene/people/fake-person.md
