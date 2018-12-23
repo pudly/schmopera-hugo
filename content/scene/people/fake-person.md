@@ -1,7 +1,6 @@
 +++
 date = "2018-12-23T02:04:48+00:00"
 discipline = "Singer, obviously"
-draft = true
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545530601/media/2018/12/anonymous-image.jpg"
 primary_image_credit = "Some person who took the photo"
 slug = "fake-person"
