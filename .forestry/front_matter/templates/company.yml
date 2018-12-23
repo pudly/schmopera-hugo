@@ -46,5 +46,10 @@ fields:
   name: youtube
   label: Youtube
   description: Must be complete URL
+- type: blocks
+  template_types:
+  - social-media
+  label: Social Media
+  name: social_media
 pages:
 - content/scene/companies/fake-company.md
