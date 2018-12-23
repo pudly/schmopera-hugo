@@ -6,7 +6,7 @@ date = "2015-01-20T09:00:00-05:00"
 lastmod = "2015-04-11T23:06:00-04:00"
 people = ["Jessica Muirhead"]
 preamble = "<p>\n\tCanadian soprano Jessica Muirhead is ready to take the stage as Pamina in Edmonton Opera's production of<em> </em><a href=\"http://www.edmontonopera.com/season/2014-15/magic-flute\" target=\"_blank\"><em>The Magic Flute</em></a>, opening January 31st. Jessica last appeared at the Canadian Opera Company as Micaëla in their 2010 production of <em>Carmen</em>. She's stayed busy across the pond at the Vienna Volksoper (Pamina, Agathe, Antonia), Semperoper Dresden (Marguerite, Mimì), and she just finished a touring production of Carmen with Welsh National Opera. Jessica is excited to return to Canada, and to bring back a role like Pamina; she was even kind enough to tell me about where she's been and what she looks forward to in Edmonton.\n</p>"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428807879726/Jessica-Muirhead-low-res.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428807879726/Jessica-Muirhead-low-res.jpg.jpg"
 publishDate = "2015-01-20T09:00:00-05:00"
 short_description = "Canadian soprano Jessica Muirhead is ready to take the stage as Pamina in Edmonton Opera&#039;s production of The Magic Flute, opening January 31st. Jessica last appeared at the Canadian Opera Company as Micaëla in their 2010 production of Carmen. She&#039;s stayed busy across the pond at the Vienna Volksoper (Pamina, Agathe, Antonia), Semperoper Dresden (Marguerite, Mimì), and she just finished a touring production of Carmen with Welsh National Opera. "
 slug = "talking-with-singers-jessica-muirhead"

@@ -2,7 +2,7 @@
 date = "2017-07-02T21:20:00-06:00"
 facebook = "https://www.facebook.com/patricia.auchterlonie"
 lastmod = "2017-07-02T21:20:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499051912901/2017-07-02---Patricia-Auchterlonie.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499051912901/2017-07-02---Patricia-Auchterlonie.jpg.jpg"
 publishDate = "2017-07-02T21:20:00-06:00"
 short_bio = "Patricia Auchterlonie is a Canadian soprano currently living and working in London, England. She is passionate about the performance of new and unheard music, particularly from the 20th and 21st centuries.  She is currently finishing her postgrad studies at the Guildhall School of Music and Drama and will become the Junior Fellow at Trinity Laban Conservatoire in 2017/18. She&#039;s also an avid reader, amateur seamstress and lover of a good doggo meme."
 slug = "patricia-auchterlonie"

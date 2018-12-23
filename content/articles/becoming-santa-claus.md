@@ -5,7 +5,7 @@ companies = ["The Dallas Opera"]
 date = "2016-11-17T09:49:00+00:00"
 draft = true
 lastmod = "2016-11-17T09:59:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479376359261/2016-11-16---Karne-Almond---BSC.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479376359261/2016-11-16---Karne-Almond---BSC.jpg.jpg"
 slug = "becoming-santa-claus"
 title = "Becoming Santa Claus"
 +++

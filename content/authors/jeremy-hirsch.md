@@ -1,7 +1,7 @@
 +++
 date = "2017-10-09T11:19:00-04:00"
 lastmod = "2018-05-12T14:44:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526150689823/KELSEY%20EDIT%20WRITER%20SHOT.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526150689823/KELSEY%20EDIT%20WRITER%20SHOT.jpg.jpg"
 publishDate = "2017-10-09T11:19:00-04:00"
 short_bio = "Jeremy Hirsch is a contributor to the opera blog Schmopera, primarily covering new opera in New York City. While at Peabody Conservatory, Hirsch studied English literature at Johns Hopkins University as a member of the institutions’ double degree program. Hirsch is also a professional bass-baritone. He has been described as &quot;a compelling actor and singer&quot; (*Los Angeles Times*), and enjoys performing a wide range of opera, art song, and concert repertoire."
 slug = "jeremy-hirsch"

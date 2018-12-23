@@ -7,7 +7,7 @@ draft = true
 lastmod = "2015-07-01T22:08:00-06:00"
 people = ["Christopher Mokrzewski"]
 preamble = "This is the first of a two-part piece by a guest contributor, who preferred to remain anonymous. It's a telling preference, I think."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435807679778/Van.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435807679778/Van.jpg.jpg"
 slug = "are-the-good-old-days-of-opera-really-gone"
 title = "Are the good old days of opera really gone?"
 +++

@@ -1,7 +1,7 @@
 +++
 date = "2017-11-17T15:56:00-05:00"
 lastmod = "2017-11-17T15:56:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510952170748/NeilWeisensel.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510952170748/NeilWeisensel.jpg.jpg"
 publishDate = "2017-11-17T15:56:00-05:00"
 short_bio = "Neil Weisensel is a composer and conductor based in Winnipeg, Canada. His\nseven critically and popularly acclaimed operas have been performed over 240 times across Canada and the United States (*Stickboy*, *Gisela in her Bathtub*)."
 slug = "neil-weisensel"

@@ -2,7 +2,7 @@
 author = "Jenna Simeonov"
 date = "2014-11-11T09:00:00-05:00"
 lastmod = "2015-04-13T23:22:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428981660844/Willie-720x528.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428981660844/Willie-720x528.jpg.jpg"
 publishDate = "2014-11-11T09:00:00-05:00"
 short_description = "So, in 1946 Walt Disney produced an anthology of animated short films, called Make Mine Music. There are ten film segments, almost all of them set to music; there&#039;s an animation of Prokofiev&#039;s Peter and the Wolf, and the artists involved include Benny Goodman and the Andrews Sisters. "
 slug = "when-disney-made-a-cartoon-about-an-operasinging-whale"

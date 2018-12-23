@@ -3,7 +3,7 @@ author = "Jenna Simeonov"
 date = "2015-07-31T17:02:00-04:00"
 draft = true
 lastmod = "2015-07-31T17:20:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438377425605/AlainaHeadshotSquare.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438377425605/AlainaHeadshotSquare.jpg.jpg"
 slug = "meet-the-folks-alaina-viau-of-loose-tea"
 title = "Meet the folks: Alaina Viau of Loose TEA"
 +++

@@ -1,7 +1,7 @@
 +++
 date = "2017-07-21T14:52:00-04:00"
 lastmod = "2017-07-21T14:52:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500663158222/2017-07-21---Maybin_Colleen-1.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500663158222/2017-07-21---Maybin_Colleen-1.jpg.jpg"
 publishDate = "2017-07-21T14:52:00-04:00"
 short_bio = "Colleen Maybin is the Director of Education and Community Engagement at [Vancouver Opera](/scene/companies/vancouver-opera/). A passionate advocate for arts education, Colleen has more than 20 years experience as an arts educator. Her diverse career experiences include teaching with the Vancouver School Board, Faculty Advisor in Teacher Education at the University of British Columbia, Arts Manager at Regent’s College in London, England and District Manager, Surrey with Arts Umbrella.\n"
 slug = "colleen-maybin"
