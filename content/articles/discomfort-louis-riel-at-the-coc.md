@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Canadian Opera Company"]
 date = "2017-04-27T14:44:00-04:00"
 lastmod = "2017-04-28T11:40:00-04:00"
-people = ["Russell Braun","Allyson McHardy","Simone Osborne","Michael Colvin","Charles Sy","Clarence Frazer","Aaron Sheppard","Jean-Philippe Fortier-Lazure","Johannes Debus","James Westman","Keith Klassen","Andrew Haji","Peter Barrett","Alain Coulombe"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493319059317/2017-04-27---Square---LouisRiel-SI-1272.jpg.jpg"
 primary_image_credit = "Russell Braun as Louis Riel in the Canadian Opera Company's new production of Louis Riel, 2017, photo: Sophie I'anson."
 publishDate = "2017-04-28T11:20:00-04:00"
+related_articles = ["articles/in-review-written-on-skin-at-roh.md","articles/tarrare-the-freak-i-just-want-to-be-full.md","articles/in-review-the-exterminating-angel-at-roh.md","articles/dont-miss-luminatos-bearing.md"]
+related_companies = ["scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/russell-braun.md","scene/people/allyson-mchardy.md","scene/people/simone-osborne.md","scene/people/michael-colvin.md","scene/people/charles-sy.md","scene/people/clarence-frazer.md","scene/people/aaron-sheppard.md","scene/people/jeanphilippe-fortierlazure.md","scene/people/johannes-debus.md","scene/people/james-westman.md","scene/people/keith-klassen.md","scene/people/andrew-haji.md","scene/people/peter-barrett.md","scene/people/alain-coulombe.md"]
 short_description = "Perhaps without Hinton&#039;s supernumeraries, Louis Riel might have been more &quot;comfortable&quot; for Toronto audiences. With the faces of the affected placed right amid a piece of theatre that comes out of a Western European tradition, the production seems to mirror the slow, significant steps being taken by Canada as a whole, beginning with the acknowledgement of injustice within our country&#039;s short history."
 slug = "discomfort-louis-riel-at-the-coc"
 title = "Discomfort: Louis Riel at the COC"

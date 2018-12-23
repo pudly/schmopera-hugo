@@ -1,13 +1,13 @@
 +++
-author = "Loren Lester"
+author = ["authors/loren-lester.md"]
 categories = "Review"
-companies = ["Los Angeles Opera"]
 date = "2018-02-08T11:55:00-05:00"
 lastmod = "2018-02-08T13:11:00-05:00"
-people = ["Renée Fleming"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518108932044/sq---renee_fleming_credit_andrew-eccles.jpg.jpg"
 primary_image_credit = "Photo: Andrew Eccles."
 publishDate = "2018-02-08T11:55:00-05:00"
+related_companies = ["scene/companies/los-angeles-opera.md"]
+related_people = ["scene/people/scene/renee-fleming.md"]
 short_description = "The night ended with a nod to Leonard Bernstein&#039;s 100th Birthday - &quot;Somewhere&quot; from West Side Story. The lyrics &quot;There&#039;s a place for us - somewhere a place for us…&quot; she dedicated to the DACA Dreamers, and the evening ended with many in tears and everyone on their feet for several standing ovations."
 slug = "heavenly-voice-visits-the-city-of-angels"
 title = "Heavenly voice visits the City of Angels"

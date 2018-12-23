@@ -1,13 +1,14 @@
 +++
-author = "Hannah De Priest"
+author = ["authors/hannah-de-priest.md"]
 categories = "Review"
-companies = ["Lyric Opera of Chicago"]
 date = "2017-09-10T11:11:00-04:00"
 lastmod = "2017-09-11T16:03:00-04:00"
-people = ["Dmitry Korchak","Janai Brugger","Matthew Polenzani","Lauren Snouffer","Eric Owens","Anthony Clark Evans"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505153235530/2017-09-11---STARS-OF-LYRIC-OPERA-AT-MILLENNIUM-PARK_174_c.Andrew-Cioffi.jpg.jpg"
 primary_image_credit = "Stars of Lyric Opera at Millennium Park, September, 2017. Photo: Andrew Cioffi."
 publishDate = "2017-09-11T14:14:00-04:00"
+related_articles = ["articles/the-positive-impact-of-community-created-performances.md","articles/orphee.md"]
+related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
+related_people = ["scene/people/dmitry-korchak.md","scene/people/janai-brugger.md","scene/people/matthew-polenzani.md","scene/people/lauren-snouffer.md","scene/people/eric-owens.md","scene/people/anthony-clark-evans.md"]
 short_description = "The highlight of the evening for me was Matthew Polenzani and Anthony Clark Evans singing the famous tenor/baritone duet from Bizet&#039;s The Pearl Fishers. This was old-school opera glamour and Polenzani&#039;s elegant tenor found a lovely match in Clark Evans&#039; rich, easy baritone. The Pearl Fishers, with Polenzani as Nadir, comes to LOC in a new-to-Chicago production at the end of November."
 slug = "in-review-stars-of-lyric-opera"
 title = "In review: Stars of Lyric Opera"

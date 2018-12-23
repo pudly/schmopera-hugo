@@ -1,13 +1,14 @@
 +++
-author = "Blanche Israël"
+author = ["authors/blanche-isral.md"]
 categories = "Review"
-companies = ["Oper Frankfurt"]
 date = "2017-09-19T11:07:00-04:00"
 lastmod = "2017-09-19T12:08:00-04:00"
-people = ["Jakub Józef Orliński","Elizabeth Reiter","Daniel Miroslaw","Karen Vuong","Brandon Cedel","Julia Dawson","Ted Huffman"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505835673687/2017-09-19---3353_rinaldo17_gross.jpg.jpg"
 primary_image_credit = "Countertenor Jakub Józef Orliński plays the title role in Rinaldo at Oper Frankfurt, 2017. Photographer: Barbara Aumüller."
 publishDate = "2017-09-19T11:42:00-04:00"
+related_articles = ["articles/in-review-the-jette-parker-young-artists-present-oreste-.md","articles/ariodante-or-the-hebridean-handel.md"]
+related_companies = ["scene/companies/oper-frankfurt.md"]
+related_people = ["scene/people/scene/jakub-jozef-orlinski.md","scene/people/elizabeth-reiter.md","scene/people/daniel-miroslaw.md","scene/people/karen-vuong.md","scene/people/brandon-cedel.md","scene/people/julia-dawson.md","scene/people/ted-huffman.md"]
 short_description = "Three tiny, nearly-nude dancers painted from head to toe acted as freaky humanoid henchwomen to Armida. These impish women did Armida&#039;s bidding, transforming at different points into a three-headed monster, a forest, or mermaids, and stopping time to control various characters. A particularly striking moment was when Rinaldo sang &quot;Abbruggio, avampo, e fremo&quot; while being tormented and yanked around by the imps on three long ropes. "
 slug = "dynamic-and-physical-rinaldo-at-oper-frankfurt"
 title = "Dynamic and physical: Rinaldo at Oper Frankfurt"

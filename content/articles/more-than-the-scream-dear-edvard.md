@@ -1,11 +1,12 @@
 +++
-author = "Jeremy Hirsch"
+author = ["authors/jeremy-hirsch.md"]
 categories = "Review"
 date = "2017-12-13T19:10:00-05:00"
 lastmod = "2017-12-18T08:26:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513602795677/sq---Dear-Edvard_0423_.jpg-for-schmopera.com.jpg.jpg"
 primary_image_credit = "Dear Edvard, National Sawdust, 2017, Photo: Jill Steinberg."
 publishDate = "2017-12-18T08:18:00-05:00"
+related_articles = ["articles/tarrare-the-freak-i-just-want-to-be-full.md","articles/why-our-artistic-roots-matter.md"]
 short_description = "The piece hones in on Munch (Tim McDevitt) who, having admitted himself to a sanitarium, is treated by an impressionable, young nurse (Pearl Sun). Enamored of her celebrity client, she takes charge of his unconventional treatment. In lieu of shock therapy, this fictional version of Munch undergoes a series of role-playing reenactments in order to relive the traumatic events that formed his personality; a conceit no more plausible than say, time travel."
 slug = "more-than-the-scream-dear-edvard"
 title = "More than The Scream: Dear Edvard"

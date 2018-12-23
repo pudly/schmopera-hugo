@@ -1,13 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Toronto Symphony Orchestra"]
 date = "2015-01-23T15:56:00-05:00"
 lastmod = "2015-04-11T22:42:00-04:00"
-people = ["Gordon Bintner","Jean-Philippe Fortier-Lazure"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428806426042/Screen-Shot-2015-01-23-at-3.46.16-PM.png"
 primary_image_credit = "Malcolm Cook"
 publishDate = "2015-01-23T15:56:00-05:00"
+related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
+related_people = ["scene/people/gordon-bintner.md","scene/people/jeanphilippe-fortierlazure.md"]
 short_description = "Thursday night was the first of three concerts to be given by the Toronto Symphony Orchestra, programming Mozart’s fantastic Mass in C Minor, K. 427, with fragments of two of his lesser-known operas, Lo sposo deluso and Zaide (K. 430 and 344, respectively). Paul Goodwin conducts the TSO, both the Amadeus Choir and the Elmer Iseler Singers, as well as the evening’s line up of formidable singers: soprano Hélène Guilmette, mezzo Julie Boulianne, tenors John Tessier and Jean-Philippe Fortier-Lazure, and baritone Gordon Bintner."
 slug = "in-review-mozarts-obscure-opera-mass-in-c-minor"
 title = "In review: Mozart&#039;s Obscure Opera + Mass in C Minor"

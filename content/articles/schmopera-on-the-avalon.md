@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Opera on the Avalon"]
 date = "2014-05-06T14:15:00-04:00"
 lastmod = "2015-04-23T20:39:00-04:00"
-people = ["Tom Diamond"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429835089931/StJohns-1024x812.jpg.jpg"
 publishDate = "2014-05-06T14:15:00-04:00"
+related_articles = ["articles/schmoperas-british-invasion.md"]
+related_companies = ["scene/companies/opera-on-the-avalon.md"]
+related_people = ["scene/people/tom-diamond.md"]
 short_description = "Later this month, I&#039;m packing my bags and heading to St. John&#039;s, Newfoundland, to work on a couple of shows at Opera on the Avalon. On the menu are Britten&#039;s A Midsummer Night&#039;s Dream, directed by Tom Diamond and conducted by Vlad Iftinca, and the ubiquitous La bohème, directed by Michael Cavanagh and conducted by Judith Yan. "
 slug = "schmopera-on-the-avalon"
 title = "Schmopera on the Avalon"

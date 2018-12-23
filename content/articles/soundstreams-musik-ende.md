@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Soundstreams"]
 date = "2017-10-20T12:07:00-04:00"
 lastmod = "2017-10-20T21:46:00-04:00"
-people = ["Owen McCausland","Adanya Dunn","Keith Lam","Vania Chan"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508516194944/2017-10-20---Still3.jpg.jpg"
 primary_image_credit = "Photo: Blake Hannahson."
 publishDate = "2017-10-20T19:39:00-04:00"
+related_articles = ["articles/mrozewski-delight-wonder.md","articles/dear-me-advice-to-my-freshman-self.md","articles/transfixing-soundstreams-presents-tan-duns-water-passion.md"]
+related_companies = ["scene/companies/soundstreams.md"]
+related_people = ["scene/people/owen-mccausland.md","scene/people/adanya-dunn.md","scene/people/keith-lam.md","scene/people/vania-chan.md"]
 short_description = "With the daunting score has come an &quot;unbelievable&quot; level of focus from the performers. &quot;That&#039;s maybe even more powerful than this music, these people working either in pairs or quartets or quintets,&quot; he says of the &quot;fierce&quot; level of listening between the singers. &quot;They&#039;re totally wrapped up with this other person.&quot;"
 slug = "soundstreams-musik-ende"
 title = "&quot;It&#039;s his life, it&#039;s him.&quot; Soundstreams presents Musik für das Ende"

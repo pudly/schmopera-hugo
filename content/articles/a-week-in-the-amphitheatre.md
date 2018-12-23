@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Canadian Opera Company Ensemble Studio","Canadian Opera Company"]
 date = "2017-05-11T15:21:00-04:00"
 lastmod = "2017-05-12T09:16:00-04:00"
-people = ["Samantha Pickett","Aaron Sheppard","Hyejin Kwon","Stéphane Mayer","Megan Quick"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494538508399/2017-05-10--square---Samantha-Pickett---May-10---Kevin-Lloyd---resized.jpg.jpg"
 primary_image_credit = "Samantha Pickett singing in the Richard Bradshaw Amphitheatre. Photo: Kevin Lloyd."
 publishDate = "2017-05-12T09:16:00-04:00"
+related_articles = ["articles/canadian-yaps-missed-opportunities.md","articles/spotlight-on-owen-mccausland.md"]
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/samantha-pickett.md","scene/people/aaron-sheppard.md","scene/people/hyejin-kwon.md","scene/people/scene/stephane-mayer.md","scene/people/megan-quick.md"]
 short_description = "It was Megan Quick&#039;s performance of Robert Fleming&#039;s The Confession Stone (The Songs of Mary) that left the deepest impression. She sang five songs from the Canadian set written for Maureen Forrester, and showed off an enormous, rich mezzo that seemed to shake the intimate Amphitheatre. Her performance was subtle and thoughtful, yet centred in the voice; she had us thinking of a young Jamie Barton, and we&#039;re excited to hear her on the big stage."
 slug = "a-week-in-the-amphitheatre"
 title = "A week in the Amphitheatre"

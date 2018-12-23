@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "News"
-companies = ["Opera Mariposa"]
 date = "2018-06-10T12:00:00-04:00"
 lastmod = "2018-06-11T10:25:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528726738539/sqJacquelineKo_1.jpg.jpg"
 primary_image_credit = "Jacqueline Ko, co-founder of Opera Mariposa and creator of Toward Tomorrow. Photo courtesy of Opera Mariposa."
 publishDate = "2018-06-11T10:25:00-04:00"
+related_articles = ["articles/requiem-for-a-lost-girl-is-based-on-a-true-story.md","articles/when-art-is-not-enough-opera-activism.md","articles/shining-a-light-toward-tomorrow.md"]
+related_companies = ["scene/companies/opera-mariposa.md"]
 short_description = "Since starting Opera Mariposa, Ko&#039;s performances have raised over $50,000 in support of treatment, education, and research of chronic neuroimmune disease."
 slug = "i-wrote-toward-tomorrow-to-bring-attention-to-this-crisis"
 title = "&quot;I wrote Toward Tomorrow to bring attention to this crisis.&quot;"

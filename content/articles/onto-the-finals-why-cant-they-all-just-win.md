@@ -1,12 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2018-06-05T23:45:00-04:00"
 lastmod = "2018-06-05T23:45:00-04:00"
-people = ["John Brancy","Rihab Chaieb","Andrew Haji","Emily D'Angelo"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528256399361/sqAriaSemiFinalsII-5.jpg.jpg"
 primary_image_credit = "American baritone John Brancy in the Aria Semifinals of the Concours musical international de Montréal, 2018. Photo: Tam Lan Truong Photography."
 publishDate = "2018-06-05T23:45:00-04:00"
+related_people = ["scene/people/john-brancy.md","scene/people/rihab-chaieb.md","scene/people/andrew-haji.md","scene/people/emily-dangelo.md"]
 short_description = "I suppose that&#039;s what happened as the CMIM Aria finalists were announced. I made a few private predictions of my own, and I was largely on the same page as the jury. But I was dismayed to see two singers left out of the final round, perhaps for swinging too far one way or the other."
 slug = "onto-the-finals-why-cant-they-all-just-win"
 title = "Onto the finals: why can&#039;t they all just win?"

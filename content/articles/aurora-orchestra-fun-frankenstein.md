@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Aurora Orchestra"]
 date = "2016-05-29T20:56:00+01:00"
 lastmod = "2016-05-31T09:53:00+01:00"
-people = ["Marcus Farnsworth","Sarah Tynan"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464625036786/2016-05-31---Aurora-Orch-Rehearsal---Nick-Rutter.jpg.jpg"
 primary_image_credit = "Aurora Orchestra Principal Conductor Nicholas Collon in rehearsal. Photo: Nick Rutter."
 publishDate = "2016-05-30T21:32:00+01:00"
+related_articles = ["articles/great-nights-sketches-of-miles.md","articles/robert-ames-deep-minimalism-lco.md","articles/6-operas-to-creep-you-out.md","articles/dont-miss-accelerando-with-esprit-orchestra.md","articles/dont-miss-in-the-alps-with-the-aurora-orchestra.md"]
+related_companies = ["scene/companies/aurora-orchestra.md"]
+related_people = ["scene/people/marcus-farnsworth.md","scene/people/sarah-tynan.md"]
 short_description = "Farnsworth was the perfect surreal emcee-type. With direction by Martin Berry, Farnsworth&#039;s extraordinary character was layers thick, at once a gleeful child, enamoured with the music around him and the tales he tells, and an unpredictable psychopath. His vocal gymnastics were paired with delightful virtuosity on some of the toy instruments that Grüber includes in his scoring, like slide whistles and kazoos."
 slug = "aurora-orchestra-fun-frankenstein"
 title = "Aurora Orchestra, fun, &amp; Frankenstein!!"

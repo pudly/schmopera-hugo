@@ -1,10 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Op-ed"
 date = "2014-04-22T08:09:00-06:00"
 lastmod = "2017-06-28T21:32:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475768157084/2016-10-06---Defence.jpg.jpg"
 publishDate = "2014-04-22T08:09:00-06:00"
+related_articles = ["articles/schmopera-is-one.md","articles/in-defence-of-pianists.md","articles/what-to-wear-to-an-audition-via-the-red-carpet.md","articles/breaking-into-the-industry-a-vicious-cycle.md","articles/catty-commentary-or-whats-not-useful-for-opera.md","articles/public-practicing-pet-peeves.md","articles/helpful-singers-opera-does-house-calls.md","articles/power-plays-and-crossing-lines-.md","articles/one-more-reason-we-dont-envy-singers.md","articles/how-was-it-and-other-dangerous-questions.md","articles/what-else-are-singers-great-at.md","articles/audition-season-or-the-annual-festival-of-shattered-dreams.md","articles/in-defense-of-the-day-job-.md","articles/when-singers-call-in-sick.md","articles/sick-singers-when-its-best-to-shut-up-about-it.md","articles/a-singer-and-her-ego.md"]
 short_description = "I remember playing some auditions as part of a &quot;mock&quot; audition panel where the singers would get feedback about their audition presentation. I played for a soprano (who’s doing very well for herself lately) who started smart with some Mozart. One of the auditioners then said to her, “Not that it’s at all appropriate, but I’d love to hear the Lodoletta.” Sigh."
 slug = "in-defence-of-singers"
 title = "In defence of singers"

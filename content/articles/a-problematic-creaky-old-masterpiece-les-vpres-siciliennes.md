@@ -1,13 +1,14 @@
 +++
-author = "Vivian Darkbloom"
+author = ["authors/vivian-darkbloom.md"]
 categories = "Review"
-companies = ["Royal Opera House"]
 date = "2017-10-13T21:18:00-04:00"
 lastmod = "2017-10-13T22:02:00-04:00"
-people = ["Bryan Hymel","Malin Byström","Michael Volle","Erwin Schrott"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507944763505/2017-10-13---square---VEPRES_0523-MALIN-BYSTRO%CC%88M-AS-HE%CC%81LE%CC%80NE-ROH.-PHOTO-BILL-COOPER.jpg.jpg"
 primary_image_credit = "Malin Byström (Hélène) in Les vêpres siciliennes, ROH, 2017. Photo: Bill Cooper."
 publishDate = "2017-10-13T22:02:00-04:00"
+related_articles = ["articles/operas-sexual-assault-secret.md","articles/in-review-der-rosenkavalier-at-roh.md","articles/an-operas-evolving-relevance-turandot.md"]
+related_companies = ["scene/companies/royal-opera-house.md"]
+related_people = ["scene/people/bryan-hymel.md","scene/people/malin-bystrm.md","scene/people/michael-volle.md","scene/people/erwin-schrott.md"]
 short_description = "I don&#039;t understand why we haven&#039;t critically and fundamentally re-read all of these classic operas. I am a huge fan of modernising the way we produce opera, but I think has to include radical re-readings of characters and scenarios, not just new costuming and concepts."
 slug = "a-problematic-creaky-old-masterpiece-les-vpres-siciliennes"
 title = "&quot;A problematic creaky old masterpiece&quot;: Les vêpres siciliennes"

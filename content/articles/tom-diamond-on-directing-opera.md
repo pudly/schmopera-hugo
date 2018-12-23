@@ -1,11 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2015-04-12T18:39:00-04:00"
 lastmod = "2015-04-13T21:58:00-04:00"
-people = ["Tom Diamond"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428878391609/Diamond-Bathroom-Divas-Season-2-Press-Stills-040.jpg.jpg"
 publishDate = "2014-12-07T09:39:00-05:00"
+related_articles = ["articles/talking-with-directors-operas-marvel.md","articles/meet-the-director-liza-balkan.md","articles/opera-directors-an-unfair-disadvantage.md","articles/opera-lovers-their-unpopular-opinions.md","articles/mrozewski-delight-wonder.md"]
+related_people = ["scene/people/tom-diamond.md"]
 short_description = "Winnipeg-born Tom Diamond is one of Canada’s busiest, most sought-after opera directors. His work has earned him both Dora (Chan Ka Nin’s Iron Road) and Gemini awards (Bathroom Divas: So You Want To Be an Opera Star? on Bravo!), and he’s in huge demand as an operatic acting coach to young professional singers."
 slug = "tom-diamond-on-directing-opera"
 title = "Tom Diamond: On Directing Opera"

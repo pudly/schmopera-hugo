@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Shadwell Opera"]
 date = "2016-11-05T14:46:00+00:00"
 lastmod = "2016-11-05T16:55:00+00:00"
-people = ["Madeleine Pierard","Kate Howden"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478359648739/2016-11-05---Madeleine-Pierard-Shadwell-Opera-photoNick-Rutter2.jpg.jpg"
 primary_image_credit = "Madeleine Pierard in Shadwell Opera's Erwartung, 2016. Photo by Nick Rutter."
 publishDate = "2016-11-05T16:50:00+00:00"
+related_articles = ["articles/ghost-stories-true-stories-the-lighthouse.md","articles/murky-works-shadwell-opera-presents-the-lighthouse.md"]
+related_companies = ["scene/companies/shadwell-opera.md"]
+related_people = ["scene/people/madeleine-pierard.md","scene/people/kate-howden.md"]
 short_description = "Erwartung and Twice Through the Heart both hurl listeners directly into the action. We are presented with questions: are these women killers? Are they crazy? Are they liars? Are their memories to be trusted? Sitting above the immediate curiosity with these women are larger questions about how women in particular are pushed to violence."
 slug = "in-review-erwartungtwice-through-the-heart"
 title = "In review: Erwartung/Twice Through the Heart"

@@ -1,12 +1,12 @@
 +++
-author = "Meghan Klinkenborg"
+author = ["authors/meghan-klinkenborg.md"]
 categories = "Review"
-companies = ["Des Moines Metro Opera"]
 date = "2018-07-09T21:05:00-04:00"
 lastmod = "2018-07-09T21:05:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1531183351774/sqDSC_6100.jpg.jpg"
 primary_image_credit = "The Tender Land, Des Moines Metro Opera, 2018. (c) Duane Tinkey for Des Moines Metro Opera."
 publishDate = "2018-07-09T21:05:00-04:00"
+related_companies = ["scene/companies/des-moines-metro-opera.md"]
 short_description = "The Maytag hosts clearly took the term &quot;Iowa Nice&quot; to heart. Free snacks and beverages were supplied prior to the performance, as well as pie and ice cream afterwards. The atmosphere was welcoming and friendly, and I could sense that the Newton community had enthusiastically embraced their first opportunity to host the opera."
 slug = "strange-inside-the-tender-land"
 title = "Strange inside: The Tender Land"

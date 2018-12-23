@@ -1,11 +1,12 @@
 +++
-author = "Greg Finney"
+author = ["authors/greg.md"]
 categories = "Review"
-companies = ["Soundstreams"]
 date = "2018-03-13T16:52:00-04:00"
 lastmod = "2018-03-13T16:52:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520974195611/sq---water.jpg.jpg"
 publishDate = "2018-03-13T16:52:00-04:00"
+related_articles = ["articles/soundstreams-musik-ende.md","articles/in-review-squeezebox.md"]
+related_companies = ["scene/companies/soundstreams.md"]
 short_description = "Michelle Colton, Aiyun Huang, and Ryan Scott showed what true musical versatility means, playing timpani, water (yes, they actually played the water - sometimes with cups to create a neat effect that reminded me of horses galloping through water), cymbals (which they would then dip in the water to create new effects), singing prayer bowls and that&#039;s just in the first two movements."
 slug = "transfixing-soundstreams-presents-tan-duns-water-passion"
 title = "Transfixing: Soundstreams presents Tan Dun&#039;s Water Passion"

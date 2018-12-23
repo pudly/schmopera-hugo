@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2017-09-20T12:58:00-04:00"
 lastmod = "2017-09-22T10:37:00-04:00"
@@ -7,6 +7,7 @@ preamble = "You may have caught a recent series of posts by composer [Frank Pesc
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505930972569/frank-pesci.png"
 primary_image_credit = "Image courtesy of Make Weird Music"
 publishDate = "2017-09-22T10:37:00-04:00"
+related_articles = ["articles/taking-tweed-seriously-lessons-for-the-emerging-opera-composer.md","articles/fine-mess-composer-new-opera.md"]
 short_description = "In a recent interview with Anthony Garone of Make Weird Music, Pesci talks about the operatic myths that may keep potential audiences at arm&#039;s length, the influence of jazz in his music - and its value for classical musicians - and his own &quot;heroes&quot; of contemporary opera."
 slug = "opera-myths-all-that-jazz-an-interview-with-frank-pesci"
 title = "Opera myths &amp; all that jazz: an interview with Frank Pesci"

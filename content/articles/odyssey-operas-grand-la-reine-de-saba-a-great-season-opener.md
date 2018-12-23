@@ -1,13 +1,14 @@
 +++
-author = "Arturo Fernandez"
+author = ["authors/arturo-fernandez.md"]
 categories = "Review"
-companies = ["Odyssey Opera"]
 date = "2018-09-23T13:31:00-04:00"
 lastmod = "2018-09-23T15:48:00-04:00"
-people = ["Kevin Thompson","Kara Shay Thomson","Dominick Chenes"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537723966449/sqEnsemble_2.jpg.jpg"
 primary_image_credit = "The ensemble of Odyssey Opera's La Reine de Saba, 2018. Photo: Kathy Wittman."
 publishDate = "2018-09-23T15:48:00-04:00"
+related_articles = ["articles/odyssey-operas-giovanna-darco-bold-and-flawed.md"]
+related_companies = ["scene/companies/odyssey-opera.md"]
+related_people = ["scene/people/kevin-thompson.md","scene/people/kara-shay-thomson.md","scene/people/dominick-chenes.md"]
 short_description = "Odyssey Opera&#039;s work restored all of the finales of the middle three acts to their complete forms, with a note in the program adding that they believe most of the material they restored had never been heard prior to their performance. That this content was cut to begin with should come as an absolute shock: the restored content felt absolutely vital to how the work unfolds dramatically."
 slug = "odyssey-operas-grand-la-reine-de-saba-a-great-season-opener"
 title = "Odyssey Opera&#039;s grand La reine de Saba a great season opener"

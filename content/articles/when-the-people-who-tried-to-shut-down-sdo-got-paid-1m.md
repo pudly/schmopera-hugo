@@ -1,11 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["San Diego Opera"]
 date = "2015-05-04T14:27:00-04:00"
 lastmod = "2015-05-04T15:58:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430765039114/Campbells.jpg.jpg"
 publishDate = "2015-05-04T14:56:00-04:00"
+related_companies = ["scene/companies/san-diego-opera.md"]
 short_description = "Thanks to Slipped Disc, I read the ugly story of Ian Campbell and his ex-wife Ann Spira Campbell, and how they were paid roughly $1M on their way out of the San Diego Opera board."
 slug = "when-the-people-who-tried-to-shut-down-sdo-got-paid-1m"
 title = "When the people who tried to shut down SDO got paid $1M"

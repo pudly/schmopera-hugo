@@ -1,11 +1,12 @@
 +++
-author = "Hannah De Priest"
+author = ["authors/hannah-de-priest.md"]
 categories = "Interview"
-companies = ["Haymarket Opera Company"]
 date = "2018-05-16T21:27:00-04:00"
 lastmod = "2018-05-21T20:55:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526867790493/sqMeriem.jpg.jpg"
 publishDate = "2018-05-21T20:55:00-04:00"
+related_articles = ["articles/photographing-the-opera-singer.md"]
+related_companies = ["scene/companies/haymarket-opera-company.md"]
 short_description = "For years, she pushed her love of fashion and drawing to the side until, while studying in Lille, she happened to meet the couturiere designing and building costumes for her local amateur dance troupe. The couturiere showed Bahri how to use a sewing machine and she was hooked."
 slug = "dressing-opera-singers-chatting-with-costume-designer-meriem-bahri"
 title = "Dressing opera singers: chatting with costume designer Meriem Bahri"

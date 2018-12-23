@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 date = "2015-09-03T11:32:00-04:00"
 lastmod = "2015-09-10T09:00:00-04:00"
 preamble = "If you're a singer, watching this video might give you the creepy-crawlies. It's Dame Kiri Te Kanewa singing \"Dove sono i bei momenti\" from *Le nozze di Figaro* at the [Metropolitan Opera's Centennial Gala](http://www.imdb.com/title/tt1062163/), 1983. Kiri sings this staple aria of hers as beautifully as you would expect. \n\nNear the end, a terrifying thing happens: *a memory slip*. It's super subtle, tricky to catch right away (that probably means it's an easy trap for sopranos).\n\nThis one is all about the recovery though; smooth like butter, even at the Met with thousands of (real) opera folks watching. Have a watch, and skip to 5:00 if you're impatient. Oh, and stay tuned for her beautiful exchange with Maestro Levine as the applause roars in."

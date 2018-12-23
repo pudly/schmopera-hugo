@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Op-ed"
-companies = ["Vancouver Opera","Against the Grain Theatre","The Banff Centre","Indie Opera T.O."]
 date = "2015-07-01T21:20:00-06:00"
 draft = true
 lastmod = "2015-07-01T22:08:00-06:00"
-people = ["Christopher Mokrzewski"]
 preamble = "This is the first of a two-part piece by a guest contributor, who preferred to remain anonymous. It's a telling preference, I think."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435807679778/Van.jpg.jpg"
+related_articles = ["articles/the-future-of-opera-is-indie.md","articles/curiosity-and-the-met.md"]
+related_companies = ["scene/companies/vancouver-opera.md","scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md","scene/companies/indie-opera-to.md"]
+related_people = ["scene/people/christopher-mokrzewski.md"]
 slug = "are-the-good-old-days-of-opera-really-gone"
 title = "Are the good old days of opera really gone?"
 +++

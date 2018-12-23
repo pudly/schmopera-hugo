@@ -1,5 +1,5 @@
 +++
-author = "Paul E. Kwak, MD"
+author = ["authors/paul-e-kwak-md.md"]
 categories = "Op-ed"
 date = "2017-07-05T13:36:00-06:00"
 lastmod = "2017-07-05T21:17:00-06:00"
@@ -7,6 +7,7 @@ preamble = "This is a guest contribution by [Paul E. Kwak, MD](http://nyulangone
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499289496191/2017-07-05---Adele.jpg.jpg"
 primary_image_credit = "Photo: Kevork Djansezian/Getty Images"
 publishDate = "2017-07-05T21:12:00-06:00"
+related_articles = ["articles/10-pop-singers-with-pipes.md","articles/hot-topics-singers-who-scoop.md","articles/audition-season-or-the-annual-festival-of-shattered-dreams.md","articles/talking-with-voice-docs-dr-paul-e-kwak.md","articles/using-your-voice-again-a-plan-of-action.md","articles/greg-jennas-roundup2017.md"]
 short_description = "We can do better. We can espouse and proclaim the value of vocal health, technique, and efficiency, while recognizing with great respect and awe the beauty in non-traditional voices, and overcoming the professional and territorial myopia that threatens to rob us of our innate desire to hear the gift of a great voice raised in song."
 slug = "stop-shaming-adele"
 title = "Stop shaming Adele"

@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2017-07-27T17:24:00-04:00"
 lastmod = "2017-08-01T22:22:00-04:00"
@@ -7,6 +7,7 @@ preamble = "This month, young audiences can dive into the [world of Beatrix Pott
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501638870697/The%20Tales%20of%20Peter%20Rabbit%20and%20Jemima%20Puddle-Duck_2.jpg.jpg"
 primary_image_credit = "Peter & Jemima, © Frederick Warne & Co., 1902, 2002."
 publishDate = "2017-08-01T22:01:00-04:00"
+related_articles = ["articles/shhdont-tell-them-its-opera.md"]
 short_description = "&quot;Beatrix Potter&#039;s storytelling was straightforward and honest. She never talked down to her young readers whilst still making them believe that it&#039;s perfectly normal for animals to talk and interact with humans.&quot;"
 slug = "dont-miss-beatrix-potter-at-edinburgh-fringe"
 title = "Don&#039;t miss: Beatrix Potter at Edinburgh Fringe"

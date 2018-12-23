@@ -1,13 +1,14 @@
 +++
-author = "Melissa Ratcliff"
+author = ["authors/melissa-ratcliff.md"]
 categories = "Review"
-companies = ["Vancouver Opera"]
 date = "2017-10-15T18:37:00-04:00"
 lastmod = "2017-10-15T21:07:00-04:00"
-people = ["Amber Wagner","Marianne Fiset","Marcelo Puente"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508107113885/2017-10-16---square---Turandot_Princess-Turandot-Amber-Wagner-%26-The-Emperor-Altoum-Sam-Chung-by-Tim-Matheson.jpg.jpg"
 primary_image_credit = "Amber Wagner (Turandot) & Sam Chung (The Emperor Altoum) in Turandot, Vancouver Opera, 2017. Photo: Tim Matheson."
 publishDate = "2017-10-15T21:07:00-04:00"
+related_articles = ["articles/talking-with-singers-othalie-graham.md","articles/rohs-madama-butterfly-better-to-be-furious-than-bored.md","articles/a-fascinating-marriage-of-art-forms-kayoi-komachi.md"]
+related_companies = ["scene/companies/vancouver-opera.md"]
+related_people = ["scene/people/amber-wagner.md","scene/people/marianne-fiset.md","scene/people/marcelo-puente.md"]
 short_description = "Given the size of the Chinese community in Vancouver, tackling Turandot is not only an ambitious project, but a potentially controversial one. However VO dealt with the controversies head-on, talking extensively in the program about the accusations of &quot;Orientalism&quot; in the score, and how they wanted to address those for a modern audience, and how these kinds of dialogues will continue to inform productions for years to come."
 slug = "a-grand-night-out-at-vancouver-operas-turandot"
 title = "A grand night out at Vancouver Opera&#039;s Turandot"

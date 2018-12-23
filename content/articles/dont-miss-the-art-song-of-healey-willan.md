@@ -1,12 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "News"
-companies = ["Canadian Art Song Project"]
 date = "2016-11-08T12:38:00+00:00"
 lastmod = "2016-11-12T12:29:00+00:00"
-people = ["Allyson McHardy","Peter Barrett"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478613584189/2016-11-08---CASP-Willam.jpg.jpg"
 publishDate = "2016-11-12T12:29:00+00:00"
+related_companies = ["scene/companies/canadian-art-song-project.md"]
+related_people = ["scene/people/allyson-mchardy.md","scene/people/peter-barrett.md"]
 short_description = "Continuing their history of performance and research of Canadian composers, the Canadian Art Song Project has transcribed and edited several of Willan&#039;s songs, previously available only in manuscript in the national archives in Ottawa; the programme also includes songs that have been out of publication for over 10 years."
 slug = "dont-miss-the-art-song-of-healey-willan"
 title = "Don&#039;t miss: The Art Song of Healey Willan"

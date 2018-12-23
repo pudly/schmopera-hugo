@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Canadian Art Song Project"]
 date = "2014-04-16T10:48:00-04:00"
 lastmod = "2015-04-23T22:30:00-04:00"
-people = ["Lawrence Wiliford","Mireille Asselin","Liz Upchurch","Steven Philcox"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429842444037/AshRosesAlbum.png"
 publishDate = "2014-04-16T10:48:00-04:00"
+related_articles = ["articles/phillip-addis-emily-hamper-the-pilgrim-soul.md","articles/album-review-cloud-light.md"]
+related_companies = ["scene/companies/canadian-art-song-project.md"]
+related_people = ["scene/people/lawrence-wiliford.md","scene/people/mireille-asselin.md","scene/people/liz-upchurch.md","scene/people/steven-philcox.md"]
 short_description = "Ash Roses is the first CD released by the Canadian Art Song Project (CASP), and it features the music of composer Derek Holman. I&#039;m not personally familiar with Holman&#039;s work, but I caught some at the CASP recital in the Richard Bradshaw Amphitheatre a few weeks ago, and I distinctly remember liking it."
 slug = "in-review-ash-roses"
 title = "In review: Ash Roses"

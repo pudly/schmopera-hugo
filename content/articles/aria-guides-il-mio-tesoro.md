@@ -1,11 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "How-to"
 date = "2016-06-07T11:01:00-06:00"
 lastmod = "2016-06-27T15:18:00-06:00"
 preamble = "\"Il mio tesoro\", from Mozart's *Don Giovanni*, marks the first time we see Don Ottavio go from fawning, sensitive support system, to a real man with a plan. It's no easy task for a tenor; Mozart writes long phrases, big leaps, coloratura, and those trademark delicate phrase endings that can make any singer sweat. Tenors, while you consult your best teachers and coaches, we can offer you a few quick tips to help make some music out of this tough aria."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466732961026/2016-06-24---Tesoro.jpg.jpg"
 publishDate = "2016-06-26T23:17:00-06:00"
+related_articles = ["articles/aria-guide-dies-bildnis-ist-bezaubernd-schon.md","articles/aria-guides-dalla-sua-pace.md","articles/aria-guides-quando-men-vo.md","articles/aria-guides-insert-christmas-carol-here.md","articles/aria-guides-the-composers-aria.md","articles/aria-guides-un-aura-amorosa.md"]
 short_description = "&quot;Il mio tesoro&quot;, from Mozart&#039;s Don Giovanni, marks the first time we see Don Ottavio go from fawning, sensitive support system, to a real man with a plan. It&#039;s no easy task for a tenor; Mozart writes long phrases, big leaps, coloratura, and those trademark delicate phrase endings that can make any singer sweat. Tenors, while you consult your best teachers and coaches, we can offer you a few quick tips to help make some music out of this tough aria."
 slug = "aria-guides-il-mio-tesoro"
 title = "Aria guides: Il mio tesoro"

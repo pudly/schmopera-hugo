@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Against the Grain Theatre"]
 date = "2018-12-03T21:13:00-05:00"
 lastmod = "2018-12-03T21:13:00-05:00"
-people = ["Miriam Khalil"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543889238938/sqSopranoMiriamKhalilAyre3.jpg.jpg"
 primary_image_credit = "Miriam Khalil performing Ayre at the Toronto Ismaili Centre, 2016. Photo: Darryl Block Photography."
 publishDate = "2018-12-03T21:13:00-05:00"
+related_articles = ["articles/in-review-ayre.md"]
+related_companies = ["scene/companies/against-the-grain-theatre.md"]
+related_people = ["scene/people/miriam-khalil.md"]
 short_description = "&quot;That time is imprinted in my brain, and I think it will be forever,&quot; says Khalil of singing Ayre at Toronto&#039;s Ismaili Centre, a cultural symbol of the city&#039;s fostering of Islam. She gave three performances between November 10-12, 2016, less than a week after Trump&#039;s election win. &quot;This piece felt like it was so needed at that time.&quot;"
 slug = "ayre-live-launches-atgs-new-record-label"
 title = "Ayre Live launches AtG&#039;s new record label"

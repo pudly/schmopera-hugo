@@ -1,12 +1,12 @@
 +++
-author = "Alessia Naccarato"
+author = ["authors/alessia-naccarato.md"]
 categories = "Review"
-companies = ["English National Opera"]
 date = "2018-11-27T20:08:00-05:00"
 lastmod = "2018-11-27T21:11:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543367230729/sqENOLabohe%CC%80meNatalyaRomaniwJonathanTetelmanRobertWorkman3.jpg.jpg"
 primary_image_credit = "Jonathan Tetelman and Natalya Romaniw in La bohème, English National Opera, 2018. Photo: Robert Workman."
 publishDate = "2018-11-27T20:43:00-05:00"
+related_companies = ["scene/companies/english-national-opera.md"]
 short_description = "Rodolfo and Mimì shared what felt like a genuine chemistry. Sung by Welsh soprano Natalya Romaniw making her ENO debut, it was a subtle and heartfelt performance. There was something classic about her sound that I really loved. It was a true triumph. Musetta, sung by ENO Harewood Artist Nadine Benjamin, was unfortunately the weakest character for me."
 slug = "everyday-people-spectacular-emotions-la-bohme"
 title = "Everyday people &amp; spectacular emotions: La bohème"

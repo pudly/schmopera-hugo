@@ -1,13 +1,14 @@
 +++
-author = "Greg Finney"
+author = ["authors/greg.md"]
 categories = "Review"
-companies = ["Toronto Operetta Theatre"]
 date = "2018-01-09T18:23:00-05:00"
 lastmod = "2018-01-09T21:08:00-05:00"
-people = ["Vania Chan","Tonatiuh Abrego","Nicholas Borg"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515540174570/2018-01-10---Candide-sq.jpg.jpg"
 primary_image_credit = "l-r: Nicholas Borg as Pangloss, Tonatiuh Abrego as Candide and Patrick Bowman as Maximilian in Candide, Toronto Operetta Theatre, 2017. Photo: Gary Beechey."
 publishDate = "2018-01-09T18:35:00-05:00"
+related_articles = ["articles/what-the-eff-is-a-zarzuela-anyway.md","articles/leonard-bernstein-nyfos-i-think-hed-be-pretty-proud-of-it.md"]
+related_companies = ["scene/companies/toronto-operetta-theatre.md"]
+related_people = ["scene/people/vania-chan.md","scene/people/tonatiuh-abrego.md","scene/people/nicholas-borg.md"]
 short_description = "There was also the choice for some characters to use dialects - dangerous territory when you&#039;re already dealing with the pitfalls of Mid-Atlantic English pronunciation. I found the inconsistency of the dialects to be a bit distracting in the longer dialogue scenes, but the focus on great singing always brought you back home. "
 slug = "satire-meets-serious-singing-tots-candide"
 title = "Satire meets serious singing: TOT&#039;s Candide"

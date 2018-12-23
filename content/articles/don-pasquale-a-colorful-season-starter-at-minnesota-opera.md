@@ -1,13 +1,14 @@
 +++
-author = "Callie Cooper"
+author = ["authors/callie-cooper.md"]
 categories = "Review"
-companies = ["Minnesota Opera"]
 date = "2017-10-10T21:56:00-04:00"
 lastmod = "2017-10-11T13:19:00-04:00"
-people = ["David Walton","Susannah Biller","Craig Colclough"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507688218996/2017-10-10---square---DN2_7009.jpg.jpg"
 primary_image_credit = "Craig Colclough in the title character of Don Pasquale, Minnesota Opera, 2017. Photo: Dan Norman."
 publishDate = "2017-10-11T11:27:00-04:00"
+related_articles = ["articles/talking-with-singers-craig-colclough.md","articles/talking-with-singers-zachary-nelson.md","articles/silent-night-ages-well-in-minnesota-revival.md"]
+related_companies = ["scene/companies/minnesota-opera.md"]
+related_people = ["scene/people/david-walton.md","scene/people/susannah-biller.md","scene/people/craig-colclough.md"]
 short_description = "This production had an entertaining concept, though I wish it had been taken further. The &quot;release&quot; of the technicolor was not gradual enough to stay present in the audience minds in the second and third act. Additionally, Doctor Malatesta&#039;s apparel was changed into vibrant colors but the Don&#039;s was not. It would have been interesting for his clothes to change when he is at the end of his rope with Norina; then, when there was a happy ending to switch back to black and white."
 slug = "don-pasquale-a-colorful-season-starter-at-minnesota-opera"
 title = "Don Pasquale: a colorful season starter at Minnesota Opera"

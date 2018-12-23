@@ -1,12 +1,13 @@
 +++
-author = "Greg Finney"
+author = ["authors/greg.md"]
 categories = "Review"
-companies = ["Soundstreams"]
 date = "2016-02-12T09:51:00-05:00"
 lastmod = "2016-02-12T10:16:00-05:00"
-people = ["Carla Huhtanen"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455288996398/Carla-Huhtanen-and-Joseph-Macerollo_La-Testa-dAdrianeSquare.jpg.jpg"
 publishDate = "2016-02-12T10:10:00-05:00"
+related_articles = ["articles/squeezebox-at-soundstreams.md","articles/in-review-julie.md","articles/dont-miss-soundstreams-presents-odditorium.md","articles/transfixing-soundstreams-presents-tan-duns-water-passion.md"]
+related_companies = ["scene/companies/soundstreams.md"]
+related_people = ["scene/people/carla-huhtanen.md"]
 short_description = "In an eclectic program that only an accomplished company like Soundstreams can pull off, we were treated to Squeezebox, a program of instruments from the accordion family, which is a thing, and includes one played with your mouth (think harmonica meets tiny bagpipes and has a threesome with an accordion.)"
 slug = "in-review-squeezebox"
 title = "In review: Squeezebox"

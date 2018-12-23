@@ -1,12 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Opera 5"]
 date = "2014-10-28T09:00:00-04:00"
 lastmod = "2015-04-14T10:09:00-04:00"
-people = ["Lucia Cesaroni","Adrian Kramer","Maika'i Nash"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429020485938/AdrianLucia-720x495.jpg.jpg"
 publishDate = "2014-10-28T09:00:00-04:00"
+related_companies = ["scene/companies/opera-5.md"]
+related_people = ["scene/people/lucia-cesaroni.md","scene/people/adrian-kramer.md","scene/people/maikai-nash.md"]
 short_description = "Coming up in Toronto next month: two Canadian singers team up in recital. Tenor Adrian Kramer, soprano Lucia Cesaroni and pianist Maika&#039;i Nash present Extensions  of Us: Melody and Movement. "
 slug = "in-recital-lucia-cesaroni-and-adrian-kramer"
 title = "In recital: Lucia Cesaroni and Adrian Kramer"

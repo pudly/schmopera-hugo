@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Royal Opera House","The Metropolitan Opera"]
 date = "2016-11-16T19:45:00+00:00"
 lastmod = "2016-11-24T09:44:00+00:00"
-people = ["Sondra Radvanovsky"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479929155754/2016-11-23---Radvanovsky-Eccles.jpg.jpg"
 primary_image_credit = "Photo by Andrew Eccles."
 publishDate = "2016-11-24T09:23:00+00:00"
+related_articles = ["articles/talking-with-singers-jamie-barton.md","articles/talking-with-singers-christine-goerke.md","articles/whos-afraid-of-the-aging-singer.md","articles/dont-miss-radvanovsky-in-recital-at-cadogan-hall.md","articles/talking-with-singers-ailyn-perez.md","articles/talking-with-singers-angela-meade.md","articles/spotlight-on-jennifer-davis.md","articles/reason-947-we-dont-envy-singers-singing-on-camera.md","articles/talking-with-singers-siobhan-stagg.md"]
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md"]
+related_people = ["scene/people/sondra-radvanovsky.md"]
 short_description = "&quot;It took me twenty years to get here,&quot; says Radvanovsky of the long game that is the opera singer&#039;s career. &quot;Twenty years of cracking on high notes at the Metropolitan Opera, and saying, &#039;This didn&#039;t work tonight, let&#039;s try it another way!&#039;&quot; And the work is still not over."
 slug = "talking-with-singers-sondra-radvanovsky"
 title = "Talking with singers: Sondra Radvanovsky"

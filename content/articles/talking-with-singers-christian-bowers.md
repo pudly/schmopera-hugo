@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Utah Opera"]
 date = "2016-10-10T12:44:00+01:00"
 lastmod = "2016-10-12T13:07:00+01:00"
-people = ["Christian Bowers"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476109585401/2016-10-10--Christian-Bowers.jpg.jpg"
 primary_image_credit = "Photo by Arielle Doneson."
 publishDate = "2016-10-12T13:07:00+01:00"
+related_articles = ["articles/talking-with-singers-luca-pisaroni.md","articles/talking-with-singers-bryan-register.md","articles/talking-with-singers-christian-van-horn.md","articles/daniel-belcher-returns-to-the-long-walk.md"]
+related_companies = ["scene/companies/utah-opera.md"]
+related_people = ["scene/people/christian-bowers.md"]
 short_description = "&quot;There are a lot of times when I&#039;m in an empty hotel room, and I&#039;m looking at Facebook and I&#039;m seeing you with pictures of your kids, the pictures of your house and the garden you planted,&quot; he explains. &quot;All my stuff&#039;s in my room that I grew up in, and I live out of a suitcase or two for five weeks at a time.&quot;"
 slug = "talking-with-singers-christian-bowers"
 title = "Talking with singers: Christian Bowers"

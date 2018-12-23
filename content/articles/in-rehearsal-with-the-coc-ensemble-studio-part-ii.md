@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Canadian Opera Company Ensemble Studio","Canadian Opera Company"]
 date = "2015-05-10T10:34:00-04:00"
 lastmod = "2015-05-10T10:43:00-04:00"
-people = ["Clarence Frazer","Iain MacNeil","Gordon Bintner","Karine Boucher","Andrew Haji","Jean-Philippe Fortier-Lazure","Charlotte Burrage"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431268663850/EnsembleBarberFeature2.jpg.jpg"
 publishDate = "2015-05-10T10:40:00-04:00"
+related_articles = ["articles/not-quite-review-coc-ensemble-barber-of-seville.md"]
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/clarence-frazer.md","scene/people/iain-macneil.md","scene/people/gordon-bintner.md","scene/people/karine-boucher.md","scene/people/andrew-haji.md","scene/people/jeanphilippe-fortierlazure.md","scene/people/charlotte-burrage.md"]
 short_description = "The COC Ensemble Studio&#039;s performance of The Barber of Seville happens this coming Friday, May 15th at the Four Seasons Centre. Following up to Part I, I was able to a) invade their rehearsal a little bit, and b) sit down and chat with the rest of this fantastic cast. "
 slug = "in-rehearsal-with-the-coc-ensemble-studio-part-ii"
 title = "In rehearsal with the COC Ensemble Studio, part II"

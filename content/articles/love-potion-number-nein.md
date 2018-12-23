@@ -1,11 +1,12 @@
 +++
-author = "Loren Lester"
+author = ["authors/loren-lester.md"]
 categories = "Review"
 date = "2018-05-20T21:47:00-04:00"
 lastmod = "2018-05-20T21:47:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526867048582/sqLPotion-TD-085.jpg.jpg"
 primary_image_credit = "Bernard Holcomb as Tristan and Jamie Chamberlin as Isolde in The Love Potion, Long Beach Opera, 2018. Photo: Keith Ian Polakoff."
 publishDate = "2018-05-20T21:47:00-04:00"
+related_articles = ["articles/dont-miss-the-love-potion.md"]
 short_description = "Mr. Mitisek and Long Beach Opera have built their world-renowned reputations on new works and the discovery of neglected treasures from the past. Mr. Martin&#039;s 1942 opera does not fit into either category."
 slug = "love-potion-number-nein"
 title = "Love Potion Number Nein"

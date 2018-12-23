@@ -1,10 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Op-ed"
 date = "2015-11-27T09:35:00-05:00"
 lastmod = "2015-11-27T11:39:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448640221303/2015-11-27---SummerPrograms.jpg.jpg"
 publishDate = "2015-11-27T11:30:00-05:00"
+related_articles = ["articles/how-to-make-the-most-of-your-summer-program.md","articles/opera-in-summer.md","articles/wells-fargo-isnt-antiarts-everyone.md","articles/4-things-you-shouldnt-expect-from-summer-programs.md","articles/music-degrees-expectations-4-tips-for-new-students.md"]
 short_description = "Summer programs, and their expensive nature, have been under scrutiny during this 2015/16 audition season. It&#039;s not a new conversation; the advent of bloggers has meant conversations about not-cheap aspects to the opera training industry, including famed bass-baritone Alan Held&#039;s strong words for YAPs (conversely, there&#039;s this controversial article about why audition fees are necessary)."
 slug = "paid-summer-programs-is-it-time-for-a-revolution"
 title = "Paid summer programs: is it time for a revolution?"

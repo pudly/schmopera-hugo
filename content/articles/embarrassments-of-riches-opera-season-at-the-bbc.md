@@ -1,12 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "News"
-companies = ["Royal Opera House","English National Opera","Opera North","Glyndebourne","Welsh National Opera","Scottish Opera","Northern Ireland Opera"]
 date = "2017-10-11T13:24:00-04:00"
 lastmod = "2017-10-14T21:52:00-04:00"
-people = ["Jonas Kaufmann","Maria Agresta"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507751024448/BBC%20Opera.jpg.jpg"
 publishDate = "2017-10-14T21:52:00-04:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/english-national-opera.md","scene/companies/opera-north.md","scene/companies/glyndebourne.md","scene/companies/welsh-national-opera.md","scene/companies/scottish-opera.md","scene/companies/northern-ireland-opera.md"]
+related_people = ["scene/people/jonas-kaufmann.md","scene/people/maria-agresta.md"]
 short_description = "The eight hours of live streaming includes interviews, exclusive performance, archive footage and behind-the-scenes content; the day culminates on BBC Radio 3, where listeners can vote for one of four Royal Opera productions (The Magic Flute, Faust, Tosca and The Flying Dutchman) to be broadcast that evening."
 slug = "embarrassments-of-riches-opera-season-at-the-bbc"
 title = "Embarrassments of riches: Opera Season at the BBC"

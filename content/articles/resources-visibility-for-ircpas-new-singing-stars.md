@@ -1,12 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
 date = "2018-11-08T21:00:00-05:00"
 lastmod = "2018-11-12T16:57:00-05:00"
-people = ["Sara Schabas","Teiya Kasahara","Gwenna Fairchild-Taylor"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541728535181/sqAdriannespeaking-PhotobyCaitlinCucci-image003.jpg.jpg"
 primary_image_credit = "Adrianne Pieczonka at IRCPA's New Singing Stars, Zoomer Hall. Photo by Caitlin Cucco."
 publishDate = "2018-11-09T09:06:00-05:00"
+related_people = ["scene/people/sara-schabas.md","scene/people/teiya-kasahara.md","scene/people/gwenna-fairchildtaylor.md"]
 short_description = "Following the concert, IRCPA awarded its annual &quot;Career Blueprint&quot; to soprano Sara Schabas, who had wowed the crowd - both live and those watching and listening live on The New Classical FM - with her crystalline singing of a snippet of Strauss&#039; Der Rosenkavalier."
 slug = "resources-visibility-for-ircpas-new-singing-stars"
 title = "Resources &amp; visibility for IRCPA&#039;s New Singing Stars"

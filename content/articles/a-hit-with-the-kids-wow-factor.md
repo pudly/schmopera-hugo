@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Canadian Opera Company Ensemble Studio","Canadian Opera Company"]
 date = "2018-12-02T10:36:00-05:00"
 lastmod = "2018-12-02T12:45:00-05:00"
-people = ["Joel Allison","Lauren Eberwein","Simone McIntosh","Anna-Sophie Neher","Samuel Chan","Lauren Margison","Charles Sy","Stéphane Mayer","Anna Theodosakis","Joel Ivany","Simona Genga"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543764647014/sqDSC_5306.jpg.jpg"
 primary_image_credit = "Post-performance Q&A for the Canadian Opera Company's production of WOW Factor: A Cinderella Story (Opera for Young Audiences, 2018), photo: Gaetz Photography."
 publishDate = "2018-12-02T12:45:00-05:00"
+related_articles = ["articles/opera-for-all-the-magic-victrola.md","articles/amahl-production-a-charming-gift-of-youthful-energy.md"]
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/joel-allison.md","scene/people/lauren-eberwein.md","scene/people/simone-mcintosh.md","scene/people/annasophie-neher.md","scene/people/samuel-chan.md","scene/people/lauren-margison.md","scene/people/charles-sy.md","scene/people/scene/stephane-mayer.md","scene/people/anna-theodosakis.md","scene/people/joel-ivany.md","scene/people/simona-genga.md"]
 short_description = "An audience of kids also tests the temperament of the folks onstage. *WOW Factor* is cast with current and past members of the COC Ensemble Studio, and it was specifically the new members who impressed with their versatility. I had seen bass-baritone Joel Allison in the COC&#039;s stark production of Eugene Onegin, and it was a hoot to see him turn a full 180 as the buffo-for-kids Mr. Magnifico."
 slug = "a-hit-with-the-kids-wow-factor"
 title = "A hit with the kids: WOW Factor"

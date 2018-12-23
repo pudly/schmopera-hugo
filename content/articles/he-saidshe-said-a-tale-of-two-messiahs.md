@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md","authors/greg.md"]
 categories = "Review"
-companies = ["Tafelmusik Baroque Orchestra & Chamber Choir","Toronto Symphony Orchestra"]
 date = "2016-12-20T14:27:00-05:00"
 lastmod = "2016-12-21T10:09:00-05:00"
-people = ["Krisztina Szabó","Isaiah Bell","Daniel Okulitch","Colin Balzer","Amanda Forsythe","Tyler Duncan","Abigail Levis","Yulia Van Doren"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482265509203/2016-12-20---Messiahs.jpg.jpg"
 publishDate = "2016-12-21T09:15:00-05:00"
+related_articles = ["articles/i-sang-along-at-tafelmusiks-messiah.md","articles/rehearsing-a-messiah-that-moves.md"]
+related_companies = ["scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md","scene/companies/toronto-symphony-orchestra.md"]
+related_people = ["scene/people/krisztina-szab.md","scene/people/isaiah-bell.md","scene/people/daniel-okulitch.md","scene/people/colin-balzer.md","scene/people/amanda-forsythe.md","scene/people/tyler-duncan.md","scene/people/abigail-levis.md","scene/people/yulia-van-doren.md"]
 short_description = "Herr Handel was welcomed to the stage with all the flair and fervour of the biggest glam-rock superstar. It was heartening to see that kind of reaction. After a few housekeeping announcements disguised as a sketch with Handel, The Earl of Sandwich (apparently it&#039;s important to know that it&#039;s pronounced [&#039;samɪtʃ]), and a silver tray of what I later found out to be actual turkey sandwiches, we had a quick warm-up and were off to the races."
 slug = "he-saidshe-said-a-tale-of-two-messiahs"
 title = "He said/She said: a tale of two Messiahs"

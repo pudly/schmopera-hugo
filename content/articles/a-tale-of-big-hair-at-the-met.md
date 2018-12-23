@@ -1,10 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Op-ed"
 date = "2015-01-26T16:19:00-05:00"
 lastmod = "2015-04-04T21:00:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428195546072/Met.jpg.jpg"
 publishDate = "2015-01-26T16:19:00-05:00"
+related_articles = ["articles/bocelli-grande-could-be-an-opera-duo-except-theyre-really-really-not.md","articles/grease-live-a-rant.md","articles/what-oscarssowhite-can-learn-from-opera.md","articles/teddy-roosevelt-the-chicago-cubs-operas-by-women-at-the-met.md"]
 short_description = "Who else saw that piece on Jezebel by Collier Meyerson, about her trip to the Metropolitan Opera? It&#039;s not really an article about opera or the Met, but I&#039;m inclined to weigh in on it on behalf of opera-goers, because this story edges towards the elitism amongst opera fans."
 slug = "a-tale-of-big-hair-at-the-met"
 title = "A Tale of Big Hair at the Met"

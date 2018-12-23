@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Humour"
-companies = ["Canadian Opera Company"]
 date = "2014-08-27T15:33:00-04:00"
 lastmod = "2017-05-28T11:20:00-04:00"
-people = ["Cameron McPhail"]
 preamble = "We always love it when a supporting character in an opera steals the show. It's a tip-of-the-hat to the writing of the character, and to the singer/actor pulling it off. Sometimes these characters even stick with me longer than the leads; it's fun to imagine what happens to them after the main action has finished. Do the Five Jews all go and move into an apartment together, bickering charmingly like the Golden Girls? Does Cherubino stay with Rosina and play the good dad, or does he skip town to satisfy his still-ravenous sexual appetite, Don-Juan-style? Was Leporello gay, after all? Let's imagine a few potential operatic spin-offs, shall we?"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495984780603/2017-05-28---Theatre.jpg.jpg"
 publishDate = "2014-08-27T15:33:00-04:00"
+related_articles = ["articles/opera-culprits-the-villain-who-thinks-hes-doing-good.md","articles/4-opera-scenes-that-should-have-happened.md","articles/5-books-that-should-be-operas.md","articles/hello-papagena.md","articles/lost-history-operas-most-famous-premieres.md","articles/3-tv-opera-references-with-great-meaning-maybe.md","articles/the-opera-olympics-its-time.md","articles/lohengrin-redux-an-opera-fanfic-contest.md","articles/diegetic-music-in-opera-3-ways-to-use-it.md","articles/why-opera-fans-love-to-namedrop.md","articles/ron-howard-to-direct-new-pavarotti-documentary.md","articles/5-classical-voice-podcasts-to-try.md"]
+related_companies = ["scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/cameron-mcphail.md"]
 short_description = "I always love it when a supporting character in an opera steals the show. It&#039;s a tip-of-the-hat to the writing of the character, and to the singer/actor pulling it off. Sometimes these characters even stick with me longer than the leads; I imagine what happens to them after the main action has finished. "
 slug = "opera-spin-off"
 title = "After the opera: spin-offs we&#039;d go see"

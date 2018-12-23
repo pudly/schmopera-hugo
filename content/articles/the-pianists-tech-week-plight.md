@@ -1,10 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Op-ed"
 date = "2014-06-15T10:24:00-06:00"
 lastmod = "2016-07-06T21:54:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467863632215/2016-07-07---Pit.jpg.jpg"
 publishDate = "2014-06-15T10:24:00-06:00"
+related_articles = ["articles/how-to-play-for-singers.md","articles/star-repetiteur-there-is-such-a-thing.md","articles/potential-orchestra-mutiny-and-conductor-envy.md","articles/how-its-made-stage-combat.md","articles/tips-for-pianists-how-to-tremolo-like-a-pro.md","articles/new-opera-repetiteur.md"]
 short_description = "I&#039;m working on an opera right now, and this week, we go into tech week. It&#039;s a week where the role of the pianist becomes humbling. The tech rehearsals are so not about the music."
 slug = "the-pianists-tech-week-plight"
 title = "The pianist&#039;s tech week plight"

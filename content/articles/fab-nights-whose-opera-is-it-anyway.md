@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Loose TEA Music Theatre"]
 date = "2017-07-29T20:54:00-04:00"
 lastmod = "2017-07-30T11:38:00-04:00"
-people = ["Adanya Dunn","Gillian Grossman","Rachel Krehm","Jonathan MacArthur","Alaina Viau"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501378029671/2017-07-27---Opera-Improv.jpg.jpg"
 publishDate = "2017-07-30T11:30:00-04:00"
+related_articles = ["articles/4-traits-of-a-great-cadenza.md","articles/encore.md","articles/sunday-funday-a-dontmissit-operatic-doubleheader.md"]
+related_companies = ["scene/companies/loose-tea-music-theatre.md"]
+related_people = ["scene/people/adanya-dunn.md","scene/people/gillian-grossman.md","scene/people/rachel-krehm.md","scene/people/jonathan-macarthur.md","scene/people/alaina-viau.md"]
 short_description = "The players onstage, who in fact make up &quot;Canada&#039;s only Opera Improv group&quot; had fun and poked fun. They conjured up cringe-worthy audition situations, laid out solid impressions of well-known opera bosses, and basically roasted every stereotype of &quot;Canadian contemporary opera&quot;. By design, what happened onstage was not only relevant to the audience, but hopelessly intertwined."
 slug = "fab-nights-whose-opera-is-it-anyway"
 title = "Fab nights: Whose Opera is it Anyway?"

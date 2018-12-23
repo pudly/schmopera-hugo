@@ -1,12 +1,13 @@
 +++
-author = "John Beckett"
+author = ["authors/john-beckett.md"]
 categories = "Review"
 date = "2017-05-02T13:04:00-04:00"
 lastmod = "2017-05-03T09:44:00-04:00"
-people = ["Lawrence Zazzo"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493744994232/2017-05-02---Lawrence-Zazzo---Justin-Hyer.jpg.jpg"
 primary_image_credit = "Photo: Justin Hyer."
 publishDate = "2017-05-03T09:44:00-04:00"
+related_articles = ["articles/fierce-recitals-karita-mattila-at-wigmore-hall.md","articles/polish-composers-take-the-stage-at-wigmore-hall.md"]
+related_people = ["scene/people/lawrence-zazzo.md"]
 short_description = "We are constantly looking for more representation of women composers, which is why we were so upset to see Zazzo mocking Strozzi&#039;s music and Strozzi herself. Seated behind a music stand, he made faces that we took to be &quot;imitating a woman,&quot; like an exaggerated oil painting of a &quot;feminine&quot; gesture or sigh. We were happier when his face was buried in the stand."
 slug = "in-review-lawrence-zazzo-at-wigmore-hall"
 title = "In review: Lawrence Zazzo at Wigmore Hall"

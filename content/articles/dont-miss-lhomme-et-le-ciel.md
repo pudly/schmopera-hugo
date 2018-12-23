@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["FAWN Chamber Creative","Indie Opera T.O."]
 date = "2015-11-17T18:00:00-05:00"
 lastmod = "2015-11-18T21:10:00-05:00"
-people = ["Adam Scime","Alexander Dobson","Adanya Dunn","Larissa Koniuk","Amanda Smith"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447821336062/2015-11-18---FAWN-Square.jpg.jpg"
 publishDate = "2015-11-18T08:59:00-05:00"
+related_articles = ["articles/in-review-fawn-operas-lhomme-et-le-ciel.md"]
+related_companies = ["scene/companies/fawn-chamber-creative.md","scene/companies/indie-opera-to.md"]
+related_people = ["scene/people/adam-scime.md","scene/people/alexander-dobson.md","scene/people/adanya-dunn.md","scene/people/larissa-koniuk.md","scene/people/amanda-smith.md"]
 short_description = "Next month, Canadian composer Adam Scime will see the world premiere of his chamber opera, l&#039;homme et le ciel. Amanda Smith, artistic director of FAWN Chamber Creative directs this co-presentation with FAWN and The Music Gallery. Scime&#039;s atmospheric story of &quot;inescapable visions&quot; and &quot;sexual impulses&quot; is scored for chamber ensemble, electronics, and three voices; the libretto by Ian Koiter is adapted from The Shepherd of Hermas, a 2nd-century Christian literary work."
 slug = "dont-miss-lhomme-et-le-ciel"
 title = "Don&#039;t miss: l&#039;homme et le ciel"

@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2015-04-10T22:35:00-04:00"
 lastmod = "2015-04-10T22:35:00-04:00"
@@ -7,6 +7,7 @@ preamble = "<p>\n\t<em>American-Finnish conductor </em><a href=\"http://www.erik
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428719599313/StarTrekConcert.jpg.jpg"
 primary_image_credit = "Star Trek (2009) with Live Orchestra, Royal Albert Hall, London."
 publishDate = "2015-03-13T10:35:00-04:00"
+related_articles = ["articles/bocelli-grande-could-be-an-opera-duo-except-theyre-really-really-not.md","articles/so-about-that-stephen-hawkings-opera.md","articles/thank-you-for-the-music.md","articles/dont-miss-enchanting-china.md","articles/theres-a-new-klingon-opera-in-the-works.md","articles/opera-meets-cult-film-hercules-vs-vampires.md","articles/the-medium-opera-as-film-noir.md"]
 short_description = "American-Finnish conductor Erik Ochsner has built himself a pretty cool career. On March 21st, he&#039;ll head to the Sony Centre for the Performing Arts, for a viewing of Star Trek (2009) with the Kitchener-Waterloo Symphony playing the soundtrack, live, by Michael Giacchino. Ochsner is no stranger to combining popular culture with live music, having conducted concerts featuring music from Lord of the Rings: Fellowship of the Ring, and Disney&#039;s Pixar films. I was eager to ask him about the significance of combining cultural elements of today with the symphonic orchestra of past centuries. "
 slug = "erik-ochsner-on-conducting-star-trek-goose-bumps-and-tears-are-not-optional"
 title = "Erik Ochsner on conducting Star Trek: &quot;goose bumps and tears are NOT optional!&quot;"

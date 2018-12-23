@@ -1,13 +1,14 @@
 +++
-author = "Michael Pecak"
+author = ["authors/michael-pecak.md"]
 categories = "Review"
-companies = ["Lyric Opera of Chicago"]
 date = "2018-02-21T12:05:00-05:00"
 lastmod = "2018-03-04T16:44:00-05:00"
-people = ["Joshua Hopkins","Ana Maria Martinez"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519232008267/sq---Joshua-Hopkins_Marianne-Crebassa_Ana-Mari%CC%81a-Marti%CC%81nez_Andrew-Stenson_COSI-FAN-TUTTE_37A6827_c.Cory-Weaver.jpg.jpg"
 primary_image_credit = "Joshua Hopkins, Marianne Crebassa, Ana María Martínez, and Andrew Stenson in Così fan tutte, Lyric Opera of Chicago, 2018. Photo: Cory Weaver."
 publishDate = "2018-02-21T12:05:00-05:00"
+related_articles = ["articles/cosi-fan-tutte-misogynist-unreasonable.md","articles/stay-warm-with-opera-mariposas-tropical-cos-fan-tutte.md"]
+related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
+related_people = ["scene/people/joshua-hopkins.md","scene/people/ana-maria-martinez.md"]
 short_description = "The overt chauvinism and cynicism of this plot aside, what isn&#039;t made clear — and what inevitably proves difficult for any production of this opera — is what happens at the end once the wager is divulged and all has been revealed to the sisters. Do the original pairs simply reunite despite all that transpired?"
 slug = "chauvinism-cynicism-great-singing-cos-fan-tutte"
 title = "Chauvinism, cynicism, &amp; great singing: Così fan tutte"

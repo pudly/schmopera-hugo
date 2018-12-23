@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Opera Atelier"]
 date = "2014-10-25T12:37:00-04:00"
 lastmod = "2015-04-14T10:15:00-04:00"
-people = ["Wallis Giunta","Mireille Lebel","Meghan Lindsay","Mireille Asselin"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429020602976/AlcinaHeader.png"
 primary_image_credit = "Photo by Bruce Zinger"
 publishDate = "2014-10-25T12:37:00-04:00"
+related_articles = ["articles/in-review-opera-ateliers-armide.md","articles/talking-with-singers-meghan-lindsay.md","articles/boys-who-are-girls-who-love-girls-that-are-boys-or-handels-alcina.md","articles/all-about-the-tafelmusik-baroque-summer-institute.md","articles/american-baroque-opera-cos-first-staged-opera-a-winner-in-alcina.md","articles/a-daring-desirous-doublebill-at-opera-atelier.md"]
+related_companies = ["scene/companies/opera-atelier.md"]
+related_people = ["scene/people/wallis-giunta.md","scene/people/mireille-lebel.md","scene/people/meghan-lindsay.md","scene/people/mireille-asselin.md"]
 short_description = "Greg and I headed to the Elgin Theatre to see opening night of Opera Atelier&#039;s Alcina, and we teamed up on another joint review. Bonus: Greg can speak intelligently about Atelier Ballet, something I won&#039;t pretend to know well."
 slug = "he-saidshe-said-alcina-at-opera-atelier"
 title = "He Said/She Said: Alcina at Opera Atelier"

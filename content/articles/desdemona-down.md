@@ -1,11 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Op-ed"
-companies = ["Opera Australia"]
 date = "2014-06-23T11:30:00-04:00"
 lastmod = "2015-04-23T15:42:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429818074870/Tamar2.jpg.jpg"
 publishDate = "2014-06-23T11:30:00-04:00"
+related_articles = ["articles/may-she-never-work-again.md"]
+related_companies = ["scene/companies/opera-australia.md"]
 short_description = "After an impressive media tempest, soprano Tamar Iveri will not be appearing as Desdemona in Opera Australia&#039;s upcoming production of Otello. OA made the decision to replace Tamar after the singer&#039;s homophobic remarks were made public. "
 slug = "desdemona-down"
 title = "Desdemona Down"

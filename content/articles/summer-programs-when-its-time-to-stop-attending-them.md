@@ -1,11 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["COSI: Centre for Opera Studies in Italy"]
 date = "2017-02-02T13:21:00+00:00"
 lastmod = "2017-02-27T13:15:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486046330440/2017-02-02---No-Summer.jpg.jpg"
 publishDate = "2017-02-27T12:59:00+00:00"
+related_companies = ["scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
 short_description = "Pay-to-sing programs like the Centre for Opera Studies in Italy (COSI) have a lot to offer, and there are certainly less wise ways to spend hard-earned cash. But how does a young singer know when attending these kinds of summer programs starts to do them professional harm?"
 slug = "summer-programs-when-its-time-to-stop-attending-them"
 title = "Summer programs, &amp; when it&#039;s time to stop attending them"

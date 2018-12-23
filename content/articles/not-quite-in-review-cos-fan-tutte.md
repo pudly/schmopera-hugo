@@ -1,13 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Canadian Opera Company Ensemble Studio","Canadian Opera Company"]
 date = "2014-02-08T17:51:00-05:00"
 lastmod = "2015-04-28T20:57:00-04:00"
-people = ["Claire de Sévigné","Andrew Haji","Cameron McPhail","Owen McCausland","Clarence Frazer","Aviva Fortunata","Charlotte Burrage"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430268913966/1597401_1457594464456483_1727775219_o.jpg.jpg"
 primary_image_credit = "Photo by Michael Cooper."
 publishDate = "2014-02-08T17:51:00-05:00"
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/scene/claire-de-sevigne.md","scene/people/andrew-haji.md","scene/people/cameron-mcphail.md","scene/people/owen-mccausland.md","scene/people/clarence-frazer.md","scene/people/aviva-fortunata.md","scene/people/charlotte-burrage.md"]
 short_description = "Last night, I watched with a perma-grin as my friends and colleagues in the Canadian Opera Company Ensemble Studio had their performance of Così fan tutte at the Four Seasons Centre. I was fortunate to have worked with some of the cast in the early stages of learning their roles, and it was an amazing experience to hear the final product."
 slug = "not-quite-in-review-cos-fan-tutte"
 title = "Not quite in review: Così fan tutte"

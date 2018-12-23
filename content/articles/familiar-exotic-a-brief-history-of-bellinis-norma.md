@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Op-ed"
-companies = ["Royal Opera House","Canadian Opera Company","Lyric Opera of Chicago"]
 date = "2016-08-23T18:22:00+01:00"
 lastmod = "2016-08-25T14:55:00+01:00"
-people = ["Sondra Radvanovsky","Isabel Leonard","Russell Thomas","Sonya Yoncheva","Sonia Ganassi","Elizabeth DeShong"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472061851056/2016-08-25---Norma.jpg.jpg"
 primary_image_credit = "Photo: Deborah's Perspective on Flickr."
 publishDate = "2016-08-25T14:49:00+01:00"
+related_articles = ["articles/cosi-fan-tutte-misogynist-unreasonable.md","articles/why-we-all-love-florence-foster-jenkins.md"]
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/canadian-opera-company.md","scene/companies/lyric-opera-of-chicago.md"]
+related_people = ["scene/people/sondra-radvanovsky.md","scene/people/isabel-leonard.md","scene/people/russell-thomas.md","scene/people/sonya-yoncheva.md","scene/people/sonia-ganassi.md","scene/people/elizabeth-deshong.md"]
 short_description = "For British audiences, the Druids were a healthy dose of exoticism; still, the connection to the ancient societies of their own land likely held some form of national and cultural pride. Perhaps it was just enough mystery to pique interest in Norma, and just enough familiarity to easily identify with the values and decisions of the characters."
 slug = "familiar-exotic-a-brief-history-of-bellinis-norma"
 title = "Familiar &amp; exotic: a brief history of Bellini&#039;s Norma"

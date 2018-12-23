@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Op-ed"
 date = "2016-01-31T21:08:00-05:00"
 lastmod = "2016-02-01T10:36:00-05:00"
@@ -7,6 +7,7 @@ preamble = "Note: we've received some comments from readers who insist that *Gre
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454336002952/2016-02-01---Grease.jpg.jpg"
 primary_image_credit = "There they are, the happy couple."
 publishDate = "2016-02-01T09:00:00-05:00"
+related_articles = ["articles/bocelli-grande-could-be-an-opera-duo-except-theyre-really-really-not.md","articles/elitism-irony-and-the-phantom-of-the-opera.md","articles/a-tale-of-big-hair-at-the-met.md","articles/christina-aguileras-move-into-pedagogy.md"]
 short_description = "We&#039;ve been talking a lot lately about opera on the big screen; how stage acting looks weird on camera, and how the acoustic experience from a film or TV broadcast is basically non-existent when compared to actual live opera. My own little nit-picks aside, I&#039;ll grant one big thing to opera made for broadcast: it&#039;s actually live."
 slug = "grease-live-a-rant"
 title = "Grease Live: a rant"

@@ -1,10 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "How-to"
 date = "2017-10-29T21:56:00-04:00"
 lastmod = "2017-10-30T12:00:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509327496024/2017-10-29---Colours.jpg.jpg"
 publishDate = "2017-10-29T22:07:00-04:00"
+related_articles = ["articles/undergrad-degrees-why-youll-use-that-theory-class-after-all.md","articles/4-tips-for-when-there-are-too-many-notes.md","articles/4-ways-to-give-notes-still-be-liked.md","articles/chiaroscuro-classics-the-marriage-of-figaro.md"]
 short_description = "So. Back to the key of your aria. Basically, in the Baroque and Classical eras, the out-of-tuneness of various keys became associated with different affects. The theory was that a listener could be swayed to feel differently when they heard music played in G major versus in B-flat major, or in d minor versus f minor."
 slug = "nerding-out-why-you-should-definitely-care-what-key-your-aria-is-in"
 title = "Nerding out: why you should definitely care what key your aria is in"

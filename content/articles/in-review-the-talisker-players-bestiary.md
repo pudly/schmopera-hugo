@@ -1,11 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Talisker Players"]
 date = "2014-03-20T10:53:00-04:00"
 lastmod = "2015-04-24T10:02:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429884135635/Trinity.jpg.jpg"
 publishDate = "2014-03-20T10:53:00-04:00"
+related_articles = ["articles/he-saidshe-said-talisker-players-with-carla-huhtanen-andrea-ludwig.md","articles/in-review-the-talisker-players-spirit-dreaming.md"]
+related_companies = ["scene/companies/talisker-players.md"]
 short_description = "I went to a concert on Tuesday night, one of the Talisker Players&#039; main concert series at Trinity St. Paul&#039;s United Church. I&#039;d never been to see the Talisker Players, but I was lured both by singers Norine Burgess and Geoffrey Sirett, and by the evening&#039;s title: Creature to Creature."
 slug = "in-review-the-talisker-players-bestiary"
 title = "In review: The Talisker Players&#039; Bestiary"

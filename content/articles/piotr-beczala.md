@@ -1,13 +1,14 @@
 +++
-author = "Michael Pecak"
+author = ["authors/michael-pecak.md"]
 categories = "Interview"
-companies = ["Lyric Opera of Chicago"]
 date = "2018-02-28T20:42:00-05:00"
 lastmod = "2018-02-28T22:13:00-05:00"
-people = ["Piotr Beczała"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519870447037/sq---piotrbecza%2Be%CC%81aflubackerhighlights005.jpg.jpg"
 primary_image_credit = "Piotr Beczała and Martin Katz in recital, Lyric Opera of Chicago, 2018. Photo: Kyle Flubacker."
 publishDate = "2018-02-28T20:55:00-05:00"
+related_articles = ["articles/searching-for-superlatives-locs-suberb-rigoletto.md","articles/a-dreamy-indulgence-the-pearl-fishers-in-chicago.md","articles/fleming-enchants-luscious-morsels-of-postopera-career.md"]
+related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
+related_people = ["scene/people/scene/piotr-beczala.md"]
 short_description = "&quot;I am pleased to say that, in my experience, audiences outside Poland respond to Polish music with great satisfaction and enthusiasm. I appeared one-and-a-half months ago in Zürich with this same program and the great majority of the audience seemed smitten with the Polish portion of the program.&quot;"
 slug = "piotr-beczala"
 title = "A &quot;rare event&quot; at Chicago Lyric: Piotr Beczała in recital"

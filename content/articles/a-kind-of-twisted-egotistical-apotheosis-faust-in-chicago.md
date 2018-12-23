@@ -1,13 +1,14 @@
 +++
-author = "Hannah De Priest"
+author = ["authors/hannah-de-priest.md"]
 categories = "Review"
-companies = ["Lyric Opera of Chicago"]
 date = "2018-03-06T08:24:00-05:00"
 lastmod = "2018-03-06T12:07:00-05:00"
-people = ["Ailyn Pérez","Christian van Horn","Edward Parks","Benjamin Bernheim"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520341726463/sq---Christian-Van-Horn_FAUST_T8A1706_c.Cory-Weaver.jpg.jpg"
 primary_image_credit = "Christian van Horn (Méphistophélès) in Faust, Lyric Opera of Chicago, 2018. Photo: Cory Weaver."
 publishDate = "2018-03-06T08:24:00-05:00"
+related_articles = ["articles/talking-with-singers-christian-van-horn.md","articles/talking-with-singers-ailyn-perez.md","articles/fellow-travelers-is-luminous-in-chicago.md"]
+related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
+related_people = ["scene/people/ailyn-prez.md","scene/people/christian-van-horn.md","scene/people/edward-parks.md","scene/people/benjamin-bernheim.md"]
 short_description = "Dressed as a fantastical dandy in a violent orange suit, van Horn&#039;s Mephisto was cool. And it&#039;s not just his good looks—which not even a black-and-white pompadour could disguise—it&#039;s also his booming but seductive-sweet voice."
 slug = "a-kind-of-twisted-egotistical-apotheosis-faust-in-chicago"
 title = "A kind of twisted, egotistical apotheosis: Faust in Chicago"

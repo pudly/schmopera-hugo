@@ -1,10 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2017-08-05T20:26:00-04:00"
 lastmod = "2017-11-28T19:06:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511914004894/2017-11-28---Dating.jpg.jpg"
 publishDate = "2017-08-07T20:23:00-04:00"
+related_articles = ["articles/how-lucky-are-we-the-children-of-opera.md","articles/the-heart-and-the-art.md","articles/opera-other-trysts-a-love-story.md","articles/voice-type-social-life.md"]
 short_description = "Having a partner who isn&#039;t a musician will also be a great way of making sure you don&#039;t lose your friends in the process of gaining a romantic relationship; you&#039;ll always need to have those cathartic, industry-specific conversations with people who get your shorthand, and it&#039;s a beautiful thing to have a few things that remain specially reserved for you and your singer friends."
 slug = "singers-its-time-to-expand-your-dating-pool"
 title = "Singers: it&#039;s time to expand your dating pool"

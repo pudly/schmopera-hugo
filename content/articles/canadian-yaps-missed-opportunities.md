@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Canadian Opera Company Ensemble Studio","l'Atelier lyrique de l'Opéra de Montréal","l'Opéra de Montréal","Canadian Opera Company"]
 date = "2017-04-28T15:46:00-04:00"
 lastmod = "2017-04-29T10:42:00-04:00"
-people = ["Geoffroy Salvas","Caroline Gélinas","Danika Lorèn","Kevin Geddes","Emily D'Angelo","Stéphane Mayer","Carol-Anne Fraser"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493476461488/2017-04-29---RBA.jpg.jpg"
 publishDate = "2017-04-29T09:48:00-04:00"
+related_articles = ["articles/in-review-opra-de-montrals-atelier-lyrique-joins-the-coc-ensemble-studio.md","articles/canadian-singers-their-great-reputations.md","articles/the-opera-party-monologue.md","articles/a-week-in-the-amphitheatre.md"]
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/latelier-lyrique-de-lopra-de-montral.md","scene/companies/lopra-de-montral.md","scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/geoffroy-salvas.md","scene/people/scene/caroline-gelinas.md","scene/people/danika-lorn.md","scene/people/kevin-geddes.md","scene/people/emily-dangelo.md","scene/people/scene/stephane-mayer.md","scene/people/carolanne-fraser.md"]
 short_description = "hat seemed like the true oversight, at least for this recital of Canadian young artists, is that no young, Canadian music made it onto the programme. These annual collaborations between two of Canada&#039;s biggest opera houses seem like a perfect opportunity to explore the huge library of 20th- and 21st-century opera, much of which comes in the form of short, self-contained scenes that are perfect for a showcase concert."
 slug = "canadian-yaps-missed-opportunities"
 title = "Canadian YAPs &amp; missed opportunities"

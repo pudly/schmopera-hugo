@@ -1,14 +1,15 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Tafelmusik Baroque Orchestra & Chamber Choir"]
 date = "2014-12-22T09:16:00-05:00"
 lastmod = "2015-04-12T18:24:00-04:00"
-people = ["Brett Polegato","Lydia Teuscher"]
 preamble = "Ivars Taurins in character as George Friedrich Handel at Tafelmusik's 28th annual Sing-Along Messiah."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428876123686/Ivars_Taurins_Handel1.jpg.jpg"
 primary_image_credit = "Photo: Gary Beechey."
 publishDate = "2014-12-22T09:16:00-05:00"
+related_articles = ["articles/all-about-the-tafelmusik-baroque-summer-institute.md","articles/thank-you-for-the-music.md","articles/he-saidshe-said-a-tale-of-two-messiahs.md","articles/dont-miss-haus-musik.md","articles/dont-miss-the-drama-devotion-of-agostino-steffani.md"]
+related_companies = ["scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md"]
+related_people = ["scene/people/brett-polegato.md","scene/people/lydia-teuscher.md"]
 short_description = "Sunday, December 21st was 2014’s Winter Soltice, and it was an apt day to head over to Massey Hall and hear Tafelmusik’s 28th annual Sing-Along Messiah. I had actually never been to a Sing-Along Messiah, save for the obligatory singing-along of the Hallelujah Chorus at all the other Messiahs I’ve seen. "
 slug = "i-sang-along-at-tafelmusiks-messiah"
 title = "I sang along at Tafelmusik&#039;s Messiah"

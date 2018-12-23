@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Glyndebourne"]
 date = "2016-08-19T09:45:00+01:00"
 lastmod = "2016-08-19T10:58:00+01:00"
-people = ["Kate Royal","Kathleen Kim","Benjamin Hulett","Duncan Rock"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471596933823/2016-08-19---Dream-Square.jpg.jpg"
 primary_image_credit = "A Midsummer Night’s Dream, Glyndebourne Festival 2016. Puck (David Evans). Photo by Robert Workman."
 publishDate = "2016-08-19T10:52:00+01:00"
+related_articles = ["articles/in-review-beatrice-et-benedict-at-glyndebourne.md","articles/in-review-hipermestra-at-glyndebourne.md","articles/too-much-magic-a-midsummer-nights-dream-at-eno.md"]
+related_companies = ["scene/companies/glyndebourne.md"]
+related_people = ["scene/people/kate-royal.md","scene/people/kathleen-kim.md","scene/people/benjamin-hulett.md","scene/people/duncan-rock.md"]
 short_description = "The royal fairy pair were delightfully complemented by David Evans as Puck, who was one part eerie, and one part utterly charming. He brought the audience to roaring applause at the finale, after an evening of chuckles and smitten murmuring from the crowd."
 slug = "in-review-a-midsummer-nights-dream-at-glyndebourne"
 title = "In review: A Midsummer Night&#039;s Dream at Glyndebourne"

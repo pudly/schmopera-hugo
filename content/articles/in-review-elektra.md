@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["l'Opéra de Montréal"]
 date = "2015-11-25T10:43:00-05:00"
 lastmod = "2015-11-25T11:47:00-05:00"
-people = ["Yannick Nézet-Séguin","Lise Lindstrom","John MacMaster","Alan Held","Nicola Beller Carbone","Aidan Ferguson"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448466345412/2015-11-25---Agnes-Zwierko-%26-Lise-Lindstrom-Yves-Renaud.jpg.jpg"
 primary_image_credit = "Agnes Zwierko as Klytemnästra and Lise Lindstrom as Elektra. Photo: Yves Renaud."
 publishDate = "2015-11-25T11:47:00-05:00"
+related_articles = ["articles/strange-sensual-energy-salome-at-roh.md","articles/on-a-mental-precipice-hgos-elektra.md"]
+related_companies = ["scene/companies/lopra-de-montral.md"]
+related_people = ["scene/people/scene/yannick-nezet-seguin.md","scene/people/lise-lindstrom.md","scene/people/john-macmaster.md","scene/people/alan-held.md","scene/people/nicola-beller-carbone.md","scene/people/aidan-ferguson.md"]
 short_description = "L&#039;Opéra de Montréal is in the middle of a four-show run of Strauss&#039; Elektra, the opera that I&#039;m still waiting to see as a double bill on steroids with Salome, for a full night entitled, Women Who Behave Horrendously. It was a thrill to watch Yannick Nézet-Séguin conduct Strauss&#039; delicious score with the huge amounts of energy he brings. He became somewhat of a meta-principal character in the show; it seems appriopriate, since the music speaks so much detail in this story of revenge."
 slug = "in-review-elektra"
 title = "In review: Elektra"

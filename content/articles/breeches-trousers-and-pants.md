@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Lyric Opera of Chicago"]
 date = "2015-06-02T16:31:00-04:00"
 lastmod = "2015-06-03T19:32:00-04:00"
-people = ["Alice Coote","Elizabeth DeShong","Danielle de Niese"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433362311696/03.-Elizabeth-DeShong-Maria-Kanyova-HANSEL-GRETEL-DR2_0100-c.-Dan-Rest.jpg.jpg"
 primary_image_credit = "Elizabeth DeShong (Hänsel) and Maria Kanyova (Gretel) in Lyric Opera of Chicago's Hänsel and Gretel. Photo by Dan Rest."
 publishDate = "2015-06-03T16:37:00-04:00"
+related_articles = ["articles/a-truly-otherworldly-space-heartbeat-operas-drag-extravaganza.md"]
+related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
+related_people = ["scene/people/alice-coote.md","scene/people/elizabeth-deshong.md","scene/people/danielle-de-niese.md"]
 short_description = "The value of the male soprano voice comes from an aesthetic of another time. It&#039;s a curiously stubborn aesthetic, too. There was obvious value placed on a high voice with agility and expression, and yet turning to women to provide that kind of sound was bluntly off the table. The castration of promising young singers was, according to history, a better option than training women and letting them perform."
 slug = "breeches-trousers-and-pants"
 title = "Breeches, trousers, and pants"

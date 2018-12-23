@@ -1,11 +1,12 @@
 +++
-author = "Tracy Monaghan"
+author = ["authors/tracy-monaghan.md"]
 categories = "Review"
-companies = ["Nashville Opera"]
 date = "2016-10-10T09:18:00+01:00"
 lastmod = "2016-10-11T14:09:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476087676278/2016-10-10---Giovanni-Art.jpg.jpg"
 publishDate = "2016-10-11T14:02:00+01:00"
+related_articles = ["articles/in-review-don-giovanni-at-eno.md","articles/in-review-tcherniakovs-don-giovanni.md"]
+related_companies = ["scene/companies/nashville-opera.md"]
 short_description = "Commendations go to stage director John Hoomes. We were promised a &quot;visually striking&quot; production, and that promise was fulfilled. Mr. Hoomes, whose choice to juxtapose the classic opera with modern, minimalist (yet effective) set design, action that ebbed and flowed between pleasing camp and very human, and innovative color schemes, used exciting visual symbolism to highlight the thematic duality of the story."
 slug = "in-review-don-giovanni-at-nashville-opera"
 title = "In review: Don Giovanni at Nashville Opera"

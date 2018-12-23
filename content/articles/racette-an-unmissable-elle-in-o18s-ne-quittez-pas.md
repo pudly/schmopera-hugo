@@ -1,12 +1,13 @@
 +++
-author = "Erik Flaten"
+author = ["authors/erik-flaten.md"]
 categories = "Review"
-companies = ["Opera Philadelphia"]
 date = "2018-09-23T20:33:00-04:00"
 lastmod = "2018-09-23T20:33:00-04:00"
-people = ["Patricia Racette","Christopher Allen"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537749149309/sqNQP15DM.jpg.jpg"
 publishDate = "2018-09-23T20:33:00-04:00"
+related_articles = ["articles/sky-on-swings-a-mustsee-of-o18.md","articles/brenda-rae-earns-her-ovation-in-o18-lucia.md","articles/the-astonishing-product-glass-handel-at-o18.md"]
+related_companies = ["scene/companies/opera-philadelphia.md"]
+related_people = ["scene/people/patricia-racette.md","scene/people/christopher-allen.md"]
 short_description = "Delivering a one-person show is an arduous creative task to accomplish, and Racette does it with astonishing success. When the monodrama is finally over, it takes a moment to return to reality, as Racette has completely transported her audience to Poulenc and Cocteau&#039;s world."
 slug = "racette-an-unmissable-elle-in-o18s-ne-quittez-pas"
 title = "Racette an unmissable Elle in O18&#039;s Ne Quittez Pas"

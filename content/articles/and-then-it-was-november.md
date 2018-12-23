@@ -1,5 +1,5 @@
 +++
-author = "Greg Finney"
+author = ["authors/greg.md"]
 categories = "Op-ed"
 date = "2016-10-31T20:04:00+00:00"
 lastmod = "2016-11-01T09:24:00+00:00"

@@ -1,13 +1,14 @@
 +++
-author = "Carly Gordon"
+author = ["authors/carly-gordon.md"]
 categories = "Review"
-companies = ["Palm Beach Opera"]
 date = "2018-02-25T18:51:00-05:00"
 lastmod = "2018-02-25T19:19:00-05:00"
-people = ["Tobias Greenhalgh","Kasia Borowiec","Miles Mykkanen","Alisa Jordheim"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519602620388/Miles-%26-Alissa.jpg.jpg"
 primary_image_credit = "Miles Mykkanen and Alisa Jordheim in Candide, Palm Beach Opera, 2018. Photo: Bruce Bennett."
 publishDate = "2018-02-25T19:19:00-05:00"
+related_articles = ["articles/candide-the-best-of-all-possible-productions.md","articles/just-plain-great-pbos-le-nozze-di-figaro.md","articles/grappling-with-daily-life-wnos-candide.md"]
+related_companies = ["scene/companies/palm-beach-opera.md"]
+related_people = ["scene/people/tobias-greenhalgh.md","scene/people/kasia-borowiec.md","scene/people/miles-mykkanen.md","scene/people/alisa-jordheim.md"]
 short_description = "&quot;How can such ghastly horrors befall a world where all is for the best?&quot; Candide asks. We may not live in the best of all possible worlds, but when the music fades and the curtain falls, it&#039;s our job to try and make the world a little better."
 slug = "too-many-jewels-the-search-for-meaning-pbos-candide"
 title = "Too many jewels &amp; the search for meaning: PBO&#039;s Candide"

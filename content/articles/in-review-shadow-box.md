@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["The Bicycle Opera Project","Indie Opera T.O."]
 date = "2015-09-05T11:08:00-04:00"
 lastmod = "2015-09-05T12:23:00-04:00"
-people = ["Larissa Koniuk","Geoffrey Sirett","Christopher Enns","Stephanie Tritchew","Liza Balkan"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441465893647/7.-shadow-box-imageSquare.jpg.jpg"
 publishDate = "2015-09-05T11:26:00-04:00"
+related_articles = ["articles/on-the-road-the-bicycle-opera-project.md","articles/the-bicycle-opera-project-at-21c.md"]
+related_companies = ["scene/companies/the-bicycle-opera-project.md","scene/companies/indie-opera-to.md"]
+related_people = ["scene/people/larissa-koniuk.md","scene/people/geoffrey-sirett.md","scene/people/christopher-enns.md","scene/people/stephanie-tritchew.md","scene/people/liza-balkan.md"]
 short_description = "Last night I went with conductor, pianist, and man of Against the Grain Theatre Topher Mokrzewski to hear The Bicycle Opera Project, at, well, a bike shop. Curbside Cycle on Bloor West was the first Toronto stop along Bike Opera&#039;s tour of Nova Scotia and Ontario."
 slug = "in-review-shadow-box"
 title = "In review: shadow box"

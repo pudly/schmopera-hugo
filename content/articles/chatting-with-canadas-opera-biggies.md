@@ -1,13 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Canadian Opera Company","Tapestry Opera","Against the Grain Theatre","Krisztina Szabo"]
 date = "2015-04-10T21:24:00-04:00"
 lastmod = "2015-04-10T21:24:00-04:00"
-people = ["Alexander Neef","Wayne Gooding","Michael Mori"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428715450231/VegasRigoletto.jpg.jpg"
 primary_image_credit = "A scene from the Metropolitan Opera's production of Rigoletto, directed by Michael Mayer."
 publishDate = "2015-03-24T13:24:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/tapestry-opera.md","scene/companies/against-the-grain-theatre.md","scene/companies/krisztina-szabo.md"]
+related_people = ["scene/people/alexander-neef.md","scene/people/wayne-gooding.md","scene/people/michael-mori.md"]
 short_description = "Exciting news, everyone! Late next week, I&#039;ll be sitting down to chat with a panel of folks who certainly know their opera.\n\nThe topic? Regietheater productions, the role of the opera director, and how their innovative (and often wacky) ideas can propel opera forward."
 slug = "chatting-with-canadas-opera-biggies"
 title = "Chatting with Canada&#039;s Opera Biggies"

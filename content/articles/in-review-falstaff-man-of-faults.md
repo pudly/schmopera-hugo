@@ -1,13 +1,14 @@
 +++
-author = "Mary Beth Brooks"
+author = ["authors/mary-beth-brooks.md"]
 categories = "Review"
-companies = ["Vlaamse Opera"]
 date = "2017-12-19T18:12:00-05:00"
 lastmod = "2017-12-19T21:11:00-05:00"
-people = ["Craig Colclough","Julien Behr","Denzil Delaere","Markus Suihkonen","Anat Edri"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513725563139/sq-2---FALSTAFF_22_productiebeelden_pers_34A6571_AnnemieAugustijns.jpg.jpg"
 primary_image_credit = "Falstaff, Opera Vlaanderen, 2017. Photo by Annemie Augustijns."
 publishDate = "2017-12-19T19:09:00-05:00"
+related_articles = ["articles/falstaff-he-saidshe-said.md","articles/talking-with-singers-craig-colclough.md"]
+related_companies = ["scene/companies/vlaamse-opera.md"]
+related_people = ["scene/people/craig-colclough.md","scene/people/julien-behr.md","scene/people/denzil-delaere.md","scene/people/markus-suihkonen.md","scene/people/anat-edri.md"]
 short_description = "Despite the sombre mis-en-scene for a comedy, the characters pull the production together with finesse and theatrical flair. The artistic decision to put the intermission in the middle of Act III makes for a long first half – and the energy in the room seemed to dwindle before they called the curtain for a much needed breather. This decision made more sense after the intermission - there is a surprise for the audience as far as staging goes, and it doesn&#039;t disappoint."
 slug = "in-review-falstaff-man-of-faults"
 title = "In review: Falstaff, man of faults"

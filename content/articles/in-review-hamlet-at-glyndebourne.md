@@ -1,13 +1,14 @@
 +++
-author = "John Beckett"
+author = ["authors/john-beckett.md"]
 categories = "Review"
-companies = ["Glyndebourne"]
 date = "2017-06-22T09:11:00-06:00"
 lastmod = "2017-06-22T09:49:00-06:00"
-people = ["Allan Clayton","Barbara Hannigan","Sir John Tomlinson"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498144664682/2017-06-22---Hamlet_050617photoRichardHubertSmith-7071-copy.jpg.jpg"
 primary_image_credit = "Allan Clayton as Hamlet in Brett Dean's Hamlet, Glyndebourne Festival 2017. Photographer Richard Hubert Smith "
 publishDate = "2017-06-22T09:23:00-06:00"
+related_articles = ["articles/in-review-hipermestra-at-glyndebourne.md","articles/in-review-beatrice-et-benedict-at-glyndebourne.md","articles/magic-high-standards-midsummer-at-glyndebourne.md","articles/in-review-the-cradle-will-rock.md","articles/in-review-the-merchant-of-venice.md","articles/in-review-collision-at-grimeborn.md"]
+related_companies = ["scene/companies/glyndebourne.md"]
+related_people = ["scene/people/allan-clayton.md","scene/people/barbara-hannigan.md","scene/people/sir-john-tomlinson.md"]
 short_description = "Allan Clayton was sensational in the title role. From the first scene we get a sense that he is a black sheep to the rest of the royal family, and in the two acts of the opera he is in a constant state of unhinge - sometimes he is laughing and enjoying life with Horatio, but one comment from Gertrude can set him off into a frenzy. Clayton played Hamlet on the brink of a breakdown without sacrificing the beauty in his vocal production."
 slug = "in-review-hamlet-at-glyndebourne"
 title = "In review: Hamlet at Glyndebourne"

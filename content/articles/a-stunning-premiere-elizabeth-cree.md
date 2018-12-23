@@ -1,13 +1,14 @@
 +++
-author = "Erik Flaten"
+author = ["authors/erik-flaten.md"]
 categories = "Review"
-companies = ["Opera Philadelphia"]
 date = "2017-09-15T13:12:00-04:00"
 lastmod = "2017-09-15T16:35:00-04:00"
-people = ["Daniela Mack","Kevin Puts","Thomas Shivone","Joseph Gaines","Deanna Breiwick","Matt Boehler","Melissa Parks","Jason Ferrante","Troy Cook","Johnathan McCullough"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505496058511/2017-09-15---Square---cree-22.jpg.jpg"
 primary_image_credit = "Elizabeth Cree (mezzo-soprano Daniela Mack) makes her confession. Photo: Steven Pisano for Opera Philadelphia."
 publishDate = "2017-09-15T14:15:00-04:00"
+related_articles = ["articles/elizabeth-cree-kevin-puts.md","articles/kevin-puts-i-know-who-i-am-as-a-composer.md","articles/talking-with-singers-daniela-mack.md","articles/conversations-we-shall-not-be-moved.md","articles/brenda-rae-earns-her-ovation-in-o18-lucia.md"]
+related_companies = ["scene/companies/opera-philadelphia.md"]
+related_people = ["scene/people/daniela-mack.md","scene/people/kevin-puts.md","scene/people/thomas-shivone.md","scene/people/joseph-gaines.md","scene/people/deanna-breiwick.md","scene/people/matt-boehler.md","scene/people/melissa-parks.md","scene/people/jason-ferrante.md","scene/people/troy-cook.md","scene/people/johnathan-mccullough.md"]
 short_description = "The production is bursting at the seams with variations in style, mood and display. Its musical ideas seamlessly transition from comical to frightening. The score includes some familiarity in terms of the musical vocabulary it employs. We hear moments evoking a Broadway musical, moments that are reminiscent of Bernard Herrmann&#039;s sounds of horror, and moments of gorgeously sweeping romantic lines."
 slug = "a-stunning-premiere-elizabeth-cree"
 title = "A stunning premiere: Elizabeth Cree"

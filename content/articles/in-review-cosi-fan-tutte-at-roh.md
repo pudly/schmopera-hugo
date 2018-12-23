@@ -1,14 +1,15 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Royal Opera House"]
 date = "2016-09-23T09:28:00+01:00"
 lastmod = "2016-09-23T12:59:00+01:00"
-people = ["Corinne Winters","Angela Brower","Daniel Behle","Sabina Puértolas"]
 preamble = "Feature image: Angela Brower (Dorabella), Daniel Behle (Ferrando), Alessio Arduini (Guglielmo), Corinne Winters (Fiordiligi), ROH. Photo: Stephen Cummiskey."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474619239896/2016-09-23---ANGELA-BROWER-AS-DORABELLA-DANIEL-BEHLE-AS-FERRANDO-ALESSIO-ARDUINI-AS-GUGLIELMO-CORINNE-WINTERS-AS-FIORDILIGI-ROH-PHOTO-STEPHEN-CUMMISKEY.jpg.jpg"
 primary_image_credit = "Brower (Dorabella), Behle (Ferrando), Arduini (Guglielmo), Winters (Fiordiligi), © ROH. 2016. Photo: Stephen Cummiskey."
 publishDate = "2016-09-23T12:55:00+01:00"
+related_articles = ["articles/in-review-norma-at-roh.md","articles/in-review-lucia-di-lammermoor-at-roh.md","articles/in-review-tannhauser-at-roh.md","articles/in-review-the-barber-of-seville-at-roh.md","articles/in-review-boris-godunov.md","articles/in-review-il-trittico-at-roh.md"]
+related_companies = ["scene/companies/royal-opera-house.md"]
+related_people = ["scene/people/corinne-winters.md","scene/people/angela-brower.md","scene/people/daniel-behle.md","scene/people/scene/sabina-puertolas.md"]
 short_description = "It&#039;s not a bad solution to look to the show&#039;s theatrical context, itself a way of addressing the suspended disbelief. If the action takes place in a theatre, each scene can be something new, even heavy-handed in its symbolism. There are chorus members and stage crew to help create scenes that depict temptation, or a fab wedding banquet, or an entire train station."
 slug = "in-review-cosi-fan-tutte-at-roh"
 title = "In review: Così fan tutte at ROH"

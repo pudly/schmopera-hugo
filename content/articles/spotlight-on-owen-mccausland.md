@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2016-10-11T17:03:00-02:30"
 lastmod = "2016-10-14T19:27:00-02:30"
@@ -7,6 +7,7 @@ preamble = "New Brunswick-born tenor [Owen McCausland](/scene/people/owen-mccaus
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476214361971/2016-10-12---Owen-McCausland.jpg.jpg"
 primary_image_credit = "Photo by Emily Ding."
 publishDate = "2016-10-13T10:09:00-02:30"
+related_articles = ["articles/ariodante-or-the-hebridean-handel.md","articles/talking-with-singers-gyula-nagy.md","articles/talking-with-singers-daniel-okulitch.md","articles/talking-with-singers-saimir-pirgu.md","articles/a-week-in-the-amphitheatre.md","articles/never-black-white-abduction-at-the-coc.md"]
 short_description = "&quot;Get used to listening to yourself. That recording of your last - lesson/coaching/recital/opera has important information and it will help you move forward. Video is even better. It can be hard, especially at first, but it will highlight the things you can’t hear and also help you forgive yourself for dumb mistakes.&quot;"
 slug = "spotlight-on-owen-mccausland"
 title = "Spotlight on: Owen McCausland"

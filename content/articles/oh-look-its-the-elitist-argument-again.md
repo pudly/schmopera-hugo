@@ -1,11 +1,12 @@
 +++
-author = "Greg Finney"
+author = ["authors/greg.md"]
 categories = "Op-ed"
-companies = ["English National Opera"]
 date = "2016-12-07T17:13:00+00:00"
 lastmod = "2016-12-08T13:07:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481193778584/2016-12-8---Snob.jpg.jpg"
 publishDate = "2016-12-08T13:07:00+00:00"
+related_articles = ["articles/elitism-irony-and-the-phantom-of-the-opera.md","articles/the-life-of-a-comprimario-or-oh-youre-that-guy.md"]
+related_companies = ["scene/companies/english-national-opera.md"]
 short_description = "But here&#039;s the kicker in my eyes: no one bats an eye when someone says, &quot;Oh, she&#039;s a Susanna, not an Ariadne,&quot; but thinking that this Susanna would also sound great as Lucy in The Secret Garden garners a completely different response."
 slug = "oh-look-its-the-elitist-argument-again"
 title = "Oh look, it&#039;s the &quot;elitist&quot; argument again..."

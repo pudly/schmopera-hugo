@@ -1,12 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Canadian Opera Company"]
 date = "2015-04-06T22:34:00-04:00"
 lastmod = "2015-04-13T21:30:00-04:00"
-people = ["Atom Egoyan"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428373977654/2015YouthOperaLabUse.jpg.jpg"
 publishDate = "2015-01-26T09:00:00-05:00"
+related_companies = ["scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/atom-egoyan.md"]
 short_description = "The Canadian Opera Company offers plenty of education programs for young people and adults, including their Youth Opera Lab. The YOL is designed to give young opera fans a chance to dive deeply into the shows in the COC&#039;s season, and this month, the focus was on Atom Egoyan&#039;s upcoming production of Die Walküre. "
 slug = "the-cocs-youth-opera-lab-die-walkure"
 title = "The COC&#039;s Youth Opera Lab: Die Walküre"

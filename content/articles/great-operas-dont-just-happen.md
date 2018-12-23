@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2018-02-26T21:06:00-05:00"
 lastmod = "2018-03-01T08:11:00-05:00"
@@ -7,6 +7,7 @@ preamble = "Lawrence Edelson founded American Lyric Theater in 2005 as a respons
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519772755526/sq---Lawrence-Edelson-and-Justin-F-Chen---photo-credit-David-Perlman.jpg.jpg"
 primary_image_credit = "Lawrence Edelson works with Justine Chen, composer of American Lyric Theater's in-progress opera, The Life and Death(s) of Alan Turing."
 publishDate = "2018-02-27T21:49:00-05:00"
+related_articles = ["articles/american-opera-projects-youre-seeing-the-opera-in-microcosm.md"]
 short_description = "&quot;We emphasize a very detailed outlining process at ALT, wherein the librettist and the composer create beat-by-beat outlines - for both the libretto and the score - before a word of the text or a note of the music is written. For a short piece, like those in the upcoming Living Libretto event, this might take one month. For a longer, full-length work, the planning process could take six months or more, especially if extensive research is required.&quot;"
 slug = "great-operas-dont-just-happen"
 title = "&quot;Great Operas Don&#039;t Just Happen.&quot;"

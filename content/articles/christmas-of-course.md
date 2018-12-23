@@ -1,10 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2014-12-24T09:00:00-05:00"
 lastmod = "2015-04-12T18:01:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428876059914/mp9004224511.jpg.jpg"
 publishDate = "2014-12-24T09:00:00-05:00"
+related_articles = ["articles/seriously-sung-christmas-carols.md"]
 short_description = "It’s Christmas, guys. The Messiahs, the Christmas carols, the Hänsels and Gretels, they’re all fair game for this season of nostalgia. I was deciding on my pick for this year’s Christmas-ful opera, assuming I’d end up in the direction of Amahl and the Night Visitors, or going for an exception to the opera theme (it’s Christmas, after all) and voting for A Charlie Brown Christmas instead."
 slug = "christmas-of-course"
 title = "Christmas, of course"

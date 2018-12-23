@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Canadian Opera Company","Canadian Opera Company Ensemble Studio"]
 date = "2018-03-16T22:13:00-04:00"
 lastmod = "2018-03-18T21:38:00-04:00"
-people = ["Neil Craighead"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521252761254/sq---cropped-ncraighead-8241.jpg.jpg"
 primary_image_credit = "Photo: Dahlia Katz."
 publishDate = "2018-03-18T21:38:00-04:00"
+related_articles = ["articles/talking-with-singers-luca-pisaroni.md"]
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
+related_people = ["scene/people/neil-craighead.md"]
 short_description = "If he could go back and give himself some advice, however, Craighead would add in some encouragement. &quot;I would tell myself that I was on the right track,&quot; he says. &quot;I had a lot of the right instincts and a lot of the right tools given to me, but I just needed to trust them.&quot;"
 slug = "talking-with-singers-neil-craighead"
 title = "Talking with singers: Neil Craighead"

@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Classical Opera"]
 date = "2016-04-07T15:29:00+01:00"
 lastmod = "2016-04-08T15:31:00+01:00"
-people = ["Ian Page"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460039298378/2016-04-08---Ian-Page-c-Sheila-Rock.jpg.jpg"
 primary_image_credit = "Photo by Sheila Rock."
 publishDate = "2016-04-08T15:10:00+01:00"
+related_articles = ["articles/cecilia-bartoli-atonal-music-creates-a-barrier-between-composer-and-singer.md","articles/alexander-neef-listening-to-music.md","articles/from-don-juan-to-unclejohn.md","articles/talking-with-singers-alessandro-fisher.md","articles/a-warm-introduction-the-mozartists-at-wigmore-hall.md","articles/littleknown-gems-ariane-et-bachus.md","articles/a-very-happy-20th-birthday-for-classical-opera.md"]
+related_companies = ["scene/companies/classical-opera.md"]
+related_people = ["scene/people/ian-page.md"]
 short_description = "&quot;I love the way things have changed in the last generation or two. There are people who behave stupidly and tyrannically, there will always be. But it&#039;s more and more of a minority now, and I think it&#039;s so clear that when people feel enabled and bring themselves to their work, it&#039;s bound to be better. It&#039;s so obvious.&quot;"
 slug = "ian-page-mozart-imagination"
 title = "Ian Page: Mozart &amp; imagination"

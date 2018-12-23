@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["VOICEBOX: Opera in Concert"]
 date = "2014-03-25T08:00:00-04:00"
 lastmod = "2015-04-24T09:47:00-04:00"
-people = ["Ernesto Ramirez","Laura Albino","Geoffrey Sirett"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429882789900/Stiffelio-764x1024.jpg.jpg"
 publishDate = "2014-03-25T08:00:00-04:00"
+related_articles = ["articles/in-review-the-mississauga-symphony-presents-carmen.md","articles/verdi-at-204-toscanini-at-150-the-2017-festival-verdi.md","articles/overdue-for-a-chicago-performance-the-haunted-manor.md"]
+related_companies = ["scene/companies/voicebox-opera-in-concert.md"]
+related_people = ["scene/people/ernesto-ramirez.md","scene/people/laura-albino.md","scene/people/geoffrey-sirett.md"]
 short_description = "On Sunday, I attended the final show of the season by Voicebox: Opera in Concert at the St. Lawrence Centre for the Arts. They presented Verdi&#039;s Stiffelio, one of his lesser-known opera written after Nabucco and Ernani, but before La traviata and La forza del destino. I&#039;d certainly never heard of it, so I was curious."
 slug = "in-review-stiffelio"
 title = "In Review: Stiffelio"

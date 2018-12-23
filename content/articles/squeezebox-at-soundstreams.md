@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "News"
-companies = ["Soundstreams"]
 date = "2016-01-12T13:27:00-05:00"
 lastmod = "2016-01-15T12:14:00-05:00"
-people = ["Carla Huhtanen"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452878011186/2016-01-15---Macerollo-Square.jpg.jpg"
 publishDate = "2016-01-15T11:58:00-05:00"
+related_articles = ["articles/aptly-named-the-living-spectacle.md","articles/dont-miss-the-cocktail-epoque.md","articles/in-review-squeezebox.md"]
+related_companies = ["scene/companies/soundstreams.md"]
+related_people = ["scene/people/carla-huhtanen.md"]
 short_description = "Macerollo will also play one of over 200 works composed for him by R. Murray Schafer, the &quot;surreal&quot; La testa d&#039;Adriana, with fab soprano Carla Huhtanen. &quot;Dressed in a tattered tuxedo and top hat, he luresthe audience to his side show, the bodiless head of a woman saved at the instant before her death. She is awakened by his music and sings an aria of gurgles, trills, whispers, and pops before subsiding once again into her comatose state.&quot;"
 slug = "squeezebox-at-soundstreams"
 title = "Squeezebox at Soundstreams"

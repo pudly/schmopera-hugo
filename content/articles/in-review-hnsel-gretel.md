@@ -1,13 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["MYOpera"]
 date = "2014-04-26T17:39:00-04:00"
 lastmod = "2015-04-27T18:22:00-04:00"
-people = ["Kate Applin","Alison Wong","Peter Bass","Kelsey Vicary"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429838467708/MYOHnG-1024x682.jpg.jpg"
 primary_image_credit = "Kate Applin (Gretel) and Lyndsay Promane (Hansel) in MYO's Hänsel & Gretel"
 publishDate = "2014-04-26T17:39:00-04:00"
+related_companies = ["scene/companies/myopera.md"]
+related_people = ["scene/people/kate-applin.md","scene/people/alison-wong.md","scene/people/peter-bass.md","scene/people/kelsey-vicary.md"]
 short_description = "I went and saw one of my favourite operas last night: Hänsel and Gretel, by Engelbert Humperdinck, based on the creepy Brothers Grimm fairytale. I think it&#039;s a show that transports itself well on small and large stages, with small and large orchestras and even pianos. So it was great to see this production by Metro Youth Opera in an intimate space, where we could see subtle moments and get to know the characters more quickly."
 slug = "in-review-hnsel-gretel"
 title = "In review: Hänsel &amp; Gretel"

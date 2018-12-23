@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["The Santa Fe Opera"]
 date = "2017-04-18T13:59:00-04:00"
 lastmod = "2017-04-25T09:39:00-04:00"
-people = ["Sasha Cooke"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492542568990/2017-04-19---Square---SASHA_COOKE_pc_Dario_Acosta.jpg.jpg"
 primary_image_credit = "Photo by Dario Acosta."
 publishDate = "2017-04-25T09:39:00-04:00"
+related_articles = ["articles/spotlight-on-danielle-buonaiuto.md","articles/young-singers-in-santa-fe-adelaide-boedecker.md","articles/left-wanting-more-enos-marnie.md"]
+related_companies = ["scene/companies/the-santa-fe-opera.md"]
+related_people = ["scene/people/sasha-cooke.md"]
 short_description = "Hers is a career that proves the value of working well with one&#039;s contemporaries, be they professional or academic. &quot;You don&#039;t realize when you&#039;re young that everyone around you will continue to be around you. Treat people well, be grateful.&quot; Cooke knows well that no musician is an island, and &quot;in a way, being a musician is a perfect heightened example of being human. We are all dependent on one another.&quot;"
 slug = "talking-with-singers-sasha-cooke"
 title = "Talking with singers: Sasha Cooke"

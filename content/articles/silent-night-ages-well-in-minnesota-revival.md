@@ -1,13 +1,14 @@
 +++
-author = "Callie Cooper"
+author = ["authors/callie-cooper.md"]
 categories = "Review"
-companies = ["Minnesota Opera"]
 date = "2018-11-12T10:49:00-05:00"
 lastmod = "2018-11-12T13:29:00-05:00"
-people = ["Miles Mykkanen","Karin Wolverton","Edward Parks","Joshua Jeremiah","Andrew Wilkowske"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542046858637/sqDN3_4032.jpg.jpg"
 primary_image_credit = "Miles Mykkanen as Nikolaus Sprink in Silent Night, Minnesota Opera, 2018. Photo: Dan Norman."
 publishDate = "2018-11-12T13:29:00-05:00"
+related_articles = ["articles/55-years-of-minnesota-opera-a-gala-celebration.md","articles/don-pasquale-a-colorful-season-starter-at-minnesota-opera.md","articles/am-i-allowed-to-hate-silent-night.md"]
+related_companies = ["scene/companies/minnesota-opera.md"]
+related_people = ["scene/people/miles-mykkanen.md","scene/people/karin-wolverton.md","scene/people/edward-parks.md","scene/people/joshua-jeremiah.md","scene/people/andrew-wilkowske.md"]
 short_description = "What is most remarkable about this opera, is how it really transfers the movie effectively to the stage. I really felt like I was watching the movie! Many of the memorable scenes were recreated very accurately. Minnesota Opera has proved once again their extraordinary talent at bringing new operas to life."
 slug = "silent-night-ages-well-in-minnesota-revival"
 title = "Silent Night ages well in Minnesota revival"

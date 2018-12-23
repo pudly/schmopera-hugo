@@ -1,11 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Humour"
 date = "2015-04-10T22:23:00-04:00"
 lastmod = "2015-04-12T19:10:00-04:00"
-people = ["Aprile Millo"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428718691249/FourLeafClover.jpg.jpg"
 publishDate = "2015-03-17T10:23:00-04:00"
+related_people = ["scene/people/aprile-millo.md"]
 short_description = "​Happy St. Patrick&#039;s Day, everyone! To give an operatic nod to the patron saint of Ireland, here are some appropriately-themed clips via YouTube."
 slug = "st-patricks-day-potpourri"
 title = "St. Patrick&#039;s Day Potpourri"

@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Op-ed"
 date = "2015-04-10T22:31:00-04:00"
 lastmod = "2015-04-10T22:31:00-04:00"
@@ -7,6 +7,7 @@ preamble = "<p>\n\tMusicians come in many kinds, and most work with a fascinatin
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428719382166/AristotleValentine.png"
 primary_image_credit = "Deviantart.com"
 publishDate = "2015-03-14T10:31:00-04:00"
+related_articles = ["articles/4-ways-that-opera-really-is-life.md"]
 short_description = "Musicians come in many kinds, and most work with a fascinating balance of pragmatism and imagination. We, like other artists, get a reputation for having our heads in the clouds, for making decisions based on emotion instead of reason. We are artsy-fartsy. "
 slug = "proof-that-music-is-simply-unreasonable"
 title = "Proof that Music is Simply Unreasonable"

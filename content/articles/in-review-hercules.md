@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Canadian Opera Company"]
 date = "2014-04-18T16:56:00-04:00"
 lastmod = "2015-04-27T21:19:00-04:00"
-people = ["Alice Coote","Lucy Crowe","Eric Owens"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429839149729/Alice-Hercules1-1024x643.jpg.jpg"
 primary_image_credit = "All photos by Michael Cooper"
 publishDate = "2014-04-18T16:56:00-04:00"
+related_articles = []
+related_companies = ["scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/alice-coote.md","scene/people/lucy-crowe.md","scene/people/eric-owens.md"]
 short_description = "I went and saw Hercules at the Canadian Opera Company on Tuesday, and it was the jackpot of incredible talent onstage. It&#039;s directed by the one-of-a-kind Peter Sellars, conducted by the brilliant Harry Bicket, and Eric Owens and Alice Coote star as the soldier and soldier&#039;s wife. Beautiful. And it really was a stunning spectacle, one with an uncomfortably true message."
 slug = "in-review-hercules"
 title = "In review: Hercules"

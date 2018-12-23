@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Op-ed"
-companies = ["The Metropolitan Opera","Glimmerglass Festival"]
 date = "2016-03-02T10:22:00+00:00"
 lastmod = "2016-03-02T12:01:00+00:00"
-people = ["Othalie Graham","Tamara Wilson","Eric Owens","Jorell Williams","Patricia Racette"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456918767376/Chris-Rock-Oscars-Getty.jpg.jpg"
 publishDate = "2016-03-02T11:57:00+00:00"
+related_articles = ["articles/talking-with-singers-jorell-williams.md","articles/talking-with-singers-othalie-graham.md","articles/a-tale-of-big-hair-at-the-met.md","articles/forgiving-racism-onstage.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/glimmerglass-festival.md"]
+related_people = ["scene/people/othalie-graham.md","scene/people/tamara-wilson.md","scene/people/eric-owens.md","scene/people/jorell-williams.md","scene/people/patricia-racette.md"]
 short_description = "Perhaps opera is making a mess of this whole thing by keeping racist shows like Madama Butterfly on stages, or even sexist shows like The Marriage of Figaro alive and well. And yes, film is different than opera; a film doesn&#039;t go through different productions, doesn&#039;t get re-made over and over again with new casts of characters. But I think there&#039;s light in our madness, because it means we&#039;ve paid attention to the stories themselves, rather than the people charged with telling them."
 slug = "what-oscarssowhite-can-learn-from-opera"
 title = "What #OscarsSoWhite can learn from opera"

@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Royal Opera House"]
 date = "2016-03-19T10:32:00+00:00"
 lastmod = "2016-03-19T15:05:00+00:00"
-people = ["Bryn Terfel","Ain Anger","David Butt Philip"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458398140443/Square---BRYN-TERFEL-AS-BORIS-GODUNOV-ROH-PHOTOGRAPH-BY-CATHERINE-ASHMORE.jpg.jpg"
 primary_image_credit = "Bryn Terfel as Boris Godunov. Copyright: ROH. Photo by Catherine Ashmore."
 publishDate = "2016-03-19T14:50:00+00:00"
+related_articles = ["articles/in-review-il-trittico-at-roh.md","articles/in-review-jenufa-czech-philharmonic.md","articles/in-review-tannhauser-at-roh.md","articles/in-review-cosi-fan-tutte-at-roh.md","articles/hibla-gerzmava-danielle-akta-with-the-moscow-virtuosi.md","articles/overdue-for-a-chicago-performance-the-haunted-manor.md"]
+related_companies = ["scene/companies/royal-opera-house.md"]
+related_people = ["scene/people/bryn-terfel.md","scene/people/ain-anger.md","scene/people/david-butt-philip.md"]
 short_description = "Richard Jones makes much of this incessant guilt, exaggerating the unjustness of Boris&#039; actions with childish images of colourful spinning tops and a cherub-like mask on the silent Dmitry. Jones carries the image through the final tableau, driving home the sacrifices of the young and innocent, when men seek political power."
 slug = "in-review-boris-godunov"
 title = "In review: Boris Godunov"

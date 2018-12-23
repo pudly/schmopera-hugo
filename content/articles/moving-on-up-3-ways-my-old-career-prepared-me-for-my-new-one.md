@@ -1,10 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2017-04-21T08:09:00-04:00"
 lastmod = "2017-04-21T15:10:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492782662561/2017-04-21---Skills.jpg.jpg"
 publishDate = "2017-04-21T10:02:00-04:00"
+related_articles = ["articles/giving-up-caring-too-little-and-other-taboos.md","articles/why-this-opera-singer-took-a-nonsinging-job-at-an-opera-company.md"]
 short_description = "In my own experience, coaching singers is kind of like journalism. There&#039;s a foundation of knowledge that continues to grow, but with every new singer - and every new story - there&#039;s the possibility of having your mind changed."
 slug = "moving-on-up-3-ways-my-old-career-prepared-me-for-my-new-one"
 title = "Moving on &amp; up: 3 ways my old career prepared me for my new one"

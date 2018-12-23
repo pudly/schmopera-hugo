@@ -1,13 +1,14 @@
 +++
-author = "Blanche Israël"
+author = ["authors/blanche-isral.md"]
 categories = "Review"
-companies = ["Oper Frankfurt"]
 date = "2018-01-24T11:08:00-05:00"
 lastmod = "2018-01-24T11:08:00-05:00"
-people = ["Björn Bürger","Angela Vallone","Samuel Levine","Juanita Lascarro","Holger Falk","Sebastian Geyer"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516809837446/sq---3476_enrico04_gross.jpg.jpg"
 primary_image_credit = "Holger Falk plays the title role in Enrico, Oper Frankfurt, 2018. Photo: Barbara Aumüller."
 publishDate = "2018-01-24T11:08:00-05:00"
+related_articles = ["articles/misnomers-interstellar-sex-scenes-vasco-de-gama.md"]
+related_companies = ["scene/companies/oper-frankfurt.md"]
+related_people = ["scene/people/scene/bjorn-burger.md","scene/people/angela-vallone.md","scene/people/samuel-levine.md","scene/people/juanita-lascarro.md","scene/people/holger-falk.md","scene/people/sebastian-geyer.md"]
 short_description = "After suffering trauma to the head while in character as Henry IV, Enrico (Holger Falk) regains consciousness still believing himself to be the 11th century emperor. So as not to rattle him, Enrico&#039;s relatives maintain an elaborate lie involving costumes, alternate personas and staff trained to appease him."
 slug = "clairvoyant-art-enrico-at-oper-frankfurt"
 title = "Clairvoyant art: Enrico at Oper Frankfurt"

@@ -1,11 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Op-ed"
 date = "2014-07-16T10:10:00-04:00"
 lastmod = "2017-05-04T12:25:00-04:00"
-people = ["Alice Coote"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493915142995/2017-05-04---Travel.jpg.jpg"
 publishDate = "2014-07-16T10:10:00-04:00"
+related_articles = ["articles/shes-leaving-home.md","articles/music-the-musicians-therapy-except-when-its-not.md","articles/helpful-singers-opera-does-house-calls.md","articles/childfree-opera-singers-happiness.md","articles/how-was-it-and-other-dangerous-questions.md","articles/networking-for-introverted-performers.md","articles/redefining-the-goal.md","articles/singers-its-time-to-expand-your-dating-pool.md","articles/opera-other-trysts-a-love-story.md"]
+related_people = ["scene/people/alice-coote.md"]
 short_description = "Some people really do thrive on this kind of life; others find themselves at a crux, in which they seriously weigh all the things they love against each other. Some people take matters into their own hands by starting their own opera company in whatever city they damn well please. They open a teaching studio, or even admirably straddle the worlds of day-jobs and opera gigs. But some of us are simply stubborn, and we want to do what we want to do; our homesickness and loneliness can, in some cases, be outweighed by the true love of our art."
 slug = "the-heart-and-the-art"
 title = "The heart and the art"

@@ -1,12 +1,13 @@
 +++
-author = "Andrew Schneider"
+author = ["authors/andrew-schneider.md"]
 categories = "Review"
-companies = ["Houston Grand Opera"]
 date = "2017-11-08T10:16:00-05:00"
 lastmod = "2017-11-08T22:12:00-05:00"
-people = ["Ben Edquist","Mark Thomas","Kerriann Otaño"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510176844162/2017-11-08---square---hgoco---glory-denied---2017---photographer-lynn-lane-191-3000x2000.jpg.jpg"
 publishDate = "2017-11-08T20:19:00-05:00"
+related_articles = ["articles/in-review-glory-denied.md","articles/true-impact-dmmos-glory-denied.md"]
+related_companies = ["scene/companies/houston-grand-opera.md"]
+related_people = ["scene/people/ben-edquist.md","scene/people/mark-thomas.md","scene/people/scene/kerriann-otano.md"]
 short_description = "This work does succeed in its desire, as the composer explained in a talkback, to give an idea of the angst of the time period for the current generation, and it does successfully highlight the plight of disregard for veterans&#039; care that casts a pall over the legacy of our great nation."
 slug = "an-extended-mad-scene-glory-denied"
 title = "An extended mad scene: Glory Denied"

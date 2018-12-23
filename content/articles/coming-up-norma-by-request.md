@@ -1,12 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "News"
-companies = ["Opera By Request"]
 date = "2016-01-24T14:46:00-05:00"
 lastmod = "2016-01-24T18:04:00-05:00"
-people = ["Naomi Eberhard","Jessica Lane"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453666277915/2016-01-25---Stonehenge.jpg.jpg"
 publishDate = "2016-01-24T11:04:00-05:00"
+related_companies = ["scene/companies/opera-by-request.md"]
+related_people = ["scene/people/naomi-eberhard.md","scene/people/jessica-lane.md"]
 short_description = "Next month, Opera by Request is bringing some winter warmth in the form of Bellini&#039;s bel canto stunner, Norma. Soprano Naomi Eberhard will sing the title role, alongside fellow soprano Jessica Lane as Adalgisa; and tenor Jason Lamont sings Pollione, the man caught in one of opera&#039;s most beautiful love triangles. Norma is one night only, February 6, 7:30pm,"
 slug = "coming-up-norma-by-request"
 title = "Coming up: Norma by request"

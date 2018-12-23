@@ -1,11 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "How-to"
 date = "2016-06-07T09:01:00-06:00"
 lastmod = "2016-07-10T10:27:00-06:00"
 preamble = "Belcore's aria from *L'elisir d'amore* is all about laying it on thick. He's after Adina, just like the opera's underdog/hero, Nemorino; he pulls out all the stops, like referencing literature, giving her flowers, and generally bragging about how awesome he is at life. It's a relatively rare moment of comedy for a baritone, although the aria doesn't come without its challenges. Along with your teachers and coaches, we offer up a few tips for wading through coloratura, and getting the best comedic bang for your buck."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468004512058/2016-07-08---Belcore.jpg.jpg"
 publishDate = "2016-07-08T21:18:00-06:00"
+related_articles = ["articles/aria-guides-aprite-un-po-quegli-occhi.md","articles/aria-guides-the-counts-aria.md","articles/aria-guides-schweig-damit-dich-niemand-warnt.md","articles/aria-guides-sempre-libera.md","articles/aria-guides-lieben-hassen.md"]
 short_description = "Belcore&#039;s aria from L&#039;elisir d&#039;amore is all about laying it on thick. He&#039;s after Adina, just like the opera&#039;s underdog/hero, Nemorino; he pulls out all the stops, like referencing literature, giving her flowers, and generally bragging about how awesome he is at life. It&#039;s a relatively rare moment of comedy for a baritone, although the aria doesn&#039;t come without its challenges. "
 slug = "aria-guides-come-paride-vezzoso"
 title = "Aria guides: &quot;Come Paride vezzoso&quot;"

@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Canadian Opera Company Ensemble Studio","Canadian Opera Company","Against the Grain Theatre"]
 date = "2015-05-17T17:32:00-04:00"
 lastmod = "2015-05-18T10:25:00-04:00"
-people = ["Krisztina Szabó","Christopher Mokrzewski","Stephen Hegedus","Owen McCausland","Charlotte Burrage","Ekaterina Gubanova"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431901270245/IMG_20150507_151240.jpg.jpg"
 publishDate = "2015-05-18T09:00:00-04:00"
+related_articles = ["articles/in-review-ekaterina-gubanova-rachel-andrist-in-recital.md","articles/in-review-owen-mccauslands-recital-stunner.md","articles/coc1516-the-new-ensemble-studio.md","articles/in-review-quinn-kelseys-songs-from-the-heart.md"]
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/against-the-grain-theatre.md"]
+related_people = ["scene/people/krisztina-szab.md","scene/people/christopher-mokrzewski.md","scene/people/stephen-hegedus.md","scene/people/owen-mccausland.md","scene/people/charlotte-burrage.md","scene/people/ekaterina-gubanova.md"]
 short_description = "The Free Concert Series in the Four Seasons Centre&#039;s Richard Bradshaw Amphitheatre is winding down for the summer, and this week marks the end of the Vocal Series performances. At noon this Tuesday, Wednesday, and Thursday, you can catch some stellar singing, for free."
 slug = "hat-trick-in-the-amphitheatre"
 title = "Hat trick in the Amphitheatre"

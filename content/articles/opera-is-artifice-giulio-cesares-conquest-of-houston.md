@@ -1,13 +1,14 @@
 +++
-author = "Andrew Schneider"
+author = ["authors/andrew-schneider.md"]
 categories = "Review"
-companies = ["Houston Grand Opera"]
 date = "2017-10-29T11:35:00-04:00"
 lastmod = "2017-10-29T20:51:00-04:00"
-people = ["David Daniels","Stephanie Blythe","Anthony Roth Costanzo","Megan Mikailovna Samarin","Aryeh Nussbaum Cohen","Heidi Stober"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509292121183/2017-10-29---square---hgo---julius-caesar---photographer-lynn-lane-238-3000x2000.jpg.jpg"
 primary_image_credit = "Heidi Stober (Cleopatra) and Anthony Roth Costanzo (Julius Caesar) in Julius Caesar, HGO, 2017. Photo: Lynn Lane."
 publishDate = "2017-10-29T12:28:00-04:00"
+related_articles = ["articles/a-fierce-mob-wife-rodelinda-at-eno.md","articles/ariodante-or-the-hebridean-handel.md","articles/seasonal-opera-done-right-at-hgo.md"]
+related_companies = ["scene/companies/houston-grand-opera.md"]
+related_people = ["scene/people/david-daniels.md","scene/people/stephanie-blythe.md","scene/people/anthony-roth-costanzo.md","scene/people/megan-mikailovna-samarin.md","scene/people/aryeh-nussbaum-cohen.md","scene/people/heidi-stober.md"]
 short_description = "Costanzo&#039;s take on the title role, which HGO&#039;s Thursday Facebook release went to great lengths to publicize as a take on Indiana Jones, was very effective indeed, in spite of this whimsical comparison. He well personified the countertenor as young virile male hero, particularly being skilled in the arias that showed off his agility and fiery, piercing upper register."
 slug = "opera-is-artifice-giulio-cesares-conquest-of-houston"
 title = "Opera is artifice: Giulio Cesare&#039;s conquest of Houston"

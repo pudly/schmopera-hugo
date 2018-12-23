@@ -1,13 +1,14 @@
 +++
-author = "Jeremy Hirsch"
+author = ["authors/jeremy-hirsch.md"]
 categories = "Review"
-companies = ["Heartbeat Opera"]
 date = "2018-05-11T18:24:00-04:00"
 lastmod = "2018-05-11T21:25:00-04:00"
-people = ["Kelly Griffin","Derrell Acon","Daniel Klein","Malorie Casimir"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526076778374/sqDSC_5117.jpg.jpg"
 primary_image_credit = "Nelson Ebo (Stan) in Fidelio, Heartbeat Opera, 2018. Photo: Russ Rowland."
 publishDate = "2018-05-11T19:58:00-04:00"
+related_articles = ["articles/fidelio-still-political-in-2018.md","articles/wendy-bryn-harmer-leads-sensitive-inspirational-fidelio.md"]
+related_companies = ["scene/companies/heartbeat-opera.md"]
+related_people = ["scene/people/kelly-griffin.md","scene/people/derrell-acon.md","scene/people/daniel-klein.md","scene/people/malorie-casimir.md"]
 short_description = "Video projections reinforce the inmates&#039; commitment to music and text, their chins raised, brows gently furrowed, and lips outstretched to form German vowels. The singing is emotionally wrenching in its delicate roughness."
 slug = "real-prisoners-voices-make-heartbeat-operas-fidelio-resonate"
 title = "Real Prisoners&#039; Voices Make Heartbeat Opera&#039;s &quot;Fidelio&quot; Resonate"

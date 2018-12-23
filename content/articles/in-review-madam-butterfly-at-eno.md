@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["English National Opera"]
 date = "2016-05-19T09:55:00+01:00"
 lastmod = "2016-05-19T13:42:00+01:00"
-people = ["David Butt Philip","Alun Rhys-Jenkins"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463651208261/2016-05-19---ENO-Madam-Butterfly-Rena-Harms-Tom-Bowles.jpg.jpg"
 primary_image_credit = "Rena Harms as Cio-Cio San in Madam Butterfly. Photo: Tom Bowles/English National Opera."
 publishDate = "2016-05-19T11:34:00+01:00"
+related_articles = ["articles/in-review-enos-the-magic-flute.md","articles/in-review-madama-butterfly.md","articles/in-review-tristan-and-isolde-at-eno.md","articles/in-review-don-giovanni-at-eno.md","articles/in-review-lulu-at-eno.md","articles/rohs-madama-butterfly-better-to-be-furious-than-bored.md","articles/making-the-connection-madama-butterfly-in-manitoba.md"]
+related_companies = ["scene/companies/english-national-opera.md"]
+related_people = ["scene/people/david-butt-philip.md","scene/people/alun-rhysjenkins.md"]
 short_description = "A silent, stunning tableau, featuring dancer Ayano Honda in silhouette against a wash of saturated red, began the story; it gave way to a stage full of puppeteers, who spent the evening moving sets, providing ambient lighting, and playing a flock of birds. They smoothed the lines between the story&#039;s characters and the &quot;unseen&quot; bodies onstage, who also included three puppeteers bringing Cio-Cio San&#039;s son, Sorrow, to heartbreaking life."
 slug = "in-review-madam-butterfly-at-eno"
 title = "In review: Madam Butterfly at ENO"

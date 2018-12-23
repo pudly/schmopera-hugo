@@ -1,11 +1,12 @@
 +++
-author = "Greg Finney"
+author = ["authors/greg.md"]
 categories = "Editorial"
 date = "2015-04-11T20:30:00-04:00"
 lastmod = "2015-05-27T13:53:00-04:00"
-people = ["Gregory Finney"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428798552389/AGO.jpg.jpg"
 publishDate = "2015-02-07T09:30:00-05:00"
+related_articles = ["articles/the-ago-now-with-more-music.md","articles/a-great-show-at-the-ago.md"]
+related_people = ["scene/people/gregory-finney.md"]
 short_description = "AGO First Thursdays is a great party series thrown by the gallery on the first Thursday of every month. After the AGO closes for regular business, the place is transformed into an events venue with DJs, Drinks, Dancing, Dashing Dudes, Dreamy Dames and some Damn Fine Art. Last night was no exception."
 slug = "gregs-first-thursday-at-the-ago"
 title = "Greg&#039;s First Thursday at the AGO"

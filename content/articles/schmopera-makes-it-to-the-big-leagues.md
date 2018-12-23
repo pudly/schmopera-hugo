@@ -1,11 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Canadian Opera Company"]
 date = "2014-02-20T09:30:00-05:00"
 lastmod = "2015-04-27T21:48:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430185644222/G85Iijj15DcmJzHnKRLFQmgX8_wCoAp0J0Z96owDF4GaryMToEqzmax6lHNITP-YsrmbIp66eHpAqHXAr6CqZPbnWAwa%3Dw680-h680-c"
 publishDate = "2014-02-20T09:30:00-05:00"
+related_companies = ["scene/companies/canadian-opera-company.md"]
 short_description = "Great news! I&#039;ll be making an appearance on behalf of Schmopera on the Big COC Podcast! With host Gianmarco Segato, I&#039;ll be joined by maestro Stephen Lord, who&#039;s in town conducting A Masked Ball at the Canadian Opera Company, and by Paula Citron, arts journalist, critic and broadcaster, and a past guest of the podcast."
 slug = "schmopera-makes-it-to-the-big-leagues"
 title = "Schmopera makes it to the big leagues"

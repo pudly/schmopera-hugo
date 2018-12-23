@@ -1,13 +1,14 @@
 +++
-author = "Eva Cahen"
+author = ["authors/eva-cahen.md"]
 categories = "Interview"
-companies = ["Los Angeles Opera","Royal Opera House"]
 date = "2018-05-26T14:03:00-04:00"
 lastmod = "2018-05-26T17:56:00-04:00"
-people = ["Michael Fabiano"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527361948406/237edit.jpg.jpg"
 primary_image_credit = "Arielle Doneson."
 publishDate = "2018-05-26T17:56:00-04:00"
+related_articles = ["articles/verdis-tragedy-in-jest.md","articles/michael-fabiano-the-profound-effect-of-artsmart.md","articles/talking-with-singers-adela-zaharia.md"]
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/royal-opera-house.md"]
+related_people = ["scene/people/scene/rolando-villazon.md"]
 short_description = "&quot;We&#039;re in an era where things need to be tried. We can&#039;t just do the same. That&#039;s the argument against the model in America sometimes, where we just do traditional opera productions for the sake of doing them traditionally because no one wants to see anything different. That to me is not an acceptable answer.&quot;"
 slug = "talking-with-singers-michael-fabiano"
 title = "Talking with singers: Michael Fabiano"

@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Canadian Opera Company Ensemble Studio","Canadian Opera Company"]
 date = "2014-10-10T09:54:00-04:00"
 lastmod = "2015-04-14T14:38:00-04:00"
-people = ["Iain MacNeil","Jean-Philippe Fortier-Lazure"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429036608625/IMG_0128.JPG"
 publishDate = "2014-10-10T09:54:00-04:00"
+related_articles = ["articles/coc1516-the-new-ensemble-studio.md","articles/in-review-quinn-kelseys-songs-from-the-heart.md","articles/lovely-lunches-the-coc-ensemble-studio-in-recital.md","articles/going-out-in-style-sy-kwon-in-the-rba.md","articles/the-invictus-games-come-to-the-rba.md"]
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/iain-macneil.md","scene/people/jeanphilippe-fortierlazure.md"]
 short_description = "I went to another installation of the Free Concert Series in the Richard Bradshaw Amphitheatre, to hear COC Ensemble members Iain MacNeil and Jean-Philippe Fortier-Lazure sing. The program was two sets of song by English composers: George Butterworth&#039;s Six Songs from a Shropshire Lad and Ivor Gurney&#039;s Ludlow and Teme, both with texts from the 63 poems in Alfred Edward Housman&#039;s A Shropshire Lad."
 slug = "in-review-a-shropshire-lad"
 title = "In review: A Shropshire Lad"

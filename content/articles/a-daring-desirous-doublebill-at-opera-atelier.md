@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Opera Atelier"]
 date = "2018-10-15T20:24:00-04:00"
 lastmod = "2018-10-15T20:27:00-04:00"
-people = ["Colin Ainsworth"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539648427302/sq180109_00206.jpg.jpg"
 primary_image_credit = "Artist of Atelier Ballet Edward Tracz poses as the stag in Actéon. Photo by Bruce Zinger."
 publishDate = "2018-10-15T20:27:00-04:00"
+related_articles = ["articles/in-review-opera-ateliers-armide.md","articles/he-saidshe-said-alcina-at-opera-atelier.md","articles/feminism-confetti-ateliers-triplebill.md"]
+related_companies = ["scene/companies/opera-atelier.md"]
+related_people = ["scene/people/colin-ainsworth.md"]
 short_description = "Such longevity puts it among the upper echelon of Canadian opera companies in Canada - a feat more impressive when we consider that Atelier performs exclusively 17th- and 18th-century baroque opera. It&#039;s almost impossible to resist saying it: &quot;If it ain&#039;t baroque, don&#039;t fix it.&quot;"
 slug = "a-daring-desirous-doublebill-at-opera-atelier"
 title = "A daring &amp; desirous double-bill at Opera Atelier"

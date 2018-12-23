@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Canadian Opera Company Ensemble Studio","Canadian Opera Company"]
 date = "2015-09-23T09:57:00-04:00"
 lastmod = "2015-09-23T13:54:00-04:00"
-people = ["Gordon Bintner","Charles Sy","Aaron Sheppard","Andrew Haji","Aviva Fortunata","Iain MacNeil","Karine Boucher","Jennifer Szeto","Liz Upchurch","Jean-Philippe Fortier-Lazure","Quinn Kelsey","Rachel Andrist","Hyejin Kwon"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443019336761/RBASept.jpg.jpg"
 publishDate = "2015-09-23T11:47:00-04:00"
+related_articles = ["articles/the-coc-ensemble-studio-meet-the-newbies.md","articles/in-review-opra-de-montrals-atelier-lyrique-joins-the-coc-ensemble-studio.md","articles/hat-trick-in-the-amphitheatre.md","articles/in-review-owen-mccauslands-recital-stunner.md","articles/in-review-a-shropshire-lad.md","articles/the-2015-quilico-awards.md"]
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/gordon-bintner.md","scene/people/charles-sy.md","scene/people/aaron-sheppard.md","scene/people/andrew-haji.md","scene/people/aviva-fortunata.md","scene/people/iain-macneil.md","scene/people/karine-boucher.md","scene/people/jennifer-szeto.md","scene/people/liz-upchurch.md","scene/people/jeanphilippe-fortierlazure.md","scene/people/quinn-kelsey.md","scene/people/rachel-andrist.md","scene/people/hyejin-kwon.md"]
 short_description = "The Canadian Opera Company Ensemble Studio have kicked off the 2015/16 Free Concert Series in the Richard Bradshaw Amphitheatre with their annual introductory concert, Meet the Young Artists. Eight singers and two pianists performed in what&#039;s called the &quot;death by aria&quot; style, each singer showing off an aria that shows what they do best."
 slug = "coc1516-the-new-ensemble-studio"
 title = "#COC1516: the new Ensemble Studio"

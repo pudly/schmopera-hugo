@@ -1,12 +1,12 @@
 +++
-author = "Alessia Naccarato"
+author = ["authors/alessia-naccarato.md"]
 categories = "Review"
-companies = ["English National Opera"]
 date = "2018-11-26T10:50:00-05:00"
 lastmod = "2018-11-26T11:22:00-05:00"
-people = ["Sarah Tynan","Lester Lynch","Michael Colvin","Eleazar Rodríguez","Clive Bayley"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543247173536/sqENOLuciadiLammermoorSarahTynanMichaelColvinJohnSnelling.jpg.jpg"
 publishDate = "2018-11-26T11:22:00-05:00"
+related_companies = ["scene/companies/english-national-opera.md"]
+related_people = ["scene/people/sarah-tynan.md","scene/people/lester-lynch.md","scene/people/michael-colvin.md","scene/people/scene/eleazar-rodriguez.md","scene/people/clive-bayley.md"]
 short_description = "I found Alden&#039;s production be be a challenging one. I think that&#039;s the nature of this piece. The subject matter is very dark and though I appreciate that it didn&#039;t shy away from depicting the violence done to Lucia, I was left unsatisfied with the way it was handled."
 slug = "enos-lucia-i-wanted-to-see-her-fight-back"
 title = "ENO&#039;s Lucia: &quot;I wanted to see her fight back.&quot;"

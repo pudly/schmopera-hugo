@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Toronto Operetta Theatre"]
 date = "2015-04-29T23:19:00-04:00"
 lastmod = "2015-05-09T12:56:00-04:00"
-people = ["Gregory Finney","Cameron McPhail","Charlotte Knight","Michelle Garlough"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430414227695/Gwendolen%20%26%20Cecily%20at%20Love%20Seat.jpg.jpg"
 primary_image_credit = "l-r: Michelle Garlough as Gwendolyn and Charlotte Knight as Cecily. Photo by Gary Beechey."
 publishDate = "2015-04-30T13:55:00-04:00"
+related_articles = ["articles/spotlight-on-charlotte-knight.md","articles/in-review-los-gavilanes-at-toronto-operetta-theatre.md"]
+related_companies = ["scene/companies/toronto-operetta-theatre.md"]
+related_people = ["scene/people/gregory-finney.md","scene/people/cameron-mcphail.md","scene/people/charlotte-knight.md","scene/people/michelle-garlough.md"]
 short_description = "Last night I went to opening night of Earnest, the Importance of Being at Toronto Operetta Theatre. The piece, by Victor Davies and Eugene Benson, had its premiere in 2008. It&#039;s a rare thing to find an original Canadian operetta, and this one is a hilarious and charming take on Oscar Wilde&#039;s *The Importance of Being Earnest*."
 slug = "in-review-earnest-the-importance-of-being"
 title = "In review: Earnest, the Importance of Being"

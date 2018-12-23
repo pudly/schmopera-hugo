@@ -1,11 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Canadian Opera Company"]
 date = "2014-06-11T07:45:00-04:00"
 lastmod = "2015-04-23T16:16:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429819824849/IMG_0118_resized.jpg.jpg"
 publishDate = "2014-06-11T07:45:00-04:00"
+related_articles = ["articles/turning-opera-insideout-upsidedown-at-summer-opera-camp.md","articles/canadian-childrens-opera-companys-lullabies-from-kids-for-kids.md"]
+related_companies = ["scene/companies/canadian-opera-company.md"]
 short_description = "Each summer, the Canadian Opera Company presents the Summer Youth Intensive program, which is designed for young opera lovers, from grades 9 to 12. At the SYI, the participants bring their existing interests and skills, and refine them with the help of professionals in the operatic industry."
 slug = "the-cocs-summer-youth-intensive-opera-really-is-fun"
 title = "The COC&#039;s Summer Youth Intensive: Opera really is fun!"

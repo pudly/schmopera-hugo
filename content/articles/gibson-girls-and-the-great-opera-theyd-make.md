@@ -1,10 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2015-04-10T21:06:00-04:00"
 lastmod = "2015-04-12T18:48:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428714180897/EvelynNesbit.jpg.jpg"
 publishDate = "2015-03-30T09:05:00-04:00"
+related_articles = ["articles/why-we-all-love-florence-foster-jenkins.md","articles/5-people-who-would-make-great-opera-roles.md","articles/schoenbergbach-other-unlikely-pairs-atg-theatre-heads-to-tiff.md","articles/sawney-bean-his-cannibal-clan-would-make-a-great-opera.md","articles/dont-miss-bandits-in-the-valley.md"]
 short_description = " I think the story, the mythology, even, of the Gibson Girl would make a great opera in itself. The story could speak about women, men, the media, the human urge to follow trends; there&#039;s even a story in the lives of Mr. and Mrs. Gibson, whose understanding of social issues seemed ahead of their time."
 slug = "gibson-girls-and-the-great-opera-theyd-make"
 title = "Gibson Girls, and the Great Opera They&#039;d Make"

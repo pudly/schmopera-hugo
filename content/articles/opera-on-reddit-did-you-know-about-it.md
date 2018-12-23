@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2014-01-14T16:07:00-05:00"
 lastmod = "2015-04-28T22:46:00-04:00"

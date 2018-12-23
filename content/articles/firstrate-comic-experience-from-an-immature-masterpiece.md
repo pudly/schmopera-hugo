@@ -1,5 +1,5 @@
 +++
-author = "Polina Lyapustina"
+author = ["authors/polina-lyapustina.md"]
 date = "2018-12-08T18:04:00-05:00"
 lastmod = "2018-12-08T18:18:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544309989946/sqEnricodiBorgognaDonizetti2018fotoRotaGFR_9565.jpg.jpg"

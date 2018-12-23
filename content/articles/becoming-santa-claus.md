@@ -1,12 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "News"
-companies = ["The Dallas Opera"]
 date = "2016-11-17T09:49:00+00:00"
 draft = true
 lastmod = "2016-11-17T09:59:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479376359261/2016-11-16---Karne-Almond---BSC.jpg.jpg"
 primary_image_credit = "A scene from \"Becoming Santa Claus\" at The Dallas Opera, 2015. Photo by Karen Almond."
+related_companies = ["scene/companies/the-dallas-opera.md"]
 slug = "becoming-santa-claus"
 title = "Becoming Santa Claus"
 +++

@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Tapestry Opera","Indie Opera T.O."]
 date = "2017-09-10T17:23:00-04:00"
 lastmod = "2017-09-11T22:33:00-04:00"
-people = ["Stephanie Tritchew","Jacques Arsenault","Keith Klassen","Alexander Dobson","Jennifer Taverner","Sara Schabas"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505174153646/2017-09-11---Square---Bandits-photobyDahliaKatz-1442.jpg.jpg"
 primary_image_credit = "Jacques Arsenault as Freddy in Bandits in the Valley, Tapestry Opera, 2017. Photo by Dahlia Katz."
 publishDate = "2017-09-11T22:10:00-04:00"
+related_articles = ["articles/dont-miss-bandits-in-the-valley.md"]
+related_companies = ["scene/companies/tapestry-opera.md","scene/companies/indie-opera-to.md"]
+related_people = ["scene/people/stephanie-tritchew.md","scene/people/jacques-arsenault.md","scene/people/keith-klassen.md","scene/people/alexander-dobson.md","scene/people/jennifer-taverner.md","scene/people/sara-schabas.md"]
 short_description = "The short, opera-esque piece of theatre - by composer Benton Roark and librettist Julie Tepperman - happens in various locations around Toronto&#039;s Todmorden Mills, the historic location that beautifully serves the concurrent tales of George Taylor (whose paper mill celebrates its 25th anniversary), the traveling theatre troupe that specializes in Gilbert &amp; Sullivan, and The Rift Rafters, the group of bandits."
 slug = "in-review-bandits-in-the-valley"
 title = "In review: Bandits in the Valley"

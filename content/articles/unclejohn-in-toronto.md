@@ -1,12 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Against the Grain Theatre"]
 date = "2014-12-10T09:00:00-05:00"
 lastmod = "2015-04-13T17:46:00-04:00"
-people = ["Cameron McPhail","Aaron Durand","Miriam Khalil","Sharleen Joynt","Joel Ivany","Betty Waynne Allison"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428961523840/maxresdefault.jpg.jpg"
 publishDate = "2014-12-10T09:00:00-05:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md"]
+related_people = ["scene/people/cameron-mcphail.md","scene/people/aaron-durand.md","scene/people/miriam-khalil.md","scene/people/sharleen-joynt.md","scene/people/joel-ivany.md","scene/people/betty-waynne-allison.md"]
 short_description = "Against the Grain Theatre&#039;s production of #UncleJohn opens this Thursday, to the delight of indie opera lovers in Canada. After its initial premiere this summer at the Cave and Basin National Historic Site in Banff, AB, #UncleJohn has sparked much anticipation from audiences here in Toronto."
 slug = "unclejohn-in-toronto"
 title = "#UncleJohn in Toronto"

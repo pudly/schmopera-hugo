@@ -1,12 +1,12 @@
 +++
-author = "Carly Gordon"
+author = ["authors/carly-gordon.md"]
 categories = "Review"
-companies = ["Palm Beach Opera"]
 date = "2018-10-02T13:27:00-04:00"
 lastmod = "2018-10-02T13:38:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538501765644/sqDSC_0083.jpg.jpg"
 primary_image_credit = "Palm Beach Opera's Summer Opera Nights, September 2018. Photo courtesy of Palm Beach Opera."
 publishDate = "2018-10-02T13:38:00-04:00"
+related_companies = ["scene/companies/palm-beach-opera.md"]
 short_description = "With PBO&#039;s Young Artists away for the summer, the September 28 event starred South Florida mainstays: bass-baritone Neil Nelson – a familiar face from past PBO productions – and soprano Robyn Marie Lamp. The duo were joined by PBO rehearsal pianist and coach Cassie Makeeff, who heroically made the most of an electric keyboard."
 slug = "summer-opera-nights-in-palm-beach"
 title = "Summer Opera Nights in Palm Beach"

@@ -1,11 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 date = "2014-04-27T19:08:00-04:00"
 lastmod = "2015-04-27T18:06:00-04:00"
-people = ["Aaron Ferguson"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429838235315/ChrisandMireille-1024x974.jpg.jpg"
 primary_image_credit = "Christopher Enns and Mireille Asselin in Opera Atelier's Persée. Photo by Bruce Zinger."
 publishDate = "2014-04-27T19:08:00-04:00"
+related_people = ["scene/people/aaron-ferguson.md"]
 short_description = "Ah, Opera Atelier. As far as Canada&#039;s opera scene goes, OA is really its own genre. For those unfamiliar, Opera Atelier produces 17th- and 18th- century ballet/opera; the shows are directed and choreographed by co-artistic directors Marshall Pynkoski and Jeannette Lajeunesse Zingg."
 slug = "in-review-perse"
 title = "In review: Persée"

@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2018-05-30T16:27:00-04:00"
 lastmod = "2018-05-31T21:39:00-04:00"
@@ -7,6 +7,7 @@ preamble = "The recent winner of the [inaugural Glyndebourne Cup](https://www.gl
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527710306481/sqTheAngelsShareSamanthaHankeysolocreditKevinCondon02.jpg.jpg"
 primary_image_credit = "Photo: Kevin Condon."
 publishDate = "2018-05-31T11:42:00-04:00"
+related_articles = ["articles/the-rose-elf-hot-times-in-the-cool-catacombs.md"]
 short_description = "&quot;At the end of the day, it is our career and our life, and we need to make the artistic and personal choices that makes us who and what we are. It is important to accept all of the feedback, suggestions, and options with an open mind, but always sift through them to find your voice.&quot;"
 slug = "talking-with-singers-samantha-hankey"
 title = "Talking with singers: Samantha Hankey"

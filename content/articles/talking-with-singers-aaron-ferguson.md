@@ -1,12 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
-companies = ["Opera Atelier"]
 date = "2015-04-23T20:42:00-04:00"
 lastmod = "2015-04-23T20:42:00-04:00"
-people = ["Aaron Ferguson"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429836098463/Aaron-819x1024.jpg.jpg"
 publishDate = "2014-05-05T09:42:00-04:00"
+related_companies = ["scene/companies/opera-atelier.md"]
+related_people = ["scene/people/aaron-ferguson.md"]
 short_description = "Canadian tenor Aaron Ferguson is a busy guy. He&#039;s sung at the Glimmerglass Festival, Opéra de Montréal, Pacific Opera Victoria, and the Royal Opera of Versailles. He just closed a run of Lully&#039;s Persée here in Toronto at Opera Atelier, and he&#039;s getting ready to take it to Versailles later this month."
 slug = "talking-with-singers-aaron-ferguson"
 title = "Talking with singers: Aaron Ferguson"

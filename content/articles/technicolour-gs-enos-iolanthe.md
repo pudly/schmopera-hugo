@@ -1,13 +1,14 @@
 +++
-author = "John Beckett"
+author = ["authors/john-beckett.md"]
 categories = "Review"
-companies = ["English National Opera"]
 date = "2018-02-18T10:24:00-05:00"
 lastmod = "2018-02-19T09:20:00-05:00"
-people = ["Andrew Shore"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518967333824/sq---ENO-Iolanthe-Marcus-Farnsworth-Ellie-Laugharne-Clive-Barda.jpg.jpg"
 primary_image_credit = "Marcus Farnsworth and Ellie Laugharne in Iolanthe, English National Opera, 2018. Photo: Clive Barda."
 publishDate = "2018-02-19T09:20:00-05:00"
+related_articles = ["articles/in-review-the-pirates-of-penzance-at-eno.md","articles/in-review-ah-mikado.md"]
+related_companies = ["scene/companies/english-national-opera.md"]
+related_people = ["scene/people/andrew-shore.md"]
 short_description = "There were cheap laughs as well - seeing an MP with the hair of Boris Johnson was funny once, but the second time was over-doing it. An unwelcome flamingo made its way onto the stage for apparently no reason at all. The two-person cow suit made me feel like I was at a Christmas panto and not the London Coliseum - not to say that&#039;s an entirely bad thing."
 slug = "technicolour-gs-enos-iolanthe"
 title = "Technicolour G&amp;S: ENO&#039;s Iolanthe"

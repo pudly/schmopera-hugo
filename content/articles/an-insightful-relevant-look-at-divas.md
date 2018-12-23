@@ -1,5 +1,5 @@
 +++
-author = "Arturo Fernandez"
+author = ["authors/arturo-fernandez.md"]
 categories = "Review"
 date = "2018-06-22T20:51:00-04:00"
 lastmod = "2018-06-22T21:03:00-04:00"

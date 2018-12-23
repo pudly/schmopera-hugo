@@ -1,13 +1,14 @@
 +++
-author = "Thomas Pierce"
+author = ["authors/thomas-pierce.md"]
 categories = "Review"
-companies = ["Classical Opera"]
 date = "2017-10-11T22:32:00-04:00"
 lastmod = "2017-10-12T09:50:00-04:00"
-people = ["Anna Devin","Stuart Jackson","Ian Page"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507775775566/2017-10-11---Ian-Page-conducts-Classical-Opera-The-Mozartists-at-Barbican-c.-Benjamin-Ealovega.jpg.jpg"
 primary_image_credit = "Ian Page conducts Classical Opera -The Mozartists at Barbican. Photo: Benjamin Ealovega."
 publishDate = "2017-10-12T09:50:00-04:00"
+related_articles = ["articles/ian-page-mozart-imagination.md","articles/talking-with-singers-anna-devin.md","articles/in-review-classical-operas-il-vologeso.md"]
+related_companies = ["scene/companies/classical-opera.md"]
+related_people = ["scene/people/anna-devin.md","scene/people/stuart-jackson.md","scene/people/ian-page.md"]
 short_description = "As a birthday celebration Classical Opera couldn&#039;t have chosen a better program, one which extolled the magic and mystery of music. How else can you explain its ability to inspire and move us, to represent human emotion through pure sound? Ian Page and Classical Opera have shown us that music is a gift to the world. Or as Schiller put it when writing about joy, &quot;beauteous sparks of the gods&quot;."
 slug = "a-very-happy-20th-birthday-for-classical-opera"
 title = "A very happy 20th birthday for Classical Opera"

@@ -1,12 +1,12 @@
 +++
-author = "Alessia Naccarato"
+author = ["authors/alessia-naccarato.md"]
 categories = "Review"
-companies = ["Royal Opera House"]
 date = "2018-11-21T10:41:00-05:00"
 lastmod = "2018-11-21T10:41:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542814650600/sq181112_0366CarlosA%CC%81lvarezasSimonBoccanegraROH2018.jpg.jpg"
 primary_image_credit = "Carlos Álvarez as Simon Boccanegra in Simon Boccanegra, Royal Opera House, 2018. Photo: Clive Barda."
 publishDate = "2018-11-21T10:41:00-05:00"
+related_companies = ["scene/companies/royal-opera-house.md"]
 short_description = "But I was completely captivated by Ferruccio Furlanetto&#039;s Fiesco. He was the aged, revenge-hungry villain whilst still being able to inspire pity. And though it was a voice approaching the end of a long career, he had such a commanding and assured presence on stage that one couldn&#039;t help but be carried along with him."
 slug = "idealistic-lavish-simon-boccanegra-at-roh"
 title = "Idealistic &amp; lavish: Simon Boccanegra at ROH"

@@ -1,13 +1,14 @@
 +++
-author = "Loren Lester"
+author = ["authors/loren-lester.md"]
 categories = "Review"
-companies = ["The Juilliard School"]
 date = "2018-11-18T17:15:00-05:00"
 lastmod = "2018-11-19T22:10:00-05:00"
-people = ["Charles Sy"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542642885497/sq181112_juilliard_1160.jpg.jpg"
 primary_image_credit = "Anneliese Klenetsky (The Governess), Britt Hewitt (Miles), Charles Sy (Peter Quint) in The Turn of the Screw, The Juilliard School, 2018. Photo: Rosalie O'Connor."
 publishDate = "2018-11-19T10:57:00-05:00"
+related_articles = ["articles/standout-performances-in-ava-doublebill.md"]
+related_companies = ["scene/companies/the-juilliard-school.md"]
+related_people = ["scene/people/charles-sy.md"]
 short_description = "The singers are works-in-excellent-progress, with the exception of Mr. Sy who is already &quot;ready for the big time.&quot; Mr. Sy possesses an extraordinary tenor instrument that switches easily and constantly from forte to pianissimo, and from full voice to falsetto."
 slug = "Julliards-turn"
 title = "Juilliard&#039;s Turn"

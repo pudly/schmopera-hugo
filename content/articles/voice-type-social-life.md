@@ -1,10 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2017-11-26T11:12:00-05:00"
 lastmod = "2017-11-26T18:11:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511712139519/2017-11-25---Types.jpg.jpg"
 publishDate = "2017-11-26T17:59:00-05:00"
+related_articles = ["articles/singers-its-time-to-expand-your-dating-pool.md","articles/the-opera-posse-phenomenon.md"]
 short_description = "It&#039;s something to ponder: have the great composers of history inadvertently laid out a predetermined social life for generations of operatic artists? Have they added to the stereotype of rival divas by keeping them isolated to their own operas? Have they given credulity to the inevitable cross-disciplinary romances between soprano and baritone, between répétiteur and tenor?"
 slug = "voice-type-social-life"
 title = "How your voice type determines your on-the-job social life"

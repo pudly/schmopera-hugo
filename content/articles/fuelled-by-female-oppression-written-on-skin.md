@@ -1,13 +1,14 @@
 +++
-author = "Thomas Pierce"
+author = ["authors/thomas-pierce.md"]
 categories = "Review"
-companies = ["Melos Sinfonia"]
 date = "2017-10-23T12:42:00-04:00"
 lastmod = "2017-10-24T10:49:00-04:00"
-people = ["Oliver Zeffman","Ross Ramgobin","Patrick Terry","Lauren Fagan"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508856260032/2017-10-24---Lauren-Fagan-Agnes%2C-Ross-Ramgobin-The-Protector%2C-Oliver-Zeffman-conductor-pc-Nick-Rutter.jpg.jpg"
 primary_image_credit = "Lauren Fagan (Agnès) and Ross Ramgobin (The Protector) in Written on Skin with the Melos Sinfonia, 2017. Photo: Nick Rutter."
 publishDate = "2017-10-24T10:49:00-04:00"
+related_articles = ["articles/in-review-written-on-skin-at-roh.md","articles/still-stunning-written-on-skin.md"]
+related_companies = ["scene/companies/melos-sinfonia.md"]
+related_people = ["scene/people/oliver-zeffman.md","scene/people/ross-ramgobin.md","scene/people/patrick-terry.md","scene/people/lauren-fagan.md"]
 short_description = "The music develops in parallel to the narrative, twisting and turning in response to the events portrayed. From the subtle, gliding arcs of the strings during the seduction to the terrifying crescendos accompanying The Boy&#039;s murder, the score varies immensely. Benjamin is especially gifted at disseminating horror, the overwhelming psychological intensity of the opera&#039;s key moments becoming almost unbearable."
 slug = "fuelled-by-female-oppression-written-on-skin"
 title = "Fuelled by female oppression: Written on Skin"

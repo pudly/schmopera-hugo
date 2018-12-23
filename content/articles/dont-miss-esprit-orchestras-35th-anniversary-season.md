@@ -1,11 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "News"
-companies = ["Esprit Orchestra"]
 date = "2017-08-21T13:43:00-04:00"
 lastmod = "2017-08-25T10:08:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503611528625/2017-08-24---Nagata-Shachu-2---Copy.jpg.jpg"
 publishDate = "2017-08-25T10:08:00-04:00"
+related_companies = ["scene/companies/esprit-orchestra.md"]
 short_description = "For a pre-season taste, you can hear artists of the Esprit Orchestra and Canadian mezzo-soprano Krisztina Szabó perform Luciano Berio&#039;s Folk Songs at the Free Concert Series in the Richard Bradshaw Amphitheatre, October 3, 12pm."
 slug = "dont-miss-esprit-orchestras-35th-anniversary-season"
 title = "Don&#039;t miss: Esprit Orchestra&#039;s 35th anniversary season"

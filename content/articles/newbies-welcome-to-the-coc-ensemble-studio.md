@@ -1,13 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Canadian Opera Company Ensemble Studio","Canadian Opera Company"]
 date = "2014-01-17T13:23:00-05:00"
 lastmod = "2015-04-15T17:19:00-04:00"
-people = ["Jean-Philippe Fortier-Lazure"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429132631521/finalists-and-winners-with-rufus-wainwright-credit-michael-cooper.jpg.jpg"
 primary_image_credit = "Finalists of the 2013 Ensemble Studio Competition. Photo: Michael Cooper"
 publishDate = "2014-01-17T13:23:00-05:00"
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/jeanphilippe-fortierlazure.md"]
 short_description = "Yesterday in the Richard Bradshaw Amphitheatre, the Canadian Opera Company&#039;s Ensemble Studio kicked off the new season of the Free Concert Series. This year there are three new singers and one new pianist in the Ensemble. I&#039;ll admit the concert wasn&#039;t my first encounter with the COC young artists; I&#039;ve had the opportunity to see them at work in recent weeks, but I was no less excited to hear them all sing their &quot;introductory&quot; arias."
 slug = "newbies-welcome-to-the-coc-ensemble-studio"
 title = "Newbies: Welcome to the COC Ensemble Studio!"

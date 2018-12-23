@@ -1,5 +1,5 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2016-06-28T02:21:00+01:00"
 lastmod = "2016-06-30T21:43:00+01:00"
@@ -7,6 +7,7 @@ preamble = "The [Boston University Tanglewood Institute](http://www.bu.edu/cfa/t
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467077197619/BUTI-Ensemble.jpg.jpg"
 primary_image_credit = "Photo: Dana Lynne Varga"
 publishDate = "2016-06-29T15:06:00+01:00"
+related_articles = ["articles/how-to-make-the-most-of-your-summer-program.md","articles/all-about-the-tafelmusik-baroque-summer-institute.md"]
 short_description = "&quot;The main goal is to give these promising artists a taste of what a professional career in opera is like. They are held to very high expectations; each of them is assigned a full role and they must arrive with it 100% memorized. They are expected to be well prepared and eager to learn, show that they are team players, and act in a professional manner throughout the program.&quot;"
 slug = "new-programs-opera-at-tanglewood"
 title = "New programs: Opera at Tanglewood"

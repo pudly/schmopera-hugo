@@ -1,13 +1,14 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Classical Opera"]
 date = "2017-03-22T10:16:00+00:00"
 lastmod = "2017-03-22T13:39:00+00:00"
-people = ["Alessandro Fisher","Gemma Summerfield"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490180524663/2017-03-22---CO---Square---Alessandro-Fisher.jpg.jpg"
 primary_image_credit = "Alessandro Fisher in The First Commandment, March 2017. Photo by Sebastiano Ragusa."
 publishDate = "2017-03-22T12:28:00+00:00"
+related_articles = ["articles/la-finta-giardiniera-coming-to-a-garden-near-you.md"]
+related_companies = ["scene/companies/classical-opera.md"]
+related_people = ["scene/people/alessandro-fisher.md","scene/people/gemma-summerfield.md"]
 short_description = "&quot;Flaws&quot; like an overly thick orchestration, or a vocal tessitura that is relentless and awkward, are what thrill the lovers of music history; it&#039;s indicative of just how much of a genius Mozart was, that moments of orchestra imbalance or slightly less organic melodies - largely harmless in the big picture - seem the &quot;rudimentary&quot; product of 11 year-old Wolfgang."
 slug = "in-review-the-first-commandment"
 title = "In review: The First Commandment"

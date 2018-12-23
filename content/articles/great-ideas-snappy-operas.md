@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Mahogany Opera Group"]
 date = "2016-06-01T13:26:00-06:00"
 lastmod = "2016-07-06T16:13:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464872613264/2016-06-02---Snappy-Operas-square.jpg.jpg"
 primary_image_credit = "Photos courtesy of Mahogany Opera Group."
 publishDate = "2016-06-02T13:54:00-06:00"
+related_articles = ["articles/delightfully-creepy-mahogany-opera-groups-the-rattler.md","articles/shhdont-tell-them-its-opera.md","articles/the-kids-are-alright-youthprogrammed-music-at-the-southbank-centre.md"]
+related_companies = ["scene/companies/mahogany-opera-group.md"]
 short_description = "This week at Pembroke House, Wake-Walker and composer Emily Hall worked with a group of young opera enthusiasts on Snappy Opera I, called The Itch Witch, an opera about head lice. The young singers were split into groups, collectively representing characters like nits, strands of hair, and a comb. With the help of Snappy Operas Music Director Timothy Redmond, the kids spent a full day learning music by rote, and staging the short opera with Wake-Walker himself."
 slug = "great-ideas-snappy-operas"
 title = "Great ideas: Snappy Operas"

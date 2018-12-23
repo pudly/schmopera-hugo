@@ -1,12 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["Canadian Opera Company"]
 date = "2014-12-19T13:44:00-05:00"
 lastmod = "2015-04-13T17:35:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428960881324/BSSpic-1.jpg.jpg"
 primary_image_credit = "Broken Social Scene."
 publishDate = "2014-12-19T13:44:00-05:00"
+related_companies = ["scene/companies/canadian-opera-company.md"]
 short_description = "&quot;Mark down 2014 as the year the Canadian Opera Company put out an album with Broken Social Scene and Fucked Up. No, really.&quot;\nThat&#039;s right. With The Globe and Mail and recording label Arts &amp; Crafts, the COC is a presenting partner of Broadsheet Music: A Year in Review, a new (and free!) album full of songs about the stories and issues of 2014 that affected Canadians. "
 slug = "the-cocs-unexpected-collaboration"
 title = "The COC&#039;s unexpected collaboration"

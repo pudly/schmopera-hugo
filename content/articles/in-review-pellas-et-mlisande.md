@@ -1,14 +1,15 @@
 +++
-author = "Greg Finney"
+author = ["authors/greg.md"]
 categories = "Review"
-companies = ["Against the Grain Theatre"]
 date = "2014-06-21T09:28:00-04:00"
 lastmod = "2015-04-23T15:59:00-04:00"
-people = ["Miriam Khalil","Etienne Dupuis","Gregory Dahl","Alain Coulombe","Joel Ivany"]
 preamble = "This is a guest review by Canadian baritone and theatro-phile Gregory Finney. He had the chance to see AtG's _Pelléas et Mélisande_ before I will, and he has been kind enough to fill you in. Thanks, Greg!"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429819151498/blockd-3207-683x1024.jpg.jpg"
 primary_image_credit = "Miriam Khalil as Mélisande. Photo: Darryl Block"
 publishDate = "2014-06-21T09:28:00-04:00"
+related_articles = ["articles/dont-miss-atgs-messiah.md","articles/in-review-ayre.md"]
+related_companies = ["scene/companies/against-the-grain-theatre.md"]
+related_people = ["scene/people/miriam-khalil.md","scene/people/etienne-dupuis.md","scene/people/gregory-dahl.md","scene/people/alain-coulombe.md","scene/people/joel-ivany.md"]
 short_description = "Do you like Debussy? Go see this show. Do you like art? Go see this show. Do you like a coherent plotline that&#039;s easy to follow and sticks to a linear timeline? Maybe, prepare yourself before seeing this show."
 slug = "in-review-pellas-et-mlisande"
 title = "In review: Pelléas et Mélisande"

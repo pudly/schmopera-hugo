@@ -1,11 +1,11 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
-companies = ["The Metropolitan Opera"]
 date = "2014-01-18T13:15:00-05:00"
 lastmod = "2015-04-28T23:47:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430279227620/Zerbinetta.png"
 publishDate = "2014-01-18T13:15:00-05:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md"]
 short_description = "It&#039;s Saturday, and I want to be entertained. And as if the triumvirate gods of Opera, Internet and Day-Of-Week united forces for bored opera-lovers everywhere, the Metropolitan Opera put up its 1988 production of Ariadne auf Naxos. "
 slug = "saturday-afternoon-with-ariadne"
 title = "Saturday Afternoon with Ariadne"

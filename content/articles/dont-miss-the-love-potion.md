@@ -1,11 +1,12 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2018-05-12T09:10:00-04:00"
 lastmod = "2018-05-15T09:51:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526392272572/LPotion-TD-223.jpg.jpg"
 primary_image_credit = "Bernard Holcomb as Tristan and Jamie Chamberlin as Isolde with ensemble in The Love Potion, Long Beach Opera, 2018. Photo: Keith Ian Polakoff."
 publishDate = "2018-05-12T14:44:00-04:00"
+related_articles = ["articles/a-futuristic-love-story-the-invention-of-morel.md","articles/love-potion-number-nein.md"]
 short_description = "&quot;As social beings, we depend on love and being loved,&quot; says Mitisek, explaining our fascination with love stories - even those that end in death. An opera like The Love Potion tells us about the possibilities and the limits of love, and we can experience its extremes through catharsis."
 slug = "dont-miss-the-love-potion"
 title = "Don&#039;t miss: The Love Potion"

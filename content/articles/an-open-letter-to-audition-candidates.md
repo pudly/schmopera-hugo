@@ -1,5 +1,5 @@
 +++
-author = "Laura Attridge"
+author = ["authors/laura-attridge.md"]
 categories = "Op-ed"
 date = "2017-07-16T10:27:00-04:00"
 lastmod = "2017-07-17T08:13:00-04:00"

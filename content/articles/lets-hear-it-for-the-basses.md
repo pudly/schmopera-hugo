@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Humour"
 date = "2016-04-13T16:53:00+01:00"
 lastmod = "2016-04-14T11:38:00+01:00"
-people = ["Christian van Horn","Neil Craighead","Ain Anger","Robert Pomakov","Alain Coulombe"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460628385547/2016-04-14---Double-Bass.jpg.jpg"
 primary_image_credit = "Photo: Jenny Downing via Flickr."
 publishDate = "2016-04-14T11:38:00+01:00"
+related_articles = ["articles/fachisms-stereotypes-for-a-reason.md","articles/talking-with-singers-christian-van-horn.md"]
+related_people = ["scene/people/christian-van-horn.md","scene/people/neil-craighead.md","scene/people/ain-anger.md","scene/people/robert-pomakov.md","scene/people/alain-coulombe.md"]
 short_description = "It can be a tough life for those basses; not only are they rarely the title role in an opera, but they spend a huge amount of kind being skeevy, grabby old men at the party, or money-hungry meddlers, or murderous recluses. When they&#039;re not any of those things, they&#039;re penniless philosophers making much out of the meaning of donating a coat, or morally questionable cult leaders, or four different faces of the devil."
 slug = "lets-hear-it-for-the-basses"
 title = "Let&#039;s hear it for the basses"

@@ -1,12 +1,13 @@
 +++
-author = "Jenna Simeonov"
+author = ["authors/jenna.md"]
 categories = "Review"
-companies = ["Canadian Opera Company","Canadian Opera Company Ensemble Studio"]
 date = "2015-04-10T20:26:00-04:00"
 lastmod = "2015-04-10T20:26:00-04:00"
-people = ["Gordon Bintner","Andrew Haji","Liz Upchurch"]
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428711874026/IMG_20150409_115917.jpg.jpg"
 publishDate = "2015-04-09T15:26:00-04:00"
+related_articles = ["articles/in-review-quinn-kelseys-songs-from-the-heart.md","articles/opera-for-lunch-the-roh-young-artists-in-concert.md","articles/meeting-for-lunch-the-coc-ensemble-studio-in-recital.md"]
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
+related_people = ["scene/people/gordon-bintner.md","scene/people/andrew-haji.md","scene/people/liz-upchurch.md"]
 short_description = "Review of COC Ensemble Studio members Gordon Bintner, Andrew Haji, and Jennifer Szeto, with Head of the Ensemble Studio, Liz Upchuch, in recital at the Richard Bradshaw Amphitheatre, April 9, 2015."
 slug = "lieder-for-lunch-the-coc-ensemble-studio-in-recital"
 title = "Lieder for Lunch: the COC Ensemble Studio in Recital"
