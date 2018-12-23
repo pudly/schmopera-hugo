@@ -1,5 +1,5 @@
 +++
-author = ""
+author = ["authors/michael-fabiano.md", "authors/kristen-raney.md"]
 categories = "Editorial"
 companies = []
 date = "2018-12-20T18:05:00+00:00"
@@ -11,7 +11,9 @@ preamble = "Preamble. Pellentesque habitant morbi tristique senectus et netus et
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/2018/12/unnamed.jpg"
 primary_image_credit = "Image taken by some clown."
 publishDate = "2018-12-20T18:05:00+00:00"
-related_articles = ["articles/4-secrets-for-better-high-notes.md", "articles/in-review-dissociative-me.md"]
+related_articles = ["articles/overdue-for-a-chicago-performance-the-haunted-manor.md", "articles/4-secrets-for-better-high-notes.md", "articles/in-review-dissociative-me.md"]
+related_companies = ["scene/companies/opera-north.md", "scene/companies/american-opera-projects.md", "scene/companies/toy-piano-composers.md"]
+related_people = ["scene/people/andrew-haji.md", "scene/people/adam-fisher.md", "scene/people/alisa-jordheim.md"]
 short_description = "Short Description. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis orci nulla, venenatis vitae fringilla sit amet, commodo in sem."
 slug = "sample-article-with-all-the-fixins"
 title = "Sample article with all the fixins"

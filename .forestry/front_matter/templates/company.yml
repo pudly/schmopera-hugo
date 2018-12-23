@@ -38,5 +38,3 @@ fields:
   - social-media
   label: Social Media
   name: social_media
-pages:
-- content/scene/companies/fake-company.md
