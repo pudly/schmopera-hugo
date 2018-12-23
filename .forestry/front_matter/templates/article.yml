@@ -99,5 +99,3 @@ fields:
 - type: image_gallery
   name: image_gallery
   label: Image Gallery
-pages:
-- content/articles/here-s-a-new-article.md
