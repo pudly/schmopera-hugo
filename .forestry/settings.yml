@@ -28,8 +28,10 @@ sections:
 - type: directory
   path: content/scene/people
   label: People
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - person
 - type: directory
   path: content/about
   label: About
