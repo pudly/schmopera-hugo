@@ -39,5 +39,3 @@ fields:
   label: Facebook
   name: facebook
   description: Must be complete URL (https://www.facebook.com/username)
-pages:
-- content/authors/jenna-douglas.md

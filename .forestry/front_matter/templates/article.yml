@@ -11,7 +11,9 @@ fields:
 - type: text
   name: slug
   label: Slug
-  description: Optional URL Slug
+  description: Friendly URL for article (name-of-article)
+  config:
+    required: true
 - type: list
   name: author
   label: Author(s)
