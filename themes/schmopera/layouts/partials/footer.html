@@ -1,8 +1,10 @@
-{{/* ------------------------------------------------------- 
-    
-  PARTIAL TEMPLATE: FOOTER
+{{/*
 
------------------------------------------------------------- */}}
+  {# ------------------------------------------------------- #}
+  {# PARTIAL TEMPLATE: FOOTER                                #}
+  {# ------------------------------------------------------- #}
+  
+*/}}
 
       <footer class="page--footer">
         <div class="container">
@@ -10,7 +12,7 @@
           <section class="footer--posts">
             <h3>Recent Posts</h3>
             <ul class="post--list __micro">
-            {{ range first 6 (where .Data.Pages "Type" "articles") }}
+            {{ range first 6 (where $.Site.Pages "Type" "articles") }}
               <li>
                   <a href="{{.Permalink}}" class="post--list-title">
                     <em class="post--list-meta-date">{{.Date.Format "01.02.06"}}</em>
@@ -60,6 +62,4 @@
             </div>
         </section>
       </footer>
-
-
       {{- partial "meganav.html" . -}}

@@ -1,8 +1,11 @@
-<!--
-//
-//  OUTPUT POSTS
-//––––––––––––––––––––––––––––––––––––––––––––––––––
--->
+{{/*
+
+  {# ------------------------------------------------------- #}
+  {# PARTIAL TEMPLATE: PAGINTAION                            #}
+  {# ------------------------------------------------------- #}
+  
+*/}}
+
 {{ $paginator := .Paginate (where .Data.Pages "Type" "articles") }}
 
 <ul class="post--list">
@@ -22,10 +25,13 @@
         */}}
 
         <picture>
-          <img src="{{ .Params.primary_image }}" alt="{{ .Title | htmlUnescape }}">
+          {{ $img := replace .Params.primary_image "/upload/" "/upload/c_scale,w_1360/c_crop,g_faces:auto,w_1360,h_760/" }}
+          <img data-src="{{ $img }}" alt="{{ .Title | htmlUnescape }}" class="lazyload">
         </picture>
 
         {{/*
+          
+          TODO:
         <span class="post--meta">
           {% if object.publish_date %}
           <em class="post--meta-date">{{ object.publish_date|date('F d, Y') }}</em>
@@ -44,7 +50,7 @@
         */}}
       </a>
 
-      <p class="post--list-desc">{{ .Params.short_description }}</p>
+      <p class="post--list-desc">{{ .Params.short_description | htmlUnescape }}</p>
 
       {{/*
       {% if object.youtube_url %}

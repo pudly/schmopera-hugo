@@ -160,10 +160,12 @@
   }
 
   nav {
-    margin-top: 20px;
-
     > ul {
       clear: left;
+    }
+
+    &:not(:first-child) {
+      margin-top: 20px;
     }
   }
 

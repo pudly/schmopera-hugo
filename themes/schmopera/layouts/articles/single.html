@@ -208,51 +208,41 @@
     
   */}}
 
-  {{/*
-    
-    TODO:    
-    Prev/Next Posts
-
     <nav class="post--single_jump">
-    {% set prev = prevItem(item, 'publish_date', true) %}
-    {% set next = nextItem(item, 'publish_date', true) %}
-    {% if prev %}
-      <a href="{ url(prev) }" title="Newer" class="post--single_jump-prev">
+    {{ with .PrevInSection }}
+      <a href="{{.Permalink}}" title="Newer" class="post--single_jump-prev">
 
         <i class="icon-arrow-left"></i>
 
-        {% set srcset = prev.primary_image|imageCrop(100, 100) + ", " +  prev.primary_image|imageCrop(200, 200) + " 2x" %}
+        {{/* set srcset = prev.primary_image|imageCrop(100, 100) + ", " +  prev.primary_image|imageCrop(200, 200) + " 2x" %}
         <picture>
           <source srcset="{ srcset }" media="(min-width: 40em)">
           <img src="{ prev.primary_image|imageCrop(60, 60) }" alt="{ prev.name }">
         </picture>
+        */}}
 
-        <span>{ prev.name }</span>
+        <span>{{.Title}}</span>
 
       </a>
-    {% endif %}
-    {% if next %}
-      {% if prev %}
-      <a href="{ url(next) }" title="Older" class="post--single_jump-next">
-      {% else %}
-      <a href="{ url(next) }" title="Older" class="post--single_jump-next __single">
-      {% endif %}
+    {{ end }}      
+    {{ with .NextInSection }}
+      <a href="{{.Permalink}}" title="Older" class="post--single_jump-next">
 
         <i class="icon-arrow-right"></i>
 
-        {% set srcset = next.primary_image|imageCrop(100, 100) + ", " +  next.primary_image|imageCrop(200, 200) + " 2x" %}
+        {{/* set srcset = next.primary_image|imageCrop(100, 100) + ", " +  next.primary_image|imageCrop(200, 200) + " 2x" %}
         <picture>
           <source srcset="{ srcset }" media="(min-width: 40em)">
           <img src="{ next.primary_image|imageCrop(60, 60) }" alt="{ next.name }">
         </picture>
+        */}}
 
-        <span>{ next.name }</span>
+        <span>{{.Title}}</span>
 
       </a>
-    {% endif %}
+    {{ end }}
     </nav>
-  
-  */}}
+
 
   {{/* 
     
@@ -393,12 +383,7 @@
     {{ end }}
     </div>
     <div>
-        {{ with .PrevInSection }}
-          <a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
-        {{ end }}
-        {{ with .NextInSection }}
-          <a class="next" href="{{.Permalink}}"> {{.Title}}</a>
-        {{ end }}
+
     </div>
 </aside>
 

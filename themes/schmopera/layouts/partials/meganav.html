@@ -1,55 +1,56 @@
-
 {{/*
+
 {# ------------------------------------------------------- #}
 {# PARTIAL TEMPLATE: MEGANAV                               #}
 {# ------------------------------------------------------- #}
 
-{% set data_articles = cms.articles %}
-{% set data_articles = data_articles|sort('publish_date', true) %}
-{% set data_articles = data_articles|slice(0,6) %}
+search
+site map
+recent articles
 
-{% set data_videos = cms.videos %}
-{% set data_videos = data_videos|sort('publish_date', true) %}
-{% set data_videos = data_videos|slice(0,2) %}
-
-{% set data_categories = cms.categories %}
-{% set data_categories = data_categories|sort('name', false) %}
 */}}
+
 <nav id="nav-primary" class="nav--primary">
   <div class="container">
     <section class="nav--primary_content">
-      {# search #}
+      {{/*
+
+        TODO:
+        Search
+        
       <form action="/search-results/" method="get" data-search-index="false" class="nav--primary_search">
         <input type="text" name="q" placeholder="Search the site..." id="tipue_search_input" />
         <button type="submit"><i class="icon-search"></i></button>
       </form>
+      */}}
 
-      {# share #}
+      {{/* share */}}
       <nav class="nav--share">
         <h3>Share this page</h3>
         <a href="https://www.facebook.com/sharer/sharer.php?u={ site_url }{ getCurrentUrl()|replace('&', '&amp;', 'g') }" class="social--facebook pill" title="Share on Facebook"><i class="icon-facebook"></i> Share <em class="social--count_facebook" data-url="{ site_url }{ getCurrentUrl()|replace('&', '&amp;', 'g') }"></em></a>
         <a href="https://twitter.com/share?url={ site_url }{ getCurrentUrl()|replace('&', '&amp;', 'g') }&via=schmopera&text={ item.name|url_encode|default('Schmopera, opera from another angle') }" class="social--twitter pill" title="Share on Twitter"><i class="icon-twitter"></i> Tweet <em class="social--count_twitter" data-url="{ site_url }{ getCurrentUrl()|replace('&', '&amp;', 'g') }"></em></a>
       </nav>
 
-      {# site map #}
+      {{/* site map */}}
       <nav class="nav--primary_sitemap">
         <h3>The Blog</h3>
         <ul>
-          <li><a href="{ url('articles') }">All Articles</a></li>
-          <li><a href="{ url('videos') }">All Videos</a></li>
-
-          {% for object in data_categories %}
-            <li><a href="{ url(object) }">{ object.name }</a></li>
-          {% endfor %}
-
-          <li><a href="{ url('authors') }">Authors</a></li>
+          <li><a href="/">All Articles</a></li>
+          <li><a href="/categories/editorial/">Editorials</a></li>
+          <li><a href="/categories/how-to/">How-to</a></li>
+          <li><a href="/categories/humour/">Humour</a></li>
+          <li><a href="/categories/interview/">Interviews</a></li>
+          <li><a href="/categories/news/">News</a></li>
+          <li><a href="/categories/op-ed/">Op Ed</a></li>
+          <li><a href="/categories/review/">Reviews</a></li>
+          <li><a href="/authors/">Authors</a></li>
         </ul>
 
         <h3>The Scene</h3>
         <ul>
-          <li><a href="{ url('scene') }">What is it?</a></li>
-          <li><a href="{ url('companies') }">Companies</a></li>
-          <li><a href="{ url('people') }">People</a></li>
+          <li><a href="/scene/">What is it?</a></li>
+          <li><a href="/scene/companies">Companies</a></li>
+          <li><a href="/scene/people">People</a></li>
         </ul>
 
         <h3>The Store</h3>
@@ -74,44 +75,18 @@
         </ul>
       </nav>
 
-      <nav class="nav--primary_recent-videos">
-        <a href=""><h3>Recent Videos</h3></a>
-        <ul class="video--list">
-        {% for object in data_videos %}
-            <li>
-              <a href="{ url(object)|replace('&', '&amp;', 'g') }" class="video--list-title">
-                {% if object.primary_image %}
-
-                <picture>
-                  {% set srcset = object.primary_image|imageCrop(400, 140) + ", " +  object.primary_image|imageCrop(800, 280) + " 2x" %}
-                  <!-- <source srcset="{ srcset }" media="(min-width: 40em)"> -->
-                    <img
-                      class="lazyload"
-                      data-src="{ object.primary_image|imageCrop(400, 140) }" alt="{ object.name }"
-                      data-srcset="{ srcset }" alt="{ item.name }"
-                      >
-                </picture>
-                {% endif %}
-                <strong>{ object.name }</strong>
-              </a>
-            </li>
-        {% endfor %}
-        </ul>
-      </nav>
-
+      {{/* recent articles */}}
       <nav class="nav--primary_recent-articles">
         <a href=""><h3>Recent Articles</h3></a>
         <ul class="post--list __micro">
-        {% for object in data_articles %}
-          <li>
-            <a href="{ url(object)|replace('&', '&amp;', 'g') }" class="post--list-title">
-              {% if object.publish_date %}
-              <em class="post--list-meta-date">{ object.publish_date|date('m.d.y') }</em>
-              {% endif %}
-              <h4>{ object.name }</h4>
-            </a>
-          </li>
-        {% endfor %}
+          {{ range first 10 (where $.Site.Pages "Type" "articles") }}
+            <li>
+                <a href="{{.Permalink}}" class="post--list-title">
+                  <em class="post--list-meta-date">{{.Date.Format "01.02.06"}}</em>
+                  <h4>{{.Title | htmlUnescape }}</h4>
+                </a>
+            </li>
+          {{ end }}
         </ul>
       </nav>
     </section>
