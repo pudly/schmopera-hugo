@@ -73,8 +73,10 @@
       */}}
 
       <picture>
-        <img src="{{ .Params.primary_image }}" alt="{{ .Title }}">
+        {{ $img := replace .Params.primary_image "/upload/" "/upload/c_scale,w_1360/" }}
+        <img src="" data-src="{{ $img }}" alt="{{ .Title | htmlUnescape }}" class="lazyload">
       </picture>
+
       <h1><span>{{ .Title }}</span></h1>
 
       <span class="post--meta">
@@ -111,7 +113,6 @@
   */}}
 
   {{/* Disclaimer */}}
-    
   {{ with .Params.disclaimer }}
     <section class="post--single_disclaimer">
       {{ . }}
@@ -208,6 +209,7 @@
     
   */}}
 
+  {{/* Previous and Next Articles */}}
     <nav class="post--single_jump">
     {{ with .PrevInSection }}
       <a href="{{.Permalink}}" title="Newer" class="post--single_jump-prev">
