@@ -98,6 +98,19 @@
       <span class="post--single_hero-credit">{{ . }}</span>
     {{ end }}
 
+    <h2> Authors </h2>
+
+
+    {{ with .Params.author }}
+    <ul>
+      {{ range $author := . }}
+        {{ with $.Site.GetPage "page" $author }}
+          <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+    {{ end }}
+
 
   {{/* 
     
@@ -206,7 +219,6 @@
       </div>
     {% endfor %}
     </section>
-    
   */}}
 
   {{/* Previous and Next Articles */}}
@@ -246,43 +258,35 @@
     </nav>
 
 
-  {{/* 
-    
-    TODO:
-    Related Content 
-    
-    {% if item.related_articles|size !== 0 || item.related_videos|size !== 0 %}
-    {% set relitems = merge(item.related_articles, item.related_videos) %}
-    {% set relitems = relitems|sort('publish_date', true) %}
+  {{/* Related Content */}}
+
+  {{ with .Params.related_articles }}
     <section class="post--single_related">
-      <h2 class="pill">{ item.related_content_heading|default('Related Content') }</h2>
+      <h2 class="pill">Related Content</h2>
       <ul class="post--list __mini">
-        {% for relation in relitems %}
+      {{ range $article := . }}
+        {{ with $.Site.GetPage "page" $article }}
+                <li><a href=""></a></li>
         <li>
-          <a href="{ url(relation) }" class="post--list-title">
+          <a href="{{.Permalink}}" class="post--list-title">
+            {{/*
             {% set srcset = relation.primary_image|imageCrop(100, 100) + ", " +  relation.primary_image|imageCrop(200, 200) + " 2x" %}
             <picture>
               <source srcset="{ srcset }" media="(min-width: 40em)">
               <img src="{ relation.primary_image|imageCrop(100, 100) }" alt="{ relation.name }">
             </picture>
+            */}}
+            <h1>{{ .Title }}</h1>
 
-            <h1>{ relation.name }</h1>
-
-            <p class="post--list-desc">{ relation.short_description }</p>
-
-            {% if relation.youtube_url %}
-              <span class="btn post--button">Watch Video</span>
-            {% else %}
-              <span class="btn post--button">Read More</span>
-            {% endif %}
+            <p class="post--list-desc">{{ .Params.short_description | htmlUnescape }}</p>
           </a>
         </li>
-        {% endfor %}
+        {{ end }}
+      {{ end }}
       </ul>
     </section>
-    {% endif %}
+  {{ end }}
 
-  */}}
 
   {{/* 
     
