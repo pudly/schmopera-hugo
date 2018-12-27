@@ -45,4 +45,12 @@ public_path: https://res.cloudinary.com/schmopera/image/upload
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":year:/:month:/:filename:"
+build:
+  preview_command: hugo -D
+  publish_command: hugo
+  preview_env:
+  - HUGO_ENV=Staging
+  publish_env:
+  - HUGO_EVN=Production
+  output_directory: public
 version: '0.52'
