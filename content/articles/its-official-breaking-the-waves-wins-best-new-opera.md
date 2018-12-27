@@ -38,8 +38,7 @@ Part of MCANA's mission is to foster excellence, which we do both within our org
 
 **Arthur Kaptainis**: I believe strongly that the MCANA award should stress music as an organic element of opera. It is possible to create a reasonably effective stage drama with declamatory vocal lines and generic instrumental support. Opera, however, should be more than this.
 
-<figure data-type="image">
-<figpcaption></figcaption>
+<figure data-type="image">{{% md %}}<figpcaption></figcaption>
 </figure>
 
 ## In which cities and companies do you see promising work being done to foster new opera?

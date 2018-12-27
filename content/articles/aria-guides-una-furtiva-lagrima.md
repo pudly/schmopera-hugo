@@ -12,8 +12,7 @@ slug = "aria-guides-una-furtiva-lagrima"
 title = "Aria guides: &quot;Una furtiva lagrima&quot;"
 +++
 
-<figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445465677598/Aria-Guide---Una-furtiva-lagrima---p1---Annotated---Cropped.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445465677598/Aria-Guide---Una-furtiva-lagrima---p1---Annotated---Cropped.jpg.jpg)
 </figure>
 
 1. This is a surprisingly difficult start to the aria. The combination of [u] vowel and the starting pitch in *passaggio*-land can make a tenor feel like he's walking on eggshells. It's all about the way you place that first B-flat, on the "-na" of "una". That little portamento (which you should do because it's beautiful, and Donizetti took the time to write it in) can make it easy to fall down from the F; that will give it a heavy accent that you don't want, and you might get flat in the B-flats. Since there are a few phrases that start like this, it's something you want to get into your muscle memory early on.<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445465748904/Aria-Guide---Una-furtiva-lagrima---p2---Annotated---Cropped.jpg.jpg) </figure>

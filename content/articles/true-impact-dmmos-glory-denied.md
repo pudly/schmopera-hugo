@@ -18,8 +18,7 @@ title = "True impact: DMMO&#039;s Glory Denied"
 
 This is Des Moines Metro Opera's second opera performed at Camp Dodge, and I hope it will not be the last. Aside from the physical location, the collaboration with the military community produces numerous benefits. The participation of veterans and active duty service members in the post-show panel discussion helped to bridge the gap between theater and reality. Cipullo's music can convey the passion and angst of a soldier's true story, but seeing a Vietnam veteran with tears in his eyes as he talked about the loss of his best friend, a POW who never returned, breaks your heart with visceral power. Putting the faces of real people, fellow Iowans, at the front of the discussion helped to highlight the universal themes of *Glory Denied*.
 
-<figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542902591057/DSC_3017.png)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542902591057/DSC_3017.png)
 <figcaption>*Glory Denied*, Des Moines Metro Opera, 2018. Photo: </figcaption>
 </figure>
 
@@ -32,8 +31,7 @@ The orchestra under the direction of Joshua Horsch provided the varied emotional
 There are only four characters in *Glory Denied*, the younger and older versions of Jim Thompson and his wife Alyce. The story is told in a non-linear fashion, jumping back and forth in time. The audience is experiencing Jim's life as he does. Even when he returns home after nine years of captivity, he never truly leaves his POW camp cage. Similarly, he cannot leave behind his idealized memories of his life before the war. The conflict between memory and reality dominates his mental struggle, and all he can do is fight to survive the past and present.
 
 
-<figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542902764459/DSC_2712.png)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542902764459/DSC_2712.png)
 <figcaption>*Glory Denied*, Des Moines Metro Opera, 2018. Photo: </figcaption>
 </figure>
 
@@ -43,8 +41,7 @@ Younger Thompson, the prisoner of war, was a physically grueling role, and John 
 
 Older Alyce was the most controversial figure of the opera. One moment she would piss you off, and then her next scene would break your heart. Many of the choices she makes during Jim's absence are unsettling. Some of her actions are easier to fathom than others. She is lonely and has four young children to raise, so I can understand why she would turn to another man for companionship and financial security. Her refusal to allow Jim's name to be released to the public or to make POW bracelets with his name was perplexing and frustrating. Her reaction came across as callous, and with little to no explanation for her motives in that scene, it is easy to demonize her. Unlike Jim's idealized memory of her, Alyce is not perfect. She's a messy human being, but that doesn't make her a villain. Jim tells her "I want what I left," but this is impossible. She cannot exist as a time capsule from nine years ago, and I can understand how she would resent this.
 
-<figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542902959789/DSC_2998.png)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542902959789/DSC_2998.png)
 <figcaption>*Glory Denied*, Des Moines Metro Opera, 2018. Photo: </figcaption>
 </figure>
 
@@ -56,8 +53,7 @@ Older Jim is just as complicated as his wife, and while it was easier to sympath
 
 In stark contrast were the scenes in which Jim forgives his wife and asks to start again. Mayes sang with haunting beauty, his pianissimo seemingly freezing time, making it all the more jarring when Alyce rejects his olive branch.
 
-<figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542903217155/DSC_2665.png)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542903217155/DSC_2665.png)
 <figcaption>*Glory Denied*, Des Moines Metro Opera, 2018. Photo: </figcaption>
 </figure>
 

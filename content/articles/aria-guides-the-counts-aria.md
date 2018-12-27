@@ -28,8 +28,7 @@ Baritones can find endless ways of delivering the lines in this recit; I'm likel
 
 ### The Aria
 
-<figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444362061796/CountAriaPage1---Annotated.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444362061796/CountAriaPage1---Annotated.jpg.jpg)
 </figure>
 
 1. Like the balance of speaking and singing in the recit, this aria is about balance, too; it's about balancing the Count's schizophrenic rage with decent singing. A good place to start is with the recurring figure at the top, under "Vedrò, mentr'io sospiro". The shorter notes need a bit of a tenuto attack, full of vowel; it may feel like you're limping a bit, but without the extra care on the eighth notes, they'll sound clipped and not sung, especially in a larger space. 

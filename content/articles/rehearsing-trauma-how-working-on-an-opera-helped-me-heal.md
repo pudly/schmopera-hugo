@@ -45,8 +45,7 @@ My experience was very different from Patricia's. However, I was able to use the
 
 All my love,
 
-<figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475137466545/RWTransparentResized.jpg.jpg)</figure>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475137466545/RWTransparentResized.jpg.jpg)</figure>
 
 Rebecca Woodmass
 

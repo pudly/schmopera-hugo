@@ -77,7 +77,7 @@
         <img src="" data-src="{{ $img }}" alt="{{ .Title | htmlUnescape }}" class="lazyload">
       </picture>
 
-      <h1><span>{{ .Title }}</span></h1>
+      <h1><span>{{ .Title | htmlUnescape }}</span></h1>
 
       <span class="post--meta">
         <em class="post--meta-date">{{ .Date.Format "Jan 2, 2006" }}</em>
@@ -276,7 +276,7 @@
               <img src="{ relation.primary_image|imageCrop(100, 100) }" alt="{ relation.name }">
             </picture>
             */}}
-            <h1>{{ .Title }}</h1>
+            <h1>{{ .Title | htmlUnescape }}</h1>
 
             <p class="post--list-desc">{{ .Params.short_description | htmlUnescape }}</p>
           </a>

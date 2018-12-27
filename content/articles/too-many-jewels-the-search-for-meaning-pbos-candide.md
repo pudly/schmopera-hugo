@@ -18,15 +18,13 @@ Any opera containing the line "I am, I admit, extremely fond of the potato" is, 
 
 "30,000 people pointlessly die – probably for the best of all possible reasons," remarked narrator Pangloss – portrayed by Broadway habitué Ron Raines – upon the siege of Westphalia and the massacre of its eccentric residents. Though Raines recited the words with lighthearted sarcasm, the circumstances beyond the sheltering walls of the concert hall wove poignancy into the cynical libretto. The quip may well have been parroting any number of Second Amendment apologists who have paraded across the news cycle over the past ten days: Seventeen teenagers are dead, but at least our freedom is intact. All's for the best.
 
-<figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519601578143/Ron-%26-Miles.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519601578143/Ron-%26-Miles.jpg.jpg)
 <figcaption>Ron Raines and Miles Mykkanen in *Candide*, Palm Beach Opera, 2018. Photo: Bruce Bennett.</figcaption>
 </figure>
 
 PBO's *Candide* lent itself well to darker musings in a performance that excelled musically but struggled comedically. Tenor [Miles Mykkanen](/scene/people/miles-mykkanen/) in the title role sang with resonance and spot-on spirit, delivering a show-stopping "It Must Be So." Clad in lederhosen, Mykkanen's *Candide* was grinning and guileless – a definite highlight. Opposite Mykkanen, soprano [Alisa Jordheim](/scene/people/alisa-jordheim/) aced Cunegonde's coloratura pyrotechnics with a clear voice and thoughtful interpretation, and her duets with the tenor were warmly sung. Musically, Jordheim's "Glitter and Be Gay" was winningly executed, but was unsettled by awkward staging: while Cunegonde fumbled with one too many pieces of prop jewelry, the witty text and playful score were forced to do the comedic heavy lifting.
 
-<figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519601561192/Denyce-G-%232.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519601561192/Denyce-G-%232.jpg.jpg)
 <figcaption>Denyce Graves in *Candide*, Palm Beach Opera, 2018. Photo: Bruce Bennett.</figcaption>
 </figure>
 
@@ -34,8 +32,7 @@ Overall, comic timing was off. Jokes landed a second too late, with overplayed d
 
 As saucy servant girl Paquette, soprano [Kasia Borowiec](/scene/people/kasia-borowiec/) sang brightly and with zest. Baritone [Tobias Greenhalgh](/scene/people/tobias-greenhalgh/) caught big laughs as a vain – and totally fabulous – Maximilian, singing the role with whimsy and finesse.
 
-<figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519602274576/Alissa%2C-Denyce.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519602274576/Alissa%2C-Denyce.jpg.jpg)
 <figcaption>Alisa Jordheim and Denyce Graves in *Candide*, Palm Beach Opera, 2018. Photo: Bruce Bennett.</figcaption>
 </figure>
 
@@ -43,15 +40,13 @@ Scenic projections by designer Jerome Sirlin lent the production the oversaturat
 
 The Palm Beach Opera Chorus sang strongly, and had obvious (and infectious) fun cheering on the victims of an auto-da-fé, waltzing in a Parisian ballroom, and transforming into a herd of singing golden sheep. The a capella finale was breathtaking: "We're neither pure nor good nor wise," they sang. "We'll do the best we know [...] and make our garden grow."
 
-<figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519602334431/Tobias-G.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519602334431/Tobias-G.jpg.jpg)
 <figcaption>Tobias Greenhalgh in *Candide*, Palm Beach Opera, 2018. Photo: Bruce Bennett.</figcaption>
 </figure>
 
 At the time of the operetta's premiere in 1956, Leonard Bernstein and a coterie of librettists – including Lillian Hellman and Stephen Sondheim, among others – were commenting on a post-war reality, where the horrors of the Holocaust still resonated and the dangers of McCarthyism ran rampant. With 2018 marking Bernstein's centennial, opera-goers around the world have no grounds to complain about a shortage of *Candide*'s this season. It's worth considering, then, what a performance of *Candide* means in 2018. Is "The Best of All Possible Worlds" a portrayal of white privilege? Is "Make Our Garden Grow" a call to action?
 
-<figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519602410524/Miles.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519602410524/Miles.jpg.jpg)
 <figcaption>Miles Mykkanen in *Candide*, Palm Beach Opera, 2018. Photo: Bruce Bennett.</figcaption>
 </figure>
 
