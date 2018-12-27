@@ -105,7 +105,7 @@
     <ul>
       {{ range $author := . }}
         {{ with $.Site.GetPage "page" $author }}
-          <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
+          <li><a href="{{.Permalink}}">{{ .Title }}{{ .Params.primary_image }}</a></li>
         {{ end }}
       {{ end }}
     </ul>

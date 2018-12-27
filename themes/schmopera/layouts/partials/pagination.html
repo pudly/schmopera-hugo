@@ -29,10 +29,20 @@
           <img src="" data-src="{{ $img }}" alt="{{ .Title | htmlUnescape }}" class="lazyload">
         </picture>
 
+        <span class="post--meta">
+          {{ with .Params.author }}
+            {{ range $author := . }}
+              {{ with $.Site.GetPage "page" $author }}
+              <em class="post--meta-author">{{ .Title }}</em>
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        </span>
+
         {{/*
           
           TODO:
-        <span class="post--meta">
+
           {% if object.publish_date %}
           <em class="post--meta-date">{{ object.publish_date|date('F d, Y') }}</em>
           {% endif %}
