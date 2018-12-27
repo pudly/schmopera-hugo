@@ -32,3 +32,11 @@ fields:
   label: Social Media
   template_types:
   - social-media
+- type: list
+  name: related_companies
+  label: Related Companies
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: companies
