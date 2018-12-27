@@ -29,7 +29,7 @@ I've always been amazed how the rehearsal process produces in me a higher awaren
 
 Until it does. Case in point: at the end of the soprano aria, there is a section marked "suddenly cheery," in contrast to previous sections. It wasn't working, and I soon realized that it was because this marking had not made it to the soprano's part. Further, I was able to connect this hopeful moment to a later arietta, in which she sings to her estranged father of her hope that he see the light, metaphorically, which presents blindness as another example of perception, the work's general theme. Light bulbs went on across the rehearsal space and the impact on everyone's performance was immediate.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498406591993/Rehearsal_in_McDavid5.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498406591993/Rehearsal_in_McDavid5.jpg.jpg)
 <figcaption>The rehearsal for the reading of my opera The System of Soothing at the McDavid Studio.</figcaption>
 </figure>
 

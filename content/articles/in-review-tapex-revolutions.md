@@ -16,7 +16,7 @@ title = "In Review: Tap:Ex Revolutions"
 I saw something beautiful on Friday night, and I'm not quite sure I can even tell you what it was. I _can_ tell you that it was the inaugural presentation of _Tapestry Explorations: Revolutions_, and that it left an impression on me.  The evening seemed to evolve on its own accord, beginning with understated and subtle entrances by performers [Neema Bickersteth](https://tapestryopera.com/node/69), [Andrew Love](/talking-to-singers-andrew-love/), [Andrea Ludwig](https://tapestryopera.com/node/65) and [Adrian Kramer](https://tapestryopera.com/node/66). They began spread out across the space, behind and among the audience. As they moved throughout the space and embodied different "characters" with each piece, they pulled your attention across the room. These four were simply pros. Choreographer [Marie-Josée Chartier](http://www.chartierdanse.com/) provided a beautiful movement aesthetic, always organic to the body but never predictable. The effect of Chartier's movements, exercised by these expert performers, had my rapt attention. At times I felt torn, unable to watch two places at once.  They took the audience through a fluid, riveting experience and I couldn't take my eyes off them.
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429843578968/Gregory.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429843578968/Gregory.jpg.jpg)
 <figcaption>Pianist Gregory Oh.</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ The first part was pretty fascinating. It started with pianist and Tapestry Musi
 Operatic characters of Gounod, Leoncavallo, Mozart and Puccini were conversing, using just lines from their arias; it culminated in a battle of wits, arranged by Benton Roark, between Tamino (the guy with _The Magic Flute_) and Silvio (of _Pagliacci_ fame). It felt light and clever at the start, and became almost tragic; it's a little heartbreaking to see Tamino start to question if Pamina is real or not.  Finally, when the four singers began the final Bach chorale, it felt like a scene of communal support in crisis; but then the four of them started walking away from each other, finally singing quietly, to themselves, in what felt like a a scared prayer.
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429843536527/Neema.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429843536527/Neema.jpg.jpg)
 <figcaption>Soprano Neema Bickersteth.</figcaption>
 </figure>
 

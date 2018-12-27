@@ -44,7 +44,7 @@ What would it look like to live with less — to actually work within yourself t
 It goes without saying, this piece also serves as a reminder. Every person you see standing in line for a shelter or asking for change has a story — we have no idea what kind of trauma, loss or challenge they have endured. No one wants to experience homelessness and no one wants to struggle with addiction. I think this piece reminds us to practice compassion and empathy; it might even inspire us to bring someone in need a warm drink on a cold day or smile and say hello as you approach them. A little kindness can go a long way.
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524674259868/OnaleaGilbertsonHeadshot.jpg)<figcaption>Onalea Gilbertson, writer and director of *Requiem for a Lost Girl*.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524674259868/OnaleaGilbertsonHeadshot.jpg.jpg)<figcaption>Onalea Gilbertson, writer and director of *Requiem for a Lost Girl*.</figcaption>
 </figure>
 
 ## What role do pieces of theatre like *Requiem* play in activism?

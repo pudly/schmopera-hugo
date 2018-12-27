@@ -18,7 +18,7 @@ As you'd expect from a teenaged fashion model, Evelyn had no shortage of interes
 This story of a love-triangle-gone-murder has all the stuff of good drama, no doubt; in fact, the story was turned into a film by Richard Fleischer in 1955, called _The Girl in the Red Velvet Swing_. I couldn't help but think to myself, jeez, Evelyn's story ould make a _great_ opera. The way-too-young pin-up girl who grows up fast in New York City; the wealthy and manipulative men around her; the murder that happens atop Madison Square Garden, right after a show. Plus, there would be more than enough excuses to squeeze a little ragtime into the score. The operatic version of this story could resemble a mash-up of _Manon_ and _Lulu_, but set in New York. 
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428714246856/GibsonGirlsBeach.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428714246856/GibsonGirlsBeach.jpg.jpg)
 <figcaption>Gibson Girls on the Beach. By Charles Dana Gibson</figcaption>
 </figure>
 

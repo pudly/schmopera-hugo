@@ -19,7 +19,7 @@ Most recently, IRCPA sent eleven young singers to mentor with Canadian operatic 
 Following the concert, IRCPA awarded its annual "Career Blueprint" to soprano Sara Schabas, who had wowed the crowd - both live and those watching and listening live on The New Classical FM - with her crystalline singing of a snippet of Strauss' *Der Rosenkavalier*. With her winnings Schabas will head to New York, where she'll be provided with new audio and video recordings, new professional photos, website consultation, professional mentoring, and more.
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541728631399/SaraSchabaswAdriannePieczonka-IMG_7562.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541728631399/SaraSchabaswAdriannePieczonka-IMG_7562.jpg.jpg)
 <figcaption>IRCPA Career Blueprint winner Sara Schabas with Adrianne Pieczonka. </figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ New voices are always the most exciting, though. Mezzo Georgia Burashko stood ou
 The evening itself could have been slightly rattling for the singers, particularly those with less professional experience. On top of the usual pressures of singing for an audience were the close quarters of microphones and video cameras, and the specificities of a live broadcast. Impressively, the singers showed little of the vicarious stress I felt on their behalf.
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541728652188/AdrianneapplaudingJoan%26Ann-PhotobyCaitlinCucci-image009.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541728652188/AdrianneapplaudingJoan%26Ann-PhotobyCaitlinCucci-image009.jpg.jpg)
 <figcaption>Adrianne Pieczonka and the singers of *New Singing Stars* applauding Joan Dornemann and IRCPA Founder/Director Ann Summers Dossena. Photo: Caitlin Cucco.</figcaption>
 </figure>
 

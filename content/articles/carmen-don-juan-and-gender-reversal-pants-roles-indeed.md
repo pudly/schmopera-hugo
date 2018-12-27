@@ -19,7 +19,7 @@ So that's a semi-serious precursor to where my mind went after pondering Don Jua
 ### 1. _Tosca_
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429238276639/tosca3.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429238276639/tosca3.jpg.jpg)
 </figure>
 
 Rome's most celebrated tenor, Tosco, has a girlfriend who paints (and who sometimes helps her friends escape prison), Maria. The powerful (yet lonely) police chief, Madama Scarpietta, comes by to blackmail the tenor (she's secretly in love with him and hates his activist girlfriend), telling him she'll torture his girlfriend unless he agrees to marry Scarpietta instead. It's still pretty dark, eh? Although when Scarpietta comes to force herself upon Tosco, it could be hard to sell the gravity of that scene to the point of Tosco stabbing a lady. Unless Scarpietta is very [Kathleen Turner in _Californication_](https://www.youtube.com/watch?v=GFNpSlqX6ZA). 

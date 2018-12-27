@@ -21,7 +21,7 @@ As for what an agent does: my job description covers a wide range of responsibil
 I wear many hats, including career counsellor, travel agent, fashion advisor, vocal coach, social media assistant, editor, proofreader, publicist and concert promoter. 
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521081312814/DomoneySoulis.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521081312814/DomoneySoulis.jpg.jpg)
 <figcaption>Kathy Domoney (left) with mezzo-soprano Maria Soulis.</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ There are several factors I look for when considering a new client:
 </ul>
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521081331737/DomoneyMontreal.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521081331737/DomoneyMontreal.jpg.jpg)
 <figcaption>Domoney with colleagues in Montréal.</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ With major opera companies having a terrific group of promising young singers on
 Another big change is the rise of independent "indie opera" companies, producing innovative and updated versions of classics, as well as new works. These are great opportunities for emerging singers to learn the craft and gain performance experience. These productions bring together audiences eager to explore  opera and singers to share their talents "up close". 
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521081351133/DomoneyNAC.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521081351133/DomoneyNAC.jpg.jpg)
 <figcaption>Domoney at the National Arts Centre in Ottawa.</figcaption>
 </figure>
 

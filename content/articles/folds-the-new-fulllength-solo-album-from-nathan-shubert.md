@@ -17,7 +17,7 @@ Later this month, Shubert releases *Folds*, his debut full-length solo album of 
 
 There's an appealing subtlety to *Folds*, a muted chain of pieces that wavers between improvisation and a feeling of familiarity. "Expressive and accessible, Nathan wrote these pieces purely for the pleasure and beauty inherent in them, not as exercises in composerly rigor or pianistic dexterity. Free of external meanings, the pieces take on their own deeply implicit, wordless significance. These pieces became *Folds*."
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483697131154/2017-01-07---Shubert---Crowe.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483697131154/2017-01-07---Shubert---Crowe.jpg.jpg)
 <figcaption>Nathan Shubert, composer/pianist/keyboardist. Photo by Elissa Crowe.</figcaption>
 </figure>
 

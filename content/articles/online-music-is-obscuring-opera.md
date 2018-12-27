@@ -65,7 +65,7 @@ What to do? It boils down to having someone around the offices at iTunes, Songza
 Wouldn't it be neat if the track listings for an opera album gave you an idea of where you were in the story? Like for _La traviata,_ instead of this:
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430272688716/Screen-Shot-2014-02-10-at-2.51.30-PM.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430272688716/Screen-Shot-2014-02-10-at-2.51.30-PM.jpg.jpg)
 </figure>
 
 This:

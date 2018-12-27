@@ -23,7 +23,7 @@ Although the participants leave the program with a strong, tangible operatic tra
 #### 8 a.m. Zumba
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436940465474/PHOTO-1---Zumba---Photo-by-Blanche-Isra%C3%ABl.jpg)<figcaption>Zumba! Photo: Centre for Opera Studies in Italy.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436940465474/PHOTO-1---Zumba---Photo-by-Blanche-Isra%C3%ABl.jpg.jpg)<figcaption>Zumba! Photo: Centre for Opera Studies in Italy.</figcaption>
 </figure>
 
 Veteran COSI participant and soprano Karine White is in Sulmona for the fourth time this year. A certified Zumba instructor, she leads a morning class as part of COSI's Bodyworks program. It is important to Artistic Director [Darryl Edwards](/darryl-edwards-on-teaching-voice/) that singers get in the habit of attending to their physical health early on. *Così 􏰀􏰁fan tutte* music director [Les Dala](/scene/people/leslie-dala/) often makes an appearance. Those who sleep through Zumba can opt to catch a yoga class later in the morning.
@@ -67,7 +67,7 @@ A few times a week, an afternoon masterclass allows select singers to present wh
 #### 3 p.m. Opera Rehearsal 
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436941276746/Photo%204%20-%20Opera%20Rehearsal%20-%20Photo%20Darryl%20Edwards.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436941276746/Photo%204%20-%20Opera%20Rehearsal%20-%20Photo%20Darryl%20Edwards.jpg.jpg)
 <figcaption>Photo: Centre for Opera Studies in Italy.</figcaption>
 </figure>
 

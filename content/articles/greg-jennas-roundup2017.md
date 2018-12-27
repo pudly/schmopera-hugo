@@ -19,7 +19,7 @@ title = "Greg &amp; Jenna&#039;s #RoundUp2017"
 **Jenna**: In an unexpected twist of 2017, the puppet opera based on a true story about a polyphagist name Tarrare became one of my top picks of the year. *The Depraved Appetite of Tarrare the Freak* was a total feat of storytelling from [Wattle & Daub](http://www.wattleanddaub.co.uk/about.html) puppeteers Tobi Poster and Aya Nakamura. There was everything from a conjoined-twins-love-aria, to a German military chorus chanting "Shit it out! Shit it out!" Tarrare's heartbreaking line seemed to sum up the bizarre story: "I don't have dreams. I just want to be full."
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514523727201/2017-02-02---TTF-2-Photo-Credit-Barney-Witts.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514523727201/2017-02-02---TTF-2-Photo-Credit-Barney-Witts.jpg.jpg)
 <figcaption>*The Depraved Appetite of Tarrare the Freak*, Wattle & Daub, 2017. Photo by Barney Witts.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ title = "Greg &amp; Jenna&#039;s #RoundUp2017"
 The show was ~4 hours long and it felt shorter than a 30-minute sitcom with the commercials removed. Take all of this and have the #flawless [Christine Goerke](/talking-with-singers-christine-goerke/) as the Valkyrie we all love, and introducing me to one of the largest, most engaging voices I've heard in a while in tenor Andreas Schager. This remount of Albery's production - which helped launch the opening of the Four Seasons Centre - featured loads of Canadian talent, and it was the perfect way to see Wagner in full for the first time.
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514563219306/2017-02-03---Gotterdammerung-MC-0646.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514563219306/2017-02-03---Gotterdammerung-MC-0646.jpg.jpg)
 <figcaption>Christine Goerke as Brünnhilde in the Canadian Opera Company's production of *Götterdämmerung*, 2017, photo: Michael Cooper.</figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ The scale and style of the production was stunning and gave the whole opera scen
 **Jenna**: I counted myself lucky to be in London for the first revival of Katie Mitchell's staging of *Written on Skin*, the 2012 opera by George Benjamin that has firmly nestled itself into the contemporary operatic canon. I had seen a handful of in-concert performances, and I was already wowed by the devastating score and the superb singing of [Barbara Hannigan](/scene/people/barbara-hannigan/) (Agnès) and [Christopher Purves](/talking-with-singers-christopher-purves/) (The Protector), but seeing the full picture at the Royal Opera House sealed my love for the opera. The final scene stayed with me for a long time; The Protector chases Agnès up the stairs with predatory rage in his eyes - and Mitchell shows it all in horrific slow-motion.
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514523741000/2017-01-17---6800-BARBARA-HANNIGAN-AS-AGNES-CHRISTOPHER-PURVES-AS-THE-PROTECTOR-ROH-PHOTO-STEPHEN-CUMMISKEY.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514523741000/2017-01-17---6800-BARBARA-HANNIGAN-AS-AGNES-CHRISTOPHER-PURVES-AS-THE-PROTECTOR-ROH-PHOTO-STEPHEN-CUMMISKEY.jpg.jpg)
 <figcaption>Barbara Hannigan as Agnès and Christopher Purves as The Protector in *Written On Skin*, ROH, 2016. Photo by Stephen Cummiskey.</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ The scale and style of the production was stunning and gave the whole opera scen
 **Greg**: The Toronto Symphony Orchestra teamed up with director Joel Ivany (Against The Grain Theatre, COC, Minnesota Opera) and choreographer [Jennifer Nichols](/scene/people/jennifer-nichols/) (Opera Atelier, Hit&Run Productions, The Extension Room) to present Kurt Weill's *The Seven Deadly Sins*, featuring Canada's own [Wallis Giunta](/scene/people/wallis-giunta/). Giunta brought her now world famous mezzo and interpretation to the Roy Thomson Hall stage in May. Supported by a remarkable quartet of singers ([Isaiah Bell](/scene/people/isaiah-bell/), [Owen McCausland](/spotlight-on-owen-mccausland/), [Geoffrey Sirett](/scene/people/geoffrey-sirett/), and [Stephen Hegedus](/scene/people/stephen-hegedus/)) Giunta and Nichols played Annas I & II in a dark, sultry, and emotional portrayal that was a stunning marriage with Toronto's premier symphony orchestra. 
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514563525006/2017-06-14---Peter-Oundjian-Wallis-Giunta-Jennifer-Nichols-Jag-Gundu.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514563525006/2017-06-14---Peter-Oundjian-Wallis-Giunta-Jennifer-Nichols-Jag-Gundu.jpg.jpg)
 <figcaption>Peter Oundjian, Wallis Giunta (centre), and Jennifer Nichols in Kurt Weill's Seven Deadly Sins, TSO. Photo: Jag Gundu.</figcaption>
 </figure>
 
@@ -72,7 +72,7 @@ The scale and style of the production was stunning and gave the whole opera scen
 **Jenna**: At this point, it's almost a staple of Toronto's opera repertoire; just as Puccini's opera never ceases to bring on the tears - for me, anyway, and if you don't weep at the "tramonto" line in Act IV, you're a robot - Against the Grain Theatre's "transladaptation" of *La bohème* adds to the mix a feeling of nostalgia. This year's revival of the 2011 production featured a new cast (save for Schmopera's own [Greg Finney](/authors/greg/) as Benoit/Alcindoro) and a new set, but stayed in the lovably dingy Tranzac Club in Toronto's Annex.
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514523784300/2017-05-20---AtGBoheme-2.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514523784300/2017-05-20---AtGBoheme-2.jpg.jpg)
 <figcaption>Owen McCausland (left) and Andrew Love in Against the Grain Theatre's *La bohème*, 2017. Photo: Darryl Block Photography.</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ The scale and style of the production was stunning and gave the whole opera scen
 The first installation of a series of workshops bringing this production to fruition, *BOUND* is the first multi-year commission project by the indie darlings who have become the first Company in Residence at the COC. *BOUND* was an exploration in citizenship, identity, and authority presented through vignettes of characters being interrogated for various "violations" in a totalitarian state. Alongside the brilliant casting of Canadian treasure Martha Burns as the voice of "The State", the ensemble of singers was a who's-who of the best talent in Canada. [Miriam Khalil](/scene/people/mirial-khalil/), [Danika Lorèn](/spotlight-on-danika-loren/), [Victoria Marshall](/scene/people/victoria-marshall/), [David Trudgen](/scene/people/david-trudgen/), [Asitha Tennekoon](/scene/people/asitha-tennekoon/), and [Michael Uloth](/spotlight-on-michael-uloth/) singing these reworked Handel arias was, alongside Tapestry's *Oksana G.*, was the most moving theatre I've seen all year. 
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514563746688/BOUND_MEDIA_308-1.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514563746688/BOUND_MEDIA_308-1.jpg.jpg)
 <figcaption>BOUND, Against the Grain Theatre, 2017. Photo by Darryl Block.</figcaption>
 </figure>
 ***

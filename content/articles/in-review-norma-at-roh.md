@@ -18,20 +18,20 @@ Despite a dearth of Druid imagery and gloomy Celtic forests, Àlex Ollé's new p
 
 For a brief moment as the curtain rose, the looming set by Alfons Flores had the look of gnarly tree branches; the lights instead revealed a dizzying lattice work of crucifixes. Crosses pervade the stage at every corner, and priests were dressed in the [capirotes](https://en.wikipedia.org/wiki/Capirote) of Spanish Easter and Holy Week celebrations. 
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474112985564/2016-09-17--Chorus-PRODUCTION-IMAGE-ROH-PHOTOGRAPHER-BILL-COOPER.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474112985564/2016-09-17--Chorus-PRODUCTION-IMAGE-ROH-PHOTOGRAPHER-BILL-COOPER.jpg.jpg)
 <figcaption>Production image from *Norma*, Royal Opera House, 2016. Photographer: Bill Cooper.</figcaption>
 </figure>
 
 Perhaps we reveal a bit about our own discomfort with some religious symbols, yet it was clear that Ollé was taking the oppressive religion and customs of *Norma* and putting them in a setting of Christian imagery, to pack an appropriate punch for contemporary listeners. "We have, in short, chosen to create a production that chimes with current social preoccupations. We're talking about the deep-rooted forces that influence social and politial thinking - forces that unite around symbols such as the cross."
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474112801064/2016-09-17---SONYA-YONCHEVA-AS-NORMA-ROH-PHOTOGRAPHER-BILL-COOPER.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474112801064/2016-09-17---SONYA-YONCHEVA-AS-NORMA-ROH-PHOTOGRAPHER-BILL-COOPER.jpg.jpg)
 <figcaption>Sonya Yoncheva as Norma in *Norma*, Royal Opera House, 2016. Photographer: Bill Cooper.</figcaption>
 </figure>
 
 It's a visually arresting production, to be sure. Also stunning were the combination of the Orchestra of the Royal Opera House under Music Director Anthony Pappano, and soprano Sonya Yoncheva in the title role. Earlier this year, we heard much flurry about [Anna Netrebko](/scene/people/anna-netrebko/)'s withdrawal from her debut in the ROH's *Norma*, yet Yoncheva was no consolation prize. She sang with glorious strength and authority, leaving no doubt of Norma's power. Her "Casta diva" had all of Bellini's endless lines, and her moments of coloratura felt relaxed and liquid. Ollé's Norma is a difficult character to play, and to find a beautiful balance between a leader with mercy and strength can be even harder to achieve as a woman. Yet Yoncheva had a powerful melding of sound, posture, and controlled moments of kindness.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474119102314/2106-09-17---3---SONYA-YONCHEVA-AS-NORMA-ROH-PHOTOGRAPHER-BILL-COOPER.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474119102314/2106-09-17---3---SONYA-YONCHEVA-AS-NORMA-ROH-PHOTOGRAPHER-BILL-COOPER.jpg.jpg)
 <figcaption>Sonya Yoncheva as Norma in *Norma*, Royal Opera House, 2016. Photographer: Bill Cooper.</figcaption>
 </figure>
 
@@ -41,13 +41,13 @@ So, Pappano's deft handling of each scene as a part of a larger arc was a breath
 
 Famed tenor [Joseph Calleja](/scene/people/joseph-calleja/) was a cold-hearted Pollione; he stood out in a grey business suit among the robed followers of the church, and Ollé was telling us that Pollione came from a society with more freedom than Norma's. Though he may have been able to show Adalgisa a new life outside of her vows, no one wanted her to leave with Pollione. 
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474112971442/2016-09-17---SONYA-YONCHEVA-AS-NORMA-JOSEPH-CALLEJA-AS-POLLIONE-ROH-PHOTOGRAPHER-BILL-COOPER.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474112971442/2016-09-17---SONYA-YONCHEVA-AS-NORMA-JOSEPH-CALLEJA-AS-POLLIONE-ROH-PHOTOGRAPHER-BILL-COOPER.jpg.jpg)
 <figcaption>Sonya Yoncheva as Norma, Joseph Calleja as Pollione in *Norma*, Royal Opera House, 2016. Photographer: Bill Cooper.</figcaption>
 </figure>
 
 Calleja had fantastic fire with Yoncheva in their most hostile scenes together, yet he seemed to have a singular vocal colour that didn't suit his duet with Adalgisa, or his final scene with Norma. He sang with a stiffness that seemed to communicate what was difficult about Bellini's score.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474119077001/2016-09-17-2-SONYA-YONCHEVA-AS-NORMA-SONIA-GANASSI-AS-ADALGISA-ROH-PHOTOGRAPHER-BILL-COOPER.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474119077001/2016-09-17-2-SONYA-YONCHEVA-AS-NORMA-SONIA-GANASSI-AS-ADALGISA-ROH-PHOTOGRAPHER-BILL-COOPER.jpg.jpg)
 <figcaption>Sonya Yoncheva as Norma, Sonia Ganassi as Adalgisa in *Norma*, Royal Opera House, 2016. Photographer: Bill Cooper.</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ As Adalgisa, mezzo [Sonia Ganassi](/scene/people/sonia-ganassi/) sang with a sen
 Ollé's production slowly revealed itself to be much more than a collection of provocative symbols, yet it still left us with questions. There were unnecessary distractions: he let swing a giant, swinging [thurible](https://en.wikipedia.org/wiki/Thurible) just before Norma's infamous "Casta diva" aria; and when Norma's kids fall asleep watching television, the flat-screen TV blared (silent) cartoons throughout her entire act II scene with Adalgisa (except in the final pages of their duet, where Norma's daughter wakes up to bounce around the room on a pink ball).
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474112849239/2016-09-17---SHERRATT-AS-OROVESO-YONCHEVA-AS-NORMA-CALLEJA-AS-POLLIONE-ROH-PHOTOGRAPHER-BILL-COOPER.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474112849239/2016-09-17---SHERRATT-AS-OROVESO-YONCHEVA-AS-NORMA-CALLEJA-AS-POLLIONE-ROH-PHOTOGRAPHER-BILL-COOPER.jpg.jpg)
 <figcaption>Brindley Sherratt as Oroveso, Sonya Yoncheva as Norma, Joseph Calleja as Pollione in *Norma*, Royal Opera House, 2016. Photographer: Bill Cooper.</figcaption>
 </figure>
 

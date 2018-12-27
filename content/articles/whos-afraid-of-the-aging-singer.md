@@ -16,7 +16,7 @@ title = "Who&#039;s afraid of the aging singer?"
 +++
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484905015840/2017-01-19---Barber-4.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484905015840/2017-01-19---Barber-4.jpg.jpg)
 <figcaption>Kimberly Barber, mezzo-soprano. Photo by Helen Tansey, Sundari Photography.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Producers and agents make several assumptions about older singers.
 - If they have diminished vocal prowess (loss of range, flexibility, a less "youthful" sound) that they are not viable. The youth culture is so widespread that even artists in their early 40’s are often thrust into older "character" parts well before their time, unless they are absolute A-listers.
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484904841800/2017-01-18---DeadManWalkingcar.jpg)<figcaption>Kimberly Barber as Sister Helen in *Dead Man Walking*, Calgary Opera, 2006. Photo by Trudie Lee.</figcaption>
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484904841800/2017-01-18---DeadManWalkingcar.jpg.jpg)<figcaption>Kimberly Barber as Sister Helen in *Dead Man Walking*, Calgary Opera, 2006. Photo by Trudie Lee.</figcaption>
 </figure>
 
 ## What sort of recognition or respect should older singers expect?
@@ -54,7 +54,7 @@ Singers adapt in multiple ways by expanding their idea of what a career in the a
 But to be honest, many singers feel a tremendous loss when they are no longer able to practice their profession. When I was fest in Germany, there were so many singers in the opera house who had been leads in their younger days who transitioned successfully and happily well into old age singing secondary leads and then comprimario or character parts. They were valued members of the ensemble and enjoyed tremendous respect amongst their colleagues. Often their performances stood out for the degree of pathos or superb comedic timing.
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484904685563/2017-01-18---Barber-Dahl-MacNaughton.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484904685563/2017-01-18---Barber-Dahl-MacNaughton.jpg.jpg)
 <figcaption>Kimberly Barber (Regina), with Doug MacNaughton (Ben Hubbard) Gregory Dahl (Oscar Hubbard), *Regina*, Pacific Opera Victoria, April 2008. Photo by Pink Monkey Studios.</figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ As in the acting profession, there can be really juicy parts for older singers s
 Even casting 'against type' can make a powerful statement—one example of recent note was Tracy Dahl's turn as Despina in the COC's *Così fan tutte* a few years ago, where her wit, charismatic stage persona and still vibrant, beautiful voice were a standout in a role that is often cast with a young soubrette. She brought an intelligence and depth to the role that a younger artist simply could not have achieved.
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484904706974/2017-01-18---Barber-2.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484904706974/2017-01-18---Barber-2.jpg.jpg)
 <figcaption>Kimberly Barber, mezzo-soprano. Photo by Helen Tansey, Sundari Photography.</figcaption>
 </figure>
 

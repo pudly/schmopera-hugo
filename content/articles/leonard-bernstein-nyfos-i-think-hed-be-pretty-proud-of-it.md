@@ -18,7 +18,7 @@ title = "Leonard Bernstein &amp; NYFOS: &quot;I think he&#039;d be pretty proud 
 NYFOS is entering its 30th season, and like many American organizations, its [season line-up](http://www.nyfos.org/events.html) is paying homage to Bernstein in the 100th year of his birth. On **November 7** at Merkin Concert Hall, they'll present a programme titled [*Take Care of This House: A Bernstein Celebration*](http://www.nyfos.org/single.html), which includes Bernstein's rarely performed *Songfest*. "I think that's going to be exciting because it's not played very much," says Barrett. 
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507221005582/2017-10-05---Michael-and-Steven-Piotr-Redlinski.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507221005582/2017-10-05---Michael-and-Steven-Piotr-Redlinski.jpg.jpg)
 <figcaption>Michael Barrett (left) and Steven Blier, co-founders of the New York Festival of Song. Photo: Piotr Redlinksi.</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ He and NYFOS Artistic Director Steven Blier are both of the opinion that *Songfe
 
 *Songfest* also marks the beginning of Barrett's significant professional relationship with Bernstein, which began over 30 years ago as one of Bernstein's conducting students. "[*Songfest*] is the first piece that I ever assisted Bernstein on, so I have a deep personal connection to it," says Barrett. "It's a piece I really absorbed."
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507343674116/2017-10-07---NYFOS-6tet.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507343674116/2017-10-07---NYFOS-6tet.jpg.jpg)
 <figcaption>Clockwise from top left: Justin Austin (photo: Erick Hercules), Lucia Bradford (photo: Reggo Wilson), Miles Mykkanen (photo: Kristin Hoebermann), Annie Rosen (photo: Simon Pauly) Chelsea Shephard (photo: Brett Chisolm), and Adrian Rosas (photo: Vanessa Rosas), all singing Bernstein's *Songfest* with NYFOS, November 7, 2017.</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ When NYFOS had just begun, Barrett approached Bernstein's lawyer for help in get
 "He said, 'now, you need witnesses, and you need a president.' And I looked at Lenny, and said, 'you wanna be our president?'" Bernstein agreed to on-paper presidential duties, and it was a more-than-symbolic beginning of the close relationship between the composer-conductor and NYFOS. "We were off and running and we didn't bother him too much, though we certainly did play his music."
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507345563481/2017-10-07---Bernstein-Blier-Barrett-Kaye-%26-Sharp-Peter-Schaaf.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507345563481/2017-10-07---Bernstein-Blier-Barrett-Kaye-%26-Sharp-Peter-Schaaf.jpg.jpg)
 <figcaption>The team recording Arias & Barcarolles: Songs & Duets: Michael Barrett (piano), William Sharp (baritone), Judy Kaye (soprano), Steven Blier (piano), and Leonard Bernstein. Photo; Peter Schaaf.</figcaption>
 </figure>
 

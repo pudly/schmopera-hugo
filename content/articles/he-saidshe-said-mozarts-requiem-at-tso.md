@@ -21,7 +21,7 @@ title = "He said/she said: Mozart&#039;s Requiem at TSO"
 
 **Greg**: In a brilliant bit of programming, they used the second movement of Mozart's Clarinet Quintet K.581 as an overture. In single file, the chorus and orchestra walked on to the stage, leaving blank white note cards on a pine dais. The quintet was stunning and clarinettist Joaquin Valdepeñas played with a warm, clean sound that danced over the quicker passages with a cleanliness and precision that we all crave when listening to classical era small ensembles. 
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453477913411/2016-01-22---Requiem-5.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453477913411/2016-01-22---Requiem-5.jpg.jpg)
 <figcaption>Jonathan Crow, Mark Skazinetsky, Joaquin Valdepeñas, Joseph Johnson, and Teng Li. Photo by Malcolm Cook.</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ title = "He said/she said: Mozart&#039;s Requiem at TSO"
 **Greg**: Soprano Lydia Teuscher gave a shining performance, even if I felt her a little shy in the first movement. She settled in and delivered a solid interpretation with some delicious musical choices. Mezzo-Soprano Allyson McHardy, sang with a delicate touch which really helped accentuate Mozart's keen use of suspensions. It was great to hear her in concert again, it's been a while for me. Philippe Sly's dark, thick, baritone was a solid anchor in the small ensemble singing, and had a lovely colour against the TSO during his solo passages. The standout for me had to be tenor Frédéric Antoun. He had a bright, focused yet easy tone that just flew into the hall. He sang a subtle, nuanced performance and his solid groundedness made a good foil for Sly's more energetic physicality.
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453439025144/2016-01-22---Requiem-2.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453439025144/2016-01-22---Requiem-2.jpg.jpg)
 <figcaption>l-r: Fréderic Antoun, tenor, maestro Bernard Labadie, Philippe Sly, bass-baritone. Photo by Malcolm Cook.</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ title = "He said/she said: Mozart&#039;s Requiem at TSO"
 **Jenna**: Now, a small disclaimer: when Ivany workshopped his *Requiem* last year, with a sparse number of voices and a much smaller space, I joined them to be the piano-as-orchestra. It means I came to the final product at Roy Thomson Hall with some insider information about how Ivany was approaching Mozart's work. The soloists carried with them their own personal stories of grief; I wouldn't say that any one of these stories was particularly "finished" by the final bars, but there was a clear theme of finding solace in other people, rather than grieving alone. Ivany made great use of Mozart's quartet writing for the soloists in order to show this, grouping the four singers closely together to align with their beautiful blend.
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453439057017/2016-01-22---Requiem-3.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453439057017/2016-01-22---Requiem-3.jpg.jpg)
 <figcaption>Lydia Teuscher, soprano, Allyson McHardy, mezzo-soprano, Fréderic Antoun, tenor, and Philippe Sly, bass-baritone. Photo by Malcolm Cook.</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ title = "He said/she said: Mozart&#039;s Requiem at TSO"
 Dat "Benedictus" tho...
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453439007140/2016-01-22---Requiem1.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453439007140/2016-01-22---Requiem1.jpg.jpg)
 <figcaption>The Toronto Symphony Orchestra, Elmer Isler Singers, Amadeus Choir, maestro Bernard Labadie and soloists. Photo by Malcolm Cook.</figcaption>
 </figure>
 

@@ -52,7 +52,7 @@ It is! What's happening in Toronto is very exciting. It's been happening in fits
 
 We see our company as a first stepping stone to all of the other companies in the city. We are trying to be a conduit that connects people, curious about opera, to a company that's a good fit for them.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460974870276/2016-04-18---liederwolf2.jpg)<figcaption>Photo: Marilis Cardinal.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460974870276/2016-04-18---liederwolf2.jpg.jpg)<figcaption>Photo: Marilis Cardinal.</figcaption>
 </figure>
 
 ## Three parter: What was the last great movie you saw or re-watched? What's your favourite treat to have for a reward? If you could share the stage with ANY singer, who would it be and in what? 
@@ -67,7 +67,7 @@ Share the stage with any singer: Joni Mitchell - I would sing back up for her on
 
 *Opera Peep Show* serves up bite-sized moments of opera in a party atmosphere, where the curious can sample the best opera companies in the city with a drink in hand. *Opera Peep Show*’s pay-as-you-go, immersive format allows guests to choose their own unique experience and how much or how little opera they want in their night out.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460985571449/2016-04-18---PeepShow-poster.jpg)<figcaption>Poster design by Shizu Yamaguchi.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460985571449/2016-04-18---PeepShow-poster.jpg.jpg)<figcaption>Poster design by Shizu Yamaguchi.</figcaption>
 </figure>
 
 ## What else have you got planned for this season? 

@@ -26,7 +26,7 @@ I won't lie, producing a concert version of *Fidelio*, in Oshawa, sung in German
 I love Leonora's strength and courage, and the determination that keeps her going. The hardest part is that unlike a lot of other female characters she is not driven by the cliche - a need to "get her man" nor is she focused on or longing for an impossible love - she is simply being a faithful wife fighting for her husband's freedom. So therefore she is possibly the most theatrically demanding character to portray on stage.
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445871570786/Brigitte.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445871570786/Brigitte.jpg.jpg)
 <figcaption>Brigitte Bogar, singing Leonora in Oshawa Opera's *Fidelio*.</figcaption>
 </figure>
 

@@ -24,7 +24,7 @@ The ten singers were all polished and ready to go in this intimate venue, and di
 Mezzo-soprano [Marjorie Maltais](/spotlight-on-marjorie-maltais/) came out with guns blazing to open the show with a beautiful aria from *La Cenerentola*. Her ease with coloratura throughout her remarkable range is something that is a wonder to behold, and also something I'm glad I get to see develop. This young lady is going to take the world by storm. 
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477560409075/2016-10-27---marjorie_maltais.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477560409075/2016-10-27---marjorie_maltais.jpg.jpg)
 <figcaption>Mezzo-soprano Marjorie Maltais.</figcaption>
 </figure>
 

@@ -18,7 +18,7 @@ So much celebration happened on Thursday night. Director [Joel Ivany](http://www
 I was able to catch the opening night performance of _Albert Herring_ at the University of Toronto, and I'm so glad I did. Thursday night's cast was well-balanced, an important element when presenting what's really an ensemble piece; _Herring_ is a little bit about everyone. Kudos go to Joel Ivany for showing characters that are specific and recognizable; we began to feel as though we had known them for years.
 
  <figure data-type="image">
- ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883385812/JanFinal.jpg)
+ ![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883385812/JanFinal.jpg.jpg)
  <figcaption>Tenor Jan Nato</figcaption>
  </figure>
 
@@ -40,7 +40,7 @@ Laurelle Jade was hilariously uppity and self-righteous as Lady Billows' houseke
 Another highlight was Sonya Gosse as Albert's mum, Mrs. Herring. Sonya is an alumna of the UofT Opera program; it was fitting to have her as a part of this production of _Albert Herring_, and it helped that she was fantastic in the role. She was sufficiently overbearing and attention-hogging without crossing the line of caricature, and I loved watching her throughout the opera's final scene as she "grieved" for her lost son. Sonya is a regular member of the COC Chorus, and it was there that I got to know Sonya a bit over the years; it was really great for me to see her in a role that showcased her skills so well.
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883512089/Adanya.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883512089/Adanya.jpg.jpg)
 </figcaption>Soprano Adanya Dunn</figcaption>
 </figure>
 

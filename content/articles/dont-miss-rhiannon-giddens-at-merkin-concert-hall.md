@@ -22,5 +22,5 @@ As the world of opera moves toward chamber-sized orchestras and intimate venues,
 [Tickets](http://www.kaufmanmusiccenter.org/mch/event/art-song-reimagined-singer-rhiannon-giddens-with-pianist-spencer-myer/) to *Art Song: Reimagined* are $75, and the cost includes a post-concert champagne reception with Rhiannon Giddens. 
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472151651119/2016-08-29---Sparks-Poster.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472151651119/2016-08-29---Sparks-Poster.jpg.jpg)
 </figure>

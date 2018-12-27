@@ -15,7 +15,7 @@ In a departure from our usual operagoing schedule, we paid homage to our current
 
 The *Faulty Towers Dining Experience* (subtly "misspelled", one assumes for legal reasons) is an interactive night of theatre, where guests sit down to a three-course meal, hosted by Basil and Sybil, and served by the infamous waiter "from the continent," Manuel.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487332457291/2017-02-27---Faulty-3.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487332457291/2017-02-27---Faulty-3.jpg.jpg)
 <figcaption>Manuel.</figcaption>
 </figure>
 
@@ -23,7 +23,7 @@ It's an evening full of scripted sketches and impressive improvisation alike, al
 
 The only strains of music came at the end of the show, where the infamous closing-credit music from the TV show encouraged real-life applause from the dinner guests. It's certainly a far cry from the Royal Opera, yet we couldn't help but crave a similar setting for an operatic night out.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487332449674/2017-02-28---Faulty-2.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487332449674/2017-02-28---Faulty-2.jpg.jpg)
 <figcaption>Sybil.</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ As more and more opera companies look to smaller venues, opting for intimate ove
 
 The *Faulty Towers Dining Experience* is totally fun. If you like the show, you'll love riling up Basil and exchanging passive-aggressive compliments with Sybil. And if you're simply a theatre fan, it's constantly impressive to see actors at work, amid the countless variables that come with a new sitting of dinner guests each night. Our only regret is that they didn't serve Waldorf salad.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487332441892/2017-02-18---Faulty-1.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487332441892/2017-02-18---Faulty-1.jpg.jpg)
 <figcaption>Basil and Manuel.</figcaption>
 </figure>
 

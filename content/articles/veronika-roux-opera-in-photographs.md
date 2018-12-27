@@ -20,7 +20,7 @@ It is hard to describe why it is a passion – I believe it needs to be experien
 
 It is truly fascinating that we can watch the same opera and hear the same aria over and over again and continually discover something new within the piece and/or the performance.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453155374870/2016-01-19---Roux5.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453155374870/2016-01-19---Roux5.jpg.jpg)
 <figcaption>Katherine Giaquinto, soprano, paired with "Zeffiretti lusinghieri", from *Idomeneo*. Photo by Veronika Roux.</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ By merging the stillness of photography and words I wanted to present the singer
 
 One of the main influences was a book titled *Miroirs autoportraits* published in 1973 in Paris. It is a collaborative work between photographer Edouard Boubat and writer Michel Tournier. The publication presents portraits of French authors with a descriptive text written by the authors themselves about their impressions when seeing their portraits. The parallel with the words enhanced the portraits. The more you read, the more you were drawn into the essence of the sitter heightening the impact of the portrait. 
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453155389340/2016-01-19---Roux3.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453155389340/2016-01-19---Roux3.jpg.jpg)
 <figcaption>Adam Fisher, tenor, paired with Mahler's "Ich bin der Welt abhanden gekommen", from *Rückert Lieder*. Photo by Veronika Roux.</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ It all started during a performance of COC's *Così fan tutte*. In the last aria
 
 With all these pieces in mind, the puzzle was complete, and the purpose for the project was finalized in spring 2015. Since then, I have been working with singers and growing the project. It is just the beginning and so far, it has simply been a fascinating learning experience.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453155345103/2016-01-19---Roux1.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453155345103/2016-01-19---Roux1.jpg.jpg)
 <figcaption>Veronika Roux's *Opera Faces & Words*, on exhibit at the Four Seasons Centre until February 27th.</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Through photography I capture the singers essence both as individuals and as per
 
 The selection of two portraits per singer was carefully planned and not an easy selection to make. People are multifaceted, it is fascinating to see how one small change in the eyes, with no physical movement, can alter the integrality of a portrait. The portraits were carefully selected to display one facet of the singers as performers and a second as themselves.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453155405837/2016-01-19---Roux4.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453155405837/2016-01-19---Roux4.jpg.jpg)
 <figcaption>Gregory Dahl, baritone, paired with "Il balen del suo sorriso", from *Il trovatore*. Photo by Veronika Roux.</figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ Sometimes, the appearance of those changes is very subtle, but if we are very at
 
 A singer's career is a continuous evolution process – taking on new roles, gaining traction and visibility within the art form, continually growing their repertoire. In 10 or 20 years, it will offer a beautiful evolution of them as individuals and as performers – creating a visual biography.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453155428518/2016-01-19---Roux2.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453155428518/2016-01-19---Roux2.jpg.jpg)
 <figcaption>Jacqueline Woodley, soprano, paired with "Deh vieni, non tardar" from *Le nozze di Figaro*. Photo by Veronika Roux.</figcaption>
 </figure>
 

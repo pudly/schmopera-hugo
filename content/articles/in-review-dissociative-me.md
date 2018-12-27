@@ -21,7 +21,7 @@ With a cold Stella Artois (or two) in hand, we selected our seats. I thought the
 Sung by [Kijong Wi](https://ca.linkedin.com/pub/kijong-wi/34/730/a70), the title role is a long haul for a tenor. He managed the role quite well considering the challenges he faced. His opening aria, although a little pinched over the top, set the stage for a night of some really good singing. A lovely Italianate sound with a solid line, I felt at times there was a bit too much "muscling" to create size in the voice. His was one of the lighter voices on stage, never a bad thing, so sometimes he could get lost in ensemble singing. His characterization of the socially awkward astrophysicist was equal parts cringeworthy awkwardness and the devastatingly adorable - a balance I enjoyed a great deal. 
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1440007063540/York-Wi%20-%20by%20Rachel%20McCaig.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1440007063540/York-Wi%20-%20by%20Rachel%20McCaig.jpg.jpg)
 <figcaption>Michael York and Kijong Wi. Photo by Racheal McCaig.</figcaption>
 </figure>
 

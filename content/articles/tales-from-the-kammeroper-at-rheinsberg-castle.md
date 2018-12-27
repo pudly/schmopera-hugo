@@ -52,7 +52,7 @@ I think it’s important that when you make the commitment to spend time in Germ
 In this way, I feel like I'll know what to expect coming into production in a European country should I get the opportunity to again. It's a whole lot of gesturing, explaining in fragmented languages, laughing and crying but it's a little like altitude training in that now that we've done this, everything else will be easier.
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470076348839/2016-08-01---Gordon-Gerrard-HS2.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470076348839/2016-08-01---Gordon-Gerrard-HS2.jpg.jpg)
 <figcaption>Gordon Gerrard, conductor, *Tosca* at Kammeroper Schloss Rheinsberg, 2016.</figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ This line-up explored so much repertoire and every possible style of singing (in
 **Deedrick**: As with any show in a smaller venue, **Alcina**, **Tosca** and the many concerts give the singers an opportunity to learn a new role, to try it out in a relatively safe location, to learn about the highs - and lows - of European "Regietheater", and to work in an incredibly international environment.  I know this sounds kinda corny, but the United Nations atmosphere of this Rheinsberg summer is one of the most important things that will stay with me forever: we've all come together with this mutual love for music and art. VISSI D'ARTE!
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470134463695/2016-08-02---Tyler-Fitzgerald.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470134463695/2016-08-02---Tyler-Fitzgerald.jpg.jpg)
 <figcaption>Baritone Tyler Fitzgerald, singing Scarpia in *Tosca* at the Kammeroper Schloss Rheinsberg.</figcaption>
 </figure>
 

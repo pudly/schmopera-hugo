@@ -85,7 +85,7 @@ While a singer is holding a long note, a good composer will make something happe
 Under "Laura," the piano has a major chord, then a minor chord. It's tiny-yet-huge difference, and if the singer knows it's there, there's a noticeable difference in sound and meaning. Here's a more subtle example, again from the *Rückert Lieder*:
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433705359680/Mahler.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433705359680/Mahler.jpg.jpg)
 </figure>
 
 The harmony clears out slightly between the second and third bars, under the word "Welt." I think there's huge tension in that tied note at the end of the word, and it coincides with the change in chord. Like with the Liszt example, you can hear when a singer knows about that moment of tension.

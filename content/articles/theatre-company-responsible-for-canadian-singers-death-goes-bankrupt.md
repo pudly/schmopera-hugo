@@ -28,7 +28,7 @@ It's the question that crosses any touring performer's mind when the stage manag
 After 18 days of the third leg of a cross-Canada tour and operating on just 6 hours of sleep, the cast and crew of *A Forever Frozen Story* set off for a 350km drive from Lloydminster to Athabasca, Alberta. Exhausted, all seven members of the cast are fast asleep in the van while an overworked, underslept stage manager is behind the wheel. Three hours into the drive, the stage manager dozes off. She wakes up to a cast member screaming her name and tries to swerve out of danger, but the van strikes the production’s set truck ahead and rolls over twice before crumpling into a ditch. The van is totalled. 28-year-old performing artist Alexandre Thériault is pinned under the van, consumed with pain but still conscious. He is airlifted to the University of Alberta Hospital in Edmonton, ostensibly for a leg injury, but he dies of cardiac arrest before reaching the hospital.
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523894666990/FentonPics.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523894666990/FentonPics.jpg.jpg)
 <figcaption>Images of the accident. Photo: Robbie Fenton.</figcaption>
 </figure>
 

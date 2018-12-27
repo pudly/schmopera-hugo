@@ -25,5 +25,5 @@ Currently, MyNewOpera is releasing an Advent Calendar of videos, which kicked of
 So, [start perusing!](https://www.youtube.com/channel/UCYvUpB2Q-JTgd5iPJMwcWpA)
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544490714561/MNO-Twitter-1500x500-Wall-2.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544490714561/MNO-Twitter-1500x500-Wall-2.jpg.jpg)
 </figure>

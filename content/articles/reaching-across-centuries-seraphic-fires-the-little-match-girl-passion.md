@@ -30,7 +30,7 @@ The story central to *the little match girl passion* is that of Hans Christian A
 "*the little match girl passion* represents some of the greatest art to come out of the American experience," Quigley stated in his introduction. Awarded both a Pulitzer and a Grammy, the passion weaves deft text painting – most strikingly, the rapid repetition of single words like the chattering of teeth – with a palette of glowing harmonies and rich, churning clusters. The highlight of the piece came during the thirteenth movement, "when it's time for me to go," with mezzo-soprano [Amanda Crider](/scene/people/amanda-crider/)'s stirring ostinato solo painting urgent brushstrokes above the ensemble's densely blended meditation.
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516643053448/SFGroup2d.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516643053448/SFGroup2d.jpg.jpg)
 <figcaption>Photo courtesy of Seraphic Fire.</figcaption>
 </figure>
 

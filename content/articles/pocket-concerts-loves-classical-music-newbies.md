@@ -22,7 +22,7 @@ The best part? [Pocket Concerts is reserving 10 tickets](http://www.pocketconcer
 "If you or someone you know has never heard live classical music before, we want to give you the most intense and personal experience we can, for FREE. **All you have to do is post a photo or video of yourself on Instagram or Twitter with the hashtag #classicalnewbie and tell us why you want to come.**"
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477054661723/2016-10-21---Pocket-Concerts-2.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477054661723/2016-10-21---Pocket-Concerts-2.jpg.jpg)
 <figcaption>Photo by Jeff Higgins.</figcaption>
 </figure>
 

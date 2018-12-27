@@ -32,7 +32,7 @@ Being a dad has also included an emotional maturity that frankly took me a littl
 The traditional "bad guy" role that all low-voiced male singers get to experience, is one that I relish and look forward to "inhabiting" many more times in my career.  As a member of the Glyndebourne chorus of *Billy Budd*, I was able to literally soak up the venom that Claggart would spew at Billy.  I was mesmerized by Brindley Sherratt who completely owned this nasty character.  From that point forward, John Claggart has gone to the top of my "dream role" list.  Hopefully I can balance the evil with the good, and continue to take on the more sympathetic roles as well, including Timur and Raimondo, both of whom I've enjoyed playing in recent seasons (Edmonton Opera/Pacific Opera Victoria).  
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495906537736/2017-05-27---Tosca-GB-140.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495906537736/2017-05-27---Tosca-GB-140.jpg.jpg)
 <figcaption>(l-r) Markus Marquardt as Scarpia, Joel Sorensen as Spoletta, Donato di Stefano as a Sacristan and Giles Tomkins as Sciarrone in the Canadian Opera Company's production of *Tosca*, 2017, photo: Gary Beechey.</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ As a new dad, I'm continuing to travel wherever the work takes me.  However, it 
 One of the highlights of my next season is the chance to be a part of the world premiere of a new opera *The Overcoat*, by composer James Rolfe and librettist/director Morris Panych.  This is a co-production between Tapestry Opera, CanStage, and Vancouver Opera.  I'm incredibly excited to continue to work on this, as I've been involved in several development workshops already.  This show presents another opportunity to work at home for me, before travelling to Vancouver immediately after to be a part of the Vancouver Opera Festival.  After the buzz and excitement surrounding the first festival there this spring, I can't wait to experience it firsthand next season!
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495906696670/2017-05-27---Timur.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495906696670/2017-05-27---Timur.jpg.jpg)
 <figcaption>Giles Tomkins (Timur) with David Pomeroy (Calaf) and Michele Capalbo (Liù) in *Turandot*, Edmonton Opera, 2016.</figcaption>
 </figure>
 

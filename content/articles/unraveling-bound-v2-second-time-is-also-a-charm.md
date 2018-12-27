@@ -23,7 +23,7 @@ Kevin Lau's reconstruction of a variety of extracts from Handel's vast catalog o
 New and exciting, yes. Challenging, somewhat. Pushing the envelope of the kind of characters and questions of identity that we are used to seeing on the operatic stage: absolutely. In the slice of silence between the Topher's final gesture and the splatter of applause from a standing ovation, I found myself cheering silently: More! much more of that — and I suspect that to be the majority sentiment echoing through Longboat Hall. And there will indeed be more when *BOUND v.3* is staged sometime next year. There is of course room for growth — that is the creative concept being explored here — but much of that growth will hopefully be in the scope of production as much as creative content. 
 
 <figure data-type=image>
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543078390466/BOUND134.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543078390466/BOUND134.jpg.jpg)
 <figcaption>(l-r) Andrew Haji, Miriam Khalil, Topher Mokrzewski, Justin Welsh, and David Trudgen in *BOUND v.2*, Against the Grain Theatre, 2018. Photo: Darryl Block Photography.</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ Political activism is often an easy fruit on a low hanging branch when it comes 
 Much of the rise of nationalistic sentiments across Europe and North America can be attributed to what many view as an attempt to rescue what is left of the concept of the nation state, with its stringent and discriminating immigration policies, and its divisive rhetoric fueled by suspicion and insecurities of the majority demographic. Each of the characters in *BOUND v.2* is a case study of real life victims of legislated paranoia. None of them pose a credible threat to The State, but all of their reasons for detention have a basis for legal justification by The State. With no credible legal resistance, these characters resort to protest via lamentative arias, each one sung with the same fervent resolution as a defendant's final plea in a courtroom.
 
 <figure data-type=image>
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543078397294/BOUND163.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543078397294/BOUND163.jpg.jpg)
 <figcaption>Andrew Haji in *BOUND v.2*, Against the Grain Theatre, 2018. Photo: Darryl Block Photography.</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ You can't define me!" - Kelly Davidson, *BOUND v.2*<br>
 The libretto for the arias sung by Noor Haddad and Ahmed Habib's (a born-again Muslim, sung by baritone Justin Welsh) paled in comparison to those of Kelly Davidson and Naveen Dewan, and to the talents of Khalil and Welsh. Khalil's high points were found in the hair-raising union of the quartet singing together and when she sang briefly in Arabic—moments that do little to investigate the complexities of her character. The same can be said for Habib, whose baritone gave the quartet its volume and girth in its more impassioned moments, but the libretto of his arias were mostly one-dimensional confessions of faith. 
 
 <figure data-type=image>
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543078404288/BOUND620.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543078404288/BOUND620.jpg.jpg)
 <figcaption>David Trudgen in *BOUND v.2*, Against the Grain Theatre, 2018. Photo: Darryl Block Photography.</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ The libretto for the arias sung by Noor Haddad and Ahmed Habib's (a born-again M
 I spoke briefly with Joel Ivany (librettist and artistic director) after the show and he seemed fairly open to the suggestion of two more installations to the *BOUND* series. As the idea for the project was born in part as a consolation to the unexpected results of the American presidential election in November 2016, it might be just the perfect cadential conclusion to the series if it wrapped up in the last year of this president's administration. One more production in 2020 might also allow for an opportunity to find a bigger stage and orchestra that can make the most of this opera's depth of expression.
 
 <figure data-type=image>
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543078410719/BOUND659.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543078410719/BOUND659.jpg.jpg)
 <figcaption>Justin Welsh in *BOUND v.2*, Against the Grain Theatre, 2018. Photo: Darryl Block Photography.</figcaption>
 </figure>
 

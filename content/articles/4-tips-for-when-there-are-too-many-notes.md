@@ -19,7 +19,7 @@ For every long and terrifying melisma, there are a handful of shorter phrases wi
 This is a section of coloratura from Handel's *Giulio Cesare*. It can look like an endless stream of notes, but there are ways to make sense of it; here's one of those ways:
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433446123626/CesareColoraturaPhrasing.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433446123626/CesareColoraturaPhrasing.jpg.jpg)
 </figure>
 
 Patterns happen to be a golden ticket for singing coloratura. The red lines divide a long phrase into sequential steps; in this case, they're guided by the harmonic pattern in the bass. A bonus effect of grouping the coloratura this way is lightness. By beginning a phrase on a very weak beat, the singer will be less inclined to start beating tempo with his voice; the melisma starts to have a feeling of being in 2/2 instead of 4/4.
@@ -32,7 +32,7 @@ In Handel coloratura, or anything that's rhythmically square, it's easy to explo
 Just like the mini-phrases hidden in long melismas, there's usually a sort of counter-melody to be found as well. This can help you find the big picture, or the skeleton of a melisma. Here's that same section of *Cesare*, this time showing one of these hidden melodies.
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433381191965/CesareColoraturaBigBeats.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433381191965/CesareColoraturaBigBeats.jpg.jpg)
 </figure>
 
 Again using the harmonic motion underneath the voice, we've taken the primary notes of this melisma and isolated them. It's worth trying out this overarching tune a few times, singing the circled notes in bars 32-33 as half notes, and quarter notes in bar 34. This hidden melody is at a much kinder tempo than the actual run, so take the time to enjoy it as you try it out. When you go back to sing as written, you can hear that Handel is just jazzing up a fairly basic three-note melody. No need to get bogged down in every single note.
@@ -40,7 +40,7 @@ Again using the harmonic motion underneath the voice, we've taken the primary no
 Here's another example, from Sesto's first aria in Mozart's *La clemenza di Tito*.
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433382418471/SestoColoratura.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433382418471/SestoColoratura.jpg.jpg)
 </figure>
 
 Mezzos hate this bit, and it's understandable. But when you find the checkpoints, the big picture of all these triplets, it's much more palatable. There's an easy rising third pattern in the circled quarter notes, under which Mozart added a few ornamental notes. Yes, it doesn't change the fact that it keeps rising up to a B-flat, but seeing the forest for the trees will keep you singing light and thinking ahead. It's hard to explain precisely why this works, but we've heard mezzos try it out, and go from running out of air to finishing "beltà" with gusto.

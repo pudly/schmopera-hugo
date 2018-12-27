@@ -35,7 +35,7 @@ I was helped along the way by a series of workshops and by dramaturgical support
 Also involved in the genesis of the piece were the Wind Quintet Pentaedre. There aren’t many operas scored for that combination, and I hope hear that version will soon have another run.
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436670118039/Headshot-Kim-Sartor-PDF-2014-1.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436670118039/Headshot-Kim-Sartor-PDF-2014-1.jpg.jpg)
 <figcaption>Mezzo-soprano Kim Sartor.</figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ Also involved in the genesis of the piece were the Wind Quintet Pentaedre. There
 I finally found *A Chair in Love* at the Canadian Music Centre. I read the score, and laughed. And sighed. And thought, "awww." And winced (just a little). And grinned. And then I knew it was The One. I sent it to Bill, and he was enthusiastic about trying something different. It was definitely not a typical "request!"
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436670245801/Michael-Robert-Broder-1-7811.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436670245801/Michael-Robert-Broder-1-7811.jpg.jpg)
 <figcaption>Baritone Michael Robert-Broder.</figcaption>
 </figure>
 

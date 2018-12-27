@@ -19,7 +19,7 @@ Last night I went to opening night of *Earnest, the Importance of Being* at [Tor
 The dialoge is taken directly from Wilde, and the sung libretto by Eugene Benson is an organic extension of the original text, full of Wilde-esque plays on words and really dry wit. The music itself takes a lot from the traditional operetta style, with funny pizzicato moments and soaring melodies; conductor Larry Beckwith led the orchestra with flexibility and fun. The moments of musical comedy were a bit surprising at times, like the pentatonic scales and gongs when there's talk of Japan; I got the funny intent, it just seemed a bit dated for a piece less than ten years old. 
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431190577154/Cecily-%26-Algernon.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431190577154/Cecily-%26-Algernon.jpg.jpg)
 <figcaption>Thomas Macleay and Charlotte Knight. Photo by Gary Beechey.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ Tenor [Thomas Macleay](http://www.thomasmacleay.com/Thomas_Macleay/Welcome.html)
 The ladies were a hoot. Michelle Garlough was self-important and self-reverential as Gwendolyn Fairfax, set on marrying Earnest (provided his name really is Earnest). She managed to combine ditziness and self-respect into a hilarious woman who sets a high bar for her suitors. It was great to hear her in a more substantial role, and this wasn't an easy one. Some of the trickiest vocal moments were also supposed to be funny, and I thought she nailed it.
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431190590936/Gwendolen-%26-Jack-1.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431190590936/Gwendolen-%26-Jack-1.jpg.jpg)
 <figcaption>Cameron McPhail and Michelle Garlough. Photo by Gary Beechey</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ The ladies were a hoot. Michelle Garlough was self-important and self-reverentia
 Rosalind McArthur and [Gregory Finney](https://twitter.com/gregory_finney) were appropriately hilarious as Miss Prism and Reverend Canon Chasuble. I got every single word from both of them, and they were those great characters that draw your eye despite the primary action happening centre stage. I thought Greg's singing in this role was some of the best I'd heard him do. Bravo, friend!
 
 <figure data-type="image">
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431190604217/Lady-Bracknell-1.jpg)
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431190604217/Lady-Bracknell-1.jpg.jpg)
 <figcaption>Jean Stillwell. Photo by Gary Beechey.</figcaption>
 </figure>
 
