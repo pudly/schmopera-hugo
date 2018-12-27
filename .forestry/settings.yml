@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: content/featured/_index.md
-  label: Featured
-  match: "**/*"
 - type: directory
   path: content/articles
   label: Articles
@@ -15,6 +11,9 @@ sections:
   match: "**/*"
   templates:
   - article
+- type: document
+  path: content/featured/_index.md
+  label: Featured
 - type: directory
   path: content/authors
   label: Authors
