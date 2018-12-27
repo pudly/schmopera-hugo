@@ -51,6 +51,6 @@ build:
   preview_env:
   - HUGO_ENV=Staging
   publish_env:
-  - HUGO_EVN=Production
+  - HUGO_ENV=Production
   output_directory: public
 version: '0.52'
