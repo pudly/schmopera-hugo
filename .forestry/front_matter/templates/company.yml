@@ -38,3 +38,11 @@ fields:
   - social-media
   label: Social Media
   name: social_media
+- type: list
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: people
+  label: Related People
+  name: related_people
