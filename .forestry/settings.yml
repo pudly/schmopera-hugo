@@ -46,10 +46,11 @@ front_matter_path: ''
 use_front_matter_path: false
 file_template: ":year:/:month:/:filename:"
 build:
-  preview_command: hugo -D
+  preview_command: hugo -E -F -D -d public
   publish_command: hugo
   preview_env:
   - HUGO_ENV=Staging
+  - HUGO_VERSION=0.52
   publish_env:
   - HUGO_ENV=Production
   output_directory: public
