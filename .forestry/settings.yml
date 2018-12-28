@@ -46,8 +46,10 @@ front_matter_path: ''
 use_front_matter_path: false
 file_template: ":year:/:month:/:filename:"
 build:
-  preview_command: hugo -E -F -D -d public
+  preview_command: hugo -E -F -D -d public --baseURL="https://u-c18kdygnw7cw.preview.forestry.io"
   publish_command: hugo
+  preview_env:
+  - HUGO_ENV=Staging
   publish_env:
   - HUGO_ENV=Production
   output_directory: public
