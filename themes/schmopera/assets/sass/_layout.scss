@@ -6,6 +6,7 @@
   }
 
   @include bp-large {
+    padding: 0;
     max-width: 1080px;
   }
 }
@@ -27,7 +28,7 @@ body > .container {
 
   @include bp-large {
     margin-left: 300px;
-    padding: 40px;
+    padding: 40px 0 40px 40px;
   }
 }
 

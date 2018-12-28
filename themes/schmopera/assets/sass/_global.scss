@@ -32,10 +32,6 @@ html {
   box-sizing: inherit;
 }
 
-a, a:before, a:after, a > img {
-  // @include transition(all .2s ease-in-out);
-}
-
 a {
   color: $sch-blue;
 

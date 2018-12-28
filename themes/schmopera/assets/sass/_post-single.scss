@@ -43,10 +43,22 @@
 .post--single_hero {
   position: relative;
   margin: 0 -20px 40px -20px;
+  
+  picture {
+    display: block;
+    width: 100%;
+    padding-top: 100%;
+    position: relative;
+    background: url(/images/loading.gif) no-repeat 50% 50%;
+    background-size: 64px 64px;
+  }
 
   img {
     width: 100%;
     display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
   }
 
   h1 {

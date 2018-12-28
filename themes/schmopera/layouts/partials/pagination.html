@@ -8,36 +8,46 @@
 
 {{ $paginator := .Paginate (where .Data.Pages "Type" "articles") }}
 
-<ul class="post--list">
-  {{ range $paginator.Pages }}
-    <li>
-      <a href="{{ .Permalink }}" class="post--list-title"><h1>{{ .Title | htmlUnescape }}</h1></a>
-      <a href="{{ .Permalink }}" class="post--list-image">
-        {{/* 
-          TODO:
-
-          {% set srcset = object.primary_image|imageCrop(680, 680) + ", " +  object.primary_image|imageCrop(1360, 1360) + " 2x" %}
-          <picture>
-            <source srcset="{{ srcset }}" media="(min-width: 40em)">
-            <img src="{{ object.primary_image|imageCrop(400, 400) }}" alt="{{ object.name }}">
-          </picture>
-
-        */}}
-
-        <picture>
-          {{ $img := replace .Params.primary_image "/upload/" "/upload/c_scale,w_1360/c_crop,g_faces:auto,w_1360,h_760/" }}
-          <img src="" data-src="{{ $img }}" alt="{{ .Title | htmlUnescape }}" class="lazyload">
+{{ range $paginator.Pages }}
+  <a href="{{ .Permalink }}" class="post--list-item">
+    <section>
+      <header class="post--list-header">
+        <picture class="post--list-image">
+          {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/c_scale,w_740/c_crop,g_faces,w_740,h_490/" }}
+          {{ $imglg := replace .Params.primary_image "/upload/" "/upload/c_scale,w_1480/c_crop,g_faces,w_1480,h_980/" }}
+          <img src="" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
         </picture>
+        <div class="post--list-title">
+          <h1><span title="{{ .Title | htmlUnescape }}">{{ .Title | htmlUnescape }}</span></h1>
+          {{ with .Params.categories }}
+          <em class="post--meta-category">{{ . }}</em>
+          {{ end }}
+        </div>
+      </header>
+      
+      <p class="post--list-desc">{{ .Params.short_description | htmlUnescape }}</p>
 
-        <span class="post--meta">
+      <footer class="post--meta">
+        <span class="post--meta-author">
           {{ with .Params.author }}
             {{ range $author := . }}
               {{ with $.Site.GetPage "page" $author }}
-              <em class="post--meta-author">{{ .Title }}</em>
+              <picture class="post--meta-author_image">
+                {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/c_scale,w_40/c_crop,g_face,w_40,h_40/" }}
+                {{ $imglg := replace .Params.primary_image "/upload/" "/upload/c_scale,w_80/c_crop,g_face,w_80,h_80/" }}
+                <img src="" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
+              </picture>
+              By
+              <em>{{ .Title }}</em> - {{ .Date.Format "Jan 2, 2006" }}
               {{ end }}
             {{ end }}
           {{ end }}
         </span>
+      </footer>
+    </section>
+
+
+
 
         {{/*
           
@@ -58,21 +68,13 @@
           {% endif %}
         </span>
         */}}
-      </a>
 
-      <p class="post--list-desc">{{ .Params.short_description | htmlUnescape }}</p>
 
-      {{/*
-      {% if object.youtube_url %}
-        <a href="{{ url(object) }}" class="btn post--button">Watch Video</a>
-      {% else %}
-        <a href="{{ url(object) }}" class="btn post--button">Read More</a>
-      {% endif %}
-      */}}
-      
-    </li>
-    {{ end }}
-</ul>
+
+
+  </a>
+{{ end }}
+
 
 
 <!--
