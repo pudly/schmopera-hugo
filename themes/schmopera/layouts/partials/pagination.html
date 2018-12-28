@@ -15,7 +15,7 @@
         <picture class="post--list-image">
           {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/c_scale,w_740/c_crop,g_faces,w_740,h_490/" }}
           {{ $imglg := replace .Params.primary_image "/upload/" "/upload/c_scale,w_1480/c_crop,g_faces,w_1480,h_980/" }}
-          <img src="" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
+          <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkkAQAAB8AG7jymN8AAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
         </picture>
         <div class="post--list-title">
           <h1><span title="{{ .Title | htmlUnescape }}">{{ .Title | htmlUnescape }}</span></h1>
@@ -34,7 +34,7 @@
             <picture class="post--meta-author_image">
               {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/c_scale,w_40/c_crop,g_face,w_40,h_40/" }}
               {{ $imglg := replace .Params.primary_image "/upload/" "/upload/c_scale,w_80/c_crop,g_face,w_80,h_80/" }}
-              <img src="" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
+              <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
             </picture>
             <em>{{ .Title }}</em>
             {{ end }}

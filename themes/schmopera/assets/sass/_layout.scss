@@ -16,13 +16,13 @@ body > .container {
 }
 
 .content--main {
-  padding: 20px;
   opacity: 1;
   position: relative;
   z-index: 50;
   padding-bottom: 0 !important;
 
   @include bp-medium {
+    padding: 20px;
     margin-left: 200px;
   }
 

@@ -1,7 +1,8 @@
 .post--list-item {
-  padding-bottom: 2em;
+  padding-bottom: 1em;
   position: relative;
   text-decoration: none;
+  display: block;
 
   * {
     text-decoration: none;
@@ -25,11 +26,12 @@
     text-decoration: none;
     background: url(/images/loading.gif) no-repeat 50% 50%;
     background-size: 64px 64px;
+    overflow: hidden;
 
     img {
       position: absolute;
       width: 100%;
-      height: auto;
+      height: 100%;
       top: 0;
       left: 0;
       display: block;
@@ -39,7 +41,7 @@
   .post--list-title {
     text-decoration: none;
     position: absolute;
-    bottom: 80px;
+    bottom: 50px;
     left: 20px;
     z-index: 2;
     max-width: 75%;
@@ -52,7 +54,7 @@
     h1 {
       position: relative;
       margin: 0;  
-      font-size: 2em;
+      font-size: 1.25em;
   
       span {
         background: #fff;
@@ -69,6 +71,14 @@
           left: 0;
           top: 0;
         }
+      }
+
+      @include bp-medium {
+        font-size: 1.5em;
+      }
+
+      @include bp-large {
+        font-size: 2em;
       }
     }
 
@@ -94,13 +104,23 @@
   .post--list-desc {
     position: relative;
     z-index: 2;
-    margin: -70px 20px 0 20px;
+    margin: -40px 10px 0 10px;
     background: #fff;
-    padding: 15px;
-    font-size: 1.1em;
+    padding: 7px 10px 10px 10px;
+    font-size: 1em;
     line-height: 1.5em;
     color: #222;
-    border-top: 5px solid #ccc;
+    border-top: 3px solid #ccc;
+
+    @include bp-medium {
+      margin: -70px 20px 0 20px;
+      padding: 15px;
+      border-top: 5px solid #ccc;
+    }
+
+    @include bp-large {
+      font-size: 1.1em;
+    }
   }
 
   .post--button {
@@ -108,22 +128,28 @@
   }
 
   .post--list-meta {
-    line-height: 40px;
+    line-height: 30px;
     color: #888;
     font-size: .9em;
-    padding: 10px 0 40px 20px;
+    padding: 10px 0 20px 10px;
 
     img {
       border-radius: 100%;
       vertical-align: middle;
-      margin: 0 5px 0 15px;
-      width: 40px;
-      height: 40px;
+      margin: 0 5px 0 10px;
+      width: 30px;
+      height: 30px;
     }
 
     em {
       color: #1a1a1a;
       font-style: normal;
+    }
+
+    @include bp-medium {
+      font-size: .9em;
+      line-height: 40px;
+      padding: 10px 0 40px 20px; 
     }
   }
 
