@@ -27,22 +27,20 @@
       
       <p class="post--list-desc">{{ .Params.short_description | htmlUnescape }}</p>
 
-      <footer class="post--meta">
-        <span class="post--meta-author">
-          {{ with .Params.author }}
-            {{ range $author := . }}
-              {{ with $.Site.GetPage "page" $author }}
-              <picture class="post--meta-author_image">
-                {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/c_scale,w_40/c_crop,g_face,w_40,h_40/" }}
-                {{ $imglg := replace .Params.primary_image "/upload/" "/upload/c_scale,w_80/c_crop,g_face,w_80,h_80/" }}
-                <img src="" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
-              </picture>
-              By
-              <em>{{ .Title }}</em> - {{ .Date.Format "Jan 2, 2006" }}
-              {{ end }}
+      <footer class="post--list-meta">
+        {{ with .Params.author }}
+          {{ range $author := . }}
+            {{ with $.Site.GetPage "page" $author }}
+            <picture class="post--meta-author_image">
+              {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/c_scale,w_40/c_crop,g_face,w_40,h_40/" }}
+              {{ $imglg := replace .Params.primary_image "/upload/" "/upload/c_scale,w_80/c_crop,g_face,w_80,h_80/" }}
+              <img src="" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
+            </picture>
+            <em>{{ .Title }}</em>
             {{ end }}
           {{ end }}
-        </span>
+        {{ end }}
+        - {{ .Date.Format "Jan 2, 2006" }}
       </footer>
     </section>
 

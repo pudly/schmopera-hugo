@@ -94,12 +94,12 @@
   .post--list-desc {
     position: relative;
     z-index: 2;
-    margin: -70px 20px 20px 20px;
+    margin: -70px 20px 0 20px;
     background: #fff;
     padding: 15px;
-    font-size: 1em;
-    line-height: 1.45em;
-    color: #555;
+    font-size: 1.1em;
+    line-height: 1.5em;
+    color: #222;
     border-top: 5px solid #ccc;
   }
 
@@ -107,7 +107,33 @@
     margin: .75em 0 1.5em 0;
   }
 
+  .post--list-meta {
+    line-height: 40px;
+    color: #888;
+    font-size: .9em;
+    padding: 10px 0 40px 20px;
+
+    img {
+      border-radius: 100%;
+      vertical-align: middle;
+      margin: 0 5px 0 15px;
+      width: 40px;
+      height: 40px;
+    }
+
+    em {
+      color: #1a1a1a;
+      font-style: normal;
+    }
+  }
+
 /* mini version of list */
+}
+
+.post--list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 
   &.__mini {
     clear: left;
@@ -125,6 +151,7 @@
       a {
         display: block;
         overflow: hidden;
+        text-decoration: none;
 
         > h1, > p, > .btn {
           margin-left: 110px;
@@ -193,6 +220,10 @@
 
     li {
       padding: 0 0 15px 0;
+    }
+
+    a {
+      text-decoration: none;
     }
 
     .post--list-title {
