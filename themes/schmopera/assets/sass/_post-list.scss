@@ -110,12 +110,12 @@
     font-size: 1em;
     line-height: 1.5em;
     color: #222;
-    border-top: 3px solid #ccc;
+    border-top: 3px solid #222;
 
     @include bp-medium {
       margin: -70px 20px 0 20px;
       padding: 15px;
-      border-top: 5px solid #ccc;
+      border-top: 5px solid #222;
     }
 
     @include bp-large {
@@ -150,6 +150,12 @@
       font-size: .9em;
       line-height: 40px;
       padding: 10px 0 40px 20px; 
+
+      img {
+        margin: 0 5px 0 15px;
+        width: 40px;
+        height: 40px;
+      }
     }
   }
 
