@@ -50,6 +50,7 @@ build:
   publish_command: hugo
   preview_env:
   - HUGO_ENV=Staging
+  - HUGO_VERSION=0.52
   publish_env:
   - HUGO_ENV=Production
   output_directory: public
