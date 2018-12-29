@@ -5,6 +5,7 @@ lastmod = "2017-10-09T11:29:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507562923670/img_8952.jpg.jpg"
 primary_image_credit = "J&J Photography"
 publishDate = "2017-10-09T11:29:00-04:00"
+related_companies = ["scene/companies/brooklyn-academy-of-music.md","scene/companies/on-site-opera.md"]
 slug = "jennifer-zetlan"
 title = "Jennifer Zetlan"
 website = "http://www.jenniferzetlan.com/"

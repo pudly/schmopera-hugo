@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2015-06-10T14:20:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428462214253/SzaboBoHuang_Fotor.jpg.jpg"
 publishDate = "2015-04-07T23:04:00-04:00"
+related_companies = ["scene/companies/tapestry-opera.md","scene/companies/against-the-grain-theatre.md","scene/companies/canadian-opera-company.md","scene/companies/calgary-opera.md","scene/companies/opra-de-qubec.md","scene/companies/edmonton-opera.md","scene/companies/off-centre-music-salon.md","scene/companies/esprit-orchestra.md"]
 slug = "krisztina-szab"
 title = "Krisztina Szabó"
 website = "http://www.krisztinaszabo.com/"

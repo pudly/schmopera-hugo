@@ -4,6 +4,7 @@ discipline = "Bass"
 lastmod = "2017-09-15T21:57:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505526871696/Peixin-Chen.jpg.jpg"
 publishDate = "2017-09-15T21:57:00-04:00"
+related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/merola-opera-program.md","scene/companies/opera-philadelphia.md","scene/companies/the-metropolitan-opera.md","scene/companies/washington-national-opera.md","scene/companies/lyric-opera-of-kansas-city.md"]
 slug = "peixin-chen"
 title = "Peixin Chen"
 website = "http://www.peixinchen.com/"

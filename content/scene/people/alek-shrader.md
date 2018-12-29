@@ -5,6 +5,7 @@ lastmod = "2017-03-15T11:29:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489577373656/2017-03-15---Alek-Shrader.jpg.jpg"
 primary_image_credit = "Peter Schaaf"
 publishDate = "2015-04-06T19:31:00+01:00"
+related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/seattle-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/welsh-national-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/canadian-opera-company.md","scene/companies/glyndebourne.md","scene/companies/los-angeles-opera.md"]
 slug = "alek-shrader"
 title = "Alek Shrader"
 [[social_media]]

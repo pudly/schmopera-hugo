@@ -5,6 +5,7 @@ lastmod = "2015-06-29T18:38:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435624309187/Vernon-col-photo-by-Jo-Ann-Richards.jpg.jpg"
 primary_image_credit = "Jo-Ann Richards"
 publishDate = "2015-06-29T18:38:00-06:00"
+related_companies = ["scene/companies/pacific-opera-victoria.md","scene/companies/opera-mcgill.md","scene/companies/opera-lyra-ottawa.md","scene/companies/lopra-de-montral.md","scene/companies/opra-de-qubec.md","scene/companies/edmonton-opera.md","scene/companies/calgary-opera.md","scene/companies/toronto-symphony-orchestra.md"]
 slug = "timothy-vernon"
 title = "Timothy Vernon"
 website = "http://www.pov.bc.ca/artistic_director.html"

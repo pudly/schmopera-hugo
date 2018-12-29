@@ -5,6 +5,7 @@ lastmod = "2016-10-26T19:30:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477506635378/2016-10-26---Brian-Jagde---Simon-Pauly.jpg.jpg"
 primary_image_credit = "Simon Pauly"
 publishDate = "2016-10-26T19:30:00+01:00"
+related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/houston-grand-opera.md","scene/companies/palm-beach-opera.md","scene/companies/washington-national-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/minnesota-opera.md","scene/companies/royal-opera-house.md"]
 slug = "brian-jagde"
 title = "Brian Jagde"
 website = "http://brianjagde.com/"

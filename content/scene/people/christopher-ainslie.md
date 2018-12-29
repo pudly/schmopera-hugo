@@ -5,6 +5,7 @@ lastmod = "2018-03-02T16:28:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520025552275/Christopher_Ainslie_-_new_photo_2_credit_Denis_Jouglet.jpg.jpg"
 primary_image_credit = "Denis Jouglet"
 publishDate = "2018-03-02T16:28:00-05:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md","scene/companies/opera-north.md","scene/companies/classical-opera.md"]
 slug = "christopher-ainslie"
 title = "Christopher Ainslie"
 website = "http://christopherainslie.com/"

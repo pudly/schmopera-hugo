@@ -5,6 +5,7 @@ lastmod = "2016-12-20T16:15:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482268006662/2016-12-20---Karolina-Pilou.jpg.jpg"
 primary_image_credit = "Etrange-Amour"
 publishDate = "2016-12-20T16:10:00-05:00"
+related_companies = ["scene/companies/loftopera.md","scene/companies/the-metropolitan-opera.md"]
 slug = "karolina-pilou"
 title = "Karolina Pilou"
 website = "http://www.karolinapilou.com/"

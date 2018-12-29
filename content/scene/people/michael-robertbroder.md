@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2015-07-14T10:12:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436890269109/Michael-Robert-Broder-1-7811.jpg.jpg"
 publishDate = "2015-07-14T10:12:00-06:00"
+related_companies = ["scene/companies/highlands-opera-studio.md","scene/companies/opera-by-request.md"]
 slug = "michael-robertbroder"
 title = "Michael Robert-Broder"
 website = "http://www.michaelrobertbroder.com/content/biography"

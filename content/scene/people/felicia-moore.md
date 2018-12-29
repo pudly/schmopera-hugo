@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2018-05-04T19:14:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525475471974/DSC_0850.jpg.jpg"
 publishDate = "2018-05-04T19:14:00-04:00"
+related_companies = ["scene/companies/heartbeat-opera.md","scene/companies/portland-opera.md","scene/companies/the-juilliard-school.md","scene/companies/merola-opera-program.md","scene/companies/opera-theatre-of-st-louis.md"]
 slug = "felicia-moore"
 title = "Felicia Moore"
 website = "http://www.feliciamoore.com/"

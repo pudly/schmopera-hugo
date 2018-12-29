@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2018-10-21T20:52:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540169314565/Leahblackwhite.jpg.jpg"
 publishDate = "2018-10-21T20:52:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/san-diego-opera.md","scene/companies/opera-philadelphia.md","scene/companies/florida-grand-opera.md","scene/companies/washington-national-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/seattle-opera.md","scene/companies/the-atlanta-opera.md","scene/companies/opera-omaha.md"]
 slug = "leah-partridge"
 title = "Leah Partridge"
 website = "https://www.leahpartridge.com/"

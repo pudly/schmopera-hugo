@@ -5,6 +5,7 @@ lastmod = "2018-05-13T21:10:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526260107172/HaileyClark7.jpg.jpg"
 primary_image_credit = "Eric Melear"
 publishDate = "2018-05-13T21:09:00-04:00"
+related_companies = ["scene/companies/florida-grand-opera.md","scene/companies/fort-worth-opera.md","scene/companies/opera-saratoga.md"]
 slug = "hailey-clark"
 title = "Hailey Clark"
 website = "http://www.haileyclarksoprano.com/home.html"

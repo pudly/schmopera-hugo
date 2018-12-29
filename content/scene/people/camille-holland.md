@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2016-08-06T13:55:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470488116596/2016-08-06---Camille-Holland.jpg.jpg"
 publishDate = "2016-08-05T12:34:00+01:00"
+related_companies = ["scene/companies/opera-nuova.md","scene/companies/opera-mcgill.md"]
 slug = "camille-holland"
 title = "Camille Holland"
 website = "http://www.camilleholland.ca/"

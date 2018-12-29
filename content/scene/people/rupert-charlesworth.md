@@ -5,6 +5,7 @@ lastmod = "2017-03-16T11:24:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489663249597/2017-03-16---Rupert_Charlesworth_pc_Benjamin_Harte.jpg.jpg"
 primary_image_credit = "Benjamin Harte"
 publishDate = "2017-03-16T11:24:00+00:00"
+related_companies = ["scene/companies/english-national-opera.md"]
 slug = "rupert-charlesworth"
 title = "Rupert Charlesworth"
 [[social_media]]

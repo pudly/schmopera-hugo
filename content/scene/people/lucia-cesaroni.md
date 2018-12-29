@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2016-03-23T18:48:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428504465645/CESARONI-PHOTO2014.jpg.jpg"
 publishDate = "2015-04-08T15:48:00+01:00"
+related_companies = ["scene/companies/vancouver-opera.md","scene/companies/pacific-opera-victoria.md","scene/companies/toronto-operetta-theatre.md","scene/companies/off-centre-music-salon.md"]
 slug = "lucia-cesaroni"
 title = "Lucia Cesaroni"
 website = "http://luciacesaroni.com/"

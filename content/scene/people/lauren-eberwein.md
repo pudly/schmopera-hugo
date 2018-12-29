@@ -5,6 +5,7 @@ lastmod = "2017-04-26T09:22:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493212884272/b406b7_769a2419610045f28d271887d82d3922.webp"
 primary_image_credit = "Andrew Bogard Photography"
 publishDate = "2015-11-04T14:13:00-05:00"
+related_companies = ["scene/companies/curtis-institute-of-music.md","scene/companies/opera-philadelphia.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
 slug = "lauren-eberwein"
 title = "Lauren Eberwein"
 website = "http://www.laureneberwein.com/#!home-/mainPage"

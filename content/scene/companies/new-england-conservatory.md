@@ -3,6 +3,7 @@ date = "2015-03-31T18:00:00-04:00"
 lastmod = "2015-10-31T14:27:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446316059741/Logo---NEC.jpg.jpg"
 publishDate = "2015-03-31T18:00:00-04:00"
+related_people = ["scene/people/amal-elshrafi.md"]
 slug = "new-england-conservatory"
 title = "New England Conservatory"
 type_of_company = "Conservatory"

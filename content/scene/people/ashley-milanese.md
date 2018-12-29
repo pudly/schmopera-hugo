@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-09-15T22:18:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505528150529/DuaqvMNn.jpg.jpg"
 publishDate = "2017-09-15T22:17:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/curtis-institute-of-music.md"]
 slug = "ashley-milanese"
 title = "Ashley Milanese"
 website = "https://www.ashleymilanese.com/"

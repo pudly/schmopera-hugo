@@ -5,6 +5,7 @@ lastmod = "2017-03-31T12:40:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490960169220/PUENTE-Marcelo-Helen-Blanco-931x1030.jpg.jpg"
 primary_image_credit = "Helen Blanco"
 publishDate = "2017-03-31T12:40:00+01:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/deutsche-oper-berlin.md"]
 slug = "marcelo-puente"
 title = "Marcelo Puente"
 +++

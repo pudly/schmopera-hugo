@@ -5,6 +5,7 @@ lastmod = "2017-02-23T16:29:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487867330124/2017-02-23---Laura_Wilde_pc_Kelly_Kruse.jpg.jpg"
 primary_image_credit = "Kelly Kruse"
 publishDate = "2017-02-23T16:29:00+00:00"
+related_companies = ["scene/companies/arizona-opera.md","scene/companies/nashville-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/english-national-opera.md","scene/companies/lyric-opera-of-chicago.md"]
 slug = "laura-wilde"
 title = "Laura Wilde"
 website = "http://www.laurawildesoprano.com/"

@@ -5,6 +5,7 @@ lastmod = "2015-05-25T21:33:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432603743944/Ceci.jpg.jpg"
 primary_image_credit = "Decca/Uli Weber"
 publishDate = "2015-05-25T21:33:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/bayerische-staatsoper.md","scene/companies/royal-opera-house.md","scene/companies/wiener-staatsoper.md","scene/companies/scene/opernhaus-zurich.md"]
 slug = "cecilia-bartoli"
 title = "Cecilia Bartoli"
 website = "http://ceciliabartolionline.com/"

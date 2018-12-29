@@ -4,6 +4,7 @@ discipline = "Pianist"
 lastmod = "2015-11-22T22:34:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448247299859/hp-7orje.jpg.jpg"
 publishDate = "2015-11-22T21:55:00-05:00"
+related_companies = ["scene/companies/opera-nuova.md","scene/companies/jeunesses-musicales-canada.md"]
 slug = "carolanne-fraser"
 title = "Carol-Anne Fraser"
 [[social_media]]

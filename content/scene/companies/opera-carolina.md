@@ -3,6 +3,7 @@ date = "2016-10-25T10:53:00+01:00"
 lastmod = "2016-10-25T10:53:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477389086110/OC-Logo.jpg.jpg"
 publishDate = "2016-10-25T10:53:00+01:00"
+related_people = ["scene/people/scott-joiner.md","scene/people/jessica-fishenfeld.md"]
 slug = "opera-carolina"
 title = "Opera Carolina"
 type_of_company = "Opera Company"

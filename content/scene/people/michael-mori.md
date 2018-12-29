@@ -4,6 +4,7 @@ discipline = "Artistic Director, Tapestry Opera"
 lastmod = "2015-11-02T09:40:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446474874814/2015-11-01---MichaelMoriSquare.jpg.jpg"
 publishDate = "2015-04-11T20:12:00-04:00"
+related_companies = ["scene/companies/tapestry-opera.md","scene/companies/indie-opera-to.md"]
 slug = "michael-mori"
 title = "Michael Mori"
 [[social_media]]

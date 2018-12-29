@@ -3,6 +3,7 @@ date = "2016-10-13T11:25:00+01:00"
 lastmod = "2016-10-13T11:26:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476354380785/Logo---OSO.jpg.jpg"
 publishDate = "2016-10-13T11:25:00+01:00"
+related_people = ["scene/people/gregg-kallor.md","scene/people/elizabeth-pojanowski.md","scene/people/robert-orth.md","scene/people/scene/maeve-hoglund.md","scene/people/jennifer-zetlan.md","scene/people/marc-molomot.md","scene/people/blythe-gaissert.md","scene/people/emily-pulley.md","scene/people/alisa-jordheim.md"]
 slug = "on-site-opera"
 title = "On Site Opera"
 type_of_company = "Opera Company"

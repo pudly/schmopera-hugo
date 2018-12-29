@@ -4,6 +4,7 @@ discipline = "Stage director"
 lastmod = "2017-10-03T18:54:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507070425434/Robinson%2C%20James.jpg.jpg"
 publishDate = "2017-10-03T18:54:00-04:00"
+related_companies = ["scene/companies/opera-theatre-of-st-louis.md","scene/companies/the-santa-fe-opera.md","scene/companies/canadian-opera-company.md","scene/companies/san-francisco-opera.md","scene/companies/lyric-opera-of-kansas-city.md","scene/companies/washington-national-opera.md","scene/companies/seattle-opera.md","scene/companies/houston-grand-opera.md","scene/companies/the-dallas-opera.md","scene/companies/los-angeles-opera.md","scene/companies/minnesota-opera.md"]
 slug = "james-robinson"
 title = "James Robinson"
 [[social_media]]

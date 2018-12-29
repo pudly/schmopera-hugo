@@ -5,6 +5,7 @@ lastmod = "2017-09-04T14:00:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504547920204/Martha%20Jones%20(c)%20Raphaelle%20Photography.jpg.jpg"
 primary_image_credit = "Raphaelle Photography"
 publishDate = "2017-09-04T14:00:00-04:00"
+related_companies = ["scene/companies/grange-park-opera.md"]
 slug = "martha-jones"
 title = "Martha Jones"
 website = "http://marthajonesmezzo.co.uk/Martha/Home.html"

@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2015-09-04T14:54:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428461718318/81ba2b_36ee80bd1a33419ca4355bdbdb39bcf8.jpg_srb_p_600_718_75_22_0.50_1.20_0.00_jpg_srb"
 publishDate = "2015-04-07T22:56:00-04:00"
+related_companies = ["scene/companies/oshawa-opera.md"]
 slug = "kristine-dandavino"
 title = "Kristine Dandavino"
 website = "http://www.kristinedandavino.com/"

@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2018-01-29T17:58:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517266356836/_X5M2463.jpg.jpg"
 publishDate = "2018-01-29T17:58:00-05:00"
+related_companies = ["scene/companies/minnesota-opera.md","scene/companies/houston-grand-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/washington-national-opera.md","scene/companies/florida-grand-opera.md","scene/companies/the-dallas-opera.md","scene/companies/lyric-opera-of-chicago.md"]
 slug = "catherine-martin"
 title = "Catherine Martin"
 website = "http://www.catherinemartinmezzo.com/"

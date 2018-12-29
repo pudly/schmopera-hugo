@@ -3,6 +3,7 @@ date = "2016-04-27T21:28:00+01:00"
 lastmod = "2016-04-27T21:28:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461788812552/2016-04-27---Logo-MN-opera.jpg.jpg"
 publishDate = "2016-04-27T21:28:00+01:00"
+related_people = ["scene/people/will-liverman.md","scene/people/craig-irvin.md","scene/people/nancy-allen-lundy.md","scene/people/brian-jagde.md","scene/people/kevin-puts.md","scene/people/karin-wolverton.md","scene/people/harry-bicket.md","scene/people/missy-mazzoli.md","scene/people/lester-lynch.md","scene/people/roger-honeywell.md","scene/people/alfred-walker.md","scene/people/matt-boehler.md","scene/people/troy-cook.md","scene/people/rachel-sterrenberg.md","scene/people/mary-evelyn-hangley.md","scene/people/andres-acosta.md","scene/people/nadia-fayad.md","scene/people/andrew-wilkowske.md","scene/people/james-robinson.md","scene/people/sara-jakubiak.md","scene/people/david-walton.md","scene/people/susannah-biller.md","scene/people/amber-wagner.md","scene/people/richard-ollarsaba.md","scene/people/johanni-van-oostrum.md","scene/people/angela-mortellaro.md","scene/people/john-tessier.md","scene/people/jacquelyn-wagner.md","scene/people/julien-behr.md","scene/people/greer-grimsley.md","scene/people/catherine-martin.md","scene/people/karen-slack.md","scene/people/seth-carico.md","scene/people/dennis-petersen.md","scene/people/emily-pulley.md","scene/people/dominick-chenes.md"]
 slug = "minnesota-opera"
 title = "Minnesota Opera"
 type_of_company = "Opera Company"

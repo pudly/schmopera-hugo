@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-04-09T11:33:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491733727700/jeff_williams-03.jpg.jpg"
 publishDate = "2017-04-09T11:32:00+01:00"
+related_companies = ["scene/companies/nashville-opera.md"]
 slug = "jeffrey-williams"
 title = "Jeffrey Williams"
 website = "http://jeffreywilliamsbaritone.com/"

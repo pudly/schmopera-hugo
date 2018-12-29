@@ -5,6 +5,7 @@ lastmod = "2017-11-06T14:31:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509996367771/YING_FANG-8741_V2.jpg.jpg"
 primary_image_credit = "Courtesy of IMG Artists"
 publishDate = "2017-11-06T14:29:00-05:00"
+related_companies = ["scene/companies/washington-national-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/scene/opernhaus-zurich.md","scene/companies/vancouver-opera.md","scene/companies/opera-philadelphia.md"]
 slug = "ying-fang"
 title = "Ying Fang"
 website = "http://www.yingfangsoprano.com/"

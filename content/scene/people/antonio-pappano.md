@@ -5,6 +5,7 @@ lastmod = "2015-04-06T21:55:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428371600665/PappanoIMG.jpg.jpg"
 primary_image_credit = "Musacchio & Ianniello"
 publishDate = "2015-04-06T21:55:00-04:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md","scene/companies/english-national-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md"]
 slug = "antonio-pappano"
 title = "Antonio Pappano"
 [[social_media]]

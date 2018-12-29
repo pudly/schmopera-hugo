@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-04-07T15:55:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428436388534/CREE-HEADSHOT.jpg.jpg"
 publishDate = "2015-04-07T15:55:00-04:00"
+related_companies = ["scene/companies/manhattan-school-of-music.md","scene/companies/beth-morrison-projects.md"]
 slug = "cree-carrico"
 title = "Cree Carrico"
 website = "http://www.creecarrico.com/"

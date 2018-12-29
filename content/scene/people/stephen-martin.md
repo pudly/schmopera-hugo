@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-07-31T09:37:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501508137141/bw_StephenMartin.jpg.jpg"
 publishDate = "2017-07-31T09:37:00-04:00"
+related_companies = ["scene/companies/the-santa-fe-opera.md"]
 slug = "stephen-martin"
 title = "Stephen Martin"
 website = "https://www.stephenmartintenor.com/"

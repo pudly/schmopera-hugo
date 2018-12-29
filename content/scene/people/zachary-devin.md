@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-04-09T11:37:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491734114752/14595624_564872690376772_6208599192019292011_n.jpg%3Foh%3Dfdfe34df3320b2046429a749c1df19c6%26oe%3D598E21F2"
 publishDate = "2017-04-09T11:37:00+01:00"
+related_companies = ["scene/companies/nashville-opera.md"]
 slug = "zachary-devin"
 title = "Zachary Devin"
 [[social_media]]

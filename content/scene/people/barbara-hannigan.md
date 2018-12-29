@@ -5,6 +5,7 @@ lastmod = "2015-04-06T22:32:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428373702323/bh-ElmerdeHaas4.jpg.jpg"
 primary_image_credit = "Elmer de Haas"
 publishDate = "2015-04-06T22:32:00-04:00"
+related_companies = ["scene/companies/toronto-symphony-orchestra.md","scene/companies/bayerische-staatsoper.md"]
 slug = "barbara-hannigan"
 title = "Barbara Hannigan"
 website = "http://www.barbarahannigan.com/"

@@ -5,6 +5,7 @@ lastmod = "2017-05-02T13:23:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493745454770/2017-05-02---Iestyn-Davies-1.jpg.jpg"
 primary_image_credit = "Marco Borggreve"
 publishDate = "2017-05-02T13:21:00-04:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/glyndebourne.md","scene/companies/scene/opernhaus-zurich.md","scene/companies/the-metropolitan-opera.md","scene/companies/welsh-national-opera.md","scene/companies/english-national-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/salzburg-festival.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md"]
 slug = "iestyn-davies"
 title = "Iestyn Davies"
 website = "http://www.iestyndavies.com/"

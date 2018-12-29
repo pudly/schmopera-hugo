@@ -4,6 +4,7 @@ discipline = "Bass"
 lastmod = "2015-11-22T21:41:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448246471187/2015-11-21---Dylan-Wright.jpg.jpg"
 publishDate = "2015-11-22T21:41:00-05:00"
+related_companies = ["scene/companies/university-of-toronto-opera.md","scene/companies/opera-nuova.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md","scene/companies/latelier-lyrique-de-lopra-de-montral.md","scene/companies/lopra-de-montral.md","scene/companies/jeunesses-musicales-canada.md"]
 slug = "dylan-wright"
 title = "Dylan Wright"
 +++

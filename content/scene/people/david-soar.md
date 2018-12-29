@@ -4,6 +4,7 @@ discipline = "Bass"
 lastmod = "2016-05-24T06:21:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464085035595/2016-05-24---David-Soar.gif"
 publishDate = "2016-05-24T06:21:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/garsington-opera.md","scene/companies/english-national-opera.md","scene/companies/welsh-national-opera.md","scene/companies/glyndebourne.md","scene/companies/salzburg-festival.md"]
 slug = "david-soar"
 title = "David Soar"
 +++

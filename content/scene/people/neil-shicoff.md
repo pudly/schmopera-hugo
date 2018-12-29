@@ -5,6 +5,7 @@ lastmod = "2015-05-28T14:13:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432836708761/Neil.jpg.jpg"
 primary_image_credit = "Ernst Kainerstorfer"
 publishDate = "2015-05-27T13:20:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/the-santa-fe-opera.md"]
 slug = "neil-shicoff"
 title = "Neil Shicoff"
 website = "http://shicoff.com/html/e/interview_e.html"

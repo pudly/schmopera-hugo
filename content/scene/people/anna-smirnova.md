@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2018-09-23T19:56:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537746941948/7ac5265faf2a6e72c239dd3c616ed2cf.JPG"
 publishDate = "2018-09-23T19:56:00-04:00"
+related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/the-metropolitan-opera.md","scene/companies/los-angeles-opera.md","scene/companies/staatsoper-berlin.md","scene/companies/bayerische-staatsoper.md"]
 slug = "anna-smirnova"
 title = "Anna Smirnova"
 +++

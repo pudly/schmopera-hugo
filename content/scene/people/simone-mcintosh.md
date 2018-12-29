@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-04-12T23:59:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428897453814/0cd0b.jpg.jpg"
 publishDate = "2015-04-12T23:59:00-04:00"
+related_companies = ["scene/companies/myopera.md","scene/companies/songfest.md"]
 slug = "simone-mcintosh"
 title = "Simone McIntosh"
 [[social_media]]

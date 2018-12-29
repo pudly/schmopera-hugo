@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2018-10-18T20:52:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539910285030/Anna-Sophie%2BNeher%2B-%2B1.jpg.jpg"
 publishDate = "2018-10-18T20:52:00-04:00"
+related_companies = ["scene/companies/opera-mcgill.md","scene/companies/canadian-opera-company.md"]
 slug = "annasophie-neher"
 title = "Anna-Sophie Neher"
 website = "http://www.annasophieneher.com/"

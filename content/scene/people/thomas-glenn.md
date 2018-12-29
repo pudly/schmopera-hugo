@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2018-10-18T21:09:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539911262308/Thomas-Glenn-e1469632815863.jpg.jpg"
 publishDate = "2018-10-18T21:09:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/calgary-opera.md","scene/companies/the-atlanta-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/english-national-opera.md"]
 slug = "thomas-glenn"
 title = "Thomas Glenn"
 website = "http://www.thomas-glenn.com/"

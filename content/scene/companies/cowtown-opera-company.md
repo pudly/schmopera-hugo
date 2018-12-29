@@ -3,6 +3,7 @@ date = "2015-03-29T23:42:00-04:00"
 lastmod = "2015-03-29T23:42:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1427686798313/CowtownOperaLogo.jpeg"
 publishDate = "2015-03-29T23:42:00-04:00"
+related_people = ["scene/people/ashlie-corcoran.md","scene/people/christopher-mayell.md","scene/people/nathan-keoughan.md","scene/people/micah-schroeder.md","scene/people/rich-coburn.md","scene/people/tyler-fitzgerald.md"]
 slug = "cowtown-opera-company"
 title = "Cowtown Opera Company"
 type_of_company = "Opera Company"

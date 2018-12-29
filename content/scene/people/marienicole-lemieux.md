@@ -4,6 +4,7 @@ discipline = "Contralto"
 lastmod = "2017-01-27T11:07:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485514952585/Intermezzo-portrait-Lemieux-400x500.png"
 publishDate = "2017-01-27T11:05:00+00:00"
+related_companies = ["scene/companies/la-monnaie.md","scene/companies/opra-national-de-paris.md","scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/staatsoper-berlin.md","scene/companies/wiener-staatsoper.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/glyndebourne.md","scene/companies/salzburg-festival.md","scene/companies/lopra-de-montral.md","scene/companies/bayerische-staatsoper.md","scene/companies/scene/opernhaus-zurich.md"]
 slug = "marienicole-lemieux"
 title = "Marie-Nicole Lemieux"
 website = "http://www.marienicolelemieux.com/en/home/"

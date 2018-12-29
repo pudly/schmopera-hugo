@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2015-04-26T00:03:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430021016267/Gregory-Dahl.jpg.jpg"
 publishDate = "2015-04-07T17:46:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/vancouver-opera.md","scene/companies/calgary-opera.md","scene/companies/edmonton-opera.md","scene/companies/lopra-de-montral.md","scene/companies/manitoba-opera.md","scene/companies/opera-theatre-of-st-louis.md"]
 slug = "gregory-dahl"
 title = "Gregory Dahl"
 website = "http://www.gregorydahl.com/"

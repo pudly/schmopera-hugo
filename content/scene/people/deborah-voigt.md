@@ -5,6 +5,7 @@ lastmod = "2015-04-07T16:31:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428438597000/DeborahVoigt-pc-DarioAcosta.jpg.jpg"
 primary_image_credit = "Dario Acosta"
 publishDate = "2015-04-07T16:30:00-04:00"
+related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/the-dallas-opera.md"]
 slug = "deborah-voigt"
 title = "Deborah Voigt"
 website = "http://deborahvoigt.com/"

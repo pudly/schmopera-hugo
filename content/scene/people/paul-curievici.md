@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-11-14T17:37:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510699010683/017_Paul_Curievici017%2520low%2520res%2520website.jpg.jpg"
 publishDate = "2017-11-14T17:37:00-05:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/shadwell-opera.md","scene/companies/scottish-opera.md","scene/companies/northern-ireland-opera.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/grange-park-opera.md"]
 slug = "paul-curievici"
 title = "Paul Curievici"
 website = "https://www.paulcurievici.co.uk/"

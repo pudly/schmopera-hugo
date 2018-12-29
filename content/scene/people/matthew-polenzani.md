@@ -5,6 +5,7 @@ lastmod = "2017-09-10T11:53:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443568334861/PolenzaniAcostaSquare.jpg.jpg"
 primary_image_credit = "Photo by Dario Acosta"
 publishDate = "2015-09-29T19:17:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/opra-national-de-paris.md","scene/companies/san-francisco-opera.md","scene/companies/los-angeles-opera.md","scene/companies/seattle-opera.md"]
 slug = "matthew-polenzani"
 title = "Matthew Polenzani"
 website = "http://www.matthewpolenzani.com/"

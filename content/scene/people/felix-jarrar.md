@@ -4,6 +4,7 @@ discipline = "Pianist, composer"
 lastmod = "2017-05-21T17:48:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495403164038/9597410_orig.jpg.jpg"
 publishDate = "2017-05-21T17:48:00-04:00"
+related_companies = ["scene/companies/brooklyn-academy-of-music.md"]
 slug = "felix-jarrar"
 title = "Felix Jarrar"
 website = "http://www.felixjarrarmusic.com/"

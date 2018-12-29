@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2016-06-19T15:05:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466370230235/2016-06-20--Tritchew-Headshot-1.jpg.jpg"
 publishDate = "2016-06-19T15:05:00-06:00"
+related_companies = ["scene/companies/calgary-opera-emerging-artist-development-program.md"]
 slug = "stephanie-tritchew"
 title = "Stephanie Tritchew"
 [[social_media]]

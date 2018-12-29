@@ -4,6 +4,7 @@ discipline = "Stage Director"
 lastmod = "2016-04-06T13:58:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459947350123/2016-04-06---Anna-Theodosakis.jpg.jpg"
 publishDate = "2016-04-06T13:58:00+01:00"
+related_companies = ["scene/companies/university-of-toronto-opera.md","scene/companies/myopera.md"]
 slug = "anna-theodosakis"
 title = "Anna Theodosakis"
 [[social_media]]

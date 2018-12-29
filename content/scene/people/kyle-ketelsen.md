@@ -4,6 +4,7 @@ discipline = "Bass-baritone"
 lastmod = "2015-04-11T22:02:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428803895465/160961_750.jpg.jpg"
 publishDate = "2015-04-11T22:02:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/canadian-opera-company.md","scene/companies/san-francisco-opera.md","scene/companies/houston-grand-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/los-angeles-opera.md","scene/companies/glimmerglass-festival.md"]
 slug = "kyle-ketelsen"
 title = "Kyle Ketelsen"
 website = "http://kyleketelsen.instantencore.com/web/home.aspx"

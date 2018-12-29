@@ -3,6 +3,7 @@ date = "2015-10-26T17:40:00-04:00"
 lastmod = "2015-10-26T17:41:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445895709136/OGRLogo.jpg.jpg"
 publishDate = "2015-10-26T17:41:00-04:00"
+related_people = ["scene/people/elizabeth-caballero.md"]
 slug = "opera-grand-rapids"
 title = "Opera Grand Rapids"
 type_of_company = "Opera Company"

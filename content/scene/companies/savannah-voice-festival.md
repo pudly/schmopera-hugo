@@ -3,6 +3,7 @@ date = "2015-09-07T22:12:00-04:00"
 lastmod = "2015-09-07T22:16:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441678353392/savvoivefest.jpg.jpg"
 publishDate = "2015-09-07T22:12:00-04:00"
+related_people = ["scene/people/sherrill-milnes.md"]
 slug = "savannah-voice-festival"
 title = "Savannah VOICE Festival"
 type_of_company = "Vocal Arts Festival"

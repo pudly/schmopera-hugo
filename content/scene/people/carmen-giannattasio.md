@@ -5,6 +5,7 @@ lastmod = "2017-12-04T19:43:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512434040898/IMG_1921.jpg.jpg"
 primary_image_credit = "Victor Santiago"
 publishDate = "2017-12-04T19:43:00-05:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md","scene/companies/scottish-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/los-angeles-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/wiener-staatsoper.md"]
 slug = "carmen-giannattasio"
 title = "Carmen Giannattasio"
 website = "http://www.carmengiannattasio.com/"

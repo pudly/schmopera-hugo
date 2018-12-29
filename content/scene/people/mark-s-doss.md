@@ -4,6 +4,7 @@ discipline = "Bass-baritone"
 lastmod = "2017-12-04T19:54:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512434735216/thumb8_dd5f22830ddfbc7519ef0126701785f1.jpg.jpg"
 publishDate = "2017-12-04T19:54:00-05:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/welsh-national-opera.md","scene/companies/canadian-opera-company.md","scene/companies/the-santa-fe-opera.md","scene/companies/oper-frankfurt.md","scene/companies/la-monnaie.md","scene/companies/staatsoper-berlin.md"]
 slug = "mark-s-doss"
 title = "Mark S. Doss"
 website = "https://www.marksdoss.com/"

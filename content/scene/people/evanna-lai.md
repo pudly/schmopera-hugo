@@ -5,6 +5,7 @@ lastmod = "2017-07-25T09:50:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500990526450/b251f3_47b16520c0af41b88da4a467580d5b28~mv2_d_2403_3600_s_4_2.webp"
 primary_image_credit = "Carly Faust"
 publishDate = "2017-07-25T09:50:00-04:00"
+related_companies = ["scene/companies/the-santa-fe-opera.md"]
 slug = "evanna-lai"
 title = "Evanna Lai"
 website = "http://www.evannalai.com/"

@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-06-28T21:04:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498705327024/2017-06-28---Emily-Edmonds-Portrait-1.jpg.jpg"
 publishDate = "2017-06-28T21:04:00-06:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/scottish-opera.md","scene/companies/opera-holland-park.md"]
 slug = "emily-edmonds"
 title = "Emily Edmonds"
 [[social_media]]

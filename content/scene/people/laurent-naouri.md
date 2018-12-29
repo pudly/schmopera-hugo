@@ -5,6 +5,7 @@ lastmod = "2017-10-17T19:51:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508283943392/a05ab5_47354d2acd7f493f8e2a9b8477601fb4.webp"
 primary_image_credit = "Bernard Martinez"
 publishDate = "2017-10-17T19:51:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/the-santa-fe-opera.md","scene/companies/glyndebourne.md","scene/companies/bayerische-staatsoper.md","scene/companies/los-angeles-opera.md","scene/companies/salzburg-festival.md","scene/companies/scene/opernhaus-zurich.md"]
 slug = "laurent-naouri"
 title = "Laurent Naouri"
 +++

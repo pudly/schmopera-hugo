@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2016-10-07T11:26:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475835755973/2016-10-06---Hajek.jpg.jpg"
 publishDate = "2016-10-07T11:26:00+01:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/lopra-de-montral.md","scene/companies/the-atlanta-opera.md","scene/companies/the-juilliard-school.md","scene/companies/semperoper-dresden.md","scene/companies/oper-frankfurt.md"]
 slug = "alexander-hajek"
 title = "Alexander Hajek"
 +++

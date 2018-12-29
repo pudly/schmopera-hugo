@@ -5,6 +5,7 @@ lastmod = "2017-10-17T18:42:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508279511969/Riccardo%20Frizza%20%C2%A9%20Joan%20Toma%CC%81s%20-%20Fidelio%20Artist.jpg.jpg"
 primary_image_credit = "Joan Tomás"
 publishDate = "2017-10-17T18:38:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/opra-national-de-paris.md","scene/companies/canadian-opera-company.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/san-francisco-opera.md","scene/companies/the-dallas-opera.md"]
 slug = "riccardo-frizza"
 title = "Riccardo Frizza"
 website = "http://riccardofrizza.com/"

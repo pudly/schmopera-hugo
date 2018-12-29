@@ -5,6 +5,7 @@ lastmod = "2016-04-16T16:20:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460819698928/2016-04-17---Ludovic-Tezier---Credit-Elie-Ruderman.jpg.jpg"
 primary_image_credit = "Elie Ruderman"
 publishDate = "2016-04-16T16:20:00+01:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/teatro-alla-scala.md","scene/companies/deutsche-oper-berlin.md","scene/companies/wiener-staatsoper.md","scene/companies/glyndebourne.md","scene/companies/salzburg-festival.md"]
 slug = "ludovic-tezier"
 title = "Ludovic Tézier"
 +++

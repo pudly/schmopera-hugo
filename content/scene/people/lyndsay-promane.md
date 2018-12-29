@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-06-05T21:05:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432575938712/LyndsayPromane.jpg.jpg"
 publishDate = "2015-05-25T11:45:00-06:00"
+related_companies = ["scene/companies/university-of-toronto-opera.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md","scene/companies/opera-atelier.md","scene/companies/myopera.md"]
 slug = "lyndsay-promane"
 title = "Lyndsay Promane"
 website = "https://about.me/lyndsaypromane"

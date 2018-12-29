@@ -3,6 +3,7 @@ date = "2015-03-30T22:41:00-04:00"
 lastmod = "2015-03-30T22:41:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1427769559417/ERMO_icon_logo.jpg.jpg"
 publishDate = "2015-03-30T22:41:00-04:00"
+related_people = ["scene/people/maureen-batt.md","scene/people/erin-bardua.md","scene/people/jesse-clark.md","scene/people/james-levesque.md","scene/people/julie-ludwig.md","scene/people/jeremy-ludwig.md"]
 slug = "essential-opera"
 title = "Essential Opera"
 type_of_company = "Opera Company"

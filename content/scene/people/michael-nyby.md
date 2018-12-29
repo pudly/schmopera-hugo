@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2018-12-10T10:30:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447208826062/2015-11-11---Nyby-Square.jpg.jpg"
 publishDate = "2015-11-10T21:27:00-05:00"
+related_companies = ["scene/companies/vancouver-opera.md","scene/companies/edmonton-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/tongue-in-cheek-productions.md"]
 slug = "michael-nyby"
 title = "Michael Nyby"
 website = "http://www.michaelnyby.com/Site/Welcome.html"

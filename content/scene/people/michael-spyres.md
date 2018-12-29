@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-07-02T22:16:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499055095671/2017-07-02---Michael-Spyres.jpg.jpg"
 publishDate = "2017-07-02T22:11:00-06:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/deutsche-oper-berlin.md","scene/companies/teatro-alla-scala.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/la-monnaie.md","scene/companies/opera-philadelphia.md","scene/companies/wiener-staatsoper.md","scene/companies/scene/opernhaus-zurich.md","scene/companies/salzburg-festival.md"]
 slug = "michael-spyres"
 title = "Michael Spyres"
 website = "http://www.michaelspyres.com/"

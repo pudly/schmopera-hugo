@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-10-09T11:56:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507564378878/JAKUBIAK-Sara-Ashley-Plante-755x1030.jpg.jpg"
 publishDate = "2017-10-09T11:56:00-04:00"
+related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/deutsche-oper-berlin.md","scene/companies/bayerische-staatsoper.md","scene/companies/english-national-opera.md","scene/companies/minnesota-opera.md"]
 slug = "sara-jakubiak"
 title = "Sara Jakubiak"
 website = "http://www.sarajakubiak.com/"

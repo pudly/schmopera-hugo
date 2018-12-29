@@ -4,6 +4,7 @@ discipline = "Conductor"
 draft = true
 lastmod = "2016-09-16T13:34:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474029059298/2016-09-16---Marco-Armiliato.jpg.jpg"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/wiener-staatsoper.md","scene/companies/deutsche-oper-berlin.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/bayerische-staatsoper.md"]
 slug = "marco-armiliato"
 title = "Marco Armiliato"
 +++

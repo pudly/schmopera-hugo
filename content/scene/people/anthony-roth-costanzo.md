@@ -5,6 +5,7 @@ lastmod = "2015-12-13T19:35:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450049898957/2015-12-13---Anthony-Roth-Costanzo.jpg.jpg"
 primary_image_credit = "Matthu Placek"
 publishDate = "2015-12-13T18:39:00-05:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/glyndebourne.md","scene/companies/seattle-opera.md","scene/companies/canadian-opera-company.md","scene/companies/english-national-opera.md"]
 slug = "anthony-roth-costanzo"
 title = "Anthony Roth Costanzo"
 website = "http://anthonyrothcostanzo.com/"

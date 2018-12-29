@@ -5,6 +5,7 @@ lastmod = "2017-09-19T22:26:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505874267460/RB_Schlather_Portrait.jpg.jpg"
 primary_image_credit = "Matthew Placek"
 publishDate = "2017-09-19T22:26:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/canadian-opera-company.md","scene/companies/english-national-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/portland-opera.md"]
 slug = "rb-schlather"
 title = "R.B. Schlather"
 website = "http://www.rbschlather.com/"

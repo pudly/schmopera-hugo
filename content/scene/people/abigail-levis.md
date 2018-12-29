@@ -5,6 +5,7 @@ lastmod = "2017-03-15T10:53:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489575191844/2017-03-15---Abigail-Levis.jpg.jpg"
 primary_image_credit = "Courtesy of Dean Artists Management"
 publishDate = "2016-12-21T03:00:00+00:00"
+related_companies = ["scene/companies/toronto-symphony-orchestra.md","scene/companies/deutsche-oper-berlin.md","scene/companies/wolf-trap-opera.md"]
 slug = "abigail-levis"
 title = "Abigail Levis"
 website = "http://www.abigaillevis.com/"

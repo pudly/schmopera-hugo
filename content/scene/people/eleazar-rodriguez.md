@@ -5,6 +5,7 @@ lastmod = "2016-10-05T12:50:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475667963649/2016-10-05---Eleazar-Rodriguez.jpg.jpg"
 primary_image_credit = "Felix Grünschloß"
 publishDate = "2016-10-05T12:50:00+01:00"
+related_companies = ["scene/companies/merola-opera-program.md","scene/companies/san-francisco-opera.md","scene/companies/english-national-opera.md"]
 slug = "eleazar-rodriguez"
 title = "Eleazar Rodríguez"
 website = "http://www.eleazarrodriguez.com.mx/"

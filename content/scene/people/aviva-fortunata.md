@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-02-10T19:53:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486756319312/2017-02-10---Aviva-Fortunata.jpg.jpg"
 publishDate = "2015-04-07T03:18:00+01:00"
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/merola-opera-program.md","scene/companies/cardiff-singer-of-the-world-competition.md"]
 slug = "aviva-fortunata"
 title = "Aviva Fortunata"
 [[social_media]]

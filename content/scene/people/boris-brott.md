@@ -4,6 +4,7 @@ discipline = "Conductor"
 lastmod = "2015-04-06T22:40:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428374345432/BorisBrott.jpg.jpg"
 publishDate = "2015-04-06T22:40:00-04:00"
+related_companies = ["scene/companies/brott-opera.md","scene/companies/opera-mcgill.md"]
 slug = "boris-brott"
 title = "Boris Brott"
 website = "http://borisbrott.com/default.html"

@@ -5,6 +5,7 @@ lastmod = "2017-01-28T09:57:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485597364123/2017-01-28---Courtney_MichelleDohertyPhotography.jpg.jpg"
 primary_image_credit = "Diamond Edge's Photography"
 publishDate = "2017-01-28T09:57:00+00:00"
+related_companies = ["scene/companies/nashville-opera.md"]
 slug = "courtney-ruckman"
 title = "Courtney Ruckman"
 [[social_media]]

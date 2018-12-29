@@ -5,6 +5,7 @@ lastmod = "2017-01-26T16:53:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485448935034/2017-01-26---Sergey_Romanovsky---Natalia_Muzhetskaya.jpg.jpg"
 primary_image_credit = "Natalia Muzhetskaya"
 publishDate = "2017-01-26T16:52:00+00:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/lopra-de-montral.md","scene/companies/la-monnaie.md","scene/companies/teatro-alla-scala.md"]
 slug = "sergey-romanovsky"
 title = "Sergey Romanovsky"
 +++

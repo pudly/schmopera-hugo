@@ -5,6 +5,7 @@ lastmod = "2017-09-19T11:15:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505833973041/2017-09-19---Orlinksi---Piotr-Porebsky7.jpg.jpg"
 primary_image_credit = "Piotr Porebsky"
 publishDate = "2017-09-19T11:14:00-04:00"
+related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/the-metropolitan-opera.md"]
 slug = "jakub-jozef-orlinski"
 title = "Jakub Józef Orliński"
 website = "http://jakubjozeforlinski.com/"

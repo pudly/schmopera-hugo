@@ -5,6 +5,7 @@ lastmod = "2016-09-03T14:57:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472910991210/2016-09-03---Mack-HS---Simon-Pauly.jpg.jpg"
 primary_image_credit = "Simon Pauly"
 publishDate = "2016-09-03T14:57:00+01:00"
+related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/royal-opera-house.md","scene/companies/merola-opera-program.md","scene/companies/the-metropolitan-opera.md","scene/companies/arizona-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/english-national-opera.md","scene/companies/washington-national-opera.md"]
 slug = "daniela-mack"
 title = "Daniela Mack"
 website = "http://www.danielamack.com/"

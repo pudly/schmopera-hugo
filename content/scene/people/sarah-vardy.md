@@ -5,6 +5,7 @@ lastmod = "2018-09-21T13:21:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537550329625/download.jpeg"
 primary_image_credit = "Ophelia & Romeo Photography."
 publishDate = "2018-09-21T13:21:00-04:00"
+related_companies = ["scene/companies/highlands-opera-studio.md","scene/companies/pacific-opera-victoria.md"]
 slug = "sarah-vardy"
 title = "Sarah Vardy"
 website = "http://sarahvardy.com/"

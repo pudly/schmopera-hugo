@@ -4,6 +4,7 @@ discipline = "Director"
 lastmod = "2016-01-06T11:26:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452097547591/2016-01-05---Robert-Lepage.jpg.jpg"
 publishDate = "2016-01-06T11:26:00-05:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/opra-national-de-paris.md"]
 slug = "robert-lepage"
 title = "Robert Lepage"
 +++

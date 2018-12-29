@@ -5,6 +5,7 @@ lastmod = "2017-10-02T13:37:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506965726945/5535d1_97f3a7b75ece49eb9b8aa4e74a029e39~mv2_d_1365_2048_s_2.webp"
 primary_image_credit = "Synthia Steiman"
 publishDate = "2017-10-02T13:37:00-04:00"
+related_companies = ["scene/companies/minnesota-opera.md","scene/companies/merola-opera-program.md"]
 slug = "andres-acosta"
 title = "Andres Acosta"
 website = "https://www.andresacostatenor.com/"

@@ -4,6 +4,7 @@ discipline = "Stage director"
 lastmod = "2015-07-28T16:19:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438114652029/MarvelHeadshot.jpg.jpg"
 publishDate = "2015-07-28T16:19:00-04:00"
+related_companies = ["scene/companies/wolf-trap-opera.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md","scene/companies/opera-on-the-avalon.md"]
 slug = "james-marvel"
 title = "James Marvel"
 website = "http://www.jamesmarvel.com/"

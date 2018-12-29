@@ -5,6 +5,7 @@ lastmod = "2015-04-12T18:58:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428879235084/bob_edit_8_forprintsharpercolourcrop.jpg.jpg"
 primary_image_credit = "Adrian Parks"
 publishDate = "2015-04-12T18:58:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/houston-grand-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/san-francisco-opera.md","scene/companies/curtis-institute-of-music.md"]
 slug = "robert-pomakov"
 title = "Robert Pomakov"
 +++

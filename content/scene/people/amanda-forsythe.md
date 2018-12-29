@@ -5,6 +5,7 @@ lastmod = "2017-03-15T12:08:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482287859684/2016-12-20---Amanda-Forsythe.jpg.jpg"
 primary_image_credit = "Arielle Doneson"
 publishDate = "2016-12-21T02:46:00+00:00"
+related_companies = ["scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md","scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md"]
 slug = "amanda-forsythe"
 title = "Amanda Forsythe"
 website = "http://www.amandaforsythe.com/"

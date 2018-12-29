@@ -5,6 +5,7 @@ lastmod = "2017-06-18T19:01:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497833834861/2017-06-19---HYESANG_PARK_pc_Dario_Acosta.jpg.jpg"
 primary_image_credit = "Dario Acosta"
 publishDate = "2017-06-18T19:01:00-06:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/glyndebourne.md","scene/companies/bayerische-staatsoper.md"]
 slug = "hyesang-park"
 title = "Hyesang Park"
 [[social_media]]

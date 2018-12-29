@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2018-03-17T19:46:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521330315931/619C1157152.jpg.jpg"
 publishDate = "2018-03-17T19:46:00-04:00"
+related_companies = ["scene/companies/wiener-staatsoper.md","scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/teatro-alla-scala.md"]
 slug = "franco-vassallo"
 title = "Franco Vassallo"
 website = "http://www.francovassallo.com/"

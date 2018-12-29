@@ -5,6 +5,7 @@ lastmod = "2015-04-07T22:51:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428461432941/Kelly.jpg.jpg"
 primary_image_credit = "Devon Cass"
 publishDate = "2015-04-07T22:51:00-04:00"
+related_companies = ["scene/companies/opera-theatre-of-st-louis.md","scene/companies/canadian-opera-company.md","scene/companies/houston-grand-opera.md","scene/companies/lyric-opera-of-chicago.md"]
 slug = "kelly-kaduce"
 title = "Kelly Kaduce"
 [[social_media]]

@@ -5,6 +5,7 @@ lastmod = "2017-09-15T22:04:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505527198611/Jarrett_Ott_pc_Dario_Acosta_a_300dpi.jpg.jpg"
 primary_image_credit = "Dario Acosta"
 publishDate = "2017-09-15T22:03:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/lyric-opera-of-kansas-city.md","scene/companies/the-santa-fe-opera.md","scene/companies/curtis-institute-of-music.md"]
 slug = "jarrett-ott"
 title = "Jarrett Ott"
 website = "http://www.jarrettott.com/"

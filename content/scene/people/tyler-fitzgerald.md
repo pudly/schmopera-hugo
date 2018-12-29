@@ -4,6 +4,7 @@ discipline = "Bass-baritone"
 lastmod = "2018-05-31T16:10:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527797317884/Tyler%20Fitzgerald.jpg.jpg"
 publishDate = "2018-05-31T16:10:00-04:00"
+related_companies = ["scene/companies/edmonton-opera.md","scene/companies/pacific-opera-victoria.md","scene/companies/calgary-opera.md","scene/companies/vancouver-opera.md","scene/companies/cowtown-opera-company.md"]
 slug = "tyler-fitzgerald"
 title = "Tyler Fitzgerald"
 +++

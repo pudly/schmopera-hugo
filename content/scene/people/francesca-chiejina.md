@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-07-02T22:07:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499053930964/2017-07-02---Francesca-Chiejina.jpg.jpg"
 publishDate = "2017-07-02T21:57:00-06:00"
+related_companies = ["scene/companies/royal-opera-house.md"]
 slug = "francesca-chiejina"
 title = "Francesca Chiejina"
 +++

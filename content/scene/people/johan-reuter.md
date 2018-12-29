@@ -5,6 +5,7 @@ lastmod = "2015-09-29T19:10:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443568068504/REUTER_Johan_baritone-bass_p01r_large.jpg.jpg"
 primary_image_credit = "Photo: Miklos Szabo"
 publishDate = "2015-09-29T19:10:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/salzburg-festival.md","scene/companies/wiener-staatsoper.md","scene/companies/deutsche-oper-berlin.md","scene/companies/opra-national-de-paris.md","scene/companies/royal-opera-house.md","scene/companies/scene/opernhaus-zurich.md"]
 slug = "johan-reuter"
 title = "Johan Reuter"
 website = "http://www.johanreuter.com/"

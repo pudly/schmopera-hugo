@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2016-01-06T11:58:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452099343783/2016-01-05---Joseph-Calleja.jpg.jpg"
 publishDate = "2016-01-06T11:58:00-05:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/los-angeles-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/deutsche-oper-berlin.md","scene/companies/royal-opera-house.md","scene/companies/wiener-staatsoper.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/bayerische-staatsoper.md","scene/companies/salzburg-festival.md"]
 slug = "joseph-calleja"
 title = "Joseph Calleja"
 website = "http://josephcalleja.com/"

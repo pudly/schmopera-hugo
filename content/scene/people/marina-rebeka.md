@@ -5,6 +5,7 @@ lastmod = "2016-10-21T12:44:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477049624542/2016-10-21---Marina-Rebeka-Janis-Deinats.jpg.jpg"
 primary_image_credit = "Jãnis Deinats"
 publishDate = "2016-10-21T12:42:00+01:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md","scene/companies/scene/opernhaus-zurich.md","scene/companies/teatro-alla-scala.md","scene/companies/wiener-staatsoper.md"]
 slug = "marina-rebeka"
 title = "Marina Rebeka"
 website = "http://marinarebeka.com/"

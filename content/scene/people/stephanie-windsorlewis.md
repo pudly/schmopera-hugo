@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2016-05-19T11:16:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463652955487/2016-05-19---Stephanie-Windsor-Lewis.jpg.jpg"
 publishDate = "2016-05-19T11:16:00+01:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/the-metropolitan-opera.md"]
 slug = "stephanie-windsorlewis"
 title = "Stephanie Windsor-Lewis"
 website = "http://www.stephaniewindsorlewis.com/"

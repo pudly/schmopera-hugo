@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2015-12-25T10:20:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429462436305/rpdhs-2.jpg.jpg"
 publishDate = "2015-04-19T12:56:00-04:00"
+related_companies = ["scene/companies/university-of-toronto-opera.md","scene/companies/highlands-opera-studio.md"]
 slug = "ryan-downey"
 title = "Ryan Downey"
 website = "http://ryanpauldowney.com/"

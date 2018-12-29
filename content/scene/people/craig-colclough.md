@@ -4,6 +4,7 @@ discipline = "Bass-baritone"
 lastmod = "2016-06-10T13:45:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465562480377/2016-06-10---Craig-Colclough.jpg.jpg"
 publishDate = "2016-06-10T13:45:00+01:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/los-angeles-opera.md"]
 slug = "craig-colclough"
 title = "Craig Colclough"
 website = "http://www.craigcolclough.com/"

@@ -5,6 +5,7 @@ lastmod = "2015-07-20T17:23:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437427147235/LAURELLE9067Square.jpg.jpg"
 primary_image_credit = "Brittany Alyse Photography"
 publishDate = "2015-07-20T17:19:00-04:00"
+related_companies = ["scene/companies/vancouver-opera.md","scene/companies/highlands-opera-studio.md","scene/companies/opera-nuova.md","scene/companies/saskatoon-opera.md"]
 slug = "laurelle-jade-froese"
 title = "Laurelle Jade Froese"
 website = "http://www.laurellejade.com/"

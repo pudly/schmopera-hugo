@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-01-10T13:26:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484054814150/2017-01-10---Maria-Katzarava.jpg.jpg"
 publishDate = "2017-01-10T13:26:00+00:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md","scene/companies/florida-grand-opera.md","scene/companies/gran-teatre-del-liceu.md"]
 slug = "maria-katzarava"
 title = "Maria Katzarava"
 [[social_media]]

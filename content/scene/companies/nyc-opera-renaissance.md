@@ -3,6 +3,7 @@ date = "2016-01-13T13:12:00-05:00"
 draft = true
 lastmod = "2016-01-13T13:15:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452708667126/Logo---NYCO-Renaissance.jpg.jpg"
+related_people = ["scene/people/ryan-macpherson.md","scene/people/elizabeth-pojanowski.md","scene/people/joshua-jeremiah.md"]
 slug = "nyc-opera-renaissance"
 title = "NYC Opera Renaissance"
 type_of_company = "Opera company"

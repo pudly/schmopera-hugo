@@ -4,6 +4,7 @@ discipline = "S. Richards"
 lastmod = "2016-06-07T10:59:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465293222643/2016-06-07---Musa.jpg.jpg"
 publishDate = "2016-06-07T10:59:00+01:00"
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/washington-national-opera.md"]
 slug = "musa-ngqungwana"
 title = "Musa Ngqungwana"
 website = "http://www.musangqungwana.com/"

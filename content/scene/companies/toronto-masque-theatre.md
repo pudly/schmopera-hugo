@@ -3,6 +3,7 @@ date = "2015-04-07T16:25:00-04:00"
 lastmod = "2015-10-31T15:01:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446318098871/Logo---TMT.jpg.jpg"
 publishDate = "2015-04-07T16:25:00-04:00"
+related_people = ["scene/people/lawrence-wiliford.md","scene/people/james-rolfe.md","scene/people/vania-chan.md","scene/people/kimberly-barber.md","scene/people/patricia-ocallaghan.md"]
 slug = "toronto-masque-theatre"
 title = "Toronto Masque Theatre"
 type_of_company = "Opera Company"

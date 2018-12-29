@@ -5,6 +5,7 @@ lastmod = "2015-04-06T21:52:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428371404357/AnnaNetrebko-pc-Ruven-Afanador-16.jpg.jpg"
 primary_image_credit = "Ruven Afanador"
 publishDate = "2015-04-06T21:52:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/royal-opera-house.md","scene/companies/san-francisco-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/wiener-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/scene/opernhaus-zurich.md"]
 slug = "anna-netrebko"
 title = "Anna Netrebko"
 website = "http://www.annanetrebko.com/"

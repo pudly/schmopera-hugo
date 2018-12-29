@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2015-05-31T20:09:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433117346047/Hoff.jpg.jpg"
 publishDate = "2015-05-31T20:09:00-04:00"
+related_companies = ["scene/companies/vancouver-opera.md"]
 slug = "kristin-hoff"
 title = "Kristin Hoff"
 website = "http://www.kristinhoff.com/"

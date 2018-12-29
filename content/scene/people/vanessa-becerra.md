@@ -5,6 +5,7 @@ lastmod = "2018-03-18T21:25:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521422543456/_J1A4011.jpg.jpg"
 primary_image_credit = "Kristin Hoebermann"
 publishDate = "2018-03-18T21:25:00-04:00"
+related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/los-angeles-opera.md","scene/companies/the-dallas-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/des-moines-metro-opera.md","scene/companies/wolf-trap-opera.md"]
 slug = "vanessa-becerra"
 title = "Vanessa Becerra"
 website = "https://www.vanessabecerra.com/"

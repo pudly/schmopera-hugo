@@ -5,6 +5,7 @@ lastmod = "2015-08-27T11:08:00+02:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1440612467652/ChristinaCampsall-pc-EmilyDing.jpg.jpg"
 primary_image_credit = "Emily Ding Photography"
 publishDate = "2015-04-11T05:17:00+02:00"
+related_companies = ["scene/companies/royal-conservatory-of-music.md","scene/companies/voicebox-opera-in-concert.md"]
 slug = "christina-campsall"
 title = "Christina Campsall"
 website = "https://about.me/christina_campsall"

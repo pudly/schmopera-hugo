@@ -3,6 +3,7 @@ date = "2015-07-29T21:43:00-04:00"
 lastmod = "2015-07-29T21:43:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438220490850/FriendsofGravitySquare.jpg.jpg"
 publishDate = "2015-07-29T21:43:00-04:00"
+related_people = ["scene/people/stephanie-conn.md","scene/people/scott-gabriel.md"]
 slug = "the-friends-of-gravity"
 title = "The Friends of Gravity"
 type_of_company = "Music theatre company"

@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-10-07T13:41:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507397724202/Opie.jpg.jpg"
 publishDate = "2017-10-07T13:41:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/english-national-opera.md","scene/companies/glyndebourne.md","scene/companies/salzburg-festival.md","scene/companies/bayerische-staatsoper.md","scene/companies/the-santa-fe-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/wiener-staatsoper.md","scene/companies/welsh-national-opera.md","scene/companies/canadian-opera-company.md","scene/companies/opera-north.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/san-diego-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/opera-holland-park.md"]
 slug = "alan-opie"
 title = "Alan Opie"
 +++

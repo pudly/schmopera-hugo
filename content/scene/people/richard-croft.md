@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2016-01-06T11:46:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452098604543/2016-01-06---Richard-Croft.jpg.jpg"
 publishDate = "2016-01-06T11:46:00-05:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/salzburg-festival.md","scene/companies/san-francisco-opera.md","scene/companies/staatsoper-berlin.md","scene/companies/wiener-staatsoper.md","scene/companies/houston-grand-opera.md","scene/companies/washington-national-opera.md","scene/companies/glyndebourne.md"]
 slug = "richard-croft"
 title = "Richard Croft"
 website = "http://richardcroft.net/"

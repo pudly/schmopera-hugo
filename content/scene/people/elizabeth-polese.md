@@ -5,6 +5,7 @@ lastmod = "2017-06-24T14:16:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498335287867/f7937e_d388daa8d9634f249bfcc3ab99523767.png"
 primary_image_credit = "Richard Van"
 publishDate = "2017-06-24T14:16:00-06:00"
+related_companies = ["scene/companies/opera-5.md","scene/companies/brott-opera.md","scene/companies/highlands-opera-studio.md","scene/companies/opera-nuova.md"]
 slug = "elizabeth-polese"
 title = "Elizabeth Polese"
 website = "https://www.elizabethpolese.ca/"

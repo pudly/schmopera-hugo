@@ -3,6 +3,7 @@ date = "2015-06-24T18:38:00-06:00"
 lastmod = "2015-06-24T18:38:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435192647930/Zj4gsTf09iAZ_7gJNSaT-kZAtiM5YWmIx18CkJKUOWLPiIU5URtp_FZl6WuW06wBqqw%3Dw300"
 publishDate = "2015-06-24T18:38:00-06:00"
+related_people = ["scene/people/christopher-james-ray.md","scene/people/amal-elshrafi.md","scene/people/adelaide-boedecker.md","scene/people/blythe-gaissert.md","scene/people/kara-shay-thomson.md"]
 slug = "sarasota-opera"
 title = "Sarasota Opera"
 type_of_company = "Opera Company"

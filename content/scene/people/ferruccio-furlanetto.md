@@ -5,6 +5,7 @@ lastmod = "2017-03-23T11:24:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490267789999/2017-03-23---Ferruccio-Furlanetto_1_Copyright-Igor-Saharov.jpg.jpg"
 primary_image_credit = "Igor Saharov"
 publishDate = "2017-03-23T11:17:00+00:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/canadian-opera-company.md","scene/companies/teatro-alla-scala.md","scene/companies/royal-opera-house.md","scene/companies/wiener-staatsoper.md","scene/companies/salzburg-festival.md","scene/companies/san-diego-opera.md"]
 slug = "ferruccio-furlanetto"
 title = "Ferruccio Furlanetto"
 +++

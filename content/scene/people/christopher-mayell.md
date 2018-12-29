@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2015-04-07T09:19:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428412595288/ChristopherMayellHeadshot-emailable_Fotor.jpg.jpg"
 publishDate = "2015-04-07T09:19:00-04:00"
+related_companies = ["scene/companies/opera-5.md","scene/companies/cowtown-opera-company.md","scene/companies/toronto-operetta-theatre.md","scene/companies/calgary-opera.md","scene/companies/opera-nuova.md","scene/companies/tapestry-opera.md","scene/companies/calgary-opera-emerging-artist-development-program.md"]
 slug = "christopher-mayell"
 title = "Christopher Mayell"
 website = "http://christophermayell.com/"

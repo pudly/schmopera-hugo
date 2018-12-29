@@ -4,6 +4,7 @@ discipline = "Conductor"
 lastmod = "2015-06-05T16:21:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433535660978/0_0_0_0_389_259_csupload_49910738.jpg%3Fu%3D2491763661"
 publishDate = "2015-06-05T16:18:00-04:00"
+related_companies = ["scene/companies/the-dallas-opera.md"]
 slug = "arianne-abela"
 title = "Arianne Abela"
 website = "http://www.arianneabela.com/default.html"

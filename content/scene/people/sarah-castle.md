@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-07-26T22:50:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501123707455/Headshot-1.jpg.jpg"
 publishDate = "2017-07-26T22:50:00-04:00"
+related_companies = ["scene/companies/welsh-national-opera.md","scene/companies/royal-opera-house.md","scene/companies/opera-north.md","scene/companies/san-diego-opera.md","scene/companies/san-francisco-opera.md","scene/companies/spoleto-festival-usa.md","scene/companies/seattle-opera.md","scene/companies/opera-australia.md"]
 slug = "sarah-castle"
 title = "Sarah Castle"
 [[social_media]]

@@ -5,6 +5,7 @@ lastmod = "2017-09-29T19:24:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506727307700/%24"
 primary_image_credit = "K.C. Alfred"
 publishDate = "2017-09-29T19:24:00-04:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/palm-beach-opera.md","scene/companies/the-metropolitan-opera.md"]
 slug = "latonia-moore"
 title = "Latonia Moore"
 +++

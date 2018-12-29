@@ -5,6 +5,7 @@ lastmod = "2016-12-20T21:33:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482287558312/2016-12-20---Colin-Balzer-by-Catherina-Hess.jpg.jpg"
 primary_image_credit = "Catharina Hess"
 publishDate = "2016-12-20T21:33:00-05:00"
+related_companies = ["scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md","scene/companies/toronto-symphony-orchestra.md","scene/companies/salzburg-festival.md"]
 slug = "colin-balzer"
 title = "Colin Balzer"
 +++

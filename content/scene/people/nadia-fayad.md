@@ -5,6 +5,7 @@ lastmod = "2017-10-02T13:43:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506965969041/download%20(3).jpeg"
 primary_image_credit = "Kristin Hoebermann"
 publishDate = "2017-10-02T13:43:00-04:00"
+related_companies = ["scene/companies/minnesota-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/wolf-trap-opera.md"]
 slug = "nadia-fayad"
 title = "Nadia Fayad"
 website = "http://www.nadiafayad.com/"

@@ -3,6 +3,7 @@ date = "2015-05-13T21:35:00-04:00"
 lastmod = "2015-05-13T21:35:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431567251153/10666044_963204080362398_8654069362258986433_n.jpg%3Foh%3D3afe973dd92008397f7039510f126103%26oe%3D55CA634D"
 publishDate = "2015-05-13T21:35:00-04:00"
+related_people = ["scene/people/geoffrey-sirett.md","scene/people/carla-huhtanen.md","scene/people/andrea-ludwig.md","scene/people/virginia-hatfield.md","scene/people/ilana-zarankin.md","scene/people/whitney-ohearn.md","scene/people/joel-allison.md"]
 slug = "talisker-players"
 title = "Talisker Players"
 type_of_company = "Chamber Ensemble"

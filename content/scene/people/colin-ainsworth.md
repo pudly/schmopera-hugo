@@ -5,6 +5,7 @@ lastmod = "2015-04-07T15:50:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428436112927/colin_ainsworth_c_kevin_clarknr_bio.jpg.jpg"
 primary_image_credit = "Kevin Clark"
 publishDate = "2015-04-07T15:50:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/voicebox-opera-in-concert.md","scene/companies/brooklyn-academy-of-music.md","scene/companies/opera-atelier.md","scene/companies/vancouver-opera.md","scene/companies/pacific-opera-victoria.md","scene/companies/calgary-opera.md","scene/companies/royal-opera-house.md"]
 slug = "colin-ainsworth"
 title = "Colin Ainsworth"
 website = "http://www.colinainsworth.ca/"

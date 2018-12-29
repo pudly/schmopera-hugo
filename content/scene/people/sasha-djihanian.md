@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2018-10-22T11:24:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540221859272/Djihanian.jpg.jpg"
 publishDate = "2015-04-12T11:19:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
 slug = "sasha-djihanian"
 title = "Sasha Djihanian"
 website = "https://sashadjihanian.com/"

@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-01-28T09:54:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485597107997/2017-01-28---Samuel-Levine.jpg.jpg"
 publishDate = "2017-01-28T09:51:00+00:00"
+related_companies = ["scene/companies/nashville-opera.md"]
 slug = "samuel-levine"
 title = "Samuel Levine"
 website = "http://samuellevinetenor.com/"

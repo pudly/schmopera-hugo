@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-04-05T15:55:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491403993226/5825eb287c59a.jpg.jpg"
 publishDate = "2017-04-05T15:55:00+01:00"
+related_companies = ["scene/companies/popup-opera.md","scene/companies/grange-park-opera.md"]
 slug = "richard-immergluck"
 title = "Richard Immerglück"
 [[social_media]]

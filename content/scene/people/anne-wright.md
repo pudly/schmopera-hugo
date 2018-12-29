@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-11-27T18:15:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511824464281/3873020_orig.jpg.jpg"
 publishDate = "2017-11-27T18:15:00-05:00"
+related_companies = ["scene/companies/songfest.md","scene/companies/music-academy-of-the-west-voice-program.md"]
 slug = "anne-wright"
 title = "Anne Wright"
 website = "https://annewright.weebly.com/"

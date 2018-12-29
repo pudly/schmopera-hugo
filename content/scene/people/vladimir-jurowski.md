@@ -5,6 +5,7 @@ lastmod = "2017-01-22T19:21:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485112755986/2017-01-22---Jurowski_Vladimir---Sheila_Rock.jpg.jpg"
 primary_image_credit = "Sheila Rock"
 publishDate = "2017-01-22T19:21:00+00:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/staatsoper-berlin.md","scene/companies/semperoper-dresden.md","scene/companies/opra-national-de-paris.md","scene/companies/welsh-national-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/glyndebourne.md","scene/companies/salzburg-festival.md"]
 slug = "vladimir-jurowski"
 title = "Vladimir Jurowski"
 website = "http://www.vladimirjurowski.com/"

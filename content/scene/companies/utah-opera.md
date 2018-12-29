@@ -3,6 +3,7 @@ date = "2017-03-30T09:56:00+01:00"
 lastmod = "2017-03-30T09:56:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490864015723/Logo---Utah-Opera.jpg.jpg"
 publishDate = "2017-03-30T09:56:00+01:00"
+related_people = ["scene/people/christian-bowers.md","scene/people/daniel-belcher.md","scene/people/sarah-coit.md","scene/people/alfred-walker.md","scene/people/joseph-gaines.md","scene/people/melissa-parks.md","scene/people/troy-cook.md","scene/people/andrew-wilkowske.md","scene/people/nina-yoshida-nelsen.md","scene/people/michael-chioldi.md","scene/people/chad-shelton.md","scene/people/kara-shay-thomson.md","scene/people/dominick-chenes.md"]
 slug = "utah-opera"
 title = "Utah Opera"
 type_of_company = "Opera company"

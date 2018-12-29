@@ -4,6 +4,7 @@ discipline = "Composer"
 lastmod = "2015-11-20T12:32:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448040656780/2015-11-20---Ivan-Barbotin.jpg.jpg"
 publishDate = "2015-11-20T12:32:00-05:00"
+related_companies = ["scene/companies/tapestry-opera.md","scene/companies/indie-opera-to.md","scene/companies/the-bicycle-opera-project.md"]
 slug = "ivan-barbotin"
 title = "Ivan Barbotin"
 website = "http://www.barbotin.com/"

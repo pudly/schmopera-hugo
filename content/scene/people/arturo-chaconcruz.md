@@ -5,6 +5,7 @@ lastmod = "2018-05-16T12:26:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526487960453/IMG_6191RT_3000.jpg.jpg"
 primary_image_credit = "Lena Kern"
 publishDate = "2018-05-16T12:26:00-04:00"
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/san-francisco-opera.md","scene/companies/wiener-staatsoper.md"]
 slug = "arturo-chaconcruz"
 title = "Arturo Chacon-Cruz"
 website = "http://arturochaconcruz.com/home/"

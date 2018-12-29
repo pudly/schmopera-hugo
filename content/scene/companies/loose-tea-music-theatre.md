@@ -3,6 +3,7 @@ date = "2015-04-04T20:29:00-04:00"
 lastmod = "2015-10-31T14:23:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446315801268/Logo---LTMT.jpg.jpg"
 publishDate = "2015-04-04T20:29:00-04:00"
+related_people = ["scene/people/gregory-finney.md","scene/people/johnathon-kirby.md","scene/people/beth-hagerman.md","scene/people/erica-iris.md","scene/people/ryan-harper.md","scene/people/andrey-andreychik.md","scene/people/cassandra-warner.md"]
 slug = "loose-tea-music-theatre"
 title = "Loose TEA Music Theatre"
 type_of_company = "Opera Company"

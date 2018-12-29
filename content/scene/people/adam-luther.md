@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-03-15T10:57:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428336793011/AdamLuther.jpg.jpg"
 publishDate = "2015-04-06T18:16:00+01:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/pacific-opera-victoria.md","scene/companies/edmonton-opera.md","scene/companies/saskatoon-opera.md","scene/companies/highlands-opera-studio.md","scene/companies/toronto-operetta-theatre.md","scene/companies/voicebox-opera-in-concert.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
 slug = "adam-luther"
 title = "Adam Luther"
 website = "http://www.adamluthertenor.com/"

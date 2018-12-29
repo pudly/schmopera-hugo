@@ -5,6 +5,7 @@ lastmod = "2018-02-16T21:49:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518835618935/Jack%20Swanson%20(c)%20Craig%20Vanderschaegen.jpg.jpg"
 primary_image_credit = "Craig Vanderschaegen."
 publishDate = "2018-02-16T21:49:00-05:00"
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/glyndebourne.md","scene/companies/the-santa-fe-opera.md","scene/companies/des-moines-metro-opera.md"]
 slug = "jack-swanson"
 title = "Jack Swanson"
 website = "https://www.jackswansontenor.com/"

@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2015-04-08T10:27:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428503115501/Lawrence.jpg.jpg"
 publishDate = "2015-04-08T10:27:00-04:00"
+related_companies = ["scene/companies/canadian-art-song-project.md","scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md","scene/companies/opera-atelier.md","scene/companies/toronto-symphony-orchestra.md","scene/companies/toronto-masque-theatre.md"]
 slug = "lawrence-wiliford"
 title = "Lawrence Wiliford"
 website = "http://www.lawrencewiliford.com/"

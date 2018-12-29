@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-10-27T17:20:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509138968326/portrait3.jpg.jpg"
 publishDate = "2017-10-27T17:20:00-04:00"
+related_companies = ["scene/companies/teatro-alla-scala.md","scene/companies/the-metropolitan-opera.md","scene/companies/english-national-opera.md","scene/companies/salzburg-festival.md"]
 slug = "juan-sancho"
 title = "Juan Sancho"
 website = "https://www.juan-sancho.com/index.html"

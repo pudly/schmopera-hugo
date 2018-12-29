@@ -5,6 +5,7 @@ lastmod = "2017-03-16T12:39:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489667787476/2017-03-16---Patricia-Bardon---Frances-Marshall.jpg.jpg"
 primary_image_credit = "Frances Marshall"
 publishDate = "2017-03-16T12:39:00+00:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/english-national-opera.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/welsh-national-opera.md","scene/companies/glyndebourne.md","scene/companies/cardiff-singer-of-the-world-competition.md","scene/companies/opra-national-de-paris.md","scene/companies/bayerische-staatsoper.md","scene/companies/the-santa-fe-opera.md","scene/companies/royal-opera-house.md"]
 slug = "patricia-bardon"
 title = "Patricia Bardon"
 +++

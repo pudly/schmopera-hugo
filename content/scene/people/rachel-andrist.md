@@ -4,6 +4,7 @@ discipline = "Pianist, coach"
 lastmod = "2015-09-23T11:51:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443023414280/rachel_andrist.jpg.jpg"
 publishDate = "2015-09-23T11:51:00-04:00"
+related_companies = ["scene/companies/cosi-centre-for-opera-studies-in-italy.md","scene/companies/glyndebourne.md","scene/companies/canadian-opera-company.md","scene/companies/highlands-opera-studio.md","scene/companies/la-monnaie.md","scene/companies/english-national-opera.md","scene/companies/scottish-opera.md"]
 slug = "rachel-andrist"
 title = "Rachel Andrist"
 +++

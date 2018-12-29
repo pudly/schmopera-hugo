@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2015-12-30T16:25:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451510615642/2015-12-30---Geraldine-Chauvet.jpg.jpg"
 publishDate = "2015-12-30T16:25:00-05:00"
+related_companies = ["scene/companies/washington-national-opera.md","scene/companies/edmonton-opera.md"]
 slug = "geraldine-chauvet"
 title = "Géraldine Chauvet"
 website = "http://www.geraldinechauvet.com/"

@@ -3,6 +3,7 @@ date = "2016-05-30T17:25:00+01:00"
 lastmod = "2016-05-30T17:25:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464625347862/Logo---AO.jpg.jpg"
 publishDate = "2016-05-30T17:25:00+01:00"
+related_people = ["scene/people/marcus-farnsworth.md"]
 slug = "aurora-orchestra"
 title = "Aurora Orchestra"
 type_of_company = "Orchestra"

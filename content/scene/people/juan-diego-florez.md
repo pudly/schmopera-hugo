@@ -5,6 +5,7 @@ lastmod = "2016-03-29T13:41:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459254883172/2016-03-29---Juan-Diego-Florez.jpg.jpg"
 primary_image_credit = "Decca / Josef Gallauer"
 publishDate = "2016-03-29T13:37:00+01:00"
+related_companies = ["scene/companies/bayerische-staatsoper.md","scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/los-angeles-opera.md","scene/companies/san-francisco-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/salzburg-festival.md"]
 slug = "juan-diego-florez"
 title = "Juan Diego Flórez"
 website = "http://juandiegoflorez.com/"

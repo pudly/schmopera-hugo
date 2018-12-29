@@ -3,6 +3,7 @@ date = "2015-04-07T15:36:00-06:00"
 lastmod = "2016-06-17T00:38:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466145483754/Logo---MO.jpg.jpg"
 publishDate = "2015-04-07T15:36:00-06:00"
+related_people = ["scene/people/gregory-dahl.md","scene/people/tracy-dahl.md","scene/people/richard-margison.md","scene/people/michael-colvin.md","scene/people/lara-ciekiewicz.md","scene/people/catherine-daniel.md","scene/people/gordon-hawkins.md","scene/people/annemarie-macintosh.md","scene/people/john-tessier.md","scene/people/hiromi-omura.md","scene/people/nina-yoshida-nelsen.md","scene/people/kirk-eichelberger.md","scene/people/todd-thomas.md"]
 slug = "manitoba-opera"
 title = "Manitoba Opera"
 type_of_company = "Opera Company"

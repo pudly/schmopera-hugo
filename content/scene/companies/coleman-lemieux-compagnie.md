@@ -3,6 +3,7 @@ date = "2016-05-04T17:06:00+01:00"
 lastmod = "2016-05-04T17:06:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462377977854/2015-05-05---Logo---CLC.jpg.jpg"
 publishDate = "2016-05-04T17:06:00+01:00"
+related_people = ["scene/people/geoffrey-sirett.md","scene/people/alexander-dobson.md"]
 slug = "coleman-lemieux-compagnie"
 title = "Coleman Lemieux &amp; Compagnie"
 type_of_company = "Collaborative Performance Company"

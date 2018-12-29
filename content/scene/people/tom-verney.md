@@ -4,6 +4,7 @@ discipline = "Countertenor"
 lastmod = "2016-04-29T13:51:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461934175766/2016-04-29---Tom-Verney.jpg.jpg"
 publishDate = "2016-04-29T13:51:00+01:00"
+related_companies = ["scene/companies/classical-opera.md","scene/companies/scottish-opera.md","scene/companies/garsington-opera.md"]
 slug = "tom-verney"
 title = "Tom Verney"
 website = "http://www.tomverney.com/"

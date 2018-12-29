@@ -5,6 +5,7 @@ lastmod = "2016-09-20T10:35:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474364100659/2016-09-21---Erin-Wall-Kristin-Hoebermann.jpg.jpg"
 primary_image_credit = "Kristin Hoebermann"
 publishDate = "2015-04-07T22:14:00+01:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/wiener-staatsoper.md","scene/companies/the-metropolitan-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/pacific-opera-victoria.md","scene/companies/vancouver-opera.md","scene/companies/calgary-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/the-santa-fe-opera.md","scene/companies/washington-national-opera.md","scene/companies/toronto-symphony-orchestra.md"]
 slug = "erin-wall"
 title = "Erin Wall"
 website = "http://www.erinwall.com/"

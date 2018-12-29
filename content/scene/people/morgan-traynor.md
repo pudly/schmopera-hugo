@@ -5,6 +5,7 @@ lastmod = "2018-05-04T18:51:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525474158370/Morgan-Traynor-1-EDITED-2-8x10-3-Dan-Abramovici-Photography.jpg.jpg"
 primary_image_credit = "Dan Abramovici Photography"
 publishDate = "2018-05-04T18:51:00-04:00"
+related_companies = ["scene/companies/calgary-opera-emerging-artist-development-program.md","scene/companies/calgary-opera.md"]
 slug = "morgan-traynor"
 title = "Morgan Traynor"
 [[social_media]]

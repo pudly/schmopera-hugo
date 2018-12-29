@@ -5,6 +5,7 @@ lastmod = "2017-10-29T12:26:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509294323328/Heidi_Stober_PRINT-11%20%E2%88%8F%20Simon%20Pauly.jpg.jpg"
 primary_image_credit = "Simon Pauly"
 publishDate = "2017-10-29T12:26:00-04:00"
+related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/opera-philadelphia.md","scene/companies/san-francisco-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/deutsche-oper-berlin.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/garsington-opera.md","scene/companies/semperoper-dresden.md","scene/companies/the-metropolitan-opera.md"]
 slug = "heidi-stober"
 title = "Heidi Stober"
 website = "http://www.heidistober.com/"

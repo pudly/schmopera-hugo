@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-10-13T21:45:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507945323405/Malin%20Bystri%CC%82m%203%20-%20foto%20Peter%20Knutson.jpg.jpg"
 publishDate = "2017-10-13T21:45:00-04:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/salzburg-festival.md","scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/san-francisco-opera.md","scene/companies/teatro-alla-scala.md"]
 slug = "malin-bystrm"
 title = "Malin Byström"
 +++

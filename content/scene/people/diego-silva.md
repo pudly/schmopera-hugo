@@ -5,6 +5,7 @@ lastmod = "2016-07-26T13:44:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469554729264/2016-07-26---Diego-Silva-HS.jpg.jpg"
 primary_image_credit = "Ana Lourdes Herrera"
 publishDate = "2016-07-26T13:44:00-04:00"
+related_companies = ["scene/companies/edmonton-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/curtis-institute-of-music.md"]
 slug = "diego-silva"
 title = "Diego Silva"
 website = "http://www.diegosilvatenor.com/"

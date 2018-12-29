@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-09-15T21:03:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505523709253/liv-redpath_portrait.jpg.jpg"
 publishDate = "2017-09-15T21:02:00-04:00"
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/the-juilliard-school.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/the-santa-fe-opera.md","scene/companies/wolf-trap-opera.md","scene/companies/houston-grand-opera.md"]
 slug = "liv-redpath"
 title = "Liv Redpath"
 website = "http://www.livredpath.com/about/"

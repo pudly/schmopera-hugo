@@ -5,6 +5,7 @@ lastmod = "2017-09-19T12:13:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505837480453/%23Spence%20-%20Mitch%20Jenkins.jpg.jpg"
 primary_image_credit = "Mitch Jenkins"
 publishDate = "2017-09-19T12:13:00-04:00"
+related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/english-national-opera.md","scene/companies/northern-ireland-opera.md","scene/companies/opra-national-de-paris.md"]
 slug = "toby-spence"
 title = "Toby Spence"
 [[social_media]]

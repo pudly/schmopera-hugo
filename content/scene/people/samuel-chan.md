@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-01-11T19:50:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484164119261/2017-01-11---Samuel-Chan.jpg.jpg"
 publishDate = "2017-01-11T19:50:00+00:00"
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/highlands-opera-studio.md"]
 slug = "samuel-chan"
 title = "Samuel Chan"
 website = "http://www.samuelchanbaritone.com/"

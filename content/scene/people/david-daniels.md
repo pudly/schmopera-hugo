@@ -5,6 +5,7 @@ lastmod = "2015-04-07T16:12:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428437219977/DavidDaniels-pc-SimonPauly.jpg.jpg"
 primary_image_credit = "Simon Pauly"
 publishDate = "2015-04-07T16:08:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/san-francisco-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md","scene/companies/the-santa-fe-opera.md","scene/companies/opera-philadelphia.md"]
 slug = "david-daniels"
 title = "David Daniels"
 website = "http://www.danielssings.com/"

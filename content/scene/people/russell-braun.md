@@ -5,6 +5,7 @@ lastmod = "2015-04-11T22:45:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428803657567/Russell%2520Braun%2520009.jpg.jpg"
 primary_image_credit = "Johannes Ifkovits"
 publishDate = "2015-04-11T21:57:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/glyndebourne.md","scene/companies/los-angeles-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/royal-opera-house.md","scene/companies/wiener-staatsoper.md"]
 slug = "russell-braun"
 title = "Russell Braun"
 website = "http://www.russellbraun.com/"

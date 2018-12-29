@@ -5,6 +5,7 @@ lastmod = "2015-04-08T10:24:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428502940320/19R7504.jpg.jpg"
 primary_image_credit = "Dario Acosta"
 publishDate = "2015-04-08T10:24:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/vancouver-opera.md","scene/companies/opera-lyra-ottawa.md","scene/companies/houston-grand-opera.md","scene/companies/the-dallas-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/washington-national-opera.md"]
 slug = "joshua-hopkins"
 title = "Joshua Hopkins"
 website = "http://joshuahopkins.com/"

@@ -5,6 +5,7 @@ lastmod = "2017-09-19T15:21:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505848782252/Press_Photo.jpg.jpg"
 primary_image_credit = "S. Richards Photography"
 publishDate = "2017-09-19T15:21:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/on-site-opera.md"]
 slug = "maeve-hoglund"
 title = "Maeve Höglund"
 website = "http://maevehoglund.com/"

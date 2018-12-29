@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2016-11-24T14:01:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479995657356/2016-11-24---Benjamin-Dickerson.jpg.jpg"
 publishDate = "2016-11-24T13:56:00+00:00"
+related_companies = ["scene/companies/music-academy-of-the-west-voice-program.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/new-york-festival-of-song.md","scene/companies/manhattan-school-of-music.md"]
 slug = "benjamin-dickerson"
 title = "Benjamin Dickerson"
 website = "http://www.benjamindickersonbaritone.com/"

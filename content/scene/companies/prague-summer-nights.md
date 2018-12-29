@@ -3,6 +3,7 @@ date = "2015-07-12T16:42:00-06:00"
 lastmod = "2015-07-12T16:42:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436740834006/Narodni_Divadlo_Estates_Theater_Prague_-_8648.jpg.jpg"
 publishDate = "2015-07-12T16:42:00-06:00"
+related_people = ["scene/people/john-holland.md"]
 slug = "prague-summer-nights"
 title = "Prague Summer Nights"
 type_of_company = "Young Artist Music Festival"

@@ -4,6 +4,7 @@ discipline = "Bass"
 lastmod = "2017-09-15T13:48:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505497615535/f2b22b_600d9053a2a84c79837059166b1b726f~mv2.webp"
 publishDate = "2017-09-15T13:48:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/the-dallas-opera.md","scene/companies/canadian-opera-company.md","scene/companies/minnesota-opera.md"]
 slug = "matt-boehler"
 title = "Matt Boehler"
 website = "http://www.mattboehler.com/"

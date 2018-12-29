@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2015-04-22T20:41:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429749633251/102.jpg.jpg"
 publishDate = "2015-04-22T20:41:00-04:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md","scene/companies/opera-on-the-avalon.md"]
 slug = "bruno-roy"
 title = "Bruno Roy"
 +++

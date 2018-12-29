@@ -5,6 +5,7 @@ lastmod = "2017-10-11T22:46:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507776316296/795_Oliver%20Zeffman_%20%C2%A9Andy%20Staples_1.jpg.jpg"
 primary_image_credit = "Andy Staples"
 publishDate = "2017-10-11T22:46:00-04:00"
+related_companies = ["scene/companies/melos-sinfonia.md"]
 slug = "oliver-zeffman"
 title = "Oliver Zeffman"
 website = "https://www.melossinfonia.co.uk/"

@@ -3,6 +3,7 @@ date = "2016-04-27T18:29:00+01:00"
 lastmod = "2016-04-27T18:34:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461776789633/2016-04-27---Eastman-School-of-Music-Logo.jpg.jpg"
 publishDate = "2016-04-27T18:29:00+01:00"
+related_people = ["scene/people/nicole-cabell.md","scene/people/scene/renee-fleming.md"]
 slug = "eastman-opera-theatre"
 title = "Eastman Opera Theatre"
 type_of_company = "Music School"

@@ -5,6 +5,7 @@ lastmod = "2017-07-10T10:16:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499695997424/Anush_Hovhannisyan_3__Copyright_Robert_Koloyan-735x800.jpg.jpg"
 primary_image_credit = "Robert Koloyan"
 publishDate = "2017-07-10T10:16:00-04:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/cardiff-singer-of-the-world-competition.md","scene/companies/scottish-opera.md"]
 slug = "anush-hovhannisyan"
 title = "Anush Hovhannisyan"
 website = "http://www.anushhovhannisyan.co.uk/"

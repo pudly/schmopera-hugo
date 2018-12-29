@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2018-01-24T11:55:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516812887078/geyer_sebastian_01.jpg.jpg"
 publishDate = "2018-01-24T11:55:00-05:00"
+related_companies = ["scene/companies/oper-frankfurt.md"]
 slug = "sebastian-geyer"
 title = "Sebastian Geyer"
 +++

@@ -5,6 +5,7 @@ lastmod = "2016-11-05T16:36:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478363608634/c5cc4c_fa6d15bc63b74f3f9b31fad5da5047d1.jpg.jpg"
 primary_image_credit = "Robert Catto"
 publishDate = "2016-11-05T16:36:00+00:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/shadwell-opera.md"]
 slug = "madeleine-pierard"
 title = "Madeleine Pierard"
 website = "http://www.madeleinepierard.com/"

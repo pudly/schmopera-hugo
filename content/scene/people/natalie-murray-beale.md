@@ -4,6 +4,7 @@ discipline = "Conductor"
 lastmod = "2015-06-05T15:55:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433534050168/photo-1.JPG"
 publishDate = "2015-06-05T15:55:00-04:00"
+related_companies = ["scene/companies/welsh-national-opera.md","scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md"]
 slug = "natalie-murray-beale"
 title = "Natalie Murray Beale"
 website = "http://www.murraybeale.com/index.html"

@@ -5,6 +5,7 @@ lastmod = "2018-05-27T21:01:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527469259160/5%20(c)%20Debbie%20Scanlon.jpg.jpg"
 primary_image_credit = "Debbie Scanlon"
 publishDate = "2017-02-10T08:12:00-05:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/royal-opera-house.md","scene/companies/the-grange-festival.md"]
 slug = "ashley-riches"
 title = "Ashley Riches"
 website = "https://www.ashleyriches.com/"

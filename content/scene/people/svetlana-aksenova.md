@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2018-05-04T21:32:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525483795171/AKSENOVA-Svetlana-TT-Fotografie-687x1030.jpg.jpg"
 publishDate = "2018-05-04T21:32:00-04:00"
+related_companies = ["scene/companies/vancouver-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/opra-national-de-paris.md","scene/companies/staatsoper-berlin.md","scene/companies/bayerische-staatsoper.md"]
 slug = "svetlana-aksenova"
 title = "Svetlana Aksenova"
 +++

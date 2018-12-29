@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2016-04-19T21:55:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461099206859/2016-04-20---Scott-Joiner.jpg.jpg"
 publishDate = "2016-04-19T21:55:00+01:00"
+related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/central-city-opera.md","scene/companies/opera-carolina.md"]
 slug = "scott-joiner"
 title = "Scott Joiner"
 website = "http://www.scottjoinertenor.com/#!"

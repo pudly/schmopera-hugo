@@ -5,6 +5,7 @@ lastmod = "2018-03-12T22:54:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520909520700/1%20(c)%20Matilde%20Fassi%CC%88.jpg.jpg"
 primary_image_credit = "Matilde Fassï."
 publishDate = "2018-03-12T22:54:00-04:00"
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/staatsoper-berlin.md","scene/companies/vlaamse-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/glyndebourne.md","scene/companies/teatro-alla-scala.md"]
 slug = "maxim-mironov"
 title = "Maxim Mironov"
 website = "https://www.maximmironov.com/"

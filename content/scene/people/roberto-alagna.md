@@ -5,6 +5,7 @@ lastmod = "2017-02-16T13:40:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487252392610/2017-02-17---RobertoAlagna_CreditFelixBroede.jpg.jpg"
 primary_image_credit = "Felix Broede"
 publishDate = "2017-02-16T13:40:00+00:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/teatro-alla-scala.md","scene/companies/royal-opera-house.md","scene/companies/glyndebourne.md","scene/companies/opra-national-de-paris.md","scene/companies/gran-teatre-del-liceu.md"]
 slug = "roberto-alagna"
 title = "Roberto Alagna"
 website = "http://www.robertoalagna.net/en/"

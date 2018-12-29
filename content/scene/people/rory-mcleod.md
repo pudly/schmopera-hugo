@@ -5,6 +5,7 @@ lastmod = "2015-10-29T10:29:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446128683937/15-10-29---RoryMcLeodSquare.jpg.jpg"
 primary_image_credit = "Photo by Bo Huang."
 publishDate = "2015-10-29T10:27:00-04:00"
+related_companies = ["scene/companies/pocket-concerts.md"]
 slug = "rory-mcleod"
 title = "Rory McLeod"
 [[social_media]]

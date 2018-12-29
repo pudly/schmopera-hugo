@@ -5,6 +5,7 @@ lastmod = "2016-10-26T12:49:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477482214829/2016-10-26---Jessica-Pratt-Square.jpg.jpg"
 primary_image_credit = "Luis Condrò"
 publishDate = "2016-10-26T12:44:00+01:00"
+related_companies = ["scene/companies/teatro-alla-scala.md","scene/companies/the-metropolitan-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/scene/opernhaus-zurich.md","scene/companies/royal-opera-house.md","scene/companies/wiener-staatsoper.md","scene/companies/gran-teatre-del-liceu.md"]
 slug = "jessica-pratt"
 title = "Jessica Pratt"
 website = "http://www.jessicapratt.org/"

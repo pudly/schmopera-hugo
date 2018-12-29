@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2016-03-22T13:21:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458652865842/2016-03-22---Michael-Barrett.jpg.jpg"
 publishDate = "2016-03-22T13:21:00+00:00"
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/pacific-opera-victoria.md","scene/companies/edmonton-opera.md","scene/companies/vancouver-opera.md","scene/companies/against-the-grain-theatre.md","scene/companies/opera-5.md"]
 slug = "michael-barrett"
 title = "Michael Barrett"
 +++

@@ -5,6 +5,7 @@ lastmod = "2017-07-26T00:07:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501023221282/2017-07-17---CassandraWarner0231photobyKevinPatrickRobbins.jpg.jpg"
 primary_image_credit = "Kevin Patrick Robbins"
 publishDate = "2017-07-25T18:54:00-04:00"
+related_companies = ["scene/companies/confidential-opera-project.md","scene/companies/loose-tea-music-theatre.md"]
 slug = "cassandra-warner"
 title = "Cassandra Warner"
 website = "http://cassandrawarner.com/"

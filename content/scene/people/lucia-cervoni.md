@@ -5,6 +5,7 @@ lastmod = "2015-06-13T18:11:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434232142322/home%2520page%2520photo.jpg.jpg"
 primary_image_credit = "Tom Wolf"
 publishDate = "2015-06-13T17:54:00-04:00"
+related_companies = ["scene/companies/soundstreams.md","scene/companies/glimmerglass-festival.md","scene/companies/the-santa-fe-opera.md","scene/companies/seattle-opera.md"]
 slug = "lucia-cervoni"
 title = "Lucia Cervoni"
 website = "http://luciacervoni.com/biography.asp"

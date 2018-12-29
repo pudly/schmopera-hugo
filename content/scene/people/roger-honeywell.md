@@ -5,6 +5,7 @@ lastmod = "2017-07-28T10:14:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501250857237/Roger_Honeywell_pc_Ann_Baggley_b_300dpi.jpg.jpg"
 primary_image_credit = "Ann Baggley"
 publishDate = "2017-07-28T10:14:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/lopra-de-montral.md","scene/companies/glimmerglass-festival.md","scene/companies/the-santa-fe-opera.md","scene/companies/minnesota-opera.md","scene/companies/vancouver-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/los-angeles-opera.md","scene/companies/calgary-opera.md"]
 slug = "roger-honeywell"
 title = "Roger Honeywell"
 [[social_media]]

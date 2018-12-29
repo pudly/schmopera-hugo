@@ -5,6 +5,7 @@ lastmod = "2017-02-10T13:04:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486731784463/2017-02-10---David-WEbb.jpg.jpg"
 primary_image_credit = "Leo Holden"
 publishDate = "2017-02-10T13:04:00+00:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/glyndebourne.md"]
 slug = "david-webb"
 title = "David Webb"
 [[social_media]]

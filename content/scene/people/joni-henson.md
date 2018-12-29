@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-04-07T22:29:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428460071440/HENSON-PHOTO.jpg.jpg"
 publishDate = "2015-04-07T22:29:00-04:00"
+related_companies = ["scene/companies/pacific-opera-victoria.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/voicebox-opera-in-concert.md","scene/companies/calgary-opera.md"]
 slug = "joni-henson"
 title = "Joni Henson"
 website = "http://www.jonihensonsoprano.com/"

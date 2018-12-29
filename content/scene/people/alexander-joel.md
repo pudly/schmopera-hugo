@@ -5,6 +5,7 @@ lastmod = "2017-12-29T21:01:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514599123067/Alex_Joel_credit%20Julia%20Wesely%209633.jpg.jpg"
 primary_image_credit = "Julia Wesely."
 publishDate = "2017-12-29T21:01:00-05:00"
+related_companies = ["scene/companies/vlaamse-opera.md","scene/companies/royal-opera-house.md","scene/companies/staatsoper-berlin.md","scene/companies/deutsche-oper-berlin.md"]
 slug = "alexander-joel"
 title = "Alexander Joel"
 website = "http://www.alexanderjoel.com/"

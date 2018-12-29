@@ -3,6 +3,7 @@ date = "2017-08-02T21:30:00-04:00"
 lastmod = "2017-08-02T21:30:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501723708577/1002526_278979525644421_7658513196644127965_n.jpg%3Foh%3D691bf43df3081b3ba07b6ea20412c164%26oe%3D59F2F917"
 publishDate = "2017-08-02T21:30:00-04:00"
+related_people = ["scene/people/jason-ferrante.md","scene/people/troy-cook.md","scene/people/weston-hurt.md","scene/people/jason-slayden.md"]
 slug = "berkshire-opera-festival"
 title = "Berkshire Opera Festival"
 type_of_company = "Opera Company"

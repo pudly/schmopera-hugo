@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2016-03-04T12:31:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457094536880/Lucio-Gallo.jpg.jpg"
 publishDate = "2016-03-04T12:31:00+00:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/scene/opernhaus-zurich.md","scene/companies/bayerische-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/la-monnaie.md"]
 slug = "lucio-gallo"
 title = "Lucio Gallo"
 +++

@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2016-05-24T06:27:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464085603321/2016-05-24---Naomi-Harvey.gif"
 publishDate = "2016-05-24T06:27:00-04:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/english-national-opera.md","scene/companies/scottish-opera.md","scene/companies/welsh-national-opera.md","scene/companies/opera-holland-park.md"]
 slug = "naomi-harvey"
 title = "Naomi Harvey"
 +++

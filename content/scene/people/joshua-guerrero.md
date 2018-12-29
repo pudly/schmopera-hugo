@@ -5,6 +5,7 @@ lastmod = "2017-02-03T10:23:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486117274409/2017-02-03---Joshua-Guerrero.jpg.jpg"
 primary_image_credit = "Gabriel Guzman"
 publishDate = "2017-02-03T10:22:00+00:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/los-angeles-opera.md","scene/companies/scene/opernhaus-zurich.md","scene/companies/salzburg-festival.md","scene/companies/the-santa-fe-opera.md"]
 slug = "joshua-guerrero"
 title = "Joshua Guerrero"
 +++

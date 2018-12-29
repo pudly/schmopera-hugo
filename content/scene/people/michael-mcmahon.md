@@ -4,6 +4,7 @@ discipline = "Pianist, coach"
 lastmod = "2015-07-04T21:35:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436067146865/McMahon-678x500.jpg.jpg"
 publishDate = "2015-07-04T21:35:00-06:00"
+related_companies = ["scene/companies/opera-mcgill.md","scene/companies/opera-nuova.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md","scene/companies/latelier-lyrique-de-lopra-de-montral.md"]
 slug = "michael-mcmahon"
 title = "Michael McMahon"
 [[social_media]]

@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2018-05-11T20:43:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526085309603/Malorie%2BCasimir%2BHead%2BShot.jpg.jpg"
 publishDate = "2018-05-11T20:36:00-04:00"
+related_companies = ["scene/companies/heartbeat-opera.md"]
 slug = "malorie-casimir"
 title = "Malorie Casimir"
 website = "https://www.maloriecasimir.com/"

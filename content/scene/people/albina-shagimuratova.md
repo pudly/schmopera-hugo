@@ -5,6 +5,7 @@ lastmod = "2017-03-15T11:23:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473940071168/2016-09-15---Shagimuratova--pc---Pavel-Vaan-Leonid-Semenyuk.jpg.jpg"
 primary_image_credit = "Pavel Vaan and Leonid Semenyuk"
 publishDate = "2016-09-15T12:48:00+01:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md","scene/companies/houston-grand-opera.md","scene/companies/los-angeles-opera.md","scene/companies/san-francisco-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/lyric-opera-of-chicago.md"]
 slug = "albina-shagimuratova"
 title = "Albina Shagimuratova"
 website = "http://www.albinashagimuratova.com/"

@@ -5,6 +5,7 @@ lastmod = "2017-01-21T11:55:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484999448540/2017-01-20---Elena_Tsallagova_pc_Allan_Richard_Tobis.jpg.jpg"
 primary_image_credit = "Allan Richard Tobis"
 publishDate = "2017-01-21T11:55:00+00:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/bayerische-staatsoper.md","scene/companies/salzburg-festival.md","scene/companies/glyndebourne.md","scene/companies/deutsche-oper-berlin.md","scene/companies/opra-national-de-paris.md"]
 slug = "elena-tsallagova"
 title = "Elena Tsallagova"
 [[social_media]]

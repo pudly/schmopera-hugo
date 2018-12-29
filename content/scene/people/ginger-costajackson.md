@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-04-03T10:51:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491212992933/2017-04-03---Ginger-Costa-Jackson.jpg.jpg"
 publishDate = "2017-04-03T10:51:00+01:00"
+related_companies = ["scene/companies/nashville-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/glimmerglass-festival.md"]
 slug = "ginger-costajackson"
 title = "Ginger Costa-Jackson"
 website = "http://gingercostajackson.com/"

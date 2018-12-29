@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-01-08T11:55:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483876389064/2017-01-08---Curtis-Sullivan.jpg.jpg"
 publishDate = "2017-01-08T11:53:00+00:00"
+related_companies = ["scene/companies/opera-atelier.md","scene/companies/toronto-operetta-theatre.md","scene/companies/calgary-opera.md","scene/companies/vancouver-opera.md","scene/companies/san-francisco-opera.md","scene/companies/pacific-opera-victoria.md","scene/companies/tapestry-opera.md"]
 slug = "curtis-sullivan"
 title = "Curtis Sullivan"
 +++

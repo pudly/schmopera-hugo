@@ -5,6 +5,7 @@ lastmod = "2017-01-28T10:14:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485598308165/2017-01-28---Wes-Mason.jpg.jpg"
 primary_image_credit = "Bradley Korman"
 publishDate = "2017-01-28T10:14:00+00:00"
+related_companies = ["scene/companies/nashville-opera.md","scene/companies/brooklyn-academy-of-music.md"]
 slug = "wes-mason"
 title = "Wes Mason"
 website = "http://www.wesmasonstage.com/"

@@ -5,6 +5,7 @@ lastmod = "2017-04-18T15:10:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492524568264/John_Chest_3646_Andrey_Stoycher.jpg.jpg"
 primary_image_credit = "Andrey Stoycher"
 publishDate = "2017-04-18T15:09:00+01:00"
+related_companies = ["scene/companies/bayerische-staatsoper.md","scene/companies/deutsche-oper-berlin.md","scene/companies/staatsoper-berlin.md","scene/companies/opera-philadelphia.md","scene/companies/washington-national-opera.md","scene/companies/semperoper-dresden.md"]
 slug = "john-chest"
 title = "John Chest"
 +++

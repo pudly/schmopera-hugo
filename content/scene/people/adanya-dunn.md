@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-03-15T11:02:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428340829175/Adanya.jpg.jpg"
 publishDate = "2015-04-06T18:22:00+01:00"
+related_companies = ["scene/companies/fawn-chamber-creative.md","scene/companies/university-of-toronto-opera.md"]
 slug = "adanya-dunn"
 title = "Adanya Dunn"
 website = "http://www.adanyadunn.com/"

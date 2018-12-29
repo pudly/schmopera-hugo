@@ -5,6 +5,7 @@ lastmod = "2015-04-18T18:42:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429396953247/sly1.jpg.jpg"
 primary_image_credit = "Photo by Adam Scotti"
 publishDate = "2015-04-18T18:41:00-04:00"
+related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/opera-mcgill.md"]
 slug = "philippe-sly"
 title = "Philippe Sly"
 website = "http://philippesly.com/"

@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2018-01-29T18:15:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517267210098/f2b22b_ab5fd89c0a2e42b887faf20e08bd946b~mv2_d_7161_4779_s_4_2.webp"
 publishDate = "2018-01-29T18:15:00-05:00"
+related_companies = ["scene/companies/minnesota-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/san-francisco-opera.md"]
 slug = "seth-carico"
 title = "Seth Carico"
 website = "http://www.sethcarico.com/home/"

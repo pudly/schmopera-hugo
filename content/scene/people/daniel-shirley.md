@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-09-17T18:58:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505688897552/Daniel-Shirley-trees.jpg.jpg"
 publishDate = "2017-09-17T18:58:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/florida-grand-opera.md"]
 slug = "daniel-shirley"
 title = "Daniel Shirley"
 website = "http://danielshirleytenor.com/"

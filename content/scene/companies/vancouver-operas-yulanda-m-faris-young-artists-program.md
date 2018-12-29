@@ -3,6 +3,7 @@ date = "2015-10-31T13:48:00-04:00"
 lastmod = "2015-10-31T13:51:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446313789482/Logo---VO.jpg.jpg"
 publishDate = "2015-10-31T13:50:00-04:00"
+related_people = ["scene/people/caitlin-wood.md","scene/people/aaron-durand.md","scene/people/zachary-read.md","scene/people/rachel-fenlon.md","scene/people/alan-macdonald.md"]
 slug = "vancouver-operas-yulanda-m-faris-young-artists-program"
 title = "Vancouver Opera&#039;s Yulanda M. Faris Young Artists Program"
 type_of_company = "Young Artist Programme"

@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-10-07T10:58:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507387484485/DSC_0155.jpg.jpg"
 publishDate = "2017-10-07T10:47:00-04:00"
+related_companies = ["scene/companies/nashville-opera.md","scene/companies/seattle-opera.md","scene/companies/berkshire-opera-festival.md","scene/companies/houston-grand-opera.md","scene/companies/the-atlanta-opera.md","scene/companies/portland-opera.md","scene/companies/lyric-opera-of-kansas-city.md","scene/companies/the-dallas-opera.md"]
 slug = "weston-hurt"
 title = "Weston Hurt"
 website = "http://www.westonhurt.com/"

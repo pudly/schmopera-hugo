@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-01-26T14:24:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485440178714/2017-01-26---Artur-Rucinksi---Andrzej-Swietlik.jpg.jpg"
 publishDate = "2017-01-26T14:20:00+00:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/deutsche-oper-berlin.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/los-angeles-opera.md","scene/companies/scene/opernhaus-zurich.md","scene/companies/teatro-alla-scala.md","scene/companies/salzburg-festival.md","scene/companies/opra-national-de-paris.md","scene/companies/oper-frankfurt.md"]
 slug = "artur-rucinski"
 title = "Artur Ruciński"
 website = "http://arturrucinski.com/"

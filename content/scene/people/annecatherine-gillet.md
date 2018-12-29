@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2016-08-20T14:12:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471698653834/2016-08-20---Anne-Catherine-Gillet.jpg.jpg"
 publishDate = "2016-08-20T14:12:00+01:00"
+related_companies = ["scene/companies/glyndebourne.md","scene/companies/opra-national-de-paris.md"]
 slug = "annecatherine-gillet"
 title = "Anne-Catherine Gillet"
 website = "http://www.annecatherinegillet.com/"

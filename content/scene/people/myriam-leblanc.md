@@ -5,6 +5,7 @@ lastmod = "2015-11-04T18:55:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446681299146/2015-10-31---Atelier---Myriam-Leblanc---Square.jpg.jpg"
 primary_image_credit = "Photo by Brent Calis."
 publishDate = "2015-11-04T18:55:00-05:00"
+related_companies = ["scene/companies/latelier-lyrique-de-lopra-de-montral.md","scene/companies/lopra-de-montral.md","scene/companies/jeunesses-musicales-canada.md"]
 slug = "myriam-leblanc"
 title = "Myriam Leblanc"
 website = "http://www.myriamleblanc.net/"

@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-09-15T14:01:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505498368581/JF809.jpg.jpg"
 publishDate = "2017-09-15T13:58:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/arizona-opera.md","scene/companies/the-atlanta-opera.md","scene/companies/florida-grand-opera.md","scene/companies/berkshire-opera-festival.md","scene/companies/palm-beach-opera.md"]
 slug = "jason-ferrante"
 title = "Jason Ferrante"
 website = "http://jasonferrante.com/"

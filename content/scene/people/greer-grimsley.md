@@ -4,6 +4,7 @@ discipline = "Bass-baritone"
 lastmod = "2018-01-21T17:15:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516572816748/Grimsley.G.Headshot.jpg.jpg"
 publishDate = "2018-01-21T17:15:00-05:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/houston-grand-opera.md","scene/companies/vancouver-opera.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/deutsche-oper-berlin.md","scene/companies/san-diego-opera.md","scene/companies/los-angeles-opera.md","scene/companies/minnesota-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/seattle-opera.md","scene/companies/portland-opera.md","scene/companies/lopra-de-montral.md","scene/companies/scottish-opera.md","scene/companies/san-francisco-opera.md","scene/companies/the-dallas-opera.md","scene/companies/lyric-opera-of-chicago.md"]
 slug = "greer-grimsley"
 title = "Greer Grimsley"
 website = "http://greergrimsley.com/"

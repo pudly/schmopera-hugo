@@ -3,6 +3,7 @@ date = "2015-09-02T14:12:00-04:00"
 lastmod = "2015-09-02T14:25:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441217312228/rLiSMCEm.jpg.jpg"
 publishDate = "2015-09-02T14:12:00-04:00"
+related_people = ["scene/people/francesca-perez.md","scene/people/lindsay-michael.md"]
 slug = "liederwolfe-opera-collective"
 title = "Liederwölfe Opera Collective"
 type_of_company = "Opera Collective"

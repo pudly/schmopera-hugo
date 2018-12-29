@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2015-10-15T13:04:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444928594441/Moore-Megan-02%5BMay2015%5D.jpg.jpg"
 publishDate = "2015-10-15T13:04:00-04:00"
+related_companies = ["scene/companies/lynx-project.md"]
 slug = "megan-moore"
 title = "Megan Moore"
 website = "http://www.meganmooreonline.com/"

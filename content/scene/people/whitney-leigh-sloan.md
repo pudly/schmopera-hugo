@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2018-04-18T10:21:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524061177161/o-9HgP1T_400x400.jpg.jpg"
 publishDate = "2018-04-18T10:21:00-04:00"
+related_companies = ["scene/companies/edmonton-opera.md","scene/companies/calgary-opera.md","scene/companies/opera-nuova.md"]
 slug = "whitney-leigh-sloan"
 title = "Whitney Leigh Sloan"
 website = "https://www.whitneysloan.com/"

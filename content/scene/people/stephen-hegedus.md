@@ -4,6 +4,7 @@ discipline = "Bass-baritone"
 lastmod = "2015-04-23T00:19:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429762680370/HEGEDUS-PHOTO2.jpg.jpg"
 publishDate = "2015-04-23T00:19:00-04:00"
+related_companies = ["scene/companies/lopra-de-montral.md","scene/companies/opera-atelier.md","scene/companies/against-the-grain-theatre.md","scene/companies/pacific-opera-victoria.md","scene/companies/edmonton-opera.md","scene/companies/vancouver-opera.md"]
 slug = "stephen-hegedus"
 title = "Stephen Hegedus"
 website = "http://www.stephenhegedus.com/"

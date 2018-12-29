@@ -5,6 +5,7 @@ lastmod = "2018-05-01T22:22:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525227386051/Chad_Shelton_headshot_credit_Jenna%2BBarrett.jpg.jpg"
 primary_image_credit = "Jenna Barrett"
 publishDate = "2018-05-01T22:22:00-04:00"
+related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/florida-grand-opera.md","scene/companies/arizona-opera.md","scene/companies/san-francisco-opera.md","scene/companies/boston-lyric-opera.md","scene/companies/utah-opera.md"]
 slug = "chad-shelton"
 title = "Chad Shelton"
 +++

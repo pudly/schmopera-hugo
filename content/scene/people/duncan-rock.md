@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2016-08-19T10:36:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471599326507/2016-08-19---Duncan-Rock.jpg.jpg"
 publishDate = "2016-08-19T10:36:00+01:00"
+related_companies = ["scene/companies/glyndebourne.md","scene/companies/welsh-national-opera.md","scene/companies/garsington-opera.md","scene/companies/opera-north.md","scene/companies/english-national-opera.md"]
 slug = "duncan-rock"
 title = "Duncan Rock"
 website = "http://www.duncanrock.co.uk/"

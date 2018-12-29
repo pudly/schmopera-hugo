@@ -5,6 +5,7 @@ lastmod = "2015-05-14T15:06:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431630195624/Kaufmann.jpg.jpg"
 primary_image_credit = "Gregor Hohenberg/Sony Music"
 publishDate = "2015-05-14T15:06:00-04:00"
+related_companies = ["scene/companies/bayerische-staatsoper.md","scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/opra-national-de-paris.md","scene/companies/wiener-staatsoper.md","scene/companies/royal-opera-house.md"]
 slug = "jonas-kaufmann"
 title = "Jonas Kaufmann"
 website = "http://www.jonaskaufmann.com/en/"

@@ -5,6 +5,7 @@ lastmod = "2018-03-20T21:28:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429762024363/Erraught.jpg.jpg"
 primary_image_credit = "Kristin Speed."
 publishDate = "2015-04-23T00:08:00-04:00"
+related_companies = ["scene/companies/glyndebourne.md","scene/companies/bayerische-staatsoper.md","scene/companies/irish-national-opera.md"]
 slug = "tara-erraught"
 title = "Tara Erraught"
 website = "http://www.taraerraught.com/"

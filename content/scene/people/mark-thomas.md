@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-11-08T16:51:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510177817418/Mark_Thomas.jpg.jpg"
 publishDate = "2017-11-08T16:51:00-05:00"
+related_companies = ["scene/companies/houston-grand-opera.md"]
 slug = "mark-thomas"
 title = "Mark Thomas"
 +++

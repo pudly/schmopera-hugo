@@ -4,6 +4,7 @@ discipline = "Bass"
 lastmod = "2015-12-31T12:36:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451583262087/2015-12-30---Jeremy-Bowes.jpg.jpg"
 publishDate = "2015-12-31T12:36:00-05:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/lopra-de-montral.md","scene/companies/pacific-opera-victoria.md","scene/companies/vancouver-opera.md","scene/companies/the-banff-centre.md","scene/companies/canadian-opera-company.md"]
 slug = "jeremy-bowes"
 title = "Jeremy Bowes"
 [[social_media]]

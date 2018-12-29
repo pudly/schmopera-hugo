@@ -3,6 +3,7 @@ date = "2015-06-11T20:37:00-04:00"
 lastmod = "2015-06-11T20:37:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434069421964/996109_937650736268824_2328840526308709396_n.jpg%3Foh%3Dcede461af014ec50adf868cbe70823d9%26oe%3D55F42FB7"
 publishDate = "2015-06-11T20:37:00-04:00"
+related_people = ["scene/people/charlotte-knight.md"]
 slug = "no-strings-theatre"
 title = "No Strings Theatre"
 type_of_company = "Theatre Company"

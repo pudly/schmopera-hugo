@@ -4,6 +4,7 @@ discipline = "Playwright, librettist"
 lastmod = "2016-05-06T17:14:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435240854524/AnnaChatterton.jpeg"
 publishDate = "2015-06-25T15:03:00+01:00"
+related_companies = ["scene/companies/tapestry-opera.md","scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md","scene/companies/canadian-opera-company.md"]
 slug = "anna-chatterton"
 title = "Anna Chatterton"
 [[social_media]]

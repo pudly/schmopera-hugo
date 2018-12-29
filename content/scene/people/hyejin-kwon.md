@@ -4,6 +4,7 @@ discipline = "Pianist, coach"
 lastmod = "2015-09-23T11:56:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443023692482/HyejinSquare.jpg.jpg"
 publishDate = "2015-09-23T11:56:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/opera-on-the-avalon.md"]
 slug = "hyejin-kwon"
 title = "Hyejin Kwon"
 website = "http://www.hyejinkwon.com/"

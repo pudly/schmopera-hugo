@@ -5,6 +5,7 @@ lastmod = "2015-04-07T18:20:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428445126285/Heidi-Melton.jpg.jpg"
 primary_image_credit = "Simon Pauly"
 publishDate = "2015-04-07T18:20:00-04:00"
+related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/merola-opera-program.md","scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/deutsche-oper-berlin.md"]
 slug = "heidi-melton"
 title = "Heidi Melton"
 website = "http://www.heidimeltonsoprano.com/"

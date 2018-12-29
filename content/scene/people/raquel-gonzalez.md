@@ -4,6 +4,7 @@ discipline = "Arielle Doneson"
 lastmod = "2018-11-11T17:07:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541973972894/175edit.jpg.jpg"
 publishDate = "2018-11-11T17:07:00-05:00"
+related_companies = ["scene/companies/washington-national-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/the-juilliard-school.md"]
 slug = "raquel-gonzalez"
 title = "Raquel González"
 website = "http://www.raquelgonzalezsoprano.com/"

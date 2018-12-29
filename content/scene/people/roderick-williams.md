@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2018-01-14T19:02:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515974325742/Roderick-Williams-Groves-Artists.jpg.jpg"
 publishDate = "2018-01-14T19:02:00-05:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-dallas-opera.md","scene/companies/opera-north.md","scene/companies/garsington-opera.md","scene/companies/english-national-opera.md"]
 slug = "roderick-williams"
 title = "Roderick Williams OBE"
 [[social_media]]

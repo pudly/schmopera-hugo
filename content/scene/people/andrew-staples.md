@@ -5,6 +5,7 @@ lastmod = "2017-03-15T12:24:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450456266733/2015-12-18---Andrew-Staples-headshot.jpg.jpg"
 primary_image_credit = "Courtesy of Askonas Holt Artists"
 publishDate = "2015-12-18T16:29:00+00:00"
+related_companies = ["scene/companies/toronto-symphony-orchestra.md","scene/companies/royal-opera-house.md","scene/companies/la-monnaie.md","scene/companies/salzburg-festival.md","scene/companies/deutsche-oper-berlin.md"]
 slug = "andrew-staples"
 title = "Andrew Staples"
 website = "http://www.ajrstaples.com/"

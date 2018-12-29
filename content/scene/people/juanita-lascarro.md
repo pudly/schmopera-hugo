@@ -5,6 +5,7 @@ lastmod = "2018-01-24T11:31:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516811189255/DSC_7356_fs.jpg.jpg"
 primary_image_credit = "Diana Karch"
 publishDate = "2018-01-24T11:31:00-05:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/deutsche-oper-berlin.md","scene/companies/oper-frankfurt.md","scene/companies/la-monnaie.md","scene/companies/opra-national-de-paris.md","scene/companies/garsington-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md"]
 slug = "juanita-lascarro"
 title = "Juanita Lascarro"
 website = "http://www.juanita-lascarro.de/e_index.htm"

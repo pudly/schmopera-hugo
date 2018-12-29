@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-06-28T15:52:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435524989024/KelseyVicary_headshotSquare.jpg.jpg"
 publishDate = "2015-06-28T15:52:00-06:00"
+related_companies = ["scene/companies/opera-on-the-avalon.md","scene/companies/myopera.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
 slug = "kelsey-vicary"
 title = "Kelsey Vicary"
 website = "http://www.kelseyvicary.com/"

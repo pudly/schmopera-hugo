@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2015-12-30T16:18:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451510243131/2015-12-30---Jeffrey-Gwaltney.jpg.jpg"
 publishDate = "2015-12-30T16:18:00-05:00"
+related_companies = ["scene/companies/lopra-de-montral.md","scene/companies/scottish-opera.md","scene/companies/opera-north.md","scene/companies/washington-national-opera.md","scene/companies/glimmerglass-festival.md"]
 slug = "jeffrey-gwaltney"
 title = "Jeffrey Gwaltney"
 +++

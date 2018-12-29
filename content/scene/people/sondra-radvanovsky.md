@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-04-22T23:32:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429759258596/radvanovsky.jpg.jpg"
 publishDate = "2015-04-22T23:31:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/canadian-opera-company.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/los-angeles-opera.md"]
 slug = "sondra-radvanovsky"
 title = "Sondra Radvanovsky"
 website = "http://www.sondraradvanovsky.com/"

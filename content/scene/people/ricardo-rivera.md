@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2018-10-09T19:50:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539128937754/650_J1A4130.jpg.jpg"
 publishDate = "2018-10-09T19:50:00-04:00"
+related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/opera-philadelphia.md","scene/companies/houston-grand-opera.md","scene/companies/san-diego-opera.md","scene/companies/the-santa-fe-opera.md"]
 slug = "ricardo-rivera"
 title = "Ricardo Rivera"
 website = "http://ricardoriverabaritone.com/"

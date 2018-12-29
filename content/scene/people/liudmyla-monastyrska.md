@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-10-15T20:45:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508114631425/161%20colour%20hi-res%20-%20LM%2022Sep2016.jpg.jpg"
 publishDate = "2017-10-15T20:45:00-04:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/los-angeles-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/the-metropolitan-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/wiener-staatsoper.md","scene/companies/houston-grand-opera.md","scene/companies/gran-teatre-del-liceu.md"]
 slug = "liudmyla-monastyrska"
 title = "Liudmyla Monastyrska"
 +++

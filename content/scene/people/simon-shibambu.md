@@ -5,6 +5,7 @@ lastmod = "2017-10-06T21:27:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507339555674/Simon%20Shibambu_Chris%20Gloag%207837.jpg.jpg"
 primary_image_credit = "Chris Gloag"
 publishDate = "2016-11-14T06:47:00-05:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/salzburg-festival.md"]
 slug = "simon-shibambu"
 title = "Simon Shibambu"
 website = "http://www.simonshibambu.com/"

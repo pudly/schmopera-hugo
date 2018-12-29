@@ -4,6 +4,7 @@ discipline = "Bass-baritone"
 lastmod = "2018-02-16T21:58:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518836320721/Matthew-Scollin.jpg%3Fitok%3DYmd2yQhJ"
 publishDate = "2018-02-16T21:57:00-05:00"
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/washington-national-opera.md","scene/companies/des-moines-metro-opera.md","scene/companies/merola-opera-program.md","scene/companies/glimmerglass-festival.md"]
 slug = "matthew-scollin"
 title = "Matthew Scollin"
 website = "http://www.matthewscollin.com/"

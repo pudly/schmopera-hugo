@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-10-26T17:49:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445896024026/Caballero.E.Headshot.jpg.jpg"
 publishDate = "2015-10-26T17:49:00-04:00"
+related_companies = ["scene/companies/opera-grand-rapids.md","scene/companies/the-metropolitan-opera.md","scene/companies/florida-grand-opera.md","scene/companies/seattle-opera.md","scene/companies/staatsoper-berlin.md","scene/companies/central-city-opera.md","scene/companies/opera-coeur-dalene.md"]
 slug = "elizabeth-caballero"
 title = "Elizabeth Caballero"
 website = "http://elizabethcaballero.com/"

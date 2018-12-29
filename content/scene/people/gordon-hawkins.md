@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-09-17T15:33:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505676492449/Hawkins.G.Headshot.jpg.jpg"
 publishDate = "2017-09-17T15:33:00-04:00"
+related_companies = ["scene/companies/washington-national-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/deutsche-oper-berlin.md","scene/companies/lopra-de-montral.md","scene/companies/the-metropolitan-opera.md","scene/companies/seattle-opera.md","scene/companies/the-dallas-opera.md","scene/companies/houston-grand-opera.md","scene/companies/the-atlanta-opera.md","scene/companies/manitoba-opera.md"]
 slug = "gordon-hawkins"
 title = "Gordon Hawkins"
 website = "http://gordon-hawkins-baritone.com/"

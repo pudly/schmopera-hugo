@@ -3,6 +3,7 @@ date = "2015-04-04T23:07:00-04:00"
 lastmod = "2015-10-31T14:25:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446315932443/Logo---MSM.jpg.jpg"
 publishDate = "2015-04-04T23:07:00-04:00"
+related_people = ["scene/people/cree-carrico.md","scene/people/warren-jones.md","scene/people/michelle-siemens.md","scene/people/james-rolfe.md","scene/people/rena-harms.md","scene/people/bryan-register.md","scene/people/gordon-gerrard.md","scene/people/jessica-fishenfeld.md","scene/people/benjamin-dickerson.md","scene/people/jordan-rutter.md"]
 slug = "manhattan-school-of-music"
 title = "Manhattan School of Music"
 type_of_company = "Conservatory"

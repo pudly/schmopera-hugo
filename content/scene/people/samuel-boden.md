@@ -5,6 +5,7 @@ lastmod = "2018-01-14T18:57:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515974075202/samuel-boden-1.jpg.jpg"
 primary_image_credit = "Marco Borggreve."
 publishDate = "2018-01-14T18:57:00-05:00"
+related_companies = ["scene/companies/royal-opera-house.md"]
 slug = "samuel-boden"
 title = "Samuel Boden"
 website = "http://www.samuelboden.com/"

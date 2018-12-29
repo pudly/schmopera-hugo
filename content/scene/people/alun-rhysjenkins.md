@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-03-15T12:04:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463653412283/2016-05-19---Alun-Rhys-Jenkins.jpg.jpg"
 publishDate = "2016-05-19T11:24:00+01:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/glyndebourne.md","scene/companies/welsh-national-opera.md","scene/companies/garsington-opera.md","scene/companies/scottish-opera.md"]
 slug = "alun-rhysjenkins"
 title = "Alun Rhys-Jenkins"
 +++

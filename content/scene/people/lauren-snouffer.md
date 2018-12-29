@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-09-10T11:43:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505057908543/LAUREN_SNOUFFER-2147_V2-6.jpg.jpg"
 publishDate = "2017-09-10T11:41:00-04:00"
+related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/lyric-opera-of-kansas-city.md","scene/companies/the-juilliard-school.md"]
 slug = "lauren-snouffer"
 title = "Lauren Snouffer"
 [[social_media]]

@@ -5,6 +5,7 @@ lastmod = "2017-11-17T16:16:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510953147481/sam15-1-of-1_3_orig.jpg.jpg"
 primary_image_credit = "Ruby Images"
 publishDate = "2017-11-17T16:16:00-05:00"
+related_companies = ["scene/companies/chicago-fringe-opera.md","scene/companies/opera-on-tap.md"]
 slug = "samantha-attaguile"
 title = "Samantha Attaguile"
 website = "http://www.samanthaattaguile.com/"

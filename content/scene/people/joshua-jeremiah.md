@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-02-23T16:56:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487868597011/2017-02-23---Joshua_Jeremiah.jpg.jpg"
 publishDate = "2017-02-23T16:54:00+00:00"
+related_companies = ["scene/companies/arizona-opera.md","scene/companies/nyc-opera-renaissance.md","scene/companies/loftopera.md"]
 slug = "joshua-jeremiah"
 title = "Joshua Jeremiah"
 website = "http://www.joshuajeremiahbaritone.com/"

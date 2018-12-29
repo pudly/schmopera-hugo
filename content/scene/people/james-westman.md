@@ -5,6 +5,7 @@ lastmod = "2016-01-13T16:39:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452721145489/2016-01-13---James-Westman---pc-Rob-Harris.jpg.jpg"
 primary_image_credit = "Rob Harris"
 publishDate = "2015-04-07T18:37:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/pacific-opera-victoria.md","scene/companies/opera-lyra-ottawa.md","scene/companies/calgary-opera.md","scene/companies/lopra-de-montral.md","scene/companies/vancouver-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/off-centre-music-salon.md"]
 slug = "james-westman"
 title = "James Westman"
 website = "http://jameswestman.com/"

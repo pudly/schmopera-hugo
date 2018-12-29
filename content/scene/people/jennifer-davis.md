@@ -5,6 +5,7 @@ lastmod = "2016-10-03T16:30:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475508532969/thumb7_40aeaf9c3fcc01bd74e37432dffb147b.jpg.jpg"
 primary_image_credit = "Via Tact International Art Management"
 publishDate = "2016-10-03T16:30:00+01:00"
+related_companies = ["scene/companies/royal-opera-house.md"]
 slug = "jennifer-davis"
 title = "Jennifer Davis"
 [[social_media]]

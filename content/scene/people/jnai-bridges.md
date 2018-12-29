@@ -5,6 +5,7 @@ lastmod = "2017-01-09T12:39:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483965279322/2017-01-09---Bridges---S-Richards.jpg.jpg"
 primary_image_credit = "S. Richards Photography"
 publishDate = "2017-01-09T12:37:00+00:00"
+related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/wolf-trap-opera.md","scene/companies/vancouver-opera.md","scene/companies/san-francisco-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/los-angeles-opera.md","scene/companies/san-diego-opera.md"]
 slug = "jnai-bridges"
 title = "J&#039;Nai Bridges"
 website = "http://jnaibridgesmezzo.com/"

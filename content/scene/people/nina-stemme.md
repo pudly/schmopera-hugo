@@ -5,6 +5,7 @@ lastmod = "2015-05-25T22:03:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432605418784/11.jpg.jpg"
 primary_image_credit = "Tanja Niemann"
 publishDate = "2015-05-25T22:03:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/scene/opernhaus-zurich.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/teatro-alla-scala.md","scene/companies/san-francisco-opera.md","scene/companies/houston-grand-opera.md","scene/companies/royal-opera-house.md"]
 slug = "nina-stemme"
 title = "Nina Stemme"
 +++

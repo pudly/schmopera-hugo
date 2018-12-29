@@ -5,6 +5,7 @@ lastmod = "2015-10-28T11:44:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446046827778/Nadine_Sierra4_by_Merri_Cyr.jpg.jpg"
 primary_image_credit = "Photo by Merri Cyr"
 publishDate = "2015-10-28T11:44:00-04:00"
+related_companies = ["scene/companies/boston-lyric-opera.md","scene/companies/san-francisco-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/teatro-alla-scala.md","scene/companies/florida-grand-opera.md","scene/companies/seattle-opera.md","scene/companies/the-metropolitan-opera.md"]
 slug = "nadine-sierra"
 title = "Nadine Sierra"
 website = "http://nadinesierra.com/"

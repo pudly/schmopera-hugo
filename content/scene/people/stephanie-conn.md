@@ -4,6 +4,7 @@ discipline = "Producer, singer"
 lastmod = "2015-07-29T21:46:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438220695966/Friends3.jpg.jpg"
 publishDate = "2015-07-29T21:46:00-04:00"
+related_companies = ["scene/companies/indie-opera-to.md","scene/companies/the-friends-of-gravity.md"]
 slug = "stephanie-conn"
 title = "Stephanie Conn"
 website = "http://stephanieconn.com/performance/"

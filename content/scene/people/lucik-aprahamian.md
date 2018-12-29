@@ -4,6 +4,7 @@ discipline = "Conductor"
 lastmod = "2015-12-28T14:26:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451330683215/Lucik.jpg.jpg"
 publishDate = "2015-06-05T16:24:00-04:00"
+related_companies = ["scene/companies/the-dallas-opera.md"]
 slug = "lucik-aprahamian"
 title = "Luçik Aprahämian"
 website = "http://lucikaprahamian.com/"

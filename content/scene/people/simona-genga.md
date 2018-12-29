@@ -5,6 +5,7 @@ lastmod = "2018-12-02T10:47:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543765596542/img-6568edit_orig.jpg.jpg"
 primary_image_credit = "Avery's Lightworks Photography."
 publishDate = "2018-12-02T10:47:00-05:00"
+related_companies = ["scene/companies/opera-theatre-of-st-louis.md","scene/companies/university-of-toronto-opera.md","scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
 slug = "simona-genga"
 title = "Simona Genga"
 website = "http://www.simonarosegenga.com/"

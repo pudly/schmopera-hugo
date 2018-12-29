@@ -5,6 +5,7 @@ lastmod = "2017-03-12T12:09:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489317598813/2017-03-12---ANTONACCI_Anna-Caterina_Photo-Benjamin-Ealovega-.jpg.jpg"
 primary_image_credit = "Benjamin Ealovega"
 publishDate = "2017-03-12T12:09:00+00:00"
+related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/royal-opera-house.md"]
 slug = "anna-caterina-antonacci"
 title = "Anna Caterina Antonacci"
 +++

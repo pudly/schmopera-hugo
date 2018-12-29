@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2016-04-29T13:32:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461933117011/2016-04-29---Gemma-Summerfield.jpg.jpg"
 publishDate = "2016-04-29T13:32:00+01:00"
+related_companies = ["scene/companies/classical-opera.md","scene/companies/scottish-opera.md"]
 slug = "gemma-summerfield"
 title = "Gemma Summerfield"
 website = "http://www.gemmaloissummerfieldsoprano.co.uk/"

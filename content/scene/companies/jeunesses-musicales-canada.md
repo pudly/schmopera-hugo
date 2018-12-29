@@ -3,6 +3,7 @@ date = "2015-11-22T21:46:00-05:00"
 lastmod = "2016-01-02T21:23:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448246876459/Logo---JMC.jpg.jpg"
 publishDate = "2015-11-22T21:48:00-05:00"
+related_people = ["scene/people/myriam-leblanc.md","scene/people/geoffroy-salvas.md","scene/people/tonatiuh-abrego.md","scene/people/marcel-dentremont.md","scene/people/dylan-wright.md","scene/people/katrina-westin.md","scene/people/carolanne-fraser.md"]
 slug = "jeunesses-musicales-canada"
 title = "Jeunesses Musicales Canada"
 type_of_company = "Non-profit organization"

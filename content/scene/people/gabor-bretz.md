@@ -4,6 +4,7 @@ discipline = "Bass"
 lastmod = "2016-12-05T12:41:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480941613148/Gabor_Bretz_nopc_a_300dpi.jpg.jpg"
 publishDate = "2016-12-05T12:41:00+00:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/salzburg-festival.md","scene/companies/hungarian-state-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/opera-australia.md"]
 slug = "gabor-bretz"
 title = "Gábor Bretz"
 +++

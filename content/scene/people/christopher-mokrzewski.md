@@ -4,6 +4,7 @@ discipline = "Conductor, pianist"
 lastmod = "2015-04-07T15:40:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428435553345/Topher.jpg.jpg"
 publishDate = "2015-04-07T15:40:00-04:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/calgary-opera.md","scene/companies/opera-atelier.md","scene/companies/highlands-opera-studio.md"]
 slug = "christopher-mokrzewski"
 title = "Christopher Mokrzewski"
 website = "http://www.christophermokrzewski.com/"

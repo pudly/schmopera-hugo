@@ -5,6 +5,7 @@ lastmod = "2015-04-11T22:46:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428802916020/rihab-temp.jpg.jpg"
 primary_image_credit = "Jeff MacNab"
 publishDate = "2015-04-11T21:43:00-04:00"
+related_companies = ["scene/companies/glyndebourne.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/opera-mcgill.md"]
 slug = "rihab-chaieb"
 title = "Rihab Chaieb"
 [[social_media]]

@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-03-15T12:12:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489579951724/2017-03-15---Amanda-Majeski.jpg.jpg"
 publishDate = "2016-02-03T22:54:00+00:00"
+related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/the-santa-fe-opera.md","scene/companies/the-metropolitan-opera.md"]
 slug = "amanda-majeski"
 title = "Amanda Majeski"
 website = "http://www.amandamajeski.com/"

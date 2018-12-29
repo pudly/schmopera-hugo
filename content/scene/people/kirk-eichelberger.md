@@ -4,6 +4,7 @@ discipline = "Bass"
 lastmod = "2018-04-18T10:25:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524061442814/EICHELBERGER_HIRESPHOTO.jpg.jpg"
 publishDate = "2018-04-18T10:25:00-04:00"
+related_companies = ["scene/companies/edmonton-opera.md","scene/companies/opera-philadelphia.md","scene/companies/vancouver-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/lyric-opera-of-kansas-city.md","scene/companies/manitoba-opera.md","scene/companies/the-metropolitan-opera.md"]
 slug = "kirk-eichelberger"
 title = "Kirk Eichelberger"
 +++

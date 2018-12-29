@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-11-13T18:01:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510613768380/ccf296_5fbf0f325d32411885bbf73075be940b.webp"
 publishDate = "2017-11-13T18:01:00-05:00"
+related_companies = ["scene/companies/minnesota-opera.md","scene/companies/opera-north.md","scene/companies/florida-grand-opera.md","scene/companies/opera-philadelphia.md","scene/companies/lyric-opera-of-chicago.md"]
 slug = "angela-mortellaro"
 title = "Angela Mortellaro"
 website = "https://www.angelamortellaro.com/"

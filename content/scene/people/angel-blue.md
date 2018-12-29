@@ -5,6 +5,7 @@ lastmod = "2017-03-15T12:27:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465292270594/2016-06-07---Angel-Blue-Sonya_Garza.jpg.jpg"
 primary_image_credit = "Sonya Garza"
 publishDate = "2016-06-07T10:43:00+01:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/los-angeles-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/san-francisco-opera.md"]
 slug = "angel-blue"
 title = "Angel Blue"
 website = "http://www.angeljoyblue.com/"

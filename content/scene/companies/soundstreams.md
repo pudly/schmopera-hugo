@@ -3,6 +3,7 @@ date = "2015-04-04T22:30:00-04:00"
 lastmod = "2015-10-31T14:51:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446317465928/Logo---Sounstreams.jpg.jpg"
 publishDate = "2015-04-04T22:30:00-04:00"
+related_people = ["scene/people/brian-current.md","scene/people/david-lang.md","scene/people/geoffrey-sirett.md","scene/people/leslie-dala.md","scene/people/sean-clark.md","scene/people/larissa-koniuk.md","scene/people/lucia-cervoni.md","scene/people/vania-chan.md","scene/people/cecilia-livingston.md","scene/people/justin-welsh.md"]
 slug = "soundstreams"
 title = "Soundstreams"
 type_of_company = "Music Centre"

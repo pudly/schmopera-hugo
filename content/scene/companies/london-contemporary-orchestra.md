@@ -3,6 +3,7 @@ date = "2016-05-24T14:45:00-04:00"
 lastmod = "2016-05-24T14:45:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464115381352/Logo---LCO.gif"
 publishDate = "2016-05-24T14:45:00-04:00"
+related_people = ["scene/people/robert-ames.md","scene/people/hugh-brunt.md"]
 slug = "london-contemporary-orchestra"
 title = "London Contemporary Orchestra"
 type_of_company = "Orchestra"

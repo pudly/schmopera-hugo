@@ -5,6 +5,7 @@ lastmod = "2017-11-13T17:52:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510613373463/fullsizeimage_18463.jpg.jpg"
 primary_image_credit = "S.N. de Vries"
 publishDate = "2017-11-13T17:52:00-05:00"
+related_companies = ["scene/companies/minnesota-opera.md","scene/companies/bayerische-staatsoper.md"]
 slug = "johanni-van-oostrum"
 title = "Johanni van Oostrum"
 website = "http://www.johannivanoostrum.com/"

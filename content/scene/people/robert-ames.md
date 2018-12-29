@@ -4,6 +4,7 @@ discipline = "Conductor, violist"
 lastmod = "2016-05-24T14:48:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464115663036/2016-05-24---Robert-Ames.gif"
 publishDate = "2016-05-24T14:48:00-04:00"
+related_companies = ["scene/companies/london-contemporary-orchestra.md"]
 slug = "robert-ames"
 title = "Robert Ames"
 website = "http://www.robertames.co.uk/"

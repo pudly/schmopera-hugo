@@ -5,6 +5,7 @@ lastmod = "2017-10-17T19:55:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508284355934/erinhscolor---wesley-johnson.jpg.jpg"
 primary_image_credit = "Wesley Johnson"
 publishDate = "2017-10-17T19:55:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/glyndebourne.md","scene/companies/the-santa-fe-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/opra-national-de-paris.md"]
 slug = "erin-morley"
 title = "Erin Morley"
 website = "http://www.erinmorley.com/"

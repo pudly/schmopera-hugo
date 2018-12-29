@@ -4,6 +4,7 @@ discipline = "Conductor, pianist"
 lastmod = "2016-09-29T10:56:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475142913310/2016-09-28---Fletcher-Nick.jpg.jpg"
 publishDate = "2016-09-29T10:56:00+01:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/scottish-opera.md","scene/companies/welsh-national-opera.md"]
 slug = "nick-fletcher"
 title = "Nick Fletcher"
 +++

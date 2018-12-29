@@ -5,6 +5,7 @@ lastmod = "2018-11-11T17:05:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541973877437/alex%2520headshot%25202%2520-%2520arielle%2520doneson.jpg.jpg"
 primary_image_credit = "Arielle Doneson"
 publishDate = "2018-11-11T17:05:00-05:00"
+related_companies = ["scene/companies/washington-national-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/the-juilliard-school.md"]
 slug = "alexander-mckissick"
 title = "Alexander McKissick"
 website = "https://alexandermckissick.com/"

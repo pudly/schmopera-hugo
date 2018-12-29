@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2018-09-23T19:55:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537746918694/1_10.jpg.jpg"
 publishDate = "2018-09-23T19:54:00-04:00"
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/staatsoper-berlin.md","scene/companies/teatro-alla-scala.md","scene/companies/san-francisco-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/royal-opera-house.md","scene/companies/opra-national-de-paris.md"]
 slug = "ramon-vargas"
 title = "Ramón Vargas"
 website = "http://www.ramonvargas.com/e/index.html"

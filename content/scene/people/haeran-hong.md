@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-11-13T14:41:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510601807725/Hong.H.headshot.jpg.jpg"
 publishDate = "2017-11-13T14:40:00-05:00"
+related_companies = ["scene/companies/florida-grand-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/the-metropolitan-opera.md","scene/companies/the-juilliard-school.md"]
 slug = "haeran-hong"
 title = "Haeran Hong"
 +++

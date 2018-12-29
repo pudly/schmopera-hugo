@@ -4,6 +4,7 @@ discipline = "Bass-baritone"
 lastmod = "2017-04-03T17:06:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491235203371/jamesmorris.jpg.jpg"
 publishDate = "2017-04-03T17:06:00+01:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/san-francisco-opera.md","scene/companies/english-national-opera.md","scene/companies/royal-opera-house.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/bayerische-staatsoper.md","scene/companies/staatsoper-berlin.md","scene/companies/deutsche-oper-berlin.md","scene/companies/opra-national-de-paris.md"]
 slug = "james-morris"
 title = "James Morris"
 +++

@@ -5,6 +5,7 @@ lastmod = "2015-10-11T10:43:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444574529559/KathrinWelteSquare.jpg.jpg"
 primary_image_credit = "Photo by Marc Jolin"
 publishDate = "2015-10-11T10:43:00-04:00"
+related_companies = ["scene/companies/opera-da-camera.md"]
 slug = "kathrin-welte"
 title = "Kathrin Welte"
 website = "http://www.kathrinwelte.com/"

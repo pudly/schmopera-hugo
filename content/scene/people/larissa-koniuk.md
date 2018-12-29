@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-04-26T00:24:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430022168155/Larissa-Koniuk-headshot-sq.jpg.jpg"
 publishDate = "2015-04-26T00:24:00-04:00"
+related_companies = ["scene/companies/fawn-chamber-creative.md","scene/companies/the-bicycle-opera-project.md","scene/companies/against-the-grain-theatre.md","scene/companies/soundstreams.md","scene/companies/indie-opera-to.md"]
 slug = "larissa-koniuk"
 title = "Larissa Koniuk"
 website = "http://bicycleopera.com/artists/co-founders/"

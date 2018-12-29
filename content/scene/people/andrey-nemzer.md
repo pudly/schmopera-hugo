@@ -4,6 +4,7 @@ discipline = "Countertenor"
 lastmod = "2018-04-22T20:54:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524444711995/IMG_8879-2.jpg.jpg"
 publishDate = "2018-04-22T20:54:00-04:00"
+related_companies = ["scene/companies/pacific-opera-victoria.md","scene/companies/san-francisco-opera.md","scene/companies/the-metropolitan-opera.md"]
 slug = "andrey-nemzer"
 title = "Andrey Nemzer"
 website = "http://andreynemzer.com/eng/"

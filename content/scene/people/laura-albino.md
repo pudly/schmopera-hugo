@@ -5,6 +5,7 @@ lastmod = "2015-04-07T23:11:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428462413400/LauraA.jpg.jpg"
 primary_image_credit = "Katie Cross"
 publishDate = "2015-04-07T23:11:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/highlands-opera-studio.md","scene/companies/voicebox-opera-in-concert.md","scene/companies/calgary-opera.md","scene/companies/against-the-grain-theatre.md"]
 slug = "laura-albino"
 title = "Laura Albino"
 website = "http://www.lauraalbino.com/live/"

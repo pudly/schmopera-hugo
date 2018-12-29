@@ -5,6 +5,7 @@ lastmod = "2015-11-12T17:49:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447368513393/2015-11-12---Leah-Crocetto---pc-Fay-Fox.jpg.jpg"
 primary_image_credit = "Photo by Fay Fox"
 publishDate = "2015-04-08T10:31:00-04:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/san-francisco-opera.md","scene/companies/washington-national-opera.md","scene/companies/opera-philadelphia.md","scene/companies/the-metropolitan-opera.md"]
 slug = "leah-crocetto"
 title = "Leah Crocetto"
 [[social_media]]

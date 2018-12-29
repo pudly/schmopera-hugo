@@ -4,6 +4,7 @@ discipline = "Bass"
 lastmod = "2018-09-23T14:19:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537726500135/kevsteele_Kevin_Master_8x10_05.jpg.jpg"
 publishDate = "2018-09-23T14:19:00-04:00"
+related_companies = ["scene/companies/odyssey-opera.md"]
 slug = "kevin-thompson"
 title = "Kevin Thompson"
 website = "http://kevinthompsonbass.com/press.asp"

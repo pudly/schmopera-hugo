@@ -5,6 +5,7 @@ lastmod = "2016-02-05T13:36:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454697098493/ChristopherAllen_GabrielGastelum1---Square.jpg.jpg"
 primary_image_credit = "Gabriel Gastelum"
 publishDate = "2016-02-05T13:36:00-05:00"
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/english-national-opera.md"]
 slug = "christopher-allen"
 title = "Christopher Allen"
 website = "http://www.christophergallen.com/"

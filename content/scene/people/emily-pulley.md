@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2018-01-29T18:38:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517268642349/Pulley.Emily.Headshot.jpg.jpg"
 publishDate = "2018-01-29T18:38:00-05:00"
+related_companies = ["scene/companies/minnesota-opera.md","scene/companies/the-atlanta-opera.md","scene/companies/portland-opera.md","scene/companies/san-francisco-opera.md","scene/companies/nashville-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/lyric-opera-of-kansas-city.md","scene/companies/des-moines-metro-opera.md","scene/companies/royal-opera-house.md","scene/companies/on-site-opera.md"]
 slug = "emily-pulley"
 title = "Emily Pulley"
 +++

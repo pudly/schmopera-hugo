@@ -5,6 +5,7 @@ lastmod = "2017-09-17T18:49:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505688269989/tz6a0578edit.jpg.jpg"
 primary_image_credit = "Fay Fox"
 publishDate = "2017-09-17T18:49:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/washington-national-opera.md","scene/companies/los-angeles-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/the-metropolitan-opera.md","scene/companies/portland-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/the-dallas-opera.md"]
 slug = "john-holiday"
 title = "John Holiday"
 website = "http://johnholidaylive.com/"

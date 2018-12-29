@@ -4,6 +4,7 @@ discipline = "Pianist"
 lastmod = "2015-11-08T12:09:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447002511985/4_b.jpg.jpg"
 publishDate = "2015-11-08T12:09:00-05:00"
+related_companies = ["scene/companies/cosi-centre-for-opera-studies-in-italy.md","scene/companies/opera-nuova.md"]
 slug = "christina-faye"
 title = "Christina Faye"
 website = "http://www.christinamfaye.com/index.html"

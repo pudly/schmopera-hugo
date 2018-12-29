@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-07-26T22:40:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501122930527/2017-07-26---Lester-Lync.jpg.jpg"
 publishDate = "2017-07-26T22:40:00-04:00"
+related_companies = ["scene/companies/welsh-national-opera.md","scene/companies/minnesota-opera.md","scene/companies/canadian-opera-company.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/lopra-de-montral.md","scene/companies/san-francisco-opera.md"]
 slug = "lester-lynch"
 title = "Lester Lynch"
 website = "http://www.lesterlynch.com/"

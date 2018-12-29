@@ -5,6 +5,7 @@ lastmod = "2017-12-12T11:47:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513096963148/home.jpg.jpg"
 primary_image_credit = "Marco Borggreve"
 publishDate = "2017-12-12T11:47:00-05:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/glyndebourne.md"]
 slug = "mark-padmore"
 title = "Mark Padmore"
 website = "http://www.markpadmore.com/"

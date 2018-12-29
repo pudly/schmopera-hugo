@@ -5,6 +5,7 @@ lastmod = "2017-09-19T11:39:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505835436444/e0e37d_a3b62cba10a74dc2bdc004f980cb4953.webp"
 primary_image_credit = "Hailey Dennis"
 publishDate = "2015-06-09T08:41:00-04:00"
+related_companies = ["scene/companies/oberlin-college-and-conservatory.md","scene/companies/music-academy-of-the-west-voice-program.md"]
 slug = "julia-dawson"
 title = "Julia Dawson"
 website = "http://www.juliadawsonmezzo.com/"

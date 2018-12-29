@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-10-10T22:04:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507687197338/Walton.D.Headshot.jpg.jpg"
 publishDate = "2017-10-10T22:04:00-04:00"
+related_companies = ["scene/companies/minnesota-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/opera-theatre-of-st-louis.md"]
 slug = "david-walton"
 title = "David Walton"
 website = "http://www.davidwaltontenor.com/"

@@ -5,6 +5,7 @@ lastmod = "2018-03-02T16:18:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520025453279/(c)%20Christina%20Raphaelle.jpg.jpg"
 primary_image_credit = "Christina Raphaelle"
 publishDate = "2018-03-02T16:18:00-05:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/scottish-opera.md","scene/companies/classical-opera.md"]
 slug = "eleanor-dennis"
 title = "Eleanor Dennis"
 [[social_media]]

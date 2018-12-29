@@ -5,6 +5,7 @@ lastmod = "2016-02-12T14:32:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455305504904/Emily-HamperSquare.jpg.jpg"
 primary_image_credit = "Ann Baggley"
 publishDate = "2016-02-12T14:32:00-05:00"
+related_companies = ["scene/companies/canadian-art-song-project.md","scene/companies/opra-national-de-paris.md","scene/companies/calgary-opera.md","scene/companies/opera-atelier.md","scene/companies/the-banff-centre.md","scene/companies/merola-opera-program.md"]
 slug = "emily-hamper"
 title = "Emily Hamper"
 website = "http://www.emilyhamper.com/"

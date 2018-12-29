@@ -5,6 +5,7 @@ lastmod = "2017-07-25T10:09:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500991643995/03956d_9accfebeca1e4aaca0d38a7cc7132462~mv2.webp"
 primary_image_credit = "Fermata Daily Photography"
 publishDate = "2017-07-25T10:09:00-04:00"
+related_companies = ["scene/companies/opera-nuova.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
 slug = "sydney-baedke"
 title = "Sydney Baedke"
 website = "https://www.sydneybaedkesoprano.com/"

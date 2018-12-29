@@ -3,6 +3,7 @@ date = "2015-04-04T20:59:00-04:00"
 lastmod = "2015-10-31T15:05:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446318312936/Logo---OIC.jpg.jpg"
 publishDate = "2015-04-04T20:59:00-04:00"
+related_people = ["scene/people/adam-luther.md","scene/people/colin-ainsworth.md","scene/people/ernesto-ramirez.md","scene/people/geoffrey-sirett.md","scene/people/gregory-finney.md","scene/people/jennifer-taverner.md","scene/people/joni-henson.md","scene/people/laura-albino.md","scene/people/leighann-allen.md","scene/people/leslie-ann-bradley.md","scene/people/christina-campsall.md","scene/people/michelle-garlough.md","scene/people/michle-bogdanowicz.md","scene/people/janaka-welihinda.md","scene/people/natalya-matyusheva.md","scene/people/virginia-hatfield.md","scene/people/james-levesque.md","scene/people/dion-mazerolle.md","scene/people/lara-ciekiewicz.md","scene/people/justin-ralph.md","scene/people/vania-chan.md","scene/people/andrey-andreychik.md","scene/people/david-trudgen.md"]
 slug = "voicebox-opera-in-concert"
 title = "VOICEBOX: Opera in Concert"
 type_of_company = "Opera Company"

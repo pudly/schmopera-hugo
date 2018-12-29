@@ -3,6 +3,7 @@ date = "2016-08-23T10:59:00+01:00"
 lastmod = "2016-08-23T10:59:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471946387419/2016-08-24---Logo-PBO.jpg.jpg"
 publishDate = "2016-08-23T10:59:00+01:00"
+related_people = ["scene/people/keri-alkema.md","scene/people/liana-guberman.md","scene/people/scene/matthew-trevino.md","scene/people/jessica-fishenfeld.md","scene/people/brian-jagde.md","scene/people/kasia-borowiec.md","scene/people/janai-brugger.md","scene/people/deanna-breiwick.md","scene/people/melissa-parks.md","scene/people/jason-ferrante.md","scene/people/troy-cook.md","scene/people/philip-cokorinos.md","scene/people/latonia-moore.md","scene/people/scene/zanda-svede.md","scene/people/amber-wagner.md","scene/people/michael-chioldi.md","scene/people/miles-mykkanen.md","scene/people/alisa-jordheim.md","scene/people/dominick-chenes.md","scene/people/jonathan-burton.md","scene/people/todd-thomas.md"]
 slug = "palm-beach-opera"
 title = "Palm Beach Opera"
 type_of_company = "Opera Company"

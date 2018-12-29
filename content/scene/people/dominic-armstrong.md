@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-11-18T15:53:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511037924021/dominic_armstrong_078-med-21.jpg.jpg"
 publishDate = "2017-11-18T15:53:00-05:00"
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/opera-philadelphia.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/deutsche-oper-berlin.md","scene/companies/wolf-trap-opera.md","scene/companies/american-opera-projects.md"]
 slug = "dominic-armstrong"
 title = "Dominic Armstrong"
 website = "http://www.dominicarmstrong.com/"

@@ -5,6 +5,7 @@ lastmod = "2016-04-11T10:02:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460365200144/2016-04-11---Sarah-Tynan-1---credit-Chris-Gloag.jpg.jpg"
 primary_image_credit = "Chris Gloag."
 publishDate = "2016-04-11T10:02:00+01:00"
+related_companies = ["scene/companies/glyndebourne.md","scene/companies/scottish-opera.md","scene/companies/garsington-opera.md","scene/companies/english-national-opera.md","scene/companies/opera-north.md","scene/companies/salzburg-festival.md"]
 slug = "sarah-tynan"
 title = "Sarah Tynan"
 website = "http://www.sarahtynan.com/index.html"

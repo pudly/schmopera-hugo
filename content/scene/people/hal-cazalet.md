@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2016-10-27T13:48:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477572315404/2016-10-27---Hal-Cazalet-Feat.jpg.jpg"
 publishDate = "2016-10-27T13:48:00+01:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/glyndebourne.md","scene/companies/english-national-opera.md","scene/companies/opera-holland-park.md","scene/companies/opera-north.md"]
 slug = "hal-cazalet"
 title = "Hal Cazalet"
 +++

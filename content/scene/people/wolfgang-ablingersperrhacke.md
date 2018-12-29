@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2015-09-22T23:03:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442977213974/portraet.jpg.jpg"
 publishDate = "2015-09-22T23:02:00-04:00"
+related_companies = ["scene/companies/staatsoper-berlin.md","scene/companies/deutsche-oper-berlin.md","scene/companies/bayerische-staatsoper.md","scene/companies/teatro-alla-scala.md","scene/companies/la-monnaie.md","scene/companies/glyndebourne.md","scene/companies/canadian-opera-company.md"]
 slug = "wolfgang-ablingersperrhacke"
 title = "Wolfgang Ablinger-Sperrhacke"
 website = "http://www.ablinger-sperrhacke.com/"

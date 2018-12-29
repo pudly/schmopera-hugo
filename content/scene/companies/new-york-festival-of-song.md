@@ -3,6 +3,7 @@ date = "2016-10-26T12:33:00+01:00"
 lastmod = "2016-10-26T12:37:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477481696703/Logo---NYFOS.jpg.jpg"
 publishDate = "2016-10-26T12:37:00+01:00"
+related_people = ["scene/people/benjamin-dickerson.md"]
 slug = "new-york-festival-of-song"
 title = "New York Festival of Song"
 type_of_company = "Recital series"

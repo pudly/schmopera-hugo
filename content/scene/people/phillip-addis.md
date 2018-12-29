@@ -5,6 +5,7 @@ lastmod = "2015-09-16T18:58:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442444066467/AddisSquare.jpg.jpg"
 primary_image_credit = "Photo by Kristin Hoebermann."
 publishDate = "2015-09-16T18:58:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/opera-atelier.md","scene/companies/pacific-opera-victoria.md","scene/companies/edmonton-opera.md","scene/companies/calgary-opera.md","scene/companies/latelier-lyrique-de-lopra-de-montral.md","scene/companies/lopra-de-montral.md","scene/companies/opra-de-qubec.md","scene/companies/opra-national-de-paris.md"]
 slug = "phillip-addis"
 title = "Phillip Addis"
 website = "http://www.phillipaddis.com/home.htm"

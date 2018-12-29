@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2015-05-18T15:31:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431976957613/album_photo.php%3Fid%3D18078%26size%3D500"
 publishDate = "2015-05-18T15:30:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/los-angeles-opera.md","scene/companies/san-francisco-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/staatsoper-berlin.md","scene/companies/washington-national-opera.md","scene/companies/dayton-opera.md"]
 slug = "plcido-domingo"
 title = "Plácido Domingo"
 website = "http://www.placidodomingo.com/inhalt.php?id=7486&menu_level=2&id_mnu=9912&id_kunden=1002"

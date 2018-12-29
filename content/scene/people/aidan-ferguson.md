@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-03-15T11:15:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452615695868/2016-11-12---Aidan-Ferguson.jpg.jpg"
 publishDate = "2016-01-12T16:23:00+00:00"
+related_companies = ["scene/companies/latelier-lyrique-de-lopra-de-montral.md","scene/companies/pacific-opera-victoria.md","scene/companies/lopra-de-montral.md","scene/companies/opera-mcgill.md"]
 slug = "aidan-ferguson"
 title = "Aidan Ferguson"
 website = "http://www.aidanferguson.ca/"

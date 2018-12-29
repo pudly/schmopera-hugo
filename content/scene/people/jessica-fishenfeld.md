@@ -5,6 +5,7 @@ lastmod = "2016-10-25T10:49:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477388929479/2016-10-25---Jessica-Fishenfeld---Fay-Fox.jpg.jpg"
 primary_image_credit = "Fay Fox."
 publishDate = "2016-10-25T10:49:00+01:00"
+related_companies = ["scene/companies/highlands-opera-studio.md","scene/companies/palm-beach-opera.md","scene/companies/manhattan-school-of-music.md","scene/companies/opera-carolina.md"]
 slug = "jessica-fishenfeld"
 title = "Jessica Fishenfeld"
 website = "http://www.jessicafishenfeld.com/"

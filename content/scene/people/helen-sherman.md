@@ -5,6 +5,7 @@ lastmod = "2017-03-22T12:11:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490184643491/2017-03-22---HelenShermanGreyscale.jpg.jpg"
 primary_image_credit = "Benjamine Harte"
 publishDate = "2017-03-22T12:11:00+00:00"
+related_companies = ["scene/companies/classical-opera.md","scene/companies/opera-north.md"]
 slug = "helen-sherman"
 title = "Helen Sherman"
 website = "http://www.helensherman.net/"

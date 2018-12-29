@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-11-19T11:58:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511110479040/HILL_PHOTO1_HIRES.jpg.jpg"
 publishDate = "2017-11-19T11:58:00-05:00"
+related_companies = ["scene/companies/calgary-opera.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/the-metropolitan-opera.md","scene/companies/pacific-opera-victoria.md","scene/companies/royal-opera-house.md","scene/companies/opra-national-de-paris.md"]
 slug = "andrea-hill"
 title = "Andrea Hill"
 website = "https://www.mezzoandrea.com/"

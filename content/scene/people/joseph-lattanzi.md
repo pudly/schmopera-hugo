@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2016-03-09T20:30:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457555366091/2016-03-09---Joseph-Lattanzi.jpg.jpg"
 publishDate = "2016-03-09T20:30:00+00:00"
+related_companies = ["scene/companies/oberlin-college-and-conservatory.md","scene/companies/seattle-opera.md","scene/companies/arizona-opera.md","scene/companies/merola-opera-program.md","scene/companies/the-atlanta-opera.md"]
 slug = "joseph-lattanzi"
 title = "Joseph Lattanzi"
 website = "http://josephlattanzibaritone.com/JosephLattanzibaritone/home.html"

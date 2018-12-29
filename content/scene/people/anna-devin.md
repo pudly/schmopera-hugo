@@ -5,6 +5,7 @@ lastmod = "2016-04-04T19:59:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459796094694/2016-04-04---Anna-Devin-Headshot.jpg.jpg"
 primary_image_credit = "Photo via imgartists.com."
 publishDate = "2016-04-04T19:59:00+01:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/welsh-national-opera.md","scene/companies/salzburg-festival.md","scene/companies/glyndebourne.md","scene/companies/teatro-alla-scala.md","scene/companies/scottish-opera.md"]
 slug = "anna-devin"
 title = "Anna Devin"
 website = "http://www.annadevin.com/"

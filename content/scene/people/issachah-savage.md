@@ -5,6 +5,7 @@ lastmod = "2015-04-07T18:31:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428445896279/Issachah-Kristin-Hoeberman.jpg.jpg"
 primary_image_credit = "Kristin Hoebermann"
 publishDate = "2015-04-07T18:31:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/merola-opera-program.md","scene/companies/opera-north.md"]
 slug = "issachah-savage"
 title = "Issachah Savage"
 website = "http://issachah.weebly.com/"

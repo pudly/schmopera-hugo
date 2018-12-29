@@ -4,6 +4,7 @@ discipline = "Cellist"
 lastmod = "2015-07-20T13:34:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437413605511/B.-RileySquare.jpg.jpg"
 publishDate = "2015-07-20T13:34:00-04:00"
+related_companies = ["scene/companies/toronto-symphony-orchestra.md","scene/companies/the-banff-centre.md","scene/companies/royal-conservatory-of-music.md"]
 slug = "britton-riley"
 title = "Britton Riley"
 website = "http://www.brittonriley.com/"

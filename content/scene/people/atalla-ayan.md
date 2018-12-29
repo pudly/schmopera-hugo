@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2018-01-16T19:29:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516148663189/Atalla-Ayan-Jiyang-Chen-1012x1030.jpg.jpg"
 publishDate = "2018-01-16T19:29:00-05:00"
+related_companies = ["scene/companies/deutsche-oper-berlin.md","scene/companies/teatro-alla-scala.md","scene/companies/the-metropolitan-opera.md","scene/companies/canadian-opera-company.md","scene/companies/royal-opera-house.md","scene/companies/san-francisco-opera.md","scene/companies/bayerische-staatsoper.md"]
 slug = "atalla-ayan"
 title = "Atalla Ayan"
 +++

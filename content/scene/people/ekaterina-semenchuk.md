@@ -5,6 +5,7 @@ lastmod = "2016-11-23T11:56:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479902030059/2016-11-23---SEMENCHUK-Ekaterina_photo-by-Sheila_Rock.jpg.jpg"
 primary_image_credit = "Sheila Rock"
 publishDate = "2016-11-23T11:53:00+00:00"
+related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md","scene/companies/los-angeles-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/wiener-staatsoper.md","scene/companies/salzburg-festival.md","scene/companies/opra-national-de-paris.md"]
 slug = "ekaterina-semenchuk"
 title = "Ekaterina Semenchuk"
 [[social_media]]

@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2015-07-11T21:00:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436669925306/Headshot-Kim-Sartor-PDF-2014-1.jpg.jpg"
 publishDate = "2015-07-11T21:00:00-06:00"
+related_companies = ["scene/companies/opera-by-request.md"]
 slug = "kim-sartor"
 title = "Kim Sartor"
 website = "http://kimsartormusic.blogspot.ca/"

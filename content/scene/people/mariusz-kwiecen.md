@@ -5,6 +5,7 @@ lastmod = "2015-09-30T09:17:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443618792765/Mariusz.jpg.jpg"
 primary_image_credit = "Photo: Mikolaj Mikolajczyk"
 publishDate = "2015-09-30T09:17:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/bayerische-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/royal-opera-house.md","scene/companies/wiener-staatsoper.md","scene/companies/lyric-opera-of-chicago.md"]
 slug = "mariusz-kwiecen"
 title = "Mariusz Kwiecen"
 website = "http://www.mariuszkwiecien.com/"

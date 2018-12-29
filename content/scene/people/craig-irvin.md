@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2016-09-27T14:28:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474981761616/2016-09-26---Craig-Irvin-Full.jpg.jpg"
 publishDate = "2016-09-27T14:10:00+01:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/minnesota-opera.md","scene/companies/wolf-trap-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/opera-north.md","scene/companies/nashville-opera.md","scene/companies/los-angeles-opera.md"]
 slug = "craig-irvin"
 title = "Craig Irvin"
 website = "http://www.craigirvinbaritone.com/"

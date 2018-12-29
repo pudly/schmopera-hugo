@@ -3,6 +3,7 @@ date = "2017-09-10T12:37:00-04:00"
 lastmod = "2017-09-10T12:39:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505061464156/AOP-Logo.jpg.jpg"
 publishDate = "2017-09-10T12:37:00-04:00"
+related_people = ["scene/people/david-cote.md","scene/people/jorell-williams.md","scene/people/jordan-rutter.md","scene/people/david-lang.md","scene/people/dominic-armstrong.md","scene/people/blythe-gaissert.md"]
 slug = "american-opera-projects"
 title = "American Opera Projects"
 type_of_company = "Opera Company"

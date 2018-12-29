@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2015-04-12T11:04:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428851026302/MCGILLIVRAY-PHOTO.jpg.jpg"
 publishDate = "2015-04-12T11:02:00-04:00"
+related_companies = ["scene/companies/calgary-opera.md","scene/companies/edmonton-opera.md","scene/companies/tapestry-opera.md","scene/companies/the-dallas-opera.md"]
 slug = "peter-mcgillivray"
 title = "Peter McGillivray"
 website = "http://petermcgillivray.com/"

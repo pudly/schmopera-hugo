@@ -3,6 +3,7 @@ date = "2015-10-28T11:39:00-04:00"
 draft = true
 lastmod = "2015-10-28T11:39:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446046747751/BLO.jpg.jpg"
+related_people = ["scene/people/nadine-sierra.md","scene/people/chad-shelton.md","scene/people/jonathan-burton.md"]
 slug = "boston-lyric-opera"
 title = "Boston Lyric Opera"
 type_of_company = "Opera Company"

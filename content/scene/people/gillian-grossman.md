@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-07-29T20:50:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501375704791/Gillian_G_Red.jpg.jpg"
 publishDate = "2017-07-29T20:50:00-04:00"
+related_companies = ["scene/companies/shoestring-opera.md"]
 slug = "gillian-grossman"
 title = "Gillian Grossman"
 website = "http://www.gilliangrossman.ca/"

@@ -4,6 +4,7 @@ discipline = "Bass"
 lastmod = "2016-09-15T15:24:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473946839599/2016-09-14---Trevino.jpg.jpg"
 publishDate = "2016-09-15T14:45:00+01:00"
+related_companies = ["scene/companies/nashville-opera.md","scene/companies/brooklyn-academy-of-music.md","scene/companies/palm-beach-opera.md","scene/companies/merola-opera-program.md","scene/companies/san-francisco-opera.md","scene/companies/arizona-opera.md","scene/companies/lyric-opera-of-kansas-city.md"]
 slug = "matthew-trevino"
 title = "Matthew Treviño"
 website = "http://www.matthewtrevino.com/"

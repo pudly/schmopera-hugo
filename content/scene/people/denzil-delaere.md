@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-12-19T18:57:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513727745722/c31351_5b53f542f07a4d27904d356a66b73bb5.webp"
 publishDate = "2017-12-19T18:57:00-05:00"
+related_companies = ["scene/companies/vlaamse-opera.md"]
 slug = "denzil-delaere"
 title = "Denzil Delaere"
 website = "http://denzildelaere.wixsite.com/denzildelaere"

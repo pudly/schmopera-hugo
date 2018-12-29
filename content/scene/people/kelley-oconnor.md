@@ -5,6 +5,7 @@ lastmod = "2017-09-15T20:53:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505522947607/Kelley-OConnor1-Credit-Kristina-Choe-Jacinth1.jpg.jpg"
 primary_image_credit = "Kristina Choe Jacinth"
 publishDate = "2017-09-15T20:52:00-04:00"
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/the-santa-fe-opera.md","scene/companies/canadian-opera-company.md"]
 slug = "kelley-oconnor"
 title = "Kelley O&#039;Connor"
 website = "http://www.kelleyoconnor.com/"

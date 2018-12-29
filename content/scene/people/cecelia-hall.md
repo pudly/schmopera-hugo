@@ -5,6 +5,7 @@ lastmod = "2017-09-18T15:39:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505763183724/cecelia-hall-cropped-8652---d--acosta.jpg.jpg"
 primary_image_credit = "Dario Acosta"
 publishDate = "2017-09-18T15:38:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/the-santa-fe-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/canadian-opera-company.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/oper-frankfurt.md","scene/companies/seattle-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/the-metropolitan-opera.md","scene/companies/the-juilliard-school.md"]
 slug = "cecelia-hall"
 title = "Cecelia Hall"
 website = "http://ceceliahall.com/"

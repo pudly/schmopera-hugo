@@ -5,6 +5,7 @@ lastmod = "2017-09-17T15:26:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505676035586/Soloman-Howard-2-photo-credit-Jon-Adjahoe.jpg.jpg"
 primary_image_credit = "Jon Adjahoe"
 publishDate = "2017-09-17T15:26:00-04:00"
+related_companies = ["scene/companies/washington-national-opera.md","scene/companies/san-francisco-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/los-angeles-opera.md","scene/companies/glimmerglass-festival.md"]
 slug = "soloman-howard"
 title = "Soloman Howard"
 website = "http://solomanhoward.com/"

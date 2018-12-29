@@ -5,6 +5,7 @@ lastmod = "2018-03-18T21:18:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521422188240/2690%2BJonas%2BHacker%2BHI%2BRES.jpg.jpg"
 primary_image_credit = "Kristin Hoebermann"
 publishDate = "2018-03-18T21:18:00-04:00"
+related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/the-dallas-opera.md","scene/companies/wolf-trap-opera.md"]
 slug = "jonas-hacker"
 title = "Jonas Hacker"
 website = "http://www.jonashackertenor.com/"

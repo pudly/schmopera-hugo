@@ -5,6 +5,7 @@ lastmod = "2017-03-03T16:10:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488557278977/2017-03-03---Chen-Reiss-3---Paul-Marc-Mitchell.jpg.jpg"
 primary_image_credit = "Paul Marc Mitchell"
 publishDate = "2017-03-03T16:10:00+00:00"
+related_companies = ["scene/companies/teatro-alla-scala.md","scene/companies/wiener-staatsoper.md","scene/companies/bayerische-staatsoper.md","scene/companies/deutsche-oper-berlin.md","scene/companies/royal-opera-house.md"]
 slug = "chen-reiss"
 title = "Chen Reiss"
 website = "https://www.chenreiss.com/"

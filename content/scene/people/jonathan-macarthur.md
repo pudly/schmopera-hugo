@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2015-10-29T21:57:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446170163290/15-10-29---JonathanMacArthurSquare.jpg.jpg"
 publishDate = "2015-10-29T21:57:00-04:00"
+related_companies = ["scene/companies/university-of-toronto-opera.md","scene/companies/fawn-chamber-creative.md","scene/companies/indie-opera-to.md","scene/companies/confidential-opera-project.md"]
 slug = "jonathan-macarthur"
 title = "Jonathan MacArthur"
 website = "http://www.jonathanrussellmacarthur.com/"

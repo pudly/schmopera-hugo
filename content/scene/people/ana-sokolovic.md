@@ -5,6 +5,7 @@ lastmod = "2015-04-06T15:09:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428347276605/AnaSokolovic-pc-AlainLefort.jpg.jpg"
 primary_image_credit = "Alain Lefort"
 publishDate = "2015-04-06T15:09:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md"]
 slug = "ana-sokolovic"
 title = "Ana Sokolovic"
 website = "http://www.anasokolovic.com/en/home"

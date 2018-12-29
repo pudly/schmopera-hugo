@@ -5,6 +5,7 @@ lastmod = "2015-12-30T15:16:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451506532356/2015-12-30---Josef-Wagner.jpg.jpg"
 primary_image_credit = "Steve Haider"
 publishDate = "2015-12-30T15:16:00-05:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/vlaamse-opera.md"]
 slug = "josef-wagner"
 title = "Josef Wagner"
 +++

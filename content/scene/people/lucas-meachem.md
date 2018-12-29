@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2018-01-16T19:46:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516149089702/lucasMeachem-14.jpg.jpg"
 publishDate = "2018-01-16T19:46:00-05:00"
+related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/canadian-opera-company.md","scene/companies/glyndebourne.md","scene/companies/wiener-staatsoper.md","scene/companies/the-santa-fe-opera.md","scene/companies/los-angeles-opera.md","scene/companies/san-francisco-opera.md","scene/companies/houston-grand-opera.md","scene/companies/the-metropolitan-opera.md"]
 slug = "lucas-meachem"
 title = "Lucas Meachem"
 website = "http://lucasmeachem.com/"

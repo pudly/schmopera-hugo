@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2015-11-29T20:17:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448845907895/2015-11-29---Thomas-Hampson.jpg.jpg"
 publishDate = "2015-11-29T20:17:00-05:00"
+related_companies = ["scene/companies/teatro-alla-scala.md","scene/companies/bayerische-staatsoper.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/salzburg-festival.md","scene/companies/scene/opernhaus-zurich.md","scene/companies/wiener-staatsoper.md","scene/companies/the-metropolitan-opera.md"]
 slug = "thomas-hampson"
 title = "Thomas Hampson"
 website = "http://www.thomashampson.com/"

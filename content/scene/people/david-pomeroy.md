@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2015-04-07T16:18:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428437820804/DavidPomeroyMT.jpg.jpg"
 publishDate = "2015-04-07T16:18:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/opera-lyra-ottawa.md","scene/companies/pacific-opera-victoria.md","scene/companies/vancouver-opera.md","scene/companies/calgary-opera.md","scene/companies/the-metropolitan-opera.md"]
 slug = "david-pomeroy"
 title = "David Pomeroy"
 website = "http://www.davidpomeroy.com/"

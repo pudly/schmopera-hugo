@@ -4,6 +4,7 @@ discipline = "Bass"
 lastmod = "2017-07-28T22:23:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501294870049/2017-07-25---Michael-Uloth.jpg.jpg"
 publishDate = "2017-07-28T22:23:00-04:00"
+related_companies = ["scene/companies/seattle-opera.md","scene/companies/canadian-opera-company.md","scene/companies/glimmerglass-festival.md"]
 slug = "michael-uloth"
 title = "Michael Uloth"
 website = "http://www.michaeluloth.com/"

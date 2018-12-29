@@ -5,6 +5,7 @@ lastmod = "2015-11-28T18:04:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448751798439/2015-11-29---Tobias-Greenhalgh.jpg.jpg"
 primary_image_credit = "Photo: Matthew Murphy"
 publishDate = "2015-11-28T18:04:00-05:00"
+related_companies = ["scene/companies/opera-theatre-of-st-louis.md","scene/companies/the-juilliard-school.md"]
 slug = "tobias-greenhalgh"
 title = "Tobias Greenhalgh"
 website = "http://tobiasgreenhalgh.com/"

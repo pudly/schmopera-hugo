@@ -5,6 +5,7 @@ lastmod = "2017-12-19T19:03:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513728027382/MarkusSuihkonen-1.jpg.jpg"
 primary_image_credit = "Vilja Tamminen"
 publishDate = "2017-12-19T19:03:00-05:00"
+related_companies = ["scene/companies/vlaamse-opera.md"]
 slug = "markus-suihkonen"
 title = "Markus Suihkonen"
 [[social_media]]

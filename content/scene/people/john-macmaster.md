@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2015-11-25T11:23:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448468478649/2015-11-25---John-MacMaster.jpg.jpg"
 publishDate = "2015-11-25T11:23:00-05:00"
+related_companies = ["scene/companies/glimmerglass-festival.md","scene/companies/canadian-opera-company.md","scene/companies/royal-opera-house.md","scene/companies/edmonton-opera.md","scene/companies/vancouver-opera.md","scene/companies/opra-de-qubec.md"]
 slug = "john-macmaster"
 title = "John MacMaster"
 website = "http://www.johnmacmaster.com/index.html"

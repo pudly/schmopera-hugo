@@ -3,6 +3,7 @@ date = "2015-03-30T22:58:00-04:00"
 lastmod = "2015-10-31T14:17:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446315412725/Logo---HSOF.jpg.jpg"
 publishDate = "2015-03-30T22:58:00-04:00"
+related_people = ["scene/people/charlotte-knight.md","scene/people/pascale-spinney.md","scene/people/janaka-welihinda.md","scene/people/william-ford.md","scene/people/beth-hagerman.md","scene/people/neil-weisensel.md","scene/people/emily-dangelo.md","scene/people/jessica-lane.md","scene/people/maureen-ferguson.md","scene/people/gordon-gerrard.md"]
 slug = "halifax-summer-opera-festival"
 title = "Halifax Summer Opera Festival"
 type_of_company = "Opera Training Program"

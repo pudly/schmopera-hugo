@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2016-12-03T13:02:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480767312698/2016-12-3---George_Gagnidze_Maik_Reishaus.jpg.jpg"
 publishDate = "2016-12-03T12:20:00+00:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/san-francisco-opera.md","scene/companies/los-angeles-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/deutsche-oper-berlin.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/wiener-staatsoper.md"]
 slug = "george-gagnidze"
 title = "George Gagnidze"
 website = "https://georgegagnidze.com/en/home.html"

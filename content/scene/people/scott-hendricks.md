@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-01-09T15:28:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483971350662/2017-01-09---Scott-Hendricks.jpg.jpg"
 publishDate = "2017-01-09T14:27:00+00:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/la-monnaie.md","scene/companies/scene/opernhaus-zurich.md","scene/companies/royal-opera-house.md","scene/companies/washington-national-opera.md","scene/companies/houston-grand-opera.md","scene/companies/bayerische-staatsoper.md"]
 slug = "scott-hendricks"
 title = "Scott Hendricks"
 [[social_media]]

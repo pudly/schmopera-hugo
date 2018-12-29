@@ -5,6 +5,7 @@ lastmod = "2017-10-07T13:33:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507397305018/c28e82_3da747a03bd54f289ad4e2edc6052e4c~mv2_d_3840_5760_s_4_2.webp"
 primary_image_credit = "Eric Melear"
 publishDate = "2017-10-07T13:33:00-04:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/houston-grand-opera.md","scene/companies/wolf-trap-opera.md"]
 slug = "morgan-pearse"
 title = "Morgan Pearse"
 website = "https://www.morganpearse.co.uk/"

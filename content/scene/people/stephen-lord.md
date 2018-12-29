@@ -4,6 +4,7 @@ discipline = "Conductor"
 lastmod = "2015-04-23T00:00:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429761621710/Lord.jpg.jpg"
 publishDate = "2015-04-23T00:00:00-04:00"
+related_companies = ["scene/companies/opera-mcgill.md"]
 slug = "stephen-lord"
 title = "Stephen Lord"
 +++

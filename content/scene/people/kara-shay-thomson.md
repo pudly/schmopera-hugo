@@ -5,6 +5,7 @@ lastmod = "2018-09-23T15:39:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537731298274/Press_Photo.jpg.jpg"
 primary_image_credit = "Devon Cass"
 publishDate = "2018-09-23T15:39:00-04:00"
+related_companies = ["scene/companies/portland-opera.md","scene/companies/sarasota-opera.md","scene/companies/arizona-opera.md","scene/companies/utah-opera.md","scene/companies/odyssey-opera.md"]
 slug = "kara-shay-thomson"
 title = "Kara Shay Thomson"
 website = "http://karashaythomson.com/"

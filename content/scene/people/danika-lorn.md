@@ -5,6 +5,7 @@ lastmod = "2017-05-01T16:30:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493670648685/2017-05-01---Danika-Loren-headshot.jpg.jpg"
 primary_image_credit = "Photo by Emily Ding"
 publishDate = "2015-11-06T10:48:00-05:00"
+related_companies = ["scene/companies/university-of-toronto-opera.md","scene/companies/saskatoon-opera.md","scene/companies/scene/collectif.md"]
 slug = "danika-lorn"
 title = "Danika Lorèn"
 website = "http://www.danikalorensoprano.com/"

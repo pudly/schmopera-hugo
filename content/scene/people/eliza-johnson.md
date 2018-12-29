@@ -5,6 +5,7 @@ draft = true
 lastmod = "2015-05-29T08:58:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432904272405/eliza_johnnson_1_headshot-crop-u630.jpg.jpg"
 primary_image_credit = "Terry Manzo"
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/highlands-opera-studio.md","scene/companies/university-of-toronto-opera.md"]
 slug = "eliza-johnson"
 title = "Eliza Johnson"
 website = "http://elizajohnson.ca/index.html"

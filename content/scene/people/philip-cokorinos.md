@@ -4,6 +4,7 @@ discipline = "Bass-baritone"
 lastmod = "2017-09-15T20:39:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505521980215/Cokorinos.P.Headshot.jpg.jpg"
 publishDate = "2017-09-15T20:37:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/houston-grand-opera.md","scene/companies/florida-grand-opera.md","scene/companies/palm-beach-opera.md","scene/companies/lyric-opera-of-kansas-city.md","scene/companies/los-angeles-opera.md","scene/companies/edmonton-opera.md","scene/companies/calgary-opera.md","scene/companies/spoleto-festival-usa.md"]
 slug = "philip-cokorinos"
 title = "Philip Cokorinos"
 +++

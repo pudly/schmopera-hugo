@@ -5,6 +5,7 @@ lastmod = "2015-09-02T16:35:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441225941509/Mark-Morris_Amber-Star-Merkens_2015-selectSquare.jpg.jpg"
 primary_image_credit = "Amber Star Merkens"
 publishDate = "2015-09-02T16:35:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/english-national-opera.md","scene/companies/mark-morris-dance-group.md"]
 slug = "mark-morris"
 title = "Mark Morris"
 website = "http://markmorrisdancegroup.org/the-dance-group/mark-morris"

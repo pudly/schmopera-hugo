@@ -4,6 +4,7 @@ discipline = "Composer"
 lastmod = "2015-04-07T16:21:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428438028231/Burry1.jpg.jpg"
 publishDate = "2015-04-07T16:21:00-04:00"
+related_companies = ["scene/companies/opera-lyra-ottawa.md","scene/companies/canadian-opera-company.md","scene/companies/canadian-childrens-opera-company.md"]
 slug = "dean-burry"
 title = "Dean Burry"
 website = "http://www.deanburry.com/"

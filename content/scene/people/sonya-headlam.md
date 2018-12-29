@@ -5,6 +5,7 @@ lastmod = "2017-01-04T14:26:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483539527075/2017-01-04---Sonya-Headlam---Eric-%26-Christopher.jpg.jpg"
 primary_image_credit = "Iconography By Eric & Christopher"
 publishDate = "2017-01-04T14:21:00+00:00"
+related_companies = ["scene/companies/one-world-symphony.md"]
 slug = "sonya-headlam"
 title = "Sonya Headlam"
 website = "http://www.sonyaheadlam.com/"

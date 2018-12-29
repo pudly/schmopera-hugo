@@ -5,6 +5,7 @@ lastmod = "2016-09-03T14:47:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472910118414/2016-09-03---Keri-Alkema-Dario-Acosta.jpg.jpg"
 primary_image_credit = "Dario Acosta"
 publishDate = "2016-09-03T14:47:00+01:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/canadian-opera-company.md","scene/companies/the-santa-fe-opera.md","scene/companies/glyndebourne.md","scene/companies/opera-north.md","scene/companies/washington-national-opera.md","scene/companies/palm-beach-opera.md"]
 slug = "keri-alkema"
 title = "Keri Alkema"
 website = "http://www.kerialkema.com/"

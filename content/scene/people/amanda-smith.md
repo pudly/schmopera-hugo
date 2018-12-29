@@ -4,6 +4,7 @@ discipline = "Director"
 lastmod = "2015-04-06T15:04:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428346986591/AmandaSmith.jpg.jpg"
 publishDate = "2015-04-06T15:04:00-04:00"
+related_companies = ["scene/companies/fawn-chamber-creative.md","scene/companies/against-the-grain-theatre.md","scene/companies/opera-lyra-ottawa.md","scene/companies/indie-opera-to.md"]
 slug = "amanda-smith"
 title = "Amanda Smith"
 [[social_media]]

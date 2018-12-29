@@ -3,6 +3,7 @@ date = "2015-09-02T16:41:00-04:00"
 lastmod = "2015-09-02T16:41:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441226296427/Mark_Morris_LAllegro_photo_David_Leyes-0371Square.jpg.jpg"
 publishDate = "2015-09-02T16:41:00-04:00"
+related_people = ["scene/people/mark-morris.md"]
 slug = "mark-morris-dance-group"
 title = "Mark Morris Dance Group"
 type_of_company = "Dance & Music Ensemble"

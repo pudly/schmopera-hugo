@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-09-19T11:31:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505835032687/karen_voung_115.JPG"
 publishDate = "2017-09-19T11:31:00-04:00"
+related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/seattle-opera.md","scene/companies/los-angeles-opera.md"]
 slug = "karen-vuong"
 title = "Karen Vuong"
 website = "http://www.karen-vuong.com/"

@@ -5,6 +5,7 @@ lastmod = "2017-09-15T14:10:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505498701558/Cook-hi-res-copy1.jpg.jpg"
 primary_image_credit = "Arielle Doneson"
 publishDate = "2017-09-15T14:10:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/florida-grand-opera.md","scene/companies/palm-beach-opera.md","scene/companies/la-monnaie.md","scene/companies/minnesota-opera.md","scene/companies/berkshire-opera-festival.md","scene/companies/the-santa-fe-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/utah-opera.md","scene/companies/san-diego-opera.md","scene/companies/the-atlanta-opera.md","scene/companies/washington-national-opera.md"]
 slug = "troy-cook"
 title = "Troy Cook"
 website = "https://www.troycookbaritone.com/"

@@ -5,6 +5,7 @@ lastmod = "2017-09-10T11:25:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505056790947/1485164576.jpg.jpg"
 primary_image_credit = "Daniil Robovsky"
 publishDate = "2017-09-10T11:22:00-04:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/la-monnaie.md","scene/companies/semperoper-dresden.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/los-angeles-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/scene/opernhaus-zurich.md","scene/companies/salzburg-festival.md"]
 slug = "dmitry-korchak"
 title = "Dmitry Korchak"
 website = "http://dmitrykorchak.com/index.php"

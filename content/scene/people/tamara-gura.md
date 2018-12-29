@@ -5,6 +5,7 @@ lastmod = "2018-02-18T21:52:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519008356968/photobluedress_fullres.jpg.jpg"
 primary_image_credit = "Uwe Arens"
 publishDate = "2018-02-18T21:52:00-05:00"
+related_companies = ["scene/companies/semperoper-dresden.md","scene/companies/english-national-opera.md"]
 slug = "tamara-gura"
 title = "Tamara Gura"
 website = "http://www.tamaragura.com/"

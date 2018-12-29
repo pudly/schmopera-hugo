@@ -4,6 +4,7 @@ discipline = "Countertenor"
 lastmod = "2017-10-23T12:55:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508777508699/patrickterry_1463479662_21.jpg.jpg"
 publishDate = "2017-10-23T12:55:00-04:00"
+related_companies = ["scene/companies/glyndebourne.md","scene/companies/melos-sinfonia.md"]
 slug = "patrick-terry"
 title = "Patrick Terry"
 website = "https://www.patrickterryct.com/"

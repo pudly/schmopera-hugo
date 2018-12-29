@@ -5,6 +5,7 @@ lastmod = "2017-02-13T17:02:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487004575044/2017-02-13---Sara-Schabas.jpg.jpg"
 primary_image_credit = "Photo: Kirsten Miccoli"
 publishDate = "2015-10-04T02:25:00+01:00"
+related_companies = ["scene/companies/opera-on-the-avalon.md","scene/companies/dayton-opera.md"]
 slug = "sara-schabas"
 title = "Sara Schabas"
 website = "http://www.saraschabas.com/"

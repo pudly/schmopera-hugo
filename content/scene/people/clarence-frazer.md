@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-12-12T14:07:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513105456647/2017-12-12---Clarence-Frazer.jpg.jpg"
 publishDate = "2015-04-07T15:47:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md","scene/companies/calgary-opera-emerging-artist-development-program.md"]
 slug = "clarence-frazer"
 title = "Clarence Frazer"
 [[social_media]]

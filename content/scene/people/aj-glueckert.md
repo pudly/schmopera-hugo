@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-10-09T11:52:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507564177850/aj_glueckert_215.jpg.jpg"
 publishDate = "2017-10-09T11:52:00-04:00"
+related_companies = ["scene/companies/oper-frankfurt.md"]
 slug = "aj-glueckert"
 title = "AJ Glueckert"
 website = "https://www.ajglueckert.com/"

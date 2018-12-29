@@ -5,6 +5,7 @@ lastmod = "2017-01-18T21:23:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484774442129/2017-01-18---Kim-Barber.jpg.jpg"
 primary_image_credit = "Helen Tansey, Sundari Photography"
 publishDate = "2017-01-18T21:23:00+00:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/pacific-opera-victoria.md","scene/companies/opra-national-de-paris.md","scene/companies/seattle-opera.md","scene/companies/english-national-opera.md","scene/companies/oper-frankfurt.md","scene/companies/tapestry-opera.md","scene/companies/calgary-opera.md","scene/companies/toronto-masque-theatre.md","scene/companies/lopra-de-montral.md"]
 slug = "kimberly-barber"
 title = "Kimberly Barber"
 website = "http://www.kimberlybarber.com/"

@@ -4,6 +4,7 @@ discipline = "Composer, pianist"
 lastmod = "2015-09-17T18:32:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442528885029/Erato-Cropped-HeadshotResized.jpg.jpg"
 publishDate = "2015-09-17T18:32:00-04:00"
+related_companies = ["scene/companies/erato-ensemble.md"]
 slug = "michael-park"
 title = "Michael Park"
 website = "http://www.michaelpark.ca/"

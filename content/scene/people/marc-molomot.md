@@ -5,6 +5,7 @@ lastmod = "2017-11-18T15:44:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511037501855/Marc%20Molomot%20-%20Credit%20Joshua%20South.jpg.jpg"
 primary_image_credit = "Joshua South"
 publishDate = "2017-11-18T15:44:00-05:00"
+related_companies = ["scene/companies/on-site-opera.md"]
 slug = "marc-molomot"
 title = "Marc Molomot"
 +++

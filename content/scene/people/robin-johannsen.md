@@ -5,6 +5,7 @@ lastmod = "2017-02-15T15:00:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487170754237/2017-02-15---Robin-Johannsen---Tatjana_Dachsel.jpg.jpg"
 primary_image_credit = "Tatjana Dachsel"
 publishDate = "2017-02-15T15:00:00+00:00"
+related_companies = ["scene/companies/deutsche-oper-berlin.md"]
 slug = "robin-johannsen"
 title = "Robin Johannsen"
 website = "http://www.robinjohannsen.com/index.php"

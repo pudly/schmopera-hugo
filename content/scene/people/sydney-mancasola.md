@@ -5,6 +5,7 @@ lastmod = "2016-06-18T01:50:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466235856310/2016-06-19---Sydney---Hoebermann.jpg.jpg"
 primary_image_credit = "Kristin Hoebermann"
 publishDate = "2016-06-18T01:50:00-06:00"
+related_companies = ["scene/companies/florida-grand-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/oberlin-college-and-conservatory.md"]
 slug = "sydney-mancasola"
 title = "Sydney Mancasola"
 [[social_media]]

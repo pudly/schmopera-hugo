@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-11-21T13:11:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511287819848/5876137_orig.jpg.jpg"
 publishDate = "2017-11-21T13:11:00-05:00"
+related_companies = ["scene/companies/manitoba-opera.md","scene/companies/utah-opera.md","scene/companies/seattle-opera.md","scene/companies/the-atlanta-opera.md","scene/companies/houston-grand-opera.md"]
 slug = "nina-yoshida-nelsen"
 title = "Nina Yoshida Nelsen"
 website = "http://www.ninayoshidanelsen.com/"

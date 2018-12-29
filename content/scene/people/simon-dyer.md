@@ -5,6 +5,7 @@ lastmod = "2017-11-13T14:36:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510601688422/Simon_Dyer_083-Edit.jpg.jpg"
 primary_image_credit = "Nile Scott Shots"
 publishDate = "2017-11-13T14:36:00-05:00"
+related_companies = ["scene/companies/florida-grand-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/the-santa-fe-opera.md"]
 slug = "simon-dyer"
 title = "Simon Dyer"
 website = "http://simondyeropera.com/"

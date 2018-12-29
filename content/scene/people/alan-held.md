@@ -4,6 +4,7 @@ discipline = "Bass-baritone"
 lastmod = "2015-04-06T14:25:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428343413651/Held_Alan_BW.jpg.jpg"
 publishDate = "2015-04-06T14:09:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/royal-opera-house.md","scene/companies/san-francisco-opera.md","scene/companies/opra-national-de-paris.md"]
 slug = "alan-held"
 title = "Alan Held"
 website = "http://www.alanheld.com/"

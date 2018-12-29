@@ -5,6 +5,7 @@ lastmod = "2018-09-28T15:29:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538162860013/Rupert%20Enticknap_Chris%20Gloag%201.jpg.jpg"
 primary_image_credit = "Chris Gloag."
 publishDate = "2018-09-28T15:29:00-04:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/oper-frankfurt.md","scene/companies/glyndebourne.md","scene/companies/staatsoper-berlin.md","scene/companies/classical-opera.md","scene/companies/la-monnaie.md"]
 slug = "rupert-enticknap"
 title = "Rupert Enticknap"
 [[social_media]]

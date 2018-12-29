@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2016-05-19T11:07:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463652472063/2016-05-19---Rena-Harms.jpg.jpg"
 publishDate = "2016-05-19T11:07:00+01:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/arizona-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/merola-opera-program.md","scene/companies/the-metropolitan-opera.md","scene/companies/music-academy-of-the-west-voice-program.md","scene/companies/manhattan-school-of-music.md"]
 slug = "rena-harms"
 title = "Rena Harms"
 website = "http://www.renaharms.com/Welcome.html"

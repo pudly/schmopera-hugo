@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2018-04-29T20:07:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525046515735/59a671_647d992858bc4e9d9df57e3006463c8e~mv2_d_2400_3600_s_4_2.webp"
 publishDate = "2018-04-29T20:07:00-04:00"
+related_companies = ["scene/companies/opera-on-tap.md"]
 slug = "kacey-cardin"
 title = "Kacey Cardin"
 website = "https://www.kaceycardin.com/"

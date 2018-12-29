@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2016-03-08T13:40:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457444284315/2016-03-08---Claire-Rutter.jpg.jpg"
 publishDate = "2016-03-08T13:40:00+00:00"
+related_companies = ["scene/companies/scottish-opera.md","scene/companies/english-national-opera.md","scene/companies/the-dallas-opera.md","scene/companies/opera-north.md","scene/companies/the-santa-fe-opera.md"]
 slug = "claire-rutter"
 title = "Claire Rutter"
 website = "http://www.clairerutter.com/"

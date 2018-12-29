@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-09-29T18:55:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506725536906/2017-09-29---Larmore-Jennifer-67.jpg.jpg"
 publishDate = "2017-09-29T18:55:00-04:00"
+related_companies = ["scene/companies/the-atlanta-opera.md","scene/companies/royal-opera-house.md","scene/companies/opra-national-de-paris.md","scene/companies/deutsche-oper-berlin.md"]
 slug = "jennifer-larmore"
 title = "Jennifer Larmore"
 website = "https://www.jenniferlarmore.net/"

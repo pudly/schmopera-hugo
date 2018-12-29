@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-01-25T13:15:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485349945226/biog_portrait.jpg.jpg"
 publishDate = "2017-01-25T13:14:00+00:00"
+related_companies = ["scene/companies/grange-park-opera.md","scene/companies/popup-opera.md"]
 slug = "flora-mcintosh"
 title = "Flora McIntosh"
 website = "http://floramcintosh.com/"

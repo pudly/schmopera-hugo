@@ -5,6 +5,7 @@ lastmod = "2016-08-24T18:31:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472059841119/GANASSI-Sonia-300x409.jpg.jpg"
 primary_image_credit = "Zemsky/Green Artists Management"
 publishDate = "2016-08-24T18:31:00+01:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/bayerische-staatsoper.md"]
 slug = "sonia-ganassi"
 title = "Sonia Ganassi"
 +++

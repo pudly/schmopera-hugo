@@ -5,6 +5,7 @@ lastmod = "2015-04-07T16:40:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428438908309/DimitriPittas-pc-KristinHoebermann.jpg.jpg"
 primary_image_credit = "Kristin Hoebermann"
 publishDate = "2015-04-07T16:40:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md"]
 slug = "dimitri-pittas"
 title = "Dimitri Pittas"
 website = "http://www.dimitripittas.com/DimitriPittas/Home.html"

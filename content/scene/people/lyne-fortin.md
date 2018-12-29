@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-12-30T16:52:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451511351467/2015-12-30---Lyne-Fortin.jpg.jpg"
 publishDate = "2015-12-30T16:38:00-05:00"
+related_companies = ["scene/companies/seattle-opera.md","scene/companies/pacific-opera-victoria.md","scene/companies/lopra-de-montral.md","scene/companies/opra-de-qubec.md","scene/companies/vancouver-opera.md","scene/companies/saskatoon-opera.md","scene/companies/calgary-opera.md","scene/companies/edmonton-opera.md","scene/companies/arizona-opera.md"]
 slug = "lyne-fortin"
 title = "Lyne Fortin"
 +++

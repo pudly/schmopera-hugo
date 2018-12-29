@@ -5,6 +5,7 @@ lastmod = "2017-10-01T17:21:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506892748206/7705389_orig.jpeg"
 primary_image_credit = "Elise Kern"
 publishDate = "2017-10-01T17:21:00-04:00"
+related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/haymarket-opera-company.md"]
 slug = "david-govertsen"
 title = "David Govertsen"
 website = "http://www.davidgovertsen.com/"

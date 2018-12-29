@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-07-18T16:20:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500409081901/SANTELLI.jpg.jpg"
 publishDate = "2017-07-18T16:20:00-04:00"
+related_companies = ["scene/companies/opera-theatre-of-st-louis.md","scene/companies/the-santa-fe-opera.md","scene/companies/los-angeles-opera.md"]
 slug = "carlos-enrique-santelli"
 title = "Carlos Enrique Santelli"
 [[social_media]]

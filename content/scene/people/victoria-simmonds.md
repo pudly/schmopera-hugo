@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2016-03-20T14:48:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458485314014/2016-03-20---Victoria-Simmonds.jpg.jpg"
 publishDate = "2016-03-20T14:48:00+00:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/royal-opera-house.md"]
 slug = "victoria-simmonds"
 title = "Victoria Simmonds"
 [[social_media]]

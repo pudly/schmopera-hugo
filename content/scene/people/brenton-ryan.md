@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-09-15T22:11:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505527828855/Brenton_Ryan_noPC_d_300dpi.jpg.jpg"
 publishDate = "2017-09-15T22:11:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/los-angeles-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/wolf-trap-opera.md","scene/companies/houston-grand-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/the-dallas-opera.md","scene/companies/the-santa-fe-opera.md"]
 slug = "brenton-ryan"
 title = "Brenton Ryan"
 website = "http://brentonryan.com/"

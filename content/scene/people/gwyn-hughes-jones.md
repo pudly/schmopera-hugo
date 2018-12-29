@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2016-10-04T12:17:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475578951112/2016-10-04---GWYN_HUGHES_JONES.jpg.jpg"
 publishDate = "2016-10-04T12:15:00+01:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/welsh-national-opera.md","scene/companies/royal-opera-house.md","scene/companies/los-angeles-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/la-monnaie.md","scene/companies/opra-national-de-paris.md","scene/companies/florida-grand-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/washington-national-opera.md","scene/companies/the-metropolitan-opera.md"]
 slug = "gwyn-hughes-jones"
 title = "Gwyn Hughes Jones"
 +++

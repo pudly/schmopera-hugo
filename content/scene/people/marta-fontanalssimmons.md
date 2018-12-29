@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-09-06T21:19:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504747111994/Marta-45.jpg.jpg"
 publishDate = "2017-09-06T21:19:00-04:00"
+related_companies = ["scene/companies/garsington-opera.md","scene/companies/opera-north.md","scene/companies/glyndebourne.md"]
 slug = "marta-fontanalssimmons"
 title = "Marta Fontanals-Simmons"
 website = "http://www.martafontanals.com/"

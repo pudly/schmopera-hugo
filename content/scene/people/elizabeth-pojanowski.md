@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2016-10-13T11:19:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476353721765/7262a3_0b5e080856e44d39bbc32274dc0d40b0.jpg.jpg"
 publishDate = "2016-10-13T11:19:00+01:00"
+related_companies = ["scene/companies/loftopera.md","scene/companies/the-metropolitan-opera.md","scene/companies/seattle-opera.md","scene/companies/nyc-opera-renaissance.md","scene/companies/on-site-opera.md"]
 slug = "elizabeth-pojanowski"
 title = "Elizabeth Pojanowski"
 website = "http://www.elizabethpojanowski.com/"

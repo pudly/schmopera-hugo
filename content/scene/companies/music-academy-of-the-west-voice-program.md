@@ -3,6 +3,7 @@ date = "2015-05-25T21:37:00-04:00"
 lastmod = "2015-10-31T14:26:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446315995845/Logo---MAW.jpg.jpg"
 publishDate = "2015-05-25T21:37:00-04:00"
+related_people = ["scene/people/marilyn-horne.md","scene/people/warren-jones.md","scene/people/julia-dawson.md","scene/people/marjorie-maltais.md","scene/people/rena-harms.md","scene/people/benjamin-dickerson.md","scene/people/anne-wright.md"]
 slug = "music-academy-of-the-west-voice-program"
 title = "Music Academy of the West - Voice Program"
 type_of_company = "Summer training program"

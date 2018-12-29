@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-07-18T17:36:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500413738702/BOEDECKER.jpg.jpg"
 publishDate = "2017-07-18T17:36:00-04:00"
+related_companies = ["scene/companies/the-santa-fe-opera.md","scene/companies/merola-opera-program.md","scene/companies/sarasota-opera.md"]
 slug = "adelaide-boedecker"
 title = "Adelaide Boedecker"
 website = "http://www.adelaideboedecker.com/"

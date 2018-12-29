@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2016-03-09T20:22:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457554681765/2016-03-09---Talise-Trevigne---Kingmond_Young.jpg.jpg"
 publishDate = "2016-03-09T20:22:00+00:00"
+related_companies = ["scene/companies/the-dallas-opera.md","scene/companies/san-francisco-opera.md","scene/companies/san-diego-opera.md","scene/companies/houston-grand-opera.md","scene/companies/the-atlanta-opera.md"]
 slug = "talise-trevigne"
 title = "Talise Trevigne"
 [[social_media]]

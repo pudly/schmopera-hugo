@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2016-05-21T23:17:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463869032940/2016-05-21---Emma-Stannard.jpg.jpg"
 publishDate = "2016-05-21T23:17:00+01:00"
+related_companies = ["scene/companies/glyndebourne.md","scene/companies/opera-north.md"]
 slug = "emma-stannard"
 title = "Emma Stannard"
 website = "http://emmastannard.weebly.com/"

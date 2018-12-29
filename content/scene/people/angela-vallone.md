@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-10-09T19:06:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507590249291/DSC_3150.jpg.jpg"
 publishDate = "2017-10-09T19:06:00-04:00"
+related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/the-juilliard-school.md"]
 slug = "angela-vallone"
 title = "Angela Vallone"
 website = "http://www.angelavallone.com/"

@@ -5,6 +5,7 @@ lastmod = "2016-07-24T10:29:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469370572729/2016-07-24---Peter-Rolfe-Dauz.jpg.jpg"
 primary_image_credit = "CabREATION"
 publishDate = "2016-07-24T10:29:00-04:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/opera-mcgill.md"]
 slug = "peter-rolfe-dauz"
 title = "Peter Rolfe Dauz"
 [[social_media]]

@@ -5,6 +5,7 @@ lastmod = "2017-05-13T19:28:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494717346765/4483b2_18c17795a5434f758f26dbcf6cc0a2e6.webp"
 primary_image_credit = "Michelle Doherty"
 publishDate = "2017-05-13T19:18:00-04:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/cowtown-opera-company.md","scene/companies/the-banff-centre.md","scene/companies/university-of-toronto-opera.md","scene/companies/opera-nuova.md","scene/companies/saskatoon-opera.md"]
 slug = "micah-schroeder"
 title = "Micah Schroeder"
 website = "http://micahschroeder.com/"

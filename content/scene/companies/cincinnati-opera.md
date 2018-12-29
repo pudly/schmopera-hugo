@@ -3,6 +3,7 @@ date = "2017-07-20T10:08:00-04:00"
 lastmod = "2017-07-20T10:09:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500559753019/466899_10150823390094081_1486297456_o.jpg%3Foh%3De9bfe1be70315c7943209d78a199b347%26oe%3D5A0DC0A1"
 publishDate = "2017-07-20T10:09:00-04:00"
+related_people = ["scene/people/royce-vavrek.md"]
 slug = "cincinnati-opera"
 title = "Cincinnati Opera"
 type_of_company = "Opera Company"

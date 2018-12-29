@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-10-09T11:17:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507561877918/2017-10-09---rg1hr.jpg.jpg"
 publishDate = "2017-10-09T11:17:00-04:00"
+related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/los-angeles-opera.md","scene/companies/brooklyn-academy-of-music.md","scene/companies/the-santa-fe-opera.md","scene/companies/glyndebourne.md","scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md"]
 slug = "rod-gilfry"
 title = "Rod Gilfry"
 website = "http://www.rodgilfry.com/"

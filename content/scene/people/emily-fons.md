@@ -5,6 +5,7 @@ draft = true
 lastmod = "2016-02-08T16:34:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454967149962/2016-02-08---Emily-Fons.jpg.jpg"
 primary_image_credit = "Dario Acosta"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/san-diego-opera.md"]
 slug = "emily-fons"
 title = "Emily Fons"
 website = "http://emilyfons.com/"

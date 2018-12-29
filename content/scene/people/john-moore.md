@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-11-21T11:41:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511281947049/Moore-hi-res-NEW.jpg.jpg"
 publishDate = "2017-11-21T11:41:00-05:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/welsh-national-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/glyndebourne.md","scene/companies/bayerische-staatsoper.md","scene/companies/seattle-opera.md","scene/companies/the-dallas-opera.md","scene/companies/opera-philadelphia.md","scene/companies/des-moines-metro-opera.md"]
 slug = "john-moore"
 title = "John Moore"
 website = "http://www.moorebaritone.com/"

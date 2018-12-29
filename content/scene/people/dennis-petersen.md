@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2018-01-29T18:23:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517267758202/Petersen.D.Headshot.jpg.jpg"
 publishDate = "2018-01-29T18:20:00-05:00"
+related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/minnesota-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/the-metropolitan-opera.md","scene/companies/washington-national-opera.md","scene/companies/seattle-opera.md","scene/companies/opera-theatre-of-st-louis.md"]
 slug = "dennis-petersen"
 title = "Dennis Petersen"
 website = "http://dpetersen.easywebcontent.com/"

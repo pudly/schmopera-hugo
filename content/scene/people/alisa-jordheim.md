@@ -5,6 +5,7 @@ lastmod = "2018-02-25T19:15:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519603721827/3848555_orig.jpg.jpg"
 primary_image_credit = "Rebecca Fay."
 publishDate = "2018-02-25T19:15:00-05:00"
+related_companies = ["scene/companies/palm-beach-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/on-site-opera.md"]
 slug = "alisa-jordheim"
 title = "Alisa Jordheim"
 website = "http://www.alisasuzannejordheim.com/"

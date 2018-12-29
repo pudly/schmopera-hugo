@@ -5,6 +5,7 @@ lastmod = "2018-03-16T22:27:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521253413431/cropped-ncraighead-8241.jpg.jpg"
 primary_image_credit = "Dahlia Katz"
 publishDate = "2015-05-04T17:30:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md","scene/companies/opera-nuova.md","scene/companies/pacific-opera-victoria.md","scene/companies/saskatoon-opera.md","scene/companies/against-the-grain-theatre.md"]
 slug = "neil-craighead"
 title = "Neil Craighead"
 website = "https://neilcraighead.com/"

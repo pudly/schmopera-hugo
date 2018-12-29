@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2016-12-14T14:26:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481725459109/KBikFgrx.jpg.jpg"
 publishDate = "2016-12-14T14:26:00+00:00"
+related_companies = ["scene/companies/university-of-toronto-opera.md","scene/companies/toronto-operetta-theatre.md","scene/companies/myopera.md","scene/companies/indie-opera-to.md"]
 slug = "nicholas-borg"
 title = "Nicholas Borg"
 [[social_media]]

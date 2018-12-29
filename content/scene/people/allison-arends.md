@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-03-15T11:57:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428346615446/123aarends-web-1.jpg.jpg"
 publishDate = "2015-04-06T19:59:00+01:00"
+related_companies = ["scene/companies/opera-atelier.md","scene/companies/opera-by-request.md","scene/companies/saskatoon-opera.md","scene/companies/tapestry-opera.md"]
 slug = "allison-arends"
 title = "Allison Arends"
 website = "http://www.allisonarends.com/"

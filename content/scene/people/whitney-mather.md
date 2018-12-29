@@ -5,6 +5,7 @@ lastmod = "2016-06-24T22:27:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466828635695/pRcVykDIg6ov-UI9KPM1dki9pzMgz0Qv5Jqk7cKB5t2UrCdx3yOISIr8qaB8hT3q5Cf7AuPL5_13u_1gKPhs5bkMhtI%3Dw680-h680-c"
 primary_image_credit = "Photo: En Vogue Photography"
 publishDate = "2016-06-24T22:27:00-06:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/tapestry-opera.md","scene/companies/opera-atelier.md","scene/companies/indie-opera-to.md","scene/companies/vera-causa-opera.md"]
 slug = "whitney-mather"
 title = "Whitney Mather"
 website = "http://whitneymather.com/#home"

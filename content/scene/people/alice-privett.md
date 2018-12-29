@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-01-25T13:18:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485350151359/8602843_orig.jpg.jpg"
 publishDate = "2017-01-25T13:18:00+00:00"
+related_companies = ["scene/companies/popup-opera.md"]
 slug = "alice-privett"
 title = "Alice Privett"
 website = "http://www.aliceprivett.com/"

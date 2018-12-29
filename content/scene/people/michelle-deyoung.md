@@ -5,6 +5,7 @@ lastmod = "2015-10-01T10:05:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443708134404/DeYoung.jpg.jpg"
 primary_image_credit = "Photo: Kristin Hoebermann"
 publishDate = "2015-10-01T10:05:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/seattle-opera.md","scene/companies/washington-national-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/teatro-alla-scala.md","scene/companies/houston-grand-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/staatsoper-berlin.md","scene/companies/opra-national-de-paris.md"]
 slug = "michelle-deyoung"
 title = "Michelle DeYoung"
 [[social_media]]

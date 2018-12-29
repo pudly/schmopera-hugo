@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-11-08T16:47:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510177468188/5-1da0c6543aa7f0531ef8aec2623ccf0f.jpg.jpg"
 publishDate = "2017-11-08T16:47:00-05:00"
+related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/wolf-trap-opera.md","scene/companies/glimmerglass-festival.md"]
 slug = "ben-edquist"
 title = "Ben Edquist"
 website = "https://www.benedquist.com/"

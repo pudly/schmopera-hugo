@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2018-03-20T21:34:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521596056901/asitha_tennekoon_headshot_5x7_col.jpg.jpg"
 publishDate = "2015-04-13T00:03:00-04:00"
+related_companies = ["scene/companies/royal-conservatory-of-music.md","scene/companies/myopera.md","scene/companies/confidential-opera-project.md"]
 slug = "asitha-tennekoon"
 title = "Asitha Tennekoon"
 [[social_media]]

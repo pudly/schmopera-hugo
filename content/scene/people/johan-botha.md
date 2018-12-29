@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2015-09-29T16:41:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443559110653/Botha.jpg.jpg"
 publishDate = "2015-09-29T16:41:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/wiener-staatsoper.md","scene/companies/opera-australia.md","scene/companies/los-angeles-opera.md","scene/companies/san-francisco-opera.md","scene/companies/salzburg-festival.md","scene/companies/bayerische-staatsoper.md"]
 slug = "johan-botha"
 title = "Johan Botha"
 website = "http://www.johan-botha.com/biography.php"

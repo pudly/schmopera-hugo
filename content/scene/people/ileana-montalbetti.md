@@ -5,6 +5,7 @@ lastmod = "2015-04-07T18:24:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428445404789/MONTALBETTI-PHOTO-credit-BoHuang.jpg.jpg"
 primary_image_credit = "Bo Huang"
 publishDate = "2015-04-07T18:24:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/saskatoon-opera.md","scene/companies/edmonton-opera.md"]
 slug = "ileana-montalbetti"
 title = "Ileana Montalbetti"
 website = "http://www.ileanamontalbetti.com/"

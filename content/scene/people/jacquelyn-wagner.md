@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-12-19T18:37:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513726590160/Jacquelyn%2BWagner%2BPhoto%2B1%2BLarge.jpg.jpg"
 publishDate = "2017-12-19T18:37:00-05:00"
+related_companies = ["scene/companies/vlaamse-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/bayerische-staatsoper.md","scene/companies/minnesota-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/gran-teatre-del-liceu.md"]
 slug = "jacquelyn-wagner"
 title = "Jacquelyn Wagner"
 website = "http://www.jacquelynwagner.com/"

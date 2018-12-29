@@ -3,6 +3,7 @@ date = "2015-03-30T22:45:00-04:00"
 lastmod = "2015-10-31T14:10:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446315057380/Logo---FAWN.jpg.jpg"
 publishDate = "2015-03-30T22:45:00-04:00"
+related_people = ["scene/people/adam-scime.md","scene/people/adanya-dunn.md","scene/people/amanda-smith.md","scene/people/gregory-finney.md","scene/people/larissa-koniuk.md","scene/people/jonathan-macarthur.md","scene/people/alexander-dobson.md"]
 slug = "fawn-chamber-creative"
 title = "FAWN Chamber Creative"
 type_of_company = "Chamber Music & Opera Collective"

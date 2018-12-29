@@ -5,6 +5,7 @@ lastmod = "2018-05-07T11:43:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525707584980/Fay5.jpg.jpg"
 primary_image_credit = "Fay Fox."
 publishDate = "2018-05-07T11:43:00-04:00"
+related_companies = ["scene/companies/washington-national-opera.md","scene/companies/curtis-institute-of-music.md"]
 slug = "emily-pogorelc"
 title = "Emily Pogorelc"
 website = "http://www.emilypogorelc.com/"

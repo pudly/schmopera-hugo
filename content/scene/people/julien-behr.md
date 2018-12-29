@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-12-19T18:44:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513726820189/img_5476_4x3_g-12.jpg.jpg"
 publishDate = "2017-12-19T18:44:00-05:00"
+related_companies = ["scene/companies/vlaamse-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/salzburg-festival.md","scene/companies/minnesota-opera.md"]
 slug = "julien-behr"
 title = "Julien Behr"
 website = "http://www.julienbehr.com/"

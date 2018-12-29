@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2015-04-23T13:03:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429808282740/e2a02d56-9391-438d-b7b3-29c533828ce1.jpg.jpg"
 publishDate = "2015-04-23T13:00:00-04:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/halifax-summer-opera-festival.md","scene/companies/latelier-lyrique-de-lopra-de-montral.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md","scene/companies/opera-mcgill.md"]
 slug = "pascale-spinney"
 title = "Pascale Spinney"
 [[social_media]]

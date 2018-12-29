@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-11-02T10:15:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446477319190/2015-11-01---JoyceElKhourySquare.jpg.jpg"
 publishDate = "2015-10-08T09:42:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/san-diego-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/vancouver-opera.md","scene/companies/opera-theatre-of-st-louis.md"]
 slug = "joyce-elkhoury"
 title = "Joyce El-Khoury"
 website = "http://joyceelkhoury.com/site/"

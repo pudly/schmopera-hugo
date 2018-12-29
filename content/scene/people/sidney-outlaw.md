@@ -5,6 +5,7 @@ lastmod = "2016-09-27T10:19:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474967947706/2016-09-22---Sidney-Outlaw.jpg.jpg"
 primary_image_credit = "Hai Tran"
 publishDate = "2015-04-23T04:18:00+01:00"
+related_companies = ["scene/companies/florida-grand-opera.md","scene/companies/merola-opera-program.md","scene/companies/san-francisco-opera.md","scene/companies/the-metropolitan-opera.md"]
 slug = "sidney-outlaw"
 title = "Sidney Outlaw"
 website = "http://sidneyoutlaw.com"

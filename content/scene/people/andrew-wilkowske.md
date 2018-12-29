@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-10-02T13:49:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506966563274/DSC_0113.jpg.jpg"
 publishDate = "2017-10-02T13:49:00-04:00"
+related_companies = ["scene/companies/minnesota-opera.md","scene/companies/utah-opera.md","scene/companies/opera-philadelphia.md","scene/companies/the-atlanta-opera.md","scene/companies/los-angeles-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/lyric-opera-of-kansas-city.md"]
 slug = "andrew-wilkowske"
 title = "Andrew Wilkowske"
 website = "https://www.andrewwilkowske.com/"

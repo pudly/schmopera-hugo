@@ -5,6 +5,7 @@ lastmod = "2016-11-16T16:51:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479298414532/2016-11-16---Vittorio-Grigolo.jpg.jpg"
 primary_image_credit = "Alex D. James"
 publishDate = "2016-11-16T12:15:00+00:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md"]
 slug = "vittorio-grigolo"
 title = "Vittorio Grigòlo"
 website = "http://www.vittoriogrigolo.com/"

@@ -5,6 +5,7 @@ lastmod = "2015-05-25T21:52:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432605037119/LucaSquare.jpg.jpg"
 primary_image_credit = "Marco Borggreve"
 publishDate = "2015-05-25T21:52:00-04:00"
+related_companies = ["scene/companies/glyndebourne.md","scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/opra-national-de-paris.md","scene/companies/wiener-staatsoper.md","scene/companies/san-francisco-opera.md"]
 slug = "luca-pisaroni"
 title = "Luca Pisaroni"
 website = "http://www.lucapisaroni.com/"

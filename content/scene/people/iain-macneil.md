@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-06-16T23:39:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430872618568/MacNeil-IainSquare.jpg.jpg"
 publishDate = "2015-05-05T18:52:00-06:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/university-of-toronto-opera.md","scene/companies/saskatoon-opera.md","scene/companies/vancouver-opera.md","scene/companies/the-banff-centre.md"]
 slug = "iain-macneil"
 title = "Iain MacNeil"
 website = "http://iainmacneil.com/home/"

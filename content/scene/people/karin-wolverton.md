@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-02-23T16:33:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487867534712/2017-02-23---Karin-Wolverton.jpg.jpg"
 publishDate = "2017-02-23T16:33:00+00:00"
+related_companies = ["scene/companies/arizona-opera.md","scene/companies/minnesota-opera.md"]
 slug = "karin-wolverton"
 title = "Karin Wolverton"
 website = "http://karinwolverton.com/biography"

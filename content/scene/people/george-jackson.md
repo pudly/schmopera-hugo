@@ -5,6 +5,7 @@ lastmod = "2018-01-28T17:58:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517179973749/GEJ%20portrait%20colour%20%C2%A9%20Alexa%20Wilding.jpg.jpg"
 primary_image_credit = "Alexa Wilding"
 publishDate = "2018-01-28T17:58:00-05:00"
+related_companies = ["scene/companies/opera-holland-park.md","scene/companies/the-metropolitan-opera.md","scene/companies/opra-national-de-paris.md"]
 slug = "george-jackson"
 title = "George Jackson"
 website = "http://www.georgejackson.net/"

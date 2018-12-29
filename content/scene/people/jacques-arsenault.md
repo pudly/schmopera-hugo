@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-08-28T19:00:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503960088889/jacques_arsenault_headshot_co.jpg.jpg"
 publishDate = "2017-08-28T18:43:00-04:00"
+related_companies = ["scene/companies/tapestry-opera.md","scene/companies/opera-on-the-avalon.md","scene/companies/calgary-opera.md","scene/companies/edmonton-opera.md","scene/companies/opera-nuova.md"]
 slug = "jacques-arsenault"
 title = "Jacques Arsenault"
 [[social_media]]

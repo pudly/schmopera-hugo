@@ -5,6 +5,7 @@ lastmod = "2017-02-03T13:01:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486126434627/2017-02-02---Angela_Gheorgiu_pc_Cosmin_Gogu.jpg.jpg"
 primary_image_credit = "Cosmin Gogu"
 publishDate = "2017-02-03T13:01:00+00:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/wiener-staatsoper.md","scene/companies/bayerische-staatsoper.md","scene/companies/salzburg-festival.md","scene/companies/san-francisco-opera.md"]
 slug = "angela-gheorghiu"
 title = "Angela Gheorghiu"
 website = "http://www.angelagheorghiu.com/"

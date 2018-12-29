@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2018-04-30T21:17:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525137379208/Zhilikovsky%201.jpg.jpg"
 publishDate = "2018-04-30T21:17:00-04:00"
+related_companies = ["scene/companies/washington-national-opera.md"]
 slug = "andrey-zhilikhovsky"
 title = "Andrey Zhilikhovsky"
 +++

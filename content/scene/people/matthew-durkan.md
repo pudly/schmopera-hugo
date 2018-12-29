@@ -5,6 +5,7 @@ lastmod = "2018-03-03T08:33:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520083894147/MAIN%20ONE%20-%20MATTHEW%20DURKAN%20-%20Credit%20Pablo%20Strong.jpg.jpg"
 primary_image_credit = "Pablo Strong"
 publishDate = "2018-03-03T08:33:00-05:00"
+related_companies = ["scene/companies/english-national-opera.md"]
 slug = "matthew-durkan"
 title = "Matthew Durkan"
 [[social_media]]

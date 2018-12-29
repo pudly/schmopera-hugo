@@ -5,6 +5,7 @@ lastmod = "2018-05-08T11:38:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525793674699/Meher-Pavri-Soprano.jpg.jpg"
 primary_image_credit = "Soprano"
 publishDate = "2018-05-08T11:38:00-04:00"
+related_companies = ["scene/companies/tapestry-opera.md","scene/companies/against-the-grain-theatre.md"]
 slug = "meher-pavri"
 title = "Meher Pavri"
 website = "http://meherpavri.com/"

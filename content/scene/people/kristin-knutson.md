@@ -5,6 +5,7 @@ lastmod = "2017-10-01T17:30:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506893248436/download%20(1).jpeg"
 primary_image_credit = "Kristin Hoebermann"
 publishDate = "2017-10-01T17:30:00-04:00"
+related_companies = ["scene/companies/haymarket-opera-company.md"]
 slug = "kristin-knutson"
 title = "Kristin Knutson"
 website = "http://www.kristinknutson.com/"

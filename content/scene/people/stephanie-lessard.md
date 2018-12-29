@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2018-04-22T20:40:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524443831599/StephanieLessard-casting-bleue-1.jpg.jpg"
 publishDate = "2018-04-22T20:40:00-04:00"
+related_companies = ["scene/companies/pacific-opera-victoria.md"]
 slug = "stephanie-lessard"
 title = "Stéphanie Lessard"
 website = "https://www.stephanielessard.com/"

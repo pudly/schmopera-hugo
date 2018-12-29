@@ -5,6 +5,7 @@ lastmod = "2015-04-06T22:09:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428372278988/AshlieCorcoran-pc-MichaelCooper.jpg.jpg"
 primary_image_credit = "Michael Cooper"
 publishDate = "2015-04-06T22:09:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/cowtown-opera-company.md","scene/companies/opera-north.md"]
 slug = "ashlie-corcoran"
 title = "Ashlie Corcoran"
 website = "http://www.ashliecorcoran.com/"

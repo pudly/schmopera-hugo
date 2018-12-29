@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-07-18T16:14:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500408693479/Coit.Sarah.Headshot.jpg.jpg"
 publishDate = "2017-07-18T16:14:00-04:00"
+related_companies = ["scene/companies/the-santa-fe-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/utah-opera.md"]
 slug = "sarah-coit"
 title = "Sarah Coit"
 website = "http://www.sarahcoit.com/"

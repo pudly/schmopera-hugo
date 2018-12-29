@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2015-05-19T16:22:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432066672163/gubanova-ekaterina_326660_Fotor.jpg.jpg"
 publishDate = "2015-05-04T12:54:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md","scene/companies/royal-opera-house.md","scene/companies/deutsche-oper-berlin.md","scene/companies/teatro-alla-scala.md"]
 slug = "ekaterina-gubanova"
 title = "Ekaterina Gubanova"
 [[social_media]]

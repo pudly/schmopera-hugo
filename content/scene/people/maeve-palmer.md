@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-08-24T17:19:00+02:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437693372148/MP193Square.jpg.jpg"
 publishDate = "2015-07-24T01:18:00+02:00"
+related_companies = ["scene/companies/tapestry-opera.md","scene/companies/royal-conservatory-of-music.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
 slug = "maeve-palmer"
 title = "Maeve Palmer"
 website = "http://www.maevepalmer.com/home.html"

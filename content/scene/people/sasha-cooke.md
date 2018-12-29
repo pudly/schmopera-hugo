@@ -5,6 +5,7 @@ lastmod = "2017-04-18T20:09:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492542392807/2017-04-19---Sasha-Cooke---Acosta.jpg.jpg"
 primary_image_credit = "Dario Acosta"
 publishDate = "2017-04-18T20:09:00+01:00"
+related_companies = ["scene/companies/the-santa-fe-opera.md","scene/companies/seattle-opera.md","scene/companies/english-national-opera.md","scene/companies/san-francisco-opera.md"]
 slug = "sasha-cooke"
 title = "Sasha Cooke"
 website = "http://sashacooke.instantencore.com/web/home.aspx"

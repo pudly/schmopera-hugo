@@ -4,6 +4,7 @@ discipline = "Bass"
 lastmod = "2017-01-22T19:11:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485111837245/2017-01-22---Kristinn-Sigmundsson.jpg.jpg"
 publishDate = "2017-01-22T19:11:00+00:00"
+related_companies = ["scene/companies/opra-national-de-paris.md","scene/companies/bayerische-staatsoper.md","scene/companies/semperoper-dresden.md","scene/companies/la-monnaie.md","scene/companies/los-angeles-opera.md","scene/companies/san-francisco-opera.md","scene/companies/houston-grand-opera.md"]
 slug = "kristinn-sigmundsson"
 title = "Kristinn Sigmundsson"
 +++

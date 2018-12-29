@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-03-15T12:37:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461933720693/2016-04-29---Angela-Simkin.jpg.jpg"
 publishDate = "2016-04-29T13:42:00+01:00"
+related_companies = ["scene/companies/classical-opera.md","scene/companies/royal-opera-house.md"]
 slug = "angela-simkin"
 title = "Angela Simkin"
 website = "http://www.angelasimkin.com/"

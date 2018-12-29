@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2015-04-26T00:16:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430021668973/Keith%20Klassen.jpg.jpg"
 publishDate = "2015-04-07T22:46:00-04:00"
+related_companies = ["scene/companies/tapestry-opera.md","scene/companies/toronto-operetta-theatre.md","scene/companies/edmonton-opera.md"]
 slug = "keith-klassen"
 title = "Keith Klassen"
 website = "http://www.keithklassen.com/"

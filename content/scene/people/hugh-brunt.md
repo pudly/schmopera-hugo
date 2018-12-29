@@ -4,6 +4,7 @@ discipline = "Conductor"
 lastmod = "2016-05-24T14:53:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464115804079/2016-05-24---Hugh-Bruntt.gif"
 publishDate = "2016-05-24T14:53:00-04:00"
+related_companies = ["scene/companies/london-contemporary-orchestra.md","scene/companies/city-of-london-sinfonia.md"]
 slug = "hugh-brunt"
 title = "Hugh Brunt"
 website = "http://www.hughbrunt.com/"

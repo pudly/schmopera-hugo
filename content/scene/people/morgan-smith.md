@@ -5,6 +5,7 @@ lastmod = "2017-02-23T16:49:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487868530793/2017-02-23---MorganSmith_credit_NicoHudak.jpg.jpg"
 primary_image_credit = "Nico Hudak."
 publishDate = "2017-02-23T16:49:00+00:00"
+related_companies = ["scene/companies/arizona-opera.md","scene/companies/the-dallas-opera.md"]
 slug = "morgan-smith"
 title = "Morgan Smith"
 website = "https://www.baritonemorgansmith.com/"

@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2015-04-07T22:49:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428461218022/10440797_682602955109819_7663279460681274392_n.jpg.jpg"
 publishDate = "2015-04-07T22:49:00-04:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md","scene/companies/opera-nuova.md","scene/companies/the-banff-centre.md","scene/companies/highlands-opera-studio.md","scene/companies/confidential-opera-project.md"]
 slug = "keith-lam"
 title = "Keith Lam"
 [[social_media]]

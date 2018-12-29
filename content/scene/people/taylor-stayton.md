@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2018-04-30T21:21:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525137494175/IMG_1940.jpg.jpg"
 publishDate = "2018-04-30T21:21:00-04:00"
+related_companies = ["scene/companies/washington-national-opera.md","scene/companies/des-moines-metro-opera.md","scene/companies/arizona-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/deutsche-oper-berlin.md","scene/companies/glyndebourne.md","scene/companies/opera-philadelphia.md","scene/companies/royal-opera-house.md","scene/companies/lyric-opera-of-kansas-city.md"]
 slug = "taylor-stayton"
 title = "Taylor Stayton"
 website = "https://www.taylorstayton.com/"

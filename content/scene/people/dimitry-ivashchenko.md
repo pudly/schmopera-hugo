@@ -5,6 +5,7 @@ lastmod = "2016-10-16T12:50:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476617900630/2016-10-16---Dimitry-Ivashchenko.jpg.jpg"
 primary_image_credit = "Wolfgang Silveri"
 publishDate = "2016-10-16T12:50:00+01:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/teatro-alla-scala.md","scene/companies/scottish-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/bayerische-staatsoper.md","scene/companies/semperoper-dresden.md","scene/companies/oper-frankfurt.md"]
 slug = "dimitry-ivashchenko"
 title = "Dimitry Ivashchenko"
 website = "http://dimitry-ivashchenko.de/"

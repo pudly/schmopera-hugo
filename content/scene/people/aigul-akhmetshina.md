@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-11-06T14:08:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509995264222/thumb8_fdb4a0b9fd5212bb74fd80856fddd332.jpg.jpg"
 publishDate = "2017-11-06T14:08:00-05:00"
+related_companies = ["scene/companies/royal-opera-house.md"]
 slug = "aigul-akhmetshina"
 title = "Aigul Akhmetshina"
 [[social_media]]

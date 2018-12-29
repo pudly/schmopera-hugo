@@ -5,6 +5,7 @@ lastmod = "2016-03-11T11:27:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457695501930/2016-03-11---Rachel-Kelly--Gerard-Collett.jpg.jpg"
 primary_image_credit = "Gerard Collett"
 publishDate = "2016-03-11T11:27:00+00:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/scottish-opera.md","scene/companies/tapestry-opera.md"]
 slug = "rachel-kelly"
 title = "Rachel Kelly"
 +++

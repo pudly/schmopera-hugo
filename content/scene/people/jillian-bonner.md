@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2018-05-04T18:55:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525474396480/b11656_5cde2455fad146709ff038c701197623~mv2_d_1851_2781_s_2.webp"
 publishDate = "2018-05-04T18:55:00-04:00"
+related_companies = ["scene/companies/calgary-opera-emerging-artist-development-program.md","scene/companies/calgary-opera.md"]
 slug = "jillian-bonner"
 title = "Jillian Bonner"
 website = "https://www.jillianbonner.net/"

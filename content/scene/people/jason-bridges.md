@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2018-10-22T12:30:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540225728152/DSC_5185.jpg.jpg"
 publishDate = "2018-10-22T12:30:00-04:00"
+related_companies = ["scene/companies/opra-national-de-paris.md","scene/companies/edmonton-opera.md"]
 slug = "jason-bridges"
 title = "Jason Bridges"
 website = "http://www.jasonbridges.com/"

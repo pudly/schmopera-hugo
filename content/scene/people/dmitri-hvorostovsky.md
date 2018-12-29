@@ -5,6 +5,7 @@ lastmod = "2015-04-07T16:46:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428439514217/MG_6282-558x850.jpg.jpg"
 primary_image_credit = "Pavel Antonov"
 publishDate = "2015-04-07T16:46:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/opra-national-de-paris.md","scene/companies/royal-opera-house.md","scene/companies/cardiff-singer-of-the-world-competition.md"]
 slug = "dmitri-hvorostovsky"
 title = "Dmitri Hvorostovsky"
 website = "http://hvorostovsky.com/"

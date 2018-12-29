@@ -4,6 +4,7 @@ discipline = "Baritone"
 draft = true
 lastmod = "2015-11-14T12:21:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447521634115/2015-11-14---Jesse-Clark.jpg.jpg"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/essential-opera.md"]
 slug = "jesse-clark"
 title = "Jesse Clark"
 +++

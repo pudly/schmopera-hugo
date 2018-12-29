@@ -5,6 +5,7 @@ lastmod = "2017-01-28T10:02:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485597582775/2e4123_1e1abdd683744b6e89aff1c0662e754a~mv2_d_5760_3840_s_4_2.webp"
 primary_image_credit = "Chris Fain"
 publishDate = "2017-01-28T10:02:00+00:00"
+related_companies = ["scene/companies/opera-on-the-avalon.md","scene/companies/nashville-opera.md","scene/companies/brooklyn-academy-of-music.md","scene/companies/manhattan-school-of-music.md","scene/companies/american-opera-projects.md"]
 slug = "jordan-rutter"
 title = "Jordan Rutter"
 website = "http://www.jordanrutter.com/"

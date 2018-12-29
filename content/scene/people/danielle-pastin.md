@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-01-28T10:21:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485598711871/2017-01-28---Danielle-Pastin.jpg.jpg"
 publishDate = "2017-01-28T10:20:00+00:00"
+related_companies = ["scene/companies/nashville-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/brooklyn-academy-of-music.md","scene/companies/arizona-opera.md"]
 slug = "danielle-pastin"
 title = "Danielle Pastin"
 website = "https://www.daniellepastin.com/"

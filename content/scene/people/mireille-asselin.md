@@ -5,6 +5,7 @@ lastmod = "2015-04-14T10:21:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429021011537/Mireille11F_sized.jpg.jpg"
 primary_image_credit = "Photo by Matthew Fried"
 publishDate = "2015-04-14T10:21:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/the-metropolitan-opera.md","scene/companies/wolf-trap-opera.md"]
 slug = "mireille-asselin"
 title = "Mireille Asselin"
 website = "http://www.mireilleasselin.com/"
