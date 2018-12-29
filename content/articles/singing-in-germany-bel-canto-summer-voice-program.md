@@ -11,11 +11,11 @@ related_companies = ["scene/companies/bayerische-staatsoper.md"]
 short_description = "&quot;Unfortunately, colleges and universities offer far too little in order to prepare young people to the reality of the day to day work in this profession. Following the completion of their vocal studies, young singers attend their first auditions and are completely stunned when they realise how high the competition is as that there are many others good singers on the market. Young professionals must be prepared and ready to compete for the same roles against very experienced singers of all ages.&quot;"
 slug = "singing-in-germany-bel-canto-summer-voice-program"
 title = "Singing in Germany: Bel Canto Summer Voice Program"
-+++
 
++++
 ## What does Bel Canto offer to young artists that is unique among summer programs?
 
-**Narelle Martinez**: Bel Canto Audition Training participants have the chance to be heard by German agents (private and from the [ZAV](http://zav.arbeitsagentur.de/nn_462294/kv/Navigation/Oper-Operette.html__nnn=true), the German Government Artistic Agency) at the end of the program, after having a rigorous training on their German audition package. Our program, designed for advanced as well as undergrad singers, is held in Munich, Germany, a beautiful city with a rich opera tradition which started in the 17th century. 
+**Narelle Martinez**: Bel Canto Audition Training participants have the chance to be heard by German agents (private and from the [ZAV](http://zav.arbeitsagentur.de/nn_462294/kv/Navigation/Oper-Operette.html__nnn=true), the German Government Artistic Agency) at the end of the program, after having a rigorous training on their German audition package. Our program, designed for advanced as well as undergrad singers, is held in Munich, Germany, a beautiful city with a rich opera tradition which started in the 17th century.
 
 Another point which makes our program so interesting is that all our participants have the chance to hear the best singers in the world by attending several performances at the renowned Munich Opera Festival, which is held every July. In addition, special guests from the Bayerische Staastoper also come to our program to share their experience with our participants.
 
@@ -23,13 +23,15 @@ Another point which makes our program so interesting is that all our participan
 <figcaption>The Bel Canto team on a trip to Salzburg.</figcaption>
 </figure>
 
-**Angela Brower**: It is absolutely crucial to provide opportunities for emerging singers to not only learn the repertoire they need as they begin their career, but also the opportunity to perform such repertoire. The participants of the Bel Canto program will be given these crucial steps, as well as the added benefit of working with a respected stage director who will give them the tools they need in order to make the best impression for their future employment. What also makes this program unique is the masterclasses they will receive from young professionals who have already established themselves on some of the world's most respected opera stages. 
+**Angela Brower**: It is absolutely crucial to provide opportunities for emerging singers to not only learn the repertoire they need as they begin their career, but also the opportunity to perform such repertoire. The participants of the Bel Canto program will be given these crucial steps, as well as the added benefit of working with a respected stage director who will give them the tools they need in order to make the best impression for their future employment. What also makes this program unique is the masterclasses they will receive from young professionals who have already established themselves on some of the world's most respected opera stages.
 
-In addition, those ready to participate and move forward in their career will also be offered the distinct chance to audition for a well-respected German agency, allowing them the opportunity to start their career. 
+In addition, those ready to participate and move forward in their career will also be offered the distinct chance to audition for a well-respected German agency, allowing them the opportunity to start their career.
 
 **Barbara Schöne**: The Bel Canto Summer Voice Program represents the perfect opportunity (in every way) for young artists to prepare their entry unto the theatre world. In addition to refining the technique of the singers, special focus is given to stage craft as well as audition preparation with emphasis on roles, scenes, and audition arias. The participants will be taught how to delve deeper into the psychological aspect of the character. (by better understanding the context in which it is set into the work).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459888654994/2016-04-06---Narelle-%26-Pianists.jpg.jpg)<figcaption>Narelle Martinez and two collaborative pianists from the Bel Canto program.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1546052834/media/2018/12/20160406NarellePianists.jpg)
+
+<figcaption>Narelle Martinez and two collaborative pianists from the Bel Canto program.</figcaption>
 </figure>
 
 ## What do you feel are important priorities for training emerging singers?
@@ -41,11 +43,11 @@ In addition, those ready to participate and move forward in their career will al
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459888694581/2016-04-06---Angela-Brower.jpg.jpg)<figcaption>Angela Brower, American mezzo-soprano.</figcaption>
 </figure>
 
-## Why do you think young artists seek out training programs like Bel Canto as a supplement to their regular voice lessons and coachings? 
+## Why do you think young artists seek out training programs like Bel Canto as a supplement to their regular voice lessons and coachings?
 
 **NM**: As today's opera world is very demanding and competitive, young artists realise that they need more tools to be able to start a career. Bel Canto offers acting lessons and stage craft, scene study, German language and dialogue training, which are all aimed on giving our participants the appropriate training to succeed in the German opera world.
 
-**BS**: Unfortunately, colleges and universities offer far too little in order to prepare young people to the reality of the day to day work in this profession. Following the completion of their vocal studies, young singers attend their first auditions and are completely stunned when they realise how high the competition is as that there are many others good singers on the market. Young professionals must be prepared and ready to compete for the same roles against very experienced singers of all ages. The importance of developing your acting skills and stage experience cannot be emphasized enough, as this will give you the confidence to shine during an audition.  
+**BS**: Unfortunately, colleges and universities offer far too little in order to prepare young people to the reality of the day to day work in this profession. Following the completion of their vocal studies, young singers attend their first auditions and are completely stunned when they realise how high the competition is as that there are many others good singers on the market. Young professionals must be prepared and ready to compete for the same roles against very experienced singers of all ages. The importance of developing your acting skills and stage experience cannot be emphasized enough, as this will give you the confidence to shine during an audition.
 
 For this reason, many students decide to attend summer programs such as Bel Canto to acquire the right tools to present themselves as perfectly as possible for the German market.
 
@@ -53,4 +55,4 @@ For this reason, many students decide to attend summer programs such as Bel Cant
 
 **NM**: We are thrilled to announce that three of our participants have been invited to attend a workshop given by the [ZAV](http://zav.arbeitsagentur.de/nn_462294/kv/Navigation/Kontakt/Muenchen.html__nnn=true) in April (starting today!) and perform at a gala concert where several German theatre managers and agents will be recruiting their new artists.
 
->The application deadline for Bel Canto is May 1st. [Click here](http://belcantosinging.com/programs/audition-training-program/) to find out more!
+> The application deadline for Bel Canto is May 1st. [Click here](http://belcantosinging.com/programs/audition-training-program/) to find out more!
