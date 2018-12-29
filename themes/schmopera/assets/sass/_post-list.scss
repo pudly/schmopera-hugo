@@ -1,5 +1,5 @@
 .post--list-item {
-  padding-bottom: 1em;
+  margin-bottom: 1em;
   position: relative;
   text-decoration: none;
   display: block;
@@ -109,18 +109,22 @@
     padding: 7px 10px 10px 10px;
     font-size: 1em;
     line-height: 1.5em;
-    color: #222;
-    border-top: 3px solid #222;
+    color: $sch-black;
+    border-top: 3px solid $sch-black;
 
     @include bp-medium {
       margin: -70px 20px 0 20px;
       padding: 15px;
-      border-top: 5px solid #222;
+      border-top: 5px solid $sch-black;
     }
 
     @include bp-large {
       font-size: 1.1em;
     }
+  }
+
+  &:hover .post--list-desc {
+    border-color: $sch-blue;
   }
 
   .post--button {
@@ -149,7 +153,7 @@
     @include bp-medium {
       font-size: .9em;
       line-height: 40px;
-      padding: 10px 0 40px 20px; 
+      padding: 10px 0 20px 20px; 
 
       img {
         margin: 0 5px 0 15px;

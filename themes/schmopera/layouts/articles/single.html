@@ -223,23 +223,19 @@
 
   {{/* Previous and Next Articles */}}
     <nav class="post--single_jump">
-    {{ with .PrevInSection }}
+    {{- with .PrevInSection -}}
       <a href="{{.Permalink}}" title="Newer" class="post--single_jump-prev">
-
         <i class="icon-arrow-left"></i>
-
         {{/* set srcset = prev.primary_image|imageCrop(100, 100) + ", " +  prev.primary_image|imageCrop(200, 200) + " 2x" %}
         <picture>
           <source srcset="{ srcset }" media="(min-width: 40em)">
           <img src="{ prev.primary_image|imageCrop(60, 60) }" alt="{ prev.name }">
         </picture>
         */}}
-
         <span>{{.Title}}</span>
-
       </a>
-    {{ end }}      
-    {{ with .NextInSection }}
+      {{- end -}}
+      {{- with .NextInSection -}}
       <a href="{{.Permalink}}" title="Older" class="post--single_jump-next">
 
         <i class="icon-arrow-right"></i>
@@ -254,7 +250,7 @@
         <span>{{.Title}}</span>
 
       </a>
-    {{ end }}
+    {{- end -}}
     </nav>
 
 
@@ -288,15 +284,30 @@
   {{ end }}
 
 
+  {{/* People and Companies - The Scene */}}
+
+  {{ if (or (isset .Params "related_people") (isset .Params "related_companies")) }}
+  <section class="post--single_scene">
+    <h2 class="pill">Mentions</h2> 
+    {{ with .Params.related_people }}
+      {{ range $person := . }}
+        {{ with $.Site.GetPage "page" $person }}
+          <p>{{ .Title }}</p>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    {{ with .Params.related_companies }}
+      {{ range $company := . }}
+        {{ with $.Site.GetPage "page" $company }}
+          <p>{{ .Title }}</p>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </section>
+  {{ end }}
+
   {{/* 
-    
-    TODO:
-    People and Companies - The Scene
-
     {% if item.people|size !== 0 || item.companies|size !== 0 %}
-    <section class="post--single_scene">
-      <h2 class="pill">The Scene</h2>
-
       {% if item.people|size !== 0 %}
         {% if item.companies|size !== 0 %}
         <nav class="post--single_scene-people __coupled">
