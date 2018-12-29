@@ -4,7 +4,7 @@ discipline = "Bass-baritone"
 lastmod = "2016-01-06T12:13:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452100233598/2016-01-05---Bryn-Terfel.jpg.jpg"
 publishDate = "2016-01-06T12:13:00-05:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/welsh-national-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/scene/opernhaus-zurich.md","scene/companies/english-national-opera.md","scene/companies/royal-opera-house.md","scene/companies/opra-national-de-paris.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/welsh-national-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/opernhaus-zurich.md","scene/companies/english-national-opera.md","scene/companies/royal-opera-house.md","scene/companies/opra-national-de-paris.md"]
 slug = "bryn-terfel"
 title = "Bryn Terfel"
 [[social_media]]

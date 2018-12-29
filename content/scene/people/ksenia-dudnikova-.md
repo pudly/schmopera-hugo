@@ -4,7 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-02-08T12:54:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486558447346/2017-02-08---Ksenia-Dudnikova.jpg.jpg"
 publishDate = "2017-02-08T12:54:00+00:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/salzburg-festival.md","scene/companies/scene/opernhaus-zurich.md"]
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/salzburg-festival.md","scene/companies/opernhaus-zurich.md"]
 slug = "ksenia-dudnikova-"
 title = "Ksenia Dudnikova "
 +++

@@ -5,7 +5,7 @@ lastmod = "2017-10-16T21:49:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508204612806/1957_20080325_00.jpg.jpg"
 primary_image_credit = "Tess Steinkolk"
 publishDate = "2017-10-16T21:49:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/english-national-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/scene/opernhaus-zurich.md","scene/companies/lyric-opera-of-chicago.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/english-national-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/opernhaus-zurich.md","scene/companies/lyric-opera-of-chicago.md"]
 slug = "michaela-martens"
 title = "Michaela Martens"
 +++

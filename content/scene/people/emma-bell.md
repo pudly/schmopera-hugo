@@ -4,7 +4,7 @@ discipline = "Soprano"
 lastmod = "2016-04-27T10:47:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461750378545/2016-04-27---Emma-Bell.jpg.jpg"
 publishDate = "2016-04-27T10:47:00+01:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md","scene/companies/bayerische-staatsoper.md","scene/companies/glyndebourne.md","scene/companies/the-metropolitan-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/staatsoper-berlin.md","scene/companies/scene/opernhaus-zurich.md"]
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md","scene/companies/bayerische-staatsoper.md","scene/companies/glyndebourne.md","scene/companies/the-metropolitan-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/staatsoper-berlin.md","scene/companies/opernhaus-zurich.md"]
 slug = "emma-bell"
 title = "Emma Bell"
 +++

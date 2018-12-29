@@ -5,7 +5,7 @@ lastmod = "2016-10-17T12:55:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476705121525/2016-10-17---Varduhi-Abrahamyan.jpg.jpg"
 primary_image_credit = "Courtesy of IMG Artists."
 publishDate = "2016-10-17T12:55:00+01:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/opra-national-de-paris.md","scene/companies/scene/opernhaus-zurich.md"]
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/opra-national-de-paris.md","scene/companies/opernhaus-zurich.md"]
 slug = "varduhi-abrahamyan"
 title = "Varduhi Abrahamyan"
 [[social_media]]

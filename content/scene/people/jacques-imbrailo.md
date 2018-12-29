@@ -5,7 +5,7 @@ lastmod = "2016-10-20T11:38:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476959743130/2016-10-21---Jacques-Imbrailo-credit-Sim-Canetty-Clarke.jpg.jpg"
 primary_image_credit = "Canetty Clarke."
 publishDate = "2016-10-20T11:38:00+01:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/english-national-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/classical-opera.md","scene/companies/glyndebourne.md","scene/companies/scene/opernhaus-zurich.md","scene/companies/houston-grand-opera.md"]
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/english-national-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/classical-opera.md","scene/companies/glyndebourne.md","scene/companies/opernhaus-zurich.md","scene/companies/houston-grand-opera.md"]
 slug = "jacques-imbrailo"
 title = "Jacques Imbrailo"
 [[social_media]]

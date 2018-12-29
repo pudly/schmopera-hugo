@@ -4,7 +4,7 @@ discipline = "Tenor"
 lastmod = "2016-04-27T11:07:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461751566925/2016-04-27---Peter-Seiffert.jpg.jpg"
 publishDate = "2016-04-27T11:07:00+01:00"
-related_companies = ["scene/companies/deutsche-oper-berlin.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md","scene/companies/scene/opernhaus-zurich.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/los-angeles-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/opra-national-de-paris.md"]
+related_companies = ["scene/companies/deutsche-oper-berlin.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md","scene/companies/opernhaus-zurich.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/los-angeles-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/opra-national-de-paris.md"]
 slug = "peter-seiffert"
 title = "Peter Seiffert"
 +++

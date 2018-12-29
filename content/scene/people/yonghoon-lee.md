@@ -4,7 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-09-17T15:14:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505675368103/LEE-Yonghoon-1030x687.jpg.jpg"
 publishDate = "2017-09-17T15:12:00-04:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md","scene/companies/semperoper-dresden.md","scene/companies/wiener-staatsoper.md","scene/companies/deutsche-oper-berlin.md","scene/companies/bayerische-staatsoper.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/the-dallas-opera.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/opera-australia.md","scene/companies/scene/opernhaus-zurich.md"]
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md","scene/companies/semperoper-dresden.md","scene/companies/wiener-staatsoper.md","scene/companies/deutsche-oper-berlin.md","scene/companies/bayerische-staatsoper.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/the-dallas-opera.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/opera-australia.md","scene/companies/opernhaus-zurich.md"]
 slug = "yonghoon-lee"
 title = "Yonghoon Lee"
 +++

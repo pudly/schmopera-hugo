@@ -4,7 +4,7 @@ discipline = "Bass"
 lastmod = "2017-05-24T11:04:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495637718225/Nahuel-Di-Pierro-full.jpg.jpg"
 publishDate = "2017-05-24T11:04:00-04:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/opra-national-de-paris.md","scene/companies/scene/opernhaus-zurich.md","scene/companies/glyndebourne.md"]
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/opra-national-de-paris.md","scene/companies/opernhaus-zurich.md","scene/companies/glyndebourne.md"]
 slug = "nahuel-di-pierro"
 title = "Nahuel Di Pierro"
 [[social_media]]
