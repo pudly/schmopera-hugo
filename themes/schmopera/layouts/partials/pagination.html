@@ -13,8 +13,8 @@
     <section>
       <header class="post--list-header">
         <picture class="post--list-image">
-          {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/c_scale,w_740/c_crop,g_faces,w_740,h_490/" }}
-          {{ $imglg := replace .Params.primary_image "/upload/" "/upload/c_scale,w_1480/c_crop,g_faces,w_1480,h_980/" }}
+          {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/w_740,h_490,c_fill,g_faces/" }}
+          {{ $imglg := replace .Params.primary_image "/upload/" "/upload/w_1480,h_980,c_fill,g_faces/" }}
           <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkkAQAAB8AG7jymN8AAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
         </picture>
         <div class="post--list-title">
@@ -32,8 +32,8 @@
           {{ range $author := . }}
             {{ with $.Site.GetPage "page" $author }}
             <picture class="post--meta-author_image">
-              {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/c_scale,w_40/c_crop,g_face,w_40,h_40/" }}
-              {{ $imglg := replace .Params.primary_image "/upload/" "/upload/c_scale,w_80/c_crop,g_face,w_80,h_80/" }}
+              {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/w_40,h_40,c_fill,g_face/" }}
+              {{ $imglg := replace .Params.primary_image "/upload/" "/upload/w_80,h_80,c_fill,g_face/" }}
               <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
             </picture>
             <em>{{ .Title }}</em>
@@ -99,7 +99,7 @@
 
   <ul class="pagination">
     
-    <!-- First page. -->
+    <!-- First page. 
     {{ if ne $paginator.PageNumber 1 }}
     <li class="pagination__item pagination__item--first">
       <a class="pagination__link pagination__link--first" href="{{ $paginator.First.URL }}">
@@ -107,12 +107,14 @@
       </a>
     </li>
     {{ end }}
+    -->
 
     <!-- Previous page. -->
     {{ if $paginator.HasPrev }}
-    <li class="pagination__item pagination__item--previous">
-      <a href="{{ $paginator.Prev.URL }}" class="pagination__link pagination__link--previous">
-        «
+    <li class="pagination__item pagination__item--prev">
+      <a href="{{ $paginator.Prev.URL }}" class="pagination__link pagination__link--prev">
+        <i class="icon-arrow-left"></i>
+        <span>Prev Page</span>
       </a>
     </li>
     {{ end }}
@@ -179,12 +181,13 @@
     {{ if $paginator.HasNext }}
     <li class="pagination__item pagination__item--next">
       <a href="{{ $paginator.Next.URL }}" class="pagination__link pagination__link--next">
-        »
+        <span>Next Page</span>
+        <i class="icon-arrow-right"></i>
       </a>
     </li>
     {{ end }}
 
-    <!-- Last page. -->
+    <!-- 
     {{ if ne $paginator.PageNumber $paginator.TotalPages }}
     <li class="pagination__item pagination__item--last">
       <a class="pagination__link pagination__link--last" href="{{ $paginator.Last.URL }}">
@@ -192,6 +195,7 @@
       </a>
     </li>
     {{ end }}
+    Last page. -->
 
   </ul><!-- .pagination -->
 {{ end }}

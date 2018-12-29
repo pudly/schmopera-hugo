@@ -1,7 +1,7 @@
 +++
 date = "2017-09-13T09:25:00-04:00"
 lastmod = "2017-09-13T09:25:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505308962951/20930491_10214968976244378_2024936259_o.jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505308962951/20930491_10214968976244378_2024936259_o.jpeg.jpeg"
 publishDate = "2017-09-13T09:25:00-04:00"
 short_bio = "Daniel is a tenor, director, and opera reviewer based in the Atlanta area. His favorite operas include *Susannah*, *Street Scene*, *Falstaff*, and Jonathan Dove’s *The Adventures of Pinocchio*. When he isn’t working his muggle job or prepping a performance, Daniel spends an exorbitant amount of time cooking and taking pictures of his cat, Tasha."
 slug = "daniel-weisman"

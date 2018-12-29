@@ -1,4 +1,4 @@
-.paginator, .wh-search-paginate {
+.pagination, .wh-search-paginate {
   list-style: none;
   margin: 0;
   padding: 0;
@@ -29,12 +29,12 @@
       }
     }
 
-    &.active a {
+    &.pagination__item--current a {
       background: $sch-blue;
     }
 
-    &.prev,
-    &.next {
+    &.pagination__item--prev,
+    &.pagination__item--next {
       line-height: 36px;
 
       a {
@@ -58,8 +58,8 @@
       display: none;
     }
 
-    li.prev,
-    li.next {
+    li.pagination__item--prev,
+    li.pagination__item--next {
       display: inline-block;
       width: 50%;
       margin: 0;
@@ -73,16 +73,16 @@
       }
     }
 
-    li.next {
+    li.pagination__item--next {
       float: right;
     }
 
-    li.prev a {
+    li.pagination__item--prev a {
       text-align: left;
       margin-right: 5px;
     }
 
-    li.next a {
+    li.pagination__item--next a {
       text-align: right;
       margin-left: 5px;
     }

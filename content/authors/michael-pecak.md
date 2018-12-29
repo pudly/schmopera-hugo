@@ -1,7 +1,7 @@
 +++
 date = "2017-09-05T13:08:00-04:00"
 lastmod = "2017-09-05T13:08:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504631290677/Michael_Pecak_Headshot_019.jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504631290677/Michael_Pecak_Headshot_019.jpeg.jpeg"
 publishDate = "2017-09-05T13:08:00-04:00"
 short_bio = "Michael Pecak is a pianist, fortepianist, conductor, collaborator, scholar, and avid opera-lover based in Chicago. When not performing or contemplating music, Michael is most likely tuning his fortepiano. "
 slug = "michael-pecak"

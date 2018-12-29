@@ -2,7 +2,7 @@
 date = "2015-04-17T10:23:00-04:00"
 email = "kristen.seikaly@gmail.com"
 lastmod = "2015-05-30T20:26:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432438352992/Kristen.png"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432438352992/Kristen.png.png"
 publishDate = "2015-04-17T10:23:00-04:00"
 short_bio = "American mezzo-soprano Kristen is active both as a singer and blogger. Kristen’s full roles include *Iolanta* (Laura), and *A Midsummer Night’s Dream* (Moth) at Westminster Choir College, and *L’elisir d’amore* (Giannetta) at University of Michigan. Kristen has also performed scene excerpts from *Le nozze di Figaro* (Cherubino), *Così fan tutte* (Dorabella), and *Hansel and Gretel* (Hansel). She has also performed operas and scene excerpts in Italy and France. Kristen&#039;s blog is available [on her website](http://www.kristenseikaly.com/blog/)."
 slug = "kristen-seikaly"
