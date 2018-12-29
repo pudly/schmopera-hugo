@@ -2,13 +2,13 @@
 date = "2015-04-11T22:16:00-04:00"
 discipline = "Baritone"
 lastmod = "2015-04-11T22:16:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428804754337/z-nelson-6656.jpg.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546049953/media/2018/12/ZacharyNelsonresized.jpg"
 primary_image_credit = "Dario Acosta"
 publishDate = "2015-04-11T22:16:00-04:00"
 slug = "zachary-nelson"
 title = "Zachary Nelson"
-+++
 
++++
 <p>
 	Zachary Nelson, a native of Annapolis, Maryland, has been praised for his rich and powerful baritone, as well as his ability to embody dramatic and comic characters on the operatic stage.
 </p>
