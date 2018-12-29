@@ -3,15 +3,15 @@ author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2015-05-08T13:12:00-04:00"
 lastmod = "2015-05-09T12:29:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431107497607/LivingOperaFeature.jpg.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546050939/media/2018/12/sqLivingOperaFeature.jpg"
 publishDate = "2015-05-08T14:42:00-04:00"
 related_companies = ["scene/companies/canadian-opera-company.md"]
 related_people = ["scene/people/mark-joelson-daboll.md"]
 short_description = "I&#039;m a huge advocate of music education for young people, including the programs set up by the Canadian Opera Company&#039;s Education &amp; Outreach department. One of their programs is Living Opera, which gives a class of secondary school students a chance to hear voice and drama workshops, tour the Four Seasons Centre, and see one of the mainstage shows."
 slug = "living-opera-at-the-coc"
 title = "Living Opera at the COC"
-+++
 
++++
 I'm a huge advocate of music education for young people, including the programs set up by the Canadian Opera Company's Education & Outreach department. One of their programs is [Living Opera](http://www.coc.ca/ExploreAndLearn/Schools/LivingOpera.aspx), which gives a class of secondary school students a chance to hear voice and drama workshops, tour the Four Seasons Centre, and see one of the mainstage shows. If it sounds exciting for high school students, you're right.
 
 Yesterday's Living Opera focused on *The Barber of Seville*, and students came from [Notre Dame Catholic High School](http://notredame.dcdsb.ca/) in Ajax. After an introduction to opera and Rossini, and a quick refresher of the plot of *Barber*, students had the chance to learn some singing technique with voice teacher [Mark Joelson Daboll](http://pleasejudgeme.com/). 
@@ -42,5 +42,4 @@ A quick refresher on the plot can count for a lot, too. "I like how they explain
 
 Of course, you can't beat the music. I asked Robbie what excited him most about seeing *The Barber of Seville*: "I'm looking forward to the *infamous* arias they'll perform."
 
-Living Opera is one of many Education & Outreach programs offered by the Canadian Opera Company. [Click here](http://www.coc.ca/ExploreAndLearn/Schools/LivingOpera.aspx) to learn more, and see if the program is right for any of the students or teachers you know. 
-
+Living Opera is one of many Education & Outreach programs offered by the Canadian Opera Company. [Click here](http://www.coc.ca/ExploreAndLearn/Schools/LivingOpera.aspx) to learn more, and see if the program is right for any of the students or teachers you know.
