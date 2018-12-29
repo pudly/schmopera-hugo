@@ -3,6 +3,7 @@ date = "2016-07-31T12:31:00-04:00"
 lastmod = "2016-07-31T12:31:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469982609027/POA_FB_Logo160x160_400x400.jpg.jpg"
 publishDate = "2016-07-31T12:31:00-04:00"
+related_people = ["scene/people/sharin-apostolou.md","scene/people/ryan-macpherson.md","scene/people/nancy-allen-lundy.md","scene/people/john-holiday.md","scene/people/rb-schlather.md","scene/people/weston-hurt.md","scene/people/susannah-biller.md","scene/people/greer-grimsley.md","scene/people/emily-pulley.md","scene/people/felicia-moore.md","scene/people/derrell-acon.md","scene/people/kara-shay-thomson.md","scene/people/alexander-elliott.md"]
 slug = "portland-opera"
 title = "Portland Opera"
 type_of_company = "Opera Company"

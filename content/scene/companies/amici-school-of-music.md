@@ -3,6 +3,7 @@ date = "2015-05-06T14:01:00-04:00"
 lastmod = "2015-10-31T13:59:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446314379400/Logo---Amici.jpg.jpg"
 publishDate = "2015-05-06T14:01:00-04:00"
+related_people = ["scene/people/leighann-allen.md","scene/people/michelle-garlough.md"]
 slug = "amici-school-of-music"
 title = "Amici School of Music"
 type_of_company = "Music School"

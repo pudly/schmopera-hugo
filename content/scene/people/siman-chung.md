@@ -4,6 +4,7 @@ discipline = "Countertenor"
 lastmod = "2018-04-27T21:17:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524878208788/chung_headshot_Hi-Res.jpg.jpg"
 publishDate = "2018-04-27T21:17:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/against-the-grain-theatre.md"]
 slug = "siman-chung"
 title = "Siman Chung"
 +++

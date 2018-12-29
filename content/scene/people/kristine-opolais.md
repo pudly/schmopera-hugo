@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-09-30T09:39:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443620062691/OPOLAIS-Kristine-Head-white-.jpg.jpg"
 publishDate = "2015-09-30T09:39:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md","scene/companies/salzburg-festival.md","scene/companies/opernhaus-zurich.md"]
 slug = "kristine-opolais"
 title = "Kristine Opolais"
 website = "http://kristineopolais.com/#home"

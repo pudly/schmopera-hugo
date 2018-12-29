@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-11-08T21:48:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510195500705/547399_8d5d765728ae486e84446b1fedab0772~mv2.webp"
 publishDate = "2017-11-08T21:48:00-05:00"
+related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/bayerische-staatsoper.md"]
 slug = "elisabet-strid"
 title = "Elisabet Strid"
 website = "https://www.elisabetstridsoprano.com/"

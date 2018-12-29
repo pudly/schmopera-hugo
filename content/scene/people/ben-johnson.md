@@ -5,6 +5,7 @@ lastmod = "2017-01-22T19:01:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485111509611/2017-01-22---Ben-Johnson-Chris-Gloag.jpg.jpg"
 primary_image_credit = "Chris Gloag"
 publishDate = "2017-01-22T19:01:00+00:00"
+related_companies = ["scene/companies/glyndebourne.md","scene/companies/english-national-opera.md","scene/companies/opera-holland-park.md","scene/companies/scottish-opera.md","scene/companies/classical-opera.md"]
 slug = "ben-johnson"
 title = "Ben Johnson"
 website = "http://www.benjohnsontenor.com/"

@@ -3,6 +3,7 @@ date = "2015-04-06T13:47:00-04:00"
 lastmod = "2015-10-31T14:11:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446315117529/Logo---FGO.jpg.jpg"
 publishDate = "2015-04-06T13:47:00-04:00"
+related_people = ["scene/people/sidney-outlaw.md","scene/people/tom-corbeil.md","scene/people/elizabeth-caballero.md","scene/people/nadine-sierra.md","scene/people/frdric-antoun.md","scene/people/jennifer-rivera.md","scene/people/rolando-sanz.md","scene/people/bruce-sledge.md","scene/people/sydney-mancasola.md","scene/people/gwyn-hughes-jones.md","scene/people/maria-katzarava.md","scene/people/eliza-bonet.md","scene/people/jason-ferrante.md","scene/people/troy-cook.md","scene/people/ana-maria-martinez.md","scene/people/philip-cokorinos.md","scene/people/daniel-shirley.md","scene/people/adrienn-miksch.md","scene/people/john-pickle.md","scene/people/corey-bix.md","scene/people/simon-dyer.md","scene/people/haeran-hong.md","scene/people/jesus-leon.md","scene/people/angela-mortellaro.md","scene/people/catherine-martin.md","scene/people/chad-shelton.md","scene/people/hailey-clark.md","scene/people/leah-partridge.md","scene/people/jonathan-burton.md","scene/people/alexander-elliott.md","scene/people/todd-thomas.md"]
 slug = "florida-grand-opera"
 title = "Florida Grand Opera"
 type_of_company = "Opera Company"

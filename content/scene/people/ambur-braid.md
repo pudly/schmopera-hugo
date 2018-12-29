@@ -5,6 +5,7 @@ lastmod = "2017-03-15T12:15:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442764751086/AmburBraid-pc-HeleneCyrResized.jpg.jpg"
 primary_image_credit = "Andrea Joynt"
 publishDate = "2015-04-06T20:07:00+01:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/opera-atelier.md","scene/companies/saskatoon-opera.md","scene/companies/against-the-grain-theatre.md","scene/companies/arizona-opera.md"]
 slug = "ambur-braid"
 title = "Ambur Braid"
 website = "http://amburbraid.com/"

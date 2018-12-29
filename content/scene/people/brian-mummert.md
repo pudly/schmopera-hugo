@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2016-06-13T20:24:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465870945962/2016-06-14---Brian-Mummert.jpg.jpg"
 publishDate = "2016-06-13T20:24:00-06:00"
+related_companies = ["scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md"]
 slug = "brian-mummert"
 title = "Brian Mummert"
 website = "http://brian-mummert.squarespace.com/#about-1"

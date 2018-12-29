@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-11-11T14:55:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510429950077/m01-683x1024.jpg.jpg"
 publishDate = "2017-11-11T14:55:00-05:00"
+related_companies = ["scene/companies/toronto-symphony-orchestra.md","scene/companies/canadian-opera-company.md"]
 slug = "measha-brueggergosman"
 title = "Measha Brueggergosman"
 website = "http://www.measha.com/"

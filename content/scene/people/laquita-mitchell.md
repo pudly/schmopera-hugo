@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2018-10-22T12:28:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540225586694/Mitchell.L.Headshot2018.2..jpg.jpg"
 publishDate = "2018-10-22T12:28:00-04:00"
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/houston-grand-opera.md","scene/companies/washington-national-opera.md","scene/companies/the-atlanta-opera.md","scene/companies/san-francisco-opera.md"]
 slug = "laquita-mitchell"
 title = "Laquita Mitchell"
 website = "http://www.laquitamitchellsoprano.com/"

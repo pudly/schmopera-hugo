@@ -5,6 +5,7 @@ lastmod = "2017-04-04T14:25:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491312172309/2017-04-04---LiseDavidsen-Charlotte-Gundersen.jpg.jpg"
 primary_image_credit = "Charlotte Gundersen"
 publishDate = "2017-04-04T14:25:00+01:00"
+related_companies = ["scene/companies/glyndebourne.md","scene/companies/opernhaus-zurich.md"]
 slug = "lise-davidsen"
 title = "Lise Davidsen"
 website = "http://lisedavidsen.com/"

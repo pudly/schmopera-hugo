@@ -5,6 +5,7 @@ draft = true
 lastmod = "2016-11-15T11:22:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479208318542/2016-11-15---Brenda-Rae.jpg.jpg"
 primary_image_credit = "Kristin Hoebermann"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/oper-frankfurt.md","scene/companies/the-santa-fe-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/staatsoper-berlin.md","scene/companies/opera-philadelphia.md","scene/companies/glyndebourne.md"]
 slug = "brenda-rae"
 title = "Brenda Rae"
 website = "http://www.brendarae.com/index.html"

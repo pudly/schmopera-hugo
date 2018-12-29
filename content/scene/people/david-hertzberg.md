@@ -4,6 +4,7 @@ discipline = "Composer"
 lastmod = "2017-09-19T18:23:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505857823570/download.jpeg"
 publishDate = "2017-09-19T17:51:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md"]
 slug = "david-hertzberg"
 title = "David Hertzberg"
 website = "http://www.davidhertzbergmusic.com/"

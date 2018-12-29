@@ -4,6 +4,7 @@ discipline = "Composer"
 lastmod = "2017-07-03T11:17:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499101934003/Livingston%20headshot%20300dpi.jpg.jpg"
 publishDate = "2017-07-03T11:17:00-06:00"
+related_companies = ["scene/companies/tapestry-opera.md","scene/companies/the-bicycle-opera-project.md","scene/companies/opera-5.md","scene/companies/indie-opera-to.md","scene/companies/canadian-art-song-project.md","scene/companies/soundstreams.md"]
 slug = "cecilia-livingston"
 title = "Cecilia Livingston"
 website = "http://www.cecilialivingston.com/"

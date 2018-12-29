@@ -4,6 +4,7 @@ discipline = "Bass-baritone"
 lastmod = "2017-01-11T17:04:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484153340434/2017-01-11---Tomasz-Konieczny.jpg.jpg"
 publishDate = "2017-01-11T17:04:00+00:00"
+related_companies = ["scene/companies/opra-national-de-paris.md","scene/companies/canadian-opera-company.md","scene/companies/teatro-alla-scala.md","scene/companies/wiener-staatsoper.md","scene/companies/salzburg-festival.md","scene/companies/semperoper-dresden.md"]
 slug = "tomasz-konieczny"
 title = "Tomasz Konieczny"
 [[social_media]]

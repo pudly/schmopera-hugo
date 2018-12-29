@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2015-12-28T14:24:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451330220889/CC8nidIWgAALpKe.jpg.jpg"
 publishDate = "2015-09-29T19:01:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/bayerische-staatsoper.md","scene/companies/salzburg-festival.md","scene/companies/opernhaus-zurich.md","scene/companies/washington-national-opera.md"]
 slug = "daniel-brenna"
 title = "Daniel Brenna"
 website = "http://www.danielbrenna.com/index.html"

@@ -4,6 +4,7 @@ discipline = "Bass-baritone"
 lastmod = "2018-02-07T17:09:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518041059545/0L9A0443-Exposure-9.jpg.jpg"
 publishDate = "2018-02-07T17:09:00-05:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/washington-national-opera.md","scene/companies/san-francisco-opera.md","scene/companies/salzburg-festival.md","scene/companies/la-monnaie.md","scene/companies/the-santa-fe-opera.md","scene/companies/semperoper-dresden.md"]
 slug = "kostas-smoriginas"
 title = "Kostas Smoriginas"
 +++

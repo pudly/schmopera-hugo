@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-04-08T10:37:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428503554147/1495532_797567216935724_900566340_n.jpg%3Foh%3De4f585ad049254ba09ab3a4523253ff3%26oe%3D55AA5B15"
 publishDate = "2015-04-08T10:37:00-04:00"
+related_companies = ["scene/companies/opera-5.md","scene/companies/voicebox-opera-in-concert.md","scene/companies/amici-school-of-music.md"]
 slug = "leighann-allen"
 title = "Leigh-Ann Allen"
 [[social_media]]

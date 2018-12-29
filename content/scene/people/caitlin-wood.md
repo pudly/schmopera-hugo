@@ -5,6 +5,7 @@ lastmod = "2015-04-22T19:30:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429745312653/Caitlin%20Wood%2C%20Soprano_Fotor.jpg.jpg"
 primary_image_credit = "Photo: Emily Ding"
 publishDate = "2015-04-22T19:30:00-04:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/vancouver-opera.md","scene/companies/vancouver-operas-yulanda-m-faris-young-artists-program.md"]
 slug = "caitlin-wood"
 title = "Caitlin Wood"
 website = "http://www.caitlinwood.ca/"

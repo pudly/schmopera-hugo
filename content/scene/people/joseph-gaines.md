@@ -5,6 +5,7 @@ lastmod = "2017-09-15T13:32:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505496693740/0435%2BJoseph%2BGaines_EDITED.jpg.jpg"
 primary_image_credit = "David Bachman"
 publishDate = "2017-09-15T13:31:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/utah-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/san-diego-opera.md"]
 slug = "joseph-gaines"
 title = "Joseph Gaines"
 website = "http://josephgaines.com/"

@@ -4,6 +4,7 @@ discipline = "Composer"
 lastmod = "2017-01-21T17:02:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485017691514/749.jpg%3Fwidth%3D320"
 publishDate = "2017-01-21T16:54:00+00:00"
+related_companies = ["scene/companies/esprit-orchestra.md"]
 slug = "john-rea"
 title = "John Rea"
 website = "http://www.johnreamusic.com/"

@@ -3,6 +3,7 @@ date = "2017-05-01T16:22:00-04:00"
 lastmod = "2017-05-01T16:31:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493670087997/Logo---Collectif.jpg.jpg"
 publishDate = "2017-05-01T16:22:00-04:00"
+related_people = ["scene/people/danika-lorn.md","scene/people/jennifer-krabbe.md","scene/people/whitney-ohearn.md"]
 slug = "collectif"
 title = "Collectìf"
 type_of_company = "Song collective"

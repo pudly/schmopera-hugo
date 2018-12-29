@@ -5,6 +5,7 @@ lastmod = "2015-04-12T11:12:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428851329488/20131105_michael-schade-3-credit-harald-hoffmann-hires.jpg.jpg"
 primary_image_credit = "Harald Hoffmann"
 publishDate = "2015-04-12T11:10:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/bayerische-staatsoper.md","scene/companies/teatro-alla-scala.md","scene/companies/the-metropolitan-opera.md"]
 slug = "michael-schade"
 title = "Michael Schade"
 [[social_media]]

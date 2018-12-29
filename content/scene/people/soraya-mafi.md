@@ -5,6 +5,7 @@ lastmod = "2017-02-10T13:02:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486731648803/2017-02-10---Soraya-Mafi.jpg.jpg"
 primary_image_credit = "Christina Haldane"
 publishDate = "2017-02-10T13:02:00+00:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/welsh-national-opera.md"]
 slug = "soraya-mafi"
 title = "Soraya Mafi"
 website = "http://www.sorayamafi.co.uk/"

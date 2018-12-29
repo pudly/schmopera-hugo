@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-09-17T18:34:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505687396246/Howard4-2.jpg.jpg"
 publishDate = "2017-09-17T18:33:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/the-metropolitan-opera.md","scene/companies/the-atlanta-opera.md"]
 slug = "kirstin-chvez"
 title = "Kirstin Chávez"
 website = "http://www.kchavez.com/2012/bio.asp"

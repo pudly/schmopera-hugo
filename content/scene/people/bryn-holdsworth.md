@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-09-29T18:59:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506725894162/cf81e8_2058a09a67a043eeb2f08a1c28483871~mv2_d_3166_4964_s_4_2.webp"
 publishDate = "2017-09-29T18:59:00-04:00"
+related_companies = ["scene/companies/the-atlanta-opera.md"]
 slug = "bryn-holdsworth"
 title = "Bryn Holdsworth"
 website = "https://www.brynholdsworth.com/"

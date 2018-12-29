@@ -5,6 +5,7 @@ lastmod = "2017-03-15T12:39:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428370832211/RachvelishviliAnita-pc-SalvoSportato.jpg.jpg"
 primary_image_credit = "Salvo Sportato"
 publishDate = "2015-04-07T02:43:00+01:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/deutsche-oper-berlin.md","scene/companies/teatro-alla-scala.md"]
 slug = "anita-rachvelishvili"
 title = "Anita Rachvelishvili"
 [[social_media]]

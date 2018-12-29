@@ -4,6 +4,7 @@ discipline = "Bass"
 lastmod = "2017-09-13T09:56:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505310791452/kares.jpg%3Fitok%3DboAXyZ2n"
 publishDate = "2017-09-13T09:56:00-04:00"
+related_companies = ["scene/companies/bayerische-staatsoper.md","scene/companies/royal-opera-house.md","scene/companies/opernhaus-zurich.md","scene/companies/la-monnaie.md","scene/companies/semperoper-dresden.md","scene/companies/wiener-staatsoper.md"]
 slug = "mika-kares"
 title = "Mika Kares"
 website = "http://www.mikakares.net/"

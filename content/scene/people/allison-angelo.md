@@ -5,6 +5,7 @@ lastmod = "2015-12-27T15:03:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451246322097/AllisonAngelo---pc-Bo-Hunag.jpg.jpg"
 primary_image_credit = "Bo Huang"
 publishDate = "2015-12-27T15:03:00-05:00"
+related_companies = ["scene/companies/the-banff-centre.md","scene/companies/latelier-lyrique-de-lopra-de-montral.md","scene/companies/university-of-toronto-opera.md","scene/companies/toronto-operetta-theatre.md"]
 slug = "allison-angelo"
 title = "Allison Angelo"
 website = "http://www.allisonangelo.ca/"

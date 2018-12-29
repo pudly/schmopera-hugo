@@ -5,6 +5,7 @@ lastmod = "2017-03-20T20:46:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490013371528/2017-03-20---Rachel-Willis-Sorensen---Trevor_Goldstein.jpg.jpg"
 primary_image_credit = "Trevor Goldstein"
 publishDate = "2017-03-20T12:37:00+00:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/opernhaus-zurich.md","scene/companies/houston-grand-opera.md","scene/companies/semperoper-dresden.md"]
 slug = "rachel-willis-sorensen"
 title = "Rachel Willis-Sørensen"
 website = "http://www.rachelwillis-sorensen.com/html/"

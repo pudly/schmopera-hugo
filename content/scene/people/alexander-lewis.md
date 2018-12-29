@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-10-09T11:25:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507562437359/Lewis.A.Headshot.jpg.jpg"
 publishDate = "2017-10-09T11:24:00-04:00"
+related_companies = ["scene/companies/brooklyn-academy-of-music.md","scene/companies/the-metropolitan-opera.md","scene/companies/merola-opera-program.md","scene/companies/opera-australia.md","scene/companies/royal-opera-house.md","scene/companies/washington-national-opera.md"]
 slug = "alexander-lewis"
 title = "Alexander Lewis"
 +++

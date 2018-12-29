@@ -4,6 +4,7 @@ discipline = "Conductor"
 lastmod = "2018-05-30T21:10:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527728988082/Damian-13-crop%20copy.jpg.jpg"
 publishDate = "2018-05-30T21:10:00-04:00"
+related_companies = ["scene/companies/opra-national-de-paris.md","scene/companies/glyndebourne.md"]
 slug = "damian-iorio"
 title = "Damian Iorio"
 website = "http://www.damianiorio.com/"

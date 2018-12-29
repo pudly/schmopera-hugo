@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-01-10T13:34:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484055206617/2017-01-10---LA-COLLA-Stefano-Alba-Falchi.jpg.jpg"
 publishDate = "2017-01-10T13:34:00+00:00"
+related_companies = ["scene/companies/teatro-alla-scala.md","scene/companies/deutsche-oper-berlin.md","scene/companies/staatsoper-berlin.md"]
 slug = "stefano-la-colla"
 title = "Stefano La Colla"
 website = "http://www.stefanolacolla.com/"

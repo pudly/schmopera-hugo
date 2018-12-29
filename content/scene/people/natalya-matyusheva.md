@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-09-04T14:46:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441391203905/NatalyaHeadshotSquare.jpg.jpg"
 publishDate = "2015-09-04T14:46:00-04:00"
+related_companies = ["scene/companies/voicebox-opera-in-concert.md","scene/companies/oshawa-opera.md","scene/companies/opera-5.md","scene/companies/opera-nuova.md","scene/companies/university-of-toronto-opera.md","scene/companies/opera-by-request.md"]
 slug = "natalya-matyusheva"
 title = "Natalya Matyusheva"
 [[social_media]]

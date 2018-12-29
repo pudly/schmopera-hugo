@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-12-04T19:32:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512433720447/Garanca_2016_09_STUDIO0582.jpg.jpg"
 publishDate = "2017-12-04T19:32:00-05:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md","scene/companies/oper-frankfurt.md","scene/companies/opra-national-de-paris.md","scene/companies/salzburg-festival.md"]
 slug = "elina-garanca"
 title = "Elīna Garanča"
 website = "http://elinagaranca.com/"

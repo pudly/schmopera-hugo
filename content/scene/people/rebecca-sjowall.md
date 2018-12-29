@@ -5,6 +5,7 @@ lastmod = "2016-09-20T09:07:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473947584423/2016-09-14---Rebecca-Sjowall.jpg.jpg"
 primary_image_credit = "Kirsten Koromilas"
 publishDate = "2016-09-15T14:54:00+01:00"
+related_companies = ["scene/companies/arizona-opera.md","scene/companies/nashville-opera.md"]
 slug = "rebecca-sjowall"
 title = "Rebecca Sjöwall"
 website = "http://www.rebeccasjowall.com/index.html"

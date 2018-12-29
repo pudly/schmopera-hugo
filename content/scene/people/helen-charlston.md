@@ -5,6 +5,7 @@ lastmod = "2016-04-21T11:07:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461232996496/2016-04-21---helen-charlston-headshot-credit-ben-mckee1.jpg.jpg"
 primary_image_credit = "Ben McKee"
 publishDate = "2016-04-21T11:07:00+01:00"
+related_companies = ["scene/companies/city-of-london-sinfonia.md"]
 slug = "helen-charlston"
 title = "Helen Charlston"
 website = "https://helencharlston.com/"

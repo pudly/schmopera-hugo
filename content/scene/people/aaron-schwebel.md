@@ -4,6 +4,7 @@ discipline = "Violinist"
 lastmod = "2017-03-15T10:48:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437413734671/11234051_10204185150943168_5793490848771529088_n.jpg%3Foh%3D92e108a818cb717ed71dd0ff011b5425%26oe%3D5647F4E2"
 publishDate = "2015-07-20T20:12:00+01:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/toronto-symphony-orchestra.md"]
 slug = "aaron-schwebel"
 title = "Aaron Schwebel"
 [[social_media]]

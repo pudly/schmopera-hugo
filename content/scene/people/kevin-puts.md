@@ -5,6 +5,7 @@ lastmod = "2016-11-08T11:58:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478601464090/Kevin_Puts_HS.jpg.jpg"
 primary_image_credit = "David White."
 publishDate = "2016-11-08T10:38:00+00:00"
+related_companies = ["scene/companies/minnesota-opera.md"]
 slug = "kevin-puts"
 title = "Kevin Puts"
 website = "http://www.kevinputs.com/"

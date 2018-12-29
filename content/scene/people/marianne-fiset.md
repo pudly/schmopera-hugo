@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-10-15T19:06:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508108697027/fiset_marianne_pierre_etienne_bergeron.jpg%3Fitok%3DnyrpAOty"
 publishDate = "2017-10-15T19:05:00-04:00"
+related_companies = ["scene/companies/vancouver-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/calgary-opera.md","scene/companies/toronto-symphony-orchestra.md"]
 slug = "marianne-fiset"
 title = "Marianne Fiset"
 [[social_media]]

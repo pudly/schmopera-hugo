@@ -5,6 +5,7 @@ lastmod = "2017-10-23T14:38:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508783774291/COTE_PHOTO1_HIRES_2016.jpg.jpg"
 primary_image_credit = "Julie Beauchemin"
 publishDate = "2017-10-23T14:38:00-04:00"
+related_companies = ["scene/companies/edmonton-opera.md","scene/companies/lopra-de-montral.md","scene/companies/pacific-opera-victoria.md"]
 slug = "dominique-cote"
 title = "Dominique Côté"
 website = "https://www.dominiquecote.net/"

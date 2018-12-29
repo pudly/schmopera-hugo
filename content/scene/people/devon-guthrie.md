@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2018-03-18T21:21:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521422420736/devon-guthrie-headshot.jpg.jpg"
 publishDate = "2018-03-18T21:21:00-04:00"
+related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/the-santa-fe-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/opera-philadelphia.md","scene/companies/houston-grand-opera.md"]
 slug = "devon-guthrie"
 title = "Devon Guthrie"
 website = "https://www.devonguthrie.com/"

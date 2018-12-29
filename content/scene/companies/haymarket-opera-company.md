@@ -3,6 +3,7 @@ date = "2017-09-22T18:22:00-04:00"
 lastmod = "2017-09-22T18:22:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506118953247/13245215_1352647651414135_2363666244278397896_n.jpg%3Foh%3D6d70a157afaa5097fcc2cde17ec9c657%26oe%3D5A3E1357"
 publishDate = "2017-09-22T18:22:00-04:00"
+related_people = ["scene/people/scott-brunscheen.md","scene/people/david-govertsen.md","scene/people/nathalie-colas.md","scene/people/kristin-knutson.md","scene/people/ryan-de-ryke.md"]
 slug = "haymarket-opera-company"
 title = "Haymarket Opera Company"
 type_of_company = "Opera Company"

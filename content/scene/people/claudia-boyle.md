@@ -5,6 +5,7 @@ lastmod = "2016-10-20T11:34:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476959582698/2016-10-21---Claudia-Boyle-rcportraits.com.jpg.jpg"
 primary_image_credit = "RC Portraits"
 publishDate = "2016-10-20T11:34:00+01:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/semperoper-dresden.md","scene/companies/salzburg-festival.md","scene/companies/royal-opera-house.md"]
 slug = "claudia-boyle"
 title = "Claudia Boyle"
 website = "http://www.claudiaboyle.com/"

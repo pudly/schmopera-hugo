@@ -5,6 +5,7 @@ lastmod = "2016-09-16T15:19:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474035274543/2016-09-16---Audrey-Luna-credit-Brian-Kuhlmann.jpg.jpg"
 primary_image_credit = "Brian Kuhlmann"
 publishDate = "2016-09-16T15:19:00+01:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/salzburg-festival.md","scene/companies/wiener-staatsoper.md"]
 slug = "audrey-luna"
 title = "Audrey Luna"
 website = "http://audrey-luna.com/"

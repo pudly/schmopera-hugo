@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-09-15T13:52:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505497838502/Crop-Headshot-1.jpg.jpg"
 publishDate = "2017-09-15T13:52:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/utah-opera.md","scene/companies/seattle-opera.md","scene/companies/palm-beach-opera.md","scene/companies/nashville-opera.md"]
 slug = "melissa-parks"
 title = "Melissa Parks"
 website = "http://www.mezzomelissaparks.com/"

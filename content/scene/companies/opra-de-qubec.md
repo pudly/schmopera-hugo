@@ -3,6 +3,7 @@ date = "2015-03-31T17:00:00-04:00"
 lastmod = "2015-10-31T14:40:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446316839293/Logo---OdeQ.jpg.jpg"
 publishDate = "2015-03-31T17:00:00-04:00"
+related_people = ["scene/people/aaron-ferguson.md","scene/people/alain-coulombe.md","scene/people/andrew-love.md","scene/people/doug-macnaughton.md","scene/people/etienne-dupuis.md","scene/people/krisztina-szab.md","scene/people/lauren-segal.md","scene/people/timothy-vernon.md","scene/people/richard-margison.md","scene/people/phillip-addis.md","scene/people/alexander-dobson.md","scene/people/john-macmaster.md","scene/people/lyne-fortin.md","scene/people/john-fanning.md","scene/people/john-tessier.md"]
 slug = "opra-de-qubec"
 title = "Opéra de Québec"
 type_of_company = "Opera Company"

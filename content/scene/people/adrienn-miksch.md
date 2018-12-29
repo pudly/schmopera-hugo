@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-09-20T21:09:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505956082113/phoca_thumb_l_Miksch_Adrienn_16_resize.jpg.jpg"
 publishDate = "2017-09-20T21:09:00-04:00"
+related_companies = ["scene/companies/florida-grand-opera.md"]
 slug = "adrienn-miksch"
 title = "Adrienn Miksch"
 website = "http://www.mikschadrienn.hu/index.php/en/"

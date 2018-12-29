@@ -4,6 +4,7 @@ discipline = "Composer"
 lastmod = "2017-03-15T10:58:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428340715291/Scime.jpg.jpg"
 publishDate = "2015-04-06T18:20:00+01:00"
+related_companies = ["scene/companies/fawn-chamber-creative.md","scene/companies/esprit-orchestra.md"]
 slug = "adam-scime"
 title = "Adam Scime"
 website = "http://www.adamscime.com/"

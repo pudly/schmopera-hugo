@@ -5,6 +5,7 @@ lastmod = "2015-09-30T10:26:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443623033234/presse-wm3.jpg.jpg"
 primary_image_credit = "Photo: Nomi Baumgartl"
 publishDate = "2015-09-30T10:26:00-04:00"
+related_companies = ["scene/companies/bayerische-staatsoper.md","scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/wiener-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/salzburg-festival.md"]
 slug = "waltraud-meier"
 title = "Waltraud Meier"
 website = "http://www.waltraud-meier.com/"

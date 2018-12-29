@@ -3,6 +3,7 @@ date = "2017-07-14T14:24:00-04:00"
 lastmod = "2017-07-14T14:24:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500056629970/10176173_676854265707923_5781509115025405532_n.png%3Foh%3Da9300b8316b1dfa99476e4e6af505c54%26oe%3D5A0976C5"
 publishDate = "2017-07-14T14:24:00-04:00"
+related_people = ["scene/people/jessica-e-jones.md","scene/people/mitchell-hutchings.md","scene/people/hailey-clark.md"]
 slug = "opera-saratoga"
 title = "Opera Saratoga"
 type_of_company = "Opera Company"

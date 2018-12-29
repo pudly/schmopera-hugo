@@ -4,6 +4,7 @@ discipline = "Pianist"
 lastmod = "2015-10-15T13:13:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444929172064/Mak.jpg.jpg"
 publishDate = "2015-10-15T13:13:00-04:00"
+related_companies = ["scene/companies/lynx-project.md"]
 slug = "florence-mak"
 title = "Florence Mak"
 +++

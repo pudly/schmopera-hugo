@@ -5,6 +5,7 @@ lastmod = "2017-01-27T11:21:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485515730272/2017-01-27--Michele_Losier.jpg.jpg"
 primary_image_credit = "Courtesy of IMG Artists"
 publishDate = "2017-01-27T11:15:00+00:00"
+related_companies = ["scene/companies/opra-national-de-paris.md","scene/companies/seattle-opera.md","scene/companies/san-francisco-opera.md","scene/companies/merola-opera-program.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/royal-opera-house.md","scene/companies/washington-national-opera.md","scene/companies/la-monnaie.md"]
 slug = "michle-losier"
 title = "Michèle Losier"
 website = "http://www.michelelosier.com/"

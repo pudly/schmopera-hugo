@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-09-18T15:48:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505763704486/craigvermHorizHD.jpg.jpg"
 publishDate = "2017-09-18T15:48:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/the-dallas-opera.md","scene/companies/seattle-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/nashville-opera.md","scene/companies/the-santa-fe-opera.md"]
 slug = "craig-verm"
 title = "Craig Verm"
 website = "http://www.craigverm.com/no_flash.php"

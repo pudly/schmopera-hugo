@@ -5,6 +5,7 @@ lastmod = "2015-04-18T18:54:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429397499922/RF7_CREDIT_DECCA_ANDREWECCLES.JPG"
 primary_image_credit = "Photo by Andrew Eccles"
 publishDate = "2015-04-18T18:54:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/eastman-opera-theatre.md"]
 slug = "renee-fleming"
 title = "Renée Fleming"
 [[social_media]]

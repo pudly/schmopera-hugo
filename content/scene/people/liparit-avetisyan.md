@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-01-26T14:10:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485439711309/2017-01-26---Liparit-Avetisyan.jpg.jpg"
 publishDate = "2017-01-26T14:10:00+00:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/deutsche-oper-berlin.md","scene/companies/oper-frankfurt.md","scene/companies/opera-australia.md","scene/companies/semperoper-dresden.md"]
 slug = "liparit-avetisyan"
 title = "Liparit Avetisyan"
 +++

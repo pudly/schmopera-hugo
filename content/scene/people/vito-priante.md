@@ -5,6 +5,7 @@ lastmod = "2016-09-14T00:06:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473807753825/2016-09-14---Vito-Priante-HS.jpg.jpg"
 primary_image_credit = "Matthew Dierksheide Photography"
 publishDate = "2016-09-14T00:06:00+01:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/staatsoper-berlin.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/salzburg-festival.md","scene/companies/glyndebourne.md"]
 slug = "vito-priante"
 title = "Vito Priante"
 website = "http://www.vito-priante.com/home"

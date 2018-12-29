@@ -4,6 +4,7 @@ discipline = "Actor, singer, designer, writer"
 lastmod = "2018-02-16T21:45:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518835424515/peabodysouthwell180.jpg.jpg"
 publishDate = "2018-02-16T21:45:00-05:00"
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/des-moines-metro-opera.md"]
 slug = "peabody-southwell"
 title = "Peabody Southwell"
 website = "http://www.peabodysouthwell.com/index.php/about/"

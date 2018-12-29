@@ -5,6 +5,7 @@ lastmod = "2015-07-24T12:15:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437753936712/Richard-MargisonResized.jpg.jpg"
 primary_image_credit = "Sterling Photography"
 publishDate = "2015-07-24T12:15:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/manitoba-opera.md","scene/companies/pacific-opera-victoria.md","scene/companies/canadian-opera-company.md","scene/companies/opra-de-qubec.md","scene/companies/highlands-opera-studio.md","scene/companies/royal-opera-house.md","scene/companies/san-francisco-opera.md","scene/companies/edmonton-opera.md","scene/companies/vancouver-opera.md","scene/companies/staatsoper-berlin.md","scene/companies/lopra-de-montral.md","scene/companies/toronto-symphony-orchestra.md"]
 slug = "richard-margison"
 title = "Richard Margison"
 website = "http://www.richardmargison.com/about/index.html"

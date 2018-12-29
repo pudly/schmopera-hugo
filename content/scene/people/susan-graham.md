@@ -5,6 +5,7 @@ lastmod = "2015-04-23T00:03:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429761782562/298_Susan_Graham%2C_Onyx%2C_jul12_(c)_B_Ealovega_(may2013)_NEW.jpg.jpg"
 primary_image_credit = "Photo: B Ealovega"
 publishDate = "2015-04-23T00:03:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md"]
 slug = "susan-graham"
 title = "Susan Graham"
 website = "http://susangraham.com/"

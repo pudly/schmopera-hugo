@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2015-07-17T10:40:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437151184171/Marjorie%20Maltais-%20mezzo-soprano.jpg.jpg"
 publishDate = "2015-07-17T10:40:00-06:00"
+related_companies = ["scene/companies/music-academy-of-the-west-voice-program.md"]
 slug = "marjorie-maltais"
 title = "Marjorie Maltais"
 [[social_media]]

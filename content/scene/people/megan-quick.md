@@ -5,6 +5,7 @@ lastmod = "2017-02-25T12:03:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488023996900/2017-02-25---Megan-Quick---pc---Bronwen-Sharp.jpg.jpg"
 primary_image_credit = "Bronwen Sharp."
 publishDate = "2017-02-25T12:03:00+00:00"
+related_companies = ["scene/companies/university-of-toronto-opera.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md"]
 slug = "megan-quick"
 title = "Megan Quick"
 website = "http://www.meganquick.com/"

@@ -5,6 +5,7 @@ lastmod = "2015-04-07T16:58:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428440212368/4724-Elizabeth-DeShong-HI-RES-version-3-copy.jpg.jpg"
 primary_image_credit = "Kristin Hoebermann"
 publishDate = "2015-04-07T16:56:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/glyndebourne.md","scene/companies/los-angeles-opera.md","scene/companies/english-national-opera.md","scene/companies/wiener-staatsoper.md"]
 slug = "elizabeth-deshong"
 title = "Elizabeth DeShong"
 website = "http://www.elizabethdeshong.com/"

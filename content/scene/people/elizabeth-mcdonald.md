@@ -4,6 +4,7 @@ discipline = "Soprano, voice teacher"
 lastmod = "2018-01-25T19:12:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516925030827/McDonald%20Headshot%20Large.jpg.jpg"
 publishDate = "2018-01-25T19:12:00-05:00"
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/the-santa-fe-opera.md"]
 slug = "elizabeth-mcdonald"
 title = "Elizabeth McDonald"
 website = "http://www.fromthevoiceof.com/home.html"

@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2018-10-21T20:59:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540169875868/ELLIOTT_HEADSHOT2018-small-portrait.jpg.jpg"
 publishDate = "2018-10-21T20:57:00-04:00"
+related_companies = ["scene/companies/the-dallas-opera.md","scene/companies/florida-grand-opera.md","scene/companies/portland-opera.md","scene/companies/san-francisco-opera.md","scene/companies/opera-omaha.md"]
 slug = "alexander-elliott"
 title = "Alexander Elliott"
 website = "http://www.alexanderelliottbaritone.com/"

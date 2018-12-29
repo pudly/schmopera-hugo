@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2016-09-11T18:55:00+02:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473612889247/Amal-El-Shrafi-HS.jpg.jpg"
 publishDate = "2016-09-11T18:55:00+02:00"
+related_companies = ["scene/companies/sarasota-opera.md","scene/companies/new-england-conservatory.md"]
 slug = "amal-elshrafi"
 title = "Amal El-Shrafi"
 website = "http://www.amalelshrafi.com/"

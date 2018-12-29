@@ -4,6 +4,7 @@ discipline = "Composer"
 lastmod = "2017-11-14T18:15:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510701236976/2017-11-14---Mark-Adamo-in-studio.jpg.jpg"
 publishDate = "2017-11-14T18:15:00-05:00"
+related_companies = ["scene/companies/the-dallas-opera.md","scene/companies/houston-grand-opera.md","scene/companies/washington-national-opera.md","scene/companies/san-francisco-opera.md","scene/companies/calgary-opera.md","scene/companies/the-banff-centre.md","scene/companies/lyric-opera-of-chicago.md"]
 slug = "mark-adamo"
 title = "Mark Adamo"
 website = "http://www.markadamo.com/"

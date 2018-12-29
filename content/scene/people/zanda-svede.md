@@ -5,6 +5,7 @@ lastmod = "2017-10-08T23:25:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507519329229/2515153_orig.jpg.jpg"
 primary_image_credit = "Courtesy of IMG Artists"
 publishDate = "2017-10-08T23:25:00-04:00"
+related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/palm-beach-opera.md","scene/companies/lyric-opera-of-kansas-city.md"]
 slug = "zanda-svede"
 title = "Zanda Švēde"
 website = "http://www.zandasvede.com/"

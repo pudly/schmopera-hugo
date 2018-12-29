@@ -5,6 +5,7 @@ lastmod = "2016-03-03T14:38:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457015545117/2016-03-03---Ilana-Zarankin.jpg.jpg"
 primary_image_credit = "Claire Harvie"
 publishDate = "2016-03-03T14:34:00+00:00"
+related_companies = ["scene/companies/talisker-players.md"]
 slug = "ilana-zarankin"
 title = "Ilana Zarankin"
 website = "http://www.ilanazarankinsoprano.com/index.html"

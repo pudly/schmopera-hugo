@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2015-10-15T13:09:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444928809587/Humes.jpg.jpg"
 publishDate = "2015-10-15T13:09:00-04:00"
+related_companies = ["scene/companies/lynx-project.md"]
 slug = "steven-humes"
 title = "Steven Humes"
 website = "http://stevenchumes.weebly.com/"

@@ -5,6 +5,7 @@ lastmod = "2017-01-22T18:52:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485110683347/RDSmith%2520by%2520Todd%2520Smith.jpg.jpg"
 primary_image_credit = "Todd Smith"
 publishDate = "2017-01-22T18:50:00+00:00"
+related_companies = ["scene/companies/wiener-staatsoper.md","scene/companies/bayerische-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/teatro-alla-scala.md","scene/companies/royal-opera-house.md","scene/companies/los-angeles-opera.md","scene/companies/san-francisco-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/deutsche-oper-berlin.md","scene/companies/gran-teatre-del-liceu.md"]
 slug = "robert-dean-smith"
 title = "Robert Dean Smith"
 website = "http://www.robertdeansmith.com/index.html"

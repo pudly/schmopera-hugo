@@ -5,6 +5,7 @@ lastmod = "2015-04-12T18:48:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428878717734/WendyUse.jpg.jpg"
 primary_image_credit = "Will Ford"
 publishDate = "2015-04-12T18:48:00-04:00"
+related_companies = ["scene/companies/university-of-toronto-opera.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/the-metropolitan-opera.md","scene/companies/canadian-opera-company.md","scene/companies/opera-mcgill.md"]
 slug = "wendy-nielsen"
 title = "Wendy Nielsen"
 website = "http://www.wendynielsen.ca/"

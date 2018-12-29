@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2018-12-13T07:59:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505311484438/stagg24146_0051.jpg%3Ffit%3D1200%252C800%26ssl%3D1"
 publishDate = "2017-09-13T10:06:00-04:00"
+related_companies = ["scene/companies/staatsoper-berlin.md","scene/companies/royal-opera-house.md"]
 slug = "siobhan-stagg"
 title = "Siobhan Stagg"
 website = "https://siobhanstagg.com/"

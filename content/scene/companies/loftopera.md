@@ -3,6 +3,7 @@ date = "2016-08-23T12:05:00+01:00"
 lastmod = "2016-08-23T12:05:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471950347604/2016-08-24---Logo-LO.jpg.jpg"
 publishDate = "2016-08-23T12:05:00+01:00"
+related_people = ["scene/people/liana-guberman.md","scene/people/elizabeth-pojanowski.md","scene/people/karolina-pilou.md","scene/people/joshua-jeremiah.md","scene/people/daniel-klein.md"]
 slug = "loftopera"
 title = "LoftOpera"
 type_of_company = "Opera Company"

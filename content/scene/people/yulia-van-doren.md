@@ -5,6 +5,7 @@ lastmod = "2016-12-20T22:16:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482290131742/2016-12-20---Yulia-Van-Doren-color-photo-by-Andrew-Schaff.jpg.jpg"
 primary_image_credit = "Andrew Schaff"
 publishDate = "2016-12-20T22:16:00-05:00"
+related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
 slug = "yulia-van-doren"
 title = "Yulia Van Doren"
 website = "http://www.yuliavandoren.com/"

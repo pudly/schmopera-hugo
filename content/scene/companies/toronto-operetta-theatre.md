@@ -3,6 +3,7 @@ date = "2015-04-04T23:15:00-04:00"
 lastmod = "2015-10-31T15:02:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446318167554/Logo---TOT.jpg.jpg"
 publishDate = "2015-04-04T23:15:00-04:00"
+related_people = ["scene/people/adam-luther.md","scene/people/adrian-kramer.md","scene/people/charlotte-knight.md","scene/people/christopher-mayell.md","scene/people/gregory-finney.md","scene/people/keith-klassen.md","scene/people/lucia-cesaroni.md","scene/people/michelle-garlough.md","scene/people/michle-bogdanowicz.md","scene/people/allison-angelo.md","scene/people/james-levesque.md","scene/people/lara-ciekiewicz.md","scene/people/justin-ralph.md","scene/people/vania-chan.md","scene/people/nicholas-borg.md","scene/people/curtis-sullivan.md","scene/people/andrew-tees.md"]
 slug = "toronto-operetta-theatre"
 title = "Toronto Operetta Theatre"
 type_of_company = "Opera Company"

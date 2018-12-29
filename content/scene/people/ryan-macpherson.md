@@ -5,6 +5,7 @@ lastmod = "2016-09-15T14:47:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473946697386/2016-09-14---Ryan-MacPherson---Fay.jpg.jpg"
 primary_image_credit = "Rebecca Fay"
 publishDate = "2016-09-15T14:38:00+01:00"
+related_companies = ["scene/companies/nashville-opera.md","scene/companies/central-city-opera.md","scene/companies/portland-opera.md","scene/companies/calgary-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/opra-national-de-paris.md","scene/companies/lyric-opera-of-kansas-city.md","scene/companies/nyc-opera-renaissance.md"]
 slug = "ryan-macpherson"
 title = "Ryan MacPherson"
 website = "http://www.ryanmacpherson.com/"

@@ -4,6 +4,7 @@ discipline = "Countertenor"
 lastmod = "2017-03-16T15:47:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489669028578/2017-03-16---James-Laing.jpg.jpg"
 publishDate = "2017-03-16T15:47:00+00:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/classical-opera.md","scene/companies/english-national-opera.md","scene/companies/opera-holland-park.md","scene/companies/garsington-opera.md","scene/companies/grange-park-opera.md","scene/companies/opera-north.md"]
 slug = "james-laing"
 title = "James Laing"
 +++

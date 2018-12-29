@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2018-12-02T12:43:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543772542851/1474299726.jpg.jpg"
 publishDate = "2018-12-02T12:43:00-05:00"
+related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/royal-opera-house.md","scene/companies/wiener-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/bayerische-staatsoper.md"]
 slug = "gaelle-arquez"
 title = "Gaëlle Arquez"
 [[social_media]]

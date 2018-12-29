@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-04-07T18:41:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428446474747/jane8.jpg.jpg"
 publishDate = "2015-04-07T18:40:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/bayerische-staatsoper.md"]
 slug = "jane-archibald"
 title = "Jane Archibald"
 website = "http://janearchibald.com/"

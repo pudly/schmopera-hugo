@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2016-02-23T11:42:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456245739661/2016-02-23---Megan-Latham.jpg.jpg"
 publishDate = "2016-02-23T11:42:00-05:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/pacific-opera-victoria.md","scene/companies/vancouver-opera.md","scene/companies/edmonton-opera.md","scene/companies/against-the-grain-theatre.md"]
 slug = "megan-latham"
 title = "Megan Latham"
 [[social_media]]

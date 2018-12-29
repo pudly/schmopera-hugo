@@ -5,6 +5,7 @@ lastmod = "2015-04-06T22:51:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428375082871/MCPHAIL-PHOTO_credit_-Vroux_Fotor.jpg.jpg"
 primary_image_credit = "Veronika Roux-Vlachova"
 publishDate = "2015-04-06T22:51:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/against-the-grain-theatre.md","scene/companies/opera-on-the-avalon.md"]
 slug = "cameron-mcphail"
 title = "Cameron McPhail"
 [[social_media]]

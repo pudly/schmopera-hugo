@@ -3,6 +3,7 @@ date = "2015-05-21T20:09:00+01:00"
 draft = true
 lastmod = "2016-04-29T16:24:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461943471997/2016-04-29---Logo---Opera-Renaissance.jpg.jpg"
+related_people = ["scene/people/debi-wong.md","scene/people/christopher-bagan.md"]
 slug = "renaissance"
 title = "re:Naissance"
 type_of_company = "Opera company"

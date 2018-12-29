@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2016-01-24T15:18:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453666531252/2016-01-25---Naomi-Eberhard.jpg.jpg"
 publishDate = "2016-01-24T15:18:00-05:00"
+related_companies = ["scene/companies/opera-by-request.md","scene/companies/opera-on-the-avalon.md"]
 slug = "naomi-eberhard"
 title = "Naomi Eberhard"
 website = "http://www.naomieberhard.com/"

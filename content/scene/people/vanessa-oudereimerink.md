@@ -5,6 +5,7 @@ lastmod = "2015-12-08T19:12:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449619800736/2015-12-08---Vanessa-Oude-Reimerink.jpg.jpg"
 primary_image_credit = "Photo by Brent Calis"
 publishDate = "2015-12-08T19:12:00-05:00"
+related_companies = ["scene/companies/opera-on-the-avalon.md","scene/companies/calgary-opera-emerging-artist-development-program.md","scene/companies/calgary-opera.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md","scene/companies/opera-nuova.md","scene/companies/edmonton-opera.md"]
 slug = "vanessa-oudereimerink"
 title = "Vanessa Oude-Reimerink"
 website = "http://vanessaoudereimerink.com/"

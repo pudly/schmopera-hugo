@@ -5,6 +5,7 @@ lastmod = "2017-10-23T13:00:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508777816398/LaurenFagan-8%20CREDIT%20Victoria%20Cadisch.jpg.jpg"
 primary_image_credit = "Victoria Cadisch"
 publishDate = "2017-10-23T13:00:00-04:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/opera-holland-park.md"]
 slug = "lauren-fagan"
 title = "Lauren Fagan"
 [[social_media]]

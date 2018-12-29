@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-06-10T21:37:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433986396289/Updated_Headshot_Emilyperagine_1.jpg.jpg"
 publishDate = "2015-06-10T21:37:00-04:00"
+related_companies = ["scene/companies/oberlin-college-and-conservatory.md"]
 slug = "emily-peragine"
 title = "Emily Peragine"
 [[social_media]]

@@ -4,6 +4,7 @@ discipline = "Bass-baritone"
 lastmod = "2017-10-13T21:58:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507946084709/erwin-schrott_pic1_thommymardo.jpg.jpg"
 publishDate = "2017-10-13T21:54:00-04:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/los-angeles-opera.md","scene/companies/washington-national-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/opernhaus-zurich.md","scene/companies/opra-national-de-paris.md","scene/companies/teatro-alla-scala.md"]
 slug = "erwin-schrott"
 title = "Erwin Schrott"
 website = "http://www.erwinschrott.com/index.php/de-DE/"

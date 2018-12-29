@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2016-10-15T11:57:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476528995038/2016-10-14---Christine-Buras.jpg.jpg"
 publishDate = "2016-10-15T11:57:00+01:00"
+related_companies = ["scene/companies/gestalt-arts.md"]
 slug = "christine-buras"
 title = "Christine Buras"
 website = "http://www.christineburas.com/"

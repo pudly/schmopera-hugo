@@ -5,6 +5,7 @@ lastmod = "2018-01-16T18:49:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516146319502/Susan%20Bullock%20High%20Res%203%20-%20credit%20Christina%20Raphaelle.jpg.jpg"
 primary_image_credit = "Christina Raphaelle"
 publishDate = "2018-01-16T18:49:00-05:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/royal-opera-house.md","scene/companies/canadian-opera-company.md","scene/companies/oper-frankfurt.md","scene/companies/houston-grand-opera.md","scene/companies/opera-north.md","scene/companies/scottish-opera.md","scene/companies/grange-park-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md"]
 slug = "susan-bullock"
 title = "Susan Bullock"
 [[social_media]]

@@ -5,6 +5,7 @@ lastmod = "2016-03-12T15:35:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457796853680/2016-03-12---Peter-Dugan---Gerard-Collett.jpg.jpg"
 primary_image_credit = "Gerard Collett"
 publishDate = "2016-03-12T15:35:00+00:00"
+related_companies = ["scene/companies/the-juilliard-school.md"]
 slug = "peter-dugan"
 title = "Peter Dugan"
 website = "http://www.peterduganpiano.com/"

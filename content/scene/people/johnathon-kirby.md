@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2015-08-19T19:40:00+02:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1440005863579/KirbyHeadshot-SeriousSquare.jpg.jpg"
 publishDate = "2015-08-19T19:40:00+02:00"
+related_companies = ["scene/companies/myopera.md","scene/companies/the-bicycle-opera-project.md","scene/companies/loose-tea-music-theatre.md","scene/companies/indie-opera-to.md"]
 slug = "johnathon-kirby"
 title = "Johnathon Kirby"
 website = "http://www.johnathonkirby.com/"

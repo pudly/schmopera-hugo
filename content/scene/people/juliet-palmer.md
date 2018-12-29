@@ -4,6 +4,7 @@ discipline = "Composer, Performer, Artistic Director, Urbanvessel"
 lastmod = "2015-07-23T17:17:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437686096908/juliet-head-shotSquare.jpg.jpg"
 publishDate = "2015-07-23T17:17:00-04:00"
+related_companies = ["scene/companies/urbanvessel.md","scene/companies/indie-opera-to.md"]
 slug = "juliet-palmer"
 title = "Juliet Palmer"
 website = "https://urbanvessel.wordpress.com/about/artistic-director/"

@@ -4,6 +4,7 @@ discipline = "Bass-baritone"
 lastmod = "2017-11-13T17:47:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510612773106/f2b22b_31cbea45cb5a4b50bc4c2fc7a495c832~mv2_d_2400_3600_s_4_2.webp"
 publishDate = "2017-11-13T17:47:00-05:00"
+related_companies = ["scene/companies/minnesota-opera.md","scene/companies/lyric-opera-of-chicago.md"]
 slug = "richard-ollarsaba"
 title = "Richard Ollarsaba"
 website = "https://www.richardollarsaba.com/"

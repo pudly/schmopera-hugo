@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-04-06T22:56:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428375296748/Chantale-Nurse-Headshot.jpg.jpg"
 publishDate = "2015-04-06T22:56:00-04:00"
+related_companies = ["scene/companies/highlands-opera-studio.md","scene/companies/lopra-de-montral.md","scene/companies/latelier-lyrique-de-lopra-de-montral.md"]
 slug = "chantale-nurse"
 title = "Chantale Nurse"
 website = "http://chantalenurse.com/Chantale_Nurse,_soprano/Home.html"

@@ -5,6 +5,7 @@ lastmod = "2017-03-15T11:39:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489577962969/2017-03-15---Alice_Coote_pc_Ben_Ealovega.jpg.jpg"
 primary_image_credit = "Ben Ealovega."
 publishDate = "2015-04-06T19:56:00+01:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/glyndebourne.md","scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/english-national-opera.md","scene/companies/welsh-national-opera.md","scene/companies/scottish-opera.md"]
 slug = "alice-coote"
 title = "Alice Coote"
 [[social_media]]

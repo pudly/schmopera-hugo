@@ -3,6 +3,7 @@ date = "2016-03-09T20:45:00+00:00"
 lastmod = "2016-03-09T20:45:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457556198841/Logo---MOG.jpg.jpg"
 publishDate = "2016-03-09T20:45:00+00:00"
+related_people = ["scene/people/matthew-sharp.md","scene/people/frederic-wakewalker.md","scene/people/julien-van-mellaerts.md"]
 slug = "mahogany-opera-group"
 title = "Mahogany Opera Group"
 type_of_company = "Opera Company"

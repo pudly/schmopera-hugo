@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2018-12-10T10:33:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428336212256/Aaron1_8x10-720x576.jpg.jpg"
 publishDate = "2015-04-06T12:03:00-04:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/vancouver-opera.md","scene/companies/vancouver-operas-yulanda-m-faris-young-artists-program.md","scene/companies/confidential-opera-project.md","scene/companies/tongue-in-cheek-productions.md"]
 slug = "aaron-durand"
 title = "Aaron Durand"
 website = "https://www.aarondurandbaritone.com/"

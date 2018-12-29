@@ -3,6 +3,7 @@ date = "2016-04-05T15:47:00+01:00"
 lastmod = "2016-04-05T15:47:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459867617746/Logo---Grange-Park-Opera.jpg.jpg"
 publishDate = "2016-04-05T15:47:00+01:00"
+related_people = ["scene/people/bryan-register.md","scene/people/flora-mcintosh.md","scene/people/james-laing.md","scene/people/richard-immergluck.md","scene/people/martha-jones.md","scene/people/clive-bayley.md","scene/people/paul-curievici.md","scene/people/susan-bullock.md"]
 slug = "grange-park-opera"
 title = "Grange Park Opera"
 type_of_company = "Opera Company"

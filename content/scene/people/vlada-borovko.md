@@ -5,6 +5,7 @@ lastmod = "2018-10-28T19:30:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540769209079/red%2011%20anisimova%20natalia.jpg.jpg"
 primary_image_credit = "Natalia Anisimova"
 publishDate = "2016-10-03T11:41:00-04:00"
+related_companies = ["scene/companies/royal-opera-house.md"]
 slug = "vlada-borovko"
 title = "Vlada Borovko"
 website = "http://vladaborovko.com/"

@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2018-02-07T16:49:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518039866011/Jacquelyn_630.jpg.jpg"
 publishDate = "2018-02-07T16:49:00-05:00"
+related_companies = ["scene/companies/royal-opera-house.md"]
 slug = "jacquelyn-stucker"
 title = "Jacquelyn Stucker"
 website = "http://www.jacquelynstucker.com/home-juke/"

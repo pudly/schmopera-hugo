@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2015-11-22T21:24:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448245479667/2015-11-21---Marcel-d'Entremont.jpg.jpg"
 publishDate = "2015-11-22T21:24:00-05:00"
+related_companies = ["scene/companies/jeunesses-musicales-canada.md"]
 slug = "marcel-dentremont"
 title = "Marcel d&#039;Entremont"
 +++

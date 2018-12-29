@@ -3,6 +3,7 @@ date = "2015-04-04T23:21:00-04:00"
 lastmod = "2015-04-04T23:21:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428204066553/mzl.yxwpofpn.jpg.jpg"
 publishDate = "2015-04-04T23:21:00-04:00"
+related_people = ["scene/people/abigail-richardson-schulte.md","scene/people/barbara-hannigan.md","scene/people/erin-wall.md","scene/people/julie-boulianne.md","scene/people/lauren-segal.md","scene/people/lawrence-wiliford.md","scene/people/leslie-ann-bradley.md","scene/people/isaiah-bell.md","scene/people/timothy-vernon.md","scene/people/britton-riley.md","scene/people/aaron-schwebel.md","scene/people/richard-margison.md","scene/people/andrew-staples.md","scene/people/teng-li.md","scene/people/colin-balzer.md","scene/people/abigail-levis.md","scene/people/yulia-van-doren.md","scene/people/andrew-tees.md","scene/people/aline-kutan.md","scene/people/daniel-taylor.md","scene/people/alfred-walker.md","scene/people/benjamin-butterfield.md","scene/people/jan-lisiecki.md","scene/people/marianne-fiset.md","scene/people/susan-platts.md","scene/people/measha-brueggergosman.md"]
 slug = "toronto-symphony-orchestra"
 title = "Toronto Symphony Orchestra"
 type_of_company = "Orchestra"

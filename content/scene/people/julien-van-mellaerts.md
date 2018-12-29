@@ -5,6 +5,7 @@ lastmod = "2017-09-06T21:52:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504749131622/Julian_Melearts_promo-900x626.jpg.jpg"
 primary_image_credit = "Diana Roberts"
 publishDate = "2017-09-06T21:52:00-04:00"
+related_companies = ["scene/companies/mahogany-opera-group.md","scene/companies/opera-holland-park.md"]
 slug = "julien-van-mellaerts"
 title = "Julien Van Mellaerts"
 website = "https://www.julienvanmellaerts.com/"

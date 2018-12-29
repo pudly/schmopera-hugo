@@ -3,6 +3,7 @@ date = "2017-02-07T14:15:00+00:00"
 lastmod = "2017-02-07T14:15:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486476890211/2017-02-07---VCO-Logo.jpg.jpg"
 publishDate = "2017-02-07T14:15:00+00:00"
+related_people = ["scene/people/whitney-mather.md"]
 slug = "vera-causa-opera"
 title = "Vera Causa Opera"
 type_of_company = "Opera Company"

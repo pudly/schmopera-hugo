@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-08-03T12:59:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501779501193/Daniel-38.jpeg"
 publishDate = "2017-08-03T12:59:00-04:00"
+related_companies = ["scene/companies/manitoba-opera.md","scene/companies/edmonton-opera.md","scene/companies/the-bicycle-opera-project.md"]
 slug = "catherine-daniel"
 title = "Catherine Daniel"
 website = "http://catherinedaniel.com/bio/"

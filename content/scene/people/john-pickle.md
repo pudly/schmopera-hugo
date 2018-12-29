@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-10-07T10:57:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507387868364/Pickle.J.Headshot.jpg.jpg"
 publishDate = "2017-10-07T10:55:00-04:00"
+related_companies = ["scene/companies/nashville-opera.md","scene/companies/los-angeles-opera.md","scene/companies/lyric-opera-of-kansas-city.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/florida-grand-opera.md"]
 slug = "john-pickle"
 title = "John Pickle"
 website = "https://www.johnpickletenor.com/"

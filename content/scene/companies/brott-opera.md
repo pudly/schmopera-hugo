@@ -3,6 +3,7 @@ date = "2015-03-30T21:55:00-04:00"
 lastmod = "2015-10-31T14:03:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446314572165/Logo---BO.jpg.jpg"
 publishDate = "2015-03-30T21:55:00-04:00"
+related_people = ["scene/people/boris-brott.md","scene/people/elizabeth-polese.md","scene/people/sinead-white.md","scene/people/rich-coburn.md"]
 slug = "brott-opera"
 title = "Brott Opera"
 type_of_company = "Summer Opera Program"

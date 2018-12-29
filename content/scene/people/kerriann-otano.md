@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-11-08T16:57:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510178095687/Otano.jpg.jpg"
 publishDate = "2017-11-08T16:57:00-05:00"
+related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/washington-national-opera.md"]
 slug = "kerriann-otano"
 title = "Kerriann Otaño"
 website = "https://kerriannotano.com/"

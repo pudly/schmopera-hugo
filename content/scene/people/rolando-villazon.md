@@ -5,6 +5,7 @@ lastmod = "2016-02-17T20:57:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455760419206/MichaelFabiano.jpg.jpg"
 primary_image_credit = "Arielle Doneson"
 publishDate = "2016-02-17T20:57:00-05:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/royal-opera-house.md","scene/companies/opra-national-de-paris.md"]
 slug = "rolando-villazon"
 title = "Michael Fabiano"
 website = "http://michaelfabianotenor.com/"

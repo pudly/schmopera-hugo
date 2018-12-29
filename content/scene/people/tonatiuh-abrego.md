@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2015-11-22T21:30:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448245726392/tonatiuh-abrego-dc.jpg.jpg"
 publishDate = "2015-11-22T21:30:00-05:00"
+related_companies = ["scene/companies/calgary-opera-emerging-artist-development-program.md","scene/companies/opera-nuova.md","scene/companies/the-banff-centre.md","scene/companies/opera-mcgill.md","scene/companies/jeunesses-musicales-canada.md"]
 slug = "tonatiuh-abrego"
 title = "Tonatiuh Abrego"
 [[social_media]]

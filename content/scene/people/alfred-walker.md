@@ -5,6 +5,7 @@ lastmod = "2017-09-05T14:53:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504637257318/Alfred%2520Walker%2520Square_o.jpg.jpg"
 primary_image_credit = "Walter Hill"
 publishDate = "2017-09-05T14:53:00-04:00"
+related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/seattle-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/teatro-alla-scala.md","scene/companies/los-angeles-opera.md","scene/companies/the-atlanta-opera.md","scene/companies/minnesota-opera.md","scene/companies/utah-opera.md","scene/companies/opera-north.md","scene/companies/san-diego-opera.md","scene/companies/toronto-symphony-orchestra.md"]
 slug = "alfred-walker"
 title = "Alfred Walker"
 +++

@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-10-15T18:52:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508107544712/Amber_Wagner_pc_TK_1_300dpi.jpg.jpg"
 publishDate = "2017-10-15T18:50:00-04:00"
+related_companies = ["scene/companies/vancouver-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/the-metropolitan-opera.md","scene/companies/opera-australia.md","scene/companies/minnesota-opera.md","scene/companies/arizona-opera.md","scene/companies/palm-beach-opera.md","scene/companies/washington-national-opera.md"]
 slug = "amber-wagner"
 title = "Amber Wagner"
 [[social_media]]

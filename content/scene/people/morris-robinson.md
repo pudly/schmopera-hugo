@@ -5,6 +5,7 @@ lastmod = "2017-10-15T20:41:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508114496038/MRobinson%20Ron%20Cadiz.jpg.jpg"
 primary_image_credit = "Ron Cadiz"
 publishDate = "2017-10-15T20:41:00-04:00"
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/the-dallas-opera.md","scene/companies/houston-grand-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/seattle-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/opera-philadelphia.md"]
 slug = "morris-robinson"
 title = "Morris Robinson"
 website = "http://morrisrobinson.com/"

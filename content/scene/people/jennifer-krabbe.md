@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-05-01T16:29:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446172887890/15-10-29---JenKrabbeSquare.jpg.jpg"
 publishDate = "2015-10-29T22:41:00-04:00"
+related_companies = ["scene/companies/collectif.md"]
 slug = "jennifer-krabbe"
 title = "Jennifer Krabbe"
 website = "http://www.jenniferkrabbe.com/"

@@ -5,6 +5,7 @@ lastmod = "2017-03-15T10:44:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451330819901/Square.jpg.jpg"
 primary_image_credit = "Christian Steiner"
 publishDate = "2015-09-25T19:43:00+01:00"
+related_companies = ["scene/companies/opera-atelier.md","scene/companies/houston-grand-opera.md","scene/companies/wolf-trap-opera.md","scene/companies/san-francisco-opera.md","scene/companies/utah-opera.md"]
 slug = "daniel-belcher"
 title = "Daniel Belcher"
 website = "http://www.danielbelcherbaritone.com/"

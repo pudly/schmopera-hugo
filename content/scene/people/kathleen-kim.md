@@ -5,6 +5,7 @@ lastmod = "2016-08-19T10:27:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471598852587/2016-08-19---Kathleen-Kim-Taeuk-Kang.jpg.jpg"
 primary_image_credit = "Taeuk Kang."
 publishDate = "2016-08-19T10:27:00+01:00"
+related_companies = ["scene/companies/glyndebourne.md","scene/companies/the-metropolitan-opera.md"]
 slug = "kathleen-kim"
 title = "Kathleen Kim"
 website = "http://kathleenkim.com/"

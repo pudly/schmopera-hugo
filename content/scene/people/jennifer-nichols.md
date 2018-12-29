@@ -4,6 +4,7 @@ discipline = "Dancer, choreographer"
 lastmod = "2015-12-19T11:03:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450541021128/Jennifer-Nichols.jpg.jpg"
 publishDate = "2015-12-19T11:03:00-05:00"
+related_companies = ["scene/companies/opera-atelier.md","scene/companies/against-the-grain-theatre.md","scene/companies/canadian-art-song-project.md"]
 slug = "jennifer-nichols"
 title = "Jennifer Nichols"
 website = "http://www.extensionmethod.com/"

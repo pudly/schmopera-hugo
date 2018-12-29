@@ -4,6 +4,7 @@ discipline = "Director"
 lastmod = "2015-04-12T12:42:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428856927164/Diamond-Bathroom-Divas-Season-2-Press-Stills-040.jpg.jpg"
 publishDate = "2015-04-12T12:42:00-04:00"
+related_companies = ["scene/companies/pacific-opera-victoria.md","scene/companies/canadian-opera-company.md","scene/companies/opera-lyra-ottawa.md","scene/companies/opera-mcgill.md"]
 slug = "tom-diamond"
 title = "Tom Diamond"
 +++

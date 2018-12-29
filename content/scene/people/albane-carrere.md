@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-09-20T21:04:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505955559969/Albane_Carrere_64c78d4485874983e8e72a8007b70b28.jpg.jpg"
 publishDate = "2017-09-20T21:04:00-04:00"
+related_companies = ["scene/companies/la-monnaie.md"]
 slug = "albane-carrere"
 title = "Albane Carrère"
 website = "http://albane-carrere.com/en/index.html"

@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2015-04-07T09:12:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428411807553/ChrisEnns.jpg.jpg"
 publishDate = "2015-04-07T09:05:00-04:00"
+related_companies = ["scene/companies/opera-atelier.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/tapestry-opera.md","scene/companies/saskatoon-opera.md"]
 slug = "christopher-enns"
 title = "Christopher Enns"
 website = "http://www.ragstoreasonable.com/"

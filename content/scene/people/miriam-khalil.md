@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-04-13T17:51:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428961753517/KHALIL-PHOTO2.jpg.jpg"
 publishDate = "2015-04-13T17:51:00-04:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/opera-lyra-ottawa.md","scene/companies/glyndebourne.md","scene/companies/edmonton-opera.md"]
 slug = "miriam-khalil"
 title = "Miriam Khalil"
 website = "http://www.miriamkhalil.com/Home.html"

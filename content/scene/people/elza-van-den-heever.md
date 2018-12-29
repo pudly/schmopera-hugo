@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2016-08-24T18:02:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472058054656/2016-08-25---Elza-van-den-Heever.jpg.jpg"
 publishDate = "2016-08-24T18:02:00+01:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/english-national-opera.md","scene/companies/san-francisco-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/the-dallas-opera.md","scene/companies/bayerische-staatsoper.md"]
 slug = "elza-van-den-heever"
 title = "Elza van den Heever"
 website = "http://www.elzavandenheever.com/"

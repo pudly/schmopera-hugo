@@ -5,6 +5,7 @@ lastmod = "2016-08-19T10:18:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471598234390/2016-08-19---Kate-Royal.jpg.jpg"
 primary_image_credit = "Esther Haase/EMI Classics"
 publishDate = "2016-08-19T10:18:00+01:00"
+related_companies = ["scene/companies/glyndebourne.md","scene/companies/english-national-opera.md","scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md"]
 slug = "kate-royal"
 title = "Kate Royal"
 +++

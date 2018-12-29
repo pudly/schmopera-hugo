@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-01-28T10:08:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485598034293/168024_10150141974745605_584820604_8495384_4095880_n.jpg.jpg"
 publishDate = "2017-01-28T10:08:00+00:00"
+related_companies = ["scene/companies/nashville-opera.md","scene/companies/wolf-trap-opera.md","scene/companies/brooklyn-academy-of-music.md"]
 slug = "melisa-bonetti"
 title = "Melisa Bonetti"
 website = "http://melisabonettimezzo.com/"

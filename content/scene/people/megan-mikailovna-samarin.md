@@ -5,6 +5,7 @@ lastmod = "2017-10-29T12:10:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509293222595/Megan_Samarin_pc_Simon_Pauly_1.jpg.jpg"
 primary_image_credit = "Simon Pauly"
 publishDate = "2017-10-29T12:10:00-04:00"
+related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/opera-on-the-avalon.md"]
 slug = "megan-mikailovna-samarin"
 title = "Megan Mikailovna Samarin"
 website = "http://www.megansamarin.com/"

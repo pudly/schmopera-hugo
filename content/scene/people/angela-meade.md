@@ -5,6 +5,7 @@ lastmod = "2017-03-15T12:33:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428370654707/ANGELA_MEADE_6799.jpg.jpg"
 primary_image_credit = "Dario Acosta"
 publishDate = "2015-04-07T02:39:00+01:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md"]
 slug = "angela-meade"
 title = "Angela Meade"
 website = "http://angelameade.com/"

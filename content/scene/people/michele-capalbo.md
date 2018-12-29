@@ -5,6 +5,7 @@ lastmod = "2018-04-18T10:17:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524060891206/Michele_Capalbo.jpg.jpg"
 primary_image_credit = "Leslie Hassler Studio"
 publishDate = "2018-04-18T10:17:00-04:00"
+related_companies = ["scene/companies/edmonton-opera.md","scene/companies/canadian-opera-company.md","scene/companies/san-francisco-opera.md"]
 slug = "michele-capalbo"
 title = "Michele Capalbo"
 website = "http://www.michelecapalbo.com/index.html"

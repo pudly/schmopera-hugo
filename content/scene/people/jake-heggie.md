@@ -5,6 +5,7 @@ lastmod = "2016-03-09T20:13:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457554067220/Jake-Heggie-by-Ellen-Appel.jpg.jpg"
 primary_image_credit = "Ellen Appel"
 publishDate = "2016-03-09T20:13:00+00:00"
+related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/the-dallas-opera.md","scene/companies/lopra-de-montral.md","scene/companies/calgary-opera.md","scene/companies/the-atlanta-opera.md"]
 slug = "jake-heggie"
 title = "Jake Heggie"
 website = "http://jakeheggie.com/"

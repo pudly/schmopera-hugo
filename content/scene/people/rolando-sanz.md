@@ -5,6 +5,7 @@ lastmod = "2016-02-03T18:23:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454541077629/2016-02-03---Rolando-Sanz---Kristin-Hoebermann.jpg.jpg"
 primary_image_credit = "Kristin Hoebermann"
 publishDate = "2016-02-03T18:15:00-05:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/florida-grand-opera.md"]
 slug = "rolando-sanz"
 title = "Rolando Sanz"
 website = "http://www.rolandosanz.com/"

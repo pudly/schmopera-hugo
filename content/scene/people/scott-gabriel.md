@@ -4,6 +4,7 @@ discipline = "Conductor, performer, teacher"
 lastmod = "2015-07-29T21:50:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438220879387/ScottGabriel.jpg.jpg"
 publishDate = "2015-07-29T21:50:00-04:00"
+related_companies = ["scene/companies/the-friends-of-gravity.md","scene/companies/indie-opera-to.md"]
 slug = "scott-gabriel"
 title = "Scott Gabriel"
 website = "http://thefriendsofgravity.org/2014/10/29/arranger-and-conductor-scott-gabriel/"

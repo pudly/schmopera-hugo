@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-05-13T19:23:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494717756693/12079101_1054943234524208_4073166306482837219_n.jpg%3Foh%3D8d3f977526d4cbb45397d3c587e5bdb5%26oe%3D59B1CD83"
 publishDate = "2017-05-13T19:23:00-04:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/lopra-de-montral.md"]
 slug = "kimy-mclaren"
 title = "Kimy McLaren"
 website = "https://www.kimymclaren.com/"

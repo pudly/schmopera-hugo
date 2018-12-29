@@ -5,6 +5,7 @@ lastmod = "2016-06-10T11:40:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465555071751/2016-06-10---Penar.jpg.jpg"
 primary_image_credit = "Photo: Brent Calis"
 publishDate = "2016-06-10T11:40:00+01:00"
+related_companies = ["scene/companies/opera-mcgill.md","scene/companies/opera-5.md"]
 slug = "geoffrey-penar"
 title = "Geoffrey Penar"
 website = "http://geoffreypenar.com/"

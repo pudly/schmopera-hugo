@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2018-01-27T21:35:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517106650382/Michael-Chioldi---pc---Peter-Konerko.jpg.jpg"
 publishDate = "2018-01-27T21:35:00-05:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/palm-beach-opera.md","scene/companies/washington-national-opera.md","scene/companies/san-francisco-opera.md","scene/companies/los-angeles-opera.md","scene/companies/houston-grand-opera.md","scene/companies/royal-opera-house.md","scene/companies/glimmerglass-festival.md","scene/companies/arizona-opera.md","scene/companies/utah-opera.md"]
 slug = "michael-chioldi"
 title = "Michael Chioldi"
 website = "http://www.michaelchioldi.com/index.php"

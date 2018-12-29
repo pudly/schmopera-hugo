@@ -5,6 +5,7 @@ lastmod = "2018-03-06T08:47:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520343870085/Benjamin-Bernheim-Richard-Boll-807x1030.jpg.jpg"
 primary_image_credit = "Richard Boll."
 publishDate = "2018-03-06T08:46:00-05:00"
+related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/royal-opera-house.md","scene/companies/opernhaus-zurich.md","scene/companies/staatsoper-berlin.md","scene/companies/deutsche-oper-berlin.md","scene/companies/wiener-staatsoper.md","scene/companies/semperoper-dresden.md"]
 slug = "benjamin-bernheim"
 title = "Benjamin Bernheim"
 website = "http://benjaminbernheim.com/"

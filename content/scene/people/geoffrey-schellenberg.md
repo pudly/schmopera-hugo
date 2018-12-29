@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2018-04-21T21:41:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524361251176/GeoffreySchellenberg000_WEBsmall.jpg.jpg"
 publishDate = "2018-04-21T21:41:00-04:00"
+related_companies = ["scene/companies/calgary-opera-emerging-artist-development-program.md","scene/companies/calgary-opera.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md","scene/companies/vancouver-opera.md"]
 slug = "geoffrey-schellenberg"
 title = "Geoffrey Schellenberg"
 website = "https://www.geoffreyschellenberg.com/"

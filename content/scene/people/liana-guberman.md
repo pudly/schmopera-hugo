@@ -5,6 +5,7 @@ lastmod = "2016-09-11T18:50:00+02:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473612475374/2016-09-11---LianaBrookeGuberman---Hoebermann.jpg.jpg"
 primary_image_credit = "Kristen Hoebermann"
 publishDate = "2016-09-11T18:50:00+02:00"
+related_companies = ["scene/companies/palm-beach-opera.md","scene/companies/loftopera.md"]
 slug = "liana-guberman"
 title = "Liana Guberman"
 website = "http://lianabrookeguberman.com/index.html"

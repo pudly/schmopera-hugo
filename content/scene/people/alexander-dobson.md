@@ -5,6 +5,7 @@ lastmod = "2017-03-15T11:33:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447822573442/2015-11-18---Dobson-pc-M%C3%A9lissa-Tremblay.jpg.jpg"
 primary_image_credit = "Mélissa Tremblay"
 publishDate = "2015-11-18T04:54:00+00:00"
+related_companies = ["scene/companies/tapestry-opera.md","scene/companies/against-the-grain-theatre.md","scene/companies/calgary-opera.md","scene/companies/pacific-opera-victoria.md","scene/companies/lopra-de-montral.md","scene/companies/opra-de-qubec.md","scene/companies/fawn-chamber-creative.md","scene/companies/indie-opera-to.md","scene/companies/westben-arts-festival-theatre.md","scene/companies/coleman-lemieux-compagnie.md"]
 slug = "alexander-dobson"
 title = "Alexander Dobson"
 +++

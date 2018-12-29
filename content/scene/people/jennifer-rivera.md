@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2016-01-04T14:16:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451934841924/2016-01-04---JenniferRivera.jpg.jpg"
 publishDate = "2016-01-04T14:16:00-05:00"
+related_companies = ["scene/companies/florida-grand-opera.md","scene/companies/the-dallas-opera.md","scene/companies/staatsoper-berlin.md","scene/companies/central-city-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/the-juilliard-school.md","scene/companies/the-metropolitan-opera.md"]
 slug = "jennifer-rivera"
 title = "Jennifer Rivera"
 website = "http://www.jenniferrivera.com/"

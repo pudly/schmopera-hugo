@@ -5,6 +5,7 @@ lastmod = "2017-03-15T12:17:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428347416910/AndreaLudwig-pc-BoHuang.jpg.jpg"
 primary_image_credit = "Bo Huang"
 publishDate = "2015-04-06T20:11:00+01:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/tapestry-opera.md","scene/companies/talisker-players.md"]
 slug = "andrea-ludwig"
 title = "Andrea Ludwig"
 website = "http://andrealudwig.ca/"

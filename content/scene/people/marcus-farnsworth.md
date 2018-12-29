@@ -5,6 +5,7 @@ lastmod = "2016-05-30T17:34:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464625972939/2016-05-31---Marcus-Farnsworth.jpg.jpg"
 primary_image_credit = "Benjamin Ealovega "
 publishDate = "2016-05-30T17:34:00+01:00"
+related_companies = ["scene/companies/aurora-orchestra.md","scene/companies/welsh-national-opera.md","scene/companies/english-national-opera.md","scene/companies/royal-opera-house.md"]
 slug = "marcus-farnsworth"
 title = "Marcus Farnsworth"
 website = "http://marcusfarnsworth.com/"

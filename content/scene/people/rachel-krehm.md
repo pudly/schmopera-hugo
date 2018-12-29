@@ -4,6 +4,7 @@ discipline = "Soprano, General Director of Opera 5"
 lastmod = "2016-05-14T14:06:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463230990521/2016-05-15---Rachel-Krehm-headshot.jpg.jpg"
 publishDate = "2015-04-12T03:37:00+01:00"
+related_companies = ["scene/companies/opera-5.md","scene/companies/opera-on-the-avalon.md","scene/companies/opera-by-request.md","scene/companies/indie-opera-to.md"]
 slug = "rachel-krehm"
 title = "Rachel Krehm"
 website = "http://www.rachelkrehm.com/"

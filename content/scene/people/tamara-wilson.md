@@ -5,6 +5,7 @@ lastmod = "2017-09-17T15:05:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505675111307/wilson5.jpg.jpg"
 primary_image_credit = "Cassandra Kay"
 publishDate = "2015-04-12T21:42:00-04:00"
+related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/los-angeles-opera.md","scene/companies/washington-national-opera.md"]
 slug = "tamara-wilson"
 title = "Tamara Wilson"
 website = "http://www.tamarawilsonsoprano.com/index.html"

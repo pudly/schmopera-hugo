@@ -4,6 +4,7 @@ discipline = "Bass-baritone"
 lastmod = "2018-05-11T20:54:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526086391612/916938_4d1740926a734a4d93744412f5993a41~mv2_d_2400_2780_s_4_2.png"
 publishDate = "2018-05-11T20:54:00-04:00"
+related_companies = ["scene/companies/glimmerglass-festival.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/portland-opera.md","scene/companies/semperoper-dresden.md","scene/companies/des-moines-metro-opera.md","scene/companies/opera-north.md"]
 slug = "derrell-acon"
 title = "Derrell Acon"
 +++

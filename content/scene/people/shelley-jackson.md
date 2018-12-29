@@ -5,6 +5,7 @@ lastmod = "2016-07-13T08:59:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468421651358/2016-07-13---Shelley-Jackson---Hoebermann.jpg.jpg"
 primary_image_credit = "Kristin Hoebermann"
 publishDate = "2016-07-13T08:59:00-06:00"
+related_companies = ["scene/companies/opernhaus-zurich.md","scene/companies/the-santa-fe-opera.md"]
 slug = "shelley-jackson"
 title = "Shelley Jackson"
 website = "http://shelleyjacksonsoprano.com/"

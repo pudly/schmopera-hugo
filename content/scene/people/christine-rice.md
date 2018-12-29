@@ -5,6 +5,7 @@ lastmod = "2016-10-01T12:55:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475322878067/2016-10-01---Christine-Rice-9-Patricia-Taylor.jpg.jpg"
 primary_image_credit = "Patricia Taylor"
 publishDate = "2016-10-01T12:55:00+01:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/royal-opera-house.md","scene/companies/staatsoper-berlin.md","scene/companies/deutsche-oper-berlin.md","scene/companies/the-metropolitan-opera.md"]
 slug = "christine-rice"
 title = "Christine Rice"
 +++

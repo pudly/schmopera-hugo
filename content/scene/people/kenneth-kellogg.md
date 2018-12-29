@@ -5,6 +5,7 @@ lastmod = "2017-05-13T19:03:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494716398253/Kenneth-Kellogg-Valentina-Sadiul-687x1030.jpg.jpg"
 primary_image_credit = "Valentina Sadiul"
 publishDate = "2017-05-13T19:03:00-04:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/los-angeles-opera.md","scene/companies/san-francisco-opera.md","scene/companies/washington-national-opera.md","scene/companies/the-atlanta-opera.md","scene/companies/canadian-opera-company.md"]
 slug = "kenneth-kellogg"
 title = "Kenneth Kellogg"
 website = "http://www.kennethkellogg.com/index.html"

@@ -5,6 +5,7 @@ lastmod = "2017-09-20T21:27:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505957035770/Louise%20Alder%20-%20Credit%20Gerard%20Collett%203.jpg.jpg"
 primary_image_credit = "William Alder"
 publishDate = "2017-09-20T21:27:00-04:00"
+related_companies = ["scene/companies/classical-opera.md","scene/companies/glyndebourne.md","scene/companies/oper-frankfurt.md","scene/companies/garsington-opera.md","scene/companies/royal-opera-house.md","scene/companies/welsh-national-opera.md"]
 slug = "louise-alder"
 title = "Louise Alder"
 website = "http://www.louisealder.co.uk/"

@@ -5,6 +5,7 @@ lastmod = "2016-09-11T19:02:00+02:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473613236145/2016-09-11---Jenna-Siladie-HS.jpg.jpg"
 primary_image_credit = "Shawn Flynt Blair Photography"
 publishDate = "2016-09-11T19:02:00+02:00"
+related_companies = ["scene/companies/opera-north.md"]
 slug = "jenna-siladie"
 title = "Jenna Siladie"
 website = "http://www.jennasiladie.com/"

@@ -5,6 +5,7 @@ lastmod = "2015-10-11T10:22:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444573087632/Daniel_Cabena_Headshot_2015_5x7Square.jpg.jpg"
 primary_image_credit = "Photo by Veronika Roux"
 publishDate = "2015-10-11T10:22:00-04:00"
+related_companies = ["scene/companies/lopra-de-montral.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
 slug = "daniel-cabena"
 title = "Daniel Cabena"
 website = "http://danielcabena.com/"

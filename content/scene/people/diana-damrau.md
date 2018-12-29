@@ -5,6 +5,7 @@ lastmod = "2015-04-07T16:34:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428438771523/DianaDamrau-pc-TaniaNiemann.jpg.jpg"
 primary_image_credit = "Tania Niemann"
 publishDate = "2015-04-07T16:34:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md","scene/companies/teatro-alla-scala.md","scene/companies/royal-opera-house.md"]
 slug = "diana-damrau"
 title = "Diana Damrau"
 website = "http://diana-damrau.com/"

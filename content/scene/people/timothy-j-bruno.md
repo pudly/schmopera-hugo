@@ -4,6 +4,7 @@ discipline = "Bass"
 lastmod = "2018-01-21T17:25:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516573299984/49edit.jpg%3Fformat%3D2500w"
 publishDate = "2018-01-21T17:25:00-05:00"
+related_companies = ["scene/companies/washington-national-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/wolf-trap-opera.md"]
 slug = "timothy-j-bruno"
 title = "Timothy J. Bruno"
 website = "http://www.timothyjbruno.com/"

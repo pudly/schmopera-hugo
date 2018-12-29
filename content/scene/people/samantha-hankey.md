@@ -5,6 +5,7 @@ lastmod = "2018-05-30T19:42:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527723389039/Samantha%2BHankey%2BHeadshot%2Bby%2BJiyang%2BChen.jpg.jpg"
 primary_image_credit = "Jiyang Chen."
 publishDate = "2018-05-30T19:42:00-04:00"
+related_companies = ["scene/companies/merola-opera-program.md","scene/companies/opera-philadelphia.md","scene/companies/the-juilliard-school.md"]
 slug = "samantha-hankey"
 title = "Samantha Hankey"
 website = "http://www.samanthahankey.com/"

@@ -5,6 +5,7 @@ lastmod = "2016-10-11T11:17:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428850339591/osborne5.jpg.jpg"
 primary_image_credit = "Bo Huang."
 publishDate = "2015-04-12T15:59:00+01:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/vancouver-opera.md","scene/companies/edmonton-opera.md"]
 slug = "simone-osborne"
 title = "Simone Osborne"
 [[social_media]]

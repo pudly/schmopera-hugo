@@ -5,6 +5,7 @@ lastmod = "2015-09-22T08:50:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442886433518/Siurina-4Square.jpg.jpg"
 primary_image_credit = "Photo courtesy of Askonas Holt Artists."
 publishDate = "2015-09-21T21:51:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/royal-opera-house.md","scene/companies/deutsche-oper-berlin.md","scene/companies/opra-national-de-paris.md"]
 slug = "ekaterina-siurina"
 title = "Ekaterina Siurina"
 website = "http://www.ekaterinasiurina.com/"

@@ -4,6 +4,7 @@ discipline = "Pianist, composer"
 lastmod = "2017-12-18T10:50:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513611994127/Rich%20Coburn%20headshot.jpg.jpg"
 publishDate = "2017-12-18T10:50:00-05:00"
+related_companies = ["scene/companies/latelier-lyrique-de-lopra-de-montral.md","scene/companies/cowtown-opera-company.md","scene/companies/brott-opera.md","scene/companies/opera-mcgill.md"]
 slug = "rich-coburn"
 title = "Rich Coburn"
 website = "http://www.richcoburn.com/"

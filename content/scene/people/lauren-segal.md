@@ -5,6 +5,7 @@ lastmod = "2015-04-26T00:09:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430021325465/lauren_segal.jpg.jpg"
 primary_image_credit = "Helen Tansey"
 publishDate = "2015-04-08T10:20:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/calgary-opera.md","scene/companies/tapestry-opera.md","scene/companies/against-the-grain-theatre.md","scene/companies/opra-de-qubec.md","scene/companies/lopra-de-montral.md","scene/companies/toronto-symphony-orchestra.md"]
 slug = "lauren-segal"
 title = "Lauren Segal"
 website = "http://www.laurensegal.com/"

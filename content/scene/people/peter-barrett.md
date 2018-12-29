@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2015-04-18T18:31:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429396290418/BARRETT-Peter-300x440.jpg.jpg"
 publishDate = "2015-04-18T18:31:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/the-metropolitan-opera.md","scene/companies/vancouver-opera.md"]
 slug = "peter-barrett"
 title = "Peter Barrett"
 +++

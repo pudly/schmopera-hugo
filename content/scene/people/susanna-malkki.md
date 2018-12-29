@@ -5,6 +5,7 @@ lastmod = "2016-02-18T10:27:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455809125810/2016-02-18---Susanna-Malkki---Simon-Fowler.jpg.jpg"
 primary_image_credit = "Simon Fowler"
 publishDate = "2016-02-18T10:27:00-05:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md"]
 slug = "susanna-malkki"
 title = "Susanna Mälkki"
 +++

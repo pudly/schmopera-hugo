@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2016-02-17T20:43:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455759719721/Pretty-BWSquare.jpg.jpg"
 publishDate = "2016-02-17T20:43:00-05:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/opernhaus-zurich.md","scene/companies/teatro-alla-scala.md","scene/companies/deutsche-oper-berlin.md","scene/companies/royal-opera-house.md"]
 slug = "pretty-yende"
 title = "Pretty Yende"
 [[social_media]]

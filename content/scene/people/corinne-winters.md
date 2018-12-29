@@ -5,6 +5,7 @@ lastmod = "2016-04-23T20:51:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461440794230/2016-04-23---Corinne-Winters-Fay-Fox.jpg.jpg"
 primary_image_credit = "Fay Fox"
 publishDate = "2016-04-23T20:51:00+01:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/opernhaus-zurich.md","scene/companies/royal-opera-house.md","scene/companies/san-diego-opera.md","scene/companies/arizona-opera.md","scene/companies/opera-lyra-ottawa.md","scene/companies/the-santa-fe-opera.md","scene/companies/opera-theatre-of-st-louis.md"]
 slug = "corinne-winters"
 title = "Corinne Winters"
 website = "http://corinnewinters.com/home/"

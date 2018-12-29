@@ -5,6 +5,7 @@ lastmod = "2018-06-11T18:51:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528757175974/Credit%20Sussie%20Ahlburg%206.jpg.jpg"
 primary_image_credit = "Sussie Ahlburg."
 publishDate = "2018-06-11T18:47:00-04:00"
+related_companies = ["scene/companies/the-grange-festival.md","scene/companies/english-national-opera.md","scene/companies/oper-frankfurt.md","scene/companies/seattle-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/glyndebourne.md"]
 slug = "jonathan-lemalu"
 title = "Jonathan Lemalu"
 website = "https://jonathanlemalu.com/"

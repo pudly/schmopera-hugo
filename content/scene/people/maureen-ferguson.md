@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2016-04-02T10:46:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459590350708/2016-04-02---Maureen-Ferguson.jpg.jpg"
 publishDate = "2016-04-02T10:46:00+01:00"
+related_companies = ["scene/companies/calgary-opera-emerging-artist-development-program.md","scene/companies/calgary-opera.md","scene/companies/highlands-opera-studio.md","scene/companies/halifax-summer-opera-festival.md"]
 slug = "maureen-ferguson"
 title = "Maureen Ferguson"
 website = "http://www.maureenferguson.com/"

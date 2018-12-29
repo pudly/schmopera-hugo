@@ -5,6 +5,7 @@ lastmod = "2016-11-08T10:02:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478599274817/2016-11-08---Teng-Li-Bo-Huang-Square.jpg.jpg"
 primary_image_credit = "Bo Huang."
 publishDate = "2016-11-08T10:02:00+00:00"
+related_companies = ["scene/companies/toronto-symphony-orchestra.md","scene/companies/curtis-institute-of-music.md"]
 slug = "teng-li"
 title = "Teng Li"
 website = "http://www.tengliviola.com/site/"

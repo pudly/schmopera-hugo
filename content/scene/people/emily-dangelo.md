@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2015-11-04T14:18:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446664636879/2015-11-04---Emily-D'Angelo---Square.jpg.jpg"
 publishDate = "2015-11-04T14:18:00-05:00"
+related_companies = ["scene/companies/cosi-centre-for-opera-studies-in-italy.md","scene/companies/halifax-summer-opera-festival.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/songfest.md"]
 slug = "emily-dangelo"
 title = "Emily D&#039;Angelo"
 website = "http://www.emilydangelo.com/"

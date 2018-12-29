@@ -5,6 +5,7 @@ lastmod = "2017-10-13T21:38:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507945128421/Bryan_Hymell-5371-2.jpg.jpg"
 primary_image_credit = "Dario Acosta"
 publishDate = "2017-10-13T21:38:00-04:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/opra-national-de-paris.md","scene/companies/canadian-opera-company.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md","scene/companies/english-national-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/the-santa-fe-opera.md","scene/companies/houston-grand-opera.md","scene/companies/merola-opera-program.md"]
 slug = "bryan-hymel"
 title = "Bryan Hymel"
 website = "http://bryanhymel.com/"

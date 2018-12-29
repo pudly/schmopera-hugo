@@ -5,6 +5,7 @@ lastmod = "2015-10-31T15:30:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446319670726/2015-10-31---Atelier---CarolineGelinas---Square.jpg.jpg"
 primary_image_credit = "Photo by Brent Calis"
 publishDate = "2015-10-31T15:30:00-04:00"
+related_companies = ["scene/companies/latelier-lyrique-de-lopra-de-montral.md"]
 slug = "caroline-gelinas"
 title = "Caroline Gélinas"
 website = "http://carolinegelinas.com/"

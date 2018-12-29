@@ -4,6 +4,7 @@ discipline = "Soprano, Founder & Artistic Director, Metro Youth Opera"
 lastmod = "2015-09-26T10:41:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443278477280/KateApplin.jpg.jpg"
 publishDate = "2015-04-12T23:56:00-04:00"
+related_companies = ["scene/companies/myopera.md","scene/companies/indie-opera-to.md"]
 slug = "kate-applin"
 title = "Kate Applin"
 website = "http://www.metroyouthopera.ca/"

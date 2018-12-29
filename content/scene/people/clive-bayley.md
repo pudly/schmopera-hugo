@@ -4,6 +4,7 @@ discipline = "Bass"
 lastmod = "2017-10-09T12:02:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507564947880/CliveBayley.jpg.jpg"
 publishDate = "2017-10-09T12:02:00-04:00"
+related_companies = ["scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md","scene/companies/grange-park-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/opera-north.md","scene/companies/welsh-national-opera.md"]
 slug = "clive-bayley"
 title = "Clive Bayley"
 +++

@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2018-05-11T20:11:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526083804405/kelly-griffin-headshot_2_orig.jpg.jpg"
 publishDate = "2018-05-11T20:11:00-04:00"
+related_companies = ["scene/companies/heartbeat-opera.md"]
 slug = "kelly-griffin"
 title = "Kelly Griffin"
 website = "https://www.kellygriffinsoprano.com/"

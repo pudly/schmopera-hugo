@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2015-09-29T16:10:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443557316354/Antonenko-AleksandrSquare.jpg.jpg"
 publishDate = "2015-09-29T16:10:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/wiener-staatsoper.md","scene/companies/royal-opera-house.md","scene/companies/opernhaus-zurich.md"]
 slug = "alexandrs-antonenko"
 title = "Alexandrs Antonenko"
 [[social_media]]

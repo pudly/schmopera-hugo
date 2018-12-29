@@ -4,6 +4,7 @@ discipline = "Bass"
 lastmod = "2018-01-16T19:10:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516146695567/xl_2017101911475444556.jpg.jpg"
 publishDate = "2018-01-16T19:10:00-05:00"
+related_companies = ["scene/companies/wiener-staatsoper.md","scene/companies/bayerische-staatsoper.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/canadian-opera-company.md","scene/companies/teatro-alla-scala.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/salzburg-festival.md","scene/companies/los-angeles-opera.md"]
 slug = "wilhelm-schwinghammer"
 title = "Wilhelm Schwinghammer"
 +++

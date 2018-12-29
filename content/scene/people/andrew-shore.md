@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-01-11T17:10:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484154348246/2017-01-11---Andrew-Shore.jpg.jpg"
 publishDate = "2017-01-11T17:10:00+00:00"
+related_companies = ["scene/companies/glyndebourne.md","scene/companies/english-national-opera.md","scene/companies/canadian-opera-company.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/opra-national-de-paris.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/san-diego-opera.md","scene/companies/san-francisco-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/vancouver-opera.md"]
 slug = "andrew-shore"
 title = "Andrew Shore"
 +++

@@ -5,6 +5,7 @@ lastmod = "2018-01-17T21:25:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516242224176/19.jpg.jpg"
 primary_image_credit = "Tara Tomlinson"
 publishDate = "2018-01-17T21:25:00-05:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/beth-morrison-projects.md","scene/companies/american-opera-projects.md","scene/companies/on-site-opera.md","scene/companies/lyric-opera-of-kansas-city.md","scene/companies/san-diego-opera.md","scene/companies/sarasota-opera.md","scene/companies/des-moines-metro-opera.md","scene/companies/san-francisco-opera.md"]
 slug = "blythe-gaissert"
 title = "Blythe Gaissert"
 website = "http://www.blythegaissert.com/"

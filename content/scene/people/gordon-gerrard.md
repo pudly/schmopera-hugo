@@ -4,6 +4,7 @@ discipline = "Conductor"
 lastmod = "2016-08-01T17:19:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470068192988/2016-08-01---Gordon-Gerrard.jpg.jpg"
 publishDate = "2016-08-01T17:19:00+01:00"
+related_companies = ["scene/companies/vancouver-opera.md","scene/companies/calgary-opera.md","scene/companies/opera-mcgill.md","scene/companies/opera-nuova.md","scene/companies/manhattan-school-of-music.md","scene/companies/calgary-opera-emerging-artist-development-program.md","scene/companies/halifax-summer-opera-festival.md","scene/companies/latelier-lyrique-de-lopra-de-montral.md"]
 slug = "gordon-gerrard"
 title = "Gordon Gerrard"
 website = "http://www.gordongerrard.com/index.php"

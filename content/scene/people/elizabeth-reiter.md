@@ -5,6 +5,7 @@ lastmod = "2017-09-19T11:22:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505834230744/7d9789_6ce2c232f41340b19bb86df91bbb9a8c.webp"
 primary_image_credit = "Dario Acosta"
 publishDate = "2017-09-19T11:22:00-04:00"
+related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/opera-philadelphia.md"]
 slug = "elizabeth-reiter"
 title = "Elizabeth Reiter"
 website = "https://www.elizabethreiter.com/"

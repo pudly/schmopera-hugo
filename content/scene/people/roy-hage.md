@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-09-15T22:25:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505528591658/12c477_6a6c35686cf845ada8d051bf87b52e40.jpg_srz_1440_960_85_22_0.50_1.20_0.00_jpg_srz"
 publishDate = "2017-09-15T22:25:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/curtis-institute-of-music.md"]
 slug = "roy-hage"
 title = "Roy Hage"
 website = "http://www.royhage.com/"

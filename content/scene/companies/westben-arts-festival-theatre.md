@@ -3,6 +3,7 @@ date = "2016-01-12T12:56:00-05:00"
 lastmod = "2016-01-12T12:56:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452621208433/11220800_10153779364554031_5459991611553662368_n.png%3Foh%3Ddbe990271ce38c4721c9f9234522707d%26oe%3D570245EC"
 publishDate = "2016-01-12T12:56:00-05:00"
+related_people = ["scene/people/virginia-hatfield.md","scene/people/alexander-dobson.md"]
 slug = "westben-arts-festival-theatre"
 title = "Westben Arts Festival Theatre"
 type_of_company = "Music and Theatre Festival"

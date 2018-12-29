@@ -5,6 +5,7 @@ lastmod = "2015-04-18T19:04:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429398006620/RG_Credit_Keith_Penner_610_300_c1_center_top_0_-230_1.jpg.jpg"
 primary_image_credit = "Photo by Keith Penner"
 publishDate = "2015-04-18T19:04:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/deutsche-oper-berlin.md","scene/companies/houston-grand-opera.md","scene/companies/royal-opera-house.md","scene/companies/royal-conservatory-of-music.md"]
 slug = "robert-gleadow"
 title = "Robert Gleadow"
 +++

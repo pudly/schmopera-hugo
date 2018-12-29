@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-11-25T11:09:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448467376332/2015-11-25---Lise-Lindstrom.jpg.jpg"
 publishDate = "2015-11-25T11:09:00-05:00"
+related_companies = ["scene/companies/lopra-de-montral.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-diego-opera.md","scene/companies/royal-opera-house.md","scene/companies/san-francisco-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/deutsche-oper-berlin.md","scene/companies/the-dallas-opera.md","scene/companies/opera-australia.md"]
 slug = "lise-lindstrom"
 title = "Lise Lindstrom"
 website = "http://liselindstrom.com/"

@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2016-03-08T11:20:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457435904118/2016-03-08---Betany-Coffland.jpg.jpg"
 publishDate = "2016-03-08T11:20:00+00:00"
+related_companies = ["scene/companies/the-juilliard-school.md"]
 slug = "betany-coffland"
 title = "Betany Coffland"
 website = "http://www.betanycoffland.com/index.html"

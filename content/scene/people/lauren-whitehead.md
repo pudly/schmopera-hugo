@@ -4,6 +4,7 @@ discipline = "Writer, performer, dramaturg"
 lastmod = "2017-09-17T18:28:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505687310155/whiteheadlauren-bw.jpeg%3Fwidth%3D250%26height%3D250%26mode%3Dcrop"
 publishDate = "2017-09-17T18:28:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md"]
 slug = "lauren-whitehead"
 title = "Lauren Whitehead"
 website = "http://www.laurenawhitehead.com/"

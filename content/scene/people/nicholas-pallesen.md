@@ -5,6 +5,7 @@ lastmod = "2017-02-03T10:27:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486117538631/2017-02-03---Nicholas-Pallesen.jpg.jpg"
 primary_image_credit = "Laura Rose"
 publishDate = "2017-02-03T10:27:00+00:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/the-santa-fe-opera.md"]
 slug = "nicholas-pallesen"
 title = "Nicholas Pallesen"
 website = "http://www.nicholaspallesen.com/index.html"

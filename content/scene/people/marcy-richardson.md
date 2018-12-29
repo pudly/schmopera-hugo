@@ -5,6 +5,7 @@ lastmod = "2018-04-27T21:19:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524878328716/IMG_8374.jpeg"
 primary_image_credit = "Steven Trumon Gray."
 publishDate = "2018-04-27T21:19:00-04:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md"]
 slug = "marcy-richardson"
 title = "Marcy Richardson"
 website = "http://marcyrichardson.com/"

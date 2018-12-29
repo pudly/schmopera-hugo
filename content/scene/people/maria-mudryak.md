@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-06-08T22:36:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496982712954/IMG_8142%20(1).jpg.jpg"
 publishDate = "2017-06-08T22:36:00-06:00"
+related_companies = ["scene/companies/teatro-alla-scala.md"]
 slug = "maria-mudryak"
 title = "Maria Mudryak"
 website = "https://www.mariamudryak.net/"

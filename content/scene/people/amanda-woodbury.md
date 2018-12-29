@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-09-15T21:09:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505523918596/woodbury_full-1.jpg.jpg"
 publishDate = "2017-09-15T21:09:00-04:00"
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/the-metropolitan-opera.md"]
 slug = "amanda-woodbury"
 title = "Amanda Woodbury"
 website = "http://www.amandawoodbury.com/"

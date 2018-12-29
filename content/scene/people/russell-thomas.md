@@ -5,6 +5,7 @@ lastmod = "2016-05-05T18:04:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462467762798/2016-05-05---Russell-Thomas-Dario-Acosta.jpg.jpg"
 primary_image_credit = "Dario Acosta"
 publishDate = "2016-05-05T18:04:00+01:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/deutsche-oper-berlin.md","scene/companies/the-metropolitan-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/salzburg-festival.md","scene/companies/san-francisco-opera.md","scene/companies/english-national-opera.md"]
 slug = "russell-thomas"
 title = "Russell Thomas"
 website = "http://www.russell-thomas.com/"

@@ -4,6 +4,7 @@ discipline = "Director, writer, actor, teacher"
 lastmod = "2015-08-01T14:47:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438444979586/LizaHeadshot.jpg.jpg"
 publishDate = "2015-07-31T17:35:00-04:00"
+related_companies = ["scene/companies/tapestry-opera.md","scene/companies/indie-opera-to.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
 slug = "liza-balkan"
 title = "Liza Balkan"
 website = "http://lizabalkan.com/"

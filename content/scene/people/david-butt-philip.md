@@ -5,6 +5,7 @@ lastmod = "2016-03-21T15:11:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458572909092/2016-03-21---David-Butt-Philip.jpg.jpg"
 primary_image_credit = "Raphaelle Photography."
 publishDate = "2016-03-21T15:11:00+00:00"
+related_companies = ["scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md","scene/companies/english-national-opera.md"]
 slug = "david-butt-philip"
 title = "David Butt Philip"
 website = "http://www.davidbuttphilip.com/"

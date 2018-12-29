@@ -5,6 +5,7 @@ lastmod = "2015-04-07T22:19:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428459546221/Jessica-Muirhead-low-res.jpg.jpg"
 primary_image_credit = "Emily Ding"
 publishDate = "2015-04-07T22:18:00-04:00"
+related_companies = ["scene/companies/saskatoon-opera.md","scene/companies/canadian-opera-company.md","scene/companies/bayerische-staatsoper.md"]
 slug = "jessica-muirhead"
 title = "Jessica Muirhead"
 website = "http://www.jessicamuirhead.com/"

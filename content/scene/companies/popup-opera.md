@@ -3,6 +3,7 @@ date = "2017-01-25T13:26:00+00:00"
 lastmod = "2017-01-25T13:26:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485350709914/gv8VZmWi.jpg.jpg"
 publishDate = "2017-01-25T13:26:00+00:00"
+related_people = ["scene/people/flora-mcintosh.md","scene/people/cliff-zammit-stevens.md","scene/people/alice-privett.md","scene/people/andrew-tipple.md","scene/people/richard-immergluck.md"]
 slug = "popup-opera"
 title = "Pop-Up Opera"
 type_of_company = "Touring opera company"

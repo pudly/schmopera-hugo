@@ -5,6 +5,7 @@ lastmod = "2016-07-21T16:39:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469133517075/2016-07-21---Rose-Naggar-Tremblay.jpg.jpg"
 primary_image_credit = "Rodolphe St. Arneault"
 publishDate = "2016-07-21T16:39:00-04:00"
+related_companies = ["scene/companies/opera-mcgill.md"]
 slug = "rose-naggartremblay"
 title = "Rose Naggar-Tremblay"
 website = "http://www.rosenaggartremblay.com/"

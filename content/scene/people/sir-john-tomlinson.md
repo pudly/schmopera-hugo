@@ -5,6 +5,7 @@ lastmod = "2017-03-09T12:13:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486732507549/Sir-John-Tomlinson-Photo-credit-Robert-Workman.jpg.jpg"
 primary_image_credit = "Robert Workman"
 publishDate = "2017-02-10T14:20:00+01:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/staatsoper-berlin.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md","scene/companies/oper-frankfurt.md","scene/companies/semperoper-dresden.md","scene/companies/salzburg-festival.md"]
 slug = "sir-john-tomlinson"
 title = "Sir John Tomlinson"
 website = "http://johntomlinson.org/"

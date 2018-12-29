@@ -5,6 +5,7 @@ lastmod = "2015-07-12T16:49:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436741003761/milnes-acosta.jpg.jpg"
 primary_image_credit = "Dario Acosta"
 publishDate = "2015-07-12T16:49:00-06:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/teatro-alla-scala.md","scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/savannah-voice-festival.md"]
 slug = "sherrill-milnes"
 title = "Sherrill Milnes"
 website = "http://sherrillmilnes.com/"

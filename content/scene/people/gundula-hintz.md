@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-10-11T16:02:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507752016570/_6049216380.jpg.jpg"
 publishDate = "2017-10-11T16:02:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/royal-opera-house.md"]
 slug = "gundula-hintz"
 title = "Gundula Hintz"
 +++

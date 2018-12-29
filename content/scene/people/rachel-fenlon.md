@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2016-06-14T22:31:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465964977439/2016-06-14---Fenlon.jpg.jpg"
 publishDate = "2016-06-14T22:31:00-06:00"
+related_companies = ["scene/companies/pacific-opera-victoria.md","scene/companies/vancouver-operas-yulanda-m-faris-young-artists-program.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
 slug = "rachel-fenlon"
 title = "Rachel Fenlon"
 website = "http://www.rachelfenlonsoprano.com/"

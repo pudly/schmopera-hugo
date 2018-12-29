@@ -5,6 +5,7 @@ lastmod = "2015-04-18T18:49:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429397375427/kelsey-headshot--new.jpg.jpg"
 primary_image_credit = "Photo by Ken Howard"
 publishDate = "2015-04-18T18:49:00-04:00"
+related_companies = ["scene/companies/opernhaus-zurich.md"]
 slug = "quinn-kelsey"
 title = "Quinn Kelsey"
 +++

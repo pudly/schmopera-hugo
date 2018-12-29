@@ -3,6 +3,7 @@ date = "2016-12-20T16:38:00-05:00"
 lastmod = "2016-12-20T16:38:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482269870892/14364800_1089321894469123_5277782275999670234_n.jpg%3Foh%3D643ae8b3b2336a653b5365267afbc4e1%26oe%3D58F3A26C"
 publishDate = "2016-12-20T16:38:00-05:00"
+related_people = ["scene/people/felicia-moore.md","scene/people/samarie-alicea.md","scene/people/leela-subramaniam.md","scene/people/kelly-griffin.md","scene/people/malorie-casimir.md","scene/people/daniel-klein.md","scene/people/brent-reilly-turner.md"]
 slug = "heartbeat-opera"
 title = "Heartbeat Opera"
 type_of_company = "Opera Company"

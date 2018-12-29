@@ -3,6 +3,7 @@ date = "2016-10-25T11:35:00+01:00"
 lastmod = "2016-10-25T11:38:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477391887086/Logo---Shadwell-Opera.jpg.jpg"
 publishDate = "2016-10-25T11:38:00+01:00"
+related_people = ["scene/people/madeleine-pierard.md","scene/people/kate-howden.md","scene/people/paul-curievici.md","scene/people/owain-browne.md","scene/people/pauls-putnins.md"]
 slug = "shadwell-opera"
 title = "Shadwell Opera"
 type_of_company = "Opera Company"

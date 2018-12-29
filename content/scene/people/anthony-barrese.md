@@ -4,6 +4,7 @@ discipline = "Conductor, composer"
 draft = true
 lastmod = "2015-10-28T11:27:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446046023598/BarreseSquare.jpg.jpg"
+related_companies = ["scene/companies/opera-delaware.md","scene/companies/opera-southwest.md"]
 slug = "anthony-barrese"
 title = "Anthony Barrese"
 website = "http://anthonybarrese.com/"

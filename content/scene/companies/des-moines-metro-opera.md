@@ -3,6 +3,7 @@ date = "2017-11-21T11:44:00-05:00"
 lastmod = "2017-11-21T11:44:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511282649494/16298638_10154941604563810_6354542086492518630_n.jpg%3Foh%3Dfff27cb0f5ae35b0a90b02d38814c657%26oe%3D5A959231"
 publishDate = "2017-11-21T11:44:00-05:00"
+related_people = ["scene/people/elise-quagliata.md","scene/people/john-moore.md","scene/people/blythe-gaissert.md","scene/people/madison-leonard.md","scene/people/karen-slack.md","scene/people/emily-pulley.md","scene/people/peabody-southwell.md","scene/people/jack-swanson.md","scene/people/matthew-scollin.md","scene/people/vanessa-becerra.md","scene/people/taylor-stayton.md","scene/people/derrell-acon.md","scene/people/megan-marino.md"]
 slug = "des-moines-metro-opera"
 title = "Des Moines Metro Opera"
 type_of_company = "Opera Company"

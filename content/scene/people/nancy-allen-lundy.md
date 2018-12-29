@@ -5,6 +5,7 @@ lastmod = "2016-10-24T21:55:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477342067855/2016-10-24---NancyAllenLundy-Square.jpg.jpg"
 primary_image_credit = "Masataka Suemitsu."
 publishDate = "2016-10-24T21:49:00+01:00"
+related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/washington-national-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/english-national-opera.md","scene/companies/portland-opera.md","scene/companies/minnesota-opera.md"]
 slug = "nancy-allen-lundy"
 title = "Nancy Allen Lundy"
 website = "http://www.nancyallenlundy.com/"

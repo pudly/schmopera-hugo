@@ -2,6 +2,7 @@
 date = "2015-10-15T11:42:00-04:00"
 draft = true
 lastmod = "2015-10-15T11:42:00-04:00"
+related_people = ["scene/people/megan-moore.md","scene/people/steven-humes.md","scene/people/florence-mak.md"]
 slug = "lynx-project"
 title = "Lynx Project"
 type_of_company = "Recital Series"

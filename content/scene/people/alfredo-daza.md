@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-10-09T10:50:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507560482520/Screen-shot-2013-09-25-at-1.08.53-PM.png"
 publishDate = "2017-10-09T10:50:00-04:00"
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/staatsoper-berlin.md","scene/companies/san-francisco-opera.md","scene/companies/glyndebourne.md","scene/companies/canadian-opera-company.md","scene/companies/la-monnaie.md","scene/companies/washington-national-opera.md"]
 slug = "alfredo-daza"
 title = "Alfredo Daza"
 website = "https://www.alfredodaza.com/"

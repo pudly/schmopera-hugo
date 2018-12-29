@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2015-05-29T11:25:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432912954939/dimitri.jpg.jpg"
 publishDate = "2015-05-29T11:25:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/opera-nuova.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md","scene/companies/stujess-productions.md","scene/companies/opera-atelier.md","scene/companies/opera-mcgill.md"]
 slug = "dimitri-katotakis"
 title = "Dimitri Katotakis"
 [[social_media]]

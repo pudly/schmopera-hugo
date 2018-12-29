@@ -4,6 +4,7 @@ discipline = "Bass"
 lastmod = "2018-10-18T20:50:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516146036089/David%20Leigh_DSC_7920.jpg.jpg"
 publishDate = "2018-01-16T18:43:00-05:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/canadian-opera-company.md"]
 slug = "david-leigh"
 title = "David Leigh"
 website = "https://davidleighbass.com/"

@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-04-04T14:17:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491311587247/MAGRI-Ivan3-672x1030.jpg.jpg"
 publishDate = "2017-04-04T14:17:00+01:00"
+related_companies = ["scene/companies/bayerische-staatsoper.md","scene/companies/deutsche-oper-berlin.md","scene/companies/royal-opera-house.md","scene/companies/staatsoper-berlin.md","scene/companies/salzburg-festival.md","scene/companies/semperoper-dresden.md"]
 slug = "ivan-magri"
 title = "Ivan Magrì"
 website = "https://www.ivanmagri.com/"

@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-10-11T16:06:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507752277227/10849721_10102349039198618_4784751503460562008_n.jpg.jpg"
 publishDate = "2017-10-11T16:05:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/opera-north.md","scene/companies/washington-national-opera.md","scene/companies/glimmerglass-festival.md"]
 slug = "michael-brandenburg"
 title = "Michael Brandenburg"
 website = "http://www.michael-brandenburg.com/"

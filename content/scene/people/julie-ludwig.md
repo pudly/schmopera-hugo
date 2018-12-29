@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2016-04-02T10:35:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459530026540/2016-04-02---Julie-Ludwig.jpg.jpg"
 publishDate = "2016-04-02T10:35:00+01:00"
+related_companies = ["scene/companies/opera-5.md","scene/companies/essential-opera.md","scene/companies/indie-opera-to.md"]
 slug = "julie-ludwig"
 title = "Julie Ludwig"
 website = "http://julieludwig.com/"

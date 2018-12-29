@@ -4,6 +4,7 @@ discipline = "Baritone, voice teacher"
 lastmod = "2017-09-04T13:46:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504547140150/MITCHELL%20HUTCHINGS%20headshot.jpg.jpg"
 publishDate = "2017-09-04T13:46:00-04:00"
+related_companies = ["scene/companies/opera-saratoga.md"]
 slug = "mitchell-hutchings"
 title = "Mitchell Hutchings"
 website = "http://www.mitchellhutchingsbaritone.com/"

@@ -5,6 +5,7 @@ lastmod = "2015-04-07T09:15:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428412426355/ChristineGoerke-pc-ArielleDoneson.jpg.jpg"
 primary_image_credit = "Arielle Doneson"
 publishDate = "2015-04-07T09:15:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/los-angeles-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/deutsche-oper-berlin.md"]
 slug = "christine-goerke"
 title = "Christine Goerke"
 website = "http://www.christinegoerke.com/"

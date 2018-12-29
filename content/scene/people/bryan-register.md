@@ -5,6 +5,7 @@ lastmod = "2016-05-24T15:25:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464117828610/2016-05-24---Bryan-Register-1-credit-Dario-Acosta.gif"
 primary_image_credit = "Dario Acosta"
 publishDate = "2016-05-24T15:25:00-04:00"
+related_companies = ["scene/companies/grange-park-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/manhattan-school-of-music.md"]
 slug = "bryan-register"
 title = "Bryan Register"
 website = "http://www.bryanregister.com/"

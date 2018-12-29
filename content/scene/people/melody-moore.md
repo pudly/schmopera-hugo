@@ -5,6 +5,7 @@ lastmod = "2016-05-11T15:17:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462976115947/2016-05-11---Melody-Moore-Chip-Gillespie.jpg.jpg"
 primary_image_credit = "Chip Gillespie"
 publishDate = "2016-05-11T15:17:00+01:00"
+related_companies = ["scene/companies/washington-national-opera.md","scene/companies/san-francisco-opera.md","scene/companies/english-national-opera.md","scene/companies/houston-grand-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/lopra-de-montral.md","scene/companies/merola-opera-program.md"]
 slug = "melody-moore"
 title = "Melody Moore"
 website = "http://melodymooresoprano.com/"

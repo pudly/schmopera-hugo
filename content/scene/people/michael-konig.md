@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-01-22T18:43:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485110439650/xl_avatar.jpg%3F1352135183"
 publishDate = "2017-01-22T18:42:00+00:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/glyndebourne.md","scene/companies/bayerische-staatsoper.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/opra-national-de-paris.md","scene/companies/staatsoper-berlin.md","scene/companies/teatro-alla-scala.md","scene/companies/oper-frankfurt.md"]
 slug = "michael-konig"
 title = "Michael König"
 website = "http://www.michael-koenig.net/"

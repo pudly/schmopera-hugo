@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2015-04-07T08:56:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428411199525/CharlotteBurrage.jpg.jpg"
 publishDate = "2015-04-07T08:56:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
 slug = "charlotte-burrage"
 title = "Charlotte Burrage"
 [[social_media]]

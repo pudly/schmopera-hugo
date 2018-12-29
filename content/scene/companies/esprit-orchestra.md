@@ -3,6 +3,7 @@ date = "2016-08-30T21:08:00+01:00"
 lastmod = "2016-08-30T21:09:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472587517219/txQzBHEj.jpg.jpg"
 publishDate = "2016-08-30T21:09:00+01:00"
+related_people = ["scene/people/krisztina-szab.md","scene/people/adam-scime.md","scene/people/analia-lludgar.md","scene/people/john-rea.md"]
 slug = "esprit-orchestra"
 title = "Esprit Orchestra"
 type_of_company = "Orchestra"

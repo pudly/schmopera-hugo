@@ -5,6 +5,7 @@ lastmod = "2018-01-21T18:01:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516575427675/7a429a_1aa4c205b2cf4ab5b194fb700268a3e1~mv2.webp"
 primary_image_credit = "Elle Logan"
 publishDate = "2018-01-21T18:01:00-05:00"
+related_companies = ["scene/companies/washington-national-opera.md","scene/companies/wolf-trap-opera.md","scene/companies/des-moines-metro-opera.md","scene/companies/merola-opera-program.md"]
 slug = "madison-leonard"
 title = "Madison Leonard"
 website = "https://www.madison-leonard.com/"

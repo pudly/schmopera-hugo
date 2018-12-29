@@ -3,6 +3,7 @@ date = "2016-04-29T19:48:00+01:00"
 lastmod = "2016-09-14T16:51:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473866604974/2016-09-14---NewLogoPurpleBKG.jpg.jpg"
 publishDate = "2016-04-29T19:48:00+01:00"
+related_people = ["scene/people/gillian-grossman.md"]
 slug = "shoestring-opera"
 title = "Shoestring Opera"
 type_of_company = "Opera Company"

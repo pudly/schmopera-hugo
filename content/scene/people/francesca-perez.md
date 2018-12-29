@@ -4,6 +4,7 @@ discipline = "Co-founder, Liederwölfe Opera Collective"
 lastmod = "2015-09-02T14:15:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441217711068/FrancescaSquare.jpg.jpg"
 publishDate = "2015-09-02T14:15:00-04:00"
+related_companies = ["scene/companies/indie-opera-to.md","scene/companies/liederwolfe-opera-collective.md"]
 slug = "francesca-perez"
 title = "Francesca Perez"
 [[social_media]]

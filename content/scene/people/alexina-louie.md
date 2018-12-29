@@ -4,6 +4,7 @@ discipline = "Composer"
 lastmod = "2015-04-06T14:44:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428345713352/AlexinaLouie.jpg.jpg"
 publishDate = "2015-04-06T14:44:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md"]
 slug = "alexina-louie"
 title = "Alexina Louie"
 website = "http://www.alexinalouie.ca/home"

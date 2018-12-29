@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-09-16T17:56:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505598592175/JCarlstedt-7_(002)_1.jpg.jpg"
 publishDate = "2017-09-16T17:52:00-04:00"
+related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/glyndebourne.md"]
 slug = "jenny-carlstedt"
 title = "Jenny Carlstedt"
 website = "https://www.jennycarlstedt.com/"

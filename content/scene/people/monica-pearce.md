@@ -5,6 +5,7 @@ lastmod = "2016-03-11T21:19:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457731093973/2016-03-11---MonicaPearceHeadshot.jpg.jpg"
 primary_image_credit = "Terry Lim"
 publishDate = "2016-03-11T21:19:00+00:00"
+related_companies = ["scene/companies/toy-piano-composers.md","scene/companies/the-bicycle-opera-project.md"]
 slug = "monica-pearce"
 title = "Monica Pearce"
 website = "http://www.monicapearce.com/"

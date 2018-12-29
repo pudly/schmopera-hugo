@@ -5,6 +5,7 @@ lastmod = "2018-05-31T21:17:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527815697309/1D6A1494.tiff_33cmk.jpg.jpg"
 primary_image_credit = "Patrik Hänggi."
 publishDate = "2018-05-31T21:17:00-04:00"
+related_companies = ["scene/companies/deutsche-oper-berlin.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/oper-frankfurt.md","scene/companies/vlaamse-opera.md","scene/companies/bayerische-staatsoper.md"]
 slug = "cristina-pasaroiu"
 title = "Cristina Pasaroiu"
 website = "http://cristina-pasaroiu.com/"

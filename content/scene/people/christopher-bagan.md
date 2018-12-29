@@ -4,6 +4,7 @@ discipline = "Historical keyboardist, Artistic Director, Opera After Hours"
 lastmod = "2015-09-01T15:55:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441137333359/ChristopherBaganHeadshotSquare.jpg.jpg"
 publishDate = "2015-09-01T15:55:00-04:00"
+related_companies = ["scene/companies/renaissance.md","scene/companies/indie-opera-to.md"]
 slug = "christopher-bagan"
 title = "Christopher Bagan"
 website = "http://christopherbagan.instantencore.com/web/home.aspx"

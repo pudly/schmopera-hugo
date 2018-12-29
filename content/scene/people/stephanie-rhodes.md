@@ -5,6 +5,7 @@ lastmod = "2015-06-05T16:01:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433534330365/_X5M1150.jpg.jpg"
 primary_image_credit = "Kristen Hoebermann"
 publishDate = "2015-06-05T16:01:00-04:00"
+related_companies = ["scene/companies/seattle-opera.md","scene/companies/los-angeles-opera.md","scene/companies/washington-national-opera.md"]
 slug = "stephanie-rhodes"
 title = "Stephanie Rhodes"
 website = "http://www.stephanierhodes.net/Stephanie_Rhodes/Home.html"

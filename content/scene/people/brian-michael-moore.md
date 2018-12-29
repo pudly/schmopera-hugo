@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2018-02-16T21:51:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518835825515/BMM-Head-Shot-e1490809312735.jpg.jpg"
 publishDate = "2018-02-16T21:51:00-05:00"
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/merola-opera-program.md","scene/companies/san-francisco-opera.md"]
 slug = "brian-michael-moore"
 title = "Brian Michael Moore"
 +++

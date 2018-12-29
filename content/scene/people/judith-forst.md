@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2015-07-12T19:08:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436749643589/7612519.jpg.jpg"
 publishDate = "2015-07-12T19:08:00-06:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/canadian-opera-company.md","scene/companies/teatro-alla-scala.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/vancouver-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/the-santa-fe-opera.md","scene/companies/the-dallas-opera.md"]
 slug = "judith-forst"
 title = "Judith Forst"
 +++

@@ -5,6 +5,7 @@ lastmod = "2017-07-25T10:01:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500991131679/5dc67b_0199942dd0044f0a8abc7fade804d058~mv2.webp"
 primary_image_credit = "Emily Ding"
 publishDate = "2017-07-25T10:01:00-04:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/university-of-toronto-opera.md"]
 slug = "adam-harris"
 title = "Adam Harris"
 website = "https://www.adamharrisbaritone.com/"

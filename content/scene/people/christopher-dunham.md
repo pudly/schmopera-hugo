@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-09-29T19:03:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506726086544/1409662_orig.jpg.jpg"
 publishDate = "2017-09-29T19:03:00-04:00"
+related_companies = ["scene/companies/the-atlanta-opera.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md","scene/companies/lopra-de-montral.md","scene/companies/latelier-lyrique-de-lopra-de-montral.md"]
 slug = "christopher-dunham"
 title = "Christopher Dunham"
 website = "http://www.christopherdunham.net/"

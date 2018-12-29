@@ -3,6 +3,7 @@ date = "2015-03-31T17:48:00-04:00"
 lastmod = "2015-10-31T14:29:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446316140532/Logo---NIO.jpg.jpg"
 publishDate = "2015-03-31T17:48:00-04:00"
+related_people = ["scene/people/sam-furness.md","scene/people/mark-le-brocq.md","scene/people/toby-spence.md","scene/people/paul-curievici.md"]
 slug = "northern-ireland-opera"
 title = "Northern Ireland Opera"
 type_of_company = "Opera Company"

@@ -5,6 +5,7 @@ lastmod = "2017-07-02T22:07:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499054697963/2017-07-02---BejunMehta-JosepMolina.jpg.jpg"
 primary_image_credit = "Josep Molina/MolinaVisuals"
 publishDate = "2017-07-02T22:06:00-06:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/salzburg-festival.md","scene/companies/opernhaus-zurich.md","scene/companies/the-metropolitan-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/staatsoper-berlin.md","scene/companies/glyndebourne.md","scene/companies/los-angeles-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/bayerische-staatsoper.md","scene/companies/la-monnaie.md","scene/companies/gran-teatre-del-liceu.md"]
 slug = "bejun-mehta"
 title = "Bejun Mehta"
 website = "http://bejunmehta.com/"

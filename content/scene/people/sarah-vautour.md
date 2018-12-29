@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-06-01T21:30:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496366898481/2017-06-01---Sarah-Vautour.jpg.jpg"
 publishDate = "2017-06-01T21:30:00-04:00"
+related_companies = ["scene/companies/opera-on-the-avalon.md"]
 slug = "sarah-vautour"
 title = "Sarah Vautour"
 [[social_media]]

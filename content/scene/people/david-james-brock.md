@@ -4,6 +4,7 @@ discipline = "Playwright, poet, librettist"
 lastmod = "2015-11-20T12:37:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448041023748/2015-11-20---David-James-Brock.jpg.jpg"
 publishDate = "2015-11-20T12:37:00-05:00"
+related_companies = ["scene/companies/tapestry-opera.md","scene/companies/canadian-art-song-project.md","scene/companies/scottish-opera.md"]
 slug = "david-james-brock"
 title = "David James Brock"
 website = "http://www.davidjamesbrock.com/"

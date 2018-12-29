@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-11-08T21:54:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510195826432/Tanja_Ariane_Baumgartner_pc_T_T_Fotografie_a_300dpi.jpg.jpg"
 publishDate = "2017-11-08T21:54:00-05:00"
+related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/deutsche-oper-berlin.md","scene/companies/salzburg-festival.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/staatsoper-berlin.md","scene/companies/royal-opera-house.md"]
 slug = "tanja-ariane-baumgartner"
 title = "Tanja Ariane Baumgartner"
 website = "https://tanjaarianebaumgartner.com/"

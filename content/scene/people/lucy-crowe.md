@@ -5,6 +5,7 @@ lastmod = "2015-04-08T10:53:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428504796103/Lucy_Crowe_%25C2%25A9_Marco_Borggreve.jpg.jpg"
 primary_image_credit = "Marco Borggreve"
 publishDate = "2015-04-08T10:52:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md","scene/companies/english-national-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/glyndebourne.md","scene/companies/lyric-opera-of-chicago.md"]
 slug = "lucy-crowe"
 title = "Lucy Crowe"
 +++

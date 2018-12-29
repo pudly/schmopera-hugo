@@ -3,6 +3,7 @@ date = "2015-10-04T18:19:00-04:00"
 lastmod = "2015-10-04T18:19:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443996897898/DaytonOpera.jpg.jpg"
 publishDate = "2015-10-04T18:19:00-04:00"
+related_people = ["scene/people/sara-schabas.md","scene/people/anna-christy.md","scene/people/plcido-domingo.md"]
 slug = "dayton-opera"
 title = "Dayton Opera"
 type_of_company = "Opera Company"

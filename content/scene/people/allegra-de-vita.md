@@ -5,6 +5,7 @@ lastmod = "2018-01-21T18:10:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516575924342/Allegra-WNO-Headshot-white.jpg.jpg"
 primary_image_credit = "Arielle Doneson"
 publishDate = "2018-01-21T18:10:00-05:00"
+related_companies = ["scene/companies/washington-national-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/wolf-trap-opera.md","scene/companies/houston-grand-opera.md"]
 slug = "allegra-de-vita"
 title = "Allegra De Vita"
 website = "http://allegradevita.com/"

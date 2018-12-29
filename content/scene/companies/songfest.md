@@ -3,6 +3,7 @@ date = "2017-11-27T18:11:00-05:00"
 lastmod = "2017-11-27T19:17:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511828265178/Logo---SF-logo_print.jpg.jpg"
 publishDate = "2017-11-27T18:11:00-05:00"
+related_people = ["scene/people/simone-mcintosh.md","scene/people/jeremy-hirsch.md","scene/people/emily-dangelo.md","scene/people/anne-wright.md","scene/people/ian-mceuen.md","scene/people/josh-quinn.md"]
 slug = "songfest"
 title = "SongFest"
 type_of_company = "Art Song Festival & Training Program"

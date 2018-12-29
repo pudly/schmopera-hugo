@@ -5,6 +5,7 @@ lastmod = "2017-09-10T11:36:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505057266458/Janai_Brugger-full_length_portrait_blue_dress_cred_Dario_Acosta.jpg.jpg"
 primary_image_credit = "Dario Acosta"
 publishDate = "2017-09-10T11:35:00-04:00"
+related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/merola-opera-program.md","scene/companies/royal-opera-house.md","scene/companies/los-angeles-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/palm-beach-opera.md"]
 slug = "janai-brugger"
 title = "Janai Brugger"
 website = "http://www.janaibrugger.com/"

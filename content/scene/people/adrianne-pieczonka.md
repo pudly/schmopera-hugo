@@ -5,6 +5,7 @@ lastmod = "2017-03-15T11:13:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489576112049/2017-03-15---Adrianne-Pieczonka-Photo-Bo-Huang.jpg.jpg"
 primary_image_credit = "Bo Huang"
 publishDate = "2015-03-30T04:20:00+01:00"
+related_companies = ["scene/companies/canadian-opera-company.md"]
 slug = "adrianne-pieczonka"
 title = "Adrianne Pieczonka"
 website = "http://www.adriannepieczonka.com/"

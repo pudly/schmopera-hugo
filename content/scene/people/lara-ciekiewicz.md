@@ -5,6 +5,7 @@ lastmod = "2016-03-05T12:01:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457175460800/Lara---Square.jpg.jpg"
 primary_image_credit = "Rebecca Shroeder."
 publishDate = "2016-03-05T10:59:00+00:00"
+related_companies = ["scene/companies/the-banff-centre.md","scene/companies/lopra-de-montral.md","scene/companies/latelier-lyrique-de-lopra-de-montral.md","scene/companies/manitoba-opera.md","scene/companies/pacific-opera-victoria.md","scene/companies/merola-opera-program.md","scene/companies/opera-nuova.md","scene/companies/toronto-operetta-theatre.md","scene/companies/voicebox-opera-in-concert.md"]
 slug = "lara-ciekiewicz"
 title = "Lara Ciekiewicz"
 +++

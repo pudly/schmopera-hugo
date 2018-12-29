@@ -4,6 +4,7 @@ discipline = "Bass"
 lastmod = "2017-04-05T15:52:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491403837044/A%2520Tipple%25201.jpg.jpg"
 publishDate = "2017-04-05T15:52:00+01:00"
+related_companies = ["scene/companies/garsington-opera.md","scene/companies/popup-opera.md"]
 slug = "andrew-tipple"
 title = "Andrew Tipple"
 +++

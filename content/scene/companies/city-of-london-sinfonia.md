@@ -3,6 +3,7 @@ date = "2016-04-07T11:10:00+01:00"
 lastmod = "2016-04-07T11:10:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460023660335/Logo---CLS.jpg.jpg"
 publishDate = "2016-04-07T11:10:00+01:00"
+related_people = ["scene/people/helen-charlston.md","scene/people/charlotte-bray.md","scene/people/hugh-brunt.md"]
 slug = "city-of-london-sinfonia"
 title = "City of London Sinfonia"
 type_of_company = "Orchestra"

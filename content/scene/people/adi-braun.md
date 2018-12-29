@@ -4,6 +4,7 @@ discipline = "Singer, songwriter, German diction coach"
 lastmod = "2015-12-27T15:17:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450378361417/2015-12-12---Adi-Braun.jpg.jpg"
 publishDate = "2015-12-17T13:52:00-05:00"
+related_companies = ["scene/companies/royal-conservatory-of-music.md","scene/companies/canadian-opera-company.md","scene/companies/opera-atelier.md"]
 slug = "adi-braun"
 title = "Adi Braun"
 website = "http://www.adibraun.com/#/"

@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-11-13T14:48:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510602336950/Jesus-Leon-Headshot-2014-Web.jpg.jpg"
 publishDate = "2017-11-13T14:48:00-05:00"
+related_companies = ["scene/companies/florida-grand-opera.md","scene/companies/scottish-opera.md","scene/companies/garsington-opera.md","scene/companies/los-angeles-opera.md","scene/companies/the-atlanta-opera.md"]
 slug = "jesus-leon"
 title = "Jesús León"
 website = "http://www.jesusleon.com/"

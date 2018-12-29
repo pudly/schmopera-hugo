@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2018-01-17T17:51:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516229460946/Isaiah%20Bell%2026%20-%20Version%202.jpg.jpg"
 publishDate = "2015-04-12T18:29:00-04:00"
+related_companies = ["scene/companies/toronto-symphony-orchestra.md","scene/companies/against-the-grain-theatre.md","scene/companies/pacific-opera-victoria.md","scene/companies/latelier-lyrique-de-lopra-de-montral.md","scene/companies/calgary-opera.md"]
 slug = "isaiah-bell"
 title = "Isaiah Bell"
 website = "http://isaiahbell.com/"

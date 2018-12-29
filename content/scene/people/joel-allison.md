@@ -5,6 +5,7 @@ lastmod = "2017-07-25T10:06:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500991376206/joel-allison-headshot-2_orig.jpg.jpg"
 primary_image_credit = "Nathan Ball"
 publishDate = "2017-07-25T10:06:00-04:00"
+related_companies = ["scene/companies/university-of-toronto-opera.md","scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md","scene/companies/talisker-players.md"]
 slug = "joel-allison"
 title = "Joel Allison"
 website = "http://www.joelallisonbassbaritone.com/"

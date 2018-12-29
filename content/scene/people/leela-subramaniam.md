@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2018-05-04T19:21:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525475933066/LEELASUBRAMANIAMHEADSHOTHIRES.jpg.jpg"
 publishDate = "2018-05-04T19:21:00-04:00"
+related_companies = ["scene/companies/heartbeat-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/los-angeles-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/opera-theatre-of-st-louis.md"]
 slug = "leela-subramaniam"
 title = "Leela Subramaniam"
 website = "http://www.leelasubramaniam.com/"

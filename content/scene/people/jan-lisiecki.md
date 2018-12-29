@@ -5,6 +5,7 @@ lastmod = "2017-09-24T10:10:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506262212684/JL_Holger-Hage_lowres3-1030x685.png"
 primary_image_credit = "Holger Hage"
 publishDate = "2017-09-24T10:10:00-04:00"
+related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
 slug = "jan-lisiecki"
 title = "Jan Lisiecki"
 website = "http://www.janlisiecki.com/Jan_Lisiecki___Classical_Piano.html"

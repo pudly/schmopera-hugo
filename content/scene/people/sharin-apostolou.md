@@ -5,6 +5,7 @@ lastmod = "2016-09-11T19:07:00+02:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473613591137/2016-09-11---Sharin-Apostolou-HS.jpg.jpg"
 primary_image_credit = "Billy B Photography"
 publishDate = "2016-09-11T19:07:00+02:00"
+related_companies = ["scene/companies/glimmerglass-festival.md","scene/companies/portland-opera.md","scene/companies/central-city-opera.md"]
 slug = "sharin-apostolou"
 title = "Sharin Apostolou"
 website = "http://www.sharinapostolou.com/"

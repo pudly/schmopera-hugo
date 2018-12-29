@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-02-10T13:09:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486731903151/2017-02-10---Lucy-Schaufer.jpg.jpg"
 publishDate = "2017-02-10T13:07:00+00:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/the-dallas-opera.md","scene/companies/royal-opera-house.md","scene/companies/los-angeles-opera.md","scene/companies/the-metropolitan-opera.md"]
 slug = "lucy-schaufer"
 title = "Lucy Schaufer"
 website = "https://lucyschaufer.com/"

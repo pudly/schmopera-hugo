@@ -5,6 +5,7 @@ lastmod = "2017-11-11T14:47:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510429379371/amanda_crider_alma_in_persona.jpg.jpg"
 primary_image_credit = "Clair McAdams"
 publishDate = "2017-11-11T14:47:00-05:00"
+related_companies = ["scene/companies/los-angeles-opera.md"]
 slug = "amanda-crider"
 title = "Amanda Crider"
 website = "https://www.amandacrider.com/"

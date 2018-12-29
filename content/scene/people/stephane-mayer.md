@@ -4,6 +4,7 @@ discipline = "Pianist, composer"
 lastmod = "2017-04-26T09:31:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493213441352/2016-04-25---Stephane-Mayer.jpg.jpg"
 publishDate = "2017-04-26T09:31:00-04:00"
+related_companies = ["scene/companies/opera-mcgill.md","scene/companies/tapestry-opera.md","scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
 slug = "stephane-mayer"
 title = "Stéphane Mayer"
 +++

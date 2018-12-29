@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2018-05-04T21:28:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525483515236/sproule_0.jpg%3Fitok%3D4Sof8dfU"
 publishDate = "2018-05-04T21:28:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/wolf-trap-opera.md","scene/companies/vancouver-opera.md","scene/companies/merola-opera-program.md","scene/companies/houston-grand-opera.md","scene/companies/lopra-de-montral.md","scene/companies/canadian-opera-company.md"]
 slug = "carolyn-sproule"
 title = "Carolyn Sproule"
 website = "https://www.carolynsproule.com/"

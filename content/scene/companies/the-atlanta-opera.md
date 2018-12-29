@@ -3,6 +3,7 @@ date = "2016-03-09T20:40:00+00:00"
 lastmod = "2016-03-09T20:40:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457555839627/Logo%20-%20The%20Atlanta%20Opera.jpg.jpg"
 publishDate = "2016-03-09T20:40:00+00:00"
+related_people = ["scene/people/jake-heggie.md","scene/people/joseph-lattanzi.md","scene/people/talise-trevigne.md","scene/people/elise-quagliata.md","scene/people/megan-brunning.md","scene/people/alexander-hajek.md","scene/people/noah-stewart.md","scene/people/edward-parks.md","scene/people/kenneth-kellogg.md","scene/people/alfred-walker.md","scene/people/jason-ferrante.md","scene/people/troy-cook.md","scene/people/ben-bliss.md","scene/people/gordon-hawkins.md","scene/people/kirstin-chvez.md","scene/people/andriana-chuchman.md","scene/people/jennifer-larmore.md","scene/people/bryn-holdsworth.md","scene/people/christopher-dunham.md","scene/people/andrew-wilkowske.md","scene/people/weston-hurt.md","scene/people/jesus-leon.md","scene/people/nina-yoshida-nelsen.md","scene/people/emily-pulley.md","scene/people/santiago-ballerini.md","scene/people/thomas-glenn.md","scene/people/leah-partridge.md","scene/people/todd-thomas.md","scene/people/laquita-mitchell.md"]
 slug = "the-atlanta-opera"
 title = "The Atlanta Opera"
 type_of_company = "Opera Company"

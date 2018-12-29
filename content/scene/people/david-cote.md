@@ -4,6 +4,7 @@ discipline = "Librettist"
 lastmod = "2017-09-10T12:20:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505060323888/Coteportrait.jpg.jpg"
 publishDate = "2017-09-10T12:18:00-04:00"
+related_companies = ["scene/companies/nashville-opera.md","scene/companies/american-opera-projects.md"]
 slug = "david-cote"
 title = "David Cote"
 website = "http://davidcote.com/"

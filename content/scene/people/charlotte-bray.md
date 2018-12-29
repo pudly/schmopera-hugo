@@ -5,6 +5,7 @@ lastmod = "2016-04-21T12:05:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461236670111/2016-04-21---Charlotte-Bray-P6010675-2_sm.jpg.jpg"
 primary_image_credit = "charlottebray.co.uk"
 publishDate = "2016-04-21T12:05:00+01:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/city-of-london-sinfonia.md"]
 slug = "charlotte-bray"
 title = "Charlotte Bray"
 website = "http://charlottebray.co.uk/"

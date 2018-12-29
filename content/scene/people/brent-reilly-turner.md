@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2018-10-15T11:04:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539615702295/Brent%20Reilly%20Turner.png"
 publishDate = "2018-10-15T11:04:00-04:00"
+related_companies = ["scene/companies/pacific-opera-victoria.md","scene/companies/heartbeat-opera.md"]
 slug = "brent-reilly-turner"
 title = "Brent Reilly Turner"
 website = "https://www.brentturner.com/"

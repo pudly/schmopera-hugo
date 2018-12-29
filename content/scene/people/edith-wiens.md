@@ -4,6 +4,7 @@ discipline = "Soprano, voice teacher"
 lastmod = "2017-09-04T13:49:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504547240898/edith_wiens_02_print.jpg.jpg"
 publishDate = "2017-09-04T13:49:00-04:00"
+related_companies = ["scene/companies/salzburg-festival.md","scene/companies/the-metropolitan-opera.md","scene/companies/glyndebourne.md","scene/companies/teatro-alla-scala.md","scene/companies/the-santa-fe-opera.md","scene/companies/oper-frankfurt.md","scene/companies/opernhaus-zurich.md","scene/companies/bayerische-staatsoper.md"]
 slug = "edith-wiens"
 title = "Edith Wiens"
 website = "https://edithwiens.com/"

@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-04-06T22:54:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428375122000/carla-huhtanen-2-Grimshaw.jpg.jpg"
 publishDate = "2015-04-06T22:54:00-04:00"
+related_companies = ["scene/companies/tapestry-opera.md","scene/companies/opera-atelier.md","scene/companies/talisker-players.md"]
 slug = "carla-huhtanen"
 title = "Carla Huhtanen"
 website = "http://www.carlahuhtanen.com/"

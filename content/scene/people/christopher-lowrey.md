@@ -4,6 +4,7 @@ discipline = "Countertenor"
 lastmod = "2017-10-27T17:13:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509138482165/publicity1.jpg%3Ffit%3D2621%252C3931"
 publishDate = "2017-10-27T17:13:00-04:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/glyndebourne.md","scene/companies/english-national-opera.md"]
 slug = "christopher-lowrey"
 title = "Christopher Lowrey"
 website = "http://www.christopherlowrey.com/"

@@ -3,6 +3,7 @@ date = "2015-05-21T15:14:00-04:00"
 lastmod = "2015-05-21T15:14:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432235659421/zSgEEu4j.png"
 publishDate = "2015-05-21T15:14:00-04:00"
+related_people = ["scene/people/juliet-palmer.md"]
 slug = "urbanvessel"
 title = "Urbanvessel"
 type_of_company = "Opera/Theatre Company"

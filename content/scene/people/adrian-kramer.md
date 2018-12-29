@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2018-05-10T20:13:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489575934425/2017-03-15---Adrian-Kramer.jpg.jpg"
 publishDate = "2015-04-06T13:25:00-04:00"
+related_companies = ["scene/companies/opera-5.md","scene/companies/saskatoon-opera.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/toronto-operetta-theatre.md"]
 slug = "adrian-kramer"
 title = "Adrian Kramer"
 website = "http://www.adriankramertenor.com/"

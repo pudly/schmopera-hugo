@@ -5,6 +5,7 @@ lastmod = "2016-10-01T13:14:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475323150261/2016-10-01---Mary-Bevan--credit-Victoria-Cadisch.jpg.jpg"
 primary_image_credit = "Victoria Cadisch"
 publishDate = "2016-10-01T13:14:00+01:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/royal-opera-house.md","scene/companies/garsington-opera.md"]
 slug = "mary-bevan"
 title = "Mary Bevan"
 [[social_media]]

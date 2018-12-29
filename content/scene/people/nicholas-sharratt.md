@@ -5,6 +5,7 @@ lastmod = "2016-03-11T11:35:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457696112921/2016-03-11---Nicholas-Sharratt.jpg.jpg"
 primary_image_credit = "Eleanor Skan"
 publishDate = "2016-03-11T11:35:00+00:00"
+related_companies = ["scene/companies/scottish-opera.md","scene/companies/tapestry-opera.md","scene/companies/glyndebourne.md","scene/companies/opera-north.md"]
 slug = "nicholas-sharratt"
 title = "Nicholas Sharratt"
 [[social_media]]

@@ -5,6 +5,7 @@ lastmod = "2016-10-16T15:07:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476626129152/2016-10-16---David_Shipley_2_Credit_Maximilian_van_London.jpg.jpg"
 primary_image_credit = "Maximilian von London"
 publishDate = "2016-10-16T15:07:00+01:00"
+related_companies = ["scene/companies/classical-opera.md","scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md"]
 slug = "david-shipley"
 title = "David Shipley"
 +++

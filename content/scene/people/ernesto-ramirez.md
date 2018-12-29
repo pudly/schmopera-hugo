@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2015-04-07T16:52:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428439884204/Edgar.jpg.jpg"
 publishDate = "2015-04-07T16:52:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/pacific-opera-victoria.md","scene/companies/voicebox-opera-in-concert.md"]
 slug = "ernesto-ramirez"
 title = "Ernesto Ramirez"
 website = "http://www.ernestoramirez.ca/"

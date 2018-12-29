@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2018-09-23T15:43:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537731614274/Chenes.jpeg"
 publishDate = "2018-09-23T15:40:00-04:00"
+related_companies = ["scene/companies/utah-opera.md","scene/companies/palm-beach-opera.md","scene/companies/welsh-national-opera.md","scene/companies/minnesota-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/seattle-opera.md","scene/companies/odyssey-opera.md"]
 slug = "dominick-chenes"
 title = "Dominick Chenes"
 website = "https://dominickchenes.com/"

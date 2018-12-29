@@ -5,6 +5,7 @@ lastmod = "2015-04-07T18:45:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428446631282/JenniferHollow.jpg.jpg"
 primary_image_credit = "Arielle Doneson"
 publishDate = "2015-04-07T18:45:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/the-dallas-opera.md"]
 slug = "jennifer-holloway"
 title = "Jennifer Holloway"
 website = "http://www.jenniferhollowaymezzo.com/jenniferhollowaymezzo.com/Home.html"

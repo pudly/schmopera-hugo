@@ -3,6 +3,7 @@ date = "2016-09-30T14:11:00+01:00"
 lastmod = "2016-09-30T14:19:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475241094512/Logo---Gestalt-Arts.jpg.jpg"
 publishDate = "2016-09-30T14:11:00+01:00"
+related_people = ["scene/people/christine-buras.md"]
 slug = "gestalt-arts"
 title = "Gestalt Arts"
 type_of_company = "Opera Company"

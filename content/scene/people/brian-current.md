@@ -4,6 +4,7 @@ discipline = "Composer"
 lastmod = "2015-04-06T22:44:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428374572822/BrianCurrent.jpg.jpg"
 publishDate = "2015-04-06T22:44:00-04:00"
+related_companies = ["scene/companies/soundstreams.md","scene/companies/the-bicycle-opera-project.md","scene/companies/tapestry-opera.md"]
 slug = "brian-current"
 title = "Brian Current"
 website = "http://www.briancurrent.com/"

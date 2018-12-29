@@ -4,6 +4,7 @@ discipline = "Soprano, Co-Founder, Essential Opera"
 lastmod = "2015-07-23T16:07:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437681939327/erin-26771.jpg.jpg"
 publishDate = "2015-07-23T16:07:00-04:00"
+related_companies = ["scene/companies/essential-opera.md","scene/companies/indie-opera-to.md"]
 slug = "erin-bardua"
 title = "Erin Bardua"
 website = "http://www.erinbardua.com/"

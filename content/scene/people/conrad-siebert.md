@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2015-04-07T15:52:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428436285700/1583536.jpg%3F1404071107"
 publishDate = "2015-04-07T15:52:00-04:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/canadian-opera-company.md","scene/companies/opera-nuova.md","scene/companies/highlands-opera-studio.md","scene/companies/university-of-toronto-opera.md"]
 slug = "conrad-siebert"
 title = "Conrad Siebert"
 website = "http://www.conradsiebert.com/"

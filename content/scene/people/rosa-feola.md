@@ -5,6 +5,7 @@ lastmod = "2017-10-08T23:20:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507519095248/FEO160415_043f.jpg%20(c)%20Todd%20Rosenberg.jpg.jpg"
 primary_image_credit = "Todd Rosenberg"
 publishDate = "2017-10-08T23:20:00-04:00"
+related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/deutsche-oper-berlin.md","scene/companies/opernhaus-zurich.md","scene/companies/salzburg-festival.md"]
 slug = "rosa-feola"
 title = "Rosa Feola"
 [[social_media]]

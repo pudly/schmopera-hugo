@@ -4,6 +4,7 @@ discipline = "Conductor"
 lastmod = "2015-06-24T18:04:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435189991514/so716bw.jpg.jpg"
 publishDate = "2015-06-24T18:04:00-06:00"
+related_companies = ["scene/companies/opera-on-the-avalon.md","scene/companies/sarasota-opera.md"]
 slug = "christopher-james-ray"
 title = "Christopher James Ray"
 website = "http://www.christopherjamesray.com/"

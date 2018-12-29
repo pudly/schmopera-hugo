@@ -5,6 +5,7 @@ lastmod = "2015-04-12T17:59:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428856601342/Celine%2520Portrait.jpg.jpg"
 primary_image_credit = "Pierre-Etienne Bergeron"
 publishDate = "2015-04-12T12:39:00-04:00"
+related_companies = ["scene/companies/pacific-opera-victoria.md","scene/companies/lopra-de-montral.md","scene/companies/opera-atelier.md"]
 slug = "mireille-lebel"
 title = "Mireille Lebel"
 website = "http://www.mireillelebel.com/"

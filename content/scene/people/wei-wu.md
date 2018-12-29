@@ -5,6 +5,7 @@ lastmod = "2018-04-30T21:30:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525138005083/WeiWu1.png"
 primary_image_credit = "Arielle Doneson"
 publishDate = "2018-04-30T21:30:00-04:00"
+related_companies = ["scene/companies/washington-national-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/glyndebourne.md"]
 slug = "wei-wu"
 title = "Wei Wu"
 website = "http://www.weiwubass.com/"

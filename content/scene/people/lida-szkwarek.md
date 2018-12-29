@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-07-06T22:33:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436027344360/Lida.jpg.jpg"
 publishDate = "2015-07-04T10:33:00-06:00"
+related_companies = ["scene/companies/edmonton-opera.md","scene/companies/saskatoon-opera.md","scene/companies/opera-nuova.md","scene/companies/calgary-opera.md","scene/companies/the-banff-centre.md","scene/companies/the-metropolitan-opera.md","scene/companies/calgary-opera-emerging-artist-development-program.md"]
 slug = "lida-szkwarek"
 title = "Lida Szkwarek"
 +++

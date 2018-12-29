@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2015-04-13T10:55:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428936783034/GIUNTA-PHOTO.jpg.jpg"
 publishDate = "2015-04-13T10:55:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/the-metropolitan-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/opera-lyra-ottawa.md","scene/companies/oper-frankfurt.md"]
 slug = "wallis-giunta"
 title = "Wallis Giunta"
 website = "http://wallisgiunta.com/site/"

@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2016-07-14T16:01:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1468533359261/2016-07-13---Pasquale-Dalessio.jpg.jpg"
 publishDate = "2015-07-06T20:17:00-06:00"
+related_companies = ["scene/companies/opera-mcgill.md"]
 slug = "pasquale-dalessio"
 title = "Pasquale D&#039;Alessio"
 website = "https://videoman.bandcamp.com/"

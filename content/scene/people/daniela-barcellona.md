@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2016-09-15T13:05:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473940948117/2016-09-14---Daniela-Barcellona.jpg.jpg"
 publishDate = "2016-09-15T13:05:00+01:00"
+related_companies = ["scene/companies/opra-national-de-paris.md","scene/companies/salzburg-festival.md","scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md","scene/companies/teatro-alla-scala.md"]
 slug = "daniela-barcellona"
 title = "Daniela Barcellona"
 +++

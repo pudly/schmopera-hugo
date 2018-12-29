@@ -4,6 +4,7 @@ discipline = "Bass-baritone"
 lastmod = "2017-11-19T11:41:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511109590030/9long_orig.jpg.jpg"
 publishDate = "2017-11-19T11:41:00-05:00"
+related_companies = ["scene/companies/calgary-opera-emerging-artist-development-program.md","scene/companies/calgary-opera.md","scene/companies/edmonton-opera.md"]
 slug = "aaron-dimoff"
 title = "Aaron Dimoff"
 website = "https://aarondimoff.weebly.com/"

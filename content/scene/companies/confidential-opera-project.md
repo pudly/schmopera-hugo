@@ -3,6 +3,7 @@ date = "2016-09-20T17:35:00+01:00"
 lastmod = "2016-09-20T17:35:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474389225265/COP-Logo.jpg.jpg"
 publishDate = "2016-09-20T17:35:00+01:00"
+related_people = ["scene/people/gregory-finney.md","scene/people/asitha-tennekoon.md","scene/people/jonathan-macarthur.md","scene/people/aaron-durand.md","scene/people/keith-lam.md","scene/people/cassandra-warner.md"]
 slug = "confidential-opera-project"
 title = "Confidential Opera Project"
 type_of_company = "Opera Company"

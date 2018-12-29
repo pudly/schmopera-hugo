@@ -4,6 +4,7 @@ discipline = "Bass-baritone"
 lastmod = "2017-11-18T15:37:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511037165852/robertosborne180.jpg.jpg"
 publishDate = "2017-11-18T15:37:00-05:00"
+related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/los-angeles-opera.md"]
 slug = "robert-osborne"
 title = "Robert Osborne"
 website = "http://www.robertosborne.net/"

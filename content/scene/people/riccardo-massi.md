@@ -5,6 +5,7 @@ lastmod = "2017-04-03T16:55:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491234494454/2017-04-04---Riccardo-Massi-Benjamin-Ealovega.jpg.jpg"
 primary_image_credit = "Benjamin Ealovega"
 publishDate = "2017-04-03T16:55:00+01:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/canadian-opera-company.md","scene/companies/teatro-alla-scala.md","scene/companies/staatsoper-berlin.md","scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md","scene/companies/opernhaus-zurich.md","scene/companies/opera-australia.md","scene/companies/bayerische-staatsoper.md"]
 slug = "riccardo-massi"
 title = "Riccardo Massi"
 website = "http://www.riccardomassi.com/"

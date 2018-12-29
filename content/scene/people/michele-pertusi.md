@@ -4,6 +4,7 @@ discipline = "Bass-baritone"
 lastmod = "2017-11-21T13:06:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511287310199/michele_pertusi_g9.jpg.jpg"
 publishDate = "2017-11-21T13:06:00-05:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/deutsche-oper-berlin.md","scene/companies/opra-national-de-paris.md"]
 slug = "michele-pertusi"
 title = "Michele Pertusi"
 website = "http://michelepertusi.com/"

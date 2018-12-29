@@ -5,6 +5,7 @@ lastmod = "2017-09-19T11:36:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505835138579/Brandon_Cedel_pc_Peter_Konerko_a_300dpi.jpg.jpg"
 primary_image_credit = "Peter Konerko"
 publishDate = "2017-09-19T11:35:00-04:00"
+related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/the-metropolitan-opera.md"]
 slug = "brandon-cedel"
 title = "Brandon Cedel"
 website = "https://www.brandoncedel.net/"

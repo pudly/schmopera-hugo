@@ -5,6 +5,7 @@ lastmod = "2017-08-23T15:12:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503514394952/2017-08-23---Annalisa-Stroppa_foto-Victor-Santiago.jpg.jpg"
 primary_image_credit = "Victor Santiago"
 publishDate = "2017-08-23T15:01:00-04:00"
+related_companies = ["scene/companies/salzburg-festival.md","scene/companies/teatro-alla-scala.md","scene/companies/semperoper-dresden.md"]
 slug = "annalisa-stroppa"
 title = "Annalisa Stroppa"
 website = "http://www.annalisastroppa.it/"

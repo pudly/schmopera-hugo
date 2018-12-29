@@ -3,6 +3,7 @@ date = "2017-10-11T16:28:00-04:00"
 lastmod = "2017-10-11T16:28:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507753611262/1236115_517426718338503_1796032271_n.jpg%3Foh%3D8c5bc8188c149de04d8376b5358a8173%26oe%3D5A809B61"
 publishDate = "2017-10-11T16:28:00-04:00"
+related_people = ["scene/people/oliver-zeffman.md","scene/people/ross-ramgobin.md","scene/people/patrick-terry.md"]
 slug = "melos-sinfonia"
 title = "Melos Sinfonia"
 type_of_company = "Orchestra"

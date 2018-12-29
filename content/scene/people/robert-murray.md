@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2016-03-20T14:53:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458485570017/2016-03-20---Robert-Murray.jpg.jpg"
 publishDate = "2016-03-20T14:53:00+00:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/english-national-opera.md","scene/companies/glyndebourne.md"]
 slug = "robert-murray"
 title = "Robert Murray"
 +++

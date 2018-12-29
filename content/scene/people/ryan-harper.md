@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2016-11-24T22:37:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480026733717/2016-11-24---Ryan-Harper.jpg.jpg"
 publishDate = "2016-11-24T22:37:00+00:00"
+related_companies = ["scene/companies/loose-tea-music-theatre.md","scene/companies/against-the-grain-theatre.md","scene/companies/canadian-opera-company.md","scene/companies/off-centre-music-salon.md"]
 slug = "ryan-harper"
 title = "Ryan Harper"
 +++

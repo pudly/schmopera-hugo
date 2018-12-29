@@ -5,6 +5,7 @@ lastmod = "2017-03-23T13:28:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490275435170/2017-03-22---SAIMIR_PIGRU-Paul-Scala.jpg.jpg"
 primary_image_credit = "Paul Scala"
 publishDate = "2017-03-23T13:28:00+00:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/salzburg-festival.md","scene/companies/wiener-staatsoper.md","scene/companies/royal-opera-house.md","scene/companies/deutsche-oper-berlin.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/opra-national-de-paris.md","scene/companies/staatsoper-berlin.md"]
 slug = "saimir-pirgu"
 title = "Saimir Pirgu"
 website = "http://saimirpirgu.com/home.html"

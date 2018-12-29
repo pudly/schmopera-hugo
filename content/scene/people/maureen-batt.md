@@ -4,6 +4,7 @@ discipline = "Soprano, Co-founder, Essential Opera"
 lastmod = "2015-07-23T16:01:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437665682700/Batt-Maureen.-Colour-Headshot.-.jpg.jpg"
 publishDate = "2015-07-23T16:01:00-04:00"
+related_companies = ["scene/companies/essential-opera.md","scene/companies/indie-opera-to.md"]
 slug = "maureen-batt"
 title = "Maureen Batt"
 website = "http://maureenbatt.com/"

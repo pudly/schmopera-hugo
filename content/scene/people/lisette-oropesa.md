@@ -5,6 +5,7 @@ lastmod = "2017-09-04T12:59:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504544211228/Soprano%20Lisette%20Oropesa%20(c)%20Jason%20%20Homa.jpg.jpg"
 primary_image_credit = "Jason Homa"
 publishDate = "2017-09-04T12:59:00-04:00"
+related_companies = ["scene/companies/glyndebourne.md","scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md","scene/companies/los-angeles-opera.md","scene/companies/opera-philadelphia.md","scene/companies/welsh-national-opera.md","scene/companies/washington-national-opera.md","scene/companies/san-francisco-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/opra-national-de-paris.md"]
 slug = "lisette-oropesa"
 title = "Lisette Oropesa"
 website = "https://lisetteoropesa.com/"

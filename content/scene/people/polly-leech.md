@@ -5,6 +5,7 @@ lastmod = "2017-02-23T13:42:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487857280981/c70d2e_a34d188d3a3c482895d12cce15da1b18.webp"
 primary_image_credit = "Eric Oliveria"
 publishDate = "2017-02-23T13:41:00+00:00"
+related_companies = ["scene/companies/opera-holland-park.md"]
 slug = "polly-leech"
 title = "Polly Leech"
 website = "http://www.pollyleech.com/"

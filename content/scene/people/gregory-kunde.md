@@ -5,6 +5,7 @@ lastmod = "2016-06-16T23:45:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466141973052/2016-06-17---Gregory-Kunde-credit-Chris-Gloag.jpg.jpg"
 primary_image_credit = "Chris Gloag"
 publishDate = "2016-06-16T23:45:00-06:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md","scene/companies/gran-teatre-del-liceu.md"]
 slug = "gregory-kunde"
 title = "Gregory Kunde"
 website = "http://www.gregorykunde.com/"

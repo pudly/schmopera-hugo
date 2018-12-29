@@ -4,6 +4,7 @@ discipline = "Pianist"
 lastmod = "2017-11-14T19:26:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510705525016/james_5%20copy.jpg.jpg"
 publishDate = "2017-11-14T19:26:00-05:00"
+related_companies = ["scene/companies/the-banff-centre.md","scene/companies/royal-opera-house.md"]
 slug = "james-cheung"
 title = "James Cheung"
 website = "https://www.james-cheung.com/"

@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-10-07T09:53:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444225602778/Sam.jpg.jpg"
 publishDate = "2015-10-07T09:47:00-04:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/opera-mcgill.md","scene/companies/the-banff-centre.md","scene/companies/canadian-opera-company.md"]
 slug = "samantha-pickett"
 title = "Samantha Pickett"
 website = "http://www.samanthapickett.com/"

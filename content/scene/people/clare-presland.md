@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2018-03-02T17:30:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520029621455/clare0417-504b-8x10.jpg.jpg"
 publishDate = "2018-03-02T17:30:00-05:00"
+related_companies = ["scene/companies/english-national-opera.md"]
 slug = "clare-presland"
 title = "Clare Presland"
 website = "https://www.clarepresland.com/"

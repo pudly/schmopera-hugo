@@ -5,6 +5,7 @@ lastmod = "2016-02-17T20:42:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455759734443/Susanna_Phillips_headshot_2013_credit_Zachary_Maxwell_StertzSquare.jpg.jpg"
 primary_image_credit = "Zachary Maxwell"
 publishDate = "2016-02-17T20:42:00-05:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/lyric-opera-of-chicago.md"]
 slug = "susanna-phillips"
 title = "Susanna Phillips"
 website = "http://www.susannaphillips.com/"

@@ -5,6 +5,7 @@ lastmod = "2017-09-08T11:54:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504886017028/Photo2%20credit%20Christina%20Marshall.jpg.jpg"
 primary_image_credit = "Christina Marshall"
 publishDate = "2017-09-08T11:54:00-04:00"
+related_companies = ["scene/companies/toronto-symphony-orchestra.md","scene/companies/calgary-opera.md","scene/companies/pacific-opera-victoria.md","scene/companies/opera-nuova.md","scene/companies/opera-on-the-avalon.md"]
 slug = "benjamin-butterfield"
 title = "Benjamin Butterfield"
 +++

@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2018-04-30T21:25:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525137814361/PaoloBordogna200x300.jpg.jpg"
 publishDate = "2018-04-30T21:25:00-04:00"
+related_companies = ["scene/companies/washington-national-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/opra-national-de-paris.md","scene/companies/bayerische-staatsoper.md","scene/companies/royal-opera-house.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/wiener-staatsoper.md"]
 slug = "paolo-bordogna"
 title = "Paolo Bordogna"
 [[social_media]]

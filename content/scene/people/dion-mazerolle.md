@@ -5,6 +5,7 @@ lastmod = "2016-02-04T09:27:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454550000926/2016-02-03---Dion-Mazerolle.jpg.jpg"
 primary_image_credit = "Veronika Roux"
 publishDate = "2016-02-03T20:40:00-05:00"
+related_companies = ["scene/companies/voicebox-opera-in-concert.md"]
 slug = "dion-mazerolle"
 title = "Dion Mazerolle"
 website = "http://www.domoneyartists.com/dion-mazerolle-baritone.html"

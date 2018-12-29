@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2015-12-29T22:30:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451446110907/whelan_josh_1c.jpg.jpg"
 publishDate = "2015-12-29T22:30:00-05:00"
+related_companies = ["scene/companies/latelier-lyrique-de-lopra-de-montral.md","scene/companies/lopra-de-montral.md","scene/companies/opera-5.md","scene/companies/saskatoon-opera.md","scene/companies/university-of-toronto-opera.md"]
 slug = "josh-whelan"
 title = "Josh Whelan"
 +++

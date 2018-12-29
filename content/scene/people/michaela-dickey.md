@@ -5,6 +5,7 @@ lastmod = "2015-12-19T10:50:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450540129503/2015-12-19---Michaela-Dickey.jpg.jpg"
 primary_image_credit = "Brent Calis"
 publishDate = "2015-12-19T10:50:00-05:00"
+related_companies = ["scene/companies/opera-mcgill.md","scene/companies/opera-nuova.md","scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md","scene/companies/pacific-opera-victoria.md"]
 slug = "michaela-dickey"
 title = "Michaela Dickey"
 website = "https://michaeladickey.wordpress.com/"

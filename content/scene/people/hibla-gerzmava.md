@@ -5,6 +5,7 @@ lastmod = "2017-05-16T13:36:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494955912521/2017-05-16---GERZMAVA-Hibla-Vlad-Loktev.jpg.jpg"
 primary_image_credit = "Vlad Loktev"
 publishDate = "2017-05-16T13:34:00-04:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/wiener-staatsoper.md","scene/companies/the-metropolitan-opera.md"]
 slug = "hibla-gerzmava"
 title = "Hibla Gerzmava"
 website = "http://www.hibla.ru/en/"

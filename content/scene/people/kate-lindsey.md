@@ -5,6 +5,7 @@ lastmod = "2016-10-26T19:24:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477506189794/2016-10-26---Kate-Lindsey.jpg.jpg"
 primary_image_credit = "Rosetta Greek"
 publishDate = "2016-10-26T19:24:00+01:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/los-angeles-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/bayerische-staatsoper.md","scene/companies/glyndebourne.md","scene/companies/washington-national-opera.md"]
 slug = "kate-lindsey"
 title = "Kate Lindsey"
 website = "http://katelindsey.com/"

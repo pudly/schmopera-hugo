@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-06-14T07:40:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496367741159/2017-05-29---Scott-Headshot.jpg.jpg"
 publishDate = "2017-06-01T19:43:00-06:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/vlaamse-opera.md"]
 slug = "michael-j-scott"
 title = "Michael J. Scott"
 website = "http://www.michaeljscott.nl/"

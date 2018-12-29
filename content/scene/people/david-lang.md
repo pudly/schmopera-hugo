@@ -5,6 +5,7 @@ lastmod = "2015-04-07T16:13:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428437562630/David-Lang-Photo-Credit-Peter-Serling.jpg.jpg"
 primary_image_credit = "Peter Serling"
 publishDate = "2015-04-07T16:13:00-04:00"
+related_companies = ["scene/companies/soundstreams.md","scene/companies/american-opera-projects.md"]
 slug = "david-lang"
 title = "David Lang"
 website = "http://davidlangmusic.com/"

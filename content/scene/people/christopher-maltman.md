@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-02-17T23:05:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487372627518/2017-02-17---Christopher-Maltman.jpg.jpg"
 publishDate = "2017-02-17T23:05:00+00:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/royal-opera-house.md","scene/companies/salzburg-festival.md","scene/companies/seattle-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/san-francisco-opera.md"]
 slug = "christopher-maltman"
 title = "Christopher Maltman"
 website = "http://christophermaltman.moonfruit.com/#"

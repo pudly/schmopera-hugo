@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2016-05-14T22:12:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463260281577/2016-05-15---Emma-Char.jpg.jpg"
 publishDate = "2016-05-14T22:12:00+01:00"
+related_companies = ["scene/companies/lopra-de-montral.md","scene/companies/the-santa-fe-opera.md","scene/companies/the-banff-centre.md"]
 slug = "emma-char"
 title = "Emma Char"
 website = "http://emmacharmezzo.weebly.com/"

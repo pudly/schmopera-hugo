@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2016-11-12T14:39:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478961423839/2016-11-12---Massimo-Cavalletti.jpg.jpg"
 publishDate = "2016-11-12T14:39:00+00:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/opernhaus-zurich.md","scene/companies/royal-opera-house.md","scene/companies/salzburg-festival.md","scene/companies/glyndebourne.md","scene/companies/wiener-staatsoper.md","scene/companies/staatsoper-berlin.md","scene/companies/deutsche-oper-berlin.md","scene/companies/gran-teatre-del-liceu.md"]
 slug = "massimo-cavalletti"
 title = "Massimo Cavalletti"
 website = "http://www.massimocavalletti.com/"

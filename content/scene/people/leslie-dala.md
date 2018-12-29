@@ -4,6 +4,7 @@ discipline = "Conductor"
 lastmod = "2015-04-08T10:43:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428504116084/LeslieDala.jpg.jpg"
 publishDate = "2015-04-08T10:43:00-04:00"
+related_companies = ["scene/companies/vancouver-opera.md","scene/companies/edmonton-opera.md","scene/companies/tapestry-opera.md","scene/companies/canadian-opera-company.md","scene/companies/soundstreams.md","scene/companies/university-of-toronto-opera.md"]
 slug = "leslie-dala"
 title = "Leslie Dala"
 [[social_media]]

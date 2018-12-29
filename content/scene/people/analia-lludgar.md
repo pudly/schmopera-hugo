@@ -4,6 +4,7 @@ discipline = "Composer"
 lastmod = "2017-01-21T16:51:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485017378087/2017-01-21---Analia-Lludgar.jpg.jpg"
 publishDate = "2017-01-21T16:49:00+00:00"
+related_companies = ["scene/companies/esprit-orchestra.md"]
 slug = "analia-lludgar"
 title = "Analia Lludgar"
 website = "http://www.analiallugdar.net/"

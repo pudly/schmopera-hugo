@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-09-14T21:49:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505440004902/2017-09-13---Orth_Robert.jpg.jpg"
 publishDate = "2017-09-14T21:49:00-04:00"
+related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/san-francisco-opera.md","scene/companies/on-site-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-diego-opera.md","scene/companies/canadian-opera-company.md","scene/companies/los-angeles-opera.md","scene/companies/seattle-opera.md","scene/companies/opera-philadelphia.md","scene/companies/washington-national-opera.md","scene/companies/vancouver-opera.md"]
 slug = "robert-orth"
 title = "Robert Orth"
 website = "http://www.robertorth.com/"

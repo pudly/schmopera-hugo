@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-08-19T19:49:00+02:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1440006435818/BethHeadshotSquare.jpg.jpg"
 publishDate = "2015-08-19T19:49:00+02:00"
+related_companies = ["scene/companies/halifax-summer-opera-festival.md","scene/companies/loose-tea-music-theatre.md","scene/companies/indie-opera-to.md"]
 slug = "beth-hagerman"
 title = "Beth Hagerman"
 website = "http://www.bethhagerman.com/home.html"

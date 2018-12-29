@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-11-27T18:22:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511824709659/KCP_20150424_IanMcEuen_FinalSelect_2195.jpg.jpg"
 publishDate = "2017-11-27T18:22:00-05:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/songfest.md","scene/companies/nashville-opera.md","scene/companies/washington-national-opera.md"]
 slug = "ian-mceuen"
 title = "Ian McEuen"
 [[social_media]]

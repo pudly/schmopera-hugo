@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano, Artistic Director, Opera After Hours"
 lastmod = "2015-09-01T15:52:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441137039619/094DWong-PRINTSquare.jpg.jpg"
 publishDate = "2015-09-01T15:52:00-04:00"
+related_companies = ["scene/companies/renaissance.md"]
 slug = "debi-wong"
 title = "Debi Wong"
 website = "http://www.debiwong.com/"

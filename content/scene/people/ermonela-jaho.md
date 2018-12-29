@@ -5,6 +5,7 @@ lastmod = "2016-03-04T12:18:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457093748649/JAHO-Ermonela-Half-body-bwSquare.jpg.jpg"
 primary_image_credit = "Via Zemsky/Green Artist Management"
 publishDate = "2016-03-04T12:18:00+00:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/wiener-staatsoper.md","scene/companies/staatsoper-berlin.md","scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md"]
 slug = "ermonela-jaho"
 title = "Ermonela Jaho"
 website = "http://www.ermonelajaho.com/"

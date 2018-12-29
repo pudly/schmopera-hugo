@@ -4,6 +4,7 @@ discipline = "Set & Costume Designer"
 lastmod = "2015-04-17T22:19:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429323534129/5c7c26_10fe5f979f8b42f3983dc776ad5641b8.jpg_srz_p_365_470_75_22_0.50_1.20_0.00_jpg_srz"
 publishDate = "2015-04-17T22:19:00-04:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/royal-opera-house.md"]
 slug = "patrick-duwors"
 title = "Patrick DuWors"
 website = "http://www.patrickduwors.com/"

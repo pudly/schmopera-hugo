@@ -3,6 +3,7 @@ date = "2015-04-04T22:36:00-04:00"
 lastmod = "2015-10-31T14:52:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446317522041/Logo---Tafelmusik.jpg.jpg"
 publishDate = "2015-04-04T22:36:00-04:00"
+related_people = ["scene/people/alain-coulombe.md","scene/people/keith-lam.md","scene/people/lawrence-wiliford.md","scene/people/brian-mummert.md","scene/people/colin-balzer.md","scene/people/amanda-forsythe.md","scene/people/joel-allison.md"]
 slug = "tafelmusik-baroque-orchestra-chamber-choir"
 title = "Tafelmusik Baroque Orchestra &amp; Chamber Choir"
 type_of_company = "Baroque Orchestra & Choir"

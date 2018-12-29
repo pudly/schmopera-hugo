@@ -5,6 +5,7 @@ lastmod = "2016-03-22T19:40:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458675587009/2016-03-22---Christian_van_Horn_Simon_Pauley.jpg.jpg"
 primary_image_credit = "Simon Pauley"
 publishDate = "2015-04-07T14:11:00+01:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/canadian-opera-company.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/los-angeles-opera.md"]
 slug = "christian-van-horn"
 title = "Christian van Horn"
 website = "http://www.christianvanhorn.com/"

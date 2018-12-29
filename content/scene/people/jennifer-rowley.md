@@ -5,6 +5,7 @@ lastmod = "2017-09-27T17:04:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506545943465/Rowley%20Headshot%202017.tif"
 primary_image_credit = "Matthew Holler Photography"
 publishDate = "2017-09-27T17:03:00-04:00"
+related_companies = ["scene/companies/nashville-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/semperoper-dresden.md","scene/companies/the-dallas-opera.md"]
 slug = "jennifer-rowley"
 title = "Jennifer Rowley"
 website = "http://jenniferrowley.com/index.asp"

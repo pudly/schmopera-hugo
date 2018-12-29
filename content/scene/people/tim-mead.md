@@ -5,6 +5,7 @@ lastmod = "2016-03-20T14:42:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458484936393/2016-03-20---Tim-Mead-Benjamin-Ealovega.jpg.jpg"
 primary_image_credit = "Benjamin Ealovega"
 publishDate = "2016-03-20T14:42:00+00:00"
+related_companies = ["scene/companies/vlaamse-opera.md","scene/companies/royal-opera-house.md","scene/companies/english-national-opera.md","scene/companies/glyndebourne.md","scene/companies/bayerische-staatsoper.md"]
 slug = "tim-mead"
 title = "Tim Mead"
 website = "http://www.tim-mead.com/"

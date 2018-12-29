@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2018-10-21T21:31:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540171844336/a56756_629f79f4edf94a64a823e17a340f414b.webp"
 publishDate = "2018-10-21T21:30:00-04:00"
+related_companies = ["scene/companies/vancouver-opera.md"]
 slug = "john-cudia"
 title = "John Cudia"
 website = "https://www.johncudia.com/"

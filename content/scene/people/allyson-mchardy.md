@@ -5,6 +5,7 @@ lastmod = "2017-03-15T12:01:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428346793472/AllysonMcHardyBoHuang.jpg.jpg"
 primary_image_credit = "Bo Huang"
 publishDate = "2015-04-06T20:02:00+01:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/opera-atelier.md","scene/companies/calgary-opera.md","scene/companies/pacific-opera-victoria.md","scene/companies/lopra-de-montral.md"]
 slug = "allyson-mchardy"
 title = "Allyson McHardy"
 website = "http://www.allysonmchardy.com/"

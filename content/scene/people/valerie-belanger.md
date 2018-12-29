@@ -4,6 +4,7 @@ discipline = "Soprano"
 draft = true
 lastmod = "2015-10-11T10:35:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444574098079/BelangerSquare.jpg.jpg"
+related_companies = ["scene/companies/opera-da-camera.md"]
 slug = "valerie-belanger"
 title = "Valérie Bélanger"
 website = "http://www.valeriebelangersoprano.com/home.html"

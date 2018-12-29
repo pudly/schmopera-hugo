@@ -5,6 +5,7 @@ lastmod = "2018-03-03T09:03:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520085540177/JBL-Headshot-Kim-Hardy.jpg.jpg"
 primary_image_credit = "Kim Hardy"
 publishDate = "2018-03-03T09:03:00-05:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/scottish-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/los-angeles-opera.md","scene/companies/san-francisco-opera.md","scene/companies/merola-opera-program.md","scene/companies/washington-national-opera.md"]
 slug = "joshua-bloom"
 title = "Joshua Bloom"
 website = "http://joshuabloombass.com/"

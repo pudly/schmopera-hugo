@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2015-05-05T12:35:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428443025848/GregHeadshot.jpg.jpg"
 publishDate = "2015-04-07T17:43:00-04:00"
+related_companies = ["scene/companies/toronto-operetta-theatre.md","scene/companies/voicebox-opera-in-concert.md","scene/companies/loose-tea-music-theatre.md","scene/companies/against-the-grain-theatre.md","scene/companies/fawn-chamber-creative.md","scene/companies/confidential-opera-project.md"]
 slug = "gregory-finney"
 title = "Gregory Finney"
 [[social_media]]

@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-09-15T20:46:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505522450925/2858%2BTheo%2BHoffman%2BHI%2BRES%2BART%2Bversion.jpg.jpg"
 publishDate = "2017-09-15T20:45:00-04:00"
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/the-juilliard-school.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/lyric-opera-of-kansas-city.md"]
 slug = "theo-hoffman"
 title = "Theo Hoffman"
 website = "http://www.theohoffmanbaritone.com/"

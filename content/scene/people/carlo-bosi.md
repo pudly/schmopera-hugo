@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-03-31T12:35:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490960080122/pqme5stbyefsydd1dbli"
 publishDate = "2017-03-31T12:35:00+01:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md","scene/companies/opra-national-de-paris.md"]
 slug = "carlo-bosi"
 title = "Carlo Bosi"
 +++

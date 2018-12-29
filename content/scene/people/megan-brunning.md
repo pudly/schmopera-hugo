@@ -4,6 +4,7 @@ discipline = "Coloratura soprano"
 lastmod = "2016-09-11T19:11:00+02:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473613863369/12002626_10103062479468418_7316457474628473787_o.jpg.jpg"
 publishDate = "2016-09-11T19:11:00+02:00"
+related_companies = ["scene/companies/the-atlanta-opera.md"]
 slug = "megan-brunning"
 title = "Megan Brunning"
 website = "http://www.meganbrunning.com/"

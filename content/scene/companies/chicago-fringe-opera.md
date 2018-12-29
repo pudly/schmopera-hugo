@@ -3,6 +3,7 @@ date = "2016-10-03T05:57:00-04:00"
 lastmod = "2018-09-27T21:08:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538096889842/Fringe%20Logo.jpg.jpg"
 publishDate = "2016-10-03T05:57:00-04:00"
+related_people = ["scene/people/scott-brunscheen.md","scene/people/samantha-attaguile.md"]
 slug = "chicago-fringe-opera"
 title = "Chicago Fringe Opera"
 type_of_company = "Opera Company"

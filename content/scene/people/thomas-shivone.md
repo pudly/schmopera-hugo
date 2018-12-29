@@ -4,6 +4,7 @@ discipline = "Bass-baritone"
 lastmod = "2017-09-15T13:26:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505496276150/975e75-258b8f2d3c284087a2e166093c1b042c_orig.jpg.jpg"
 publishDate = "2017-09-15T13:26:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/opera-on-the-avalon.md"]
 slug = "thomas-shivone"
 title = "Thomas Shivone"
 website = "http://www.thomasshivone.com/"

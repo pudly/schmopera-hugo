@@ -5,6 +5,7 @@ lastmod = "2016-04-29T13:38:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461933393878/2016-04-29---Stuart-Jackson.jpg.jpg"
 primary_image_credit = "Martin Sigmund "
 publishDate = "2016-04-29T13:38:00+01:00"
+related_companies = ["scene/companies/classical-opera.md","scene/companies/glyndebourne.md"]
 slug = "stuart-jackson"
 title = "Stuart Jackson"
 website = "http://www.stuartjacksontenor.com/"

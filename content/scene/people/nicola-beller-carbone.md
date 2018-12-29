@@ -5,6 +5,7 @@ lastmod = "2015-11-25T11:31:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448469013739/2015-11-25---Nicola-Beller-Carbone.jpg.jpg"
 primary_image_credit = "Photo by Caroline Laberge"
 publishDate = "2015-11-25T11:31:00-05:00"
+related_companies = ["scene/companies/lopra-de-montral.md","scene/companies/canadian-opera-company.md","scene/companies/deutsche-oper-berlin.md"]
 slug = "nicola-beller-carbone"
 title = "Nicola Beller Carbone"
 website = "http://www.bellercarbone.it/"

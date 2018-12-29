@@ -3,6 +3,7 @@ date = "2017-07-20T10:12:00-04:00"
 lastmod = "2017-07-20T10:12:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500559946347/15380631_10153863829861920_8709169437089746056_n.jpg%3Foh%3Dda01562c49f87ddbc3d477deb44f1509%26oe%3D5A0FAD0E"
 publishDate = "2017-07-20T10:12:00-04:00"
+related_people = ["scene/people/sarah-castle.md","scene/people/philip-cokorinos.md"]
 slug = "spoleto-festival-usa"
 title = "Spoleto Festival USA"
 type_of_company = "Opera Festival"

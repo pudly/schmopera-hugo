@@ -5,6 +5,7 @@ lastmod = "2015-04-07T17:03:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428440536122/Eric_Owens_-_Audition_Headshot_-_credit_Dario_Acosta.jpg.jpg"
 primary_image_credit = "Dario Acosta"
 publishDate = "2015-04-07T17:03:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/lyric-opera-of-chicago.md"]
 slug = "eric-owens"
 title = "Eric Owens"
 [[social_media]]

@@ -4,6 +4,7 @@ discipline = "Bass-baritone"
 lastmod = "2017-11-27T18:25:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511824997263/223920_750.jpg.jpg"
 publishDate = "2017-11-27T18:25:00-05:00"
+related_companies = ["scene/companies/opera-theatre-of-st-louis.md","scene/companies/merola-opera-program.md","scene/companies/songfest.md"]
 slug = "josh-quinn"
 title = "Josh Quinn"
 [[social_media]]

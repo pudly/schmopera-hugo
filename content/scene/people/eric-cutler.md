@@ -5,6 +5,7 @@ lastmod = "2018-10-22T11:43:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540222932039/Eric-Cutler-Dario-Acosta-1030x944.jpg.jpg"
 primary_image_credit = "Dario Acosta"
 publishDate = "2018-10-22T11:43:00-04:00"
+related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/la-monnaie.md","scene/companies/canadian-opera-company.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/the-santa-fe-opera.md","scene/companies/glyndebourne.md"]
 slug = "eric-cutler"
 title = "Eric Cutler"
 website = "http://ericcutler.com/"

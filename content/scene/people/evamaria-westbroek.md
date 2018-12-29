@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-05-14T14:54:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431629020806/1384480277-406891695.jpg.jpg"
 publishDate = "2015-05-14T14:54:00-04:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/bayerische-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/staatsoper-berlin.md","scene/companies/teatro-alla-scala.md"]
 slug = "evamaria-westbroek"
 title = "Eva-Maria Westbroek"
 website = "http://www.evamariawestbroek.com/#%21HOME%7CmainPage"

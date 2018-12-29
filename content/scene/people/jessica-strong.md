@@ -5,6 +5,7 @@ lastmod = "2017-09-16T17:43:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505597872522/952ebf_90b47659eeeb4e9c9bcf74c9d2610e49.webp"
 primary_image_credit = "Dustin Leader Photography"
 publishDate = "2017-09-16T17:41:00-04:00"
+related_companies = ["scene/companies/calgary-opera.md","scene/companies/oper-frankfurt.md","scene/companies/university-of-toronto-opera.md","scene/companies/opera-nuova.md"]
 slug = "jessica-strong"
 title = "Jessica Strong"
 website = "https://www.jessicastrong.com/"

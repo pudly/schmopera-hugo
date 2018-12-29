@@ -5,6 +5,7 @@ lastmod = "2017-10-15T20:48:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508114916099/Mario_Cheng_pc_Dario_Acosta_a_300dpi.jpg.jpg"
 primary_image_credit = "Dario Acosta"
 publishDate = "2017-10-15T20:48:00-04:00"
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/oper-frankfurt.md"]
 slug = "mario-chang"
 title = "Mario Chang"
 website = "http://www.mariochang.com/"

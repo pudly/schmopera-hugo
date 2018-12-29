@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-02-23T12:34:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485350598041/2017-01-25---Cliff-Zammitt-Stevens.jpg.jpg"
 publishDate = "2017-01-25T13:23:00+00:00"
+related_companies = ["scene/companies/popup-opera.md"]
 slug = "cliff-zammit-stevens"
 title = "Cliff Zammit Stevens"
 website = "http://www.cliffzammitstevens.com/"

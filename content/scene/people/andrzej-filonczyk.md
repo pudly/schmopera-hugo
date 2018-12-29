@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2018-01-16T19:49:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516150072561/4_7-1000x1500.jpg.jpg"
 publishDate = "2018-01-16T19:49:00-05:00"
+related_companies = ["scene/companies/opernhaus-zurich.md","scene/companies/canadian-opera-company.md"]
 slug = "andrzej-filonczyk"
 title = "Andrzej Filończyk"
 +++

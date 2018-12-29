@@ -5,6 +5,7 @@ lastmod = "2015-09-09T11:01:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441810858708/marion_newman_headshot_2015_4x6_coSquare.jpg.jpg"
 primary_image_credit = "Photo courtesy of Domoney Artists Management"
 publishDate = "2015-09-09T10:56:00-04:00"
+related_companies = ["scene/companies/opera-lyra-ottawa.md","scene/companies/pacific-opera-victoria.md"]
 slug = "marion-newman"
 title = "Marion Newman"
 website = "http://www.marionnewman.com/"

@@ -5,6 +5,7 @@ lastmod = "2017-10-09T19:03:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507589973205/%23Henschel%20%E2%88%8F%20Barbara%20Eichinger.jpg.jpg"
 primary_image_credit = "Barbara Eichinger"
 publishDate = "2017-10-09T19:03:00-04:00"
+related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/semperoper-dresden.md","scene/companies/royal-opera-house.md","scene/companies/los-angeles-opera.md","scene/companies/glyndebourne.md","scene/companies/wiener-staatsoper.md","scene/companies/deutsche-oper-berlin.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/salzburg-festival.md"]
 slug = "jane-henschel"
 title = "Jane Henschel"
 +++

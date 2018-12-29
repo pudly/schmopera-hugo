@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-11-25T09:42:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511620698980/cache_2457977507.jpg.jpg"
 publishDate = "2017-11-25T09:42:00-05:00"
+related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/glyndebourne.md","scene/companies/la-monnaie.md"]
 slug = "bjorn-burger"
 title = "Björn Bürger"
 website = "http://www.bjoernbuerger.com/en/"

@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2018-01-21T18:20:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516576705519/14853081_1737029113285435_6552548530225991812_o.jpg%3Foh%3Da9d6c90d703a981eefb88f542e6d47b0%26oe%3D5AEB71B4"
 publishDate = "2018-01-21T18:20:00-05:00"
+related_companies = ["scene/companies/washington-national-opera.md","scene/companies/los-angeles-opera.md"]
 slug = "arnold-livingston-geis"
 title = "Arnold Livingston Geis"
 [[social_media]]

@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2018-02-26T14:10:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519672072841/BALLERINI-Santiago-Gabriel-Machado-.png"
 publishDate = "2018-02-26T14:10:00-05:00"
+related_companies = ["scene/companies/the-atlanta-opera.md","scene/companies/the-dallas-opera.md","scene/companies/the-metropolitan-opera.md"]
 slug = "santiago-ballerini"
 title = "Santiago Ballerini"
 website = "http://santiagoballerini.com/"

@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2015-04-07T16:05:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428436751849/CangelosiHeadshot.jpg.jpg"
 publishDate = "2015-04-07T16:01:00-04:00"
+related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/the-metropolitan-opera.md","scene/companies/canadian-opera-company.md","scene/companies/san-francisco-opera.md","scene/companies/the-santa-fe-opera.md"]
 slug = "david-cangelosi"
 title = "David Cangelosi"
 website = "http://www.davidcangelosi.com/"

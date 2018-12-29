@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-12-15T12:11:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513357759438/Justin%20New%20headshot%20for%20web.jpg.jpg"
 publishDate = "2017-12-15T12:11:00-05:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/canadian-opera-company.md","scene/companies/calgary-opera.md","scene/companies/tapestry-opera.md","scene/companies/soundstreams.md","scene/companies/pacific-opera-victoria.md"]
 slug = "justin-welsh"
 title = "Justin Welsh"
 website = "http://www.justinwelsh.com/"

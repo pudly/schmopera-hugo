@@ -5,6 +5,7 @@ lastmod = "2018-01-16T19:52:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516150248921/onay%2520kose%2520clive%2520barda%2520headshot%2520hi%2520res.jpg.jpg"
 primary_image_credit = "Clive Barda"
 publishDate = "2018-01-16T19:52:00-05:00"
+related_companies = ["scene/companies/salzburg-festival.md","scene/companies/oper-frankfurt.md","scene/companies/canadian-opera-company.md","scene/companies/the-juilliard-school.md"]
 slug = "onay-kose"
 title = "Önay Köse"
 +++

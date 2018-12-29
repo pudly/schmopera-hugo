@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2015-04-07T15:58:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428436615402/DanielledeNiese-Website.jpg.jpg"
 publishDate = "2015-04-07T15:58:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md"]
 slug = "danielle-de-niese"
 title = "Danielle de Niese"
 website = "http://www.danielledeniese.com/en/"

@@ -5,6 +5,7 @@ lastmod = "2015-04-12T11:26:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428852380632/183833_750.jpg.jpg"
 primary_image_credit = "Lisa Mininni"
 publishDate = "2015-04-12T11:26:00-04:00"
+related_companies = ["scene/companies/opera-by-request.md"]
 slug = "kira-braun"
 title = "Kira Braun"
 website = "http://kirabraunsoprano.instantencore.com/web/home.aspx"

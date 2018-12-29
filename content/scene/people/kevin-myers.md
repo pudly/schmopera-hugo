@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-06-24T14:24:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498335797065/Screen%20Shot%202017-06-24%20at%202.22.58%20PM.png"
 publishDate = "2017-06-24T14:24:00-06:00"
+related_companies = ["scene/companies/highlands-opera-studio.md","scene/companies/opera-5.md"]
 slug = "kevin-myers"
 title = "Kevin Myers"
 +++

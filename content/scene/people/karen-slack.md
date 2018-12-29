@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2018-01-29T18:05:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517266728942/f2b22b_c6cf536072c34a65b41f570089a66006.webp"
 publishDate = "2018-01-29T18:05:00-05:00"
+related_companies = ["scene/companies/minnesota-opera.md","scene/companies/arizona-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/washington-national-opera.md","scene/companies/des-moines-metro-opera.md"]
 slug = "karen-slack"
 title = "Karen Slack"
 website = "http://www.sopranokarenslack.com/default.html"

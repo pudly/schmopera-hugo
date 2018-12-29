@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2016-02-14T18:28:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455492399181/2016-02-14---Michael-Colvin.jpg.jpg"
 publishDate = "2016-02-14T18:28:00-05:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/royal-opera-house.md","scene/companies/english-national-opera.md","scene/companies/vancouver-opera.md","scene/companies/pacific-opera-victoria.md","scene/companies/manitoba-opera.md","scene/companies/lyric-opera-of-kansas-city.md","scene/companies/opera-lyra-ottawa.md"]
 slug = "michael-colvin"
 title = "Michael Colvin"
 website = "http://www.michaelcolvin.com/"

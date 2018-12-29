@@ -3,6 +3,7 @@ date = "2015-04-04T21:45:00-04:00"
 lastmod = "2015-04-04T21:45:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428198151956/2013_Logo_Season3_4_t250.gif%3F2fda506767b58ed02cfc53b8db969377bec8c5c0"
 publishDate = "2015-04-04T21:45:00-04:00"
+related_people = ["scene/people/marco-guidarini.md","scene/people/joyce-elkhoury.md","scene/people/lise-lindstrom.md","scene/people/emily-fons.md","scene/people/talise-trevigne.md","scene/people/corinne-winters.md","scene/people/jnai-bridges.md","scene/people/andrew-shore.md","scene/people/ferruccio-furlanetto.md","scene/people/sarah-castle.md","scene/people/alfred-walker.md","scene/people/anthony-clark-evans.md","scene/people/robert-orth.md","scene/people/joseph-gaines.md","scene/people/troy-cook.md","scene/people/sarah-tucker.md","scene/people/andriana-chuchman.md","scene/people/alan-opie.md","scene/people/susannah-biller.md","scene/people/blythe-gaissert.md","scene/people/greer-grimsley.md","scene/people/ricardo-rivera.md","scene/people/evan-hughes.md","scene/people/leah-partridge.md"]
 slug = "san-diego-opera"
 title = "San Diego Opera"
 type_of_company = "Opera Company"

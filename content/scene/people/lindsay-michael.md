@@ -4,6 +4,7 @@ discipline = "Co-founder, Liederwölfe Opera Collective"
 lastmod = "2015-09-02T14:20:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441217917243/LindsaySquare.jpg.jpg"
 publishDate = "2015-09-02T14:20:00-04:00"
+related_companies = ["scene/companies/liederwolfe-opera-collective.md","scene/companies/indie-opera-to.md"]
 slug = "lindsay-michael"
 title = "Lindsay Michael"
 [[social_media]]

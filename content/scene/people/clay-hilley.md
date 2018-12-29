@@ -5,6 +5,7 @@ lastmod = "2017-12-30T13:01:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514656495253/IMG_2475.jpg.jpg"
 primary_image_credit = "Bethany Davis Photography"
 publishDate = "2017-12-30T13:01:00-05:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/washington-national-opera.md","scene/companies/the-dallas-opera.md"]
 slug = "clay-hilley"
 title = "Clay Hilley"
 website = "http://www.clayhilleytenor.com/"

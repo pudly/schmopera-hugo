@@ -5,6 +5,7 @@ lastmod = "2015-09-21T22:03:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442887315533/CASTRONOVO-Charles-USE-FOR-11-12-SEASON-2-Credit-Pia-ClodiSquare.jpg.jpg"
 primary_image_credit = "Photo by Pia Clodi."
 publishDate = "2015-09-21T22:03:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/wiener-staatsoper.md","scene/companies/deutsche-oper-berlin.md"]
 slug = "charles-castronovo"
 title = "Charles Castronovo"
 website = "http://charlescastronovo.com/"

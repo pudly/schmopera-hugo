@@ -4,6 +4,7 @@ discipline = "Pianist, conductor"
 lastmod = "2016-11-24T14:11:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479996113999/2016-11-24---WarrenJones.jpg.jpg"
 publishDate = "2015-05-25T18:33:00+01:00"
+related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/merola-opera-program.md","scene/companies/the-juilliard-school.md","scene/companies/manhattan-school-of-music.md","scene/companies/music-academy-of-the-west-voice-program.md"]
 slug = "warren-jones"
 title = "Warren Jones"
 website = "http://www.warrenjones.com/home.html"

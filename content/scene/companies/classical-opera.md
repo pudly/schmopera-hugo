@@ -3,6 +3,7 @@ date = "2016-04-08T14:52:00+01:00"
 lastmod = "2016-04-08T14:52:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460123531962/Logo---Classical-Opera.jpg.jpg"
 publishDate = "2016-04-08T14:52:00+01:00"
+related_people = ["scene/people/ian-page.md","scene/people/gemma-summerfield.md","scene/people/stuart-jackson.md","scene/people/angela-simkin.md","scene/people/jennifer-france.md","scene/people/tom-verney.md","scene/people/david-shipley.md","scene/people/jacques-imbrailo.md","scene/people/ben-johnson.md","scene/people/james-laing.md","scene/people/helen-sherman.md","scene/people/sam-furness.md","scene/people/lawrence-zazzo.md","scene/people/louise-alder.md","scene/people/eleanor-dennis.md","scene/people/christopher-ainslie.md","scene/people/rupert-enticknap.md"]
 slug = "classical-opera"
 title = "Classical Opera"
 type_of_company = "Period Orchestra"

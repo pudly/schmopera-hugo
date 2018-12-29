@@ -5,6 +5,7 @@ lastmod = "2015-05-06T14:08:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430935435880/Michele_Fotor.jpg.jpg"
 primary_image_credit = "Grant Cole, Top5design"
 publishDate = "2015-05-06T14:07:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/voicebox-opera-in-concert.md","scene/companies/toronto-operetta-theatre.md"]
 slug = "michle-bogdanowicz"
 title = "Michèle Bogdanowicz"
 website = "http://www.michele-bogdanowicz.com/"

@@ -5,6 +5,7 @@ lastmod = "2015-09-29T16:50:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443559731267/Peter-Mattei-1---foto-H%C3%9Ckan-FlankSquare.jpg.jpg"
 primary_image_credit = "Photo: Hükan Flank"
 publishDate = "2015-09-29T16:50:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/staatsoper-berlin.md","scene/companies/wiener-staatsoper.md","scene/companies/san-francisco-opera.md","scene/companies/opernhaus-zurich.md","scene/companies/bayerische-staatsoper.md","scene/companies/royal-opera-house.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/salzburg-festival.md","scene/companies/opra-national-de-paris.md"]
 slug = "peter-mattei"
 title = "Peter Mattei"
 [[social_media]]

@@ -5,6 +5,7 @@ lastmod = "2015-04-07T16:19:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428437907348/DawnUpshawc-pc-BrookeIrish.jpg.jpg"
 primary_image_credit = "Brooke Irish"
 publishDate = "2015-04-07T16:19:00-04:00"
+related_companies = ["scene/companies/glyndebourne.md","scene/companies/the-metropolitan-opera.md"]
 slug = "dawn-upshaw"
 title = "Dawn Upshaw"
 [[social_media]]

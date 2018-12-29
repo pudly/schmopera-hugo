@@ -3,6 +3,7 @@ date = "2017-04-24T19:43:00-04:00"
 lastmod = "2017-04-24T19:43:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493077372895/Logo---Gramercy-Opera.jpg.jpg"
 publishDate = "2017-04-24T19:43:00-04:00"
+related_people = ["scene/people/chelsea-feltman.md"]
 slug = "gramercy-opera"
 title = "Gramercy Opera"
 type_of_company = "Opera Company"

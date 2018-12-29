@@ -5,6 +5,7 @@ lastmod = "2017-05-21T17:52:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495403551180/DSC_4595.jpg.jpg"
 primary_image_credit = "Jiyang Chen"
 publishDate = "2015-07-21T13:56:00-04:00"
+related_companies = ["scene/companies/opera-on-the-avalon.md","scene/companies/songfest.md"]
 slug = "jeremy-hirsch"
 title = "Jeremy Hirsch"
 website = "http://www.jeremyhirschbaritone.com/"

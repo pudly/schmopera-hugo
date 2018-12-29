@@ -3,6 +3,7 @@ date = "2015-09-18T11:40:00-04:00"
 lastmod = "2015-09-18T11:40:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442590638774/EratoSquare.jpg.jpg"
 publishDate = "2015-09-18T11:40:00-04:00"
+related_people = ["scene/people/michael-park.md"]
 slug = "erato-ensemble"
 title = "Erato Ensemble"
 type_of_company = "Chamber ensemble"

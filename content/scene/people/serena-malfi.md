@@ -5,6 +5,7 @@ lastmod = "2015-04-15T22:39:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429151705395/0e4e2f_0acaa6cb45c406a692b969cf364d4e5c.jpg_srb_p_600_688_75_22_0.50_1.20_0.00_jpg_srb"
 primary_image_credit = "Pietro Spagnoli"
 publishDate = "2015-04-15T22:39:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/bayerische-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/wiener-staatsoper.md","scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md"]
 slug = "serena-malfi"
 title = "Serena Malfi"
 website = "http://www.serenamalfi.com/"

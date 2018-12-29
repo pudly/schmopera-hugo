@@ -5,6 +5,7 @@ lastmod = "2017-11-19T11:53:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511110105703/John_Tessier_pc_Rozarii_Lynch_a_300dpi.jpg.jpg"
 primary_image_credit = "Rosarii Lynch"
 publishDate = "2017-11-19T11:53:00-05:00"
+related_companies = ["scene/companies/calgary-opera.md","scene/companies/lopra-de-montral.md","scene/companies/seattle-opera.md","scene/companies/royal-opera-house.md","scene/companies/english-national-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/manitoba-opera.md","scene/companies/edmonton-opera.md","scene/companies/minnesota-opera.md","scene/companies/opra-de-qubec.md","scene/companies/washington-national-opera.md","scene/companies/glimmerglass-festival.md"]
 slug = "john-tessier"
 title = "John Tessier"
 website = "http://johnptessier.com/"

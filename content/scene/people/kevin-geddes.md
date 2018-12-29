@@ -5,6 +5,7 @@ lastmod = "2015-10-31T16:17:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446318994977/2015-10-31---Atelier---Kevin-Geddes---Square.jpg.jpg"
 primary_image_credit = "Photo by Brent Calis"
 publishDate = "2015-10-31T15:16:00-04:00"
+related_companies = ["scene/companies/lopra-de-montral.md","scene/companies/latelier-lyrique-de-lopra-de-montral.md"]
 slug = "kevin-geddes"
 title = "Kevin Geddes"
 [[social_media]]

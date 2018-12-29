@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-06-25T11:36:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498412136802/%3Fformat%3D1500w"
 publishDate = "2017-06-25T11:36:00-06:00"
+related_companies = ["scene/companies/toronto-symphony-orchestra.md","scene/companies/glyndebourne.md","scene/companies/teatro-alla-scala.md"]
 slug = "aline-kutan"
 title = "Aline Kutan"
 website = "http://www.alinekutan.com/"

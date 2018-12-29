@@ -5,6 +5,7 @@ lastmod = "2016-10-11T10:15:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476176459891/2016-10-10--Christian-Bowers.jpg.jpg"
 primary_image_credit = "Arielle Doneson"
 publishDate = "2016-10-11T10:15:00+01:00"
+related_companies = ["scene/companies/washington-national-opera.md","scene/companies/utah-opera.md"]
 slug = "christian-bowers"
 title = "Christian Bowers"
 website = "http://www.christianbowersbaritone.com/"

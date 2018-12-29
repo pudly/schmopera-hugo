@@ -3,6 +3,7 @@ date = "2015-04-04T21:24:00-04:00"
 lastmod = "2015-10-31T14:41:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446316898228/Logo---OO.jpg.jpg"
 publishDate = "2015-04-04T21:24:00-04:00"
+related_people = ["scene/people/kristine-dandavino.md","scene/people/abigail-freeman.md","scene/people/natalya-matyusheva.md"]
 slug = "oshawa-opera"
 title = "Oshawa Opera"
 type_of_company = "Opera Company"

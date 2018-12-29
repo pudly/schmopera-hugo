@@ -4,6 +4,7 @@ discipline = "Composer"
 lastmod = "2017-06-15T21:30:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497583816643/2017-06-12---Omar-Daniel.jpg.jpg"
 publishDate = "2017-06-15T21:30:00-06:00"
+related_companies = ["scene/companies/tapestry-opera.md"]
 slug = "omar-daniel"
 title = "Omar Daniel"
 +++

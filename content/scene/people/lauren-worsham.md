@@ -4,6 +4,7 @@ discipline = "Singer, actor"
 lastmod = "2016-10-27T13:40:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477571849539/2016-10-27---Lauren-Worsham.jpg.jpg"
 publishDate = "2016-10-27T13:39:00+01:00"
+related_companies = ["scene/companies/los-angeles-opera.md"]
 slug = "lauren-worsham"
 title = "Lauren Worsham"
 website = "http://www.laurenworsham.com/about.html"

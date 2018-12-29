@@ -5,6 +5,7 @@ lastmod = "2017-09-15T12:50:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505494205782/BLUE051.jpg.jpg"
 primary_image_credit = "Andrew MacNaughtan"
 publishDate = "2017-09-15T12:50:00-04:00"
+related_companies = ["scene/companies/toronto-masque-theatre.md","scene/companies/royal-opera-house.md","scene/companies/vancouver-opera.md","scene/companies/edmonton-opera.md"]
 slug = "patricia-ocallaghan"
 title = "Patricia O&#039;Callaghan"
 website = "http://www.patricia-ocallaghan.com/index.html"

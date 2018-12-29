@@ -5,6 +5,7 @@ lastmod = "2017-05-21T17:44:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495402898112/corrine-byrne-soprano_orig.jpg.jpg"
 primary_image_credit = "Jessica Osber"
 publishDate = "2017-05-21T17:43:00-04:00"
+related_companies = ["scene/companies/brooklyn-academy-of-music.md"]
 slug = "corrine-byrne"
 title = "Corrine Byrne"
 website = "http://www.corrinebyrne.com/"

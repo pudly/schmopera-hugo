@@ -5,6 +5,7 @@ lastmod = "2017-10-17T20:00:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508284631117/Hartig%20High-Res%203%E2%88%8F%20Yannis%20Velissaridis.jpg.jpg"
 primary_image_credit = "Yannis Velissaridis"
 publishDate = "2017-10-17T20:00:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/wiener-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/gran-teatre-del-liceu.md"]
 slug = "anita-hartig"
 title = "Anita Hartig"
 website = "http://anitahartig.com/"

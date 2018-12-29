@@ -5,6 +5,7 @@ lastmod = "2017-03-15T12:29:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474630549858/2016-09-23---Angela-Brower.jpg.jpg"
 primary_image_credit = "Patrick Vogel"
 publishDate = "2016-09-23T12:37:00+01:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/salzburg-festival.md","scene/companies/bayerische-staatsoper.md","scene/companies/glimmerglass-festival.md","scene/companies/wiener-staatsoper.md","scene/companies/san-francisco-opera.md"]
 slug = "angela-brower"
 title = "Angela Brower"
 website = "http://angelabrower.com/"

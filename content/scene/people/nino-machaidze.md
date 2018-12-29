@@ -5,6 +5,7 @@ lastmod = "2017-10-09T10:46:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507560079944/MACHAIDZE-Nino-Wilson-Santinelli1-886x1030.jpg.jpg"
 primary_image_credit = "Wilson Santinelli"
 publishDate = "2017-10-09T10:46:00-04:00"
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/the-metropolitan-opera.md","scene/companies/la-monnaie.md","scene/companies/teatro-alla-scala.md","scene/companies/staatsoper-berlin.md","scene/companies/deutsche-oper-berlin.md","scene/companies/opra-national-de-paris.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/royal-opera-house.md","scene/companies/wiener-staatsoper.md"]
 slug = "nino-machaidze"
 title = "Nino Machaidze"
 [[social_media]]

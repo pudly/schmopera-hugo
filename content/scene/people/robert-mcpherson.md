@@ -5,6 +5,7 @@ lastmod = "2016-10-20T11:46:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476959936116/2016-10-21---Paul_Gibbons_McPherson.jpg.jpg"
 primary_image_credit = "Paul Gibbons"
 publishDate = "2016-10-20T11:46:00+01:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/washington-national-opera.md","scene/companies/welsh-national-opera.md","scene/companies/the-metropolitan-opera.md"]
 slug = "robert-mcpherson"
 title = "Robert McPherson"
 [[social_media]]

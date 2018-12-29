@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2017-03-22T12:27:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490185110326/2017-03-22---Sam-Furness.jpg.jpg"
 publishDate = "2017-03-22T12:27:00+00:00"
+related_companies = ["scene/companies/garsington-opera.md","scene/companies/classical-opera.md","scene/companies/northern-ireland-opera.md","scene/companies/opera-holland-park.md","scene/companies/scottish-opera.md"]
 slug = "sam-furness"
 title = "Sam Furness"
 +++

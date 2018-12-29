@@ -5,6 +5,7 @@ lastmod = "2017-10-23T14:30:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508783392403/Gordon_Gietz_-_Headshot2_-_Photo_Credit_Peter_Hurley.jpg.jpg"
 primary_image_credit = "Peter Hurley"
 publishDate = "2017-10-23T14:30:00-04:00"
+related_companies = ["scene/companies/edmonton-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/pacific-opera-victoria.md"]
 slug = "gordon-gietz"
 title = "Gordon Gietz"
 website = "http://www.gordongietz.com/"

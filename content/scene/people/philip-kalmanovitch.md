@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2015-05-05T14:25:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430850047412/PhilipKalmanovitch8x10.jpg%3Fformat%3D500w"
 publishDate = "2015-05-05T14:25:00-04:00"
+related_companies = ["scene/companies/latelier-lyrique-de-lopra-de-montral.md","scene/companies/the-banff-centre.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
 slug = "philip-kalmanovitch"
 title = "Philip Kalmanovitch"
 website = "http://www.philipkalmanovitch.com/"

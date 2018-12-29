@@ -3,6 +3,7 @@ date = "2015-06-05T14:29:00-04:00"
 draft = true
 lastmod = "2015-06-05T14:29:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433528732019/3be7a9375a0546cb02a01b8270a922db9dfca52b.gif"
+related_people = ["scene/people/aviva-fortunata.md","scene/people/jamie-barton.md","scene/people/dmitri-hvorostovsky.md","scene/people/ryan-speedo-green.md","scene/people/patricia-bardon.md","scene/people/anush-hovhannisyan.md","scene/people/lauren-michelle.md"]
 slug = "cardiff-singer-of-the-world-competition"
 title = "Cardiff Singer of the World Competition"
 type_of_company = "Singing Competition"

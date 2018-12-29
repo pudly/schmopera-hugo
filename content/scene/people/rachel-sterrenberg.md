@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-09-15T21:48:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505526346859/RachelHeadshot.jpeg"
 publishDate = "2017-09-15T21:48:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/minnesota-opera.md","scene/companies/english-national-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/the-dallas-opera.md","scene/companies/opera-theatre-of-st-louis.md"]
 slug = "rachel-sterrenberg"
 title = "Rachel Sterrenberg"
 website = "http://www.rachelsterrenberg.com/"

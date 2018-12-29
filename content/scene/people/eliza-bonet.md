@@ -4,6 +4,7 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-01-28T09:48:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485596837358/2a16db_ffca228d22e24bd5944bfc002c7f1532.jpg_srz_382_666_85_22_0.50_1.20_0.00_jpg_srz"
 publishDate = "2017-01-28T09:47:00+00:00"
+related_companies = ["scene/companies/nashville-opera.md","scene/companies/opera-on-the-avalon.md","scene/companies/florida-grand-opera.md","scene/companies/merola-opera-program.md","scene/companies/san-francisco-opera.md"]
 slug = "eliza-bonet"
 title = "Eliza Bonet"
 website = "http://www.elizabonet.com/"

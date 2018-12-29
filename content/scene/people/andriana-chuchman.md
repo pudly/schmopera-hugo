@@ -5,6 +5,7 @@ lastmod = "2017-09-25T12:51:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506357990392/1496b2_8c6647f2ce8d36139ea5456639cd47d9.webp"
 primary_image_credit = "Chia Messina"
 publishDate = "2017-09-25T12:51:00-04:00"
+related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/washington-national-opera.md","scene/companies/glyndebourne.md","scene/companies/houston-grand-opera.md","scene/companies/san-diego-opera.md","scene/companies/los-angeles-opera.md","scene/companies/the-atlanta-opera.md","scene/companies/glimmerglass-festival.md"]
 slug = "andriana-chuchman"
 title = "Andriana Chuchman"
 website = "https://www.andrianachuchman.com/"

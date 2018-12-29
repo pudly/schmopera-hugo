@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2016-01-12T13:06:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452621839840/2016-01-12---John-Fanning.jpg.jpg"
 publishDate = "2016-01-12T13:06:00-05:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/calgary-opera.md","scene/companies/arizona-opera.md","scene/companies/edmonton-opera.md","scene/companies/english-national-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/pacific-opera-victoria.md","scene/companies/vancouver-opera.md","scene/companies/lopra-de-montral.md","scene/companies/opra-de-qubec.md"]
 slug = "john-fanning"
 title = "John Fanning"
 +++

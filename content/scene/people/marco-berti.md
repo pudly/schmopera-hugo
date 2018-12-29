@@ -5,6 +5,7 @@ lastmod = "2015-09-30T09:25:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443619366964/Berti.JPG"
 primary_image_credit = "Photo: Gianluca Dangerio"
 publishDate = "2015-09-30T09:25:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/royal-conservatory-of-music.md"]
 slug = "marco-berti"
 title = "Marco Berti"
 [[social_media]]

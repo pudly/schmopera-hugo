@@ -4,6 +4,7 @@ discipline = "Actor, playwright, librettist"
 lastmod = "2015-10-02T12:41:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443804033432/julie_tepperman.png"
 publishDate = "2015-10-02T12:41:00-04:00"
+related_companies = ["scene/companies/tapestry-opera.md"]
 slug = "julie-tepperman"
 title = "Julie Tepperman"
 +++

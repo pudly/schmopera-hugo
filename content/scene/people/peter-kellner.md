@@ -4,6 +4,7 @@ discipline = "Bass"
 lastmod = "2017-09-06T21:37:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504748180274/579a24e82341a.jpg.jpg"
 publishDate = "2017-09-06T21:37:00-04:00"
+related_companies = ["scene/companies/salzburg-festival.md","scene/companies/glyndebourne.md"]
 slug = "peter-kellner"
 title = "Peter Kellner"
 +++

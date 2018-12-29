@@ -5,6 +5,7 @@ draft = true
 lastmod = "2017-07-15T17:46:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500154961771/2017-07-16---Bicket-Richard-Haughton.jpg.jpg"
 primary_image_credit = "Richard Haughton"
+related_companies = ["scene/companies/the-santa-fe-opera.md","scene/companies/english-national-opera.md","scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md","scene/companies/houston-grand-opera.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/scottish-opera.md","scene/companies/opera-australia.md","scene/companies/welsh-national-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/minnesota-opera.md","scene/companies/los-angeles-opera.md","scene/companies/opera-north.md"]
 slug = "harry-bicket"
 title = "Harry Bicket"
 +++

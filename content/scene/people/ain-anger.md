@@ -4,6 +4,7 @@ discipline = "Bass"
 lastmod = "2016-03-19T14:19:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458397054711/2016-03-19---Ain-Anger.jpg.jpg"
 publishDate = "2016-03-19T14:19:00+00:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/wiener-staatsoper.md","scene/companies/bayerische-staatsoper.md","scene/companies/san-francisco-opera.md"]
 slug = "ain-anger"
 title = "Ain Anger"
 [[social_media]]

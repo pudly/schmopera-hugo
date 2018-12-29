@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2016-05-24T06:32:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464085905644/2016-05-24---John-Hudson.gif"
 publishDate = "2016-05-24T06:32:00-04:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/welsh-national-opera.md","scene/companies/scottish-opera.md"]
 slug = "john-hudson"
 title = "John Hudson"
 website = "http://www.johnhudsontenor.com/"

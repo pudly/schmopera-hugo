@@ -5,6 +5,7 @@ lastmod = "2016-04-29T13:46:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461933943040/JF_new_sq-300x300.jpg.jpg"
 primary_image_credit = "jamesblackmanagement.com"
 publishDate = "2016-04-29T13:46:00+01:00"
+related_companies = ["scene/companies/classical-opera.md","scene/companies/opera-north.md","scene/companies/scottish-opera.md"]
 slug = "jennifer-france"
 title = "Jennifer France"
 [[social_media]]

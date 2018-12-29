@@ -5,6 +5,7 @@ lastmod = "2015-09-29T16:29:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443558562542/SonyaY.jpg.jpg"
 primary_image_credit = "Photo: Gregor Hohenberg / SonyClassical"
 publishDate = "2015-09-29T16:29:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/staatsoper-berlin.md","scene/companies/royal-opera-house.md","scene/companies/wiener-staatsoper.md"]
 slug = "sonya-yoncheva"
 title = "Sonya Yoncheva"
 website = "http://sonyayoncheva.com/en/paris-mon-amour-2015-intro"

@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2015-07-17T14:44:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437165650071/FordWeb_1Square.jpg.jpg"
 publishDate = "2015-07-17T14:44:00-06:00"
+related_companies = ["scene/companies/university-of-toronto-opera.md","scene/companies/highlands-opera-studio.md","scene/companies/halifax-summer-opera-festival.md"]
 slug = "william-ford"
 title = "William Ford"
 +++

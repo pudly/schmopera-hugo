@@ -4,6 +4,7 @@ discipline = "Baritone, Musicologiest"
 lastmod = "2015-07-15T21:27:00-06:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436739636382/JohnHolland.jpg.jpg"
 publishDate = "2015-07-12T16:20:00-06:00"
+related_companies = ["scene/companies/prague-summer-nights.md"]
 slug = "john-holland"
 title = "John Holland"
 website = "http://www.johnhollandmusic.ca/"

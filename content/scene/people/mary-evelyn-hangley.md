@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-10-02T13:34:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506965497634/ntNN1HXT.jpg.jpg"
 publishDate = "2017-10-02T13:34:00-04:00"
+related_companies = ["scene/companies/minnesota-opera.md","scene/companies/merola-opera-program.md"]
 slug = "mary-evelyn-hangley"
 title = "Mary Evelyn Hangley"
 website = "https://www.maryevelynhangley.com/"

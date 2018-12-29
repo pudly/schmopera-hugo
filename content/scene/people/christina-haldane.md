@@ -5,6 +5,7 @@ lastmod = "2017-06-01T21:55:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496368302513/2017-05-29---Full---Christina-Haldane-Headshot.jpg.jpg"
 primary_image_credit = "Kristen Hoebermann"
 publishDate = "2017-06-01T21:53:00-04:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/university-of-toronto-opera.md"]
 slug = "christina-haldane"
 title = "Christina Haldane"
 website = "http://www.christinahaldane.com/"

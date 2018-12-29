@@ -4,6 +4,7 @@ discipline = "Conductor"
 lastmod = "2015-06-05T16:09:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433534874578/Anna.jpg.jpg"
 publishDate = "2015-06-05T16:09:00-04:00"
+related_companies = ["scene/companies/the-dallas-opera.md"]
 slug = "anna-skryleva"
 title = "Anna Skryleva"
 website = "http://www.annaskryleva.com/"

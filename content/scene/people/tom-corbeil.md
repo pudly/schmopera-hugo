@@ -4,6 +4,7 @@ discipline = "Bass-baritone"
 lastmod = "2015-04-23T00:12:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429762290001/Corbeil.jpg.jpg"
 publishDate = "2015-04-23T00:12:00-04:00"
+related_companies = ["scene/companies/opera-north.md","scene/companies/canadian-opera-company.md","scene/companies/florida-grand-opera.md","scene/companies/merola-opera-program.md","scene/companies/san-francisco-opera.md"]
 slug = "tom-corbeil"
 title = "Tom Corbeil"
 +++

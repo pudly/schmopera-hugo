@@ -4,6 +4,7 @@ discipline = "Baritone"
 lastmod = "2017-10-01T17:37:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506893778515/download%20(2).jpeg"
 publishDate = "2017-10-01T17:37:00-04:00"
+related_companies = ["scene/companies/haymarket-opera-company.md"]
 slug = "ryan-de-ryke"
 title = "Ryan de Ryke"
 +++

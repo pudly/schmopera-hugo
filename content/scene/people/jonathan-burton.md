@@ -5,6 +5,7 @@ lastmod = "2018-10-21T20:54:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540169590876/_JMR2167JeremyReed.jpg.jpg"
 primary_image_credit = "Jeremy Reed"
 publishDate = "2018-10-21T20:54:00-04:00"
+related_companies = ["scene/companies/boston-lyric-opera.md","scene/companies/welsh-national-opera.md","scene/companies/nashville-opera.md","scene/companies/florida-grand-opera.md","scene/companies/palm-beach-opera.md","scene/companies/opera-omaha.md"]
 slug = "jonathan-burton"
 title = "Jonathan Burton"
 website = "http://jburtontenor.com/index.asp"

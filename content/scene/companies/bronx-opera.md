@@ -3,6 +3,7 @@ date = "2016-12-20T16:31:00-05:00"
 lastmod = "2016-12-20T16:31:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482269502088/pEp5G1Uh.jpg.jpg"
 publishDate = "2016-12-20T16:31:00-05:00"
+related_people = ["scene/people/daniel-klein.md"]
 slug = "bronx-opera"
 title = "Bronx Opera"
 type_of_company = "Opera company"

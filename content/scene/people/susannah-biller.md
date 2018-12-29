@@ -4,6 +4,7 @@ discipline = "Soprano"
 lastmod = "2017-10-10T22:12:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507687543931/f2b22b_fb9fd5c4f5fb410090f17deaa9345901.webp"
 publishDate = "2017-10-10T22:11:00-04:00"
+related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/minnesota-opera.md","scene/companies/san-diego-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/arizona-opera.md","scene/companies/lyric-opera-of-kansas-city.md","scene/companies/merola-opera-program.md","scene/companies/the-dallas-opera.md","scene/companies/portland-opera.md","scene/companies/nashville-opera.md"]
 slug = "susannah-biller"
 title = "Susannah Biller"
 website = "http://www.susannahbiller.com/"

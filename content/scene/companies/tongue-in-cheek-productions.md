@@ -3,6 +3,7 @@ date = "2018-12-10T10:27:00-05:00"
 lastmod = "2018-12-10T10:28:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544455656074/40790118_1086096074881958_6038020330734223360_n.jpg.jpg"
 publishDate = "2018-12-10T10:27:00-05:00"
+related_people = ["scene/people/michael-nyby.md","scene/people/aaron-durand.md"]
 slug = "tongue-in-cheek-productions"
 title = "Tongue In Cheek Productions"
 type_of_company = "Concert presenter"

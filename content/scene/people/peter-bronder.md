@@ -5,6 +5,7 @@ lastmod = "2017-09-13T10:23:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505312270201/Peter_Bronder_Philipp_Ottendorfer.jpg.jpg"
 primary_image_credit = "Phillip Ottendorfer"
 publishDate = "2017-09-13T10:21:00-04:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md","scene/companies/opera-north.md","scene/companies/welsh-national-opera.md","scene/companies/oper-frankfurt.md","scene/companies/opra-national-de-paris.md","scene/companies/the-metropolitan-opera.md","scene/companies/glyndebourne.md","scene/companies/scottish-opera.md","scene/companies/opernhaus-zurich.md","scene/companies/bayerische-staatsoper.md","scene/companies/san-francisco-opera.md"]
 slug = "peter-bronder"
 title = "Peter Bronder"
 website = "http://www.peterbronder.com/"

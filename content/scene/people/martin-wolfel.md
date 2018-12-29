@@ -4,6 +4,7 @@ discipline = "Countertenor"
 lastmod = "2017-07-26T23:02:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501124473428/Wolfel-Martin-02.jpg.jpg"
 publishDate = "2017-07-26T23:02:00-04:00"
+related_companies = ["scene/companies/semperoper-dresden.md","scene/companies/opra-national-de-paris.md","scene/companies/welsh-national-opera.md","scene/companies/royal-opera-house.md"]
 slug = "martin-wolfel"
 title = "Martin Wölfel"
 website = "http://www.martin-woelfel.de/"

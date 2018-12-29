@@ -4,6 +4,7 @@ discipline = "Tenor"
 lastmod = "2016-01-06T11:34:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452097918558/2015-01-05---Jay-Hunter-Morris.jpg.jpg"
 publishDate = "2016-01-06T11:34:00-05:00"
+related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/houston-grand-opera.md","scene/companies/washington-national-opera.md","scene/companies/los-angeles-opera.md","scene/companies/glimmerglass-festival.md"]
 slug = "jay-hunter-morris"
 title = "Jay Hunter Morris"
 website = "http://www.jayhuntermorris.com/"

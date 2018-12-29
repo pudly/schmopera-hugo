@@ -4,6 +4,7 @@ discipline = "Pianist"
 lastmod = "2017-09-08T15:43:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504899143241/983a8a_333d70954d4d1d55487b205ffa53c4f4.webp"
 publishDate = "2017-09-08T15:40:00-04:00"
+related_companies = ["scene/companies/the-banff-centre.md","scene/companies/opera-north.md"]
 slug = "tyler-wottrich"
 title = "Tyler Wottrich"
 website = "https://www.tylerwottrich.com/"
