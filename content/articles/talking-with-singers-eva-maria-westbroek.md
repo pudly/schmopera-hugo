@@ -25,13 +25,19 @@ I feel the luckiest person in the world to sing and be surrounded by music and i
 
 I think Liza is a very romantic young woman. Escaping her life is extremely courageous in those times. She is deeply passionate and can only follow her heart. I love her very much!
 
+<figure>{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1546185293/media/2018/12/8859-118TheQueenofSpadesatDutchNationalOpera-pc-KarlandMonikaForster.jpg)
+
+<figcaption>A scene from Stefan Herheim's production of _The Queen of Spades_, Dutch National Opera. Photo: Karl and Monika Forster.</figcaption></figure>
+
 ### What do you find is unique about the audiences at Covent Garden?
 
 The audiences in Covent Garden are just unbelievable, so generous and warm! I am so grateful for this and absolutely love singing here.
 
 ### How do you stay healthy and sane while traveling for work?
 
-It's not always easy. When possible I travel with my dog. My beautiful dog Ruby sadly passed away this summer. We now have a new puppy. Having a dog makes you go out all the time, meet very different people and dogs give so much love and joy and put you with your feet on the ground. 
+It's not always easy. When possible I travel with my dog. My beautiful dog Ruby sadly passed away this summer. We now have a new puppy. Having a dog makes you go out all the time, meet very different people and dogs give so much love and joy and put you with your feet on the ground.
+
+{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1546184809/media/2018/12/Eva2-pc-FazilBerisha.jpg)
 
 ### What do you know about the singing career that you wish you knew 10 years ago?
 
