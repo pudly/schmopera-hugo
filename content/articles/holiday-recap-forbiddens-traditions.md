@@ -27,4 +27,8 @@ Gregory Finney, our formidable Toronto contributor, caught the latest presentati
 
 "Natalya Gennadi sang Lensky's Aria from _Eugene Onegin_, and if you missed it, I'm sorry for you. I'd would say it was some of the best singing I heard this year, not just this night."
 
-Greg caught the verboten, and I saw the traditional. The Toronto Symphony Orchestra sounded particularly Canadian in its holiday run of Handel's **_Messiah_**, which featured home grown soloists Claire de Sévigné, Allyson McHardy, Andrew Haji, and Tyler Duncan. COC Music Director Johannes Debus brought operatic flair to Handel's score, peppering it with surprises enough to keep a very, _very_ familiar score sounding new. 
+Greg caught the verboten, and I saw the traditional. The Toronto Symphony Orchestra sounded particularly Canadian in its holiday run of Handel's **_Messiah_**, which featured home grown soloists Claire de Sévigné, Allyson McHardy, Andrew Haji, and Tyler Duncan. De Sévigné rang like a bell even at the briskest of tempi; McHardy gave an intimate, human sound; Haji was a breath of fresh air from his first "Comfort ye"; and Duncan was the jolt of caffeine that suited his bombastic "Why do the Nations so Furiously Rage Together?"
+
+COC Music Director Johannes Debus took the podium, bringing operatic flair to Handel's score, peppering it with surprises enough to keep a very, _very_ familiar score sounding new. And the Toronto Mendelssohn Choir was on point, earning bragging rights with collective coloratura and a stunning colour palette from start to finish.
+
+More traditions - and more Canadians - were in Toronto Operetta Theatre's production of _Die Fledermaus_. The star of the show was inarguably Lara Ciekiewicz's Rosalinda, who gave a wow-worthy combination of womanly sound and agile fireworks. Adam Fisher was her
