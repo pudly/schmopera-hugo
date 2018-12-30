@@ -223,8 +223,8 @@
 
   {{/* Previous and Next Articles */}}
     <nav class="post--single_jump">
-    {{- with .PrevInSection -}}
-      <a href="{{.Permalink}}" title="Newer" class="post--single_jump-prev">
+      {{- with .PrevInSection -}}
+      <a href="{{.Permalink}}" title="Older" class="post--single_jump-prev">
         <i class="icon-arrow-left"></i>
         {{/* set srcset = prev.primary_image|imageCrop(100, 100) + ", " +  prev.primary_image|imageCrop(200, 200) + " 2x" %}
         <picture>
@@ -236,10 +236,8 @@
       </a>
       {{- end -}}
       {{- with .NextInSection -}}
-      <a href="{{.Permalink}}" title="Older" class="post--single_jump-next">
-
+      <a href="{{.Permalink}}" title="Newer" class="post--single_jump-next">
         <i class="icon-arrow-right"></i>
-
         {{/* set srcset = next.primary_image|imageCrop(100, 100) + ", " +  next.primary_image|imageCrop(200, 200) + " 2x" %}
         <picture>
           <source srcset="{ srcset }" media="(min-width: 40em)">
@@ -248,7 +246,6 @@
         */}}
 
         <span>{{.Title}}</span>
-
       </a>
     {{- end -}}
     </nav>
@@ -260,25 +257,25 @@
     <section class="post--single_related">
       <h2 class="pill">Related Content</h2>
       <ul class="post--list __mini">
-      {{ range $article := . }}
-        {{ with $.Site.GetPage "page" $article }}
-                <li><a href=""></a></li>
-        <li>
-          <a href="{{.Permalink}}" class="post--list-title">
-            {{/*
-            {% set srcset = relation.primary_image|imageCrop(100, 100) + ", " +  relation.primary_image|imageCrop(200, 200) + " 2x" %}
-            <picture>
-              <source srcset="{ srcset }" media="(min-width: 40em)">
-              <img src="{ relation.primary_image|imageCrop(100, 100) }" alt="{ relation.name }">
+      {{- range $article := . -}}
+        {{- with $.Site.GetPage "page" $article -}}
+        <li class="post--list-item">
+          <a href="{{.Permalink}}" class="post--list-item">
+            <picture class="post--list-image">
+              {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/w_370,h_245,c_fill,g_faces/" }}
+              {{ $imglg := replace .Params.primary_image "/upload/" "/upload/w_740,h_490,c_fill,g_faces/" }}
+              <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkkAQAAB8AG7jymN8AAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
             </picture>
-            */}}
-            <h1>{{ .Title | htmlUnescape }}</h1>
-
-            <p class="post--list-desc">{{ .Params.short_description | htmlUnescape }}</p>
+            <div class="post--list-title">
+              <h1><span title="{{ .Title | htmlUnescape }}">{{ .Title | htmlUnescape }}</span></h1>
+              {{ with .Params.categories }}
+              <em class="post--meta-category">{{ . }}</em>
+              {{ end }}
+            </div>
           </a>
         </li>
-        {{ end }}
-      {{ end }}
+        {{- end -}}
+      {{- end -}}
       </ul>
     </section>
   {{ end }}
@@ -287,76 +284,43 @@
   {{/* People and Companies - The Scene */}}
 
   {{ if (or (isset .Params "related_people") (isset .Params "related_companies")) }}
-  <section class="post--single_scene">
-    <h2 class="pill">Mentions</h2> 
-    <ul>
-    {{ with .Params.related_people }}
-      {{ range $person := . }}
-        {{ with $.Site.GetPage "page" $person }}
-        <li>
-            <a href="{{.Permalink}}">
-              {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/w_100,h_100,c_fill,g_face/" }}
-              {{ $imglg := replace .Params.primary_image "/upload/" "/upload/w_200,h_200,c_fill,g_face/" }}
-              <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
-              <span>{{ .Title | htmlUnescape }}</span>
-            </a>
-        </li>
-        {{ end }}
-      {{ end }}
-    {{ end }}
-    {{ with .Params.related_companies }}
-      {{ range $company := . }}
-        {{ with $.Site.GetPage "page" $company }}
-        <li>
-            <a href="{{.Permalink}}">
-              {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/w_100,h_100,c_fill,g_face/" }}
-              {{ $imglg := replace .Params.primary_image "/upload/" "/upload/w_200,h_200,c_fill,g_face/" }}
-              <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
-              <span>{{ .Title | htmlUnescape }}</span>
-            </a>
-        </li>
-      {{ end }}
-      {{ end }}
-    {{ end }}
-    </ul>
-  </section>
+    <section class="post--single_scene">
+      <h2 class="pill">Mentions</h2> 
+      <nav>
+        <ul>
+      {{- with .Params.related_people -}}
+        {{- range $person := . -}}
+          {{- with $.Site.GetPage "page" $person -}}
+          <li>
+              <a href="{{.Permalink}}">
+                {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/w_100,h_100,c_fill,g_face/" }}
+                {{ $imglg := replace .Params.primary_image "/upload/" "/upload/w_200,h_200,c_fill,g_face/" }}
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
+                <span>{{ .Title | htmlUnescape }}</span>
+              </a>
+          </li>
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+      {{- with .Params.related_companies -}}
+        {{- range $company := . -}}
+          {{- with $.Site.GetPage "page" $company -}}
+          <li>
+              <a href="{{.Permalink}}">
+                {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/w_100,h_100,c_fill,g_face/" }}
+                {{ $imglg := replace .Params.primary_image "/upload/" "/upload/w_200,h_200,c_fill,g_face/" }}
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
+                <span>{{ .Title | htmlUnescape }}</span>
+              </a>
+          </li>
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+        </ul>
+      </nav>
+    </section>
   {{ end }}
 
-  {{/* 
-    {% if item.people|size !== 0 || item.companies|size !== 0 %}
-      {% if item.people|size !== 0 %}
-        {% if item.companies|size !== 0 %}
-        <nav class="post--single_scene-people __coupled">
-        {% else %}
-        <nav class="post--single_scene-people">
-        {% endif %}
-          <h3 class="pill __sub">People</h3>
-          <ul>
-          {% for relation in item.people %}
-            <li><a href="{ url(relation) }"><img src="{ relation.headshot|imageCrop(200, 200) }" alt="Profile Photo"><span>{ relation.name }</span></a></li>
-          {% endfor %}
-          </ul>
-        </nav>
-      {% endif %}
-
-      {% if item.companies|size !== 0 %}
-        {% if item.people|size !== 0 %}
-        <nav class="post--single_scene-companies __coupled">
-        {% else %}
-        <nav class="post--single_scene-companies">
-        {% endif %}
-          <h3 class="pill __sub">Companies</h3>
-          <ul>
-          {% for relation in item.companies %}
-            <li><a href="{ url(relation) }"><img src="{ relation.photo|imageCrop(200, 200) }" alt="Logo"><span>{ relation.name }</span></a></li>
-          {% endfor %}
-          </ul>
-        </nav>
-      {% endif %}
-    </section>
-    {% endif %}
-  
-  */}}
 
   {{/* Comments from Disqus */}}
     <section class="post--single_comments" id="comments">

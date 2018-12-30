@@ -163,71 +163,38 @@
     }
   }
 
-/* mini version of list */
 }
 
 .post--list {
   margin: 0;
-  padding: 0;
+  padding: 0 20px;
   list-style: none;
 
   &.__mini {
     clear: left;
 
     li {
-      padding-bottom: 20px;
+      display: block;
 
-      img {
-        width: 100px;
-        height: 100px;
-        float: left;
-        margin-right: 10px;
+      picture {
+        position: absolute;
+        top: 0;
+        left: 0;
       }
 
+      img {
+        width: 100%;
+      }
+      
       a {
         display: block;
         overflow: hidden;
         text-decoration: none;
-
-        > h1, > p, > .btn {
-          margin-left: 110px;
-        }
-
-        .btn {
-          display: none;
-        }
-
-        > h1 {
-          font-size: 1.4em;
-          margin-left: 110px;
-        }
-
-        > h2 {
-          font-size: .85em;
-          margin: -.5em 0 1em 110px;
-          text-transform: Capitalize;
-        }
-
-        > p {
-          margin-bottom: 0;
-          line-height: 1.3em;
-          font-size: .9em;
-        }
-
-        &:hover {
-          background: #f9f9f9 !important;
-          outline: 10px solid #f9f9f9;
-        }
-
-        .post--list-desc {
-          display: none;
-        }
-
-        @include bp-large {
-          .post--list-desc {
-            display: block;
-          }
-        }
+        position: relative;
+        width: 100%;
+        height: 0;
+        padding-top: 66.216216216%;
+        margin: 0;
       }
 
       &:last-child {
@@ -237,8 +204,11 @@
       @include bp-large {
         padding-bottom: 40px;
       }
-    }
 
+      .post--list-title {
+        bottom: 20px;
+      }
+    }
 
     & + .paginator {
       margin-top: 20px;
@@ -248,6 +218,30 @@
       }
     }
 
+    @include bp-medium {
+      padding: 0;
+
+      li.post--list-item {
+        display: inline-block;
+        width: 50%;
+        padding-right: 5px;
+        margin-bottom: 10px;
+        padding-bottom: 0;
+
+        .post--list-title {
+          left: 20px;
+        }
+
+        h1 {
+          font-size: 1.1em;
+        }
+
+        &:nth-child(2) {
+          padding-left: 5px;
+          padding-right: 0;
+        }
+      }
+    }
   }
 
 /* micro version of list */
