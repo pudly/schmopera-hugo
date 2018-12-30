@@ -195,6 +195,10 @@
         height: 0;
         padding-top: 66.216216216%;
         margin: 0;
+
+        &:hover {
+          box-shadow: 0 0 0 5px $sch-blue;
+        }
       }
 
       &:last-child {

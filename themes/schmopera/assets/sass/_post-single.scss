@@ -314,25 +314,50 @@
 
   /* blockquote */
   blockquote {
-    margin: 20px 0;
-    padding: 20px 20px 20px 0;
-    font-style: italic;
-    font-size: 1.4em;
-    font-weight: 700;
-    color: #fff;
+    margin: 40px 20px;
+    padding: 20px;
+    font-family: "Lustria";
+    font-size: 1.2em;
+    font-weight: 400;
+    color: #222;
     position: relative;
-    background: $sch-blue;
-    border-left: 5px solid darken($sch-blue, 20%);
+    line-height: 1.5em;
+
+    &:before,
+    &:after {
+      content: "";
+      position: absolute;
+      display: block;
+      background: $sch-blue;
+    }
 
     &:before {
-      content: '';
-      position: absolute;
-      height: 100%;
-      width: 100%;
       top: 0;
-      background: $sch-blue;
-      left: -100%;
+      left: 0;
+      height: 5px;
+      width: 25%;
     }
+
+    &:after {
+      top: 0;
+      left: 0;
+      height: 50%;
+      width: 5px;
+    }
+
+    // p:before {
+    //   bottom: 0;
+    //   right: 0;
+    //   height: 5px;
+    //   width: 25%;
+    // }
+
+    // p:after {
+    //   bottom: 0;
+    //   right: 0;
+    //   height: 50%;
+    //   width: 5px;
+    // }
 
     > p:first-child {
       margin-top: 0;
@@ -342,18 +367,9 @@
       margin-bottom: 0;
     }
 
-    a {
-      color: $sch-black;
-    }
-
     @include bp-medium {
-      margin: 40px 0;
-      padding: 20px 0 20px 20px;
-
-      &:before {
-        left: auto;
-        right: -100%;
-      }
+      margin: 80px 40px;
+      font-size: 1.4em;
     }
   }
 }
@@ -381,8 +397,8 @@
 
 
 /* -----------------------------------------------------
-    _gallery
-    article thumbnail gallery
+    _authors
+    Author detailes in a single post
 ----------------------------------------------------- */
 .post--single_authors {
   .post--single_author {
@@ -575,108 +591,6 @@
   }
 }
 
-/* -----------------------------------------------------
-    _boxoffice
-    box office section with purchase ticket options
------------------------------------------------------ */
-.post--single_boxoffice {
-  h2 {
-    margin-bottom: 10px;
-  }
-
-  h2 + ul {
-    clear: left;
-  }
-
-  ul {
-    @include reset;
-
-    li {
-
-      > section {
-        position: relative;
-        overflow: hidden;
-        padding: 20px;
-        margin-bottom: 0;
-
-        border-radius: 4px;
-        background: #f5f5f5;
-
-        z-index: 2;
-
-        h3 {
-          margin-top: 0;
-        }
-
-        p:last-child {
-          margin-bottom: 0;
-        }
-      }
-
-      > footer {
-        position: relative;
-        overflow: hidden;
-        padding: 20px 10px 10px 20px;
-        margin-top: -10px;
-
-        border-radius: 0 0 4px 4px;
-        background: #d5d5d5;
-
-        z-index: 1;
-      }
-
-      img {
-        width: 25%;
-        float: left;
-      }
-
-      picture + div {
-        margin-left: 25%;
-        padding-left: 20px;
-      }
-
-      .post--single_boxoffice-duration {
-        font-size: .8em;
-        font-weight: 700;
-        line-height: 40px;
-        margin: 0;
-      }
-
-      .post--single_boxoffice-nav {
-        float: right;
-
-        .btn {
-          height: 40px;
-          line-height: 40px;
-          padding: 0 .65em;
-          margin: 0 0 0 5px;
-          border-radius: 4px;
-        }
-      }
-
-      @include bp-tablet {
-        picture + div {
-          padding-left: 10px;
-        }
-
-        .post--single_boxoffice-nav {
-          float: left;
-
-          .btn {
-            margin: 0 5px 0 0;
-          }
-        }
-
-        .post--single_boxoffice-duration {
-          clear: left;
-          line-height: 2.5em;
-        }
-      }
-    }
-  }
-}
-
-.post--single_scene + .post--single_boxoffice,
 .post--single_scene + .post--single_comments {
   clear: left;
   padding-top: 40px;
@@ -736,19 +650,21 @@
     previous and next post jumper
 ----------------------------------------------------- */
 .post--single_jump {
-  margin-bottom: 20px;
+  margin-bottom: 40px;
   clear: both;
 
   a {
     position: relative;
     display: inline-block;
     padding: 20px 0;
-    width: 50%;
+    width: calc(50% - 5px);
 
     vertical-align: top;
     text-decoration: none;
     color: $sch-black;
     height: 80px;
+    background: $sch-black;
+    color: #aaa;
 
     > span {
       display: block;
@@ -760,24 +676,14 @@
 
       padding-top: 20px;
 
-      color: lighten($sch-black, 20%);
       text-decoration: none;
+      color: #fff;
     }
 
     > i {
       height: 42px;
       width: 25px;
       line-height: 42px;
-    }
-
-    picture {
-      display: none;
-
-      > img {
-        width: 40px;
-        height: 40px;
-        border-radius: 100%;
-      }
     }
 
     &:before {
@@ -789,7 +695,7 @@
       top: 20px;
 
       font-weight: 700;
-      font-size: 1.1em;
+      font-size: 1em;
       text-transform: uppercase;
     }
 
@@ -797,70 +703,43 @@
       color: $sch-blue;
 
       > span {
-        color: $sch-black;
-      }
-
-      picture {
-        display: block;
+        color: #fff;
       }
     }
 
     &.post--single_jump-prev {
+      margin-right: 10px;
+
       &:before {
-        left: 25px;
+        left: 40px;
       }
 
       > span {
-        margin-left: 25px;
+        margin-left: 40px;
         padding-right: 10px;
       }
 
       > i {
         float: left;
-      }
-
-      &:hover {
-        > span {
-          margin-left: 70px;
-        }
-
-        picture {
-          float: left;
-        }
-
-        &:before {
-          left: 70px;
-        }
+        margin-left: 7.5px;
       }
     }
 
     &.post--single_jump-next {
+
       &:before {
-        right: 25px;
+        right: 40px;
       }
 
       > span {
-        margin-right: 25px;
+        margin-right: 40px;
         text-align: right;
         padding-left: 10px;
       }
 
       > i {
         float: right;
-      }
-
-      &:hover {
-        > span {
-          margin-right: 70px;
-        }
-
-        picture {
-          float: right;
-        }
-
-        &:before {
-          right: 70px;
-        }
+        margin-right: 7.5px;
       }
 
       &.__single {

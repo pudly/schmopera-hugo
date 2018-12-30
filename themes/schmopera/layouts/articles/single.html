@@ -187,10 +187,41 @@
     </section>
   */}}
 
-  {{/* Adspot 1 */}}
+  {{/* Previous and Next Articles */}}
+    <nav class="post--single_jump">
+      {{- with .PrevInSection -}}
+      <a href="{{.Permalink}}" title="Previous" class="post--single_jump-prev">
+        <i class="icon-arrow-left"></i>
+        {{/* set srcset = prev.primary_image|imageCrop(100, 100) + ", " +  prev.primary_image|imageCrop(200, 200) + " 2x" %}
+        <picture>
+          <source srcset="{ srcset }" media="(min-width: 40em)">
+          <img src="{ prev.primary_image|imageCrop(60, 60) }" alt="{ prev.name }">
+        </picture>
+        */}}
+        <span>{{.Title}}</span>
+      </a>
+      {{- end -}}
+      {{- with .NextInSection -}}
+      <a href="{{.Permalink}}" title="Next" class="post--single_jump-next">
+        <i class="icon-arrow-right"></i>
+        {{/* set srcset = next.primary_image|imageCrop(100, 100) + ", " +  next.primary_image|imageCrop(200, 200) + " 2x" %}
+        <picture>
+          <source srcset="{ srcset }" media="(min-width: 40em)">
+          <img src="{ next.primary_image|imageCrop(60, 60) }" alt="{ next.name }">
+        </picture>
+        */}}
+
+        <span>{{.Title}}</span>
+      </a>
+    {{- end -}}
+    </nav>
+
+
+  {{/* Adspot 1 
     <section class="post--single_adspot">
       {{- partial "ad-spot1.html" . -}}
     </section>
+  */}}
 
 
   {{/* 
@@ -220,35 +251,6 @@
     {% endfor %}
     </section>
   */}}
-
-  {{/* Previous and Next Articles */}}
-    <nav class="post--single_jump">
-      {{- with .PrevInSection -}}
-      <a href="{{.Permalink}}" title="Older" class="post--single_jump-prev">
-        <i class="icon-arrow-left"></i>
-        {{/* set srcset = prev.primary_image|imageCrop(100, 100) + ", " +  prev.primary_image|imageCrop(200, 200) + " 2x" %}
-        <picture>
-          <source srcset="{ srcset }" media="(min-width: 40em)">
-          <img src="{ prev.primary_image|imageCrop(60, 60) }" alt="{ prev.name }">
-        </picture>
-        */}}
-        <span>{{.Title}}</span>
-      </a>
-      {{- end -}}
-      {{- with .NextInSection -}}
-      <a href="{{.Permalink}}" title="Newer" class="post--single_jump-next">
-        <i class="icon-arrow-right"></i>
-        {{/* set srcset = next.primary_image|imageCrop(100, 100) + ", " +  next.primary_image|imageCrop(200, 200) + " 2x" %}
-        <picture>
-          <source srcset="{ srcset }" media="(min-width: 40em)">
-          <img src="{ next.primary_image|imageCrop(60, 60) }" alt="{ next.name }">
-        </picture>
-        */}}
-
-        <span>{{.Title}}</span>
-      </a>
-    {{- end -}}
-    </nav>
 
 
   {{/* Related Content */}}
