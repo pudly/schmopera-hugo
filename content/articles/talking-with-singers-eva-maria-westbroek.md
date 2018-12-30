@@ -8,9 +8,9 @@ image_gallery = []
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546184839/media/2018/12/sqEvaMariaWestbroek-pc-FazilBerisha.jpg"
 primary_image_credit = "Fazil Berisha."
-related_articles = []
-related_companies = []
-related_people = []
+related_articles = ["articles/talking-with-singers-melody-moore.md", "articles/talking-with-singers-keri-alkema.md"]
+related_companies = ["scene/companies/royal-opera-house.md"]
+related_people = ["scene/people/evamaria-westbroek.md"]
 short_description = "\"The audiences in Covent Garden are just unbelievable, so generous and warm! I am so grateful for this and absolutely love singing here.\""
 slug = "talking-with-singers-eva-maria-westbroek"
 title = "Talking with singers: Eva-Maria Westbroek"
@@ -46,3 +46,5 @@ That’s a hard question! I think, just to be true to yourself and enjoy!
 ### If you didn't sing for a living, what do you think you would do instead?
 
 I think I would have liked to work with animals! Maybe a dog trainer or something with horses - although I only just started riding!
+
+>_The Queen of Spades_ runs at The Royal Opera House 13 January to 1 February. For details and ticket information, \[click here\]([https://www.roh.org.uk/productions/the-queen-of-spades-by-stefan-herheim](https://www.roh.org.uk/productions/the-queen-of-spades-by-stefan-herheim "click here"))
