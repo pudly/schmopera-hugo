@@ -99,3 +99,5 @@ fields:
 - type: image_gallery
   name: image_gallery
   label: Image Gallery
+pages:
+- content/articles/talking-with-singers-eva-maria-westbroek.md
