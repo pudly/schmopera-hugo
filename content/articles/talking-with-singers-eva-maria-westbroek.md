@@ -45,4 +45,4 @@ That’s a hard question! I think, just to be true to yourself and enjoy!
 
 I think I would have liked to work with animals! Maybe a dog trainer or something with horses - although I only just started riding!
 
->_The Queen of Spades_ runs at The Royal Opera House 13 January to 1 February. For details and ticket information, \[click here\]([https://www.roh.org.uk/productions/the-queen-of-spades-by-stefan-herheim](https://www.roh.org.uk/productions/the-queen-of-spades-by-stefan-herheim "click here"))
+>_The Queen of Spades_ runs at The Royal Opera House 13 January to 1 February. For details and ticket information, [click here](https://www.roh.org.uk/productions/the-queen-of-spades-by-stefan-herheim).
