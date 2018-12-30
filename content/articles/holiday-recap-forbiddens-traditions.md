@@ -9,15 +9,15 @@ preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546189070/media/2018/12/sqFledermaus.jpg"
 primary_image_credit = "Adam Fisher (Eisenstein) and Lara Ciekiewicz (Rosalinde) in Die Fledermaus, Toronto Operetta Theatre, 2018. Photo: Gary Beechey, BDS Studios."
 related_articles = []
-related_companies = []
-related_people = []
+related_companies = ["scene/companies/tongue-in-cheek-productions.md", "scene/companies/canadian-opera-company.md", "scene/companies/toronto-operetta-theatre.md", "scene/companies/toronto-symphony-orchestra.md"]
+related_people = ["scene/people/vanessa-oudereimerink.md", "scene/people/natalya-matyusheva.md", "scene/people/lauren-margison.md", "scene/people/johannes-debus.md", "scene/people/andrew-haji.md", "scene/people/tyler-duncan.md", "scene/people/allyson-mchardy.md", "scene/people/claire-de-sevigne.md", "scene/people/caitlin-wood.md", "scene/people/michael-robertbroder.md", "scene/people/adam-fisher.md", "scene/people/lara-ciekiewicz.md"]
 short_description = "There's little wrong, though, with heading into a new year with good tunes in one's head, and an acute anticipation of good things to come."
 slug = "holiday-recap-forbiddens-traditions"
 title = "Holiday recap: forbiddens & traditions "
 youtube_url = ""
 
 +++
-It's good to be back, readers. Not just back, but improved: for a short while, we handed the Schmopera reins over to our superb man behind the scenes, Andrej, who has given the site a makeover from the inside out - thanks for noticing!
+It's good to be back, readers. Not just back, but improved: for a short while, we handed the Schmopera reins over to our superb man behind the scenes, [Andrej](/authors/drej/), who has given the site a makeover from the inside out - thanks for noticing!
 
 The technical work gave us little choice except to take a luxurious bit of vacation from writing (no complaints); still, we were out and about, catching shows and saving our notes for the New Year.
 
@@ -25,7 +25,7 @@ The technical work gave us little choice except to take a luxurious bit of vacat
 
 "This neat musical earplay was probably most present with the Pearl Fishers and Rodolfo and Marcello's duet from _La bohème_, sung beautifully by soprano [Vanessa Oude-Reimerink](/scene/people/vanessa-oude-reimerink/) and mezzo-soprano Alexandra Beley." Greg's highlights included Brittany Cann's _Don Quichotte à Dulcinée_ ("Dear Toronto, this is a voice to watch"), and [Lauren Margison](/scene/people/lauren-margison/)'s appropriation of tenor arias from _Madama Butterfly_ and _Turandot_.
 
-"[Natalya Gennadi](/scene/people/natalya-gennadi/) sang Lensky's Aria from _Eugene Onegin_, and if you missed it, I'm sorry for you. I'd would say it was some of the best singing I heard this year, not just this night."
+"[Natalya Gennadi](/scene/people/natalya-matyusheva/) sang Lensky's Aria from _Eugene Onegin_, and if you missed it, I'm sorry for you. I'd would say it was some of the best singing I heard this year, not just this night."
 
 Greg caught the verboten, and I saw the traditional. The Toronto Symphony Orchestra sounded particularly Canadian in its holiday run of Handel's **_Messiah_**, which featured home grown soloists [Claire de Sévigné](/claire-de-sevigne-sing-fast-high/), [Allyson McHardy](/scene/people/allyson-mchardy/), [Andrew Haji](/scene/people/andrew-haji/), and [Tyler Duncan](/scene/people/tyler-duncan/). De Sévigné rang like a bell even at the briskest of tempi; McHardy gave an intimate, human sound; Haji was a breath of fresh air from his first "Comfort ye"; and Duncan was the jolt of caffeine that suited his bombastic "Why do the Nations so Furiously Rage Together?"
 
