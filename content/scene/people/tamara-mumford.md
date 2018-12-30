@@ -2,7 +2,7 @@
 date = "2016-02-18T02:02:00+00:00"
 discipline = "Mezzo-soprano"
 lastmod = "2016-11-25T22:27:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455763623465/2016-02-18%20-%20Tamara%20Mumford%20-%20Dario%20Acosta.png"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455763623465/2016-02-18%20-%20Tamara%20Mumford%20-%20Dario%20Acosta.png.png"
 primary_image_credit = "Dario Acosta"
 publishDate = "2016-11-25T22:27:00+00:00"
 related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/glyndebourne.md","scene/companies/glimmerglass-festival.md"]

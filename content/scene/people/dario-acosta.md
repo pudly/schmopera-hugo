@@ -2,7 +2,7 @@
 date = "2015-05-11T15:44:00-04:00"
 discipline = "Photographer"
 lastmod = "2015-05-11T15:44:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431373466616/Screen%20Shot%202015-05-11%20at%203.44.06%20PM.png"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431373466616/Screen%20Shot%202015-05-11%20at%203.44.06%20PM.png.png"
 primary_image_credit = "darioacosta.com"
 publishDate = "2015-05-11T15:44:00-04:00"
 slug = "dario-acosta"

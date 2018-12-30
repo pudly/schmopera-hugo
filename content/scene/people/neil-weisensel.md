@@ -2,7 +2,7 @@
 date = "2015-10-02T12:36:00-04:00"
 discipline = "Composer"
 lastmod = "2015-10-02T12:36:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443803666907/6rlzVn2j.jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443803666907/6rlzVn2j.jpeg.jpeg"
 publishDate = "2015-10-02T12:36:00-04:00"
 related_companies = ["scene/companies/vancouver-opera.md","scene/companies/halifax-summer-opera-festival.md"]
 slug = "neil-weisensel"

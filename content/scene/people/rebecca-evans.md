@@ -2,7 +2,7 @@
 date = "2017-10-27T17:06:00-04:00"
 discipline = "Soprano"
 lastmod = "2017-10-27T17:06:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509137973918/Red%20Dress%201%20%E2%88%8FSian%20Trenberth.JPG"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509137973918/Red%20Dress%201%20%E2%88%8FSian%20Trenberth.JPG.JPG"
 publishDate = "2017-10-27T17:06:00-04:00"
 related_companies = ["scene/companies/english-national-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/welsh-national-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md"]
 slug = "rebecca-evans"

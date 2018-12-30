@@ -449,60 +449,54 @@
     font-size: 1.3em !important;
   }
 
-  > nav {
-    vertical-align: top;
-    width: 100%;
-    margin-bottom: -40px;
+  ul {
+    @include reset;
+    clear: left;
 
-    ul {
-      @include reset;
-      clear: left;
+    > li {
+      display: inline-block;
+      margin: 0 5px 5px 0;
+      width: calc(25% - 5px);
+      position: relative;
 
-      > li {
-        display: inline-block;
-        margin: 0 5px 5px 0;
-        width: calc(25% - 5px);
-        position: relative;
+      @include bp-medium {
+        width: 80px;
+        height: 80px;
+      }
 
-        @include bp-medium {
-          width: 80px;
-          height: 80px;
-        }
+      @include bp-large {
+        width: 100px;
+        height: 100px;
+      }
 
-        @include bp-large {
-          width: 100px;
-          height: 100px;
-        }
+      &:before {
+        content: '';
+        display: block;
+        width: 100%;
+        padding-top: 100%;
+      }
+    }
+  }
 
-        &:before {
-          content: '';
-          display: block;
-          width: 100%;
-          padding-top: 100%;
-        }
+  &.__coupled {
+    width: 50%;
+    float: left;
+    margin-bottom: 0;
+  }
+
+  @include bp-mobile {
+    float: none !important;
+    width: 100% !important;
+
+    & + nav {
+      margin-top: 10px;
+
+      &.__coupled {
+        margin-bottom: -40px;
       }
     }
 
-    &.__coupled {
-      width: 50%;
-      float: left;
-      margin-bottom: 0;
-    }
-
-    @include bp-mobile {
-      float: none !important;
-      width: 100% !important;
-
-      & + nav {
-        margin-top: 10px;
-
-        &.__coupled {
-          margin-bottom: -40px;
-        }
-      }
-
-      ul > li {
-      }
+    ul > li {
     }
   }
 

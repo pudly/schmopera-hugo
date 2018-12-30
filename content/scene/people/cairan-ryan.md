@@ -2,7 +2,7 @@
 date = "2015-04-06T22:47:00-04:00"
 discipline = "Baritone"
 lastmod = "2015-04-06T22:47:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428374685360/CairanRyan.jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428374685360/CairanRyan.jpeg.jpeg"
 publishDate = "2015-04-06T22:47:00-04:00"
 related_companies = ["scene/companies/latelier-lyrique-de-lopra-de-montral.md","scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md","scene/companies/opera-lyra-ottawa.md","scene/companies/opera-on-the-avalon.md","scene/companies/opera-mcgill.md"]
 slug = "cairan-ryan"

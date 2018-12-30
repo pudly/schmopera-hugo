@@ -1,7 +1,7 @@
 +++
 date = "2017-07-20T16:44:00-04:00"
 lastmod = "2017-07-20T16:44:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500583482957/13177289_10154175343182760_7782766613101324060_n.png%3Foh%3Dbc9657959e4838cd42bb40df9401da49%26oe%3D59F0E351"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500583482957/13177289_10154175343182760_7782766613101324060_n.png.png%3Foh%3Dbc9657959e4838cd42bb40df9401da49%26oe%3D59F0E351"
 publishDate = "2017-07-20T16:44:00-04:00"
 related_people = ["scene/people/hailey-clark.md"]
 slug = "fort-worth-opera"

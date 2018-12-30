@@ -2,7 +2,7 @@
 date = "2015-05-16T22:18:00-04:00"
 discipline = "Baritone"
 lastmod = "2015-05-16T22:18:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431828960681/eeecde_27eaa4ac760f4480b8ef34b4945372a5.png_srz_p_488_362_75_22_0.50_1.20_0.00_png_srz"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431828960681/eeecde_27eaa4ac760f4480b8ef34b4945372a5.png.png_srz_p_488_362_75_22_0.50_1.20_0.00_png_srz"
 publishDate = "2015-05-16T22:18:00-04:00"
 related_companies = ["scene/companies/the-dallas-opera.md","scene/companies/the-santa-fe-opera.md"]
 slug = "zeffin-quinn-hollis"

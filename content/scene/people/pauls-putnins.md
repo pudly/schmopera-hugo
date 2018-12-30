@@ -2,7 +2,7 @@
 date = "2017-11-14T17:45:00-05:00"
 discipline = "Baritone"
 lastmod = "2017-11-14T17:47:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510699628038/IMG_0390_700x650.JPG"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510699628038/IMG_0390_700x650.JPG.JPG"
 publishDate = "2017-11-14T17:45:00-05:00"
 related_companies = ["scene/companies/shadwell-opera.md"]
 slug = "pauls-putnins"

@@ -2,7 +2,7 @@
 date = "2017-06-24T14:30:00-06:00"
 discipline = "Baritone"
 lastmod = "2017-06-24T14:33:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498336199710/download%20(1).jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498336199710/download%20(1).jpeg.jpeg"
 publishDate = "2017-06-24T14:30:00-06:00"
 related_companies = ["scene/companies/vancouver-operas-yulanda-m-faris-young-artists-program.md","scene/companies/vancouver-opera.md","scene/companies/opera-5.md","scene/companies/the-banff-centre.md"]
 slug = "alan-macdonald"

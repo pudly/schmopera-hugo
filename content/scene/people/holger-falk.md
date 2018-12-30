@@ -2,7 +2,7 @@
 date = "2018-01-24T11:52:00-05:00"
 discipline = "Baritone"
 lastmod = "2018-01-24T11:52:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516812369775/Holger%20Falk%20_%20CR%20Wonge%20Bergmann.JPG"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516812369775/Holger%20Falk%20_%20CR%20Wonge%20Bergmann.JPG.JPG"
 primary_image_credit = "Wonge Bergman"
 publishDate = "2018-01-24T11:52:00-05:00"
 related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/la-monnaie.md","scene/companies/bayerische-staatsoper.md"]

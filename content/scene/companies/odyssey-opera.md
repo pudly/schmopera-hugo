@@ -1,7 +1,7 @@
 +++
 date = "2018-09-23T15:46:00-04:00"
 lastmod = "2018-09-23T15:47:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537731996578/1935085_449098748627880_400967554700966514_n.png%3F_nc_cat%3D104%26oh%3Df96c9def6aa4f0983e55b8e968311aa7%26oe%3D5C231734"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537731996578/1935085_449098748627880_400967554700966514_n.png.png%3F_nc_cat%3D104%26oh%3Df96c9def6aa4f0983e55b8e968311aa7%26oe%3D5C231734"
 publishDate = "2018-09-23T15:47:00-04:00"
 related_people = ["scene/people/kevin-thompson.md","scene/people/kara-shay-thomson.md","scene/people/dominick-chenes.md"]
 slug = "odyssey-opera"

@@ -2,7 +2,7 @@
 date = "2017-06-24T14:20:00-06:00"
 discipline = "Baritone"
 lastmod = "2017-06-24T14:20:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498335612762/Screen%20Shot%202017-06-24%20at%202.19.47%20PM.png"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498335612762/Screen%20Shot%202017-06-24%20at%202.19.47%20PM.png.png"
 publishDate = "2017-06-24T14:20:00-06:00"
 related_companies = ["scene/companies/opera-5.md","scene/companies/essential-opera.md","scene/companies/indie-opera-to.md"]
 slug = "jeremy-ludwig"

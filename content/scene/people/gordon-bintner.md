@@ -2,7 +2,7 @@
 date = "2015-04-07T17:38:00-04:00"
 discipline = "Bass-baritone"
 lastmod = "2015-04-07T17:38:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428442641691/212829_Gordon-Bintner-Promo.png"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428442641691/212829_Gordon-Bintner-Promo.png.png"
 publishDate = "2015-04-07T17:38:00-04:00"
 related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/merola-opera-program.md","scene/companies/lopra-de-montral.md","scene/companies/opera-mcgill.md","scene/companies/oper-frankfurt.md"]
 slug = "gordon-bintner"

@@ -1,7 +1,7 @@
 +++
 date = "2015-05-03T14:09:00-04:00"
 lastmod = "2015-05-21T09:56:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430676351118/e3nF4OLW.jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430676351118/e3nF4OLW.jpeg.jpeg"
 publishDate = "2015-05-03T14:09:00-04:00"
 related_people = ["scene/people/mireille-asselin.md","scene/people/ryan-speedo-green.md","scene/people/james-marvel.md","scene/people/daniel-belcher.md","scene/people/will-liverman.md","scene/people/craig-irvin.md","scene/people/abigail-levis.md","scene/people/jnai-bridges.md","scene/people/melisa-bonetti.md","scene/people/liv-redpath.md","scene/people/brenton-ryan.md","scene/people/nadia-fayad.md","scene/people/morgan-pearse.md","scene/people/aryeh-nussbaum-cohen.md","scene/people/ben-edquist.md","scene/people/dominic-armstrong.md","scene/people/timothy-j-bruno.md","scene/people/madison-leonard.md","scene/people/allegra-de-vita.md","scene/people/miles-mykkanen.md","scene/people/jonas-hacker.md","scene/people/vanessa-becerra.md","scene/people/carolyn-sproule.md","scene/people/jennifer-williams.md"]
 slug = "wolf-trap-opera"

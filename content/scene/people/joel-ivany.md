@@ -2,7 +2,7 @@
 date = "2015-04-07T20:26:00-06:00"
 discipline = "Founder & Artistic Director, Against the Grain Theatre"
 lastmod = "2015-07-06T00:50:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436165401904/image1.JPG"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436165401904/image1.JPG.JPG"
 publishDate = "2015-04-07T20:26:00-06:00"
 related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/canadian-opera-company.md","scene/companies/vancouver-opera.md","scene/companies/opera-nuova.md","scene/companies/the-banff-centre.md","scene/companies/indie-opera-to.md"]
 slug = "joel-ivany"

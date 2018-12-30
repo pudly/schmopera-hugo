@@ -1,7 +1,7 @@
 +++
 date = "2015-04-04T20:48:00-04:00"
 lastmod = "2015-04-04T20:48:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428194789514/OBRLogo.jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428194789514/OBRLogo.jpeg.jpeg"
 publishDate = "2015-04-04T20:48:00-04:00"
 related_people = ["scene/people/allison-arends.md","scene/people/rachel-krehm.md","scene/people/kira-braun.md","scene/people/nathan-keoughan.md","scene/people/janaka-welihinda.md","scene/people/kim-sartor.md","scene/people/abigail-freeman.md","scene/people/michael-robertbroder.md","scene/people/natalya-matyusheva.md","scene/people/naomi-eberhard.md","scene/people/andrey-andreychik.md"]
 slug = "opera-by-request"

@@ -1,7 +1,7 @@
 +++
 date = "2015-04-04T21:02:00-04:00"
 lastmod = "2015-04-04T21:02:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428195602566/opera_lyra.png"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428195602566/opera_lyra.png.png"
 publishDate = "2015-04-04T21:02:00-04:00"
 related_people = ["scene/people/aaron-ferguson.md","scene/people/alain-coulombe.md","scene/people/amanda-smith.md","scene/people/cairan-ryan.md","scene/people/david-pomeroy.md","scene/people/dean-burry.md","scene/people/james-westman.md","scene/people/joshua-hopkins.md","scene/people/tom-diamond.md","scene/people/wallis-giunta.md","scene/people/miriam-khalil.md","scene/people/timothy-vernon.md","scene/people/marion-newman.md","scene/people/john-brancy.md","scene/people/virginia-hatfield.md","scene/people/michael-colvin.md","scene/people/corinne-winters.md"]
 slug = "opera-lyra-ottawa"

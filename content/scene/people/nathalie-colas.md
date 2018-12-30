@@ -2,7 +2,7 @@
 date = "2017-10-01T17:26:00-04:00"
 discipline = "Soprano"
 lastmod = "2017-10-01T17:26:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506893034823/download.jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506893034823/download.jpeg.jpeg"
 publishDate = "2017-10-01T17:26:00-04:00"
 related_companies = ["scene/companies/haymarket-opera-company.md"]
 slug = "nathalie-colas"

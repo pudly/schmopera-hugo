@@ -2,7 +2,7 @@
 date = "2018-05-31T21:19:00-04:00"
 discipline = "Stage director"
 lastmod = "2018-05-31T21:25:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527815903145/Jennifer%20Williams%40%20Hip%20Highline%20NYC_TopFiveRUSH-FULL_6.JPG"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527815903145/Jennifer%20Williams%40%20Hip%20Highline%20NYC_TopFiveRUSH-FULL_6.JPG.JPG"
 publishDate = "2018-05-31T21:25:00-04:00"
 related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/merola-opera-program.md","scene/companies/houston-grand-opera.md","scene/companies/wolf-trap-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/opera-north.md"]
 slug = "jennifer-williams"

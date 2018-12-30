@@ -2,7 +2,7 @@
 date = "2017-07-25T09:57:00-04:00"
 discipline = "Soprano"
 lastmod = "2017-07-25T09:57:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500990944072/IMG_8104.jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500990944072/IMG_8104.jpeg.jpeg"
 primary_image_credit = "Adoré Alexander Photography"
 publishDate = "2017-07-25T09:57:00-04:00"
 slug = "bahareh-poureslami"

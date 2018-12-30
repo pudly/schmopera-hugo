@@ -2,7 +2,7 @@
 date = "2015-04-17T22:07:00-04:00"
 discipline = "Soprano"
 lastmod = "2015-04-17T22:07:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429322643179/PR-Devon%20Cass-5.JPG"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429322643179/PR-Devon%20Cass-5.JPG.JPG"
 primary_image_credit = "Photo by Devon Cass"
 publishDate = "2015-04-17T22:07:00-04:00"
 related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/houston-grand-opera.md"]

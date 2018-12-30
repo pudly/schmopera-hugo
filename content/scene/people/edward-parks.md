@@ -2,7 +2,7 @@
 date = "2017-04-09T11:43:00+01:00"
 discipline = "Baritone"
 lastmod = "2017-04-09T11:45:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491734605511/Edward%20Parks.jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491734605511/Edward%20Parks.jpeg.jpeg"
 publishDate = "2017-04-09T11:43:00+01:00"
 related_companies = ["scene/companies/nashville-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/the-atlanta-opera.md","scene/companies/opera-theatre-of-st-louis.md"]
 slug = "edward-parks"

@@ -2,7 +2,7 @@
 date = "2016-02-09T11:58:00-05:00"
 discipline = "Mezzo-soprano"
 lastmod = "2016-02-09T11:58:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455037006749/a1db8486f6cbee154d252b611751a9aa.jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455037006749/a1db8486f6cbee154d252b611751a9aa.jpeg.jpeg"
 publishDate = "2016-02-09T11:58:00-05:00"
 related_companies = ["scene/companies/royal-conservatory-of-music.md","scene/companies/tapestry-opera.md"]
 slug = "shauna-yarnell"

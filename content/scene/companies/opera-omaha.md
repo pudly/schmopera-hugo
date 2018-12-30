@@ -1,7 +1,7 @@
 +++
 date = "2018-10-21T21:37:00-04:00"
 lastmod = "2018-10-21T21:38:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540172156712/16603158_10154828059135498_8578371366546848343_n.png"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540172156712/16603158_10154828059135498_8578371366546848343_n.png.png"
 publishDate = "2018-10-21T21:38:00-04:00"
 related_people = ["scene/people/leah-partridge.md","scene/people/todd-thomas.md","scene/people/alexander-elliott.md","scene/people/jonathan-burton.md"]
 slug = "opera-omaha"

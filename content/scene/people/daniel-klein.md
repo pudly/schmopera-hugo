@@ -2,7 +2,7 @@
 date = "2018-05-11T21:15:00-04:00"
 discipline = "Bass-baritone"
 lastmod = "2018-05-11T21:15:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526087698662/Klein_Headshot%2B300%2Bdpi.JPG%3Fformat%3D1000w"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526087698662/Klein_Headshot%2B300%2Bdpi.JPG.JPG%3Fformat%3D1000w"
 publishDate = "2018-05-11T21:15:00-04:00"
 related_companies = ["scene/companies/heartbeat-opera.md","scene/companies/bronx-opera.md","scene/companies/loftopera.md"]
 slug = "daniel-klein"

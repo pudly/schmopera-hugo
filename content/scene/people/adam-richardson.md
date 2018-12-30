@@ -2,7 +2,7 @@
 date = "2017-09-17T19:01:00-04:00"
 discipline = "Baritone, actor"
 lastmod = "2017-09-17T19:02:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505689268649/adam-richardson-headshot.jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505689268649/adam-richardson-headshot.jpeg.jpeg"
 publishDate = "2017-09-17T19:01:00-04:00"
 related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/opera-north.md","scene/companies/the-juilliard-school.md"]
 slug = "adam-richardson"

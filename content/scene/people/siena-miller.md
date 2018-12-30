@@ -2,7 +2,7 @@
 date = "2017-09-15T22:20:00-04:00"
 discipline = "Mezzo-soprano"
 lastmod = "2018-11-17T12:35:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505528319438/9998016.jpeg%3F1494797052"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505528319438/9998016.jpeg.jpeg%3F1494797052"
 publishDate = "2017-09-15T22:20:00-04:00"
 related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/oberlin-college-and-conservatory.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/curtis-institute-of-music.md"]
 slug = "siena-miller"

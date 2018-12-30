@@ -2,7 +2,7 @@
 date = "2017-07-20T16:35:00-04:00"
 discipline = "Composer"
 lastmod = "2017-07-20T16:35:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500582537839/download.jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500582537839/download.jpeg.jpeg"
 primary_image_credit = "Marylene May"
 publishDate = "2017-07-20T16:35:00-04:00"
 related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/washington-national-opera.md","scene/companies/los-angeles-opera.md","scene/companies/minnesota-opera.md"]

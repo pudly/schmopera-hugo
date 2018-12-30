@@ -2,7 +2,7 @@
 date = "2018-10-10T21:25:00-04:00"
 discipline = "Soprano"
 lastmod = "2018-10-10T21:26:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539221027980/Photo%20credit_Leonid%20Semenyuk%2C%20Pavel%20Vaan3.png"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539221027980/Photo%20credit_Leonid%20Semenyuk%2C%20Pavel%20Vaan3.png.png"
 primary_image_credit = "Leonid Semenyuk, Pavel Vaan."
 publishDate = "2018-10-10T21:25:00-04:00"
 related_companies = ["scene/companies/washington-national-opera.md","scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md","scene/companies/deutsche-oper-berlin.md","scene/companies/the-santa-fe-opera.md"]

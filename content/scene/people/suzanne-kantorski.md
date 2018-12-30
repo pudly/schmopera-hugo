@@ -2,7 +2,7 @@
 date = "2017-12-18T10:45:00-05:00"
 discipline = "Soprano"
 lastmod = "2017-12-18T10:45:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513611809896/image1.jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513611809896/image1.jpeg.jpeg"
 publishDate = "2017-12-18T10:45:00-05:00"
 slug = "suzanne-kantorski"
 title = "Suzanne Kantorski"

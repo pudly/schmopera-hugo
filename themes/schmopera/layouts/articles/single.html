@@ -289,20 +289,36 @@
   {{ if (or (isset .Params "related_people") (isset .Params "related_companies")) }}
   <section class="post--single_scene">
     <h2 class="pill">Mentions</h2> 
+    <ul>
     {{ with .Params.related_people }}
       {{ range $person := . }}
         {{ with $.Site.GetPage "page" $person }}
-          <p>{{ .Title }}</p>
+        <li>
+            <a href="{{.Permalink}}">
+              {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/w_100,h_100,c_fill,g_face/" }}
+              {{ $imglg := replace .Params.primary_image "/upload/" "/upload/w_200,h_200,c_fill,g_face/" }}
+              <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
+              <span>{{ .Title | htmlUnescape }}</span>
+            </a>
+        </li>
         {{ end }}
       {{ end }}
     {{ end }}
     {{ with .Params.related_companies }}
       {{ range $company := . }}
         {{ with $.Site.GetPage "page" $company }}
-          <p>{{ .Title }}</p>
-        {{ end }}
+        <li>
+            <a href="{{.Permalink}}">
+              {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/w_100,h_100,c_fill,g_face/" }}
+              {{ $imglg := replace .Params.primary_image "/upload/" "/upload/w_200,h_200,c_fill,g_face/" }}
+              <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
+              <span>{{ .Title | htmlUnescape }}</span>
+            </a>
+        </li>
+      {{ end }}
       {{ end }}
     {{ end }}
+    </ul>
   </section>
   {{ end }}
 

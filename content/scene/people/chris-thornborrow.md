@@ -2,7 +2,7 @@
 date = "2015-04-07T09:07:00-04:00"
 discipline = "Composer"
 lastmod = "2015-06-16T09:14:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428411973110/ChrisThornborrowTwitter.jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428411973110/ChrisThornborrowTwitter.jpeg.jpeg"
 publishDate = "2015-04-07T09:07:00-04:00"
 related_companies = ["scene/companies/tapestry-opera.md","scene/companies/the-bicycle-opera-project.md"]
 slug = "chris-thornborrow"

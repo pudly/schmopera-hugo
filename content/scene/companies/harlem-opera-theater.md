@@ -1,7 +1,7 @@
 +++
 date = "2016-12-20T16:42:00-05:00"
 lastmod = "2016-12-20T16:42:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482270130515/10672258_716803571767973_7454703995881150708_n.png%3Foh%3D683c1e7965e91db0480b44d4b445a692%26oe%3D58EE48D5"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482270130515/10672258_716803571767973_7454703995881150708_n.png.png%3Foh%3D683c1e7965e91db0480b44d4b445a692%26oe%3D58EE48D5"
 publishDate = "2016-12-20T16:42:00-05:00"
 slug = "harlem-opera-theater"
 title = "Harlem Opera Theater"

@@ -1,7 +1,7 @@
 +++
 date = "2018-12-08T14:23:00-05:00"
 lastmod = "2018-12-08T14:23:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544296842792/Logo%20-%20Amore%20Opera.jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544296842792/Logo%20-%20Amore%20Opera.jpeg.jpeg"
 publishDate = "2018-12-08T14:23:00-05:00"
 slug = "amore-opera"
 title = "Amore Opera"

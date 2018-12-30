@@ -2,7 +2,7 @@
 date = "2017-06-25T11:46:00-06:00"
 discipline = "Countertenor"
 lastmod = "2017-06-25T11:46:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498412790795/test.png"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498412790795/test.png.png"
 publishDate = "2017-06-25T11:46:00-06:00"
 related_companies = ["scene/companies/glyndebourne.md","scene/companies/scottish-opera.md","scene/companies/royal-opera-house.md","scene/companies/toronto-symphony-orchestra.md","scene/companies/the-metropolitan-opera.md","scene/companies/welsh-national-opera.md","scene/companies/san-francisco-opera.md","scene/companies/opera-north.md","scene/companies/bayerische-staatsoper.md","scene/companies/lopra-de-montral.md"]
 slug = "daniel-taylor"

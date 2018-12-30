@@ -2,7 +2,7 @@
 date = "2017-06-24T14:10:00-06:00"
 discipline = "Soprano"
 lastmod = "2017-06-24T14:12:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498335071841/download.jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498335071841/download.jpeg.jpeg"
 publishDate = "2017-06-24T14:11:00-06:00"
 related_companies = ["scene/companies/opera-5.md","scene/companies/myopera.md","scene/companies/indie-opera-to.md"]
 slug = "alexandra-smither"

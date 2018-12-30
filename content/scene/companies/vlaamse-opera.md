@@ -1,7 +1,7 @@
 +++
 date = "2015-09-22T22:39:00-04:00"
 lastmod = "2015-09-22T22:39:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442975498159/Vlaamse-Opera-logo.png"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442975498159/Vlaamse-Opera-logo.png.png"
 publishDate = "2015-09-22T22:39:00-04:00"
 related_people = ["scene/people/josef-wagner.md","scene/people/tim-mead.md","scene/people/michael-j-scott.md","scene/people/jacquelyn-wagner.md","scene/people/julien-behr.md","scene/people/denzil-delaere.md","scene/people/markus-suihkonen.md","scene/people/anat-edri.md","scene/people/alexander-joel.md","scene/people/anna-goryachova.md","scene/people/maxim-mironov.md","scene/people/cristina-pasaroiu.md"]
 slug = "vlaamse-opera"

@@ -2,7 +2,7 @@
 date = "2017-02-09T13:20:00+00:00"
 discipline = "Composer"
 lastmod = "2017-02-09T13:21:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486646427488/Tassie.jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486646427488/Tassie.jpeg.jpeg"
 publishDate = "2017-02-09T13:21:00+00:00"
 slug = "benjamin-tassie"
 title = "Benjamin Tassie"

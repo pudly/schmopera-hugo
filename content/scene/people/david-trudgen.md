@@ -2,7 +2,7 @@
 date = "2017-12-15T12:14:00-05:00"
 discipline = "Countertenor"
 lastmod = "2017-12-15T12:14:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513358084251/TRUDGEN-PHOTO.JPG"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513358084251/TRUDGEN-PHOTO.JPG.JPG"
 publishDate = "2017-12-15T12:14:00-05:00"
 related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/pacific-opera-victoria.md","scene/companies/voicebox-opera-in-concert.md","scene/companies/opera-theatre-of-st-louis.md"]
 slug = "david-trudgen"

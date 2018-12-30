@@ -2,7 +2,7 @@
 date = "2017-09-13T09:51:00-04:00"
 discipline = "Soprano"
 lastmod = "2017-09-13T09:51:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505310576525/rubon14.png"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505310576525/rubon14.png.png"
 primary_image_credit = "Ouistiti"
 publishDate = "2017-09-13T09:51:00-04:00"
 related_companies = ["scene/companies/royal-opera-house.md","scene/companies/opra-national-de-paris.md","scene/companies/glyndebourne.md","scene/companies/la-monnaie.md"]

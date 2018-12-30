@@ -1,7 +1,7 @@
 +++
 date = "2015-11-14T12:24:00-05:00"
 lastmod = "2015-11-14T12:24:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447521868854/FjsbbHPD.jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447521868854/FjsbbHPD.jpeg.jpeg"
 publishDate = "2015-11-14T12:24:00-05:00"
 related_people = ["scene/people/monica-pearce.md"]
 slug = "toy-piano-composers"

@@ -2,7 +2,7 @@
 date = "2017-07-26T22:44:00-04:00"
 discipline = "Soprano"
 lastmod = "2017-07-26T22:44:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501123443773/_MG_0589.jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501123443773/_MG_0589.jpeg.jpeg"
 publishDate = "2017-07-26T22:44:00-04:00"
 related_companies = ["scene/companies/welsh-national-opera.md","scene/companies/the-banff-centre.md","scene/companies/washington-national-opera.md","scene/companies/cardiff-singer-of-the-world-competition.md","scene/companies/opera-theatre-of-st-louis.md"]
 slug = "lauren-michelle"

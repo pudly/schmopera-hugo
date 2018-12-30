@@ -2,7 +2,7 @@
 date = "2015-04-06T14:41:00-04:00"
 discipline = "Composer"
 lastmod = "2015-04-06T14:41:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428345556165/AbigailRichardson.png"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428345556165/AbigailRichardson.png.png"
 publishDate = "2015-04-06T14:41:00-04:00"
 related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
 slug = "abigail-richardson-schulte"

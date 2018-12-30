@@ -2,7 +2,7 @@
 date = "2015-06-25T08:00:00-06:00"
 discipline = "Composer"
 lastmod = "2015-06-25T08:00:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435240710401/JamesRolfe.jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435240710401/JamesRolfe.jpeg.jpeg"
 publishDate = "2015-06-25T08:00:00-06:00"
 related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/toronto-masque-theatre.md","scene/companies/tapestry-opera.md","scene/companies/manhattan-school-of-music.md"]
 slug = "james-rolfe"

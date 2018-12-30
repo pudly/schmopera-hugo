@@ -2,7 +2,7 @@
 date = "2015-04-12T12:13:00-04:00"
 discipline = "Soprano"
 lastmod = "2015-04-12T12:13:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428855001687/Dye-Kriha-Peggy2.jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428855001687/Dye-Kriha-Peggy2.jpeg.jpeg"
 publishDate = "2015-04-12T12:13:00-04:00"
 related_companies = ["scene/companies/opera-atelier.md"]
 slug = "peggy-kriha-dye"

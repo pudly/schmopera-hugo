@@ -2,7 +2,7 @@
 date = "2017-05-22T21:47:00-04:00"
 discipline = "Composer"
 lastmod = "2017-05-22T21:47:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495503936204/Gervais.png"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495503936204/Gervais.png.png"
 publishDate = "2017-05-22T21:47:00-04:00"
 related_companies = ["scene/companies/tapestry-opera.md","scene/companies/indie-opera-to.md"]
 slug = "aaron-gervais"

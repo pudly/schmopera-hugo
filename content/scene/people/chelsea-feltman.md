@@ -2,7 +2,7 @@
 date = "2018-04-29T20:47:00-04:00"
 discipline = "Soprano"
 lastmod = "2018-04-29T20:47:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525049213581/Chelsea%20Feltman%20-%20Headshot.JPG"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525049213581/Chelsea%20Feltman%20-%20Headshot.JPG.JPG"
 publishDate = "2018-04-29T20:47:00-04:00"
 related_companies = ["scene/companies/opera-on-tap.md","scene/companies/gramercy-opera.md"]
 slug = "chelsea-feltman"

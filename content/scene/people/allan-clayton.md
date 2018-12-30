@@ -2,7 +2,7 @@
 date = "2016-03-17T12:37:00+00:00"
 discipline = "Tenor"
 lastmod = "2017-03-15T11:55:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489578703202/Allan-Clayton_image1-c_Laura-Harling.JPG"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489578703202/Allan-Clayton_image1-c_Laura-Harling.JPG.JPG"
 primary_image_credit = "Laura Harling"
 publishDate = "2016-03-17T12:37:00+00:00"
 related_companies = ["scene/companies/english-national-opera.md","scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md"]

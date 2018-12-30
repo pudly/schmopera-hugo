@@ -2,7 +2,7 @@
 date = "2015-04-06T21:36:00-04:00"
 discipline = "Baritone"
 lastmod = "2015-04-06T21:36:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428370162712/AndrewLove.jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428370162712/AndrewLove.jpeg.jpeg"
 publishDate = "2015-04-06T21:36:00-04:00"
 related_companies = ["scene/companies/pacific-opera-victoria.md","scene/companies/highlands-opera-studio.md","scene/companies/opera-on-the-avalon.md","scene/companies/opera-nuova.md","scene/companies/calgary-opera.md","scene/companies/opra-de-qubec.md"]
 slug = "andrew-love"

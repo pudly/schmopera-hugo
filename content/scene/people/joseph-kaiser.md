@@ -2,7 +2,7 @@
 date = "2018-01-16T18:38:00-05:00"
 discipline = "Tenor"
 lastmod = "2018-01-16T18:38:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516145535472/JosephKaiser5PHOTOCREDITJulie-Artacho.jpeg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516145535472/JosephKaiser5PHOTOCREDITJulie-Artacho.jpeg.jpeg"
 primary_image_credit = "Julie Artacho"
 publishDate = "2018-01-16T18:38:00-05:00"
 related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/houston-grand-opera.md","scene/companies/canadian-opera-company.md","scene/companies/the-dallas-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md"]

@@ -2,7 +2,7 @@
 date = "2015-05-05T16:28:00-04:00"
 discipline = "Pianist, vocal coach"
 lastmod = "2015-05-05T16:28:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430857553119/photo-457%20copy%206.JPG"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430857553119/photo-457%20copy%206.JPG.JPG"
 publishDate = "2015-05-05T16:28:00-04:00"
 slug = "sandra-mogensen"
 title = "Sandra Mogensen"

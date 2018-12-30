@@ -2,7 +2,7 @@
 date = "2015-04-07T22:53:00-04:00"
 discipline = "Composer"
 lastmod = "2015-04-07T22:53:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428461565887/Screen-Shot-2015-02-24-at-10.05.16-AM.png"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428461565887/Screen-Shot-2015-02-24-at-10.05.16-AM.png.png"
 publishDate = "2015-04-07T22:53:00-04:00"
 slug = "kieren-macmillan"
 title = "Kieren MacMillan"
