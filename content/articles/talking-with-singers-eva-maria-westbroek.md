@@ -5,7 +5,7 @@ date = "2018-12-30T15:42:28+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
-preamble = ""
+preamble = "Dutch soprano Eva-Maria Westbroek is currently in London, in rehearsals for Tchaikovsky's _The Queen of Spades_, going up on 13 January at Covent Garden. "
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546184839/media/2018/12/sqEvaMariaWestbroek-pc-FazilBerisha.jpg"
 primary_image_credit = "Fazil Berisha."
 related_articles = ["articles/talking-with-singers-melody-moore.md", "articles/talking-with-singers-keri-alkema.md"]
@@ -25,9 +25,7 @@ I feel the luckiest person in the world to sing and be surrounded by music and i
 
 I think Liza is a very romantic young woman. Escaping her life is extremely courageous in those times. She is deeply passionate and can only follow her heart. I love her very much!
 
-<figure>{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1546185293/media/2018/12/8859-118TheQueenofSpadesatDutchNationalOpera-pc-KarlandMonikaForster.jpg)
-
-<figcaption>A scene from Stefan Herheim's production of _The Queen of Spades_, Dutch National Opera. Photo: Karl and Monika Forster.</figcaption></figure>
+{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1546185293/media/2018/12/8859-118TheQueenofSpadesatDutchNationalOpera-pc-KarlandMonikaForster.jpg)
 
 ### What do you find is unique about the audiences at Covent Garden?
 
