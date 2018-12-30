@@ -25,7 +25,10 @@ I feel the luckiest person in the world to sing and be surrounded by music and i
 
 I think Liza is a very romantic young woman. Escaping her life is extremely courageous in those times. She is deeply passionate and can only follow her heart. I love her very much!
 
-{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1546185293/media/2018/12/8859-118TheQueenofSpadesatDutchNationalOpera-pc-KarlandMonikaForster.jpg)
+<figure data-type="image">  
+{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1546185293/media/2018/12/8859-118TheQueenofSpadesatDutchNationalOpera-pc-KarlandMonikaForster.jpg)  
+{{% /md %}}  
+<figcaption>Not off the top of my head</figcaption></figure>
 
 ### What do you find is unique about the audiences at Covent Garden?
 
@@ -45,4 +48,4 @@ That’s a hard question! I think, just to be true to yourself and enjoy!
 
 I think I would have liked to work with animals! Maybe a dog trainer or something with horses - although I only just started riding!
 
->_The Queen of Spades_ runs at The Royal Opera House 13 January to 1 February. For details and ticket information, [click here](https://www.roh.org.uk/productions/the-queen-of-spades-by-stefan-herheim).
+> _The Queen of Spades_ runs at The Royal Opera House 13 January to 1 February. For details and ticket information, [click here](https://www.roh.org.uk/productions/the-queen-of-spades-by-stefan-herheim).
