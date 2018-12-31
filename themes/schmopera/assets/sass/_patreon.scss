@@ -31,8 +31,9 @@
   width: 100%;
   bottom: 0;
   left: 0;
-  font-size: .9em;
+  font-size: .8em;
   font-weight: 500;
+
 
   @include translate(0, 0);
   opacity: 1;
@@ -51,6 +52,8 @@
   }
 
   @include bp-medium {
+    display: flex;
+    flex-direction: row;  
     padding: 1em;
   }
 }
@@ -84,15 +87,23 @@
 
   a {
     display: inline-block;
-    background: $sch-black;
     line-height: 1em;
     padding: 1em;
-    border-radius: 1.5em;
     text-transform: uppercase;
     text-decoration: none;
     font-size: .8em;
-    color: #fff;
     margin-right: .5em;
+
+    @include bp-medium {
+      margin-left: .5em;
+      margin-right: 0;
+    }
+  }
+
+  a.donate {
+    background: $sch-black;
+    border-radius: 1.5em;
+    color: #fff;
 
     span {
       display: none;
@@ -103,8 +114,13 @@
     }
   }
 
-  @include bp-medium {
-    padding-top: 1em;
+  a.dontate {
+    color: #000;
+    opacity: .5;
   }
 
+  @include bp-medium {
+    white-space: nowrap;
+    padding-top: 0;
+  }
 }
