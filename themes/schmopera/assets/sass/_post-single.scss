@@ -42,7 +42,7 @@
 ----------------------------------------------------- */
 .post--single_hero {
   position: relative;
-  margin: 0 0 40px 0;
+  margin-bottom: 0 !important;
   
   picture {
     display: block;
@@ -61,36 +61,29 @@
     left: 0;
   }
 
-  h1 {
-    position: absolute;
-    bottom: 20px;
-    left: 5px;
-    margin: 0;
-    font-size: 1.8em;
+  .post--list-title {
+    position: relative;
+    top: -1.5em;
+    bottom: 0;
+    left: 20px;
+    max-width: 90%;
 
-    span {
-      position: relative;
-      bottom: .175em;
-      background: #fff;
-      color: $sch-black;
-      padding: .08em 0;
-      line-height: 1.1em;
-      box-shadow: 5px 0 0 #fff, -5px 0 0 #fff;
-    }
-
-    @include bp-medium {
-      max-width: 90%;
-      font-size: 2.2em;
-      bottom: 40px;
-      left: 0;
+    h1 {
+      font-size: 1.8em;
 
       span {
-        box-shadow: 15px 0 0 #fff;
-      }
-    }
+        background: $sch-black;
+        box-shadow: 10px 0 0 $sch-black, -10px 0 0 $sch-black;
+        color: $sch-black;
 
-    @include bp-large {
-      font-size: 3em;
+        &:after {
+          color: #fff;
+        }
+      }
+
+      @include bp-large {
+        font-size: 2.5em;
+      }
     }
   }
 
@@ -135,43 +128,17 @@
     primary content preamble
 ----------------------------------------------------- */
 .post--single_preamble {
-  // font-family: "Lora";
-  font-weight: 400;
-  padding: 15px 20px 20px 20px;
-  margin: 0 0 40px 0 !important;
-  line-height: 1.3em;
+  padding: 20px 0;
+  line-height: 1.6em;
+  margin: -20px 20px;
 
-  font-size: .85em;
+  font-size: 1em;
   color: #555;
 
   position: relative;
 
-  border-right: 5px solid #ccc;
-  background: #eee;
-
-  &:after {
-    content: '';
-    position: absolute;
-    bottom: -5px;
-    height: 5px;
-    background: #ccc;
-    width: 100%;
-    right: -5px;
-  }
-
-  &:before {
-    content: '';
-    position: absolute;
-    top: -5px;
-    left: 0;
-    height: 5px;
-    background: #eee;
-    width: 100%;
-  }
-
-  @include bp-large {
-    margin-right: 40px;
-  }
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
 
   p:only-child {
     margin: 0;
@@ -183,6 +150,9 @@
 
   p:last-child {
     margin-bottom: 0;
+  }
+  @include bp-medium {
+    margin: -40px 10px;
   }
 }
 
@@ -400,51 +370,35 @@
     _authors
     Author detailes in a single post
 ----------------------------------------------------- */
+.post--single_hero + .post--single_authors {
+
+}
 .post--single_authors {
-  .post--single_author {
-    clear: left;
+  clear: left;
+  padding: 0 !important;
 
+  picture, img {
+    width: 40px !important;
+    height: 40px !important;
+  }
+
+  img {
+    margin-left: 10px !important;
+  }
+
+  @include bp-medium {
     picture, img {
-      float: left;
-      border-radius: 100%;
-      margin: auto;
-      width: 100px;
-      height: 100px;
-    }
-
-    h2, .post--single_author-bio, .post--single_author-meta {
-        margin-left: 120px;
-    }
-
-    h2 {
-        margin-bottom: 10px;
-    }
-
-    .post--single_author-bio p {
-      margin-top: 0;
-      font-size: .9em;
-    }
-
-    @include bp-medium {
-      picture, img {
-        width: 100px;
-        height: 100px;
-      }
-
-      h2, .post--single_author-bio, .post--single_author-meta {
-
-      }
-
-      h2 {
-
-      }
-
-      .post--single_author-bio {
-
-      }
+      width: 80px !important;
+      height: 80px !important;
     }
   }
+
+  .post--single_author-bio p {
+    margin-top: 0;
+    font-size: .9em;
+  }
 }
+
 
 /* -----------------------------------------------------
     _scene

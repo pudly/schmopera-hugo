@@ -64,8 +64,14 @@
         {{ $imglg := replace .Params.primary_image "/upload/" "/upload/w_1480,h_1480,c_fill,g_faces/" }}
         <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkkAQAAB8AG7jymN8AAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
       </picture>
+      <div class="post--list-title">
+        <h1><span title="{{ .Title | htmlUnescape }}">{{ .Title | htmlUnescape }}</span></h1>
+        {{ with .Params.categories }}
+        <em class="post--meta-category">{{ . }}</em>
+        {{ end }}
+      </div>      
 
-      <h1><span>{{ .Title | htmlUnescape }}</span></h1>
+      <!-- <h1><span>{{ .Title | htmlUnescape }}</span></h1>
 
       <span class="post--meta">
         <em class="post--meta-date">{{ .Date.Format "Jan 2, 2006" }}</em>
@@ -73,24 +79,31 @@
         {{ with .Params.categories }}
           <a href="{{ "categories/" | absURL}}{{ . | urlize }}" class="post--meta-category">{{ . }}</a>
         {{ end }}
-      </span>
+      </span> -->
     </section>
+    {{/*
     {{ with .Params.primary_image_credit }}
       <span class="post--single_hero-credit">{{ . }}</span>
     {{ end }}
+    */}}
 
-    <h2> Authors </h2>
-
-    {{ with .Params.author }}
-    <ul>
-      {{ range $author := . }}
-        {{ with $.Site.GetPage "page" $author }}
-          <li><a href="{{.Permalink}}">{{ .Title }}{{ .Params.primary_image }}</a></li>
+  {{/* Authors */}}  
+    <section class="post--single_authors">
+      {{ with .Params.author }}
+        {{ range $author := . }}
+          {{ with $.Site.GetPage "page" $author }}
+          <picture class="post--meta-author_image">
+            {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/w_80,h_80,c_fill,g_face/" }}
+            {{ $imglg := replace .Params.primary_image "/upload/" "/upload/w_160,h_160,c_fill,g_face/" }}
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
+          </picture>
+          <em>{{ .Title }}</em>
+          {{ end }}
         {{ end }}
       {{ end }}
-    </ul>
-    {{ end }}
-
+      - {{ .Date.Format "Jan 2, 2006" }}
+    </section>    
+  
 
   {{/* 
     
