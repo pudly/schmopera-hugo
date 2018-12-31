@@ -28,7 +28,7 @@ The orchestra under the direction of Joshua Horsch provided the varied emotional
 
 There are only four characters in _Glory Denied_, the younger and older versions of Jim Thompson and his wife Alyce. The story is told in a non-linear fashion, jumping back and forth in time. The audience is experiencing Jim's life as he does. Even when he returns home after nine years of captivity, he never truly leaves his POW camp cage. Similarly, he cannot leave behind his idealized memories of his life before the war. The conflict between memory and reality dominates his mental struggle, and all he can do is fight to survive the past and present.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1546224960/media/2018/12/GloryDeniedDMMO3.png) {{% /md %}}<figcaption><em>Glory Denied</em>, Des Moines Metro Opera, 2018. Photo: </figcaption> </figure>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1546224960/media/2018/12/GloryDeniedDMMO3.png){{% /md %}}<figcaption><em>Glory Denied</em>, Des Moines Metro Opera, 2018. Photo: </figcaption> </figure>
 
 Emma Grimsley sang the role of Younger Alyce, an idealized memory of Jim's wife. Because she is not a real person, she lacks the emotional depth of the other characters, but the concept of her is crucial to Jim’s endurance. Grimsley's voice resembled that of a Disney princess, and I could easily picture the soprano singing with birds in a chirpy homage to Snow White. Her pure, shimmering vocal tone matches the fairy tale perception Jim has of his wife, creating a shocking effect when we meet the real version of Alyce.
 
