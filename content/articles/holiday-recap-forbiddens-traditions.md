@@ -31,7 +31,7 @@ Greg caught the verboten, and I saw the traditional. The Toronto Symphony Orches
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1546223125/media/2018/12/CompositeMessiahJagGundu.jpg)
 
-{{% /md %}}<figcaption>Clockwise from top left: Allyson McHardy, Claire de Sévigné, Tyler Duncan, and Andrew Haji perform Handel's _Messiah_ with the Toronto Symphony Orchestra under Johannes Debus. Photos: Jag Gundu.</figcaption></figure>
+{{% /md %}}<figcaption>Clockwise from top left: Allyson McHardy, Claire de Sévigné, Tyler Duncan, and Andrew Haji perform Handel's <em>Messiah</em> with the Toronto Symphony Orchestra under Johannes Debus. Photos: Jag Gundu.</figcaption></figure>
 
 COC Music Director Johannes Debus took the podium, bringing operatic flair to Handel's score, peppering it with surprises enough to keep a very, _very_ familiar score sounding new. And the Toronto Mendelssohn Choir was on point, earning bragging rights with collective coloratura and a stunning colour palette from start to finish.
 
