@@ -28,7 +28,7 @@ I think Liza is a very romantic young woman. Escaping her life is extremely cour
 <figure data-type="image">  
 {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1546185293/media/2018/12/8859-118TheQueenofSpadesatDutchNationalOpera-pc-KarlandMonikaForster.jpg)  
 {{% /md %}}  
-<figcaption>A scene from _The Queen of Spades_, Dutch National Opera. Photo: Karl and Monika Forster.</figcaption></figure>
+<figcaption>A scene from <em>The Queen of Spades</em>, Dutch National Opera. Photo: Karl and Monika Forster.</figcaption></figure>
 
 ### What do you find is unique about the audiences at Covent Garden?
 
