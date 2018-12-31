@@ -41,7 +41,7 @@ More traditions - and more Canadians - were in Toronto Operetta Theatre's produc
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1546223254/media/2018/12/Fledermaus2.jpg)
 
-<figcaption>Caitlin Wood (Adele) and Elizabeth Beeler (Orlofsky) in _Die Fledermaus_ Toronto Operetta Theatre, 2018. Photo: Gary Beechey, BDS Studios.</figcaption>{{% /md %}}</figure>
+{{% /md %}}<figcaption>{{% md %}}Caitlin Wood (Adele) and Elizabeth Beeler (Orlofsky) in _Die Fledermaus_ Toronto Operetta Theatre, 2018. Photo: Gary Beechey, BDS Studios.{{% /md %}}</figcaption></figure>
 
 Toronto Operetta Theatre, for me, has always been a place to hear Canada's excellent talent, if not a place for forward-thinking production value. My hunch had been that all you needed for a great, hilarious _Die Fledermaus_ was a stellar cast. Yet even the top-notch performances by Ciekiewicz, Fisher, Wood, and Robert-Broder were dampened by missed comedic opportunities and some hokey English dialogue - a product of Ruth and Thomas Martin's translation, plus additions made by stage director and TOT head Guillermo Silva-Marin. Though it's par for the course in operetta, to have odd contemporary cultural reference in the dialogue, but I'd call this version overkill. I counted at least four Trump references, a Martha-Stewart-prison groaner, a dash of #MeToo, and a vaguely French, Tar-_get_-inspired pronunciation of "Value Vil-_lage_".
 
