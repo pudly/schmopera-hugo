@@ -3,7 +3,7 @@
   {{ $paginator := .Paginate (where .Data.Pages "Type" "articles") }}
 
   {{ range $paginator.Pages }}
-    <a href="{{ .Permalink }}" class="post--list-item">
+    <a href="{{ .relURL }}" class="post--list-item">
       <section>
         <header class="post--list-header">
           <picture class="post--list-image">
