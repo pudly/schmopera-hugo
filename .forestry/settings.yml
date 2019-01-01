@@ -14,6 +14,8 @@ sections:
 - type: document
   path: content/featured/_index.md
   label: Featured
+  templates:
+  - article
 - type: directory
   path: content/authors
   label: Authors
