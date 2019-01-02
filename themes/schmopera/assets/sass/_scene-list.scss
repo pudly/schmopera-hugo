@@ -41,8 +41,8 @@
       position: relative;
 
       @include bp-medium {
-        width: calc(16.6666% - 5px);
-        height: calc(16.6666% - 5px);
+        width: calc(20% - 5px);
+        height: calc(20% - 5px);
       }
 
       &.__active {
@@ -126,8 +126,13 @@
     a {
       display: block;
 
-      vertical-align: top;
       text-align: center;
+
+      picture {
+        display: block;
+        background: url(/images/loading.gif) no-repeat 50% 50%;
+        background-size: 64px 64px;
+      }
 
       img {
         display: block;
@@ -286,7 +291,7 @@
       }
 
       @include bp-large {
-        width: 680px;
+        width: 740px;
         top: 40px;
       }
 
