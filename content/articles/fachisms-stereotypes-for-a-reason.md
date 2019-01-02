@@ -6,13 +6,13 @@ lastmod = "2015-05-15T13:42:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431628550797/KaufmannWestbroekSiegfried_Fotor.jpg.jpg"
 primary_image_credit = "Jonas Kaufmann and Eva-Maria Westbroek in The Met's Die Walküre, 2011. Photo: Ken Howard/Metropolitan Opera"
 publishDate = "2015-05-15T13:30:00-04:00"
-related_articles = ["articles/lets-hear-it-for-the-basses.md","articles/taking-a-bow-curtain-calls-for-your-voice-type.md","articles/hypothetical-operas-the-2016-presidential-election.md","articles/women-in-the-arts-is-it-our-turn-yet.md"]
-related_people = ["scene/people/evamaria-westbroek.md","scene/people/jonas-kaufmann.md"]
+related_articles = ["articles/lets-hear-it-for-the-basses.md", "articles/taking-a-bow-curtain-calls-for-your-voice-type.md", "articles/hypothetical-operas-the-2016-presidential-election.md", "articles/women-in-the-arts-is-it-our-turn-yet.md"]
+related_people = ["scene/people/evamaria-westbroek.md", "scene/people/jonas-kaufmann.md"]
 short_description = "I do get the jokes. Stereotypes for a reason, and all that. It&#039;s interesting to note that even if singers of different voice-types don&#039;t align perfectly with the above cross-section, there are still a few fach-specific thought processes that I&#039;ve noticed from my seat at the piano. "
-slug = "fachisms-stereotypes-for-a-reason"
+slug = "fach-isms-stereotypes-for-a-reason"
 title = "Fach-isms &amp; stereotypes for a reason"
-+++
 
++++
 I saw this oldie-but-goodie making the rounds on Facebook today:
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431626119851/classicoperacartoon.jpg%3Fw%3D640)
@@ -42,4 +42,4 @@ I do get the jokes. Stereotypes for a reason, and all that. It's interesting to 
 
 **Tenors**: Do they really worry about money? Not much more than any other singer. But high notes, *yes*. This is their identity. Crack too many high notes and experts from all walks of live appear out of nowhere. "Tenor without a top," opera-types love to quip. They've got high Cs in Rossini, peer-pressure high-Cs in Puccini, the gamble-of-a-high-C in Verdi, *nine* of them elsewhere. So yeah, they're worried what you're going to say about their high notes. Because we don't shut up about them.
 
->There may be plenty of singers that merit these stereotypes, but there are many more who have fabulous senses of humour about "singer-isms" that pop up during rehearsal (I first saw this comic on a voice teacher's studio door). So, readers, what have I missed? Leave your laughable stereotypes in the comments below. 
+>There may be plenty of singers that merit these stereotypes, but there are many more who have fabulous senses of humour about "singer-isms" that pop up during rehearsal (I first saw this comic on a voice teacher's studio door). So, readers, what have I missed? Leave your laughable stereotypes in the comments below.
