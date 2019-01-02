@@ -188,16 +188,14 @@
     padding: 0;
   }
 
-  h2 {
+  h2, h3, h4 {
     margin-top: 2em;
+    text-transform: none;
+    font-weight: 700;
   }
 
   h2:first-child {
     margin-top: 0;
-  }
-
-  h3 {
-    margin-top: 2em;
   }
 
   hr {
