@@ -10,15 +10,14 @@
 ----------------------------------------------------- */
 .post--featured {
   position: relative;
-  margin: 0 -20px 40px -20px;
+  margin: 0 0 40px 0;
 
-  font-size: 1em;
+  font-size: .9em;
 
   nav {
     overflow: hidden;
     overflow-x: auto;
     white-space: nowrap;
-    // transform: translateZ(0);
   }
 
   h2 {
@@ -30,24 +29,13 @@
 
   @include bp-medium {
     margin: 0 0 60px 0;
+    font-size: 1em;
   }
 
   @include bp-large {
+    font-size: 1.1em;
     margin: 0 0 80px 0;
   }
-
-  // &:after {
-  //   content: '';
-  //   display: block;
-  //   position: absolute;
-  //   top: 0;
-  //   right: 0;
-  //   bottom: 0;
-  //   width: 60px;
-  //   background-image: linear-gradient( to right, rgba(0,0,0,0), rgba(0,0,0,.7));
-  //   z-index: 10;
-  //   pointer-events: none;
-  // }
 
   .nav--share {
     float: right;
@@ -89,10 +77,10 @@
 
   position: relative;
 
-  width: 80%;
+  width: 75%;
 
   height: 0;
-  padding-top: 53%;
+  padding-top: 53.379%;
   overflow: hidden;
 
   vertical-align: bottom;
@@ -102,6 +90,16 @@
   picture, img {
     display: block;
     z-index: 1;
+  }
+
+  picture {
+    background: url(/images/loading.gif) no-repeat 50% 50%;
+    background-size: 64px 64px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
   }
 
   img {
