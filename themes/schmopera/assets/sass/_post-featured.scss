@@ -69,6 +69,30 @@
       }
     }
   }
+
+  &:before {
+    content: '';
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    z-index: 50;
+    border-radius: 100%;
+    top: 50%;
+    left: 75%;
+    margin-top: -25px;
+    margin-left: -25px;
+    background: rgba(255,255,255,.8) url(/images/swipe-helper.gif) no-repeat 50% 50%;
+    background-size: 40px;
+    pointer-events: none;
+
+    @include bp-medium {
+      height: 80px;
+      width: 80px;
+      margin-top: -40px;
+      margin-left: -40px;
+      background-size: 70px;
+    }
+  }
 }
 
 
@@ -86,6 +110,7 @@
   vertical-align: bottom;
 
   white-space: normal;
+  z-index: 1;
 
   picture, img {
     display: block;
@@ -164,30 +189,5 @@
       font-style: normal;
     }
       
-  }
-
-  &:first-child {
-    &:before {
-      content: '';
-      position: absolute;
-      width: 50px;
-      height: 50px;
-       z-index: 50;
-      border-radius: 100%;
-      top: 50%;
-      left: 50%;
-      margin-top: -25px;
-      margin-left: -25px;
-      background: rgba(255,255,255,.9) url(/images/swipe-helper.gif) no-repeat 50% 50%;
-      background-size: 40px;
-
-      @include bp-medium {
-        height: 80px;
-        width: 80px;
-        margin-top: -40px;
-        margin-left: -40px;
-        background-size: 70px;
-      }
-    }
   }
 }
