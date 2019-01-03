@@ -37,16 +37,15 @@ document.addEventListener('DOMContentLoaded', function() {
 // featured scroll
   var $featured_nav = document.querySelector('.post--featured > nav');
   if ($featured_nav) {
-    var fw = $featured_nav.scrollWidth;
 
     $featured_nav.addEventListener('scroll', function() {
+      var fw = $featured_nav.scrollWidth;
       var fc = $featured_nav.scrollLeft;
       var fm = $featured_nav.clientWidth;
 
-      if (fc == (fw - fm)) {
+      if (fc > (fw - fm - 40)) {
         $featured_nav.classList.remove('right');
         $featured_nav.classList.add('left');
-        console.log('hit the end');
       }
       else if (fc == 0) {
         $featured_nav.classList.remove('left');
