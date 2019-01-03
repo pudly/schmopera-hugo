@@ -1,7 +1,7 @@
 +++
 date = "2017-07-20T09:59:00-04:00"
 lastmod = "2017-07-20T09:59:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500559128613/10404430_762215490525014_7339753101064926343_n.jpg%3Foh%3D42544f3a93821f95baa5581f986dd72b%26oe%3D59EE2DAD"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546480327/media/2019/01/Logo-TheIndustry.jpg"
 publishDate = "2017-07-20T09:59:00-04:00"
 slug = "the-industry"
 title = "The Industry"
@@ -23,8 +23,8 @@ url = "https://www.instagram.com/industryopera/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/TheindustryArts"
-+++
 
++++
 The Industry is an independent, artist-driven company creating experimental productions that expand the definition of opera. In just a few short years, The Industry has been praised for “quickly and dramatically making itself an essential component in American opera” (Mark Swed, Los Angeles Times) and “the coolest opera company in the world” (Brian Lauritzen, KUSC).
 
 Founded by Artistic Director Yuval Sharon, The Industry burst onto the creative scene with the 2012 premiere of Crescent City, a large-scale, interdisciplinary opera by Anne LeBaron and Douglas Kearney. Opening to rave reviews, the production’s striking intersection of visual artistry and musical ingenuity firmly established The Industry as an innovative force in American opera.
