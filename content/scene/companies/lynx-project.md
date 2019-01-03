@@ -1,6 +1,5 @@
 +++
 date = "2015-10-15T11:42:00-04:00"
-draft = true
 lastmod = "2015-10-15T11:42:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546481588/media/2019/01/Logo-LynxProject.png"
 related_people = ["scene/people/megan-moore.md", "scene/people/steven-humes.md", "scene/people/florence-mak.md"]
