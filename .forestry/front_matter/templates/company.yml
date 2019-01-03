@@ -46,3 +46,5 @@ fields:
       section: people
   label: Related People
   name: related_people
+pages:
+- content/scene/companies/l-opéra-de-montréal.md
