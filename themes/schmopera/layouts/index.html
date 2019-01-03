@@ -2,7 +2,7 @@
 
   <section class="post--featured">
     <h2 class="pill">Featured</h2>
-    <nav>
+    <nav class="right">
   {{- range where $.Site.Pages "Type" "featured" -}}
   {{- with .Params.articles -}}
     {{- range $article := . -}}

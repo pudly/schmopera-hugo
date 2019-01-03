@@ -75,6 +75,7 @@
   }
 
   i[class^='icon-arrow'] {
+    display: none;
     position: absolute;
     height: 100%;
     width: 40px;
@@ -117,46 +118,16 @@
   }
 
   nav.right {
-    i.icon-arrow-left {
-      display: none;
-    }
     i.icon-arrow-right {
       display: block;
     }
   }
 
   nav.left {
-    i.icon-arrow-right {
-      display: none;
-    }
-    > i.icon-arrow-left {
+    i.icon-arrow-left {
       display: block;
     }
   }
-
-  // &:before {
-  //   content: '';
-  //   position: absolute;
-  //   width: 50px;
-  //   height: 50px;
-  //   z-index: 50;
-  //   border-radius: 100%;
-  //   top: 50%;
-  //   left: 75%;
-  //   margin-top: -25px;
-  //   margin-left: -25px;
-  //   background: rgba(255,255,255,.8) url(/images/swipe-helper.gif) no-repeat 50% 50%;
-  //   background-size: 40px;
-  //   pointer-events: none;
-
-  //   @include bp-medium {
-  //     height: 80px;
-  //     width: 80px;
-  //     margin-top: -40px;
-  //     margin-left: -40px;
-  //     background-size: 70px;
-  //   }
-  // }
 }
 
 

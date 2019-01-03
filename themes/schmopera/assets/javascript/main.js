@@ -43,12 +43,17 @@ document.addEventListener('DOMContentLoaded', function() {
       var fc = $featured_nav.scrollLeft;
       var fm = $featured_nav.clientWidth;
 
-      if (fc < (fw - fm)) {
+      if (fc == (fw - fm)) {
+        $featured_nav.classList.remove('right');
+        $featured_nav.classList.add('left');
+        console.log('hit the end');
+      }
+      else if (fc == 0) {
         $featured_nav.classList.remove('left');
         $featured_nav.classList.add('right');
       }
       else {
-        $featured_nav.classList.remove('right');
+        $featured_nav.classList.add('right');
         $featured_nav.classList.add('left');
       }
     })
