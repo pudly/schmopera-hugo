@@ -30,17 +30,31 @@ document.addEventListener('DOMContentLoaded', function() {
       $body.classList.remove('scroll');
     }
 
-    // if (st_cur < (ft - vh - 100)) {
-    //   $body.classList.add('article-read');
-    // } else {
-    //   $body.classList.remove('article-read');
-    // }
-    //
-    // console.log(ap);
-
     st_cur = st;
 
   });
+
+// featured scroll
+  var $featured_nav = document.querySelector('.post--featured > nav');
+  if ($featured_nav) {
+    var fw = $featured_nav.scrollWidth;
+
+
+    $featured_nav.addEventListener('scroll', function() {
+      var fc = $featured_nav.scrollLeft;
+      var fm = $featured_nav.clientWidth;
+
+      if (fc < (fw - fm)) {
+        $featured_nav.classList.remove('left');
+        $featured_nav.classList.add('right');
+      }
+      else {
+        $featured_nav.classList.remove('right');
+        $featured_nav.classList.add('left');
+      }
+      console.log(fw + ' ' + fc + ' its scrolling!')
+    })
+  }
 
 // nav toggle
   var $icon_menu = document.querySelector('.nav--primary-toggle > .icon-menu');
