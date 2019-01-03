@@ -1,9 +1,9 @@
 +++
 date = "2015-05-13T21:35:00-04:00"
 lastmod = "2015-05-13T21:35:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431567251153/10666044_963204080362398_8654069362258986433_n.jpg%3Foh%3D3afe973dd92008397f7039510f126103%26oe%3D55CA634D"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546481723/media/2019/01/Logo-TaliskerPlayers.jpg"
 publishDate = "2015-05-13T21:35:00-04:00"
-related_people = ["scene/people/geoffrey-sirett.md","scene/people/carla-huhtanen.md","scene/people/andrea-ludwig.md","scene/people/virginia-hatfield.md","scene/people/ilana-zarankin.md","scene/people/whitney-ohearn.md","scene/people/joel-allison.md"]
+related_people = ["scene/people/geoffrey-sirett.md", "scene/people/carla-huhtanen.md", "scene/people/andrea-ludwig.md", "scene/people/virginia-hatfield.md", "scene/people/ilana-zarankin.md", "scene/people/whitney-ohearn.md", "scene/people/joel-allison.md"]
 slug = "talisker-players"
 title = "Talisker Players"
 type_of_company = "Chamber Ensemble"
@@ -16,8 +16,8 @@ url = "https://www.facebook.com/pages/Talisker-Players-Music/254091867940293"
 platform = " Twitter"
 template = "social-media"
 url = "https://twitter.com/TaliskerPlayers"
-+++
 
++++
 Talisker Players is a unique ensemble of instrumentalists dedicated to collaborating with singers. We present one of the most interesting and innovative annual concert series in Toronto, and we also perform throughout southern Ontario and across the country. We are Musicians in Residence at Massey College, University of Toronto.
 
 The history of the ensemble revolves around our passion for the particular rewards and challenges of vocal/instrumental collaboration. We began in 1995 as a flexible-sized orchestra dedicated to accompanying choirs, and we continue to work with dozens of choirs throughout southern Ontario. The Choral Music Orchestra is a favourite with choirs and audiences alike, and has earned a well-deserved reputation for excellence. For more information, click here.
