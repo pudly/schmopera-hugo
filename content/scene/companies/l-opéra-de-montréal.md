@@ -1,7 +1,6 @@
 +++
 address = ""
 date = "2019-01-03T02:35:44+00:00"
-draft = true
 email = "info@operademontreal.com"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546482788/media/2019/01/Logo-OperadeMontreal.jpg"
 primary_image_credit = ""
