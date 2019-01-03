@@ -1,6 +1,5 @@
 +++
 date = "2015-06-05T14:29:00-04:00"
-draft = true
 lastmod = "2015-06-05T14:29:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546481424/media/2019/01/Logo-Cardiff.jpg"
 related_people = ["scene/people/aviva-fortunata.md", "scene/people/jamie-barton.md", "scene/people/dmitri-hvorostovsky.md", "scene/people/ryan-speedo-green.md", "scene/people/patricia-bardon.md", "scene/people/anush-hovhannisyan.md", "scene/people/lauren-michelle.md"]
