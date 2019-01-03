@@ -1,7 +1,7 @@
 +++
 date = "2017-07-20T16:44:00-04:00"
 lastmod = "2017-07-20T16:44:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500583482957/13177289_10154175343182760_7782766613101324060_n.png.png%3Foh%3Dbc9657959e4838cd42bb40df9401da49%26oe%3D59F0E351"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546479415/media/2019/01/Logo-FortWorthOpera.png"
 publishDate = "2017-07-20T16:44:00-04:00"
 related_people = ["scene/people/hailey-clark.md"]
 slug = "fort-worth-opera"
@@ -24,8 +24,8 @@ url = "https://www.instagram.com/fortworthopera/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/FWOpera"
-+++
 
++++
 Founded in 1946, Fort Worth Opera is the oldest continually performing opera company in Texas, and one of the 14 oldest opera companies in the United States. The organization has received national attention from critics and audiences alike for its artistic excellence, pioneering spirit, and steadfast willingness to take risks. From its first world premiere, Frau Margot in 2007, to 2016’s globally-anticipated new work *JFK* — a co-commision with American Lyric Theater and Opéra de Montréal by the acclaimed creative duo of David T. Little and Royce Vavrek — FWOpera continues to augment its worldwide reputation as a trailblazing, civically minded arts institution.
 
 Known throughout the operatic world as a champion of new and rarely-performed works, FWOpera has taken a leadership role in engaging audiences beyond the operatic stage, while producing cutting-edge, contemporary operas. Beginning in 2017, FWOpera launched the second phase of its landmark, 10-year Opera of the Americas initiative with Noches de Ópera (Nights of Opera), a groundbreaking campaign that introduces powerful operas, each reflecting the diverse cultures of new American audiences.
