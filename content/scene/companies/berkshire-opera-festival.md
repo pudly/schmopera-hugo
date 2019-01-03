@@ -1,9 +1,9 @@
 +++
 date = "2017-08-02T21:30:00-04:00"
 lastmod = "2017-08-02T21:30:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501723708577/1002526_278979525644421_7658513196644127965_n.jpg%3Foh%3D691bf43df3081b3ba07b6ea20412c164%26oe%3D59F2F917"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546480051/media/2019/01/Logo-BerkshireOperaFestival.jpg"
 publishDate = "2017-08-02T21:30:00-04:00"
-related_people = ["scene/people/jason-ferrante.md","scene/people/troy-cook.md","scene/people/weston-hurt.md","scene/people/jason-slayden.md"]
+related_people = ["scene/people/jason-ferrante.md", "scene/people/troy-cook.md", "scene/people/weston-hurt.md", "scene/people/jason-slayden.md"]
 slug = "berkshire-opera-festival"
 title = "Berkshire Opera Festival"
 type_of_company = "Opera Company"
@@ -16,8 +16,8 @@ url = "https://www.facebook.com/berkshireopera/"
 platform = " Twitter"
 template = "social-media"
 url = "https://twitter.com/BerkshireOpera"
-+++
 
++++
 The mission of Berkshire Opera Festival is to entertain and enrich the lives of people of all ages and backgrounds throughout the Berkshire region by providing accessible and affordable performances of a broad range of operas with the highest artistic standards.
 
 We are Berkshire Opera Festival (BOF), a fully-producing summer festival that opened in 2016. Adhering to the highest standards of artistic excellence, we are committed to restoring fully-staged opera to a place of prominence in the Berkshire community.  Each summer, we present musically and dramatically compelling operatic productions, in addition to recitals and other related musical events.
