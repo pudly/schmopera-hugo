@@ -19,8 +19,8 @@
         <li data-filter="{{ .Title }} {{ .Params.discipline }}">
           <a href="{{ .Permalink }}">
             <picture class="scene--list-item_image">
-              {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/w_100,h_100,c_fill,g_center/" }}
-              {{ $imglg := replace .Params.primary_image "/upload/" "/upload/w_200,h_200,c_fill,g_center/" }}
+              {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/w_150,h_150,c_fill,g_center/" }}
+              {{ $imglg := replace .Params.primary_image "/upload/" "/upload/w_300,h_300,c_fill,g_center/" }}
               <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkkAQAAB8AG7jymN8AAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
             </picture>            
             <span>{{ .Title }}</span>
