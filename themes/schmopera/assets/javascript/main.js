@@ -39,7 +39,6 @@ document.addEventListener('DOMContentLoaded', function() {
   if ($featured_nav) {
     var fw = $featured_nav.scrollWidth;
 
-
     $featured_nav.addEventListener('scroll', function() {
       var fc = $featured_nav.scrollLeft;
       var fm = $featured_nav.clientWidth;
@@ -52,7 +51,6 @@ document.addEventListener('DOMContentLoaded', function() {
         $featured_nav.classList.remove('right');
         $featured_nav.classList.add('left');
       }
-      console.log(fw + ' ' + fc + ' its scrolling!')
     })
   }
 

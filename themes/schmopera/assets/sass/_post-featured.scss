@@ -76,31 +76,44 @@
 
   i[class^='icon-arrow'] {
     position: absolute;
-    height: 40px;
+    height: 100%;
     width: 40px;
-    background: rgba(255,255,255,.9);
-    top: 50%;
-    left: 90%;
-    z-index: 50;
+
+    color: #fff;
+    top: 0;
+    z-index: 9;
     text-align: center;
-    line-height: 40px;
-    margin-top: -20px;
-    margin-left: -20px;
+
     pointer-events: none;
-    font-size: .9em;
 
     @include bp-medium {
       font-size: 1.2em;
-      height: 60px;
-      width: 60px;
-      line-height: 60px;
-      margin-left: -30px;
-      margin-top: -30px;
+      width: 80px;
+    }
+
+    &:before {
+      position: absolute;
+      top: 50%;
+      margin-top: -11.5px;
     }
   }
 
   i.icon-arrow-left {
-    left: 10%;
+    background: linear-gradient(90deg, rgba(34,34,34,1) 0%, rgba(34,34,34,0) 100%);
+    left: 0;
+
+    &:before {
+      right: 20%;
+    }
+  }
+
+  i.icon-arrow-right {
+    background: linear-gradient(90deg, rgba(34,34,34,0) 0%, rgba(34,34,34,1) 100%);    
+    right: 0;
+
+    &:before {
+      left: 20%;
+    }
   }
 
   nav.right {
