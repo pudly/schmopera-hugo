@@ -1,7 +1,7 @@
 +++
 date = "2016-12-20T16:45:00-05:00"
 lastmod = "2016-12-20T16:45:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482270332527/10402737_815964995095276_7750205895646121277_n.jpg%3Foh%3D97169815da6031d145947eda0bcacdef%26oe%3D58FCA71D"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546480613/media/2019/01/Logo-CCO.jpg"
 publishDate = "2016-12-20T16:45:00-05:00"
 slug = "center-for-contemporary-opera"
 title = "Center for Contemporary Opera"
@@ -15,8 +15,8 @@ url = "https://www.facebook.com/centerforcontemporaryopera/"
 platform = " Twitter"
 template = "social-media"
 url = "https://twitter.com/conopera"
-+++
 
++++
 ### About CCO
 
 The Center for Contemporary Opera was founded in November, 1982 by Richard Marshall and Robert Ward, and is the oldest company in the world devoted solely to contemporary opera.
