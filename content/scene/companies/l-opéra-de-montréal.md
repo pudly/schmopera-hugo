@@ -5,7 +5,7 @@ draft = true
 email = "info@operademontreal.com"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546482788/media/2019/01/Logo-OperadeMontreal.jpg"
 primary_image_credit = ""
-related_people = []
+related_people = ["scene/people/lauren-margison.md", "scene/people/isaiah-bell.md", "scene/people/richard-margison.md", "scene/people/yannick-nezet-seguin.md", "scene/people/jeanmichel-richer.md", "scene/people/lise-lindstrom.md", "scene/people/alain-coulombe.md"]
 slug = "lopera-de-montreal"
 title = "l'Opéra de Montréal"
 type_of_company = "Opera Company"
@@ -18,6 +18,14 @@ url = "https://www.facebook.com/OperadeMontreal/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/operademontreal"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/operademontreal/"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/user/OperadeMtl"
 
 +++
 Bien ancré à Montréal, aux confluents des cultures nord-américaine et européenne, l’Opéra de Montréal agit comme catalyseur de la créativité artistique de la ville et célèbre le riche héritage vocal québécois et canadien, en faisant vivre l’opéra dans tout ce qu’il a de plus diversifié et audacieux. Des grands canons du répertoire lyrique à de nouvelles œuvres d’ici et d’ailleurs, en passant par son programme de perfectionnement pour les meilleurs jeunes chanteurs canadiens et son engagement fort dans la communauté et dans l’éducation, l’Opéra de Montréal propose des événements lyriques inoubliables, où tous sont accueillis chaleureusement et se sentent les bienvenus.
