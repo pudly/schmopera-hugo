@@ -1,7 +1,7 @@
 +++
 date = "2016-12-20T16:34:00-05:00"
 lastmod = "2016-12-20T16:34:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482269635331/11694809_10152898044367117_2228847054781979806_n.jpg%3Foh%3D9aebe47555035b710db4d59d9fd862f4%26oe%3D58F17789"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546480908/media/2019/01/Logo-ChelseaOpera.jpg"
 publishDate = "2016-12-20T16:34:00-05:00"
 slug = "chelsea-opera"
 title = "Chelsea Opera"
@@ -11,8 +11,8 @@ website = "http://www.chelseaopera.org/index.html"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/ChelseaOpera/?ref=ts"
-+++
 
++++
 Chelsea Opera was formed in April 2004 by Leonarda Priore and Lynne Hayden-Findlay, both singers, who felt that performance opportunities within the tri-state area were few and far between. They believed the market would sustain a small-sized opera company and envisioned creating one which offered singers the opportunity to perform in fully staged operas with orchestra in a professional, respectful and encouraging environment. In only six weeks, all of the production elements were pulled together, sometimes it seemed, almost miraculously.
 
 A fully-staged production of Puccini's Suor Angelica opened on June 3, 2004 and was successful in achieving its goal of bringing the essentials of fine opera to the stage: great singing in a moving performance led by a talented young maestro, Carmine Aufiero, who continues to serve the company as Music Director/Conductor.

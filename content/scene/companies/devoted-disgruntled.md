@@ -1,7 +1,7 @@
 +++
 date = "2016-05-05T11:48:00+01:00"
 lastmod = "2016-05-05T11:54:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462444957296/2016-05-6---D%26D.jpg.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546481154/media/2019/01/Logo-DevotedDisgruntled.jpg"
 publishDate = "2016-05-05T11:48:00+01:00"
 slug = "devoted-disgruntled"
 title = "Devoted &amp; Disgruntled"
@@ -15,8 +15,8 @@ url = "https://www.facebook.com/DevotedAndDisgruntled/"
 platform = " Twitter"
 template = "social-media"
 url = "https://twitter.com/DandDUK"
-+++
 
++++
 [Improbable](http://www.improbable.co.uk/) have been running D&D, a conversation using Open Space, since 2005. Artistic director Phelim McDermott writes:
 
 Devoted and Disgruntled was born out of frustration. I was frustrated both with theatre and with myself. I knew things could be better in theatre and I also knew the way I responded to that situation could be more creative. I wanted to stop moaning and actually do something about it. 

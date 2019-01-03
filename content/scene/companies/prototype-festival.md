@@ -1,7 +1,7 @@
 +++
 date = "2017-07-20T10:06:00-04:00"
 lastmod = "2017-07-20T10:06:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500559565572/11745542_1101030683259630_2413667943731307070_n.jpg%3Foh%3D1317d893633b2b6d2b502c2f4c5dd3ef%26oe%3D5A0E613C"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546480253/media/2019/01/Logo-PrototypeFestival.jpg"
 publishDate = "2017-07-20T10:06:00-04:00"
 slug = "prototype-festival"
 title = "Prototype Festival"
@@ -15,8 +15,8 @@ url = "https://www.facebook.com/PROTOTYPEfestival"
 platform = " Twitter"
 template = "social-media"
 url = "https://twitter.com/prototypefest"
-+++
 
++++
 PROTOTYPE – OPERA/THEATRE/NOW is an annual festival of visionary opera-theatre and music-theatre works by pioneering contemporary artists from New York City and around the world. PROTOTYPE is a co-production of Beth Morrison Projects and HERE, two leaders in the creation and presentation of contemporary, post-classical, multi-disciplinary opera-theatre and music-theatre work. The festival is the only of its kind in New York City - presenting both complete performances as well as works-in-progress through partnerships with local performing arts venues.
 
 Historically, the marriage of music and drama has been something composers tackled further along in their careers.  Fast forward to today: serious young composers are now creating new works of opera-theatre/music-theatre, and we are in a second golden age of creation for the art form. It is poised to become the most exciting live arts medium in the 21st century, embodying a modern day notion of Wagner’s gesamtkunstwerk. 
