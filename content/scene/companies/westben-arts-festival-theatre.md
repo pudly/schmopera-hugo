@@ -1,9 +1,9 @@
 +++
 date = "2016-01-12T12:56:00-05:00"
 lastmod = "2016-01-12T12:56:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452621208433/11220800_10153779364554031_5459991611553662368_n.png.png%3Foh%3Ddbe990271ce38c4721c9f9234522707d%26oe%3D570245EC"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546481309/media/2019/01/Logo-WestbenArtsFestivalTheatre.png"
 publishDate = "2016-01-12T12:56:00-05:00"
-related_people = ["scene/people/virginia-hatfield.md","scene/people/alexander-dobson.md"]
+related_people = ["scene/people/virginia-hatfield.md", "scene/people/alexander-dobson.md"]
 slug = "westben-arts-festival-theatre"
 title = "Westben Arts Festival Theatre"
 type_of_company = "Music and Theatre Festival"
@@ -16,8 +16,8 @@ url = "https://www.facebook.com/westbenconcerts?pnref=lhc"
 platform = " Twitter"
 template = "social-media"
 url = "https://twitter.com/WestbenTheatre"
-+++
 
++++
 It is a magical blend of world class music, wonderful people and a magnificent setting.
 
 In 1990, soprano Donna Bennett and pianist / composer Brian Finley were enjoying the early stages of international careers. Having lived and worked for several years in Europe, they returned to Donna’s hometown of Campbellford, Ontario to start a family.
