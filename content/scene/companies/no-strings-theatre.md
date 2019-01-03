@@ -1,7 +1,7 @@
 +++
 date = "2015-06-11T20:37:00-04:00"
 lastmod = "2015-06-11T20:37:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434069421964/996109_937650736268824_2328840526308709396_n.jpg%3Foh%3Dcede461af014ec50adf868cbe70823d9%26oe%3D55F42FB7"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546481469/media/2019/01/Logo-NoStringsTheatre.jpg"
 publishDate = "2015-06-11T20:37:00-04:00"
 related_people = ["scene/people/charlotte-knight.md"]
 slug = "no-strings-theatre"
@@ -16,8 +16,8 @@ url = "https://www.facebook.com/nostringstheatretoronto?fref=ts"
 platform = " Twitter"
 template = "social-media"
 url = "https://twitter.com/nostringstheatr"
-+++
 
++++
 ### Our Mission Statement
 
 No Strings Theatre is a registered not-for-profit charitable organization with a mission to provide opportunity for young people to develop their skills in all aspects of the music theatre arts—singing, dancing, acting, production—under the guidance of trained professional artists.
