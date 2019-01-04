@@ -3,7 +3,6 @@ author = ["authors/greg.md", "authors/jenna.md"]
 categories = "Editorial"
 date = "2018-12-30T16:57:03+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546189070/media/2018/12/sqFledermaus.jpg"
