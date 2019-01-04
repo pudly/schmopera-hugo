@@ -2,10 +2,10 @@
 date = "2018-01-21T18:01:00-05:00"
 discipline = "Soprano"
 lastmod = "2018-01-21T18:01:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516575427675/7a429a_1aa4c205b2cf4ab5b194fb700268a3e1~mv2.webp"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546623824/media/2019/01/MadisonLeonard.png"
 primary_image_credit = "Elle Logan"
 publishDate = "2018-01-21T18:01:00-05:00"
-related_companies = ["scene/companies/washington-national-opera.md","scene/companies/wolf-trap-opera.md","scene/companies/des-moines-metro-opera.md","scene/companies/merola-opera-program.md"]
+related_companies = ["scene/companies/washington-national-opera.md", "scene/companies/wolf-trap-opera.md", "scene/companies/des-moines-metro-opera.md", "scene/companies/merola-opera-program.md"]
 slug = "madison-leonard"
 title = "Madison Leonard"
 website = "https://www.madison-leonard.com/"
@@ -21,18 +21,12 @@ url = "https://www.instagram.com/maddogleonard/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/Stonefall1999"
+
 +++
+Rising young soprano Madison Leonard is a 2018 winner of the Metropolitan National Council Auditions, at which she sang arias from _Rigoletto_ and _Hänsel und Gretel_ with Bertrand de Billy conducting. Previously this season, she joined the Washington National Opera as a member of the Domingo-Cafritz Young Artist Program where she sang the High Priestess in _Aida_, The Rose in Portman’s _The Little Prince_, Morgana for the young artist performance of _Alcina_, and Little Zegner Sister in Missy Mazzoli’s new opera, _Proving Up_ as a part of the American Opera Initiative Festival. She recently made her National Symphony Orchestra debut with Music Director Gianandrea Noseda conducting Stravinsky’s _Pulcinella_ as part of the SHIFT Festival and returned later this year as soloist in Vaughan William's Symphony No. 3 (A Pastoral Symphony) under the baton of Sir Mark Elder. Also this season, she sang her first performances of Fauré’s _Requiem_ with the Apollo Orchestra in Washington, D.C., returned to the Florida Orchestra for Orff’s _Carmina Burana_, sang on a program of music from the British Isles with New York Festival of Song at Caramoor and Merkin Hall in New York City, and joined Dallas Opera for its production of _Der Ring des Polykrates_. The summer brings her return to Wolf Trap Opera for her role debuts as Ilia in _Idomeneo_ and Juliette in _Roméo et Juliette_. Next season, she makes her debut and returns to Seattle Opera as well as returns to the Florida Orchestra and her hometown company, Inland Northwest Opera in Idaho. The future also holds her debut of her first bel canto heroine.
 
-Rising young soprano Madison Leonard joins the Washington National Opera as a member of the Domingo-Cafritz Young Artist program where she will sing High Priestess in Aida and The Rose in Portman’s *The Little Prince*. Additionally, she will sing Morgana for the young artist performance of *Alcina* and Zegner Sister 1 in Missy Mazzoli’s new opera, *Proving Up* as a part of the American Opera Initiative Festival.
+In the summer of 2017, she joined Wolf Trap Opera as a Filene Young Artist and sang Mahler’s Symphony No. 4 with the National Orchestra Institute as well as Madeline in Glass’ _The Fall of the House of Usher_ and the Daughter in Glass’ _The Juniper Tree_.  Other highlights from her 2016-2017 season include Susanna in _Le nozze di Figaro_ with Amarillo Opera, Adele in _Die Fledermaus_ with Opera Idaho, Rosina in _Il barbiere di Siviglia_ with Opera Coeur d’Alene, and a concert of opera favorites with the Florida Orchestra.
 
-Madison makes her debut with Wolf Trap Opera as a Filene Young Artist this summer, where she will sing Mahler’s Symphony No. 4 with the National Orchestral Institute as well as Madeline in Glass’ *The Fall of the House of Usher* and the Daughter in Glass’ *The Juniper Tree*.
+With the prestigious Merola Opera Program in association with San Francisco Opera, she sang Monica in Menotti’s _The Medium_ as well as Gretel in _Hänsel und Gretel_ for the program’s annual Grand Finale Concert while also covering Norina in _Don Pasquale_. She is also a former young artist of Des Moines Metro Opera, for which she covered Nannetta in _Falstaff_ and sang Musetta in scenes of _La bohème_. She has also sung Handel’s _Messiah_ in Neenah, Wisconsin. 
 
-During the 2016-17 season, Madison debuted professionally as Susanna in *Le nozze di Figaro* with Amarillo Opera, Adele in *Die Fledermaus* with Opera Idaho and Rosina in *Il barbiere di Siviglia* with Opera Coeur d’Alene. In concert, she performed opera favorites with the Florida Orchestra and Carl Orff’s *Carmina Burana* with the Houston Masterworks Chorus.
-
-With the prestigious Merola Opera Program in association with San Francisco Opera, she sang Monica in Menotti’s *The Medium* as well as Gretel in *Hänsel und Gretel* for the program’s annual Grand Finale Concert while also covering Norina in *Don Pasquale*.  She is also a former young artist of Des Moines Metro Opera, for which she covered Nannetta in *Falstaff* and sang Musetta in scenes of *La bohème*.  She has also sung Handel’s *Messiah* in Neenah, Wisconsin.
-
-She is a 2017 second place winner of the Northwest region for the Metropolitan Opera National Council Auditions and first place winner of the Houston Grand Opera Eleanor McCollum Competition. 
-
-Additionally, she received the Women’s Voice Fellowship from the Luminarts Cultural Foundation and scholarships from the Lynn Harvey Foundation and the Musicians Club of Women.
-
-She holds a Master of Music degree from Northwestern University where she sang her first performances of Susanna in *Le nozze di Figaro* as well as Madame Herz in *The Impresario*, Ginevra in *Ariodante*, Geraldine in *A Hand of Bridge*, Kitty Hart in Heggie’s *Dead Man Walking*, and her first performances of Mozart's *Requiem*.  She received her Bachelor of Music from Pepperdine University where her performances included Adina in *L’elisir d’amore* and Despina in *Così fan tutte*.
+She is a previous first place winner of the Houston Grand Opera Eleanor McCollum Competition. Additionally, she received the Women’s Voice Fellowship from the Luminarts Cultural Foundation and scholarships from the Lynn Harvey Foundation and the Musicians Club of Women. The soprano earned her Master of Music degree from Northwestern University and her Bachelor of Arts from Pepperdine University.
