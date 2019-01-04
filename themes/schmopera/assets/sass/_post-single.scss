@@ -65,7 +65,7 @@
     position: relative;
     top: -1.5em;
     bottom: 0;
-    left: 20px;
+    left: 30px;
     max-width: 90%;
 
     h1 {
@@ -152,7 +152,7 @@
     margin-bottom: 0;
   }
   @include bp-medium {
-    margin: -40px 10px;
+    margin: -40px 20px;
   }
 }
 
@@ -169,6 +169,10 @@
 
   @include bp-medium {
     padding: 0;
+
+    p, h2,h3,h4,h5 {
+      padding: 0 20px;
+    }
   }
 
   p:only-child {
@@ -313,20 +317,6 @@
       width: 5px;
     }
 
-    // p:before {
-    //   bottom: 0;
-    //   right: 0;
-    //   height: 5px;
-    //   width: 25%;
-    // }
-
-    // p:after {
-    //   bottom: 0;
-    //   right: 0;
-    //   height: 50%;
-    //   width: 5px;
-    // }
-
     > p:first-child {
       margin-top: 0;
     }
@@ -373,7 +363,7 @@
 }
 .post--single_authors {
   clear: left;
-  padding: 0 !important;
+  padding: 0 0 0 10px !important;
 
   picture, img {
     width: 40px !important;
@@ -385,6 +375,7 @@
   }
 
   @include bp-medium {
+
     picture, img {
       width: 80px !important;
       height: 80px !important;
