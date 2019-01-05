@@ -2,7 +2,7 @@
 date = "2018-04-29T20:07:00-04:00"
 discipline = "Soprano"
 lastmod = "2018-04-29T20:07:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525046515735/59a671_647d992858bc4e9d9df57e3006463c8e~mv2_d_2400_3600_s_4_2.webp"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546622786/media/2019/01/KaceyCardin.png"
 publishDate = "2018-04-29T20:07:00-04:00"
 related_companies = ["scene/companies/opera-on-tap.md"]
 slug = "kacey-cardin"
@@ -16,8 +16,8 @@ url = "https://twitter.com/creativecoachkc"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/kaceycardincoaching/"
-+++
 
++++
 Hailed as an artist of "…remarkable stage presence and unfettered emotional expression", Kacey Cardin is recognized for her vibrant vocalism and dramatic intensity. A versatile singer-actress, her voice shines in operatic, musical theater, and soul repertoire.
 
 She recently played Violetta in Arbor Opera’s groundbreaking *La Traviata*. Encore Michigan called the edgy production "a risk worth taking", noting that her "soprano vocals evoked just the right mix of moods and emotions... strong throughout the four acts. Her experience in both opera and musical theater shows in her Violetta, as her acting is strong on top of her vocals, which range from soaring to poignant."
