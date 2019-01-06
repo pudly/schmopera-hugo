@@ -2,13 +2,13 @@
 date = "2017-09-06T21:40:00-04:00"
 discipline = "Pianist"
 lastmod = "2017-09-06T21:40:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504748443891/b960fe_493493eb70f24dfeb42982e082d9245b~mv2_d_4300_2567_s_4_2.webp"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546742644/media/2019/01/PedroCosta.jpg"
 publishDate = "2017-09-06T21:40:00-04:00"
 slug = "pedro-costa"
 title = "Pedro Costa"
 website = "https://www.pedro-costa.com/"
-+++
 
++++
 Pedro Costa was awarded in 2013 with the 1st Prize at the Interpretation Competition of Estoril, with the “Prize Helena Sá e Costa” and the 2nd Prize at the competition “New Tenuto” in Brussels. He was also the winner of the competitions “Florinda Santos” (2012), International Competition “Cidade do Fundão (2012), “ConCursos Competition” in Aveiro (2011), “Lopes-Graça Competition” (2008) and “St. Cecília Competition” in Porto (2007). 
 
 Since then, he has been performing solo, chamber music and lied recitals in many concert halls in Portugal, Belgium, Holland, Austria, Germany, and Italy. He played as well in Music Festivals like Automn Festival of Aveiro, Harmos Classical in Porto, International Music Festival of Espinho, International Music Festival of Póvoa do Varzim, Music Festival “Cistermúsica” in Alcobaça” and “L’Europe en Musique” Festival in Brussels.
@@ -21,4 +21,4 @@ Having a great interest for the vocal repertoire, Pedro Costa is currently doing
  
 He works regularly with singers such as Ana Caseiro, Sarah Defrise, Sara Amorim, Noora Karhuluoma, Julietta Kochorova and Artur Rosek, recording several times for the Euroclassical Project. He worked also as a co-repetitor in the production of the Hänsel und Gretel, presented in Theatro Circo in Braga (2011). 
  
-Pedro Costa was born in Macau in 1989. He began his piano studies at age 7 at the Music School "Os Gambozinos" with Suzana Ralha and later at the Conservatory of Music in Porto with Anne Marie Soares. In 2007 he concluded the Escola Profissional de Música de Espinho where he studied 3 years with Fausto Neves. He obtained his Bachelor Degree in 2012 (in piano class of Luís Filipe Sá) of the Escola Superior de Música, Artes e Espetáculo of Porto. In 2015, he finished with distinction his Piano Master Studies with Piet Kuijken at the Koninklijk Conservatorium Brussel, where he already had studied with Daniel Blumenthal under the Erasmus Program. 
+Pedro Costa was born in Macau in 1989. He began his piano studies at age 7 at the Music School "Os Gambozinos" with Suzana Ralha and later at the Conservatory of Music in Porto with Anne Marie Soares. In 2007 he concluded the Escola Profissional de Música de Espinho where he studied 3 years with Fausto Neves. He obtained his Bachelor Degree in 2012 (in piano class of Luís Filipe Sá) of the Escola Superior de Música, Artes e Espetáculo of Porto. In 2015, he finished with distinction his Piano Master Studies with Piet Kuijken at the Koninklijk Conservatorium Brussel, where he already had studied with Daniel Blumenthal under the Erasmus Program.
