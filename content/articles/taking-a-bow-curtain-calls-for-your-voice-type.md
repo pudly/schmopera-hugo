@@ -25,13 +25,11 @@ She emerges from the wings with a baby-deer-like trot, full of champagne bubbles
 
 In the case of _Lucia di Lammermoor_, see below.
 
->He extends his arms, one at a time, towards his fellow castmates, no doubt already lined up onstage on either side of him, so that they know that he knows that the audience knows they're there.
-
 ## The lyric soprano/leading lady mezzo
 
 Bosom first, she glides across the stage like Morticia from _The Addams Family_. At centre stage, one hand presses in between her breasts, the other gracefully clutching at her skirts in preparation. One foot invisibly steps upstage under metres of fabric, and the leading lady descends into a curtsy so deep it could convince you that she's actually only a bust, perched upon a hydraulic office chair hidden beneath her tulle. Her head flows downward with a swan's grace, and she holds this lowered pose for enough time to make a professional yogi sweat. She rises from the depths, hands poised at her lips in order to launch a slow-motion air-kiss towards the conductor. Repeat. She swishes her skirt upstage and lets the fabric ripples lead her to her place among the cast.
 
->She bounds upwards, hurling one arm out and up in a sort of half-wave, half-salute to the house, before taking a quadricep-tightening lunge forward to clap _at_ the conductor.
+> She bounds upwards, hurling one arm out and up in a sort of half-wave, half-salute to the house, before taking a quadricep-tightening lunge forward to clap _at_ the conductor.
 
 ## The trouser-role mezzo
 
@@ -41,7 +39,7 @@ Pelvis first, she jogs from the wings as if to flaunt the freedom of her fitted 
 
 He swaggers onstage, head tilted towards the sound of applause. By the time he reaches centre stage, his arms have broadened upwards and outwards into a V, which he hopes will make him look slightly taller. He maintains this hope by bowing only from the nipples up, spending one "hippopotamus" looking at the lip of the stage, and three looking at the middle of the top balcony of the house. Repeat. Repeat. He extends his arms, one at a time, towards his fellow castmates, no doubt already lined up onstage on either side of him, so that they know that he knows that the audience knows they're there. He tears himself away from a fourth "hippopotamus" at his shoes, and walks backwards into the line-up.
 
->He appears to be guffawing the entire time, as if to say, "I have whisky in my dressing room!"
+> He appears to be guffawing the entire time, as if to say, "I have whisky in my dressing room!"
 
 ## The baritone
 
