@@ -91,12 +91,12 @@
 
   @include bp-medium {
     display: block;
-    font-size: 1.5em;
+    font-size: 1.1em;
     position: relative;
   }
 
   @include bp-large {
-    font-size: 1.65em;
+    font-size: 1.25em;
   }
 
   @include bp-short {
@@ -109,14 +109,20 @@
     padding: 10px 0 0 0;
     text-align: right;
 
+    &:first-child {
+      padding-top: 20px;
+      margin: .5em 0;
+    }
+
     li {
-      line-height: 1.1em;
+      line-height: 1.2em;
 
       > a {
-        font-weight: 300;
+        font-weight: 900;
         text-decoration: none;
         color: $sch-black;
         display: block;
+        text-transform: uppercase;
 
         &:hover {
           color: $sch-blue;
@@ -125,20 +131,21 @@
 
       h4 {
         margin: 0;
-        padding: .25em .25em;
-        display: inline-block;
 
-        font-weight: 700;
-        font-size: .5em;
+        font-weight: 900;
+        font-size: .9em;
         line-height: 1em;
-        text-transform: uppercase;
-
-        color: #fff;
-        background: $sch-black;
-
+        
         a {
+          background: $sch-black;
+          display: inline-block;
+          padding: .25em .25em;
           color: #fff;
           text-decoration: none;
+
+          &:hover {
+            background: $sch-blue;
+          }
         }
       }
     }
