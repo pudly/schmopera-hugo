@@ -8,7 +8,7 @@
 <meta name="theme-color" content="#00a9e0">
 
 <meta property="og:site_name" content="Schmopera">
-<meta property="og:title" content="{% block og_title %}Schmopera.com{% endblock %}">
+<meta property="og:title" content='{{- block "og_title" . }}Schmopera.com{{ end -}}'>
 <meta property="og:type" content="{% block og_type %}website{% endblock %}">
 <meta property="og:url" content="{% block og_url %}{ site_url }{% endblock %}">
 <meta property="og:image" content="{% block og_image %}{ site_url }/images/logo.png{% endblock %}">

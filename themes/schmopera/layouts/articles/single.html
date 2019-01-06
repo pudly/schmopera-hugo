@@ -16,6 +16,10 @@
 
 */}}
 
+{{/* meta data */}}
+
+{{- define "og_title" -}}{{ .Title | htmlUnescape }}{{- end -}}
+
 {{- define "main" -}}
 
   <script type="application/ld+json">
