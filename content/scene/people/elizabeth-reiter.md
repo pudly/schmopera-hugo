@@ -2,10 +2,10 @@
 date = "2017-09-19T11:22:00-04:00"
 discipline = "Soprano"
 lastmod = "2017-09-19T11:22:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505834230744/7d9789_6ce2c232f41340b19bb86df91bbb9a8c.webp"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546741315/media/2019/01/ElizabethReiter.jpg"
 primary_image_credit = "Dario Acosta"
 publishDate = "2017-09-19T11:22:00-04:00"
-related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/opera-philadelphia.md"]
+related_companies = ["scene/companies/oper-frankfurt.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/opera-philadelphia.md"]
 slug = "elizabeth-reiter"
 title = "Elizabeth Reiter"
 website = "https://www.elizabethreiter.com/"
@@ -21,8 +21,8 @@ url = "https://www.instagram.com/liz.reiter/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/reitsop"
-+++
 
++++
 Recognized for her vocalism and artistic commitment in both classical and contemporary operatic repertoire, American soprano Elizabeth Reiter has garnered critical acclaim for her
 “rich and silvery” voice (The Boston Globe) and “impressive musical polish” (Opera News), characterizing her as “terrific, a very vital lyric soprano with stellar pitch and attack
 wedded to fiercely communicative instincts.” (Opera Magazine)
