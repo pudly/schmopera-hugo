@@ -2,9 +2,9 @@
 date = "2018-02-20T16:33:00-05:00"
 discipline = "Tenor"
 lastmod = "2018-02-20T16:33:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519162058930/f2b22b_9e936a904c2641bab155ddc7be6e9952~mv1.webp"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546622903/media/2019/01/JasonSlayden.jpg"
 publishDate = "2018-02-20T16:33:00-05:00"
-related_companies = ["scene/companies/pacific-opera-victoria.md","scene/companies/the-santa-fe-opera.md","scene/companies/lopra-de-montral.md","scene/companies/berkshire-opera-festival.md","scene/companies/vancouver-opera.md","scene/companies/lyric-opera-of-chicago.md"]
+related_companies = ["scene/companies/pacific-opera-victoria.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/lopra-de-montral.md", "scene/companies/berkshire-opera-festival.md", "scene/companies/vancouver-opera.md", "scene/companies/lyric-opera-of-chicago.md"]
 slug = "jason-slayden"
 title = "Jason Slayden"
 website = "http://jason-slayden.com/"
@@ -12,8 +12,8 @@ website = "http://jason-slayden.com/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCRyvttLkpNVdTyXozOhyFbQ"
-+++
 
++++
 Tenor	 Jason	 Slayden has	 been	 celebrated	 for	 the	 warmth	 and	 beauty	 of	 his	 voice,	 as	 well	 as	 demonstrating	 “considerable	subtlety	 as	 an	 actor”. The	 2016-2017	 season included Gabriele	Adorno	in	*Simon	Boccanegra*	with	Pacific	Opera	Victoria,	Pinkerton	in	* Madama	 Butterfly*	 with	 Annapolis	 Opera,	 Jimmy	 Ogle in	 *Later	the	 Same	 Evening* with	 Opera	 Memphis,	 and Christian	 in	 *Cyrano*	with Michigan	Opera	Theatre. The	2017-2018	season	sees	him	as Ruggero	in	*La	rondine*	with	Opera	San	Jose	and	his return	to	Pacific	
 Opera	Victoria as	Rodolfo	in	*La	bohème*.
 
