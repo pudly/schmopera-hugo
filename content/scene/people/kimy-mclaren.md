@@ -2,9 +2,9 @@
 date = "2017-05-13T19:23:00-04:00"
 discipline = "Soprano"
 lastmod = "2017-05-13T19:23:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494717756693/12079101_1054943234524208_4073166306482837219_n.jpg%3Foh%3D8d3f977526d4cbb45397d3c587e5bdb5%26oe%3D59B1CD83"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546747052/media/2019/01/KimyMcLaren.jpg"
 publishDate = "2017-05-13T19:23:00-04:00"
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/lopra-de-montral.md"]
+related_companies = ["scene/companies/against-the-grain-theatre.md", "scene/companies/lopra-de-montral.md"]
 slug = "kimy-mclaren"
 title = "Kimy McLaren"
 website = "https://www.kimymclaren.com/"
@@ -16,8 +16,8 @@ url = "https://www.facebook.com/KimyMcLarenOfficial/"
 platform = " Twitter"
 template = "social-media"
 url = "https://twitter.com/kimymclaren"
-+++
 
++++
 In the relatively short time since Québec soprano Kimy McLaren made her professional stage debut with Opéra National du Rhin (Strasbourg), she has performed extensively world wide and accrued a formidable and widely diverse repertoire comprised of opera, concert, recital and musical theatre.
 
 Kimy has performed more than thirty operatic roles – i.e. Marguerite (Faust), Leïla (Les Pêcheurs de Perles), Juliette (Roméo et Juliette), Donna Elvira (Don Giovanni), Marie (Wozzeck), Governess (The Turn of the Screw) to name only a few – not only in France (Lille, Strasbourg, Marseille, Toulon, Metz, Bordeaux, Reims, etc.) but also in Latin America, Asia and Canada. Théâtre du Châtelet in Paris engaged her for an enormously successful run of Julie Jordan in Carousel and immediately invited her to return in the role of Cinderella in Sondheim’s Into the Woods. Additionally, she has appeared as a soloist with an impressive number of symphony orchestras, including Orchestre Symphonique De Montréal, Orchestre Métropolitain, Malaysian Philharmony, Wiener Kammer Orchester and many more throughout Europe and across Canada – having collaborated with such internationally acclaimed conductors as Charles Dutoit, Kent Nagano and Yannick Nézet-Séguin.

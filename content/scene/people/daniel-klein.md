@@ -2,9 +2,9 @@
 date = "2018-05-11T21:15:00-04:00"
 discipline = "Bass-baritone"
 lastmod = "2018-05-11T21:15:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526087698662/Klein_Headshot%2B300%2Bdpi.JPG.JPG%3Fformat%3D1000w"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546570931/media/2019/01/DanielKlein.jpg"
 publishDate = "2018-05-11T21:15:00-04:00"
-related_companies = ["scene/companies/heartbeat-opera.md","scene/companies/bronx-opera.md","scene/companies/loftopera.md"]
+related_companies = ["scene/companies/heartbeat-opera.md", "scene/companies/bronx-opera.md", "scene/companies/loftopera.md"]
 slug = "daniel-klein"
 title = "Daniel Klein"
 website = "http://danielkleinonline.com/"
@@ -16,8 +16,8 @@ url = "https://twitter.com/danielklein"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/danielkleinonline/"
-+++
 
++++
 Imaginative, adventurous, and occasionally downright terrifying, audiences have found in Bass Baritone, Daniel Klein an exciting example of versatility. As he evolves as an artist, so have the roles for which he has been called upon to interpret.  Most recently he captured the complex balance of humor and terror as the Podesta in Bronx Opera's *La Gazza Ladra*, the curse hurling Monterone in Annapolis Opera's *Rigoletto*, the hunchbacked villian as Tonio in Opera Providence's *Pagliacci*, and he brought swagger and comic timing to Fresno Grand Opera’s Pirate King in *Pirates of Penzance*.   This summer he will make his role debut as Emilie de Becque in *South Pacific* with the New Canaan Summer Theater.
 
 Among his other roles are the Count (*Le Nozze di Figaro*) with St. Petersburg Opera; Rambaldo (*La Rondine*) and Marcello (*La Boheme*) with Opera Company of Middlebury; the title role of *Don Giovanni* and Enrico (*Lucia di Lammermoor*) with Dell'Arte Opera;  Iago (*Otello*), Nabucco (*Nabucco*), Scarpia (*Tosca*), and Zurga (*Les pecheurs de perles*) at Taconic Opera.

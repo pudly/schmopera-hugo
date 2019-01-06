@@ -2,7 +2,7 @@
 date = "2017-09-29T18:59:00-04:00"
 discipline = "Soprano"
 lastmod = "2017-09-29T18:59:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506725894162/cf81e8_2058a09a67a043eeb2f08a1c28483871~mv2_d_3166_4964_s_4_2.webp"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546740926/media/2019/01/BrynHoldsworth.jpg"
 publishDate = "2017-09-29T18:59:00-04:00"
 related_companies = ["scene/companies/the-atlanta-opera.md"]
 slug = "bryn-holdsworth"
@@ -12,12 +12,20 @@ website = "https://www.brynholdsworth.com/"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCshi43X3Ar6gNNExfRJmKRw"
+
 +++
+Praised by the New York Times for her "limpid-tone, articulate soprano", Bryn Holdsworth is already garnering attention on stages throughout the country.
 
-Praised by the New York Times for her “limpid-toned, articulate” singing, young soprano and recent Manhattan School of Music graduate Bryn Holdsworth is already garnering attention on stages in New York and around the country. This season Ms. Holdworth made her Lincoln Center debut at Alice Tully Hall as the soprano soloist in Orff's *Carmina Burana* with the New York City Master Chorale. She also performed as soloist for the Oratorio Society of New York’s presentation of Mahler’s 8th Symphony under the baton of Kent Tritle. The 2016 season also included several operatic role debuts for Ms Holdsworth, including Rachel Dowling in Patience and Sarah with New York Opera Fest, Pamina in *The Magic Flute* with International Vocal Arts Outreach, and the title role in *Persée et Andromède* with the Manhattan School of Music. While studying at the Manhattan School, Ms. Holdsworth was awarded the prestigious Rodgers and Hammerstein/Richard Rodgers Scholarship as well as the ASCAP Foundation Fran Morgenstern Davis Scholarship.
+This summer, Ms. Holdsworth joined the Glimmerglass Festival singing Vixen (cover) in _The Cunning Little Vixen_ and Bard 2 in Francesca Zambello's original production of a new youth opera by Ben Moore, _Odyssey_. 
 
-In 2015, Ms. Holdsworth was seen as Norina in *Don Pasquale* with the Crested Butte Music Festival Opera Studio as well as Belinda in *Dido and Aeneas*. Other operatic credits include performances as Mimi in *La Bohème*, Micaëla in *La Tragédie de Carmen*, Gretel in *Hänsel und Gretel*, and the title role in *La Doriclea*.
+In the 2017-2018 season, Ms. Holdsworth joined The Atlanta Opera for a second season where she performed as a cabaret singer and dancer in Kurt Weill's _The Seven Deadly Sins_, Marie (cover & student performance) in La fille du régiment and Pamina (outreach) in _The Magic Flute_. She performed the role of Krysia in Jake Heggie's world premiere, _Out of Darkness: Two Remain_. 
+
+The 2016-2017 season brought Ms. Holdsworth to the Atlanta Opera where she made her debut as Madeleine in _Silent Night._ Several other performances include Norina (cover and student performance) in _Don Pasquale_, Clorinda (outreach) in _La Cenerentola_, and First Handmaiden in _Turandot._ In the fall, she was an Encouragement Award winner granted by The Metropolitan Opera National Council. That summer, she joined Des Moines Metro Opera as an apprentice artist where she performed in several operatic scenes. 
+
+In the 2015-2016 season, Ms. Holdsworth made several exciting debuts in New York City. She made her Lincoln Center debut at Alice Tully Hall as the soprano soloist in Orff's _Carmina Burana_ with the New York City Master Chorale. Ms. Holdsworth performed and recorded as a soloist (Una poenitentium) in Mahler's 8th Symphony with Oratorio Society of New York under the baton of Kent Tritle. Other credits include Norina in _Don Pasquale_ and Belinda in _Dido and Aeneas,_ both with Crested Butte Opera Studio, and Rachel Dowling in _Patience and Sarah_ with New York Opera Festival. 
+
+Ms. Holdsworth holds graduate and undergraduate degrees from the Manhattan School of Music. There she performed the title role in _Persée et Andromède_ under the baton of Pierre Vallet for which she received critical acclaim. She was awarded the prestigious Rodgers and Hammerstein/Richard Rodgers Scholarship as well as the ASCAP Foundation Fran Morgenstern Davis Scholarship.
 
 Ms. Holdsworth’s training includes performing with the International Vocal Arts Institute, the Institut Canadien d’Art Vocal, and Marilyn Horne’s celebrated program, The Song Continues at Carnegie Hall. She was a National Finalist in the New York Lyric Opera competition and a National Semifinalist in both the Classical Singer and Palm Beach Opera competitions.
 
-This season, Ms. Holdsworth can be seen at Atlanta Opera where her engagements as a Studio Artist include a return to the role of Norina in *Don Pasquale*, Madeleine in *Silent Night*, Clorinda in *La Cenerentola*, and the First Handmaiden in *Turandot*.
+In addition to her singing, Ms. Holdsworth has fifteen years of formal dance training in the styles of ballet, tap, jazz, modern and pointe. 

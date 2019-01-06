@@ -2,9 +2,9 @@
 date = "2017-09-15T13:48:00-04:00"
 discipline = "Bass"
 lastmod = "2017-09-15T13:48:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505497615535/f2b22b_600d9053a2a84c79837059166b1b726f~mv2.webp"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546741643/media/2019/01/MattBoehler.png"
 publishDate = "2017-09-15T13:48:00-04:00"
-related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/the-dallas-opera.md","scene/companies/canadian-opera-company.md","scene/companies/minnesota-opera.md"]
+related_companies = ["scene/companies/opera-philadelphia.md", "scene/companies/the-dallas-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/minnesota-opera.md"]
 slug = "matt-boehler"
 title = "Matt Boehler"
 website = "http://www.mattboehler.com/"
@@ -16,8 +16,8 @@ url = "https://www.facebook.com/mattboehlerishere"
 platform = " Twitter"
 template = "social-media"
 url = "https://twitter.com/MattBoehler"
-+++
 
++++
 Hailed by The New York Times as “a bass with an attitude and the goods to back it up,” Matt Boehler has been critically acclaimed both for his dramatic skill and his vocal ability. With Wolf Trap Opera Company, Mr. Boehler garnered much praise in the title role in *Sweeney Todd*.
 *The Washington Post* raved, “There are times, in fact, when this young man with a huge crossover career ahead of him is standing in a crowd of actors, and you’d swear he was the only person onstage.”
  

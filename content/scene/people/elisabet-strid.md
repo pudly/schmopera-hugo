@@ -2,9 +2,9 @@
 date = "2017-11-08T21:48:00-05:00"
 discipline = "Soprano"
 lastmod = "2017-11-08T21:48:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510195500705/547399_8d5d765728ae486e84446b1fedab0772~mv2.webp"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546739303/media/2019/01/ElisabetStrid.jpg"
 publishDate = "2017-11-08T21:48:00-05:00"
-related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/bayerische-staatsoper.md"]
+related_companies = ["scene/companies/lyric-opera-of-chicago.md", "scene/companies/bayerische-staatsoper.md"]
 slug = "elisabet-strid"
 title = "Elisabet Strid"
 website = "https://www.elisabetstridsoprano.com/"
@@ -12,8 +12,8 @@ website = "https://www.elisabetstridsoprano.com/"
 platform = " Twitter"
 template = "social-media"
 url = "https://twitter.com/ElisabetStrid"
-+++
 
++++
 Elisabet Strid started her international career 2010 at the Norwegian National Opera Oslo as ELISABETH in Stefan Herheim’s *Tannhäuser* production. Since then, she has sung this very role at the Semperoper Dresden, the Rhine Opera Dusseldorf-Duisburg and at the Festival in Tampere. 
 
 Here, the Swedish soprano is regularly demanded for gust performances including SENTA in *Der Fliegende Holländer* and SIEGLINDE in *Die Walküre*. Elisabet is also a permanent guest at the Opera House Leipzig. Here, she earned much acclaim as ADA in *Die Feen*, as BRUNNHILDE in *Siegfried* and with her debut as SALOME in 2017. 

@@ -2,9 +2,9 @@
 date = "2018-01-29T18:05:00-05:00"
 discipline = "Soprano"
 lastmod = "2018-01-29T18:05:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517266728942/f2b22b_c6cf536072c34a65b41f570089a66006.webp"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546623525/media/2019/01/KarenSlack.jpg"
 publishDate = "2018-01-29T18:05:00-05:00"
-related_companies = ["scene/companies/minnesota-opera.md","scene/companies/arizona-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/washington-national-opera.md","scene/companies/des-moines-metro-opera.md"]
+related_companies = ["scene/companies/minnesota-opera.md", "scene/companies/arizona-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/washington-national-opera.md", "scene/companies/des-moines-metro-opera.md"]
 slug = "karen-slack"
 title = "Karen Slack"
 website = "http://www.sopranokarenslack.com/default.html"
@@ -16,8 +16,8 @@ url = "https://twitter.com/KikiSlack"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UC6deriQ3f8oJIIGrwMPm8zw"
-+++
 
++++
 Hailed	 for	 possessing	 a	 voice	 of	 extraordinary	 beauty,	 a	 seamless	 legato	 and	 great	 dramatic	 depth, young	 American	 soprano	 Karen	 Slack	 was	 most	 recently	 heard	 as	 Donna	Anna	in *Don	Giovanni* with	Nashville	Opera,	Serena	in *Porgy	 and	Bess* with	 the	 National	 Chorale	 and	 the	 Sydney	 Symphony	 Orchestra, Sister	 Rose	 in *Dead	 Man	Walking* with	both	Lyric	Opera	of	Kansas	City	and	Vancouver	Opera,	and	Anna	in *Le	villi*
 in	her	debut	with	the	Scottish	Opera. Additionally,	Ms.	Slack	portrayed	a featured	role	
 in	 Tyler	 Perry’s	 movie	 and	 soundtrack	 “For	 Colored	 Girls”	 as	 the	 Opera	 Diva.

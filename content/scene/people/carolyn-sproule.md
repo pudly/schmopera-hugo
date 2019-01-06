@@ -2,14 +2,14 @@
 date = "2018-05-04T21:28:00-04:00"
 discipline = "Mezzo-soprano"
 lastmod = "2018-05-04T21:28:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525483515236/sproule_0.jpg%3Fitok%3D4Sof8dfU"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546613756/media/2019/01/CarolynSproule.jpg"
 publishDate = "2018-05-04T21:28:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/wolf-trap-opera.md","scene/companies/vancouver-opera.md","scene/companies/merola-opera-program.md","scene/companies/houston-grand-opera.md","scene/companies/lopra-de-montral.md","scene/companies/canadian-opera-company.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/companies/wolf-trap-opera.md", "scene/companies/vancouver-opera.md", "scene/companies/merola-opera-program.md", "scene/companies/houston-grand-opera.md", "scene/companies/lopra-de-montral.md", "scene/companies/canadian-opera-company.md"]
 slug = "carolyn-sproule"
 title = "Carolyn Sproule"
 website = "https://www.carolynsproule.com/"
-+++
 
++++
 In the 2017-2018 season, Canadian mezzo-soprano Carolyn Sproule returns to The Metropolitan Opera for her fourth consecutive season for their production of *Thais*, makes her Canadian Opera Company debut as Maddalena in *Rigoletto*, returns to Vancouver Opera for Olga in Eugene Onegin, and makes her Roy Thomson Hall debut as a soloist in their Bravissimo! New Year's Eve concert.   
 
 In the previous season, Ms. Sproule made her European debut to great acclaim singing Erika in Samuel Barber's *Vanessa* at the Wexford Festival, and subsequently her Italian debut at Teatro Lirico di Cagliari as Ulrica in *Un Ballo in Maschera*. She also returned to The Metropolitan Opera to sing the Page in *Salome* and to cover Olga in *Eugene Onegin*, and debuted the role of *Carmen* at the Lakes Area Summer Music Festival.

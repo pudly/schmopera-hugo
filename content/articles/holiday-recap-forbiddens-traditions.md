@@ -3,7 +3,6 @@ author = ["authors/greg.md", "authors/jenna.md"]
 categories = "Editorial"
 date = "2018-12-30T16:57:03+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546189070/media/2018/12/sqFledermaus.jpg"
@@ -17,13 +16,13 @@ title = "Holiday recap: forbiddens & traditions "
 youtube_url = ""
 
 +++
-It's good to be back, readers. Not just back, but improved: for a short while, we handed the Schmopera reins over to our superb man behind the scenes, [Andrej](/authors/drej/), who has given the site a makeover from the inside out - thanks for noticing!
+It's good to be back, readers. Not just back, but improved: for a short while, we handed the Schmopera reins over to our superb man behind the scenes, [Andrej](https://twitter.com/dr_drej), who has given the site a makeover from the inside out - thanks for noticing!
 
 The technical work gave us little choice except to take a luxurious bit of vacation from writing (no complaints); still, we were out and about, catching shows and saving our notes for the New Year.
 
 [Gregory Finney](/authors/greg/), our formidable Toronto contributor, caught the latest presentation by the fledgling [Tongue In Cheek Productions](/scene/companies/tongue-in-cheek-productions/), [**_Verbotenlieder_**](/dont-miss-verbotenlieder/). Canada's female operatic talent filled Lula Lounge to sing a ballsy selection of arias and duets traditionally reserved for the gentlemen; Finney calls it, "the kind of evening out I hope we see a lot more of in 2019."
 
->My hunch had been that all you needed for a great, hilarious _Die Fledermaus_ was a stellar cast.
+> My hunch had been that all you needed for a great, hilarious _Die Fledermaus_ was a stellar cast.
 
 Finney writes, "\[_Verbotenlieder_'s\] neat musical ear-play was probably most present with the famed _Pearl Fishers_ duet, and the Rodolfo/Marcello duet from _La bohème_; both were sung beautifully by soprano [Vanessa Oude-Reimerink](/scene/people/vanessa-oude-reimerink/) and mezzo-soprano Alexandra Beley." Finney's also highlighted Brittany Cann's _Don Quichotte à Dulcinée_ ("Dear Toronto, this is a voice to watch"), and [Lauren Margison](/scene/people/lauren-margison/)'s appropriation of tenor arias from _Madama Butterfly_ and _Turandot_. Plus:
 

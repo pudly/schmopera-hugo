@@ -2,10 +2,10 @@
 date = "2017-11-19T11:46:00-05:00"
 discipline = "Soprano"
 lastmod = "2017-11-19T11:46:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511109762316/66b6dd_3e4d32705fef48fb9a109465e7cd91c3.webp"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546738754/media/2019/01/AnneMarieMcIntosh.png"
 primary_image_credit = "Simeon Rusnak."
 publishDate = "2017-11-19T11:46:00-05:00"
-related_companies = ["scene/companies/calgary-opera-emerging-artist-development-program.md","scene/companies/calgary-opera.md","scene/companies/the-banff-centre.md","scene/companies/manitoba-opera.md"]
+related_companies = ["scene/companies/calgary-opera-emerging-artist-development-program.md", "scene/companies/calgary-opera.md", "scene/companies/the-banff-centre.md", "scene/companies/manitoba-opera.md"]
 slug = "annemarie-macintosh"
 title = "Anne-Marie MacIntosh"
 website = "http://annemariem6.wixsite.com/annemariemacintosh"
@@ -21,8 +21,8 @@ url = "https://twitter.com/am_macintosh"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/am_macintosh/"
-+++
 
++++
 Praised by Opera Canada for her “effervescent coloratura,” “stratospheric notes” and “dramatic vivacity,” soprano Anne-Marie MacIntosh is an exciting new face in Canada’s opera scene. A native of Langley, British Columbia, she made her Calgary Opera debut last fall as Sally in *Die Fledermaus*, followed by Laurette in *Doctor Miracle*. This coming season, Anne-Marie will joining Calgary Opera for a second year in their Emerging Artist program. In her time there, she will be performing as Berta in *Il barbiere di Siviglia* on the mainstage, and as Despina in the Emerging Artist production of *Così fan tutte*. She will also perform in Christmas at the Opera, as well as participating in a month-long school tour of Hannaraptor. In 2015-2016, Anne-Marie was a Rebanks Family Fellow at the prestigious Glenn Gould School and made her professional debut as Barbarina in *Le nozze di Figaro* at Manitoba Opera.
 
 Performing numerous operatic roles over the past several years, Anne-Marie’s repertoire includes Lucia (*The Rape of Lucretia*), Mabel (*The Pirates of Penzance*), Gretel (*Hansel and Gretel*), La Fée (*Cendrillon*), Cleopatra (*Giulio Cesare*), Armida (*Rinaldo*), Adina (*L’elisir d’amore*), Zerbinetta (*Ariadne auf Naxos*), Susanna (*Le nozze di Figaro*), Ms. Wordsworth (*Albert Herring*) and Abigail (*The Crucible*). She has performed across Canada (Vancouver, Calgary, Edmonton, Winnipeg, Toronto) as well as in Europe and Asia (Teplice and Prague - Czech Republic, Lucca - Italy, Bejing and Chengdu - China).
