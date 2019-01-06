@@ -19,6 +19,10 @@
 {{/* meta data */}}
 
 {{- define "og_title" -}}{{ .Title | htmlUnescape }}{{- end -}}
+{{- define "og_type" -}}Article{{- end -}}
+{{- define "og_url" -}}{{ .Permalink }}{{- end -}}
+{{- define "og_image" -}}{{ replace .Params.primary_image "/upload/" "/upload/w_740,h_740,c_fill,g_faces/" }}{{- end -}}
+{{- define "og_description" -}}{{ .Params.short_description | htmlUnescape }}{{- end -}}
 
 {{- define "main" -}}
 
@@ -73,17 +77,7 @@
         {{ with .Params.categories }}
         <em class="post--meta-category">{{ . }}</em>
         {{ end }}
-      </div>      
-
-      <!-- <h1><span>{{ .Title | htmlUnescape }}</span></h1>
-
-      <span class="post--meta">
-        <em class="post--meta-date">{{ .Date.Format "Jan 2, 2006" }}</em>
-
-        {{ with .Params.categories }}
-          <a href="{{ "categories/" | absURL}}{{ . | urlize }}" class="post--meta-category">{{ . }}</a>
-        {{ end }}
-      </span> -->
+      </div>
     </section>
     {{/*
     {{ with .Params.primary_image_credit }}

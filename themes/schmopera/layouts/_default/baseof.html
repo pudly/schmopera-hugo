@@ -1,14 +1,33 @@
 <!doctype html>
 <html amp class="no-js" lang="en-CA">
-{{/*
-  
-  {% set site_title = getSetting('site_name') -%}
-  {% set site_description = getSetting('site_description') -%}
-  {% set site_url = getSetting('site_url') -%}
-
-*/}}
   <head>
-    {{- partial "head.html" . -}}
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{.Title | htmlUnescape }}</title>
+    {{ if .Params.short_description -}}
+    <meta name="description" content='{{ .Params.short_description }}'>
+    {{- else -}}
+    <meta name="description" content='Schmopera exists because opera is a current and evolving art, and the people that make it happen have plenty to say about it. Singers, conductors, stage managers and pianists will all bring their skills and ideas to the rehearsal, and Schmopera wants to make those ideas accessible to the opera-loving public. Our contributors are professionals in the operatic world, and we&#39;re using our insider information to talk about what&#39;s working about the industry, and what isn&#39;t.'>
+    {{- end }}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#00a9e0">
+
+    <meta property="og:site_name" content="Schmopera">
+    <meta property="og:title" content='{{- block "og_title" . -}}Schmopera.com{{- end -}}'>
+    <meta property="og:type" content='{{- block "og_type" . -}}website{{- end -}}'>
+    <meta property="og:url" content='{{- .Permalink -}}'>
+    <meta property="og:image" content='{{- block "og_image" . -}}/images/logo.png{{- end -}}'>
+    <meta property="og:description" content='{{- block "og_description" . -}}Schmopera exists because opera is a current and evolving art, and the people that make it happen have plenty to say about it. Singers, conductors, stage managers and pianists will all bring their skills and ideas to the rehearsal, and Schmopera wants to make those ideas accessible to the opera-loving public. Our contributors are professionals in the operatic world, and we&#39;re using our insider information to talk about what&#39;s working about the industry, and what isn&#39;t.{{- end -}}'>
+    
+    <link rel="canonical" href="{{- .Permalink -}}">
+    
+    <link rel="shortcut icon" href="/images/favicon.png">
+    <link rel="apple-touch-icon" href="/images/touch-icon.png">
+
+    {{- $style := resources.Get "sass/schmopera.scss" | toCSS | minify | fingerprint -}}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
   </head>
   <body>
 
@@ -25,13 +44,13 @@
 
       {{- partial "footer.html" . -}}
 
-      {{ $lazyload := resources.Get "/javascript/lazyload.min.js" }}
-      {{ $fastclick := resources.Get "/javascript/fastclick.js" }}
-      {{ $socialight := resources.Get "/javascript/socialight.js" }}
-      {{ $lightbox := resources.Get "/javascript/lightbox.js" }}
-      {{ $main := resources.Get "/javascript/main.js" }}
-      {{ $autotrack := resources.Get "/javascript/autotrack.js" }}
-      {{ $js := slice $lazyload $fastclick $socialight $lightbox $main $autotrack | resources.Concat "js/main.js" | minify | fingerprint }}
+      {{- $lazyload := resources.Get "/javascript/lazyload.min.js" -}}
+      {{- $fastclick := resources.Get "/javascript/fastclick.js" -}}
+      {{- $socialight := resources.Get "/javascript/socialight.js" -}}
+      {{- $lightbox := resources.Get "/javascript/lightbox.js" -}}
+      {{- $main := resources.Get "/javascript/main.js" -}}
+      {{- $autotrack := resources.Get "/javascript/autotrack.js" -}}
+      {{- $js := slice $lazyload $fastclick $socialight $lightbox $main $autotrack | resources.Concat "js/main.js" | minify | fingerprint }}
 
       <script src="{{ $js.Permalink }}"></script>
       
