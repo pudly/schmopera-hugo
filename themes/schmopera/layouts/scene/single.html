@@ -65,24 +65,20 @@
       <h1 class="pill">The Scene</h1>
       <h1 class="pill __sub"><a href="/scene/{{ printf (index $type 1) }}">{{ printf (index $type 1) | humanize }}</a></h1>
       <h1 class="pill ___sub">{{ .Title | htmlUnescape }}</h1>
-      
-      
-      
-
     </header>
 
     <section class="scene--single_hero">
-      <a href="{{ .Params.primary_image }}" rel="lightbox" data-lightbox='{{ replace .Params.primary_image "/upload/" "/upload/w_1360,h_1360,c_fill,g_face/" }}' title="{{ .Title }}">
+      <a href="{{ .Params.primary_image }}" rel="lightbox" data-lightbox='{{ replace .Params.primary_image "/upload/" "/upload/w_1360,h_1360,c_fill,g_face/" }}' title="{{ .Title }}{{ with .Params.primary_image_credit }} - Photo by {{ . }} {{ end }}">
         <figure>
           <picture>
-            {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/w_300,h_300,c_fill,g_face/" }}
-            {{ $imglg := replace .Params.primary_image "/upload/" "/upload/w_600,h_600,c_fill,g_face/" }}
+            {{- $imgsm := replace .Params.primary_image "/upload/" "/upload/w_300,h_300,c_fill,g_face/" -}}
+            {{- $imglg := replace .Params.primary_image "/upload/" "/upload/w_600,h_600,c_fill,g_face/" }}
             <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkkAQAAB8AG7jymN8AAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
           </picture>      
 
-          {{ with .Params.primary_image_credit }}
+          {{- with .Params.primary_image_credit }}
           <figcaption>{{ . }}</figcaption>
-          {{ end }}
+          {{- end }}
         </figure>
       </a>
 
