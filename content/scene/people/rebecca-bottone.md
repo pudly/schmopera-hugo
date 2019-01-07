@@ -2,7 +2,7 @@
 date = "2017-03-22T12:15:00+00:00"
 discipline = "Soprano"
 lastmod = "2017-03-22T12:15:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490184799786/13925408_642916355874938_7286931715472194864_n.jpg%3Foh%3D257d7f5a6b67667b75944e30a8c4fedf%26oe%3D596FD70E"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546829660/media/2019/01/RebeccaBottone.jpg"
 publishDate = "2017-03-22T12:15:00+00:00"
 slug = "rebecca-bottone"
 title = "Rebecca Bottone"
@@ -14,8 +14,8 @@ url = "https://www.facebook.com/RebeccaBottoneTeacher/"
 platform = " Twitter"
 template = "social-media"
 url = "https://twitter.com/Bigpinkbutton"
-+++
 
++++
 Rebecca Bottone was born in Bedfordshire and is a graduate of the Royal Academy of Music. 
 
 Recent and future engagements include Queen Tye *Akhnaten* at English National Opera‚ Giunia *Lucio Silla* (Buxton Festival)‚ Weltgeist *Die Schuldigkeit des ersten Gebots* (Classical Opera)‚ *Peter Pan* and Yniold *Pelléas et Mélisande* (Welsh National Opera)‚ Yum Yum *The Mikado*‚ Clorinda *La Cenerentola* and Mabel *The Pirates of Penzance* (Scottish Opera)‚ Constance *The Sorcerer* (National Gilbert & Sullivan Company)‚ Ilia *Idomeneo* at Blackheath Halls‚ and Hugh Wood’s *Epithalamion* at the BBC Proms.
@@ -25,4 +25,3 @@ Further appearances include First Innocent in the world premiere of Birtwistle�
 Rebecca has worked with many of the world’s leading orchestras‚ including the SCO‚ the RSNO‚ the Iceland Symphony Orchestra and the Gabrieli Consort and Players under Paul McCreesh; she has sung Charmeuse in *Thais* under Eschenbach with Renee Fleming and also performed with the AAM and the RAI Turin under Christopher Hogwood; the CBSO‚ the Halle and the Manchester Camerata under Stephen Bell; *St John Passion* with the Orchestra Sinfonica di Milano Giuseppe Verdi at the Teatro degli Arcimboldi in Milan; the Philharmonia Orchestra under Sir Charles Mackerras; and the Tonhalle Zürich under Sir Mark Elder. 
 
 Recordings include Cis *Albert Herring* with Richard Hickox and EMI and two Rossini roles for Opera Rara‚ Eurice *Adelaide di Borgognia* and Cleone *Ermione*. She has made appearances in BBC2’s Television documentary *The Genius of Beethoven* with the English Chamber Orchestra‚ David Starkey’s *Music and Monarchy* and the role of a singer in Steven Poliakoffs acclaimed film *Capturing Mary*.
-

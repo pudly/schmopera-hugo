@@ -2,17 +2,17 @@
 date = "2015-07-20T18:38:00+01:00"
 discipline = "Violinist"
 lastmod = "2017-03-15T10:48:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437413734671/11234051_10204185150943168_5793490848771529088_n.jpg%3Foh%3D92e108a818cb717ed71dd0ff011b5425%26oe%3D5647F4E2"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546831005/media/2019/01/AaronSchwebel.jpg"
 publishDate = "2015-07-20T20:12:00+01:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/toronto-symphony-orchestra.md"]
+related_companies = ["scene/companies/canadian-opera-company.md", "scene/companies/toronto-symphony-orchestra.md"]
 slug = "aaron-schwebel"
 title = "Aaron Schwebel"
 [[social_media]]
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/aaron.schwebel.5?fref=ts"
-+++
 
++++
 Canadian violinist Aaron Schwebel has performed throughout the world as a chamber and orchestral musician. His warm, charismatic musical personality and versatility as a performer have led him to pursue a variety of roles and collaborations, with a particular love for chamber music.
  
 A native Torontonian, Aaron holds the positions of Associate Concertmaster with the Canadian Opera Company and Concermaster with the National Ballet of Canada Orchestra. In the past, Aaron has performed as guest concertmaster with the National Arts Centre Orchestra, the Hamilton Philharmonic Orchestra, Kitchener-Waterloo Symphony, and Orchestra London. Aaron works regularly as an extra with the Toronto Symphony Orchestra and the National Arts Centre Orchestra.

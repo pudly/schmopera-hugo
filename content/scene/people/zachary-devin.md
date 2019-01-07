@@ -2,7 +2,7 @@
 date = "2017-04-09T11:37:00+01:00"
 discipline = "Tenor"
 lastmod = "2017-04-09T11:37:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491734114752/14595624_564872690376772_6208599192019292011_n.jpg%3Foh%3Dfdfe34df3320b2046429a749c1df19c6%26oe%3D598E21F2"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546829538/media/2019/01/ZacharyDevin.jpg"
 publishDate = "2017-04-09T11:37:00+01:00"
 related_companies = ["scene/companies/nashville-opera.md"]
 slug = "zachary-devin"
@@ -11,8 +11,8 @@ title = "Zachary Devin"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/ZacharyDevinTenor/"
-+++
 
++++
 American Tenor Zachary Devin began his vocal studies at the young age of sixteen in his hometown of Robinson, IL, Mr. Devin’s voice has been praised as “superb”,“strong”, and “impassioned” by Opera Today.
 
 After receiving degrees in music from Millikin University and the prestigious Rice University Mr. Devin traveled to London where he studied at the famous Royal Academy of Music.
