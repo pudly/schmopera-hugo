@@ -23,8 +23,10 @@ Opera fans are famous for digging in their heels and resisting the new stuff, so
 
 But the simple truth is that, particularly for young opera lovers, a new - well, old - generation is now available to us. Those born after 1977 can hear Callas "live"; the unfortunate among us who never heard Pavarotti live can come pretty darn close in hologram form. Joan Sutherland, Beverly Sills, Maureen Forrester, Cornell MacNeil: all of these singers of the past, whose prime years were luckily captured on video, are now, for all intents and purposes, back in the mix.
 
-We can now play a fantasy-football-like game of imagining the opera cast of our dreams. What would it be like to hear Christine Goerke sing Brünnhilde opposed Jon Vickers' Siegfried? Or to hear _La fille du régiment_ with Javier Camarena and Beverly Sills? Marilyn Horne's Adalgisa with Sondra Radvanovsky's Norma? 
+We can now play a fantasy-football-like game of imagining the opera cast of our dreams. What would it be like to hear Christine Goerke sing Brünnhilde opposed Jon Vickers' Siegfried? Or to hear _La fille du régiment_ with Javier Camarena and Beverly Sills? Marilyn Horne's Adalgisa with Sondra Radvanovsky's Norma? A Verdi _Requiem_ with Tamara Wilson, Agnes Baltsa, Jussi Björling, and René Pape?
 
 Or! _Don Carlo_, with Plácido Domingo's hologram in the title role, and the real-life Plácido Domingo as Rodrigo? Add a little Jamie Barton as Eboli, and Nicolai Ghiaurov as Philip II? Delicious.
 
 So, readers, onto the important questions: what's the cross-generational opera cast of your dreams? And do you think, anytime soon, we'll start seeing a mélange of flesh-and-bone singers with holograms on the world's opera stages?
+
+And maybe the most sensitive question of them all: will any of you dig in your heels against hologram _bel canto_? Even if it's, like, Bubbles?
