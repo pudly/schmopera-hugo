@@ -36,6 +36,16 @@ body > .container {
   }
 }
 
+.about--content {
+  min-height: 60vh; 
+  clear: left;
+  padding: 0 20px;
+
+  @include bp-medium {
+    padding: 0;
+  }
+}
+
 footer {
   opacity: 1;
 }
