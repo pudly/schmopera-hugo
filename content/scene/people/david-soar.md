@@ -2,19 +2,21 @@
 date = "2016-05-24T06:21:00-04:00"
 discipline = "Bass"
 lastmod = "2016-05-24T06:21:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464085035595/2016-05-24---David-Soar.gif"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546830628/media/2019/01/DavidSoar.jpg"
 publishDate = "2016-05-24T06:21:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/garsington-opera.md","scene/companies/english-national-opera.md","scene/companies/welsh-national-opera.md","scene/companies/glyndebourne.md","scene/companies/salzburg-festival.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/companies/royal-opera-house.md", "scene/companies/garsington-opera.md", "scene/companies/english-national-opera.md", "scene/companies/welsh-national-opera.md", "scene/companies/glyndebourne.md", "scene/companies/salzburg-festival.md"]
 slug = "david-soar"
 title = "David Soar"
+
 +++
+David Soar was born in Nottinghamshire and studied at the Royal Academy of Music and subsequently at the National Opera Studio. 
 
-David Soar was born in Nottinghamshire and studied at the Royal Academy of Music and the National Opera Studio.
+Highlights in his 2016/17 season include Animal Tamer & Athlete _Lulu_ (English National Opera), Mr Flint in a new production of _Billy Budd_ (Madrid's Teatro Réal) and Cadmus & Somnus in a new production of _Semele_ (Garsington Opera). Concert engagements include _The Dream of Gerontius_ (Seattle Symphony Orchestra/Edward Gardner), Mendelssohn's _Elijah_ (Royal Flemish Philharmonic/Philippe Herreweghe) and Berlioz' _La damnation de Faust_ (Hallé Orchestra/Sir Mark Elder). 
 
-Highlights in his 2015/16 season include Seneca *L’incoronazione di Poppea* (Academy of Ancient Music/Egarr), First Nazarene *Salome* (Bournemouth Symphony Orchestra/Karabits), Handel's *Messiah* (Royal Northern Sinfonia/Bicket), Frère Laurent *Roméo et Juliette* (BBC Symphony Orchestra/Sir Andrew Davis), Haydn's *Die sieben letzte Worte* (Orchestre des Champs Elysées/Herreweghe),  the title role in Handel's *Saul* (BBC Singers) and Peter Quice *A Midsummer Night's Dream* (Glyndebourne).
+Recent appearances have included Colline _La bohème_ and Masetto _Don Giovanni_ (Metropolitan Opera); Escamillo _Carmen_, Masetto _Don Giovanni_, Mr Flint _Billy Budd_ and Collatinus _The Rape of Lucretia_ (Glyndebourne); Le Duc _Roméo et Juliette_ (Salzburg Festival); Quinault _Adriana Lecouvreur_ (Covent Garden); Nilakantha _Lakmé_ (Opera Holland Park); Basilio _The Barber of Seville_, Roy Disney _The Perfect American_ and Bernardino _Benvenuto Cellini_ (English National Opera) and Leporello _Don Giovanni_, Figaro _Le nozze di Figaro_, Escamillo and Sparafucile _Rigoletto_ (Welsh National Opera). 
 
-His future engagements also include débuts for the Teatro Réal in Madrid and for Garsington Opera, and returns to the Metropolitan Opera, the English National Opera and to Covent Garden.
+Future seasons see him return to the Metropolitan Opera, Covent Garden, the English National Opera and Madrid’s Teatro Réal. 
 
-He has sung Colline *La bohème* and Masetto *Don Giovanni* (Metropolitan Opera); Escamillo *Carmen*, Masetto, Mr Flint *Billy Budd* and Collatinus *The Rape of Lucretia* (Glyndebourne); Le Duc *Roméo et Juliette* (Salzburg Festival); Quinault *Adriana Lecouvreur* (Covent Garden); Nilakantha *Lakmé* (Opera Holland Park); Basilio *The Barber of Seville*, Roy Disney *The Perfect American* and Bernardino *Benvenuto Cellini* (English National Opera) and Leporello *Don Giovanni*, Figaro *Le nozze di Figaro*, Escamillo and Sparafucile *Rigoletto* (Welsh National Opera).
+Highlights on the concert platform include _The Dream of Gerontius_ and Frère Laurent _Roméo et Juliette_ (BBC Symphony Orchestra/Sir Andrew Davis), _Messiah_ (The English Concert/Harry Bicket & Academy of Ancient Music/Richard Egarr), Haydn's _Die sieben letzte Worte_ (Orchestre des Champs Elysées/Phillippe Herreweghe), the title role in Handel's _Saul_ (BBC Singers), Weill's _The Seven Deadly Sins_ (Hallé Orchestra/Sir Mark Elder), Walton’s _Belshazzar’s Feast_ (BBC Philharmonic Orchestra/John Storgards), _Wozzeck_ (Philharmonia/Esa-Pekka Salonen), Seneca _L’incoronazione di Poppea_ (Academy of Ancient Music/Richard Egarr), and Beethoven's Symphony No. 9 (Sir Charles Mackerras). 
 
-Highlights on the concert platform include *The Dream of Gerontius* (BBC Symphony Orchestra/Sir Andrew Davis), *Messiah* (The English Concert/Bicket, Academy of Ancient Music/Egarr & Britten Sinfonia/Hill), Stravinsky motets (Collegium Vocale/Herreweghe), Weill's *The Seven Deadly Sins* (Hallé Orchestra/Elder), *Belshazzar’s Feast* (BBC Philharmonic Orchestra/Storgårds), *The Midsummer Marriage* at the BBC Proms (BBC Symphony Orchestra/Sir Andrew Davis), *Wozzeck* (Philharmonia//Salonen), Masetto *Don Giovanni* (SCO/Ticciati) and Beethoven's Symphony no. 9 (Mackerras).
+Recordings include _The Dream of Gerontius_ and _Roméo et Juliette_ for Chandos (both BBC Symphony Orchestra/Sir Andrew Davis); Stanford’s _Stabat Mater_ for Naxos (Bournemouth Symphony Orchestra/David Hill); Stravinsky’s _Threni_ (Royal Flemish Philharmonic/Phillippe Herreweghe) and _Adriana Lecouvreur_ on DVD for Opus Arte with Angela Gheorghiu and Jonas Kaufmann (Royal Opera House Orchestra/Sir Mark Elder). 
