@@ -10,7 +10,7 @@ slug = "emily-pogorelc"
 title = "Emily Pogorelc"
 website = "http://www.emilypogorelc.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/EmilyPogorelc"
 [[social_media]]

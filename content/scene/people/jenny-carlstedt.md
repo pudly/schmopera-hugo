@@ -9,7 +9,7 @@ slug = "jenny-carlstedt"
 title = "Jenny Carlstedt"
 website = "https://www.jennycarlstedt.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/JennyCarlstedt"
 +++

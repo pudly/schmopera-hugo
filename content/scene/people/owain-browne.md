@@ -9,7 +9,7 @@ slug = "owain-browne"
 title = "Owain Browne"
 website = "http://www.owainbrowne.com/index.php"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/owainbrowne"
 +++

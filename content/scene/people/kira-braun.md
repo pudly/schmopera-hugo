@@ -14,7 +14,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/pages/Kira-Braun-Soprano/1404908709758180?fref=ts&ref=br_tf"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Kirlchen"
 +++

@@ -13,7 +13,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/pages/Yannick-N%C3%A9zet-S%C3%A9guin/103782322994297?fref=ts"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/nezetseguin"
 +++

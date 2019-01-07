@@ -10,7 +10,7 @@ slug = "marcus-farnsworth"
 title = "Marcus Farnsworth"
 website = "http://marcusfarnsworth.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/MBJFarnsworth"
 +++

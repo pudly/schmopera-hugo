@@ -9,7 +9,7 @@ slug = "roy-hage"
 title = "Roy Hage"
 website = "http://www.royhage.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/royhage"
 +++

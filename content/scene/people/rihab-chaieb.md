@@ -9,7 +9,7 @@ related_companies = ["scene/companies/glyndebourne.md","scene/companies/canadian
 slug = "rihab-chaieb"
 title = "Rihab Chaieb"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/rihabchaieb"
 +++

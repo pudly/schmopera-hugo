@@ -9,7 +9,7 @@ slug = "david-james-brock"
 title = "David James Brock"
 website = "http://www.davidjamesbrock.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/davidjamesbrock"
 +++

@@ -9,7 +9,7 @@ slug = "jeffrey-williams"
 title = "Jeffrey Williams"
 website = "http://jeffreywilliamsbaritone.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/operajeff"
 +++

@@ -13,7 +13,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/Daniel-Brenna-135900756580972/timeline/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/danielbrenna10r"
 +++

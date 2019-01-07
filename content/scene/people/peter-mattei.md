@@ -9,7 +9,7 @@ related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companie
 slug = "peter-mattei"
 title = "Peter Mattei"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Peter_Mattei?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
 +++

@@ -12,7 +12,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/pages/Liederwolfe/137619444115"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/liederwolfe"
 +++

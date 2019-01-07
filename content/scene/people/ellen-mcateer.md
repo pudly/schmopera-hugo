@@ -9,7 +9,7 @@ slug = "ellen-mcateer"
 title = "Ellen McAteer"
 website = "http://www.ellenmcateer.ca/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ellen_mcateer"
 +++

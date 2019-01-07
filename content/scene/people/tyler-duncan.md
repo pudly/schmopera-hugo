@@ -9,7 +9,7 @@ slug = "tyler-duncan"
 title = "Tyler Duncan"
 website = "http://www.tylerduncan.ca/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/tyduncan"
 +++

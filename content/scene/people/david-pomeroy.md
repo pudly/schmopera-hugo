@@ -13,7 +13,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/pages/David-Pomeroy/185756525537"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/PomeroyTenor"
 +++

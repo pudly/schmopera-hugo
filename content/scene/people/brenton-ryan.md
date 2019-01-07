@@ -9,7 +9,7 @@ slug = "brenton-ryan"
 title = "Brenton Ryan"
 website = "http://brentonryan.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/brenton_tenor"
 +++

@@ -9,7 +9,7 @@ title = "Royal Conservatory of Music"
 type_of_company = "Conservatory"
 website = "http://www.rcmusic.ca/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/the_rcm"
 +++

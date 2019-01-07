@@ -9,7 +9,7 @@ slug = "david-hertzberg"
 title = "David Hertzberg"
 website = "http://www.davidhertzbergmusic.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/hertzbergfarben"
 [[social_media]]

@@ -8,7 +8,7 @@ related_companies = ["scene/companies/royal-conservatory-of-music.md","scene/com
 slug = "asitha-tennekoon"
 title = "Asitha Tennekoon"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/asten8r"
 +++

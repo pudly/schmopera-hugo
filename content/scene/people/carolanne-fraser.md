@@ -8,7 +8,7 @@ related_companies = ["scene/companies/opera-nuova.md","scene/companies/jeunesses
 slug = "carolanne-fraser"
 title = "Carol-Anne Fraser"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/cfraserpianist"
 +++

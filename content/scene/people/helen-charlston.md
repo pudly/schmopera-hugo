@@ -10,7 +10,7 @@ slug = "helen-charlston"
 title = "Helen Charlston"
 website = "https://helencharlston.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/helencharlston"
 +++

@@ -14,7 +14,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/kelleyoconnormezzo"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/kelleymezzo"
 [[social_media]]

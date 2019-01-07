@@ -13,7 +13,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/pages/Cairan-Ryan-Baritone/312777755515955"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/CairanRyan"
 +++

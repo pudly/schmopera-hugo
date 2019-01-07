@@ -9,7 +9,7 @@ slug = "aaron-durand"
 title = "Aaron Durand"
 website = "https://www.aarondurandbaritone.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Gingervanni"
 [[social_media]]

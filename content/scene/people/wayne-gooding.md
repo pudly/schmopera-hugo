@@ -7,7 +7,7 @@ publishDate = "2015-04-11T21:28:00-04:00"
 slug = "wayne-gooding"
 title = "Wayne Gooding"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/OperaCanada"
 +++

@@ -13,7 +13,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/leahoperabird/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/leahoperabird"
 [[social_media]]

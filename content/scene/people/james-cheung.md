@@ -9,7 +9,7 @@ slug = "james-cheung"
 title = "James Cheung"
 website = "https://www.james-cheung.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/jvcheung"
 +++

@@ -10,7 +10,7 @@ slug = "david-butt-philip"
 title = "David Butt Philip"
 website = "http://www.davidbuttphilip.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/DavidButtPhilip"
 +++

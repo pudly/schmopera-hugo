@@ -10,7 +10,7 @@ slug = "christopher-ainslie"
 title = "Christopher Ainslie"
 website = "http://christopherainslie.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ChrisAinslieSA?lang=en"
 +++

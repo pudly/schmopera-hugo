@@ -7,7 +7,7 @@ publishDate = "2016-09-13T09:56:00+01:00"
 slug = "elizabeth-westerman-yoder"
 title = "Elizabeth Westerman Yoder"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/SopranoCurlyLiz"
 +++

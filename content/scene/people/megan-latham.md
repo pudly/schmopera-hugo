@@ -8,7 +8,7 @@ related_companies = ["scene/companies/canadian-opera-company.md","scene/companie
 slug = "megan-latham"
 title = "Megan Latham"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/mezzomeg"
 +++

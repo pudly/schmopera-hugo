@@ -9,7 +9,7 @@ slug = "michael-j-scott"
 title = "Michael J. Scott"
 website = "http://www.michaeljscott.nl/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/MJScott_Tenor"
 +++

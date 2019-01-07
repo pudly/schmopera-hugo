@@ -8,7 +8,7 @@ related_companies = ["scene/companies/tapestry-opera.md","scene/companies/opera-
 slug = "jacques-arsenault"
 title = "Jacques Arsenault"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/tenorjacques"
 +++

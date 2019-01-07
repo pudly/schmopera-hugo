@@ -9,7 +9,7 @@ slug = "christine-buras"
 title = "Christine Buras"
 website = "http://www.christineburas.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ChristineBuras"
 +++

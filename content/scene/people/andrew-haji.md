@@ -9,7 +9,7 @@ slug = "andrew-haji"
 title = "Andrew Haji"
 website = "http://www.andrewhaji.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/andrewhaji"
 +++

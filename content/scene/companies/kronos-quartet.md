@@ -12,7 +12,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/kronosquartet"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/kronosquartet"
 [[social_media]]

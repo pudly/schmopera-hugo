@@ -9,7 +9,7 @@ slug = "robert-ames"
 title = "Robert Ames"
 website = "http://www.robertames.co.uk/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/LCOrchestra"
 

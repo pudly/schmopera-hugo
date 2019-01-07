@@ -8,7 +8,7 @@ slug = "stacie-dunlop"
 title = "Stacie Dunlop"
 website = "http://www.staciedunlop.com/staciedunlop.com/Home.html"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/StacieDunlop"
 +++

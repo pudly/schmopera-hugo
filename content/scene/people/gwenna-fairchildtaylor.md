@@ -9,7 +9,7 @@ slug = "gwenna-fairchildtaylor"
 title = "Gwenna Fairchild-Taylor"
 website = "http://gwennafairchildtaylor.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/GwennaFT"
 [[social_media]]

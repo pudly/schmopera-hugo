@@ -9,7 +9,7 @@ slug = "emma-stannard"
 title = "Emma Stannard"
 website = "http://emmastannard.weebly.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/emma_stannard"
 +++

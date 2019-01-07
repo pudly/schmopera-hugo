@@ -8,7 +8,7 @@ publishDate = "2016-08-19T10:23:00+01:00"
 slug = "anthony-gregory"
 title = "Anthony Gregory"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ajgregory_tenor"
 +++

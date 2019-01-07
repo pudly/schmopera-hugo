@@ -9,7 +9,7 @@ slug = "emma-char"
 title = "Emma Char"
 website = "http://emmacharmezzo.weebly.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/emmacharmezzo"
 +++

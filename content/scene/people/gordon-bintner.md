@@ -8,7 +8,7 @@ related_companies = ["scene/companies/canadian-opera-company.md","scene/companie
 slug = "gordon-bintner"
 title = "Gordon Bintner"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/GordonBintner"
 +++

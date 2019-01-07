@@ -8,7 +8,7 @@ slug = "alison-langer"
 title = "Alison Langer"
 website = "http://www.alisonlangersoprano.moonfruit.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/AliLanger"
 +++

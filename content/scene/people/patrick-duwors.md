@@ -9,7 +9,7 @@ slug = "patrick-duwors"
 title = "Patrick DuWors"
 website = "http://www.patrickduwors.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/patrickduwors"
 +++

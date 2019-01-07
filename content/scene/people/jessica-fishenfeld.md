@@ -10,7 +10,7 @@ slug = "jessica-fishenfeld"
 title = "Jessica Fishenfeld"
 website = "http://www.jessicafishenfeld.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/JessFishenfeld"
 [[social_media]]

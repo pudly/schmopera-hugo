@@ -8,7 +8,7 @@ related_companies = ["scene/companies/fawn-chamber-creative.md","scene/companies
 slug = "amanda-smith"
 title = "Amanda Smith"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/AmandaOnStage"
 +++

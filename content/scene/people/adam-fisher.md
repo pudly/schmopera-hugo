@@ -8,7 +8,7 @@ publishDate = "2016-11-04T10:58:00-04:00"
 slug = "adam-fisher"
 title = "Adam Fisher"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/adam_jm_fisher"
 +++

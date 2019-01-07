@@ -9,7 +9,7 @@ slug = "lauren-worsham"
 title = "Lauren Worsham"
 website = "http://www.laurenworsham.com/about.html"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/WorshamLauren"
 +++

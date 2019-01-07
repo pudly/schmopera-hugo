@@ -10,7 +10,7 @@ slug = "amanda-crider"
 title = "Amanda Crider"
 website = "https://www.amandacrider.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/IlluminArtsMIA"
 [[social_media]]

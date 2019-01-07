@@ -9,7 +9,7 @@ slug = "rachel-fenlon"
 title = "Rachel Fenlon"
 website = "http://www.rachelfenlonsoprano.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/rfenlon"
 [[social_media]]

@@ -8,7 +8,7 @@ slug = "sarah-forestieri"
 title = "Sarah Forestieri"
 website = "http://www.sarahforestierisoprano.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/sarahforestieri"
 [[social_media]]

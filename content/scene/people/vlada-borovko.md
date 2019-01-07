@@ -14,7 +14,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/vladasunlight?fref=nf"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/VladaSunlight"
 [[social_media]]

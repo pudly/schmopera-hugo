@@ -9,7 +9,7 @@ slug = "conrad-siebert"
 title = "Conrad Siebert"
 website = "http://www.conradsiebert.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/conradsiebert"
 

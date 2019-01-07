@@ -9,7 +9,7 @@ title = "Dean Artists Management"
 type_of_company = "Artist Management Agency"
 website = "http://deanartists.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/DeanArtists"
 +++

@@ -8,7 +8,7 @@ related_companies = ["scene/companies/highlands-opera-studio.md","scene/companie
 slug = "nathan-keoughan"
 title = "Nathan Keoughan"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/nathankeoughan"
 +++

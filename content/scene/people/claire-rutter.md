@@ -9,7 +9,7 @@ slug = "claire-rutter"
 title = "Claire Rutter"
 website = "http://www.clairerutter.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/_Claire_Rutter"
 +++

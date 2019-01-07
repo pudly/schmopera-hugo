@@ -10,7 +10,7 @@ slug = "allyson-mchardy"
 title = "Allyson McHardy"
 website = "http://www.allysonmchardy.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/AllysonMcHardy"
 +++

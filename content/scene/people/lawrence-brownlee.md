@@ -14,7 +14,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/pages/Lawrence-Brownlee/380448701995063"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Brownleetenor"
 +++

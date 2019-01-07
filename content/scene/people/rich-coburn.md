@@ -9,7 +9,7 @@ slug = "rich-coburn"
 title = "Rich Coburn"
 website = "http://www.richcoburn.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/richacoburn"
 [[social_media]]

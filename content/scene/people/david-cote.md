@@ -9,7 +9,7 @@ slug = "david-cote"
 title = "David Cote"
 website = "http://davidcote.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/DavidCote"
 +++

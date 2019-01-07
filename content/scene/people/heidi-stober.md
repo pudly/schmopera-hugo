@@ -10,7 +10,7 @@ slug = "heidi-stober"
 title = "Heidi Stober"
 website = "http://www.heidistober.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/heidistober"
 +++

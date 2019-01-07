@@ -9,7 +9,7 @@ related_companies = ["scene/companies/oper-frankfurt.md", "scene/companies/gran-
 slug = "toby-spence"
 title = "Toby Spence"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/tobyspence"
 

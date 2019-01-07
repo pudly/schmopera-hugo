@@ -10,7 +10,7 @@ slug = "ashley-riches"
 title = "Ashley Riches"
 website = "https://www.ashleyriches.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ashleyriches"
 +++

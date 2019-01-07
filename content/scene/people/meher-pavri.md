@@ -10,7 +10,7 @@ slug = "meher-pavri"
 title = "Meher Pavri"
 website = "http://meherpavri.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/meherpavri"
 +++

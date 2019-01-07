@@ -9,7 +9,7 @@ slug = "whitney-leigh-sloan"
 title = "Whitney Leigh Sloan"
 website = "https://www.whitneysloan.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/aSLOAnSays"
 [[social_media]]

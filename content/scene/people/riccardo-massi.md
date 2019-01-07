@@ -14,7 +14,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/Riccardo-Massi-Tenore-936313299723139/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/riccardomassi"
 +++

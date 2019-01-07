@@ -9,7 +9,7 @@ slug = "dean-burry"
 title = "Dean Burry"
 website = "http://www.deanburry.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/dmburry"
 +++

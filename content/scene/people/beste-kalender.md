@@ -10,7 +10,7 @@ slug = "beste-kalender"
 title = "Beste Kalender"
 website = "http://www.bestekalender.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Beste_Kalender"
 [[social_media]]

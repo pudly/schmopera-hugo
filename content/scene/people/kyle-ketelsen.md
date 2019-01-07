@@ -9,7 +9,7 @@ slug = "kyle-ketelsen"
 title = "Kyle Ketelsen"
 website = "http://kyleketelsen.instantencore.com/web/home.aspx"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/kyleket"
 +++

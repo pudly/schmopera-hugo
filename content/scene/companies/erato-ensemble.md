@@ -9,7 +9,7 @@ title = "Erato Ensemble"
 type_of_company = "Chamber ensemble"
 website = "http://www.eratoensemble.com/Home_Page.php"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/EratoEnsemble"
 +++

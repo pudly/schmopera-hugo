@@ -14,7 +14,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/Rose-Naggar-Tremblay-601473736599008/?ref=ts&fref=ts"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/LagrandeRose"
 [[social_media]]

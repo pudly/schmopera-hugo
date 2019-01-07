@@ -9,7 +9,7 @@ related_companies = ["scene/companies/against-the-grain-theatre.md","scene/compa
 slug = "peter-rolfe-dauz"
 title = "Peter Rolfe Dauz"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/RDauz"
 [[social_media]]

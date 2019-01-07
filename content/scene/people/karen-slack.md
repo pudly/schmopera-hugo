@@ -9,7 +9,7 @@ slug = "karen-slack"
 title = "Karen Slack"
 website = "http://www.sopranokarenslack.com/default.html"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/KikiSlack"
 [[social_media]]

@@ -9,7 +9,7 @@ slug = "lucia-cesaroni"
 title = "Lucia Cesaroni"
 website = "http://luciacesaroni.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/luciacee"
 +++

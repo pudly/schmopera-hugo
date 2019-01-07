@@ -10,7 +10,7 @@ slug = "martha-jones"
 title = "Martha Jones"
 website = "http://marthajonesmezzo.co.uk/Martha/Home.html"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/marthajmezzo"
 +++

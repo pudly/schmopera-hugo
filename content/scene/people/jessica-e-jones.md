@@ -9,7 +9,7 @@ slug = "jessica-e-jones"
 title = "Jessica E. Jones"
 website = "http://jessicaejones.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/jessopranojones"
 [[social_media]]

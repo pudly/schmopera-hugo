@@ -8,7 +8,7 @@ related_companies = ["scene/companies/against-the-grain-theatre.md","scene/compa
 slug = "keith-lam"
 title = "Keith Lam"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/baritonekeith"
 +++

@@ -10,7 +10,7 @@ slug = "matthew-sharp"
 title = "Matthew Sharp"
 website = "http://www.matthewsharp.net/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/mattdjsharp"
 +++

@@ -8,7 +8,7 @@ related_companies = ["scene/companies/calgary-opera-emerging-artist-development-
 slug = "stephanie-tritchew"
 title = "Stephanie Tritchew"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/StephT_mezzo"
 +++

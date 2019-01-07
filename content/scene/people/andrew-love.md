@@ -8,7 +8,7 @@ related_companies = ["scene/companies/pacific-opera-victoria.md","scene/companie
 slug = "andrew-love"
 title = "Andrew Love"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/andrewjlove"
 +++

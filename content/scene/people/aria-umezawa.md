@@ -9,7 +9,7 @@ slug = "aria-umezawa"
 title = "Aria Umezawa"
 website = "http://opera5.ca/team/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/woodstock7"
 +++

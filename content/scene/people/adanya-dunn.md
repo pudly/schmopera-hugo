@@ -9,7 +9,7 @@ slug = "adanya-dunn"
 title = "Adanya Dunn"
 website = "http://www.adanyadunn.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/addydear"
 +++

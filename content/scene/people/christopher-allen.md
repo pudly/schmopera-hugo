@@ -10,7 +10,7 @@ slug = "christopher-allen"
 title = "Christopher Allen"
 website = "http://www.christophergallen.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Moallen86"
 [[social_media]]

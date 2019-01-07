@@ -8,7 +8,7 @@ publishDate = "2016-08-23T12:01:00+01:00"
 slug = "sara-duchovnay"
 title = "Sara Duchovnay"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/SaraDuchovnay"
 [[social_media]]

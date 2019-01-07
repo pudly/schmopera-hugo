@@ -9,7 +9,7 @@ slug = "eliza-bonet"
 title = "Eliza Bonet"
 website = "http://www.elizabonet.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ElizaBonet"
 +++

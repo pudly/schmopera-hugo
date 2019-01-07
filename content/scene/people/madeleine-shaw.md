@@ -8,7 +8,7 @@ publishDate = "2017-02-03T10:41:00+00:00"
 slug = "madeleine-shaw"
 title = "Madeleine Shaw"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/maudalicious"
 +++

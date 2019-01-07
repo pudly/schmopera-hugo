@@ -9,7 +9,7 @@ title = "Beth Morrison Projects"
 type_of_company = "Opera & theatre company"
 website = "http://www.bethmorrisonprojects.org/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/bmpopera"
 [[social_media]]

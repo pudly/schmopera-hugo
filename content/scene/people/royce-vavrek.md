@@ -9,7 +9,7 @@ slug = "royce-vavrek"
 title = "Royce Vavrek"
 website = "http://royce-vavrek-t6zj.squarespace.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/rvavrek"
 +++

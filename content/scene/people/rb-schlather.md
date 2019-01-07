@@ -10,7 +10,7 @@ slug = "rb-schlather"
 title = "R.B. Schlather"
 website = "http://www.rbschlather.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/rbschlather"
 [[social_media]]

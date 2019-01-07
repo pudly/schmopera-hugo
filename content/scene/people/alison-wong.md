@@ -8,7 +8,7 @@ related_companies = ["scene/companies/myopera.md"]
 slug = "alison-wong"
 title = "Alison Wong"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/alleywo"
 +++

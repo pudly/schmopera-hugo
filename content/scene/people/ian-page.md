@@ -10,7 +10,7 @@ slug = "ian-page"
 title = "Ian Page"
 website = "http://www.classicalopera.co.uk/about/our-performers/ian-page/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/IanPageMozart"
 +++

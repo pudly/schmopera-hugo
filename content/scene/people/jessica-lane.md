@@ -9,7 +9,7 @@ slug = "jessica-lane"
 title = "Jessica Lane"
 website = "http://www.jessicalanesoprano.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/irrelevantdiva"
 +++

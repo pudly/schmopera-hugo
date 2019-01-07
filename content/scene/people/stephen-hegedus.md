@@ -9,7 +9,7 @@ slug = "stephen-hegedus"
 title = "Stephen Hegedus"
 website = "http://www.stephenhegedus.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/HegedusStephen"
 +++

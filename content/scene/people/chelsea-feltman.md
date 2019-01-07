@@ -9,7 +9,7 @@ slug = "chelsea-feltman"
 title = "Chelsea Feltman"
 website = "https://www.chelseafeltman.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ChelseaFeltman"
 [[social_media]]

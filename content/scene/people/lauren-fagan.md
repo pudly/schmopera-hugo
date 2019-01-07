@@ -9,7 +9,7 @@ related_companies = ["scene/companies/royal-opera-house.md","scene/companies/ope
 slug = "lauren-fagan"
 title = "Lauren Fagan"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/laurenashfagan"
 +++

@@ -10,7 +10,7 @@ slug = "ryan-macpherson"
 title = "Ryan MacPherson"
 website = "http://www.ryanmacpherson.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/tenorryan"
 +++

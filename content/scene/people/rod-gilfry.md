@@ -9,7 +9,7 @@ slug = "rod-gilfry"
 title = "Rod Gilfry"
 website = "http://www.rodgilfry.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/rodgil"
 +++

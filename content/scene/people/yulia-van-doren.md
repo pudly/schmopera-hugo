@@ -10,7 +10,7 @@ slug = "yulia-van-doren"
 title = "Yulia Van Doren"
 website = "http://www.yuliavandoren.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/yuliavandoren"
 +++

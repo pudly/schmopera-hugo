@@ -10,7 +10,7 @@ slug = "joel-allison"
 title = "Joel Allison"
 website = "http://www.joelallisonbassbaritone.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/JoelAllison92"
 [[social_media]]

@@ -8,7 +8,7 @@ related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md"
 slug = "aviva-fortunata"
 title = "Aviva Fortunata"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/avivafortunata"
 +++

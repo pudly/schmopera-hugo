@@ -8,7 +8,7 @@ related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/l
 slug = "lauren-snouffer"
 title = "Lauren Snouffer"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/LaurenSnouffer"
 [[social_media]]

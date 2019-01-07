@@ -9,7 +9,7 @@ slug = "craig-irvin"
 title = "Craig Irvin"
 website = "http://www.craigirvinbaritone.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/baritoneirvin"
 +++

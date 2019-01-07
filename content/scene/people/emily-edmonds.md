@@ -8,7 +8,7 @@ related_companies = ["scene/companies/royal-opera-house.md","scene/companies/sco
 slug = "emily-edmonds"
 title = "Emily Edmonds"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/emedmondssings"
 +++

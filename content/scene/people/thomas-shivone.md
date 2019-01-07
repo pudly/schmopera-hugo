@@ -9,7 +9,7 @@ slug = "thomas-shivone"
 title = "Thomas Shivone"
 website = "http://www.thomasshivone.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/tshivone"
 [[social_media]]

@@ -8,7 +8,7 @@ slug = "julie-nesrallah"
 title = "Julie Nesrallah"
 website = "http://www.julienesrallah.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/CBCTempo"
 [[social_media]]

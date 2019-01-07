@@ -8,7 +8,7 @@ slug = "claire-kuttler"
 title = "Claire Kuttler"
 website = "http://www.clairekuttler.com/live/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ckuttlertweets"
 [[social_media]]

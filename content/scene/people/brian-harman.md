@@ -9,7 +9,7 @@ slug = "brian-harman"
 title = "Brian Harman"
 website = "http://www.brianharman.ca/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Composerbrian"
 +++

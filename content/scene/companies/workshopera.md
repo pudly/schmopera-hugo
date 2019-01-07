@@ -8,7 +8,7 @@ title = "workshOPERA"
 type_of_company = "Opera Company"
 website = "http://www.workshopera.org.uk/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/workshOPERA/"
 +++

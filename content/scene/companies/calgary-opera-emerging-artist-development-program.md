@@ -9,7 +9,7 @@ title = "Calgary Opera Emerging Artist Development Program"
 type_of_company = "Young Artist Programme"
 website = "http://www.calgaryopera.com/emerging-artists"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/CalgaryOpera"
 +++

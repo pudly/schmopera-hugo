@@ -9,7 +9,7 @@ slug = "chris-thornborrow"
 title = "Chris Thornborrow"
 website = "http://www.christhornborrow.com/Chris_Thornborrow/Home.html"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/CThornborrow"
 +++

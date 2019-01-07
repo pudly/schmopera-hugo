@@ -9,7 +9,7 @@ title = "Bronx Opera"
 type_of_company = "Opera company"
 website = "http://bronxopera.org/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/BronxOpera"
 [[social_media]]

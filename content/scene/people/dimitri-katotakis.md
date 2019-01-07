@@ -8,7 +8,7 @@ related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md"
 slug = "dimitri-katotakis"
 title = "Dimitri Katotakis"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/DKatotakis"
 +++

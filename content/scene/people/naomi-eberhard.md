@@ -9,7 +9,7 @@ slug = "naomi-eberhard"
 title = "Naomi Eberhard"
 website = "http://www.naomieberhard.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Sopranistin247"
 +++

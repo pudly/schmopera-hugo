@@ -8,7 +8,7 @@ related_companies = ["scene/companies/university-of-toronto-opera.md","scene/com
 slug = "anna-theodosakis"
 title = "Anna Theodosakis"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/annatheodosakis"
 +++

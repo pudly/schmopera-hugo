@@ -9,7 +9,7 @@ slug = "elizabeth-mcdonald"
 title = "Elizabeth McDonald"
 website = "http://www.fromthevoiceof.com/home.html"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/fromthevoiceof"
 +++

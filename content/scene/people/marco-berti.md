@@ -9,7 +9,7 @@ related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companie
 slug = "marco-berti"
 title = "Marco Berti"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/BertiMarco"
 +++

@@ -9,7 +9,7 @@ slug = "gemma-summerfield"
 title = "Gemma Summerfield"
 website = "http://www.gemmaloissummerfieldsoprano.co.uk/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/GemmaLois1"
 +++

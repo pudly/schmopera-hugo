@@ -10,7 +10,7 @@ slug = "thomas-atkins"
 title = "Thomas Atkins"
 website = "http://www.thomasatkinstenor.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/AtkinsTenor"
 +++

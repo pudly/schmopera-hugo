@@ -8,7 +8,7 @@ related_companies = ["scene/companies/royal-opera-house.md"]
 slug = "aigul-akhmetshina"
 title = "Aigul Akhmetshina"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/aigulya1may96"
 +++

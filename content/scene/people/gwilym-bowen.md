@@ -8,7 +8,7 @@ slug = "gwilym-bowen"
 title = "Gwilym Bowen"
 website = "http://www.gwilymbowen.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/gwilymbowen"
 [[social_media]]

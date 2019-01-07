@@ -8,7 +8,7 @@ slug = "janani-sridhar"
 title = "Janani Sridhar"
 website = "http://jananisridhar.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/JSOpera_Voice"
 [[social_media]]

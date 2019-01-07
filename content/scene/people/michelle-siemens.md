@@ -9,7 +9,7 @@ slug = "michelle-siemens"
 title = "Michelle Siemens"
 website = "http://www.michellesiemens.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/mlbsiemens"
 +++

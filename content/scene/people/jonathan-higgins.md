@@ -8,7 +8,7 @@ slug = "jonathan-higgins"
 title = "Jonathan Higgins"
 website = "http://www.jphiggins.co.uk/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/j_p_higgins"
 [[social_media]]

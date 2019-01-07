@@ -10,7 +10,7 @@ slug = "jennifer-holloway"
 title = "Jennifer Holloway"
 website = "http://www.jenniferhollowaymezzo.com/jenniferhollowaymezzo.com/Home.html"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/jennhollowaaay"
 +++

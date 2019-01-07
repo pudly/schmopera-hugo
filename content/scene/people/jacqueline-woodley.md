@@ -12,7 +12,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/jacqueline.woodleysoprano.5?fref=ts"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/JacquelineWoodl"
 +++

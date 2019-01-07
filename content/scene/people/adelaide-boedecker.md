@@ -9,7 +9,7 @@ slug = "adelaide-boedecker"
 title = "Adelaide Boedecker"
 website = "http://www.adelaideboedecker.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/addieboedecker"
 [[social_media]]

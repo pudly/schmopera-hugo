@@ -9,7 +9,7 @@ slug = "alan-macdonald"
 title = "Alan MacDonald"
 website = "http://www.alanmacdonaldbaritone.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/alanjmacdonald"
 [[social_media]]

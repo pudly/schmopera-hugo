@@ -8,7 +8,7 @@ related_companies = ["scene/companies/indie-opera-to.md","scene/companies/lieder
 slug = "francesca-perez"
 title = "Francesca Perez"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/perezfrancesca"
 +++

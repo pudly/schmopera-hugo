@@ -9,7 +9,7 @@ slug = "elisabet-strid"
 title = "Elisabet Strid"
 website = "https://www.elisabetstridsoprano.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ElisabetStrid"
 

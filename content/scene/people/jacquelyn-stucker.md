@@ -9,7 +9,7 @@ slug = "jacquelyn-stucker"
 title = "Jacquelyn Stucker"
 website = "http://www.jacquelynstucker.com/home-juke/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/gonzosoprano"
 [[social_media]]

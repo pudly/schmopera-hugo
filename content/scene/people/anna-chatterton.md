@@ -8,7 +8,7 @@ related_companies = ["scene/companies/tapestry-opera.md","scene/companies/agains
 slug = "anna-chatterton"
 title = "Anna Chatterton"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/a_chatterton"
 +++

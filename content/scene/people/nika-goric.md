@@ -9,7 +9,7 @@ slug = "nika-goric"
 title = "Nika Gorič"
 website = "http://www.nikagoric.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/nikagoric?lang=en-gb"
 +++

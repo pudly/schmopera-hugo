@@ -9,7 +9,7 @@ slug = "stephen-gadd"
 title = "Stephen Gadd"
 website = "http://stephengadd.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/_Stephen_Gadd"
 +++

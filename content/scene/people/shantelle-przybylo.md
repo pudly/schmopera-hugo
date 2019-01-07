@@ -9,7 +9,7 @@ slug = "shantelle-przybylo"
 title = "Shantelle Przybylo"
 website = "http://againstthegraintheatre.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/przybylo"
 +++

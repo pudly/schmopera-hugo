@@ -8,7 +8,7 @@ related_companies = ["scene/companies/toronto-operetta-theatre.md","scene/compan
 slug = "gregory-finney"
 title = "Gregory Finney"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/gregory_finney"
 +++

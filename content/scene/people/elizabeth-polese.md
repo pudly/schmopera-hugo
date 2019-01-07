@@ -10,7 +10,7 @@ slug = "elizabeth-polese"
 title = "Elizabeth Polese"
 website = "https://www.elizabethpolese.ca/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/bethsingsongs"
 [[social_media]]

@@ -9,7 +9,7 @@ slug = "stephanie-windsorlewis"
 title = "Stephanie Windsor-Lewis"
 website = "http://www.stephaniewindsorlewis.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/StephanieWL4"
 +++

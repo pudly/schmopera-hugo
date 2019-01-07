@@ -10,7 +10,7 @@ slug = "jordan-rutter"
 title = "Jordan Rutter"
 website = "http://www.jordanrutter.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/jordanrutternyc"
 

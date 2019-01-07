@@ -9,7 +9,7 @@ related_companies = ["scene/companies/canadian-opera-company.md","scene/companie
 slug = "varduhi-abrahamyan"
 title = "Varduhi Abrahamyan"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Varduhi_Mezzo"
 +++

@@ -9,7 +9,7 @@ slug = "natalie-murray-beale"
 title = "Natalie Murray Beale"
 website = "http://www.murraybeale.com/index.html"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/NMurrayBeale"
 +++

@@ -9,7 +9,7 @@ slug = "heloise-werner"
 title = "Héloïse Werner"
 website = "http://heloisewerner.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Heloise_Werner"
 +++

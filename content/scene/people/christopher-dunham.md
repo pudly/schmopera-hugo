@@ -9,7 +9,7 @@ slug = "christopher-dunham"
 title = "Christopher Dunham"
 website = "http://www.christopherdunham.net/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/CDunhamBaritone"
 +++

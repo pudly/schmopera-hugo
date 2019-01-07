@@ -9,7 +9,7 @@ slug = "peter-bass"
 title = "Peter Bass"
 website = "http://www.peterbass.ca/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ThePeterBass"
 +++

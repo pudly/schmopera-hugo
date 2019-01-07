@@ -9,7 +9,7 @@ slug = "emily-dangelo"
 title = "Emily D&#039;Angelo"
 website = "http://www.emilydangelo.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/emilymezzo"
 +++

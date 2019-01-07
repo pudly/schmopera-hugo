@@ -9,7 +9,7 @@ slug = "christopher-james-ray"
 title = "Christopher James Ray"
 website = "http://www.christopherjamesray.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ChristopherJRay"
 +++

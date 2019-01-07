@@ -10,7 +10,7 @@ slug = "issachah-savage"
 title = "Issachah Savage"
 website = "http://issachah.weebly.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/IssachahSavage"
 +++

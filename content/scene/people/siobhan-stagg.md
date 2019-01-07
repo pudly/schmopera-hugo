@@ -9,7 +9,7 @@ slug = "siobhan-stagg"
 title = "Siobhan Stagg"
 website = "https://siobhanstagg.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/siobhanstagg"
 

@@ -9,7 +9,7 @@ slug = "samuel-levine"
 title = "Samuel Levine"
 website = "http://samuellevinetenor.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/SLevineSinger"
 +++

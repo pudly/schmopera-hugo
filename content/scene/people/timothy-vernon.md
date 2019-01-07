@@ -10,7 +10,7 @@ slug = "timothy-vernon"
 title = "Timothy Vernon"
 website = "http://www.pov.bc.ca/artistic_director.html"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/timothyjv"
 +++

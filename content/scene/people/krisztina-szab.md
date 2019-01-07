@@ -9,7 +9,7 @@ slug = "krisztina-szab"
 title = "Krisztina Szabó"
 website = "http://www.krisztinaszabo.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/KSzabs72"
 +++

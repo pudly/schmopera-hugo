@@ -9,7 +9,7 @@ slug = "anna-skryleva"
 title = "Anna Skryleva"
 website = "http://www.annaskryleva.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/SkrylevaA"
 +++

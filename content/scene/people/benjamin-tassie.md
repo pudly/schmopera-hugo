@@ -8,7 +8,7 @@ slug = "benjamin-tassie"
 title = "Benjamin Tassie"
 website = "http://benjamintassie.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/benjamintassie"
 +++

@@ -12,7 +12,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/pages/Ben-Heppner/186631898048768"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/benheppner"
 +++

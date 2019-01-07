@@ -13,7 +13,7 @@ platform = "Facebook"
 template = "social-media"
 url = ""
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/valeriebsoprano?ref_src=twsrc%5Etfw"
 +++

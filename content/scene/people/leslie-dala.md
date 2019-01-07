@@ -8,7 +8,7 @@ related_companies = ["scene/companies/vancouver-opera.md","scene/companies/edmon
 slug = "leslie-dala"
 title = "Leslie Dala"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/lesdala"
 +++

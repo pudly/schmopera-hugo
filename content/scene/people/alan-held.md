@@ -9,7 +9,7 @@ slug = "alan-held"
 title = "Alan Held"
 website = "http://www.alanheld.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/operalan"
 +++

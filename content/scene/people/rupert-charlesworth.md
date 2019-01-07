@@ -9,7 +9,7 @@ related_companies = ["scene/companies/english-national-opera.md"]
 slug = "rupert-charlesworth"
 title = "Rupert Charlesworth"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/RupieCharles"
 +++

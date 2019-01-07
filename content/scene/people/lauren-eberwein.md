@@ -10,7 +10,7 @@ slug = "lauren-eberwein"
 title = "Lauren Eberwein"
 website = "http://www.laureneberwein.com/#!home-/mainPage"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/LaurenEberwein"
 

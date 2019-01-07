@@ -9,7 +9,7 @@ slug = "kate-applin"
 title = "Kate Applin"
 website = "http://www.metroyouthopera.ca/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/kateapplin"
 +++

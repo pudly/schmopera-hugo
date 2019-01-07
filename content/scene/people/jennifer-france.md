@@ -9,7 +9,7 @@ related_companies = ["scene/companies/classical-opera.md","scene/companies/opera
 slug = "jennifer-france"
 title = "Jennifer France"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/jenni_france"
 +++

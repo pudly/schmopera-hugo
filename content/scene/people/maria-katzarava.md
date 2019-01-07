@@ -8,7 +8,7 @@ related_companies = ["scene/companies/royal-opera-house.md","scene/companies/tea
 slug = "maria-katzarava"
 title = "Maria Katzarava"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/maria_katzarava?lang=en"
 +++

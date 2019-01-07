@@ -9,7 +9,7 @@ slug = "kacey-cardin"
 title = "Kacey Cardin"
 website = "https://www.kaceycardin.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/creativecoachkc"
 [[social_media]]

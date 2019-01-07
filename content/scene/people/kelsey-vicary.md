@@ -9,7 +9,7 @@ slug = "kelsey-vicary"
 title = "Kelsey Vicary"
 website = "http://www.kelseyvicary.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/kelseyvicary"
 [[social_media]]

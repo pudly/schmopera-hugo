@@ -9,7 +9,7 @@ slug = "jane-archibald"
 title = "Jane Archibald"
 website = "http://janearchibald.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ArchibaldJane"
 +++

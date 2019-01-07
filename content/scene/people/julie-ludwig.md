@@ -9,7 +9,7 @@ slug = "julie-ludwig"
 title = "Julie Ludwig"
 website = "http://julieludwig.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/JulieLudwigSop"
 +++

@@ -8,7 +8,7 @@ slug = "lidiya-yankovskaya"
 title = "Lidiya Yankovskaya"
 website = "http://www.lidiyayankovskaya.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/lidiyaconductor"
 +++

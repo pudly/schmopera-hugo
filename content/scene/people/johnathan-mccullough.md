@@ -9,7 +9,7 @@ slug = "johnathan-mccullough"
 title = "Johnathan McCullough"
 website = "https://mcculloughbaritone.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/johnmcbaritone"
 +++

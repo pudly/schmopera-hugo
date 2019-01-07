@@ -8,7 +8,7 @@ related_companies = ["scene/companies/tapestry-opera.md","scene/companies/indie-
 slug = "michael-mori"
 title = "Michael Mori"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/michaelhmori"
 +++

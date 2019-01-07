@@ -10,7 +10,7 @@ slug = "vito-priante"
 title = "Vito Priante"
 website = "http://www.vito-priante.com/home"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/VitoPriante"
 +++

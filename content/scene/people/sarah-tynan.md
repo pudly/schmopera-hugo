@@ -10,7 +10,7 @@ slug = "sarah-tynan"
 title = "Sarah Tynan"
 website = "http://www.sarahtynan.com/index.html"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/LaTynan"
 +++

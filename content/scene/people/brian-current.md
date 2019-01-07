@@ -9,7 +9,7 @@ slug = "brian-current"
 title = "Brian Current"
 website = "http://www.briancurrent.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/bcurrent"
 +++

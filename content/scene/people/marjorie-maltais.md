@@ -8,7 +8,7 @@ related_companies = ["scene/companies/music-academy-of-the-west-voice-program.md
 slug = "marjorie-maltais"
 title = "Marjorie Maltais"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/MezzoMarjo"
 +++

@@ -10,7 +10,7 @@ slug = "jonathan-burton"
 title = "Jonathan Burton"
 website = "http://jburtontenor.com/index.asp"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/jburtontenor"
 +++

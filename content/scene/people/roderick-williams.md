@@ -8,7 +8,7 @@ related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the
 slug = "roderick-williams"
 title = "Roderick Williams OBE"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Sviceridor"
 +++

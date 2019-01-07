@@ -9,7 +9,7 @@ related_companies = ["scene/companies/scottish-opera.md","scene/companies/tapest
 slug = "nicholas-sharratt"
 title = "Nicholas Sharratt"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ndmsharratt"
 [[social_media]]

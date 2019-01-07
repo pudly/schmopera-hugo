@@ -8,7 +8,7 @@ slug = "lana-bode"
 title = "Lana Bode"
 website = "https://www.lanabode.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/lana_bode/"
 +++

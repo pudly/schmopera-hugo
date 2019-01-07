@@ -14,7 +14,7 @@ platform = "Facebook"
 template = "social-media"
 url = "http://www.facebook.com/SamanthaHankeyMezzo"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/SamanthaHankey"
 [[social_media]]

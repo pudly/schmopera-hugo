@@ -8,7 +8,7 @@ slug = "kieren-macmillan"
 title = "Kieren MacMillan"
 website = "http://kierenmacmillan.info/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/KMac_Composer"
 +++

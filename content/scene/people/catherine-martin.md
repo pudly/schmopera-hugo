@@ -9,7 +9,7 @@ slug = "catherine-martin"
 title = "Catherine Martin"
 website = "http://www.catherinemartinmezzo.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/CatherineMMezzo"
 [[social_media]]

@@ -9,7 +9,7 @@ slug = "joni-henson"
 title = "Joni Henson"
 website = "http://www.jonihensonsoprano.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/saultsop"
 +++

@@ -10,7 +10,7 @@ slug = "benjamin-hulett"
 title = "Benjamin Hulett"
 website = "http://www.benjaminhulett.com/index.php"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ben_hulett"
 +++

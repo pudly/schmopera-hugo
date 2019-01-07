@@ -9,7 +9,7 @@ slug = "whitney-ohearn"
 title = "Whitney O&#039;Hearn"
 website = "http://whitneyohearn.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/whitneyohearn"
 +++

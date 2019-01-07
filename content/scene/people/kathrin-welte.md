@@ -10,7 +10,7 @@ slug = "kathrin-welte"
 title = "Kathrin Welte"
 website = "http://www.kathrinwelte.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/kathrin_welte"
 +++

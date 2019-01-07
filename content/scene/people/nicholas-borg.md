@@ -8,7 +8,7 @@ related_companies = ["scene/companies/university-of-toronto-opera.md","scene/com
 slug = "nicholas-borg"
 title = "Nicholas Borg"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/borgatone"
 [[social_media]]

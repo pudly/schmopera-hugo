@@ -9,7 +9,7 @@ slug = "michael-park"
 title = "Michael Park"
 website = "http://www.michaelpark.ca/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/mumblymumbly"
 [[social_media]]

@@ -10,7 +10,7 @@ slug = "julien-van-mellaerts"
 title = "Julien Van Mellaerts"
 website = "https://www.julienvanmellaerts.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/julienvmnz"
 +++

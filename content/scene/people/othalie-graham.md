@@ -9,7 +9,7 @@ slug = "othalie-graham"
 title = "Othalie Graham"
 website = "http://www.othaliegrahamsoprano.com/index.htm"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/@OthalieGraham"
 +++

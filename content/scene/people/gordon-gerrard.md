@@ -9,7 +9,7 @@ slug = "gordon-gerrard"
 title = "Gordon Gerrard"
 website = "http://www.gordongerrard.com/index.php"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/GordonTGerrard"
 +++

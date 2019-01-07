@@ -12,7 +12,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/Adam-Sherkin-138799642832970/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/adamsherkin"
 [[social_media]]

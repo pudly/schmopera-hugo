@@ -9,7 +9,7 @@ slug = "marta-fontanalssimmons"
 title = "Marta Fontanals-Simmons"
 website = "http://www.martafontanals.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/@MartaFontanals"
 [[social_media]]

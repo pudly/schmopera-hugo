@@ -10,7 +10,7 @@ slug = "philippe-sly"
 title = "Philippe Sly"
 website = "http://philippesly.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/philippesly"
 +++

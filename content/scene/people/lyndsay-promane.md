@@ -9,7 +9,7 @@ slug = "lyndsay-promane"
 title = "Lyndsay Promane"
 website = "https://about.me/lyndsaypromane"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/lyndsaypromane"
 [[social_media]]

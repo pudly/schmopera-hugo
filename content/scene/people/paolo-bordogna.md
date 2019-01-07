@@ -8,7 +8,7 @@ related_companies = ["scene/companies/washington-national-opera.md","scene/compa
 slug = "paolo-bordogna"
 title = "Paolo Bordogna"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/bordognapaolo"
 +++

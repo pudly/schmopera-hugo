@@ -8,7 +8,7 @@ slug = "kate-conklin"
 title = "Kate Conklin"
 website = "http://kateconklin.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/kateconklin"
 +++

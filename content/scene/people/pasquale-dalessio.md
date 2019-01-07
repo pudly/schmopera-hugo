@@ -9,7 +9,7 @@ slug = "pasquale-dalessio"
 title = "Pasquale D&#039;Alessio"
 website = "https://videoman.bandcamp.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/PasqDalessio"
 +++

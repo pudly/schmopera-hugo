@@ -10,7 +10,7 @@ slug = "marion-newman"
 title = "Marion Newman"
 website = "http://www.marionnewman.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/missprill"
 +++

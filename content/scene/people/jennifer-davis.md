@@ -9,7 +9,7 @@ related_companies = ["scene/companies/royal-opera-house.md"]
 slug = "jennifer-davis"
 title = "Jennifer Davis"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/jennie0909"
 +++

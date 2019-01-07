@@ -9,7 +9,7 @@ slug = "kate-howden"
 title = "Kate Howden"
 website = "http://www.katehowden.co.uk/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/katehowden"
 +++

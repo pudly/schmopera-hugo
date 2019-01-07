@@ -10,7 +10,7 @@ slug = "shelley-jackson"
 title = "Shelley Jackson"
 website = "http://shelleyjacksonsoprano.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/sjacksonsoprano"
 [[social_media]]

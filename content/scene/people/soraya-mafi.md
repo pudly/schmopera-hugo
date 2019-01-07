@@ -10,7 +10,7 @@ slug = "soraya-mafi"
 title = "Soraya Mafi"
 website = "http://www.sorayamafi.co.uk/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/SorayaMafi"
 +++

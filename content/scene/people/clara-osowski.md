@@ -9,7 +9,7 @@ slug = "clara-osowski"
 title = "Clara Osowski"
 website = "http://www.claraosowski.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/mezzosowski"
 [[social_media]]

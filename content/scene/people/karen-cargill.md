@@ -8,7 +8,7 @@ related_companies = ["scene/companies/glyndebourne.md","scene/companies/royal-op
 slug = "karen-cargill"
 title = "Karen Cargill"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/cargillmezzo"
 +++

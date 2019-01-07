@@ -9,7 +9,7 @@ slug = "edward-parks"
 title = "Edward Parks"
 website = "http://www.edwardparksiii.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Edward_Parks"
 +++

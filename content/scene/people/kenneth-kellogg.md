@@ -10,7 +10,7 @@ slug = "kenneth-kellogg"
 title = "Kenneth Kellogg"
 website = "http://www.kennethkellogg.com/index.html"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/kkellogg79"
 [[social_media]]

@@ -9,7 +9,7 @@ slug = "shauna-yarnell"
 title = "Shauna Yarnell"
 website = "http://www.shaunayarnell.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/shaunayarnell"
 +++

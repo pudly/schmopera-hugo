@@ -8,7 +8,7 @@ related_companies = ["scene/companies/royal-opera-house.md","scene/companies/ope
 slug = "ross-ramgobin"
 title = "Ross Ramgobin"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/rossramgobin?lang=en"
 +++

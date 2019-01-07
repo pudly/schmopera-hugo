@@ -10,7 +10,7 @@ slug = "eliza-johnson"
 title = "Eliza Johnson"
 website = "http://elizajohnson.ca/index.html"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ElizaJohnsonSop"
 [[social_media]]

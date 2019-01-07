@@ -8,7 +8,7 @@ related_companies = ["scene/companies/english-national-opera.md","scene/companie
 slug = "rebecca-evans"
 title = "Rebecca Evans"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/RebeccaEvansSop"
 +++

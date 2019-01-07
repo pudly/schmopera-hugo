@@ -7,7 +7,7 @@ publishDate = "2016-11-25T13:23:00+00:00"
 slug = "breanna-sinclaire"
 title = "Breanna Sinclairé"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/bronzequeen2911"
 +++

@@ -8,7 +8,7 @@ related_companies = ["scene/companies/lopra-de-montral.md","scene/companies/deut
 slug = "etienne-dupuis"
 title = "Etienne Dupuis"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/etiennelovesya"
 +++

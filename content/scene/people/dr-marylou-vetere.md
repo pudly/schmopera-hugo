@@ -11,7 +11,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/pages/The-Vetere-Studio/445497665503736?fref=nf"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/MaryLouVetere"
 +++

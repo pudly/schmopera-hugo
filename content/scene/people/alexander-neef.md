@@ -8,7 +8,7 @@ related_companies = ["scene/companies/canadian-opera-company.md"]
 slug = "alexander-neef"
 title = "Alexander Neef"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/alexanderncoc"
 +++

@@ -13,7 +13,7 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/New-York-City-Opera-Renaissance-NYCO-Renaissance-727450753974650/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/nycorenaissance"
 [[social_media]]

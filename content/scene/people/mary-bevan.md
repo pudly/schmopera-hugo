@@ -9,7 +9,7 @@ related_companies = ["scene/companies/english-national-opera.md","scene/companie
 slug = "mary-bevan"
 title = "Mary Bevan"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/MaryCBevan"
 +++

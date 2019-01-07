@@ -8,7 +8,7 @@ related_companies = ["scene/companies/the-dallas-opera.md","scene/companies/san-
 slug = "talise-trevigne"
 title = "Talise Trevigne"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/trevignestimbre"
 +++

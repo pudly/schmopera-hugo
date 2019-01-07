@@ -14,7 +14,7 @@ platform = "Facebook"
 template = "social-media"
 url = "http://www.juliadawsonmezzo.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/jsldawson"
 

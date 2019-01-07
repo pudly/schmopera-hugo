@@ -9,7 +9,7 @@ slug = "adrian-kramer"
 title = "Adrian Kramer"
 website = "http://www.adriankramertenor.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/aitkramer"
 [[social_media]]

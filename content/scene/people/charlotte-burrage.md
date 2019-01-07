@@ -8,7 +8,7 @@ related_companies = ["scene/companies/canadian-opera-company.md","scene/companie
 slug = "charlotte-burrage"
 title = "Charlotte Burrage"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/burragec"
 +++

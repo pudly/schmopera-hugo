@@ -9,7 +9,7 @@ slug = "janaka-welihinda"
 title = "Janaka Welihinda"
 website = "http://www.janakawelihinda.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/JanakaGW"
 +++

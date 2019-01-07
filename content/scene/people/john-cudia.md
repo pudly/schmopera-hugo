@@ -9,7 +9,7 @@ slug = "john-cudia"
 title = "John Cudia"
 website = "https://www.johncudia.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/johncudia"
 

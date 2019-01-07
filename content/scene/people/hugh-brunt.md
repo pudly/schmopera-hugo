@@ -9,7 +9,7 @@ slug = "hugh-brunt"
 title = "Hugh Brunt"
 website = "http://www.hughbrunt.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/hughbrunt"
 

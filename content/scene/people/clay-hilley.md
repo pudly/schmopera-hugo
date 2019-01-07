@@ -10,7 +10,7 @@ slug = "clay-hilley"
 title = "Clay Hilley"
 website = "http://www.clayhilleytenor.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/HilleyClay"
 

@@ -10,7 +10,7 @@ slug = "james-levesque"
 title = "James Levesque"
 website = "http://www.jameslevesque.com/main/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/jimmyjimjoes"
 +++

@@ -8,7 +8,7 @@ related_companies = ["scene/companies/liederwolfe-opera-collective.md","scene/co
 slug = "lindsay-michael"
 title = "Lindsay Michael"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/lindsaymic"
 +++

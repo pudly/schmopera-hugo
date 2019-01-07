@@ -10,7 +10,7 @@ slug = "mario-chang"
 title = "Mario Chang"
 website = "http://www.mariochang.com/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/MarioChangTenor"
 +++

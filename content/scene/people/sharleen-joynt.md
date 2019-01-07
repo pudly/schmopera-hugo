@@ -8,7 +8,7 @@ related_companies = ["scene/companies/against-the-grain-theatre.md"]
 slug = "sharleen-joynt"
 title = "Sharleen Joynt"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/sharleenjoynt"
 +++

@@ -9,7 +9,7 @@ related_companies = ["scene/companies/pocket-concerts.md"]
 slug = "rory-mcleod"
 title = "Rory McLeod"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/Rory_McLeod"
 +++
