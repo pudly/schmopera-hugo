@@ -1,6 +1,5 @@
 +++
 discipline = "Mezzo-soprano"
-draft = true
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546832435/media/2019/01/DanielleMacMillan.png"
 primary_image_credit = "Sam Gaetz Photography"
 related_companies = ["scene/companies/against-the-grain-theatre.md", "scene/companies/palm-beach-opera.md", "scene/companies/canadian-opera-company-ensemble-studio.md", "scene/companies/canadian-opera-company.md"]
