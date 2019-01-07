@@ -2,10 +2,10 @@
 date = "2015-06-08T22:48:00-04:00"
 discipline = "Mezzo-soprano"
 lastmod = "2017-09-19T11:39:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505835436444/e0e37d_a3b62cba10a74dc2bdc004f980cb4953.webp"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546831062/media/2019/01/JuliaDawson.jpg"
 primary_image_credit = "Hailey Dennis"
 publishDate = "2015-06-09T08:41:00-04:00"
-related_companies = ["scene/companies/oberlin-college-and-conservatory.md","scene/companies/music-academy-of-the-west-voice-program.md"]
+related_companies = ["scene/companies/oberlin-college-and-conservatory.md", "scene/companies/music-academy-of-the-west-voice-program.md"]
 slug = "julia-dawson"
 title = "Julia Dawson"
 website = "http://www.juliadawsonmezzo.com/"
@@ -17,8 +17,8 @@ url = "http://www.juliadawsonmezzo.com/"
 platform = " Twitter"
 template = "social-media"
 url = "https://twitter.com/jsldawson"
-+++
 
++++
 Hailed by Opera News as “strikingly lovely” and the Los Angeles Times as a singer who “can release roulades of coloratura with a shimmering sound”, rising Canadian mezzo-soprano Julia Dawson enjoys increasing exposure both on the opera stage and in the concert hall.
 The 2016 – 2017 season sees Ms. Dawson return to Oper Frankfurt as a studio member singing Dorotea in Verdi’s *Stiffelio*, Countess Ceprano in *Rigoletto*, and Moppet, a Cat and Wild Goose in a new production of Britten’s *Paul Bunyan*.
 
