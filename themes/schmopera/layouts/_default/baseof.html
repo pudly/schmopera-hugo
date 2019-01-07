@@ -26,7 +26,7 @@
     <link rel="shortcut icon" href="/images/favicon.png">
     <link rel="apple-touch-icon" href="/images/touch-icon.png">
 
-    {{- $style := resources.Get "sass/schmopera.scss" | toCSS | minify | fingerprint -}}
+    {{- $style := resources.Get "sass/schmopera.scss" | toCSS | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
   </head>
   <body>

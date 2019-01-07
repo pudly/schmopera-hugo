@@ -13,7 +13,7 @@ recent articles
 <nav id="nav-primary" class="nav--primary">
   <div class="container">
     <section class="nav--primary_content">
-      {{/*
+      {{- /*
 
         TODO:
         Search
@@ -22,16 +22,16 @@ recent articles
         <input type="text" name="q" placeholder="Search the site..." id="tipue_search_input" />
         <button type="submit"><i class="icon-search"></i></button>
       </form>
-      */}}
+      */ -}}
 
-      {{/* share */}}
+      {{- /* share */ -}}
       <nav class="nav--share">
         <h3>Share this page</h3>
         <a href="https://www.facebook.com/sharer/sharer.php?u={ site_url }{ getCurrentUrl()|replace('&', '&amp;', 'g') }" class="social--facebook pill" title="Share on Facebook"><i class="icon-facebook"></i> Share <em class="social--count_facebook" data-url="{ site_url }{ getCurrentUrl()|replace('&', '&amp;', 'g') }"></em></a>
         <a href="https://twitter.com/share?url={ site_url }{ getCurrentUrl()|replace('&', '&amp;', 'g') }&via=schmopera&text={ item.name|url_encode|default('Schmopera, opera from another angle') }" class="social--twitter pill" title="Share on Twitter"><i class="icon-twitter"></i> Tweet <em class="social--count_twitter" data-url="{ site_url }{ getCurrentUrl()|replace('&', '&amp;', 'g') }"></em></a>
       </nav>
 
-      {{/* site map */}}
+      {{- /* site map */ -}}
       <nav class="nav--primary_sitemap">
         <h3>The Blog</h3>
         <ul>
