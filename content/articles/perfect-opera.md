@@ -25,4 +25,6 @@ But the simple truth is that, particularly for young opera lovers, a new - well,
 
 We can now play a fantasy-football-like game of imagining the opera cast of our dreams. What would it be like to hear Christine Goerke sing Brünnhilde opposed Jon Vickers' Siegfried? Or to hear _La fille du régiment_ with Javier Camarena and Beverly Sills? Marilyn Horne's Adalgisa with Sondra Radvanovsky's Norma? 
 
-Or! _Don Carlo_, with Plácido Domingo's hologram in the title role, and the real-life Plácido Domingo as Rodrigo? Add a little Jamie Barton as Eboli, and Nicolai Ghiaurov as Philip II? Yum.
+Or! _Don Carlo_, with Plácido Domingo's hologram in the title role, and the real-life Plácido Domingo as Rodrigo? Add a little Jamie Barton as Eboli, and Nicolai Ghiaurov as Philip II? Delicious.
+
+So, readers, onto the important questions: what's the cross-generational opera cast of your dreams? And do you think, anytime soon, we'll start seeing a mélange of flesh-and-bone singers with holograms on the world's opera stages?
