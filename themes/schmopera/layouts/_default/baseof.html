@@ -6,6 +6,8 @@
     <title>{{.Title | htmlUnescape }}</title>
     {{ if .Params.short_description -}}
     <meta name="description" content='{{ .Params.short_description }}'>
+    {{- else if .Summary -}}
+    <meta name="description" content='{{ .Summary }}'>
     {{- else -}}
     <meta name="description" content='Schmopera exists because opera is a current and evolving art, and the people that make it happen have plenty to say about it. Singers, conductors, stage managers and pianists will all bring their skills and ideas to the rehearsal, and Schmopera wants to make those ideas accessible to the opera-loving public. Our contributors are professionals in the operatic world, and we&#39;re using our insider information to talk about what&#39;s working about the industry, and what isn&#39;t.'>
     {{- end }}

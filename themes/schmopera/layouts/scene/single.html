@@ -11,8 +11,8 @@
 {{- define "og_title" -}}{{ .Title | htmlUnescape }}{{- end -}}
 {{- define "og_type" -}}profile{{- end -}}
 {{- define "og_url" -}}{{ .Permalink }}{{- end -}}
-{{- define "og_image" -}}{{ replace .Params.primary_image "/upload/" "/upload/w_740,h_740,c_fill,g_faces/" }}{{- end -}}
-{{- define "og_description" -}}{{ .Params.short_description | htmlUnescape }}{{- end -}}
+{{- define "og_image" -}}{{ replace .Params.primary_image "/upload/" "/upload/w_740,h_740,c_fill,g_face/" }}{{- end -}}
+{{- define "og_description" -}}{{ .Summary }}{{- end -}}
 
 {{- define "main" -}}
 
