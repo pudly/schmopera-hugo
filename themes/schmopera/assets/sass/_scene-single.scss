@@ -159,6 +159,8 @@
   clear: left;
   min-height: 80vh;
 
+  padding: 0 20px;
+
   h3.pill {
     display: inline-block;
     float: none;
@@ -170,6 +172,7 @@
 
   @include bp-medium {
     margin-right: 270px;
+    padding: 0;
   }
 
   @include bp-tablet {
@@ -227,6 +230,11 @@
 ----------------------------------------------------- */
 .__person {
   .scene--single_hero {
+    padding: 0 20px;
+
+    @include bp-medium {
+      padding: 0;
+    }
 
     .single--scene_meta {
       margin-top: 20px;

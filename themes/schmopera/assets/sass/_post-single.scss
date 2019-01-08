@@ -377,6 +377,21 @@
   clear: left;
   padding: 0 0 0 10px !important;
 
+  a {
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+      em {
+        color: $sch-blue;
+      }
+
+      img {
+        box-shadow: 0 0 0 5px $sch-blue;
+      }
+    }
+  }
+
   picture, img {
     width: 40px !important;
     height: 40px !important;

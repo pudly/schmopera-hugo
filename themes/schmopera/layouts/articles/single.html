@@ -86,12 +86,14 @@
       {{ with .Params.author }}
         {{ range $author := . }}
           {{ with $.Site.GetPage "page" $author }}
+          <a href="{{ .Permalink }}">
           <picture class="post--meta-author_image">
             {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/w_80,h_80,c_fill,g_face/" }}
             {{ $imglg := replace .Params.primary_image "/upload/" "/upload/w_160,h_160,c_fill,g_face/" }}
             <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
           </picture>
           <em>{{ .Title }}</em>
+          </a>
           {{ end }}
         {{ end }}
       {{ end }}
@@ -188,7 +190,7 @@
         <i class="icon-arrow-right"></i>
         <span>{{.Title | htmlUnescape }}</span>
       </a>
-    {{- end -}}
+      {{- end -}}
     </nav>
 
 
