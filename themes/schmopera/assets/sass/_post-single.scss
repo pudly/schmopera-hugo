@@ -118,16 +118,11 @@
 
 
 /* -----------------------------------------------------
-    _disclaimer
-    primary content disclaimer
------------------------------------------------------ */
-
-
-/* -----------------------------------------------------
     _preamble
     primary content preamble
 ----------------------------------------------------- */
-.post--single_preamble {
+.post--single_preamble,
+.post--single_disclaimer {
   padding: 20px 0;
   line-height: 1.6em;
   margin: -20px 20px;
@@ -151,8 +146,28 @@
   p:last-child {
     margin-bottom: 0;
   }
-  @include bp-medium {
+
+  @include bp-large {
     margin: -40px 20px;
+  }
+}
+
+
+/* -----------------------------------------------------
+    _disclaimer
+    primary content disclaimer
+----------------------------------------------------- */
+.post--single_disclaimer {
+  border-color: #c00;
+  color: #c00;
+}
+
+.post--single_disclaimer +
+.post--single_preamble {
+  margin-top: -41px;
+
+  @include bp-large {
+    margin-top: -61px;
   }
 }
 
@@ -358,9 +373,6 @@
     _authors
     Author detailes in a single post
 ----------------------------------------------------- */
-.post--single_hero + .post--single_authors {
-
-}
 .post--single_authors {
   clear: left;
   padding: 0 0 0 10px !important;
@@ -461,9 +473,6 @@
         &.__coupled {
           margin-bottom: -40px;
         }
-      }
-
-      ul > li {
       }
     }
   }

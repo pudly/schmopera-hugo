@@ -25,6 +25,9 @@
       text-decoration: none;
 
       picture {
+        display: block;
+        background: url(/images/loading.gif) no-repeat 50% 50%;
+        background-size: 64px 64px;
       }
 
       img {

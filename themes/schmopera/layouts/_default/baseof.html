@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{{.Title | htmlUnescape }}</title>
+    <title>{{- block "page_title" . -}}{{.Title | htmlUnescape }}{{- end -}}</title>
     {{ if .Params.short_description -}}
     <meta name="description" content='{{ .Params.short_description }}'>
     {{- else if .Summary -}}

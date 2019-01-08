@@ -9,7 +9,7 @@ slug = "kim-pensinger-witman"
 title = "Kim Pensinger Witman"
 website = "http://opera.wolftrap.org/blog/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/kimpwitman"
 +++

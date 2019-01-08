@@ -7,7 +7,7 @@ short_bio = "Molly Pinson Simoneau is a soprano and writer based in Washington, 
 slug = "molly-simoneau"
 title = "Molly Simoneau"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/operarocksme"
 +++

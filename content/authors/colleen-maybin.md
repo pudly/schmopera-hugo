@@ -8,7 +8,7 @@ slug = "colleen-maybin"
 title = "Colleen Maybin"
 website = "http://www.vancouveropera.ca/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/cbmaybin"
 +++

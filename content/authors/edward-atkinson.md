@@ -13,7 +13,7 @@ platform = "Facebook"
 template = "social-media"
 url = "http://www.facebook.com/edwardatkinson"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "http://www.twitter.com/edwardatkinson"
 +++

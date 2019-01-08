@@ -1,5 +1,8 @@
+{{- define "page_title" -}}{{- with .Site.GetPage "/about/about.md" -}}{{- .Title -}}{{- end -}}{{- end -}}
+
 {{ define "main" }}
   {{ with .Site.GetPage "/about/about.md" }}
+
   <h1 class="pill">{{ .Title }}</h1>
   <article class="about--content">
     {{ .Content }}

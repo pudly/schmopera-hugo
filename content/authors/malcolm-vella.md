@@ -9,7 +9,7 @@ slug = "malcolm-vella"
 title = "Malcolm Vella"
 website = "https://twitter.com/vellamalcolm"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/vellamalcolm"
 +++

@@ -7,7 +7,7 @@ short_bio = "Dan Kempson is a current MBA Candidate at Columbia Business School,
 slug = "dan-kempson"
 title = "Dan Kempson"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/kempsondan"
 +++

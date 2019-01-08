@@ -9,7 +9,7 @@ slug = "drej"
 title = "Andrej Simeonov"
 website = "http://www.pud.ca/"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "http://twitter.com/dr_drej/"
 +++

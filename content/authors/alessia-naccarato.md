@@ -7,7 +7,7 @@ short_bio = "Alessia Naccarato is a Canadian mezzo-soprano currently living in L
 slug = "alessia-naccarato"
 title = "Alessia Naccarato"
 [[social_media]]
-platform = " Twitter"
+platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/alinaccs"
 +++
