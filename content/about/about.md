@@ -1,6 +1,5 @@
 ---
 title: "About Schmopera"
-url: "/about/"
 ---
 
 ## THIS IS WHAT WE'RE ABOUT.
