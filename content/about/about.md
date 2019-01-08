@@ -1,6 +1,6 @@
 ---
 title: "About Schmopera"
-slug: "/"
+url: "/about/"
 ---
 
 ## THIS IS WHAT WE'RE ABOUT.
