@@ -15,7 +15,7 @@
   <section>
     <nav class="scene--list __micro __full">
       <ul>
-      {{- range .Pages -}}
+      {{- range sort .Pages "Title" -}}
         <li data-filter="{{ .Title }} {{ .Params.discipline }}">
           <a href="{{ .Permalink }}">
             <picture class="scene--list-item_image">
