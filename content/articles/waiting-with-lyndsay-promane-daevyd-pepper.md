@@ -11,10 +11,8 @@ related_people = ["scene/people/lyndsay-promane.md","scene/people/daevyd-pepper.
 short_description = "Mezzo-soprano Lyndsay Promane and tenor Daevyd Pepper are getting ready to present Waiting: a recital, on June 13th at 7:30, Islington United Church, with pianist Natasha Fransblow. "
 slug = "waiting-with-lyndsay-promane-daevyd-pepper"
 title = "Waiting with Lyndsay Promane &amp; Daevyd Pepper"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/zCmQsdQ-dhs"
+
+youtube_url ="https://youtu.be/zCmQsdQ-dhs"
 +++
 
 Mezzo-soprano [Lyndsay Promane](/scene/people/lyndsay-promane/) and tenor [Daevyd Pepper](/scene/people/daevyd-pepper/) are getting ready to present *Waiting: a recital*, on June 13th at 7:30, Islington United Church, with pianist [Natasha Fransblow](https://twitter.com/tashfrans). The recital is to help Lynsday and Daevyd to raise funds for their trip to Sulmona, Italy, where they'll train and gain stage experience at the [Centre for Opera Studies in Italy](/scene/companies/cosi-centre-for-opera-studies-in-italy/). Lyndsay, Daevyd, and Natasha will present works by Ravel, Tosti, G&S, and more.

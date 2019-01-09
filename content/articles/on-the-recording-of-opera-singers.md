@@ -10,10 +10,8 @@ related_people = ["scene/people/isaiah-bell.md","scene/people/christopher-mayell
 short_description = "Canadian tenors Isaiah Bell and Christopher Mayell are thoughtful guys. Here, they chat about the tricky task of recording by opera singers; they talk about why it&#039;s difficult, why it&#039;s not the same as performing live, and why they should have to do it in the first place."
 slug = "on-the-recording-of-opera-singers"
 title = "On the recording of opera singers"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "http://youtu.be/GKN27ZVONRQ"
+
+youtube_url ="http://youtu.be/GKN27ZVONRQ"
 +++
 
 Canadian tenors [Isaiah Bell](Isaiahbell.com) and [Christopher Mayell](http://christophermayell.com/) are thoughtful guys. Here, they chat about the tricky task of recording by opera singers; they talk about why it's difficult, why it's not the same as performing live, and why they should have to do it in the first place.

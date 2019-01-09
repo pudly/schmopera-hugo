@@ -12,10 +12,8 @@ related_people = ["scene/people/layla-claire.md"]
 short_description = "A portable practice focused largely on breath, it&#039;s no wonder why opera singers are such fans of yoga. Canadian soprano Layla Claire is one of those singers who swears by yoga as part of her daily warm-up; if you&#039;ve ever heard her sing, it&#039;s clear that her warm-up routine is serving her very well."
 slug = "layla-claire-soprano-yogi"
 title = "Layla Claire, soprano &amp; yogi"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/lWBJsx6vS68"
+
+youtube_url ="https://youtu.be/lWBJsx6vS68"
 +++
 
 A portable practice focused largely on breath, it's no wonder why opera singers are such fans of yoga. Canadian soprano [Layla Claire](/talking-with-singers-layla-claire/) is one of those singers who swears by yoga as part of her daily warm-up; if you've ever heard her sing, it's clear that her warm-up routine is serving her very well.

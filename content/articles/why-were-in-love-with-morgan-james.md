@@ -10,10 +10,8 @@ related_articles = ["articles/5-popish-songs-their-operatic-equivalents.md","art
 short_description = "Want to hear something nuts? Check out the video above, where she covers Aqua&#039;s &quot;Barbie Girl&quot; (remember Aqua??) with Scott Bradlee&#039;s Postmodern Jukebox. For the truly impatient, skip to the &quot;human theramin&quot; bit at 2:07. Like, come on."
 slug = "why-were-in-love-with-morgan-james"
 title = "Why we&#039;re in love with Morgan James"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=4ReSV3CCRzg"
+
+youtube_url ="https://www.youtube.com/watch?v=4ReSV3CCRzg"
 +++
 
 In the middle of a [Postmodern Jukebox](http://postmodernjukebox.com/) YouTube blitz, we couldn't help but drop our jaws at the unreal [Morgan James](http://www.morganjamesonline.com/gallery/). The Juilliard-grad-turned-soul-singer-and-songwriter has a voice to stun you, and she has that *thing* where you can't stop watching her.

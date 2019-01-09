@@ -9,10 +9,8 @@ related_articles = ["articles/so-about-that-stephen-hawkings-opera.md","articles
 short_description = "When we were still in university, my classmates and I would nerd out on playing things like &quot;Deh vieni, non tardar&quot; in F minor, or &quot;Mein Herr, Marquis&quot; in G minor, and it was hilarious to us for reasons I can&#039;t quite articulate. This reminds me of those times."
 slug = "hilarious-darth-vaders-theme-in-a-major-key"
 title = "Hilarious: Darth Vader&#039;s theme in a major key"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=B9MShtCg4fk"
+
+youtube_url ="https://www.youtube.com/watch?v=B9MShtCg4fk"
 +++
 
 We stumbled across something great, and we had to share it with our readers. UK-based musician, writer, and amateur film-maker [Ian Gordon](http://iangordon.bandcamp.com/) has re-written John Williams' infamous *Imperial March* from *Star Wars*, in a major key.

@@ -11,10 +11,8 @@ related_people = ["scene/people/plcido-domingo.md"]
 short_description = "It&#039;s a rainy day in Toronto, making me crave one of those good opera storms. I&#039;m a bit overloaded on The Barber of Seville, so turn back now if you hoped for Rossini cleverness. but Italian storms are the good ones."
 slug = "the-rainyday-opera-pick"
 title = "The rainy-day opera pick"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=_BdTrzHEnYs"
+
+youtube_url ="https://www.youtube.com/watch?v=_BdTrzHEnYs"
 +++
 
 It's a rainy day in Toronto, making me crave one of those good opera storms. I'm a bit overloaded on *The Barber of Seville*, so turn back now if you hoped for Rossini cleverness. but Italian storms are the good ones. So, here's one of my favourites: Domingo, Freni, and Cappuccilli in Verdi's *Otello*, led by Kleiber at La Scala in 1976. Curl up and get pulled in.

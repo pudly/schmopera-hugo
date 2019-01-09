@@ -10,10 +10,8 @@ related_articles = ["articles/opera-spin-off.md","articles/problems-we-didnt-kno
 short_description = "Misheard lyrics, anyone? In the name of fail-safe laughter, we wanted to share with you what&#039;s perhaps the funniest versions of Orff&#039;s Carmina Burana available today. And yes, we should absolutely get that octopus some boots, and send him to North Korea."
 slug = "hilarious-carl-orffs-fun-handsome-goose"
 title = "Hilarious: Carl Orff&#039;s &quot;fun, handsome goose&quot;"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=nIwrgAnx6Q8"
+
+youtube_url ="https://www.youtube.com/watch?v=nIwrgAnx6Q8"
 +++
 
 Misheard lyrics, anyone? In the name of fail-safe laughter, we wanted to share with you an oldie but a goodie, and what's perhaps the funniest versions of Orff's *Carmina Burana* available today.

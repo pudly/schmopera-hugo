@@ -10,10 +10,8 @@ related_articles = ["articles/i-love-a-gala.md"]
 short_description = "If you&#039;re currently in Toronto, you know the heat is pretty awful indeed. So, the train of thought went thus: ugh, it&#039;s hot...&quot;Ain&#039;t it awful, the heat?&quot;...That show is so great. Why don&#039;t people do it more?...Ice Cream Sextet!"
 slug = "beating-the-heat-with-weill"
 title = "Beating the heat with Weill"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=VZBla_qgV-Q"
+
+youtube_url ="https://www.youtube.com/watch?v=VZBla_qgV-Q"
 +++
 
 

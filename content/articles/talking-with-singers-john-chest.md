@@ -13,10 +13,8 @@ related_people = ["scene/people/john-chest.md"]
 short_description = "American baritone John Chest is having a pretty stellar season. He was just announced as a Richard Tucker Career Grant winner, and this June, he&#039;ll be heading to Wales to sing as a finalist in the 2017 Cardiff Singer of the World Competition."
 slug = "talking-with-singers-john-chest"
 title = "Talking with singers: John Chest"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=Ducx6EEJB7Q&feature=youtu.be"
+
+youtube_url ="https://www.youtube.com/watch?v=Ducx6EEJB7Q&feature=youtu.be"
 +++
 
 

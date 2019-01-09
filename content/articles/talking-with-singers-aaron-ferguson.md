@@ -10,10 +10,8 @@ related_people = ["scene/people/aaron-ferguson.md"]
 short_description = "Canadian tenor Aaron Ferguson is a busy guy. He&#039;s sung at the Glimmerglass Festival, Opéra de Montréal, Pacific Opera Victoria, and the Royal Opera of Versailles. He just closed a run of Lully&#039;s Persée here in Toronto at Opera Atelier, and he&#039;s getting ready to take it to Versailles later this month."
 slug = "talking-with-singers-aaron-ferguson"
 title = "Talking with singers: Aaron Ferguson"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=wU5OibvyRxU"
+
+youtube_url ="https://www.youtube.com/watch?v=wU5OibvyRxU"
 +++
 
 Canadian tenor [Aaron Ferguson](http://www.aaronferguson.net/#!bio/c2ih) is a busy guy. He's sung at the Glimmerglass Festival, Opéra de Montréal, Pacific Opera Victoria, and the Royal Opera of Versailles. He just closed a run of Lully's _Persée_ here in Toronto at [Opera Atelier](http://www.operaatelier.com/), and he's getting ready to [take it to Versailles](http://www.operaatelier.com/dreaminversailles) later this month. I caught him between _Persée_ shows, bribed him with a beverage, and asked him some questions about his unique spot in the operatic industry as a [_comprimario_](http://en.wikipedia.org/wiki/Comprimario) tenor.

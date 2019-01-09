@@ -10,10 +10,8 @@ related_articles = []
 short_description = "A narcoleptic supernumerary has earned great praise for his portrayal of the dead body of Buoso Donati in Puccini&#039;s &quot;Gianni Schicchi&quot;, now in-demand as Buoso-du-jour."
 slug = "narcoleptic-donati"
 title = "Narcoleptic supernumerary in demand as dead body of Buoso Donati"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/m2sMbPbq-EM"
+
+youtube_url ="https://youtu.be/m2sMbPbq-EM"
 +++
 
 

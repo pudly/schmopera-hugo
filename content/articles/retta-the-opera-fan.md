@@ -9,10 +9,8 @@ related_articles = ["articles/opera-on-letterman.md","articles/bring-back-opera-
 short_description = "Happy New Year! I’m starting 2015 off light, with a fun opera find out in the world of general media. Did you know actress/comedienne Retta, who plays Donna on Parks and Recreation, trained as an opera singer? She’s still got some decent chops, too, which she showed off to Conan O’Brien in 2012. "
 slug = "retta-the-opera-fan"
 title = "Retta, the opera fan"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/56OzqxGMr_U"
+
+youtube_url ="https://youtu.be/56OzqxGMr_U"
 +++
 
 Happy New Year! I'm starting 2015 off light, with a fun opera find out in the world of general media. Did you know actress/comedienne Retta, who plays Donna on *Parks and Recreation*, trained as an opera singer? She's still got some decent chops, too, which she showed off to Conan O'Brien in 2012. *NSFW warning: light profanity.

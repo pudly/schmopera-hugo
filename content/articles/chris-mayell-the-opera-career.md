@@ -10,10 +10,8 @@ related_people = ["scene/people/christopher-mayell.md"]
 short_description = "Canadian tenor Christopher Mayell is no stranger to Schmopera. This time I asked him if he would chat about the realities of a career as an opera singer. Financial struggles and lost inspiration are part of the opera singer’s trip, and Chris talks about his own experiences in a frank, important interview."
 slug = "chris-mayell-the-opera-career"
 title = "Chris Mayell: The Opera Career"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/Yd_dNNWhmgI"
+
+youtube_url ="https://youtu.be/Yd_dNNWhmgI"
 +++
 
 Canadian tenor [Christopher Mayell](http://christophermayell.com/) is  [no stranger to Schmopera](http://schmopera.com/tag/christopher-mayell/). This time I asked him if he would chat about the realities of a career as an opera singer. Financial struggles and lost inspiration are part of the opera singer's trip, and Chris talks about his own experiences in a frank, important interview. He chats about his singing life, the IT business he started [Perfect Fit Computers](http://perfectfitcomputers.ca/), and how they work together. Enjoy!

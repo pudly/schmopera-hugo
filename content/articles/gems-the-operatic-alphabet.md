@@ -11,10 +11,8 @@ related_people = ["scene/people/kyra-millan.md"]
 short_description = "Opera comedienne duo Millan &amp; Faye are soprano Kyra Millan and Tina Faye, pianist extraordinaire. In this little short, they go right back to basics with their operatic stylings of...the alphabet. Talk about singing on your consonants."
 slug = "gems-the-operatic-alphabet"
 title = "Gems: The Operatic Alphabet"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=GU3wEM6rL_k"
+
+youtube_url ="https://www.youtube.com/watch?v=GU3wEM6rL_k"
 +++
 
 

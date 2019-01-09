@@ -13,10 +13,8 @@ related_people = ["scene/people/simone-mcintosh.md"]
 short_description = "Toronto-based soprano Simone McIntosh heads to The Banff Centre this summer to work with Against the Grain Theatre, singing Donna in their workshop of Crush, a new opera by James Rolfe (composer) and Anna Chatterton (librettist)."
 slug = "meet-the-cast-of-crush-donna"
 title = "Meet the cast of Crush: Donna"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=G3YGrbqRvXE"
+
+youtube_url ="https://www.youtube.com/watch?v=G3YGrbqRvXE"
 +++
 
 

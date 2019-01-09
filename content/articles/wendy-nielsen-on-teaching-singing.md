@@ -12,10 +12,8 @@ related_people = ["scene/people/wendy-nielsen.md","scene/people/kyra-millan.md"]
 short_description = "Originally from New Brunswick, Canadian soprano Wendy Nielsen has enjoyed a multi-decade career as a singer and as a teacher. Roles like the Countess Almaviva, Fiordiligi, and Donna Elvira are staples of her singing career, which has taken her across Canada, and includes twelves seasons at the Metropolitan Opera. "
 slug = "wendy-nielsen-on-teaching-singing"
 title = "Wendy Nielsen: On Teaching Singing"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/qhlMgcXq7FE"
+
+youtube_url ="https://youtu.be/qhlMgcXq7FE"
 +++
 
 Originally from New Brunswick, Canadian soprano [Wendy Nielsen](http://www.wendynielsen.ca/) has enjoyed a multi-decade career as a singer and as a teacher. Roles like the Countess Almaviva, Fiordiligi, and Donna Elvira are staples of her singing career, which has taken her across Canada, and includes twelves seasons at the Metropolitan Opera. She is currently on faculty at the University of Toronto, and she has been Artistic Director of the [St.-Andrew's Summer Opera Workshop](http://www.standrewsartscouncil.nb.ca/opera.htm) for twenty seasons. Wendy is in huge demand as a voice teacher, and despite her busy schedule, I finally got the chance to talk with her about why she loves teaching singers so, so much.

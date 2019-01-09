@@ -12,10 +12,8 @@ related_people = ["scene/people/rihab-chaieb.md"]
 short_description = "​Tunisian-born mezzo-soprano Rihab Chaieb is a graduate of the COC Ensemble Studio (Semele, La clemenza di Tito), and she&#039;s currently in Toronto to be a Valkyrie. She sings Waltraute in Atom Egoyan&#039;s production of Die Walküre, opening January 31st at the Four Seasons Centre. I asked her about being the production, and what she&#039;s learned about the art and the business of opera."
 slug = "talking-with-valkyries-rihab-chaieb"
 title = "Talking with Valkyries: Rihab Chaieb"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/FpBjRbRYmvQ"
+
+youtube_url ="https://youtu.be/FpBjRbRYmvQ"
 +++
 
 Tunisian-born mezzo-soprano [Rihab Chaieb](https://twitter.com/rihabchaieb) is a graduate of the COC Ensemble Studio (*Semele*, *La clemenza di Tito*), and she's currently in Toronto to be a Valkyrie. She sings Waltraute in Atom Egoyan's production of *Die Walküre*, opening January 31st at the Four Seasons Centre. I asked her about being the production, and what she's learned about the art and the business of opera.

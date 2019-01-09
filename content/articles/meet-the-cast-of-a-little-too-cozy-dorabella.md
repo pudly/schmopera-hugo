@@ -13,10 +13,8 @@ related_people = ["scene/people/pascale-spinney.md"]
 short_description = "Montréal native Pascale Spinney heads to The Banff Centre this summer, to sing Dorabella in Against the Grain Theatre&#039;s production of A Little Too Cozy (libretto by Joel Ivany, music by Mozart)."
 slug = "meet-the-cast-of-a-little-too-cozy-dorabella"
 title = "Meet the cast of A Little Too Cozy: Dorabella"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=4guS-bcBFrE"
+
+youtube_url ="https://www.youtube.com/watch?v=4guS-bcBFrE"
 +++
 
 

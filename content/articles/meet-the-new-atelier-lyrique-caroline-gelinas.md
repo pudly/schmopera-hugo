@@ -10,10 +10,8 @@ related_articles = ["articles/anne-kostalas-a-year-with-opera-singers.md"]
 short_description = "Mezzo-soprano Caroline Gélinas has begun her first season as a member of the Atelier lyrique de l&#039;Opéra de Montréal, and this month she&#039;ll have her performance on the mainstage in Strauss&#039; Elektra. Caroline is from a small village in Abitibi-Témiscamingue, and she talks about her passion for the outdoors, and how her hikes in the woods fostered a love of singing."
 slug = "meet-the-new-atelier-lyrique-caroline-gelinas"
 title = "Meet the new Atelier lyrique: Caroline Gélinas"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/5Zvcy_A6OT0"
+
+youtube_url ="https://youtu.be/5Zvcy_A6OT0"
 +++
 
 Mezzo-soprano [Caroline Gélinas](/scene/people/caroline-gelinas/) has begun her first season as a member of the [Atelier lyrique de l'Opéra de Montréal](/scene/companies/latelier-lyrique-de-lopéra-de-montréal/), and this month she'll have her performance on the mainstage in Strauss' *Elektra*. Caroline is from a small village in Abitibi-Témiscamingue, and she talks about her passion for the outdoors, and how her hikes in the woods fostered a love of singing.

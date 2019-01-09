@@ -10,10 +10,8 @@ related_articles = []
 short_description = "Breaking: everyone brings their own pencil to rehearsal, leaving stage management stunned."
 slug = "pencil-shocked"
 title = "Stage management shocked as everyone brings own pencil to rehearsal"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/Im81aCGAcJM"
+
+youtube_url ="https://youtu.be/Im81aCGAcJM"
 +++
 
 

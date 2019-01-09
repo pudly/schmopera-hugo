@@ -10,10 +10,8 @@ related_people = ["scene/people/scott-joiner.md","scene/people/jessica-fishenfel
 short_description = "Something Blue: The Bachelor Opera is another misguided love story, unpacking everything that&#039;s totally bizarre about reality dating &amp; marriage shows. Joiner sings the role of the Bachelor, and soprano Jessica Fishenfeld is his new - and perfect - bride."
 slug = "something-blue-the-bachelor-opera"
 title = "Something Blue: The Bachelor Opera"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/O3lfT0mqj3M"
+
+youtube_url ="https://youtu.be/O3lfT0mqj3M"
 +++
 
 If you liked [*Connection Lost (The Tinder Opera)*](/has-everyone-seen-the-tinder-opera/), you'll love the latest collaboration between composer/tenor [Scott Joiner](/scene/people/scott-joiner/) and writer/director Adam Taylor.

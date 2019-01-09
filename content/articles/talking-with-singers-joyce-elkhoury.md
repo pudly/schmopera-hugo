@@ -12,10 +12,8 @@ related_people = ["scene/people/joyce-elkhoury.md"]
 short_description = "Canadian soprano Joyce El-Khoury is the perfect person to ask about Violetta Valéry, the heroine of Verdi&#039;s beloved La traviata. She has sung the role in over twelve productions, including at Welsh National Opera, Palm Beach Opera, the Canadian Opera Company, and currently with the Royal Opera House. "
 slug = "talking-with-singers-joyce-elkhoury"
 title = "Talking with singers: Joyce El-Khoury"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/nt9xsheLbuQ"
+
+youtube_url ="https://youtu.be/nt9xsheLbuQ"
 +++
 
 Canadian soprano [Joyce El-Khoury](/scene/people/joyce-el-khoury/) is the perfect person to ask about Violetta Valéry, the heroine of Verdi's beloved *La traviata*. She has sung the role in over twelve productions, including at De Nederlandse Opera, Welsh National Opera, the Canadian Opera Company, and currently with the Royal Opera Covent Garden. 

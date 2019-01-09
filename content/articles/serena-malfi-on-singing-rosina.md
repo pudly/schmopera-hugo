@@ -12,10 +12,8 @@ related_people = ["scene/people/serena-malfi.md"]
 short_description = "Italian mezzo-soprano Serena Malfi has been in Toronto for the last month (enjoying the weather, I&#039;m sure), preparing to sing Rosina with the Canadian Opera Company, in Els Comediants&#039; production of The Barber of Seville, which opens. She was delightful to chat with; I asked her a bit about singing the role of Rosina, and the fun of switching from trouser roles into dresses. "
 slug = "serena-malfi-on-singing-rosina"
 title = "Serena Malfi, on singing Rosina"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=tkTVPsiH0u8"
+
+youtube_url ="https://www.youtube.com/watch?v=tkTVPsiH0u8"
 +++
 
 Italian mezzo-soprano [Serena Malfi](http://www.serenamalfi.com/) has been in Toronto for the last month (enjoying the weather, I'm sure), preparing to sing Rosina with the Canadian Opera Company, in [Els Comediants'](http://comediants.com/?page_id=85&lang=en) production of *The Barber of Seville* ([opening this Friday night](http://www.coc.ca/PerformancesAndTickets/1415Season/BarberofSeville.aspx)). She was delightful to chat with; I asked her a bit about singing the role of Rosina, and the fun of switching from trouser roles into dresses. 

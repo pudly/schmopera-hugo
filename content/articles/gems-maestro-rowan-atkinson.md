@@ -9,10 +9,8 @@ related_articles = []
 short_description = "A little about me: I&#039;m a fan of conductors, parodies, and Mr. Bean. So, here&#039;s all three, in the form of Rowan Atinkson hilariously taking the podium for Beethoven&#039;s 5th. Hilarious, but also legitimately brilliant. Enjoy!"
 slug = "gems-maestro-rowan-atkinson"
 title = "Gems: Maestro Rowan Atkinson"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=BgOTI5kTcB8"
+
+youtube_url ="https://www.youtube.com/watch?v=BgOTI5kTcB8"
 +++
 
 A little about me: I'm a fan of conductors, parodies, and Mr. Bean. So, here's all three, in the form of Rowan Atinkson hilariously taking the podium for Beethoven's 5th. Hilarious, but also legitimately brilliant. Enjoy!

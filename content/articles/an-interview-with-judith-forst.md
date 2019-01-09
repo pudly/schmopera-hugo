@@ -12,10 +12,8 @@ related_people = ["scene/people/judith-forst.md"]
 short_description = "British Columbia-born mezzo-soprano Judith Forst had her Metropolitan Opera debut in 1968 as the Page in Rigoletto, and her career has spanned long enough for me to hear her most recently as Madame de Croissy in Robert Carsen&#039;s Dialogues des Carmélites at the Canadian Opera Company in 2013. Judith has sung with the likes of Joan Sutherland, Shirley Verrett, and Teresa Berganza, and she sang everything from Musetta to Hänsel to Giovanna Seymour to Donna Elvira."
 slug = "an-interview-with-judith-forst"
 title = "An interview with Judith Forst"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=9xkYA9VJ7Sk"
+
+youtube_url ="https://www.youtube.com/watch?v=9xkYA9VJ7Sk"
 +++
 
 British Columbia-born mezzo-soprano [Judith Forst](/scene/people/judith-forst/) had her Metropolitan Opera debut in 1968 as the Page in *Rigoletto*, and her career has spanned long enough for me to hear her most recently as Madame de Croissy in Robert Carsen's *Dialogues des Carmélites* at the [Canadian Opera Company](/scene/companies/canadian-opera-company/) in 2013. Judith has sung with the likes of Joan Sutherland, Shirley Verrett, and Teresa Berganza, and she sang everything from Musetta to Hänsel to Giovanna Seymour to Donna Elvira. Her career is enviable, although Judith wouldn't claim it to be miraculous; hard work and incredible self-awareness has given her an almost five-decade stretch of singing, and she has no plans to stop. 

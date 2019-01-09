@@ -12,10 +12,8 @@ related_people = ["scene/people/meghan-lindsay.md","scene/people/peter-barrett.m
 short_description = "Greg Finney and I caught plenty of shows together over the 2014/15 opera season in Toronto, and we like to join forces with our reviews to see where we agree, disagree, come to fisticuffs, etc. I figured a recap of our most memorable of the year was in order, so, over some wine, Greg &amp; I chat about what shows, and which artists, we both loved."
 slug = "greg-jennas-201415-opera-season-roundup"
 title = "Greg &amp; Jenna&#039;s 2014/15 Opera Season Roundup"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=Rl13235ACGw"
+
+youtube_url ="https://www.youtube.com/watch?v=Rl13235ACGw"
 +++
 
 In case you missed any, here's a list of our He Said/She Said reviews:

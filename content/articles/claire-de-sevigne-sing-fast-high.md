@@ -12,10 +12,8 @@ related_people = ["scene/people/claire-de-sevigne.md"]
 short_description = "If you go to hear Claire de Sévigné in an opera, there&#039;s a good chance she&#039;s the one singing the highest. The Canadian coloratura is a graduate of the COC Ensemble Studio, a recent finalist of the Montréal International Music Competition, and soon to be a member of the International Opera Studio at the Zürich Opernhaus."
 slug = "claire-de-sevigne-sing-fast-high"
 title = "Claire de Sévigné: how to sing fast &amp; high"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=Wg_wzbpgp8k"
+
+youtube_url ="https://www.youtube.com/watch?v=Wg_wzbpgp8k"
 +++
 
 If you go to hear [Claire de Sévigné](/scene/people/claire-de-sevigne/) in an opera, there's a good chance she's the one singing the highest. The Canadian coloratura is a graduate of the COC Ensemble Studio, a recent semi-finalist of the [Montréal International Music Competition](http://concoursmontreal.ca/en/), and soon to be a member of the [International Opera Studio](https://www.opernhaus.ch/en/ensemble/international-opera-studio/) at the Zürich Opernhaus.

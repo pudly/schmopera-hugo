@@ -12,10 +12,8 @@ related_people = ["scene/people/wallis-giunta.md"]
 short_description = "Canadian mezzo-soprano Wallis Giunta spoke to us from St. Louis, between performances of Angelina in La Cenerentola and Rossweise in Die Walküre, both at Oper Leipzig. She&#039;s also getting ready to sing Mercédès in Oper Frankfurt&#039;s Carmen in July, before returning to Toronto for the title role in Purcell&#039;s Dido and Aeneas at Opera Atelier in October."
 slug = "talking-with-singers-wallis-giunta"
 title = "Talking with singers: Wallis Giunta"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/tpV1U6Tb2dA"
+
+youtube_url ="https://youtu.be/tpV1U6Tb2dA"
 +++
 
 Canadian mezzo-soprano [Wallis Giunta](/scene/people/wallis-giunta/) spoke to us from St. Louis, between performances of Angelina in *La Cenerentola* and Rossweise in *Die Walküre*, both at [Oper Leipzig](http://www.oper-leipzig.de/en/programm/person/wallis-giunta/8537). She's also getting ready to sing Mercédès in [Oper Frankfurt](http://www.oper-frankfurt.de/de/spielplan/carmen/?id_datum=8#date)'s *Carmen* in July, before returning to Toronto for the title role in Purcell's [*Dido and Aeneas*](http://operaatelier.com/season/16-17-season/) at [Opera Atelier](/scene/people/opera-atelier/) in October.

@@ -12,10 +12,8 @@ related_people = ["scene/people/ambur-braid.md"]
 short_description = "Dramatic coloratura soprano Ambur Braid has been on our interview wish-list since Schmopera&#039;s day one. Her choice repertoire consists largely of &quot;evil, crazy royalty,&quot; where she can show off her staggering high notes and coloratura so fast you can blink and miss it."
 slug = "talking-with-singers-ambur-braid"
 title = "Talking with singers: Ambur Braid"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/MaizCgPuxQk"
+
+youtube_url ="https://youtu.be/MaizCgPuxQk"
 +++
 
 Dramatic coloratura soprano [Ambur Braid](/scene/people/ambur-braid/) has been on our interview wish-list since Schmopera's day one. Her choice repertoire consists largely of "evil, crazy royalty," where she can show off her staggering high notes and coloratura so fast you can blink and miss it. Vocal gymnastics aside, Ambur is one hilariously wise singer, with lots to say about her work and why she does it. We sat down with her and talked about nomadic living, useless high notes, and what matters to her most.

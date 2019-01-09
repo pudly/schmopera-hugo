@@ -10,10 +10,8 @@ related_articles = []
 short_description = "I&#039;m always looking for an excuse for more Benjamin Britten, and thankfully he wrote the notoriously creepy opera based on Henry James&#039; novella, The Turn of the Screw. It&#039;s got ghosts, troubled kids, maybe a haunted house, maybe some mental illness, and the general eeriness of what I imagine is a damp, foggy English countryside."
 slug = "happy-halloween-miles"
 title = "Happy Hallowe&#039;en, Miles..."
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=mEA5ByEhX6g"
+
+youtube_url ="https://www.youtube.com/watch?v=mEA5ByEhX6g"
 +++
 
 Happy Hallowe'en, readers! Time for some spooky opera.

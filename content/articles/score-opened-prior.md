@@ -10,10 +10,8 @@ related_articles = []
 short_description = "Breaking news: spine on conductor’s score shows signs of having been opened before the first rehearsal, says source sitting nearby. Currently unclear if the score has been borrowed from a friend."
 slug = "score-opened-prior"
 title = "Conductor&#039;s score appears to have been opened prior to first rehearsal"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/85ezTttDh0I"
+
+youtube_url ="https://youtu.be/85ezTttDh0I"
 +++
 
 

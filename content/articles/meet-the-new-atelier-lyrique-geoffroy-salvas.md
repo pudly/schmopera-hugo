@@ -13,10 +13,8 @@ related_people = ["scene/people/geoffroy-salvas.md"]
 short_description = "Baritone Geoffroy Salvas joined the Atelier lyrique this season, and he appeared in L&#039;Opéra de Montréal&#039;s 2015 production of Kevin Puts&#039; Silent Night. Salvas has sung since he was very young, starting in choirs at school; he studied piano and cello, but singing was always there. A lover of architecture, Salvas took videographer Anne Kostalas to some of his favourite spots in his hometown of Montréal."
 slug = "meet-the-new-atelier-lyrique-geoffroy-salvas"
 title = "Meet the new Atelier lyrique: Geoffroy Salvas"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/f_wpOozBPLc"
+
+youtube_url ="https://youtu.be/f_wpOozBPLc"
 +++
 
 Baritone [Geoffroy Salvas](/scene/people/geoffroy-salvas/) joined the Atelier lyrique this season, and he appeared in L'Opéra de Montréal's 2015 production of Kevin Puts' *Silent Night*. Salvas has sung since he was very young, starting in choirs at school; he studied piano and cello, but singing was always there. A lover of architecture, Salvas took videographer [Anne Kostalas](https://twitter.com/viewfromalake) to some of his favourite spots in his hometown of Montréal.

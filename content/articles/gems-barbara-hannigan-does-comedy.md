@@ -11,10 +11,8 @@ related_people = ["scene/people/barbara-hannigan.md","scene/people/doug-macnaugh
 short_description = "Canadian soprano, conductor, and general Renaissance woman Barbara Hannigan has been on my mind lately, largely because she&#039;s in Toronto Oct 7th and 8th to conduct and to sing with the Toronto Symphony Orchestra. Hannigan&#039;s website has tons of video gems available to view, one of which stuck out as a must-share."
 slug = "gems-barbara-hannigan-does-comedy"
 title = "Gems: Barbara Hannigan does comedy"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=rSAsn9u3e8U"
+
+youtube_url ="https://www.youtube.com/watch?v=rSAsn9u3e8U"
 +++
 
 Canadian soprano, conductor, and general Renaissance woman [Barbara Hannigan](/scene/people/barbara-hannigan/) has been on my mind lately, largely because she's in Toronto [October 7th and 8th](http://www.tso.ca/en-ca/concerts-and-tickets/2015-2016-Season/EventDetails/Barbara-Hannigan-Sings-Conducts.aspx) to conduct and to sing with the Toronto Symphony Orchestra. Hannigan's website has tons of [video gems](http://www.barbarahannigan.com/watch/opera-concert-videos/) available to view, one of which stuck out as a must-share.

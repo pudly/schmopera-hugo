@@ -8,10 +8,8 @@ publishDate = "2015-10-12T09:00:00-04:00"
 related_articles = ["articles/lost-history-operas-most-famous-premieres.md"]
 slug = "victor-borges-mozart-opera"
 title = "Victor Borge&#039;s Mozart Opera"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=ZKkZXSJO5iU"
+
+youtube_url ="https://www.youtube.com/watch?v=ZKkZXSJO5iU"
 +++
 
 Weekend smiles, brought to you by the hilarious and beloved Victor Borge.

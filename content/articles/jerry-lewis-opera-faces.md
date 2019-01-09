@@ -9,10 +9,8 @@ related_articles = ["articles/5-popish-songs-their-operatic-equivalents.md"]
 short_description = "Readers, we can&#039;t stop watching Jerry Lewis lip-sync to Mario Lanza singing &quot;Be My Love.&quot; "
 slug = "jerry-lewis-opera-faces"
 title = "And you thought your singer face was weird..."
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=s0TZyzasgsQ"
+
+youtube_url ="https://www.youtube.com/watch?v=s0TZyzasgsQ"
 +++
 
 Readers, we can't stop watching this clip of Jerry Lewis lip-syncing to Mario Lanza's "Be My Love." 

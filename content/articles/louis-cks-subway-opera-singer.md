@@ -10,10 +10,8 @@ related_companies = ["scene/companies/manhattan-school-of-music.md","scene/compa
 short_description = "We&#039;re big fans of Louis CK&#039;s, and we couldn&#039;t resist sharing this clip from his very funny *Live at the Comedy Store*. We can&#039;t help but wonder if the story is true (sounds kinda true-ish, knowing how young opera singers can be), and if we know this girl on the New York City subway. Does she go to Juilliard? MSM? The curiosity is in overdrive."
 slug = "louis-cks-subway-opera-singer"
 title = "Louis CK&#039;s Subway Opera Singer"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/u_Vxgv8re3E"
+
+youtube_url ="https://youtu.be/u_Vxgv8re3E"
 +++
 
 We're big fans of Louis CK's, and we couldn't resist sharing this clip from his very funny *Live at the Comedy Store*. We can't help but wonder if the story is true (sounds kinda true-ish, knowing how young opera singers can be), and if we know this girl on the New York City subway. Does she go to Juilliard? MSM? The curiosity is in overdrive.

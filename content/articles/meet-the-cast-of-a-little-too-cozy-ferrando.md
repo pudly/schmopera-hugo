@@ -13,10 +13,8 @@ related_people = ["scene/people/aaron-sheppard.md"]
 short_description = "Newfoundland-born tenor Aaron Sheppard is heading to the Banff Centre this summer, to sing Ferrando in [Against the Grain Theatre](http://againstthegraintheatre.com/)&#039;s A Little Too Cozy (libretto by Joel Ivany, music by Mozart)."
 slug = "meet-the-cast-of-a-little-too-cozy-ferrando"
 title = "Meet the cast of A Little Too Cozy: Ferrando"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=BYJF5nqe3UY"
+
+youtube_url ="https://www.youtube.com/watch?v=BYJF5nqe3UY"
 +++
 
 

@@ -13,10 +13,8 @@ related_people = ["scene/people/kevin-geddes.md"]
 short_description = "Tenor Kevin Geddes, is originally from Québec City, QC, and this is his first season with the Atelier lyrique de l&#039;Opéra de Montréal. Videographer Anne Kostalas followed Kevin to Montréal&#039;s Poutinefest, where he chats about his roots in AC/DC, Pink Floyd, and high school musicals."
 slug = "meet-the-new-atelier-lyrique-kevin-geddes"
 title = "Meet the new Atelier lyrique: Kevin Geddes"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=YVGSY97ErpM"
+
+youtube_url ="https://www.youtube.com/watch?v=YVGSY97ErpM"
 +++
 
 Tenor [Kevin Geddes](/scene/people/kevin-geddes/), is originally from Québec City, QC, and this is his first season with the Atelier lyrique de l'Opéra de Montréal. Videographer [Anne Kostalas](https://twitter.com/viewfromalake) followed Kevin to Montréal's [Poutinefest](http://poutinefest.lesmokingbbq.com/en/), where he chats about his roots in AC/DC, Pink Floyd, and high school musicals.

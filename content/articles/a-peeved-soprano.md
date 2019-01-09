@@ -10,10 +10,8 @@ related_people = ["scene/people/tamara-wilson.md"]
 short_description = "On her awesome YouTube channel, American soprano Tamara Wilson made me laugh once again.  &quot;Pet Peeves on Performance Days&quot; talks about folks singing in the stage wings, untimely visitors in the dressing room, and people just staring at sopranos."
 slug = "a-peeved-soprano"
 title = "A Peeved Soprano"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=w6uVRtHM158"
+
+youtube_url ="https://www.youtube.com/watch?v=w6uVRtHM158"
 +++
 
 On her [awesome YouTube channel](https://www.youtube.com/channel/UC6jidviYzIjuBRq_5mzIgzQ), American soprano [Tamara Wilson](/scene/people/tamara-wilson/) made me laugh once again.  "Pet Peeves on Performance Days" talks about folks singing in the stage wings, untimely visitors in the dressing room, and people just staring at sopranos.

@@ -10,10 +10,8 @@ related_people = ["scene/people/betty-waynne-allison.md"]
 short_description = "Canadian soprano Betty Allison is getting ready to sing the role of Anna in Uncle John at the Banff Centre&#039;s Open Space program. She answered a few of my questions about who Anna is, setting no expectations, and taking advantage of her time in Banff."
 slug = "anna"
 title = "Anna"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=6pwmRU4AWuY"
+
+youtube_url ="https://www.youtube.com/watch?v=6pwmRU4AWuY"
 +++
 
 Canadian soprano [Betty Allison](http://www.bettywaynneallison.com/Betty_Waynne_Allison/Home.html) is getting ready to sing the role of Anna in _Uncle John_ at the Banff Centre's Open Space program. She answered a few of my questions about who Anna is, setting no expectations, and taking advantage of her time in Banff.

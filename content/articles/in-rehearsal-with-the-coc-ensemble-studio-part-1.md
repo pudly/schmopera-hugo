@@ -11,10 +11,8 @@ related_people = ["scene/people/aviva-fortunata.md","scene/people/charlotte-burr
 short_description = "In one week from today, the young artists of the Canadian Opera Company will grace the stage of the Four Seasons Centre as they present their unique performance of Mozart&#039;s Così fan tutte. The Ensemble Studio has been putting in some serious time to get this show on its feet, and I was lucky enough to get a few moments to talk with the cast. "
 slug = "in-rehearsal-with-the-coc-ensemble-studio-part-1"
 title = "In rehearsal with the COC Ensemble Studio: part 1"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/CeX-rMTgo54"
+
+youtube_url ="https://youtu.be/CeX-rMTgo54"
 +++
 
 In one week from today, the young artists of the Canadian Opera Company will grace the stage of the Four Seasons Centre as they present their [unique performance](http://www.coc.ca/PerformancesAndTickets/1314Season/CosiFanTutte/EnsembleStudioPerformance.aspx) of Mozart's _Così fan tutte_. The Ensemble Studio has been putting in some serious time to get this show on its feet, and I was lucky enough to get a few moments to talk with the cast. Below is the first of a three-part video series, where we meet the four young singers who sing the roles of the lovers in Act I.

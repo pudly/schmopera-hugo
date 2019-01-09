@@ -99,21 +99,6 @@
       {{ end }}
       - {{ .Date.Format "Jan 2, 2006" }}
     </section>    
-  
-
-  {{/* 
-    
-    TODO:
-    Social media integration
-    
-    <section class="post--single_social">
-      <nav class="nav--share">
-        <a href="https://www.facebook.com/sharer/sharer.php?u={ site_url }{ url(item)|replace('&', '&amp;', 'g') }" class="social--facebook pill"><i class="icon-facebook"></i> Facebook <em class="social--count_facebook" data-url="{ site_url }{ url(item)|replace('&', '&amp;', 'g') }"></em></a>
-        <a href="https://twitter.com/share?url={ site_url }{ url(item)|replace('&', '&amp;', 'g') }&via=schmopera&text={ item.name|url_encode }" class="social--twitter pill"><i class="icon-twitter"></i> Twitter <em class="social--count_twitter" data-url="{ site_url }{ url(item)|replace('&', '&amp;', 'g') }"></em></a>
-      </nav>
-    </section>
-  */}}
-
 
   {{/* Disclaimer */}}
   {{ with .Params.disclaimer }}
@@ -132,10 +117,40 @@
 
 
   {{/* Post Content */}}
+  {{ if .Content }}
     <section class="post--single_body">
       {{ .Content }}
     </section>
+  {{ end }}
 
+  {{/* video content */}}
+  {{ if .Params.youtube_url }}
+
+    <section class="post--single_body">
+      <figure data-type="video" id="youtube_player">
+
+      </figure>
+    </section>
+
+    <script>
+      var myId = getId('{{ .Params.youtube_url }}');
+
+      function getId(url) {
+        var regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/;
+        var match = url.match(regExp);
+
+        if (match && match[2].length == 11) {
+          return match[2];
+        } else {
+          return 'error';
+        }
+      }
+      
+      var player = document.getElementById('youtube_player');
+
+      player.innerHTML = '<iframe width="560" height="315" src="//www.youtube.com/embed/' + myId + '" frameborder="0" allowfullscreen></iframe>';
+    </script>
+  {{ end }}
 
   {{/*
 
@@ -164,18 +179,15 @@
     {% endif %}
   */}}
 
-  {{/* 
-    
-    TODO:
-    Social media integration
-
+  
+  {{/* Social Shares */}}
     <section class="post--single_social">
       <nav class="nav--share">
-        <a href="https://www.facebook.com/sharer/sharer.php?u={ site_url }{ url(item)|replace('&', '&amp;', 'g') }" class="social--facebook pill"><i class="icon-facebook"></i> Facebook <em class="social--count_facebook" data-url="{ site_url }{ url(item)|replace('&', '&amp;', 'g') }"></em></a>
-        <a href="https://twitter.com/share?url={ site_url }{ url(item)|replace('&', '&amp;', 'g') }&via=schmopera&text={ item.name|url_encode }" class="social--twitter pill"><i class="icon-twitter"></i> Twitter <em class="social--count_twitter" data-url="{ site_url }{ url(item)|replace('&', '&amp;', 'g') }"></em></a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" class="social--facebook pill"><i class="icon-facebook"></i> Facebook <em class="social--count_facebook" data-url="{{ .Permalink }}"></em></a>
+        <a href="https://twitter.com/share?url={{ .Permalink }}&via=schmopera&text={{ .Title | safeURL }}" class="social--twitter pill"><i class="icon-twitter"></i> Twitter <em class="social--count_twitter" data-url="{{ .Permalink }}"></em></a>
       </nav>
     </section>
-  */}}
+
 
   {{/* Previous and Next Articles */}}
     <nav class="post--single_jump">

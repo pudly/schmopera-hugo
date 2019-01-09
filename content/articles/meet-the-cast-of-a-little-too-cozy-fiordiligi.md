@@ -13,10 +13,8 @@ related_people = ["scene/people/shantelle-przybylo.md"]
 short_description = "Canadian soprano Shantelle Przybylo is returning to The Banff Centre to join Against the Grain Theatre in their production of A Little Too Cozy (libretto by Joel Ivany, music by Mozart)."
 slug = "meet-the-cast-of-a-little-too-cozy-fiordiligi"
 title = "Meet the cast of A Little Too Cozy: Fiordiligi"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=yb0UiNEUKG0"
+
+youtube_url ="https://www.youtube.com/watch?v=yb0UiNEUKG0"
 +++
 
 

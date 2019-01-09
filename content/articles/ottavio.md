@@ -10,10 +10,8 @@ related_people = ["scene/people/conrad-siebert.md"]
 short_description = "Winnipeg native Conrad Siebert is gearing up to head out to The Banff Centre to sing in Uncle John as Mozart&#039;s favourite Good Boyfriend, Ottavio. Conrad took a few minutes to talk about the Open Space program, weird relationships, and lust."
 slug = "ottavio"
 title = "Ottavio"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=nO6mjJgkH8I"
+
+youtube_url ="https://www.youtube.com/watch?v=nO6mjJgkH8I"
 +++
 
 Winnipeg native [Conrad Siebert](https://twitter.com/conradsiebert) is gearing up to head out to [The Banff Centre](http://www.banffcentre.ca/media-release/1156/banff-centre-partners-with-against-grain-theatre-and-canadian-opera-company/) to sing in [_Uncle John_](https://www.facebook.com/events/1494928980723400/) as Mozart's favourite Good Boyfriend, Ottavio. Conrad took a few minutes to talk about the [Open Space](http://www.banffcentre.ca/programs/program.aspx?id=1457) program, weird relationships, and lust.

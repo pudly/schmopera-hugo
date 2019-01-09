@@ -12,10 +12,8 @@ related_people = ["scene/people/gordon-bintner.md","scene/people/aviva-fortunata
 short_description = "I spent the month of November on tour with the COC’s Glencore Ensemble Studio School Tour production of Dean Burry’s The Bremen Town Musicians. We went as far as Manitoulin Island and performed almost 30 shows. While we were way up north, I had the cast sit down for an interview. They even let me put my camera backstage during a show. Below you’ll find the backstage footage, plus a look at an average day on the road with the COC Ensemble Studio."
 slug = "schmopera-on-tour-the-bremen-town-musicians"
 title = "Schmopera on tour: The Bremen Town Musicians"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/4Hn5GxWTu1M"
+
+youtube_url ="https://youtu.be/4Hn5GxWTu1M"
 +++
 
 ## Anywhere between 7:30 and 8:30am

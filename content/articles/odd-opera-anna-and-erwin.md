@@ -10,10 +10,8 @@ related_articles = ["articles/5-times-handel-got-weird.md"]
 short_description = "Hey guys, wanna see something slightly awkward? Here&#039;s Erwin Schrott and Anna Netrebko singing &quot;Bess, you is my woman now,&quot; from *Porgy and Bess*. Good singing, and totally worth the click to hear Anna saying &quot;I is, I is.&quot; But, oh man. So weird."
 slug = "odd-opera-anna-and-erwin"
 title = "Odd Opera: Anna and Erwin"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=B0fJoqxqSJ4"
+
+youtube_url ="https://www.youtube.com/watch?v=B0fJoqxqSJ4"
 +++
 
 

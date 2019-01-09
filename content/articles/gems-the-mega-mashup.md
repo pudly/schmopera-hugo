@@ -9,10 +9,8 @@ related_articles = ["articles/6-animals-who-love-opera-more-than-penguins.md","a
 short_description = "Grant Woolard has created what&#039;s probably the greatest mashup yet of classical music tunes. He combined 57 melodies, by 33 composers from J.S. Bach to Satie, into 6 minutes of genius that we can&#039;t stop watching. Also, we now feel strongly that there should exist gag editions of these scores, notated entirely of little pictures of the composers&#039; heads."
 slug = "gems-the-mega-mashup"
 title = "Gems: the mega mashup"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=7OYkWSW7u4k"
+
+youtube_url ="https://www.youtube.com/watch?v=7OYkWSW7u4k"
 +++
 
 [Grant Woolard](https://www.youtube.com/channel/UCE1H_UogXQ85tslsAFYkn3Q) has created what's probably the greatest mashup yet of classical music tunes. He combined 57 melodies, by 33 composers from J.S. Bach to Satie, into 6 minutes of genius that we can't stop watching. Also, we now feel strongly that there should exist gag editions of these scores, notated entirely of little pictures of the composers' heads.

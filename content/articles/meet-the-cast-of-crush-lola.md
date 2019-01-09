@@ -13,10 +13,8 @@ related_people = ["scene/people/ellen-mcateer.md"]
 short_description = "Ottawa-born soprano Ellen McAteer heads to The Banff Centre this summer to work with Against the Grain Theatre, singing Lola in their workshop of Crush, a new opera by James Rolfe (composer) and Anna Chatterton (librettist)."
 slug = "meet-the-cast-of-crush-lola"
 title = "Meet the cast of Crush: Lola"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=xKe3HRffRFo"
+
+youtube_url ="https://www.youtube.com/watch?v=xKe3HRffRFo"
 +++
 
 

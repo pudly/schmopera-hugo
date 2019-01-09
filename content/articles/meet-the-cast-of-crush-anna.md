@@ -13,10 +13,8 @@ related_people = ["scene/people/samantha-pickett.md"]
 short_description = "Soprano Samantha Pickett heads to The Banff Centre this summer to work with Against the Grain Theatre, to sing Anna in their workshop of Crush, a new opera by James Rolfe (composer) and Anna Chatterton (librettist)."
 slug = "meet-the-cast-of-crush-anna"
 title = "Meet the cast of Crush: Anna"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=uMsrAR9KQT8"
+
+youtube_url ="https://www.youtube.com/watch?v=uMsrAR9KQT8"
 +++
 
 

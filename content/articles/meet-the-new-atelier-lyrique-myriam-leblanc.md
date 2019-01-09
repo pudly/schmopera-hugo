@@ -13,10 +13,8 @@ related_people = ["scene/people/myriam-leblanc.md"]
 short_description = "Soprano Myriam Leblanc is from St. Lazare, outside of Montréal, and this is her first season with the Atelier lyrique. She has a background playing the violin, and she has studied choral directing, but her love of singing opera began with a glance at a score of Puccini&#039;s La bohème. Videographer Anne Kostalas followed Myriam on a hike at Mont Saint Bruno, where she likes to spend her time when she&#039;s not singing."
 slug = "meet-the-new-atelier-lyrique-myriam-leblanc"
 title = "Meet the new Atelier lyrique: Myriam Leblanc"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/H3oknWBr2GA"
+
+youtube_url ="https://youtu.be/H3oknWBr2GA"
 +++
 
 Soprano [Myriam Leblanc](/scene/people/myriam-leblanc/) is from St. Lazare, QC, outside of Montréal, and this is her first season with the Atelier lyrique. She has a background playing the violin, and she has studied choral directing, but her love of singing opera began with a glance at a score of Puccini's *La bohème*. Videographer Anne Kostalas followed Myriam on a hike at Mont Saint Bruno, where she likes to spend her time when she's not singing.

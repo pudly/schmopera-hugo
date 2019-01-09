@@ -10,10 +10,8 @@ related_companies = ["scene/companies/royal-opera-house.md"]
 short_description = "Is it just us, or should GoPro footage become a staple of any opera or concert broadcast? Here at Schmopera, we&#039;re big fans of strapping a camera onto conductor, singers, really anyone willing to wear one. GoPro planted 24 cameras among the Czech Philharmonic, including on the ends of trombones, the bottoms of cellos, and on the owner of the best seat in the house, the timpanist."
 slug = "gems-the-gopro-orchestra"
 title = "Gems: the GoPro orchestra"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=ealhhtgwxJ8"
+
+youtube_url ="https://www.youtube.com/watch?v=ealhhtgwxJ8"
 +++
 
 Is it just us, or should GoPro footage become a staple of any opera or concert broadcast? Here at Schmopera, we're big fans of strapping a camera onto conductor, singers, really [anyone willing to wear one](https://www.youtube.com/watch?v=NQ1A3Dfi-Wo). So, we were delighted to find this clip of maestro Manfred Honeck and the Czech Philharmonic playing Janáček's *Jenůfa Suite* in Dvořák Hall, Prague. GoPro planted 24 cameras among the orchestra, including on the ends of trombones, the bottoms of cellos, and on the owner of the best seat in the house, the timpanist. 

@@ -10,10 +10,8 @@ related_articles = []
 short_description = "We love everything about this video. Austrian death metal band Dead Territory has recorded John Cage&#039;s 4&#039;33&quot;, and it&#039;s a great mix of respectful and funny (is it supposed to be funny? Maybe that&#039;s part of the aleatory). Kudos to these guys for staying true to their own style, for honouring the piece&#039;s three movements, and for sheer commitment."
 slug = "john-cage-a-la-death-metal"
 title = "John Cage à la death metal"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/voqCQSDAcn8"
+
+youtube_url ="https://youtu.be/voqCQSDAcn8"
 +++
 
 We love everything about this video. Austrian death metal band [Dead Territory](http://www.deadterritory.at/) has recorded John Cage's *4'33"*, including their own original intro. It's a great mix of respectful and funny (is it supposed to be funny? Maybe that's part of the [aleatory](https://en.wikipedia.org/wiki/Aleatoric_music)). Kudos to these guys for staying true to their own style, for honouring the piece's three movements, and for sheer straight-faced commitment.

@@ -12,10 +12,8 @@ related_people = ["scene/people/pasquale-dalessio.md"]
 short_description = "Montréal-based tenor Pasquale D&#039;Alessio heads to The Banff Centre this summer to work with Against the Grain Theatre, to sing Otto in their workshop of Crush, a new opera by James Rolfe (composer) and Anna Chatterton (librettist)."
 slug = "meet-the-cast-of-crush-otto"
 title = "Meet the cast of Crush: Otto"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=2AGf6q2lcsE"
+
+youtube_url ="https://www.youtube.com/watch?v=2AGf6q2lcsE"
 +++
 
 

@@ -12,10 +12,8 @@ related_people = ["scene/people/clarence-frazer.md"]
 short_description = "Toronto-based baritone Clarence Frazer heads to The Banff Centre this summer to work with Against the Grain Theatre, to sing Sam in their workshop of Crush, a new opera by James Rolfe (composer) and Anna Chatterton (librettist)."
 slug = "meet-the-cast-of-crush-sam"
 title = "Meet the cast of Crush: Sam"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=wjcpJzIJKPg"
+
+youtube_url ="https://www.youtube.com/watch?v=wjcpJzIJKPg"
 +++
 
 Toronto-based baritone [Clarence Frazer](https://twitter.com/clarencefrazer) heads to The Banff Centre this summer to work with [Against the Grain Theatre](http://againstthegraintheatre.com/), to sing Sam in their workshop of *Crush*, a new opera by James Rolfe (composer) and Anna Chatterton (librettist).

@@ -12,10 +12,8 @@ related_people = ["scene/people/joshua-hopkins.md"]
 short_description = "Canadian baritone Joshua Hopkins is in Toronto to sing the title role in the Canadian Opera Company&#039;s The Barber of Seville, opening April 17th at the Four Seasons Centre. I chat with him about his character, Figaro, and what it&#039;s like to sing with family in the audience."
 slug = "talking-figaro-with-joshua-hopkins"
 title = "Talking Figaro with Joshua Hopkins"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/gDgNqI_6hdw"
+
+youtube_url ="https://youtu.be/gDgNqI_6hdw"
 +++
 
 Canadian baritone [Joshua Hopkins](http://joshuahopkins.com/) is in Toronto to sing the title role in the Canadian Opera Company's *The Barber of Seville*. He was totally friendly and fun to talk with, even though I made him come in early for rehearsal. Joshua chats about Figaro, singing Rossini, and what it's like to sing with family in the audience. 

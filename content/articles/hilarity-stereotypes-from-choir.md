@@ -9,10 +9,8 @@ related_articles = ["articles/fachisms-stereotypes-for-a-reason.md","articles/ta
 short_description = "We laughed out loud at Cassie Kutev&#039;s YouTube video, where she &quot;interviews&quot; select members of a choir, from Soprano I to Bass II. Our favourite quotable quote from the &quot;Tap...water? I want sparkling. I&#039;m a diva. We sparkle.&quot;"
 slug = "hilarity-stereotypes-from-choir"
 title = "Hilarity: stereotypes from choir"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=62Q35y_JBTw"
+
+youtube_url ="https://www.youtube.com/watch?v=62Q35y_JBTw"
 +++
 
 Stereotypes exist for a reason, right?

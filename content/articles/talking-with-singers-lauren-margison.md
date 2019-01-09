@@ -10,10 +10,8 @@ related_people = ["scene/people/lauren-margison.md"]
 short_description = "Young Canadian soprano Lauren Margison has lived her life surrounded by opera and the people who make it. The daughter of renowned Canadian tenor Richard Margison and of violist and stage director Valerie Kuinka, Lauren has an unique perspective on the operatic industry."
 slug = "talking-with-singers-lauren-margison"
 title = "Talking with singers: Lauren Margison"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "http://www.youtube.com/watch?v=QTbGyYzguhw"
+
+youtube_url ="http://www.youtube.com/watch?v=QTbGyYzguhw"
 +++
 
 Young Canadian soprano [Lauren Margison](https://twitter.com/LaurenMargison) has lived her life surrounded by opera and the people who make it. The daughter of renowned Canadian tenor [Richard Margison](http://www.richardmargison.com/) and of violist and stage director [Valerie Kuinka](http://www.margisonkuinka.com/#about), Lauren has an unique perspective on the operatic industry. She spoke with [Schmopera](http://www.schmopera.com) about the life she's seen, the big name she brings with her, and how she carves out her own identity as a singer.

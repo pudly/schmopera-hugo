@@ -9,10 +9,8 @@ publishDate = "2015-05-16T14:45:00-04:00"
 short_description = "Happy long weekend, guys. Here&#039;s baritone Zeffin Quinn Hollis singing tweets by Twitter&#039;s beloved Jaden Smith (who apparently deleted his Twitter account after he became fodder for people like Zeffin Quinn Hollis)."
 slug = "singing-jaden-smiths-tweets"
 title = "Singing Jaden Smith&#039;s Tweets"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/BlmLGdW_yc0"
+
+youtube_url ="https://youtu.be/BlmLGdW_yc0"
 +++
 
 

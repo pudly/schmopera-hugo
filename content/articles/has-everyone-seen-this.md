@@ -12,10 +12,8 @@ related_people = ["scene/people/dmitri-hvorostovsky.md","scene/people/krisztina-
 short_description = "Don Giovanni Unmasked left me pretty confused on a lot of fronts, but it&#039;s oddly riveting. The concept is bizarre, with Leporello as the emcee of a film screening; in said film (black &amp; white, of course) is where we see Don Giovanni, dressed in a way that makes me think of Zorro. So, that means that sometimes Dmitri Hvorostovsky is talking to himself through a movie screen. Plus, there&#039;s a pretty crazy plot twist at the end."
 slug = "has-everyone-seen-this"
 title = "Has everyone seen this?"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=M7QLFqB3WDU"
+
+youtube_url ="https://www.youtube.com/watch?v=M7QLFqB3WDU"
 +++
 
 Whenever I hunt for opera on YouTube, I find a [gem or two](https://www.youtube.com/watch?v=9LXUrnVdV7M). But this time, I struck gold. 

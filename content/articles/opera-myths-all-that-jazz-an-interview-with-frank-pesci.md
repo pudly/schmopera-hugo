@@ -11,9 +11,7 @@ related_articles = ["articles/taking-tweed-seriously-lessons-for-the-emerging-op
 short_description = "In a recent interview with Anthony Garone of Make Weird Music, Pesci talks about the operatic myths that may keep potential audiences at arm&#039;s length, the influence of jazz in his music - and its value for classical musicians - and his own &quot;heroes&quot; of contemporary opera."
 slug = "opera-myths-all-that-jazz-an-interview-with-frank-pesci"
 title = "Opera myths &amp; all that jazz: an interview with Frank Pesci"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/KJmaYVVuRnY"
+
+youtube_url ="https://youtu.be/KJmaYVVuRnY"
 
 +++

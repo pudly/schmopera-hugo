@@ -10,10 +10,8 @@ related_people = ["scene/people/stephen-lord.md"]
 short_description = "&quot;He was master of the score&#039;s details and the orchestra played superbly for him.&quot;\n\nAmerican conductor Stephen Lord comes back to Toronto early this year, and we&#039;re excited. He&#039;ll conduct Un ballo in maschera at the Canadian Opera Company, opening February 2nd; after his stunning Lucia di Lammermoor last year, that&#039;s a lot to look forward to."
 slug = "stephen-lord-on-bel-canto-singers-and-theatre"
 title = "Stephen Lord: on Bel canto, singers, and theatre"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "http://www.youtube.com/watch?v=47WGunF259A"
+
+youtube_url ="http://www.youtube.com/watch?v=47WGunF259A"
 +++
 
 "He was master of the score's details and the orchestra played superbly for him."

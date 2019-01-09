@@ -11,10 +11,8 @@ related_people = ["scene/people/chris-thornborrow.md"]
 short_description = "Toronto-based composer Chris Thornborrow is bringing his work and experience with young musicians to the Canadian Opera Company&#039;s Summer Opera Camp this July. Chris will help a group of young opera-philes to create their own work, as he&#039;s done before with students of the Toronto District School Board."
 slug = "chris-thornborrow-on-composing-with-kids"
 title = "Chris Thornborrow, on composing with kids"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/hX7J6IZm_5M"
+
+youtube_url ="https://youtu.be/hX7J6IZm_5M"
 +++
 
 Toronto-based composer [Chris Thornborrow](/scene/people/chris-thornborrow/) is bringing his work and experience with young musicians to the Canadian Opera Company's Summer Opera Camp this July. Chris will help a group of young opera-philes to create their own original story and music. I asked him how he does it, and what he likes about working with young people.

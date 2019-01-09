@@ -11,10 +11,8 @@ related_people = ["scene/people/alison-wong.md","scene/people/kate-applin.md","s
 short_description = "Later this month, Metro Youth Opera presents Berlioz&#039;s Béatrice et Bénédict. I had the chance to watch some of their rehearsals, and chat with director Alison Wong, and singers Simone McIntosh (Béatrice) and Asitha Tennekoon (Bénédict)."
 slug = "an-inside-look-at-MYOs-beatrice-&-benedict"
 title = "An inside look at MYO&#039;s Béatrice &amp; Bénédict"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/RIHPFFMh2m8"
+
+youtube_url ="https://youtu.be/RIHPFFMh2m8"
 +++
 
 Later this month, [Metro Youth Opera](http://www.metroyouthopera.ca/) presents Berlioz's [Béatrice et Bénédict](http://www.metroyouthopera.ca/201415-season/). I had the chance to watch some of their rehearsals (featuring Music Director Natasha Fransblow), and chat with director Alison Wong, and singers Simone McIntosh (Béatrice) and Asitha Tennekoon (Bénédict).

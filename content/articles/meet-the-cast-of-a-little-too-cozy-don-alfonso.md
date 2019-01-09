@@ -13,10 +13,8 @@ related_people = ["scene/people/cairan-ryan.md"]
 short_description = "Baritone Cairan Ryan is returning to The Banff Centre this summer to sing Don Alfonso in Against the Grain Theatre&#039;s production of A Little Too Cozy. How does he feel about playing a game show host? Watch to find out."
 slug = "meet-the-cast-of-a-little-too-cozy-don-alfonso"
 title = "Meet the cast of A Little Too Cozy: Don Alfonso"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=8pF5hXRhiEw"
+
+youtube_url ="https://www.youtube.com/watch?v=8pF5hXRhiEw"
 +++
 
 

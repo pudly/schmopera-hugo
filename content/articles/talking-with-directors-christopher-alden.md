@@ -11,10 +11,8 @@ related_people = ["scene/people/christopher-alden.md","scene/people/krisztina-sz
 short_description = "American opera director Christopher Alden is in Toronto to direct Pyramus and Thisbe, a new opera by Barbara Monk Feldman based on the very old story of Ovid&#039;s. Canadian Opera Company General Director Alexander Neef had the idea to create a triple bill, pairing Monk Feldman&#039;s opera with two works of Monteverdi: Lamento d&#039;Arianna (the only remaining fragment of his lost opera, Arianna) and Il combattimento di Tancredi e Clorinda."
 slug = "talking-with-directors-christopher-alden"
 title = "Talking with directors: Christopher Alden"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/x-3cm3PC99M"
+
+youtube_url ="https://youtu.be/x-3cm3PC99M"
 +++
 
 American opera director [Christopher Alden](/scene/people/christopher-alden/) is in Toronto to direct *Pyramus and Thisbe*, a new opera by [Barbara Monk Feldman](/scene/people/barbara-monk-feldman/) based on the very old story of Ovid's. Canadian Opera Company General Director Alexander Neef had the idea to create a triple bill, pairing Monk Feldman's opera with two works of Monteverdi: *Lamento d'Arianna* (the only remaining fragment of his lost opera, *Arianna*) and *Il combattimento di Tancredi e Clorinda*.

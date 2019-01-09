@@ -13,10 +13,8 @@ related_people = ["scene/people/bruno-roy.md"]
 short_description = "Montréal-based baritone Bruno Roy heads to The Banff Centre this summer to work with Against the Grain Theatre, singing Matt in their workshop of Crush, a new opera by James Rolfe (composer) and Anna Chatterton (librettist)."
 slug = "meet-the-cast-of-crush-matt"
 title = "Meet the cast of Crush: Matt"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=s2DL2Y5icQ8"
+
+youtube_url ="https://www.youtube.com/watch?v=s2DL2Y5icQ8"
 +++
 
 

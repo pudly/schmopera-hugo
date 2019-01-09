@@ -9,10 +9,8 @@ related_companies = ["scene/companies/against-the-grain-theatre.md","scene/compa
 short_description = "Meet Jeremy Bowes. He&#039;s a Canadian bass, and he&#039;ll be heading west in July to sing in #UncleJohn, as opera&#039;s most famous wingman, Leporello_. He spoke about what makes Open Space unique, and why everyone loves the story of Don Juan."
 slug = "leporello"
 title = "Leporello"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=iJJuAuBrSeU&"
+
+youtube_url ="https://www.youtube.com/watch?v=iJJuAuBrSeU&"
 +++
 
 Meet [Jeremy Bowes](http://jeremybowes.com/). He's a Canadian bass, and he'll be heading west in July to sing in _#UncleJohn_, as opera's most famous wingman, Leporello_. _He spoke about what makes Open Space unique, and why everyone loves the story of Don Juan.

@@ -12,10 +12,8 @@ related_people = ["scene/people/heidi-melton.md"]
 short_description = "American dramatic soprano Heidi Melton is currently in Toronto to sing Sieglinde in Atom Egoyan’s upcoming production of Die Walküre at the Canadian Opera Company."
 slug = "talking-with-singers-heidi-melton"
 title = "Talking with singers, Heidi Melton"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=Vmcn7fv-E4U"
+
+youtube_url ="https://www.youtube.com/watch?v=Vmcn7fv-E4U"
 +++
 
 American dramatic soprano [Heidi Melton](http://www.heidimeltonsoprano.com/)  is currently in Toronto to sing Sieglinde in Atom Egoyan's upcoming production of [Die Walküre](http://www.coc.ca/PerformancesAndTickets/1415Season/DieWalkure.aspx)  at the Canadian Opera Company. She was lovely, and kind enough to talk about singing Wagnerian roles, and the slow burn that is *Der Ring des Nibelungen*.

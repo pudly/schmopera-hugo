@@ -10,10 +10,8 @@ related_articles = []
 short_description = "Breaking: Music historians discover lost Mozart opera, opera circles collectively agree that it is crap."
 slug = "mozart-opera-crap"
 title = "Music historians find lost Mozart opera, all agree that it is crap"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/gaF7kT5Moc0"
+
+youtube_url ="https://youtu.be/gaF7kT5Moc0"
 +++
 
 

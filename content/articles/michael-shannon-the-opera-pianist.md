@@ -10,10 +10,8 @@ related_companies = ["scene/companies/canadian-opera-company.md"]
 short_description = "One would be hard-pressed to find someone who loves singers as much as Michael Shannon, pianist, coach, and répétiteur at the Canadian Opera Company. Michael is based in Toronto, and he&#039;s currently a member of music staff for the COC&#039;s upcoming production of Le nozze di Figaro. He chats about the &quot;beautiful pairing&quot; of pianists and singers, and how he feels when he&#039;s around singing.\n"
 slug = "michael-shannon-the-opera-pianist"
 title = "Michael Shannon: the opera pianist"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/50fdrgaz53Q"
+
+youtube_url ="https://youtu.be/50fdrgaz53Q"
 +++
 
 One would be hard-pressed to find someone who loves singers as much as Michael Shannon, pianist, coach, and répétiteur at the [Canadian Opera Company](/scene/companies/canadian-opera-company/). Michael is based in Toronto, and he's currently a member of music staff for the COC's upcoming production of *Le nozze di Figaro*.

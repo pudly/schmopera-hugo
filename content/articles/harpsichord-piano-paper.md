@@ -10,10 +10,8 @@ related_articles = []
 short_description = "After mid-performance harpsichord malfunction, stage management saves the day with crappy piano and large piece of scrap paper."
 slug = "harpsichord-piano-paper"
 title = "Broken harpsichord replaced mid-show by crappy piano &amp; sheet of paper"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/Fi3ix6lMqvU"
+
+youtube_url ="https://youtu.be/Fi3ix6lMqvU"
 +++
 
 

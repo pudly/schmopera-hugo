@@ -10,10 +10,8 @@ related_people = ["scene/people/miriam-khalil.md"]
 short_description = "Everyone, meet Miriam Khalil. She&#039;s a Lebanese-Canadian soprano currently based in Toronto, and she&#039;ll be singing in Uncle John, as everyone&#039;s favourite clingy chick, Elvira."
 slug = "elvira"
 title = "Elvira"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=O6dVICKhg9s"
+
+youtube_url ="https://www.youtube.com/watch?v=O6dVICKhg9s"
 +++
 
 Everyone, meet [Miriam Khalil](https://twitter.com/SongbirdKhalil). She's a Lebanese-Canadian soprano currently based in Toronto, and she'll be singing in _Uncle John_, as everyone's favourite clingy chick, Elvira. Miriam took time to share her thoughts on her role, the _Uncle John_ [project](http://www.banffcentre.ca/programs/program.aspx?id=1457), and singing in Banff.

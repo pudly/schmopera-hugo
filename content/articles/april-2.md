@@ -10,10 +10,8 @@ related_articles = []
 short_description = "Cunegonde’s aria ends in chaos after soprano accidentally launches broken string of pearls into orchestra pit, 2 violists report painful welts."
 slug = "april-2"
 title = "2 violists injured after Cunegonde&#039;s aria ends in chaos"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/jXKUb5A1auM"
+
+youtube_url ="https://youtu.be/jXKUb5A1auM"
 +++
 
 

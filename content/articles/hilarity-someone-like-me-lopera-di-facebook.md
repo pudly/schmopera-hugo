@@ -10,10 +10,8 @@ related_articles = []
 short_description = "The folks behind Something Blue: The Bachelor Opera and Connection Lost: The Tinder Opera are back! This time, it&#039;s Someone Like Me (L&#039;opera di Facebook), a harrowing tale of likes, validation, and rye toast. Adam Taylor writes and directs, with music by Nathan Fletcher. Baritone Jonathan Hare and soprano Amelia Berry star in the fab, sassy cast of this must-see:"
 slug = "hilarity-someone-like-me-lopera-di-facebook"
 title = "Hilarity: Someone Like Me (L&#039;opera di Facebook)"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=iIYr86b6vSg&list=PLsgDFIa7G-3IuExauQL3PJjLLaO0l0QUF&index=1"
+
+youtube_url ="https://www.youtube.com/watch?v=iIYr86b6vSg&list=PLsgDFIa7G-3IuExauQL3PJjLLaO0l0QUF&index=1"
 +++
 
 

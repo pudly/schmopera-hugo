@@ -10,10 +10,8 @@ related_people = ["scene/people/atom-egoyan.md"]
 short_description = "The Canadian Opera Company offers plenty of education programs for young people and adults, including their Youth Opera Lab. The YOL is designed to give young opera fans a chance to dive deeply into the shows in the COC&#039;s season, and this month, the focus was on Atom Egoyan&#039;s upcoming production of Die Walküre. "
 slug = "the-cocs-youth-opera-lab-die-walkure"
 title = "The COC&#039;s Youth Opera Lab: Die Walküre"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=_qzhpCCl6UU"
+
+youtube_url ="https://www.youtube.com/watch?v=_qzhpCCl6UU"
 +++
 
 <p>

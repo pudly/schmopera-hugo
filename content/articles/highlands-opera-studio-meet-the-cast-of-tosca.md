@@ -12,10 +12,8 @@ related_people = ["scene/people/michael-robertbroder.md","scene/people/keith-lam
 short_description = "I took a trip up to Haliburton, ON, to hang out with the folks at Highlands Opera Studio. The summer opera program is putting up Tosca, beginning August 22nd, and I had the chance to speak with the singers. In the first of two videos about HOS’ Tosca, you’ll meet the lead characters (your Toscas, your Cavaradossis, your Scarpias). You even get to hear some singing."
 slug = "highlands-opera-studio-meet-the-cast-of-tosca"
 title = "Highlands Opera Studio: Meet the cast of Tosca"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/eh3mIiFcNmA"
+
+youtube_url ="https://youtu.be/eh3mIiFcNmA"
 +++
 
 I took a trip up to Haliburton, ON, to hang out with the folks at [Highlands Opera Studio](http://www.highlandsoperastudio.com/cast.html#sthash.Mw758xST.GmXiMt5q.dpbs). The summer opera program is putting up _Tosca_, beginning [August 22nd](https://www.highlandssummerfestival.on.ca/ticket-portal/), and I had the chance to speak with the singers. In the first of two videos about HOS' _Tosca_, you'll meet the lead characters (your Toscas, your Cavaradossis, your Scarpias). You even get to hear some singing.

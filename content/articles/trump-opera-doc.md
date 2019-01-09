@@ -10,10 +10,8 @@ related_articles = []
 short_description = "Donald Trump plans to host screening of “What’s Opera, Doc?” for White House staffers, following success of &quot;Finding Nemo&quot;."
 slug = "trump-opera-doc"
 title = "Trump to host WH screening of &quot;What&#039;s Opera, Doc?&quot;"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/jG-0_p_yefg"
+
+youtube_url ="https://youtu.be/jG-0_p_yefg"
 +++
 
 

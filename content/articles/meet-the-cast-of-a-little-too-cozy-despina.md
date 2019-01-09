@@ -13,10 +13,8 @@ related_people = ["scene/people/caitlin-wood.md"]
 short_description = "Soprano Caitlin Wood is an Alberta native, and she&#039;s excited to sing Despina in Against the Grain Theatre&#039;s production of A Little Too Cozy (libretto by Joel Ivany, music by Mozart) at The Banff Centre."
 slug = "meet-the-cast-of-a-little-too-cozy-despina"
 title = "Meet the cast of A Little Too Cozy: Despina"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=3A5TFYMwPf8"
+
+youtube_url ="https://www.youtube.com/watch?v=3A5TFYMwPf8"
 +++
 
 

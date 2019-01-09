@@ -8,10 +8,8 @@ publishDate = "2015-09-07T14:48:00-04:00"
 short_description = "If you&#039;re a singer, watching this video might give you the creepy-crawlies. It&#039;s Dame Kiri Te Kanewa singing &quot;Dove sono i bei momenti&quot; from Le nozze di Figaro at the Metropolitan Opera&#039;s Centennial Gala, 1983. Kiri sings this staple aria of hers as beautifully as you would expect."
 slug = "class-acts-kiri-te-kanewa-at-the-met-centennial"
 title = "Class Acts: Kiri Te Kanewa at the Met Centennial"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=OcNfVpnMPQs"
+
+youtube_url ="https://www.youtube.com/watch?v=OcNfVpnMPQs"
 +++
 
 

@@ -12,10 +12,8 @@ related_people = ["scene/people/krisztina-szab.md","scene/people/john-relyea.md"
 short_description = "François Racine is the revival director of Robert Lepage&#039;s production of Bluebeard&#039;s Castle/Erwartung, and he has seen the double bill performed across the globe over the last 20 years. He took a few moments out of a tech rehearsal in the Four Seasons Centre to talk about these two &quot;very dark&quot; operas, and this production by Lepage that seems so timelessly compelling."
 slug = "francois-racine-on-bluebeards-castle-erwartung"
 title = "Francois Racine on Bluebeard&#039;s Castle/ Erwartung"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/f1Ml92KzMZk"
+
+youtube_url ="https://youtu.be/f1Ml92KzMZk"
 +++
 
 François Racine is the revival director of [Robert Lepage's production of *Bluebeard's Castle/Erwartung*](http://www.coc.ca/PerformancesAndTickets/1415Season/BluebeardErwartung.aspx), and he has seen the double bill performed across the globe over the last 20 years. He took a few moments out of a tech rehearsal in the Four Seasons Centre to talk about these two "very dark" operas, and this production by Lepage that seems so timelessly compelling.

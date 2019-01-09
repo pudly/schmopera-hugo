@@ -11,10 +11,8 @@ related_people = ["scene/people/kyra-millan.md"]
 short_description = "Performer, teacher and artist educator Kyra Millan has taught countless students of all ages in school classrooms and in her private studio. She started the GLEESICAL music theatre program at the Classical Music Conservatory, and she leads workshops at the Canadian Opera Company, Opera Atelier, the Royal Conservatory of Music, Workman Arts, and the Centre for Addiction and Mental Health. "
 slug = "kyra-millan-arts-education-counts"
 title = "Kyra Millan: Arts Education counts"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://youtu.be/3Q88Snp-sQs"
+
+youtube_url ="https://youtu.be/3Q88Snp-sQs"
 +++
 
 Performer, teacher and artist educator Kyra Millan has taught countless students of all ages in school classrooms and in her private studio. She started the GLEESICAL music theatre program at the Classical Music Conservatory, and she leads workshops at the Canadian Opera Company, Opera Atelier, the Royal Conservatory of Music, Workman Arts, and the Centre for Addiction and Mental Health. 
