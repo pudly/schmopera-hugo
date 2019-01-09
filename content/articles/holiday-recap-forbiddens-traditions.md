@@ -24,7 +24,7 @@ The technical work gave us little choice except to take a luxurious bit of vacat
 
 > My hunch had been that all you needed for a great, hilarious _Die Fledermaus_ was a stellar cast.
 
-Finney writes, "\[_Verbotenlieder_'s\] neat musical ear-play was probably most present with the famed _Pearl Fishers_ duet, and the Rodolfo/Marcello duet from _La bohème_; both were sung beautifully by soprano [Vanessa Oude-Reimerink](/scene/people/vanessa-oude-reimerink/) and mezzo-soprano Alexandra Beley." Finney's also highlighted Brittany Cann's _Don Quichotte à Dulcinée_ ("Dear Toronto, this is a voice to watch"), and [Lauren Margison](/scene/people/lauren-margison/)'s appropriation of tenor arias from _Madama Butterfly_ and _Turandot_. Plus:
+Finney writes, "\[_Verbotenlieder_'s\] neat musical ear-play was probably most present with the famed _Pearl Fishers_ duet, sung by [Jennifer Taverner](/scene/people/jennifer-taverner/) and [Beste Kalender](/scene/people/beste-kalender/) and the Rodolfo/Marcello duet from _La bohème_, sung beautifully by soprano [Vanessa Oude-Reimerink](/scene/people/vanessa-oude-reimerink/) and mezzo-soprano Alexandra Beley." Finney's also highlighted Brittany Cann's _Don Quichotte à Dulcinée_ ("Dear Toronto, this is a voice to watch"), and [Lauren Margison](/scene/people/lauren-margison/)'s appropriation of tenor arias from _Madama Butterfly_ and _Turandot_. Plus:
 
 "[Natalya Gennadi](/scene/people/natalya-matyusheva/) sang Lensky's Aria from _Eugene Onegin_, and if you missed it, I'm sorry for you," says Finney. "I'd would say it was some of the best singing I heard this year, not just this night."
 
