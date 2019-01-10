@@ -273,7 +273,7 @@
 
   {{/* People and Companies - The Scene */}}
 
-  {{ if (or (isset .Params "related_people") (isset .Params "related_companies")) }}
+  {{ if (or (.Params.related_people) (.Params.related_companies)) }}
     <section class="post--single_scene">
       <h2 class="pill">Mentions</h2> 
       <nav>
