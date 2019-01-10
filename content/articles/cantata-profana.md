@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2019-01-10T01:29:24+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 preamble = "New York-based ensemble [Cantata Profana](https://www.cantataprofana.com/meet-cp) is gearing up for its latest concert, [_Visions of Silence_](https://www.cantataprofana.com/tickets), January 18 & 19 at St. Peter's Chelsea. The headlining piece on the programme is Salvatore Sciarrino's \"Ecstasy in One Act\", _Infinito Nero_ (1998); the work is scored for voice and eight instruments, each representing one of the eight scribes who took down the words of 17th-century visionary and saint, [Maria Maddalena de' Pazzi](https://en.wikipedia.org/wiki/Mary_Magdalene_de%27_Pazzi). We spoke with Jacob Ashworth, violinist, conductor, and Cantata Profana Artistic Director, about the ensemble's insatiable hunt for excellent music."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1547084016/media/2019/01/sqJacobAshworthHeadshot.jpg"
