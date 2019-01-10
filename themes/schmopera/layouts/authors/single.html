@@ -103,6 +103,19 @@
         <p>We're still fixing a few things on the site.</p>
         <p>Unfortunately, that means that the list of articles this author has written is not available right now. Please check back soon and we should have this sorted.</p>
       </div>
+
+      {{ $author := .File.LogicalName }}
+
+      <ul class="author-articles">
+        {{ range (where $.Site.Pages "Type" "articles") }}
+          {{ if .Params.author }}
+            {{ $aaa := index (.Params.author) 0}}
+            {{ if in $aaa $author }}
+            <li><a href="{{ .Permalink }}">{{ .Title | htmlUnescape }}</li>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </ul>
     </section>
 
 
