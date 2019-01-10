@@ -90,16 +90,52 @@
   @include bp-medium {
     margin: 0 0 40px 0;
   }
+
+  &:hover .post--single_hero-credit,
+  &:focus .post--single_hero-credit {
+    opacity: 1;
+    
+    span {
+      display: block;
+    }
+  }
 }
 
 .post--single_hero-credit {
-  display: block;
-  position: relative;
-  background: #eee;
-  font-size: .75em;
-  text-align: left;
-  padding: 10px;
-  margin: -40px 0 40px 0;
+  position: absolute;
+  z-index: 10;
+  top: 10px;
+  right: 45px;
+  max-width: calc(100% - 55px);
+  opacity: .5;
+
+  &:before {
+    content: "i";
+    display: block;
+    position: absolute;
+    right: -35px;
+    top: 0;
+    background: $sch-black;
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    color: #fff;
+    text-align: center;
+    line-height: 30px;
+    font-weight: 900;
+    border: 1px solid rgba(255,255,255,.5);
+    font-size: .8em;
+  }
+
+  span {
+    display: none;
+    color: #fff;
+    background: $sch-black;
+    border: 1px solid rgba(255,255,255,.5);
+    min-height: 30px;
+    font-size: .7em;
+    padding: .4em;
+  }
 }
 
 .post--single_hero + .post--single_hero-credit {

@@ -68,6 +68,9 @@
         {{ $imglg := replace .Params.primary_image "/upload/" "/upload/w_1480,h_1480,c_fill,g_faces/" }}
         <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkkAQAAB8AG7jymN8AAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
       </picture>
+      {{ with .Params.primary_image_credit }}
+      <span class="post--single_hero-credit"><span>{{ . }}</span></span>
+      {{ end }}
       <div class="post--list-title">
         <h1><span title="{{ .Title | htmlUnescape }}">{{ .Title | htmlUnescape }}</span></h1>
         {{ with .Params.categories }}
@@ -75,11 +78,7 @@
         {{ end }}
       </div>
     </section>
-    {{/*
-    {{ with .Params.primary_image_credit }}
-      <span class="post--single_hero-credit">{{ . }}</span>
-    {{ end }}
-    */}}
+
 
   {{/* Authors */}}  
     <section class="post--single_authors">
