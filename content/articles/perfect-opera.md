@@ -8,12 +8,12 @@ image_gallery = []
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546883176/media/2019/01/FutureOpera.jpg"
 primary_image_credit = ""
-related_articles = []
+related_articles = ["articles/4-opera-scenes-that-should-have-happened.md", "articles/opera-spin-off.md"]
 related_companies = []
 related_people = []
-short_description = "short description"
-slug = "technology-opera"
-title = "technology opera"
+short_description = "Or! Don Carlo, with Plácido Domingo's hologram in the title role, and the real-life Plácido Domingo as Rodrigo? Add a little Jamie Barton as Eboli, and Nicolai Ghiaurov as Philip II? Delicious."
+slug = "the-future-of-opera-holograms-dream-casts"
+title = "The future of opera? Holograms & dream casts"
 youtube_url = ""
 
 +++
