@@ -100,6 +100,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/verborgenheit.md
 - content/articles/holiday-recap-forbiddens-traditions.md
 - content/articles/talking-with-singers-eva-maria-westbroek.md
 - content/articles/cantata-profana.md
