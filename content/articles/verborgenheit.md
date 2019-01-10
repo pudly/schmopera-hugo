@@ -17,6 +17,10 @@ title = "Verborgenheit"
 youtube_url = "https://youtu.be/MxudtYmISMc"
 
 +++
+Happy Friday, readers! If you're not familiar with the work of Roxanna Walitzki, her latest music video is a great way in.
+
+Shot
+
 <figure data-type="image">
 
 {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1547142196/media/2019/01/Verborgenheit-4.jpg){{% /md %}}
