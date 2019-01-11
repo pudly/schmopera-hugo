@@ -111,7 +111,7 @@
           {{ if .Params.author }}
             {{ $aaa := index (.Params.author) 0}}
             {{ if in $aaa $author }}
-            <li><a href="{{ .Permalink }}">{{ .Title | htmlUnescape }}</li>
+            <li><a href="{{ .Permalink }}">{{ .Title | htmlUnescape }}</a></li>
             {{ end }}
           {{ end }}
         {{ end }}
