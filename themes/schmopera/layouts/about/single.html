@@ -1,3 +1,18 @@
+{{/*
+
+  {# ------------------------------------------------------- #}
+  {# INDIVIDUAL VIEW FOR EACH ABOUT PAGE                     #}
+  {# ------------------------------------------------------- #}
+  
+*/}}
+
+{{/* meta data */}}
+
+{{- define "og_title" -}}{{ .Title | htmlUnescape }}{{- end -}}
+{{- define "og_type" -}}website{{- end -}}
+{{- define "og_url" -}}{{ .Permalink }}{{- end -}}
+{{- define "og_description" -}}{{ .Summary }}{{- end -}}
+
 {{ define "main" }}
   <h1 class="pill">{{ .Title }}</h1>
   <article class="about--content">

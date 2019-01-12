@@ -61,70 +61,69 @@
 
   <article class="post--single">
 
-  {{/* Primary Hero */}}
+  {{- /* Primary Hero */}}
     <section class="post--single_hero">
       <picture>
-        {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/w_740,h_740,c_fill,g_faces/" }}
-        {{ $imglg := replace .Params.primary_image "/upload/" "/upload/w_1480,h_1480,c_fill,g_faces/" }}
+        {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/w_740,h_740,c_fill,g_faces/" -}}
+        {{- $imglg := replace .Params.primary_image "/upload/" "/upload/w_1480,h_1480,c_fill,g_faces/" -}}
         <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkkAQAAB8AG7jymN8AAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
       </picture>
-      {{ with .Params.primary_image_credit }}
+      {{- with .Params.primary_image_credit }}
       <span class="post--single_hero-credit"><span>{{ . }}</span></span>
-      {{ end }}
+      {{- end }}
       <div class="post--list-title">
         <h1><span title="{{ .Title | htmlUnescape }}">{{ .Title | htmlUnescape }}</span></h1>
-        {{ with .Params.categories }}
+        {{- with .Params.categories }}
         <em class="post--meta-category">{{ . }}</em>
-        {{ end }}
+        {{- end }}
       </div>
     </section>
 
 
-  {{/* Authors */}}  
+  {{- /* Authors */}}  
     <section class="post--single_authors">
-  {{ with .Params.author }}
-    {{ range $author := . }}
-      {{ with $.Site.GetPage "page" $author }}
+  {{- with .Params.author }}
+    {{- range $author := . }}
+      {{- with $.Site.GetPage "page" $author }}
       <a href="{{ .Permalink }}">
-      <picture class="post--meta-author_image">
-        {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/w_80,h_80,c_fill,g_face/" }}
-        {{ $imglg := replace .Params.primary_image "/upload/" "/upload/w_160,h_160,c_fill,g_face/" }}
-        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
-      </picture>
-      <em>{{ .Title }}</em>
+        <picture class="post--meta-author_image">
+          {{- $imgsm := replace .Params.primary_image "/upload/" "/upload/w_80,h_80,c_fill,g_face/" }}
+          {{- $imglg := replace .Params.primary_image "/upload/" "/upload/w_160,h_160,c_fill,g_face/" }}
+          <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
+        </picture>
+        <em>{{ .Title }}</em>
       </a>
-      {{ end }}
-    {{ end }}
-  {{ end }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
       <span class="post--meta-date">{{ .Date.Format "Jan 2, 2006" }}</span>
     </section>    
 
-  {{/* Disclaimer */}}
-  {{ with .Params.disclaimer }}
+  {{- /* Disclaimer */}}
+  {{ if .Params.disclaimer -}}
     <section class="post--single_disclaimer">
       {{ . | markdownify }}
     </section>
-  {{ end }}
+  {{- end -}}
 
 
-  {{/* Preamble */}}
-  {{ with .Params.preamble }}
+  {{- /* Preamble */}}
+  {{- if .Params.preamble }}
     <section class="post--single_preamble">
       {{ . | markdownify }}
     </section>
-  {{ end }}
+  {{- end -}}
 
 
-  {{/* Post Content */}}
-  {{ if .Content }}
+  {{- /* Post Content */}}
+  {{- if .Content }}
     <section class="post--single_body">
       {{ .Content }}
     </section>
-  {{ end }}
+  {{- end -}}
 
-  {{/* video content */}}
-  {{ if .Params.youtube_url }}
-
+  {{- /* video content */}}
+  {{- if .Params.youtube_url }}
     <section class="post--single_body">
       <figure data-type="video" id="youtube_player">
 
@@ -149,9 +148,9 @@
 
       player.innerHTML = '<iframe width="560" height="315" src="//www.youtube.com/embed/' + myId + '" frameborder="0" allowfullscreen></iframe>';
     </script>
-  {{ end }}
+  {{- end -}}
 
-  {{/*
+  {{- /*
 
     TODO:
     Gallery
@@ -176,10 +175,10 @@
       document.addEventListener('DOMContentLoaded', function() { initGallery(); });
     </script>
     {% endif %}
-  */}}
+  */ -}}
 
   
-  {{/* Social Shares */}}
+  {{- /* Social Shares */}}
     <section class="post--single_social">
       <nav class="nav--share">
         <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" class="social--facebook pill"><i class="icon-facebook"></i> Facebook <em class="social--count_facebook" data-url="{{ .Permalink }}"></em></a>
@@ -188,31 +187,31 @@
     </section>
 
 
-  {{/* Previous and Next Articles */}}
+  {{- /* Previous and Next Articles */}}
     <nav class="post--single_jump">
-      {{- with .PrevInSection -}}
+      {{- with .PrevInSection }}
       <a href="{{.Permalink}}" title="Previous" class="post--single_jump-prev">
         <i class="icon-arrow-left"></i>
         <span>{{.Title | htmlUnescape}}</span>
       </a>
       {{- end -}}
-      {{- with .NextInSection -}}
+      {{- with .NextInSection }}
       <a href="{{.Permalink}}" title="Next" class="post--single_jump-next">
         <i class="icon-arrow-right"></i>
         <span>{{.Title | htmlUnescape }}</span>
       </a>
-      {{- end -}}
+      {{- end }}
     </nav>
 
 
-  {{/* Adspot 1 
+  {{- /* Adspot 1 
     <section class="post--single_adspot">
       {{- partial "ad-spot1.html" . -}}
     </section>
-  */}}
+  */ -}}
 
 
-  {{/* 
+  {{- /* 
     
     TODO:
     Author details
@@ -238,53 +237,53 @@
       </div>
     {% endfor %}
     </section>
-  */}}
+  */ -}}
 
 
-  {{/* Related Content */}}
+  {{- /* Related Content */}}
 
-  {{ with .Params.related_articles }}
+  {{- with .Params.related_articles }}
     <section class="post--single_related">
       <h2 class="pill">Related Content</h2>
       <ul class="post--list __mini">
       {{- range $article := . -}}
-        {{- with $.Site.GetPage "page" $article -}}
+        {{- with $.Site.GetPage "page" $article }}
         <li class="post--list-item">
           <a href="{{.Permalink}}" class="post--list-item">
             <picture class="post--list-image">
-              {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/w_370,h_245,c_fill,g_faces/" }}
-              {{ $imglg := replace .Params.primary_image "/upload/" "/upload/w_740,h_490,c_fill,g_faces/" }}
+              {{- $imgsm := replace .Params.primary_image "/upload/" "/upload/w_370,h_245,c_fill,g_faces/" }}
+              {{- $imglg := replace .Params.primary_image "/upload/" "/upload/w_740,h_490,c_fill,g_faces/" }}
               <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkkAQAAB8AG7jymN8AAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
             </picture>
             <div class="post--list-title">
               <h1><span title="{{ .Title | htmlUnescape }}">{{ .Title | htmlUnescape }}</span></h1>
-              {{ with .Params.categories }}
+              {{- with .Params.categories }}
               <em class="post--meta-category">{{ . }}</em>
-              {{ end }}
+              {{- end }}
             </div>
           </a>
         </li>
         {{- end -}}
-      {{- end -}}
+      {{- end }}
       </ul>
     </section>
-  {{ end }}
+  {{- end -}}
 
 
-  {{/* People and Companies - The Scene */}}
+  {{- /* People and Companies - The Scene */}}
 
-  {{ if (or (.Params.related_people) (.Params.related_companies)) }}
+  {{- if (or (.Params.related_people) (.Params.related_companies)) }}
     <section class="post--single_scene">
       <h2 class="pill">Mentions</h2> 
       <nav>
         <ul>
       {{- with .Params.related_people -}}
         {{- range $person := . -}}
-          {{- with $.Site.GetPage "page" $person -}}
+          {{- with $.Site.GetPage "page" $person }}
           <li>
               <a href="{{.Permalink}}">
-                {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/w_100,h_100,c_fill,g_face/" }}
-                {{ $imglg := replace .Params.primary_image "/upload/" "/upload/w_200,h_200,c_fill,g_face/" }}
+                {{- $imgsm := replace .Params.primary_image "/upload/" "/upload/w_100,h_100,c_fill,g_face/" }}
+                {{- $imglg := replace .Params.primary_image "/upload/" "/upload/w_200,h_200,c_fill,g_face/" }}
                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
                 <span>{{ .Title | htmlUnescape }}</span>
               </a>
@@ -294,25 +293,25 @@
       {{- end -}}
       {{- with .Params.related_companies -}}
         {{- range $company := . -}}
-          {{- with $.Site.GetPage "page" $company -}}
+          {{- with $.Site.GetPage "page" $company }}
           <li>
               <a href="{{.Permalink}}">
-                {{ $imgsm := replace .Params.primary_image "/upload/" "/upload/w_100,h_100,c_fill,g_face/" }}
-                {{ $imglg := replace .Params.primary_image "/upload/" "/upload/w_200,h_200,c_fill,g_face/" }}
+                {{- $imgsm := replace .Params.primary_image "/upload/" "/upload/w_100,h_100,c_fill,g_face/" }}
+                {{- $imglg := replace .Params.primary_image "/upload/" "/upload/w_200,h_200,c_fill,g_face/" }}
                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
                 <span>{{ .Title | htmlUnescape }}</span>
               </a>
           </li>
           {{- end -}}
         {{- end -}}
-      {{- end -}}
+      {{- end }}
         </ul>
       </nav>
     </section>
-  {{ end }}
+  {{- end -}}
 
 
-  {{/* Comments from Disqus */}}
+  {{- /* Comments from Disqus */}}
     <section class="post--single_comments" id="comments">
       <h2 class="pill">Comments</h2>
 
