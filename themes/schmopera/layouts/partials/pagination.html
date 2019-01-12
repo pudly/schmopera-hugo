@@ -40,7 +40,7 @@
         {{- $.Scratch.Set "page_number_flag" true -}}
       {{- end -}}
       {{- if eq ($.Scratch.Get "page_number_flag") true -}}
-        <li class="pagination__item{{- if eq . $paginator -}} pagination__item--current{{- end -}}">
+        <li class="pagination__item{{ if eq . $paginator }} pagination__item--current{{ end }}">
           <a href="{{- .URL -}}" class="pagination__link">
             {{- .PageNumber -}}
           </a>
