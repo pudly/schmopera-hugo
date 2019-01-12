@@ -115,15 +115,42 @@
     &:before {
       left: 20%;
     }
+
+    &:after {
+      display: none;
+      content: 'Swipe to see more';
+      position: absolute;
+      width: 60px;
+      font-size: .75em;
+      line-height: 1em;
+      font-style: normal;
+      top: 50%;
+      left: -55px;
+      white-space: normal;
+      text-align: right;
+      margin-top: -1.4em;
+      opacity: .8;
+
+      @include bp-medium {
+        content: 'Scroll to see more';
+        left: -45px;
+        font-size: .5em;
+        margin-top: -1.1em;
+      }
+    }
   }
 
-  nav.right {
+  nav.__notscrolled i.icon-arrow-right:after {
+    display: block;
+  }
+
+  nav.__right {
     i.icon-arrow-right {
       display: block;
     }
   }
 
-  nav.left {
+  nav.__left {
     i.icon-arrow-left {
       display: block;
     }

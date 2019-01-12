@@ -43,17 +43,19 @@ document.addEventListener('DOMContentLoaded', function() {
       var fc = $featured_nav.scrollLeft;
       var fm = $featured_nav.clientWidth;
 
+      $featured_nav.classList.remove('__notscrolled');
+
       if (fc > (fw - fm - 40)) {
-        $featured_nav.classList.remove('right');
-        $featured_nav.classList.add('left');
+        $featured_nav.classList.remove('__right');
+        $featured_nav.classList.add('__left');
       }
       else if (fc == 0) {
-        $featured_nav.classList.remove('left');
-        $featured_nav.classList.add('right');
+        $featured_nav.classList.remove('__left');
+        $featured_nav.classList.add('__right');
       }
       else {
-        $featured_nav.classList.add('right');
-        $featured_nav.classList.add('left');
+        $featured_nav.classList.add('__right');
+        $featured_nav.classList.add('__left');
       }
     })
   }
