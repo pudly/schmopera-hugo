@@ -16,9 +16,7 @@
 
 {{- define "main" -}}
 
-{{- /*
-
-  TODO
+{{- /* Schema */ -}}
 
   <script type="application/ld+json">
   {
@@ -31,17 +29,21 @@
     "headline": "{{ .Title }}",
     "image": {
       "@type": "ImageObject",
-      "url": "{ item.primary_image|imageCrop(800, 800) }",
-      "height": 800,
-      "width": 800
+      "url": "{{ replace .Params.primary_image "/upload/" "/upload/w_740,h_740,c_fill,g_faces/" }}",
+      "height": 740,
+      "width": 740
     },
-    "datePublished": "{ item.publish_date }",
-    "dateModified": "{ item.publish_date }",
+    "datePublished": "{{ .Params.date }}",
+    "dateModified": "{{ .Params.date }}",
     "author": {
-      {% for relation in item.authors %}
+        {{ with .Params.author -}}
+          {{ range $author := . -}}
+            {{ with $.Site.GetPage "page" $author -}}
         "@type": "Person",
-        "name": "{ relation.name }"
-      {% endfor %}
+        "name": "{{ .Title }}"
+            {{ end -}}
+          {{ end -}}
+        {{ end -}}
     },
      "publisher": {
       "@type": "Organization",
@@ -53,11 +55,9 @@
         "height": 800
       }
     },
-    "description": "{ item.short_description }"
+    "description": "{{ .Params.short_description }}"
   }
   </script>
-
-*/ -}}
 
   <article class="post--single">
 
