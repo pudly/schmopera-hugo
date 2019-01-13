@@ -195,7 +195,7 @@
         <span>{{.Title | htmlUnescape}}</span>
       </a>
       {{- end -}}
-      {{- with .NextInSection }}
+      {{- with .NextInSection -}}
       <a href="{{.Permalink}}" title="Next" class="post--single_jump-next">
         <i class="icon-arrow-right"></i>
         <span>{{.Title | htmlUnescape }}</span>
@@ -279,7 +279,7 @@
         <ul>
       {{- with .Params.related_people -}}
         {{- range $person := . -}}
-          {{- with $.Site.GetPage "page" $person }}
+          {{- with $.Site.GetPage "page" $person -}}
           <li>
               <a href="{{.Permalink}}">
                 {{- $imgsm := replace .Params.primary_image "/upload/" "/upload/w_100,h_100,c_fill,g_face/" }}
@@ -293,7 +293,7 @@
       {{- end -}}
       {{- with .Params.related_companies -}}
         {{- range $company := . -}}
-          {{- with $.Site.GetPage "page" $company }}
+          {{- with $.Site.GetPage "page" $company -}}
           <li>
               <a href="{{.Permalink}}">
                 {{- $imgsm := replace .Params.primary_image "/upload/" "/upload/w_100,h_100,c_fill,g_face/" }}
@@ -304,7 +304,7 @@
           </li>
           {{- end -}}
         {{- end -}}
-      {{- end }}
+      {{- end -}}
         </ul>
       </nav>
     </section>
