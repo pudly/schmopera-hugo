@@ -247,7 +247,7 @@
       <h2 class="pill">Related Content</h2>
       <ul class="post--list __mini">
       {{- range $article := . -}}
-        {{- with $.Site.GetPage "page" $article }}
+        {{- with $.Site.GetPage "page" $article -}}
         <li class="post--list-item">
           <a href="{{.Permalink}}" class="post--list-item">
             <picture class="post--list-image">
@@ -264,7 +264,7 @@
           </a>
         </li>
         {{- end -}}
-      {{- end }}
+      {{- end -}}
       </ul>
     </section>
   {{- end -}}
