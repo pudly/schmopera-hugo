@@ -102,7 +102,7 @@
   {{- /* Disclaimer */}}
   {{ if .Params.disclaimer -}}
     <section class="post--single_disclaimer">
-      {{ . | markdownify }}
+      {{ .Params.disclaimer | markdownify }}
     </section>
   {{- end -}}
 
@@ -110,7 +110,7 @@
   {{- /* Preamble */}}
   {{- if .Params.preamble }}
     <section class="post--single_preamble">
-      {{ . | markdownify }}
+      {{ .Params.preamble | markdownify }}
     </section>
   {{- end -}}
 
