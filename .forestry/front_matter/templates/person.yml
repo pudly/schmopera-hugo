@@ -40,3 +40,5 @@ fields:
     source:
       type: pages
       section: companies
+pages:
+- content/scene/people/jared-bybee.md
