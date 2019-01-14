@@ -32,11 +32,8 @@ fields:
   label: Website
   name: website
   description: Must be complete URL (https://www.website.com)
-- type: text
-  label: Twitter
-  name: twitter
-  description: Must be complete URL (https://www.twitter.com/username)
-- type: text
-  label: Facebook
-  name: facebook
-  description: Must be complete URL (https://www.facebook.com/username)
+- type: blocks
+  name: social_media
+  label: Social Media
+  template_types:
+  - social-media
