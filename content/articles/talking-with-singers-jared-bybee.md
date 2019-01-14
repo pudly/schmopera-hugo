@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2019-01-13T18:37:28+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 preamble = "Calfornia-born baritone [Jared Bybee](/scene/people/jared-bybee/) is currently in Salt Lake City, gearing up for Utah Opera's production of Rachel Portman and Nicholas Wright's _The Little Prince_. Bybee sings the Pilot, opposite 11-year-old Nitai Fluchel in the title role. We spoke with Bybee about working on this opera, and his unexpected path to a singing career."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1547404386/media/2019/01/JaredBybee.jpg"
@@ -22,6 +21,8 @@ youtube_url = ""
 I think that when I first began to pursue music seriously, particularly opera, one of the biggest challenges was learning to come out of my shell and fully inhabit the musical or dramatic task at hand. In the medical field, things tend to be more serious and restrained, so it took a little bit of time to get comfortable engaging different sides of my personality and giving them to different characters. There's something about singing that's so personal… it's like you’re sharing your soul all the time with everybody, so it just takes time to feel confident that what you're sharing is authentic. In my case too, even though I took piano lessons as a kid and also played in the school band, I wasn't in drama or any choruses growing up, so the world of opera was a completely new experience for me.
 
 As for the easiest part of this transition: When I first started taking voice lessons and singing in the university chorus, it felt like an escape for me from the academic grind of being an econ major and pre-med student—be that physics homework or writing a paper about demands in certain markets. When I decided to move to New York and make music my full-time pursuit, it was a relief to take what had been a source of fulfillment in my private life and to extend that to my life as a whole. Consequently, auditioning and being a musician in general has never felt like a chore. I also found that studying the sciences and a number-driven subject like economics prepared me well for studying scores and learning roles, since music is so mathematical in a sense, and you have to be able to efficiently take in a lot of information.
+
+>"A part of having a successful career is being able to productively face the messy reality of it."
 
 ### What are some unique challenges of performing a work intended for young audiences, and with sharing the stage with a young performer?
 
@@ -50,3 +51,5 @@ It feels like music and opera chose me. As we were discussing before, I had diff
 ### What do you know now about the singing career that you wish you knew 10 years ago?
 
 I wish I had recognized that hearing "no" is not necessarily a bad thing. Rejection is one of the most important things you have to embrace as a performer, and being told that you're not ready or not right for a certain role can be a great impetus for growth. It's a chance to go back to the drawing board and improve, as hard of a concept as that is to accept for a young singer setting out. You have this idea of how your career is going to go, you see your career blossoming in a certain way, and you've heard that if you have the drive, ambition, and talent then you're going to make it. But a part of having a successful career is being able to productively face the messy reality of it, and use rejection as an opportunity to propel yourself to new heights and discover new things about yourself and your artistry.
+
+>Utah Opera's production of _The Little Prince_ runs January 19-27. For details and ticket information, [click here.](https://utahopera.org/event/id/20196/)
