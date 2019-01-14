@@ -33,7 +33,7 @@ I should say too that the Madeleine Choir School students who make up the chorus
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1547404541/media/2019/01/TheLittlePrince.jpg){{% /md %}}
 
-<figcaption>Jared Bybee and Nitai Fluchel in Utah Opera's production of The Little Prince_,_ 2018. Photo courtesy of Utah Opera.</figcaption>
+<figcaption>Jared Bybee and Nitai Fluchel in Utah Opera's production of The Little Prince, 2018. Photo courtesy of Utah Opera.</figcaption>
 
 </figure>
 
