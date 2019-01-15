@@ -2,6 +2,7 @@
 author = ["authors/michael-ching.md"]
 categories = "Op-Ed"
 date = "2019-01-14T21:16:55+00:00"
+discipline = ""
 draft = true
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1547500297/media/2019/01/sqStephenLord.jpg"
 primary_image_credit = "Stephen Lord at the 2019 National Opera Association conference in Salt Lake City. Photo by Richard Poppino."
@@ -9,14 +10,16 @@ related_articles = ["articles/unraveling-bound-v2-second-time-is-also-a-charm.md
 related_companies = []
 short_description = "Last week's National Opera Association conference in Salt Lake City was filled with informative sessions, vocal and scenes competitions, their biannual one act opera competition, and achievement awards for Harolyn Blackwell and Stephen Lord. "
 slug = "a-report-from-the-noa-conference-in-salt-lake-city"
+social_media = []
 title = "A report from the NOA conference in Salt Lake City"
+website = ""
 
 +++
-Last week's National Opera Association conference in Salt Lake City was filled with informative sessions, vocal and scenes competitions, their biannual one act opera competition, and achievement awards for Harolyn Blackwell and Stephen Lord. 
+Last week's National Opera Association conference in Salt Lake City was filled with informative sessions, vocal and scenes competitions, their biannual one act opera competition, and achievement awards for Harolyn Blackwell and Stephen Lord.
 
 <figure data-type="image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1547500362/media/2019/01/NaamahsArkRobertBreault.jpg){{% /md %}}
 
-<figcaption>Naamah's Ark, (Michelson/Vavrek) presented by Southern Utah University at the National Opera Association, 2019. Photo by Robert Breault.</figcaption>
+<figcaption>Naamah's Ark (Michelson/Vavrek), presented by Southern Utah University at the National Opera Association, 2019. Photo by Robert Breault.</figcaption>
 
 </figure>
 
@@ -36,4 +39,4 @@ There was lots of serious discussion in panels and in the bars afterwards about 
 
 </figure>
 
-Harolyn Blackwell received the "Lift Every Voice" Legacy Award. She is clearly a shining example of a singer who excelled in both opera and musical theatre. The number of "you musn't do both" types is on the decline. Maestro Stephen Lord accepted a Lifetime Achievement award with a speech that was a model of positivity and hope for the aspiring performer, which really was the vibe of the whole conference. Next year, the conference will be in January in Cleveland, a location accessible to many in the US and Canada.
+Harolyn Blackwell received the "Lift Every Voice" Legacy Award. She is clearly a shining example of a singer who excelled in both opera and musical theatre. The number of "you mustn't do both" types is on the decline. Maestro Stephen Lord accepted a Lifetime Achievement award with a speech that was a model of positivity and hope for the aspiring performer, which really was the vibe of the whole conference. Next year, the conference will be in January in Cleveland, a location accessible to many in the US and Canada.
