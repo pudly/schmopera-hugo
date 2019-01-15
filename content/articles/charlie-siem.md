@@ -5,15 +5,15 @@ date = "2019-01-15T17:03:27+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
-preamble = ""
+preamble = "On February 5, violinist Charlie Siem takes the stage at London's Cadogan Hall for a one-night-only concert to benefit [The International Network for Cancer Treatment and Research](http://www.inctr.org/) (INCTR), [TUCCA](http://www.tucca.org.br/), and [The Children at Risk Foundation](http://www.carf-uk.org/) (CARF-UK).\n\nSiem's concert is part of TUCCA's ongoing _Music for a Cure_ concert series, which has traveled internationally, and comes to the UK for the first time in collaboration with INCTR and CARF-UK. \n\nSiem chats with us about playing music for a cause."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1547571777/media/2019/01/sqCHARLIESIEMUweArens.jpg"
 primary_image_credit = "Photo: Uwe Arens."
-related_articles = []
+related_articles = ["articles/music-the-musicians-therapy-except-when-its-not.md", "articles/art-is-not-action.md"]
 related_companies = []
 related_people = []
 short_description = "short description"
-slug = "charlie-siem"
-title = "Charlie Siem"
+slug = "charlie-siem-music-is-about-sharing-and-healing"
+title = "Charlie Siem: \"Music is about sharing and healing.\""
 youtube_url = ""
 
 +++
@@ -27,7 +27,7 @@ I visited the care centres outside São Paolo last May and was moved by the work
 
 ### What kind of music will you bring to Cadogan Hall?
 
-A varied program from Bach to Debussy. A violinist joins in the second half so it will be fun and beautiful.
+A varied program from Bach to Debussy. Violinist works in the second half so it will be fun and beautiful.
 
 ### Do you have any favourites on this programme?
 
