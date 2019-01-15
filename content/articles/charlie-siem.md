@@ -19,7 +19,7 @@ youtube_url = ""
 +++
 ### What do you find to be unique about preparing a concert for charity?
 
-It adds a dimension to the occasion as the cause is one that I believe in and have seen in operation so understand the benefit it has. Also, music is about sharing and healing so when it is supporting such a worthwhile cause it can add an intensity to the meaning that the audience might derive from the experience.
+It adds a dimension to the occasion; the cause is one that I believe in, and have seen in operation, so I understand the benefit it has. Also, music is about sharing and healing so when it is supporting such a worthwhile cause, it can add an intensity to the meaning that the audience might derive from the experience.
 
 ### What about these organisations inspired you to plan this concert?
 
@@ -27,11 +27,11 @@ I visited the care centres outside São Paolo last May and was moved by the work
 
 ### What kind of music will you bring to Cadogan Hall?
 
-A varied program from Bach to Debussy. Violinist works in the second half so it will be fun and beautiful. 
+A varied program from Bach to Debussy. A violinist joins in the second half so it will be fun and beautiful.
 
 ### Do you have any favourites on this programme?
 
-Every piece I play has to feel like my favourite to allow me to be convincing! 
+Every piece I play has to feel like my favourite to allow me to be convincing!
 
 ### What advice do you have for your colleagues who want to do more charitable work with their craft?
 
