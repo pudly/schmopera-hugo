@@ -8,16 +8,16 @@ image_gallery = []
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1547666757/media/2019/01/sqHookUp.jpg"
 primary_image_credit = ""
-related_articles = []
-related_companies = []
-related_people = []
+related_articles = ["articles/tapestry-operas-selfie-talks-online-bullying.md"]
+related_companies = ["scene/companies/tapestry-opera.md"]
+related_people = ["scene/people/michael-mori.md", "scene/people/chris-thornborrow.md"]
 short_description = "short description"
 slug = "hook-up"
 title = "Hook Up"
 youtube_url = ""
 
 +++
-Tapestry Opera, the Toronto-based opera company with a nearly four-decade-long history of producing new works, rarely puts something on its stage without a great deal of thought.
+[Tapestry Opera](/scene/companies/tapestry-opera/), the Toronto-based opera company with a nearly four-decade-long history of producing new works, rarely puts something on its stage without a great deal of thought.
 
 That thoughtful reputation certainly comes in handy with [_Hook Up_](https://tapestryopera.com/hook-up/), Tapestry's upcoming world premiere set to run January 29 to February 9 at Theatre Passe Muraille. Composer Chris Thornborrow, librettist Julie Tepperman, and director/dramaturge Richard Greenblatt, deign to tell a polarizing, triggering story that is full of themes that permeate every news story and piece of media we consume. 
 
