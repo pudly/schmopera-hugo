@@ -5,8 +5,8 @@ lastmod = "2017-05-01T16:30:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493670648685/2017-05-01---Danika-Loren-headshot.jpg.jpg"
 primary_image_credit = "Photo by Emily Ding"
 publishDate = "2015-11-06T10:48:00-05:00"
-related_companies = ["scene/companies/university-of-toronto-opera.md","scene/companies/saskatoon-opera.md","scene/companies/collectif.md"]
-slug = "danika-lorn"
+related_companies = ["scene/companies/university-of-toronto-opera.md", "scene/companies/saskatoon-opera.md", "scene/companies/collectif.md"]
+slug = "danika-lorèn"
 title = "Danika Lorèn"
 website = "http://www.danikalorensoprano.com/"
 [[social_media]]
@@ -21,8 +21,8 @@ url = "https://twitter.com/DanikaLoren"
 platform = "Instagram"
 template = "social-media"
 url = "https://instagram.com/danikaloren/"
-+++
 
++++
 Danika Lorèn is known for her dramatic sensitivity and instinctive musicality. Ever versatile, Danika’s past roles include: Lady with a Hand Mirror (*Postcard from Morocco*), Mimì (*La Bohème*), Lauretta (*Gianni Schicchi*), Frasquita (*Carmen*), Pamina/2nd Lady (*Die Zauberflöte*), Susanna (*Le Nozze di Figaro*) and Rosina (*Il Barbiere di Siviglia*). This season, Danika will perform the roles of Monica (*The Medium*) and Tiny (*Paul Bunyan*) with University of Toronto Opera, and reprise the role of Rosina (*Il Barbiere di Siviglia*) with the Saskatoon Opera Company in 2016.
 
 Danika’s orchestral appearances include Faure’s *Requiem* with baritone Nathan Berg, conductor Eric Paektau and the Saskatoon Symphony Orchestra, and Mozart’s *Coronation Mass* with conductor David Holler and the London Fanshawe Chorus. In 2014/15, she won the University of Toronto Concerto Competition and as a result, Danika will perform Richard Strauss’ Op. 27, *Vier Lieder*, with the University of Toronto Symphony Orchestra in October 2015.
