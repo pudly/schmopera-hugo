@@ -25,24 +25,18 @@ Originally workshopped under the titles _Cindy + Mindy = BFFs 4EVR_ and [_Selfie
 
 Though the specific issue saw important change, the creators of what would become _Hook Up_ still wanted to tell a story that addressed the underlying themes: self-esteem, peer pressure, and consent.
 
-The plot feels familiar, even for those well beyond their carefree youth. Mindy, her best friend Cindy, and her boyfriend Tyler, all move from their hometown to start at the same university; Cindy finds freedom in being a social party-goer, and Mindy begins a decidedly "grown-up" life, living away from her parents and starting 
+>"It's not black and white. It’s not like there are just good guys and bad guys. But there’s definitely a culture that needs to change."
 
-* 
-* “What happen when you wake up and you don’t remember what happened to you the night before?”
-* “This is one foot in opera, one foot in musical theatre”
-* Singers are MT experienced, classically trained
-* “The sense of this being young and spirited and having a little bit of popular influence
-* “It has the integrity and complexity of opera, but it has the brightness and youthful quality of the English that musical theatre has”
-* Piece was originally _Cindy + Mindy = BFFs 4EVR_, then was _Selfie_ (plot was about cyberbullying, especially before anti-cyberbullying laws existed)
-* “Those laws came into existence over the course of workshopping _Selfie_”
-* “We know why we want to write this story, and the elements we’re concerned with”
-* “How little of the victim’s voice we hear”
-* “A way to understand our world more, rather than a lesson”
-* “It’s not a chastisement”
-* “It’s not black and white. It’s not like there are good guys and bad guys. But there’s definitely a culture that needs to change.”
-* “You are supposed to be an exploratory, interesting human being when you land in university”
-* Mindy starts university, same one as her BFF Cindy and her boyfriend Tyler - Mindy is more study-oriented, domestic with boyfriend, and Cindy is more of a free-spirited partier
-* Mindy and Tyler take a break, Mindy tries out partying for the first time
-* She gets drunk, flirts & makes out with a guy, they go upstairs together, and that’s the last thing she remembers
-* “Her best friend’s response is, ‘you just had bad drunk sex’”
-* “She doesn’t know how to deal with this”
+The plot feels familiar, even for those well beyond their carefree youth. Mindy, her best friend Cindy, and her boyfriend Tyler, all move from their hometown to start at the same university; Cindy finds freedom in being a social party-goer, and Mindy tries out her "grown-up" life, balancing her studies with spending comfortable nights in with Tyler. When she and Tyler take a break, Mindy gives the party scene a try - and wakes up only with the memory of drinking a lot, and heading upstairs with a guy.
+
+“You are supposed to be an exploratory, interesting human being when you land in university,” says Mori. And in a world of newfound parental freedom and heightened pressure to make friends, it's no wonder that after her first drunken blackout, Mindy is presented with the question, "What happens when you wake up and you don't remember what happened to you the night before?"
+
+Mori describes _Hook Up_ as having "one foot in opera, one foot in musical theatre." The cast of singers is classically trained, and experienced in musical theatre; they bring to Tapestry Opera a stylistic edge that Thornborrow's score uses as a storytelling device.
+
+"The sense of this story being young and spirited and having a little bit of popular influence is why we went in that direction," says Mori. "_Hook Up_ has the integrity and complexity of opera, but it has the brightness and youthful quality of the English that musical theatre has."
+
+The end result, though it suggests an uncomfortably familiar story, is "not a chastisement." It's a chance to hear one young woman's story, particularly when so often it's the victim's voice that is heard the least.
+
+"It's not black and white. It’s not like there are just good guys and bad guys. But there’s definitely a culture that needs to change."
+
+>_Hook Up_ runs January 29 to February 9 at Theatre Passe Muraille, 16 Ryerson Ave. For details and ticket information, [click here.](https://tapestryopera.com/hook-up/)
