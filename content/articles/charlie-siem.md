@@ -33,7 +33,7 @@ I visited the care centres outside São Paolo last May and was moved by the work
 
 ### What kind of music will you bring to Cadogan Hall?
 
-A varied program from Bach to Debussy. Violinist works in the second half so it will be fun and beautiful.
+The program will be varied, from Bach to Debussy, including some fun and beautiful violinistic works in the second half.
 
 ### Do you have any favourites on this programme?
 
@@ -43,4 +43,4 @@ Every piece I play has to feel like my favourite to allow me to be convincing!
 
 My advice is to choose causes that they believe in and think they can make a difference to by helping. To remember how lucky we are to make music and share it with the world.
 
->Charlie Siem's Cadogan Hall concert happens 5 February at 7:30pm. For details and ticket information, [click here.](http://www.cadoganhall.com/event/charlie-siem-190205/)
+> Charlie Siem's Cadogan Hall concert happens 5 February at 7:30pm. For details and ticket information, [click here.](http://www.cadoganhall.com/event/charlie-siem-190205/)
