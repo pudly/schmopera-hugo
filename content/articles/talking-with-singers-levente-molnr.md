@@ -7,13 +7,13 @@ preamble = "Hungarian baritone [Levente Molnár](/scene/people/levente-molnar/) 
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539789158851/sqmolnar_levente.jpg.jpg"
 primary_image_credit = "Levente Molnár, baritone."
 publishDate = "2018-10-17T11:29:00-04:00"
-related_articles = ["articles/talking-with-singers-matthew-polenzani.md","articles/talking-with-singers-gyula-nagy.md"]
+related_articles = ["articles/talking-with-singers-matthew-polenzani.md", "articles/talking-with-singers-gyula-nagy.md"]
 related_people = ["scene/people/levente-molnar.md"]
 short_description = "&quot;I have learnt a lot but there is still a lot to learn. The most important thing I&#039;ve learned is that the calling is not only about professionalism and talent. Many other factors also play a role in the career of a professional singer, some of which might be harmful to the art itself.&quot;"
-slug = "talking-with-singers-levente-molnr"
+slug = "talking-with-singers-levente-molnár"
 title = "Talking with singers: Levente Molnár"
-+++
 
++++
 ### Why do you sing, particularly in the field of opera?
 
 First and foremost, because of a love for the art form. When a person doesn't really love opera, I always feel that they don't know the genre well enough, and just haven't yet found what will give them a real cathartic experience. I didn't use to know opera either until a lovely teacher of mine got me acquainted with it. For this I am eternally grateful to her. I already had a good singing voice as a child and took part in folk song competitions. I loved singing; it gave me something other subjects like the sciences never could. Singing connected me to the world and to God. It gave me a certainty, an answer to the question of who I am, where my path lies in this vast forest of life where we have to make choices every single second.
