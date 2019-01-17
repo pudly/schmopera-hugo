@@ -4,8 +4,8 @@ discipline = "Mezzo-soprano"
 lastmod = "2017-04-03T10:51:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491212992933/2017-04-03---Ginger-Costa-Jackson.jpg.jpg"
 publishDate = "2017-04-03T10:51:00+01:00"
-related_companies = ["scene/companies/nashville-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/glimmerglass-festival.md"]
-slug = "ginger-costajackson"
+related_companies = ["scene/companies/nashville-opera.md", "scene/companies/opra-national-de-paris.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/glimmerglass-festival.md"]
+slug = "ginger-costa-jackson"
 title = "Ginger Costa-Jackson"
 website = "http://gingercostajackson.com/"
 [[social_media]]
@@ -20,8 +20,8 @@ url = "https://twitter.com/gingercostaj"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/channel/UCvdtI7Vg6rpFdY1J3JYJSEA"
-+++
 
++++
 Sicilian-born mezzo-soprano Ginger Costa-Jackson was noted recently to have created a woman whose joie de vivre could destroy any man in her path. (TCO Debut) As the *New York Times* observed, Ginger Costa-Jackson is a ravishing mezzo-soprano from Italy; her voice has dark, rich colorings and considerable body. Ginger has enjoyed having sung at some of the lead houses in the world. This year in particular is very exciting for Ms Costa-Jackson as she is anticipating singing with some of the world's most renowned opera companies. She is excited to announce she will be debuting her first lead role at the Metropolitan Opera *in The Barber of Seville* as Rosina. Ginger will be returning to San Francisco Opera to perform her first title role with the company as Carmen in Bizet's *Carmen*. Ginger will also perform Carmen at the Michigan Opera Theater. She will also be returning to Europe to perform a role at Opéra national de Paris in a new production that will soon be announced.
      
 Recent highlights of the past two seasons include Metropolitan Opera performances as Lola in The Metropolitan's new production of *Cavalleria Rusticana*, Smaragdi in *Francesca da Rimini* and Mercedes in *Carmen*. This past summer Ginger was a featured artist in the beloved NYC parks Metropolitan Opera Summer Recital Series. She also returned to St Petersburg Russia with her sisters to perform during the Tchaikovsky festival. Other notable engagements: Virginia Opera debut as Carmen, the title role debut of Marchesa di Poggio in Verdi's *Un giorno di regno* (*King for a day*) with the Glimmerglass Opera Festival, Orquesta Sinfonica de Mineria (Prieto) debut as Ursule in Berlioz's *Beatrice et Benedict* (Mexico City).
