@@ -70,7 +70,7 @@ Baritone [Igor Golovatenko](/scene/people/igor-golovatenko/) was a very young Gi
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1547589670/media/2019/01/211CharlesCastronovoasAlfredoGermontIgorGolovatenkoasGiorgioGermontROH2019.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Charles Castronovo (Alfredo) and Igor Golovatenko (Germont) in La traviata, ROH, 2019. Photo by Catherine Ashmore.</figcaption>
 
 </figure>
 
