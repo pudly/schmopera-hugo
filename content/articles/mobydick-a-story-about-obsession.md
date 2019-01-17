@@ -10,10 +10,10 @@ publishDate = "2018-01-11T20:13:00-05:00"
 related_companies = ["scene/companies/utah-opera.md"]
 related_people = ["scene/people/roger-honeywell.md"]
 short_description = "&quot;I think Moby-Dick is ultimately about the redeeming power of friendship - and how an open heart can literally save your life. It&#039;s no accident that in both the book and the opera, Greenhorn (Ishmael) is saved from drowning by floating on the coffin on his new dear friend Queequeg, who is a &#039;foreigner&#039; and a &#039;savage.&#039;&quot;"
-slug = "mobydick-a-story-about-obsession"
+slug = "moby-dick-a-story-about-obsession"
 title = "Moby-Dick: &quot;A story about obsession.&quot;"
-+++
 
++++
 ### What are some unique pressures/challenges that come with creating a new production of a well-received contemporary opera? How do these differ from presenting a new production of a more traditional staple like *La bohème* or *Le nozze di Figaro*?
 
 I think the biggest issue is that when people see a world premiere of a new American opera, they think that the production is the piece. But there's always more story to tell, different choices to be made. For *Moby-Dick* in particular, because the original production was based almost entirely on projections, some people have trouble seeing beyond that to the opera itself. They don't know if the piece can exist beyond those particular visuals. But of course, this is a wonderful piece, and there is so much in it, and I can't wait to show people another vision of the opera. I have a completely different take on it, so it's really about getting people to come and experience the piece anew. 
