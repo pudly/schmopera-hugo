@@ -7,12 +7,12 @@ preamble = "What does Canadian music sound like? It's a question that the member
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1531526393387/sqsarahslean_promophoto_blazer_credit-david-leyes.jpg.jpg"
 primary_image_credit = "Photo: David Leyes."
 publishDate = "2018-07-20T16:53:00-04:00"
-related_articles = ["articles/canada-sounds-like-mosaque-project.md","articles/darren-sigesmund-on-the-mosaque-project.md","articles/nicole-lize-on-the-mosaque-project.md"]
+related_articles = ["articles/canada-sounds-like-mosaque-project.md", "articles/darren-sigesmund-on-the-mosaque-project.md", "articles/nicole-lize-on-the-mosaque-project.md"]
 short_description = "&quot;It&#039;s always a treat writing music for master musicians and I&#039;m thrilled to be in the company of such great composers, but I&#039;m especially honoured to be part of this project, I think it&#039;s ambitious and timely and a beautiful tribute to Canada.&quot;"
-slug = "sarah-slean-on-the-mosaque-project"
+slug = "sarah-slean-on-the-mosaïque-project"
 title = "Sarah Slean on the Mosaïque Project"
-+++
 
++++
 ## What does it mean to you to be one of the 14 composers creating this musical mosaïque?
 
 It's always a treat writing music for master musicians and I'm thrilled to be in the company of such great composers, but I'm especially honoured to be part of this project, I think it's ambitious and timely and a beautiful tribute to Canada. 
