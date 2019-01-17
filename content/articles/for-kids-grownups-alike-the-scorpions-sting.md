@@ -9,7 +9,7 @@ publishDate = "2017-10-19T20:13:00-04:00"
 related_articles = ["articles/opera-for-all-the-magic-victrola.md"]
 related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
 short_description = "It must be a difficult task, to write a work specifically for young people that does not come off as overly moralistic or saccharine. Happily, the gist of The Scorpions&#039; Sting - the power of forgiveness and the importance of teamwork - avoids sentimentality by being genuinely funny, (alternating effectively between sarcasm and overt goofiness). "
-slug = "for-kids-grownups-alike-the-scorpions-sting"
+slug = "for-kids-grown-ups-alike-the-scorpions-sting"
 title = "For kids &amp; grown-ups alike: The Scorpion&#039;s Sting"
 
 +++
