@@ -44,7 +44,7 @@ It is tragic because it tells the story of a great love that dies before it has 
 
 For the arc of this story to be believable, character relationships have to be secure and and immediately established. We, as audience members, need to feel connected to these characters from the beginning in order to remain invested into the third act which is where the tragedy truly unfolds. There is not much time for these relationships to be established and so the singers must work very hard to create these character relationships instantly.
 
-This is where I feel the production got off to a bit of a rocky start. Happy to simply chock it up to opening night shakiness, I was able to live with the slight lackluster and disjunct staging of act one. The characters seemed to lack motivation in their movements in the opening scene in particular, and I'm not sure whether this was a limitation of the staging or unfamiliarity on the part of the singers.
+This is where I feel the production got off to a bit of a rocky start. Happy to simply chock it up to opening night shakiness, I was able to live with the slight lacklustre and disjunct staging of Act I. The characters seemed to lack motivation in their movements in the opening scene in particular, and I'm not sure whether this was a limitation of the staging or unfamiliarity on the part of the singers.
 
 > It does bring up some questions about the viability of revival productions; things can easily begin to stagnate.
 
@@ -82,6 +82,6 @@ I did have to wonder though, if I was perhaps the fact that this production is o
 
 </figure>
 
-However, it did not diminish the level of craftsmanship and storytelling I was witnessing and of every opera I have ever had the fortune to see performed, _La Traviata_ lends itself best to a classic production. Re-invention is always possible, and in most cases, welcome, but _La Traviata_ provides the rare opportunity to tell a very particular story from a very particular moment in time. The woman upon whom Violetta is based was hugely influential in social circles in Paris and greatly revered by many. It is her story, and she that Verdi is honouring. In many ways, _Traviata_ is one of those operas you just don't fiddle around with. Alright by me; I quite like it just the way it is and I have a feeling it is a story that will continue to be told for many years to come.
+However, it did not diminish the level of craftsmanship and storytelling I was witnessing and of every opera I have ever had the fortune to see performed, _La traviata_ lends itself best to a classic production. Re-invention is always possible, and in most cases, welcome, but _La traviata_ provides the rare opportunity to tell a very particular story from a very particular moment in time. The woman upon whom Violetta is based was hugely influential in social circles in Paris and greatly revered by many. It is her story, and she that Verdi is honouring. In many ways, _Traviata_ is one of those operas you just don't fiddle around with. Alright by me; I quite like it just the way it is and I have a feeling it is a story that will continue to be told for many years to come.
 
 > ROH's _La traviata_ runs through 31 January, including a live cinema broadcast on 30 January, 7pm. For details and ticket information, [click here.](https://www.roh.org.uk/productions/la-traviata-by-richard-eyre)
