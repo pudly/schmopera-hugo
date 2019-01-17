@@ -11,7 +11,7 @@ related_articles = ["articles/falstaff-he-saidshe-said.md", "articles/in-review-
 related_companies = ["scene/companies/calgary-opera.md"]
 related_people = ["scene/people/adam-luther.md", "scene/people/annemarie-macintosh.md"]
 short_description = "&quot;I&#039;m glad that Charles Gounod is a French composer because I can understand the opera in my own language. In many ways, Gounod&#039;s score is so far away from the Prokofiev score. Prokofiev&#039;s music is imminently danceable, the chords and harmonizations are rich and original. But Prokofiev&#039;s score is very dark while Gounod infuses a lot of colour, humour and drama.&quot;"
-slug = "starcrossd-lovers-cross-artistic-lines-in-new-coproduction"
+slug = "star-crossd-lovers-cross-artistic-lines-in-new-co-production"
 title = "&quot;Star-cross&#039;d lovers&quot; cross artistic lines in new co-production"
 
 +++
