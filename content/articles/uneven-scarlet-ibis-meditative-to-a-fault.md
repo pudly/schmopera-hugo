@@ -7,11 +7,11 @@ draft = true
 image_gallery = []
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1547839289/media/2019/01/sqIbis4.jpg"
-primary_image_credit = ""
-related_articles = []
+primary_image_credit = "Scott Ballantine and Britt Brown in The Scarlet Ibis, Boston Opera Collaborative, 2019. Photo: Dan Busler."
+related_articles = ["articles/varied-opera-bites-delivers-interesting-delectable-morsels.md", "articles/intimate-brewery-room-la-bohme-a-revelatory-triumph.md"]
 related_companies = ["scene/companies/boston-opera-collaborative.md"]
 related_people = []
-short_description = "short description"
+short_description = "Unfortunately, Weisman's score does not always meet the standard that Cote sets. The issue is that Weisman's music is often relatively one-note if something of little dramatic import is going on."
 slug = "uneven-scarlet-ibis-meditative-to-a-fault"
 title = "Uneven Scarlet Ibis Meditative To A Fault"
 youtube_url = ""
@@ -25,7 +25,7 @@ Thus, we turn to the Boston Opera Collaborative’s production of Stefan Weisman
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1547839783/media/2019/01/Ibis1.jpg){{% /md %}}
 
-<figcaption> in The Scarlet Ibis, Boston Opera Collaborative, 2019. Photo: Dan Busler.</figcaption>
+<figcaption>Scott Ballantine, Lucas Coura, and Ann Fogler in The Scarlet Ibis, Boston Opera Collaborative, 2019. Photo: Dan Busler.</figcaption>
 
 </figure>
 
@@ -37,7 +37,7 @@ This is a real shame, because when Weisman does get to the dramatically importan
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1547839815/media/2019/01/Ibis2.jpg){{% /md %}}
 
-<figcaption> in The Scarlet Ibis, Boston Opera Collaborative, 2019. Photo: Dan Busler.</figcaption>
+<figcaption>Lucas Coura and Ann Fogler in The Scarlet Ibis, Boston Opera Collaborative, 2019. Photo: Dan Busler.</figcaption>
 
 </figure>
 
@@ -49,7 +49,7 @@ Of course, one can paper over such issues with clever staging, but alas, directo
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1547839851/media/2019/01/Ibis3.jpg){{% /md %}}
 
-<figcaption> in The Scarlet Ibis, Boston Opera Collaborative, 2019. Photo: Dan Busler.</figcaption>
+<figcaption>Emily Harmon in The Scarlet Ibis, Boston Opera Collaborative, 2019. Photo: Dan Busler.</figcaption>
 
 </figure>
 
@@ -59,7 +59,7 @@ The performance, at least, was top-notch from all the singers there. Of particul
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1547839887/media/2019/01/Ibis5.jpg){{% /md %}}
 
-<figcaption> in The Scarlet Ibis, Boston Opera Collaborative, 2019. Photo: Dan Busler.</figcaption>
+<figcaption>Scott Ballantine, Lucas Coura, Britt Brown, and Ann Fogler in The Scarlet Ibis, Boston Opera Collaborative, 2019. Photo: Dan Busler.</figcaption>
 
 </figure>
 
