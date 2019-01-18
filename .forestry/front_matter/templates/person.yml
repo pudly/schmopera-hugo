@@ -41,6 +41,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/britt-brown.md
 - content/scene/people/scott-ballantine.md
 - content/scene/people/ann-fogler.md
 - content/scene/people/jared-bybee.md
