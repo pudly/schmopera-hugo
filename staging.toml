@@ -1,0 +1,10 @@
+baseURL = "https://staging.schmopera.com"
+languageCode = "en-us"
+title = "Schmopera"
+theme = "schmopera"
+
+[taxonomies]
+  category = "categories"
+
+[permalinks]
+  articles = "/:slug"

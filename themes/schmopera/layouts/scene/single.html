@@ -1,7 +1,7 @@
 {{/*
 
   {# ------------------------------------------------------- #}
-  {# INDIVIDUAL VIEW FOR EACH PERSON                         #}
+  {# INDIVIDUAL VIEW FOR EACH SCENE ITEM                     #}
   {# ------------------------------------------------------- #}
   
 */}}
@@ -109,6 +109,8 @@
 {% include "templates/partials/ad-spot1.html" %}
     </section>
 
+    
+
   {# Related Content #}
     {% if item.related_articles|size !== 0 || item.related_videos|size !== 0 %}
     {% set relitems = merge(item.related_articles, item.related_videos) %}
@@ -141,20 +143,64 @@
     </section>
     {% endif %}
 
-  {# People and Companies - The Scene #}
-    {% if item.related_companies|size !== 0 %}
-    <section class="scene--single_companies">
-      <h2 class="pill">Related Companies</h2>
+    */}}
+
+  {{- /* Related People and Companies */}}
+    {{ if .Params.related_people }}
+    <section class="scene--single_people">
+      <h2 class="pill">Related People</h2>
       <nav class="scene--list __micro __full">
         <ul>
-        {% for relation in item.related_companies %}
-          <li><a href="{{ url(relation) }}"><img src="{{ relation.photo|imageCrop(200, 200) }}" alt="Logo"><span>{{ relation.name }}</span></a></li>
-        {% endfor %}
+        {{- with .Params.related_people -}}
+          {{- range $person := . -}}
+            {{- with $.Site.GetPage "page" $person -}}
+            <li>
+                <a href="{{.Permalink}}">
+                  {{- $imgsm := replace .Params.primary_image "/upload/" "/upload/w_100,h_100,c_fill,g_face/" }}
+                  {{- $imglg := replace .Params.primary_image "/upload/" "/upload/w_200,h_200,c_fill,g_face/" }}
+                  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
+                  <span>{{ .Title | htmlUnescape }}</span>
+                </a>
+            </li>
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
         </ul>
       </nav>
     </section>
-    {% endif %}
+    {{ end }}
 
+    {{ if .Params.related_companies }}
+    <section class="scene--single_company">
+      <h2 class="pill">Related Companies</h2>
+      <nav class="scene--list __micro __full">
+        <ul>
+        {{- with .Params.related_companies -}}
+          {{- range $company := . -}}
+            {{- with $.Site.GetPage "page" $company -}}
+            <li>
+                <a href="{{.Permalink}}">
+                  {{- $imgsm := replace .Params.primary_image "/upload/" "/upload/w_100,h_100,c_fill,g_face/" }}
+                  {{- $imglg := replace .Params.primary_image "/upload/" "/upload/w_200,h_200,c_fill,g_face/" }}
+                  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
+                  <span>{{ .Title | htmlUnescape }}</span>
+                </a>
+            </li>
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+        </ul>
+      </nav>
+    </section>
+    {{ end }}
+
+    <div class="disclaimer">
+      <h2>Heads up!</h2>
+      <p>We're still fixing a few things on the site.</p>
+      <p>Unfortunately, that means that the list of related articles is not available right now. Please check back soon and we should have this sorted.</p>
+    </div>
+
+  {{/* }}
   {# Thumbnail gallery #}
     {% if item.gallery|size !== 0 %}
     <section class="post--single_gallery">

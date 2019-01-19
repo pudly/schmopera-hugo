@@ -93,7 +93,9 @@
 
   &:hover .post--single_hero-credit,
   &:focus .post--single_hero-credit {
-    opacity: 1;
+    &:before {
+      background: $sch-black;
+    }
     
     span {
       display: block;
@@ -107,7 +109,6 @@
   top: 10px;
   right: 45px;
   max-width: calc(100% - 55px);
-  opacity: .5;
 
   &:before {
     content: "i";
@@ -115,7 +116,7 @@
     position: absolute;
     right: -35px;
     top: 0;
-    background: $sch-black;
+    background: $sch-blue;
     width: 30px;
     height: 30px;
     border-radius: 100%;
@@ -123,15 +124,14 @@
     text-align: center;
     line-height: 30px;
     font-weight: 900;
-    border: 1px solid rgba(255,255,255,.5);
-    font-size: .8em;
+    font-size: .75em;
   }
 
   span {
     display: none;
     color: #fff;
     background: $sch-black;
-    border: 1px solid rgba(255,255,255,.5);
+    border-bottom: 2px solid #fff;
     min-height: 30px;
     font-size: .7em;
     padding: .4em;

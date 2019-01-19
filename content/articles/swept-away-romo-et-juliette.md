@@ -8,7 +8,7 @@ primary_image_credit = "Alexander McKissick (Roméo) and Madison Leonard (Juliet
 publishDate = "2018-07-17T19:42:00-04:00"
 related_companies = ["scene/companies/wolf-trap-opera.md"]
 short_description = "The contemporary setting didn&#039;t feel like a gimmick but a way to make the characters that much more relatable, and the overall effect was that of a John Hughes movie. Muller&#039;s approach gets teenagers and how they feel emotion so intensely that it can turn fatal in an instant."
-slug = "swept-away-romo-et-juliette"
+slug = "swept-away-roméo-et-juliette"
 title = "Swept away: Roméo et Juliette"
 
 +++

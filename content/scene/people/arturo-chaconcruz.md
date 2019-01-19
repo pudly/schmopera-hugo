@@ -5,12 +5,12 @@ lastmod = "2018-05-16T12:26:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526487960453/IMG_6191RT_3000.jpg.jpg"
 primary_image_credit = "Lena Kern"
 publishDate = "2018-05-16T12:26:00-04:00"
-related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/san-francisco-opera.md","scene/companies/wiener-staatsoper.md"]
-slug = "arturo-chaconcruz"
+related_companies = ["scene/companies/los-angeles-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/wiener-staatsoper.md"]
+slug = "arturo-chacon-cruz"
 title = "Arturo Chacon-Cruz"
 website = "http://arturochaconcruz.com/home/"
-+++
 
++++
 Arturo Chacón-Cruz, a native of Sonora, Mexico, has established himself in recent years as a leading tenor with exciting appearances in renowned theaters and concert halls across the globe, having sung over 50 roles in more than 20 countries.
 
 Since winning Plácido Domingo’s Operalia Competition in 2005, Arturo’s career has seen a successful, and steady development. His repertoire spans from Bellini and Donizetti to Puccini and Verdi. Some of his more sought after roles are: Rodolfo, the Duke of Mantua, Alfredo, Jacopo Foscari, Gabriele Adorno, B.F. Pinkerton, Hoffmann, Werther, and Romeo to name a few.

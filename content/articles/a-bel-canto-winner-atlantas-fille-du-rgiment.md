@@ -10,10 +10,10 @@ related_articles = ["articles/talking-with-singers-stephanie-blythe.md"]
 related_companies = ["scene/companies/the-atlanta-opera.md"]
 related_people = ["scene/people/andriana-chuchman.md"]
 short_description = "The entire cast had impeccable comic timing, but the crowd favorite was Stephanie Blythe&#039;s role and company debut as the Marquise of Berkenfield. Ms. Blythe, who is one of the most frequently sought after mezzo-sopranos of the day, moved with exceptional comic timing, managing to make her grace and composure a source of hilarity."
-slug = "a-bel-canto-winner-atlantas-fille-du-rgiment"
+slug = "a-bel-canto-winner-atlantas-fille-du-régiment"
 title = "A bel canto winner: Atlanta&#039;s Fille du régiment"
-+++
 
++++
 E. Loren Meeker's production of Gaetano Donizetti's [*The Daughter of the Regiment*](https://www.atlantaopera.org/performance/the-daughter-of-the-regiment/) (or *La fille du régiment*) was like a finely tuned cuckoo clock, the well-oiled moving gears seamlessly presenting Atlanta Opera's setting at the Cobb Energy and Performing Arts Center with minimal distractions.
 
 The production itself was reminiscent of a movie from the Golden Age of Disney. Beautiful painted sets filled with warm colors, skillfully crafted props and costumes that created a uniform characterization of the characters. The story itself is comparable to a traditional Cinderella or Snow White, in that it follows a young, seemingly orphaned girl named Marie, adopted by a regiment of French soldiers whom she considers her father(s). Marie serves as the canteen girl for the troops during a conflict between the French and the Tyrols. Offstage, Marie seemingly slips off a cliff only to be rescued by a Tyrolean man named Tonio. They fall in love and, upon learning this, Marie's regimental fathers (led by Sergeant Sulpice) forbid her to love him as she is only allowed to marry a soldier from their regiment.

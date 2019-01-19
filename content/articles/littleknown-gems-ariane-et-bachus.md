@@ -7,14 +7,14 @@ preamble = "Late this month, Haymarket Opera Company opens its run of [*Ariane e
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506115072812/2017-09-22---pc-mkusumosurarso-coverhaymarket-2.jpg.jpg"
 primary_image_credit = "Image: Martin Kusumosurarso Photography Inc."
 publishDate = "2017-09-23T11:48:00-04:00"
-related_articles = ["articles/ian-page-mozart-imagination.md","articles/ariodante-or-the-hebridean-handel.md","articles/overdue-for-the-stage-haymarket-opera-companys-ariane-et-bachus.md","articles/three-cities-lots-of-options-coming-up-in-march.md"]
+related_articles = ["articles/ian-page-mozart-imagination.md", "articles/ariodante-or-the-hebridean-handel.md", "articles/overdue-for-the-stage-haymarket-opera-companys-ariane-et-bachus.md", "articles/three-cities-lots-of-options-coming-up-in-march.md"]
 related_companies = ["scene/companies/haymarket-opera-company.md"]
 related_people = ["scene/people/nathalie-colas.md"]
 short_description = "&quot;I have to admit that I am partial to demons, having portrayed a dancing fury a few times myself. After carefully embodying good taste in the noble characters, the evil characters get to break all the rules. Plus, in hell you get to play with snakes, wands, and torches.&quot;"
-slug = "littleknown-gems-ariane-et-bachus"
+slug = "little-known-gems-ariane-et-bachus"
 title = "&quot;Little-known gems&quot;: Ariane et Bachus"
-+++
 
++++
 ## What do you find is unique about Marais' setting of the Ariadne myth? 
 
 **Craig**: This presentation of the Ariadne/Bacchus myth includes several colorful plot twists which serve to draw out the original myth story: Juno appears to warn King Aenarus not to welcome and honor Bacchus because Bacchus is the bastard son of Jupiter and Semele; Juno collaborates with Prince Adraste (the would-be lover of Ariadne) to turn Ariadne against Bacchus. At first Juno disguises herself as Dircée, the jilted lover of Adraste, who then makes a false claim to have received advances from Bacchus with the hope of turning Ariadne against him . Cupid thwarts the plan by telling Ariadne that it is all a deception by Juno. Plan B involves Adraste appealing to his sorcerer sidekick Géralde to use magic to fight against Bacchus. The demons refuse to combat the god, saying that he has no fear of the underworld. All in all, there is much intrigue!

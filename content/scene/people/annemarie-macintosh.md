@@ -6,7 +6,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546738754/m
 primary_image_credit = "Simeon Rusnak."
 publishDate = "2017-11-19T11:46:00-05:00"
 related_companies = ["scene/companies/calgary-opera-emerging-artist-development-program.md", "scene/companies/calgary-opera.md", "scene/companies/the-banff-centre.md", "scene/companies/manitoba-opera.md"]
-slug = "annemarie-macintosh"
+slug = "anne-marie-macintosh"
 title = "Anne-Marie MacIntosh"
 website = "http://annemariem6.wixsite.com/annemariemacintosh"
 [[social_media]]

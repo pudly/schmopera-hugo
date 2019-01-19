@@ -10,10 +10,10 @@ related_articles = ["articles/historymaking-cast-in-chicagos-il-trovatore.md"]
 related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
 related_people = ["scene/people/artur-rucinski.md"]
 short_description = "We discussed all things opera: the career, the &quot;life,&quot; the work, the music. Naturally, as compatriots, we touched on Polish music and reminisced on our experiences at the F. Chopin Academy of Music in Warsaw where we both studied, albeit ten years apart. We conversed in Polish. Below I provide an English translation of our conversation, edited solely to account for grammatical and syntactic necessities."
-slug = "talking-with-singers-artur-ruciski"
+slug = "talking-with-singers-artur-ruciński"
 title = "Talking with singers: Artur Ruciński"
-+++
 
++++
 This Sunday, December 9, Chicago audiences had their final opportunity to see an unforgettable *Il trovatore*. A revival of Sir David McVicar's breathtaking production, this show features a cast that has "legendary" stamped all over it. Before the run closes, I had an opportunity to meet Polish baritone Artur Ruciński, who sings Count di Luna, and who makes a stellar LOC debut in this production.  
  
 It's a privilege to meet some of Poland's operatic stars currently gracing the world’s most prestigious stages. Last season I interviewed tenor Piotr Beczała before his [vocal recital with pianist Martin Katz](/piotr-beczala/). Sitting together over some lovely pear-infused tea, Mr. Ruciński was a consummate gentleman, as thoughtful and generous in person as he is on stage.
@@ -74,4 +74,3 @@ I believe there are emotional/psychological/intellectual aspects of roles that o
 ***
  
 *I'm grateful to LOC's Director of Media Relations Magda Krance for facilitating this meeting.*
-
