@@ -200,26 +200,6 @@
       <p>Unfortunately, that means that the list of related articles is not available right now. Please check back soon and we should have this sorted.</p>
     </div>
 
-  {{/* }}
-  {# Thumbnail gallery #}
-    {% if item.gallery|size !== 0 %}
-    <section class="post--single_gallery">
-      <h2 class="pill">Gallery</h2>
-
-      <ul class="gallery">
-      {% for image in item.gallery %}
-        <li>
-          {# You can get the raw image url by accessing image.url #}
-          <a href="{{ image.url }}" data-lightbox="{{ image|imageSize(1360, 1360) }}" rel="lightbox" title="{{ image.caption }}">
-            <img src="{{ image|imageCrop(200, 200) }}" alt="{{ image.caption }}">
-          </a>
-        </li>
-      {% endfor %}
-      </ul>
-    </section>
-    {% endif %}
-  */}}
-
     <script>
       document.addEventListener('DOMContentLoaded', function() { initGallery(); });
     </script>
