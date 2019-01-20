@@ -35,22 +35,21 @@
 
       <div id="main" class="container m-scene">
         {{- partial "header.html" . -}}
+
         <div class="content--main">
           {{ block "main" . -}}{{- end -}}
           {{- partial "newsletter.html" . }}
         </div>
-
       </div>
 
       {{- partial "footer.html" . -}}
 
-      {{- $lazyload := resources.Get "/javascript/lazyload.min.js" -}}
+      {{- $lazyload := resources.Get "/javascript/lazyload.js" -}}
       {{- $fastclick := resources.Get "/javascript/fastclick.js" -}}
-      {{- $socialight := resources.Get "/javascript/socialight.js" -}}
       {{- $lightbox := resources.Get "/javascript/lightbox.js" -}}
       {{- $main := resources.Get "/javascript/main.js" -}}
       {{- $autotrack := resources.Get "/javascript/autotrack.js" -}}
-      {{- $js := slice $lazyload $fastclick $socialight $lightbox $main $autotrack | resources.Concat "js/main.js" | minify | fingerprint }}
+      {{- $js := slice $lazyload $fastclick $lightbox $main $autotrack | resources.Concat "js/main.js" | minify | fingerprint }}
 
       <script src="{{ $js.Permalink }}"></script>
       

@@ -22,8 +22,6 @@ document.addEventListener('DOMContentLoaded', function() {
     var ft = document.body.clientHeight;
     var vh = window.innerHeight;
 
-    // var ap = document.querySelector('.post--single_authors')[0].offsetTop;
-
     if (st > st_cur && st > '90' && st_cur < (ft - vh - 100)) {
       $body.classList.add('scroll');
     } else {
@@ -34,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   });
 
-// featured scroll
+// featured articles scroll indicators
   var $featured_nav = document.querySelector('.post--featured > nav');
   if ($featured_nav) {
 
@@ -78,7 +76,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 // external urls
-// TODO: Fix this to match against root domain, and not blanked http
   [].forEach.call(document.querySelectorAll('a[href^=http]'), function(el) {
     var url = el.href;
     var base = window.location.hostname;
@@ -88,38 +85,6 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   })
 
-// social counter
-  function slFacebook ($element) {
-      var socialight = new Socialight({
-          container: $element,
-          url: $element.getAttribute("data-url")
-        });
-
-      socialight.add(new Facebook());
-      socialight.draw();
-  }
-  //
-  // function slTwitter ($element) {
-  //     var socialight = new Socialight({
-  //         container: $element,
-  //         url: $element.getAttribute("data-url")
-  //       });
-  //
-  //     socialight.add(new Twitter());
-  //     socialight.draw();
-  // }
-
-  var social_fb = document.querySelectorAll(".social--count_facebook"), i, len;
-
-  for (i = 0, len = social_fb.length; i < len; i++) {
-      slFacebook(social_fb[i]);
-  }
-
-  // var social_tw = document.querySelectorAll(".social--count_twitter"), i, len;
-
-  // for (i = 0, len = social_tw.length; i < len; i++) {
-  //     slTwitter(social_tw[i]);
-  // }
 
 // toggle
   var $toggle_el = document.querySelector('a[rel=toggle]');
