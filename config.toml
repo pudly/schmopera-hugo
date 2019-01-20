@@ -9,7 +9,6 @@ theme = "schmopera"
 [permalinks]
   articles = "/:slug"
 
-
 [related]
   includeNewer = true
 

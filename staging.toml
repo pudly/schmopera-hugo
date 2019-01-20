@@ -8,3 +8,11 @@ theme = "schmopera"
 
 [permalinks]
   articles = "/:slug"
+
+[related]
+  includeNewer = true
+
+[[related.indices]]
+  name = "author"
+  toLower = true
+  weight = 100.0
