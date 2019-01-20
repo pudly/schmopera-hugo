@@ -3,7 +3,6 @@ author = ["authors/arturo-fernandez.md"]
 categories = "Review"
 date = "2019-01-20T19:36:58+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548012889/media/2019/01/sqHeatherBuck_1_byCliveGrainger.jpg"
@@ -17,7 +16,7 @@ title = "Haroun and the Sea of Stories a surreal, timely treat"
 youtube_url = ""
 
 +++
-Those of you who are faithful Schmopera readers will likely recall that, when I reviewed [_Brokeback Mountain _](/distant-emotional-brokeback-mountain-a-paradoxical-success/)at the conclusion of last year’s New York City Opera season, I pointed at the paradox of Wuorinen's highly dissonant score used to depict a romance, and the ways that paradox works in that opera's favor. At the time, I figured it was a logical choice, considering how Annie Proulx's prose worked to set up such a paradox. Having seen the Boston Modern Orchestra Project's concertized performance of his earlier opera _Haroun and the Sea of Stories_, however, I think it is rather apparent that Wuorinen has had a good amount of practice dealing in the rather strange paradox of being a serialist opera composer; and honestly, _Haroun_ almost works better just because the nature of the story lends itself better to a serialist opera.
+Those of you who are faithful Schmopera readers will likely recall that, when I reviewed [Brokeback Mountain](/distant-emotional-brokeback-mountain-a-paradoxical-success/) at the conclusion of last year’s New York City Opera season, I pointed at the paradox of Wuorinen's highly dissonant score used to depict a romance, and the ways that paradox works in that opera's favor. At the time, I figured it was a logical choice, considering how Annie Proulx's prose worked to set up such a paradox. Having seen the Boston Modern Orchestra Project's concertized performance of his earlier opera _Haroun and the Sea of Stories_, however, I think it is rather apparent that Wuorinen has had a good amount of practice dealing in the rather strange paradox of being a serialist opera composer; and honestly, _Haroun_ almost works better just because the nature of the story lends itself better to a serialist opera.
 
 > It was thrilling, it was dramatic, and it did not fail to address the book's political undertones
 
