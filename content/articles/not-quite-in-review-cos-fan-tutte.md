@@ -6,13 +6,13 @@ lastmod = "2015-04-28T20:57:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430268913966/1597401_1457594464456483_1727775219_o.jpg.jpg"
 primary_image_credit = "Photo by Michael Cooper."
 publishDate = "2014-02-08T17:51:00-05:00"
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/claire-de-sevigne.md","scene/people/andrew-haji.md","scene/people/cameron-mcphail.md","scene/people/owen-mccausland.md","scene/people/clarence-frazer.md","scene/people/aviva-fortunata.md","scene/people/charlotte-burrage.md"]
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md", "scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/claire-de-sevigne.md", "scene/people/andrew-haji.md", "scene/people/cameron-mcphail.md", "scene/people/owen-mccausland.md", "scene/people/clarence-frazer.md", "scene/people/aviva-fortunata.md", "scene/people/charlotte-burrage.md"]
 short_description = "Last night, I watched with a perma-grin as my friends and colleagues in the Canadian Opera Company Ensemble Studio had their performance of Così fan tutte at the Four Seasons Centre. I was fortunate to have worked with some of the cast in the early stages of learning their roles, and it was an amazing experience to hear the final product."
 slug = "not-quite-in-review-cos-fan-tutte"
 title = "Not quite in review: Così fan tutte"
-+++
 
++++
 Last night, I watched with a perma-grin as my friends and colleagues in the [Canadian Opera Company Ensemble Studio](http://www.coc.ca/aboutthecoc/companymembers/EnsembleStudio.aspx) had their performance of [_Così fan tutte_](http://www.coc.ca/PerformancesAndTickets/1314Season/CosiFanTutte/EnsembleStudioPerformance.aspx) at the Four Seasons Centre. I was fortunate to have worked with some of the cast in the early stages of learning their roles, and it was an amazing experience to hear the final product. Often the long hours spent on the same score throughout a rehearsal process can dull the brain; it's easy to forget the accomplishments and leaps forward everyone has made, and to take for granted the beauty of what's being created. Through my time working with them, my media-privilege glimpses in rehearsals, and my personal relationships with many of the singers, I had the perfect balance of a peek inside and a blank slate with which to attend the performance.
 And man, did they sing their hearts out. In Act I, [Aviva Fortunata](https://twitter.com/AvivaFortunata) and [Charlotte Burrage](https://twitter.com/burragec) introduced Fiordiligi and Dorabella as the perfectly relatable girls that they are; they made me laugh, and they sang superbly. As Fiordiligi, Aviva's was some of the most impressive singing of the night. Her "Come scoglio" earned tons of applause, and rightly so; she was fierce and hilarious, all channeled through her powerful instrument. Charlotte's Dorabella was hysterical and hilarious, throwing a perfect tantrum with her aria, "Smanie implacabili."
 
@@ -31,5 +31,3 @@ In easily the crowd-favourite role of the night, Claire de Sévigné's performan
 I know from my own experience that it's an amazing bonding experience to put up a show of this size with your friends. I was reminded last night of a feeling I often take for granted: how fortunate I am to know people that have these awesome skills. I'll never forget the first time I stood backstage at the Four Seasons Centre and watched a friend make her entrance, her face instantly illuminated by the stage lights. The gulf between the person you had coffee with that afternoon and the artist that walks onto that stage seems suddenly so large; I am inspired to work in opera because of how it feels when that friend come back offstage and bridges that gulf, one of many times. I wonder if the COC Ensemble Intern pianist [Michael Shannon](http://michaelshannon.ca/) felt some of the same.
 
 So I say bravo to the whole cast. You had big shoes to fill, and instead you did something better: bring your own shoes. Congratulations!
-
-<div class="intro">For a look back at the COC Ensemble's rehearsal process, check out our three-part video series starting [here](http://schmopera.com/in-rehearsal-the-coc-ensemble-studio-part-1/).</div>
