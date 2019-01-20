@@ -16,3 +16,13 @@ theme = "schmopera"
   name = "author"
   toLower = true
   weight = 100.0
+
+[[related.indices]]
+  name = "related_people"
+  toLower = true
+  weight = 100.0
+
+[[related.indices]]
+  name = "related_companies"
+  toLower = true
+  weight = 100.0

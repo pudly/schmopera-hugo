@@ -101,49 +101,17 @@
     <section class="scene--single_bio">
       {{ .Content }}
     </section>
+
     
-    {{/*
+    
+    {{- /*
 
   {# Adspot 1 #}
     <section class="scene--single_adspot">
 {% include "templates/partials/ad-spot1.html" %}
     </section>
 
-    
-
-  {# Related Content #}
-    {% if item.related_articles|size !== 0 || item.related_videos|size !== 0 %}
-    {% set relitems = merge(item.related_articles, item.related_videos) %}
-    {% set relitems = relitems|sort('publish_date', true) %}
-    <section class="scene--single_related">
-      <h2 class="pill">Schmopera says...</h2>
-      <ul class="post--list __mini">
-        {% for relation in relitems %}
-        <li>
-          <a href="{{ url(relation) }}" class="post--list-title">
-            {% set srcset = relation.primary_image|imageCrop(100, 100) + ", " +  relation.primary_image|imageCrop(200, 200) + " 2x" %}
-            <picture>
-              <source srcset="{{ srcset }}" media="(min-width: 40em)">
-              <img src="{{ relation.primary_image|imageCrop(100, 100) }}" alt="{{ relation.name }}">
-            </picture>
-
-            <h1>{{ relation.name }}</h1>
-
-            <p class="post--list-desc">{{ relation.short_description }}</p>
-
-            {% if relation.youtube_url %}
-              <span class="btn post--button">Watch Video</span>
-            {% else %}
-              <span class="btn post--button">Read More</span>
-            {% endif %}
-          </a>
-        </li>
-        {% endfor %}
-      </ul>
-    </section>
-    {% endif %}
-
-    */}}
+    */ -}}
 
   {{- /* Related People and Companies */}}
     {{ if .Params.related_people }}
@@ -194,11 +162,53 @@
     </section>
     {{ end }}
 
-    <div class="disclaimer">
-      <h2>Heads up!</h2>
-      <p>We're still fixing a few things on the site.</p>
-      <p>Unfortunately, that means that the list of related articles is not available right now. Please check back soon and we should have this sorted.</p>
-    </div>
+  {{- /* Related Articles */}}
+    <nav class="scene--single_articles">
+      <h1 class="pill">Related articles</h1>
+
+      <ul class="post--list __mini">
+        {{- $entity := .File.Path -}}
+        {{- $articles := where (.Site.RegularPages) "Type" "articles" -}}
+
+        {{- $related_companies := $articles.RelatedTo ( keyVals "related_companies" $entity ) -}}
+        {{- range $related_companies -}}
+        <li class="post--list-item">
+            <a href="{{.Permalink}}" class="post--list-item">
+              <picture class="post--list-image">
+                {{- $imgsm := replace .Params.primary_image "/upload/" "/upload/w_370,h_245,c_fill,g_faces/" }}
+                {{- $imglg := replace .Params.primary_image "/upload/" "/upload/w_740,h_490,c_fill,g_faces/" }}
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkkAQAAB8AG7jymN8AAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
+              </picture>
+              <div class="post--list-title">
+                <h1><span title="{{ .Title | htmlUnescape }}">{{ .Title | htmlUnescape }}</span></h1>
+                {{- with .Params.categories }}
+                <em class="post--meta-category">{{ . }}</em>
+                {{- end }}
+              </div>
+            </a>
+          </li>
+        {{- end -}}
+
+        {{- $related_people := $articles.RelatedTo ( keyVals "related_people" $entity ) -}}
+        {{- range $related_people -}}
+        <li class="post--list-item">
+            <a href="{{.Permalink}}" class="post--list-item">
+              <picture class="post--list-image">
+                {{- $imgsm := replace .Params.primary_image "/upload/" "/upload/w_370,h_245,c_fill,g_faces/" }}
+                {{- $imglg := replace .Params.primary_image "/upload/" "/upload/w_740,h_490,c_fill,g_faces/" }}
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkkAQAAB8AG7jymN8AAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
+              </picture>
+              <div class="post--list-title">
+                <h1><span title="{{ .Title | htmlUnescape }}">{{ .Title | htmlUnescape }}</span></h1>
+                {{- with .Params.categories }}
+                <em class="post--meta-category">{{ . }}</em>
+                {{- end }}
+              </div>
+            </a>
+          </li>
+        {{- end -}}          
+      </ul>
+    </nav> 
 
     <script>
       document.addEventListener('DOMContentLoaded', function() { initGallery(); });
