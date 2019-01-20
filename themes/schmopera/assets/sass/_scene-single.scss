@@ -157,7 +157,6 @@
   font-size: 1em;
   line-height: 1.45em;
   clear: left;
-  min-height: 80vh;
 
   padding: 0 20px;
 
@@ -289,4 +288,9 @@
     }
   }
 
+}
+
+
+.scene--single_articles {
+  clear: both;
 }
