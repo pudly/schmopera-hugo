@@ -11,8 +11,8 @@ related_articles = ["articles/tapestry-operas-selfie-talks-online-bullying.md"]
 related_companies = ["scene/companies/tapestry-opera.md"]
 related_people = ["scene/people/michael-mori.md", "scene/people/chris-thornborrow.md"]
 short_description = "Composer Chris Thornborrow, librettist Julie Tepperman, and director/dramaturge Richard Greenblatt, dare to tell an uncomfortably familiar story that, today, is full of the themes that permeate every news story and piece of media we consume."
-slug = "unfortunately-familiar-stories-hook-up"
-title = "Unfortunately familiar stories: Hook Up"
+slug = "familiar-stories-hook-up"
+title = "Familiar stories: Hook Up"
 youtube_url = ""
 
 +++
