@@ -10,10 +10,10 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548103901/m
 primary_image_credit = "Ana María Martínez as Florencia Grimaldi in Florencia en el Amazonas, HGO, 2019. Photo: Lynn Lane."
 related_articles = ["articles/a-butterfly-but-not-from-puccini.md"]
 related_companies = ["scene/companies/houston-grand-opera.md"]
-related_people = ["content/scene/people/nancy-fabiola-herrera.md", "content/scene/people/norman-garrett.md", "scene/people/ana-maria-martinez.md"]
+related_people = ["content/scene/people/alicia-gianni.md", "content/scene/people/nancy-fabiola-herrera.md", "content/scene/people/norman-garrett.md", "scene/people/ana-maria-martinez.md"]
 short_description = "Martínez's inimitable dulcet vibrato tones had a way of embodying the butterflies into which her character eventually transforms. Anybody wanting an avenue to approach this opera would do well to begin with her music, which offers this opera's most audible links with the traditional Puccinian repertoire which is her specialty."
 slug = "florencia-en-el-amazonas"
-title = "Florencia en el Amazonas"
+title = "Florencia en el Amazonas takes on a life of its own at HGO"
 youtube_url = ""
 
 +++
@@ -43,7 +43,7 @@ Ríolobo was particularly charismatic as well when announcing the day's special 
 
 </figure>
 
-The couple of Rosalba (Alicia Gianni) and Arcadio ([Joshua Guerrero](/scene/people/joshua-guerrero/)) were quite dynamic in their own right. Arcadio, a typically earnest tenor, showed a existential struggle to find purpose in his life beyond the regular voyages of the El Dorado, one which he expressed with authenticity and evenness throughout his range. Rosalba, whose high tessitura should easily indicate her generally intense personality, could be seen to feel deeply her loss to the river of her precious notes on a prospective biography of the diva Florencia. When the latter was prompted, incognito, to utter something akin to "there's nothing about her life that is either not in your memory or fantasy," I was instantly reminded of the inferno which destroyed a great portion of the extensive collection of Brazil's National Museum, in which case, this line is quite literally true. Such is the anguish present at realizing the ultimate tenuousness of human knowledge.
+The couple of Rosalba ([Alicia Gianni](/scene/people/alicia-gianni/)) and Arcadio ([Joshua Guerrero](/scene/people/joshua-guerrero/)) were quite dynamic in their own right. Arcadio, a typically earnest tenor, showed a existential struggle to find purpose in his life beyond the regular voyages of the El Dorado, one which he expressed with authenticity and evenness throughout his range. Rosalba, whose high tessitura should easily indicate her generally intense personality, could be seen to feel deeply her loss to the river of her precious notes on a prospective biography of the diva Florencia. When the latter was prompted, incognito, to utter something akin to "there's nothing about her life that is either not in your memory or fantasy," I was instantly reminded of the inferno which destroyed a great portion of the extensive collection of Brazil's National Museum, in which case, this line is quite literally true. Such is the anguish present at realizing the ultimate tenuousness of human knowledge.
 
 > Catán, a native of Mexico City, has rightly had his music hailed alongside the likes of Debussy, Ravel, and Puccini for its brilliance, luminescence, and fluency in deployment of soaring vocal lines
 
