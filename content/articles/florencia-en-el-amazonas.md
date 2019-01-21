@@ -8,10 +8,10 @@ image_gallery = []
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548103901/media/2019/01/sqHGO-Florencia-2019-OrchestraDressRehearsal-PhotographerLynnLane-159.jpg"
 primary_image_credit = "Ana María Martínez as Florencia Grimaldi in Florencia en el Amazonas, HGO, 2019. Photo: Lynn Lane."
-related_articles = []
+related_articles = ["articles/a-butterfly-but-not-from-puccini.md"]
 related_companies = ["scene/companies/houston-grand-opera.md"]
-related_people = ["content/scene/people/norman-garrett.md", "scene/people/ana-maria-martinez.md"]
-short_description = "short description"
+related_people = ["content/scene/people/nancy-fabiola-herrera.md", "content/scene/people/norman-garrett.md", "scene/people/ana-maria-martinez.md"]
+short_description = "Martínez's inimitable dulcet vibrato tones had a way of embodying the butterflies into which her character eventually transforms. Anybody wanting an avenue to approach this opera would do well to begin with her music, which offers this opera's most audible links with the traditional Puccinian repertoire which is her specialty."
 slug = "florencia-en-el-amazonas"
 title = "Florencia en el Amazonas"
 youtube_url = ""
@@ -35,7 +35,7 @@ Besides Florencia, the role that most immediately stands out would have to be R�
 
 > Here a raucous woodwind passage, there a brass section moment, the combined result giving me the feeling of wading through the exotic wordscapes of Doña Bárbara.
 
-Ríolobo was particularly charismatic as well when announcing the day's special lunch of iguana, much to Paula's (Nancy Fabiola Herrera) chagrin; this should not be a surprise, given that Herrera was very apt at expressing some sort of declamatory emotion or opinion about everything. As Alvaro, baritone Thomas Glass was an agreeably gallant and affable presence who was somehow able to maintain a degree of gentlemanly composure throughout the action, even when inexplicably rescued from the lethal currents in the second act.
+Ríolobo was particularly charismatic as well when announcing the day's special lunch of iguana, much to Paula's ([Nancy Fabiola Herrera](/scene/people/nancy-fabiola-herrera/)) chagrin; this should not be a surprise, given that Herrera was very apt at expressing some sort of declamatory emotion or opinion about everything. As Alvaro, baritone Thomas Glass was an agreeably gallant and affable presence who was somehow able to maintain a degree of gentlemanly composure throughout the action, even when inexplicably rescued from the lethal currents in the second act.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
