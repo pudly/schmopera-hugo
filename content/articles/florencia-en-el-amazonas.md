@@ -12,7 +12,7 @@ related_articles = ["articles/a-butterfly-but-not-from-puccini.md"]
 related_companies = ["scene/companies/houston-grand-opera.md"]
 related_people = ["content/scene/people/alicia-gianni.md", "content/scene/people/nancy-fabiola-herrera.md", "content/scene/people/norman-garrett.md", "scene/people/ana-maria-martinez.md"]
 short_description = "Martínez's inimitable dulcet vibrato tones had a way of embodying the butterflies into which her character eventually transforms. Anybody wanting an avenue to approach this opera would do well to begin with her music, which offers this opera's most audible links with the traditional Puccinian repertoire which is her specialty."
-slug = "florencia-en-el-amazonas"
+slug = "florencia-en-el-amazonas-takes-on-a-life-of-its-own-at-hgo"
 title = "Florencia en el Amazonas takes on a life of its own at HGO"
 youtube_url = ""
 
