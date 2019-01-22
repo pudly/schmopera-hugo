@@ -16,7 +16,7 @@ title = "Opera + art = storytelling: a must-see event at Boston's Gardner Museum
 youtube_url = ""
 
 +++
-### How does Scarlatti's _La caduta de' Decemviri_ tell the story of Virginia, and how is his telling different from Botticelli's?
+### How does Scarlatti's La caduta de' Decemviri tell the story of Virginia, and how is his telling different from Botticelli's?
 
 Scarlatti sets a libretto by Silvio Stampiglia from 1697 that is directly based on Livy's original telling of the story of Virginia in Book III of his History of Rome.  This being opera, Stampiglia has concocted a happy ending!
 
@@ -44,4 +44,4 @@ The stories of Lucretia and Virginia, gruesome and tragic, were seen by audience
 
 We hope this performance helps to bring Scarlatti's unknown opera to light, helps share the little-known story of Virginia to life. We also hope to illuminate the ongoing relevance of Virginia's story in the present day, especially women's central role in the fight against tyranny from the earliest times to the present.
 
->_La caduta de' Decemviri_ is performed at the Gardner Museum February 10, with acclaimed baroque ensemble ACRONYM. For details and tickets, [click here](https://www.gardnermuseum.org/calendar/event/weekend-concert-series-acronym-20190210).
+> _La caduta de' Decemviri_ is performed at the Gardner Museum February 10, with acclaimed baroque ensemble ACRONYM. For details and tickets, [click here](https://www.gardnermuseum.org/calendar/event/weekend-concert-series-acronym-20190210).
