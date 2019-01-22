@@ -3,21 +3,20 @@ author = ["authors/andrew-schneider.md"]
 categories = "Review"
 date = "2019-01-21T20:52:46+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548103901/media/2019/01/sqHGO-Florencia-2019-OrchestraDressRehearsal-PhotographerLynnLane-159.jpg"
 primary_image_credit = "Ana María Martínez as Florencia Grimaldi in Florencia en el Amazonas, HGO, 2019. Photo: Lynn Lane."
 related_articles = ["articles/a-butterfly-but-not-from-puccini.md"]
 related_companies = ["scene/companies/houston-grand-opera.md"]
-related_people = ["content/scene/people/alicia-gianni.md", "content/scene/people/nancy-fabiola-herrera.md", "content/scene/people/norman-garrett.md", "scene/people/ana-maria-martinez.md"]
+related_people = ["scene/people/joshua-guerrero.md", "scene/people/alicia-gianni.md", "scene/people/norman-garrett.md", "scene/people/ana-maria-martinez.md"]
 short_description = "Martínez's inimitable dulcet vibrato tones had a way of embodying the butterflies into which her character eventually transforms. Anybody wanting an avenue to approach this opera would do well to begin with her music, which offers this opera's most audible links with the traditional Puccinian repertoire which is her specialty."
 slug = "florencia-en-el-amazonas-takes-on-a-life-of-its-own-at-hgo"
 title = "Florencia en el Amazonas takes on a life of its own at HGO"
 youtube_url = ""
 
 +++
-Houston Grand Opera's legacy of promoting contemporary operas was triumphantly vindicated on the opening night of their production of Daniel Catán's _Florencia en el Amazonas_, a drama concerning people's helplessness in the face of nature in all its raw power. Inspired by characters drawn from the magical realist works of Colombian author Gabriel García Márquez, this work could be truly said to have taken on a life of its own with the number of fans it has inspired (what with it having brought Spanish-language opera into its own in this country beyond what even the Metropolitan Opera's 1916 premiere of _Goyescas_ could dream of accomplishing), though this is in no way to describe this work as a passing fad, for it is quite simply a profound masterwork that cannot fail to leave a provocative impression.
+Houston Grand Opera's legacy of promoting contemporary operas was triumphantly vindicated on the opening night of their production of Daniel Catán's [_Florencia en el Amazonas_](https://www.houstongrandopera.org/florenciaenelamazonas), a drama concerning people's helplessness in the face of nature in all its raw power. Inspired by characters drawn from the magical realist works of Colombian author Gabriel García Márquez, this work could be truly said to have taken on a life of its own with the number of fans it has inspired (what with it having brought Spanish-language opera into its own in this country beyond what even the Metropolitan Opera's 1916 premiere of _Goyescas_ could dream of accomplishing), though this is in no way to describe this work as a passing fad, for it is quite simply a profound masterwork that cannot fail to leave a provocative impression.
 
 > _Florencia en el Amazonas_ is the epitome of the best elements of opera mixed together with an elusive authentic modernist sense of adventure.
 
@@ -37,9 +36,9 @@ Besides Florencia, the role that most immediately stands out would have to be R�
 
 Ríolobo was particularly charismatic as well when announcing the day's special lunch of iguana, much to Paula's ([Nancy Fabiola Herrera](/scene/people/nancy-fabiola-herrera/)) chagrin; this should not be a surprise, given that Herrera was very apt at expressing some sort of declamatory emotion or opinion about everything. As Alvaro, baritone Thomas Glass was an agreeably gallant and affable presence who was somehow able to maintain a degree of gentlemanly composure throughout the action, even when inexplicably rescued from the lethal currents in the second act.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548105108/media/2019/01/HGO-Florencia-2019-OrchestraDressRehearsal-PhotographerLynnLane-28.jpg){{% /md %}}
 
-![](https://res.cloudinary.com/schmopera/image/upload/v1548105108/media/2019/01/HGO-Florencia-2019-OrchestraDressRehearsal-PhotographerLynnLane-28.jpg)<figcaption>Ana María Martínez as Florencia Grimaldi in Florencia en el Amazonas, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+<figcaption>Ana María Martínez as Florencia Grimaldi in Florencia en el Amazonas, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
@@ -64,3 +63,5 @@ Maestro Patrick Summers led this orchestral maelstrom with the great assurance t
 </figure>
 
 In sum, this opera quite simply needs its own appreciation course, for _Florencia en el Amazonas_ is more than merely a multi-layered operatic masterwork of subtlety in all aspects, that shows just how insufficient one listening is to enable one to take it all in, or merely an introduction to the compelling dramatic world of the Latin American literary boom; rather, it is the epitome of the best elements of opera mixed together with an elusive authentic modernist sense of adventure.
+
+>HGO's production of _Florencia en el Amazonas_ runs through February 3. For details, [click here](https://www.houstongrandopera.org/florenciaenelamazonas).
