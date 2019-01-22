@@ -3,7 +3,6 @@ author = ["authors/alessia-naccarato.md"]
 categories = "Review"
 date = "2019-01-21T16:01:55+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548085420/media/2019/01/sq1351TheQueenOfSpadesProductionImageROH2018.jpg"
