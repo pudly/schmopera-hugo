@@ -127,54 +127,6 @@
 
     </nav>
 
-
-{{- /* }}
-
-
-<ul>
-
-    {{ $author := .File.Path }}
-    {{ $articles := where (.Site.RegularPages) "Type" "articles" }}
-    {{ $related_articles := $articles.RelatedTo ( keyVals "author" $author ) }}
-  
-    {{- $paginator := .Paginate $related_articles -}}
-    {{- range $paginator.Pages }}
-      <li>{{ .Title | htmlUnescape}}</li>
-    {{ end }}
-    
-  </ul>
-  
-  {{- partial "pagination.html" . -}}
-  
-      
-      {{ $author := .File.LogicalName }}
-      <ul class="post--list __mini">
-        {{ range (where $.Site.Pages "Type" "articles") }}
-          {{ if .Params.author }}
-            {{ $aaa := index (.Params.author) 0}}
-            {{ if in $aaa $author }}
-            <li class="post--list-item">
-              <a href="{{.Permalink}}" class="post--list-item">
-                <picture class="post--list-image">
-                  {{- $imgsm := replace .Params.primary_image "/upload/" "/upload/w_370,h_245,c_fill,g_faces/" }}
-                  {{- $imglg := replace .Params.primary_image "/upload/" "/upload/w_740,h_490,c_fill,g_faces/" }}
-                  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkkAQAAB8AG7jymN8AAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
-                </picture>
-                <div class="post--list-title">
-                  <h1><span title="{{ .Title | htmlUnescape }}">{{ .Title | htmlUnescape }}</span></h1>
-                  {{- with .Params.categories }}
-                  <em class="post--meta-category">{{ . }}</em>
-                  {{- end }}
-                </div>
-              </a>
-            </li>
-            {{ end }}
-          {{ end }}
-        {{ end }}
-      </ul>
-
-     {{ */ -}}
-
     {{/*
 
   {# Adspot 1 #}

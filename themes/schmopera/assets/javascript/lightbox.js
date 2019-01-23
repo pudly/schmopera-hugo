@@ -5,12 +5,12 @@ function initGallery() {
 
   // add lightbox container to DOM
   var $lightbox = document.createElement('div');
-      $lightbox.classList.add('lightbox');
-      $lightbox.addEventListener('click', function(e) {
-        e.preventDefault();
-        destroy_lightbox($lightbox);
-      });
-      $body.appendChild($lightbox);
+    $lightbox.classList.add('lightbox');
+    $lightbox.addEventListener('click', function(e) {
+      e.preventDefault();
+      destroy_lightbox($lightbox);
+    });
+    $body.appendChild($lightbox);
 
   // click event on all anchors
   Array.prototype.forEach.call($anchors, function(el) {

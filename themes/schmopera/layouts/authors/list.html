@@ -22,15 +22,18 @@
         <span class="author--list_item-name">
           {{.Title}}
         </span>
-        {{- /*
+
+        {{- $author := .File.Path -}}
+        {{- $articles := where (.Site.RegularPages) "Type" "articles" -}}
+        {{- $related_articles := $articles.RelatedTo ( keyVals "author" $author ) -}}
+       
         <span class="author--list_item-articles">
-        {% if articles|size > 1 %}
-          {{ articles|size }}&nbsp;posts
-        {% else %}
-          {{ articles|size }}&nbsp;post
-        {% endif %}
+          {{- if (gt (len $related_articles) 1)  }}
+          {{ len $related_articles }}&nbsp;posts
+          {{- else -}}
+          {{ len $related_articles }}&nbsp;post
+          {{- end }}
         </span>
-        */ -}}
       </a>
     </li>
 
