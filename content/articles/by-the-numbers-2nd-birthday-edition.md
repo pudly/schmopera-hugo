@@ -35,11 +35,8 @@ You know... I think I'm just going to show you, then explain.
 
 With no further ado, take a look at a high level view of the traffic that Schmopera has been able generate in the last 24 months:
 
-<figure data-type="image"><a href="https://res.cloudinary.com/schmopera/image/upload/v1548213791/media/2019/01/infographic.webstats.svg">{{% md %}}
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1548213791/media/2019/01/infographic.webstats.svg){{% /md %}}
-
- </a> <figcaption>(Click on the image for a -much- larger version you can see in detail)</figcaption> </figure>
+<figure data-type="image"><img src="https://res.cloudinary.com/schmopera/image/upload/v1548213791/media/2019/01/infographic.webstats.svg">
+<figcaption>(Click on the image for a -much- larger version you can see in detail)</figcaption> </figure>
 
 ## Neat, huh?
 
