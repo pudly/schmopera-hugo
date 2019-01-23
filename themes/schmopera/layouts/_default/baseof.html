@@ -34,15 +34,15 @@
   <body>
 
       <div id="main" class="container m-scene">
-        {{- partial "header.html" . -}}
+        {{- partialCached "header.html" . -}}
 
         <div class="content--main">
           {{ block "main" . -}}{{- end -}}
-          {{- partial "newsletter.html" . }}
+          {{- partialCached "newsletter.html" . }}
         </div>
       </div>
 
-      {{- partial "footer.html" . -}}
+      {{- partialCached "footer.html" . -}}
 
       {{- $lazyload := resources.Get "/javascript/lazyload.js" -}}
       {{- $fastclick := resources.Get "/javascript/fastclick.js" -}}
