@@ -6,15 +6,18 @@ document.addEventListener('DOMContentLoaded', function() {
   var $body = document.querySelector('body');
   var $footer = document.querySelector('.page--footer');
 
+
 // remove no-js
   $html.classList.remove('no-js');
+
 
 // init fastclick
   if ('addEventListener' in document) {
     FastClick.attach(document.body);
   }
 
-// body scroll
+
+// body scroll listener
   var st_cur = 0;
 
   window.addEventListener('scroll', function() {
@@ -31,6 +34,7 @@ document.addEventListener('DOMContentLoaded', function() {
     st_cur = st;
 
   });
+
 
 // featured articles scroll indicators
   var $featured_nav = document.querySelector('.post--featured > nav');
@@ -57,6 +61,7 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     })
   }
+
 
 // nav toggle
   var $icon_menu = document.querySelector('.nav--primary-toggle > .icon-menu');
@@ -99,8 +104,33 @@ document.addEventListener('DOMContentLoaded', function() {
       $target.classList.toggle('__active');
     })
   }
+
+
+// donate nag
+  var nag_cookie = Cookies.get('donate_nag');
+
+  if (nag_cookie) {
+
+  }
+  else {
+    $html.classList.remove('__dontnag');
+  }
+
+  var $opt_out = document.querySelector('.patreon_floater a.opt-out');
+  var $opt_out_text = document.querySelector('.patreon_floater p.opt-out-text')
+
+  if ($opt_out) {
+    $opt_out.addEventListener('click', function(e) {
+      e.preventDefault();
+
+      Cookies.set('donate_nag', 'hide', { expires: 7 });
+      $html.classList.toggle('__dontnag')
+    })
+  }
 });
 
+
+//TODO: Figure out where this is used?
 function offset(elt) {
   var rect = elt.getBoundingClientRect(), bodyElt = document.body;
 

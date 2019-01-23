@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="en-CA">
+<html class="no-js __dontnag" lang="en-CA">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -49,7 +49,8 @@
       {{- $lightbox := resources.Get "/javascript/lightbox.js" -}}
       {{- $main := resources.Get "/javascript/main.js" -}}
       {{- $autotrack := resources.Get "/javascript/autotrack.js" -}}
-      {{- $js := slice $lazyload $fastclick $lightbox $main $autotrack | resources.Concat "js/main.js" | minify | fingerprint }}
+      {{- $jscookie := resources.Get "/javascript/js-cookie.js" -}}
+      {{- $js := slice $lazyload $fastclick $lightbox $main $autotrack $jscookie | resources.Concat "js/main.js" | minify | fingerprint }}
 
       <script src="{{ $js.Permalink }}"></script>
       
