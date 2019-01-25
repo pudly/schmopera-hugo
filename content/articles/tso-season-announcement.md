@@ -18,7 +18,8 @@ youtube_url = ""
 
 +++
 * _Thaïs_, November 7 and 9, 2019 - Erin Wall in title role
-* Mozart's _Requiem_, January 15-18, 2020
-* Beethoven@250 - 2020 marks the 250th anniversary of his birth, so: Symphony Nos. 5, 6, 7, and 8, Piano Concerto Nos. 3, 4, and 5, and Violin Concerto (James Ehnes)
+* Mozart's _Requiem_, January 15-18, 2020 - four soloists from Barbara Hannigan's Equilibrium (first collab)
+* Beethoven@250 - 2020 marks the 250th anniversary of his birth, so: Symphony Nos. 5, 6, 7, and 8, Piano Concerto Nos. 3, 4, and 5 (with Jan Lisiecki), and Violin Concerto (James Ehnes)
 * Incoming Music Director Gustavo Gimeno (starting fall 2020), conducts concerts featuring pianists Yuja Wang and Beatrice Rana
+* _Messiah_ with Archibald, D'Angelo, Isaiah Bell, and Russell Braun (cond. Alexander Shelley)
 * 
