@@ -1,12 +1,12 @@
 +++
-author = []
+author = ["authors/jenna.md"]
 categories = "Humour"
 date = "2019-01-26T01:25:53+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548527815/media/2019/01/SoloOpera.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
