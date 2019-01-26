@@ -17,6 +17,14 @@ title = "The introvert's dream: going solo at the opera"
 youtube_url = ""
 
 +++
+If you're like me, and you enjoy spending time on your own, you'll understand this dilemma: do you take yourself out on a date for one - to the movies, or to a nice dinner, a place where you're unlikely to have the social safety blanket of a laptop or book, or do you bring a friend on your outing, so as not to appear so utterly, suspiciously, publicly _alone_?
+
+It's a silly thing, but even the most hardcore of introverts struggle with the idea that while they sit happily alone at a table or in a movie theatre, the people around them will notice and think they're a weird loner. 
+
+But going to the opera, all on one's own, is totally fabulous. 
+
+Unlike going to a restaurant, which essentially leaves a large, empty container of time that's traditionally meant for groups to converse and try each other's food, a night at the opera is beautifully structured for a solo ticket holder.
+
 I've thought for a while that going to the opera is an awesome thing to do on a date - even an early date, when you're still getting to know someone. There's an excuse to get a little dressed up and enjoy some pre-show booze to calm the nerves; plus, there's the comforting structure of designated conversation time - once the show starts, both of you get to shut up for a bit.
 
 Hopefully the show itself is good, but it doesn't really matter; there's as much conversation fodder to be found in operas that are jaw-dropping as there is in productions that fall flat. If both of you are opera fans, it's a no-brainer; if only one of you is, it's a chance to introduce something new to another person - one of those (hopefully) fun parts of dating. And if neither of you is opera-initiated, then you're both trying out something new together.
@@ -29,7 +37,7 @@ But going to the opera has structure, a rhythm to the evening; the time is compa
 
 You're allowed to show up at any point between when the doors open (say, 30-60 minutes before the show), leaving as much or as little of the free-rein lobby mingling as you'd like. There's usually a bar, meaning you can do that thing where you put a beverage in your hands and you feel much more normal in public. Or, you can bee-line it right to your seat and get your pre-show reading done, uninterrupted.
 
-At intermission, you can boot it to the washroom, or the bar, or both - and you can do it faster flying solo. 
+At intermission, you can boot it to the washroom, or the bar, or both - and you can do it faster flying solo.
 
 The same goes for the post-show exodus: ***
 
