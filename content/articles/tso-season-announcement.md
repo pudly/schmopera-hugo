@@ -6,8 +6,8 @@ disclaimer = ""
 draft = true
 image_gallery = []
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548523276/media/2019/01/sqGustavoGimenoconductingMarcoBorggreve.jpg"
+primary_image_credit = "Gustavo Gimeno, Incoming Music Director of the Toronto Symphony Orchestra. Photo by Marco Borggreve."
 related_articles = []
 related_companies = []
 related_people = []
@@ -24,9 +24,26 @@ youtube_url = ""
 * **Beethoven@250** - 2020 marks the 250th anniversary of his birth, so: Symphony Nos. 5, 6, 7, and 8, Piano Concerto Nos. 3, 4, and 5 (with Jan Lisiecki), and Violin Concerto (James Ehnes)
 * Incoming Music Director **Gustavo Gimeno** (starting fall 2020), conducts concerts featuring pianists Yuja Wang and Beatrice Rana
 * **_Messiah_** with Archibald, D'Angelo, Isaiah Bell, and Russell Braun (cond. Alexander Shelley)
-* **Pre-concert chamber series**: Wagner's _Wesendonck Lieder_ (Feb. 20), Beethoven's Septet, Vivier's _Cinq chansons pour percussion_ 
-* Pops/Movies: _Home Alone_ (Dec. 6-7), _Star Wars: Return of the Jedi_ (Oct. 2-5), _Star Wars: The Force Awakens_ (May 6-9); 
+* **Pre-concert chamber series**: Wagner's _Wesendonck Lieder_ (Feb. 20), Beethoven's Septet, Vivier's _Cinq chansons pour percussion_
+* Pops/Movies: _Home Alone_ (Dec. 6-7), _Star Wars: Return of the Jedi_ (Oct. 2-5), _Star Wars: The Force Awakens_ (May 6-9);
 * **Holiday Pops** - Measha Brueggergosman
 * **Women**: composers Jocelyn Morlock, Sophie Eckhardt-Gramatté, Emilie LeBel, Carmen Braden, Vivian Fung, and Zosha Di Castri, plus conductor Elim Chan
 * **Young People's Concerts**: Symphony Spooktacular (October 27, 2019); Beethoven Lives Upstairs (February 2, 2020); The Composer Is Dead (March 1, 2020); and Symphonic Fairy Tales (April 26, 2020)
-* 
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548523379/media/2019/01/GustavoGimenoMarcoBorggreve.jpg){{% /md %}}
+
+<figcaption>Gustavo Gimeno, incoming Music Director of the Toronto Symphony Orchestra (fall, 2020). Photo by Marco Borggreve, courtesy of the Toronto Symphony Orchestra.</figcaption>
+
+</figure>
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548523450/media/2019/01/TSO201920.jpg){{% /md %}}
+
+<figcaption>Clockwise from top left: pianist Yuja Wang (photo: Kirk Edwards), soprano Barbara Hannigan (photo: Elmer de Haas), pianist Seong-Jin Cho (photo: Harald Hoffmann), and conductor Elim Chan (photo: Willeke Machiels). Photo courtesy of the Toronto Symphony Orchestra.</figcaption>
+
+</figure>
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548523495/media/2019/01/STARWARS.jpg){{% /md %}}
+
+<figcaption>Photo courtesy of the Toronto Symphony Orchestra.</figcaption>
+
+</figure>
