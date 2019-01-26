@@ -18,13 +18,13 @@
 
 {{- /* Schema */ -}}
 
-  <script type="application/ld+json">
+<script type="application/ld+json">
   {
     "@context": "http://schema.org",
     "@type": "Article",
     "mainEntityOfPage":{
       "@type":"WebPage",
-      "@id":"http://www.schmopera.com"
+      "@id":"https://www.schmopera.com"
     },
     "headline": "{{ .Title }}",
     "image": {
@@ -35,16 +35,17 @@
     },
     "datePublished": "{{ .Params.date }}",
     "dateModified": "{{ .Params.date }}",
+    {{- /* TODO: Fix author array generation -}}
     "author": {
-        {{ with .Params.author -}}
-          {{ range $author := . -}}
-            {{ with $.Site.GetPage "page" $author -}}
+        {{ if .Params.author -}}
+          {{ $aaa := index (.Params.author) 0}}
+            {{ range $.Site.GetPage "page" $aaa -}}
         "@type": "Person",
         "name": "{{ .Title }}"
             {{ end -}}
-          {{ end -}}
         {{ end -}}
     },
+    {{- */}}
      "publisher": {
       "@type": "Organization",
       "name": "Schmopera",
@@ -55,7 +56,7 @@
         "height": 800
       }
     },
-    "description": "{{ .Params.short_description }}"
+    "description": "{{ .Params.short_description | plainify }}"
   }
   </script>
 
