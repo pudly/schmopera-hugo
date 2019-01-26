@@ -23,7 +23,9 @@ It's a silly thing, but even the most hardcore of introverts struggle with the i
 
 But going to the opera, all on one's own, is totally fabulous. 
 
-Unlike going to a restaurant, which essentially leaves a large, empty container of time that's traditionally meant for groups to converse and try each other's food, a night at the opera is beautifully structured for a solo ticket holder.
+Unlike going to a restaurant, which essentially leaves a large, empty container of time that's traditionally meant for groups to converse and try each other's food, a night at the opera is beautifully structured for a solo ticket holder. It's all compartmentalized into digestible chunks of time: Arrival, pre-show activities, show, intermission, show, exit.
+
+Upon **arrival**, you can show up as early or late as you want, with no compromise for the sake of anyone else's plans. You can get there in time to get a few errands out of the way - coat check, bathroom visit - before you grab a drink at the bar and take advantage of t
 
 I've thought for a while that going to the opera is an awesome thing to do on a date - even an early date, when you're still getting to know someone. There's an excuse to get a little dressed up and enjoy some pre-show booze to calm the nerves; plus, there's the comforting structure of designated conversation time - once the show starts, both of you get to shut up for a bit.
 
