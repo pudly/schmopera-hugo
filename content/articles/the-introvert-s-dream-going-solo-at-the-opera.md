@@ -31,6 +31,6 @@ Or, you can make a bee-line right to your seat, where you can peruse the in-hous
 
 At intermission, the lone opera-goer gets a short reprise of the pre-show plan. Bathroom, bar, people-watching, program-reading, in any order you like. And when it's time to leave, it's pretty satisfying to be a singular person, weaving your way through the crowds on your way out the door.
 
-At intermission, you can boot it to the washroom, or the bar, or both - and you can do it faster flying solo.
+Even the show itself is different when you see it alone. I always love most the moment when the house lights dim to signal the show's imminent start; it's a bit like the show is happening just for me. Maybe it's coincidence, but some of the most powerful moments I've experienced as an opera audience member have been when I've gone by myself. There's a freedom in sitting alone in the dark, anonymous among the crowd, greedily soaking up all that opera has to offer. I can sigh, applaud, laugh, and weep at my own pace, without the subconscious urge to mirror the body language of the 
 
 When I go to the opera alone, I always love most the moment when the house lights dim to signal the show's imminent start. It's a little bit like the show is happening just for me; I don't have to nod in agreement when my opera date is impressed by the set, or mirror their enthusiastic applause after an aria if I'm just not feeling it.
