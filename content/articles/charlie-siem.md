@@ -4,6 +4,7 @@ categories = "Interview"
 date = "2019-01-15T17:03:27+00:00"
 disclaimer = ""
 image_gallery = []
+postamble = "Charlie Siem's Cadogan Hall concert happens 5 February at 7:30pm. For details and ticket information, [click here.](http://www.cadoganhall.com/event/charlie-siem-190205/)"
 preamble = "On [February 5](http://www.cadoganhall.com/event/charlie-siem-190205/), violinist Charlie Siem takes the stage at London's Cadogan Hall for a one-night-only concert to benefit [The International Network for Cancer Treatment and Research](http://www.inctr.org/) (INCTR), [TUCCA](http://www.tucca.org.br/), and [The Children at Risk Foundation](http://www.carf-uk.org/) (CARF-UK).\n\nSiem's concert is part of TUCCA's ongoing _Music for a Cure_ concert series, which has traveled internationally, and comes to the UK for the first time in collaboration with INCTR and CARF-UK. \n\nSiem chats with us about playing music for a cause."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1547571777/media/2019/01/sqCHARLIESIEMUweArens.jpg"
 primary_image_credit = "Photo: Uwe Arens."
@@ -41,5 +42,3 @@ Every piece I play has to feel like my favourite to allow me to be convincing!
 ### What advice do you have for your colleagues who want to do more charitable work with their craft?
 
 My advice is to choose causes that they believe in and think they can make a difference to by helping. To remember how lucky we are to make music and share it with the world.
-
-> Charlie Siem's Cadogan Hall concert happens 5 February at 7:30pm. For details and ticket information, [click here.](http://www.cadoganhall.com/event/charlie-siem-190205/)
