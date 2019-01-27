@@ -123,6 +123,14 @@
     </section>
   {{- end -}}
 
+
+  {{- /* Postamble */}}
+  {{- if .Params.postamble }}
+    <section class="post--single_postamble">
+      {{ .Params.postamble | markdownify }}
+    </section>
+  {{- end -}}
+
   {{- /* video content */}}
   {{- if .Params.youtube_url }}
     <section class="post--single_body">

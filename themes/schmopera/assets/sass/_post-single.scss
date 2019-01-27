@@ -6,6 +6,7 @@
     _hero
     _disclaimer
     _preamble
+    _postamble
     _body
     _authors
     _gallery
@@ -207,6 +208,46 @@
   }
 }
 
+/* -----------------------------------------------------
+    _postamble
+    primary content postamble at the bottom of article
+----------------------------------------------------- */
+.post--single_postamble {
+  margin: 0 20px;
+  padding: 20px 0;
+  font-family: "Lustria";
+  font-size: 1.2em;
+  font-weight: 400;
+  color: #222;
+  position: relative;
+  line-height: 1.5em;
+
+  &:before{
+    content: "";
+    position: absolute;
+    display: block;
+    background: $sch-blue;
+  }
+
+  &:before {
+    top: 0;
+    left: 0;
+    height: 5px;
+    width: 25%;
+  }
+
+  > p:first-child {
+    margin-top: 0;
+  }
+
+  > p:last-child {
+    margin-bottom: 0;
+  }
+
+  @include bp-medium {
+    font-size: 1.4em;
+  }  
+}
 
 /* -----------------------------------------------------
     _body
