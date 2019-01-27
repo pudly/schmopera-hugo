@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Humour"
 date = "2019-01-26T01:25:53+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
@@ -33,3 +32,7 @@ Or, you can make a beeline right to your seat, where you can peruse the in-house
 At intermission, the lone opera-goer gets a short reprise of the pre-show plan. Restroom, bar, people-watching, program-reading, in any order you like. And when it's time to leave, it's pretty satisfying to be a singular person, weaving your way through the crowds on your way out the door.
 
 Even the show itself is different when you see it alone. I always love most the moment when the house lights dim to signal the show's imminent start; it's a bit like the show is happening just for me. Maybe it's coincidence, but some of the most powerful moments I've experienced as an opera audience member have been when I've gone by myself. There's a freedom in sitting alone in the dark, anonymous among the crowd, greedily soaking up all that opera has to offer. Without an opera date, and the subconscious urge to mirror their body language, I can sigh, applaud, laugh, and weep at my own pace.
+
+I say all this, I suppose, to embolden you to take yourself to the opera. Maybe you're curious about it, but can't easily find anyone willing to go with you; or maybe you're more interested in finding a decent date-night activity for yourself. Maybe you've not considered going to the opera, nor going out by yourself - but if you even remotely enjoy your own company, I can at least offer you a hearty recommendation.
+
+**Some tips**: many opera companies offer discounts for young(ish) folks, and some offer rush tickets if you're willing to wait for same-day booking. And there are gems to be found beyond the city's biggest operatic offerings; it's the age of the scrappy, black-box, small-but-mighty opera company, and with a bit of digging (and [help from the likes of us](mailto:hello@schmopera.com)), you can find some operatic thrills that are low-key and potentially easier on your wallet.
