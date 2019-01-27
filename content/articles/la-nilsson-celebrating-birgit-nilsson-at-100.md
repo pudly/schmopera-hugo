@@ -9,11 +9,11 @@ postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548609456/media/2019/01/sqBNPg84Elektra.jpg"
 primary_image_credit = "Nilsson as the tormented Elektra. Her portrayal remains definitive. Photo Credit: Decca Classics."
-related_articles = []
+related_articles = ["articles/the-rose-elf-hot-times-in-the-cool-catacombs.md", "articles/summer-nights-at-the-opera-an-observation.md", "articles/the-medium-opera-as-film-noir.md"]
 related_companies = []
 related_people = []
 short_description = "short description"
-slug = "birgit-nilsson"
+slug = "la-nilsson-celebrating-birgit-nilsson-at-100"
 title = "La Nilsson: celebrating Birgit Nilsson at 100"
 youtube_url = ""
 
