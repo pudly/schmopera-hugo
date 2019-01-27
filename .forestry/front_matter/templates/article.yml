@@ -107,10 +107,6 @@ fields:
 - type: image_gallery
   name: image_gallery
   label: Image Gallery
-- type: datetime
-  name: date
-  label: Date
-  description: Post date
 pages:
 - content/articles/cantata-profana.md
 - content/articles/uneven-scarlet-ibis-meditative-to-a-fault.md
