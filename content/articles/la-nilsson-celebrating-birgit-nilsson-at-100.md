@@ -26,7 +26,7 @@ Few, if any, opera singers have achieved the consistent critical acclaim and pub
 
 At the least this luxurious but not excessively packaged collection - let's call it Brünnhildian - offers the opportunity to worship this peerless operatic goddess from a single source. For those who are coming to know Nilsson only now, it is quite simply a treasure trove.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548610522/media/2019/01/BNPg24.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
@@ -44,7 +44,19 @@ This film, regarded as one of the best musical documentaries every made, provide
 
 An attendant luxury of La Nilsson is the inclusion of still another _Ring_, this one from Wagner's own stage at Bayreuth and under the more relaxed baton of Karl Böhm. Within easy proximity we can hear how Nilsson's Brünnhilde adapts to each environment, most especially in her _Walküre_ Act III exchanges with the Wotans of Theo Adam on stage and George London in the studio. Clearly this additional _Ring_ is included not to encourage listeners to judge one over the other but to experience the voice, technique and interpretative prowess of Nilsson from a broad perspective. It would be folly to deny the pleasure and Wagnerian insight that La Nilsson offers by deeming one superior to the other. This is a centennial birthday celebration after all, not a debate over a foregone conclusion.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 One has a similar if less complex reaction to the two recordings of _Turandot_ included, both with the Teatro dell'Opera di Roma. The first, recorded in 1959 under Erich Leinsdorf, and borrowed for the collection from RCA, has the distinction of possessing Jussi Björling as Calaf and Renata Tabaldi as Liù. In the 1965 recording under Francesco Molinari-Pradelli, Nilsson is joined by Franco Corelli and Renata Scotto. When it comes to Nilsson, we know that her interpretation will revolve around an arch and uncompromising princess that was the _Turandot_ of her era. Recently Nina Stemme, who is in the process of becoming Nilsson's heir apparent, has done much to humanize this character. While Corelli is ardent, Björling is transcendent and listeners can compare the remastered Renatas with all of the scrutiny they care to apply. Perhaps this is La Nilsson's contribution to rainy day fun.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548610352/media/2019/01/BNPg95.jpg){{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 Richard Strauss' two one-act operas, _Salome_ and _Elektra_, both recorded at the Sofiensaal under Solti and produced by Culshaw, retain pride of place. They may constitute Nilsson's greatest hold on recorded immorality. Along with the composer's _Die Frau ohne Schatten_ with Böhm, recorded live at the Vienna State Opera, they remain definitive recordings despite what some consider excessive studio intervention on _Salome_.
 
@@ -53,6 +65,12 @@ _Elektra_ retains a dramatic standard that has yet to be equaled. Here it assume
 The cover photo for _Salome_, having survived several packaging concepts over the years, continues to fascinate. When I first saw it on a boxed set of LPs in a sidewalk stand outside a liquor store, the exotically clad Nilsson looked more like the cat who swallowed the canary than the disturbed teen-age princess who had violated the severed head of John the Baptist. Surely Decca's designers weren’t being flip during the photo session so perhaps Nilsson was up to some subtle mischief that has managed to last for decades. Nilsson was well known for her practical jokes and a humorous thread runs subtly through many of the photos in the accompanying book and reproduced LP covers.
 
 Stemme, by the way, was awarded the 2018 Birgit Nilsson Prize; a $1 million gift awarded every three years by the Birgit Nilsson Foundation, for artistic excellence that will stand the test of time. She has stepped with rare distinction into Nilsson territory with acclaimed interpretations of Elektra, Isolde and Salome in addition to Turandot. While on the subject of money, Nilsson appears as a benignly rendered Elektra on the 500 Kronor Swedish bank note. She joins the likes of Ingmar Bergman and Greta Garbo to put this recognition in cultural perspective.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548610567/media/2019/01/Nilsson7592.jpg){{% /md %}}
+
+<figcaption>Nilsson is rendered by a benign Elektra on this 500 Kronor Swedish bank note. She joins the likes of Ingmar Bergman and Greta Garbo who also appear on Swedish currency. Photo: Sveriges Riksbank.</figcaption>
+
+</figure>
 
 In addition to cooperating with La Nilsson, the foundation authorized the release of a set of live Nilsson recordings featuring _Die Walküre_ at the Metropolitan Opera under Herbert von Karajan, two _Tristans_, two _Elektras_ and a _Turandot_ conducted by Leopold Stokowski. Those inclined to listen for vocal strain in these live recordings will have their work cut out for them.
 
