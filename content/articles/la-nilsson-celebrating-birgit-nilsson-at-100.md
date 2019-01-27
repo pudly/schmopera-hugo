@@ -28,13 +28,13 @@ At the least this luxurious but not excessively packaged collection - let's call
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548610522/media/2019/01/BNPg24.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>A youthful Nilsson as Salome in Stockholm. Photo: Decca Classics.</figcaption>
 
 </figure>
 
 But where does one start? Channeling the mischievous spirit that has long been associated with Nilsson, I resisted the obvious lure of the _Ring_ and opted for Tosca. Yes, La Nilsson travels beyond Wagner and Strauss to include Puccini, Verdi, Mozart, Beethoven, Sibelius and Weber as well.
 
-Franco Corelli and Dietrich Fischer-Dieskau join Nilsson in this _Tosca_ that has by some been termed a veritable shouting match. With a sexually harassed Tosca, a tortured Cavaradossi, and a sadistic Scarpia, there is plenty of reason to shout. The result however is three pitch-perfect singers who go for intensity and volume over characterization. Despite this wacky approach, the recording gels in its own unorthodox manner because the powerhouse singers are matched by the ferocious intensity with which Lorin Maazel propels the orchestra of the Academia di Santa Cecilia. If nothing else, it's an ear-opener.
+Franco Corelli and Dietrich Fischer-Dieskau join Nilsson in this _Tosca_ that has by some been termed a veritable shouting match. With a sexually harassed Tosca, a tortured Cavaradossi, and a sadistic Scarpia, there is plenty of reason to shout. The result however is three pitch-perfect singers who go for intensity and volume over characterization. Despite this wacky approach, the recording gels in its own unorthodox manner because the powerhouse singers are matched by the ferocious intensity with which Lorin Maazel propels the orchestra of the Accademia di Santa Cecilia. If nothing else, it's an ear-opener.
 
 Mischief satisfied, I succumbed to the _Ring_ and found myself in Vienna's Sofiensaal, that legendary dancehall turned Decca recording studio, for Sir Georg Solti's historic studio recording. We've known this _Ring_ for decades. It was the first ever recording of the cycle in a studio, a pioneer in stereophonic technology, and the signature work of Decca producer, John Culshaw. Listening to this _Ring_ and subsequent recordings for which Culshaw served as producer, it becomes apparent that he exerted a significant influence on Nilsson's studio recording oeuvre.
 
@@ -54,7 +54,7 @@ One has a similar if less complex reaction to the two recordings of _Turandot_ i
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548610352/media/2019/01/BNPg95.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Sir Georg Solti, Birgit Nilsson, unidentified male and producer, John Culshaw during the 1960-61 recording of Un ballo in maschera at the Accademia di Santa Cecilia, Rome. Photo: Decca Classics.</figcaption>
 
 </figure>
 
