@@ -4,6 +4,7 @@ categories = "Review"
 date = "2019-01-15T18:47:30+00:00"
 disclaimer = ""
 image_gallery = []
+postamble = "ROH's _La traviata_ runs through 31 January, including a live cinema broadcast on 30 January, 7pm. For details and ticket information, [click here.](https://www.roh.org.uk/productions/la-traviata-by-richard-eyre)"
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1547589269/media/2019/01/sq405ErmonelaJahoasViolettaValeryCharlesCastronovoasAlfredoGermontROH2019.jpg"
 primary_image_credit = "Ermonela Jaho (Violetta Valéry) and Charles Castronovo (Alfred Germont) in La traviata, ROH, 2019. Photo: Catherine Ashmore."
@@ -83,5 +84,3 @@ I did have to wonder though, if I was perhaps the fact that this production is o
 </figure>
 
 However, it did not diminish the level of craftsmanship and storytelling I was witnessing and of every opera I have ever had the fortune to see performed, _La traviata_ lends itself best to a classic production. Re-invention is always possible, and in most cases, welcome, but _La traviata_ provides the rare opportunity to tell a very particular story from a very particular moment in time. The woman upon whom Violetta is based was hugely influential in social circles in Paris and greatly revered by many. It is her story, and she that Verdi is honouring. In many ways, _Traviata_ is one of those operas you just don't fiddle around with. Alright by me; I quite like it just the way it is and I have a feeling it is a story that will continue to be told for many years to come.
-
-> ROH's _La traviata_ runs through 31 January, including a live cinema broadcast on 30 January, 7pm. For details and ticket information, [click here.](https://www.roh.org.uk/productions/la-traviata-by-richard-eyre)
