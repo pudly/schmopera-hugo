@@ -4,6 +4,7 @@ categories = "Review"
 date = "2019-01-21T20:52:46+00:00"
 disclaimer = ""
 image_gallery = []
+postamble = "HGO's production of _Florencia en el Amazonas_ runs through February 3. For details, [click here](https://www.houstongrandopera.org/florenciaenelamazonas)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548103901/media/2019/01/sqHGO-Florencia-2019-OrchestraDressRehearsal-PhotographerLynnLane-159.jpg"
 primary_image_credit = "Ana María Martínez as Florencia Grimaldi in Florencia en el Amazonas, HGO, 2019. Photo: Lynn Lane."
@@ -63,5 +64,3 @@ Maestro Patrick Summers led this orchestral maelstrom with the great assurance t
 </figure>
 
 In sum, this opera quite simply needs its own appreciation course, for _Florencia en el Amazonas_ is more than merely a multi-layered operatic masterwork of subtlety in all aspects, that shows just how insufficient one listening is to enable one to take it all in, or merely an introduction to the compelling dramatic world of the Latin American literary boom; rather, it is the epitome of the best elements of opera mixed together with an elusive authentic modernist sense of adventure.
-
->HGO's production of _Florencia en el Amazonas_ runs through February 3. For details, [click here](https://www.houstongrandopera.org/florenciaenelamazonas).
