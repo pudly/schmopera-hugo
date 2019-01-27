@@ -34,15 +34,15 @@ Few, if any, opera singers have achieved the consistent critical acclaim and pub
 
 At the least this luxurious but not excessively packaged collection - let's call it Brünnhildian - offers the opportunity to worship this peerless operatic goddess from a single source. For those who are coming to know Nilsson only now, it is quite simply a treasure trove.
 
+But where does one start? Channeling the mischievous spirit that has long been associated with Nilsson, I resisted the obvious lure of the _Ring_ and opted for Tosca. Yes, _La Nilsson_ travels beyond Wagner and Strauss to include Puccini, Verdi, Mozart, Beethoven, Sibelius and Weber as well.
+
+Franco Corelli and Dietrich Fischer-Dieskau join Nilsson in this _Tosca_ that has by some been termed a veritable shouting match. With a sexually harassed Tosca, a tortured Cavaradossi, and a sadistic Scarpia, there is plenty of reason to shout. The result however is three pitch-perfect singers who go for intensity and volume over characterization. Despite this wacky approach, the recording gels in its own unorthodox manner because the powerhouse singers are matched by the ferocious intensity with which Lorin Maazel propels the orchestra of the Accademia di Santa Cecilia. If nothing else, it's an ear-opener.
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548610522/media/2019/01/BNPg24.jpg){{% /md %}}
 
 <figcaption>A youthful Nilsson as Salome in Stockholm. Photo: Decca Classics.</figcaption>
 
 </figure>
-
-But where does one start? Channeling the mischievous spirit that has long been associated with Nilsson, I resisted the obvious lure of the _Ring_ and opted for Tosca. Yes, _La Nilsson_ travels beyond Wagner and Strauss to include Puccini, Verdi, Mozart, Beethoven, Sibelius and Weber as well.
-
-Franco Corelli and Dietrich Fischer-Dieskau join Nilsson in this _Tosca_ that has by some been termed a veritable shouting match. With a sexually harassed Tosca, a tortured Cavaradossi, and a sadistic Scarpia, there is plenty of reason to shout. The result however is three pitch-perfect singers who go for intensity and volume over characterization. Despite this wacky approach, the recording gels in its own unorthodox manner because the powerhouse singers are matched by the ferocious intensity with which Lorin Maazel propels the orchestra of the Accademia di Santa Cecilia. If nothing else, it's an ear-opener.
 
 Mischief satisfied, I succumbed to the _Ring_ and found myself in Vienna's Sofiensaal, that legendary dancehall turned Decca recording studio, for Sir Georg Solti's historic studio recording. We've known this _Ring_ for decades. It was the first ever recording of the cycle in a studio, a pioneer in stereophonic technology, and the signature work of Decca producer, John Culshaw. Listening to this _Ring_ and subsequent recordings for which Culshaw served as producer, it becomes apparent that he exerted a significant influence on Nilsson's studio recording oeuvre.
 
@@ -72,15 +72,13 @@ Richard Strauss' two one-act operas, _Salome_ and _Elektra_, both recorded at th
 
 _Elektra_ retains a dramatic standard that has yet to be equaled. Here it assumes the role of a companion piece to the 1980 video from the Metropolitan Opera under James Levine. Leonie Rysanek as Chrysothemis joins Nilsson in a production that looks a bit frumpy by today's standards but is nonetheless a potent reminder of two powerful singing actresses. Additionally Mignon Dunn revels in Klytaemnestra's guilt and mines every bit of the role's gallows humor.
 
-The cover photo for _Salome_, having survived several packaging concepts over the years, continues to fascinate. When I first saw it on a boxed set of LPs in a sidewalk stand outside a liquor store, the exotically clad Nilsson looked more like the cat who swallowed the canary than the disturbed teen-age princess who had violated the severed head of John the Baptist. Surely Decca's designers weren’t being flip during the photo session so perhaps Nilsson was up to some subtle mischief that has managed to last for decades. Nilsson was well known for her practical jokes and a humorous thread runs subtly through many of the photos in the accompanying book and reproduced LP covers.
-
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548611166/media/2019/01/NilssonSalome.jpg){{% /md %}}
 
 <figcaption>Image: Decca Classics.</figcaption>
 
 </figure>
 
->Who but Nilsson has captured with such refined exuberance and reverence Elizabeth's aria from _Tannhäuser_, "Dich, teure Halle"?
+The cover photo for _Salome_, having survived several packaging concepts over the years, continues to fascinate. When I first saw it on a boxed set of LPs in a sidewalk stand outside a liquor store, the exotically clad Nilsson looked more like the cat who swallowed the canary than the disturbed teen-age princess who had violated the severed head of John the Baptist. Surely Decca's designers weren’t being flip during the photo session so perhaps Nilsson was up to some subtle mischief that has managed to last for decades. Nilsson was well known for her practical jokes and a humorous thread runs subtly through many of the photos in the accompanying book and reproduced LP covers.
 
 Stemme, by the way, was awarded the 2018 Birgit Nilsson Prize; a $1 million gift awarded every three years by the Birgit Nilsson Foundation, for artistic excellence that will stand the test of time. She has stepped with rare distinction into Nilsson territory with acclaimed interpretations of Elektra, Isolde and Salome in addition to Turandot. While on the subject of money, Nilsson appears as a benignly rendered Elektra on the 500 Kronor Swedish bank note. She joins the likes of Ingmar Bergman and Greta Garbo to put this recognition in cultural perspective.
 
@@ -93,5 +91,7 @@ Stemme, by the way, was awarded the 2018 Birgit Nilsson Prize; a $1 million gift
 In addition to cooperating with _La Nilsson_, the foundation authorized the release of a set of live Nilsson recordings featuring _Die Walküre_ at the Metropolitan Opera under Herbert von Karajan, two _Tristans_, two _Elektras_ and a _Turandot_ conducted by Leopold Stokowski. Those inclined to listen for vocal strain in these live recordings will have their work cut out for them.
 
 Many collections of the size and scope of _La Nilsson_ have their catchall disk, where this and that, as it were, takes up residence. Here that role falls to the lovely collection of Scandinavian songs, _Land of the Midnight Sun_. With plenty of room left on the CD transfer, the space is filled by the Christmas standards, "O Holy Night", "Ava Maria" (Gounod), "Panis Angelicus" and "Silent Night". As if to give Culshaw the last word, the CD ends with "I Could Have Danced All Night", from Lerner and Loewe's _My Fair Lady_, in which Nilsson belts the last note into the heavens. Her show-stopping rendition appeared in a faux gala that Culshaw concocted for a recording of _Die Fledermaus_ including such opera greats as Leontyne Price, Joan Sutherland and Jussi Björling. While it does nothing to unite the disk it is a witty and dazzling moment.
+
+>Who but Nilsson has captured with such refined exuberance and reverence Elizabeth's aria from _Tannhäuser_, "Dich, teure Halle"?
 
 _La Nilsson_'s first three disks, the obvious entry point, capture the 1960 _Tristan and Isolde_ with Solti and the Vienna Philharmonic followed by a rehearsal session narrated by Culshaw, a sober introduction to the collection for sure. Were I to search for an entry point once again, I might forego the obvious, also resist the temptation of _Tosca_ (disks 37 and 38) and move one up to 39, the collection of arias by Wagner, Weber, and Beethoven. Who but Nilsson has captured with such refined exuberance and reverence Elizabeth's aria from _Tannhäuser_, "Dich, teure Halle"? By any measure, this is _La Nilsson_'s welcome of welcomes, one that captures Nilsson's superb artistry and, when taken out of strict operatic context, a hint of her mischievous nature as well.
