@@ -18,6 +18,10 @@ title = "Star Wars"
 youtube_url = ""
 
 +++
-There's definitely something operatic about watching _Star Wars: A New Hope_ on a screen dangling from the ceiling of Roy Thomson Hall, its famous original score in the expert hands of the Toronto Symphony Orchestra. 
+There's definitely something operatic about watching _Star Wars: A New Hope_ on a screen dangling from the ceiling of Roy Thomson Hall, its famous original score in the expert hands of the Toronto Symphony Orchestra.
 
-The crowd, full of fans of all ages, shared a level of love and nostalgia for the work of John Williams and George Lucas that rivals opera fans' loyalty to Verdi and Wagner. Perhaps with in-concert films, there are fewer variables than in opera, where all the moving parts are happening live. Yet there's enough that's different about the experience, taking the first-released _Star Wars_ movie
+The crowd, full of fans of all ages, shared a level of love and nostalgia for the work of John Williams and George Lucas that rivals opera fans' loyalty to Verdi and Wagner. It's true that there are fewer variables with in-concert film - certainly so compared to opera, where all of a production's moving parts are happening live - but this audience also seemed less bothered by the bits that might have been unexpected: The subtitles ran throughout the film; the orchestra was sometimes too loud to clearly hear the dialogue; there was an intermission.
+
+It's all stuff that, maybe for the most hardcore cinephile and _Star Wars_ lunatic, might have detracted from the experience. I certainly exercised a bit of will-power in my attempts to ignore the subtitles (except when they came in handy in the moments of acoustic imbalance), and at the end, when it became clear that we should indeed sit through the full credits - because John Williams - I suppressed an urge to do what I do at the movie theatre, which is _not sit through the credits_.
+
+\**these fans are more chill about variables, refreshing
