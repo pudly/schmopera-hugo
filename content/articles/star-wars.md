@@ -28,6 +28,8 @@ It was refreshing to note the differences in this crowd from the usual audience 
 
 All this fun is put up against the seriousness that makes _Star Wars_ a piece of nostalgia that spans generations. John Williams makes many nods to centuries past in his celebrated _Star Wars_ score: the beefed-up orchestra à-la-Mahler; the sweeping lines of Puccini, the _leitmotifs_ of Wagner. George Lucas pulls from the old stories of heroes, mythology, and good-versus-evil - the same source materials that gave us Wagner's _Ring Cycle_, Handel's operas about Roman Emperors, and Harry Potter.
 
-I often wonder what organizations like the TSO, and its musicians, think of their Pops series. Among some inner circles of classical music, Pops concerts are less serious, maybe even less important, than their concerts of Shostakovich and Strauss. 
+I often wonder what organizations like the TSO, and its musicians, think of their Pops series. Among some inner circles of classical music, Pops concerts are less serious, maybe even less important, than their concerts of Shostakovich and Strauss. The _Star Wars_ score isn't easy, but it has that same giggle-inducing effect as the Anvil Chorus from _Il trovatore_, the Toreador song from _Carmen_, and the Ride of the Valkyries from _Die Walküre_ - any time classical musicians play something wildly famous.
+
+I hope the TSO has fun onstage, because these in-concert films - a series that continues this year with _Casablanca_ (February 15-16), _Star Wars: The Empire Strikes Back_ (March 20-23), and _Star Wars: Return of the Jedi_ (October 2-5) - 
 
 It's easy to notice the contrasts between going to _Star Wars_ in-concert and a Mahler symphony, and chalk it up to an obvious difference in fan base. That's an easy given, but too simplistic a conclusion.
