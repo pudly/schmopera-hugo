@@ -20,6 +20,12 @@ youtube_url = ""
 +++
 The box seems to generate its own energy. Covered in sophisticated hues of copper and gray with a resplendent image of Birgit Nilsson as Brünnhilde, who had surely passed through hair and make-up before leaving Valhalla, it is of monolithic proportions. The subtle click of padded magnets on the front gives the impression of substance and staying power, in short the essence of Nilsson.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548611271/media/2019/01/LaNilsson80652.jpg){{% /md %}}
+
+<figcaption>Image: Decca Classics.</figcaption>
+
+</figure>
+
 This boxed set of newly remastered studio recordings, primarily on Decca, Deutsche Grammophon, and Philips, celebrates the 100th anniversary of her birth that took place on May 17, 1918. This is not so much a review but a consideration of greatness and how effectively it can be repackaged.
 
 Few, if any, opera singers have achieved the consistent critical acclaim and public adoration, as has Nilsson. Her flawless technique and boundless energy are spectacularly represented on 81 disks, including 79 compact disks and two DVDs. Additionally a formidable book tops the package containing complete track listings and illuminating essays - along with a few errors that will send fans scurrying off to confirm the facts. The book is generously graced with performance and rehearsal photographs. There is also an abundance of candid shots that capture Nilsson's vibrant personality. Together they portray Nilsson in all manner or action whether riding the hell out of an exercise bike during the 1966 Elektra recording or as a rather formally posed Minnie, with gun on hip from Puccini's _La fanciulla del West_.
@@ -67,6 +73,12 @@ Richard Strauss' two one-act operas, _Salome_ and _Elektra_, both recorded at th
 _Elektra_ retains a dramatic standard that has yet to be equaled. Here it assumes the role of a companion piece to the 1980 video from the Metropolitan Opera under James Levine. Leonie Rysanek as Chrysothemis joins Nilsson in a production that looks a bit frumpy by today's standards but is nonetheless a potent reminder of two powerful singing actresses. Additionally Mignon Dunn revels in Klytaemnestra's guilt and mines every bit of the role's gallows humor.
 
 The cover photo for _Salome_, having survived several packaging concepts over the years, continues to fascinate. When I first saw it on a boxed set of LPs in a sidewalk stand outside a liquor store, the exotically clad Nilsson looked more like the cat who swallowed the canary than the disturbed teen-age princess who had violated the severed head of John the Baptist. Surely Decca's designers weren’t being flip during the photo session so perhaps Nilsson was up to some subtle mischief that has managed to last for decades. Nilsson was well known for her practical jokes and a humorous thread runs subtly through many of the photos in the accompanying book and reproduced LP covers.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548611166/media/2019/01/NilssonSalome.jpg){{% /md %}}
+
+<figcaption>Image: Decca Classics.</figcaption>
+
+</figure>
 
 >Who but Nilsson has captured with such refined exuberance and reverence Elizabeth's aria from _Tannhäuser_, "Dich, teure Halle"?
 
