@@ -4,6 +4,7 @@ categories = "Editorial"
 date = "2019-01-16T18:19:31+00:00"
 disclaimer = ""
 image_gallery = []
+postamble = "The world premiere of _Hook Up_, directed by Richard Greenblatt, runs January 29 to February 9 at Theatre Passe Muraille, 16 Ryerson Ave. For details and ticket information, [click here.](https://tapestryopera.com/hook-up/)"
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1547666757/media/2019/01/sqHookUp.jpg"
 primary_image_credit = "Artwork by Patrick Hunter."
@@ -49,5 +50,3 @@ Mori describes _Hook Up_ as having "one foot in opera, one foot in musical theat
 The end result, though it suggests an uncomfortably familiar story, is "not a chastisement." It's a chance to hear one young woman's story, particularly valuable when so often it's the victim's voice that is heard the least.
 
 "It's not black and white. It’s not like there are just good guys and bad guys. But there’s definitely a culture that needs to change."
-
-> The world premiere of _Hook Up_, directed by Richard Greenblatt, runs January 29 to February 9 at Theatre Passe Muraille, 16 Ryerson Ave. For details and ticket information, [click here.](https://tapestryopera.com/hook-up/)
