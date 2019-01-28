@@ -8,7 +8,7 @@ image_gallery = []
 postamble = "[_The Italian Straw Hat_](https://mnopera.org/season/2018-2019/the-italian-straw-hat/) runs until February 3. Next up is [_The Fix_](https://mnopera.org/season/2018-2019/the-fix/) in March, and [_La traviata_](https://mnopera.org/season/2018-2019/la-traviata/) in May."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548710618/media/2019/01/sqT8A9354.jpg"
-primary_image_credit = "ChristianSanders as Viscount Achille de Rosalba, Victoria Vargas as Baronessa di Champigny, and Andrew Stenson as Fadinard in Minnesota Opera's The Italian Straw Hat, 2019. Photo: Cory Weaver."
+primary_image_credit = "Christian Sanders as Viscount Achille de Rosalba, Victoria Vargas as Baronessa di Champigny, and Andrew Stenson as Fadinard in Minnesota Opera's The Italian Straw Hat, 2019. Photo: Cory Weaver."
 related_articles = []
 related_companies = []
 related_people = []
@@ -30,25 +30,25 @@ The curtain opened with the same elevated semi-raked platform in the middle of t
 
 The costumes by [Lorenzo Cutùli](https://mnopera.org/biography/lorenzo-cutuli/) were lovely, bright and very period. Standouts were Elena's pristine white and flouncy wedding dress with matching pumps, shawl and umbrella. The chorus also had a wonderful array of costumes from the milliners working clothes to evening wear at the Baroness' salon. The set (also by Cutùli) was unique - there were three walls of images from the time (a movie poster of _Singing in the Rain,_ etc.). They always stayed on the stage and provided some scaffolding for additional ensemble members to sing from.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548710761/media/2019/01/_37A0096.jpg){{% /md %}}
 
-<figcaption> in Minnesota Opera's The Italian Straw Hat, 2019. Photo: Cory Weaver.</figcaption>
+<figcaption>Andrew Stenson as Fadinard in Minnesota Opera's The Italian Straw Hat, 2019. Photo: Cory Weaver.</figcaption>
 
 </figure>
 
 Native Minnesotan [Andrew Stenson](https://mnopera.org/biography/andrew-stenson/) made his house debut leading the cast as groom Fadinard. His voice was wonderful with many extended high notes, and with the style of a true straight man did his best to keep the zany actions of his costars on track. [Dale Travis](https://mnopera.org/biography/dale-travis/) was a very funny father-in-law to the star, with every entrance marked by his trademark "It (the wedding) is off." Mr. Travis had a grounded sound that fit perfectly as the controlling and overwhelmed father of the bride.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548710829/media/2019/01/_37A0552.jpg){{% /md %}}
 
-<figcaption> in Minnesota Opera's The Italian Straw Hat, 2019. Photo: Cory Weaver.</figcaption>
+<figcaption>Lisa Marie Rogali as Elena in Minnesota Opera's The Italian Straw Hat, 2019. Photo: Cory Weaver.</figcaption>
 
 </figure>
 
 As the bride Elena, [Lisa Marie Rogali](https://mnopera.org/biography/lisa-marie-rogali/) did her best with the little character development the composer gave her. Her voice was resonant on her exposed coloratura, but there were a few intonation issues that marred her otherwise lovely performance. The hilarious instigators of the whole hat conflict were Anaide and Emilio played by the Minnesota Resident Young Artists [Danielle Beckvermit](https://mnopera.org/biography/danielle-beckvermit/) and[ Christian Thurston](https://mnopera.org/biography/christian-thurston/). It was wonderful to see Young Artists having larger roles, and the scenes with Fadinard, Anaide and Emilio crackled with energy. Ms. Beckvermit had hilarious physicality and silky high notes. Mr. Thurston was convincing as Anaide’s lover who was very concerned with her honor. [Victoria Vargess](https://mnopera.org/biography/victoria-vargas/) as the Baronessa di Champigny and [Christian Sanders](https://mnopera.org/biography/christian-sanders/) as the Viscount Achille di Rosalba/Guardsman were an entertainingly decadent pair.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548710892/media/2019/01/_37A0667.jpg){{% /md %}}
 
-<figcaption> in Minnesota Opera's The Italian Straw Hat, 2019. Photo: Cory Weaver.</figcaption>
+<figcaption>Christian Thurston as Emilio, Andrew Stenson as Fadinard, and Danielle Beckvermit as Anaide in Minnesota Opera's The Italian Straw Hat, 2019. Photo: Cory Weaver.</figcaption>
 
 </figure>
 
@@ -56,9 +56,9 @@ While the first act was very funny and well paced, but there were some comedic m
 
 I was heartily confused for most of the third and fourth acts. In the scene where the whole wedding party thought they were camping out in the groom's house, but it was actually the house of cuckolded husband of Anaide.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548710965/media/2019/01/_37A0289.jpg){{% /md %}}
 
-<figcaption> in Minnesota Opera's The Italian Straw Hat, 2019. Photo: Cory Weaver.</figcaption>
+<figcaption>Victoria Vargas as Baronessa di Champigny and Andrew Stenson as Fadinard in Minnesota Opera's The Italian Straw Hat, 2019. Photo: Cory Weaver.</figcaption>
 
 </figure>
 
