@@ -36,7 +36,7 @@ The costumes by [Lorenzo Cutùli](https://mnopera.org/biography/lorenzo-cutuli/)
 
 </figure>
 
-Native Minnesotan [Andrew Stenson](/scene/people/andrew-stenson/) made his house debut leading the cast as groom Fadinard. His voice was wonderful with many extended high notes, and with the style of a true straight man did his best to keep the zany actions of his costars on track. [Dale Travis](https://mnopera.org/biography/dale-travis/) was a very funny father-in-law to the star, with every entrance marked by his trademark "It (the wedding) is off." Mr. Travis had a grounded sound that fit perfectly as the controlling and overwhelmed father of the bride.
+Native Minnesotan [Andrew Stenson](/scene/people/andrew-stenson/) made his house debut leading the cast as groom Fadinard. His voice was wonderful with many extended high notes, and with the style of a true straight man did his best to keep the zany actions of his costars on track. [Dale Travis](/scene/people/dale-travis/) was a very funny father-in-law to the star, with every entrance marked by his trademark "It (the wedding) is off." Mr. Travis had a grounded sound that fit perfectly as the controlling and overwhelmed father of the bride.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548710829/media/2019/01/_37A0552.jpg){{% /md %}}
 
