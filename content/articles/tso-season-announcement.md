@@ -5,6 +5,7 @@ date = "2019-01-25T01:47:34+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
+postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548523276/media/2019/01/sqGustavoGimenoconductingMarcoBorggreve.jpg"
 primary_image_credit = "Gustavo Gimeno, Incoming Music Director of the Toronto Symphony Orchestra. Photo by Marco Borggreve."
@@ -17,6 +18,9 @@ title = "TSO season announcement"
 youtube_url = ""
 
 +++
+The Toronto Symphony Orchestra's 2019-20 season
+
+* 
 * **Season opener** on September 19 and 21, featuring Barbara Hannigan singing an aria from Brett Dean's _Hamlet_
 * Conductors Sir Andrew Davis, Peter Oundjian, and Gustavo Gimeno represent the **past/present/future** of TSO Music Directorship
 * **Cool pieces to hear live**: _Thaïs_, November 7 and 9, 2019 - Erin Wall in title role; Strauss' _Also sprach Zarathustra_ (June 17, 20, 21); _Pictures at an Exhibition_ (March 20-22); Vivaldi's _Four Seasons_ w. Jonathan Crowe (Nov 16-20); Dvorak Cello Concerto w. Joseph Johnson (Jan. 30 and Feb 1); _Wesendonck Lieder_ w. Donald Runnicles on piano, Feb. 20 (singer TBA)
