@@ -18,7 +18,7 @@ title = "TSO season announcement"
 youtube_url = ""
 
 +++
-The Toronto Symphony Orchestra's 2019-20 season
+The Toronto Symphony Orchestra's 2019-20 season will be, one hopes, the last in a while without the appointment of a permanent Music Director. Interim Artistic Director Sir Andrew Davis has returned to the TSO following the 
 
 * 
 * **Season opener** on September 19 and 21, featuring Barbara Hannigan singing an aria from Brett Dean's _Hamlet_
