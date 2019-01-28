@@ -18,7 +18,9 @@ title = "TSO season announcement"
 youtube_url = ""
 
 +++
-The Toronto Symphony Orchestra's 2019-20 season will be, one hopes, the last in a while without the appointment of a permanent Music Director. Interim Artistic Director Sir Andrew Davis has returned to the TSO following Music Director Emeritus Peter Oundjian's exit at the end of the 2017/18 season; incoming Music Director Gustavo Gimeno, set to officially begin his tenure in the fall of 2020, will be in town to conduct a handful of concerts this season, and whetting the audience's appetite.
+The Toronto Symphony Orchestra's 2019-20 season will be, one hopes, the last in a while without the appointment of a permanent Music Director. Interim Artistic Director Sir Andrew Davis has returned to the TSO following Conductor Emeritus Peter Oundjian's exit at the end of the 2017/18 season; incoming Music Director Gustavo Gimeno, set to officially begin his tenure in the fall of 2020, will be in town to conduct a handful of concerts this season, and whetting the audience's appetite.
+
+In fact, the TSO's past, present, and future will all take the podium in 2019/20. In the fall Gimeno will conduct a Russian-French programme (October 9-12, 2019), and he'll return in April for a concert of Brahms featuring star pianist Yuja Wang (April 8-11, 2020). Oundjian will return for a hefty concert of Mahler's Symphony No. 5 and Bruch's _Violin Concerto_, featuring TSO Concertmaster Jonathan Crowe (April 29-May 2, 2020). And Sir Andrew Davis will be a season-long presence as a conductor, a composer, and even as an organist for Saint-Saëns' "Organ Symphony" (June 17-21, 2020).
 
 * 
 * **Season opener** on September 19 and 21, featuring Barbara Hannigan singing an aria from Brett Dean's _Hamlet_
