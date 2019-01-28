@@ -9,8 +9,8 @@ postamble = "[_The Italian Straw Hat_](https://mnopera.org/season/2018-2019/the-
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548710618/media/2019/01/sqT8A9354.jpg"
 primary_image_credit = "Christian Sanders as Viscount Achille de Rosalba, Victoria Vargas as Baronessa di Champigny, and Andrew Stenson as Fadinard in Minnesota Opera's The Italian Straw Hat, 2019. Photo: Cory Weaver."
-related_articles = []
-related_companies = []
+related_articles = ["articles/kept-women-a-snapshot-of-life-in-la-rondine.md", "articles/silent-night-ages-well-in-minnesota-revival.md"]
+related_companies = ["scene/companies/minnesota-opera.md"]
 related_people = []
 short_description = "short description"
 slug = "slapstick-overload-the-italian-straw-hat"
@@ -64,8 +64,8 @@ I was heartily confused for most of the third and fourth acts. In the scene wher
 
 At the house, the newlyweds bedroom was going to be blessed by Nonancourt. Elena is launched into a tizzy about not wanting to lose her virginity and wanting "to go home with Papa where I was happy" while the chorus of well-meaning female family members comforted her. A confusing turn of events, since there was a such an amorous kiss and excitement about the nuptials between the couple in Act I. Perhaps Rota wrote this scene as social commentary in the 1950s - but it did not play off in this performance. (Elena was back to all smiles as Fadinard finally carried her across the threshold in the final scene.)
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548711031/media/2019/01/_T8A9218.jpg){{% /md %}}
 
-<figcaption> in Minnesota Opera's The Italian Straw Hat, 2019. Photo: Cory Weaver.</figcaption>
+<figcaption>Christian Sanders as Viscount Achille de Rosalba in Minnesota Opera's The Italian Straw Hat, 2019. Photo: Cory Weaver.</figcaption>
 
 </figure>
