@@ -1,8 +1,7 @@
 +++
 date = "2019-01-28T21:44:08+00:00"
 discipline = "Mezzo-soprano"
-draft = true
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548711871/media/2019/01/VictoriaVargas.jpg"
 primary_image_credit = ""
 related_companies = ["scene/companies/sarasota-opera.md", "scene/companies/minnesota-opera.md", "scene/companies/opera-theatre-of-st-louis.md"]
 slug = "victoria-vargas"
