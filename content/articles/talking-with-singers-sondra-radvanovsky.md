@@ -19,7 +19,7 @@ title = "Talking with singers: Sondra Radvanovsky"
 
 A role like Norma is no simple sing, yet Puccini's orchestration demands a certain kind of technical care and attention. "That Puccini orchestra is big," says Radvanovsky, noting that unlike much of the _bel canto_ repertoire, Puccini's orchestration often doubles the vocal line. "They're wailing away right with you. You have to find that breath support and that line." Anyone who has heard Radvanovsky sing live has no doubts of the sheer power in her sound. Still, she is acutely aware of the difference between effort and efficiency. "You have to learn, 'Ok, this is as much as I can give,' and that only comes from experience, and trying it onstage."
 
->"I think that I'm singing the best that I've ever sung right now."
+> "I think that I'm singing the best that I've ever sung right now."
 
 Radvanovsky spends her professional life embodying the extreme; so, where lies the balance between beauty of sound, and a performance which rises to the dramatic heights of the music? "It's still always a fight with me," she admits. Her training as an actress and a singer illuminated for her the different between acting and tension, which are "two separate things."
 
@@ -39,7 +39,7 @@ It's an extraordinary amount of trust, for a performer to distance herself from 
 
 Alongside her training as a singer, Radvanovsky took just as seriously her training as an actress. She began voice lessons at 11 years of age, and when she began to look seriously at opera, she was confident that singing was inseparable from acting. Radvanovsky studied drama formally both at UCLA and privately, while continuing voice lessons. She recalls the straightforward choice: "If I'm going to be an opera singer, I want to learn how to move onstage." She was eager to learn everything she could about costuming, stage make-up, how to find her light, and what it meant to play roles from different historical periods.
 
->"Do I sing it for those 4200 people who paid a lot of money for those tickets, and actually came and showed up at the opera house, or do I minimize my movements, and think about my gestures for the millions of people who are going to watch it in the cinema and on DVD?"
+> "Do I sing it for those 4200 people who paid a lot of money for those tickets, and actually came and showed up at the opera house, or do I minimize my movements, and think about my gestures for the millions of people who are going to watch it in the cinema and on DVD?"
 
 "You had the opera stars of the 70s at the pinnacles of their careers, these younger singers coming up that were more mobile and more agile onstage, and acting was meaning more and more as television and cinema was really trying to infuse itself into opera," recalls Radvanovsky of her assessment of the operatic world as she prepared to enter it. "I really felt, as an opera singer, that's where opera was going."
 
@@ -69,7 +69,7 @@ As the industry grows more and more competitive, opera demands ever-rising stand
 
 She is still a rarity among singers, having studied both singing and acting seriously, and concurrently. Young singers are realizing that "voice-first" doesn't necessarily mean "voice-only," yet Radvanovsky is still troubled by the apparent low priority that acting takes in many post-secondary music degrees. "I am confounded by it. I think they should be taught hand in hand."
 
->"I think it's my duty, in many ways, to nurture this gift. I feel it's what I was put on this earth to do."
+> "I think it's my duty, in many ways, to nurture this gift. I feel it's what I was put on this earth to do."
 
 "It took me twenty years to get here," says Radvanovsky of the long game that is the opera singer's career. "Twenty years of cracking on high notes at the Metropolitan Opera, and saying, 'This didn't work tonight, let's try it another way!'" And the work is still not over.
 
@@ -92,5 +92,3 @@ Her support system of teachers and coaches is another set of tools that Radvanov
 Humble and self-aware as she is, it's still refreshing to see that Radvanovsky knows the power she has onstage. "I think that I'm singing the best that I've ever sung right now."
 
 Agreed.
-
-> Manon Lescaut plays at the Royal Opera House until December 12. For details and ticket information, [click here.](http://www.roh.org.uk/productions/manon-lescaut-by-jonathan-kent)
