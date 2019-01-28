@@ -19,7 +19,7 @@ title = "Talking with singers: Christian Van Horn"
 
 Now that Van Horn has "decided to stop running" from Escamillo, one of the most notable operatic roles for a bass-baritone, he senses that the floodgates have been opened. "Once you say you'll do it, then they just multiply," he laughs.
 
->"I feel like I'm just now, in the last four or five years, that I'm really starting to hit my stride. I'm really singing major things."
+> "I feel like I'm just now, in the last four or five years, that I'm really starting to hit my stride. I'm really singing major things."
 
 Van Horn sees Escamillo, the bullfighter, local celebrity, and sporadic competition for Carmen's affections, as "definitely a one-dimensional guy", somewhat of a "fuctioning chess piece" in the larger story of _Carmen_. Compared to Don José, the officer who falls for the gypsy woman, Van Horn plays a character much less invested in Carmen herself. "I think he sees that everybody loves her; clearly she's the only one in the room not looking at him when he walks in." He's beautifully oblivious to the heavier goings-on between the seductive woman and Don José. "I don't think he cares other than Carmen's good-looking, and she'll do for now."
 
@@ -31,7 +31,7 @@ He has tried out the aria in front of audiences before, and he jokes that since 
 
 _Carmen_ will mark Van Horn's third contract with the Canadian Opera Company, and it's a place he likes to be. "It's a world-class company," he says. "It always has been, but especially in the last five years, specifically since [Alexander \[Neef\]](/alexander-neef-listening-to-music/) got here, he's really turned this into a place to be. There's not a singer in the world that doesn't want to sing at COC."
 
->At 6'6", Van Horn likes to sing with his feet on the ground, despite some conventional staging for the Toreador Song. "I don't think the biggest guy in the room needs to get on the table," he adds with a laugh.
+> At 6'6", Van Horn likes to sing with his feet on the ground, despite some conventional staging for the Toreador Song. "I don't think the biggest guy in the room needs to get on the table," he adds with a laugh.
 
 Yet, is Toronto a place where Van Horn can have his first go at Escamillo, without the high stakes of other major companies like the Metropolitan Opera or Lyric Opera of Chicago? "I would never call this a try-it-out house," he says without hesitation. Performing with Canada's largest company comes with a lot of exposure and a lot of awareness throughout this global industry, and Van Horn feels that the COC is no place to attempt a new role before his confidence is in place. "This is place to go to, after that, in my opinion. While I am trying out a role here, I'm not 'trying it out', I'm doing it. It's not a test-and-see situation."
 
@@ -51,7 +51,7 @@ _Carmen_ is a wildly popular choice among singers, directors, experienced audien
 
 Like Escamillo, Carmen herself can be a foil to the serious, tormented Don José; yet she shares with the tenor the survivalist qualities that raise the stakes of her fun and games. "Although she is having a good time, that's not her end game. She wants to be free; she'd rather die than be anything but free."
 
->"When you're young and broke, it's hard to say no," Van Horn points out pragmatically.
+> "When you're young and broke, it's hard to say no."
 
 ## The long game
 
