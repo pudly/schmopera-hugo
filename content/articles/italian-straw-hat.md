@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "short description"
-slug = "italian-straw-hat"
-title = "Italian Straw Hat"
+slug = "slapstick-overload-the-italian-straw-hat"
+title = "Slapstick overload: The Italian Straw Hat"
 youtube_url = ""
 
 +++
