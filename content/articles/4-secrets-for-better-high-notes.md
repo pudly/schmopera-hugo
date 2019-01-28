@@ -3,6 +3,7 @@ author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2015-06-14T11:19:00-04:00"
 lastmod = "2017-08-23T17:02:00-04:00"
+postamble = "> What are your tips and discoveries about singing up high or through the passaggio? Let us know in the comment section below!"
 preamble = "No matter what voice type you are, it’s fair to admit that plenty of your most applause-worthy moments come with high notes. Fast high notes, loud high notes, entire-lungful-of-air high notes - they’re what we’re all waiting to hear. There, I said it. When it comes to producing great sound at the top of your range, I leave that process to the singers and their voice teachers. But I can profess to hearing a curious trend among singers as they’re mastering those big high note moments. Frankly, singers don't sing the notes *around* their high notes."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503522165637/2017-08-23---High-Notes.jpg.jpg"
 publishDate = "2015-06-15T08:00:00-04:00"
@@ -53,5 +54,3 @@ Baritone example, coming right up. From _Rigoletto_:
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548689520/media/2019/01/Rigoletto.png){{% /md %}}</figure>
 
 Passaggio, hello! Like the other excerpts, the point is to leave room for every note, no matter how small and harmless it may look. This aria is a good example of how smart technique can feel counterproductive; Verdi's so great at writing for the voice that he uses technical needs to create beauty. Relentless legato, enjoying vowels on every note, gives that elastic, visceral vocal sound to which humans constantly respond.
-
-> What are your tips and discoveries about singing up high or through the passaggio? Let us know in the comment section below!
