@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = "[_The Italian Straw Hat_](https://mnopera.org/season/2018-2019/the-italian-straw-hat/) runs until February 3. Next up is [_The Fix_](https://mnopera.org/season/2018-2019/the-fix/) in March, and [_La traviata_](https://mnopera.org/season/2018-2019/la-traviata/) in May."
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548710618/media/2019/01/sqT8A9354.jpg"
+primary_image_credit = "ChristianSanders as Viscount Achille de Rosalba, Victoria Vargas as Baronessa di Champigny, and Andrew Stenson as Fadinard in Minnesota Opera's The Italian Straw Hat, 2019. Photo: Cory Weaver."
 related_articles = []
 related_companies = []
 related_people = []
@@ -20,9 +20,9 @@ youtube_url = ""
 +++
 _The Italian Straw Hat_ (_Il cappello di paglia di Firenze_) by Nino Rota was an interesting choice for the season at Minnesota Opera. After the romance of [_La rondine_](/kept-women-a-snapshot-of-life-in-la-rondine/) and the drama of [_Silent Night_](/silent-night-ages-well-in-minnesota-revival/), my system was a little shocked by the slapstick comedy at the Ordway on Saturday night.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548710685/media/2019/01/_37A9975.jpg){{% /md %}}
 
-<figcaption> in Minnesota Opera's The Italian Straw Hat, 2019. Photo: Cory Weaver.</figcaption>
+<figcaption>A scene from Minnesota Opera's The Italian Straw Hat, 2019. Photo: Cory Weaver.</figcaption>
 
 </figure>
 
