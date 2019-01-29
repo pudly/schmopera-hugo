@@ -11,7 +11,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548788491/m
 primary_image_credit = "Kristina Mkhitaryan as Violetta in La traviata, Palm Beach Opera, 2019. Photo: Bruce Bennett."
 related_articles = []
 related_companies = []
-related_people = []
+related_people = ["scene/people/ben-schaefer.md", "scene/people/massimo-cavalletti.md", "scene/people/kristina-mkhitaryan.md"]
 short_description = "Like the jewels she wore (and there were many), soprano Kristina Mkhitaryan sparkled in the starring role, singing with agility, clarity, and show-stopping emotional depth. Her soft, liquid entrances in \"Addio, del passato\" melded impeccably with the plaintive oboe solo."
 slug = "a-real-woman-shines-through-reductive-traviata-in-palm-beach"
 title = "A real woman shines through reductive Traviata in Palm Beach"
@@ -38,7 +38,7 @@ As Alfredo, tenor Alexey Tatarintsev sang with a clear tone and compelling energ
 
 >Most memorable was Flora's gambling salon, with bright red velvet walls crossing the line from luxurious to sinister, presaging the drama ahead.
 
-Among the smaller roles, PBO's Benenson Young Artist studio made a strong showing. Mezzo-soprano Natalie Rose Havens sang Flora with bubbly charm, and soprano Emily Blair's Annina stood out with a sweet tone. Baritone Ben Schaefer as the Baron Douphol, tenor Brian Wallin as Gastone, and bass-baritone Ted Allen Pickell as the Marquis D'Obigny all sang strongly and looked the stately part. Backed by fun and fiery orchestral work under conductor Antonello Allemandi, the PBO Chorus added gusto to the party scenes, dressed in costume designer Desmond Heeley's stunning period wear.
+Among the smaller roles, PBO's Benenson Young Artist studio made a strong showing. Mezzo-soprano [Natalie Rose Havens](/scene/people/natalie-rose-havens/) sang Flora with bubbly charm, and soprano [Emily Blair](/scene/people/emily-blair/)'s Annina stood out with a sweet tone. Baritone [Ben Schaefer](/scene/people/ben-schaefer/) as the Baron Douphol, tenor Brian Wallin as Gastone, and bass-baritone Ted Allen Pickell as the Marquis D'Obigny all sang strongly and looked the stately part. Backed by fun and fiery orchestral work under conductor Antonello Allemandi, the PBO Chorus added gusto to the party scenes, dressed in costume designer Desmond Heeley's stunning period wear.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548790144/media/2019/01/7P9A9464.jpg){{% /md %}}
 
