@@ -3,7 +3,6 @@ author = ["authors/callie-cooper.md"]
 categories = "Review"
 date = "2019-01-28T15:09:18+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "[_The Italian Straw Hat_](https://mnopera.org/season/2018-2019/the-italian-straw-hat/) runs until February 3. Next up is [_The Fix_](https://mnopera.org/season/2018-2019/the-fix/) in March, and [_La traviata_](https://mnopera.org/season/2018-2019/la-traviata/) in May."
 preamble = ""
