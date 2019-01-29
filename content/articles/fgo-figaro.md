@@ -11,7 +11,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548726003/m
 primary_image_credit = "Le nozze di Figaro, Florida Grand Opera, 2019. Photo: Chris Kakol."
 related_articles = ["articles/a-luminous-lucia-at-florida-grand-opera.md"]
 related_companies = ["scene/companies/florida-grand-opera.md"]
-related_people = []
+related_people = ["content/scene/people/lyubov-petrova.md", "content/scene/people/elena-galván.md", "content/scene/people/calvin-griffin.md", "scene/people/jonathan-michie.md"]
 short_description = "Florida Grand Opera's Le nozze di Figaro, which opened on January 26 at the Adrienne Arsht Centre in Miami, took an uncharacteristically introspective look at this iconic comedic favourite, in a production that asked all the right questions, but sacrificed some laughs along the way."
 slug = "the-women-rule-in-fgos-figaro"
 title = "The women rule in FGO's Figaro"
@@ -26,21 +26,21 @@ Predictably, Figaro doesn't believe her.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548725276/media/2019/01/FGODSC_6119.jpg){{% /md %}}
 
+<figcaption>Jonathan Michie as Count Almaviva in Le nozze di Figaro, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
+
+</figure>
+
+[Florida Grand Opera](/scene/companies/florida-grand-opera/)'s _Le nozze di Figaro_, which opened on January 26 at the Adrienne Arsht Centre in Miami, took an uncharacteristically introspective look at this iconic comedic favourite, in a production that asked all the right questions, but sacrificed some laughs along the way.
+
+Bass-baritone [Calvin Griffin](/scene/people/calvin-griffin/) sang a guileful and steady Figaro opposite [Elena Galván](/scene/people/elena-galvan/)'s clear and glimmering soprano. As Susanna, Galván was sharp and savvy, standing firm against the Count and offering perceptive, quick-witted asides as the wedding-day chaos unfolded. Galván seemed to have fun in her role, with a compelling lightness and organic ease in both her acting and singing.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
 <figcaption>Le nozze di Figaro, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
 
 </figure>
 
-Florida Grand Opera's _Le nozze di Figaro_, which opened on January 26 at the Adrienne Arsht Centre in Miami, took an uncharacteristically introspective look at this iconic comedic favourite, in a production that asked all the right questions, but sacrificed some laughs along the way.
-
-Bass-baritone Calvin Griffin sang a guileful and steady Figaro opposite Elena Galván's clear and glimmering soprano. As Susanna, Galván was sharp and savvy, standing firm against the Count and offering perceptive, quick-witted asides as the wedding-day chaos unfolded. Galván seemed to have fun in her role, with a compelling lightness and organic ease in both her acting and singing.
-
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548725276/media/2019/01/FGODSC_6119.jpg){{% /md %}}
-
-<figcaption>Le nozze di Figaro, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
-
-</figure>
-
-In a musical highlight of the evening, soprano Lyubov Petrova's Countess balanced a dolce upper range and thoughtful musicality with effusive regality and confidence. Petrova's "Dove sono" melted into breathtaking diminuendi, while her triumphant pause in response to the unfaithful Count's pleas for forgiveness captured a commanding presence and deft comic pacing – even without singing a single note, Petrova caught some of the show's biggest laughs.
+In a musical highlight of the evening, soprano [Lyubov Petrova](/scene/people/lyubov-petrova/)'s Countess balanced a dolce upper range and thoughtful musicality with effusive regality and confidence. Petrova's "Dove sono" melted into breathtaking diminuendi, while her triumphant pause in response to the unfaithful Count's pleas for forgiveness captured a commanding presence and deft comic pacing – even without singing a single note, Petrova caught some of the show's biggest laughs.
 
 Bass Simon Dyer nailed gardener Antonio’s drunken antics, while tenor Dylan Morrongiello's strongly acted Don Basilio was worthy of a spinoff appearance guest-hosting _E! News_, and soprano Evan Kardon's Barbarina was sung with splendid tone and a healthy dose of sass. As Cherubino, mezzo-soprano Mariya Kaganskaya also sang resonantly, but struggled to hit punchlines. Likewise, mezzo-soprano Zaray Rodriguez as Marcellina and bass-baritone Rafael Porto as Doctor Bartolo captured odd-couple charm, but with downplayed humour.
 
@@ -60,7 +60,7 @@ This subdued take on the ubiquitous classic comes from director Elise Sandell, r
 
 </figure>
 
-Indeed, Count Almaviva crosses that line. Raffish and conniving, baritone Jonathan Michie sang a stentorian Count oblivious to the toxicity and trauma he inflicts on the women in his life. He's the sort of man who, earlier this month, would have thrown out his Gillette razor in protest.
+Indeed, Count Almaviva crosses that line. Raffish and conniving, baritone [Jonathan Michie](/scene/people/jonathan-michie/) sang a stentorian Count oblivious to the toxicity and trauma he inflicts on the women in his life. He's the sort of man who, earlier this month, would have thrown out his Gillette razor in protest.
 
 Mozart's opera leaves no room for doubt that the Count is the villain in this scheme. But just because the Count's crimes are met with comeuppance doesn't excuse the opera stage – and opera audiences – from looking with a critical eye at a long-beloved libretto in which serial acts of harassment and violence are intentionally imbued with humour, and ultimately absolved. As Sandell poses in her program note, "When the moment of truth comes at the end of the opera and it's up to the Countess to forgive the Count, should she? Should we?"
 
