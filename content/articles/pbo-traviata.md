@@ -1,5 +1,5 @@
 +++
-author = []
+author = ["authors/carly-gordon.md"]
 categories = "Review"
 date = "2019-01-29T18:54:04+00:00"
 disclaimer = ""
@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548788491/media/2019/01/sq7P9A9323.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
@@ -22,13 +22,13 @@ The problematics in _La traviata_ are par for the course – another operatic wo
 
 To deem the plot feminist would be generous, but it's worth noting that Verdi composed the work while living happily out of wedlock with renowned soprano [Giuseppina Strepponi](https://en.wikipedia.org/wiki/Giuseppina_Strepponi). The couple were frequently subjected to sanctimonious society gossip, making it hardly a leap to see in Violetta an operatic woman victimized not by the violence of men – for once – but by the oppression of stigma and societal double-standard.
 
-[Palm Beach Opera](/scene/companies/palm-beach-opera/)'s _La traviata_, which closed its three-show run at the Kravis Centre for the Performing Arts on January 27, counts among more than 100 ill-fated Violettas to meet their untimely end on U.S. and Canadian stages this season alone. Luckily, exceptional musicianship and a flair for spectacle made PBO’s rendition stand out from the pack – though shaped by a bizarre directorial vision out of touch with the current moment and in conflict with the opera's history.
+[Palm Beach Opera](/scene/companies/palm-beach-opera/)'s _La traviata_, which closed its three-show run at the Kravis Centre for the Performing Arts on January 27, counts among more than 100 ill-fated Violettas to meet their untimely end on U.S. and Canadian stages this season alone. Luckily, exceptional musicianship and a flair for spectacle made PBO's rendition stand out from the pack – though shaped by a bizarre directorial vision out of touch with the current moment and in conflict with the opera's history.
 
-Like the jewels she wore (and there were _many_), soprano Kristina Mkhitaryan sparkled in the starring role, singing with agility, clarity, and show-stopping emotional depth. Her soft, liquid entrances in "Addio, del passato" melded impeccably with the plaintive oboe solo, and her Act II duet with Germont – a resonant and earnest turn by baritone [Massimo Cavalletti](/scene/people/massimo-cavalletti/) – wove deftly between drama and dialogue, sung with nuance and warmth.
+Like the jewels she wore (and there were _many_), soprano [Kristina Mkhitaryan](/scene/people/kristina-mkhitaryan/) sparkled in the starring role, singing with agility, clarity, and show-stopping emotional depth. Her soft, liquid entrances in "Addio, del passato" melded impeccably with the plaintive oboe solo, and her Act II duet with Germont – a resonant and earnest turn by baritone [Massimo Cavalletti](/scene/people/massimo-cavalletti/) – wove deftly between drama and dialogue, sung with nuance and warmth.
 
-As Alfredo, tenor Alexey Tatarintsev sang with a clear tone and compelling energy, though opposite the radiant Mkhitaryan, his lovelorn laments at times played as petulant – an apt interpretation, given the character's creepy persistence in his courtship of Violetta, paying visit to her sickbed before the two even meet and professing his love (a rousing "Brindisi") within a minute of their first interaction. 
+As Alfredo, tenor Alexey Tatarintsev sang with a clear tone and compelling energy, though opposite the radiant Mkhitaryan, his lovelorn laments at times played as petulant – an apt interpretation, given the character's creepy persistence in his courtship of Violetta, paying visit to her sickbed before the two even meet and professing his love (a rousing "Brindisi") within a minute of their first interaction.
 
-Among the smaller roles, PBO's Benenson Young Artist studio made a strong showing. Mezzo-soprano Natalie Rose Havens sang Flora with bubbly charm, and soprano Emily Blair's Annina stood out with a sweet tone. Baritone Ben Schaefer as the Baron Douphol, tenor Brian Wallin as Gastone, and bass-baritone Ted Allen Pickell as the Marquis D’Obigny all sang strongly and looked the stately part. Backed by fun and fiery orchestral work under conductor Antonello Allemandi, the PBO Chorus added gusto to the party scenes, dressed in costume designer Desmond Heeley's stunning period wear.
+Among the smaller roles, PBO's Benenson Young Artist studio made a strong showing. Mezzo-soprano Natalie Rose Havens sang Flora with bubbly charm, and soprano Emily Blair's Annina stood out with a sweet tone. Baritone Ben Schaefer as the Baron Douphol, tenor Brian Wallin as Gastone, and bass-baritone Ted Allen Pickell as the Marquis D'Obigny all sang strongly and looked the stately part. Backed by fun and fiery orchestral work under conductor Antonello Allemandi, the PBO Chorus added gusto to the party scenes, dressed in costume designer Desmond Heeley's stunning period wear.
 
 Heeley doubled as scenic and prop designer as well, imagining a palatial salon in Act I that, transformed by Stuart Duke's lighting design, becomes desolate and cavernous as Violetta plays out her final moments. Alfredo's countryside villa in Act II lingered between steampunk and Impressionism, the lushly painted garden playing backdrop to a tangle of trellises and a foreboding sense of disrepair. Most memorable was Flora's gambling salon, with bright red velvet walls crossing the line from luxurious to sinister, presaging the drama ahead.
 
