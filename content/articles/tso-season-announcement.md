@@ -44,7 +44,7 @@ Amid a season that's packed with the traditional, there are a few items of novel
 
 There are Young People's Concerts: **Symphony Spooktacular** (October 27, 2019), **Beethoven Lives Upstairs** (February 2, 2020). **The Composer Is Dead** (March 1, 2020), and **Symphonic Fairy Tales** (April 26, 2020); there are Holiday Pops with Toronto fave Measha Brueggergosman. And there's the inevitable **Handel's _Messiah_**, looking particularly Canadian with soloists [Jane Archibald](/scene/people/jane-archibald/), [Emily D'Angelo](/scene/people/emily-dangelo/), [Isaiah Bell](/scene/people/isaiah-bell/), and [Russell Braun](/scene/people/russell-braun/).
 
-And films! The TSO continues its _Star Wars_ series, with **_Return of the Jedi_** (October 2-5, 2019) and **_The Force Awakens _**(May 6-9, 2020); plus, **_Home Alone_** for the holidays, December 6-7, 2019.
+And films! The TSO continues its _Star Wars_ series, with **_Return of the Jedi_** (October 2-5, 2019) and **_The Force Awakens_** (May 6-9, 2020); plus, **_Home Alone_** for the holidays, December 6-7, 2019.
 
 Perhaps the TSO is indeed playing a bit of a waiting game, spending the "interregnum" - to use Davis' term - doling out heavy-hitters and masterworks of centuries past. Still, there are worse ways to spend a season, and the classics-heavy line-up already seems like a launching pad for the new aesthetic to come.
 
