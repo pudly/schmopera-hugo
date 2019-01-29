@@ -20,13 +20,21 @@ youtube_url = ""
 +++
 The Toronto Symphony Orchestra's 2019-20 season will be, one hopes, the last in a while without the appointment of a permanent Music Director. Interim Artistic Director Sir Andrew Davis has returned to the TSO following Conductor Emeritus Peter Oundjian's exit at the end of the 2017/18 season; incoming Music Director Gustavo Gimeno, set to officially begin his tenure in the fall of 2020, will be in town to conduct a handful of concerts this season, and whetting the audience's appetite.
 
-In fact, the TSO's past, present, and future will all take the podium in 2019/20. In the fall Gimeno will conduct a Russian-French programme (October 9-12, 2019), and he'll return in April for a concert of Brahms featuring star pianist Yuja Wang (April 8-11, 2020). Oundjian will return for a hefty concert of Mahler's Symphony No. 5 and Bruch's _Violin Concerto_, featuring TSO Concertmaster Jonathan Crowe (April 29-May 2, 2020). And Sir Andrew Davis will be a season-long presence as a conductor, a composer, and even as an organist for Saint-Saëns' "Organ Symphony" (June 17-21, 2020).
+In fact, 2019/20 will be a season that, as Davis describes it, "emphasizes continuity."
 
-Though these seasons of transition are perhaps light on the contemporary repertoire and outside-the-box projects which are easier to pull off with permanent management, the TSO is falling wisely back onto the massive canon of traditional symphonic masterworks. Like the current season, the TSO's line-up for next year gives afficionados the chance to hear live a good chunk of their symphonic repertoire bucket list: Vivaldi's **_Four Seasons_**, featuring Jonathan Crowe (November 16-20, 2019), **Dvořák's Cello Concerto**, featuring Joseph Johnson (January 30-February 1, 2020), Mussorgsky's **_Pictures at an Exhibition_** (March 20-22, 2020), Strauss' **Also sprach Zarathustra** (June 17-21, 2020),
+* "emphasizes continuity" - Davis (Davis, Oundjian, Jukka-Pekka, Gimeno)
+* "The whole succession of Music Directors is there"
+
+In fact, the TSO's past, present, and future will all take the podium in 2019/20. In the fall Gimeno will conduct a Russian-French programme (October 9-12, 2019), and he'll return in April for a concert of Brahms featuring star pianist Yuja Wang (April 8-11, 2020). Oundjian will return for a hefty concert of **Mahler's Symphony No. 5** and Bruch's **Violin Concerto**, featuring TSO Concertmaster Jonathan Crowe (April 29-May 2, 2020). And Sir Andrew Davis will be a season-long presence as a conductor, a composer, and even as an organist for Saint-Saëns' **"Organ Symphony"** (June 17-21, 2020).
+
+Though these seasons of transition are perhaps light on the contemporary repertoire and outside-the-box projects which are easier to pull off with permanent management, the TSO is falling wisely back onto the massive canon of traditional symphonic masterworks. Like the current season, the TSO's line-up for next year gives afficionados the chance to hear live a good chunk of their symphonic repertoire bucket list: Massenet's **_Thaïs_**, starring [Erin Wall](/scene/people/erin-wall/) in the title role, Vivaldi's **_Four Seasons_**, featuring Jonathan Crowe (November 16-20, 2019), **Dvořák's Cello Concerto**, featuring Joseph Johnson (January 30-February 1, 2020), Wagner's **_Wesendonck Lieder_** with Donald Runnicles on piano and the TSO Chamber Soloists, Mussorgsky's **_Pictures at an Exhibition_** (March 20-22, 2020), and Strauss' **_Also sprach Zarathustra_** (June 17-21, 2020).
+
+Those paying attention already know that 2020 marks the 250 years since Beethoven's birth, and the TSO is celebrating. On the year's line-up are Beethoven's Symphonies Nos. 5, 6, 7, and 8, his Piano Concerti Nos. 3, 4, and 5 (the latter performed by TSO favourite Jan Lisiecki), and his Violin Concerto, played by James Ehnes.
+
+**"The next season will be Gustavo's" - his Russian/French programme indicates, "Oh, that's what he likes"**
 
 * 
 * **Season opener** on September 19 and 21, featuring Barbara Hannigan singing an aria from Brett Dean's _Hamlet_
-* Conductors Sir Andrew Davis, Peter Oundjian, and Gustavo Gimeno represent the **past/present/future** of TSO Music Directorship
 * **Cool pieces to hear live**: _Thaïs_, November 7 and 9, 2019 - Erin Wall in title role; Strauss' _Also sprach Zarathustra_ (June 17, 20, 21); _Pictures at an Exhibition_ (March 20-22); Vivaldi's _Four Seasons_ w. Jonathan Crowe (Nov 16-20); Dvorak Cello Concerto w. Joseph Johnson (Jan. 30 and Feb 1); _Wesendonck Lieder_ w. Donald Runnicles on piano, Feb. 20 (singer TBA)
 * Mozart's _Requiem_, January 15-18, 2020 - four soloists from Barbara Hannigan's **Equilibrium** (first collab)
 * **Beethoven@250** - 2020 marks the 250th anniversary of his birth, so: Symphony Nos. 5, 6, 7, and 8, Piano Concerto Nos. 3, 4, and 5 (with Jan Lisiecki), and Violin Concerto (James Ehnes)
@@ -37,11 +45,9 @@ Though these seasons of transition are perhaps light on the contemporary reperto
 * **Holiday Pops** - Measha Brueggergosman
 * **Women**: composers Jocelyn Morlock, Sophie Eckhardt-Gramatté, Emilie LeBel, Carmen Braden, Vivian Fung, and Zosha Di Castri, plus conductor Elim Chan
 * **Young People's Concerts**: Symphony Spooktacular (October 27, 2019); Beethoven Lives Upstairs (February 2, 2020); The Composer Is Dead (March 1, 2020); and Symphonic Fairy Tales (April 26, 2020)
-
 * "There's nothing I like better than planning programmes" - Davis
 * "The next season will be Gustavo's" - Davis
-* season "emphasizes continuity" - Davis (Davis, Oundjian, Jukka-Pekka, Gimeno)
-* "The whole succession of Music Directors is there"
+* season
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548523379/media/2019/01/GustavoGimenoMarcoBorggreve.jpg){{% /md %}}
 
