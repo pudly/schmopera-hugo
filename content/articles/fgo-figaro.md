@@ -56,7 +56,7 @@ This subdued take on the ubiquitous classic comes from director Elise Sandell, r
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548725457/media/2019/01/FGODSC_8147.jpg){{% /md %}}
 
-<figcaption>Le nozze di Figaro, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
+<figcaption>_Le nozze di Figaro_, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
 
 </figure>
 
@@ -66,7 +66,7 @@ Mozart's opera leaves no room for doubt that the Count is the villain in this sc
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548725496/media/2019/01/FGODSC_1477.jpg){{% /md %}}
 
-<figcaption>Le nozze di Figaro, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
+<figcaption>_Le nozze di Figaro_, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
 
 </figure>
 
