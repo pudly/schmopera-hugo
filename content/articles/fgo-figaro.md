@@ -5,16 +5,16 @@ date = "2019-01-28T15:08:38+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "Le nozze di Figaro runs at Florida Grand Opera though February 9. For details, [click here](https://tickets.fgo.org/Tickets/EventDetails.aspx?id=1715)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548725190/media/2019/01/sqFGOPhotobyJohnGrigaitisforMichiganOperaTheatre.jpg"
-primary_image_credit = ""
-related_articles = []
-related_companies = []
+primary_image_credit = "Calvin Griffin as Figaro in Le nozze di Figaro. Photo: John Grigaitis for Michigan Opera Theater."
+related_articles = ["articles/a-luminous-lucia-at-florida-grand-opera.md"]
+related_companies = ["scene/companies/florida-grand-opera.md"]
 related_people = []
 short_description = "short description"
-slug = "fgo-figaro"
-title = "FGO Figaro"
+slug = "the-women-rule-in-fgos-figaro"
+title = "The women rule in FGO's Figaro"
 youtube_url = ""
 
 +++
@@ -26,7 +26,7 @@ Predictably, Figaro doesn't believe her.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548725276/media/2019/01/FGODSC_6119.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Le nozze di Figaro, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
 
 </figure>
 
@@ -36,7 +36,7 @@ Bass-baritone Calvin Griffin sang a guileful and steady Figaro opposite Elena Ga
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548725276/media/2019/01/FGODSC_6119.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Le nozze di Figaro, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
 
 </figure>
 
@@ -46,7 +46,7 @@ Bass Simon Dyer nailed gardener Antonio’s drunken antics, while tenor Dylan Mo
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548725367/media/2019/01/FGODSC_1392.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Le nozze di Figaro, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
 
 </figure>
 
@@ -56,7 +56,7 @@ This subdued take on the ubiquitous classic comes from director Elise Sandell, r
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548725457/media/2019/01/FGODSC_8147.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Le nozze di Figaro, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
 
 </figure>
 
@@ -66,18 +66,12 @@ Mozart's opera leaves no room for doubt that the Count is the villain in this sc
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548725496/media/2019/01/FGODSC_1477.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Le nozze di Figaro, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
 
 </figure>
 
 Sandell's timely vision was mirrored by Susan Benson's set design, originally for Michigan Opera Theatre, elaborately painted yet muted and, at times, grim – lent depth and occasional gloom by lighting designer Helena Kuukka. Notably, almost the entire creative team were women, suggesting that this opera, when seen through a lens other than the hegemonic male gaze, has a not-so-funny message to impart.
 
 In the end, it is the strength and persistence of the opera's women, and their support of one another, that brings the Count to his knees. It's fitting, then, that following three acts of humour falling flat, the biggest laugh of the evening came not from the Count's repeated EEOC violations, nor from Figaro's bumbling jealousy, nor from Cherubino's handsy hijinks – but rather from the victorious Countess, now in a position of power, pausing for a beat too long before answering her husband's pleas with an all-too-generous blessing of forgiveness.
-
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption></figcaption>
-
-</figure>
 
 "Are we squeezing all the fun out of the opera by even asking these questions?" Sandell wonders in her program note. While this production had been squeezed of some – though not all – of its potential for fun, maybe it’s healthy to take a step back from the laughter and assess how this opera, performed by company after company, season after season, takes on new meaning in a cultural moment and a social movement. "Yes, opera can be \[an\] escape," Sandell asserts, "but no, we shouldn't ignore these questions, and we won't."
