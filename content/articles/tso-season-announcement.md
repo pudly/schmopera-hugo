@@ -5,16 +5,16 @@ date = "2019-01-25T01:47:34+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "For full details of the current and upcoming season with the Toronto Symphony Orchestra, [visit their website](https://www.tso.ca/)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548523276/media/2019/01/sqGustavoGimenoconductingMarcoBorggreve.jpg"
 primary_image_credit = "Gustavo Gimeno, Incoming Music Director of the Toronto Symphony Orchestra. Photo by Marco Borggreve."
-related_articles = []
+related_articles = ["articles/candide-projecting-the-best-of-all-possible-worlds.md", "articles/in-review-mahler-other-beauties-at-the-tso.md"]
 related_companies = []
 related_people = []
-short_description = "short description"
-slug = "tso-season-announcement"
-title = "TSO season announcement"
+short_description = "\"There's nothing I like better than planning programmes,\" says Davis, of his enthusiastic stepping in as the TSO's Interim Artistic Director. But, eager to pass the torch officially to Gimeno, \"the next season will be Gustavo's.\""
+slug = "tsos-season-of-mostly-classics-to-hold-us-over-ahead-of-incoming-music-director"
+title = "TSO's season of (mostly) classics to hold us over ahead of incoming Music Director"
 youtube_url = ""
 
 +++
