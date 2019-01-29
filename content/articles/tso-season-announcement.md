@@ -24,39 +24,15 @@ In fact, 2019/20 will be a season that, as Davis describes it, "emphasizes conti
 
 In fact, the TSO's past, present, and future will all take the podium in 2019/20. In the fall Gimeno will conduct a Russian-French programme (October 9-12, 2019), and he'll return in April for a concert of Brahms featuring star pianist Yuja Wang (April 8-11, 2020). Oundjian will return for a hefty concert of **Mahler's Symphony No. 5** and Bruch's **Violin Concerto**, featuring TSO Concertmaster Jonathan Crowe (April 29-May 2, 2020). And Sir Andrew Davis will be a season-long presence as a conductor, a composer, and even as an organist for Saint-Saëns' **"Organ Symphony"** (June 17-21, 2020).
 
-Though these seasons of transition are perhaps light on the contemporary repertoire and outside-the-box projects which are easier to pull off with permanent management, the TSO is falling wisely back onto the massive canon of traditional symphonic masterworks. Like the current season, the TSO's line-up for next year gives afficionados the chance to hear live a good chunk of their symphonic repertoire bucket list: Massenet's **_Thaïs_**, starring [Erin Wall](/scene/people/erin-wall/) in the title role, Vivaldi's **_Four Seasons_**, featuring Jonathan Crowe (November 16-20, 2019), **Dvořák's Cello Concerto**, featuring Joseph Johnson (January 30-February 1, 2020), Wagner's **_Wesendonck Lieder_** with Donald Runnicles on piano and the TSO Chamber Soloists, Mussorgsky's **_Pictures at an Exhibition_** (March 20-22, 2020), and Strauss' **_Also sprach Zarathustra_** (June 17-21, 2020).
-
-Those paying attention already know that 2020 marks the 250 years since Beethoven's birth, and the TSO is celebrating. On the year's line-up are Beethoven's Symphonies Nos. 5, 6, 7, and 8, his Piano Concerti Nos. 3, 4, and 5 (the latter performed by TSO favourite Jan Lisiecki), and his Violin Concerto, played by James Ehnes.
-
-Amid a season that's packed with the traditional, there are a few items of novelty. The TSO is beginning a collaboration with Equilibrium Young Artists, an international mentoring program founded by Canadian soprano and conductor Barbara Hannigan; four singers from Equilibrium will make up the quartet for Mozart's **_Requiem_**, January 15-18, 2020. And Hannigan herself will help kick off 2019/20 with the season opening concerts on September 19 and 21, alongside a fellow double-threat, conductor and violinist John Storgårds; she'll sing **Ophelia's Mad Scene from Brett Dean's _Hamlet_** while Storgårds conducts, and she'll take the podium to conduct Storgårds as he performs Dutilleux's **_Sur le même accord_**.
-
-There are Young People's Concerts: **Symphony Spooktacular** (October 27, 2019), **Beethoven Lives Upstairs** (February 2, 2020). **The Composer Is Dead** (March 1, 2020), and **Symphonic Fairy Tales** (April 26, 2020); there are Holiday Pops with Toronto fave Measha Brueggergosman. And there's the inevitable **Handel's _Messiah_**, looking particularly Canadian with soloists [Jane Archibald](/scene/people/jane-archibald/), [Emily D'Angelo](/scene/people/emily-dangelo/), [Isaiah Bell](/scene/people/isaiah-bell/), and [Russell Braun](/scene/people/russell-braun/).
-
-And films! The TSO continues its _Star Wars_ series, with **_Return of the Jedi_** (October 2-5, 2019) and **_The Force Awakens _**(May 6-9, 2020); plus, **_Home Alone_** for the holidays, December 6-7, 2019.
-
-**"The next season will be Gustavo's" - his Russian/French programme indicates, "Oh, that's what he likes"**
-
-* 
-* **Season opener** on September 19 and 21, featuring Barbara Hannigan singing an aria from Brett Dean's _Hamlet_
-* **Cool pieces to hear live**: _Thaïs_, November 7 and 9, 2019 - Erin Wall in title role; Strauss' _Also sprach Zarathustra_ (June 17, 20, 21); _Pictures at an Exhibition_ (March 20-22); Vivaldi's _Four Seasons_ w. Jonathan Crowe (Nov 16-20); Dvorak Cello Concerto w. Joseph Johnson (Jan. 30 and Feb 1); _Wesendonck Lieder_ w. Donald Runnicles on piano, Feb. 20 (singer TBA)
-* Mozart's _Requiem_, January 15-18, 2020 - four soloists from Barbara Hannigan's **Equilibrium** (first collab)
-* **Beethoven@250** - 2020 marks the 250th anniversary of his birth, so: Symphony Nos. 5, 6, 7, and 8, Piano Concerto Nos. 3, 4, and 5 (with Jan Lisiecki), and Violin Concerto (James Ehnes)
-* Incoming Music Director **Gustavo Gimeno** (starting fall 2020), conducts concerts featuring pianists Yuja Wang and Beatrice Rana
-* **_Messiah_** with Archibald, D'Angelo, Isaiah Bell, and Russell Braun (cond. Alexander Shelley)
-* **Pre-concert chamber series**: Wagner's _Wesendonck Lieder_ (Feb. 20), Beethoven's Septet, Vivier's _Cinq chansons pour percussion_
-* Pops/Movies: _Home Alone_ (Dec. 6-7), _Star Wars: Return of the Jedi_ (Oct. 2-5), _Star Wars: The Force Awakens_ (May 6-9);
-* **Holiday Pops** - Measha Brueggergosman
-* **Women**: composers Jocelyn Morlock, Sophie Eckhardt-Gramatté, Emilie LeBel, Carmen Braden, Vivian Fung, and Zosha Di Castri, plus conductor Elim Chan
-* **Young People's Concerts**: 
-* "There's nothing I like better than planning programmes" - Davis
-* "The next season will be Gustavo's" - Davis
-* season
-
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548523379/media/2019/01/GustavoGimenoMarcoBorggreve.jpg){{% /md %}}
 
 <figcaption>Gustavo Gimeno, incoming Music Director of the Toronto Symphony Orchestra (fall, 2020). Photo by Marco Borggreve, courtesy of the Toronto Symphony Orchestra.</figcaption>
 
 </figure>
+
+Though these seasons of transition are perhaps light on the contemporary repertoire and outside-the-box projects which are easier to pull off with permanent management, the TSO is falling wisely back onto the massive canon of traditional symphonic masterworks. Like the current season, the TSO's line-up for next year gives afficionados the chance to hear live a good chunk of their symphonic repertoire bucket list: Massenet's **_Thaïs_**, starring [Erin Wall](/scene/people/erin-wall/) in the title role, Vivaldi's **_Four Seasons_**, featuring Jonathan Crowe (November 16-20, 2019), **Dvořák's Cello Concerto**, featuring Joseph Johnson (January 30-February 1, 2020), Wagner's **_Wesendonck Lieder_** with Donald Runnicles on piano and the TSO Chamber Soloists, Mussorgsky's **_Pictures at an Exhibition_** (March 20-22, 2020), and Strauss' **_Also sprach Zarathustra_** (June 17-21, 2020).
+
+Those paying attention already know that 2020 marks the 250 years since Beethoven's birth, and the TSO is celebrating. On the year's line-up are Beethoven's Symphonies Nos. 5, 6, 7, and 8, his Piano Concerti Nos. 3, 4, and 5 (the latter performed by TSO favourite Jan Lisiecki), and his Violin Concerto, played by James Ehnes.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548523450/media/2019/01/TSO201920.jpg){{% /md %}}
 
@@ -64,8 +40,10 @@ And films! The TSO continues its _Star Wars_ series, with **_Return of the Jedi_
 
 </figure>
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548523495/media/2019/01/STARWARS.jpg){{% /md %}}
+Amid a season that's packed with the traditional, there are a few items of novelty. The TSO is beginning a collaboration with Equilibrium Young Artists, an international mentoring program founded by Canadian soprano and conductor Barbara Hannigan; four singers from Equilibrium will make up the quartet for Mozart's **_Requiem_**, January 15-18, 2020. And Hannigan herself will help kick off 2019/20 with the season opening concerts on September 19 and 21, alongside a fellow double-threat, conductor and violinist John Storgårds; she'll sing **Ophelia's Mad Scene from Brett Dean's _Hamlet_** while Storgårds conducts, and she'll take the podium to conduct Storgårds as he performs Dutilleux's **_Sur le même accord_**.
 
-<figcaption>Photo courtesy of the Toronto Symphony Orchestra.</figcaption>
+There are Young People's Concerts: **Symphony Spooktacular** (October 27, 2019), **Beethoven Lives Upstairs** (February 2, 2020). **The Composer Is Dead** (March 1, 2020), and **Symphonic Fairy Tales** (April 26, 2020); there are Holiday Pops with Toronto fave Measha Brueggergosman. And there's the inevitable **Handel's _Messiah_**, looking particularly Canadian with soloists [Jane Archibald](/scene/people/jane-archibald/), [Emily D'Angelo](/scene/people/emily-dangelo/), [Isaiah Bell](/scene/people/isaiah-bell/), and [Russell Braun](/scene/people/russell-braun/).
 
-</figure>
+And films! The TSO continues its _Star Wars_ series, with **_Return of the Jedi_** (October 2-5, 2019) and **_The Force Awakens _**(May 6-9, 2020); plus, **_Home Alone_** for the holidays, December 6-7, 2019.
+
+"There's nothing I like better than planning programmes," says Davis, of his enthusiastic stepping in as the TSO's Interim Artistic Director. But, eager to pass the torch officially to Gimeno, "the next season will be Gustavo's."
