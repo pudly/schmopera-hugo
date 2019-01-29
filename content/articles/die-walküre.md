@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = ["scene/people/claudia-mahnke.md", "scene/people/markus-marquardt.md", "scene/people/stuart-skelton.md", "content/scene/people/ruxandra-donose.md"]
 short_description = "This semi-staged production at the Southbank Centre's Royal Festival Hall with the London Philharmonic Orchestra had none of that. Well, except for the drama. There was a lot of drama."
-slug = "die-walkure"
-title = "Die Walküre"
+slug = "there-was-a-lot-of-drama-the-lpos-die-walkure"
+title = "There was a lot of drama: the LPO's Die Walküre"
 youtube_url = ""
 
 +++
@@ -36,7 +36,7 @@ Vocally, it is an extremely involved piece and a massive undertaking for which a
 
 </figure>
 
-Heldon tenor [Stuart Skelton](/scene/people/stuart-skelton/) was wonderful in the role of Sigmund and a definite draw for many in the audience as he has steadily been making a name for himself internationally. He somehow managed to achieve the colossal task of making it look easy. A few of his high notes were over pressurized and strained but I was able to forgive this as I felt he was taking a risk for dramatic purposes and was still able to produce an extraordinary sound. Most importantly, he gave a soulful performance with a fully realized character.
+Heldon tenor [Stuart Skelton](/scene/people/stuart-skelton/) was wonderful in the role of Siegmund and a definite draw for many in the audience as he has steadily been making a name for himself internationally. He somehow managed to achieve the colossal task of making it look easy. A few of his high notes were over pressurized and strained but I was able to forgive this as I felt he was taking a risk for dramatic purposes and was still able to produce an extraordinary sound. Most importantly, he gave a soulful performance with a fully realized character.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548730796/media/2019/01/LPOWalkureSkelton.jpg){{% /md %}}
 
