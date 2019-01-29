@@ -41,7 +41,7 @@ Bass-baritone [Calvin Griffin](/scene/people/calvin-griffin/) sang a guileful an
 
 In a musical highlight of the evening, soprano [Lyubov Petrova](/scene/people/lyubov-petrova/)'s Countess balanced a dolce upper range and thoughtful musicality with effusive regality and confidence. Petrova's "Dove sono" melted into breathtaking diminuendi, while her triumphant pause in response to the unfaithful Count's pleas for forgiveness captured a commanding presence and deft comic pacing – even without singing a single note, Petrova caught some of the show's biggest laughs.
 
->"Are we squeezing all the fun out of the opera by even asking these questions?"
+> "Are we squeezing all the fun out of the opera by even asking these questions?"
 
 Bass Simon Dyer nailed gardener Antonio’s drunken antics, while tenor Dylan Morrongiello's strongly acted Don Basilio was worthy of a spinoff appearance guest-hosting _E! News_, and soprano Evan Kardon's Barbarina was sung with splendid tone and a healthy dose of sass. As Cherubino, mezzo-soprano Mariya Kaganskaya also sang resonantly, but struggled to hit punchlines. Likewise, mezzo-soprano Zaray Rodriguez as Marcellina and bass-baritone Rafael Porto as Doctor Bartolo captured odd-couple charm, but with downplayed humour.
 
@@ -53,7 +53,7 @@ Bass Simon Dyer nailed gardener Antonio’s drunken antics, while tenor Dylan Mo
 
 As a result, moments of overt comedy seemed out-of-place. The wedding party's [viral video-esque](https://www.youtube.com/watch?v=4-94JhLEiN0) entrance down the aisle felt awkward and slapstick, and Figaro's "Aprite un po' quegli occhi," while well sung, came across like tired, sexist stand-up at a brick wall club: "Women! Am I right?" Even accompanied by Mozart's high-octane score, punctuated by fluttering woodwind solos well played under conductor Andrew Bisantz, the production missed more than one comedic mark.
 
-This subdued take on the ubiquitous classic comes from director Elise Sandell, returning to the Florida Grand Opera stage after a [luminous Lucia di Lammermoor _](/a-luminous-lucia-at-florida-grand-opera/)last season. In her program note, Sandell emphasizes the challenges of staging an opera that banks its laugh lines on acts of attempted sexual assault. "How do we, a modern audience, reconcile this joyous romp of an opera \[...\] with what should be outrage at the Count's buffoon-ish attempts?" Sandell writes. "When does the joke cross the line to not be funny anymore?"
+This subdued take on the ubiquitous classic comes from director Elise Sandell, returning to the Florida Grand Opera stage after a [luminous _Lucia di Lammermoor_](/a-luminous-lucia-at-florida-grand-opera/) last season. In her program note, Sandell emphasizes the challenges of staging an opera that banks its laugh lines on acts of attempted sexual assault. "How do we, a modern audience, reconcile this joyous romp of an opera \[...\] with what should be outrage at the Count's buffoon-ish attempts?" Sandell writes. "When does the joke cross the line to not be funny anymore?"
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548725457/media/2019/01/FGODSC_8147.jpg){{% /md %}}
 
