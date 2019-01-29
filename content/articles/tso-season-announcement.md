@@ -31,6 +31,12 @@ Though these seasons of transition are perhaps light on the contemporary reperto
 
 Those paying attention already know that 2020 marks the 250 years since Beethoven's birth, and the TSO is celebrating. On the year's line-up are Beethoven's Symphonies Nos. 5, 6, 7, and 8, his Piano Concerti Nos. 3, 4, and 5 (the latter performed by TSO favourite Jan Lisiecki), and his Violin Concerto, played by James Ehnes.
 
+Amid a season that's packed with the traditional, there are a few items of novelty. The TSO is beginning a collaboration with Equilibrium Young Artists, an international mentoring program founded by Canadian soprano and conductor Barbara Hannigan; four singers from Equilibrium will make up the quartet for Mozart's **_Requiem_**, January 15-18, 2020. And Hannigan herself will help kick off 2019/20 with the season opening concerts on September 19 and 21, alongside a fellow double-threat, conductor and violinist John Storgårds; she'll sing **Ophelia's Mad Scene from Brett Dean's _Hamlet_** while Storgårds conducts, and she'll take the podium to conduct Storgårds as he performs Dutilleux's **_Sur le même accord_**.
+
+There are Young People's Concerts: **Symphony Spooktacular** (October 27, 2019), **Beethoven Lives Upstairs** (February 2, 2020). **The Composer Is Dead** (March 1, 2020), and **Symphonic Fairy Tales** (April 26, 2020); there are Holiday Pops with Toronto fave Measha Brueggergosman. And there's the inevitable **Handel's _Messiah_**, looking particularly Canadian with soloists [Jane Archibald](/scene/people/jane-archibald/), [Emily D'Angelo](/scene/people/emily-dangelo/), [Isaiah Bell](/scene/people/isaiah-bell/), and [Russell Braun](/scene/people/russell-braun/).
+
+And films! The TSO continues its _Star Wars_ series, with **_Return of the Jedi_** (October 2-5, 2019) and **_The Force Awakens _**(May 6-9, 2020); plus, **_Home Alone_** for the holidays, December 6-7, 2019.
+
 **"The next season will be Gustavo's" - his Russian/French programme indicates, "Oh, that's what he likes"**
 
 * 
@@ -44,7 +50,7 @@ Those paying attention already know that 2020 marks the 250 years since Beethove
 * Pops/Movies: _Home Alone_ (Dec. 6-7), _Star Wars: Return of the Jedi_ (Oct. 2-5), _Star Wars: The Force Awakens_ (May 6-9);
 * **Holiday Pops** - Measha Brueggergosman
 * **Women**: composers Jocelyn Morlock, Sophie Eckhardt-Gramatté, Emilie LeBel, Carmen Braden, Vivian Fung, and Zosha Di Castri, plus conductor Elim Chan
-* **Young People's Concerts**: Symphony Spooktacular (October 27, 2019); Beethoven Lives Upstairs (February 2, 2020); The Composer Is Dead (March 1, 2020); and Symphonic Fairy Tales (April 26, 2020)
+* **Young People's Concerts**: 
 * "There's nothing I like better than planning programmes" - Davis
 * "The next season will be Gustavo's" - Davis
 * season
