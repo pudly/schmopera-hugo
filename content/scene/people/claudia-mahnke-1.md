@@ -1,10 +1,9 @@
 +++
 date = "2019-01-29T03:10:49+00:00"
-discipline = ""
-draft = true
+discipline = "Mezzo-soprano"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548731300/media/2019/01/ClaudiaMahnke.jpg"
 primary_image_credit = ""
-related_companies = []
+related_companies = ["scene/companies/bayerische-staatsoper.md", "scene/companies/los-angeles-opera.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/san-francisco-opera.md", "scene/companies/oper-frankfurt.md"]
 slug = "claudia-mahnke"
 social_media = []
 title = "Claudia Mahnke"
@@ -17,7 +16,7 @@ Ms. Mahnke begins the 2018/19 season as Magdalene in _Die Meistersinger von Nür
 
 Among Ms. Mahnke’s notable engagements in the 2017/18 season were her potrayal of Kundry in a new production of Parsifal at the Staatsoper Hamburg, Judith in _Bluebeard’s Castle_ at Oper Frankfurt, where she also appeared as Selika in Meyerbeer‘s _L‘Africaine_ and as Fricka in _Rheingold_. Also in 2017/18, she sang an impressive Iokaste in Stravinsky‘s _Oedipus Rex_ at the Sächsische Staatsoper Dresden.
 
-In the 2016/17 season Ms. Mahnke performed at the Bayerische Staatsoper München in Die Meistersinger von Nürnberg, and at the Staatsoper Hamburg in _Bluebeard’s Castle_. In autumn 2015, she gave concerts in Tokyo (Yomiuri Nippon Symphony Orchestra) and was a guest performer at the Oper Stuttgart, singing the role of Herodias in _Salome_. In summer 2013, Ms. Mahnke made her debut in Bayreuth under Kirill Petrenko in the new Ring (Fricka/_Rheingold_, Fricka/_Walküre_, Waltraute/_Walküre_,Waltraute/_Götterdämmerung_, 2nd Norn/_Götterdämmerung_).
+In the 2016/17 season Ms. Mahnke performed at the Bayerische Staatsoper München in _Die Meistersinger von Nürnberg_, and at the Staatsoper Hamburg in _Bluebeard’s Castle_. In autumn 2015, she gave concerts in Tokyo (Yomiuri Nippon Symphony Orchestra) and was a guest performer at the Oper Stuttgart, singing the role of Herodias in _Salome_. In summer 2013, Ms. Mahnke made her debut in Bayreuth under Kirill Petrenko in the new Ring (Fricka/_Rheingold_, Fricka/_Walküre_, Waltraute/_Walküre_,Waltraute/_Götterdämmerung_, 2nd Norn/_Götterdämmerung_).
 
 Claudia Mahnke has given many guest performances at numerous international auspices, such as the Komische Oper Berlin (Composer in _Ariadne auf Naxos_), at the San Francisco Opera (Dorabella in _Così fan tutte_, Cherubino in _Le Nozze di Figaro_, Zerlina in _Don Giovanni_ and Komponist in _Ariadne auf Naxos_), at the Opera National de Lyon (Dorabella), in Seoul with the Deutsche Oper Berlin (Cherubino), at the Badisches Staatstheater Karlsruhe (Le Prince Charmant in Cendrillon), at the Aalto Theater in Essen and the Oper Köln (Octavian), at the Ruhrtriennale under Kirill Petrenko (Brangäne), at the Bayerischen Staatsoper München (Palestrina, _I Puritani_), at the Teatro Real Madrid (Adriano in _Rienzi_) and in autumn 2014 at Los Angeles Opera as Judith in Bluebeard’s Castle.
 
