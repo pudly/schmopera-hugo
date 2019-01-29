@@ -7,12 +7,12 @@ draft = true
 image_gallery = []
 postamble = "Le nozze di Figaro runs at Florida Grand Opera though February 9. For details, [click here](https://tickets.fgo.org/Tickets/EventDetails.aspx?id=1715)."
 preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548725190/media/2019/01/sqFGOPhotobyJohnGrigaitisforMichiganOperaTheatre.jpg"
-primary_image_credit = "Calvin Griffin as Figaro in Le nozze di Figaro. Photo: John Grigaitis for Michigan Opera Theater."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548726003/media/2019/01/sqFGODSC_5232.jpg"
+primary_image_credit = "Le nozze di Figaro, Florida Grand Opera, 2019. Photo: Chris Kakol."
 related_articles = ["articles/a-luminous-lucia-at-florida-grand-opera.md"]
 related_companies = ["scene/companies/florida-grand-opera.md"]
 related_people = []
-short_description = "short description"
+short_description = "Florida Grand Opera's Le nozze di Figaro, which opened on January 26 at the Adrienne Arsht Centre in Miami, took an uncharacteristically introspective look at this iconic comedic favourite, in a production that asked all the right questions, but sacrificed some laughs along the way."
 slug = "the-women-rule-in-fgos-figaro"
 title = "The women rule in FGO's Figaro"
 youtube_url = ""
