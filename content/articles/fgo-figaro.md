@@ -26,7 +26,7 @@ Predictably, Figaro doesn't believe her.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548725276/media/2019/01/FGODSC_6119.jpg){{% /md %}}
 
-<figcaption>Jonathan Michie as Count Almaviva in _Le nozze di Figaro_, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
+<figcaption>Le nozze di Figaro, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
 
 </figure>
 
@@ -36,7 +36,7 @@ Bass-baritone [Calvin Griffin](/scene/people/calvin-griffin/) sang a guileful an
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548728162/media/2019/01/FGODSC_1182.jpg){{% /md %}}
 
-<figcaption>_Le nozze di Figaro_, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
+<figcaption>Le nozze di Figaro, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
 
 </figure>
 
@@ -46,7 +46,7 @@ Bass Simon Dyer nailed gardener Antonio’s drunken antics, while tenor Dylan Mo
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548725367/media/2019/01/FGODSC_1392.jpg){{% /md %}}
 
-<figcaption>_Le nozze di Figaro_, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
+<figcaption>Le nozze di Figaro, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
 
 </figure>
 
@@ -56,7 +56,7 @@ This subdued take on the ubiquitous classic comes from director Elise Sandell, r
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548725457/media/2019/01/FGODSC_8147.jpg){{% /md %}}
 
-<figcaption>_Le nozze di Figaro_, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
+<figcaption>Le nozze di Figaro, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
 
 </figure>
 
@@ -66,7 +66,7 @@ Mozart's opera leaves no room for doubt that the Count is the villain in this sc
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548725496/media/2019/01/FGODSC_1477.jpg){{% /md %}}
 
-<figcaption>_Le nozze di Figaro_, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
+<figcaption>Le nozze di Figaro, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
 
 </figure>
 
