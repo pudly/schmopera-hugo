@@ -10,7 +10,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548710618/m
 primary_image_credit = "Christian Sanders as Viscount Achille de Rosalba, Victoria Vargas as Baronessa di Champigny, and Andrew Stenson as Fadinard in Minnesota Opera's The Italian Straw Hat, 2019. Photo: Cory Weaver."
 related_articles = ["articles/kept-women-a-snapshot-of-life-in-la-rondine.md", "articles/silent-night-ages-well-in-minnesota-revival.md"]
 related_companies = ["scene/companies/minnesota-opera.md"]
-related_people = ["scene/people/andrew-stenson.md", "scene/people/lisa-marie-rogali.md", "scene/people/victoria-vargas.md", "scene/people/christian-sanders.md"]
+related_people = ["content/scene/people/danielle-beckvermit.md", "scene/people/andrew-stenson.md", "scene/people/lisa-marie-rogali.md", "scene/people/victoria-vargas.md", "scene/people/christian-sanders.md"]
 short_description = "At times the stage was so overcrowded with schtick it was overwhelming. Banana jokes, chamber pot humor and smoke machines did not add to the talents of the cast or the beauty of the music."
 slug = "slapstick-overload-the-italian-straw-hat"
 title = "Slapstick overload: The Italian Straw Hat"
@@ -43,7 +43,7 @@ Native Minnesotan [Andrew Stenson](/scene/people/andrew-stenson/) made his house
 
 </figure>
 
-As the bride Elena, [Lisa Marie Rogali](/scene/people/lisa-marie-rogali/) did her best with the little character development the composer gave her. Her voice was resonant on her exposed coloratura, but there were a few intonation issues that marred her otherwise lovely performance. The hilarious instigators of the whole hat conflict were Anaide and Emilio played by the Minnesota Resident Young Artists [Danielle Beckvermit](https://mnopera.org/biography/danielle-beckvermit/) and[ Christian Thurston](https://mnopera.org/biography/christian-thurston/). It was wonderful to see Young Artists having larger roles, and the scenes with Fadinard, Anaide and Emilio crackled with energy. Ms. Beckvermit had hilarious physicality and silky high notes. Mr. Thurston was convincing as Anaide’s lover who was very concerned with her honor. [Victoria Vargess](/scene/people/victoria-vargas/) as the Baronessa di Champigny and [Christian Sanders](/scene/people/christian-sanders/) as the Viscount Achille di Rosalba/Guardsman were an entertainingly decadent pair.
+As the bride Elena, [Lisa Marie Rogali](/scene/people/lisa-marie-rogali/) did her best with the little character development the composer gave her. Her voice was resonant on her exposed coloratura, but there were a few intonation issues that marred her otherwise lovely performance. The hilarious instigators of the whole hat conflict were Anaide and Emilio played by the Minnesota Resident Young Artists [Danielle Beckvermit](/scene/people/danielle-beckvermit/) and[ C](https://mnopera.org/biography/christian-thurston/)[hristian Thurston](/scene/people/christian-thurston/). It was wonderful to see Young Artists having larger roles, and the scenes with Fadinard, Anaide and Emilio crackled with energy. Ms. Beckvermit had hilarious physicality and silky high notes. Mr. Thurston was convincing as Anaide’s lover who was very concerned with her honor. [Victoria Vargess](/scene/people/victoria-vargas/) as the Baronessa di Champigny and [Christian Sanders](/scene/people/christian-sanders/) as the Viscount Achille di Rosalba/Guardsman were an entertainingly decadent pair.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548710892/media/2019/01/_37A0667.jpg){{% /md %}}
 
