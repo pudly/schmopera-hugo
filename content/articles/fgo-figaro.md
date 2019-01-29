@@ -34,7 +34,7 @@ Predictably, Figaro doesn't believe her.
 
 Bass-baritone [Calvin Griffin](/scene/people/calvin-griffin/) sang a guileful and steady Figaro opposite [Elena Galván](/scene/people/elena-galvan/)'s clear and glimmering soprano. As Susanna, Galván was sharp and savvy, standing firm against the Count and offering perceptive, quick-witted asides as the wedding-day chaos unfolded. Galván seemed to have fun in her role, with a compelling lightness and organic ease in both her acting and singing.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548728162/media/2019/01/FGODSC_1182.jpg){{% /md %}}
 
 <figcaption>Le nozze di Figaro, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
 
