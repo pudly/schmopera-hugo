@@ -3,9 +3,8 @@ author = ["authors/carly-gordon.md"]
 categories = "Review"
 date = "2019-01-28T15:08:38+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
-postamble = "Le nozze di Figaro runs at Florida Grand Opera though February 9. For details, [click here](https://tickets.fgo.org/Tickets/EventDetails.aspx?id=1715)."
+postamble = "_Le nozze di Figaro_ runs at Florida Grand Opera though February 9. For details, [click here](https://tickets.fgo.org/Tickets/EventDetails.aspx?id=1715)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548726003/media/2019/01/sqFGODSC_5232.jpg"
 primary_image_credit = "Le nozze di Figaro, Florida Grand Opera, 2019. Photo: Chris Kakol."
