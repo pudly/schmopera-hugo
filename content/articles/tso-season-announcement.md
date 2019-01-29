@@ -46,6 +46,6 @@ There are Young People's Concerts: **Symphony Spooktacular** (October 27, 2019),
 
 And films! The TSO continues its _Star Wars_ series, with **_Return of the Jedi_** (October 2-5, 2019) and **_The Force Awakens _**(May 6-9, 2020); plus, **_Home Alone_** for the holidays, December 6-7, 2019.
 
-Perhaps the TSO is indeed playing a bit of a waiting game, spending the "interregnum" - to use Davis' term - doling out heavy-hitters and masterworks of centuries past. Still, there are worse ways to spend a season, and the classics-heavy line-up seems already primed 
+Perhaps the TSO is indeed playing a bit of a waiting game, spending the "interregnum" - to use Davis' term - doling out heavy-hitters and masterworks of centuries past. Still, there are worse ways to spend a season, and the classics-heavy line-up already seems like a launching pad for the new aesthetic to come.
 
 "There's nothing I like better than planning programmes," says Davis, of his enthusiastic stepping in as the TSO's Interim Artistic Director. But, eager to pass the torch officially to Gimeno, "the next season will be Gustavo's."
