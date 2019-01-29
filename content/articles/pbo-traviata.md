@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "Like the jewels she wore (and there were many), soprano Kristina Mkhitaryan sparkled in the starring role, singing with agility, clarity, and show-stopping emotional depth. Her soft, liquid entrances in \"Addio, del passato\" melded impeccably with the plaintive oboe solo."
-slug = "pbo-traviata"
-title = "PBO Traviata"
+slug = "a-real-woman-shines-through-reductive-traviata-in-palm-beach"
+title = "A real woman shines through reductive Traviata in Palm Beach"
 youtube_url = ""
 
 +++
