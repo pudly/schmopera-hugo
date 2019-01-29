@@ -1,10 +1,9 @@
 +++
 date = "2019-01-29T02:03:47+00:00"
 discipline = "Baritone"
-draft = true
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548727401/media/2019/01/JonathanMichie.jpg"
 primary_image_credit = "Alvaro Jaramillo"
-related_companies = []
+related_companies = ["scene/companies/spoleto-festival-usa.md", "scene/companies/opera-saratoga.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/merola-opera-program.md", "scene/companies/los-angeles-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/florida-grand-opera.md"]
 slug = "jonathan-michie"
 social_media = []
 title = "Jonathan Michie"
