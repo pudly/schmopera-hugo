@@ -12,7 +12,7 @@ primary_image_credit = "The Valkyries in Die Walküre, London Philharmonic, cond
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short description"
+short_description = "This semi-staged production at the Southbank Centre's Royal Festival Hall with the London Philharmonic Orchestra had none of that. Well, except for the drama. There was a lot of drama."
 slug = "die-walkure"
 title = "Die Walküre"
 youtube_url = ""
@@ -32,15 +32,15 @@ Vocally, it is an extremely involved piece and a massive undertaking for which a
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548730483/media/2019/01/LPOWalkureDonose.jpg){{% /md %}}
 
-<figcaption>in Die Walküre, London Philharmonic, conducted by Vladimir Jurowski, 2019. Photo: Simon Jay Price.</figcaption>
+<figcaption>Ruxana Donose (Sieglinde) in Die Walküre, London Philharmonic, conducted by Vladimir Jurowski, 2019. Photo: Simon Jay Price.</figcaption>
 
 </figure>
 
 Heldon tenor [Stuart Skelton](/scene/people/stuart-skelton/) was wonderful in the role of Sigmund and a definite draw for many in the audience as he has steadily been making a name for himself internationally. He somehow managed to achieve the colossal task of making it look easy. A few of his high notes were over pressurized and strained but I was able to forgive this as I felt he was taking a risk for dramatic purposes and was still able to produce an extraordinary sound. Most importantly, he gave a soulful performance with a fully realized character.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548730614/media/2019/01/LPOWalkureMarquardtSozdateleva.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548730796/media/2019/01/LPOWalkureSkelton.jpg){{% /md %}}
 
-<figcaption>in Die Walküre, London Philharmonic, conducted by Vladimir Jurowski, 2019. Photo: Simon Jay Price.</figcaption>
+<figcaption>Stuart Skelton (Siegmund) in Die Walküre, London Philharmonic, conducted by Vladimir Jurowski, 2019. Photo: Simon Jay Price.</figcaption>
 
 </figure>
 
@@ -50,7 +50,7 @@ I was particularly unimpressed with bass baritone Markus Marquardt in the role o
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548730614/media/2019/01/LPOWalkureMarquardtSozdateleva.jpg){{% /md %}}
 
-<figcaption>in Die Walküre, London Philharmonic, conducted by Vladimir Jurowski, 2019. Photo: Simon Jay Price.</figcaption>
+<figcaption>Markus Marquardt (Wotan) and Svetlana Sozdateleva (Fricka, background) in Die Walküre, London Philharmonic, conducted by Vladimir Jurowski, 2019. Photo: Simon Jay Price.</figcaption>
 
 </figure>
 
