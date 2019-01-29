@@ -42,6 +42,8 @@ Bass-baritone [Calvin Griffin](/scene/people/calvin-griffin/) sang a guileful an
 
 In a musical highlight of the evening, soprano [Lyubov Petrova](/scene/people/lyubov-petrova/)'s Countess balanced a dolce upper range and thoughtful musicality with effusive regality and confidence. Petrova's "Dove sono" melted into breathtaking diminuendi, while her triumphant pause in response to the unfaithful Count's pleas for forgiveness captured a commanding presence and deft comic pacing – even without singing a single note, Petrova caught some of the show's biggest laughs.
 
+>"Are we squeezing all the fun out of the opera by even asking these questions?"
+
 Bass Simon Dyer nailed gardener Antonio’s drunken antics, while tenor Dylan Morrongiello's strongly acted Don Basilio was worthy of a spinoff appearance guest-hosting _E! News_, and soprano Evan Kardon's Barbarina was sung with splendid tone and a healthy dose of sass. As Cherubino, mezzo-soprano Mariya Kaganskaya also sang resonantly, but struggled to hit punchlines. Likewise, mezzo-soprano Zaray Rodriguez as Marcellina and bass-baritone Rafael Porto as Doctor Bartolo captured odd-couple charm, but with downplayed humour.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548725367/media/2019/01/FGODSC_1392.jpg){{% /md %}}
@@ -73,5 +75,11 @@ Mozart's opera leaves no room for doubt that the Count is the villain in this sc
 Sandell's timely vision was mirrored by Susan Benson's set design, originally for Michigan Opera Theatre, elaborately painted yet muted and, at times, grim – lent depth and occasional gloom by lighting designer Helena Kuukka. Notably, almost the entire creative team were women, suggesting that this opera, when seen through a lens other than the hegemonic male gaze, has a not-so-funny message to impart.
 
 In the end, it is the strength and persistence of the opera's women, and their support of one another, that brings the Count to his knees. It's fitting, then, that following three acts of humour falling flat, the biggest laugh of the evening came not from the Count's repeated EEOC violations, nor from Figaro's bumbling jealousy, nor from Cherubino's handsy hijinks – but rather from the victorious Countess, now in a position of power, pausing for a beat too long before answering her husband's pleas with an all-too-generous blessing of forgiveness.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548729232/media/2019/01/FGODSC_1591.jpg){{% /md %}}
+
+<figcaption>Le nozze di Figaro, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
+
+</figure>
 
 "Are we squeezing all the fun out of the opera by even asking these questions?" Sandell wonders in her program note. While this production had been squeezed of some – though not all – of its potential for fun, maybe it’s healthy to take a step back from the laughter and assess how this opera, performed by company after company, season after season, takes on new meaning in a cultural moment and a social movement. "Yes, opera can be \[an\] escape," Sandell asserts, "but no, we shouldn't ignore these questions, and we won't."
