@@ -18,7 +18,7 @@ title = "TSO's 2019/20 a season of (mostly) classics"
 youtube_url = ""
 
 +++
-The [Toronto Symphony Orchestra](/scene/companies/toronto-symphony-orchestra/)'s 2019-20 season will be, one hopes, the last in a while without the appointment of a permanent Music Director. Interim Artistic Director Sir Andrew Davis has returned to the TSO following Conductor Emeritus Peter Oundjian's exit at the end of the 2017-18 season; incoming Music Director Gustavo Gimeno, set to officially begin his tenure in the fall of 2020, will be in town to conduct a handful of concerts this season, and whetting the audience's appetite.
+The [Toronto Symphony Orchestra](/scene/companies/toronto-symphony-orchestra/)'s 2019-20 season will be, one hopes, the last in a while without the appointment of a permanent Music Director. Interim Artistic Director Sir Andrew Davis has returned to the TSO following Conductor Emeritus Peter Oundjian's exit at the end of the 2017-18 season; incoming Music Director Gustavo Gimeno, set to officially begin his tenure in the fall of 2020, will be in town to conduct a handful of concerts this season, whetting the audience's appetite.
 
 In fact, 2019-20 will be a season that, as Davis describes it, "emphasizes continuity." With Oundjian, Davis, Gimeno, and fellow former Music Director Jukka-Pekka Saraste, "The whole succession of Music Directors is there."
 
