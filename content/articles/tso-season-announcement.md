@@ -22,7 +22,7 @@ The [Toronto Symphony Orchestra](/scene/companies/toronto-symphony-orchestra/)'s
 
 In fact, 2019-20 will be a season that, as Davis describes it, "emphasizes continuity." With Oundjian, Davis, Gimeno, and fellow former Music Director Jukka-Pekka Saraste, "The whole succession of Music Directors is there."
 
-In fact, the TSO's past, present, and future will all take the podium in 2019-20. In the fall Gimeno will conduct a Russian-French programme (October 9-12, 2019), and he'll return in April for a concert of Brahms featuring star pianist Yuja Wang (April 8-11, 2020). Oundjian will return for a hefty concert of **Mahler's Symphony No. 5** and Bruch's **Violin Concerto**, featuring TSO Concertmaster Jonathan Crowe (April 29-May 2, 2020). And Sir Andrew Davis will be a season-long presence as a conductor, a composer, and even as an organist for Saint-Saëns' **"Organ Symphony"** (June 17-21, 2020).
+The TSO's past, present, and future will all take the podium in 2019-20. In the fall Gimeno will conduct a Russian-French programme (October 9-12, 2019), and he'll return in April for a concert of Brahms featuring star pianist Yuja Wang (April 8-11, 2020). Oundjian will return for a hefty concert of **Mahler's Symphony No. 5** and Bruch's **Violin Concerto**, featuring TSO Concertmaster Jonathan Crowe (April 29-May 2, 2020). And Sir Andrew Davis will be a season-long presence as a conductor, a composer, and even as an organist for Saint-Saëns' **"Organ Symphony"** (June 17-21, 2020).
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548523379/media/2019/01/GustavoGimenoMarcoBorggreve.jpg){{% /md %}}
 
