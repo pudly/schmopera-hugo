@@ -13,8 +13,8 @@ related_articles = ["articles/candide-projecting-the-best-of-all-possible-worlds
 related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
 related_people = ["scene/people/emily-dangelo.md", "scene/people/russell-braun.md", "scene/people/isaiah-bell.md", "scene/people/erin-wall.md"]
 short_description = "\"There's nothing I like better than planning programmes,\" says Davis, of his enthusiastic stepping in as the TSO's Interim Artistic Director. But, eager to pass the torch officially to Gimeno, \"the next season will be Gustavo's.\""
-slug = "tsos-season-of-mostly-classics-to-hold-us-over-ahead-of-incoming-music-director"
-title = "TSO's season of (mostly) classics to hold us over ahead of incoming Music Director"
+slug = "tsos-201920-a-season-of-mostly-classics"
+title = "TSO's 2019/20 a season of (mostly) classics"
 youtube_url = ""
 
 +++
