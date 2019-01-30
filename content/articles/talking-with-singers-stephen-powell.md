@@ -80,9 +80,9 @@ As an opera singer, to have approached it systematically and slowly as I did, sl
 
 With languages, Italian is of course the greatest, but I love singing in all of them. They each have their own unique way of conveying ideas and feelings and emotions. Russian is a great language for singing. It feels really good in the mouth. It rolls off the tongue. Like Italian, it has great vowels for singing and lends itself to that. But German has all the plosives like _ich_ and _ach_, that are less vowel-oriented and more consonant. It’s a challenge in and of itself and also lends itself to another kind of expression. French is a challenge because of the closed vowels, a lot of the _u_ and _i_ sounds don't lend themselves to an open throat and operatic singing. It's challenging to convey the language purely, but in a vocally healthy way, and to express the nature of French poetry and music in the styles that are required for each.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548813570/media/2019/01/SDOButterflyStephenPowell.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Stephen Powell (foreground) as Sharpless in Madama Butterfly, San Diego Opera.</figcaption>
 
 </figure>
 
