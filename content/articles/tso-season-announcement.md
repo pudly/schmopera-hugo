@@ -1,7 +1,7 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Editorial"
-date = "2019-01-25T01:47:34+00:00"
+date = "2019-01-30T01:47:34+00:00"
 disclaimer = ""
 image_gallery = []
 postamble = "For full details of the current and upcoming season with the Toronto Symphony Orchestra, [visit their website](https://www.tso.ca/)."
