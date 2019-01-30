@@ -15,4 +15,4 @@ If you need some coverage for a show coming up, we're who you call. We've been h
 
 As we work out our service offerings over the next few weeks, we'll be updating this page with information on how exposure on Schmopera helps your brand.
 
-In the meantime, we welcome any conversation and encourage you to reach out to [media@schmopera.com](media@schmopera.com).
+In the meantime, we welcome any conversation and encourage you to reach out to [media@schmopera.com](mailto:media@schmopera.com).

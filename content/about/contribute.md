@@ -42,7 +42,7 @@ While we're open to anything and everything to do with opera, here are a few exa
 
 ## How to contribute
 
-We have a relatively low barrier of entry for you to help us out in making Schmopera the largest source of opera-related content. To that end, all you have to do is drop us an email at [contribute@schmopera.com](contribute@schmopera.com); We'll ask you a few questions about you, get you to provide some rough drafts, and you're off to the races.
+We have a relatively low barrier of entry for you to help us out in making Schmopera the largest source of opera-related content. To that end, all you have to do is drop us an email at [contribute@schmopera.com](mailto:contribute@schmopera.com); We'll ask you a few questions about you, get you to provide some rough drafts, and you're off to the races.
 
 You'll get a little bio page for yourself, some links to your social media, and most importantly, get a personal outlet to speak about this historic and amazing art form.
 
