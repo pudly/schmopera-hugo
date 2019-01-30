@@ -32,7 +32,7 @@ The TSO's past, present, and future will all take the podium in 2019-20. In the 
 
 Though these seasons of transition are perhaps light on the contemporary repertoire and outside-the-box projects which are easier to pull off with permanent management, the TSO is falling wisely back onto the massive canon of traditional symphonic masterworks. Like the current season, the TSO's line-up for next year gives aficionados the chance to hear live a good chunk of their symphonic repertoire bucket list: Massenet's **_Thaïs_**, starring [Erin Wall](/scene/people/erin-wall/) in the title role, Vivaldi's **_Four Seasons_**, featuring Jonathan Crowe (November 16-20, 2019), **Dvořák's Cello Concerto**, featuring Joseph Johnson (January 30-February 1, 2020), Wagner's **_Wesendonck Lieder_** with Donald Runnicles on piano and the TSO Chamber Soloists, Mussorgsky's **_Pictures at an Exhibition_** (March 20-22, 2020), and Strauss' **_Also sprach Zarathustra_** (June 17-21, 2020).
 
-Those paying attention already know that 2020 marks the 250 years since Beethoven's birth, and the TSO is celebrating. On the year's line-up are Beethoven's Symphonies Nos. 5, 6, 7, and 8, his Piano Concerti Nos. 3, 4, and 5 (the latter performed by TSO favourite Jan Lisiecki), and his Violin Concerto, played by James Ehnes.
+Those paying attention already know that 2020 marks 250 years since Beethoven's birth, and the TSO is celebrating: On the year's line-up are Beethoven's Symphonies Nos. 5, 6, 7, and 8, his Piano Concerti Nos. 3, 4, and 5 (the latter performed by TSO favourite Jan Lisiecki), and his Violin Concerto, played by James Ehnes.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548523450/media/2019/01/TSO201920.jpg){{% /md %}}
 
