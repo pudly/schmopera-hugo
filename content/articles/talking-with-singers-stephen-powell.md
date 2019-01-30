@@ -82,7 +82,7 @@ With languages, Italian is of course the greatest, but I love singing in all of 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548813570/media/2019/01/SDOButterflyStephenPowell.jpg){{% /md %}}
 
-<figcaption>Stephen Powell (foreground) as Sharpless in Madama Butterfly, San Diego Opera.</figcaption>
+<figcaption>Stephen Powell (foreground) as Sharpless in Madama Butterfly, San Diego Opera, 2003.</figcaption>
 
 </figure>
 
