@@ -40,7 +40,7 @@ Those paying attention already know that 2020 marks 250 years since Beethoven's 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548523450/media/2019/01/TSO201920.jpg){{% /md %}}
 
-<figcaption>Clockwise from top left: pianist Yuja Wang (photo: Kirk Edwards), soprano Barbara Hannigan (photo: Elmer de Haas), pianist Seong-Jin Cho (photo: Harald Hoffmann), and conductor Elim Chan (photo: Willeke Machiels). Photo courtesy of the Toronto Symphony Orchestra.</figcaption>
+<figcaption>Clockwise from top left: pianist Yuja Wang (photo: Kirk Edwards), soprano Barbara Hannigan (photo: Elmer de Haas), pianist Seong-Jin Cho (photo: Harald Hoffmann), and conductor Elim Chan (photo: Willeke Machiels). Photos courtesy of the Toronto Symphony Orchestra.</figcaption>
 
 </figure>
 
