@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2019-01-25T01:47:34+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "For full details of the current and upcoming season with the Toronto Symphony Orchestra, [visit their website](https://www.tso.ca/)."
 preamble = ""
