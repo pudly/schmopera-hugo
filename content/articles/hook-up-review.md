@@ -24,6 +24,8 @@ It's all terrifyingly familiar. There's Mindy, the girl who clutches at her high
 
 _Hook Up_ is smartly executed in this world premiere production, directed by Richard Greenblatt. The specific story of Mindy, Cindy, and Tyler is put up against its broader themes. The young students arrive, unaware of the strong whiff of a sexually-charged environment. The men and women get advice from their orientation leaders that's conspicuously different - the men are perfunctorily advised to behave themselves, and the women are imperfectly urged to watch their drinks at parties. Cindy and Mindy get into a petty fight during class, first in angry whispers, and then in emoji-speak, all while ignoring the ongoing lecture on Feminism 101.
 
+Tepperman's libretto is incredible, because it's real. The characters spoke to each other the way I would have, and no one stopped Tepperman from writing in conversations about watching porn as a couple, anal sex, "rules" for one-night-stands, and sex on your period. Thornborrow's music creates a world for Tepperman's words
+
 I spent the night growing more and more uncomfortable. I'm about ten years out of my university days, long enough to have forgotten a million tiny memories that _Hook Up_ seemed hell-bent on digging up and shoving in my face. From the first scene, the piece is teeming with dramatic irony; we know exactly what's going to happen to Mindy as she unveils her naïve expectations of parent-free domestic bliss with her comfort-blanket of a boyfriend.
 
-The party scene put a pit in my stomach, as did everything that came after. Tepperman's libretto is incredible, because it's real. The characters spoke to each other the way I would have, and no one stopped Tepperman from writing in conversations about watching porn as a couple, anal sex, "rules" for one-night-stands, sex on your period, even the embarrassing 
+The party scene put a pit in my stomach, as did everything that came after. 
