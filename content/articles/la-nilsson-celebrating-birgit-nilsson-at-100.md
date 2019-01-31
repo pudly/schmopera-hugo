@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548609456/media/2019/01/sqBNPg84Elektra.jpg"
-primary_image_credit = "Nilsson as the tormented Elektra. Her portrayal remains definitive. Photo Credit: Decca Classics."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548957086/media/2019/01/sqBNPg4.jpg"
+primary_image_credit = "Nilsson's mischievous personality comes through even in this formal portrait. Photo courtesy of Decca Classics."
 related_articles = ["articles/the-rose-elf-hot-times-in-the-cool-catacombs.md", "articles/summer-nights-at-the-opera-an-observation.md", "articles/the-medium-opera-as-film-noir.md"]
 related_companies = []
 related_people = []
@@ -34,6 +34,12 @@ Few, if any, opera singers have achieved the consistent critical acclaim and pub
 
 At the least this luxurious but not excessively packaged collection - let's call it Brünnhildian - offers the opportunity to worship this peerless operatic goddess from a single source. For those who are coming to know Nilsson only now, it is quite simply a treasure trove.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548609456/media/2019/01/sqBNPg84Elektra.jpg){{% /md %}}
+
+<figcaption>Nilsson as the tormented Elektra. Her portrayal remains definitive. Photo Credit: Decca Classics.</figcaption>
+
+</figure>
+
 But where does one start? Channeling the mischievous spirit that has long been associated with Nilsson, I resisted the obvious lure of the _Ring_ and opted for Tosca. Yes, _La Nilsson_ travels beyond Wagner and Strauss to include Puccini, Verdi, Mozart, Beethoven, Sibelius and Weber as well.
 
 Franco Corelli and Dietrich Fischer-Dieskau join Nilsson in this _Tosca_ that has by some been termed a veritable shouting match. With a sexually harassed Tosca, a tortured Cavaradossi, and a sadistic Scarpia, there is plenty of reason to shout. The result however is three pitch-perfect singers who go for intensity and volume over characterization. Despite this wacky approach, the recording gels in its own unorthodox manner because the powerhouse singers are matched by the ferocious intensity with which Lorin Maazel propels the orchestra of the Accademia di Santa Cecilia. If nothing else, it's an ear-opener.
@@ -50,13 +56,13 @@ _The Golden Ring_, one of the two DVDs included, while mainly centered on the re
 
 This film, regarded as one of the best musical documentaries every made, provides some indication of Culshaw's interpersonal acumen in dealing both with Nilsson who had definite ideas about her vocal placement and with a rather highly-strung Solti. While listening anew to this _Ring_ one might go for immersion status by reading Culshaw's captivating _Ring Resounding_, his memoir that chronicles life at the Sofiensaal during the seven-year recording process. It's the ultimate insider's view of a rare artistic and technological collaboration. It is also quite funny, opinionated, and full of surprises.
 
->The exotically clad Nilsson looked more like the cat who swallowed the canary than the disturbed teen-age princess who had violated the severed head of John the Baptist.
+> The exotically clad Nilsson looked more like the cat who swallowed the canary than the disturbed teen-age princess who had violated the severed head of John the Baptist.
 
 An attendant luxury of _La Nilsson_ is the inclusion of still another _Ring_, this one from Wagner's own stage at Bayreuth and under the more relaxed baton of Karl Böhm. Within easy proximity we can hear how Nilsson's Brünnhilde adapts to each environment, most especially in her _Walküre_ Act III exchanges with the Wotans of Theo Adam on stage and George London in the studio. Clearly this additional _Ring_ is included not to encourage listeners to judge one over the other but to experience the voice, technique and interpretative prowess of Nilsson from a broad perspective. It would be folly to deny the pleasure and Wagnerian insight that _La Nilsson_ offers by deeming one superior to the other. This is a centennial birthday celebration after all, not a debate over a foregone conclusion.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548956581/media/2019/01/turandot1966-67.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Nilsson's Turandot (1966-1967), arch and uncompromising, always soared over the orchestra. Photo courtesy of Decca Classics.</figcaption>
 
 </figure>
 
@@ -90,8 +96,14 @@ Stemme, by the way, was awarded the 2018 Birgit Nilsson Prize; a $1 million gift
 
 In addition to cooperating with _La Nilsson_, the foundation authorized the release of a set of live Nilsson recordings featuring _Die Walküre_ at the Metropolitan Opera under Herbert von Karajan, two _Tristans_, two _Elektras_ and a _Turandot_ conducted by Leopold Stokowski. Those inclined to listen for vocal strain in these live recordings will have their work cut out for them.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548956824/media/2019/01/BNPg57.jpg){{% /md %}}
+
+<figcaption>Nilsson as Isolde in the 1966 Beyreuth Festival production under Karl Böhm. Photo courtesy of Decca Classics.</figcaption>
+
+</figure>
+
 Many collections of the size and scope of _La Nilsson_ have their catchall disk, where this and that, as it were, takes up residence. Here that role falls to the lovely collection of Scandinavian songs, _Land of the Midnight Sun_. With plenty of room left on the CD transfer, the space is filled by the Christmas standards, "O Holy Night", "Ava Maria" (Gounod), "Panis Angelicus" and "Silent Night". As if to give Culshaw the last word, the CD ends with "I Could Have Danced All Night", from Lerner and Loewe's _My Fair Lady_, in which Nilsson belts the last note into the heavens. Her show-stopping rendition appeared in a faux gala that Culshaw concocted for a recording of _Die Fledermaus_ including such opera greats as Leontyne Price, Joan Sutherland and Jussi Björling. While it does nothing to unite the disk it is a witty and dazzling moment.
 
->Who but Nilsson has captured with such refined exuberance and reverence Elizabeth's aria from _Tannhäuser_, "Dich, teure Halle"?
+> Who but Nilsson has captured with such refined exuberance and reverence Elizabeth's aria from _Tannhäuser_, "Dich, teure Halle"?
 
 _La Nilsson_'s first three disks, the obvious entry point, capture the 1960 _Tristan and Isolde_ with Solti and the Vienna Philharmonic followed by a rehearsal session narrated by Culshaw, a sober introduction to the collection for sure. Were I to search for an entry point once again, I might forego the obvious, also resist the temptation of _Tosca_ (disks 37 and 38) and move one up to 39, the collection of arias by Wagner, Weber, and Beethoven. Who but Nilsson has captured with such refined exuberance and reverence Elizabeth's aria from _Tannhäuser_, "Dich, teure Halle"? By any measure, this is _La Nilsson_'s welcome of welcomes, one that captures Nilsson's superb artistry and, when taken out of strict operatic context, a hint of her mischievous nature as well.
