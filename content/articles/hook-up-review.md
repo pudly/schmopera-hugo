@@ -12,8 +12,8 @@ related_articles = ["articles/a-perfect-fit-the-overcoat.md"]
 related_companies = ["scene/companies/tapestry-opera.md"]
 related_people = ["scene/people/chris-thornborrow.md"]
 short_description = "The party scene put a pit in my stomach, as did everything that came after. The confusion, the horrid feeling of not knowing - but kind of knowing - what happened during a blackout, the inadequate explanations to friends and boyfriends, it was all too true."
-slug = "hook-up-review"
-title = "Hook Up review"
+slug = "so-true-it-hurts-hook-up"
+title = "So true it hurts: Hook Up"
 youtube_url = ""
 
 +++
