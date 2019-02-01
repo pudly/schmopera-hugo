@@ -23,7 +23,7 @@ It's all terrifyingly familiar. There's Mindy, the girl who clutches at her high
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549038560/media/2019/02/HookUp-photobyDahliaKatz-8889.jpg){{% /md %}}
 
-<figcaption>_Hook Up_, Tapestry Opera/Theatre Passe Muraille, 2019. Photo: Dahlia Katz.</figcaption>
+<figcaption>Hook Up, Tapestry Opera/Theatre Passe Muraille, 2019. Photo: Dahlia Katz.</figcaption>
 
 </figure>
 
@@ -31,7 +31,7 @@ _Hook Up_ is smartly executed in this world premiere production, directed by Ric
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549038637/media/2019/02/HookUp-photobyDahliaKatz-9127.jpg){{% /md %}}
 
-<figcaption>_Hook Up_, Tapestry Opera/Theatre Passe Muraille, 2019. Photo: Dahlia Katz.</figcaption>
+<figcaption>Hook Up, Tapestry Opera/Theatre Passe Muraille, 2019. Photo: Dahlia Katz.</figcaption>
 
 </figure>
 
@@ -39,7 +39,7 @@ Tepperman's libretto is incredible, because it's real. The characters spoke to e
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549038680/media/2019/02/HookUp-photobyDahliaKatz-8973.jpg){{% /md %}}
 
-<figcaption>_Hook Up_, Tapestry Opera/Theatre Passe Muraille, 2019. Photo: Dahlia Katz.</figcaption>
+<figcaption>Hook Up, Tapestry Opera/Theatre Passe Muraille, 2019. Photo: Dahlia Katz.</figcaption>
 
 </figure>
 
@@ -49,7 +49,7 @@ The party scene put a pit in my stomach, as did everything that came after. The 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549038980/media/2019/02/HookUp-photobyDahliaKatz-9006.jpg){{% /md %}}
 
-<figcaption>_Hook Up_, Tapestry Opera/Theatre Passe Muraille, 2019. Photo: Dahlia Katz.</figcaption>
+<figcaption>Hook Up, Tapestry Opera/Theatre Passe Muraille, 2019. Photo: Dahlia Katz.</figcaption>
 
 </figure>
 
