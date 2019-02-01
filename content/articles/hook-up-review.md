@@ -19,6 +19,8 @@ youtube_url = ""
 +++
 [Tapestry Opera](/scene/companies/tapestry-opera/)'s latest commission is a compact, intermission-free piece of organic theatre that has all the pieces in place. Hook Up is the work of composer Chris Thornborrow and librettist Julie Tepperman; in 90 minutes of music, singing, and drama that straddles the styles of opera and musical theatre, Hook Up tells the story of a young woman's first few months as a new university student.
 
+>The confusion, the horrid feeling of not knowing - _but kind of knowing_ - what happened during a blackout, the inadequate explanations to friends and boyfriends, it was all too true.
+
 It's all terrifyingly familiar. There's Mindy, the girl who clutches at her high school posse - her boyfriend and her best friend - and whose homebody tendencies do nothing to prepare her for her first booze-filled night of partying. There's Mindy's best friend Cindy, who is overjoyed to be single for her freshman year, and who dives into her new social life with no fear. There's Mindy's boyfriend, Tyler, who's torn between genuine affection for his girlfriend, and the freshman year opportunities to meet new people and go to new parties.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549038560/media/2019/02/HookUp-photobyDahliaKatz-8889.jpg){{% /md %}}
