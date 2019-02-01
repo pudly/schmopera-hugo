@@ -49,8 +49,8 @@ The party scene put a pit in my stomach, as did everything that came after. The 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549038980/media/2019/02/HookUp-photobyDahliaKatz-9006.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>_Hook Up_, Tapestry Opera/Theatre Passe Muraille, 2019. Photo: Dahlia Katz.</figcaption>
 
 </figure>
 
-I hope _Hook Up_ gets picked up again, and soon. It's hard to say if it will become part of the 21st-century operatic canon, simply because Thornborrow's score demands singers who are thoroughly trained, both in the classical and music theatre styles. I'm not sure this cast - led by Emily Lukasik (Mindy), Alicia Ault (Cindy), and Nathan Carroll (Tyler) - really represents those who straddle both opera and music theatre, but it's a moot point, since they were beautiful in their roles. Alexis Gordon and Jeff Lillico, both playing several roles, were actually the ones who brought the tears to my eyes; Gordon in her final scene with Lukasik, and Lillico as Mindy's father, leaving his daughter a perfect voicemail. 
+I hope _Hook Up_ gets picked up again, and soon. It's hard to say if it will become part of the 21st-century operatic canon, simply because Thornborrow's score demands singers who are thoroughly trained, both in the classical and music theatre styles. I'm not sure this cast - led by Emily Lukasik (Mindy), Alicia Ault (Cindy), and Nathan Carroll (Tyler) - really represents those who straddle both opera and music theatre, but it's a moot point, since they were beautiful in their roles. Alexis Gordon and Jeff Lillico, both playing several roles, were actually the ones who brought the tears to my eyes; Gordon in her final scene with Lukasik, and Lillico as Mindy's father, leaving his daughter a perfect voicemail.
