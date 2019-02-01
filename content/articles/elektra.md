@@ -63,4 +63,4 @@ A rather large supporting all sang beautifully as well as dramatically. The plac
 
 The COC Orchestra under Johannes Debus played a nuanced score full of subtleties - not something usually attributed to Strauss. In the hands of great players and singers, that notion is put soundly to rest.
 
-[E_lektra _](https://www.coc.ca/productions/16487)runs until February 22, and I highly suggest you don't miss this. This is Strauss at his best, sung by phenomenal singers, played with an incredible orchestra, and all coming together in a production to remember.
+_Elektra_ runs until February 22, and I highly suggest you don't miss this. This is Strauss at his best, sung by phenomenal singers, played with an incredible orchestra, and all coming together in a production to remember.
