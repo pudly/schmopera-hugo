@@ -3,7 +3,6 @@ author = ["authors/john-hohmann.md"]
 categories = "Op-Ed"
 date = "2019-01-27T17:14:50+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
