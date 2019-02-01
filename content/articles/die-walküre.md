@@ -51,7 +51,7 @@ I was particularly unimpressed with bass baritone [Markus Marquardt](/scene/peop
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548730614/media/2019/01/LPOWalkureMarquardtSozdateleva.jpg){{% /md %}}
 
-<figcaption>Markus Marquardt (Wotan) and Svetlana Sozdateleva (Fricka, background) in Die Walküre, London Philharmonic, conducted by Vladimir Jurowski, 2019. Photo: Simon Jay Price.</figcaption>
+<figcaption>Markus Marquardt (Wotan) and Svetlana Sozdateleva (Brünnhilde, background) in Die Walküre, London Philharmonic, conducted by Vladimir Jurowski, 2019. Photo: Simon Jay Price.</figcaption>
 
 </figure>
 
