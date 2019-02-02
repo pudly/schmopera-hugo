@@ -79,7 +79,7 @@ _Elektra_ retains a dramatic standard that has yet to be equaled. Here it assume
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548611166/media/2019/01/NilssonSalome.jpg){{% /md %}}
 
-<figcaption>Nilsson's _Salome_ cover photo has endured since its original release on LP and appears in _La Nilsson._</figcaption>
+<figcaption>Nilsson's Salome cover photo has endured since its original release on LP and appears in _La Nilsson._</figcaption>
 
 </figure>
 
