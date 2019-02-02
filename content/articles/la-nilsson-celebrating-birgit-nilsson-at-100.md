@@ -21,13 +21,13 @@ The box seems to generate its own energy. Covered in sophisticated hues of coppe
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548611271/media/2019/01/LaNilsson80652.jpg){{% /md %}}
 
-<figcaption>Nilsson's _Salome_ cover photo has endured since its original release on LP and appears in _La Nilsson._</figcaption>
+<figcaption>Image: Decca Classics_._</figcaption>
 
 </figure>
 
-This boxed set of newly remastered studio recordings, primarily on Decca, Deutsche Grammophon, and Philips, celebrates the 100th anniversary of her birth that took place on May 17, 1918. This is not so much a review but a consideration of greatness and how effectively it can be repackaged.
+This boxed set of newly remastered studio recordings, primarily on Decca, Deutsche Grammophon, and Philips, celebrates the 100th anniversary of her birth that took place on May 17, 1918. This is not so much a review as it is a consideration of greatness and how effectively it can be repackaged.
 
-Few, if any, opera singers have achieved the consistent critical acclaim and public adoration, as has Nilsson. Her flawless technique and boundless energy are spectacularly represented on 81 disks, including 79 compact disks and two DVDs. Additionally a formidable book tops the package containing complete track listings and illuminating essays - along with a few errors that will send fans scurrying off to confirm the facts. The book is generously graced with performance and rehearsal photographs. There is also an abundance of candid shots that capture Nilsson's vibrant personality. Together they portray Nilsson in all manner or action whether riding the hell out of an exercise bike during the 1966 Elektra recording or as a rather formally posed Minnie, with gun on hip from Puccini's _La fanciulla del West_.
+Few, if any, opera singers have achieved the consistent critical acclaim and public adoration, as has Nilsson. Her flawless technique and boundless energy are spectacularly represented on 81 disks, including 79 compact disks and two DVDs. Additionally a formidable book tops the package containing complete track listings and illuminating essays - along with a few errors that will send fans scurrying off to confirm the facts. The book is generously graced with performance and rehearsal photographs. There is also an abundance of candid shots that capture Nilsson's vibrant personality. Together they portray Nilsson in all manner or action whether riding the hell out of an exercise bike during the 1966 _Elektra_ recording or as a rather formally posed Minnie, with gun on hip from Puccini's _La fanciulla del West_.
 
 > We've known this _Ring_ for decades. It was the first ever recording of the cycle in a studio, a pioneer in stereophonic technology, and the signature work of Decca producer, John Culshaw.
 
@@ -79,7 +79,7 @@ _Elektra_ retains a dramatic standard that has yet to be equaled. Here it assume
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548611166/media/2019/01/NilssonSalome.jpg){{% /md %}}
 
-<figcaption>Image: Decca Classics.</figcaption>
+<figcaption>Nilsson's _Salome_ cover photo has endured since its original release on LP and appears in _La Nilsson._</figcaption>
 
 </figure>
 
@@ -89,7 +89,7 @@ Stemme, by the way, was awarded the 2018 Birgit Nilsson Prize; a $1 million gift
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548610567/media/2019/01/Nilsson7592.jpg){{% /md %}}
 
-<figcaption>Nilsson is rendered by a benign Elektra on this 500 Kronor Swedish bank note. She joins the likes of Ingmar Bergman and Greta Garbo who also appear on Swedish currency. Photo: Sveriges Riksbank.</figcaption>
+<figcaption>Nilsson is rendered as a benign Elektra on this 500 Kronor Swedish bank note. She joins the likes of Ingmar Bergman and Greta Garbo who also appear on Swedish currency. Photo: Sveriges Riksbank.</figcaption>
 
 </figure>
 
