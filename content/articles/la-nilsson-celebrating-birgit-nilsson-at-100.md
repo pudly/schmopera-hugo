@@ -21,7 +21,7 @@ The box seems to generate its own energy. Covered in sophisticated hues of coppe
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548611271/media/2019/01/LaNilsson80652.jpg){{% /md %}}
 
-<figcaption>Image: Decca Classics_._</figcaption>
+<figcaption>Image: Decca Classics.</figcaption>
 
 </figure>
 
