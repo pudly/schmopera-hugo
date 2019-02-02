@@ -1,7 +1,7 @@
 +++
 author = ["authors/john-hohmann.md"]
 categories = "Op-Ed"
-date = "2019-01-27T17:14:50+00:00"
+date = "2019-02-02T08:14:50+00:00"
 disclaimer = ""
 image_gallery = []
 postamble = ""
