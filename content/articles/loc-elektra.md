@@ -2,7 +2,7 @@
 author = ["authors/hannah-de-priest.md"]
 categories = "Review"
 date = "2019-02-04T19:15:32+00:00"
-disclaimer = ""
+disclaimer = "Note: due to extreme weather in Chicago, photography for these performances is not yet available. The images used in this review are from the 2012 performances of this production."
 image_gallery = []
 postamble = "You can see Strauss' _Elektra_ at the Lyric Opera of Chicago on select dates between now and February 22nd. I recommending reading a little Jung before you head to the theater!"
 preamble = ""
