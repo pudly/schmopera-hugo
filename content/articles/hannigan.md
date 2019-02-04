@@ -3,7 +3,6 @@ author = ["authors/carly-gordon.md"]
 categories = "Review"
 date = "2019-02-03T14:42:19+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
@@ -13,8 +12,8 @@ related_articles = ["articles/new-opera-repetiteur.md", "articles/in-review-hann
 related_companies = []
 related_people = ["scene/people/barbara-hannigan.md"]
 short_description = "Hannigan's well received turn at the podium, met by an immediate and unanimous standing ovation, should serve to demonstrate to the Cleveland Orchestra, and to classical music institutions across the continent and around the globe, that making an effort to include and elevate marginalized perspectives holds significance well beyond meeting a quota or \"catching up with the times.\""
-slug = "hannigan"
-title = "Hannigan"
+slug = "all-too-rare-hannigan-takes-the-podium-with-the-cleveland-orchestra"
+title = "All too rare: Hannigan takes the podium with the Cleveland Orchestra"
 youtube_url = ""
 
 +++
