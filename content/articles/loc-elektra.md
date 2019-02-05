@@ -2,10 +2,10 @@
 author = ["authors/hannah-de-priest.md"]
 categories = "Review"
 date = "2019-02-04T19:15:32+00:00"
-disclaimer = "Note: due to extreme weather in Chicago, photography for these performances is not yet available. Most of the images used in this review are from the 2012 performances of this production."
+disclaimer = ""
 image_gallery = []
 postamble = "You can see Strauss' _Elektra_ at the Lyric Opera of Chicago on select dates between now and February 22nd. I recommending reading a little Jung before you head to the theater!"
-preamble = ""
+preamble = "Note: due to extreme weather in Chicago, photography for these performances is not yet available. Most of the images used in this review are from the 2012 performances of this production."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1549300191/media/2019/02/sq2012PRODUCTIONElektraLyricOperaofChicago.jpg"
 primary_image_credit = "A scene from Elektra, Lyric Opera of Chicago, 2012. Photo: Robert Kusel."
 related_articles = ["articles/inflatable-beasts-vocal-brilliance-locs-siegfried.md", "articles/elektra.md"]
