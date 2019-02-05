@@ -11,7 +11,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1549389427/m
 primary_image_credit = ""
 related_articles = []
 related_companies = []
-related_people = []
+related_people = ["scene/people/jacques-arsenault.md"]
 short_description = "short"
 slug = "voix-humaine"
 title = "Voix humaine"
@@ -36,7 +36,7 @@ It's been said that _La voix humaine_ frustrates us because Elle is too passive:
 
 Quite a lot is known about Cocteau’s love life so it's not a stretch to imagine that he drew from his own experience and suffering to write _La voix humaine._ In fact, during the play's original run at the Comédie-Française, hecklers were shouting from the boxes: "Enough! It’s obscene! It’s Cocteau's lover on the other end of the line!" What happens to Lui in our version of _(La) Voix humaine_ has happened to many others, including, to some extent, Poulenc. While it would be naive to think that gay characters on stage are now totally accepted, we as artists do have liberties and privileges today that would have been unimaginable to this opera's creators. I've taken those initial hecklers at their word by placing a man like Cocteau on stage. Now it remains to be seen whether we as interpreters and observers will still find it obscene.
 
-<figure data-type="image">
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549389566/media/2019/02/JacquesArsenault.jpg){{% /md %}}
 
 <figcaption>Jacques Arsenault, tenor and creator of (La) Voix humaine.</figcaption>
 
