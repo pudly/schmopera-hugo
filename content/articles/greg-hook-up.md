@@ -51,7 +51,7 @@ Singing multiple roles like Dad, Duke, and other university dudes Jeff Lillico m
 
 The standout for me had to be Alexis Gordon, playing multiple roles from Mom, to Residence Advisor (RA) Steph, to the touching Heather, Tyler's new study partner. After establishing their relationship is just platonic, the show ends in a gripping, emotional scene between Heather and Mindy that is a stunning piece of theatre. Gordon gave me my favourite singing of the night. A warm tone full of subtleties, it enabled her to transition well between the multiple roles she played.
 
-All I'm saying is: I heard belting in a show produced by a company with OPERA in its name and I'm HERE FOR IT. #LIVING
+All I'm saying is: I heard belting in a show produced by a company with opera in its name and I'm HERE FOR IT. #LIVING
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549040493/media/2019/02/HookUp-photobyDahliaKatz-8889.jpg){{% /md %}}
 
