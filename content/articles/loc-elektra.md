@@ -29,7 +29,7 @@ Almost a premonition, _Elektra_ premiered a full four years before Carl Jung wro
 
 </figure>
 
-David McVicar's production is bold, dark, and full of bald-headed women in ratty panniers and smeared makeup. It is eerie, haunting, and wholly original. I loved it.
+[David McVicar's production](https://www.lyricopera.org/concertstickets/calendar/2018-2019/elektra-opera-tickets) is bold, dark, and full of bald-headed women in ratty panniers and smeared makeup. It is eerie, haunting, and wholly original. I loved it.
 
 _Elektra_'s unique dramatic structure consists of a series of tense exchanges between Elektra and the four other main players in the drama: her sister, Chrysothemis; her mother, Klytämnestra; a stranger, (revealed to be her brother, Orest); and her father-in-law, Aegisth. [Elza van den Heever](/scene/people/elza-van-den-heever/) makes a deeply sympathetic, crucially feminine Chrysothemis, Elektra’s pitiable sister. With a graceful stage presence and sweet but full lyric voice, van den Heever is the perfect foil to Stimme's angular embodiment of madness.
 
