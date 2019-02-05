@@ -4,25 +4,21 @@ discipline = "Tenor"
 lastmod = "2017-08-28T19:00:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503960088889/jacques_arsenault_headshot_co.jpg.jpg"
 publishDate = "2017-08-28T18:43:00-04:00"
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/opera-on-the-avalon.md","scene/companies/calgary-opera.md","scene/companies/edmonton-opera.md","scene/companies/opera-nuova.md"]
+related_companies = ["scene/companies/against-the-grain-theatre.md", "scene/companies/tapestry-opera.md", "scene/companies/opera-on-the-avalon.md", "scene/companies/calgary-opera.md", "scene/companies/edmonton-opera.md", "scene/companies/opera-nuova.md"]
 slug = "jacques-arsenault"
 title = "Jacques Arsenault"
 [[social_media]]
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/tenorjacques"
-+++
 
-Acadian tenor Jacques Arsenault began his musical career as a virtuoso accordionist before discovering his vocal talents, first as a baritone. He obtained his Master of Music from the University of Alberta and a Bachelor of Music from the University of Prince Edward Island, with further studies at the Franz-Schubert-Institut in Austria.
- 
-Following his transition to tenor, Jacques made his professional debut in 2015, singing and dancing with gusto in the role of Pritschitsch in Edmonton Opera's *The Merry Widow*. Jacques joined the cast as Kaspar in Opera Nuova’s production of *Amahl and the Night Visitors*, and starred as Archie in *Archiebaldo*, Cowtown Opera’s raunchy operatic cabaret about the tangled romantic life of the famous comic book character.
- 
-Jacques sang Monostatos in *Die Zauberflöte* and Gastone in *La Traviata* for Opera on the Avalon, the Gamekeeper in *Rusalka* and Roy Johnson in *The Light in the Piazza* with Opera NUOVA, as well as Orphée in *Orphée aux enfers*, and Léon in *Signor Deluso* at the University of Alberta.
- 
-Concert performances include Vaughan Williams’ *Serenade to Music* with Edmonton’s Richard Eaton Singers. Upcoming concerts for Jacques include a recital as part of University of Prince Edward Island’s Recital Series.
- 
-In the summer of 2016, Jacques displayed his amazing step-dancing skills over the course of twenty-one performances, portraying several roles in *The Bells of Baddeck* in Cape Breton, Nova Scotia. This charming music-drama was created by Lorna MacDonald with music by Dean Burry, based on the life of Alexander Graham Bell.
- 
-Jacques returned as Archie in sold-out performances of Archiebaldo, presented by Calgary Opera at their 2016 “Opera in the Village” festival.
- 
-In 2017, Jacques sang the role of The Young Man in Miracle Theatre’s production of *The Last Romance* in Prince George, BC, and looks forward to his debut as Ambroise Lepine in *Louis Riel* (Somers) in the Canadian Opera Company’s production at the National Arts Centre, Ottawa.
++++
+Acadian tenor Jacques Arsenault began his musical career as a virtuoso accordionist while growing up on Prince Edward Island before discovering his vocal talents. After receiving his Master of Music from University of Alberta, Jacques made his professional debut in 2015 as **Pritschitsch** in Edmonton Opera's _The Merry Widow_. Jacques joined the cast as **Kaspar** in Opera Nuova’s production of _Amahl and the Night Visitors_, and starred as **Archie** in _Archiebaldo_, Cowtown Opera’s raunchy operatic cabaret for Calgary Opera’s summertime “Opera in the Village”.
+
+Jacques starred as **Freddy** in Tapestry Opera’s 2017 premiere of _Bandits in the Valley_, based on local history of 1860s smugglers, earning nominations for two BroadwayWorld/Toronto Awards (Best Leading Actor in a Musical and Best Performance by a Male in a Featured Role) for his “standout performance…an impressive combination of powerful singing, solid accordion chops…and heartfelt acting” (Jenna Simeonov, Schmopera).
+
+Jacques made his debut as **Ambroise Lepine** in _Louis Riel_ (Somers) in the Canadian Opera Company’s acclaimed production at the National Arts Centre and displayed his comedic skills as **Alfred** in _Die Fledermaus_ at Glenn Gould School in Toronto.
+
+In Montreal, Jacques sang several roles in José Evangelista’s _Le Manuscrit trouvé à Saragosse_ with la Société de Musique Contemporaine de Québec. Judy-Ann Desrosiers (L’Opéra) wrote of his performance : « L\[a\] brillant\[e\] interpréta\[tion\]… de Jacques Arsenault dans le génial numéro du géomètre mérit\[e\] d’être soulign\[é\] ».
+
+In 2019, Jacques will portray **Lui** in his own project, a male adaptation of Poulenc’s _La Voix humaine_ in collaboration with Against the Grain Theatre, and returns to National Arts Centre as **Don Basilio** and **Don Curzio** in _Le Nozze di Figaro_.
