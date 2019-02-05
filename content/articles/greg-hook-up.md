@@ -4,7 +4,7 @@ categories = "Review"
 date = "2019-02-01T17:03:32+00:00"
 disclaimer = ""
 image_gallery = []
-postamble = "_Hook Up_ runs at Theatre Passe Muraille through to February 9. Tickets are [available here](https://tapestryopera.com/hook-up/)."
+postamble = "_Hook Up_ runs at Theatre Passe Muraille through to February 9. Tickets are [available here](https://tapestryopera.com/hook-up/)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1549040385/media/2019/02/sqHookUp-photobyDahliaKatz-9127.jpg"
 primary_image_credit = "Hook Up, Tapestry Opera/Theatre Passe Muraille, 2019. Photo: Dahlia Katz."
@@ -15,13 +15,13 @@ short_description = "It was at times Sondheim, at times Schwartz, at times Berns
 slug = "bucking-trends-hook-up"
 title = "Bucking trends: Hook Up"
 youtube_url = ""
-
 +++
-Tapestry Opera dove into 2019 headfirst with some very timely subject matter. _Hook Up_, with music by Chris Thornborrow and a libretto by Julie Tepperman, tells the story of three young persons as they head off to start a new chapter in their life - university. For some this can be an uplifting, transformative experience. For others, it can be one of the darkest times in our lives. I'm privileged to experience the former; _Hook Up_ tells the story of the latter.
+
+Tapestry Opera dove into 2019 headfirst with some very timely subject matter. _Hook Up_, with music by Chris Thornborrow and a libretto by Julie Tepperman, tells the story of three young persons as they head off to start a new chapter in their life - university. For some this can be an uplifting, transformative experience. For others, it can be one of the darkest times in our lives. I'm privileged to experience the former; _Hook Up_ tells the story of the latter.
 
 > It's tackling a very prescient and current narrative in today's society and it does it through beautiful music, great singing, and some really stellar acting.
 
-_Hook Up_ is the first commission issued by Artistic Director Michael Hidetoshi Mori and the score by Thornborrow was a treat. When you walk into a new work, certain tropes and stereotypes come to mind. _Hook Up_ bucks all those trends. With an orchestration and sensibility that definitely landed further on the musical theatre side of the spectrum, and it did so in the best way possible. It was at times Sondheim, at times Schwartz, at times Bernstein, but the overarching feeling (_to me_) was akin to Adam Guettel's masterpiece _A Light in the Piazza._ It calls for what I like to refer to as "contemporary legit" singing, which (using female examples) is an amalgam of the older school "legit" (think Julie Andrews) and "contemporary" (think Idina Menzel). It's a remarkably expressive timbre of singing (think Kelli O'Hara or Audra MacDonald).
+_Hook Up_ is the first commission issued by Artistic Director Michael Hidetoshi Mori and the score by Thornborrow was a treat. When you walk into a new work, certain tropes and stereotypes come to mind. _Hook Up_ bucks all those trends. With an orchestration and sensibility that definitely landed further on the musical theatre side of the spectrum, and it did so in the best way possible. It was at times Sondheim, at times Schwartz, at times Bernstein, but the overarching feeling (_to me_) was akin to Adam Guettel's masterpiece _A Light in the Piazza._ It calls for what I like to refer to as "contemporary legit" singing, which (using female examples) is an amalgam of the older school "legit" (think Julie Andrews) and "contemporary" (think Idina Menzel). It's a remarkably expressive timbre of singing (think Kelli O'Hara or Audra MacDonald).
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549040600/media/2019/02/HookUp-photobyDahliaKatz-9188.jpg){{% /md %}}
 
