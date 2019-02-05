@@ -19,9 +19,9 @@ youtube_url = ""
 +++
 Tapestry Opera dove into 2019 headfirst with some very timely subject matter. _Hook Up_, with music by Chris Thornborrow and a libretto by Julie Tepperman, tells the story of three young persons as they head off to start a new chapter in their life - university. For some this can be an uplifting, transformative experience. For others, it can be one of the darkest times in our lives. I'm privileged to experience the former; _Hook Up_ tells the story of the latter.
 
->It's tackling a very prescient and current narrative in today's society and it does it through beautiful music, great singing, and some really stellar acting.
+> It's tackling a very prescient and current narrative in today's society and it does it through beautiful music, great singing, and some really stellar acting.
 
-_Hook Up_ is the first commission issued by Artistic Director Michael Hidetoshi Mori and the score by Thornborrow was a treat. When you walk into a new work, certain tropes and stereotypes come to mind. _Hook Up_ bucks all those trends. With an orchestration and sensibility that definitely landed further on the musical theatre side of the spectrum, and it did so in the best way possible. It was at times Sondheim, at times Schwartz, at times Bernstein, but the overarching feeling (_to me_) was akin to John Michael LaChiusa's masterpiece _A Light in the Piazza._ It calls for what I like to refer to as "contemporary legit" singing, which (using female examples) is an amalgam of the older school "legit" (think Julie Andrews) and "contemporary" (think Idina Menzel). It's a remarkably expressive timbre of singing (think Kelli O'Hara or Audra MacDonald).
+_Hook Up_ is the first commission issued by Artistic Director Michael Hidetoshi Mori and the score by Thornborrow was a treat. When you walk into a new work, certain tropes and stereotypes come to mind. _Hook Up_ bucks all those trends. With an orchestration and sensibility that definitely landed further on the musical theatre side of the spectrum, and it did so in the best way possible. It was at times Sondheim, at times Schwartz, at times Bernstein, but the overarching feeling (_to me_) was akin to Adam Guettel's masterpiece _A Light in the Piazza._ It calls for what I like to refer to as "contemporary legit" singing, which (using female examples) is an amalgam of the older school "legit" (think Julie Andrews) and "contemporary" (think Idina Menzel). It's a remarkably expressive timbre of singing (think Kelli O'Hara or Audra MacDonald).
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549040600/media/2019/02/HookUp-photobyDahliaKatz-9188.jpg){{% /md %}}
 
@@ -33,7 +33,7 @@ Tapestry assembled a phenomenal cast of singers for this show.
 
 In the lead role of Mindy, Emily Lukasik started the show every bit the ingenue. She has a bright, open, and free placement and an excellent blended register, Lukasik's Mindy went on an incredible emotional journey. Her dedication to the very attached, somewhat shy, girlfriend characterization betrayed Mindy's naiveté, no matter how worldly she wished to present herself. Her final scene alongside Alexis Gordon was riveting. Lukasik bared everything in one of the most complete breakdowns I've seen on a stage. Brava! The vulnerability required to produce such a true, cathartic reaction is something few performers possess.
 
->I've been in these healthy relationship seminars where your leader is talking about respecting women and their safety in one breath, and then dismissing the meeting with "Let's go hunt some pussy."
+> I've been in these healthy relationship seminars where your leader is talking about respecting women and their safety in one breath, and then dismissing the meeting with "Let's go hunt some pussy."
 
 As Cindy, Mindy's best friend, Alexis Ault was a treasure. Her spunky character matched perfectly with her brassy-yet-twinkly voice. In Ault's Cindy we find a different young woman, taking life by the horns. She parties, has fun, is outspoken, and to be honest I really want to be her friend. Her voice dazzled in the ensemble singing, especially when paired alongside Nathan Carroll's Tyler.
 
@@ -47,7 +47,7 @@ Speaking of Tyler, Mindy's high-school boyfriend, Carroll was everyone's boyfrie
 
 Singing multiple roles like Dad, Duke, and other university dudes Jeff Lillico made solid clear distinctions between each and every appearance onstage. He had an easy-going high baritone to match his ease on the stage. The voicemail he leaves for Mindy as the Dad is an especially touching moment.
 
->All I'm saying is: I heard belting in a show produced by a company with OPERA in its name and I'm HERE FOR IT.
+> All I'm saying is: I heard belting in a show produced by a company with OPERA in its name and I'm HERE FOR IT.
 
 The standout for me had to be Alexis Gordon, playing multiple roles from Mom, to Residence Advisor (RA) Steph, to the touching Heather, Tyler's new study partner. After establishing their relationship is just platonic, the show ends in a gripping, emotional scene between Heather and Mindy that is a stunning piece of theatre. Gordon gave me my favourite singing of the night. A warm tone full of subtleties, it enabled her to transition well between the multiple roles she played.
 
