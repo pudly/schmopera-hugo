@@ -12,8 +12,8 @@ related_articles = ["articles/racette-an-unmissable-elle-in-o18s-ne-quittez-pas.
 related_companies = ["scene/companies/against-the-grain-theatre.md"]
 related_people = ["scene/people/jacques-arsenault.md"]
 short_description = "\"In the operatic canon, there's a whole lot of male swagger, seduction, anger, and violence but a notable lack of vulnerability. Dramatically, I'm interested in shame and vulnerability, particularly in the lives of men.\""
-slug = "voix-humaine"
-title = "Voix humaine"
+slug = "challenging-operas-male-swagger-in-la-voix-humaine"
+title = "Challenging opera's \"male swagger\" in (La) Voix humaine"
 youtube_url = ""
 
 +++
@@ -21,9 +21,9 @@ youtube_url = ""
 
 Last year, I saw Groundling Theatre's production of Shakespeare's _Lear,_ in which Seana McKenna played Queen Lear. It blew me away. A simple change, from King to Queen, had a deep effect on our perception of the title character, especially in relation to the others around them and the world they inhabit.
 
-I wondered why opera companies didn't seem to be following suit with more dramatic gender swaps. That's when I had my idea to experiment with one of my favourite operas: _La voix humaine,_ by composer Francis Poulenc. I grabbed a score and the original play by Cocteau and set to research. Once I read more about the lives of Cocteau and Poulenc and how they dealt with their sexuality (Cocteau was quite out, Poulenc was more secretive), I became fascinated with the echoes between their own biographies and the protagonist of _La voix humaine._ People of all genders and orientations have their hearts broken. Pain and loss are universal. I want to explore what it would be like to peel back the curtain and to see a man, like Cocteau and Poulenc themselves, experiencing this story in 1930s Paris.
-
 >What happens to Lui in our version of _(La) Voix humaine_ has happened to many others, including, to some extent, Poulenc.
+
+I wondered why opera companies didn't seem to be following suit with more dramatic gender swaps. That's when I had my idea to experiment with one of my favourite operas: _La voix humaine,_ by composer Francis Poulenc. I grabbed a score and the original play by Cocteau and set to research. Once I read more about the lives of Cocteau and Poulenc and how they dealt with their sexuality (Cocteau was quite out, Poulenc was more secretive), I became fascinated with the echoes between their own biographies and the protagonist of _La voix humaine._ People of all genders and orientations have their hearts broken. Pain and loss are universal. I want to explore what it would be like to peel back the curtain and to see a man, like Cocteau and Poulenc themselves, experiencing this story in 1930s Paris.
 
 ### What changes about this piece and this character when the protagonist's gender is changed?
 
