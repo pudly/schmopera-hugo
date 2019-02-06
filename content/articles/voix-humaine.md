@@ -6,7 +6,7 @@ disclaimer = ""
 draft = true
 image_gallery = []
 postamble = ""
-preamble = ""
+preamble = "Kick off Against the Grain Theatre's new Incubator Initiative is the gender-bent imagination of Poulenc's _La voix humaine_, created and performed by tenor Jacques Arsenault. With Topher Mokrzewski at the piano, Arsenault "
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1549389427/media/2019/02/VoixHumaine.jpg"
 primary_image_credit = ""
 related_articles = []
@@ -22,7 +22,7 @@ youtube_url = ""
 
 Last year, I saw Groundling Theatre's production of Shakespeare's _Lear,_ in which Seana McKenna played Queen Lear. It blew me away. A simple change, from King to Queen, had a deep effect on our perception of the title character, especially in relation to the others around them and the world they inhabit.
 
-I wondered why opera companies didn't seem to be following suit with more dramatic gender swaps. That's when I had my idea to experiment with one of my favourite operas: _La voix humaine,_ by composer Francis Poulenc_._ I grabbed a score and the original play by Cocteau and set to research. Once I read more about the lives of Cocteau and Poulenc and how they dealt with their sexuality (Cocteau was quite out, Poulenc was more secretive), I became fascinated with the echoes between their own biographies and the protagonist of _La voix humaine._ People of all genders and orientations have their hearts broken. Pain and loss are universal. I want to explore what it would be like to peel back the curtain and to see a man, like Cocteau and Poulenc themselves, experiencing this story in 1930s Paris.
+I wondered why opera companies didn't seem to be following suit with more dramatic gender swaps. That's when I had my idea to experiment with one of my favourite operas: _La voix humaine,_ by composer Francis Poulenc. I grabbed a score and the original play by Cocteau and set to research. Once I read more about the lives of Cocteau and Poulenc and how they dealt with their sexuality (Cocteau was quite out, Poulenc was more secretive), I became fascinated with the echoes between their own biographies and the protagonist of _La voix humaine._ People of all genders and orientations have their hearts broken. Pain and loss are universal. I want to explore what it would be like to peel back the curtain and to see a man, like Cocteau and Poulenc themselves, experiencing this story in 1930s Paris.
 
 ### What changes about this piece and this character when the protagonist's gender is changed?
 
