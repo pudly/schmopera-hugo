@@ -3,7 +3,6 @@ author = ["authors/alessia-naccarato.md"]
 categories = "Review"
 date = "2019-02-06T17:29:45+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Katya Kabanova runs at The Royal Opera through 26 February. For details, [click here](https://www.roh.org.uk/productions/katya-kabanova-by-richard-jones)."
 preamble = ""
@@ -13,12 +12,12 @@ related_articles = ["articles/constructive-frustration-from-roh-s-queen-of-spade
 related_companies = ["scene/companies/royal-opera-house.md"]
 related_people = ["scene/people/amanda-majeski.md"]
 short_description = "It is a piece that is so clearly a microcosm of a very specific place and time. Director Richard Jones has chosen to set it in the mid-60s in a repressive, religious Russian community where a life of domesticity, is a woman's only option."
-slug = "katya"
-title = "Katya"
+slug = "majeski-makes-sensitive-subtle-roh-debut-in-kata-kabanova"
+title = "Majeski makes sensitive, subtle ROH debut in Kát'a Kabanova"
 youtube_url = ""
 
 +++
-This production of Janáček’s _Kát'a Kabanová_ (1921) is the second in a cycle of four works the Royal Opera will be staging over the next two seasons. Last season, his final opera _From the House of the Dead_ (1930) was premiered in a new production directed by Krzysztof Warlikowski.
+This production of Janáček’s [_Kát'a Kabanová_](https://www.roh.org.uk/productions/katya-kabanova-by-richard-jones) (1921) is the second in a cycle of four works the Royal Opera will be staging over the next two seasons. Last season, his final opera _From the House of the Dead_ (1930) was premiered in a new production directed by Krzysztof Warlikowski.
 
 > It was a privilege to witness a piece of art that was deeply moving and poignant, that spoke volumes in its intelligibility.
 
@@ -42,7 +41,7 @@ The weather, and the natural world both play important roles in this opera. The 
 
 > Majeski gave a fully integrated, and detail sensitive performance that touched on so many of the subtleties of her character.
 
-Kát'a is a woman torn in two. She wants to be a good wife and daughter, but she is unhappy with her domestic lot and punishes herself for desiring more. She is portrayed in stark contrast to Varvara, a young ward in the Kabanov' household, portrayed by soprano Emily Edmonds. Varvara is young and carefree; choosing not to conform to the norms of society, she regularly sneaks out to the garden in the middle of the night to meet with her lover, Váňa Kudrjaš. And in a world where the custom is to cover up, she roams barefoot and bare-shouldered. In these two characters censorship and domesticity are contrasted with self-expression and sexual liberation.
+Kát'a is a woman torn in two. She wants to be a good wife and daughter, but she is unhappy with her domestic lot and punishes herself for desiring more. She is portrayed in stark contrast to Varvara, a young ward in the Kabanov' household, portrayed by soprano [Emily Edmonds](/spotlight-on-emily-edmonds/). Varvara is young and carefree; choosing not to conform to the norms of society, she regularly sneaks out to the garden in the middle of the night to meet with her lover, Váňa Kudrjaš. And in a world where the custom is to cover up, she roams barefoot and bare-shouldered. In these two characters censorship and domesticity are contrasted with self-expression and sexual liberation.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549474728/media/2019/02/1431AmandaMajeskiasKatyaSusanBickleyasKabanovaROH2019photographbyCliveBarda.jpg){{% /md %}}
 
