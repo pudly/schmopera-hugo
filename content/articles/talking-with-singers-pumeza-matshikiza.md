@@ -18,24 +18,18 @@ title = "Talking with singers: Pumeza Matshikiza"
 youtube_url = ""
 
 +++
-\- Why do you sing professionally?
+### Why do you sing professionally?
 
 I sing professionally because I like to explore and express operatic music  and to share that with an audience.
 
-\- What kind of influence has Jessye Norman’s career had on your own?
+### What kind of influence has Jessye Norman's career had on your own?
 
 Growing up in South Africa meant one was in need of role models like Jessye Norman and she was one.
 
-\- What do you think is different about your industry now, compared to the prime years of Norman and her contemporaries?
+### How do you stay healthy and sane while traveling for work?
 
-(more suitable for people like Jessye, to answer)
+I usually keep in touch with my friends, also I make new friends, learn about the country or city I'll be spending time in.
 
- 
+### What do you know now about the singing career that you wish you knew 10 years ago?
 
-\- How do you stay healthy and sane while traveling for work?
-
-I usually keep in touch with my friends, also I make new friends, learn about the country/ city I’ll be spending time in.
-
-\- What do you know now about the singing career that you wish you knew 10 years ago?
-
-That when people told me I was young I should have believed them, and that things I couldn’t do then, I would be able to do them later.
+That when people told me I was young I should have believed them, and that things I couldn't do then, I would be able to do them later.
