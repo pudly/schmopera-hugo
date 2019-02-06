@@ -8,11 +8,11 @@ image_gallery = []
 postamble = "Katya Kabanova runs at The Royal Opera through 26 February. For details, [click here](https://www.roh.org.uk/productions/katya-kabanova-by-richard-jones)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1549474644/media/2019/02/sq1195BickleyasKabanovaMajeskiasKatyStaplesasTichonROH2019photographbyCliveBarda.jpg"
-primary_image_credit = "Susan Bickley (Kabanova), Amanda Majeski (Kát'a), and Andrew Staples  in Kát'a Kabanova, ROH, 2019. Photo: Clive Barda."
+primary_image_credit = "Susan Bickley (Kabanova), Amanda Majeski (Kát'a), and Andrew Staples as Tichon in Kát'a Kabanova, ROH, 2019. Photo: Clive Barda."
 related_articles = ["articles/constructive-frustration-from-roh-s-queen-of-spades.md"]
 related_companies = ["scene/companies/royal-opera-house.md"]
 related_people = ["scene/people/amanda-majeski.md"]
-short_description = "short"
+short_description = "It is a piece that is so clearly a microcosm of a very specific place and time. Director Richard Jones has chosen to set it in the mid-60s in a repressive, religious Russian community where a life of domesticity, is a woman's only option."
 slug = "katya"
 title = "Katya"
 youtube_url = ""
@@ -26,11 +26,11 @@ _Kát'a_ is a striking work. Translated into Czech from the original Russian Ost
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549474580/media/2019/02/1015AndrewStaplesasTichonandAmandaMajeskiasKatyaROH2019photographbyCliveBarda.jpg){{% /md %}}
 
-<figcaption> in Kát'a Kabanova, ROH, 2019. Photo: Clive Barda. </figcaption>
+<figcaption>Andrew Staples as Tichon and Amanda Majeski as Kát'a in Kát'a Kabanova, ROH, 2019. Photo: Clive Barda. </figcaption>
 
 </figure>
 
-It is a piece that is so clearly a microcosm of a very specific place and time. Director Richard Jones has chosen to set it in the mid 60's in a repressive, religious Russian community where a life of domesticity, is a woman's only option. Amidst all of this, the river Volga weaves its way into the music and into the heart of its central character, calling to her and creating a watery metaphor that winds its way through the entire piece.
+It is a piece that is so clearly a microcosm of a very specific place and time. Director Richard Jones has chosen to set it in the mid-60s in a repressive, religious Russian community where a life of domesticity, is a woman's only option. Amidst all of this, the river Volga weaves its way into the music and into the heart of its central character, calling to her and creating a watery metaphor that winds its way through the entire piece.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549474627/media/2019/02/1170PavelCernochasBorisandAmandaMajeskiasKatyaROH2019photographbyCliveBarda.jpg){{% /md %}}
 
