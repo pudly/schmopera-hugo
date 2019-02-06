@@ -26,6 +26,12 @@ I sing professionally because I like to explore and express operatic music  and 
 
 Growing up in South Africa meant one was in need of role models like Jessye Norman and she was one.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549475643/media/2019/02/PumezaFull.jpg){{% /md %}}
+
+<figcaption>Photo: Decca/Simon Fowler.</figcaption>
+
+</figure>
+
 ### How do you stay healthy and sane while traveling for work?
 
 I usually keep in touch with my friends, also I make new friends, learn about the country or city I'll be spending time in.
