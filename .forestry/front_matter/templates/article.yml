@@ -108,6 +108,8 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/constructive-frustration-from-roh-s-queen-of-spades.md
+- content/articles/greg-hook-up.md
 - content/articles/cantata-profana.md
 - content/articles/uneven-scarlet-ibis-meditative-to-a-fault.md
 - content/articles/verborgenheit.md
@@ -122,7 +124,6 @@ pages:
 - content/articles/hannigan.md
 - content/articles/a-report-from-the-noa-conference-in-salt-lake-city.md
 - content/articles/coc1920.md
-- content/articles/greg-hook-up.md
 - content/articles/charlie-siem.md
 - content/articles/roh-traviata.md
 - content/articles/star-wars.md
@@ -131,7 +132,6 @@ pages:
 - content/articles/perfect-opera.md
 - content/articles/george-steel-interview.md
 - content/articles/florencia-en-el-amazonas.md
-- content/articles/constructive-frustration-from-roh-s-queen-of-spades.md
 - content/articles/fgo-figaro.md
 - content/articles/italian-straw-hat.md
 - content/articles/loc-elektra.md
