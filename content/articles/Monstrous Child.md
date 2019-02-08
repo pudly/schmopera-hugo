@@ -18,13 +18,17 @@ title = "Monstrous Child"
 youtube_url = ""
 
 +++
-"It's a teenage coming-of-age story, but she happens to be a half-dead, half-alive goddess who lives in the Norse Underworld," says composer Gavin Higgins of his new opera, _The Monstrous Child_. 
+"It's a teenage coming-of-age story, but she happens to be a half-dead, half-alive goddess who lives in the Norse Underworld," says composer Gavin Higgins of his new opera, [_The Monstrous Child_](https://www.roh.org.uk/productions/the-monstrous-child-by-timothy-sheader). 
+
+Running 21 February to 3 March at the The Royal Opera House's  Linbury Theatre, _The Monstrous Child_ is the operatic adaptation of the teen fiction book by Francesca Simon
+
+"It's basically what Wicked is to the Wizard of Oz, but to the Ring Cycle
 
 * opera's origins, Simon's book, quick ROH commission
 * got into opera, brass band tradition, learning about voices
 * finishing orchestration
 
-I find orchestration is a bit liek puzzle-solving (**like finding how to make the sound you want with the instruments available**)
+I find orchestration is a bit like puzzle-solving (**like finding how to make the sound you want with the instruments available**)
 
 I don't find it as taxing as composing, I quite enjoy it
 
@@ -51,8 +55,6 @@ I got a real taste for collaborating and writing for the stage
 \*_He was given a copy of the book_*
 
 I thought it was brilliant, witty, and funny
-
-It's basically what Wicked is to the Wizard of Oz, but to the Ring Cycle
 
 \*_they proposed it to ROH, did a workshop_*
 
