@@ -18,11 +18,13 @@ title = "Monstrous Child"
 youtube_url = ""
 
 +++
+"It's a teenage coming-of-age story, but she happens to be a half-dead, half-alive goddess who lives in the Norse underworld," says composer Gavin Higgins of his new opera, _The Monstrous Child_. 
+
 I find orchestration is a bit liek puzzle-solving (**like finding how to make the sound you want with the instruments available**)
 
 I don't find it as taxing as composing, I quite enjoy it
 
-No pressure *laughs*
+No pressure _laughs_
 
 It's the first time I've ever written for voices, so it's extra pressure
 
@@ -30,25 +32,25 @@ It's the first time I've ever written for voices, so it's extra pressure
 
 As far as I'm concerned, opera is just theatre, where people sing
 
-\**saw Le grand macabre at ENO, got turned onto it**
+\*_saw Le grand macabre at ENO, got turned onto it_*
 
 I went to see lots and lots of opera here in London
 
-\**started thinking about writing one himself**
+\*_started thinking about writing one himself_*
 
-\**he wrote a few ballets**
+\*_he wrote a few ballets_*
 
 I got a real taste for collaborating and writing for the stage
 
-\**Norse goddess Hel, the teenage ruler of the underworld**
+\*_Norse goddess Hel, the teenage ruler of the underworld_*
 
-\**He was given a copy of the book**
+\*_He was given a copy of the book_*
 
 I thought it was brilliant, witty, and funny
 
 It's basically what Wicked is to the Wizard of Oz, but to the Ring Cycle
 
-\**they proposed it to ROH, did a workshop**
+\*_they proposed it to ROH, did a workshop_*
 
 They commissioned it straight away, on the day - which is apparently unheard of
 
@@ -56,27 +58,25 @@ We're putting as a family opera
 
 It's not for young kids, it's probably for teenagers and up
 
-It's a teenage coming-of-age story, but she happesn to be a half-dead, half-alive goddess who lives in the Norse underworld
-
 She's the ultimate teenage girl who is having the worst time in life
 
-\**goddess from the waist up, rotting corpse from the waist down**
+\*_goddess from the waist up, rotting corpse from the waist down_*
 
 She's aware that she smells because she's rotten - **general self esteem issues**
 
-\**she falls for Baldr, who is the first guy who be nice to her**
+\*_she falls for Baldr, who is the first guy who be nice to her_*
 
-\**Simon** - It's probably the only opera where the last person standing is the female lead
+\*_Simon_* - It's probably the only opera where the last person standing is the female lead
 
 I've harvested other operas for model
 
-\**the ending is inspired by Peter Grimes - gods dying in the distance, Hel stuck alone**
+\*_the ending is inspired by Peter Grimes - gods dying in the distance, Hel stuck alone_*
 
 It's quite an eclectic opera, I think
 
-\**learned about text clarity and tessitura through process, comparing range to what he knows about brass instruments - ie. trumpet is similar to soprano**
+\*_learned about text clarity and tessitura through process, comparing range to what he knows about brass instruments - ie. trumpet is similar to soprano_*
 
-\**surprised by the variety of voices even within a voice type** 
+\*_surprised by the variety of voices even within a voice type_*
 
 I kind of assumed there was a soprano model, and sopranos sounded something like that
 
