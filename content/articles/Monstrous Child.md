@@ -20,9 +20,7 @@ youtube_url = ""
 +++
 "It's a teenage coming-of-age story, but she happens to be a half-dead, half-alive goddess who lives in the Norse Underworld," says composer Gavin Higgins of his new opera, [_The Monstrous Child_](https://www.roh.org.uk/productions/the-monstrous-child-by-timothy-sheader). 
 
-Running 21 February to 3 March at the The Royal Opera House's  Linbury Theatre, _The Monstrous Child_ is the operatic adaptation of the teen fiction book by Francesca Simon
-
-"It's basically what Wicked is to the Wizard of Oz, but to the Ring Cycle
+Running 21 February to 3 March at the The Royal Opera House's  Linbury Theatre, _The Monstrous Child_ is the operatic adaptation of the teen fiction book by Francesca Simon. Drawn from Norse mythology, the story centres on Hel, the teenage goddess who presides over the dead. Higgins describes the opera, which shares source material with the expansive works of Wagner, as "basically what _Wicked_ is to _The Wizard of Oz_, but to the _Ring Cycle."_
 
 * opera's origins, Simon's book, quick ROH commission
 * got into opera, brass band tradition, learning about voices
