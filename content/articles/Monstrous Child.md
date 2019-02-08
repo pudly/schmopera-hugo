@@ -18,7 +18,11 @@ title = "Monstrous Child"
 youtube_url = ""
 
 +++
-"It's a teenage coming-of-age story, but she happens to be a half-dead, half-alive goddess who lives in the Norse underworld," says composer Gavin Higgins of his new opera, _The Monstrous Child_. 
+"It's a teenage coming-of-age story, but she happens to be a half-dead, half-alive goddess who lives in the Norse Underworld," says composer Gavin Higgins of his new opera, _The Monstrous Child_. 
+
+* opera's origins, Simon's book, quick ROH commission
+* got into opera, brass band tradition, learning about voices
+* finishing orchestration
 
 I find orchestration is a bit liek puzzle-solving (**like finding how to make the sound you want with the instruments available**)
 
