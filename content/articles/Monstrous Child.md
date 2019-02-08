@@ -22,7 +22,7 @@ youtube_url = ""
 
 Running 21 February to 3 March at the The Royal Opera House's  Linbury Theatre, _The Monstrous Child_ is the operatic adaptation of the teen fiction book by Francesca Simon. Drawn from Norse mythology, the story centres on Hel, the teenage goddess who presides over the dead. Higgins describes the opera, which shares source material with the expansive works of Wagner, as "basically what _Wicked_ is to _The Wizard of Oz_, but to the _Ring Cycle."_
 
-_The Monstrous Child_ marks Higgins' first opera, and even his first foray into writing for the voice. He comes from a familial line of brass band players, 
+_The Monstrous Child_ marks Higgins' first opera, and even his first foray into writing for the voice. He comes from a familial line of brass band players, and got the opera bug after seeing Ligeti's _Le grand macabre_ at English National Opera. He read Simon's book, which he deemed both brilliant and operatic, and brought a workshop-ready score for proposal to the Royal Opera House. After the work's single workshop, Higgins recalls, "they commissioned it, straight away. Which is apparently unheard of."
 
 * opera's origins, Simon's book, quick ROH commission
 * got into opera, brass band tradition, learning about voices
