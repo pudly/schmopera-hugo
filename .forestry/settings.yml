@@ -42,10 +42,10 @@ sections:
   label: About
   create: all
   match: "**/*"
-upload_dir: media
-public_path: https://res.cloudinary.com/schmopera/image/upload
-front_matter_path: ''
-use_front_matter_path: false
+upload_dir: res/schmopera/image/upload/media
+public_path: https://schmopera.imgix.net
+front_matter_path: https://schmopera.imgix.net
+use_front_matter_path: true
 file_template: ":year:/:month:/:filename:"
 build:
   preview_command: hugo -E -F -D -d public --baseURL="https://u-c18kdygnw7cw.preview.forestry.io"
