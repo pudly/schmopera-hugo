@@ -48,7 +48,7 @@ front_matter_path: https://schmopera.imgix.net
 use_front_matter_path: true
 file_template: ":year:/:month:/:filename:"
 build:
-  preview_command: hugo -E -F -D -d public --baseURL="https://u-c18kdygnw7cw.preview.forestry.io"
+  preview_command: hugo -E -F -D -d public --baseURL="https://c0z9owmnbgkbna.preview.forestry.io"
   publish_command: hugo
   preview_env:
   - HUGO_ENV=Staging
