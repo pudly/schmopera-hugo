@@ -22,7 +22,9 @@ youtube_url = ""
 
 Running 21 February to 3 March at the The Royal Opera House's  Linbury Theatre, _The Monstrous Child_ is the operatic adaptation of the teen fiction book by Francesca Simon. Drawn from Norse mythology, the story centres on Hel, the teenage goddess who presides over the dead. Higgins describes the opera, which shares source material with the expansive works of Wagner, as "basically what _Wicked_ is to _The Wizard of Oz_, but to the _Ring Cycle."_
 
-_The Monstrous Child_ marks Higgins' first opera, and even his first foray into writing for the voice. He comes from a familial line of brass band players, and got the opera bug after seeing Ligeti's _Le grand macabre_ at English National Opera. He read Simon's book, which he deemed both brilliant and operatic, and brought a workshop-ready score for proposal to the Royal Opera House. After the work's single workshop, Higgins recalls, "they commissioned it, straight away. Which is apparently unheard of."
+When we spoke, Higgins was finishing his orchestration in anticipation for the first rehearsals with the Aurora Orchestra. "I don't find it as taxing as composing," he says of orchestration. "It's a bit like puzzle-solving." _The Monstrous Child_ marks Higgins' first opera, and even his first foray into writing for the voice. He comes from a familial line of brass band players, and got the opera bug after seeing Ligeti's _Le grand macabre_ at English National Opera. He read Simon's book, which he deemed both brilliant and operatic, and brought a workshop-ready score for proposal to the Royal Opera House. After the work's single workshop, Higgins recalls, "they commissioned it straight away. Which is apparently unheard of."
+
+Though still young, Higgins is a seasoned composer; and though there are learning curves to writing for the voice, he wisely keeps his eyes on the final product, what he calls a "coming of age story". Hel, burdened with the same teenage struggles as the rest of us - issues of self-esteem and unrequited crushes - is "the ultimate teenage girl who is having the worst time in life."
 
 * opera's origins, Simon's book, quick ROH commission
 * got into opera, brass band tradition, learning about voices
@@ -63,8 +65,6 @@ They commissioned it straight away, on the day - which is apparently unheard of
 We're putting as a family opera
 
 It's not for young kids, it's probably for teenagers and up
-
-She's the ultimate teenage girl who is having the worst time in life
 
 \*_goddess from the waist up, rotting corpse from the waist down_*
 
