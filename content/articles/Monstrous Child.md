@@ -14,7 +14,7 @@ related_companies = []
 related_people = []
 short_description = "short description"
 slug = "monstrous-child"
-title = "Monstrous Child"
+title = "Don't miss: The Monstrous Child"
 youtube_url = ""
 
 +++
@@ -24,4 +24,4 @@ Running 21 February to 3 March at the The Royal Opera House's  Linbury Theatre, 
 
 When we spoke, Higgins was finishing his orchestration in anticipation for the first rehearsals with the Aurora Orchestra. "I don't find it as taxing as composing," he says of orchestration. "It's a bit like puzzle-solving." _The Monstrous Child_ marks Higgins' first opera, and even his first foray into writing for the voice. He comes from a familial line of brass band players, and got the opera bug after seeing Ligeti's _Le grand macabre_ at English National Opera. He read Simon's book, which he deemed both brilliant and operatic, and brought a workshop-ready score for proposal to the Royal Opera House. After the work's single workshop, Higgins recalls, "they commissioned it straight away. Which is apparently unheard of."
 
-Though still young, Higgins is a seasoned composer; and though there are learning curves to writing for the voice, he wisely keeps his eyes on the final product, what he calls a "coming of age story" for families. Hel, burdened with the same teenage struggles as the rest of us - issues of self-esteem and unrequited crushes - is "the ultimate teenage girl who is having the worst time in life."
+Though still young, Higgins is a seasoned composer; and though there are learning curves to writing for the voice, he wisely keeps his eyes on the final product: an opera for families. Hel, burdened with the same teenage struggles as the rest of us - issues of self-esteem and unrequited crushes - is "the ultimate teenage girl who is having the worst time in life."
