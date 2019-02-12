@@ -4,10 +4,10 @@ url: "/featured/"
 type: featured
 layout: list
 articles:
-- articles/4-secrets-for-better-high-notes.md
-- articles/opera-spin-off.md
-- articles/talking-with-singers-christian-van-horn.md
-- articles/talking-with-singers-sondra-radvanovsky.md
-- articles/in-defence-of-singers.md
+- articles/4-steps-to-taking-fixing-notes.md
+- articles/4-traits-of-a-great-cadenza.md
+- articles/a-faq-checklist-for-opera-newbies.md
+- articles/the-practice-tip-you-dont-want-to-hear.md
+- articles/music-degrees-expectations-4-tips-for-new-students.md
 
 ---
