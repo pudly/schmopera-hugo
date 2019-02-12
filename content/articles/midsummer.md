@@ -13,8 +13,8 @@ related_articles = ["articles/too-much-magic-a-midsummer-nights-dream-at-eno.md"
 related_companies = ["scene/companies/opera-philadelphia.md"]
 related_people = ["scene/people/tim-mead.md", "scene/people/anna-christy.md", "scene/people/matthew-rose.md"]
 short_description = "For those looking to escape into a Shakespearean fantasy world filled with fairies, comical misunderstandings, and top-notch singing, this production of Midsummer is not to be missed."
-slug = "midsummer"
-title = "Midsummer"
+slug = "uncluttered-magic-in-carsens-midsummer"
+title = "Uncluttered magic in Carsen's Midsummer"
 youtube_url = ""
 
 +++
@@ -22,7 +22,7 @@ Robert Carsen's staging of Benjamin Britten's [_A Midsummer Night's Dream_](http
 
 >Music is not always required to make us smile and laugh, but it certainly does not hurt from time to time if it does.
 
-Deep hues of blue and green occupied the stage, which, aside from several moving parts, was kept uncluttered and clean. Carson's visual simplicity on the stage complemented Britten's vivid score. One of the most magical and unexpected moments took place at the beginning of Act III, when three beds were suspended in air.
+Deep hues of blue and green occupied the stage, which, aside from several moving parts, was kept uncluttered and clean. Carsen's visual simplicity on the stage complemented Britten's vivid score. One of the most magical and unexpected moments took place at the beginning of Act III, when three beds were suspended in air.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550007865/media/2019/02/midsummer-8.jpg){{% /md %}}
 
