@@ -3,7 +3,6 @@ author = ["authors/erik-flaten.md"]
 categories = "Review"
 date = "2019-02-12T14:53:08+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Opera Philadelphia's production of _A Midsummer Night's Dream_ runs through February 17. For details and ticket information, [click here](https://www.operaphila.org/whats-on/on-stage-2018-2019/midsummer-nights-dream/)."
 preamble = ""
