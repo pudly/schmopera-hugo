@@ -40,7 +40,7 @@ _Works like La Traviata are so steeped in "tradition" by now: there are certain 
 
 _Many of those ancient recordings are really incredible, especially by the likes of, say, Adelina Patti (1843-1919) singing bel canto. Verdi himself was a great admirer of hers! In this recording of, for example, "Ah, non credea mirarti" one is instantly swept away by her expression (even if the voice itself perhaps shows some of its age; it was recorded already toward the end of her life.)_
 
-<Piatti YouTube link  https://www.youtube.com/watch?v=w2LY6YLHn7U  >
+<Piatti YouTube link  https://www.youtube.com/watch?v=w2LY6YLHn7U  >******
 
 She sings with such flexibility, but all guided by a rhetorical expressivity. It’s not about calculation or the careful placement of everything, but about the declamation of the text and its emotions.
 
