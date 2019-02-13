@@ -3,7 +3,6 @@ author = ["authors/alessia-naccarato.md"]
 categories = "Review"
 date = "2019-02-13T17:11:56+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "ENO's production of _Akhnaten_ runs through 7 March. For details and tickets, [click here](https://www.eno.org/whats-on/akhnaten/)."
 preamble = ""
@@ -13,8 +12,8 @@ related_articles = ["articles/transparent-glass-the-composer-turns-80.md"]
 related_companies = ["scene/companies/los-angeles-opera.md", "scene/companies/english-national-opera.md"]
 related_people = ["scene/people/anthony-roth-costanzo.md"]
 short_description = "Every bit of this production was beautifully and intricately crafted; from the dazzling, elaborate costumes, to the evocative colour palette, it was a fully immersive experience that was moving in the most unexpected ways."
-slug = "eno-akhnaten"
-title = "ENO Akhnaten"
+slug = "a-moving-spectacle-akhnaten"
+title = "A moving spectacle: Akhnaten"
 youtube_url = ""
 
 +++
