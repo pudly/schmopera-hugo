@@ -40,7 +40,7 @@ Christie works with some of today's most celebrated living composers. The names 
 
 She sings with such flexibility, but all guided by a rhetorical expressivity. It’s not about calculation or the careful placement of everything, but about the declamation of the text and its emotions.
 
-Of course, expressivity is timeless and Christie finds that as he comes to know more and more singers through various productions, he’ll frequently call them up ahead of time to say “hey, we have this show coming up in 5 or 6 months. Remember what we did in the Mozart? You can also do that in Moravec.”
+Of course, expressivity is timeless and Christie finds that as he comes to know more and more singers through various productions, he’ll frequently call them up ahead of time to say "hey, we have this show coming up in 5 or 6 months. Remember what we did in the Mozart? You can also do that in Moravec."
 
 As for general, but foundational, advice for young singers and conductors, Christie believes that preparation is key. But preparing a score by Mozart is one thing and one by Moravec another.
 
