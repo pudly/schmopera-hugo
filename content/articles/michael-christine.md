@@ -28,9 +28,9 @@ At the peak of the recent Polar vortex, I had the opportunity to catch up with M
 
 Christie works with some of today's most celebrated living composers. The names of Mason Bates, Mark Adamo, Osvaldo Golijov, Paul Moravec, Ricky Ian Gordon, and Kevin Puts (whose Pulitzer-Prize-winning opera _Silent Night_ was commissioned and premiered by Christie and Minnesota Opera) figure prominently and regularly on Christie's programming.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550167062/media/2019/02/MichaelChristieJamesDaniel.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Michae Christie, conductor. Photo: James Daniel.</figcaption>
 
 </figure>
 
@@ -60,9 +60,9 @@ As for general, but foundational, advice for young singers and conductors, Chris
 
 **MC**: I would say it's not dissimilar, actually. Of course there are different considerations, but that's typical of any score. But with a new work, something that I'm increasingly more aware of, is that in the earliest performances, we are laying a path toward a tradition in a certain sense. Consequently, I try to be a little bit careful with certain choices. I always like to call up the composer with questions, like "what exactly is the relationship between the stage and pit at this moment?" "Is it more atmospheric? More internal character? Emotionally driven?" Also, every time I open a new score, I say to it: "tell me about your language. How do you use the language?" When the use of the language or the expressivity of the language isn't obvious, that's when I start thinking "Hm, how are we going to make this work?"
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550079256/media/2019/02/MichaelChristieTimTrumble.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Photo: Tim Trumble.</figcaption>
 
 </figure>
 
@@ -72,7 +72,7 @@ As for general, but foundational, advice for young singers and conductors, Chris
 
 >"Something I'm determined to address if I get a chance to be part of a leadership team at a company is the pre-YAP pipeline and post-YAP career development."
 
-**MP**: Looking ahead, Christie is open about his aspirations to be music director of another major opera company. Having had the Minnesota Opera experience, Christie is determined to challenge lingering stereotypes about conductors being disinterested in any aspects of a productions beyond the music itself. "I love those things," Christie exclaims. "I love knowing how the masking is done for this and how the lighting is done for that, letting the director know that I notice things and that I'm there to help in the whole endeavor." I can't help but suspect that being a pilot influences his musical sensibilities. "I never thought about it that way," he replies, "but now that you say it, yes, I totally agree: an opera is indeed like a large aircraft to steer."
+**MP**: Looking ahead, Christie is open about his aspirations to be music director of another major opera company. Having had the Minnesota Opera experience, Christie is determined to challenge lingering stereotypes about conductors being disinterested in any aspects of a productions beyond the music itself. "I love those things," Christie exclaims. "I love knowing how the masking is done for this and how the lighting is done for that, letting the director know that I notice things and that I'm there to help in the whole endeavour." I can't help but suspect that being a pilot influences his musical sensibilities. "I never thought about it that way," he replies, "but now that you say it, yes, I totally agree: an opera is indeed like a large aircraft to steer."
 
 Building on his thoughts from 2016's interview, Christie is even more conscientious about the development of young artists, a pertinent fact considering the numerous Ryan Opera Center participating in this LOC production of _Traviata_.
 
