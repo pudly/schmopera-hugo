@@ -3,7 +3,6 @@ author = ["authors/michael-pecak.md"]
 categories = "Interview"
 date = "2019-02-13T17:34:22+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "I'm grateful to Magda Krance for arranging this meeting with Maestro Christie."
 preamble = ""
@@ -13,8 +12,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "\"You know, thank goodness that we're beginning to deal more and more with questions and issues of diversity. But Young Artist Programs can't deal with the diversity questions if there isn't a pipeline beforehand.\""
-slug = "michael-christie"
-title = "Michael Christie"
+slug = "talking-with-conductors-michael-christie"
+title = "Talking with conductors: Michael Christie"
 youtube_url = ""
 
 +++
@@ -36,7 +35,7 @@ Christie works with some of today's most celebrated living composers. The names 
 
 **Michael Pecak (MP)**: Considering the august living-and-breathing company you keep, what is it like for you to come back to the long-departed Verdi and the score of _Traviata_.
 
-**Michael Christie (MC)**: I find it quite liberating because when you work with living composers, and you see the human element in creating a piece, you realize that they’re restricted by the same little dots on the page as Verdi was. Living composers strive to get the drama out of a scene; it's like being an architect, building a powerful scene. It's clear to me that past composers wanted the same. So, I try to be as imaginative with Verdi as I am with a new piece. When I open the score, it's like I hear it saying: "be dramatic with me!" If a moment invites an additional second or two of time for the characters to look into each other eyes before saying "Addio," then it should be done. The audience would rather have that than pedantic counting of eighth-rests.
+**Michael Christie (MC)**: I find it quite liberating because when you work with living composers, and you see the human element in creating a piece, you realize that they're restricted by the same little dots on the page as Verdi was. Living composers strive to get the drama out of a scene; it's like being an architect, building a powerful scene. It's clear to me that past composers wanted the same. So, I try to be as imaginative with Verdi as I am with a new piece. When I open the score, it's like I hear it saying: "be dramatic with me!" If a moment invites an additional second or two of time for the characters to look into each other eyes before saying "Addio," then it should be done. The audience would rather have that than pedantic counting of eighth-rests.
 
 >"Every time I open a new score, I say to it: 'tell me about your language. How do you use the language?'"
 
@@ -52,7 +51,7 @@ Christie works with some of today's most celebrated living composers. The names 
 
 She sings with such flexibility, but all guided by a rhetorical expressivity. It's not about calculation or the careful placement of everything, but about the declamation of the text and its emotions.
 
-Of course, expressivity is timeless and Christie finds that as he comes to know more and more singers through various productions, he'll frequently call them up ahead of time to say "hey, we have this show coming up in 5 or 6 months. Remember what we did in the Mozart? You can also do that in Moravec."
+Of course, expressivity is timeless and Christie finds that as he comes to know more and more singers through various productions, he'll frequently call them up ahead of time to say "hey, we have this show coming up in five or six months. Remember what we did in the Mozart? You can also do that in Moravec."
 
 As for general, but foundational, advice for young singers and conductors, Christie believes that preparation is key. But preparing a score by Mozart is one thing and one by Moravec another.
 
