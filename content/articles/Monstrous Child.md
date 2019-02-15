@@ -12,7 +12,7 @@ related_articles = ["articles/6-new-works-presented-at-various-stages-2017.md", 
 related_companies = ["scene/companies/royal-opera-house.md"]
 related_people = ["scene/people/Gavin Higgins.md"]
 short_description = "Though still young, Higgins is a seasoned composer; and though there are learning curves to writing for the voice, he wisely keeps his eyes on the final product: an opera for families."
-slug = "monstrous-child"
+slug = "dont-miss-the-monstrous-child"
 title = "Don't miss: The Monstrous Child"
 youtube_url = ""
 
