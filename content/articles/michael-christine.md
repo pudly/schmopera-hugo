@@ -19,7 +19,7 @@ youtube_url = ""
 +++
 When Schmopera first [interviewed conductor Michael Christie back in 2016](/michael-christie-new-opera-that-the-box-office-loves/), he was right in the thick of his tenure as Music Director of Minnesota Opera. Riding a stream of high-profile and highly lauded world premieres and commissions of new operas, Christie and the company established themselves among today's foremost new-music performers and as brilliant exemplars of what a 21st-century opera company could be.
 
-Maestro Christie is currently in Chicago to make his mainstage debut at Lyric Opera of Chicago with [Verdi's _La traviata_](https://www.lyricopera.org/concertstickets/calendar/2018-2019/la-traviata-opera-tickets). This venerable staple of the operatic canon might initially seem puzzling in light of Christie's skills and accomplishments with new music. (As of this writing, Christie has won a Grammy Award for his recording of Mason Bates' _The &#40;R&#41;evolution of Steve Jobs_ with Santa Fe Opera).
+Maestro Christie is currently in Chicago to make his mainstage debut at Lyric Opera of Chicago with [Verdi's _La traviata_](https://www.lyricopera.org/concertstickets/calendar/2018-2019/la-traviata-opera-tickets). This venerable staple of the operatic canon might initially seem puzzling in light of Christie's skills and accomplishments with new music. (As of this writing, Christie has won a Grammy Award for his recording of Mason Bates' _The (R)evolution of Steve Jobs_ with Santa Fe Opera).
 
 > "Already I have three southern-Californian composers lined up for new pieces. I've found an immense reserve of talent in that part of California and I'm excited to tap into it."
 
@@ -43,7 +43,7 @@ Christie works with some of today's most celebrated living composers. The names 
 
 **MC**: With a lot of the standard repertoire, I try to dig back as far as I can on YouTube. I like to get a comparative overview of performances: "Oh, this is how they did it in the 1940s in that country, then in the 1960s they were doing such and such things." Then Carlos Kleiber came along and did this totally miraculous thing. So yeah, I lean a lot on YouTube for those historical records.
 
-**MP** Many of those ancient recordings are really incredible, especially by the likes of, say, Adelina Patti (1843-1919) singing bel canto. Verdi himself was a great admirer of hers! In this recording of, for example, "Ah, non credea mirarti" one is instantly swept away by her expression (even if the voice itself perhaps shows some of its age; it was recorded already toward the end of her life.)
+**MP**: Many of those ancient recordings are really incredible, especially by the likes of, say, Adelina Patti (1843-1919) singing bel canto. Verdi himself was a great admirer of hers! In this recording of, for example, "Ah, non credea mirarti" one is instantly swept away by her expression (even if the voice itself perhaps shows some of its age; it was recorded already toward the end of her life.)
 
 <figure data-type="video">{{% md %}}<iframe width="806" height="453" src="https://www.youtube.com/embed/w2LY6YLHn7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
