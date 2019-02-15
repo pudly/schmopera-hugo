@@ -4,7 +4,7 @@ categories = "Interview"
 date = "2019-02-13T17:34:22+00:00"
 disclaimer = ""
 image_gallery = []
-postamble = "I'm grateful to Magda Krance for arranging this meeting with Maestro Christie."
+postamble = "I'm grateful to Magda Krance for arranging this meeting with Maestro Christie. For details and ticket information for LOC's _La traviata_, [click here](https://www.lyricopera.org/concertstickets/calendar/2018-2019/la-traviata-opera-tickets)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550079017/media/2019/02/sqMichaelChristieJamesDaniel.jpg"
 primary_image_credit = "Photo: James Daniel."
@@ -19,9 +19,9 @@ youtube_url = ""
 +++
 When Schmopera first [interviewed conductor Michael Christie back in 2016](/michael-christie-new-opera-that-the-box-office-loves/), he was right in the thick of his tenure as Music Director of Minnesota Opera. Riding a stream of high-profile and highly lauded world premieres and commissions of new operas, Christie and the company established themselves among today's foremost new-music performers and as brilliant exemplars of what a 21st-century opera company could be.
 
-Maestro Christie is currently in Chicago to make his mainstage debut at Lyric Opera of Chicago with Verdi's _La traviata_. This venerable staple of the operatic canon might initially seem puzzling in light of Christie's skills and accomplishments with new music. (As of this writing, Christie has won a Grammy Award for his recording of Mason Bates' _The (R)Evolution of Steve Jobs_ with Santa Fe Opera).
+Maestro Christie is currently in Chicago to make his mainstage debut at Lyric Opera of Chicago with [Verdi's _La traviata_](https://www.lyricopera.org/concertstickets/calendar/2018-2019/la-traviata-opera-tickets). This venerable staple of the operatic canon might initially seem puzzling in light of Christie's skills and accomplishments with new music. (As of this writing, Christie has won a Grammy Award for his recording of Mason Bates' _The (R)Evolution of Steve Jobs_ with Santa Fe Opera).
 
->"Already I have three southern-Californian composers lined up for new pieces. I've found an immense reserve of talent in that part of California and I'm excited to tap into it."
+> "Already I have three southern-Californian composers lined up for new pieces. I've found an immense reserve of talent in that part of California and I'm excited to tap into it."
 
 At the peak of the recent Polar vortex, I had the opportunity to catch up with Mo. Christie during a cancelled day of rehearsals due to the cold. What came through most vividly in our conversation are his qualities of thoughtfulness and forward-looking, which he applies consistently to scores whether they were composed 200 years ago or last week. Being a licensed pilot, he sets his sights on a newer and broader horizon not only for himself as a conductor, but for opera in America more generally.
 
@@ -37,7 +37,7 @@ Christie works with some of today's most celebrated living composers. The names 
 
 **Michael Christie (MC)**: I find it quite liberating because when you work with living composers, and you see the human element in creating a piece, you realize that they're restricted by the same little dots on the page as Verdi was. Living composers strive to get the drama out of a scene; it's like being an architect, building a powerful scene. It's clear to me that past composers wanted the same. So, I try to be as imaginative with Verdi as I am with a new piece. When I open the score, it's like I hear it saying: "be dramatic with me!" If a moment invites an additional second or two of time for the characters to look into each other eyes before saying "Addio," then it should be done. The audience would rather have that than pedantic counting of eighth-rests.
 
->"Every time I open a new score, I say to it: 'tell me about your language. How do you use the language?'"
+> "Every time I open a new score, I say to it: 'tell me about your language. How do you use the language?'"
 
 **MP:** Works like _La Traviata_ are so steeped in "tradition" by now: there are certain recordings that to this day are venerated and emulated. When approaching a classic, Christie goes for a more sweeping temporal scope.
 
@@ -69,7 +69,7 @@ As for general, but foundational, advice for young singers and conductors, Chris
 
 **MC**: Our first plan is that immediately once the first half concludes, we're going to hold a ten-minute interview with the artist(s) while the orchestra takes their break. The audience will be able to ask questions and participate as well. I've done this now at other places and it's gotten enthusiastic feedback. The other plan is called "Entr'acte." The intermission will be extended slightly and the during the last five-or-so minutes, we’re going to offer a new work. The audience will be free to sit in and listen, but won't be obliged to. The piece will be new (or new-ish, let's say). Already I have three southern-Californian composers lined up for new pieces. I've found an immense reserve of talent in that part of California and I'm excited to tap into it. I envision that some of the pieces will be with orchestra, some will be with small ensemble. I want to send a message to the audience that there will be new music on every concert. You're free to hear it or not, but if you do want to hear it, you'll be assured that it is there.
 
->"Something I'm determined to address if I get a chance to be part of a leadership team at a company is the pre-YAP pipeline and post-YAP career development."
+> "Something I'm determined to address if I get a chance to be part of a leadership team at a company is the pre-YAP pipeline and post-YAP career development."
 
 **MP**: Looking ahead, Christie is open about his aspirations to be music director of another major opera company. Having had the Minnesota Opera experience, Christie is determined to challenge lingering stereotypes about conductors being disinterested in any aspects of a productions beyond the music itself. "I love those things," Christie exclaims. "I love knowing how the masking is done for this and how the lighting is done for that, letting the director know that I notice things and that I'm there to help in the whole endeavour." I can't help but suspect that being a pilot influences his musical sensibilities. "I never thought about it that way," he replies, "but now that you say it, yes, I totally agree: an opera is indeed like a large aircraft to steer."
 
@@ -77,4 +77,4 @@ Building on his thoughts from 2016's interview, Christie is even more conscienti
 
 **MC**: One of the big questions for opera is how we manage the training programs, and even before the YAP phase. You know, thank goodness that we're beginning to deal more and more with questions and issues of diversity. But Young Artist Programs can't deal with the diversity questions if there isn't a pipeline beforehand. And also, what is of equal consequence, is what happens after the singers leave a program. Something I'm determined to address if I get a chance to be part of a leadership team at a company is the pre-YAP pipeline and post-YAP career development.
 
-**MP**: With Maestro Christie conducting and Arin Arbus directing, LOC's _La traviata_ promises to be a thoughtful and engaging production. The show opens this Saturday evening, February 16, and runs for 10 performances. Don't miss it, Chicagoland!
+**MP**: With Maestro Christie conducting and Arin Arbus directing, [LOC's _La traviata_](https://www.lyricopera.org/concertstickets/calendar/2018-2019/la-traviata-opera-tickets) promises to be a thoughtful and engaging production. The show opens this Saturday evening, February 16, and runs for 10 performances. Don't miss it, Chicagoland!
