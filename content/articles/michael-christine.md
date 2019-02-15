@@ -10,7 +10,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550079017/m
 primary_image_credit = "Photo: James Daniel."
 related_articles = ["articles/michael-christie-new-opera-that-the-box-office-loves.md"]
 related_companies = ["scene/companies/minnesota-opera.md", "scene/companies/lyric-opera-of-chicago.md"]
-related_people = []
+related_people = ["scene/people/michael-christie.md"]
 short_description = "\"You know, thank goodness that we're beginning to deal more and more with questions and issues of diversity. But Young Artist Programs can't deal with the diversity questions if there isn't a pipeline beforehand.\""
 slug = "talking-with-conductors-michael-christie"
 title = "Talking with conductors: Michael Christie"
@@ -27,9 +27,9 @@ At the peak of the recent Polar vortex, I had the opportunity to catch up with M
 
 Christie works with some of today's most celebrated living composers. The names of Mason Bates, Mark Adamo, Osvaldo Golijov, Paul Moravec, Ricky Ian Gordon, and Kevin Puts (whose Pulitzer-Prize-winning opera _Silent Night_ was commissioned and premiered by Christie and Minnesota Opera) figure prominently and regularly on Christie's programming.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550167062/media/2019/02/MichaelChristieJamesDaniel.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550191305/media/2019/02/LYR190213_196.jpg){{% /md %}}
 
-<figcaption>Michae Christie, conductor. Photo: James Daniel.</figcaption>
+<figcaption>Michael Christie in rehearsal for La traviata at Lyric Opera of Chicago. Photo: Todd Rosenberg.</figcaption>
 
 </figure>
 
@@ -59,9 +59,9 @@ As for general, but foundational, advice for young singers and conductors, Chris
 
 **MC**: I would say it's not dissimilar, actually. Of course there are different considerations, but that's typical of any score. But with a new work, something that I'm increasingly more aware of, is that in the earliest performances, we are laying a path toward a tradition in a certain sense. Consequently, I try to be a little bit careful with certain choices. I always like to call up the composer with questions, like "what exactly is the relationship between the stage and pit at this moment?" "Is it more atmospheric? More internal character? Emotionally driven?" Also, every time I open a new score, I say to it: "tell me about your language. How do you use the language?" When the use of the language or the expressivity of the language isn't obvious, that's when I start thinking "Hm, how are we going to make this work?"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550079256/media/2019/02/MichaelChristieTimTrumble.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550191443/media/2019/02/LYR190213_021.jpg){{% /md %}}
 
-<figcaption>Photo: Tim Trumble.</figcaption>
+<figcaption>Michael Christie in rehearsal for La traviata at Lyric Opera of Chicago. Photo: Todd Rosenberg.</figcaption>
 
 </figure>
 
