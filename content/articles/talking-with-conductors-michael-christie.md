@@ -19,7 +19,7 @@ youtube_url = ""
 +++
 When Schmopera first [interviewed conductor Michael Christie back in 2016](/michael-christie-new-opera-that-the-box-office-loves/), he was right in the thick of his tenure as Music Director of Minnesota Opera. Riding a stream of high-profile and highly lauded world premieres and commissions of new operas, Christie and the company established themselves among today's foremost new-music performers and as brilliant exemplars of what a 21st-century opera company could be.
 
-Maestro Christie is currently in Chicago to make his mainstage debut at Lyric Opera of Chicago with [Verdi's _La traviata_](https://www.lyricopera.org/concertstickets/calendar/2018-2019/la-traviata-opera-tickets). This venerable staple of the operatic canon might initially seem puzzling in light of Christie's skills and accomplishments with new music. (As of this writing, Christie has won a Grammy Award for his recording of Mason Bates' _The (R)evolution of Steve Jobs_ with Santa Fe Opera).
+Maestro Christie is currently in Chicago to make his mainstage debut at Lyric Opera of Chicago with [Verdi's _La traviata_](https://www.lyricopera.org/concertstickets/calendar/2018-2019/la-traviata-opera-tickets). This venerable staple of the operatic canon might initially seem puzzling in light of Christie's skills and accomplishments with new music. (As of this writing, Christie has won a Grammy Award for his recording of Mason Bates' _The &#40;R&#41;evolution of Steve Jobs_ with Santa Fe Opera).
 
 > "Already I have three southern-Californian composers lined up for new pieces. I've found an immense reserve of talent in that part of California and I'm excited to tap into it."
 
