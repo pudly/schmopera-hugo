@@ -2,10 +2,10 @@
 date = "2015-04-14T10:21:00-04:00"
 discipline = "Soprano"
 lastmod = "2015-04-14T10:21:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429021011537/Mireille11F_sized.jpg.jpg"
-primary_image_credit = "Photo by Matthew Fried"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550427185/media/2019/02/MireilleAsselinBoHuang.jpg"
+primary_image_credit = "Photo by Bo Huang."
 publishDate = "2015-04-14T10:21:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/the-metropolitan-opera.md","scene/companies/wolf-trap-opera.md"]
+related_companies = ["scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md", "scene/companies/against-the-grain-theatre.md", "scene/companies/odyssey-opera.md", "scene/companies/opera-atelier.md", "scene/companies/canadian-opera-company.md", "scene/companies/canadian-opera-company-ensemble-studio.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/wolf-trap-opera.md"]
 slug = "mireille-asselin"
 title = "Mireille Asselin"
 website = "http://www.mireilleasselin.com/"
@@ -17,10 +17,16 @@ url = "https://www.facebook.com/pages/Mireille-Asselin-Soprano/192666657416098?f
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/MireilleSoprano"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/mireilleasselin/"
+
 +++
+Soprano Mireille Asselin, hailed for her “crystalline voice” and “abundant charm,” continues to build an already exciting career in 2017-2018. A return to her native Canada, for Susanna in _Le Nozze di Figaro_ with Opera Atelier, precedes her fifth season at the Metropolitan Opera, where she covers Valencienne in _The Merry Widow_. Ms. Asselin “stole the show” in her 2015 Met debut as Adele in _Die Fledermaus_, conducted by James Levine.
 
-Soprano Mireille Asselin’s 2014-15 season will include her debut with the Metropolitan Opera as Poussette in *Manon*, a return to Opera Atelier as Morgana in *Alcina*, concert debuts with the Edmonton Symphony in *Messiah*, Calgary Philharmonic for *Carmina Burana* and solo appearances with the Opera Lyra, Ottawa Choral Society, Colorado Bach Ensemble, Indianapolis Chamber Orchestra, Amici Chamber Ensemble (Toronto) and Johnstown (PA) Symphony. She will also return to the Boston Early Music Festival for multiple roles in the 2015 Monteverdi Festival. In the summer of 2015, she will sing concerts with the Lanaudiere Festival, Québec.
+A champion of contemporary music, Ms. Asselin is also developing the role of Eleanor of Aquitaine in _Sanctuary and Storm_, a new opera for Re:Naissance Opera in Toronto, with preview performances planned for January 2018. In April 2018, she makes a role and company debut as Eurydice in Opera Columbus’s new production of Gluck’s _Orphée et Eurydice_ (in the Berlioz version), adding to an operatic repertoire that includes such roles as Pamina, Nannetta, Musetta, and Thérèse (Poulenc’s _Les Mamelles de Tirésias_).
 
-Ms. Asselin joined the Metropolitan Opera during the 2013-14 season as the first cover of Adele in the new production of *Die Fledermaus*. She was a member of the Canadian Opera Company’s Ensemble Studio from 2011-13, where her roles included Adele, Servilia in *La clemenza di Tito*, and the title role in a studio production of *Semele*. She has also appeared in leading roles with Wolf Trap Opera, Opera Atelier, the Glimmerglass Festival and the Boston Early Music Festival.
+During the 2016-2017 Metropolitan Opera season, Ms. Asselin covered the roles of Jemmy in _Guillaume Tell_ and Rosina in _Il Barbiere di Siviglia_. Audiences at Opera Atelier and the Royal Opera of the Palace of Versailles saw her as Créuse in Charpentier’s _Medée_. She also made notable concert debuts with the Minnesota Orchestra, in Handel’s _Messiah_, and with Boston’s Handel and Haydn Society, as Iris in _Semele_.
 
-Mireille has performed on concert stages across North America and in England, including recent performances at Carnegie Hall and with the Britten-Pears Ensemble and Bach Collegium, San Diego. A native of Ottawa, ON, she holds degrees from the Yale School of Music and the Glenn Gould School of the Royal Conservatory of Music in Toronto.
+Appropriately for such a versatile artist, Ms. Asselin’s concert and recital dates in 2017-2018 include a Boston recital of travel songs by Barber, Berlioz, and others in September, and a debut in November with the North Carolina Symphony, singing the soprano solos in Mozart’s Requiem and the Vaughan Williams _Pastoral Symphony_. In February 2018, she joins members of the Tafelmusik Baroque Orchestra, dancers from Opera Atelier, and others, in Toronto for a reprise of _Harmonia Sacra_, a recital of sacred works by Purcell. The group first performed this highly successful program in May 2017 in the Palace of Versailles in France.
