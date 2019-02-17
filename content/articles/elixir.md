@@ -7,17 +7,17 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550431945/media/2019/02/sqElixir4.jpg"
-primary_image_credit = "A scene from The Elixir of Love, Opera Omaha, 2019. Photo courtesy of Opera Omaha."
+primary_image_credit = "A scene from The Elixir of Love, Opera Omaha, 2019. Photo: Jim Sholtz/Opera Omaha."
 related_articles = ["articles/he-saidshe-said-a-sweet-elixir-at-the-coc.md"]
 related_companies = ["scene/companies/opera-omaha.md"]
 related_people = ["scene/people/taylor-stayton.md", "scene/people/deanna-breiwick.md"]
-short_description = "short"
+short_description = "While The Elixir of Love is a comedic masterpiece, Donizetti's music ranges from brilliant and bubbly to languid and lush. The orchestra, led by David Agler, showcased this mercurial ambiance with clarity and nuance."
 slug = "bel-canto-barbie-other-gems-opera-omahas-elixir-of-love"
 title = "Bel Canto Barbie & other gems: Opera Omaha's Elixir of Love"
 youtube_url = ""
 
 +++
-Imagine a bel canto version of a Brat Pack movie. It might sound strange, but [Opera Omaha](/scene/companies/opera-omaha/)'s production of Donizetti's _The Elixir of Love_ combines a timeless operatic love story with modern high school movie tropes to create the perfect comedic cocktail. The emotions are universal, so whether the setting is an 18th-century village or a 20th-century art school, it still feels believable and genuine. Opera Omaha provided a fresh and fun take on a beloved opera classic that is sure to please opera aficionados and newcomers alike.
+Imagine a bel canto version of a Brat Pack movie. It might sound strange, but [Opera Omaha](/scene/companies/opera-omaha/)'s production of Donizetti's [_The Elixir of Love_](https://www.operaomaha.org/season-tickets/current-season/2018-2019-season/the-elixir-of-love) combines a timeless operatic love story with modern high school movie tropes to create the perfect comedic cocktail. The emotions are universal, so whether the setting is an 18th-century village or a 20th-century art school, it still feels believable and genuine. Opera Omaha provided a fresh and fun take on a beloved opera classic that is sure to please opera aficionados and newcomers alike.
 
 > All the stereotypical high school characters were present - the popular girls, the sensitive outsider, the bullies.
 
@@ -29,9 +29,9 @@ Every design element of the production stayed true to the 80s-90s teen movie aes
 
 </figure>
 
-While _The Elixir of Love_ is a comedic masterpiece, Donizetti’s music ranges from brilliant and bubbly to languid and lush. The orchestra, led by David Agler, showcased this mercurial ambiance with clarity and nuance.
+While _The Elixir of Love_ is a comedic masterpiece, Donizetti's music ranges from brilliant and bubbly to languid and lush. The orchestra, led by David Agler, showcased this mercurial ambiance with clarity and nuance.
 
-The chorus, under the direction of Sean Kelly, was comprised of clearly defined cliques - each faction reminiscent of an iconic high school movie. The majority were serving serious _Fame_ vibes with leg warmers and side ponies set against an art school backdrop. Adina and her cheerleader pals looked like they walked straight off the set of _Clueless_ in their plaid mini skirts and flawless make up. Belcore's gang felt like a mashup of the T-Birds and the Cobra Kai without any of the fighting skills. All the stereotypical high school characters were present - the popular girls, the sensitive outsider, the bullies. (They even had a quirky kid who always wears a fedora! Every school has one of those guys, I swear.)
+The chorus, under the direction of Sean Kelly, was comprised of clearly defined cliques - each faction reminiscent of an iconic high school movie. The majority were serving serious _Fame_ vibes with leg warmers and side ponies set against an art school backdrop. Adina and her cheerleader pals looked like they walked straight off the set of _Clueless_ in their plaid mini skirts and flawless make-up. Belcore's gang felt like a mashup of the T-Birds and the Cobra Kai without any of the fighting skills. All the stereotypical high school characters were present - the popular girls, the sensitive outsider, the bullies. (They even had a quirky kid who always wears a fedora! Every school has one of those guys, I swear.)
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550432026/media/2019/02/Elixir3.jpg){{% /md %}}
 
@@ -61,7 +61,7 @@ Director Rosetta Cucchi utilizes the chorus with strategic brilliance, enhancing
 
 </figure>
 
-Alessandro Luongo was pure comedy gold in the role of Dulcamara. His look felt like a mashup of Wooderson from _Dazed and Confused_ and Leo from _That 70’s Show_. Riding in on a motorcycle and peddling drugs in a trench coat, the bass displayed the easy confidence of a smooth talking con man. Not content to relegate Luongo to a few key scenes, Rosetta Cucchi made Dulcamara an omnipresent source of hilarity throughout the opera, inserting him into the life of the high school and creating funny moments in the background of every scene. 
+Alessandro Luongo was pure comedy gold in the role of Dulcamara. His look felt like a mashup of Wooderson from _Dazed and Confused_ and Leo from _That 70’s Show_. Riding in on a motorcycle and peddling drugs in a trench coat, the bass displayed the easy confidence of a smooth talking con man. Not content to relegate Luongo to a few key scenes, Rosetta Cucchi made Dulcamara an omnipresent source of hilarity throughout the opera, inserting him into the life of the high school and creating funny moments in the background of every scene.
 
 Dulcamara has multiple secret rendezvous with school staff members, DJs for a party, and models for a painting class. In one particularly memorable scene, the girls, led by Shelby VanNordstrand as the spunky Giannetta, engage in a slow motion cat fight over Nemorino in an art studio, smashing canvases over heads and smearing paint on each other. Dulcamara gets dragged into the turmoil against his will, and his facial expressions as he kept trying to escape had me in stitches!
 
