@@ -24,19 +24,19 @@ The production begins with an on-stage puppet show. A group of kids watches inte
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550428045/media/2019/02/440FrankfurtHG2014.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Peter Marsh (the Witch) in Oper Frankfurt's 2014 production of Hänsel und Gretel. Photo: Monika Rittershaus.</figcaption>
 
 </figure>
 
 The production puts Hänsel and Gretel (played by clear-voiced soprano Karen Vuong) in an orphanage; a puzzling if manipulative change to the original setting. It's as if the director, worried about the story's stakes, has decided he must take the children' parents away too.
 
->Every good fairy tale has a teachable moral, and this evening's was one for many of today's opera directors: don't mess with a story that works.
+> Every good fairy tale has a teachable moral, and this evening's was one for many of today's opera directors: don't mess with a story that works.
 
 The siblings cruise through typical staging: bickering, dancing, and finally making enough ruckus that their mother, who they seem to have dreamed into existence, accidently nudges the last morsel of food – a (strangely unbreakable) jug of milk – off the counter. The mother exiles the children to the woods as punishment.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550428267/media/2019/02/447FrankfurtHG2014.jpg){{% /md %}}
 
-<figcaption>in Oper Frankfurt's 2014 production of Hänsel und Gretel. Photo: Monika Rittershaus.</figcaption>
+<figcaption>Louise Alder (Gretel) and Peter Marsh (the Witch) in Oper Frankfurt's 2014 production of Hänsel und Gretel. Photo: Monika Rittershaus.</figcaption>
 
 </figure>
 
@@ -46,7 +46,7 @@ Confused yet? All this tangential semi-storytelling has negligible narrative val
 
 Fortunately, the production's second half returns to the Brothers Grimm's plot and keeps the original story almost entirely intact.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550428328/media/2019/02/446FrankfurtHG2014.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
@@ -54,7 +54,7 @@ Fortunately, the production's second half returns to the Brothers Grimm's plot a
 
 The two youngsters approach a rundown house. No candy or gingerbread here. As they're yanked inside, the house rotates to reveal its interior. The upper floors have a charming Alice and Wonderland decor while the basement looks like Saw III. A shower curtain half-heartedly conceals a blood spattered meat freezer surrounded by suspended corpses of doll children. A huge oven, sporting a crafty German design, sits ominously in the middle of the room. Its exterior has a felt-like texture, but that makes it neither cheesy nor benign.
 
->The audience tittered gleefully, high on fairytale whimsy, as Gretel kicked the villain into the oven.
+> The audience tittered gleefully, high on fairytale whimsy, as Gretel kicked the villain into the oven.
 
 Peter Marsh's witch, like Jim Carrey's Grinch, is full of verve and spunk, and no less likeable for his gleeful wickedness. With a shaved head and a thrown-on flower print frock, he couldn't care less about passing as a witch or a woman.
 
