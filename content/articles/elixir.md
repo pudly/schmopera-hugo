@@ -3,18 +3,17 @@ author = ["authors/meghan-klinkenborg.md"]
 categories = "Review"
 date = "2019-02-17T19:25:22+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550431945/media/2019/02/sqElixir4.jpg"
 primary_image_credit = "A scene from The Elixir of Love, Opera Omaha, 2019. Photo courtesy of Opera Omaha."
-related_articles = []
-related_companies = []
-related_people = []
+related_articles = ["articles/he-saidshe-said-a-sweet-elixir-at-the-coc.md"]
+related_companies = ["scene/companies/opera-omaha.md"]
+related_people = ["scene/people/taylor-stayton.md", "scene/people/deanna-breiwick.md"]
 short_description = "short"
-slug = "elixir"
-title = "Elixir"
+slug = "bel-canto-barbie-other-gems-opera-omahas-elixir-of-love"
+title = "Bel Canto Barbie & other gems: Opera Omaha's Elixir of Love"
 youtube_url = ""
 
 +++
@@ -62,7 +61,9 @@ Director Rosetta Cucchi utilizes the chorus with strategic brilliance, enhancing
 
 </figure>
 
-Alessandro Luongo was pure comedy gold in the role of Dulcamara. His look felt like a mashup of Wooderson from _Dazed and Confused_ and Leo from _That 70’s Show_. Riding in on a motorcycle and peddling drugs in a trench coat, the bass displayed the easy confidence of a smooth talking con man. Not content to relegate Luongo to a few key scenes, Rosetta Cucchi made Dulcamara an omnipresent source of hilarity throughout the opera, inserting him into the life of the high school and creating funny moments in the background of every scene. Dulcamara has multiple secret rendezvous with school staff members, DJs for a party, and models for a painting class. In one particularly memorable scene, the girls, led by Shelby VanNordstrand as the spunky Giannetta, engage in a slow motion cat fight over Nemorino in an art studio, smashing canvases over heads and smearing paint on each other. Dulcamara gets dragged into the turmoil against his will, and his facial expressions as he kept trying to escape had me in stitches!
+Alessandro Luongo was pure comedy gold in the role of Dulcamara. His look felt like a mashup of Wooderson from _Dazed and Confused_ and Leo from _That 70’s Show_. Riding in on a motorcycle and peddling drugs in a trench coat, the bass displayed the easy confidence of a smooth talking con man. Not content to relegate Luongo to a few key scenes, Rosetta Cucchi made Dulcamara an omnipresent source of hilarity throughout the opera, inserting him into the life of the high school and creating funny moments in the background of every scene. 
+
+Dulcamara has multiple secret rendezvous with school staff members, DJs for a party, and models for a painting class. In one particularly memorable scene, the girls, led by Shelby VanNordstrand as the spunky Giannetta, engage in a slow motion cat fight over Nemorino in an art studio, smashing canvases over heads and smearing paint on each other. Dulcamara gets dragged into the turmoil against his will, and his facial expressions as he kept trying to escape had me in stitches!
 
 > The production stays true to the core emotions of Donizetti's piece, but the familiar setting and pop culture references highlighted those themes without overshadowing them.
 
