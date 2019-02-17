@@ -20,7 +20,7 @@ youtube_url = ""
 +++
 Oper Frankfurt's 2014 production of _Hänsel und Gretel_ (directed by Keith Warner), recently in revival, has enough conceptual story alterations to appear modern. However, the show only succeeds when it sticks closely to its source material.
 
-The production begins with an on-stage puppet show. A group of kids watches intently, Hänsel included (played by Cecilia Hall). Hall blends in well with the children. As a boy, she throws her lanky frame around like an impetuous, fun-loving little doofus. Hall shaves a shade of richness off her voice for the role, giving her tone a nimbler effervescence.
+The production begins with an on-stage puppet show. A group of kids watches intently, Hänsel included (played by [Cecilia Hall](/scene/people/cecilia-hall/)). Hall blends in well with the children. As a boy, she throws her lanky frame around like an impetuous, fun-loving little doofus. Hall shaves a shade of richness off her voice for the role, giving her tone a nimbler effervescence.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550428045/media/2019/02/440FrankfurtHG2014.jpg){{% /md %}}
 
@@ -32,7 +32,7 @@ The production puts Hänsel and Gretel (played by clear-voiced soprano Karen Vuo
 
 > Every good fairy tale has a teachable moral, and this evening's was one for many of today's opera directors: don't mess with a story that works.
 
-The siblings cruise through typical staging: bickering, dancing, and finally making enough ruckus that their mother, who they seem to have dreamed into existence, accidently nudges the last morsel of food – a (strangely unbreakable) jug of milk – off the counter. The mother exiles the children to the woods as punishment.
+The siblings cruise through typical staging: bickering, dancing, and finally making enough ruckus that their mother, who they seem to have dreamed into existence, accidentally nudges the last morsel of food – a (strangely unbreakable) jug of milk – off the counter. The mother exiles the children to the woods as punishment.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550428267/media/2019/02/447FrankfurtHG2014.jpg){{% /md %}}
 
@@ -48,19 +48,19 @@ Fortunately, the production's second half returns to the Brothers Grimm's plot a
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550428328/media/2019/02/446FrankfurtHG2014.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Louise Alder (Gretel) and Katharina Magiera (Hänsel) in Oper Frankfurt's 2014 production of Hänsel und Gretel. Photo: Monika Rittershaus.</figcaption>
 
 </figure>
 
-The two youngsters approach a rundown house. No candy or gingerbread here. As they're yanked inside, the house rotates to reveal its interior. The upper floors have a charming Alice and Wonderland decor while the basement looks like Saw III. A shower curtain half-heartedly conceals a blood spattered meat freezer surrounded by suspended corpses of doll children. A huge oven, sporting a crafty German design, sits ominously in the middle of the room. Its exterior has a felt-like texture, but that makes it neither cheesy nor benign.
+The two youngsters approach a rundown house. No candy or gingerbread here. As they're yanked inside, the house rotates to reveal its interior. The upper floors have a charming Alice-in-Wonderland decor while the basement looks like _Saw III_. A shower curtain half-heartedly conceals a blood spattered meat freezer surrounded by suspended corpses of doll children. A huge oven, sporting a crafty German design, sits ominously in the middle of the room. Its exterior has a felt-like texture, but that makes it neither cheesy nor benign.
 
 > The audience tittered gleefully, high on fairytale whimsy, as Gretel kicked the villain into the oven.
 
 Peter Marsh's witch, like Jim Carrey's Grinch, is full of verve and spunk, and no less likeable for his gleeful wickedness. With a shaved head and a thrown-on flower print frock, he couldn't care less about passing as a witch or a woman.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550428596/media/2019/02/444FrankfurtHG2014.jpg){{% /md %}}
 
-<figcaption>in Oper Frankfurt's 2014 production of Hänsel und Gretel. Photo: Monika Rittershaus.</figcaption>
+<figcaption>Heidi Melton (Mother) and Louise Alder (Gretel) in Oper Frankfurt's 2014 production of Hänsel und Gretel. Photo: Monika Rittershaus.</figcaption>
 
 </figure>
 
@@ -70,9 +70,9 @@ The opera rushed to the witch's unceremonious demise with momentum. The audience
 
 Ultimately, the show works whether the conceptual framing does or not (it doesn't). Frankfurt's ever reliable ensemble singers carried the production – Claudia Mahnke and Simon Bailey were strong in the notoriously thankless roles of the mother and father, respectively. The story is timeless and beloved and Humperdinck's music feels more 1990s and then 1890s with a familiar movie-like motivic structure and sweep that still compels.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550428685/media/2019/02/442FrankfurtHG2014.jpg){{% /md %}}
 
-<figcaption>in Oper Frankfurt's 2014 production of Hänsel und Gretel. Photo: Monika Rittershaus.</figcaption>
+<figcaption>Louise Alder (Gretel) and Katharina Magiera (Hänsel) in Oper Frankfurt's 2014 production of Hänsel und Gretel. Photo: Monika Rittershaus.</figcaption>
 
 </figure>
 
