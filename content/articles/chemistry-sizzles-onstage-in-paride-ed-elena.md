@@ -3,7 +3,6 @@ author = ["authors/arturo-fernandez.md"]
 categories = "Review"
 date = "2019-02-17T17:53:14+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
