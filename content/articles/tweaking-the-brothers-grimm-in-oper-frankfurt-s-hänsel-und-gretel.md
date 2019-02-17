@@ -28,7 +28,7 @@ The production begins with an on-stage puppet show. A group of kids watches inte
 
 </figure>
 
-The production puts Hänsel and Gretel (played by clear-voiced soprano Karen Vuong) in an orphanage; a puzzling if manipulative change to the original setting. It's as if the director, worried about the story's stakes, has decided he must take the children' parents away too.
+The production puts Hänsel and Gretel (played by clear-voiced soprano [Karen Vuong](/scene/people/karen-vuong/)) in an orphanage; a puzzling if manipulative change to the original setting. It's as if the director, worried about the story's stakes, has decided he must take the children' parents away too.
 
 > Every good fairy tale has a teachable moral, and this evening's was one for many of today's opera directors: don't mess with a story that works.
 
@@ -56,7 +56,7 @@ The two youngsters approach a rundown house. No candy or gingerbread here. As th
 
 > The audience tittered gleefully, high on fairytale whimsy, as Gretel kicked the villain into the oven.
 
-Peter Marsh's witch, like Jim Carrey's Grinch, is full of verve and spunk, and no less likeable for his gleeful wickedness. With a shaved head and a thrown-on flower print frock, he couldn't care less about passing as a witch or a woman.
+[Peter Marsh](/scene/people/peter-marsh/)'s witch, like Jim Carrey's Grinch, is full of verve and spunk, and no less likeable for his gleeful wickedness. With a shaved head and a thrown-on flower print frock, he couldn't care less about passing as a witch or a woman.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550428596/media/2019/02/444FrankfurtHG2014.jpg){{% /md %}}
 
