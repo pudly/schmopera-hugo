@@ -2,10 +2,10 @@
 date = "2017-09-18T15:38:00-04:00"
 discipline = "Mezzo-soprano"
 lastmod = "2017-09-18T15:39:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505763183724/cecelia-hall-cropped-8652---d--acosta.jpg.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550429025/media/2019/02/CeceliaHallDarioAcosta.jpg"
 primary_image_credit = "Dario Acosta"
 publishDate = "2017-09-18T15:38:00-04:00"
-related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/the-santa-fe-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/canadian-opera-company.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/oper-frankfurt.md","scene/companies/seattle-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/the-metropolitan-opera.md","scene/companies/the-juilliard-school.md"]
+related_companies = ["scene/companies/opera-philadelphia.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/canadian-opera-company.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/oper-frankfurt.md", "scene/companies/seattle-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/the-juilliard-school.md"]
 slug = "cecelia-hall"
 title = "Cecelia Hall"
 website = "http://ceceliahall.com/"
@@ -21,8 +21,8 @@ url = "https://twitter.com/cecehallsings"
 platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/cecelia-hall"
-+++
 
++++
 American Cecelia Hall is one of today’s most established young mezzo-sopranos. Hailed by the Financial Times for her 'easy flexibility, arresting poise and enveloping warmth', she has appeared since 2014 in leading roles at many of the world’s finest stages, including Munich’s Bayerische Staatsoper, The Santa Fe Opera, Seattle Opera, Lyric Opera of Chicago, Canadian Opera Company, Opera Philadelphia, and Oper Frankfurt, where she is a member of the ensemble.
 
 Ms. Hall begins the 2017-18 season with a return to Opera Philadelphia, where she stars in *War Stories* (a double bill of Monteverdi's *Il combattimento di Tancredi e Clorinda* and Beecher's *I Have No Stories To Tell You*) as part of the much anticipated Festival 017, for which she is featured on the cover of Opera News (August 2017). She then returns to Oper Frankfurt to debut the title role of Purcell's *Dido and Aeneas* and the leading lady in the world's first staging of Zelenka's *Il Serpente di Bronzo*. Ms. Hall will also appear in Frankfurt this season as Dorabella in *Così fan tutte*, Vlasta in *Die Passagierin*, and Wellgunde in *Das Rheingold*.
