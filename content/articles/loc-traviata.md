@@ -13,8 +13,8 @@ related_articles = []
 related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
 related_people = ["scene/people/albina-shagimuratova.md"]
 short_description = "Director Arin Arbus returns to re-mount her production of La traviata from LOC's 2013-14 season. Conductor Michael Christie, making his own LOC debut with this run, brings his expertise in new music to bear on this classic score, leading the LOC orchestra with urgency and dramatic sensitivity."
-slug = "loc-traviata"
-title = "LOC Traviata"
+slug = "left-wanting-more-la-traviata-in-chicago"
+title = "Left wanting more: La traviata in Chicago"
 youtube_url = ""
 
 +++
