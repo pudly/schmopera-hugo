@@ -3,7 +3,6 @@ author = ["authors/melissa-ratcliff.md"]
 categories = "Review"
 date = "2019-02-18T18:45:51+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "La traviata runs at Pacific Opera Victoria through February 24. For details and ticket information, [click here](https://www.pov.bc.ca/traviata.html)."
 preamble = ""
@@ -13,8 +12,8 @@ related_articles = ["articles/roh-traviata.md", "articles/strong-ensemble-lifts-
 related_companies = []
 related_people = []
 short_description = "The POV chorus deserves a huge shoutout for this production, the chorus numbers were incredibly precise, blended perfectly, and the choreography in the large number of dance routines they were given was brilliant."
-slug = "pov-traviata"
-title = "POV Traviata"
+slug = "a-delight-for-the-senses-la-traviata-in-victoria"
+title = "A delight for the senses: La traviata in Victoria"
 youtube_url = ""
 
 +++
