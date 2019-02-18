@@ -7,12 +7,12 @@ draft = true
 image_gallery = []
 postamble = "_La Traviata_ runs at the Lyric Opera House for nine more performances through March 22. For details and ticket information, [click here](https://www.lyricopera.org/concertstickets/calendar/2018-2019/la-traviata-opera-tickets)."
 preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550526978/media/2019/02/sqAlbinaShagimuratova_GiorgioBerrugi_LATRAVIATA_LyricOperaofChicago_CU39.jpg"
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550530429/media/2019/02/AlbinaShagimuratova_ZeljkoLucic_LATRAVIATA_LyricOperaofChicago_LYR190213_292.jpg"
+primary_image_credit = "Željko Lučić (Germont) and Albina Shagimuratova (Violetta) in La traviata, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg."
 related_articles = []
 related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
 related_people = ["scene/people/albina-shagimuratova.md"]
-short_description = "short"
+short_description = "Director Arin Arbus returns to re-mount her production of La traviata from LOC's 2013-14 season. Conductor Michael Christie, making his own LOC debut with this run, brings his expertise in new music to bear on this classic score, leading the LOC orchestra with urgency and dramatic sensitivity."
 slug = "loc-traviata"
 title = "LOC Traviata"
 youtube_url = ""
@@ -24,7 +24,7 @@ The [Lyric Opera of Chicago](/scene/companies/lyric-opera-of-chicago/)'s 2018-19
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550527692/media/2019/02/LATRAVIATA_LyricOperaofChicago_WS7.jpg){{% /md %}}
 
-<figcaption> in La traviata, Lyric Opera of Chicago, 2019. Photo: </figcaption>
+<figcaption>A scene from La traviata, Lyric Opera of Chicago, 2019. Photo: </figcaption>
 
 </figure>
 
@@ -34,7 +34,7 @@ Part of the problem was in the staging. In the crucial Act I party scene, where 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550527857/media/2019/02/AlbinaShagimuratova_GiorgioBerrugi_LATRAVIATA_LyricOperaofChicago_LYR190213_512.jpg){{% /md %}}
 
-<figcaption> in La traviata, Lyric Opera of Chicago, 2019. Photo: </figcaption>
+<figcaption>Giorgio Berrugi (Alfredo ) and Albina Shagimuratova (Violetta) in La traviata, Lyric Opera of Chicago, 2019. Photo: </figcaption>
 
 </figure>
 
@@ -44,7 +44,7 @@ The stage dynamics improved somewhat in Act II thanks in large part to the Serbi
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550528045/media/2019/02/GiorgioBerrugi_LATRAVIATA_LyricOperaofChicago_LYR190213_328.jpg){{% /md %}}
 
-<figcaption> in La traviata, Lyric Opera of Chicago, 2019. Photo: </figcaption>
+<figcaption>Giorgio Berrugi (Alfredo) in La traviata, Lyric Opera of Chicago, 2019. Photo: </figcaption>
 
 </figure>
 
@@ -54,7 +54,7 @@ American mezzo-soprano Zoie Reams makes her LOC debut as Flora. Dressed like a S
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550528086/media/2019/02/AlbinaShagimuratova_GiorgioBerrugi_MarioRojas_LATRAVIATA_LyricOperaofChicagoLYR190213_056.jpg){{% /md %}}
 
-<figcaption> in La traviata, Lyric Opera of Chicago, 2019. Photo: </figcaption>
+<figcaption>Giorgio Berrugi (Alfredo), Mario Rojas (Gastone) and Albina Shagimuratova (Violetta) in La traviata, Lyric Opera of Chicago, 2019. Photo: </figcaption>
 
 </figure>
 
@@ -62,7 +62,7 @@ Elsewhere in the production, Riccardo Hernandez's sets together with Marcus Dosh
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550528137/media/2019/02/AlbinaShagimuratova_GiorgioBerrugi_ZeljkoLuc%CC%8Cic%CC%81_LATRAVIATA_LyricOperaofChicago_CU71.jpg){{% /md %}}
 
-<figcaption> in La traviata, Lyric Opera of Chicago, 2019. Photo: </figcaption>
+<figcaption>Albina Shagimuratova (Violetta) and Giorgio Berrugi (Alfredo) in La traviata, Lyric Opera of Chicago, 2019. Photo: </figcaption>
 
 </figure>
 
