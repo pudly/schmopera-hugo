@@ -39,7 +39,7 @@ Alfredo was brilliantly portrayed by tenor [Colin Ainsworth](/scene/people/colin
 
 > POV's _Traviata_ was a delight for the senses, and full of heartfelt emotions, beautiful sets, costumes, love, heartbreak, and hope.
 
-Bass-baritone Peter Monaghan was a standout in the role of Marchese d'Obigny. With a rich, sonorous bass, his performance was funny when being accused of infidelity, and was a pleasure to listen to. Bass-baritone Alexandre Sylvestre as Baron Douphol was the perfect foil to Ainsworth's Alfredo. Cruel and thoughtless in his casual possession of Violetta, he was vocally strong and clear, egging on Alfredo's rage into the inevitable confrontation.
+Bass-baritone Peter Monaghan was a standout in the role of Marchese d'Obigny. With a rich, sonorous bass, his performance was funny when being accused of infidelity, and was a pleasure to listen to. Bass-baritone [Alexandre Sylvestre](/scene/people/alexandre-sylvestre/) as Baron Douphol was the perfect foil to Ainsworth's Alfredo. Cruel and thoughtless in his casual possession of Violetta, he was vocally strong and clear, egging on Alfredo's rage into the inevitable confrontation.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550515941/media/2019/02/LATRAVIATA_0520.jpg){{% /md %}}
 
