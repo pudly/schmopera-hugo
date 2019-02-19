@@ -3,7 +3,6 @@ author = ["authors/michael-pecak.md"]
 categories = "Review"
 date = "2019-02-18T22:00:50+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "_La Traviata_ runs at the Lyric Opera House for nine more performances through March 22. For details and ticket information, [click here](https://www.lyricopera.org/concertstickets/calendar/2018-2019/la-traviata-opera-tickets)."
 preamble = ""
@@ -11,7 +10,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550530429/m
 primary_image_credit = "Željko Lučić (Germont) and Albina Shagimuratova (Violetta) in La traviata, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg."
 related_articles = []
 related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/albina-shagimuratova.md"]
+related_people = ["scene/people/giorgio-berrugi.md", "scene/people/albina-shagimuratova.md"]
 short_description = "Director Arin Arbus returns to re-mount her production of La traviata from LOC's 2013-14 season. Conductor Michael Christie, making his own LOC debut with this run, brings his expertise in new music to bear on this classic score, leading the LOC orchestra with urgency and dramatic sensitivity."
 slug = "left-wanting-more-la-traviata-in-chicago"
 title = "Left wanting more: La traviata in Chicago"
@@ -48,9 +47,9 @@ The stage dynamics improved somewhat in Act II thanks in large part to the Serbi
 
 </figure>
 
-The LOC's young artists filled in the opera's many secondary roles, but deserve principal applause for some of the show's most committed performances, especially contralto Lauren Decker. The third-year Ryan Opera Center member is by now a veritable veteran of the Lyric mainstage, having appeared in six roles since 2016-17. In this _Traviata_, Decker is a sympathetic and dutiful Annina.
+The LOC's young artists filled in the opera's many secondary roles, but deserve principal applause for some of the show's most committed performances, especially contralto [Lauren Decker](/scene/people/lauren-decker/). The third-year Ryan Opera Center member is by now a veritable veteran of the Lyric mainstage, having appeared in six roles since 2016-17. In this _Traviata_, Decker is a sympathetic and dutiful Annina.
 
-American mezzo-soprano Zoie Reams makes her LOC debut as Flora. Dressed like a Spanish noblewoman, complete with a large peineta and long, lacey mantilla, Reams was an impeccable hostess and gracious in voice. Her party in Act II was a brilliant splash of color and fun that included large puppets of bulls, matadors, and gender-bending dancers. Cait O'Connor’s costumes are beautiful and, for the most part, stick to 19th-century silhouettes and detailing.
+American mezzo-soprano [Zoie Reams](/scene/people/zoie-reams/) makes her LOC debut as Flora. Dressed like a Spanish noblewoman, complete with a large peineta and long, lacey mantilla, Reams was an impeccable hostess and gracious in voice. Her party in Act II was a brilliant splash of color and fun that included large puppets of bulls, matadors, and gender-bending dancers. Cait O'Connor’s costumes are beautiful and, for the most part, stick to 19th-century silhouettes and detailing.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550528086/media/2019/02/AlbinaShagimuratova_GiorgioBerrugi_MarioRojas_LATRAVIATA_LyricOperaofChicagoLYR190213_056.jpg){{% /md %}}
 
