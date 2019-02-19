@@ -1,6 +1,6 @@
 +++
 date = "2019-02-19T00:31:30+00:00"
-discipline = ""
+discipline = "Baritone"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550536129/media/2019/02/ZeljkoLucic.jpg"
 primary_image_credit = ""
 related_companies = ["scene/companies/lyric-opera-of-chicago.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/teatro-alla-scala.md", "scene/companies/opernhaus-zurich.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/salzburg-festival.md", "scene/companies/wiener-staatsoper.md", "scene/companies/royal-opera-house.md", "scene/companies/opra-national-de-paris.md", "scene/companies/san-francisco-opera.md", "scene/companies/semperoper-dresden.md", "scene/companies/oper-frankfurt.md", "scene/companies/the-metropolitan-opera.md"]
