@@ -4,10 +4,10 @@ url: "/featured/"
 type: featured
 layout: list
 articles:
-- articles/4-steps-to-taking-fixing-notes.md
-- articles/4-traits-of-a-great-cadenza.md
-- articles/a-faq-checklist-for-opera-newbies.md
-- articles/the-practice-tip-you-dont-want-to-hear.md
-- articles/music-degrees-expectations-4-tips-for-new-students.md
+- articles/singing-in-english-3-reasons-why-no-one-can-understand-you.md
+- articles/la-nilsson-celebrating-birgit-nilsson-at-100.md
+- articles/coc1920.md
+- articles/talking-with-singers-sondra-radvanovsky.md
+- articles/a-perfect-fit-the-overcoat.md
 
 ---
