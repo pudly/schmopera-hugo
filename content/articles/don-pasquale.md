@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "short"
-slug = "don-pasquale"
-title = "Don Pasquale"
+slug = "small-company-big-laughs-opera-fusions-don-pasquale"
+title = "Small company, big laughs: Opera Fusion's Don Pasquale"
 youtube_url = ""
 
 +++
