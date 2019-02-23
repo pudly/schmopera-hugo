@@ -29,18 +29,18 @@ youtube_url = ""
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550939155/media/2019/02/OAROM3.jpg){{% /md %}}
 
-<figcaption> Photo: Bruce Zinger/Opera Atelier.</figcaption>
+<figcaption>Artists of the Atelier Ballet, Mireille Asselin, and Jesse Blumberg. Photo: Bruce Zinger/Opera Atelier.</figcaption>
 
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550939236/media/2019/02/OAROM4.jpg){{% /md %}}
 
-<figcaption> Photo: Bruce Zinger/Opera Atelier.</figcaption>
+<figcaption>Jesse Blumberg and Tyler Gledhill. Photo: Bruce Zinger/Opera Atelier.</figcaption>
 
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550939558/media/2019/02/OAROM2.jpg){{% /md %}}
 
-<figcaption> Photo: Bruce Zinger/Opera Atelier.</figcaption>
+<figcaption>(l-r) Edwin Huizinga, Jesse Blumberg, Mireille Asselin, Tyler Gledhill, and members of the Tafelmusik Baroque Orchestra. Photo: Bruce Zinger/Opera Atelier.</figcaption>
 
 </figure>
