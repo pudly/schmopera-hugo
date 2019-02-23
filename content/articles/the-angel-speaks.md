@@ -10,8 +10,8 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550877066/m
 primary_image_credit = "Violinist/composer Edwin Huizinga and dancer/choreographer Tyler Gledhill perform Inception, Royal Ontario Museum 2019. Photo: Bruce Zinger/Opera Atelier."
 related_articles = ["articles/a-daring-desirous-doublebill-at-opera-atelier.md"]
 related_companies = ["scene/companies/opera-atelier.md"]
-related_people = ["scene/people/mireille-asselin.md"]
-short_description = "short"
+related_people = ["scene/people/jesse-blumberg.md", "scene/people/mireille-asselin.md"]
+short_description = "If anyone doubted the longevity of Opera Atelier's plans to commission new works, they've been quick to prove themselves. It makes me more curious to hear their mainstage season, knowing that the company has more than one baroque trick up their sleeve."
 slug = "baroque-novelty-from-opera-atelier-the-angel-speaks"
 title = "Baroque novelty from Opera Atelier: The Angel Speaks"
 youtube_url = ""
@@ -29,7 +29,7 @@ There was some déjà-vu this time around, as audiences seated themselves in the
 
 </figure>
 
-Also on the programme was the latest from Huizinga, _Annunciation_. It's a piece inspired by Rilke's poem _Verkündigung_, presented as a work-in-progress for two singers (the deft [Jesse Blumberg](/scene/people/jesse-blumberg/) and [Mireille Asselin](/scene/people/mireille-asselin/)), contemporary dancer (Gledhill), and baroque ensemble. Opera Atelier Co-Artistic Director and stage director Marshall Pynkoski briefed us on the plans for _Annunciation_, teasing us with ideas of expanding it into a dramatic cantata, or even a one-act opera.
+Also on the programme was the latest from Huizinga, _Annunciation_. It's a piece inspired by Rilke's poem _Verkündigung_, presented as a work-in-progress for two singers (the deft [Jesse Blumberg](/scene/people/jesse-blumberg/) and [Mireille Asselin](/scene/people/mireille-asselin/)), contemporary and baroque dancers, and baroque ensemble. Opera Atelier Co-Artistic Director and stage director Marshall Pynkoski briefed us on the plans for _Annunciation_, teasing us with ideas of expanding it into a dramatic cantata, or even a one-act opera.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550939155/media/2019/02/OAROM3.jpg){{% /md %}}
 
@@ -37,8 +37,8 @@ Also on the programme was the latest from Huizinga, _Annunciation_. It's a piece
 
 </figure>
 
-I found _Annunciation_ to be less compelling than Huizinga's _Inception_, but with exciting roots for the work's future growth. Rilke's mystic, imaginative text gets a "loose, expressionistic" treatment from Pynkoski. We watch as the angel Gabriel (Blumberg) sees the Virgin (Asselin), and experiences his "confusion, disorientation and gradual recognition of his mission". It's a story that's imaginatively vague, and I thought it was brilliantly programmed to precede Purcell's _The Blessed Virgin's Expostulation_; the two pieces, both featuring Asselin in the same character, work symbiotically like prequel and sequel, source material and fanfiction.
+I found _Annunciation_ to be less compelling than Huizinga's _Inception_, but with exciting roots for the work's future growth. Rilke's mystic, imaginative text gets a "loose, expressionistic" treatment from Pynkoski. We watch as the angel Gabriel (Blumberg) sees the Virgin (Asselin), and experiences his "confusion, disorientation and gradual recognition of his mission". It's a story that's imaginatively vague, and I thought it was brilliantly programmed to precede Purcell's _The Blessed Virgin's Expostulation_; the two pieces, both featuring Asselin in the same character, work symbiotically like prequel and sequel, source material and fan-fiction.
 
-The item of interest on this programme - I figure it's meant to be _Annunciation_ - wasn't the highlight of the night, but I thought the programme had grown more organic in its arc since last year's presentation. The stylistic gap between baroque and contemporary music was bridged beautifully; Gledhill appeared as the contemporary dancer among the baroque dance that preceded _Annunciation_, and Huizinga's distant violin strains - taken out of his _Inception_ - acted as a wordless answer to Asselin's cries of "Gabriel!" in her _Blessed Virgin_.
+The item of interest for the night - I figure it's meant to be _Annunciation_ - wasn't my personal highlight, but I thought the whole programme had grown more organic in its arc since last year's presentation. The stylistic gap between baroque and contemporary music was bridged beautifully; Gledhill appeared as the contemporary dancer among the baroque dance that preceded _Annunciation_, and Huizinga's distant violin strains - taken out of his _Inception_ - acted as a wordless answer to Asselin's cries of "Gabriel!" in her _Blessed Virgin_.
 
 If anyone doubted the longevity of Opera Atelier's plans to commission new works, they've been quick to prove themselves. It makes me more curious to hear their mainstage season, knowing that the company has more than one baroque trick up their sleeve.
