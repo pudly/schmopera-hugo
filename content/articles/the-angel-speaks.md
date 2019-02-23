@@ -26,7 +26,7 @@ There was some déjà-vu this time around, as audiences seated themselves in the
 
 Also on the programme was the latest from Huizinga, _Annunciation_. It's a piece inspired by Rilke's poem _Verkündigung_, presented as a work-in-progress for two singers (the deft Jesse Blumberg and Mireille Asselin), contemporary dancer (Gledhill), and baroque ensemble. Opera Atelier Co-Artistic Director and stage director Marshall Pynkoski briefed us on the plans for _Annunciation_, teasing us with ideas of expanding it into a dramatic cantata, or even a one-act opera.
 
-I found _Annunciation_ to be less compelling than Huizinga's _Inception_, but with exciting roots for the work's future growth. Rilke's mystic, imaginative text gets a "loose, expressionistic" treatment from Pynkoski
+I found _Annunciation_ to be less compelling than Huizinga's _Inception_, but with exciting roots for the work's future growth. Rilke's mystic, imaginative text gets a "loose, expressionistic" treatment from Pynkoski. We watch as the angel Gabriel (Blumberg) sees the Virgin (Asselin), and experiences his "confusion, disorientation and gradual recognition of his mission". It's a story that's imaginatively vague, and I thought it was brilliantly programmed to precede Purcell's _The Blessed Virgin's Expostulation_; the two pieces, both featuring Asselin in the same character, work symbiotically 
 
 * 
 * similar programme to _Harmonia Sacra_ from last year, plus latest commission by Edwin Huizinga, _Annunciation_
