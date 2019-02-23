@@ -5,12 +5,12 @@ date = "2019-02-23T18:15:45+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "_The Monstrous Child_ is onstage at the Linbury Theatre through 3 March. For details and tickets, [click here](https://www.roh.org.uk/productions/the-monstrous-child-by-timothy-sheader)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550945700/media/2019/02/sqPR8A6410rMartaFontanalsSimmonsasHelROH2019.jpg"
 primary_image_credit = ""
-related_articles = []
-related_companies = []
+related_articles = ["articles/tarrare-the-freak-i-just-want-to-be-full.md", "articles/monstrous-child.md"]
+related_companies = ["scene/companies/royal-opera-house.md"]
 related_people = []
 short_description = "short"
 slug = "inventive-and-playful-monstrous-child"
@@ -20,7 +20,7 @@ youtube_url = ""
 +++
 This was an evening of firsts; the world premiere of a new opera and a chance for [The Royal Opera](/scene/companies/royal-opera-house/) to show off its newest venue, the intimate 400-seat, recently refurbished Linbury Theatre, part of the three year-long reconstruction of Covent Garden, a reconstruction project that is costing the Royal Opera no less the £50 million. All of this in an attempt to breath life into a tired, fussy space, and to hopefully begin to shake off the "elitist" label they've been carrying around for years. And what better way to showcase this sleek new venue, than to produce an exciting world premiere.
 
-_The Monstrous Child_ is young composer Gavin Higgins' operatic debut having already gained acclaim with his orchestral commissions for the likes of the BBC Symphony Orchestra, The London Philharmonic Orchestra, and the Royal Scottish National Orchestra. The libretto was written by Francesca Simon and adapted from her young adult novel of the same name that tells the story of the Norse legend of Hel, a teenage girl born of the trickster Loki and the giantess Angrboda who is half human, half corpse. Fearing the prophecy that Loki's monstrous children will destroy the Heavens and the earth, Odin banishes Hel to the underworld where she reigns over the dead and pines for the god Baldr, whom she has fallen devastatingly in love with, as she awaits the end of the world.
+[_The Monstrous Child_](https://www.roh.org.uk/productions/the-monstrous-child-by-timothy-sheader) is young composer Gavin Higgins' operatic debut having already gained acclaim with his orchestral commissions for the likes of the BBC Symphony Orchestra, The London Philharmonic Orchestra, and the Royal Scottish National Orchestra. The libretto was written by Francesca Simon and adapted from her young adult novel of the same name that tells the story of the Norse legend of Hel, a teenage girl born of the trickster Loki and the giantess Angrboda who is half human, half corpse. Fearing the prophecy that Loki's monstrous children will destroy the Heavens and the earth, Odin banishes Hel to the underworld where she reigns over the dead and pines for the god Baldr, whom she has fallen devastatingly in love with, as she awaits the end of the world.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550945807/media/2019/02/IMG_0654rMartaFontanalsSimmonsasHelROH2019.jpg){{% /md %}}
 
@@ -54,7 +54,7 @@ I was impressed by composer Gavin Higgins' deft and confident approach to the vo
 
 </figure>
 
-It was a clever and calculated move to programme _The Monstrous Child_ in the same season the _Ring_ cycle is being staged; it provides two alternative narratives to two very similar stories. And I think the choice to open the new Linbury theatre with an offbeat, youthful piece, is a movement in the right direction for this performance space. It sends an important message about how forward-thinking this company wants to be at a time when they are constantly having to walk the line between tradition and innovation; something I believe that at the moment, they are doing quite successfully. If this is how the Royal Opera means to go on, producing inventive and playful commissions in its newest, swankiest theatre, then I'm all in.
+It was a clever and calculated move to programme [_The Monstrous Child_](https://www.roh.org.uk/productions/the-monstrous-child-by-timothy-sheader) in the same season the _Ring_ cycle is being staged; it provides two alternative narratives to two very similar stories. And I think the choice to open the new Linbury theatre with an offbeat, youthful piece, is a movement in the right direction for this performance space. It sends an important message about how forward-thinking this company wants to be at a time when they are constantly having to walk the line between tradition and innovation; something I believe that at the moment, they are doing quite successfully. If this is how the Royal Opera means to go on, producing inventive and playful commissions in its newest, swankiest theatre, then I'm all in.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550946159/media/2019/02/SC1_9545rTheMonstrousChildproductionimageROH2019.jpg){{% /md %}}
 
