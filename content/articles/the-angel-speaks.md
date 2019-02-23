@@ -5,11 +5,11 @@ date = "2019-02-22T23:12:04+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = "For details and ticket information about upcoming Opera Atelier events, click here."
+postamble = "Next up from Opera Atelier is _Idomeneo_, running April 4-13 at the Mirvish Theatre. For details and tickets, [click here](https://www.operaatelier.com/idomeneo)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550877066/media/2019/02/sqOAROM.jpg"
 primary_image_credit = "Violinist/composer Edwin Huizinga and dancer/choreographer Tyler Gledhill perform Inception, Royal Ontario Museum 2019. Photo: Bruce Zinger/Opera Atelier."
-related_articles = []
+related_articles = ["articles/a-daring-desirous-doublebill-at-opera-atelier.md"]
 related_companies = []
 related_people = []
 short_description = "short"
@@ -18,7 +18,7 @@ title = "The Angel Speaks"
 youtube_url = ""
 
 +++
-Opera Atelier is gearing up for its April production of Mozart's _Idomeneo_, and with its recent concert at the Royal Ontario Museum, creating an early draw for the eyes and ears. 
+[Opera Atelier](/scene/companies/opera-atelier/) is gearing up for its April production of Mozart's [_Idomeneo_](https://www.operaatelier.com/idomeneo), and with its recent concert at the Royal Ontario Museum, creating an early draw for the eyes and ears. 
 
 Last year, they presented _Harmonia Sacra_, a concert displaying singers, baroque chamber orchestra, and Artists of the Atelier Ballet in the runway stage of the ROM's Currelly Gallery. The concert included the world premiere of _Inception_, a new work for baroque violin and dancer by Edwin Huizinga and Tyler Gledhill, which marked OA's very first new commission. 
 
@@ -42,4 +42,4 @@ I found _Annunciation_ to be less compelling than Huizinga's _Inception_, but wi
 
 The item of interest on this programme - I figure it's meant to be _Annunciation_ - wasn't the highlight of the night, but I thought the programme had grown more organic in its arc since last year's presentation. The stylistic gap between baroque and contemporary music was bridged beautifully; Gledhill appeared as the contemporary dancer among the baroque dance that preceded _Annunciation_, and Huizinga's distant violin strains - taken out of his _Inception_ - acted as a wordless answer to Asselin's cries of "Gabriel!" in her _Blessed Virgin_.
 
-If anyone doubted the longevity of Opera Atelier's plans to commission new works, they've been quick to prove themselves. It makes me more curious to hear their mainstage season - namely the wicked cast of their _Idomeneo_, running April 4-13 at the Mirvish Theatre.
+If anyone doubted the longevity of Opera Atelier's plans to commission new works, they've been quick to prove themselves. It makes me more curious to hear their mainstage season, knowing that the company has more than one baroque trick up their sleeve.
