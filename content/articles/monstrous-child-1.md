@@ -10,7 +10,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550945700/m
 primary_image_credit = "Marta Fontanals-Simmons as Hel in The Monstrous Child, ROH, 2019. Photo: Stephen Cummiskey."
 related_articles = ["articles/tarrare-the-freak-i-just-want-to-be-full.md", "articles/monstrous-child.md"]
 related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/Gavin Higgins.md", "scene/people/marta-fontanalssimmons.md"]
+related_people = ["scene/people/Gavin Higgins.md"]
 short_description = "It was very much a young person's opera and was therefore theatrical in a way that is rarely seen in large scale opera productions. Though it is meant for a younger crowd, it wasn't overly simplified or polite. It was gritty, honest, and unapologetic."
 slug = "inventive-and-playful-monstrous-child"
 title = "Inventive and playful: The Monstrous Child"
@@ -19,7 +19,7 @@ youtube_url = ""
 +++
 This was an evening of firsts; the world premiere of a new opera and a chance for [The Royal Opera](/scene/companies/royal-opera-house/) to show off its newest venue, the intimate 400-seat, recently refurbished Linbury Theatre, part of the three year-long reconstruction of Covent Garden, a reconstruction project that is costing the Royal Opera no less the £50 million. All of this in an attempt to breath life into a tired, fussy space, and to hopefully begin to shake off the "elitist" label they've been carrying around for years. And what better way to showcase this sleek new venue, than to produce an exciting world premiere.
 
->She is speaking directly to every young girl who has ever felt unlovable.
+> She is speaking directly to every young girl who has ever felt unlovable.
 
 [_The Monstrous Child_](https://www.roh.org.uk/productions/the-monstrous-child-by-timothy-sheader) is young composer Gavin Higgins' operatic debut having already gained acclaim with his orchestral commissions for the likes of the BBC Symphony Orchestra, The London Philharmonic Orchestra, and the Royal Scottish National Orchestra. The libretto was written by Francesca Simon and adapted from her young adult novel of the same name that tells the story of the Norse legend of Hel, a teenage girl born of the trickster Loki and the giantess Angrboda who is half human, half corpse. Fearing the prophecy that Loki's monstrous children will destroy the Heavens and the earth, Odin banishes Hel to the underworld where she reigns over the dead and pines for the god Baldr, whom she has fallen devastatingly in love with, as she awaits the end of the world.
 
@@ -39,7 +39,7 @@ The Norse legends are stories that we are all familiar with in one way or anothe
 
 It was very much a young person's opera and was therefore theatrical in a way that is rarely seen in large scale opera productions. Though it is meant for a younger crowd, it wasn't overly simplified or polite. It was gritty, honest, and unapologetic. With its arts-and-crafts aesthetic, imaginative puppetry, and sense of humour, it was a very engaging and approachable piece. There was a real sense of ensemble in the production. Each singer played multiple roles and, in most cases, was required to assist the two puppeteers in the manoeuvring of the puppetry. Designer Paul Wills has created a strange and unpredictable world inspired by the textures and colours of the Norse landscape. My favourite piece of set design was the earthy mountain of mouldering rot that Hel had become entombed in after centuries in the underworld. Oozing, and obscene it was the perfect metaphor for her imprisonment and feelings of self-loathing.
 
->In fact, Higgins included a few cheeky Wagner quotes in a nod to the beloved cycle.
+> In fact, Higgins included a few cheeky Wagner quotes in a nod to the beloved cycle.
 
 Mezzo-soprano [Marta Fontanals-Simmons](/scene/people/marta-fontanals-simmons/) who makes her Royal Opera debut in the role of Hel is likeable, self-aware, strong willed, and a relatable character for young girls. As the narrator and central character of this piece, Fontanals-Simmons welcomed us into her world, inviting us to hear her story. She has a beautiful voice; dark and smooth when need be but was unafraid to embrace the uglier sounds Higgins' score propelled her towards. She is a sensitive and accomplished actor, challenged by the confines of the staging (She did not have the use of her legs which were trapped inside of the mountain of rot), she used her face and her entrancing voice as her expressive tools.
 
