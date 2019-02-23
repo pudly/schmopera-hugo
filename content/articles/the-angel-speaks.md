@@ -26,3 +26,21 @@ youtube_url = ""
 * gives cool, tactile meaning to Purcell's Blessed Virgin (plus Gledhill, plus strains of Edwin when she calls for Gabriel)
 * Edwin bridges stylistic gap again with these hints that precede _Inception_
 * is Edwin into heavy metal?
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550939155/media/2019/02/OAROM3.jpg){{% /md %}}
+
+<figcaption> Photo: Bruce Zinger/Opera Atelier.</figcaption>
+
+</figure>
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption> Photo: Bruce Zinger/Opera Atelier.</figcaption>
+
+</figure>
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption> Photo: Bruce Zinger/Opera Atelier.</figcaption>
+
+</figure>
