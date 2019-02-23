@@ -24,9 +24,9 @@ Last year, they presented _Harmonia Sacra_, a concert displaying singers, baroqu
 
 There was some déjà-vu this time around, as audiences seated themselves in the same Currelly Gallery, with the handful of Tafelmusik players on one end of the runway. The programme of music by Purcell and William Boyce looked familiar, and I was pleased to see _Inception_ included. (It's worth noting that between these two ROM concerts, and its place in Atelier's 2018 [double-bill of _Actéon_ and _Pygmalion_](/a-daring-desirous-double-bill-at-opera-atelier/), I've now heard _Inception_ three times - not bad for a new Canadian commission.)
 
-Also on the programme was the latest from Huizinga, _Annunciation_. It's a piece inspired by Rilke's poem _Verkündigung_, presented as a work-in-progress for two singers (the deft Jesse Blumberg and Mireille Asselin), contemporary dancer (Gledhill), and baroque ensemble. Opera Atelier Co-Artistic Director Marshall Pynkoski briefed us on the plans for _Annunciation_, teasing us with ideas of expanding it into a dramatic cantata, or even a one-act opera.
+Also on the programme was the latest from Huizinga, _Annunciation_. It's a piece inspired by Rilke's poem _Verkündigung_, presented as a work-in-progress for two singers (the deft Jesse Blumberg and Mireille Asselin), contemporary dancer (Gledhill), and baroque ensemble. Opera Atelier Co-Artistic Director and stage director Marshall Pynkoski briefed us on the plans for _Annunciation_, teasing us with ideas of expanding it into a dramatic cantata, or even a one-act opera.
 
-I found _Annunciation_ to be less compelling than Huizinga's _Inception_, 
+I found _Annunciation_ to be less compelling than Huizinga's _Inception_, but with exciting roots for the work's future growth. Rilke's mystic, imaginative text gets a "loose, expressionistic" treatment from Pynkoski
 
 * 
 * similar programme to _Harmonia Sacra_ from last year, plus latest commission by Edwin Huizinga, _Annunciation_
