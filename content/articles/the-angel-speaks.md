@@ -22,7 +22,9 @@ Opera Atelier is gearing up for its April production of Mozart's _Idomeneo_, and
 
 Last year, they presented _Harmonia Sacra_, a concert displaying singers, baroque chamber orchestra, and Artists of the Atelier Ballet in the runway stage of the ROM's Currelly Gallery. The concert included the world premiere of _Inception_, a new work for baroque violin and dancer by Edwin Huizinga and Tyler Gledhill, which marked OA's very first new commission. 
 
-There was some déjà-vu this time around, as audiences seated themselves in the same Currelly Gallery, with the handful of Tafelmusik players on one end of the runway. 
+There was some déjà-vu this time around, as audiences seated themselves in the same Currelly Gallery, with the handful of Tafelmusik players on one end of the runway. The programme of music by Purcell and William Boyce looked familiar, and I was pleased to see _Inception_ included. (It's worth noting that between these two ROM concerts, and its place in Atelier's 2018 [double-bill of _Actéon_ and _Pygmalion_](/a-daring-desirous-double-bill-at-opera-atelier/), I've now heard _Inception_ three times - not bad for a new Canadian commission.)
+
+Also on the programme was the latest from Huizinga, _Annunciation_. It's a piece inspired by Rilke's poem _Verkündigung_ 
 
 * 
 * similar programme to _Harmonia Sacra_ from last year, plus latest commission by Edwin Huizinga, _Annunciation_
