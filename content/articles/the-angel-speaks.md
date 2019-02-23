@@ -18,6 +18,13 @@ title = "The Angel Speaks"
 youtube_url = ""
 
 +++
+Opera Atelier is gearing up for its April production of Mozart's _Idomeneo_, and with its recent concert at the Royal Ontario Museum, creating an early draw for the eyes and ears. 
+
+Last year, they presented _Harmonia Sacra_, a concert displaying singers, baroque chamber orchestra, and Artists of the Atelier Ballet in the runway stage of the ROM's Currelly Gallery. The concert included the world premiere of _Inception_, a new work for baroque violin and dancer by Edwin Huizinga and Tyler Gledhill, which marked OA's very first new commission. 
+
+There was some déjà-vu this time around, as audiences seated themselves in the same Currelly Gallery, with the handful of Tafelmusik players on one end of the runway. 
+
+* 
 * similar programme to _Harmonia Sacra_ from last year, plus latest commission by Edwin Huizinga, _Annunciation_
 * according to Marshall, the new piece is still in progress, and there are plans to expand it for more voices/instruments, dramatic cantata or "maybe a one-act opera"
 * Gledhill bridges stylistic gap before _Annunciation_ by joining Baroque dancers in preceding Purcell

@@ -108,9 +108,9 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/the-angel-speaks.md
 - content/articles/monstrous-child-1.md
 - content/scene/people/marta-fontanals-simmons.md
-- content/articles/the-angel-speaks.md
 - content/articles/tweaking-the-brothers-grimm-in-oper-frankfurt-s-hänsel-und-gretel.md
 - content/articles/pov-traviata.md
 - content/articles/don-pasquale.md
