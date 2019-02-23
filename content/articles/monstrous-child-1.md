@@ -24,7 +24,7 @@ _The Monstrous Child_ is young composer Gavin Higgins' operatic debut having alr
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550945807/media/2019/02/IMG_0654rMartaFontanalsSimmonsasHelROH2019.jpg){{% /md %}}
 
-<figcaption> in The Monstrous Child, ROH, 2019. Photo: Stephen Cummiskey.</figcaption>
+<figcaption>Marta Fontanals-Simmons as Hel in The Monstrous Child, ROH, 2019. Photo: Stephen Cummiskey.</figcaption>
 
 </figure>
 
@@ -32,7 +32,7 @@ The Norse legends are stories that we are all familiar with in one way or anothe
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550945893/media/2019/02/IMG_0583rTheMonstrousChildproductionimageROH2019.jpg){{% /md %}}
 
-<figcaption> in The Monstrous Child, ROH, 2019. Photo: Stephen Cummiskey.</figcaption>
+<figcaption>A scene from The Monstrous Child, ROH, 2019. Photo: Stephen Cummiskey.</figcaption>
 
 </figure>
 
@@ -42,22 +42,22 @@ Mezzo-soprano Marta Fontanals-Simmons who makes her Royal Opera debut in the rol
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550945958/media/2019/02/PR8A5672rLauraCaldowandLucySchauferROH2019.jpg){{% /md %}}
 
-<figcaption> in The Monstrous Child, ROH, 2019. Photo: Stephen Cummiskey.</figcaption>
+<figcaption>Laura Caldow and Lucy Schaufer in The Monstrous Child, ROH, 2019. Photo: Stephen Cummiskey.</figcaption>
 
 </figure>
 
 I was impressed by composer Gavin Higgins' deft and confident approach to the vocal writing, particularly as this was his first opera commission. The vocal lines worked with, and for the singers. The text setting flowed seamlessly, and the orchestral writing stepped out of the way to give Simon's libretto prominence, allowing its dark humour to shine through. Scored for chamber orchestra, the piece was sometimes yearning, sometimes pensive, and sometimes playfully childlike. There was a considerable amount of colour and scope particularly for such a small ensemble which was aided by some surprising instrumentation choices such as the tubular bells which make a brief, but memorable appearance towards the end of the piece, electric organ, celeste, and recorder. In Reminiscent of Wagner, each of these instruments appearance announce a character's motif, inviting the listener into this sound world. In fact, Higgins included a few cheeky Wagner quotes in a nod to the beloved cycle.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550946119/media/2019/02/PR8A5927rDanShelveyasBaldrROH2019.jpg){{% /md %}}
 
-<figcaption> in The Monstrous Child, ROH, 2019. Photo: Stephen Cummiskey.</figcaption>
+<figcaption>Dan Shelvey as Baldr in The Monstrous Child, ROH, 2019. Photo: Stephen Cummiskey.</figcaption>
 
 </figure>
 
 It was a clever and calculated move to programme _The Monstrous Child_ in the same season the _Ring_ cycle is being staged; it provides two alternative narratives to two very similar stories. And I think the choice to open the new Linbury theatre with an offbeat, youthful piece, is a movement in the right direction for this performance space. It sends an important message about how forward-thinking this company wants to be at a time when they are constantly having to walk the line between tradition and innovation; something I believe that at the moment, they are doing quite successfully. If this is how the Royal Opera means to go on, producing inventive and playful commissions in its newest, swankiest theatre, then I'm all in.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1550946159/media/2019/02/SC1_9545rTheMonstrousChildproductionimageROH2019.jpg){{% /md %}}
 
-<figcaption> in The Monstrous Child, ROH, 2019. Photo: Stephen Cummiskey.</figcaption>
+<figcaption>Production image of The Monstrous Child, ROH, 2019. Photo: Stephen Cummiskey.</figcaption>
 
 </figure>
