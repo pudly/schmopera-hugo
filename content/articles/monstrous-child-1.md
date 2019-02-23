@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "short"
-slug = "monstrous-child"
-title = "Monstrous Child"
+slug = "inventive-and-playful-monstrous-child"
+title = "Inventive and playful: The Monstrous Child"
 youtube_url = ""
 
 +++
