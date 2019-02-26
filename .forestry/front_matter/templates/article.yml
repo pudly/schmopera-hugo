@@ -108,6 +108,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/pbo-giovanni.md
 - content/articles/montezuma.md
 - content/articles/the-angel-speaks.md
 - content/articles/monstrous-child-1.md
