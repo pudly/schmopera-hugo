@@ -1,8 +1,8 @@
 +++
 date = "2019-02-26T23:57:02+00:00"
-discipline = ""
-primary_image = ""
-primary_image_credit = ""
+discipline = "Tenor"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551225548/media/2019/02/BogdanVolkov.jpg"
+primary_image_credit = "Kristina Kalinina"
 related_companies = ["scene/companies/opra-national-de-paris.md", "scene/companies/palm-beach-opera.md"]
 slug = "bogdan-volkov"
 title = "Bogdan Volkov"
