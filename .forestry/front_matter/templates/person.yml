@@ -41,6 +41,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/caitlin-lynch.md
 - content/scene/people/jesse-blumberg.md
 - content/scene/people/paul-la-rosa.md
 - content/scene/people/erica-schuller.md
