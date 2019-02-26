@@ -11,7 +11,7 @@ primary_image = ""
 primary_image_credit = ""
 related_articles = []
 related_companies = []
-related_people = []
+related_people = ["scene/people/caitlin-lynch.md", "scene/people/joshua-bloom.md", "scene/people/danielle-macmillan.md", "scene/people/danielle-pastin.md"]
 short_description = "short"
 slug = "pbo-giovanni"
 title = "PBO Giovanni"
@@ -22,7 +22,7 @@ youtube_url = ""
 
 On paper and in the light of day, the words seem almost laughable, a cartoonishly evil quip dreamed up by a predatory caricature. But on February 24, amid the shadowy silhouettes of [Palm Beach Opera](/scene/companies/palm-beach-opera/)'s film noir–inspired Don Giovanni, the line felt all too real.
 
->In this cultural moment of overdue justice, Palm Beach Opera presented a beautifully performed _Don Giovanni._
+> In this cultural moment of overdue justice, Palm Beach Opera presented a beautifully performed _Don Giovanni._
 
 PBO appeared sensitive to the opera's problematic elements in their presentation of _Don Giovanni_. The company's General Director, Daniel Biaggi, penned a thoughtful program note observing that "if we claim that \[these\] masterpieces are timeless \[...\] we must be willing to analyze the storyline, libretto, and character relationships from a modern perspective." Marketing materials leading up to the three-show run emphasized the opera's darkest qualities, and smartly stayed away from lavishing euphemisms like "seducer" or "womanizer" on the titular Don.
 
@@ -36,7 +36,7 @@ In the title role, baritone Andrei Bondarenko sang with a resonant voice and wel
 
 Soprano [Danielle Pastin](/scene/people/danielle-pastin/) stood out as a glamourous Donna Elvira, with a glowing voice and commanding presence. Pastin brought to life a strong woman in pursuit of justice, warning others of the Don's abusive past, yet discredited and dismissed as "mad" by the very man whose violence and lies she seeks to avenge. During the famous quartet, Don Giovanni pinned her against the wall while Donna Anna and Don Ottavio, seemingly oblivious to the assault unfolding in front of them, wondered out loud, "Who should we believe?"
 
->While Donna Anna recounted her trauma to Don Ottavio, Giovanni's silhouette towered on the wall beside her, omnipresent.
+> While Donna Anna recounted her trauma to Don Ottavio, Giovanni's silhouette towered on the wall beside her, omnipresent.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
@@ -46,7 +46,7 @@ Soprano [Danielle Pastin](/scene/people/danielle-pastin/) stood out as a glamour
 
 Mezzo-soprano [Danielle MacMillan](/spotlight-on-danielle-macmillan/)'s Zerlina was beautifully sung and playfully acted, with "Là ci darem la mano" taking on a darker timbre in rich harmony with Bondarenko's Don. MacMillan and bass-baritone Neil Nelson as Masetto played out the couple's quarrels with clever forays into near-sprechstimme, adding an edge of humour tinged with realism.
 
-As Donna Anna, soprano Caitlin Lynch sang with an effortless dolce tone and a compelling strength of character. Her emotive "Non mi dir" transformed the aria into a statement of independence, as stage direction by Kristine McIntyre had Don Ottavio – a strongly sung turn by tenor Bogdan Volkov – storm offstage rather than reconcile following his rejected marriage proposal.
+As Donna Anna, soprano [Caitlin Lynch](/scene/people/caitlin-lynch/) sang with an effortless dolce tone and a compelling strength of character. Her emotive "Non mi dir" transformed the aria into a statement of independence, as stage direction by Kristine McIntyre had Don Ottavio – a strongly sung turn by tenor Bogdan Volkov – storm offstage rather than reconcile following his rejected marriage proposal.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
@@ -54,7 +54,7 @@ As Donna Anna, soprano Caitlin Lynch sang with an effortless dolce tone and a co
 
 </figure>
 
->Right up to the hellish drama of the final scene, Don Giovanni is, at its core, a comedy about rape.
+> Right up to the hellish drama of the final scene, Don Giovanni is, at its core, a comedy about rape.
 
 McIntyre's film noir vision worked well, with dark, angular scenic design by R. Keith Brumley serving as a gritty canvas for costume designer Mary Traylor and hair and make-up designer Kathy Waszkelewicz to tackle the period wear with compelling attention to detail. Lighting design by Marcus Dilliard played a big role, shadows lurking and looming with cinematic appeal. While Donna Anna recounted her trauma to Don Ottavio, Giovanni's silhouette towered on the wall beside her, omnipresent; and when the Commendatore appeared in the climactic final scene, a bright blue neon sign flickered eerily, illuminating the drunken Don as he devoured what would be his final meal.
 
@@ -76,7 +76,7 @@ Under conductor David Stern, the PBO Orchestra took on Mozart's stirring score w
 
 In the end, Don Giovanni is punished – but it takes supernatural intervention, not a system of real-world justice, nor the powerful voices of the brave women who stand up to him, to finally put an end to his crimes. And right up to the hellish drama of the final scene, Don Giovanni is, at its core, a comedy about rape. We're meant to laugh at the Don’s foiled exploits, at Zerlina's folly, at Donna Elvira's change of heart. Leporello enumerates literally thousands of victims of sexual assault – the Don's so-called "conquests" – in a lighthearted aria that catches some of the opera's biggest laughs.
 
->We can put Don Giovanni in a fedora and call him a film noir anti-hero; or we can put him in a three-piece suit and elect him to public office.
+> We can put Don Giovanni in a fedora and call him a film noir anti-hero; or we can put him in a three-piece suit and elect him to public office.
 
 In this cultural moment of overdue justice, Palm Beach Opera presented a beautifully performed _Don Giovanni_ with more attention paid to contemporary discourse than most companies can claim. But elevating and enshrining as a "masterpiece" a work of theatre that depicts rape as a laughing matter, season after season, breeds normalization – and normalization breeds real-world consequences.
 
