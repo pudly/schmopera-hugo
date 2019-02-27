@@ -23,4 +23,4 @@ youtube_url = ""
 * opera has an exciting biography of its own: the music was thought to be lost after its 1733 premiere (although the libretto survived), and only rediscovered in 2002 by German musicologist Steffen Voss - it was in Berlin's Sing Akademie library, which was taken by the Soviet Red Army after WWII
 * it was found incomplete, but since its 2002 rediscovery, the companies who put it up have made judicial cuts/pastes to create a score that works onstage or in-concert
 * The opera is a "Baroque equivalent of many a summer movie." - Mark Swed, music critic
-* unlikely happy ending in this opera, not based on history, but inspired by the juicy forbidden love story between the Aztec princess Teutile, Motezuma's daughter 
+* unlikely happy ending in this opera, not based on history, but inspired by the juicy forbidden love story between the Aztec princess Teutile, Motezuma's daughter, and Ramiro, the brother of Cortès, the Spanish conquistador who led the 
