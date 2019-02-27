@@ -25,3 +25,4 @@ youtube_url = ""
 * The opera is a "Baroque equivalent of many a summer movie." - Mark Swed, music critic
 * unlikely happy ending in this opera, not based on history, but inspired by the juicy forbidden love story between the Aztec princess Teutile, Motezuma's daughter, and Ramiro, the brother of Cortès, the Spanish conquistador who led the expedition that met Moctezuma and eventually led to the fall of the Aztec empire
 * recording done by Il Complesso Barocco, based on reconstruction by Alessandro Ciccolini
+* really difficult arias, as per Vivaldi; coloratura, fast repeated notes (super hard), 
