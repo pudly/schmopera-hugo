@@ -3,7 +3,6 @@ author = ["authors/carly-gordon.md"]
 categories = "Review"
 date = "2019-02-26T23:31:29+00:00"
 disclaimer = "Content warning: Rape, sexual assault."
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
