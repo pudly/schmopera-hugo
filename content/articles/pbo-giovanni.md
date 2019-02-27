@@ -13,8 +13,8 @@ related_articles = []
 related_companies = ["scene/companies/palm-beach-opera.md"]
 related_people = ["scene/people/caitlin-lynch.md", "scene/people/joshua-bloom.md", "scene/people/danielle-macmillan.md", "scene/people/danielle-pastin.md"]
 short_description = "short"
-slug = "pbo-giovanni"
-title = "PBO Giovanni"
+slug = "pbo-does-overdue-justice-to-don-giovanni"
+title = "PBO does overdue justice to Don Giovanni"
 youtube_url = ""
 
 +++
