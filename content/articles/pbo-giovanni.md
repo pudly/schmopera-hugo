@@ -31,7 +31,7 @@ PBO appeared sensitive to the opera's problematic elements in their presentation
 
 </figure>
 
-In the title role, baritone [Andrei Bondarenko](/scene/people/andrei-bondarenko/) sang with a resonant voice and well-acted interpretation, creepy and conniving. Bass [Joshua Bloom](/scene/companies/joshua-bloom/)'s handsy Leporello nearly outdid the Don, however, feeling up Donna Elvira during the Catalogue Aria and doling out lewd observations while enabling his boss' serial predation. Bloom aced the character's snide cynicism and sleaziness with smooth musicality and a fragile but successful balance of dark humour.
+In the title role, baritone [Andrei Bondarenko](/scene/people/andrei-bondarenko/) sang with a resonant voice and well-acted interpretation, creepy and conniving. Bass [Joshua Bloom](/scene/people/joshua-bloom/)'s handsy Leporello nearly outdid the Don, however, feeling up Donna Elvira during the Catalogue Aria and doling out lewd observations while enabling his boss' serial predation. Bloom aced the character's snide cynicism and sleaziness with smooth musicality and a fragile but successful balance of dark humour.
 
 Soprano [Danielle Pastin](/scene/people/danielle-pastin/) stood out as a glamourous Donna Elvira, with a glowing voice and commanding presence. Pastin brought to life a strong woman in pursuit of justice, warning others of the Don's abusive past, yet discredited and dismissed as "mad" by the very man whose violence and lies she seeks to avenge. During the famous quartet, Don Giovanni pinned her against the wall while Donna Anna and Don Ottavio, seemingly oblivious to the assault unfolding in front of them, wondered out loud, "Who should we believe?"
 
@@ -45,7 +45,7 @@ Soprano [Danielle Pastin](/scene/people/danielle-pastin/) stood out as a glamour
 
 Mezzo-soprano [Danielle MacMillan](/spotlight-on-danielle-macmillan/)'s Zerlina was beautifully sung and playfully acted, with "Là ci darem la mano" taking on a darker timbre in rich harmony with Bondarenko's Don. MacMillan and bass-baritone Neil Nelson as Masetto played out the couple's quarrels with clever forays into near-sprechstimme, adding an edge of humour tinged with realism.
 
-As Donna Anna, soprano [Caitlin Lynch](/scene/people/caitlin-lynch/) sang with an effortless dolce tone and a compelling strength of character. Her emotive "Non mi dir" transformed the aria into a statement of independence, as stage direction by Kristine McIntyre had Don Ottavio – a strongly sung turn by tenor [Bogdan Volkov](/scene/people/bodgan-volkov/) – storm offstage rather than reconcile following his rejected marriage proposal.
+As Donna Anna, soprano [Caitlin Lynch](/scene/people/caitlin-lynch/) sang with an effortless dolce tone and a compelling strength of character. Her emotive "Non mi dir" transformed the aria into a statement of independence, as stage direction by Kristine McIntyre had Don Ottavio – a strongly sung turn by tenor [Bogdan Volkov](/scene/people/bogdan-volkov/) – storm offstage rather than reconcile following his rejected marriage proposal.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551279444/media/2019/02/PBODG6.jpg){{% /md %}}
 
