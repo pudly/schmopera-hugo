@@ -87,10 +87,4 @@ In this cultural moment of overdue justice, Palm Beach Opera presented a beautif
 
 "What a clear and lovely night, perfect for hunting women." The words were chilling not because they were sung by some exaggerated caricature of a villain, but because they could just as well have been uttered by any number of real-world predators who, unlike Don Giovanni, won't meet their demise – who, in fact, will more than likely be promoted to positions of power. We can put Don Giovanni in a fedora and call him a film noir anti-hero; or we can put him in a three-piece suit and elect him to public office.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption></figcaption>
-
-</figure>
-
 In her program note, McIntyre wrote that Don Giovanni is an opera "replete with grey areas, starting with Giovanni's own moral ambiguity." But in reality, the libretto couldn't be clearer, from the violent rape in the very opening scene to his refusal to repent in the grim finale. The question isn't whether Don Giovanni is a rapist, or is evil; the question is whether we care.
