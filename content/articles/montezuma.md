@@ -24,7 +24,13 @@ When we think of "exotic" operas - _Carmen_, Madama Butterfly, _The Pearl Fisher
 
 If we're feeling generous, we could speculate that Vivaldi purposefully opted to give _Montezuma_ the same musical aesthetic as he did his operas based on Italian epic poetry or Greek mythology; perhaps he was making the statement that a ruler is a ruler, no matter how far away his kingdom, and so the music Vivaldi wrote for the Aztec Moctezuma II is bound to share a style with his music for the Greek Griselda, or the Ottoman Bajazet.
 
-What's more likely is that Vivaldi had little access to the aesthetic of Aztec music, and was content to let own compositional style shone through all his heroes and heroines, including Moctezuma II.
+What's more likely is that Vivaldi had little access to the aesthetic of Aztec music, and was content to let own compositional style shone through all his heroes and heroines, including Moctezuma II. After all, _Montezuma_ is not really an opera about history - it's about love.
+
+Houston's American Baroque Opera Company is mid-way through its 2018-19 season, entitled "Myths and Legends"; indeed, with pieces like Purcell's _Dido and Aeneas_, and Scarlatti's _Venus & Adonis_, 
+
+***
+
+The production of _Montezuma_ presented by Houston's American Baroque Opera Company March 15-17, 2019, stands out among their line-up. Titled "Myths and Legends", ABOC's season is filled with operas based in mythology, like ; yet _Montezuma_ is about a real person.
 
 **Vivaldi style is inescapable, just like the formula of opera and doomed lovers**
 
