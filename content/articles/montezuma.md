@@ -18,7 +18,9 @@ title = "Montezuma"
 youtube_url = ""
 
 +++
-Listening to his score, there's nothing to suggest that Antonio Vivaldi's _Montezuma_ is one of the very first operas set in North America. Composed in 1733, the opera looks far to the West for its exotic appeal, telling the story of Moctezuma II, the 15th- and 16th-century Aztec Emperor who died in 1520 during the Spanish Conquistador expedition led by Hernán Cortés.
+Houston's American Baroque Opera Company is mid-way through its 2018-19 season, entitled "Myths and Legends"; indeed, with pieces like Purcell's _Dido and Aeneas_, and Scarlatti's _Venus & Adonis_, ABOC has the myths covered. Yet their production of Antonio Vivaldi's _Montezuma_, presented March 15-17, 2019, stands out among their line-up as the only work based in real-life history.
+
+Listening to his score, there's nothing to suggest that _Montezuma_ is one of the very first operas set in North America. Composed in 1733, the opera looks far to the West for its exotic appeal, telling the story of Moctezuma II, the 15th- and 16th-century Aztec Emperor who died in 1520 during the Spanish Conquistador expedition led by Hernán Cortés.
 
 When we think of "exotic" operas - _Carmen_, Madama Butterfly, _The Pearl Fishers_ - we often think of a score that reflects the musical aesthetic of somewhere very far away. But Vivaldi's _Montezuma_ - also titled _Motezuma_, in a spelling variance that reflects the many versions of the Aztec's name - sounds like something entirely Italian in origin, as though it could tell a story of a Roman Emperor or deity from Greek Mythology.
 
@@ -26,7 +28,7 @@ If we're feeling generous, we could speculate that Vivaldi purposefully opted to
 
 What's more likely is that Vivaldi had little access to the aesthetic of Aztec music, and was content to let own compositional style shone through all his heroes and heroines, including Moctezuma II. After all, _Montezuma_ is not really an opera about history - it's about love.
 
-Houston's American Baroque Opera Company is mid-way through its 2018-19 season, entitled "Myths and Legends"; indeed, with pieces like Purcell's _Dido and Aeneas_, and Scarlatti's _Venus & Adonis_, ABOC has the myths covered. Yet their production of _Montezuma_, presented March 15-17, 2019, stands out among their line-up as the only work based in real-life history. **move this graf up?**
+Vivaldi's musical style is inescapable; his operas make demands on its singers that separate those who can sing his furious coloratura, fast repeated notes, and impossibly large leaps, and those who cannot. 
 
 **Vivaldi style is inescapable, just like the formula of opera and doomed lovers**
 
