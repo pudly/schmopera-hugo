@@ -22,6 +22,10 @@ Listening to his score, there's nothing to suggest that Antonio Vivaldi's _Monte
 
 When we think of "exotic" operas - _Carmen_, Madama Butterfly, _The Pearl Fishers_ - we often think of a score that reflects the musical aesthetic of somewhere very far away. But Vivaldi's _Montezuma_ - also titled _Motezuma_, in a spelling variance that reflects the many versions of the Aztec's name - sounds like something entirely Italian in origin, as though it could tell a story of a Roman Emperor or deity from Greek Mythology.
 
+If we're feeling generous, we could speculate that Vivaldi purposefully opted to give _Montezuma_ the same musical aesthetic as he did his operas based on Italian epic poetry or Greek mythology, making the statement that 
+
+**Vivaldi style is inescapable, just like the formula of opera and doomed lovers**
+
 \****
 
 Other composers wrote operas based on the the last years of Moctezuma II's life, full of history as they were; Carl Heinrich Graun, a big name in his day among German composers writing Italian opera, wrote his *Montezuma* in 1755, and Czech composer Josef Mysliveček
@@ -34,8 +38,10 @@ Other composers wrote operas based on the the last years of Moctezuma II's life,
 
 \***recipe for opera stays the same - forbidden/doomed lovers, chasing happiness against all odds (quote from NYT article about lovers in opera)***
 
-* 
-* listening to score, there's nothing to suggest the story takes place far, far away - specifically in the New World (at this time of 1733, it was one of the first operas telling a story of the Americas) - maybe that's on purpose (ie., a ruler is a ruler, let's not try and be too exotic about it?) or maybe that's because Vivaldi's style was a draw in itself, and the exotic names and places were enough to pique the audience's interest
+* ABOC's season is about mythology, and _Montezuma_ is the only one on their line-up that's about a real living person
+
+listening to score, there's nothing to suggest the story takes place far, far away - specifically in the New World (at this time of 1733, it was one of the first operas telling a story of the Americas) - maybe that's on purpose (ie., a ruler is a ruler, let's not try and be too exotic about it?) or maybe that's because Vivaldi's style was a draw in itself, and the exotic names and places were enough to pique the audience's interest
+
 * other operas based on the same Moctezuma II: _Motezuma_ by Josef Mysliveček (1771), _Montezuma_ by Carl Heinrich Graun (1755), and _Montezuma_ by Rogers Sessions (1964)
 * opera has an exciting biography of its own: the music was thought to be lost after its 1733 premiere (although the libretto survived), and only rediscovered in 2002 by German musicologist Steffen Voss - it was in Berlin's Sing Akademie library, which was taken by the Soviet Red Army after WWII
 * it was found incomplete, but since its 2002 rediscovery, the companies who put it up have made judicial cuts/pastes to create a score that works onstage or in-concert
