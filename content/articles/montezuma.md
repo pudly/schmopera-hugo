@@ -22,7 +22,7 @@ Listening to his score, there's nothing to suggest that Antonio Vivaldi's _Monte
 
 When we think of "exotic" operas - _Carmen_, Madama Butterfly, _The Pearl Fishers_ - we often think of a score that reflects the musical aesthetic of somewhere very far away. But Vivaldi's _Montezuma_ - also titled _Motezuma_, in a spelling variance that reflects the many versions of the Aztec's name - sounds like something entirely Italian in origin, as though it could tell a story of a Roman Emperor or deity from Greek Mythology.
 
-If we're feeling generous, we could speculate that Vivaldi purposefully opted to give _Montezuma_ the same musical aesthetic as he did his operas based on Italian epic poetry or Greek mythology, making the statement that 
+If we're feeling generous, we could speculate that Vivaldi purposefully opted to give _Montezuma_ the same musical aesthetic as he did his operas based on Italian epic poetry or Greek mythology; perhaps he was making the statement that a ruler is a ruler, no matter how far away his kingdom, and so the music Vivaldi wrote for the Aztec Moctezuma II is bound to share a style with his music for the Greek Griselda, or the Ottoman Bajazet.
 
 **Vivaldi style is inescapable, just like the formula of opera and doomed lovers**
 
