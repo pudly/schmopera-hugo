@@ -34,7 +34,9 @@ After all, _Montezuma_ is not really an opera about history; it may revolve arou
 
 There's actually more history around the opera than in it. _Montezuma_ saw few performances after in 1733 premiere, and the score was thought to be lost, until musicologist Steffan Voss rediscovered it in 2002. For its time, _Montezuma_ comes with some surprises: there's no chorus, and there are two roles for "soprano castrato" - a rare specification for female singers in lieu of male castrati. And, perhaps exposing a thinly veiled opinion on the wild and exotic world of the Mexican Aztecs, the foreign leader Moctezuma is sung not by a castrato (the voice type often reserved for important European men), but by a delightfully savage baritone voice.
 
-If we look to closely, and scrutinize unjustly with a 21st-century lens, _Montezuma_ could be seen as problematic. Why champion the Spanish, when their colonialism was so vicious? And why set a story in the New World
+If we look too closely with our 21st-century lens, _Montezuma_ could be seen as problematic. Why champion the Spanish, when their colonialism was so vicious? And why set a story in the New World if it's nothing more than an exotic packaging for familiar operatic tropes?
+
+Of course, these are unfair questions to ask of _Montezuma_, and of Vivaldi, who composed with his own style and for his own audiences. These recently-revived opera is a trove for those who love history: _Montezuma_ reveals what 18th-century audiences were eager to see and hear (excellent singing, digestible tastes of
 
 \***opens up a research rabbit hole for those interested - most of the opera's characters are modeled after real people, even if their stories are fictional***
 
