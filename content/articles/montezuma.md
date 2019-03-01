@@ -32,7 +32,7 @@ What's more likely is that Vivaldi had little access to the aesthetic of Aztec m
 
 After all, _Montezuma_ is not really an opera about history; it may revolve around historical figures, but its VIvaldi's opera is nearly 100% fiction. Moctezuma grapples with the Spanish invaders, his daughter finds unlikely love among the Conquistadors, and the whole thing wraps up with a definitely fictional happy ending - plus a little old-world Eurocentrism thrown in for good measure. As music critic Mark Swed puts it, _Montezuma_ is the "Baroque equivalent of many a summer movie."
 
-There's actually more history around the opera than in it. _Montezuma_ saw few performances after in 1733 premiere, and the score was thought to be lost, until musicologist Steffan Voss
+There's actually more history around the opera than in it. _Montezuma_ saw few performances after in 1733 premiere, and the score was thought to be lost, until musicologist Steffan Voss rediscovered it in 2002. For its time, _Montezuma_ comes with some surprises: there's no chorus, and there are two roles for "soprano castrato" - a rare specification for female singers in lieu of male castrati. And, perhaps exposing a thinly veiled opinion on the wild and exotic world of the Mexican Aztecs, the foreign leader Moctezuma is sung not by a castrato (the voice type often reserved for important European men), but by a 
 
 Other composers wrote operas based on the the last years of Moctezuma II's life, full of history as they were; Carl Heinrich Graun, a big name in his day among German composers writing Italian opera, wrote his *Montezuma* in 1755, and Czech composer Josef Mysliveček
 
