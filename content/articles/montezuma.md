@@ -36,7 +36,7 @@ There's actually more history around the opera than in it. _Montezuma_ saw few p
 
 If we look too closely with our 21st-century lens, _Montezuma_ could be seen as problematic. Why champion the Spanish, when their colonialism was so vicious? And why set a story in the New World if it's nothing more than an exotic packaging for familiar operatic tropes?
 
-Of course, these are unfair questions to ask of _Montezuma_, and of Vivaldi, who composed with his own style and for his own audiences. These recently-revived opera is a trove for those who love history: _Montezuma_ reveals what 18th-century audiences were eager to see and hear (excellent singing, digestible tastes of
+Of course, these are unfair questions to ask of _Montezuma_, and of Vivaldi, who composed with his own style and for his own audiences. These recently-revived opera is a trove for those who love history: _Montezuma_ reveals what 18th-century audiences were eager to see and hear: digestible tastes of a far-off culture, a few casualties and a happy ending. And of course, vocal prowess that borders on the divine.
 
 \***opens up a research rabbit hole for those interested - most of the opera's characters are modeled after real people, even if their stories are fictional***
 
