@@ -3,7 +3,6 @@ author = ["authors/jeremy-hirsch.md"]
 categories = "Review"
 date = "2019-03-03T17:29:57+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
@@ -26,7 +25,7 @@ Director Florentine Klepper moves the opera's action, which begins with Dalibor'
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551636550/media/2019/03/3823dalibor03.jpg){{% /md %}}
 
-<figcaption>in Dalibor, Oper Frankfurt, 2019. Photo: Monika Rittershaus.</figcaption>
+<figcaption>Gordon Bintner and Ensemble in Dalibor, Oper Frankfurt, 2019. Photo: Monika Rittershaus.</figcaption>
 
 </figure>
 
@@ -36,7 +35,7 @@ He testifies instead that he killed to avenge the mysterious murder of his best 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551636587/media/2019/03/3807dalibor07.jpg){{% /md %}}
 
-<figcaption>in Dalibor, Oper Frankfurt, 2019. Photo: Monika Rittershaus.</figcaption>
+<figcaption>Izabela Matuła (Milada), Aleš Briscein (Dalibor) sowie Simon Bailey (Budivoj), Gordon Bintner (Vladislav) in Dalibor, Oper Frankfurt, 2019. Photo: Monika Rittershaus.</figcaption>
 
 </figure>
 
@@ -46,7 +45,7 @@ Outside the studio, a ragtag group of punky protesters await the trial's verdict
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551636627/media/2019/03/3825dalibor11.jpg){{% /md %}}
 
-<figcaption>in Dalibor, Oper Frankfurt, 2019. Photo: Monika Rittershaus.</figcaption>
+<figcaption>Gordon Bintner and Ensemble in Dalibor, Oper Frankfurt, 2019. Photo: Monika Rittershaus.</figcaption>
 
 </figure>
 
