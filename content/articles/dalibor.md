@@ -60,7 +60,7 @@ Or maybe the production decries the symbiosis of partisan media and national pol
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551636681/media/2019/03/3814dalibor13.jpg){{% /md %}}
 
-<figcaption>in Dalibor, Oper Frankfurt, 2019. Photo: Monika Rittershaus.</figcaption>
+<figcaption>Angela Vallone (Jitka) and Theo Lebow (Vítek) in Dalibor, Oper Frankfurt, 2019. Photo: Monika Rittershaus.</figcaption>
 
 </figure>
 
@@ -70,7 +70,7 @@ Moreover Dalibor, rather than die a hero of the disenfranchised, winds up a comm
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551636719/media/2019/03/3809dalibor14.jpg){{% /md %}}
 
-<figcaption>in Dalibor, Oper Frankfurt, 2019. Photo: Monika Rittershaus.</figcaption>
+<figcaption>Gordon Bintner (Vladislav), Simon Bailey (Budivoj) and Ensemble in Dalibor, Oper Frankfurt, 2019. Photo: Monika Rittershaus.</figcaption>
 
 </figure>
 
