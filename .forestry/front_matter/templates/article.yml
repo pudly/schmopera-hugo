@@ -108,6 +108,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/big-city-opera-houses.md
 - content/articles/dalibor.md
 - content/articles/montezuma.md
 - content/articles/pbo-giovanni.md
