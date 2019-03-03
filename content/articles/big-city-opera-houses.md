@@ -20,4 +20,8 @@ youtube_url = ""
 +++
 There's a question that crosses my mind fairly regularly, and since we've just gone through a wave of season announcements by some of North America's largest opera companies, I'm finally deciding to seek out an answer or two.
 
-I'm outsourcing this 
+I'm outsourcing my question to you, readers, since I think the answer needs to be a group effort:
+
+**What is the function of a major opera company in a large city?**
+
+I'll explain my question a bit: in most North American metropolises with an opera scene, there is one large opera house, and a few small (and very small) companies. The large house has the money and man-power to do things like _Ring Cycles_ and _Turandots_ and 
