@@ -48,17 +48,19 @@ Klepper wonders, in her show notes, how meeting violence with violence functions
 
 The bright spot in the production, as is often the case at Oper Frankfurt, is the capable cast of singers.
 
-Bass Thomas Faulkner's voice, burnished with blooming upper and lower ranges, lends the duped guard Beneš heartfelt warmth and sympathetic loneliness.
+Bass [Thomas Faulkner](/scene/people/thomas-faulkner/)'s voice, burnished with blooming upper and lower ranges, lends the duped guard Beneš heartfelt warmth and sympathetic loneliness.
 
-Angela Vallone (Jitka) has a bright, youthful timbre tinted with ruby undertones. The role hops her through the bulk of her range, which includes a surprisingly resonant chest voice.
+[Angela Vallone](/scene/people/angela-vallone/) (Jitka) has a bright, youthful timbre tinted with ruby undertones. The role hops her through the bulk of her range, which includes a surprisingly resonant chest voice.
 
-Theo Lebow, who typically sings character tenor roles, is mismatched as Jitka's boyfriend Vítek. Nonetheless he holds his own in the supporting role.
+[Theo Lebow](/scene/people/theo-lebow/), who typically sings character tenor roles, is mismatched as Jitka's boyfriend Vítek. Nonetheless he holds his own in the supporting role.
 
-Tenor Aleš Briscein likely interprets the title role more fluidly in his native Czech. His German sometimes suffers from overly blended consonant clusters that elide words and syllables into smooth but unintelligible combinations of sounds. His singing, initially plagued by imprecise intonation, settled down and remained fresh throughout the evening.
+Tenor [Aleš Briscein](/scene/people/ales-briscein/) likely interprets the title role more fluidly in his native Czech. His German sometimes suffers from overly blended consonant clusters that elide words and syllables into smooth but unintelligible combinations of sounds. His singing, initially plagued by imprecise intonation, settled down and remained fresh throughout the evening.
 
-Izabela Matuła's (Milada) vocalism was effortless and rich, though not hair raising.
+***
 
-Gordon Bintner's (Vladislav) singing is refined, fluid, and technically sound. He marks moments of heightened expression with straight tone punches that can seem more intellectually planned than spontaneously felt.
+'s (Milada) vocalism was effortless and rich, though not hair raising.
+
+[Gordon Bintner](/scene/people/gordon-bintner/)'s (Vladislav) singing is refined, fluid, and technically sound. He marks moments of heightened expression with straight tone punches that can seem more intellectually planned than spontaneously felt.
 
 Maestro Stefan Soltesz balanced the orchestra's volume well to the singers' voices. Unfortunately, Smetana's idiosyncratic dances, which are the score's hallmark, never grooved under his baton.
 
