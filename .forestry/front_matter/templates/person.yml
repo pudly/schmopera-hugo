@@ -41,6 +41,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/aleš-briscein.md
 - content/scene/people/bogdan-volkov.md
 - content/scene/people/andrei-bondarenko.md
 - content/scene/people/caitlin-lynch.md
