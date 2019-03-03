@@ -84,7 +84,7 @@ Bass [Thomas Faulkner](/scene/people/thomas-faulkner/)'s voice, burnished with b
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551636767/media/2019/03/3826dalibor20.jpg){{% /md %}}
 
-<figcaption>in Dalibor, Oper Frankfurt, 2019. Photo: Monika Rittershaus.</figcaption>
+<figcaption>Izabela Matuła (Milada), Aleš Briscein (Dalibor) sowie Simon Bailey (Budivoj; background right) and Ensemble in Dalibor, Oper Frankfurt, 2019. Photo: Monika Rittershaus.</figcaption>
 
 </figure>
 
