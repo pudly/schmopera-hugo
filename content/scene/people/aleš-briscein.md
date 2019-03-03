@@ -1,10 +1,9 @@
 +++
 date = "2019-03-03T17:35:32+00:00"
 discipline = "Tenor"
-draft = true
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551634443/media/2019/03/AlesBriscein.jpg"
 primary_image_credit = ""
-related_companies = ["scene/companies/bayerische-staatsoper.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/staatsoper-berlin.md", "scene/companies/oper-frankfurt.md"]
+related_companies = ["scene/companies/opra-national-de-paris.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/staatsoper-berlin.md", "scene/companies/oper-frankfurt.md"]
 slug = "ales-briscein"
 title = "Aleš Briscein"
 website = "http://www.briscein.eu/"
@@ -20,7 +19,7 @@ Plans of Czech tenor of Aleš Briscein for 2019 include the title role in a new 
 
 He is guesting at many theatres and festivals of his home country in roles like Jiri in Dvorak‘s _Jakobin_, Ladislav in Smetana‘s _Two widows_, Prince in _Rusalka_, Conte di Albafloria in Martinu‘s _Mirandolina_, as Jaromér in Fibich’s _Pád Arkuna_, as Lukas in Smetana’s _The Kiss_, as Alfredo in _La Traviata_, in the title role of _Lohengrin_ or 2015 as Pollione in Bellini’s _Norma_.
 
-Recent highlights include 2018his debuts as Paul in a new production of Korngold’s _Die tote Stadt_ at Komische Oper Berlin, as Filka Morozov in a new production _From the House of the Dead_ at Munich State Opera and as Sergej in _Lady Macbeth of the Mzensk Distric_t in Ostrava as well as his debut at Deutsche Oper Berlin as Albert Gregor in _The Makropulos Case;_ 2017 Tambourmajor in _Wozzeck_ at Theater an der Wien conducted by Leo Hussain and staged by Robert Carsen, his debut in the title role of Zemlinksky’s _Der Zwerg_ in Graz, 2016 a new production Eugene Oneguin at Komische Oper Berlin, his debut as Skuratov in Janacek’s _From the House of the Dead_ at Savonlinna Opera Festival, and Albert Gregor in a concert performance of _Vec Makropulos_ under Jiri Belohlavek at the BBC Proms. He went on tour to Japan with State Opera Prague as Pollione in Bellini’s _Norma_ and to Hong Kong with National Theatre of Brno as Alber Gregor in and with the _Glagolitic Mass_.
+Recent highlights include 2018his debuts as Paul in a new production of Korngold’s _Die tote Stadt_ at Komische Oper Berlin, as Filka Morozov in a new production _From the House of the Dead_ at Munich State Opera and as Sergej in _Lady Macbeth of the Mzensk District_ in Ostrava as well as his debut at Deutsche Oper Berlin as Albert Gregor in _The Makropulos Case;_ 2017 Tambourmajor in _Wozzeck_ at Theater an der Wien conducted by Leo Hussain and staged by Robert Carsen, his debut in the title role of Zemlinksky’s _Der Zwerg_ in Graz, 2016 a new production _Eugene Onegin_ at Komische Oper Berlin, his debut as Skuratov in Janacek’s _From the House of the Dead_ at Savonlinna Opera Festival, and Albert Gregor in a concert performance of _Vec Makropulos_ under Jiri Belohlavek at the BBC Proms. He went on tour to Japan with State Opera Prague as Pollione in Bellini’s _Norma_ and to Hong Kong with National Theatre of Brno as Alber Gregor in and with the _Glagolitic Mass_.
 
 2015 he debuted in the part of Königssohn in Humperdinck’s _Königskinder_ at Opera Frankfurt, performed Laca in Janacek’s _Jenufa_ at the Teatro Comunale di Bologna and sang Stravinskiy’s _Les Noces_ in Rome. 2013/14 he guested in new productions of _Così fan tutte_ at the Komische Oper and of _Jenufa_ in Graz. 2013 he was heard as Andrej in Tchaikowsky’s _Mazeppa_ at Komische Oper and as Steva in _Jenufa_ at the Bavarian State Opera in Munich.
 
