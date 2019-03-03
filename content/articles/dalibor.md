@@ -9,12 +9,12 @@ postamble = ""
 preamble = ""
 primary_image = ""
 primary_image_credit = ""
-related_articles = []
-related_companies = []
-related_people = []
+related_articles = ["articles/a-visceral-nightmarish-tourdeforce-der-mieter.md", "articles/tweaking-the-brothers-grimm-in-oper-frankfurt-s-hänsel-und-gretel.md"]
+related_companies = ["scene/companies/oper-frankfurt.md"]
+related_people = ["scene/people/theo-lebow.md", "scene/people/gordon-bintner.md", "scene/people/izabela-matuła.md", "scene/people/angela-vallone.md", "scene/people/thomas-faulkner.md", "scene/people/aleš-briscein.md"]
 short_description = "short"
-slug = "dalibor"
-title = "Dalibor"
+slug = "smetanas-dalibor-gets-reality-show-treatment-at-oper-frankfurt"
+title = "Smetana's Dalibor gets reality show treatment at Oper Frankfurt"
 youtube_url = ""
 
 +++
