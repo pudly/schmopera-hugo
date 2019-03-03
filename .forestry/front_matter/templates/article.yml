@@ -108,6 +108,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/dalibor.md
 - content/articles/montezuma.md
 - content/articles/pbo-giovanni.md
 - content/articles/the-angel-speaks.md
