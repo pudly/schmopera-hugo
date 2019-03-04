@@ -46,7 +46,7 @@ After all, _Montezuma_ is not really an opera that recounts history; it may revo
 
 There's actually more history around the opera than in it. _Montezuma_ saw few performances after its 1733 premiere, and the score was thought to be lost, until musicologist Steffan Voss rediscovered it in 2002. For its time, _Montezuma_ comes with some surprises: there's no chorus, and, perhaps exposing a thinly veiled opinion on the wild and exotic world of the Mexican Aztecs, the foreign leader Moctezuma II is sung not by a castrato (the voice type often reserved for important European men), but by a delightfully savage baritone voice.
 
-> it may revolve around historical figures, but Vivaldi's opera is full of fantasy.
+> It may revolve around historical figures, but Vivaldi's opera is full of fantasy.
 
 If we look too closely with our 21st-century lens, _Montezuma_ could be seen as problematic. Why champion the Spanish, when their colonialism was so vicious? And why set a story in the New World if it's nothing more than an exotic packaging for familiar operatic tropes?
 
