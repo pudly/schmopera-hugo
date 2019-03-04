@@ -32,8 +32,19 @@ With the notable exceptions of The Metropolitan Opera and San Francisco Opera - 
 
 To be fair, these big houses aren't entire tone-deaf, and within their season line-ups are details that pop up to announce the immediate culture: Spanish-language operas in Houston and LA, Renée Fleming recitals in Chicago, Rufus Wainwright operas in Toronto.
 
-But these big houses feature many (most?) of the same big-name artists, the in-demand productions - _Ariodantes_ by Richard Jones, _Eugene Onegins_ by Robert Carsen, _Elektras_ by David McVicar - 
+But these big houses feature many (most?) of the same big-name artists, the in-demand productions - _Ariodantes_ by Richard Jones, _Eugene Onegins_ by Robert Carsen, _Elektras_ by David McVicar.
 
-* people working everywhere in a country, except the major house
+Here in Canada, there's a huge pool of skilled artists who have busy calendars - conspicuously at every Canadian opera house except the big one; the same goes for Canadian composers and librettists. 
+
+And yet, the big company in Canada is, without hesitation, considered a part of the Canadian opera scene; its productions even fill up the nominations for the Dora Awards, which are meant to honour excellents in Toronto-based opera, dance, and theatre. 
+
+I figure that Toronto isn't unique, and this kind of odd divide happens in Chicago, New York, and LA, too. 
+
+It irks me sometimes, that there is domestic talent that seems overlooked by the country's biggest stage, but I wonder if I'm justified in being irked. 
+
+I guess I'm asking, are these major opera houses part of their cities, or not? Their audiences are local, and likely so are members of their choruses, orchestras, stage crews, and administrative teams. 
+
+But what's being put up onstage seems to be more of a portal for localized audiences to see what's happening in the broader opera scene. They get to see that Carsen _Midsummer_ and that Kosky _Magic Flute_ and hear Sondra Radvanovsky sing one or all of the Three Queens.
+
 * are the major houses a network connecting cities to the broader scene?
 * why are the headlining talents not more often local? Is that naive to ask of opera, which is inherently international? would it be robbing a city of great opera to limit the pool to their area?
