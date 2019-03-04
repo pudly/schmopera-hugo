@@ -41,6 +41,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/ryan-kuster.md
 - content/scene/people/thomas-faulkner.md
 - content/scene/people/theo-lebow.md
 - content/scene/people/izabela-matuła.md
