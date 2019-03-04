@@ -11,7 +11,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551487349/m
 primary_image_credit = ""
 related_articles = ["articles/5-people-who-would-make-great-opera-roles.md", "articles/forgiving-racism-onstage.md"]
 related_companies = ["scene/companies/american-baroque-opera-co.md"]
-related_people = []
+related_people = ["scene/people/ryan-kuster.md"]
 short_description = "If we look too closely with our 21st-century lens, Montezuma could be seen as problematic. Why champion the Spanish, when their colonialism was so vicious?"
 slug = "vivaldis-aztec-exoticism-montezuma"
 title = "Vivaldi's Aztec exoticism: Montezuma"
@@ -40,7 +40,7 @@ After all, _Montezuma_ is not really an opera that recounts history; it may revo
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551717295/media/2019/03/RyanKuster.jpg){{% /md %}}
 
-<figcaption>Bass-baritone Ryan Kuster, singing the title role in American Baroque Opera Company's production of _Montezuma_.</figcaption>
+<figcaption>Bass-baritone Ryan Kuster, singing the title role in American Baroque Opera Company's production of Montezuma.</figcaption>
 
 </figure>
 
