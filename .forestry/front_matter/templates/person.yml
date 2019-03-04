@@ -41,13 +41,13 @@ fields:
       type: pages
       section: companies
 pages:
-- content/scene/people/ryan-kuster.md
-- content/scene/people/thomas-faulkner.md
 - content/scene/people/theo-lebow.md
+- content/scene/people/andrei-bondarenko.md
+- content/scene/people/ryan-kuster.md
+- content/scene/people/bogdan-volkov.md
+- content/scene/people/thomas-faulkner.md
 - content/scene/people/izabela-matuła.md
 - content/scene/people/aleš-briscein.md
-- content/scene/people/bogdan-volkov.md
-- content/scene/people/andrei-bondarenko.md
 - content/scene/people/caitlin-lynch.md
 - content/scene/people/jesse-blumberg.md
 - content/scene/people/paul-la-rosa.md

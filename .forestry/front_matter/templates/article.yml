@@ -109,9 +109,9 @@ fields:
   label: Image Gallery
 pages:
 - content/articles/montezuma.md
-- content/articles/big-city-opera-houses.md
-- content/articles/dalibor.md
 - content/articles/pbo-giovanni.md
+- content/articles/dalibor.md
+- content/articles/big-city-opera-houses.md
 - content/articles/the-angel-speaks.md
 - content/articles/monstrous-child-1.md
 - content/scene/people/marta-fontanals-simmons.md
