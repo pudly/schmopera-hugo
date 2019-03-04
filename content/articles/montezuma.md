@@ -32,7 +32,7 @@ When we think of "exotic" operas - _Carmen_, _Madama Butterfly_, _The Pearl Fish
 
 If we're feeling generous, we could speculate that Vivaldi purposefully opted to give _Montezuma_ the same musical aesthetic as he did his operas based on Italian epic poetry or Greek mythology; perhaps he was making the statement that a ruler is a ruler, no matter how far away his kingdom, and so the music Vivaldi wrote for the Aztec Moctezuma II is bound to share a style with his music for the Greek Griselda, or the Ottoman Bajazet.
 
-What's more likely is that Vivaldi had little access to the aesthetic of Aztec music, and was content to let own compositional style shine through all his heroes and heroines, including Moctezuma II.
+What's more likely is that Vivaldi had little access to the aesthetic of Aztec music, and was content to let his own compositional style shine through all his heroes and heroines, including Moctezuma II.
 
 > The whole thing wraps up with a definitely fictional happy ending - plus a little old-world Eurocentrism thrown in for good measure.
 
