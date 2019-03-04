@@ -30,7 +30,9 @@ For the more hardcore opera fans, the combination of large and small opera compa
 
 With the notable exceptions of The Metropolitan Opera and San Francisco Opera - two houses with their own civic histories - it seems to me that the major opera companies of North America are not representative of their cities. The Canadian Opera Company, Houston Grand Opera, Lyric Opera of Chicago, LA Opera - these places have much more in common with each other than with their respective communities. 
 
-To be fair, these big houses aren't entire tone-deaf, and within their season line-ups are 
+To be fair, these big houses aren't entire tone-deaf, and within their season line-ups are details that pop up to announce the immediate culture: Spanish-language operas in Houston and LA, Renée Fleming recitals in Chicago, Rufus Wainwright operas in Toronto.
+
+But these big houses feature many (most?) of the same big-name artists, the in-demand productions - _Ariodantes_ by Richard Jones, _Eugene Onegins_ by Robert Carsen, _Elektras_ by David McVicar - 
 
 * people working everywhere in a country, except the major house
 * are the major houses a network connecting cities to the broader scene?
