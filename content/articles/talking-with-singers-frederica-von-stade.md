@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = "Frederica von Stade stars in Jake Heggie's _Three Decembers_ in a production by the San Diego Opera March 8-10, 2019, directed by Karen Tiller. The opera, based on Terrence McNally's play _Some Christmas Letters_, premiered at the Houston Grand Opera in February 2008 and was created with a role for the great mezzo-soprano, Frederica von Stade, who began her career in 1970 with her debut at the Metropolitan Opera."
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551812492/media/2019/03/sqvonStadeRobertMillard.jpg"
+primary_image_credit = "Photo: Robert Millard."
 related_articles = []
 related_companies = []
 related_people = []
@@ -40,6 +40,12 @@ Of course, it would have been amazing to work with Mozart like that \[in the roo
 
 The \[composers\] are the ones who are creating it and they know what they want. They're flexible to a point but in a way, we are just the sales girls.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551812622/media/2019/03/vonStadeThreeDecembers.jpg){{% /md %}}
+
+<figcaption>San Diego Opera presents Jake Heggie's chamber opera, Three Decembers, March 8, 9, and 10m, 2019. Part of the Detour Series. Photo courtesy of Hawaii Opera Theatre.</figcaption>
+
+</figure>
+
 ### On why she sings
 
 I've been singing from the time I was three. Singing has always been a great comfort. As a child I had a wild imagination and I was always creating little scenes. If I was playing with leaves, I would make pathways and roads. I was lucky to be a child towards the end of World War II when we didn't have television. We played and used our imaginations. Singing is an expression of joy. That's why I sing. I had a very joyful childhood. I spent all the summers with my grandmother in the full-on country in New Jersey, swimming, riding bikes, on farms. I adored my mom. She was incredible.
@@ -61,6 +67,12 @@ The problem in my generation was the size of the houses. The Metropolitan Opera 
 At this point in my life, I really love seeing kids come along and prosper in music and through music. I volunteered in schools. I worked in a little Catholic school for almost 15 years and started a choir and a violin program and took kids to the opera. I've worked in daycare centers for very little kids doing singing with them, all low-income kids. 
 
 Now I work with the Young Musicians Choral Orchestra. It's an extraordinary program for children 9 through 18 that does intensive music preparation. They have to sing and also have to play an instrument. Lessons are free and there are weekly rehearsals. There's an intensive 8-week program in the summer from 8 AM till 6 PM. The purpose of it is to get those kids into college. Usually, college would not be in their future because they're from very low-income families. Music gives them great discipline and a great joy. 
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551812563/media/2019/03/vonStadeTerrenceMcCarthy.jpg){{% /md %}}
+
+<figcaption>Frederica von Stade. Photo by Terrence McCarthy.</figcaption>
+
+</figure>
 
 ### On opera singers
 
