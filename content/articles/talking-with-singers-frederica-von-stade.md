@@ -3,7 +3,6 @@ author = ["authors/eva-cahen.md"]
 categories = "Interview"
 date = "2019-03-05T18:29:05+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = "Frederica von Stade stars in Jake Heggie's _Three Decembers_ in a production by the San Diego Opera March 8-10, 2019, directed by Karen Tiller. The opera, based on Terrence McNally's play _Some Christmas Letters_, premiered at the Houston Grand Opera in February 2008 and was created with a role for the great mezzo-soprano, Frederica von Stade, who began her career in 1970 with her debut at the Metropolitan Opera."
