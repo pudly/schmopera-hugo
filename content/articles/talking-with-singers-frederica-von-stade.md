@@ -26,6 +26,8 @@ _Three Decembers_ is based on a short play by Terrence McNally, _Some Christmas 
 
 Jake and his amazing librettist Gene Scheer created this piece that is a family story, a very honest typical family dynamic. For me, that's always incredibly interesting. It's about a mother, who is an actress, and her two children. She has imposed all the things that come from a public career on her family. That is also in my life and I got to explore that. She is self-centered and difficult - and that's fun - and she is holding on to an incredibly dark secret that her children don't know. It goes on for three decades. At first, she’s in the prime of her career, then her son, who is gay, loses his partner to AIDS. I was very much a part of that AIDS crisis when it first came about and I lost four or five friends to AIDS. That was something to be explored too in the role. In the last part she's gone. For me that is the most touching. Maddy says "I'm so awfully glad I showed up for it \[life\]" and her kids say they are glad too.
 
+>I love Jake Heggie so much. There's no way I can claim him as a son but I'm so proud of him.
+
 Every mom wants to think they didn't ruin their children's lives, that the love they feel for their kids went to a good effect, that it carried them forward in their lives, that it was a basis of success. I love that moment. It is my moment because you spend a lot of time thinking of all the things you did wrong with your kids.
 
 I played _Three Decembers_ because I was asked to do it and I'm doing it again because I've been asked to do it again. I'm in a time of my life when I say yes. At certain times in your life, if you're invited, you just say yes.
@@ -50,6 +52,8 @@ The \[composers\] are the ones who are creating it and they know what they want.
 
 I've been singing from the time I was three. Singing has always been a great comfort. As a child I had a wild imagination and I was always creating little scenes. If I was playing with leaves, I would make pathways and roads. I was lucky to be a child towards the end of World War II when we didn't have television. We played and used our imaginations. Singing is an expression of joy. That's why I sing. I had a very joyful childhood. I spent all the summers with my grandmother in the full-on country in New Jersey, swimming, riding bikes, on farms. I adored my mom. She was incredible.
 
+>The whole question of Fach and what type of voice you have is like the subject of what kind of blond you are.
+
 To this day, even though I'm not always happy with the way my voice sounds, even at my age, I enjoy it. I'm working harder than I ever have because I have no timeline. I don't have to achieve anything. I'm starting to teach a little bit at the conservatory - interpretation, not voice. I need to stay on my game to know what the kids are going through and find ways to help them, to explain what has worked for me that might work for them. I sing all the time. People sometimes ask me on subways and trains to please be quiet because I'm singing.
 
 ### On Zwischenfach
@@ -61,6 +65,8 @@ The German operatic system is stricter than we are in the States. If you sang Su
 Singers today are less confined because they are beautifully trained. They have wonderful coaches and wonderful teachers. They have young artist programs and there's an enormous amount of guidance.
 
 The problem in my generation was the size of the houses. The Metropolitan Opera House is almost 4000 people. It has an astonishingly great acoustic. Chicago is about the same and so is San Francisco Opera. If you're thinking of projecting the amount of sound that you need, that could be a consideration. There might be a role that you would consider doing somewhere else rather than in a great big theater. Most of the European houses are nowhere near the size of the Metropolitan Opera or the Dallas Opera. Plus, there are many conductors that keep the orchestra too loud. It is opera and not symphony. The point is to hear the voices. The voices are telling the story.
+
+>The myth of the diva is not a myth. I actually sort of miss it. I started in the time of divas.
 
 ### On what keeps her driven
 
@@ -79,6 +85,8 @@ Now I work with the Young Musicians Choral Orchestra. It's an extraordinary prog
 In general opera singers are really fun and really silly. Many of us have come to our careers later so we're not trained musicians. We need a certain amount of training to do it but not like a violinist, who if they haven't started by eight, they're cooked. The way I describe opera singers is kind of like third graders. All of them.
 
 In my years of singing I never met somebody awful. In general, opera singers are fragile because they're basing everything on this little thing in their throat. They use their ego to protect themselves and not to push themselves on everybody. That's what you need to be silly enough to think you can go out there and entertain so many people.
+
+>I love all the friends I made and I love this particular time in a piece when we are rehearsing every day and seeing each other.
 
 The myth of the diva is not a myth. I actually sort of miss it. I started in the time of divas. When Ms Tebaldi would come in to the opera house – the buzz was so overwhelmingly exciting. She was marvelous looking – tall, big, with big hands. She always had the most fabulous large gold jewelry, and a hat, and fur. And she always had her assistant and her dog with her. We were on the floor with appreciation and excitement.
 
