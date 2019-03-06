@@ -24,7 +24,7 @@ Like virtually all of Handel's works for the stage, _Ariodante_ is a rumination 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551893744/media/2019/03/ARIODANTE37A1615.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>A scene from Ariodante, Lyric Opera of Chicago, 2019. Photo: Cory Weaver.</figcaption>
 
 </figure>
 
@@ -34,7 +34,7 @@ Singing opposite Rae is [Alice Coote](/scene/people/alice-coote/), who just earl
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551893788/media/2019/03/AliceCooteBrendaRaeKyleKetelsenHeidiStoberARIODANTET8A0339.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Alice Coote, Brenda Rae, Kyle Ketelsen, and Heidi Stober in Ariodante, Lyric Opera of Chicago, 2019. Photo: Cory Weaver.</figcaption>
 
 </figure>
 
@@ -44,7 +44,7 @@ As an absolutely revolting iteration of Polinesso, (here a corrupt priest crowne
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551893834/media/2019/03/AliceCooteJoshLovellEricFerringKyleKetelsenARIODANTET8A0552.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Alice Coote, Josh Lovell, Eric Ferring, and Kyle Ketelsen in Ariodante, Lyric Opera of Chicago, 2019. Photo: Cory Weaver.</figcaption>
 
 </figure>
 
@@ -54,7 +54,7 @@ The opera's _denouement_ is meant to end with the blissful union of Ariodante an
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551893946/media/2019/03/HeidiStoberARIODANTE37A1566.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Heidi Stober in Ariodante, Lyric Opera of Chicago, 2019. Photo: Cory Weaver.</figcaption>
 
 </figure>
 
