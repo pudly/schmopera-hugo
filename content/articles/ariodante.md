@@ -10,8 +10,8 @@ preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551891487/media/2019/03/sqBrendaRaeKyleKetelsenARIODANTET8A1874.jpg"
 primary_image_credit = "Brenda Rae and Kyle Ketelsen in Ariodante, Lyric Opera of Chicago, 2019. Photo: Cory Weaver."
 related_articles = ["articles/pass-the-tissues-a-beautiful-new-bohme-in-chicago.md", "articles/ariodante-or-the-hebridean-handel.md"]
-related_companies = []
-related_people = ["scene/people/heidi-stober.md", "scene/people/kyle-ketelsen.md", "scene/people/alice-coote.md", "scene/people/brenda-rae.md"]
+related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
+related_people = ["scene/people/iestyn-davies.md", "scene/people/heidi-stober.md", "scene/people/kyle-ketelsen.md", "scene/people/alice-coote.md", "scene/people/brenda-rae.md"]
 short_description = "This Ariodante exemplifies what I hope to see more of from the Lyric in future seasons: creative, specific staging performed by committed and compelling singer-actors, with top-notch direction in the pit."
 slug = "ariodante"
 title = "Ariodante"
@@ -38,7 +38,7 @@ Singing opposite Rae is [Alice Coote](/scene/people/alice-coote/), who just earl
 
 </figure>
 
-Ariodante's brother Lurcanio was gamely sung by current Ryan Opera Center tenor Eric Ferring. Ferring has an easy, warm tone and handled the coloratura of his bravura aria "Il tuo sangue" with a natural aplomb.
+Ariodante's brother Lurcanio was gamely sung by current Ryan Opera Center tenor [Eric Ferring](/scene/people/eric-ferring/). Ferring has an easy, warm tone and handled the coloratura of his bravura aria "Il tuo sangue" with a natural aplomb.
 
 As an absolutely revolting iteration of Polinesso, (here a corrupt priest crowned with an oily ponytail and circle-framed specs), [Iestyn Davies](/scene/people/iestyn-davies/) was so convincing as to elicit boo-ing at the curtain call. The only counter-tenor in the cast, Davies' pretty tone had the bizarre effect of making Polinesso's machinations feel all the more sinister. His seduction and rape of Dalinda, (sung by an excellent [Heidi Stober](/scene/people/heidi-stober/)), was performed with such dramatic intensity that I felt my fists clench.
 
