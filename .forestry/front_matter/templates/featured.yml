@@ -1,7 +1,6 @@
 ---
 label: Featured
 hide_body: true
-is_partial: false
 fields:
 - type: list
   name: articles
