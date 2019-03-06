@@ -3,7 +3,6 @@ author = ["authors/hannah-de-priest.md"]
 categories = "Review"
 date = "2019-03-06T16:53:22+00:00"
 disclaimer = "_Be advised that there may be elements of this production, (especially in Act II), that may be distressing to some individuals, as the action includes a depiction of sexual assault._"
-draft = true
 image_gallery = []
 postamble = "_Ariodante_ runs at Lyric Opera of Chicago through March 17. For details and tickets, [click here](https://www.lyricopera.org/concertstickets/calendar/2018-2019/ariodante-opera-tickets)."
 preamble = ""
@@ -13,8 +12,8 @@ related_articles = ["articles/pass-the-tissues-a-beautiful-new-bohme-in-chicago.
 related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
 related_people = ["scene/people/iestyn-davies.md", "scene/people/heidi-stober.md", "scene/people/kyle-ketelsen.md", "scene/people/alice-coote.md", "scene/people/brenda-rae.md"]
 short_description = "This Ariodante exemplifies what I hope to see more of from the Lyric in future seasons: creative, specific staging performed by committed and compelling singer-actors, with top-notch direction in the pit."
-slug = "ariodante"
-title = "Ariodante"
+slug = "chicago-ariodante-pulses-with-emotion-and-suspense"
+title = "Chicago Ariodante pulses with emotion and suspense"
 youtube_url = ""
 
 +++
