@@ -8,11 +8,11 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551891487/media/2019/03/sqBrendaRaeKyleKetelsenARIODANTET8A1874.jpg"
-primary_image_credit = ""
+primary_image_credit = "Brenda Rae and Kyle Ketelsen in Ariodante, Lyric Opera of Chicago, 2019. Photo: Cory Weaver."
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "This Ariodante exemplifies what I hope to see more of from the Lyric in future seasons: creative, specific staging performed by committed and compelling singer-actors, with top-notch direction in the pit."
 slug = "ariodante"
 title = "Ariodante"
 youtube_url = ""
@@ -62,7 +62,7 @@ With specialist Harry Bicket conducting, the Lyric Orchestra achieved commendabl
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551894788/media/2019/03/IestynDaviesKyleKetelsenBrendaRaeARIODANTET8A1893.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Iestyn Davies, Kyle Ketelsen, and Brenda Rae Ariodante, Lyric Opera of Chicago, 2019. Photo: Cory Weaver.</figcaption>
 
 </figure>
 
