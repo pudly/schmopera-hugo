@@ -26,4 +26,4 @@ Audience stereotypes, flute-sex toy jokes, the inflated power of theatre ushers 
 
 And writing jokes that include a symphony orchestra is actually a genius exercise. It's a reminder that music - especially music that parodies the epic-ness of Mahler - can raise the stakes of a scene to such great heights that it's impossible not to laugh. It's the same reason that opera works, when done right; the words are good, the music is good, and the combo is way greater than the sum of its parts.
 
-Enough over-thinking it: I can feel my symphony-nut self falling prey to the next instalment of _The Second City Guide to the Orchestra_ (
+And just like that, I can already feel myself falling prey to the jokes about audience members who overthink things.
