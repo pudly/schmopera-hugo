@@ -107,6 +107,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/george-benjamin.md
 - content/articles/ariodante.md
 - content/articles/talking-with-singers-frederica-von-stade.md
 - content/articles/montezuma.md
