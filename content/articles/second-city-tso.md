@@ -24,5 +24,6 @@ It was a night of sketch comedy, either about or with the Toronto Symphony Orche
 
 Audience stereotypes, flute-sex toy jokes, the inflated power of theatre ushers - it was all coming at me like a good roast. It was like that weird experience where someone tells you about yourself, picking out details that seem random or unexpected. Mochrie and the ensemble made fun of how symphony audiences are old and wealthy - the opposite of the usual Second City crowd - and how we display varying degrees of trying to look smart. 
 
-\- window into jokes about our people (we're old and rich, not SC usual crew)  
-\- reveals why classical music is funny - raises stakes really high
+And writing jokes that include a symphony orchestra is actually a genius exercise. It's a reminder that music - especially music that parodies the epic-ness of Mahler - can raise the stakes of a scene to such great heights that it's impossible not to laugh. It's the same reason that opera works, when done right; the words are good, the music is good, and the combo is way greater than the sum of its parts.
+
+Enough over-thinking it: I can feel my symphony-nut self falling prey to the next instalment of _The Second City Guide to the Orchestra_ (
