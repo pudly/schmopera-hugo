@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Review"
 date = "2019-03-07T18:21:31+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
@@ -13,8 +12,8 @@ related_articles = []
 related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
 related_people = []
 short_description = "Audience stereotypes, flute-sex toy jokes, the inflated power of theatre ushers - it was all coming at me like a good roast. It was like that weird experience where someone tells you about yourself, picking out details that seem random or unexpected."
-slug = "second-city-tso"
-title = "Second City TSO"
+slug = "actual-fun-at-the-symphony-with-the-second-city"
+title = "Actual fun at the symphony with The Second City"
 youtube_url = ""
 
 +++
