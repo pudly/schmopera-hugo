@@ -18,9 +18,11 @@ title = "Second City TSO"
 youtube_url = ""
 
 +++
-It's easy to see why _The Second City Guide to the Orchestra_ is back by popular demand. I had no idea that there were so many actually funny things to say about the symphony orchestra - enough to fill two hours - but I suppose one should leave it to an improv comedy group to figure it out.
+It's easy to see why _The Second City Guide to the Orchestra_ is back by popular demand. I had no idea that there were so many actually funny things to say about the symphony orchestra - enough to fill two hours - but I suppose one should leave it to an improv comedy group to figure it out. Colin Mochrie, maybe Canada's most famous improviser from his glory days on _Whose Line is it Anyway?_, hosted the night, sharing the odd bit of banter with TSO Principal Pops Conductor Steven Reineke. 
 
-Audience stereotypes, flute-sex toy jokes, the inflated power of theatre ushers - it was all coming at me like a good roast. Colin Mochrie, maybe Canada's most famous improviser from his glory days on _Whose Line is it Anyway?_, hosted the night, sharing the odd bit of banter with TSO Principal Pops Conductor Steven Reineke. 
+It was a night of sketch comedy, either about or with the Toronto Symphony Orchestra; my hat goes off to writers Carly Heffernan and Scott Montgomery, and particularly to writer/composer/pianist Matthew Reid, who sat humbly at the piano amid the TSO players. In character - and maybe otherwise - the Second City ensemble seemed to relish the chance to storm the Roy Thomson Hall stage and park themselves where they apparently don't belong. The whole thing was a hoot; it wasn't "funny, for the orchestra", but properly funny.
+
+Audience stereotypes, flute-sex toy jokes, the inflated power of theatre ushers - it was all coming at me like a good roast. 
 
 \- window into jokes about our people (we're old and rich, not SC usual crew)  
 \- reveals why classical music is funny - raises stakes really high
