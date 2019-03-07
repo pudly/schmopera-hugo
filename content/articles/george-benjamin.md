@@ -3,18 +3,17 @@ author = ["authors/alessia-naccarato.md"]
 categories = "Review"
 date = "2019-03-07T17:26:45+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551979382/media/2019/03/sqGeorgeBenjaminJavierdelRealTeatroReal.jpg"
-primary_image_credit = ""
+primary_image_credit = "George Benjamin. Photo: Javier del Real."
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
-slug = "george-benjamin"
-title = "George Benjamin"
+short_description = "This was an example of intelligent, thoughtful programming, a wonderful way to showcase Ensemble Modern, and an opportunity to feature the work George Benjamin, a true household name by now."
+slug = "a-new-household-name-george-benjamin"
+title = "A new household name: George Benjamin"
 youtube_url = ""
 
 +++
