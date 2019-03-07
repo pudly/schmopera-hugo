@@ -22,7 +22,7 @@ It's easy to see why _The Second City Guide to the Orchestra_ is back by popular
 
 It was a night of sketch comedy, either about or with the Toronto Symphony Orchestra; my hat goes off to writers Carly Heffernan and Scott Montgomery, and particularly to writer/composer/pianist Matthew Reid, who sat humbly at the piano amid the TSO players. In character - and maybe otherwise - the Second City ensemble seemed to relish the chance to storm the Roy Thomson Hall stage and park themselves where they apparently don't belong. The whole thing was a hoot; it wasn't "funny, for the orchestra", but properly funny.
 
-Audience stereotypes, flute-sex toy jokes, the inflated power of theatre ushers - it was all coming at me like a good roast. 
+Audience stereotypes, flute-sex toy jokes, the inflated power of theatre ushers - it was all coming at me like a good roast. It was like that weird experience where someone tells you about yourself, picking out details that seem random or unexpected. Mochrie and the ensemble made fun of how symphony audiences are old and wealthy - the opposite of the usual Second City crowd - and how we display varying degrees of trying to look smart. 
 
 \- window into jokes about our people (we're old and rich, not SC usual crew)  
 \- reveals why classical music is funny - raises stakes really high
