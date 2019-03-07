@@ -18,6 +18,9 @@ title = "Second City TSO"
 youtube_url = ""
 
 +++
+It's easy to see why _The Second City Guide to the Orchestra_ is back by popular demand. I had no idea that there were so many actually funny things to say about the symphony orchestra - enough to fill two hours - but I suppose one should leave it to an improv comedy group to figure it out.
+
+Audience stereotypes, flute-sex toy jokes, the inflated power of theatre ushers - it was all coming at me like a good roast. Colin Mochrie, maybe Canada's most famous improviser from his glory days on _Whose Line is it Anyway?_, hosted the night, sharing the odd bit of banter with TSO Principal Pops Conductor Steven Reineke. 
 
 \- window into jokes about our people (we're old and rich, not SC usual crew)  
 \- reveals why classical music is funny - raises stakes really high
