@@ -25,7 +25,7 @@ My hat goes off to writers Carly Heffernan and Scott Montgomery, and particularl
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551985806/media/2019/03/ColinMochrieStevenReineke2JagGundu.jpg){{% /md %}}
 
-<figcaption>Colin Mochrie and Principal Pops Conductor Steven Reineke in the TSO's Second City Guide to the Orchestra, 2019. Photo: Jag Gundu.</figcaption  
+<figcaption>Colin Mochrie and Principal Pops Conductor Steven Reineke in the TSO's Second City Guide to the Orchestra, 2019. Photo: Jag Gundu.</figcaption>  
 </figure>
 
 Audience stereotypes, flute-sex toy jokes, the inflated power of theatre ushers - it was all coming at me like a good roast. It was like that weird experience where someone tells you about yourself, picking out details that seem random or unexpected. Mochrie and the ensemble made fun of how symphony audiences are old and wealthy - the opposite of the usual Second City crowd - and how we display varying degrees of trying to look smart.
