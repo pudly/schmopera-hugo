@@ -18,7 +18,7 @@ title = "New Generation Festival"
 youtube_url = ""
 
 +++
-### What do you think is the message of Mozart's _Le nozze di Figaro?_ Do you find there are any common misconceptions about the characters or the piece?
+### What do you think is the message of Mozart's Le nozze di Figaro? Do you find there are any common misconceptions about the characters or the piece?
 
 At face value, Mozart and da Ponte's setting of Beaumarchais's contentious play _La folle journée, ou le Mariage de Figaro_ presents as a comedic romp in which witty underclass triumphs over powdered, plump aristocracy—and all's well that ends well.
 
