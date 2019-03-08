@@ -38,6 +38,12 @@ This opera unfolds around the notion of disguise and of pretense: each character
 
 I am also excited to have a predominantly female production team around me, made up of inspiring women with strong ideas and the conviction to realise them.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552009961/media/2019/03/VictoriaStevensBW.jpg){{% /md %}}
+
+<figcaption>Victoria Stevens, stage director.</figcaption>
+
+</figure>
+
 ### What do you hope to say with your work?
 
 I don't pretend to have something novel, revolutionary or special to say with my work. My role is simply to offer up what has already been said, and immortalized in pen and ink, for re-observation and interpretation. As a director, I don't claim to have all the answers; it is only through collaborative work and the sharing of ideas that a nuanced and honest narrative can be found, and together we bring the characters to the point where they are ready to speak. We, the team and cast, are only facilitators—it is up to the audience to determine what the piece has to say to them.
