@@ -12,9 +12,9 @@ primary_image_credit = "Victoria Stevens, stage director."
 related_articles = ["articles/how-lucky-are-we-the-children-of-opera.md", "articles/talking-with-directors-jennifer-williams.md"]
 related_companies = []
 related_people = []
-short_description = "short"
-slug = "new-generation-festival"
-title = "New Generation Festival"
+short_description = "\"I am also excited to have a predominantly female production team around me, made up of inspiring women with strong ideas and the conviction to realise them.\""
+slug = "a-figaro-for-a-new-generation-victoria-stevens"
+title = "A Figaro for a New Generation: Victoria Stevens"
 youtube_url = ""
 
 +++
