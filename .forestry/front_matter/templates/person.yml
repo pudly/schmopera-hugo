@@ -40,6 +40,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/lindsay-ammann.md
 - content/scene/people/eric-ferring.md
 - content/scene/people/frederica-von-stade.md
 - content/scene/people/theo-lebow.md
