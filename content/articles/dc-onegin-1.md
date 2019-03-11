@@ -3,7 +3,6 @@ author = ["authors/molly-simoneau.md"]
 categories = "Review"
 date = "2019-03-10T22:37:56+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
