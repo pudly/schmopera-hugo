@@ -12,8 +12,8 @@ related_articles = []
 related_companies = ["scene/companies/washington-national-opera.md"]
 related_people = ["scene/people/alexey-dolgov.md", "scene/people/lindsay-ammann.md", "scene/people/anna-nechaeva.md", "scene/people/igor-golovatenko.md"]
 short_description = "When someone mentions Tchaikovsky's opera, the image in my head is of a starry-eyed Renée Fleming in a white nightgown in front of a clear blue background on a stage covered in thousands and thousands of gold and orange autumn leaves. "
-slug = "dc-onegin"
-title = "DC Onegin"
+slug = "a-21st-century-classic-onegin-with-the-leaves"
+title = "A 21st-century classic: Onegin \"with the leaves\""
 youtube_url = ""
 
 +++
