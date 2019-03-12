@@ -8,25 +8,25 @@ image_gallery = []
 postamble = "If you'd like to catch Eric Owens and Lawrence Brownlee in recital together, there are still some upcoming performances this month: \n\n[March 13 in Los Angeles](https://www.laphil.com/events/performances/278/2019-03-13/eric-owens-and-lawrence-brownlee-myra-huang/), [March 16 in Ann Arbor](https://events.umich.edu/event/52845), and [March 22 in Atlanta](http://arts.emory.edu/calendar/candler/brownlee-owens-19.html)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1552410740/media/2019/03/sqBrownleeOwens.jpg"
-primary_image_credit = ""
+primary_image_credit = "(l-r) Lawrence Brownlee (photo: Shervin Lainez) and Eric Owens (photo: Dario Acosta)."
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
-slug = "owens-brownlee"
-title = "Owens Brownlee"
+short_description = "Seated precariously close in the second row, I probably had a dorky, star-struck look plastered on my face as I took in the high caliber classical singing."
+slug = "vocal-versatility-at-its-finest-owens-brownlee-in-concert"
+title = "Vocal versatility at its finest: Brownlee & Owens in concert"
 youtube_url = ""
 
 +++
-As an opera fangirl who resides in a state with only a couple of opera companies, I have resigned myself to the fact that seeing my beloved art form on a regular basis will inevitably involve a bit of a commute. When I learned that [Lawrence Brownlee](/scene/people/lawrence-brownlee/) and [Eric Owens](/scene/people/eric-owens/) would be performing in Iowa City as part of their recital tour, I knew they would make the two hour drive worth my while. Seated precariously close in the second row, I probably had a dorky, star struck look plastered on my face as I took in the high caliber classical singing. (Hopefully the sight of me geeking out wasn't too distracting for them.)
+As an opera fangirl who resides in a state with only a couple of opera companies, I have resigned myself to the fact that seeing my beloved art form on a regular basis will inevitably involve a bit of a commute. When I learned that [Lawrence Brownlee](/scene/people/lawrence-brownlee/) and [Eric Owens](/scene/people/eric-owens/) would be performing in Iowa City as part of their recital tour, I knew they would make the two hour drive worth my while. Seated precariously close in the second row, I probably had a dorky, star-struck look plastered on my face as I took in the high caliber classical singing. (Hopefully the sight of me geeking out wasn't too distracting for them.)
 
 >Who doesn't want to witness the tenor doling out high C's like they are one of Oprah's favorite things?
 
 I fully anticipated stellar singing from Brownlee and Owens, but their programmatic choices were equally brilliant. The first half of the recital was dedicated to operatic arias and duets - featuring fan favorites, of course, as well as a few refreshing surprises.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552411296/media/2019/03/LawrenceBrownleeShervinLainez.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Lawrence Brownlee, tenor. Photo: Shervin Lainez.</figcaption>
 
 </figure>
 
@@ -38,9 +38,9 @@ Owens, on the other hand, is best known for heavier, dramatic repertoire, in par
 
 I expected both Brownlee and Owens to excel at their signature arias, but I was caught off guard by the fact that they could sing such a wide range of styles and nail each and every one of them. Vocal versatility at its finest.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552411242/media/2019/03/EricOwensDarioAcosta.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Eric Owens, bass-baritone. Photo: Dario Acosta.</figcaption>
 
 </figure>
 
