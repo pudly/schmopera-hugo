@@ -2,9 +2,20 @@
 date = "2019-03-12T17:54:18+00:00"
 discipline = "Bass-baritone"
 draft = true
+primary_image = ""
+primary_image_credit = ""
+related_companies = ["scene/companies/opera-theatre-of-st-louis.md", "scene/companies/opera-philadelphia.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/glyndebourne.md", "scene/companies/canadian-opera-company.md", "scene/companies/oper-frankfurt.md", "scene/companies/boston-lyric-opera.md"]
 slug = "brandon-cedel"
 title = "Brandon Cedel"
 website = "https://brandoncedel.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/brandoncedelbassbaritone/"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/brandon1129/"
 
 +++
 Bass-baritone Brandon Cedel, a recent graduate of the Metropolitan Opera’s Lindemann Young Artist Development Program, is currently an Ensemble member of Oper Frankfurt. His roles with the company in the 2018-2019 season include the Speaker in _Die Zauberflöte_, Angelotti in _Tosca_, Brander in _La Damna­tion de Faust_, Giovanni in _Il Corsaro_ and the Messenger in _Oedipus Rex_. Additional credits this season include his debut as Collatinus in _The Rape of Lucretia_ with Boston Lyric Opera and Colline in _La bohème_ with Canadian Opera Company. Mr. Cedel returns to the Metropolitan Opera to sing Masetto in _Don Giovanni_, and the Glyndebourne Festival as Argante in Robert Carsen's production of _Rinaldo_.
