@@ -3,7 +3,6 @@ author = ["authors/meghan-klinkenborg.md"]
 categories = "Review"
 date = "2019-03-12T17:10:12+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "If you'd like to catch Eric Owens and Lawrence Brownlee in recital together, there are still some upcoming performances this month: \n\n[March 13 in Los Angeles](https://www.laphil.com/events/performances/278/2019-03-13/eric-owens-and-lawrence-brownlee-myra-huang/), [March 16 in Ann Arbor](https://events.umich.edu/event/52845), and [March 22 in Atlanta](http://arts.emory.edu/calendar/candler/brownlee-owens-19.html)."
 preamble = ""
