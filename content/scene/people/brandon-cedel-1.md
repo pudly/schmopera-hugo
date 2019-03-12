@@ -1,9 +1,8 @@
 +++
 date = "2019-03-12T17:54:18+00:00"
 discipline = "Bass-baritone"
-draft = true
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1552413437/media/2019/03/BrandonCedelDarioAcosta.jpg"
+primary_image_credit = "Dario Acosta"
 related_companies = ["scene/companies/opera-theatre-of-st-louis.md", "scene/companies/opera-philadelphia.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/glyndebourne.md", "scene/companies/canadian-opera-company.md", "scene/companies/oper-frankfurt.md", "scene/companies/boston-lyric-opera.md"]
 slug = "brandon-cedel"
 title = "Brandon Cedel"
