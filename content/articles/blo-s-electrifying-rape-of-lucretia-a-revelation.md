@@ -75,7 +75,7 @@ O'Connor put some real power into her refusal of Tarquinius' advances with a voi
 
 <figure data-type="image">{{ md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552412937/media/2019/03/BLO2019Lucretia3197.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Kelley O'Connor as Lucretia, Duncan Rock as Tarquinius, and Sarah Womble as Lucia Boston Lyric Opera's production of The Rape of Lucretia, 2019. Photo: Liza Voll.</figcaption>
 
 </figure>
 
