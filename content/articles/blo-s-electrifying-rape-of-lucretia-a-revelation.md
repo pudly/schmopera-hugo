@@ -5,7 +5,7 @@ date = "2019-03-12T17:25:13+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "Boston Lyric Opera's production of _The Rape of Lucretia_ runs through March 17. For details and tickets, [click here](https://blo.org/lucretia/)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1552411853/media/2019/03/sqBLO2019Lucretia3138.jpg"
 primary_image_credit = "Kelley O'Connor as Lucretia in Boston Lyric Opera's production of The Rape of Lucretia, 2019. Photo: Liza Voll."
@@ -20,6 +20,8 @@ youtube_url = ""
 +++
 Whenever a production company gets mired up in producing Benjamin Britten's _The Rape of Lucretia_, a common pitfall of productions is to present the work as a series of tableaus that are static and don't move forward very much. Considering the work's framing device, it is not difficult to see why: the Male and Female Chorus that function as the tale's narrators lampshade their function in the story with enough frequency that most directors' first instinct would be to produce this opera in such a way.
 
+>The audience was seated surrounding the circle on three sides, which in pretty much all situations would give the singers absolutely nowhere to hide.
+
 However, this is a decided mistake. For the first part, at the end of the opera the Male Chorus eventually ends up sounding incredibly patronizing when he explains to the Female Chorus about the hope of Christ. It has the very strange effect of sounding preachy in a way that the work does very little to demand, and it is a proper weakness of the show. For the other part, however, playing it as a tableau really robs pretty much the rest of the story of the raw emotional power that it can have, and this was something that Boston Lyric Opera's staging addressed in a great many ways.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
@@ -30,7 +32,7 @@ However, this is a decided mistake. For the first part, at the end of the opera 
 
 This production of _The Rape of Lucretia_ was presented as one of BLO's now-signature installation operas: in this case, much of the action was concentrated on a relatively small circle in the center of the Arts for Humanity Epicenter building. The audience was seated surrounding the circle on three sides, which in pretty much all situations would give the singers absolutely nowhere to hide. At first, one would probably question the wisdom of such an arrangement of the audience and the action, considering that the work almost does not demand such an approach.
 
-However, the effect essentially heightened the drama already present in the work. Putting the people in the front rows closer to the action does come with its share of acoustical problems for sure, but it also gives an immediacy to the action that likely would have been lost in the traditional proscenium arrangement. It is also fortunate that the Arts for Humanity Epicenter has two levels to work with, as this allowed stage director Sarna Lapine to experiment with height in her staging. This was used to great effect, and her placement of the singers at various points in the show amplified the opera's theme of the use (and abuse) of power--something that is indispensable when staging a work like this in the #MeToo era.
+However, the effect essentially heightened the drama already present in the work. Putting the people in the front rows closer to the action does come with its share of acoustical problems for sure, but it also gives an immediacy to the action that likely would have been lost in the traditional proscenium arrangement. It is also fortunate that the Arts for Humanity Epicenter has two levels to work with, as this allowed stage director Sarna Lapine to experiment with height in her staging. This was used to great effect, and her placement of the singers at various points in the show amplified the opera's theme of the use (and abuse) of power - something that is indispensable when staging a work like this in the #MeToo era.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
@@ -39,6 +41,8 @@ However, the effect essentially heightened the drama already present in the work
 </figure>
 
 But more than that, the vastness of the space (and the Arts for Humanity Epicenter is a _big_ space) gave extra importance to everything that happened on the center platform, and this was used to shocking effect. This is especially true of the climactic rape scene, which takes place almost entirely within the confines of that circular platform. The staging itself was really fast-paced and effective in telling the story that Britten tells with horrifying urgency in the music, but the real show-stopper was when the performers in the center platform were enshrouded in what felt like a singular beam of darkness when it came time to depict Tarquinius in the actual act of raping Lucretia. It was certainly nothing graphic, but suddenly enshrouding the place that everyone's attention was centered on had the effect of allowing the imagination to run wild, and the effect is chilling in the best way.
+
+>The moment still comes as shocking and unexpected - which is not something that can be said about very many opera suicides.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
@@ -62,6 +66,16 @@ And then there are all the wonderful singers that put so much work into bringing
 
 </figure>
 
-But of course, the real star of the night was Kelley O'Connor as Lucretia. For certain, Britten gives both her and Lapine plenty to work with given the way he plays with tessitura throughout the opera, but the direction and O'Connor herself add layers of nuance that breathe life into Lucretia in a role that runs the whole gamut of emotion. O'Connor put some real power into her refusal of Tarquinius' advances with a voice that was sharp and cutting, but she then pulled it back into an almost robotic tone when she came on-stage during what was a processing stage. The role of Lucretia is a difficult one to bring to life, and all the forces of the stagecraft and the vocal performance came together absolutely beautifully in portraying this character.
+But of course, the real star of the night was Kelley O'Connor as Lucretia. For certain, Britten gives both her and Lapine plenty to work with given the way he plays with tessitura throughout the opera, but the direction and O'Connor herself add layers of nuance that breathe life into Lucretia in a role that runs the whole gamut of emotion. 
+
+>It is extremely rare that all of the forces of a particular production come together as well as they do here.
+
+O'Connor put some real power into her refusal of Tarquinius' advances with a voice that was sharp and cutting, but she then pulled it back into an almost robotic tone when she came on-stage during what was a processing stage. The role of Lucretia is a difficult one to bring to life, and all the forces of the stagecraft and the vocal performance came together absolutely beautifully in portraying this character.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption> in Boston Lyric Opera's production of The Rape of Lucretia, 2019. Photo: Liza Voll.</figcaption>
+
+</figure>
 
 And in today's world where more awareness is brought to the realities of rape and sexual violence, this treatment of _The Rape of Lucretia_ is one for the ages. Aside from managing to tastefully tone down a lot of the more controversial elements of the framing device, Boston Lyric Opera have produced an absolute treasure of a production that is as intelligent and timely as it is dramatic and riveting. It is extremely rare that all of the forces of a particular production come together as well as they do here, or that indeed they manage to take the work's flaws and turn them into a strength, but that is exactly what has been achieved here. The result is absolutely breathtaking, and it is not to be missed.
