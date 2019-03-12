@@ -26,7 +26,7 @@ However, this is a decided mistake. For the first part, at the end of the opera 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552412440/media/2019/03/BLO2019Lucretia3050.jpg){{% /md %}}
 
-<figcaption> in Boston Lyric Opera's production of The Rape of Lucretia, 2019. Photo: Liza Voll.</figcaption>
+<figcaption>Duncan Rock as Tarquinius (rear) and Brandon Cedel as Collatinus in Boston Lyric Opera's production of The Rape of Lucretia, 2019. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -36,7 +36,7 @@ However, the effect essentially heightened the drama already present in the work
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552412520/media/2019/03/BLO2019Lucretia3087.jpg){{% /md %}}
 
-<figcaption> in Boston Lyric Opera's production of The Rape of Lucretia, 2019. Photo: Liza Voll.</figcaption>
+<figcaption>David McFerrin as Junius and Duncan Rock as Tarquinius in Boston Lyric Opera's production of The Rape of Lucretia, 2019. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -46,7 +46,7 @@ But more than that, the vastness of the space (and the Arts for Humanity Epicent
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552412603/media/2019/03/BLO2019Lucretia3155.jpg){{% /md %}}
 
-<figcaption> in Boston Lyric Opera's production of The Rape of Lucretia, 2019. Photo: Liza Voll.</figcaption>
+<figcaption>Kelley O'Connor as Lucretia and Margaret Lattimore as Bianca in Boston Lyric Opera's production of The Rape of Lucretia, 2019. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -56,7 +56,7 @@ The fact that Lucretia uses Tarquinius' blade in her suicide is also an inspired
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552412686/media/2019/03/BLO2019Lucretia3299.jpg){{% /md %}}
 
-<figcaption> in Boston Lyric Opera's production of The Rape of Lucretia, 2019. Photo: Liza Voll.</figcaption>
+<figcaption>Duncan Rock as Tarquinius and Kelley O'Connor as Lucretia in Boston Lyric Opera's production of The Rape of Lucretia, 2019. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -64,7 +64,7 @@ And then there are all the wonderful singers that put so much work into bringing
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552412774/media/2019/03/BLO2019Lucretia3464.jpg){{% /md %}}
 
-<figcaption> in Boston Lyric Opera's production of The Rape of Lucretia, 2019. Photo: Liza Voll.</figcaption>
+<figcaption>Brandon Cedel as Collatinus in Boston Lyric Opera's production of The Rape of Lucretia, 2019. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -73,5 +73,11 @@ But of course, the real star of the night was Kelley O'Connor as Lucretia. For c
 >It is extremely rare that all of the forces of a particular production come together as well as they do here.
 
 O'Connor put some real power into her refusal of Tarquinius' advances with a voice that was sharp and cutting, but she then pulled it back into an almost robotic tone when she came on-stage during what was a processing stage. The role of Lucretia is a difficult one to bring to life, and all the forces of the stagecraft and the vocal performance came together absolutely beautifully in portraying this character.
+
+<figure data-type="image">{{ md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552412937/media/2019/03/BLO2019Lucretia3197.jpg){{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 And in today's world where more awareness is brought to the realities of rape and sexual violence, this treatment of _The Rape of Lucretia_ is one for the ages. Aside from managing to tastefully tone down a lot of the more controversial elements of the framing device, Boston Lyric Opera have produced an absolute treasure of a production that is as intelligent and timely as it is dramatic and riveting. It is extremely rare that all of the forces of a particular production come together as well as they do here, or that indeed they manage to take the work's flaws and turn them into a strength, but that is exactly what has been achieved here. The result is absolutely breathtaking, and it is not to be missed.
