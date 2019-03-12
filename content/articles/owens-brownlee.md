@@ -5,7 +5,7 @@ date = "2019-03-12T17:10:12+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "If you'd like to catch Eric Owens and Lawrence Brownlee in recital together, there are still some upcoming performances this month: \n\n[March 13 in Los Angeles](https://www.laphil.com/events/performances/278/2019-03-13/eric-owens-and-lawrence-brownlee-myra-huang/), [March 16 in Ann Arbor](https://events.umich.edu/event/52845), and [March 22 in Atlanta](http://arts.emory.edu/calendar/candler/brownlee-owens-19.html)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1552410740/media/2019/03/sqBrownleeOwens.jpg"
 primary_image_credit = ""
@@ -33,17 +33,3 @@ The stamina of these singers was astounding. To perform numerous challenging ari
 The second half of the program featured American spirituals, musical theater, and gospel songs,and both Brownlee and Owens clearly have a love for these down to earth genres. It did not come across as two opera singers performing outside their wheelhouse but rather two friends singing music that speaks to them personally. The repertoire featured a healthy mixture of well known favorites as well as lesser known pieces, ranging from solemn and reverent to humorous and hopeful.
 
 I also have to give a tremendous shout out to the pianist, Craig Terry. Aside from playing challenging music in a plethora of styles, Terry wrote the arrangements for many of the musical theater numbers and one of the spirituals for the recital. There was an unmistakably strong bond between Brownlee, Owens, and Terry, made apparent by the frequent hugs and handshakes throughout the evening. It was an absolute joy to watch these three musicians having fun on stage together. Clearly, they all love what they do, and their enthusiasm was infectious. Sometimes we get wrapped up in the tradition and elitism of opera, and we forget what is fundamentally important about music. Thank you, Larry, Eric, and Craig for reminding me that music should be as joyful as it is beautiful. (I like to pretend that we are on a first name basis…) You made this opera fangirl very happy!
-
-If you'd like to catch Eric Owens and Lawrence Brownlee in recital together, there are still some upcoming performances this month. See below for the remaining tour dates and locations:
-
-March 13, 2019  
-Los Angeles Philharmonic | Los Angeles, CA  
-[https://www.laphil.com/events/performances/278/2019-03-13/eric-owens-and-lawrence-brownlee-myra-huang/](https://www.laphil.com/events/performances/278/2019-03-13/eric-owens-and-lawrence-brownlee-myra-huang/ "https://www.laphil.com/events/performances/278/2019-03-13/eric-owens-and-lawrence-brownlee-myra-huang/")
-
-March 16, 2019  
-University of Michigan | Ann Arbor, MI  
-[https://events.umich.edu/event/52845](https://events.umich.edu/event/52845 "https://events.umich.edu/event/52845")
-
-March 22, 2019  
-Emory University | Atlanta, GA  
-[http://arts.emory.edu/calendar/candler/brownlee-owens-19.html](http://arts.emory.edu/calendar/candler/brownlee-owens-19.html "http://arts.emory.edu/calendar/candler/brownlee-owens-19.html")
