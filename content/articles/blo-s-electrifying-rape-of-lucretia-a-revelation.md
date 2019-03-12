@@ -3,7 +3,6 @@ author = ["authors/arturo-fernandez.md"]
 categories = "Review"
 date = "2019-03-12T17:25:13+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Boston Lyric Opera's production of _The Rape of Lucretia_ runs through March 17. For details and tickets, [click here](https://blo.org/lucretia/)."
 preamble = ""
@@ -14,7 +13,7 @@ related_companies = ["scene/companies/boston-lyric-opera.md"]
 related_people = ["scene/people/kelley-oconnor.md", "scene/people/brandon-cedel.md", "scene/people/duncan-rock.md"]
 short_description = "This production of The Rape of Lucretia was presented as one of BLO's now-signature installation operas: in this case, much of the action was concentrated on a relatively small circle in the center of the Arts for Humanity Epicenter building."
 slug = "blos-electrifying-rape-of-lucretia-a-revelation"
-title = "BLO's Electrifying Rape of Lucretia a Revelation"
+title = "BLO's electrifying Rape of Lucretia a revelation"
 youtube_url = ""
 
 +++
