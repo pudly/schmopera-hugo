@@ -73,7 +73,7 @@ But of course, the real star of the night was [Kelley O'Connor](/scene/people/ke
 
 O'Connor put some real power into her refusal of Tarquinius' advances with a voice that was sharp and cutting, but she then pulled it back into an almost robotic tone when she came on-stage during what was a processing stage. The role of Lucretia is a difficult one to bring to life, and all the forces of the stagecraft and the vocal performance came together absolutely beautifully in portraying this character.
 
-<figure data-type="image">{{ md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552412937/media/2019/03/BLO2019Lucretia3197.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552412937/media/2019/03/BLO2019Lucretia3197.jpg){{% /md %}}
 
 <figcaption>Kelley O'Connor as Lucretia, Duncan Rock as Tarquinius, and Sarah Womble as Lucia Boston Lyric Opera's production of The Rape of Lucretia, 2019. Photo: Liza Voll.</figcaption>
 
