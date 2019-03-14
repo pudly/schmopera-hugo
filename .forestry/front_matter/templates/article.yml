@@ -107,6 +107,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/talking-with-singers-jacquelyn-stucker.md
 - content/articles/owens-brownlee.md
 - content/articles/blo-s-electrifying-rape-of-lucretia-a-revelation.md
 - content/articles/dc-onegin-1.md
