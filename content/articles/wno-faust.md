@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = ["scene/people/allegra-de-vita.md", "scene/people/joshua-hopkins.md", "scene/people/marcelo-puente.md", "scene/people/erin-wall.md"]
 short_description = "short"
-slug = "wno-faust"
-title = "WNO Faust"
+slug = "overstaying-its-welcome-wnos-faust"
+title = "Overstaying its welcome: WNO's Faust"
 youtube_url = ""
 
 +++
