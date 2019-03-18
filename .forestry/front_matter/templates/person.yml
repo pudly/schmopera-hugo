@@ -40,6 +40,9 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/raymond-aceto.md
+- content/scene/people/anna-nechaeva.md
+- content/scene/people/marta-fontanals-simmons.md
 - content/scene/people/alexey-dolgov-1.md
 - content/scene/people/lindsay-ammann.md
 - content/scene/people/eric-ferring.md
