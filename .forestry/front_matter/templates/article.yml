@@ -107,6 +107,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/sarah-connolly.md
 - content/scene/people/sarah-connolly.md
 - content/articles/wno-faust.md
 - content/scene/people/catalina-cuervo.md
@@ -116,7 +117,6 @@ pages:
 - content/articles/owens-brownlee.md
 - content/articles/dc-onegin-1.md
 - content/articles/ariodante.md
-- content/articles/sarah-connolly.md
 - content/articles/talking-with-singers-jacquelyn-stucker-1.md
 - content/articles/new-generation-festival.md
 - content/articles/second-city-tso.md
