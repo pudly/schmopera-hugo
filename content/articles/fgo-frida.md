@@ -30,7 +30,7 @@ Frida Kahlo was Mexican, an artist, a woman, disabled, queer, Communist. Though 
 
 As Kahlo's husband Diego Rivera, bass-baritone Ricardo Herrera sang strongly, keeping pace with the opera's mood swings from tender love songs to bouts of ego and marital tumult. His reunion with Kahlo and proposal to remarry in the final scene were especially memorable, as Herrera spun giddily across the stage, singing a folk song with silly lyrics to entertain his bedridden ex, with an earnest sweetness to his voice that had been missing from angrier moments in the score.
 
-Young artists pulled double or even triple duty in supporting roles, with mezzo-soprano Zaray Rodriguez's moving turn as a grieving mother contrasting with her appearances as drunk wedding crasher Lupe, haughty Mrs. Rockefeller, and fed-up Natalia Trotsky. As Kahlo's sister Cristina, soprano Jessica E. Jones sang with a sweet voice and calm sensitivity.
+Young artists pulled double or even triple duty in supporting roles, with mezzo-soprano Zaray Rodriguez's moving turn as a grieving mother contrasting with her appearances as drunk wedding crasher Lupe, haughty Mrs. Rockefeller, and fed-up Natalia Trotsky. As Kahlo's sister Cristina, soprano [Jessica E. Jones](/scene/people/jessica-e-jones/) sang with a sweet voice and calm sensitivity.
 
 Production design played a central role in the storytelling, with sets and costumes by Monika Essen, originally for Michigan Opera Theatre, drawing inspiration from the magical realism of Kahlo's art to create a jungle of oddities: an anatomical heart blossoming into a tree; an antlered ballerina seemingly sprung from Kahlo's 1946 _The Wounded Deer_; a trio of mariachis in _calavera_ masks, haunting Frida upon her multiple brushes with death.
 
