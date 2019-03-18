@@ -20,6 +20,8 @@ youtube_url = ""
 +++
 The Faust legend traces its roots back to the 16th century. The story was adapted as an English language play by Shakespeare contemporary Christopher Marlowe, and more famously by Goethe in the 19th century. Off the top of my head, I'm aware of three operatic settings of the tale, and a cursory glance at Wikipedia tells me there are 2 more on top of that (plus a musical by Randy Newman?) as well as several films. This is an _old_ story. The kind that infiltrates culture. Every time you mention someone making "a deal with the devil," you're referencing this ancient allegory.
 
+<figure
+
 Now there's something about _old_ things: they can be "classic," which is to say, timeless, never going out of style, or they can be cool and "retro," hitting our nostalgia buttons, or they can be stale, dusty, dated, old-fashioned. On Saturday night when WNO opened its run of Gounod's _Faust_ - directed by Garnett Bruce with production design by artist Earl Staley - I got the sense that they were going for "classic," but landed on stale and dusty.
 
 It doesn't help that Gounod's setting is about as dusty as operas get, focusing more on the downfall (and ultimate redemption in death, of course) of Marguerite, than on Faust's own psychological struggle, this opera always comes off like a parody of a 19th-century morality play, which was only emphasized by Staley's design which could have been pulled straight out of a European theater from 150 years ago.
