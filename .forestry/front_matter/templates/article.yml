@@ -107,6 +107,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/fgo-frida.md
 - content/articles/blo-s-electrifying-rape-of-lucretia-a-revelation.md
 - content/articles/talking-with-singers-frederica-von-stade.md
 - content/articles/owens-brownlee.md
