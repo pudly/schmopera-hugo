@@ -3,14 +3,13 @@ author = ["authors/molly-simoneau.md"]
 categories = "Review"
 date = "2019-03-18T15:52:29+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Washington National Opera's production of _Faust_ runs through March 30. For details and ticket information, [click here](http://www.kennedy-center.org/calendar/event/OTOSD)."
 preamble = ""
 primary_image = ""
 primary_image_credit = ""
 related_articles = []
-related_companies = []
+related_companies = ["scene/companies/washington-national-opera.md"]
 related_people = ["scene/people/allegra-de-vita.md", "scene/people/joshua-hopkins.md", "scene/people/marcelo-puente.md", "scene/people/erin-wall.md"]
 short_description = "short"
 slug = "overstaying-its-welcome-wnos-faust"
@@ -26,9 +25,9 @@ The Faust legend traces its roots back to the 16th century. The story was adapte
 
 </figure>
 
-Now there's something about _old_ things: they can be "classic," which is to say, timeless, never going out of style, or they can be cool and "retro," hitting our nostalgia buttons, or they can be stale, dusty, dated, old-fashioned. On Saturday night when WNO opened its run of Gounod's _Faust_ - directed by Garnett Bruce with production design by artist Earl Staley - I got the sense that they were going for "classic," but landed on stale and dusty.
+Now there's something about _old_ things: they can be "classic," which is to say, timeless, never going out of style, or they can be cool and "retro," hitting our nostalgia buttons, or they can be stale, dusty, dated, old-fashioned. On Saturday night when WNO opened [its run of Gounod's _Faust_](http://www.kennedy-center.org/calendar/event/OTOSD) - directed by Garnett Bruce with production design by artist Earl Staley - I got the sense that they were going for "classic," but landed on stale and dusty.
 
->A bland opera can always be saved by first rate singing, so it's unfortunate that there was little of that to be had on Saturday night.
+> A bland opera can always be saved by first rate singing, so it's unfortunate that there was little of that to be had on Saturday night.
 
 It doesn't help that Gounod's setting is about as dusty as operas get, focusing more on the downfall (and ultimate redemption in death, of course) of Marguerite, than on Faust's own psychological struggle, this opera always comes off like a parody of a 19th-century morality play, which was only emphasized by Staley's design which could have been pulled straight out of a European theater from 150 years ago.
 
@@ -40,7 +39,7 @@ It doesn't help that Gounod's setting is about as dusty as operas get, focusing 
 
 A bland opera can always be saved by first rate singing, so it's unfortunate that there was little of that to be had on Saturday night. In the title role, tenor [Marcelo Puente](/scene/people/marcelo-puente/), struggled, with a bleating voice and overly bright, forced high notes, and little stage presence to make up for his mediocre singing.
 
->He could have done even more with the role had he not been held back by the stiff staging.
+> He could have done even more with the role had he not been held back by the stiff staging.
 
 Opposite him, as the innocent Marguerite, [Erin Wall](/scene/people/erin-wall/) offered some of the best singing of the night throughout most of the role, but her otherwise pleasant voice faltered in the very top of her range, and when she did fail on a few climactic high notes, she did so spectacularly, screeching, visibly straining, and running out of breath.
 
@@ -52,7 +51,7 @@ Opposite him, as the innocent Marguerite, [Erin Wall](/scene/people/erin-wall/) 
 
 Baritone [Joshua Hopkins](/scene/people/joshua-hopkins/) sang beautifully as Marguerite's doomed brother Valentin, with a relaxed tone and sumptuous legato, and an easy top.
 
-Bass Raymond Aceto charmed the audience as the devil himself, Mephistopheles. It's a role that’s impossible not to love, and Aceto had fun with it, crooning along, before suddenly giving way to booming declamations, or growling, sinister whispers. No doubt, he could have done even more with the role had he not been held back by the stiff staging.
+Bass [Raymond Aceto](/scene/people/raymond-aceto/) charmed the audience as the devil himself, Mephistopheles. It's a role that’s impossible not to love, and Aceto had fun with it, crooning along, before suddenly giving way to booming declamations, or growling, sinister whispers. No doubt, he could have done even more with the role had he not been held back by the stiff staging.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552927961/media/2019/03/oshuaHopkinsWNOFaustScottSuchman.jpg){{% /md %}}
 
@@ -62,7 +61,7 @@ Bass Raymond Aceto charmed the audience as the devil himself, Mephistopheles. It
 
 As the lovesick Siebel, mezzo-soprano [Allegra De Vita](/scene/people/allegra-de-vita/) had a shaky start, but seemed to come into her own in her aria "Faites-lui mes aveux," but reverted back to her inconsistent sound later in the opera during her second aria "Si le bonheur à sourire t'invite."
 
->The opera world is chock full of exciting music and wonderful stories, so it's high time this stale old morality play gets left on the shelf.
+> The opera world is chock full of exciting music and wonderful stories, so it's high time this stale old morality play gets left on the shelf.
 
 Mezzo-soprano Deborah Nansteel brought a warm stage presence and luscious voice to the role of Dame Marthe, but was ill-served by the sexist gags in the libretto, which the staging emphasized.
 
