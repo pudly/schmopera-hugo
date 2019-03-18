@@ -107,6 +107,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/wno-faust.md
 - content/articles/sarah-connolly.md
 - content/articles/talking-with-singers-jacquelyn-stucker-1.md
 - content/articles/owens-brownlee.md
