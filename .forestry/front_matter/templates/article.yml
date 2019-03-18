@@ -107,6 +107,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/scene/people/sarah-connolly.md
 - content/articles/wno-faust.md
 - content/scene/people/catalina-cuervo.md
 - content/articles/fgo-frida.md
