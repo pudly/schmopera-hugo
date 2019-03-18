@@ -40,6 +40,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/zaray-rodriguez.md
 - content/scene/people/raymond-aceto.md
 - content/scene/people/marta-fontanals-simmons.md
 - content/scene/people/anna-nechaeva.md
