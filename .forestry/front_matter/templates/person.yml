@@ -40,6 +40,8 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/catalina-cuervo.md
+- content/scene/people/sarah-connolly.md
 - content/scene/people/zaray-rodriguez.md
 - content/scene/people/raymond-aceto.md
 - content/scene/people/marta-fontanals-simmons.md
@@ -103,5 +105,3 @@ pages:
 - content/scene/people/scott-ballantine.md
 - content/scene/people/igor-golovatenko.md
 - content/scene/people/jared-bybee.md
-- content/scene/people/sarah-connolly.md
-- content/scene/people/catalina-cuervo.md
