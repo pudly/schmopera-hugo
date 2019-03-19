@@ -107,6 +107,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/talking-with-singers-patrick-terry.md
 - content/articles/talking-with-singers-soraya-mafi.md
 - content/articles/an-american-dream.md
 - content/articles/sarah-connolly.md
