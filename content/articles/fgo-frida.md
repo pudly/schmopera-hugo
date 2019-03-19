@@ -22,7 +22,7 @@ A screeching chorus of monkeys, a lesson in Mexican political history, an ode to
 
 Performed at the Miramar Cultural Centre, a midsize community arts venue a far cry from the grand stage of FGO's usual home in downtown Miami, _Frida_ was presented with community outreach in mind. Before the show, guests were greeted by an outdoor performance from Ballet Folklorico Ameyal, a Miami-based Mexican folk music and dance ensemble who later made a delightful onstage cameo as wedding merrymakers. Later, exiting after curtain call, audience members were handed a carnation as they walked out the door.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552954769/media/2019/03/DSC_1401.jpg){{% /md %}}
 
 <figcaption> in Frida, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
 
@@ -32,7 +32,7 @@ The subject of the opera – the life of an icon whose activism, as much as her 
 
 Besides, _Frida_ itself threw any notion of comfort zone out the window, defying categorization into any one genre just as Kahlo could not be pinned into any single category or identity. Operatic arias melted into mariachi; philosophical spoken monologues preceded gaudy ensemble numbers set to cheesy rhymes – upon Kahlo's arrival in New York, a gaggle of affluent partygoers, caricatures of American capitalism, chanted, "The people here are happy / As happy as can be!"
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552954789/media/2019/03/DSC_1499.jpg){{% /md %}}
 
 <figcaption> in Frida, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
 
@@ -42,7 +42,7 @@ Frida Kahlo was Mexican, an artist, a woman, disabled, queer, Communist. Though 
 
 As Kahlo's husband Diego Rivera, bass-baritone Ricardo Herrera sang strongly, keeping pace with the opera's mood swings from tender love songs to bouts of ego and marital tumult. His reunion with Kahlo and proposal to remarry in the final scene were especially memorable, as Herrera spun giddily across the stage, singing a folk song with silly lyrics to entertain his bedridden ex, with an earnest sweetness to his voice that had been missing from angrier moments in the score.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552954817/media/2019/03/DSC_1150.jpg){{% /md %}}
 
 <figcaption> in Frida, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
 
