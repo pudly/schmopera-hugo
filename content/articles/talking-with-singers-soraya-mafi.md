@@ -7,12 +7,12 @@ draft = true
 image_gallery = []
 postamble = "_Mr Handel's Scholars_ takes place on 28 March at St George's, Hanover Square as part of the London Handel Festival. For details and ticket information, [click here](https://www.london-handel-festival.com/show/mr-handels-scholars/?event=6002)."
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553019576/media/2019/03/sqSorayaMafi.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "\"I often take for granted how lucky we are to have access to such wonderful music and music-makers in London. The rich history of classical music in London has enabled musicians to take advantage of world-class composers, conductors, teachers and venues.\""
 slug = "talking-with-singers-soraya-mafi"
 title = "Talking with singers: Soraya Mafi"
 youtube_url = ""
@@ -33,6 +33,12 @@ Firstly, I try to be kind to myself. For me, this means taking opportunities to 
 My relationships with family and friends are hugely important to me. It's difficult being away from home so often, so I'm extremely grateful for FaceTime. I don't know how people survived this job before it was invented! I always make time to call my partner, family and friends and have a good laugh! When I'm feeling the pressure of a looming performance, nothing makes me feel better a than a good chinwag and a dose of perspective.
 
 In terms of staying healthy, I am mindful of drinking plenty of water and eating well. If I feel the slightest start of a cold coming on, it's the whole kitchen sink to the rescue and plenty of sleep!
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1553019716/media/2019/03/SorayaMafi.jpg){{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 ### What do you find uniquely challenging, and uniquely rewarding about singing baroque music?
 
