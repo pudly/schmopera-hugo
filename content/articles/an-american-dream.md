@@ -11,7 +11,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553015129/m
 primary_image_credit = ""
 related_articles = []
 related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = []
+related_people = ["scene/people/catherine-martin.md"]
 short_description = "short"
 slug = "an-american-dream"
 title = "An American Dream"
@@ -46,7 +46,7 @@ For several members of this production’s cast and leadership, the show’s gna
 
 As a whole, the cast of this production delivered heartfelt and gripping performances. Yoshida Nelson, together with bass-baritone Ao Li as Makoto Kobayashi, were particular standouts. Vocally and dramatically they bear much of the opera’s emotional weight and there was a dignity suffused with quiet pain in the manner in which the singer-actors carried it. Both Yoshida Nelson and Li possess vibrant instruments that are backed by intelligence and sensitivity for dramatic inflection.
 
-As Setsuko Kobayashi, we heard soprano So Young Park. In this opera, Setsuko traverses the most complete character arch. From a carefree child, to an imprisoned caretaker for her ailing mother, to a poised adult representative of her family in her confrontation of Jim—Park navigated the look and sound of her evolving role with stunning aplomb and conviction. Her voice has the clarity and agility one would expect of someone who is making her name these days as the Queen of the Night and Gilda. Setsuko’s most outwardly powerful moment comes at the opera’s conclusion and though Park certainly held her own against baritone Christopher Magiera and mezzo-soprano Catherine Martin (as Jim and Eva Crowley), it was in the soft, transient moments of intimacy where Park really shined.
+As Setsuko Kobayashi, we heard soprano So Young Park. In this opera, Setsuko traverses the most complete character arch. From a carefree child, to an imprisoned caretaker for her ailing mother, to a poised adult representative of her family in her confrontation of Jim—Park navigated the look and sound of her evolving role with stunning aplomb and conviction. Her voice has the clarity and agility one would expect of someone who is making her name these days as the Queen of the Night and Gilda. Setsuko's most outwardly powerful moment comes at the opera's conclusion and though Park certainly held her own against baritone Christopher Magiera and mezzo-soprano [Catherine Martin](/scene/people/catherine-martin/) (as Jim and Eva Crowley), it was in the soft, transient moments of intimacy where Park really shined.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1553015284/media/2019/03/SoYoungPark_ANAMERICANDREAM_LyricOperaofChicago_LYR190314_108.jpg){{% /md %}}
 
