@@ -40,6 +40,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/so-young-park.md
 - content/scene/people/catalina-cuervo.md
 - content/scene/people/sarah-connolly.md
 - content/scene/people/zaray-rodriguez.md
