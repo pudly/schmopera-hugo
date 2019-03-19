@@ -28,7 +28,7 @@ Jim Crowley and his wife Eva enter the scene as prospective home-buyers with an 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1553015255/media/2019/03/JeffDiebold_AoLi_NinaYoshidaNelsen_ANAMERICANDREAM_LyricOperaofChicago_LYR190314_139.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Jeff Diebold, Ao Li, and Nina Yoshida Nelsen in An American Dream, Lyric Opera of Chicago/Lyric Unlimited, 2019. Photo: Todd Rosenberg.</figcaption>
 
 </figure>
 
@@ -40,7 +40,7 @@ For several members of this production’s cast and leadership, the show’s gna
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1553015272/media/2019/03/CatherineMartin_ChristopherMagiera_ANAMERICANDREAM_LyricOperaofChicago_LYR190314_178.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Catherine Martin and Christopher Magiera in An American Dream, Lyric Opera of Chicago/Lyric Unlimited, 2019.</figcaption>
 
 </figure>
 
@@ -50,7 +50,7 @@ As Setsuko Kobayashi, we heard soprano So Young Park. In this opera, Setsuko tra
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1553015284/media/2019/03/SoYoungPark_ANAMERICANDREAM_LyricOperaofChicago_LYR190314_108.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>So Young Park in An American Dream, Lyric Opera of Chicago/Lyric Unlimited, 2019.</figcaption>
 
 </figure>
 
@@ -60,7 +60,7 @@ Jack Perla's score for this opera is understated, efficiently paced, and quite t
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1553015298/media/2019/03/SoYoungPark_NinaYoshidaNelsen_AoLi_ANAMERICANDREAM_LyricOperaofChicago_LYR190314_213.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>So Young Park, Nina Yoshida Nelsen, and Ao Li in An American Dream, Lyric Opera of Chicago/Lyric Unlimited, 2019.</figcaption>
 
 </figure>
 
