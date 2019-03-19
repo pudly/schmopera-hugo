@@ -24,7 +24,7 @@ Performed at the Miramar Cultural Centre, a midsize community arts venue a far c
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552954769/media/2019/03/DSC_1401.jpg){{% /md %}}
 
-<figcaption> in Frida, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
+<figcaption>A scene from Frida, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
 
 </figure>
 
@@ -34,7 +34,7 @@ Besides, _Frida_ itself threw any notion of comfort zone out the window, defying
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552954789/media/2019/03/DSC_1499.jpg){{% /md %}}
 
-<figcaption> in Frida, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
+<figcaption>A scene from Frida, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
 
 </figure>
 
@@ -44,7 +44,7 @@ As Kahlo's husband Diego Rivera, bass-baritone Ricardo Herrera sang strongly, ke
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552954817/media/2019/03/DSC_1150.jpg){{% /md %}}
 
-<figcaption> in Frida, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
+<figcaption>A scene from Frida, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
 
 </figure>
 
@@ -52,9 +52,9 @@ Young artists pulled double or even triple duty in supporting roles, with mezzo-
 
 Production design played a central role in the storytelling, with sets and costumes by Monika Essen, originally for Michigan Opera Theatre, drawing inspiration from the magical realism of Kahlo's art to create a jungle of oddities: an anatomical heart blossoming into a tree; an antlered ballerina seemingly sprung from Kahlo's 1946 _The Wounded Deer_; a trio of mariachis in _calavera_ masks, haunting Frida upon her multiple brushes with death.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552954841/media/2019/03/DSC_1756.jpg){{% /md %}}
 
-<figcaption> in Frida, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
+<figcaption>A scene from Frida, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
 
 </figure>
 
@@ -62,12 +62,18 @@ The most successful moments brought Kahlo's art to life in thoughtful and breath
 
 Meanwhile, some heavy-handed imagery challenged these moments of magic. A red-and-yellow hammer and sickle appeared on the projection screen at every mention of Communism; and a projected photo of Kahlo and Rivera's adjacent pink and blue houses, seemingly cut and pasted from Google Images, set the scene for the opening of Act II, underestimating the audience's imagination.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552954865/media/2019/03/DSC_2566.jpg){{% /md %}}
 
-<figcaption> in Frida, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
+<figcaption>A scene from Frida, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
 
 </figure>
 
 Rodriguez's score was gripping, though every spoken monologue felt like a missed opportunity for a true opera "moment"; the work cruised along without a showstopping aria or heart-wrenching musical climax. Led by conductor Roberto Kalb, the chamber-sized orchestra, augmented by accordion, saxophone, and guitar, brought colour and rhythm to the folk-inspired melodies, and lent drama to the opera's darkest scenes.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1552954915/media/2019/03/DSC_3042.jpg){{% /md %}}
+
+<figcaption>Catalina Cuervo in the title role of Frida, Florida Grand Opera, 2019. Photo: Chris Kakol.</figcaption>
+
+</figure>
 
 FGO's _Frida_ was a strange opera – fast-paced, touching, at times darkly comic, esoteric, pained, and colourful. Appropriate, then, that director Marco Pelle ended his program note with a quote from Kahlo herself: "There are so many people in the world, there must be someone just like me who feels bizarre and flawed in the same ways I do \[...\] Well, I hope that if you are out there and read this and know that, yes, it's true I'm here, and I'm just as strange as you."
