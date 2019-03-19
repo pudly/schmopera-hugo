@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = "_Athalia_ takes place on 29 April at St John's Smith Square as part of the London Handel Festival. For details and ticket information, [click here](https://www.london-handel-festival.com/show/athalia-hwv-52/)."
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553028791/media/2019/03/sqGraceDavidson.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
@@ -33,6 +33,12 @@ When I am at home I find it pretty easy to eat well and exercise, as I have two 
 I have always felt that Baroque music is my natural habitat. I love working with historical instrumentalists, everything about their unique colour, tone and pitch feels comfortable for me and relates to the way I sing a line or phrase. I don't have a large voice that could carry over a symphony orchestra, so I always feel much better balanced next to Baroque players, plus we are so often blessed with performing in stunning buildings, concert halls and churches - which is an added bonus and often a natural amplification for me! That said, vocal lines in Baroque music can be incredibly technically challenging, often with little space to breathe.
 
 When I was younger, I played the violin and sang in the Church choir and despite not being a great violinist, I am sure that playing an instrument hugely contributed to my passion for Baroque music, as many vocal lines in Baroque music are very instrumental and vocal at the same time with instruments echoing vocal lines and vice versa.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1553028830/media/2019/03/GraceDavidson.jpg){{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 ### What special significance is there about paying homage to Handel’s music in London?
 
