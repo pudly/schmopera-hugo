@@ -6,7 +6,7 @@ disclaimer = ""
 draft = true
 image_gallery = []
 postamble = "_Mr Handel's Scholars_ takes place on 28 March at St George's, Hanover Square as part of the London Handel Festival. For details and ticket information, [click here](https://www.london-handel-festival.com/show/mr-handels-scholars/?event=6002)."
-preamble = ""
+preamble = "This year's [London Handel Festival](https://www.london-handel-festival.com/whats-on/2019-season-handels-divas/) takes on the theme of \"Handel's Divas\", paying tribute to the muse-like women who performed - and made famous - Handel's music. On the event line-up is _Mr Handel's Scholars_, a concert named for the composer's star performers; it features four past winners of the Festival's Handel Singing Competition, including soprano [Soraya Mafi](/scene/people/soraya-mafi/).\n\nWe spoke with Mafi about singing Handel in London, working smarter (not harder), and the value of FaceTime."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553019576/media/2019/03/sqSorayaMafi.jpg"
 primary_image_credit = ""
 related_articles = ["articles/spotlight-on-jennifer-davis.md", "articles/spotlight-on-emily-edmonds.md"]
@@ -32,7 +32,7 @@ Firstly, I try to be kind to myself. For me, this means taking opportunities to 
 
 My relationships with family and friends are hugely important to me. It's difficult being away from home so often, so I'm extremely grateful for FaceTime. I don't know how people survived this job before it was invented! I always make time to call my partner, family and friends and have a good laugh! When I'm feeling the pressure of a looming performance, nothing makes me feel better a than a good chinwag and a dose of perspective.
 
-In terms of staying healthy, I am mindful of drinking plenty of water and eating well. If I feel the slightest start of a cold coming on, it's the whole kitchen sink to the rescue and plenty of sleep!
+In terms of staying healthy, I am mindful of drinking plenty of water and eating well. If I feel the slightest start of a cold coming on, it's the whole kitchen sink to the rescue, and plenty of sleep!
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1553019716/media/2019/03/SorayaMafi.jpg){{% /md %}}
 
