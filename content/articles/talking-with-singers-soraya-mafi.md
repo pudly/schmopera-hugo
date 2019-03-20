@@ -26,6 +26,8 @@ I can't imagine doing anything else. I had a number of part-time jobs in retail 
 
 I am grateful that I now have a job that is my absolute passion and allows me to explore human emotions and relationships.
 
+>Handel's works are an integral thread in the creative fabric of this great city.
+
 ### How do you stay healthy and sane while traveling for work?
 
 Firstly, I try to be kind to myself. For me, this means taking opportunities to rest. I used to believe that I had to be working every second of everyday in order to be my best. I soon realised that this is not the case. When in performance, a singer has to be immensely present both physically and mentally: this requires a certain energy and awareness, which is hard to sustain without proper rest. I now try to incorporate yoga and meditation into my daily routine so I can protect both my body and mind. This helps when travelling and combatting jet-lag/poor sleep on planes/trains, etc.
@@ -43,6 +45,8 @@ In terms of staying healthy, I am mindful of drinking plenty of water and eating
 ### What do you find uniquely challenging, and uniquely rewarding about singing baroque music?
 
 I am currently performing in a Legrenzi opera: it's the earliest period I've ever performed. The biggest challenge has been incorporating the use of "senza vibrato" into my singing without constraining the voice and still using my breath and support properly.
+
+>I wish I had known how useful it would be to learn Italian, French and German more solidly.
 
 A general challenge of baroque music is how to keep the text fresh, as it can repeat so frequently. Ensuring that every repetition has a meaning and clear intention is hugely important, in my opinion. That being said, the repetition of text and musical motifs (and whole sections in _da capo_ arias) allows for a performer to stamp the aria with their own creativity. I love this about Baroque music - finding colours/ornaments/approaches that suit your incarnation of this character, and truly creating something unique to you as a performer is very rewarding.
 
