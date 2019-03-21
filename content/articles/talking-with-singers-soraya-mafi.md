@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2019-03-19T18:15:44+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "_Mr Handel's Scholars_ takes place on 28 March at St George's, Hanover Square as part of the [London Handel Festival](https://www.london-handel-festival.com/whats-on/2019-season-handels-divas/). For details and ticket information, [click here](https://www.london-handel-festival.com/show/mr-handels-scholars/?event=6002)."
 preamble = "This year's [London Handel Festival](https://www.london-handel-festival.com/whats-on/2019-season-handels-divas/) takes on the theme of \"Handel's Divas\", paying tribute to the muse-like women who performed - and made famous - Handel's music. On the event line-up is [_Mr Handel's Scholars _](https://www.london-handel-festival.com/show/mr-handels-scholars/?event=6002)(28 March), a concert named for the composer's star performers; it features four past winners of the Festival's Handel Singing Competition, including soprano [Soraya Mafi](/scene/people/soraya-mafi/).\n\nWe spoke with Mafi about singing Handel in London, working smarter (not harder), and the value of FaceTime."
