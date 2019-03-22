@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2019-03-19T18:27:17+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "_Berenice_ runs at the ROH's Linbury Theatre 27 March to 7 April in a co-production with the London Handel Festival. For details and ticket information, [click here](https://www.roh.org.uk/productions/berenice-by-adele-thomas)."
 preamble = "As part of this year's London Handel Festival, American countertenor [Patrick Terry](/scene/people/patrick-terry/) is gearing up to sing the role of Arsace in Handel's [_Berenice_](https://www.roh.org.uk/productions/berenice-by-adele-thomas) (27 March to 7 April). The co-production with the Royal Opera House is directed by Adele Thomas, and goes up in a sold-out run at the new Linbury Theatre.\n\nWe spoke with Terry about the team effort that is baroque music, and the unique significance of performing Handel's music in a city like London."
@@ -26,6 +25,8 @@ I'm drawn to singing and performing as a vocation because they connect me to oth
 
 I drink a lot of water. I also try and talk to my family and support team a lot.
 
+>Handel is nowhere near the fringes in London and, as a countertenor especially, that is very exciting.
+
 ### What do you find uniquely challenging, and uniquely rewarding about singing baroque music?
 
 I love singing baroque music because it is a team sport. Of course all music-making is collaborative, but making baroque music is unique because the team is smaller and the written music has fewer directions for volume, speed, and phrasing. So all of these expressive choices need to be made by everyone in the band (which includes the singer).
@@ -41,6 +42,8 @@ There is nothing prescriptive about it, and it means that every time you hear ba
 ### What special significance is there about paying homage to Handel's music in London?
 
 I love performing Handel in London because there is such an appetite for the music here. Handel is nowhere near the fringes in London and, as a countertenor especially, that is very exciting.
+
+>Remember to feel pride about where you are as much as being driven to achieve the next goal.
 
 ### What do you know now about the singing career that you wish you knew 10 years ago?
 
