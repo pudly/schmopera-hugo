@@ -6,10 +6,10 @@ disclaimer = ""
 draft = true
 image_gallery = []
 postamble = "_Berenice_ runs at the ROH's Linbury Theatre 27 March to 7 April in a co-production with the London Handel Festival. For details and ticket information, [click here](https://www.roh.org.uk/productions/berenice-by-adele-thomas)."
-preamble = "As part of this year's London Handel Festival, \n\nA current member of the Jette Parker Young Artists Programme, American countertenor [Patrick Terry](/scene/people/patrick-terry/) is in London, gearing up for the Royal Opera House's co-production with the London Handel Festival set to sing Arsace in Handel's [_Berenice _](https://www.roh.org.uk/productions/berenice-by-adele-thomas)(27 March to 7 April). \n\n_Berenice_ is a co-production with the Royal Opera House and the London Handel Festival"
+preamble = "As part of this year's London Handel Festival, American countertenor [Patrick Terry](/scene/people/patrick-terry/) is gearing up to sing the role of Arsace in Handel's [_Berenice_](https://www.roh.org.uk/productions/berenice-by-adele-thomas) (27 March to 7 April). The co-production with the Royal Opera House is directed by Adele Thomas, and goes up in a sold-out run at the new Linbury Theatre.\n\nWe spoke with Terry about the team effort that is baroque music, and the unique significance of performing Handel's music in a city like London."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553020087/media/2019/03/sqPatrickTerry.jpg"
 primary_image_credit = "Patrick Terry, countertenor."
-related_articles = []
+related_articles = ["articles/talking-with-singers-soraya-mafi.md"]
 related_companies = []
 related_people = []
 short_description = "\"I wish I had started to save money earlier (sort of a boring one). I wish I had invested in travel containers for toiletries earlier, because I cannot tell you how many tiny shampoos I have accumulated over the years.\""
@@ -20,11 +20,11 @@ youtube_url = ""
 +++
 ### Why do you sing professionally?
 
-I'm drawn to singing and performing as a vocation because they connect me to other people. Singing challenges me to empathize with people and situations I would likely have never thought about otherwise. I love the feeling of community when I sing -- community with the composers/poets, community with my fellow musicians, and community with the audience.
+I'm drawn to singing and performing as a vocation because they connect me to other people. Singing challenges me to empathize with people and situations I would likely have never thought about otherwise. I love the feeling of community when I sing -- community with the composers and poets, community with my fellow musicians, and community with the audience.
 
 ### How do you stay healthy and sane while traveling for work?
 
-I drink a lot of water. I also try and talk to my family/support team a lot.
+I drink a lot of water. I also try and talk to my family and support team a lot.
 
 ### What do you find uniquely challenging, and uniquely rewarding about singing baroque music?
 
