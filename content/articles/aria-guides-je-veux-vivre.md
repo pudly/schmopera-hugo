@@ -11,7 +11,7 @@ related_articles = ["articles/aria-guides-aprite-un-po-quegli-occhi.md", "articl
 related_people = ["scene/people/nadine-sierra.md"]
 short_description = "This is Juliette's first aria from Gounod's Roméo et Juliette, and she sings it after her nurse yet again brings up the fact that she has to get married to Paris. Juliette is young, and that can either mean she's giddy and excitable, or that she's nervous and insecure about things like arranged marriages and being only 13 or so. \"Je veux vivre\" is a hugely popular pick for audition packages; it's not too long, it shows off some coloratura, and it's a great opportunity to show polished acting chops. "
 slug = "aria-guides-je-veux-vivre"
-title = "Aria Guides: &quot;Je veux vivre&quot;"
+title = "Aria Guides: Je veux vivre"
 
 +++
  1. What a way to start an aria, am I right? This line takes a lot of patient practice, and drilling the intonation is easier if you check your pitch on the piano, in four octaves - hearing the pitch is much easier than with a single note to match. Take advantage of the articulations that Gounod writes, too; you can be almost instrumental in the way you attack each note, and this squareness will help you stay in tune. The last detail to make your life easier: make sure that the last C-natural of Juliette's first bar is easy and vibrating.<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452532571714/Aria-Guide---Je-veux-vivre-1---annotated.jpg.jpg) {{% /md %}}</figure>
