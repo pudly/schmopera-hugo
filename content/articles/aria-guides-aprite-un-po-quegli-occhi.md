@@ -1,13 +1,13 @@
 +++
 author = ["authors/jenna.md"]
-categories = "Editorial"
+categories = "How-To"
 date = "2015-11-16T10:24:00-05:00"
 lastmod = "2015-11-20T11:09:00-05:00"
 preamble = "Figaro's final aria in Mozart's *Le nozze di Figaro* is one that separates the men from the boys. It's endlessly interesting for dramaturgs, since Figaro breaks the so-called \"fourth wall\" and addresses the audience directly for the first time the show. He's fed up with women and their shenanigans, and it's one of rare times we really see him lose his cool. Musically, it's all about stamina. \n\nIf you're learning this aria, you'll want to include your voice teacher in the process. In addition, I offer up some tips through experience, about how to get a head start on making this mountain of an aria as easy as it can be.\n\nFollow along in the excerpts below, or get the whole picture starting on page 193 of [this score](http://conquest.imslp.info/files/imglnks/usimg/8/89/IMSLP220533-SIBLEY1802.16871.abe9-39087011127240score.pdf)"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448035737162/2015-11-16---ApriteSquare.jpg.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553302002/media/2019/03/OpenEyes.jpg"
 publishDate = "2015-11-17T09:00:00-05:00"
 related_articles = ["articles/aria-guides-the-counts-aria.md", "articles/aria-guides-una-furtiva-lagrima.md", "articles/aria-guides-je-veux-vivre.md", "articles/aria-guides-come-paride-vezzoso.md", "articles/aria-guides-schweig-damit-dich-niemand-warnt.md"]
-short_description = "Figaro&#039;s final aria in Mozart&#039;s Le nozze di Figaro is one that separates the men from the boys. It&#039;s endlessly interesting for dramaturgs, since Figaro breaks the so-called &quot;fourth wall&quot; and addresses the audience directly for the first time the show. He&#039;s fed up with women and their shenanigans, and it&#039;s one of rare times we really see him lose his cool. Musically, it&#039;s all about stamina."
+short_description = "Figaro's final aria in Mozart's Le nozze di Figaro is one that separates the men from the boys. It's endlessly interesting for dramaturgs, since Figaro breaks the so-called \"fourth wall\" and addresses the audience directly for the first time the show. He's fed up with women and their shenanigans, and it's one of rare times we really see him lose his cool. Musically, it's all about stamina."
 slug = "aria-guides-aprite-un-po-quegli-occhi"
 title = "Aria Guides: \"Aprite un po' quegli occhi\""
 
