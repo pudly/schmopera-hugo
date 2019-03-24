@@ -19,3 +19,5 @@ youtube_url = ""
 
 +++
 There I sat in Roy Thomson Hall, listening to the crowd go wild for the Toronto Symphony Orchestra. It's an excellent orchestra, so that part wasn't surprising. But it was certainly a rare experience to hear spontaneous applause and a smattering of hoots and hollers - the sounds of an audience showing its appreciation for some deft handling of music that's so famous a cultural given.
+
+That music: John Williams' original score for _The Empire Strikes Back_, which the TSO played live last week as part of its ongoing _Star Wars_ Film Concert Series. And though the music stands on its own as a great work of the 20th century, I'm sure the hoots and hollers were a bit inspired by the sights of Carrie Fisher, Harrison Ford, Yoda, and a few lovable droids.
