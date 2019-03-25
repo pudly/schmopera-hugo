@@ -28,4 +28,4 @@ And as I'm sat pondering all those similarities, I get miffed. I guess it's beca
 
 My being miffed isn't a good use of time - I know this in the reasonable corners of my brain. Just because something is an "original" doesn't mean it's the most popular, and I'm certainly not foolish enough to try and argue that opera does storytelling "better" than George Lucas.
 
-Maybe this is how it is for everyone that has a niche interest. Indie film lovers, college sports fans, lovers of obscure graphic novels, 
+Maybe this is how it is for everyone that has a niche interest. Indie film lovers, college sports fans, lovers of obscure graphic novels - maybe they all bristle at the ubiquitous fandom of big-budget Hollywood movies, the NFL, DC Comics.
