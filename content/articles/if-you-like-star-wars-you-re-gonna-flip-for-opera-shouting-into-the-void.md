@@ -24,4 +24,4 @@ That music: John Williams' original score for _The Empire Strikes Back_, which t
 
 Whenever I watch something like _Star Wars_ - epic tales that unfold in a fantastical world, making nods to Greek heroes and other well-loved story tropes - I'm always struck by the similarities to opera. _The Lord of the Rings_, _A Song of Ice and Fire_, the Marvel and DC universes, they all have the scope and narrative - sometimes even the leitmotifs - that so often come with opera, particularly major works like Wagner's _Ring Cycle_.
 
-And as I'm sat pondering all those similarities, I get miffed. 
+And as I'm sat pondering all those similarities, I get miffed. I guess it's because I wish opera got such a broadly enthusiastic response. When 
