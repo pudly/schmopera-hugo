@@ -29,3 +29,5 @@ And as I'm sat pondering all those similarities, I get miffed. I guess it's beca
 My being miffed isn't a good use of time - I know this in the reasonable corners of my brain. Just because something is an "original" doesn't mean it's the most popular, and I'm certainly not foolish enough to try and argue that opera does storytelling "better" than George Lucas.
 
 Maybe this is how it is for everyone that has a niche interest. Indie film lovers, college sports fans, lovers of obscure graphic novels - maybe they all bristle at the ubiquitous fandom of big-budget Hollywood movies, the NFL, DC Comics.
+
+The optimistic version of all this complaining: maybe there were a bunch of people in that sold-out crowd that saw the prowess of the Toronto Symphony Orchestra, and will come to see a mainstage concert in the future. It's apparently true that most of the time, the people who attend things like this _Star Wars_ series are not inspired to come back for Beethoven. (I asked.) But maybe - _maybe_ - the kids in that _Star Wars_ audience 
