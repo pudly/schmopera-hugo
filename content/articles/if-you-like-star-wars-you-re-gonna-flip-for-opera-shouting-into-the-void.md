@@ -30,6 +30,6 @@ My being miffed isn't a good use of time - I know this in the reasonable corners
 
 Maybe this is how it is for everyone that has a niche interest. Indie film lovers, college sports fans, lovers of obscure graphic novels - maybe they all bristle at the ubiquitous fandom of big-budget Hollywood movies, the NFL, DC Comics.
 
-The optimistic version of all this complaining: maybe there were a bunch of people in that sold-out crowd that saw the prowess of the Toronto Symphony Orchestra, and will come to see a mainstage concert in the future. It's apparently true that most of the time, the people who attend things like this _Star Wars_ series are not inspired to come back for Beethoven. (I asked.) 
+The optimistic version of all this complaining: maybe there were a bunch of people in that sold-out crowd that saw the prowess of the Toronto Symphony Orchestra, and will come to see a mainstage concert in the future. But, it's apparently true that most of the time, the people who attend things like this _Star Wars_ series are not inspired to come back for Beethoven. (I asked.) 
 
-But maybe - _maybe?_ - the kids in that _Star Wars_ audience will think it's pretty neat to have a live orchestra playing John Williams' score. 
+But maybe - _maybe?_ - the kids in that _Star Wars_ audience will think it's pretty neat to have a live orchestra playing John Williams' score. And it would be very cool if they began listening to movie scores with more scrutiny; even cooler, if they grew into grown-ups who are open to being moved by music.
