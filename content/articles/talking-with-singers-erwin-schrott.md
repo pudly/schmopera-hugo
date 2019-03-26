@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553617642/media/2019/03/sqErwinSchrottDarioAcosta.jpg"
+primary_image_credit = "Photo: Dario Acosta."
 related_articles = []
 related_companies = []
 related_people = []
@@ -36,7 +36,7 @@ So, I think that in the end, if I had the chance to get in contact with the youn
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Erwin Schrott, bass. Photo: Dario Acosta.</figcaption>
 
 </figure>
 
@@ -52,7 +52,7 @@ That's the exact moment when he appears, when we feel left alone and short of an
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Erwin Schrott, bass. Photo: Dario Acosta.</figcaption>
 
 </figure>
 
@@ -70,9 +70,9 @@ We need the villains; because of them we have the most beautiful moments in oper
 
 Jokes aside, I see the villains and all the characters like the many layers of a whole. Every character in the opera is part of a whole being that represents the beauty of humanity in a more detailed way than when we are simply labelled as good or bad, black or white. We are all of it, we have it all in us, we are part of the whole and opera usually does good work of reminding us.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1553617734/media/2019/03/ERWIN_SCHROTT2-copyr%20DARIO%20ACOSTA.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Erwin Schrott, bass. Photo: Dario Acosta.</figcaption>
 
 </figure>
 
