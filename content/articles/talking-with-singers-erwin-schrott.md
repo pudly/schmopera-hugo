@@ -50,7 +50,7 @@ I think that he even understands love, but he just finds it overrated. It is thr
 
 That's the exact moment when he appears, when we feel left alone and short of answers, or at a time where we start to redefine certain aspects or beliefs about life. Let's face it: if we had the chance to clone ourselves in a younger self and keep our memories or our soul…I wonder how many of us will take the chance immediately.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1553617999/media/2019/03/ErwinSchrottDarioAcosta2.jpg){{% /md %}}
 
 <figcaption>Erwin Schrott, bass. Photo: Dario Acosta.</figcaption>
 
