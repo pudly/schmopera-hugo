@@ -6,7 +6,7 @@ disclaimer = ""
 draft = true
 image_gallery = []
 postamble = "_Athalia_ takes place on 29 April at St John's Smith Square as part of the London Handel Festival. For details and ticket information, [click here](https://www.london-handel-festival.com/show/athalia-hwv-52/)."
-preamble = "Closing this year's London Handel Festival is the 29 April performance of _Athalia_. Among the excellent cast is British soprano Grace Davidson, who brings her expertise in Baroque music to Handel's 1733 English oratorio.\n\nWe spoke with Davidson about singing Handel in her hometown of London, "
+preamble = "Closing this year's London Handel Festival is the 29 April performance of _Athalia_. Among the excellent cast is British soprano Grace Davidson, who brings her expertise in Baroque music to Handel's 1733 English oratorio.\n\nWe spoke with Davidson about singing Handel in her hometown of London, her pro tips for working on the road, and what she learned best through experience."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553028791/media/2019/03/sqGraceDavidson.jpg"
 primary_image_credit = ""
 related_articles = []
@@ -36,7 +36,7 @@ When I was younger, I played the violin and sang in the Church choir and despite
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1553028830/media/2019/03/GraceDavidson.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Grace Davidson, soprano.</figcaption>
 
 </figure>
 
