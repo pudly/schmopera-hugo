@@ -107,8 +107,8 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
-- content/articles/talking-with-singers-grace-davidson.md
 - content/articles/the-top-5-things-your-music-instructor-wants-you-to-know.md
+- content/articles/talking-with-singers-grace-davidson.md
 - content/authors/donna-maurer.md
 - content/articles/talking-with-singers-erwin-schrott.md
 - content/articles/if-you-like-star-wars-you-re-gonna-flip-for-opera-shouting-into-the-void.md

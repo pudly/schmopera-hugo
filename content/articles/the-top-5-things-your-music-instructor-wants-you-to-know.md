@@ -3,7 +3,6 @@ author = ["authors/donna-maurer.md"]
 categories = "How-To"
 date = "2019-03-28T00:32:49+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = "Have you ever wondered, when taking on music lessons, what requirements there may be when starting? Some instructors might give you a list of their requirements ahead of time, but most probably don't. It is important to be aware that learning a musical skill, even just as a hobby or on the side, still takes attention, dedication, and hard work. Some may be unaware of what's expected of them when they decide to take on learning an instrument, and it helps to have a good idea of what the instructor wants from you. Music instructors do and will have certain expectations that they would like you to know about when working with them. Below are some of the top misconceptions and significant aspects that should be noted by students studying music."
