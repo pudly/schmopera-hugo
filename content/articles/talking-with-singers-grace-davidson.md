@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2019-03-19T20:49:44+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "_Athalia_ takes place on 29 April at St John's Smith Square as part of the London Handel Festival. For details and ticket information, [click here](https://www.london-handel-festival.com/show/athalia-hwv-52/)."
 preamble = "Closing this year's London Handel Festival is the 29 April performance of _Athalia_. Among the excellent cast is British soprano [Grace Davidson](/scene/people/grace-davidson/), who brings her expertise in Baroque music to Handel's 1733 English oratorio.\n\nWe spoke with Davidson about singing Handel in her hometown of London, her pro tips for working on the road, and what she learned best through experience."
@@ -28,6 +27,8 @@ This is an interesting question and not one that any travelling musician can be 
 
 When I am at home I find it pretty easy to eat well and exercise, as I have two children (both singers and one of whom is a chorister at St Johns College Cambridge) plus my gorgeous dog and they are all a great incentive to get out of the house every day, and it just keeps me naturally distracted from even worrying about being ill, really. When I am touring, either on my own or in a group, I find I use that time to be quite quiet and sleep a lot so I can stay focused and charge my batteries. I sleep on planes, trains, coaches, (not when I'm driving I hope), but, generally I have a loaded iPod on the go, Netflix, books and magazines – a score of whatever the next musical project might be and I always have a large bottle of water, Vitamin C, Echinacea and Zinc in my handbag at all times!
 
+>I grew up in London and have lived here all my life, so it definitely feels very special to have sung Handel in some of the London venues where he worked and lived.
+
 ### What do you find uniquely challenging, and uniquely rewarding about singing Baroque music?
 
 I have always felt that Baroque music is my natural habitat. I love working with historical instrumentalists, everything about their unique colour, tone and pitch feels comfortable for me and relates to the way I sing a line or phrase. I don't have a large voice that could carry over a symphony orchestra, so I always feel much better balanced next to Baroque players, plus we are so often blessed with performing in stunning buildings, concert halls and churches - which is an added bonus and often a natural amplification for me! That said, vocal lines in Baroque music can be incredibly technically challenging, often with little space to breathe.
@@ -43,6 +44,8 @@ When I was younger, I played the violin and sang in the Church choir and despite
 ### What special significance is there about paying homage to Handel's music in London?
 
 Over the years I have performed in St Georges Hanover Square, Handel's house on Brook Street, Mayfair and then more recently I performed and recorded Handel's _Te Deum_ and Chandos Anthem no. 8 with the London Handel Orchestra and Adrian Butterfield at St Lawrence Whitchurch, where Handel worked as organist on the Cannons Estate. I had not been to St Lawrence Whitchurch before May 2017 and was literally blown away when I entered the church and saw its magnificent interior.
+
+>There are highs and lows with being a performer and the inconsistent schedule is sometimes quite challenging to manage, especially with a family.
 
 I grew up in London and have lived here all my life, so it definitely feels very special to have sung Handel in some of the London venues where he worked and lived. I am also lucky to have recorded many of my favourite Handel works in London venues and have a new recording of _Acis and Galatea_ coming out this spring with Harry Christophers and the Sixteen on the Coro label on which I sing the role of Galatea.
 
