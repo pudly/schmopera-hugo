@@ -3,18 +3,17 @@ author = ["authors/andrew-schneider.md"]
 categories = "Review"
 date = "2019-03-29T18:18:39+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553883852/media/2019/03/sqMontezuma.jpg"
 primary_image_credit = ""
-related_articles = []
-related_companies = []
-related_people = []
+related_articles = ["articles/montezuma.md"]
+related_companies = ["scene/companies/american-baroque-opera-co.md"]
+related_people = ["scene/people/ryan-kuster.md"]
 short_description = "While Handel provides so many details about characterization in his arias which speak for themselves, especially in timbre, Vivaldi, precisely because of his compositional fluency, requires a constant level of onstage interpretation to allow his stylized and always virtuosic pieces to provide a stimulating background."
-slug = "montezuma"
-title = "Montezuma"
+slug = "montezuma-long-lost-baroque-blueprints"
+title = "Montezuma: long-lost baroque blueprints"
 youtube_url = ""
 
 +++
