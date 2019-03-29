@@ -13,8 +13,8 @@ related_articles = ["articles/in-review-il-trovatore-at-roh.md", "articles/opera
 related_companies = ["scene/companies/royal-opera-house.md"]
 related_people = ["scene/people/ferruccio-furlanetto.md", "scene/people/ludovic-tezier.md", "scene/people/liudmyla-monastyrska.md", "scene/people/jonas-kaufmann.md"]
 short_description = "This was a fairly standard production with a bit of a modern twist from designer Christian Schmidt, directed by Christof Loy. A star-studded production, it is currently enjoying a near sold out run at the Royal Opera."
-slug = "la-forza-del-destino"
-title = "La forza del destino"
+slug = "the-powers-of-fate-great-singing-la-forza-del-destino"
+title = "The powers of fate & great singing: La forza del destino"
 youtube_url = ""
 
 +++
