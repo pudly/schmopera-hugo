@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553885623/media/2019/03/sq0430JonasKaufmannasDonAlvaroLudovicTezierasDonCarloROH2019photographbyBillCooper.jpg"
-primary_image_credit = ""
+primary_image_credit = "Jonas Kaufmann (Don Alvaro) and Ludovic Tézier (Don Carlo) in La forza del destino, ROH, 2019. Photo: Bill Cooper."
 related_articles = []
 related_companies = []
 related_people = []
@@ -24,7 +24,7 @@ Here Verdi tackles what is perhaps one of the biggest themes in opera; fate. The
 
 <figure data-type="image">{{% md %%}}![](https://res.cloudinary.com/schmopera/image/upload/v1553885498/media/2019/03/001JonasKaufmannasDonAlvaroLaforzadeldestinoROH2019photographbyBillCooper.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Jonas Kaufmann (Don Alvaro) in La forza del destino, ROH, 2019. Photo: Bill Cooper.</figcaption>
 
 </figure>
 
@@ -34,7 +34,7 @@ With so many grand, overarching themes, the story at its core remains remarkably
 
 <figure data-type="image">{{% md %%}}![](https://res.cloudinary.com/schmopera/image/upload/v1553885519/media/2019/03/069LiudmylaMonastyrskaasLeonoraLaforzadeldestinoROH2019photographBillCooper.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>in La forza del destino, ROH, 2019. Photo: Bill Cooper.</figcaption>
 
 </figure>
 
@@ -48,7 +48,7 @@ The staged overture perfectly sets up the the story and is framed so well within
 
 <figure data-type="image">{{% md %%}}![](https://res.cloudinary.com/schmopera/image/upload/v1553885537/media/2019/03/1259LudovicTezierasDonCarlodiVargasLaforzadeldestinoROH2019photographbyBillCooper.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Ludovic Tézier in La forza del destino, ROH, 2019. Photo: Bill Cooper.</figcaption>
 
 </figure>
 
@@ -60,7 +60,7 @@ Ukrainian soprano [Liudmyla Monastryrska](/scene/people/liudmyla-monastyrska/) t
 
 <figure data-type="image">{{% md %%}}![](https://res.cloudinary.com/schmopera/image/upload/v1553885580/media/2019/03/0401FerruccioFurlanettoasPadreGuardianLaforzaROH2019photographedbyBillCooper.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Ferruccio Furlanetto (Padre Guardiano) in La forza del destino, ROH, 2019. Photo: Bill Cooper.</figcaption>
 
 </figure>
 
@@ -68,7 +68,7 @@ Baritone [Ludovic Tézier](/scene/people/ludovic-tezier/) in the role of Don Car
 
 <figure data-type="image">{{% md %%}![](https://res.cloudinary.com/schmopera/image/upload/v1553885609/media/2019/03/0491JonasKaufmannasDonAlvaroLaforzadeldestinoROH2019photographbyBillCooper.jpg)}{{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Jonas Kaufmann (Don Alvaro) in La forza del destino, ROH, 2019. Photo: Bill Cooper.</figcaption>
 
 </figure>
 
