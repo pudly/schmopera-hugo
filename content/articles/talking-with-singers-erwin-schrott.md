@@ -6,7 +6,7 @@ disclaimer = ""
 draft = true
 image_gallery = []
 postamble = "_Faust_ runs at the Royal Opera House from 11 April to 6 May. For details and ticket information, [click here](https://www.roh.org.uk/productions/faust-by-david-mcvicar)."
-preamble = "ROH Faust, April 11-May 6 w. Fabiano, Damrau, live cinema broadcast April 30"
+preamble = "Uruguayan bass-baritone Erwin Schrott is gearing up to get devilish: he's set to sing the role of Méphistophélès in Gounod's _Faust_, opposite Diana Damrau as Marguerite and Michael Fabiano in the title role. The production by David McVicar runs 11 April to 6 May, including a live cinema broadcast on 30 April.\n\nWe spoke with Schrott about the complexity of the villainous roles he sees so often, and the value of patience.\n\nROH Faust, April 11-May 6 w. Fabiano, Damrau, live cinema broadcast April 30"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553617642/media/2019/03/sqErwinSchrottDarioAcosta.jpg"
 primary_image_credit = "Photo: Dario Acosta."
 related_articles = ["articles/talking-with-singers-matthew-polenzani.md", "articles/talking-with-singers-luca-pisaroni.md"]
@@ -34,17 +34,11 @@ If I had the chance to travel in time and get together with the younger me 20 ye
 
 So, I think that in the end, if I had the chance to get in contact with the younger me, I would just whisper "keep being patient".
 
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption>Erwin Schrott, bass. Photo: Dario Acosta.</figcaption>
-
-</figure>
-
 ### What kind of character is Méphistophélès in Gounod's _Faust_? What do you think are some common misconceptions about his character?
 
 He is not the antithesis of god, he is god himself, the other half. He is that figure that was created to keep us under control through fear. He is much more human than the evil spirit that everyone like to fantasise with. He understands human nature and thats why he knows well what people are craving.
 
->I see Méphistophélès as an elegant and fun character, a master that knows humanity much better than its creator.
+> I see Méphistophélès as an elegant and fun character, a master that knows humanity much better than its creator.
 
 I think that he even understands love, but he just finds it overrated. It is through humanity's desires and wishes that he finds a gap in all what the creator has supremely given to humanity. He reminds all of us how unfair life is and that it is difficult to let go of the most precious thing that we have. He reminds us of how short life is and how lonely it is to have to die while outside of our window there is a party called life that for some of us it is just starting and for some others it is about to end.
 
@@ -66,7 +60,7 @@ The joy is about humanity, the dark and bright side of it. We find the most beau
 
 We need the villains; because of them we have the most beautiful moments in opera. And even when the villain is not the title role it will end up having the audience acclaim, because they all have the tendency to sympathize with the devil.
 
->There are no challenges in playing villains, because creating a character is an easy task.
+> There are no challenges in playing villains, because creating a character is an easy task.
 
 Jokes aside, I see the villains and all the characters like the many layers of a whole. Every character in the opera is part of a whole being that represents the beauty of humanity in a more detailed way than when we are simply labelled as good or bad, black or white. We are all of it, we have it all in us, we are part of the whole and opera usually does good work of reminding us.
 
