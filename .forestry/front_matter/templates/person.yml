@@ -40,6 +40,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/junhan-choi.md
 - content/scene/people/grace-davidson.md
 - content/scene/people/christopher-magiera.md
 - content/scene/people/so-young-park.md
