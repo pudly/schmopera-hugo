@@ -40,6 +40,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/fran-rogers.md
 - content/scene/people/john-bitsas.md
 - content/scene/people/junhan-choi.md
 - content/scene/people/grace-davidson.md
