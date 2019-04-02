@@ -30,7 +30,7 @@ In order to enter ATC, you have to select nine songs from thirteen categories, r
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554166962/media/2019/04/Finals%2063.jpg){{% /md %}}
 
-<figcaption>The American Traditions Competition, Savannah, GA, 2019. Photo: John Carrington.</figcaption>
+<figcaption>George Lovett in the American Traditions Competition, Savannah, GA, 2019. Photo: John Carrington.</figcaption>
 
 </figure>
 
@@ -50,7 +50,7 @@ Like many things in Savannah, the vibe is very friendly and hospitable. There ar
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554166916/media/2019/04/Finals%20201.jpg){{% /md %}}
 
-<figcaption>The American Traditions Competition, Savannah, GA, 2019. Photo: John Carrington.</figcaption>
+<figcaption>Emily Yokum Black in the American Traditions Competition, Savannah, GA, 2019. Photo: John Carrington.</figcaption>
 
 </figure>
 
