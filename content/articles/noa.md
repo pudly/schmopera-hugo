@@ -22,9 +22,9 @@ This year, I was lucky to have been selected to be one of three judges at the [A
 
 In order to enter ATC, you have to select nine songs from thirteen categories, ranging from opera to current pop. These nine pieces need to be put together into three programs. (You have to submit a recording of your first three-your proposed quarter final program.) The order of the programs and even the order of the pieces within the programs is fixed upon entry and cannot be changed. Read that carefully... _nine pieces from thirteen categories, arranged in three programs - and the order of the programs and the pieces can't be changed._
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554166962/media/2019/04/Finals%2063.jpg){{% /md %}}
 
-<figcaption>in the American Traditions Competition, Savannah, GA, 2019. Photo: John Carrington.</figcaption>
+<figcaption>The American Traditions Competition, Savannah, GA, 2019. Photo: John Carrington.</figcaption>
 
 </figure>
 
@@ -34,7 +34,7 @@ I would describe most of this year's quarter finalists as singers with backgroun
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554166929/media/2019/04/Cyrille%20Aimee%2001.jpg){{% /md %}}
 
-<figcaption>in the American Traditions Competition, Savannah, GA, 2019. Photo: John Carrington.</figcaption>
+<figcaption>Cyrille Aimee in the American Traditions Competition, Savannah, GA, 2019. Photo: John Carrington.</figcaption>
 
 </figure>
 
@@ -44,7 +44,7 @@ Like many things in Savannah, the vibe is very friendly and hospitable. There ar
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554166916/media/2019/04/Finals%20201.jpg){{% /md %}}
 
-<figcaption>in the American Traditions Competition, Savannah, GA, 2019. Photo: John Carrington.</figcaption>
+<figcaption>The American Traditions Competition, Savannah, GA, 2019. Photo: John Carrington.</figcaption>
 
 </figure>
 
@@ -52,7 +52,7 @@ I've written several columns for Schmopera, so I think I know this audience. Whi
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554166901/media/2019/04/Finals%20165.jpg){{% /md %}}
 
-<figcaption>in the American Traditions Competition, Savannah, GA, 2019. Photo: John Carrington.</figcaption>
+<figcaption>The American Traditions Competition, Savannah, GA, 2019. Photo: John Carrington.</figcaption>
 
 </figure>
 
