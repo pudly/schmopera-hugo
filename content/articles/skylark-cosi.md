@@ -3,18 +3,17 @@ author = ["authors/callie-cooper.md"]
 categories = "Review"
 date = "2019-04-02T00:37:41+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554170873/media/2019/04/sqSkylarkCosi.jpg"
 primary_image_credit = "KrisAnne Weiss and Tess Altiveros in Skylark Opera's production of Così fan tutte, 2019. Photo courtesy of Skylark Opera."
 related_articles = []
-related_companies = []
-related_people = []
+related_companies = ["scene/companies/skylark-opera.md"]
+related_people = ["scene/people/justin-anthony-spenner.md", "scene/people/tess-altiveros.md", "scene/people/siena-forest.md"]
 short_description = "I felt that underneath the entertaining antics of the cast there was a message to be gleaned from the night, but it was never given the time to come to fruition."
-slug = "skylark-cosi"
-title = "Skylark Cosi"
+slug = "in-review-skylark-operas-cosi-fan-tutte"
+title = "In review: Skylark Opera's Così fan tutte"
 youtube_url = ""
 
 +++
