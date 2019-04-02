@@ -5,7 +5,7 @@ date = "2019-04-02T00:42:18+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "Michael Ching's one act opera, EIGHT WOODS AND A VAN, premieres at Cedar Rapids Opera in April. He has mini operas premiering at Utah Opera and Savannah Voice Festival in the next few months."
 preamble = ""
 primary_image = ""
 primary_image_credit = ""
@@ -38,36 +38,19 @@ To me, every song is a little story. If you agree, the American Traditional Comp
 
 The thirteen categories of music at the ATC:
 
-Opera
-
-Musical Theatre
-
-Hollywood
-
-Jazz
-
-Folk
-
-Country
-
-Pop/Rock Singer-songwriters 1980- Today
-
-Art Song
-
-Gospel
-
-Songs of Johnny Mercer
-
-Blues
-
-Religious Music
-
-Popular Music of 1950-1980
-
-Great American Songbook
-
-Cabaret
-
-Spirituals
-
-Michael Ching’s one act opera, EIGHT WOODS AND A VAN, premieres at Cedar Rapids Opera in April. He has mini operas premiering at Utah Opera and Savannah Voice Festival in the next few months.
+* Opera
+* Musical Theatre
+* Hollywood
+* Jazz
+* Folk
+* Country
+* Pop/Rock Singer-songwriters 1980- Today
+* Art Song
+* Gospel
+* Songs of Johnny Mercer
+* Blues
+* Religious Music
+* Popular Music of 1950-1980
+* Great American Songbook
+* Cabaret
+* Spirituals
