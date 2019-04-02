@@ -1,10 +1,10 @@
 +++
 date = "2019-04-02T02:16:58+00:00"
-discipline = ""
+discipline = "Soprano"
 draft = true
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554171462/media/2019/04/SienaForest.jpg"
 primary_image_credit = ""
-related_companies = []
+related_companies = ["scene/companies/minnesota-opera.md"]
 slug = "siena-forest"
 title = "Siena Forest"
 website = "http://sienaforest.com/"
