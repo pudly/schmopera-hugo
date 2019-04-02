@@ -34,9 +34,9 @@ I've written several columns for Schmopera, so I think I know this audience. Whi
 
 To me, every song is a little story. If you agree, the American Traditional Competition might be for you. One last thing I shouldn't fail to mention - the pianists at the competition were amazing. I never felt that a pianist wasn't enhancing a performance.
 
-SIDEBAR
+### SIDEBAR
 
-The thirteen categories of music at the ATC
+The thirteen categories of music at the ATC:
 
 Opera
 
