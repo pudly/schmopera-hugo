@@ -40,6 +40,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/siena-forest.md
 - content/scene/people/jessica-jane-jacobs.md
 - content/scene/people/fran-rogers.md
 - content/scene/people/john-bitsas.md
