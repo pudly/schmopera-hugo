@@ -3,18 +3,17 @@ author = ["authors/michael-ching.md"]
 categories = "Op-Ed"
 date = "2019-04-02T00:42:18+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Michael Ching's one act opera, _EIGHT WOODS AND A VAN_, premieres at Cedar Rapids Opera in April. He has mini operas premiering at Utah Opera and Savannah Voice Festival in the next few months."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554166624/media/2019/04/sqAprilMaeWebb11.jpg"
 primary_image_credit = "April May Webb in the American Traditions Competition, Savannah, GA, 2019. Photo: John Carrington."
-related_articles = []
+related_articles = ["articles/once-agan-shushing-meanies.md", "articles/talking-with-singers-jamie-barton.md"]
 related_companies = []
 related_people = []
 short_description = "I've written several columns for Schmopera, so I think I know this audience. While this competition would be tough to impossible for a \"pure\" opera singer, there are plenty of us that love to perform a huge variety of things."
-slug = "noa"
-title = "NOA"
+slug = "variety-wins-at-the-american-traditional-competition"
+title = "Variety wins at the American Traditional Competition"
 youtube_url = ""
 
 +++
