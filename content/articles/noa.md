@@ -20,6 +20,12 @@ youtube_url = ""
 +++
 This year, I was lucky to have been selected to be one of three judges at the [American Traditions Competition](https://www.americantraditionscompetition.com/) (ATC) in Savannah. The February 2019 competition was the 26th annual. Twenty eight quarter finalists were invited to Savannah to perform. Based on my experience with ATC, I want to encourage singers who read Schmopera to consider entering in a future year.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554170506/media/2019/04/ATC%20Judges%20109.jpg){{% /md %}}
+
+<figcaption>(l-r) American Traditions Competition judges Phillip Boykin, Melba Joyce, and Michael Ching. Photo: John Carrington.</figcaption>
+
+</figure>
+
 In order to enter ATC, you have to select nine songs from thirteen categories, ranging from opera to current pop. These nine pieces need to be put together into three programs. (You have to submit a recording of your first three-your proposed quarter final program.) The order of the programs and even the order of the pieces within the programs is fixed upon entry and cannot be changed. Read that carefully... _nine pieces from thirteen categories, arranged in three programs - and the order of the programs and the pieces can't be changed._
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554166962/media/2019/04/Finals%2063.jpg){{% /md %}}
