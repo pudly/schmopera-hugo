@@ -28,11 +28,11 @@ I would describe most of this year's quarter finalists as singers with backgroun
 
 Judging the competition was wonderfully impossible - a bit like picking the best fruits in a varied bowl - do you prefer grapefruits, or strawberries? How about a star fruit? My colleagues - musical theatre, opera, and gospel singer [Philip Boykin](http://www.phillipboykin.com/), and jazz singer Melba Joyce - brought their own tastes to bear.
 
-Like many things in Savannah, the vibe is very friendly and hospitable. There are [five major awards and six specialty awards](https://www.americantraditionscompetition.com/application) including a people’s choice prize for the audience to select. Plus all non advancing quarter finalists are awarded $300 and non advancing semi finalists are granted $600. Since home housing is provided, the ATC doesn’t bite too deep into one’s budget.
+Like many things in Savannah, the vibe is very friendly and hospitable. There are [five major awards and six specialty awards](https://www.americantraditionscompetition.com/application) including a people's choice prize for the audience to select. Plus all non advancing quarter finalists are awarded $300 and non advancing semi finalists are granted $600. Since home housing is provided, the ATC doesn't bite too deep into one's budget.
 
 I've written several columns for Schmopera, so I think I know this audience. While this competition would be tough to impossible for a "pure" opera singer, there are plenty of us that love to perform a huge variety of things. And many of us enjoy the art of creative programming, of telling a story through a succession of songs. After all, that sounds like… opera! ATC is similar to the [Lotte Lenya Competition](https://www.kwf.org/pages/lotte-lenya-competition.html), which has four stylistic categories and an age limit of 32. (ATC has no upper age limit.) By the way, while all the ATC music selected must be by American born writers, there is no limitation on nationality for the contestants, although performers can only offer one piece that is not in English.
 
-To me, every song is a little story. If you agree, the American Traditional Competition might be for you. One last thing I shouldn't fail to mention--the pianists at the competition were amazing. I never felt that a pianist wasn't enhancing a performance.
+To me, every song is a little story. If you agree, the American Traditional Competition might be for you. One last thing I shouldn't fail to mention - the pianists at the competition were amazing. I never felt that a pianist wasn't enhancing a performance.
 
 SIDEBAR
 
