@@ -107,6 +107,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/skylark-cosi.md
 - content/articles/boc-s-don-giovanni-smart-and-relevant.md
 - content/articles/talking-with-singers-erwin-schrott.md
 - content/articles/la-forza-del-destino.md
