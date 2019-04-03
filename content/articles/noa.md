@@ -12,7 +12,7 @@ related_articles = ["articles/once-agan-shushing-meanies.md", "articles/talking-
 related_companies = []
 related_people = []
 short_description = "I've written several columns for Schmopera, so I think I know this audience. While this competition would be tough to impossible for a \"pure\" opera singer, there are plenty of us that love to perform a huge variety of things."
-slug = "variety-wins-at-the-american-traditional-competition"
+slug = "variety-wins-at-the-american-traditions-competition"
 title = "Variety wins at the American Traditions Competition"
 youtube_url = ""
 
