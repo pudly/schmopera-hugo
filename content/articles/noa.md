@@ -57,6 +57,12 @@ I've written several columns for Schmopera, so I think I know this audience. Whi
 
 To me, every song is a little story. If you agree, the American Traditional Competition might be for you. One last thing I shouldn't fail to mention - the pianists at the competition were amazing. I never felt that a pianist wasn't enhancing a performance.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554166745/media/2019/04/Finals%20421.jpg){{% /md %}}
+
+<figcaption>The finalists of the American Traditions Competition, Savannah, GA, 2019. Photo: John Carrington.</figcaption>
+
+</figure>
+
 ### SIDEBAR
 
 The thirteen categories of music at the ATC:
@@ -77,9 +83,3 @@ The thirteen categories of music at the ATC:
 * Great American Songbook
 * Cabaret
 * Spirituals
-
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554166745/media/2019/04/Finals%20421.jpg){{% /md %}}
-
-<figcaption>The finalists of the American Traditions Competition, Savannah, GA, 2019. Photo: John Carrington.</figcaption>
-
-</figure>
