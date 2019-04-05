@@ -25,7 +25,9 @@ If you're not up on your Greek/Trojan history, there's little to save you in the
 
 My curiosity was piqued for this revival of Opera Atelier's production of _Idomeneo_, first put up in 2008. Mozart is on the late end of the 17th- and 18th-century works that are Atelier's focus, making it an interesting test of the tried-and-true aesthetic of Co-Artistic Directors Marshall Pynkoski and Jeannette Lajeunesse Zingg.
 
-"There's a serious storm brewing," said Pynkoski in his pre-show audience address, "and I predict major turbulence ahead." He was referring to the the storm that the sea god Neptune churns up, hurling Idomeneo and his sailors onto the shores of Crete. But there was turbulence too, as this production resounded in the Ed Mirvish Theatre.
+"There's a serious storm brewing," said Pynkoski in his pre-show audience address, "and I predict major turbulence ahead." He was referring to the the storm that the sea god Neptune churns up, hurling Idomeneo and his sailors onto the shores of Crete. But there was turbulence too, as this production resounded into the Ed Mirvish Theatre.
+
+The singing was what grounded
 
 * 
 * painted backdrop, 2 benches stage right and left - classic Atelier set
