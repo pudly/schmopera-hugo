@@ -32,7 +32,7 @@ And Measha Brueggergosman as Elettra, the literal poster child for this producti
 
 There was disconnect in the production, too, flashes of elements that run parallel instead of together. There was random sexiness - nearly nude, heaving male forms, breathless bosoms in corsets, Giunta's signature long red hair flowing freely as Idamante - that seemed like toppings rather than substance. There was the use of [rhetorical gesture](https://en.wikipedia.org/wiki/Chironomia) - one of the most notorious through-lines  of Opera Atelier's productions - which is meant to tell and enhance a story; in this _Idomeneo_, the gestures seemed particularly canned, belittling the emotional crises and bleeding into similarly meaningless wanderings across the stage - denoting general torment, I gather. 
 
-More than beautiful people or stylistic precision, I instead craved some hints of real humanity in these archetypal figures. Once-removed as they seem from their places in history books, there are still traits of mere mortals to pull out of these characters. Idomeneo is a parent; Idamante is 
+More than beautiful people or stylistic precision, I instead craved some hints of real humanity in these archetypal figures. Once-removed as they seem from their places in history books, there are still traits of mere mortals to pull out of these characters. Idomeneo is a parent, Idamante and Ilia are young and in love, and Elettra is rejected; 
 
 * 
 * heaving male form (Neptune)
