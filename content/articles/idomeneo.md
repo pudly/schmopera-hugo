@@ -12,8 +12,8 @@ related_articles = ["articles/a-daring-desirous-doublebill-at-opera-atelier.md",
 related_companies = ["scene/companies/opera-atelier.md"]
 related_people = ["scene/people/measha-brueggergosman.md", "scene/people/wallis-giunta.md", "scene/people/meghan-lindsay.md", "scene/people/colin-ainsworth.md"]
 short_description = "The end result of all these disconnects: it was difficult to care about the people in this opera. There seemed too little trust placed in Mozart to help us emote alongside his characters, instead encumbered by a style that seems to dig in its heels against the piece itself."
-slug = "idomeneo"
-title = "Beautiful people &  Idomeneo"
+slug = "beautiful-people-vague-torment-idomeneo"
+title = "Beautiful people & vague torment: Idomeneo"
 youtube_url = ""
 
 +++
