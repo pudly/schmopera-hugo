@@ -10,8 +10,8 @@ preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554486385/media/2019/04/sqOAIdomeneo-DouglasWilliams-BruceZinger.jpg"
 primary_image_credit = "Douglas Williams as Neptune in Opera Atelier's production of Idomeneo, 2019. Photo: Bruce Zinger."
 related_articles = ["articles/a-daring-desirous-doublebill-at-opera-atelier.md", "articles/glamour-fury-idomeneo-in-chicago.md"]
-related_companies = []
-related_people = ["scene/people/wallis-giunta.md", "scene/people/meghan-lindsay.md", "scene/people/colin-ainsworth.md"]
+related_companies = ["scene/companies/opera-atelier.md"]
+related_people = ["scene/people/measha-brueggergosman.md", "scene/people/wallis-giunta.md", "scene/people/meghan-lindsay.md", "scene/people/colin-ainsworth.md"]
 short_description = "The end result of all these disconnects: it was difficult to care about the people in this opera. There seemed too little trust placed in Mozart to help us emote alongside his characters, instead encumbered by a style that seems to dig in its heels against the piece itself."
 slug = "idomeneo"
 title = "Idomeneo"
@@ -40,7 +40,7 @@ My curiosity was piqued for this revival of Opera Atelier's production of _Idome
 
 If turbulence is too exaggerated at term, perhaps one could instead say that there was disconnect in this production. The singing was a veritable mixed bag. [Meghan Lindsay](/scene/people/meghan-lindsay/) sounded her best yet as Ilia, sending gathered, rich sounds out into the hall; [Wallis Giunta](/scene/people/wallis-giunta/) was an athletic Idamante, her physicality dominating her singing, and at times keeping her from finding her most grounded sound; [Colin Ainsworth](/scene/people/colin-ainsworth/) is an open, honest Idomeneo, almost bordering on wild.
 
-And Measha Brueggergosman as Elettra, the literal poster child for this production, seemed to pair lovely, inspired moments of singing with a few pervasive rookie mistakes. She stood out onstage, moving heavily and without the taut precision of everyone else onstage. 
+And [Measha Brueggergosman](/scene/people/measha-brueggergosman/) as Elettra, the literal poster child for this production, seemed to pair lovely, inspired moments of singing with a few pervasive rookie mistakes. She stood out onstage, moving heavily and without the taut precision of everyone else onstage. 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554486592/media/2019/04/OAIdomeneo-MeashaBrueggergosman-BruceZinger.jpg){{% /md %}}
 
