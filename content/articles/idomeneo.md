@@ -29,7 +29,7 @@ My curiosity was piqued for this revival of Opera Atelier's production of _Idome
 
 If turbulence is too exaggerated at term, perhaps one could instead say that there was disconnect in this production. The singing was a veritable mixed bag. Meghan Lindsay sounded her best yet as Ilia, sending gathered, rich sounds out into the hall; Wallis Giunta was an athletic Idamante, her physicality dominating her singing, and at times keeping her from finding her most grounded sound; Colin Ainsworth is an open, honest Idomeneo, almost bordering on wild.
 
-And Measha Brueggergosman, the literal poster child for this production, seemed to pair lovely, inspired moments of singing with a few pervasive rookie mistakes.
+And Measha Brueggergosman as Elettra, the literal poster child for this production, seemed to pair lovely, inspired moments of singing with a few pervasive rookie mistakes.
 
 * 
 * painted backdrop, 2 benches stage right and left - classic Atelier set
