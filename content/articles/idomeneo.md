@@ -34,7 +34,7 @@ There was disconnect in the production, too, flashes of elements that run parall
 
 More than beautiful people or stylistic precision, I instead craved some hints of real humanity in these archetypal figures. Once-removed as they seem from their places in history books, there are still traits of mere mortals to pull out of these characters. Idomeneo is a parent, Idamante and Ilia are young and in love, and Elettra is rejected; if these aren't universal qualities, I'm not sure what is.
 
-All of these disconnects resulted 
+The end result of all these disconnects: it was difficult to care about the people in this opera. 
 
 * 
 * heaving male form (Neptune)
