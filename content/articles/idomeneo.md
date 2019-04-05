@@ -34,20 +34,6 @@ There was disconnect in the production, too, flashes of elements that run parall
 
 More than beautiful people or stylistic precision, I instead craved some hints of real humanity in these archetypal figures. Once-removed as they seem from their places in history books, there are still traits of mere mortals to pull out of these characters. Idomeneo is a parent, Idamante and Ilia are young and in love, and Elettra is rejected; if these aren't universal qualities, I'm not sure what is.
 
-The end result of all these disconnects: it was difficult to care about the people in this opera. 
+The end result of all these disconnects: it was difficult to care about the people in this opera. There seemed too little trust placed in Mozart to help us emote alongside his characters, instead encumbered by a style that seems to dig in its heels against the piece itself.
 
-* 
-* heaving male form (Neptune)
-* Meghan sounds her best yet as Ilia
-* slight echo in theatre, almost like a meta-theatrical effect
-* rhetorical gestures stop helping this narrative, almost the wrong fit for Mozart
-* distracting sexy: thigh straps, long red hair on Idamante, heaving bosoms, heavy breathing male forms
-* Wally - ungrounded, her trouser-role physicality detracts/doesn't help technique
-* when gestures work, they're organic and I don't notice them as a medium - here, I notice them
-* this is why this opera holds modern audiences at arm's length, because so much of the character is already laid out from myth - without breathing fresh, human life into them, we can't care about them
-* everyone in this cast sings differently - Meghan's gathered and beautiful, Wally is physically driven, Colin is open and honest (wild), Measha is a mess
-* vague-meaningless/canned wandering across the stage, tormented
-* this production doesn't trust the music
-* Measha stands out - she moves differently, without the taut energy of this cast, making the most volatile character of this opera - would have worked if she planted and sang a bit more, but she was ungrounded there, making rookie mistakes
-* Measha's act II aria is the best singing
-* Neptune - "It sings!" - his sound is fab
+What makes it a worthy night out: Meghan Lindsay's stunning Ilia, and the climactic moment in Act III as the panting, well-formed Neptune (bass-baritone Douglas Williams) strode downstage and sang his small-but-mighty phrases with a gorgeous, reedy sound. To quote my seat neighbour upon hearing Williams: "It sings!"
