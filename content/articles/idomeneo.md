@@ -27,8 +27,6 @@ My curiosity was piqued for this revival of Opera Atelier's production of _Idome
 
 "There's a serious storm brewing," said Pynkoski in his pre-show audience address, "and I predict major turbulence ahead." He was referring to the the storm that the sea god Neptune churns up, hurling Idomeneo and his sailors onto the shores of Crete. But there was turbulence too, as this production resounded into the Ed Mirvish Theatre.
 
-The singing was what grounded
-
 * 
 * painted backdrop, 2 benches stage right and left - classic Atelier set
 * 
