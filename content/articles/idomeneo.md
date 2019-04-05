@@ -18,7 +18,6 @@ title = "Idomeneo"
 youtube_url = ""
 
 +++
-
 I figure Mozart's _Idomeneo_, his 1780 opera seria rooted in Greek mythology, is one of those operas that make directors skittish. _Idomeneo_, filled with mature, breathtaking music, can so easily keep an audience at arm's length. Much of the opera is a string of substantial arias, a form that seems slightly archaic in the hands of Mozart, which continuously puts the plot on pause. 
 
 If you're not up on your Greek/Trojan history, there's little to save you in the pages of Mozart's score. We are not introduced to these characters - rather, dropped in to view a window in the lives of large mythological figures, with personal histories that are assumed to be familiar. That assumption was likely a stretch in the 18th century, let alone today.
@@ -30,6 +29,10 @@ My curiosity was piqued for this revival of Opera Atelier's production of _Idome
 If turbulence is too exaggerated at term, perhaps one could instead say that there was disconnect in this production. The singing was a veritable mixed bag. Meghan Lindsay sounded her best yet as Ilia, sending gathered, rich sounds out into the hall; Wallis Giunta was an athletic Idamante, her physicality dominating her singing, and at times keeping her from finding her most grounded sound; Colin Ainsworth is an open, honest Idomeneo, almost bordering on wild.
 
 And Measha Brueggergosman as Elettra, the literal poster child for this production, seemed to pair lovely, inspired moments of singing with a few pervasive rookie mistakes.
+
+If there is a through-line to Opera Atelier's productions, it is in the use of [rhetorical gesture](https://en.wikipedia.org/wiki/Chironomia) to tell stories. I've seen enough of their work to experience how organic and evocative this medium is; when it works, it's hardly noticeable as a style. Yet I did notice it all through this _Idomeneo_. 
+
+Perhaps it's because the piece is slightly too late to warrant or accommodate 
 
 * 
 * painted backdrop, 2 benches stage right and left - classic Atelier set
