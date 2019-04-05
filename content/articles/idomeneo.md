@@ -39,6 +39,8 @@ My curiosity was piqued for this revival of Opera Atelier's production of _Idome
 
 If turbulence is too exaggerated at term, perhaps one could instead say that there was disconnect in this production. The singing was a veritable mixed bag. [Meghan Lindsay](/scene/people/meghan-lindsay/) sounded her best yet as Ilia, sending gathered, rich sounds out into the hall; [Wallis Giunta](/scene/people/wallis-giunta/) was an athletic Idamante, her physicality dominating her singing, and at times keeping her from finding her most grounded sound; [Colin Ainsworth](/scene/people/colin-ainsworth/) is an open, honest Idomeneo, almost bordering on wild.
 
+>More than beautiful people or stylistic precision, I instead craved some hints of real humanity.
+
 And [Measha Brueggergosman](/scene/people/measha-brueggergosman/) as Elettra, the literal poster child for this production, seemed to pair lovely, inspired moments of singing with a few pervasive rookie mistakes. She stood out onstage, moving heavily and without the taut precision of everyone else onstage.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554486592/media/2019/04/OAIdomeneo-MeashaBrueggergosman-BruceZinger.jpg){{% /md %}}
@@ -48,6 +50,8 @@ And [Measha Brueggergosman](/scene/people/measha-brueggergosman/) as Elettra, th
 </figure>
 
 There was disconnect in the production, too, flashes of elements that run parallel instead of together. There was random sexiness - nearly nude, heaving male forms, breathless bosoms in corsets, Giunta's signature long red hair flowing freely as Idamante - that seemed like toppings rather than substance. There was the use of [rhetorical gesture](https://en.wikipedia.org/wiki/Chironomia) - one of the most notorious through-lines  of Opera Atelier's productions - which is meant to tell and enhance a story; in this _Idomeneo_, the gestures seemed particularly canned, belittling the emotional crises and bleeding into similarly meaningless wanderings across the stage - denoting general torment, I gather.
+
+>There seemed too little trust placed in Mozart to help us emote alongside his characters.
 
 More than beautiful people or stylistic precision, I instead craved some hints of real humanity in these archetypal figures. Once-removed as they seem from their places in history books, there are still traits of mere mortals to pull out of these characters. Idomeneo is a parent, Idamante and Ilia are young and in love, and Elettra is rejected; if these aren't universal qualities, I'm not sure what is.
 
