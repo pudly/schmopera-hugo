@@ -27,6 +27,8 @@ My curiosity was piqued for this revival of Opera Atelier's production of _Idome
 
 "There's a serious storm brewing," said Pynkoski in his pre-show audience address, "and I predict major turbulence ahead." He was referring to the the storm that the sea god Neptune churns up, hurling Idomeneo and his sailors onto the shores of Crete. But there was turbulence too, as this production resounded into the Ed Mirvish Theatre.
 
+If turbulence is too exaggerated at term, perhaps one could instead say that there was disconnect in this production. The singing was a veritable mixed bag. Meghan Lindsay sounded her best yet as Ilia, sending gathered, rich sounds out into the hall; Wallis Giunta was an athletic Idamante, her physicality dominating her singing - almost to 
+
 * 
 * painted backdrop, 2 benches stage right and left - classic Atelier set
 * 
