@@ -23,11 +23,13 @@ I figure Mozart's _Idomeneo_, his 1780 opera seria rooted in Greek mythology, is
 
 If you're not up on your Greek/Trojan history, there's little to save you in the pages of Mozart's score. We are not introduced to these characters - rather, dropped in to view a window in the lives of large mythological figures, with personal histories that are assumed to be familiar. That assumption was likely a stretch in the 18th century, let alone today.
 
-My curiosity was piqued for this revival of Opera Atelier's production of _Idomeneo_, first put up in 2008. Mozart is on the late end of the 17th- and 18th-century works that are Atelier's focus, making it an interesting test of the tried-and-true aesthetic of Co-Artistic Directors Marshall Pynkoski and Jeannette Lajeunesse Zingg. 
+My curiosity was piqued for this revival of Opera Atelier's production of _Idomeneo_, first put up in 2008. Mozart is on the late end of the 17th- and 18th-century works that are Atelier's focus, making it an interesting test of the tried-and-true aesthetic of Co-Artistic Directors Marshall Pynkoski and Jeannette Lajeunesse Zingg.
+
+"There's a serious storm brewing," said Pynkoski in his pre-show audience address, "and I predict major turbulence ahead." He was referring to the the storm that the sea god Neptune churns up, hurling Idomeneo and his sailors onto the shores of Crete. But there was turbulence too, as this production resounded in the Ed Mirvish Theatre.
 
 * 
 * painted backdrop, 2 benches stage right and left - classic Atelier set
-* "there's a serious storm brewing, and I predict major turbulence ahead"
+* 
 * heaving male form (Neptune)
 * Meghan sounds her best yet as Ilia
 * slight echo in theatre, almost like a meta-theatrical effect
