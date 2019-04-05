@@ -18,6 +18,8 @@ title = "Idomeneo"
 youtube_url = ""
 
 +++
+
+* 
 * painted backdrop, 2 benches stage right and left - classic Atelier set
 * "there's a serious storm brewing, and I predict major turbulence ahead"
 * heaving male form (Neptune)
@@ -31,4 +33,6 @@ youtube_url = ""
 * everyone in this cast sings differently - Meghan's gathered and beautiful, Wally is physically driven, Colin is open and honest (wild), Measha is a mess
 * vague-meaningless/canned wandering across the stage, tormented
 * this production doesn't trust the music
-* Measha stands out - she moves differently, without the taut energy of this cast, making the most volatile character of this opera 
+* Measha stands out - she moves differently, without the taut energy of this cast, making the most volatile character of this opera - would have worked if she planted and sang a bit more, but she was ungrounded there, making rookie mistakes
+* Measha's act II aria is the best singing
+* Neptune - "It sings!" - his sound is fab
