@@ -23,6 +23,8 @@ I figure Mozart's _Idomeneo_, his 1780 opera seria rooted in Greek mythology, is
 
 If you're not up on your Greek/Trojan history, there's little to save you in the pages of Mozart's score. We are not introduced to these characters - rather, dropped in to view a window in the lives of large mythological figures, with personal histories that are assumed to be familiar. That assumption was likely a stretch in the 18th century, let alone today.
 
+My curiosity was piqued for this revival of Opera Atelier's production of _Idomeneo_, 
+
 * 
 * painted backdrop, 2 benches stage right and left - classic Atelier set
 * "there's a serious storm brewing, and I predict major turbulence ahead"
