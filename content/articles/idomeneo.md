@@ -19,6 +19,10 @@ youtube_url = ""
 
 +++
 
+I figure Mozart's _Idomeneo_, his 1780 opera seria rooted in Greek mythology, is one of those operas that make directors skittish. Much of the opera is a string of substantial arias, a form that seems slightly archaic in the hands of Mozart, which continuously puts the plot on pause. And we are not introduced to these characters - rather, dropped in to view a window in the lives of large mythological figures, with personal histories that are assumed to be familiar. That assumption was likely a stretch in the 18th century, let alone today.
+
+_Idomeneo_, filled with mature, breathtaking music, can so easily keep an audience at arm's length. If you're not up on your Greek/Trojan history, 
+
 * 
 * painted backdrop, 2 benches stage right and left - classic Atelier set
 * "there's a serious storm brewing, and I predict major turbulence ahead"
