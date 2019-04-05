@@ -32,7 +32,7 @@ And Measha Brueggergosman as Elettra, the literal poster child for this producti
 
 If there is a through-line to Opera Atelier's productions, it is in the use of [rhetorical gesture](https://en.wikipedia.org/wiki/Chironomia) to tell stories. I've seen enough of their work to experience how organic and evocative this medium is; when it works, it's hardly noticeable as a style. Yet I did notice it all through this _Idomeneo_. 
 
-Perhaps it's because the piece is slightly too late to warrant or accommodate 
+Perhaps it's because the piece is slightly too late to warrant or accommodate rhetorical gesture, but they seemed particularly paint-by-numbers in this case. I craved, rather, some hints of real humanity in these archetypal characters, 
 
 * 
 * painted backdrop, 2 benches stage right and left - classic Atelier set
