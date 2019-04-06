@@ -107,6 +107,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/kopernikus.md
 - content/articles/idomeneo.md
 - content/articles/talking-with-singers-erwin-schrott.md
 - content/articles/la-forza-del-destino.md
