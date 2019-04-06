@@ -13,8 +13,8 @@ related_articles = []
 related_companies = ["scene/companies/against-the-grain-theatre.md"]
 related_people = ["scene/people/christopher-mokrzewski.md", "scene/people/joel-ivany.md", "scene/people/annemarie-macintosh.md", "scene/people/alain-coulombe.md", "scene/people/dion-mazerolle.md", "scene/people/bruno-roy.md", "scene/people/krisztina-szab.md", "scene/people/danielle-macmillan.md"]
 short_description = "The only visibly identifiable ritual is partway through the show, we see Agni become \"assimilated\" and she's changed from her warm golden-orange, mid-century style dress into a dark charcoal version of the clothes in which the other denizens of the afterlife are dressed."
-slug = "kopernkius"
-title = "Kopernikus"
+slug = "a-great-spectacle-kopernkius"
+title = "A great spectacle: Kopernikus"
 youtube_url = ""
 
 +++
@@ -42,7 +42,7 @@ _Kopernikus_ isn't the kind of opera with sweeping arias and grand love duets. I
 
 It's also not the kind of opera where there is a standout role or performance, because of the difficulty, intricacy, and inter-connectivity of all the music. Even though Agni would be viewed as the protagonist in this Alice-in-Wonderland-meets-Labyrinth kind of story, she sings comparatively little. The singers are all top-notch.
 
-Danielle MacMillan as Agni brings a Verdian, steely, bright mezzo to Vivier's Agni. Mezzo Kristina Szabo, baritone Dion Mazzerolle, and bass Alain Coulombe, sang some amazing ensemble work. Singing the coloratura soprano role, Anne-Marie MacIntosh gave some great contemporary singing. Singing the baryton-Martin role was Bruno Roy, who had the unenviable task of singing the lion's share of Vivier's created language. The most intriguing singing for me of the evening came from soprano Jonelle Sills. Sills manages to keep her warm, full, elastic tone intact while managing such difficult music.
+[Danielle MacMillan](/scene/people/danielle-macmillan/) as Agni brings a Verdian, steely, bright mezzo to Vivier's Agni. Mezzo [Krisztina Szabo](/scene/people/krisztina-szabo/), baritone Dion Mazzerolle, and bass [Alain Coulombe](/scene/people/alain-coulombe/), sang some amazing ensemble work. Singing the coloratura soprano role, [Anne-Marie MacIntosh](/scene/people/anne-marie-macintosh/) gave some great contemporary singing. Singing the baryton-Martin role was [Bruno Roy](/scene/people/bruno-roy/), who had the unenviable task of singing the lion's share of Vivier's created language. The most intriguing singing for me of the evening came from soprano Jonelle Sills. Sills manages to keep her warm, full, elastic tone intact while managing such difficult music.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554572383/media/2019/04/190403_ATG_KOPERNIKUS_865.jpg){{% /md %}}
 
