@@ -34,9 +34,9 @@ Set on a stage full of scaffolding and industrial-looking lighting, the design w
 
 _Kopernikus_ isn't the kind of opera with sweeping arias and grand love duets. It's the kind of opera where everyone involved needs to be a musician of the highest calibre. At times, the score reminded me of the choral works of R. Murray Schafer I used to sing, that were written roughly around the same time as this work. Complex rhythms, free metres, and dense harmonies and tone clusters date the piece clearly, but the effects that Vivier is exploring here are astounding.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554572341/media/2019/04/190403_ATG_KOPERNIKUS_681.jpg){{% /md %}}
 
-<figcaption> Kopernikus, Against the Grain Theatre, 2019. Photo: Darryl Block Photography.</figcaption>
+<figcaption>Danielle MacMillan (Agni) and Bruno Roy in Kopernikus, Against the Grain Theatre, 2019. Photo: Darryl Block Photography.</figcaption>
 
 </figure>
 
@@ -44,9 +44,9 @@ It's also not the kind of opera where there is a standout role or performance, b
 
 Danielle MacMillan as Agni brings a Verdian, steely, bright mezzo to Vivier's Agni. Mezzo Kristina Szabo, baritone Dion Mazzerolle, and bass Alain Coulombe, sang some amazing ensemble work. Singing the coloratura soprano role, Anne-Marie MacIntosh gave some great contemporary singing. Singing the baryton-Martin role was Bruno Roy, who had the unenviable task of singing the lion's share of Vivier's created language. The most intriguing singing for me of the evening came from soprano Jonelle Sills. Sills manages to keep her warm, full, elastic tone intact while managing such difficult music.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554572383/media/2019/04/190403_ATG_KOPERNIKUS_865.jpg){{% /md %}}
 
-<figcaption> Kopernikus, Against the Grain Theatre, 2019. Photo: Darryl Block Photography.</figcaption>
+<figcaption>(clockwise from top) Anisa Tejpar, Anne-Marie MacIntosh, Danielle MacMillan, and Krisztina Szabó in Kopernikus, Against the Grain Theatre, 2019. Photo: Darryl Block Photography.</figcaption>
 
 </figure>
 
