@@ -54,9 +54,9 @@ The piece is sung in French. German (okay, I got this) and a language of Viver's
 
 I felt at times that there wasn't always a thorough translation running through the singer's mind, which makes it hard to communicate to the listener. I would have been okay with this disconnect if the other players onstage were also lost, but they very clearly understood this language - including the new arrival, Agni - so I felt like I was left out of a large part of the story, since this language creates the bulk of the libretto. Unfortunately, I felt like Roy's performance suffered the most from this disconnect.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554572461/media/2019/04/190403_ATG_KOPERNIKUS_203.jpg){{% /md %}}
 
-<figcaption> Kopernikus, Against the Grain Theatre, 2019. Photo: Darryl Block Photography.</figcaption>
+<figcaption>Danielle MacMillan (Agni) in Kopernikus, Against the Grain Theatre, 2019. Photo: Darryl Block Photography.</figcaption>
 
 </figure>
 
@@ -64,9 +64,9 @@ To be clear, Vivier also uses bizarre syllables and vocalisations throughout the
 
 The piece is described as a "Opera-Rituel de Mort" (Ritual Opera for the Dead), which led me to believe that this was a ritual - something that is done over, and over again - yet each element of said ritual seemed to be confused by its own participation. I got the sense that Ivany was exploring an idea that each person's afterlife is unique and they do not arrive there to an afterlife that's fully realized yet. The ritual here is probably the unfolding of a new afterlife in this manner.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554572488/media/2019/04/190403_ATG_KOPERNIKUS_1198.jpg){{% /md %}}
 
-<figcaption> Kopernikus, Against the Grain Theatre, 2019. Photo: Darryl Block Photography.</figcaption>
+<figcaption>Anisa Tejpar lifted by William Yong, Brad Cherwin in background in Kopernikus, Against the Grain Theatre, 2019. Photo: Darryl Block Photography.</figcaption>
 
 </figure>
 
@@ -74,9 +74,9 @@ The only visibly identifiable ritual is partway through the show, we see Agni be
 
 The instrumental ensemble was great, even in a space like Theatre Passe-Muraille, which is not very acoustically kind to classical musicians. There was use of some microphones, yet the mixing seemed quite off. Sometimes it sounded like the singers microphone was in a tin-can (maybe this was a sound design choice?); other times it was mixed down so low we missed extended passages - in particular any extended passages where Roy was using his falsetto. I also felt the difficulty of the music may have robbed some of the singers on stage of the comfort they needed to really deep dive into the exploration of this woman's afterlife.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554572514/media/2019/04/190403_ATG_KOPERNIKUS_948.jpg){{% /md %}}
 
-<figcaption> Kopernikus, Against the Grain Theatre, 2019. Photo: Darryl Block Photography.</figcaption>
+<figcaption>Krisztina Szabó in Kopernikus, Against the Grain Theatre, 2019. Photo: Darryl Block Photography.</figcaption>
 
 </figure>
 
