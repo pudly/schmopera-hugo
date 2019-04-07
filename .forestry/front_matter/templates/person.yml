@@ -40,6 +40,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/theo-hoffman-1.md
 - content/scene/people/douglas-williams.md
 - content/scene/people/justin-anthony-spenner.md
 - content/scene/people/tess-altiveros.md
