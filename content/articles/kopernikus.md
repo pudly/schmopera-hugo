@@ -3,7 +3,6 @@ author = ["authors/greg.md"]
 categories = "Review"
 date = "2019-04-06T17:11:55+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "_Kopernikus_ runs through April 13. For details and ticket information, [click here](http://againstthegraintheatre.com/kopernikus-2/)."
 preamble = ""
