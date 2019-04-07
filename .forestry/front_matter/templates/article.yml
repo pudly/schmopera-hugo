@@ -107,6 +107,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/les-enfants-terribles.md
 - content/articles/light-and-frothy-fledermaus-brought-new-translation.md
 - content/articles/kopernikus.md
 - content/articles/idomeneo.md
