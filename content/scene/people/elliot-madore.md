@@ -1,14 +1,20 @@
 +++
 date = "2019-04-07T17:26:08+00:00"
 discipline = "Baritone"
-draft = true
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554657724/media/2019/04/ElliotMadore.jpg"
 primary_image_credit = ""
-related_companies = []
+related_companies = ["scene/companies/the-santa-fe-opera.md", "scene/companies/opernhaus-zurich.md", "scene/companies/salzburg-festival.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/opera-philadelphia.md", "scene/companies/glyndebourne.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/florida-grand-opera.md", "scene/companies/lyric-opera-of-kansas-city.md", "scene/companies/san-francisco-opera.md", "scene/companies/manitoba-opera.md", "scene/companies/bayerische-staatsoper.md"]
 slug = "elliot-madore"
-social_media = []
 title = "Elliot Madore"
 website = "https://elliotmadore.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/elliotmadore"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/elliotmadore"
 
 +++
 Canadian baritone Elliot Madore has been praised for his “movie star quality” (Merkur) and “exceptional” artistry (New York Times).
