@@ -1,14 +1,20 @@
 +++
 date = "2019-04-07T00:42:56+00:00"
 discipline = "Mezzo-soprano"
-draft = true
-primary_image = ""
-primary_image_credit = ""
-related_companies = []
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554597924/media/2019/04/Headshot-2-Naomi-Louisa-OConnell-photo-credit-Lauren-Desberg-1.jpg"
+primary_image_credit = "Lauren Desberg."
+related_companies = ["scene/companies/spoleto-festival-usa.md", "scene/companies/garsington-opera.md", "scene/companies/the-atlanta-opera.md", "scene/companies/welsh-national-opera.md", "scene/companies/oper-frankfurt.md", "scene/companies/opera-omaha.md", "scene/companies/the-juilliard-school.md"]
 slug = "naomi-louisa-oconnell"
-social_media = []
 title = "Naomi Louisa O'Connell"
 website = "https://www.naomioconnell.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/NaomiLOConnell"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/naomi_louisa_oconnell/"
 
 +++
 Hailed by The New York Times as “radiant,” Irish actor/singer Naomi Louisa O’Connell made her critically acclaimed stage debut opposite Tyne Daly on London’s West End in Terrence McNally’s play Master Class, produced by Sonia Friedman at the Vaudeville Theatre in 2012.  The Times called her performance “…spectacular,” and The Independent lauded her “…thrilling rendering of an aria from Verdi’s _Macbeth_.”
