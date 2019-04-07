@@ -8,11 +8,11 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554595712/media/2019/04/sqDFpressimageAlfred.png"
-primary_image_credit = ""
+primary_image_credit = "Colin Campbell as Alfred in MassOpera's production of Die Fledermaus, 2019. Photo courtesy of MassOpera."
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "In this regard, this adaptation takes advantage of every possibility of its updated New York setting for jokes. Rosalinda, for instance, is a star on an obvious Real Housewives knock-off in New York, and thus her husband's arrest and trial is very high-profile. "
 slug = "light-and-frothy-fledermaus-brought-new-translation"
 title = "Light and frothy Fledermaus brought new translation"
 youtube_url = ""
@@ -36,7 +36,7 @@ Perhaps the biggest indication of this is how Rosalinda is treated as a characte
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554596405/media/2019/04/DFImageforPressAdele.png){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Carina DiGianfilippo in MassOpera's production of Die Fledermaus, 2019. Photo courtesy of MassOpera.</figcaption>
 
 </figure>
 
@@ -48,7 +48,7 @@ What also helps considerably is the stellar cast of young singers who populated 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554596393/media/2019/04/DFImageforPressRosalinda.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Kristin Fahning as Rosalinda in MassOpera's production of Die Fledermaus, 2019. Photo courtesy of MassOpera.</figcaption>
 
 </figure>
 
