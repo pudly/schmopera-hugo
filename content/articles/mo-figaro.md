@@ -5,10 +5,10 @@ date = "2019-04-07T17:12:30+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "_The Barber of Seville_ runs at Manitoba Opera through April 12. For details and ticket information, [click here](https://mbopera.ca/season/the-barber-of-seville/). "
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554760004/media/2019/04/sqTNK1285.jpg"
-primary_image_credit = "Elliot Madore as Figaro in The Barber of Seville, Manitoba Opera, 2019. Photo: Robert Tinker."
+primary_image_credit = "Elliot Madore as Figaro in The Barber of Seville, Manitoba Opera, 2019. Photo: R. Tinker."
 related_articles = []
 related_companies = []
 related_people = ["scene/people/giles-tomkins.md", "scene/people/andrea-hill.md"]
@@ -24,7 +24,7 @@ It's easy to forget that these performers, besides being excellent actors, also 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554760081/media/2019/04/RWT1037.jpg){{% /md %}}
 
-<figcaption>Andrea Hill (Rosina), Andrew Owens (Almaviva), Steven Condy (Dr. Bartolo), and Elliot Madore (Figaro) in The Barber of Seville, Manitoba Opera, 2019. Photo: Robert Tinker.</figcaption>
+<figcaption>Andrea Hill (Rosina), Andrew Owens (Almaviva), Steven Condy (Dr. Bartolo), and Elliot Madore (Figaro) in The Barber of Seville, Manitoba Opera, 2019. Photo: R. Tinker.</figcaption>
 
 </figure>
 
@@ -60,9 +60,9 @@ As Rosina, [Andrea Hill](/scene/people/andrea-hill/) was a vocal and dramatic st
 
 Maestro Tyrone Paterson did a admirable job leading the Winnipeg Symphony Orchestra. Voices in Rossini are usually lighter in texture - to enable the singing the rapid florid passages - and the balance between the orchestra and voices was perfect. The Manitoba Opera Men's Chorus, led by Tadeusz Biernacki, did especially well handling some tricky music, and were very effective and detailed in their staging and expression.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554760287/media/2019/04/RWT0875.jpg){{% /md %}}
 
-<figcaption> in The Marriage of Figaro, Manitoba Opera, 2019. Photo: </figcaption>
+<figcaption>A scene from The Marriage of Figaro, Manitoba Opera, 2019. Photo: R. Tinker.</figcaption>
 
 </figure>
 
