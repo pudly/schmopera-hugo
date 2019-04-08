@@ -37,9 +37,9 @@ But what really strikes me about this adaptation is not just that the references
 
 Perhaps the biggest indication of this is how Rosalinda is treated as a character: here, she starts the show as something of a fame hound who lives on social media, something that colors her interactions with Adele in a slightly different light. Thus, while she and her husband Eisenstein talk in disguise in the party at the center of Act II, Eisenstein complains about this to her face: this leads to a surprisingly sweet moment when they reconcile in Act III and Rosalinda opts to delete her Facebook page on the spot. I appreciate very much that this translation added something of real substance to the original libretto; it would have been all too easy to stop this "adaptation" at throwing in several pop culture references, and the fact that Meyers went above and beyond that speaks volumes about the quality of this adaptation.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554596405/media/2019/04/DFImageforPressAdele.png){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554760769/media/2019/04/DF_Promo_020.jpg){{% /md %}}
 
-<figcaption>Carina DiGianfilippo in MassOpera's production of Die Fledermaus, 2019. Photo: Nile Scott Studios.</figcaption>
+<figcaption>Brianna Meese in MassOpera's production of Die Fledermaus, 2019. Photo: Nile Scott Studios.</figcaption>
 
 </figure>
 
@@ -51,9 +51,9 @@ Does the whole adaptation work? I'm not so certain. There's a good chunk of time
 
 What also helps considerably is the stellar cast of young singers who populated the stage of the Plaza Theater, a vast majority of whom were committed to the material in a way I have rarely seen with a Strauss operetta. Kelley Hollis brought a neurotic energy to Rosalinda that really fit the character's newer arc in the adaptation, and she balanced this with a voice that effortlessly floated over Strauss' vocal writing with an ease that takes most professionals years to get.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554596393/media/2019/04/DFImageforPressRosalinda.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554760749/media/2019/04/DF_Promo_015.jpg){{% /md %}}
 
-<figcaption>Kristin Fahning as Rosalinda in MassOpera's production of Die Fledermaus, 2019. Photo: Nile Scott Studios.</figcaption>
+<figcaption>Kelley Hollis as Rosalinda in MassOpera's production of Die Fledermaus, 2019. Photo: Nile Scott Studios.</figcaption>
 
 </figure>
 
