@@ -22,9 +22,9 @@ Occasionally opera transcends the limitations of its genre and becomes simply a 
 
 It's easy to forget that these performers, besides being excellent actors, also happen to possess incredible voices, the product of a lot of high-end training, drive and, to a certain extent, winning some sort of DNA lottery. This happy confluence enables them to sing the remarkably ornate music that Rossini has created for this piece, and be heard unamplified over an orchestra. It's pretty amazing when you stop and think about it.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554760081/media/2019/04/RWT1037.jpg){{% /md %}}
 
-<figcaption> in The Barber of Seville, Manitoba Opera, 2019. Photo: </figcaption>
+<figcaption>Andrea Hill (Rosina), Andrew Owens (Almaviva), Steven Condy (Dr. Bartolo), and Elliot Madore (Figaro) in The Barber of Seville, Manitoba Opera, 2019. Photo: Robert Tinker.</figcaption>
 
 </figure>
 
@@ -32,9 +32,9 @@ The highly engaged audience was obviously enthralled with all elements of this p
 
 The plot is too complicated and labyrinthine to go into detail here, but ultimately it all makes perfect sense when you see it come to life onstage. The winsome and fantastical set, from the brilliant creative team of Morris Panych and Ken MacDonald, and the striking lighting effects (here implemented by Bill Williams, initial design by Kimberly Purtell) were akin to another character in the show. I don't often notice things like lighting and costumes (which were designed by Dana Osborne), but even small design details like costumes catching the curvilinear designs on the set, and indeed the circular swirl of the set pieces, amplified by well-choreographed umbrellas brandished by the cast, all made for very appealing eye candy.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554760138/media/2019/04/MbOpera_BarberOfSeville_APRIL4_0492.jpg){{% /md %}}
 
-<figcaption> in The Barber of Seville, Manitoba Opera, 2019. Photo: </figcaption>
+<figcaption>Elliot Madore (Figaro) and Steven Condy (Dr. Bartolo) in The Barber of Seville, Manitoba Opera, 2019. Photo: C. Corneau.</figcaption>
 
 </figure>
 
@@ -42,17 +42,17 @@ Huge kudos to director Alain Gauthier for his highly imaginative concept and fas
 
 (It’s hard for me to listen to the famous overture to this work without hearing Bugs Bunny and Elmer Fudd's voices, added sounds effects like cannons, and wacky added instruments like xylophone and musical saw. _The Rabbit of Seville_ was my first introduction to classical music as a child, and as an opera composer, I realize that this was the start of my musical formation.)
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554760176/media/2019/04/MbOpera_BarberOfSeville_APRIL4_0147.jpg){{% /md %}}
 
-<figcaption> in The Barber of Seville, Manitoba Opera, 2019. Photo: </figcaption>
+<figcaption>A scene from The Barber of Seville, Manitoba Opera, 2019. Photo: C. Corneau.</figcaption>
 
 </figure>
 
 Our main character, the crafty barber Figaro ([Elliot Madore](/scene/people/elliot-madore/)) entered with a confident swagger flashing his megawatt smile, and within moments we had a full characterization of who this multi-talented barber really is. His opening aria (again made even more famous by a Bugs Bunny cartoons) was as entertaining to watch as it was wonderful to hear.  Madore was a captivating presence onstage, he seemed always in motion, responding to the action naturally and filling out his character with many fine details of posture and physical expression.  As Count Almaviva/A drunken soldier/Lindoro/Don Alonso, [Andrew Owens](/scene/people/andrew-owens/) gave all these characters their own unique look, vocal affect and personality. His piano playing sight gag was especially hilarious and had the audience in stitches. I really loved how he used all the ranges and dynamics of his voice, singing in a soft pianissimo that somehow still travelled in the large hall, to a full lyric tenor sound with clear and precise coloratura. As Dr. Bartolo, Steven Condy showed a huge range as an actor, with  commensurate range in his sung lyrics. He imparted the perfect combination of humour, slight pathos, and buffo into his character, and was always entertaining to watch and lovely to listen to.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554760249/media/2019/04/MbOpera_BarberOfSeville_APRIL4_0228.jpg){{% /md %}}
 
-<figcaption> in The Barber of Seville, Manitoba Opera, 2019. Photo: </figcaption>
+<figcaption>Steven Condy (Dr. Bartolo) and Giles Tomkins (Basilio) in The Barber of Seville, Manitoba Opera, 2019. Photo: C. Corneau.</figcaption>
 
 </figure>
 
