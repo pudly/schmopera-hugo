@@ -13,8 +13,8 @@ related_articles = []
 related_companies = ["scene/companies/opera-omaha.md"]
 related_people = ["scene/people/theo-hoffman.md", "scene/people/naomi-louisa-o-connell.md", "scene/people/vanessa-becerra.md", "scene/people/adrian-kramer.md"]
 short_description = "short"
-slug = "les-enfants-terribles"
-title = "Les enfants terribles"
+slug = "disturbing-fascinating-les-enfants-terribles-in-omaha"
+title = "Disturbing & fascinating: Les enfants terribles in Omaha"
 youtube_url = ""
 
 +++
