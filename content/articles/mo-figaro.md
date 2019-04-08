@@ -7,12 +7,12 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554760004/media/2019/04/sqTNK1285.jpg"
+primary_image_credit = "Elliot Madore as Figaro in The Barber of Seville, Manitoba Opera, 2019. Photo: Robert Tinker."
 related_articles = []
 related_companies = []
 related_people = ["scene/people/giles-tomkins.md", "scene/people/andrea-hill.md"]
-short_description = "short"
+short_description = "The highly engaged audience was obviously enthralled with all elements of this production, laughing uproariously at onstage antics and giving hearty applause where appropriate (including at one especially effective lighting gag)."
 slug = "mo-figaro"
 title = "MO Figaro"
 youtube_url = ""
@@ -28,7 +28,7 @@ It's easy to forget that these performers, besides being excellent actors, also 
 
 </figure>
 
-The highly engaged audience was obviously enthralled with all elements of this production, laughing uproariously at onstage antics and giving hearty applause where appropriate (including at one especially effective lighting gag). It’s not often you can come away from an opera being impressed at how good the direction and acting is, but it’s certainly the case here. Rossini's music, with a libretto by Sterbini after the original story by the French playwright Beaumarchais (whose next play in his trilogy was set by Mozart and DaPonte as _Marriage of Figaro_) certainly gives the performers and creative team plenty of great material. There were even some funny self-deprecating moments from the composer/librettist team, like when a character sings an aria from a new opera apparently called _The Futile Precaution_ (which was in reality the working title for this opera) and another bemoans opera as boring and slow-moving. It's almost as if Rossini wanted to make sure any audience watching this opera never felt that way. As an opera composer myself, the number one rule is "never bore the audience", and Rossini and Sterbini were obviously strong proponents of that concept.
+The highly engaged audience was obviously enthralled with all elements of this production, laughing uproariously at onstage antics and giving hearty applause where appropriate (including at one especially effective lighting gag). It's not often you can come away from an opera being impressed at how good the direction and acting is, but it's certainly the case here. Rossini's music, with a libretto by Sterbini after the original story by the French playwright Beaumarchais (whose next play in his trilogy was set by Mozart and DaPonte as _Marriage of Figaro_) certainly gives the performers and creative team plenty of great material. There were even some funny self-deprecating moments from the composer/librettist team, like when a character sings an aria from a new opera apparently called _The Futile Precaution_ (which was in reality the working title for this opera) and another bemoans opera as boring and slow-moving. It's almost as if Rossini wanted to make sure any audience watching this opera never felt that way. As an opera composer myself, the number one rule is "never bore the audience", and Rossini and Sterbini were obviously strong proponents of that concept.
 
 The plot is too complicated and labyrinthine to go into detail here, but ultimately it all makes perfect sense when you see it come to life onstage. The winsome and fantastical set, from the brilliant creative team of Morris Panych and Ken MacDonald, and the striking lighting effects (here implemented by Bill Williams, initial design by Kimberly Purtell) were akin to another character in the show. I don't often notice things like lighting and costumes (which were designed by Dana Osborne), but even small design details like costumes catching the curvilinear designs on the set, and indeed the circular swirl of the set pieces, amplified by well-choreographed umbrellas brandished by the cast, all made for very appealing eye candy.
 
