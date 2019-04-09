@@ -17,7 +17,7 @@ title = "Disturbing & fascinating: Les enfants terribles in Omaha"
 youtube_url = ""
 
 +++
-Opera Omaha's production of _Les Enfants Terribles_ is a strange and mesmerizing exploration of dissociation and escapism. There are no certainties - only abstract visuals, raw emotions, and atmospheric music. Philip Glass' opera, based on the novel by Jean Cocteau, triggers reactions that are powerful but hard to understand. The more I tried to wrap my brain around the piece the more confused I became. The music and the story refuse to be defined. All the audience can do is surrender to the transient emotions without over analyzing - a feat that is easier said than done.
+Opera Omaha's production of _Les enfants terribles_ is a strange and mesmerizing exploration of dissociation and escapism. There are no certainties - only abstract visuals, raw emotions, and atmospheric music. Philip Glass' opera, based on the novel by Jean Cocteau, triggers reactions that are powerful but hard to understand. The more I tried to wrap my brain around the piece the more confused I became. The music and the story refuse to be defined. All the audience can do is surrender to the transient emotions without over analyzing - a feat that is easier said than done.
 
 The story centers around siblings Paul and Elisabeth and their private, fantasy world. The plot is a bit confusing, so feel free to read the [full synopsis here](https://operaamerica.org/applications/NAWD/newworks/details.aspx?id=1141) before proceeding.
 
