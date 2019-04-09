@@ -2,7 +2,8 @@
 date = "2015-04-07T17:33:00-04:00"
 discipline = "Bass-baritone"
 lastmod = "2017-05-27T11:09:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428442274890/collage_lb_image_page9_28_1.png.png"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554826776/media/2019/04/GilesTomkins-GeneWu.jpg"
+primary_image_credit = "Gene Wu"
 publishDate = "2015-04-07T17:33:00-04:00"
 related_companies = ["scene/companies/royal-opera-house.md", "scene/companies/scottish-opera.md", "scene/companies/vancouver-opera.md", "scene/companies/pacific-opera-victoria.md"]
 slug = "giles-tomkins"
