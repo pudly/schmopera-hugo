@@ -1,6 +1,6 @@
 +++
 author = ["authors/paul-e-kwak-md.md"]
-categories = "Editorial"
+categories = "Op-Ed"
 date = "2017-07-05T13:36:00-06:00"
 lastmod = "2017-07-05T21:17:00-06:00"
 preamble = "This is a guest contribution by [Paul E. Kwak, MD](http://nyulangone.org/doctors/1184937914/paul-e-kwak), laryngologist and laryngeal surgeon at the NYU Voice Center, and Assistant Professor in the NYU Department of Otolaryngology - Head and Neck Surgery. "
