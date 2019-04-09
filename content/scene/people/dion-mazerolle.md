@@ -13,14 +13,14 @@ website = "http://www.domoneyartists.com/dion-mazerolle-baritone.html"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/DionMazerolleBaritone/"
-+++
 
-Acadian baritone Dion Mazerolle has earned a reputation as an interpretive artist of the highest rank. An alumnus of Atelier Lyrique de Montreal, Dion has collaborated with internationally renowned conductors and stage directors, receiving critical acclaim for his musical finesse and powerful stage presence in a wide range of opera and concert settings.
- 
-Career highlights for Mr. Mazerolle include The Fool in the world premiere of Le Rêve de Grégoire with Montreal’s acclaimed contemporary ensemble, Chants Libres. His 2013 debut as Lord Cecil in Britten’s *Gloriana* with Toronto’s Voicebox/Opera in Concert further established his reputation as a superb singing actor, and his powerful portrayal of the Father in Charpentier’s *Louise* created a sensation. Dion showed his gift for comedy as Dulcamara in *L’elisir d’amore*, touring Eastern Canada and displayed his darker side as the Four Villains in *Les contes d’Hoffmann* in an extensive European tour as well as with Opera-Theatre de Rimouski. As Don Alfonso, Dion was “the vocal star of the evening” of Opera York’s *Cosi fan tutte*.
- 
-This season, Dion debuts in Edmonton Opera’s *The Merry Widow* and stars as Ramos in the Chants Libres production of The Trials of Patricia Isasa by composer Kristin Norderval. The opera is based on the life story of the Argentine architect and human rights activist Patricia Isasa who was abducted, imprisoned and tortured at age 16 by the military junta.
- 
-Recent oratorio performances for Dion include *Messiah* with Lameque Baroque Festival, conducted by Ivars Taurins, and Christus in St. Matthew Passion with King’s College Chapel in Halifax under the direction of Paul Halley. Verdi’s Requiem, Orff’s Carmina Burana and Haydn’s Creation are also in Dion’s extensive concert repertoire.
- 
-In 2016, Dion looks forward to Bach’s Easter Oratorio with Montreal’s renowned Ensemble Caprice, led by Matthias Maute.
++++
+Acadian baritone Dion Mazerolle received critical acclaim for his "fine, resonant voice, an iron fist in a velvet glove" as Lord Cecil in Britten's _Gloriana_ with Toronto's Voicebox: Opera in concert.
+
+Recent opera credits include the Mandarin in Edmonton Opera’s production of _Turandot_, and a début with the Canadian Opera company in the role of F. X. Lemieux in their powerful 2017 production of _Louis Riel_, which was also performed at the National Arts Centre and the Opera de Quebec. He also stepped in at the last minute to star in Handel’s _Apollon et Daphne_, with Festival Montreal Baroque.
+
+Dion begins the 2018/19 season as Johann in Opera de Quebec’s _Werther_, followed by Germont in _La Traviata_, with Société d’Art Lyrique du Royaume, Bach’s B Minor Mass with Montreal’s acclaimed Ensemble Caprice, and in _Kopernikus_ (Vivier) with Against the Grain Theatre, Toronto.
+
+Operatic roles for Dion include the Mayor in Janacek’s _Jenufa_ directed by Atom Egoyan with Pacific Opera Victoria, Dick Deadeye in _HMS Pinafore_ with Edmonton Opera, and Dancaire in _Carmen_ with the Opera de Quebec. In 2018, Dion sang the role of Avadoro in _Manuscrit trouve a Saragosse_ (Evangelista), with Société de musique contemporaine du Québec.
+
+Dion has appeared in concert with the Elmer Iseler Singers, (Bach’s _Christmas Oratorio_) and debuted with the Newfoundland Symphony in Beethoven’s Ninth Symphony. He sang the bass arias in a semi-staged performance of Bach’s _St. Matthew Passion_ with Chorus Niagara, Christus (_St. Matthew Passion_) with Musica Orbium, and the bass arias in Bach’s _St. John Passion_ with the Grand Philharmonic Choir/Kitchener-Waterloo Symphony Orchestra.
