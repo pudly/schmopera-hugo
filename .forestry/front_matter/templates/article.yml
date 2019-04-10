@@ -107,6 +107,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/very-light-indeed-the-mikado-in-the-midwest.md
 - content/articles/mo-figaro.md
 - content/articles/les-enfants-terribles.md
 - content/articles/light-and-frothy-fledermaus-brought-new-translation.md
