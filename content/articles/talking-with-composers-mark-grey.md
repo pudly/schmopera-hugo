@@ -22,21 +22,37 @@ youtube_url = ""
 
 I often hear that my music is very colourful. I spend a great deal of time working on orchestration and exploring acoustic and electronic instrument combinations, harmonic and rhythmic relationships to help further evoke an emotional state in which I am trying to set. One of the most profound experiences in writing an opera, such as _Frankenstein_, is that all of the emotions are laid out, on stage, in Technicolor.
 
+>We are demanding more clarity from our artistic experiences and opera is no different.
+
 ### How do you write music when you're not feeling particularly inspired (yet)?
 
-I am always inspired by the family, friends, colleagues, music and art surrounding me. I might at times procrastinate (who doesn't), but to remedy this I find myself working on non-musical projects around home. My wife and I live in a fixer-upper farmhouse on seven acres of timberland about 45 minutes north of San Francisco. There are endless projects around the property. 
+I am always inspired by the family, friends, colleagues, music and art surrounding me. I might at times procrastinate (who doesn't), but to remedy this I find myself working on non-musical projects around home. My wife and I live in a fixer-upper farmhouse on seven acres of timberland about 45 minutes north of San Francisco. There are endless projects around the property.
 
 Getting my hands dirty planting the earth, tending to the land with a chainsaw, baking and brewing, reading, and maybe driving up the Highway 1 coastline will ultimately blow out any cobwebs. Also, long walks and hikes really get my ideas flowing. I imagine Mahler taking long walks in the Austrian Salzkammergut to find inspiration.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 ### What are the unique challenges of working on the sound design of a live genre like opera? What might an opera fan find surprising about your sound design for opera and concert work?
 
-Sound design in opera and orchestral concert music is a fairly new concept – set and costume designers have been around for centuries. As we find ourselves deeper in the 21st century, the way in which we listen to music is changing due to the advent of digital audio recordings, television, live HD opera simulcasts and performances of all genres using high-quality sound systems. 
+Sound design in opera and orchestral concert music is a fairly new concept – set and costume designers have been around for centuries. As we find ourselves deeper in the 21st century, the way in which we listen to music is changing due to the advent of digital audio recordings, television, live HD opera simulcasts and performances of all genres using high-quality sound systems.
 
 We are demanding more clarity from our artistic experiences and opera is no different. As more living composers write more operatic works, the rules will continue to change. Composers are explorers and we always test the grounds on which we stand. Wagner built his own theatre to create his perfect sound world. One could say that he was an early pioneer of sound design.
+
+>I never feel guilt in music, no matter what genre or flavour.
 
 ### How do you think the perception of being a working composer compares to the reality of the job?
 
 There is often the perception that when creative writers have that "flash" of inspiration, the work is done. For myself, after those initial inspirational moments, the reality of the work schedule is often a rigorous 5am through 7pm routine – often without days off, and in solitude. For the _Frankenstein_ opera, I sustained this for 14 months. That is the reality.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 ### Do you have a song/album/artist that you'd consider a guilty pleasure?
 
