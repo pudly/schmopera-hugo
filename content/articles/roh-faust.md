@@ -36,7 +36,7 @@ It wasn't until the final act – the demonic Walpurgis night ballet – that we
 
 </figure>
 
-German soprano Mandy Fredrich took on the role of Marguerite very last minute in place of an ailing Irina Lungu. The role is not a new one for her having performed it both in Stuttgart and Vienna recently, but this was her Royal Opera debut and therefore her first time stepping into this particular production. Considering she had only arrived in London earlier that day, she did phenomenally well. Her voice was light, with a bell like clarity perfectly suited to Marguerite's angelic nature but I found she waned in character slightly. Her most honest moment on stage was in her final scene when her soul ascends to heaven and even this lacked the necessary emotional weight.
+German soprano [Mandy Fredrich](/scene/people/mandy-fredrich/) took on the role of Marguerite very last minute in place of an ailing Irina Lungu. The role is not a new one for her having performed it both in Stuttgart and Vienna recently, but this was her Royal Opera debut and therefore her first time stepping into this particular production. Considering she had only arrived in London earlier that day, she did phenomenally well. Her voice was light, with a bell like clarity perfectly suited to Marguerite's angelic nature but I found she waned in character slightly. Her most honest moment on stage was in her final scene when her soul ascends to heaven and even this lacked the necessary emotional weight.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1555378748/media/2019/04/ROHFaustStephaneDegoutTristramKenton.jpg){{% /md %}}
 
