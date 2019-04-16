@@ -3,18 +3,17 @@ author = ["authors/alessia-naccarato.md"]
 categories = "Review"
 date = "2019-04-16T01:24:58+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
-postamble = ""
+postamble = "_Faust_ runs at the Royal Opera House through 6 May. For details and ticket information, [click here](https://www.roh.org.uk/productions/faust-by-david-mcvicar)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1555378480/media/2019/04/sqROHFaustMichaelFabianoTristramKenton.jpg"
 primary_image_credit = "Michael Fabiano as Faust in Faust, ROH, 2019. Photo: Tristam Kenton."
-related_articles = []
+related_articles = ["articles/michael-fabiano-the-profound-effect-of-artsmart.md", "articles/talking-with-singers-erwin-schrott.md"]
 related_companies = ["scene/companies/royal-opera-house.md"]
 related_people = ["scene/people/erwin-schrott.md", "scene/people/rolando-villazon.md"]
 short_description = "He subjects Faust to a writhing, grotesque circus; tormenting him with visions of a pregnant Marguerite, and a dead Valentin. Schrott is maniacal and callous, delighting in the pain of others and becoming more despicable every moment he is on stage."
-slug = "roh-faust"
-title = "ROH Faust"
+slug = "classic-lavish-faust-at-roh"
+title = "Classic & lavish: Faust at ROH"
 youtube_url = ""
 
 +++
