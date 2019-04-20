@@ -40,6 +40,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/kirsten-chambers.md
 - content/scene/people/katrina-galka.md
 - content/scene/people/won-whi-choi.md
 - content/scene/people/mandy-fredrich.md
