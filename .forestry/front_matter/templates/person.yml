@@ -40,6 +40,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/won-whi-choi.md
 - content/scene/people/mandy-fredrich.md
 - content/scene/people/elliot-madore.md
 - content/scene/people/andrew-owens.md
