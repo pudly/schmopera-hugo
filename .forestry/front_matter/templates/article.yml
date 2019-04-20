@@ -107,6 +107,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/the-rapture-and-troubles-of-egyptian-helena.md
 - content/articles/roh-faust.md
 - content/articles/talking-with-composers-mark-grey.md
 - content/articles/very-light-indeed-the-mikado-in-the-midwest.md
