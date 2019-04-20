@@ -6,7 +6,7 @@ disclaimer = ""
 draft = true
 image_gallery = []
 postamble = ""
-preamble = ""
+preamble = "Bass [Robert Pomakov](/scene/people/robert-pomakov/) had an unusually quick start to his career. [Still a teenager](http://www.scena.org/lsm/sm5-9/pomakov-en.htm), he was singled out as a promising singer by the COC's late director Richard Bradshaw, who became a mentor to the young bass. Since then he's been a road warrior touring the globe to sing at the world's most respected houses. He's an unassuming guy off-stage but that doesn't mean he has blunted ambitions.\n\nI spoke with Bob, a [loyal Toronto native](https://www.operabobspublichouse.com/) – he showed up to [coffee](http://bunca.de/) in a vintage Jay's cap –  before the last performance of [_Iolanta_](/the-follies-of-modernization-oedipus-rex-iolanta/) earlier in Oper Frankfurt's season.\n\nThis conversation has been edited and condensed."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1555781169/media/2019/04/sq3703_20iolanta.jpg"
 primary_image_credit = "Robert Pomakov as King René in Iolanta, Oper Frankfurt, 2018. Photo: Barbara Aumüller."
 related_articles = []
@@ -18,14 +18,6 @@ title = "A prodigy grows into his art"
 youtube_url = ""
 
 +++
-Bass Robert Pomakov had an unusually quick start to his career. [Still a teenager](http://www.scena.org/lsm/sm5-9/pomakov-en.htm), he was singled out as a promising singer by the COC's late director Richard Bradshaw, who became a mentor to the young bass. Since then he's been a road warrior touring the globe to sing at the world's most respected houses. He's an unassuming guy off-stage but that doesn't mean he has blunted ambitions.
-
-I spoke with Bob, a [loyal Toronto native](https://www.operabobspublichouse.com/) – he showed up to [coffee](http://bunca.de/) in a vintage Jay's cap –  before the last performance of [_Iolanta_](/the-follies-of-modernization-oedipus-rex-iolanta/) earlier in Oper Frankfurt's season.
-
-This conversation has been edited and condensed.
-
-***
-
 **J: You started working professionally in your teens, then went to Curtis.**
 
 B: But I was working while at Curtis.
