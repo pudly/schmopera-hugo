@@ -40,6 +40,8 @@ I'd always make the finals because of my age and my talent. But partly because I
 
 I'll never forget, at Queen Sonja, I literally sang the best I'd ever sung. I still look back at that video and think, that was damn good singing. I placed third or something – and I remember thinking, for fuck's sakes! So we're at the reception after, and Joan comes up to me, and she says, "Robert dear, maybe one day."
 
+>I've always been a very naturally curious person, and it's hard to get curious about a character that's only onstage for five or 10 minutes.
+
 The hardest thing for me was being so talented so young and having so much success, but then realizing, it's one thing to do a major role at Curtis or to do Sarastro (_The Magic Flute_) at a B house or place in numerous international competitions; there's a difference between that and having the career I want to have. You have to start at the bottom. Especially being a bass, it's like you're climbing Everest but you're only doing a hundred meters per day. If you want to achieve that, that's a 40, 50-year plan and you have to buy into that.
 
 At the beginning, that was really hard, especially because of the timbre of my voice, and the way I prefer to sing, in a more open heavy way. My agent once said to me, "You know, you listen to all these great basses from the fifties and sixties. That's how you sing." But people don't want to hear that as Figaro or Leporello. Do you know Christian van Horn?
@@ -66,6 +68,8 @@ B: The entertainer is there for the twelve-hundred people sitting and watching y
 
 We as singers always roll our eyes when we hear about six weeks of rehearsal, but there's a reason you do it. Not for the little things, but for the big things. I generally work hard, but I know with this piece I've worked harder than I ever have, every day sitting with that score and asking, what can I do differently, what can I make clearer, what more can I learn from this?
 
+>When I was younger, I was a much more competitive person. Age kind of chisels away at that.
+
 You have to get to a very high level day one of rehearsal, and then from day one to opening you have to multiply that by a factor of four or five. Your coaching and prep is to get the role into a musically safe, vocally comfortable place. Then once you're in rehearsals, you keep working on those two things, but the characterization takes over in a huge way. When you're in a good collaborative environment, that's fostered easily. When you're not, it's more work.
 
 But I still think you owe it to yourself, you owe it to the score, and you owe it to the audience to put that effort in. Sure, we can all go in and give 70 percent and have a nice career and make good money, but if you're going to go 70 percent, why not go 100 percent? Why not just do that extra work?
@@ -81,6 +85,8 @@ But I still think you owe it to yourself, you owe it to the score, and you owe i
 B: I think a lot of it depends of the role and on the piece. If you're doing some bel canto piece, you can think of that last 30 percent as really engaged acting, but what kind of engaged acting can you do in bel canto? So then you have to concentrate more on the voice. But if it's all about hitting the marks and just singing as great as I can, I'm putting all my eggs in one basket. If I have an off day, that's going to be really disappointing. Whereas, if you add these other layers, even if you're having a bad day you can find satisfaction in it.
 
 Maybe some people get off on perfecting their technique every day. I need more complexity in what I do. I get bored. I constantly want to find new stuff. That's just the animal that I am. I need more layers.
+
+>Everything's a vehicle in life. So your voice is a vehicle for the music. Your voice is a vehicle for your personality.
 
 I do a lot of work with a particular singer, and he's an animal. He goes on stage and vomits and diarrheas everywhere. And he always recognizes me – still doesn't know my name. We've done, I don't know, four or five productions together, and I've still never seen him engage with anyone on stage even when he's in the most intimate love scene. But I appreciate what he does. I appreciate that kind of animal instinct because that's just too much energy for me. And 85 percent of the audience loves that. It just reads. He arrives for his ridiculous bow and they go nuts.
 
