@@ -107,6 +107,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/a-prodigy-grows-into-his-art.md
 - content/articles/talking-with-composers-mark-grey.md
 - content/articles/the-rapture-and-troubles-of-egyptian-helena.md
 - content/articles/roh-faust.md
