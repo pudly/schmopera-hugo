@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2019-04-16T01:52:59+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "For more with Mark Grey, [visit his website](http://markgreycomposer.com/)."
 preamble = "Pulitzer Prize-winner Mark Grey is unique among opera composers: he's only written one (so far), based on and sharing a title with Mary Shelley's infamous novel, _Frankenstein_. His work just went up at La Monnaie, and was followed this month with his _Frankenstein Symphony_, at Rome's Auditorium Parco della Musica.\n\nGrey is also a sound designer, having worked with the likes of the Kronos Quartet, John Adams, and Philip Glass.\n\nWe spoke with Grey about his composing process, and his unique vantage point on the performing arts:"
