@@ -54,15 +54,27 @@ It's one thing if you're going out and doing a Monterone or a Bonze, where you g
 
 Whereas, what a lot of people forget is that the play _Iolanta_ is based on is called King René's Daughter, so it's actually King René's show. I feel when taking on a lead character, you have a responsibility as both an artist, and as an entertainer – they're two separate things but you have to learn how to bring them together.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1555781755/media/2019/04/3710_10iolanta2.jpg){{% /md %}}
+
+<figcaption>Asmik Grigorian (Iolanta) and Robert Pomakov (King René) in Iolanta, Oper Frankfurt, 2018. Photo: Barbara Aumüller.</figcaption>
+
+</figure>
+
 **J: What's the difference for you between artist and entertainer?**
 
 B: The entertainer is there for the twelve-hundred people sitting and watching you, and the artist is there as a vehicle of the art, a vehicle of the text, and a vehicle of the music. Especially when you're 4,000 miles from home and you don't have a lot to do on a day-to-day basis besides go to rehearsal, it's incumbent on you to study that score every day and find the nuance.
 
 We as singers always roll our eyes when we hear about six weeks of rehearsal, but there's a reason you do it. Not for the little things, but for the big things. I generally work hard, but I know with this piece I've worked harder than I ever have, every day sitting with that score and asking, what can I do differently, what can I make clearer, what more can I learn from this?
 
-You have to get to a very high level day one of rehearsal, and then from day one to opening you have to multiply that by a factor of four or five. Your coaching and prep is to get the role into a musically safe, vocally comfortable place. Then once you're in rehearsals, you keep working on those two things, but the characterization takes over in a huge way. When you're in a good collaborative environment, that's fostered easily. When you're not, it's more work. 
+You have to get to a very high level day one of rehearsal, and then from day one to opening you have to multiply that by a factor of four or five. Your coaching and prep is to get the role into a musically safe, vocally comfortable place. Then once you're in rehearsals, you keep working on those two things, but the characterization takes over in a huge way. When you're in a good collaborative environment, that's fostered easily. When you're not, it's more work.
 
 But I still think you owe it to yourself, you owe it to the score, and you owe it to the audience to put that effort in. Sure, we can all go in and give 70 percent and have a nice career and make good money, but if you're going to go 70 percent, why not go 100 percent? Why not just do that extra work?
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1555781723/media/2019/04/RobertPomakov-pc-AdrianParks.jpg){{% /md %}}
+
+<figcaption>Robert Pomakov, Canadian bass. Photo by Adrian Parks.</figcaption>
+
+</figure>
 
 **J: Where's the gap for you between 70 and 100 percent?**
 
@@ -80,6 +92,6 @@ I think we have to have showmen in this business. But I'm not a tenor, and I don
 
 B: I think it feeds the creative spirit. Everything's a vehicle in life. So your voice is a vehicle for the music. Your voice is a vehicle for your personality.
 
-It must be so awesome, especially at a house of this level, to have a fest contract and work here, not necessarily year-round, but to have a full paying job and get to spend a good chunk of time in one place and have a life based around that. Perhaps have a family or partner or whatever works into that. I could move over here and do that, but I've been doing this for half my life the way I've been doing it, and I don't see that changing. 
+It must be so awesome, especially at a house of this level, to have a fest contract and work here, not necessarily year-round, but to have a full paying job and get to spend a good chunk of time in one place and have a life based around that. Perhaps have a family or partner or whatever works into that. I could move over here and do that, but I've been doing this for half my life the way I've been doing it, and I don't see that changing.
 
 I like the hustle better, but it also becomes cumbersome. It's like when you meet a love for the first time and for the first two months it's ecstatic love. That's what I need to do with my music and with roles; to have that spark at all times because it's what refreshes me. It's what keeps me light, which keeps my brain functioning at a decent level.
