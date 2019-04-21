@@ -3,7 +3,6 @@ author = ["authors/jeremy-hirsch.md"]
 categories = "Interview"
 date = "2019-04-20T14:17:19+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Next up, Pomakov makes a Canadian return as Méphistophélès in Vancouver Opera's production of _Faust_, April 27 to May 5. For details and ticket information, [click here](https://www.vancouveropera.ca/faust/)."
 preamble = "Bass [Robert Pomakov](/scene/people/robert-pomakov/) had an unusually quick start to his career. [Still a teenager](http://www.scena.org/lsm/sm5-9/pomakov-en.htm), he was singled out as a promising singer by the COC's late director Richard Bradshaw, who became a mentor to the young bass. Since then he's been a road warrior touring the globe to sing at the world's most respected houses. He's an unassuming guy off-stage but that doesn't mean he has blunted ambitions.\n\nI spoke with Bob, a [loyal Toronto native](https://www.operabobspublichouse.com/) – he showed up to [coffee](http://bunca.de/) in a vintage Jay's cap –  before the last performance of [_Iolanta_](/the-follies-of-modernization-oedipus-rex-iolanta/) earlier in Oper Frankfurt's season.\n\nThis conversation has been edited and condensed."
@@ -40,7 +39,7 @@ I'd always make the finals because of my age and my talent. But partly because I
 
 I'll never forget, at Queen Sonja, I literally sang the best I'd ever sung. I still look back at that video and think, that was damn good singing. I placed third or something – and I remember thinking, for fuck's sakes! So we're at the reception after, and Joan comes up to me, and she says, "Robert dear, maybe one day."
 
->I've always been a very naturally curious person, and it's hard to get curious about a character that's only onstage for five or 10 minutes.
+> "I've always been a very naturally curious person, and it's hard to get curious about a character that's only onstage for five or 10 minutes."
 
 The hardest thing for me was being so talented so young and having so much success, but then realizing, it's one thing to do a major role at Curtis or to do Sarastro (_The Magic Flute_) at a B house or place in numerous international competitions; there's a difference between that and having the career I want to have. You have to start at the bottom. Especially being a bass, it's like you're climbing Everest but you're only doing a hundred meters per day. If you want to achieve that, that's a 40, 50-year plan and you have to buy into that.
 
@@ -49,6 +48,8 @@ At the beginning, that was really hard, especially because of the timbre of my v
 **J: I know his singing. He sang Mefistofele at the MET this season.**
 
 B: Exactly. So he's hit the peak. But he was able to get there by doing a lot of Mozart, whereas that wasn't available to me. So you do a lot of Monterones (_Rigoletto_), Bonzes (_Madama Butterfly_), a Fasolt (_Das Rheingold_) here and there. You do weird, obscure repertoire, or these big, bombastic five to 10-minute scenes. That's how you have to build yourself for ten, fifteen years. But even as a kid, I've always been a very naturally curious person, and it's hard to get curious about a character that's only onstage for five or 10 minutes.
+
+>"You have to get to a very high level day one of rehearsal, and then from day one to opening you have to multiply that by a factor of four or five."
 
 At the end of the day, I'm constantly working and I'm making a good living, so logically I know that's a good thing. That sustains you. But I think it's why, when I get an opportunity like King René (_Iolanta_), I dig my teeth into it so heavily, because it's like, finally this is what I want.
 
@@ -68,7 +69,7 @@ B: The entertainer is there for the twelve-hundred people sitting and watching y
 
 We as singers always roll our eyes when we hear about six weeks of rehearsal, but there's a reason you do it. Not for the little things, but for the big things. I generally work hard, but I know with this piece I've worked harder than I ever have, every day sitting with that score and asking, what can I do differently, what can I make clearer, what more can I learn from this?
 
->When I was younger, I was a much more competitive person. Age kind of chisels away at that.
+> "When I was younger, I was a much more competitive person. Age kind of chisels away at that."
 
 You have to get to a very high level day one of rehearsal, and then from day one to opening you have to multiply that by a factor of four or five. Your coaching and prep is to get the role into a musically safe, vocally comfortable place. Then once you're in rehearsals, you keep working on those two things, but the characterization takes over in a huge way. When you're in a good collaborative environment, that's fostered easily. When you're not, it's more work.
 
@@ -86,11 +87,13 @@ B: I think a lot of it depends of the role and on the piece. If you're doing som
 
 Maybe some people get off on perfecting their technique every day. I need more complexity in what I do. I get bored. I constantly want to find new stuff. That's just the animal that I am. I need more layers.
 
->Everything's a vehicle in life. So your voice is a vehicle for the music. Your voice is a vehicle for your personality.
+> Everything's a vehicle in life. So your voice is a vehicle for the music. Your voice is a vehicle for your personality.
 
 I do a lot of work with a particular singer, and he's an animal. He goes on stage and vomits and diarrheas everywhere. And he always recognizes me – still doesn't know my name. We've done, I don't know, four or five productions together, and I've still never seen him engage with anyone on stage even when he's in the most intimate love scene. But I appreciate what he does. I appreciate that kind of animal instinct because that's just too much energy for me. And 85 percent of the audience loves that. It just reads. He arrives for his ridiculous bow and they go nuts.
 
 The last thing I did with him, after the show everyone's standing outside the stage door. He comes swooshing out, takes a lady and kisses her, gets on the back of a motorcycle, and rides off. It's all planned out.
+
+>"I'm not getting self-satisfaction out of this, there's no point in doing anything."
 
 I think we have to have showmen in this business. But I'm not a tenor, and I don't look like that. Those cards aren't there for me, so why should I even attempt to play them? If the art form survives, and my voice survives, I'm going to be doing this another 40 years, so I need to find what fulfills me, understanding that my two priorities are the audience and the art form itself and that I'm the tertiary in that. But, if I'm not getting self-satisfaction out of this, there's no point in doing anything.
 
