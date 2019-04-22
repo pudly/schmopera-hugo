@@ -26,7 +26,9 @@ Mahler's "Resurrection" Symphony is a study in drama without words. Of course, t
 
 I think it's all the hope in this symphony that makes it so moving.  Classical music fans are used to the dark stuff (so is Mahler, frankly), and it's par for the course to go to the symphony and be flooded with themes of death, suffering, and generally not getting what one wants.
 
-But the hope that's exemplified in the symphony's title, it's a powerful element of mercy for Mahler's listeners. There's an acknowledgment of the pain and fear of death, of the confusion and the ripple effect it leaves among the living. "Resurrection" exposes our 
+But the hope that's exemplified in the symphony's title, it's a powerful element of mercy for Mahler's listeners. There's an acknowledgment of the pain and fear of death, of the confusion and the ripple effect it leaves among the living. "Resurrection" exposes our deep need to feel immortal, or at least believe that the dead are simply elsewhere.
+
+The TSO's performance was arresting, reaching deafening peaks and eerie rustles. Perhaps there was a bit of improvisatory adrenaline, since 
 
 * hopeful message, exposes the need for humans to feel immortal and still connected to their lost ones
 * the message is like watching someone try not to cry
