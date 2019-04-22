@@ -24,8 +24,7 @@ So confident was I that I almost took it for granted; so, when Mahler's music be
 
 Mahler's "Resurrection" Symphony is a study in drama without words. Of course, there are words - they come nearly an hour into the work's roughly 80 minutes; by the time we hear the text written for the fourth and fifth movements - including the famed "Urlicht" ("Primeval Light") - we're so wrung out that it's like a balm, like finally confiding our troubles in someone else after bearing the weight of it ourselves.
 
-* hopeful message, exposes the need for humans to feel immortal and still connected to their lost ones
+I think it's all the hope in this symphony that makes it so moving. 
 
-* 
-* grabs you by the nape of the neck
+* hopeful message, exposes the need for humans to feel immortal and still connected to their lost ones
 * the message is like watching someone try not to cry
