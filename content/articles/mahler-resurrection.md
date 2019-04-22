@@ -5,16 +5,16 @@ date = "2019-04-21T23:55:00+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "For a listing of upcoming events with the TSO, [click here](https://www.tso.ca/concerts)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1555893644/media/2019/04/sqTSOAmadeusChoirElmerIselerSingersMatthewHallsMahlerResurrectionSymphony-pc-JagGundu.jpg"
 primary_image_credit = "The Toronto Symphony Orchestra, the Amadeus Choir, the Elmer Iseler Singers and maestro Matthew Halls perform Mahler's Resurrection Symphony, 2019. Photo: Jag Gundu."
 related_articles = []
-related_companies = []
-related_people = []
-short_description = "short"
-slug = "mahler-resurrection"
-title = "Mahler Resurrection"
+related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
+related_people = ["scene/people/marienicole-lemieux.md"]
+short_description = "So confident was I that I almost took it for granted; so, when Mahler's music began, it was as though it dragged me by the nape of my neck through an emotional rollercoaster I didn't know I needed."
+slug = "mahlers-resurrection-symphony-so-hopeful-itll-make-you-cry"
+title = "Mahler's Resurrection Symphony: so hopeful it'll make you cry"
 youtube_url = ""
 
 +++
