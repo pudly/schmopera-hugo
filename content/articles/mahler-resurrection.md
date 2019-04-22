@@ -31,3 +31,5 @@ But the hope that's exemplified in the symphony's title, it's a powerful element
 The TSO's performance was arresting, reaching deafening peaks and eerie rustles. Perhaps there was a bit of improvisatory adrenaline, since British maestro Matthew Halls had stepped in on short notice to replace an ailing Juanjo Mena. Halls was a thrill to watch, the leader of all that onstage drama that Mahler writes into his score.
 
 The hope came when we first heard the singers: contralto Marie-Nicole Lemieux and soprano Joelle Harvey. Their voices and their poetry were full of optimism - unreasonably, stubbornly so, even. Without warning, the catharsis came; it's that funny phenomenon where seeing someone cry is somewhat less sad than seeing someone try not to cry.
+
+All this is to say: Mahler is still an emotional sure thing - bravo to all.
