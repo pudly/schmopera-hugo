@@ -22,6 +22,10 @@ If there's ever a safe bet to be made, it's that hearing a live performance of a
 
 So confident was I that I almost took it for granted; so, when Mahler's music began, it was as though it dragged me by the nape of my neck through an emotional rollercoaster I didn't know I needed.
 
+Mahler's "Resurrection" Symphony is a study in drama without words. Of course, there are words - they come nearly an hour into the work's roughly 80 minutes; by the time we hear the text written for the fourth and fifth movements - including the famed "Urlicht" ("Primeval Light") - we're so wrung out that it's like a balm, like finally confiding our troubles in someone else after bearing the weight of it ourselves.
+
+* hopeful message, exposes the need for humans to feel immortal and still connected to their lost ones
+
 * 
 * grabs you by the nape of the neck
 * the message is like watching someone try not to cry
