@@ -18,7 +18,9 @@ title = "Mahler Resurrection"
 youtube_url = ""
 
 +++
-If there's ever a safe bet to be made, it's that hearing a live performance of a Mahler symphony will conjure up true catharsis. The Toronto Symphony Orchestra just finished three performances of Mahler's Symphony No. 2 - titled "Resurrection"; when I confirmed my plans to attend, I felt an acute sensation of confidence that my night out at Roy Thomson Hall would be 
+If there's ever a safe bet to be made, it's that hearing a live performance of a Mahler symphony will conjure up true catharsis. The Toronto Symphony Orchestra just finished three performances of Mahler's Symphony No. 2 - titled "Resurrection"; when I confirmed my plans to attend, I felt an acute sensation of confidence that my night out at Roy Thomson Hall would be impactful.
+
+So confident was I that I almost took it for granted; so, when Mahler's music began, it was as though it dragged me by the nape of my neck through an emotional rollercoaster I didn't know I needed.
 
 * 
 * grabs you by the nape of the neck
