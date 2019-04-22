@@ -45,4 +45,4 @@ The TSO's performance was arresting, reaching deafening peaks and eerie rustles.
 
 The hope came when we first heard the singers: contralto Marie-Nicole Lemieux and soprano Joelle Harvey. Their voices and their poetry were full of optimism - unreasonably, stubbornly so, even. Without warning, the catharsis came; it's that funny phenomenon where seeing someone cry is less moving than seeing someone try not to cry.
 
-All this is to say: Mahler is still an emotional sure thing - bravo to all.
+All this is to say: Mahler is still an emotional sure thing - bravi to all.
