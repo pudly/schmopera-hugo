@@ -8,7 +8,7 @@ postamble = "For a listing of upcoming events with the TSO, [click here](https:/
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1555893644/media/2019/04/sqTSOAmadeusChoirElmerIselerSingersMatthewHallsMahlerResurrectionSymphony-pc-JagGundu.jpg"
 primary_image_credit = "The Toronto Symphony Orchestra, the Amadeus Choir, the Elmer Iseler Singers and maestro Matthew Halls perform Mahler's Resurrection Symphony, 2019. Photo: Jag Gundu."
-related_articles = ["articles/mahlers-2nd-in-memory-of-elizabeth-krehm.md", "articles/magic-theatre-jurowski-and-oaes-resurrection-symphony.md"]
+related_articles = ["articles/star-wars.md", "articles/mahlers-2nd-in-memory-of-elizabeth-krehm.md", "articles/magic-theatre-jurowski-and-oaes-resurrection-symphony.md"]
 related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
 related_people = ["scene/people/joélle-harvey.md", "scene/people/marienicole-lemieux.md"]
 short_description = "So confident was I that I almost took it for granted; so, when Mahler's music began, it was as though it dragged me by the nape of my neck through an emotional rollercoaster I didn't know I needed."
@@ -29,7 +29,7 @@ So confident was I that I almost took it for granted; so, when Mahler's music be
 
 Mahler's "Resurrection" Symphony is a study in drama without words. Of course, there are words - they come nearly an hour into the work's roughly 80 minutes; by the time we hear the text written for the fourth and fifth movements - including the famed "Urlicht" ("Primeval Light") - we're so wrung out that it's like a balm, like finally confiding our troubles in someone else after bearing the weight of it ourselves.
 
->The TSO's performance was arresting, reaching deafening peaks and eerie rustles.
+> The TSO's performance was arresting, reaching deafening peaks and eerie rustles.
 
 I think it's all the hope in this symphony that makes it so moving.  Classical music fans are used to the dark stuff (so is Mahler, frankly), and it's par for the course to go to the symphony and be flooded with themes of death, suffering, and generally not getting what one wants.
 
@@ -43,6 +43,6 @@ But the hope that's exemplified in the symphony's title, it's a powerful element
 
 The TSO's performance was arresting, reaching deafening peaks and eerie rustles. Perhaps there was a bit of improvisatory adrenaline, since British maestro Matthew Halls had stepped in on short notice to replace an ailing Juanjo Mena. Halls was a thrill to watch, the leader of all that onstage drama that Mahler writes into his score.
 
-The hope came when we first heard the singers: contralto Marie-Nicole Lemieux and soprano Joelle Harvey. Their voices and their poetry were full of optimism - unreasonably, stubbornly so, even. Without warning, the catharsis came; it's that funny phenomenon where seeing someone cry is somewhat less sad than seeing someone try not to cry.
+The hope came when we first heard the singers: contralto Marie-Nicole Lemieux and soprano Joelle Harvey. Their voices and their poetry were full of optimism - unreasonably, stubbornly so, even. Without warning, the catharsis came; it's that funny phenomenon where seeing someone cry is less moving than seeing someone try not to cry.
 
 All this is to say: Mahler is still an emotional sure thing - bravo to all.
