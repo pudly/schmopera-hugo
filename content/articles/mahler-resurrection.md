@@ -22,13 +22,15 @@ If there's ever a safe bet to be made, it's that hearing a live performance of a
 
 So confident was I that I almost took it for granted; so, when Mahler's music began, it was as though it dragged me by the nape of my neck through an emotional rollercoaster I didn't know I needed.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1555894520/media/2019/04/MatthewHallsMahlerResurrectionSymphony-pc-JagGundu.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Matthew Halls conducts the Toronto Symphony Orchestra in a performance of Mahler's Symphony No. 2, "Resurrection", 2019. Photo: Jag Gundu.</figcaption>
 
 </figure>
 
 Mahler's "Resurrection" Symphony is a study in drama without words. Of course, there are words - they come nearly an hour into the work's roughly 80 minutes; by the time we hear the text written for the fourth and fifth movements - including the famed "Urlicht" ("Primeval Light") - we're so wrung out that it's like a balm, like finally confiding our troubles in someone else after bearing the weight of it ourselves.
+
+>The TSO's performance was arresting, reaching deafening peaks and eerie rustles.
 
 I think it's all the hope in this symphony that makes it so moving.  Classical music fans are used to the dark stuff (so is Mahler, frankly), and it's par for the course to go to the symphony and be flooded with themes of death, suffering, and generally not getting what one wants.
 
@@ -36,7 +38,7 @@ But the hope that's exemplified in the symphony's title, it's a powerful element
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1555894477/media/2019/04/MarieNicoleLemieuxJoelleHarveyMahlerResurrectionSymphony-pc-JagGundu.jpg){{% /md %}}
 
-<figcaption>Marie-Nicole Lemieux and Joelle Harvey perform Mahler's Resurrection Symphony with the Toronto Symphony Orchestra, 2019. Photo: Jag Gundu.</figcaption>
+<figcaption>Marie-Nicole Lemieux and Joelle Harvey perform Mahler's Symphony No. 2, "Resurrection", with the Toronto Symphony Orchestra, 2019. Photo: Jag Gundu.</figcaption>
 
 </figure>
 
