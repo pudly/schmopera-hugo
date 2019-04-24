@@ -22,9 +22,10 @@ youtube_url = ""
 
 Shady characters aren't new for the affable Finley; before adding Iago, Baron Scarpia (_Tosca_), and Duke Bluebeard (_Bluebeard's Castle_) to his repertoire, his career was famously rooted in two of Mozart's most prominent cads, Don Giovanni (_Don Giovanni_) and Count Almaviva (_Le nozze di Figaro_). 
 
-Yet in Iago, Finley finds "the perfect villain." An expert at false charm, constantly adapting himself to earn trust others, Finley uses physical stillness to 
+Yet in the Shakespearean Iago, Finley finds "the perfect villain." An expert at false charm, constantly adapting himself to earn trust others, Finley uses physical stillness to portray the unnatural, unpredictable nature of a man like Iago. 
 
-* 
+"I think there's always this idea that a villain is at once attractive and dangerous," he says. "That's what I love about playing a part like \[Iago\], because he's always adjusting his demeanour, depending on who he's with."
+
 * Iago stuff, villains, Psychopath Test
 * lyric baritone roles, getting them with insistence
 * pigeon holing voices, creating an aesthetic separation between opera and recital/recording work
@@ -47,8 +48,6 @@ Yet in Iago, Finley finds "the perfect villain." An expert at false charm, const
 
 \- "In order to gain trust"
 
-\- "I think there's always this idea that a villain is at once attractive and dangerous"
-
 \- **Giovanni, Scarpia**
 
 \- "There's always a transaction somehow, and that transaction only happens, normally, between people who trust each other"
@@ -58,8 +57,6 @@ Yet in Iago, Finley finds "the perfect villain." An expert at false charm, const
 \- **Iago gains trust of Cassio, Rodrigo, Desdemona**
 
 \- "Whoever he's with, he's absolutely their equal or has a reqlationship on their terms"
-
-\- "That's what I love about playing a part like that, because he's alwasy adjusting his demeanour, depending on who he's with"
 
 \- **In the Credo: "He is alone and he reveals the snake or the worminess"
 
