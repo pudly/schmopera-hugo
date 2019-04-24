@@ -32,22 +32,19 @@ Iago, with his intelligent and remorseless malice, is a role that sits confident
 
 Perhaps it comes as a surprise for his fans that Finley - a Grammy Award-winning artist, Commander of the Order of the British Empire, and definitive creator of roles like J. Robert Oppenheimer in _Doctor Atomic_ - would not have an standing invitation into the world of Italian lyric baritone repertoire. 
 
-* lyric baritone roles, getting them with insistence
+"I've had to get into the what I call the villainous repertoire a little bit by insistence," says Finley of his more recent work in roles like Iago and Scarpia. "My career is incredibly varied, and you wouldn't necessarily say an Italian lyric baritone would be singing Schubert songs."
+
 * pigeon holing voices, creating an aesthetic separation between opera and recital/recording work
 * legato, sound that a carries
 * why he sings
 
 \- *_he's OBE, a Commander of the Order of the British Empire___
 
-\- "I've had to get into the what I call the villainous repertoire a little bit by insistence"
-
 \- **said, "look, I can do this" - Giovanni isnt' perceived as one, but he is one, the Count isn't a villain, but he has dark areas**
 
 \- "It's the idea that my exploration of Verdi reeprtoire has been rather limited"
 
 \- **Verdi baritone - "there's Rodrigo, Di Luna, these powerful symbols of what an Italian lyric baritone is"**
-
-\- "My career is incredibly varied, and you wouldn't necessarily say an Italian lyric baritone would be singing Schubert songs"
 
 \- "I'm trying to haul myself from a tradition which I believe is mid-late 20th century, where there's been an unconscious but slightly less helpful move towards text, over the sounds of the voice"
 
