@@ -28,6 +28,8 @@ An expert at false charm, constantly adapting himself to earn trust from others,
 
 "I think there's always this idea that a villain is at once attractive and dangerous," he says. "That's what I love about playing a part like \[Iago\], because he's always adjusting his demeanour, depending on who he's with." Only when Iago is alone, delivering his famous "Credo" in Act II, does he present his true self to the audience, and reveal what Finley calls, "the snake, the worminess."
 
+Iago, with his intelligent and remorseless malice, is a role that sits confidently at the top of most baritones' wish-lists. Finley is no exception, yet he had to prove his fitness for it. 
+
 * Iago stuff, villains, Psychopath Test
 * lyric baritone roles, getting them with insistence
 * pigeon holing voices, creating an aesthetic separation between opera and recital/recording work
