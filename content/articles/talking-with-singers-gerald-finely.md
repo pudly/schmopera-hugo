@@ -22,9 +22,9 @@ youtube_url = ""
 
 Shady characters aren't new for the affable Finley; before adding Iago, Baron Scarpia (_Tosca_), and Duke Bluebeard (_Bluebeard's Castle_) to his repertoire, his career was famously rooted in two of Mozart's most prominent cads, Don Giovanni (_Don Giovanni_) and Count Almaviva (_Le nozze di Figaro_). 
 
-Yet in the Shakespearean Iago, Finley finds "the perfect villain." An expert at false charm, constantly adapting himself to earn trust from others, Finley uses physical stillness to portray the unnatural, unpredictable nature of a man like Iago. 
+Yet in the Shakespearean Iago, Finley finds "the perfect villain." The bass-baritone has done his homework on psychopathic behaviour,  An expert at false charm, constantly adapting himself to earn trust from others, Finley uses physical stillness to portray the unnatural, unpredictable nature of a man like Iago. 
 
-"I think there's always this idea that a villain is at once attractive and dangerous," he says. "That's what I love about playing a part like \[Iago\], because he's always adjusting his demeanour, depending on who he's with."
+"I think there's always this idea that a villain is at once attractive and dangerous," he says. "That's what I love about playing a part like \[Iago\], because he's always adjusting his demeanour, depending on who he's with." Only when Iago is alone, delivering his famous "Credo" in Act II, does he present his true self to the audience, and reveal what Finley calls, "the snake, the worminess." 
 
 * Iago stuff, villains, Psychopath Test
 * lyric baritone roles, getting them with insistence
