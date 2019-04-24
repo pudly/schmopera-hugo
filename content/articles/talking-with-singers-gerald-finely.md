@@ -14,7 +14,7 @@ related_companies = []
 related_people = []
 short_description = "short"
 slug = "talking-with-singers-gerald-finley"
-title = "Talking with singers: Gerald Finely"
+title = "Talking with singers: Gerald Finley"
 youtube_url = ""
 
 +++
@@ -34,7 +34,7 @@ Perhaps it comes as a surprise for his fans that Finley - a Grammy Award-winning
 
 "I've had to get into the what I call the villainous repertoire a little bit by insistence," says Finley of his work in roles like Iago and Scarpia. "My career is incredibly varied, and you wouldn't necessarily say an Italian lyric baritone would be singing Schubert songs."
 
-Perhaps not - but it's easy to argue that they should. Until recently, Finley's career has been arguably light on Verdi; on the opera stage, he is known for Mozart, Handel, and new works of the 20th and 21st century. And of course, there is his famed recital work and his award-winning discography.
+Perhaps not - but it's easy to argue that they should. Until recently, Finley's career has been arguably light on Verdi; on the opera stage, he is known for Mozart, Handel, and new works of the 20th and 21st century. And of course, there is his famed recital work and his award-winning discography. All of this - the technical demands of his signature repertoire, the detail work inherent in recording German Lieder - he now brings to some of the most coveted lyric baritone roles.
 
 * pigeon holing voices, creating an aesthetic separation between opera and recital/recording work
 * legato, sound that a carries
