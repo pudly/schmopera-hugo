@@ -18,6 +18,9 @@ title = "Talking with singers: Gerald Finely"
 youtube_url = ""
 
 +++
+"Absolute stillness is the thing about villainous people," says Canadian bass-baritone Gerald Finley. He is between rehearsals of David Alden's stark production of _Otello_, running 
+
+* 
 * Iago stuff, villains, Psychopath Test
 * lyric baritone roles, getting them with insistence
 * pigeon holing voices, creating an aesthetic separation between opera and recital/recording work
