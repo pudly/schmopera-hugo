@@ -107,6 +107,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/talking-with-singers-gerald-finely.md
 - content/articles/upcoming-gems-small-but-mighty-not-to-be-missed.md
 - content/articles/mahler-resurrection.md
 - content/articles/talking-with-composers-mark-grey.md
