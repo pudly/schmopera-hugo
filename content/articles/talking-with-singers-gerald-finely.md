@@ -30,7 +30,7 @@ An expert at false charm, constantly adapting himself to earn trust from others,
 
 Iago, with his intelligent and remorseless malice, is a role that sits confidently at the top of most baritones' wish-lists. Finley is no exception, yet he had to prove his fitness for it. 
 
-Perhaps it comes as a surprise for his fans that Finley - a Grammy Award-winning artist, Commander of the Order of the British Empire, and definitive creator of roles like Oppenheimer in _Doctor Atomic_ and 
+Perhaps it comes as a surprise for his fans that Finley - a Grammy Award-winning artist, Commander of the Order of the British Empire, and definitive creator of roles like J. Robert Oppenheimer in _Doctor Atomic_ - would not have an standing invitation into the world of Italian lyric baritone repertoire. 
 
 * lyric baritone roles, getting them with insistence
 * pigeon holing voices, creating an aesthetic separation between opera and recital/recording work
