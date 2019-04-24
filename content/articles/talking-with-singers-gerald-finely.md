@@ -28,13 +28,13 @@ An expert at false charm, constantly adapting himself to earn trust from others,
 
 "I think there's always this idea that a villain is at once attractive and dangerous," he says. "That's what I love about playing a part like \[Iago\], because he's always adjusting his demeanour, depending on who he's with." Only when Iago is alone, delivering his famous "Credo" in Act II, does he present his true self to the audience, and reveal what Finley calls, "the snake, the worminess."
 
-Iago, with his intelligent and remorseless malice, is a role that sits confidently at the top of most baritones' wish-lists. Finley is no exception, yet he had to prove his fitness for it. 
+Iago, with his intelligent and remorseless malice, is a role that sits confidently at the top of most baritones' wish-lists. Finley is no exception, yet he had to prove his fitness for it.
 
-Perhaps it comes as a surprise for his fans that Finley - a Grammy Award-winning artist, Commander of the Order of the British Empire, and creator of roles like J. Robert Oppenheimer in _Doctor Atomic_ and Howard K. Stern in _Anna Nicole_ - would not have an standing invitation into the world of Italian lyric baritone repertoire. 
+Perhaps it comes as a surprise for his fans that Finley - a Grammy Award-winning artist, Commander of the Order of the British Empire, and creator of roles like J. Robert Oppenheimer in _Doctor Atomic_ and Howard K. Stern in _Anna Nicole_ - would not have an standing invitation into the world of Italian lyric baritone repertoire.
 
 "I've had to get into the what I call the villainous repertoire a little bit by insistence," says Finley of his work in roles like Iago and Scarpia. "My career is incredibly varied, and you wouldn't necessarily say an Italian lyric baritone would be singing Schubert songs."
 
-Perhaps not - but it's easy to argue that they should. Until recently, Finley's career has been arguably light on Verdi; rather, he is known for his 
+Perhaps not - but it's easy to argue that they should. Until recently, Finley's career has been arguably light on Verdi; on the opera stage, he is known for Mozart, Handel, and new works of the 20th and 21st century. And of course, there is his famed recital work and his award-winning discography.
 
 * pigeon holing voices, creating an aesthetic separation between opera and recital/recording work
 * legato, sound that a carries
