@@ -30,49 +30,12 @@ An expert at false charm, constantly adapting himself to earn trust from others,
 
 Iago, with his intelligent and remorseless malice, is a role that sits confidently at the top of most baritones' wish-lists. Finley is no exception, yet he had to prove his fitness for it. 
 
-* Iago stuff, villains, Psychopath Test
 * lyric baritone roles, getting them with insistence
 * pigeon holing voices, creating an aesthetic separation between opera and recital/recording work
 * legato, sound that a carries
 * why he sings
 
 \- *_he's OBE, a Commander of the Order of the British Empire___
-
-\- "The essence of any characterization, I think, is to find a single or perhaps a paired physical attribute, to find an idea of what the essence of the character is"
-
-\- "if you're playing an easygoing or a romantic figure, generally there's this idea of fluidity and openness"
-
-\- "A lyricism of physical movement"
-
-\- "Absolute stillnesss is the thing about villainous people"
-
-\- **unpredictable**
-
-\- "Being able to charm or seduce or be very, falsely, lyrical"
-
-\- "In order to gain trust"
-
-\- **Giovanni, Scarpia**
-
-\- "There's always a transaction somehow, and that transaction only happens, normally, between people who trust each other"
-
-\- "That's almost why he's the perfect villain."
-
-\- **Iago gains trust of Cassio, Rodrigo, Desdemona**
-
-\- "Whoever he's with, he's absolutely their equal or has a reqlationship on their terms"
-
-\- **In the Credo: "He is alone and he reveals the snake or the worminess"
-
-\- "To prepare for it, reading things about psychopathic behaviour"
-
-\- **The Psychopath Test, book by Jon Ronson**
-
-\- **20 attributes - "And Iago ticks all the boxes"**
-
-\- **Credo negates the test a bit, Iago knows he's doing bad and explains it in his way that he's human, born of original sin**
-
-\- "He's very self-aware"
 
 \- "I've had to get into the what I call the villainous repertoire a little bit by insistence"
 
