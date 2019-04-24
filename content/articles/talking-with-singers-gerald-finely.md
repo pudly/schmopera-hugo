@@ -22,7 +22,7 @@ youtube_url = ""
 
 Shady characters aren't new for the affable Finley; before adding Iago, Baron Scarpia (_Tosca_), and Duke Bluebeard (_Bluebeard's Castle_) to his repertoire, his career was famously rooted in two of Mozart's most prominent cads, Don Giovanni (_Don Giovanni_) and Count Almaviva (_Le nozze di Figaro_). 
 
-Yet in Iago, Finley finds "the perfect villain." An expert at false charm, and 
+Yet in Iago, Finley finds "the perfect villain." An expert at false charm, constantly adapting himself to earn trust others, Finley uses physical stillness to 
 
 * 
 * Iago stuff, villains, Psychopath Test
