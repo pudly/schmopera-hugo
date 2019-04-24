@@ -18,7 +18,7 @@ title = "Talking with singers: Gerald Finely"
 youtube_url = ""
 
 +++
-"Absolute stillness is the thing about villainous people," says Canadian bass-baritone Gerald Finley, who has been busy studying malevolence in preparation for his Iago in David Alden's stark production of Verdi's _Otello_ (running April 27 to May 21 at the Canadian Opera Company).
+"Absolute stillness is the thing about villainous people," says Canadian bass-baritone [Gerald Finley](/scene/people/gerald-finley/), who has been busy studying malevolence in preparation for his Iago in David Alden's stark production of Verdi's _Otello_ (running April 27 to May 21 at the Canadian Opera Company).
 
 Shady characters aren't new for the affable Finley; before adding Iago, Baron Scarpia (_Tosca_), and Duke Bluebeard (_Bluebeard's Castle_) to his repertoire, his career was famously rooted in two of Mozart's most prominent cads, Don Giovanni (_Don Giovanni_) and Count Almaviva (_Le nozze di Figaro_).
 
