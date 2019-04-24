@@ -22,7 +22,7 @@ youtube_url = ""
 
 Shady characters aren't new for the affable Finley; before adding Iago, Baron Scarpia (_Tosca_), and Duke Bluebeard (_Bluebeard's Castle_) to his repertoire, his career was famously rooted in two of Mozart's most prominent cads, Don Giovanni (_Don Giovanni_) and Count Almaviva (_Le nozze di Figaro_).
 
-Yet in the Shakespearean Iago, Finley finds "the perfect villain." The bass-baritone has done his homework on psychopathic behaviour, drawing on literature like Robert D. Hare's [Psychopathy Checklist](https://en.wikipedia.org/wiki/Psychopathy_Checklist). 
+Yet in the Shakespearean Iago, Finley finds "the perfect villain." The bass-baritone has done his homework on psychopathic behaviour, drawing on literature like Robert D. Hare's [Psychopathy Checklist](https://en.wikipedia.org/wiki/Psychopathy_Checklist). Out of the checklist's twenty attribute to suggest psychopathic behaviour, "Iago checks all the boxes."
 
 An expert at false charm, constantly adapting himself to earn trust from others, Finley uses physical stillness to portray the unnatural, unpredictable nature of a man like Iago.
 
