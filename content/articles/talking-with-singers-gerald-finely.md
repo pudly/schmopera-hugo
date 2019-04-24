@@ -18,7 +18,13 @@ title = "Talking with singers: Gerald Finely"
 youtube_url = ""
 
 +++
-\- **he's OBE, a Commander of the Order of the British Empire*** 
+* Iago stuff, villains, Psychopath Test
+* lyric baritone roles, getting them with insistence
+* pigeon holing voices, creating an aesthetic separation between opera and recital/recording work
+* legato, sound that a carries
+* why he sings
+
+\- **he's OBE, a Commander of the Order of the British Empire__*
 
 \- "The essence of any characterization, I think, is to find a single or perhaps a paired physical attribute, to find an idea of what the essence of the character is"
 
@@ -88,7 +94,7 @@ youtube_url = ""
 
 \- "We've left those voices behind"
 
-\- **another example: John Tomlinson, powerful vioce but attention to detail - "I've heard his Schwanengesang...The commitment to the art of communication is so fantastic"**
+\- **another example: John Tomlinson, powerful voice but attention to detail - "I've heard his Schwanengesang...The commitment to the art of communication is so fantastic"**
 
 \- "The people with the vocal big chops haven't been given a chance" \[in art song\]
 
@@ -124,7 +130,7 @@ youtube_url = ""
 
 \- **productions need to be straightforward for the sake of the audience**
 
-\- ""Everybody knows Boheme', is often the conceit of directors"
+\- "'Everybody knows Boheme', is often the conceit of directors"
 
 \- "My feeling is that opera is trying to stretch itself into a) a cinema thing, a broadcastable thing, but it's a live event"
 
@@ -140,7 +146,7 @@ youtube_url = ""
 
 \- "Their minds and their souls are trying to put this together, and people come out half-moved"
 
-\- "It doesn't matter how well you've sung or how well the orchestra's played, the poor people have been battered by her heart by the confusion" 
+\- "It doesn't matter how well you've sung or how well the orchestra's played, the poor people have been battered by her heart by the confusion"
 
 \- "It's the ultimate involvement of what one can do. One is using eon's whole physical, mental, emotional self. One's life experience, one's relationships, one's channelling it through these glorious channels of composers and poets who are also presenting extraordinary things"
 
