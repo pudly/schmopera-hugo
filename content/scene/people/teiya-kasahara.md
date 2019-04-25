@@ -7,7 +7,7 @@ publishDate = "2015-04-15T22:51:00-04:00"
 related_companies = ["scene/companies/canadian-opera-company.md", "scene/companies/canadian-opera-company-ensemble-studio.md", "scene/companies/tapestry-opera.md", "scene/companies/opera-5.md", "scene/companies/against-the-grain-theatre.md"]
 slug = "teiya-kasahara"
 title = "Teiya Kasahara"
-website = "http://www.teiyakasahara.com/teiyakasahara/welcome.html"
+website = "https://www.teiyakasahara.com/"
 [[social_media]]
 platform = "Facebook"
 template = "social-media"
