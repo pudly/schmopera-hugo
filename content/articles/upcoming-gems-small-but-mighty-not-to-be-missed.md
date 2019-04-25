@@ -26,6 +26,12 @@ For [_Democracy in Action_](https://www.tongueincheekproductions.com/democracyin
 
 Doors open at 6:30, and the show begins at 7pm. Tickets start at $25, and seating is guaranteed with a dinner reservation. Find out more by calling Lula Lounge at (416) 588-0307.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556151349/media/2019/04/TiCMuse9People.jpg){{% /md %}}
+
+<figcaption>Clockwise from top left: baritones Aaron Durand and Michael Nyby, co-founders of Tongue In Cheek Productions; pianist Hyejin Kwon and director Anna Theodosakis, co-founders of Muse 9 Productions.</figcaption>
+
+</figure>
+
 And on **June 27, 8pm** at Merchants of Green Coffee (2 Matilda Street), the women of [Muse 9 Productions](https://www.facebook.com/Muse9Productions/) put up _Bon Appetit! A Musical Tasting Menu_. The delicious-looking programme is named for Lee Hoiby's ingenious _Bon Appetit!_, which essentially turns an episode of Julia Child's _The French Chef_ into a mini-opera.
 
 You'll also hear soprano/composer [Danika Lorèn](/scene/people/danika-loren/)'s curiously titled _The Secret Lives of Vegetables_, and in a guarantee for laughs, the song cycle by Toronto favourite Peter Tiefenbach, _Chansons de mon placard_.
