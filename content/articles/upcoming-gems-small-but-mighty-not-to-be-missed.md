@@ -30,4 +30,4 @@ And on **June 27, 8pm** at Merchants of Green Coffee (2 Matilda Street), the wom
 
 You'll also hear Danika Lorèn's curiously titled _The Secret Lives of Vegetables_, and in a guarantee for laughs, Toronto favourite Peter Tiefenbach's _Chansons de mon placard_.
 
-Tickets start at $25, and can be [purchased right here](https://muse9food.brownpapertickets.com/).
+Tickets start at $25, and can be [purchased right here](https://muse9food.brownpapertickets.com/). And as a bonus, the _Musical Tasting Menu_ will head to London, ON, **June 29th and 30th** at the Covent Garden Market Kitchen, in partnership with Village Opera.
