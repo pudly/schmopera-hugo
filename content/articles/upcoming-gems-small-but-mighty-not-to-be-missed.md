@@ -19,7 +19,7 @@ youtube_url = ""
 +++
 This spring, opera fans in Toronto can expect some lighter fare to go with the warming weather.
 
-On **May 1, 7pm** at Lula Lounge (1585 Dundas St. W), check out the latest from Tongue in Cheek Productions: [_Democracy in Action_](https://www.tongueincheekproductions.com/democracyinaction). Though the title feels timely, the political stakes aren't costly with this night of singing. The audience holds the power here - with the help of online polls, and a "wide array of eclectic selections", listeners can cast their vote and hear the results. 
+On **May 1, 7pm** at Lula Lounge (1585 Dundas St. W), check out the latest from Tongue in Cheek Productions: [_Democracy in Action_](https://www.tongueincheekproductions.com/democracyinaction). Though the title feels timely, the political stakes aren't costly with this night of singing. The audience holds the power here - with the help of online polls, and a "wide array of eclectic selections", listeners can cast their vote and hear the results.
 
 For [_Democracy in Action_](https://www.tongueincheekproductions.com/democracyinaction), TiC has gathered a solid line-up of Canadian talent, including [Teiya Kasahara](/scene/people/teiya-kasahara/), [Krisztina Szabó](/scene/people/krisztina-szabo/) and [Julie Nesrallah](/scene/people/julie-nesrallah/). At the piano is Trevor Chartrand.
 
@@ -38,3 +38,7 @@ You'll also hear soprano/composer [Danika Lorèn](/scene/people/danika-loren/)'s
 [Anna Theodosakis](/scene/people/anna-theodosakis/) directs, and [Hyejin Kwon](/scene/people/hyejin-kwon/) is at the piano.
 
 Tickets start at $25, and can be [purchased right here](https://muse9food.brownpapertickets.com/). And as a bonus, the _Musical Tasting Menu_ will head to London, ON, **June 29th and 30th** at the Covent Garden Market Kitchen, in partnership with Village Opera.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556153410/media/2019/04/Child%20Instagram%20Post.png){{% /md %}}
+
+</figure>
