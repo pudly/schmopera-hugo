@@ -30,6 +30,4 @@ And on **June 27, 8pm** at Merchants of Green Coffee (2 Matilda Street), the wom
 
 You'll also hear Danika Lorèn's curiously titled _The Secret Lives of Vegetables_, and in a guarantee for laughs, Toronto favourite Peter Tiefenbach's _Chansons de mon placard_.
 
-Muse 9 - _Bon Appetit! A Musical Tasting Menu_, June 27 at Merchants of Green Coffee - a nosh-based concert, including Hoiby's piece, Danika Lorèn's _The Secret Lives of Vegetables_, and Peter Tiefenbach's _Chansons de mon placard_
-
-Tongue in Cheek - Democracy in Action (May 1 at Lula Lounge), programme is at the audience's whim, with the help of online polls
+Tickets start at $25, and can be [purchased right here](https://muse9food.brownpapertickets.com/).
