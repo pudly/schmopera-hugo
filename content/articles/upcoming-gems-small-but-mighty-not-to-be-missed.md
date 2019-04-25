@@ -28,6 +28,8 @@ Doors open at 6:30, and the show begins at 7pm. Tickets start at $25, and seatin
 
 And on **June 27, 8pm** at Merchants of Green Coffee (2 Matilda Street), the women of [Muse 9 Productions](https://www.facebook.com/Muse9Productions/) put up _Bon Appetit! A Musical Tasting Menu_. The delicious-looking programme is named for Lee Hoiby's ingenious _Bon Appetit!_, which essentially turns an episode of Julia Child's _The French Chef_ into a mini-opera.
 
-You'll also hear Danika Lorèn's curiously titled _The Secret Lives of Vegetables_, and in a guarantee for laughs, Toronto favourite Peter Tiefenbach's _Chansons de mon placard_.
+You'll also hear soprano/composer [Danika Lorèn](/scene/people/danika-loren/)'s curiously titled _The Secret Lives of Vegetables_, and in a guarantee for laughs, the song cycle by Toronto favourite Peter Tiefenbach, _Chansons de mon placard_.
+
+Anna Theodosakis directs, and Hyejin Kwon is at the piano.
 
 Tickets start at $25, and can be [purchased right here](https://muse9food.brownpapertickets.com/). And as a bonus, the _Musical Tasting Menu_ will head to London, ON, **June 29th and 30th** at the Covent Garden Market Kitchen, in partnership with Village Opera.
