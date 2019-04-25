@@ -17,7 +17,7 @@ title = "Watch with headphones: Rumspringawakening"
 youtube_url = "https://www.youtube.com/watch?v=ow1qc5XyZhw"
 
 +++
-Big news, readers: The guys who brought you brilliant opera films like [_The Facebook Opera_](https://www.schmopera.com/hilarity-someone-like-me-lopera-di-facebook/) and [_The Bachelor Opera_](/something-blue-the-bachelor-opera/) are back!
+Big news, readers: The guys who brought you brilliant opera films like [_The Facebook Opera_](https://www.schmopera.com/hilarity-someone-like-me-lopera-di-facebook/) are back!
 
 This time, writer/director Adam Taylor and composer Nathan Fletcher have brought you _Rumspringawakening: L'opera ragazzo Amish_, and it's definitely a must-see.
 
