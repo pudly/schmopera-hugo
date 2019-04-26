@@ -13,8 +13,8 @@ related_articles = []
 related_companies = ["scene/companies/royal-opera-house.md"]
 related_people = ["scene/people/toby-spence.md", "scene/people/jacques-imbrailo.md"]
 short_description = "This production co-produced with Teatro Real, Madrid and Rome Opera is the first return of the opera to the Royal Opera stage in nearly 20 years and welcomes back the incomparable Deborah Warner, who has made a career staging Britten."
-slug = "roh-billy-budd"
-title = "ROH Billy Budd"
+slug = "transcendent-ambitious-billy-budd-at-roh"
+title = "Transcendent & ambitious: Billy Budd at ROH"
 youtube_url = ""
 
 +++
