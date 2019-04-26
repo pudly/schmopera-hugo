@@ -1,7 +1,6 @@
 +++
 date = "2019-04-26T00:41:12+00:00"
 discipline = "Bass"
-draft = true
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1556239015/media/2019/04/BrindleySherratt-pc-SussieAhlburg.jpg"
 primary_image_credit = "Sussie Ahlburg."
 related_companies = ["scene/companies/wiener-staatsoper.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/oper-frankfurt.md", "scene/companies/welsh-national-opera.md", "scene/companies/opera-north.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/english-national-opera.md", "scene/companies/glyndebourne.md", "scene/companies/salzburg-festival.md", "scene/companies/opernhaus-zurich.md", "scene/companies/royal-opera-house.md"]
