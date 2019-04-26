@@ -34,7 +34,9 @@ Perhaps it comes as a surprise for his fans that Finley - a Grammy Award-winning
 
 "I've had to get into the what I call the villainous repertoire a little bit by insistence," says Finley of his work in roles like Iago and Scarpia. "My career is incredibly varied, and you wouldn't necessarily say an Italian lyric baritone would be singing Schubert songs."
 
-Perhaps not - but it's easy to argue that they should. Until recently, Finley's career has been arguably light on Verdi; indeed, it seems as though he's been everywhere but. His is the voice that lends us definitive performances of Mozartean hits, of contemporary works like John Adams' _Doctor Atomic_ and Jaufré Rudel in Kaaija Saariaho's _L'amour de loin_. His are exemplary recordings of _Dichterliebe_ and _Winterreise_
+Perhaps not - but it's easy to argue that they should. Until recently, Finley's career has been arguably light on Verdi; indeed, it seems as though he's been everywhere but. His is the voice that lends us definitive performances of Mozartean hits, of contemporary works like John Adams' _Doctor Atomic_ and Jaufré Rudel in Kaaija Saariaho's _L'amour de loin_. His are exemplary recordings of _Dichterliebe_ and _Winterreise_.
+
+It's not how we imagine would be the lead-up to a baritone's arrival at Iago, or comparable Verdi roles like Conte di Luna in _Il trovatore_ or Rodrigo in _Don Carlo_. Yet who better but someone like Finley - trained in the detail work of German Lied, the subtle control of Mozart, and the unique challenges of new opera - to take on lyric baritone repertoire? To take on a Shakespearean villain? 
 
 and new works of the 20th and 21st century. And of course, there is his famed recital work and his award-winning discography. All of this - the technical demands of his signature repertoire, the detail work inherent in recording German Lieder - he now brings to some of the most coveted lyric baritone roles.
 
