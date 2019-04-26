@@ -22,13 +22,23 @@ youtube_url = ""
 
 Shady characters aren't new for the affable Finley; before adding Iago, Baron Scarpia (_Tosca_), and Duke Bluebeard (_Bluebeard's Castle_) to his repertoire, his career was famously rooted in two of Mozart's most prominent cads, Don Giovanni (_Don Giovanni_) and Count Almaviva (_Le nozze di Figaro_).
 
+>"It's the ultimate involvement of what one can do."
+
 Yet in Otello’s nemesis, Finley finds "the perfect villain." An expert at false charm, constantly adapting himself to earn trust from others, Finley uses physical stillness to portray Iago’s unnatural, unpredictable nature. The bass-baritone has done his homework on psychopathic behaviour, drawing on literature like Robert D. Hare's comprehensive - and slightly controversial - “Psychopathy Checklist”. Out of the list's twenty attributes to suggest psychopathic behaviour, "Iago checks all the boxes."
 
 "I think there's always this idea that a villain is at once attractive and dangerous," he says. "That's what I love about playing a part like that, because he's always adjusting his demeanour, depending on who he's with." Only when Iago is alone, delivering his famous "Credo" in Act II, does he present his true self to the audience, and reveal what Finley calls, "the snake, the worminess."
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556297196/media/2019/04/COCOtello-pc-MichaelCooper.jpg){{% /md %}}
+
+<figcaption>(l-r) Andrew Haji as Cassio, Gerald Finley as Iago, and Russell Thomas as Otello (background) in the Canadian Opera Company's production of Otello, 2019. Photo: Michael Cooper.</figcaption>
+
+</figure>
+
 Iago, with his intelligent and remorseless malice, and the thrilling music Verdi writes for him, is a role that sits confidently at the top of most baritone wish-lists. Finley is no exception, yet he had to prove his fitness for it. Perhaps it comes as a surprise for his fans that Finley - a Grammy Award-winning artist, Commander of the Order of the British Empire, and general superstar in his discipline - would not have a standing invitation into the world of Italian lyric baritone repertoire.
 
 "I've had to get into what I call the ‘villainous repertoire’ a little bit by insistence," says Finley of his work in roles like Iago and Scarpia. "My career is incredibly varied, and you wouldn't necessarily say an Italian lyric baritone would be singing Schubert songs."
+
+>"That's the sound that fills opera houses, that's the sound that gets over an orchestra: the incessant reverberation of the voice."
 
 Perhaps not - but it's easy to argue that they should. Until recently, Finley's career has been arguably light on Verdi; indeed, it seems as though he's been everywhere but. His is the voice that lends us definitive performances of Mozartean hits, of contemporary works like John Adams' _Doctor Atomic_ and Jaufré Rudel in Kaaija Saariaho's _L'amour de loin_. His are exemplary recordings of _Dichterliebe_ and _Winterreise_.
 
@@ -38,9 +48,17 @@ It seems even Finley is not immune to opera's knee-jerk tendency to categorize v
 
 Or perhaps the pigeon-holing isn't entirely unfounded. Finley muses that he is "trying to haul myself from a tradition" where singers prioritized clear and crisp text, almost as a replacement for the sound of the voice. "I was taught not on legato," he says. "I really tried in the last ten years to understand. I worked really hard to get into the idea that my voice can ride this constant wave."
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556297170/media/2019/04/GeraldFinley-pc-SimCanettyClarke.jpg){{% /md %}}
+
+<figcaption>Bass-baritone Gerald Finley. Photo: Sim Canetty Clarke.</figcaption>
+
+</figure>
+
 Particularly in the recording studio, which has grown unfavourable to an expansive, hall-filling sound, "The modern taste is for the intimate and the subtle." Essentially, it's for consonants over vowels.
 
 "It's a train," Finley says of the sustained voice. "It has cars attached, and the flow of sound is going along." Anything that stops the flow - belaboured consonants, mostly - is a precarious gap between the train cars. "It upsets literally the track."
+
+>"Guys, let's get the voice sorted out."
 
 Finley points to the likes of Tom Krause, Barry McDaniel, and George London as examples of telling stories with vowels. "If you go and listen to Fischer-Dieskau, he is a classic bel canto singer," he argues, invoking the man whose name is synonymous with German Lied. "We still don't realize that singing is this amazingly subtle art, and it's always based on this constant flow of sound."
 
