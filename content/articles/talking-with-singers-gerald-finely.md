@@ -36,13 +36,11 @@ Perhaps it comes as a surprise for his fans that Finley - a Grammy Award-winning
 
 Perhaps not - but it's easy to argue that they should. Until recently, Finley's career has been arguably light on Verdi; indeed, it seems as though he's been everywhere but. His is the voice that lends us definitive performances of Mozartean hits, of contemporary works like John Adams' _Doctor Atomic_ and Jaufré Rudel in Kaaija Saariaho's _L'amour de loin_. His are exemplary recordings of _Dichterliebe_ and _Winterreise_
 
- and new works of the 20th and 21st century. And of course, there is his famed recital work and his award-winning discography. All of this - the technical demands of his signature repertoire, the detail work inherent in recording German Lieder - he now brings to some of the most coveted lyric baritone roles.
+and new works of the 20th and 21st century. And of course, there is his famed recital work and his award-winning discography. All of this - the technical demands of his signature repertoire, the detail work inherent in recording German Lieder - he now brings to some of the most coveted lyric baritone roles.
 
 * pigeon holing voices, creating an aesthetic separation between opera and recital/recording work
 * legato, sound that a carries
 * why he sings
-
-\- *_he's OBE, a Commander of the Order of the British Empire___
 
 \- **said, "look, I can do this" - Giovanni isnt' perceived as one, but he is one, the Count isn't a villain, but he has dark areas**
 
