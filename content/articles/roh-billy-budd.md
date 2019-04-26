@@ -8,11 +8,11 @@ image_gallery = []
 postamble = "_Billy Budd_ is onstage at the Royal Opera House through 10 May. For details and ticket information, [click here](https://www.roh.org.uk/productions/billy-budd-by-deborah-warner)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1556237961/media/2019/04/sq2860ashm_0843JacquesImbrailoasBillyBuddROH2019.jpg"
-primary_image_credit = ""
+primary_image_credit = "Jacques Imbrailo as Billy Budd in Billy Budd, ROH, 2019. Photo: Catherine Ashmore."
 related_articles = []
 related_companies = ["scene/companies/royal-opera-house.md"]
 related_people = ["scene/people/toby-spence.md", "scene/people/jacques-imbrailo.md"]
-short_description = "short"
+short_description = "This production co-produced with Teatro Real, Madrid and Rome Opera is the first return of the opera to the Royal Opera stage in nearly 20 years and welcomes back the incomparable Deborah Warner, who has made a career staging Britten."
 slug = "roh-billy-budd"
 title = "ROH Billy Budd"
 youtube_url = ""
@@ -26,7 +26,7 @@ _Billy Budd_ was a joint effort with long-time collaborator Eric Crozier and lon
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556238507/media/2019/04/2860ashm_1100BillyBuddproductionimageROH2019.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>A scene from Billy Budd, ROH, 2019. Photo: Catherine Ashmore.</figcaption>
 
 </figure>
 
@@ -34,7 +34,7 @@ This opera was conceived as an all-male production as it concerns the lives of t
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556238533/media/2019/04/2860ashm_1308JacquesImbrailoasBillyBuddROH2019.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Jacques Imbrailo as Billy Budd in Billy Budd, ROH, 2019. Photo: Catherine Ashmore.</figcaption>
 
 </figure>
 
@@ -46,7 +46,7 @@ The stage consisted of three lateral platforms that hung from a set of ropes tha
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556238552/media/2019/04/2860ashm_1818CliveBayleyasDanskerJacquesImbrailoasBillyBuddROH2019.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Clive Bayley as Dansker and Jacques Imbrailo as Billy Budd in Billy Budd, ROH, 2019. Photo: Catherine Ashmore.</figcaption>
 
 </figure>
 
@@ -54,7 +54,7 @@ Particularly impressive was the ambitiously physical nature of the staging of th
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556238580/media/2019/04/2860ashm_1713BrindleySherrattasJohnClaggartROH2019.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Brindley Sherratt as John Claggart in Billy Budd, ROH, 2019. Photo: Catherine Ashmore.</figcaption>
 
 </figure>
 
@@ -66,7 +66,7 @@ Bass Brindley Sherratt was fantastic in his role as the villainous John Claggart
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556238597/media/2019/04/2860ashm_1531copyTobySpenceasCaptainEdwardFairfaxVereThomasOliemansasMrRedburnROH2019.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Toby Spence as Captain Vere in Billy Budd, ROH, 2019. Photo: Catherine Ashmore.</figcaption>
 
 </figure>
 
@@ -78,6 +78,6 @@ Britten has never shied away from bringing to light the stories of those on the 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556238617/media/2019/04/2860ashm_0784copyaJacquesImbrailoasBillyBuddAlasdairElliottasSqueakROH2019.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Jacques Imbrailo as Billy Budd (centre) in Billy Budd, ROH, 2019. Photo: Catherine Ashmore.</figcaption>
 
 </figure>
