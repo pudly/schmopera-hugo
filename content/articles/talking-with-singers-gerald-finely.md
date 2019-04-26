@@ -38,7 +38,9 @@ Perhaps not - but it's easy to argue that they should. Until recently, Finley's 
 
 It's not how we imagine would be the lead-up to a baritone's arrival at Iago, or comparable Verdi roles like Conte di Luna in _Il trovatore_ or Rodrigo in _Don Carlo_. Yet who better but someone like Finley - trained in the detail work of German Lied, the subtle control of Mozart, and the unique challenges of new opera - to take on lyric baritone repertoire? To take on a Shakespearean villain? 
 
-and new works of the 20th and 21st century. And of course, there is his famed recital work and his award-winning discography. All of this - the technical demands of his signature repertoire, the detail work inherent in recording German Lieder - he now brings to some of the most coveted lyric baritone roles.
+It seems even Finley is not immune to opera's knee-jerk tendency to categorize voices; they're not only identified by what they can do, but corollary assumptions are then made about what they cannot. Perhaps it's Finley's excellence in text delivery and subtle details that unfairly 
+
+ "I'm trying to haul myself from a tradition," says Finley, "where there's been an unconscious but slightly less helpful move towards text, over the sounds of the voice."
 
 * pigeon holing voices, creating an aesthetic separation between opera and recital/recording work
 * legato, sound that a carries
@@ -49,8 +51,6 @@ and new works of the 20th and 21st century. And of course, there is his famed re
 \- "It's the idea that my exploration of Verdi reeprtoire has been rather limited"
 
 \- **Verdi baritone - "there's Rodrigo, Di Luna, these powerful symbols of what an Italian lyric baritone is"**
-
-\- "I'm trying to haul myself from a tradition which I believe is mid-late 20th century, where there's been an unconscious but slightly less helpful move towards text, over the sounds of the voice"
 
 \- "For me, some of the most wonderful recordings I have are pre-War, where I'm hearing voices who are using the sound of their voice to colour"
 
