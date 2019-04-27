@@ -1,7 +1,7 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Interview"
-date = "2019-04-24T16:39:00+00:00"
+date = "2019-04-27T10:39:00+00:00"
 disclaimer = ""
 image_gallery = []
 postamble = "The Canadian Opera Company's production of _Otello_ runs April 27 to May 21. For details and ticket information, [click here](https://www.coc.ca/productions/16510). "
