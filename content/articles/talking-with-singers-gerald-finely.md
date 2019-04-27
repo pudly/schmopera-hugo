@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2019-04-24T16:39:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "The Canadian Opera Company's production of _Otello_ runs April 27 to May 21. For details and ticket information, [click here](https://www.coc.ca/productions/16510). "
 preamble = ""
@@ -34,9 +33,9 @@ Yet in Otello’s nemesis, Finley finds "the perfect villain." An expert at fals
 
 </figure>
 
-Iago, with his intelligent and remorseless malice, and the thrilling music Verdi writes for him, is a role that sits confidently at the top of most baritone wish-lists. Finley is no exception, yet he had to prove his fitness for it. Perhaps it comes as a surprise for his fans that Finley - a Grammy Award-winning artist, Commander of the Order of the British Empire, and general superstar in his discipline - would not have a standing invitation into the world of Italian lyric baritone repertoire.
+Iago, with his intelligent and remorseless malice, and the thrilling music Verdi writes for him, is a role that sits confidently at the top of most baritone wish-lists. Finley is no exception, yet he had to prove his fitness for it. Perhaps it comes as a surprise for his fans that Finley - a Grammy Award-winning artist, Officer of the Order of Canada, Commander of the Order of the British Empire, and general superstar in his discipline - would not have a standing invitation into the world of Italian lyric baritone repertoire.
 
-"I've had to get into what I call the ‘villainous repertoire’ a little bit by insistence," says Finley of his work in roles like Iago and Scarpia. "My career is incredibly varied, and you wouldn't necessarily say an Italian lyric baritone would be singing Schubert songs."
+"I've had to get into what I call the 'villainous repertoire' a little bit by insistence," says Finley of his work in roles like Iago and Scarpia. "My career is incredibly varied, and you wouldn't necessarily say an Italian lyric baritone would be singing Schubert songs."
 
 >"That's the sound that fills opera houses, that's the sound that gets over an orchestra: the incessant reverberation of the voice."
 
