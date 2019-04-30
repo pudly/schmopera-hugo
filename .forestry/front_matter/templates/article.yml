@@ -107,6 +107,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/verdi-chorus.md
 - content/articles/the-mikado-in-the-white-house.md
 - content/articles/talking-with-singers-gerald-finely.md
 - content/articles/mahler-resurrection.md
