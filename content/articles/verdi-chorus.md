@@ -1,6 +1,7 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Interview"
+date = "2019-04-30T10:39:00+00:00"
 disclaimer = ""
 image_gallery = []
 postamble = "[Click here](https://wfs-spring-2019.brownpapertickets.com/) for details and ticket information about _Love is Timeless_ on May 4, First United Church, Santa Monica, CA."
