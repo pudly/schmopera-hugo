@@ -11,8 +11,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "\"These singers are also part of a whole team where they have a certain amount of responsibility as section leaders of the Verdi Chorus, and it is up to them to know their music better than anyone else and develop their musicianship.\""
-slug = "verdi-chorus"
-title = "Verdi Chorus"
+slug = "the-verdi-chorus-the-walter-fox-singers-36-years-on"
+title = "The Verdi Chorus & the Walter Fox Singers: 36 years on"
 youtube_url = ""
 
 +++
@@ -44,7 +44,7 @@ Familiarity with an entire opera, as opposed to just looking at the aria being w
 
 ### What inspired this upcoming programme on May 4?
 
-These particular singers themselves. I had already auditioned them for the Verdi Chorus, and chosen them for not only their musicianship and sound of their voice, but also because of their personal energy.  Each one is filled with enthusiasm and a desire to create something wonderful in performance. I find that so inspiring. Secondly I chose music that I really love to work with, which is always the case when I put a program together.  And it's springtime, so this light fun program totally fits!
+These particular singers themselves. I had already auditioned them for the Verdi Chorus, and chosen them for not only their musicianship and sound of their voice, but also because of their personal energy.  Each one is filled with enthusiasm and a desire to create something wonderful in performance. I find that so inspiring. Secondly I chose music that I really love to work with, which is always the case when I put a program together.  And it's springtime, so this light, fun program totally fits!
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556642240/media/2019/04/VerdiChorus.jpg){{% /md %}}
 
