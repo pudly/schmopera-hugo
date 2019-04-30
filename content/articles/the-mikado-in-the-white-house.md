@@ -17,9 +17,11 @@ title = "The Mikado in the White House"
 youtube_url = ""
 
 +++
-The fourth annual New York Opera Fest has begun and the next two months of eclectic productions, from traditional to cutting edge, promise everything from the ridiculous to the sublime. Both adjectives are apropos to the presentation of Gilbert and Sullivan's _The Mikado_ at The Bronx Opera. 
+The fourth annual New York Opera Fest has begun and the next two months of eclectic productions, from traditional to cutting edge, promise everything from the ridiculous to the sublime. Both adjectives are apropos to the presentation of Gilbert and Sullivan's _The Mikado_ at The Bronx Opera.
 
 To be sure, there is some marvellous music-making up at the Bronx Opera from the mighty but modestly sized orchestra and chorus. The 32 musicians under the baton of Michael Spierman (including only one bass and one percussionist) give a full and almost flawless tribute to the music of Sir Arthur Sullivan.  Though the opera is written with the men and women of the chorus in a mostly "split squad" format, talented chorus master Michael C. Haigler gets the most out of both sexes: even when there are only about nine men or ten women on stage they sound twice as big.
+
+>Topical references are randomly thrown in, and the effect is the same as that of a downed power line that thrashes all over the street.
 
 The libretto of _The Mikado_, as written by W.S. Gilbert, was meant as a social satire, skewing the corrupt government and the somewhat Kafkaesque judicial system in England at the time (1885).  To get it past the Victorian censors, Gilbert disguised his critique of the British as a story about a fictional Japanese town, (even utilizing fictional Japanese words.) This was another level of spoofing as the upper class of London, at that time, was obsessed with Japanese culture (which had only recently made it to their shores).
 
@@ -27,11 +29,15 @@ Although meant to generate laughs at the expense of privileged white people, it'
 
 This is not a bad idea from director (and script editor) Benjamin Spierman, but his updated libretto has none of the subtlety and little of the wit and cleverness as originally written by Mr. Gilbert. Topical references are randomly thrown in, and the effect is the same as that of a downed power line that thrashes all over the street.
 
+>The principal singers do their best to get laughs from all the comedic misfiring but for the most part, too much is asked of them.
+
 Perhaps a better comic writer could have pulled this off, as there are some parallels to be made.  But a lot of it is a thin plastic wrap that doesn't quite stretch over the proceedings. For example, the character of Katisha, is described as so abhorrently ugly that only her collarbone, elbow and heel are attractive. Mr. Spierman's inspiration is to put Katisha in a red pantsuit a la Hillary Clinton. If this is an attempt at "equal time", we've quickly left the realm of satirizing the foibles of Mr. Trump and entered the (unfunny) world of body-shaming Ms. Clinton.
 
 Some of the concepts have potential – the "Gentlemen of Japan" have been updated as reporters for the _New York Times_. However, they all wear overly long red ties, à la Trump, and this makes no sense unless they are actually reporters for Fox News. Another good idea: the opening number is set in a press room.  Unfortunately, we never leave that set and Mr. Spierman handicaps his staging to left chairs, right chairs, and center stage. He also has added some rudimentary choreography for his singers that ranges from a half-hearted hand-jive to a sloppy kick-line.  The characters are also called upon to constantly whip out their cellphones to text and take selfies, etc., and the joke wears thin after the first few minutes (yet continues unabated for the entire two hours of the opera).
 
 The principal singers do their best to get laughs from all the comedic misfiring but for the most part, too much is asked of them.  Luckily, their voices range from very, very good to excellent and every one of them deserves enthusiastic applause.
+
+>The best songs, not surprisingly, were the ones that were spared a rewrite.
 
 As Ko-Ko, Sean Kroll does not attempt to do a direct Trump impersonation but rather extracts some humor as a kind of rubber snake with his physical clowning and hissing asides. His voice is made for this kind of light opera especially in his sweet rendition of "On a Tree by a River" (aka the famous "Titwillow" aria).
 
