@@ -79,9 +79,9 @@ O'Regan's renowned command of _a cappella_ choral writing was very much in high 
 
 However, in arousing such an issue, he also makes the valid point: "What is the United States of America but a bunch of non-English speakers vying to assimilate alongside British colonists?" Iconic among these being President Van Buren, chief executive at the time of Da Ponte's death and a native Dutch speaker.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556668766/media/2019/04/HGO%20-%20The%20Phoenix%20-%20Photographer%20Lynn%20Lane-205.jpg){{% /md %}}
 
-<figcaption> in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+<figcaption>Luca Pisaroni, (Lorenzo da Ponte/"Enzo") and Thomas Hampson (Lorenzo Da Ponte) in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
