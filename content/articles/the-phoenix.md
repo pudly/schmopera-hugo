@@ -87,9 +87,9 @@ However, in arousing such an issue, he also makes the valid point: "What is the 
 
 Who knew that a librettist from one of the oldest republics in the world would end up in a land itself eventually enduring the divide between Jackson and Clay over just what the Founders' democratic ideal might imply? At least we might all agree with Da Ponte's thesis towards the end that "without art, America will die."
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556668621/media/2019/04/HGO%20-%20The%20Phoenix%20-%20Photographer%20Lynn%20Lane-228.jpg){{% /md %}}
 
-<figcaption> in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+<figcaption>(l-r) Luca Pisaroni, (Lorenzo da Ponte/"Enzo"), Thomas Hampson (Lorenzo Da Ponte), and Rihab Chaieb (Nancy Da Ponte) in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
