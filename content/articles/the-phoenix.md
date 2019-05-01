@@ -29,7 +29,7 @@ The text of this work, by John Caird, presents an ingenious solution: a play-wit
 
 Although the bilingual English-Italian libretto (effortlessly switching between the two) has a way of being extremely detailed and pandering to American stereotypes of certain character archetypes (in the manner of many a Showtime television drama), nevertheless, it very ably probes the question of da Ponte's life as one of identity, which is constantly in flux, as he reinvents himself constantly (in the manner of _Così_'s "Arabian phoenix") throughout his odyssey of travel throughout the world.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556669003/media/2019/05/HGOThePhoenixPhotographerLynnLane-69.jpg){{% /md %}}
 
 <figcaption> in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
@@ -39,9 +39,9 @@ Even his name turns out to not be his own, but rather that of the bishop of Cene
 
 The magisterial [Thomas Hampson](/talking-with-singers-thomas-hampson/) plays the elderly and elegiac scholar looking back on life, and what he might have lacked in sheer force, he more than made up for in acting prowess and an energetic disposition which showcased his lust for life; he definitely portrayed someone who was always in the present moment, waiting for his next adventure. (My favorite moment was when this cantankerous man said something to the effect of, "But of course Americans need to learn Italian; the tongue of Petrarch, Boccaccio, Dante, all good persons should want to better themselves accordingly." Jefferson would be pleased at this "virtuous yeoman.")
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556668976/media/2019/05/HGOThePhoenixPhotographerLynnLane-92.jpg){{% /md %}}
 
-<figcaption> in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+<figcaption>Luca Pisaroni (Young Lorenzo Da Ponte) and Elizabeth Sutphen (Annetta) in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
@@ -51,7 +51,7 @@ Many of the characters who represented the character of patron were played by te
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556668941/media/2019/05/HGOThePhoenixPhotographerLynnLane-104.jpg){{% /md %}}
 
-<figcaption>Luca Pisaroni (Lorenzo Da Ponte) and Rihab Chaieb (Wolfgang Amadeus Mozart) in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+<figcaption>Luca Pisaroni (Young Lorenzo Da Ponte) and Rihab Chaieb (Wolfgang Amadeus Mozart) in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
@@ -61,7 +61,7 @@ Mezzo [Rihab Chaieb](/scene/people/rihab-chaieb/) with great ability to sustain 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556668894/media/2019/05/HGOThePhoenixPhotographerLynnLane-123.jpg){{% /md %}}
 
-<figcaption>(l-r) Rihab Chaieb (Nancy Da Ponte) and Luca Pisaroni (Lorenzo Da Ponte) with the Houston Grand Opera Chorus in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+<figcaption>(l-r) Rihab Chaieb (Nancy Da Ponte) and Luca Pisaroni (Young Lorenzo Da Ponte) with the Houston Grand Opera Chorus in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
