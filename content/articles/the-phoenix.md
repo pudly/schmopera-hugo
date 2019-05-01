@@ -31,7 +31,7 @@ Although the bilingual English-Italian libretto (effortlessly switching between 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556669003/media/2019/05/HGOThePhoenixPhotographerLynnLane-69.jpg){{% /md %}}
 
-<figcaption> in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+<figcaption>Thomas Hampson (Lorenzo Da Ponte) in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
@@ -71,7 +71,7 @@ The music was generally aroused much interest in terms of its varied characteriz
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556668816/media/2019/05/HGOThePhoenixPhotographerLynnLane-134.jpg){{% /md %}}
 
-<figcaption>(l-r) Elizabeth Sutphen (Anna Morichilli), Luca Pisaroni (Lorenzo Da Ponte), and Lauren Snouffer (Brigida Banti) in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+<figcaption>(l-r) Elizabeth Sutphen (Anna Morichilli), Luca Pisaroni (Young Lorenzo Da Ponte), and Lauren Snouffer (Brigida Banti) in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
@@ -81,7 +81,7 @@ However, in arousing such an issue, he also makes the valid point: "What is the 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556668828/media/2019/05/HGOThePhoenixPhotographerLynnLane-205.jpg){{% /md %}}
 
-<figcaption>Luca Pisaroni, (Lorenzo da Ponte/"Enzo") and Thomas Hampson (Lorenzo Da Ponte) in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+<figcaption>Luca Pisaroni, (Lorenzo da Ponte Jr./"Enzo") and Thomas Hampson (Lorenzo Da Ponte) in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
@@ -89,7 +89,7 @@ Who knew that a librettist from one of the oldest republics in the world would e
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556668840/media/2019/05/HGOThePhoenixPhotographerLynnLane-228.jpg){{% /md %}}
 
-<figcaption>(l-r) Luca Pisaroni, (Lorenzo da Ponte/"Enzo"), Thomas Hampson (Lorenzo Da Ponte), and Rihab Chaieb (Nancy Da Ponte) in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+<figcaption>(l-r) Luca Pisaroni, (Lorenzo da Ponte Jr./"Enzo"), Thomas Hampson (Lorenzo Da Ponte), and Rihab Chaieb (Nancy Da Ponte) in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
