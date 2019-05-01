@@ -12,8 +12,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "In short, if this opera causes such a heady discussion about how best to fertilize our soil with culture, philosophy, and the pursuit of authentic enlightenment, it certainly deserves not only the reviews that will surely come up about it, but a whole book of Platonic dialogues as well!"
-slug = "multi-faceted-success-hgos-the-phoenix"
-title = "Multi-faceted success: HGO's The Phoenix"
+slug = "multifaceted-success-hgos-the-phoenix"
+title = "Multifaceted success: HGO's The Phoenix"
 youtube_url = ""
 
 +++
