@@ -59,9 +59,9 @@ Shelton played the roles of the aforementioned Bishop of Ceneda who baptizes Lor
 
 Mezzo [Rihab Chaieb](/scene/people/rihab-chaieb/) with great ability to sustain cantabile line portrayed several roles of her own, including the caricaturishly foul-mouthed and fiery young Wolfgang Mozart, though such a snapshot can inevitably only capture one side of this composer, notable for his ill-disguised envy of the success of Italians like Salieri on the stage. Chaieb also portrayed Da Ponte's wife, Nancy, during her motherhood of several of his children, in an affecting manner, focusing on their collaboration during the American years of hardship, as well as Maria Malibran, somehow involved in this quixotic metatheatrical venture. The inevitable consequence, regrettably, of the focus on biography was the fact that the female characters were rather in the background much of the time, often playing the role of ciphers with names, though vocally very active.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556668894/media/2019/05/HGOThePhoenixPhotographerLynnLane-123.jpg){{% /md %}}
 
-<figcaption> in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+<figcaption>(l-r) Rihab Chaieb (Nancy Da Ponte) and Luca Pisaroni (Lorenzo Da Ponte) with the Houston Grand Opera Chorus in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
@@ -69,9 +69,9 @@ While [Lauren Snouffer](/scene/people/lauren-snouffer/) and Elizabeth Sutphen we
 
 The music was generally aroused much interest in terms of its varied characterization, pacing, and texture as well as fluency of forward movement. Though this opera has passages resembling arias, they are more in the form of dramatic monologues, with frequent interjections by other characters, and never losing their connection to the outside action. Indeed, O'Regan is very skilled at juxtaposing many different concurrent situations at once, in a manner which people love observing about Mozartian ensembles. One particular example was Da Ponte giving the male chorus an Italian lesson while his wife gave the women's chorus a French one. Though O'Regan's music in the concerted choral numbers had a tendency to sound generically Disney-like, it did show a certain brilliance in orchestration, though Maestro Patrick Summers did have some great difficulty reining in the ensemble in the most jubilant moments.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556668816/media/2019/05/HGOThePhoenixPhotographerLynnLane-134.jpg){{% /md %}}
 
-<figcaption> in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+<figcaption>(l-r) Elizabeth Sutphen (Anna Morichilli), Luca Pisaroni (Lorenzo Da Ponte), and Lauren Snouffer (Brigida Banti) in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
@@ -79,7 +79,7 @@ O'Regan's renowned command of _a cappella_ choral writing was very much in high 
 
 However, in arousing such an issue, he also makes the valid point: "What is the United States of America but a bunch of non-English speakers vying to assimilate alongside British colonists?" Iconic among these being President Van Buren, chief executive at the time of Da Ponte's death and a native Dutch speaker.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556668766/media/2019/04/HGO%20-%20The%20Phoenix%20-%20Photographer%20Lynn%20Lane-205.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556668828/media/2019/05/HGOThePhoenixPhotographerLynnLane-205.jpg){{% /md %}}
 
 <figcaption>Luca Pisaroni, (Lorenzo da Ponte/"Enzo") and Thomas Hampson (Lorenzo Da Ponte) in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
@@ -87,7 +87,7 @@ However, in arousing such an issue, he also makes the valid point: "What is the 
 
 Who knew that a librettist from one of the oldest republics in the world would end up in a land itself eventually enduring the divide between Jackson and Clay over just what the Founders' democratic ideal might imply? At least we might all agree with Da Ponte's thesis towards the end that "without art, America will die."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556668621/media/2019/04/HGO%20-%20The%20Phoenix%20-%20Photographer%20Lynn%20Lane-228.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556668840/media/2019/05/HGOThePhoenixPhotographerLynnLane-228.jpg){{% /md %}}
 
 <figcaption>(l-r) Luca Pisaroni, (Lorenzo da Ponte/"Enzo"), Thomas Hampson (Lorenzo Da Ponte), and Rihab Chaieb (Nancy Da Ponte) in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
