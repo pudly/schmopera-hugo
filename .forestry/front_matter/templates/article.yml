@@ -13,6 +13,15 @@ fields:
   description: Friendly URL for article (name-of-article)
   config:
     required: true
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: 
 - type: list
   name: author
   label: Author(s)
