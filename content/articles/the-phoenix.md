@@ -1,6 +1,7 @@
 +++
 author = ["authors/andrew-schneider.md"]
 categories = "Review"
+date = "2019-04-30T04:00:00+00:00"
 disclaimer = ""
 image_gallery = []
 postamble = "_The Phoenix_ runs at Houston Grand Opera through May 10. For details and tickets, [click here](https://www.houstongrandopera.org/thephoenix)."
