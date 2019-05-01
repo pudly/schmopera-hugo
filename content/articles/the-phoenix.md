@@ -2,15 +2,14 @@
 author = ["authors/andrew-schneider.md"]
 categories = "Review"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "_The Phoenix_ runs at Houston Grand Opera through May 10. For details and tickets, [click here](https://www.houstongrandopera.org/thephoenix)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1556668566/media/2019/04/sqHGOThePhoenixPhotographerLynnLane-110.jpg"
 primary_image_credit = "Rihab Chaieb as Wolfgang Amadeus Mozart in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane."
-related_articles = []
+related_articles = ["articles/talking-with-singers-luca-pisaroni.md", "articles/talking-with-singers-thomas-hampson.md"]
 related_companies = []
-related_people = []
+related_people = ["scene/people/elizabeth-sutphen.md", "scene/people/chad-shelton.md", "scene/people/lauren-snouffer.md", "scene/people/rihab-chaieb.md", "scene/people/luca-pisaroni.md", "scene/people/thomas-hampson.md"]
 short_description = "In short, if this opera causes such a heady discussion about how best to fertilize our soil with culture, philosophy, and the pursuit of authentic enlightenment, it certainly deserves not only the reviews that will surely come up about it, but a whole book of Platonic dialogues as well!"
 slug = "multifaceted-success-hgos-the-phoenix"
 title = "Multifaceted success: HGO's The Phoenix"
