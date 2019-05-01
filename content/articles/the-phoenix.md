@@ -19,9 +19,9 @@ youtube_url = ""
 +++
 Houston Grand Opera's world premiere of Tarik O’Regan's _The Phoenix_ effectively showcased how an opera's success can increase in direct proportion to the variety of messages it might impart. Finding one single way of looking at this thought-provoking work is extremely challenging, but then, a biographer's task often approaches this level of difficulty in the challenge of finding one single way of telling a figure's life story in a sufficiently all-encompassing manner to be compared with Chernow, Thayer, or McCullough.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556669123/media/2019/05/HGOThePhoenixPhotographerLynnLane-28.jpg){{% /md %}}
 
-<figcaption> in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+<figcaption>(l-r) Luca Pisaroni (Lorenzo Da Ponte Jr./"Enzo"), Elizabeth Sutphan (Faustina), Thomas Hampson (Lorenzo Da Ponte), and Lauren Snouffer (Giulietta) in The Phoenix, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
