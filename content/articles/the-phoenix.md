@@ -67,6 +67,8 @@ Mezzo [Rihab Chaieb](/scene/people/rihab-chaieb/) with great ability to sustain 
 
 While [Lauren Snouffer](/scene/people/lauren-snouffer/) and Elizabeth Sutphen were extremely gifted at playing Da Ponte's nieces (as well as his mistresses in flashback moments), and had several coarse moments where they could poke the ribs of the current American political establishment to gratify liberal sentiment, they were otherwise just doing things backstage much of the time, but always with portamento and roulades, as well as the occasional affecting lullaby.
 
+>I would generally say, ironically, that this composer shows himself to be considerably better at setting Italian than English.
+
 The music was generally aroused much interest in terms of its varied characterization, pacing, and texture as well as fluency of forward movement. Though this opera has passages resembling arias, they are more in the form of dramatic monologues, with frequent interjections by other characters, and never losing their connection to the outside action. Indeed, O'Regan is very skilled at juxtaposing many different concurrent situations at once, in a manner which people love observing about Mozartian ensembles. One particular example was Da Ponte giving the male chorus an Italian lesson while his wife gave the women's chorus a French one. Though O'Regan's music in the concerted choral numbers had a tendency to sound generically Disney-like, it did show a certain brilliance in orchestration, though Maestro Patrick Summers did have some great difficulty reining in the ensemble in the most jubilant moments.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556668816/media/2019/05/HGOThePhoenixPhotographerLynnLane-134.jpg){{% /md %}}
@@ -76,6 +78,8 @@ The music was generally aroused much interest in terms of its varied characteriz
 </figure>
 
 O'Regan's renowned command of _a cappella_ choral writing was very much in high relief in several moments in this production, particularly at the death of Joseph II and Mozart in quick succession, and at Da Ponte's naturalization ceremony, which sported an accurate 24-star United States flag. I would generally say, ironically, that this composer shows himself to be considerably better at setting Italian than English for some reason, though it cannot be denied that this could have been an intentional choice in regard to the characters being non-native English speakers.
+
+>It certainly deserves not only the reviews that will surely come up about it, but a whole book of Platonic dialogues as well!
 
 However, in arousing such an issue, he also makes the valid point: "What is the United States of America but a bunch of non-English speakers vying to assimilate alongside British colonists?" Iconic among these being President Van Buren, chief executive at the time of Da Ponte's death and a native Dutch speaker.
 
