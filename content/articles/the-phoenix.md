@@ -47,6 +47,8 @@ The magisterial [Thomas Hampson](/talking-with-singers-thomas-hampson/) plays th
 
 The vibrant and [Luca Pisaroni](/talking-with-singers-luca-pisaroni/) played his son, Enzo, but also doubled as the younger, eager, brooding Da Ponte during the course of the first act, which takes on the form of a picaresque adventure during which he meets so many vibrant characters who provide the impetus of his journey. They frequently engage in dialogue across the generations, but in no moment quite as affecting as one time in the Susquehanna River Valley where Enzo and Da Ponte come across a newspaper clipping showing that _Don Giovanni_ was a success, but with no mention of Mozart, let alone him, and where these two engage in existentialist contemplation.
 
+>Mezzo [Rihab Chaieb](/scene/people/rihab-chaieb/) with great ability to sustain cantabile line portrayed several roles of her own, including the caricaturishly foul-mouthed and fiery young Wolfgang Mozart.
+
 Many of the characters who represented the character of patron were played by tenor [Chad Shelton](/scene/people/chad-shelton/), who felt curiously out of his element in these character tenor roles, which were written in a very low register which sounded uncomfortable. Few, if any, were the sustained and declamatory high-note moments in which this tenor would be manifestly more comfortable. It is as if Tarik O'Regan thinks that all tenors are character tenors and that none are the heroic or lyric ones of old.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556668941/media/2019/05/HGOThePhoenixPhotographerLynnLane-104.jpg){{% /md %}}
