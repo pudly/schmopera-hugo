@@ -27,6 +27,8 @@ Houston Grand Opera's world premiere of Tarik O'Regan's _The Phoenix_ effectivel
 
 The text of this work, by John Caird, presents an ingenious solution: a play-within-a-play version of the life of Lorenzo da Ponte, the Italian librettist who, it turns out, was active in so many different spheres besides writing the text to the operatic masterworks of the great Mozart. In this way, the great Venetian intends to establish New York's first opera house in 1832 by raising money with this theatrical performance. Here he is presented as a roguish intellectual with revolutionary, anti-monarchist tendencies who found himself fending off creditors and political repression at every opportunity.
 
+>What he might have lacked in sheer force, he more than made up for in acting prowess and an energetic disposition which showcased his lust for life.
+
 Although the bilingual English-Italian libretto (effortlessly switching between the two) has a way of being extremely detailed and pandering to American stereotypes of certain character archetypes (in the manner of many a Showtime television drama), nevertheless, it very ably probes the question of da Ponte's life as one of identity, which is constantly in flux, as he reinvents himself constantly (in the manner of _Così_'s "Arabian phoenix") throughout his odyssey of travel throughout the world.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1556669003/media/2019/05/HGOThePhoenixPhotographerLynnLane-69.jpg){{% /md %}}
