@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/werther.md
 - content/articles/the-phoenix.md
 - content/articles/verdi-chorus.md
 - content/articles/the-mikado-in-the-white-house.md
