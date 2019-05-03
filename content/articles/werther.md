@@ -13,8 +13,8 @@ related_articles = []
 related_companies = ["scene/companies/florida-grand-opera.md"]
 related_people = ["scene/people/dimitri-pittas.md", "scene/people/daniela-mack.md"]
 short_description = "short"
-slug = "werther"
-title = "Werther"
+slug = "a-dismal-opera-werther"
+title = "A dismal opera: Werther"
 youtube_url = ""
 
 +++
