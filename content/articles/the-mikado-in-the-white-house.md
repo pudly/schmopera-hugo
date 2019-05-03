@@ -1,16 +1,15 @@
 +++
 author = ["authors/loren-lester.md"]
 categories = "Review"
-date = ""
+date = "2019-05-02T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Performances of Bronx Opera's _The Mikado_ conclude May 4 at 7:30 and May 5 at 2:30, with alternating casts. For details, [click here](http://bronxopera.org/2019-season/)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1556848153/media/2019/05/sqBronxDSC_6229.jpg"
-primary_image_credit = ""
+primary_image_credit = "Bronx Opera's production of The Mikado, 2019. Photo: Vincent Jones II."
 related_articles = []
-related_companies = []
+related_companies = ["scene/companies/bronx-opera.md"]
 related_people = []
 short_description = "Although meant to generate laughs at the expense of privileged white people, it's extremely difficult today to present this show, even as gently written as it is, without entering dangerous racist waters."
 slug = "the-mikado-in-the-white-house"
