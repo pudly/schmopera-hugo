@@ -40,6 +40,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/evan-kardon.md
 - content/scene/people/elizabeth-sutphen.md
 - content/scene/people/andrea-lett.md
 - content/scene/people/kirsten-chambers.md
