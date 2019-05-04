@@ -20,7 +20,7 @@ youtube_url = ""
 +++
 **How is it different to do a recital than a whole opera?**
 
-A recital doesn’t have nearly as many elements as an opera. There are no costume changes and no fittings. The orchestra is usually behind you rather than in front of you. In an opera, you might be on stage for an entire scene for 30 or 40 minutes. At a concert, you sing one aria, and then there might be someone else with you, or you could walk off the stage.
+A recital doesn't have nearly as many elements as an opera. There are no costume changes and no fittings. The orchestra is usually behind you rather than in front of you. In an opera, you might be on stage for an entire scene for 30 or 40 minutes. At a concert, you sing one aria, and then there might be someone else with you, or you could walk off the stage.
 
 It's not that one is easier than the other because it is still the same amount of opera singing. Each has its own challenges. For instance, you’re not carrying the entire show all night in an opera. You're usually there with other colleagues. It's more of a group effort. In a concert, it's usually just you and the orchestra. The focus is on what you're doing all the time. It's a different beast. It's being more aware of yourself in your body and realizing that there isn't anything else that's attracting attention. The audience is constantly focused on you and they're watching every little detail. If you're doing something that makes you look uncomfortable, it is going to make the audience feel uncomfortable too. I like both but they’re completely different experiences.
 
@@ -52,9 +52,9 @@ My family wasn't from a musical background. My uncle was a music teacher, but no
 
 **You're well known for singing in _Moby Dick_, and you've sung other music by Jake Heggie. You've also just released a recording of bel canto songs. Those are very different.**
 
-It's a lot different. When you are doing not just bel canto, but Puccini and Verdi also, you don't have any reference from the composer except for notes that he wrote or stories that other people wrote about working with the composer or conductor, about what they understood it should mean. 
+It's a lot different. When you are doing not just bel canto, but Puccini and Verdi also, you don't have any reference from the composer except for notes that he wrote or stories that other people wrote about working with the composer or conductor, about what they understood it should mean.
 
-With _Moby Dick_ and contemporary music, it's completely different to have the composer there. You can talk to him about it and know exactly what he wants. You can say you're interpreting something in a certain way because it's what the composer wanted. There isn't room for an opinion except maybe the first time you collaborate, and something is uncomfortable or wrong. 
+With _Moby Dick_ and contemporary music, it's completely different to have the composer there. You can talk to him about it and know exactly what he wants. You can say you're interpreting something in a certain way because it's what the composer wanted. There isn't room for an opinion except maybe the first time you collaborate, and something is uncomfortable or wrong.
 
 Having the composer there is very valuable. Jake Heggie explained his music. There's less reading into the history of the composer and more reading into the history of the story. When you do Verdi or Puccini, you have to read into both, the history of the composer and the history of the story. You also have to look at conductors who conducted premieres of those pieces and see how they interpreted them because if they interpreted the premiere, they must have worked with the composer. There's a lot more research involved in doing an older piece than in doing a newer piece.
 
