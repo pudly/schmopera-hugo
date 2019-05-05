@@ -4,14 +4,14 @@ categories = "Review"
 date = "2019-05-02T04:00:00+00:00"
 disclaimer = ""
 image_gallery = []
-postamble = ""
+postamble = "Florida Grand Opera's production of _Werther_ runs through May 11. For details and ticket information, [click here](https://tickets.fgo.org/Tickets/EventDetails.aspx?id=1721). "
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1557073295/media/2019/05/sqFGOWertherMG_7455.jpg"
 primary_image_credit = "Dimitri Pittas in the title role of Werther, Florida Grand Opera, 2019. Photo: Daniel Azoulay."
 related_articles = []
 related_companies = ["scene/companies/florida-grand-opera.md"]
-related_people = ["scene/people/dimitri-pittas.md", "scene/people/daniela-mack.md"]
-short_description = "short"
+related_people = ["scene/people/evan-kardon.md", "scene/people/dimitri-pittas.md", "scene/people/daniela-mack.md"]
+short_description = "The effect was darkly whimsical and visually captivating, allowing the drama to unravel within a framework of fiction – well-suited to the opera's poetic exaggerations and high-flying emotions."
 slug = "a-dismal-opera-werther"
 title = "A dismal opera: Werther"
 youtube_url = ""
