@@ -38,9 +38,11 @@ We usually get together with the music director of the concert, and the other si
 
 Then, we'll each individually program our arias. In this program, a lot of them are arias I've sung before and some are things I haven't. This time, I've programmed some _Madama Butterfly_ pieces so I can sing them before I do the opera \[at the New National Theater in Tokyo in June\] right after the concert.
 
+>"You can always take something from what you're listening to and use it somewhere else."
+
 **Is there a different relationship with the audience in a recital than in a full-length opera?**
 
-In a recital setting, depending on the size of the theater, it's a more intimate relationship because you can see the audience members. In an opera production, the lighting effects make the audience darker, and you don’t see much past the conductor. In the instance of a concert, you can usually see the faces of the people in the audience. That can be great. It helps you get your point across more easily because you can have direct contact with the audience. Sometimes though, it can throw you off if you catch someone talking or texting. It can be a double-edged sword. Each is an opportunity to share music with an audience in completely different forms. They're completely different but I get the same gratification from each.
+In a recital setting, depending on the size of the theater, it's a more intimate relationship because you can see the audience members. In an opera production, the lighting effects make the audience darker, and you don't see much past the conductor. In the instance of a concert, you can usually see the faces of the people in the audience. That can be great. It helps you get your point across more easily because you can have direct contact with the audience. Sometimes though, it can throw you off if you catch someone talking or texting. It can be a double-edged sword. Each is an opportunity to share music with an audience in completely different forms. They're completely different but I get the same gratification from each.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557186493/media/2019/05/StephenCostello-pcMerriCyr.jpg){{% /md %}}
 
@@ -52,7 +54,9 @@ In a recital setting, depending on the size of the theater, it's a more intimate
 
 When I started singing, I realized there was something about it that gave me a personal connection. The voice is your instrument and that makes it personal. No two voices are the same. They don't have the same sound, the same color, nor the same projection. Every voice is unique and individual by itself.
 
-It makes for a really exciting career. You're always meeting different people and seeing different things. It's like going to a museum where you don’t see any two paintings that are the same. I was a trumpet player for years. Opera still gives me a really great chance to collaborate with instrumentalists. At the same time, I get to work with other actors who may not be singing in a production. It's an opportunity to work with all the different art forms acting, dance, instrumentalists. There are so many different elements in it that I get a lot of satisfaction from.
+>"I was comfortable with classical music, but it took me a while to get comfortable with it as a vocal art."
+
+It makes for a really exciting career. You're always meeting different people and seeing different things. It's like going to a museum where you don't see any two paintings that are the same. I was a trumpet player for years. Opera still gives me a really great chance to collaborate with instrumentalists. At the same time, I get to work with other actors who may not be singing in a production. It's an opportunity to work with all the different art forms acting, dance, instrumentalists. There are so many different elements in it that I get a lot of satisfaction from.
 
 I was probably around 18 or 19 when I started to work on voice, right after high school. I started with musical theater, but I wasn't a voice student. I just liked singing. I lived in Philadelphia and came from a middle-class American family. Languages weren't a thing. We were completely American. I wasn't comfortable with opera at first because of all those other aspects. I didn't know Italian nor French. I had worked on it a little bit in school but not enough to think I would ever be singing an entire opera in a foreign language. It intimidated me.
 
@@ -62,11 +66,7 @@ Because I had played trumpet since middle school and also a little bit in colleg
 
 My family wasn't from a musical background. My uncle was a music teacher, but not a professional musician. My mom and dad listened to music, not necessarily classical but all the different types of music. My sister was also in the orchestra, but she was doing it as an extracurricular activity.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption></figcaption>
-
-</figure>
+>"It's weird how I have a relationship to the music even though I grew up in Northeast Philadelphia."
 
 **You're well known for singing in _Moby Dick_, and you've sung other music by Jake Heggie. You've also just released a recording of bel canto songs. Those are very different.**
 
@@ -84,7 +84,7 @@ I would like to do more French repertoire, like Werther or Hoffmann in the futur
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557186516/media/2019/05/StephenCostello-pc-SimonPauly.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Photo: Simon Pauly.</figcaption>
 
 </figure>
 
@@ -92,10 +92,10 @@ I would like to do more French repertoire, like Werther or Hoffmann in the futur
 
 In my off time, I come home. My wife Yoon and I live in NY. She plays violin in the orchestra of the Metropolitan Opera. I don't get enough of a chance to see her and I'm hardly ever at home.
 
-I love coming home and spending time with her and together discovering different areas of the city. I've only been in NYC for one and one half years. I love finding restaurants that I might not have known. Recently, we've been watching a lot of cooking shows, like Master Chef and Hell's Kitchen, the Gordon Ramsay shows. It's been fun for us to try to recreate the dishes that we see on the shows. In NY, it's even more fun because you can get everything delivered to your door.
+I love coming home and spending time with her and together discovering different areas of the city. I've only been in NYC for one and one half years. I love finding restaurants that I might not have known. Recently, we've been watching a lot of cooking shows, like _Master Chef_ and _Hell's Kitchen_, the Gordon Ramsay shows. It's been fun for us to try to recreate the dishes that we see on the shows. In NY, it's even more fun because you can get everything delivered to your door.
 
 If we see something, rather than writing it down and trying to remember to get it at the store later, in the ten minutes that we've seen it we can post an order to have it delivered and taste it right away. We also have a cocker spaniel Pebbles, who's getting on in age. He's 15 years old and spending time with him is important for us.
 
 **What kind of music do you listen to during your down time?**
 
-I listen to all kinds of music – classical, pop, jazz, Broadway – everything. You can always take something from what you're listening to and use it somewhere else. You shouldn't be snobbish about the music that you listen to. Even now, there are some things that I still don't understand fully, and social media can play a role. Watching how people use it, what it is that makes one person more famous than another person, why people like this music over that other music. If you have a chance, I think it's important to follow everything and keep an open mind.
+I listen to all kinds of music – classical, pop, jazz, Broadway – everything. You can always take something from what you're listening to and use it somewhere else. You shouldn't be snobbish about the music that you listen to. Even now, there are some things that I still don't understand fully, and social media can play a role. Watching how people use it, what it is that makes one person more famous than another person, why people like this music over that other music? If you have a chance, I think it's important to follow everything and keep an open mind.
