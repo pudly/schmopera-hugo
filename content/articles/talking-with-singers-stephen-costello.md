@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = "Stephen Costello and Stephen Powell present _One Amazing Night_ on May 15 at the Balboa Theatre. For details and tickets, [click here](https://www.sdopera.org/season/2018-2019-season/one-amazing-night-2019)."
 preamble = "San Diego Opera is presenting [_One Amazing Night_](https://www.sdopera.org/season/2018-2019-season/one-amazing-night-2019) on May 15, 2019 at the Balboa Theater in San Diego with two American operatic stars, tenor Stephen Costello and baritone Stephen Powell. I had the opportunity to ask Stephen Costello some questions a few weeks before the recital while he was still busy singing the role of Alfredo Germont in _La Traviata_ at New York's Metropolitan Opera."
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1557186341/media/2019/05/sqStephenCostello-pc-SimonPauly.jpg"
+primary_image_credit = "Photo: Simon Pauly"
 related_articles = ["articles/talking-with-singers-clay-hilley.md", "articles/talking-with-singers-eleazar-rodriguez.md", "articles/talking-with-singers-stephen-powell.md"]
 related_companies = ["scene/companies/san-diego-opera.md"]
 related_people = ["scene/people/stephen-powell.md", "scene/people/stephen-costello.md"]
@@ -26,9 +26,9 @@ It's not that one is easier than the other because it is still the same amount o
 
 Of course, in an opera, you have a lot more time for rehearsals. The dress rehearsal is a chance to run the show in its entirety, as if it were a performance. In a concert, you usually don't get the opportunity to do that, especially if it's a concert of arias as opposed to a concert of an opera.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557186361/media/2019/05/SDORegiment012313.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Stephen Costello as Tonio in The Daughter of the Regiment, San Diego Opera, January-February 2013. Photo by J. Katarzyna Woronowicz.</figcaption>
 
 </figure>
 
