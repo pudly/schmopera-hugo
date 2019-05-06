@@ -42,9 +42,9 @@ Then, we'll each individually program our arias. In this program, a lot of them 
 
 In a recital setting, depending on the size of the theater, it's a more intimate relationship because you can see the audience members. In an opera production, the lighting effects make the audience darker, and you don’t see much past the conductor. In the instance of a concert, you can usually see the faces of the people in the audience. That can be great. It helps you get your point across more easily because you can have direct contact with the audience. Sometimes though, it can throw you off if you catch someone talking or texting. It can be a double-edged sword. Each is an opportunity to share music with an audience in completely different forms. They're completely different but I get the same gratification from each.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557186493/media/2019/05/StephenCostello-pcMerriCyr.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Photo: Merri Cyr.</figcaption>
 
 </figure>
 
@@ -82,7 +82,7 @@ I'm getting a stride in my life that I'm enjoying. I don't know if I want to pla
 
 I would like to do more French repertoire, like Werther or Hoffmann in the future. I just did my first Don José this past year. I really like the French repertoire. There's something about it that I can relate to very well. It makes me feel comfortable. It's odd because I don't have a French background. It's weird how I have a relationship to the music even though I grew up in Northeast Philadelphia. I've always felt comfortable in French. Even as I'm learning it, I can see where it's going, and I understand it. I went to Paris to sing for the first time last year. They invited me back to do more productions, some in French, like _Manon_.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557186516/media/2019/05/StephenCostello-pc-SimonPauly.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
