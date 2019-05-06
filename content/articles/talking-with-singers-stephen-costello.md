@@ -1,7 +1,7 @@
 +++
 author = ["authors/eva-cahen.md"]
 categories = "Interview"
-date = "2019-05-03T04:00:00+00:00"
+date = "2019-05-06T04:00:00+00:00"
 disclaimer = ""
 image_gallery = []
 postamble = "Stephen Costello and Stephen Powell present _One Amazing Night_ on May 15 at the Balboa Theatre. For details and tickets, [click here](https://www.sdopera.org/season/2018-2019-season/one-amazing-night-2019)."
