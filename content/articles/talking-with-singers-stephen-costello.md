@@ -26,6 +26,12 @@ It's not that one is easier than the other because it is still the same amount o
 
 Of course, in an opera, you have a lot more time for rehearsals. The dress rehearsal is a chance to run the show in its entirety, as if it were a performance. In a concert, you usually don't get the opportunity to do that, especially if it's a concert of arias as opposed to a concert of an opera.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 **How do you program the repertoire for a recital?**
 
 We usually get together with the music director of the concert, and the other singer, in this case with Stephen Powell. We'll program some pieces that we can do together.
@@ -35,6 +41,12 @@ Then, we'll each individually program our arias. In this program, a lot of them 
 **Is there a different relationship with the audience in a recital than in a full-length opera?**
 
 In a recital setting, depending on the size of the theater, it's a more intimate relationship because you can see the audience members. In an opera production, the lighting effects make the audience darker, and you don’t see much past the conductor. In the instance of a concert, you can usually see the faces of the people in the audience. That can be great. It helps you get your point across more easily because you can have direct contact with the audience. Sometimes though, it can throw you off if you catch someone talking or texting. It can be a double-edged sword. Each is an opportunity to share music with an audience in completely different forms. They're completely different but I get the same gratification from each.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 **Why do you sing?**
 
@@ -50,6 +62,12 @@ Because I had played trumpet since middle school and also a little bit in colleg
 
 My family wasn't from a musical background. My uncle was a music teacher, but not a professional musician. My mom and dad listened to music, not necessarily classical but all the different types of music. My sister was also in the orchestra, but she was doing it as an extracurricular activity.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 **You're well known for singing in _Moby Dick_, and you've sung other music by Jake Heggie. You've also just released a recording of bel canto songs. Those are very different.**
 
 It's a lot different. When you are doing not just bel canto, but Puccini and Verdi also, you don't have any reference from the composer except for notes that he wrote or stories that other people wrote about working with the composer or conductor, about what they understood it should mean.
@@ -62,7 +80,13 @@ Having the composer there is very valuable. Jake Heggie explained his music. The
 
 I'm getting a stride in my life that I'm enjoying. I don't know if I want to plan too far in advance.
 
-I would like to do more French repertoire, like Werther or Hoffmann in the future. I just did my first Don José this past year. I really like the French repertoire. There's something about it that I can relate to very well. It makes me feel comfortable. It's odd because I don't have a French background. It's weird how I have a relationship to the music even though I grew up in Northeast Philadelphia. I've always felt comfortable in French. Even as I'm learning it, I can see where it's going, and I understand it. I went to Paris to sing for the first time last year. They invited me back to do more productions, some in French, like Manon.
+I would like to do more French repertoire, like Werther or Hoffmann in the future. I just did my first Don José this past year. I really like the French repertoire. There's something about it that I can relate to very well. It makes me feel comfortable. It's odd because I don't have a French background. It's weird how I have a relationship to the music even though I grew up in Northeast Philadelphia. I've always felt comfortable in French. Even as I'm learning it, I can see where it's going, and I understand it. I went to Paris to sing for the first time last year. They invited me back to do more productions, some in French, like _Manon_.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 **You have a very busy and exciting performance schedule. What do you do to unwind?**
 
