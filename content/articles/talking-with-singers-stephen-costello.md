@@ -37,7 +37,7 @@ We usually get together with the music director of the concert, and the other si
 
 Then, we'll each individually program our arias. In this program, a lot of them are arias I've sung before and some are things I haven't. This time, I've programmed some _Madama Butterfly_ pieces so I can sing them before I do the opera \[at the New National Theater in Tokyo in June\] right after the concert.
 
->"You can always take something from what you're listening to and use it somewhere else."
+> "You can always take something from what you're listening to and use it somewhere else."
 
 **Is there a different relationship with the audience in a recital than in a full-length opera?**
 
@@ -53,11 +53,17 @@ In a recital setting, depending on the size of the theater, it's a more intimate
 
 When I started singing, I realized there was something about it that gave me a personal connection. The voice is your instrument and that makes it personal. No two voices are the same. They don't have the same sound, the same color, nor the same projection. Every voice is unique and individual by itself.
 
->"I was comfortable with classical music, but it took me a while to get comfortable with it as a vocal art."
+> "I was comfortable with classical music, but it took me a while to get comfortable with it as a vocal art."
 
 It makes for a really exciting career. You're always meeting different people and seeing different things. It's like going to a museum where you don't see any two paintings that are the same. I was a trumpet player for years. Opera still gives me a really great chance to collaborate with instrumentalists. At the same time, I get to work with other actors who may not be singing in a production. It's an opportunity to work with all the different art forms acting, dance, instrumentalists. There are so many different elements in it that I get a lot of satisfaction from.
 
 I was probably around 18 or 19 when I started to work on voice, right after high school. I started with musical theater, but I wasn't a voice student. I just liked singing. I lived in Philadelphia and came from a middle-class American family. Languages weren't a thing. We were completely American. I wasn't comfortable with opera at first because of all those other aspects. I didn't know Italian nor French. I had worked on it a little bit in school but not enough to think I would ever be singing an entire opera in a foreign language. It intimidated me.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557266767/media/2019/05/SDOFaustCostello.jpg){{% /md %}}
+
+<figcaption>Stephen Costello in the title role of Faust, San Diego Opera, 2011. Photo courtesy of San Diego Opera.</figcaption>
+
+</figure>
 
 When I sang an aria for the first time, and an art song, I knew what it felt like to sing so I was comfortable with it. But I was uncomfortable with getting the language right. It's important to start where you're comfortable so you can experiment with it and get a feeling with how the voice feels. I loved musical theater and I went on from there. I got introduced to a teacher in college and in turn, he introduced me to the recordings of Fritz Wunderlich. I listened to his interpretations and that's what gave me the motivation to get into classical music. The intellectual aspect made it interesting to work on it. It related back to my trumpet playing.
 
@@ -65,7 +71,7 @@ Because I had played trumpet since middle school and also a little bit in colleg
 
 My family wasn't from a musical background. My uncle was a music teacher, but not a professional musician. My mom and dad listened to music, not necessarily classical but all the different types of music. My sister was also in the orchestra, but she was doing it as an extracurricular activity.
 
->"It's weird how I have a relationship to the music even though I grew up in Northeast Philadelphia."
+> "It's weird how I have a relationship to the music even though I grew up in Northeast Philadelphia."
 
 **You're well known for singing in _Moby Dick_, and you've sung other music by Jake Heggie. You've also just released a recording of bel canto songs. Those are very different.**
 
