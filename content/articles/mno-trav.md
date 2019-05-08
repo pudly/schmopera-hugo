@@ -3,7 +3,6 @@ author = ["authors/callie-cooper.md"]
 categories = "Review"
 date = "2019-05-08T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "[_La traviata_]( https://my.mnopera.org/events?view=list2.67559505.1144286402.1557108489-1809359702.1556996509) runs until May 19 at the Ordway Center in St. Paul."
 preamble = ""
@@ -13,8 +12,8 @@ related_articles = []
 related_companies = ["scene/companies/minnesota-opera.md"]
 related_people = ["scene/people/joo-won-kang.md", "scene/people/jesus-leon.md", "scene/people/nicole-cabell.md"]
 short_description = "Violetta's most vulnerable moments were during the overtures behind a scrim. In the initial overture Violetta was seen revving herself up for the party between coughing fits, and before the final act Violetta dreams that Alfredo is still with her."
-slug = "mno-trav"
-title = "MNO Trav"
+slug = "sanitized-tragedy-la-traviata-in-minnesota"
+title = "Sanitized tragedy: La traviata in Minnesota"
 youtube_url = ""
 
 +++
