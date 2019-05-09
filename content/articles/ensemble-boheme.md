@@ -26,7 +26,9 @@ John Caird's Toulouse Lautrec-inspired production of _La bohème_ is a good vehi
 
 The whole thing seemed very _This Is Your Life_. The stage was filled not just with so-called young artists, but with the current faces of Canada's opera scene. It was a very welcome thing to hear Haji's Rodolfo and Craighead's Colline; both singers have spent years with these roles, and they sound beautifully ingrained and organic. MacNaughton is a riot onstage, and it's good to be reminded of that.
 
-The four Ensemble Studio singers all took on roles that might have seemed, at first thought, like an odd fit; yet they spent the night convincing me otherwise. Chan showed 
+The four Ensemble Studio singers all took on roles that might have seemed, at first thought, like an odd fit; yet they spent the night convincing me otherwise. Chan filled out the space in Puccini's writing with lovely line, and Allison lent a stoic side to Schaunard. Margison's Mimì was spacious and honest, and she avoided the easy traps of trying to push out more sound than she has. Eberwein was a more layered Musetta than I've seen before, slightly more self-conscious, as though she pep talks herself into her hunt for Marcello.
+
+ 
 
 \#OperaForToronto
 
