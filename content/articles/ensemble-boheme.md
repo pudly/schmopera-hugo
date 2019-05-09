@@ -26,7 +26,7 @@ John Caird's Toulouse Lautrec-inspired production of _La bohème_ is a good vehi
 
 The whole thing seemed very _This Is Your Life_. The stage was filled not just with so-called young artists, but with the current faces of Canada's opera scene. It was a very welcome thing to hear Haji's Rodolfo and Craighead's Colline; both singers have spent years with these roles, and they sound beautifully ingrained and organic. MacNaughton is a riot onstage, and it's good to be reminded of that.
 
-The four Ensemble Studio singers all took on roles that, on first thought, seemed like an odd fit. 
+The four Ensemble Studio singers all took on roles that might have seemed, at first thought, like an odd fit; yet they spent the night convincing me otherwise. Chan showed 
 
 \#OperaForToronto
 
