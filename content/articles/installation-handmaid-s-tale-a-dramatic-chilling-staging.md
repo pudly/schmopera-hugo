@@ -21,7 +21,7 @@ Whenever an opera is presented outside of the typical proscenium format, I think
 
 This production of _Handmaid's Tale_ was staged in a basketball court, stylized with an arena-style seating arrangement which stared on the action from three different angles. (The only remaining angle was where the rather large orchestra was situated.) The effect, as with BLO's recent production of _Rape of Lucretia_, was to focus the action on everything happening in the center of the whole affair.
 
->All of this pizazz in the production could have gone to waste on substandard material: however, this was decidedly not the case here.
+>All of this pizzazz in the production could have gone to waste on substandard material: however, this was decidedly not the case here.
 
 However, unlike _Lucretia_, this production of _Handmaid's Tale_ had no height above the audience, and all of the action played out in a rather small rectangle in the center of the venue which was surrounded on all four sides by chest-high walls. This kind of tight, arena-style staging amplified the themes present in Margaret Atwood's dystopian novel to a new, incredibly visceral level: the arena seating brought a voyeuristic feel to the whole affair, and the result made the action in the center of the arena claustrophobic and stifling in a way that would have been lost in a traditional proscenium staging.
 
@@ -39,7 +39,7 @@ The attention to detail even extends to how the show's few set pieces were moved
 
 >I cannot imagine that preparing for a role such as Offred is particularly easy by any stretch of the imagination.
 
-All of this pizazz in the production could have gone to waste on substandard material: however, this was decidedly not the case here. Music director David Angus called _Handmaid's Tale_ one of the finest operas in the last thirty years, and I would be inclined to agree with this assessment. In the first place, the atonal musical language always feels like it's a split second away from exploding in a flurry of violence, whether it be a "wrong" note in the chordal material or something that doesn't sound quite right in the orchestration.
+All of this pizzazz in the production could have gone to waste on substandard material: however, this was decidedly not the case here. Music director David Angus called _Handmaid's Tale_ one of the finest operas in the last thirty years, and I would be inclined to agree with this assessment. In the first place, the atonal musical language always feels like it's a split second away from exploding in a flurry of violence, whether it be a "wrong" note in the chordal material or something that doesn't sound quite right in the orchestration.
 
 Ruders' choice of musical identity for each part of the story also adds to the world-building of Gilead: he makes frequent use of all kinds of liturgical music ranging from Gregorian-style chant to directly quoting _Amazing Grace_ to highlight just how trapped the handmaids are in this theocratic dystopia, and his use of other genres from jazz to minimalism similarly amplifies the setting and timeline of the story's events as they happen. He has a motif on the recurring phrase "under the Eye" which is sung by two singers where one singer always drops a minor second so that it feels like they are under watch by forces beyond their control.
 
