@@ -24,7 +24,9 @@ Each year, the COC sets aside a night to show off the young artists of the Ensem
 
 John Caird's Toulouse Lautrec-inspired production of _La bohème_ is a good vehicle for COC Ensemble Studio members Samuel Chan (Marcello), Joel Allison (Schaunard), Lauren Margison (Mimì), and Lauren Eberwein (Musetta); also onstage were Ensemble graduates Andrew Haji (Rodolfo), Neil Craighead (Colline), and Doug MacNaughton (Benoît/Alcindoro).
 
-The whole thing seemed very _This Is Your Life_. The stage was filled not just with so-called young artists, but with the current faces of Canada's opera scene. It was a very welcome thing to hear Haji's Rodolfo, and Craighead's Colline, 
+The whole thing seemed very _This Is Your Life_. The stage was filled not just with so-called young artists, but with the current faces of Canada's opera scene. It was a very welcome thing to hear Haji's Rodolfo and Craighead's Colline; both singers have spent years with these roles, and they sound beautifully ingrained and organic. MacNaughton is a riot onstage, and it's good to be reminded of that.
+
+The four Ensemble Studio singers all took on roles that 
 
 \#OperaForToronto
 
