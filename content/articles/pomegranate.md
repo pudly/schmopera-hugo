@@ -29,6 +29,8 @@ I self-published the poems under the title _Pomegranate_ and began selling, and 
 
 Kye Marshall and I are members of Yorkville's Heliconian Club, an interestingly named women's arts club formed in 1909 in response to the exclusion of women from Toronto's Arts & Letters Club. Mount Helicon in ancient Greece was said to be a haunt of the Muses. When Kye approached me about setting the Pomegranate poems to music I was thrilled, because I have always admired her skills as a cellist and composer. We presented the beginnings of _Pomegranate_ as five songs at the Heliconian for International Women's Day in 2014.
 
+>"The Pomegranate story shows the power of romantic connection that can absorb two people and make them oblivious to the larger issues surrounding them."
+
 Our audience loved the presentation, so, with the inspiration of the Muses and audience applause, we took a leap into the opera world and began expanding the plot of Act I, and created a second and somewhat parallel act situated in a downtown lesbian bar in 1980s Toronto. The inspiration for Act II came from our mutual experience of 1980s Toronto – a time of political turbulence and revolutionary change for the lesbian and gay communities; and a time in which, unlike today, there were many lesbian bars with a clandestine atmosphere similar to the Villa of Mysteries – places where we could take refuge and feel free to be our true selves.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557425024/media/2019/05/Amanda%20by%20Pyx%20-%20Copy.jpg){{% /md %}}
@@ -52,6 +54,8 @@ In the score I have created for _Pomegranate_ I use an eclectic mix of classical
 ## What does this story have to say about human nature and romantic relationships?
 
 **Amanda:** The _Pomegranate_ story shows the power of romantic connection that can absorb two people and make them oblivious to the larger issues surrounding them. Or, even when the lovers are aware of life's challenges – trying to live within families and communities with different values, required to manoeuvre their way through the differences – their sexual and emotional connection is the stronger pull, and can carry them above it all. In this particular case it shows how lovers can be so deeply bonded that they remain loyal to each other across huge time spans and are once again drawn together, even without recognizing why, just acting on instinct. That strange feeling that you have known someone before, even though you've just met; that you are picking up on something uncompleted.
+
+>"I would like people to feel their hearts opened by this tender love story and by the courage, loyalty, and vulnerability of the young women trying to make their way, together or apart, in a wounded world."
 
 The story demonstrates the old saying, _plus ça change, plus la même chose_. It shows that conflict is inherent to the human condition, operating not only within each individual, but within the societies we have created, rife with conflict as an animating, though often destructive force. Our lives are a struggle to resolve conflict but, according to the direction a particular society has taken in a specific time, conflict is in fact what animates us and keeps us in a perpetual state of dialectical struggle.
 
