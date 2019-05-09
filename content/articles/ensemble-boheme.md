@@ -22,6 +22,8 @@ The Canadian Opera Company's production of _La bohème_ has been running smoothl
 
 Each year, the COC sets aside a night to show off the young artists of the Ensemble Studio; historically, these have been as a gala-type showcase or a special production of their own. Last year's foray into the gala format didn't really do it for me, so I was pleased to see the COC return to what seems like the best option: a unique performance of an ongoing mainstage production, cast as thoroughly as possible with young artists.
 
+COC Ensemble Studio members Samuel Chan, Joel Allison, Lauren Margison, and Lauren Eberwein 
+
 \#OperaForToronto
 
 * cast filled with young artists, and faces of Toronto
