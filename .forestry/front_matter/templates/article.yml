@@ -116,9 +116,9 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/pomegranate.md
 - content/articles/installation-handmaid-s-tale-a-dramatic-chilling-staging.md
 - content/articles/ensemble-boheme.md
-- content/articles/pomegranate.md
 - content/articles/werther.md
 - content/articles/mno-trav.md
 - content/articles/faust.md
