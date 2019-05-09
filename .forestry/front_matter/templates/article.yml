@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/ensemble-boheme.md
 - content/articles/pomegranate.md
 - content/articles/werther.md
 - content/articles/mno-trav.md
