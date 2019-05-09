@@ -28,12 +28,6 @@ The whole thing seemed very _This Is Your Life_. The stage was filled not just w
 
 The four Ensemble Studio singers all took on roles that might have seemed, at first thought, like an odd fit; yet they spent the night convincing me otherwise. Chan filled out the space in Puccini's writing with lovely line, and Allison lent a stoic side to Schaunard. Margison's Mimì was spacious and honest, and she avoided the easy traps of trying to push out more sound than she has. Eberwein was a more layered Musetta than I've seen before, slightly more self-conscious, as though she pep talks herself into her hunt for Marcello.
 
-In my own experience with these Ensemble-centre performances, the thing to marvel at is how the artists deal with the unique pressure. Often with many cooks in the proverbial kitchen, the preparation for this single show can last all season
+In my own experience with these Ensemble-centre performances, the thing to marvel at is how the artists deal with the unique pressure. Often with many cooks in the proverbial kitchen, the preparation for this single show can last all season; it's a disproportionate lead-up to a one-time event that demands 
 
 \#OperaForToronto
-
-* cast filled with young artists, and faces of Toronto
-* everyone sounds fab, four guys are all singing well
-* this is your life, opera edition
-* the COC historically makes a whole thing out of these shows, too many cooks, disproportional prep for a single show
-* Neil and Joel a hoot to watch in Act II
