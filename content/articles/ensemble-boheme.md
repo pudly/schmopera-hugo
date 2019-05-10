@@ -53,4 +53,4 @@ The four Ensemble Studio singers all took on roles that might have seemed, at fi
 
 In my own experience with these Ensemble-centre performances, the thing to marvel at is how the artists deal with the unique pressure. The preparation for this single show can stretch over an entire season, with input from the multiple teachers and coaches who come to work with the young artists throughout the year. With so many cooks in the kitchen, these performances can be a disproportionately high-stakes lead-up to an event that demands confidence and a clear head.
 
-In that regard - and in the great singing - this _La bohème_ was a success. It seemed an appropriate, all-encompassing farewell to the 2018/19 season, to collect Toronto's operatic talent onto one stage.
+In that regard - and in the great singing - this _La bohème_ was a success. It seemed an appropriate, all-encompassing farewell to the 2018-19 season, to collect Toronto's operatic talent onto one stage.
