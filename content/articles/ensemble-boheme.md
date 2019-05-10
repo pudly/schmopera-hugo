@@ -8,12 +8,12 @@ postamble = "The Canadian Opera Company's production of [_La bohème_](https://w
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1557447038/media/2019/05/sq18-19-05-E-MC-D-0779.jpg"
 primary_image_credit = "(l-r) Samuel Chan as Marcello and Andrew Haji as Rodolfo in the Canadian Opera Company’s production of La Bohème (Opera for Toronto, 2019), photo: Michael Cooper."
-related_articles = []
+related_articles = ["articles/ensemble-studio-shines-in-a-lackluster-evening.md"]
 related_companies = []
-related_people = []
+related_people = ["scene/people/doug-macnaughton.md", "scene/people/neil-craighead.md", "scene/people/lauren-eberwein.md", "scene/people/joel-allison.md", "scene/people/samuel-chan.md", "scene/people/andrew-haji.md", "scene/people/lauren-margison.md"]
 short_description = "The preparation for this single show can stretch over an entire season, with input from the multiple teachers and coaches who come to work with the young artists throughout the year."
-slug = "ensemble-boheme"
-title = "Ensemble Boheme"
+slug = "a-very-canadian-la-boheme-the-latest-in-opera-for-toronto"
+title = "A very Canadian La bohème: the latest in Opera for Toronto"
 youtube_url = ""
 
 +++
