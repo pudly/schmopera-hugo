@@ -4,10 +4,10 @@ url: "/featured/"
 type: featured
 layout: list
 articles:
-- articles/4-tips-for-when-there-are-too-many-notes.md
-- articles/operas-sexual-assault-secret.md
+- articles/quick-tips-the-rolled-r-test.md
+- articles/singers-its-time-to-expand-your-dating-pool.md
+- articles/5-ways-being-a-background-actor-helps-your-singing.md
 - articles/stop-shaming-adele.md
-- articles/talking-with-singers-nina-stemme.md
-- articles/talking-with-singers-lucas-meachem.md
+- articles/operas-sexual-assault-secret.md
 
 ---
