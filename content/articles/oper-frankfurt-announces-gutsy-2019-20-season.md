@@ -32,9 +32,9 @@ _Otello_, _La gazzetta_, and _Bianca e falliero_ (G. Rossini)
 
 Three new productions of unknown Rossini operas in one season? Oh boy. Maybe it's a shot at redemption for last season's _I puritani_ directed by Vincent Boussard, which, despite a loaded cast, was interminable. Now Boussard is out of the picture and Rossini has replaced Bellini. Add to the mix soprano Elizabeth Sutphen and other excellent Frankfurt regulars and it's a trilogy to look forward to.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557701121/media/2019/05/GrigorianAsmik-pc-AlgirdasBakas.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Soprano Askim Grigorian, singing Manon Lescaut at Oper Frankfurt, 2019. Photo: Algirdas Bakas.</figcaption>
 
 </figure>
 
