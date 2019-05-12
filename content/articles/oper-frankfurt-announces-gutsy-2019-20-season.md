@@ -32,6 +32,12 @@ _Otello_, _La gazzetta_, and _Bianca e falliero_ (G. Rossini)
 
 Three new productions of unknown Rossini operas in one season? Oh boy. Maybe it's a shot at redemption for last season's _I puritani_ directed by Vincent Boussard, which, despite a loaded cast, was interminable. Now Boussard is out of the picture and Rossini has replaced Bellini. Add to the mix soprano Elizabeth Sutphen and other excellent Frankfurt regulars and it's a trilogy to look forward to.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 _Manon Lescaut_ (G. Puccini)
 
 After a taste of the gutsy soprano Asmik Grigorian ([International Opera Award](http://www.operaawards.org/archive/2019/)'s Best Female Singer 2019) in Tchaikovsky's one-act [_Iolanta_](/the-follies-of-modernization-oedipus-rex-iolanta/) last season, I (and the rest of the Oper Frankfurt audience) hoped she'd be back in a role that allowed her to stretch out and wail away. Lucky for us, she's taking on the epic lead in _Manon Lescaut_, one of the most punishing (and thrilling) soprano roles in the repertoire.
@@ -46,6 +52,12 @@ Baritone Christopher Maltman has had an ideal career trajectory. After years as 
 
 Barrie Kosky, whose beloved _Carmen_ is back after selling out its entire 2018-19 run, brings a new _Salome_ to Frankfurt, starring Amber Braid and Maltman. It's surely the most anticipated production of the season.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 ## Recitals
 
 The 2019-20 series is replete with big names in opera including current MET stars Pretty Yende and Peter Mattei, and Frankfurt favorites [Jakub Józef Orliński](https://www.newyorker.com/magazine/2019/02/18/the-dizzying-democratization-of-baroque-music) and John Osborn. However the recital I'm most looking forward to is Florian Boesch's. The rich-voiced baritone is in league with Matthias Goerne and Dietrich Henschel as one of the great Lieder interpreters of the modern era.
@@ -54,11 +66,17 @@ The 2019-20 series is replete with big names in opera including current MET star
 
 _Carmen_ (G. Bizet)
 
-It's premature to call it timeless, but Barrie Kosky's _Carmen_ is aging well. It was the most popular revival of 2018-19 and should sell out again this coming season. Particularly exciting is the addition of Gordon Bitner as the toreador Escamillo. The baritone has a deliberate elegance to his movement and effortless blooming high notes. In other words, he's made for the role.
+It's premature to call it timeless, but Barrie Kosky's _Carmen_ is aging well. It was the most popular revival of 2018-19 and should sell out again this coming season. Particularly exciting is the addition of Gordon Bintner as the toreador Escamillo. The baritone has a deliberate elegance to his movement and effortless blooming high notes. In other words, he's made for the role.
 
 _Don Giovanni_ (W.A. Mozart)
 
 This stark psychological production debuted with a baritone possessing similar qualities in the title role, the cerebral Christian Gerhaher. Now, Bintner takes the lead (for half of the run) joined by Božidar Smiljanić (Leporello), who demonstrated his startlingly facile instrument in smaller roles last season.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 Křenek: _Three Short Operas_
 
