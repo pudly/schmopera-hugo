@@ -22,19 +22,43 @@ I have to admit it: I'm a bit obsessed with _Tosca_. Of all the performances I'v
 
 To me, _Tosca_ is just about a perfect piece of theater. I think it's funny that it often gets dismissed as absurdly over-the-top melodrama, especially in this moment in time when _Game of Thrones_ is so wildly popular, and the latest _Avengers_ instalment is the highest grossing movie in theaters. Don't we crave these kinds of stories? Stories about political intrigue, love, lust, sex, rape, torture, murder, suicide? _Tosca_ is par for the course nowadays.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption> in Tosca, Washington National Opera, 2019. Photo: Scott Suchman.</figcaption>
+
+</figure>
+
 I think that's also why so few stage directors feel the need to "mess" with _Tosca_. The action unfolds in a way that is so tight, and the story is so timelessly relevant, with its noble political prisoners railing against a violently corrupt government official, there's really no need to add your own "spin." That which makes a good production of _Tosca_ comes town to detail - not just as it applies to the historical setting among three very specific actual places that you can visit in Rome (just ask any opera lover who has stood on the ramparts of Castel Sant'Angelo shouting "O Scarpia! Avanti a Dio!") but in the verismo character painting. And this brings me to WNO's production directed exquisitely by Ethan McSweeny. The slice-of-life detailing of McSweeny's production makes even the supernumeraries seem like authentic priests, choir boys, nuns, countesses, merchants, servants, soldiers. Under McSweeny's direction, even the soloists whose acting chops aren't as strong fail to pull you out of the world which he has so vividly painted.
 
 As the painter, political dissident, and Tosca's doomed lover Cavaradossi, [Riccardo Massi](/scene/people/riccardo-massi/) was one such example of a weaker actor, whose over-the-top facial takes, and gestures border on camp, but he more than makes up for it with his lusty, open-throated singing. Massi's voice is old-school, like the great Italian tenors of the past, and is ideal for the role, in spite of the fact that his singing was all sort of evenly fortissimo, it's just so thrilling to listen to that I can't bring myself to care.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption> in Tosca, Washington National Opera, 2019. Photo: Scott Suchman.</figcaption>
+
+</figure>
+
 In her curtain speech, WNO artistic director Francesca Zambello took care to point out that the title role would be sung by [Keri Alkema](/talking-with-singers-keri-alkema/), a member of the very first class of the company’s Domingo-Cafritz Young Artist Program. As Tosca, Alkema does the program proud, skillfully tackling this challenging role which calls for delicate and then declamatory singing, and intense, emotionally taxing acting. Alkema is a world-class Tosca, charming the audience in the act one duet, before ripping their hearts out in act two, navigating the extreme vocal passages where Tosca desperately pleads for mercy, and then, yes, stopping time.
 
 Those first two, iconic, unforgettable descending vocal lines of "Vissi d'arte" seem to arise from nothing, sung in a tissue-paper delicate pianissimo. Alkema achieves something that is so rare in performances of this well-known aria: subtlety. Her prayer rolls out of her mouth softly, in a way that makes the words seem new, as if I hadn't heard them sung a thousand times before, by two dozen other sopranos.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption> in Tosca, Washington National Opera, 2019. Photo: Scott Suchman.</figcaption>
+
+</figure>
 
 This exquisite rendering of the diva's anguished prayer makes it all the more viscerally compelling when the she finally delivers "Tosca's kiss" to the villainous Scarpia with a chest voice that made me want to hoot and fist pump.
 
 In the third act, Alkema played a Tosca who was visibly shaken by the trauma of the previous scene, a Tosca who dared not hope for a happy ending, and ultimately, a Tosca with nothing to lose. Alkema's beautifully nuanced performance is more than worth the trip to the Kennedy Center, and that's before accounting for the luxury casting of [Alan Held](/scene/people/alan-held/) as the despicable Scarpia.
 
 Held leaves no doubt as to who's in charge when his Scarpia enters a room. He moves slowly, when he moves at all. People come to him. The only one who seems to have any power over him is Tosca, when she holds out her arms for him to place her shawl over her shoulders, in a gesture of playacting civility. When he sings "Va! Tosca" his voice booms over the swelling orchestra with the ease you would expect from a highly respected Wotan, and as he proclaims "Tosca, me fai dimenticare Iddio!" the church set disappears in a bit of stage magic to leave Scarpia and the chorus standing in empty blackness.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption> in Tosca, Washington National Opera, 2019. Photo: Scott Suchman.</figcaption>
+
+</figure>
 
 The WNO orchestra is conducted by Speranza Scappucci who expertly brings out all the colors of Puccini's paintbrush, and the tempos never lag or become overly lugubrious as they so often do in Puccini.
 
