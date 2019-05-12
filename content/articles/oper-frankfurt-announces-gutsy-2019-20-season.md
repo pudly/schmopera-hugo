@@ -52,9 +52,9 @@ Baritone Christopher Maltman has had an ideal career trajectory. After years as 
 
 Barrie Kosky, whose beloved _Carmen_ is back after selling out its entire 2018-19 run, brings a new _Salome_ to Frankfurt, starring Ambur Braid and Maltman. It's surely the most anticipated production of the season.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557701658/media/2019/05/Orlinsky-OperFrankfurt-Rinaldo.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Jakub Józef Orliński in the title role of Rinaldo, Oper Frankfurt 2017. Photo: Barbara Aumüller.</figcaption>
 
 </figure>
 
