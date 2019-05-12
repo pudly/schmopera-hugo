@@ -20,11 +20,11 @@ youtube_url = ""
 +++
 ## New productions
 
-_Pénèlope_ (G. Fauré)
+_Pénèlope_ (G. Fauré) - Dec. 1, 2019-Jan. 23, 2020
 
 Fauré is an idiosyncratic, anti-dramatic composer whose work depends on subtlety. How will his music fare on the opera stage, which can reward boldness over taste? If there's a single moment that matches the blissful sequencing melodies of his [C minor piano quintet](https://open.spotify.com/track/0IhLPNXylgvhKl52xPYFWw?si=952MdnZnQMuYuM6JzWpOdw), the exuberant, shifting harmonies of [_La bonne chanson_](https://open.spotify.com/track/6WGI7vfAff6nQfDplJmShI?si=ebntffUiQriH_Ys-iyd75g), or the austere, mercurial shapeshifting of his [late songs](https://open.spotify.com/track/5Y6wIlK5h53WviiQOH3U1i?si=mK4SA5BTSxC2aQAeesbRrQ), it'll be a worthwhile evening at the opera.
 
-_Tamerlano_ (G.F. Händel)
+_Tamerlano_ (G.F. Händel) - Nov. 7-24, 2019
 
 [R.B. Schlather](/feminist-truths-the-mother-of-us-all/) directs a new production of _Tamerlano_ featuring the fastidious countertenor Lawrence Zazzo in the title role. Händel opera is director fodder and Schlather's open-hearted approach should undergird the work's enormous stakes with full-fleshed humanity.
 
@@ -38,19 +38,19 @@ Three new productions of unknown Rossini operas in one season? Oh boy. Maybe it'
 
 </figure>
 
-_Manon Lescaut_ (G. Puccini)
+_Manon Lescaut_ (G. Puccini) - Oct. 6-Nov. 23, 2019
 
 After a taste of the gutsy soprano Asmik Grigorian ([International Opera Award](http://www.operaawards.org/archive/2019/)'s Best Female Singer 2019) in Tchaikovsky's one-act [_Iolanta_](/the-follies-of-modernization-oedipus-rex-iolanta/) last season, I (and the rest of the Oper Frankfurt audience) hoped she'd be back in a role that allowed her to stretch out and wail away. Lucky for us, she's taking on the epic lead in _Manon Lescaut_, one of the most punishing (and thrilling) soprano roles in the repertoire.
 
-_Lady Macbeth of the Mtsensk District_ (D. Shostakovich)
+_Lady Macbeth of the Mtsensk District_ (D. Shostakovich) - Nov. 3-Dec. 12, 2019
 
 As far as I'm concerned, the more Shostakovich the better. The composer belongs to a group of masters – including Scriabin and Chopin – whose work reaches vocal music devotee's ears far less than it should. _Lady Macbeth_'s explosive score teems with a pathos that lives up to its fascinating offstage history of censorship under Stalin.
 
-_Salome_ (R. Strauss)
+_Salome_ (R. Strauss) - Mar. 1-Apr. 13, 2020
 
 Baritone Christopher Maltman has had an ideal career trajectory. After years as a leading interpreter of Mozart, art song and other repertoire generous to the developing voice, Maltman has transitioned to heavy duty rep like Jochanaan and Rigoletto (also in repertory this season).
 
-Barrie Kosky, whose beloved _Carmen_ is back after selling out its entire 2018-19 run, brings a new _Salome_ to Frankfurt, starring Amber Braid and Maltman. It's surely the most anticipated production of the season.
+Barrie Kosky, whose beloved _Carmen_ is back after selling out its entire 2018-19 run, brings a new _Salome_ to Frankfurt, starring Ambur Braid and Maltman. It's surely the most anticipated production of the season.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
