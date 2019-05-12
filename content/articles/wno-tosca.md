@@ -36,7 +36,7 @@ In the third act, Alkema played a Tosca who was visibly shaken by the trauma of 
 
 Held leaves no doubt as to who's in charge when his Scarpia enters a room. He moves slowly, when he moves at all. People come to him. The only one who seems to have any power over him is Tosca, when she holds out her arms for him to place her shawl over her shoulders, in a gesture of playacting civility. When he sings "Va! Tosca" his voice booms over the swelling orchestra with the ease you would expect from a highly respected Wotan, and as he proclaims "Tosca, me fai dimenticare Iddio!" the church set disappears in a bit of stage magic to leave Scarpia and the chorus standing in empty blackness.
 
-The WNO orchestra is conducted by Speranza Scapucci who expertly brings out all the colors of Puccini's paintbrush, and the tempos never lag or become overly lugubrious as they so often do in Puccini.
+The WNO orchestra is conducted by Speranza Scappucci who expertly brings out all the colors of Puccini's paintbrush, and the tempos never lag or become overly lugubrious as they so often do in Puccini.
 
 A few other stand-outs deserve a mention. Bass Wei Wu plays a loveable Sacristan, with a warmth of tone and charming characterization. Tenor David Cangelosi's Spoletta is more than just the one-dimensional thug usually found in Tosca productions, did I catch a few glimpses of doubt about carrying out Scarpia's dirty deeds? Finally, treble Holden Browne sang the Shepherd Boy's song beautifully with a crisp, clear tone, opening the third act completely alone on the enormous stage, something that is difficult for even the most seasoned veteran performers.
 
