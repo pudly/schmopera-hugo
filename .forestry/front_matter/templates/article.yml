@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/scene/people/asmik-grigorian.md
 - content/articles/oper-frankfurt-announces-gutsy-2019-20-season.md
 - content/articles/wno-tosca.md
 - content/articles/ensemble-boheme.md
