@@ -60,15 +60,15 @@ Barrie Kosky, whose beloved _Carmen_ is back after selling out its entire 2018-1
 
 ## Recitals
 
-The 2019-20 series is replete with big names in opera including current MET stars Pretty Yende and Peter Mattei, and Frankfurt favorites [Jakub Józef Orliński](https://www.newyorker.com/magazine/2019/02/18/the-dizzying-democratization-of-baroque-music) and John Osborn. However the recital I'm most looking forward to is Florian Boesch's. The rich-voiced baritone is in league with Matthias Goerne and Dietrich Henschel as one of the great Lieder interpreters of the modern era.
+The 2019-20 series is replete with big names in opera including current MET stars Pretty Yende and Peter Mattei, and Frankfurt favorites [Jakub Józef Orliński](https://www.newyorker.com/magazine/2019/02/18/the-dizzying-democratization-of-baroque-music) and John Osborn. However the recital I'm most looking forward to is Florian Boesch's (Feb. 25, 2020). The rich-voiced baritone is in league with Matthias Goerne and Dietrich Henschel as one of the great Lieder interpreters of the modern era.
 
 ## Revivals
 
-_Carmen_ (G. Bizet)
+_Carmen_ (G. Bizet) - Jan. 31-Mar. 7, 2020
 
 It's premature to call it timeless, but Barrie Kosky's _Carmen_ is aging well. It was the most popular revival of 2018-19 and should sell out again this coming season. Particularly exciting is the addition of Gordon Bintner as the toreador Escamillo. The baritone has a deliberate elegance to his movement and effortless blooming high notes. In other words, he's made for the role.
 
-_Don Giovanni_ (W.A. Mozart)
+_Don Giovanni_ (W.A. Mozart) - Apr. 24-Jun. 26, 2020
 
 This stark psychological production debuted with a baritone possessing similar qualities in the title role, the cerebral Christian Gerhaher. Now, Bintner takes the lead (for half of the run) joined by Božidar Smiljanić (Leporello), who demonstrated his startlingly facile instrument in smaller roles last season.
 
@@ -78,10 +78,16 @@ This stark psychological production debuted with a baritone possessing similar q
 
 </figure>
 
-Křenek: _Three Short Operas_
+_Three Short Operas_ (Křenek) - Oct. 11-Nov. 1, 2019
 
 Ernst Křenek was an enormously influential composer Bertolt Brecht, Kurt Weil, Marc Blitzstein and others of that era. The integration of modern colloquial idioms, instruments, and ideas into his work led to a grittier realism than verismo ever accomplished. Despite that, you could find a hundred _Street Scenes_ for every _Johnny spielt auf_ and, at least in North America, he remains largely unperformed.
 
-_The Cunning Little Vixen_ (L. Janáček)
+_The Cunning Little Vixen_ (L. Janáček) - May 1-23, 2020
 
 The beloved score bursts with folkloric verve and heady, gut-tumbling lyricism. Two Americans lead the cast: The exuberant soprano Elizabeth Reiter stars in the title role and mezzo-soprano Kelsey Lauritano as her counterpart.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557700326/media/2019/05/NagyMichael-pc-MonikaHoefler.jpg){{% /md %}}
+
+<figcaption>Michael Nagy, singing the Forester in Oper Frankfurt's 2020 production of  Photo: Monika Hoefler.</figcaption>
+
+</figure>
