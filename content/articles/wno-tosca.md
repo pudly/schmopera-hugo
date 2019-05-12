@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "short"
-slug = "wno-tosca"
-title = "WNO Tosca"
+slug = "alkema-a-world-class-tosca-at-wno"
+title = "Alkema a world-class Tosca at WNO"
 youtube_url = ""
 
 +++
