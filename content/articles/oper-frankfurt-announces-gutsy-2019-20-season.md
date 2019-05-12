@@ -72,9 +72,9 @@ _Don Giovanni_ (W.A. Mozart) - Apr. 24-Jun. 26, 2020
 
 This stark psychological production debuted with a baritone possessing similar qualities in the title role, the cerebral Christian Gerhaher. Now, Bintner takes the lead (for half of the run) joined by Božidar Smiljanić (Leporello), who demonstrated his startlingly facile instrument in smaller roles last season.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557701377/media/2019/05/KoskyCarmen-pc-BarbaraAumueller.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Barrie Kosky's production of Carmen, returning to Oper Frankfurt in 2020. Photo: Barbara Aumüller.</figcaption>
 
 </figure>
 
