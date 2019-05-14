@@ -88,7 +88,7 @@ Matthew Pearce, as Don José, overcomes all this adversity and manages to give a
 
 We, in turn, are forced to give up on this enterprise by the end, much like the small chamber orchestra, which gives way to a full orchestra (pre-recorded) playing Escamillo's famous entrance into the bullring. Or in this case, the splash zone. This is all unfortunate as The West End Theatre at The Church of St. Paul & St. Andrew is a great space for chamber opera. It's a small rotunda with superb acoustics.
 
-_Patience & Sarah_ (1998) has been rediscovered by _Hunter Opera Theater_ and there isn't much in it to justify a revival. Acclaimed more for its subject matter (it was billed as "the first Lesbian opera"), the libretto by Wende Persons (based on a novel by Isabel Miller) doesn't give the title characters any time to develop a relationship.
+_Patience & Sarah_ (1998) has been rediscovered by [Hunter Opera Theater](/scene/companies/hunter-opera-theater/) and there isn't much in it to justify a revival. Acclaimed more for its subject matter (it was billed as "the first Lesbian opera"), the libretto by Wende Persons (based on a novel by Isabel Miller) doesn't give the title characters any time to develop a relationship.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
