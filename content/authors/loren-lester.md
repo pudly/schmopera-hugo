@@ -15,7 +15,10 @@ url = "https://www.facebook.com/actorlorenlester"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/actorLL"
-+++
 
-Loren Lester is an actor, writer and the director of Los Angeles-area productions of
-*Madama Butterfly*, *Aida*, and *Carmen* (starring Suzanna Guzman), *Pagliacci* (both in Los Angeles and in Las Vegas), the Los Angeles premiere of Viktor Ullmann’s *The Emperor of Atlantis*, and the world premiere of the one-act operas Vayero and Khazak V’Hamtaz. Most recently he directed [*La Bohème*](http://bit.ly/2vFyJY8) with the Bangor Symphony Orchestra. Loren has directed numerous musicals and plays, including the award-winning production of T.S. Eliot’s *The Cocktail Party*. He is the writer and director of the musical web series *Let’s Do Lunch!*, and the stage show *It’s Magic: The Music of Doris Day*. Loren is also a book editor, most recently for the memoirs of actor William Daniels (There I Go Again, University of Nebraska Press, 2017). As an actor, Loren is a familiar face with over 40 years of credits, guest-starring on over 200 TV shows (*Curb Your Enthusiasm*, *The Orville*, *Hung*, *Parenthood*, etc.) and in numerous films (*Red Eye*, *Rock ‘N Roll High School*, etc.) Loren is married to singer/actress Kelly Lester and together they have three singer/actress daughters.
++++
+Loren Lester can currently be seen in the National Tour of the Tony-awarding winning Broadway musical, _The Band’s Visit_. Loren is an actor, writer and the director of Los Angeles-area productions of _Madama Butterfly_, _Aida_, and _Carmen_ (starring Suzanna Guzman), _Pagliacci_ (both in Los Angeles and in Las Vegas), the Los Angeles premiere of Viktor Ullmann’s _The Emperor of Atlantis_, and the world premiere of the one-act operas Vayero and Khazak V’Hamtaz.
+
+Most recently he directed _La Bohème_ with the Bangor Symphony Orchestra. Loren has also directed numerous musicals and plays, including the award-winning production of T.S. Eliot’s _The Cocktail Party_. His original plays and musicals include _Will & Bess_ and _A Green Umbrella_. He is also the director of the musical web series _Let’s Do Lunch!_, and the stage show _It’s Magic: The Music of Doris Day_. Loren is also a book editor, most recently for the memoirs of actor William Daniels (_There I Go Again_, University of Nebraska Press, 2017). 
+
+As an actor, Loren is a familiar face with over 40 years of credits, guest-starring in over 200 TV shows (_Curb Your Enthusiasm_, _The Orville_, _Hung_, _Parenthood_, etc.) and in numerous films (_Red Eye_, _Rock ‘N Roll High School_, etc.) Loren is married to singer/actress Kelly Lester and together they have three singer/actress daughters.
