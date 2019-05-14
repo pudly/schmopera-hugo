@@ -46,6 +46,7 @@ fields:
   label: Related People
   name: related_people
 pages:
+- content/scene/companies/little-opera-theatre-of-ny.md
 - content/scene/companies/skylark-opera.md
 - content/scene/companies/opera-fusion.md
 - content/scene/companies/boston-modern-orchestra-project.md
