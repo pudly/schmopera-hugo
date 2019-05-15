@@ -78,7 +78,7 @@ We, in turn, are forced to give up on this enterprise by the end, much like the 
 
 _Patience & Sarah_ (1998) has been rediscovered by [Hunter Opera Theater](/scene/companies/hunter-opera-theater/) and there isn't much in it to justify a revival. Acclaimed more for its subject matter (it was billed as "the first Lesbian opera"), the libretto by Wende Persons (based on a novel by Isabel Miller) doesn't give the title characters any time to develop a relationship.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557879841/media/2019/05/tragediephoto3.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557879863/media/2019/05/image1.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
@@ -90,7 +90,7 @@ Sarah has fled the intolerance in her small Connecticut town dressed as a boy na
 
 When Sarah resists his advances and reveals that she's actually a girl, she says "maybe that's why you were attracted to me." The Parson comically replies, "no, no, no…" Once the Parson is out of the story, however, and Sarah returns home, we're back in the same banal pattern of the lovers trying to get together while being forced apart.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557879686/media/2019/05/image2.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
