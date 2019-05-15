@@ -68,7 +68,7 @@ The singers playfully (or angrily) splash about, shoot each other with squirt gu
 
 Matthew Pearce, as Don José, overcomes all this adversity and manages to give a standout vocal performance at least. Likewise, Young-Kwang Yoo, as Escamillo, treats us to his commanding baritone, although the great toreador here is forced to dress like a boy going on a summer vacation.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557879825/media/2019/05/tragediephoto2.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
@@ -78,7 +78,7 @@ We, in turn, are forced to give up on this enterprise by the end, much like the 
 
 _Patience & Sarah_ (1998) has been rediscovered by [Hunter Opera Theater](/scene/companies/hunter-opera-theater/) and there isn't much in it to justify a revival. Acclaimed more for its subject matter (it was billed as "the first Lesbian opera"), the libretto by Wende Persons (based on a novel by Isabel Miller) doesn't give the title characters any time to develop a relationship.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557879841/media/2019/05/tragediephoto3.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
