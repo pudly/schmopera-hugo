@@ -26,32 +26,26 @@ The piece was centred around the 15 volunteer performers all of whom had aphasia
 
 Where I think the piece struggled though, was in the scene about Ruby Mcdonough portrayed by vocalist/cellist [Héloïse Werner](/talking-with-singers-heloise-werner/). Mcdonough who has aphasia, was assaulted but was denied the opportunity to have the crime prosecuted because of her communication disability. In a historic court case, Mcdonough was able to testify without accommodation and the case eventually went to the supreme court, changing the law for those who have similar struggles. It is a beautiful story to tell but I took issue with the way Werner imitated the disability in an improvised scene during which she stuttered over some text. In other places, the piece showcased the effects of aphasia in a much more effective way.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption></figcaption>
-
-</figure>
-
 Bušs very cleverly made use of the instruments (piano and cello) in a non-traditional way to present an alternative means of communication that does not use words. This included dragging the hands down the back of a cello or over the lid of a piano to create a very evocative squeaking, using horsehair to bow the strings of the piano, and running a tuning fork along the keys of the piano. All of these alternative methods created an eerie and compelling image of a world without words. But the focus on the Ruby Mcdonough switched the focus to sexual assault when it should have been about disability and I think this is where they went wrong.
 
-The second short piece heard was _A Father Looking for His Daughter_ with music by Alex Mills, text by Gareth Mattey and direction by Crispin Lord. Of the three performed, this piece was the most traditionally presented. The story focuses on issues of transgender identity as a father (played by soprano, Ella Taylor) looks for the daughter that was taken from him. A somewhat heavy-handed libretto is softened by Crispin Lord's subtle and sensitive staging which features a range of pre-recorded and live video feed as well as puzzling ceremonial use of sand which he leaves totally up to the audience’s interpretation.
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557941440/media/2019/05/RoughforOpera17-AFatherIsLookingForHisDaughter-ClaireShovelton.jpg){{% /md %}}
 
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption></figcaption>
+<figcaption>A Father Looking for His Daughter, by Alex Mills and Gareth Mattey. Presented at Second Movement's rough for opera #17, 2019. Photo: Claire Shovelton.</figcaption>
 
 </figure>
+
+The second short piece heard was _A Father Looking for His Daughter_ with music by Alex Mills, text by Gareth Mattey and direction by Crispin Lord. Of the three performed, this piece was the most traditionally presented. The story focuses on issues of transgender identity as a father (played by soprano, Ella Taylor) looks for the daughter that was taken from him. A somewhat heavy-handed libretto is softened by Crispin Lord's subtle and sensitive staging which features a range of pre-recorded and live video feed as well as puzzling ceremonial use of sand which he leaves totally up to the audience’s interpretation.
 
 The music was wonderful – captivating and very well prepared. a simple orchestration, Mills used cello, and percussion to accompany the two singers and to evoke the harsh, hot, nebulous plane the piece existed on. The story was somewhat lost on me as the social issues of the piece seemed to take precedence. In this way it felt more like a lecture than a performance and I think it is crucial that in this process of tackling important issues through opera, that we do not loose the sense of magic.
 
 Closing the evening was _Dreaming Clouds_, a short piece from composer Alex Ho and choreographer Julia Cheng. This piece was the least operatic of the night but by far the most emotionally engaged performance. The sacred nature of the performance space was established immediately as the performers entered in darkness and placed their instruments ceremoniously centre stage. The piece explored the basic elements of Chinese opera – dance, martial arts, folksong, and traditional Chinese instrumentation all while exploring themes of identity as a British-Chinese.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557941533/media/2019/05/RoughforOpera17-DreamingClouds-ClaireShovelton.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Dreaming Clouds, by Alex Ho and Julia Cheng. Presented at Second Movement's rough for opera #17, 2019. Photo: Claire Shovelton</figcaption>
 
 </figure>
 
 A work in progress, the piece felt very improvisational, almost as if we were witnessing the process of something coming into existence which was a remarkable experience. Ho hummed folk songs while playing the violin in a style that was imitative of the Chinese horse-head fiddle while Cheng danced, whipping her body across the stage with astonishing agility, drawing a bow string across her throat and keening in an unearthly warble. An opera without words, it will be interesting to see how the subtleties of storytelling begin to emerge as this piece develops.
 
-Scratch nights are a highly successful format in which to see new opera and a fascinating insight into the creative process. Second Movement's commitment to providing these invaluable opportunities is commendable. These pieces in a certain sense felt very far away from what I understand opera to be but maybe that’s ok. We are talking about an indeterminate and everchanging tradition that has been developing for over four hundred years. Perhaps it is time to cast form aside entirely and explore where it is headed for the future.
+Scratch nights are a highly successful format in which to see new opera and a fascinating insight into the creative process. Second Movement's commitment to providing these invaluable opportunities is commendable. These pieces in a certain sense felt very far away from what I understand opera to be but maybe that's ok. We are talking about an indeterminate and ever-changing tradition that has been developing for over four hundred years. Perhaps it is time to cast form aside entirely and explore where it is headed for the future.
