@@ -22,7 +22,7 @@ Some of the things that contribute to the enjoyment of 19th century opera includ
 
 Brooklyn-based Regina Opera has taken on Verdi's _Il Trovatore_ and though they clearly have limited resources, they have staged a first-rate, fully-realized production.  Sandwiched in between _Rigoletto_ and _La Traviata_, _Il Trovatore_ is one of Verdi's most popular works, even though story-wise it's inferior to the other two titles. Most of the action takes place either in the past or offstage, and there is really no subplot. Everyone sings about what happened, and little is in the present-tense. It's a shallow tale about the revenge of the gypsies and it's all about "when," not "if."  The score, on the other hand, is unassailable; vintage Verdi containing some of his most stirring and recognizable melodies (such as "The Anvil Chorus.")
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557882405/media/2019/05/Trovatore-Marianna_Coleman10.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
@@ -32,7 +32,7 @@ Regina Opera has put its money where it counts most.  They’ve hired a 33-piece
 
 Director Linda Lehr has employed simplicity in both her staging and set design, and it all works beautifully, servicing the singers rather than causing an obtuse distraction.  Using subtle colors and symbolism, the construction resembles the skeleton of a prison or cathedral, two important locations for the story. It's also practical - changes are made quickly with the use of hinges or sliders, never interrupting the dramatic flow.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557882432/media/2019/05/Trovatore-CSmith4.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
