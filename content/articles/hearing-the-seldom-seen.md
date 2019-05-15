@@ -24,7 +24,7 @@ The [little OPERA theatre of ny](/scene/companies/little-opera-theatre-of-ny/) (
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557879626/media/2019/05/LOTNY_Owen%20Wingrave_Dress.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Sir Philip (R. Müller) and Mrs. Coyle (J. Hall), with Kate (K. Pracht), Lechmere (B. Holcomb), Mrs. Julian (M. Stewart), Coyle (M. Curran), Miss Wingrave (E. Pulley) and Owen (R. Balonek) looking on in Owen Wingrave, little OPERA theatre of ny, 2019. Photo: Tina Buckman.</figcaption>
 
 </figure>
 
@@ -36,7 +36,7 @@ There he is verbally attacked by his aunt, Miss Wingrave, and two other women wh
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557879638/media/2019/05/LOTNY_Owen%20Wingrave_Dress2.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Otis Asare-Appiah, Mateo Gareza, and Luciano Pantano in Owen Wingrave, little OPERA theatre of ny, 2019. Photo: Tina Buckman.</figcaption>
 
 </figure>
 
@@ -46,7 +46,7 @@ Robert Balonek, as the title character, has a grand baritone. He gives a great p
 
 Soprano Janice Hall plays Mrs. Coyle, who is also sympathetic to Owen's plight, and her voice becomes the warm underside of the cold attack. Tenor Rufus Muller, expertly sings the angry outbursts of the General and then switches gears to become the Narrator of the story, beautifully delivering the most melodious lines.
 
-Powerhouse Soprano Emily Pulley (as Owen's Aunt, Miss Wingrave) is more frightening than any actual demon that might live in the house. Soprano Mary Anne Stewart (as Mrs. Julian) and Mezzo Katherine Pracht (as Kate) are the most villainous.
+Powerhouse Soprano Emily Pulley (as Owen's Aunt, Miss Wingrave) is more frightening than any actual demon that might live in the house. Soprano Mary Anne Stewart (as Mrs. Julian) and mezzo Katherine Pracht (as Kate) are the most villainous.
 
 Ms. Stewart plays the victim-card beautifully while protecting her self-interests, and Ms. Pracht plays the ultimate confederate - pretending to love Owen only to turn on him and force him into the tragic ending of the story. Tenor Bernard Holcomb, as Owen's alleged friend Lechmere, is equally sweet and treacherous.
 
@@ -58,7 +58,7 @@ He kept what only can be described as "Carmen's Greatest Hits." He then replaced
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557879673/media/2019/05/tragedie-photo1.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>La tragédie de Carmen, City Lyric Opera, 2019. Photo courtesy of City Lyric Opera.</figcaption>
 
 </figure>
 
@@ -70,7 +70,7 @@ Matthew Pearce, as Don José, overcomes all this adversity and manages to give a
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557879825/media/2019/05/tragediephoto2.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>La tragédie de Carmen, City Lyric Opera, 2019. Photo courtesy of City Lyric Opera.</figcaption>
 
 </figure>
 
@@ -80,7 +80,7 @@ _Patience & Sarah_ (1998) has been rediscovered by [Hunter Opera Theater](/scene
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557879863/media/2019/05/image1.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Patience & Sarah, Hunter Opera Theater, 2019. Photo courtesy of Hunter Opera Theater.</figcaption>
 
 </figure>
 
@@ -92,7 +92,7 @@ When Sarah resists his advances and reveals that she's actually a girl, she says
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557879686/media/2019/05/image2.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Patience & Sarah, Hunter Opera Theater, 2019. Photo courtesy of Hunter Opera Theater.</figcaption>
 
 </figure>
 
