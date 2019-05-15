@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = "The [New York Opera Fest 2019 line-up](http://nyoperafest.com/2019/) continues through June 30."
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1557879697/media/2019/05/sqRJH7171-2.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
@@ -22,7 +22,7 @@ When an opera isn't revived very often, there's usually a good reason.  Not alwa
 
 The [little OPERA theatre of ny](/scene/companies/little-opera-theatre-of-ny/) (LOTNY), has done some digging and found silver, bringing back to life one of Benjamin Britten's final operas, _Owen Wingrave_ (1971). Originally written for BBC television and mostly forgotten since, it is well worth inclusion in the chamber repertory.  Britten returns to the scene of his greatest success - _The Turn of the Screw_, a ghost story based on a novella by Henry James. _Owen Wingrave_ is also the story of a haunting (also based on a work by Henry James.)  The ghosts in this opera only earn a few passing references, however, and so the dramatic ending isn't quite as frightening as it should be.  It’s one of the flaws in Myfawnwy Piper's rather surface libretto but Britten's music, as always, keeps the whole affair compelling.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557879626/media/2019/05/LOTNY_Owen%20Wingrave_Dress.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
@@ -34,7 +34,7 @@ Britten was a pacifist and this is his anti-war opus. The title character is par
 
 There he is verbally attacked by his aunt, Miss Wingrave, and two other women who have been longtime residents (Mrs. Julian and her daughter Kate.) They are joined by Owen's grandfather (General Sir Philip Wingrave) and soon they are all trying to shame him. They move from outright fury to singing in long, mocking legato lines of Owen's "Scruuuuuuuuples."
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557879638/media/2019/05/LOTNY_Owen%20Wingrave_Dress2.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
@@ -46,21 +46,9 @@ Robert Balonek, as the title character, has a grand baritone. He gives a great p
 
 Soprano Janice Hall plays Mrs. Coyle, who is also sympathetic to Owen's plight, and her voice becomes the warm underside of the cold attack. Tenor Rufus Muller, expertly sings the angry outbursts of the General and then switches gears to become the Narrator of the story, beautifully delivering the most melodious lines.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption></figcaption>
-
-</figure>
-
 Powerhouse Soprano Emily Pulley (as Owen's Aunt, Miss Wingrave) is more frightening than any actual demon that might live in the house. Soprano Mary Anne Stewart (as Mrs. Julian) and Mezzo Katherine Pracht (as Kate) are the most villainous.
 
 Ms. Stewart plays the victim-card beautifully while protecting her self-interests, and Ms. Pracht plays the ultimate confederate - pretending to love Owen only to turn on him and force him into the tragic ending of the story. Tenor Bernard Holcomb, as Owen's alleged friend Lechmere, is equally sweet and treacherous.
-
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption></figcaption>
-
-</figure>
 
 Great operas are, for the most part, in the public domain and so contemporary artists feel free to deconstruct, reconfigure and reimagine these works with no fear of a lawsuit. If Bizet were alive, however, I'm quite sure he would take the creators of _La Tragedie de Carmen_ (1983) to court.
 
@@ -68,7 +56,7 @@ There isn't an opera more beloved (and produced) than Bizet's _Carmen_ and it’
 
 He kept what only can be described as "Carmen's Greatest Hits." He then replaced some truly wonderful music with some truly unnecessary spoken dialogue from non-singing characters (who appeared in the novel that inspired the opera.) In this stripped down and artistically stripped apart rendition, there is no dramatic and sexual tension before or in between the two arias where Carmen first seduces from a distance ("La Habanera") and then up close ("Près des remparts de Seville.") There is no clear-cut answer to the question "Why", but lots of answers to the question "Why, not?"
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557879673/media/2019/05/tragedie-photo1.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
