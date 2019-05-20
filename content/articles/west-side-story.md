@@ -3,18 +3,17 @@ author = ["authors/michael-pecak.md"]
 categories = "Review"
 date = "2019-05-20T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
-postamble = ""
+postamble = "Lyric Opera of Chicago's production of [_West Side Story_](https://www.lyricopera.org/productions/2018-19/west-side-story/) runs through June 2."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1558395347/media/2019/05/sqAmandaCastro_WESTSIDESTORY_LyricOperaofChicago_LYR190502_346.jpg"
 primary_image_credit = "Amanda Castro (Anita) in West Side Story, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg."
-related_articles = []
-related_companies = []
+related_articles = ["articles/beloved-bernstein-hgos-west-side-story.md"]
+related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
 related_people = []
 short_description = "short"
-slug = "west-side-story"
-title = "West Side Story"
+slug = "theres-a-place-for-us-at-locs-west-side-story"
+title = "There's a place for us at LOC's West Side Story"
 youtube_url = ""
 
 +++
@@ -34,7 +33,7 @@ Conductor James Lowe brings to life Bernstein's dazzling score with ebullience a
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1558395571/media/2019/05/AmandaCastro_WESTSIDESTORY_LyricOperaofChicago_LYR190502_349.jpg){{% /md %}}
 
-<figcaption>Amanda Castro (Anita) in West Side Story, Lyric Opera of Chicago, 2019. Photo: </figcaption>
+<figcaption>Amanda Castro (Anita) in West Side Story, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
 </figure>
 
@@ -42,7 +41,7 @@ The trio of lead singer-actors at the heart of this _WSS_ could not have been be
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1558395592/media/2019/05/MikaelaBennett_CoreyCott_WESTSIDESTORY_LyricOperaofChicago_LYR190502_293.jpg){{% /md %}}
 
-<figcaption>Mikaela Bennett (Maria) and Corey Cott (Tony) in West Side Story, Lyric Opera of Chicago, 2019. Photo: </figcaption>
+<figcaption>Mikaela Bennett (Maria) and Corey Cott (Tony) in West Side Story, Lyric Opera of Chicago, 2019. Photo courtesy of Lyric Opera of Chicago.</figcaption>
 
 </figure>
 
@@ -52,23 +51,23 @@ As Maria's sassy and more worldly-wise friend Anita, Amanda Castro was the perfe
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1558395628/media/2019/05/MikaelaBennett_WESTSIDESTORY_LyricOperaofChicago_LYR190502_725.jpg){{% /md %}}
 
-<figcaption>Mikaela Bennett (Maria) in West Side Story, Lyric Opera of Chicago, 2019. Photo: </figcaption>
+<figcaption>Mikaela Bennett (Maria) in West Side Story, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
 </figure>
 
 Other standouts of the evening included Manuel Stark Santos' portrayal of Bernardo as well as Brett Thiele's Riff. Despite his character’s lack of solo number, Santos was brilliant in the role of Maria's doomed brother. Like an old-time gang leader, there was a quiet intensity in his presence that drew one’s attention to whichever part of the stage he occupied. Conversely, Thiele brought an anxious energy to Riff that was at once agonizing and galvanizing. Even though, of course, I knew of this story's roots in _Romeo and Juliet_, I was nonetheless shocked and heartbroken by these characters' deaths in the Rumble scene and then watching the rapid unraveling of Maria and Tony's lives in Act II. It's amazing how all the charm and sweetness of Act I belies the gut-punch of Act II.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1558395650/media/2019/05/CoreyCott_WESTSIDESTORY_LyricOperaofChicago_DR_CU-20.jpg){{% /md %}}
 
-<figcaption> in West Side Story, Lyric Opera of Chicago, 2019. Photo: </figcaption>
+<figcaption>Corey Cott (Tony) in West Side Story, Lyric Opera of Chicago, 2019. Photo courtesy of Lyric Opera of Chicago.</figcaption>
 
 </figure>
 
 As I continue with my musicals education, I can only express the deepest gratitude for ventures like Broadway at Lyric. I love the unique energy and atmosphere at the Lyric Opera House during a musical-theater run. The crowds are always so diverse, vibrant, and yes, youthful—exactly the kind of demographics that big, old-fashioned American opera houses need in this day and age.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1558395661/media/2019/05/WESTSIDESTORY_LyricOperaofChicago_DR_WS27.jpg){{% /md %}}
 
-<figcaption> in West Side Story, Lyric Opera of Chicago, 2019. Photo: </figcaption>
+<figcaption>West Side Story, Lyric Opera of Chicago, 2019. Photo courtesy of Lyric Opera of Chicago.</figcaption>
 
 </figure>
 
