@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/west-side-story.md
 - content/articles/rough-for-opera-17.md
 - content/articles/two-different-servings-from-the-opera-fest-menu.md
 - content/articles/hearing-the-seldom-seen.md
