@@ -24,7 +24,7 @@ Brooklyn-based Regina Opera has taken on Verdi's _Il Trovatore_ and though they 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557882405/media/2019/05/Trovatore-Marianna_Coleman10.jpg){{% /md %}}
 
-<figcaption>Nathan Matticks (Count DiLuna) and Alexis Cregger (Leonora) in Il trovatore, Regina Opera Company, 2019. Photo: Marianna Coleman.{{% /md %}}
+<figcaption>Nathan Matticks (Count DiLuna) and Alexis Cregger (Leonora) in Il trovatore, Regina Opera Company, 2019. Photo: Marianna Coleman.
 
 <figcaption></figcaption>
 
@@ -44,7 +44,7 @@ And oh, is there a lot to love - what a cast. _Herodiade_ was presented at the T
 
 French composer Jules Massenet, best known for _Werther_ and _Manon_, wrote over thirty operas, including _Herodiade_, a very different telling of the Salome story. Unlike the famous Salome by Richard Strauss, _Herodiade_ is not based on the Oscar Wilde play of the same name but on a novel by Gustave Flaubert.  There is no dance of the seven veils here and no lurid attraction to John the Baptist. In this one, John (or Jean) and Salome share a true love story. There are similarities - Herod does lust after Salome, and his wife Herodiade wants Jean's head, but she's motivated by revenge – Jean has denounced her publicly as a Jezebel.  She has, in fact, led a "wicked" life and has been unfaithful to Herod, resulting in the out-of-wedlock Salome (although Herodiade doesn’t know this until the final "it's too late" moment.)
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">
 
 <figcaption></figcaption>
 
