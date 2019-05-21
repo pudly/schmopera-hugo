@@ -3,16 +3,15 @@ author = ["authors/loren-lester.md"]
 categories = "Review"
 date = "2019-05-14T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1558456179/media/2019/05/sqTrovatore.jpg"
+primary_image_credit = "Christopher Trapani (Manrico) and Leonora (Alexis Cregger) in Il trovatore, Regina Opera Company, 2019. Photo: Steven Pisano."
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "Brooklyn-based Regina Opera has taken on Verdi's Il Trovatore and though they clearly have limited resources, they have staged a first-rate, fully-realized production."
 slug = "two-different-servings-from-the-opera-fest-menu"
 title = "Two different servings from the Opera Fest menu"
 youtube_url = ""
@@ -44,12 +43,6 @@ And oh, is there a lot to love - what a cast. _Herodiade_ was presented at the T
 
 French composer Jules Massenet, best known for _Werther_ and _Manon_, wrote over thirty operas, including _Herodiade_, a very different telling of the Salome story. Unlike the famous Salome by Richard Strauss, _Herodiade_ is not based on the Oscar Wilde play of the same name but on a novel by Gustave Flaubert.  There is no dance of the seven veils here and no lurid attraction to John the Baptist. In this one, John (or Jean) and Salome share a true love story. There are similarities - Herod does lust after Salome, and his wife Herodiade wants Jean's head, but she's motivated by revenge – Jean has denounced her publicly as a Jezebel.  She has, in fact, led a "wicked" life and has been unfaithful to Herod, resulting in the out-of-wedlock Salome (although Herodiade doesn’t know this until the final "it's too late" moment.)
 
-<figure data-type="image">
-
-<figcaption></figcaption>
-
-</figure>
-
 Massenet's music is unrelenting.  There are no pianissimo windows where we see the inner thoughts of the characters. Arias might begin on a calm level but very quickly catapult into emotional high notes – and continue that way for three hours (with only one intermission.) Luckily, every voice in this production is glorious and up to the challenge.
 
 As the title character, mezzo Janara Kellerman is every inch a queen, especially a queen who also moonlights as a diva. Her voice rumbles and soars in equal measures. As her husband, King Herode, baritone Jason Duika is the perfect counterpart - male versions of the same qualities. Soprano Marcy Stonikas, as Salome, is nothing short of a siren (as in the hypnotic, mythological sense of the word.)
@@ -57,12 +50,6 @@ As the title character, mezzo Janara Kellerman is every inch a queen, especially
 But it's tenor Errin Duane Brooks (as Jean) who steals the show (after he stops it, numerous times.)  There was a danger – if only imagined – that he might actually damage the delicate plaster and stained-glass windows of the church with his volcanic high notes.
 
 Bass-baritone Isaiah Musik-Ayala (as Phanuel) delivers a powerful aria to open the show and lends great support for the rest of the evening. Soprano Brooklyn Snow and baritone Charles Eaton also deserve mention for their excellence in two smaller roles.
-
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption></figcaption>
-
-</figure>
 
 None of this should indicate that the singers only used their voices. While restricted to their music stands, they were all very much "in the moment." The buried and then explosive fury of Ms. Kellerman, the repressed sexuality of Mr. Duika, the lovelorn Ms. Stonikas – it was all there in their faces. And Mr. Brooks conveyed the judgements of the holier-than-thou Jean with side glances that could wither a large tree.
 
