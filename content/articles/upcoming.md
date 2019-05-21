@@ -18,7 +18,7 @@ title = "Upcoming"
 youtube_url = ""
 
 +++
-FAWN's new opera-ballet, [_Pandora_](https://www.fawnchambercreative.com/events/upcoming/)_,_ by David James Brock (libretto), and Joseph Glaser, Kit Soden, and David Storen (composers) 
+FAWN's new opera-ballet, [_Pandora_](https://www.fawnchambercreative.com/events/upcoming/)_,_ by David James Brock (libretto), and Joseph Glaser, Kit Soden, and David Storen (composers)
 
 * May 23-25 at Geary Lane
 * [tickets](https://fawnchambercreative.ticketleap.com/pandora/)
@@ -46,3 +46,9 @@ _Music of Kline, Spears, and Eastman_
 * The String Orchestra of Brooklyn
 * concert features world premiere of _Four Songs from Florida Man_ (as in, those bizarre news stories that start, "Florida man...")
 * [June 8 at Roulette](https://roulette.org/event/the-string-orchestra-of-brooklyn-music-of-kline-spears-and-eastman/)
+
+New York Festival of Song
+
+* in the 50th year since the Stonewall uprising, and in Pride month, NYFOS presents two items of note
+* [_Manning the Canon_](https://mailchi.mp/alebaco/nyfos-manning-the-canon#program), a Steven Blier-curated programme spanning two centuries of songs by and about gay men 
+* [_Laura Kaminsky & Friends_](https://mailchi.mp/alebaco/nyfos-next-laura-kaminsky#program)_,_ a concert led by the composer of _As One_, 
