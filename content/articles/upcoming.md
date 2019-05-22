@@ -12,7 +12,7 @@ primary_image_credit = "Clockwise from top: Chunky in Heat artwork courtesy of E
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "“Although this piece isn't directly about the myth,\" says stage director Amanda Smith, \"I imagine that in Pandora we see what happens when the jar, or box, is opened a second time.\""
 slug = "upcoming"
 title = "Upcoming"
 youtube_url = ""
@@ -52,12 +52,6 @@ On June 11, [_Laura Kaminsky & Friends on Stonewall_](http://5bmf.org/nyfos-next
 
 Both concerts are co-presented by NYFOS and Five Boroughs Music Festival. Click for [details and tickets](http://5bmf.org/nyfos-next-manning-the-canon/).
 
-Vancouver Bach Festival
-
-* runs [July 30 to August 9](http://www.earlymusic.bc.ca/tickets/summer-festival/)
-* via Early Music Vancouver
-* highlights: the complete Brandenburg Concertos, 17th-Century Divas, feat. Suzie Leblanc and Dorothee Mields singing Barbara Strozzi
-
 ## _Music of Kline, Spears, and Eastman_
 
 On June 8 at New York's Roulette, The String Orchestra of Brooklyn presents [_Music of Kline, Spears, and Eastman_](https://roulette.org/event/the-string-orchestra-of-brooklyn-music-of-kline-spears-and-eastman/), a night of newly commissioned music. On the programme is a new arrangement of Julius Eastman's _Gay Guerrilla_, and the world premieres of Gregory Spears' _Concerto for Two Trumpets and Strings_, and Phil Kline's _Four Songs from Florida Man_. 
@@ -65,3 +59,9 @@ On June 8 at New York's Roulette, The String Orchestra of Brooklyn presents [_Mu
 "Florida Man embraces a kind of American craziness that seems to do especially well in the sun," says Kline of his new piece.
 
 The concert is one-night-only, [June 8, Roulette](https://roulette.org/event/the-string-orchestra-of-brooklyn-music-of-kline-spears-and-eastman/) (509 Atlantic Ave.).
+
+## Vancouver Bach Festival
+
+An appetizer for Early Music Vancouver's newly-announced 50th anniversary season, this summer's [Vancouver Bach Festival](http://www.earlymusic.bc.ca/tickets/summer-festival/) runs July 30 to August 9. A few highlights: the [complete Brandenburg Concertos](http://www.earlymusic.bc.ca/events/bach-complete-brandenburg-concertos-pt-1/) (performed in two parts, July 30 and 31), _Before Bach: 17th Century Music for Strings & Winds_ (August 7), and _Strozzi 17th Century Divas_, featuring sopranos Suzie Leblanc and Dorothee Mields performing music by Barbara Strozzi.
+
+There's plenty to peruse in the line-ups for the [Vancouver Bach Festival](http://www.earlymusic.bc.ca/tickets/summer-festival/), EMV's 2019-20 [Masterworks Series](http://www.earlymusic.bc.ca/series/emv-masterworks-series/) (presented at the Chan Shun Centre for the Performing Arts and the Vancouver Playhouse), and EMV's 2019-20 [Cathedral Series](http://www.earlymusic.bc.ca/series/cathedral-series/) (presented at Christ Church Cathedral).
