@@ -46,7 +46,9 @@ _Chunky in Heat_ marks the first libretto by author A.M. Homes, set to music by 
 
 ## New York Festival of Song
 
-Acknowledging Pride month and the 50th anniversary of the Stonewall uprising, New York Festival of Song presents two notable events. On June 11, _Laura Kaminsky & Friends_ offers a programme of music by women and lesbian artists, curated by composer Laura Kaminsky (_As One_).
+Acknowledging Pride month and the 50th anniversary of the Stonewall uprising, New York Festival of Song presents two notable events. 
+
+On June 11, [_Laura Kaminsky & Friends_](http://5bmf.org/nyfos-next-manning-the-canon/) offers a programme of music by women and lesbian artists, curated by composer Laura Kaminsky (_As One_).
 
 Vancouver Bach Festival
 
