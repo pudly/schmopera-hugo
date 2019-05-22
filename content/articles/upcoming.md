@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1558488034/media/2019/05/sqUpcomingJune2019.jpg"
-primary_image_credit = ""
+primary_image_credit = "Clockwise from top: Chunky in Heat artwork courtesy of Experiments in Opera; composer Laura Kaminsky (photo: Rebecca Allan); Cantata Profana (photo: Rune Øster Mortensen)."
 related_articles = []
 related_companies = []
 related_people = []
@@ -58,7 +58,9 @@ Vancouver Bach Festival
 * via Early Music Vancouver
 * highlights: the complete Brandenburg Concertos, 17th-Century Divas, feat. Suzie Leblanc and Dorothee Mields singing Barbara Strozzi
 
-_Music of Kline, Spears, and Eastman_
+## _Music of Kline, Spears, and Eastman_
+
+The String Orchestra of Brooklyn 
 
 * The String Orchestra of Brooklyn
 * concert features world premiere of _Four Songs from Florida Man_ (as in, those bizarre news stories that start, "Florida man...")
