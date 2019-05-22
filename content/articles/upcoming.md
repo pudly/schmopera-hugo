@@ -3,6 +3,7 @@ author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2019-05-21T04:00:00+00:00"
 disclaimer = ""
+draft = true
 image_gallery = []
 postamble = "Are you excited about an upcoming event, and think we should know about it? Let us know at [hello@schmopera.com](mailto:hello@schmopera.com)!"
 preamble = ""
