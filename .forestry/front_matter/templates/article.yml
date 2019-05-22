@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/eno-dido.md
 - content/articles/clumsy-silla-victim-of-inept-direction.md
 - content/articles/talking-with-singers-robert-hayward.md
 - content/articles/upcoming.md
