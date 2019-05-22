@@ -42,6 +42,6 @@ Singing nourishes the spirit. We are lucky people.
 
 We learn every day we rehearse or perform. When studying as a young singer patience is the biggest lesson. There were times I ran before I could walk and I know now when those times were. Try and find as many pairs of experienced ears to add to those of your teacher. Finding your true voice takes time.
 
-## If you didn’t sing for a living, what do you think you would do instead?
+## If you didn't sing for a living, what do you think you would do instead?
 
 Easy. I am a great fan of vintage transport, particularly buses. To have been a driver of a London Routemaster would have been heavenly!
