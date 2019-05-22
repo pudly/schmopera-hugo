@@ -50,5 +50,5 @@ _Music of Kline, Spears, and Eastman_
 New York Festival of Song, co-presented with Five Boroughs Music Festival, and LGBT Center
 
 * in the 50th year since the Stonewall uprising, and in Pride month, NYFOS presents two items of note
-* [_Manning the Canon_](http://5bmf.org/nyfos-next-manning-the-canon/), a Steven Blier-curated programme spanning two centuries of songs (and drag acts) by and about gay men
-* [_Laura Kaminsky & Friends_](http://5bmf.org/nyfos-next-manning-the-canon/)_,_ a concert led by the composer of _As One_, featuring female and lesbian composers
+* [_Manning the Canon_](http://5bmf.org/nyfos-next-manning-the-canon/), a Steven Blier-curated programme spanning two centuries of songs (and drag acts) by and about gay men, June 25
+* [_Laura Kaminsky & Friends_](http://5bmf.org/nyfos-next-manning-the-canon/)_,_ a concert led by the composer of _As One_, featuring female and lesbian composers, June 11
