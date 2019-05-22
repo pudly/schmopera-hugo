@@ -50,5 +50,5 @@ _Music of Kline, Spears, and Eastman_
 New York Festival of Song
 
 * in the 50th year since the Stonewall uprising, and in Pride month, NYFOS presents two items of note
-* [_Manning the Canon_](https://mailchi.mp/alebaco/nyfos-manning-the-canon#program), a Steven Blier-curated programme spanning two centuries of songs by and about gay men 
-* [_Laura Kaminsky & Friends_](https://mailchi.mp/alebaco/nyfos-next-laura-kaminsky#program)_,_ a concert led by the composer of _As One_, 
+* [_Manning the Canon_](https://mailchi.mp/alebaco/nyfos-manning-the-canon#program), a Steven Blier-curated programme spanning two centuries of songs (and drag acts) by and about gay men 
+* [_Laura Kaminsky & Friends_](https://mailchi.mp/alebaco/nyfos-next-laura-kaminsky#program)_,_ a concert led by the composer of _As One_, featuring female and lesbian composers
