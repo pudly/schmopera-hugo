@@ -13,8 +13,8 @@ related_articles = []
 related_companies = ["scene/companies/new-york-festival-of-song.md", "scene/companies/experiments-in-opera.md", "scene/companies/fawn-chamber-creative.md"]
 related_people = []
 short_description = "“Although this piece isn't directly about the myth,\" says stage director Amanda Smith, \"I imagine that in Pandora we see what happens when the jar, or box, is opened a second time.\""
-slug = "upcoming"
-title = "Upcoming"
+slug = "pandora-lucretia-chunky-upcoming-must-sees"
+title = "Pandora, Lucretia & Chunky: upcoming must-sees"
 youtube_url = ""
 
 +++
