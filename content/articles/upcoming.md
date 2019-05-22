@@ -18,11 +18,21 @@ title = "Upcoming"
 youtube_url = ""
 
 +++
+## _Pandora_
 
-FAWN's new opera-ballet, [_Pandora_](https://www.fawnchambercreative.com/events/upcoming/)_,_ by David James Brock (libretto), and Joseph Glaser, Kit Soden, and David Storen (composers)
+The latest from Toronto-based FAWN Chamber Creative, the new opera-ballet sees its [world premiere run](https://fawnchambercreative.ticketleap.com/pandora/) from May 23-25 at Geary Lane (260 Geary Ave.). _Pandora_ is the product of librettist David James Brock, and composers Joseph Glaser, Kit Soden, and David Storen.
 
-* May 23-25 at Geary Lane
-* [tickets](https://fawnchambercreative.ticketleap.com/pandora/)
+“Although this piece isn't directly about the myth," says stage director Amanda Smith, "I imagine that in _Pandora_ we see what happens when the jar, or box, is opened a second time."
+
+Click for [tickets and details](https://fawnchambercreative.ticketleap.com/pandora/).
+
+## _La Lucretia_
+
+May 23-25, New York-based Cantata Profana presents a concert anchored around Handel's "genre busting" oratorio, [_La Lucretia_](https://here.org/shows/lucretia/). "Handel was one of the greatest dramatists to ever compose for the voice. This piece is proof," says Jacob Ashworth, Artistic Director of Cantata Profana.
+
+Sharing the programme are works spanning ten centuries, including music from the poet-composers that gave us the original _Carmina Burana_.
+
+[_La Lucretia_](https://here.org/shows/lucretia/) runs for three performances at HERE, 145 6th Ave.
 
 Vancouver Bach Festival
 
@@ -35,12 +45,6 @@ _Chunky in Heat_
 * runs [May 31-June 2](http://experimentsinopera.com/portfolio-item/chunky-in-heat/) at The Flea
 * Experiments in Opera and Contemporaneous
 * based on libretto by A.M. Homes, set in 14 scenes that span 30 years with the same family
-
-_Lucretia_
-
-* concert centred around Handel's oratorio runs [May 23-25](https://here.org/shows/lucretia/)
-* Cantata Profana
-* also features music from the past 1000 years, including by the poet-composers of the original _Carmina Burana_
 
 _Music of Kline, Spears, and Eastman_
 
