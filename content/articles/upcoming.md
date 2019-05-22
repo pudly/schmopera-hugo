@@ -34,6 +34,14 @@ Sharing the programme are works spanning ten centuries, including music from the
 
 [_La Lucretia_](https://here.org/shows/lucretia/) runs for three performances at HERE, 145 6th Ave.
 
+## _Chunky in Heat_
+
+A team effort by the aptly named Experiments in Opera and chamber orchestra Contemporaneous, [_Chunky in Heat_](http://experimentsinopera.com/portfolio-item/chunky-in-heat/) gets its premiere run at New York's The Flea (20 Thomas St), May 31-June 2.
+
+_Chunky in Heat_ marks the first libretto by author A.M. Homes, set to music by six composers: Jason Cady, Paula Matthusen, Erin Rogers, Aaron Siegel, Shelley Washington, and Matthew Welch. It's a 14-scene coming-of-age story set in Los Angeles, which follows a single family over three decades.
+
+"Together with six composers and director Alison Moritz we have put together a rare breed among new operas—a work that is funny, dark, hallucinatory, and full of portent for our troubled times."
+
 Vancouver Bach Festival
 
 * runs [July 30 to August 9](http://www.earlymusic.bc.ca/tickets/summer-festival/)
