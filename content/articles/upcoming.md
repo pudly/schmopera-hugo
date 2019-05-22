@@ -42,17 +42,17 @@ _Chunky in Heat_ marks the first libretto by author A.M. Homes, set to music by 
 
 "Together with six composers and director Alison Moritz we have put together a rare breed among new operas—a work that is funny, dark, hallucinatory, and full of portent for our troubled times."
 
+[_Chunky in Heat_](http://experimentsinopera.com/portfolio-item/chunky-in-heat/) runs for three performances, May 31-June 2.
+
+## New York Festival of Song
+
+Acknowledging Pride month and the 50th anniversary of the Stonewall uprising, New York Festival of Song presents two notable events. On June 11, _Laura Kaminsky & Friends_ offers a programme of music by women and lesbian artists, curated by composer Laura Kaminsky (_As One_).
+
 Vancouver Bach Festival
 
 * runs [July 30 to August 9](http://www.earlymusic.bc.ca/tickets/summer-festival/)
 * via Early Music Vancouver
 * highlights: the complete Brandenburg Concertos, 17th-Century Divas, feat. Suzie Leblanc and Dorothee Mields singing Barbara Strozzi
-
-_Chunky in Heat_
-
-* runs [May 31-June 2](http://experimentsinopera.com/portfolio-item/chunky-in-heat/) at The Flea
-* Experiments in Opera and Contemporaneous
-* based on libretto by A.M. Homes, set in 14 scenes that span 30 years with the same family
 
 _Music of Kline, Spears, and Eastman_
 
