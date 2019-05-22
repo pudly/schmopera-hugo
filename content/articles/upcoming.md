@@ -48,7 +48,9 @@ _Chunky in Heat_ marks the first libretto by author A.M. Homes, set to music by 
 
 Acknowledging Pride month and the 50th anniversary of the Stonewall uprising, New York Festival of Song presents two notable events. 
 
-On June 11, [_Laura Kaminsky & Friends_](http://5bmf.org/nyfos-next-manning-the-canon/) offers a programme of music by women and lesbian artists, curated by composer Laura Kaminsky (_As One_).
+On June 11, [_Laura Kaminsky & Friends on Stonewall_](http://5bmf.org/nyfos-next-manning-the-canon/) offers a programme of music by women and lesbian artists, curated by composer Laura Kaminsky (_As One_). Happening June 22 and 25 is [_Manning the Canon: Songs of Gay Life_](http://5bmf.org/nyfos-next-manning-the-canon/), an evening of songs (and drag acts) compiled by NYFOS Artistic Director Steven Blier, each by and about gay men.
+
+Both concerts are co-presented by NYFOS and Five Boroughs Music Festival. Click for [details and tickets](http://5bmf.org/nyfos-next-manning-the-canon/).
 
 Vancouver Bach Festival
 
@@ -61,9 +63,3 @@ _Music of Kline, Spears, and Eastman_
 * The String Orchestra of Brooklyn
 * concert features world premiere of _Four Songs from Florida Man_ (as in, those bizarre news stories that start, "Florida man...")
 * [June 8 at Roulette](https://roulette.org/event/the-string-orchestra-of-brooklyn-music-of-kline-spears-and-eastman/)
-
-New York Festival of Song, co-presented with Five Boroughs Music Festival, and LGBT Center
-
-* in the 50th year since the Stonewall uprising, and in Pride month, NYFOS presents two items of note
-* [_Manning the Canon_](http://5bmf.org/nyfos-next-manning-the-canon/), a Steven Blier-curated programme spanning two centuries of songs (and drag acts) by and about gay men, June 25
-* [_Laura Kaminsky & Friends_](http://5bmf.org/nyfos-next-manning-the-canon/)_,_ a concert led by the composer of _As One_, featuring female and lesbian composers, June 11
