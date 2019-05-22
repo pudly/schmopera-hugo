@@ -18,23 +18,19 @@ title = "Talking with singers: Robert Hayward"
 youtube_url = ""
 
 +++
-Is Sir John Falstaff a good or bad character.
+## Is Sir John Falstaff a good or bad guy?
 
-Sir John is a unique being. He has an enormous lust for all of life but equally has an introspective and fragile side shown through his reflections on the world around him, its
+Sir John is a unique being. He has an enormous lust for all of life but equally has an introspective and fragile side shown through his reflections on the world around him, its temptations, its follies, all seen framed by his own awareness of his physical excesses. 
 
-temptations, it’s follies, all seen framed by his own awareness of his physical excesses. As a knight he clearly has noble thoughts and ideals but is also sympathetic to those around him. Pistol and Bardolph receive grief from him but also love.
+As a knight he clearly has noble thoughts and ideals but is also sympathetic to those around him. Pistol and Bardolph receive grief from him but also love.
 
 He eats life.
 
- 
+## What do you find unique about Verdi's Shakespearean operas?
 
-What do you find unique about Verdi’s Shakespearean operas?
+Verdi and \[his librettist\] Boito were visionary in choosing such diverse plays as _Falstaff_, _Othello_ and _Macbeth_. The scrupulous attention to the depth of character and the sweep of drama in these operas is breathtaking. One could say there isn't a single note wasted. _Falstaff_ particularly, in my biased opinion, is faultless. Every character receives the same unique treatment and vocal challenges. To sing _Falstaff_ demands enormous power but also also great nuances.
 
-Verdi, together with Boito, were visionary in choosing such diverse plays as Falstaff , Othello and Macbeth. The scrupulous attention to the depth of character and the sweep of drama in these operas is breathtaking. One could say there isn’t a single note wasted. Falstaff particularly, in my biased opinion, is faultless. Every character receives the same unique treatment and vocal challenges. To sing Falstaff demands enormous power but also also great nuances.
-
- 
-
-Why do you sing professionally?
+## Why do you sing professionally?
 
 I came to opera later than some, my debut was as Don Giovanni at the age of 30.
 
@@ -42,14 +38,10 @@ I get a thrill working in opera, a physical and mental high to unravel the perso
 
 Singing nourishes the spirit. We are lucky people.
 
- 
-
-What do you know about the singing career that you wish you knew 20 years ago?
+## What do you know about the singing career that you wish you knew 20 years ago?
 
 We learn every day we rehearse or perform. When studying as a young singer patience is the biggest lesson. There were times I ran before I could walk and I know now when those times were. Try and find as many pairs of experienced ears to add to those of your teacher. Finding your true voice takes time.
 
- 
-
-If you didn’t sing for a living, what do you think you would do instead?
+## If you didn’t sing for a living, what do you think you would do instead?
 
 Easy. I am a great fan of vintage transport, particularly buses. To have been a driver of a London Routemaster would have been heavenly!
