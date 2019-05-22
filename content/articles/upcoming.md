@@ -60,8 +60,8 @@ Vancouver Bach Festival
 
 ## _Music of Kline, Spears, and Eastman_
 
-The String Orchestra of Brooklyn 
+On June 8 at New York's Roulette, The String Orchestra of Brooklyn presents [_Music of Kline, Spears, and Eastman_](https://roulette.org/event/the-string-orchestra-of-brooklyn-music-of-kline-spears-and-eastman/), a night of newly commissioned music. On the programme is a new arrangement of Julius Eastman's _Gay Guerrilla_, and the world premieres of Gregory Spears' _Concerto for Two Trumpets and Strings_, and Phil Kline's _Four Songs from Florida Man_. 
 
-* The String Orchestra of Brooklyn
-* concert features world premiere of _Four Songs from Florida Man_ (as in, those bizarre news stories that start, "Florida man...")
-* [June 8 at Roulette](https://roulette.org/event/the-string-orchestra-of-brooklyn-music-of-kline-spears-and-eastman/)
+"Florida Man embraces a kind of American craziness that seems to do especially well in the sun," says Kline of his new piece.
+
+The concert is one-night-only, [June 8, Roulette](https://roulette.org/event/the-string-orchestra-of-brooklyn-music-of-kline-spears-and-eastman/) (509 Atlantic Ave.).
