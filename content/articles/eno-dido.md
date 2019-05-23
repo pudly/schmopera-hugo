@@ -24,7 +24,7 @@ Former Artistic Director of the Unicorn, Purni Morell returns to direct this pro
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1558571379/media/2019/05/RachaelLloydasEyraNormanasBelindainDidoattheUnicornTheatre.jpg){{% /md %}}
 
-<figcaption>in Dido at the Unicorn Theatre, English National Opera, 2019. Photo: Tristam Kenton.</figcaption>
+<figcaption>Rachael Lloyd as Dido and Eyra Norman as Belinda in Dido at the Unicorn Theatre, English National Opera, 2019. Photo: Tristam Kenton.</figcaption>
 
 </figure>
 
@@ -34,7 +34,7 @@ This was an interesting take on the traditional Greek chorus which was most effe
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1558571394/media/2019/05/RachaelDidoEyraNormanasBelindainDidoattheUnicornTheatre.jpg){{% /md %}}
 
-<figcaption>in Dido at the Unicorn Theatre, English National Opera, 2019. Photo: Tristam Kenton.</figcaption>
+<figcaption>Rachael Lloyd as Dido and Eyra Norman as Belinda in Dido at the Unicorn Theatre, English National Opera, 2019. Photo: Tristam Kenton.</figcaption>
 
 </figure>
 
@@ -42,7 +42,7 @@ The sense of companionship the chorus seemed to share extended to their singing 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1558571405/media/2019/05/NjabuloMadlalaasAeneaDanielRudgeoftheChorusinDidoattheUnicornTheatre.jpg){{% /md %}}
 
-<figcaption>in Dido at the Unicorn Theatre, English National Opera, 2019. Photo: Tristam Kenton.</figcaption>
+<figcaption>Njabulo Madlala as Aeneas and Daniel Rudge of the Chorus in Dido at the Unicorn Theatre, English National Opera, 2019. Photo: Tristam Kenton.</figcaption>
 
 </figure>
 
@@ -52,7 +52,7 @@ They made the decision to cast Belinda very young (Norman is a teen in her first
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1558571417/media/2019/05/RachaelLloydasDidoEyraNormanasBelindainDidoattheUnicornTheatre.jpg){{% /md %}}
 
-<figcaption>in Dido at the Unicorn Theatre, English National Opera, 2019. Photo: Tristam Kenton.</figcaption>
+<figcaption>Rachael Lloyd as Dido and Eyra Norman as Belinda in Dido at the Unicorn Theatre, English National Opera, 2019. Photo: Tristam Kenton.</figcaption>
 
 </figure>
 
@@ -60,7 +60,7 @@ Similarly, Njabulo Madlala in the role of Aeneas gave a somewhat emotionally tep
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1558571428/media/2019/05/EyraNormanasBelindacentralwiththeChorusinDidoattheUnicornTheatre.jpg){{% /md %}}
 
-<figcaption>in Dido at the Unicorn Theatre, English National Opera, 2019. Photo: Tristam Kenton.</figcaption>
+<figcaption>Eyra Norman as Belinda (central) with the Chorus in Dido at the Unicorn Theatre, English National Opera, 2019. Photo: Tristam Kenton.</figcaption>
 
 </figure>
 
@@ -68,6 +68,6 @@ This production reimagined Purcell's time-honoured piece in a way that was origi
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1558571438/media/2019/05/NjabuloMadlalaasAeneasRachaelLloydasDidoinDidoattheUnicornTheatre.jpg){{% /md %}}
 
-<figcaption>in Dido at the Unicorn Theatre, English National Opera, 2019. Photo: Tristam Kenton.</figcaption>
+<figcaption>Njabulo Madlala as Aeneas and Rachael Lloyd as Dido in Dido at the Unicorn Theatre, English National Opera, 2019. Photo: Tristam Kenton.</figcaption>
 
 </figure>
