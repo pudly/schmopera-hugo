@@ -40,6 +40,8 @@ Elisabetta is ultimately able to admire Carlo as well as love him. In the last s
 
 I will not play Carlo as a wounded bird. He may lament the many things which he has lost in life, but his cries are not in vain. He is very realistically depicted as a man who is coming of age. Don Carlo is not a victim. He is beautifully human.
 
+>"The seemingly diverse roles work to enhance each other."
+
 Verdi's musical adaptation of the Schiller drama is respectful and thoughtfully composed. The vocal writing vacillates between music of a nostalgic or dreamlike quality and ferociously dramatic declarations. Carlo's music is a raw and honest account of the progress of a reluctant hero. I'm interested in building a vocal and theatrical interpretation of Verdi's Don Carlo that uses the gorgeous long melodic phrases to resonate as purposeful strategic planning rather than self indulgent despair.
 
 It is important to me to find the way in which to make the large vocal leaps, for example, have emotional impact and thrust, as dictated by Verdi, but to also use them to drive the narrative forward. This monumental score must be respectfully delivered to ensure that we hear the inner psychology that Verdi has written for each of these characters. This turbulent, complex and intensely emotional story is his own, but doesn't take away from the psychological and emotional development of the man himself.
@@ -49,6 +51,8 @@ It is important to me to find the way in which to make the large vocal leaps, fo
 It has been essential for me to maintain and strengthen my technique which is based in a bel canto tradition. In this way, the seemingly diverse roles work to enhance each other. I have discovered that by releasing my voice with greater efficiency, it has taken on far more size and power, but also facility in the upper register. 
 
 The increased _squillo_ in my voice has coincided with an overall darkening of my sound. It seems almost paradoxical to describe it, but in practice there truly is a synergy; like one hand washing the other. 
+
+>"Carlo's music is a raw and honest account of the progress of a reluctant hero."
 
 I think it shows that there is not one technique for one kind of repertoire and a separate technique for another. There is just a single technique that allows any voice to reach its maximum potential. 
 
@@ -63,6 +67,8 @@ So I will continue to sing the lyric parts mixed in with the _lirico spinto_ par
 ## What singers do you admire? How much do you aim to emulate their technique?
 
 I love voices that have power and poetry. I hear something important in the singers of several generations ago like Enrico Caruso, Giacomo Lauri-Volpi and Beniamino Gigli. They had individuality, a strong connection to the lightest edge of their voices as well as the ability to unleash heroic tones of generous proportions. Flexibility was a fundamental component of their singing. 
+
+>"But remember: do not rely solely on talent to see you through. The onus is always upon the artist to deliver."
 
 These tenors were not influenced by recorded sound as we are in the contemporary world. I think this has led to a predominance of compressed sounds in singing. I don't think placement as a technical device is healthy or helpful. I believe in releasing the voice through coordination of breath pressure and airflow in balance with the proper muscles throughout your body. 
 
