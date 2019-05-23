@@ -68,9 +68,9 @@ These tenors were not influenced by recorded sound as we are in the contemporary
 
 Each of the singers I named sang roles of a much wider range than is common now. They used their voices with great tonal variety and attention to detail. They sang with honesty. These are the qualities of their singing that I emulate in my own.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1558633786/media/2019/05/LeonardoCapalboasCavaradossiandKellyKaduceasToscainToscaatMinnesotaOpera.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Leonardo Capalbo as Cavaradossi with Kelly Kaduce as Tosca in Tosca, Minnesota Opera. Photo: Dan Norman.</figcaption>
 
 </figure>
 
