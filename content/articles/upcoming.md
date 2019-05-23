@@ -45,7 +45,7 @@ _Chunky in Heat_ marks the first libretto by author A.M. Homes, set to music by 
 
 ## New York Festival of Song
 
-Acknowledging Pride month and the 50th anniversary of the Stonewall uprising, **New York Festival of Song** presents two notable events. 
+Acknowledging Pride month and the 50th anniversary of the Stonewall uprising, **New York Festival of Song** presents two notable events.
 
 On June 11, [_Laura Kaminsky & Friends on Stonewall_](http://5bmf.org/nyfos-next-manning-the-canon/) offers a programme of music by women and lesbian artists, curated by composer Laura Kaminsky (_As One_). Happening June 22 and 25 is [_Manning the Canon: Songs of Gay Life_](http://5bmf.org/nyfos-next-manning-the-canon/), an evening of songs (and drag acts) compiled by NYFOS Artistic Director Steven Blier, each by and about gay men.
 
@@ -53,7 +53,7 @@ Both concerts are co-presented by NYFOS and Five Boroughs Music Festival. Click 
 
 ## _Music of Kline, Spears, and Eastman_
 
-On June 8 at New York's Roulette, **The String Orchestra of Brooklyn** presents [_Music of Kline, Spears, and Eastman_](https://roulette.org/event/the-string-orchestra-of-brooklyn-music-of-kline-spears-and-eastman/), a night of newly commissioned music. On the programme is a new arrangement of Julius Eastman's _Gay Guerrilla_, and the world premieres of Gregory Spears' _Concerto for Two Trumpets and Strings_, and Phil Kline's _Four Songs from Florida Man_. 
+On June 8 at New York's Roulette, **The String Orchestra of Brooklyn** presents [_Music of Kline, Spears, and Eastman_](https://roulette.org/event/the-string-orchestra-of-brooklyn-music-of-kline-spears-and-eastman/), a night of newly commissioned music. On the programme is a new arrangement of Julius Eastman's _Gay Guerrilla_, and the world premieres of Gregory Spears' _Concerto for Two Trumpets and Strings_, and Phil Kline's _Four Songs from Florida Man_.
 
 "Florida Man embraces a kind of American craziness that seems to do especially well in the sun," says Kline of his new piece.
 
@@ -61,6 +61,6 @@ The concert is one-night-only, [June 8, Roulette](https://roulette.org/event/the
 
 ## Vancouver Bach Festival
 
-An appetizer for **Early Music Vancouver**'s newly-announced 50th anniversary season, this summer's [Vancouver Bach Festival](http://www.earlymusic.bc.ca/tickets/summer-festival/) runs July 30 to August 9. A few highlights: the [complete Brandenburg Concertos](http://www.earlymusic.bc.ca/events/bach-complete-brandenburg-concertos-pt-1/) (performed in two parts, July 30 and 31), _Before Bach: 17th Century Music for Strings & Winds_ (August 7), and _Strozzi 17th Century Divas_, featuring sopranos Suzie Leblanc and Dorothee Mields performing music by Barbara Strozzi.
+An appetizer for **Early Music Vancouver**'s newly-announced 50th anniversary season, this summer's [Vancouver Bach Festival](http://www.earlymusic.bc.ca/tickets/summer-festival/) runs July 30 to August 9. A few highlights: the [complete Brandenburg Concertos](http://www.earlymusic.bc.ca/events/bach-complete-brandenburg-concertos-pt-1/) (performed in two parts, July 30 and 31), [_Before Bach: 17th Century Music for Strings & Winds_](http://www.earlymusic.bc.ca/events/before-bach-17th-century-music-for-strings-winds/) (August 7), and [_Strozzi 17th Century Divas_](http://www.earlymusic.bc.ca/events/strozzi-17th-century-divas-feat-suzie-leblanc-dorothee-mields-sopranos/), featuring sopranos Suzie Leblanc and Dorothee Mields performing music by Barbara Strozzi.
 
 There's plenty to peruse in the line-ups for the [Vancouver Bach Festival](http://www.earlymusic.bc.ca/tickets/summer-festival/), EMV's 2019-20 [Masterworks Series](http://www.earlymusic.bc.ca/series/emv-masterworks-series/) (presented at the Chan Shun Centre for the Performing Arts and the Vancouver Playhouse), and EMV's 2019-20 [Cathedral Series](http://www.earlymusic.bc.ca/series/cathedral-series/) (presented at Christ Church Cathedral).
