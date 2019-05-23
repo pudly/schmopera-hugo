@@ -25,9 +25,9 @@ The latest from Toronto-based **FAWN Chamber Creative**, the new opera-ballet se
 
 Click for [tickets and details](https://fawnchambercreative.ticketleap.com/pandora/).
 
-## _La Lucretia_
+## _Lucretia_
 
-May 23-25, New York-based **Cantata Profana** presents a concert anchored around Handel's "genre busting" oratorio, [_La Lucretia_](https://here.org/shows/lucretia/). "Handel was one of the greatest dramatists to ever compose for the voice. This piece is proof," says Jacob Ashworth, Artistic Director of Cantata Profana.
+May 23-25, New York-based **Cantata Profana** presents a concert anchored around Handel's "genre busting" oratorio, [_Lucretia_](https://here.org/shows/lucretia/). "Handel was one of the greatest dramatists to ever compose for the voice. This piece is proof," says Jacob Ashworth, Artistic Director of Cantata Profana.
 
 Sharing the programme are works spanning ten centuries, including music from the poet-composers that gave us the original _Carmina Burana_.
 
