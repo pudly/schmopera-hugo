@@ -26,9 +26,9 @@ In all seriousness, those of us who make professional careers are very fortunate
 
 Singing can be a form of sorcery when you get it right. Why wouldn't I chase after magic?
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1558633577/media/2019/05/2756ashm_241LEONARDOCAPALBOASISMAELE-ROH.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Leonardo Capalbo as Ismaele in Nabucco, ROH. Photo: Catherine Ashmore.</figcaption>
 
 </figure>
 
@@ -54,9 +54,9 @@ I think it shows that there is not one technique for one kind of repertoire and 
 
 So I will continue to sing the lyric parts mixed in with the _lirico spinto_ parts. I have several more Ducas next season interspersed with more Don Carlos, Don José and Osaka in Mascagni's _Iris_. I will continue to sing the higher lyric parts which require dexterity because it only helps me to sing the more dramatic roles with greater ease. I look forward to adding to my repertoire.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1558633664/media/2019/05/LaBoheme_Baden-Baden_2017.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Leonardo Capalbo as Rodolfo with Zarina Abaeva as Mimì in La bohème, Festspielhaus Baden-Baden. Photo: Andrea Kremper.</figcaption>
 
 </figure>
 
