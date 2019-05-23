@@ -12,8 +12,8 @@ related_articles = ["articles/aria-guides-didos-lament.md"]
 related_companies = ["scene/companies/english-national-opera.md"]
 related_people = ["scene/people/njabulo-madlala.md", "scene/people/rachael-lloyd.md"]
 short_description = "The sense of companionship the chorus seemed to share extended to their singing which was some of my favourite of the afternoon. Together with the 7-piece ensemble led by conductor Valentina Peleggi they created some absolutely sublime, stylistically considered music."
-slug = "youthful-collaborative-dido-at-eno"
-title = "Youthful & collaborative Dido at ENO"
+slug = "youthful-collaborative-dido-at-the-unicorn-theatre"
+title = "Youthful & collaborative Dido at the Unicorn Theatre"
 youtube_url = ""
 
 +++
