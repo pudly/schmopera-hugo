@@ -2,7 +2,7 @@
 discipline = "Bass-baritone"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1558537070/media/2019/05/Robert%20Hayward%20Jul%202014%20colour%20credit%20Bogdan%20Frymorgen-1.jpg"
 primary_image_credit = "Bogdan Frymorgen"
-related_companies = []
+related_companies = ["scene/companies/welsh-national-opera.md", "scene/companies/los-angeles-opera.md", "scene/companies/l-opéra-de-montréal.md", "scene/companies/opera-north.md", "scene/companies/the-grange-festival.md", "scene/companies/scottish-opera.md", "scene/companies/minnesota-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/san-diego-opera.md", "scene/companies/the-dallas-opera.md", "scene/companies/oper-frankfurt.md", "scene/companies/english-national-opera.md"]
 slug = "robert-hayward"
 social_media = []
 title = "Robert Hayward"
