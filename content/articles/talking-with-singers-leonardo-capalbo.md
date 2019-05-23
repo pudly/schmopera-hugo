@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1558633515/media/2019/05/sqLeonardoCapalbo.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
@@ -25,6 +25,12 @@ Singing and I have had an epic and ongoing love affair for years. I am deeply co
 In all seriousness, those of us who make professional careers are very fortunate. We are obliged to continue the detailed cultivation of our skills so that we remain viable. I wholeheartedly love to make music. I cherish the moments I spend on the stage.
 
 Singing can be a form of sorcery when you get it right. Why wouldn't I chase after magic?
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 ## What kind of a man is Verdi's Don Carlo?
 
@@ -48,6 +54,12 @@ I think it shows that there is not one technique for one kind of repertoire and 
 
 So I will continue to sing the lyric parts mixed in with the _lirico spinto_ parts. I have several more Ducas next season interspersed with more Don Carlos, Don José and Osaka in Mascagni's _Iris_. I will continue to sing the higher lyric parts which require dexterity because it only helps me to sing the more dramatic roles with greater ease. I look forward to adding to my repertoire.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 ## What singers do you admire? How much do you aim to emulate their technique?
 
 I love voices that have power and poetry. I hear something important in the singers of several generations ago like Enrico Caruso, Giacomo Lauri-Volpi and Beniamino Gigli. They had individuality, a strong connection to the lightest edge of their voices as well as the ability to unleash heroic tones of generous proportions. Flexibility was a fundamental component of their singing. 
@@ -55,6 +67,12 @@ I love voices that have power and poetry. I hear something important in the sing
 These tenors were not influenced by recorded sound as we are in the contemporary world. I think this has led to a predominance of compressed sounds in singing. I don't think placement as a technical device is healthy or helpful. I believe in releasing the voice through coordination of breath pressure and airflow in balance with the proper muscles throughout your body. 
 
 Each of the singers I named sang roles of a much wider range than is common now. They used their voices with great tonal variety and attention to detail. They sang with honesty. These are the qualities of their singing that I emulate in my own.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 ## What do you know now about the singing career that you wish you knew 10 years ago?
 
