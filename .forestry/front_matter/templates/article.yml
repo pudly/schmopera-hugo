@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/talking-with-singers-leonardo-capalbo.md
 - content/articles/upcoming.md
 - content/scene/people/rachael-lloyd.md
 - content/articles/eno-dido.md
