@@ -64,6 +64,6 @@ You have to humbly be the captain of your own ship by never allowing others to c
 
 If I didn't sing and act (I do not believe in separating the two), I would likely have become a lawyer. Arguing a case in court is a theatrical performance after-all. I would have done well in that arena. 
 
-In addition to performing, I’d like to begin to direct opera and theatre. I have plenty of imagination and I’m not afraid to take a stand on an issue (another useful tool for a lawyer). 
+In addition to performing, I'd like to begin to direct opera and theatre. I have plenty of imagination and I’m not afraid to take a stand on an issue (another useful tool for a lawyer). 
 
 Collaborating with other artists and moving them towards my artistic vision could prove fruitful for me and maybe them too. Ultimately, the audience will be the judge.
