@@ -5,12 +5,12 @@ date = "2019-05-23T04:00:00+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
-preamble = "Italian-American tenor Leonardo Capalbo is in an enviable spot, as a tenor in demand for roles like Duca (_Rigoletto_), Alfredo (_La traviata_), and Rodolfo (_La bohème_). Next month, he steps into the title role in Verdi's _Don Carlo_ in Jo Davies' production at Grange Park Opera.\n\nCapalbo's signature "
+postamble = "[_Don Carlo_](https://grangeparkopera.co.uk/whats-on/don-carlo/), starring Leonardo Capalbo in the title role, runs at Grange Park Opera from 6- June to 9 July."
+preamble = "Italian-American tenor Leonardo Capalbo is in an enviable spot, as a tenor in demand for roles like Duca (_Rigoletto_), Alfredo (_La traviata_), and Rodolfo (_La bohème_). Next month, he steps into the title role in Verdi's [_Don Carlo_](https://grangeparkopera.co.uk/whats-on/don-carlo/) in Jo Davies' production at Grange Park Opera.\n\nCapalbo spoke with us about his ongoing love affair with singing, and how he uses varied repertoire to keep him in top vocal shape."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1558633515/media/2019/05/sqLeonardoCapalbo.jpg"
 primary_image_credit = ""
 related_articles = []
-related_companies = []
+related_companies = ["scene/companies/grange-park-opera.md"]
 related_people = []
 short_description = "\"I will not play Carlo as a wounded bird. He may lament the many things which he has lost in life, but his cries are not in vain.\""
 slug = "talking-with-singers-leonardo-capalbo"
@@ -82,6 +82,6 @@ You have to humbly be the captain of your own ship by never allowing others to c
 
 If I didn't sing and act (I do not believe in separating the two), I would likely have become a lawyer. Arguing a case in court is a theatrical performance after-all. I would have done well in that arena. 
 
-In addition to performing, I'd like to begin to direct opera and theatre. I have plenty of imagination and I’m not afraid to take a stand on an issue (another useful tool for a lawyer). 
+In addition to performing, I'd like to begin to direct opera and theatre. I have plenty of imagination and I'm not afraid to take a stand on an issue (another useful tool for a lawyer). 
 
 Collaborating with other artists and moving them towards my artistic vision could prove fruitful for me and maybe them too. Ultimately, the audience will be the judge.
