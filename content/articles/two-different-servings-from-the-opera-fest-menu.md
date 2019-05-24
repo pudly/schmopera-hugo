@@ -39,7 +39,7 @@ But New Amsterdam unapologetically brings you entire operas, most recently the e
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557882432/media/2019/05/Trovatore-CSmith4.jpg){{% /md %}}
 
-<figcaption>Lara Tillotson (Azucena) in Il trovatore, Regina Opera Company, 2019. Photo: Colleen Smith.</figcaption>
+<figcaption>Lara Tillotson (Azucena) in Il trovatore, Regina Opera Company, 2019. Photo: Cameron Smith.</figcaption>
 
 </figure>
 
