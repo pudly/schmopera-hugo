@@ -1,6 +1,6 @@
 +++
-author = []
-categories = ""
+author = ["authors/jenna.md"]
+categories = "Interview"
 date = "2019-05-24T04:00:00+00:00"
 disclaimer = ""
 draft = true
@@ -12,7 +12,7 @@ primary_image_credit = ""
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "\"It is essential that both the director and conductor celebrate the singer-actor and love the act of storytelling. The awesome feat of the singer producing their sound and getting that sound into the house should be respected.\""
 slug = "talking-with-conductors-joseph-mechavich"
 title = "Talking with conductors: Joseph Mechavich"
 youtube_url = ""
