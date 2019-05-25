@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/talking-with-conductors-joseph-mechavich.md
 - content/articles/upcoming.md
 - content/articles/talking-with-singers-leonardo-capalbo.md
 - content/scene/people/rachael-lloyd.md
