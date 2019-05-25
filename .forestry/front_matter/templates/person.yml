@@ -40,6 +40,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/joseph-mechavic.md
 - content/scene/people/njabulo-madlala.md
 - content/scene/people/robert-hayward-1.md
 - content/scene/people/jennifer-johnson-cano.md
