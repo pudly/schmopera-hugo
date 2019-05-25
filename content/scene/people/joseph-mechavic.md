@@ -5,7 +5,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1558744878/m
 primary_image_credit = ""
 related_companies = []
 slug = "joseph-mechavich"
-title = "Joseph Mechavic"
+title = "Joseph Mechavich"
 website = ""
 [[social_media]]
 platform = "Facebook"
