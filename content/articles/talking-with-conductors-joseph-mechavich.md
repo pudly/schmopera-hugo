@@ -27,7 +27,7 @@ I have been around singers since my college days at Oberlin and am constantly in
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1558890535/media/2019/05/Mechavich1.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Conductor Joseph Mechavich in rehearsal.</figcaption>
 
 </figure>
 
@@ -41,7 +41,7 @@ It is essential that both the director and conductor celebrate the singer-actor 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1558890522/media/2019/05/JosephMechavich-1.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Conductor Joseph Mechavich. Image courtesy of ADA Artists.</figcaption>
 
 </figure>
 
