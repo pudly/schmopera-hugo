@@ -24,6 +24,6 @@ On **June 2, 7pm** at St. John's United Church in Oakville, you can catch a hand
 
 Plus! At the piano is Jenna Simeonov (me), founder and editor of Schmopera. Out and about and likely wearing lipstick.
 
-Tickets are $40, and you can get them by emailing office@stjohnsunited.ca.
+Tickets are $40, and you can get them by emailing office@stjohnsunited.ca, or at the door.
 
 We'd love to see you there!
