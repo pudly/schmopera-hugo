@@ -6,7 +6,7 @@ disclaimer = ""
 draft = true
 image_gallery = []
 postamble = ""
-preamble = ""
+preamble = "Our chat with American conductor Joseph Mechavich was a refreshing one. With a career steeped in opera, new and old, the maestro is a sympathetic ally to the singers he conducts. Mechavich, fresh off Florida Grand Opera's production of [_Werther_](/a-dismal-opera-werther/), looks ahead to a season of contrasts: classics like _Carmen_ (Kentucky Opera) and _The Barber of Seville_ (Minnesota Opera), next to new American works like _Everest_ (Austin Opera) and [_Riders of the Purple Sage_](/new-operas-craig-bohmlers-riders-of-the-purple-sage/) (Arizona Opera).\n\nWe chat with Mechavich about rehearsal psychology, and his very favourite opera."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1558890473/media/2019/05/sqMechavich2.jpg"
 primary_image_credit = ""
 related_articles = []
@@ -20,7 +20,7 @@ youtube_url = ""
 +++
 ## When all is going well, what does it feel like to conduct an orchestra?
 
-There is an efficiency in my gesture when the pit and stage are synergistic. It becomes easy. We just breath together. When it is going well, it reminds me of my favorite complement, which I received from a friend who came to see me conduct for the first time, "I watched you during the prelude but once the action started I forgot you were there." It is not that the pit lays the soundtrack, but it is that everybody is committed to the drama on stage and to sharing that drama with the audience.
+There is an efficiency in my gesture when the pit and stage are synergistic. It becomes easy. We just breath together. When it is going well, it reminds me of my favourite compliment, which I received from a friend who came to see me conduct for the first time, "I watched you during the prelude but once the action started I forgot you were there." It is not that the pit lays the soundtrack, but it is that everybody is committed to the drama on stage and to sharing that drama with the audience.
 
 ## What do you think conductors and singers can learn from each other?
 
