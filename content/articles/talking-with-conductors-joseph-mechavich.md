@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2019-05-24T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "For more with Joseph Mechavich, follow him on [Facebook](https://www.facebook.com/Joseph-Mechavich-conductor-138355879677450) and [Twitter](https://twitter.com/mojoemech)."
 preamble = "Our chat with American conductor Joseph Mechavich was a refreshing one. With a career steeped in opera, new and old, the maestro is a sympathetic ally to the singers he conducts. Mechavich, fresh off Florida Grand Opera's production of [_Werther_](/a-dismal-opera-werther/), looks ahead to a season of contrasts: classics like _Carmen_ (Kentucky Opera) and _The Barber of Seville_ (Minnesota Opera), next to new American works like _Everest_ (Austin Opera) and [_Riders of the Purple Sage_](/new-operas-craig-bohmlers-riders-of-the-purple-sage/) (Arizona Opera).\n\nWe chat with Mechavich about rehearsal psychology, and his very favourite opera."
