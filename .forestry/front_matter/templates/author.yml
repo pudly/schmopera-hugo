@@ -36,3 +36,5 @@ fields:
   label: Social Media
   template_types:
   - social-media
+pages:
+- content/authors/leslie-ashworth.md
