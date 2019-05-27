@@ -19,7 +19,7 @@ youtube_url = ""
 +++
 Toronto-area readers, we've got a rare opportunity for you:
 
-Happening **June 2, 7pm** at Oakville's St. John's United Church in Oakville, you can catch _Two Sopranos, One Friendship_, a concert event featuring sopranos (and best friends) Aviva Fortunata and Claire de Sévigné. a concert that celebrates high notes, illicit duets, and comedy banter to rival the days of Carol Burnett and Julie Andrews.
+Happening **June 2, 7pm** at Oakville's St. John's United Church in Oakville, you can catch _Two Sopranos, One Friendship_, a concert featuring sopranos (and best friends) Aviva Fortunata and Claire de Sévigné. It's a one-night-only event that celebrates high notes, illicit duets, and comedy banter to rival the days of Carol Burnett and Julie Andrews.
 
 Plus! At the piano is [Jenna Simeonov](/authors/jenna) (me), founder and editor of Schmopera. Out and about and likely wearing lipstick.
 
