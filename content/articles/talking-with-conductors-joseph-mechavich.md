@@ -19,7 +19,7 @@ youtube_url = ""
 +++
 ## When all is going well, what does it feel like to conduct an orchestra?
 
-There is an efficiency in my gesture when the pit and stage are synergistic. It becomes easy. We just breath together. When it is going well, it reminds me of my favourite compliment, which I received from a friend who came to see me conduct for the first time, "I watched you during the prelude but once the action started I forgot you were there." It is not that the pit lays the soundtrack, but it is that everybody is committed to the drama on stage and to sharing that drama with the audience.
+There is an efficiency in my gesture when the pit and stage are synergistic. It becomes easy. We just breathe together. When it is going well, it reminds me of my favourite compliment, which I received from a friend who came to see me conduct for the first time, "I watched you during the prelude but once the action started I forgot you were there." It is not that the pit lays the soundtrack, but it is that everybody is committed to the drama on stage and to sharing that drama with the audience.
 
 ## What do you think conductors and singers can learn from each other?
 
