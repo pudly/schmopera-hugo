@@ -1,6 +1,5 @@
 +++
 discipline = "Conductor"
-draft = true
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1558744878/media/2019/05/JosephMechavich.jpg"
 primary_image_credit = ""
 related_companies = []
