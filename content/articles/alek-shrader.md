@@ -13,8 +13,8 @@ related_articles = ["articles/talking-with-singers-daniela-mack.md"]
 related_companies = []
 related_people = ["scene/people/daniela-mack.md", "scene/people/alek-shrader.md"]
 short_description = "\"Tina Fey said 'If you want to be a screenwriter, take an acting class to get a sense of what you’re asking actors to do.' It's another perfect quote from one of my writing idols, and my performance experience definitely informs hypothetical staging.\""
-slug = "alek-shrader"
-title = "Alek Shrader"
+slug = "alek-shrader-on-directing-dido-ideas-assail-me"
+title = "Alek Shrader on directing Dido: \"Ideas assail me.\""
 youtube_url = ""
 
 +++
