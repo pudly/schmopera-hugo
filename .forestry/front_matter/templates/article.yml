@@ -116,21 +116,26 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
-- content/articles/talking-with-singers-robert-hayward.md
 - content/articles/rough-for-opera-17.md
-- content/articles/talking-with-singers-leonardo-capalbo.md
 - content/articles/clumsy-silla-victim-of-inept-direction.md
 - content/articles/pomegranate.md
 - content/articles/installation-handmaid-s-tale-a-dramatic-chilling-staging.md
-- content/articles/ensemble-boheme.md
 - content/articles/eno-dido.md
 - content/scene/people/rachael-lloyd.md
 - content/articles/upcoming.md
 - content/articles/wno-tosca.md
 - content/scene/people/asmik-grigorian.md
 - content/articles/oper-frankfurt-announces-gutsy-2019-20-season.md
-- content/articles/talking-with-conductors-joseph-mechavich.md
+- content/articles/faust.md
+- content/articles/talking-with-singers-leonardo-capalbo.md
+- content/articles/mno-trav.md
 - content/articles/hearing-the-seldom-seen.md
+- content/articles/vancouver-opera-s-storybook-perfect-cenerentola.md
+- content/articles/talking-with-singers-robert-hayward.md
+- content/articles/ensemble-boheme.md
+- content/articles/the-phoenix.md
+- content/articles/talking-with-singers-stephen-costello.md
+- content/articles/talking-with-conductors-joseph-mechavich.md
 - content/articles/no-explanation-needed.md
 - content/articles/pandora.md
 - content/articles/don-t-miss-two-sopranos-one-friendship-and-our-editor-at-the-keys.md
@@ -158,17 +163,14 @@ pages:
 - content/articles/talking-with-singers-patrick-terry.md
 - content/articles/holiday-recap-forbiddens-traditions.md
 - content/articles/boc-s-don-giovanni-smart-and-relevant.md
-- content/articles/mno-trav.md
 - content/articles/die-walküre.md
 - content/articles/an-american-dream.md
 - content/articles/elektra.md
 - content/articles/talking-with-singers-eva-maria-westbroek.md
-- content/articles/vancouver-opera-s-storybook-perfect-cenerentola.md
 - content/articles/talking-with-singers-jared-bybee.md
 - content/articles/loc-elektra.md
 - content/articles/if-you-like-star-wars-you-re-gonna-flip-for-opera-shouting-into-the-void.md
 - content/articles/haroun-and-the-sea-of-stories-a-surreal-timely-treat.md
-- content/articles/the-phoenix.md
 - content/articles/monstrous-child-1.md
 - content/articles/the-angel-speaks.md
 - content/articles/upcoming-gems-small-but-mighty-not-to-be-missed.md
@@ -206,7 +208,6 @@ pages:
 - content/articles/pov-traviata.md
 - content/articles/tweaking-the-brothers-grimm-in-oper-frankfurt-s-hänsel-und-gretel.md
 - content/articles/montezuma-1.md
-- content/articles/talking-with-singers-stephen-costello.md
 - content/articles/noa.md
 - content/articles/idomeneo.md
 - content/articles/roh-faust.md
@@ -230,4 +231,3 @@ pages:
 - content/articles/sarah-connolly.md
 - content/articles/skylark-cosi.md
 - content/articles/kopernikus.md
-- content/articles/faust.md
