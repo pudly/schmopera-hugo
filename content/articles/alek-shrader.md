@@ -31,7 +31,7 @@ I couldn't stop thinking. Ideas assail me, especially at inopportune times. Even
 
 Tina Fey said "If you want to be a screenwriter, take an acting class to get a sense of what you’re asking actors to do." It's another perfect quote from one of my writing idols, and my performance experience definitely informs hypothetical staging. I won't ask anybody to do anything I wouldn't be willing to do myself. When I'm directing opera, I'm thinking "Would I do that?" and especially "Would that sabotage my voice?"
 
-For opera it's gotta be text, then voice, then body, and that informs the drama. There's a writing discussion on Twitter right now about "pantsters" versus "plotters." Pantsters fly by the seat of their pants and Plotters plot everything out. I'm very much a plotter. I research and plan. I love structure. But it doesn't mean Plotters won't respond to inspiration or can’t change their mind.
+For opera it's gotta be text, then voice, then body, and that informs the drama. There's a writing discussion on Twitter right now about "Pantsters" versus "Plotters." Pantsters fly by the seat of their pants and Plotters plot everything out. I'm very much a plotter. I research and plan. I love structure. But it doesn't mean Plotters won't respond to inspiration or can’t change their mind.
 
 >"My Dido is in control. She's not a victim. She's wounded, but she isn't giving up."
 
