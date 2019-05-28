@@ -8,7 +8,7 @@ image_gallery = []
 postamble = "Purcell's [_Dido & Aeneas_](https://www.deathofclassical.com/angelshare/purcell-dido-and-aeneas), directed by Alek Shrader, runs June 5-8 in the Catacombs of the Green-Wood Cemetery."
 preamble = "If you know of Alek Shrader, you know he's an in-demand tenor known for his singing of Rossini, Mozart, and Handel. Of late, Shrader has turned to directing opera, and his latest project is Purcell's [_Dido & Aeneas_](https://www.deathofclassical.com/angelshare/purcell-dido-and-aeneas), presented by Death of Classical in the Catacombs of Brooklyn's Green-Wood Cemetery.\n\nThe production, starring Daniela Mack as Dido, includes a pre-show whiskey tasting and a twilight walk through the Catacombs.\n\nWe spoke with Shrader about why he's gotten into directing, and his unique take on Purcell's opera that includes the complementary play by Christopher Marlowe."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1559067336/media/2019/05/sqTheAngelsShareDidoAeneas-pc-KevinCondon.jpg"
-primary_image_credit = "Dido & Aeneas, The Angel's Share, 2019. Photo: Kevin Condon."
+primary_image_credit = "Dido & Aeneas, Death of Classical, 2019. Photo: Kevin Condon."
 related_articles = ["articles/talking-with-singers-daniela-mack.md"]
 related_companies = []
 related_people = ["scene/people/daniela-mack.md", "scene/people/alek-shrader.md"]
@@ -24,7 +24,7 @@ I couldn't stop thinking. Ideas assail me, especially at inopportune times. Even
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1559067416/media/2019/05/AlekShrader-pc-PeterSchaaf.jpg){{% /md %}}
 
-<figcaption>Alek Shrader, tenor and director of Dido & Aeneas, The Angel's Share, 2019. Photo: Peter Schaaf.</figcaption>  
+<figcaption>Alek Shrader, tenor and director of Dido & Aeneas, Death of Classical, 2019. Photo: Peter Schaaf.</figcaption>  
 </figure>
 
 ## What do you think directors and singers can learn from each other?
@@ -59,7 +59,7 @@ So, what I see here is that when the conflict is such that lives are at stake, w
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1559067468/media/2019/05/TheAngelsShare-DidoAeneas-pc-KevinCondon.jpg){{% /md %}}
 
-<figcaption>Dido & Aeneas, The Angel's Share, 2019. Photo: Kevin Condon.</figcaption>  
+<figcaption>Dido & Aeneas, Death of Classical, 2019. Photo: Kevin Condon.</figcaption>  
 </figure>
 
 ## Do you have any more operas on your directorial wish list?
