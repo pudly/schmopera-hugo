@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1559067336/media/2019/05/sqTheAngelsShareDidoAeneas-pc-KevinCondon.jpg"
-primary_image_credit = ""
+primary_image_credit = "Dido & Aeneas, The Angel's Share, 2019. Photo: Kevin Condon."
 related_articles = []
 related_companies = []
 related_people = []
@@ -22,9 +22,9 @@ youtube_url = ""
 
 I couldn't stop thinking. Ideas assail me, especially at inopportune times. Eventually I just needed to release something from my notebooks and my brain. We'll see if it works. I want to tell stories. If that means performing, directing, writing, or producing, I'm ready.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1559067416/media/2019/05/AlekShrader-pc-PeterSchaaf.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Alek Shrader, tenor and director of Dido & Aeneas, The Angel's Share, 2019. Photo: Peter Schaaf.</figcaption>  
 </figure>
 
 ## What do you think directors and singers can learn from each other?
@@ -57,9 +57,9 @@ That's how I read it, anyway. There's still a cautionary aspect here. Dido never
 
 So, what I see here is that when the conflict is such that lives are at stake, we know that someone will die (maybe even dying already)... Will we be sacrificed or will we fight?
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1559067468/media/2019/05/TheAngelsShare-DidoAeneas-pc-KevinCondon.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Dido & Aeneas, The Angel's Share, 2019. Photo: Kevin Condon.</figcaption>  
 </figure>
 
 ## Do you have any more operas on your directorial wish list?
