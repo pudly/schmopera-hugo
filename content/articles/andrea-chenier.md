@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "It is an increasingly rare occasion to feel moved in the way I was watching this performance when I go to the opera now. Perhaps I'm spoiled; too much of a good thing, and all that."
-slug = "andrea-chenier"
-title = "Andrea Chenier"
+slug = "great-stars-great-direction-andrea-chenier-at-roh"
+title = "Great stars & great direction: Andrea Chenier at ROH"
 youtube_url = ""
 
 +++
