@@ -3,15 +3,14 @@ author = ["authors/alessia-naccarato.md"]
 categories = "Review"
 date = "2019-05-31T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "David McVicar's production of [_Andrea Chenier_](https://www.roh.org.uk/productions/andrea-chenier-by-david-mcvicar) runs at the Royal Opera House through 9 June."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1559322145/media/2019/05/sq2862ashm_0669RobertoAlagnaasAndreaChenierSondraRadvanovskyasMaddalenadiCoignyROH2019.jpg"
-primary_image_credit = ""
-related_articles = []
-related_companies = []
-related_people = []
+primary_image_credit = "Roberto Alagna as Andrea Chenier and Sondra Radvanovsky as Maddalena di Coigny in Andrea Chenier, ROH, 2019. Photo: Catherine Ashmore."
+related_articles = ["articles/talking-with-singers-sondra-radvanovsky.md"]
+related_companies = ["scene/companies/royal-opera-house.md"]
+related_people = ["scene/people/roberto-alagna.md", "scene/people/sondra-radvanovsky.md"]
 short_description = "It is an increasingly rare occasion to feel moved in the way I was watching this performance when I go to the opera now. Perhaps I'm spoiled; too much of a good thing, and all that."
 slug = "great-stars-great-direction-andrea-chenier-at-roh"
 title = "Great stars & great direction: Andrea Chenier at ROH"
@@ -26,7 +25,7 @@ Giordano's third opera and arguably his most popular, tells a fated love story s
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1559322282/media/2019/05/2862ashm_0508RosalindPlowrightasCountessdiCoignyDimitriPlataniasasCarloGerardROH2019.jpg){{% /md %}}
 
-<figcaption> in Andrea Chenier, ROH, 2019. Photo: Catherine Ashmore.</figcaption>
+<figcaption>Rosalind Plowright as Countess di Coigny and Dimitri Platanias as Carlo Gerard in Andrea Chenier, ROH, 2019. Photo: Catherine Ashmore.</figcaption>
 
 </figure>
 
@@ -38,7 +37,7 @@ What McVicar does very successfully with his productions is present opera with a
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1559322298/media/2019/05/2862ashm_1468SondraRadvanovskyasMaddalenadiCoignyDimitriPlataniasasCarloGerardROH2019.jpg){{% /md %}}
 
-<figcaption> in Andrea Chenier, ROH, 2019. Photo: Catherine Ashmore.</figcaption>
+<figcaption>Sondra Radvanovsky as Maddalena di Coigny and Dimitri Platanias as Carlo Gerard in Andrea Chenier, ROH, 2019. Photo: Catherine Ashmore.</figcaption>
 
 </figure>
 
@@ -46,7 +45,7 @@ We end in a darkened prison cell where the lovers await the guillotine; a stark 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1559322313/media/2019/05/2862ashm_1376SondraRadvanovskyasMaddalenadiCoignyDimitriPlataniasasCarloGerardROH2019.jpg){{% /md %}}
 
-<figcaption> in Andrea Chenier, ROH, 2019. Photo: Catherine Ashmore.</figcaption>
+<figcaption>Sondra Radvanovsky as Maddalena di Coigny and Dimitri Platanias as Carlo Gerard in Andrea Chenier, ROH, 2019. Photo: Catherine Ashmore.</figcaption>
 
 </figure>
 
@@ -58,7 +57,7 @@ Radvanovsky in particular was in top form from her first moment on stage. Though
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1559322331/media/2019/05/2862ashm_0937SondraRadvanovskyasMaddalenadiCoignyROH2019.jpg){{% /md %}}
 
-<figcaption> in Andrea Chenier, ROH, 2019. Photo: Catherine Ashmore.</figcaption>
+<figcaption>Sondra Radvanovsky as Maddalena di Coigny in Andrea Chenier, ROH, 2019. Photo: Catherine Ashmore.</figcaption>
 
 </figure>
 
@@ -70,7 +69,7 @@ Platanias was an almost effortless Gérard immediately captivating and relatable
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1559322375/media/2019/05/2862ashm_0035RobertoAlagnaasAndreaChenierROH2019.jpg){{% /md %}}
 
-<figcaption> in Andrea Chenier, ROH, 2019. Photo: Catherine Ashmore.</figcaption>
+<figcaption>Roberto Alagna as Andrea Chenier in Andrea Chenier, ROH, 2019. Photo: Catherine Ashmore.</figcaption>
 
 </figure>
 
