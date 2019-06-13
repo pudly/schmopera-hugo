@@ -11,7 +11,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1560465422/m
 primary_image_credit = "Aaron Sheehan (Orlando) in Orlando, Boston Early Music Festival, 2019. Photo: Kathy Wittman."
 related_articles = []
 related_companies = []
-related_people = ["scene/people/amanda-forsythe.md", "scene/people/jesse-blumberg.md"]
+related_people = ["scene/people/emöke-baráth.md", "scene/people/aaron-sheehan.md", "scene/people/amanda-forsythe.md", "scene/people/jesse-blumberg.md"]
 short_description = "As messy as the plot of Orlando is, this approach worked for this opera just as well as it has in previous seasons, and the result was rather a joy to watch that it became rather easy to turn the brain off and just enjoy the opera as it is."
 slug = "bemf-orlando-a-dazzingly-performed-spectacle"
 title = "BEMF Orlando a dazzlingly performed spectacle"
@@ -66,7 +66,7 @@ As messy as the plot of _Orlando_ is, this approach worked for this opera just a
 
 </figure>
 
-And then there were several deft staging touches that, while perhaps not always accurate to the period, were nevertheless in good taste, and of these there are too many examples to count.  It also had some very adept comedy: in particular, Angelica had some stage business with a shepherdess hat in Act I that complimented the humor of the scene where she would tilt the hat down to hide her face any time she insisted she was not Angelica to Orlando. And then there was how the illusory people in Atlante's palace moved with rather robotic motions: it added to the idea that these people were not necessarily real. 
+And then there were several deft staging touches that, while perhaps not always accurate to the period, were nevertheless in good taste, and of these there are too many examples to count.  It also had some very adept comedy: in particular, Angelica had some stage business with a shepherdess hat in Act I that complimented the humor of the scene where she would tilt the hat down to hide her face any time she insisted she was not Angelica to Orlando. And then there was how the illusory people in Atlante's palace moved with rather robotic motions: it added to the idea that these people were not necessarily real.
 
 It was a lot of little touches all throughout the production, but the appropriateness of each little touch added to the drama and to the conceit of the whole production.
 
@@ -76,11 +76,11 @@ It was a lot of little touches all throughout the production, but the appropriat
 
 </figure>
 
-But of course, it all comes down to the singing in the end, and the musical direction allowed for some top-notch sung performances across the board. BEMF typically finds singers that are extremely well-versed in Baroque styles of singing, and the result ensures that it always feels like something is happening even in patches where there is nothing of import happening. 
+But of course, it all comes down to the singing in the end, and the musical direction allowed for some top-notch sung performances across the board. BEMF typically finds singers that are extremely well-versed in Baroque styles of singing, and the result ensures that it always feels like something is happening even in patches where there is nothing of import happening.
 
-Practically the entire cast flawlessly pulled off Steffani's virtuosic vocal writing with ease, but what is more is that they also did so with such clarity in the line that every note in the runs could be heard. They also colored their voices in interesting ways to suit the needs of the drama: in particular, I must point at an aria in Act II in which [Amanda Forsythe](/scene/people/amanda-forsythe/)'s Angelica laments the fact she cannot find Medoro: the way her voice ebbed in and out with a pure tone leant a sorrow to the aria that would have been lost had it been performed any other way. 
+Practically the entire cast flawlessly pulled off Steffani's virtuosic vocal writing with ease, but what is more is that they also did so with such clarity in the line that every note in the runs could be heard. They also colored their voices in interesting ways to suit the needs of the drama: in particular, I must point at an aria in Act II in which [Amanda Forsythe](/scene/people/amanda-forsythe/)'s Angelica laments the fact she cannot find Medoro: the way her voice ebbed in and out with a pure tone leant a sorrow to the aria that would have been lost had it been performed any other way.
 
-And then, Emöke Baráth's Bradamante came charging forth with full voice any time she scolded Ruggiero for what she perceived as his unfaithfulness. Practically everyone had something to offer with that, from the way that [Jesse Blumberg](/scene/people/jesse-blumberg/)'s tone as Atlante grew softer after he stops trying to get in the way of Bradamante and Ruggiero to the passion with which Aaron Sheehan delivered his show-stopping Act III prison aria as Orlando, and the result was a well-rounded cast at the top of their game lending credibility to the emotions and motivations of the characters.
+And then, [Emöke Baráth](/scene/people/emoke-barath/)'s Bradamante came charging forth with full voice any time she scolded Ruggiero for what she perceived as his unfaithfulness. Practically everyone had something to offer with that, from the way that [Jesse Blumberg](/scene/people/jesse-blumberg/)'s tone as Atlante grew softer after he stops trying to get in the way of Bradamante and Ruggiero to the passion with which [Aaron Sheehan](/scene/people/aaron-sheehan/) delivered his show-stopping Act III prison aria as Orlando, and the result was a well-rounded cast at the top of their game lending credibility to the emotions and motivations of the characters.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560465023/media/2019/06/BEMForlandodress-24.jpg){{% /md %}}
 
