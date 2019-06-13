@@ -3,7 +3,6 @@ author = ["authors/arturo-fernandez.md"]
 categories = "Review"
 date = "2019-06-13T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "[_Orlando _](https://bemf.org/2019-festival/festival-operas/centerpiece-opera/)runs at Boston Early Music Festival through June 16."
 preamble = ""
