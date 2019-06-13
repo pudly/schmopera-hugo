@@ -22,6 +22,12 @@ The Boston opera scene has had an entire half of a season full of productions th
 
 Typically, these are earlier operas, where performance requires a razor-sharp edge on the musical aspects of the work, and the performance can live or die on how well the music comes across to the audience.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 Thus, we turn to Agostino Steffani's _Orlando_, a singularly strange operatic creature that the [Boston Early Music Festival](https://bemf.org/2019-festival/) has decided to stage as its centerpiece opera in its 2019 festival. _Orlando_ is likely a difficult work to make sense of, particularly since Ortensio Mauro's libretto for the opera essentially hinges on the characters doing things for no reason other than the plot demanding it.
 
 For example, there is a sorcerer character named Atlante, who begins the work opposing the marriage of the lovers Bradamante and Ruggiero. It is never really explained why he does not want this marriage to occur, and then in Act II the big lovers' spat between Bradamante and Ruggiero ends up happening anyway thanks to factors that Atlante has no part in. After all this (and a second encounter where Bradamante uses her ring to overpower Atlante), he suddenly decides not to oppose it, quite literally because Fate decreed they would marry.
