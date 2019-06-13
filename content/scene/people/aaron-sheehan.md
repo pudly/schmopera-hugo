@@ -4,9 +4,12 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1560465992/m
 primary_image_credit = "Kevin Day"
 related_companies = ["scene/companies/opera-atelier.md", "scene/companies/staatsoper-berlin.md"]
 slug = "aaron-sheehan"
-social_media = []
 title = "Aaron Sheehan"
 website = "http://www.aaronsheehantenor.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/tenor_aaron"
 
 +++
 A first-rate interpreter of Bach, Handel and Mozart, **Aaron Sheehan** has performed with American Bach Soloists, Boston Baroque, Boston Early Music Festival, Calgary Philharmonic, Charlotte Symphony, Handel and Haydn Society, North Carolina Symphony, New York Collegium, Orpheus Chamber Orchestra, Pacific Music Works, National Symphony of Peru, Seattle Symphony and Tafelmusik.
