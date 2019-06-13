@@ -11,7 +11,7 @@ primary_image = ""
 primary_image_credit = ""
 related_articles = []
 related_companies = []
-related_people = []
+related_people = ["scene/people/amanda-forsythe.md", "scene/people/jesse-blumberg.md"]
 short_description = "As messy as the plot of Orlando is, this approach worked for this opera just as well as it has in previous seasons, and the result was rather a joy to watch that it became rather easy to turn the brain off and just enjoy the opera as it is."
 slug = "bemf-orlando-a-dazzingly-performed-spectacle"
 title = "BEMF Orlando a dazzlingly performed spectacle"
@@ -24,7 +24,7 @@ Typically, these are earlier operas, where performance requires a razor-sharp ed
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560465096/media/2019/06/BEMForlandodress-05.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Emöke Baráth as Bradamante in Orlando, Boston Early Music Festival, 2019. Photo: Kathy Wittman.</figcaption>
 
 </figure>
 
@@ -34,7 +34,7 @@ For example, there is a sorcerer character named Atlante, who begins the work op
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560465085/media/2019/06/BEMForlandodress-03.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Jesse Blumberg (Atlante) and Emöke Baráth (Bradamante) in Orlando, Boston Early Music Festival, 2019. Photo: Kathy Wittman.</figcaption>
 
 </figure>
 
@@ -44,7 +44,7 @@ The one thing that is made clear is a very wild series of misunderstandings betw
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560465075/media/2019/06/BEMForlandodress-06.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Emöke Baráth (Bradamante) in Orlando, Boston Early Music Festival, 2019. Photo: Kathy Wittman.</figcaption>
 
 </figure>
 
@@ -54,7 +54,7 @@ The plot of _Orlando_ thus comes off as an excuse to let the singers explore all
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560465065/media/2019/06/BEMForlandodress-14.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>A scene from Orlando, Boston Early Music Festival, 2019. Photo: Kathy Wittman.</figcaption>
 
 </figure>
 
@@ -62,7 +62,7 @@ As messy as the plot of _Orlando_ is, this approach worked for this opera just a
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560465053/media/2019/06/BEMForlandodress-12.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Amanda Forsythe (Angelica) in Orlando, Boston Early Music Festival, 2019. Photo: Kathy Wittman.</figcaption>
 
 </figure>
 
@@ -72,19 +72,19 @@ It was a lot of little touches all throughout the production, but the appropriat
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560465040/media/2019/06/BEMForlandodress-20.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Aaron Sheehan (Orlando) in Orlando, Boston Early Music Festival, 2019. Photo: Kathy Wittman.</figcaption>
 
 </figure>
 
 But of course, it all comes down to the singing in the end, and the musical direction allowed for some top-notch sung performances across the board. BEMF typically finds singers that are extremely well-versed in Baroque styles of singing, and the result ensures that it always feels like something is happening even in patches where there is nothing of import happening. 
 
-Practically the entire cast flawlessly pulled off Steffani's virtuosic vocal writing with ease, but what is more is that they also did so with such clarity in the line that every note in the runs could be heard. They also colored their voices in interesting ways to suit the needs of the drama: in particular, I must point at an aria in Act II in which Amanda Forsythe's Angelica laments the fact she cannot find Medoro: the way her voice ebbed in and out with a pure tone leant a sorrow to the aria that would have been lost had it been performed any other way. 
+Practically the entire cast flawlessly pulled off Steffani's virtuosic vocal writing with ease, but what is more is that they also did so with such clarity in the line that every note in the runs could be heard. They also colored their voices in interesting ways to suit the needs of the drama: in particular, I must point at an aria in Act II in which [Amanda Forsythe](/scene/people/amanda-forsythe/)'s Angelica laments the fact she cannot find Medoro: the way her voice ebbed in and out with a pure tone leant a sorrow to the aria that would have been lost had it been performed any other way. 
 
-And then, Emöke Baráth's Bradamante came charging forth with full voice any time she scolded Ruggiero for what she perceived as his unfaithfulness. Practically everyone had something to offer with that, from the way that Jesse Blumberg's tone as Atlante grew softer after he stops trying to get in the way of Bradamante and Ruggiero to the passion with which Aaron Sheehan delivered his show-stopping Act III prison aria as Orlando, and the result was a well-rounded cast at the top of their game lending credibility to the emotions and motivations of the characters.
+And then, Emöke Baráth's Bradamante came charging forth with full voice any time she scolded Ruggiero for what she perceived as his unfaithfulness. Practically everyone had something to offer with that, from the way that [Jesse Blumberg](/scene/people/jesse-blumberg/)'s tone as Atlante grew softer after he stops trying to get in the way of Bradamante and Ruggiero to the passion with which Aaron Sheehan delivered his show-stopping Act III prison aria as Orlando, and the result was a well-rounded cast at the top of their game lending credibility to the emotions and motivations of the characters.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560465023/media/2019/06/BEMForlandodress-24.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>A scene from Orlando, Boston Early Music Festival, 2019. Photo: Kathy Wittman.</figcaption>
 
 </figure>
 
