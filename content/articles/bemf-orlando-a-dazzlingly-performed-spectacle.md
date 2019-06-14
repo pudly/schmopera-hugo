@@ -39,6 +39,8 @@ For example, there is a sorcerer character named Atlante, who begins the work op
 
 This is far from the only element of Mauro's libretto that does not quite add up. Atlante also decides to form a strange palace for the characters to get lost in. Why does he do that? A reason is never given. Then, there is Angelica, a princess who decides to disguise herself as a shepherdess to investigate something in her father's house. Exactly what she decides to investigate is never made clear, and it instead becomes more of a set-up to allow title character Orlando to face a crisis of love that drives him mad. Of course, Orlando is suddenly cured of his madness, in no small part thanks to Angelica's father Galafro throwing him in a cell out of pity.
 
+>The plot of Orlando thus comes off as an excuse to let the singers explore all sorts of configurations of love.
+
 The one thing that is made clear is a very wild series of misunderstandings between different groups of lovers, all of whom grow jealous of each other as the work goes on. Bradamante becomes angry at Ruggiero when she mistakenly thinks Ruggiero has fallen for Angelica, Orlando's madness is triggered by his belief that Angelica loves Ruggiero, his madness manifests as believing that everyone is Angelica, and the whole time Angelica is trying to reunite with Medoro, who happens to be her actual lover.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560465075/media/2019/06/BEMForlandodress-06.jpg){{% /md %}}
@@ -48,6 +50,8 @@ The one thing that is made clear is a very wild series of misunderstandings betw
 </figure>
 
 Things get complicated when Galafro only releases on the request of his disguised daughter, and even then it is primarily because he begins to lust after her not knowing that the beautiful shepherdess is, in fact, his daughter in disguise.
+
+>The dance corps that BEMF hired should also be applauded for some truly beautiful dancing.
 
 The plot of _Orlando_ thus comes off as an excuse to let the singers explore all sorts of configurations of love. With such a work, therefore, the only way to engage it is on its own strange, silly terms. Ironically, this is perhaps why this opera is actually a perfect fit for the Boston Early Music Festival: BEMF has made it a habit of staging works by maintaining as much fidelity to Baroque staging styles as is reasonable, with the costume and set design taking many, many cues from production notes from the actual 17th and 18th centuries and updating many of the gestural cues involved. The stage directors that work with BEMF are thus kind of required to engage with the works they perform as they are, and typically this leads to a very fun, very spectacular result.
 
@@ -65,11 +69,11 @@ As messy as the plot of _Orlando_ is, this approach worked for this opera just a
 
 </figure>
 
-And then there were several deft staging touches that, while perhaps not always accurate to the period, were nevertheless in good taste, and of these there are too many examples to count.  It also had some very adept comedy: in particular, Angelica had some stage business with a shepherdess hat in Act I that complimented the humor of the scene where she would tilt the hat down to hide her face any time she insisted she was not Angelica to Orlando. And then there was how the illusory people in Atlante's palace moved with rather robotic motions: it added to the idea that these people were not necessarily real.
+And then there were several deft staging touches that, while perhaps not always accurate to the period, were nevertheless in good taste, and of these there are too many examples to count.  It also had some very adept comedy: in particular, Angelica had some stage business with a shepherdess hat in Act I that complemented the humor of the scene where she would tilt the hat down to hide her face any time she insisted she was not Angelica to Orlando. And then there was how the illusory people in Atlante's palace moved with rather robotic motions: it added to the idea that these people were not necessarily real.
 
 >Steffani's music is innovative and strange according to the conventions of his time.
 
-It was a lot of little touches all throughout the production, but the appropriateness of each little touch added to the drama and to the conceit of the whole production.
+It was a lot of little touches all throughout, but the appropriateness of each little touch added to the drama and to the conceit of the whole production.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560465040/media/2019/06/BEMForlandodress-20.jpg){{% /md %}}
 
