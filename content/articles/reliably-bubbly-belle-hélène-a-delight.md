@@ -62,7 +62,7 @@ Of course, to support them was the quintessential Offenbach chorus and their sou
 
 The production design was also a good deal of fun on its own, and they contributed to the fun. The costumes did confuse me at first, as they went with a mixed Greco-Parisian aesthetic that seemed to jump between time periods. At first, I wondered if they were stuck between two modes, but as the production went on it actually added to the carefree nature of the whole work, and thus it ended up working. Besides, I hardly think the visual humor of conjoined Ajaxes would have worked nearly as well without the costuming department really nailing their costume design, and there was something about drunk party child Orestes wearing a businessman's tuxedo the entire time that was great. The sets were also rather ornate for Odyssey Opera, and they all looked great for as simple as they generally were. The one misstep is probably the lighting design: there was certainly good mood lighting and it did contribute to the comedy on occasion, but they decided to employ strobe lighting during a particularly difficult passage for the chorus, and I am fairly certain that this decision led to one of the biggest coordination issues of the entire evening.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560645222/media/2019/06/AdamFisher_GingerCostaJackson.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
