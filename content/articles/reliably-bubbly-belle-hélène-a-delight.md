@@ -3,12 +3,11 @@ author = ["authors/arturo-fernandez.md"]
 categories = "Review"
 date = "2019-06-15T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1560645047/media/2019/06/sqAlanSchneider_GingerCostaJackson_AdamFisher.jpg"
-primary_image_credit = ""
+primary_image_credit = "Odyssey Opera's La belle Hélène by Jacques Offenbach. Photo: Kathy Wittman."
 related_articles = []
 related_companies = ["scene/companies/odyssey-opera.md"]
 related_people = ["scene/people/adam-fisher.md", "scene/people/ginger-costajackson.md"]
@@ -24,7 +23,7 @@ Thus, we come to _La Belle Hélène_, his send-up of Paris' courtship of Helen t
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560645109/media/2019/06/Ensemble_3.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Odyssey Opera's La belle Hélène by Jacques Offenbach. Photo: Kathy Wittman.</figcaption>
 
 </figure>
 
@@ -32,7 +31,7 @@ Still, the exaggeration is not entirely absent, and this is when the work truly 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560645122/media/2019/06/Ensemble_GingerCostaJackson.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Odyssey Opera's La belle Hélène by Jacques Offenbach. Photo: Kathy Wittman.</figcaption>
 
 </figure>
 
@@ -44,7 +43,7 @@ Ironically, the two least interesting characters were the ones with the two best
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560645137/media/2019/06/BenWager_DavidMcFerrin_FeliciaGavilanes_RacheleSchmiege.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Odyssey Opera's La belle Hélène by Jacques Offenbach. Photo: Kathy Wittman.</figcaption>
 
 </figure>
 
@@ -54,7 +53,7 @@ Christian Figueroa made for a hilariously dimwitted Achilles by playing him with
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560645162/media/2019/06/StevenGoldstein_GregoryZavracky.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Odyssey Opera's La belle Hélène by Jacques Offenbach. Photo: Kathy Wittman.</figcaption>
 
 </figure>
 
@@ -64,7 +63,7 @@ The production design was also a good deal of fun on its own, and they contribut
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560645222/media/2019/06/AdamFisher_GingerCostaJackson.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Odyssey Opera's La belle Hélène by Jacques Offenbach. Photo: Kathy Wittman.</figcaption>
 
 </figure>
 
