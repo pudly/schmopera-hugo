@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/when-it-s-not-about-the-music-per-se.md
 - content/articles/reliably-bubbly-belle-hélène-a-delight.md
 - content/articles/bemf-orlando-a-dazzlingly-performed-spectacle.md
 - content/articles/andrea-chenier.md
