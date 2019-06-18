@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "\"I hope audiences will walk away inspired, with renewed strength to fight back against the oppression of marginalized communities.\""
-slug = "stonewall"
-title = "Stonewall"
+slug = "stonewall-uplifting-and-eerily-timely"
+title = "Stonewall: \"Uplifting and eerily timely.\""
 youtube_url = ""
 
 +++
