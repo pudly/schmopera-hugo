@@ -37,7 +37,7 @@ It is also where my biggest challenge lies. My character conveys a vast array of
 
 I hope audiences will walk away inspired, with renewed strength to fight back against the oppression of marginalized communities. Our story is one of celebration, but it is also a reminder of how far we still have to go.
 
-<figure data-type="video">{{% md %}}{{% /md %}}
+<figure data-type="video">{{% md %}}<iframe src="[https://drive.google.com/file/d/1T982TZkc2sR0787i3hmDKmmqKDzpQm5P/preview](https://drive.google.com/file/d/1T982TZkc2sR0787i3hmDKmmqKDzpQm5P/preview "https://drive.google.com/file/d/1T982TZkc2sR0787i3hmDKmmqKDzpQm5P/preview")" width="640" height="480"></iframe>{{% /md %}}
 
 <figcaption></figcaption>
 
