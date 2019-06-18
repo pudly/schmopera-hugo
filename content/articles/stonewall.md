@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2019-06-17T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "[_Stonewall_](https://nycopera.com/shows/stonewall/) runs June 21-28 at Jazz at Lincoln Center, 10 Columbus Circle, NY. Bonus: the June 28th performance"
 preamble = "This month in New York, Pride Month includes a world premiere of a new opera. [_Stonewall_](https://nycopera.com/shows/stonewall/), by Iain Bell and Mark Campbell commemorates the 50th anniversary of the titular uprising at a Greenwich Village club in 1969.\n\nWe spoke with Brian James Myer, who creates the role of Carlos in [_Stonewall_](https://nycopera.com/shows/stonewall/), about the important timing of this new opera."
