@@ -12,7 +12,7 @@ primary_image_credit = "Photo: Theresa Pewal."
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "\"The biggest thing is believing yourself that the character is real, is alive. Then it draws on your own experiences, your own emotions, in order to communicate.\""
 slug = "puppetry-and-opera"
 title = "Puppetry and opera"
 youtube_url = ""
@@ -58,4 +58,6 @@ The biggest thing is believing yourself that the character is real, is alive. Th
 
 ## What do you hope audiences will take away from your production of _L'Orfeo_?
 
-We want audiences to take the story and the music in as fresh and affecting a way as we can tell it/play it/sing it, and they can take it. We want to facilitate that connection with everybody in the room, whoever they are - never get in the way of it, but charm people into feeling and experiencing it. We hope they will feel the power of this universal human myth through Monteverdi's beautiful music in their innermost beings, and be changed by it. I think that's no less than our job, as makers of opera and theatre, at all times. It doesn't always work, but that’s what I hope we're all trying to do.
+We want audiences to take the story and the music in as fresh and affecting a way as we can tell it/play it/sing it, and they can take it. We want to facilitate that connection with everybody in the room, whoever they are - never get in the way of it, but charm people into feeling and experiencing it. 
+
+We hope they will feel the power of this universal human myth through Monteverdi's beautiful music in their innermost beings, and be changed by it. I think that's no less than our job, as makers of opera and theatre, at all times. It doesn't always work, but that’s what I hope we're all trying to do.
