@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1560900169/media/2019/06/sqThomasGuthrie-TheresaPewal.jpg"
+primary_image_credit = "Photo: Theresa Pewal."
 related_articles = []
 related_companies = []
 related_people = []
@@ -68,7 +68,13 @@ interesting! And it’s the only way to guarantee that the audience can really
 
 start to believe and engage with the story.
 
-2\. What do you think Monteverdi&#39;s L&#39;Orfeo says about men, women, and
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption>Photo: Theresa Pewal.</figcaption>
+
+</figure>
+
+2\. What do you think Monteverdi's L'Orfeo says about men, women, and
 
 love? How will your mask and puppetry techniques tell this story?
 
@@ -150,7 +156,7 @@ make the illusion happen. It’s really magical.
 
 4\. What do you hope audiences will take away from your production of
 
-L&#39;Orfeo?
+L'Orfeo?
 
 We want audiences to take the story and the music in as fresh and affecting a
 
