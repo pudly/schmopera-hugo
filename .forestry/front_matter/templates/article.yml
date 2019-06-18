@@ -116,9 +116,9 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/stonewall.md
 - content/articles/don-t-miss-macbeth-in-vancouver.md
 - content/articles/when-it-s-not-about-the-music-per-se.md
-- content/articles/stonewall.md
 - content/articles/reliably-bubbly-belle-hélène-a-delight.md
 - content/articles/bemf-orlando-a-dazzlingly-performed-spectacle.md
 - content/articles/andrea-chenier.md
