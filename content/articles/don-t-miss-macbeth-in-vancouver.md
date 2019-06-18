@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1560892855/media/2019/06/sqMacbeth.jpg"
+primary_image_credit = "Andrew Greenwood as Macbeth, Melissa Ratcliff as Lady Macbeth in Heroic Opera's production of Macbeth. Photo: Kathryn Nickford."
 related_articles = []
 related_companies = []
 related_people = []
@@ -28,9 +28,15 @@ I think we need to be careful not to give too much to singers too soon. Just bec
 
 ## As a director, what do you find most exciting about directing Verdi's _Macbeth_? What do you find most challenging?
 
-I mean…I love me a salacious tale, and this is _Game of Thrones_-level drama. Treachery, swordfights, murders, wild women in the woods telling the future…what isn't to love? And the way Verdi tells the tale musically, he really makes my job easy – I just have to listen to what the music is asking of us. 
+I mean…I love me a salacious tale, and this is _Game of Thrones_-level drama. Treachery, swordfights, murders, wild women in the woods telling the future…what isn't to love? And the way Verdi tells the tale musically, he really makes my job easy – I just have to listen to what the music is asking of us.
 
 The most challenging? Probably the technicality behind that damn ghost of Banquo appearing and disappearing. Although that may be because we just staged that scene, and it turns out real people can't physically do what my brain decided they could.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560892902/media/2019/06/JeanineFynn-KatieCross.jpg){{% /md %}}
+
+<figcaption>Jeanine Fynn, director of Heroic Opera's Macbeth. Photo: Katie Jameson.</figcaption>
+
+</figure>
 
 ## What do you hope your production of _Macbeth_ will say about power, jealousy, and husbands and wives?
 
