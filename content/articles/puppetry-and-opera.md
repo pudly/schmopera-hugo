@@ -1,7 +1,7 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Interview"
-date = "2019-06-19T04:00:00+00:00"
+date = "2019-06-18T04:00:00+00:00"
 disclaimer = ""
 image_gallery = []
 postamble = "Thomas Guthrie's production of _L'Orfeo_ runs [5 July](https://tickets.ncem.co.uk/en-GB/shows/monteverdi's%20l'orfeo/events) at YEMF, and [7 July](https://lso.co.uk/whats-on/icalrepeat.detail/2019/07/07/1665/-/i-fagiolini-music-theatre-for-all-l-orfeo.html) at LSO St. Luke's."
