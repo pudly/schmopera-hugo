@@ -5,8 +5,8 @@ date = "2019-06-19T04:00:00+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = "Stage director Thomas Guthrie is set to open his very special production of Monteverdi's _L'Orfeo_. In a partnership with I Fagiolini and Music and Theatre for All, Guthrie's' _L'Orfeo_ uses "
-preamble = ""
+postamble = "Thomas Guthrie's production of _L'Orfeo_\" "
+preamble = "On [5 July at the York Early Music Festival](https://tickets.ncem.co.uk/en-GB/shows/monteverdi's%20l'orfeo/events), and [7 July at LSO St. Luke's](https://lso.co.uk/whats-on/icalrepeat.detail/2019/07/07/1665/-/i-fagiolini-music-theatre-for-all-l-orfeo.html) in London, stage director Thomas Guthrie is set to open his very special production of Monteverdi's _L'Orfeo_. In a partnership with I Fagiolini and Music and Theatre for All, Guthrie's' _L'Orfeo_ uses ancient Greek mask and puppetry techniques. \n\nWe spoke with Guthrie about his fusion of opera and puppetry, and the special storytelling power that puppets have."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1560900169/media/2019/06/sqThomasGuthrie-TheresaPewal.jpg"
 primary_image_credit = "Photo: Theresa Pewal."
 related_articles = []
@@ -30,9 +30,9 @@ Puppetry has always been associated - and performed - with music. As the Swedish
 
 So (in theory!) they should be particularly effective in opera. And what is crucial to me is that it is the singer - the originator in the moment of the thought and its articulation - who has to be the main puppeteer. Which is to say they have to work the head. This isn't always easy, but it is always interesting! And it's the only way to guarantee that the audience can really start to believe and engage with the story.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560902166/media/2019/06/ThomasGuthrie6TheresaPewal-1.jpg){{% /md %}}
 
-<figcaption>Photo: Theresa Pewal.</figcaption>
+<figcaption>Thomas Guthrie, stage director. Photo: Theresa Pewal.</figcaption>
 
 </figure>
 
@@ -55,6 +55,12 @@ It's one of the things I am loving most about working with puppets - and our won
 They bring a focus out of us which we can take into other work. The puppeteer has to serve the puppet - to believe the puppet is alive and then respond to its needs. Just as in straightforward acting, if we can do it, the actor has to serve the character. 
 
 The biggest thing is believing yourself that the character is real, is alive. Then it draws on your own experiences, your own emotions, in order to communicate. It's like myth - and what's happening with the audience - in reverse. Everyone is projecting onto the puppet - the character - and drawing on their own imaginations to make the illusion happen. It's really magical.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560902146/media/2019/06/ThomasGuthrie3TheresaPewal.jpg){{% /md %}}
+
+<figcaption>Thomas Guthrie, stage director. Photo: Theresa Pewal.</figcaption>
+
+</figure>
 
 ## What do you hope audiences will take away from your production of _L'Orfeo_?
 
