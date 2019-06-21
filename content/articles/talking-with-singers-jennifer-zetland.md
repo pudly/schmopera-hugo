@@ -14,7 +14,7 @@ related_companies = []
 related_people = []
 short_description = "\"I love to tell stories and I love great music, and I can't imagine a better blend of the two! That I get to do it for a living constantly astonishes me, no exaggeration.\""
 slug = "talking-with-singers-jennifer-zetlan"
-title = "Talking with singers: Jennifer Zetland"
+title = "Talking with singers: Jennifer Zetlan"
 youtube_url = ""
 
 +++
