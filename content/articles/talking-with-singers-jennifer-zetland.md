@@ -40,4 +40,4 @@ I used to spend a lot of time fretting about what made me different from all the
 
 ## If you didn't sing for a living, what would you do instead?
 
-I can hardly even imagine a world in which singing/acting wasn’t my occupation, but in another universe I might have been a lighting designer. Or- totally different- I would own/run a yarn store.
+I can hardly even imagine a world in which singing/acting wasn't my occupation, but in another universe I might have been a lighting designer. Or - totally different - I would own/run a yarn store.
