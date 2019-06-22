@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1561163928/media/2019/06/sq405edit.jpg"
+primary_image_credit = "Photo: Arielle Doneson."
 related_articles = []
 related_companies = []
 related_people = []
@@ -29,6 +29,12 @@ I love having the composer present in the room. I can't even count the number of
 ## What do you enjoy most about working with Ricky Ian Gordon?
 
 Ricky is such a wonderful presence in any room. He's wise and funny and soulful and we connect so well. It's so gratifying to work with him, and to be able to call him a dear friend.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1561164011/media/2019/06/JenniferZetlanfull.jpg){{% /md %}}
+
+<figcaption>Jennifer Zetlan, soprano. Photo: Arielle Doneson.</figcaption>
+
+</figure>
 
 ## What do you think singers appreciate from composers in new opera?
 
