@@ -3,12 +3,11 @@ author = ["authors/arturo-fernandez.md"]
 categories = "Review"
 date = "2019-06-23T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1561327973/media/2019/06/sqLittlePrince1976.jpg"
-primary_image_credit = ""
+primary_image_credit = "The Little Prince, NEMPAC, 2019. Photo: Sabrina Ornae."
 related_articles = []
 related_companies = []
 related_people = []
@@ -24,7 +23,7 @@ Thus, we come to Rachel Portman's _The Little Prince_, her enchanting two-act op
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1561327832/media/2019/06/LittlePrince1874.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>The Little Prince, NEMPAC, 2019. Photo: Sabrina Ornae.</figcaption>
 
 </figure>
 
@@ -32,7 +31,7 @@ Regardless, the innocence remains, and in the dramatically important moments it 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1561327851/media/2019/06/LittlePrince1894.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>The Little Prince, NEMPAC, 2019. Photo: Sabrina Ornae.</figcaption>
 
 </figure>
 
@@ -44,7 +43,7 @@ One also has to ask oneself how people deal with that when you have a very tiny 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1561327874/media/2019/06/LittlePrince1953.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>The Little Prince, NEMPAC, 2019. Photo: Sabrina Ornae.</figcaption>
 
 </figure>
 
@@ -56,7 +55,7 @@ And then, there was the blocking, which was generally quite excellent. The block
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1561327920/media/2019/06/LittlePrince2014.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>The Little Prince, NEMPAC, 2019. Photo: Sabrina Ornae.</figcaption>
 
 </figure>
 
@@ -64,7 +63,7 @@ Ultimately, however, it is all in the performances given, and in many ways every
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1561327943/media/2019/06/LittlePrince2060.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>The Little Prince, NEMPAC, 2019. Photo: Sabrina Ornae.</figcaption>
 
 </figure>
 
@@ -76,7 +75,7 @@ Perhaps somewhat lacking was the Prince himself: Linus Schaeffer-Golthorpe perha
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1561327963/media/2019/06/LittlePrince2247.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>The Little Prince, NEMPAC, 2019. Photo: Sabrina Ornae.</figcaption>
 
 </figure>
 
