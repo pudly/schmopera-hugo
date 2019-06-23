@@ -85,7 +85,7 @@
       <div class="single--scene_meta">
         <h3>{{ .Params.discipline }}</h3>
 
-        {{ if .Params.social_media }}
+        {{ if or (isset .Params "social_media") (isset .Params "website") }}
         <nav class="nav--share">
         {{ if .Params.website }}
         <a href="{{ .Params.website }}" class="social--web pill" target="_blank"><i class="icon-web"></i>Website</a>
