@@ -46,6 +46,7 @@ fields:
   label: Related People
   name: related_people
 pages:
+- content/scene/companies/muse-9-productions.md
 - content/scene/companies/heroic-opera.md
 - content/scene/companies/boston-early-music-festival.md
 - content/scene/companies/city-lyric-opera.md
