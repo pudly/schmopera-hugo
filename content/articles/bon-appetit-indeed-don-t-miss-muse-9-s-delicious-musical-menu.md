@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1561329104/media/2019/06/sqVegPic1.jpg"
+primary_image_credit = "Katy Clarke (left) and Victora Borg, both singing in Muse 9's Bon Appetit! A Musical Tasting Menu, June 27, 8pm at Merchants of Green Coffee."
 related_articles = []
 related_companies = []
 related_people = []
@@ -34,6 +34,12 @@ I had briefly coached [Danika Lorèn](/spotlight-on-danika-loren/) on the early 
 
 Our first season dealt with heavy subject matter exploring the life of Virginia Woolf, so we wanted to contrast that with a comedic second season.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1561329167/media/2019/06/Muse9VegCollage.jpg){{% /md %}}
+
+<figcaption>The creative team of Muse 9's Bon Appetit! A Musical Tasting Menu: (clockwise from top left) Anna Theodosakis, stage director, Victoria Borg, mezzo-soprano, Hyejin Kwon, Music Director, and Katy Clark, soprano.</figcaption>
+
+</figure>
+
 ## What can audiences expect at _Bon Appetit! A Musical Tasting Menu_?
 
 **Anna**: They can expect hilarious texts paired with many catchy tunes and of course a slice of delicious chocolate cake. The staging we've developed for the two art songs sets makes the poetry leap off the page and heightens the comedic potential. Audiences will be able to experience Julia Child out of their TVs and up close in _Bon Appetit!_.
@@ -51,3 +57,9 @@ Our first season dealt with heavy subject matter exploring the life of Virginia 
 **Anna**: Is it weird if I say onions? I think they add so much to any savoury dish, and I happen to love what Crozier says about the onion in her poem: "some say it has no heart, it doesn't need one. It surrounds itself, feels whole."
 
 **Hyejin**: Hands down, the cake.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1561329148/media/2019/06/BonAppetitBanner.png){{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
