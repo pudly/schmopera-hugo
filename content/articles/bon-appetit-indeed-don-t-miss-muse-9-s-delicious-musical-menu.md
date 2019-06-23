@@ -37,7 +37,7 @@ Our first season dealt with heavy subject matter exploring the life of Virginia 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1561329167/media/2019/06/Muse9VegCollage.jpg){{% /md %}}
 
-<figcaption>The creative team of Muse 9's Bon Appetit! A Musical Tasting Menu: (clockwise from top left) Anna Theodosakis, stage director, Victoria Borg, mezzo-soprano, Hyejin Kwon, Music Director, and Katy Clark, soprano.</figcaption>
+<figcaption>The creative team of Muse 9's Bon Appetit! A Musical Tasting Menu: (clockwise from top left) Anna Theodosakis, Stage Director, Victoria Borg, mezzo-soprano, Hyejin Kwon, Music Director, and Katy Clark, soprano.</figcaption>
 
 </figure>
 
