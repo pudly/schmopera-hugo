@@ -36,7 +36,9 @@ Regardless, the innocence remains, and in the dramatically important moments it 
 
 </figure>
 
-The fantastical settings are a different matter, and this depends less on the opera itself and more on the production design. And here is when we turn to the North End Music and Performing Arts Center's production of this opera in Faneuil Hall in the heart of Boston. There was really not much NEMPAC could do with producing the fantastical nature of the work: it is difficult, after all, to produce much in the way of set design in a decorated hall with priceless oil paintings and marble busts situated right behind the performance area. 
+The fantastical settings are a different matter, and this depends less on the opera itself and more on the production design. And here is when we turn to the North End Music and Performing Arts Center's production of this opera in Faneuil Hall in the heart of Boston. There was really not much NEMPAC could do with producing the fantastical nature of the work: it is difficult, after all, to produce much in the way of set design in a decorated hall with priceless oil paintings and marble busts situated right behind the performance area.
+
+>In the show's funnier moments, it also has impeccable timing, managing its tone shifts with such grace the laughs came naturally.
 
 One also has to ask oneself how people deal with that when you have a very tiny budget to work with. Here, the production has mixed results, for while some touches worked others did not quite work out so well. For instance, the production design centered around a stage on which a prop plane was placed in center stage. Considering it is one of the few constructed pieces of set (and the only one that stays onstage the entire time), I was led to believe the plane would have more importance in the plot than it ultimately did: the fact that it ultimately was not so important to the plot did make me wonder if it hindered the stage action more than helping it. I also wondered if projections behind the action would have conveyed setting just as well, or even if the constructed setpiece should have been something else more central to the story.
 
@@ -56,7 +58,7 @@ And then, there was the blocking, which was generally quite excellent. The block
 
 </figure>
 
-Ultimately, however, it is all in the performances given, and in many ways everyone involved were rather excellent. Christina English grounded the whole work as the Pilot, whose straightlaced wonder at the Prince's simplicity acted as that bridge between the childlike and the mature which helps to make sense of the Prince's fantastical world. She did so with a warm, colorful voice, and acting that played off of the Prince's actions well. Roselin Osser also showed a playful, tender nature as the Fox: it was a one-scene role, but the Fox's significance to the theme of the work cannot be overstated, and Osser made sure the scene's impact came through with her playful yet tender portrayal of the character. 
+Ultimately, however, it is all in the performances given, and in many ways everyone involved were rather excellent. Christina English grounded the whole work as the Pilot, whose straightlaced wonder at the Prince's simplicity acted as that bridge between the childlike and the mature which helps to make sense of the Prince's fantastical world. She did so with a warm, colorful voice, and acting that played off of the Prince's actions well. Roselin Osser also showed a playful, tender nature as the Fox: it was a one-scene role, but the Fox's significance to the theme of the work cannot be overstated, and Osser made sure the scene's impact came through with her playful yet tender portrayal of the character.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1561327943/media/2019/06/LittlePrince2060.jpg){{% /md %}}
 
