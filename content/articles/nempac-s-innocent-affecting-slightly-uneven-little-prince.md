@@ -24,43 +24,11 @@ Thus, we come to Rachel Portman's _The Little Prince_, her enchanting two-act op
 
 Regardless, the innocence remains, and in the dramatically important moments it generally makes the right decisions on how to set its text. There are several notable instances of this: the Pilot to whom the Prince tells much of his adventures has an aria close to the top of the show in which he talks about his feelings towards flight: it is a fascinating window into his character, showing that he is very much an adult, but still capable of feeling a juvenile wonder at what he loves. In the show's funnier moments, it also has impeccable timing, managing its tone shifts with such grace the laughs came naturally. And then there is an _a capella_ choral point in the second act when the show's moral becomes clear that added a real dramatic heft. This, combined with the fact the music adds characterization that the libretto admittedly somewhat lacks, hints at the strengths of the work, and indeed shows that it is worthy of performance.
 
-The fantastical settings are a different matter, and this depends less on the opera itself and more on the production design. And here is when we turn to the North End Music and
+The fantastical settings are a different matter, and this depends less on the opera itself and more on the production design. And here is when we turn to the North End Music and Performing Arts Center's production of this opera in Faneuil Hall in the heart of Boston. There was really not much NEMPAC could do with producing the fantastical nature of the work: it is difficult, after all, to produce much in the way of set design in a decorated hall with priceless oil paintings and marble busts situated right behind the performance area. 
 
-Performing Arts Center’s production of this opera in Faneuil Hall in the heart of Boston. There
+One also has to ask oneself how people deal with that when you have a very tiny budget to work with. Here, the production has mixed results, for while some touches worked others did not quite work out so well. For instance, the production design centered around a stage on which a prop plane was placed in center stage. Considering it is one of the few constructed pieces of set (and the only one that stays onstage the entire time), I was led to believe the plane would have more importance in the plot than it ultimately did: the fact that it ultimately was not so important to the plot did make me wonder if it hindered the stage action more than helping it. I also wondered if projections behind the action would have conveyed setting just as well, or even if the constructed setpiece should have been something else more central to the story.
 
-was really not much NEMPAC could do with producing the fantastical nature of the work: it is
-
-difficult, after all, to produce much in the way of set design in a decorated hall with priceless oil
-
-paintings and marble busts situated right behind the performance area. One also has to ask
-
-oneself how people deal with that when you have a very tiny budget to work with.
-
-Here, the production has mixed results, for while some touches worked others did not
-
-quite work out so well. For instance, the production design centered around a stage on which a
-
-prop plane was placed in center stage. Considering it is one of the few constructed pieces of set
-
-(and the only one that stays onstage the entire time), I was led to believe the plane would have
-
-more importance in the plot than it ultimately did: the fact that it ultimately was not so important
-
-to the plot did make me wonder if it hindered the stage action more than helping it. I also
-
-wondered if projections behind the action would have conveyed setting just as well, or even if
-
-the constructed setpiece should have been something else more central to the story.
-
-But then, there are other touches that work rather well, especially in how all the show’s
-
-moving parts move about the stage. The supertitles, for instance, did show the Pilot’s
-
-illustrations of the boa constrictor and the sheep. They added the perfect touch to the early part
-
-of the show’s humor, and it was to such an extent that I wish the sketches displayed there had
-
-played more of a part throughout the production.
+But then, there are other touches that work rather well, especially in how all the show's moving parts move about the stage. The supertitles, for instance, did show the Pilot's illustrations of the boa constrictor and the sheep. They added the perfect touch to the early part of the show's humor, and it was to such an extent that I wish the sketches displayed there had played more of a part throughout the production.
 
 And then, there was the blocking, which was generally quite excellent. The blocking
 
