@@ -6,7 +6,7 @@ disclaimer = ""
 draft = true
 image_gallery = []
 postamble = ""
-preamble = ""
+preamble = "This week, Torontonians can catch a deliciously unique concert event: on **June 27, 8pm** at Merchants of Green Coffee, the women of Muse 9 Productions present _Bon Appetit! A Musical Tasting Menu_. It's titled after its headlining piece, Lee Hoiby's delightful ode to Julia Child, _Bon Appetit!_, which is paired with Canadian song cycles by Toronto-based composers: Danika Lorèn's _The Secret Lives of Vegetables_ and Peter Tiefenbach's _Chansons de mon placard_ (_Songs of My Cupboard_).\n\nWe spoke with Muse 9 founders [Anna Theodosakis](/scene/people/anna-theodosakis/) (Stage Director) and Hyejin Kwon (Music Director), about all the yummy items on the evening's menu:"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1561329104/media/2019/06/sqVegPic1.jpg"
 primary_image_credit = "Katy Clarke (left) and Victora Borg, both singing in Muse 9's Bon Appetit! A Musical Tasting Menu, June 27, 8pm at Merchants of Green Coffee."
 related_articles = []
@@ -30,7 +30,7 @@ Having learned of Victoria's family history in baking, Anna's family history of 
 
 **Anna**: When Victoria Borg approached us with the idea of doing the Julia Child opera I jumped at the opportunity to explore the life and work of such a strong feminist icon. Julia Child empowered women both in and out of the kitchen. She paved the way for many more female pioneers in the culinary industry in both publishing and television.
 
-I had briefly coached [Danika Lorèn](/spotlight-on-danika-loren/) on the early stages of her _The Secret Lives of Vegetables_ cycle while she was a member of the COC Ensemble Studio, and knew it would compliment the Hoiby. We are very excited to showcase the brilliant work of Danika as well as Canadian poet Lorna Crozier. Our co-producer and Soprano Katy Clark helped us to discover Peter Tiefenbach's hysterical _Chansons de mon placard_, which perfectly rounds out our menu.
+I had briefly coached [Danika Lorèn](/spotlight-on-danika-loren/) on the early stages of her _The Secret Lives of Vegetables_ cycle while she was a member of the COC Ensemble Studio, and knew it would complement the Hoiby. We are very excited to showcase the brilliant work of Danika as well as Canadian poet Lorna Crozier. Our co-producer and Soprano Katy Clark helped us to discover Peter Tiefenbach's hysterical _Chansons de mon placard_, which perfectly rounds out our menu.
 
 Our first season dealt with heavy subject matter exploring the life of Virginia Woolf, so we wanted to contrast that with a comedic second season.
 
