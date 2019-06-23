@@ -18,38 +18,36 @@ title = "Bon Appetit indeed: don't miss Muse 9's delicious, musical menu"
 youtube_url = ""
 
 +++
-\- What was the inspiration for your kitchen-themed concert?
+## What was the inspiration for your kitchen-themed concert?
 
-Hyejin: During our inaugural season last year, we had the pleasure working with Victoria Borg as our understudy in "From the Diary of Virginia Woolf". I always knew Victoria was a hard working and talented musician, but had no idea she also was a fabulous baker.
+**Hyejin**: During our inaugural season last year, we had the pleasure working with Victoria Borg as our understudy in "From the Diary of Virginia Woolf". I always knew Victoria was a hard working and talented musician, but had no idea she also was a fabulous baker.
 
 I also love cooking and baked goods but I am not as good of a baker as Victoria, so she was kind enough to let me into her kitchen to teach me some of her skills in the art of baking. It was then she shared her story about how her Nonno was a baker when he immigrated from Italy to Canada. I could see how much pride and joy it brought to her when she was talking about him.
 
-Growing up in Korea, food was a huge part of my upbringing and culture. In the end, no matter where you are from, food can bring people together, and deepens the connection between people when a meal is shared. 
+Growing up in Korea, food was a huge part of my upbringing and culture. In the end, no matter where you are from, food can bring people together, and deepens the connection between people when a meal is shared.
 
-Having learned of Victoria’s family history in baking, Anna’s family history of owning a Greek restaurant out West, and my passion for cooking (had I not been a pianist I would have gone into the culinary arts myself and I have multiple chefs in my family), it seemed only natural to plan our second season around food. Victoria introduced us to Hoiby’s "Bon Appetit!" the Julia Child mini-opera, and once that was decided, building a program around it came naturally. 
+Having learned of Victoria's family history in baking, Anna's family history of owning a Greek restaurant out West, and my passion for cooking (had I not been a pianist I would have gone into the culinary arts myself and I have multiple chefs in my family), it seemed only natural to plan our second season around food. Victoria introduced us to Hoiby's Julia Child mini-opera, _Bon Appetit!_, and once that was decided, building a program around it came naturally.
 
-Anna: When Victoria Borg approached us with the idea of doing the Julia Child opera I jumped at the opportunity to explore the life and work of such a strong feminist icon. Julia Child empowered women both in and out of the kitchen. She paved the way for many more female pioneers in the culinary industry in both publishing and television.
+**Anna**: When Victoria Borg approached us with the idea of doing the Julia Child opera I jumped at the opportunity to explore the life and work of such a strong feminist icon. Julia Child empowered women both in and out of the kitchen. She paved the way for many more female pioneers in the culinary industry in both publishing and television.
 
-I had briefly coached Danika Lorèn on the early stages of her “The Secret Lives of Vegetables” cycle while she was a member of the COC Ensemble Studio and knew it would compliment the Hoiby. We are very excited to showcase the brilliant work of Danika as well as Canadian poet Lorna Crozier. Our co-producer and Soprano Katy Clark helped us to discover Peter Tiefenbach’s hysterical “Chansons de mon placard” which perfectly rounds out our menu. 
+I had briefly coached [Danika Lorèn](/spotlight-on-danika-loren/) on the early stages of her _The Secret Lives of Vegetables_ cycle while she was a member of the COC Ensemble Studio, and knew it would compliment the Hoiby. We are very excited to showcase the brilliant work of Danika as well as Canadian poet Lorna Crozier. Our co-producer and Soprano Katy Clark helped us to discover Peter Tiefenbach's hysterical _Chansons de mon placard_, which perfectly rounds out our menu.
 
-Our first season dealt with heavy subject matter exploring the life of Virginia Woolf, so we wanted to contrast that with a comedic second season. 
+Our first season dealt with heavy subject matter exploring the life of Virginia Woolf, so we wanted to contrast that with a comedic second season.
 
-> - What can audiences expect at Bon Appetit! A Musical Tasting Menu?
+## What can audiences expect at _Bon Appetit! A Musical Tasting Menu_?
 
-Anna: They can expect hilarious texts paired with many catchy tunes and of course a slice of delicious chocolate cake. The staging we’ve developed for the two art songs sets makes the poetry leap off the page and heightens the comedic potential. Audiences will be able to experience Julia Child out of their TVs and up close in “Bon Appetit!”.
+**Anna**: They can expect hilarious texts paired with many catchy tunes and of course a slice of delicious chocolate cake. The staging we've developed for the two art songs sets makes the poetry leap off the page and heightens the comedic potential. Audiences will be able to experience Julia Child out of their TVs and up close in _Bon Appetit!_.
 
-Hyejin: Audiences can expect a delightful, delicious, and delectable journey through our menu that has been carefully planned for you. 
+**Hyejin**: Audiences can expect a delightful, delicious, and delectable journey through our menu that has been carefully planned for you.
 
-> - What do you think is the trick to playing a good Julia Child?
+## What do you think is the trick to playing a good Julia Child?
 
-Hyejin: Julia Child was a woman of vision and passion, who carved her way through male dominated industry with grace and sense of humour. Even living in this modern day society, we as women are often faced with challenges and roadblocks that differ from men. In Korea, there is a term that we use often which is “soft on the outside, but tough on the inside”. I think Julia Child was a prime example of that. Friendly, delightful, and very relatable person, who possessed resilience and determination. I think finding the balance between the those qualities, like yin and yang, would be the trick to playing a good Julia Child. 
+**Hyejin**: Julia Child was a woman of vision and passion, who carved her way through male dominated industry with grace and sense of humour. Even living in this modern day society, we as women are often faced with challenges and roadblocks that differ from men. In Korea, there is a term that we use often which is "soft on the outside, but tough on the inside." I think Julia Child was a prime example of that. Friendly, delightful, and very relatable person, who possessed resilience and determination. I think finding the balance between the those qualities, like yin and yang, would be the trick to playing a good Julia Child.
 
-Anna: You need to balance her unapologetic effervescence with her elite skills and commanding presence. Like Child, the singer shouldn’t be afraid to make mistakes while being personable and engaging. And it doesn’t hurt if you have a strong whisking arm, culinary prowess, and a rich velvety mezzo tone.
+**Anna**: You need to balance her unapologetic effervescence with her elite skills and commanding presence. Like Child, the singer shouldn't be afraid to make mistakes while being personable and engaging. And it doesn't hurt if you have a strong whisking arm, culinary prowess, and a rich velvety mezzo tone.
 
- > - What is your favourite item on this menu?
+## What is your favourite item on this menu?
 
-Anna: Is it weird if I say onions? I think they add so much to any savoury dish, and I happen to love what Crozier says about the onion in her poem: “some say it has no heart, it doesn’t need one. It surrounds itself, feels whole.”
+**Anna**: Is it weird if I say onions? I think they add so much to any savoury dish, and I happen to love what Crozier says about the onion in her poem: "some say it has no heart, it doesn't need one. It surrounds itself, feels whole."
 
- 
-
-Hyejin: Hands down, the cake.
+**Hyejin**: Hands down, the cake.
