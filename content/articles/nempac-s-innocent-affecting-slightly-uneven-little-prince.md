@@ -30,122 +30,14 @@ One also has to ask oneself how people deal with that when you have a very tiny 
 
 But then, there are other touches that work rather well, especially in how all the show's moving parts move about the stage. The supertitles, for instance, did show the Pilot's illustrations of the boa constrictor and the sheep. They added the perfect touch to the early part of the show's humor, and it was to such an extent that I wish the sketches displayed there had played more of a part throughout the production.
 
-And then, there was the blocking, which was generally quite excellent. The blocking
+And then, there was the blocking, which was generally quite excellent. The blocking played with the height of the levels in Faneuil Hall to rather striking effect, particularly in the first act when it depicts the Prince's journey from his little asteroid to Earth, and how it colors his interactions with the various characters he meets along the way. The fact that the Prince sees the first four characters in this journey from the stage and then comes to converse with where they are situated directly in front of the front row of the audience (and thus beneath where he started) conveys a swooping down that simultaneously highlights how unusual and petty most of the characters are: when this dynamic is then flipped when the Prince encounters the Lamplighter, it adds importance to the Lamplighter, whose aria about when he has to turn his lamp on and off is perhaps as innocent and simplistic as the Prince himself. The blocking of every scene was also generally rather excellent even without this, from the comedy of the baobab seedlings running around being chased by the Prince's rake through the choreography of a hunter's chorus in Act II all the way to the Prince's not-quite death at the hands of the snake, as the snake dragged him through a row of children.
 
-played with the height of the levels in Faneuil Hall to rather striking effect, particularly in the first
+Ultimately, however, it is all in the performances given, and in many ways everyone involved were rather excellent. Christina English grounded the whole work as the Pilot, whose straightlaced wonder at the Prince's simplicity acted as that bridge between the childlike and the mature which helps to make sense of the Prince's fantastical world. She did so with a warm, colorful voice, and acting that played off of the Prince's actions well. Roselin Osser also showed a playful, tender nature as the Fox: it was a one-scene role, but the Fox's significance to the theme of the work cannot be overstated, and Osser made sure the scene's impact came through with her playful yet tender portrayal of the character. 
 
-act when it depicts the Prince’s journey from his little asteroid to Earth, and how it colors his
+Also notable was Ehimemen Omigie as the Lamplighter and the Drunkard: his turn with the Lamplighter's aria was as warm and sweet as it was strange, and his creamy voice projected well over everything else. Fran Daniel Laucerica as The Snake and The Vain Man also left a great impression: he produced a real contrast in tonal color between the two characters, and his agile turn as the Vain Man was only helped by hilarious antics with a kazoo that were a delight to watch. And then, there was Carley DeFranco's turn as the Rose on the prince's home planet: her airs were rather seductive, but she managed to show some true pathos at the Prince's departure. Rounding out this cast was Gray Leiper as a delightfully stuffy businessman claiming the stars are his, Marcus Schenck making or a king who cannot make up his mind on what others do and what powers he has, and Jennifer Caraluzzi as the water in a well that brings the climactic Act II scene together.
 
-interactions with the various characters he meets along the way. The fact that the Prince sees
+Perhaps somewhat lacking was the Prince himself: Linus Schaeffer-Golthorpe perhaps was not as convincing as the rest of the cast. He had a tendency to park and bark, and it was obvious on several occasions that his parking was due to waiting for a cue from music director Tiffany Chang. This, however, can be chalked up to inexperience: in speaking to stage director Alexandra Dietrich after the show, it was made evident to me that this was Schaeffer-Golthorpe's debut in a solo role onstage, and for a first performance in a leading solo role he did rather well in at least conveying the broadest beats of how peculiar and perpetually innocent his Prince is. Perhaps his voice was a little thin owing to his age and inexperience (he is a child, after all), but he had a good tone color and his diction was the best of the cast, and it was clear he was trying his best. On these counts, I cannot fault him.
 
-the first four characters in this journey from the stage and then comes to converse with where
+But they all encountered one obstacle: the orchestra. Through much of the performance, the orchestra was loud to the point it made it difficult to hear much of the cast, especially poor Schaeffer-Golthorp. It generally made the singing that much harder to understand, and in some cases it outright covered the whole action up. This is especially frustrating since, apart from this one issue, the orchestral players were top-notch: they expertly navigated Portman's score with ease, they crafted a sense of arc that helped the whole performance move at a rather good pace, and they injected plenty of character into the piece that even successfully conveyed mood where the singers could not. I also suspect that the orchestra's volume may at least partly have come down to placement in the hall, for there were some places in the venue where the singers projected better than even the stage itself. It is clear that the orchestra came close to perfection here, but they did not quite capture it on account of the volume issue.
 
-they are situated directly in front of the front row of the audience (and thus beneath where he
-
-started) conveys a swooping down that simultaneously highlights how unusual and petty most of
-
-the characters are: when this dynamic is then flipped when the Prince encounters the
-
-Lamplighter, it adds importance to the Lamplighter, whose aria about when he has to turn his
-
-lamp on and off is perhaps as innocent and simplistic as the Prince himself. The blocking of
-
-every scene was also generally rather excellent even without this, from the comedy of the
-
-baobab seedlings running around being chased by the Prince’s rake through the choreography
-
-of a hunter’s chorus in Act 2 all the way to the Prince’s not-quite death at the hands of the
-
-snake, as the snake dragged him through a row of children.
-
-Ultimately, however, it is all in the performances given, and in many ways everyone
-
-involved were rather excellent. Christina English grounded the whole work as the Pilot, whose
-
-straightlaced wonder at the Prince’s simplicity acted as that bridge between the childlike and the
-
-mature which helps to make sense of the Prince’s fantastical world. She did so with a warm,
-
-colorful voice, and acting that played off of the Prince’s actions well. Roselin Osser also showed
-
-a playful, tender nature as the Fox: it was a one-scene role, but the Fox’s significance to the
-
-theme of the work cannot be overstated, and Osser made sure the scene’s impact came
-
-through with her playful yet tender portrayal of the character. Also notable was Ehimemen
-
-Omigie as the Lamplighter and the Drunkard: his turn with the Lamplighter’s aria was as warm
-
-and sweet as it was strange, and his creamy voice projected well over everything else. Fran
-
-Daniel Laucerica as The Snake and The Vain Man also left a great impression: he produced a
-
-real contrast in tonal color between the two characters, and his agile turn as the Vain Man was
-
-only helped by hilarious antics with a kazoo that were a delight to watch. And then, there was
-
-Carley DeFranco’s turn as the Rose on the prince’s home planet: her airs were rather seductive,
-
-but she managed to show some true pathos at the Prince’s departure. Rounding out this cast
-
-was Gray Leiper as a delightfully stuffy businessman claiming the stars are his, Marcus
-
-Schenck making or a king who cannot make up his mind on what others do and what powers he
-
-has, and Jennifer Caraluzzi as the water in a well that brings the climactic Act 2 scene together.
-
-Perhaps somewhat lacking was the Prince himself: Linus Schaeffer-Golthorpe perhaps
-
-was not as convincing as the rest of the cast. He had a tendency to park and bark, and it was
-
-obvious on several occasions that his parking was due to waiting for a cue from music director
-
-Tiffany Chang. This, however, can be chalked up to inexperience: in speaking to stage director
-
-Alexandra Dietrich after the show, it was made evident to me that this was Schaeffer-
-
-Golthorpe’s debut in a solo role onstage, and for a first performance in a leading solo role he did
-
-rather well in at least conveying the broadest beats of how peculiar and perpetually innocent his
-
-Prince is. Perhaps his voice was a little thin owing to his age and inexperience (he is a child,
-
-after all), but he had a good tone color and his diction was the best of the cast, and it was clear
-
-he was trying his best. On these counts, I cannot fault him.
-
-But they all encountered one obstacle: the orchestra. Through much of the performance,
-
-the orchestra was loud to the point it made it difficult to hear much of the cast, especially poor
-
-Schaeffer-Golthorp. It generally made the singing that much harder to understand, and in some
-
-cases it outright covered the whole action up. This is especially frustrating since, apart from this
-
-one issue, the orchestral players were top-notch: they expertly navigated Portman’s score with
-
-ease, they crafted a sense of arc that helped the whole performance move at a rather good
-
-pace, and they injected plenty of character into the piece that even successfully conveyed mood
-
-where the singers could not. I also suspect that the orchestra’s volume may at least partly have
-
-come down to placement in the hall, for there were some places in the venue where the singers
-
-projected better than even the stage itself. It is clear that the orchestra came close to perfection
-
-here, but they did not quite capture it on account of the volume issue.
-
-In a strange way, perhaps the orchestral playing is a microcosm for the production as a
-
-whole: there are plenty of good things dotting NEMPAC’s production, and there are a few things
-
-that threaten to pull it apart. At the end of the day, however, I feel that the overall performance
-
-ultimately highlighted a strong piece whose music felt fully integrated with the themes of Antoine
-
-de Saint-Exupéry’s novella. Even despite the missteps, there was something to like about every
-
-aspect of the production, and the good elements altogether added up to an evening at the opera
-
-that was ultimately pleasant and uplifting even despite the rough patches.
+In a strange way, perhaps the orchestral playing is a microcosm for the production as a whole: there are plenty of good things dotting NEMPAC's production, and there are a few things that threaten to pull it apart. At the end of the day, however, I feel that the overall performance ultimately highlighted a strong piece whose music felt fully integrated with the themes of Antoine de Saint-Exupéry's novella. Even despite the missteps, there was something to like about every aspect of the production, and the good elements altogether added up to an evening at the opera that was ultimately pleasant and uplifting even despite the rough patches.
