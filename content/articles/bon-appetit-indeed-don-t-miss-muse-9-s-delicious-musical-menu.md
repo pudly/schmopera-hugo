@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2019-06-23T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "[_Bon Appetit! A Musical Tasting Menu_](https://muse9food.bpt.me/?fbclid=IwAR1lNpTKuo_hssG8LzK0IUyAJBOvnZNS7iqzbHOXJykbLvcfTZaNzdvTmS0) happens June 27, 8pm, at Merchants of Green Coffee, 2 Matilda St. Tickets start at just $25."
 preamble = "This week, Torontonians can catch a deliciously unique concert event: on **June 27, 8pm** at Merchants of Green Coffee, the women of Muse 9 Productions present [_Bon Appetit! A Musical Tasting Menu_](https://muse9food.bpt.me/?fbclid=IwAR1lNpTKuo_hssG8LzK0IUyAJBOvnZNS7iqzbHOXJykbLvcfTZaNzdvTmS0). It's titled after its headlining piece, Lee Hoiby's delightful ode to Julia Child, _Bon Appetit!_, which is paired with Canadian song cycles by Toronto-based composers: Danika Lorèn's _The Secret Lives of Vegetables_ and Peter Tiefenbach's _Chansons de mon placard_ (_Songs of My Cupboard_).\n\nWe spoke with Muse 9 founders [Anna Theodosakis](/scene/people/anna-theodosakis/) (Stage Director) and Hyejin Kwon (Music Director), about all the yummy items on the evening's menu:"
@@ -28,6 +27,8 @@ Growing up in Korea, food was a huge part of my upbringing and culture. In the e
 
 Having learned of Victoria's family history in baking, Anna's family history of owning a Greek restaurant out West, and my passion for cooking (had I not been a pianist I would have gone into the culinary arts myself and I have multiple chefs in my family), it seemed only natural to plan our second season around food. Victoria introduced us to Hoiby's Julia Child mini-opera, _Bon Appetit!_, and once that was decided, building a program around it came naturally.
 
+>"Julia Child empowered women both in and out of the kitchen."
+
 **Anna**: When Victoria Borg approached us with the idea of doing the Julia Child opera I jumped at the opportunity to explore the life and work of such a strong feminist icon. Julia Child empowered women both in and out of the kitchen. She paved the way for many more female pioneers in the culinary industry in both publishing and television.
 
 I had briefly coached [Danika Lorèn](/spotlight-on-danika-loren/) on the early stages of her _The Secret Lives of Vegetables_ cycle while she was a member of the COC Ensemble Studio, and knew it would complement the Hoiby. We are very excited to showcase the brilliant work of Danika as well as Canadian poet Lorna Crozier. Our co-producer and Soprano Katy Clark helped us to discover Peter Tiefenbach's hysterical _Chansons de mon placard_, which perfectly rounds out our menu.
@@ -42,9 +43,11 @@ Our first season dealt with heavy subject matter exploring the life of Virginia 
 
 ## What can audiences expect at _Bon Appetit! A Musical Tasting Menu_?
 
-**Anna**: They can expect hilarious texts paired with many catchy tunes and of course a slice of delicious chocolate cake. The staging we've developed for the two art songs sets makes the poetry leap off the page and heightens the comedic potential. Audiences will be able to experience Julia Child out of their TVs and up close in _Bon Appetit!_.
+**Anna**: They can expect hilarious texts paired with many catchy tunes and, of course, a slice of delicious chocolate cake. The staging we've developed for the two art songs sets makes the poetry leap off the page and heightens the comedic potential. Audiences will be able to experience Julia Child out of their TVs and up close in _Bon Appetit!_.
 
 **Hyejin**: Audiences can expect a delightful, delicious, and delectable journey through our menu that has been carefully planned for you.
+
+>"Like Child, the singer shouldn't be afraid to make mistakes while being personable and engaging."
 
 ## What do you think is the trick to playing a good Julia Child?
 
