@@ -6,9 +6,9 @@ lastmod = "2017-01-29T19:39:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485694163815/2017-01-29---Elmer.jpg.jpg"
 publishDate = "2017-01-29T19:33:00+00:00"
 related_articles = ["articles/when-disney-made-a-cartoon-about-an-operasinging-whale.md", "articles/8-contemporary-roles-to-covet.md", "articles/3-tv-opera-references-with-great-meaning-maybe.md"]
-short_description = "It propelled the stereotype that opera singers are angry, horned ladies. It taught us some of Wagner&#039;s best tunes, before we even realized what they were. It tugged at our heartstrings, tickled our funny bones. It&#039;s one of the most epic face-offs between Bugs and Elmer, cloaked in a 7-minute version of the entirety of Wagner&#039;s &quot;Der Ring des Nibelungen&quot;. If you haven&#039;t yet seen it, get comfy and prepare yourself for some genius."
+short_description = "It propelled the stereotype that opera singers are angry, horned ladies. It taught us some of Wagner's best tunes, before we even realized what they were. It tugged at our heartstrings, tickled our funny bones. It's one of the most epic face-offs between Bugs and Elmer, cloaked in a 7-minute version of the entirety of Wagner's Der Ring des Nibelungen. If you haven't yet seen it, get comfy and prepare yourself for some genius."
 slug = "a-true-operatic-classic-kill-the-wabbit"
-title = "A true operatic classic: &quot;Kill the wabbit!&quot;"
+title = "A true operatic classic: \"Kill the wabbit!\""
 youtube_url = ""
 
 +++
