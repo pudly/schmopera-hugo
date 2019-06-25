@@ -13,8 +13,8 @@ related_articles = []
 related_companies = ["scene/companies/wolf-trap-opera.md"]
 related_people = []
 short_description = "Jonathan Knipscher designed glorious costumes across the board - Merlin's sequined suit, sequined tracksuit, sequined capes for the mermaids… Basically a lot of sequins that were complemented by shimmery curtains designed by Julia Noulin-Mérat."
-slug = "WTO"
-title = "WTO"
+slug = "all-that-glitters-wtos-magical-double-bill"
+title = "All that glitters: WTO's magical double-bill"
 youtube_url = ""
 
 +++
