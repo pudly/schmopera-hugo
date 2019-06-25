@@ -20,17 +20,17 @@ youtube_url = ""
 +++
 At the Barns at Wolf Trap on Saturday, it was opening night of a double-bill titled [_The World Turned Upside Down_](https://www.wolftrap.org/calendar/performance/19opera/world-turned-upside-down.aspx). The first half was an energetic _Merlin's Island_ by Gluck, sung in French, with lots of spoken dialogue (some I assume that was written for the production because of the lack of supertitles). This little-performed opera was charming, but the music relied heavily on the superb performers bringing it to life.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1561495211/media/2019/06/EMPEROROFATLANTIS_0094.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Bed Equist (Emperor Overall) in Anthony Robin Schneider (Death) in Wolf Trap Opera's 2019 production of The Emperor of Atlantis. Photo: Scott Suchman.</figcaption>
 
 </figure>
 
 The title character Merlin was sung by [Conor Macdonald](https://opera.wolftrap.org/conor-mcdonald-baritone/?_gl=1*1sca887*_gcl_aw*R0NMLjE1NjEzMTY0NzIuQ2p3S0NBand4cnpvQlJCQkVpd0FidFgxbjlJODBoU1lSemEybGFoUXJkZTZGUldndGpkU0J1TUQ4SlZUQ2lxWU1NSHJpemlNUzY2QnVSb0NnUEFRQXZEX0J3RQ..). Mr. Macdonald took demanding vocal and physical directions in stride, and got to wear many different detailed costumes (a bedazzled belt buckles saying "MERLIN" comes to mind). [Jonathan Knipscher](https://www.jonathanknipscher.com/) designed glorious costumes across the board - Merlin's sequined suit, sequined tracksuit, sequined capes for the mermaids… Basically a lot of sequins that were complemented by shimmery curtains designed by [Julia Noulin-Mérat](https://noulinmeratstudio.com). 
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1561495384/media/2019/06/EMPEROROFATLANTIS_0048.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>(l-r) Joshua Blue (Harlekin), Ben Edquist (Emperor Overall), and Anthony Robin Schneider (Death) in Wolf Trap Opera's 2019 production of Ullmann's The Emperor of Atlantis. Photo: Scott Suchman.</figcaption>
 
 </figure>
 
