@@ -34,7 +34,7 @@ Leave it to Peter Sellars for this one. This is the finale of _Theodora_, where 
 
 ## Example C: Leggy Handel
 
-Noëmi Nadelmann sings Armida's aria, "Molto voglio, molto spero" from _Rinaldo_ in this production by David Alden for the Bayerische Staatsoper. Or, at least I think she sings it; the legs get distracting. For more curious highlights from the production, check out [this clip](https://www.youtube.com/watch?v=WWkUtiI6dEk).
+Noëmi Nadelmann sings Armida's aria, "Molto voglio, molto spero" from _Rinaldo_ in this production by David Alden for the Bayerische Staatsoper. Or, at least I think she sings it; the legs get distracting.
 
 <figure data-type="video">
 <iframe width="854" height="480" src="https://www.youtube.com/embed/ogmEaRHr7t8" frameborder="0" allowfullscreen></iframe>
@@ -50,7 +50,7 @@ Congolese countertenor Serge Kakudji stars in _Coup Fatal_, a new collaboration 
 
 ## Example E: Dancing Handel
 
-Jeez, as if Cleopatra didn't already have enough to do. Natalie Dessay sings Cleopatra's wicked aria, "Da tempeste" in David McVicar's production of _Giulio Cesare_ at the Met. I feel like the dancing in itself is kind of cute; I'm not really a fan of the total package, though. Bonus: Dessay dances _again_ in the Met's 2013 production of _Cesare_, and you can watch a preview from the dress rehearsal [here](https://www.youtube.com/watch?v=sAc_PiVujZ0).
+Jeez, as if Cleopatra didn't already have enough to do. Natalie Dessay sings Cleopatra's wicked aria, "Da tempeste" in David McVicar's production of _Giulio Cesare_ at the Met. I feel like the dancing in itself is kind of cute; I'm not really a fan of the total package, though.
 
 <figure data-type="video">{{% md %}}
 
