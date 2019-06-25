@@ -3,7 +3,6 @@ author = ["authors/callie-cooper.md"]
 categories = "Review"
 date = "2019-06-25T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "There are three more chances to see this unique double-bill of [Gluck's _Merlin Island_ and Ullmann's _The Emperor of Atlantis_](https://www.wolftrap.org/calendar/performance/19opera/world-turned-upside-down.aspx), running at Wolf Trap Opera through June 30."
 preamble = ""
