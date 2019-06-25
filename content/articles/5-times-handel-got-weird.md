@@ -20,12 +20,6 @@ Handel's music is nothing but layers of meaning; it's amazingly detailed, and at
 
 This is Nireno's aria from _Giulio Cesare_, which wasn't in the original score, but was added later by Handel. Here, it's sung (and danced!) pretty darn well by Moroccan countertenor Rachid Ben Abdeslam in David McVicar's 2005 production at Glyndebourne. I definitely can't stop watching.
 
-<figure data-type="video">{{% md %}}  
-
-<iframe width="1280" height="720" src="[https://www.youtube.com/embed/an_SUvpylso](https://www.youtube.com/embed/an_SUvpylso "https://www.youtube.com/embed/an_SUvpylso")?start=11750" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}} 
-
-</figure>
-
 ## Example B: Dark Handel
 
 Leave it to Peter Sellars for this one. This is the finale of _Theodora_, where she and fellow Christian rebel Didymus get their death sentences at the same time. Dawn Upshaw and David Daniels sing their final duet strapped to lethal injection beds, with creepy supers milling around to keep an eye on the equipment.
@@ -54,8 +48,10 @@ Congolese countertenor Serge Kakudji stars in _Coup Fatal_, a new collaboration 
 
 Jeez, as if Cleopatra didn't already have enough to do. Natalie Dessay sings Cleopatra's wicked aria, "Da tempeste" in David McVicar's production of _Giulio Cesare_ at the Met. I feel like the dancing in itself is kind of cute; I'm not really a fan of the total package, though. Bonus: Dessay dances _again_ in the Met's 2013 production of _Cesare_, and you can watch a preview from the dress rehearsal [here](https://www.youtube.com/watch?v=sAc_PiVujZ0).
 
-<figure data-type="video">
-<iframe width="854" height="480" src="https://www.youtube.com/embed/8U46Vc2NRlQ" frameborder="0" allowfullscreen></iframe>
+<figure data-type="video">{{% md %}}  
+
+<iframe width="1280" height="720" src="[https://www.youtube.com/embed/an_SUvpylso](https://www.youtube.com/embed/an_SUvpylso "https://www.youtube.com/embed/an_SUvpylso")?start=11750" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}} 
+
 </figure>
 
 > What are your favourite Handel opera oddities? Let us know in the comments below!
