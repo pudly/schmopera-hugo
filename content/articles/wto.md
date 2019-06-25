@@ -20,10 +20,42 @@ youtube_url = ""
 +++
 At the Barns at Wolf Trap on Saturday, it was opening night of a double-bill titled [_The World Turned Upside Down_](https://www.wolftrap.org/calendar/performance/19opera/world-turned-upside-down.aspx). The first half was an energetic _Merlin's Island_ by Gluck, sung in French, with lots of spoken dialogue (some I assume that was written for the production because of the lack of supertitles). This little-performed opera was charming, but the music relied heavily on the superb performers bringing it to life.
 
-The title character Merlin was sung by [Conor Macdonald](https://opera.wolftrap.org/conor-mcdonald-baritone/?_gl=1*1sca887*_gcl_aw*R0NMLjE1NjEzMTY0NzIuQ2p3S0NBand4cnpvQlJCQkVpd0FidFgxbjlJODBoU1lSemEybGFoUXJkZTZGUldndGpkU0J1TUQ4SlZUQ2lxWU1NSHJpemlNUzY2QnVSb0NnUEFRQXZEX0J3RQ..). Mr. Macdonald took demanding vocal and physical directions in stride, and got to wear many different detailed costumes (a bedazzled belt buckles saying "MERLIN" comes to mind). [Jonathan Knipscher](https://www.jonathanknipscher.com/) designed glorious costumes across the board - Merlin's sequined suit, sequined tracksuit, sequined capes for the mermaids… Basically a lot of sequins that were complemented by shimmery curtains designed by [Julia Noulin-Mérat](https://noulinmeratstudio.com). The mermaids, sung by [Shannon Jennings](https://opera.wolftrap.org/shannon-jennings-soprano/?_gl=1*nlv0rr*_gcl_aw*R0NMLjE1NjEzMTgyNTAuQ2p3S0NBand4cnpvQlJCQkVpd0FidFgxbjhDYm5rQXlqWGZIVjU4M0l0TTNaQmtpSjNFYnJnNlJYMlBHVERBaTd1bS1zak9fMHNtbHJ4b0NkejBRQXZEX0J3RQ..) and [Nira Liu](https://opera.wolftrap.org/niru-liu-mezzo-soprano/?_gl=1*k6jiuj*_gcl_aw*R0NMLjE1NjEzMTgyNTAuQ2p3S0NBand4cnpvQlJCQkVpd0FidFgxbjhDYm5rQXlqWGZIVjU4M0l0TTNaQmtpSjNFYnJnNlJYMlBHVERBaTd1bS1zak9fMHNtbHJ4b0NkejBRQXZEX0J3RQ..). They had equally gorgeous and detailed costumes. The brothers who are shipwrecked on Merlin's island were sung with vivacious energy by [Ben Edquist](%5Bhttps://opera.wolftrap.org/ben-edquist-baritone/?_gl=1*fd1rg8*_gcl_aw*R0NMLjE1NjEzMTgyNTAuQ2p3S0NBand4cnpvQlJCQkVpd0FidFgxbjhDYm5rQXlqWGZIVjU4M0l0TTNaQmtpSjNFYnJnNlJYMlBHVERBaTd1bS1zak9fMHNtbHJ4b0NkejBRQXZEX0J3RQ..) and [Daniel Noyola](https://opera.wolftrap.org/ben-edquist-baritone/?_gl=1*fd1rg8*_gcl_aw*R0NMLjE1NjEzMTgyNTAuQ2p3S0NBand4cnpvQlJCQkVpd0FidFgxbjhDYm5rQXlqWGZIVjU4M0l0TTNaQmtpSjNFYnJnNlJYMlBHVERBaTd1bS1zak9fMHNtbHJ4b0NkejBRQXZEX0J3RQ..). They both excelled at physical comedy throughout the night. This opera is a comedy full of "ridiculous" notions that gave the audience of the 18th century a hearty laugh. A woman being a doctor, and lawyers actually helping people, to name a few.
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
+The title character Merlin was sung by [Conor Macdonald](https://opera.wolftrap.org/conor-mcdonald-baritone/?_gl=1*1sca887*_gcl_aw*R0NMLjE1NjEzMTY0NzIuQ2p3S0NBand4cnpvQlJCQkVpd0FidFgxbjlJODBoU1lSemEybGFoUXJkZTZGUldndGpkU0J1TUQ4SlZUQ2lxWU1NSHJpemlNUzY2QnVSb0NnUEFRQXZEX0J3RQ..). Mr. Macdonald took demanding vocal and physical directions in stride, and got to wear many different detailed costumes (a bedazzled belt buckles saying "MERLIN" comes to mind). [Jonathan Knipscher](https://www.jonathanknipscher.com/) designed glorious costumes across the board - Merlin's sequined suit, sequined tracksuit, sequined capes for the mermaids… Basically a lot of sequins that were complemented by shimmery curtains designed by [Julia Noulin-Mérat](https://noulinmeratstudio.com). 
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
+The mermaids, sung by [Shannon Jennings](https://opera.wolftrap.org/shannon-jennings-soprano/?_gl=1*nlv0rr*_gcl_aw*R0NMLjE1NjEzMTgyNTAuQ2p3S0NBand4cnpvQlJCQkVpd0FidFgxbjhDYm5rQXlqWGZIVjU4M0l0TTNaQmtpSjNFYnJnNlJYMlBHVERBaTd1bS1zak9fMHNtbHJ4b0NkejBRQXZEX0J3RQ..) and [Nira Liu](https://opera.wolftrap.org/niru-liu-mezzo-soprano/?_gl=1*k6jiuj*_gcl_aw*R0NMLjE1NjEzMTgyNTAuQ2p3S0NBand4cnpvQlJCQkVpd0FidFgxbjhDYm5rQXlqWGZIVjU4M0l0TTNaQmtpSjNFYnJnNlJYMlBHVERBaTd1bS1zak9fMHNtbHJ4b0NkejBRQXZEX0J3RQ..). They had equally gorgeous and detailed costumes. The brothers who are shipwrecked on Merlin's island were sung with vivacious energy by [Ben Edquist](%5Bhttps://opera.wolftrap.org/ben-edquist-baritone/?_gl=1*fd1rg8*_gcl_aw*R0NMLjE1NjEzMTgyNTAuQ2p3S0NBand4cnpvQlJCQkVpd0FidFgxbjhDYm5rQXlqWGZIVjU4M0l0TTNaQmtpSjNFYnJnNlJYMlBHVERBaTd1bS1zak9fMHNtbHJ4b0NkejBRQXZEX0J3RQ..) and [Daniel Noyola](https://opera.wolftrap.org/ben-edquist-baritone/?_gl=1*fd1rg8*_gcl_aw*R0NMLjE1NjEzMTgyNTAuQ2p3S0NBand4cnpvQlJCQkVpd0FidFgxbjhDYm5rQXlqWGZIVjU4M0l0TTNaQmtpSjNFYnJnNlJYMlBHVERBaTd1bS1zak9fMHNtbHJ4b0NkejBRQXZEX0J3RQ..). They both excelled at physical comedy throughout the night. This opera is a comedy full of "ridiculous" notions that gave the audience of the 18th century a hearty laugh. A woman being a doctor, and lawyers actually helping people, to name a few.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 The baroque farce was especially revealing when paired with _The Emperor of Atlantis_, composed by Viktor Ullmann in the [Theresienstadt](https://en.wikipedia.org/wiki/Theresienstadt_concentration_camp) Nazi concentration camp (Ullmann and his librettist later died at Aushwitz). The parallels between the two were eerie, even in  Gluck's origins in Bohemia, where Theresienstadt was put in place 230 years later. The Emperor Overall was sung by Mr. Edquist and he handled the extreme emotional demands with aplomb. A highlight of _Atlantis_ was [Joshua Blue](https://opera.wolftrap.org/joshua-blue-tenor/?_gl=1%2Aj6xfe1%2A_gcl_aw%2AR0NMLjE1NjEzMTgyNTAuQ2p3S0NBand4cnpvQlJCQkVpd0FidFgxbjhDYm5rQXlqWGZIVjU4M0l0TTNaQmtpSjNFYnJnNlJYMlBHVERBaTd1bS1zak9fMHNtbHJ4b0NkejBRQXZEX0J3RQ..) as the Harlequin. His character was something of a sad clown bystander of the tragedy happening around him. His tenor voice had an edge and though he acted as comic relief, he still mocked the Emperor.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 Another vocal standout was mezzo soprano [Megan Esther Grey](https://opera.wolftrap.org/megan-esther-grey-mezzo-soprano/?_gl=1*170vp1g*_gcl_aw*R0NMLjE1NjEzMTgyNTAuQ2p3S0NBand4cnpvQlJCQkVpd0FidFgxbjhDYm5rQXlqWGZIVjU4M0l0TTNaQmtpSjNFYnJnNlJYMlBHVERBaTd1bS1zak9fMHNtbHJ4b0NkejBRQXZEX0J3RQ..) as the drummer boy. She also sang the role of the lady doctor aptly named Hippocrotine in the Gluck opera, she did a lovely job with the baroque style but I suspected there her instrument had more to give. In _The Emperor of Atlantis_ she exhibited an impressive range and her voice had a lot of power. Her character's "drum" was a radio (highlighting how the new technology played a big part in the Second World War). The "opposite land" elements of this opera were heartbreaking, when you think about the men who wrote it during their tragic internment by the Nazis - soldiers who can't die, resulting in hospitals of the living dead.
 
 The ending of Death (sung by [Anthony Robin Schnieder](https://opera.wolftrap.org/anthony-robin-schneider-bass/?_gl=1*u233va*_gcl_aw*R0NMLjE1NjEzMTgyNTAuQ2p3S0NBand4cnpvQlJCQkVpd0FidFgxbjhDYm5rQXlqWGZIVjU4M0l0TTNaQmtpSjNFYnJnNlJYMlBHVERBaTd1bS1zak9fMHNtbHJ4b0NkejBRQXZEX0J3RQ..)) coming and setting everyone free was a sombre close to the night.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
