@@ -22,6 +22,4 @@ Our favourite line is when Bugs echoes Elmer's line like it's the saddest thing 
 
 <figure data-type="video">{{% md %}}<iframe src="https://player.vimeo.com/video/115773980" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-<p><a href="https://vimeo.com/115773980">What's Opera, Doc?</a> from <a href="https://vimeo.com/user8932952">CNF1</a> on <a href="https://vimeo.com">Vimeo</a>.</p>{{% /md %}}
-
 </figure>
