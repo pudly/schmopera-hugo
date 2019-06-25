@@ -20,6 +20,10 @@ Handel's music is nothing but layers of meaning; it's amazingly detailed, and at
 
 This is Nireno's aria from _Giulio Cesare_, which wasn't in the original score, but was added later by Handel. Here, it's sung (and danced!) pretty darn well by Moroccan countertenor Rachid Ben Abdeslam in David McVicar's 2005 production at Glyndebourne. I definitely can't stop watching.
 
+<figure data-type="video">{{% md %}}<iframe width="1280" height="720" src="[https://www.youtube.com/embed/an_SUvpylso](https://www.youtube.com/embed/an_SUvpylso "https://www.youtube.com/embed/an_SUvpylso")?start=5286" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+
+</figure>
+
 ## Example B: Dark Handel
 
 Leave it to Peter Sellars for this one. This is the finale of _Theodora_, where she and fellow Christian rebel Didymus get their death sentences at the same time. Dawn Upshaw and David Daniels sing their final duet strapped to lethal injection beds, with creepy supers milling around to keep an eye on the equipment.
