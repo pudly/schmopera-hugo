@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "If you're looking for a theatrical farce that will leave you with a lot of questions about the human condition, then look no further than Des Moines Metro Opera's charming production of Candide."
-slug = "candide"
-title = "Candide"
+slug = "dont-let-the-upbeat-tunes-deceive-you-dmmos-candide"
+title = "Don't let the upbeat tunes deceive you: DMMO's Candide"
 youtube_url = ""
 
 +++
