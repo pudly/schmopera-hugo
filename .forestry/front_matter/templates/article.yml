@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/dmmo-la-boheme.md
 - content/articles/wto.md
 - content/articles/talking-with-singers-jennifer-zetland.md
 - content/articles/andrea-chenier.md
