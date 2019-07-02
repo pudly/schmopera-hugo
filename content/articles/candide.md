@@ -42,7 +42,7 @@ This opera/operetta/musical calls for a multitude of performers that can pull of
 
 Wynn Harmon played the spoken role of Voltaire, the author of the original novella and narrator of the musical adaptation. He served as the audience's guide but also interacted with the characters themselves. Harmon's constant presence gave some stability to the fluctuating storyline, a calming force as well as the impetus of key plot points.
 
-Kyle Albertson portrayed Candide's two opposing mentors, Dr. Pangloss the optimist and Martin the pessimist. Albertson's approach to these contrasting characters was so convincing that I didn't realize that he had played both of them until I checked the program afterwards. His rich vocal tone conveyed Pangloss's sunny disposition with natural ease but was equally effective in Martin's jarring, sarcastic tunes.
+[Kyle Albertson](/scene/people/kyle-albertson/) portrayed Candide's two opposing mentors, Dr. Pangloss the optimist and Martin the pessimist. Albertson's approach to these contrasting characters was so convincing that I didn't realize that he had played both of them until I checked the program afterwards. His rich vocal tone conveyed Pangloss's sunny disposition with natural ease but was equally effective in Martin's jarring, sarcastic tunes.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562033274/media/2019/07/DMMOCandideDSC_5239.jpg){{% /md %}}
 
