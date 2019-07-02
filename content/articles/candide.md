@@ -3,7 +3,6 @@ author = ["authors/meghan-klinkenborg.md"]
 categories = "Review"
 date = "2019-07-01T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Des Moines Metro Opera's production of [_Candide_](http://desmoinesmetroopera.org/productions/candide/) runs through July 20."
 preamble = ""
@@ -11,7 +10,7 @@ primary_image = ""
 primary_image_credit = ""
 related_articles = []
 related_companies = ["scene/companies/des-moines-metro-opera.md"]
-related_people = ["scene/people/deanna-breiwick.md"]
+related_people = ["scene/people/emmett-o-hanlon.md", "scene/people/eliza-bonet.md", "scene/people/kyle-albertson.md", "scene/people/jonathan-johnson.md", "scene/people/deanna-breiwick.md"]
 short_description = "If you're looking for a theatrical farce that will leave you with a lot of questions about the human condition, then look no further than Des Moines Metro Opera's charming production of Candide."
 slug = "dont-let-the-upbeat-tunes-deceive-you-dmmos-candide"
 title = "Don't let the upbeat tunes deceive you: DMMO's Candide"
@@ -52,7 +51,7 @@ Wynn Harmon played the spoken role of Voltaire, the author of the original novel
 
 [Eliza Bonet](/scene/people/eliza-bonet/) and [Emmett O'Hanlon](/scene/people/emmett-ohanlon/) were charming and hilarious in the roles of Paquette and Maximilian. Bonet as the promiscuous maid had a twinkle in her eye that made me think of Aubrey Plaza, snarky and sexy. Paquette may have been spreading syphilis all over Europe, but no one seemed to hold that against her. O'Hanlon gave the narcissistic Maximilian an over the top German accent worthy of an SNL skit. In any other opera, I would have found it strange that although all the main characters originated in Germany, Maximilian was the only one with said accent, but _Candide_ is just so silly that it worked.
 
-[Jill Grove](/scene/people/jill-grove/) was a cheeky delight in the role of The Old Lady. (This character is missing one buttock so pun intended.) Grove's bold mezzo voice was a dominating presence onstage, and she had the audience roaring during her big number "I Am Easily Assimilated."
+[Jill Grove](http://www.jillgrovemezzo.com/) was a cheeky delight in the role of The Old Lady. (This character is missing one buttock so pun intended.) Grove's bold mezzo voice was a dominating presence onstage, and she had the audience roaring during her big number "I Am Easily Assimilated."
 
 [Corey Bix](/scene/people/corey-bix/) sang the role of The Governor, a conniving character with music reminiscent of Gilbert & Sullivan. Although he had some vocal strain on the high notes, the tenor's performance made the unrepentant bad guy amusing and somehow likeable.
 
