@@ -5,13 +5,13 @@ date = "2019-07-01T04:00:00+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "Des Moines Metro Opera's production of [_Candide_](http://desmoinesmetroopera.org/productions/candide/) runs through July 20."
 preamble = ""
 primary_image = ""
 primary_image_credit = ""
 related_articles = []
-related_companies = []
-related_people = []
+related_companies = ["scene/companies/des-moines-metro-opera.md"]
+related_people = ["scene/people/deanna-breiwick.md"]
 short_description = "If you're looking for a theatrical farce that will leave you with a lot of questions about the human condition, then look no further than Des Moines Metro Opera's charming production of Candide."
 slug = "dont-let-the-upbeat-tunes-deceive-you-dmmos-candide"
 title = "Don't let the upbeat tunes deceive you: DMMO's Candide"
@@ -50,11 +50,11 @@ Kyle Albertson portrayed Candide's two opposing mentors, Dr. Pangloss the optimi
 
 </figure>
 
-Eliza Bonet and Emmett O'Hanlon were charming and hilarious in the roles of Paquette and Maximilian. Bonet as the promiscuous maid had a twinkle in her eye that made me think of Aubrey Plaza, snarky and sexy. Paquette may have been spreading syphilis all over Europe, but no one seemed to hold that against her. O'Hanlon gave the narcissistic Maximilian an over the top German accent worthy of an SNL skit. In any other opera, I would have found it strange that although all the main characters originated in Germany, Maximilian was the only one with said accent, but _Candide_ is just so silly that it worked.
+[Eliza Bonet](/scene/people/eliza-bonet/) and [Emmett O'Hanlon](/scene/people/emmett-ohanlon/) were charming and hilarious in the roles of Paquette and Maximilian. Bonet as the promiscuous maid had a twinkle in her eye that made me think of Aubrey Plaza, snarky and sexy. Paquette may have been spreading syphilis all over Europe, but no one seemed to hold that against her. O'Hanlon gave the narcissistic Maximilian an over the top German accent worthy of an SNL skit. In any other opera, I would have found it strange that although all the main characters originated in Germany, Maximilian was the only one with said accent, but _Candide_ is just so silly that it worked.
 
 [Jill Grove](/scene/people/jill-grove/) was a cheeky delight in the role of The Old Lady. (This character is missing one buttock so pun intended.) Grove's bold mezzo voice was a dominating presence onstage, and she had the audience roaring during her big number "I Am Easily Assimilated."
 
-Corey Bix sang the role of The Governor, a conniving character with music reminiscent of Gilbert & Sullivan. Although he had some vocal strain on the high notes, the tenor's performance made the unrepentant bad guy amusing and somehow likeable.
+[Corey Bix](/scene/people/corey-bix/) sang the role of The Governor, a conniving character with music reminiscent of Gilbert & Sullivan. Although he had some vocal strain on the high notes, the tenor's performance made the unrepentant bad guy amusing and somehow likeable.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562033294/media/2019/07/DMMOCandideDSC_5892.jpg){{% /md %}}
 
@@ -62,11 +62,11 @@ Corey Bix sang the role of The Governor, a conniving character with music remini
 
 </figure>
 
-Candide's third mentor, Cacambo, was performed by Corey Trahan. This character resembled a more realistic compromise between optimism and pessimism, and while Cacambo didn't get his own musical number, he was crucial to some of the best comedic moments. Trahan employed a couple of hilarious accents for his character, and whenever he came onstage, he was clearly an audience favorite.
+Candide's third mentor, Cacambo, was performed by [Corey Trahan](/scene/people/corey-trahan/). This character resembled a more realistic compromise between optimism and pessimism, and while Cacambo didn't get his own musical number, he was crucial to some of the best comedic moments. Trahan employed a couple of hilarious accents for his character, and whenever he came onstage, he was clearly an audience favorite.
 
 [Deanna Breiwick](/scene/people/deanna-breiwick/) was a bubbly and beautiful Cunegonde, and her rendition of the famous "Glitter and Be Gay" aria was a dazzling delight. Her vocal runs managed to stay liquid smooth even as her character became more and more manic, and she doled out the plethora of high notes with seemingly no effort. The character of Cunegonde is intentionally two dimensional, objectified by the various men that come into her life. Breiwick's performance nailed the superficial nature of the noble lady, only cracking that façade at the very end of the story when she confronts Candide's condemnation of her. This brief glimpse at Cunegonde's true emotional state was powerful.
 
-The title role of Candide was sung by Jonathan Johnson, and the tenor's vocal clarity was the ideal depiction of the character's sincerity and innocence. Johnson's performance of Candide's first aria "It Must Be So" was truly haunting because it was simple and vulnerable in an otherwise bustling score. Candide shines like a beacon on the stage, a pure being amid the tumultuous world around him. Johnson brought a genuine likability to the character that had us rooting for him throughout the story even when he killed three different people! (We found out later that all three murders were miraculously unsuccessful but still not cool.)
+The title role of Candide was sung by [Jonathan Johnson](/scene/people/jonathan-johnson/), and the tenor's vocal clarity was the ideal depiction of the character's sincerity and innocence. Johnson's performance of Candide's first aria "It Must Be So" was truly haunting because it was simple and vulnerable in an otherwise bustling score. Candide shines like a beacon on the stage, a pure being amid the tumultuous world around him. Johnson brought a genuine likability to the character that had us rooting for him throughout the story even when he killed three different people! (We found out later that all three murders were miraculously unsuccessful but still not cool.)
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562033310/media/2019/07/DMMOCandideDSC_5295.jpg){{% /md %}}
 
