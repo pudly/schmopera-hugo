@@ -8,7 +8,7 @@ image_gallery = []
 postamble = "Des Moines Metro Opera's [production of _La bohème_](http://desmoinesmetroopera.org/productions/boheme/) runs through July 21."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1562029435/media/2019/07/sqDMMOBohemeDSC_4076.jpg"
-primary_image_credit = ""
+primary_image_credit = "La bohème, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera."
 related_articles = []
 related_companies = []
 related_people = []
@@ -24,7 +24,7 @@ The design teams created a classic production that felt familiar and realistic. 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562029495/media/2019/07/DMMOBohemeDSC_3864.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>La bohème, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera.</figcaption>
 
 </figure>
 
@@ -34,7 +34,7 @@ Conductor [Michael Christie](/talking-with-conductors-michael-christie/) led the
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562029465/media/2019/07/DMMOBohemeDSC_3773.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>La bohème, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera.</figcaption>
 
 </figure>
 
@@ -46,7 +46,7 @@ The poor bohemians are funny and flawed, and while they are sometimes pitted aga
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562029476/media/2019/07/DMMOBohemeDSC_2646-1.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>La bohème, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera.</figcaption>
 
 </figure>
 
@@ -54,7 +54,7 @@ The four male friends - Rodolfo, Marcello, Colline, and Schaunard - had a convin
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562029511/media/2019/07/DMMOBohemeDSC_2091.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>La bohème, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera.</figcaption>
 
 </figure>
 
@@ -66,7 +66,7 @@ Thomas Glass had impressive vocal chops and was a solid dramatic presence throug
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562029528/media/2019/07/DMMOBohemeDSC_2313.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>La bohème, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera.</figcaption>
 
 </figure>
 
@@ -80,7 +80,7 @@ In stark contrast is the overly in love, super mushy couple in the friend group 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562029541/media/2019/07/DMMOBohemeDSC_2037.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>La bohème, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera.</figcaption>
 
 </figure>
 
@@ -90,7 +90,7 @@ Julie Adams performed the role of the tragic heroine, Mimì, with a velvety voca
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562029554/media/2019/07/DMMOBohemeDSC_1979.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>La bohème, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera.</figcaption>
 
 </figure>
 
