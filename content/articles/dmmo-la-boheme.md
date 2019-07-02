@@ -22,6 +22,12 @@ youtube_url = ""
 
 The design teams created a classic production that felt familiar and realistic. From the impoverished intimacy of the artists' apartment to the bustling chaos at Café Momus, the scenery, lighting, costumes, hair, and make up all combined to create a cohesive environment for Puccini's beloved characters to inhabit.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 The chorus under the direction of Lisa Hasson sparkled onstage in Act II, capturing the lively charm of the holidays in Paris. At times the space felt a bit congested with the chorus in full force, but I also wish more of them had remained onstage for all the Café Momus scenes to create a backdrop of activity behind the main characters. Even if they are not needed to sing, a chorus of strong actors can enhance a scene dramatically, and it just didn’t feel like the busy streets of Paris without the constant presence of people.
 
 Conductor [Michael Christie](/talking-with-conductors-michael-christie/) led the orchestra in a quintessential performance of Puccini’s beautiful music. There were a few moments where the ensemble overpowered the singers, but the balance got better as the opera progressed. Puccini's orchestration is equal parts powerful and vulnerable, and without the instrumental underpinning, much of the raw emotional impact would be lost. (When I cried in the final scene, I hold the orchestra as partially to blame for my smudged eyeliner!)
