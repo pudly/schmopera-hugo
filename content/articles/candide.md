@@ -18,9 +18,15 @@ title = "Candide"
 youtube_url = ""
 
 +++
-On the surface, Leonard Bernstein's _Candide_ seems like a delightful theatrical comedy, but underneath the cheerful tunes and ridiculous plot, there is a deeper, darker undercurrent. Des Moines Metro Opera tackled this hard-to-define opera/operetta/musical about philosophy and human nature with unrelenting energy and flair, leaving the audience laughing and reflecting simultaneously.
+On the surface, [Leonard Bernstein's _Candide_](http://desmoinesmetroopera.org/productions/candide/) seems like a delightful theatrical comedy, but underneath the cheerful tunes and ridiculous plot, there is a deeper, darker undercurrent. Des Moines Metro Opera tackled this hard-to-define opera/operetta/musical about philosophy and human nature with unrelenting energy and flair, leaving the audience laughing and reflecting simultaneously.
 
 Candide and his companions travel to numerous countries throughout the story, and these rapid fire relocations pose quite a challenge to any production team. The scenic designer, Steven C. Kemp, took a strategically clever and colorful approach to this conundrum. Each location in the story was designated by a unique monochromatic color scheme. As the narrative progressed to a new city, set pieces in the designated color would appear, and then once the characters moved onto another place, a couple pieces of scenery would remain. By the end of the night, the stage was a rainbow of mismatched platforms, furniture, and backdrops, each reflecting part of Candide's chaotic journey and the contradictory lessons he learned.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption>Candide, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera.</figcaption>
+
+</figure>
 
 The rest of the design teams played off the color scheme as well. Linda Pisano chose a neutral white base for the chorus costumes, accentuating each city's designated color through the use of accessories. Cunegonde and the Old Lady were chameleons, their clothes changing to assimilate with their surroundings. Candide, however, stood out against the varying colored backdrops, often wearing the same neutral outfit from scene to scene. The choice was subtle but effective.
 
@@ -50,5 +56,4 @@ Because this story is so absurd, director Michael Shell and choreographer Todd R
 
 Bernstein’s _Candide_ on the surface appears to be a lighthearted comedy, but don’t let the upbeat tunes deceive you (especially the one about venereal disease). Once you start to comprehend the dark subject matter beneath the happy disguise, you realize that the music in reality is frantic and frenzied. The score was unrelenting, never resolving from location to location, and when we finally reached the end, there was no resolution to the narrative itself. The characters angrily demanded answers from Voltaire, but there were none. Bernstein addressed this lack of a satisfactory conclusion by bombarding the audience with a wall of vocal harmony, a glorious hymn that sounded confident but still left the moral of the story up to us. But that’s reality, folks. Life is dark but also hilarious. People can be terrible but also wonderful. Philosophy can only take us so far. The rest is in our hands.
 
-  
 If you're looking for a theatrical farce that will leave you with a lot of questions about the human condition, then look no further than Des Moines Metro Opera's charming production of _Candide_.
