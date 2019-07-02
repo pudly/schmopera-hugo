@@ -8,9 +8,9 @@ postamble = "Des Moines Metro Opera's production of [_Candide_](http://desmoines
 preamble = ""
 primary_image = ""
 primary_image_credit = ""
-related_articles = []
+related_articles = ["articles/candide-the-best-of-all-possible-productions.md"]
 related_companies = ["scene/companies/des-moines-metro-opera.md"]
-related_people = ["scene/people/emmett-o-hanlon.md", "scene/people/eliza-bonet.md", "scene/people/kyle-albertson.md", "scene/people/jonathan-johnson.md", "scene/people/deanna-breiwick.md"]
+related_people = ["scene/people/corey-bix.md", "scene/people/emmett-o-hanlon.md", "scene/people/eliza-bonet.md", "scene/people/kyle-albertson.md", "scene/people/jonathan-johnson.md", "scene/people/deanna-breiwick.md"]
 short_description = "If you're looking for a theatrical farce that will leave you with a lot of questions about the human condition, then look no further than Des Moines Metro Opera's charming production of Candide."
 slug = "dont-let-the-upbeat-tunes-deceive-you-dmmos-candide"
 title = "Don't let the upbeat tunes deceive you: DMMO's Candide"
@@ -61,7 +61,7 @@ Wynn Harmon played the spoken role of Voltaire, the author of the original novel
 
 </figure>
 
-Candide's third mentor, Cacambo, was performed by [Corey Trahan](/scene/people/corey-trahan/). This character resembled a more realistic compromise between optimism and pessimism, and while Cacambo didn't get his own musical number, he was crucial to some of the best comedic moments. Trahan employed a couple of hilarious accents for his character, and whenever he came onstage, he was clearly an audience favorite.
+Candide's third mentor, Cacambo, was performed by Corey Trahan. This character resembled a more realistic compromise between optimism and pessimism, and while Cacambo didn't get his own musical number, he was crucial to some of the best comedic moments. Trahan employed a couple of hilarious accents for his character, and whenever he came onstage, he was clearly an audience favorite.
 
 [Deanna Breiwick](/scene/people/deanna-breiwick/) was a bubbly and beautiful Cunegonde, and her rendition of the famous "Glitter and Be Gay" aria was a dazzling delight. Her vocal runs managed to stay liquid smooth even as her character became more and more manic, and she doled out the plethora of high notes with seemingly no effort. The character of Cunegonde is intentionally two dimensional, objectified by the various men that come into her life. Breiwick's performance nailed the superficial nature of the noble lady, only cracking that façade at the very end of the story when she confronts Candide's condemnation of her. This brief glimpse at Cunegonde's true emotional state was powerful.
 
