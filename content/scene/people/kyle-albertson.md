@@ -1,9 +1,8 @@
 +++
 discipline = "Bass-baritone"
-draft = true
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1562034434/media/2019/07/KyleAlbertson.jpg"
 primary_image_credit = ""
-related_companies = []
+related_companies = ["scene/companies/glimmerglass-festival.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/des-moines-metro-opera.md", "scene/companies/arizona-opera.md", "scene/companies/the-atlanta-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/san-francisco-opera.md", "scene/companies/minnesota-opera.md"]
 slug = "kyle-albertson"
 title = "Kyle Albertson"
 website = "https://www.kylealbertson.com/"
