@@ -32,15 +32,39 @@ The chorus under the direction of Lisa Hasson sparkled onstage in Act II, captur
 
 Conductor [Michael Christie](/talking-with-conductors-michael-christie/) led the orchestra in a quintessential performance of Puccini’s beautiful music. There were a few moments where the ensemble overpowered the singers, but the balance got better as the opera progressed. Puccini's orchestration is equal parts powerful and vulnerable, and without the instrumental underpinning, much of the raw emotional impact would be lost. (When I cried in the final scene, I hold the orchestra as partially to blame for my smudged eyeliner!)
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 The main factor that makes or breaks a production of _La bohème_ is the cast. The six lead characters must have comedic timing, dramatic chops, and believable chemistry. This opera is so popular precisely because all the characters are realistic and likeable.
 
 The poor bohemians are funny and flawed, and while they are sometimes pitted against landlords and dinner tabs, there are no true villains (unless you count TB). Matthew Lau portrayed both Benoit and Alcindoro, the financially stable old men that get duped by the starving artists. Lau demonstrated clever comedic acting as well as a strong vocal performance which made both men come across as affable despite their apparent opposition to the main characters.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 The four male friends - Rodolfo, Marcello, Colline, and Schaunard - had a convincing connection onstage together. The opera may take place centuries ago, but the nature of true friendship has remained the same. These four bros give each other shit constantly, but they also aren't afraid to call each other out on their bullshit. The staging between these men was often physical and playful which was a welcome relief from the more tragic moments. (I do have to complain, however, that it felt absurd that these famished artists would use their last loaf of bread for a food fight. Hunger outweighs humor every time!)
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 Brian Vu sang the role of Schaunard the musician with a charming energy. He relished the drama as a spectator at Café Momus and mastered the art of the snarky sidebar comments to Colline at Marcello's expense. Timothy J. Bruno brought comedic charisma to the role of Colline, and he delivered a touching somber aria in the final act with vocal gravitas.
 
 Thomas Glass had impressive vocal chops and was a solid dramatic presence throughout the opera as the painter Marcello. It truly is a shame that his character is the only one without an aria. Glass showed a strong acting range, playful and bold with his friends then passionate and temperamental with his lover. I wish the staging had highlighted some of his more tender interactions with Musetta, particularly in the final scenes, to show that underneath all their drama, real love is present.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 Mané Galoyan sang the role of Musetta like a fiery, fickle coquette. She had men _literally_ falling at her feet during the famous "Quando m'en vo" aria which felt a little too on the nose, and while her vocal delivery was gorgeous, I wish they had given her more interesting staging during this crucial scene. Galoyan clearly could have conveyed the magnetic seductive powers of Musetta, but it just didn't come across.
 
@@ -48,11 +72,25 @@ Together Galoyan and Glass created a textbook portrayal of the toxic couple in t
 
 In stark contrast is the overly in love, super mushy couple in the friend group that kind of makes you sick. Rodolfo and Mimì are already madly in love on day one of their relationship, and while their friends tease them about the poetic declarations, they accept Mimì into their circle immediately.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 Julie Adams performed the role of the tragic heroine, Mimì, with a velvety vocal tone. Unfortunately, compared to her lively companions, Adams' Mimì came across as a bit bland and reserved in the second act. The soprano started to come out of her shell more in last two acts, especially on her deathbed, but I didn't get emotionally invested in Mimì from the start, which lessened the impact of her demise. I realize that Mimì is more guarded than her lover, but when Rodolfo is pouring his guts out, I just wanted a little more from her. Hopefully as the season progresses, their romantic dynamic will blossom further.
 
 Joshua Guerrero was lovable and heart wrenching as the lovelorn poet, Rodolfo. His rendition of "Che gelida manina" started out timid and vulnerable then built up to the glorious high notes. I had trouble hearing him over the orchestra in his lower register at times, but the balance seemed to get corrected by the second act. Rodolfo is a character that bears his soul eagerly. He's madly in love with Mimì right away, but he also exhibits some big red flags from the start. His jealousy rears its ugly head on their first date, so we can tell it's not going to be the most stable relationship. 
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 Despite his flaws, Rodolfo's primary concern is Mimì's well-being (even if he is terrible at communicating it). Guerrero's raw emotional performance in combination with Puccini's moving orchestration was what ultimately pushed me over the edge and brought me to tears in the finale. It's a recipe for success: tragic tenor + swelling instrumentals = cathartic release. (Damn you, Puccini.)
+
+> Regardless of all the other factors in a production, Puccini's music remains at the heart of it.
 
 _La bohème_ is a lot like the pumpkin spice latte for me. I feel kind of like a basic bitch for admitting that I love it so much, but it never fails to satisfy. I know what I'm getting, and I know I’m going to enjoy it. Puccini's music always delivers, and he will always make me cry as Mimì dies in Rodolfo's arms. Regardless of all the other factors in a production, Puccini's music remains at the heart of it, and that is exactly why we keep coming back for more. 
 
