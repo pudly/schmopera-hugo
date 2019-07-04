@@ -10,7 +10,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1562262235/m
 primary_image_credit = "Joélle Harvey (Susanna) in The Marriage of Figaro, ROH, 2019. Photo: Mark Douet."
 related_articles = []
 related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/simon-keenlyside.md", "scene/people/julia-kleiter.md", "scene/people/joélle-harvey.md", "scene/people/christian-gerhaher.md"]
+related_people = ["scene/people/kangmin-justin-kim.md", "scene/people/simon-keenlyside.md", "scene/people/julia-kleiter.md", "scene/people/joélle-harvey.md", "scene/people/christian-gerhaher.md"]
 short_description = "Somehow, though now over two hundred years old, it maintains a certain freshness. Even a standard production like this 2006 David McVicar classic which this season sees its sixth revival run at the Royal Opera, still feels relevant."
 slug = "the-ever-relevant-classic-rohs-marriage-of-figaro"
 title = "The ever-relevant classic: ROH's Marriage of Figaro"
@@ -53,7 +53,7 @@ German soprano [Julia Kleiter](/scene/people/julia-kleiter/) makes her Royal Ope
 
 </figure>
 
-I was very excited to see Korean American counter tenor Kangmin Justin Kim in the role of Cherubino which has historically been the realm of trouser-toting mezzos. In fact, it was so startling to see an actual man in this role that he almost didn’t register as male on stage. This was aided by Kim’s voice which bears a particularly resonant mezzo quality. He was very charming and funny easily proving why it is Cherubino who is always the favourite.
+I was very excited to see Korean American counter tenor [Kangmin Justin Kim](/scene/people/kangmin-justin-kim/) in the role of Cherubino which has historically been the realm of trouser-toting mezzos. In fact, it was so startling to see an actual man in this role that he almost didn’t register as male on stage. This was aided by Kim’s voice which bears a particularly resonant mezzo quality. He was very charming and funny easily proving why it is Cherubino who is always the favourite.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562262349/media/2019/07/KangminJustinKimasCherubinoCROH2019photobyMarkDouetC31B276.jpg){{% /md %}}
 
