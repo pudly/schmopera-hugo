@@ -17,7 +17,7 @@ title = "The ever-relevant classic: ROH's Marriage of Figaro"
 youtube_url = ""
 
 +++
-There is something special about _Le nozze di Figaro_. Somehow, though now over two hundred years old, it maintains a certain freshness. Even a standard production like this 2006 David McVicar classic, which this season sees its sixth revival run at the Royal Opera, still feels relevant. The familiar tunes have not lost their lustre over time and the story remains as relatable and insightful as ever.
+There is something special about _Le nozze di Figaro_. Somehow, though now over two hundred years old, it maintains a certain freshness. Even a standard production like this 2006 David McVicar classic, which this season sees its [sixth revival run](https://www.roh.org.uk/productions/the-marriage-of-figaro-by-david-mcvicar) at the Royal Opera, still feels relevant. The familiar tunes have not lost their lustre over time and the story remains as relatable and insightful as ever.
 
 A cut-and-dry production, yes, but an intelligent one which paid a lot of attention to detail. The staged overture provided an insight into the life of a servant in the house of Count Almaviva in a very clear way. This is of course, quite a typical approach to the opening of the opera to have the servants bustling about, preparing for the day ahead but McVicar really focuses in on the minutia, bringing to light the idea that secrets are never safe in a big house.
 
