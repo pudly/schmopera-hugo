@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/noye-s-fludde.md
 - content/articles/roh-nozze.md
 - content/articles/candide.md
 - content/articles/dmmo-la-boheme.md
