@@ -3,18 +3,17 @@ author = ["authors/alessia-naccarato.md"]
 categories = "Review"
 date = "2019-07-09T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
-postamble = ""
+postamble = "[_The Turn of the Screw_](https://www.garsingtonopera.org/performance/turn-screw) runs at Garsington Opera through 19 July."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1562682618/media/2019/07/sqGOtots2019JP_00760.jpg"
 primary_image_credit = "The Turn of the Screw Garsington Opera 2019 Ed Lyon (Peter Quint), Richard Farnes (conductor) Louisa Muller (director) Christopher Oram (design) Malcolm Rippeth (lighting) credit Johan Persson."
 related_articles = []
-related_companies = []
+related_companies = ["scene/companies/garsington-opera.md"]
 related_people = []
 short_description = "This beautiful period production of Britten's The Turn of the Screw, directed by Louisa Muller, is no exception. The newly and rather cleverly built Opera Pavilion borrows from Japanese architecture, creating a space which ambiguously walks the line between the indoor and the outdoor. "
-slug = "turn-of-the-screw"
-title = "Turn of the Screw"
+slug = "an-ambiguous-turn-of-the-screw-at-garsington-opera"
+title = "An ambiguous Turn of the Screw at Garsington Opera"
 youtube_url = ""
 
 +++
@@ -44,7 +43,7 @@ The production played with blurring the lines between the physical and spiritual
 
 > Lyon actively played with the shaping of the phrases, bending them deliciously out of shape.
 
-It was a very intelligent way to use the space and to draw similarities between the ghosts and the performers themselves. But because the first half of the opera was in daylight, it rendered Malcom Rippeth's lighting designs virtually ineffective. It wasn't until the second act after the sun had gone down that the production was able to make real use of the lighting and of candlelight. This allowed for the sought-after eerie quality this opera possesses and it contrasted to the lightness of the first act, raising the stakes for the climactic and tragic ending to the story.
+It was a very intelligent way to use the space and to draw similarities between the ghosts and the performers themselves. But because the first half of the opera was in daylight, it rendered Malcolm Rippeth's lighting designs virtually ineffective. It wasn't until the second act after the sun had gone down that the production was able to make real use of the lighting and of candlelight. This allowed for the sought-after eerie quality this opera possesses and it contrasted to the lightness of the first act, raising the stakes for the climactic and tragic ending to the story.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562682763/media/2019/07/6TheTurnoftheScrewGarsingtonOpera2019SophieBevanGoverneLeoMemisonMilesEdLyonPeterQuintJohanPersson.jpg){{% /md %}}
 
