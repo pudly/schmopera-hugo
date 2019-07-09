@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "There was a palpable feeling of euphoria when the storm finally clears and Noah and his family realise, they have been spared. Their surprise, relief, and gratitude was genuine and infectious."
-slug = "noyes-fludde"
-title = "Noye's Fludde"
+slug = "simple-joys-in-noyes-fludde"
+title = "Simple joys in Noye's Fludde"
 youtube_url = ""
 
 +++
@@ -28,4 +28,4 @@ Simplistic and child-like designs by Soutra Gilmour were enhanced by Luke Hall's
 
 The cast was led by baritone Marcus Farnsworth as Noah and mezzo soprano Louise Callinan as his wife who along with actress Suzanne Bertish in the speaking role of God, were the only adult performers on stage. They all did a wonderful job of supporting the children through the performance and giving them the space to shine.
 
-There was a palpable feeling of euphoria when the storm finally clears and Noah and his family realise, they have been spared. Their surprise, relief, and gratitude was genuine and infectious.  Their love extends to the world all of the creatures around them and to the God who spared them and this turns the world into a more beautiful, kinder place to live. It is rare to see a story so simplistic and pure performed onstage and though it was a message aimed at children, it is a great reminder for us adults as well to find a little joy in a time of such negativity and uncertainty. What a positive note to end a season on.
+There was a palpable feeling of euphoria when the storm finally clears and Noah and his family realise they have been spared. Their surprise, relief, and gratitude was genuine and infectious.  Their love extends to the world all of the creatures around them and to the God who spared them and this turns the world into a more beautiful, kinder place to live. It is rare to see a story so simplistic and pure performed onstage and though it was a message aimed at children, it is a great reminder for us adults as well to find a little joy in a time of such negativity and uncertainty. What a positive note to end a season on.
