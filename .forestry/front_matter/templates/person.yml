@@ -40,6 +40,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/zachary-james.md
 - content/scene/people/michael-mayes.md
 - content/scene/people/corey-trahan.md
 - content/scene/people/sara-gartland.md
