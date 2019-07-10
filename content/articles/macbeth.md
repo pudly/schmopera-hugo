@@ -29,7 +29,7 @@ Cameron Killick endeared the audience with his performance of Banquo with his we
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562681487/media/2019/07/FAVS_MacBeth3.jpg){{% /md %}}
 
-<figcaption>Melissa Ratcliffe as Lady Macbeth in Heroic Opera's production of Macbeth, 2019. Photo: Diamond's Edge Photography.</figcaption>
+<figcaption>Melissa Ratcliff as Lady Macbeth in Heroic Opera's production of Macbeth, 2019. Photo: Diamond's Edge Photography.</figcaption>
 
 </figure>
 
@@ -49,7 +49,7 @@ Andrew Greenwood's portrayal of Macbeth was striking and powerful. His performan
 
 </figure>
 
-Alongside him, Melissa Ratcliffe's performance of Lady Macbeth was truly dynamic. From her passion towards Macbeth, to her gut-wrenching sleepwalking scene, Melissa's acting and musicality were absolutely brilliant.
+Alongside him, Melissa Ratcliff's performance of Lady Macbeth was truly dynamic. From her passion towards Macbeth, to her gut-wrenching sleepwalking scene, Melissa's acting and musicality were absolutely brilliant.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562681542/media/2019/07/FAVS_MacBeth48.jpg){{% /md %}}
 
