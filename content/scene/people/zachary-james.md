@@ -1,12 +1,27 @@
 +++
-discipline = ""
-primary_image = ""
+discipline = "Bass"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1562776056/media/2019/07/zachary-james-headshot.jpg"
 primary_image_credit = ""
 related_companies = ["scene/companies/los-angeles-opera.md", "scene/companies/opera-philadelphia.md", "scene/companies/arizona-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/des-moines-metro-opera.md", "scene/companies/english-national-opera.md"]
 slug = "zachary-james"
-social_media = []
 title = "Zachary James"
 website = "https://www.zachjames.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/zacharyjames.bass"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/_Zachary_James_"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/user/zachjamesdotcom"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/_zachary_james_/"
 
 +++
 Zachary James, bass, described as a "true stage animal" by Opera News is an international opera singer known for his “huge, robust bass” which “resonates with force” (Bach Track), “tremendous power and presence” (The Arts Desk, London) and “intrinsically beautiful”, “cavernous bass” with “oomph and range” (Opera News). 
