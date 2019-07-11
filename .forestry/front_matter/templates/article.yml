@@ -116,10 +116,10 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/noye-s-fludde.md
 - content/articles/wozzeck.md
 - content/articles/turn-of-the-screw.md
 - content/articles/macbeth.md
-- content/articles/noye-s-fludde.md
 - content/articles/roh-nozze.md
 - content/articles/candide.md
 - content/articles/dmmo-la-boheme.md
