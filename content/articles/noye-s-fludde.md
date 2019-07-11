@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1562864178/media/2019/07/sqThecastofNoyesFluddeatTheatreRoyalStratfordEast.jpg"
-primary_image_credit = ""
+primary_image_credit = "The cast of Noye's Fludde at Theatre Royal Stratford East, English National Opera, 2019. Photo by Marc Brenner."
 related_articles = []
 related_companies = []
 related_people = []
@@ -26,7 +26,7 @@ As Britten originally intended, the production has been cast with mainly amateur
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562864325/media/2019/07/LouiseCallinanMrsNoyeandGossipsinNoyesFluddeatTheatreRoyalStratfordEast.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Louise Callinan (Mrs Noye) and Gossips in Noye's Fludde at Theatre Royal Stratford East, English National Opera, 2019. Photo: Marc Brenner.</figcaption>
 
 </figure>
 
@@ -38,7 +38,7 @@ So strong is the ENO's wish to bring a younger audience into the theatre, that t
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562864336/media/2019/07/MarcusFarnsworth%20NoahandhisSonsinNoyesFluddeatTheatreRoyalStratfordEast.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Marcus Farnsworth (Noah) and his Sons in Noye's Fludde at Theatre Royal Stratford East, English National Opera, 2019. Photo by Marc Brenner.</figcaption>
 
 </figure>
 
@@ -46,7 +46,7 @@ Director Lyndsey Turner has taken a youthful approach to the story despite the d
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562864347/media/2019/07/MarcusFarnsworthNoaandtheanimalsinNoyesFluddeatTheatreRoyalStratfordEast.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Marcus Farnsworth (Noah) and the animals in Noye's Fludde at Theatre Royal Stratford East, English National Opera, 2019. Photo by Marc Brenner.</figcaption>
 
 </figure>
 
@@ -54,7 +54,7 @@ Simplistic and child-like designs by Soutra Gilmour were enhanced by Luke Hall's
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562864373/media/2019/07/MarcusFarnsworthNoahinNoyesFluddeatTheatreRoyalStratfordEast.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Marcus Farnsworth (Noah) Noye's Fludde at Theatre Royal Stratford East, English National Opera, 2019. Photo by Marc Brenner.</figcaption>
 
 </figure>
 
@@ -62,7 +62,7 @@ The cast was led by baritone Marcus Farnsworth as Noah and mezzo soprano Louise 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562864384/media/2019/07/ThecastofNoyesFluddeatTheatreRoyalStratfordEast.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>The cast of Noye's Fludde at Theatre Royal Stratford East, English National Opera, 2019. Photo by Marc Brenner.</figcaption>
 
 </figure>
 
