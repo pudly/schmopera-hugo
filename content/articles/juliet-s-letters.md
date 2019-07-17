@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "The staging and direction of this song cycle by Cara Gabriel was versatile and imaginative. The singers moved seamlessly between songs. I had absolutely no idea what the music would sound like, and I was pleasantly surprised. There were some minimalist crunchy 20th-century moments, but overall the melodies were beautiful and catchy. Some sounded very operatic, and some had a flower child, Simon and Garfunkel vibe."
-slug = "juliets-letters"
-title = "Juliet's Letters"
+slug = "elvis-costellos-juliets-letters-versatile-imaginative"
+title = "Elvis Costello's Juliet's Letters versatile & imaginative"
 youtube_url = ""
 
 +++
@@ -48,7 +48,7 @@ The mezzo soprano character was sung by Aryssa Leigh Burrs, who displayed wonder
 
 </figure>
 
-The very small band for this work was a string quartet made up from cast members of [Inscape Chamber Orchestra](https://www.inscape.org/). It had a full-bodied sound and played Costello's textured and rhythmically difficult score. All the singers were impressive in their lightning quick switching between classical and contemporary style singing. There was a palpable and  tight ensemble energy. It is sometimes said that opera is a "growth industry", and with performances from a small but mighty company, I am more convinced that is the case.
+The very small band for this work was a string quartet made up from cast members of [Inscape Chamber Orchestra](https://www.inscape.org/). It had a full-bodied sound and played Costello's textured and rhythmically difficult score. All the singers were impressive in their lightning quick switching between classical and contemporary style singing. There was a palpable and tight ensemble energy. It is sometimes said that opera is a "growth industry", and with performances from a small but mighty company, I am more convinced that is the case.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563407544/media/2019/07/Juliet6.jpg){{% /md %}}
 
