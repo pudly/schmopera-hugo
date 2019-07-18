@@ -40,6 +40,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/robert-wesley-mason.md
 - content/scene/people/melissa-wimbish.md
 - content/scene/people/gregory-warren.md
 - content/scene/people/zachary-james.md
