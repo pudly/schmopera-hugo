@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = "Jonathan Dove’s Mansfield Park appears at Waterperry Opera Festival, 25-28 July. The Canadian premiere of Dove's _Flight_ is at Pacific Opera Victoria, 20 February 2020. His latest CD – _The Orchestral Music of Jonathan Dove_ – is available now on Orchid Classics."
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1563482141/media/2019/07/sqDoveIMG_6958-1.jpg"
+primary_image_credit = "Photo: Marshall Light Studio."
 related_articles = []
 related_companies = []
 related_people = []
@@ -20,7 +20,7 @@ youtube_url = ""
 +++
 ## How would you describe your musical aesthetic? How have you heard it described by others?
 
-I like melodies that you can sing, rhythms that you can dance to, and ideas that you could call "catchy". I want it to appear effortless, and I want the audience to be able to enjoy it on first hearing. (However, it isn't effortless for the performers!) 
+I like melodies that you can sing, rhythms that you can dance to, and ideas that you could call "catchy". I want it to appear effortless, and I want the audience to be able to enjoy it on first hearing. (However, it isn't effortless for the performers!)
 
 People hear all kinds of echoes, especially of Britten, John Adams and sometimes Bernstein. It's certainly towards the tonal end of the spectrum.
 
@@ -28,11 +28,17 @@ People hear all kinds of echoes, especially of Britten, John Adams and sometimes
 
 I don't try to write anything down until it's already quite a long way to being finished in my mind. Before that, I just keep playing (piano or keyboard) until I have an idea that seems to have a future, and then follow where it leads. When I get tired of playing, or nothing's really taking off, I walk or cycle somewhere, maybe visit a gallery or a museum, or read.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption>Jonathan Dove, composer. Photo: Marshall Light Studio.</figcaption>
+
+</figure>
+
 ## How do you think the perception of being a working composer compares to the reality of the job?
 
-Partly the perception is right: you are on your own a lot of the time (even if you're not actually in an attic), maybe playing phrases over and over again until they feel right, jotting things down... 
+Partly the perception is right: you are on your own a lot of the time (even if you're not actually in an attic), maybe playing phrases over and over again until they feel right, jotting things down...
 
-But it also has its social side: meeting writers and directors and singers with whom you're going to collaborate, attending rehearsals where suddenly you're surrounded by hundreds of people trying to perform your music, meeting your audience before a concert and telling them about your new piece. 
+But it also has its social side: meeting writers and directors and singers with whom you're going to collaborate, attending rehearsals where suddenly you're surrounded by hundreds of people trying to perform your music, meeting your audience before a concert and telling them about your new piece.
 
 And sometimes you get invited to performances of your work in exciting places: I once went to see a production of one of my operas in Hawaii.
 
@@ -43,6 +49,12 @@ I ought to have an answer, but I'm not sure what it is! Some pieces come easily,
 ## Do you have a song/album/artist that you’d consider a guilty pleasure?
 
 The songs from _The Little Mermaid_.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption>Jonathan Dove, composer. Photo: Marshall Light Studio.</figcaption>
+
+</figure>
 
 ## Out of your body of work, what are you most proud of, to date?
 
