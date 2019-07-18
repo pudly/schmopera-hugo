@@ -3,7 +3,6 @@ author = ["authors/callie-cooper.md"]
 categories = "Review"
 date = "2019-07-17T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Learn more about this organization's mission in the Washington D.C. area, and stay tuned for their [upcoming season announcement]()."
 preamble = ""
@@ -11,7 +10,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1563407382/m
 primary_image_credit = "Aryssa Leigh Burrs (left) & Melissa Wimbish in Juliet's Letters, 2019. Photo: C. Stanley Photography."
 related_articles = []
 related_companies = []
-related_people = []
+related_people = ["scene/people/robert-wesley-mason.md", "scene/people/melissa-wimbish.md"]
 short_description = "The staging and direction of this song cycle by Cara Gabriel was versatile and imaginative. The singers moved seamlessly between songs. I had absolutely no idea what the music would sound like, and I was pleasantly surprised. There were some minimalist crunchy 20th-century moments, but overall the melodies were beautiful and catchy. Some sounded very operatic, and some had a flower child, Simon and Garfunkel vibe."
 slug = "elvis-costellos-juliets-letters-versatile-imaginative"
 title = "Elvis Costello's Juliet's Letters versatile & imaginative"
@@ -28,9 +27,9 @@ The staging and direction of this song cycle by Cara Gabriel was versatile and i
 
 </figure>
 
-Soprano [Melissa Wimbish](/scene/people/melissa-wimbish/) was the standout of the small cast. Though she was only on stage for an hour, it was clear that Ms. Wimbish is a highly trained and highly dedicated singing actor. She opened the show as a tortured suicidal character, and at the end seemed at peace. I don't know whether or not Ms. Gabriel meant for a continuing narrative for all the characters, but it was especially poignant for Ms. Wimbish's character. 
+Soprano [Melissa Wimbish](/scene/people/melissa-wimbish/) was the standout of the small cast. Though she was only on stage for an hour, it was clear that Ms. Wimbish is a highly trained and highly dedicated singing actor. She opened the show as a tortured suicidal character, and at the end seemed at peace. I don't know whether or not Ms. Gabriel meant for a continuing narrative for all the characters, but it was especially poignant for Ms. Wimbish's character.
 
->The music showcased a brilliant soprano and large range.
+> The music showcased a brilliant soprano and large range.
 
 The opening number was sung by the ensemble, and each of their individual characterizations came out. They all held letters that they sent up into the air on a clothesline. At the end of the opera, the letters appeared again, the three reflected on the letters and left them alone, except for Ms. Wimbish's character who took hers with a smile. The music showcased a brilliant soprano and large range.
 
@@ -40,7 +39,7 @@ The opening number was sung by the ensemble, and each of their individual charac
 
 </figure>
 
-The mezzo soprano character was sung by Aryssa Leigh Burrs, who displayed wonderful comedic timing. Baritone Robert Wesley Mason acted as a dramatic bridge between the two female players.
+The mezzo soprano character was sung by Aryssa Leigh Burrs, who displayed wonderful comedic timing. Baritone [Robert Wesley Mason](/scene/people/robert-wesley-mason/) acted as a dramatic bridge between the two female players.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563407534/media/2019/07/Juliet5.jpg){{% /md %}}
 
