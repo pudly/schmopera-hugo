@@ -3,10 +3,9 @@ author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2019-07-17T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
-postamble = "Jonathan Dove’s Mansfield Park appears at Waterperry Opera Festival, 25-28 July. The Canadian premiere of Dove's _Flight_ is at Pacific Opera Victoria, 20 February 2020. His latest CD – _The Orchestral Music of Jonathan Dove_ – is available now on Orchid Classics."
-preamble = "English composer Jonathan Dove, who just celebrated his 60th birthday, is settling in for a busy summer. At this year's BBC Proms is the world premiere of Dove's [_We Are One Fire_](https://www.bbc.co.uk/events/e4j6gw), on a, 19 August program shared with the new Piano Concerto by Dieter Ammann, and Beethoven's Ninth Symphony.\n\nDove also sees a new BBC Orchestra recording, [_The Orchestral Music of Jonathan Dove_](http://www.orchidclassics.com/releases/orc100097-the-orchestral-music-of-jonathan-dove/), on Orchid Classics;  which includes his _Airport Scenes_ and excerpts of his widely-performed opera, _Flight_."
+postamble = "Jonathan Dove's [_Mansfield Park_](http://www.waterperryoperafestival.co.uk/mansfieldpark.html) appears at Waterperry Opera Festival, 25-28 July. The Canadian premiere of Dove's [_Flight_](https://www.pov.bc.ca/season.html) is at Pacific Opera Victoria, 20 February, 2020. His latest CD, [_The Orchestral Music of Jonathan Dove_](http://www.orchidclassics.com/releases/orc100097-the-orchestral-music-of-jonathan-dove/), is available now on Orchid Classics."
+preamble = "English composer Jonathan Dove, who just celebrated his 60th birthday, is settling in for a busy summer. At this year's BBC Proms is the world premiere of Dove's [_We Are One Fire_](https://www.bbc.co.uk/events/e4j6gw), on a, 19 August program shared with the new Piano Concerto by Dieter Ammann, and Beethoven's Ninth Symphony.\n\nDove also sees a new BBC Orchestra recording, [_The Orchestral Music of Jonathan Dove_](http://www.orchidclassics.com/releases/orc100097-the-orchestral-music-of-jonathan-dove/), on Orchid Classics;  which includes his _Airport Scenes_ and excerpts of his widely-performed opera, _Flight_.\n\nWe spoke with Dove about his impressive output as a composer, and what projects make him the most proud."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1563482141/media/2019/07/sqDoveIMG_6958-1.jpg"
 primary_image_credit = "Photo: Marshall Light Studio."
 related_articles = []
@@ -36,7 +35,7 @@ I don't try to write anything down until it's already quite a long way to being 
 
 ## How do you think the perception of being a working composer compares to the reality of the job?
 
-Partly the perception is right: you are on your own a lot of the time (even if you're not actually in an attic), maybe playing phrases over and over again until they feel right, jotting things down...
+Partly, the perception is right: you are on your own a lot of the time (even if you're not actually in an attic), maybe playing phrases over and over again until they feel right, jotting things down...
 
 But it also has its social side: meeting writers and directors and singers with whom you're going to collaborate, attending rehearsals where suddenly you're surrounded by hundreds of people trying to perform your music, meeting your audience before a concert and telling them about your new piece.
 
