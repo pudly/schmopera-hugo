@@ -1,7 +1,7 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Interview"
-date = "2019-07-17T04:00:00+00:00"
+date = "2019-07-18T04:00:00+00:00"
 disclaimer = ""
 image_gallery = []
 postamble = "Jonathan Dove's [_Mansfield Park_](http://www.waterperryoperafestival.co.uk/mansfieldpark.html) appears at Waterperry Opera Festival, 25-28 July. The Canadian premiere of Dove's [_Flight_](https://www.pov.bc.ca/season.html) is at Pacific Opera Victoria, 20 February, 2020. His latest CD, [_The Orchestral Music of Jonathan Dove_](http://www.orchidclassics.com/releases/orc100097-the-orchestral-music-of-jonathan-dove/), is available now on Orchid Classics."
