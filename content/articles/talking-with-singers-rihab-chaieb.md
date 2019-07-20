@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1563653295/media/2019/07/sqRihabChaieb-pc-FayFox.jpg"
+primary_image_credit = "Photo: Fay Fox."
 related_articles = []
 related_companies = []
 related_people = []
@@ -28,6 +28,12 @@ It's very spoken, in a way. It doesn't feel like singing - of course it's singin
 
 Every time people learn that I'm Canadian, they're like, 'Oh, you're so nice!' It's the first thing people say. And it's kind of true, most of the time. We're not known to be massive divas with outrageous demands. It's always really welcome, people are always so happy to have a Canadian in the cast.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563653352/media/2019/07/RihabChaieb1-pc-FayFox.jpg){{% /md %}}
+
+<figcaption>Rihab Chaieb, mezzo-soprano. Photo: Fay Fox.</figcaption>
+
+</figure>
+
 ## What do you know now about the singing career, that you wish you knew 10 years ago?
 
 I wish I had just focused more on my singing technique. I was just so eager to have a career, to be traveling and singing all over the world. A big part of why I did go to New York \[for the Lindemann Program\], taking three extra years after doing a major young artist programme, was because I felt like I wasn't vocally prepared. So, in my late 20s and early 30s, I went back to another young artist programme to get more singing lessons, more technique, because I wasn't actually ready for the demands of this professional world.
@@ -35,6 +41,12 @@ I wish I had just focused more on my singing technique. I was just so eager to h
 Now, I feel like I'm on a level where I am ready, but I still need the constant tweak and the constant going back to my teacher - I Skype with my teacher on a weekly basis. It's not about me freaking out about my technique, it's about, 'I'm having a hard time with this part, I'm not sure why, but let's fix it'. It’s about finding the tools. It's about trusting that once I get my technique in place, everything else will follow.
 
 I'm 32 now, and I'm getting it. It's a very healthy timeline for me.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563653384/media/2019/07/RihabChaieb4-pc-FayFox.jpg){{% /md %}}
+
+<figcaption>Rihab Chaieb, mezzo-soprano. Photo: Fay Fox.</figcaption>
+
+</figure>
 
 ## Why do you sing professionally, rather than pursuing something less demanding?
 
