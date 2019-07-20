@@ -18,6 +18,10 @@ title = "Upcoming of note: Opera hits in BC & Henry VIII in Boston"
 youtube_url = ""
 
 +++
-This month in beautiful British Columbia, Opera Kelowna kicks off its summer line-up. Two concerts featuring the company's Summer Intensive Program on [July 27](https://www.operakelowna.com/2019-opera-at-the-proms/) and [July 30](https://www.operakelowna.com/2019-opera-in-the-park/), and on July 31, Opera Kelowna's young talent is joined onstage by Canadian favourites Steeve Michaud, Aaron Durand, Marie-Josée Lord, and Stephanie Tritchew, for [_Opera Under the Stars_](https://www.operakelowna.com/2019-opera-under-the-stars/). (The above events are free admission, and registration may be required. [Click here for details](https://www.operakelowna.com/the-season/).)
+This month in beautiful British Columbia, [Opera Kelowna](/scene/companies/opera-kelowna/) kicks off its summer line-up. Two concerts featuring the company's Summer Intensive Program on [July 27](https://www.operakelowna.com/2019-opera-at-the-proms/) and [July 30](https://www.operakelowna.com/2019-opera-in-the-park/), and on July 31, Opera Kelowna's young talent is joined onstage by Canadian favourites Steeve Michaud, Aaron Durand, Marie-Josée Lord, and Stephanie Tritchew, for [_Opera Under the Stars_](https://www.operakelowna.com/2019-opera-under-the-stars/). (The above events are free admission, and registration may be required. [Click here for details](https://www.operakelowna.com/the-season/).)
 
-Opera Kelowna also offers [_Opera in the Vines_](https://www.operakelowna.com/2019-opera-in-the-vines/) on August 2, a fab partnership with Mission Hill Family Estate Winery. It's a concert of operatic hits, paired with views of Okanagan Lake; get there early to catch the pre-concert reception, and try a few food/wine pairings.
+Opera Kelowna also offers [_Opera in the Vines_](https://www.operakelowna.com/2019-opera-in-the-vines/) on August 2, a fab partnership with [Mission Hill Family Estate Winery](https://www.missionhillwinery.com/). It's a concert of operatic hits, paired with views of Okanagan Lake; get there early to catch the pre-concert reception, and try a few food/wine pairings.
+
+For a full listing of Opera Kelowna's 2019 line-up, [visit their website](https://www.operakelowna.com/the-season/).
+
+On the other coast, Boston-based Odyssey Opera is set to offer its latest in 
