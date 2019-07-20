@@ -24,4 +24,4 @@ Opera Kelowna also offers [_Opera in the Vines_](https://www.operakelowna.com/20
 
 For a full listing of Opera Kelowna's 2019 line-up, [visit their website](https://www.operakelowna.com/the-season/).
 
-On the other coast, Boston-based Odyssey Opera is set to offer its latest in 
+On the other coast, Boston-based Odyssey Opera is set to offer its latest in opera's under-performed masterpieces. Saint-Saëns' fifth opera, _Henry VIII_, centres on the famed love triangle between the Tudor king, his first wife Catherine of Aragon, and his soon-to-be second wife, Anne Boleyn.
