@@ -42,7 +42,7 @@ The short first act was jam-packed with hilarious chaos. In contrast the second 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563820708/media/2019/07/ARIADNE_0022.jpg){{% /md %}}
 
-<figcaption>in Wolf Trap Opera's 2019 production of Strauss' Ariadne auf Naxos. Photo: Scott Suchman for Wolf Trap Opera.</figcaption>
+<figcaption>Alexandria Shiner (Ariadne) in Wolf Trap Opera's 2019 production of Strauss' Ariadne auf Naxos. Photo: Scott Suchman for Wolf Trap Opera.</figcaption>
 
 </figure>
 
@@ -50,7 +50,7 @@ Echo (sung by [Ashley Robillard](https://opera.wolftrap.org/ashley-robillard-sop
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563820719/media/2019/07/ARIADNE_0029.jpg){{% /md %}}
 
-<figcaption>in Wolf Trap Opera's 2019 production of Strauss' Ariadne auf Naxos. Photo: Scott Suchman for Wolf Trap Opera.</figcaption>
+<figcaption>Alexandra Nowakowski in Wolf Trap Opera's 2019 production of Strauss' Ariadne auf Naxos. Photo: Scott Suchman for Wolf Trap Opera.</figcaption>
 
 </figure>
 
@@ -58,6 +58,6 @@ Another common theme of the night was every single players ability to move/dance
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563820731/media/2019/07/ARIADNE_0038.jpg){{% /md %}}
 
-<figcaption>in Wolf Trap Opera's 2019 production of Strauss' Ariadne auf Naxos. Photo: Scott Suchman for Wolf Trap Opera.</figcaption>
+<figcaption>Ian Kozaria (Bacchus) and Alexandria Shiner (Ariadne) in Wolf Trap Opera's 2019 production of Strauss' Ariadne auf Naxos. Photo: Scott Suchman for Wolf Trap Opera.</figcaption>
 
 </figure>
