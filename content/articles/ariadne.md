@@ -34,7 +34,7 @@ Lindsay Kate Brown sang the highly melodramatic role of the Composer with comic 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563820691/media/2019/07/ARIADNE_0007.jpg){{% /md %}}
 
-<figcaption>in Wolf Trap Opera's 2019 production of Strauss' Ariadne auf Naxos. Photo: Scott Suchman for Wolf Trap Opera.</figcaption>
+<figcaption>(l-r) Lindsay Kate Brown(Composer), Ian Koziara (Tenor), Alexandria Shiner (Prima Donna) , Joshua Conyers (Music Master), Wilford Kelly (Wigmaker), Jeremy Harr (Lackey), Conor McDonald (Major-Domo), Seiyoung Kim (Brighella), Victor Cardamone (Scaramuccio), Ian McEuen (Dancing Master) and Ron Dukes (Truffaldin) in Wolf Trap Opera's 2019 production of Strauss' Ariadne auf Naxos. Photo: Scott Suchman for Wolf Trap Opera.</figcaption>
 
 </figure>
 
