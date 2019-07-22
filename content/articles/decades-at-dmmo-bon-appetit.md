@@ -14,7 +14,7 @@ related_companies = []
 related_people = []
 short_description = "At the end of the performance, the audience was served the very chocolate cake depicted in the opera, bringing the experience full circle. A decadent finish to a decadent evening."
 slug = "decadence-at-dmmo-bon-appetit"
-title = "Decades at DMMO: Bon Appetit!"
+title = "Decadence at DMMO: Bon Appetit!"
 youtube_url = ""
 
 +++
