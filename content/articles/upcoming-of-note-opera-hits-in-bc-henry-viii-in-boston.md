@@ -36,7 +36,7 @@ On the opposite coast, Boston-based [Odyssey Opera](/scene/companies/odyssey-ope
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563757517/media/2019/07/OdysseyOperaCollage.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>The cast of Odyssey Opera's _Henry VIII_, clockwise from top left: baritone Michael Chioldi (photo: Peter Konerko), soprano Ellie Dehn (photo: Catherine Pisaroni), and Hilary Ginther. </figcaption>
 
 </figure>
 
