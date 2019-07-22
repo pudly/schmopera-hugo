@@ -24,7 +24,7 @@ The costumes by [Rooth Varland](https://www.roothvarland.net/) were colorful and
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563820669/media/2019/07/ARIADNE_0006.jpg){{% /md %}}
 
-<figcaption>in Wolf Trap Opera's 2019 production of Strauss' Ariadne auf Naxos. Photo: Scott Suchman for Wolf Trap Opera.</figcaption>
+<figcaption>(top row l-r): Alexandra Nowakowski (Zerbinetta). (middle row l-r): Victor Cardamone (Scaramuccio), Ron Dukes (Truffaldin), Seiyoung Kim (Brighella). (front row, l-r): Michael Pandolfo (Harlekin) and Ian McEuen (Dancing Master) in Wolf Trap Opera's 2019 production of Strauss' Ariadne auf Naxos. Photo: Scott Suchman for Wolf Trap Opera.</figcaption>
 
 </figure>
 
