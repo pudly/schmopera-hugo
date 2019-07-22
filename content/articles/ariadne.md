@@ -10,11 +10,11 @@ preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1563820545/media/2019/07/sqARIADNE_0020.jpg"
 primary_image_credit = "(l-r) Victor Cardamone (Scaramuccio), Alexandra Nowakowski (Zerbinetta), Ron Dukes (Truffaldin) (front): Michael Pandolfo (Harlekin) in Wolf Trap Opera's 2019 production of Strauss' Ariadne auf Naxos. Photo: Scott Suchman for Wolf Trap Opera."
 related_articles = []
-related_companies = []
+related_companies = ["scene/companies/wolf-trap-opera.md"]
 related_people = []
 short_description = "On Friday, July 19, Wolf Trap Opera opened their second opera of their summer season with Strauss's Ariadne auf Naxos. An opera within an opera is always a difficult feat in my opinion, and the creative team made it an entertaining and comical evening."
-slug = "ariadne"
-title = "Ariadne"
+slug = "solid-subtle-direction-in-wtos-ariadne-auf-naxos"
+title = "Solid & subtle direction in WTO's Ariadne auf Naxos"
 youtube_url = ""
 
 +++
