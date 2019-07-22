@@ -21,7 +21,7 @@ This month in beautiful British Columbia, [Opera Kelowna](/scene/companies/opera
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563757534/media/2019/07/OperaKelownaCollage.jpg){{% /md %}}
 
-<figcaption>Clockwise from top left: mezzo-soprano Stephanie Tritchew, soprano Marie-Josée Lord, tenor Steeve Michaud, and baritone Aaron Durand, all performing in Opera Kelowna's _Opera in the Vines_.</figcaption>
+<figcaption>Clockwise from top left: mezzo-soprano Stephanie Tritchew, soprano Marie-Josée Lord, tenor Steeve Michaud, and baritone Aaron Durand, all performing in Opera Kelowna's Opera in the Vines.</figcaption>
 
 </figure>
 
@@ -29,13 +29,13 @@ Opera Kelowna also offers [_Opera in the Vines_](https://www.operakelowna.com/20
 
 For a full listing of Opera Kelowna's 2019 line-up, [visit their website](https://www.operakelowna.com/the-season/).
 
-On the opposite coast, Boston-based [Odyssey Opera](/scene/companies/odyssey-opera/) is set to offer its latest in opera's under-performed masterpieces. Saint-Saëns' 1883 opera, _Henry VIII_, centres on the famed love triangle between the Tudor king, his first wife Catherine of Aragon, and his soon-to-be second wife, Anne Boleyn. 
+On the opposite coast, Boston-based [Odyssey Opera](/scene/companies/odyssey-opera/) is set to offer its latest in opera's under-performed masterpieces. Saint-Saëns' 1883 opera, _Henry VIII_, centres on the famed love triangle between the Tudor king, his first wife Catherine of Aragon, and his soon-to-be second wife, Anne Boleyn.
 
 "_Henry VIII_ has all the ingredients of a spectacular grand opera," says Odyssey Opera Artistic and General Director Gil Rose. "It has a sensational historical subject and sweeping vocal melodies and rich orchestral writing." The original score saw several cuts after its premiere, but Odyssey Opera is working with Saint-Saëns scholar Hugh MacDonald to put together a recreation that, "for all intents and purposes, represents the world premiere!"
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563757517/media/2019/07/OdysseyOperaCollage.jpg){{% /md %}}
 
-<figcaption>The cast of Odyssey Opera's _Henry VIII_, clockwise from top left: baritone Michael Chioldi (photo: Peter Konerko), soprano Ellie Dehn (photo: Catherine Pisaroni), and Hilary Ginther. </figcaption>
+<figcaption>The cast of Odyssey Opera's Henry VIII, clockwise from top left: baritone Michael Chioldi (photo: Peter Konerko), soprano Ellie Dehn (photo: Catherine Pisaroni), and Hilary Ginther. </figcaption>
 
 </figure>
 
