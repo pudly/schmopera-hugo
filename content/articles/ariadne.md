@@ -3,7 +3,6 @@ author = ["authors/callie-cooper.md"]
 categories = "Review"
 date = "2019-07-21T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "To close their whirlwind season, Wolf Trap Opera will be presenting [Rossini's _The Barber of Seville_](https://www.wolftrap.org/calendar/performance/19filene/0809show19.aspx) for one night only at the open air pavilion, The Filene Center, on August 9."
 preamble = ""
