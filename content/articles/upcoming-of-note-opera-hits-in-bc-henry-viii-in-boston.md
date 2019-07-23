@@ -19,14 +19,6 @@ youtube_url = ""
 +++
 This month in beautiful British Columbia, [Opera Kelowna](/scene/companies/opera-kelowna/) kicks off its summer line-up. Two concerts featuring the company's Summer Intensive Program on [July 27](https://www.operakelowna.com/2019-opera-at-the-proms/) and [July 30](https://www.operakelowna.com/2019-opera-in-the-park/), and on July 31, Opera Kelowna's young talent is joined onstage by Canadian favourites Steeve Michaud, Aaron Durand, Marie-Josée Lord, and Stephanie Tritchew, for [_Opera Under the Stars_](https://www.operakelowna.com/2019-opera-under-the-stars/). (The above events are free admission, and registration may be required. [Click here for details](https://www.operakelowna.com/the-season/).)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563757534/media/2019/07/OperaKelownaCollage.jpg){{% /md %}}
-
-<figcaption>Clockwise from top left: mezzo-soprano Stephanie Tritchew, soprano Marie-Josée Lord, tenor Steeve Michaud, and baritone Aaron Durand, all performing in Opera Kelowna's Opera in the Vines.</figcaption>
-
-</figure>
-
-Opera Kelowna also offers [_Opera in the Vines_](https://www.operakelowna.com/2019-opera-in-the-vines/) on August 2, a fab partnership with [Mission Hill Family Estate Winery](https://www.missionhillwinery.com/). It's a concert of operatic hits, paired with views of Okanagan Lake; get there early to catch the pre-concert reception, and try a few food/wine pairings.
-
 For a full listing of Opera Kelowna's 2019 line-up, [visit their website](https://www.operakelowna.com/the-season/).
 
 On the opposite coast, Boston-based [Odyssey Opera](/scene/companies/odyssey-opera/) is set to offer its latest in opera's under-performed masterpieces. Saint-Saëns' 1883 opera, _Henry VIII_, centres on the famed love triangle between the Tudor king, his first wife Catherine of Aragon, and his soon-to-be second wife, Anne Boleyn.
