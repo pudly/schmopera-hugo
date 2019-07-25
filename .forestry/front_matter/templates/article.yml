@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/cosi.md
 - content/articles/upcoming-of-note-opera-hits-in-bc-henry-viii-in-boston.md
 - content/articles/talking-with-singers-rihab-chaieb.md
 - content/articles/ariadne.md
