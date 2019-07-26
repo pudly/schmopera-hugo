@@ -3,7 +3,6 @@ author = ["authors/callie-cooper.md"]
 categories = "Review"
 date = "2019-07-25T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
@@ -13,8 +12,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "I really liked Ms. Manich's bold choice at the end of having the sisters have suitcases in hand ready to leave. Just as the music ends the women make eye contact with their former fiancés, and they freeze."
-slug = "cosi"
-title = "Unique venue makes for a "
+slug = "unique-venue-makes-for-a-fresh-cosi-fan-tutte"
+title = "Unique venue makes for a fresh Così fan tutte"
 youtube_url = ""
 
 +++
@@ -24,7 +23,7 @@ The set was gorgeous (designed by Annie Henley), and gave the production a post-
 
 >This choice made Despina seem more of a free spirit that was just engaging in some tomfoolery, not a malicious servant. 
 
-[Sarah Larsen](https://www.sarahlarsenmezzo.com/) sang Dorabella, her stage presence and delicate yet rich voice breathed star quality into the often overshadowed sister. [Heather Johnson](https://heatherjohnsonmezzo.com) was an attractive and spunky Despina. The whole cast generously ornamented Mozart's score, but Ms. Johnson's two arias were chock full of them- they seemed fresher as a result. 
+[Sarah Larsen](https://www.sarahlarsenmezzo.com/) sang Dorabella, her stage presence and delicate yet rich voice breathed star quality into the often overshadowed sister. [Heather Johnson](https://heatherjohnsonmezzo.com) was an attractive and spunky Despina. The whole cast generously ornamented Mozart's score, but Ms. Johnson's two arias were chock full of them - they seemed fresher as a result. 
 
 Director [Crystal Manich](https://www.crystalmanich.com/) attempted to take the misogyny out of the opera, with mixed success. I certainly appreciate the attempt to modernize the story, but I tend to think that Mozart's works are deeply human, therefore changing character motivations mutes vulnerability of the drama. The disguised men come back to the sisters as "Alabaman" cowboys, and with them they bring a trunk full of shiny clothing to lure the girls. This tactic works, and so instead of the sisters attention being drawn to the men's physical attributes, it was to the materials. 
 
