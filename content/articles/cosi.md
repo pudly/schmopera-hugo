@@ -17,7 +17,7 @@ title = "Unique venue makes for a fresh Così fan tutte"
 youtube_url = ""
 
 +++
-Mill City Summer Opera presented _Così fan tutte_ in Mill City Ruins in downtown Minneapolis as their mainstage this summer. This was an absolutely gorgeous outdoor venue, and so unique to Minneapolis. The audience was seated on the floors of the ruins, and the stage was raised. The orchestra was above the main action, which was an unusual sight. The orchestra played Mozart's delightful score well, and they were back lit by a stunning sunset. 
+Mill City Summer Opera presented [_Così fan tutte_](https://millcitysummeropera.org/season/2019-season) in Mill City Ruins in downtown Minneapolis as their mainstage this summer. This was an absolutely gorgeous outdoor venue, and so unique to Minneapolis. The audience was seated on the floors of the ruins, and the stage was raised. The orchestra was above the main action, which was an unusual sight. The orchestra played Mozart's delightful score well, and they were back lit by a stunning sunset. 
 
 The set was gorgeous (designed by Annie Henley), and gave the production a post-war Italian vibe. The costumes were by [Alice Fredrickson](http://alicelouisedesign.com/about/) and were in a late 1940's fashion. On the left was the sisters room that steps down to a mini courtyard with benches and statues. The chorus collected there, it also provided lots of space for chorus members to have vignettes during the main action of the opera. This was enjoyable, but a little distracting at times. This trope was used during Guglielmo's aria "Il core vi dono" and the duet that follows between him and Dorabella. Each of the ensemble members were split off into couples that reflected the different stages of love and relationships.
 
@@ -43,4 +43,4 @@ I really liked Ms. Manich's bold choice at the end of having the sisters have su
 <figcaption>Front row, L-R: Sidney Outlaw (Guglielmo), Karin Wolverton (Fiordiligi), Sarah Larsen (Dorabella), Javier Abreu (Ferrando); Back row, l-r: Andrew Wilkowske (Don Alfonso), Heather Johnson (Despina) and Brian Ingalsbe (chorister) in Così fan tutte, Mill City Summer Opera, 2019. Photo: Dan Norman.</figcaption>  
 </figure>
 
-Overall I really enjoyed the chance to see this production in this individual venue. Sadly, this is the company's last show in the ruins, but and their new venue is Paikka, in the heart of the Twin Cities. I look forward to their coming seasons of providing the Cities with stellar summer opera!
+Overall I really enjoyed the chance to see this production in this individual venue. Sadly, this is the company's last show in the ruins, but and their new venue is Paikka, in the heart of the Twin Cities. I look forward to [Mill City Summer Opera](https://millcitysummeropera.org/season/2019-season)'s coming seasons of providing the Cities with stellar summer opera!
