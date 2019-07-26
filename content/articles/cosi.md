@@ -12,13 +12,15 @@ primary_image_credit = "Sidney Outlaw (Guglielmo), Karin Wolverton (Fiordiligi),
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "I really liked Ms. Manich's bold choice at the end of having the sisters have suitcases in hand ready to leave. Just as the music ends the women make eye contact with their former fiancés, and they freeze."
 slug = "cosi"
-title = "Cosi"
+title = "Unique venue makes for a "
 youtube_url = ""
 
 +++
-Mill City Summer Opera presented _Così fan tutte_ in Mill City Ruins in downtown Minneapolis as their mainstage this summer. This was an absolutely gorgeous outdoor venue, and so unique to Minneapolis. The audience was seated on the floors of the ruins, and the stage was raised. The orchestra was above the main action, which was an unusual sight. The orchestra played Mozart's delightful score well, and they were back lit by a stunning sunset. The set was gorgeous (designed by Annie Henley), and gave the production a post-war Italian vibe. The costumes were by [Alice Fredrickson](http://alicelouisedesign.com/about/) and were in a late 1940's fashion. On the left was the sisters room that steps down to a mini courtyard with benches and statues. The chorus collected there, it also provided lots of space for chorus members to have vignettes during the main action of the opera. This was enjoyable, but a little distracting at times. This trope was used during Guglielmo's aria "Il core vi dono" and the duet that follows between him and Dorabella. Each of the ensemble members were split off into couples that reflected the different stages of love and relationships.
+Mill City Summer Opera presented _Così fan tutte_ in Mill City Ruins in downtown Minneapolis as their mainstage this summer. This was an absolutely gorgeous outdoor venue, and so unique to Minneapolis. The audience was seated on the floors of the ruins, and the stage was raised. The orchestra was above the main action, which was an unusual sight. The orchestra played Mozart's delightful score well, and they were back lit by a stunning sunset. 
+
+The set was gorgeous (designed by Annie Henley), and gave the production a post-war Italian vibe. The costumes were by [Alice Fredrickson](http://alicelouisedesign.com/about/) and were in a late 1940's fashion. On the left was the sisters room that steps down to a mini courtyard with benches and statues. The chorus collected there, it also provided lots of space for chorus members to have vignettes during the main action of the opera. This was enjoyable, but a little distracting at times. This trope was used during Guglielmo's aria "Il core vi dono" and the duet that follows between him and Dorabella. Each of the ensemble members were split off into couples that reflected the different stages of love and relationships.
 
 >This choice made Despina seem more of a free spirit that was just engaging in some tomfoolery, not a malicious servant. 
 
@@ -33,7 +35,7 @@ I believe this was a choice by Ms. Manich to make the women seem less silly (as 
 
 >Mr. Wilkowske was extremely at home in the unusual and taxing venue of the ruins, as well as the devilishly complex Mozart score.
 
-I really liked Ms. Manich's bold choice at the end of having the sisters have suitcases in hand ready to leave. Just as the music ends the women make eye contact with their former fiancé's and they freeze. The men look shocked, and Despina looks proud. [Karin Wolverton](http://karinwolverton.com/) sang Fiordiligi with elegance. Don Alfonso was expertly sung by [Andrew Wilkowske](https://www.andrewwilkowske.com/). Mr. Wilkowske was extremely at home in the unusual and taxing venue of the ruins, as well as the devilishly complex Mozart score. Gugliemo and Ferrando were sung by [Javier Abreu](http://www.javierabreu.com/) and [Sidney Outlaw](http://sidneyoutlaw.com/) respectively with gusto.
+I really liked Ms. Manich's bold choice at the end of having the sisters have suitcases in hand ready to leave. Just as the music ends the women make eye contact with their former fiancés, and they freeze. The men look shocked, and Despina looks proud. [Karin Wolverton](http://karinwolverton.com/) sang Fiordiligi with elegance. Don Alfonso was expertly sung by [Andrew Wilkowske](https://www.andrewwilkowske.com/). Mr. Wilkowske was extremely at home in the unusual and taxing venue of the ruins, as well as the devilishly complex Mozart score. Gugliemo and Ferrando were sung by [Javier Abreu](http://www.javierabreu.com/) and [Sidney Outlaw](http://sidneyoutlaw.com/) respectively with gusto.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1564102463/media/2019/07/DN4_9318.jpg){{% /md %}}
 
