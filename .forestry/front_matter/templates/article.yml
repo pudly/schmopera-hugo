@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/war-and-peace.md
 - content/articles/fledermaus.md
 - content/articles/cosi.md
 - content/articles/upcoming-of-note-opera-hits-in-bc-henry-viii-in-boston.md
