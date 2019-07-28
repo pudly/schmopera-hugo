@@ -3,18 +3,17 @@ author = ["authors/alessia-naccarato.md"]
 categories = "Review"
 date = "2019-07-28T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1564334361/media/2019/07/sqWNOWarandPeace.jpg"
-primary_image_credit = ""
+primary_image_credit = "A scene from WNO's War and Peace, ROH, 2019. Photo: Clive Barda."
 related_articles = []
-related_companies = []
+related_companies = ["scene/companies/welsh-national-opera.md", "scene/companies/royal-opera-house.md"]
 related_people = []
 short_description = "Writing an opera of this scale is not a simple charge and the task of producing it faces even more challenges; it is an immense work to attempt to pay homage to. There were a few magical, sparkling moments on stage that were completely true to the book, perfectly capturing the essence of Tolstoy's words. "
-slug = "war-and-peace"
-title = "War and Peace"
+slug = "poutneys-oversimplified-war-and-peace"
+title = "Poutney's oversimplified War and Peace"
 youtube_url = ""
 
 +++
@@ -22,7 +21,7 @@ The Welsh National Opera bring their ambitious 2018 production of Prokofiev's ma
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1564334446/media/2019/07/WNOWarandPeace.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>A scene from WNO's War and Peace, ROH, 2019. Photo: Clive Barda.</figcaption>
 
 </figure>
 
@@ -30,15 +29,15 @@ It was a shame though that for all this clever production design, director David
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1564334435/media/2019/07/WNOWarandPeace2.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>A scene from WNO's War and Peace, ROH, 2019. Photo: Clive Barda.</figcaption>
 
 </figure>
 
-This sense of oversimplification was pronounced due to the fact that the opera was sung in English, a standard practice for WNO. It is a somewhat contentious issue, but in the modern age of surtitles, the translation of operas from their original language to English for accessibility purposes has been rendered utterly useless and should be thrown-out as a concept. The English is jarring, infantile, and wholly unsuited to the landscape of Prokofiev's surging, impassioned score which is overwhelmingly Russian in character.
+This sense of oversimplification was pronounced due to the fact that the opera was sung in English, a standard practice for WNO. It is a somewhat contentious issue, but in the modern age of surtitles, the translation of operas from their original language to English for accessibility purposes has been rendered utterly useless and should be thrown out as a concept. The English is jarring, infantile, and wholly unsuited to the landscape of Prokofiev's surging, impassioned score which is overwhelmingly Russian in character.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1564334422/media/2019/07/WNOWarandPeace3.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>A scene from WNO's War and Peace, ROH, 2019. Photo: Clive Barda.</figcaption>
 
 </figure>
 
@@ -46,6 +45,6 @@ Writing an opera of this scale is not a simple charge and the task of producing 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1564334410/media/2019/07/WNOWarandPeace-WNOCastofWarandPeace.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>A scene from WNO's War and Peace, ROH, 2019. Photo: Clive Barda.</figcaption>
 
 </figure>
