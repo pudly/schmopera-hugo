@@ -17,7 +17,11 @@ title = "Poutney's oversimplified War and Peace"
 youtube_url = ""
 
 +++
-The Welsh National Opera bring their ambitious 2018 production of Prokofiev's mammoth _War and Peace_ to the Royal Opera for two performances after successful run last year in Cardiff, a feat not unlike the reading of Tolstoy's epic on which it is based. Written in the 1940s, during the time of the German invasion of the Soviet Union and the Great Patriotic War, Prokofiev's version of the novel draws direct comparison to the unrest experienced during the Napoleonic invasion of 1812 upon which the story is centred. During the 1940s _War and Peace_ became a symbol of nationalistic pride for the people of Russia as they struggled to maintain their country's freedom. Robert Innes Hopkins' production designs heightened this parallel by contrasting the lavish 19th-century ballroom of Imperial Russia in Act I (Peace) with scenes of warfare and turmoil of a 20th-century, German-occupied Russia (War). This provided some historical context for the opera, connecting the two works and demonstrating how Prokofiev's opera was inspired by and has become a continuation of Tolstoy's great novel.
+The Welsh National Opera bring their ambitious 2018 production of Prokofiev's mammoth _War and Peace_ to the Royal Opera for two performances after successful run last year in Cardiff, a feat not unlike the reading of Tolstoy's epic on which it is based. Written in the 1940s, during the time of the German invasion of the Soviet Union and the Great Patriotic War, Prokofiev's version of the novel draws direct comparison to the unrest experienced during the Napoleonic invasion of 1812 upon which the story is centred. 
+
+>There were a few magical, sparkling moments on stage that were completely true to the book.
+
+During the 1940s _War and Peace_ became a symbol of nationalistic pride for the people of Russia as they struggled to maintain their country's freedom. Robert Innes Hopkins' production designs heightened this parallel by contrasting the lavish 19th-century ballroom of Imperial Russia in Act I (Peace) with scenes of warfare and turmoil of a 20th-century, German-occupied Russia (War). This provided some historical context for the opera, connecting the two works and demonstrating how Prokofiev's opera was inspired by and has become a continuation of Tolstoy's great novel.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1564334446/media/2019/07/WNOWarandPeace.jpg){{% /md %}}
 
@@ -25,7 +29,11 @@ The Welsh National Opera bring their ambitious 2018 production of Prokofiev's ma
 
 </figure>
 
-It was a shame though that for all this clever production design, director David Poutney's generalized broad brushstroke approach to the staging did very little to aid the storytelling. _War and Peace_ though wholly operatic in its grand, overarching themes does not in fact lend itself very well to the stage. Prokofiev and librettist Mira Mendelson have written a simplified version of the story which touches on all of Tolstoy's main plot points but those who have read the novel will mourn the loss of some sorely needed backstory and character development. Weak characterization and ambiguous gesture led to performances across the board were well sung but overall, unimaginative.
+It was a shame though that for all this clever production design, director David Poutney's generalized broad brushstroke approach to the staging did very little to aid the storytelling. _War and Peace_ though wholly operatic in its grand, overarching themes does not in fact lend itself very well to the stage. 
+
+>The English is jarring, infantile, and wholly unsuited to the landscape of Prokofiev's surging, impassioned score.
+
+Prokofiev and librettist Mira Mendelson have written a simplified version of the story which touches on all of Tolstoy's main plot points but those who have read the novel will mourn the loss of some sorely needed backstory and character development. Weak characterization and ambiguous gesture led to performances across the board were well sung but overall, unimaginative.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1564334435/media/2019/07/WNOWarandPeace2.jpg){{% /md %}}
 
