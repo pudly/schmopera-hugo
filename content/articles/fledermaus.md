@@ -49,4 +49,4 @@ There was a liberal sprinkling of Minnesota-isms into the english dialogue (refe
 
 </figure>
 
-My one complaint was the lack of subtitles. Though the dialogue was rewritten/updated in english to make the drama more relatable to the audience, subtitles or translation sheets would have enhanced the performance. I really hope Ms. Weiben's company has many seasons in the future, their production and venue sparkles with life and excitement for the Twin Cities art scene! Bravo!
+My one complaint was the lack of subtitles. Though the dialogue was rewritten/updated in english to make the drama more relatable to the audience, subtitles or translation sheets would have enhanced the performance. I really hope Ms. Weiben's company has many seasons in the future; [Opera on the Lake](https://operaonthelake.com/)'s production and venue sparkles with life and excitement for the Twin Cities art scene! Bravo!
