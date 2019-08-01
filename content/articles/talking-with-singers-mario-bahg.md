@@ -19,19 +19,19 @@ youtube_url = ""
 +++
 ## Why do you sing professionally?
 
-I feel happy when I sing on stage. Many people have the impression that classical music is very difficult and only a few people can enjoy it. I want to show the world that it’s not. If I can move someone through my singing - that's really why I want to be a singer.
+I feel happy when I sing on stage. Many people have the impression that classical music is very difficult and only a few people can enjoy it. I want to show the world that it's not. If I can move someone through my singing - that's really why I want to be a singer.
 
->"Of course, it is good to get prizes, but it is a great chance to be judged by them and to learn how to grow as an artist."
+> "Of course, it is good to get prizes, but it is a great chance to be judged by them and to learn how to grow as an artist."
 
 ## What do you know now about the singing career that you wish you knew 10 years ago?
 
-It would have been better if I had gone to Europe earlier and studied. Learning the language and culture of the country and communication with people early would surely have helped me a lot more in my career now. It is so short time since I went to Germany and started studying there (only two years ago).
+It would have been better if I had gone to Europe earlier and studied. Learning the language and culture of the country and communication with people early would surely have helped me a lot more in my career now. It has been such a short time since I went to Germany and started studying there (only two years ago).
 
 ## How has your career changed since winning CMIM in 2018?
 
 The biggest change is that I'm in New York. In fact, it is not easy to study in Europe and then transition to America. The Met Opera's LYADP (Lindemann Young Artist Development Program) is a place that every young singer wants. I ended up connecting with the Met Opera opportunity because of CMIM. (You never know who is listening!)
 
->"If I hadn't studied singing, I would have studied the automotive field."
+> "If I hadn't studied singing, I would have studied the automotive field."
 
 ## What do you think is the function of major voice competitions like CMIM or Operalia?
 

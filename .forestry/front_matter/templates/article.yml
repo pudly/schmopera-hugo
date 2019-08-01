@@ -116,6 +116,12 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/talking-with-singers-mario-bahg.md
+- content/articles/cosi.md
+- content/articles/decades-at-dmmo-bon-appetit.md
+- content/articles/upcoming-of-note-opera-hits-in-bc-henry-viii-in-boston.md
+- content/articles/talking-with-singers-rihab-chaieb.md
+- content/articles/juliet-s-letters.md
 - content/articles/wozzeck.md
 - content/articles/macbeth.md
 - content/articles/noye-s-fludde.md
@@ -170,16 +176,10 @@ pages:
 - content/articles/haroun-and-the-sea-of-stories-a-surreal-timely-treat.md
 - content/articles/talking-with-singers-jared-bybee.md
 - content/articles/verborgenheit.md
-- content/articles/talking-with-singers-mario-bahg.md
 - content/articles/war-and-peace.md
 - content/articles/fledermaus.md
-- content/articles/cosi.md
-- content/articles/upcoming-of-note-opera-hits-in-bc-henry-viii-in-boston.md
-- content/articles/talking-with-singers-rihab-chaieb.md
 - content/articles/ariadne.md
-- content/articles/decades-at-dmmo-bon-appetit.md
 - content/articles/talking-with-composers-jonathan-dove.md
-- content/articles/juliet-s-letters.md
 - content/articles/turn-of-the-screw.md
 - content/articles/roh-nozze.md
 - content/articles/candide.md
