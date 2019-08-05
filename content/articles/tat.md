@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "short"
-slug = "TAT"
-title = "TAT"
+slug = "site-specific-intimate-selections-from-tete-a-tete-the-opera-festival"
+title = "Site-specific & intimate: selections from Tête-à-Tête: The Opera Festival"
 youtube_url = ""
 
 +++
