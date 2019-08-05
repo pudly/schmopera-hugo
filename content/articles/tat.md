@@ -47,7 +47,7 @@ The second piece was composer, librettist, and director Francesca Le Lohe's Ango
 
 The site-specific piece was performed in the West Dulwich mid-century home of London architect Angus Shepherd which created the perfect setting for this wonderfully and meticulously crafted piece. Featuring three trios and a solo dancer, each trio was made up of a singer, a western stringed instrument, and a traditional Japanese instrument, namely; Shakuhachi (bamboo flute), Sho (mouth organ), and Shumedaiko (percussion). 
 
->The world intimacy comes to mind when describing both pieces.
+>The word "intimacy" comes to mind when describing both pieces.
 
 Each trio was set up in a different room of the house, but the design was such that sound easily carried over multiple floors and through open windows. The trios performed simultaneously but with music that was independent of each other's. Often, one trio would swell to a _forte_ while the other faded to silence. The instruments would weave seamlessly in and out of each other, directing the narrative to different rooms of the house. The audience were free to walk from room to room as and when we wanted, creating our own perspective on this story told from multiple angles.
 
@@ -65,7 +65,7 @@ Both pieces challenged the audience in participatory, exploratory ways. Unlike m
 
 </figure>
 
-The world intimacy comes to mind when describing both pieces, and while it is more of a mood obtained in _Visions_, it is also a strong thematic point in _The Key_. Large performance spaces can be made to feel intimate if the performers strive to create that particular atmosphere, but this is much more easily achieved with the limited space of a family home that only allows for 20 or so audience members.
+The word "intimacy" comes to mind when describing both pieces, and while it is more of a mood obtained in _Visions_, it is also a strong thematic point in _The Key_. Large performance spaces can be made to feel intimate if the performers strive to create that particular atmosphere, but this is much more easily achieved with the limited space of a family home that only allows for 20 or so audience members.
 
 >I am excited to see what else is in store.
 
