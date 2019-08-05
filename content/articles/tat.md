@@ -1,0 +1,37 @@
++++
+author = ["authors/alessia-naccarato.md"]
+categories = "Review"
+date = "2019-08-05T04:00:00+00:00"
+disclaimer = ""
+draft = true
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = ""
+primary_image_credit = ""
+related_articles = []
+related_companies = []
+related_people = []
+short_description = "short"
+slug = "TAT"
+title = "TAT"
+youtube_url = ""
+
++++
+I recently had the pleasure of seeing two pieces in Tête-à-Tête's Opera Festival line up this summer. Though very different in style and subject matter, they are alike in their re-imagining of the traditional operatic performance space and in their bending of the limitations of the genre. 
+
+The first piece was Nwando Ebizie's performative installation _Hildegard: Visions_; an immersive performance that combined three original commissions using the life and work of Hildegard of Bingen as a starting point to explore her experience with cosmic visions and their connection to neurodiversity through the use of  structural light, electronic soundscapes, and cross cultural rituals. Though billed as an opera, it felt more like a participatory, sensory exploration. Workshopped over the course of a week, it had a naturalistic and improvisational feel that was well suited to it, given its grounding in the research and development field. 
+
+All senses were catered to as audience members were misted with fragrant water and touched softly by the performers while being whispered and sung to directly.  There was a strong participation element as audience members were asked to wear items of clothing, shine torches, and towards the end of the piece, join in a euphoric, ritualistic dance that carried on endlessly as people began to filter out after the allotted "performance time" had ended. Structural lighting design by Shelley James was a crucial element of the piece and effectively executed, filling the space with a dazzling, other-worldly glow. The audience was fully immersed in the sound of the piece as pre-recorded polyphonic singing, whispering, and sound effects blared from speakers in every corner of the room, bathing us in an entanglement of sound.
+
+The second piece was composer, librettist, and director Francesca Le Lohe's Ango-Japanese _The Key_, based on the 1956 novella of the same name by author Junichiro Tanizaki which tells a story of a suffering marriage entirely through journal entries. The characters interact indirectly with each other by reading each other's diaries and as their actions become bolder, they threaten to destroy the marriage entirely. 
+
+The site-specific piece was performed in the West Dulwich mid-century home of London architect Angus Shepherd which created the perfect setting for this wonderfully and meticulously crafted piece. Featuring three trios and a solo dancer, each trio was made up of a singer, a western stringed instrument, and a traditional Japanese instrument, namely; Shakuhachi (bamboo flute), Sho (mouth organ), and Shumedaiko (percussion). Each trio was set up in a different room of the house, but the design was such that sound easily carried over multiple floors and through open windows. The trios performed simultaneously but with music that was independent of each other's. Often, one trio would swell to a _forte_ while the other faded to silence. The instruments would weave seamlessly in and out of each other, directing the narrative to different rooms of the house. The audience were free to walk from room to room as and when we wanted, creating our own perspective on this story told from multiple angles.
+
+Both pieces challenged the audience in participatory, exploratory ways. Unlike more traditional performances with an audience sitting facing a stage to which all of the action is confined to, the "stage" became the entire performance space whether it be a black box theatre, or someone's living room, and in this sense, the audience had a large role to play. Participation was a requirement in _Visions_, as the audience became an integral part of the ritual that was being played out through the piece and therefore, our involvement was also an integral part of the overall mood of the piece. Similarly, in _The Key_, audience members inadvertently became a part of the performance as we wandered around the space, responding to the performers needs and movements.
+
+The world intimacy comes to mind when describing both pieces, and while it is more of a mood obtained in _Visions_, it is also a strong thematic point in _The Key_. Large performance spaces can be made to feel intimate if the performers strive to create that particular atmosphere, but this is much more easily achieved with the limited space of a family home that only allows for 20 or so audience members. Not only was the subject matter particularly intimate, delving into the inner workings of a marriage, but because the piece took place in a home, the sense that the audience was peering into their private lives was all the more prevalent. _Visions_ created this sense of intimacy by transforming a dark, characterless space into a lush and welcoming one that invited the audience to sit freely and comfortably as the performance happened all around us. 
+
+Both pieces played with the boundaries of the audience's comfort with intimacy. In a large concert hall, it is easy to separate oneself from the emotional intimacy of the stage but with these two pieces, there was no choice but to be confronted with it.
+
+Tête-à-Tête continues to challenge the boundaries of opera with its yearly summer festival" three weeks of explosive creativity and inspiration. Both _Hildegard: Visions_ and _The Key_ have presented a unique way of looking at the art form. Site-specific performances have a beautiful intimacy to them that allow for a more personal experience for both the audience and the performers and these two pieces are proof that opera truly can be performed anywhere. I am excited to see what else is in-\\ store.
