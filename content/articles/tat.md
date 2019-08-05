@@ -25,7 +25,7 @@ The first piece was Nwando Ebizie's performative installation _Hildegard: Vision
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1565031416/media/2019/08/Hildegard1_syhpvm.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Hildegard: Visions, Tête-à-Tête: The Opera Festival, 2019. Photo: Claire Shovelton.</figcaption>
 
 </figure>
 
@@ -33,7 +33,7 @@ All senses were catered to as audience members were misted with fragrant water a
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1565031426/media/2019/08/Hildegard2_ow8bwy.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Hildegard: Visions, Tête-à-Tête: The Opera Festival, 2019. Photo: Claire Shovelton.</figcaption>
 
 </figure>
 
@@ -41,7 +41,7 @@ The second piece was composer, librettist, and director Francesca Le Lohe's Ango
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1565031436/media/2019/08/Hildegard3_s5b8dc.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Hildegard: Visions, Tête-à-Tête: The Opera Festival, 2019. Photo: Claire Shovelton.</figcaption>
 
 </figure>
 
