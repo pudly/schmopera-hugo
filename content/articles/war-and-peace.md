@@ -13,7 +13,7 @@ related_companies = ["scene/companies/welsh-national-opera.md", "scene/companies
 related_people = []
 short_description = "Writing an opera of this scale is not a simple charge and the task of producing it faces even more challenges; it is an immense work to attempt to pay homage to. There were a few magical, sparkling moments on stage that were completely true to the book, perfectly capturing the essence of Tolstoy's words. "
 slug = "poutneys-oversimplified-war-and-peace"
-title = "Poutney's oversimplified War and Peace"
+title = "Pountney's oversimplified War and Peace"
 youtube_url = ""
 
 +++

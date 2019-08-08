@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/war-and-peace.md
 - content/articles/tat.md
 - content/articles/talking-with-singers-mario-bahg.md
 - content/articles/cosi.md
@@ -177,7 +178,6 @@ pages:
 - content/articles/haroun-and-the-sea-of-stories-a-surreal-timely-treat.md
 - content/articles/talking-with-singers-jared-bybee.md
 - content/articles/verborgenheit.md
-- content/articles/war-and-peace.md
 - content/articles/fledermaus.md
 - content/articles/ariadne.md
 - content/articles/talking-with-composers-jonathan-dove.md
