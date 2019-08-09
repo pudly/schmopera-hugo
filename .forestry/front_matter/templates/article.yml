@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/tat-2.md
 - content/articles/tat.md
 - content/articles/war-and-peace.md
 - content/articles/talking-with-singers-mario-bahg.md
