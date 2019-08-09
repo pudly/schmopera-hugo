@@ -4,7 +4,7 @@ categories = "Review"
 date = "2019-08-08T04:00:00+00:00"
 disclaimer = ""
 image_gallery = []
-postamble = ""
+postamble = "The 2019 [Tête-à-Tête: The Opera Festival](https://www.tete-a-tete.org.uk/festival-calendar-at-a-glance-2018/) line-up continues through 10 August."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1565309721/media/2019/08/sqTAT2_ewkolp.jpg"
 primary_image_credit = "Of Body and Ghost, Tête à Tête: The Opera Festival, 2019. Photo: Claire Shovelton."
@@ -73,4 +73,4 @@ The three male dancers were the most engaging aspect of a performance that left 
 
 </figure>
 
-What I like about the Tête-à-Tête Opera Festival is that it is always a mixed bag. It is an incredibly liberating thing to watch so many creative performers and theatre-makers experiment with the limitations of the form. Programming is always fresh and varied and tickets are inexpensive which easily allows audiences to attend multiple performances over the course of the festival. And their cross arts content draws in creatives who are new to opera; ever expanding its network and continuing the conversation.
+What I like about the [Tête-à-Tête Opera Festival](https://www.tete-a-tete.org.uk/festival-calendar-at-a-glance-2018/) is that it is always a mixed bag. It is an incredibly liberating thing to watch so many creative performers and theatre-makers experiment with the limitations of the form. Programming is always fresh and varied and tickets are inexpensive which easily allows audiences to attend multiple performances over the course of the festival. And their cross arts content draws in creatives who are new to opera; ever expanding its network and continuing the conversation.
