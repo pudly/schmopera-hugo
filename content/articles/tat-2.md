@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "What I like about The Tete-a-Tete Opera Festival is that it is always a mixed bag. It is an incredibly liberating thing to watch so many creative performers and theatre-makers experiment with the limitations of the form."
-slug = "tat-2"
-title = "TAT 2"
+slug = "a-freshly-mixed-bag-at-tete-a-tetes-opera-festival"
+title = "A freshly mixed bag at Tête-à-Tête's Opera Festival"
 youtube_url = ""
 
 +++
