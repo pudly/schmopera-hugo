@@ -3,7 +3,6 @@ author = ["authors/alessia-naccarato.md"]
 categories = "Review"
 date = "2019-08-08T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
@@ -26,7 +25,7 @@ This was a beautiful and contemplative performance. The music was atmospheric an
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1565309846/media/2019/08/48471134777_4a66508c67_o_hs4c2z.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Of Body and Ghost, Tête à Tête: The Opera Festival, 2019. Photo: Claire Shovelton.</figcaption>
 
 </figure>
 
@@ -34,7 +33,7 @@ It became clear from quite early on that Snaide was the main character in this s
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1565309835/media/2019/08/48471134337_28b16cdd9d_o_zuivvf.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Of Body and Ghost, Tête à Tête: The Opera Festival, 2019. Photo: Claire Shovelton.</figcaption>
 
 </figure>
 
@@ -42,7 +41,7 @@ It was a physical representation of the expulsion of her fears, anxieties, and b
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1565309812/media/2019/08/48472625197_9fdabefd93_o_arepxj.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>ROBE, Tête à Tête: The Opera Festival, 2019. Photo: Claire Shovelton.</figcaption>
 
 </figure>
 
@@ -50,7 +49,7 @@ After a brief intermission the audience reassembled in the theatre for Alistair 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1565309801/media/2019/08/48472625112_53df06fc91_o_jgzprg.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>ROBE, Tête à Tête: The Opera Festival, 2019. Photo: Claire Shovelton.</figcaption>
 
 </figure>
 
@@ -62,7 +61,7 @@ Performers were limited by the beautiful yet cumbersome costume pieces and the n
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1565309790/media/2019/08/48472478406_470b1774dc_o_npc9na.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>ROBE, Tête à Tête: The Opera Festival, 2019. Photo: Claire Shovelton.</figcaption>
 
 </figure>
 
@@ -70,7 +69,7 @@ The three male dancers were the most engaging aspect of a performance that left 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1565309778/media/2019/08/48472623237_3482679e05_o_hyzlkr.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>ROBE, Tête à Tête: The Opera Festival, 2019. Photo: Claire Shovelton.</figcaption>
 
 </figure>
 
