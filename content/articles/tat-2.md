@@ -20,6 +20,8 @@ youtube_url = ""
 +++
 Two contrasting performances were presented in this back-to-back evening of theatre. First up was _Of Body and Ghost_; a dance-theatre-opera collaboration between composer/musician Kris Apple, writer/dramaturg Roswitha Gerlitz and director/choreographer Yolande Snaith that investigated the aging body through sound, movement, and storytelling.
 
+>With a single singer, violin, and electronics, they were able to create a sound that felt infinite.
+
 This was a beautiful and contemplative performance. The music was atmospheric and more consequential than a driving force for the storyline. With a single singer, violin, and electronics, they were able to create a sound that felt infinite; reverberating around the space, echoing itself, and repeating in endless patterns. The music sometimes took the forefront and sometimes provided a backdrop for Snaith's choreography. A distorted voiceover listed facts about the aging human body in a robotic tone as Snaith danced inside of a circle of salt; responding to the words, exploring the limits of her body and its abilities.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1565309846/media/2019/08/48471134777_4a66508c67_o_hs4c2z.jpg){{% /md %}}
@@ -53,6 +55,8 @@ After a brief intermission the audience reassembled in the theatre for Alistair 
 </figure>
 
 It was highly self-reflective and self-aware music that read as slightly pretentious and inaccessible. I can understand the desire to experiment with a form to push it as far as it will go, but to create something that exists purely for its complexity I find is a challenging idea for contemporary opera.
+
+>Moments of dialogue were few and far between and the direction lacked clarity and intention.
 
 Performers were limited by the beautiful yet cumbersome costume pieces and the necessity to be close to their scores. Moments of dialogue were few and far between and the direction lacked clarity and intention. Each character had distinctive movements, setting them apart from each other and creating variation on a fairly static stage but with no explanation or context for who these characters were, their performances though all expertly sung, lacked meaning.
 
