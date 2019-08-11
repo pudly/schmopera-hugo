@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2019-08-11T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "[_This is Prophetic!_](http://againstthegraintheatre.com/prophetic/) happens August 21-22, 7:30pm, at the MacMillan Theatre."
 preamble = "Canadian indie opera staple Against the Grain Theatre has kicked off its 2019 [Summer Modern Intensive](http://againstthegraintheatre.com/prophetic/), a two-week workshop that centres on the canon of contemporary opera. This year, AtG joins with the opera folk at the University of Toronto to train young singers and pianists in the unique skill set that is performing 20th- and 21st-century opera.\n\nThe Intensive culminates with two performances of [_This is Prophetic!_](http://againstthegraintheatre.com/prophetic/), a program of contemporary opera scenes, August 21-22 at the MacMillan Theatre."
