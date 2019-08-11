@@ -36,7 +36,7 @@ I have been researching scenes programs and it can be very difficult to find a t
 
 ## What have you discovered about the young singers who are taking on this new opera repertoire?
 
-They are eager.  Period.  They are excited and wanting to know more.  We've brought in some fairly stellar teachers to work with them vocally as well as immersing them on the opera side with a faculty that work in the business.  The singers all study or have studied music and want to immerse themselves in the process and see how far they can stretch themselves.  It can be daunting, but they are up for the challenge.  Already after one day, we're seeing people take risks, smile, look perplexed and all with a smile.
+They are eager.  Period.  They are excited and wanting to know more.  We've brought in some fairly stellar teachers to work with them vocally as well as immersing them on the opera side with a faculty that work in the business.  The singers all study or have studied music and want to immerse themselves in the process and see how far they can stretch themselves.  It can be daunting, but they are up for the challenge.  Already after one day, we're seeing people take risks, smile, look perplexed, and all with a smile.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1565533702/media/2019/08/Ivany_txwryt.jpg){{% /md %}}
 
