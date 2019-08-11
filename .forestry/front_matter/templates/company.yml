@@ -46,6 +46,7 @@ fields:
   label: Related People
   name: related_people
 pages:
+- content/scene/companies/boston-lyric-opera-1.md
 - content/scene/companies/hunter-opera-theater.md
 - content/scene/companies/city-lyric-opera.md
 - content/scene/companies/little-opera-theatre-of-ny.md
