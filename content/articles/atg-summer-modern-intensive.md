@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1565533628/media/2019/08/sqATG_GardenParty_oiqtmf.jpg"
-primary_image_credit = ""
+primary_image_credit = "The Summer Modern Intensive Garden Party, Against the Grain Theatre, 2018. Photo: Darryl Block Photography."
 related_articles = []
 related_companies = []
 related_people = []
@@ -26,7 +26,7 @@ A big area of development that I am a huge champion of is the individual persona
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1565533664/media/2019/08/ATG_GardenParty65_ja2keb.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>The Summer Modern Intensive Garden Party, Against the Grain Theatre, 2018. Photo: Darryl Block Photography.</figcaption>
 
 </figure>
 
@@ -40,7 +40,7 @@ They are eager.  Period.  They are excited and wanting to know more.  We've brou
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1565533702/media/2019/08/Ivany_txwryt.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Joel Ivany, stage director and Artistic Director of Against the Grain Theatre.</figcaption>
 
 </figure>
 
@@ -50,6 +50,6 @@ A question I am constantly asked is, "what is the future of opera?"  I've talked
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1565533645/media/2019/08/ATG_GardenParty_Web-233_ha7d1b.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>The Summer Modern Intensive Garden Party, Against the Grain Theatre, 2018. Photo: Darryl Block Photography.</figcaption>
 
 </figure>
