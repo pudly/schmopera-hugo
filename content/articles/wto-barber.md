@@ -20,6 +20,12 @@ youtube_url = ""
 +++
 Friday, August 9, at the Filene Center for the Performing Arts at Wolf Trap, the Young Artist Program at Wolf Trap Opera presented Rossini's _The Barber of Seville_. This was a co-production with multiple opera houses around the world, including Houston Grand Opera and Opera Australia. As usual, the individuals in the company were top notch vocally, but unfortunately the production over all fell flat.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 The orchestra was led by [Lidiya Yankovskaya](https://lidiyayankovskaya.com/upcoming), who took the already lengthy overture at slow pace. At times it dragged, but the tempo did ensure accuracy in the rapid fire cadenzas. Sadly, there were a few moments between the chorus and the orchestra that were a little off; but what lacked in those larger ensemble moments was made up for in the recitatives. Everyone can agree that recitative with harpsichord can be the most daunting aspect of opera, and these singers and orchestra handled it with aplomb. It flowed so well, and helped make the story move forward with energy. Personally, I find Rossini's writing to be repetitive and slightly boring, and that fact is only compounded with the singing actors have no idea how to handle lengthy recits. Thankfully that was not the case on Friday night.
 
 Count Almaviva was sung by [Christopher Bozeka](https://opera.wolftrap.org/christopher-bozeka-tenor-2/), who displayed a magnificent legato line and stellar high notes. [Johnathan McCullough](https://opera.wolftrap.org/JOHNATHAN-McCULLOUGH-baritone/), in the title role of Figaro, possesses a fine and flexible baritone, but his stage action lacked intent. His entrance and traditionally show-stopping aria, "Largo al factotum", had a lack of staging. Figaro stood stage left for most of the aria (overall, the show would have been more cohesive with more staging and set pieces), while a few couples from the chorus interacted in tableau to highlight the nature of romantic relationships that Figaro sings about. On the opposite side of the stage a light beamed through a scrim enclosed room of a barber shop. Figaro is breaking the fourth wall in this comedic aria, but in my opinion he still needs to be interacting with people on stage. 
