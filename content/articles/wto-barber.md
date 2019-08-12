@@ -25,7 +25,11 @@ Friday, August 9, at the Filene Center for the Performing Arts at Wolf Trap, the
 
 </figure>
 
-The orchestra was led by [Lidiya Yankovskaya](https://lidiyayankovskaya.com/upcoming), who took the already lengthy overture at slow pace. At times it dragged, but the tempo did ensure accuracy in the rapid fire cadenzas. Sadly, there were a few moments between the chorus and the orchestra that were a little off; but what lacked in those larger ensemble moments was made up for in the recitatives. Everyone can agree that recitative with harpsichord can be the most daunting aspect of opera, and these singers and orchestra handled it with aplomb. It flowed so well, and helped make the story move forward with energy. Personally, I find Rossini's writing to be repetitive and slightly boring, and that fact is only compounded with the singing actors have no idea how to handle lengthy recits. Thankfully that was not the case on Friday night.
+The orchestra was led by [Lidiya Yankovskaya](https://lidiyayankovskaya.com/upcoming), who took the already lengthy overture at slow pace. At times it dragged, but the tempo did ensure accuracy in the rapid fire cadenzas. Sadly, there were a few moments between the chorus and the orchestra that were a little off; but what lacked in those larger ensemble moments was made up for in the recitatives. 
+
+> This staging did not leave room for the performers' creativity to show the growth of the relationships. 
+
+Everyone can agree that recitative with harpsichord can be the most daunting aspect of opera, and these singers and orchestra handled it with aplomb. It flowed so well, and helped make the story move forward with energy. Personally, I find Rossini's writing to be repetitive and slightly boring, and that fact is only compounded with the singing actors have no idea how to handle lengthy recits. Thankfully that was not the case on Friday night.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1565652760/media/2019/08/BARBEROFSEVILLE_0354_JohnathanMcCullough_Figaro-JeremyHarrOfficer-PatrickGuettiDonBasilio-CalvinGriffinDonBartolo_zmw9kc.jpg){{% /md %}}
 
