@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1565652694/media/2019/08/sqBARBEROFSEVILLE_0569-TaylorRavenRosina-ChrisBozekaCountAlmaviva_wk1ngq.jpg"
-primary_image_credit = ""
+primary_image_credit = "The Barber of Seville, Wolf Trap Opera, 2019. Photo courtesy of Wolf Trap Opera."
 related_articles = []
 related_companies = []
 related_people = []
@@ -22,7 +22,7 @@ Friday, August 9, at the Filene Center for the Performing Arts at Wolf Trap, the
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1565652740/media/2019/08/BARBEROFSEVILLE_0111JohnathanMcCulloughFigaro_e6axmf.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>The Barber of Seville, Wolf Trap Opera, 2019. Photo courtesy of Wolf Trap Opera.</figcaption>
 
 </figure>
 
@@ -30,7 +30,7 @@ The orchestra was led by [Lidiya Yankovskaya](https://lidiyayankovskaya.com/upco
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1565652760/media/2019/08/BARBEROFSEVILLE_0354_JohnathanMcCullough_Figaro-JeremyHarrOfficer-PatrickGuettiDonBasilio-CalvinGriffinDonBartolo_zmw9kc.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>The Barber of Seville, Wolf Trap Opera, 2019. Photo courtesy of Wolf Trap Opera.</figcaption>
 
 </figure>
 
@@ -38,7 +38,7 @@ Count Almaviva was sung by [Christopher Bozeka](https://opera.wolftrap.org/chris
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1565652773/media/2019/08/BARBEROFSEVILLE_0318_ChrisBozekaCountAlmaviva-TaylorRavenRosina_vt6ck7.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>The Barber of Seville, Wolf Trap Opera, 2019. Photo courtesy of Wolf Trap Opera.</figcaption>
 
 </figure>
 
@@ -46,7 +46,7 @@ Rosina was seen from a balcony-catwalk (so there was a few differing levels). [T
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1565652791/media/2019/08/BARBEROFSEVILLE_0474_JohnathanMcCullough_Figaro-ChrisBozeka_CountAlmaviva-TaylorRaven_Rosina-PatrickGuettiDonBasilio-NiruLiuBerta-CalvinGriffinDonBartolo_yygjby.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>The Barber of Seville, Wolf Trap Opera, 2019. Photo courtesy of Wolf Trap Opera.</figcaption>
 
 </figure>
 
