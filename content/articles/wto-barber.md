@@ -50,4 +50,8 @@ Rosina was seen from a balcony-catwalk (so there was a few differing levels). [T
 
 </figure>
 
-The night had gorgeous weather (a rarity for August in Northern Virginia), a stunning outdoor venue, and very skilled singing. I love that these young and deserving singers get the chance to build up their outdoor opera singing chops, with the rise of summer festivals. See you next year Wolf Trap Opera!
+The night had gorgeous weather (a rarity for August in Northern Virginia), a stunning outdoor venue, and very skilled singing. In all stage drama - but especially in opera - the relationships of the characters are key. Why else would we sit and listen to characters repeat their lyrics over and over? This staging did not leave room for the performers' creativity to show the growth of the relationships. 
+
+Though the opera and the original Beaumarchais play don't have as layered a plot as its sequel, _The Marriage of Figaro_, I think there is still a lot of depth to the characters in this comedy. How else do these characters become the messy people featured in the second instalment? I love that these young and deserving singers get the chance to build up their outdoor opera singing chops, with the rise of summer festivals around the world. 
+
+See you next summer, Wolf Trap Opera!
