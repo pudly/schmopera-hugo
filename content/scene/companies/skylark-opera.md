@@ -2,7 +2,7 @@
 address = "SKYLARK OPERA THEATRE\nLandmark Center, Suite #224\n75 W. 5th Street\nSt. Paul, MN 55102"
 date = "2019-04-02T02:31:28+00:00"
 email = "skylarkoperatheatre@gmail.com"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554172188/media/2019/04/Logo-SkylarkOpera.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1565568804/media/2019/08/Logo-SkylarkOpera_qm2mjv.jpg"
 primary_image_credit = ""
 related_people = ["scene/people/justin-anthony-spenner.md", "scene/people/tess-altiveros.md"]
 slug = "skylark-opera"
