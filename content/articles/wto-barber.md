@@ -3,7 +3,6 @@ author = ["authors/callie-cooper.md"]
 categories = "Review"
 date = "2019-08-11T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
@@ -13,8 +12,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "This was a co-production with multiple opera houses around the world, including Houston Grand Opera and Opera Australia. As usual, the individuals in the company were top notch vocally, but unfortunately the production over all fell flat."
-slug = "wto-barber"
-title = "WTO Barber"
+slug = "little-room-for-creativity-in-fonts-wto-barber"
+title = "Little room for creativity in Font's WTO Barber"
 youtube_url = ""
 
 +++
