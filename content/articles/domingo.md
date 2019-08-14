@@ -32,9 +32,9 @@ Like, is it the whole thing about opera and passions running high? Are they narc
 
 This stuff is happening in every industry, I know this. But opera does feel particularly fertile for grossness; it's generally slow to change with the times, and opera has a particularly rigid hierarchy, so clean-cut it's almost quaint. It's a competitive field, and some of the industry's most coveted, important career opportunities are still controlled by the likes of Levine and Domingo. Singers who want to impress know the deal: be a dream to work with, and don't be so ungrateful as to swat away an unwanted advance from the guy who can get you your next job.
 
-Yeah, some of this shit happened three decades ago, when people - men, really - were mostly fine with creepiness. But that's where I throw up my hands. What do we do with all this information? Do Domingo's operatic realms - LA Opera, Washington National Opera, the Operalia competition - become stained and less valued? And do the artists who work there fall along with the institutions?
+Yeah, some of this shit happened three decades ago, when people - men, really - were mostly fine with creepiness. But that's where I throw up my hands. What do we do with all this information? Do we boycott the schools and training programs that housed this behaviour? Do Domingo's operatic realms - LA Opera, Washington National Opera, the Operalia competition - become stained and less valued? And do the artists who work there fall along with the institutions? 
 
-Or do we just file the facts away in our heads, a slow-but-steady confirmation that, for all its taking of itself _very_ seriously, opera is simply another seedy branch of show business.
+Or do we just file the facts away in our heads, and accept the slow-but-steady confirmation that, for all its taking of itself _very_ seriously, opera is simply another seedy branch of show business?
 
 I thought that after I wrote all of this I'd have some conclusion to draw. I don't have one; I'm just angry. These offenders have egos that are out of control, inflated and deified by the industry and its love of legacy.
 
