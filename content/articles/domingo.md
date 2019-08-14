@@ -34,4 +34,4 @@ Yeah, some of this shit happened three decades ago, when people - men, really - 
 
 Or do we just file the facts away in our heads, a slow-but-steady confirmation that, for all its taking of itself _very_ seriously, opera is simply another seedy branch of show business.
 
-I thought that after I wrote all of this I'd have some conclusion to draw. I don't have one; I'm just angry. These offenders have egos that are out of control, inflated and deified by the 
+I thought that after I wrote all of this I'd have some conclusion to draw. I don't have one; I'm just angry. These offenders have egos that are out of control, inflated and deified by the industry and its love of legacy.
