@@ -28,4 +28,6 @@ I'm just done with it. It's exhausting and gross and it makes me wonder if there
 
 This stuff is happening in every industry, I know this. But opera seems to be particularly fertile for grossness; it's generally slow to change with the times, and some of the industry's most coveted, important career opportunities are still controlled by the likes of Domingo. And opera has a particularly rigid hierarchy, so clean-cut it's almost quaint; those who aspire to be a part of the opera industry learn quickly to smile and nod for the conductor, do everything the director asks, and don't be so ungrateful as to swat away an unwanted advance from the guy who can get you your next job.
 
-Yeah, some of this shit happened three decades ago, when people - men, really - were mostly fine with creepiness.
+Yeah, some of this shit happened three decades ago, when people - men, really - were mostly fine with creepiness. But that's where I throw up my hands. What do we do with all this information? Do Domingo's operatic realms - LA Opera, Washington National Opera, the Operalia competition - become stained and less valued? And do the artists who work there fall along with the institutions? 
+
+Or do we just file the facts away in our brains, adding 
