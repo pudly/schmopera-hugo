@@ -26,9 +26,11 @@ Levine was an open secret, too. I even heard tales of his being legally confined
 
 I'm just done with it. It's exhausting and gross. I've learned (unfortunately) that on the Venn diagram of people who are pro-opera and people who are creeps, there's serious overlap.
 
-Like, is it the whole thing about opera and passions running high? Are they turned on by each others' talent? Is it the fact that a lot of these people are nomadic and either single or away from their families for huge chunks of time? Are they extra lonely? Extra narcissistic? 
+Like, is it the whole thing about opera and passions running high? Are they narcissists? Are they turned on by each others' talent? Is it the fact that a lot of these people are nomadic and either single or away from their families for huge chunks of time?  Why the opera/creep overlap?
 
-This stuff is happening in every industry, I know this. But opera seems to be particularly fertile for grossness; it's generally slow to change with the times, and some of the industry's most coveted, important career opportunities are still controlled by the likes of Domingo. And opera has a particularly rigid hierarchy, so clean-cut it's almost quaint; those who aspire to be a part of the opera industry learn quickly to smile and nod for the conductor, do everything the director asks, and don't be so ungrateful as to swat away an unwanted advance from the guy who can get you your next job.
+This stuff is happening in every industry, I know this. But opera does feel particularly fertile for grossness; it's generally slow to change with the times, and opera has a particularly rigid hierarchy - director-conductor-everyone else - so clean-cut it's almost quaint. It's a competitive field, and some of the industry's most coveted, important career opportunities are still controlled by the likes of Levine and Domingo. In the blur of networking and uncomfortable work lunches, singers who seek mentorship from  can find themselves 
+
+; and don't be so ungrateful as to swat away an unwanted advance from the guy who can get you your next job.
 
 Yeah, some of this shit happened three decades ago, when people - men, really - were mostly fine with creepiness. But that's where I throw up my hands. What do we do with all this information? Do Domingo's operatic realms - LA Opera, Washington National Opera, the Operalia competition - become stained and less valued? And do the artists who work there fall along with the institutions? 
 
