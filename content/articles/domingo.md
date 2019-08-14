@@ -22,9 +22,9 @@ What is this garbage? Domingo, Lord, Daniels, Dutoit, Levine; these are the rece
 
 Last year, when the [Levine stuff](/levines-ugly-exit-the-disposable-met/) was in full play, I told a friend that I was surprised Domingo hadn't yet been fingered (hah). I mean, if we're talking about ["open secrets"](https://www.apnews.com/c2d51d690d004992b8cfba3bad827ae9) of the industry, the kind of secret that's passed on dutifully to every young singer as they set their eyes on places like Tanglewood or Operalia or the MET, then Domingo is one of the big ones. Right now, I can recall a colleague and friend of mine, miming a blowjob as they talked about the latest recruits into one of the young artist programmes overseen by Domingo.
 
-Levine was an open secret, too. I heard tales of his being confined to the conductor's podium whenever the kids' chorus was rehearsing on the stage of the MET. Like...
+Levine was an open secret, too. I even heard tales of his being legally confined to the conductor's podium whenever the kids' chorus was rehearsing onstage at the MET. Like...
 
-I'm just done with it. It's exhausting and gross and it makes me wonder if there's some giant overlap in the Venn diagram showing people who are into the performing arts and people who think it's fine to lord their status in the opera industry over those who seek mentorship, or at the very least, a great recommendation. 
+I'm just done with it. It's exhausting and gross. I've learned (unfortunately) that on the Venn diagram of people who are pro-opera and people who are creeps, there's serious overlap.
 
 Like, is it the whole thing about opera and passions running high? Are they turned on by each others' talent? Is it the fact that a lot of these people are nomadic and either single or away from their families for huge chunks of time? Are they extra lonely? Extra narcissistic? 
 
