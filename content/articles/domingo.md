@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1565746790/media/2019/08/MeTooCollage_bdzijp.jpg"
+primary_image_credit = "Clockwise from top left: Plácido Domingo; David Daniels (photo: Simon Pauly); James Levine."
 related_articles = []
 related_companies = []
 related_people = []
@@ -20,7 +20,7 @@ youtube_url = ""
 +++
 What is this garbage? Domingo, Lord, Daniels, Dutoit, Levine; these are the recent ones, and absolutely not the last. All of them, offering gross forms of payment for the sex they have - or attempted to have - with those who are at best colleagues, and in reality, subordinates. Promises of career boosts, exclusive professional advice, and plain old wouldn't-it-be-hot-to-sleep-with-an-opera-star; these are the currencies of those in the opera business, recently outed by #MeToo.
 
-Last year, when the [Levine stuff](/levines-ugly-exit-the-disposable-met/) was in full play, I told a friend that I was surprised Domingo hadn't yet been fingered (hah). I mean, if we're talking about "open secrets" of the industry, the kind of secret that's passed on dutifully to every young singer as they set their eyes on places like Tanglewood or Operalia or the MET, then Domingo is one of the big ones. Right now, I can recall a colleague and friend of mine, miming a blowjob as they talked about the latest recruits into one of the young artist programmes overseen by Domingo.
+Last year, when the [Levine stuff](/levines-ugly-exit-the-disposable-met/) was in full play, I told a friend that I was surprised Domingo hadn't yet been fingered (hah). I mean, if we're talking about ["open secrets"](https://www.apnews.com/c2d51d690d004992b8cfba3bad827ae9) of the industry, the kind of secret that's passed on dutifully to every young singer as they set their eyes on places like Tanglewood or Operalia or the MET, then Domingo is one of the big ones. Right now, I can recall a colleague and friend of mine, miming a blowjob as they talked about the latest recruits into one of the young artist programmes overseen by Domingo.
 
 Levine was an open secret, too. I heard tales of his being confined to the conductor's podium whenever the kids' chorus was rehearsing on the stage of the MET. Like...
 
