@@ -1,9 +1,8 @@
 +++
 author = ["authors/jenna.md"]
-categories = "Editorial"
+categories = "Op-Ed"
 date = "2019-08-13T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
@@ -13,8 +12,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "I'm just done with it. It's exhausting and gross. I've learned (unfortunately) that on the Venn diagram of people who are pro-opera and people who are creeps, there's serious overlap."
-slug = "domingo"
-title = "Domingo"
+slug = "open-secrets-big-egos-opera-creeps"
+title = "Open secrets, big egos, & opera creeps"
 youtube_url = ""
 
 +++
@@ -39,3 +38,5 @@ Or do we just file the facts away in our heads, and accept the slow-but-steady c
 I thought that after I wrote all of this I'd have some conclusion to draw. I don't have one; I'm just angry. These offenders have egos that are out of control, inflated and deified by the industry and its love of legacy.
 
 I know it doesn't sound like it, but I'm a silver-lining type. So far, the only hint of silver lining in this parade of violation and boundary-stomping is this: at the very least, as we out each one of these abusers, we excise them from the opera industry and speed up the much-needed turnover of power.
+
+Until then, what? Take bets on who's next? Ugh.
