@@ -32,4 +32,6 @@ This stuff is happening in every industry, I know this. But opera seems to be pa
 
 Yeah, some of this shit happened three decades ago, when people - men, really - were mostly fine with creepiness. But that's where I throw up my hands. What do we do with all this information? Do Domingo's operatic realms - LA Opera, Washington National Opera, the Operalia competition - become stained and less valued? And do the artists who work there fall along with the institutions? 
 
-Or do we just file the facts away in our heads, a slow-but-steady confirmation that opera is a place where some people get near-deified, and others get sexually harassed?
+Or do we just file the facts away in our heads, a slow-but-steady confirmation that, for all its taking of itself _very_ seriously, opera is simply another seedy branch of show business.
+
+I thought that after I wrote all of this I'd have some conclusion to draw. I don't have one; I'm just angry. These offenders have egos that are out of control, inflated and deified by the 
