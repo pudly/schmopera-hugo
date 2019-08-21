@@ -13,7 +13,7 @@ related_companies = ["scene/companies/university-of-toronto-opera.md", "scene/co
 related_people = ["scene/people/joel-ivany.md"]
 short_description = "\"The singers all study or have studied music and want to immerse themselves in the process and see how far they can stretch themselves.  It can be daunting, but they are up for the challenge.\""
 slug = "atgs-summer-modern-intensive-they-are-eager-period"
-title = "AtG's Summer Modern Intensive: \"They are eager. Period.\""
+title = "AtG & UofT's Summer Modern Intensive: \"They are eager. Period.\""
 youtube_url = ""
 
 +++

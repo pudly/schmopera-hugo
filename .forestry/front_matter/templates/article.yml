@@ -116,9 +116,9 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/atg-summer-modern-intensive.md
 - content/articles/domingo.md
 - content/articles/wto-barber.md
-- content/articles/atg-summer-modern-intensive.md
 - content/articles/tat-2.md
 - content/articles/tat.md
 - content/articles/war-and-peace.md
