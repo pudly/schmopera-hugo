@@ -22,4 +22,4 @@ Newly minted Twin Cities opera company [Journey Opera North](https://www.journey
 
 In a preview on Monday, the company showed an impressive cast of young local talent and a very thoughtful premise for the controversial show. The company has also included a violence and intimacy director in the production - a presence that, hopefully, will some day be a regular credit in programs.
 
-As a special note, the company has included an aerial performer into the show, since the Minnsky Theater venue is primarily known for burlesque performances. I am sure it will be an interesting production.
+As a special note, the company has included an aerial performer into the show, since the [Minnsky Theatre](https://www.minnsky.com/home.html) venue is primarily known for burlesque performances. I am sure it will be an interesting production.
