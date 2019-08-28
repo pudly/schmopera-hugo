@@ -9,7 +9,7 @@ preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1566999939/media/2019/08/sqLucretiaJON_fcc3dw.jpg"
 primary_image_credit = "Photo: Justin Sims Photography."
 related_articles = []
-related_companies = []
+related_companies = ["scene/companies/journey-opera-north.md"]
 related_people = []
 short_description = "In a preview on Monday, the company showed an impressive cast of young local talent and a very thoughtful premise for the controversial show. The company has also included a violence and intimacy director in the production - a presence that, hopefully, will some day be a regular credit in programs. "
 slug = "dont-miss-journey-opera-norths-bold-inaugural-production"
@@ -17,7 +17,7 @@ title = "Don't miss: Journey Opera North's bold inaugural production"
 youtube_url = ""
 
 +++
-Newly minted Twin Cities opera company [Journey Opera North](https://www.journeynorthopera.com/) will be presenting Benjamin Britten's _The Rape of Lucretia_ for their inaugural stage production, September 6-8, 2019.
+Newly minted Twin Cities opera company [Journey Opera North](/scene/companies/journey-opera-north/) will be presenting Benjamin Britten's _The Rape of Lucretia_ for their inaugural stage production, September 6-8, 2019.
 
 In a preview on Monday, the company showed an impressive cast of young local talent and a very thoughtful premise for the controversial show. The company has also included a violence and intimacy director in the production - a presence that, hopefully, will some day be a regular credit in programs.
 
