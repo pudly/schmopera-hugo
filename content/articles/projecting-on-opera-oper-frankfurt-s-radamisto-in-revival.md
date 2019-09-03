@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1567536044/media/2019/09/sq105_radamisto09hq_c5i1i5.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
@@ -22,9 +22,21 @@ Revivals bring unique challenges. Rehearsal periods are nerve-rackingly short, t
 
 Oper Frankfurt's current revival of Handel's Radamisto (directed by Tilmann Köhler) premiered in 2016. A lot has changed since then and a lot of art has become dated in the meantime. How relevant this production was though when it premiered is hard to tell.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 As for the opera's plot, once you get the characters straight, Radamisto's is easy enough to follow. The King of Armenia (Tiridate) no longer cares for his wife (Polissena, Prince Radamisto's sister) so he starts a war to win a noblewoman (Zenobia, Radamisto's wife) and her father's land.
 
 The production sets the action on an oversized staircase made of attractive cedar-hewed wood, like designer gym bleachers at a school for giants. It's a blank-ish canvas without much symbolic value. Modern war zones and refugee tent-cities are distortedly projected on the stairs gesturing vaguely toward recent world conflicts. Any connection between the projections and what actually happens on stage is tenuous. When will opera's projection fetish end? It's one of the medium's more embarrassing trends. Low quality, distracting images and hokey acting are the norm. Unless what's on screen is truly compelling and fully integrated into the story telling, it fails.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 Though the production avoids nuanced storytelling, it's redeemed by Handel's extraordinary score and a solid cast of voices that includes Zanda Švēda's lacquered, rippling mezzo-soprano (Zenobia), Kihwan Sim's elegant bass (Tiridate), and Vince Yi's (Fraarte) crisp countertenor. Jenny Carlstedt (Polissena, Radamisto's sister) and countertenor Dmitry Egorov (Radamisto) were noble in stature and convincing as siblings. Kateryna Kasper (Tigrane) was energetic and wily. Božidar Smiljanić (Farasmane) had a rich timbre, though his only aria was cut leaving him little to sing.
 
@@ -32,10 +44,22 @@ Pure vocal prowess however doesn't guarantee high drama. Throughout the evening,
 
 Mr. Sim has an innately good-natured presence that he'll need to selectively relinquish to portray evil convincingly. Threatening slow walks and a roughened vocal texture during rage arias isn't enough.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 As the title character, Mr. Egorov's vocalism was inconsistent with moments of questionable intonation. His firecracker showpieces ran at such blazing tempi that though his coloratura remained clear phrase to phrase, the breakneck pace cost him expressive variety and crippled the orchestra's clarity (conducted by Simone Di Felice). Speed is only thrilling if accompanied by precision, texture, and groove.
 
 Egorov's mesmerizing moments were during his arias' cadenzas. He brought the theater to a crystalized standstill with a voluminous suspended straight-tone, like microphone feedback but pleasing, that demonstrated the purity and force of his instrument. Though he repeated the effect a few times throughout the evening, it remained astonishing.
 
 Like many of the era's operas, Radamisto abruptly shifts at the end so the good guys win. The villain Tiridate has a near instant change of heart when he discovers that, while chasing his love interest, he's lost control of the war he started and his own army has betrayed him. His plea for forgiveness predicts the Count's in Le nozze di Figaro ("Contessa, perdono") and provides a brief opportunity for operatic transcendence. In a world where everything is sung, the lyric voice, given the right phrase, can redeem even the most despicable men.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 Then the production succumbs to another tired trope in an attempt to solve the problem of too little too late. Tiridate slits everyone's throat in the midst of their celebratory epilogue as if to ask: is it still opera if no one dies?
