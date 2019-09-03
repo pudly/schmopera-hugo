@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1567536044/media/2019/09/sq105_radamisto09hq_c5i1i5.jpg"
-primary_image_credit = ""
+primary_image_credit = "Gaëlle Arquez (Zenobia) in Radamisto, Oper Frankfurt, 2016. Photo: Barbara Aumüller</figcaption>"
 related_articles = []
 related_companies = []
 related_people = []
@@ -34,9 +34,9 @@ As for the opera's plot, once you get the characters straight, _Radamisto_'s is 
 
 The production sets the action on an oversized staircase made of attractive cedar-hewed wood, like designer gym bleachers at a school for giants. It's a blank-ish canvas without much symbolic value. Modern war zones and refugee tent-cities are distortedly projected on the stairs gesturing vaguely toward recent world conflicts. Any connection between the projections and what actually happens on stage is tenuous. When will opera's projection fetish end? It's one of the medium's more embarrassing trends. Low quality, distracting images and hokey acting are the norm. Unless what's on screen is truly compelling and fully integrated into the story telling, it fails.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567536485/media/2019/09/80_radamistohq04_orfy3y.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Kihwan Sim (Tiridate ) and Gaëlle Arquez (Zenobia) in Radamisto, Oper Frankfurt, 2016. Photo: Barbara Aumüller</figcaption></figcaption>
 
 </figure>
 
@@ -48,9 +48,9 @@ Pure vocal prowess, however, doesn't guarantee high drama. Throughout the evenin
 
 Mr. Sim has an innately good-natured presence that he'll need to selectively relinquish to portray evil convincingly. Threatening slow walks and a roughened vocal texture during rage arias isn't enough.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567536499/media/2019/09/101_radamisto06hq_zzzfjb.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Gaëlle Arquez (Zenobia) and Kihwan Sim (Tiridate) in Radamisto, Oper Frankfurt, 2016. Photo: Barbara Aumüller</figcaption></figcaption>
 
 </figure>
 
@@ -62,9 +62,9 @@ Egorov's mesmerizing moments were during his arias' cadenzas. He brought the the
 
 Like many of the era's operas, Radamisto abruptly shifts at the end so the good guys win. The villain Tiridate has a near instant change of heart when he discovers that, while chasing his love interest, he's lost control of the war he started and his own army has betrayed him. His plea for forgiveness predicts the Count's in _Le nozze di Figaro_ ("Contessa, perdono") and provides a brief opportunity for operatic transcendence. In a world where everything is sung, the lyric voice, given the right phrase, can redeem even the most despicable men.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567536511/media/2019/09/114_radamisto18hq_gvxfrb.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Paula Murrihy (Polissena), Kihwan Sim (Tiridate), Gaëlle Arquez (Zenobia), Dmitry Egorov (Radamisto) and Thomas Faulkner (Farasmane) in Radamisto, Oper Frankfurt, 2016. Photo: Barbara Aumüller</figcaption></figcaption>
 
 </figure>
 
