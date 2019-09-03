@@ -42,6 +42,8 @@ The production sets the action on an oversized staircase made of attractive ceda
 
 Though the production avoids nuanced storytelling, it's redeemed by Handel's extraordinary score and a solid cast of voices that includes Zanda Švēda's lacquered, rippling mezzo-soprano (Zenobia), Kihwan Sim's elegant bass (Tiridate), and Vince Yi's (Fraarte) crisp countertenor. Jenny Carlstedt (Polissena, Radamisto's sister) and countertenor Dmitry Egorov (Radamisto) were noble in stature and convincing as siblings. Kateryna Kasper (Tigrane) was energetic and wily. Božidar Smiljanić (Farasmane) had a rich timbre, though his only aria was cut leaving him little to sing.
 
+> He brought the theater to a crystalized standstill.
+
 Pure vocal prowess, however, doesn't guarantee high drama. Throughout the evening, the musical and dramatic delivery was lukewarm, never heating to a simmer. The cast seemed tentative, still feeling their way into the outsized characters, events, and relationships.
 
 Mr. Sim has an innately good-natured presence that he'll need to selectively relinquish to portray evil convincingly. Threatening slow walks and a roughened vocal texture during rage arias isn't enough.
@@ -54,9 +56,11 @@ Mr. Sim has an innately good-natured presence that he'll need to selectively rel
 
 As the title character, Mr. Egorov's vocalism was inconsistent with moments of questionable intonation. His firecracker showpieces ran at such blazing tempi that, though his coloratura remained clear phrase to phrase, the breakneck pace cost him expressive variety and crippled the orchestra's clarity (conducted by Simone Di Felice). Speed is only thrilling if accompanied by precision, texture, and groove.
 
+> In a world where everything is sung, the lyric voice, given the right phrase, can redeem even the most despicable men.
+
 Egorov's mesmerizing moments were during his arias' cadenzas. He brought the theater to a crystalized standstill with a voluminous suspended straight-tone, like microphone feedback but pleasing, that demonstrated the purity and force of his instrument. Though he repeated the effect a few times throughout the evening, it remained astonishing.
 
-Like many of the era's operas, Radamisto abruptly shifts at the end so the good guys win. The villain Tiridate has a near instant change of heart when he discovers that, while chasing his love interest, he's lost control of the war he started and his own army has betrayed him. His plea for forgiveness predicts the Count's in Le nozze di Figaro ("Contessa, perdono") and provides a brief opportunity for operatic transcendence. In a world where everything is sung, the lyric voice, given the right phrase, can redeem even the most despicable men.
+Like many of the era's operas, Radamisto abruptly shifts at the end so the good guys win. The villain Tiridate has a near instant change of heart when he discovers that, while chasing his love interest, he's lost control of the war he started and his own army has betrayed him. His plea for forgiveness predicts the Count's in _Le nozze di Figaro_ ("Contessa, perdono") and provides a brief opportunity for operatic transcendence. In a world where everything is sung, the lyric voice, given the right phrase, can redeem even the most despicable men.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
