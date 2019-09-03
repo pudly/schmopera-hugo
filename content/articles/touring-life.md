@@ -47,7 +47,7 @@ What I love about the massage balls is the smooth texture and small size, which 
 
 ## Reusable cutlery
 
-Going on tour is probably the least environmentally friendly thing I have done as a singer. Not only do we burn a lot of gas to get to the places where we will perform, but we also end up eating out every meal at places where reusable plates and cutlery is a distant fantasy. For the past 4 years, I have been working hard at home to reduce my trash to almost zero and before we left, I tried to come up with some essentials that would allow me to stay close to my environmental values. 
+Going on tour is probably the least environmentally friendly thing I have done as a singer. Not only do we burn a lot of gas to get to the places where we will perform, but we also end up eating out every meal at places where reusable plates and cutlery is a distant fantasy. For the past four years, I have been working hard at home to reduce my trash to almost zero and before we left, I tried to come up with some essentials that would allow me to stay close to my environmental values. 
 
 Here are the four things that I carried with me at all times that allowed me to drastically reduce the amount of trash that I produced:
 
