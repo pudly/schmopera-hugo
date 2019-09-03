@@ -20,7 +20,7 @@ youtube_url = ""
 +++
 Revivals bring unique challenges. Rehearsal periods are nerve-rackingly short, the original director is rarely involved, the production itself must remain relevant despite being displaced from its original context, and no revisions are allowed. If only directors could (and would) refine their productions each time they were mounted anew – if only opera companies had the budget for that – the at form would gain vitality.
 
-Oper Frankfurt's current revival of Handel's Radamisto (directed by Tilmann Köhler) premiered in 2016. A lot has changed since then and a lot of art has become dated in the meantime. How relevant this production was though when it premiered is hard to tell.
+Oper Frankfurt's current revival of Handel's _Radamisto_ (directed by Tilmann Köhler) premiered in 2016. A lot has changed since then and a lot of art has become dated in the meantime. How relevant this production was when it premiered, though, is hard to tell.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
@@ -28,7 +28,7 @@ Oper Frankfurt's current revival of Handel's Radamisto (directed by Tilmann Köh
 
 </figure>
 
-As for the opera's plot, once you get the characters straight, Radamisto's is easy enough to follow. The King of Armenia (Tiridate) no longer cares for his wife (Polissena, Prince Radamisto's sister) so he starts a war to win a noblewoman (Zenobia, Radamisto's wife) and her father's land.
+As for the opera's plot, once you get the characters straight, _Radamisto_'s is easy enough to follow. The King of Armenia (Tiridate) no longer cares for his wife (Polissena, Prince Radamisto's sister) so he starts a war to win a noblewoman (Zenobia, Radamisto's wife) and her father's land.
 
 The production sets the action on an oversized staircase made of attractive cedar-hewed wood, like designer gym bleachers at a school for giants. It's a blank-ish canvas without much symbolic value. Modern war zones and refugee tent-cities are distortedly projected on the stairs gesturing vaguely toward recent world conflicts. Any connection between the projections and what actually happens on stage is tenuous. When will opera's projection fetish end? It's one of the medium's more embarrassing trends. Low quality, distracting images and hokey acting are the norm. Unless what's on screen is truly compelling and fully integrated into the story telling, it fails.
 
