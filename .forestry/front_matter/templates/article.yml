@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/touring-life.md
 - content/articles/projecting-on-opera-oper-frankfurt-s-radamisto-in-revival.md
 - content/articles/lucretia.md
 - content/articles/atg-summer-modern-intensive.md
