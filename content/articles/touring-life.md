@@ -31,7 +31,7 @@ Here are five things that, for me, transformed a Comfort Inn in Mont-Laurier int
 
 I LOVE coffee. But I mean REAL coffee. I am true a third waver. Nothing bothers me more than bad filtered coffee or, even worse, burned milk in an over infused and burned allongé with foam on top that looks like sprayed polyurethane insulation. Tim Hortons is, to me, probably the closest vision that I have of Hell. 
 
-When I realised how difficult it would be to find good coffee on the road anywhere past Québec city I almost fainted. But then… I discovered [Wacaco](https://fr.wacaco.com/). Wacaco will be your best morning friend. It is a compact espresso maker that makes some of the best coffee I have ever had. You even have a beautiful crema on top. You just have to have access to boiling water and voilà!
+When I realised how difficult it would be to find good coffee on the road anywhere past Québec City I almost fainted. But then… I discovered [Wacaco](https://fr.wacaco.com/). Wacaco will be your best morning friend. It is a compact espresso maker that makes some of the best coffee I have ever had. You even have a beautiful crema on top. You just have to have access to boiling water and voilà!
 
 ## Yoga mat and Adriene
 
