@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "short"
-slug = "touring-life"
-title = "Touring life"
+slug = "5-items-to-make-touring-life-more-fun"
+title = "5 items to make touring life more fun"
 youtube_url = ""
 
 +++
