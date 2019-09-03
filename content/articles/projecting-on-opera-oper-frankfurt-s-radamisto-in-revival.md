@@ -30,6 +30,8 @@ Oper Frankfurt's current revival of Handel's _Radamisto_ (directed by Tilmann K�
 
 As for the opera's plot, once you get the characters straight, _Radamisto_'s is easy enough to follow. The King of Armenia (Tiridate) no longer cares for his wife (Polissena, Prince Radamisto's sister) so he starts a war to win a noblewoman (Zenobia, Radamisto's wife) and her father's land.
 
+> When will opera's projection fetish end?
+
 The production sets the action on an oversized staircase made of attractive cedar-hewed wood, like designer gym bleachers at a school for giants. It's a blank-ish canvas without much symbolic value. Modern war zones and refugee tent-cities are distortedly projected on the stairs gesturing vaguely toward recent world conflicts. Any connection between the projections and what actually happens on stage is tenuous. When will opera's projection fetish end? It's one of the medium's more embarrassing trends. Low quality, distracting images and hokey acting are the norm. Unless what's on screen is truly compelling and fully integrated into the story telling, it fails.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
@@ -40,7 +42,7 @@ The production sets the action on an oversized staircase made of attractive ceda
 
 Though the production avoids nuanced storytelling, it's redeemed by Handel's extraordinary score and a solid cast of voices that includes Zanda Švēda's lacquered, rippling mezzo-soprano (Zenobia), Kihwan Sim's elegant bass (Tiridate), and Vince Yi's (Fraarte) crisp countertenor. Jenny Carlstedt (Polissena, Radamisto's sister) and countertenor Dmitry Egorov (Radamisto) were noble in stature and convincing as siblings. Kateryna Kasper (Tigrane) was energetic and wily. Božidar Smiljanić (Farasmane) had a rich timbre, though his only aria was cut leaving him little to sing.
 
-Pure vocal prowess however doesn't guarantee high drama. Throughout the evening, the musical and dramatic delivery was lukewarm, never heating to a simmer. The cast seemed tentative, still feeling their way into the outsized characters, events, and relationships.
+Pure vocal prowess, however, doesn't guarantee high drama. Throughout the evening, the musical and dramatic delivery was lukewarm, never heating to a simmer. The cast seemed tentative, still feeling their way into the outsized characters, events, and relationships.
 
 Mr. Sim has an innately good-natured presence that he'll need to selectively relinquish to portray evil convincingly. Threatening slow walks and a roughened vocal texture during rage arias isn't enough.
 
@@ -50,7 +52,7 @@ Mr. Sim has an innately good-natured presence that he'll need to selectively rel
 
 </figure>
 
-As the title character, Mr. Egorov's vocalism was inconsistent with moments of questionable intonation. His firecracker showpieces ran at such blazing tempi that though his coloratura remained clear phrase to phrase, the breakneck pace cost him expressive variety and crippled the orchestra's clarity (conducted by Simone Di Felice). Speed is only thrilling if accompanied by precision, texture, and groove.
+As the title character, Mr. Egorov's vocalism was inconsistent with moments of questionable intonation. His firecracker showpieces ran at such blazing tempi that, though his coloratura remained clear phrase to phrase, the breakneck pace cost him expressive variety and crippled the orchestra's clarity (conducted by Simone Di Felice). Speed is only thrilling if accompanied by precision, texture, and groove.
 
 Egorov's mesmerizing moments were during his arias' cadenzas. He brought the theater to a crystalized standstill with a voluminous suspended straight-tone, like microphone feedback but pleasing, that demonstrated the purity and force of his instrument. Though he repeated the effect a few times throughout the evening, it remained astonishing.
 
