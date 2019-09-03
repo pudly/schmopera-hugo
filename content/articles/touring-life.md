@@ -24,6 +24,8 @@ Well, it turns out that my life has unfolded a bit differently…
 
 Although I sing professionally and I manage to work full time with companies that I love, and who share my values, my career has remained pretty local. However, this past year I have had the extraordinary opportunity to go on tour singing Oreste in _La belle Hélène_ with Jeunesses Musicales Canada. We were away for six weeks in the fall and four in the spring, touring our opera in remote parts of Québec and Ontario. It may not have been France, but I have had some of the best moments in my professional life. 
 
+> When I think back on the girl sitting at her perfect Paris hotel balcony I realise… she would have missed out on all of this.
+
 Here are five things that, for me, transformed a Comfort Inn in Mont-Laurier into an extravagant suite in Paris. 
 
 ## Wacaco
@@ -65,4 +67,6 @@ I used the travel size one from [Boneco](https://www.boneco.com/en/u7146), which
 
 ***
 
-It may not have been the decadent life that I had imagined as a student, but it has been a transforming and enchanting experience. We may not have been staying in the most extravagant hotels, but I saw a side of my own country, my home, that I had never seen before. I met amazing colleagues that became close friends, I listened to elevating and vulnerable stories over (good) coffee with inspiring human beings, I sang for people who waited the whole year to hear the only opera that is accessible to them in their town, we made people laugh, we shared something precious and authentic. When I think back on the girl sitting at her perfect Paris hotel balcony I realise… she would have missed out on all of this.
+It may not have been the decadent life that I had imagined as a student, but it has been a transforming and enchanting experience. We may not have been staying in the most extravagant hotels, but I saw a side of my own country, my home, that I had never seen before. 
+
+I met amazing colleagues that became close friends, I listened to elevating and vulnerable stories over (good) coffee with inspiring human beings, I sang for people who waited the whole year to hear the only opera that is accessible to them in their town, we made people laugh, we shared something precious and authentic. When I think back on the girl sitting at her perfect Paris hotel balcony I realise… she would have missed out on all of this.
