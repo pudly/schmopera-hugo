@@ -22,9 +22,9 @@ Revivals bring unique challenges. Rehearsal periods are nerve-rackingly short, t
 
 Oper Frankfurt's current revival of Handel's _Radamisto_ (directed by Tilmann Köhler) premiered in 2016. A lot has changed since then and a lot of art has become dated in the meantime. How relevant this production was when it premiered, though, is hard to tell.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567536413/media/2019/09/77_radamistohq01_zbgmzw.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>aëlle Arquez (Zenobia), Danae Kontora (Tigrane), Dmitry Egorov (Radamisto), Paula Murrihy (Polissena, in the middle), Kihwan Sim (Tiridate), Thomas Faulkner (Farasmane) and Vince Yi (Fraarte) in Radamisto, Oper Frankfurt, 2016. Photo: Barbara Aumüller</figcaption>
 
 </figure>
 
