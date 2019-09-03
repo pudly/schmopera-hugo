@@ -61,26 +61,8 @@ Here are the four things that I carried with me at all times that allowed me to 
 
 Finally, I brought with me a portable humidifier, which allowed me to breathe better at night and kept my throat nice and hydrated. The level of humidity in each hotel is very difficult to predict, especially on cold nights when the heating is on, and I found that it is really hard for me to sing well when my throat has dried out overnight. 
 
-I used the travel size one from [Boneco](https://www.boneco.com/en/u7146), which is compact and can be used simply with a
+I used the travel size one from [Boneco](https://www.boneco.com/en/u7146), which is compact and can be used simply with a plastic water bottle. I carried the same water bottle with me and refilled it during the whole tour.
 
-plastic water bottle. I carried the same water bottle with me and refilled it during the
+***
 
-whole tour.
-
-It may not have been the decadent life that I had imagined as a student, but it
-
-has been a transforming and enchanting experience. We may not have been staying in
-
-the most extravagant hotels, but I saw a side of my own country, my home, that I had
-
-never seen before. I met amazing colleagues that became close friends, I listened to
-
-elevating and vulnerable stories over (good) coffee with inspiring human beings, I sang
-
-for people who waited the whole year to hear the only opera that is accessible to them
-
-in their town, we made people laugh, we shared something precious and authentic.
-
-When I think back on the girl sitting at her perfect Paris hotel balcony I realise… she
-
-would have missed out on all of this.
+It may not have been the decadent life that I had imagined as a student, but it has been a transforming and enchanting experience. We may not have been staying in the most extravagant hotels, but I saw a side of my own country, my home, that I had never seen before. I met amazing colleagues that became close friends, I listened to elevating and vulnerable stories over (good) coffee with inspiring human beings, I sang for people who waited the whole year to hear the only opera that is accessible to them in their town, we made people laugh, we shared something precious and authentic. When I think back on the girl sitting at her perfect Paris hotel balcony I realise… she would have missed out on all of this.
