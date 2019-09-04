@@ -24,7 +24,9 @@ I got my first submission within an hour of posting; even today, my inbox sees t
 
 It was like watching a car crash, reading these stories. Some were piecemeal anecdotes about a voice teacher who gets old-school handsy with his female students, or a coach who crosses the line between career advice and intimacy. There were more "open secrets", about music administrators with a history of sexual harassment, and how Barenboim is a general nightmare.
 
-I also received full, personal accounts by young artists, describing extended grooming and abuse - in some cases, assault - from a professional superior. These were pretty hard to read
+I also received full, personal accounts by young artists, describing extended grooming and abuse - in some cases, assault - from a professional superior. 
+
+They were all pretty hard to read. Some of them were just heartbreaking and put me on a rollercoaster of anger and pity. some of them freaked me out a bit, because they were really familiar.
 
  how they denied it was happening, and felt guilty after it had happened, enough to stay silent.
 
