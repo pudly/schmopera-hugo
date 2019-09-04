@@ -26,9 +26,9 @@ It was like watching a car crash, reading these stories. Some were piecemeal ane
 
 I also received full, personal accounts by young artists, describing extended grooming and abuse - in some cases, assault - from a professional superior. 
 
-They were all pretty hard to read. Some of them were just heartbreaking and put me on a rollercoaster of anger and pity. some of them freaked me out a bit, because they were really familiar.
+They were all pretty hard to read. Often they were about people I know, but most of them wanted to stay anonymous. Some of them were just heartbreaking and put me on a rollercoaster of anger and pity. 
 
- how they denied it was happening, and felt guilty after it had happened, enough to stay silent.
+Some of them freaked me out a bit, because they were really familiar: denial that it was happening, guilt after it had happened,  enough to stay silent.
 
 Catalyst in Domingo case, initial call for stories
 
