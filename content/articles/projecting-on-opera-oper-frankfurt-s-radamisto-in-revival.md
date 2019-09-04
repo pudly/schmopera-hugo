@@ -23,7 +23,7 @@ Oper Frankfurt's current revival of Handel's _Radamisto_ (directed by Tilmann K�
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567536413/media/2019/09/77_radamistohq01_zbgmzw.jpg){{% /md %}}
 
-<figcaption>aëlle Arquez (Zenobia), Danae Kontora (Tigrane), Dmitry Egorov (Radamisto), Paula Murrihy (Polissena, in the middle), Kihwan Sim (Tiridate), Thomas Faulkner (Farasmane) and Vince Yi (Fraarte) in Radamisto, Oper Frankfurt, 2016. Photo: Barbara Aumüller</figcaption>
+<figcaption>Gaëlle Arquez (Zenobia), Danae Kontora (Tigrane), Dmitry Egorov (Radamisto), Paula Murrihy (Polissena, in the middle), Kihwan Sim (Tiridate), Thomas Faulkner (Farasmane) and Vince Yi (Fraarte) in Radamisto, Oper Frankfurt, 2016. Photo: Barbara Aumüller</figcaption>
 
 </figure>
 
