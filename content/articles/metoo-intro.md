@@ -18,6 +18,10 @@ title = "#metoo intro"
 youtube_url = ""
 
 +++
+You might have spotted in your recent feed my call for stories of abuse, harassment, or assault in the opera and classical music worlds. #MeToo stories, essentially.
+
+I got my first submission within an hour of posting; even today, my inbox sees the flow of stories. 
+
 Catalyst in Domingo case, initial call for stories
 
 Near-immediate flow of emails with stories about themselves and their colleagues in shitty situations
