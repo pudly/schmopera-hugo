@@ -30,7 +30,9 @@ They were all pretty hard to read. Often they were about people I know, but most
 
 Some of them freaked me out a bit, because they were really familiar: denial that it was happening, guilt after it had happened, and opting to not tell a soul.
 
-I guess 
+I think a lot of people in the opera world felt a bit of a catalyst in the accusations aimed at Plácido Domingo. Somehow, it felt less isolated than the Levine stuff, and more personal than the Daniels stuff; it was as though, without realizing it, we were counting on someone like Domingo - the top tier of opera - to be a good guy, and keep opera's #metoo problem a matter of a few bad eggs. 
+
+But no. The fish certainly rots from the head down. And with the usual outrage and side-taking that happens in these cases, there also felt a good dose of apathy: _Of course he's creepy. He's a famous man and the opera industry has worshipped him for decades. Why wouldn't he be a creep like the rest of them?_
 
 Catalyst in Domingo case, initial call for stories
 
