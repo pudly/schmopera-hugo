@@ -28,7 +28,9 @@ I also received full, personal accounts by young artists, describing extended gr
 
 They were all pretty hard to read. Often they were about people I know, but most of them wanted to stay anonymous. Some of them were just heartbreaking and put me on a rollercoaster of anger and pity. 
 
-Some of them freaked me out a bit, because they were really familiar: denial that it was happening, guilt after it had happened,  enough to stay silent.
+Some of them freaked me out a bit, because they were really familiar: denial that it was happening, guilt after it had happened, and opting to not tell a soul.
+
+I guess 
 
 Catalyst in Domingo case, initial call for stories
 
