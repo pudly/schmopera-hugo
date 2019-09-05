@@ -1,7 +1,7 @@
 +++
-author = ["authors/jenna.md"]
+author = ["authors/jenna.md", "authors/jenna.md"]
 categories = "Editorial"
-date = "2019-09-03T04:00:00+00:00"
+date = "2019-09-04T04:00:00+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "short"
-slug = "metoo-intro"
-title = "#metoo intro"
+slug = "thestories-are-coming-out-and-heres-why"
+title = "#TheStories are coming out, and here's why"
 youtube_url = ""
 
 +++
