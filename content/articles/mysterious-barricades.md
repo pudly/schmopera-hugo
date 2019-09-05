@@ -18,6 +18,7 @@ title = "Mysterious Barricades"
 youtube_url = ""
 
 +++
+
 * Sept 5-14
 * Suicide Awareness Week
 * 15 cities across Canada, \~400 musicians
@@ -26,4 +27,7 @@ youtube_url = ""
 * Concerts are free to attend, live or streamed online
 * "for the purpose of providing healing and connection to those who are affected by suicide, either in surviving a loss or in dealing with their own mental health issues."
 * "Over 11,000 people have viewed our previous Mysterious Barricades concerts, which in addition to top-quality performances have included inspiring personal stories and valuable suicide prevention information."
-* 
+
+<figure data-type="video">{{% md %}}<iframe width="377" height="212" src="[https://www.youtube.com/embed/4gQVwswbrGM](https://www.youtube.com/embed/4gQVwswbrGM "https://www.youtube.com/embed/4gQVwswbrGM")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+
+</figure>
