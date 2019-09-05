@@ -40,7 +40,7 @@ Honestly, I wasn't even sure what I meant to do with these stories even as I was
 
 But it's the recurring theme of a power imbalance that has convinced me to publish these personal accounts in a series I'm tagging, #TheStories. These stories are largely anonymous, with names and companies excluded, so it's not about pointing fingers. 
 
-This series is about upsetting that power imbalance.
+This series is about upend that power imbalance. 
 
 Why publish? It's not about pointing fingers and accusing specific people, but about showing how common these stories are, and how easy it is to identify or deeply understand these stories even if you've never been a victim
 
