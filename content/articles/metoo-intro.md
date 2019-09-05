@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1567646696/media/2019/09/sqTheStories_tdjz0y.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
@@ -49,3 +49,5 @@ To quote one of my sources: "Tell the whole fucking world."
 So, as this series begins, bear in mind my goal: I want potential victims to learn what abuse looks like, and be able to spot it early. I want them to be confident in their decision to report abuse. I want them to have someone to report it to. I want potential abusers to hear from these victims, in the hopes that they'll recognize themselves in their stories and smarten up in the future.
 
 Most of all: I want the opera industry to know that it is not special. It is full of hard feeling, brave, even eccentric people - but it is a workplace, and these fuckers can no longer turn their studios into their own personal sexual fantasy.
+
+Okay. Here goes.
