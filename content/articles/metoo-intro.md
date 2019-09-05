@@ -40,8 +40,12 @@ Honestly, I wasn't even sure what I meant to do with these stories even as I was
 
 But it's the recurring theme of a power imbalance that has convinced me to publish these personal accounts in a series I'm tagging, #TheStories. These stories are largely anonymous, with names and companies excluded, so it's not about pointing fingers. 
 
-This series is about upend that power imbalance. 
+This series is about upending that power imbalance. As I read these stories, I started to think of these abusers as a sorry lot. What kind of boss uses his power to hit on an aspiring singer when you're alone in a room with her? What kind of teacher ignores their students' physical boundaries, even after they've been asked to stop? What kind of functioning, grown-ass adult lures a younger person to their home, feeds them drugs and booze, and rapes them - _and then winks at them the next day?_
 
-Why publish? It's not about pointing fingers and accusing specific people, but about showing how common these stories are, and how easy it is to identify or deeply understand these stories even if you've never been a victim
+This is not the behaviour of people who warrant respect. These are the bumbling, desperate, insecurities of people who punch down. These people do not hold the power they want you to believe they do. 
 
-If we see that these stories are common, the victims gain huge amounts of power - they might not second-guess their decision to tell someone when it happens to them, they might identify markers of abuse earlier and stand up to it, and maybe the abusers can realize how their actions might be perceived and learn for the future
+To quote one of my sources: "Tell the whole fucking world."
+
+So, as the series begins, bear in mind my goal: I want potential victims to spot abuse early on. I want them to be confident in their decision to report abuse. I want them to have someone to report it to. I want potential abusers to hear from these victims, in the hopes that they'll recognize themselves in their stories and smarten up in the future.
+
+Most of all: I want the opera industry to know that it is not special. It is full of hard feeling, brave, even eccentric people - but it is a workplace, and these fuckers can no longer turn the rehearsal room into their own personal sexual fantasy.
