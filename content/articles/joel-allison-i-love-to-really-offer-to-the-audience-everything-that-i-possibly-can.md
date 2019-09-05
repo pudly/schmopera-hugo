@@ -48,6 +48,8 @@ It feels great when the audience loves your voice, but generally, people are dra
 
 ## What's next for you?
 
-I am going back to Canada and doing my final year in the Ensemble Studio at the Canadian Opera Company. There are a lot of small roles and concerts this year, I am doing a couple more debuts, more auditions. I just got an agent in Canada. She is working really hard for me to get more work once I am done at the Canadian Opera Company. I have various different parts of my family living throughout Canada and I don’t get to see them very often. So it would be great to be able to go do concerts in different parts of Canada and then to be able to meet my family.
+I am going back to Canada and doing my final year in the Ensemble Studio at the Canadian Opera Company. There are a lot of small roles and concerts this year, I am doing a couple more debuts, more auditions. 
+
+I just got an agent in Canada. She is working really hard for me to get more work once I am done at the Canadian Opera Company. I have various different parts of my family living throughout Canada and I don't get to see them very often. So it would be great to be able to go do concerts in different parts of Canada and then to be able to meet my family.
 
 The ultimate goal for me is to have an international career. I would love to sing around the world, I love traveling. Finally, I would love to be able take my wife with on concert tours and just be tourists for a few days together.
