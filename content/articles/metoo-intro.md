@@ -48,4 +48,4 @@ To quote one of my sources: "Tell the whole fucking world."
 
 So, as the series begins, bear in mind my goal: I want potential victims to spot abuse early on. I want them to be confident in their decision to report abuse. I want them to have someone to report it to. I want potential abusers to hear from these victims, in the hopes that they'll recognize themselves in their stories and smarten up in the future.
 
-Most of all: I want the opera industry to know that it is not special. It is full of hard feeling, brave, even eccentric people - but it is a workplace, and these fuckers can no longer turn the rehearsal room into their own personal sexual fantasy.
+Most of all: I want the opera industry to know that it is not special. It is full of hard feeling, brave, even eccentric people - but it is a workplace, and these fuckers can no longer turn their studios into their own personal sexual fantasy.
