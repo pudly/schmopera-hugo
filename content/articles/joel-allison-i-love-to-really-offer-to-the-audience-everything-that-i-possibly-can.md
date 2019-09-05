@@ -34,15 +34,19 @@ But after my orchestra rehearsals on Saturday mornings, I would always go back t
 
 I must have been about fourteen when _Tosca_ was playing one day and as we came in a car, it was the _Te Deum_. I didn't know what the opera was, but I heard the chorus and was blown away. It was a very very good recording. 
 
-That same year my orchestra went to Budapest and Vienna and we saw _Turandot_ at the Wien VolksOper and that got me more into opera. When I was fifteen, I was singing now in the bass section of the St. Matthew's Men and Boy's choir. We did a big anniversary concert and they had a bunch of famous singers come to perform with us. One of them was Gerald Finley. When I heard him sing, I thought to myself: "So, is this what an opera singer suppose to sound like." 
+That same year my orchestra went to Budapest and Vienna and we saw _Turandot_ at the Wien VolksOper and that got me more into opera. When I was fifteen, I was singing now in the bass section of the St. Matthew's Men and Boy's choir. We did a big anniversary concert and they had a bunch of famous singers come to perform with us. One of them was [Gerald Finley](/talking-with-singers-gerald-finley/). When I heard him sing, I thought to myself: "So, is this what an opera singer suppose to sound like." 
 
-When I was sixteen, I applied to the Ontario youth choir and I did their summer program with them. After the summer program, the vice president of the choir, who was also the opera director at the University of Ottawa, invited me to be in chorus for her production of Carmen, but a couple weeks into rehearsals two of her baritones dropped out of production and I got to then sing the role of Dancairo in Carmen. So then the professor started giving me the voice lessons. That was a lot of fun. I started working on opera singing.
+When I was sixteen, I applied to the Ontario youth choir and I did their summer program with them. After the summer program, the vice president of the choir, who was also the opera director at the University of Ottawa, invited me to be in chorus for her production of _Carmen_, but a couple weeks into rehearsals two of her baritones dropped out of production and I got to then sing the role of Dancaïro in _Carmen_. So then the professor started giving me the voice lessons. That was a lot of fun. I started working on opera singing.
 
-Do you ever think about what’s your impact on the listener?
+## Do you ever think about what's your impact on the listener?
 
-For me, I am always trying to be as honest as I can as I performer. Generally, I find that the composer and the librettist wrote the piece it in such a way that it can be impactful to the audiences by itself. All you as a performer have to do is to really clear with how you interpreting what they wrote. My favorite thing to be told after a performance,  is that they could understand every word and they could understand the atmosphere I was creating with it or the story I was telling. For me, that means I did my job well. It feels great when the audience loves your voice, but generally, people are drawn more to the story and they might realize the beauty of the certain line or something about the character.
+For me, I am always trying to be as honest as I can as I performer. Generally, I find that the composer and the librettist wrote the piece it in such a way that it can be impactful to the audiences by itself. All you as a performer have to do is to really clear with how you interpreting what they wrote. 
 
-What's next for you?
+My favorite thing to be told after a performance, is that they could understand every word and they could understand the atmosphere I was creating with it or the story I was telling. For me, that means I did my job well. 
+
+It feels great when the audience loves your voice, but generally, people are drawn more to the story and they might realize the beauty of the certain line or something about the character.
+
+## What's next for you?
 
 I am going back to Canada and doing my final year in the Ensemble Studio at the Canadian Opera Company. There are a lot of small roles and concerts this year, I am doing a couple more debuts, more auditions. I just got an agent in Canada. She is working really hard for me to get more work once I am done at the Canadian Opera Company. I have various different parts of my family living throughout Canada and I don’t get to see them very often. So it would be great to be able to go do concerts in different parts of Canada and then to be able to meet my family.
 
