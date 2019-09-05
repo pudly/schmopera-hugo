@@ -1,5 +1,5 @@
 +++
-author = ["authors/jenna.md", "authors/jenna.md"]
+author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2019-09-04T04:00:00+00:00"
 disclaimer = ""
@@ -12,7 +12,7 @@ primary_image_credit = ""
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "Honestly, I wasn't even sure what I meant to do with these stories even as I was receiving them by the hour. What was to be gained by telling more stories of horrid behaviour? More cynicism? Even a boycott of opera?"
 slug = "thestories-are-coming-out-and-heres-why"
 title = "#TheStories are coming out, and here's why"
 youtube_url = ""
