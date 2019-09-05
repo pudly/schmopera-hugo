@@ -20,7 +20,7 @@ youtube_url = ""
 +++
 You might have spotted in your recent feed my call for stories of abuse, harassment, or assault in the opera and classical music worlds. #MeToo stories, essentially.
 
-I got my first submission within an hour of posting; even today, my inbox sees the flow of stories, the subject usually including "opera #metoo".
+I got my first submission within an hour of posting, and they continue today.
 
 It was like watching a car crash, reading these stories. Some were piecemeal anecdotes about a voice teacher who gets old-school handsy with his female students, or a coach who crosses the line between career advice and intimacy. There were more "open secrets", about music administrators with a history of sexual harassment, and how Barenboim is a general nightmare.
 
