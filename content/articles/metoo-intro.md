@@ -42,10 +42,10 @@ But it's the recurring theme of a power imbalance that has convinced me to publi
 
 It's not about pointing fingers. This series is about upending that power imbalance. As I read these stories, I started to think of these abusers as a sorry lot. What kind of boss ignores their employees' physical boundaries, even after they've been asked to stop? What kind of teacher uses his power - and private studio - to comment on a student's breasts? What kind of functioning, grown-ass adult lures a younger person to their home, feeds them drugs and booze, and rapes them - _and then winks at them the next day?_
 
-This is not the behaviour of people who warrant respect. These are the bumbling, desperate, insecurities of people who punch down. These people do not hold the power they want you to believe they do. 
+This is not the behaviour of people who warrant respect. These are the bumbling, desperate, insecurities of people who punch down. These people do not hold the power they want you to believe they do. Not anymore, at least.
 
 To quote one of my sources: "Tell the whole fucking world."
 
-So, as the series begins, bear in mind my goal: I want potential victims to spot abuse early on. I want them to be confident in their decision to report abuse. I want them to have someone to report it to. I want potential abusers to hear from these victims, in the hopes that they'll recognize themselves in their stories and smarten up in the future.
+So, as this series begins, bear in mind my goal: I want potential victims to learn what abuse looks like, and be able to spot it early. I want them to be confident in their decision to report abuse. I want them to have someone to report it to. I want potential abusers to hear from these victims, in the hopes that they'll recognize themselves in their stories and smarten up in the future.
 
 Most of all: I want the opera industry to know that it is not special. It is full of hard feeling, brave, even eccentric people - but it is a workplace, and these fuckers can no longer turn their studios into their own personal sexual fantasy.
