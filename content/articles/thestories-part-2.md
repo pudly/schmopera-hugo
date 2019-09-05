@@ -1,13 +1,13 @@
 +++
 author = ["authors/jenna.md"]
-categories = ""
+categories = "Editorial"
 date = "2019-09-05T04:00:00+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1567708417/media/2019/09/TheStories2_qzrydp.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
