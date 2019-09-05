@@ -1,12 +1,12 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Editorial"
-date = "2019-09-04T04:00:00+00:00"
+date = "2019-09-05T04:00:00+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
 postamble = ""
-preamble = "NEEDS PREAMBLE"
+preamble = "This is one part in a series of personal accounts of harassment, abuse, and assault in the opera and classical music industries. These stories are published as told to me, with some names and details withheld at the author's request.\n\nThe following was submitted by Zachary James."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1567647386/media/2019/09/TheStories1_rotxba.jpg"
 primary_image_credit = ""
 related_articles = []
@@ -26,6 +26,8 @@ He began to favor me in rehearsal and move me to the front in ensemble formation
 
 I felt extremely cool and included and validated. I was from a small town in the middle of Florida, with no connections at all and this supposed big-shot from NYC who could potentially help me on my journey had noticed me and taken an interest.
 
+>I was mortified and felt like an object. I felt trapped, stupid and used. I felt disgusting.
+
 He gave me an address and confirmed the day and time to meet at his place. I was extremely nervous while getting ready to go...imagine me as a 20-year-old kid, with an empty closet and no money, trying to build up my confidence and put together an outfit to go to a social gathering hosted by a big-shot director from New York City.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567646919/media/2019/09/ZJames_glxcdr.jpg){{% /md %}}
@@ -38,11 +40,15 @@ I arrived at his apartment and the lights were low, he showed me in and made sma
 
 He removed his clothes and began doing whatever he wanted to me. He inhaled poppers, a popular amyl nitrite psychoactive inhalant also known as video head cleaner. I didn't know what this was or the effects but he put it to my nose and told me to inhale. This repeated all night. He entered me and did whatever he wanted to me. To this day I do not know if he used a condom.
 
+>I was dizzy and felt like I was going to throw up.
+
 I was mortified and felt like an object. I felt trapped, stupid and used. I felt disgusting. It was never explained or admitted that he fooled me into coming to spend this night with him. At the next rehearsal he winked and smiled at me.
 
 Later that week he invited me to come over again and said that this time there would be more guys coming and he identified some of the other male students who would be in attendance from the chorus. I was dizzy and felt like I was going to throw up. While I felt victimized by him I had also felt special and singled out. When I realized he was going through the whole cast and taking his pick of the boys during his time working at the university, I was mortified and humiliated and felt like dirt.
 
 I left a message saying I had a family emergency and could not attend. He never spoke to me again during rehearsals. On opening night he said it was nice working with me. I was glad he was leaving and hoped I would not see him again. Years later, I was an apprentice artist at Central City Opera. I shuddered to see his name slated to direct one of the shows.
+
+>He tracked me down on Facebook and sent lascivious messages.
 
 I was understudying in his show and I was terrified to see him again. I thought about not going to Colorado, but I didn't want to miss this important opportunity, one of the first professional engagements I was offered. I played it cool and didn't interact with him. Then at a full company function, he asked me if he knew me from before that summer. I said no. He asked if I was sure, and then repeated, "have I _known_ you?"
 
