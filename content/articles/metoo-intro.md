@@ -28,21 +28,19 @@ I also received full, personal accounts by young artists, describing extended gr
 
 They were all pretty hard to read. Often they were about people I know, but most of them wanted to stay anonymous. Some of them were just heartbreaking and put me on a rollercoaster of anger and pity. 
 
-Some of them freaked me out a bit, because they were really familiar: denial that it was happening, guilt after it had happened, and opting to not tell a soul.
+Some of them freaked me out a bit, because they were really familiar: denial that it was happening, guilt after it had happened, and opting to not tell a soul. _I put myself in this situation_, goes the common excuse. _If I tell people, I'll be deemed a slut and no one will want to work with me_.
 
 I think a lot of people in the opera world felt a bit of a catalyst in the accusations aimed at Plácido Domingo. Somehow, it felt less isolated than the Levine stuff, and more personal than the Daniels stuff; it was as though, without realizing it, we were counting on someone like Domingo - the top tier of opera - to be a good guy, and keep opera's #metoo problem a matter of a few bad eggs. 
 
 But no. The fish certainly rots from the head down. And with the usual outrage and side-taking that happens in these cases, there also felt a good dose of apathy: _Of course he's creepy. He's a famous man and the opera industry has worshipped him for decades. Why wouldn't he be a creep like the rest of them?_
 
-Catalyst in Domingo case, initial call for stories
+I guess I'd just had it. We won't - and shouldn't - stop the uncovering of this shitty behaviour as more victims decide to come forward and name their abusers. It's a slow, inefficient way of smoking out all this garbage from the industry, and I guess I just wanted to speed it up a bit.
 
-Near-immediate flow of emails with stories about themselves and their colleagues in shitty situations
+Honestly, I wasn't even sure what I meant to do with these stories even as I was receiving them by the hour. What was to be gained by telling more stories of horrid behaviour? More cynicism? Even a boycott of opera?
 
-Personal stories, open secrets, "I heard" stuff about select coaches/conductors/teachers
+But it's the recurring theme of a power imbalance that has convinced me to publish these personal accounts in a series I'm tagging, #TheStories. These stories are largely anonymous, with names and companies excluded, so it's not about pointing fingers. 
 
-Small handful are willing to include names
-
-Mostly anonymous - there are recurring reasons why, like professional risk, "it doesn't really matter now", somehow not wanting to damage the abuser's reputation
+This series is about upsetting that power imbalance.
 
 Why publish? It's not about pointing fingers and accusing specific people, but about showing how common these stories are, and how easy it is to identify or deeply understand these stories even if you've never been a victim
 
