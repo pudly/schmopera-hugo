@@ -116,7 +116,6 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
-- content/articles/joel-allison-i-love-to-really-offer-to-the-audience-everything-that-i-possibly-can.md
 - content/articles/mysterious-barricades.md
 - content/articles/thestories-part-4.md
 - content/articles/thestories-part-2.md
