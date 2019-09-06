@@ -22,7 +22,7 @@ youtube_url = ""
 
 In 15 cities across Canada, roughly 400 musicians are offering free live concerts, "for the purpose of providing healing and connection to those who are affected by suicide, either in surviving a loss or in dealing with their own mental health issues."
 
-The series culminates on September 14, when from sunrise in St. John's, NL, to sunset in Victoria, BC, all of the concerts will be broadcast online. The 17-hour Canadian concert event also includes a live concert in Toronto, at 1pm at 80 Queen's Park. 
+The series culminates on September 14, when from sunrise in [St. John's, NL](https://www.mysteriousbarricades.org/st-johns), to sunset in [Victoria, BC](https://www.mysteriousbarricades.org/victoria), all of the concerts will be broadcast online. The 17-hour Canadian concert event also includes a live concert in Toronto, at 1pm at 80 Queen's Park. 
 
 This year's artists include Russell Braun, Elizabeth Turnbull, J. Patrick Raftery, Lara Ciekiewicz, Monica Whicher, Tracy Dahl, and Michael McMahon.
 
