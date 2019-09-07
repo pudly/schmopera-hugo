@@ -44,6 +44,9 @@ youtube_url = ""
 
 6. This is some of that Puccini irony: he gets almost finnicky with his tempo markings - a _ritardando_, then _col canto_, also a _ritenuto_ - but if everyone follows them, the musical effect is spontaneous and organic. It's handy to think of really observing the comma between the two "ascolta" statements; let the _ritenuto_ be a chance for you to sing two distinct \[a\] vowels, one to finish the first "ascolta", the next to start the second one.
 
+   Last detail: be ready for the _a tempo_ to hit, and don't be late on "le poche...".
+7. If you make sure you're singing legato in this measure, it'll be easier to do the staccato 
+
 <figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567885101/media/2019/09/AriaGuide-Donde-p5_e4fvv4.jpg){{% /md %}}
 
 </figure>
