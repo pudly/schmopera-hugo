@@ -18,7 +18,7 @@ title = "Stars of the Lyric"
 youtube_url = ""
 
 +++
-Chicago's Millennium Park was packed on Friday night for what always feels like the final hurrah of the city's outdoor concert season: _Stars of the Lyric_. With an ever-so-slight chill in the air, we threw on our jackets (for the first time in months!) and eagerly scooted into our orange plastic chairs for a cheery preview of the Lyric Opera of Chicago's 2019-2020 season. 
+Chicago's Millennium Park was packed on Friday night for what always feels like the final hurrah of the city's outdoor concert season: [_Stars of the Lyric_](https://www.lyricopera.org/productions/lyric-opera/stars-of-lyric-opera-at-millennium-park/). With an ever-so-slight chill in the air, we threw on our jackets (for the first time in months!) and eagerly scooted into our orange plastic chairs for a cheery preview of the Lyric Opera of Chicago's 2019-2020 season. 
 
 The night's program veered amiably from operatic hits and season teasers to some truly deep cuts of the repertoire, like Fernand's aria from Donizetti's rarely-performed _La favorite_, gamely sung by the always-appealing, always spot-on Lawrence Brownlee. The other unusual bit of programming was "Ves tabor spit" from Rachmaninoff's one-act, _Aleko_. That aria, sung by a spell-binding Krzysztof Baczyk ahead of his Lyric debut as Basilio in _The Barber of Seville_, was easily the highlight of the night for me. Baczyk has a voice of exceptional warmth and beauty, plus wonderfully specific musical instincts, oh, and perfect Russian diction. 
 
