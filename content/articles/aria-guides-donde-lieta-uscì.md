@@ -22,7 +22,11 @@ youtube_url = ""
 
 </figure>
 
-<figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567885068/media/2019/09/AriaGuide-Donde-p2_ynssza.png){{% /md %}}
+3. Get a head start with the rolled R in "Ritorna", so you can be really singing that pick-up E-flat. This is a big, sweeping phrase, and those really only work when every single note is sung. Puccini helps you with the _portamento_ in the word "Ritorna", where you can ride the spin of one vowel to connect two pitches. Pay attention to your vowels (are they morphing into something weird?) and your vibrato (does it tend to stop and start?) - and most importantly, be diligent about intonation on those G-flats.
+
+<figure data-type="image"{{% md %}}
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1567885068/media/2019/09/AriaGuide-Donde-p2_ynssza.png){{% /md %}}
 
 </figure>
 
