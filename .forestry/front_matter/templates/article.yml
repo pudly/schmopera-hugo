@@ -116,8 +116,8 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
-- content/articles/aria-guides-donde-lieta-uscì.md
 - content/articles/stars-of-the-lyric.md
+- content/articles/aria-guides-donde-lieta-uscì.md
 - content/articles/projecting-on-opera-oper-frankfurt-s-radamisto-in-revival.md
 - content/articles/thestories-part-4.md
 - content/articles/metoo-intro.md
