@@ -18,7 +18,7 @@ title = "A packed Millennium Park welcomes the Stars of Lyric Opera"
 youtube_url = ""
 
 +++
-Chicago's Millennium Park was packed on Friday night for what always feels like the final hurrah of the city's outdoor concert season: [_Stars of the Lyric_](https://www.lyricopera.org/productions/lyric-opera/stars-of-lyric-opera-at-millennium-park/). With an ever-so-slight chill in the air, we threw on our jackets (for the first time in months!) and eagerly scooted into our orange plastic chairs for a cheery preview of the Lyric Opera of Chicago's 2019-2020 season.
+Chicago's Millennium Park was packed on Friday night for what always feels like the final hurrah of the city's outdoor concert season: [_Stars of Lyric Opera_](https://www.lyricopera.org/productions/lyric-opera/stars-of-lyric-opera-at-millennium-park/). With an ever-so-slight chill in the air, we threw on our jackets (for the first time in months!) and eagerly scooted into our orange plastic chairs for a cheery preview of the Lyric Opera of Chicago's 2019-2020 season.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567902593/media/2019/09/StarsofLyric2_f29d39.jpg){{% /md %}}
 
