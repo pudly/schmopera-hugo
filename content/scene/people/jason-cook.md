@@ -1,7 +1,7 @@
 +++
 discipline = "Baritone"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1567968451/media/2019/09/JasonCook_bnfq2x.jpg"
-primary_image_credit = "Ivna Ponce"
+primary_image_credit = "Ivan Ponce"
 related_companies = ["scene/companies/vancouver-opera.md"]
 slug = "jason-cook"
 title = "Jason Cook"
