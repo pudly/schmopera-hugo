@@ -44,9 +44,9 @@ Vocally, Cook is a force of nature. His powerful, colourful Baritone added stren
 
 Putting together a Beast is difficult to make believable, particularly in a small theatre. Áine Plunkett's makeup was seamless, from a huge beard, horns, face makeup, even hand makeup. The makeup application was impressive, as was Cook's ability to have his emotions read through so much makeup and hair obscuring his features.
 
-Costume design by Stephanie Ko was beautiful. Gorgeous, sumptuous gowns and suits with lush fabrics perfectly set the period and style with virtually no set pieces. Likewise the projections onto the draped fabric were subtle and tasteful and made the small theatre feel simultaneously spacious and intimate.
+Costume design by Stephanie Ko is beautiful. Gorgeous, sumptuous gowns and suits with lush fabrics perfectly set the period and style with virtually no set pieces. Likewise, the projections onto the draped fabric are subtle and tasteful and made the small theatre feel simultaneously spacious and intimate.
 
-Perri Lo as Music Director brought great skill and sensitivity to a challenging score. With a small chamber opera, and only 3 characters, Lo did a masterful job of performing the music without ever getting in the way of the voices or text.
+Music Director Perri Lo brings great skill and sensitivity to a challenging score. With a small chamber opera, and only 3 characters, Lo did a masterful job of performing the music without ever getting in the way of the voices or text.
 
 The score itself was haunting, and felt largely unresolved throughout giving a constant sense of tension to the story. There were ongoing dynamic shifts of mood and intensity that were clever and unexpected.
 
