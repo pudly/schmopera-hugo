@@ -24,7 +24,7 @@ Opening the show is Cociani herself as the Enchantress. In a similar vein to Dis
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567956651/media/2019/09/EastVanOpera3of356_ddcqcf.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Perri Lo (Music Director) in Beauty's Beast, East Van Opera, 2019. Photo: Diamond's Edge Photography.</figcaption>
 
 </figure>
 
@@ -34,7 +34,7 @@ Anna Shill as Belle is the quintessential ingenue. With a bright, sweet soprano,
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567956661/media/2019/09/EastVanOpera11of356_yyqepz.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Allison Cociani (composer, Enchantress) in Beauty's Beast, East Van Opera, 2019. Photo: Diamond's Edge Photography.</figcaption>
 
 </figure>
 
@@ -44,7 +44,7 @@ Vocally, Cook is a force of nature. His powerful, colourful Baritone added stren
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567956705/media/2019/09/EastVanOpera252of356_se983c.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Jason Cook (Beast) in Beauty's Beast, East Van Opera, 2019. Photo: Diamond's Edge Photography.</figcaption>
 
 </figure>
 
@@ -54,7 +54,7 @@ Costume design by Stephanie Ko is beautiful. Gorgeous, sumptuous gowns and suits
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567956681/media/2019/09/EastVanOpera138of356_d5mmrw.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Anna Shill (Belle) and Jason Cook (Beast) in Beauty's Beast, East Van Opera, 2019. Photo: Diamond's Edge Photography.</figcaption>
 
 </figure>
 
@@ -64,7 +64,7 @@ The score itself was haunting, and felt largely unresolved throughout giving a c
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567956696/media/2019/09/EastVanOpera351of356_u9ojjb.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Anna Shill (Belle) and Jason Cook (Beast) in Beauty's Beast, East Van Opera, 2019. Photo: Diamond's Edge Photography.</figcaption>
 
 </figure>
 
@@ -74,6 +74,6 @@ East Van Opera has been an innovative, risk-taking company, and presenting new w
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567956670/media/2019/09/EastVanOpera104of356_rqc4li.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>(l-r) Jason Cook (Beast), Anna Shill (Belle), and Allison Cociani (composer, Enchantress) in Beauty's Beast, East Van Opera, 2019. Photo: Diamond's Edge Photography.</figcaption>
 
 </figure>
