@@ -52,4 +52,4 @@ The score itself was haunting, and felt largely unresolved throughout giving a c
 
 Finally, the entire show opened with a greeting and song by xʷməθkʷəy̓əm (Musqueam)/ Sḵwx̱wú7mesh (Squamish) artist Sempulyan. He performed the Paddle song and was a wonderful inclusion of Indigenous artists as a part of the performance.
 
-East Van Opera has been an innovative, risk-taking company, and presenting new works such as Beauty’s Beast keeps them at the leading edge of contemporary opera in Vancouver.
+East Van Opera has been an innovative, risk-taking company, and presenting new works such as _Beauty's Beast_ keeps them at the leading edge of contemporary opera in Vancouver.
