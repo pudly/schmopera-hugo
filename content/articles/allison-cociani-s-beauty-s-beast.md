@@ -39,7 +39,7 @@ Anna Shill as Belle is the quintessential ingenue. With a bright, sweet soprano,
 
 Jason Cook as the titular Beast positively steals the show. His portrayal has an immediacy and desperation from the moment he sees Belle. Desperate to win her love, he pushes her, angry at her reluctance and redoubling his efforts with gifts, pleading, and more anger. It's only when he's told that he will never win her love with expectation of reciprocity that he actually attempts to win her for who she is, with awkward, charming flirtations that were delightful to watch.
 
-Vocally, Cook is a force of nature. His powerful, colourful Baritone added strength and menace to his character, and was positively breathtaking.
+Vocally, Cook is a force of nature. His powerful, colourful baritone adds strength and menace to his character, and is positively breathtaking.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567956705/media/2019/09/EastVanOpera252of356_se983c.jpg){{% /md %}}
 
