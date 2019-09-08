@@ -19,7 +19,7 @@ youtube_url = ""
 +++
 With the rise of independent opera companies, both in Vancouver and around the world, it's wonderful to see new compositions by modern composers on season line-ups everywhere. As with Allison Cociani's newest work, [_Beauty's Beast_](https://eastvanopera.com/beautys-beast), it explores classic stories through a modern lens, using unconventional tonalities, harmonic tension, and a lush, challenging score.
 
-Opening the show is Cociani herself as the Enchantress. In a similar vein to Disney's _Beauty and the Beast_, we begin with a prologue: there is a cruel Prince who turns away an old woman seeking shelter for the night; the old woman curses the Prince to become a beast. In this version, the Beast only has a year to earn the love of a woman, or his heart will stop. It's an interesting twist on the tale, that adds a sense of immediacy to the love story.
+Opening the show is [Cociani](/scene/people/allison-cociani/) herself as the Enchantress. In a similar vein to Disney's _Beauty and the Beast_, we begin with a prologue: there is a cruel Prince who turns away an old woman seeking shelter for the night; the old woman curses the Prince to become a beast. In this version, the Beast only has a year to earn the love of a woman, or his heart will stop. It's an interesting twist on the tale, that adds a sense of immediacy to the love story.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567956651/media/2019/09/EastVanOpera3of356_ddcqcf.jpg){{% /md %}}
 
@@ -29,7 +29,7 @@ Opening the show is Cociani herself as the Enchantress. In a similar vein to Dis
 
 Cociani as the Enchantress is the narrator. Her voice is light and clear, and she tells the story with great emotion and a touch of foreboding. Other than the prologue, she only appears occasionally to underscore the forward momentum of the plot. The prologue was underscored with shadow-puppet-like projections that show the progression of the characters as the Enchantress narrates.
 
-Anna Shill as Belle is the quintessential ingenue. With a bright, sweet soprano, she portrays Belle as the innocent girl who gradually sees the good inside the Beast. She finds she truly loves him, but hopefully not too late to save him.
+[Anna Shill](/scene/people/anna-shill/) as Belle is the quintessential ingenue. With a bright, sweet soprano, she portrays Belle as the innocent girl who gradually sees the good inside the Beast. She finds she truly loves him, but hopefully not too late to save him.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567956661/media/2019/09/EastVanOpera11of356_yyqepz.jpg){{% /md %}}
 
