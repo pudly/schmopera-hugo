@@ -3,18 +3,17 @@ author = ["authors/hannah-de-priest.md"]
 categories = "Review"
 date = "2019-09-07T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "You can read more about the Lyric Opera of Chicago's [upcoming season](https://www.lyricopera.org/concertstickets/1718-lyric-opera-season). We at Schmopera are looking forward to covering their entire performance calendar in 2019-20... Stay tuned!"
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
-related_articles = []
-related_companies = []
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1567902935/media/2019/09/sqStarsofLyric_gafadk.jpg"
+primary_image_credit = "Sir Andrew Davis conducts Stars of Lyric Opera at Millennium Park, 2019. Photo: Todd Rosenberg."
+related_articles = ["articles/inflatable-beasts-vocal-brilliance-locs-siegfried.md", "articles/audra-mcdonald-and-the-art-of-perfection.md"]
+related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
 related_people = []
 short_description = "The highlight of the evening, for me, was Matthew Polenzani and Anthony Clark Evans singing the famous tenor/baritone duet from Bizet's The Pearl Fishers. This was old-school opera glamour and Polenzani's elegant tenor found a lovely match in Clark Evans' rich, easy baritone. The Pearl Fishers, with Polenzani as Nadir, comes to LOC in a new-to-Chicago production at the end of November. "
 slug = "stars-of-the-lyric"
-title = "A packed Millennium Park welcomes the Stars of Lyric Opera"
+title = "Stars of Lyric Opera: a cheery season preview at Millennium Park"
 youtube_url = ""
 
 +++
