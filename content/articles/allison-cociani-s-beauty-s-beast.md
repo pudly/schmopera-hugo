@@ -17,7 +17,7 @@ title = "The Beast steals the show in world premiere of Beauty's Beast"
 youtube_url = ""
 
 +++
-With the rise of independent opera companies, both in Vancouver and around the world, it's wonderful to see new compositions by modern composers on season line-ups everywhere. As with Allison Cociani's newest work, _Beauty's Beast_, it explores classic stories through a modern lens, using unconventional tonalities, harmonic tension, and a lush, challenging score.
+With the rise of independent opera companies, both in Vancouver and around the world, it's wonderful to see new compositions by modern composers on season line-ups everywhere. As with Allison Cociani's newest work, [_Beauty's Beast_](https://eastvanopera.com/beautys-beast), it explores classic stories through a modern lens, using unconventional tonalities, harmonic tension, and a lush, challenging score.
 
 Opening the show is Cociani herself as the Enchantress. In a similar vein to Disney's _Beauty and the Beast_, we begin with a prologue: there is a cruel Prince who turns away an old woman seeking shelter for the night; the old woman curses the Prince to become a beast. In this version, the Beast only has a year to earn the love of a woman, or his heart will stop. It's an interesting twist on the tale, that adds a sense of immediacy to the love story.
 
