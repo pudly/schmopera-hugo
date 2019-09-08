@@ -3,7 +3,6 @@ author = ["authors/melissa-ratcliff.md"]
 categories = "Review"
 date = "2019-09-08T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "For more from East Van Opera, follow them on [Facebook](https://www.facebook.com/eastvanopera/) and [Twitter](https://twitter.com/eastvanopera)."
 preamble = ""
@@ -13,8 +12,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "In this version, the Beast only has a year to earn the love of a woman, or his heart will stop. It's an interesting twist on the tale, that adds a sense of immediacy to the love story. "
-slug = "allison-cocianis-beautys-beast"
-title = "Allison Cociani's Beauty's Beast"
+slug = "the-beast-steals-the-show-in-world-premiere-of-beautys-beast"
+title = "The Beast steals the show in world premiere of Beauty's Beast"
 youtube_url = ""
 
 +++
