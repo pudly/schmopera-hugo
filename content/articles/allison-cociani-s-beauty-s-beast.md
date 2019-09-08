@@ -5,7 +5,7 @@ date = "2019-09-08T04:00:00+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "For more from East Van Opera, follow them on [Facebook](https://www.facebook.com/eastvanopera/) and [Twitter](https://twitter.com/eastvanopera)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1567956255/media/2019/09/sqEastVanOpera171of356_bjgdc2.jpg"
 primary_image_credit = ""
@@ -42,14 +42,38 @@ Jason Cook as the titular Beast positively steals the show. His portrayal has an
 
 Vocally, Cook is a force of nature. His powerful, colourful Baritone added strength and menace to his character, and was positively breathtaking.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 Putting together a Beast is difficult to make believable, particularly in a small theatre. Áine Plunkett's makeup was seamless, from a huge beard, horns, face makeup, even hand makeup. The makeup application was impressive, as was Cook's ability to have his emotions read through so much makeup and hair obscuring his features.
 
 Costume design by Stephanie Ko is beautiful. Gorgeous, sumptuous gowns and suits with lush fabrics perfectly set the period and style with virtually no set pieces. Likewise, the projections onto the draped fabric are subtle and tasteful and made the small theatre feel simultaneously spacious and intimate.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 Music Director Perri Lo brings great skill and sensitivity to a challenging score. With a small chamber opera, and only 3 characters, Lo did a masterful job of performing the music without ever getting in the way of the voices or text.
 
 The score itself was haunting, and felt largely unresolved throughout giving a constant sense of tension to the story. There were ongoing dynamic shifts of mood and intensity that were clever and unexpected.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 Finally, the entire show opened with a greeting and song by xʷməθkʷəy̓əm (Musqueam)/ Sḵwx̱wú7mesh (Squamish) artist Sempulyan. He performed the Paddle song and was a wonderful inclusion of Indigenous artists as a part of the performance.
 
 East Van Opera has been an innovative, risk-taking company, and presenting new works such as _Beauty's Beast_ keeps them at the leading edge of contemporary opera in Vancouver.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
