@@ -1,14 +1,14 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Editorial"
-date = "2019-09-05T14:00:00+00:00"
+date = "2019-09-09T00:00:00+00:00"
 disclaimer = ""
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1567647468/media/2019/09/sqTheStoriesIntro_tqw4qt.jpg"
 primary_image_credit = ""
-related_articles = []
+related_articles = ["articles/domingo.md", "articles/when-opera-companies-protect-abusers.md"]
 related_companies = []
 related_people = []
 short_description = "Honestly, I wasn't even sure what I meant to do with these stories even as I was receiving them by the hour. What was to be gained by telling more stories of horrid behaviour? More cynicism? Even a boycott of opera?"
