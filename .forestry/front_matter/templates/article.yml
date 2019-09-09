@@ -116,13 +116,13 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/metoo-intro.md
 - content/articles/stars-of-the-lyric.md
 - content/articles/allison-cociani-s-beauty-s-beast.md
 - content/articles/thestories-part-5.md
 - content/articles/aria-guides-donde-lieta-uscì.md
 - content/articles/projecting-on-opera-oper-frankfurt-s-radamisto-in-revival.md
 - content/articles/thestories-part-4.md
-- content/articles/metoo-intro.md
 - content/articles/mysterious-barricades.md
 - content/articles/thestories-part-2.md
 - content/articles/thestories-part-i.md

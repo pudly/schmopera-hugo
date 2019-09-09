@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2019-09-05T14:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
@@ -24,13 +23,13 @@ I got my first submission within an hour of posting, and they continue today.
 
 It was like watching a car crash, reading these stories. Some were piecemeal anecdotes: the voice teacher who gets old-school handsy with his female students, or the coach who crosses the line between career advice and intimacy. There were the inevitable "open secrets", about music administrators with a history of sexual harassment, and how Barenboim is a general nightmare.
 
-I also received full, personal accounts by young artists, describing extended grooming and abuse - in some cases, assault - from a professional superior. 
+I also received full, personal accounts by young artists, describing extended grooming and abuse - in some cases, assault - from a professional superior.
 
-They were all pretty hard to read. Often they were about people I know, but most of them wanted to stay anonymous. Some of them were just heartbreaking and put me on a rollercoaster of anger and pity. 
+They were all pretty hard to read. Often they were about people I know, but most of them wanted to stay anonymous. Some of them were just heartbreaking and put me on a rollercoaster of anger and pity.
 
 Some of them freaked me out a bit, because they were really familiar: denial that it was happening, guilt after it had happened, and opting to not tell a soul. _I put myself in this situation_, goes the common excuse. _If I tell people, I'll be deemed a slut and no one will want to work with me_.
 
-I think a lot of people in the opera world felt a bit of a catalyst in the accusations aimed at Plácido Domingo. Somehow, it felt less isolated than the Levine stuff, and more personal than the Daniels stuff; it was as though, without realizing it, we were counting on someone like Domingo - who stands for the top tier of opera - to be a good guy, and keep opera's #metoo problem a matter of a few bad eggs. 
+I think a lot of people in the opera world felt a bit of a catalyst in the accusations aimed at Plácido Domingo. Somehow, it felt less isolated than the Levine stuff, and more personal than the Daniels stuff; it was as though, without realizing it, we were counting on someone like Domingo - who stands for the top tier of opera - to be a good guy, and keep opera's #metoo problem a matter of a few bad eggs.
 
 But no. The fish certainly rots from the head down. And with the usual outrage and side-taking that happens in these cases, there also felt a good dose of apathy: _Of course he's creepy. He's a famous man and the opera industry has worshipped him for decades. Why wouldn't he be a creep like the rest of them?_
 
@@ -40,7 +39,7 @@ Honestly, I wasn't even sure what I meant to do with these stories even as I was
 
 But it's the recurring theme of a power imbalance that has convinced me to publish these personal accounts in a series I'm tagging, #TheStories.
 
-It's not about pointing fingers. This series is about upending that power imbalance. As I read these stories, I started to think of these abusers as a sorry lot. What kind of boss ignores their employees' physical boundaries, even after they've been asked to stop? What kind of teacher uses his power - and private studio - to comment on a student's breasts? What kind of functioning, grown-ass adult lures a younger person to their home, feeds them drugs and booze, and rapes them - _and then winks at them the next day?_
+It's not about pointing fingers. This series is about upending that power imbalance. As I read these stories, I started to think of these abusers as a sorry lot. What kind of boss ignores their employees' physical boundaries, even after they've been asked to stop? What kind of teacher uses his power - and private studio - to comment on a student's breasts? What kind of functioning, grown-ass adult lures a younger person to their home, feeds them drugs and booze, and rapes them - _and then smiles at them the next day?_
 
 This is not the behaviour of people who warrant respect. These are the bumbling, desperate, insecurities of people who punch down. These people do not hold the power they want you to believe they do. Not anymore, at least.
 
