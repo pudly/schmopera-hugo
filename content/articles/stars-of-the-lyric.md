@@ -31,7 +31,7 @@ The night's program veered amiably from operatic hits and season teasers to some
 
 (By the by, Chicago audiences will have the rare chance to see the entirety of _Aleko_ this season. Not at Lyric, but at [Chicago Opera Theater](https://www.chicagooperatheater.org), where it will appear as a double-bill with Joby Talbot's _Everest_.)
 
-The evening's centerpiece offering was a substantial preview of the mind-bending patter and athletic vocalism that will open the Lyric's season: Rossini's _The Barber of Seville_. Each of the featured cast members proved winsome. Adam Plachetka gave a delightful, polished "Largo al factotum," Lawrence Brownlee lent his reliably clean, easy vocalism for a lovely rendition of "Ecco ridente in cielo," and French soprano Marianne Crebassa breezed through a sweet "Una voce poco fa." The night ended with the madcap Act I finale, featuring Ryan Opera Center alum Levi Hernandez as a pitch-perfect Dr. Bartolo. (Alessandro Corbelli will take the role for the Lyric performances later this month.)
+The evening's centerpiece offering was a substantial preview of the mind-bending patter and athletic vocalism that will open the Lyric's season: Rossini's _The Barber of Seville_. Each of the featured cast members proved winsome. Adam Plachetka gave a delightful, polished "Largo al factotum," Lawrence Brownlee lent his reliably clean, easy vocalism for a lovely rendition of "Ecco ridente in cielo," and French mezzo-soprano Marianne Crebassa breezed through a sweet "Una voce poco fa." The night ended with the madcap Act I finale, featuring Ryan Opera Center alum Levi Hernandez as a pitch-perfect Dr. Bartolo. (Alessandro Corbelli will take the role for the Lyric performances later this month.)
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567902646/media/2019/09/StarsofLyric3_iyh9m9.jpg){{% /md %}}
 
@@ -39,7 +39,7 @@ The evening's centerpiece offering was a substantial preview of the mind-bending
 
 </figure>
 
-Elsewhere on the program, four current members of the Patrick G. and Shirley W. Ryan Center shone brightly. Soprano Mathilda Edge's "Un bel di" from _Madame Butterfly_ revealed a beautiful, big tone with an enchanting, youthful shimmer. Mezzo-soprano Kayleigh Decker and baritone Christopher Kenney, (who were each recently awarded 2019 Luminarts Arts Fellowships in the women's and men's voice categories, respectively), gave a bewitching performance of the Zerlina/Don Giovanni duet "Là ci darem la mano." Tenor Eric Ferring made a brief but charming appearance as the Sergeant in the Act I _Barber_ finale.
+Elsewhere on the program, four current members of The Patrick G. and Shirley W. Ryan Center shone brightly. Soprano Mathilda Edge's "Un bel dì" from _Madame Butterfly_ revealed a beautiful, big tone with an enchanting, youthful shimmer. Mezzo-soprano Kayleigh Decker and baritone Christopher Kenney, (who were each recently awarded 2019 Luminarts Arts Fellowships in the women's and men's voice categories, respectively), gave a bewitching performance of the Zerlina/Don Giovanni duet "Là ci darem la mano." Tenor Eric Ferring made a brief but charming appearance as the Sergeant in the Act I _Barber_ finale.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567902667/media/2019/09/StarsofLyric4_igumms.jpg){{% /md %}}
 
