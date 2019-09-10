@@ -2,7 +2,7 @@
 date = "2015-02-03T23:18:00-05:00"
 email = "gregoryfinney@gmail.com"
 lastmod = "2015-05-30T21:07:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1568079221/media/2019/09/GregFinney_luzpc0.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1568080511/media/2019/09/Greg-7375_nqwaot.jpg"
 publishDate = "2015-02-03T23:18:00-05:00"
 short_bio = "Gregory Finney is a Toronto-based baritone, with experience as a singer, actor and dancer. He is a frequent contributor for Schmopera.com. He&#039;s a graduate of Acadia University in Voice Performance, Music Theatre &amp; Dance, and he&#039;s one of Toronto&#039;s busiest singers."
 slug = "greg"
