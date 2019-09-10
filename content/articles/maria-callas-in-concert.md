@@ -30,6 +30,10 @@ Bolstering verisimilitude were some striking sonic details such as the clack of 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568074192/media/2019/09/Callas1_s0d398.jpg){{% /md %}}
 
+<figcaption>BASE Hologram interactive concert performance with Roy Orbison and Maria Callas at the Jazz at Lincoln Center Frederick P. Rose Hall on Sunday January 14, 2018, in New York. Photo by Evan Agostini for BASE Hologram.</figcaption>
+
+</figure>
+
 For the conductor, a concert like this must be akin to conducting a film score. Indeed, as a leading conductor of films and video games, Noone worked wonders as regards precision and timing, despite a couple of moments of slight misalignment, which merely exposed the artifice of the undertaking. Next to Noone's music desk was a tablet-sized screen that served as a click track for the concert, thus further dispelling the smoke and mirrors.
 
 Callas was by many accounts, "an artist who was known by conductors for being incredibly difficult to accompany," as Noone herself notes in an insightful [interview she gave for WFMT](https://www.wfmt.com/2019/09/05/meet-the-conductor-whos-resurrecting-maria-callas-in-hologram-form/) about the hologram project. 
@@ -42,10 +46,6 @@ Credit must be given to Noone and Wadsworth for avoiding the pitfalls of gimmick
 
 At the end of the program, "La Divina" did not disappoint the audience in her two encores, "Vissi d'arte" from Puccini's _Tosca_ and "Casta Diva" from Bellini's _Norma_ - arguably the two most iconic Callas staples. In what was otherwise a technologically flawless concert, during the final encore a technical glitch made both the hologram and audio first freeze and then quickly fadeout, thus bringing the evening to perhaps a quicker end than intended. Though amusing at first, it was also poetically appropriate for the abruptness of the hologram's fadeout unwittingly reflected the real Callas' own all-too-abrupt departure not just from the stage, but from the world back in 1977 at the age of 53.
 
-Coming into this concert, I wasn't exactly sure what to expect. Coming out of it, however, I felt a rekindled appreciation for Callas as a stage artist. It is one thing to watch her videos on YouTube and another to experience her on a grand stage, even if only as a digital projection. Whatever the arguments may be about Callas as a vocalist, it's clearer to me why she was and continues to be so beloved by audiences across the globe and across generations.
-
-<figcaption>BASE Hologram interactive concert performance with Roy Orbison and Maria Callas at the Jazz at Lincoln Center Frederick P. Rose Hall on Sunday January 14, 2018, in New York. Photo by Evan Agostini for BASE Hologram.</figcaption>
-
 </figure>
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568074209/media/2019/09/Callas2_si7zhj.jpg){{% /md %}}
@@ -53,3 +53,5 @@ Coming into this concert, I wasn't exactly sure what to expect. Coming out of it
 <figcaption>BASE Hologram interactive concert performance with Roy Orbison and Maria Callas at the Jazz at Lincoln Center Frederick P. Rose Hall on Sunday January 14, 2018, in New York. Photo by Evan Agostini for BASE Hologram.</figcaption>
 
 </figure>
+
+Coming into this concert, I wasn't exactly sure what to expect. Coming out of it, however, I felt a rekindled appreciation for Callas as a stage artist. It is one thing to watch her videos on YouTube and another to experience her on a grand stage, even if only as a digital projection. Whatever the arguments may be about Callas as a vocalist, it's clearer to me why she was and continues to be so beloved by audiences across the globe and across generations.
