@@ -3,6 +3,7 @@ author = ["authors/michael-pecak.md"]
 categories = "Review"
 date = "2019-09-09T04:00:00+00:00"
 disclaimer = ""
+draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
