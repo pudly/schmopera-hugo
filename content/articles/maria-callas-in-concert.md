@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "Coming into this concert, I wasn’t exactly sure what to expect. Coming out of it, however, I felt a rekindled appreciation for Callas as a stage artist."
-slug = "maria-callas-in-concert"
-title = "Maria Callas in Concert"
+slug = "an-audible-huff-of-awe-and-amusement-maria-callas-in-concert"
+title = "An audible huff of awe and amusement: Maria Callas in Concert"
 youtube_url = ""
 
 +++
