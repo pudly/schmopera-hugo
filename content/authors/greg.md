@@ -15,6 +15,10 @@ url = "https://www.facebook.com/gregory.finney?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/gregory_finney"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/giggyhertz/"
 
 +++
 Gregory Finney is a Toronto-based baritone, with experience as a singer, actor and dancer. He's a graduate of Acadia University in Voice Performance, Music Theatre & Dance, and he's one of Toronto's busiest singers.
