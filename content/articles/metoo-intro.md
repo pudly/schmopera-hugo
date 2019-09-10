@@ -49,4 +49,4 @@ So, as this series begins, bear in mind my goal: I want potential victims to lea
 
 Most of all: I want the opera industry to know that it is not special. It is full of people with large emotional spectrums, who are brave and even eccentric - but artsy as it may be, the industry is still exactly that: a workplace. And these fuckers can no longer turn their studios into their own personal sexual fantasy.
 
-Okay. Here goes.
+Okay. Here goes... [#TheStories, Part I](/thestories-part-i/ "TheStories, Part I")
