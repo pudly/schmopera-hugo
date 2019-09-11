@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1568165338/media/2019/09/TheStories-part7_ozmzs5.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
@@ -31,3 +31,7 @@ We were staying in dorms on campus and in the dressing rooms for the show, some 
 It's sad to say that I feel lucky that this is the worst thing that has happened to me in this business. I wish I had done more at the time. Looking back, I am so outraged that the leaders of the festival weren't immediately shocked and angered by what had happened to me, and that they didn't take any action to secure the safety of me and my fellow singers.
 
 I'm not someone who had money to do expensive month- or summer-long opera programs, or even to get myself to the city where auditions for these programs are held. This was my first full role that I learned and it was an important line on my resume. I have never recommended the program to anyone and have told my friends and their students not to attend it. I understand that the organization now no longer exists and that Engdahl [died two years ago](https://theatreartsguild.com/in-memoriam-james-engdahl/).
+
+***
+
+Photo: [Mark Fischer](https://www.flickr.com/photos/fischerfotos/) via [Flickr](https://creativecommons.org/licenses/by/2.0/legalcode).
