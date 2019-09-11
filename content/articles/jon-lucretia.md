@@ -17,7 +17,7 @@ title = "A Lucretia rich in symbolism from Journey North Opera"
 youtube_url = ""
 
 +++
-After a four-year hiatus, Journey Opera North resumes their artistic activities with Britten's _The Rape of Lucretia_ at The Minnsky Theater in North West Minneapolis. Producer Colleen Meier introduced the show to the audience by saying that it was "just the perfect time" to put on an ambitious production of the musically difficult and thematically dark Britten opera. Given the #MeToo movement and most recently, the allegations of harassment against Plácido Domingo, I tend to agree.
+After a four-year hiatus, Journey North Opera resumes their artistic activities with Britten's _The Rape of Lucretia_ at The Minnsky Theater in North West Minneapolis. Producer Colleen Meier introduced the show to the audience by saying that it was "just the perfect time" to put on an ambitious production of the musically difficult and thematically dark Britten opera. Given the #MeToo movement and most recently, the allegations of harassment against Plácido Domingo, I tend to agree.
 
 > This Male Chorus seems bloodthirsty throughout.
 
@@ -37,8 +37,8 @@ The confrontation/rape scene is where Briana Moynihan's powerful mezzo voice rin
 
 Once the Male and Female Chorus take over and narrate the horrific act, Tarquinius' actions became slow-motion. Though the creative team chose a less explicit approach to the crime, the slow motion made it extremely disturbing. The audience is able to see Lucretia's face the entire time, while the Chorus and orchestra play crashing and clashing chords of agony - an effect dramatic choice that equally highlighted the power of the music, text, and acting abilities of the cast.
 
-Lucretia commits suicide robed in purple an obvious Christ image (Jesus was dressed in a purple robe after being scourged by Roman guards). After Lucretia's suicide the chorus puts the blind folds back on the characters, except for the young servant Lucia (sung by [Carole Schultz](https://caroleschultz.com/)). Lucia's naïveté and adoration for Lucretia is evident during the entire opera, and yet after her suicide and the subsequent political maneuvers, Lucia cannot return to the blindness that the others did. 
+Lucretia commits suicide robed in purple an obvious Christ image (Jesus was dressed in a purple robe after being scourged by Roman guards). After Lucretia's suicide the chorus puts the blind folds back on the characters, except for the young servant Lucia (sung by [Carole Schultz](https://caroleschultz.com/)). Lucia's naïveté and adoration for Lucretia is evident during the entire opera, and yet after her suicide and the subsequent political maneuvers, Lucia cannot return to the blindness that the others did.
 
 Everyone seems to accept and return to their routine after her death. Perhaps this is Ms. Carlson's main point: with horrific rape as an example, the use of women in war and politics throughout the ages. While the Male Chorus takes the final minutes to state that Christianity will wipe away the suffering in 500 years, the Female Chorus wakes Lucretia and she seems to join the deity chorus. The rest of the players in her tragedy move on from her death - grim sight, contrasting the Christian message, and Lucretia having earned the right to observe humanity as a mythological creature.
 
-This is a powerful and symbolically rich production by the whole creative team and cast at Journey Opera North. I can't wait to see what they have to offer the Twin Cities art scene in the future!
+This is a powerful and symbolically rich production by the whole creative team and cast at Journey North Opera. I can't wait to see what they have to offer the Twin Cities art scene in the future!
