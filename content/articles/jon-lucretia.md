@@ -13,7 +13,7 @@ related_companies = ["scene/companies/journey-opera-north.md"]
 related_people = []
 short_description = "The Male Chorus (sung fiercely and with crystal clear diction by tenor Wesley Frye) was dressed as half man half stag. The Female Chorus, played by lyric soprano Amy Wolf was a more feminine version and also had antlers. The head pieces were quite ornate. "
 slug = "a-lucretia-rich-in-symbolism-from-journey-opera-north"
-title = "A Lucretia rich in symbolism from Journey Opera North"
+title = "A Lucretia rich in symbolism from Journey North Opera"
 youtube_url = ""
 
 +++
