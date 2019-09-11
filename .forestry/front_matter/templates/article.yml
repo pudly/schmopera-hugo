@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/scene/companies/journey-north-opera.md
 - content/articles/jon-lucretia.md
 - content/articles/thestories-part-6.md
 - content/articles/maria-callas-in-concert.md
