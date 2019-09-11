@@ -3,7 +3,6 @@ author = ["authors/callie-cooper.md"]
 categories = "Review"
 date = "2019-09-09T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
@@ -13,12 +12,14 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "The Male Chorus (sung fiercely and with crystal clear diction by tenor Wesley Frye) was dressed as half man half stag. The Female Chorus, played by lyric soprano Amy Wolf was a more feminine version and also had antlers. The head pieces were quite ornate. "
-slug = "jon-lucretia"
-title = "JON Lucretia"
+slug = "a-lucretia-rich-in-symbolism-from-journey-opera-north"
+title = "A Lucretia rich in symbolism from Journey Opera North"
 youtube_url = ""
 
 +++
 After a four-year hiatus, Journey Opera North resumes their artistic activities with Britten's _The Rape of Lucretia_ at The Minnsky Theater in North West Minneapolis. Producer Colleen Meier introduced the show to the audience by saying that it was "just the perfect time" to put on an ambitious production of the musically difficult and thematically dark Britten opera. Given the #MeToo movement and most recently, the allegations of harassment against Plácido Domingo, I tend to agree.
+
+> This Male Chorus seems bloodthirsty throughout.
 
 Costume designer [Stacey Palmer](https://staceyjpalmer.wixsite.com/costumedesign) outdoes herself on the Greek Chorus' costumes. The Male Chorus (sung fiercely and with crystal clear diction by tenor Wesley Frye) iss dressed as half man half stag. The Female Chorus, played by lyric soprano [Amy Wolf](http://amywolfsoprano.com/) is a more feminine version and also had ornate antlers.
 
@@ -34,7 +35,7 @@ The confrontation/rape scene is where Briana Moynihan's powerful mezzo voice rin
 
 > Everyone seems to accept and return to their routine after her death.
 
-Once the Male and Female Chorus take over, narrating the horrific act, Tarquinius' actions became slow-motion. Though the creative team chose a less explicit approach to the crime, the slow motion made it extremely disturbing. The audience is able to see Lucretia's face the entire time, while the Chorus and orchestra play crashing and clashing chords of agony - an effect dramatic choice that equally highlighted the power of the music, text, and acting abilities of the cast.
+Once the Male and Female Chorus take over and narrate the horrific act, Tarquinius' actions became slow-motion. Though the creative team chose a less explicit approach to the crime, the slow motion made it extremely disturbing. The audience is able to see Lucretia's face the entire time, while the Chorus and orchestra play crashing and clashing chords of agony - an effect dramatic choice that equally highlighted the power of the music, text, and acting abilities of the cast.
 
 Lucretia commits suicide robed in purple an obvious Christ image (Jesus was dressed in a purple robe after being scourged by Roman guards). After Lucretia's suicide the chorus puts the blind folds back on the characters, except for the young servant Lucia. Lucia was sung by [Carole Schultz](https://caroleschultz.com/). Lucia's naïveté and adoration for Lucretia is evident during the entire opera, and yet after her suicide and the subsequent political maneuvers, Lucia cannot return to the blindness that the others did. 
 
