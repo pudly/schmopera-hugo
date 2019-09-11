@@ -26,7 +26,7 @@ Created by the company [BASE Hologram](https://basehologram.com), the Maria Call
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568160265/media/2019/09/MariaCallas4000-20_erwswj.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Maria Callas in Concert, Lyric Opera of Chicago, 2019. Photo: Won J. Park.</figcaption>
 
 </figure>
 
@@ -50,7 +50,7 @@ The challenges of collaborating with Callas in this scenario notwithstanding, an
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568160291/media/2019/09/MariaCallas4000-24_u5aug5.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Maria Callas in Concert, Lyric Opera of Chicago, 2019. Photo: Won J. Park.</figcaption>
 
 </figure>
 
