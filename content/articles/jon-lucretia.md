@@ -24,11 +24,15 @@ Costume designer [Stacey Palmer](https://staceyjpalmer.wixsite.com/costumedesign
 
 The third member of the chorus, conceived for this production, is aerialist Jolie Meshbesher, dons a simple leotard with some wickedly long eyelashes that look like twigs. There is a definite earthy and mystical theme to the chorus costumes.
 
+> The audience is able to see Lucretia's face the entire time, while the Chorus and orchestra play crashing and clashing chords of agony.
+
 The company employed intimacy and violence choreographer, [Mason Tyer](https://minnesotaplaylist.com/talent/mason-tyer-0). The fight between Tarquinius (Sullivan Ojala Holt) and Junius (Joe Allen) in the first act is exhilarating to watch, as passions run high. The thirteen-piece chamber orchestra, led by [Brian Dowdy](http://www.briandowdy.com/guitarist_conductor/Home.html), had palpable ensemble energy on opening night. Dowdy creates a sensitive environment for the singers to shine as Britten intended.
 
 An interesting choice by director Amanda Carlson, is the deity status of the Chorus. What stretched my mind from the previous productions that I have seen, was the fact that the Male Chorus was just as goading as Junius towards Tarquinius. Most interpretations make the Chorus the horrified observers, but this Male Chorus seems bloodthirsty throughout.
 
 The confrontation/rape scene is where Briana Moynihan's powerful mezzo voice rings out as Lucretia. Her emotions run the gambit in this scene, from sensual desire (when she believes Tarquinius is her husband Collatinus), to fear, pleading, rage and shame. Ms. Moynihan effectively portrays them in the colors of her voice. Most of the confrontation takes place on the same level as the audience, but the assault is on the raised level.
+
+> Everyone seems to accept and return to their routine after her death.
 
 Once the Male and Female Chorus take over, narrating the horrific act, Tarquinius' actions became slow-motion. Though the creative team chose a less explicit approach to the crime, the slow motion made it extremely disturbing. The audience is able to see Lucretia's face the entire time, while the Chorus and orchestra play crashing and clashing chords of agony - an effect dramatic choice that equally highlighted the power of the music, text, and acting abilities of the cast.
 
