@@ -47,7 +47,6 @@ fields:
   name: related_people
 pages:
 - content/scene/companies/east-van-opera.md
-- content/scene/companies/journey-opera-north.md
 - content/scene/companies/skylark-opera.md
 - content/scene/companies/boston-lyric-opera-1.md
 - content/scene/companies/hunter-opera-theater.md
