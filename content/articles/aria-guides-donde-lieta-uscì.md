@@ -47,9 +47,11 @@ youtube_url = ""
 
 </figure>
 
-<figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567885128/media/2019/09/AriaGuide-Donde-p7_b5zmld.png){{% /md %}}
+9. This is a pretty magical moment, a surprise key change and the singer coming in out of nowhere. Practice the transition into this new key more times than you think is necessary; because it's such a sudden change, you sort of need to hand-deliver the notes to our ears. Make sure you're vibrating right away on "Bada..."<figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567885128/media/2019/09/AriaGuide-Donde-p7_b5zmld.png){{% /md %}}
 
 </figure>
+
+10. 
 
 <figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567885138/media/2019/09/AriaGuide-Donde-p8_g8qmsl.png){{% /md %}}
 
