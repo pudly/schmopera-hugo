@@ -18,10 +18,9 @@ title = "Aria guides: Parmi veder le lagrime"
 youtube_url = ""
 
 +++
-<figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488851/media/2019/09/AriaGuide-Parmi-p1_pwtvh8.png){{% /md %}}
-
-<figcaption></figcaption>  
-</figure>
+1. The rhythm here is about anger. Yes, we're in a recitative, but Verdi's recits still have tempo. It's always a fine line between observing rhythm and giving priority to the text, but I find a good middle-ground is to consider proportions: let us hear the difference between a sixteenth note and a quarter - like in this first line - and you'll find something organic and true to the score.<figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488851/media/2019/09/AriaGuide-Parmi-p1_pwtvh8.png){{% /md %}}</figure>
+2. Don't get caught without your breath ready here. Take a smart breath, and give these notes room for vibrato - particularly the first high G.
+3. This D pitch that you keep repeating - it turns into something new when the orchestra comes in on "sa-**rà**". Check your intonation on the E of "quell'", and sing through both Fs in "angiol".
 
 <figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488868/media/2019/09/AriaGuide-Parmi-p2_wfxeed.png){{% /md %}}
 
