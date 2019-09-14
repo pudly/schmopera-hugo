@@ -52,8 +52,8 @@ youtube_url = ""
 
 </figure>
 
-11. 
+11. The aria ends simply, like it begins. This doesn't have to be a huge moment, and you might not even need the breath after "addio". Just leave enough steam to hang out on "ran-", and you'll have the audience in the palm of your hand.
 
-<figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567885138/media/2019/09/AriaGuide-Donde-p8_g8qmsl.png){{% /md %}}
+    <figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567885138/media/2019/09/AriaGuide-Donde-p8_g8qmsl.png){{% /md %}}
 
 </figure>
