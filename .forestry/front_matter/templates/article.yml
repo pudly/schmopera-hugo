@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/thestories-part-3.md
 - content/articles/thestories-part-7.md
 - content/articles/thestories-part-2.md
 - content/articles/the-rapture-and-troubles-of-egyptian-helena.md
@@ -270,7 +271,6 @@ pages:
 - content/articles/atg-summer-modern-intensive.md
 - content/articles/lucretia.md
 - content/articles/touring-life.md
-- content/articles/thestories-part-3.md
 - content/articles/mysterious-barricades.md
 - content/articles/thestories-part-4.md
 - content/articles/projecting-on-opera-oper-frankfurt-s-radamisto-in-revival.md

@@ -1,7 +1,7 @@
 +++
 author = ["authors/jenna.md"]
-categories = ""
-date = "2019-09-05T04:00:00+00:00"
+categories = "Editorial"
+date = "2019-09-14T04:00:00+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
@@ -9,7 +9,7 @@ postamble = "If you have a true story of abuse or assault in the opera and class
 preamble = "This is one part in a series of personal accounts of harassment, abuse, and assault in the opera and classical music industries. These stories are published as told to me, with some details withheld at the author's request.\n\nThe following was submitted by Kimberly Barber, who asked that I exclude all other names."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1567708572/media/2019/09/TheStories3_paesrg.jpg"
 primary_image_credit = ""
-related_articles = []
+related_articles = ["articles/thestories-part-2.md", "articles/thestories-part-i.md", "articles/metoo-intro.md"]
 related_companies = []
 related_people = []
 short_description = "\"Finally, the evening was over and he offered to take me home in a cab. When we arrived at my apartment, he reached over and attempted to kiss me, pressing his body against me. I brushed him off and pushed him away, saying I didn’t want that and that I was in a relationship. He backed off and he drove away.\""
