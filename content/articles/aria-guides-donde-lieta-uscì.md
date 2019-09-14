@@ -47,7 +47,8 @@ youtube_url = ""
 
 </figure>
 
-9. This is a pretty magical moment, a surprise key change and the singer coming in out of nowhere. Practice the transition into this new key more times than you think is necessary; because it's such a sudden change, you sort of need to hand-deliver the notes to our ears. Make sure you're vibrating right away on "Bada..."<figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567885128/media/2019/09/AriaGuide-Donde-p7_b5zmld.png){{% /md %}}
+ 9. This is a pretty magical moment, a surprise key change and the singer coming in out of nowhere. Practice the transition into this new key more times than you think is necessary; because it's such a sudden change, you sort of need to hand-deliver the notes to our ears. Make sure you're vibrating right away on "Bada..."
+10. Consider doing these two instances of "Se vuoi" in one breath. It's not actually that large a moment, particularly when the orchestra moves ahead underneath you. And because you'll have spent your air, you'll take a better breath at the "se vuoi serbarla" that comes after. You can also snag a breath before "a ricordo", where another smart soprano has made a breath mark. Regarding the big high notes: this is stuff to work on with your teacher, but I can at least advise that, in the big _portamento_ down from the B-flat, you think of moving forward, not down. You've just got that big A-flat coming up anyway.<figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567885128/media/2019/09/AriaGuide-Donde-p7_b5zmld.png){{% /md %}}
 
 </figure>
 
