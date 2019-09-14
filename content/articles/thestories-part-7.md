@@ -14,7 +14,7 @@ related_companies = []
 related_people = []
 short_description = "\"There were rumors regarding his inappropriate conversations with (mostly gay) male students, but I turned a blind eye to those warnings. Supposedly, he would often tell male students to go to the dark corners of the theater to masturbate if they were nervous before a performance. I am sure this is one of the least of his sins.\""
 slug = "thestories-part-7"
-title = "#TheStories, part 7"
+title = "#TheStories, part 7 **careful"
 youtube_url = ""
 
 +++
