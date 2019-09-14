@@ -43,9 +43,7 @@ youtube_url = ""
 
 </figure>
 
-8. Here, Puccini gives you a _poco ritardando_ to give you the space for a _portamento_. It's only _poco_, though, so keep practicing this corner as though there's no change in tempo, so your body doesn't get too used to slowing down. The _portamento_ will sound gentle and easy, but it requires active breath and a steady vowel to move up in style.
-
-<figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567885114/media/2019/09/AriaGuide-Donde-p6_quxrff.png){{% /md %}}
+8. Here, Puccini gives you a _poco ritardando_ to give you the space for a _portamento_. It's only _poco_, though, so keep practicing this corner as though there's no change in tempo, so your body doesn't get too used to slowing down. The _portamento_ will sound gentle and easy, but it requires active breath and a steady vowel to connect "quanto in un grembiale".<figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567885114/media/2019/09/AriaGuide-Donde-p6_quxrff.png){{% /md %}}
 
 </figure>
 
