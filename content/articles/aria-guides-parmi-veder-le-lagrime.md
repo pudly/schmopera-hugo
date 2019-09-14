@@ -22,7 +22,8 @@ youtube_url = ""
 2. Don't get caught without your breath ready here. Take a smart breath, and give these notes room for vibrato - particularly the first high G.
 3. This D pitch that you keep repeating - it turns into something new when the orchestra comes in on "sa-**rà**". Check your intonation on the E of "quell'", and sing through both Fs in "angiol".<figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488868/media/2019/09/AriaGuide-Parmi-p2_wfxeed.png){{% /md %}}  
    </figure>
-4. Try not to over-think these phrases. Let the crescendo and diminuendo over your line
+4. Try not to over-think these phrases. Verdi writes you a crescendo and diminuendo over your line, so let those help you up and down this tricky stepwise motion.
+5. There's a mood change here, his recollection of how Gilda looked. Keep it light here, and don't get caught in the trap of equating dotted sixteenth notes with a fast tempo. When you get to the long melisma on "credo", maintain your vowel. 
 
 <figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488882/media/2019/09/AriaGuide-Parmi-p3_o6o7h8.png){{% /md %}}
 
