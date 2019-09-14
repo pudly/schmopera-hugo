@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "How-To"
 date = "2019-09-07T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = "Mimì's Act III aria is one of the gut-punch moments in Puccini's famed [_La bohème_](/aria-guides-mi-chiamano-mimi/). She sings it to Rodolfo right after they decide to break up. She talks about getting her things back from his place, and makes sure to say - maybe one too many times? - that they're separating without hard feelings.\n\nLyric sopranos fall easily in love with the music that Puccini writes for Mimì. As you work with your teacher on this aria, we can help you stay on track."
