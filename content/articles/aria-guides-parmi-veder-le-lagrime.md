@@ -52,8 +52,3 @@ youtube_url = ""
 
 <figcaption></figcaption>  
 </figure>
-
-<figure data-type="image"{{% md %}}{{% /md %}}
-
-<figcaption></figcaption>  
-</figure>
