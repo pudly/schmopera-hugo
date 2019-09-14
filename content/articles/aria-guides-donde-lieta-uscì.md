@@ -34,20 +34,16 @@ youtube_url = ""
 
 </figure>
 
-5. Don't work too hard for this low stuff. Puccini clears away the orchestra and marks it _col canto_; you can sing these short phrases at a comfortable volume, and let them be a speech-like, matter-of-fact moment to clear our palate before the lyric stuff coming next.
-
-<figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567885091/media/2019/09/AriaGuide-Donde-p4_pwoznv.png){{% /md %}}
+5. Don't work too hard for this low stuff. Puccini clears away the orchestra and marks it _col canto_; you can sing these short phrases at a comfortable volume, and let them be a speech-like, matter-of-fact moment to clear our palate before the lyric stuff coming next.<figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567885091/media/2019/09/AriaGuide-Donde-p4_pwoznv.png){{% /md %}}
 
 </figure>
 
-1. This is some of that Puccini irony: he gets almost finnicky with his tempo markings - a _ritardando_, then _col canto_, also a _ritenuto_ - but if everyone follows them, the musical effect is spontaneous and organic. It's handy to think of really observing the comma between the two "ascolta" statements; let the _ritenuto_ be a chance for you to sing two distinct \[a\] vowels, one to finish the first "ascolta", the next to start the second one.
-
-   Last detail: be ready for the _a tempo_ to hit, and don't be late on "le poche...".
-2. If you make sure you're singing legato in this measure, it'll be easier to do the staccato
-
-<figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567885101/media/2019/09/AriaGuide-Donde-p5_e4fvv4.jpg){{% /md %}}
+6. This is some of that Puccini irony: he gets almost finicky with his tempo markings - a _ritardando_, then _col canto_, also a _ritenuto_ - but if everyone follows them, the musical effect is spontaneous and organic. It's handy to think of really observing the comma between the two "ascolta" statements; let the _ritenuto_ be a chance for you to sing two distinct \[a\] vowels, one to finish the first "ascolta", the next to start the second one. Last detail: be ready for the _a tempo_ to hit, and don't be late on "le poche...".
+7. If you make sure you're singing legato in this measure, it'll be easier to do the staccato at "quel cerchietto d'or".<figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567885101/media/2019/09/AriaGuide-Donde-p5_e4fvv4.jpg){{% /md %}}
 
 </figure>
+
+8. Here, Puccini gives you a _poco ritardando_ to give you the space for a _portamento_. It's only _poco_, though, so keep practicing this corner as though there's no change in tempo, so your body doesn't get too used to slowing down. The _portamento_ will sound gentle and easy, but it requires active breath and a steady vowel to move up in style.
 
 <figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567885114/media/2019/09/AriaGuide-Donde-p6_quxrff.png){{% /md %}}
 
