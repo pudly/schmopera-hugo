@@ -25,14 +25,19 @@ youtube_url = ""
 * This D pitch **(3)** that you keep repeating - it turns into something new when the orchestra comes in on "sa-**rà**". Check your intonation on the E of "quell'", and sing through both Fs in "angiol".<figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488868/media/2019/09/AriaGuide-Parmi-p2_wfxeed.png){{% /md %}}  
   </figure>
 * Try not to over-think these phrases **(4)**. Verdi writes you a crescendo and diminuendo over your line, so let those help you up and down this tricky stepwise motion.
-* There's a mood change here **(5)**, his recollection of how Gilda looked. Keep it light here, and don't get caught in the trap of equating dotted sixteenth notes with a fast tempo. When you get to the long melisma on "credo", maintain your vowel. <figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488882/media/2019/09/AriaGuide-Parmi-p3_o6o7h8.png){{% /md %}}  
-  </figure>
+* There's a mood change here **(5)**, his recollection of how Gilda looked. Keep it light here, and don't get caught in the trap of equating dotted sixteenth notes with a fast tempo. When you get to the long melisma on "credo", maintain your vowel. 
 * Everyone will have their two cents on how to interpret all these accents **(6)**. Some argue it's about crisp text, others might say it's about giving a rhythmic lead-in for the orchestra. In any case, they're a bit odd to sing, even unfriendly to the voice in that run up to a high A-flat. Pay attention to the first C-natural, and note that it doesn't have an accent; it's a great way to start this phrase lyrically, without hammering right away.
+
+  <figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488882/media/2019/09/AriaGuide-Parmi-p3_o6o7h8.png){{% /md %}}  
+  </figure>
 * Be picky with intonation here **(7)**. It's easy to throw away that tiny E-flat, and even easier to be flat on the F of "**l'ar**diva?"
+* It's easy here **(8)** to focus on the A-flat, and consider your work done once it's over. The whole line needs care, and it starts with maintaining spin and vibrato on the G-flat, where you first start your descent. The step should be legato and still in tune, both good signs that you're keeping your energy up for the full phrase.
 
 <figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488900/media/2019/09/AriaGuide-Parmi-p4_ybbecw.jpg){{% /md %}}
 
 </figure>
+
+* 
 
 <figure data-type="image"{{% md %}}
 
