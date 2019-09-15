@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/thestories-part-8.md
 - content/articles/aria-guides-donde-lieta-uscì.md
 - content/articles/aria-guides-parmi-veder-le-lagrime.md
 - content/articles/thestories-part-3.md
