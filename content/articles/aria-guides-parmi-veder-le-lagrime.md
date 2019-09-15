@@ -37,7 +37,7 @@ youtube_url = ""
 
 </figure>
 
-* 
+* This melisma **(9)** is certainly one to take to your teacher; different tenors will find their favourite vowel, both at the start and to modify up at the top. The tricky bit, of course, is the semitone between the A-flat and B-double-flat. It will feel quite wide, even for a half-step, and maybe it'll even feel like you're moving from one "place" in your voice to another. A good cue for a job well done: you can still vibrate on the A-flat on your way back down.
 
 <figure data-type="image"{{% md %}}
 
