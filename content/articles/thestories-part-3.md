@@ -23,7 +23,7 @@ Ultimately, I was hired by a prominent company in Europe to perform in a product
 
 Because he had shown interest and support in my career up until that point, I didn't think anything of it when he invited me to dinner, ostensibly to discuss "my future". I thought this was a business meeting. I became somewhat uncomfortable when I arrived at the appointed restaurant and it was clearly a romantic evening that was planned - candlelit, intimate restaurant, wine, the whole bit.
 
-> Even if we refused, we felt badly about _overselves_, rather than thinking that they had put us in a terrible situation.
+> I really admired him artistically and liked him as a person.
 
 I kept trying to bring the conversation back around to my career trajectory, but he seemed only to want to talk about personal things - I should add, this man was married with at least two children at the time. I felt like I successfully navigated away from any inappropriate territory, but he was clearly flirting with me and made various suggestive innuendos.
 
@@ -39,7 +39,7 @@ After that gig, he never hired me again. Who knows why?
 
 What I remember most about this incident is the shame I felt, but also, most acutely, that I felt dirty. I felt that I must have done something to attract this kind of attention. I also felt naive: how could I have been so stupid as to think he was actually interested in me as an artist of merit? He may well have been, but it seems his primary interest was sexual. This was so demeaning and made me feel worthless. It haunted me for years.
 
->Even if we refused, we felt badly about ourselves, rather than thinking that they had put us in a terrible situation.
+> Even if we refused, we felt badly about ourselves, rather than thinking that they had put us in a terrible situation.
 
 I really admired him artistically and liked him as a person. But the word on the street was that he was a "bounder"—known for his philandering and womanizing. Guys like this could act however they wanted (see: Domingo) whenever they wanted and with whom they wanted, without fear of reprisal. No one would ever say anything, because they were like gods. They had power over us because they were in a position to make our careers if they wanted.
 
