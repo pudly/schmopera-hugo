@@ -69,3 +69,11 @@ youtube_url = ""
   <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1567885138/media/2019/09/AriaGuide-Donde-p8_g8qmsl.png){{% /md %}}
 
 </figure>
+
+***
+
+Here's one of my favourites: Ileana Cotrubas singing "Donde lieta uscì".
+
+<figure data-type="video"><iframe width="637" height="478" src="https://www.youtube.com/embed/t_yVi2NWKYI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</figure>
