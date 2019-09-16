@@ -17,16 +17,23 @@ title = "Aria guides: Donde lieta uscì"
 youtube_url = ""
 
 +++
-* Simplicity is key at the start of this aria **(1)**. The range is easy, the rhythms are organic; Puccini doesn't want Mimì to give too much away just yet. Do be sure to sing the A-flat on the first part of of "**d'a**-mo-re"; it'll help your legato when you leap up to the E-flat.
+> 1. 
 
-  <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568486554/media/2019/09/Screen_Shot_2019-09-14_at_2.42.10_PM_ls217l.png){{% /md %}}
+Simplicity is key at the start of this aria **(1)**. The range is easy, the rhythms are organic; Puccini doesn't want Mimì to give too much away just yet. Do be sure to sing the A-flat on the first part of of "**d'a**-mo-re"; it'll help your legato when you leap up to the E-flat.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568486554/media/2019/09/Screen_Shot_2019-09-14_at_2.42.10_PM_ls217l.png){{% /md %}}
 
 </figure>
 
-* This C-flat is tragic **(2)**, so give it some spin right away. Imagine the vowel already happening as you start "torna", and maintain your vibrato all the way through "Mimì".
-* Get a head start here **(3)** with the rolled R in "Ritorna", so you can be really singing that pick-up E-flat. This is a big, sweeping phrase, and those really only work when every single note is sung. Puccini helps you with the _portamento_ in the word "Ritorna", where you can ride the spin of one vowel to connect two pitches. Pay attention to your vowels (are they morphing into something weird?) and your vibrato (does it tend to stop and start?) - and most importantly, be diligent about intonation on those G-flats.
+> 2. 
 
-  <figure data-type="image">{{% md %}}
+This C-flat is tragic **(2)**, so give it some spin right away. Imagine the vowel already happening as you start "torna", and maintain your vibrato all the way through "Mimì".
+
+> 3.
+
+Get a head start here **(3)** with the rolled R in "Ritorna", so you can be really singing that pick-up E-flat. This is a big, sweeping phrase, and those really only work when every single note is sung. Puccini helps you with the _portamento_ in the word "Ritorna", where you can ride the spin of one vowel to connect two pitches. Pay attention to your vowels (are they morphing into something weird?) and your vibrato (does it tend to stop and start?) - and most importantly, be diligent about intonation on those G-flats.
+
+<figure data-type="image">{{% md %}}
 
 ![](https://res.cloudinary.com/schmopera/image/upload/v1567885068/media/2019/09/AriaGuide-Donde-p2_ynssza.png){{% /md %}}
 
