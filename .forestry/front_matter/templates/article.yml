@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/thestories-part-9.md
 - content/articles/thestories-part-4.md
 - content/articles/operatease.md
 - content/articles/thestories-part-3.md
