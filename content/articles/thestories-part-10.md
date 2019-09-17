@@ -54,20 +54,14 @@ At 2:07am the next morning, he sent the following email, suggesting that "those 
 
 He made the decision to fire me. This happened as a direct result of my politely and assertively setting boundaries by refusing is sexual overtures.
 
-As a working artist, I relied heavily on the average $400 in monthly income that came from
+As a working artist, I relied heavily on the average $400 in monthly income that came from singing with this choir. This man fired me without just cause.
 
-singing with this choir. This man fired me without just cause.
+In the months following, when I met members of the church choir, they shared with me that he had announced that I alone had chosen to leave the choir. In doing so, he had erased the entire storyline. Because he is well liked by choir members, I felt unable to correct such choir member when I was speaking with them, due to a strong cognitive dissonance (to "not make a pleasant conversation suddenly very serious and unpleasant").
 
-In the months following, when I met members of the church choir, they shared with me that he had announced that I alone had chosen to leave the choir. In doing so, he had erased the entire storyline. Because he is well liked by choir members, I felt unable to correct such choir member when I was speaking with them, due to a strong cognitive dissonance (to “not make a pleasant conversation suddenly very serious and unpleasant”).
+Indeed, I imagine that if you surveyed the list of past male, openly gay members of this choir – especially those who quickly disappeared "because they'd grown apart from the choir" – you'd find similar stories of power abuse and ultimate dismissal.
 
-Indeed, I imagine that if you surveyed the list of past male, openly gay members of this choir – especially those who quickly disappeared “because they’d grown apart from the choir” – you’d
-
-find similar stories of power abuse and ultimate dismissal.
-
-I am aware that other sexual harassment allegations have been made against this man in
-
-the past. He demonstrates a pattern of predatory behavior which will continue, if left unaddressed.
+I am aware that other sexual harassment allegations have been made against this man in the past. He demonstrates a pattern of predatory behaviour which will continue, if left unaddressed.
 
 \---
 
-Editor’s note: the author has submitted a formal complaint to the church in question, and the church has begun an investigation.
+_Editor's note: the author has submitted a formal complaint to the church in question, and the church has begun an investigation._
