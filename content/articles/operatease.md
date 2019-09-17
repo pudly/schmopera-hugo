@@ -8,7 +8,7 @@ image_gallery = []
 postamble = "Stay in the loop with Journey North Opera by following them on [Facebook](https://www.facebook.com/JourneyNorthOperaCo) and [Instagram](https://www.instagram.com/journeynorthopera/)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1568688430/media/2019/09/sqOperaTease_ahpnqn.jpg"
-primary_image_credit = ""
+primary_image_credit = "OperaTease, Journey North Opera, 2019. Photo courtesy of Journey North Opera."
 related_articles = []
 related_companies = []
 related_people = []
@@ -48,7 +48,7 @@ I longed for more of this full integration of the two art forms, the burlesque a
 
 Some of the arias selected were two short for the audience to fully take in, and appreciate the burlesque performers' crafts. For example, "O mio babbino caro" is extremely short (under three minutes) and that barely gave pole dancer Red Rider a chance to exhibit her skills. In an impressive feat of the night, soprano Carole Schultz sang "Je vieux vivre" (_Roméo et Juliette_) on point - literally, in a pair of pointe shoes, which she would go up on for the high notes. [Margaret Matejcek](https://www.margaretmatejcek.com/) was originally only billed for one act of the night, but stepped in for an ill colleague with sophistication. The final act of the night was a rousing rendition of "Una voce poco fa" sung by mezzo-soprano Melissa Krueger.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568688593/media/2019/09/OperaTease122_sjopsu.jpg){{% /md %}}
 
 <figcaption>OperaTease, Journey North Opera, 2019. Photo courtesy of Journey North Opera.</figcaption>
 
