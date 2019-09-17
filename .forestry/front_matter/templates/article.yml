@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/operatease.md
 - content/articles/thestories-part-3.md
 - content/articles/aria-guides-donde-lieta-uscì.md
 - content/articles/thestories-part-i.md
