@@ -40,25 +40,17 @@ During this coaching session, under the pretense of "teaching", he laid his hand
 
 I understand that a male’s chest is not an erogenous area. However, given that he had display a sexual interest in me, by sending inappropriate text messages and making invitations to his home, I believe this action carried great consequence with it. His touch lasted for far longer than would have necessary than if he were he simply trying to teach or demonstrate something, for the sake of the coaching session. It was extremely distressing.
 
-Later that day, he sent me an email, in which he again referenced my “innocence and negativity”, and once again attempted to coerce me to meet with him alone at his home. I responded to this email with a reply, in which I clearly laid out my boundaries, and made requests for the parameters of our professional relationship going forward.
+Later that day, he sent me an email, in which he again referenced my "innocence and negativity", and once again attempted to coerce me to meet with him alone at his home. I responded to this email with a reply, in which I clearly laid out my boundaries, and made requests for the parameters of our professional relationship going forward.
 
-He responded with an email suggesting that I should decide whether or not I should continue to
-
-sing at the church.
+He responded with an email suggesting that I should decide whether or not I should continue to sing at the church.
 
 I responded saying I would definitely like to continue to sing with the church choir, and asked for confirmation of the schedule, to see when I could next join the choir. To this email, I never received a response.
 
-Later that summer, on July 17, 2015, I sang in an “ad hoc” choir for summer music festival
+Later that summer, on July 17, 2015, I sang in an "ad hoc" choir for summer music festival (assembled for this occasion only), which was conducted by this man. This was my first opportunity to meet with him since the email exchange on May 12, 2015. I did not approach him, nor did I exchange words with him outside of some brief exchanges about how to present the music that evening. 
 
-(assembled for this occasion only), which was conducted by this man. This was my first opportunity to meet with him since the email exchange on May 12, 2015. I did not approach him, nor did I exchange words with him outside of some brief exchanges about how to present the music that evening. I felt that, because he was in the position of power in our relationship, and because I’d demonstrated a wish to reconcile and continue singing with the choir, that he was the one who would have to choose how to talk next.
+I felt that, because he was in the position of power in our relationship, and because I’d demonstrated a wish to reconcile and continue singing with the choir, that he was the one who would have to choose how to talk next.
 
-At 2:07am the next morning, he sent the following email, suggesting that “those who don’t accept the heat of his passion simply go away.”
-
-In this email, he alone decided that I was “growing away from” the choir. I had never shared
-
-that sentiment. In all my communication, including my response to his 2:07am email, I made it
-
-clear that I wanted to remain in the choir.
+At 2:07am the next morning, he sent the following email, suggesting that "those who don’t accept the heat of his passion simply go away." In this email, he alone decided that I was "growing away from" the choir. I had never shared that sentiment. In all my communication, including my response to his 2:07am email, I made it clear that I wanted to remain in the choir.
 
 He made the decision to fire me. This happened as a direct result of my politely and assertively setting boundaries by refusing is sexual overtures.
 
