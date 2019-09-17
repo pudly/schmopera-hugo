@@ -4,7 +4,6 @@ categories = ""
 date = ""
 discipline = "Tenor"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
