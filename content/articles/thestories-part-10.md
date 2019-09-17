@@ -18,25 +18,25 @@ title = "#TheStories, part 10"
 youtube_url = ""
 
 +++
-Since I first met him during an audition for a Canadian opera company (during which he cupped his hand around the back of my neck, unwelcomed), until he ultimately fired me from my duties as a member of a church choir, a prominent figure in the opera and concert scenes frequently sexually harassed me. 
+Since I first met him during an audition for a Canadian opera company (during which he cupped his hand around the back of my neck, unwelcomed), until he ultimately fired me from my duties as a member of a church choir, a prominent figure in the opera and concert scenes frequently sexually harassed me.
 
-Because he alone has unilateral power over hiring and firing choir members, I felt myself in constant need of circumnavigating his sexual advances such that he wasn't too upset to fire me, but also such that his advanced not develop into an actual sexual encounter. 
+Because he alone has unilateral power over hiring and firing choir members, I felt myself in constant need of circumnavigating his sexual advances such that he wasn't too upset to fire me, but also such that his advanced not develop into an actual sexual encounter.
 
 As a conductor and company leader, knew he was in a position of power over me (in that he had control over a large part of my income), and he abused that power.
 
 His inappropriate behaviour manifested itself in many ways, including regular invitations to visit his home alone, as well as unwelcomed sexual innuendos both in person and in writing. He sent me a text message after a Sunday morning church service, in which he made reference to gay sexual positions ("top" and "bottom").
 
-In response to his message, and in accordance with my aim to maintain the delicate balance I mentioned above, I responded in a way that I hoped would show me as "friendly and easy to get along with" but that would stop the conversation, while at the same time not upsetting him (which I feared would lead to him firing me from my position with the church choir). 
+In response to his message, and in accordance with my aim to maintain the delicate balance I mentioned above, I responded in a way that I hoped would show me as "friendly and easy to get along with" but that would stop the conversation, while at the same time not upsetting him (which I feared would lead to him firing me from my position with the church choir).
 
 He then responded by making it very clear that he was making sexual references, by saying "I was hoping you'd get the double entendre in my message".
 
-The following year, on the afternoon of May 4, 2015, I had agreed to do a private musical coaching with him, to take place in the sanctuary of the church. I had an upcoming musical performance about which I was feeling nervous and in need of some guidance, and he offered to help me, at a reduced rate compared to other coaches in the city. 
+The following year, on the afternoon of May 4, 2015, I had agreed to do a private musical coaching with him, to take place in the sanctuary of the church. I had an upcoming musical performance about which I was feeling nervous and in need of some guidance, and he offered to help me, at a reduced rate compared to other coaches in the city.
 
 I knew that meeting with him meant risking that he would make further sexual harassment attempts, but I was comforted by the fact that I would be meeting him in the church, in the afternoon, amidst other church staff members. So, I proceeded with the coaching session.
 
 During that coaching session, he referenced an "innocence within me" and attempted to convince me that there was also "a darkness" within me, that he felt compelled to help me with.
 
-During this coaching session, under the pretense of “teaching”, he laid his hands on my chest without my consent. In musical coachings (as in any situation), one does not have consent to touch another person’s body without first getting their permission.
+During this coaching session, under the pretense of "teaching", he laid his hands on my chest without my consent. In musical coachings (as in any situation), one does not have consent to touch another person's body without first getting their permission.
 
 I understand that a male’s chest is not an erogenous area. However, given that he had display a sexual interest in me, by sending inappropriate text messages and making invitations to his home, I believe this action carried great consequence with it. His touch lasted for far longer than would have necessary than if he were he simply trying to teach or demonstrate something, for the sake of the coaching session. It was extremely distressing.
 
@@ -58,7 +58,7 @@ In this email, he alone decided that I was “growing away from” the choir. I 
 
 that sentiment. In all my communication, including my response to his 2:07am email, I made it
 
-clear that I wanted to remain in the choir. 
+clear that I wanted to remain in the choir.
 
 He made the decision to fire me. This happened as a direct result of my politely and assertively setting boundaries by refusing is sexual overtures.
 
