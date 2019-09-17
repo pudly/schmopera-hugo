@@ -46,12 +46,16 @@ The program has 10 acts, each composed of an opera singer and a burlesque perfor
 
 I longed for more of this full integration of the two art forms, the burlesque and opera were truly crossing paths in this entertaining act. 
 
-Some of the arias selected were two short for the audience to fully take in, and appreciate the burlesque performers' crafts. For example, "O mio babbino caro" is extremely short (under three minutes) and that barely gave pole dancer Red Rider a chance to exhibit her skills. In an impressive feat of the night, soprano Carole Schultz sang "Je vieux vivre" (_Roméo et Juliette_) on point - literally, in a pair of pointe shoes, which she would go up on for the high notes. [Margaret Matejcek](https://www.margaretmatejcek.com/) was originally only billed for one act of the night, but stepped in for an ill colleague with sophistication. The final act of the night was a rousing rendition of "Una voce poco fa" sung by mezzo-soprano Melissa Krueger.
+Some of the arias selected were two short for the audience to fully take in, and appreciate the burlesque performers' crafts. For example, "O mio babbino caro" is extremely short (under three minutes) and that barely gave pole dancer Red Rider a chance to exhibit her skills. 
+
+In an impressive feat of the night, soprano Carole Schultz sang "Je veux vivre" (_Roméo et Juliette_) on point - literally, in a pair of pointe shoes, which she would go up on for the high notes.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568688593/media/2019/09/OperaTease122_sjopsu.jpg){{% /md %}}
 
 <figcaption>OperaTease, Journey North Opera, 2019. Photo courtesy of Journey North Opera.</figcaption>
 
 </figure>
+
+[Margaret Matejcek](https://www.margaretmatejcek.com/) was originally only billed for one act of the night, but stepped in with sophistication for an ill colleague. The final act of the night was a rousing rendition of "Una voce poco fa", sung by mezzo-soprano Melissa Krueger.
 
 As always, I am encouraged and excited by the new takes on classical singing the Twin Cities has to offer, and OperaTease is no exception.
