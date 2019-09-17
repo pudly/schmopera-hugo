@@ -116,7 +116,6 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
-- content/scene/people/wes-hunter.md
 - content/articles/thestories-part-10.md
 - content/articles/thestories-part-9.md
 - content/articles/thestories-part-4.md
