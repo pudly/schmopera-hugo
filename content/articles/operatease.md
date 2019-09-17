@@ -3,7 +3,6 @@ author = ["authors/callie-cooper.md"]
 categories = "Review"
 date = "2019-09-16T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Stay in the loop with Journey North Opera by following them on [Facebook](https://www.facebook.com/JourneyNorthOperaCo) and [Instagram](https://www.instagram.com/journeynorthopera/)."
 preamble = ""
@@ -13,8 +12,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "I longed for more of this full integration of the two art forms, the burlesque and opera were truly crossing paths in this entertaining act. "
-slug = "operatease"
-title = "OperaTease"
+slug = "burlesque-meets-opera-operatease"
+title = "Burlesque meets opera: OperaTease"
 youtube_url = ""
 
 +++
