@@ -1,9 +1,8 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Editorial"
-date = "2019-09-18T04:00:00+00:00"
+date = "2019-09-19T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "If you have a true story of abuse or assault in the opera and classical music industries and you want to tell someone, send it to me at [jenna@schmopera.com](mailto@jenna@schmopera.com)."
 preamble = "This is one part in a series of personal accounts of harassment, abuse, and assault in the opera and classical music industries. These stories are published as told to me, with some names and details withheld at the author's request.\n\nThe following was submitted by American tenor [Wes Hunter](/scene/people/wes-hunter/)."
