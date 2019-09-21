@@ -12,9 +12,14 @@ primary_image_credit = ""
 related_articles = ["articles/thestories-part-3.md", "articles/thestories-part-4.md", "articles/thestories-part-2.md", "articles/thestories-part-i.md", "articles/metoo-intro.md"]
 related_companies = []
 related_people = []
-short_description = "\"During that coaching session, he referenced an 'innocence within me' and attempted to convince me that there was also 'a darkness' within me, that he felt compelled to help me with.\""
+short_description = "\"The one thing she said that never left me was the virgin-shaming. She said that maybe if I had sex or got a boyfriend, that it would relax me and make me a better singer. These insinuations or outright comments went on for the three years I studied with her.\""
 slug = "thestories-part7"
 title = "#TheStories, part 7"
 youtube_url = ""
 
 +++
+Around eight years ago, I had a teacher in my undergraduate degree who was emotionally abusive. I have to really sit down and think about the things she said to me, because I have blocked out so much.
+
+The one thing she said that never left me was the virgin-shaming. She said that maybe if I had sex or got a boyfriend, that it would relax me and make me a better singer. These insinuations or outright comments went on for the three years I studied with her.
+
+The only reason I didn't leave her studio was because I knew I wouldn't get any leads if I left. I got lead roles over better singers just because I was in her studio. Weird power dynamics.
