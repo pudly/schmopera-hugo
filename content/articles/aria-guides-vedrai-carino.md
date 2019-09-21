@@ -60,3 +60,11 @@ youtube_url = ""
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569086433/media/2019/09/AriaGuide-Vedrai-p7_oqcm3g.png){{% /md %}}
 
 </figure>
+
+***
+
+Have a listen to Cecilia Bartoli's rendition here:
+
+<figure data-type="video">{{% md %}}<iframe width="1011" height="758" src="https://www.youtube.com/embed/IZM1WEm9nKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+
+</figure>
