@@ -52,7 +52,7 @@ youtube_url = ""
 </figure>
 
 * More lyric stuff here **(13)**, and in a tricky spot of the voice. You're aiming for a new colour here, but nothing more quiet than you can comfortably handle. Be careful not to take an early break after "soccorrerti", or your second set of F-flats won't be in tune and that triplet on "fanciulla" will be hard work. 
-* These few bars **(14)** should have a sense of moving forward. It's a good thing, because this can get laboured without the 
+* These few bars **(14)** should have a sense of moving forward; that's a good thing, because there's something cruelly incessant about this transitional phrase. Consider where you'll breathe, and where you won't. 
 
 <figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488952/media/2019/09/AriaGuide-Parmi-p7_utz2ue.png){{% /md %}}  
 </figure>
