@@ -57,7 +57,7 @@ youtube_url = ""
 <figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488952/media/2019/09/AriaGuide-Parmi-p7_utz2ue.png){{% /md %}}  
 </figure>
 
-Of course, this **(15)** is a spot to work on with your teacher; and if you're working with a conductor, they may have some wants and needs as you pace out this cadenza. Two big things to keep in mind: don't let yourself fall into the basement as you come down on the first "non invidiò". 
+Of course, this **(15)** is a spot to work on with your teacher; and if you're working with a conductor, they may have some wants and needs as you pace out this cadenza. Two big things to keep in mind: don't let yourself fall into the basement as you come down on the first "non invidiò", and begin the melisma in an \[a\] vowel that's ready 
 
 <figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568489053/media/2019/09/AriaGuide-Parmi-p8_deespa.png){{% /md %}}  
 </figure>
