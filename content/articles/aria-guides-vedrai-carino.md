@@ -22,7 +22,7 @@ youtube_url = ""
   <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569086353/media/2019/09/AriaGuide-Vedrai-p1_cdqjnb.png){{% /md %}}
 
   </figure>
-* Super connected legato here **(2)**. Give a bit of a double N to "naturale", to help with the language. In the next bar, make a clear choice to sing the E more loudly than the D - essentially, a really obvious diminuendo.
+  * Super connected legato here **(2)**. Give a bit of a double N to "naturale", to help with the language. In the next bar, make a clear choice to sing the E more loudly than the D - essentially, a really obvious diminuendo.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569086368/media/2019/09/AriaGuide-Vedrai-p2_ttuuyk.jpg){{% /md %}}
 
