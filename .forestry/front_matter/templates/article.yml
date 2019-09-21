@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/aria-guides-donde-lieta-uscì.md
 - content/articles/aria-guides-parmi-veder-le-lagrime.md
 - content/articles/you-have-rights-to-your-working-hours-an-open-letter-to-singers.md
 - content/articles/thestories-part-5.md
@@ -126,7 +127,6 @@ pages:
 - content/scene/people/wes-hunter.md
 - content/articles/thestories-part-9.md
 - content/articles/thestories-part-3.md
-- content/articles/aria-guides-donde-lieta-uscì.md
 - content/articles/thestories-part-i.md
 - content/articles/thestories-part-8.md
 - content/articles/thestories-part-2.md
