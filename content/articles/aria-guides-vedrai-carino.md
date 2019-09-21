@@ -43,6 +43,8 @@ youtube_url = ""
 
 </figure>
 
+* The way you come in here **(6)** is in mid-phrase with the orchestra, all of you resolving at "quà". It can be really effective (and affective, even) to start "Toccami" gently, joining the melody already in place. Then at all the shouts of "sentilo battere", lean again on the Italian rhythm to make the music fun. Italians say, "**Sen**-ti-lo", so try putting that into Mozart's rhythms - it's cool, trust me.
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569086405/media/2019/09/AriaGuide-Vedrai-p5_yskzdu.png){{% /md %}}
 
 </figure>
