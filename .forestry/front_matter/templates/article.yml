@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/thestories-part-5.md
 - content/articles/thestories-part-10.md
 - content/articles/operatease.md
 - content/articles/metoo-intro.md
@@ -282,7 +283,6 @@ pages:
 - content/articles/touring-life.md
 - content/articles/mysterious-barricades.md
 - content/articles/projecting-on-opera-oper-frankfurt-s-radamisto-in-revival.md
-- content/articles/thestories-part-5.md
 - content/articles/allison-cociani-s-beauty-s-beast.md
 - content/articles/stars-of-the-lyric.md
 - content/articles/maria-callas-in-concert.md
