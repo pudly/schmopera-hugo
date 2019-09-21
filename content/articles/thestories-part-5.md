@@ -12,7 +12,7 @@ primary_image_credit = ""
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "\"Later that day, he sent me an email, in which he again referenced my 'innocence and negativity', and once again attempted to coerce me to meet with him alone at his home. I responded to this email with a reply, in which I clearly laid out my boundaries, and made requests for the parameters of our professional relationship going forward.\""
 slug = "thestories-part-5"
 title = "#TheStories, part 5"
 youtube_url = ""
@@ -42,7 +42,7 @@ During that coaching session, he referenced an "innocence within me" and attempt
 
 During this coaching session, under the pretense of "teaching", he laid his hands on my chest without my consent. In musical coachings (as in any situation), one does not have consent to touch another person's body without first getting their permission.
 
-I understand that a male’s chest is not an erogenous area. However, given that he had display a sexual interest in me, by sending inappropriate text messages and making invitations to his home, I believe this action carried great consequence with it. His touch lasted for far longer than would have necessary than if he were he simply trying to teach or demonstrate something, for the sake of the coaching session. It was extremely distressing.
+I understand that a male's chest is not an erogenous area. However, given that he had display a sexual interest in me, by sending inappropriate text messages and making invitations to his home, I believe this action carried great consequence with it. His touch lasted for far longer than would have necessary than if he were he simply trying to teach or demonstrate something, for the sake of the coaching session. It was extremely distressing.
 
 Later that day, he sent me an email, in which he again referenced my "innocence and negativity", and once again attempted to coerce me to meet with him alone at his home. I responded to this email with a reply, in which I clearly laid out my boundaries, and made requests for the parameters of our professional relationship going forward.
 
