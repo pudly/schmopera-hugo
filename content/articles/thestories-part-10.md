@@ -1,7 +1,7 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Editorial"
-date = "2019-09-16T04:00:00+00:00"
+date = "2019-09-21T04:00:00+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
@@ -13,8 +13,8 @@ related_articles = ["articles/thestories-part-3.md", "articles/thestories-part-4
 related_companies = []
 related_people = []
 short_description = "\"During that coaching session, he referenced an 'innocence within me' and attempted to convince me that there was also 'a darkness' within me, that he felt compelled to help me with.\""
-slug = "thestories-part-10"
-title = "#TheStories, part 10"
+slug = "thestories-part7"
+title = "#TheStories, part 7"
 youtube_url = ""
 
 +++
