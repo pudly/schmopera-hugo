@@ -49,6 +49,8 @@ youtube_url = ""
 
 </figure>
 
+* This line **(7)** is melodramatic, maybe even hilariously so. But there's huge tension in this tritone that keeps repeating, so really sing through the stress. Be clear with your intonation on the first B-natural, and then sing through the leap back up to the F. At all the times she says "quà!" ("here!"), you get to infuse them with subtext.
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569086419/media/2019/09/AriaGuide-Vedra-p6_viitsf.jpg){{% /md %}}
 
 </figure>
