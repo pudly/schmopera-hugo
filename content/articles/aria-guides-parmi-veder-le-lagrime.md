@@ -68,7 +68,7 @@ youtube_url = ""
 
 ***
 
-Some old-school mastery of this aria, courtesy of our friend, Luciano Pavarotti:
+Some old-school mastery of this aria, courtesy of our friend, Pavarotti:
 
 <figure data-type="video">{{% md %}}{{% /md %}}
 
