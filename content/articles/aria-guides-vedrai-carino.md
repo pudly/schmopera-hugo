@@ -37,6 +37,8 @@ youtube_url = ""
 
 </figure>
 
+* Text makes this spot **(5)** fun to sing. There are rhythmic shifts and neat hemiolas to be found if you really prioritize the rhythm of the Italian: "**do-**ve me sta, **do-**ve, **do-**ve, **do-**ve
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569086391/media/2019/09/AriaGuide-Vedrai-p4_knbreq.png){{% /md %}}
 
 </figure>
