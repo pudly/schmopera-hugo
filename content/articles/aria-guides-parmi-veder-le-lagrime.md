@@ -46,6 +46,7 @@ youtube_url = ""
 </figure>
 
 * This upward portamento on "ciglio" **(11)** is all about planning ahead of time. Essentially, you're heading back to that G-flat from the very start; if you've let your resonant space drop in the first four measures, this will be more difficult. Backtrack a bit to "scorrenti", and take care that the portamento down to the low F doesn't cost you your upper resonance. The crescendo marked on the way up to the G-flat is really more of an allowance than a direction; the voice will automatically get louder with this rising portamento, and the whole thing will be easier and more beautiful if you let that happen. Verdi's not asking you for more sound than you'd naturally make in this part of your voice.
+* For what it's worth, I've never heard anyone sing this _ossia_ option **(12)** - stick to the main line. This is a 
 
 <figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488931/media/2019/09/AriaGuide-Parmi-p6_ytvwbp.png){{% /md %}}  
 </figure>
