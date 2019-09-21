@@ -25,7 +25,7 @@ youtube_url = ""
 * This D pitch **(3)** that you keep repeating - it turns into something new when the orchestra comes in on "sa-**rà**". Check your intonation on the E of "quell'", and sing through both Fs in "angiol".<figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488868/media/2019/09/AriaGuide-Parmi-p2_wfxeed.png){{% /md %}}  
   </figure>
 * Try not to over-think these phrases **(4)**. Verdi writes you a crescendo and diminuendo over your line, so let those help you up and down this tricky stepwise motion.
-* There's a mood change here **(5)**, his recollection of how Gilda looked. Keep it light here, and don't get caught in the trap of equating dotted sixteenth notes with a fast tempo. When you get to the long melisma on "credo", maintain your vowel. 
+* There's a mood change here **(5)**, his recollection of how Gilda looked. Keep it light here, and don't get caught in the trap of equating dotted sixteenth notes with a fast tempo. When you get to the long melisma on "credo", maintain your vowel.
 * Everyone will have their two cents on how to interpret all these accents **(6)**. Some argue it's about crisp text, others might say it's about giving a rhythmic lead-in for the orchestra. In any case, they're a bit odd to sing, even unfriendly to the voice in that run up to a high A-flat. Pay attention to the first C-natural, and note that it doesn't have an accent; it's a great way to start this phrase lyrically, without hammering right away.
 
   <figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488882/media/2019/09/AriaGuide-Parmi-p3_o6o7h8.png){{% /md %}}  
@@ -38,7 +38,7 @@ youtube_url = ""
 </figure>
 
 * This melisma **(9)** is certainly one to take to your teacher; different tenors will find their favourite vowel, both at the start and to modify up at the top. The tricky bit, of course, is the semitone between the A-flat and B-double-flat. It will feel quite wide, even for a half-step, and maybe it'll even feel like you're moving from one "place" in your voice to another. A good cue for a job well done: you can still vibrate on the A-flat on your way back down.
-* 
+* The aria finally begins! **(10)** Verdi gives you plenty of chances to stay legato - the portamentos between "Par-mi", "scorren-ti" and "...ciglio, quando..."
 
 <figure data-type="image"{{% md %}}
 

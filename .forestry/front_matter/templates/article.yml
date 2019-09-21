@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/aria-guides-parmi-veder-le-lagrime.md
 - content/articles/you-have-rights-to-your-working-hours-an-open-letter-to-singers.md
 - content/articles/thestories-part-5.md
 - content/articles/thestories-part-10.md
@@ -127,7 +128,6 @@ pages:
 - content/articles/thestories-part-3.md
 - content/articles/aria-guides-donde-lieta-uscì.md
 - content/articles/thestories-part-i.md
-- content/articles/aria-guides-parmi-veder-le-lagrime.md
 - content/articles/thestories-part-8.md
 - content/articles/thestories-part-2.md
 - content/articles/the-rapture-and-troubles-of-egyptian-helena.md
