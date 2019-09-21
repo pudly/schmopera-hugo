@@ -56,6 +56,7 @@ youtube_url = ""
 </figure>
 
 * This bit **(8)** is tricky to maintain without getting heavy or out of tune. Focus on the D-natural that anchors the coloratura, and be as light as you can on everything else. Bring your legato back at the end of "battere" to help you up to the F on "toccami". With each bar of "quà, quà!", give a bit more to the second "quà".
+* This is noble-lady singing, here **(9)**. Be brave on the leap from D-G, and sing through each note as you come back down. Enjoy the grace note before the last "toccami quà
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569086433/media/2019/09/AriaGuide-Vedrai-p7_oqcm3g.png){{% /md %}}
 
