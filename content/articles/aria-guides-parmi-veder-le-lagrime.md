@@ -52,10 +52,12 @@ youtube_url = ""
 </figure>
 
 * More lyric stuff here **(13)**, and in a tricky spot of the voice. You're aiming for a new colour here, but nothing more quiet than you can comfortably handle. Be careful not to take an early break after "soccorrerti", or your second set of F-flats won't be in tune and that triplet on "fanciulla" will be hard work. 
-* These few bars **(14)** should have a sense of moving forward; that's a good thing, because there's something cruelly incessant about this transitional phrase. Consider where you'll breathe, and where you won't. 
+* These few bars **(14)** should have a sense of moving forward; that's a good thing, because there's something cruelly incessant about this transitional phrase. Consider where you'll breathe, and where you won't - particularly since your tempo might be slowly increasing. If you get a good breath before the first "ei che le sfere", you might be fine to sing through the first "per te", before breathing again in the common before the A-flat. And once you've made it past the high notes, keep your energy up so you don't fall out of tune.
 
 <figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488952/media/2019/09/AriaGuide-Parmi-p7_utz2ue.png){{% /md %}}  
 </figure>
+
+Of course, this **(15)** is a spot to work on with your teacher; and if you're working with a conductor, they may have some wants and needs as you pace out this cadenza. Two big things to keep in mind: don't let yourself fall into the basement as you come down on the first "non invidiò". 
 
 <figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568489053/media/2019/09/AriaGuide-Parmi-p8_deespa.png){{% /md %}}  
 </figure>
