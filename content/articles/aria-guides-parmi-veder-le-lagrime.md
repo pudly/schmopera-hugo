@@ -21,7 +21,9 @@ youtube_url = ""
 
   <figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488851/media/2019/09/AriaGuide-Parmi-p1_pwtvh8.png){{% /md %}}</figure>
 * Take a smart breath here **(2)**, and give these notes room for vibrato - particularly the first high G.
-* This D pitch **(3)** that you keep repeating - it turns into something new when the orchestra comes in on "sa-**rà**". Check your intonation on the E of "quell'", and sing through both Fs in "angiol".<figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488868/media/2019/09/AriaGuide-Parmi-p2_wfxeed.png){{% /md %}}  
+* This D pitch **(3)** that you keep repeating - it turns into something new when the orchestra comes in on "sa-**rà**". Check your intonation on the E of "quell'", and sing through both Fs in "angiol".
+
+  <figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488868/media/2019/09/AriaGuide-Parmi-p2_wfxeed.png){{% /md %}}  
   </figure>
 * Try not to over-think these phrases **(4)**. Verdi writes you a crescendo and diminuendo over your line, so let those help you up and down this tricky stepwise motion.
 * There's a mood change here **(5)**, his recollection of how Gilda looked. Keep it light here, and don't get caught in the trap of equating dotted sixteenth notes with a fast tempo. When you get to the long melisma on "credo", maintain your vowel.
@@ -50,8 +52,8 @@ youtube_url = ""
 <figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488931/media/2019/09/AriaGuide-Parmi-p6_ytvwbp.png){{% /md %}}  
 </figure>
 
-* More lyric stuff here **(13)**, and in a tricky spot of the voice. You're aiming for a new colour here, but nothing more quiet than you can comfortably handle. Be careful not to take an early break after "soccorrerti", or your second set of F-flats won't be in tune and that triplet on "fanciulla" will be hard work. 
-* These few bars **(14)** should have a sense of moving forward; that's a good thing, because there's something cruelly incessant about this transitional phrase. Consider where you'll breathe, and where you won't - particularly since your tempo might be slowly increasing. If you get a good breath before the first "ei che le sfere", you might be fine to sing through the first "per te", before breathing again in the common before the A-flat. And one bit of performance practice: in the last "angeli" before the fermata, many tenors show off by trading the G-flat for a high B-flat instead. 
+* More lyric stuff here **(13)**, and in a tricky spot of the voice. You're aiming for a new colour here, but nothing more quiet than you can comfortably handle. Be careful not to take an early break after "soccorrerti", or your second set of F-flats won't be in tune and that triplet on "fanciulla" will be hard work.
+* These few bars **(14)** should have a sense of moving forward; that's a good thing, because there's something cruelly incessant about this transitional phrase. Consider where you'll breathe, and where you won't - particularly since your tempo might be slowly increasing. If you get a good breath before the first "ei che le sfere", you might be fine to sing through the first "per te", before breathing again in the common before the A-flat. And one bit of performance practice: in the last "angeli" before the fermata, many tenors show off by trading the G-flat for a high B-flat instead.
 
 <figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488952/media/2019/09/AriaGuide-Parmi-p7_utz2ue.png){{% /md %}}  
 </figure>
