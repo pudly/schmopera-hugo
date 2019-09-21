@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569086919/media/2019/09/sqVedrai_xq45w0.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
@@ -21,6 +21,8 @@ youtube_url = ""
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569086353/media/2019/09/AriaGuide-Vedrai-p1_cdqjnb.png){{% /md %}}
 
 </figure>
+
+* Something to keep in mind right from the start **(1)**: Zerlina has grown up a little since the last aria she sang ("Batti, batti"). She's lived more, and likely learned a bit about her body since her encounter with the Don.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569086368/media/2019/09/AriaGuide-Vedrai-p2_ttuuyk.jpg){{% /md %}}
 
