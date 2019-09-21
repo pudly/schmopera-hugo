@@ -1,7 +1,7 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Editorial"
-date = "2019-09-07T04:00:00+00:00"
+date = "2019-09-21T04:00:00+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
@@ -12,7 +12,7 @@ primary_image_credit = ""
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "\"The one thing she said that never left me was the virgin-shaming. She said that maybe if I had sex or got a boyfriend, that it would relax me and make me a better singer. These insinuations or outright comments went on for the three years I studied with her.\""
+short_description = "short"
 slug = "thestories-part-5"
 title = "#TheStories, part 5"
 youtube_url = ""
