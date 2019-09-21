@@ -22,7 +22,7 @@ youtube_url = ""
 
 </figure>
 
-* Something to keep in mind right from the start **(1)**: Zerlina has grown up a little since the last aria she sang ("Batti, batti"). She's lived more, and likely learned a bit about her body since her encounter with the Don. This aria has a nobility and a maturity about it, a roominess that we don't often associate with soubrette roles. And for a soprano, this contrast is similar to what a Susanna would feel when she arrives at "Deh vieni, non tardar".
+* Something to keep in mind right from the start **(1)**: Zerlina has grown up a little since the last aria she sang ("Batti, batti"). She's lived more, and likely learned a bit about her body since her encounter with the Don. It's a bit similar to what a Susanna would feel in _Le nozze di Figaro_, when she arrives at "Deh vieni, non tardar". Zerlina's aria too has a nobility and a maturity about it, a roominess that we don't often associate with soubrette roles. The 3/8 time will give the tune a swinging feel of 1, but stay on the voice as you sustain each pitch. There's time to be deliberate, even with the grace notes in the melody.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569086368/media/2019/09/AriaGuide-Vedrai-p2_ttuuyk.jpg){{% /md %}}
 
