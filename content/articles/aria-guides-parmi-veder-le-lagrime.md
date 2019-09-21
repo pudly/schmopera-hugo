@@ -45,7 +45,7 @@ youtube_url = ""
 ![](https://res.cloudinary.com/schmopera/image/upload/v1568488917/media/2019/09/AriaGuide-Parmi-p5_spvf3t.jpg){{% /md %}}  
 </figure>
 
-* This upward portamento on "ciglio" **(11)** is all about planning ahead of time. Essentially, you're heading back to that G-flat from the very start; if you've let your resonant space drop in the first four measures, this will be more difficult. Backtrack a bit to "scorrenti", and take care that the portamento down to the low F doesn't cost you your upper resonance. The crescendo marked on the way up to the G-flat is really more of an allowance than a direction; the voice will automatically get louder with this rising portamento, and Verdi is telling you to use that natural spin to
+* This upward portamento on "ciglio" **(11)** is all about planning ahead of time. Essentially, you're heading back to that G-flat from the very start; if you've let your resonant space drop in the first four measures, this will be more difficult. Backtrack a bit to "scorrenti", and take care that the portamento down to the low F doesn't cost you your upper resonance. The crescendo marked on the way up to the G-flat is really more of an allowance than a direction; the voice will automatically get louder with this rising portamento, and the whole thing will be easier and more beautiful if you let that happen. Verdi's not asking you for more sound than you'd naturally make in this part of your voice.
 
 <figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488931/media/2019/09/AriaGuide-Parmi-p6_ytvwbp.png){{% /md %}}  
 </figure>
