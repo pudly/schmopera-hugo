@@ -38,12 +38,14 @@ youtube_url = ""
 </figure>
 
 * This melisma **(9)** is certainly one to take to your teacher; different tenors will find their favourite vowel, both at the start and to modify up at the top. The tricky bit, of course, is the semitone between the A-flat and B-double-flat. It will feel quite wide, even for a half-step, and maybe it'll even feel like you're moving from one "place" in your voice to another. A good cue for a job well done: you can still vibrate on the A-flat on your way back down.
-* The aria finally begins! **(10)** Verdi gives you plenty of chances to stay legato - the portamentos between "Par-mi", "scorren-ti" and "...ciglio, quando..."
+* The aria finally begins! **(10)** Verdi gives you plenty of chances to stay legato - the portamentos between "Par-mi", "scorren-ti" and "...ciglio, quando..." - but the trap is to set too slow a tempo. It's a good idea to practice this aria too quickly throughout the learning process. A fast tempo, even one faster than you plan to take, will remind you that this has a triple-meter, dance-like feel to it. There's tension written into these phrases, and if the aria is too slow, that tension turns into shapeless slack.
 
 <figure data-type="image"{{% md %}}
 
 ![](https://res.cloudinary.com/schmopera/image/upload/v1568488917/media/2019/09/AriaGuide-Parmi-p5_spvf3t.jpg){{% /md %}}  
 </figure>
+
+* This upward portamento on "ciglio" **(11)** is all about planning ahead of time. Essentially, you're heading back to that G-flat from the very start; if you've let your resonant space drop in the first four measures, this will be more difficult. Backtrack a bit to "scorrenti", and take care that the portamento down to the low F doesn't cost you your upper resonance. The crescendo marked on the way up to the G-flat is really more of an allowance than a direction; the voice will automatically get louder with this rising portamento, and Verdi is telling you to use that natural spin to
 
 <figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488931/media/2019/09/AriaGuide-Parmi-p6_ytvwbp.png){{% /md %}}  
 </figure>
