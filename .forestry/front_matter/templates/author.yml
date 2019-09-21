@@ -37,5 +37,6 @@ fields:
   template_types:
   - social-media
 pages:
+- content/authors/kay-cartwright.md
 - content/authors/kathryn-nickford.md
 - content/authors/leslie-ashworth.md
