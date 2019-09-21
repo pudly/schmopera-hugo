@@ -61,3 +61,13 @@ Of course, this **(15)** is a spot to work on with your teacher; and if you're w
 
 <figure data-type="image"{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568489053/media/2019/09/AriaGuide-Parmi-p8_deespa.png){{% /md %}}  
 </figure>
+
+***
+
+Some old-school mastery of this aria, courtesy of our friend, Pavarotti:
+
+<figure data-type="video">{{% md %}}{{% /md %}}
+
+<iframe width="948" height="758" src="https://www.youtube.com/embed/O50YveN3TL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</figure>
