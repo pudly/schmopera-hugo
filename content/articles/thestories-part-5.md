@@ -24,11 +24,13 @@ Because he alone has unilateral power over hiring and firing choir members, I fe
 
 As a conductor and company leader, knew he was in a position of power over me (in that he had control over a large part of my income), and he abused that power.
 
+> He then responded by making it very clear that he was making sexual references, by saying "I was hoping you'd get the double entendre in my message".
+
 His inappropriate behaviour manifested itself in many ways, including regular invitations to visit his home alone, as well as unwelcomed sexual innuendos both in person and in writing. He sent me a text message after a Sunday morning church service, in which he made reference to gay sexual positions ("top" and "bottom").
 
 In response to his message, and in accordance with my aim to maintain the delicate balance I mentioned above, I responded in a way that I hoped would show me as "friendly and easy to get along with" but that would stop the conversation, while at the same time not upsetting him (which I feared would lead to him firing me from my position with the church choir).
 
-At 2:07am the next morning, he sent the following email, suggesting that "those who don't accept the heat of his passion simply go away."
+> At 2:07am the next morning, he sent the following email, suggesting that "those who don't accept the heat of his passion simply go away."
 
 He then responded by making it very clear that he was making sexual references, by saying "I was hoping you'd get the double entendre in my message".
 
@@ -36,9 +38,9 @@ The following year, on the afternoon of May 4, 2015, I had agreed to do a privat
 
 I knew that meeting with him meant risking that he would make further sexual harassment attempts, but I was comforted by the fact that I would be meeting him in the church, in the afternoon, amidst other church staff members. So, I proceeded with the coaching session.
 
-His touch lasted for far longer than would have necessary than if he were he simply trying to teach or demonstrate something.
-
 During that coaching session, he referenced an "innocence within me" and attempted to convince me that there was also "a darkness" within me, that he felt compelled to help me with.
+
+> His touch lasted for far longer than would have necessary than if he were he simply trying to teach or demonstrate something.
 
 During this coaching session, under the pretense of "teaching", he laid his hands on my chest without my consent. In musical coachings (as in any situation), one does not have consent to touch another person's body without first getting their permission.
 
@@ -46,15 +48,15 @@ I understand that a male's chest is not an erogenous area. However, given that h
 
 Later that day, he sent me an email, in which he again referenced my "innocence and negativity", and once again attempted to coerce me to meet with him alone at his home. I responded to this email with a reply, in which I clearly laid out my boundaries, and made requests for the parameters of our professional relationship going forward.
 
-This happened as a direct result of my politely and assertively setting boundaries by refusing is sexual overtures.
-
 He responded with an email suggesting that I should decide whether or not I should continue to sing at the church.
 
 I responded saying I would definitely like to continue to sing with the church choir, and asked for confirmation of the schedule, to see when I could next join the choir. To this email, I never received a response.
 
+> This happened as a direct result of my politely and assertively setting boundaries by refusing is sexual overtures.
+
 Later that summer, on July 17, 2015, I sang in an "ad hoc" choir for summer music festival (assembled for this occasion only), which was conducted by this man. This was my first opportunity to meet with him since the email exchange on May 12, 2015. I did not approach him, nor did I exchange words with him outside of some brief exchanges about how to present the music that evening.
 
-This man fired me without just cause.
+> He made the decision to fire me.
 
 I felt that, because he was in the position of power in our relationship, and because I'd demonstrated a wish to reconcile and continue singing with the choir, that he was the one who would have to choose how to talk next.
 
@@ -64,7 +66,7 @@ He made the decision to fire me. This happened as a direct result of my politely
 
 As a working artist, I relied heavily on the average $400 in monthly income that came from singing with this choir. This man fired me without just cause.
 
-He demonstrates a pattern of predatory behaviour which will continue, if left unaddressed.
+> He demonstrates a pattern of predatory behaviour which will continue, if left unaddressed.
 
 In the months following, when I met members of the church choir, they shared with me that he had announced that I alone had chosen to leave the choir. In doing so, he had erased the entire storyline. Because he is well liked by choir members, I felt unable to correct such choir member when I was speaking with them, due to a strong cognitive dissonance (to "not make a pleasant conversation suddenly very serious and unpleasant").
 
