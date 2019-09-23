@@ -41,8 +41,8 @@ youtube_url = ""
 
 </figure>
 
-* This melisma **(9)** is certainly one to take to your teacher; different tenors will find their favourite vowel, both at the start and to modify up at the top. The tricky bit, of course, is the semitone between the A-flat and B-double-flat. It will feel quite wide, even for a half-step, and maybe it'll even feel like you're moving from one "place" in your voice to another. A good cue for a job well done: you can still vibrate on the A-flat on your way back down.
-* The aria finally begins! **(10)** Verdi gives you plenty of chances to stay legato - the portamentos between "Par-mi", "scorren-ti" and "...ciglio, quando..." - but the trap is to set too slow a tempo. It's a good idea to practice this aria too quickly throughout the learning process. A fast tempo, even one faster than you plan to take, will remind you that this has a triple-meter, dance-like feel to it. There's tension written into these phrases, and if the aria is too slow, that tension turns into shapeless slack.
+* This melisma **(9)** is certainly one to take to your teacher; different tenors will find their favourite vowel, both at the start and to modify up at the top. The tricky bit, of course, is the semitone between the A-flat and B-double-flat. It will feel quite wide, even for a half-step, and maybe it'll even feel like you're moving from one "place" in your voice to another. A good marker of a job well done: you can still vibrate on the A-flat on your way back down.
+* The aria finally begins! **(10)** Verdi gives you plenty of chances to stay legato - the portamentos between "Par-mi", "scorren-ti" and "...ciglio, quando..." - but the trap is to set too slow a tempo. Every so often as you learn this, it's helpful to [practice this aria too quickly](/surprising-practice-tips-4-arias-to-try-too-fast/). A fast tempo, even one faster than you plan to take, will remind you that this has a triple-meter, dance-like feel to it. There's tension written into these phrases, and if the aria is too slow, that tension turns into shapeless slack.
 
 <figure data-type="image">{{% md %}}
 
