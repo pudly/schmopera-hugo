@@ -52,6 +52,8 @@ Of course, when the music found its dramatic stride, Saint-Saëns could deliver 
 
 It does ultimately tie into Odyssey Opera's mission statement to shine a light on underperformed gems of the repertoire, and there is a lot to like about Saint-Saën's _Henry VIII_. But alas, perhaps some of the cut content should have stayed cut, because as is the work is simply too long, particularly for a concert staging.
 
+> From the moment she stepped on-stage, she embodied Anne Boleyn's every dramatic beat with pitch-perfect conviction.
+
 The performance, at least, was absolutely top-notch from everyone involved, and it was to an extremely high standard even by Odyssey Opera's already high standards. The orchestral playing was sensitive, always providing great accompaniment in that it supported the singers while highlighting Saint-Saëns' use of the orchestral palette to indicate a mood change. The choral singing was reliably great as always, with powerful tutti singing and even several chorus members who knocked it out of the part in several solo parts. Maestro Rose navigated both forces through the rich score with a deft hand that held the balances just right.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569198157/media/2019/09/EllieDehn_ErinMerceruio_withOrchestra_lcckps.jpg){{% /md %}}
@@ -71,6 +73,8 @@ Also most notable was Hilary Ginther as Anne Boleyn: from the moment she stepped
 </figure>
 
 Also of note was Yeghishe Manucharyan as Don Gomez de Feria, the man that Anne Boleyn leaves to be with Henry. He did flag out a little towards the end owing in big part to the sheer length of the opera, but he still maintained a beautiful tone throughout, and he leant a pathos to what I imagine would be a typically thankless role. 
+
+> I feel only that I would have enjoyed the whole evening much more, however, if some of the content had been trimmed down somewhat.
 
 Ellie Dehn took a little bit of time to warm up to Catherine of Aragon, but once she found her dramatic footing in the conflicts her character endured, she really took to the role. Her Act III aria where she addresses the jury at the trial in Westminster was brimming with pathos and warmth, and it made me wonder why she seemed so disconnected from the text in Act I. 
 
