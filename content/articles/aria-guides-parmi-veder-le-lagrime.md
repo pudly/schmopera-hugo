@@ -27,8 +27,8 @@ youtube_url = ""
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488868/media/2019/09/AriaGuide-Parmi-p2_wfxeed.png){{% /md %}}  
 </figure>
 
-* Try not to over-think these phrases **(4)**. Verdi writes you a crescendo and diminuendo over your line, so let those help you up and down this tricky stepwise motion. 
-* There's a mood change here **(5)**, his recollection of how Gilda looked. Keep it light here, and don't get caught in the trap of equating dotted sixteenth notes with a fast tempo. When you get to the long melisma on "credo", maintain your vowel.
+* Try not to over-think these phrases **(4)**. Verdi writes you a crescendo and diminuendo over your line, so let those help you up and down this tricky stepwise motion.
+* There's a mood change here **(5)**, when the Duke recalls how Gilda looked when he met her. Keep it light here, and don't get caught in the trap of equating dotted sixteenth notes with a fast tempo. When you get to the long melisma on "credo", maintain your vowel.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1568488882/media/2019/09/AriaGuide-Parmi-p3_o6o7h8.png){{% /md %}}  
 </figure>
