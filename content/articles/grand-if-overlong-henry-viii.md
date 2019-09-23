@@ -76,9 +76,9 @@ Ellie Dehn took a little bit of time to warm up to Catherine of Aragon, but once
 
 The minor roles also had rather excellent singing, but in particular Kevin Deas stood out as the Cardinal Campeggio, who managed to fill his Act III aria with just enough authority that I could almost overlook the fact that it was about two minutes too long.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569198228/media/2019/09/YeghisheManucharyan_ggyv4u.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Yeghishe Manucharyan Henry VIII, Odyssey Opera, 2019. Photo: Kathy Wittman.</figcaption>
 
 </figure>
 
