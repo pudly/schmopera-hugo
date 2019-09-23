@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/grand-if-overlong-henry-viii.md
 - content/articles/aria-guides-vedrai-carino.md
 - content/articles/aria-guides-parmi-veder-le-lagrime.md
 - content/articles/thestories-part-5.md
