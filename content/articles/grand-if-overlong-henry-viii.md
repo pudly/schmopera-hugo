@@ -42,6 +42,8 @@ Worse, some of it is down to pacing issues in Saint-Saëns' score even beyond th
 
 Sometimes even without the cuts, the music had a tendency to get a little meandering, particularly in the outer two acts with the least work done. That aspect can perhaps be best described by the first twenty minutes of this performance: the music was quite lovely, but a technical hiccup meant that the audience spent the first twenty minutes of the whole work stuck without subtitles, and it proved deadly since the music gave the audience nothing to pinpoint exactly what the mood should have been.
 
+> The confrontation between Henry's wives in Act IV also made for a satisfying musical climax, particularly when Henry storms in.
+
 Of course, when the music found its dramatic stride, Saint-Saëns could deliver the drama in spades.The septet (actually an octet) that closed Act II made me wonder why it was cut to begin with, for it's the perfect musical climax to the second act. The courtroom scene at Westminster in Act III was nothing short of a musical marvel, with the music living up to the grand scale of the scene. Particularly inspired, too, were several arias throughout the second and third acts that shone spotlights on characterization. The confrontation between Henry's wives in Act IV also made for a satisfying musical climax, particularly when Henry storms in.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569198068/media/2019/09/HilaryGinther_kggrnm.jpg){{% /md %}}
