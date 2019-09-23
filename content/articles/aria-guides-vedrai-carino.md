@@ -1,7 +1,7 @@
 +++
 author = ["authors/jenna.md"]
 categories = "How-To"
-date = "2019-09-21T04:00:00+00:00"
+date = "2019-09-22T04:00:00+00:00"
 disclaimer = ""
 image_gallery = []
 postamble = "If you have an aria you'd like to see featured in our Aria Guides, let us know at [hello@schmopera.com](mailto:hello@schmopera.com)."
