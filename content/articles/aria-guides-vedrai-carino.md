@@ -31,7 +31,7 @@ youtube_url = ""
 </figure>
 
 * There's something about this phrase **(3)** that makes people sing sharp. Often, the issue is that you're breathing before "non dà..." and then again before "e lo...", so you're uncomfortably stacking air. You can likely make it through with one breath, if you bring your vibrato around to every note. When you get to that "no" at the end of the line, give it a double N.
-* You'll likely take the breath one breath before this "far" **(4)**, and aim at least for the end of "balsamo" before they breathe again. You'll be fine if you plan accordingly. Some folks like to slow a bit on the way into "È un certo...", so you'll need to account for that, too. It sometimes helps to imagine, in the word "far", that the \[a\] vowel happens in the same place as the letter F.
+* A lot of singers like to take one breath before this "far" **(4)**, and aim at least for the end of "balsamo" before they breathe again. You might think that's too long a phrase, but give it a try - and plan accordingly with your breath and vowel placement. It sometimes helps to imagine, in the word "far", that the \[a\] vowel happens in the same place as the letter F.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569086379/media/2019/09/AriaGuide-Vedrai-p3_s6sbfz.jpg){{% /md %}}
 
