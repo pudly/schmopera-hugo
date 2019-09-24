@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569349774/media/2019/09/sqFrancescoLanzillotta-ManuelaGiusto_dsicfz.jpg"
+primary_image_credit = "Francesco Lanzillotta, conductor. Photo: Manuela Giusto."
 related_articles = []
 related_companies = []
 related_people = []
@@ -32,9 +32,9 @@ I don't think it is so different. Taking care of details such as searching for t
 
 Of course in opera a conductor must understand what kind of voices he has and find a solution if his previous ideas don’t work so well with them. He should be resilient.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569349739/media/2019/09/FrancescoLanzillotta-ManuelaGiusto_wxzsfy.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Francesco Lanzillotta, conductor. Photo: Manuela Giusto.</figcaption>
 
 </figure>
 
