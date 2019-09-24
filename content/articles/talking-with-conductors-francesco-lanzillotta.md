@@ -46,8 +46,10 @@ But the most important skill is impossible to describe: it is about the wave of 
 
 ## What does opera need more of? What does it need less of?
 
-Opera needs a different kind of promotion, focused on the future. It needs to reappropriate its social role, starting from new ideas of promotion using all the possibilities that technology gives us. It even needs more courage to discover all the productions of the last century. At the same time it needs fewer vocalists and more interpreters.  We don’t have to forget that opera is theatre and we have to use the words to tell a story and not only to sing beautiful sounds.
+Opera needs a different kind of promotion, focused on the future. It needs to reappropriate its social role, starting from new ideas of promotion using all the possibilities that technology gives us. It even needs more courage to discover all the productions of the last century. 
 
-\- Do you have any “bucket list” operas that you’d love to conduct? Why?
+At the same time, it needs fewer vocalists and more interpreters.  We shouldn't forget that opera is theatre, and we have to use the words to tell a story and not only to sing beautiful sounds.
 
-I have a dream: I would like to conduct Mass by Bernstein because it is a courageous score full of incredible ideas, amazing music, and it is the most authentic representation of crossover music.
+## Do you have any "bucket list" operas that you'd love to conduct? Why?
+
+I have a dream: I would like to conduct _Mass_ by Bernstein, because it is a courageous score full of incredible ideas, amazing music, and it is the most authentic representation of crossover music.
