@@ -34,11 +34,11 @@ Of course in opera a conductor must understand what kind of voices he has and fi
 
 ## What makes a conductor "singer-friendly"?
 
-As I said before, a conductor must understand the characteristics of the singers that he has in his production and try to model his musical idea on them. Sometimes it's important to convince a singer that he or she can do what you want, even if he or she is not convinced. In order to do this, it's necessary to explain every detail clearly and precisely.
+As I said before, a conductor must understand the characteristics of the singers that they have in their production and try to model their musical idea on them. Sometimes it's important to convince a singer that he or she can do what you want, even if he or she is not convinced. In order to do this, it's necessary to explain every detail clearly and precisely.
 
-At least he has to love voices and think about opera as a great teamwork.
+At least, a conductor has to love voices and think about opera as a great teamwork.
 
-\- What kind of communication skills does a conductor need to work in opera?
+## What kind of communication skills does a conductor need to work in opera?
 
 There are a lot of skills that a conductor should have. We could speak about how to create a good work atmosphere, to be convincing about his ideas, and to have a good technique to bring the orchestra and the singers together.
 
