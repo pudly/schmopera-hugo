@@ -6,13 +6,13 @@ disclaimer = ""
 draft = true
 image_gallery = []
 postamble = ""
-preamble = ""
+preamble = "Italian conductor Francesco Lanzillotta is currently in Dresden, set to help open the Semperoper season with Rossini's [_Il viaggio a Reims_](https://www.semperoper.de/spielplan/stuecke/stid/Viaggio-en/61461.html#a_27245) (Sept. 28-Nov. 4). "
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569349774/media/2019/09/sqFrancescoLanzillotta-ManuelaGiusto_dsicfz.jpg"
 primary_image_credit = "Francesco Lanzillotta, conductor. Photo: Manuela Giusto."
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "\"Even the idea of tempo should be very flexible depending on the meaning of the words. Sometimes, even if we don't have a change of tempo written in the score, we should understand when it is necessary to move the musical line forward.\""
 slug = "talking-with-conductors-francesco-lanzillotta"
 title = "Talking with conductors: Francesco Lanzillotta"
 youtube_url = ""
@@ -22,7 +22,7 @@ youtube_url = ""
 
 The first skill is to know where the main accent of the musical phrase should be stressed. This idea also depends on where the strong accents of the words are and in general which kind of verse is used. In the Italian language there are many different kinds of verses like, "quinario, senario, settenario etc." with different characteristics and the music very often follows them.
 
-Even the idea of tempo should be very flexible depending on the meaning of the words. Sometimes if we don’t even have a change of tempo written in the score we should understand when it is necessary to move the musical line forward.
+Even the idea of tempo should be very flexible depending on the meaning of the words. Sometimes, even if we don't have a change of tempo written in the score, we should understand when it is necessary to move the musical line forward.
 
 We think that playing "leggero" means to play "piano" and this is a big mistake. It means that there are some main points in the music that need to be stressed and then relaxed.
 
@@ -54,7 +54,7 @@ But the most important skill is impossible to describe: it is about the wave of 
 
 ## What does opera need more of? What does it need less of?
 
-Opera needs a different kind of promotion, focused on the future. It needs to reappropriate its social role, starting from new ideas of promotion using all the possibilities that technology gives us. It even needs more courage to discover all the productions of the last century. 
+Opera needs a different kind of promotion, focused on the future. It needs to reappropriate its social role, starting from new ideas of promotion using all the possibilities that technology gives us. It even needs more courage to discover all the productions of the last century.
 
 At the same time, it needs fewer vocalists and more interpreters.  We shouldn't forget that opera is theatre, and we have to use the words to tell a story and not only to sing beautiful sounds.
 
