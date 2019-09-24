@@ -50,6 +50,8 @@ There are a lot of skills that a conductor should have. We could speak about how
 
 But the most important skill is impossible to describe: it is about the wave of music that must fill the theatre and bring all of the musicians, singers, and choir in a secret place full of magic during a performance. This is the difference between a good conductor and a great conductor.
 
+> I have a dream: I would like to conduct Bernstein's _Mass_, because it is a courageous score.
+
 ## What does opera need more of? What does it need less of?
 
 Opera needs a different kind of promotion, focused on the future. It needs to reappropriate its social role, starting from new ideas of promotion using all the possibilities that technology gives us. It even needs more courage to discover all the productions of the last century. 
@@ -58,4 +60,4 @@ At the same time, it needs fewer vocalists and more interpreters.  We shouldn't 
 
 ## Do you have any "bucket list" operas that you'd love to conduct? Why?
 
-I have a dream: I would like to conduct _Mass_ by Bernstein, because it is a courageous score full of incredible ideas, amazing music, and it is the most authentic representation of crossover music.
+I have a dream: I would like to conduct Bernstein's _Mass_, because it is a courageous score full of incredible ideas, amazing music, and it is the most authentic representation of crossover music.
