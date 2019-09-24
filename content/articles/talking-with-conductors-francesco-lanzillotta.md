@@ -42,11 +42,11 @@ At least, a conductor has to love voices and think about opera as a great teamwo
 
 There are a lot of skills that a conductor should have. We could speak about how to create a good work atmosphere, to be convincing about his ideas, and to have a good technique to bring the orchestra and the singers together.
 
-But the most important skill is impossible to describe: it is about the wave of music that must fill the theater and bring all of the musicians, singers, and choir in a secret place full of magic during a performance. This is the difference between a good conductor and a great conductor.
+But the most important skill is impossible to describe: it is about the wave of music that must fill the theatre and bring all of the musicians, singers, and choir in a secret place full of magic during a performance. This is the difference between a good conductor and a great conductor.
 
-\- What does opera need more of? What does it need less of?
+## What does opera need more of? What does it need less of?
 
-Opera needs a different kind of promotion focused on the future and to reappropriate its social role starting from new ideas of promotion using all the possibilities that technology gives us. It even  needs  more courage to discover all the productions of the last century. At the same time it needs fewer vocalists and more interpreters.  We don’t have to forget that opera is theatre and we have to use the words to tell a story and not only to sing beautiful sounds.
+Opera needs a different kind of promotion, focused on the future. It needs to reappropriate its social role, starting from new ideas of promotion using all the possibilities that technology gives us. It even needs more courage to discover all the productions of the last century. At the same time it needs fewer vocalists and more interpreters.  We don’t have to forget that opera is theatre and we have to use the words to tell a story and not only to sing beautiful sounds.
 
 \- Do you have any “bucket list” operas that you’d love to conduct? Why?
 
