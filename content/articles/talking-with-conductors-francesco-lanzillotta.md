@@ -24,25 +24,25 @@ The first skill is to know where the main accent of the musical phrase should be
 
 Even the idea of tempo should be very flexible depending on the meaning of the words. Sometimes if we don’t even have a change of tempo written in the score we should understand when it is necessary to move the musical line forward.
 
-We think that playing “leggero” means to play “piano” and this is a big mistake. It means that there are some main points in the music that need to be stressed and then relaxed.
+We think that playing "leggero" means to play "piano" and this is a big mistake. It means that there are some main points in the music that need to be stressed and then relaxed.
 
-\- How does the role of the conductor differ between opera and symphonic work?
+## How does the role of the conductor differ between opera and symphonic work?
 
-I don’t think it is so different. Taking care of details such as searching for the right sound and the right idea of “fraseggio”, understanding the style of a composer and his identity are the same goals when conducting both opera and symphonic works.
+I don't think it is so different. Taking care of details such as searching for the right sound and the right idea of "fraseggio", understanding the style of a composer and his identity are the same goals when conducting both opera and symphonic works.
 
 Of course in opera a conductor must understand what kind of voices he has and find a solution if his previous ideas don’t work so well with them. He should be resilient.
 
-\- What makes a conductor “singer-friendly”?
+## What makes a conductor "singer-friendly"?
 
-As I said before, a conductor must understand the characteristics of the singers that he has in his production and try to model his musical idea on them. Sometimes it’s important to convince a singer that he or she can do what you want, even if he or she is not convinced. In order to do this, it’s necessary to explain every detail clearly and precisely. 
+As I said before, a conductor must understand the characteristics of the singers that he has in his production and try to model his musical idea on them. Sometimes it's important to convince a singer that he or she can do what you want, even if he or she is not convinced. In order to do this, it's necessary to explain every detail clearly and precisely.
 
-At least he has to love voices and think about Opera as a great teamwork.
+At least he has to love voices and think about opera as a great teamwork.
 
 \- What kind of communication skills does a conductor need to work in opera?
 
-There are a lot of skills that a conductor should have. We could speak about how to create a good work atmosphere, to be convincing about his ideas, and to have a good technique to bring the orchestra and the singers together. 
+There are a lot of skills that a conductor should have. We could speak about how to create a good work atmosphere, to be convincing about his ideas, and to have a good technique to bring the orchestra and the singers together.
 
-But the most important skill is impossible to describe: it is about the wave of music that must fill the theater and bring all of the musicians, singers, and choir in a secret place full of magic during a performance. This is the difference between a good conductor and a great conductor. 
+But the most important skill is impossible to describe: it is about the wave of music that must fill the theater and bring all of the musicians, singers, and choir in a secret place full of magic during a performance. This is the difference between a good conductor and a great conductor.
 
 \- What does opera need more of? What does it need less of?
 
