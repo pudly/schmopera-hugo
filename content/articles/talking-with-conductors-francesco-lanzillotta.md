@@ -32,6 +32,12 @@ I don't think it is so different. Taking care of details such as searching for t
 
 Of course in opera a conductor must understand what kind of voices he has and find a solution if his previous ideas don’t work so well with them. He should be resilient.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 ## What makes a conductor "singer-friendly"?
 
 As I said before, a conductor must understand the characteristics of the singers that they have in their production and try to model their musical idea on them. Sometimes it's important to convince a singer that he or she can do what you want, even if he or she is not convinced. In order to do this, it's necessary to explain every detail clearly and precisely.
