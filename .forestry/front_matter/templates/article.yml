@@ -116,12 +116,12 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/thestories-part-5.md
 - content/articles/talking-with-conductors-francesco-lanzillotta.md
 - content/articles/grand-if-overlong-henry-viii.md
 - content/articles/aria-guides-vedrai-carino.md
 - content/articles/aria-guides-parmi-veder-le-lagrime.md
 - content/articles/aria-guides-donde-lieta-uscì.md
-- content/articles/thestories-part-5.md
 - content/articles/you-have-rights-to-your-working-hours-an-open-letter-to-singers.md
 - content/articles/thestories-part-10.md
 - content/articles/operatease.md

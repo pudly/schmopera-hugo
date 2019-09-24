@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2019-09-21T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "If you have a true story of harassment, abuse, or assault within the opera and classical music industries, and you want to talk about it, send it my way at [jenna@schmopera.com](mailto:jenna@schmopera.com)."
 preamble = "This is one part in a series of personal accounts of harassment, abuse, and assault in the opera and classical music industries. These stories are published as told to me, with some names and details withheld or changed at the author's request."
