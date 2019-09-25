@@ -8,7 +8,7 @@ postamble = "If you have a true story of harassment, abuse, or assault within th
 preamble = "This is one part in a series of personal accounts of harassment, abuse, and assault in the opera and classical music industries. These stories are published as told to me, with some names and details withheld or changed at the author's request."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1567905788/media/2019/09/TheStories6_wwalpa.jpg"
 primary_image_credit = ""
-related_articles = ["articles/thestories-part-4.md", "articles/thestories-part-3.md", "articles/thestories-part-2.md", "articles/thestories-part-i.md", "articles/metoo-intro.md"]
+related_articles = []
 related_companies = []
 related_people = []
 short_description = "\"Later that day, he sent me an email, in which he again referenced my 'innocence and negativity', and once again attempted to coerce me to meet with him alone at his home. I responded to this email with a reply, in which I clearly laid out my boundaries, and made requests for the parameters of our professional relationship going forward.\""
@@ -29,7 +29,7 @@ His inappropriate behaviour manifested itself in many ways, including regular in
 
 In response to his message, and in accordance with my aim to maintain the delicate balance I mentioned above, I responded in a way that I hoped would show me as "friendly and easy to get along with" but that would stop the conversation, while at the same time not upsetting him (which I feared would lead to him firing me from my position with the church choir).
 
-> At 2:07am the next morning, he sent the following email, suggesting that "those who don't accept the heat of his passion simply go away."
+> He offered to help me, at a reduced rate compared to other coaches in the city.
 
 He then responded by making it very clear that he was making sexual references, by saying "I was hoping you'd get the double entendre in my message".
 
