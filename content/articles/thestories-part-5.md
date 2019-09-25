@@ -29,8 +29,6 @@ His inappropriate behaviour manifested itself in many ways, including regular in
 
 In response to his message, and in accordance with my aim to maintain the delicate balance I mentioned above, I responded in a way that I hoped would show me as "friendly and easy to get along with" but that would stop the conversation, while at the same time not upsetting him (which I feared would lead to him firing me from my position with the church choir).
 
-> He offered to help me, at a reduced rate compared to other coaches in the city.
-
 He then responded by making it very clear that he was making sexual references, by saying "I was hoping you'd get the double entendre in my message".
 
 The following year, on the afternoon of May 4, 2015, I had agreed to do a private musical coaching with him, to take place in the sanctuary of the church. I had an upcoming musical performance about which I was feeling nervous and in need of some guidance, and he offered to help me, at a reduced rate compared to other coaches in the city.
