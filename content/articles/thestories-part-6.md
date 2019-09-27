@@ -23,7 +23,7 @@ I was playing a pants role in this production. He complimented me on my physical
 
 > Looking back, I am so outraged that the leaders of the festival weren't immediately shocked and angered by what had happened to me.
 
-I can't remember the plot of what I'm sure was a completely made up opera, but it was raunchy and set in a film noir style and mezzo character was clearly supposed to be slutty and a sex object. He wanted to know if I was interested in the role. I made some kind of excuse and got out of there, immediately feeling gross, dirty, and like I had something to hide.
+I can't remember the plot of what I'm sure was a completely made up opera, but it was raunchy and set in a film noir style and the  character was clearly supposed to be slutty and a sex object. He wanted to know if I was interested in the role. I made some kind of excuse and got out of there, immediately feeling gross, dirty, and like I had something to hide.
 
 I feel very fortunate that, at the moment I caught myself thinking that I had some gross secret, I knew I needed to do the opposite of keeping it hidden. I called my mom and told her everything, and then told the leaders of the workshop, who made excuses for him and said he was on some weird medications and that made him act strangely. I didn't buy that one bit and avoided him the rest of the workshop, which thankfully was only a few more days.
 
