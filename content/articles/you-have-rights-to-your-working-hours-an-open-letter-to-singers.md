@@ -3,7 +3,6 @@ author = ["authors/kay-cartwright.md"]
 categories = "Op-Ed"
 date = "2019-09-21T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = "This submission is by a UK-based author, and some details are in the context of the UK. The rest applies to everyone."
