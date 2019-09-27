@@ -1,7 +1,7 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Editorial"
-date = "2019-09-26T04:00:00+00:00"
+date = "2019-09-27T04:00:00+00:00"
 disclaimer = ""
 image_gallery = []
 postamble = "If you have a true story you want to tell of harassment, abuse, or assault in the opera industry, send it to me at [jenna@schmopera.com](mailto:jenna@schmopera.com)."
