@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/thestories-part-6.md
 - content/articles/you-have-rights-to-your-working-hours-an-open-letter-to-singers.md
 - content/articles/thestories-part-5.md
 - content/articles/metoo-intro.md
@@ -290,5 +291,4 @@ pages:
 - content/articles/allison-cociani-s-beauty-s-beast.md
 - content/articles/stars-of-the-lyric.md
 - content/articles/maria-callas-in-concert.md
-- content/articles/thestories-part-6.md
 - content/articles/jon-lucretia.md
