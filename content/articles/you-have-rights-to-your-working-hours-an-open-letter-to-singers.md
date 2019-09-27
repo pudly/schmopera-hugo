@@ -1,14 +1,14 @@
 +++
 author = ["authors/kay-cartwright.md"]
 categories = "Op-Ed"
-date = "2019-09-21T04:00:00+00:00"
+date = "2019-09-27T04:00:00+00:00"
 disclaimer = ""
 image_gallery = []
 postamble = ""
 preamble = "This submission is by a UK-based author, and some details are in the context of the UK. The rest applies to everyone."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569082335/media/2019/09/sqTime_lrywd1.jpg"
 primary_image_credit = ""
-related_articles = []
+related_articles = ["articles/networking-for-introverted-performers.md", "articles/the-opera-party-monologue.md", "articles/i-didnt-get-in-a-short-story-about-clarity.md"]
 related_companies = []
 related_people = []
 short_description = "Perhaps the question to ask is, why do so many young singers put up with it? I would urge my colleagues to put aside the undying loyalty to the artistic dream for a moment and speak up against unfair working conditions of any kind. "
