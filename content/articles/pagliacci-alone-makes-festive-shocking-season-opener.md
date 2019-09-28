@@ -52,18 +52,6 @@ I found it rather immersion-breaking, then, when Nedda and Silvio sang the entir
 
 Perhaps they were playing Silvio as a kind of foreigner in the world the production set up, but then one has to ask oneself why Silvio's brief interaction with Nedda just before the show-within-a-show is entirely sung in English. It's a rather confusing choice to commit to singing the opera almost entirely in English, and it took me out of the performance a little.
 
-Fortunately, it did not take me out enough to dull the effect of this fresh new way of
+Fortunately, it did not take me out enough to dull the effect of this fresh new way of presenting opera. I have overheard whispers from older patrons of Boston Lyric Opera that it is a shame that BLO does not have an opera house that it can call home. In light of this performance, I have to say I am inclined to disagree: if BLO had a proper opera house, I scarcely think they would dare to try something so crazy as to open _Pagliacci_ with a full-blown interactive carnival instead of yet another performance of _Cavalleria rusticana_. 
 
-presenting opera. I have overheard whispers from older patrons of Boston Lyric Opera that it is
-
-a shame that BLO does not have an opera house that it can call home. In light of this
-
-performance, I have to say I am inclined to disagree: if BLO had a proper opera house, I
-
-scarcely think they would dare to try something so crazy as to open Pagliacci with a full-blown
-
-interactive carnival instead of yet another performance of Cavalleria rusticana. This Pagliacci,
-
-therefore, is a testament to the effectiveness of BLO’s installation operas, and I cannot wait to
-
-see what is to come next.
+This _Pagliacci_, therefore, is a testament to the effectiveness of BLO's installation operas, and I cannot wait to see what is to come next.
