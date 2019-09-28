@@ -20,6 +20,8 @@ youtube_url = ""
 +++
 Imagine for a second the following scene: an audience is ushered into a relatively small carnival by a train of clowns playing March of the Gladiators on kazoos. To one side, a matching game with ducks floating in water: whoever gets a matching pair wins a rubber ducky. To another, a refreshments table that sells saltwater taffy and cotton candy, among other popular carnival treats. Next to that, a stage shared alternately by an amateur choir and a duo of young jugglers. 
 
+> The effect was disarming in a way that left the audience unprepared.
+
 In the center of it all, a clown blows bubbles next to someone blowing balloon animals while watching a plastic trombone. And there you are, animatedly chatting with friends as, with a blast of confetti, a tent opens up and you are beckoned into a theater area.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693082/media/2019/09/PagBLO2019-PAG-1LizaVoll_xu0b7x.jpg){{% /md %}}
@@ -39,6 +41,8 @@ For their return to the Steriti Memorial Rink, BLO went all out for the pre-show
 </figure>
 
 The clowns attending to the carnival made sure that everyone was having as fun of a time as possible, even down to how they referred to it as "the carnival" and the rapport they built with patrons. For most caught up in the carnival affairs, the spectre of the opera's well-known finale seemed to vanish, and the result breathed new life into the entirety of a work that has been performed almost to death. 
+
+> I found myself not wanting for Pagliacci's much-beloved double-bill partner Cavalleria rusticana.
 
 In particular, it left us unprepared for the violent finale (which was also more violent than usual, considering that Canio opts to choke Nedda to death and that Tonio smacks Beppe in the head with a wine bottle); I actually jumped in my seat at Silvio's stabbing despite the fact that I knew it was coming, and this shock remained through Tonio gleefully exclaiming opera's most recognizable final line before rampaging around the stage blowing up confetti and cackling like Heath Ledger's Joker.
 
