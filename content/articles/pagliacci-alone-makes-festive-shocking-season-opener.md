@@ -76,7 +76,7 @@ And then there was the chorus, which was rather excellently managed in terms of 
 
 Even the production team seemed to find a better way to work in the Steriti Memorial Rink: the acoustical problems that were present in BLO's foray into _Trouble in Tahiti_ were definitely not so prominent here, and while there were still moments where the singers were fighting the orchestra they generally came when the singers were addressing other parts of the circle in the round.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693314/media/2019/09/PagBLO2019-PAG-8LizaVoll_krtdti.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
@@ -88,7 +88,7 @@ I found it rather immersion-breaking, then, when Nedda and Silvio sang the entir
 
 Perhaps they were playing Silvio as a kind of foreigner in the world the production set up, but then one has to ask oneself why Silvio's brief interaction with Nedda just before the show-within-a-show is entirely sung in English. It's a rather confusing choice to commit to singing the opera almost entirely in English, and it took me out of the performance a little.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693294/media/2019/09/PagBLO2019-PAG-0010_ij39cj.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
