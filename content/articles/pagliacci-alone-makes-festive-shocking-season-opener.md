@@ -22,7 +22,7 @@ Imagine for a second the following scene: an audience is ushered into a relative
 
 In the center of it all, a clown blows bubbles next to someone blowing balloon animals while watching a plastic trombone. And there you are, animatedly chatting with friends as, with a blast of confetti, a tent opens up and you are beckoned into a theater area.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693082/media/2019/09/PagBLO2019-PAG-1LizaVoll_xu0b7x.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
@@ -32,7 +32,7 @@ You would expect, at the end of all this, that a show with clowns would play. In
 
 For their return to the Steriti Memorial Rink, BLO went all out for the pre-show carnival, which opened its doors an hour before the opera began. One would think that something so jovial would be perhaps distasteful for one of opera's most iconic tragedies, and yet the effect was disarming in a way that left the audience unprepared, perhaps in no small part thanks to the commitment of everyone in the pre-show carnival. 
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693101/media/2019/09/PagBLO2019-PAG-4byLizaVoll_auysnp.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
@@ -42,7 +42,7 @@ The clowns attending to the carnival made sure that everyone was having as fun o
 
 In particular, it left us unprepared for the violent finale (which was also more violent than usual, considering that Canio opts to choke Nedda to death and that Tonio smacks Beppe in the head with a wine bottle); I actually jumped in my seat at Silvio's stabbing despite the fact that I knew it was coming, and this shock remained through Tonio gleefully exclaiming opera's most recognizable final line before rampaging around the stage blowing up confetti and cackling like Heath Ledger's Joker.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693113/media/2019/09/PagBLO2019-PAG-8102211_pogvht.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
@@ -54,7 +54,7 @@ Of course, the effect would most likely have been lost if not for the efforts of
 
 Michael Mayes was a _tour de force_, deftly balancing between the ridiculous and the menacing aspects of his character. This came to the fore particularly in the play within a play, where he plays up Taddeo's foolishness, but then stabs a chicken rather violently with the eventual murder weapon as if to signal to the real audience that Canio was not the only one breaking character that night. This play in contrast never let up for a second after Tonio tried to force himself on Nedda earlier, and the result was electric.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693141/media/2019/09/PagBLO2019-PAG-8102665_zwfnq1.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
@@ -64,7 +64,7 @@ Then there was Lauren Michelle, who played a much more sympathetic Nedda than us
 
 Both were so good that it almost overshadowed Rafael Rojas as Canio. This, though, is perhaps more understandable: it was announced at the top of the performance that Rojas was in the process of recovering from a throat infection, and it showed in how Rojas' voice seemed rather quieter than the rest of the cast. This little bout of illness absolutely did not stop Rojas from stopping the show when it came time for him to sing "Vesti la giubba," though: Rojas brought a pathos to the whole aria, and the way he subtly broke down during the aria's conclusion humanized Canio.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693161/media/2019/09/PagBLO2019-PAG-8102743_ygnrjl.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
