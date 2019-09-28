@@ -48,15 +48,9 @@ Even the production team seemed to find a better way to work in the Steriti Memo
 
 There is very little to criticize about this production, but alas there is one big point of contention: the choice to sing the opera mostly in English instead of Italian. This in itself is not a problem, considering that singing the work in English is actually the best way to maintain the immersion. It also helps that only Rojas really struggled with English diction throughout the performance, with everyone else delivering some of the best English diction I have ever heard in opera. 
 
-I found it rather immersion-breaking, then, when Nedda and Silvio sang the entire love duet in Italian, switching to that for a reason that I frankly still do not fully understand. The only explanation I can think of for why this happened (apart from the logistical issue of how the love duet is almost never heard in its complete form and thus likely doesn't have a good performance translation in English) is that perhaps they were playing Silvio as a kind of foreigner in the world
+I found it rather immersion-breaking, then, when Nedda and Silvio sang the entire love duet in Italian, switching to that for a reason that I frankly still do not fully understand. Apart from the logistical issue of how the love duet is almost never heard in its complete form and thus likely doesn't have a good performance translation in English, I can only think of one explanation for why this happened. 
 
-the production set up, but then one has to ask oneself why Silvio’s brief interaction with Nedda
-
-just before the show-within-a-show is entirely sung in English. It’s a rather confusing choice to
-
-commit to singing the opera almost entirely in English, and it took me out of the performance a
-
-little.
+Perhaps they were playing Silvio as a kind of foreigner in the world the production set up, but then one has to ask oneself why Silvio's brief interaction with Nedda just before the show-within-a-show is entirely sung in English. It's a rather confusing choice to commit to singing the opera almost entirely in English, and it took me out of the performance a little.
 
 Fortunately, it did not take me out enough to dull the effect of this fresh new way of
 
