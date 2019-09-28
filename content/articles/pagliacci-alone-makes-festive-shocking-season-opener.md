@@ -76,7 +76,7 @@ And then there was the chorus, which was rather excellently managed in terms of 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693628/media/2019/09/PagBLO2019-PAG-8102581_mgg1da.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>An acrobat performs in Boston Lyric Opera's 2019 production of Pagliacci. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -84,7 +84,7 @@ Even the production team seemed to find a better way to work in the Steriti Memo
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693314/media/2019/09/PagBLO2019-PAG-8LizaVoll_krtdti.jpg){{% /md %}}
 
-<figcaption>in Boston Lyric Opera's 2019 production of Pagliacci. Photo: Liza Voll.</figcaption>
+<figcaption>Lauren Michelle (Nedda/Colombina) and mar Najmi (Beppe/Harlequin) in Boston Lyric Opera's 2019 production of Pagliacci. Photo: Liza Voll.</figcaption>
 
 </figure>
 
