@@ -56,7 +56,7 @@ Michael Mayes was a _tour de force_, deftly balancing between the ridiculous and
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693141/media/2019/09/PagBLO2019-PAG-8102665_zwfnq1.jpg){{% /md %}}
 
-<figcaption>in Boston Lyric Opera's 2019 production of Pagliacci. Photo: Liza Voll.</figcaption>
+<figcaption>Omar Najmi (Beppe/Harlequin) and Lauren Michelle (Nedda/Colombina) in Boston Lyric Opera's 2019 production of Leoncavallo's Pagliacci. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -66,7 +66,7 @@ Both were so good that it almost overshadowed Rafael Rojas as Canio. This, thoug
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693161/media/2019/09/PagBLO2019-PAG-8102743_ygnrjl.jpg){{% /md %}}
 
-<figcaption>in Boston Lyric Opera's 2019 production of Pagliacci. Photo: Liza Voll.</figcaption>
+<figcaption>(l-r) Rafael Rojas (Canio/Pagliacci), Michael Mayes (Tonio), and Lauren Michelle (Nedda) in Boston Lyric Opera's 2019 production of Leoncavallo's Pagliacci. Photo: Liza Voll.</figcaption>
 
 </figure>
 
