@@ -18,49 +18,17 @@ title = "Pagliacci alone makes festive, shocking season opener"
 youtube_url = ""
 
 +++
-Imagine for a second the following scene: an audience is ushered into a relatively small
+Imagine for a second the following scene: an audience is ushered into a relatively small carnival by a train of clowns playing March of the Gladiators on kazoos. To one side, a matching game with ducks floating in water: whoever gets a matching pair wins a rubber ducky. To another, a refreshments table that sells saltwater taffy and cotton candy, among other popular carnival treats. Next to that, a stage shared alternately by an amateur choir and a duo of young jugglers. 
 
-carnival by a train of clowns playing March of the Gladiators on kazoos. To one side, a matching
+In the center of it all, a clown blows bubbles next to someone blowing balloon animals while watching a plastic trombone. And there you are, animatedly chatting with friends as, with a blast of confetti, a tent opens up and you are beckoned into a theater area.
 
-game with ducks floating in water: whoever gets a matching pair wins a rubber ducky. To
+You would expect, at the end of all this, that a show with clowns would play. In a sense, there are clowns in this show, but the clowns of Leoncavallo's _Pagliacci_ come onstage, presenting us with their troubles. As practically everyone in the opera world knows, _Pagliacci_ is an affair that does not end well.
 
-another, a refreshments table that sells saltwater taffee and cotton candy, among other popular
+For their return to the Steriti Memorial Rink, BLO went all out for the pre-show carnival, which opened its doors an hour before the opera began. One would think that something so jovial would be perhaps distasteful for one of opera's most iconic tragedies, and yet the effect was disarming in a way that left the audience unprepared, perhaps in no small part thanks to the commitment of everyone in the pre-show carnival. 
 
-carnival treats. Next to that, a stage shared alternately by an amateur choir and a duo of young
+The clowns attending to the carnival made sure that everyone was having as fun of a time as possible, even down to how they referred to it as "the carnival" and the rapport they built with patrons. For most caught up in the carnival affairs, the spectre of the opera's well-known finale seemed to vanish, and the result breathed new life into the entirety of a work that has been performed almost to death. 
 
-jugglers. In the center of it all, a clown blows bubbles next to someone blowing balloon animals
-
-while watching a plastic trombone. And there you are, animatedly chatting with friends as, with a
-
-blast of confetti, a tent opens up and you are beckoned into a theater area.
-
-You would expect, at the end of all this, that a show with clowns would play. In a sense,
-
-there are clowns in this show, but the clowns of Leoncavallo’s Pagliacci come onstage,
-
-presenting us with their troubles. As practically everyone in the opera world knows, Pagliacci is
-
-an affair that does not end well.
-
-For their return to the Steriti Memorial Rink, BLO went all out for the pre-show carnival,
-
-which opened its doors an hour before the opera began. One would think that something so
-
-jovial would be perhaps distasteful for one of opera’s most iconic tragedies, and yet the effect
-
-was disarming in a way that left the audience unprepared, perhaps in no small part thanks to the
-
-commitment of everyone in the pre-show carnival. The clowns attending to the carnival made
-
-sure that everyone was having as fun of a time as possible, even down to how they referred to it
-
-as “the carnival” and the rapport they built with patrons. For most caught up in the carnival
-
-affairs, the spectre of the opera’s well-known finale seemed to vanish, and the result breathed
-
-new life into the entirety of a work that has been performed almost to death. In particular, it left
-
-us unprepared for the violent finale (which was also more violent than usual, considering that
+In particular, it left us unprepared for the violent finale (which was also more violent than usual, considering that
 
 Canio opts to choke Nedda to death and that Tonio smacks Beppe in the head with a wine
 
