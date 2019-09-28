@@ -5,7 +5,7 @@ date = "2019-09-28T04:00:00+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "Boston Lyric Opera's production of [_Pagliacci_](https://blo.org/pagliacci/) runs through October 6. "
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569692999/media/2019/09/sqPagBLO2019-PAG-7byLizaVoll_yx7lro.jpg"
 primary_image_credit = "Rafael Rojas (Canio) in Boston Lyric Opera's 2019 production of Leoncavallo's Pagliacci. Photo: Liza Voll."
@@ -32,7 +32,7 @@ In the center of it all, a clown blows bubbles next to someone blowing balloon a
 
 You would expect, at the end of all this, that a show with clowns would play. In a sense, there are clowns in this show, but the clowns of Leoncavallo's _Pagliacci_ come onstage, presenting us with their troubles. As practically everyone in the opera world knows, _Pagliacci_ is an affair that does not end well.
 
-For their return to the Steriti Memorial Rink, BLO went all out for the pre-show carnival, which opened its doors an hour before the opera began. One would think that something so jovial would be perhaps distasteful for one of opera's most iconic tragedies, and yet the effect was disarming in a way that left the audience unprepared, perhaps in no small part thanks to the commitment of everyone in the pre-show carnival. 
+For their return to the Steriti Memorial Rink, [BLO went all out](https://blo.org/pagliacci/) for the pre-show carnival, which opened its doors an hour before the opera began. One would think that something so jovial would be perhaps distasteful for one of opera's most iconic tragedies, and yet the effect was disarming in a way that left the audience unprepared, perhaps in no small part thanks to the commitment of everyone in the pre-show carnival. 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693101/media/2019/09/PagBLO2019-PAG-4byLizaVoll_auysnp.jpg){{% /md %}}
 
