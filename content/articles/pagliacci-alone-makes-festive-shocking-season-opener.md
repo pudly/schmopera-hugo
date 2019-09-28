@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569692999/media/2019/09/sqPagBLO2019-PAG-7byLizaVoll_yx7lro.jpg"
-primary_image_credit = ""
+primary_image_credit = "in Boston Lyric Opera's 2019 production of Pagliacci. Photo: Liza Voll."
 related_articles = []
 related_companies = []
 related_people = []
@@ -24,7 +24,7 @@ In the center of it all, a clown blows bubbles next to someone blowing balloon a
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693082/media/2019/09/PagBLO2019-PAG-1LizaVoll_xu0b7x.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>in Boston Lyric Opera's 2019 production of Pagliacci. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -34,7 +34,7 @@ For their return to the Steriti Memorial Rink, BLO went all out for the pre-show
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693101/media/2019/09/PagBLO2019-PAG-4byLizaVoll_auysnp.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>in Boston Lyric Opera's 2019 production of Pagliacci. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -42,9 +42,9 @@ The clowns attending to the carnival made sure that everyone was having as fun o
 
 In particular, it left us unprepared for the violent finale (which was also more violent than usual, considering that Canio opts to choke Nedda to death and that Tonio smacks Beppe in the head with a wine bottle); I actually jumped in my seat at Silvio's stabbing despite the fact that I knew it was coming, and this shock remained through Tonio gleefully exclaiming opera's most recognizable final line before rampaging around the stage blowing up confetti and cackling like Heath Ledger's Joker.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693113/media/2019/09/PagBLO2019-PAG-8102211_pogvht.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693294/media/2019/09/PagBLO2019-PAG-0010_ij39cj.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>in Boston Lyric Opera's 2019 production of Pagliacci. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -56,7 +56,7 @@ Michael Mayes was a _tour de force_, deftly balancing between the ridiculous and
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693141/media/2019/09/PagBLO2019-PAG-8102665_zwfnq1.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>in Boston Lyric Opera's 2019 production of Pagliacci. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -66,7 +66,7 @@ Both were so good that it almost overshadowed Rafael Rojas as Canio. This, thoug
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693161/media/2019/09/PagBLO2019-PAG-8102743_ygnrjl.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>in Boston Lyric Opera's 2019 production of Pagliacci. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -78,7 +78,7 @@ Even the production team seemed to find a better way to work in the Steriti Memo
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693314/media/2019/09/PagBLO2019-PAG-8LizaVoll_krtdti.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>in Boston Lyric Opera's 2019 production of Pagliacci. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -88,12 +88,12 @@ I found it rather immersion-breaking, then, when Nedda and Silvio sang the entir
 
 Perhaps they were playing Silvio as a kind of foreigner in the world the production set up, but then one has to ask oneself why Silvio's brief interaction with Nedda just before the show-within-a-show is entirely sung in English. It's a rather confusing choice to commit to singing the opera almost entirely in English, and it took me out of the performance a little.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693294/media/2019/09/PagBLO2019-PAG-0010_ij39cj.jpg){{% /md %}}
+Fortunately, it did not take me out enough to dull the effect of this fresh new way of presenting opera. I have overheard whispers from older patrons of Boston Lyric Opera that it is a shame that BLO does not have an opera house that it can call home. In light of this performance, I have to say I am inclined to disagree: if BLO had a proper opera house, I scarcely think they would dare to try something so crazy as to open _Pagliacci_ with a full-blown interactive carnival instead of yet another performance of _Cavalleria rusticana_. 
 
-<figcaption></figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693113/media/2019/09/PagBLO2019-PAG-8102211_pogvht.jpg){{% /md %}}
+
+<figcaption>in Boston Lyric Opera's 2019 production of Pagliacci. Photo: Liza Voll.</figcaption>
 
 </figure>
-
-Fortunately, it did not take me out enough to dull the effect of this fresh new way of presenting opera. I have overheard whispers from older patrons of Boston Lyric Opera that it is a shame that BLO does not have an opera house that it can call home. In light of this performance, I have to say I am inclined to disagree: if BLO had a proper opera house, I scarcely think they would dare to try something so crazy as to open _Pagliacci_ with a full-blown interactive carnival instead of yet another performance of _Cavalleria rusticana_. 
 
 This _Pagliacci_, therefore, is a testament to the effectiveness of BLO's installation operas, and I cannot wait to see what is to come next.
