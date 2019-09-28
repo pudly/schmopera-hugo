@@ -44,7 +44,7 @@ In particular, it left us unprepared for the violent finale (which was also more
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693294/media/2019/09/PagBLO2019-PAG-0010_ij39cj.jpg){{% /md %}}
 
-<figcaption>Omar Najmi  in Boston Lyric Opera's 2019 production of Leoncavallo's Pagliacci. Photo: Liza Voll.</figcaption>
+<figcaption>Tobias Greenhalgh (Silvio)  in Boston Lyric Opera's 2019 production of Leoncavallo's Pagliacci. Photo: Liza Voll.</figcaption>
 
 </figure>
 
