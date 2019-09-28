@@ -52,7 +52,9 @@ This, combined with a note-complete love duet, was enough for the production to 
 
 Of course, the effect would most likely have been lost if not for the efforts of the singers that traversed the circle-in-the-round staging where the actual opera was performed, and here practically everyone delivered in some way. The first of these was Michael Mayes as Tonio. 
 
-Michael Mayes was a _tour de force_, deftly balancing between the ridiculous and the menacing aspects of his character. This came to the fore particularly in the play within a play, where he plays up Taddeo's foolishness, but then stabs a chicken rather violently with the eventual murder weapon as if to signal to the real audience that Canio was not the only one breaking character that night. This play in contrast never let up for a second after Tonio tried to force himself on Nedda earlier, and the result was electric.
+Michael Mayes was a _tour de force_, deftly balancing between the ridiculous and the menacing aspects of his character. This came to the fore particularly in the play within a play, where he plays up Taddeo's foolishness, but then stabs a chicken rather violently with the eventual murder weapon as if to signal to the real audience that Canio was not the only one breaking character that night. 
+
+This play in contrast never let up for a second after Tonio tried to force himself on Nedda earlier, and the result was electric.deftly balancing between the ridiculous and the menacing aspects of his character. This came to the fore particularly in the play within a play, where he plays up Taddeo's foolishness, but then stabs a chicken rather violently with the eventual murder weapon as if to signal to the real audience that Canio was not the only one breaking character that night. This play in contrast never let up for a second after Tonio tried to force himself on Nedda earlier, and the result was electric.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693141/media/2019/09/PagBLO2019-PAG-8102665_zwfnq1.jpg){{% /md %}}
 
