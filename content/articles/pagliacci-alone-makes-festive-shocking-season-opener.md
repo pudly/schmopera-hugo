@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569692999/media/2019/09/sqPagBLO2019-PAG-7byLizaVoll_yx7lro.jpg"
-primary_image_credit = "Rafael Rojas (Canio) in Boston Lyric Opera's 2019 production of Pagliacci. Photo: Liza Voll."
+primary_image_credit = "Rafael Rojas (Canio) in Boston Lyric Opera's 2019 production of Leoncavallo's Pagliacci. Photo: Liza Voll."
 related_articles = []
 related_companies = []
 related_people = []
@@ -84,7 +84,7 @@ Even the production team seemed to find a better way to work in the Steriti Memo
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693314/media/2019/09/PagBLO2019-PAG-8LizaVoll_krtdti.jpg){{% /md %}}
 
-<figcaption>Lauren Michelle (Nedda/Colombina) and mar Najmi (Beppe/Harlequin) in Boston Lyric Opera's 2019 production of Pagliacci. Photo: Liza Voll.</figcaption>
+<figcaption>Lauren Michelle (Nedda/Colombina) and mar Najmi (Beppe/Harlequin) in Boston Lyric Opera's 2019 production of Leoncavallo's Pagliacci. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -98,7 +98,7 @@ Fortunately, it did not take me out enough to dull the effect of this fresh new 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693113/media/2019/09/PagBLO2019-PAG-8102211_pogvht.jpg){{% /md %}}
 
-<figcaption>in Boston Lyric Opera's 2019 production of Pagliacci. Photo: Liza Voll.</figcaption>
+<figcaption>in Boston Lyric Opera's 2019 production of Leoncavallo's Pagliacci. Photo: Liza Voll.</figcaption>
 
 </figure>
 
