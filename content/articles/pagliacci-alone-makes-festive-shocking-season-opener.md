@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569692999/media/2019/09/sqPagBLO2019-PAG-7byLizaVoll_yx7lro.jpg"
-primary_image_credit = "in Boston Lyric Opera's 2019 production of Pagliacci. Photo: Liza Voll."
+primary_image_credit = "Rafael Rojas (Canio) in Boston Lyric Opera's 2019 production of Pagliacci. Photo: Liza Voll."
 related_articles = []
 related_companies = []
 related_people = []
@@ -34,7 +34,7 @@ For their return to the Steriti Memorial Rink, BLO went all out for the pre-show
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693101/media/2019/09/PagBLO2019-PAG-4byLizaVoll_auysnp.jpg){{% /md %}}
 
-<figcaption>in Boston Lyric Opera's 2019 production of Pagliacci. Photo: Liza Voll.</figcaption>
+<figcaption>Lauren Michelle (Nedda), Rafael Rojas (Canio) and Michel Mayes (Tonio, background) in Boston Lyric Opera's 2019 production of Pagliacci. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -73,6 +73,12 @@ Both were so good that it almost overshadowed Rafael Rojas as Canio. This, thoug
 The rest of the cast was rather accomplished in everything, even if they were not quite so prominent as the central three singers. Tobias Greenhalgh made for a rather playful Silvio whose voice melded beautifully during his love duet with Michelle. Omar Najmi managed to make quite a few things out of the normally thankless role of Beppe, and in the few scenes where he had anything important to do he still managed to make a mark as a character trying to keep the show going on. 
 
 And then there was the chorus, which was rather excellently managed in terms of staging: they frequently weaved throughout the audience, and they brought a lot of life to the opera’s many crowd scenes that made the audience feel they were part of the action in a way that extended what the carnival pre-show did. 
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569693628/media/2019/09/PagBLO2019-PAG-8102581_mgg1da.jpg){{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 Even the production team seemed to find a better way to work in the Steriti Memorial Rink: the acoustical problems that were present in BLO's foray into _Trouble in Tahiti_ were definitely not so prominent here, and while there were still moments where the singers were fighting the orchestra they generally came when the singers were addressing other parts of the circle in the round.
 
