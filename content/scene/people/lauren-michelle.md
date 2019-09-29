@@ -12,6 +12,10 @@ website = "http://www.laurenmichelle.org/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/thedopesoprano"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/thedopesoprano"
 
 +++
 Lauren Michelle, soprano, is honored to be a prize winner of The 2015 BBC Cardiff Singer of the World Competition. Originally from Los Angeles, she has appeared internationally as Musetta in *La Bohème* in Tel Aviv, Helena in *A Midsummer Night’s Dream* at The Banff Center, Lauretta in *Gianni Schicchi* at Teatro Romano di Fiesole, and Papagena in *Die Zauberflöte* at Teatro Malibran in Italy.
