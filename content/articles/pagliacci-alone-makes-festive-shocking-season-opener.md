@@ -3,7 +3,6 @@ author = ["authors/arturo-fernandez.md"]
 categories = "Review"
 date = "2019-09-28T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Boston Lyric Opera's production of [_Pagliacci_](https://blo.org/pagliacci/) runs through October 6. "
 preamble = ""
