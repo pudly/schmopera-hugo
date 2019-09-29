@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/scene/people/omar-najmi.md
 - content/articles/pagliacci-alone-makes-festive-shocking-season-opener.md
 - content/articles/upcoming-in-october.md
 - content/articles/thestories-part-6.md
