@@ -1,6 +1,5 @@
 +++
 discipline = "Tenor"
-draft = true
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569783589/media/2019/09/RafaelRojas_fie23k.jpg"
 primary_image_credit = ""
 related_companies = ["scene/companies/welsh-national-opera.md", "scene/companies/opra-national-de-paris.md", "scene/companies/opera-north.md", "scene/companies/boston-lyric-opera-1.md", "scene/companies/seattle-opera.md", "scene/companies/houston-grand-opera.md"]
