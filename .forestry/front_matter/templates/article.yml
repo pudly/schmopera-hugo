@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/thestories-part-10.md
 - content/articles/pagliacci-alone-makes-festive-shocking-season-opener.md
 - content/scene/people/omar-najmi.md
 - content/articles/upcoming-in-october.md
@@ -128,7 +129,6 @@ pages:
 - content/articles/aria-guides-vedrai-carino.md
 - content/articles/aria-guides-parmi-veder-le-lagrime.md
 - content/articles/aria-guides-donde-lieta-uscì.md
-- content/articles/thestories-part-10.md
 - content/articles/operatease.md
 - content/articles/thestories-part-4.md
 - content/scene/people/wes-hunter.md
