@@ -31,3 +31,7 @@ youtube_url = ""
 * music presented by friends and colleagues 
 * CBC Radio will record
 * proceeds go to Neil F. Crory Endowment Fund
+
+## Boston Wagner Society
+
+* Oct 5 
