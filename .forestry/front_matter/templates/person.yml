@@ -40,6 +40,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/rafael-rojas.md
 - content/scene/people/izabela-matuła.md
 - content/scene/people/won-whi-choi.md
 - content/scene/people/scott-ballantine.md
