@@ -5,7 +5,7 @@ date = "2019-10-01T04:00:00+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "Following its performances in Banff and Calgary, [Against the Grain Theatre's travelling production](http://againstthegraintheatre.com/la-boheme/) hits 7 more cities before arriving in Toronto on October 11. The tour concludes with three performances in Whitehorse (Nov. 4-5) and Dawson City, Yukon (Nov. 7)."
 preamble = ""
 primary_image = ""
 primary_image_credit = ""
@@ -41,5 +41,3 @@ From the moment soprano Jonelle Sills appears in the bohemians' apartment as Mim
 On this night, I was most impressed by the riveting, virtuosic performance of tenor Marcel D'Entremont as Rodolfo. D'Entremont enchants from his first note, full of warmth and depth as he moves seamlessly between vocal registers. His Act I aria, in which he formally introduces himself to Mimì, demonstrates his command of Puccini's difficult writing, soaring effortlessly into a euphoric lovesick climax. Equally as impressive, however, is D'Entremont's ability to support his vocal partners, namely with Frazer's Marcello and especially Sills' Mimì: never overpowering, always finding the suitable harmony to allow the music to truly sing. His is a voice opera audiences will surely celebrate for many years.
 
 With a production as well-known and familiar as _La bohème_, it may be a challenge to find engaging ways to connect the bohemians of 19th-century Paris to modern audiences. However, with an intimate, "transladapted" production, Against the Grain offers a vehicle through which the magic of Puccini's beloved score will continue to draw audiences, big and small.
-
-Following its performances in Banff and Calgary, [Against the Grain Theatre's travelling production](http://againstthegraintheatre.com/la-boheme/) hits another seven cities before arriving in Toronto on October 11. The tour concludes with three performances in Whitehorse (Nov. 4-5) and Dawson City, Yukon (Nov. 7).
