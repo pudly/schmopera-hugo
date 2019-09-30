@@ -1,7 +1,6 @@
 +++
 discipline = "Soprano"
-draft = true
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569868556/media/2019/09/JonelleSills_vpaecb.jpg"
 primary_image_credit = ""
 related_companies = ["scene/companies/against-the-grain-theatre.md"]
 slug = "jonelle-sills"
