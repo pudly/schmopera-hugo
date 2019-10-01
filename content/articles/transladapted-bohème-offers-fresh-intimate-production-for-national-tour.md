@@ -23,7 +23,7 @@ For its 10th season, Against the Grain (AtG) takes its acclaimed production of G
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569891111/media/2019/10/ATG_Banff-2182_pthmjh.jpg){{% /md %}}
 
-<figcaption>The cast of La bohème, Against the Grain Theatre, 2019: (l-r) Jonelle Sills (Mimì), Marcel D'Entremont (Rodolfo), Danika Lorèn (Musetta) and Clarence Frazer (Marcello). Photo courtesy of AThe Banff Centre.</figcaption>
+<figcaption>The cast of La bohème, Against the Grain Theatre, 2019: (l-r) Jonelle Sills (Mimì), Marcel D'Entremont (Rodolfo), Danika Lorèn (Musetta) and Clarence Frazer (Marcello). Photo courtesy of The Banff Centre.</figcaption>
 
 </figure>
 
