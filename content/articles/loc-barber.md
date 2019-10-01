@@ -25,7 +25,11 @@ On Saturday at [Lyric Opera of Chicago](/scene/companies/lyric-opera-of-chicago/
 
 </figure>
 
-This production of _Barber_ - a re-mount from 2014 - features beautiful sets with pale stone and rounded archways designed by Scott Pask, with a revolving set-piece that gives us both a Sevillian courtyard and the airy interior of Doctor Bartolo's patrician abode. Fabulously detailed costumes by Catherine Zuber are sure to enchant; Almaviva's leather trench! The intricate embroidery on Rosina's Act I gown! Howard Harrison's genuinely gorgeous lighting design marks the passage of time clearly and colorfully. Tara Faircloth directs the revival, originally helmed by Rob Ashford. While all the faffing about with potted plants and jazz-square heavy choreo in the Act I finale grew tiresome, there were many comic bright spots, (and lots of big-bellied laughs!), thanks to a plucky cast of principals unafraid of physical comedy.
+This production of _Barber_ - a re-mount from 2014 - features beautiful sets with pale stone and rounded archways designed by Scott Pask, with a revolving set-piece that gives us both a Sevillian courtyard and the airy interior of Doctor Bartolo's patrician abode. Fabulously detailed costumes by Catherine Zuber are sure to enchant; Almaviva's leather trench! The intricate embroidery on Rosina's Act I gown! Howard Harrison's genuinely gorgeous lighting design marks the passage of time clearly and colorfully. 
+
+> Even most native Italian singers don't have such a finessed command of the language and richly nuanced approach to recitative, let alone his bodacious sense of comic timing.
+
+Tara Faircloth directs the revival, originally helmed by Rob Ashford. While all the faffing about with potted plants and jazz-square heavy choreo in the Act I finale grew tiresome, there were many comic bright spots, (and lots of big-bellied laughs!), thanks to a plucky cast of principals unafraid of physical comedy.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569889612/media/2019/10/Marianne_Crebassa_Lawrence_Brownlee_THE_BARBER_OF_SEVILLE_Lyric_Opera_of_Chicago_LYR190925_955_ibu7yg.jpg){{% /md %}}
 
@@ -52,6 +56,8 @@ In the role of Rosina, [Marianne Crebassa](/scene/people/marianne-crebassa/)'s d
 </figure>
 
 Corbelli, resplendent in a delightful two-pronged wig, is an ideal Bartolo. It's true, Corbelli is the only native Italian in the cast, but even most native Italian singers don't have such a finessed command of the language and richly nuanced approach to recitative, let alone his bodacious sense of comic timing. Rather more curmudgeonly than full-tilt evil, Corbelli's Bartolo deflates rather pitiably when he sees Rosina and Almaviva together, making the choice to include Count Almaviva's protracted and musically-uninteresting final Act II aria, (however beautifully sung by Brownlee), all the more head-scratching.
+
+> Krysztof Bączyk channeled a waggish Professor Snape, twirling about in his robes and using his lanky frame, (he towers over most of the cast), to great comic effect.
 
 An unintended consequence of Corbelli's characterful Italian is that it highlights parallel deficiencies elsewhere in the cast. Current Ryan Opera Center soprano Mathilda Edge's uncommonly pretty voice couldn't offset an underdeveloped grasp of the opera's language.
 
