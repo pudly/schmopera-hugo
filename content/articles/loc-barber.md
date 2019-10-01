@@ -5,7 +5,7 @@ date = "2019-09-30T04:00:00+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "Next up is [_Luisa Miller_](https://www.lyricopera.org/productions/2019-20/luisa-miller/), opening October 12th, with Music Director Designate Enrique Mazzola conducting."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569889527/media/2019/10/sqLawrence_Brownlee_Alessandro_Corbelli_THE_BARBER_OF_SEVILLE_Lyric_Opera_of_Chicago_LYR190925_484_d5e205.jpg"
 primary_image_credit = "Lawrence Brownlee (Count Almaviva) in The Barber of Seville, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg."
@@ -18,7 +18,7 @@ title = "LOC Barber"
 youtube_url = ""
 
 +++
-On Saturday at [Lyric Opera of Chicago](/scene/companies/lyric-opera-of-chicago/), the red carpet was bustling as the public thronged into the lobby ahead of the season opener: Rossini's _Barber of Seville_. While I'll always be partial to a cheeky Tuesday matinee, it's a genuine hoot to gawp at the coiffed, well-heeled, and often bejewelled opening night patrons. The annual promise of the ultra-exclusive Opera Ball following the performance ensures a fashionable assemblage.
+On Saturday at [Lyric Opera of Chicago](/scene/companies/lyric-opera-of-chicago/), the red carpet was bustling as the public thronged into the lobby ahead of the season opener: Rossini's [_Barber of Seville_](https://www.lyricopera.org/productions/2019-20/barber-of-seville/). While I'll always be partial to a cheeky Tuesday matinee, it's a genuine hoot to gawp at the coiffed, well-heeled, and often bejewelled opening night patrons. The annual promise of the ultra-exclusive Opera Ball following the performance ensures a fashionable assemblage.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569889596/media/2019/10/MarianneCrebassa_THE_BARBER_OF_SEVILLE_Lyric_Opera_of_Chicago_LYR190925_246_p1fi3i.jpg){{% /md %}}
 
@@ -82,4 +82,4 @@ The stalwart men of the Lyric Chorus were in fine form throughout the night, aci
 
 </figure>
 
-Altogether, _Barber_ is a perfectly fine kick-off to what will be, on the whole, a diverse and exciting season at the Lyric Opera of Chicago. Next up is _Luisa Miller_, opening October 12th, with Music Director Designate Enrique Mazzola conducting.
+Altogether, [_Barber_](https://www.lyricopera.org/productions/2019-20/barber-of-seville/) is a perfectly fine kick-off to what will be, on the whole, a diverse and exciting season at the Lyric Opera of Chicago. 
