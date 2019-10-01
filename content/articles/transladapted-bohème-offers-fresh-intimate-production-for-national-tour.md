@@ -8,7 +8,7 @@ image_gallery = []
 postamble = "Following its performances in Banff and Calgary, [Against the Grain Theatre's travelling production](http://againstthegraintheatre.com/la-boheme/) hits 7 more cities before arriving in Toronto on October 11. The tour concludes with three performances in Whitehorse (Nov. 4-5) and Dawson City, Yukon (Nov. 7)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569891183/media/2019/10/sqATG_Banff-5014_txy2h3.jpg"
-primary_image_credit = ""
+primary_image_credit = "The cast of La bohème, Against the Grain Theatre, 2019: (l-r) Jonelle Sills (Mimì), Marcel D'Entremont (Rodolfo), Andrew Adridge (Schaunard), Giles Tomkins (Colline), Clarence Frazer (Marcello), Danika Lorèn (Musetta) and Gregory Finney (Benoit/Alcindoro). Photo courtesy of Against the Grain Theatre."
 related_articles = []
 related_companies = []
 related_people = []
@@ -20,11 +20,11 @@ youtube_url = ""
 +++
 If you were in Calgary, this weekend, how did you spend the snowy Saturday night? For the first time in a long time, I went to the bar. But not just any bar: this is the travelling bar of Toronto-based Against the Grain Theatre, and it's touring production of Puccini's _La bohème_.
 
-For its 10th season, Against the Grain (AtG) takes its acclaimed production of Giacomo Puccini's classic across the country. On this night, the compan's convoy of minivans and U-hauls pulled into Calgary, fresh off a performance in Banff the night before. The English-language performance is a new libretto by AtG founder Joel Ivany, which includes opportunities to transplant the production from 1830 Paris to 2019 Canada. The themes, however, remain as prevalent as ever: starving artists trying to make a living in an increasingly expensive world, the bond of friendship, and the tragedy of a life cut short too soon.
+For its 10th season, Against the Grain (AtG) takes its acclaimed production of Giacomo Puccini's classic across the country. On this night, the company's convoy of minivans and U-hauls pulled into Calgary, fresh off a performance in Banff the night before. The English-language performance is a new libretto by AtG founder Joel Ivany, which includes opportunities to transplant the production from 1830 Paris to 2019 Canada. The themes, however, remain as prevalent as ever: starving artists trying to make a living in an increasingly expensive world, the bond of friendship, and the tragedy of a life cut short too soon.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569891111/media/2019/10/ATG_Banff-2182_pthmjh.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>The cast of La bohème, Against the Grain Theatre, 2019: (l-r) Jonelle Sills (Mimì), Marcel D'Entremont (Rodolfo), Danika Lorèn (Musetta) and Clarence Frazer (Marcello). Photo courtesy of Against the Grain Theatre.</figcaption>
 
 </figure>
 
@@ -34,7 +34,7 @@ At the same time, the limited set design accentuates the quality of the music to
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569891124/media/2019/10/ATG_Banff-2272_o8rljs.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>The cast of La bohème, Against the Grain Theatre, 2019: (clockwise from top left) Andrew Adridge (Schaunard), Giles Tomkins (Colline), Jonelle Sills (Mimì), Clarence Frazer (Marcello), Danika Lorèn (Musetta), Marcel D'Entremont (Rodolfo), and Gregory Finney (Benoit/Alcindoro). Photo courtesy of Against the Grain Theatre.</figcaption>
 
 </figure>
 
@@ -44,7 +44,7 @@ The AtG production is blessed to have Andrew Adridge as Schaunard and [Giles Tom
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569891138/media/2019/10/ATG_Banff-5067_nilk4i.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>The cast of La bohème, Against the Grain Theatre, 2019: (l-r) Jonelle Sills (Mimì),  Andrew Adridge (Schaunard), Marcel D'Entremont (Rodolfo), Giles Tomkins (Colline), Danika Lorèn (Musetta), Clarence Frazer (Marcello), and Gregory Finney (Benoit/Alcindoro). Photo courtesy of Against the Grain Theatre.</figcaption>
 
 </figure>
 
@@ -54,17 +54,17 @@ Cast as both the landlord Benoit (Act I) and Musetta's ill-fated date Alcindoro 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569891152/media/2019/10/ATG_Banff-5144_spcuaq.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption> The cast of La bohème, Against the Grain Theatre, 2019: (Jonelle Sills (Mimì), Marcel D'Entremont. Photo courtesy of Against the Grain Theatre.</figcaption>
 
 </figure>
 
 As Marcello, baritone [Clarence Frazer](/scene/people/clarence-frazer/) commanded the stage with both swagger and gravitas. Blessed with a secure upper register, Frazer wowed the audience with even, spinning tone that enhanced his onstage presence. Frazer's work in Act III is especially noteworthy during which Marcello counsels both Mimì and Rodolfo about their relationship, before exploding into a jealous rage with Musetta. On this night, Frazer provided a well-rounded portrayal that audiences across the country will be sure to enjoy.
 
-From the moment soprano Jonelle Sills appears in the bohemians' apartment as Mimì, you are struck by her meekness and innocence. Sills' portrayal of the doomed Mimì exudes a purity that makes her fate all the more heart-wrenching. And while her acting is convincing, the control she has over her voice is simply mesmerizing. Her Act III aria, in which she asks Rodolfo to return her belongings, is especially powerful; the vocal colours she achieved in her anguish and resignation were perfectly matched for this intimate production.
+From the moment soprano [Jonelle Sills](/scene/people/jonelle-sills/) appears in the bohemians' apartment as Mimì, you are struck by her meekness and innocence. Sills' portrayal of the doomed Mimì exudes a purity that makes her fate all the more heart-wrenching. And while her acting is convincing, the control she has over her voice is simply mesmerizing. Her Act III aria, in which she asks Rodolfo to return her belongings, is especially powerful; the vocal colours she achieved in her anguish and resignation were perfectly matched for this intimate production.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569891165/media/2019/10/IMG_0171_sny6zm.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Giles Tomkins (Colline) in La bohème, Against the Grain Theatre, 2019. Photo courtesy of Against the Grain Theatre.</figcaption>
 
 </figure>
 
