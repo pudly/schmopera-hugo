@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569889527/media/2019/10/sqLawrence_Brownlee_Alessandro_Corbelli_THE_BARBER_OF_SEVILLE_Lyric_Opera_of_Chicago_LYR190925_484_d5e205.jpg"
-primary_image_credit = ""
+primary_image_credit = "Lawrence Brownlee (Count Almaviva) in The Barber of Seville, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg."
 related_articles = []
 related_companies = []
 related_people = []
@@ -22,7 +22,7 @@ On Saturday at [Lyric Opera of Chicago](/scene/companies/lyric-opera-of-chicago/
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569889596/media/2019/10/MarianneCrebassa_THE_BARBER_OF_SEVILLE_Lyric_Opera_of_Chicago_LYR190925_246_p1fi3i.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Marianne Crebassa (Rosina) in The Barber of Seville, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
 </figure>
 
@@ -30,7 +30,7 @@ This production of _Barber_—a re-mount from 2014—features beautiful sets wit
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569889612/media/2019/10/Marianne_Crebassa_Lawrence_Brownlee_THE_BARBER_OF_SEVILLE_Lyric_Opera_of_Chicago_LYR190925_955_ibu7yg.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Marianne Crebassa (Rosina) and Lawrence Brownlee (Count Almaviva) in The Barber of Seville, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
 </figure>
 
@@ -40,7 +40,7 @@ Broad-shouldered Czech bass-baritone Adam Plachetka is our jocular town barber, 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569889624/media/2019/10/Lawrence_Brownlee_Marianne_Crebassa_Alessandro_Corbelli_THE_BARBER_OF_SEVILLE_Lyric_Opera_of_Chicago_LYR190925_658_b3kkiy.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Lawrence Brownlee (Count Almaviva), Marianne Crebassa (Rosina) and Alessandro Corbelli (Bartolo) in The Barber of Seville, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
 </figure>
 
@@ -48,7 +48,7 @@ In the role of Rosina, Marianne Crebassa's dark, dark vocal timbre makes for an 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569889637/media/2019/10/Krzysztof_Ba%CC%A8czyk_Lawrence_Brownlee_THE_BARBER_OF_SEVILLE_Lyric_Opera_of_Chicago_LYR190925_741_aqgwit.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Krysztof Bączyk (Basilio) and Lawrence Brownlee (Count Almaviva) in The Barber of Seville, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
 </figure>
 
@@ -58,7 +58,7 @@ An unintended consequence of Corbelli's characterful Italian is that it highligh
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569889649/media/2019/10/Adam_Plachetka_THE_BARBER_OF_SEVILLE_Lyric_Opera_of_Chicago_LYR190925_118_d6k79i.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Adam Plachetka (Figaro) in The Barber of Seville, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
 </figure>
 
@@ -68,7 +68,7 @@ Two more current Ryan Center members are featured in the cast—Eric Ferring, wh
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569889664/media/2019/10/Adam_Plachetka_Lawrence_Brownlee_THE_BARBER_OF_SEVILLE_Lyric_Opera_of_Chicago_LYR190925_224_fzrgsf.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Adam Plachetka (Figaro) and Lawrence Brownlee (Count Almaviva) in The Barber of Seville, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
 </figure>
 
@@ -78,7 +78,7 @@ The stalwart men of the Lyric Chorus were in fine form throughout the night, aci
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569889675/media/2019/10/Adam_Plachetka_Alessandro_Corbelli_Krzysztof_Ba%CC%A8czyk_THE_BARBER_OF_SEVILLE_Lyric_Opera_of_Chicago_LYR190925_309_kmaosd.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Adam Plachetka (Figaro) Alessandro Corbelli (Bartolo) and Krysztof Bączyk (Basilio) in The Barber of Seville, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
 </figure>
 
