@@ -17,7 +17,7 @@ title = "\"Transladapted\" Bohème offers fresh, intimate production for nationa
 youtube_url = ""
 
 +++
-If you were in Calgary, this weekend, how did you spend the snowy Saturday night? For the first time in a long time, I went to the bar. But not just any bar: this is the travelling bar of Toronto-based Against the Grain Theatre, and it's touring production of Puccini's _La bohème_.
+If you were in Calgary, this weekend, how did you spend the snowy Saturday night? For the first time in a long time, I went to the bar. But not just any bar: this is the travelling bar of Toronto-based Against the Grain Theatre, and its touring production of Puccini's _La bohème_.
 
 For its 10th season, Against the Grain (AtG) takes its acclaimed production of Giacomo Puccini's classic across the country. On this night, the company's convoy of minivans and U-hauls pulled into Calgary, fresh off a performance in Banff the night before. The English-language performance is a new libretto by AtG founder Joel Ivany, which includes opportunities to transplant the production from 1830 Paris to 2019 Canada. The themes, however, remain as prevalent as ever: starving artists trying to make a living in an increasingly expensive world, the bond of friendship, and the tragedy of a life cut short too soon.
 
