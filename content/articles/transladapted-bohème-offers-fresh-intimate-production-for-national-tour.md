@@ -1,7 +1,7 @@
 +++
 author = ["authors/oliver-munar.md"]
 categories = "Review"
-date = "2019-10-01T04:00:00+00:00"
+date = "2019-09-30T04:00:00+00:00"
 disclaimer = ""
 image_gallery = []
 postamble = "Following its performances in Banff and Calgary, [Against the Grain Theatre's travelling production](http://againstthegraintheatre.com/la-boheme/) hits 7 more cities before arriving in Toronto on October 11. The tour concludes with three performances in Whitehorse (Nov. 4-5) and Dawson City, Yukon (Nov. 7)."
