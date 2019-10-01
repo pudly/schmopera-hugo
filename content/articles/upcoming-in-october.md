@@ -14,7 +14,7 @@ related_companies = []
 related_people = []
 short_description = "short"
 slug = "upcoming-in-october"
-title = "Upcoming in October"
+title = "Upcoming in October/Nov"
 youtube_url = ""
 
 +++
@@ -25,13 +25,28 @@ youtube_url = ""
 * [all-access tickets](https://www.eventbrite.com/e/amplify-all-concerts-pass-2019-tickets-73320472507)
 * Teiya Kasahara, Liz Upchurch, Kenneth Overton, [Laurie Rubin](https://www.sevenstories.com/books/3061-do-you-dream-in-color) Canadian directors, authors, composers, pianists
 
-## Neil Crory 
+## Neil Crory
 
 * [Neil Crory Tribute Concert](https://www.tafelmusik.org/concert-calendar/events/neil-crory-tribute-concert) on Oct. 11, 7pm at Trinity St. Paul's Centre
-* music presented by friends and colleagues 
+* music presented by friends and colleagues
 * CBC Radio will record
 * proceeds go to Neil F. Crory Endowment Fund
 
 ## Boston Wagner Society
 
-* Oct 5 
+* Oct 5
+* 
+
+## Odyssey Opera
+
+* Tudors-themed season in 2019/20
+* _Maria, regina d'Inghilterra_ (1842) by Giovanni Pacini
+* story of unrequited love between Queen Mary I, Scottish adventurer Riccardo Fenimoore, and between Riccardo and Clotilde
+* Two soprano roles for Amy Shoremount-Obra (Mary) and Alisa Jordheim (Clotilde)
+
+## Sinfonia Toronto
+
+* world premieres: a _Skartaris Duo Concerto_ for violin, piano, and orchestra by Toronto-based Larysa Kuzmenko, to be performed by pianist Christina Petrowska Quilico (she's played her work before) and violinist Marc Djokic, and _Letter from an Unknown Woman_ by Montréal composer Airat Ichmouratov.
+* Nurhan Arman conducts
+* Nov. 8, 8pm, Glenn Gould Studio (250 Front St. W)
+* 
