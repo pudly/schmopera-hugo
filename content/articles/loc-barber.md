@@ -3,7 +3,6 @@ author = ["authors/hannah-de-priest.md"]
 categories = "Review"
 date = "2019-09-30T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Next up is [_Luisa Miller_](https://www.lyricopera.org/productions/2019-20/luisa-miller/), opening October 12th, with Music Director Designate Enrique Mazzola conducting."
 preamble = ""
@@ -13,8 +12,8 @@ related_articles = []
 related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
 related_people = ["scene/people/lawrence-brownlee.md"]
 short_description = "While his vocal brilliance was not at all a surprise, Lawrence Brownlee's spirited stage antics were a consistent delight throughout the evening. Known for virtuosically ornamenting the already-florid lines of his bel canto repertoire, Brownlee seemed to be playing it safe on Saturday night, despite sounding in fantastic voice."
-slug = "loc-barber"
-title = "LOC Barber"
+slug = "brownlee-headlines-season-opener-in-chicago"
+title = "Brownlee headlines season opener in Chicago"
 youtube_url = ""
 
 +++
@@ -34,9 +33,9 @@ This production of _Barber_—a re-mount from 2014—features beautiful sets wit
 
 </figure>
 
-While his vocal brilliance was not at all a surprise, Lawrence Brownlee's spirited stage antics were a consistent delight throughout the evening. Known for virtuosically ornamenting the already-florid lines of his bel canto repertoire, Brownlee seemed to be playing it safe on Saturday night, despite sounding in fantastic voice. Probable opening-night nerves aside, there are few—if any—tenors today who could toss off such a rendition of "Ecco ridente in cielo" as Chicago audiences were treated to at opening night.
+While his vocal brilliance was not at all a surprise, [Lawrence Brownlee](/scene/people/lawrence-brownlee/)'s spirited stage antics were a consistent delight throughout the evening. Known for virtuosically ornamenting the already-florid lines of his bel canto repertoire, Brownlee seemed to be playing it safe on Saturday night, despite sounding in fantastic voice. Probable opening-night nerves aside, there are few—if any—tenors today who could toss off such a rendition of "Ecco ridente in cielo" as Chicago audiences were treated to at opening night.
 
-Broad-shouldered Czech bass-baritone Adam Plachetka is our jocular town barber, Figaro. While his voice doesn’t move too nimbly through some of Rossini’s little turns, Plachetka's Figaro has an undeniably attractive roguish charm. His easy comic way on stage is especially winsome in his interactions with Brownlee—they have a great tag-team chemistry, (and prove remarkably good at throwing and catching various items to each other throughout the show.)
+Broad-shouldered Czech bass-baritone [Adam Plachetka](/scene/people/adam-plachetka/) is our jocular town barber, Figaro. While his voice doesn’t move too nimbly through some of Rossini’s little turns, Plachetka's Figaro has an undeniably attractive roguish charm. His easy comic way on stage is especially winsome in his interactions with Brownlee—they have a great tag-team chemistry, (and prove remarkably good at throwing and catching various items to each other throughout the show.)
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569889624/media/2019/10/Lawrence_Brownlee_Marianne_Crebassa_Alessandro_Corbelli_THE_BARBER_OF_SEVILLE_Lyric_Opera_of_Chicago_LYR190925_658_b3kkiy.jpg){{% /md %}}
 
@@ -44,7 +43,7 @@ Broad-shouldered Czech bass-baritone Adam Plachetka is our jocular town barber, 
 
 </figure>
 
-In the role of Rosina, Marianne Crebassa's dark, dark vocal timbre makes for an oddly but appealingly incongruous contrast with her girlish, winsome physicality. "Una voce poco fa" was delectably sung, even atop a precariously swaying staircase. A game comedienne, Crebassa proved a dynamic scene partner, especially in her interactions with her guardian, Dr. Bartolo, played by Alessandro Corbelli.
+In the role of Rosina, [Marianne Crebassa](/scene/people/marianne-crebassa/)'s dark, dark vocal timbre makes for an oddly but appealingly incongruous contrast with her girlish, winsome physicality. "Una voce poco fa" was delectably sung, even atop a precariously swaying staircase. A game comedienne, Crebassa proved a dynamic scene partner, especially in her interactions with her guardian, Dr. Bartolo, played by Alessandro Corbelli.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569889637/media/2019/10/Krzysztof_Ba%CC%A8czyk_Lawrence_Brownlee_THE_BARBER_OF_SEVILLE_Lyric_Opera_of_Chicago_LYR190925_741_aqgwit.jpg){{% /md %}}
 
@@ -82,4 +81,4 @@ The stalwart men of the Lyric Chorus were in fine form throughout the night, aci
 
 </figure>
 
-Altogether, [_Barber_](https://www.lyricopera.org/productions/2019-20/barber-of-seville/) is a perfectly fine kick-off to what will be, on the whole, a diverse and exciting season at the Lyric Opera of Chicago. 
+Altogether, [_Barber_](https://www.lyricopera.org/productions/2019-20/barber-of-seville/) is a perfectly fine kick-off to what will be, on the whole, a diverse and exciting season at the Lyric Opera of Chicago.
