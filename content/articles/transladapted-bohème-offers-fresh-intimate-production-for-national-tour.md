@@ -8,7 +8,7 @@ image_gallery = []
 postamble = "Following its performances in Banff and Calgary, [Against the Grain Theatre's travelling production](http://againstthegraintheatre.com/la-boheme/) hits 7 more cities before arriving in Toronto on October 11. The tour concludes with three performances in Whitehorse (Nov. 4-5) and Dawson City, Yukon (Nov. 7)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569891183/media/2019/10/sqATG_Banff-5014_txy2h3.jpg"
-primary_image_credit = "The cast of La bohème, Against the Grain Theatre, 2019: (l-r) Jonelle Sills (Mimì), Marcel D'Entremont (Rodolfo), Andrew Adridge (Schaunard), Giles Tomkins (Colline), Clarence Frazer (Marcello), Danika Lorèn (Musetta) and Gregory Finney (Benoit/Alcindoro). Photo courtesy of Against the Grain Theatre."
+primary_image_credit = "The cast of La bohème, Against the Grain Theatre, 2019: (l-r) Jonelle Sills (Mimì), Marcel D'Entremont (Rodolfo), Andrew Adridge (Schaunard), Giles Tomkins (Colline), Clarence Frazer (Marcello), Danika Lorèn (Musetta) and Gregory Finney (Benoit/Alcindoro). Photo courtesy of The Banff Centre."
 related_articles = []
 related_companies = []
 related_people = []
@@ -24,7 +24,7 @@ For its 10th season, Against the Grain (AtG) takes its acclaimed production of G
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569891111/media/2019/10/ATG_Banff-2182_pthmjh.jpg){{% /md %}}
 
-<figcaption>The cast of La bohème, Against the Grain Theatre, 2019: (l-r) Jonelle Sills (Mimì), Marcel D'Entremont (Rodolfo), Danika Lorèn (Musetta) and Clarence Frazer (Marcello). Photo courtesy of Against the Grain Theatre.</figcaption>
+<figcaption>The cast of La bohème, Against the Grain Theatre, 2019: (l-r) Jonelle Sills (Mimì), Marcel D'Entremont (Rodolfo), Danika Lorèn (Musetta) and Clarence Frazer (Marcello). Photo courtesy of AThe Banff Centre.</figcaption>
 
 </figure>
 
@@ -34,7 +34,7 @@ At the same time, the limited set design accentuates the quality of the music to
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569891124/media/2019/10/ATG_Banff-2272_o8rljs.jpg){{% /md %}}
 
-<figcaption>The cast of La bohème, Against the Grain Theatre, 2019: (clockwise from top left) Andrew Adridge (Schaunard), Giles Tomkins (Colline), Jonelle Sills (Mimì), Clarence Frazer (Marcello), Danika Lorèn (Musetta), Marcel D'Entremont (Rodolfo), and Gregory Finney (Benoit/Alcindoro). Photo courtesy of Against the Grain Theatre.</figcaption>
+<figcaption>The cast of La bohème, Against the Grain Theatre, 2019: (clockwise from top left) Andrew Adridge (Schaunard), Giles Tomkins (Colline), Jonelle Sills (Mimì), Clarence Frazer (Marcello), Danika Lorèn (Musetta), Marcel D'Entremont (Rodolfo), and Gregory Finney (Benoit/Alcindoro). Photo courtesy of The Banff Centre.</figcaption>
 
 </figure>
 
@@ -44,7 +44,7 @@ The AtG production is blessed to have Andrew Adridge as Schaunard and [Giles Tom
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569891138/media/2019/10/ATG_Banff-5067_nilk4i.jpg){{% /md %}}
 
-<figcaption>The cast of La bohème, Against the Grain Theatre, 2019: (l-r) Jonelle Sills (Mimì),  Andrew Adridge (Schaunard), Marcel D'Entremont (Rodolfo), Giles Tomkins (Colline), Danika Lorèn (Musetta), Clarence Frazer (Marcello), and Gregory Finney (Benoit/Alcindoro). Photo courtesy of Against the Grain Theatre.</figcaption>
+<figcaption>The cast of La bohème, Against the Grain Theatre, 2019: (l-r) Jonelle Sills (Mimì),  Andrew Adridge (Schaunard), Marcel D'Entremont (Rodolfo), Giles Tomkins (Colline), Danika Lorèn (Musetta), Clarence Frazer (Marcello), and Gregory Finney (Benoit/Alcindoro). Photo courtesy of The Banff Centre.</figcaption>
 
 </figure>
 
@@ -54,7 +54,7 @@ Cast as both the landlord Benoit (Act I) and Musetta's ill-fated date Alcindoro 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569891152/media/2019/10/ATG_Banff-5144_spcuaq.jpg){{% /md %}}
 
-<figcaption> The cast of La bohème, Against the Grain Theatre, 2019: (Jonelle Sills (Mimì), Marcel D'Entremont. Photo courtesy of Against the Grain Theatre.</figcaption>
+<figcaption> The cast of La bohème, Against the Grain Theatre, 2019: (Jonelle Sills (Mimì), Marcel D'Entremont. Photo courtesy of The Banff Centre.</figcaption>
 
 </figure>
 
@@ -64,7 +64,7 @@ From the moment soprano [Jonelle Sills](/scene/people/jonelle-sills/) appears in
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569891165/media/2019/10/IMG_0171_sny6zm.jpg){{% /md %}}
 
-<figcaption>Giles Tomkins (Colline) in La bohème, Against the Grain Theatre, 2019. Photo courtesy of Against the Grain Theatre.</figcaption>
+<figcaption>Giles Tomkins (Colline) in La bohème, Against the Grain Theatre, 2019. Photo courtesy of The Banff Centre.</figcaption>
 
 </figure>
 
