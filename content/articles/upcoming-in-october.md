@@ -18,7 +18,7 @@ title = "Upcoming in October/Nov"
 youtube_url = ""
 
 +++
-## AMPLIFIED OPERA
+## Amplify
 
 On October 10, 11, and 12 at the Ernest Balmer Studio in Toronto's Distillery District, you can catch three unique concert events, courtesy of Amplified Opera. Dubbed _Amplify_, the series presents lecture concerts, followed by a talkback session between audience and artists, moderated by Margaret Cormier.
 
@@ -28,12 +28,9 @@ You can catch each concert individually, or with an [all-access pass](https://ww
 
 ## Neil Crory Tribute Concert
 
-On October 11, 7pm at Trinity-St. Paul's Centre
+On October 11, 7pm at Trinity-St. Paul's Centre, Tafelmusik Baroque Orchestra and Chamber Choir [pays homage to the late Neil Crory](https://www.tafelmusik.org/concert-calendar/events/neil-crory-tribute-concert) - producer, impresario, and mentor. Tafelmusik welcomes a formidable group of Canadian artists to help pay tribute, including Ben Heppner, Isabel Bayrakdarian, Isaiah Bell, Benjamin Butterfield, Tracy Dahl, Nathalie Paulin, Brett Polegato, Jean Stilwell, Krisztina Szabó, Erin Wall, and Monica Whicher. 
 
-* [Neil Crory Tribute Concert](https://www.tafelmusik.org/concert-calendar/events/neil-crory-tribute-concert) on Oct. 11, 7pm at Trinity St. Paul's Centre
-* music presented by friends and colleagues
-* CBC Radio will record
-* proceeds go to Neil F. Crory Endowment Fund
+The concert will be recorded by CBC Radio, and all proceeds will go to the Neil F. Crory Endowment Fund. [Tickets](https://www.tafelmusik.org/concert-calendar/events/neil-crory-tribute-concert) are $60.
 
 ## Odyssey Opera
 
