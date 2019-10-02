@@ -34,7 +34,7 @@ The concert will be recorded by CBC Radio, and all proceeds will go to the Neil 
 
 ## Odyssey Opera
 
-Continuing its Tudors-themed 2019/20 season, Boston-based Odyssey Opera presents Giovanni Pacini's [_Maria, Regina d'Inghilterra_](https://www.odysseyopera.org/2019-pacini-maria-regina-d-inghilterra/), **Nov. 1-3**. The 1842 opera tells the story of unrequited love between Queen Mary I, Scottish adventurer Riccardo Fenimoor, and Clotilde, and features two major soprano roles; Amy Shoremount-Obra takes on Mary, opposite Alisa Jordheim as Clotilde.
+Continuing its Tudors-themed 2019/20 season, Boston-based [Odyssey Opera](/scene/companies/odyssey-opera/) presents Giovanni Pacini's [_Maria, Regina d'Inghilterra_](https://www.odysseyopera.org/2019-pacini-maria-regina-d-inghilterra/), **Nov. 1-3**. The 1842 opera tells the story of unrequited love between Queen Mary I, Scottish adventurer Riccardo Fenimoor, and Clotilde, and features two major soprano roles; Amy Shoremount-Obra takes on Mary, opposite Alisa Jordheim as Clotilde.
 
 Pacini, a missing link of sorts among 19th-century Italian composers, wrote over 70 operas. "Beholding any of Pacini’s 70+ operas is a rare occurrence," says Gil Rose, Odyssey Opera's Artistic and General Director. A performance of Pacini’s Maria is extraordinary! We hope audiences will join Odyssey in rediscovering both this forgotten composer, and his wrongfully neglected masterpiece."
 
@@ -42,10 +42,9 @@ This fully staged production of [_Maria, Regina d'Inghilterra_](https://www.bost
 
 ## Sinfonia Toronto
 
-* world premieres: a _Skartaris Duo Concerto_ for violin, piano, and orchestra by Toronto-based Larysa Kuzmenko, to be performed by pianist Christina Petrowska Quilico (she's played her work before) and violinist Marc Djokic, and _Letter from an Unknown Woman_ by Montréal composer Airat Ichmouratov.
-* Nurhan Arman conducts
-* Nov. 8, 8pm, Glenn Gould Studio (250 Front St. W)
-* [tickets](http://www.sinfoniatoronto.com/web/page.aspx?title=Mozart+%26+Tchaikovsky)
+Spicing up a program of Mozart and Tchaikovsky, Sinfonia Toronto presents a [night of world premieres](http://www.sinfoniatoronto.com/web/page.aspx?title=Mozart+%26+Tchaikovsky), **Nov. 8, 8pm** at Toronto's Glenn Gould Studio. Toronto-based Larysa Kuzmenko sees the first performance of her brand new _Skartaris Duo Concerto_ for violin, piano, and orchestra and Montréal-based Airat Ichmouratov shares his _Letter from an Unknown Woman_. 
+
+The evening's soloists are Canadian virtiosi Christina Petrowska Quilico (piano) and Marc Djokic (violin). Nurhan Arman conducts. [Tickets](http://www.sinfoniatoronto.com/web/page.aspx?title=Mozart+%26+Tchaikovsky) start at just $15.
 
 ## Hibla Gerzmava at Koerner Hall
 
