@@ -48,6 +48,8 @@ The evening's soloists are Canadian virtiosi Christina Petrowska Quilico (piano)
 
 ## Hibla Gerzmava at Koerner Hall
 
+Show One Productions continues its _Classical Stars at Koerner_ series with a recital featuring Russian soprano Hibla Gerzmava and pianist Ekaterina Ganelina, **Nov. 3_,_ 7pm**. On the programme are some lush Russian romances, 
+
 * Nov. 3, 7pm, with pianist Ekaterina Ganelina
 * Russian romances, excerpts from Anna Bolena, La forza del destino, Norma
 * [tickets](https://showoneproductions.ca/event/hibla-gerzmava-20191103/)
