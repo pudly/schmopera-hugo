@@ -20,7 +20,7 @@ youtube_url = ""
 +++
 ## Amplify
 
-On October 10, 11, and 12 at the Ernest Balmer Studio in Toronto's Distillery District, you can catch three unique concert events, courtesy of Amplified Opera. Dubbed _Amplify_, the series presents lecture concerts, followed by a talkback session between audience and artists, moderated by Margaret Cormier.
+On **October 10, 11, and 12** at the Ernest Balmer Studio in Toronto's Distillery District, you can catch three unique concert events, courtesy of Amplified Opera. Dubbed _Amplify_, the series presents lecture concerts, followed by a talkback session between audience and artists, moderated by Margaret Cormier.
 
 [_The Way I See It_](https://www.amplifiedopera.com/the-way-i-see-it) (Oct. 10) features mezzo [Laurie Rubin](https://www.sevenstories.com/books/3061-do-you-dream-in-color) and pianist Liz Upchurch, and their stories of blindness and vision loss; [_The Queen in Me_](https://www.amplifiedopera.com/the-queen-in-me) (Oct. 11) stars soprano [Teiya Kasahara](/scene/people/teiya-kasahara/) in her one-woman show, alongside pianist Trevor Chartrand; and [_What's Known to Me Is Endless_](https://www.amplifiedopera.com/whats-known-to-me-is-endless) sees baritone Kenneth Overton and pianist Rich Coburn on their understanding of Black identity, while working on both sides of the Canada-US border.
 
@@ -28,11 +28,13 @@ You can catch each concert individually, or with an [all-access pass](https://ww
 
 ## Neil Crory Tribute Concert
 
-On October 11, 7pm at Trinity-St. Paul's Centre, Tafelmusik Baroque Orchestra and Chamber Choir [pays homage to the late Neil Crory](https://www.tafelmusik.org/concert-calendar/events/neil-crory-tribute-concert) - producer, impresario, and mentor. Tafelmusik welcomes a formidable group of Canadian artists to help pay tribute, including Ben Heppner, Isabel Bayrakdarian, Isaiah Bell, Benjamin Butterfield, Tracy Dahl, Nathalie Paulin, Brett Polegato, Jean Stilwell, Krisztina Szabó, Erin Wall, and Monica Whicher. 
+On **October 11, 7pm** at Trinity-St. Paul's Centre, Tafelmusik Baroque Orchestra and Chamber Choir [pays homage to the late Neil Crory](https://www.tafelmusik.org/concert-calendar/events/neil-crory-tribute-concert) - producer, impresario, and mentor. Tafelmusik welcomes a formidable group of Canadian artists to help pay tribute, including Ben Heppner, Isabel Bayrakdarian, Isaiah Bell, Benjamin Butterfield, Tracy Dahl, Nathalie Paulin, Brett Polegato, Jean Stilwell, Krisztina Szabó, Erin Wall, and Monica Whicher. 
 
 The concert will be recorded by CBC Radio, and all proceeds will go to the Neil F. Crory Endowment Fund. [Tickets](https://www.tafelmusik.org/concert-calendar/events/neil-crory-tribute-concert) are $60.
 
 ## Odyssey Opera
+
+Continuing its Tudors-themed 2019/20 season, Boston-based Odyssey Opera presents Giovanni Pacini's [_Maria, Regina d'Inghilterra_](https://www.odysseyopera.org/2019-pacini-maria-regina-d-inghilterra/), **Nov. 1-3**. The 1842 opera tells the story of unrequited love between Queen Mary I, Scottish adventurer Riccardo Fenimoor, and Clotilde, and features two major soprano roles; Amy Shoremount-Obra takes on Mary, opposite Alisa Jordheim as Clotilde.
 
 * Tudors-themed season in 2019/20
 * _Maria, regina d'Inghilterra_ (1842) by Giovanni Pacini
