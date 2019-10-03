@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2019-10-02T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = "Two cities, and plenty to catch this fall. As you're marking your calendars, we've got a short list of must-see items - from bel canto to world premieres - based out of Boston and Toronto."
@@ -13,8 +12,8 @@ related_articles = []
 related_companies = []
 related_people = ["scene/people/hibla-gerzmava.md", "scene/people/aria-umezawa.md", "scene/people/teiya-kasahara.md"]
 short_description = "short"
-slug = "upcoming-in-october"
-title = "Upcoming in October/Nov"
+slug = "a-tale-of-two-cities-6-fall-items-to-catch-in-boston-toronto"
+title = "A tale of two cities: 6 fall items to catch in Boston & Toronto"
 youtube_url = ""
 
 +++
