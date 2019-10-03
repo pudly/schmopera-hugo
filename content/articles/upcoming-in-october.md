@@ -6,12 +6,12 @@ disclaimer = ""
 draft = true
 image_gallery = []
 postamble = ""
-preamble = "Two cities, and plenty to catch this fall. We've got a short list of must-see items, based out of Boston and Toronto."
+preamble = "Two cities, and plenty to catch this fall. As you're marking your calendars, we've got a short list of must-see items - from bel canto to world premieres - based out of Boston and Toronto."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1570042046/media/2019/10/sqUpcomingFall2019_vmpoaj.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
-related_people = []
+related_people = ["scene/people/hibla-gerzmava.md", "scene/people/aria-umezawa.md", "scene/people/teiya-kasahara.md"]
 short_description = "short"
 slug = "upcoming-in-october"
 title = "Upcoming in October/Nov"
@@ -64,7 +64,7 @@ Show One Productions continues its [_Classical Stars at Koerner_](https://showon
 
 Spicing up a program of Mozart and Tchaikovsky, Sinfonia Toronto presents a [night of world premieres](http://www.sinfoniatoronto.com/web/page.aspx?title=Mozart+%26+Tchaikovsky), **Nov. 8, 8pm** at Toronto's Glenn Gould Studio. Toronto-based Larysa Kuzmenko sees the first performance of her brand new _Skartaris Duo Concerto_ for violin, piano, and orchestra and Montréal-based Airat Ichmouratov shares his _Letter from an Unknown Woman_. 
 
-The evening's soloists are Canadian virtiosi Christina Petrowska Quilico (piano) and Marc Djokic (violin). Nurhan Arman conducts. [Tickets](http://www.sinfoniatoronto.com/web/page.aspx?title=Mozart+%26+Tchaikovsky) start at just $15.
+The evening's soloists are Canadian virtuosi Christina Petrowska Quilico (piano) and Marc Djokic (violin). Nurhan Arman conducts. [Tickets](http://www.sinfoniatoronto.com/web/page.aspx?title=Mozart+%26+Tchaikovsky) start at just $15.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570070922/media/2019/10/MarcDjokic_vgj5i2.jpg){{% /md %}}
 
