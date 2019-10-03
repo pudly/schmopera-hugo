@@ -7,11 +7,11 @@ image_gallery = []
 postamble = ""
 preamble = "Two cities, and plenty to catch this fall. As you're marking your calendars, we've got a short list of must-see items - from bel canto to world premieres - based out of Boston and Toronto."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1570042046/media/2019/10/sqUpcomingFall2019_vmpoaj.jpg"
-primary_image_credit = ""
+primary_image_credit = "Clockwise from top: Teiya Kasahara for Amplified Opera; pianist Christina Petrowska Quilico"
 related_articles = []
 related_companies = []
 related_people = ["scene/people/hibla-gerzmava.md", "scene/people/aria-umezawa.md", "scene/people/teiya-kasahara.md"]
-short_description = "short"
+short_description = "Two cities, and plenty to catch this fall. As you're marking your calendars, we've got a short list of must-see items - from bel canto to world premieres - based out of Boston and Toronto."
 slug = "a-tale-of-two-cities-6-fall-items-to-catch-in-boston-toronto"
 title = "A tale of two cities: 6 fall items to catch in Boston & Toronto"
 youtube_url = ""
@@ -19,13 +19,13 @@ youtube_url = ""
 +++
 ## Boston Wagner Society
 
-On **October 5, 2pm** at Old South Church in Boston, soprano Julia Rolwing and pianist Soyeon Kim offer up a recital fitting of a Wagner Society. On the programme are songs and piano solos by Wagner and Liszt, and memorable moments from _Lohengrin_, _Siegfried_, and _Tristan und Isolde_. [Tickets](https://www.eventbrite.com/e/wagner-and-liszt-tickets-63775079981) start at $10.
+On **October 5, 2pm** at Old South Church in Boston, [soprano Julia Rolwing and pianist Soyeon Kim](http://bostonwagnersociety.org/) offer up a recital fitting of a Wagner Society. On the programme are songs and piano solos by Wagner and Liszt, and memorable moments from _Lohengrin_, _Siegfried_, and _Tristan und Isolde_. [Tickets](https://www.eventbrite.com/e/wagner-and-liszt-tickets-63775079981) start at $10.
 
 ## Amplified Opera
 
-On **October 10, 11, and 12** at the Ernest Balmer Studio in Toronto's Distillery District, you can catch three unique concert events, courtesy of Amplified Opera. Dubbed [_Amplify_](https://www.amplifiedopera.com/), the series presents lecture concerts, followed by a talkback session between audience and artists, moderated by Margaret Cormier.
+On **October 10, 11, and 12** at the Ernest Balmer Studio in Toronto's Distillery District, you can catch three unique concert events courtesy of Amplified Opera. Dubbed [_Amplify_](https://www.amplifiedopera.com/), the series presents lecture concerts, followed by a talkback session between audience and artists, moderated by musicologist Margaret Cormier.
 
-[_The Way I See It_](https://www.amplifiedopera.com/the-way-i-see-it) (Oct. 10) features mezzo [Laurie Rubin](https://www.sevenstories.com/books/3061-do-you-dream-in-color) and pianist Liz Upchurch, and their stories of blindness and vision loss; [_The Queen in Me_](https://www.amplifiedopera.com/the-queen-in-me) (Oct. 11) stars soprano [Teiya Kasahara](/scene/people/teiya-kasahara/) in her one-woman show, alongside pianist Trevor Chartrand; and [_What's Known to Me Is Endless_](https://www.amplifiedopera.com/whats-known-to-me-is-endless) sees baritone Kenneth Overton and pianist Rich Coburn on their understanding of Black identity, while working on both sides of the Canada-US border.
+[_The Way I See It_](https://www.amplifiedopera.com/the-way-i-see-it) (Oct. 10) features mezzo [Laurie Rubin](https://www.sevenstories.com/books/3061-do-you-dream-in-color) and pianist Liz Upchurch, and their stories of blindness and vision loss; [_The Queen in Me_](https://www.amplifiedopera.com/the-queen-in-me) (Oct. 11) stars soprano [Teiya Kasahara](/scene/people/teiya-kasahara/) in her one-woman show, alongside pianist Trevor Chartrand; and [_What's Known to Me Is Endless_](https://www.amplifiedopera.com/whats-known-to-me-is-endless) sees baritone Kenneth Overton and pianist Rich Coburn on their understanding of Black identity on both sides of the Canada-US border.
 
 You can catch each concert individually, or with an [all-access pass](https://www.eventbrite.com/e/amplify-all-concerts-pass-2019-tickets-73320472507) for the whole series. All concerts start at 7:30pm.
 
@@ -37,7 +37,7 @@ You can catch each concert individually, or with an [all-access pass](https://ww
 
 ## Neil Crory Tribute Concert
 
-On **October 11, 7pm** at Trinity-St. Paul's Centre, Tafelmusik Baroque Orchestra and Chamber Choir [pays homage to the late Neil Crory](https://www.tafelmusik.org/concert-calendar/events/neil-crory-tribute-concert) - producer, impresario, and mentor. Tafelmusik welcomes a formidable group of Canadian artists to help pay tribute, including Ben Heppner, Isabel Bayrakdarian, Isaiah Bell, Benjamin Butterfield, Tracy Dahl, Nathalie Paulin, Brett Polegato, Jean Stilwell, Krisztina Szabó, Erin Wall, and Monica Whicher. 
+On **October 11, 7pm** at Trinity-St. Paul's Centre, Tafelmusik Baroque Orchestra and Chamber Choir [pays homage to the late Neil Crory](https://www.tafelmusik.org/concert-calendar/events/neil-crory-tribute-concert) - producer, impresario, and mentor. Tafelmusik welcomes a formidable group of Canadian artists to help pay tribute, including Ben Heppner, Isabel Bayrakdarian, Isaiah Bell, Benjamin Butterfield, Tracy Dahl, Nathalie Paulin, Brett Polegato, Jean Stilwell, Krisztina Szabó, Erin Wall, and Monica Whicher.
 
 The concert will be recorded by CBC Radio, and all proceeds will go to the Neil F. Crory Endowment Fund. [Tickets](https://www.tafelmusik.org/concert-calendar/events/neil-crory-tribute-concert) are $60.
 
@@ -61,7 +61,7 @@ Show One Productions continues its [_Classical Stars at Koerner_](https://showon
 
 ## Sinfonia Toronto
 
-Spicing up a program of Mozart and Tchaikovsky, Sinfonia Toronto presents a [night of world premieres](http://www.sinfoniatoronto.com/web/page.aspx?title=Mozart+%26+Tchaikovsky), **Nov. 8, 8pm** at Toronto's Glenn Gould Studio. Toronto-based Larysa Kuzmenko sees the first performance of her brand new _Skartaris Duo Concerto_ for violin, piano, and orchestra and Montréal-based Airat Ichmouratov shares his _Letter from an Unknown Woman_. 
+Spicing up a program of Mozart and Tchaikovsky, Sinfonia Toronto presents a [night of world premieres](http://www.sinfoniatoronto.com/web/page.aspx?title=Mozart+%26+Tchaikovsky), **Nov. 8, 8pm** at Toronto's Glenn Gould Studio. Toronto-based Larysa Kuzmenko sees the first performance of her brand new _Skartaris Duo Concerto_ for violin, piano, and orchestra and Montréal-based Airat Ichmouratov shares his _Letter from an Unknown Woman_.
 
 The evening's soloists are Canadian virtuosi Christina Petrowska Quilico (piano) and Marc Djokic (violin). Nurhan Arman conducts. [Tickets](http://www.sinfoniatoronto.com/web/page.aspx?title=Mozart+%26+Tchaikovsky) start at just $15.
 
