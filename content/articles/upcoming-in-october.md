@@ -1,12 +1,12 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Editorial"
-date = "2019-09-29T04:00:00+00:00"
+date = "2019-10-02T04:00:00+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
 postamble = ""
-preamble = ""
+preamble = "Two cities, and plenty to catch this fall. We've got a short list of must-see items, based out of Boston and Toronto."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1570042046/media/2019/10/sqUpcomingFall2019_vmpoaj.jpg"
 primary_image_credit = ""
 related_articles = []
