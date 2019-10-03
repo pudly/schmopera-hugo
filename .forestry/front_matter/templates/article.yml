@@ -116,8 +116,8 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
-- content/articles/thestories-part-8.md
 - content/articles/upcoming-in-october.md
+- content/articles/thestories-part-8.md
 - content/articles/talking-with-singers-rowan-pierce.md
 - content/articles/transladapted-bohème-offers-fresh-intimate-production-for-national-tour.md
 - content/articles/loc-barber.md
