@@ -12,7 +12,7 @@ primary_image_credit = "Gerard Collett."
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "\"To sing professionally brings with it a responsibility to create a parallel world for people to get lost in when every day life needs something else, or to provide people with an outlet for their emotions, some times even when they don't realise they need one!\""
+short_description = "\"To sing professionally brings with it a responsibility to create a parallel world for people to get lost in when every day life needs something else, or to provide people with an outlet for their emotions, sometimes even when they don't realise they need one!\""
 slug = "talking-with-singers-rowan-pierce"
 title = "Talking with singers: Rowan Pierce"
 youtube_url = ""
@@ -20,15 +20,17 @@ youtube_url = ""
 +++
 ## Why do you sing professionally?
 
-Everyone has to have a job! I am very privileged that mine has turned out to be something I am passionate about. To sing professionally brings with it a responsibility to create a parallel world for people to get lost in when every day life needs something else, or to provide people with an outlet for their emotions, some times even when they don't realise they need one!
+Everyone has to have a job! I am very privileged that mine has turned out to be something I am passionate about. To sing professionally brings with it a responsibility to create a parallel world for people to get lost in when every day life needs something else, or to provide people with an outlet for their emotions, sometimes even when they don't realise they need one!
 
 ## What do you know now about the singing career that you wish you knew 10 years ago?
 
-When I was younger I just wanted to do a job that meant I wasn't wishing for the weekend to arrive. I know now that being a singer often requires sacrifice as well as moments of total fulfilment. I think it is still worth it (most days!) so what I know now, wouldn't change my path, other than some times I wish I had studied a different subject as a degree. Spending a life doing one thing can have its drawbacks and I often find that colleagues who have lived "another life" too and weren't perhaps as single minded as I have been, are far more fun and interesting! I will always have books to read to catch up!
+When I was younger I just wanted to do a job that meant I wasn't wishing for the weekend to arrive. I know now that being a singer often requires sacrifice as well as moments of total fulfilment. I think it is still worth it (most days!) so what I know now, wouldn't change my path, other than some times I wish I had studied a different subject as a degree. 
+
+Spending a life doing one thing can have its drawbacks and I often find that colleagues who have lived "another life" too and weren't perhaps as single minded as I have been, are far more fun and interesting! I will always have books to read to catch up!
 
 ## How did it feel to win the inaugural Grange Festival International Singing Competition in 2017? How did your win change your career?
 
-I would say that being involved in the event with everyone working together to make music was a real pleasure. I was very happy to put together my own programme and be able to perform it to a prestigious panel and supportive audience. It is probably a cliche but winning in any music competition simply represents a performance on the day. 
+I would say that being involved in the event with everyone working together to make music was a real pleasure. I was very happy to put together my own programme and be able to perform it to a prestigious panel and supportive audience. It is probably a cliche but winning in any music competition simply represents a performance on the day.
 
 I was delighted that, on that day, my performance was judged in the way it was, on another occasion it could just as easily have been someone else. I am proud to have been a part of the whole event and surrounded by talented colleagues and role models.
 
