@@ -43,7 +43,7 @@ The concert will be recorded by CBC Radio, and all proceeds will go to the Neil 
 
 ## Odyssey Opera
 
-Continuing its Tudors-themed 2019/20 season, Boston-based [Odyssey Opera](/scene/companies/odyssey-opera/) presents Giovanni Pacini's [_Maria, Regina d'Inghilterra_](https://www.odysseyopera.org/2019-pacini-maria-regina-d-inghilterra/), **Nov. 1-3**. The 1842 opera tells the story of unrequited love between Queen Mary I, Scottish adventurer Riccardo Fenimoor, and Clotilde, and features two major soprano roles; Amy Shoremount-Obra takes on Mary, opposite Alisa Jordheim as Clotilde.
+Continuing its Tudors-themed 2019-20 season, Boston-based [Odyssey Opera](/scene/companies/odyssey-opera/) presents Giovanni Pacini's [_Maria, Regina d'Inghilterra_](https://www.odysseyopera.org/2019-pacini-maria-regina-d-inghilterra/), **Nov. 1-3**. The 1842 opera tells the story of unrequited love between Queen Mary I, Scottish adventurer Riccardo Fenimoor, and Clotilde, and features two major soprano roles; Amy Shoremount-Obra takes on Mary, opposite Alisa Jordheim as Clotilde.
 
 Pacini, a missing link of sorts among 19th-century Italian composers, wrote over 70 operas. "Beholding any of Pacini’s 70+ operas is a rare occurrence," says Gil Rose, Odyssey Opera's Artistic and General Director. A performance of Pacini’s Maria is extraordinary! We hope audiences will join Odyssey in rediscovering both this forgotten composer, and his wrongfully neglected masterpiece."
 
