@@ -22,7 +22,7 @@ youtube_url = ""
 
 On **October 5, 2pm** at Old South Church in Boston, soprano Julia Rolwing and pianist Soyeon Kim offer up a recital fitting of a Wagner Society. On the programme are songs and piano solos by Wagner and Liszt, and memorable moments from _Lohengrin_, _Siegfried_, and _Tristan und Isolde_. [Tickets](https://www.eventbrite.com/e/wagner-and-liszt-tickets-63775079981) start at $10.
 
-## Amplify
+## Amplified Opera
 
 On **October 10, 11, and 12** at the Ernest Balmer Studio in Toronto's Distillery District, you can catch three unique concert events, courtesy of Amplified Opera. Dubbed _Amplify_, the series presents lecture concerts, followed by a talkback session between audience and artists, moderated by Margaret Cormier.
 
@@ -30,11 +30,23 @@ On **October 10, 11, and 12** at the Ernest Balmer Studio in Toronto's Distiller
 
 You can catch each concert individually, or with an [all-access pass](https://www.eventbrite.com/e/amplify-all-concerts-pass-2019-tickets-73320472507) for the whole series. All concerts start at 7:30pm.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 ## Neil Crory Tribute Concert
 
 On **October 11, 7pm** at Trinity-St. Paul's Centre, Tafelmusik Baroque Orchestra and Chamber Choir [pays homage to the late Neil Crory](https://www.tafelmusik.org/concert-calendar/events/neil-crory-tribute-concert) - producer, impresario, and mentor. Tafelmusik welcomes a formidable group of Canadian artists to help pay tribute, including Ben Heppner, Isabel Bayrakdarian, Isaiah Bell, Benjamin Butterfield, Tracy Dahl, Nathalie Paulin, Brett Polegato, Jean Stilwell, Krisztina Szabó, Erin Wall, and Monica Whicher. 
 
 The concert will be recorded by CBC Radio, and all proceeds will go to the Neil F. Crory Endowment Fund. [Tickets](https://www.tafelmusik.org/concert-calendar/events/neil-crory-tribute-concert) are $60.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570070634/media/2019/10/FayFoxShoremount-Obra_qozy27.jpg){{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 ## Odyssey Opera
 
@@ -47,6 +59,12 @@ This fully staged production of [_Maria, Regina d'Inghilterra_](https://www.bost
 ## Hibla Gerzmava at Koerner Hall
 
 Show One Productions continues its [_Classical Stars at Koerner_](https://showoneproductions.ca/event/hibla-gerzmava-20191103/) series with a recital featuring Abkhazian soprano Hibla Gerzmava and pianist Ekaterina Ganelina, **Nov. 3_,_ 7pm**. The programme is a perfect mix for Gerzmava: Lush Russian romances, and _bel canto_ excerpts from some of her signature roles in _Anna Bolena_, _Norma_, and _La forza del destino_. [Tickets](https://www.rcmusic.com/event-calendar/show-one-presents-hibla-gerzmava) start at $46.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 ## Sinfonia Toronto
 
