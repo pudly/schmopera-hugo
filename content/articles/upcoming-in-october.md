@@ -18,6 +18,10 @@ title = "Upcoming in October/Nov"
 youtube_url = ""
 
 +++
+## Boston Wagner Society
+
+On **October 5, 2pm** at Old South Church in Boston, soprano Julia Rolwing and pianist Soyeon Kim offer up a recital fitting of a Wagner Society. On the programme are songs and piano solos by Wagner and Liszt, and memorable moments from _Lohengrin_, _Siegfried_, and _Tristan und Isolde_. [Tickets](https://www.eventbrite.com/e/wagner-and-liszt-tickets-63775079981) start at $10.
+
 ## Amplify
 
 On **October 10, 11, and 12** at the Ernest Balmer Studio in Toronto's Distillery District, you can catch three unique concert events, courtesy of Amplified Opera. Dubbed _Amplify_, the series presents lecture concerts, followed by a talkback session between audience and artists, moderated by Margaret Cormier.
@@ -40,16 +44,12 @@ Pacini, a missing link of sorts among 19th-century Italian composers, wrote over
 
 This fully staged production of [_Maria, Regina d'Inghilterra_](https://www.bostontheatrescene.com/season/maria-regina-dInghilterra/) runs November 1 and 3.
 
+## Hibla Gerzmava at Koerner Hall
+
+Show One Productions continues its [_Classical Stars at Koerner_](https://showoneproductions.ca/event/hibla-gerzmava-20191103/) series with a recital featuring Abkhazian soprano Hibla Gerzmava and pianist Ekaterina Ganelina, **Nov. 3_,_ 7pm**. The programme is a perfect mix for Gerzmava: Lush Russian romances, and _bel canto_ excerpts from some of her signature roles in _Anna Bolena_, _Norma_, and _La forza del destino_. [Tickets](https://www.rcmusic.com/event-calendar/show-one-presents-hibla-gerzmava) start at $46.
+
 ## Sinfonia Toronto
 
 Spicing up a program of Mozart and Tchaikovsky, Sinfonia Toronto presents a [night of world premieres](http://www.sinfoniatoronto.com/web/page.aspx?title=Mozart+%26+Tchaikovsky), **Nov. 8, 8pm** at Toronto's Glenn Gould Studio. Toronto-based Larysa Kuzmenko sees the first performance of her brand new _Skartaris Duo Concerto_ for violin, piano, and orchestra and Montréal-based Airat Ichmouratov shares his _Letter from an Unknown Woman_. 
 
 The evening's soloists are Canadian virtiosi Christina Petrowska Quilico (piano) and Marc Djokic (violin). Nurhan Arman conducts. [Tickets](http://www.sinfoniatoronto.com/web/page.aspx?title=Mozart+%26+Tchaikovsky) start at just $15.
-
-## Hibla Gerzmava at Koerner Hall
-
-Show One Productions continues its [_Classical Stars at Koerner_](https://showoneproductions.ca/event/hibla-gerzmava-20191103/) series with a recital featuring Abkhazian soprano Hibla Gerzmava and pianist Ekaterina Ganelina, **Nov. 3_,_ 7pm**. The programme is a perfect mix for Gerzmava: Lush Russian romances, and _bel canto_ excerpts from some of her signature roles in _Anna Bolena_, _Norma_, and _La forza del destino_. [Tickets](https://www.rcmusic.com/event-calendar/show-one-presents-hibla-gerzmava) start at $46.
-
-## Boston Wagner Society
-
-On **October 5, 2pm** at Old South Church in Boston, soprano Julia Rolwing and pianist Soyeon Kim offer up a recital fitting of a Wagner Society. On the programme are songs and piano solos by Wagner and Liszt, and memorable moments from _Lohengrin_, _Siegfried_, and _Tristan und Isolde_. [Tickets](https://www.eventbrite.com/e/wagner-and-liszt-tickets-63775079981) start at $10.
