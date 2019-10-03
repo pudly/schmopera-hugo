@@ -52,7 +52,7 @@ This fully staged production of [_Maria, Regina d'Inghilterra_](https://www.bost
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570070634/media/2019/10/FayFoxShoremount-Obra_qozy27.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Amy Shoremount-Obra, soprano, singing the title role in Odyssey Opera's Maria, Regina d'Inghilterra. Photo: Fay Fox.</figcaption>
 
 </figure>
 
