@@ -52,4 +52,4 @@ Show One Productions continues its [_Classical Stars at Koerner_](https://showon
 
 ## Boston Wagner Society
 
-On **October 5, 2pm** at Old South Church in Boston, soprano Julia Rolwing and pianist Soyeon Kim offer up a recital fitting of a Wagner Society. On the programme are songs and piano solos by Wagner and Liszt, and memorable moments from _Lohengrin_, _Siegfried_, and _Tristan und Isolde_. 
+On **October 5, 2pm** at Old South Church in Boston, soprano Julia Rolwing and pianist Soyeon Kim offer up a recital fitting of a Wagner Society. On the programme are songs and piano solos by Wagner and Liszt, and memorable moments from _Lohengrin_, _Siegfried_, and _Tristan und Isolde_. [Tickets](https://www.eventbrite.com/e/wagner-and-liszt-tickets-63775079981) start at $10.
