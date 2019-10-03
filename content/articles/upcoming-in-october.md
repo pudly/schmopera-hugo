@@ -48,12 +48,4 @@ The evening's soloists are Canadian virtiosi Christina Petrowska Quilico (piano)
 
 ## Hibla Gerzmava at Koerner Hall
 
-Show One Productions continues its [_Classical Stars at Koerner_](https://showoneproductions.ca/event/hibla-gerzmava-20191103/) series with a recital featuring Abkhazian soprano Hibla Gerzmava and pianist Ekaterina Ganelina, **Nov. 3_,_ 7pm**. On the programme are lush Russian romances and Italian bel canto - a perfect mix for Gerzmava, who is known for her Desdemona, Liù, and Leonora
-
-including arias from _Anna Bolena_, _Norma_, and _La forza del destino_.
-
-Tickets start at $46.
-
-* Nov. 3, 7pm, with pianist Ekaterina Ganelina
-* Russian romances, excerpts from Anna Bolena, La forza del destino, Norma
-* [tickets](https://showoneproductions.ca/event/hibla-gerzmava-20191103/)
+Show One Productions continues its [_Classical Stars at Koerner_](https://showoneproductions.ca/event/hibla-gerzmava-20191103/) series with a recital featuring Abkhazian soprano Hibla Gerzmava and pianist Ekaterina Ganelina, **Nov. 3_,_ 7pm**. The programme is a perfect mix for Gerzmava: Lush Russian romances, and _bel canto_ excerpts from some of her signature roles in _Anna Bolena_, _Norma_, and _La forza del destino_. [Tickets](https://www.rcmusic.com/event-calendar/show-one-presents-hibla-gerzmava) start at $46.
