@@ -52,7 +52,9 @@ As conductors, we have to accept that we are working with people, other human be
 
 **How do you see your role as a music director of a large opera company in the 21st century?**
 
-(EM) I was music director for seven years in Paris, of the Orchestre National d’Île-de-France. There I learned that being music director is not just about the connection of a conductor with an orchestra, but the connection of a conductor with the community. To be a conductor is not only to be inside the walls of the opera house or the concert hall, but to be connected to people outside as well. This is my personal mission with Lyric opera of Chicago: to have this be the opera house of all Chicagoans. This means that we at Lyric are ready to go outside the walls to meet new people, people who maybe have not yet had the possibility to get to know us, who haven’t experienced opera. Also connecting with young people who maybe don’t know what an explosion of emotions opera is. We need to tell them. This is my vision of an opera house in the 21stcentury.
+(EM) I was music director for seven years in Paris, of the Orchestre National d’Île-de-France. There I learned that being music director is not just about the connection of a conductor with an orchestra, but the connection of a conductor with the community. To be a conductor is not only to be inside the walls of the opera house or the concert hall, but to be connected to people outside as well. 
+
+This is my personal mission with Lyric opera of Chicago: to have this be the opera house of all Chicagoans. This means that we at Lyric are ready to go outside the walls to meet new people, people who maybe have not yet had the possibility to get to know us, who haven’t experienced opera. Also connecting with young people who maybe don't know what an explosion of emotions opera is. We need to tell them. This is my vision of an opera house in the 21st century.
 
 **What are some dream projects you would like to realize in the future? (Possibly with Lyric Opera of Chicago?)**
 
