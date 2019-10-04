@@ -20,7 +20,7 @@ youtube_url = ""
 +++
 Enrique Mazzola has been a hot topic lately in the opera world. And rightfully so. Just a few weeks ago, Lyric Opera of Chicago announced that the acclaimed Italian conductor will become the company's [new music director as of the 2021/22 season](https://www.lyricopera.org/about-lyric-opera/leadership/announcement/).
 
-Lyric audiences got to know Mazzola in recent seasons in Donizetti's _Lucia di Lammermoor_ (2016-17) and Bellini's _I puritani_ (2017-18). He's currently in town preparing Verdi's _Luisa Miller_, which opens October 12 at the Lyric Opera House, and which kicks off the company's early-Verdi series planned over the course of the next few years, and all to be conducted by Maestro Mazzola.
+Lyric audiences got to know Mazzola in recent seasons in Donizetti's _Lucia di Lammermoor_ (2016-17) and Bellini's _I puritani_ (2017-18). He's currently in town preparing Verdi's [_Luisa Miller_](https://www.lyricopera.org/productions/2019-20/luisa-miller/), which opens October 12 at the Lyric Opera House, and which kicks off the company's early-Verdi series planned over the course of the next few years, and all to be conducted by Maestro Mazzola.
 
 Verdi and the Italian bel canto occupy a central place in Mazzola's repertoire. But for the dynamic and thoughtful future leader of LOC, there are wider horizons to be explored both inside and outside the opera house. In a recent conversation I had with the maestro, we discussed his thoughts on _Luisa Miller_, Italian opera, and his vision as a 21st-century music director.
 
@@ -31,6 +31,12 @@ To preserve the richness of Maestro Mazzola's responses, I present them below mo
 **Although Verdi's _Luisa Miller_ has been done recently at various opera houses in Europe, the opera is nonetheless not that well known, particularly in the US. Where does (or should) this opera fit in the Verdi canon and what makes it a special work for you?**
 
 **EM**: I've been reflecting a lot lately on what is the place of _Luisa Miller_ in Verdi's oeuvre. Why is it that _Luisa Miller_ is less known, but an opera from just a few years later like _Rigoletto_ is known across the world? My thinking is that there are very iconic elements in the operas that followed _Luisa Miller_, namely _Rigoletto_,_Traviata_, and _Trovatore_. In _Rigoletto_ there is this man with a hunchback, and it becomes memorable; the audience will leave the theater and never forget this strange, suffering man. The plot of _Luisa Miller_ is a very beautiful romantic tragedy, but maybe there aren't as many iconic elements. But, I would like to say, that if we speak of the beauty of the music, the bellezza – let me use the Italian word because it applies so much in this case – the bellezza of _Luisa Miller_ is absolutely of the same level as in _Traviata_. The quality of the composition and the emotional impact of _Luisa Miller_ is the same. Theaters, then as now, preferred to present the more iconic titles for audiences and I think _Luisa Miller_ suffered for 150 years from this problem.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570227044/media/2019/10/Mazzola4-Jean-BaptisteMillot_iprwjo.jpg){{% /md %}}
+
+<figcaption>Enrique Mazzola, conductor. Photo: Jean-Baptiste Millot.</figcaption>
+
+</figure>
 
 **Throughout his life, Verdi struggled with appeasing censors, so there is often this tension in his operas of negotiating intimate dramas between characters with bigger revolutionary political ideas.**
 
@@ -49,6 +55,12 @@ _Luisa Miller_, though, is a good example of how, gradually, Verdi begins to exp
 **EM:** Of course a conductor has to have a global idea of the whole piece from the beginning of the process. But equally important is to know who you are working with because there is usually a big difference between one's initial concept and the final result. But this is natural because we are all human beings. Then through collaboration there is a common development of ideas. This is how I work. I love to listen, and through listening I try to convert all the ideas to one global vision for the piece. 
 
 As conductors, we have to accept that we are working with people, other human beings, who have developed their own ideas. For me, it is a pleasure to listen and to tie together all the ideas. This is what I feel my job is as the conductor, generally.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570227012/media/2019/10/Mazzola3Jean-BaptisteMillot_jcnpan.jpg){{% /md %}}
+
+<figcaption>Enrique Mazzola, conductor. Photo: Jean-Baptiste Millot.</figcaption>
+
+</figure>
 
 **How do you see your role as a music director of a large opera company in the 21st century?**
 
