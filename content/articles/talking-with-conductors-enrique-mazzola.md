@@ -17,7 +17,7 @@ title = "Talking with conductors: Enrique Mazzola"
 youtube_url = ""
 
 +++
-[Enrique Mazzola](/scene/people/enrique-mazzola/) has been a hot topic lately in the opera world. And rightfully so. Just a few weeks ago, Lyric Opera of Chicago announced that the acclaimed Italian conductor will become the company's [new music director as of the 2021/22 season](https://www.lyricopera.org/about-lyric-opera/leadership/announcement/).
+[Enrique Mazzola](/scene/people/enrique-mazzola/) has been a hot topic lately in the opera world. And rightfully so. Just a few weeks ago, Lyric Opera of Chicago announced that the acclaimed Italian conductor will become the company's [new music director as of the 2021-22 season](https://www.lyricopera.org/about-lyric-opera/leadership/announcement/).
 
 Lyric audiences got to know Mazzola in recent seasons in Donizetti's _Lucia di Lammermoor_ (2016-17) and Bellini's _I puritani_ (2017-18). He's currently in town preparing Verdi's [_Luisa Miller_](https://www.lyricopera.org/productions/2019-20/luisa-miller/), which opens October 12 at the Lyric Opera House, and which kicks off the company's early-Verdi series planned over the course of the next few years, and all to be conducted by Maestro Mazzola.
 
@@ -51,7 +51,7 @@ _Luisa Miller_, though, is a good example of how, gradually, Verdi begins to exp
 
 **How do you approach your first rehearsal with a new ensemble?**
 
-**EM:** Of course a conductor has to have a global idea of the whole piece from the beginning of the process. But equally important is to know who you are working with because there is usually a big difference between one's initial concept and the final result. But this is natural because we are all human beings. Then through collaboration there is a common development of ideas. This is how I work. I love to listen, and through listening I try to convert all the ideas to one global vision for the piece. 
+**EM:** Of course a conductor has to have a global idea of the whole piece from the beginning of the process. But equally important is to know who you are working with because there is usually a big difference between one's initial concept and the final result. But this is natural because we are all human beings. Then through collaboration there is a common development of ideas. This is how I work. I love to listen, and through listening I try to convert all the ideas to one global vision for the piece.
 
 As conductors, we have to accept that we are working with people, other human beings, who have developed their own ideas. For me, it is a pleasure to listen and to tie together all the ideas. This is what I feel my job is as the conductor, generally.
 
@@ -63,13 +63,13 @@ As conductors, we have to accept that we are working with people, other human be
 
 **How do you see your role as a music director of a large opera company in the 21st century?**
 
-(EM) I was music director for seven years in Paris, of the Orchestre National d’Île-de-France. There I learned that being music director is not just about the connection of a conductor with an orchestra, but the connection of a conductor with the community. To be a conductor is not only to be inside the walls of the opera house or the concert hall, but to be connected to people outside as well. 
+(EM) I was music director for seven years in Paris, of the Orchestre National d’Île-de-France. There I learned that being music director is not just about the connection of a conductor with an orchestra, but the connection of a conductor with the community. To be a conductor is not only to be inside the walls of the opera house or the concert hall, but to be connected to people outside as well.
 
 This is my personal mission with Lyric opera of Chicago: to have this be the opera house of all Chicagoans. This means that we at Lyric are ready to go outside the walls to meet new people, people who maybe have not yet had the possibility to get to know us, who haven’t experienced opera. Also connecting with young people who maybe don't know what an explosion of emotions opera is. We need to tell them. This is my vision of an opera house in the 21st century.
 
 **What are some dream projects you would like to realize in the future? (Possibly with Lyric Opera of Chicago?)**
 
-**EM**: This _Luisa Miller_ is the first step in a beautiful early-Verdi cycle, which I will conduct entirely. This project will allow us to explore some unknown Verdi titles. It's been a long time since I conducted Puccini, so I think I would like to re-enter the world of Puccini here at Lyric. And with my new music family here, I think it's also time to look at early German Romantic repertoire. So probably some early Wagner will be on the schedule for my repertoire. 
+**EM**: This _Luisa Miller_ is the first step in a beautiful early-Verdi cycle, which I will conduct entirely. This project will allow us to explore some unknown Verdi titles. It's been a long time since I conducted Puccini, so I think I would like to re-enter the world of Puccini here at Lyric. And with my new music family here, I think it's also time to look at early German Romantic repertoire. So probably some early Wagner will be on the schedule for my repertoire.
 
 I would also like to find time to dedicate myself more to contemporary works. When I was a young conductor, I was conducting lots of contemporary music. Also, the Lyric has fantastic programs like [Lyric Unlimited](/the-positive-impact-of-community-created-performances/) that bring opera to the community. I would like to also be involved in such projects.
 
