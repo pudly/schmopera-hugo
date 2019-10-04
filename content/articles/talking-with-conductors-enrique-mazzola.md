@@ -5,12 +5,12 @@ date = "2019-10-04T04:00:00+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "Lyric Opera of Chicago's production of [_Luisa Miller_](https://www.lyricopera.org/productions/2019-20/luisa-miller/) runs Oct. 12-31."
 preamble = ""
 primary_image = ""
 primary_image_credit = ""
 related_articles = []
-related_companies = []
+related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
 related_people = []
 short_description = "\"Luisa is a character totally surrounded by men who, in that time, control her life. But her father speaks up for her. This makes me think, 'Bravo, Giuseppe! You are speaking about important things for your time.'\""
 slug = "talking-with-conductors-enrique-mazzola"
@@ -60,8 +60,6 @@ As conductors, we have to accept that we are working with people, other human be
 
 I would also like to find time to dedicate myself more to contemporary works. When I was a young conductor, I was conducting lots of contemporary music. Also, the Lyric has fantastic programs like [Lyric Unlimited](/the-positive-impact-of-community-created-performances/) that bring opera to the community. I would like to also be involved in such projects.
 
-With Maestro Mazzola at its helm, LOC has a bright future ahead. It will be exciting to witness the changing of the guard over these next few seasons.
-
 ***
 
-_I am grateful to Magda Krance, LOC's Director of Media Relations, for arranging and facilitating this interview._
+_With Maestro Mazzola at its helm, LOC has a bright future ahead. It will be exciting to witness the changing of the guard over these next few seasons. I am grateful to Magda Krance, LOC's Director of Media Relations, for arranging and facilitating this interview._
