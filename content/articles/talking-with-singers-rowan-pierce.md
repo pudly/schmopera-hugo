@@ -1,7 +1,7 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Interview"
-date = "2019-10-01T04:00:00+00:00"
+date = "2019-10-05T04:00:00+00:00"
 disclaimer = ""
 image_gallery = []
 postamble = "The [2019 Grange Festival International Singing Competition](https://thegrangefestival.co.uk/singing-competition/) Semi-Finals are on 21 October, and the final six will compete on 31 October. You can catch Rowan Pierce as Barbarina in English National Opera's 2020 production of [_The Marriage of Figaro_](https://www.eno.org/whats-on/the-marriage-of-figaro/)."
