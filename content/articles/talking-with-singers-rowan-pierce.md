@@ -21,6 +21,8 @@ youtube_url = ""
 
 Everyone has to have a job! I am very privileged that mine has turned out to be something I am passionate about. To sing professionally brings with it a responsibility to create a parallel world for people to get lost in when every day life needs something else, or to provide people with an outlet for their emotions, sometimes even when they don't realise they need one!
 
+> "Winning in any music competition simply represents a performance on the day."
+
 ## What do you know now about the singing career that you wish you knew 10 years ago?
 
 When I was younger I just wanted to do a job that meant I wasn't wishing for the weekend to arrive. I know now that being a singer often requires sacrifice as well as moments of total fulfilment. I think it is still worth it (most days!), so with what I know now, wouldn't change my path, other than some times I wish I had studied a different subject as a degree.
@@ -31,11 +33,13 @@ Spending a life doing one thing can have its drawbacks and I often find that col
 
 I would say that being involved in the event with everyone working together to make music was a real pleasure. I was very happy to put together my own programme and be able to perform it to a prestigious panel and supportive audience. It is probably a cliché, but winning in any music competition simply represents a performance on the day.
 
+> "If you win, wonderful. If you don't but you're proud of the performance you gave, wonderful too."
+
 I was delighted that, on that day, my performance was judged in the way it was, on another occasion it could just as easily have been someone else. I am proud to have been a part of the whole event and surrounded by talented colleagues and role models.
 
 ## What challenges do you find are unique to singing in voice competitions?
 
-I think, ideally you can't think about competitions in any other way than you would treat a professional engagement. Do your best with what you have at the time. Do not think about how people will perceive it. You can only give them what you have so there's not much use in trying to magic something up. 
+I think, ideally you can't think about competitions in any other way than you would treat a professional engagement. Do your best with what you have at the time. Do not think about how people will perceive it. You can only give them what you have so there's not much use in trying to magic something up.
 
 Trying to be persistently reliable in your music-making is more important than the "art of winning." If you win, wonderful. If you don't but you're proud of the performance you gave, wonderful too.
 
