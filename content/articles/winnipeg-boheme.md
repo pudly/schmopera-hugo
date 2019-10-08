@@ -8,7 +8,7 @@ postamble = "Against the Grain Theatre's [production of _La bohème_]() continue
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1570494536/media/2019/10/sqOP190927_DSC4071_dznjel.jpg"
 primary_image_credit = "Against the Grain Theatre's touring production of La bohème, photographed in Banff, AB, 2019. Photo: Jessica Wittman."
-related_articles = ["articles/hype-atg-boheme.md"]
+related_articles = ["articles/transladapted-bohème-offers-fresh-intimate-production-for-national-tour.md", "articles/hype-atg-boheme.md"]
 related_companies = ["scene/companies/against-the-grain-theatre.md"]
 related_people = ["scene/people/jonelle-sills.md", "scene/people/gregory-finney.md", "scene/people/marcel-dentremont.md", "scene/people/giles-tomkins.md", "scene/people/danika-lorn.md", "scene/people/clarence-frazer.md"]
 short_description = "Ivany told me that there are always audience members at these performances for whom opera is a new experience, and I think bringing opera to new audiences in this manner is a fantastic idea."
@@ -17,7 +17,7 @@ title = "Immersed and captivated by AtG's Bohème in Winnipeg"
 youtube_url = ""
 
 +++
-Two of my worlds collided when I went to see opera at The Pyramid Cabaret. I was a regular at the Pyramid (and its 90's predecessor, The Spectrum) and saw a lot of great bands there in the 80s and 90s, including The Bourbon Tabernacle Choir and… well, the rest is a blur. It was that kind of place.
+Two of my worlds collided when I went to see opera at The Pyramid Cabaret. I was a regular at the Pyramid (and its 90s predecessor, The Spectrum) and saw a lot of great bands there in the 80s and 90s, including The Bourbon Tabernacle Choir and… well, the rest is a blur. It was that kind of place.
 
 As soon as I found out that Joel Ivany's Against the Grain Theatre was going to present Puccini's timeless masterpiece _La Bohème_ at my old haunt, I knew I had to be there. Ivany has been steadily gaining nationwide attention for his imaginative re-renderings of classic operas, from Mozart to Puccini and much more.
 
@@ -43,7 +43,7 @@ I found myself immersed and captivated by the story. Most of the performance hel
 
 > I had become so engulfed in the story, that I found I needed more time to grieve the loss of the characters onstage.
 
-I was very touched several times – when Mimi (the lovely soprano [Jonelle Sills](/scene/people/jonelle-sills/)) hit her first high note, my eyes filled with tears. Sills is definitely a singer with a bright future. We don't usually hear voices of this calibre so close-up, and when the orchestra is replaced by a piano (played skilfully by Music Director David Eliakis), a level of intimacy is achieved that can't be matched by the mainstage experience. In effect, even though this is still opera, for me it becomes a different art form. Its scale and instrumentation makes it seem more like a musical, but a musical with some of the best music ever written.
+I was very touched several times – when Mimì (the lovely soprano [Jonelle Sills](/scene/people/jonelle-sills/)) hit her first high note, my eyes filled with tears. Sills is definitely a singer with a bright future. We don't usually hear voices of this calibre so close-up, and when the orchestra is replaced by a piano (played skilfully by Music Director David Eliakis), a level of intimacy is achieved that can't be matched by the mainstage experience. In effect, even though this is still opera, for me it becomes a different art form. Its scale and instrumentation makes it seem more like a musical, but a musical with some of the best music ever written.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570494678/media/2019/10/OP190927_DSC4188_zx0emf.jpg){{% /md %}}
 
