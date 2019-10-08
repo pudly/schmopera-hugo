@@ -27,7 +27,7 @@ As soon as I found out that Joel Ivany's Against the Grain Theatre was going to 
 
 </figure>
 
-Ivany translates the original language of these operas into English, presents them in a new setting (like the cabaret we were in) and does an impressive job making these "transladaptations" fresh and new to the ears and eyes of a modern audience I have seen _La Bohème_ on the mainstage a few times with full orchestra, and I have the full score in my library as for me, it's a bible of operatic orchestrating (I'm an opera composer).
+Ivany translates the original language of these operas into English, presents them in a new setting (like the cabaret we were in) and does an impressive job making these "transladaptations" fresh and new to the ears and eyes of a modern audience. I have seen _La Bohème_ on the mainstage a few times with full orchestra, and I have the full score in my library as for me, it's a bible of operatic orchestrating (I'm an opera composer).
 
 > Sills is definitely a singer with a bright future.
 
@@ -51,7 +51,7 @@ I was very touched several times – when Mimì (the lovely soprano [Jonelle Sil
 
 </figure>
 
-I was so into it, that at the extremely sad conclusion, I felt jarred when the lights same up and the performers hopped up, not dead anymore, to take their bows. I had become so engulfed in the story, that I found I needed more time to grieve the loss of the characters onstage. I especially loved how the second scene was set at the walk-up bar of the Pyramid.
+I was so into it, that at the extremely sad conclusion, I felt jarred when the lights came up and the performers hopped up, not dead anymore, to take their bows. I had become so engulfed in the story, that I found I needed more time to grieve the loss of the characters onstage. I especially loved how the second scene was set at the walk-up bar of the Pyramid.
 
 The audience were so close to the singers, it was hard to determine one from the other (except when they started singing). The singers' interactions with the audience members at close quarters was something that never happens with a mainstage show. I also appreciated how the singers somehow managed to keep singing their tricky ensemble parts when they were mingled with the audience, and the piano being at the other end of the room – well done! Ivany has done a stellar job of adapting the Italian libretto to contemporary English.
 
