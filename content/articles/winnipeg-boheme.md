@@ -18,98 +18,22 @@ title = "Winnipeg Boheme"
 youtube_url = ""
 
 +++
-Two of my worlds collided when I went to see opera at The Pyramid Cabaret. I was a
+Two of my worlds collided when I went to see opera at The Pyramid Cabaret. I was a regular at the Pyramid (and its 90's predecessor, The Spectrum) and saw a lot of great bands there in the 80s and 90s, including The Bourbon Tabernacle Choir and… well, the rest is a blur. It was that kind of place.
 
-regular at the Pyramid (and its 90’s predecessor, The Spectrum) and saw a lot of
+As soon as I found out that Joel Ivany's Against the Grain Theatre was going to present Puccini's timeless masterpiece La Bohème at my old haunt, I knew I had to be there. Ivany has been steadily gaining nationwide attention for his imaginative re-renderings of classic operas, from Mozart to Puccini and much more. 
 
-great bands there in the 80s and 90s, including The Bourbon Tabernacle Choir and…
+Ivany translates the original language of these operas into English, presents them in a new setting (like the cabaret we were in) and does an impressive job making these "transladaptations" fresh and new to the ears and eyes of a modern audience I have seen _La Bohème_ on the mainstage a few times with full orchestra, and I have the full score in my library as for me, it's a bible of operatic orchestrating (I'm an opera composer). So I know the story already, but spoiler alert – it does not end well! I had only ever heard it sung in Italian, so I knew it was going to be more approachable in English and updated to 2019 Winnipeg. This performance is part of Against the Grain Theatre's cross-Canada tour of the piece, travelling from Banff through Winnipeg to Toronto, then to the Yukon.
 
-well, the rest is a blur. It was that kind of place.
+I found myself immersed and captivated by the story. Most of the performance held my interest so well, I forgot everything else and just allowed myself to be carried along by the beautiful singing and believable acting. In short, I forgot I was watching "a show", it seemed like real life (although one where everyone is singing). I started thinking about times in my own life that were reflected in the story I saw onstage. 
 
-As soon as I found out that Joel Ivany’s Against the Grain Theatre was going to
+I was very touched several times – when Mimi (the lovely soprano [Jonelle Sills](/scene/people/jonelle-sills/)) hit her first high note, my eyes filled with tears. Sills is definitely a singer with a bright future. We don't usually hear voices of this calibre so close-up, and when the orchestra is replaced by a piano (played skilfully by Music Director David Eliakis), a level of intimacy is achieved that can't be matched by the mainstage experience. In effect, even though this is still opera, for me it becomes a different art form. Its scale and instrumentation makes it seem more like a musical, but a musical with some of the best music ever written. 
 
-present Puccini’s timeless masterpiece La Bohème at my old haunt, I knew I had to
+I was so into it, that at the extremely sad conclusion, I felt jarred when the lights same up and the performers hopped up, not dead anymore, to take their bows. I had become so engulfed in the story, that I found I needed more time to grieve the loss of the characters onstage. I especially loved how the second scene was set at the walk-up bar of the Pyramid.
 
-be there. Ivany has been steadily gaining nationwide attention for his imaginative
+The audience were so close to the singers, it was hard to determine one from the other (except when they started singing). The singers' interactions with the audience members at close quarters was something that never happens with a mainstage show. I also appreciated how the singers somehow managed to keep singing their tricky ensemble parts when they were mingled with the audience, and the piano being at the other end of the room – well done! Ivany has done a stellar job of adapting the Italian libretto to contemporary English.
 
-re-renderings of classic operas, from Mozart to Puccini and much more. Ivany
+There were many laugh-out-loud moments in the script, and the cast's crisp diction meant that you could understand practically every word they were singing. 
 
-translates the original language of these operas into English, presents them in a new
+Usually, when I think of opera, intimacy is not the first thing that comes to mind, but when a piece such as this is re-imagined to our own language and time, something special happens: the piece transports itself into our psyches with all-too familiar themes of our times – rising rents, the difficulty of finding financial reward as an artist, the spectre of illness – becoming top of mind. 
 
-setting (like the cabaret we were in) and does an impressive job making these
-
-“transladaptations” fresh and new to the ears and eyes of a modern audience
-
-I have seen La Bohème on the mainstage a few times with full orchestra, and I have
-
-the fullscore in my library as for me, it’s a bible of operatic orchestrating (I’m an
-
-opera composer). So I know the story already, but spoiler alert – it does not end
-
-well! I had only ever heard it sung in Italian, so I knew it was going to be more
-
-approachable in English and updated to 2019 Winnipeg. This performance is part of
-
-Against the Grain’s cross-Canada tour of the piece, travelling from Banff through
-
-Winnipeg to Toronto, then to the Yukon.
-
-I found myself immersed and captivated by the story. Most of the performance held
-
-my interest so well, I forgot everything else and just allowed myself to be carried
-
-along by the beautiful singing and believable acting. In short, I forgot I was watching
-
-“a show”, it seemed like real life (although one where everyone is singing). I started
-
-thinking about times in my own life that were reflected in the story I saw onstage. I
-
-was very touched several times – when Mimi (the lovely soprano Jonelle Sills) hit
-
-her first high note, my eyes filled with tears. Sills is definitely a singer with a bright
-
-future. We don’t usually hear voices of this calibre so close-up, and when the
-
-orchestra is replaced by a piano (played skilfully by Music Director David Eliakis), a
-
-level of intimacy is achieved that can’t be matched by the mainstage experience. In
-
-effect, even though this is still opera, for me it becomes a different art form. Its scale
-
-and instrumentation makes it seem more like a musical, but a musical with some of
-
-the best music ever written. I was so into it, that at the extremely sad conclusion, I
-
-felt jarred when the lights same up and the performers hopped up, not dead
-
-anymore, to take their bows. I had become so engulfed in the story, that I found I
-
-needed more time to grieve the loss of the characters onstage.
-
-I especially loved how the second scene was set at the walk-up bar of the Pyramid.
-
-The audience were so close to the singers, it was hard to determine one from the
-
-other (except when they started singing). The singers’ interactions with the
-
-audience members at close quarters was something that never happens with a
-
-mainstage show. I also appreciated how the singers somehow managed to keep
-
-singing their tricky ensemble parts when they were mingled with the audience, and
-
-the piano being at the other end of the room – well done!
-
-Ivany has done a stellar job of adapting the Italian libretto to contemporary English.
-
-There were many laugh-out-loud moments in the script, and the cast’s crisp diction
-
-meant that you could understand practically every word they were singing. Usually,
-
-when I think of opera, intimacy is not the first thing that comes to mind, but when a
-
-piece such as this is re-imagined to our own language and time, something special
-
-happens: the piece transports itself into our psyches with all-too-familiar themes of
-
-our times – rising rents, the difficulty of finding financial reward as an artist, the spectre of illness – becoming top of mind. Ivany told me that there are always audience members at these performances for whom opera is a new experience, and I think bringing opera to new audiences in this manner is a fantastic idea. I wish him, the cast and crew safe travels as they continue to Kenora, Thunder Bay and beyond.
+Ivany told me that there are always audience members at these performances for whom opera is a new experience, and I think bringing opera to new audiences in this manner is a fantastic idea. I wish him, the cast and crew safe travels as they continue to Kenora, Thunder Bay and beyond.
