@@ -116,12 +116,12 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/metoo-intro.md
 - content/articles/winnipeg-boheme.md
 - content/articles/thestories-part-9.md
 - content/articles/mo-elektra.md
 - content/articles/talking-with-singers-rowan-pierce.md
 - content/articles/talking-with-conductors-enrique-mazzola.md
-- content/articles/metoo-intro.md
 - content/articles/upcoming-in-october.md
 - content/articles/thestories-part-8.md
 - content/articles/transladapted-bohème-offers-fresh-intimate-production-for-national-tour.md
