@@ -42,7 +42,7 @@ Original footage from _Helena de troya_, directed by Manfred Noa, was shown in t
 
 Throughout the drama the projected film has a few purposes. It showed what was about to happen offstage; in the maids' scene one of the servants is led offstage to be beaten, and we get to witness that on the screen. During Elektra's entrance scene, the screen projects what was occurring currently on the stage, making it look as though the singers were lipsyncing. This is an odd in my opinion, but it achieves the larger-than-life drama that all Greek classics demand.
 
-The cinematic display shows what the characters fantasize might happen in the immediate future. After the two murders, Oreste and his sisters were shown embracing and rejoicing in the palace together. But in the reality of the plot of the film and Strauss' opera, that never occurs.
+The cinematic display shows what the characters fantasize about in the immediate future. After the two murders, Oreste and his sisters are shown embracing and rejoicing in the palace together. But in the reality of the plot of the film and Strauss' opera, that never occurs.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570496191/media/2019/10/MOElektra_37A0235_psdsk0.jpg){{% /md %}}
 
