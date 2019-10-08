@@ -23,7 +23,7 @@ As soon as I found out that Joel Ivany's Against the Grain Theatre was going to 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570494644/media/2019/10/OP190927_DSC4139_dnjbg1.jpg){{% /md %}}
 
-<figcaption>Against the Grain Theatre's touring production of La bohème, photographed in Banff, AB, 2019. Photo courtesy of Against the Grain Theatre.</figcaption>
+<figcaption>Against the Grain Theatre's touring production of La bohème, photographed in Banff, AB, 2019. Photo: Jessica Wittman.</figcaption>
 
 </figure>
 
@@ -31,7 +31,7 @@ Ivany translates the original language of these operas into English, presents th
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570494657/media/2019/10/OP190927_DSC4179_kxrmbq.jpg){{% /md %}}
 
-<figcaption>Against the Grain Theatre's touring production of La bohème, photographed in Banff, AB, 2019. Photo courtesy of Against the Grain Theatre.</figcaption>
+<figcaption>Against the Grain Theatre's touring production of La bohème, photographed in Banff, AB, 2019. Photo: Jessica Wittman.</figcaption>
 
 </figure>
 
@@ -41,7 +41,7 @@ I was very touched several times – when Mimi (the lovely soprano [Jonelle Sill
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570494678/media/2019/10/OP190927_DSC4188_zx0emf.jpg){{% /md %}}
 
-<figcaption>Against the Grain Theatre's touring production of La bohème, photographed in Banff, AB, 2019. Photo courtesy of Against the Grain Theatre.</figcaption>
+<figcaption>Against the Grain Theatre's touring production of La bohème, photographed in Banff, AB, 2019. Photo: Jessica Wittman.</figcaption>
 
 </figure>
 
@@ -51,7 +51,7 @@ The audience were so close to the singers, it was hard to determine one from the
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570494691/media/2019/10/OP190927_DSC4230_fd8cd6.jpg){{% /md %}}
 
-<figcaption>Against the Grain Theatre's touring production of La bohème, photographed in Banff, AB, 2019. Photo courtesy of Against the Grain Theatre.</figcaption>
+<figcaption>Against the Grain Theatre's touring production of La bohème, photographed in Banff, AB, 2019. Photo: Jessica Wittman.</figcaption>
 
 </figure>
 
@@ -61,7 +61,7 @@ Usually, when I think of opera, intimacy is not the first thing that comes to mi
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570494703/media/2019/10/OP190927_DSC4289_fnkg81.jpg){{% /md %}}
 
-<figcaption>Against the Grain Theatre's touring production of La bohème, photographed in Banff, AB, 2019. Photo courtesy of Against the Grain Theatre.</figcaption>
+<figcaption>Against the Grain Theatre's touring production of La bohème, photographed in Banff, AB, 2019. Photo: Jessica Wittman.</figcaption>
 
 </figure>
 
@@ -69,6 +69,6 @@ Ivany told me that there are always audience members at these performances for w
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570494716/media/2019/10/OP190927_DSC4373_naavvv.jpg){{% /md %}}
 
-<figcaption>Against the Grain Theatre's touring production of La bohème, photographed in Banff, AB, 2019. Photo courtesy of Against the Grain Theatre.</figcaption>
+<figcaption>Against the Grain Theatre's touring production of La bohème, photographed in Banff, AB, 2019. Photo: Jessica Wittman.</figcaption>
 
 </figure>
