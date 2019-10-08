@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/thestories-part-9.md
 - content/articles/mo-elektra.md
 - content/articles/winnipeg-boheme.md
 - content/articles/talking-with-singers-rowan-pierce.md
@@ -139,7 +140,6 @@ pages:
 - content/articles/operatease.md
 - content/articles/thestories-part-4.md
 - content/scene/people/wes-hunter.md
-- content/articles/thestories-part-9.md
 - content/articles/thestories-part-3.md
 - content/articles/thestories-part-i.md
 - content/articles/thestories-part-2.md
