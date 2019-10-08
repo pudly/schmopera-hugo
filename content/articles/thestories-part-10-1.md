@@ -13,8 +13,8 @@ related_articles = ["articles/thestories-part-9.md", "articles/thestories-part-8
 related_companies = []
 related_people = []
 short_description = "\"Each rejection only affirmed this belief; if I really had talent, someone would want me. On the other hand, each time I did manage to be cast, I was afraid it had been a mistake, and wondered if there was some other sort of agenda. To this day I find it difficult to trust mentors.\""
-slug = "thestories-part-710"
-title = "#TheStories, part 10"
+slug = "thestories-part-11"
+title = "#TheStories, part 11"
 youtube_url = ""
 
 +++
