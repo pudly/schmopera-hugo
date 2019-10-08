@@ -30,7 +30,7 @@ Minnesota Opera opened it’s fifty second season on Saturday October 5 with _El
 
 The true stars of the night were the 85-piece orchestra, passionately led by [Elias Grandy](https://mnopera.org/biography/elias-grandy/) playing with a rich and sustained intensity throughout the night. The orchestra was onstage, and the space that would have usually been taken up by the pit was where the film crew was.
 
-The director of the film - the omnipresent Fritz Lang - introduced the opera and his film, as well as telling the audience to silence their cell phones. The action of the opera is within the filming of a silent movie, beginning 15 minutes prior to downbeat The action began onstage fifteen minutes before the official 8pm start time with the opera within a film set action.
+An uncredited actor played the omnipresent director of the fictional film. In a thick German accent, he introduced the opera and his film reminded the audience to silence their cell phones. Action began onstage fifteen minutes before the official 8pm start time, with film crew getting set and scenes being rehearsed. This prologue is about immersing the audience in the layered story-within-a-story device; it was a little reminiscent of _Ariadne auf Naxos_, with comic antics from the film crew.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570496177/media/2019/10/MOElektra_37A0067_khl7pr.jpg){{% /md %}}
 
@@ -40,7 +40,9 @@ The director of the film - the omnipresent Fritz Lang - introduced the opera and
 
 Original footage from _Helena de troya_, directed by Manfred Noa, was shown in the first five minutes of the show, completely silent and it was slightly uncomfortable. Most opera goers don't come to sit and watch a screen in silence - I kept waiting for the orchestra to chime in. This screen stayed up in the first scene to show the footage made for this production, which was an interesting dramatic device.
 
-Throughout the drama, the projected film showed what was about to happen offstage not in real time (the beating of servants, for example), what is going on currently on the stage (almost as if the singers are lip syncing), what the characters fantasize might happen in the immediate future (Oreste and his sisters embracing and rejoicing in the palace together).
+Throughout the drama the projected film has a few purposes. It showed what was about to happen offstage not in real time, in the maids scene one of the servants is led offstage to be beaten, and we got to witness that on the screen. During Elektra entrance aria and scene, the screen projected  what was occuring currently on the stage, so the singers were basically lipsyncing. This was an odd in my opinion, but it achieved the larger than life drama that all greek classics demand.
+
+The cinematic display showed what the characters fantasize might happen in the immediate future. After the two murders, Oreste and his sisters were shown embracing and rejoicing in the palace together. But in the reality of the plot of the film and Strauss' opera, that never occurs.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570496191/media/2019/10/MOElektra_37A0235_psdsk0.jpg){{% /md %}}
 
