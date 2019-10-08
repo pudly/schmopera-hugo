@@ -50,9 +50,9 @@ The cinematic display shows what the characters fantasize about in the immediate
 
 </figure>
 
-With all these different uses of the one dramatic tool, the creative team certainly believed in the effectiveness of the medium. I think it could have been trimmed a bit, because it distracted from the artists on stage. There was a dolly with a camera, and two directors that moved around throughout the opera.
+Interestingly, the audience sees the singers transition from their _Elektra_ characters to play playing silent film actors, coming out of their dramatic scenes and "regrouping", smiling at the director, being kissed on the cheek by colleagues or giving handshakes.
 
-This concept was interesting because the audience saw how the singers playing silent film actors would come out of their dramatic scenes and regrouping, smiling at the director, being kissed on the cheek by colleagues or handshakes.
+The creative team certainly believes in the effectiveness of the film medium. I think it could have been trimmed a bit. Notably with the meandering dolly carrying a camera and two directors throughout the opera, the concept sometimes distracted from the artists on stage.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570496208/media/2019/10/MOElektra_37A0496_hvbgze.jpg){{% /md %}}
 
@@ -60,7 +60,9 @@ This concept was interesting because the audience saw how the singers playing si
 
 </figure>
 
-In fact we first saw Elektra "off-camera" in a turban and dressing gown- giving off a distinctly Norma Desmond image. In fact the framing of her death at the conclusion of the drama had elements of Sunset Boulevard as well. In Strauss' opera, Elektra's plot succeeds and she begins to dance in victory but drops dead with the final chords of the opera. The same happens on the film set, but as the last moments of the music ring out, the production team stops and everyone realized the actress was actually dead. And blackout on sombre confusion.
+In fact we first see Elektra "off-camera" in a turban and dressing gown, giving off a distinctly [Norma Desmond](https://villains.fandom.com/wiki/Norma_Desmond) image. In fact, the framing of her death at the conclusion of the drama has elements of _Sunset Boulevard_ as well. 
+
+In Strauss' opera, Elektra's plot succeeds and she begins to dance in victory but drops dead with the final chords of the opera. The same happens on the film set, but as the last moments of the music ring out, the production team stops and everyone realized the actress was actually dead. And blackout on sombre confusion.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570496232/media/2019/10/MOElektra_37A0843_pyuhyh.jpg){{% /md %}}
 
@@ -68,7 +70,7 @@ In fact we first saw Elektra "off-camera" in a turban and dressing gown- giving 
 
 </figure>
 
-I liked this ending, because as the opera went on, we could see Elektra becoming more and more immersed in the violent obsessiveness of her character. On one occasion, she was led off camera by some crew, and the camera obviously pointed on some other action, and there Elektra was, wielding the axe lustfully. The director notices what she is doing and snatched the axe away and leads her back to her mark for the next scene.
+I like this ending, because as the opera goes on, we see Elektra becoming more and more immersed in the violent obsessiveness of her character. On one occasion, she is led off-camera by some crew; as the camera is then pointed on some other action, and there is Elektra, wielding the axe lustfully. The director notices what she is doing, snatches the axe away, and leads her back to her mark for the next scene.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570496247/media/2019/10/MOElektra_T8A0820_nkodpk.jpg){{% /md %}}
 
@@ -76,4 +78,4 @@ I liked this ending, because as the opera went on, we could see Elektra becoming
 
 </figure>
 
-The parallel layers of a Greek character going mad and dying, and an artist being driven to death by her character were interesting to watch, but to make the latter more compelling I think there needed to be more background on the actress and what factors may have contributed to her death. But interesting nonetheless.
+The parallel layers of a Greek character going mad and dying, and an artist being driven to death by her character were interesting to watch. But to make the latter more compelling, I think there needed to be more background on the actress and what factors may have contributed to her death. But interesting nonetheless.
