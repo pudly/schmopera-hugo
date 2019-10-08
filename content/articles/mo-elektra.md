@@ -1,7 +1,7 @@
 +++
 author = ["authors/callie-cooper.md"]
 categories = "Review"
-date = "2019-10-07T04:00:00+00:00"
+date = "2019-10-08T04:00:00+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = ["scene/people/victoria-vargas.md", "scene/people/craig-irvin.md"]
 short_description = "With all these different uses of the one dramatic tool, the creative team certainly believed in the effectiveness of the medium. I think it could have been trimmed a bit, because it distracted from the artists on stage."
-slug = "mo-elektra"
-title = "MO Elektra"
+slug = "greek-tragedy-meets-sunset-boulevard-minnesota-operas-new-elektra"
+title = "Greek tragedy meets Sunset Boulevard: Minnesota Opera's new Elektra"
 youtube_url = ""
 
 +++
@@ -78,4 +78,4 @@ I like this ending, because as the opera goes on, we see Elektra becoming more a
 
 </figure>
 
-The parallel layers of a Greek character going mad and dying, and an artist being driven to death by her character were interesting to watch. But to make the latter more compelling, I think there needed to be more background on the actress and what factors may have contributed to her death. But interesting nonetheless.
+The parallel layers of a Greek character going mad and dying, and an artist being driven to death by her character were interesting to watch. But to make the latter more compelling, I think there needed to be more background on the actress and what factors may have contributed to her death. But interesting, nonetheless.
