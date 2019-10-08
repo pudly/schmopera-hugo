@@ -34,7 +34,7 @@ The director of the film - the omnipresent Fritz Lang - introduced the opera and
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570496177/media/2019/10/MOElektra_37A0067_khl7pr.jpg){{% /md %}}
 
-<figcaption> in Elektra, Minnesota Opera, 2019. Photo: Cory Weaver.</figcaption>
+<figcaption>Pre-show activity in preparation to start filming in Elektra, Minnesota Opera, 2019. Photo: Cory Weaver.</figcaption>
 
 </figure>
 
@@ -44,7 +44,7 @@ Throughout the drama, the projected film showed what was about to happen offstag
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570496191/media/2019/10/MOElektra_37A0235_psdsk0.jpg){{% /md %}}
 
-<figcaption> in Elektra, Minnesota Opera, 2019. Photo: Cory Weaver.</figcaption>
+<figcaption>Nadia Fayad as Maidservant 1, Lisa Marie Rogali as Maidservant 4, Karin Wolverton as Overseer, Victoria Vargas as Maidservant 3, and Mia Athey as Maidservant 2 in Elektra, Minnesota Opera, 2019. Photo: Cory Weaver.</figcaption>
 
 </figure>
 
@@ -54,7 +54,7 @@ This concept was interesting because the audience saw how the singers playing si
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570496208/media/2019/10/MOElektra_37A0496_hvbgze.jpg){{% /md %}}
 
-<figcaption> in Elektra, Minnesota Opera, 2019. Photo: Cory Weaver.</figcaption>
+<figcaption>Jill Grove as Klytaemnestra in Elektra, Minnesota Opera, 2019. Photo: Cory Weaver.</figcaption>
 
 </figure>
 
@@ -62,15 +62,15 @@ In fact we first saw Elektra "off-camera" in a turban and dressing gown- giving 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570496232/media/2019/10/MOElektra_37A0843_pyuhyh.jpg){{% /md %}}
 
-<figcaption> in Elektra, Minnesota Opera, 2019. Photo: Cory Weaver.</figcaption>
+<figcaption>Craig Irvin as Orest and Sabine Hogrefe as Elektra in Elektra, Minnesota Opera, 2019. Photo: Cory Weaver.</figcaption>
 
 </figure>
 
-I liked this ending, because as the opera went on, we could see Elektra becoming more and more immersed in the violent obsessiveness of her character. On one occasion, she was led off camera by some crew, and the camera obviously pointed on some other action, and there Elektra was, wielding the axe lustfully. The director notices what she is doing and snatched the axe away and leads her back to her mark for the next scene. 
+I liked this ending, because as the opera went on, we could see Elektra becoming more and more immersed in the violent obsessiveness of her character. On one occasion, she was led off camera by some crew, and the camera obviously pointed on some other action, and there Elektra was, wielding the axe lustfully. The director notices what she is doing and snatched the axe away and leads her back to her mark for the next scene.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570496247/media/2019/10/MOElektra_T8A0820_nkodpk.jpg){{% /md %}}
 
-<figcaption> in Elektra, Minnesota Opera, 2019. Photo: Cory Weaver.</figcaption>
+<figcaption>Sabine Hogrefe as Elektra and Craig Irvin as Orest in Elektra, Minnesota Opera, 2019. Photo: Cory Weaver.</figcaption>
 
 </figure>
 
