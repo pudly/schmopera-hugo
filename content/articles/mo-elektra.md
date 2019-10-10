@@ -17,15 +17,13 @@ title = "Greek tragedy meets Sunset Boulevard: Minnesota Opera's new Elektra"
 youtube_url = ""
 
 +++
-Minnesota Opera opens its 52nd season this weekend with [Richard Strauss' _Elektra_](https://mnopera.org/season/2019-2020/elektra/). 
+Minnesota Opera opens its 52nd season this weekend with [Richard Strauss' _Elektra_](https://mnopera.org/season/2019-2020/elektra/). The true stars of the night are the 85-piece orchestra, passionately led by [Elias Grandy](https://mnopera.org/biography/elias-grandy/) and playing with a rich and sustained intensity. The orchestra is onstage, displaced by the film crew in the pit.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570496160/media/2019/10/MOElektra_T8A0284_nuzoeo.jpg){{% /md %}}
 
 <figcaption> in Elektra, Minnesota Opera, 2019. Photo: Cory Weaver.</figcaption>
 
 </figure>
-
-The true stars of the night are the 85-piece orchestra, passionately led by [Elias Grandy](https://mnopera.org/biography/elias-grandy/) and playing with a rich and sustained intensity throughout the night. The orchestra is onstage, displaced by the film crew in the pit. 
 
 Singing the title character is [Sabine Hogrefe](https://mnopera.org/biography/sabine-hogrefe/), a veteran of this opera who brings her Elektra worldwide. She approaches the character with the extreme drama that this tragedy deserves. There is good chemistry between Hogrefe's Elektra and [Marcy Stonikas](http://www.marcystonikas.com/) as her sister, Chrysothemis.
 
