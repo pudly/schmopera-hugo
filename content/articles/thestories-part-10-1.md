@@ -20,7 +20,7 @@ youtube_url = ""
 +++
 I moved to NYC in 2011 to pursue my masters degree in voice. I arrived here ready to work as hard as I could and do whatever it took to have a career. Growing up in the rural Midwest with almost no connections, I knew that I had to do twice the work with half the resources.
 
-The summer after my first year of grad school I sang in a small opera festival. I was the youngest apprentice by several years and couldn't believe I was given this opportunity. Although there were several people on the artistic staff, one conductor/pianist/coach in particular worked with the apprentices. 
+The summer after my first year of grad school I sang in a small opera festival. I was the youngest apprentice by several years and couldn't believe I was given this opportunity. Although there were several people on the artistic staff, one conductor/pianist/coach in particular worked with the apprentices.
 
 > One of the older apprentices warned me that this man had a reputation for singling out one young female apprentice each year and trying to sleep with her.
 
@@ -44,7 +44,7 @@ The dinner was a little uncomfortable. I felt like a child thinking she's having
 
 We split a bottle of wine, but he ensured that most of it ended up in my glass. As we walked out, I mentioned I felt a little tipsy. I wasn't drunk, it had been just enough wine to make me not completely sober and loosen my tongue. He held me by the shoulders. I thought they would be crushed in the too strong grasp of his hands. "Yes, but not tipsy enough for me to cash in on some bets I've made," he said, looking at me with a lecherous and confident smile that froze my blood.
 
-I couldn't look at him anymore. My eyes went anywhere that wasn't his face. I said I had to go home and study. Still holding me, he offered to take me home himself. I felt sick. I didn't want to be alone in a car with him, where I could not escape, not did I want him knowing where I lived. I shook his hands off of me, told him I was fine and went home.
+I couldn't look at him anymore. My eyes went anywhere that wasn't his face. I said I had to go home and study. Still holding me, he offered to take me home himself. I felt sick. I didn't want to be alone in a car with him, where I could not escape, nor did I want him knowing where I lived. I shook his hands off of me, told him I was fine and went home.
 
 I had one or two more coachings with him after that. Part of me thought that if I could just have normal coaching, than maybe it would mean I had just misinterpreted everything. Maybe I was wrong, and he truly was just interested in my voice. Maybe it would all be ok. He never came on to me like that again, but he did continue to physically invade my space, holding my arm so tightly it hurt, or standing just inches from my face when talking to me.
 
