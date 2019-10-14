@@ -82,7 +82,7 @@ Maestro Lorenzo Viotti wrings a massive sound out of Frankfurt's orchestra, taki
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571018291/media/2019/10/4115_manonlescaut21_gross_hsy4jm.jpg){{% /md %}}
 
-<figcaption>in Manon Lescaut, Oper Frankfurt, 2019. Photo: Barbara Aumüller.</figcaption>
+<figcaption>Asmik Grigorian (Manon Lescaut) and Joshua Guerrero (Chevalier Renato Des Grieux) in Manon Lescaut, Oper Frankfurt, 2019. Photo: Barbara Aumüller.</figcaption>
 
 </figure>
 
