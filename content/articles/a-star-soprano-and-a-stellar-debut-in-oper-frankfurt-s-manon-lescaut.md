@@ -1,0 +1,45 @@
++++
+author = ["authors/jeremy-hirsch.md"]
+categories = "Review"
+date = "2019-10-13T04:00:00+00:00"
+disclaimer = ""
+draft = true
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = ""
+primary_image_credit = ""
+related_articles = []
+related_companies = []
+related_people = []
+short_description = "In Puccini's anodyne libretto however, des Grieux and Manon become unwitting martyrs. Des Grieux's self-pity is sublimated into hopeless romanticism too pure for a cruel world. Manon, mercurial and unparsable in the novella, is given a clearly defined voice and a straight-forward moral compass."
+slug = "a-star-soprano-and-a-stellar-debut-in-oper-frankfurts-manon-lescaut"
+title = "A star soprano and a stellar debut in Oper Frankfurt's Manon Lescaut"
+youtube_url = ""
+
++++
+The characters in Abbé Prévost's 1731 novella Histoire du Chevalier des Grieux et de Manon Lescaut are irredeemable, des Grieux most of all. Despite controlling the novella's narrative, the young man comes off as a sociopath. The plot reads like a gussied up litany of his crimes, from petty thievery to armed robbery to cold blooded murder. He's defined less by a drive towards noble love (as in Puccini's opera) than by an inexhaustible depth of self-pity and a willingness to shamelessly leverage status and wealth (often precariously obtained, despite his status) to save himself at the expense of others, including, fatally, Manon.
+
+In Puccini's anodyne libretto however, des Grieux and Manon become unwitting martyrs. Des Grieux's self-pity is sublimated into hopeless romanticism too pure for a cruel world. Manon, mercurial and unparsable in the novella, is given a clearly defined voice and a straight-forward moral compass. Opera was popular entertainment after all and Puccini had shows to sell.
+
+Àlex Ollé's (La Fura dels Baus) new production of Manon Lescaut at Oper Frankfurt moves the story from the 18th century to the present. Before the first note, a short film projected like a movie shows Manon (Asmik Grigorian) laboring in a garment factory, leaving an over-cluttered apartment, ducking under a bolt-cut chain link fence, and being driven in an unmarked van towards who knows where. A voiceover of worried family members laments Manon's absence, her precarious immigration status, and the potential danger she's put herself in by fleeing home.
+
+Cut to a stylishly spartan train station cafe with a backdrop of massive cement block letters spelling out LOVE. The towering sculpture, in its coldness and immutability, is so unlike the thing it aims to describe that it seems ironic or at least desperate, like a misguided attempt to solidify an ideal that has become increasingly hard to define.
+
+Des Grieux (Joshua Guerrero) spots Manon as she exits the white van and is immediately obsessed. Their flirtation heats up in tandem with growing orchestra swells until the lovers burst into a ravishing duet, their voices sailing to the rafters on a torrent of unison strings. Puccini's intricate understanding of the voice enables him to balance it within powerful orchestral dins. With the instrumentalists at full tilt, the singers' voices still penetrate the soundscape. Grigorian and Guerrero were so in sync in these moments that their voices seemed to ricochet off each other, multiplying in magnitude with each collision of vibrations.
+
+Signaling act two, the cafe's roof discreetly lowers like an elevator platform sliding down the massive concrete LOVE, covering the stage with an intricate new layer of set: a fully functional strip club. Unnecessary nudity in Regietheater is a timeworn cliché, but here it's appropriate. 18th century Manon is essentially a sex worker, selling love in exchange for security and salary. The same can be said in this updated version. What's different now is the market itself, which caters to a broader public and commodifies women more aggressively. Manon's over-the-hill boyfriend/pimp Geronte profits directly from her wares, unlike her 18th century patrons. This reversal flips the power structure even further against Manon's favor. Ultimately Manon ends up deported and destitute, dying of thirst and starvation in a desolate American desert.
+
+Guerrero and Grigorian both triumph in their roles. Grigorian \[link: https://operawire.com/charles-castronuovo-asmik-grigorian-win-big-at-the-international-opera-awards/\] is a bona fide opera star and not only because she's athletic enough to blend in with professional pole dancers. Though her middle voice is less remarkable, as her voice climbs to its upper range its timbre becomes concentrated, diamond-like in clarity and beauty, flawlessly withstanding punishing series of sustained ascending lines.
+
+Like Grigorian, Guerrero's best singing happens when he flips into his upper register. He opens his mouth and high notes seem to gush out. One feels like a child giddily holding his breath through a tunnel or floating above her seat on the first drop of a roller coaster. You don't want the fun to end.
+
+Both he and Grigorian are subtle naturalistic actors and neither lets ego interfere with their dramatic duties. The pair balances acting and singing with a coordinated choreography, giving space to their partner when their melody should take the spotlight, then jumping right back into deft, spontaneous acting.
+
+The production has solid supporting players, with some missteps here and there. Veteran bass Donato Di Stefano's well-sung Geronte de Ravoir seems to have wandered in from the set of The Sopranos. Bianca Andrew commits gutsily to a striptease as the musician, and Magnús Baldvinsson brings a delightfully off-kilter sensibility to the crusty cafe maître d'.
+
+Iurii Samoilov misses as Lescaut. His voice vacillates in and out of its resonance and dramatically he sands down Manon's amoral, alcoholic, huckster brother into a blandly heroic sidekick.
+
+Maestro Lorenzo Viotti wrings a massive sound out of Frankfurt's orchestra, taking advantage of Puccini's forte orchestral interjections to blow the audience's ears back. Still, he's sensitive to the singers and judiciously balances the band to their voices, a difficult task in the hall's notoriously tricky acoustic.
+
+Àlex Ollé's production faithfully and cleverly translates well-trod musical material and literature into a modern sensibility. The show achieves a rare alchemy of superb production and set design (Alfons Flores), video (Emmanuel Carlier), lighting (Joachim Klein), costume (Lluc Castells), directing (Ollé assisted by Valentina Carrasco), conducting, and singing that Frankfurters will reward with patronage of their own.
