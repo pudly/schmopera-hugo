@@ -53,9 +53,9 @@ Des Grieux ([Joshua Guerrero](/scene/people/joshua-guerrero/)) spots Manon as sh
 
 </figure>
 
-Signalling act two, the cafe's roof discreetly lowers like an elevator platform sliding down the massive concrete LOVE, covering the stage with an intricate new layer of set: a fully functional strip club. Unnecessary nudity in Regietheater is a timeworn cliché, but here it's appropriate. 18th-century Manon is essentially a sex worker, selling love in exchange for security and salary. 
+Signalling act two, the cafe's roof discreetly lowers like an elevator platform sliding down the massive concrete LOVE, covering the stage with an intricate new layer of set: a fully functional strip club. Unnecessary nudity in Regietheater is a timeworn cliché, but here it's appropriate. 18th-century Manon is essentially a sex worker, selling love in exchange for security and salary.
 
-Both he and Grigorian are subtle naturalistic actors and neither lets ego interfere with their dramatic duties.
+> Both he and Grigorian are subtle naturalistic actors and neither lets ego interfere with their dramatic duties.
 
 The same can be said in this updated version. What's different now is the market itself, which caters to a broader public and commodifies women more aggressively. Manon's over-the-hill boyfriend/pimp Geronte profits directly from her wares, unlike her 18th-century patrons. This reversal flips the power structure even further against Manon's favor. Ultimately Manon ends up deported and destitute, dying of thirst and starvation in a desolate American desert.
 
