@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/thestories-part-12.md
 - content/articles/virgina-opera-tosca.md
 - content/articles/a-star-soprano-and-a-stellar-debut-in-oper-frankfurt-s-manon-lescaut.md
 - content/articles/thestories-part-10-1.md
