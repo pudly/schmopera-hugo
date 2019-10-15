@@ -12,8 +12,8 @@ related_articles = ["articles/talking-with-singers-melody-moore.md", "articles/i
 related_companies = ["scene/companies/virginia-opera.md"]
 related_people = []
 short_description = "In general, tempos throughout the performance were sluggish, particularly in the first act. The love duet plodded along and the Te Deum was agonizingly slow, as was Mario's third act aria \"e lucevan le stelle.\""
-slug = "virginia-opera-tosca"
-title = "Virgina Opera Tosca"
+slug = "a-tosca-found-wanting-in-virginia-operas-production"
+title = "A Tosca found wanting in Virginia Opera's production"
 youtube_url = ""
 
 +++
