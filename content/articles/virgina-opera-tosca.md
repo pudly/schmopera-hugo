@@ -27,6 +27,8 @@ It's not often as a critic that you get to see two different opera companies' pr
 
 And it's unfortunate too, because I wonder if I would have enjoyed the Virginia Opera performance of my favorite opera more had I not had such an [exquisite example of the piece](/alkema-a-world-class-tosca-at-wno/) so fresh in my memory. As it is, Virginia Opera's outing of Puccini's "shabby little shocker," came off as mostly just shabby. But it speaks to the quality of Puccini's masterful writing that such an unimpressive performance of _Tosca_ still makes for a fairly entertaining evening.
 
+> An all-out brawl broke out on stage in a moment of over-the-top camp.
+
 In her staging, Lillian Groag attempted to create a Zeffirellian feel of excitement and bustle, but the result was often clumsy and overly busy. There were children darting back and forth, and city folk taking a moment to stop into the chapel where Mario Cavaradossi was working to admire the art, or later in Act II following Mario's exclamation of "Vittoria! Vittoria!" when he managed to briefly escape and an all-out brawl broke out on stage in a moment of over-the-top camp.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571103439/media/2019/10/VAOperaTOSCA-3101_zycwbp.jpg){{% /md %}}
@@ -47,6 +49,8 @@ And his singing wasn't much better - his dark, baritonal voice, heavy and presse
 
 In the title role, Ewa Płonka brought a truly remarkable voice. Steely and impossibly huge, I found myself whispering "Wow!" to myself over and over again whenever her voice hit its sweet spot in her upper register. The voice is so enormous that it becomes clumsy at times but is still gloriously thrilling to hear, with an ground-shaking top C.
 
+> The lovers utterly lacked any chemistry, and their tryst felt like a  frivolous flirtation, making it hard to root for their doomed romance.
+
 Her Tosca, however, lacked sincerity. She performed all the beats you expect from a Tosca: the flirting, the jealousy, the forgiveness, the prayer, the murder, the suicide, without ever sinking into ay of them in a satisfying way. When the time came in the intense second act, she launched so hurriedly into her "Vissi d'arte" that it crushed the magic of those first four notes which should emerge from nothing.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571103488/media/2019/10/VAOperaTOSCA-3595_sjcihh.jpg){{% /md %}}
@@ -56,6 +60,8 @@ Her Tosca, however, lacked sincerity. She performed all the beats you expect fro
 </figure>
 
 But the aria was beautifully sung and had an appropriate intensity, which risked being deflated by Groag's staging of Scarpia who continued to work at his desk, writing, blotting, and sealing papers.
+
+> The love duet plodded along and the _Te Deum_ was agonizingly slow, as was Mario's third act aria "e lucevan le stelle."
 
 Kyle Albertson played a one-dimensional Scarpia, with all the menace of [Snidely Whiplash](https://en.wikipedia.org/wiki/Snidely_Whiplash) or some equally silly cartoon villain. His voice is small for a Scarpia, and he seemed to struggle for the lowest notes during the first act, but the voice came into its own, sounding more lyrical in the second. Scarpia's "Va, Tosca" and _Te Deum_, serving as the finale of the first act, should be a show-stopping spectacle, but Albertson was occasionally covered by the orchestra (led by Virginia Opera artistic director Adam Turner) and the chorus's first few lines, sung from offstage, were all but inaudible in, by far, the slowest rendition of this aria I've ever heard.
 
