@@ -71,6 +71,6 @@ Kyle Albertson played a one-dimensional Scarpia, with all the menace of [Snidely
 
 </figure>
 
-In general, tempos throughout the performance were sluggish, particularly in the first act. The love duet plodded along and the _Te Deum_ was agonizingly slow, as was Mario's third act aria "e lucevan le stelle."
+In general, tempos throughout the performance were sluggish, particularly in the first act. The love duet plodded along and the _Te Deum_ was agonizingly slow, as was Mario's third-act aria, "E lucevan le stelle."
 
 Virginia Opera is doing the important work of bringing Grand Opera to the stage in smaller cities outside of Washington, D.C., and judging by the size of the audience at Saturday's performance, that work is highly valued. And I think that's what frustrated me about this performance: it wouldn't have taken much to turn this from a mediocre _Tosca_ into a pretty good one; like a meal with no salt, it only takes a little sprinkle to turn something flavorless into something delicious.
