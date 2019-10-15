@@ -3,7 +3,6 @@ author = ["authors/jeremy-hirsch.md"]
 categories = "Review"
 date = "2019-10-13T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
