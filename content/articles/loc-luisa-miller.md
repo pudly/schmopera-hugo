@@ -24,7 +24,7 @@ The undisputed stars of last night's performance were the Lyric Opera Orchestra 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571168945/media/2019/10/SolomanHoward_QuinnKelsey_LUISAMILLER_LyricOperaofChicago_LYR191008_150_jb6s0a.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>(l-r) Soloman Howard (Wurm) and Quinn Kelsey (Miller) in Luisa Miller, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
 </figure>
 
