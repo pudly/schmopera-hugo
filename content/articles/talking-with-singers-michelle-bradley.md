@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = "American soprano Michelle Bradley is opening the San Diego Opera 2019-2020 season singing the leading role in a new theatrical production of _Aida_. The production features set elements and costumes with Joseph Colaneri as the conductor and Alan Hicks as the director. It runs for four performances, October 19-27."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571188947/media/2019/10/sqMichelleBradley_lepge3.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571189076/media/2019/10/sqDarioAcosta-MichelleBradley_lhdob7.jpg"
 primary_image_credit = "Photo: Dario Acosta."
 related_articles = []
 related_companies = []
@@ -26,11 +26,17 @@ I already know the role so I can focus on the new blocking this time. I have a w
 
 I still put the same amount of energy into preparation, whether it's a recital in gowns and tuxedos or if it's a full version with costumes and a set. I give it my all regardless because that's what I have to do. \[The rehearsal\] is the easy part. The hard part is when I lock myself in a room and go over the score, figure out who the character is, make sure I get every pianissimo and forte, and accent and legato. When I come here, it's already engrained in me. I can just go where the director tells me to go.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571189195/media/2019/10/SDOAIDA1_mp1uwz.jpg){{% /md %}}
+
+<figcaption>Preproduction artwork for San Diego Opera's production of Aida. Image courtesy of San Diego Opera.</figcaption>
+
+</figure>
+
 I have a trusted inner circle of musicians I work with when I prepare a role to go through the foundation work. Then on my own, I start building who the character is and working on how I can bring more to each phrase. It's a process. Some days, it can be hard focusing and I can only sit for 10 minutes. Sometimes I can sit for hours. What I love is that if I ever need to get my mind off something, I can go to my music and focus for a little while, even if it's only 10 minutes.
 
 ## On her teachers and mentors
 
-My teachers helped me gain confidence. I still keep in touch with all of them. They follow me and come to my performances when they can. I see everyone of my teachers as a family around me that supports me. They all gave me something special. I've had a lot of help. 
+My teachers helped me gain confidence. I still keep in touch with all of them. They follow me and come to my performances when they can. I see everyone of my teachers as a family around me that supports me. They all gave me something special. I've had a lot of help.
 
 Lois Alba was my teacher when I was in Houston (Houston Grand Opera). She was a very important one. Diana Soviero, the wonderful soprano, was my teacher when I was in the Metropolitan Opera's Lindemann Young Artist Program.
 
@@ -40,11 +46,17 @@ Myra Merritt was my grad school teacher at Bowling Green State University. With 
 
 Diana Soviero put the icing on the cake. I learned the pianissimi I can do from her. I learned the expression from her, and giving everything you have when you get out on the stage. I learned that from watching her. Her lessons are like a performance. She sings with me and I just imitate.
 
-Marilyn Horne, the wonderful mezzo soprano; I did the Music Academy of the West with her in the summer of 2014. That was the pivotal moment that changed my life. Since then, I've been going up and up. She's been a wonderful support. 
+Marilyn Horne, the wonderful mezzo soprano; I did the Music Academy of the West with her in the summer of 2014. That was the pivotal moment that changed my life. Since then, I've been going up and up. She's been a wonderful support.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571189182/media/2019/10/DarioAcosta-MichelleBradley3_vsyeae.jpg){{% /md %}}
+
+<figcaption>Michelle Bradley, soprano. Photo: Dario Acosta.</figcaption>
+
+</figure>
 
 ## On her career compared to her expectations
 
-I honestly didn't know what to expect. I just knew that I love what I do and I'm learning as I go. I'm leaning how to work with different types of people and how to be able to learn different types of music at the same time. 
+I honestly didn't know what to expect. I just knew that I love what I do and I'm learning as I go. I'm leaning how to work with different types of people and how to be able to learn different types of music at the same time.
 
 I'm also learning how to travel efficiently. I know how to get through the airport quickly. I have a nice little rhythm going now. I know what energy I need in order to do a certain role, in order to get up at 5 AM to catch a plane. I know my voice better and I know my body. I learned that along the way.
 
@@ -62,7 +74,7 @@ I love Verdi, how he gives me a little break in certain acts but when it's time 
 
 ## On why she sings
 
-I love to sing. I've been doing it ever since I can remember. My parents were in the choir at church. I don't come from a wealthy family and they worked really hard all their lives in order for us to have the smallest of things. Their way of dealing with that was coming home and singing every day. 
+I love to sing. I've been doing it ever since I can remember. My parents were in the choir at church. I don't come from a wealthy family and they worked really hard all their lives in order for us to have the smallest of things. Their way of dealing with that was coming home and singing every day.
 
 From the time I was running around in diapers, my Dad would gather us all in the living room and we would sing church hymns. I have three brothers and my two older brothers would sing parts. I would just imitate until I got old enough. And then I was teaching my family songs and playing piano for them. It became a part of my life. It became something that helped me make my mark in the world. It helped people to see me and take me seriously.
 
@@ -70,11 +82,17 @@ I used to get bullied a lot at school. I had crooked teeth so I would never talk
 
 Growing up, it was a great outlet. Every day, I would get home from school and before my parents came home from work, I'd get my chores done and go and sing in the closet. When they got home, I would be quiet. My younger brother told them I sang in the closet every day after school. My parents put me up front in church.
 
-As an adult now, it's my career. It pays all my bills but it's still an outlet. If ever I'm having a rough day or can't make sense of my life, I go to the practice room or somewhere and sing. 
+As an adult now, it's my career. It pays all my bills but it's still an outlet. If ever I'm having a rough day or can't make sense of my life, I go to the practice room or somewhere and sing.
 
-I was going through a tough time when I started working with Lois Alba. That's how I started Aida, "O Patria Mia". I was 27. I had just started learning it and it was the only Verdi aria I knew. I'd go to her house and sing it almost every day for a few weeks. I didn't yet have the capacity to focus on learning anything else. It was just the act of singing and bringing joy. 
+I was going through a tough time when I started working with Lois Alba. That's how I started Aida, "O Patria Mia". I was 27. I had just started learning it and it was the only Verdi aria I knew. I'd go to her house and sing it almost every day for a few weeks. I didn't yet have the capacity to focus on learning anything else. It was just the act of singing and bringing joy.
 
 Afterwards, she would take me to the kitchen and make me something to eat, and because I was from Kentucky, she would give me a little taste of Bourbon Whiskey and send me on my way.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571189165/media/2019/10/DarioAcosta-MichelleBradley2_pgwlh0.jpg){{% /md %}}
+
+<figcaption>Michelle Bradley, soprano. Photo: Dario Acosta.</figcaption>
+
+</figure>
 
 ## On her idols
 
