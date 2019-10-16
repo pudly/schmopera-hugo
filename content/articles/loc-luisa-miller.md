@@ -12,8 +12,8 @@ related_articles = ["articles/roundtable-an-operatic-triple-threat.md", "article
 related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
 related_people = ["scene/people/christian-van-horn.md", "scene/people/enrique-mazzola.md", "scene/people/quinn-kelsey.md", "scene/people/joseph-calleja.md", "scene/people/krassimira-stoyanova.md"]
 short_description = "While in the first act, the singers interacted awkwardly, with little to no dramatic commitment to their movements or singing, in the final moments of the show, the principals all rose to the occasion, singing and acting with dramatic impetus that temporarily stopped time. "
-slug = "loc-luisa-miller"
-title = "LOC Luisa Miller"
+slug = "luisa-miller-a-suberbly-shaped-start-to-chicagos-early-verdi-venture"
+title = "Luisa Miller a \"superbly shaped\" start to Chicago's early Verdi venture"
 youtube_url = ""
 
 +++
