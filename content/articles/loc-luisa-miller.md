@@ -32,7 +32,7 @@ Of course, it's true for any piece, but scores like _Luisa Miller_ benefit immen
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571168957/media/2019/10/KrassimiraStoyanova_QuinnKelsey_LUISAMILLER_LyricOperaofChicago_LYR191008_154_grhpos.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Krassimira Stoyanova (Luisa) and Quinn Kelsey (Miller) in Luisa Miller, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
 </figure>
 
@@ -42,7 +42,7 @@ This same sense of arrival toward the end of the opera was felt from the stage. 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571168967/media/2019/10/KrassimiraStoyanova_JosephCalleja_LUISAMILLER_LyricOperaofChicago_nnfves.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Krassimira Stoyanova (Luisa) and Joseph Calleja (Rodolfo) in Luisa Miller, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
 </figure>
 
@@ -52,7 +52,7 @@ When their fates finally collide at the opera's conclusion, the singers' embodim
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571168982/media/2019/10/ChristianVanHorn_KrassimiraStoyanova_QuinnKelsey_LUISAMILLER_LyricOperaofChicago_LYR191008_288_xszmad.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>(l-r) Christian Van Horn (Walter), Quinn Kelsey (Miller) and Krassimira Stoyanova (Luisa) in Luisa Miller, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
 </figure>
 
@@ -62,7 +62,7 @@ Similarly captivating in his lyric moments, baritone Quinn Kelsey delivered a mu
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571168997/media/2019/10/AlisaKolosova_JosephCalleja_LUISAMILLER_LyricOperaofChicago_LYR191008_248_riqxwf.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Joseph Calleja (Rodolfo) and Alisa Kolosova (Federica) in Luisa Miller, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
 </figure>
 
