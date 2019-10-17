@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571280090/media/2019/10/sqAtlantaOperaFrida5770_t1royx.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
@@ -30,7 +30,7 @@ The production presented at The Atlanta Opera has endured numerous outings, nota
 
 The stage is set with abstract visions of Kahlo's work, a gigantic heart, a withering tree sprouting from the arteries, and a large screen in the background; it effectively helps set the obscurities as the Kahlo-Rivera household, a New York City party, Rivera's studio, and more. The costuming, expertly done by Moníka Essen, with wigs by Sue Sittko Schaefer, perfectly captures the stylistically appropriate and effectively dressed the actors, and helps transform them into numerous different roles while sticking strictly with historically accurate and culturally relevant pieces.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571280106/media/2019/10/AtlantaOperaFrida6680_ancalw.jpg){{% /md %}}
 
 <figcaption></figcaption>  
 </figure>
