@@ -30,6 +30,11 @@ The production presented at The Atlanta Opera has endured numerous outings, nota
 
 The stage is set with abstract visions of Kahlo's work, a gigantic heart, a withering tree sprouting from the arteries, and a large screen in the background; it effectively helps set the obscurities as the Kahlo-Rivera household, a New York City party, Rivera's studio, and more. The costuming, expertly done by Moníka Essen, with wigs by Sue Sittko Schaefer, perfectly captures the stylistically appropriate and effectively dressed the actors, and helps transform them into numerous different roles while sticking strictly with historically accurate and culturally relevant pieces.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
+
 As the curtain rises on the first act, we are introduced to dancers Miriam Golomb, Rachel Shiffman, and Cansler McGhee, dressed in Calavera costumes, complete with skulled masks. Their dance, a dance inviting Frida to death, interweaves the piece, granting an effervescent sprinkling of hallucination to the piece.
 
 We are introduced to [Catalina Cuervo](/scene/people/catalina-cuervo/) as the title character. She steps from the canvas in spitting image of Frida's icon-- her fiery attitude and intentional interpretation brought a sharp wit and honesty to the woman. Cuervo is no stranger to Frida, having performed this very production at [Florida Grand Opera](/appropriately-strange-frida-at-fgo/), Michigan, and Cincinnati. Likewise, she is no stranger to Atlanta, having sung the title role in their discovery productions of Maria de Buenos Aires for sold out productions twice within the last few years.
