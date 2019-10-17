@@ -40,6 +40,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/michelle-bradley.md
 - content/scene/people/enrique-mazzola.md
 - content/scene/people/marianne-crebassa.md
 - content/scene/people/adam-plachetka.md
