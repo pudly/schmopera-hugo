@@ -10,7 +10,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571280090/m
 primary_image_credit = "Catalina Cuervo in the title role of Frida, The Atlanta Opera, 2019. Photo: Rafterman Photography."
 related_articles = ["articles/a-definitive-hit-west-side-story-in-atlanta.md", "articles/fgo-frida.md"]
 related_companies = []
-related_people = []
+related_people = ["scene/people/eliza-bonet.md", "scene/people/bryn-holdsworth.md", "scene/people/andres-acosta.md", "scene/people/catalina-cuervo.md"]
 short_description = "Frida and Diego encounter many struggles, the communist revolution turning against Diego, the pair travelling to New York, their struggle to carry a pregnancy to full term, and their return to Mexico, which led to Diego’s many affairs."
 slug = "Frida"
 title = "Frida"
@@ -58,11 +58,6 @@ Many of the remaining actors perform numerous roles throughout the performance. 
 
 Returning in his second year as an Atlanta Opera Studio Artist, Jonathan Bryan continues to impress, following up his success in _Dead Man Walking_ and _La traviata_ as Frida and Cristina's father and as Mr. Rockefeller. His voice is substantial inside, deeply resonant and clear, while his acting continues to show a determined and confident edge that will surely blossom into a healthy career.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption></figcaption>  
-</figure>
-
 Mezzo-soprano [Eliza Bonet](/scene/people/eliza-bonet/), who made her TAO debut in [_West Side Story_](/a-definitive-hit-west-side-story-in-atlanta/), takes the stage as the gilted lovers, Mrs. Rockefeller and Natalie Trotsky, two smaller roles that she justifies with a strong stage presence and competent technique.
 
 Nathan Munson - who we have seen triumph in Capitol City Opera's _Gianni Schicchi_ and _Buoso's Ghost_, and The Atlanta Opera's _Seven Deadly Sins_ - takes on the smaller roles as a mourner and as Mr. Ford, inviting his strong, sensitive lyric tenor to mingle, brightly cutting through the orchestration while inviting a rounded, pleasant sound. One hopes we might see him sing something slightly more substantial on The Atlanta Opera's stage, considering his talent and the small roles he's done recently.
@@ -72,7 +67,7 @@ Nathan Munson - who we have seen triumph in Capitol City Opera's _Gianni Schicch
 <figcaption>Frida, The Atlanta Opera, 2019. Photo: Rafterman Photography.</figcaption>  
 </figure>
 
-Debuting with The Atlanta Opera Studio Program is Jouelle Roberson, whose soprano takes on smaller roles throughout the piece alongside Isaac Kim, Zachary Owen, graduated studio artist Bryn Holdsworth, and Jasmine Habersham. Again, having heard Habersham and Holdsworth over the years - most memorably in [_Out of Darkness: Two Remain_](/perfect-for-its-time-heggie-double-bill-in-atlanta/) - we can't hope but hear them both. Pamina? Manon? I'd pay to hear that.
+Debuting with The Atlanta Opera Studio Program is Jouelle Roberson, whose soprano takes on smaller roles throughout the piece alongside Isaac Kim, Zachary Owen, graduated studio artist [Bryn Holdsworth](/scene/people/bryn-holdsworth/), and Jasmine Habersham. Again, having heard Habersham and Holdsworth over the years - most memorably in [_Out of Darkness: Two Remain_](/perfect-for-its-time-heggie-double-bill-in-atlanta/) - we can't hope but hear them both. Pamina? Manon? I'd pay to hear that.
 
 Overall, the production is successful in telling the story of an artistic heroine and allowing the audience to view her humanity. However, it fails to adequately showcase the talent that The Atlanta Opera sourced to tell the tale. It's exciting to hear the singers in the smaller roles, and disappointing to hear their minimal lines and minimal development. The Stanislavski quote goes, "There are no small parts, only small actors," yet it feels like a relative injustice to the audience as well as the actors, talent that is seemingly stifled in these smaller roles.
 
