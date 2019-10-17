@@ -1,9 +1,8 @@
 +++
 author = ["authors/eva-cahen.md"]
 categories = "Interview"
-date = "2019-10-15T04:00:00+00:00"
+date = "2019-10-17T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = "American soprano Michelle Bradley is opening the San Diego Opera 2019-2020 season singing the leading role in a new theatrical production of _Aida_. The production features set elements and costumes with Joseph Colaneri as the conductor and Alan Hicks as the director. It runs for four performances, October 19-27."
