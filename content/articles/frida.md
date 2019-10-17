@@ -46,7 +46,7 @@ Many of the remaining actors perform numerous roles throughout the performance. 
 
 Returning in his second year as an Atlanta Opera Studio Artist, Jonathan Bryan continues to impress, following up his success in _Dead Man Walking_ and _La traviata_ as Frida and Cristina's father and as Mr. Rockefeller. His voice is substantial inside, deeply resonant and clear, while his acting continues to show a determined and confident edge that will surely blossom into a healthy career.
 
-Mezzo-soprano [Eliza Bonet](/scene/people/eliza-bonet/), who made her TAO debut in _West Side Story_, takes the stage as the gilted lovers, Mrs. Rockefeller and Natalie Trotsky, two smaller roles that she justified with a strong stage presence and competent technique.
+Mezzo-soprano [Eliza Bonet](/scene/people/eliza-bonet/), who made her TAO debut in [_West Side Story_](/a-definitive-hit-west-side-story-in-atlanta/), takes the stage as the gilted lovers, Mrs. Rockefeller and Natalie Trotsky, two smaller roles that she justifies with a strong stage presence and competent technique.
 
 Nathan Munson - who we have seen triumph in Capitol City Opera's _Gianni Schicchi_ and _Buoso's Ghost_, and The Atlanta Opera's _Seven Deadly Sins_ - takes on the smaller roles as a mourner and as Mr. Ford, inviting his strong, sensitive lyric tenor to mingle, brightly cutting through the orchestration while inviting a rounded, pleasant sound. One hopes we might see him sing something slightly more substantial on The Atlanta Opera's stage, considering his talent and the small roles he's done recently.
 
