@@ -1,6 +1,6 @@
 +++
 author = ["authors/daniel-weisman.md"]
-categories = ""
+categories = "Review"
 date = "2019-10-16T04:00:00+00:00"
 disclaimer = ""
 image_gallery = []
@@ -9,7 +9,7 @@ preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571280090/media/2019/10/sqAtlantaOperaFrida5770_t1royx.jpg"
 primary_image_credit = "Catalina Cuervo in the title role of Frida, The Atlanta Opera, 2019. Photo: Rafterman Photography."
 related_articles = ["articles/a-definitive-hit-west-side-story-in-atlanta.md", "articles/fgo-frida.md"]
-related_companies = []
+related_companies = ["scene/companies/the-atlanta-opera.md"]
 related_people = ["scene/people/eliza-bonet.md", "scene/people/bryn-holdsworth.md", "scene/people/andres-acosta.md", "scene/people/catalina-cuervo.md"]
 short_description = "Frida and Diego encounter many struggles, the communist revolution turning against Diego, the pair travelling to New York, their struggle to carry a pregnancy to full term, and their return to Mexico, which led to Diego’s many affairs."
 slug = "cuervos-sophisticated-lyric-frida-in-atlanta"
