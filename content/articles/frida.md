@@ -45,24 +45,24 @@ Here, Cuervo's soprano endures again as a sophisticated, lyric instrument, fitte
 
 Her interpretation of Frida Kahlo is beautifully flawed - a disabled heroine in an ableist society, fighting for what she feels is right, and taking no prisoners as she speaks her mind. There are points, unfortunately, where the score doesn't do her justice - monologues that, while beautifully presented, long for the sensitive undertones of conductor Jorge Parodi's chamber orchestra. Her Frida is led through life, discovering herself, her politics, her sexuality, and eventually coming to terms with her own mortality and sense of self in the triumphant finale.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption></figcaption>  
-</figure>
+> Her interpretation of Rivera's jealous and drunken ex, Lupe Marín is comical, strong, and wonderfully uncomfortable.
 
 Alongside her sings Ricardo Herrera, who makes his Atlanta Opera debut at Diego Rivera, Frida's husband. Herrara's strong bass-baritone is woofy, passionate, and buoyant, allowing him to play the part of the carefree lover without much stress. His sensitivity, between meeting Frida and leaving her, his troubles with the communist party, and his return to Mexico, are beautifully portrayed by a seasoned, well tempered actor.
 
 In the role of Cristina Kahlo is American soprano Maria Valdes, who, perhaps, gave the most vocally stable performance of the evening. Valdes, who studied in Atlanta and has been featured in The Atlanta Opera's _Yardbird_, has always been a staple of the city's singer community, cementing her status as an Atlanta success and a genuinely kind artist and colleagues.
 
-> Her interpretation of Rivera's jealous and drunken ex, Lupe Marín is comical, strong, and wonderfully uncomfortable.
-
 Here, Valdes's sparkling soprano tugs empathetically at the hearts of the listener as Cristina, the shyer and possibly more vain of the Kahlo sisters, sings two stunning arias: one discussing Frida's strength and whimsy, and the other asking for her sister's forgiveness in solitude. Valdes's performance is one of the musical highlights of the evening, presenting a shimmering top voice and warm, even instrument throughout.
-
-Many of the remaining actors perform numerous roles throughout the performance. Tenor [Andres Acosta](/scene/people/andres-acosta/) lends his competent lyric tenor to the role of Frida's first love, Alejandro, as well as the communist lover, Leon Trotsky. Gina Perregrino, a returning artist who graduated from The Atlanta Opera's studio program and impressed us with her work in [_Out of Darkness: Two Remain_](/perfect-for-its-time-heggie-double-bill-in-atlanta/), shows tremendous growth; her interpretation of Rivera's jealous and drunken ex, Lupe Marín is comical, strong, and wonderfully uncomfortable, while her small scene as the grieving mother of Dima is sung with a tender and silky mezzo-soprano.
 
 > The production is successful in telling the story of an artistic heroine and allowing the audience to view her humanity.
 
+Many of the remaining actors perform numerous roles throughout the performance. Tenor [Andres Acosta](/scene/people/andres-acosta/) lends his competent lyric tenor to the role of Frida's first love, Alejandro, as well as the communist lover, Leon Trotsky. Gina Perregrino, a returning artist who graduated from The Atlanta Opera's studio program and impressed us with her work in [_Out of Darkness: Two Remain_](/perfect-for-its-time-heggie-double-bill-in-atlanta/), shows tremendous growth; her interpretation of Rivera's jealous and drunken ex, Lupe Marín is comical, strong, and wonderfully uncomfortable, while her small scene as the grieving mother of Dima is sung with a tender and silky mezzo-soprano.
+
 Returning in his second year as an Atlanta Opera Studio Artist, Jonathan Bryan continues to impress, following up his success in _Dead Man Walking_ and _La traviata_ as Frida and Cristina's father and as Mr. Rockefeller. His voice is substantial inside, deeply resonant and clear, while his acting continues to show a determined and confident edge that will surely blossom into a healthy career.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
 
 Mezzo-soprano [Eliza Bonet](/scene/people/eliza-bonet/), who made her TAO debut in [_West Side Story_](/a-definitive-hit-west-side-story-in-atlanta/), takes the stage as the gilted lovers, Mrs. Rockefeller and Natalie Trotsky, two smaller roles that she justifies with a strong stage presence and competent technique.
 
