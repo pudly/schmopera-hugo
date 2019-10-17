@@ -12,8 +12,8 @@ related_articles = ["articles/a-definitive-hit-west-side-story-in-atlanta.md", "
 related_companies = []
 related_people = ["scene/people/eliza-bonet.md", "scene/people/bryn-holdsworth.md", "scene/people/andres-acosta.md", "scene/people/catalina-cuervo.md"]
 short_description = "Frida and Diego encounter many struggles, the communist revolution turning against Diego, the pair travelling to New York, their struggle to carry a pregnancy to full term, and their return to Mexico, which led to Diego’s many affairs."
-slug = "Frida"
-title = "Frida"
+slug = "cuervos-sophisticated-lyric-frida-in-atlanta"
+title = "Cuervo's \"sophisticated, lyric\" Frida in Atlanta"
 youtube_url = ""
 
 +++
