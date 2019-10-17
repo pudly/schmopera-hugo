@@ -1,8 +1,8 @@
 +++
 discipline = "Soprano"
 draft = true
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571280739/media/2019/10/Dario_Acosta_-_Bradley_1_jshusa.jpg"
+primary_image_credit = "Photo: Dario Acosta."
 related_companies = []
 slug = "michelle-bradley"
 title = "Michelle Bradley"
