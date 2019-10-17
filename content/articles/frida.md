@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571280090/media/2019/10/sqAtlantaOperaFrida5770_t1royx.jpg"
-primary_image_credit = ""
+primary_image_credit = "Catalina Cuervo in the title role of Frida, The Atlanta Opera, 2019. Photo: Rafterman Photography."
 related_articles = []
 related_companies = []
 related_people = []
@@ -32,7 +32,7 @@ The stage is set with abstract visions of Kahlo's work, a gigantic heart, a with
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571280106/media/2019/10/AtlantaOperaFrida6680_ancalw.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Frida, The Atlanta Opera, 2019. Photo: Rafterman Photography.</figcaption>  
 </figure>
 
 As the curtain rises on the first act, we are introduced to dancers Miriam Golomb, Rachel Shiffman, and Cansler McGhee, dressed in Calavera costumes, complete with skulled masks. Their dance, a dance inviting Frida to death, interweaves the piece, granting an effervescent sprinkling of hallucination to the piece.
@@ -68,9 +68,9 @@ Mezzo-soprano [Eliza Bonet](/scene/people/eliza-bonet/), who made her TAO debut 
 
 Nathan Munson - who we have seen triumph in Capitol City Opera's _Gianni Schicchi_ and _Buoso's Ghost_, and The Atlanta Opera's _Seven Deadly Sins_ - takes on the smaller roles as a mourner and as Mr. Ford, inviting his strong, sensitive lyric tenor to mingle, brightly cutting through the orchestration while inviting a rounded, pleasant sound. One hopes we might see him sing something slightly more substantial on The Atlanta Opera's stage, considering his talent and the small roles he's done recently.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571280213/media/2019/10/AtlantaOperaFrida7454_bvgiau.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Frida, The Atlanta Opera, 2019. Photo: Rafterman Photography.</figcaption>  
 </figure>
 
 Debuting with The Atlanta Opera Studio Program is Jouelle Roberson, whose soprano takes on smaller roles throughout the piece alongside Isaac Kim, Zachary Owen, graduated studio artist Bryn Holdsworth, and Jasmine Habersham. Again, having heard Habersham and Holdsworth over the years - most memorably in [_Out of Darkness: Two Remain_](/perfect-for-its-time-heggie-double-bill-in-atlanta/) - we can't hope but hear them both. Pamina? Manon? I'd pay to hear that.
