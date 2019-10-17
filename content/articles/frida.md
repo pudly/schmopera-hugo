@@ -1,7 +1,7 @@
 +++
 author = ["authors/daniel-weisman.md"]
 categories = "Review"
-date = "2019-10-16T04:00:00+00:00"
+date = "2019-10-17T04:00:00+00:00"
 disclaimer = ""
 image_gallery = []
 postamble = ""

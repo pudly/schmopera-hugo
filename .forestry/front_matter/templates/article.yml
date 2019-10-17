@@ -116,8 +116,8 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
-- content/articles/talking-with-singers-michelle-bradley.md
 - content/articles/frida.md
+- content/articles/talking-with-singers-michelle-bradley.md
 - content/articles/loc-luisa-miller.md
 - content/articles/thestories-part-12.md
 - content/articles/virgina-opera-tosca.md
