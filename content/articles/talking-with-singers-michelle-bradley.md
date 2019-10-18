@@ -4,13 +4,13 @@ categories = "Interview"
 date = "2019-10-17T04:00:00+00:00"
 disclaimer = ""
 image_gallery = []
-postamble = ""
+postamble = "San Diego Opera's [production of Aida](https://www.sdopera.org/season/2019-2020-season/aida) runs October 19-27."
 preamble = "American soprano Michelle Bradley is opening the San Diego Opera 2019-2020 season singing the leading role in a new theatrical production of _Aida_. The production features set elements and costumes with Joseph Colaneri as the conductor and Alan Hicks as the director. It runs for four performances, October 19-27."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571189076/media/2019/10/sqDarioAcosta-MichelleBradley_lhdob7.jpg"
 primary_image_credit = "Photo: Dario Acosta."
 related_articles = ["articles/talking-with-singers-sondra-radvanovsky.md", "articles/talking-with-singers-christine-goerke.md"]
 related_companies = ["scene/companies/san-diego-opera.md"]
-related_people = []
+related_people = ["scene/people/michelle-bradley.md"]
 short_description = "\"The hard part is when I lock myself in a room and go over the score, figure out who the character is, make sure I get every pianissimo and forte, and accent and legato. When I come here, it's already engrained in me. I can just go where the director tells me to go.\""
 slug = "talking-with-singers-michelle-bradley"
 title = "Talking with singers: Michelle Bradley"
@@ -140,6 +140,8 @@ Jessye Norman is another one. I just love watching her face and what she does wi
 ## Her advice to young singers
 
 It's not for the faint of heart. You have to really want this. To get to a place of greatness like where Anna Netrebko is requires so much sacrifice. The money is good and you get a lot of applause and people waiting in line to see you but they don't know the time it takes to learn a score, to devote yourself to that, to go to the coachings, to get up at any time, to be ready to sing any time, to sing when you don't feel good, to keep your technique together for the days you don't feel good but you still have to work.
+
+> The challenge of trying to outdo myself, it keeps me going.
 
 There's a lot of alone time. Unless you're blessed to have somebody who understands and can travel with you, you're probably traveling by yourself. That's the hard part. Sometimes you have to be alone on the holidays, sometimes you don't get paid for the work you do or not get paid enough. It's not easy. Any performer will tell you that it's a nomadic life. You stay in one place long enough to start making friends and then it’s time to go. More than likely, you'll never see those people again. Thankfully we have Facebook to stay in touch, or calling, or letters. You have to be prepared to be alone a lot. You have to make sure you really want it. You have to really love it.
 
