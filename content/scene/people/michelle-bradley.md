@@ -1,6 +1,5 @@
 +++
 discipline = "Soprano"
-draft = true
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571280739/media/2019/10/Dario_Acosta_-_Bradley_1_jshusa.jpg"
 primary_image_credit = "Photo: Dario Acosta."
 related_companies = ["scene/companies/lyric-opera-of-chicago.md", "scene/companies/san-francisco-opera.md", "scene/companies/san-diego-opera.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/royal-opera-house.md", "scene/companies/the-atlanta-opera.md", "scene/companies/the-metropolitan-opera.md"]
