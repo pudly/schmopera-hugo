@@ -27,9 +27,9 @@ The undisputed stars of last night's performance were the Lyric Opera Orchestra 
 
 </figure>
 
-Of course, it's true for any piece, but scores like _Luisa Miller_ benefit immensely from the dedicated and sensitive treatment given it by Mazzola and the LOC Orchestra. Universally labeled a "transitional" opera within Verdi's output, _Luisa Miller_ premiered in 1849 and was the composer's fifteenth completed work. In the next few years Verdi would go on to write three of his most beloved operas: _Rigoletto_, _Trovatore_, _Traviata_. 
+Of course, it's true for any piece, but scores like _Luisa Miller_ benefit immensely from the dedicated and sensitive treatment given it by Mazzola and the LOC Orchestra. Universally labeled a "transitional" opera within Verdi's output, _Luisa Miller_ premiered in 1849 and was the composer's fifteenth completed work. In the next few years Verdi would go on to write three of his most beloved operas: _Rigoletto_, _Trovatore_, _Traviata_.
 
-> If _Luisa Miller_ lacks in recognizable tunes, it makes up for with interesting moments of orchestration, structure, and drama.
+> If _Luisa Miller_ lacks in recognizable tunes, it makes up for it with interesting moments of orchestration, structure, and drama.
 
 Yet, it fascinates me to recall that, by this time in his career, the thirty-six-year-old Verdi had already produced such masterful works as _Nabucco_, _Ernani_, and _Macbeth_, among others. _Luisa Miller_ marks a period of growth and experimentation for Verdi. As Maestro Mazzola himself described it in a [recent interview](/talking-with-conductors-enrique-mazzola/), it's a "study opera in which Verdi explores possibilities that he will develop over the next decades of his life."
 
@@ -39,7 +39,7 @@ Yet, it fascinates me to recall that, by this time in his career, the thirty-six
 
 </figure>
 
-Indeed, if _Luisa Miller_ lacks in recognizable tunes, it makes up for with interesting moments of orchestration, structure, and drama. Especially noteworthy were striking moments of a cappella ensemble singing as well as colorful doublings and dove-tailings between the orchestra and voices. It was fascinating to observe the progression of the opera, from a rather matter-of-fact first act, to an increasingly complex second act, leading to an electrifying Verdian finale. Director Francesca Zambello, returning to LOC after last season's _West Side Story_ for this production of Luisa Miller, notes Verdi's compositional "transition" over the course of the opera with Act III being the work's, and by extension Verdi's, "arrival."
+Indeed, if _Luisa Miller_ lacks in recognizable tunes, it makes up for it with interesting moments of orchestration, structure, and drama. Especially noteworthy were striking moments of a cappella ensemble singing as well as colorful doublings and dove-tailings between the orchestra and voices. It was fascinating to observe the progression of the opera, from a rather matter-of-fact first act, to an increasingly complex second act, leading to an electrifying Verdian finale. Director Francesca Zambello, returning to LOC after last season's _West Side Story_ for this production of Luisa Miller, notes Verdi's compositional "transition" over the course of the opera with Act III being the work's, and by extension Verdi's, "arrival."
 
 > When their fates finally collide at the opera's conclusion, the singers' embodiment of their characters was gripping and heart wrenching.
 
@@ -47,7 +47,7 @@ This same sense of arrival toward the end of the opera was felt from the stage. 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571168967/media/2019/10/KrassimiraStoyanova_JosephCalleja_LUISAMILLER_LyricOperaofChicago_nnfves.jpg){{% /md %}}
 
-<figcaption>Krassimira Stoyanova (Luisa) and Joseph Calleja (Rodolfo) in Luisa Miller, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
+<figcaption>Krassimira Stoyanova (Luisa) and Joseph Calleja (Rodolfo) in Luisa Miller, Lyric Opera of Chicago, 2019. Photo: Andrew Cioffi.</figcaption>
 
 </figure>
 
