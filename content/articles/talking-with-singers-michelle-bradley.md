@@ -25,9 +25,9 @@ I already know the role so I can focus on the new blocking this time. I have a w
 
 I still put the same amount of energy into preparation, whether it's a recital in gowns and tuxedos or if it's a full version with costumes and a set. I give it my all regardless because that's what I have to do. \[The rehearsal\] is the easy part. The hard part is when I lock myself in a room and go over the score, figure out who the character is, make sure I get every pianissimo and forte, and accent and legato. When I come here, it's already engrained in me. I can just go where the director tells me to go.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571189195/media/2019/10/SDOAIDA1_mp1uwz.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571357962/media/2019/10/SDOAida2C8A7261_albizf.jpg){{% /md %}}
 
-<figcaption>Preproduction artwork for San Diego Opera's production of Aida. Image courtesy of San Diego Opera.</figcaption>
+<figcaption>Soprano Michelle Bradley is Aida in San Diego Opera's AIDA, October, 2019. Photo by Edward Wilensky.</figcaption>
 
 </figure>
 
@@ -75,15 +75,21 @@ The roles I do are heavy stuff. Verdi is not for kids. I couldn't have sung him 
 
 Being a Verdi soprano is about voice but also you need to have power and stamina. I come off as quiet, especially with people I don't know, but with Verdi, I have an inner strength that I've learned. I'm pretty steadfast and tough and you have to be that way to sing Verdi. The third act of _Aida_, the fourth act of _Il Trovatore_, and the second act of _La forza del destino_ are not for the faint of heart. You have to keep pushing.
 
-I love Verdi, how he gives me a little break in certain acts but when it's time to get up and sing, he wants everything. You have to be prepared to give it. Now, I have the life experience for Verdi. I've been through some things that have toughened me up to deal with him. You can't be weak to sing Verdi. You have to be vulnerable and strong and be all out human.
-
 > If ever I'm having a rough day or can't make sense of my life, I go to the practice room or somewhere and sing.
+
+I love Verdi, how he gives me a little break in certain acts but when it's time to get up and sing, he wants everything. You have to be prepared to give it. Now, I have the life experience for Verdi. I've been through some things that have toughened me up to deal with him. You can't be weak to sing Verdi. You have to be vulnerable and strong and be all out human.
 
 ## On why she sings
 
 I love to sing. I've been doing it ever since I can remember. My parents were in the choir at church. I don't come from a wealthy family and they worked really hard all their lives in order for us to have the smallest of things. Their way of dealing with that was coming home and singing every day.
 
 From the time I was running around in diapers, my Dad would gather us all in the living room and we would sing church hymns. I have three brothers and my two older brothers would sing parts. I would just imitate until I got old enough. And then I was teaching my family songs and playing piano for them. It became a part of my life. It became something that helped me make my mark in the world. It helped people to see me and take me seriously.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571358049/media/2019/10/SDOAida2C8A7846_lezuz9.jpg){{% /md %}}
+
+<figcaption>Soprano Michelle Bradley is Aida in San Diego Opera's AIDA, October, 2019. Photo by Edward Wilensky.</figcaption>
+
+</figure>
 
 I used to get bullied a lot at school. I had crooked teeth so I would never talk. But I could always sing. When I started singing, my social studies teacher would put me up in front of the school, as shy as I was, to sing at every assembly, football game, soccer game and everywhere. I noticed people stopped picking on me then. They'd say I was the girl who could sing. It helped me make friends. I wasn't sitting by myself that much anymore.
 
@@ -111,13 +117,19 @@ With Whitney Houston passing away, it's hard for me to listen to her music somet
 
 Whitney Houston meant so much to me growing up. My mom would write down all the words so she could sing along with it. She'd be pressing rewind on the cassette player to get to the right part. I'd sing along too. That's how I learned. My first vocal lessons were with my mom singing Whitney Houston songs. I wanted to be like her when I grew up.
 
-> I envy anybody who got to see Jessye Norman or Leontyne Price in their prime. 
+> I envy anybody who got to see Jessye Norman or Leontyne Price in their prime.
 
 My first voice teacher, Andrew W. Smith, at Kentucky State University was a wonderful baritone. He gave me Leontyne Price's _The Prima Donna_ album but he never got it back. I was so taken with it. I would hide the portable CD player in my bag and hide the headphones under my long hair and I'd sit in class (I was a horrible student in school) listening to it. I would be walking around all the time with the headphones listening to her. He also gave me a Denyce Graves album. He was the one to usher me into the opera style of singing. I had no clue before that.
 
 I've never met Leontyne Price but I really wish it would happen. I'm heartbroken that I never got to meet Jessye Norman. People compare me to her and I'm honored by that but I would have loved to say thank you and tell her how much she meant to me. Just watching her in recitals and what she did with words and how much she gave. I'm inspired by that and I want to do that.
 
 I envy anybody who got to see Jessye Norman or Leontyne Price in their prime. Leontyne's last _Aida_ at the Met. Sometimes I wonder what I bring after all that. What does this little country girl from Kentucky have to give?
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571358029/media/2019/10/SDOAida2C8A8130_kbmr1l.jpg){{% /md %}}
+
+<figcaption>Soprano Michelle Bradley is Aida in her North American role debut and tenor Carl Tanner is Radames in San Diego Opera's AIDA, October, 2019. Photo by Edward Wilensky.</figcaption>
+
+</figure>
 
 When I'm learning a piece, I only listen to a recording maybe three times, because I want to bring my own interpretation. The first one is always Maria Callas. She's my first choice every time. Leontyne is more to just sit back and relax and bask in the beauty. It makes no sense that somebody can sing as beautifully as she sings.
 
