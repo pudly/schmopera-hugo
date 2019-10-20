@@ -32,19 +32,13 @@ Arguably, AtG and its Artistic Director Joel Ivany have started a few trends in 
 
 That's part of the novelty that has hooked crowds on AtG's now-iconic _La bohème_. There's freshness in arriving at a dingy bar to hear Puccini, and the first few minutes of the show are an aural adjustment to hearing the words, "I'm fucking frozen!" sung so beautifully. This _Bohème_ offers a way in, a relevant hook for those who don't often go to the opera; it's easy to identify with these modern boho characters, who live in a world of crippling rent costs, Bloor Street West, and the 21st-century paradox that is being broke with a smartphone in your hand.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571591653/media/2019/10/ATG_Banff-5014_sb1yrv.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
 </figure>
 
 For those paying attention, Ivany's libretto only updates details, the kind that are in place to connect character with audience. If we were to strip away the hipster scarves and references to manscaping and [BMV](http://www.bmvbooks.com/), we're still left with the original personalities from the libretto by Illica and Giacosa. These are young adults, making a choice to stick to their artistic guns even if it doesn't pay their bills, with camaraderie and love and optimism keeping them from getting entirely too cold.
-
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption></figcaption>
-
-</figure>
 
 Ivanys' _La bohème_ shows what it means to modernize an opera organically. This is no set of gimmicks, but a modernization meant to maximize the affect of an already-great story. It's why Puccini's opera is still so popular in its original Italian form; there is a core to these characters that is true no matter where or when you place them.
 
@@ -57,5 +51,11 @@ It's also why this _La bohème_ is still a success from AtG. If my memory serves
 </figure>
 
 AtG boasts a star Musetta in Danika Lorèn, just the right fit for this layered updating of her character; she's opposite the smooth-voiced Clarenze Frazer as Marcello. Frazer has great nerdy chemistry with his roommates: Giles Tomkins as the stoic dork Colline, Andrew Adridge as the charismatic fun one, Schaunard, and Marcel D'Entremont as the shy brooder with great high notes, Rodolfo. Sweet sounding Jonelle Sills fits in like a missing puzzle piece, a soft Mimì to temper the the group of bohemians.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571591680/media/2019/10/ATG_Banff-2262_eruzan.jpg){{% /md %}}
+
+<figcaption>The cast of Against the Grain Theatre's touring production of La bohème, photographed in Banff, AB, 2019. Photo courtesy of the Banff Centre.</figcaption>
+
+</figure>
 
 The neatest part of seeing this latest _La bohème_ was to note that I already have my favourite things about each revival. That's like a little bonus badge that AtG can add to its 10-year biography.
