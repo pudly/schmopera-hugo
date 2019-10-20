@@ -18,8 +18,8 @@ title = "Opera is Alive & Kicking & here are the videos to prove it"
 youtube_url = "https://youtu.be/2VedzyweX20"
 
 +++
-If you're up on your web-based opera, you might know soprano Jessica Fishenfeld from the hilarious short, [_Something Blue: The Bachelor Opera_](/something-blue-the-bachelor-opera/). Now, she's back on YouTube with a mission to do right by American opera in her new web series, [Alive & Kicking](https://www.youtube.com/watch?v=BrxMALrY4cM).
+If you're up on your web-based opera, you might know soprano Jessica Fishenfeld from the hilarious short, [_Something Blue: The Bachelor Opera_](/something-blue-the-bachelor-opera/). Now, she's back on YouTube with a mission to do right by American opera in her new web series, [_Alive & Kicking_](https://www.youtube.com/watch?v=BrxMALrY4cM).
 
 In Fishenfeld's own enthusiastic words: "American Opera is approachable, relevant, relatable, IN ENGLISH, and made for YOU, the American people!"
 
-Her series presents monthly doses of American opera: a crash-course in plot, what to listen for, and generally getting to know the opera being created for today. It's for opera buffs and opera newbies alike. Alive & Kicking is on its [third episode](https://youtu.be/UajLUGw2IJg), but we suggest catching up from the beginning:
+Her series presents monthly doses of American opera: a crash-course in plot, what to listen for, and a short snippet of the show. For opera buffs and opera newbies alike, it's a fresh new resource for getting to know the opera being created for today. _Alive & Kicking_ is on its [third episode](https://youtu.be/UajLUGw2IJg), but we suggest catching up from the beginning:
