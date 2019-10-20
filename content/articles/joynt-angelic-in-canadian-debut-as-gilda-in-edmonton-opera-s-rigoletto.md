@@ -24,7 +24,7 @@ For [Edmonton Opera](/scene/companies/edmonton-opera/) audiences, however, the d
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571583376/media/2019/10/EORigoletto3_czy5s3.jpg){{% /md %}}
 
-<figcaption>Matthew White</figcaption>
+<figcaption>Matthew White (Duke of Mantua) in Rigoletto, Edmonton Opera, 2019. Photo courtesy of Edmonton Opera.</figcaption>
 
 </figure>
 
@@ -34,7 +34,7 @@ As the titular character, baritone [James Westman](/scene/people/james-westman/)
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571583359/media/2019/10/EORigoletto2_gcb3dh.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>James Westman (Rigoletto, background), Matthew White (Duke), and Sharleen Joynt (Gilda) in Rigoletto, Edmonton Opera, 2019. Photo courtesy of Edmonton Opera.</figcaption>
 
 </figure>
 
@@ -44,7 +44,7 @@ The supporting cast should also be acknowledged for their limited time on stage.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571583384/media/2019/10/EORigoletto4_t7urpv.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>James Westman in the title role of Rigoletto, Edmonton Opera, 2019. Photo courtesy of Edmonton Opera.</figcaption>
 
 </figure>
 
