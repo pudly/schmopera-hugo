@@ -15,7 +15,7 @@ related_people = []
 short_description = "Follow the Lieder is a series of short films by Alisdair Kitchen, produced by Rye Arts Festival in association with the Royal College Of Music and National Opera Studio. As the name suggests, each video is set to German art song, among them Schubert's Versunken, Der Atlas, and Die Forelle."
 slug = "follow-the-lieder-weird-wonderful-a-must-watch"
 title = "Follow the Lieder: weird & wonderful & a must-watch"
-youtube_url = ""
+youtube_url = "https://www.youtube.com/watch?v=XpxPOQQhJAs"
 
 +++
 This video series is totally confusing, and I can't look away.
@@ -24,4 +24,4 @@ This video series is totally confusing, and I can't look away.
 
 They're totally bizarre. But fascinating, and I recommend them for a little musical rabbit-hole.
 
-There are nine shorts in total, all available on _Follow the Lieder_'s pages on [Facebook](https://www.facebook.com/FollowTheLieder/) and [Vimeo](https://vimeo.com/channels/followthelieder). Here's my current favourite:
+There are nine shorts in total, all available on _Follow the Lieder_'s pages on [Facebook](https://www.facebook.com/FollowTheLieder/), [YouTube](https://www.youtube.com/channel/UCUWt1_9viBA3e8OdToYqrIA) and [Vimeo](https://vimeo.com/channels/followthelieder). Here's my current favourite:
