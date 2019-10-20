@@ -5,14 +5,14 @@ date = "2019-10-20T04:00:00+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "Visit their website for full details about [Against the Grain Theatre's production of _La bohème_](http://againstthegraintheatre.com/la-boheme/)."
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571593820/media/2019/10/sqATG_Banff-5051_thl3pt.jpg"
+primary_image_credit = "The cast of Against the Grain Theatre's touring production of La bohème, photographed in Banff, AB, 2019. Photo courtesy of the Banff Centre."
 related_articles = []
-related_companies = []
-related_people = []
-short_description = "short"
+related_companies = ["scene/companies/against-the-grain-theatre.md"]
+related_people = ["scene/people/marcel-dentremont.md", "scene/people/clarence-frazer.md", "scene/people/joel-ivany.md", "scene/people/giles-tomkins.md", "scene/people/gregory-finney.md", "scene/people/danika-lorn.md"]
+short_description = "For those paying attention, Ivany's libretto only updates details, the kind that are in place to connect character with audience. If we were to strip away the hipster scarves and references to manscaping and BMV, we're still left with the original personalities from the libretto by Illica and Giacosa."
 slug = "atg-boheme"
 title = "AtG Boheme"
 youtube_url = ""
@@ -58,4 +58,4 @@ AtG boasts a star Musetta in Danika Lorèn, just the right fit for this layered 
 
 </figure>
 
-The neatest part of seeing this latest _La bohème_ was to note that I already have my favourite things about each revival. That's like a little bonus badge that AtG can add to its 10-year biography.
+The neatest part of seeing this latest _La bohème_ was to note that I already have my favourite things about each revival. That's like a little bonus badge that AtG can add to its 10-year biography. The [show is still running](http://againstthegraintheatre.com/la-boheme/), at The Tranzac Club on Bloor West through October 25. After that, it heads north for the last leg of its tour, in Whitehorse and Yellowknife.
