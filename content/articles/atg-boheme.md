@@ -39,6 +39,8 @@ This is the novelty that has hooked crowds on AtG's now-iconic _La bohème_. The
 
 For those paying attention, Ivany's libretto only updates details, the kind that are in place to connect character with audience. If we were to strip away the hipster scarves and references to manscaping and the Bloor Street [BMV](http://www.bmvbooks.com/), we're still left with the original personalities from the libretto by Illica and Giacosa. These are young adults, making a choice - for now, at least - to pursue their passions even if it doesn't pay their bills, and their camaraderie and love and optimism keeping them from getting entirely too cold.
 
+> The neatest part of seeing this latest _La bohème_ was to note that I already have my favourite things about each revival.
+
 Ivanys' _La bohème_ demonstrates what it means to update an opera organically. This is no set of gimmicks, but a modernization meant to maximize the affect of an already-great story. It's why Puccini's opera is still so popular in its original Italian form; there is a core to these characters that is true no matter where or when you place them.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570494716/media/2019/10/OP190927_DSC4373_naavvv.jpg){{% /md %}}

@@ -116,10 +116,10 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/atg-boheme.md
 - content/articles/follow-the-lieder-weird-wonderful-a-must-watch.md
 - content/articles/opera-is-alive-kicking-here-are-the-videos-to-prove-it.md
 - content/articles/thestories-part-13.md
-- content/articles/atg-boheme.md
 - content/articles/winnipeg-boheme.md
 - content/articles/thestories-part-14.md
 - content/articles/the-most-happy-fella.md
