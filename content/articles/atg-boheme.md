@@ -24,13 +24,37 @@ By all operatic accounts, Against the Grain Theatre has "made it" with their pro
 
 Arguably, AtG and its Artistic Director Joel Ivany have started a few trends in its decade of operation - or at least, given niche opera practices a bit of mainstream momentum. The two major ones: updating classic operas with a contemporary libretto in the language of the audience, and staging operas in bars.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570494644/media/2019/10/OP190927_DSC4139_dnjbg1.jpg){{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 That's part of the novelty that has hooked crowds on AtG's now-iconic _La bohème_. There's freshness in arriving at a dingy bar to hear Puccini, and the first few minutes of the show are an aural adjustment to hearing the words, "I'm fucking frozen!" sung so beautifully. This _Bohème_ offers a way in, a relevant hook for those who don't often go to the opera; it's easy to identify with these modern boho characters, who live in a world of crippling rent costs, Bloor Street West, and the 21st-century paradox that is being broke with a smartphone in your hand.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 For those paying attention, Ivany's libretto only updates details, the kind that are in place to connect character with audience. If we were to strip away the hipster scarves and references to manscaping and [BMV](http://www.bmvbooks.com/), we're still left with the original personalities from the libretto by Illica and Giacosa. These are young adults, making a choice to stick to their artistic guns even if it doesn't pay their bills, with camaraderie and love and optimism keeping them from getting entirely too cold.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 Ivanys' _La bohème_ shows what it means to modernize an opera organically. This is no set of gimmicks, but a modernization meant to maximize the affect of an already-great story. It's why Puccini's opera is still so popular in its original Italian form; there is a core to these characters that is true no matter where or when you place them.
 
 It's also why this _La bohème_ is still a success from AtG. If my memory serves, the libretto always comes with a few timely changes to keep it fresh (although I might point out a few details that stood out as mildly dated, post-#metoo as we are). And the cast is nearly all new, with the important exception in Greg Finney as Benoit and Alcindoro; his Benoit is as rural-Canadian-baby-boomer as you can get, and his Alcindoro a pitiable foot fetishist. At this point, Finney is a hilarious production fixture, and thank the opera gods for that.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570494716/media/2019/10/OP190927_DSC4373_naavvv.jpg){{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 AtG boasts a star Musetta in Danika Lorèn, just the right fit for this layered updating of her character; she's opposite the smooth-voiced Clarenze Frazer as Marcello. Frazer has great nerdy chemistry with his roommates: Giles Tomkins as the stoic dork Colline, Andrew Adridge as the charismatic fun one, Schaunard, and Marcel D'Entremont as the shy brooder with great high notes, Rodolfo. Sweet sounding Jonelle Sills fits in like a missing puzzle piece, a soft Mimì to temper the the group of bohemians.
 
