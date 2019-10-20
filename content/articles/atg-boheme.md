@@ -42,13 +42,13 @@ For those paying attention, Ivany's libretto only updates details, the kind that
 
 Ivanys' _La bohème_ shows what it means to modernize an opera organically. This is no set of gimmicks, but a modernization meant to maximize the affect of an already-great story. It's why Puccini's opera is still so popular in its original Italian form; there is a core to these characters that is true no matter where or when you place them.
 
-It's also why this _La bohème_ is still a success from AtG. If my memory serves, the libretto always comes with a few timely changes to keep it fresh (although I might point out a few details that stood out as mildly dated, post-#metoo as we are). And the cast is nearly all new, with the important exception in Greg Finney as Benoit and Alcindoro; his Benoit is as rural-Canadian-baby-boomer as you can get, and his Alcindoro a pitiable foot fetishist. At this point, Finney is a hilarious production fixture, and thank the opera gods for that.
-
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570494716/media/2019/10/OP190927_DSC4373_naavvv.jpg){{% /md %}}
 
 <figcaption>Against the Grain Theatre's touring production of La bohème, photographed in Banff, AB, 2019. Photo: Jessica Wittman.</figcaption>
 
 </figure>
+
+It's also why this _La bohème_ is still a success from AtG. If my memory serves, the libretto always comes with a few timely changes to keep it fresh (although I might point out a few details that stood out as mildly dated, post-#metoo as we are). And the cast is nearly all new, with the important exception in Greg Finney as Benoit and Alcindoro; his Benoit is as rural-Canadian-baby-boomer as you can get, and his Alcindoro a pitiable foot fetishist. At this point, Finney is a hilarious production fixture, and thank the opera gods for that.
 
 AtG boasts a star Musetta in Danika Lorèn, just the right fit for this layered updating of her character; she's opposite the smooth-voiced Clarenze Frazer as Marcello. Frazer has great nerdy chemistry with his roommates: Giles Tomkins as the stoic dork Colline, Andrew Adridge as the charismatic fun one, Schaunard, and Marcel D'Entremont as the shy brooder with great high notes, Rodolfo. Sweet sounding Jonelle Sills fits in like a missing puzzle piece, a soft Mimì to temper the the group of bohemians.
 
