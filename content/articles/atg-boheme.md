@@ -12,8 +12,8 @@ related_articles = ["articles/transladapted-bohème-offers-fresh-intimate-produc
 related_companies = ["scene/companies/against-the-grain-theatre.md"]
 related_people = ["scene/people/jonelle-sills.md", "scene/people/marcel-dentremont.md", "scene/people/clarence-frazer.md", "scene/people/joel-ivany.md", "scene/people/giles-tomkins.md", "scene/people/gregory-finney.md", "scene/people/danika-lorn.md"]
 short_description = "For those paying attention, Ivany's libretto only updates details, the kind that are in place to connect character with audience. If we were to strip away the hipster scarves and references to manscaping and BMV, we're still left with the original personalities from the libretto by Illica and Giacosa."
-slug = "atg-boheme"
-title = "AtG Boheme"
+slug = "the-bohos-come-home-atgs-boheme-is-back-at-the-dive-bar"
+title = "The Bohos come home: AtG's Bohème is back at the (dive) bar"
 youtube_url = ""
 
 +++
