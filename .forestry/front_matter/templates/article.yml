@@ -116,9 +116,9 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/thestories-part-13.md
 - content/articles/atg-boheme.md
 - content/articles/winnipeg-boheme.md
-- content/articles/thestories-part-13.md
 - content/articles/thestories-part-14.md
 - content/articles/the-most-happy-fella.md
 - content/articles/joynt-angelic-in-canadian-debut-as-gilda-in-edmonton-opera-s-rigoletto.md

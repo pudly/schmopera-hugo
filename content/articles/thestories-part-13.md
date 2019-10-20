@@ -1,7 +1,7 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Editorial"
-date = "2019-10-19T04:00:00+00:00"
+date = "2019-10-20T04:00:00+00:00"
 disclaimer = ""
 image_gallery = []
 postamble = ""
@@ -17,17 +17,21 @@ title = "#TheStories, part 13"
 youtube_url = ""
 
 +++
-In my case, it was just some local company. 
+In my case, it was just some local company.
 
 I was assaulted during a performance of _Cavalleria rusticana_. I was the Turiddu, and my ex-boss was the Santuzza, much older than me. She said some highly inappropriate things to me in the past, like, "If you were 20 years younger, I'd bone you." Despite the conversations trying to stop this behaviour, she continued.
 
 During the show, which was years after she was my boss, I was asked by the director to kiss her on stage. I made it clear that I did not wish to do this. She insisted with things along the lines of "Oh, if we miss, it's fine."
+
+> It kind of took me a long time to come to terms with what happened. I told myself, "it wasn't assault.
 
 Come the time of the show,  we had rehearsed not kissing on stage. When it got to "perchè seguirmi, perchè spiarmi…" she grabbed me and stuck her tongue in my mouth, non-consensually kissing me. The audience knew no better; it looked like part of the show.
 
 It kind of took me a long time to come to terms with what happened. I told myself, "it wasn't assault." I was talking to my best friend at the time, she goes, "you told her you didn't want to kiss her, and she kissed you - that's assault."
 
 To this day that opera makes me think of her. I can't get aroused by kissing because of her. But the director thought it was funny. The Alfio thought it was funny. The conductor laughed. That was my experience of people treating men's stories of sexual assault like a joke.
+
+> I was assaulted onstage, and I felt that I could not do anything.
 
 It seems to be quite a non-standardized industry, so many people think they can dictate how "the industry" is run, and they can tell that to young, inexperienced, bright-eyed bushy-tailed students, and do whatever they want.
 
