@@ -15,7 +15,7 @@ related_people = []
 short_description = "Follow the Lieder is a series of short films by Alisdair Kitchen, produced by Rye Arts Festival in association with the Royal College Of Music and National Opera Studio. As the name suggests, each video is set to German art song, among them Schubert's Versunken, Der Atlas, and Die Forelle."
 slug = "follow-the-lieder-weird-wonderful-a-must-watch"
 title = "Follow the Lieder: weird & wonderful & a must-watch"
-youtube_url = ""
+youtube_url = "https://vimeo.com/channels/followthelieder/350465986"
 
 +++
 This video series is totally confusing, and I can't look away.
@@ -25,7 +25,3 @@ This video series is totally confusing, and I can't look away.
 They're totally bizarre. But fascinating, and I recommend them for a little musical rabbit-hole.
 
 There are nine shorts in total, all available on [Follow the Lieder's Facebook page](https://www.facebook.com/FollowTheLieder/). Here's my current favourite:
-
-<figure data-type="video">{{% md %}}<div class="fb-video" data-href="[https://www.facebook.com/FollowTheLieder/videos/402622547279027/?v=402622547279027](https://www.facebook.com/FollowTheLieder/videos/402622547279027/?v=402622547279027 "https://www.facebook.com/FollowTheLieder/videos/402622547279027/?v=402622547279027")" data-width="500" data-show-text="false"><blockquote cite="[https://developers.facebook.com/FollowTheLieder/videos/402622547279027/](https://developers.facebook.com/FollowTheLieder/videos/402622547279027/ "https://developers.facebook.com/FollowTheLieder/videos/402622547279027/")" class="fb-xfbml-parse-ignore"><a href="[https://developers.facebook.com/FollowTheLieder/videos/402622547279027/](https://developers.facebook.com/FollowTheLieder/videos/402622547279027/ "https://developers.facebook.com/FollowTheLieder/videos/402622547279027/")">Rapture (after Schubert&#039;s &#039;Versunken&#039;)</a><p>The third film in our #FollowTheLieder series! Sung by Edward Jowle and featuring Isabelle Atkinson, Hilary Aeschliman and Ivo Almond.</p>Posted by <a href="[https://www.facebook.com/FollowTheLieder/](https://www.facebook.com/FollowTheLieder/ "https://www.facebook.com/FollowTheLieder/")">Follow The Lieder</a> on Saturday, August 17, 2019</blockquote></div>{{% /md %}}
-
-</figure>
