@@ -26,7 +26,7 @@ Arguably, AtG and its Artistic Director Joel Ivany have started a few trends in 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570494644/media/2019/10/OP190927_DSC4139_dnjbg1.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Against the Grain Theatre's touring production of La bohème, photographed in Banff, AB, 2019. Photo: Jessica Wittman.</figcaption>
 
 </figure>
 
@@ -52,7 +52,7 @@ It's also why this _La bohème_ is still a success from AtG. If my memory serves
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570494716/media/2019/10/OP190927_DSC4373_naavvv.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Against the Grain Theatre's touring production of La bohème, photographed in Banff, AB, 2019. Photo: Jessica Wittman.</figcaption>
 
 </figure>
 
