@@ -3,13 +3,12 @@ author = ["authors/jenna.md"]
 categories = "Editorial"
 date = "2019-10-20T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "If you have a true story of sexual harassment, abuse, or assault within the opera and classical music industries, you can send it to me at [jenna@schmopera.com](mailto:jenna@schmopera.com)."
 preamble = "This is one part in a series of personal accounts of harassment, abuse, and assault in the opera and classical music industries. These stories are published as told to me, with some names and details withheld at the author’s request."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571585639/media/2019/10/TheStories15_wna72x.jpg"
 primary_image_credit = ""
-related_articles = []
+related_articles = ["articles/thestories-part-13.md", "articles/thestories-part-12.md", "articles/thestories-part-10-1.md", "articles/thestories-part-10-2.md", "articles/thestories-part-9.md", "articles/thestories-part-8.md", "articles/thestories-part-10.md", "articles/thestories-part-6.md", "articles/thestories-part-5.md", "articles/thestories-part-4.md", "articles/thestories-part-3.md", "articles/thestories-part-2.md", "articles/thestories-part-i.md"]
 related_companies = []
 related_people = []
 short_description = "\"I haven't told people about this, and those I have, I have been very cryptic about names. This is because this man's wife is very prominent in my business, and although a part of me would love to go up to her and tell her exactly what kind of a man her husband is, I am too scared that she would not believe me, and would do her best to make sure I never work again.\""
@@ -36,7 +35,7 @@ Things went from bad to worse from here. He began to struggle with the role, and
 
 From here, I had to have numerous meetings with the director and others to convince them that I was not sabotaging his performance. Luckily, they believed me and could see that it was he who was struggling. At this point he started to physically hurt me onstage: for example, digging his nails into my shoulders and neck while we were singing or squeezing my hands very hard. I tried to have a word with him to ask him to stop several times, but then he went back to the team saying that once again, I was trying to sabotage him.
 
-Then, the conductor and team decided to let him go, as he was not delivering the goods. However, this was when his wife stepped in – demanding that he at least do half of the performances. He also staged an intervention with the whole team to protest his being fired, while also alluding to the fact that I was “against him from the start”. The situation resolved itself with him splitting the performances with another singer.
+Then, the conductor and team decided to let him go, as he was not delivering the goods. However, this was when his wife stepped in – demanding that he at least do half of the performances. He also staged an intervention with the whole team to protest his being fired, while also alluding to the fact that I was "against him from the start." The situation resolved itself with him splitting the performances with another singer.
 
 The performances with the other singer went very well, and then when he came back, the performances went more or less smoothly, he was polite, and I thought things were fine.
 
@@ -44,7 +43,7 @@ I was wrong.
 
 > When I kept rebuffing him, he got angry and started asking why I had sabotaged him in this opera, and that everyone was soft on me for various reasons, and that I would never work again.
 
-After the final show, the cast and others went out for drinks and a party. I was talking to one of the chorus girls, and found out that she had been sleeping with this man. She was 19, clearly distraught about whatever situation he had put her in, and clearly not old enough to know exactly what she was doing. I also heard that he had slept with two other chorus girls, but I don’t know how old they were.
+After the final show, the cast and others went out for drinks and a party. I was talking to one of the chorus girls, and found out that she had been sleeping with this man. She was 19, clearly distraught about whatever situation he had put her in, and clearly not old enough to know exactly what she was doing. I also heard that he had slept with two other chorus girls, but I don't know how old they were.
 
 That night, he was drunk and decided that I was fair game. He insisted that we go to the bathroom together and have sex. I kept laughing it off, but he was persistent to a point that it started to make me uncomfortable. He even put his hands down my shirt when I bent down at one point. I tried to keep the mood light, but I was not happy and I tried to get away from him.
 
