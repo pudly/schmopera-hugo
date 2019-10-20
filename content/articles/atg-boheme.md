@@ -34,4 +34,4 @@ It's also why this _La bohème_ is still a success from AtG. If my memory serves
 
 AtG boasts a star Musetta in Danika Lorèn, just the right fit for this layered updating of her character; she's opposite the smooth-voiced Clarenze Frazer as Marcello. Frazer has great nerdy chemistry with his roommates: Giles Tomkins as the stoic dork Colline, Andrew Adridge as the charismatic fun one, Schaunard, and Marcel D'Entremont as the shy brooder with great high notes, Rodolfo. Sweet sounding Jonelle Sills fits in like a missing puzzle piece, a soft Mimì to temper the the group of bohemians.
 
-The neatest part of seeing this latest _La bohème_ was to note that I already have my favourite things about each revival. That's like a little bonus badge that AtG can add to its 10-year 
+The neatest part of seeing this latest _La bohème_ was to note that I already have my favourite things about each revival. That's like a little bonus badge that AtG can add to its 10-year biography.
