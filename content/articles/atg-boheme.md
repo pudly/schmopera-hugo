@@ -34,7 +34,7 @@ That's part of the novelty that has hooked crowds on AtG's now-iconic _La bohèm
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571591653/media/2019/10/ATG_Banff-5014_sb1yrv.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>The cast of Against the Grain Theatre's touring production of La bohème, photographed in Banff, AB, 2019. Photo courtesy of the Banff Centre.</figcaption>
 
 </figure>
 
