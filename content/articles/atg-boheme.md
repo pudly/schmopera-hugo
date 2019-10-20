@@ -57,4 +57,4 @@ AtG boasts a star Musetta in Danika Lorèn, just the right fit for this layered 
 
 </figure>
 
-The neatest part of seeing this latest _La bohème_ was to note that I already have my favourite things about each revival. That's like a little bonus badge that AtG can add to its 10-year biography. The [show is still running](http://againstthegraintheatre.com/la-boheme/), at The Tranzac Club on Bloor West through October 25. After that, it heads north for the last leg of its tour, in Whitehorse and Yellowknife.
+The neatest part of seeing this latest _La bohème_ was to note that I already have my favourite things about each revival. That's like a little bonus badge that AtG can add to its 10-year biography. The [show is still running](http://againstthegraintheatre.com/la-boheme/), at The Tranzac Club on Bloor West through October 25. After that, it heads north for the last leg of its tour in Yukon. 
