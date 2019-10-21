@@ -27,7 +27,7 @@ For [Edmonton Opera](/scene/companies/edmonton-opera/) audiences, however, the d
 
 </figure>
 
-[Matthew White](/aria-guides-parmi-veder-le-lagrime/) is the perfect foil for Joynt, wowing the audience with his lyric tenor as the Duke of Mantua. Ruthless, manipulative and lustful, White complements his portrayal of a man drunk with power with tremendous vocals. While his performance of "La donna è mobile" was a crowdpleaser, it was his ["Parmi veder"](/aria-guides-parmi-veder-le-lagrime/) at the beginning of Act II, where he laments the disappearance of his "beloved" Gilda, that elicited the strongest response. The fickleness of his feelings for Gilda, however, are underpinned by how "Parmi veder" is staged: he sings it half-naked after a tryst with another "beloved."
+[Matthew White](/scene/people/matthew-white/) is the perfect foil for Joynt, wowing the audience with his lyric tenor as the Duke of Mantua. Ruthless, manipulative and lustful, White complements his portrayal of a man drunk with power with tremendous vocals. While his performance of "La donna è mobile" was a crowdpleaser, it was his ["Parmi veder"](/aria-guides-parmi-veder-le-lagrime/) at the beginning of Act II, where he laments the disappearance of his "beloved" Gilda, that elicited the strongest response. The fickleness of his feelings for Gilda, however, are underpinned by how "Parmi veder" is staged: he sings it half-naked after a tryst with another "beloved."
 
 > His singing remains silky smooth through all its ranges, particularly in the higher parts of his voice.
 
