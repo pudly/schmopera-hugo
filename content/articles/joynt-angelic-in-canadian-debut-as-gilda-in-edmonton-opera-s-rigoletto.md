@@ -7,7 +7,7 @@ image_gallery = []
 postamble = "Edmonton Opera’s production of Verdi's [Rigoletto](https://www.edmontonopera.com/2019-20/rigoletto) runs October 19, 22 and 25 at the Northern Alberta Jubilee Auditorium."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571583046/media/2019/10/sqRigolettoGildaJamesWestmanSharleenJoynt_mg7khm.jpg"
-primary_image_credit = "James Westman and Sharleen Joynt in Rigoletto, Edmonton Opera, 2019. Photo: Nanc Price."
+primary_image_credit = "James Westman and Sharleen Joynt in Rigoletto, Edmonton Opera, 2019. Photo: Madison Kerr."
 related_articles = ["articles/cleanedup-callas-the-remastered-live-recordings.md", "articles/aria-guides-parmi-veder-le-lagrime.md", "articles/great-music-distracting-sexuality-rigoletto.md"]
 related_companies = ["scene/companies/edmonton-opera.md"]
 related_people = ["scene/people/matthew-white.md", "scene/people/james-westman.md", "scene/people/sharleen-joynt.md"]
@@ -23,7 +23,7 @@ For [Edmonton Opera](/scene/companies/edmonton-opera/) audiences, however, the d
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571583376/media/2019/10/EORigoletto3_czy5s3.jpg){{% /md %}}
 
-<figcaption>Matthew White (Duke of Mantua) in Rigoletto, Edmonton Opera, 2019. Photo: Nanc Price.</figcaption>
+<figcaption>Matthew White (Duke of Mantua) in Rigoletto, Edmonton Opera, 2019. Photo: Madison Kerr.</figcaption>
 
 </figure>
 
@@ -35,7 +35,7 @@ As the titular character, baritone [James Westman](/scene/people/james-westman/)
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571583359/media/2019/10/EORigoletto2_gcb3dh.jpg){{% /md %}}
 
-<figcaption>James Westman (Rigoletto, background), Matthew White (Duke), and Sharleen Joynt (Gilda) in Rigoletto, Edmonton Opera, 2019. Photo: Nanc Price.</figcaption>
+<figcaption>James Westman (Rigoletto, background), Matthew White (Duke), and Sharleen Joynt (Gilda) in Rigoletto, Edmonton Opera, 2019. Photo: Madison Kerr.</figcaption>
 
 </figure>
 
@@ -47,7 +47,7 @@ The supporting cast should also be acknowledged for their limited time on stage.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571583384/media/2019/10/EORigoletto4_t7urpv.jpg){{% /md %}}
 
-<figcaption>James Westman in the title role of Rigoletto, Edmonton Opera, 2019. Photo: Nanc Price.</figcaption>
+<figcaption>James Westman in the title role of Rigoletto, Edmonton Opera, 2019. Photo: Madison Kerr.</figcaption>
 
 </figure>
 
