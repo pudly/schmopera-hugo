@@ -41,7 +41,7 @@ For those paying attention, Ivany's libretto only updates details, the kind that
 
 > The neatest part of seeing this latest _La bohème_ was to note that I already have my favourite things about each revival.
 
-Ivanys' _La bohème_ demonstrates what it means to update an opera organically. This is no set of gimmicks, but a modernization meant to maximize the affect of an already-great story. It's why Puccini's opera is still so popular in its original Italian form; there is a core to these characters that is true no matter where or when you place them.
+Ivany's _La bohème_ demonstrates what it means to update an opera organically. This is no set of gimmicks, but a modernization meant to maximize the affect of an already-great story. It's why Puccini's opera is still so popular in its original Italian form; there is a core to these characters that is true no matter where or when you place them.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1570494716/media/2019/10/OP190927_DSC4373_naavvv.jpg){{% /md %}}
 
@@ -51,7 +51,7 @@ Ivanys' _La bohème_ demonstrates what it means to update an opera organically. 
 
 It's also why this _La bohème_ is still a success from AtG. If my memory serves, the libretto always comes with a few timely changes to keep it fresh (although I heard a few details that stood out as mildly dated in our post-#metoo age). And the cast is nearly all new, with the important exception in [Greg Finney](/scene/people/gregory-finney/) as Benoit and Alcindoro; his Benoit is as suburban-Canadian-baby-boomer as you can get, and his Alcindoro a pitiable foot fetishist. At this point, Finney is a production fixture, and thank the opera gods for that.
 
-AtG boasts a star Musetta in [Danika Lorèn](/scene/people/spotlight-on-danika-loren/), just the right fit for this layered updating of her character; she's opposite the smooth-voiced [Clarence Frazer](talking-with-singers-clarence-frazer/) as Marcello. Frazer has great nerdy chemistry with his roommates: [Giles Tomkins](/scene/people/giles-tomkins/) as the stoic dork Colline, Andrew Adridge as the charismatic fun one, Schaunard, and [Marcel D'Entremont](/scene/people/marcel-dentremont/) as the shy brooder with great high notes, Rodolfo. Sweet-sounding [Jonelle Sills](/scene/people/jonelle-sills/) fits in like a missing puzzle piece, a soft Mimì to temper the the group of bohemians.
+AtG boasts a star Musetta in [Danika Lorèn](/scene/people/spotlight-on-danika-loren/), just the right fit for this layered updating of her character; she's opposite the smooth-voiced [Clarence Frazer](talking-with-singers-clarence-frazer/) as Marcello. Frazer has great nerdy chemistry with his roommates: [Giles Tomkins](/scene/people/giles-tomkins/) as the stoic dork Colline, Andrew Adridge as the charismatic fun one, Schaunard, and [Marcel D'Entremont](/scene/people/marcel-dentremont/) as the shy brooder with great high notes, Rodolfo. Sweet-sounding [Jonelle Sills](/scene/people/jonelle-sills/) fits in like a missing puzzle piece, a soft Mimì to temper a wild group of bohemians.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571591680/media/2019/10/ATG_Banff-2262_eruzan.jpg){{% /md %}}
 
