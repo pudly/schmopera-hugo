@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/a-parisian-traviata-spectacle.md
 - content/articles/atg-boheme.md
 - content/articles/joynt-angelic-in-canadian-debut-as-gilda-in-edmonton-opera-s-rigoletto.md
 - content/articles/opera-is-alive-kicking-here-are-the-videos-to-prove-it.md
