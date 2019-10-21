@@ -3,6 +3,7 @@ author = ["authors/melissa-ratcliff.md"]
 categories = "Review"
 date = "2019-10-20T04:00:00+00:00"
 disclaimer = ""
+draft = true
 image_gallery = []
 postamble = "Vancouver Opera's production of [_La traviata_](https://www.vancouveropera.ca/la-traviata/) is onstage through October 27."
 preamble = ""
