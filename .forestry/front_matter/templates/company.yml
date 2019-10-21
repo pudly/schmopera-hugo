@@ -46,18 +46,18 @@ fields:
   label: Related People
   name: related_people
 pages:
+- content/scene/companies/muse-9-productions.md
+- content/scene/companies/boston-early-music-festival.md
+- content/scene/companies/heroic-opera.md
+- content/scene/companies/east-van-opera.md
 - content/scene/companies/virginia-opera.md
+- content/scene/companies/opera-kelowna.md
+- content/scene/companies/journey-north-opera.md
+- content/scene/companies/boston-lyric-opera-1.md
+- content/scene/companies/hunter-opera-theater.md
 - content/scene/companies/l-opéra-de-montréal.md
 - content/scene/companies/boston-modern-orchestra-project.md
 - content/scene/companies/opera-fusion.md
-- content/scene/companies/heroic-opera.md
-- content/scene/companies/muse-9-productions.md
-- content/scene/companies/boston-early-music-festival.md
-- content/scene/companies/opera-kelowna.md
-- content/scene/companies/little-opera-theatre-of-ny.md
-- content/scene/companies/city-lyric-opera.md
-- content/scene/companies/hunter-opera-theater.md
-- content/scene/companies/boston-lyric-opera-1.md
-- content/scene/companies/east-van-opera.md
-- content/scene/companies/journey-north-opera.md
 - content/scene/companies/skylark-opera.md
+- content/scene/companies/city-lyric-opera.md
+- content/scene/companies/little-opera-theatre-of-ny.md
