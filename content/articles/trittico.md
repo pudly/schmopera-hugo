@@ -3,7 +3,6 @@ author = ["authors/melissa-ratcliff.md"]
 categories = "Review"
 date = "2019-10-21T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Pacific Opera Victoria's [production of _Il trittico_](https://pacificopera.ca/event/il-trittico/) is onstage through October 27."
 preamble = ""
@@ -13,8 +12,8 @@ related_articles = ["articles/in-review-il-trittico-at-roh.md", "articles/back-t
 related_companies = ["scene/companies/pacific-opera-victoria.md"]
 related_people = ["scene/people/lara-ciekiewicz.md", "scene/people/megan-latham.md", "scene/people/owen-mccausland.md", "scene/people/aviva-fortunata.md", "scene/people/todd-thomas.md"]
 short_description = "Lara Ciekiewicz as Lauretta was supremely lovely. With a brilliant high soprano, her \"O mio babbino caro\" was played with great comedic timing as the beautiful, but somewhat ditzy young girl desperate to marry her sweetheart. "
-slug = "trittico"
-title = "Trittico"
+slug = "incredibly-clever-trittico-onstage-in-victoria"
+title = "\"Incredibly clever\" Trittico onstage in Victoria"
 youtube_url = ""
 
 +++
