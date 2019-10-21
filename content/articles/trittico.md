@@ -24,7 +24,7 @@ Starting off the night is _Il tabarro_, a dark tale of betrayal and murder. Set 
 
 The barge itself is small and narrow, with the smoke coming from the boat, and the reflection of water on the building behind. The only drawback of the production is the final fight scene, which in this performance felt under-rehearsed, and had the audience laughing at what should have been the dramatic climax. Despite that, the performers brought a great sense of tension to the story, and the sadness and desperation of the occupants.
 
-_Suor Angelica_ takes place in a convent hospital, brilliant and luminous in shades of white and grey, with the sunlight pouring into the windows. Angelica's confrontation with her aunt take place in the garden, as the sun sets and the world turns dark. The ensembles of the piece are beautiful, though the pacing of the action is slow and the ending slightly overwrought. The duets and **
+_Suor Angelica_ takes place in a convent hospital, brilliant and luminous in shades of white and grey, with the sunlight pouring into the windows. Angelica's confrontation with her aunt take place in the garden, as the sun sets and the world turns dark. The ensembles of the piece are beautiful, though the pacing of the action is slow and the ending slightly overwrought.
 
 _Gianni Schicchi_ is presented as a group of travelling performers putting on the _commedia dell'arte_ of _Gianni Schicchi_. The costumes are riotous, colourful, and ridiculous, the action is madcap and frenetic, the acting is hilarious and pure buffoonery, and the result is a hilarious comedic romp to end the night on.
 
