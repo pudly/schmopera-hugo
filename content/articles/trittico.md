@@ -38,16 +38,16 @@ In an incredibly clever conceit by director Glynis Leushon, all the operas are l
 
 [Todd Thomas](/scene/people/todd-thomas/) is a delightful Gianni Schicchi. Though encumbered with a ridiculously large fake nose, his characterization of the clever friend was hilarious, particularly when threatening the greedy family members by pretending to have his hands cut off.
 
-Tenor [Owen McCausland](/scene/people/owen-mccausland/) as Tinca and Rinuccio was a huge standout. With a powerful, bright voice, he shone in both _Tabarro_ and _Schicchi_ in turns as the poetic drunk, and the amorous lover.
+Tenor [Owen McCausland](/scene/people/owen-mccausland/) as Tinca (_Tabarro_) and Rinuccio (_Schicchi_) was a huge standout. With a powerful, bright voice, he shone in both _Tabarro_ and _Schicchi_ in turns as the poetic drunk, and the amorous lover.
 
-Mezzo-soprano [Megan Latham](/scene/people/megan-latham/) is a brilliant Frugola and Princess. With a beautiful, smooth mezzo voice, she was incredibly resonant and powerful, particularly in her lowest register, and her heartless portrayal of the Princess was menacing and pitiless.
+Mezzo-soprano [Megan Latham](/scene/people/megan-latham/) is a brilliant Frugola (_Tabarro_) and Princess (_Suor_). With a beautiful, smooth mezzo voice, she was incredibly resonant and powerful, particularly in her lowest register, and her heartless portrayal of the Princess was menacing and pitiless.
 
-Thomas Goertz as Talpa and Simone was funny and entertaining in both roles. With a polished, rich bass, his characterization of both roles was funny and charming.
+Thomas Goertz as Talpa (_Tabarro)_ and Simone (_Schicchi_) is funny and entertaining in both roles. With a polished, rich bass, his characterizations of both roles are funny and charming.
 
-Peter Monaghan as Betto di Signa was a hilarious buffoon. Played as a dumb, awkward dope, he was constantly fumbling around the stage, even crying at Lauretta’s plight. It was a joy to watch him just try to figure out what was going on.
+Peter Monaghan as Betto di Signa (_Schicchi_) is a hilarious buffoon. Played as a dumb, awkward dope, he was constantly fumbling around the stage, even crying at Lauretta's plight. It was a joy to watch him just try to figure out what was going on.
 
-In the very small role of the Cobbler was Dale Friesen. Despite only being on stage for a few minutes, he was vocally incredibly powerful, even hindered by a mask that hid most of his face. I loved his performance.
+In the very small role of the cobbler (_Schicchi_) is Dale Friesen. Despite only being on stage for a few minutes, he was vocally incredibly powerful, even hindered by a mask that hid most of his face. I loved his performance.
 
 The difficult score was handled expertly by the POV orchestra under the baton of Timothy Vernon, beautifully underscoring the action on stage with subtlety and great technical musicality.
 
-POV’s Trittico is a brilliant opening to a new season, and shows the innovation and risk taking that audiences have come to expect from the company. A great 3-in-1 production with something to offer for everyone.
+POV's _Trittico_ is a brilliant opening to a new season, and shows the innovation and risk taking that audiences have come to expect from the company. A great 3-in-1 production with something to offer for everyone.
