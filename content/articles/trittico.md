@@ -9,8 +9,8 @@ postamble = ""
 preamble = ""
 primary_image = ""
 primary_image_credit = ""
-related_articles = []
-related_companies = []
+related_articles = ["articles/in-review-il-trittico-at-roh.md", "articles/back-to-school-opera-a-practical-glossary.md"]
+related_companies = ["scene/companies/pacific-opera-victoria.md"]
 related_people = ["scene/people/megan-latham.md", "scene/people/owen-mccausland.md", "scene/people/aviva-fortunata.md", "scene/people/todd-thomas.md"]
 short_description = "Lara Ciekiewicz as Lauretta was supremely lovely. With a brilliant high soprano, her \"O mio babbino caro\" was played with great comedic timing as the beautiful, but somewhat ditzy young girl desperate to marry her sweetheart. "
 slug = "trittico"
@@ -18,7 +18,7 @@ title = "Trittico"
 youtube_url = ""
 
 +++
-[Pacific Opera Victoria](/scene/companies/pacific-opera-victoria/) took on a massive undertaking in performing Puccini's _Il trittico_: three hour-long, one-act operas presented in a single performance. With a huge cast and three full productions, it's impossible to review it all, so I'll give the highlights of each.
+[Pacific Opera Victoria](/scene/companies/pacific-opera-victoria/) took on a massive undertaking in performing Puccini's [_Il trittico_](https://pacificopera.ca/event/il-trittico/): three hour-long, one-act operas presented in a single performance. With a huge cast and three full productions, it's impossible to review it all, so I'll give the highlights of each.
 
 Starting off the night is _Il tabarro_, a dark tale of betrayal and murder. Set on a small barge, the entire show takes place in a tiny space downstage, with a small dock and the barge being the only set pieces. It gives the feeling of being closed in, and the claustrophobia and inescapability of Georgetta's predicament.
 
@@ -50,4 +50,4 @@ In the very small role of the cobbler (_Schicchi_) is Dale Friesen. Despite only
 
 The difficult score was handled expertly by the POV orchestra under the baton of Timothy Vernon, beautifully underscoring the action on stage with subtlety and great technical musicality.
 
-POV's _Trittico_ is a brilliant opening to a new season, and shows the innovation and risk taking that audiences have come to expect from the company. A great 3-in-1 production with something to offer for everyone.
+[POV's _Trittico_](https://pacificopera.ca/event/il-trittico/) is a brilliant opening to a new season, and shows the innovation and risk taking that audiences have come to expect from the company. A great 3-in-1 production with something to offer for everyone.
