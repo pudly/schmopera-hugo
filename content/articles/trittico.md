@@ -7,7 +7,7 @@ image_gallery = []
 postamble = "Pacific Opera Victoria's [production of _Il trittico_](https://pacificopera.ca/event/il-trittico/) is onstage through October 27."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571682475/media/2019/10/sqIlTrittico_0899_sqr6cl.jpg"
-primary_image_credit = ""
+primary_image_credit = ", Pacific Opera Victoria's production of Il trittico, 2019. Photo: David Cooper."
 related_articles = ["articles/in-review-il-trittico-at-roh.md", "articles/back-to-school-opera-a-practical-glossary.md"]
 related_companies = ["scene/companies/pacific-opera-victoria.md"]
 related_people = ["scene/people/lara-ciekiewicz.md", "scene/people/megan-latham.md", "scene/people/owen-mccausland.md", "scene/people/aviva-fortunata.md", "scene/people/todd-thomas.md"]
@@ -23,7 +23,7 @@ Starting off the night is _Il tabarro_, a dark tale of betrayal and murder. Set 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571682582/media/2019/10/IlTrittico_0149_waql5j.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Aviva Fortunata (Giorgetta) and Adam Luther (Luigi) in Il tabarro, Pacific Opera Victoria's production of Il trittico, 2019. Photo: David Cooper.</figcaption>
 
 </figure>
 
@@ -35,7 +35,7 @@ _Suor Angelica_ takes place in a convent hospital, brilliant and luminous in sha
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571682598/media/2019/10/IlTrittico_0597_ub8fd8.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Lara Ciekiewicz (Suor Genevieve) and Aviva Fortunata (Suor Angelica) in Suor Angelica, Pacific Opera Victoria's production of Il trittico, 2019. Photo: David Cooper.</figcaption>
 
 </figure>
 
@@ -47,7 +47,7 @@ Each character is over-the-top in their absurdity, greed, or oafishness, and the
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571682565/media/2019/10/IlTrittico_0023_a4szzt.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Todd Thomas as Michele and Aviva Fortunata as Giorgetta in Il tabarro, Pacific Opera Victoria's production of Il trittico, 2019. Photo: David Cooper.</figcaption>
 
 </figure>
 
@@ -63,7 +63,7 @@ In an incredibly clever conceit by director Glynis Leushon, all the operas are l
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571682546/media/2019/10/IlTrittico_0532_e2pbde.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Lara Ciekiewicz (Lauretta) and Owen McCausland (Rinuccio) in Gianni Schicchi, Pacific Opera Victoria's production of Il trittico, 2019. Photo: David Cooper.</figcaption>
 
 </figure>
 
@@ -75,7 +75,7 @@ Thomas Goertz as Talpa (_Tabarro)_ and Simone (_Schicchi_) is funny and entertai
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571682536/media/2019/10/IlTrittico_1011_oceegm.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>(l-r) Todd Thomas (Gianni Schicchi), Aviva Fortunata (, Pacific Opera Victoria's production of Il trittico, 2019. Photo: David Cooper.</figcaption>
 
 </figure>
 
@@ -87,7 +87,7 @@ The difficult score was handled expertly by the POV orchestra under the baton of
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571682524/media/2019/10/IlTrittico_0334_nfnmxt.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>, Pacific Opera Victoria's production of Il trittico, 2019. Photo: David Cooper.</figcaption>
 
 </figure>
 
