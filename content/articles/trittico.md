@@ -75,7 +75,7 @@ Thomas Goertz as Talpa (_Tabarro)_ and Simone (_Schicchi_) is funny and entertai
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571682536/media/2019/10/IlTrittico_1011_oceegm.jpg){{% /md %}}
 
-<figcaption>(l-r) Todd Thomas (Gianni Schicchi), Aviva Fortunata (, Pacific Opera Victoria's production of Il trittico, 2019. Photo: David Cooper.</figcaption>
+<figcaption>(l-r) Todd Thomas (Gianni Schicchi), Aviva Fortunata (Nella), Adam Luther (Gherardo), Peter Monaghan (Betto), Megan Latham (Zita), Thomas Goertz (Simone), Jason Cook (Marco), and Maria Soulis (La Ciesca), in Gianni Schicchi, Pacific Opera Victoria's production of Il trittico, 2019. Photo: David Cooper.</figcaption>
 
 </figure>
 
