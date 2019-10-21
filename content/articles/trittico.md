@@ -11,7 +11,7 @@ primary_image_credit = "(clockwise from bottom left) Aviva Fortunata as Nella, A
 related_articles = ["articles/in-review-il-trittico-at-roh.md", "articles/back-to-school-opera-a-practical-glossary.md"]
 related_companies = ["scene/companies/pacific-opera-victoria.md"]
 related_people = ["scene/people/lara-ciekiewicz.md", "scene/people/megan-latham.md", "scene/people/owen-mccausland.md", "scene/people/aviva-fortunata.md", "scene/people/todd-thomas.md"]
-short_description = "Lara Ciekiewicz as Lauretta was supremely lovely. With a brilliant high soprano, her \"O mio babbino caro\" was played with great comedic timing as the beautiful, but somewhat ditzy young girl desperate to marry her sweetheart. "
+short_description = "Aviva Fortunata as Giorgetta is a standout in Tabarro, with a warm full soprano, and barely-contained frustration and anger at being made to stay on the boat. Her desperation when she tries to leave her estranged husband is palpable as she nearly betrays her plan to escape."
 slug = "incredibly-clever-trittico-onstage-in-victoria"
 title = "\"Incredibly clever\" Trittico onstage in Victoria"
 youtube_url = ""
@@ -57,7 +57,7 @@ In an incredibly clever conceit by director Glynis Leushon, all the operas are l
 
 [Aviva Fortunata](/scene/people/aviva-fortunata/) as Giorgetta is a standout in _Tabarro_, with a warm full soprano, and barely-contained frustration and anger at being made to stay on the boat. Her desperation when she tries to leave her estranged husband is palpable as she nearly betrays her plan to escape.
 
-[Lara Ciekiewicz](/scene/people/lara-ciekiewicz/) as Lauretta was supremely lovely. With a brilliant high soprano, her "O mio babbino caro" was played with great comedic timing as the beautiful, but somewhat ditzy young girl desperate to marry her sweetheart.
+[Lara Ciekiewicz](/scene/people/lara-ciekiewicz/) as Lauretta is supremely lovely. With a brilliant high soprano, her "O mio babbino caro" is played with great comedic timing as the beautiful, but somewhat ditzy young girl desperate to marry her sweetheart.
 
 [Todd Thomas](/scene/people/todd-thomas/) is a delightful Gianni Schicchi. Though encumbered with a ridiculously large fake nose, his characterization of the clever friend was hilarious, particularly when threatening the greedy family members by pretending to have his hands cut off.
 
