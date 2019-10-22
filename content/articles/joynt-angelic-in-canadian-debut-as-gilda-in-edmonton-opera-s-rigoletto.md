@@ -19,7 +19,7 @@ youtube_url = ""
 +++
 Not all "first times" can be memorable.
 
-For [Edmonton Opera](/scene/companies/edmonton-opera/) audiences, however, the debut of [Sharleen Joynt](/scene/people/sharleen-joynt/) as a mainstage coloratura soprano will be one to remember for a long time. As Gilda in Edmonton Opera's production of Verdi's _Rigoletto_, Joynt shimmers with an angelic quality that is simply heavenly. Navigating Verdi's writing with ease, Joynt simply captivated in her Canadian operatic debut, portraying Gilda with purity and innocence. Her performance of the aria "Caro nome" was particularly exquisite; her expressiveness made Gilda a shining light amid the darker themes of lust, betrayal, and vengeance.
+For [Edmonton Opera](/scene/companies/edmonton-opera/) audiences, however, the performance of [Sharleen Joynt](/scene/people/sharleen-joynt/) as a mainstage coloratura soprano will be one to remember for a long time. As Gilda in Edmonton Opera's production of Verdi's _Rigoletto_, Joynt shimmers with an angelic quality that is simply heavenly. Navigating Verdi's writing with ease, Joynt simply captivated the audience, portraying Gilda with purity and innocence. Her performance of the aria "Caro nome" was particularly exquisite; her expressiveness made Gilda a shining light amid the darker themes of lust, betrayal, and vengeance.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571583376/media/2019/10/EORigoletto3_czy5s3.jpg){{% /md %}}
 
