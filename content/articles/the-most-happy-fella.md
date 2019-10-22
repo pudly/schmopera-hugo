@@ -17,7 +17,7 @@ title = "The Most Happy Fella: a lesson in unconditional love"
 youtube_url = ""
 
 +++
-Skylark Opera Theatre's production of [_The Most Happy Fella_](https://www.skylarkopera.org/most-happy-fella-2019) spread smiles at The Historic Mounds Theatre in St. Paul Friday night. I am a big fan of golden-age musicals, and there are so many great ones that are lost in the shuffle. _The Most Happy Fella_ is certainly among them.
+[Skylark Opera Theatre](/scene/companies/skylark-opera/)'s production of [_The Most Happy Fella_](https://www.skylarkopera.org/most-happy-fella-2019) spread smiles at The Historic Mounds Theatre in St. Paul Friday night. I am a big fan of golden-age musicals, and there are so many great ones that are lost in the shuffle. _The Most Happy Fella_ is certainly among them.
 
 Written by _Guys and Dolls'_ Frank Loesser, I expected it to be simple and toe-tapping. (don't get me wrong - I love _Guys and Dolls_!) The two grand pianos that served as Skylark's fearless orchestra, music direction by Carson Schneider, provided a sound not of the fun loving Runyon musical, but a mixture of Rodgers and Hammerstein with a dash of Leoncavallo.
 
