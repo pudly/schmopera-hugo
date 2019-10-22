@@ -87,7 +87,7 @@ The difficult score was handled expertly by the POV orchestra under the baton of
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571682524/media/2019/10/IlTrittico_0334_nfnmxt.jpg){{% /md %}}
 
-<figcaption>, Pacific Opera Victoria's production of Il trittico, 2019. Photo: David Cooper.</figcaption>
+<figcaption>Maria Soulis as The Monitor and Marion Newman as Abbess/Mistress of the Novices with Pacific Opera Chorus in Sour Angelica, Pacific Opera Victoria's production of Il trittico, 2019. Photo: David Cooper.</figcaption>
 
 </figure>
 
