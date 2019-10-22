@@ -1,7 +1,7 @@
 +++
 author = ["authors/callie-cooper.md"]
 categories = "Review"
-date = "2019-10-20T04:00:00+00:00"
+date = "2019-10-21T04:00:00+00:00"
 disclaimer = ""
 image_gallery = []
 postamble = "For more with Skylark Opera, follow them on [Instagram](https://www.instagram.com/skylarkoperatheatre/), [Twitter](https://twitter.com/skylarkopera), & [Facebook](https://www.facebook.com/SkylarkOpera/)."
