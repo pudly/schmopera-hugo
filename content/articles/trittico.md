@@ -3,7 +3,6 @@ author = ["authors/melissa-ratcliff.md"]
 categories = "Review"
 date = "2019-10-21T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Pacific Opera Victoria's [production of _Il trittico_](https://pacificopera.ca/event/il-trittico/) is onstage through October 27."
 preamble = ""
