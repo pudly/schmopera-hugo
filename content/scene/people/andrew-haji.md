@@ -12,6 +12,14 @@ website = "http://www.andrewhaji.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/andrewhaji"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/andrewhaji"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/user/andrewhaji"
 
 +++
 Andrew Haji, Canadian tenor, is quickly becoming one of the most sought-after voices on both the operatic and concert stages. A graduate of the Canadian Opera Company (COC) Ensemble Studio, Andrew’s recent operatic roles include Nemorino in Donizetti’s _L’elisir d’amore_ (COC, 2017), Gabriel Dumont in _Louis Riel_ by Harry Somers (COC and Festival d’opéra de Québec, 2017), Tamino in Mozart’s _The Magic Flute_ (COC, 2017), Hélios in Félicien David’s _Herculanum_ (Wexford Festival Opera, 2016), Rodolfo in Puccini’s _La bohème_ (Opera Theatre of Saint Louis, 2016), Alfredo in Verdi’s _La traviata_ (COC, 2015), Count Almaviva in the Ensemble Studio performance of Rossini’s _The Barber of Seville_ (COC, 2015), Rodriguez in Massenet’s _Don Quichotte_ (COC, 2014), and Ferrando in the Ensemble Studio performance of Mozart’s _Così fan tutte_ (COC, 2014).
