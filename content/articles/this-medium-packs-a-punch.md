@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571861730/media/2019/10/sqOperaFrightNightIMG_0151_olhk19.jpg"
-primary_image_credit = ""
+primary_image_credit = "Opera Fright Night, Flipside Opera & The Little Opera Company, 2019."
 related_articles = ["articles/6-operas-to-creep-you-out.md", "articles/the-medium-opera-as-film-noir.md", "articles/in-review-rocking-horse-winner.md"]
 related_companies = ["scene/companies/flipside-opera.md"]
 related_people = []
@@ -20,7 +20,7 @@ youtube_url = ""
 +++
 When I had first heard about the upcoming performance of Gian Carlo Menotti's _The Medium_, I was a bit apprehensive (full disclosure: my wife is a medium). I was worried that this show would be mocking mediums, and I wasn't so sure I would be comfortable with that, given my wife's talents in that area. But, _The Medium_ in fact shows us that there are things some can see in this world, that are not of this world.
 
-Being a huge fan of both [Little Opera Company](https://www.littleopera.ca/) and [Flipside Opera](/scene/companies/flipside-opera/) (full disclosure: they have both produced operas of mine) I knew I wanted to see this show. _The Medium_ was certainly compelling, and the ending, where the "fake medium" actually had a real-life encounter with a being from another plane of existence, brought me back to the movie _Ghost_, with Whoopi Goldberg playing the shyster medium and Patrick Swayze being the ghost.
+Being a huge fan of both [Little Opera Company](/scene/companies/little-opera-company/) and [Flipside Opera](/scene/companies/flipside-opera/) (full disclosure: they have both produced operas of mine) I knew I wanted to see this show. _The Medium_ was certainly compelling, and the ending, where the "fake medium" actually had a real-life encounter with a being from another plane of existence, brought me back to the movie _Ghost_, with Whoopi Goldberg playing the shyster medium and Patrick Swayze being the ghost.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571861784/media/2019/10/OperaFrightNightIMG_9807_vuaz79.jpg){{% /md %}}
 
