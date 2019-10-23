@@ -11,7 +11,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571841877/m
 primary_image_credit = "Michael Mayes in the title role of Rigoletto, Houston Grand Opera, 2019. Photo: Lynn Lane."
 related_articles = ["articles/the-price-of-vengeance-rigoletto-at-roh.md", "articles/searching-for-superlatives-locs-suberb-rigoletto.md"]
 related_companies = ["scene/companies/houston-grand-opera.md"]
-related_people = ["scene/people/michael-mayes.md"]
+related_people = ["scene/people/david-shipley.md", "scene/people/michael-mayes.md"]
 short_description = "As Rigoletto leaves the party, we see the true depth of his character. As Mulligan interprets him, the jester is very fidgety, his routines a compulsive series of tics that he feels compelled to practice even when nobody else is around, very much the modern laborer trapped in his work. "
 slug = "moral-dilemmas-an-excellent-quartet-hgos-rigoletto"
 title = "Moral dilemmas & an excellent quartet: HGO's Rigoletto"
@@ -50,7 +50,7 @@ In this light, the Duke of Mantua (tenor [Arturo Chacón-Cruz](/scene/people/art
 
 And the objects of his attention, the jaded yet eager-to-please Countess of Ceprano (Dorothy Gal) among them, know well that not playing along with such games is fatal.
 
-As Rigoletto leaves the party, we see the true depth of his character. As Mulligan interprets him, the jester is very fidgety, his routines a compulsive series of tics that he feels compelled to practice even when nobody else is around, very much the modern laborer trapped in his work.
+As Rigoletto leaves the party, we see the true depth of his character. As Mayes interprets him, the jester is very fidgety, his routines a compulsive series of tics that he feels compelled to practice even when nobody else is around, very much the modern laborer trapped in his work.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
@@ -58,7 +58,7 @@ As Rigoletto leaves the party, we see the true depth of his character. As Mullig
 
 </figure>
 
-It takes us a while to see him in a light any different from that bestowed by his meeting with the ominous Sparafucile (David Shipley): very much a lower-class entertainer, but investing what remains of his soul to protect his daughter, Gilda (Mané Galoyan), from the lascivious and prying eyes of his employer and the world.
+It takes us a while to see him in a light any different from that bestowed by his meeting with the ominous Sparafucile ([David Shipley](/talking-with-singers-david-shipley/)): very much a lower-class entertainer, but investing what remains of his soul to protect his daughter, Gilda ([Mané Galoyan](/scene/people/mane-galoyan/)), from the lascivious and prying eyes of his employer and the world.
 
 Too bad that his slatternly housekeeper, the disinterested Giovanna (Lindsay Kate Brown), knows that she can get more for her services and is therefore easily tempted by the Duke's bribes, which she clearly has experience in accepting.
 
