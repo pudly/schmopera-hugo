@@ -68,9 +68,9 @@ Nicholas Newton's Monterone is perfectly imposing for the underestimated role th
 
 Given that this production has him bludgeoned and stabbed multiple times before our potentate friend unceremoniously fires a pistol into his head, his appearance is all the more stark and martyrish.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571843234/media/2019/10/HGORigolettoLynnLane-136_vkjnoh.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571843499/media/2019/10/HGORigolettoLynnLane-197_xvql2h.jpg){{% /md %}}
 
-<figcaption> HGO's new production of Rigoletto, 2019. Photo: Lynn Lane.</figcaption>
+<figcaption>Mané Galoyanas Gilda HGO's new production of Rigoletto, 2019. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
