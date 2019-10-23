@@ -12,7 +12,7 @@ primary_image_credit = "Michael Mayes in the title role of Rigoletto, Houston Gr
 related_articles = ["articles/the-price-of-vengeance-rigoletto-at-roh.md", "articles/searching-for-superlatives-locs-suberb-rigoletto.md"]
 related_companies = ["scene/companies/houston-grand-opera.md"]
 related_people = ["scene/people/zoie-reams.md", "scene/people/david-shipley.md", "scene/people/michael-mayes.md"]
-short_description = "As Rigoletto leaves the party, we see the true depth of his character. As Mulligan interprets him, the jester is very fidgety, his routines a compulsive series of tics that he feels compelled to practice even when nobody else is around, very much the modern laborer trapped in his work. "
+short_description = "As Rigoletto leaves the party, we see the true depth of his character. As Mayes interprets him, the jester is very fidgety, his routines a compulsive series of tics that he feels compelled to practice even when nobody else is around, very much the modern laborer trapped in his work. "
 slug = "moral-dilemmas-an-excellent-quartet-hgos-rigoletto"
 title = "Moral dilemmas & an excellent quartet: HGO's Rigoletto"
 youtube_url = ""
@@ -34,9 +34,9 @@ Indeed, as the prelude opened, one saw the chorus stealthily emerge with their a
 
 </figure>
 
-Yet the gangsters have personalities that occasionally can be glimpsed, and one suspects they are the source of numerous epithets: Marullo (Geoffrey Hahn), the chatty one; Ceprano (Daniel Noyola), the morbid one; and Borsa (Richard Trey Smagur), the shameless one. I
+Yet the gangsters have personalities that occasionally can be glimpsed, and one suspects they are the source of numerous epithets: Marullo (Geoffrey Hahn), the chatty one; Ceprano (Daniel Noyola), the morbid one; and Borsa (Richard Trey Smagur), the shameless one. It should be said for the reader's benefit that the chorus all had pistols which they were very eager to brandish at the slightest provocation, rendering Rigoletto's ([Michael Mayes](/scene/people/michael-mayes/)) later cries of "Assassini" as tinged with irony as anything.
 
-t should be said for the reader's benefit that the chorus all had pistols which they were very eager to brandish at the slightest provocation, rendering Rigoletto's ([Michael Mayes](/scene/people/michael-mayes/)) later cries of "Assassini" as tinged with irony as anything.
+> Chacón-Cruz is as fleet-footed as he is vocally nimble. 
 
 This court is no longer a merely treacherous yet cultured Tudor-era gentlemen's club that requires Cromwellian wile to negotiate successfully, but a dystopian fortress of vice malevolent towards everyone within its grasp, especially the females. And Rigoletto hates just about every minute of gratifying the whims of these pretended socialites. (Clearly the Duchess's page - sung by Elena Villalón - has not been through orientation.)
 
@@ -46,7 +46,9 @@ This court is no longer a merely treacherous yet cultured Tudor-era gentlemen's 
 
 </figure>
 
-In this light, the Duke of Mantua (tenor [Arturo Chacón-Cruz](/scene/people/arturo-chacon-cruz/)) was metamorphosed into Il Duce, as we Latin scholars chuckle to ourselves about shared etymologies and bilingual puns. Chacón-Cruz was as fleet-footed as he was vocally nimble, and he invested his attentions wisely towards elucidating the Duke's motivations - motivations which are as much about putting on an impregnable show of bravado for his sycophantic courtiers to maintain the illusion of his cult of personality, as about gratifying his own vapid desires, all while deluding himself that his latest infatuation will actually last this time. “This is something new.”
+In this light, the Duke of Mantua (tenor [Arturo Chacón-Cruz](/scene/people/arturo-chacon-cruz/)) was metamorphosed into Il Duce, as we Latin scholars chuckle to ourselves about shared etymologies and bilingual puns. Chacón-Cruz is as fleet-footed as he is vocally nimble, and he invested his attentions wisely towards elucidating the Duke's motivations - motivations which are as much about putting on an impregnable show of bravado for his sycophantic courtiers to maintain the illusion of his cult of personality, as about gratifying his own vapid desires, all while deluding himself that his latest infatuation will actually last this time. “This is something new.”
+
+> As Mayes interprets him, the jester is very fidgety, his routines a compulsive series of tics that he feels compelled to practice even when nobody else is around.
 
 And the objects of his attention, the jaded yet eager-to-please Countess of Ceprano (Dorothy Gal) among them, know well that not playing along with such games is fatal.
 
