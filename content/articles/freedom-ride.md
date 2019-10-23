@@ -13,14 +13,14 @@ related_articles = ["articles/talking-with-composers-alexina-louie.md", "article
 related_companies = []
 related_people = []
 short_description = "\"I hope that the audience members will see themselves in the characters on stage, that they will be moved and inspired by the stories those characters tell, and will come away reflecting on how those stories relate to our world today.\""
-slug = "freedom-ride"
-title = "Freedom Ride"
+slug = "operatic-journeys-massopera-presents-freedom-ride"
+title = "Operatic journeys: MassOpera presents Freedom Ride"
 youtube_url = ""
 
 +++
 ## What do you think is unique about the structure and aesthetic of _Freedom Ride_?
 
-**Dan Shore**: The storytelling and dramaturgy are actually very traditional, and the musical language tries to reflect the sounds that you would have heard in New Orleans in 1961, with lots of spirituals and gospel and protest songs. And if feels more like a musical from the 1960s than an opera from last week, that’s fine with me.
+**Dan Shore**: The storytelling and dramaturgy are actually very traditional, and the musical language tries to reflect the sounds that you would have heard in New Orleans in 1961, with lots of spirituals and gospel and protest songs. And if feels more like a musical from the 1960s than an opera from last week, that's fine with me.
 
 **Lydiya Yankovskaya**: Dan really understands vocal writing. He uses the voice effectively to portray a variety of characters, driving the action forward with the music and allowing every word to shine through clearly, while remaining unafraid to push the boundaries of what the voice can do.
 
