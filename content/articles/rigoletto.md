@@ -30,7 +30,7 @@ Indeed, as the prelude opened, one saw the chorus stealthily emerge with their a
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571843195/media/2019/10/HGORigoletto2019LynnLane-1_jkzi9z.jpg){{% /md %}}
 
-<figcaption> in Rigoletto, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+<figcaption>The HGO Chorus in HGO's new production of Rigoletto, 2019. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
@@ -42,7 +42,7 @@ This court is no longer a merely treacherous yet cultured Tudor-era gentlemen's 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571843208/media/2019/10/HGORigolettoLynnLane-20_wo7es2.jpg){{% /md %}}
 
-<figcaption> in Rigoletto, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+<figcaption>Dorothy Gal as Countess Ceprano, Daniel Noyola as Count Ceprano, Arturo Chacón-Cruz as Duke of Mantua, and Michael Mayes as Rigoletto in HGO's new production of Rigoletto, 2019. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
@@ -54,7 +54,7 @@ As Rigoletto leaves the party, we see the true depth of his character. As Mayes 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571843220/media/2019/10/HGORigolettoLynnLane-52_k8p5ud.jpg){{% /md %}}
 
-<figcaption> in Rigoletto, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+<figcaption>Arturo Chacón Cruzas (Duke of Mantua) and Mané Galoyanas (Gilda) HGO's new production of Rigoletto, 2019. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
@@ -70,7 +70,7 @@ Given that this production has him bludgeoned and stabbed multiple times before 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571843234/media/2019/10/HGORigolettoLynnLane-136_vkjnoh.jpg){{% /md %}}
 
-<figcaption> in Rigoletto, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+<figcaption> HGO's new production of Rigoletto, 2019. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
@@ -80,7 +80,7 @@ Speaking of cohesion, "Bella figlia d'amore" certainly stood out in this product
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571843249/media/2019/10/HGORigolettoLynnLane-147_qhmew6.jpg){{% /md %}}
 
-<figcaption> in Rigoletto, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+<figcaption> HGO's new production of Rigoletto, 2019. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
@@ -90,9 +90,9 @@ Most devastatingly, in the final duet following the celebrated storm, Gilda is r
 
 It simultaneously prolongs the finality of crossing the void, and making it all the more tragic for Rigoletto to see his daughter nihilistically reduced to flesh and bone due to his thirst for vengeance - a thirst which has gradually evolved through the whole piece, and has not occurred instantaneously upon encountering his daughter disheveled at the Duke's palace.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571843275/media/2019/10/HGORigolettoLynnLane-173_t8xdoe.jpg){{% /md %}}
 
-<figcaption> in Rigoletto, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+<figcaption> HGO's new production of Rigoletto, 2019. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
