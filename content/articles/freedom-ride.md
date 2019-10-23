@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571844326/media/2019/10/sqFreedomRide_xwbyx6.jpg"
-primary_image_credit = "CHECKCAPTION"
+primary_image_credit = "The cast of Freedom Ride at MassOpera, 2019. Photo: Nile Scott Hawver."
 related_articles = ["articles/talking-with-composers-alexina-louie.md", "articles/talking-with-conductors-lidiya-yankovskaya.md"]
 related_companies = []
 related_people = []
@@ -26,7 +26,7 @@ youtube_url = ""
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571844380/media/2019/10/FreedomRide3_tallzs.jpg){{% /md %}}
 
-<figcaption>CHECKCAPTION</figcaption>
+<figcaption>(l-r) Kristen Buabin, Michael Merullo, Tatum Robertson, Todd McNeel, Jr., Melynda Davis, Ezra Joshua Sanders, and Ron Williams, the cast of Freedom Ride at MassOpera, 2019. Photo: Nile Scott Hawver.</figcaption>
 
 </figure>
 
@@ -34,7 +34,7 @@ youtube_url = ""
 
 **LY**: This is a very human story about a young person who is discovering herself and weighing big life choices and their consequences. It is a story anyone can relate to - every day, each of us makes choices that affect our opportunities and impact the world and our loved ones.
 
-**DS**: What I was interested in most of all when I was writing it was personal courage. Not all of us are particularly brave, and not all of us are able to naturally and instinctively do the right and moral thing in the face of grave personal danger. But somehow every single one of those people who took part in the _Freedom Rides_ was able to muster the emotional strength and fortitude to do just that. 
+**DS**: What I was interested in most of all when I was writing it was personal courage. Not all of us are particularly brave, and not all of us are able to naturally and instinctively do the right and moral thing in the face of grave personal danger. But somehow every single one of those people who took part in the _Freedom Rides_ was able to muster the emotional strength and fortitude to do just that.
 
 In the history books and the newspapers and on TV, they are bold and victorious. I wanted to put them onstage scared and unsure and vulnerable, and see what they had to do to become heroes. Because we are also scared and unsure and vulnerable, and we also need to learn how to become heroes. There's a lot of work out there to be done.
 
