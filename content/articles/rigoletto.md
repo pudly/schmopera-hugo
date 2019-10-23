@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "As Rigoletto leaves the party, we see the true depth of his character. As Mulligan interprets him, the jester is very fidgety, his routines a compulsive series of tics that he feels compelled to practice even when nobody else is around, very much the modern laborer trapped in his work. "
-slug = "rigoletto"
-title = "Rigoletto"
+slug = "moral-dilemmas-an-excellent-quartet-hgos-rigoletto"
+title = "Moral dilemmas & an excellent quartet: HGO's Rigoletto"
 youtube_url = ""
 
 +++
@@ -46,7 +46,7 @@ Nicholas Newton's Monterone is perfectly imposing for the underestimated role th
 
 Given that this production has him bludgeoned and stabbed multiple times before our potentate friend unceremoniously fires a pistol into his head, his appearance is all the more stark and martyrish. (To announce the inevitable procession of his coffin, William Guanbo Su's Usher was a suitably ironic and stentorian Voice of Death, his carcere**** being laced with undeniable tones of "accepted euphemistic double-talk.")
 
-With a piece with as many numbers as this, I will restrict myself to a few to highlight a few pertinent points. "Caro nome," easily one of the more stereotyped arias in the repertoire, was very organically shaped by both Galoyan and the orchestra, which Maestro de Souza infused with a very imaginative touch of rubato. Galoyan, it should be said, is quite diminuitive, and her stature contributed to Gilda's overall vulnerability throughout the work. Such freshness was emblematic of just about every number, in my perception, and led to the cohesive theatrical concept hinted at above.
+With a piece with as many numbers as this, I will restrict myself to a few to highlight a few pertinent points. "Caro nome," easily one of the more stereotyped arias in the repertoire, was very organically shaped by both Galoyan and the orchestra, which Maestro de Souza infused with a very imaginative touch of rubato. Galoyan, it should be said, is quite diminutive, and her stature contributed to Gilda's overall vulnerability throughout the work. Such freshness was emblematic of just about every number, in my perception, and led to the cohesive theatrical concept hinted at above.
 
 Speaking of cohesion, "Bella figlia d'amore" certainly stood out in this production, particularly as Maddalena (Zoie Reams), in her sultry sonorousness, shied not from performing her game of seduction with relish. Given this production's take on the Duke's cult of personality being a vehicle for the scoundrel's own amusement, one certainly asks, who is he trying to impress here? (It's not as if anyone is watching, right?) 
 
