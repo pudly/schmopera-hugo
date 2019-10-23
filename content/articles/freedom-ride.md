@@ -44,7 +44,7 @@ In the history books and the newspapers and on TV, they are bold and victorious.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571844396/media/2019/10/FreedomRide1_ukfaix.jpg){{% /md %}}
 
-<figcaption>CHECKCAPTION</figcaption>
+<figcaption>Tatum Robertson for Freedom Ride, MassOpera, 2019. Photo: Nile Scott Hawver.</figcaption>
 
 </figure>
 
@@ -60,7 +60,7 @@ In the history books and the newspapers and on TV, they are bold and victorious.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571844411/media/2019/10/FreedomRide2_p1sg6f.jpg){{% /md %}}
 
-<figcaption>CHECKCAPTION</figcaption>
+<figcaption>The cast of Freedom Ride at MassOpera, 2019. Photo: Nile Scott Hawver.</figcaption>
 
 </figure>
 
