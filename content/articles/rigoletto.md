@@ -7,10 +7,10 @@ draft = true
 image_gallery = []
 postamble = "Houston Grand Opera's [production of _Rigoletto_](https://www.houstongrandopera.org/rigoletto) is onstage through November 1."
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571841877/media/2019/10/sqHGORigolettoLynnLane-2_odgbed.jpg"
+primary_image_credit = "Michael Mayes in the title role of Rigoletto, Houston Grand Opera, 2019. Photo: Lynn Lane."
 related_articles = ["articles/the-price-of-vengeance-rigoletto-at-roh.md", "articles/searching-for-superlatives-locs-suberb-rigoletto.md"]
-related_companies = []
+related_companies = ["scene/companies/houston-grand-opera.md"]
 related_people = ["scene/people/michael-mayes.md"]
 short_description = "As Rigoletto leaves the party, we see the true depth of his character. As Mulligan interprets him, the jester is very fidgety, his routines a compulsive series of tics that he feels compelled to practice even when nobody else is around, very much the modern laborer trapped in his work. "
 slug = "moral-dilemmas-an-excellent-quartet-hgos-rigoletto"
@@ -26,17 +26,35 @@ The production featured imposing Corinthian columns surrounded by many drab buil
 
 Indeed, as the prelude opened, one saw the chorus stealthily emerge with their animal masks, with all their attendant implications of vice and excess. There were certainly enough masks to merit comparison with Classical Theatre Company's concurrent production of _Lysistrata_. One senses the phrase "plausible deniability" is used often in orientation meetings when some new street thug is matriculated into the Mantuan court, complete with portraits of Greco-Roman deities enjoying their cornucopiae and reclining in chariots. Even the depiction of Bacchus was as grim as Caracalla.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption> in Rigoletto, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+
+</figure>
+
 Yet the gangsters have personalities that occasionally can be glimpsed, and one suspects they are the source of numerous epithets: Marullo (Geoffrey Hahn), the chatty one; Ceprano (Daniel Noyola), the morbid one; and Borsa (Richard Trey Smagur), the shameless one. I
 
-t should be said for the reader's benefit that the chorus all had pistols which they were very eager to brandish at the slightest provocation, rendering Rigoletto's ([Brian Mulligan](/scene/people/brian-mulligan/)) later cries of "Assassini" as tinged with irony as anything.
+t should be said for the reader's benefit that the chorus all had pistols which they were very eager to brandish at the slightest provocation, rendering Rigoletto's ([Michael Mayes](/scene/people/michael-mayes/)) later cries of "Assassini" as tinged with irony as anything.
 
 This court is no longer a merely treacherous yet cultured Tudor-era gentlemen's club that requires Cromwellian wile to negotiate successfully, but a dystopian fortress of vice malevolent towards everyone within its grasp, especially the females. And Rigoletto hates just about every minute of gratifying the whims of these pretended socialites. (Clearly the Duchess's page - sung by Elena Villalón - has not been through orientation.)
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption> in Rigoletto, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+
+</figure>
 
 In this light, the Duke of Mantua (tenor Arturo Chacón-Cruz) was metamorphosed into Il Duce, as we Latin scholars chuckle to ourselves about shared etymologies and bilingual puns. Chacón-Cruz was as fleet-footed as he was vocally nimble, and he invested his attentions wisely towards elucidating the Duke's motivations - motivations which are as much about putting on an impregnable show of bravado for his sycophantic courtiers to maintain the illusion of his cult of personality, as about gratifying his own vapid desires, all while deluding himself that his latest infatuation will actually last this time. “This is something new.”
 
 And the objects of his attention, the jaded yet eager-to-please Countess of Ceprano (Dorothy Gal) among them, know well that not playing along with such games is fatal.
 
 As Rigoletto leaves the party, we see the true depth of his character. As Mulligan interprets him, the jester is very fidgety, his routines a compulsive series of tics that he feels compelled to practice even when nobody else is around, very much the modern laborer trapped in his work.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption> in Rigoletto, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+
+</figure>
 
 It takes us a while to see him in a light any different from that bestowed by his meeting with the ominous Sparafucile (David Shipley, whose reptilian lead the violoncelli and contrabasses were very happy to follow in their snarling***): very much a lower-class entertainer, but investing what remains of his soul to protect his daughter, Gilda (Mané Galoyan), from the lascivious and prying eyes of his employer and the world.
 
@@ -46,14 +64,32 @@ Nicholas Newton's Monterone is perfectly imposing for the underestimated role th
 
 Given that this production has him bludgeoned and stabbed multiple times before our potentate friend unceremoniously fires a pistol into his head, his appearance is all the more stark and martyrish. (To announce the inevitable procession of his coffin, William Guanbo Su's Usher was a suitably ironic and stentorian Voice of Death, his carcere**** being laced with undeniable tones of "accepted euphemistic double-talk.")
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption> in Rigoletto, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+
+</figure>
+
 With a piece with as many numbers as this, I will restrict myself to a few to highlight a few pertinent points. "Caro nome," easily one of the more stereotyped arias in the repertoire, was very organically shaped by both Galoyan and the orchestra, which Maestro de Souza infused with a very imaginative touch of rubato. Galoyan, it should be said, is quite diminutive, and her stature contributed to Gilda's overall vulnerability throughout the work. Such freshness was emblematic of just about every number, in my perception, and led to the cohesive theatrical concept hinted at above.
 
 Speaking of cohesion, "Bella figlia d'amore" certainly stood out in this production, particularly as Maddalena (Zoie Reams), in her sultry sonorousness, shied not from performing her game of seduction with relish. Given this production's take on the Duke's cult of personality being a vehicle for the scoundrel's own amusement, one certainly asks, who is he trying to impress here? (It's not as if anyone is watching, right?)
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption> in Rigoletto, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+
+</figure>
 
 Irony aside, I certainly enjoyed this classic quartet, as the attentive accompaniment enabled my attention to go to each character's perfectly delineated layer at will, as I lamented to myself the scarcity of such contrapuntally deft ensembles in modern operas.
 
 Most devastatingly, in the final duet following the celebrated storm, Gilda is represented by a dummy wrapped in Sparafucile's famous sack, so that in this production's final realistic touch, Gilda is sung by a representation of her spirit which slowly traverses the stage as if on an invisible, tortoise-paced conveyor belt.
 
 It simultaneously prolongs the finality of crossing the void, and making it all the more tragic for Rigoletto to see his daughter nihilistically reduced to flesh and bone due to his thirst for vengeance - a thirst which has gradually evolved through the whole piece, and has not occurred instantaneously upon encountering his daughter disheveled at the Duke's palace.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption> in Rigoletto, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
+
+</figure>
 
 And so this opera goes full circle, with numerous connected images of society forcing an oppressed character into the moral dilemma between vengeance and mercy. For as this opera's production hopes we do not forget, the quest for justice is eternal, and depends on persons of good will having the patience and endurance to seek it out actively, yet temperately.
