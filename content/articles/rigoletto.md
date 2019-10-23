@@ -28,7 +28,7 @@ The production featured imposing Corinthian columns surrounded by many drab buil
 
 Indeed, as the prelude opened, one saw the chorus stealthily emerge with their animal masks, with all their attendant implications of vice and excess. There were certainly enough masks to merit comparison with Classical Theatre Company's concurrent production of [_Lysistrata_](https://classicaltheatre.org/production/lysistrata/).
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571843195/media/2019/10/HGORigoletto2019LynnLane-1_jkzi9z.jpg){{% /md %}}
 
 <figcaption> in Rigoletto, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
@@ -40,7 +40,7 @@ t should be said for the reader's benefit that the chorus all had pistols which 
 
 This court is no longer a merely treacherous yet cultured Tudor-era gentlemen's club that requires Cromwellian wile to negotiate successfully, but a dystopian fortress of vice malevolent towards everyone within its grasp, especially the females. And Rigoletto hates just about every minute of gratifying the whims of these pretended socialites. (Clearly the Duchess's page - sung by Elena Villalón - has not been through orientation.)
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571843208/media/2019/10/HGORigolettoLynnLane-20_wo7es2.jpg){{% /md %}}
 
 <figcaption> in Rigoletto, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
@@ -52,7 +52,7 @@ And the objects of his attention, the jaded yet eager-to-please Countess of Cepr
 
 As Rigoletto leaves the party, we see the true depth of his character. As Mayes interprets him, the jester is very fidgety, his routines a compulsive series of tics that he feels compelled to practice even when nobody else is around, very much the modern laborer trapped in his work.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571843220/media/2019/10/HGORigolettoLynnLane-52_k8p5ud.jpg){{% /md %}}
 
 <figcaption> in Rigoletto, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
@@ -68,7 +68,7 @@ Nicholas Newton's Monterone is perfectly imposing for the underestimated role th
 
 Given that this production has him bludgeoned and stabbed multiple times before our potentate friend unceremoniously fires a pistol into his head, his appearance is all the more stark and martyrish.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571843234/media/2019/10/HGORigolettoLynnLane-136_vkjnoh.jpg){{% /md %}}
 
 <figcaption> in Rigoletto, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
@@ -78,7 +78,7 @@ With a piece with as many numbers as this, I will restrict myself to a few to hi
 
 Speaking of cohesion, "Bella figlia d'amore" certainly stood out in this production, particularly as Maddalena ([Zoie Reams](/scene/people/zoie-reams/)), in her sultry sonorousness, shied not from performing her game of seduction with relish. Given this production's take on the Duke's cult of personality being a vehicle for the scoundrel's own amusement, one certainly asks, who is he trying to impress here? (It's not as if anyone is watching, right?)
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571843249/media/2019/10/HGORigolettoLynnLane-147_qhmew6.jpg){{% /md %}}
 
 <figcaption> in Rigoletto, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>
 
