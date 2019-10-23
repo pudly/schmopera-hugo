@@ -26,7 +26,7 @@ Certainly [Houston Grand Opera](/scene/companies/houston-grand-opera/)'s product
 
 The production featured imposing Corinthian columns surrounded by many drab buildings in shades of gray, and set in a rather updated 1920s environment reminiscent of fascist Italy, conducive to the deadening of the soul. Quite intentionally naturalistic and dispensing with much of the plot elements requiring suspension of disbelief, it contributed with Maestro Jordan de Souza's organic shaping of the score to render the whole evening as visually and audibly shocking to me as an audience in 1851 Venice would have perceived it.
 
-Indeed, as the prelude opened, one saw the chorus stealthily emerge with their animal masks, with all their attendant implications of vice and excess. There were certainly enough masks to merit comparison with Classical Theatre Company's concurrent production of _Lysistrata_. One senses the phrase "plausible deniability" is used often in orientation meetings when some new street thug is matriculated into the Mantuan court, complete with portraits of Greco-Roman deities enjoying their cornucopiae and reclining in chariots. Even the depiction of Bacchus was as grim as Caracalla.
+Indeed, as the prelude opened, one saw the chorus stealthily emerge with their animal masks, with all their attendant implications of vice and excess. There were certainly enough masks to merit comparison with Classical Theatre Company's concurrent production of [_Lysistrata_](https://classicaltheatre.org/production/lysistrata/).
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
@@ -46,7 +46,7 @@ This court is no longer a merely treacherous yet cultured Tudor-era gentlemen's 
 
 </figure>
 
-In this light, the Duke of Mantua (tenor Arturo Chacón-Cruz) was metamorphosed into Il Duce, as we Latin scholars chuckle to ourselves about shared etymologies and bilingual puns. Chacón-Cruz was as fleet-footed as he was vocally nimble, and he invested his attentions wisely towards elucidating the Duke's motivations - motivations which are as much about putting on an impregnable show of bravado for his sycophantic courtiers to maintain the illusion of his cult of personality, as about gratifying his own vapid desires, all while deluding himself that his latest infatuation will actually last this time. “This is something new.”
+In this light, the Duke of Mantua (tenor [Arturo Chacón-Cruz](/scene/people/arturo-chacon-cruz/)) was metamorphosed into Il Duce, as we Latin scholars chuckle to ourselves about shared etymologies and bilingual puns. Chacón-Cruz was as fleet-footed as he was vocally nimble, and he invested his attentions wisely towards elucidating the Duke's motivations - motivations which are as much about putting on an impregnable show of bravado for his sycophantic courtiers to maintain the illusion of his cult of personality, as about gratifying his own vapid desires, all while deluding himself that his latest infatuation will actually last this time. “This is something new.”
 
 And the objects of his attention, the jaded yet eager-to-please Countess of Ceprano (Dorothy Gal) among them, know well that not playing along with such games is fatal.
 
