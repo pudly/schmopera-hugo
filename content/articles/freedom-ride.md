@@ -6,7 +6,7 @@ disclaimer = ""
 draft = true
 image_gallery = []
 postamble = "MassOpera's presentation of _Freedom Ride_ happens on November 3, 3pm, at The Strand Theatre in Dorchester, MA."
-preamble = "On its way to a 2020 world premiere at Chicago Opera Theatre, [Dan Shore's _Freedom Ride_](http://massopera.org/freedom-ride/) will be part of MassOpera's latest New Opera Workshop, November 3 at the Strand Theatre in Dorchester, MA. Set in 1961, _Freedom Ride_ centres on Sylvie Davenport, a young student drawn into the Civil Rights Movement.\n\nWe spoke with Shore and conductor/COT Music Director Lidiya Yanksovskaya, about this MassOpera performance and the larger creation process of new operas like _Freedom Ride_."
+preamble = "On its way to a 2020 world premiere at Chicago Opera Theatre, [Dan Shore's _Freedom Ride_](http://massopera.org/freedom-ride/) will be part of MassOpera's latest New Opera Workshop, November 3 at the Strand Theatre in Dorchester, MA.   Named for the [1961 Freedom Riders](https://en.wikipedia.org/wiki/Freedom_Riders) of the segregated American south, the opera centres on one young student who is pulled into the Civil Rights Movement.\n\nWe spoke with Shore and conductor/COT Music Director Lidiya Yanksovskaya, about this MassOpera performance and the larger creation process of new operas like _Freedom Ride_."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571844326/media/2019/10/sqFreedomRide_xwbyx6.jpg"
 primary_image_credit = "The cast of Freedom Ride at MassOpera, 2019. Photo: Nile Scott Hawver."
 related_articles = ["articles/talking-with-composers-alexina-louie.md", "articles/talking-with-conductors-lidiya-yankovskaya.md"]
@@ -34,7 +34,7 @@ youtube_url = ""
 
 **LY**: This is a very human story about a young person who is discovering herself and weighing big life choices and their consequences. It is a story anyone can relate to - every day, each of us makes choices that affect our opportunities and impact the world and our loved ones.
 
-**DS**: What I was interested in most of all when I was writing it was personal courage. Not all of us are particularly brave, and not all of us are able to naturally and instinctively do the right and moral thing in the face of grave personal danger. But somehow every single one of those people who took part in the _Freedom Rides_ was able to muster the emotional strength and fortitude to do just that.
+**DS**: What I was interested in most of all when I was writing it was personal courage. Not all of us are particularly brave, and not all of us are able to naturally and instinctively do the right and moral thing in the face of grave personal danger. But somehow every single one of those people who took part in the Freedom Rides was able to muster the emotional strength and fortitude to do just that.
 
 In the history books and the newspapers and on TV, they are bold and victorious. I wanted to put them onstage scared and unsure and vulnerable, and see what they had to do to become heroes. Because we are also scared and unsure and vulnerable, and we also need to learn how to become heroes. There's a lot of work out there to be done.
 
