@@ -22,6 +22,8 @@ When one goes to the opera today for a season-opening warhorse such as Giuseppe 
 
 Certainly [Houston Grand Opera](/scene/companies/houston-grand-opera/)'s production of this ably provides this in spades for many persons under the impression, in their wisdom, that they know this piece like the back of their hands. And yet the whole evening provided a very striking and adventurous experience for those who sought a fresh take on what guidebooks recommend as an easily digestible first opera for newcomers to the art form. After all, "_Rigoletto_ is a short opera," as anyone who has watched the PBS show _Arthur_ can relate.
 
+> Rigoletto hates just about every minute of gratifying the whims of these pretended socialites.
+
 The production featured imposing Corinthian columns surrounded by many drab buildings in shades of gray, and set in a rather updated 1920s environment reminiscent of fascist Italy, conducive to the deadening of the soul. Quite intentionally naturalistic and dispensing with much of the plot elements requiring suspension of disbelief, it contributed with Maestro Jordan de Souza's organic shaping of the score to render the whole evening as visually and audibly shocking to me as an audience in 1851 Venice would have perceived it.
 
 Indeed, as the prelude opened, one saw the chorus stealthily emerge with their animal masks, with all their attendant implications of vice and excess. There were certainly enough masks to merit comparison with Classical Theatre Company's concurrent production of _Lysistrata_. One senses the phrase "plausible deniability" is used often in orientation meetings when some new street thug is matriculated into the Mantuan court, complete with portraits of Greco-Roman deities enjoying their cornucopiae and reclining in chariots. Even the depiction of Bacchus was as grim as Caracalla.
@@ -56,13 +58,15 @@ As Rigoletto leaves the party, we see the true depth of his character. As Mullig
 
 </figure>
 
-It takes us a while to see him in a light any different from that bestowed by his meeting with the ominous Sparafucile (David Shipley, whose reptilian lead the violoncelli and contrabasses were very happy to follow in their snarling***): very much a lower-class entertainer, but investing what remains of his soul to protect his daughter, Gilda (Mané Galoyan), from the lascivious and prying eyes of his employer and the world.
+It takes us a while to see him in a light any different from that bestowed by his meeting with the ominous Sparafucile (David Shipley): very much a lower-class entertainer, but investing what remains of his soul to protect his daughter, Gilda (Mané Galoyan), from the lascivious and prying eyes of his employer and the world.
 
 Too bad that his slatternly housekeeper, the disinterested Giovanna (Lindsay Kate Brown), knows that she can get more for her services and is therefore easily tempted by the Duke's bribes, which she clearly has experience in accepting.
 
+> As this opera's production hopes we do not forget, the quest for justice is eternal.
+
 Nicholas Newton's Monterone is perfectly imposing for the underestimated role that his character plays in accomplishing a task that he knows to be futile. Is denouncing a den of vice into which your daughter has somehow fallen and pronouncing convincing maledictions ever an easy task? Particularly when your model in Victor Hugo's original play, _Le roi s'amuse_, is by far less sympathetic.
 
-Given that this production has him bludgeoned and stabbed multiple times before our potentate friend unceremoniously fires a pistol into his head, his appearance is all the more stark and martyrish. (To announce the inevitable procession of his coffin, William Guanbo Su's Usher was a suitably ironic and stentorian Voice of Death, his carcere**** being laced with undeniable tones of "accepted euphemistic double-talk.")
+Given that this production has him bludgeoned and stabbed multiple times before our potentate friend unceremoniously fires a pistol into his head, his appearance is all the more stark and martyrish.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
