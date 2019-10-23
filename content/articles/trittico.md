@@ -83,7 +83,7 @@ Peter Monaghan as Betto di Signa (_Schicchi_) is a hilarious buffoon. Played as 
 
 In the very small role of the cobbler (_Schicchi_) is Dale Friesen. Despite only being on stage for a few minutes, he was vocally incredibly powerful, even hindered by a mask that hid most of his face. I loved his performance.
 
-The difficult score was handled expertly by the POV orchestra under the baton of Timothy Vernon, beautifully underscoring the action on stage with subtlety and great technical musicality.
+The difficult score was handled expertly by the Victoria Symphony under the baton of Timothy Vernon, beautifully underscoring the action on stage with subtlety and great technical musicality.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571682524/media/2019/10/IlTrittico_0334_nfnmxt.jpg){{% /md %}}
 
