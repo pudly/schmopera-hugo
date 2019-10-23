@@ -5,20 +5,20 @@ date = "2019-10-22T04:00:00+00:00"
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "Houston Grand Opera's [production of _Rigoletto_](https://www.houstongrandopera.org/rigoletto) is onstage through November 1."
 preamble = ""
 primary_image = ""
 primary_image_credit = ""
-related_articles = []
+related_articles = ["articles/the-price-of-vengeance-rigoletto-at-roh.md", "articles/searching-for-superlatives-locs-suberb-rigoletto.md"]
 related_companies = []
-related_people = []
+related_people = ["scene/people/michael-mayes.md"]
 short_description = "As Rigoletto leaves the party, we see the true depth of his character. As Mulligan interprets him, the jester is very fidgety, his routines a compulsive series of tics that he feels compelled to practice even when nobody else is around, very much the modern laborer trapped in his work. "
 slug = "moral-dilemmas-an-excellent-quartet-hgos-rigoletto"
 title = "Moral dilemmas & an excellent quartet: HGO's Rigoletto"
 youtube_url = ""
 
 +++
-When one goes to the opera today for a season-opening warhorse such as Giuseppe Verdi's _Rigoletto_, one senses that the motivation is often for the pleasure of listening to something with many comfortably familiar moments.
+When one goes to the opera today for a season-opening warhorse such as Giuseppe Verdi's [_Rigoletto_](https://www.houstongrandopera.org/rigoletto), one senses that the motivation is often for the pleasure of listening to something with many comfortably familiar moments.
 
 Certainly [Houston Grand Opera](/scene/companies/houston-grand-opera/)'s production of this ably provides this in spades for many persons under the impression, in their wisdom, that they know this piece like the back of their hands. And yet the whole evening provided a very striking and adventurous experience for those who sought a fresh take on what guidebooks recommend as an easily digestible first opera for newcomers to the art form. After all, "_Rigoletto_ is a short opera," as anyone who has watched the PBS show _Arthur_ can relate.
 
@@ -38,22 +38,22 @@ And the objects of his attention, the jaded yet eager-to-please Countess of Cepr
 
 As Rigoletto leaves the party, we see the true depth of his character. As Mulligan interprets him, the jester is very fidgety, his routines a compulsive series of tics that he feels compelled to practice even when nobody else is around, very much the modern laborer trapped in his work.
 
-It takes us a while to see him in a light any different from that bestowed by his meeting with the ominous Sparafucile (David Shipley, whose reptilian lead the violoncelli and contrabasses were very happy to follow in their snarling***): very much a lower-class entertainer, but investing what remains of his soul to protect his daughter, Gilda (Mané Galoyan), from the lascivious and prying eyes of his employer and the world. 
+It takes us a while to see him in a light any different from that bestowed by his meeting with the ominous Sparafucile (David Shipley, whose reptilian lead the violoncelli and contrabasses were very happy to follow in their snarling***): very much a lower-class entertainer, but investing what remains of his soul to protect his daughter, Gilda (Mané Galoyan), from the lascivious and prying eyes of his employer and the world.
 
 Too bad that his slatternly housekeeper, the disinterested Giovanna (Lindsay Kate Brown), knows that she can get more for her services and is therefore easily tempted by the Duke's bribes, which she clearly has experience in accepting.
 
-Nicholas Newton's Monterone is perfectly imposing for the underestimated role that his character plays in accomplishing a task that he knows to be futile. Is denouncing a den of vice into which your daughter has somehow fallen and pronouncing convincing maledictions ever an easy task? Particularly when your model in Victor Hugo's original play, _Le roi s'amuse_, is by far less sympathetic. 
+Nicholas Newton's Monterone is perfectly imposing for the underestimated role that his character plays in accomplishing a task that he knows to be futile. Is denouncing a den of vice into which your daughter has somehow fallen and pronouncing convincing maledictions ever an easy task? Particularly when your model in Victor Hugo's original play, _Le roi s'amuse_, is by far less sympathetic.
 
 Given that this production has him bludgeoned and stabbed multiple times before our potentate friend unceremoniously fires a pistol into his head, his appearance is all the more stark and martyrish. (To announce the inevitable procession of his coffin, William Guanbo Su's Usher was a suitably ironic and stentorian Voice of Death, his carcere**** being laced with undeniable tones of "accepted euphemistic double-talk.")
 
 With a piece with as many numbers as this, I will restrict myself to a few to highlight a few pertinent points. "Caro nome," easily one of the more stereotyped arias in the repertoire, was very organically shaped by both Galoyan and the orchestra, which Maestro de Souza infused with a very imaginative touch of rubato. Galoyan, it should be said, is quite diminutive, and her stature contributed to Gilda's overall vulnerability throughout the work. Such freshness was emblematic of just about every number, in my perception, and led to the cohesive theatrical concept hinted at above.
 
-Speaking of cohesion, "Bella figlia d'amore" certainly stood out in this production, particularly as Maddalena (Zoie Reams), in her sultry sonorousness, shied not from performing her game of seduction with relish. Given this production's take on the Duke's cult of personality being a vehicle for the scoundrel's own amusement, one certainly asks, who is he trying to impress here? (It's not as if anyone is watching, right?) 
+Speaking of cohesion, "Bella figlia d'amore" certainly stood out in this production, particularly as Maddalena (Zoie Reams), in her sultry sonorousness, shied not from performing her game of seduction with relish. Given this production's take on the Duke's cult of personality being a vehicle for the scoundrel's own amusement, one certainly asks, who is he trying to impress here? (It's not as if anyone is watching, right?)
 
 Irony aside, I certainly enjoyed this classic quartet, as the attentive accompaniment enabled my attention to go to each character's perfectly delineated layer at will, as I lamented to myself the scarcity of such contrapuntally deft ensembles in modern operas.
 
-Most devastatingly, in the final duet following the celebrated storm, Gilda is represented by a dummy wrapped in Sparafucile's famous sack, so that in this production's final realistic touch, Gilda is sung by a representation of her spirit which slowly traverses the stage as if on an invisible, tortoise-paced conveyor belt. 
+Most devastatingly, in the final duet following the celebrated storm, Gilda is represented by a dummy wrapped in Sparafucile's famous sack, so that in this production's final realistic touch, Gilda is sung by a representation of her spirit which slowly traverses the stage as if on an invisible, tortoise-paced conveyor belt.
 
-It simultaneously prolongs the finality of crossing the void, and making it all the more tragic for Rigoletto to see his daughter nihilistically reduced to flesh and bone due to his thirst for vengeance - a thirst which has gradually evolved through the whole piece, and has not occurred instantaneously upon encountering his daughter disheveled at the Duke's palace. 
+It simultaneously prolongs the finality of crossing the void, and making it all the more tragic for Rigoletto to see his daughter nihilistically reduced to flesh and bone due to his thirst for vengeance - a thirst which has gradually evolved through the whole piece, and has not occurred instantaneously upon encountering his daughter disheveled at the Duke's palace.
 
 And so this opera goes full circle, with numerous connected images of society forcing an oppressed character into the moral dilemma between vengeance and mercy. For as this opera's production hopes we do not forget, the quest for justice is eternal, and depends on persons of good will having the patience and endurance to seek it out actively, yet temperately.
