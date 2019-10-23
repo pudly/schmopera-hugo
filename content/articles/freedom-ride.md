@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Interview"
 date = "2019-10-23T04:00:00+00:00"
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "MassOpera's presentation of [_Freedom Ride_](http://massopera.org/freedom-ride/) happens on November 3, 3pm, at The Strand Theatre in Dorchester, MA."
 preamble = "On its way to a 2020 world premiere at Chicago Opera Theatre, [Dan Shore's _Freedom Ride_](http://massopera.org/freedom-ride/) will be part of MassOpera's latest New Opera Workshop on **November 3**. \n\nNamed for the [1961 Freedom Riders](https://en.wikipedia.org/wiki/Freedom_Riders) of the segregated American south, the opera centres on one young student who is pulled into the Civil Rights Movement. We spoke with Shore and conductor/COT Music Director Lidiya Yanksovskaya, about this MassOpera performance and the larger creation process of new operas like _Freedom Ride_."
