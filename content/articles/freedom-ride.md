@@ -26,7 +26,7 @@ youtube_url = ""
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571844380/media/2019/10/FreedomRide3_tallzs.jpg){{% /md %}}
 
-CHECKCAPTION
+<figcaption>CHECKCAPTION</figcaption>
 
 </figure>
 
