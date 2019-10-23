@@ -80,7 +80,7 @@ Speaking of cohesion, "Bella figlia d'amore" certainly stood out in this product
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571843249/media/2019/10/HGORigolettoLynnLane-147_qhmew6.jpg){{% /md %}}
 
-<figcaption> HGO's new production of Rigoletto, 2019. Photo: Lynn Lane.</figcaption>
+<figcaption>Michael Mayes (Rigoletto) and Mané Galoyan (Gilda) HGO's new production of Rigoletto, 2019. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
@@ -92,7 +92,7 @@ It simultaneously prolongs the finality of crossing the void, and making it all 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571843275/media/2019/10/HGORigolettoLynnLane-173_t8xdoe.jpg){{% /md %}}
 
-<figcaption> HGO's new production of Rigoletto, 2019. Photo: Lynn Lane.</figcaption>
+<figcaption>Arturo Chacón-Cruz (Duke of Mantua) and the HGO Chorus in HGO's new production of Rigoletto, 2019. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
