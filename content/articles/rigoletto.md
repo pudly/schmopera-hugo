@@ -11,7 +11,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571841877/m
 primary_image_credit = "Michael Mayes in the title role of Rigoletto, Houston Grand Opera, 2019. Photo: Lynn Lane."
 related_articles = ["articles/the-price-of-vengeance-rigoletto-at-roh.md", "articles/searching-for-superlatives-locs-suberb-rigoletto.md"]
 related_companies = ["scene/companies/houston-grand-opera.md"]
-related_people = ["scene/people/david-shipley.md", "scene/people/michael-mayes.md"]
+related_people = ["scene/people/zoie-reams.md", "scene/people/david-shipley.md", "scene/people/michael-mayes.md"]
 short_description = "As Rigoletto leaves the party, we see the true depth of his character. As Mulligan interprets him, the jester is very fidgety, his routines a compulsive series of tics that he feels compelled to practice even when nobody else is around, very much the modern laborer trapped in his work. "
 slug = "moral-dilemmas-an-excellent-quartet-hgos-rigoletto"
 title = "Moral dilemmas & an excellent quartet: HGO's Rigoletto"
@@ -76,7 +76,7 @@ Given that this production has him bludgeoned and stabbed multiple times before 
 
 With a piece with as many numbers as this, I will restrict myself to a few to highlight a few pertinent points. "Caro nome," easily one of the more stereotyped arias in the repertoire, was very organically shaped by both Galoyan and the orchestra, which Maestro de Souza infused with a very imaginative touch of rubato. Galoyan, it should be said, is quite diminutive, and her stature contributed to Gilda's overall vulnerability throughout the work. Such freshness was emblematic of just about every number, in my perception, and led to the cohesive theatrical concept hinted at above.
 
-Speaking of cohesion, "Bella figlia d'amore" certainly stood out in this production, particularly as Maddalena (Zoie Reams), in her sultry sonorousness, shied not from performing her game of seduction with relish. Given this production's take on the Duke's cult of personality being a vehicle for the scoundrel's own amusement, one certainly asks, who is he trying to impress here? (It's not as if anyone is watching, right?)
+Speaking of cohesion, "Bella figlia d'amore" certainly stood out in this production, particularly as Maddalena ([Zoie Reams](/scene/people/zoie-reams/)), in her sultry sonorousness, shied not from performing her game of seduction with relish. Given this production's take on the Duke's cult of personality being a vehicle for the scoundrel's own amusement, one certainly asks, who is he trying to impress here? (It's not as if anyone is watching, right?)
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
