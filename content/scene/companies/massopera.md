@@ -1,0 +1,35 @@
++++
+address = "27 Gerrish St., Brighton, MA 02135"
+draft = true
+email = "info@massopera.org"
+primary_image = ""
+primary_image_credit = ""
+related_people = []
+slug = "massopera"
+title = "MassOpera"
+type_of_company = "Opera Company"
+website = "http://massopera.org/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/massopera/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/massoperaboston"
+
++++
+### OUR MISSION
+
+MassOpera cultivates experiences for artists and audiences that challenge the status quo and reflect our diverse community
+
+### GUIDING PRINCIPLES
+
+* To produce the highest quality artistic product possible
+* To ensure singers and all artists are compensated for their work and technical skills
+* To produce at least one fully staged opera OR musical with orchestra per season
+* To ensure gender parity both on-stage and off
+* To educate singers to be great artists and great business people
+* To engage the public both as audience members and life-long learners
+* To support new work and tell new stories
+* To ensure representation of all kinds of races, religions, genders and gender identities, sexual orientations, cultures, and body types on stage both with the characters we present and the artists who play them
