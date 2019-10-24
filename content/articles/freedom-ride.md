@@ -73,6 +73,8 @@ The MassOpera workshop will be the last stop prior to the Chicago Opera Theatre 
 
 ## What do you hope audiences will take away from these performances?
 
+**TT**: A chance to examine where we've been as a people/Americans; how far we've come in race relations and racial equality and justice, and how far we have yet to go in achieving balance, fairness and respect one's differences; that together we can aspire to so much human fulfillment and dignity; that dividing us creates chaos, fear and misunderstanding.
+
 **DS**: I hope that people who have never been to an opera before will decide that they want to come back and see another one. I hope that people who don't know that much about the Civil Rights Movement will realize how profound and far-reaching that struggle for equality has been and how much has been sacrificed to try to make this this country a better place. And I hope that everyone - especially young people - will see that they really do have the power to change the world by standing up for what they believe in.
 
 **LY**: I hope that the audience members will see themselves in the characters on stage, that they will be moved and inspired by the stories those characters tell, and will come away reflecting on how those stories relate to our world today.
