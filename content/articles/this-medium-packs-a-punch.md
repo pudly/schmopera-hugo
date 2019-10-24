@@ -7,7 +7,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571861730/media/2019/10/sqOperaFrightNightIMG_0151_olhk19.jpg"
-primary_image_credit = "Opera Fright Night, Flipside Opera & The Little Opera Company, 2019."
+primary_image_credit = "Opera Fright Night, Flipside Opera & The Little Opera Company, 2019. Photo: Heather Milne."
 related_articles = ["articles/6-operas-to-creep-you-out.md", "articles/the-medium-opera-as-film-noir.md", "articles/in-review-rocking-horse-winner.md"]
 related_companies = ["scene/companies/flipside-opera.md"]
 related_people = []
@@ -23,7 +23,7 @@ Being a huge fan of both [Little Opera Company](/scene/companies/little-opera-co
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571861784/media/2019/10/OperaFrightNightIMG_9807_vuaz79.jpg){{% /md %}}
 
-<figcaption>Opera Fright Night, Flipside Opera & The Little Opera Company, 2019.</figcaption>
+<figcaption>Opera Fright Night, Flipside Opera & The Little Opera Company, 2019. Photo: Heather Milne.</figcaption>
 
 </figure>
 
@@ -33,7 +33,7 @@ Things take a harrowing turn quickly however, as it soon becomes apparent that B
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571861863/media/2019/10/OperaFrightNightIMG_0172_gjvk20.jpg){{% /md %}}
 
-<figcaption>Opera Fright Night, Flipside Opera & The Little Opera Company, 2019.</figcaption>
+<figcaption>Opera Fright Night, Flipside Opera & The Little Opera Company, 2019. Photo: Heather Milne.</figcaption>
 
 </figure>
 
@@ -43,7 +43,7 @@ To see this opera in such an intimate space as the Salle Antoine-Gaborieau at th
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571861873/media/2019/10/OperaFrightNightIMG_9583_ampogq.jpg){{% /md %}}
 
-<figcaption>Opera Fright Night, Flipside Opera & The Little Opera Company, 2019.</figcaption>
+<figcaption>Opera Fright Night, Flipside Opera & The Little Opera Company, 2019. Photo: Heather Milne.</figcaption>
 
 </figure>
 
@@ -53,7 +53,7 @@ The efficacy of the intimate venue was brought to the fore many times, but memor
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571861997/media/2019/10/OperaFrightNightIMG_9679_yf38rt.jpg){{% /md %}}
 
-<figcaption>Opera Fright Night, Flipside Opera & The Little Opera Company, 2019.</figcaption>
+<figcaption>Opera Fright Night, Flipside Opera & The Little Opera Company, 2019. Photo: Heather Milne.</figcaption>
 
 </figure>
 
@@ -63,7 +63,7 @@ Donnalynn Grills was absolutely devastating at Baba/Madame Flora. Grills left it
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571862008/media/2019/10/OperaFrightNightIMG_9980_bsz5yx.jpg){{% /md %}}
 
-<figcaption>Opera Fright Night, Flipside Opera & The Little Opera Company, 2019.</figcaption>
+<figcaption>Opera Fright Night, Flipside Opera & The Little Opera Company, 2019. Photo: Heather Milne.</figcaption>
 
 </figure>
 
