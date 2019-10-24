@@ -1,8 +1,7 @@
 +++
 address = "27 Gerrish St., Brighton, MA 02135"
-draft = true
 email = "info@massopera.org"
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571943210/media/2019/10/Logo-MassOpera_idmdmh.png"
 primary_image_credit = ""
 related_people = []
 slug = "massopera"
