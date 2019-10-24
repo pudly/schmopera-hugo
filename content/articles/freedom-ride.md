@@ -21,6 +21,8 @@ youtube_url = ""
 
 **Dan Shore**: The storytelling and dramaturgy are actually very traditional, and the musical language tries to reflect the sounds that you would have heard in New Orleans in 1961, with lots of spirituals and gospel and protest songs. And if feels more like a musical from the 1960s than an opera from last week, that's fine with me.
 
+**Tazewell Thompson**: It tells a true story using fictional characters. It presents what is believably perhaps one of many dozens of personal stories that occurred during the summer of 1961 in relation to desegregating the Greyhound and Trailways bus system in the Deep South.
+
 **Lydiya Yankovskaya**: Dan really understands vocal writing. He uses the voice effectively to portray a variety of characters, driving the action forward with the music and allowing every word to shine through clearly, while remaining unafraid to push the boundaries of what the voice can do.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571844380/media/2019/10/FreedomRide3_tallzs.jpg){{% /md %}}
@@ -30,6 +32,8 @@ youtube_url = ""
 </figure>
 
 ## What do you think is the opera's message?
+
+**TT**: The work of America's original sin: Race prejudice is a continuous experience and experiment and a constant dark shadow/cloud that is not entirely part of the past; it continues today in our very divisive present. Optimistically, we find forces at work, like during the Civil Rights Era, that seek to eradicate racial strife and bring us close to together, as the black and white Freedom Riders attempted to accomplish in the summer of 1961.
 
 **LY**: This is a very human story about a young person who is discovering herself and weighing big life choices and their consequences. It is a story anyone can relate to - every day, each of us makes choices that affect our opportunities and impact the world and our loved ones.
 
@@ -56,6 +60,10 @@ In the history books and the newspapers and on TV, they are bold and victorious.
 **LY**: We are moving toward the end of the process, and are now finessing some finer dramaturgical points. With this workshop, we're focusing primarily on the way the orchestra interacts with the singers and addressing any orchestrating challenges.
 
 **DS**: This is very near the end of a process that has taken me eight and a half years. So a lot of this music has been heard before, in New Orleans, in Mexico City, in New York, and here in Boston, although it has been tinkered with an awful lot over the years. But some of it is new, and you'll be hearing it for the very first time. And the orchestrations are brand new, and we’ll all be hearing them for the very first time together!
+
+**TT**: MassOpera will be the most important and impactful workshop for _Freedom Ride_; the penultimate and most insightful. It will be presented in the beautiful Strand Theater. A full orchestra (not just piano accompaniment), the finest local voices of all ages, concert style with suggested staging. 
+
+The MassOpera workshop will be the last stop prior to the Chicago Opera Theatre world premiere in February, and it is extraordinarily significant. Composer and librettist, conductor and director will have a final opportunity to hear and see all the pieces pulled together through our own senses and through the ears and eyes of the audience. I am personally grateful for the opportunity MassOpera has afforded me to participate in this necessary workshop.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571844411/media/2019/10/FreedomRide2_p1sg6f.jpg){{% /md %}}
 
