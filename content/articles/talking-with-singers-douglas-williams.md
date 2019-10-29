@@ -34,7 +34,7 @@ It's not that I would defend all of his actions if Don Giovanni were a real pers
 
 That's the power of the anti-hero. To be enthralled and conflicted by someone who is so sexy and so corrupt. It's easy to do a production of Don Giovanni the monster. It's harder but a more incisive portrayal, I think, to do Don Giovanni the rogue that we are desperate to be, or to be with, even if all along hoping to see punished.
 
-## How do you balance a "dramma giocosa" about Don Juan, in post-#metoo 2019?
+## How do you balance a "dramma giocoso" about Don Juan, in post-#metoo 2019?
 
 The #metoo movement is a sea of change in how we openly talk about power and sex in the career. It has certainly already brought about shocking changes in the opera world and caused opera companies and stage unions to urgently address the problem of sexual intimidation in the work place. 
 
@@ -46,7 +46,7 @@ Don Giovanni isn't leveraging career possibilities, undesired incentives, or eve
 
 For me, the surreal dinner finale where the "stone guest" comes to ask for the Don to repent his ways is like a nightmare, where all of the shame that he has had to repress his entire life in order to live exactly as he pleases arrives literally at his door, personified.
 
-Now about that "giocosa"… For me there is always humor in seeing people act very confidently or righteously but in fact have no idea what they want. And this opera is loaded with such personalities.
+Now about that "giocoso"… For me there is always humor in seeing people act very confidently or righteously but in fact have no idea what they want. And this opera is loaded with such personalities.
 
 \- What do you know now about the singing career that you wish you knew 10 years ago?
 
