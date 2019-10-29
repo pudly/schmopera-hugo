@@ -5,7 +5,7 @@ date = "2019-10-23T04:00:00+00:00"
 disclaimer = ""
 image_gallery = []
 postamble = "MassOpera's presentation of [_Freedom Ride_](http://massopera.org/freedom-ride/) happens on November 3, 3pm, at The Strand Theatre in Dorchester, MA."
-preamble = "On its way to a 2020 world premiere at Chicago Opera Theatre, [Dan Shore's _Freedom Ride_](http://massopera.org/freedom-ride/) will be part of MassOpera's latest New Opera Workshop on **November 3**.\n\nNamed for the [1961 Freedom Riders](https://en.wikipedia.org/wiki/Freedom_Riders) of the segregated American south, the opera centres on one young student who is pulled into the Civil Rights Movement. We spoke with Shore, stage directore Tazewell Thompson, and conductor/COT Music Director [Lidiya Yanksovskaya](/talking-with-conductors-lidiya-yankovskaya/), about this MassOpera performance and the larger creation process of new operas like _Freedom Ride_."
+preamble = "On its way to a 2020 world premiere at Chicago Opera Theatre, [Dan Shore's _Freedom Ride_](http://massopera.org/freedom-ride/) will be part of MassOpera's latest New Opera Workshop on **November 3**.\n\nNamed for the [1961 Freedom Riders](https://en.wikipedia.org/wiki/Freedom_Riders) of the segregated American south, the opera centres on one young student who is pulled into the Civil Rights Movement. We spoke with Shore, stage director Tazewell Thompson, and conductor/COT Music Director [Lidiya Yankovskaya](/talking-with-conductors-lidiya-yankovskaya/), about this MassOpera performance and the larger creation process of new operas like _Freedom Ride_."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571884605/media/2019/10/sqFreedomRide-resized_iym55h.jpg"
 primary_image_credit = "The cast of Freedom Ride at MassOpera, 2019. Photo: Nile Scott Hawver."
 related_articles = ["articles/talking-with-composers-alexina-louie.md", "articles/talking-with-conductors-lidiya-yankovskaya.md"]
@@ -23,7 +23,7 @@ youtube_url = ""
 
 **Tazewell Thompson**: It tells a true story using fictional characters. It presents what is believably perhaps one of many dozens of personal stories that occurred during the summer of 1961 in relation to desegregating the Greyhound and Trailways bus system in the Deep South.
 
-**Lydiya Yankovskaya**: Dan really understands vocal writing. He uses the voice effectively to portray a variety of characters, driving the action forward with the music and allowing every word to shine through clearly, while remaining unafraid to push the boundaries of what the voice can do.
+**Lidiya Yankovskaya**: Dan really understands vocal writing. He uses the voice effectively to portray a variety of characters, driving the action forward with the music and allowing every word to shine through clearly, while remaining unafraid to push the boundaries of what the voice can do.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571844380/media/2019/10/FreedomRide3_tallzs.jpg){{% /md %}}
 
@@ -61,7 +61,7 @@ In the history books and the newspapers and on TV, they are bold and victorious.
 
 **DS**: This is very near the end of a process that has taken me eight and a half years. So a lot of this music has been heard before, in New Orleans, in Mexico City, in New York, and here in Boston, although it has been tinkered with an awful lot over the years. But some of it is new, and you'll be hearing it for the very first time. And the orchestrations are brand new, and we’ll all be hearing them for the very first time together!
 
-**TT**: MassOpera will be the most important and impactful workshop for _Freedom Ride_; the penultimate and most insightful. It will be presented in the beautiful Strand Theater. A full orchestra (not just piano accompaniment), the finest local voices of all ages, concert style with suggested staging. 
+**TT**: MassOpera will be the most important and impactful workshop for _Freedom Ride_; the penultimate and most insightful. It will be presented in the beautiful Strand Theater. A full orchestra (not just piano accompaniment), the finest local voices of all ages, concert style with suggested staging.
 
 The MassOpera workshop will be the last stop prior to the Chicago Opera Theatre world premiere in February, and it is extraordinarily significant. Composer and librettist, conductor and director will have a final opportunity to hear and see all the pieces pulled together through our own senses and through the ears and eyes of the audience. I am personally grateful for the opportunity MassOpera has afforded me to participate in this necessary workshop.
 
