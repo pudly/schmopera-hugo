@@ -40,11 +40,13 @@ The #metoo movement is a sea of change in how we openly talk about power and sex
 
 In my own experience, besides being abhorrently uncomfortable, sexual pressure in the opera workplace is the killer of any desire to experiment or feel free to create. So it's not just a personal transgression, it is antithetical to a creative environment. I'm glad things are changing.
 
-I don’t know, however, if #metoo applies entirely to Don Giovanni as I have described him in my answer to the previous question. The women he encounters want to be with him on some level. Even Donna Anna throws herself into his arms at one point in our production. Don Giovanni isn’t leveraging career possibilities, undesired incentives, or even physical force to ensnare them. It’s not so black-and-white. The dramatic interest in this opera occurs in this tense grey zone of desire and repulsion. That story, while not as topical, is actually even more relatable to the human condition. Because it’s about being hurt and hurting others in a way that is inseparable from any love story. And the shame that comes with all of that.
+I don't know, however, if #metoo applies entirely to Don Giovanni as I have described him in my answer to the previous question. The women he encounters want to be with him on some level. Even Donna Anna throws herself into his arms at one point in our production. 
 
-For me, the surreal dinner finale where the “stone guest” comes to ask for the Don to repent his ways is like a nightmare, where all of the shame that he has had to repress his entire life in order to live exactly as he pleases arrives literally at his door, personified.
+Don Giovanni isn't leveraging career possibilities, undesired incentives, or even physical force to ensnare them. It's not so black-and-white. The dramatic interest in this opera occurs in this tense grey zone of desire and repulsion. That story, while not as topical, is actually even more relatable to the human condition. Because it's about being hurt and hurting others in a way that is inseparable from any love story. And the shame that comes with all of that.
 
-Now about that “giocosa”… For me there is always humor in seeing people act very confidently or righteously but in fact have no idea what they want. And this opera is loaded with such personalities.
+For me, the surreal dinner finale where the "stone guest" comes to ask for the Don to repent his ways is like a nightmare, where all of the shame that he has had to repress his entire life in order to live exactly as he pleases arrives literally at his door, personified.
+
+Now about that "giocosa"… For me there is always humor in seeing people act very confidently or righteously but in fact have no idea what they want. And this opera is loaded with such personalities.
 
 \- What do you know now about the singing career that you wish you knew 10 years ago?
 
