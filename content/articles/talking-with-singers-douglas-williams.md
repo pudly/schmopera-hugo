@@ -48,10 +48,16 @@ For me, the surreal dinner finale where the "stone guest" comes to ask for the D
 
 Now about that "giocoso"… For me there is always humor in seeing people act very confidently or righteously but in fact have no idea what they want. And this opera is loaded with such personalities.
 
-\- What do you know now about the singing career that you wish you knew 10 years ago?
+## What do you know now about the singing career that you wish you knew 10 years ago?
 
-Seems obvious, but people find it more interesting when you are yourself. It’s perhaps not obvious because opera can sometimes feel like an art form where you have to slot yourself in to a certain type - especially when starting out. So as a young man I felt like I needed to achieve a certain seriousness or a certain barihunkiness. And I deprived myself and others of my wackiness, my queerness, or even acknowledging my weaknesses… all the things that make me who I am. I try to bring it all into my identity as a singer today. No surprise that it’s useful to me and more interesting to others.
+Seems obvious, but people find it more interesting when you are yourself. It's perhaps not obvious because opera can sometimes feel like an art form where you have to slot yourself in to a certain type - especially when starting out. 
 
-\- If you didn’t sing for a living, what would you do instead?
+So as a young man I felt like I needed to achieve a certain seriousness or a certain barihunkiness. And I deprived myself and others of my wackiness, my queerness, or even acknowledging my weaknesses… all the things that make me who I am. 
 
-I have a deep response to nature. A couple times a year I do some kind of wilderness trip, even if it’s just for two nights. I haven’t been able to square this with singing other than to say that both can elicit a feeling of connectedness to something very, very ancient. I’m intuitive with maps and landscapes. Maybe I would do something with this. At the moment I’m thinking of a project where I can bring singing and nature together. Probably a video. Probably somewhere in Nevada. Maybe text by Robinson Jeffers. Maybe music by me. Certainly would make sense for this age to use art to bring consciousness to this singular, miraculous planet that we inhabit.
+I try to bring it all into my identity as a singer today. No surprise that it's useful to me and more interesting to others.
+
+## If you didn't sing for a living, what would you do instead?
+
+I have a deep response to nature. A couple times a year I do some kind of wilderness trip, even if it's just for two nights. I haven't been able to square this with singing other than to say that both can elicit a feeling of connectedness to something very, very ancient. 
+
+I'm intuitive with maps and landscapes. Maybe I would do something with this. At the moment I'm thinking of a project where I can bring singing and nature together. Probably a video. Probably somewhere in Nevada. Maybe text by Robinson Jeffers. Maybe music by me. Certainly would make sense for this age to use art to bring consciousness to this singular, miraculous planet that we inhabit.
