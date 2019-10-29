@@ -7,11 +7,11 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572373169/media/2019/10/DouglasWilliams_dr1mrf.jpg"
 primary_image_credit = ""
 related_articles = []
-related_companies = []
-related_people = []
+related_companies = ["scene/companies/latelier-lyrique-de-lopra-de-montral.md"]
+related_people = ["scene/people/douglas-williams.md"]
 short_description = "\"At the moment I'm thinking of a project where I can bring singing and nature together. Probably a video. Probably somewhere in Nevada. Maybe text by Robinson Jeffers. Maybe music by me.\""
 slug = "talking-with-singers-douglas-williams"
 title = "Talking with singers: Douglas Williams"
@@ -34,6 +34,12 @@ It's not that I would defend all of his actions if Don Giovanni were a real pers
 
 That's the power of the anti-hero. To be enthralled and conflicted by someone who is so sexy and so corrupt. It's easy to do a production of Don Giovanni the monster. It's harder but a more incisive portrayal, I think, to do Don Giovanni the rogue that we are desperate to be, or to be with, even if all along hoping to see punished.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572373225/media/2019/10/DouglasWilliams-JuanCamiloRoa_zhp5zj.jpg){{% /md %}}
+
+<figcaption>Douglas Williams, baritone. Photo: Juan Camilo Roa.</figcaption>
+
+</figure>
+
 ## How do you balance a "dramma giocoso" about Don Juan, in post-#metoo 2019?
 
 The #metoo movement is a sea of change in how we openly talk about power and sex in the career. It has certainly already brought about shocking changes in the opera world and caused opera companies and stage unions to urgently address the problem of sexual intimidation in the work place. 
@@ -47,6 +53,12 @@ Don Giovanni isn't leveraging career possibilities, undesired incentives, or eve
 For me, the surreal dinner finale where the "stone guest" comes to ask for the Don to repent his ways is like a nightmare, where all of the shame that he has had to repress his entire life in order to live exactly as he pleases arrives literally at his door, personified.
 
 Now about that "giocoso"… For me there is always humor in seeing people act very confidently or righteously but in fact have no idea what they want. And this opera is loaded with such personalities.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572373240/media/2019/10/2.-Don-Giovanni-Act-1-Opera-Atelier-2019-Photo-by-Bruce-Zinger_nzd5zo.jpg){{% /md %}}
+
+<figcaption>A scene from Act I of Opera Atelier's production of Don Giovanni, 2019. Photo: Bruce Zinger.</figcaption>
+
+</figure>
 
 ## What do you know now about the singing career that you wish you knew 10 years ago?
 
