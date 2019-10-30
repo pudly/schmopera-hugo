@@ -1,8 +1,8 @@
 +++
 date = "2019-04-05T17:59:00+00:00"
 discipline = "Bass-baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554486962/media/2019/04/DouglasWilliams-JuanCamiloRoa.jpg"
-primary_image_credit = "Juan Camilo Roa"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572463548/media/2019/10/Douglas_Williams_Headshot_zc62hg.jpg"
+primary_image_credit = ""
 related_companies = ["scene/companies/mark-morris-dance-group.md", "scene/companies/opera-atelier.md"]
 slug = "douglas-williams"
 title = "Douglas Williams"
