@@ -21,6 +21,12 @@ youtube_url = ""
 
 Since I was a child I wanted to work in a theater. I also loved music and took it seriously, and I was attracted to musical challenges. When I really feel like I am at my best usually it's because both these early urges are being satisfied equally: the creative side of inventing and exploring a character, and the cerebral side of discipline, language, and making music with many people at the same time.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572463278/media/2019/10/OperaAtelier-DonGiovanni_w0bim8.jpg){{% /md %}}
+
+<figcaption>Douglas Williams in the title role of Opera Atelier's production of Don Giovanni, 2019. Photo: Bruce Zinger.</figcaption>
+
+</figure>
+
 Over the years the pursuit of becoming a better singer has accumulated more and more meaning to me. Singing is a reflection of what is going on inside your body and soul, and every day starts with a look inward. I've learned a lot about myself from singing, and let go of a lot of old pain or protective masks that I've worn in the process of learning how to sing. It's something I never expected as a young man and I'm grateful to singing for teaching me in this way.
 
 ## What kind of man is Mozart's Don Giovanni? What do you think are some common misconceptions about his character?
@@ -35,9 +41,9 @@ It's not that I would defend all of his actions if Don Giovanni were a real pers
 
 That's the power of the anti-hero. To be enthralled and conflicted by someone who is so sexy and so corrupt. It's easy to do a production of Don Giovanni the monster. It's harder but a more incisive portrayal, I think, to do Don Giovanni the rogue that we are desperate to be, or to be with, even if all along hoping to see punished.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572373240/media/2019/10/2.-Don-Giovanni-Act-1-Opera-Atelier-2019-Photo-by-Bruce-Zinger_nzd5zo.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572463266/media/2019/10/OperaAtelier-DonGiovanni-DouglasWilliams-BruceZinger_py3t1j.jpg){{% /md %}}
 
-<figcaption>A scene from Act I of Opera Atelier's production of Don Giovanni, 2019. Photo: Bruce Zinger.</figcaption>
+<figcaption>Douglas Williams in the title role of Opera Atelier's production of Don Giovanni, 2019. Photo: Bruce Zinger.</figcaption>
 
 </figure>
 
@@ -51,19 +57,17 @@ In my own experience, besides being abhorrently uncomfortable, sexual pressure i
 
 I don't know, however, if #metoo applies entirely to Don Giovanni as I have described him in my answer to the previous question. The women he encounters want to be with him on some level. Even Donna Anna throws herself into his arms at one point in our production.
 
-> There is always humor in seeing people act very confidently or righteously but in fact have no idea what they want.
-
 Don Giovanni isn't leveraging career possibilities, undesired incentives, or even physical force to ensnare them. It's not so black-and-white. The dramatic interest in this opera occurs in this tense grey zone of desire and repulsion. That story, while not as topical, is actually even more relatable to the human condition. Because it's about being hurt and hurting others in a way that is inseparable from any love story. And the shame that comes with all of that.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572463241/media/2019/10/OperaAtelier-DonGiovanni-DouglasWilliams-CarlaHuhtanen-ColinAinsworth-MireilleAsselin-BruceZinger_q2h41m.jpg){{% /md %}}
+
+<figcaption>(l-r) Douglas Williams (Don Giovanni), Carla Huhtanen (Donna Elvira), Colin Ainsworth (Don Ottavio), and Meghan Lindsay (Donna Anna) in Opera Atelier's production of Don Giovanni, 2019. Photo: Bruce Zinger.</figcaption>
+
+</figure>
 
 For me, the surreal dinner finale where the "stone guest" comes to ask for the Don to repent his ways is like a nightmare, where all of the shame that he has had to repress his entire life in order to live exactly as he pleases arrives literally at his door, personified.
 
 Now about that "giocoso"… For me there is always humor in seeing people act very confidently or righteously but in fact have no idea what they want. And this opera is loaded with such personalities.
-
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572373225/media/2019/10/DouglasWilliams-JuanCamiloRoa_zhp5zj.jpg){{% /md %}}
-
-<figcaption>Douglas Williams, baritone. Photo: Juan Camilo Roa.</figcaption>
-
-</figure>
 
 ## What do you know now about the singing career that you wish you knew 10 years ago?
 
@@ -74,6 +78,12 @@ Seems obvious, but people find it more interesting when you are yourself. It's p
 So as a young man I felt like I needed to achieve a certain seriousness or a certain barihunkiness. And I deprived myself and others of my wackiness, my queerness, or even acknowledging my weaknesses… all the things that make me who I am.
 
 I try to bring it all into my identity as a singer today. No surprise that it's useful to me and more interesting to others.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572373225/media/2019/10/DouglasWilliams-JuanCamiloRoa_zhp5zj.jpg){{% /md %}}
+
+<figcaption>Douglas Williams, baritone. Photo: Juan Camilo Roa.</figcaption>
+
+</figure>
 
 ## If you didn't sing for a living, what would you do instead?
 
