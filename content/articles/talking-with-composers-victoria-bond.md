@@ -20,15 +20,21 @@ youtube_url = ""
 +++
 ## What about the story of Clara and Robert Schumann appealed to you? What makes the story operatic?
 
-**Victoria Bond**: The story of Clara and Robert is a fascinating love story because it is so timeless and because they communicated their innermost feelings for each other in music. I quote fragments of music from Clara, Robert and Johannes Brahms, and have woven my own original music around their melodies, rhythms and harmonies. 
+**Victoria Bond**: The story of Clara and Robert is a fascinating love story because it is so timeless and because they communicated their innermost feelings for each other in music. I quote fragments of music from Clara, Robert and Johannes Brahms, and have woven my own original music around their melodies, rhythms and harmonies.
 
 It is a passionate story, as Clara's father did everything in his power to prevent their marriage and the couple had to defy him in order to marry.  It is also a tragic story, as Robert's mental breakdown impacted their lives.  It is ultimately a story about music itself, and its power to transform.
 
 ## What do you find most exciting, and most nerve-wracking, about hearing your work premiered?
 
-**VB**: The premiere in Germany was particularly exciting because the cast had rehearsed for six weeks and performed the opera eleven times!  This is unheard of for most composers, particularly American composers.  We are generally lucky if we get two weeks of rehearsal and two or three performances. 
+**VB**: The premiere in Germany was particularly exciting because the cast had rehearsed for six weeks and performed the opera eleven times!  This is unheard of for most composers, particularly American composers.  We are generally lucky if we get two weeks of rehearsal and two or three performances.
 
 As a conductor myself, I was so impressed with the skill and dedication of the cast and instrumentalists, particularly Berlin Philharmonic musician Michael Hasel who conducted the performances. I knew I was in good hands under his direction!
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572466726/media/2019/10/Osterfestspiele2019Clara-JochenKlenk_vppqev.jpg){{% /md %}}
+
+<figcaption>A scene from the premiere production of Clara in Baden-Baden, at the 2019 Osterfestpiele. Photo: Jochen Klenk.</figcaption>
+
+</figure>
 
 ## How do you write music when you're not feeling particularly inspired (yet)?
 
@@ -37,6 +43,12 @@ As a conductor myself, I was so impressed with the skill and dedication of the c
 ## How do you think the perception of being a working composer compares to the reality of the job?
 
 **VB**: I am quite certain that most people have no idea of what goes into composing. It is generally not accurately portrayed in film, and so much of it is not at all exciting to watch.  However, discovering a new idea, a turn of phrase, an unexpected harmony – these are the precious moments a composer lives for!
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572466868/media/2019/10/Osterfestspiele2019Clara2-JochenKlenk_fdoylq.jpg){{% /md %}}
+
+<figcaption>A scene from the premiere production of Clara in Baden-Baden, at the 2019 Osterfestpiele. Photo: Jochen Klenk.</figcaption>
+
+</figure>
 
 ## Do you have a song/album/artist that you'd consider a guilty pleasure?
 
