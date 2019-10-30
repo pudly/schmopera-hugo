@@ -7,14 +7,14 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572464326/media/2019/10/VictoriaBond-AnnaAbolgina_grugyr.jpg"
+primary_image_credit = "Photo: Anna Abolgina."
 related_articles = []
 related_companies = []
 related_people = []
 short_description = "\"I am quite certain that most people have no idea of what goes into composing. It is generally not accurately portrayed in film, and so much of it is not at all exciting to watch.  However, discovering a new idea, a turn of phrase, an unexpected harmony – these are the precious moments a composer lives for!\""
 slug = "talking-with-composers-victoria-bond"
-title = "talking-with-composers-victoria-bond"
+title = "Talking with composers: Victoria Bond"
 youtube_url = ""
 
 +++
