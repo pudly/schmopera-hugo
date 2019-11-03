@@ -40,6 +40,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/kathryn-lewek.md
 - content/scene/people/michael-adams.md
 - content/scene/people/david-portillo.md
 - content/scene/people/douglas-williams.md
