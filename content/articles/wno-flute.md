@@ -3,7 +3,6 @@ author = ["authors/molly-simoneau.md"]
 categories = "Review"
 date = 2019-11-03T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "WNO's production of [_The Magic Flute_](https://www.kennedy-center.org/calendar/event/OUOSB) is onstage through November 23."
 preamble = ""
@@ -11,10 +10,10 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572810634/m
 primary_image_credit = ""
 related_articles = []
 related_companies = ["scene/companies/washington-national-opera.md"]
-related_people = ["scene/people/david-cangelosi.md", "scene/people/wei-wu.md", "scene/people/sydney-mancasola.md"]
+related_people = ["scene/people/kathryn-lewek.md", "scene/people/michael-adams.md", "scene/people/david-portillo.md", "scene/people/david-cangelosi.md", "scene/people/wei-wu.md", "scene/people/sydney-mancasola.md"]
 short_description = "A cast of charismatic singing actors with impeccable comic timing to go with their across-the-board excellent Mozartean singing are the whipped cream and cherry on top of this operatic ice cream sundae."
-slug = "wno-flute"
-title = "WNO Flute"
+slug = "treat-yourself-to-wnos-magic-flute"
+title = "Treat yourself to WNO's Magic Flute"
 youtube_url = ""
 
 +++
