@@ -20,7 +20,12 @@ youtube_url = ""
 +++
 I have vivid memories of reading Maurice Sendak's classic _Where the Wild Things Are_ with my parents as a child and falling in love with the beloved illustrator's not-so-scary monsters. I think it would be hard to find a child of my generation who doesn't have a warm nostalgia for Sendak's works. On Saturday night, at the Kennedy Center’s Opera House, when the curtain rose on the Sendak-designed production of _The Magic Flute_, I was immediately transported back to that childlike place, gazing on a gigantic Sendak story book come to life.
 
-The production which premiered in Houston in 1980, and now directed for Washington National Opera by Christopher Mattaliano, is a joyful, imaginative, detailed, whimsical, and outright beautiful telling of Mozart’s fairy tale.
+The production which premiered in Houston in 1980, and now directed for Washington National Opera by Christopher Mattaliano, is a joyful, imaginative, detailed, whimsical, and outright beautiful telling of Mozart's fairy tale.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
 
 Cartoony but never dumbed-down, childlike but not childish, this production invites audiences to tag along with Tamino on his adventure through a magical realm full of dragons, starry queens, mysterious temples, and all manor of Sendakian creatures. Together, Mattaliano's direction and Andrew Porter's English translation tread the fine line of making the often obtuse plot of this allegorical fairy tale, with its masonic symbolism and outdated, if not downright offensive, mores more accessible to a modern, English-speaking audience in a way that doesn't cheapen the work, or feel forced.
 
