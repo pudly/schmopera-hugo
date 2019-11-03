@@ -1,12 +1,12 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Interview"
-date = "2019-10-30T04:00:00+00:00"
+date = 2019-10-30T04:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
 postamble = ""
-preamble = ""
+preamble = "In this 200th anniversary year Clara Schumann's birth, Victoria Bond's opera _Clara_ sees its North American premiere with two New York-based performances. _Clara_, the biographical work about the pianist and her composer husband, Robert Schumann, is onstage [November 8](https://www.symphonyspace.org/events/vp-clara-an-opera-by-victoria-bond) at Symphony Space in New York City, and [November 10](https://www.rcmsmusic.org/bond-clara) with the Rhinebeck Chamber Music Society in Rhinebeck, NY.\n\nWe spoke with Victoria Bond (_Mrs. President_, _The Miracle of Light_) about what she finds so operatic about Clara and Robert's story, and the surprising realities of life as a composer."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572464326/media/2019/10/VictoriaBond-AnnaAbolgina_grugyr.jpg"
 primary_image_credit = "Photo: Anna Abolgina."
 related_articles = []
