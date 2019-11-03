@@ -1,6 +1,6 @@
 +++
 discipline = "Soprano"
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572812052/media/2019/11/Kathryn_Lewek_WEB_SMALL-15_qx7jid.jpg"
 primary_image_credit = ""
 related_companies = ["scene/companies/welsh-national-opera.md", "scene/companies/english-national-opera.md", "scene/companies/wiener-staatsoper.md", "scene/companies/houston-grand-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/teatro-alla-scala.md", "scene/companies/lyric-opera-of-kansas-city.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/royal-opera-house.md", "scene/companies/washington-national-opera.md", "scene/companies/nashville-opera.md"]
 slug = "kathryn-lewek"
