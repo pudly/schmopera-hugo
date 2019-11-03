@@ -81,11 +81,17 @@ Kumar showed his true potential in the role when Pinkerton returned in the final
 
 > The effect was quite jarring, ending the opera with a truly tragic shock.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572743253/media/2019/11/KanekoMB12_tvfemu.jpg){{% /md %}}
+
+<figcaption>Opera Omaha's production of Madama Butterfly, 2019. Photo: Thomas Grady.</figcaption>
+
+</figure>
+
 The true jewel of this opera was rightfully Karah Son in the role Cio-Cio-San. As soon as Son entered the stage and hit her first velvety high note it was easy to see why Pinkerton is so enamoured with his new bride. Cio-Cio-San is one of Son's signature roles, and it shows in her polished embodiment of the character. The soprano's liquid legato was at times inconsistent in her lower registers, but the glorious sustained notes in combination with the swelling orchestra hit me in the feels hard. 
 
 Son brought believable growth to Cio-Cio-San's story, evolving from bashful bride to devastated mother. Her most powerful dramatic moment of the opera occured when Cio-Cio-San resolves to kill herself. Son's entire demeanor shifted in this scene from distraught mess to calm intensity. The effect was quite jarring, ending the opera with a truly tragic shock.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572743253/media/2019/11/KanekoMB12_tvfemu.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572743307/media/2019/11/KanekoMB16_zbbes5.jpg){{% /md %}}
 
 <figcaption>Opera Omaha's production of Madama Butterfly, 2019. Photo: Thomas Grady.</figcaption>
 
