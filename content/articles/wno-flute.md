@@ -10,15 +10,15 @@ preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572810634/media/2019/11/sqTenorDavidPortilloperformstheroleofTaminoinWNOsTheMagicFlute_ujipfw.jpg"
 primary_image_credit = ""
 related_articles = []
-related_companies = []
-related_people = []
+related_companies = ["scene/companies/washington-national-opera.md"]
+related_people = ["scene/people/david-cangelosi.md", "scene/people/wei-wu.md", "scene/people/sydney-mancasola.md"]
 short_description = "A cast of charismatic singing actors with impeccable comic timing to go with their across-the-board excellent Mozartean singing are the whipped cream and cherry on top of this operatic ice cream sundae."
 slug = "wno-flute"
 title = "WNO Flute"
 youtube_url = ""
 
 +++
-I have vivid memories of reading Maurice Sendak's classic _Where the Wild Things Are_ with my parents as a child and falling in love with the beloved illustrator's not-so-scary monsters. I think it would be hard to find a child of my generation who doesn't have a warm nostalgia for Sendak's works. On Saturday night, at the Kennedy Center’s Opera House, when the curtain rose on the [Sendak-designed production of _The Magic Flute_](https://www.kennedy-center.org/calendar/event/OUOSB), I was immediately transported back to that childlike place, gazing on a gigantic Sendak story book come to life.
+I have vivid memories of reading Maurice Sendak's classic _Where the Wild Things Are_ with my parents as a child and falling in love with the beloved illustrator's not-so-scary monsters. I think it would be hard to find a child of my generation who doesn't have a warm nostalgia for Sendak's works. On Saturday night, at the Kennedy Center's Opera House, when the curtain rose on the [Sendak-designed production of _The Magic Flute_](https://www.kennedy-center.org/calendar/event/OUOSB), I was immediately transported back to that childlike place, gazing on a gigantic Sendak story book come to life.
 
 The production which premiered in Houston in 1980, and now directed for Washington National Opera by Christopher Mattaliano, is a joyful, imaginative, detailed, whimsical, and outright beautiful telling of Mozart's fairy tale.
 
