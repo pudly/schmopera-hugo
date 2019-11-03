@@ -18,7 +18,7 @@ title = "WNO Flute"
 youtube_url = ""
 
 +++
-I have vivid memories of reading Maurice Sendak's classic _Where the Wild Things Are_ with my parents as a child and falling in love with the beloved illustrator's not-so-scary monsters. I think it would be hard to find a child of my generation who doesn't have a warm nostalgia for Sendak's works. On Saturday night, at the Kennedy Center's Opera House, when the curtain rose on the [Sendak-designed production of _The Magic Flute_](https://www.kennedy-center.org/calendar/event/OUOSB), I was immediately transported back to that childlike place, gazing on a gigantic Sendak story book come to life.
+I have vivid memories of reading Maurice Sendak's classic [_Where the Wild Things Are_](https://en.wikipedia.org/wiki/Where_the_Wild_Things_Are) with my parents as a child and falling in love with the beloved illustrator's not-so-scary monsters. I think it would be hard to find a child of my generation who doesn't have a warm nostalgia for Sendak's works. On Saturday night, at the Kennedy Center's Opera House, when the curtain rose on the [Sendak-designed production of _The Magic Flute_](https://www.kennedy-center.org/calendar/event/OUOSB), I was immediately transported back to that childlike place, gazing on a gigantic Sendak story book come to life.
 
 The production which premiered in Houston in 1980, and now directed for Washington National Opera by Christopher Mattaliano, is a joyful, imaginative, detailed, whimsical, and outright beautiful telling of Mozart's fairy tale.
 
@@ -31,7 +31,7 @@ Cartoony but never dumbed-down, childlike but not childish, this production invi
 
 A cast of charismatic singing actors with impeccable comic timing to go with their across-the-board excellent Mozartean singing are the whipped cream and cherry on top of this operatic ice cream sundae. Tenor [David Portillo](/scene/people/david-portillo/), with his Ken-doll good looks and clear, buoyant, leggiero voice, steps into the Prince Charming role of Tamino with ease, and [Sydney Mancasola](/scene/people/sydney-mancasola/) pairs perfectly with him as Pamina, with her warm, inviting stage presence, and silvery soprano voice, she beautifully navigated Mozart's delicate vocal lines.
 
-In any halfway decent _Flute_, Papageno should be a scene-stealer, and baritone Michael Adams both stole scenes and won over hearts in the role. From his first entrance, in the spectacular costume designed by Sendak, he charmed the opera house. His mastery of the clownish physical humor called for by the role made him one to watch, even when he wasn't the focal point of a scene. 
+In any halfway decent _Flute_, Papageno should be a scene-stealer, and baritone Michael Adams both stole scenes and won over hearts in the role. From his first entrance, in the spectacular costume designed by Sendak, he charmed the opera house. His mastery of the clownish physical humor called for by the role made him one to watch, even when he wasn't the focal point of a scene.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572810780/media/2019/11/KathrynLewekQueenoftheNightSydneyMancasolaPaminaintheWNOsTheMagicFlute_dkvrer.jpg){{% /md %}}
 
@@ -60,6 +60,6 @@ Alexandria Shiner, Deborah Nansteel, and Meredith Arwady, with their spears and 
 
 In the pit, conductor Eun Sun Kim kept things bright and breezy, and offered a steady, guiding hand in more than one moment when the singers on stage threatened to leave the pit behind.  Principal flutist Adria Sternstein Foster played with a clean and clear tone through all of her "magic" solos.
 
-For anyone in the Washington area who has been looking for the right opportunity to bring little ones to the opera, I can't recommend this _Magic Flute_ highly enough. Between the marvellous Sendak designs and the top-notch performances, this _Flute_ is a sweet treat. 
+For anyone in the Washington area who has been looking for the right opportunity to bring little ones to the opera, I can't recommend this _Magic Flute_ highly enough. Between the marvellous Sendak designs and the top-notch performances, this _Flute_ is a sweet treat.
 
 And if you don't have any young ones to take to the opera, then I still can't recommend it highly enough. Go treat yourself to an operatic ice cream sundae with whipped cream and a cherry on top!
