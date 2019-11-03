@@ -7,7 +7,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572741391/media/2019/11/sqAmyShoremountObra_AliseJordheim_piy3b9.jpg"
-primary_image_credit = "Odyssey Opera's production of Maria, Regina d'Inghilterra, 2019. Photo by Kathy Wittman."
+primary_image_credit = "Odyssey Opera's production of Maria, Regina d'Inghilterra, 2019. Photo: Kathy Wittman."
 related_articles = ["articles/reliably-bubbly-belle-hélène-a-delight.md", "articles/grand-if-overlong-henry-viii.md"]
 related_companies = ["scene/companies/odyssey-opera.md"]
 related_people = []
@@ -25,7 +25,7 @@ Thus, I approached Odyssey Opera's production of obscure bel canto composer Giov
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572741457/media/2019/11/Ensemble_1_gv9w58.jpg){{% /md %}}
 
-<figcaption>Odyssey Opera's production of Maria, Regina d'Inghilterra, 2019. Photo by Kathy Wittman.</figcaption>
+<figcaption>Odyssey Opera's production of Maria, Regina d'Inghilterra, 2019. Photo: Kathy Wittman.</figcaption>
 
 </figure>
 
@@ -37,7 +37,7 @@ But it also helps that Pacini's score for _Maria_ is full of inventive uses of a
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572741474/media/2019/11/Ensemble_3_ppkcwi.jpg){{% /md %}}
 
-<figcaption>Odyssey Opera's production of Maria, Regina d'Inghilterra, 2019. Photo by Kathy Wittman.</figcaption>
+<figcaption>Odyssey Opera's production of Maria, Regina d'Inghilterra, 2019. Photo: Kathy Wittman.</figcaption>
 
 </figure>
 
@@ -51,7 +51,7 @@ The title character does not even appear on-stage until the second act; the moti
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572741489/media/2019/11/AlisaJordheim_AmyShoremountObra_wiruo1.jpg){{% /md %}}
 
-<figcaption>Odyssey Opera's production of Maria, Regina d'Inghilterra, 2019. Photo by Kathy Wittman.</figcaption>
+<figcaption>Odyssey Opera's production of Maria, Regina d'Inghilterra, 2019. Photo: Kathy Wittman.</figcaption>
 
 </figure>
 
@@ -65,7 +65,7 @@ Amy Shoremount-Obra had to wait an entire act to enter as the title character, b
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572741504/media/2019/11/AlisaJordheim_LeroyDavis_2_tgcbpi.jpg){{% /md %}}
 
-<figcaption>Odyssey Opera's production of Maria, Regina d'Inghilterra, 2019. Photo by Kathy Wittman.</figcaption>
+<figcaption>Odyssey Opera's production of Maria, Regina d'Inghilterra, 2019. Photo: Kathy Wittman.</figcaption>
 
 </figure>
 
@@ -81,7 +81,7 @@ The strength of the cast was almost enough to overcome an uneven production, for
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572741521/media/2019/11/Ensemble_Male_1_fxrubi.jpg){{% /md %}}
 
-<figcaption>Odyssey Opera's production of Maria, Regina d'Inghilterra, 2019. Photo by Kathy Wittman.</figcaption>
+<figcaption>Odyssey Opera's production of Maria, Regina d'Inghilterra, 2019. Photo: Kathy Wittman.</figcaption>
 
 </figure>
 
@@ -93,7 +93,7 @@ This makes it downright infuriating, then, when compared with the absolutely stu
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572741534/media/2019/11/Ensemble_Male_2_fadtts.jpg){{% /md %}}
 
-<figcaption>Odyssey Opera's production of Maria, Regina d'Inghilterra, 2019. Photo by Kathy Wittman.</figcaption>
+<figcaption>Odyssey Opera's production of Maria, Regina d'Inghilterra, 2019. Photo: Kathy Wittman.</figcaption>
 
 </figure>
 
