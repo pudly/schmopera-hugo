@@ -20,36 +20,36 @@ youtube_url = ""
 +++
 The North American premiere of Handel's masterwork _Saul_ took place in Houston recently to rapturous effect, under the auspices of Houston Grand Opera. I can justly say that the performance I saw was a microcosm of Houston at her best, a perfect example of the glorious, if not uncontroversial, results of numerous talented individuals combining their efforts to create something far bigger than the sum of its parts.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572893481/media/2019/11/HGOSaul2019LynnLane-26_vbwodv.jpg){{% /md %}}
 
-<figcaption>Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
+<figcaption>Aryeh Nussbaum Cohen (David, centre) and the cast of Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
 </figure>
 
 To clarify, this was a staged performance of Handel's first spectacular success in the oratorio form, which he would revive constantly whenever he needed a solid revenue stream. Accordingly, this premiere used the highly acclaimed production featured at Glyndebourne in 2015, with its many highly spectacular elements to highlight Handel's vivid use of scene-setting music, which is particularly necessary to explicate Charles Jennens's highly disjunct libretto.
 
 Despite Handel's fluency in providing such vivid transitions to facilitate staging, it would appear that the production did not organically overlap with Handel's conception of the action: there were many awkwardly long pauses over the course of the action to allow for characters to move around and exit as needed; though I acknowledged their necessity at first, and though they well highlighted [Christopher Purves](/talking-with-singers-christopher-purves/)'s highly compelling acting ability in the title role, they quickly got old, exposing the lack of music to fill a nonexistent gap.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572893530/media/2019/11/HGOSaul2019LynnLane32_nh0tu3.jpg){{% /md %}}
 
-<figcaption>Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
+<figcaption>HGO dancers and HGO Chorus in Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
 </figure>
 
 If anyone is familiar with Opéra National de Paris's production of Rameau's _Les Boréades_ under the baton of William Christie, such a person will know what to expect. This production is certainly a British cousin of that one, complete with gargantuan feast-laden tables, highly ornate Georgian costumes and wigs, copious white makeup with black splotches, and myriad feats of athleticism from the Houston Grand Opera Chorus, who outdo even themselves here, the entire production taking place on what appears to be a surface of black, dusty pebbles.
 
 For this chorus to maintain completely intelligible and crisp diction is a challenge at the best of times, and doubly so while in the intense choreographic feats that this production has them undertaking: to be brief, this production has raised the bar for them greatly, for they have excelled even themselves.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572893554/media/2019/11/HGOSaul2019LynnLane-56_clmuvm.jpg){{% /md %}}
 
-<figcaption>Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
+<figcaption>Keith Jameson (Abner) and the head of Goliath in Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
 </figure>
 
 Though not quite as numerous as I was led to believe, the aforementioned dance routines appeared mentally and physically strenuous on account of their sheer intensity. One definitely perceived the opening Epinicion to be a highly motivated "pep rally." The dance corps were certainly flamboyant, and in some places, quite excessively so; there was plenty of movement, without as much grace as could be hoped for, much extraneous movement of the hands being done in a manner which I found mildly distracting from the music as well as busy. I also found more than one such scene to be vertiginous, necessitating me closing my eyes from time to time to avoid motion sickness.
 
 That all being said, even in this non-staged genre, Handel is never hindered from being theatrical. Throughout, the score has a structure which seems far more continental and cosmopolitan than anything: it has all the Italian coloratura, all the French dances and dramatic pathos, all the German polyphony, and all the English staidness one could want. In this staged performance, Handel's score doubly rewards singers who are able to infuse their music with an instinct for acting and character development, as well as, to an extent, tragic declamation in the manner the French made famous.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572893593/media/2019/11/HGOSaul2019LynnLane-57_kl5xek.jpg){{% /md %}}
 
-<figcaption>Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
+<figcaption>(l-r) Aryeh Nussbaum Cohen (David), Christopher Purves (Saul), and Pureum Jo (Merab) in Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
 </figure>
 
 Maestro Patrick Summers, in keeping with his vaunted quasi-worship of Handel, has spared no effort in rendering all of his orchestral colors and gestures as organic and non-stylized as possible, a challenge given the need to balance many different consorts, including a highly effective trombone cohort, exposed trumpets, bassoons, and oboes, and a highly varied and engaging continuo ensemble. Indeed, this score shows Handel at his most adventurous in terms of structure, to the point of him using an Italian sinfonia for an overture, which flies in the face of his apparent predilection for French overtures in the manner of Telemann and Bach. (Kudos go to organist Ken Cowan for his deft and graceful handling of the endless stream of notes that Handel gives him here.)
