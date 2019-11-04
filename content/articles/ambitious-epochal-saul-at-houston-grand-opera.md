@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = "in Saul, Houston Grand Opera, 2019. Photo: Lynn Lane."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572893414/media/2019/11/sqHGOSaul2019LynnLane-133_pd0tzv.jpg"
+primary_image_credit = "Christopher Purves in the title role of Saul, Houston Grand Opera, 2019. Photo: Lynn Lane."
 related_articles = []
 related_companies = []
 related_people = []
@@ -22,7 +22,7 @@ The North American premiere of Handel's masterwork _Saul_ took place in Houston 
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
 </figure>
 
 To clarify, this was a staged performance of Handel's first spectacular success in the oratorio form, which he would revive constantly whenever he needed a solid revenue stream. Accordingly, this premiere used the highly acclaimed production featured at Glyndebourne in 2015, with its many highly spectacular elements to highlight Handel's vivid use of scene-setting music, which is particularly necessary to explicate Charles Jennens's highly disjunct libretto.
@@ -31,7 +31,7 @@ Despite Handel's fluency in providing such vivid transitions to facilitate stagi
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
 </figure>
 
 If anyone is familiar with Opéra National de Paris's production of Rameau's _Les Boréades_ under the baton of William Christie, such a person will know what to expect. This production is certainly a British cousin of that one, complete with gargantuan feast-laden tables, highly ornate Georgian costumes and wigs, copious white makeup with black splotches, and myriad feats of athleticism from the Houston Grand Opera Chorus, who outdo even themselves here, the entire production taking place on what appears to be a surface of black, dusty pebbles.
@@ -40,7 +40,7 @@ For this chorus to maintain completely intelligible and crisp diction is a chall
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
 </figure>
 
 Though not quite as numerous as I was led to believe, the aforementioned dance routines appeared mentally and physically strenuous on account of their sheer intensity. One definitely perceived the opening Epinicion to be a highly motivated "pep rally." The dance corps were certainly flamboyant, and in some places, quite excessively so; there was plenty of movement, without as much grace as could be hoped for, much extraneous movement of the hands being done in a manner which I found mildly distracting from the music as well as busy. I also found more than one such scene to be vertiginous, necessitating me closing my eyes from time to time to avoid motion sickness.
@@ -49,7 +49,7 @@ That all being said, even in this non-staged genre, Handel is never hindered fro
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
 </figure>
 
 Maestro Patrick Summers, in keeping with his vaunted quasi-worship of Handel, has spared no effort in rendering all of his orchestral colors and gestures as organic and non-stylized as possible, a challenge given the need to balance many different consorts, including a highly effective trombone cohort, exposed trumpets, bassoons, and oboes, and a highly varied and engaging continuo ensemble. Indeed, this score shows Handel at his most adventurous in terms of structure, to the point of him using an Italian sinfonia for an overture, which flies in the face of his apparent predilection for French overtures in the manner of Telemann and Bach. (Kudos go to organist Ken Cowan for his deft and graceful handling of the endless stream of notes that Handel gives him here.)
@@ -58,14 +58,14 @@ Handel is especially adventurous when it comes to subverting the da capo aria fo
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
 </figure>
 
 He is also much more willing to have harmony and dramatic situation define the vocal line, a feature which reminded me throughout of Rameau's characteristic nonchalance and tunefulness. I cannot possibly exaggerate when I say that this is one of the most consistently inspired scores I have ever encountered: nothing feels like it was written on autopilot, and everything feels compelling in some way, whether subtle or manifest, with an inherent sense of forward purpose. It is surely easy to reserve one's powers for one aria or ensemble in the entirety of a full scale work such as this, but to achieve such a high level of quality and sustain it for hours without flagging is not an easy feat, one that merits comparison with the likes of Mozart for its simultaneous apparent effortlessness, one which Maestro Summers caused to scintillate.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
 </figure>
 
 This production fleshes out Saul's descent into genuine obsessive insanity in a highly Gothic way that Christopher Purves is all too happy to flesh out with highly crisp text, which he never lets the music obstruct. He displayed at many junctures tortured grimaces that highlighted the dangerously vacillating nature of his restless spirit. Indeed, he is the sort of person who is most apt to illustrate the potential pitfalls of monarchy, a paradoxical stance, given that a strong monarchy is exactly what fostered the development of all the ornate French influences of dance and musical style that are impossible to fully escape in Handel's music.
@@ -74,7 +74,7 @@ Exemplifying the possible virtues of monarchy, supple countertenor [Aryeh Nussba
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
 </figure>
 
 As Jonathan, tenor [Paul Appleby](/scene/people/paul-appleby/) chooses to take the route of playing the Roman model of probity and constancy, easy to overdo, which I have always admired, but a portrayal which he keeps extremely human and believable, the tensions between him and the son of Jesse being always present onstage, even if not directly expressed in the text. His naturalistic delivery was always empathetic, and made me think that there is still hope for composers who take inspiration from classical models of virtue.
@@ -83,7 +83,7 @@ Sopranos [Andriana Chuchman](/scene/people/andriana-chuchman/) (Michal) and Pure
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
 </figure>
 
 Jo, as Merab, played her role, with her distinctly aloof and fussy arias, with a great deal more depth of character portrayal than expected, even if I found the wide range of this character led to a slight lack of support in her lower register. Her continuo aria in Act II, which is pretty much the only one with such an old-fashioned instrumentation compared with continental galant tendencies to keep the whole orchestra playing, she delivered with poise and dignity not inconsistent with her previous stubbornness.
@@ -92,7 +92,7 @@ Tenor Keith Jameson played a composite role comprising four different characters
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
 </figure>
 
 Chad Shelton's Witch of Endor, emerging from the dust head-first, rather played up the blasphemous implications of this role. (Pop quiz: Can you guess the meter of the Witch's aria after one listening? Another of Handel's little deceptive tricks which Maestro Summers enjoyed playing up tastefully.)
