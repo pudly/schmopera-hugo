@@ -116,8 +116,8 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
-- content/articles/talking-with-composers-victoria-bond.md
 - content/articles/ambitious-epochal-saul-at-houston-grand-opera.md
+- content/articles/talking-with-composers-victoria-bond.md
 - content/articles/wno-flute.md
 - content/articles/karah-son-a-true-jewel-of-opera-omaha-s-madama-butterfly.md
 - content/articles/revived-maria-regina-d-inghilterra-a-crowd-pleasing-guilty-pleasure.md
