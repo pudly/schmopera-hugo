@@ -56,43 +56,43 @@ Maestro Patrick Summers, in keeping with his vaunted quasi-worship of Handel, ha
 
 Handel is especially adventurous when it comes to subverting the da capo aria form, which in the hands of continental masters such as Vivaldi, Hasse, Porpora, and Caldara, had undeniably become ossified into an inflexible structure useful for highlighting singers' virtuosity and cantabile tone above all else. Handel, on the other hand, is much more willing to stop an aria in the middle, or use arresting musical gestures that are easy for audiences to react to, or simply have a through-composed or strophic number, David's aria with harp being a transcendent example.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572893651/media/2019/11/HGOSaul2019LynnLane-68_d94sjy.jpg){{% /md %}}
 
-<figcaption>Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
+<figcaption>Andriana Chuchman (Michal, centre) and HGO dancers in Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
 </figure>
 
 He is also much more willing to have harmony and dramatic situation define the vocal line, a feature which reminded me throughout of Rameau's characteristic nonchalance and tunefulness. I cannot possibly exaggerate when I say that this is one of the most consistently inspired scores I have ever encountered: nothing feels like it was written on autopilot, and everything feels compelling in some way, whether subtle or manifest, with an inherent sense of forward purpose. It is surely easy to reserve one's powers for one aria or ensemble in the entirety of a full scale work such as this, but to achieve such a high level of quality and sustain it for hours without flagging is not an easy feat, one that merits comparison with the likes of Mozart for its simultaneous apparent effortlessness, one which Maestro Summers caused to scintillate.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572893684/media/2019/11/HGOSaul2019LynnLane-81_mapzpt.jpg){{% /md %}}
 
-<figcaption>Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
+<figcaption>Christopher Purves (Saul) in Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
 </figure>
 
 This production fleshes out Saul's descent into genuine obsessive insanity in a highly Gothic way that Christopher Purves is all too happy to flesh out with highly crisp text, which he never lets the music obstruct. He displayed at many junctures tortured grimaces that highlighted the dangerously vacillating nature of his restless spirit. Indeed, he is the sort of person who is most apt to illustrate the potential pitfalls of monarchy, a paradoxical stance, given that a strong monarchy is exactly what fostered the development of all the ornate French influences of dance and musical style that are impossible to fully escape in Handel's music.
 
 Exemplifying the possible virtues of monarchy, supple countertenor [Aryeh Nussbaum Cohen](/scene/people/aryeh-nussbaum-cohen/) portrays David in his early years, having just slain Goliath and navigating the treachery that can accompany such quick-won celebrity, as he effortlessly leaps between ardent virility and tranquil modesty in various forms, about as often as he changes costumes; he never portrayed David as grasping after the throne in any way, a posture which I found compelling given modern society’s lack of association with such altruistic lack of self-interest.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572893705/media/2019/11/HGOSaul2019LynnLane-107_fi5ahg.jpg){{% /md %}}
 
-<figcaption>Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
+<figcaption>(l-r) Andriana Chuchman (Michal), Paul Appleby (Jonathan), Pureum Jo (Merab), and Christopher Purves (Saul) in Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
 </figure>
 
 As Jonathan, tenor [Paul Appleby](/scene/people/paul-appleby/) chooses to take the route of playing the Roman model of probity and constancy, easy to overdo, which I have always admired, but a portrayal which he keeps extremely human and believable, the tensions between him and the son of Jesse being always present onstage, even if not directly expressed in the text. His naturalistic delivery was always empathetic, and made me think that there is still hope for composers who take inspiration from classical models of virtue.
 
 Sopranos [Andriana Chuchman](/scene/people/andriana-chuchman/) (Michal) and Pureum Jo (Merab) were also superb in their own spheres as Saul's daughters who are stunned into silent disbelief by the ravings of their father. The former well illustrated the youthful gaiety of the daughter whose effortless grace (which this production keeps ambiguous as to whether this is a natural stance or an affected posture) is well calculated to win over a pure young heart such as David. There is a moment in Act I where Chuchman has to change moods very quickly between two arias, from showing fiery beratement of her haughty sister to a guileless wooing of David. As unbelievable as this sounds, I found the suspension of disbelief which the theatre asks of me in this moment quite effortless on Chuchman’s part.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572893769/media/2019/11/HGOSaul2019LynnLane-113_jqifgv.jpg){{% /md %}}
 
-<figcaption>Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
+<figcaption>Keith Jameson (Abner, centre) and HGO dancers in Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
 </figure>
 
 Jo, as Merab, played her role, with her distinctly aloof and fussy arias, with a great deal more depth of character portrayal than expected, even if I found the wide range of this character led to a slight lack of support in her lower register. Her continuo aria in Act II, which is pretty much the only one with such an old-fashioned instrumentation compared with continental galant tendencies to keep the whole orchestra playing, she delivered with poise and dignity not inconsistent with her previous stubbornness.
 
 Tenor Keith Jameson played a composite role comprising four different characters well suited to the party atmosphere of Saul’s court, most notably the High Priest. His costume boasted many jester-like features, particularly extremely long nails which he would regularly brandish in a sinuous manner, which heightened the effect of his distinctive speech pattern, which I cannot possibly describe except with the following metaphor: if an opera were ever written about Roman Emperor Septimius Severus, with his legendary Punic lisp, Jameson would be my top choice to portray him.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572893804/media/2019/11/HGOSaul2019LynnLane-128_yfhrcu.jpg){{% /md %}}
 
-<figcaption>Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
+<figcaption>Paul Appleby (Jonathan) and Christopher Purves (Saul) in Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
 </figure>
 
 Chad Shelton's Witch of Endor, emerging from the dust head-first, rather played up the blasphemous implications of this role. (Pop quiz: Can you guess the meter of the Witch's aria after one listening? Another of Handel's little deceptive tricks which Maestro Summers enjoyed playing up tastefully.)
