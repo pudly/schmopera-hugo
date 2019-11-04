@@ -98,3 +98,8 @@ Tenor Keith Jameson played a composite role comprising four different characters
 Chad Shelton's Witch of Endor, emerging from the dust head-first, rather played up the blasphemous implications of this role. (Pop quiz: Can you guess the meter of the Witch's aria after one listening? Another of Handel's little deceptive tricks which Maestro Summers enjoyed playing up tastefully.)
 
 In sum, _Saul_ constitutes one of the most ambitious productions HGO has yet mounted in terms of sheer originality and integration of concept, and they have succeeded in convincing me that they fully stand behind it. They can be rightly proud of curating an operatic experience that can only be called epochal., and I am certainly satisfied that in their musical and theatrical fluency, the company have demonstrated the capacity to do the likes of Rameau justice, after eschewing the notion that French is, for some reason, difficult.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572893906/media/2019/11/HGOSaul2019LynnLane-151_cobuia.jpg){{% /md %}}
+
+<figcaption>Christopher Purves (Saul) and the HGO Chorus and dancers in Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
+</figure>
