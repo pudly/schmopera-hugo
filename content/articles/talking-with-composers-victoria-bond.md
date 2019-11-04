@@ -1,7 +1,7 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Interview"
-date = 2019-11-03T04:00:00Z
+date = 2019-11-04T05:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "Victoria Bond's _Clara_ is onstage [November 8](https://www.symphonyspace.org/events/vp-clara-an-opera-by-victoria-bond) in NYC, and [November 10](https://www.rcmsmusic.org/bond-clara) in Rhinebeck, NY."
