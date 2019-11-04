@@ -1,7 +1,7 @@
 +++
 author = ["authors/andrew-schneider.md"]
 categories = "Review"
-date = 2019-11-03T04:00:00Z
+date = 2019-11-04T05:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "Houston Grand Opera's production of [Saul](https://www.houstongrandopera.org/saul) is onstage through November 8."
