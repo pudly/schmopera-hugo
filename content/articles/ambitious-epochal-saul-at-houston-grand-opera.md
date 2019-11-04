@@ -72,9 +72,9 @@ This production fleshes out Saul's descent into genuine obsessive insanity in a 
 
 Exemplifying the possible virtues of monarchy, supple countertenor [Aryeh Nussbaum Cohen](/scene/people/aryeh-nussbaum-cohen/) portrays David in his early years, having just slain Goliath and navigating the treachery that can accompany such quick-won celebrity, as he effortlessly leaps between ardent virility and tranquil modesty in various forms, about as often as he changes costumes; he never portrayed David as grasping after the throne in any way, a posture which I found compelling given modern society’s lack of association with such altruistic lack of self-interest.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572893705/media/2019/11/HGOSaul2019LynnLane-107_fi5ahg.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572893874/media/2019/11/HGOSaul2019LynnLane-134_pn3lkf.jpg){{% /md %}}
 
-<figcaption>(l-r) Andriana Chuchman (Michal), Paul Appleby (Jonathan), Pureum Jo (Merab), and Christopher Purves (Saul) in Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
+<figcaption>Christopher Purves (Saul) in Saul, Houston Grand Opera, 2019. Photo: Lynn Lane.</figcaption>  
 </figure>
 
 As Jonathan, tenor [Paul Appleby](/scene/people/paul-appleby/) chooses to take the route of playing the Roman model of probity and constancy, easy to overdo, which I have always admired, but a portrayal which he keeps extremely human and believable, the tensions between him and the son of Jesse being always present onstage, even if not directly expressed in the text. His naturalistic delivery was always empathetic, and made me think that there is still hope for composers who take inspiration from classical models of virtue.
