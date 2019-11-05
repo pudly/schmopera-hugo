@@ -3,10 +3,9 @@ author = ["authors/jenna.md"]
 categories = "Interview"
 date = 2019-11-04T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "_Another Brick in the Wall_ is onstage in [Toronto](http://anotherbrickopera.com/en/?section=tickets), November 13-23, and in [Vancouver](https://www.vancouveropera.ca/another-brick-in-the-wall-the-opera/) April 23-May 2."
-preamble = ""
+preamble = "After its 2017 premiere in Montréal, [_Another Brick in the Wall: The Opera_](http://anotherbrickopera.com/en/?section=tickets) comes to Toronto for a run of shows, Nov. 13-23 at Meridian Hall.\n\nThe opera is inspired by the essential 1979 album, _The Wall_, featuring lyrics by Roger Waters and original music by Canadian composer Julien Bilodeau. It tells the story of Pink, a rockstar singer, and his arc from fame to insanity. We spoke with bass-baritone Nathan Keoughan, who sings Pink, about the grand-opera roots of _Another Brick in the Wall._"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572921454/media/2019/11/sq3-AnotherBrickintheWall-photosbyYvesRenaud_ym4sgp.jpg"
 primary_image_credit = "Another Brick in the Wall. Photo by Yves Renaud."
 related_articles = ["articles/opera-spin-off.md", "articles/hadrian-a-true-grand-opera.md"]
