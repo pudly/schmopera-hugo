@@ -5,13 +5,13 @@ date = 2019-11-04T05:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "_Another Brick in the Wall_ is onstage in [Toronto](http://anotherbrickopera.com/en/?section=tickets), November 13-23, and in [Vancouver](https://www.vancouveropera.ca/another-brick-in-the-wall-the-opera/) April 23-May 2."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572921454/media/2019/11/sq3-AnotherBrickintheWall-photosbyYvesRenaud_ym4sgp.jpg"
 primary_image_credit = "Another Brick in the Wall. Photo by Yves Renaud."
-related_articles = []
-related_companies = []
-related_people = []
+related_articles = ["articles/opera-spin-off.md", "articles/hadrian-a-true-grand-opera.md"]
+related_companies = ["scene/companies/cincinnati-opera.md", "scene/companies/lopra-de-montral.md"]
+related_people = ["scene/people/nathan-keoughan.md"]
 short_description = "\"The show itself is a grandiose spectacle indicative of traditional opera productions, but more importantly the score written by Julien Bilodeau is incredibly rich, beautiful, impressive and clever.\""
 slug = "a-grandiose-spectacle-in-another-brick-in-the-wall-the-opera"
 title = "\"A grandiose spectacle\" in Another Brick in the Wall: The Opera"
