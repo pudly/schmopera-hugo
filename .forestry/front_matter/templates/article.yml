@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/don-t-miss-another-brick-in-the-wall.md
 - content/articles/ambitious-epochal-saul-at-houston-grand-opera.md
 - content/articles/talking-with-composers-victoria-bond.md
 - content/articles/wno-flute.md
