@@ -42,7 +42,7 @@ I do find it challenging as a singer to know exactly what style I’m singing in
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572921638/media/2019/11/BilodeauKeoughan_efqjgc.jpg){{% /md %}}
 
-<figcaption>(l-r) Julien Bilodeau, composer, and Nathan Keoughan </figcaption>
+<figcaption>(l-r) Julien Bilodeau, composer of Another Brick in the Wall: the Opera (photo: Philippe Stirnweiss), and Nathan Keoughan, singing the role of Pink.</figcaption>
 
 </figure>
 
