@@ -1,7 +1,7 @@
 +++
 author = ["authors/hannah-de-priest.md"]
 categories = "Review"
-date = 2019-11-04T05:00:00Z
+date = 2019-11-05T05:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "Lyric Opera of Chicago's production of [_Dead Man Walking_](https://www.lyricopera.org/productions/2019-20/dead-man-walking/) runs through November 22."
