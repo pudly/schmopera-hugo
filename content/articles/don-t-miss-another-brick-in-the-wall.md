@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "\"The show itself is a grandiose spectacle indicative of traditional opera productions, but more importantly the score written by Julien Bilodeau is incredibly rich, beautiful, impressive and clever.\""
-slug = "dont-miss-another-brick-in-the-wall"
-title = "Don't miss: Another Brick in the Wall"
+slug = "a-grandiose-spectacle-in-another-brick-in-the-wall-the-opera"
+title = "\"A grandiose spectacle\" in Another Brick in the Wall: The Opera"
 youtube_url = ""
 
 +++
