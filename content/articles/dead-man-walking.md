@@ -10,10 +10,10 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572923612/m
 primary_image_credit = ""
 related_articles = ["articles/we-took-a-real-chance-with-great-scott.md", "articles/dead-man-walking-makes-its-minnesota-opera-debut.md"]
 related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
-related_people = ["scene/people/patricia-racette.md", "scene/people/susan-graham.md"]
+related_people = ["scene/people/ryan-mckinny.md", "scene/people/patricia-racette.md", "scene/people/susan-graham.md"]
 short_description = "Graham's performance is gut-wrenchingly sincere and she's as vocally resplendent as ever, even when her voice seems on the verge of breaking with emotion."
-slug = "dead-man-walking"
-title = "Dead Man Walking"
+slug = "stellar-performances-from-a-star-cast-in-chicagos-dead-man-walking"
+title = "Stellar performances from a star cast in Chicago's Dead Man Walking"
 youtube_url = ""
 
 +++
