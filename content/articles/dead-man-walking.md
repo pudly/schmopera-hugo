@@ -32,7 +32,7 @@ With these performances, the exquisite [Patricia Racette](/scene/people/patricia
 
 > Graham is a committed champion of _Dead Man Walking._
 
-In his Lyric Opera debut, bass-baritone [Ryan McKinny](/scene/people/ryan-mckinny/) stuns as death row convict Joseph De Rocher. Vacillating between cynical detachment and raw fear, McKinny's De Rocher never feels trite or straightforward. When we first meet De Rocher, he's selfish and brusk, having invited Sister Helen to Angola with the goal of getting a sympathetic nun to help get his death sentence commuted.
+In his debut with the role and at Lyric Opera, bass-baritone [Ryan McKinny](/scene/people/ryan-mckinny/) stuns as death row convict Joseph De Rocher. Vacillating between cynical detachment and raw fear, McKinny's De Rocher never feels trite or straightforward. When we first meet De Rocher, he's selfish and brusk, having invited Sister Helen to Angola with the goal of getting a sympathetic nun to help get his death sentence commuted.
 
 As the opera unfolds and his fate is irrevocably sealed, our original estimation of De Rocher is challenged - he still won't admit his guilt but we also start to see his shame, his frustrated regret, and his human need for connection. It is a testament both to the dramatic arc of the libretto and McKinny's nuanced performance that by the end of the work, De Rocher's deathbed confession and final line, ("I love you"), feel neither predictable nor saccharine.
 
@@ -47,7 +47,7 @@ Hunched over and shuffling, with an old pocketbook cradled in her arm, mezzo-sop
 
 We witness a woman simultaneously in denial and horrified by the crime her son is convicted of, yet who nonetheless pours out her love for her eldest son and implores an appeals panel on his behalf. Graham's performance is gut-wrenchingly sincere and she's as vocally resplendent as ever, even when her voice seems on the verge of breaking with emotion.
 
-Whitney Morrison, a recent alumna of the Patrick G. and Shirley W. Ryan Opera Center, made an impactful professional debut with the company in the role of Sister Rose. Her big, gleaming voice was simply a joy to hear, especially in her Act II scene with Sister Helen.
+Whitney Morrison, a recent alumna of The Patrick G. and Shirley W. Ryan Opera Center, made an impactful professional debut with the company in the role of Sister Rose. Her big, gleaming voice was simply a joy to hear, especially in her Act II scene with Sister Helen.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572923633/media/2019/11/LOCDeadManWalking4430_flplf1.jpg){{% /md %}}
 
@@ -65,6 +65,6 @@ While I hope for a future where such things do not require special mention, it i
 <figcaption>Dead Man Walking, Lyric Opera of Chicago, 2019. Photo: Ken Howard.</figcaption>  
 </figure>
 
-At the curtain call on opening night, many of the cast members looked to be crying as they took in the roar of the crowd at the Civic Opera House when composer Jake Heggie escorted Sister Helen Prejean onto the stage. The next-level performances by this cast suggest they have a deeply-felt passion for this opera and a strong belief in its import.
+At the curtain call on opening night, many of the cast members looked to be crying as they took in the roar of the crowd at the Lyric Opera House when composer Jake Heggie escorted Sister Helen Prejean onto the stage. The next-level performances by this cast suggest they have a deeply-felt passion for this opera and a strong belief in its import.
 
 And I share their enthusiasm! Go see _Dead Man Walking_ at Lyric Opera of Chicago. Whether you are a hardcore opera fan or are totally new to the genre, this show is a testament to the power of operatic storytelling.
