@@ -1,7 +1,7 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Interview"
-date = 2019-11-04T05:00:00Z
+date = 2019-11-05T05:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "_Another Brick in the Wall_ is onstage in [Toronto](http://anotherbrickopera.com/en/?section=tickets), November 13-23, and in [Vancouver](https://www.vancouveropera.ca/another-brick-in-the-wall-the-opera/) April 23-May 2."
