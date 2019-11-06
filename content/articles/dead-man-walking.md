@@ -7,7 +7,7 @@ image_gallery = []
 postamble = "Lyric Opera of Chicago's production of [_Dead Man Walking_](https://www.lyricopera.org/productions/2019-20/dead-man-walking/) runs through November 22."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572923612/media/2019/11/sqLOCDeadManWalking6531_dy0mye.jpg"
-primary_image_credit = ""
+primary_image_credit = "Dead Man Walking, Lyric Opera of Chicago, 2019. Photo: Ken Howard."
 related_articles = ["articles/we-took-a-real-chance-with-great-scott.md", "articles/dead-man-walking-makes-its-minnesota-opera-debut.md"]
 related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
 related_people = ["scene/people/ryan-mckinny.md", "scene/people/patricia-racette.md", "scene/people/susan-graham.md"]
@@ -25,7 +25,7 @@ Since the book's release in 1993, Sister Helen has become the nation's leading a
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572923669/media/2019/11/LOCDeadManWalking674_nkambc.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Dead Man Walking, Lyric Opera of Chicago, 2019. Photo: Ken Howard.</figcaption>  
 </figure>
 
 With these performances, the exquisite [Patricia Racette](/scene/people/patricia-racette/) makes her role debut as Sister Helen. Racette's earnest portrayal was deeply moving and crucially believable. Moreover, even with a put-on twang, Racette's endlessly sparkly tone and pitch-perfect diction rendered the supertitles wholly superfluous. Onstage for virtually the entire length of the opera, the role of Sister Helen is notoriously difficult in terms of acting and vocal stamina. Racette tackles both with aplomb, delivering a powerhouse performance that is as beautiful to listen to as it is captivating to watch.
@@ -38,7 +38,7 @@ As the opera unfolds and his fate is irrevocably sealed, our original estimation
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572923621/media/2019/11/LOCDeadManWalking3375_h59dyw.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Dead Man Walking, Lyric Opera of Chicago, 2019. Photo: Ken Howard.</figcaption>  
 </figure>
 
 Hunched over and shuffling, with an old pocketbook cradled in her arm, mezzo-soprano [Susan Graham](/scene/people/susan-graham/) disappears into the role of Mrs. De Rocher, Joseph's mother. Graham is a committed champion of _Dead Man Walking_, having created the role of Sister Helen when the work first premiered at San Francisco Opera and previously sang Mrs. De Rocher at Washington National Opera.
@@ -51,7 +51,7 @@ Whitney Morrison, a recent alumna of the Patrick G. and Shirley W. Ryan Opera Ce
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572923633/media/2019/11/LOCDeadManWalking4430_flplf1.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Dead Man Walking, Lyric Opera of Chicago, 2019. Photo: Ken Howard.</figcaption>  
 </figure>
 
 McNally's masterful libretto alternates stylized confessional monologues with brief, naturalistic moments of one-on-one dialogue occasionally spiked with a dry, Southern humor. True ensemble scenes are rare but powerful, especially the Act I courtroom scene, in which Sister Helen and the De Rocher family are pushed into the orbit of the parents of the children Joseph murdered. In the roles of the grieving parents, Wayne Tiges, Lauren Decker, Talise Trevigne, and Allan Glassman delivered strongly-sung, emotive performances.
@@ -62,7 +62,7 @@ While I hope for a future where such things do not require special mention, it i
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572923650/media/2019/11/LOCDeadManWalking4335_eg8ixv.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Dead Man Walking, Lyric Opera of Chicago, 2019. Photo: Ken Howard.</figcaption>  
 </figure>
 
 At the curtain call on opening night, many of the cast members looked to be crying as they took in the roar of the crowd at the Civic Opera House when composer Jake Heggie escorted Sister Helen Prejean onto the stage. The next-level performances by this cast suggest they have a deeply-felt passion for this opera and a strong belief in its import.
