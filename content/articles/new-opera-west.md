@@ -24,9 +24,7 @@ youtube_url = ""
 
 New Opera West is unique in that it seeks to promote the growth and professional development for new, up-and-coming composers, librettists and artists in the creation of new opera.  We are creating performances that will be showcasing multiple composers within one show, presenting many diverse works around timely and relevant subject matter, that we hope, will work towards attracting new opera audiences and the general sustainability of opera in the 21st century.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573072397/media/2019/11/NOWMimoda_rmfzsv.jpg){{% /md %}}
-
-<figcaption></figcaption>  
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573072397/media/2019/11/NOWMimoda_rmfzsv.jpg){{% /md %}}  
 </figure>
 
 ## What do you think makes for a successful world-premiere opera?
@@ -49,7 +47,7 @@ We were also interested in eclectic musical styles. Two of them have styles clos
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573072440/media/2019/11/NWOIMG_6960_u4kubo.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>The New Opera West team. Image courtesy of New Opera West.</figcaption>  
 </figure>
 
 ## What do you hope audiences will take away from hearing these short new operas?
