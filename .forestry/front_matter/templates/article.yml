@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/talking-with-singers-erin-wall.md
 - content/articles/dead-man-walking.md
 - content/articles/new-opera-west.md
 - content/articles/don-t-miss-another-brick-in-the-wall.md
