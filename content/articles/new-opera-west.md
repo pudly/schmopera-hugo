@@ -22,6 +22,8 @@ youtube_url = ""
 
 **Emily Thebaut**: Los Angeles has an incredibly vibrant and evolving arts scene, which makes it the perfect place to launch New Opera West.  There are so many fantastic opera companies here that are doing really unique and avant-garde productions with the standard operatic repertoire and with new operas as well. We hope we can continue this trend of innovation within Los Angeles and make it a leading city in the promotion and creation of new music.
 
+> We were also interested in eclectic musical styles.
+
 New Opera West is unique in that it seeks to promote the growth and professional development for new, up-and-coming composers, librettists and artists in the creation of new opera.  We are creating performances that will be showcasing multiple composers within one show, presenting many diverse works around timely and relevant subject matter, that we hope, will work towards attracting new opera audiences and the general sustainability of opera in the 21st century.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573155046/media/2019/11/sqNewOperaWest_il8whv.jpg){{% /md %}}  
@@ -44,6 +46,8 @@ Beyond all of these factors, the final test is audience response. Were they move
 **Mark Lanz Weiser**: We had some specific technical requirements: the scenes were limited to two or four characters, about 10 minutes in length, with piano accompaniment only. It was also important that the scene is self contained dramatically. We had composers submit excerpts of larger operas, however we ended up choosing scenes that were conceived as stand-alone pieces.
 
 Beyond that, we really wanted scenes that were either comedies, or had humor as an important element of the scene. We are really pleased that three of the five scenes are comedic. The one dramatic scene has a warmth to it and a profound emotional core that pairs nicely with the others.
+
+> We want these operas to captivate our audiences and create a more richer and meaningful experience for all involved.
 
 We were also interested in eclectic musical styles. Two of them have styles closer to musical theater, one of them is a bit avant-garde, and another one lovingly skewers traditional opera. We are thrilled to present this diverse group of opera scenes.
 
