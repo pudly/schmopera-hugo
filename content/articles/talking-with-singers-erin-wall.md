@@ -1,7 +1,7 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Interview"
-date = 2019-11-06T05:00:00Z
+date = 2019-11-07T05:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "Erin Wall stars in the Toronto Symphony Orchestra's in-concert presentation of [_Thaïs_](https://www.tso.ca/concert/thais-grand-opera-concert), conducted by Sir Andrew Davis, November 7 and 9."
