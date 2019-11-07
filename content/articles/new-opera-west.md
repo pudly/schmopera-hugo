@@ -1,13 +1,13 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Interview"
-date = 2019-11-06T05:00:00Z
+date = 2019-11-07T05:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
 postamble = ""
 preamble = "New Opera West, the LA-based opera company with a mission to create and promote new works, is presenting a Pop-Up event to showcase five new mini-operas, November 16-17 at Mimoda Studio. \n\nWe spoke with NOW Co-Founders Emily Thebaut and Mark Lanz Weiser, about their call for new works, their love of comedic opera, and the company's place in LA's opera scene."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1573072328/media/2019/11/sqNewOperaWest_vdx83r.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1573155008/media/2019/11/Logo-NOW_da0mp6.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
@@ -24,7 +24,9 @@ youtube_url = ""
 
 New Opera West is unique in that it seeks to promote the growth and professional development for new, up-and-coming composers, librettists and artists in the creation of new opera.  We are creating performances that will be showcasing multiple composers within one show, presenting many diverse works around timely and relevant subject matter, that we hope, will work towards attracting new opera audiences and the general sustainability of opera in the 21st century.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573072397/media/2019/11/NOWMimoda_rmfzsv.jpg){{% /md %}}  
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573155046/media/2019/11/sqNewOperaWest_il8whv.jpg){{% /md %}}  
+<figcaption>The team for New Opera West's Pop-Up Opera at Mimoda, November 16-17, 2019. Image courtesy of New Opera West.</figcaption>
+
 </figure>
 
 ## What do you think makes for a successful world-premiere opera?
@@ -45,13 +47,11 @@ Beyond that, we really wanted scenes that were either comedies, or had humor as 
 
 We were also interested in eclectic musical styles. Two of them have styles closer to musical theater, one of them is a bit avant-garde, and another one lovingly skewers traditional opera. We are thrilled to present this diverse group of opera scenes.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573072440/media/2019/11/NWOIMG_6960_u4kubo.jpg){{% /md %}}
-
-<figcaption>The New Opera West team. Image courtesy of New Opera West.</figcaption>  
-</figure>
-
 ## What do you hope audiences will take away from hearing these short new operas?
 
 **Emily Thebaut**: We hope that by providing our audiences with little snippets of five short operas (about 10-15 minutes in length), we can challenge their potential preconceptions of what opera and new music can be.  I think we've done a really good job at creating a program that features diverse music, both in compositional style and in subject matter.
 
 From an opera about a moose from the future who has come back to warn a couple about their impending catastrophe caused by their lack of care for the earth they live on, or an opera about Thomas Edison, a genius stifled by loneliness, we want these operas to captivate our audiences and create a more richer and meaningful experience for all involved.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573072397/media/2019/11/NOWMimoda_rmfzsv.jpg){{% /md %}}  
+</figure>
