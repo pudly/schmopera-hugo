@@ -28,4 +28,8 @@ But I have to put it on pause. As much as I want to lean into this thing, and en
 
 It's certainly not fun to know this shit, to know it about specific people, some of whom walk in my own industry circles. You likely noticed that most of the stories are anonymous - but that doesn't mean I never got a name. It's a weird mix of feeling entrusted with delicate information, and feeling laden with a secret that's not mine to tell.
 
-But something like #TheStories is, at the very least, worthy of some reflection. The feedback to the series has been largely positive. You, the readers, have stood in internet solidarity with these victims, with a unanimity that took me by honest surprise. It was always there, but the  
+But something like #TheStories is, at the very least, worthy of some reflection. The feedback to the series has been largely positive. You, the readers, have stood in internet solidarity with these victims, with a unanimity that took me by honest surprise. It was always there, but the people who read and shared these stories have proved that the power lies no longer in the hands of an abusive few, but of a watchful mass. 
+
+I can say with certainty that industry norms have been officially challenged. And even more importantly, the dangerous commonality that many of these victims share - doubt that their story is worth telling, and doubt that anything could or would be done in response to their abuse - is dashed to pieces.
+
+This may not be the hard line that ends #TheStories,
