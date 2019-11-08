@@ -12,7 +12,7 @@ primary_image_credit = ""
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "I figure those of you reading this post are many of the same people who have been following #TheStories. It's a series of posts that tell stories of sexual abuse, harassment, and assault within the realms of opera and classical music."
+short_description = "You likely noticed that most of the stories are anonymous - but that doesn't mean I never got a name. It's a weird mix of feeling entrusted with delicate information, and feeling laden with a secret that's not mine to tell."
 slug = "thestories-for-better-or-for-worse"
 title = "#TheStories, for better or for worse"
 youtube_url = ""
@@ -20,7 +20,9 @@ youtube_url = ""
 +++
 Alright. Hi, everyone.
 
-I figure those of you reading this post are many of the same people who have been following [#TheStories](/thestories-are-coming-out-and-heres-why/). It's a series of posts that tell true stories of sexual abuse, harassment, and assault within the realms of opera and classical music. I received tons of them, and I posted 15. That might not sound like a huge number, but let's think on it: that's 15 people who have stories to tell, out of the small pool of opera folk, and the even smaller pool among those who closely follow Schmopera, and the still smaller pool of those who feel inclined to re-live their experiences with enough detail to write it down in an email.
+I figure those of you reading this post are many of the same people who have been following [#TheStories](/thestories-are-coming-out-and-heres-why/). It's a series of posts that tell true stories of sexual abuse, harassment, and assault within the realms of opera and classical music. 
+
+I received tons of these stories, and I posted 15. That might not sound like a huge number, but let's think on it: that's 15 people who have stories to tell, out of the modest pool of opera folk, and the smaller pool among those who closely follow Schmopera, and the still smaller pool of those who feel inclined to re-live their experiences with enough detail to write it down in an email.
 
 I'm still receiving stories, nearly three months after this whole thing kicked off. That's a long time to maintain momentum, in internet land. And so there's a part of me that is so proud that there are brave people still reaching out, politely inquiring if I'm still interested in hearing what they have to say. Absolutely, I'm interested. Someone has to be, after all. Part of this whole problem is that these victims didn't think they had anyone to tell.
 
@@ -32,4 +34,6 @@ But something like #TheStories is, at the very least, worthy of some reflection.
 
 I can say with certainty that industry norms have been officially challenged. And even more importantly, the dangerous commonality that many of these victims share - doubt that their story is worth telling, and doubt that anything could or would be done in response to their abuse - is dashed to pieces.
 
-This may not be the hard line that ends #TheStories,
+You may see one or two final additions to #TheStories, even after I write this attempt at closure. There's value in sharing them, even if it makes for messily drawn line. 
+
+And in case you read this and feel dismay at having missed an opportunity to tell a story of your own: I'll continue to be an audience. 
