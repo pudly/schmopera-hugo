@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/thestories-for-better-or-for-worse.md
 - content/articles/new-opera-west.md
 - content/scene/companies/new-opera-west.md
 - content/articles/talking-with-singers-erin-wall.md
