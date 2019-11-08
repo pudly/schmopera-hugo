@@ -34,6 +34,8 @@ But something like #TheStories is, at the very least, worthy of some reflection.
 
 I can say with certainty that industry norms have been officially challenged. And even more importantly, the dangerous commonality that many of these victims share - doubt that their story is worth telling, and doubt that anything could or would be done in response to their abuse - is dashed to pieces.
 
-You may see one or two final additions to #TheStories, even after I write this attempt at closure. There's value in sharing them, even if it makes for messily drawn line. 
+You may see one or two final additions to #TheStories, even after I write this attempt at closure. There's value in sharing them, even if it makes for a messily drawn line. 
 
-And in case you read this and feel dismay at having missed an opportunity to tell a story of your own: I'll continue to be an audience. 
+And in case you read this and feel dismay at having missed an opportunity to tell a story of your own: I'll continue to be an audience. Sometimes it's easier to tell a stranger about the tough stuff than it is to tell a friend, and I can step into that role. I know I said it's tough to read, but it's not tougher than going through this crap. So, if I can help, offer perspective, or commiserate for the sake of venting, please take me up on my official offer.
+
+Thanks for reading, everyone. What a goddamn rollercoaster.
