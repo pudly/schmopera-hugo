@@ -27,3 +27,5 @@ I'm still receiving stories, nearly three months after this whole thing kicked o
 But I have to put it on pause. As much as I want to lean into this thing, and endlessly press the point that #metoo is _everywhere_ in this industry, I have to admit it's getting to me. It's not fun to read these stories with an editor's level of detail. It's not fun - for me or for the author, obviously - to get on the phone with victims and go through it all again, clarifying details and discussing whether or not to name the abuser. 
 
 It's certainly not fun to know this shit, to know it about specific people, some of whom walk in my own industry circles. You likely noticed that most of the stories are anonymous - but that doesn't mean I never got a name. It's a weird mix of feeling entrusted with delicate information, and feeling laden with a secret that's not mine to tell.
+
+But something like #TheStories is, at the very least, worthy of some reflection. The feedback to the series has been largely positive. You, the readers, have stood in internet solidarity with these victims, with a unanimity that took me by honest surprise. It was always there, but the  
