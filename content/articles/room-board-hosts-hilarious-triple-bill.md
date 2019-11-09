@@ -44,14 +44,4 @@ It does not hurt at all that, as is usual in performances like this, the singer-
 
 The cast of _Always_ displayed this brilliantly, particularly with Hunter and DeFranco's lovestruck puppy performances, but special mention should be made for Carina DiGianfilippo and Junhan Chois easy chemistry in _Battle of Bull Run_. But this really came to a head with Lindsay Conrad's turn as Naomi: her facial expressions and her versatile voice jumped around with the flow of Bailey Holland's chaotic music so masterfully that she quite literally stole the entire evening, and her comedic timing was so spot on that it left the audience laughing loudly enough to drown out the music in some places, and that's to say nothing of how her feigned orgasm on the couch elicited such strong laughter that it paused the show for nearly one whole minute while the audience gathered its bearings.
 
-In such a tightly-organized performance, it is difficult to find anything to really criticize,
-
-and that is really a testament to the quality of the performances that graced Room & Board. This
-
-was an evening of opera at its finest, with plenty of both human drama and comedy to spare. It
-
-is yet another testament to the success of attempting to perform operas in unconventional
-
-spaces that has overtaken the city’s opera scene, and I can’t wait to see what companies like
-
-Boston Opera Collaborative do with such spaces in the future.
+In such a tightly-organized performance, it is difficult to find anything to really criticize, and that is really a testament to the quality of the performances that graced _Room & Board_. This was an evening of opera at its finest, with plenty of both human drama and comedy to spare. It is yet another testament to the success of attempting to perform operas in unconventional spaces that has overtaken the city's opera scene, and I can't wait to see what companies like Boston Opera Collaborative do with such spaces in the future.
