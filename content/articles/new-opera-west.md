@@ -1,16 +1,15 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Interview"
-date = 2019-11-07T05:00:00Z
+date = 2019-11-10T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = "[New Opera West](/scene/companies/new-opera-west/), the LA-based opera company with a mission to create and promote new works, is presenting a Pop-Up event to showcase five new mini-operas, November 16-17 at Mimoda Studio.\n\nWe spoke with NOW Co-Founders Emily Thebaut and Mark Lanz Weiser, about their call for new works, their love of comedic opera, and the company's place in LA's opera scene."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1573155008/media/2019/11/Logo-NOW_da0mp6.jpg"
 primary_image_credit = ""
 related_articles = []
-related_companies = []
+related_companies = ["scene/companies/new-opera-west.md"]
 related_people = []
 short_description = "\"The strength of any given piece is usually revealed fairly early in the process. Even a first run-through can indicate whether something is going to work or not.\""
 slug = "check-out-new-opera-west"
