@@ -4,9 +4,9 @@ categories = "Interview"
 date = 2019-11-10T05:00:00Z
 disclaimer = ""
 image_gallery = []
-postamble = ""
-preamble = "[New Opera West](/scene/companies/new-opera-west/), the LA-based opera company with a mission to create and promote new works, is presenting a Pop-Up event to showcase five new mini-operas, November 16-17 at Mimoda Studio.\n\nWe spoke with NOW Co-Founders Emily Thebaut and Mark Lanz Weiser, about their call for new works, their love of comedic opera, and the company's place in LA's opera scene."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1573155008/media/2019/11/Logo-NOW_da0mp6.jpg"
+postamble = "New Opera West's [Pop-Up Opera @ Mimoda](https://www.newoperawest.org/new-page-51) happens November 16-17."
+preamble = "[New Opera West](/scene/companies/new-opera-west/), the LA-based opera company with a mission to create and promote new works, is presenting a Pop-Up Opera @ Mimoda, showcasing five new mini-operas, November 16-17.\n\nWe spoke with NOW Co-Founders Emily Thebaut and Mark Lanz Weiser, about their call for new works, their love of comedic opera, and the company's place in LA's opera scene."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1573415569/media/2019/11/sqNOWPopUp_udkqnb.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = ["scene/companies/new-opera-west.md"]
@@ -56,5 +56,5 @@ We were also interested in eclectic musical styles. Two of them have styles clos
 
 From an opera about a moose from the future who has come back to warn a couple about their impending catastrophe caused by their lack of care for the earth they live on, or an opera about Thomas Edison, a genius stifled by loneliness, we want these operas to captivate our audiences and create a more richer and meaningful experience for all involved.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573072397/media/2019/11/NOWMimoda_rmfzsv.jpg){{% /md %}}  
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573415631/media/2019/11/BannerNOW_pmetqz.jpg){{% /md %}}  
 </figure>
