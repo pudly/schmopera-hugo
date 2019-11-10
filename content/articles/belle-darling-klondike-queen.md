@@ -24,6 +24,6 @@ _Belle Darling Klondike Queen_ is named for Kathleen Rockwell, the dancer and va
 
 Klondike Kate was one of the few folks - and even fewer women - who prospered, at least for a time, during the Gold Rush. She was a star of the Savoy Theatrical Company in Dawson City, Yukon, her work wavering in the grey areas between onstage performer and offstage companion to the male miners, far from home and in search of fortune. She was tough and brave by anyone's standards, let alone as a woman entrepreneur in the turn-of-the-century Canadian Arctic.
 
-_Belle Darling Klondike Queen_ is a vaudeville, a meta nod to Kate's medium. It's set in the real-life world of the
+_Belle Darling Klondike Queen_ is a vaudeville, a meta nod to Kate's medium. It's set in the 1931 Sourdough Reunion in Portland, OR, when 
 
 * heydays, traps for women, feeling part of a community
