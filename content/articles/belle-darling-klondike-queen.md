@@ -26,6 +26,8 @@ Klondike Kate was one of the few folks - and even fewer women - who prospered, a
 
 Natalie Frijia creates a real force in the Klondike Kate we meet in _Belle Darling Klondike Queen_, and Lindsay Sutherland Boal delivers in the title role. _Belle Darling_ is done entirely in vaudeville style - songs and all - Sutherland Boal leading her supportive, adaptive, hilarious ensemble of three (Sarah Kaufmann, Madeleine Keesmaat-Walsh, and Roxhanne Norman).
 
-The vaudeville through-line is brilliant. On the surface, it's a reminder that putting on a variety show takes major skill; it's another layer of being wowed by Klondike Kate, that she can not only survive in a corset in the Yukon, but put on a great show night after night. 
+The vaudeville through-line is brilliant. On the surface, it's a reminder that putting on a variety show takes major skill; it's another layer of being wowed by Klondike Kate (and Sutherland Boal, frankly), that she can not only survive in a corset in the Yukon, but put on a great show night after night. 
+
+And it's a way for us to get nothing but great stories from a truly charismatic woman. Kate does that arresting, amazing, rare thing onstage, where she makes friends with her audience, and overshares in a beautiful way. We learn about her adventures, her face-offs with mountains and men, and her near-insane love for the stage. We understand that she's smart, aware of the grey areas inherent in her work; if she ever ever sold more than her stage presence, she did it by choice, goddammit. We 
 
 * heydays, traps for women, feeling part of a community
