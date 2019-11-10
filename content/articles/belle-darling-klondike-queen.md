@@ -28,6 +28,8 @@ Natalie Frijia creates a real force in the Klondike Kate we meet in _Belle Darli
 
 The vaudeville through-line is brilliant. On the surface, it's a reminder that putting on a variety show takes major skill; it's another layer of being wowed by Klondike Kate (and Sutherland Boal, frankly), that she can not only survive in a corset in the Yukon, but put on a great show night after night. 
 
-And it's a way for us to get nothing but great stories from a truly charismatic woman. Kate does that arresting, amazing, rare thing onstage, where she makes friends with her audience, and overshares in a beautiful way. We learn about her adventures, her face-offs with mountains and men, and her near-insane love for the stage. We understand that she's smart, aware of the grey areas inherent in her work; if she ever ever sold more than her stage presence, she did it by choice, goddammit. We 
+And it's a way for us to get nothing but great stories from a truly charismatic woman. Kate does that arresting, amazing, rare thing onstage, where she makes friends with her audience, and overshares in a beautiful way. 
+
+We learn about her adventures, her face-offs with mountains and men, and her near-insane love for the stage - her stories really are the kind to make you lean in and listen. We learn that she's smart, aware of the grey areas inherent in her work; if she ever ever sold those miners more than her stage presence, she did it by choice, goddammit.
 
 * heydays, traps for women, feeling part of a community
