@@ -12,8 +12,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "It's not just a historical vaudeville hoot, but it's as different as it could be from the other two on the line-up - the social-media tragedy of Crystal Wood's Grief Circus, and the feminist-Cinderella of If the Shoe Fits."
-slug = "belle-darling-klondike-queen"
-title = "Belle Darling Klondike Queen"
+slug = "a-fab-kick-off-to-the-fireworks-festival-belle-darling-klondike-queen"
+title = "A fab kick-off to the FireWorks Festival: Belle Darling Klondike Queen"
 youtube_url = ""
 
 +++
