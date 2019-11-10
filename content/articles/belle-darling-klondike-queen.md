@@ -24,6 +24,6 @@ _Belle Darling Klondike Queen_ is named for Kathleen Rockwell, the dancer and va
 
 Klondike Kate was one of the few folks - and even fewer women - who prospered, at least for a time, during the Gold Rush. She was a star of the Savoy Theatrical Company in Dawson City, Yukon, her work wavering in the grey areas between onstage performer and offstage companion to the male miners, far from home and in search of fortune. She was tough and brave by anyone's standards, let alone as a woman entrepreneur in the turn-of-the-century Canadian Arctic.
 
-Natalie Frijia creates a real force in the Klondike Kate we meet in _Belle Darling Klondike Queen_. It's all delivered in vaudeville style, complete with songs to offer commentary 
+Natalie Frijia creates a real force in the Klondike Kate we meet in _Belle Darling Klondike Queen_. It's all delivered in vaudeville style, complete with songs and a scrappy, hilarious, all-purpose ensemble. Lindsay Sutherland Boal steps into the title role, 
 
 * heydays, traps for women, feeling part of a community
