@@ -1,14 +1,14 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Editorial"
-date = "2019-10-14T04:00:00+00:00"
+date = 2019-10-14T04:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "If you have a true story of sexual harassment, abuse, or assault within the opera and classical music industries, you can send it to me at [jenna@schmopera.com](mailto:jenna@schmopera.com)."
 preamble = "This is one part in a series of personal accounts of harassment, abuse, and assault in the opera and classical music industries. These stories are published as told to me, with some names and details withheld at the author's request."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571941840/media/2019/10/TheStories10-resized_l8ii7p.jpg"
 primary_image_credit = ""
-related_articles = ["articles/thestories-part-10-2.md", "articles/thestories-part-9.md", "articles/thestories-part-8.md", "articles/thestories-part-10.md", "articles/thestories-part-6.md", "articles/thestories-part-5.md", "articles/thestories-part-4.md", "articles/thestories-part-3.md", "articles/thestories-part-2.md", "articles/thestories-part-i.md", "articles/metoo-intro.md"]
+related_articles = ["articles/thestories-part-15.md", "articles/thestories-part-14.md", "articles/thestories-part-13.md", "articles/thestories-part-12.md", "articles/thestories-part-10-2.md", "articles/thestories-part-9.md", "articles/thestories-part-8.md", "articles/thestories-part-10.md", "articles/thestories-part-6.md", "articles/thestories-part-5.md", "articles/thestories-part-4.md", "articles/thestories-part-3.md", "articles/thestories-part-2.md", "articles/thestories-part-i.md", "articles/metoo-intro.md"]
 related_companies = []
 related_people = []
 short_description = "\"Each rejection only affirmed this belief; if I really had talent, someone would want me. On the other hand, each time I did manage to be cast, I was afraid it had been a mistake, and wondered if there was some other sort of agenda. To this day I find it difficult to trust mentors.\""
