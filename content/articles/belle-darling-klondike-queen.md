@@ -36,4 +36,4 @@ What moved me the most was discovering Kate's weaknesses. She had a true Achille
 
 That's what struck me as so amazing about the Kate in _Belle Darling_: She worked so tirelessly to make her own way in a world that frustrated her at every turn, and it probably hurt worse than anything for Kate to realize she had made a mistake, like any other ordinary woman, and gotten swindled by a man she loved.
 
-_Belle Darling Klondike Queen_, 
+_Belle Darling Klondike Queen_ is an unexpected piece of theatre that we all need. It's a play about history, strong women, and the power of nostalgia; for anyone who has felt as though they had a heyday, a period of time where they were their best selves, _Belle Darling_ speaks loudly in your direction.
