@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/thestories-part-10-2.md
 - content/articles/thestories-part-9.md
 - content/articles/thestories-part-8.md
 - content/articles/thestories-part-10.md
@@ -142,7 +143,6 @@ pages:
 - content/articles/freedom-ride.md
 - content/articles/follow-the-lieder-weird-wonderful-a-must-watch.md
 - content/articles/thestories-part-15.md
-- content/articles/thestories-part-10-2.md
 - content/articles/thestories-part-10-1.md
 - content/articles/thestories-part-12.md
 - content/articles/thestories-part-13.md

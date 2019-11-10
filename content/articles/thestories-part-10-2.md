@@ -1,14 +1,14 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Editorial"
-date = "2019-10-07T04:00:00+00:00"
+date = 2019-10-07T04:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "If you have a true story of sexual harassment, abuse, or assault within the opera and classical music industries, you can send it to me at [jenna@schmopera.com](mailto:jenna@schmopera.com)."
 preamble = "This is one part in a series of personal accounts of harassment, abuse, and assault in the opera and classical music industries. These stories are published as told to me, with some names and details withheld at the author's request."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571941900/media/2019/10/TheStories11-resized_hn9k3s.jpg"
 primary_image_credit = ""
-related_articles = ["articles/thestories-part-10-1.md", "articles/thestories-part-9.md", "articles/thestories-part-8.md", "articles/thestories-part-10.md", "articles/thestories-part-6.md", "articles/thestories-part-5.md", "articles/thestories-part-4.md", "articles/thestories-part-3.md", "articles/thestories-part-2.md", "articles/thestories-part-i.md", "articles/metoo-intro.md"]
+related_articles = ["articles/thestories-part-15.md", "articles/thestories-part-14.md", "articles/thestories-part-13.md", "articles/thestories-part-12.md", "articles/thestories-part-10-1.md", "articles/thestories-part-9.md", "articles/thestories-part-8.md", "articles/thestories-part-10.md", "articles/thestories-part-6.md", "articles/thestories-part-5.md", "articles/thestories-part-4.md", "articles/thestories-part-3.md", "articles/thestories-part-2.md", "articles/thestories-part-i.md", "articles/metoo-intro.md"]
 related_companies = []
 related_people = []
 short_description = "\"Several years ago I was cast in a production opposite a tenor I had briefly dated. After the breakup he had harassed me and my friends, so I was dreading seeing him, but figured that as he was cast as Basilio, we wouldn't have too many scenes together.\""
