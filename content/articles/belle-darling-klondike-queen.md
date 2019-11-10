@@ -26,7 +26,7 @@ Klondike Kate was one of the few folks - and even fewer women - who prospered, a
 
 Natalie Frijia creates a real force in the Klondike Kate we meet in _Belle Darling Klondike Queen_, and Lindsay Sutherland Boal delivers in the title role. _Belle Darling_ is done entirely in vaudeville style - songs and all - Sutherland Boal leading her supportive, adaptive, hilarious ensemble of three (Sarah Kaufmann, Madeleine Keesmaat-Walsh, and Roxhanne Norman).
 
-The vaudeville through-line is brilliant. On the surface, it's a reminder that putting on a variety show takes major skill; it's another layer of being wowed by Klondike Kate (and Sutherland Boal, frankly), that she can not only survive in a corset in the Yukon, but put on a great show night after night.
+The vaudeville through-line is brilliant. On the surface, it's a reminder that putting on a variety show takes major skill; it's another layer of being wowed by Klondike Kate (and Sutherland Boal, frankly), that she can not only survive in a corset in the Yukon, but put on a great show night after night. And pianist Calvin Laveck was a subtle star of the show, striding with the best of them on his beater upright.
 
 And it's a way for us to get nothing but great stories from a truly charismatic woman. Kate does that arresting, amazing, rare thing onstage, where she makes friends with her audience, and overshares in a beautiful way.
 
@@ -36,4 +36,4 @@ What moved me the most was discovering Kate's weaknesses. She had a true Achille
 
 That's what struck me as so amazing about the Kate in _Belle Darling_: She worked so tirelessly to make her own way in a world that frustrated her at every turn, and it probably hurt worse than anything for Kate to realize she had made a mistake, like any other ordinary woman, and gotten swindled by a man she loved.
 
-_Belle Darling Klondike Queen_ is an unexpected piece of theatre that we all need. It's a play about history, strong women, and the power of nostalgia; for anyone who has felt as though they had a heyday, a period of time where they were their best selves, _Belle Darling_ speaks loudly in your direction.
+_Belle Darling Klondike Queen_ is an unexpected piece of theatre that we all need, confirmed with Sutherland Boal's touching portrayal of Klondike Kate. It's a play about history, strong women, and the power of nostalgia; for anyone who has felt as though they had a heyday, a period of time where they were their best selves, _Belle Darling_ speaks loudly in your direction.
