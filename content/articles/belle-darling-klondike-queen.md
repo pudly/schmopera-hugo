@@ -32,4 +32,6 @@ And it's a way for us to get nothing but great stories from a truly charismatic 
 
 We learn about her adventures, her face-offs with mountains and men, and her near-insane love for the stage - her stories really are the kind to make you lean in and listen. We learn that she's smart, aware of the grey areas inherent in her work; if she ever ever sold those miners more than her stage presence, she did it by choice, goddammit.
 
+What moved me the most was discovering Kate's weaknesses. She had a true Achilles heel in being perceived as ordinary - worse, an ordinary woman.
+
 * heydays, traps for women, feeling part of a community
