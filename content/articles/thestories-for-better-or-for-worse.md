@@ -19,7 +19,7 @@ youtube_url = ""
 +++
 Alright. Hi, everyone.
 
-I figure those of you reading this post are many of the same people who have been following [#TheStories](/thestories-are-coming-out-and-heres-why/). It's a series of posts that tell true stories of sexual abuse, harassment, and assault within the realms of opera and classical music.
+I figure those of you reading this post are the same people who have been following [#TheStories](/thestories-are-coming-out-and-heres-why/). It's a series of posts that tell true stories of sexual abuse, harassment, and assault within the realms of opera and classical music.
 
 I received tons of these stories, and I posted 15. That might not sound like a huge number, but let's think on it: that's 15 people who have stories to tell, out of the modest pool of opera folk, and the smaller pool among those who closely follow Schmopera, and the still smaller pool of those who feel inclined to re-live their experiences with enough detail to write it down in an email.
 
