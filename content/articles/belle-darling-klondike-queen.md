@@ -45,7 +45,7 @@ And it's a way for us to get nothing but great stories from a truly charismatic 
 
 We learn about Klondike Kate's adventures, her face-offs with mountains and men, and her near-insane love for the stage - her stories really are the kind to make you lean in and listen. We learn that she's smart, aware of the grey areas inherent in her work; if she ever ever sold those miners more than her stage presence, she did it by choice, goddammit.
 
-What moved me the most was discovering Kate's weaknesses. She has a true Achilles heel in being perceived as ordinary - worse, an ordinary woman. One of the key parts of her biography is her relationship with theatre impresario Alexander Pantages, of the ubiquitous Pantages theatres. 
+What moved me the most was discovering Kate's weaknesses. She has a true Achilles heel in being perceived as ordinary - worse, an ordinary woman. One of the key parts of her biography is her relationship with theatre impresario Alexander Pantages, of the ubiquitous Pantages theatres.
 
 Klondike Kate met Pantages when he first arrived in Dawson City, Yukon, and fell for him. In return, he used her for her money; it's a tragic piece of history that the Pantages theatre circuit was hugely funded by Kate. She vilifies him for his behaviour - as she should - but she's more offended by the rumours of her being tricked by Pantages.
 
@@ -54,6 +54,6 @@ Klondike Kate met Pantages when he first arrived in Dawson City, Yukon, and fell
 <figcaption>Lindsay Sutherland Boal.</figcaption>  
 </figure>
 
-That's what struck me as so amazing about the Kate in _Belle Darling_: She worked so tirelessly to make her own way in a world that frustrated her at every turn, and it probably hurt worse than anything for Kate to realize she had made a mistake, like any other ordinary woman, and gotten swindled by a man she loved. 
+That's what struck me as so amazing about the Kate in _Belle Darling_: She worked so tirelessly to make her own way in a world that frustrated her at every turn, and it probably hurt worse than anything for Kate to realize she had made a mistake, like any other ordinary woman, and gotten swindled by a man she loved.
 
-_Belle Darling Klondike Queen_ is an unexpected piece of theatre that we all need, confirmed with Sutherland Boal's touching portrayal of Klondike Kate. It's a play about history, strong women, and the power of nostalgia; for anyone who has felt as though they had a heyday, a period of time where they were their best selves, _Belle Darling_ speaks loudly in your direction.
+Natalie Frijia's _Belle Darling Klondike Queen_ is an unexpected piece of theatre that we all need, confirmed with Sutherland Boal's touching portrayal of Klondike Kate. It's a play about history, strong women, and the power of nostalgia; for anyone who has felt as though they had a heyday, a period of time where they were their best selves, _Belle Darling_ speaks loudly in your direction.
