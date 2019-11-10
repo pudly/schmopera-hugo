@@ -26,7 +26,7 @@ _Belle Darling Klondike Queen_ is named for Kathleen Rockwell, the dancer and va
 <figcaption>(l-r) Calvin Laveck (pianist), Lindsay Sutherland Boal (Kate), Madeleine Keesmaat-Walsh (ensemble), Sarah Kaufmann (ensemble), and Roxhanne Norman (ensemble) in Belle Darling Klondike Queen, FireWorks Festival, Alumnae Theatre, 2019. Photo: Bruce Peters.</figcaption>  
 </figure>
 
-Klondike Kate was one of the few folks - and even fewer women - who prospered, at least for a time, during the Gold Rush. She was a star of the Savoy Theatrical Company in Dawson City, Yukon, her work wavering in the grey areas between onstage performer and offstage companion to the male miners, far from home and in search of fortune. She was tough and brave by anyone's standards, let alone as a woman entrepreneur in the turn-of-the-century Canadian Arctic.
+Klondike Kate was one of the few folks - and even fewer women - who prospered, at least for a time, during the Gold Rush. She was a star of the Savoy Theatrical Company in Dawson City, Yukon, her work wavering in the subtle spaces between onstage performer and offstage companion to the male miners, far from home and in search of fortune. She was tough and brave by anyone's standards, let alone as a woman entrepreneur in the turn-of-the-century Canadian Arctic.
 
 > Kate does that arresting, amazing, rare thing onstage, where she makes friends with her audience, and overshares in a beautiful way.
 
@@ -39,19 +39,21 @@ Natalie Frijia creates a real force in the Klondike Kate we meet in _Belle Darli
 
 The vaudeville through-line is brilliant. On the surface, it's a reminder that putting on a variety show takes major skill; it's another layer of being wowed by Klondike Kate (and Sutherland Boal, frankly), that she can not only survive in a corset in the Yukon, but put on a great show night after night. And pianist Calvin Laveck was a subtle star of the show, striding with the best of them on his beater upright.
 
-And it's a way for us to get nothing but great stories from a truly charismatic woman. Kate does that arresting, amazing, rare thing onstage, where she makes friends with her audience, and overshares in a beautiful way.
+And it's a way for us to get nothing but great stories from a truly charismatic woman. Kate - and just as much Sutherland Boal - does that arresting, amazing, rare thing onstage where she makes friends with her audience, and overshares in a beautiful way.
 
 > For anyone who has felt as though they had a heyday, a period of time where they were their best selves, _Belle Darling_ speaks loudly in your direction.
 
-We learn about her adventures, her face-offs with mountains and men, and her near-insane love for the stage - her stories really are the kind to make you lean in and listen. We learn that she's smart, aware of the grey areas inherent in her work; if she ever ever sold those miners more than her stage presence, she did it by choice, goddammit.
+We learn about Klondike Kate's adventures, her face-offs with mountains and men, and her near-insane love for the stage - her stories really are the kind to make you lean in and listen. We learn that she's smart, aware of the grey areas inherent in her work; if she ever ever sold those miners more than her stage presence, she did it by choice, goddammit.
 
-What moved me the most was discovering Kate's weaknesses. She had a true Achilles heel in being perceived as ordinary - worse, an ordinary woman. One of the key parts of her biography is her relationship with Alexander Pantages, the theatre mogul. Klondike Kate fell for Pantages, and he used her for her money; it's a tragic piece of history that the Pantages theatre circuit was funded by Kate. She vilifies him for his behaviour - as she should - but she's more offended by the rumours of her being tricked by Pantages. 
+What moved me the most was discovering Kate's weaknesses. She has a true Achilles heel in being perceived as ordinary - worse, an ordinary woman. One of the key parts of her biography is her relationship with theatre impresario Alexander Pantages, of the ubiquitous Pantages theatres. 
+
+Klondike Kate met Pantages when he first arrived in Dawson City, Yukon, and fell for him. In return, he used her for her money; it's a tragic piece of history that the Pantages theatre circuit was hugely funded by Kate. She vilifies him for his behaviour - as she should - but she's more offended by the rumours of her being tricked by Pantages.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573411741/media/2019/11/LSB_D859221_dj75ux.jpg){{% /md %}}
 
 <figcaption>Lindsay Sutherland Boal.</figcaption>  
 </figure>
 
-That's what struck me as so amazing about the Kate in _Belle Darling_: She worked so tirelessly to make her own way in a world that frustrated her at every turn, and it probably hurt worse than anything for Kate to realize she had made a mistake, like any other ordinary woman, and gotten swindled by a man she loved.
+That's what struck me as so amazing about the Kate in _Belle Darling_: She worked so tirelessly to make her own way in a world that frustrated her at every turn, and it probably hurt worse than anything for Kate to realize she had made a mistake, like any other ordinary woman, and gotten swindled by a man she loved. 
 
 _Belle Darling Klondike Queen_ is an unexpected piece of theatre that we all need, confirmed with Sutherland Boal's touching portrayal of Klondike Kate. It's a play about history, strong women, and the power of nostalgia; for anyone who has felt as though they had a heyday, a period of time where they were their best selves, _Belle Darling_ speaks loudly in your direction.
