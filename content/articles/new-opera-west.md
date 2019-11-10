@@ -1,7 +1,7 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Interview"
-date = 2019-11-10T05:00:00Z
+date = 2019-11-11T04:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "New Opera West's [_Pop-Up Opera @ Mimoda_](https://www.newoperawest.org/new-page-51) happens November 16-17."
