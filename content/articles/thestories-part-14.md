@@ -1,14 +1,14 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Editorial"
-date = "2019-10-22T04:00:00+00:00"
+date = 2019-10-22T04:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "If you have a true story of sexual harassment, abuse, or assault within the opera and classical music industries, you can send it to me at [jenna@schmopera.com](mailto:jenna@schmopera.com)."
 preamble = "This is one part in a series of personal accounts of harassment, abuse, and assault in the opera and classical music industries. These stories are published as told to me, with some names and details withheld at the author’s request."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571941638/media/2019/10/TheStories15-resized_xrkswx.jpg"
 primary_image_credit = ""
-related_articles = ["articles/thestories-part-13.md", "articles/thestories-part-12.md", "articles/thestories-part-10-1.md", "articles/thestories-part-10-2.md", "articles/thestories-part-9.md", "articles/thestories-part-8.md", "articles/thestories-part-10.md", "articles/thestories-part-6.md", "articles/thestories-part-5.md", "articles/thestories-part-4.md", "articles/thestories-part-3.md", "articles/thestories-part-2.md", "articles/thestories-part-i.md"]
+related_articles = ["articles/thestories-part-15.md", "articles/thestories-part-13.md", "articles/thestories-part-12.md", "articles/thestories-part-10-1.md", "articles/thestories-part-10-2.md", "articles/thestories-part-9.md", "articles/thestories-part-8.md", "articles/thestories-part-10.md", "articles/thestories-part-6.md", "articles/thestories-part-5.md", "articles/thestories-part-4.md", "articles/thestories-part-3.md", "articles/thestories-part-2.md", "articles/thestories-part-i.md"]
 related_companies = []
 related_people = []
 short_description = "\"I haven't told people about this, and those I have, I have been very cryptic about names. This is because this man's wife is very prominent in my business, and although a part of me would love to go up to her and tell her exactly what kind of a man her husband is, I am too scared that she would not believe me, and would do her best to make sure I never work again.\""
