@@ -21,7 +21,7 @@ Alright. Hi, everyone.
 
 I figure those of you reading this post are the same people who have been following [#TheStories](/thestories-are-coming-out-and-heres-why/). It's a series of posts that tell true stories of sexual abuse, harassment, and assault within the realms of opera and classical music.
 
-I received tons of these stories, and I posted 15. That might not sound like a huge number, but let's think on it: that's 15 people who have stories to tell, out of the modest pool of opera folk, and the smaller pool among those who closely follow Schmopera, and the still smaller pool of those who feel inclined to re-live their experiences with enough detail to write it down in an email.
+I received tons of these stories, and I [posted](/thestories-part-i/) 15. That might not sound like a huge number, but let's think on it: that's 15 people who have stories to tell, out of the modest pool of opera folk, and the smaller pool among those who closely follow Schmopera, and the still smaller pool of those who feel inclined to re-live their experiences with enough detail to write it down in an email.
 
 I'm still receiving stories, nearly three months after this whole thing kicked off. That's a long time to maintain momentum, in internet land. There's a part of me that is so proud that there are brave people still reaching out, politely inquiring if I'm still interested in hearing what they have to say. Absolutely, I'm interested. Someone has to be, after all. Part of this whole problem is that these victims didn't think they had anyone to tell.
 
