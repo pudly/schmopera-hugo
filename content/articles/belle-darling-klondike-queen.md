@@ -22,6 +22,6 @@ Toronto's Alumnae Theatre is in the midst of its [2019 FireWorks Festival](https
 
 _Belle Darling Klondike Queen_ is named for Kathleen Rockwell, the dancer and vaudeville star of the Klondike Gold Rush. Up in Alaska and the Yukon during the height of the Rush - just after the so-called ["stampede"](https://en.wikipedia.org/wiki/Klondike_Gold_Rush#Beginning_of_the_stampede_(July_1897)) of 1897-98 - Rockwell was known as Klondike Kate. 
 
-Klondike Kate was one of the few folks - and even fewer women - who prospered, at least for a time, during the Gold Rush. She was a star of the Savoy Theatrical Company in Dawson City, Yukon, her work wavering in the grey areas between onstage performer and offstage companion to the male miners, far from home and in search of fortune.
+Klondike Kate was one of the few folks - and even fewer women - who prospered, at least for a time, during the Gold Rush. She was a star of the Savoy Theatrical Company in Dawson City, Yukon, her work wavering in the grey areas between onstage performer and offstage companion to the male miners, far from home and in search of fortune. She was tough, defiant, and 
 
 * heydays, traps for women, feeling part of a community
