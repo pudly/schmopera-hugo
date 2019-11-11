@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/room-board-hosts-hilarious-triple-bill.md
 - content/articles/belle-darling-klondike-queen.md
 - content/articles/thestories-for-better-or-for-worse.md
 - content/articles/new-opera-west.md
@@ -133,7 +134,6 @@ pages:
 - content/articles/thestories-part-3.md
 - content/articles/thestories-part-2.md
 - content/articles/thestories-part-i.md
-- content/articles/room-board-hosts-hilarious-triple-bill.md
 - content/scene/companies/new-opera-west.md
 - content/articles/talking-with-singers-erin-wall.md
 - content/articles/dead-man-walking.md
