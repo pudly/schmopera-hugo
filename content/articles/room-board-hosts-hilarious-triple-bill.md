@@ -1,14 +1,13 @@
 +++
 author = ["authors/arturo-fernandez.md"]
 categories = "Review"
-date = 2019-11-09T05:00:00Z
+date = 2019-11-11T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1573507369/media/2019/11/sqBOCFriend030916-2941_asffeb.jpg"
-primary_image_credit = ""
+primary_image_credit = "Lindsay Conrad in Naomi in the Living Room, Boston Opera Collaborative, 2019. Photo: Dan Busler."
 related_articles = []
 related_companies = []
 related_people = []
@@ -34,7 +33,7 @@ It was a very effective staging of an already excellent piece, and I must say th
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573507553/media/2019/11/BOC2_gdajmn.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Lindsay Conrad in Naomi in the Living Room, Boston Opera Collaborative, 2019. Photo: Dan Busler.</figcaption>  
 </figure>
 
 This was immediately followed by _The Battle of Bull Run Always Makes Me Cry_. Those of you who remember my first Opera Bites around this time last year will remember that I had some lovely things to say about this short opera, and with decreased distance from the date to Carina DiGianfilippo's relation of it to her two friends the whole enterprise came to life even further. There is not much the tight staging added to what was already strong about the piece, but nevertheless it remained a strong performance, even if the blocking did seem to be trying too hard to add comedy to what was already perfectly amusing material.
