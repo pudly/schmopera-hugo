@@ -9,7 +9,7 @@ preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1573507369/media/2019/11/sqBOCFriend030916-2941_asffeb.jpg"
 primary_image_credit = "Lindsay Conrad in Naomi in the Living Room, Boston Opera Collaborative, 2019. Photo: Dan Busler."
 related_articles = []
-related_companies = []
+related_companies = ["scene/companies/boston-opera-collaborative.md"]
 related_people = []
 short_description = "And yet, something about the confines of the store were perfect for producing the triple-bill of short operas by Jonathan Bailey Holland that graced Room & Board, courtesy of Boston Opera Collaborative, and it led to a very entertaining, and frequently hilarious, night at the opera."
 slug = "room-board-hosts-hilarious-triple-bill"
@@ -23,7 +23,7 @@ Of all of these experimentations, however, the last place I would have ever expe
 
 > It was a very effective staging of an already excellent piece.
 
-And yet, something about the confines of the store were perfect for producing the triple-bill of short operas by Jonathan Bailey Holland that graced _Room & Board_, courtesy of Boston Opera Collaborative, and it led to a very entertaining, and frequently hilarious, night at the opera.
+And yet, something about the confines of the store were perfect for producing the triple-bill of short operas by Jonathan Bailey Holland that graced _Room & Board_, courtesy of [Boston Opera Collaborative](/scene/companies/boston-opera-collaborative/), and it led to a very entertaining, and frequently hilarious, night at the opera.
 
 The first of these operas was _Always_, an opera which explores the beginning and the ending of a romantic relationship: the caveat here is that it shows both at the same time, with the younger couple's hopeful banter coming into sudden contrast against the older couple's bitter argument as it crumbles apart.
 
