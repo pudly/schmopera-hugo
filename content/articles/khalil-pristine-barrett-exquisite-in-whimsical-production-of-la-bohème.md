@@ -58,13 +58,13 @@ As the painter Marcello, baritone [Peter Barrett](/scene/people/peter-barrett/) 
 <figcaption>(l-r) Neil Craighead (Colline), Peter McGillivray (Schaunard), Miriam Khalil (Mimì), Antoine Bélanger (Rodolfo), and Peter Barrett (Marcello) in La bohème, Calgary Opera, 2019. Photo: Harder Lee Photography.</figcaption>  
 </figure>
 
-(insert photo #679?) Words cannot fully capture my effusive praise for Miriam Khalil as Mimi. Her performance mesmerized the audience from her first onstage appearance in the bohemians’ apartment, with a pristine voice that Khalil fully delivered for the rest of the evening. It’s not easy to portray someone dying from a physical ailment, but Khalil offers a noble grace in her character’s plight. Along with Barrett, Khalil’s shimmering, vibrant singing were the standout vocals of this immensely blessed cast.
+Words cannot fully capture my effusive praise for [Miriam Khalil](/scene/people/miriam-khalil/) as Mimì. Her performance mesmerized the audience from her first onstage appearance in the bohemians' apartment, with a pristine voice that Khalil fully delivered for the rest of the evening. It's not easy to portray someone dying from a physical ailment, but Khalil offers a noble grace in her character's plight. Along with Barrett, Khalil's shimmering, vibrant singing were the standout vocals of this immensely blessed cast.
 
-Of course, supporting this cast is some of Puccini’s best orchestral writing. Conducted by Jonathan Brandani, the Calgary Philharmonic Orchestra played impressively, although at the beginning, I thought they overshadowed the principals slightly. In Act II, Brandani’s sprightly tempi were delivered with the same joie de vivre as the characters onstage -- the young singers of Cantaré Children’s Choir should receive a special commendation for keeping up in Act II. In all, Brandani brings out some of the orchestra’s best performance in recent history, with one of the most recognizable opera scores ever written.
+Of course, supporting this cast is some of Puccini's best orchestral writing. Conducted by Jonathan Brandani, the Calgary Philharmonic Orchestra played impressively, although at the beginning, I thought they overshadowed the principals slightly. In Act II, Brandani's sprightly tempi were delivered with the same joie de vivre as the characters onstage - the young singers of Cantaré Children's Choir should receive a special commendation for keeping up in Act II. In all, Brandani brings out some of the orchestra's best performance in recent history, with one of the most recognizable opera scores ever written.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573570793/media/2019/11/521_calgaryopera_JoannaLatini_PeterBarrett_NeilCraighead_PeterMcGillivray_AntoineBelanger_MiriamKhalil_PhotoHarderLeePhotography_gcrmp3.jpg){{% /md %}}
 
-<figcaption> in La bohème, Calgary Opera, 2019. Photo: Harder Lee Photography.</figcaption>  
+<figcaption>(l-r) Joanna Latini (Musetta), Peter Barrett (Marcello), Neil Craighead (Colline), Peter McGillivray (Schaunard), Antoine Bélanger (Rodolfo) and Miriam Khalil (Mimì) in La bohème, Calgary Opera, 2019. Photo: Harder Lee Photography.</figcaption>  
 </figure>
 
-(insert photo #521?) A solid core ensemble backed by a colourful, whimsical vision of Paris at the height of the bohemian movement makes this production of La Bohème a real feast for the eyes and ears.
+A solid core ensemble backed by a colourful, whimsical vision of Paris at the height of the bohemian movement makes this production of _La bohème_ a real feast for the eyes and ears.
