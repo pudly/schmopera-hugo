@@ -30,7 +30,7 @@ Calgary-born director Brenna Corner should be celebrated for her vision in makin
 
 > Craighead's rich bass is a voice Calgary Opera audiences will hopefully hear for many years to come.
 
-Amid the din of this busy street scene, the principal characters remain the center of attention. Joanna Latini's sweeping entrance as Musetta is worthy of any stage diva, complete with jaw-dropping vocals. Calgary audiences will remember her from its recent production of _South Pacific_, but as Musetta she sizzles with one of the production’s show-stopping numbers. And in the opera's conclusion, Latini succeeds in offering a Musetta who is capable of seeing beyond the superficial, especially when her friend is in need.
+Amid the din of this busy street scene, the principal characters remain the center of attention. [Joanna Latini](/scene/people/joanna-latini/)'s sweeping entrance as Musetta is worthy of any stage diva, complete with jaw-dropping vocals. Calgary audiences will remember her from its recent production of _South Pacific_, but as Musetta she sizzles with one of the production’s show-stopping numbers. And in the opera's conclusion, Latini succeeds in offering a Musetta who is capable of seeing beyond the superficial, especially when her friend is in need.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573570302/media/2019/11/155_calgaryopera_CastofLaBoheme_PhotoHarderLeePhotography_pyqt0r.jpg){{% /md %}}
 
