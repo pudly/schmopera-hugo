@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/talking-with-singers-rachel-willis-sørensen.md
 - content/articles/khalil-pristine-barrett-exquisite-in-whimsical-production-of-la-bohème.md
 - content/articles/room-board-hosts-hilarious-triple-bill.md
 - content/articles/belle-darling-klondike-queen.md
