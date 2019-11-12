@@ -29,6 +29,8 @@ Consider my expectations not only met, but far exceeded.
 
 Calgary-born director Brenna Corner should be celebrated for her vision in making this production so memorable. Her sense of whimsy permeated everything, from the character relationships to the set design, resulting in an experience where one can sit back and let the drama unfold. In particular, her imagining of the holiday market (Act II) captured the revelry of a street party, with the characters treating the audience with a colourful and palpable joie de vivre that included toy-crazed children can-can dancers on tabletops, and even an exciting colour guard, courtesy of the Calgary Stampede Showband.
 
+> Craighead's rich bass is a voice Calgary Opera audiences will hopefully hear for many years to come.
+
 Amid the din of this busy street scene, the principal characters remain the center of attention. Joanna Latini's sweeping entrance as Musetta is worthy of any stage diva, complete with jaw-dropping vocals. Calgary audiences will remember her from its recent production of _South Pacific_, but as Musetta she sizzles with one of the production’s show-stopping numbers. And in the opera's conclusion, Latini succeeds in offering a Musetta who is capable of seeing beyond the superficial, especially when her friend is in need.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573570302/media/2019/11/155_calgaryopera_CastofLaBoheme_PhotoHarderLeePhotography_pyqt0r.jpg){{% /md %}}
@@ -47,7 +49,9 @@ Memorably cast as both Alcindoro and Benoit, bass Stefan Szkafarowsky is simply 
 
 In his debut with Calgary Opera, bass-baritone [Neil Craighead](/talking-with-singers-neil-craighead/) impresses as the philosopher Colline. Craighead's interpretation of "Vecchia zimarra," in which he bids farewell to his trusty overcoat, is a standout performance amid this production of memorable moments. Craighead's rich bass is a voice Calgary Opera audiences will hopefully hear for many years to come.
 
-Calgary audiences are definitely familiar with baritone [Peter McGillivray](/talking-with-singers-peter-mcgillivray/), who recently turned in a celebrated performance as Doctor Bartolo in [_The Barber of Seville_](/calgary-opera-delivers-comedy-gold-with-well-cast-barber/). As Schaunard, McGillivray gives a charming portrayal delivered with warm sonority. As he did in Barber, McGillivray truly excels in comedic timing, and his casting as Schaunard is a fantastic addition to this ensemble cast.
+Calgary audiences are definitely familiar with baritone [Peter McGillivray](/talking-with-singers-peter-mcgillivray/), who recently turned in a celebrated performance as Doctor Bartolo in [_The Barber of Seville_](/calgary-opera-delivers-comedy-gold-with-well-cast-barber/). As Schaunard, McGillivray gives a charming portrayal delivered with warm sonority. As he did in _Barber_, McGillivray truly excels in comedic timing, and his casting as Schaunard is a fantastic addition to this ensemble.
+
+> Brandani brings out some of the orchestra's best performance in recent history.
 
 On this night, it seemed it took tenor Antoine Bélanger some time to find his comfort zone as Rodolfo. His "Che gelida manina," while beautifully sung, was most impressive in his higher tessitura when his voice truly soared over the orchestra; to that point, it seemed Bélanger was pacing himself to that pivotal vocal moment. By Act III, however, Bélanger finds his stride, offering a nuanced interpretation of a poet tortured with the knowledge his girlfriend is dying, with a commanding voice and stage presence.
 
