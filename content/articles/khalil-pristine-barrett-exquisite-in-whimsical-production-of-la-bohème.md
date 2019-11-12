@@ -27,18 +27,18 @@ Consider my expectations not only met, but far exceeded.
 <figcaption>The cast of La bohème, Calgary Opera, 2019. Photo: Harder Lee Photography.</figcaption>  
 </figure>
 
-(insert photo #218?) Calgary-born director Brenna Corner should be celebrated for her vision in making this production so memorable. Her sense of whimsy permeated everything, from the character relationships to the set design, resulting in an experience where one can sit back and let the drama unfold. In particular, her imagining of the holiday market (Act II) captured the revelry of a street party, with the characters treating the audience with a colourful and palpable joie de vivre that included toy-crazed children can-can dancers on tabletops, and even an exciting colour guard, courtesy of the Calgary Stampede Showband.
+Calgary-born director Brenna Corner should be celebrated for her vision in making this production so memorable. Her sense of whimsy permeated everything, from the character relationships to the set design, resulting in an experience where one can sit back and let the drama unfold. In particular, her imagining of the holiday market (Act II) captured the revelry of a street party, with the characters treating the audience with a colourful and palpable joie de vivre that included toy-crazed children can-can dancers on tabletops, and even an exciting colour guard, courtesy of the Calgary Stampede Showband.
 
-Amid the din of this busy street scene, the principal characters remain the center of attention. Joanna Latini’s sweeping entrance as Musetta is worthy of any stage diva, complete with jaw-dropping vocals. Calgary audiences will remember her from its recent production of South Pacific, but as Musetta she sizzles with one of the production’s show-stopping numbers. And in the opera’s conclusion, Latini succeeds in offering a Musetta who is capable of seeing beyond the superficial, especially when her friend is in need.
+Amid the din of this busy street scene, the principal characters remain the center of attention. Joanna Latini's sweeping entrance as Musetta is worthy of any stage diva, complete with jaw-dropping vocals. Calgary audiences will remember her from its recent production of _South Pacific_, but as Musetta she sizzles with one of the production’s show-stopping numbers. And in the opera's conclusion, Latini succeeds in offering a Musetta who is capable of seeing beyond the superficial, especially when her friend is in need.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573570302/media/2019/11/155_calgaryopera_CastofLaBoheme_PhotoHarderLeePhotography_pyqt0r.jpg){{% /md %}}
 
 <figcaption>Joanna Latini (Musetta, centre) and the cast of La bohème, Calgary Opera, 2019. Photo: Harder Lee Photography.</figcaption>  
 </figure>
 
-Memorably cast as both Alcindoro and Benoit, bass Stefan Szkafarowsky is simply hilarious in both acts in which his characters appear. Szkafarowsky clearly commits to director Brenna Corner’s sense of comedic timing and on this night, his scenes elicited hearty laughs from the audience. From being spun out of the bohemians’ apartment in a drunken stupor to having his face pressed into his date’s bosom, Szkafarowsky is up to the challenge.
+Memorably cast as both Alcindoro and Benoit, bass Stefan Szkafarowsky is simply hilarious in both acts in which his characters appear. Szkafarowsky clearly commits to director Brenna Corner's sense of comedic timing and on this night, his scenes elicited hearty laughs from the audience. From being spun out of the bohemians' apartment in a drunken stupor to having his face pressed into his date's bosom, Szkafarowsky is up to the challenge.
 
-(insert photo #326?) Which brings me to the bohemians: those clever bohemians whose bond of friendship anchors the story of La Bohème from high to low.
+(Which brings me to the bohemians: those clever bohemians whose bond of friendship anchors the story of _La bohème_ from high to low.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573570351/media/2019/11/326_calgaryopera_NeilCraighead_PeterMcGillivray_StefanSzkafarowsky_AntoineBelanger_PeterBarrett_PhotoHarderLeePhotography_hn6wps.jpg){{% /md %}}
 
