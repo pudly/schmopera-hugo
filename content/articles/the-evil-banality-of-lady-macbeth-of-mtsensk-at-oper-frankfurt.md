@@ -17,7 +17,7 @@ title = "The evil banality of Lady Macbeth of Mtsensk at Oper Frankfurt"
 youtube_url = ""
 
 +++
-Paradoxically the most authoritarian rulers are usually the pettiest. After Joseph Stalin and his cronies attended a performance of Dmitri Shostakovich's wildly popular opera _Lady Macbeth of Mtsensk_ (currently at [Oper Frankfurt](/scene/companies/oper-frankfurt/) in a new production by Anselm Weber), the dictator directed the creation of a now infamous critique in a 1936 issue of the Soviet magazine _Pravda_ that lambasted, and implicitly threatened, Shostakovich and his two-year old work.
+Paradoxically the most authoritarian rulers are usually the pettiest. After Joseph Stalin and his cronies attended a performance of Dmitri Shostakovich's wildly popular opera [_Lady Macbeth of Mtsensk_](https://oper-frankfurt.de/de/spielplan/lady-macbeth-von-mzensk/) (currently at [Oper Frankfurt](/scene/companies/oper-frankfurt/) in a new production by Anselm Weber), the dictator directed the creation of a now infamous critique in a 1936 issue of the Soviet magazine _Pravda_ that lambasted, and implicitly threatened, Shostakovich and his two-year old work.
 
 The [bad-faith argument](https://sutalkmusic.files.wordpress.com/2012/11/muddle-instead-of-music.pdf) went that by rejecting clear, simple melodies in favor of cacophonous musical chaos, the composer distorted opera and "ignored the demand of Soviet Culture that all coarseness and savagery be abolished from every corner of Soviet life." The opera was banned by the Soviets for nearly three decades.
 
