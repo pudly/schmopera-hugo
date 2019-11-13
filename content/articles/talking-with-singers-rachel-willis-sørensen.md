@@ -67,7 +67,7 @@ That is a great question, and thanks for the inherent compliment! I like to thin
 
 > I wish I had known not to trust every single person.
 
-## What do you now know about the singing career that you wish you had known 10 years ago.
+## What do you now know about the singing career that you wish you had known 10 years ago?
 
 Forgive me, because this is going to sound a little cynical, but I wish I had known not to trust every single person. I was really open hearted, and assumed that everyone had my best interest at heart. Consequently, I was hurt really badly - particularly as a young artist by people who were in positions of power. I think they were, unfortunately, using their power as some sort of ego trip, and I was the victim of some abusive rhetoric. It haunted me for a long time, and eventually hurt my artistry, until I was able to deal with this. So, I wish that I had known to be careful who you trust completely.
 
