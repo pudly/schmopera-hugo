@@ -50,4 +50,4 @@ The supporting cast, filled out largely by the Oper Frankfurt ensemble, sang adm
 
 The orchestra, led by Oper Frankfurt Music Director Sebastian Weigle, found it's stride late in the evening with the wedding march. A few intriguing moments in the score went by deemphasized or not quite coordinated. Some screws can be tightened and should be throughout the nine show run.
 
-The Pravda review describes _Lady Macbeth_ as "a game of clever ingenuity that may end very badly," presumably for the young Shostakovich. But the composer managed to tactfully appease the oppressive Soviet regime while penning a remarkable oeuvre widely performed today. For Shostakovich, irony goes beyond the page.
+The _Pravda_ review describes _Lady Macbeth_ as "a game of clever ingenuity that may end very badly," presumably for the young Shostakovich. But the composer managed to tactfully appease the oppressive Soviet regime while penning a remarkable oeuvre widely performed today. For Shostakovich, irony goes beyond the page.
