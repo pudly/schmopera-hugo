@@ -5,7 +5,7 @@ date = "2019-11-15T05:00:00+00:00"
 discipline = ""
 draft = true
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1573843051/media/2019/11/sqBLO2019-FellowTravelers-5128_kmt0gr.jpg"
-primary_image_credit = ""
+primary_image_credit = "(l-r) Jesse Blumberg (Fuller), Simon Dyer, and David McFerrin (Interrogators) in Fellow Travelers, Boston Lyric Opera, 2019. Photo: Liza Voll."
 related_companies = []
 short_description = "As Thomas Mallon said in the TalkBack after the performance, the suffering of LGBT+ people brought on by witch-hunting politicians in the 50s was unspeakable, and it is a place he hopes we never return to."
 slug = "fellow-travelers-a-cathartic-necessary-affair"
@@ -14,13 +14,13 @@ title = "Fellow Travelers a cathartic, necessary affair"
 website = ""
 
 +++
- %}}Whenever people discuss the state of the fight for gay rights across the past fifty years, I find there is a profound level of ignorance from people not familiar with LGBT+ history about exactly what kind of perils such people used to face in the past.
+Whenever people discuss the state of the fight for gay rights across the past fifty years, I find there is a profound level of ignorance from people not familiar with LGBT+ history about exactly what kind of perils such people used to face in the past.
 
 Even fewer seem to understand the inhumane toll that such perils used to hold for them as well, or even how they relate to the struggles that befall such people even today. People might balk at the suggestion that opera could be a tool to help open a discussion about such things, but as BLO's general and artistic director Esther Nelson stated in a short pre-performance speech, opera can help other people feel empathy for those who are different.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573843106/media/2019/11/BLO2019-FellowTravelers-4871_jydvno.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Jesse Blumberg (Hawkins Fuller) and Jesse Darden (Timothy Laughlin) in Fellow Travelers, Boston Lyric Opera, 2019. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -30,7 +30,7 @@ Greg Pierce's libretto manages to strike just the right balance between focusing
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573843118/media/2019/11/BLO2019-FellowTravelers-4900_pjkqwi.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>(l-r) Jesse Darden (Timothy Laughlin), Cheslea Basler (Mary Johnson), and Michelle Trainor (Secretary Miss Lightfoot) in Fellow Travelers, Boston Lyric Opera, 2019. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -40,7 +40,7 @@ But perhaps more importantly, the orchestra acts as a backdrop for the text sett
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573843128/media/2019/11/BLO2019-FellowTravelers-4970_snsyca.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>(l-r) Jesse Darden (Laughlin) and Jesse Blumberg (Fuller) in Fellow Travelers, Boston Lyric Opera, 2019. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -50,7 +50,7 @@ Tim's stutter upon being introduced to the senator whom he eventually works for 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573843143/media/2019/11/BLO2019-FellowTravelers-5079_h8mnvy.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Michelle Trainor (Secretary Miss Lightfoot, centre) in Fellow Travelers, Boston Lyric Opera, 2019. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -60,7 +60,7 @@ I could go on describing the ways that practically every other character beat is
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573843156/media/2019/11/BLO2019-FellowTravelers-5099_qhqiec.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Jesse Blumberg (Fuller) and Brianna Robinson (Lucy) in Fellow Travelers, Boston Lyric Opera, 2019. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -70,7 +70,7 @@ Chelsea Basler was warm and matronly as Hawkins' secretary Mary Johnson: she had
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573843209/media/2019/11/BLO2019-FellowTravelers-5238_ncw9fk.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>(l-r) Jesse Darden (Laughlin) and Jesse Blumberg (Fuller) in Fellow Travelers, Boston Lyric Opera, 2019. Photo: Liza Voll.</figcaption>
 
 </figure>
 
