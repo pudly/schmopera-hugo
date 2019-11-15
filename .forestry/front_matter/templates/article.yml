@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/fellow-travelers-a-cathartic-necessary-affair.md
 - content/articles/khalil-pristine-barrett-exquisite-in-whimsical-production-of-la-bohème.md
 - content/articles/talking-with-singers-rachel-willis-sørensen.md
 - content/articles/the-evil-banality-of-lady-macbeth-of-mtsensk-at-oper-frankfurt.md
