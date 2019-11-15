@@ -3,7 +3,6 @@ author = ["authors/arturo-fernandez.md"]
 categories = "Review"
 date = "2019-11-15T05:00:00+00:00"
 discipline = ""
-draft = true
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1573843051/media/2019/11/sqBLO2019-FellowTravelers-5128_kmt0gr.jpg"
 primary_image_credit = "(l-r) Jesse Blumberg (Fuller), Simon Dyer, and David McFerrin (Interrogators) in Fellow Travelers, Boston Lyric Opera, 2019. Photo: Liza Voll."
 related_companies = []
