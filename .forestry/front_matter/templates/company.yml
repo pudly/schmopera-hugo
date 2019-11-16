@@ -46,9 +46,9 @@ fields:
   label: Related People
   name: related_people
 pages:
-- content/scene/companies/massopera.md
-- content/scene/companies/little-opera-company.md
 - content/scene/companies/virginia-opera.md
+- content/scene/companies/little-opera-company.md
+- content/scene/companies/massopera.md
 - content/scene/companies/l-opéra-de-montréal.md
 - content/scene/companies/boston-modern-orchestra-project.md
 - content/scene/companies/opera-fusion.md
