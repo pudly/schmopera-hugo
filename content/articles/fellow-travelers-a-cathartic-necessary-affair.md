@@ -30,7 +30,7 @@ Even fewer seem to understand the inhumane toll that such perils used to hold fo
 
 </figure>
 
-Thus, we turn to Boston Lyric Opera's production of [_Fellow Travellers_](https://blo.org/tickets/), an opera set during the Lavender Scare. Thomas Mallon's novel about the affair that government workers Hawkins Fuller and Timothy Laughlin engage in during this little known offshoot of McCarthyism that targeted gay and lesbian people reads as perfect operatic material from the start; its story about a passionate affair which is ultimately snuffed out by a decision made under the tensions brought about by the society around them contains just the right level of drama for such a treatment.
+Thus, we turn to Boston Lyric Opera's production of [_Fellow Travelers_](https://blo.org/fellow-travelers/), an opera set during the Lavender Scare. Thomas Mallon's novel about the affair that government workers Hawkins Fuller and Timothy Laughlin engage in during this little known offshoot of McCarthyism that targeted gay and lesbian people reads as perfect operatic material from the start; its story about a passionate affair which is ultimately snuffed out by a decision made under the tensions brought about by the society around them contains just the right level of drama for such a treatment.
 
 > Spears' vocal lines contain such rich depths of character that make it eminently clear what each character is feeling.
 
