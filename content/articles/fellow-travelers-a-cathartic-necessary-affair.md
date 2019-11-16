@@ -76,7 +76,7 @@ I could go on describing the ways that practically every other character beat is
 
 </figure>
 
-It helps that BLO had a stellar cast to bring this vocal writing to life. Jesse Blumberg brought a particular bravado and a warm baritone voice to Hawkins Fuller that made him absolutely magnetic to watch, and made it very easy to see what it was that Timothy sees in him even in the final scene after Hawkins betrays him. Jesse Darden made good on the promise he showed in _Schoenberg in Hollywood_ last year, where his somewhat thinner but technically precise voice imbued Timothy Laughlin with a naïveté that suited the character's journey.
+It helps that BLO had a stellar cast to bring this vocal writing to life. Jesse Blumberg brought a particular bravado and a warm baritone voice to Hawkins Fuller that made him absolutely magnetic to watch, and made it very easy to see what it was that Timothy sees in him even in the final scene after Hawkins betrays him. Jesse Darden made good on the promise he showed in [_Schoenberg in Hollywood_](/schoenberg-in-hollywood-a-heap-of-excess/) last year, where his somewhat thinner but technically precise voice imbued Timothy Laughlin with a naïveté that suited the character's journey.
 
 > Spears' opera is certainly worthy of the buzz it has generated.
 
