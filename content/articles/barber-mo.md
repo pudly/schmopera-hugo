@@ -8,13 +8,13 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574022084/m
 primary_image_credit = " in Minnesota Opera's The Barber of Seville, 2019. Photo: Dan Norman."
 related_companies = []
 short_description = "Props must be given to Minnesota Opera for scheduling this family-friendly fan favorite, the seats were certainly filled. Hopefully the next generation of opera goers were hooked during this brief run! "
-slug = "barber-mo"
+slug = "a-family-friendly-fan-favourite-minnesota-operas-barber"
 social_media = []
-title = "Barber MO"
+title = "A family-friendly fan favourite: Minnesota Opera's Barber"
 website = ""
 
 +++
-Minnesota operas most recent production of Rossini's _Il barbiere di Siviglia_ opened last weekend at the Ordway Center for the Performing Arts. Husband and wife team [Daniela Mack](/talking-with-singers-daniela-mack/) and [Alek Shrader](/scene/people/alek-shrader/) starred as Rosina and Count Almaviva. Ms. Mack provided strong low notes, with a sassy and empowered portrayal of Rosina that extended beyond her first aria "Una voce poco fa".  Often, Rosinas don't carry the passion through the lengthy opera.
+[Minnesota Opera](/scene/companies/minnesota-opera/)'s most recent production of Rossini's _Il barbiere di Siviglia_ opened last weekend at the Ordway Center for the Performing Arts. Husband and wife team [Daniela Mack](/talking-with-singers-daniela-mack/) and [Alek Shrader](/scene/people/alek-shrader/) starred as Rosina and Count Almaviva. Ms. Mack provided strong low notes, with a sassy and empowered portrayal of Rosina that extended beyond her first aria "Una voce poco fa".  Often, Rosinas don't carry the passion through the lengthy opera.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574022087/media/2019/11/DN3_6496_ggdrjm.jpg){{% /md %}}
 
@@ -28,20 +28,20 @@ There were many laughs of the evening, aided by the well coordinated antics of t
 <figcaption>Daniela Mack as Rosina in Minnesota Opera's The Barber of Seville, 2019. Photo: Dan Norman.</figcaption>  
 </figure>
 
-The absolute highlight of the show is the title character, Figaro sung by Rodion Pogosso. After the first scene the energy was lagging (I attended the Sunday matinee after opening night, so  it is very understandable that everyone was a little tired), Mr. Pogossov made his grand entrance for his signature aria, "Largo al factotum", from the front of the mezzanine. He really let it rip. His boisterous baritone rang in the hall as he showed off his bravado and soft shoe skills.
+The absolute highlight of the show is the title character, Figaro sung by [Rodion Pogossov](/scene/people/rodion-pogossov/). After the first scene the energy was lagging (I attended the Sunday matinee after opening night, so it is very understandable that everyone was a little tired), Mr. Pogossov made his grand entrance for his signature aria, "Largo al factotum", from the front of the mezzanine. He really let it rip. His boisterous baritone rang in the hall as he showed off his bravado and soft shoe skills.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574022126/media/2019/11/DN3_7411_ibzvaq.jpg){{% /md %}}
 
 <figcaption>(l-r) Danielle Beckvermit as Berta, Andrew Gilstrap as Don Basilio, Patrick Carfizzi as Doctor Bartolo, Rodion Pagossov as Figaro, Alek Shrader as Count Almaviva, and Daniela Mack as Rosina in Minnesota Opera's The Barber of Seville, 2019. Photo: Dan Norman.</figcaption>  
 </figure>
 
-Director Francesca Zambello made an addition to the story by having a child actor play a silent role of Figaro's assistant. It was a comical and fresh addition to the opera. Dr. Bartolo was sung by Patrick Carfizzi  and Andrew Gilstrap as Basilio.
+Director Francesca Zambello made an addition to the story by having a child actor play a silent role of Figaro's assistant. It was a comical and fresh addition to the opera. Dr. Bartolo was sung by [Patrick Carfizzi](/scene/people/patrick-carfizzi/)  and Andrew Gilstrap as Basilio.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574022135/media/2019/11/DN3_8715_nj8qyn.jpg){{% /md %}}
 
 <figcaption>The cast of Minnesota Opera's The Barber of Seville, 2019. Photo: Dan Norman.</figcaption>  
 </figure>
 
-Props must be given to Minnesota Opera for scheduling this family-friendly fan favorite, the seats were certainly filled. Hopefully the next generation of opera goers were hooked during this brief run!
+Props must be given to Minnesota Opera for scheduling this family-friendly fan favourite, the seats were certainly filled. Hopefully the next generation of opera goers were hooked during this brief run!
 
 I look forward to _Flight_ in January 2020.
