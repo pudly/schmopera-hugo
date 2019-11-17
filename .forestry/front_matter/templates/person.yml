@@ -40,6 +40,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/articles/barber-mo.md
 - content/scene/people/rafael-rojas.md
 - content/scene/people/jonelle-sills.md
 - content/scene/people/adam-plachetka.md
