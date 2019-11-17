@@ -2,7 +2,7 @@
 discipline = "Bass-baritone"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574021391/media/2019/11/PatrickCarfizzi-KenHoward_veb0sb.jpg"
 primary_image_credit = ""
-related_companies = []
+related_companies = ["scene/companies/opera-philadelphia.md", "scene/companies/lyric-opera-of-kansas-city.md", "scene/companies/san-diego-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/the-dallas-opera.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/seattle-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/the-metropolitan-opera.md"]
 slug = "patrick-carfizzi"
 title = "Patrick Carfizzi"
 website = "https://www.patrickcarfizzi.com/"
