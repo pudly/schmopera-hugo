@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/il-postino.md
 - content/articles/fellow-travelers-a-cathartic-necessary-affair.md
 - content/scene/people/wes-hunter.md
 - content/articles/operatease.md
