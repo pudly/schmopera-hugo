@@ -21,7 +21,7 @@ _Don Giovanni_, that most inimitable of Mozart's collaborations with librettist 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574035331/media/2019/11/BenBliss_RachelWillisS%C3%B8rensen_DONGIOVANNI_LyricOperaofChicago_074_kwiqsv.jpg){{% /md %}}
 
-<figcaption>Ben Bliss (Don Ottavio) and Rachel Willis-So</figcaption>  
+<figcaption>Ben Bliss (Don Ottavio) and Rachel Willis-Sørensen (Donna Anna) in Don Giovanni, Lyric Opera of Chicago, 2019. Photo: Kyle Flubacker.</figcaption>  
 </figure>
 
 For generations of (male) musicologists, the character Don Giovanni has been something of an egalitarian sex god. These academics propped up their vision of Don-G-as-political-progressive with weak evidence, citing his willingness (compulsion?) to sleep with any woman, even fat, poor, and old ones. Such interpretations skirt his cruelty and ignore his utter lack of empathy not just for women but for anyone outside himself. At the same time, many so-called "#MeToo" productions of this opera that have cropped up in recent seasons turn Don Giovanni into a mere monster and thus too miss the mark as in addition to flattening the titular character, they tend to simplify the motivations of the three central women, (Donna Anna, Donna Elvira, Zerlina), whose rich interior lives and complex plot lines ought to stand in stark contrast to Don Giovanni's pathology.
