@@ -3,15 +3,14 @@ author = ["authors/hannah-de-priest.md"]
 categories = "Review"
 date = 2019-11-17T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
-postamble = ""
+postamble = "Lyric Opera of Chicago's production of _Don Giovanni_ runs through December 8."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574035300/media/2019/11/sqFang_LucasGIOVANNI_LyricOperaofChicago_227_nrg1fh.jpg"
 primary_image_credit = "Ying Fang (Zerlina) and Lucas Meachem (Don Giovanni) in Don Giovanni, Lyric Opera of Chicago, 2019. Photo: Kyle Flubacker."
-related_articles = []
-related_companies = []
-related_people = []
+related_articles = ["articles/talking-with-singers-rachel-willis-sørensen.md", "articles/spotlight-on-amanda-majeski.md", "articles/don-giovanni-strengthened-by-reinterpretation.md"]
+related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
+related_people = ["scene/people/brandon-cedel.md", "scene/people/ying-fang.md", "scene/people/ben-bliss.md", "scene/people/lucas-meachem.md", "scene/people/amanda-majeski.md", "scene/people/rachel-willis-sorensen.md"]
 short_description = "For generations of (male) musicologists, the character Don Giovanni has been something of an egalitarian sex god. These academics propped up their vision of Don-G-as-political-progressive with weak evidence, citing his willingness (compulsion?) to sleep with any woman, even fat, poor, and old ones. "
 slug = "loc-giovanni"
 title = "LOC Giovanni"
@@ -27,7 +26,7 @@ _Don Giovanni_, that most inimitable of Mozart's collaborations with librettist 
 
 For generations of (male) musicologists, the character Don Giovanni has been something of an egalitarian sex god. These academics propped up their vision of Don-G-as-political-progressive with weak evidence, citing his willingness (compulsion?) to sleep with any woman, even fat, poor, and old ones. Such interpretations skirt his cruelty and ignore his utter lack of empathy not just for women but for anyone outside himself. At the same time, many so-called "#MeToo" productions of this opera that have cropped up in recent seasons turn Don Giovanni into a mere monster and thus too miss the mark as in addition to flattening the titular character, they tend to simplify the motivations of the three central women, (Donna Anna, Donna Elvira, Zerlina), whose rich interior lives and complex plot lines ought to stand in stark contrast to Don Giovanni's pathology.
 
-> Indeed, so easy and playful is their chemistry, Meacham and Rose ought to be cast as a package deal.
+> Indeed, so easy and playful is their chemistry, Meachem and Rose ought to be cast as a package deal.
 
 The current production at Lyric Opera of Chicago, (a remount from the 2014-15 season),  negotiates the inherent challenges of _Don Giovanni_ with style. Here, the action moves to 1920s Spain, an ingenious choice that has Leporello and Don Giovanni snorting coke at a ubiquitous red-checked café table in the piazza as the rest of the cast appears in a veritable fashion show of peak-Gatsby fabulosity, care of costume designer Ana Kuzmanic. Every bespoke detail from Kuzmanic is a joy to behold, from Zerlina's dainty white pumps to Donna Elvira's motorcycle cap and goggles. The gorgeous sets, designed by Walt Spangler, are big and striking, favoring cascades of greenery and flowers. I particularly love the towering altarpiece of the Act II church scene, which features a larger-than-life madonna bedecked in glowing candles. Duane Schuler's lighting design was highly evocative, punctuating moments of revelation and reflection with a switch to an uncanny, white light.
 
@@ -36,9 +35,11 @@ The current production at Lyric Opera of Chicago, (a remount from the 2014-15 se
 <figcaption>Brandon Cedel (Masetto) and Ying Fang (Zerlina) in Don Giovanni, Lyric Opera of Chicago, 2019. Photo: Kyle Flubacker.</figcaption>  
 </figure>
 
-Holding the center of the drama, [Lucas Meacham](/talking-with-singers-lucas-meachem/)'s Don Giovanni is strongly-sung with a finely-wrought interpretation. Meacham achieves an incredible range of colors and emotions in his recitatives, from a seductive whisper to explosive, rage-fuelled shouts. Meacham's Giovanni feels dangerous and unpredictable in all the right ways, alternating between sudden violence, (especially in his fight with Masetto and the manhandling of chorus girls in his speedy "Fin ch'han dal vino"), and tenderness; his Act II aria "Deh, vieni alla finestra" was shiveringly beautiful. His ultimate demise, ingeniously choreographed on a capsized banquet table, was sensational to watch. Meacham snarled and raged through Act II’s infamous dinner scene, the perfect foil to Mika Kares' dignified turn as the Commendatore's statue.
+Holding the center of the drama, [Lucas Meachem](/talking-with-singers-lucas-meachem/)'s Don Giovanni is strongly-sung with a finely-wrought interpretation. Meachem achieves an incredible range of colors and emotions in his recitatives, from a seductive whisper to explosive, rage-fuelled shouts. Meachem's Giovanni feels dangerous and unpredictable in all the right ways, alternating between sudden violence, (especially in his fight with Masetto and the manhandling of chorus girls in his speedy "Fin ch'han dal vino"), and tenderness; his Act II aria "Deh, vieni alla finestra" was shiveringly beautiful. His ultimate demise, ingeniously choreographed on a capsized banquet table, was sensational to watch. Meachem snarled and raged through Act II's infamous dinner scene, the perfect foil to Mika Kares' dignified turn as the Commendatore's statue.
 
-[Matthew Rose](/scene/people/matthew-rose/)'s Leporello, Don Giovanni's ambivalent sidekick, was equally stellar. Rose's burnished bass voice paired nicely with Meacham's baritone. Indeed, so easy and playful is their chemistry, Meacham and Rose ought to be cast as a package deal.
+> Fang is a true Mozartean, with an alluringly light voice and a great sense of style.
+
+[Matthew Rose](/scene/people/matthew-rose/)'s Leporello, Don Giovanni's ambivalent sidekick, was equally stellar. Rose's burnished bass voice paired nicely with Meachem's baritone. Indeed, so easy and playful is their chemistry, Meachem and Rose ought to be cast as a package deal.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574035373/media/2019/11/AmandaMajeski_BenBliss_RachelWillisS%C3%B8rensen_DONGIOVANNI_LyricOperaofChicago_397_lb3ibd.jpg){{% /md %}}
 
