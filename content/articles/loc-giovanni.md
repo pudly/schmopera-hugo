@@ -4,7 +4,7 @@ categories = "Review"
 date = 2019-11-17T05:00:00Z
 disclaimer = ""
 image_gallery = []
-postamble = "Lyric Opera of Chicago's production of _Don Giovanni_ runs through December 8."
+postamble = "Lyric Opera of Chicago's production of [_Don Giovanni_ ](https://www.lyricopera.org/productions/2019-20/don-giovanni/)runs through December 8."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574035300/media/2019/11/sqFang_LucasGIOVANNI_LyricOperaofChicago_227_nrg1fh.jpg"
 primary_image_credit = "Ying Fang (Zerlina) and Lucas Meachem (Don Giovanni) in Don Giovanni, Lyric Opera of Chicago, 2019. Photo: Kyle Flubacker."
@@ -28,7 +28,7 @@ For generations of (male) musicologists, the character Don Giovanni has been som
 
 > Indeed, so easy and playful is their chemistry, Meachem and Rose ought to be cast as a package deal.
 
-The current production at Lyric Opera of Chicago, (a remount from the 2014-15 season),  negotiates the inherent challenges of _Don Giovanni_ with style. Here, the action moves to 1920s Spain, an ingenious choice that has Leporello and Don Giovanni snorting coke at a ubiquitous red-checked café table in the piazza as the rest of the cast appears in a veritable fashion show of peak-Gatsby fabulosity, care of costume designer Ana Kuzmanic. Every bespoke detail from Kuzmanic is a joy to behold, from Zerlina's dainty white pumps to Donna Elvira's motorcycle cap and goggles. The gorgeous sets, designed by Walt Spangler, are big and striking, favoring cascades of greenery and flowers. I particularly love the towering altarpiece of the Act II church scene, which features a larger-than-life madonna bedecked in glowing candles. Duane Schuler's lighting design was highly evocative, punctuating moments of revelation and reflection with a switch to an uncanny, white light.
+The [current production at Lyric Opera of Chicago](https://www.lyricopera.org/productions/2019-20/don-giovanni/), (a remount from the 2014-15 season),  negotiates the inherent challenges of _Don Giovanni_ with style. Here, the action moves to 1920s Spain, an ingenious choice that has Leporello and Don Giovanni snorting coke at a ubiquitous red-checked café table in the piazza as the rest of the cast appears in a veritable fashion show of peak-Gatsby fabulosity, care of costume designer Ana Kuzmanic. Every bespoke detail from Kuzmanic is a joy to behold, from Zerlina's dainty white pumps to Donna Elvira's motorcycle cap and goggles. The gorgeous sets, designed by Walt Spangler, are big and striking, favoring cascades of greenery and flowers. I particularly love the towering altarpiece of the Act II church scene, which features a larger-than-life madonna bedecked in glowing candles. Duane Schuler's lighting design was highly evocative, punctuating moments of revelation and reflection with a switch to an uncanny, white light.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574035356/media/2019/11/BrandonCedel_YingFang_DONGIOVANNI_LyricOperaofChicago_179_w7b8ca.jpg){{% /md %}}
 
