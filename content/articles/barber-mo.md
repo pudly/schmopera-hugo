@@ -27,14 +27,14 @@ youtube_url = ""
 <figcaption>Liam Beck-O'Sullivan as Figaro's Assistant and Minnesota Opera Chorus in Minnesota Opera's The Barber of Seville, 2019. Photo: Dan Norman.</figcaption>  
 </figure>
 
-There were many laughs of the evening, aided by the well coordinated antics of the male chorus. As Berta, Resident Artist [Danielle Beckvermit](https://mnopera.org/biography/danielle-beckvermit/) was memorable as a snuff-taking, hysterical sidekick to Dr. Bartolo. (Her trademark was random screams and carrying around a rachet instrument to swing in a threatening manner towards Rosina and the Count.) Her aria was lovely treble interlude in an opera filled with rapid fire Italian and smoky bass and mezzo solos. (Side note: every time I see this opera, I am kind of surprised by the number of bass-baritones on stage.)
+There were many laughs of the evening, aided by the well coordinated antics of the male chorus. As Berta, Resident Artist [Danielle Beckvermit](https://mnopera.org/biography/danielle-beckvermit/) was memorable as a snuff-taking, hysterical sidekick to Dr. Bartolo. (Her trademark was random screams and carrying around a [ratchet](https://en.wikipedia.org/wiki/Ratchet_(instrument)) to swing in a threatening manner at Rosina and the Count.) Beckvermit's aria was a lovely treble interlude amid an opera filled with rapid-fire Italian, and smoky arias for basses and mezzos. (Side note: every time I see this opera, I am kind of surprised by the number of bass-baritones on stage.)
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574022100/media/2019/11/DN1_6793_feq7m7.jpg){{% /md %}}
 
 <figcaption>Daniela Mack as Rosina in Minnesota Opera's The Barber of Seville, 2019. Photo: Dan Norman.</figcaption>  
 </figure>
 
-The absolute highlight of the show is the title character, Figaro sung by [Rodion Pogossov](/scene/people/rodion-pogossov/). After the first scene the energy was lagging (I attended the Sunday matinee after opening night, so it is very understandable that everyone was a little tired), Mr. Pogossov made his grand entrance for his signature aria, "Largo al factotum", from the front of the mezzanine. He really let it rip. His boisterous baritone rang in the hall as he showed off his bravado and soft shoe skills.
+The absolute highlight of this _Barber_ is the title character, sung by [Rodion Pogossov](/scene/people/rodion-pogossov/). Mr. Pogossov made his grand entrance for his signature aria, "Largo al factotum", from the front of the mezzanine. He really let it rip. His boisterous baritone rang in the hall as he showed off his bravado and soft shoe skills.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574022126/media/2019/11/DN3_7411_ibzvaq.jpg){{% /md %}}
 
@@ -48,4 +48,4 @@ Director Francesca Zambello made an addition to the story by having a child acto
 <figcaption>The cast of Minnesota Opera's The Barber of Seville, 2019. Photo: Dan Norman.</figcaption>  
 </figure>
 
-Props must be given to Minnesota Opera for scheduling this family-friendly fan favourite, and the seats were certainly filled. Hopefully, the next generation of opera-goers were hooked during this brief run of _The Barber of Seville_. I look forward to _Flight_ in January 2020!
+Props must be given to Minnesota Opera for scheduling this family-friendly fan favourite, and the seats were certainly filled. Hopefully, the next generation of opera-goers were hooked during this brief run of _The Barber of Seville_. I look forward to [_Flight_ in January 2020](https://mnopera.org/season/2019-2020/flight/)!
