@@ -22,10 +22,12 @@ _Don Giovanni_, that most inimitable of Mozart's collaborations with librettist 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574035331/media/2019/11/BenBliss_RachelWillisS%C3%B8rensen_DONGIOVANNI_LyricOperaofChicago_074_kwiqsv.jpg){{% /md %}}
 
-<figcaption>Ben Bliss (Don Ottavio) and Rachel Willis-Sørensen (Donna Anna)  in Don Giovanni, Lyric Opera of Chicago, 2019. Photo: Kyle Flubacker.</figcaption>  
+<figcaption>Ben Bliss (Don Ottavio) and Rachel Willis-So</figcaption>  
 </figure>
 
 For generations of (male) musicologists, the character Don Giovanni has been something of an egalitarian sex god. These academics propped up their vision of Don-G-as-political-progressive with weak evidence, citing his willingness (compulsion?) to sleep with any woman, even fat, poor, and old ones. Such interpretations skirt his cruelty and ignore his utter lack of empathy not just for women but for anyone outside himself. At the same time, many so-called "#MeToo" productions of this opera that have cropped up in recent seasons turn Don Giovanni into a mere monster and thus too miss the mark as in addition to flattening the titular character, they tend to simplify the motivations of the three central women, (Donna Anna, Donna Elvira, Zerlina), whose rich interior lives and complex plot lines ought to stand in stark contrast to Don Giovanni's pathology.
+
+> Indeed, so easy and playful is their chemistry, Meacham and Rose ought to be cast as a package deal.
 
 The current production at Lyric Opera of Chicago, (a remount from the 2014-15 season),  negotiates the inherent challenges of _Don Giovanni_ with style. Here, the action moves to 1920s Spain, an ingenious choice that has Leporello and Don Giovanni snorting coke at a ubiquitous red-checked café table in the piazza as the rest of the cast appears in a veritable fashion show of peak-Gatsby fabulosity, care of costume designer Ana Kuzmanic. Every bespoke detail from Kuzmanic is a joy to behold, from Zerlina's dainty white pumps to Donna Elvira's motorcycle cap and goggles. The gorgeous sets, designed by Walt Spangler, are big and striking, favoring cascades of greenery and flowers. I particularly love the towering altarpiece of the Act II church scene, which features a larger-than-life madonna bedecked in glowing candles. Duane Schuler's lighting design was highly evocative, punctuating moments of revelation and reflection with a switch to an uncanny, white light.
 
