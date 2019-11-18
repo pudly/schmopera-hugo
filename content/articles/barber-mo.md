@@ -20,7 +20,7 @@ website = ""
 youtube_url = ""
 
 +++
-[Minnesota Opera](/scene/companies/minnesota-opera/)'s most recent production of Rossini's [_Il barbiere di Siviglia_](https://mnopera.org/season/2019-2020/the-barber-of-seville/) opened last weekend at the Ordway Center for the Performing Arts. Husband and wife team [Daniela Mack](/talking-with-singers-daniela-mack/) and [Alek Shrader](/scene/people/alek-shrader/) starred as Rosina and Count Almaviva. Ms. Mack provided strong low notes, with a sassy and empowered portrayal of Rosina that extended beyond her first aria "Una voce poco fa".  Often, Rosinas don't carry the passion through the lengthy opera.
+[Minnesota Opera](/scene/companies/minnesota-opera/)'s most recent production of Rossini's [_The Barber of Seville _](https://mnopera.org/season/2019-2020/the-barber-of-seville/) opened last weekend at the Ordway Center for the Performing Arts. Husband and wife team [Daniela Mack](/talking-with-singers-daniela-mack/) and [Alek Shrader](/scene/people/alek-shrader/) starred as Rosina and Count Almaviva. Ms. Mack provided strong low notes, with a sassy and empowered portrayal of Rosina that extended beyond her first aria "Una voce poco fa".  Often, Rosinas don't carry the passion through the lengthy opera.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574022087/media/2019/11/DN3_6496_ggdrjm.jpg){{% /md %}}
 
@@ -48,6 +48,4 @@ Director Francesca Zambello made an addition to the story by having a child acto
 <figcaption>The cast of Minnesota Opera's The Barber of Seville, 2019. Photo: Dan Norman.</figcaption>  
 </figure>
 
-Props must be given to Minnesota Opera for scheduling this family-friendly fan favourite, the seats were certainly filled. Hopefully the next generation of opera goers were hooked during this brief run!
-
-I look forward to _Flight_ in January 2020.
+Props must be given to Minnesota Opera for scheduling this family-friendly fan favourite, and the seats were certainly filled. Hopefully, the next generation of opera-goers were hooked during this brief run of _The Barber of Seville_. I look forward to _Flight_ in January 2020!
