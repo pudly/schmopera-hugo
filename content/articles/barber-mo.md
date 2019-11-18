@@ -3,7 +3,6 @@ author = ["authors/callie-cooper.md"]
 categories = "Review"
 date = "2019-11-17T05:00:00+00:00"
 discipline = ""
-draft = true
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574022084/media/2019/11/sqDN1_7141_bv4klu.jpg"
 primary_image_credit = " in Minnesota Opera's The Barber of Seville, 2019. Photo: Dan Norman."
 related_companies = []
