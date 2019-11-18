@@ -20,7 +20,7 @@ website = ""
 youtube_url = ""
 
 +++
-[Minnesota Opera](/scene/companies/minnesota-opera/)'s most recent production of Rossini's _Il barbiere di Siviglia_ opened last weekend at the Ordway Center for the Performing Arts. Husband and wife team [Daniela Mack](/talking-with-singers-daniela-mack/) and [Alek Shrader](/scene/people/alek-shrader/) starred as Rosina and Count Almaviva. Ms. Mack provided strong low notes, with a sassy and empowered portrayal of Rosina that extended beyond her first aria "Una voce poco fa".  Often, Rosinas don't carry the passion through the lengthy opera.
+[Minnesota Opera](/scene/companies/minnesota-opera/)'s most recent production of Rossini's [_Il barbiere di Siviglia_](https://mnopera.org/season/2019-2020/the-barber-of-seville/) opened last weekend at the Ordway Center for the Performing Arts. Husband and wife team [Daniela Mack](/talking-with-singers-daniela-mack/) and [Alek Shrader](/scene/people/alek-shrader/) starred as Rosina and Count Almaviva. Ms. Mack provided strong low notes, with a sassy and empowered portrayal of Rosina that extended beyond her first aria "Una voce poco fa".  Often, Rosinas don't carry the passion through the lengthy opera.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574022087/media/2019/11/DN3_6496_ggdrjm.jpg){{% /md %}}
 
