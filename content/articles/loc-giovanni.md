@@ -28,14 +28,23 @@ For generations of (male) musicologists, the character Don Giovanni has been som
 
 > Indeed, so easy and playful is their chemistry, Meachem and Rose ought to be cast as a package deal.
 
-The [current production at Lyric Opera of Chicago](https://www.lyricopera.org/productions/2019-20/don-giovanni/), (a remount from the 2014-15 season),  negotiates the inherent challenges of _Don Giovanni_ with style. Here, the action moves to 1920s Spain, an ingenious choice that has Leporello and Don Giovanni snorting coke at a ubiquitous red-checked café table in the piazza as the rest of the cast appears in a veritable fashion show of peak-Gatsby fabulosity, care of costume designer Ana Kuzmanic. Every bespoke detail from Kuzmanic is a joy to behold, from Zerlina's dainty white pumps to Donna Elvira's motorcycle cap and goggles. The gorgeous sets, designed by Walt Spangler, are big and striking, favoring cascades of greenery and flowers. I particularly love the towering altarpiece of the Act II church scene, which features a larger-than-life madonna bedecked in glowing candles. Duane Schuler's lighting design was highly evocative, punctuating moments of revelation and reflection with a switch to an uncanny, white light.
+The [current production at Lyric Opera of Chicago](https://www.lyricopera.org/productions/2019-20/don-giovanni/), (a remount from the 2014-15 season),  negotiates the inherent challenges of _Don Giovanni_ with style. Here, the action moves to 1920s Spain, an ingenious choice that has Leporello and Don Giovanni snorting coke at a ubiquitous red-checked café table in the piazza as the rest of the cast appears in a veritable fashion show of peak-Gatsby fabulosity, care of costume designer Ana Kuzmanic. Every bespoke detail from Kuzmanic is a joy to behold, from Zerlina's dainty white pumps to Donna Elvira's motorcycle cap and goggles. 
+
+The gorgeous sets, designed by Walt Spangler, are big and striking, favoring cascades of greenery and flowers. I particularly love the towering altarpiece of the Act II church scene, which features a larger-than-life madonna bedecked in glowing candles. Duane Schuler's lighting design was highly evocative, punctuating moments of revelation and reflection with a switch to an uncanny, white light.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574035356/media/2019/11/BrandonCedel_YingFang_DONGIOVANNI_LyricOperaofChicago_179_w7b8ca.jpg){{% /md %}}
 
 <figcaption>Brandon Cedel (Masetto) and Ying Fang (Zerlina) in Don Giovanni, Lyric Opera of Chicago, 2019. Photo: Kyle Flubacker.</figcaption>  
 </figure>
 
-Holding the center of the drama, [Lucas Meachem](/talking-with-singers-lucas-meachem/)'s Don Giovanni is strongly-sung with a finely-wrought interpretation. Meachem achieves an incredible range of colors and emotions in his recitatives, from a seductive whisper to explosive, rage-fuelled shouts. Meachem's Giovanni feels dangerous and unpredictable in all the right ways, alternating between sudden violence, (especially in his fight with Masetto and the manhandling of chorus girls in his speedy "Fin ch'han dal vino"), and tenderness; his Act II aria "Deh, vieni alla finestra" was shiveringly beautiful. His ultimate demise, ingeniously choreographed on a capsized banquet table, was sensational to watch. Meachem snarled and raged through Act II's infamous dinner scene, the perfect foil to Mika Kares' dignified turn as the Commendatore's statue.
+Holding the center of the drama, [Lucas Meachem](/talking-with-singers-lucas-meachem/)'s Don Giovanni is strongly-sung with a finely-wrought interpretation. Meachem achieves an incredible range of colors and emotions in his recitatives, from a seductive whisper to explosive, rage-fuelled shouts. Meachem's Giovanni feels dangerous and unpredictable in all the right ways, alternating between sudden violence, (especially in his fight with Masetto and the manhandling of chorus girls in his speedy "Fin ch'han dal vino"), and tenderness; his Act II aria "Deh, vieni alla finestra" was shiveringly beautiful. 
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574051256/media/2019/11/LucasMeachem_DONGIOVANNI_LyricOperaofChicago_757_qcm75s.jpg){{% /md %}}
+
+<figcaption>Lucas Meachem (Don Giovanni) in Don Giovanni, Lyric Opera of Chicago, 2019. Photo: Kyle Flubacker.</figcaption>  
+</figure>
+
+His ultimate demise, ingeniously choreographed on a capsized banquet table, was sensational to watch. Meachem snarled and raged through Act II's infamous dinner scene, the perfect foil to Mika Kares' dignified turn as the Commendatore's statue.
 
 > Fang is a true Mozartean, with an alluringly light voice and a great sense of style.
 
