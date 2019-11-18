@@ -12,8 +12,8 @@ related_articles = ["articles/talking-with-singers-rachel-willis-sørensen.md", 
 related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
 related_people = ["scene/people/brandon-cedel.md", "scene/people/ying-fang.md", "scene/people/ben-bliss.md", "scene/people/lucas-meachem.md", "scene/people/amanda-majeski.md", "scene/people/rachel-willis-sorensen.md"]
 short_description = "For generations of (male) musicologists, the character Don Giovanni has been something of an egalitarian sex god. These academics propped up their vision of Don-G-as-political-progressive with weak evidence, citing his willingness (compulsion?) to sleep with any woman, even fat, poor, and old ones. "
-slug = "loc-giovanni"
-title = "LOC Giovanni"
+slug = "a-don-giovanni-with-style-in-chicago"
+title = "A Don Giovanni with style in Chicago"
 youtube_url = ""
 
 +++
