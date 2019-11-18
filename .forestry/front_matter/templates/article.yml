@@ -117,10 +117,10 @@ fields:
   label: Image Gallery
 pages:
 - content/articles/barber-mo.md
-- content/articles/loc-giovanni.md
 - content/articles/check-out-the-irish-art-song-project.md
-- content/articles/il-postino.md
 - content/articles/fellow-travelers-a-cathartic-necessary-affair.md
+- content/articles/il-postino.md
+- content/articles/loc-giovanni.md
 - content/articles/operatease.md
 - content/articles/aria-guides-parmi-veder-le-lagrime.md
 - content/articles/aria-guides-vedrai-carino.md
