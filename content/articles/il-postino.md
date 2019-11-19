@@ -27,7 +27,7 @@ Indeed, the highlights of Catán's score are those arias and duets which consist
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574136735/media/2019/11/VAOperaIlPostino-0137_n4xpp4.jpg){{% /md %}}
 
-<figcaption>Daniel Montenegro (Mario) in _Il Postino_, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
+<figcaption>Daniel Montenegro (Mario) in Il Postino, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
 </figure>
 
 A less obvious, but equally wise choice made by the composer is to cast his two leading roles, Neruda, and the titular Postman, as tenors. The effect, emphasized by the similarity in timbre of Melo's voice as Neruda and that of Daniel Montenegro in the role of Mario, is one of a man and his clone. Montenegro's voice is a slightly brighter, slightly more youthful version of Melo's. In their sublime Act I duet, where Neruda is teaching Mario the power of metaphor, their voices wind around each other, climbing ever higher in a Straussian climax.
@@ -42,7 +42,7 @@ Are these kinds of tropes really acceptable in a theatrical work which premiered
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574136785/media/2019/11/VAOperaIlPostino-0483_ophosy.jpg){{% /md %}}
 
-<figcaption>_Il Postino_, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
+<figcaption>Il Postino, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
 </figure>
 
 The staging is embellished with three additional women, appearing first during Beatrice's first aria, who move silently about the set, weaving in and out of the (all-male) chorus, their movements often follow the steps of a sensual tango, and as the opera goes on their purpose becomes increasingly unclear. Are they lines of poetry? Or perhaps muses to inspire the young postman? Are they the spirits of his island home?
@@ -59,7 +59,7 @@ What follows in the third act is more epilogue than story conclusion, and feels 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574136868/media/2019/11/VAOperaIlPostino-5765_bm88d5.jpg){{% /md %}}
 
-<figcaption>Inna Dukach (Matilde Neruda) and Raúl Melo (Pablo Neruda) in _Il Postino_, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
+<figcaption>Inna Dukach (Matilde Neruda) and Raúl Melo (Pablo Neruda) in Il Postino, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
 </figure>
 
 It's a sour and tragic ending for an otherwise delightful love story. Moreover, the political subplot of the opera has a vagueness to it that leaves you wondering what its point of view is. Neruda speaks of fighting for justice and the common man, while a local politician Di Cosimo (sung admirably by baritone Efraín Solís) of the Christian Democrat party is portrayed as a villain who fails to fulfill the promise of providing running water to the island, and Mario is sneered at by Di Cosimo's followers for being a "Communista."
