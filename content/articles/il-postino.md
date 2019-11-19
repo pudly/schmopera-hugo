@@ -60,7 +60,7 @@ What follows in the third act is more epilogue than story conclusion, and feels 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574136868/media/2019/11/VAOperaIlPostino-5765_bm88d5.jpg){{% /md %}}
 
-<figcaption>Inna Dukach (Matilde) and Raúl Melo in _Il Postino_, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
+<figcaption>Inna Dukach (Matilde Neruda) and Raúl Melo (Pablo Neruda) in _Il Postino_, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
 </figure>
 
 It's a sour and tragic ending for an otherwise delightful love story. Moreover, the political subplot of the opera has a vagueness to it that leaves you wondering what its point of view is. Neruda speaks of fighting for justice and the common man, while a local politician Di Cosimo (sung admirably by baritone Efraín Solís) of the Christian Democrat party is portrayed as a villain who fails to fulfill the promise of providing running water to the island, and Mario is sneered at by Di Cosimo's followers for being a "Communista." 
