@@ -4,7 +4,7 @@ categories = "Review"
 date = "2019-11-18T05:00:00+00:00"
 discipline = ""
 draft = true
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574134014/media/2019/11/sq4152_tamerlano07_dxqhvj.jpg"
 primary_image_credit = ""
 related_companies = []
 short_description = "The characters begin as caricatures. Tamerlano (Lawrence Zazzo), a sadistic Southwestern oil baron who's a cross between Yosemite Sam and Daniel Day Lewis's tics in There Will Be Blood, has a grin (and mustache) glued to his face."
@@ -18,7 +18,7 @@ Some indie opera tropes have grown too tired to contribute much to spontaneous, 
 
 Director R.B. Schlather utilizes all of the above techniques in the first act of his new _Tamerlano_ (Handel) at Oper Frankfurt's hip alternate venue, the Bockenheimer Depot.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574134024/media/2019/11/4156_tamerlano01_uykmn6.jpg){{% /md %}}
 
 <figcaption></figcaption>  
 </figure>
@@ -29,7 +29,7 @@ The first act passes by with a lot of bells and whistles but not much else. Then
 
 Luckily, in the second act the singers get space to work and the evening begins to transform.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574134037/media/2019/11/4161_tamerlano08_spxopx.jpg){{% /md %}}
 
 <figcaption></figcaption>  
 </figure>
@@ -38,7 +38,7 @@ Asteria has come to a breaking point. If she doesn't take drastic action, her fa
 
 In the aria "Non è più tempo" (roughly: "time has run out"), Asteria ruminates on the isolation of her heroism as she convinces Andronico that she no longer desires him. Soprano Elizabeth Reiter's voice quivers with apprehension, blooms with adoration, withers with guilt, and soars with resolve, her timbre buoyant with unimpeachable fortitude.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574134048/media/2019/11/4165_tamerlano14_qdurot.jpg){{% /md %}}
 
 <figcaption></figcaption>  
 </figure>
@@ -47,7 +47,7 @@ The character of Irene, Asteria's rival, is portrayed as a crazy, power hungry, 
 
 These stretches of taintless singing make up for the bluster that surrounds them. Yves Saelens as Bajazet is a gruff, indignant, fallen ruler on the precipice of annihilation. Only when he sees the depth of his daughter's suffering does he allow expressions of tenderness expressed with wafting lyricism.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574134060/media/2019/11/4169_tamerlano18_h5451c.jpg){{% /md %}}
 
 <figcaption></figcaption>  
 </figure>
@@ -56,7 +56,7 @@ Zazzo as Tamerlano also shouts and pounds, but his objective is to threaten. The
 
 Though Liviu Holender has too high a voice for Leone, it pays off in his ability to gracefully manage the tessitura of the final chorus. Only the aria suffers, whose low lying range never quite allows his voice to bloom.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574134071/media/2019/11/4150_tamerlano19_ucpr9z.jpg){{% /md %}}
 
 <figcaption></figcaption>  
 </figure>
@@ -65,7 +65,7 @@ Countertenor Brennan Hall, in the role written for superstar alto castrato Senes
 
 Maestro Karsten Januschke's gestures in the overture were overly performative – the risk of being on display – creating brief disunity within the orchestra, however he quickly settled down and drew a high-octane, multi-textured performance out of Frankfurt's excellent band.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574134097/media/2019/11/4171_tamerlano21_p6o8ow.jpg){{% /md %}}
 
 <figcaption></figcaption>  
 </figure>
