@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574135863/media/2019/11/sqVAOperaIlPostino-5177_ndcnc1.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = ["scene/companies/virginia-opera.md"]
@@ -22,14 +22,14 @@ As a writer, I'm all too familiar with the struggle to find exactly the right wo
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption> in _Il Postino_, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
 </figure>
 
 Having premiered at LA Opera in 2010, _Il Postino_ is still in its operatic infancy, but fans of the 1994 film will find it pleasantly familiar, if a bit awkwardly paced dramatically. Daniel Catàn, who composed his own libretto for his third opera, made the obvious but very wise choice to pepper the text liberally with the words of the nobel prize winning Chilean poet who is central to the story. Indeed, the highlights of Catàn's score are those arias and duets which consist entirely of Neruda's poems set lavishly by the Mexican composer, most notably in Neruda's first aria, a setting of the poem "Desnuda," sung lustily and full throatedly by tenor Raùl Melo (in spite of the fact that he was under the weather Saturday evening, as noted in the curtain speech) which is the first of many times throughout the opera where the orchestration swirls and churns and rises to the heights of the Grandest of Grand Opera.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption> in _Il Postino_, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
 </figure>
 
 A less obvious, but equally wise choice made by the composer is to cast his two leading roles, Neruda, and the titular Postman, as tenors. The effect, emphasized by the similarity in timbre of Melo's voice as Neruda and that of Daniel Montenegro in the role of Mario, is one of a man and his clone. Montenegro's voice is a slightly brighter, slightly more youthful version of Melo's, and in their sublime act one duet, where Neruda is teaching Mario the power of metaphor, their voices wind around each other, climbing ever higher in a Straussian climax.
@@ -38,32 +38,38 @@ The role of Mario's love interest, Beatrice, is masterfully sung by soprano Dani
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption> in _Il Postino_, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
 </figure>
 
-This brings me around to the treatment of women in Catàn's opera, who are alternately objects of affection, and sources of comfort for the men, as is the case with Beatrice and Neruda's wife, Matilde (sung thinly and with some strain in the voice by soprano Inna Dukach), or as a nagging killjoy, as exemplified by Beatrice's overprotective mother Donna Rosa, sung by mezzo soprano Dana Beth Miller, whose magnificent, Wagner-sized voice is wasted on this manic caricature of a virginity-obsessed Catholic nanna. Are these kinds of tropes really acceptable in a theatrical work which premiered within the last decade? Donna Rosa especially, whose antics find her knocking on Neruda’s door, comically wielding a shotgun, and raving that her daughter's mind has been "poisoned by poetry!" - all played for laughs - feel garishly out of place in this lyrical romance.
+This brings me around to the treatment of women in Catàn's opera, who are alternately objects of affection, and sources of comfort for the men, as is the case with Beatrice and Neruda's wife, Matilde (sung thinly and with some strain in the voice by soprano Inna Dukach), or as a nagging killjoy, as exemplified by Beatrice's overprotective mother Donna Rosa, sung by mezzo soprano Dana Beth Miller, whose magnificent, Wagner-sized voice is wasted on this manic caricature of a virginity-obsessed Catholic nanna. 
+
+Are these kinds of tropes really acceptable in a theatrical work which premiered within the last decade? Donna Rosa especially, whose antics find her knocking on Neruda's door, comically wielding a shotgun, and raving that her daughter's mind has been "poisoned by poetry!" - all played for laughs - feel garishly out of place in this lyrical romance.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption> in _Il Postino_, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
 </figure>
 
-The staging is embellished with three additional women, appearing first during Beatrice's first aria, who move silently about the set, weaving in and out of the (all-male) chorus, their movements often follow the steps of a sensual tango, and as the opera goes on their purpose becomes increasingly unclear. Are they lines of poetry? Or perhaps muses to inspire the young postman? Are they the spirits of his island home? Only later after leaving the theater did I find an explanation in Director Crystal Manich's program notes that they are meant to represent "the emotional awakening of female desire." It seems that this staging decision was Manich's attempt to resolve the opera's woman problem, which, however well-intentioned, just didn't work.
+The staging is embellished with three additional women, appearing first during Beatrice's first aria, who move silently about the set, weaving in and out of the (all-male) chorus, their movements often follow the steps of a sensual tango, and as the opera goes on their purpose becomes increasingly unclear. Are they lines of poetry? Or perhaps muses to inspire the young postman? Are they the spirits of his island home? 
 
-What did work was the production design. Centered on an enormous, revolving, spiral staircase to create a graphic impression of a mediterranean cliffside emerging from the sea. Projections are used to wondrous effect to show Neruda’s handwriting scrawling across the backdrop as he sings. A bicycle is situated downstage, and when Mario jumps on it and begins furiously pedalling, he stays in place while the set rotates to give the impression that he is traversing the island to consult with his mentor or to woo his Beatrice with a poem.
+Only later after leaving the theater did I find an explanation in Director Crystal Manich's program notes that they are meant to represent "the emotional awakening of female desire." It seems that this staging decision was Manich's attempt to resolve the opera's woman problem, which, however well-intentioned, just didn't work.
+
+What did work was the production design. Centered on an enormous, revolving, spiral staircase to create a graphic impression of a mediterranean cliffside emerging from the sea. Projections are used to wondrous effect to show Neruda's handwriting scrawling across the backdrop as he sings. A bicycle is situated downstage, and when Mario jumps on it and begins furiously pedalling, he stays in place while the set rotates to give the impression that he is traversing the island to consult with his mentor or to woo his Beatrice with a poem.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption> in _Il Postino_, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
 </figure>
 
-Of course, Mario gets the girl and in the finale to the second act, they marry as Neruda receives a telegram to notify him that the Chilean government has changed hands and he is free to return to his home country from which he had been exiled for his communist politics. What follows in the third act is more epilogue than story conclusion, and feels superfluous to the overall plot. Neruda leaves the island and is absent several years, and Mario misses his old friend, while becoming active in communist politics locally. Finally Neruda returns to find Beatrice alone with her son "Pablito," and she sings a glorious aria telling the poet the story of how Mario was killed when he was invited to read one of his own poems at a communist rally which turned violent.
+Of course, Mario gets the girl and in the finale to the second act, they marry as Neruda receives a telegram to notify him that the Chilean government has changed hands and he is free to return to his home country from which he had been exiled for his communist politics. 
+
+What follows in the third act is more epilogue than story conclusion, and feels superfluous to the overall plot. Neruda leaves the island and is absent several years, and Mario misses his old friend, while becoming active in communist politics locally. Finally Neruda returns to find Beatrice alone with her son "Pablito," and she sings a glorious aria telling the poet the story of how Mario was killed when he was invited to read one of his own poems at a communist rally which turned violent.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption> in _Il Postino_, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
 </figure>
 
-It's a sour and tragic ending for an otherwise delightful love story. Moreover, the political subplot of the opera has a vagueness to it that leaves you wondering what its point of view is. Neruda speaks of fighting for justice and the common man, while a local politician Di Cosimo (sung admirably by baritone Efraín Solís) of the Christian Democrat party is portrayed as a villain who fails to fulfill the promise of providing running water to the island, and Mario is sneered at by Di Cosimo's followers for being a "Communista," but the libretto fails to interrogate the politics more deeply than that. Is Mario's death a heroic martyrdom, or a senseless tragedy? 
+It's a sour and tragic ending for an otherwise delightful love story. Moreover, the political subplot of the opera has a vagueness to it that leaves you wondering what its point of view is. Neruda speaks of fighting for justice and the common man, while a local politician Di Cosimo (sung admirably by baritone Efraín Solís) of the Christian Democrat party is portrayed as a villain who fails to fulfill the promise of providing running water to the island, and Mario is sneered at by Di Cosimo's followers for being a "Communista." 
 
-Is this opera pro-communist or just pro-Neruda? The libretto, and Manich's staging, leave it unclear.
+But the libretto fails to interrogate the politics more deeply than that. Is Mario's death a heroic martyrdom, or a senseless tragedy? Is this opera pro-communist or just pro-Neruda? The libretto, and Manich's staging, leave it unclear.
