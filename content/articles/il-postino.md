@@ -20,12 +20,9 @@ youtube_url = ""
 +++
 As a writer, I'm all too familiar with the struggle to find exactly the right words to express what I'm thinking, or feeling. Was that soprano's voice "crystalline," or "silvery," or "bell-like?" Is this melody "haunting," or is it "dreamlike?" If only I had my own master poet mentor to guide me to just the right metaphors to express myself the way that Pablo Neruda guides his earnest young postman, Mario, and shows him how using words to explore the nature of a thing, be it the sea, the stars, or the woman you love, can make you see it and understand it more clearly.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption> in _Il Postino_, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
-</figure>
-
 Having premiered at LA Opera in 2010, [_Il Postino_](https://vaopera.org/experience/il-postino/) is still in its operatic infancy, but fans of the 1994 film will find it pleasantly familiar, if a bit awkwardly paced dramatically. Daniel Catàn, who composed his own libretto for his third opera, made the obvious but very wise choice to pepper the text liberally with the words of the nobel prize winning Chilean poet who is central to the story. 
+
+> Their voices wind around each other, climbing ever higher in a Straussian climax.
 
 Indeed, the highlights of Catàn's score are those arias and duets which consist entirely of Neruda's poems set lavishly by the Mexican composer, most notably in Neruda's first aria, a setting of the poem "Desnuda," sung lustily and full throatedly by tenor Raùl Melo (in spite of the fact that he was under the weather Saturday evening, as noted in the curtain speech) which is the first of many times throughout the opera where the orchestration swirls and churns and rises to the heights of the Grandest of Grand Opera.
 
@@ -34,16 +31,13 @@ Indeed, the highlights of Catàn's score are those arias and duets which consist
 <figcaption> in _Il Postino_, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
 </figure>
 
-A less obvious, but equally wise choice made by the composer is to cast his two leading roles, Neruda, and the titular Postman, as tenors. The effect, emphasized by the similarity in timbre of Melo's voice as Neruda and that of Daniel Montenegro in the role of Mario, is one of a man and his clone. Montenegro's voice is a slightly brighter, slightly more youthful version of Melo's, and in their sublime act one duet, where Neruda is teaching Mario the power of metaphor, their voices wind around each other, climbing ever higher in a Straussian climax.
+A less obvious, but equally wise choice made by the composer is to cast his two leading roles, Neruda, and the titular Postman, as tenors. The effect, emphasized by the similarity in timbre of Melo's voice as Neruda and that of Daniel Montenegro in the role of Mario, is one of a man and his clone. Montenegro's voice is a slightly brighter, slightly more youthful version of Melo's. In their sublime Act I duet, where Neruda is teaching Mario the power of metaphor, their voices wind around each other, climbing ever higher in a Straussian climax.
 
 The role of Mario's love interest, Beatrice, is masterfully sung by soprano Danielle Talamantes. She is in fine voice, and the role sits perfectly in her vocal sweet spot, gleaming and soaring - not a single sound escapes her throat which isn't beautiful. Her singing is perfect, and it allows the audience to see her as Mario does, as an idealized woman, at once beautiful, kind, and virtuous.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+> The role sits perfectly in her vocal sweet spot, gleaming and soaring - not a single sound escapes her throat which isn't beautiful.
 
-<figcaption> in _Il Postino_, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
-</figure>
-
-This brings me around to the treatment of women in Catàn's opera, who are alternately objects of affection, and sources of comfort for the men, as is the case with Beatrice and Neruda's wife, Matilde (sung thinly and with some strain in the voice by soprano Inna Dukach), or as a nagging killjoy, as exemplified by Beatrice's overprotective mother Donna Rosa, sung by mezzo soprano Dana Beth Miller, whose magnificent, Wagner-sized voice is wasted on this manic caricature of a virginity-obsessed Catholic nanna. 
+This brings me around to the treatment of women in Catàn's opera. They are alternately objects of affection and sources of comfort for the men, as is the case with Beatrice and Neruda's wife, Matilde (sung thinly and with some strain in the voice by soprano Inna Dukach). Or they're a nagging killjoy, as exemplified by Beatrice's overprotective mother Donna Rosa, sung by mezzo soprano Dana Beth Miller, whose magnificent, Wagner-sized voice is wasted on this manic caricature of a virginity-obsessed Catholic nanna. 
 
 Are these kinds of tropes really acceptable in a theatrical work which premiered within the last decade? Donna Rosa especially, whose antics find her knocking on Neruda's door, comically wielding a shotgun, and raving that her daughter's mind has been "poisoned by poetry!" - all played for laughs - feel garishly out of place in this lyrical romance.
 
@@ -56,12 +50,9 @@ The staging is embellished with three additional women, appearing first during B
 
 Only later after leaving the theater did I find an explanation in Director Crystal Manich's program notes that they are meant to represent "the emotional awakening of female desire." It seems that this staging decision was Manich's attempt to resolve the opera's woman problem, which, however well-intentioned, just didn't work.
 
-What did work was the production design. Centered on an enormous, revolving, spiral staircase to create a graphic impression of a mediterranean cliffside emerging from the sea. Projections are used to wondrous effect to show Neruda's handwriting scrawling across the backdrop as he sings. A bicycle is situated downstage, and when Mario jumps on it and begins furiously pedalling, he stays in place while the set rotates to give the impression that he is traversing the island to consult with his mentor or to woo his Beatrice with a poem.
+What did work was the production design, centered on an enormous, revolving, spiral staircase to create a graphic impression of a mediterranean cliffside emerging from the sea. Projections are used to wondrous effect to show Neruda's handwriting scrawling across the backdrop as he sings. A bicycle is situated downstage, and when Mario jumps on it and begins furiously pedalling, he stays in place while the set rotates to give the impression that he is traversing the island to consult with his mentor or to woo his Beatrice with a poem.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption> in _Il Postino_, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
-</figure>
+> Is Mario's death a heroic martyrdom, or a senseless tragedy?
 
 Of course, Mario gets the girl and in the finale to the second act, they marry as Neruda receives a telegram to notify him that the Chilean government has changed hands and he is free to return to his home country from which he had been exiled for his communist politics. 
 
