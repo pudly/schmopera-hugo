@@ -3,7 +3,6 @@ author = ["authors/jeremy-hirsch.md"]
 categories = "Review"
 date = "2019-11-18T05:00:00+00:00"
 discipline = ""
-draft = true
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574134014/media/2019/11/sq4152_tamerlano07_dxqhvj.jpg"
 primary_image_credit = "(l-r) Lawrence Zazzo (Tamerlano) and Brennan Hall (Andronico) in Tamerlano, Oper Frankfurt, 2019. Photo: Monika Rittershaus."
 related_companies = []
