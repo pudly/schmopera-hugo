@@ -40,6 +40,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/articles/patience-rewarded-in-oper-frankfurt-s-tamerlano.md
 - content/scene/people/danielle-beckvermit.md
 - content/scene/people/rodion-pogossov.md
 - content/scene/people/patrick-carfizzi.md
