@@ -25,6 +25,8 @@ Director R.B. Schlather utilizes all of the above techniques in the first act of
 
 In this case, the devices seem geared toward gussying up Handel's exposition with something beyond (or beside) the opera's circumstances. The characters begin as caricatures. Tamerlano (Lawrence Zazzo), a sadistic Southwestern oil baron who's a cross between Yosemite Sam and Daniel Day Lewis's tics in _There Will Be Blood_, has a grin (and mustache) glued to his face. He giddily flings around a bull whip on his way to taking the helpless Asteria (Elizabeth Reiter) from her lover, the hapless Andronico (Brennan Hall), and torturing his imprisoned wartime rival, Asteria's father, the Sultan Bajazet (Yves Saelens).
 
+> The countertenor wiggles through coloratura with his entire body, his shoulders shimmying up and down.
+
 The first act passes by with a lot of bells and whistles but not much else. Then, surprise! Intermission. Does the line seem extra long for drinks? Better stretch those glutes; another two hours (at least) to go.
 
 Luckily, in the second act the singers get space to work and the evening begins to transform.
@@ -35,6 +37,8 @@ Luckily, in the second act the singers get space to work and the evening begins 
 </figure>
 
 Asteria has come to a breaking point. If she doesn't take drastic action, her father will be murdered by Tamerlano, whom she will be forced to marry, and her lover Andronico will be coupled with princess Irene, Tamerlano's (former) fiancée. Asteria decides that to restore order, she must run a covert scheme to murder Tamerlano as she joins him for the first time on his throne. Meanwhile, since she must keep her father and lover out of the loop for her plan to succeed, her relationships with them are falling apart. Both believe Asteria is sacrificing their fates to gain Tamerlano's throne in earnest.
+
+> From the first phrase, her voice is placid, shimmering yet unwavering.
 
 In the aria "Non è più tempo" (roughly: "time has run out"), Asteria ruminates on the isolation of her heroism as she convinces Andronico that she no longer desires him. Soprano Elizabeth Reiter's voice quivers with apprehension, blooms with adoration, withers with guilt, and soars with resolve, her timbre buoyant with unimpeachable fortitude.
 
@@ -72,13 +76,15 @@ Maestro Karsten Januschke's gestures in the overture were overly performative �
 
 A lot can be forgiven for a powerful third act and it's here that Schlather brings the full stakes of reality to bear. Tamerlano rips off his disguise and transforms from a leather cowboy into a gangster enforcer. His weapon of choice is a long, aluminum softball bat which he lugs over his shoulder and taps menacingly with his ring.
 
+> The group sings a sublime choral ensemble of resigned thanks. They've lived to see another day.
+
 The good guys' plan has unraveled and Tamerlano is out of patience. He sends Asteria to the slave quarters to be raped. A bale of hay is emptied onto the floor, and Asteria, in a dark, leather BDSM pig mask, is thrown onto the pile. Left alone, she removes the mask and reveals her face bruised and bloodied and her white wedding gown stained red.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574135258/media/2019/11/4153_tamerlano06_lxje1z.jpg){{% /md %}}
 
-<figcaption> in Tamerlano, Oper Frankfurt, 2019. Photo: Monika Rittershaus.</figcaption>  
+<figcaption>(l-r) Brennan Hall ( Andronico), Elizabeth Reiter (Asteria) and Liviu Holender (Leone) and the Oper Frankfurt and Museum Orchestra in Tamerlano, Oper Frankfurt, 2019. Photo: Monika Rittershaus.</figcaption>  
 </figure>
 
-Bajazet, who professes repeatedly that he would rather die than appease Tamerlano's will, downs the poison he has saved for just such a dehumanizing moment. His death is wrenching in itself, but more heartbreaking is the way he says goodbye to Asteria. Father and daughter embrace for what they wish were an eternity.
+Bajazet, who professes repeatedly that he would rather die than appease Tamerlano's will, downs the poison he has saved for just such a dehumanizing moment. His death is wrenching in itself, but more heartbreaking is the way he says goodbye to Asteria. Father and daughter embrace for what they wish was an eternity.
 
 Bajazet's death sways Tamerlano to relent. He allows Asteria and Andronico to reunite and takes Irene back as his betrothed. Order is restored but with a devastating body count. The group sings a sublime choral ensemble of resigned thanks. They've lived to see another day. The ascending dance transforms into a cascade of sighs as the theater dims imperceptibly to black.
