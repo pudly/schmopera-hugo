@@ -37,13 +37,13 @@ The role of Mario's love interest, Beatrice, is masterfully sung by soprano Dani
 
 > The role sits perfectly in her vocal sweet spot, gleaming and soaring - not a single sound escapes her throat which isn't beautiful.
 
-This brings me around to the treatment of women in Catàn's opera. They are alternately objects of affection and sources of comfort for the men, as is the case with Beatrice and Neruda's wife, Matilde (sung thinly and with some strain in the voice by soprano Inna Dukach). Or they're a nagging killjoy, as exemplified by Beatrice's overprotective mother Donna Rosa, sung by mezzo soprano Dana Beth Miller, whose magnificent, Wagner-sized voice is wasted on this manic caricature of a virginity-obsessed Catholic nanna. 
+This brings me around to the treatment of women in Catán's opera. They are alternately objects of affection and sources of comfort for the men, as is the case with Beatrice and Neruda's wife, Matilde (sung thinly and with some strain in the voice by soprano Inna Dukach). Or they're a nagging killjoy, as exemplified by Beatrice's overprotective mother Donna Rosa, sung by mezzo soprano Dana Beth Miller, whose magnificent, Wagner-sized voice is wasted on this manic caricature of a virginity-obsessed Catholic nanna. 
 
 Are these kinds of tropes really acceptable in a theatrical work which premiered within the last decade? Donna Rosa especially, whose antics find her knocking on Neruda's door, comically wielding a shotgun, and raving that her daughter's mind has been "poisoned by poetry!" - all played for laughs - feel garishly out of place in this lyrical romance.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574136785/media/2019/11/VAOperaIlPostino-0483_ophosy.jpg){{% /md %}}
 
-<figcaption> in _Il Postino_, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
+<figcaption>_Il Postino_, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
 </figure>
 
 The staging is embellished with three additional women, appearing first during Beatrice's first aria, who move silently about the set, weaving in and out of the (all-male) chorus, their movements often follow the steps of a sensual tango, and as the opera goes on their purpose becomes increasingly unclear. Are they lines of poetry? Or perhaps muses to inspire the young postman? Are they the spirits of his island home? 
@@ -58,9 +58,9 @@ Of course, Mario gets the girl and in the finale to the second act, they marry a
 
 What follows in the third act is more epilogue than story conclusion, and feels superfluous to the overall plot. Neruda leaves the island and is absent several years, and Mario misses his old friend, while becoming active in communist politics locally. Finally Neruda returns to find Beatrice alone with her son "Pablito," and she sings a glorious aria telling the poet the story of how Mario was killed when he was invited to read one of his own poems at a communist rally which turned violent.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574136868/media/2019/11/VAOperaIlPostino-5765_bm88d5.jpg){{% /md %}}
 
-<figcaption> in _Il Postino_, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
+<figcaption>Inna Dukach (Matilde) and Raúl Melo in _Il Postino_, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
 </figure>
 
 It's a sour and tragic ending for an otherwise delightful love story. Moreover, the political subplot of the opera has a vagueness to it that leaves you wondering what its point of view is. Neruda speaks of fighting for justice and the common man, while a local politician Di Cosimo (sung admirably by baritone Efraín Solís) of the Christian Democrat party is portrayed as a villain who fails to fulfill the promise of providing running water to the island, and Mario is sneered at by Di Cosimo's followers for being a "Communista." 
