@@ -8,7 +8,7 @@ image_gallery = []
 postamble = "Virginia Opera's production of [_Il Postino_](https://vaopera.org/experience/il-postino/) has performances in Richmond, VA, [Nov 22-24](https://www.etix.com/ticket/v/8084/virginia-opera-dominion-energy-center-carpenter-theatre?performance_id=3281149&country=US&language=en)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574135863/media/2019/11/sqVAOperaIlPostino-5177_ndcnc1.jpg"
-primary_image_credit = ""
+primary_image_credit = "Daniel Montenegro (Mario) in Il Postino, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera."
 related_articles = []
 related_companies = ["scene/companies/virginia-opera.md"]
 related_people = []
@@ -26,9 +26,9 @@ Having premiered at LA Opera in 2010, [_Il Postino_](https://vaopera.org/experie
 
 Indeed, the highlights of Catàn's score are those arias and duets which consist entirely of Neruda's poems set lavishly by the Mexican composer, most notably in Neruda's first aria, a setting of the poem "Desnuda," sung lustily and full throatedly by tenor Raùl Melo (in spite of the fact that he was under the weather Saturday evening, as noted in the curtain speech) which is the first of many times throughout the opera where the orchestration swirls and churns and rises to the heights of the Grandest of Grand Opera.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574136735/media/2019/11/VAOperaIlPostino-0137_n4xpp4.jpg){{% /md %}}
 
-<figcaption> in _Il Postino_, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
+<figcaption>Daniel Montenegro (Mario) in _Il Postino_, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
 </figure>
 
 A less obvious, but equally wise choice made by the composer is to cast his two leading roles, Neruda, and the titular Postman, as tenors. The effect, emphasized by the similarity in timbre of Melo's voice as Neruda and that of Daniel Montenegro in the role of Mario, is one of a man and his clone. Montenegro's voice is a slightly brighter, slightly more youthful version of Melo's. In their sublime Act I duet, where Neruda is teaching Mario the power of metaphor, their voices wind around each other, climbing ever higher in a Straussian climax.
@@ -41,7 +41,7 @@ This brings me around to the treatment of women in Catàn's opera. They are alte
 
 Are these kinds of tropes really acceptable in a theatrical work which premiered within the last decade? Donna Rosa especially, whose antics find her knocking on Neruda's door, comically wielding a shotgun, and raving that her daughter's mind has been "poisoned by poetry!" - all played for laughs - feel garishly out of place in this lyrical romance.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574136785/media/2019/11/VAOperaIlPostino-0483_ophosy.jpg){{% /md %}}
 
 <figcaption> in _Il Postino_, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
 </figure>
