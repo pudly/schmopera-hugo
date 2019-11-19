@@ -5,7 +5,7 @@ date = 2019-11-17T05:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "Virginia Opera's production of [_Il Postino_](https://vaopera.org/experience/il-postino/) has performances in Richmond, VA, [Nov 22-24](https://www.etix.com/ticket/v/8084/virginia-opera-dominion-energy-center-carpenter-theatre?performance_id=3281149&country=US&language=en)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574135863/media/2019/11/sqVAOperaIlPostino-5177_ndcnc1.jpg"
 primary_image_credit = ""
@@ -25,7 +25,9 @@ As a writer, I'm all too familiar with the struggle to find exactly the right wo
 <figcaption> in _Il Postino_, Virginia Opera, 2019. Ben Schill Photography courtesy of Virginia Opera.</figcaption>  
 </figure>
 
-Having premiered at LA Opera in 2010, _Il Postino_ is still in its operatic infancy, but fans of the 1994 film will find it pleasantly familiar, if a bit awkwardly paced dramatically. Daniel Catàn, who composed his own libretto for his third opera, made the obvious but very wise choice to pepper the text liberally with the words of the nobel prize winning Chilean poet who is central to the story. Indeed, the highlights of Catàn's score are those arias and duets which consist entirely of Neruda's poems set lavishly by the Mexican composer, most notably in Neruda's first aria, a setting of the poem "Desnuda," sung lustily and full throatedly by tenor Raùl Melo (in spite of the fact that he was under the weather Saturday evening, as noted in the curtain speech) which is the first of many times throughout the opera where the orchestration swirls and churns and rises to the heights of the Grandest of Grand Opera.
+Having premiered at LA Opera in 2010, [_Il Postino_](https://vaopera.org/experience/il-postino/) is still in its operatic infancy, but fans of the 1994 film will find it pleasantly familiar, if a bit awkwardly paced dramatically. Daniel Catàn, who composed his own libretto for his third opera, made the obvious but very wise choice to pepper the text liberally with the words of the nobel prize winning Chilean poet who is central to the story. 
+
+Indeed, the highlights of Catàn's score are those arias and duets which consist entirely of Neruda's poems set lavishly by the Mexican composer, most notably in Neruda's first aria, a setting of the poem "Desnuda," sung lustily and full throatedly by tenor Raùl Melo (in spite of the fact that he was under the weather Saturday evening, as noted in the curtain speech) which is the first of many times throughout the opera where the orchestration swirls and churns and rises to the heights of the Grandest of Grand Opera.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
