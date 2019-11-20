@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Editorial"
 date = 2019-11-19T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
