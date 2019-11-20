@@ -21,7 +21,7 @@ Before you even knew it was a problem, the team at the [Irish Art Song Project](
 
 Led by Artistic Director Dáirine Ní Mheadhra and pianist John Hess - names you may remember from Canada's Queen of Puddings Theatre - the Irish Art Song Project is a resource that provides spoken recordings, word-for-word translations, and phonetic guides for singing in Irish (or Gaelic, as most non-Irish call the language), all free for download.
 
-During a visit to Dublin a few years back, Hess and Ní Mheadhra were surprised to discover that in the entirety of the Contemporary Music Centre there were only 17 songs from the 20th century and later that were set to Irish language texts. 
+During a visit to Dublin a few years back, Hess and Ní Mheadhra were surprised to discover that in the entirety of the Contemporary Music Centre there were only 17 songs from the 20th century and later that were set to Irish language texts. English, it seems, is the default even among Irish composers.
 
 "Even though I was brought up speaking Irish Gaelic, it didn't occur to me to commission composers to write on Irish Gaelic texts," says Ní Mheadhra. "Colonization does weird things to a country."
 
