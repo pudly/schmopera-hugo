@@ -33,6 +33,8 @@ In their 2019-2020 season, [Florida Grand Opera](/scene/companies/florida-grand-
 
 Early on in director Mo Zhou's production, the title character – a dark and urgent turn by star baritone [Elliot Madore](/scene/people/elliot-madore/) – was shown to be a particularly chilling breed of villain. Swords clashing, the Commendatore disarmed the Don, his weapon falling to the ground. When the victorious Commendatore turned his back to his opponent and begins to sheath his sword, Giovanni lunged to stab him in the back with a concealed dagger. Still not satisfied, Giovanni then grabbed the fallen Commendatore by the neck and strangled him to death, watching the life drain from his eyes.
 
+> Her change of heart toward the Don no longer felt like yet another helpless woman falling for Giovanni's old tricks.
+
 Madore's Giovanni was, refreshingly, far from sympathetic. His portrayal was short-tempered and fueled by obsession, quick to raise an arm and threaten to strike Donna Elvira or hold Leporello at knifepoint. In her program note, Zhou emphasizes the opera's indisputable echoes of the current moment: "It is hard not to face _Don Giovanni_ without thinking about what has happened in the #MeToo movement." Yet, she maintained, the opera is, at its core, not really about Don Giovanni at all. "The story weaves together a journey of six people who seek justice \[and\] challenge the acquiescence of a status quo."
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574351606/media/2019/11/20191114_Don_Giovanni_173A2951_suytqu.jpg){{% /md %}}
@@ -47,7 +49,7 @@ Set design by John Pascoe and lighting design by Nate Wheatley made for a grim, 
 <figcaption>Florida Grand Opera's production of Don Giovanni, 2019. Photo: Daniel Azoulay.</figcaption>  
 </figure>
 
-Zhou's production successfully shone a spotlight on the inner lives of the women whose lives are uprooted by Giovanni's violence, greed, and rage. Donna Elvira, sung by soprano [Elizabeth Caballero](/scene/people/elizabeth-caballero/) with a sparkling tone and richly emotive range of color, was played as a resolute decrier of injustice rather than a jealous and vengeful ex. Her change of heart toward the Don (or, toward Leporello in disguise) no longer felt like yet another helpless woman falling for Giovanni’s old tricks. Instead, Caballero sang an Elvira who, even through the most traumatic of circumstances, believed that anyone, even Don Giovanni, could change for the better: "He betrayed and abandoned me, but I would still forgive him."
+Zhou's production successfully shone a spotlight on the inner lives of the women whose lives are uprooted by Giovanni's violence, greed, and rage. Donna Elvira, sung by soprano [Elizabeth Caballero](/scene/people/elizabeth-caballero/) with a sparkling tone and richly emotive range of color, was played as a resolute decrier of injustice rather than a jealous and vengeful ex. Her change of heart toward the Don (or, toward Leporello in disguise) no longer felt like yet another helpless woman falling for Giovanni's old tricks. Instead, Caballero sang an Elvira who, even through the most traumatic of circumstances, believed that anyone, even Don Giovanni, could change for the better: "He betrayed and abandoned me, but I would still forgive him."
 
 Soprano Aslief Willmer's Zerlina was sarcastic and coy, sung with glowing color and exceptional artistry. This Zerlina was, in a way, Don Giovanni's mirror, lying to Masetto – a solid performance from baritone Michael Miller – manipulating him to keep their relationship intact. Yet, while Giovanni exerted his power free from punishment (leaving his disguised sidekick to catch the community's flak in his place), Zerlina was criticized, stalked, and assaulted. In the end, it was Zerlina who hastened Don Giovanni's demise, her cry for help summoning a coalition of survivors and allies demanding justice.
 
@@ -57,6 +59,8 @@ Soprano Aslief Willmer's Zerlina was sarcastic and coy, sung with glowing color 
 </figure>
 
 As Donna Anna, soprano Elizabeth de Trejo took on a sombre and raw portrayal, with a bright _dolce_ tone agilely navigating the darkness of her role. As she described the details of her attempted rape to Don Ottavio – a warm tone and thoughtful acting from tenor Nicholas Huff – terror tinged her recitative with a halting, earnest pace, gradually gaining momentum as the fearful memories of that night blended with a fierce mixture of resilience and rage.
+
+> We should feel uncomfortable watching these moments on stage, period.
 
 Yet, immediately following her graphic account, the scene transitioned into a bantering dialogue between Giovanni and Leporello (bass-baritone Federico De Michelis, resonantly sung). The audience took in a detailed testimony of harrowing trauma, then turned around and laughed alongside the man who had wrought it.
 
