@@ -15,9 +15,19 @@ website = ""
 +++
 In their 2019-2020 season, [Florida Grand Opera](/scene/companies/florida-grand-opera/) boasts something few, if any, major opera companies can claim: every single production is to be helmed by a woman stage director. "This is \[a\] first in FGO's company history to have an entire season directed by women, telling these male-dominated stories from a woman's perspective," said Susan Danis, FGO's General Director, in a press release. On the season's opening night, November 16 at the Adrienne Arsht Center in Miami, it was clear that this [_Don Giovanni_](https://tickets.fgo.org/Tickets/EventDetails.aspx?id=1881) represented a shift in storytelling for the company, and for the opera itself.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
+
 Early on in director Mo Zhou's production, the title character – a dark and urgent turn by star baritone [Elliot Madore](/scene/people/elliot-madore/) – was shown to be a particularly chilling breed of villain. Swords clashing, the Commendatore disarmed the Don, his weapon falling to the ground. When the victorious Commendatore turned his back to his opponent and begins to sheath his sword, Giovanni lunged to stab him in the back with a concealed dagger. Still not satisfied, Giovanni then grabbed the fallen Commendatore by the neck and strangled him to death, watching the life drain from his eyes.
 
 Madore's Giovanni was, refreshingly, far from sympathetic. His portrayal was short-tempered and fueled by obsession, quick to raise an arm and threaten to strike Donna Elvira or hold Leporello at knifepoint. In her program note, Zhou emphasizes the opera's indisputable echoes of the current moment: "It is hard not to face _Don Giovanni_ without thinking about what has happened in the #MeToo movement." Yet, she maintained, the opera is, at its core, not really about Don Giovanni at all. "The story weaves together a journey of six people who seek justice \[and\] challenge the acquiescence of a status quo."
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
 
 Set design by John Pascoe and lighting design by Nate Wheatley made for a grim, greyscale backdrop as Giovanni's evils unfolded. Meanwhile, colorful costuming from designer Ann Hould-Ward drew the eye toward the bonds that formed between the justice seekers who would ultimately prevail. During the masquerade trio, sung in stellar, snugly balanced harmonies in a highlight of the evening, Elvira, Anna, and Ottavio donned sparkling colored capes that, worn side by side, made the three protagonists appear unified and larger-than-life, ready to take on a real-life villain.
 
