@@ -13,6 +13,10 @@ title = "FGO Don Giovanni"
 website = ""
 
 +++
+_Content warning: Rape, sexual assault_
+
+***
+
 In their 2019-2020 season, [Florida Grand Opera](/scene/companies/florida-grand-opera/) boasts something few, if any, major opera companies can claim: every single production is to be helmed by a woman stage director. "This is \[a\] first in FGO's company history to have an entire season directed by women, telling these male-dominated stories from a woman's perspective," said Susan Danis, FGO's General Director, in a press release. On the season's opening night, November 16 at the Adrienne Arsht Center in Miami, it was clear that this [_Don Giovanni_](https://tickets.fgo.org/Tickets/EventDetails.aspx?id=1881) represented a shift in storytelling for the company, and for the opera itself.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
