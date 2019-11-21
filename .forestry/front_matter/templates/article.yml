@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/fgo-don-giovanni.md
 - content/articles/check-out-the-irish-art-song-project.md
 - content/articles/patience-rewarded-in-oper-frankfurt-s-tamerlano.md
 - content/articles/barber-mo.md
