@@ -46,9 +46,7 @@ Soprano [Lara Ciekiewicz](/spotlight-on-lara-ciekiewicz/)'s career seems to be m
 
 Ciekiewicz's lyrical interpretation of a very challenging score, and her ability to make difficult music sound easy, made her character all the more believable. Also, we don't usually talk about beautiful lyrics when talking about opera (the libretto is usually just a skeleton for the composer to hang their tunes on) but check out these lyrics by Floyd in Susannah's most famous aria, "Ain't It A Pretty Night":
 
-_The sky seems so heavy with stars/ That it might fall right down out of heaven/_
-
-_And cover us all up in one big blanket of velvet/ All stitched with diamonds._
+_The sky seems so heavy with stars/ That it might fall right down out of heaven/ And cover us all up in one big blanket of velvet/ All stitched with diamonds._
 
 Here's [Ciekiewicz singing this classic 20th-century aria](https://www.facebook.com/ManitobaOpera/videos/1010981209250458/).
 
