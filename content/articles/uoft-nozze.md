@@ -7,13 +7,13 @@ disclaimer = ""
 draft = true
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = "Photo: Richard LU"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574647216/media/2019/11/sqUofTFigaroIMG_1058_x77deq.jpg"
+primary_image_credit = "The University of Toronto Opera Division's production of Le nozze di Figaro, 2019. Photo by Richard Lu."
 related_companies = []
 short_description = "Incredible music, a beautiful set, and even stunning costumes too. Lisa Magill perfectly rounds out the production with her classic designs. She successfully fits the designs to the 18th century, and manages to have everyone looking their absolute best."
-slug = "uoft-nozze"
+slug = "a-perfect-fit-figaro-in-uoft-operas-nozze"
 social_media = []
-title = "UofT Nozze"
+title = "A perfect-fit Figaro in UofT Opera's Nozze"
 website = ""
 youtube_url = ""
 
