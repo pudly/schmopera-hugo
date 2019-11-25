@@ -33,7 +33,7 @@ Incredible music, a beautiful set, and even stunning costumes too. Lisa Magill p
 
 Thomas-Smith could not be a better Figaro. He skillfully plays his character with charm, wit, and energy that is constantly bouncing off of his Susanna. His warm rich tones fill the theatre, and also complements the warmth and sweet, delicate features of Palmer's voice. Together they successfully execute the comedically playful couple, while excelling as individual singers as well.
 
-The staging direction by Michael Albano further enhances the production, as well as the overall performance of the singers. Every character has their own specific nuance that they continue to stick with throughout the entire show. There is excellent characterization from Elias Theocharidis as Basillio, and Daniel Acebuque as Antonio. Both have slight gestures such as conducting, a turn of the lip, or a sip of a drink that occurs throughout, which enhances the realness of the opera even more.
+The staging direction by Michael Albano further enhances the production, as well as the overall performance of the singers. Every character has their own specific nuance that they continue to stick with throughout the entire show. There is excellent characterization from Elias Theocharidis as Basillio, and Danl Acebuque as Antonio. Both have slight gestures such as conducting, a turn of the lip, or a sip of a drink that occurs throughout, which enhances the realness of the opera even more.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574534996/media/2019/11/UofTIMG_1062_yhgirk.jpg){{% /md %}}
 
