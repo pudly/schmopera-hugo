@@ -43,7 +43,7 @@ _And cover us all up in one big blanket of velvet/<br>_
 
 _All stitched with diamonds. <br>{{% /md %}}_
 
-Here’s Ciekiewicz singing this classic 20th-century aria: https://www.facebook.com/ManitobaOpera/videos/1010981209250458/
+Here's [Ciekiewicz singing this classic 20th-century aria](https://www.facebook.com/ManitobaOpera/videos/1010981209250458/).
 
 I hope that Ciekiewicz gets many more opportunities to sing this role. You won’t hear it sung better anywhere, and her outstanding dramatic ability helped us feel the heartbreak of Susannah’s anguish and confusion. When Susannah has nothing left except bitterness and anger, we also sense the difference in Ciekiewicz’s  posture and energy.
 
