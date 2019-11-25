@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/death-in-venice.md
 - content/articles/uoft-nozze.md
 - content/articles/tap-ex-augmented-opera.md
 - content/articles/fgo-don-giovanni.md
