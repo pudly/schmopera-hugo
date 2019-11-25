@@ -42,4 +42,4 @@ The staging direction by Michael Albano further enhances the production, as well
 
 Saige Carlson's characterization of the Countess effectively portrays the mischievous scheming between herself and Susanna. The two performers bounce off of each other so well, actually feeding off of one another's energy. The sweet delicate tones of Palmer float above the full roundness of Carlson's lyric voice. I commend Carlson for her regal portrayal of the Countess, and believe that she executes this role well.
 
-Overall, I believe this production is a success. Every aspect of this opera is clearly well thought out and executed from the costumes, the set, and the brilliant performance from the musicians. All of these elements beautifully compliment each other, and I cannot wait for their next show. Bravi tutti!
+Overall, I believe this production is a success. Every aspect of this opera is clearly well thought out and executed from the costumes, the set, and the brilliant performance from the musicians. All of these elements beautifully complement each other, and I cannot wait for their next show. Bravi tutti!
