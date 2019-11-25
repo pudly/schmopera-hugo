@@ -1,15 +1,17 @@
 +++
 author = ["authors/alexandra-delle-donne.md"]
 categories = "Review"
-date = "2019-11-23T05:00:00+00:00"
+date = 2019-11-23T05:00:00Z
 discipline = ""
 disclaimer = ""
-draft = true
+image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574647216/media/2019/11/sqUofTFigaroIMG_1058_x77deq.jpg"
 primary_image_credit = "The University of Toronto Opera Division's production of Le nozze di Figaro, 2019. Photo by Richard Lu."
-related_companies = []
+related_articles = ["articles/in-review-albert-herring-at-uoft-opera.md", "articles/5-important-roles-who-dont-get-an-aria.md", "articles/opera-nerd-meets-grammar-freak.md"]
+related_companies = ["scene/companies/university-of-toronto-opera.md"]
+related_people = []
 short_description = "Incredible music, a beautiful set, and even stunning costumes too. Lisa Magill perfectly rounds out the production with her classic designs. She successfully fits the designs to the 18th century, and manages to have everyone looking their absolute best."
 slug = "a-perfect-fit-figaro-in-uoft-operas-nozze"
 social_media = []
