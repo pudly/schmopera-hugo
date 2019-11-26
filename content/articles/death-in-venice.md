@@ -59,13 +59,13 @@ Baritone [Gerald Finley](/talking-with-singers-gerald-finley/) was fantastic app
 
 Finley brought a distinct and fully realized character to each role but his constant reappearance on stage seemed to suggest that perhaps there was some invisible thread connecting these otherwise unrelated characters; appearing at key moments in the plot, they became spiritual guides on Aschenbach's journey of discovery, nudging him forward, daring him to take a risk. Finley gave a very committed performance in each of these roles.
 
->I would urge all who have the opportunity to go and see this opera.
+> I would urge all who have the opportunity to go and see this opera.
 
 A physically demanding endeavour, each character had a well-defined energy that Finley portrayed seemingly with ease. Vocally, the score required him to be all over the map. He took on many different voices, showcased some impressive falsetto, and put on an assortment of entertaining accents. He was the perfect contrast to Padmore's anxious, and introspective Aschenbach.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574711394/media/2019/11/2191MarkPadmoreasAschenbachandGeraldFinleyastheElderlyFopinDeathinVeniceROH2019CatherineAshmore_hgyuym.jpg){{% /md %}}
 
-<figcaption>in Death in Venice, ROH, 2019. Photo: Catherine Ashmore.</figcaption>  
+<figcaption>Mark Padmore (Aschenbach) and Gerald Finley (Elderly Fop) in Death in Venice, ROH, 2019. Photo: Catherine Ashmore.</figcaption>  
 </figure>
 
 I would be remiss if I did not mention the wonderful performances by the young male dancers, in particular Leo Dixon, who played the role of Tadzio. Britten's decision to make this a silent role played by a dancer was, I believe, the right one as Aschenbach never says a single word to Tadzio over the course of the entire opera. He becomes a distant and silent character, speaking through movement rather than words, making him all the more mysterious and intriguing both to Aschenbach and to the audience. He becomes a monument to youth and beauty; perfection on a pedestal for our main character to idolize.
