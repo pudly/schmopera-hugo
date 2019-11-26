@@ -36,7 +36,7 @@ Manitoba Opera has assembled a fine cast for this production. It's a testament t
 
 As the Rev. Olin Blitch, Kristopher Irmiter's mighty voice matched his outsized stage presence. Even in a chapel full of chorus members vocalizing and gesticulating heavenward, Irmiter's outstanding singing and powerful dramatic authority left no one doubting who is in charge of that church meeting.
 
-Michael David Hendrick, as Susannah's wise but flawed older brother Sam Polk, is one of the few characters not caught up in monolithic thinking. Everything that Sam says early on in the show in his talks with Susannah are crystalline nuggets of wisdom, and the siblings' evident mutual love is truly touching.
+Michael Robert Hendrick, as Susannah's wise but flawed older brother Sam Polk, is one of the few characters not caught up in monolithic thinking. Everything that Sam says early on in the show in his talks with Susannah are crystalline nuggets of wisdom, and the siblings' evident mutual love is truly touching.
 
 James McLennan's portrayal of Little Bat McLean, Susannah's loyal friend who ultimately betrays her kindness towards him, was full of nervous energy and sung impeccably, with McLennan's character given the tricky task of narrating parts of the offstage drama. There were a lot of words to be sung – it's a very wordy opera overall – but Floyd's placement of text,  perfect tempos by conductor Tyrone Paterson and clear diction by the entire cast ensured that every word was clearly heard.
 
