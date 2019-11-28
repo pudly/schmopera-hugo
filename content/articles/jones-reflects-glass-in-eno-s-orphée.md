@@ -1,9 +1,10 @@
 +++
 author = ["authors/alessia-naccarato.md"]
 categories = "Review"
-date = "2019-11-28T05:00:00+00:00"
+date = 2019-11-28T05:00:00Z
 discipline = ""
 disclaimer = ""
+image_gallery = []
 postamble = "English National Opera's production of [_Orphée_](https://www.eno.org/whats-on/orphee/) is onstage through 29 November."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574965073/media/2019/11/sq2876ashm_0804_ngp2z0.jpg"
