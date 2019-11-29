@@ -26,28 +26,28 @@ Director/designer Netia Jonas borrowed heavily from the film in the design of th
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574965117/media/2019/11/2876ashm_0821_lv4f97.jpg){{% /md %}}
 
-<figcaption>Nicholas Lester in ENO's production of _Orphée_, 2019. Photo: Catherine Ashmore.</figcaption>  
+<figcaption>Nicholas Lester in ENO's production of Orphée, 2019. Photo: Catherine Ashmore.</figcaption>  
 </figure>
 
 Musically, this work pales in comparison to Glass' earlier operatic efforts, in particular his trio of biographical operas composed between 1975-1983. I think I can pin this down to the fact that _Orphée_, along with its counterparts _La Belle et la Bête_ (1994) and _Les Enfants Terribles_ (1996), are driven by narrative and feature librettos taken from the Cocteau films while the earlier operas have little in the way of narrative structure and virtually no libretto to speak of. Personally, I think that the nebulous plot is better suited to Glass' style of writing which often features meditative repeated patterns that play with rhythm and are based on a simple harmonic structure. The ceaselessness of this kind of music does not particularly lend itself to a standout aria, or a dialogue heavy scene. The vocal lines did not always land, particularly in some of the more humorous scenes, because they were so athletic and unrelenting and tended to disregard natural speech patterns.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574965081/media/2019/11/2876ashm_0129_gpno3o.jpg){{% /md %}}
 
-<figcaption>Jennifer France and Nicholas Lester in ENO's production of _Orphée_, 2019. Photo: Catherine Ashmore.</figcaption>  
+<figcaption>Jennifer France and Nicholas Lester in ENO's production of Orphée, 2019. Photo: Catherine Ashmore.</figcaption>  
 </figure>
 
 Much like past productions I've seen at ENO, the singing was a bit of a mixed bag. Many of the characters were played by young singers at the beginning of their careers. Naturally, some flourished while others struggled to keep up. In the role of The Princess, soprano Jennifer France gave a committed and practised performance in an extremely challenging role, yet she lacked the authority to command the stage as a character who is meant to be the physical manifestation of death itself. Nevertheless, I admire ENO's commitment to celebrating young talent and I am eager to see where her career takes her.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574965098/media/2019/11/2876ashm_0371_or59zc.jpg){{% /md %}}
 
-<figcaption>Nicholas Lester, Sarah Tynan, and Nicky Spence in ENO's production of _Orphée_, 2019. Photo: Catherine Ashmore.</figcaption>  
+<figcaption>Nicholas Lester, Sarah Tynan, and Nicky Spence in ENO's production of Orphée, 2019. Photo: Catherine Ashmore.</figcaption>  
 </figure>
 
 Baritone Nicholas Lester and tenor Nicky Spence in the roles of Orphée and Heurtebise respectively were both standouts for me. Lester has a noble, high baritone colour that was very pleasing to listen to and gave his character an air of importance. In the role of Orphée, he was initially rather unlikeable; obsessive and cold, he had a horrible habit of ignoring his attention-starved pregnant wife. But as the piece wore on, he grew on me. He was the source most of the sardonic humour featured in the piece and I eventually began to feel for his character who was obviously just a restless artist battling with the concept of celebrity and his own demise.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1574965129/media/2019/11/2876ashm_0632_ooc5kr.jpg){{% /md %}}
 
-<figcaption>Jennifer France and Nicholas Lester in ENO's production of _Orphée_, 2019. Photo: Catherine Ashmore.</figcaption>  
+<figcaption>Jennifer France and Nicholas Lester in ENO's production of Orphée, 2019. Photo: Catherine Ashmore.</figcaption>  
 </figure>
 
 Nicky Spence's Heurtebise, on the other hand was immediately likeable. He is a friendly, generous, and sensitive character that Spence played with grace. All of his physical choices on stage were directly connected to the text and to the character. He gave an engaged performance which was truly a joy to watch.
