@@ -4,7 +4,6 @@ categories = "Review"
 date = 2019-12-02T05:00:00Z
 discipline = ""
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Sondra Radvanovsky returns to Chicago in February 2020 to make her role debut as Lisa in LOC's production of Tchaikovsky's [The Queen of Spades](https://www.lyricopera.org/productions/2019-20/queen-of-spades/)."
 preamble = ""
