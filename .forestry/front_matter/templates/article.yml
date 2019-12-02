@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/loc-three-queens.md
 - content/articles/jones-reflects-glass-in-eno-s-orphée.md
 - content/articles/ciekiewicz-shines-in-the-title-role-of-manitoba-opera-s-susannah.md
 - content/articles/death-in-venice.md

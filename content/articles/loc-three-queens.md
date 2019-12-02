@@ -1,20 +1,22 @@
 +++
 author = ["authors/michael-pecak.md"]
 categories = "Review"
-date = "2019-12-02T05:00:00+00:00"
+date = 2019-12-02T05:00:00Z
 discipline = ""
 disclaimer = ""
 draft = true
+image_gallery = []
 postamble = "Sondra Radvanovsky returns to Chicago in February 2020 to make her role debut as Lisa in LOC's production of Tchaikovsky's [The Queen of Spades](https://www.lyricopera.org/productions/2019-20/queen-of-spades/)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1575329716/media/2019/12/sqSondraRadvanovsky_THETHREEQUEENS_ANNABOLENA_LyricOperaofChicago_LYR191129_040_ecgb3x.jpg"
 primary_image_credit = "Sondra Radvanovsky (Anna Bolena) in The Three Queens, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg."
+related_articles = ["articles/talking-with-singers-sondra-radvanovsky.md", "articles/in-review-sondra-radvanovsky-at-koerner-hall.md", "articles/i-love-a-gala.md"]
 related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
 related_people = ["scene/people/riccardo-frizza.md", "scene/people/sondra-radvanovsky.md"]
 short_description = "Billed as selected excerpts from three operas, the event comes across on paper as a kind of combination Donizetti-teaser and superstar feature concert. Yet, the experience was remarkably gratifying artistically thanks not only to the operas’ shared backstories, but also to director Matthew Ozawa’s unity of concept through the scenes and, of course, Radvanovsky’s riveting portrayal of Anne Boleyn, Mary Stuart, and Elizabeth I.  "
-slug = "loc-three-queens"
+slug = "sondras-three-queens-earn-thunderous-ovation-in-chicago"
 social_media = []
-title = "LOC Three Queens"
+title = "Sondra's Three Queens earn \"thunderous ovation\" in Chicago"
 website = ""
 youtube_url = ""
 
