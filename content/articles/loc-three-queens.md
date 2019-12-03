@@ -44,13 +44,13 @@ Ozawa's staging was minimalist but visually and dramatically effective, utilizin
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1575329807/media/2019/12/SondaRadvanovsky_THETHREEQUEENS_ROBERTODEVEREUX_LyricOperaofChicago_LYR191129_234_cqvfx1.jpg){{% /md %}}
 
-<figcaption>Sondra Radvanovsky (Elizabeth I) in _The Three Queens_, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
+<figcaption>Sondra Radvanovsky (Elizabeth I) in The Three Queens, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
 </figure>
 
 Although Radvanovsky was the unquestionable star of the evening, what I loved most about this performance was the inclusion of Ryan Opera Center young artists in the supporting roles. Tenors Eric Ferring and Mario Rojas, baritones Christopher Kenney and Ricardo José Rivera, and basses David Weigel and Anthony Reed all formed a marvelous ensemble, making one wish we could have heard more of their characters' solo numbers from the operas. Contralto Lauren Decker and mezzo Kathleen Felty were particular standouts as dramatic and vocal foils to Radvanovksy's doomed queens. Both Decker and Felty impress with their rich, expressive instruments and stage instincts notable for their sincerity.
 
-With a program like "The Three Queens" Sondra Radvanovsky continues to solidify her reputation as one of today's leading bel canto sopranos. During the 2015/16 season, she made history at the Metropolitan Opera singing all three of Donizetti's Tudor Queens in a single season. To sing these roles in a concentrated two-hour program, such as at the Lyric this week, presents its own challenges. On the surface, Donizetti's music may seem stylistically uniform, but he succeeds in capturing each queen's particular circumstances and individual emotional states with arresting subtlety.
+With a program like "The Three Queens" Sondra Radvanovsky continues to solidify her reputation as one of today's leading bel canto sopranos. During the 2015-16 season, she made history at the Metropolitan Opera singing all three of Donizetti's Tudor Queens in a single season. To sing these roles in a concentrated two-hour program, such as at the Lyric this week, presents its own challenges. On the surface, Donizetti's music may seem stylistically uniform, but he succeeds in capturing each queen's particular circumstances and individual emotional states with arresting subtlety.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1575329899/media/2019/12/SondraRadvanovsky_MarioRojas_THETHREEQUEENS_MARIASTUARDA_LyricOperaofChicago_LYR191129_183_wmyhne.jpg){{% /md %}}
 
