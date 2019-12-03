@@ -26,7 +26,7 @@ Billed as selected excerpts from three operas, the event comes across on paper a
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1575329750/media/2019/12/SondraRadvanovsky_THETHREEQUEENS_MARIASTUARDA_LyricOperaofChicago_LYR191129_167_lm0mbc.jpg){{% /md %}}
 
-<figcaption>Sondra Radvanovsky (Maria Stuarda) in _The Three Queens_, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
+<figcaption>Sondra Radvanovsky (Maria Stuarda) in The Three Queens, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
 </figure>
 
@@ -36,7 +36,7 @@ An effective programming touch, the overtures from each of the operas preceded t
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1575329767/media/2019/12/SondraRadvanovsky_THETHREEQUEENS_ROBERTODEVEREUX_LyricOperaofChicago_LYR191129_281_oaewsc.jpg){{% /md %}}
 
-<figcaption>Sondra Radvanovsky (Elizabeth I) in _The Three Queens_, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
+<figcaption>Sondra Radvanovsky (Elizabeth I) in The Three Queens, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
 </figure>
 
@@ -54,7 +54,7 @@ With a program like "The Three Queens" Sondra Radvanovsky continues to solidify 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1575329899/media/2019/12/SondraRadvanovsky_MarioRojas_THETHREEQUEENS_MARIASTUARDA_LyricOperaofChicago_LYR191129_183_wmyhne.jpg){{% /md %}}
 
-<figcaption>Sondra Radvanovsky (Maria Stuarda) with Mario Rojas in _The Three Queens_, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
+<figcaption>Sondra Radvanovsky (Maria Stuarda) with Mario Rojas in The Three Queens, Lyric Opera of Chicago, 2019. Photo: Todd Rosenberg.</figcaption>
 
 </figure>
 
