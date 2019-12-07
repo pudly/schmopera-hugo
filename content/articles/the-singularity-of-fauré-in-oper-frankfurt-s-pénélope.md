@@ -8,7 +8,7 @@ image_gallery = []
 postamble = "Oper Frankfurt's production of [_Pénélope_]() runs through January 23."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1575761163/media/2019/12/4193_penelope16_resized_xv9xo3.jpg"
-primary_image_credit = ") in Pénélope, Oper Frankfurt, 2019. Photo: Barbara Aumüller."
+primary_image_credit = "Paula Murrihy (Pénélope) in Pénélope, Oper Frankfurt, 2019. Photo: Barbara Aumüller."
 related_articles = ["articles/dalibor.md", "articles/clairvoyant-art-enrico-at-oper-frankfurt.md"]
 related_companies = ["scene/companies/oper-frankfurt.md"]
 related_people = []
@@ -20,14 +20,14 @@ youtube_url = ""
 +++
 No composer's music has sounded quite like Gabriel Fauré's. Immersed in sacred Renaissance and Baroque polyphony at a young age, the composer learned that modal harmony allowed for choices out of reach in the prevailing Germanic post-classical paradigm. Pianist and author [Graham Johnson describes](https://books.google.de/books/about/Gabriel_Faur%C3%A9.html?id=9KYHAQAAMAAJ&redir_esc=y) how in the modal system "one has simply to choose how to interpret any given chord and engineer a resolution that conforms with that interpretation" rather than be bound to Wagnerian chromaticism for complexity and variety.
 
-In Fauré's music, one deliberately chosen pitch can shift the harmonic landscape in a subtle but entirely novel way. The clearest example is the raised fourth scale degree in the Lydia \[link to Lydia recording\] love theme, which the composer developed and transformed over his entire life and which is the thesis of his second opera, [_Pénélope_](https://oper-frankfurt.de/de/spielplan/penelope/). One pitch distinguishes the theme's lydian mode from a conventional major scale, yet from that single lifting alteration and the myriad harmonizations it engendered, Fauré fashioned a rich dialect to elucidate the sublime hope of love.
+In Fauré's music, one deliberately chosen pitch can shift the harmonic landscape in a subtle but entirely novel way. The clearest example is the raised fourth scale degree in the Lydia *** \[link to Lydia recording\] love theme, which the composer developed and transformed over his entire life and which is the thesis of his second opera, [_Pénélope_](https://oper-frankfurt.de/de/spielplan/penelope/). One pitch distinguishes the theme's lydian mode from a conventional major scale, yet from that single lifting alteration and the myriad harmonizations it engendered, Fauré fashioned a rich dialect to elucidate the sublime hope of love.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1575761184/media/2019/12/4179_penelope19_resized_oannph.jpg){{% /md %}}
 
 <figcaption>Paula Murrihy (Pénélope), Eric Laporte (Ulysse) and Ensemble in Pénélope, Oper Frankfurt, 2019. Photo: Barbara Aumüller.</figcaption>  
 </figure>
 
-In _Pénélope_, whose story comes from the end of Homer's Odyssey and tells of Ulysses's return and reunion with his wife Pénélope, the theme is stitched into the fabric of the score. As the couple grows nearer, it ventures into the foreground, gaining prominence over the two hour work. Finally, the couple is reunited and the theme swells with the full force of orchestral strings, erupting and oozing as Fauré's meticulous structures, like Ulysses's careful scheme to regain his kingdom, bursts into the open and blooms with sensuality.
+In _Pénélope_, whose story comes from the end of Homer's _Odyssey_ and tells of Ulysses's return and reunion with his wife Pénélope, the theme is stitched into the fabric of the score. As the couple grows nearer, it ventures into the foreground, gaining prominence over the two hour work. Finally, the couple is reunited and the theme swells with the full force of orchestral strings, erupting and oozing as Fauré's meticulous structures, like Ulysses's careful scheme to regain his kingdom, bursts into the open and blooms with sensuality.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1575761202/media/2019/12/4181_penelope04_resized_hoo786.jpg){{% /md %}}
 
