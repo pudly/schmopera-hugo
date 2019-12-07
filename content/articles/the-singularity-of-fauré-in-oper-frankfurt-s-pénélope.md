@@ -49,7 +49,7 @@ Projections also have little effect on the story. During the first act, at the b
 
 That night, the suitors catch Pénélope unraveling her woven shroud. Furious, they declare that she must choose a husband the next day. Ulysses, who, disguised as a beggar, has been in the castle the whole time, advises his wife to choose a suitor based on which of them can string his notoriously unyielding bow.
 
-The scene challenges directors. Do you play the competition literally or abstractly \[[https://www.youtube.com/watch?v=jdaTEigWpJ4](https://www.youtube.com/watch?v=jdaTEigWpJ4 "https://www.youtube.com/watch?v=jdaTEigWpJ4")\] Or, do you avoid it entirely?
+The scene challenges directors. Do you play the competition literally or [abstractly](https://www.youtube.com/watch?v=jdaTEigWpJ4)? Or, do you avoid it entirely?
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1575761233/media/2019/12/4187_penelope06_resized_ar91uf.jpg){{% /md %}}
 
