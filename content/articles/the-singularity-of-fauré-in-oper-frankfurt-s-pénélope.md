@@ -45,6 +45,8 @@ Pénélope awaits Ulysses return. It's been 20 years and the queen's suitors hav
 
 The men indiscriminately abuse Pénélope and the women of her kingdom, theatrically throwing them around like amateur wrestlers. Yet their violence succeeds as seduction and they are rewarded with sexual favors. The men are thinly drawn, each portraying a single affect – incredulity, apathy, viciousness and predation. The women are sexualized totems who have little effect on the larger story.
 
+> The opera should be an ideal vehicle for Paula Murrihy, and in a more thoughtful production, it would be.
+
 Projections also have little effect on the story. During the first act, at the back of the set, full color security cam-like footage of the roof shows Pénélope wandering aimlessly as she waits for Ulysses. If you wonder whether waiting is tedious, see for yourself. Later, the screen is unveiled to reveal, dum dum dum, television static. Let's call it technical difficulties and leave it at that.
 
 That night, the suitors catch Pénélope unraveling her woven shroud. Furious, they declare that she must choose a husband the next day. Ulysses, who, disguised as a beggar, has been in the castle the whole time, advises his wife to choose a suitor based on which of them can string his notoriously unyielding bow.
@@ -59,6 +61,8 @@ The scene challenges directors. Do you play the competition literally or [abstra
 The roof splits in half like a city street in a B-movie earthquake, separating the suitors from Pénélope. Magic (presumably) restricts the men's movements. Ulysses, from no man's land, circles the roof and emerges atop it, joining Pénélope, who melts in his embrace. It is declared: Ulysses has strung the bow.
 
 In Homer's Odyssey and likewise in the opera's libretto, after Ulysses strings his bow, he slaughters the suitors mercilessly. To see Ulysses, who has been described as an unassailable hero, commit acts of gratuitous violence questions what it means for society to prize brute strength and warrior ruthlessness over mercy and forbearance. Right at his most heroic, Ulysses's pedestal cracks. However, in this production, the men are ushered off stage without much ado. Ulysses remains a symbolic ideal and bland storytelling triumphs.
+
+> The overture seemed to last but an instant, like an early morning dream, a hallucinatory scrape against bliss before you wake to a less favorable reality.
 
 The opera should be an ideal vehicle for Paula Murrihy, and in a more thoughtful production, it would be. She sings Fauré exceptionally. Her timbre is supple and her zwischen mezzo range suits the role's peculiar register surprisingly well. Considering the role was written for a Wagnerian (and the standard modern recording stars [Jessye Norman](https://open.spotify.com/album/1f2g72EYCrRq1W1Q8Mtm0Z?si=aE0TD2Z_SLicilgWWMNLzQ)) it's remarkable how seldom the orchestra overshadowed Murrihy's tone.
 
