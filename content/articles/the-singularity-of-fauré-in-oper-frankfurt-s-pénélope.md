@@ -1,9 +1,8 @@
 +++
 author = ["authors/jeremy-hirsch.md"]
 categories = "Review"
-date = 2019-12-07T05:00:00Z
+date = 2019-12-08T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Oper Frankfurt's production of [_Pénélope_]() runs through January 23."
 preamble = ""
@@ -20,7 +19,7 @@ youtube_url = ""
 +++
 No composer's music has sounded quite like Gabriel Fauré's. Immersed in sacred Renaissance and Baroque polyphony at a young age, the composer learned that modal harmony allowed for choices out of reach in the prevailing Germanic post-classical paradigm. Pianist and author [Graham Johnson describes](https://books.google.de/books/about/Gabriel_Faur%C3%A9.html?id=9KYHAQAAMAAJ&redir_esc=y) how in the modal system "one has simply to choose how to interpret any given chord and engineer a resolution that conforms with that interpretation" rather than be bound to Wagnerian chromaticism for complexity and variety.
 
-In Fauré's music, one deliberately chosen pitch can shift the harmonic landscape in a subtle but entirely novel way. The clearest example is the raised fourth scale degree in the Lydia *** \[link to Lydia recording\] love theme, which the composer developed and transformed over his entire life and which is the thesis of his second opera, [_Pénélope_](https://oper-frankfurt.de/de/spielplan/penelope/). One pitch distinguishes the theme's lydian mode from a conventional major scale, yet from that single lifting alteration and the myriad harmonizations it engendered, Fauré fashioned a rich dialect to elucidate the sublime hope of love.
+In Fauré's music, one deliberately chosen pitch can shift the harmonic landscape in a subtle but entirely novel way. The clearest example is the raised fourth scale degree in the [Lydia theme](https://open.spotify.com/track/0pFzLkZappdqfN0iHXRL8I?si=7XXNjcTrTlGXOhdfgyzFtQ), which the composer developed and transformed over his entire life and which is the thesis of his second opera, [_Pénélope_](https://oper-frankfurt.de/de/spielplan/penelope/). One pitch distinguishes the theme's lydian mode from a conventional major scale, yet from that single lifting alteration and the myriad harmonizations it engendered, Fauré fashioned a rich dialect to elucidate the sublime hope of love.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1575761184/media/2019/12/4179_penelope19_resized_oannph.jpg){{% /md %}}
 
