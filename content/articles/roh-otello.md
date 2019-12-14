@@ -3,7 +3,6 @@ author = ["authors/alessia-naccarato.md"]
 categories = "Review"
 date = 2019-12-13T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "The Royal Opera House's production of [_Otello_](https://www.roh.org.uk/tickets-and-events/otello-by-keith-warner-details) is onstage through 22 December."
 preamble = ""
@@ -13,8 +12,8 @@ related_articles = ["articles/in-review-stiffelio.md", "articles/talking-with-si
 related_companies = ["scene/companies/royal-opera-house.md"]
 related_people = ["scene/people/ermonela-jaho.md", "scene/people/gregory-kunde.md"]
 short_description = "Though Otello may be the title character and tragic hero of the story, in truth it is Iago who is the most alluring character on stage. For four hundred odd years, Shakespeare’s infamous villain has captured the imaginations of audiences everywhere. Spanish baritone Carlos Alvarez played him with chilling ease."
-slug = "roh-otello"
-title = "ROH Otello"
+slug = "a-chilling-iago-a-devoted-otello-at-covent-garden"
+title = "A chilling Iago & a devoted Otello at Covent Garden"
 youtube_url = ""
 
 +++
