@@ -2,9 +2,9 @@
 date = "2017-09-15T22:25:00-04:00"
 discipline = "Tenor"
 lastmod = "2017-09-15T22:25:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505528591658/12c477_6a6c35686cf845ada8d051bf87b52e40.jpg_srz_1440_960_85_22_0.50_1.20_0.00_jpg_srz"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1576763863/media/2019/12/RoyHage_tsohrk.jpg"
 publishDate = "2017-09-15T22:25:00-04:00"
-related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/curtis-institute-of-music.md"]
+related_companies = ["scene/companies/opera-theatre-of-st-louis.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/opera-philadelphia.md", "scene/companies/curtis-institute-of-music.md"]
 slug = "roy-hage"
 title = "Roy Hage"
 website = "http://www.royhage.com/"
@@ -12,18 +12,26 @@ website = "http://www.royhage.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/royhage"
-+++
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/mr.hage/"
 
-Lebanese-American tenor Roy Hage is a two-time Grammy nominated artist who has performed over forty roles including the Duke (*Rigoletto*), Nemorino (*L’elisir d’amore*), Tamino (*The Magic Flute*), Le Chevalier des Grieux (*Manon*), Ruggero (*La Rondine*), Judge Danforth (*The Crucible*), Jeník (*The Bartered Bride*), Ein Italienischer Sänger (*Capriccio*), Chevalier de la Force (*Dialogues des Carmélites*), and the title characters in *The Tales of Hoffmann*, *The Rake's Progress*, *Candide*, *La Clemenza di Tito*, and *Pelléas and Melisande*.
- 
-Conductors with which Roy has worked include Maestros Yannick Nezet-Seguin, Caren Levine, Sir Richard Bonynge, Vladimir Ashkenazy, David Robertson, Jane Glover, Christopher Macatsoris, James Gaffigan, Jacques Lacomb, Rossen Milanov, and Stephen Lord with ensembles such as the Philadelphia, Santa Fe and Cleveland Orchestras, the Saint Louis and New Jersey Symphonies, the Chamber Orchestra of Philadelphia, Symphony in C, and CityMusic Cleveland.
- 
-Praised for his musicality and interpretive sensitivity, Roy has performed in recital with pianist and mentor Mikael Eliasen, chamber ensembles including the Curtis 20/21 and Credo, and pianists Luke Housner, José Melendez, J.J. Penna, Susan Nowicki, and Richard Raub.
- 
-An advocate of the commissioning and promoting of new music, Roy has performed in premieres of a number of works including Stephen Stucky's "The Stars and the Roses" for tenor and chamber ensemble, the roles of Horus / The Beloved in David Hertzberg's *The Rose Elf*, the world premieres of Jonathan Bailey Holland's *Must All Then Amount to But This* and Kurt Rohde's *Three Minutes with Ned* for tenor and piano on the occasion of luminary composer Ned Rorem's 90th birthday, Tony Solitro's cycle *More Beautiful Than Night*, Peter Ash's opera *The Golden Ticket*, Jennifer Higdon's opera *Cold Mountain*, and the the East Coast Premiers of Theodore Morrison’s *Oscar* and, also, *Cold Mountain*.
- 
-Roy's two 2017 Grammy nominations are for his appearances as a solo artist in the Pentatone Recording of the Santa Fe World Premier of *Cold Mountain* where created the roles of Reid and Home Guard. Roy also brought the role of Reverend Veasey to life in the 2012 and 2013 workshops of the opera at Curtis Institute of Music for Opera Philadelphia and Santa Fe Opera.
- 
-Roy has been an Emerging Artist with Opera Philadelphia, an Apprentice Singer with the Santa Fe Opera, a Young Artist at the Chautauqua Music Festival, and a Gerdine Young Artist at Opera Theatre of Saint Louis.
- 
-Roy will be a second-year resident artist at Philadelphia's Academy of Vocal Arts (AVA) where he is a student of the noted voice teacher Bill Schuman. Prior to joining the roster at AVA, Roy completed his training at Interlochen Arts Academy, Oberlin Conservatory, Yale University, and Curtis Institute of Music - from where he holds the degree of Master of Music.
++++
+Lebanese-American Tenor Roy Hage has performed over forty operatic roles including the Duke (_Rigoletto_), Nemorino (_L’elisir d’amore_), Alfredo (_La Traviata_), Tamino (_The Magic Flute_), Des Grieux (_Manon_), Ruggero (_La Rondine_), Judge Danforth (_The Crucible_), Jeník (_The Bartered Bride_), The Italian Singer (_Capriccio_), Chevalier de la Force (_Dialogues des Carmélites_), and the title roles in _The Tales of Hoffmann_, _Roméo et Juliette_, _The Rake's Progress_, _Candide_, _La Clemenza di Tito_, _Pelléas and Melisande_. His performances have been broadcast on US and Lebanese television and radio, and he is featured on the multi-GRAMMY® nominated recording of Jennifer Higdon’s opera _Cold Mountain_.
+
+Roy has performed with premier ensembles including the Philadelphia Orchestra, the Cleveland Orchestra, the Saint Louis Symphony, Columbus Symphony Orchestra, New Jersey Symphony Orchestra, Chamber Orchestra of Philadelphia, Symphony in C, and CityMusic Cleveland. He has worked with conductors of historic importance including Maestros Yannick Nezet-Seguin, Corrado Rovaris, Sir Richard Bonynge, Caren Levine, Vladimir Ashkenazy, George Manahan, Rossen Milanov, Xian Zhang, Stephen Lord, James Gaffigan, David Robertson, Michael Christie, and Christofer Macatsoris. 
+
+Roy has also performed with top opera companies and music festivals including Opera Philadelphia, Santa Fe Opera, Opera Theatre of Saint Louis, Maryland Lyric Opera, the Aspen Music Festival, Chautauqua Music Festival, and Miami Music Festival, Yale Opera, Curtis Opera Theater, Oberlin Opera Theater, and Academy of Vocal Arts. 
+
+Roy’s art consistently pushes expectations and boundaries of tradition and he enjoys finding new ways to explore and expand his artistic reach. He has been involved in a number of experimental and immersive adaptations of operatic and classical works including performing _La Traviata_ at New York City’s famous cabaret, The Box, alongside celebrated Metropolitan Opera soprano Inna Dukach and star baritone, Paul La Rosa; performing a solo recital with Maestro Francesco Milioto as a part of an exhibition by Ann Hamilton titled: _the common SENSE · the animals_; creating the role of Paul in Georgia Shreve’s Rock Opera _Love Sick_ which premiered at Brooklyn’s National Sawdust in Fall of 2018, and most recently performing alongside Broadway veterans in Georgia Shreve’s latest musical-play, _Dialogues of Travelers_, also at National Sawdust.
+
+Roy has performed a number of premieres including Pulitzer Prize winner Steven Stucky's _The Stars and the Roses_ for tenor and chamber ensemble, the roles of Horus / The Beloved in David Hertzberg's _The Rose Elf_ during Opera Philadelphia’s 2016 Double Exposure performance, the world premieres of Tony Solitro's _More Beautiful Than Night_, Kurt Rohde's _Three Minutes with Ned_ for tenor and piano, Jonathan Bailey Holland's _Must All Then Amount to But This_, Peter Ash's opera _The Golden Ticket_, Jennifer Higdon's opera _Cold Mountain_, and the the East Coast Premiers of Theodore Morrison’s _Oscar_ and, also, _Cold Mountain_.
+
+Roy appears as Reid (Georgia Boy) and Home Guard Scout on the Pentatone Recording of the Santa Fe World Premier of Jennifer Higdon’s _Cold Mountain_. The recording was nominated for two GRAMMYs® in the 59th annual Grammy Awards (2017).
+
+Roy has appeared on national and international television, and most recently was interviewed and performed “Nessun Dorma” on the morning edition of Lebanese MTV promoting his Lebanese debut with prominent Lebanese pianist and composer Guy Manoukian at a sold out benefit concert at the American University of Beirut. In the United States, some of his performances have been seen on PBS’s “Onstage at Curtis” and his performances with the Philadelphia Orchestra, Symphony in C, and Academy of Vocal Arts have been featured on National Public Radio.
+
+Roy completed his operatic training at some of the top conservatories for each of his respective degrees—he attended Interlochen Arts Academy (High School Diploma), Oberlin Conservatory (Bachelor of Music), Yale University, Curtis Institute of Music (Master of Music), and Academy of Vocal Arts (Artist Diploma).
+
+A citizen of both Lebanon and the United States, Roy spends his time between Boston and New York and hopes to be able to spend more time in Beirut working as an advocate for the arts, particularly in the commissioning and exploration of art that infuses operatic tradition with the local experience. Alongside singing, Roy plans on dedicating more of his time to helping others (particularly youth) with weight and body image struggles—having lost close to 180 pounds by means of the Keto diet, one of Roy’s passions has become fitness and self-care.
