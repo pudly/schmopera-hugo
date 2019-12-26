@@ -7,26 +7,26 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1577394233/media/2019/12/Roundup2019-2_j5ojja.jpg"
 primary_image_credit = ""
-related_articles = []
+related_articles = ["articles/roundup-2015.md", "articles/roundup2016-greg-jennas-top-10.md", "articles/greg-jennas-roundup2017.md", "articles/2018-in-review-a-confession.md"]
 related_companies = []
-related_people = []
+related_people = ["scene/people/teiya-kasahara.md"]
 short_description = "This year has certainly been different, though - and maybe you’ve noticed the change in tone since I’ve gone from Schmopera’s primary voice, to its behind-the-scenes editor and sometimes-guest author."
 slug = "roundup-2019"
 title = "Roundup 2019"
 youtube_url = ""
 
 +++
-So, I set out to write a roundup-type post for 2019, where I list my favourite shows or singers or whatevers of the last 12 months. I know it’s a bit predictable and maybe even pandering, but I like doing that kind of thing. At the end of a year, especially at the end of a decade, it’s nice to take stock even of something as unnecessary as a year’s worth of opera-going.
+So, I set out to write a roundup-type post for 2019, where I list my favourite shows or singers or whatevers of the last 12 months. I know it's a bit predictable and maybe even pandering, but I like doing that kind of thing. At the end of a year, especially at the end of a decade, it's nice to take stock even of something as unnecessary as a year's worth of opera-going.
 
-But if I’m entirely honest, I can’t actually offer a fair roundup for this particular year. For a few reasons that I’ll get into shortly, Schmopera has been ticking along as a hub of opera-loving content - often without me. I think that’s essentially a good thing; we are now a far-reaching team of writers, who contribute reviews, interviews, op-eds, even record recommendations, and the content they produce has great reach with you, our readers.
+But if I'm entirely honest, I can't actually offer a fair roundup for this particular year. For a few reasons that I'll get into shortly, Schmopera has been ticking along as a hub of opera-loving content - often without me. I think that's essentially a good thing; we are now a far-reaching team of writers, who contribute reviews, [interviews](/talking-with-singers-nina-stemme/), [op-eds](/the-business-of-passion/), even [record recommendations](https://www.schmopera.com/4-singers-you-might-not-know-but-should/), and the content they produce has great reach with you, our readers.
 
-This has been a cool twist for Schmopera in 2019; admittedly, I’m proud of its new independence, but I have little pangs of guilt akin to how a parent feels dropping their kid off a daycare. She’ll be fine on her own, she’s got people taking care of her… But what if she needs me??
+This has been a cool twist for Schmopera in 2019; admittedly, I'm proud of its new independence, but I have little pangs of guilt akin to how a parent feels dropping their kid off a daycare. She’ll be fine on her own, she's got people taking care of her… But what if she needs me??
 
-I guess I’m feeling extra reflective right now, because I’m sat in a chalet near the ski village of Mont-Tremblant, QC, where the amazing Andrej and I started Schmopera six years ago. That ski trip has been a near-annual tradition for us, and this year is the first with our son; Schmopera has a bit of a personal side for me, too, since it’s been an ongoing, engrossing project that Andrej and I work on together.
+I guess I'm feeling extra reflective right now, because I'm sat in a chalet near the ski village of Mont-Tremblant, QC, where the amazing Andrej and I started Schmopera six years ago. That ski trip has been a near-annual tradition for us, and this year is the first with our son; Schmopera has a bit of a personal side for me, too, since it's been an ongoing, engrossing project that Andrej and I work on together.
 
-This year has certainly been different, though - and maybe you’ve noticed the change in tone since I’ve gone from Schmopera’s primary voice, to its behind-the-scenes editor and sometimes-guest author. There’s been one major exception, of course, and that’s the series I headed called #TheStories; of course, these weren’t pieces written by me, rather first-person accounts of abuse, sexual harassment, and sexual assault in the opera and classical music industries. I published 15 stories and received many more. Though I wouldn’t necessarily call the series a highlight - the word feels a bit gross in this context - #TheStories had a social effect, which is something I’m proud of this year.
+This year has certainly been different, though - and maybe you've noticed the change in tone since I've gone from being Schmopera's primary voice, to its behind-the-scenes editor and sometimes-guest author. There's been one major exception, of course, and that's the series I headed called [#TheStories](/thestories-are-coming-out-and-heres-why/); of course, these weren't pieces written by me, rather first-person accounts of abuse, sexual harassment, and sexual assault in the opera and classical music industries. I published 15 stories and received many more. Though I wouldn’t necessarily call the series a highlight - the word feels a bit gross in this context - #TheStories had a social effect, which is something I’m proud of this year.
 
 I’ve been flitting around lately. I’m writing fairly regularly for The Globe and Mail, and I just started as Social Media Manager at Opera Canada. I’m happy about it, and the healthy workload is a far cry from this time last year, when I was in the thick of baby-land and feared I’d never have time to think, let alone write about opera, again.
 
