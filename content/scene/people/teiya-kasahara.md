@@ -2,7 +2,8 @@
 date = "2015-04-15T22:51:00-04:00"
 discipline = "Soprano"
 lastmod = "2015-04-15T22:51:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429152054534/Teiya%2520Kasahara%2520HIGH%2520REZ%2520PHOTO.jpg.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1577394937/media/2019/12/TeiyaKasahara-pc-MIchaelBarker_ysqajc.jpg"
+primary_image_credit = "Michael Barker"
 publishDate = "2015-04-15T22:51:00-04:00"
 related_companies = ["scene/companies/canadian-opera-company.md", "scene/companies/canadian-opera-company-ensemble-studio.md", "scene/companies/tapestry-opera.md", "scene/companies/opera-5.md", "scene/companies/against-the-grain-theatre.md"]
 slug = "teiya-kasahara"
@@ -16,6 +17,10 @@ url = "https://www.facebook.com/teiyakasahara?fref=ts"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/teiyakasahara"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/teiyakasahara/"
 
 +++
 Teiya Kasahara 笠原貞野 (they/them) is a multidisciplinary queer, gender non-conforming performer/creator, and first-generation Nikkei-Canadian of Japanese and German roots. They come from a background of over 12 years of singing operatic roles across North America and Europe and have recently begun a career in theatre creation and acting. Equally comfortable on the operatic, concert hall or cabaret stage, you can find them singing and making music with or without a microphone, sometimes even with a taiko drum or looping machine.
