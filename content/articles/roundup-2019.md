@@ -1,0 +1,59 @@
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = 2019-12-26T05:00:00Z
+disclaimer = ""
+draft = true
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = ""
+primary_image_credit = ""
+related_articles = []
+related_companies = []
+related_people = []
+short_description = "This year has certainly been different, though - and maybe you’ve noticed the change in tone since I’ve gone from Schmopera’s primary voice, to its behind-the-scenes editor and sometimes-guest author."
+slug = "roundup-2019"
+title = "Roundup 2019"
+youtube_url = ""
+
++++
+So, I set out to write a roundup-type post for 2019, where I list my favourite shows or singers or whatevers of the last 12 months. I know it’s a bit predictable and maybe even pandering, but I like doing that kind of thing. At the end of a year, especially at the end of a decade, it’s nice to take stock even of something as unnecessary as a year’s worth of opera-going.
+
+But if I’m entirely honest, I can’t actually offer a fair roundup for this particular year. For a few reasons that I’ll get into shortly, Schmopera has been ticking along as a hub of opera-loving content - often without me. I think that’s essentially a good thing; we are now a far-reaching team of writers, who contribute reviews, interviews, op-eds, even record recommendations, and the content they produce has great reach with you, our readers.
+
+This has been a cool twist for Schmopera in 2019; admittedly, I’m proud of its new independence, but I have little pangs of guilt akin to how a parent feels dropping their kid off a daycare. She’ll be fine on her own, she’s got people taking care of her… But what if she needs me??
+
+I guess I’m feeling extra reflective right now, because I’m sat in a chalet near the ski village of Mont-Tremblant, QC, where the amazing Andrej and I started Schmopera six years ago. That ski trip has been a near-annual tradition for us, and this year is the first with our son; Schmopera has a bit of a personal side for me, too, since it’s been an ongoing, engrossing project that Andrej and I work on together.
+
+This year has certainly been different, though - and maybe you’ve noticed the change in tone since I’ve gone from Schmopera’s primary voice, to its behind-the-scenes editor and sometimes-guest author. There’s been one major exception, of course, and that’s the series I headed called #TheStories; of course, these weren’t pieces written by me, rather first-person accounts of abuse, sexual harassment, and sexual assault in the opera and classical music industries. I published 15 stories and received many more. Though I wouldn’t necessarily call the series a highlight - the word feels a bit gross in this context - #TheStories had a social effect, which is something I’m proud of this year.
+
+I’ve been flitting around lately. I’m writing fairly regularly for The Globe and Mail, and I just started as Social Media Manager at Opera Canada. I’m happy about it, and the healthy workload is a far cry from this time last year, when I was in the thick of baby-land and feared I’d never have time to think, let alone write about opera, again.
+
+It all means that Schmopera is going to be something quite different, going into the new decade. It won’t go anywhere, don’t fret; we’ll still have great content, and a lot of it by authors other than me. If you’re into tracking me on my little opera-writer path, I’d head over to The Globe and Mail, and follow Opera Canada’s social media channels. And if you want to be a total stalker about it, here’s my Instagram.
+
+I guess that’s it. Be it the new decade, a seven-year-itch of sorts for Schmopera, or just the ebbs and flows of life, I’m out to do some new things, readers. Instead of a roundup at the end of the year, I’m offer instead a bit of candor.
+
+… But I guess if I had to pick some sort of Top 5 of 2019:
+
+Singers getting vocal...about social issues:
+
+Tamara Wilson balked at blackface, Kathryn Lewek got real about body-shaming, and Zachary James spoke out about his assault and the bloated power dynamics in the opera world. It’s not necessarily great that all of this happens, and will likely continue to happen for a little longer; but it’s great that these artists were among those who used their platforms to tell the industry how it can be much, much better.
+
+The Irish Art Song Project
+
+It’s not strictly opera, but you’d be hard pressed to find a singer who couldn’t use a resource like this one. Dáirine Ní Mheadhra and John Hess are the folks behind Queen of Puddings Music Theatre, and a power-couple of the Canadian music scene if there ever was one; while on one of their frequent visits to Dublin, they noticed a serious dearth of contemporary art songs written in the Irish (Gaelic) language. In response, they commissioned 50 new songs by international composers, all set to Irish texts; they’ve published the scores, translations, and full pronunciation guides online, for free. Bam, Irish Art Song Project. Problem you didn’t know existed, solved.
+
+Interviewing Jessye Norman
+
+I spoke with Ms. Norman in February of this year, when she was in Toronto to accept the Glenn Gould Prize; I caught her between masterclasses at the University of Toronto, and sat face-to-face with the legendary soprano in a roomy studio overlooking Philosopher’s Walk. She has that thing that’s really rare, that larger-than-life presence that seems to make someone physically larger than normal. She spoke with that gentle hum, almost casual as she talked about singing for world leaders and being in Berlin as the Wall fell. She was amazing and intimidating, and so interesting to interview that I left with more questions than I came in with. Definitely a highlight.
+
+The Queen in Me
+
+That’s the name of the one-person show by Toronto-based soprano Teiya Kasahara, workshopped this fall at the Ernest Balmer Studio in the Distillery District. The Queen in Me is a fusion of opera, satire, and almost vaudeville elements; its story is about “fallen women”, people who are misunderstood and dismissed by the opera industry. It’s gorgeously written, and Kasahara does some serious singing of everything from Manon to Lady Macbeth to the Queen of the Night. Crazy impressive. I can’t wait for its official premiere in 2020 - details are still TBA, but I’d follow Teiya and stay in the loop.
+
+Belle Darling Klondike Queen
+
+This bit of historically-inspired vaudeville by playwright Natalie Frijia, premiered at Alumnae Theatre’s FireWorks Festival this year, Belle Darling Klondike Queen is essentially another one-person show that, out of the blue, really stuck with me. I wouldn’t really deem it opera, but it had the stuff of a great operatic experience; set in the Klondike Gold Rush of the late 19th century, soprano, actress, and cabaret-pro Lindsay Sutherland Boal stars as the real-life vaudeville star Kate Rockwell, aka “Klondike Kate”. It’s an amazing, revue-style account of Kate’s lust for adventure, her hustle in the sudden business boom in the Yukon, and the tragic vulnerability of a still-energized woman desperately recounting what she obviously sees as her best days. I still think about Kate, believe it or not. In case you’re curious, here’s her Wiki.
+
+There. That’s as close as I can get to picking favourites of the year. Thanks for reading - not just this specific meandering post, but all of it. I’m so proud that, going into yet another a new decade, it’s crystal clear that there are fierce opera-lovers scattered over the world.
