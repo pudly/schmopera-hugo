@@ -21,6 +21,8 @@ So, I set out to write a roundup-type post for 2019, where I list my favourite s
 
 But if I'm entirely honest, I can't actually offer a fair roundup for this particular year. For a few reasons that I'll get into shortly, Schmopera has been ticking along as a hub of opera-loving content - often without me. I think that's essentially a good thing; we are now a far-reaching team of writers, who contribute reviews, [interviews](/talking-with-singers-nina-stemme/), [op-eds](/the-business-of-passion/), even [record recommendations](https://www.schmopera.com/4-singers-you-might-not-know-but-should/), and the content they produce has great reach with you, our readers.
 
+> I've been flitting around lately.
+
 This has been a cool twist for Schmopera in 2019; admittedly, I'm proud of its new independence, but I have little pangs of guilt akin to how a parent feels dropping their kid off a daycare. _She'll be fine on her own, she's got people taking care of her… But what if she needs me??_
 
 I guess I'm feeling extra reflective right now, because I'm sat in a chalet near the ski village of Mont-Tremblant, QC, where the amazing Andrej and I started Schmopera six years ago. That ski trip has been a near-annual tradition for us, and this year is the first with our son; Schmopera has a bit of a personal side for me, too, since it's been an ongoing, engrossing project that Andrej and I work on together.
@@ -75,7 +77,7 @@ That's the name of the one-person show by Toronto-based soprano [Teiya Kasahara]
 
 ## _Belle Darling Klondike Queen_
 
-This bit of historically-inspired vaudeville by playwright Natalie Frijia, premiered at Alumnae Theatre's FireWorks Festival this year, [_Belle Darling Klondike Queen_](/a-fab-kick-off-to-the-fireworks-festival-belle-darling-klondike-queen/) is essentially another one-person show that, out of the blue, really stuck with me. I wouldn't really deem it opera, but it had the stuff of a great operatic experience; set in the Klondike Gold Rush of the late 19th century, soprano, actress, and cabaret-pro Lindsay Sutherland Boal stars as the real-life vaudeville star Kate Rockwell, aka "Klondike Kate". 
+This bit of historically-inspired vaudeville by playwright Natalie Frijia, premiered at Alumnae Theatre's FireWorks Festival this year, [_Belle Darling Klondike Queen_](/a-fab-kick-off-to-the-fireworks-festival-belle-darling-klondike-queen/) is essentially another one-person show that, out of the blue, really stuck with me. I wouldn't really deem it opera, but it had the stuff of a great operatic experience; set in the Klondike Gold Rush of the late 19th century, soprano, actress, and cabaret-pro Lindsay Sutherland Boal stars as the real-life vaudeville star Kate Rockwell, aka "Klondike Kate".
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573411741/media/2019/11/LSB_D859221_dj75ux.jpg){{% /md %}}
 
