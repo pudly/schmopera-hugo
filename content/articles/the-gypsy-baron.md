@@ -3,18 +3,17 @@ author = ["authors/greg.md"]
 categories = "Review"
 date = 2020-01-04T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1578173813/media/2020/01/sqMeghanLindsayasSaffiBesteKalwenderasCzipraandMichaelBarrettasBarinkay_de4o8p.jpg"
 primary_image_credit = "Meghan Lindsay as Saffi, Beste Kalender as Czipra and Michael Barrett as Barinkay in The Gypsy Baron, Toronto Operetta Theatre, 2020. Photo: Gary Beechey."
-related_articles = []
-related_companies = []
-related_people = []
+related_articles = ["articles/an-isolated-tenor-in-an-operatic-masterwork-les-contes-dhoffmann.md", "articles/reliably-bubbly-belle-hélène-a-delight.md", "articles/3-ways-to-fight-boredom-at-the-opera.md"]
+related_companies = ["scene/companies/toronto-operetta-theatre.md"]
+related_people = ["scene/people/michael-barrett.md", "scene/people/beste-kalender.md", "scene/people/meghan-lindsay.md"]
 short_description = "This year it's Johann Strauss II's The Gypsy Baron (Ziegeunerbaron). Directed by Silva-Marin with Music Direction by Peter Tiefenbach, The Gypsy Baron tells a classic operetta-style tale of a prodigal son, mistaken and hidden identities, prophecies, treasure - and of course, wine."
-slug = "the-gypsy-baron"
-title = "The Gypsy Baron"
+slug = "the-gypsy-baron-great-singing-leads-tots-holiday-offering"
+title = "The Gypsy Baron: great singing leads TOT's holiday offering"
 youtube_url = ""
 
 +++
@@ -70,4 +69,4 @@ The 12-piece orchestra and chorus led by Derek Bate were distinctly Viennese and
 
 </figure>
 
-The Gypsy Baron closes on Sunday, January 5th, but TOT will be back with Gilbert & Sullivan's _HMS Pinafore_ (which may or may not feature yours truly) and the world premiere of _Northern Light's Dream_ by Michael Rose.
+_The Gypsy Baron_ closes on Sunday, January 5th, but TOT will be back with Gilbert & Sullivan's _HMS Pinafore_ (which may or may not feature yours truly) and the world premiere of _Northern Light's Dream_ by Michael Rose.
