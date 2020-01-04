@@ -22,6 +22,8 @@ The operetta has been around for quite a while, and is responsible for the shapi
 
 Including standards of the "classical" canon like _Die Fledermaus_, _Orphée aux Enfers_, and _The Merry Widow_, operetta occupies a key corner of the performing arts spectrum. Introducing elements like dancing (performed by the singing characters and not a separate "corps de ballet") and spoken dialogue to the recit-aria-recit-ensemble-recit-finale formula, without operetta we would never have found our way through vaudeville to early musical theatre, which has brought us all the way to things like _Rent_, _The Lion King_, and even _Come From Away_ and _Hamilton_.
 
+> The 12-piece orchestra and chorus led by Derek Bate were distinctly Viennese and crisp and clear.
+
 Toronto is lucky to be home to a company that devotes itself to the art form the way [Toronto Operetta Theatre](/scene/companies/toronto-operetta-theatre/) (TOT) does. Theirs is a guaranteed ticket to find quality productions that, if on a limited budget, span all across the genre. From Gilbert & Sullivan Masterpieces, to gripping, soaring melodies of Spanish [Zarzuelas](/what-the-eff-is-a-zarzuela-anyway/), the staple of TOT's season is always their holiday production.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1578173972/media/2020/01/TOTCompany_zaulld.jpg){{% /md %}}
@@ -32,9 +34,11 @@ Toronto is lucky to be home to a company that devotes itself to the art form the
 
 Based on the Austrian and Hungarian traditions of going to the operetta on New Year's Day, TOT's General Director Guillermo Silva-Marin annually offers a classic of the repertoire with top-notch singers and instrumentalists at the St. Lawrence Centre for the Arts's Jane Mallett Theatre.
 
+> Kalender's dark mezzo was firing on full cylinders, as were her hammy performance chops.
+
 This year it's Johann Strauss II's _The Gypsy Baron_ (_Ziegeunerbaron_). Directed by Silva-Marin with Music Direction by Peter Tiefenbach, _The Gypsy Baron_ tells a classic operetta-style tale of a prodigal son, mistaken and hidden identities, prophecies, treasure - and of course, wine.
 
-Playing the eponymous role, tenor [Michael Barrett](/scene/people/michael-barrett/) strides the stage as Sándor Barinkay, who returns home to his late father's land to find it usurped by a wealthy pig farmer. Despite an announcement at the beginning of the show, Barrett sounded in no way "under the weather" and sang the rangey role very well. Playing the destined love of Sandor's life, [Meghan Lindsay](/scene/people/meghan-lindsay/) makes her TOT debut in the role of Saffi. Her rich mature soprano filled the hall with ease and vigour.
+Playing the eponymous role, tenor [Michael Barrett](/scene/people/michael-barrett/) strides the stage as Sándor Barinkay, who returns home to his late father's land to find it usurped by a wealthy pig farmer. Despite an announcement at the beginning of the show, Barrett sounded in no way "under the weather" and sang the rangey role very well. Playing the destined love of Sandor's life, [Meghan Lindsay](/scene/people/meghan-lindsay/) makes her TOT debut in the role of Saffi. Her rich, mature soprano filled the hall with ease and vigour.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1578173988/media/2020/01/BesteKalenderasCzipraandMeghanLindsayasSaffi_fxmvqo.jpg){{% /md %}}
 
