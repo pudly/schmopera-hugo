@@ -11,7 +11,7 @@ primary_image_credit = "Meghan Lindsay as Saffi, Beste Kalender as Czipra and Mi
 related_articles = ["articles/an-isolated-tenor-in-an-operatic-masterwork-les-contes-dhoffmann.md", "articles/reliably-bubbly-belle-hélène-a-delight.md", "articles/3-ways-to-fight-boredom-at-the-opera.md"]
 related_companies = ["scene/companies/toronto-operetta-theatre.md"]
 related_people = ["scene/people/michael-barrett.md", "scene/people/beste-kalender.md", "scene/people/meghan-lindsay.md"]
-short_description = "This year it's Johann Strauss II's The Gypsy Baron (Ziegeunerbaron). Directed by Silva-Marin with Music Direction by Peter Tiefenbach, The Gypsy Baron tells a classic operetta-style tale of a prodigal son, mistaken and hidden identities, prophecies, treasure, and of course, wine."
+short_description = "This year it's Johann Strauss II's The Gypsy Baron (Ziegeunerbaron). Directed by Silva-Marin with Music Direction by Derek Bate, The Gypsy Baron tells a classic operetta-style tale of a prodigal son, mistaken and hidden identities, prophecies, treasure, and of course, wine."
 slug = "the-gypsy-baron-great-singing-leads-tots-holiday-offering"
 title = "The Gypsy Baron: great singing leads TOT's holiday offering"
 youtube_url = ""
@@ -35,7 +35,7 @@ Based on the Austrian and Hungarian traditions of going to the operetta on New Y
 
 > Kalender's dark mezzo was firing on full cylinders, as were her hammy performance chops.
 
-This year it's Johann Strauss II's _The Gypsy Baron_ (_Ziegeunerbaron_). Directed by Silva-Marin with Music Direction by Peter Tiefenbach, _The Gypsy Baron_ tells a classic operetta-style tale of a prodigal son, mistaken and hidden identities, prophecies, treasure, and of course, wine.
+This year it's Johann Strauss II's _The Gypsy Baron_ (_Ziegeunerbaron_). Directed by Silva-Marin with Music Direction by Derek Bate, _The Gypsy Baron_ tells a classic operetta-style tale of a prodigal son, mistaken and hidden identities, prophecies, treasure, and of course, wine.
 
 Playing the eponymous role, tenor [Michael Barrett](/scene/people/michael-barrett/) strides the stage as Sándor Barinkay, who returns home to his late father's land to find it usurped by a wealthy pig farmer. Despite an announcement at the beginning of the show, Barrett sounded in no way "under the weather" and sang the rangey role very well. Playing the destined love of Sandor's life, [Meghan Lindsay](/scene/people/meghan-lindsay/) makes her TOT debut in the role of Saffi. Her rich, mature soprano filled the hall with ease and vigour.
 
