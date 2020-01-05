@@ -11,13 +11,13 @@ primary_image_credit = "Meghan Lindsay as Saffi, Beste Kalender as Czipra and Mi
 related_articles = ["articles/an-isolated-tenor-in-an-operatic-masterwork-les-contes-dhoffmann.md", "articles/reliably-bubbly-belle-hélène-a-delight.md", "articles/3-ways-to-fight-boredom-at-the-opera.md"]
 related_companies = ["scene/companies/toronto-operetta-theatre.md"]
 related_people = ["scene/people/michael-barrett.md", "scene/people/beste-kalender.md", "scene/people/meghan-lindsay.md"]
-short_description = "This year it's Johann Strauss II's The Gypsy Baron (Ziegeunerbaron). Directed by Silva-Marin with Music Direction by Peter Tiefenbach, The Gypsy Baron tells a classic operetta-style tale of a prodigal son, mistaken and hidden identities, prophecies, treasure - and of course, wine."
+short_description = "This year it's Johann Strauss II's The Gypsy Baron (Ziegeunerbaron). Directed by Silva-Marin with Music Direction by Peter Tiefenbach, The Gypsy Baron tells a classic operetta-style tale of a prodigal son, mistaken and hidden identities, prophecies, treasure, and of course, wine."
 slug = "the-gypsy-baron-great-singing-leads-tots-holiday-offering"
 title = "The Gypsy Baron: great singing leads TOT's holiday offering"
 youtube_url = ""
 
 +++
-The operetta has been around for quite a while, and is responsible for the shaping a lot of our musical entertainment as we know it. A short branch away from opera on the musical family tree, operetta requires the same high-level, learned singing as your standard opera repertoire, but places other demands few operas require.
+The operetta has been around for quite a while, and is responsible for the shaping a lot of our musical entertainment as we know it. A short branch away from opera on the musical family tree, operetta requires the same high-level, learned singing as your standard opera repertoire, but places additional demands few operas require.
 
 Including standards of the "classical" canon like _Die Fledermaus_, _Orphée aux Enfers_, and _The Merry Widow_, operetta occupies a key corner of the performing arts spectrum. Introducing elements like dancing (performed by the singing characters and not a separate "corps de ballet") and spoken dialogue to the recit-aria-recit-ensemble-recit-finale formula, without operetta we would never have found our way through vaudeville to early musical theatre, which has brought us all the way to things like _Rent_, _The Lion King_, and even _Come From Away_ and _Hamilton_.
 
@@ -35,7 +35,7 @@ Based on the Austrian and Hungarian traditions of going to the operetta on New Y
 
 > Kalender's dark mezzo was firing on full cylinders, as were her hammy performance chops.
 
-This year it's Johann Strauss II's _The Gypsy Baron_ (_Ziegeunerbaron_). Directed by Silva-Marin with Music Direction by Peter Tiefenbach, _The Gypsy Baron_ tells a classic operetta-style tale of a prodigal son, mistaken and hidden identities, prophecies, treasure - and of course, wine.
+This year it's Johann Strauss II's _The Gypsy Baron_ (_Ziegeunerbaron_). Directed by Silva-Marin with Music Direction by Peter Tiefenbach, _The Gypsy Baron_ tells a classic operetta-style tale of a prodigal son, mistaken and hidden identities, prophecies, treasure, and of course, wine.
 
 Playing the eponymous role, tenor [Michael Barrett](/scene/people/michael-barrett/) strides the stage as Sándor Barinkay, who returns home to his late father's land to find it usurped by a wealthy pig farmer. Despite an announcement at the beginning of the show, Barrett sounded in no way "under the weather" and sang the rangey role very well. Playing the destined love of Sandor's life, [Meghan Lindsay](/scene/people/meghan-lindsay/) makes her TOT debut in the role of Saffi. Her rich, mature soprano filled the hall with ease and vigour.
 
@@ -61,7 +61,7 @@ In another TOT debut, Karen Bojti is hilarious as Arsena's governess; she sings 
 
 As the Count, tenor Cian Horrobin is a breath of fresh air who shows up at just the right time to invigorate the production.
 
-The 12-piece orchestra and chorus led by Derek Bate were distinctly Viennese and crisp and clear, and brought he house down with the large ensemble numbers.
+The 12-piece orchestra and chorus led by Derek Bate were distinctly Viennese and crisp and clear, and brought the house down with the large ensemble numbers.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1578174051/media/2020/01/MichaelBarrettasSandorBarinkay_soeotu.jpg){{% /md %}}
 
