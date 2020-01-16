@@ -29,6 +29,8 @@ Inhabiting a rare and brilliantly curated balance of opera, theatre, history, wo
 
 A cast of four singers and three dancers, clad in white, were joined by a trio of drummers and a pianist dressed in colorful prints. Together, and with the guidance of Yoruban Cultural Advisor Olóyè Àìkúlọlá, these artists were listed in the program as griots, referring to the class of historians, poets, storytellers, praise singers, and musicians who maintain the oral history traditions of West Africa.
 
+> Contralto Miriam King was an audience favourite, leading some of the show’s most moving moments, including a showstopping “Fix Me Jesus.”
+
 The program was divided into distinct sections, each named after an òrìṣà from the pantheon of spirits recognized by the Yoruba religion. In the section named after Èṣù, the messenger spirit representing crossroads and chaos, the spiritual “Round About the Mountain” took a dark and urgent tone. In the section named after Yemọja, the spirit of creation, motherhood, rivers and lakes, an exuberant rendition of “Come Down Angels” had the audience dancing in their seats.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579141305/media/2020/01/HuedSongsE29A5890_z31rim.jpg){{% /md %}}
@@ -46,6 +48,8 @@ This is where _Spirituals & Òrìṣàs_ spun its genius – in the threads it w
 </figure>
 
 Yet, Manuel continued, “Hued stories are joy and celebration.” At its core, the performance remained exactly that – a celebration – of artistry, of music, and of resilience. Capturing these themes, the griots excelled. Dancers Erika Loyola, Nicole Machado, and Stephan Saint Louis were mesmerizing under the helm of choreographer Michelle Grant Murray. Manuel’s commanding performance was joined by soprano Kyaunnee Richardson’s glittering vocals and a stunning and emotive turn from soprano Christine Jobson. Contralto Miriam King was an audience favourite, leading some of the show’s most moving moments, including a showstopping “Fix Me Jesus.”
+
+> As Hued Songs has proven, the results can only be spectacular.
 
 The griots’ roles were not fixed: singers danced, and dancers sang, all in service of a form of storytelling that was at once operatic in nature, and something entirely new. At the end of the performance, following remarks from Rowley, the audience was invited to stand and join in “Lift Every Voice & Sing.” Having journeyed through the story together, the audience were now a part of it.
 
