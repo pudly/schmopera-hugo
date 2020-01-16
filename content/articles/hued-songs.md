@@ -3,7 +3,6 @@ author = ["authors/carly-gordon.md"]
 categories = "Review"
 date = 2020-01-15T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
@@ -13,8 +12,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "With 2020 underway, Hued Songs can only look forward to more exceptional work carving a unique and necessary sphere within the South Florida music scene. Moreover, Spirituals & Òrìṣàs should challenge the region’s longstanding classical music institutions to think innovatively in the new year."
-slug = "hued-songs"
-title = "Hued Songs"
+slug = "hued-songs-where-traditions-collude-and-collide"
+title = "Hued Songs, where traditions collude and collide"
 youtube_url = ""
 
 +++
