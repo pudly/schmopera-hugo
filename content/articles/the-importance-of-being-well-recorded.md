@@ -4,7 +4,7 @@ categories = "Review"
 date = 2020-01-17T05:00:00Z
 disclaimer = ""
 image_gallery = []
-postamble = ""
+postamble = "Odyssey Opera's recording of [_The Importance of Being Earnest_](https://www.odysseyopera.org/recordings/) is available for [online purchase](https://www.amazon.com/Mario-Castelnuovo-Tedesco-Importance-Being-Earnest/dp/B0833WXCHH), or by calling 617-826-1626."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1579204273/media/2020/01/OdysseyOpera-AlbumCover_ly1rps.png"
 primary_image_credit = ""
@@ -19,9 +19,9 @@ youtube_url = ""
 +++
 Oscar Wilde was known in life for a few things: searing poetry, and witty wordplay. The latter in particular is what most people tend to focus on, as his wit in works such as _The Importance of Being Earnest_ proves. Unfortunately, this provides a rather difficult conundrum for anyone who decides to set Oscar Wilde's text to music: retaining the witticism which is integral to the success of his comedies would require one to keep the text as it is, and how much can the music really add when it is caged in such a way by the text?
 
-Mario Castelnuovo-Tedesco attempted to answer this question in 1961 with his operatic treatment of _The Importance of Being Earnest_, set in English with a bit of a less modern edge. It is this treatment which Odyssey Opera has elected to use for its latest album release, in yet another of its series tackling opera written within the last century or so. As with everything they have done, it is certainly an interesting experiment, and in this case it has struck somewhere between silver and copper, in a sense.
+Mario Castelnuovo-Tedesco attempted to answer this question in 1961 with his operatic treatment of [_The Importance of Being Earnest_](https://www.odysseyopera.org/recordings/), set in English with a bit of a less modern edge. It is this treatment which Odyssey Opera has elected to use for its latest album release, in yet another of its series tackling opera written within the last century or so. As with everything they have done, it is certainly an interesting experiment, and in this case it has struck somewhere between silver and copper, in a sense.
 
-> Altogether, the cast was very strong, and each singer was perfectly chosen for their roles. 
+> Altogether, the cast was very strong, and each singer was perfectly chosen for their roles.
 
 Castelnuovo-Tedesco's approach to Wilde’' text is to throw as many musical quotations at the wall as possible and hope that one or two stick. Invariably, there are some quotations which don't work, and when they don't they feel rather painfully on the nose. An instance in which main character Jack Worthing "kills" off his fictional brother Earnest almost feels kitschy when it's set to the tune of Chopin's _Funeral March_, throwing Dvořák’s _New World Symphony_ at a reference to someone being sent to Australia seemed inappropriate and misguided, and a quotation of the Marsellaise to a fleeting mention of the French Revolution feels quite out of place in the context of the scene surrounding it.
 
