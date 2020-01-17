@@ -1,7 +1,7 @@
 +++
 author = ["authors/carly-gordon.md"]
 categories = "Review"
-date = 2020-01-16T05:00:00Z
+date = 2020-01-17T05:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = ""
