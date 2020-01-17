@@ -24,4 +24,8 @@ Nottage makes a microcosm of Reading, Pennsylvania, which in 2011 was the poores
 
 "Their stories broke my heart and invited me to see the world from another's perspective; to be moved by people who I would not ordinarily encounter," writes Nottage of _Sweat_. "As a Black woman from Brooklyn I hadn't expected that I would be so profoundly moved by their predicament."
 
-There is something acutely ironic about a play that tells this story. For the most part, the people in _Sweat_ couldn't be more removed from the people who create and consume theatre. The fictional (but not really) steel factory workers of Reading, PA, are
+There is something acutely ironic about a play that tells this story. For the most part, the people in _Sweat_ couldn't be more removed from the people who create and consume theatre. The fictional (but not really) steel factory workers of Reading, PA, live in a small world that extends from work to familiar dive bar to home, in a continuous circuit for their entire adult lives. Career risks aren't celebrated - not even post-secondary education is universally admired - and no one, really, is planning for unforeseen circumstances. They're in a union, after all.
+
+It's almost the opposite of the artist's life, where artistic and professional fulfillment are worth risky actions like freelance work and international travel. Job insecurity is a given, the ever-changing gig the norm. And Nottage touches on that gulf that lies between the idea of a playwright and the idea of a factory worker; it's about stereotypes, but it's also about individual, real people.
+
+_Sweat_ is riveting; every scene draws a reaction. I can tell it's a good play - and a good production by David Storch - because by the end, I felt entirely differently about the characters than I had at the start. The idiot who opted for a face tattoo - reading "SKIN-swastika symbol-HEAD" - became a person
