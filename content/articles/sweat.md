@@ -35,7 +35,7 @@ There is something acutely ironic about a play that tells this story. For the mo
 <figcaption>(l-r) Timothy Dowler-Coltman, Kelli Fox, Jhonattan Ardila, and Christopher Allen in Sweat, Canadian Stage/Studio 180 Theatre, 2020. Photo: John Lauener.</figcaption>  
 </figure>
 
-It's almost the opposite of the artist's life, where artistic and professional fulfillment are worth risky actions like freelance work and international travel. Job insecurity is a given, the ever-changing gig the norm. And Nottage touches on that gulf that lies between the idea of a playwright and the idea of a factory worker; it's about stereotypes, but it's also about individual, real people.
+It's almost the opposite of the artist's life, where artistic and professional fulfillment are considered worthy of risky actions like freelance work and international travel. Job insecurity is a given, the ever-changing gig the norm. And Nottage touches on that gulf that lies between the idea of a playwright and the idea of a factory worker; it's about stereotypes, but it's also about individual, real people.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579285678/media/2020/01/Sweat9-ChristopherAllenTimothyDowlerColtmanJhonattanArdilaPeterN_xdmul8.jpg){{% /md %}}
 
