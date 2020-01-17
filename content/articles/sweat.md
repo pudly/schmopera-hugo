@@ -12,8 +12,8 @@ related_articles = ["articles/belle-darling-klondike-queen.md", "articles/in-rev
 related_companies = []
 related_people = []
 short_description = "\"Their stories broke my heart and invited me to see the world from another's perspective; to be moved by people who I would not ordinarily encounter,\" writes Nottage of Sweat. \"As a Black woman from Brooklyn I hadn't expected that I would be so profoundly moved by their predicament.\""
-slug = "Sweat"
-title = "Sweat"
+slug = "humbling-theatre-Sweat"
+title = "Humbling theatre: Sweat"
 youtube_url = ""
 
 +++
