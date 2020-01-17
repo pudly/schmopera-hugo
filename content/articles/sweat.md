@@ -24,4 +24,4 @@ Nottage makes a microcosm of Reading, Pennsylvania, which in 2011 was the poores
 
 "Their stories broke my heart and invited me to see the world from another's perspective; to be moved by people who I would not ordinarily encounter," writes Nottage of _Sweat_. "As a Black woman from Brooklyn I hadn't expected that I would be so profoundly moved by their predicament."
 
-There is something acutely ironic about a play that 
+There is something acutely ironic about a play that tells this story. _Sweat_ 
