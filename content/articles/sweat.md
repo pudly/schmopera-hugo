@@ -28,4 +28,6 @@ There is something acutely ironic about a play that tells this story. For the mo
 
 It's almost the opposite of the artist's life, where artistic and professional fulfillment are worth risky actions like freelance work and international travel. Job insecurity is a given, the ever-changing gig the norm. And Nottage touches on that gulf that lies between the idea of a playwright and the idea of a factory worker; it's about stereotypes, but it's also about individual, real people.
 
-_Sweat_ is riveting; every scene draws a reaction. I can tell it's a good play - and a good production by David Storch - because by the end, I felt entirely differently about the characters than I had at the start. The idiot who opted for a face tattoo - reading "SKIN-swastika symbol-HEAD" - became a person
+_Sweat_ is riveting; every scene draws a reaction. I can tell it's a good play - and a good production by David Storch - because by the end, I felt entirely differently about the characters than I had at the start. The idiot who opted for a face tattoo - reading "SKIN-swastika symbol-HEAD" - became a real person who acted badly out of misdirected rage and a limited world view. The laughable drunk becomes a woman who, only in hindsight, regrets that she never took charge of her life decisions, and the realization comes on like a black hole.
+
+The play is certainly about a sliver of America, an exemplary story about what happened to working-class people during the time of George W. Bush and blaming poverty on minorities. But _Sweat_ is unifying in the weirdest possible way. 
