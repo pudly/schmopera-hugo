@@ -21,7 +21,7 @@ It wouldn't be a 21st-century music festival without something baffling on the l
 
 I was indeed a bit baffled by Friday night's item for this year's 21C Festival, the annual series curated by The Royal Conservatory of Music and dedicated to music from this century. _Winterreise 2020_ was its name, a title that's fairly self-explanatory to anyone who knows of Franz Schubert and his famed 1828 song cycle on poems by Wilhelm Müller.
 
-It was Canadian bass-baritone Philippe Sly, backed by Le Chimera Project - the unusual-for-Lieder band of clarinet, trombone, accordion, and violin - staged by director Roy Rallo. The group of artists seem to have come together precisely to develop this take on Schubert's _Winterreise_, and to do so from as blank an artistic slate as possible.
+It was Canadian bass-baritone Philippe Sly, backed by the unusual-for-Lieder band of clarinet, trombone, accordion, and violin, and staged by director Roy Rallo. The group of artists, collectively dubbed Le Chimera Project, seem to have come together precisely to develop this take on Schubert's _Winterreise_, and to do so from as blank an artistic slate as possible.
 
 > But to present what I assume is new meaning, or at least new layers of meaning, without giving us the source material, amounts to inexplicable artistic indulgence.
 
