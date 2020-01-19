@@ -35,7 +35,7 @@ Rallo writes in his director's notes, "We asked ourselves how this music would s
 
 </figure>
 
-Fast-forward to Sly collecting four musicians who would become Le Chimera Project, and two weeks of development at Domaine Forget in Québec, and _Winterreise 2020_ is born. Essentially, it's a new arrangement of the score for these unlikely instruments; left intact are Müller's poetry and most of Schubert's vocal writing. Added are Rallo's staging and design by Doey Lüthi, which echo the new music's deconstruction of an existing work.
+Fast-forward to Sly collecting four musicians who would become Le Chimera Project, and two weeks of development at Domaine Forget in Québec, and _Winterreise 2020_ is born. Essentially, it's a new arrangement of the score for these unlikely instruments; left intact are Müller's poetry and most of Schubert's vocal writing. Added are Rallo's staging and design by Doey Lüthi, which visually echo the musical deconstruction of Schubert.
 
 Yet the whole thing seemed to answer a question that was entirely nonsensical. Asking, "How would this sound to people who had never heard it before?" feels a bit akin to asking, "When was Austria yellow?" If you'll excuse my unimaginative harumphing for a moment: the piece exists with all the tools needed for an outsider. Words, sheet music; that's the essence of it, no matter who you ask. What _Winterreise 2020_ does, in the guise of "paring everything down to essentials," is just as stylistically suggestive as the recordings by Dietrich Fischer-Dieskau. 
 
