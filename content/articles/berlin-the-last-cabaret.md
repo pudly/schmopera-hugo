@@ -26,6 +26,12 @@ We chose July 13, 1934 for our piece, the day Hitler made a speech claiming resp
 
 Within these pillars of historical reference, the story and plot is the product of Alan Corbishley and Joanna Garfinkel.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579747239/media/2020/01/CityOperaVancouver-Berlinsmall2_xakvzg.jpg){{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 ## How were the original cabaret songs chosen for this show?
 
 We chose the music of four remarkable Weimar composers who had in common powerful interest in experiment and disruption, a rich repertoire of cabaret gems, and they were all of Jewish heritage.  And for that, all four were driven from Germany when Hitler came to power in 1933.  
@@ -34,27 +40,19 @@ We wanted to explore the incredible songs that were true hits within the cabaret
 
 ## What does _BERLIN_ say about the relationship between the arts and politics?
 
-This show is centred around this very framework - how politics not only affected the arts, but controlled and obliterated the voices of an entire generation.  After a rich decade known as the Weimar Era (1919-1933) where Germany was briefly a democratic state and artists were celebrated within an exceptionally progressive and liberal culture, their entire way of life was suddenly under intense censorship. In fact, once under Nazi rule, all artists needed to be approved and provided a permit to publicly present any artistic output be it music, visual art, theatre.  Naturally, artists that were not deemed 'worthy' were quickly denied and then prosecuted under strictest enforcement if caught presenting their art unauthorized.  The vast majority of musicians and cabaret artists fled in 1933.  This show explores how this particular troupe reacts to this political tension and eventual threat of death.
+This show is centred around this very framework - how politics not only affected the arts, but controlled and obliterated the voices of an entire generation.  After a rich decade known as the Weimar Era (1919-1933) where Germany was briefly a democratic state and artists were celebrated within an exceptionally progressive and liberal culture, their entire way of life was suddenly under intense censorship. In fact, once under Nazi rule, all artists needed to be approved and provided a permit to publicly present any artistic output be it music, visual art, theatre. 
 
- 
-
- 
-
-What do you hope to say with this world premiere production?
-
-This show is essentially a warning to never forget our past, as our surrounding culture is frequently and direly susceptible to corruption, hatred, and fear.  How can we be living in 2020, and still be challenging the legitimacy of sexual orientation and gender non-conformity, as well as resisting women's rights and diverse cultures?  And yet, western societies, lands that are meant to be filled with 'freedom and liberty',  are embracing ever more fervently xenophobia, racism and bigotry.  This show is meant to generate thought and conversation around how we as a human species are capable of horrendous things - despite our collective beauty.
-
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579747239/media/2020/01/CityOperaVancouver-Berlinsmall2_xakvzg.jpg){{% /md %}}
-
-<figcaption></figcaption>
-
-</figure>
+Naturally, artists who were not deemed "worthy" were quickly denied and then prosecuted under strictest enforcement if caught presenting their art unauthorized. The vast majority of musicians and cabaret artists fled in 1933. This show explores how this particular troupe reacts to this political tension and eventual threat of death.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579747256/media/2020/01/CityOperaVancouver-Berlinsmall3_fd2ibg.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
 </figure>
+
+## What do you hope to say with this world premiere production?
+
+This show is essentially a warning to never forget our past, as our surrounding culture is frequently and direly susceptible to corruption, hatred, and fear. How can we be living in 2020, and still be challenging the legitimacy of sexual orientation and gender non-conformity, as well as resisting women's rights and diverse cultures? And yet, Western societies - lands that are meant to be filled with "freedom and liberty" - are embracing ever more fervently xenophobia, racism and bigotry. This show is meant to generate thought and conversation around how we as a human species are capable of horrendous things - despite our collective beauty.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579747270/media/2020/01/CityOperaVancouver-Berlinsmall4_tygcos.jpg){{% /md %}}
 
