@@ -3,7 +3,6 @@ author = ["authors/greg.md"]
 categories = "Review"
 date = 2020-01-23T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "The Canadian Opera Company's production of [_The Barber of Seville _](https://www.coc.ca/productions/18712)runs at the Four Seasons Centre through February 7."
 preamble = ""
@@ -11,10 +10,10 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1579809835/m
 primary_image_credit = "(l-r) Renato Girolami as Bartolo and Vito Priante as Figaro in the Canadian Opera Company’s production of The Barber of Seville, 2020, photo: Michael Cooper."
 related_articles = []
 related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = []
-short_description = "short"
-slug = "coc-barber"
-title = "COC Barber"
+related_people = ["scene/people/simona-genga.md", "scene/people/joel-allison.md", "scene/people/santiago-ballerini.md", "scene/people/vito-priante.md", "scene/people/emily-dangelo.md"]
+short_description = "Directed by Joan Font with choreography by Xevi Dorca, this revival of the 2015 production with set and costumes by Joan Guillén, is described in the program notes by the director as \"action that could happen\" in the 19th century, or even today in Toronto. I do beg to differ."
+slug = "leading-ladies-steal-barber-of-seville-at-coc"
+title = "Leading ladies steal Barber of Seville at COC"
 youtube_url = ""
 
 +++
