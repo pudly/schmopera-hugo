@@ -36,6 +36,8 @@ Within these pillars of historical reference, the story and plot is the product 
 
 We chose the music of four remarkable Weimar composers who had in common powerful interest in experiment and disruption, a rich repertoire of cabaret gems, and they were all of Jewish heritage.  And for that, all four were driven from Germany when Hitler came to power in 1933.  
 
+> This show explores how this particular troupe reacts to this political tension and eventual threat of death.
+
 We wanted to explore the incredible songs that were true hits within the cabarets themselves and not necessarily choose commercial hits of the day.  The songs are charged with humour and endless commentary on the legal and political issues of the day (which are disturbingly resonant to the issues of 2020 politics), and explored cultural identity through the lens of sexuality and gender non-conformity.
 
 ## What does _BERLIN_ say about the relationship between the arts and politics?
