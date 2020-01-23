@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Interview"
 date = 2020-01-22T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "[_BERLIN: The Last Cabaret_](https://cityoperavancouver.com/) runs Jan. 23-26 at Performance Works in Vancouver."
 preamble = "With its latest production, City Opera Vancouver is combining two things that opera fans love: world premieres and cabarets. [_BERLIN: The Last Cabaret_](https://cityoperavancouver.com/), running Jan. 23-26, is based on the real-life drama of Weimar-era cabaret artists under Nazi rule.\n\nWe spoke with Alan Corbishley, _BERLIN_ director and co-creator, about using cabaret as a way of telling the story of its Weimar artists."
