@@ -28,7 +28,7 @@ Within these pillars of historical reference, the story and plot is the product 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579747239/media/2020/01/CityOperaVancouver-Berlinsmall2_xakvzg.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Meaghan Chenosky. Photo: Diamond's Edge Photography.</figcaption>
 
 </figure>
 
@@ -46,7 +46,7 @@ Naturally, artists who were not deemed "worthy" were quickly denied and then pro
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579747256/media/2020/01/CityOperaVancouver-Berlinsmall3_fd2ibg.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Daniel Deorksen, Brent Hirose, Meghan Chenosky, Alen Dominguez, Julia Muncs. Photo: Diamond's Edge Photography.</figcaption>
 
 </figure>
 
@@ -56,6 +56,6 @@ This show is essentially a warning to never forget our past, as our surrounding 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579747270/media/2020/01/CityOperaVancouver-Berlinsmall4_tygcos.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Alen Dominguez, Julia Muncs. Photo: Diamond's Edge Photography.</figcaption>
 
 </figure>
