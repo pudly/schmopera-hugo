@@ -100,13 +100,13 @@
     </section>
     
     <nav class="scene--single_articles">
-      <h1 class="pill">Latest articles</h1>
+      <h1 class="pill">Published Articles</h1>
 
       <ul class="post--list __mini">
         {{- $author := .File.Path -}}
         {{- $articles := where (.Site.RegularPages) "Type" "articles" -}}
         {{- $related_articles := $articles.RelatedTo ( keyVals "author" $author ) -}}
-        {{- range first 10 $related_articles -}}
+        {{- range $related_articles -}}
         <li class="post--list-item">
             <a href="{{.Permalink}}" class="post--list-item">
               <picture class="post--list-image">
