@@ -22,7 +22,7 @@ youtube_url = ""
 
 The show is an interpretation of the Weimar era, based on our research and understanding of the Berlin cabaret scene and politics of the day.  The five characters created for this particular story are composites sourced from significant artists. With aspects and stories drawn from real life personalities such as Erich Mühsam, Ernst Busch, Karl Valentin, Trude Hesterberg, Trude Kolman, Sebastian Droste, Claire Waldorf, and Fritz Grünbaum to name but a few.
 
-We chose July 13, 1934 for our piece, the day Hitler made a speech claiming responsibility for the "Night of the Long Knives," where two weeks prior, he ordered the S.A. division of the Nazi Party, including Röhm who uneasily protected Queer artists, massacred due to a purported threat of mutiny. In turn, he also threatened the general public with certain death to anyone who attempted to stand up against the Regime. This of course causes many problems for a Queer cabaret troupe whose entire artistry is based on political satire.
+We chose July 13, 1934 for our piece, the day Hitler made a speech claiming responsibility for the ["Night of the Long Knives"](https://en.wikipedia.org/wiki/Night_of_the_Long_Knives), where two weeks prior, he ordered the S.A. division of the Nazi Party, including Röhm who uneasily protected Queer artists, massacred due to a purported threat of mutiny. In turn, he also threatened the general public with certain death to anyone who attempted to stand up against the Regime. This of course causes many problems for a Queer cabaret troupe whose entire artistry is based on political satire.
 
 Within these pillars of historical reference, the story and plot is the product of Alan Corbishley and Joanna Garfinkel.
 
