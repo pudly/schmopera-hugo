@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "\"We chose July 13, 1934 for our piece, the day Hitler made a speech claiming responsibility for the \"Night of the Long Knives,\" where two weeks prior, he ordered the S.A. division of the Nazi Party, including Röhm who uneasily protected Queer artists, massacred due to a purported threat of mutiny.\""
-slug = "berlin-the-last-cabaret"
-title = "BERLIN: The Last Cabaret"
+slug = "disturbingly-relevant-berlin-the-last-cabaret"
+title = "\"Disturbingly relevant\": BERLIN: The Last Cabaret"
 youtube_url = ""
 
 +++
@@ -38,7 +38,7 @@ We chose the music of four remarkable Weimar composers who had in common powerfu
 
 > This show explores how this particular troupe reacts to this political tension and eventual threat of death.
 
-We wanted to explore the incredible songs that were true hits within the cabarets themselves and not necessarily choose commercial hits of the day.  The songs are charged with humour and endless commentary on the legal and political issues of the day (which are disturbingly resonant to the issues of 2020 politics), and explored cultural identity through the lens of sexuality and gender non-conformity.
+We wanted to explore the incredible songs that were true hits within the cabarets themselves and not necessarily choose commercial hits of the day. The songs are charged with humour and endless commentary on the legal and political issues of the day (which are disturbingly resonant to the issues of 2020 politics), and explored cultural identity through the lens of sexuality and gender non-conformity.
 
 ## What does _BERLIN_ say about the relationship between the arts and politics?
 
