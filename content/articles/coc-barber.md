@@ -57,7 +57,7 @@ The real star of the night, in my opinon - as well as others it appears - is in 
 
 > The design was fun, if not confusing.
 
-Unfortunately, the patter seemed to conquer the majority of the singers, Bartolo in particular, on the stage. Their agility in their melismatic passages didn't really translate to agility of diction - which is paramount to successful patter and especially so at these less brisker tempi. With the exception of the ladies and Basilio, the majority of the singers seemed to have trouble with being heard outside the extremes of their ranges, even when the orchestration was at its sparsest. The ensemble singing seemed to struggle, and if we're going to choose to insert choreography into a show, it should be clean and clear, and committed.
+Unfortunately, the patter seemed to conquer the majority of the singers, Bartolo in particular, on the stage. Their agility in their melismatic passages didn't really translate to agility of diction - which is paramount to successful patter and especially so at these brisker tempi. With the exception of the ladies and Basilio, the majority of the singers seemed to have trouble with being heard outside the extremes of their ranges, even when the orchestration was at its sparsest. The ensemble singing seemed to struggle, and if we're going to choose to insert choreography into a show, it should be clean and clear, and committed.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579810008/media/2020/01/19-20-03-MC-D-1171_rbyklr.jpg){{% /md %}}
 
@@ -67,7 +67,7 @@ Unfortunately, the patter seemed to conquer the majority of the singers, Bartolo
 
 Directed by Joan Font with choreography by Xevi Dorca, this revival of the 2015 production with set and costumes by Joan Guillén, is described in the program notes by the director as "action that could happen" in the 19th century, or even today in Toronto. I do beg to differ.
 
-The design was fun, if not confusing. Described by Font, this _Barber_ is not "set in a specific space" - except that the design and comedy-of-manners approach to the staging clearly dictate when we are, as it's loaded with time-stamped design choices. Not dated, but definitely associated with 18th-century Spain. The exception is Rosina, who apparently borrowed Maria's dress from the _West Side Story_ film? 
+The design was fun, if not confusing. Described by Font, this _Barber_ is not "set in a specific space" - except that the design and comedy-of-manners approach to the staging clearly dictate when we are, as it's loaded with time-stamped design choices. Not dated, but definitely associated with 18th-century Spain. The exception is Rosina, who apparently borrowed Maria's dress from the _West Side Story_ film?
 
 > The orchestra, though, is ON. POINT.
 
