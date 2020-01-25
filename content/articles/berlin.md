@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1579967701/media/2020/01/sqCityOperaVancouver_Berlinsmall2_yv34vo.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
@@ -18,20 +18,32 @@ title = "BERLIN"
 youtube_url = ""
 
 +++
-In a show that is heartbreakingly relevant and contemporary in its themes and anxiety, City Opera Vancouver presents the world premiere of the political satire BERLIN: The Last Cabaret from January 23–26, 2020, at Performance Works (sold out). Set in Nazi Germany on July 13, 1934, the biting satire of resurrected Weimer-era music set to English lyrics plumbs dark humor to remind us to celebrate our freedom especially when it is in danger of being yanked away. 
+In a show that is heartbreakingly relevant and contemporary in its themes and anxiety, City Opera Vancouver presents the world premiere of the political satire BERLIN: The Last Cabaret from January 23–26, 2020, at Performance Works (sold out). Set in Nazi Germany on July 13, 1934, the biting satire of resurrected Weimar-era music set to English lyrics plumbs dark humor to remind us to celebrate our freedom especially when it is in danger of being yanked away.
 
 Directed and co-created by Alan Corbishley and Joanna Garfinkel (dramaturg) in association with Sound the Alarm: Music/Theatre, and presented with the PuSh International Performing Arts Festival, a cabaret troupe tatters and falls apart before our eyes as Nazism swells outside the café doors. A group of six stalwarts, barely persevering to put on a show for us as their unseen sixth member “Tommy” has disappeared, the five that remain have to decide whether to quit in fear or perform their work.
 
-The cast of five are given a whirlwind to execute with terrific choreography (Tara Cheyenne Friedenberg) apart for some screen work and climbing on lighting rigs that didn’t quite hit the mark – odd choices perhaps hoping to expand the stage work rather than play with the intimate nature of a cabaret format. I would have preferred the cabaret-style interaction of actors with the audience instead. The troupe is expected to dance and sing through tears and sweat. Sebastian in particular (Alen Dominguez) practically jumps through hoops. The audio equipment and speed of the numbers sometimes got the better of this nimble young group and made it hard for audiences to catch every acidic punchline of the stanzas. Musical director Roger Parton might be more sensitive to allegro tempo on mouthful songs like I Am a Vamp and Life’s a Swindle.
+The cast of five are given a whirlwind to execute with terrific choreography (Tara Cheyenne Friedenberg) apart for some screen work and climbing on lighting rigs that didn’t quite hit the mark – odd choices perhaps hoping to expand the stage work rather than play with the intimate nature of a cabaret format. I would have preferred the cabaret-style interaction of actors with the audience instead. The troupe is expected to dance and sing through tears and sweat. Sebastian in particular (Alen Dominguez) practically jumps through hoops. The audio equipment and speed of the numbers sometimes got the better of this nimble young group and made it hard for audiences to catch every acidic punchline of the stanzas. Musical director Roger Parton might be more sensitive to allegro tempo on mouthful songs like "I Am a Vamp" and "Life’s a Swindle".
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 Some of these musical pieces have not been performed in decades, yet the topics are fresh and modern – meditations on our what it is to be Masculine and Feminine or how much the government should be permitted to interfere in a woman’s right to choose Paragraph 218.
 
 Unsurprisingly, many of the characters reminded me of I Am My Own Wife, a show about the life of German antiquarian Charlotte von Mahlsdorf, who survived the Nazi and Communist regimes in East Berlin as a transgender woman. That award-winning theatrical production used Charlotte’s own acerbic wit to leaven the cynicism of the time and place. This production of BERLIN: The Last Cabaret sometimes forgets to lighten the mood, preferring to build to a dramatic ending that focuses on the disappeared in a time of authoritarianism, rather than remaining in the oddly uplifting style of Weimer cabaret: defiant mockery of the boot as it lands on your face.
 
-People sometimes think of cabaret as early camp but it is perhaps better explained in the show’s own words, “If we’re going to get in trouble for doing nothing we might as well start something.” The four composers whose songs are featured were all of Jewish heritage and were forced to leave Germany due to their willingness to push society to expand at the fringe and make space for new kinds of people. 
+People sometimes think of cabaret as early camp but it is perhaps better explained in the show’s own words, “If we’re going to get in trouble for doing nothing we might as well start something.” The four composers whose songs are featured were all of Jewish heritage and were forced to leave Germany due to their willingness to push society to expand at the fringe and make space for new kinds of people.
 
-The one endemic flaw in this show is that the production is fading as we watch it, a performance withering on the vine due to external forces closing in. And for the audience members, too, the energy sags in the latter third of the show. The production is cerebral rather than carnal in its meditation of the time and place which makes the moments when the troupe simulate lustiness on stage seem gratuitous when in fact it is the heart of cabaret to try and shock audience away from their meals by putting on outré productions. It is also somewhat lopsided with the women in the cast expected to bare themselves most explicitly. These moments of emotional and physical vulnerability did not feel earned. 
+The one endemic flaw in this show is that the production is fading as we watch it, a performance withering on the vine due to external forces closing in. And for the audience members, too, the energy sags in the latter third of the show. The production is cerebral rather than carnal in its meditation of the time and place which makes the moments when the troupe simulate lustiness on stage seem gratuitous when in fact it is the heart of cabaret to try and shock audience away from their meals by putting on outré productions. It is also somewhat lopsided with the women in the cast expected to bare themselves most explicitly. These moments of emotional and physical vulnerability did not feel earned.
 
 The lack of emotional resonance in the latter third of the show was no fault of the cast. They were all splendid and Trude (Meaghan Chenosky) in particular demonstrates real authenticity in her emotional turns. There was a clear difference between her playing vamp versus when she’s revealing real emotions. The actors were perhaps not given enough specificity as characters for us to relate to them as they don’t interact with each other until toward the end of the show – most of their performance is done toward the audience, often acting in the arch style of a silent film. As a result, it was hard to understand the gravity of losing them when we were attached to them only as caricatures, not as people. This was the case despite the characters having been based on real-life counterparts.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 The world premiere nature of this show and resurrection of some of these songs it should come as no surprise that the songs disappeared from our cultural lexicon because they’re not muscially memorable. I kept waiting for a showstopper, but none were forthcoming. The closest to it was possibly the proto gay anthem Lavender Song (das Lila Lied) which ought to be memorized for Pride parades. We hear only a snippet of the one song to still feel familiar Falling In Love Again but that evokes Lola Lola not heartache; nostalgia not awe. Yet the English translation of the songs crisply makes the evening feel vital and contemporary; political satire that remains as salient today as it did on The Night of the Long Knives.
