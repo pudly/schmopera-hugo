@@ -31,7 +31,7 @@ The cast of five are given a whirlwind to execute with terrific choreography by 
 
 </figure>
 
-Some of these musical pieces have not been performed in decades, yet the topics are fresh and modern – meditations on our what it is to be "asculine And Feminine" or how much the government should be permitted to interfere in a woman’s right to choose [Paragraph 218](https://en.wikipedia.org/wiki/Abortion_in_Germany).
+Some of these musical pieces have not been performed in decades, yet the topics are fresh and modern – meditations on our what it is to be "Masculine And Feminine" or how much the government should be permitted to interfere in a woman’s right to choose [Paragraph 218](https://en.wikipedia.org/wiki/Abortion_in_Germany).
 
 Unsurprisingly, many of the characters reminded me of _I Am My Own Wife_, a show about the life of German antiquarian Charlotte von Mahlsdorf, who survived the Nazi and Communist regimes in East Berlin as a transgender woman. That award-winning theatrical production used Charlotte's own acerbic wit to leaven the cynicism of the time and place. This production of _BERLIN: The Last Cabaret_ sometimes forgets to lighten the mood, preferring to build to a dramatic ending that focuses on the disappeared in a time of authoritarianism, rather than remaining in the oddly uplifting style of Weimar cabaret: defiant mockery of the boot as it lands on your face.
 
