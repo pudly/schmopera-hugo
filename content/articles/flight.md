@@ -1,9 +1,8 @@
 +++
 author = ["authors/callie-cooper.md"]
 categories = "Review"
-date = 2020-01-26T05:00:00Z
+date = 2020-01-28T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Minnesota Opera's production of [_Flight _](https://mnopera.org/shows-tickets/)runs through February 2."
 preamble = ""
@@ -13,8 +12,8 @@ related_articles = ["articles/layered-comedy-flight.md", "articles/talking-with-
 related_companies = ["scene/companies/minnesota-opera.md"]
 related_people = []
 short_description = "It seemed to be a two-and-a-half-hour opera about people being their worst in a confined space. It was, basically, a series of vignettes that could be amusing and meaningful in a shorter format."
-slug = "flight"
-title = "Flight"
+slug = "a-vague-ensemble-opera-flight"
+title = "A vague ensemble opera: Flight"
 youtube_url = ""
 
 +++
