@@ -33,7 +33,7 @@ Mezzo-soprano Deanne Meek sang the role of the older woman who wished to remain 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580235600/media/2020/01/DN4_5743_xqcq8f.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption> in Minnesota Opera's staging of Flight, 2020. Photo: Dan Norman.</figcaption>  
 </figure>
 
 The characters of Tina and Bill were sung by [Lisa Marie Rogali](/scene/people/lisa-marie-rogali/) and [Christian Sanders](/scene/people/christian-sanders/), both current young artists with the company. Their superiors capitalize the two artists' chemistry (they were also cast as a duo in last season's [_La rondine_](/kept-women-a-snapshot-of-life-in-la-rondine/)). While there was some chemistry between the characters that was entertaining, their main plot line was marriage problems that they hope will be fixed by a tropical vacation. It is quickly revealed that these marital problems all seem to be stemmed from problems in the bedroom. Without giving away any major spoilers, the couple angrily airs their dirty laundry and that pushes one of the spouses to spend the night with an airport employee.
@@ -42,7 +42,7 @@ The characters of Tina and Bill were sung by [Lisa Marie Rogali](/scene/people/l
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580235587/media/2020/01/DN4_4993_tcb40c.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption> in Minnesota Opera's staging of Flight, 2020. Photo: Dan Norman.</figcaption>  
 </figure>
 
 Unfortunately, I don’t know what the main point of the story was from the creators' viewpoint. What statement were they trying to make? Was it that these strangers were being so callous towards a needy person in an airport? Or was it their myriad of superficial problems? (At the risk of sounding callous myself, none of the characters' problems were really that superficial, it's just that they weren’t given the context and depth to pull at the heart strings.)
@@ -52,7 +52,7 @@ It seemed to be a two-and-a-half-hour opera about people being their worst in a 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580235575/media/2020/01/DN4_6547_oz84rq.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption> in Minnesota Opera's staging of Flight, 2020. Photo: Dan Norman.</figcaption>  
 </figure>
 
 It was never explicitly stated that the Refugee stayed in the controller room for example, the first few weeks of his hiding at the airport. We were just expected to infer any number of things. That's what I dislike about some operas, when the audience members have to do the heavy lifting, mending over the holes in a narrative when they should be just sitting and soaking in the performance.
