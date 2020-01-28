@@ -22,7 +22,7 @@ Opera Atelier has unveiled its season line-up for 2020-21, with all the pomp and
 
 Co-Artistic Directors Marshall Pynkoski and Jeannette Lajeunesse Zingg announced the 35th anniversary season: **Mozart's _The Magic Flute _**(Oct. 22-Nov. 1, 2020) and a double-bill of **Purcell's _Dido and Aeneas_ and Edwin Huizinga's _The Angel Speaks _**(February 20-27, 2021) - the latter a commission by Opera Atelier that does indeed gather together the baroque and the contemporary. For _Flute_, we'll hear Colin Ainsworth as Tamino, Mireille Asselin as Pamina, Holly Flack as the Queen of the Night, and [Douglas Williams](/talking-with-singers-douglas-williams/) as Papageno. For the double-bill, it's Meghan Lindsay as Dido opposite Christopher Enns as Aeneas, plus Allyson McHardy as the Sorceress.
 
-Not too many casting surprises. But if it ain't baroque...
+Not too many casting surprises. But if it ain't baroque... (And most of it ain't!)
 
 There's also a bonus item slated for July 2, 2020. Through special invitation by Canadian pianist Angela Hewitt, artists of the Opera Atelier Ballet, and OA veteran soprano Mireille Asselin, will join Hewitt in performance at the Trasimeno Festival in Italy.
 
@@ -31,3 +31,5 @@ I realized that I'd never actually been to an Opera Atelier season reveal. They 
 Frankly, we should all be so lucky to get real-time commentary by Pynkoski. He's endlessly interested and interesting; he even had me craning my neck to see what he was on about with this business about downbeats being up in a choreographed fencing duel. For nearly 35 years, Opera Atelier has been putting up shows that, take it or leave it, have an aesthetic that is 100% fleshed out. In order to get the most out of their work, one has to dive in headfirst, few questions asked.
 
 I can't be the only person who's gone to OA shows and concluded that they often feel the same. There's a visual cue to their work which, when it's based on dance and rhetorical gesture, make it hard to discern from photographs which production is which. After over three decades immersed in the specificity of 17th- and 18th-century opera, Pynkoski and Lajeunesse Zingg are able to spot the vast (?) differences between a French baroque double-bill, and the apparently zany collision of Catholicism and hedonism in a Handel oratorio. To anyone else, it's a lot of harpsichord - but it's hard not to get excited about the subtle differences when Pynkoski's in the room.
+
+Also, in a major nod to their work, Pynkoski and Lajeunesse Zingg have both been recognized as Officers of the Order of Arts and Letters (Officiers dans l’Ordre des Arts et des Lettres) by the Government of France. The titles will be formalized in a ceremony at the Royal Opera House in Versailles in December 2021. 
