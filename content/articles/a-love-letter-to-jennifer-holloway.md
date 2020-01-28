@@ -6,8 +6,8 @@ disclaimer = ""
 image_gallery = []
 postamble = "The Atlanta Opera's production of [_Salome _](https://www.atlantaopera.org/performance/salome/)is onstage through February 2."
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1580236704/media/2020/01/sqAtlantaOperaSalome_rhucvn.jpg"
+primary_image_credit = "Frank van Aken as Herod Antipas and Jennifer Holloway as Salome in Salome, The Atlanta Opera, 2020. Photo: Rafterman Photography."
 related_articles = ["articles/talking-with-singers-nina-stemme.md", "articles/6-operas-to-creep-you-out.md"]
 related_companies = ["scene/companies/the-atlanta-opera.md"]
 related_people = ["scene/people/jennifer-larmore.md", "scene/people/jennifer-holloway.md"]
@@ -23,6 +23,12 @@ In the piece we are introduced to Salome, a teenage princess, daughter to Herodi
 
 Queen Herodias and King Herod enter the fray, arguing as Herodias grows tired of Jochanaan's prophecies, thinking that he speaks of her. Herod attempts to court his daughter-in-law, who rebuffs him. He asks Salome to dance for him and, after refusing him, she eventually relents under the condition that Herod will give her whatever she would like afterwards. Herod vows the oath and, after sending the crowd away, Salome dances, stripping seven veils from her body in an effort to please Herod. When asked what she wants, Salome asks to be presented with a silver platter, upon it, the bleeding head of Jochanaan. Herod tries to convince her to ask for something else, but she refuses him. Finally he relents and Jochanaan is killed. Salome relishes in the opportunity to finally kiss his mouth and, upon witnessing the princess's apparent descent into madness, Herod orders her to be killed by his soldiers, fulfilling Jochanaan's prophecy.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580236766/media/2020/01/AtlantaOpera-Salome1_n54hgl.jpg){{% /md %}}
+
+<figcaption>Nathan Berg as Jochanaan in Salome, The Atlanta Opera, 2020. Photo: Rafterman Photography.</figcaption>
+
+</figure>
+
 There are many things the director Tomer Zvulun's new production does right. The set, designed by Erhard Rom, is very grey and, unlike Zvulun's other grey-washed productions, this fit the scene of the outside of Herod's palace, complete with a beautiful and ornate cistern with a slanted cage door, which perfectly caught the light when it was lifted. The piece opens in silence as Salome and an ensemble of Salome-dressed blonde dancers seemingly summon an ever-rotating moon from the arch of the proscenium. The dancers perform a dance, seemingly decapitating Narraboth in their entrancement, possibly to foretell the gruesome end to Jochanaan's life scheduled for later in the evening. The costuming, by Mattie Ullrich, features a mixture of soldier costumes, slightly modern, and stylized dress which seemed to mystify the period in which Zvulun’s production was set. The dancers, choreographed by Amir Levy, were used as an expert interpretation of Salome’s youthful control over men, seducing and entrancing the men at various points of the piece.
 
 Unfortunately, not all of Zvulun's choices were successful. As Salome is presented with Jochanaan's head and sings some of the most succulent music for her character, the screen-moon lowered, obscuring a majority of the set.
@@ -34,6 +40,12 @@ The other seemingly egregious error came moments before the curtain fell to appl
 Those incredibly confusing choices aside, Salome we an excessively well produced and well sung production, thoughtfully collaborated by the Atlanta Opera Orchestra and Maestro Arthur Fagan's impressive conducting and sense of ensemble.
 
 [Jennifer Holloway](/scene/people/jennifer-holloway/) leads the cast as the title character. Her impressive instrument was full, technically proficient, and exciting to hear, not to mention vibrant, stunning, and just about every other positive adjective that a standard dictionary could imagine. Her high notes were striking and her lows were just as enthusiastic, leaving a middle that satisfied with creamy legato and warmth that needs to be heard at every house. On top of the excellent voice, Holloway's interpretation of a young, tender teenager was believable, thoughtful, and impressive. For an adult woman to manage to so easily capture the essence of a mentally ill girl throwing a temper tantrum about a crush, or disgusted by a man, or for her to manipulate Narraboth while still giving him nothing - it was all excellent. Holloway captures Salome perfectly, leading the show triumphantly and creating a believable heroine with an excellent arch of insanity as she descended into apparent madness.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580236750/media/2020/01/AtlantaOpera-Salome2_fdz7ua.jpg){{% /md %}}
+
+<figcaption>Jennifer Holloway as Salome and Nathan Berg as Jochanaan in Salome, The Atlanta Opera, 2020. Photo: Rafterman Photography.</figcaption>
+
+</figure>
 
 Not to be outdone, international diva and mezzo-soprano superstar, Jennifer Larmore, stepped into the role of Herodias with an accuracy and intellect in her pristine singing and an excellent characterization that, in her stark red dress and high blonde wig, reminded me all too much of a mix between Glen Close's Cruella de Vil in the 1996 live-action interpretation of _Disney’s 101 Dalmations_ and the most aggressive stage mother I have ever seen.
 
