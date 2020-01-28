@@ -26,4 +26,4 @@ There's also a bonus item slated for July 2, 2020. Through special invitation by
 
 I realized that I'd never actually been to an Opera Atelier season reveal. They are indeed revealing; we heard snippets of music in productions to come, ballet-fencing demonstrations, and a rare appearance by Gerard Gauci, the go-to set designer for nearly all of Opera Atelier's output. Gauci spoke about design, Lajeunesse Zingg about dance's place in these operas - yes, even in _The Magic Flute_ - and Pynkoski about the lush, grand display of artistry he's ready to let loose upon us next season.
 
-Frankly, we should all be so lucky to get real-time commentary by Pynkoski. He's endlessly interested and interesting; he even had me craning my neck to see what he was on about with this business about downbeats being up in a choreographed fencing duel.
+Frankly, we should all be so lucky to get real-time commentary by Pynkoski. He's endlessly interested and interesting; he even had me craning my neck to see what he was on about with this business about downbeats being up in a choreographed fencing duel. 
