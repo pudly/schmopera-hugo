@@ -17,7 +17,7 @@ title = "A Love Letter to Jennifer Holloway"
 youtube_url = ""
 
 +++
-Richard Strauss's _Salome_ has always been a controversial opera, to say the least. The premiere performance in 1905 was not particularly well received, though famously the premiere was attended by Giacomo Puccini, Gustav Mahler, and Adolf Hitler. Based off of Oscar Wilde's play of the same name, _Salome_ comes from a Biblical tale, though highly erotic and controversially murderous.
+Richard Strauss's _Salome_ has always been a controversial opera, to say the least. The debut performance in 1905 was not particularly well received, though famously the premiere was attended by Giacomo Puccini, Gustav Mahler, and Adolf Hitler. Based off of Oscar Wilde's play of the same name, _Salome_ comes from a Biblical tale, though highly erotic and controversially murderous.
 
 In the piece we are introduced to Salome, a teenage princess, daughter to Herodias. Herodias has married King Herod, whose eyes focus too much on Salome for the young girl's liking. She flees a feast, finding herself admired by Herod's captain, Narraboth, while she herself is entranced by the voice of Jochanaan, a prophet held captive by Herod. She asks Narraboth to free Jochanaan from the cistern so that she may see him and, smitten with Salome's beauty, he agrees, ignoring Herod's standing orders. Freed from the cistern, Jochanaan ignores Salome, prophesying about a woman committing a sinful life who will be condemned to death and killed by soldiers. Eventually, Jochanaan indulges Salome, speaking with her about his faith while the teenager asks to kiss Jochanaan repeatedly. He rebuffs her and, eventually, is returned to the cistern. Narraboth, upset by Salome’s apparent affection for Jochanaan, kills himself.
 
