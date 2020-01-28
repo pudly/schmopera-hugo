@@ -12,7 +12,7 @@ primary_image_credit = ""
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "Frankly, we should all be so lucky to get real-time commentary by Pynkoski. He's endlessly interested and interesting; he even had me craning my neck to see what he was on about with this business about downbeats being up in a choreographed fencing duel. For nearly 35 years, Opera Atelier has been putting up shows that, take it or leave it, have an aesthetic that is 100% fleshed out."
 slug = "expecting-magic-from-opera-ateliers-2020-21-season"
 title = "Expecting magic from Opera Atelier's 2020-21 season"
 youtube_url = ""
@@ -32,4 +32,4 @@ Frankly, we should all be so lucky to get real-time commentary by Pynkoski. He's
 
 I can't be the only person who's gone to OA shows and concluded that they often feel the same. There's a visual cue to their work which, when it's based on dance and rhetorical gesture, make it hard to discern from photographs which production is which. After over three decades immersed in the specificity of 17th- and 18th-century opera, Pynkoski and Lajeunesse Zingg are able to spot the vast (?) differences between a French baroque double-bill, and the apparently zany collision of Catholicism and hedonism in a Handel oratorio. To anyone else, it's a lot of harpsichord - but it's hard not to get excited about the subtle differences when Pynkoski's in the room.
 
-Also, in a major nod to their work, Pynkoski and Lajeunesse Zingg have both been recognized as Officers of the Order of Arts and Letters (Officiers dans l’Ordre des Arts et des Lettres) by the Government of France. The titles will be formalized in a ceremony at the Royal Opera House in Versailles in December 2021. 
+Lastly, in a major nod to their work, Pynkoski and Lajeunesse Zingg have both been recognized as Officers of the Order of Arts and Letters (Officiers dans l’Ordre des Arts et des Lettres) by the Government of France. The titles will be formalized in a ceremony at the Royal Opera House in Versailles in December 2021. 
