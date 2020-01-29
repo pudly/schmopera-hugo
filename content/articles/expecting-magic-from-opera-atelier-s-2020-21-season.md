@@ -8,7 +8,7 @@ postamble = "Full details for Opera Atelier's 2020-21 season are [available via 
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1580241602/media/2020/01/sqOA2021_mymip6.jpg"
 primary_image_credit = "Opera Atelier's production of The Angel Speaks. Photo: Bruce Zinger."
-related_articles = []
+related_articles = ["articles/feminism-confetti-ateliers-triplebill.md", "articles/a-daring-desirous-doublebill-at-opera-atelier.md"]
 related_companies = ["scene/companies/opera-atelier.md"]
 related_people = ["scene/people/holly-flack.md", "scene/people/allyson-mchardy.md", "scene/people/douglas-williams.md", "scene/people/meghan-lindsay.md", "scene/people/christopher-enns.md", "scene/people/mireille-asselin.md", "scene/people/colin-ainsworth.md"]
 short_description = "Frankly, we should all be so lucky to get real-time commentary by Pynkoski. He's endlessly interested and interesting; he even had me craning my neck to see what he was on about with this business about downbeats being up in a choreographed fencing duel. For nearly 35 years, Opera Atelier has been putting up shows that, take it or leave it, have an aesthetic that is 100% fleshed out."
@@ -41,6 +41,6 @@ Frankly, we should all be so lucky to get real-time commentary by Pynkoski. He's
 
 </figure>
 
-I can't be the only person who's gone to OA shows and concluded that they often have a sameness about them. There's a visual cue to their work which, when it's based on dance and rhetorical gesture, make it hard to discern from photographs which production is which. After over three decades immersed in the specificity of 17th- and 18th-century opera, Pynkoski and Lajeunesse Zingg are able to spot the valuable differences between a French baroque double-bill, and the apparently zany collision of Catholicism and hedonism in their [upcoming Handel oratorio](https://www.operaatelier.com/season-and-tickets/2019-2020/handel-the-resurrection). To anyone else, it's a lot of harpsichord - but it's hard not to get excited about the subtle differences when Pynkoski's in the room.
+I can't be the only person who's gone to OA shows and concluded that they often have a sameness about them. There's a visual cue to their work which, when it's based on dance and rhetorical gesture, make it hard to discern from photographs which production is which. After over three decades immersed in the specificity of 17th- and 18th-century opera, Pynkoski and Lajeunesse Zingg are able to spot the valuable differences between a [French baroque double-bill](/feminism-confetti-ateliers-triplebill/), and the apparently zany collision of Catholicism and hedonism in their [upcoming Handel oratorio](https://www.operaatelier.com/season-and-tickets/2019-2020/handel-the-resurrection). To anyone else, it's a lot of harpsichord - but it's hard not to get excited about the subtle differences when Pynkoski's in the room.
 
 Lastly, in a major nod to their work, Pynkoski and Lajeunesse Zingg have both been recognized as Officers of the Order of Arts and Letters (Officiers dans l’Ordre des Arts et des Lettres) by the Government of France. The titles will be formalized in a ceremony at the Royal Opera House in Versailles in December 2021.
