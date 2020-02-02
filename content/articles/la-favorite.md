@@ -3,7 +3,6 @@ author = ["authors/andrew-schneider.md"]
 categories = "Review"
 date = 2020-02-02T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "[Houston Grand Opera's production of _La favorite_](https://www.houstongrandopera.org/favorite) continues through February 9."
 preamble = ""
