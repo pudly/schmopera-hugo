@@ -30,6 +30,8 @@ These three performance venues exhibited him tackling several different operatic
 
 Surprises did await me at every turn: at this performance Lawrence Brownlee was unfortunately indisposed, so Michael Spyres was flown in from New York at the last possible moment to sing the role of Fernand, which he did from stage left as the assistant stage director, Katrina Bachus, walked through the role, essentially being anywhere she had to be and doing all necessary postures while erring on the side of subtlety when it came to emotional display. Spyres displayed all the intense projection and clarity that I have come to admire from him when it comes to singing early French Romantic opera, particularly his recent recordings with Opera Rara of Donizetti’s other operas from this late period. In short, one could easily imagine his distinctively measured and energetic, yet not overpowering, tone to be plausibly and impeccably matched to the Fernand on the stage without difficulty.
 
+> These thematic elements were just in the background enough to enable me to feel relaxed and contemplative, and this was essentially the nature of the production as a whole.
+
 From the grave contrapuntal opening of the overture, I could very easily sense the composer feeling his way around the fascinating new timbres he had at his disposal at the Paris Opera. Although I would greatly have enjoyed hearing what the originally scheduled conductor, Christophe Rousset, would have done with this score (given my familiarity with his championing of French operas), the Houston Grand Opera Orchestra lost nothing in terms of grace and dynamism in the substitution of Artistic Director Patrick Summers; Summers showed a great deal of willingness to engage Donizetti’s sometimes eccentric use of various color and volume choices head-on, without letting any one section of the orchestra be overpowered.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580659279/media/2020/02/HGO-LaFavorite-2020-OrchestraDressRehearsalPhotographerLynnLane-63_fzhvld.jpg){{% /md %}}
@@ -39,6 +41,8 @@ From the grave contrapuntal opening of the overture, I could very easily sense t
 </figure>
 
 One can hear Donizetti attempting to create an atmospheric soundscape for this opera in a manner that will become ubiquitous over the next decades, what Verdi will come to refer to as a score’s characteristic tinta. Here, the overall musical atmosphere could be said to exhibit subdued, yet measured, Gallic languor that only sporadically gives way to this composer’s more characteristically fiery temperament; however, do not expect any overt local color here; for that, one must consult [_Maria Padilla_](https://en.wikipedia.org/wiki/Maria_Padilla).
+
+> We are allowed to perceive in an almost interactive fashion that his is a deep, yet conflicted, relationship.
 
 The production featured a bunch of competing elements that brought to the fore HGO’s stated interest in the varied cultural and religious background of medieval Spain. The majority of this production used only one set, which featured a very European wall with many ornate curlicues. It reminded me of the virtues to be found in Islamic art, a combination of restraint and rhapsody. And yet, this design would not be out of place in many European opera productions; this wall had at least one idyllic painting of a grove with lush, verdant trees. Periodically, this wall would be elevated to reveal many Gothic-looking, gnarled tree trunks in the background which gave this plot a somewhat more Romantic twinge of despair.
 
@@ -69,6 +73,8 @@ Baritone [Jacques Imbrailo](/scene/people/jacques-imbrailo/) was also filled wit
 </figure>
 
 Federico de Michelis as Balthasar was also a study in the contrasts his role posed: benevolent cleric to some, threatening messenger to others. Again, this is a role that requires a delicate balancing act between several different elements, and de Michelis's ability to have his vocalism and stage presence complement each other is to be commended.
+
+> How ubiquitous this opera must have been for a composer to consider it common knowledge nearly thirty years after its premiere!
 
 This is certainly not the one-sided image of the clergy that we get from the likes of Fra Melitone or any number of Spanish and Portuguese inquisitors (such as Donizetti would explore in the even more grandiose and nonsensical Dom Sébastien). Particularly intriguing was his Act IV chant-like prayer which featured him singing in unison with English horn and low strings, if my perception was correct. I definitely sensed him and King Alphonse having at least one moment of common understanding when attending the funeral of the King’s deceased wife, a very touching moment in the big picture, given how the vain pursuit of worldly pleasures is a key theme in this opera in any case.
 
