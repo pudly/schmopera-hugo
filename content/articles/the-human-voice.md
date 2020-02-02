@@ -18,7 +18,7 @@ title = "The Human Voice"
 youtube_url = ""
 
 +++
-Des Moines Metro Opera’s production of Poulenc’s _The Human Voice_ was an intimate view into a desperate woman’s emotional spiral. In a world where our phones dominate almost every aspect of our lives, this opera’s relevance has only increased over time. Technology allows us to communicate with others easily, but it also has the power to isolate us. Constant connection can be a blessing and a curse, especially when it comes to love.
+Des Moines Metro Opera’s [production of Poulenc’s _The Human Voice_](http://desmoinesmetroopera.org/productions/lavoixhumaine/) was an intimate view into a desperate woman’s emotional spiral. In a world where our phones dominate almost every aspect of our lives, this opera’s relevance has only increased over time. Technology allows us to communicate with others easily, but it also has the power to isolate us. Constant connection can be a blessing and a curse, especially when it comes to love.
 
 The set design was realistic in its minimalism. The small details brought Elle’s bedroom to life. Piles of clothes discarded on the floor. A pair of high heels kicked off by exhausted feet in the corner. Aside from the disorder and the bottle of gin on the vanity, the space was a blank canvas. Rather than a cozy refuge, Elle’s room seemed like a self-inflicted solitary confinement. She is too busy living through her phone to concern herself with her physical home.
 
