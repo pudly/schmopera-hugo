@@ -90,4 +90,4 @@ Don Gaspar (Christopher Bozeka) is a Machiavellian intriguer who enjoys getting 
 
 But that definitely forms part of the appeal of this work; it really gives somewhat of an aura of getting to know someone you have not seen for years, and asking just what this person has been up to. One gets a sense of _La favorite_ being simultaneously par for the course for Romantic opera yet intricately woven and crafted, and all the more approachable for combining both aspects.
 
-When a great team of singers and artists tackle a work like [_La favorite _](https://www.houstongrandopera.org/favorite)on its own terms, and not solely as a representative of various classifications, one need not only call these intrepid persons musicians, but explorers!
+When a great team of singers and artists tackle a work like [_La favorite_](https://www.houstongrandopera.org/favorite) on its own terms, and not solely as a representative of various classifications, one need not only call these intrepid persons musicians, but explorers!
