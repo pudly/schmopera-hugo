@@ -32,7 +32,7 @@ Instead of waiting by a landline for her beloved to call, she is constantly chec
 
 In McIntyre’s version of the libretto, Elle might have more modes of communication available to her, but the sentiments remain the same. When a toxic relationship combines with technology, communication isn’t always a good thing.
 
-It is easy to see why Elise Quagliata has become a fan favorite at Des Moines Metro Opera. Her performance as Elle was complex and intimate. The vocal lines of this opera are mainly declamatory due to the conversational style of the script, however, Quagliata took advantage of the sustained passionate moments where her vocal abilities could truly shine.
+It is easy to see why [Elise Quagliata](/scene/people/elise-quagliata/) has become a fan favorite at Des Moines Metro Opera. Her performance as Elle was complex and intimate. The vocal lines of this opera are mainly declamatory due to the conversational style of the script, however, Quagliata took advantage of the sustained passionate moments where her vocal abilities could truly shine.
 
 Quagliata demonstrated her versatility as an actress throughout the piece. At times she paced the bedroom with an agitated energy, only to follow it up with a sultry aura as she lounged in her bed. The most impressive feat of the performance was Quagliata’s ability to convey all the nuances and reactions of Elle’s phone conversation despite the fact that we could only see one side of the interaction.
 
@@ -40,8 +40,8 @@ It was the incomplete nature of the story that makes this opera complicated. I f
 
 I had so many questions about their relationship. How long has it been since they broke up? Apparently the man is getting married the next day, but Elle seems surprised that he moved on so soon. Also, why is this guy talking to his ex for this long on the night before his wedding? I don’t think his fiance would be happy to hear this conversation. Is Elle just delusional and can’t let their relationship go? Or has he been stringing her along? If this was strictly a final call to cut things off for good, why does it take so long?
 
-Elle’s world revolves around this man, and it reminded me of my friends that couldn’t seem to get over shitty guys. Even as he is breaking her heart and starting a new life, she’s so afraid of upsetting him. Girl, he already dumped you, so stop kissing his ass! 
+Elle’s world revolves around this man, and it reminded me of my friends that couldn’t seem to get over shitty guys. Even as he is breaking her heart and starting a new life, she’s so afraid of upsetting him. Girl, he already dumped you, so stop kissing his ass!
 
 The performative nature of her side of the conversation was sad. Elle resorts to little lies and manipulations then gushes about how amazing he is, definitely not an indicator of a healthy relationship Finally when she does have a moment of painful honesty, it is revealed that she tried to commit suicide the previous day. She is so wrapped up in losing this man that her own mental health has reached a breaking point. I can only hope that her friend Martha takes away Elle’s phone and gets her to a therapist before it’s too late.
 
-Des Moines Metro Opera’s production of The Human Voice proves that while technology changes, heartbreak remains consistently poignant. Telephones might become obsolete in the future, but toxic love will continue to plague humanity for eons to come.
+Des Moines Metro Opera’s production of [_The Human Voice_](http://desmoinesmetroopera.org/productions/lavoixhumaine/) proves that while technology changes, heartbreak remains consistently poignant. Telephones might become obsolete in the future, but toxic love will continue to plague humanity for eons to come.
