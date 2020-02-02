@@ -1,7 +1,7 @@
 +++
 author = ["authors/andrew-schneider.md"]
 categories = "Review"
-date = 2020-02-01T05:00:00Z
+date = 2020-02-02T05:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "Mezzo Jamie Barton inhabited the lead role of Léonor very naturally indeed, especially in her aria “O mon Fernand,” itself a perfect example of Donizetti’s felicitous employment of confident Parisian harpists and wind players in prominent positions. Such inspired orchestrational choices are the sort of thing that give great singers an optimal point to start their dramatic conceptions of such arias."
-slug = "la-favorite"
-title = "La Favorite"
+slug = "last-minute-surprises-a-star-performance-by-barton-hgos-la-favorite"
+title = "Last-minute surprises & a star performance by Barton: HGO's La Favorite"
 youtube_url = ""
 
 +++
