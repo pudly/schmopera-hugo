@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1580661379/media/2020/02/sqMeganPachecano_GilRose_Orchestra_l9jws8.jpg"
-primary_image_credit = ""
+primary_image_credit = "February 1, 2020, NEC’s Jordan Hall, Boston. World premiere of The Chronicle of Nine by Arnold Rosner, Boston Modern Orchestra Project and Odyssey Opera conducted by Gil Rose"
 related_articles = []
 related_companies = []
 related_people = []
@@ -24,7 +24,7 @@ This is especially true of opera, where in some cases the whole may not be as in
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580661400/media/2020/02/DavidSalsberyFry_JamesDemler_WilliamHite_AaronEngebreth_piquto.jpg){{% /md %}}
 
-<figcaption>(l-r) David Salsbery Fry, James Demler, William Hite, and Aaron Engebreth in the world premiere performance of Chronicle of Nine, Odyssey Opera, 2020. Photo: Kathy Wittman/Ball Square Films.</figcaption>
+<figcaption>February 1, 2020, NEC’s Jordan Hall, Boston. World premiere of The Chronicle of Nine by Arnold Rosner, Boston Modern Orchestra Project and Odyssey Opera conducted by Gil Rose. Photo: Kathy Wittman/Ball Square Films.</figcaption>
 
 </figure>
 
@@ -34,7 +34,7 @@ And then Act II began, and something shifted in the air. The music, while still 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580661414/media/2020/02/GilRose_KristaRiver_MeganPachecano_yk6pzz.jpg){{% /md %}}
 
-<figcaption>Gil Rose (conductor), Krista River, and Megan Pachecano in the world premiere performance of Chronicle of Nine, Odyssey Opera, 2020. Photo: Kathy Wittman/Ball Square Films.</figcaption>
+<figcaption>February 1, 2020, NEC’s Jordan Hall, Boston. World premiere of The Chronicle of Nine by Arnold Rosner, Boston Modern Orchestra Project and Odyssey Opera conducted by Gil Rose. Photo: Kathy Wittman/Ball Square Films.</figcaption>
 
 </figure>
 
@@ -44,7 +44,7 @@ And then there is the execution itself, which builds up slowly to its fevered cl
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580661430/media/2020/02/MeganPachecano_2_cyasj9.jpg){{% /md %}}
 
-<figcaption>Megan Pachecano in the world premiere performance of Chronicle of Nine, Odyssey Opera, 2020. Photo: Kathy Wittman/Ball Square Films.</figcaption>
+<figcaption>February 1, 2020, NEC’s Jordan Hall, Boston. World premiere of The Chronicle of Nine by Arnold Rosner, Boston Modern Orchestra Project and Odyssey Opera conducted by Gil Rose. Photo: Kathy Wittman/Ball Square Films.</figcaption>
 
 </figure>
 
@@ -54,7 +54,7 @@ James Demler absolutely stole the show in his big setpiece duet, using the full 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580661447/media/2020/02/MeganPachecano_EricCarey_nopw2h.jpg){{% /md %}}
 
-<figcaption>Megan Machecano and Eric Carey in the world premiere performance of Chronicle of Nine, Odyssey Opera, 2020. Photo: Kathy Wittman/Ball Square Films.</figcaption>
+<figcaption>February 1, 2020, NEC’s Jordan Hall, Boston. World premiere of The Chronicle of Nine by Arnold Rosner, Boston Modern Orchestra Project and Odyssey Opera conducted by Gil Rose. Photo: Kathy Wittman/Ball Square Films.</figcaption>
 
 </figure>
 
