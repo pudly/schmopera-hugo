@@ -24,11 +24,23 @@ The set design was realistic in its minimalism. The small details brought Elle�
 
 The floor of the bedroom became the vehicle for viewing Elle’s cell phone screen as well as her inner thoughts. Lighting designer, Dustin Morache, used projections to illustrate Elle’s fixations, displaying her texts and social media as well as her memories and moods through nature scenes. The visual connection to her emotional turmoil paired well with Poulenc’s moody music, enhancing the dialogue without distracting.
 
+<figure data-type-"image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 _The Human Voice_ is truly a musical partnership between singer and pianist, reminiscent of the composer’s art songs. Music director David Neely brought Poulenc’s score to life from the piano, providing a fluctuating emotional backdrop for Elle’s personal drama. It didn’t draw attention often, a quality that allowed the audience to focus on the content of the dialogue rather than the music itself. There weren’t any catchy tunes that you would walk away humming, but the cool atmospheric vibes sounded classy as hell even as Elle hit rock bottom.
 
 Stage director Kristine McIntyre brought Poulenc’s one woman drama into the modern era with her own updated translation of the libretto. Performing the opera in English removed the need for surtitles ,which let the audience focus on the drama. In addition to the telephone, McIntyre added in some new technologies such as a smartphone and tablet.
 
 Instead of waiting by a landline for her beloved to call, she is constantly checking her mobile for updates and texts. Elle’s response to the chiming noises when she gets a call is Pavlovian in its desperation. Even when she sets it aside, that device is always on her mind. We see her deleting old photos and checking her Instagram feed. The FOMO is omnipresent,and the cell phone isn’t her only addiction.
+
+<figure data-type-"image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 In McIntyre’s version of the libretto, Elle might have more modes of communication available to her, but the sentiments remain the same. When a toxic relationship combines with technology, communication isn’t always a good thing.
 
@@ -36,12 +48,24 @@ It is easy to see why [Elise Quagliata](/scene/people/elise-quagliata/) has beco
 
 Quagliata demonstrated her versatility as an actress throughout the piece. At times she paced the bedroom with an agitated energy, only to follow it up with a sultry aura as she lounged in her bed. The most impressive feat of the performance was Quagliata’s ability to convey all the nuances and reactions of Elle’s phone conversation despite the fact that we could only see one side of the interaction.
 
+<figure data-type-"image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 It was the incomplete nature of the story that makes this opera complicated. I found it difficult to decide how I felt about Elle. She was both sympathetic and frustrating. Clearly the man on the other end of the phone is a toxic influence on her, but Elle had her problematic moments as well.
 
 I had so many questions about their relationship. How long has it been since they broke up? Apparently the man is getting married the next day, but Elle seems surprised that he moved on so soon. Also, why is this guy talking to his ex for this long on the night before his wedding? I don’t think his fiance would be happy to hear this conversation. Is Elle just delusional and can’t let their relationship go? Or has he been stringing her along? If this was strictly a final call to cut things off for good, why does it take so long?
 
+<figure data-type-"image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 Elle’s world revolves around this man, and it reminded me of my friends that couldn’t seem to get over shitty guys. Even as he is breaking her heart and starting a new life, she’s so afraid of upsetting him. Girl, he already dumped you, so stop kissing his ass!
 
-The performative nature of her side of the conversation was sad. Elle resorts to little lies and manipulations then gushes about how amazing he is, definitely not an indicator of a healthy relationship Finally when she does have a moment of painful honesty, it is revealed that she tried to commit suicide the previous day. She is so wrapped up in losing this man that her own mental health has reached a breaking point. I can only hope that her friend Martha takes away Elle’s phone and gets her to a therapist before it’s too late.
+The performative nature of her side of the conversation was sad. Elle resorts to little lies and manipulations then gushes about how amazing he is, definitely not an indicator of a healthy relationship. Finally when she does have a moment of painful honesty, it is revealed that she tried to commit suicide the previous day. She is so wrapped up in losing this man that her own mental health has reached a breaking point. I can only hope that her friend Martha takes away Elle’s phone and gets her to a therapist before it’s too late.
 
 Des Moines Metro Opera’s production of [_The Human Voice_](http://desmoinesmetroopera.org/productions/lavoixhumaine/) proves that while technology changes, heartbreak remains consistently poignant. Telephones might become obsolete in the future, but toxic love will continue to plague humanity for eons to come.
