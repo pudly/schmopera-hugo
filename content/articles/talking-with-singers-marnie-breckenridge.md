@@ -3,14 +3,13 @@ author = ["authors/jenna.md"]
 categories = "Interview"
 date = 2020-02-03T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
-postamble = ""
-preamble = ""
+postamble = "[Tapestry Opera's production of _Jacqueline _](https://tapestryopera.com/performances/jacqueline/)runs Feb. 19-23 at the Betty Oliphant Theatre in Toronto."
+preamble = "American soprano Marnie Breckenridge is currently in Toronto, preparing for the world premiere of the new opera by Luna Pearl Woolf and Royce Vavrek, [_Jacqueline_](https://tapestryopera.com/performances/jacqueline/). Breckenridge sings the title role of Jacqueline du Pré, the famed cellist whose life and career ended too abruptly after a battle with multiple sclerosis.\n\nWe spoke with Breckenridge about her work, about singing roles based on real-life people, and what she takes away from Du Pré's story."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1580742019/media/2020/02/sqJacqueline2020reh-photobyDahliaKatz-8288_ixr50b.jpg"
 primary_image_credit = "Marnie Breckenridge in rehearsal for Jacqueline, Tapestry Opera, 2020. Photo: Dahlia Katz."
-related_articles = []
-related_companies = []
+related_articles = ["articles/in-review-mdea-undone.md", "articles/in-review-the-devil-inside.md", "articles/a-perfect-fit-the-overcoat.md"]
+related_companies = ["scene/companies/tapestry-opera.md"]
 related_people = []
 short_description = "\"Not only do I hope more people will know a bit more about Jacqueline and honor her memory, I hope they will take away a sense of immediacy. A reminder that we each have a finite amount of time on this planet, so why not burn our creative flames of talent, love, and kindness as brightly as possible while we inhabit the bodies we've been given!\""
 slug = "talking-with-singers-marnie-breckenridge"
@@ -50,7 +49,7 @@ It is a unique challenge to attempt to get inside the essence of someone while a
 
 </figure>
 
-## What do you hope audiences will take away from this world premiere production of Jacqueline?
+## What do you hope audiences will take away from this world premiere production of _Jacqueline_?
 
 Not only do I hope more people will know a bit more about Jacqueline and honor her memory, I hope they will take away a sense of immediacy. A reminder that we each have a finite amount of time on this planet, so why not burn our creative flames of talent, love, and kindness as brightly as possible while we inhabit the bodies we've been given!
 
