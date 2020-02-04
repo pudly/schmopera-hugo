@@ -18,7 +18,7 @@ title = "Talking with singers: Blythe Gaissert"
 youtube_url = ""
 
 +++
-## In Hansel and Gretel, you’re playing a trouser role. But it’s also a kid that you’re playing. It's a tricky balance and the music is pretty heavy. How do you pull it off?
+## In Hansel and Gretel, you're playing a trouser role who's also a kid. It's a tricky balance and the music is pretty heavy. How do you pull it off?
 
 Going to the gym, making sure that you have good conditioning physically is part of it. Vocally, you're either appropriate for the role or not. Because of the size of the orchestra, you have to be able to get through. The hardest part is balancing the full rich sound and maintaining the youth in the character.
 
@@ -30,6 +30,8 @@ I don't find trouser roles particularly difficult. I started doing them early on
 
 _Hansel and Gretel_ is for everyone in the same way that a really good Disney movie is for everyone. You have the rich orchestration, the complex music, but the story is not just for children. There's a level of it that children understand but there are also other layers that resonate with adults. There is also the sheer entertainment value of it. When I watch the old _Cinderella_ and _Sleeping Beauty_ movies from Disney with my children, I see so many things that I was not aware of as a child.
 
+> I like the different ways I can experiment vocally. It's a lot of fun.
+
 This particular production is very appealing to all ages. The puppets from Old Trout Puppet Workshop add a lot of visual interest and the scale that director Brenna Corner has been able to accomplish by making things so oversized that it makes us look small helps make it more interesting for everyone, not just children. She has focused on the less gruesome aspects of the story. I've seen other productions that have been made to be seen about child abuse. This one is not as dark as that. It hints at it because it's in there. It makes you questions why would those parents send those kids out so late. It makes me think about moments when you’re so stressed or tired that you maybe react more strongly than you would normally.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580745251/media/2020/02/SDOHansel2C8A0580_jvugol.jpg){{% /md %}}
@@ -38,7 +40,7 @@ This particular production is very appealing to all ages. The puppets from Old T
 
 </figure>
 
-## You've performed a lot of new music like _As One_, which you also performed here at the San Diego Opera. How is performing that different than performing the classics? Do you have a preference?
+## You've performed a lot of new music, like _As One_ here at the San Diego Opera. How is new music different than performing the classics? Do you have a preference?
 
 I don't really have a preference. What I enjoy about doing new work is the collaborative process in creating it and being able to create a character. It’s about being able to have a rapport with the composer and librettist. To feel you have some influence stimulates different parts of my creative brain. I also find it a luxury to be able to sing in my own language because I'm able to be even more immediate dramatically. I approach contemporary music in exactly the same way as classical and I always approach the story telling from the same place. It's the development process that's different.
 
@@ -46,15 +48,17 @@ I don't really have a preference. What I enjoy about doing new work is the colla
 
 Yes, definitely, because of the subject matter. With _As One_, people have told me it's the first opera they’ve seen. They come to see it out of curiosity or because they have a trans family member or friend. Then they would like to see another opera. It's a much more diverse audience as far as their musical taste. They're not hard-core opera fans. So much contemporary music is influenced now by things like electronica, rock music, jazz. We're coming to a place where the opera that’s being composed is without genre, in that way, influenced by so many other kinds of music.
 
-## You also perform with a classical alt-rock group called the Knells. Can you talk about that, and about doing that kind of crossover work?
+## You also perform with a classical alt-rock group called The Knells. Can you talk about that, and about doing that kind of crossover work?
 
-The group was founded by Andrew McKenna Lee who has a doctorate from Princeton in composition. He's played his solo guitar works with the LA Phil and he's produced a lot of David Little's work. There’s a great amount of interest in Europe for our music. We've had inquiries but we're usually too busy to drop everything and fly to Europe but now we’re going to a big festival in Portugal in May. It feeds another part of me and gives me inspiration. I like thedifferent ways I can experiment vocally. It's a lot of fun.
+[The group](http://theknells.com/) was founded by Andrew McKenna Lee who has a doctorate from Princeton in composition. He's played his solo guitar works with the LA Phil and he's produced a lot of David Little's work. There’s a great amount of interest in Europe for our music. We've had inquiries but we're usually too busy to drop everything and fly to Europe but now we’re going to a big festival in Portugal in May. It feeds another part of me and gives me inspiration. I like the different ways I can experiment vocally. It's a lot of fun.
+
+> I find influence not always in classical music.
 
 If it works to do other music and is helping the person to express themselves, I don't see a problem. I was told in my training by various people that I shouldn't be doing other things. I'm really glad I didn't listen because I am the artist that I am and have come to the point that I have come to where I feel like I have a different way of saying things that is completely valid.
 
 Because I feel I have the training, it doesn't affect me technically in a negative way. It's actually been very positive, especially for new music, because it's given me a wider palate of colors to use when creating something.
 
-## How important is the acting part of opera to you?
+## How important to you is the acting part of opera?
 
 It's essential. I like to say I'm a singing actor. Obviously in opera, you have to be able to sing and you have to be able to express the text vocally in the best way. The acting is part of that. In my teaching, I always say if you really embrace what you’re saying in the text, it will help you sing better. It deepens the commitment physically. You’re going to engage your body, and your breath too, in a more complete way. It's so important.
 
@@ -71,6 +75,8 @@ I did an interview for my son's class. He’s in the second grade. He asked what
 ## How did you end up singing opera?
 
 I always sang. When I was six, I wanted to be Olivia Newton-John. My parents told me I was always a performer. I danced too and I did plays. I was doing a musical theater camp in the summers and I wanted to get better roles. I had been practicing along with my _Phantom of the Opera_ album at home and I wanted to sing the high notes better. I started lessons when I was 15 with Betty Shine, who was teaching at my local university, Lamar University, in Beaumont, Texas. She had a huge influence on me. She was the one who said I should look at Italian art songs and Schumann. I really liked it and it was a challenge. It seemed really natural to me.
+
+> Wagner is becoming more comfortable and I’m looking at some Verdi roles.
 
 Through the years there was a little back and forth because I didn't feel that the kind of music I was focused on as a young singer totally helped me express myself. As I discovered other kinds of music, and got involved more in contemporary music, it became clear that I could express myself the way I needed to but also have a focus on classical music.
 
