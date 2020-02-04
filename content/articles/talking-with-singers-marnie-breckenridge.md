@@ -25,7 +25,7 @@ But I just knew on some deeply internal level that I needed to share my love for
 
 ## What do you know now about the singing career that you wish you knew 10 years ago?
 
-I wish I had known 10 years ago how crucial a social media and website campaign are. I finally got on board within the last 10 years. It was also the exact time period I was starting my family (son just turned 10 yrs-old and we also have a 7 year-old daughter) so the juggle of taking care of an infant while trying to build and maintain more web and social media presence, etc. was an added “to do” on my list.
+I wish I had known 10 years ago how crucial a social media and website campaign are. I finally got on board within the last 10 years. It was also the exact time period I was starting my family (my son just turned 10, and we also have a 7-year-old daughter) so the juggle of taking care of an infant while trying to build and maintain more web and social media presence, etc. was an added “to do” on my list.
 
 But everything changes so quickly. It is amazing how readily available the access to videos of a variety of people singing the same songs can really give a singer better perspective on how to incorporate stylistic choices and sounds. When you are only studying with one voice teacher, it can limit your ideas of what sound and technique are. To have the benefit of YouTube and Vimeo to observe other artists doing their thing is priceless.
 
