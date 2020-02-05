@@ -1,18 +1,16 @@
 +++
 date = "2018-11-24T11:52:00-05:00"
 lastmod = "2018-11-24T11:52:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543078338348/MichaelZC.jpg.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1580935946/media/2020/02/fullsizeoutput_2b8_dk6mej.jpg"
 publishDate = "2018-11-24T11:52:00-05:00"
-short_bio = "Michael is studying Human Biology at the University of Toronto; otherwise he&#039;s an enthusiastic cinephile, home cook, self-educating music nerd and burgeoning opera critic. He writes a weekly blog ([the52](http://blueribband.squarespace.com/the52-1/)) on vinyl recordings of classical music and his longterm goal remains to finally wear socks that match — in the meantime he would love to talk to you about music!"
+short_bio = "Michael is a student at the University of Toronto, a music writer and general arts critic on [briband.com](http://briband.com/)."
 slug = "michael-zarathuscook"
 title = "Michael Zarathus-Cook"
-website = "http://blueribband.squarespace.com/the52-1/"
+website = "http://briband.com/"
 [[social_media]]
-platform = "Facebook"
+platform = "Instagram"
 template = "social-media"
-url = "https://www.facebook.com/michael.olarewaju.98"
+url = "https://www.instagram.com/blue_riband/"
+
 +++
-
-Michael is studying Human Biology at the University of Toronto; otherwise he's an enthusiastic cinephile, home cook, self-educating music nerd and burgeoning opera critic. He writes a weekly blog ([the52](http://blueribband.squarespace.com/the52-1/)) on vinyl recordings of classical music and his longterm goal remains to finally wear socks that match — in the meantime he would love to talk to you about music!
-
-[Instagram: @zarathuscook](https://www.instagram.com/zarathuscook/)
+Michael is a student at the University of Toronto, a music writer and general arts critic on [briband.com](http://briband.com/).
