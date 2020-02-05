@@ -3,7 +3,6 @@ author = ["authors/eva-cahen.md"]
 categories = "Interview"
 date = 2020-02-03T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "[_Hansel and Gretel_](https://www.sdopera.org/season/2019-2020-season/hansel-and-gretel) runs at San Diego Opera Feb. 8-16."
 preamble = "Mezzo-soprano Blythe Gaissert will be singing Hansel in [San Diego Opera's _Hansel and Gretel_](https://www.sdopera.org/season/2019-2020-season/hansel-and-gretel), Feb. 8-16. The production also features soprano Sara Gartland as Gretel. The opera will be conducted by Maestro Ari Pelto and is directed by Brenna Corner."
