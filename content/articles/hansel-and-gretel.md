@@ -5,13 +5,13 @@ date = 2020-02-08T05:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "The Canadian Opera Company's production of [_Hansel and Gretel_](https://www.coc.ca/productions/18719) runs through February 21."
 preamble = ""
 primary_image = ""
 primary_image_credit = ""
-related_articles = []
-related_companies = []
-related_people = []
+related_articles = ["articles/in-review-bluebeards-castle-erwartung.md", "articles/talking-with-singers-blythe-gaissert.md", "articles/tweaking-the-brothers-grimm-in-oper-frankfurt-s-hänsel-und-gretel.md"]
+related_companies = ["scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/joel-ivany.md", "scene/people/annasophie-neher.md", "scene/people/michael-colvin.md", "scene/people/krisztina-szab.md", "scene/people/russell-braun.md", "scene/people/emily-fons-1.md", "scene/people/emily-fons.md", "scene/people/simone-osborne.md"]
 short_description = "A wild visual ride from start to finish, it's great lighter fare to warm you up in the winter. I really appreciated the gestures (blunt as they were) to the fact that this started as traditionally holiday fare in Europe, yet didn't feel out of place a month after Twelfth Night. "
 slug = "hansel-and-gretel"
 title = "Hansel and Gretel"
@@ -68,6 +68,4 @@ After The Witch is dispatched and the gingerbread children come back to life, we
 
 </figure>
 
-A wild visual ride from start to finish, it's great lighter fare to warm you up in the winter. I really appreciated the gestures (blunt as they were) to the fact that this started as traditionally holiday fare in Europe, yet didn't feel out of place a month after Twelfth Night.
-
-Hansel and Gretel (#COCgingerbread) runs til February 21 and is sure to be a production that's talked about for a good while to come.
+A wild visual ride from start to finish, this _Hansel and Gretel_ is great lighter fare to warm you up in the winter. I really appreciated the gestures (blunt as they were) to the fact that this started as traditionally holiday fare in Europe, yet didn't feel out of place a month after Twelfth Night. It is sure to be a production that's talked about for a good while to come.
