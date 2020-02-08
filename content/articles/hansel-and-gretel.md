@@ -45,7 +45,7 @@ Gertrude, their Mother comes home from a hard day at work to find their kids not
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581177767/media/2020/02/COC-HG-19-20-04-MC-D-0738_u6qunw.jpg){{% /md %}}
 
-<figcaption> in the Canadian Opera Company's new production of Hansel and Gretel, 2020. Photo: Michael Cooper.</figcaption>
+<figcaption>A scene from the Canadian Opera Company's new production of Hansel and Gretel, 2020. Photo: Michael Cooper.</figcaption>
 
 </figure>
 
@@ -57,7 +57,7 @@ Using a technique that didn't really help other productions, we see the parents 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581177784/media/2020/02/COC-HG-19-20-04-MC-D-0923_hswhlr.jpg){{% /md %}}
 
-<figcaption> in the Canadian Opera Company's new production of Hansel and Gretel, 2020. Photo: Michael Cooper.</figcaption>
+<figcaption>Simone Osborne (Gretel), Emily Fons (Hansel) and Michael Colvin (The Witch) in the Canadian Opera Company's new production of Hansel and Gretel, 2020. Photo: Michael Cooper.</figcaption>
 
 </figure>
 
