@@ -1,13 +1,15 @@
 +++
 discipline = "Tenor"
-draft = true
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1581215895/media/2020/02/MichaelKuhn_pbunfo.jpg"
-primary_image_credit = ""
-related_companies = []
+primary_image_credit = "Photo: Andrew Power."
+related_companies = ["scene/companies/on-site-opera.md", "scene/companies/virginia-opera.md", "scene/companies/florida-grand-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/opera-omaha.md"]
 slug = "michael-kuhn"
-social_media = []
 title = "Michael Kuhn"
 website = "http://michaelkuhntenor.com/"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/mrk814/"
 
 +++
 Described as “an artist of almost terrifying magnetism” (_New York Observer_), “polished, soignee and hot to trot” (The Houston Press), and praised for his "clear and robust" tenor (_Opera News_), Michael Kuhn is a versatile singing-actor equally at home in the fields of opera, musical theatre and concert repertoire.
