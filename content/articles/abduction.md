@@ -14,7 +14,7 @@ related_companies = []
 related_people = []
 short_description = "Opera Omaha’s production of The Abduction from the Seraglio brings vintage nightclub glam to Mozart’s beloved comedic Singspiel. The audience gets to enjoy the playful plot without all the dated humor and Turkish stereotypes that came with the original opera setting, a choice that allowed the virtuosic vocals to reign supreme."
 slug = "abduction"
-title = "Abduction"
+title = "Opera Omaha shows off a stellar cast with The Abduction from the Ser"
 youtube_url = ""
 
 +++
