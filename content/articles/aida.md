@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = ""
-primary_image_credit = ""
+primary_image_credit = " in Houston Grand Opera's production of Aida, 2020. Photo: Lynn Lane."
 related_articles = []
 related_companies = ["scene/companies/houston-grand-opera.md"]
 related_people = ["scene/people/melody-moore.md", "scene/people/tamara-wilson.md", "scene/people/russell-thomas.md"]
@@ -20,11 +20,11 @@ youtube_url = ""
 +++
 Giuseppe Verdi’s _Aida_ came across in Houston Grand Opera’s recent rendition as a well-oiled machine. Even though this new production’s staging was uneven, it had many aspects that led me to understand how little I really knew this piece. Certainly, the big moments in _Aida_ are inescapable, even ubiquitous, in the artistic world. But when combined with all the little moments that this production highlighted, which one has to take along with the "greatest hits," it illuminated me greatly as to just how much a master of drama Verdi certainly is.
 
-I use the word "illuminated" with intent, as light was a very pivotal concept for this production. The prelude, for instance, opened with a controlled opening of the curtains to reveal a blazing pillar of triangular light. Perhaps this was to represent an obelisk or even a pyramid, though the sides were so steep as to resemble the Nubian pyramids of the Late Period. Throughout the production, one could see many of these geometric shapes infiltrating the scene at many different points. Characters maneuver around them and discuss plans in their shadow. This rendered the Act III trio somewhat difficult to follow if you were seated on one of the sides of the theatre, given the lines of sight. 
+I use the word "illuminated" with intent, as light was a very pivotal concept for this production. The prelude, for instance, opened with a controlled opening of the curtains to reveal a blazing pillar of triangular light. Perhaps this was to represent an obelisk or even a pyramid, though the sides were so steep as to resemble the Nubian pyramids of the Late Period. Throughout the production, one could see many of these geometric shapes infiltrating the scene at many different points. Characters maneuver around them and discuss plans in their shadow. This rendered the Act III trio somewhat difficult to follow if you were seated on one of the sides of the theatre, given the lines of sight.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>
+<figcaption> in Houston Grand Opera's production of Aida, 2020. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
@@ -34,7 +34,7 @@ The use of lighting and curtains was particularly effective when it came to the 
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>
+<figcaption> in Houston Grand Opera's production of Aida, 2020. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
@@ -44,7 +44,7 @@ Tenor Russell Thomas, making his HGO debut in his first ever performance as Rada
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>
+<figcaption> in Houston Grand Opera's production of Aida, 2020. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
@@ -54,7 +54,7 @@ Reginald Smith, Jr. made a very finely developed Amonasro to the extent that tha
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>
+<figcaption> in Houston Grand Opera's production of Aida, 2020. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
@@ -64,10 +64,10 @@ Bass [Musa Ngqungwana](/scene/people/musa-ngqungwana/) as the King of Egypt stru
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>
+<figcaption> in Houston Grand Opera's production of Aida, 2020. Photo: Lynn Lane.</figcaption>
 
 </figure>
 
-Throughout this opera, Patrick Summers was extremely effective at shaping the music. Particularly in the Act II triumphal finale, which can easily come at an audience like a massive wall of sound from both chorus and orchestra, he was very good at balancing the different sections of the orchestra. Even if one were seeing this opera for the first time, the shape of the musical numbers was clearly delineated and easy to follow. I could clearly tell if I were approaching a final climax, or merely the first of several. As Verdi in particular makes single musical numbers seem as multi-sectional and diverse in character as songs in a Schubert song cycle, I greatly appreciated this aspect. 
+Throughout this opera, Patrick Summers was extremely effective at shaping the music. Particularly in the Act II triumphal finale, which can easily come at an audience like a massive wall of sound from both chorus and orchestra, he was very good at balancing the different sections of the orchestra. Even if one were seeing this opera for the first time, the shape of the musical numbers was clearly delineated and easy to follow. I could clearly tell if I were approaching a final climax, or merely the first of several. As Verdi in particular makes single musical numbers seem as multi-sectional and diverse in character as songs in a Schubert song cycle, I greatly appreciated this aspect.
 
 In other words, the music of _Aida_ felt as experimental and dynamic as when it was first composed, in my perception. No wonder Tchaikovsky referred to it as representing a "Wagnerian" turn in Verdi's style, despite the lack of melodic interest he perceived in it. It was the sort of opera that perfectly encapsulates the conflicts between public and private spheres innate to depictions of grand situations. If only the canvas were bigger, then the experience would be transcendent. I suppose we must settle for transcendent music at least.
