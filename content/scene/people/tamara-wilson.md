@@ -17,6 +17,10 @@ url = "https://www.facebook.com/tamarawilsonsoprano?fref=ts"
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/tamara_wilson_soprano/"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/channel/UC6jidviYzIjuBRq_5mzIgzQ/feed"
 
 +++
 With a voice that is a “veritable force of nature” (Chicago Tribune), American soprano Tamara Wilson is quickly gaining international recognition for her interpretations of Verdi, Mozart, Strauss and Wagner. She is the 2016 recipient of the prestigious Richard Tucker Award from the Richard Tucker Music Foundation.
