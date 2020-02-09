@@ -1,9 +1,8 @@
 +++
 discipline = "Soprano"
-draft = true
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1581216657/media/2020/02/AshleyEmerson_jvuvrj.jpg"
 primary_image_credit = ""
-related_companies = ["scene/companies/opera-philadelphia.md", "scene/companies/washington-national-opera.md", "scene/companies/seattle-opera.md", "scene/companies/the-dallas-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/opera-omaha.md", "scene/companies/aurora-orchestra.md"]
+related_companies = ["scene/companies/the-atlanta-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/palm-beach-opera.md", "scene/companies/opera-philadelphia.md", "scene/companies/washington-national-opera.md", "scene/companies/seattle-opera.md", "scene/companies/the-dallas-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/opera-omaha.md", "scene/companies/aurora-orchestra.md"]
 slug = "ashley-emerson"
 title = "Ashley Emerson"
 website = "https://www.ashleyemersonsoprano.com/"
