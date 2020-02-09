@@ -3,7 +3,6 @@ author = ["authors/andrew-schneider.md"]
 categories = "Review"
 date = 2020-02-09T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Houston Grand Opera's production of [_Aida_](https://www.houstongrandopera.org/aida) runs through February 16. "
 preamble = ""
@@ -13,8 +12,8 @@ related_articles = []
 related_companies = ["scene/companies/houston-grand-opera.md"]
 related_people = ["scene/people/melody-moore.md", "scene/people/tamara-wilson.md", "scene/people/russell-thomas.md"]
 short_description = "Throughout the production, one could see many of these geometric shapes infiltrating the scene at many different points. Characters maneuver around them and discuss plans in their shadow. This rendered the Act III trio somewhat difficult to follow if you were seated on one of the sides of the theatre, given the lines of sight. "
-slug = "Aida"
-title = "Aida"
+slug = "transcendent-music-uneven-staging-in-hgos-aida"
+title = "Transcendent music & uneven staging in HGO's Aida"
 youtube_url = ""
 
 +++
