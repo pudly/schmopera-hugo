@@ -2,10 +2,10 @@
 date = "2015-04-12T21:42:00-04:00"
 discipline = "Soprano"
 lastmod = "2017-09-17T15:05:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505675111307/wilson5.jpg.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1581276848/media/2020/02/TamaraWilson-CassandraKay_nsttw9.jpg"
 primary_image_credit = "Cassandra Kay"
 publishDate = "2015-04-12T21:42:00-04:00"
-related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/los-angeles-opera.md","scene/companies/washington-national-opera.md"]
+related_companies = ["scene/companies/houston-grand-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/los-angeles-opera.md", "scene/companies/washington-national-opera.md"]
 slug = "tamara-wilson"
 title = "Tamara Wilson"
 website = "http://www.tamarawilsonsoprano.com/index.html"
@@ -14,11 +14,11 @@ platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/tamarawilsonsoprano?fref=ts"
 [[social_media]]
-platform = "Twitter"
+platform = "Instagram"
 template = "social-media"
-url = "https://twitter.com/tamschloo"
-+++
+url = "https://www.instagram.com/tamara_wilson_soprano/"
 
++++
 With a voice that is a “veritable force of nature” (Chicago Tribune), American soprano Tamara Wilson is quickly gaining international recognition for her interpretations of Verdi, Mozart, Strauss and Wagner. She is the 2016 recipient of the prestigious Richard Tucker Award from the Richard Tucker Music Foundation.
 
 Tamara Wilson begins the 2017-2018 season as the title role in *Aida* to open the season at the Washington National Opera in a production by Francesca Zambello. She returns to her home company of Houston Grand Opera for her role debut as Chrysothemis in *Elektra* and will make her Paris debut as Sieglinde in *Die Walküre* with the Mariinsky Orchestra conducted by Valery Gergiev at the Philharmonie de Paris. She makes her New York Philharmonic debut in Bernstein’s Kaddish Symphony (Symphony No. 3) with Leonard Slatkin to celebrate Bernstein's Philharmonic: A Centennial Festival. At the BBC Proms, she will return for Mahler’s Symphony No. 8 with the BBC National Orchestra of Wales. She makes her Italian debut with Riccardo Chailly and Teatro alla Scala Orchestra in Verdi’s *Messa da requiem* with performances in Pavia, Paris, and Hamburg. 
