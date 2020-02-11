@@ -3,18 +3,17 @@ author = ["authors/michael-pecak.md"]
 categories = "Review"
 date = 2020-02-11T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1581451847/media/2020/02/sq-resized-DeborahNansteel_AnaMar%C3%ADaMart%C3%ADnez_GrahamMacfarlane_MADAMABUTTERFLY_LyricOperaofChicago_LYR200203_1536_tcmsab.jpg"
 primary_image_credit = "Ana María Martínez (Cio-Cio San), Deborah Nansteel (Suzuki) and  Graham Macfarlane (Sorrow) in Madama Butterfly, Lyric Opera of Chicago, 2020. Photo: Todd Rosenberg."
-related_articles = []
-related_companies = []
-related_people = []
+related_articles = ["articles/a-tale-of-two-ciocio-sans.md", "articles/4-opera-scenes-that-should-have-happened.md"]
+related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
+related_people = ["scene/people/ana-maria-martinez.md", "scene/people/brian-jagde.md"]
 short_description = "Puccini’s Madama Butterfly hardly needs any introduction, being one of the top 10 operas performed yearly in both the U.S. and Europe. The story of a young geisha jilted by a selfish, predatory American naval officer has gripped audiences since the first decade of the 20th-century, as has Puccini’s masterful score. "
-slug = "loc-butterfly"
-title = "LOC Butterfly"
+slug = "martinez-creates-an-empowered-cio-cio-san-at-lyric-opera-of-chicago"
+title = "Martínez creates an empowered Cio-Cio San at Lyric Opera of Chicago"
 youtube_url = ""
 
 +++
