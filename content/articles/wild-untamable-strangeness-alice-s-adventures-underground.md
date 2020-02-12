@@ -3,36 +3,35 @@ author = ["authors/alessia-naccarato.md"]
 categories = "Review"
 date = 2020-02-12T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1581538341/media/2020/02/sq0060PeterTantsitsClaudiaBoyleandSamFurnessROH2020_aw6ko5.jpg"
-primary_image_credit = ""
+primary_image_credit = " Alice's Adventures Under Ground, ROH, 2020. Photo by Clive Barda."
 related_articles = []
 related_companies = []
 related_people = []
 short_description = "Clocking in at about 55 minutes, this bit-sized, child-friendly opera is perfect for a family outing. It’s outrageous, laugh-out-loud humour can be enjoyed by all ages. There is no doubt that Barry has created a masterpiece of modern opera. His frenetic, ambitious writing does not feel overly academic or unapproachable; there is a slightly wild and surprising nature to his music which immerses the listener into the world that McDonald has created onstage."
-slug = "wild-untamable-strangeness-alices-adventures-underground"
-title = "Wild, untamable strangeness: Alice's Adventures Underground"
+slug = "wild-untamable-strangeness-alices-adventures-under-ground"
+title = "Wild, untamable strangeness: Alice's Adventures Under Ground"
 youtube_url = ""
 
 +++
-Gerald Barry’s newest opera Alice’s Adventures Underground gets its first ever staging in this Royal Opera production designed and directed by Antony McDonald after making its European premiere in concert at The Barbican with the Britten Sinfonia in 2016. Emblematic of Barry’s characteristic raucous and fun style, this production is full to bursting with joyful weirdness and perfectly captures the strange and wonderful essence that is central to the original Lewis Carroll stories.
+Gerald Barry’s newest opera _Alice’s Adventures Under Ground_ gets its first ever staging in this Royal Opera production designed and directed by Antony McDonald after making its European premiere in concert at The Barbican with the Britten Sinfonia in 2016. Emblematic of Barry’s characteristic raucous and fun style, this production is full to bursting with joyful weirdness and perfectly captures the strange and wonderful essence that is central to the original Lewis Carroll stories.
 
 Clocking in at about 55 minutes, this bit-sized, child-friendly opera is perfect for a family outing. It’s outrageous, laugh-out-loud humour can be enjoyed by all ages. There is no doubt that Barry has created a masterpiece of modern opera. His frenetic, ambitious writing does not feel overly academic or unapproachable; there is a slightly wild and surprising nature to his music which immerses the listener into the world that McDonald has created onstage.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581538582/media/2020/02/0002ClaudiaBoyleasAliceROH2020_jpsr3k.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Claudia Boyle as Alice in Alice's Adventures Under Ground, ROH, 2020. Photo by Clive Barda.</figcaption>
 
 </figure>
 
 In a nod to Victorian toy theatre, the entire set is built to look like a small stage with its own proscenium within the larger space of the mainstage where most of action takes place, almost giving the impression that we are watching a puppet show. Indeed, much of the costuming includes some clever puppeteering to aid in bringing these colourful characters to life. With its beautiful illustrated backdrops, and exaggerated Victorian costume pieces which harken back to Disney’s 1951 animated feature film and Sir John Tenniel’s original illustrations, everything about this production feels just as it should; this is very much the Alice we all grew up with.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581538720/media/2020/02/0018AlicesAdventuresUnderGroundProductionimageROH2020_h1l5t8.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Claudia Boyle as Alice in Alice's Adventures Under Ground, ROH, 2020. Photo by Clive Barda.</figcaption>
 
 </figure>
 
@@ -40,9 +39,9 @@ Soprano Claudia Boyle - who shares the role with soprano Jennifer France in this
 
 The orchestra, led by conductor Thomas Adès, takes on an undeniably prominent role in this opera. Barry’s orchestral writing pulses with a furious energy. Thick texture, and incessant, acrobatic repetition is broken up by the occasional but carefully placed silence when the singers are left on their own to declaim their text in Sprechstimme. These virtual silences in contrast to the chaotic swarm of a richly textured orchestra paired with half shouted singing, creates an electric and maddening narrative.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581538761/media/2020/02/0160AlicesAdventuresUnderGroundProductionimageROH2020_pxh6dw.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Alice's Adventures Under Ground, ROH, 2020. Photo by Clive Barda.</figcaption>
 
 </figure>
 
