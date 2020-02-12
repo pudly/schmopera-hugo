@@ -1,7 +1,7 @@
 +++
 author = ["authors/meghan-klinkenborg.md"]
 categories = "Review"
-date = 2020-02-08T05:00:00Z
+date = 2020-02-11T05:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "Opera Omaha's production of [_The Abduction from the Seraglio_](https://www.operaomaha.org/season-tickets/current-season/2020/the-abduction-from-the-seraglio) runs through February 9."
