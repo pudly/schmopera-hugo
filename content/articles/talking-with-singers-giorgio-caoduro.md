@@ -30,6 +30,12 @@ The thing that I would have definitely not expected 10 years ago is how hard the
 
 Of course this is not always the case, there are a lot of artistic directors that appreciate and respect experience and craft, but I’ve come to the conclusion that if it’s hard to get to a high level of career, it’s much harder to remain at that level. I call myself very lucky that I’m still doing this job at an high international level and I have to thank the patience and the hard work that I’ve been putting into it.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581622225/media/2020/02/GiorgioCaoduro-Belcore-TeatroallaScala_po2zy2.jpg){{% /md %}}
+
+<figcaption>Giorgio Caoduro as Belcore in L'elisir d'amore, Teatro alla Scala, 2010.</figcaption>
+
+</figure>
+
 ## As an Italian singer, what kind of unique connection do you have to Italian opera?
 
 I always say that as an opera singer ,being born in Italy makes me very lucky. More than half of the entire repertoire is in my language and this, trust me, makes my life so much easier! Jokes aside, I believe that only a native speaker can really savour every single word is saying, and catch all the nuances that the librettist "paints" in his storytelling. 
@@ -41,6 +47,12 @@ That said, if we talk on an emotional level, I think that opera speaks a univers
 I think that being an opera singer is extremely cathartic and lets you be something that you wouldn't dare to dream to be in real life. In every day life I'm not a very extrovert person, I'm kind of shy, because somehow I never want to drive to much attention on me and I don't want people to think that I'm trying too hard to be funny or to be likable. There are in fact a couple of roles which I performed countless times which let me be just the opposite on stage. 
 
 Dandini (from Rossini's _Cenerentola_) and Figaro (from Rossini's _Barber of Seville_) are actually the quintessential likable characters. They are very histrionic and the only ones in the respective operas that break the fourth wall to communicate directly with the audience. When I play those two characters I feel I can be as extrovert and funny as I want to without fearing to be judged.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581622194/media/2020/02/GiorgioCaoduro-Figaro-TeatroallaScala_dtlcp1.jpg){{% /md %}}
+
+<figcaption>Giorgio Caoduro as Figaro in Il barbiere di Siviglia, Teatro Alla Scala, 2010.</figcaption>
+
+</figure>
 
 ## If you didn't sing for a living, what would you do instead?
 
