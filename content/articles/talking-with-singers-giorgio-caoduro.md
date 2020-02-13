@@ -6,7 +6,7 @@ disclaimer = ""
 draft = true
 image_gallery = []
 postamble = ""
-preamble = ""
+preamble = "Italian baritone Giorgio Caoduro is set to sing Guy de Montfort in David Pountney's production of _Les vêpres siciliennes_ at Welsh National Opera. Performances start in Cardiff on 15 February, and tour through May to Llandudno, Bristol, Southampton, Milton Keynes, Plymouth, and Birmingham.\n\nWe spoke with Caoduro about falling in love with opera via cassette tape, "
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1581622127/media/2020/02/GiorgioCaoduro_jnslnl.jpg"
 primary_image_credit = ""
 related_articles = []
@@ -26,7 +26,7 @@ I fell in love right away for the voices, especially the low voices. I remember 
 
 ## What do you know now about the singing career that you wish you knew 10 years ago?
 
-The thing that I would have definitely not expected 10 years ago is how hard the career gets in your late thirties. At some point you're not the latest product on the market anymore, and unless you’ve become a star (and let’s face it, only a handful amongst thousands of singers become stars) agents and casting managers will start to look for something new, younger and cheaper singers.
+The thing that I would have definitely not expected 10 years ago is how hard the career gets in your late thirties. At some point you're not the latest product on the market anymore, and unless you’ve become a star (and let’s face it, only a handful among thousands of singers become stars) agents and casting managers will start to look for something new, younger and cheaper singers.
 
 Of course this is not always the case, there are a lot of artistic directors that appreciate and respect experience and craft, but I’ve come to the conclusion that if it’s hard to get to a high level of career, it’s much harder to remain at that level. I call myself very lucky that I’m still doing this job at an high international level and I have to thank the patience and the hard work that I’ve been putting into it.
 
@@ -38,7 +38,7 @@ Of course this is not always the case, there are a lot of artistic directors tha
 
 ## As an Italian singer, what kind of unique connection do you have to Italian opera?
 
-I always say that as an opera singer ,being born in Italy makes me very lucky. More than half of the entire repertoire is in my language and this, trust me, makes my life so much easier! Jokes aside, I believe that only a native speaker can really savour every single word is saying, and catch all the nuances that the librettist "paints" in his storytelling. 
+I always say that as an opera singer, being born in Italy makes me very lucky. More than half of the entire repertoire is in my language and this, trust me, makes my life so much easier! Jokes aside, I believe that only a native speaker can really savour every single word is saying, and catch all the nuances that the librettist "paints" in his storytelling. 
 
 That said, if we talk on an emotional level, I think that opera speaks a universal language that can touch everyone despite their nationality.
 
