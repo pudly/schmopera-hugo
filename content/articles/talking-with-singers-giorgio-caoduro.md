@@ -26,16 +26,22 @@ I fell in love right away for the voices, especially the low voices. I remember 
 
 ## What do you know now about the singing career that you wish you knew 10 years ago?
 
-The thing that I would have definitely not expected 10 years ago is how hard the career gets in your late thirties. At some point you’re not anymore the latest product on the market and unless you’ve become a star (and let’s face it, only a handful amongst thousands of singers become stars) agents and casting managers will start to look for something new, younger and cheaper singers. Of course this is not always the case, there are a lot of artistic directors that appreciate and respect experience and craft, but I’ve come to the conclusion that if it’s hard to get to a high level of career, it’s much harder to remain at that level. I call myself very lucky that I’m still doing this job at an high international level and I have to thank the patience and the hard work that I’ve been putting on it.
+The thing that I would have definitely not expected 10 years ago is how hard the career gets in your late thirties. At some point you're not the latest product on the market anymore, and unless you’ve become a star (and let’s face it, only a handful amongst thousands of singers become stars) agents and casting managers will start to look for something new, younger and cheaper singers.
 
-• As an Italian singer, what kind of unique connection do you have to Italian opera?
+Of course this is not always the case, there are a lot of artistic directors that appreciate and respect experience and craft, but I’ve come to the conclusion that if it’s hard to get to a high level of career, it’s much harder to remain at that level. I call myself very lucky that I’m still doing this job at an high international level and I have to thank the patience and the hard work that I’ve been putting into it.
 
-I always say that as an opera singer being born in Italy makes me very lucky. More than half of the entire repertoire is in my language and this, trust me, makes my life so much easier! Jokes aside, I believe that only a native speaker can really savor every single word is saying, and catch all the nuances that the librettist “paints” in his storytelling. That said if we talk on an emotional level I think that Opera speaks a universal language that can touch everyone despite their nationality.
+## As an Italian singer, what kind of unique connection do you have to Italian opera?
 
-• Out of the roles you have sung, with which do you find the closest connection?
+I always say that as an opera singer ,being born in Italy makes me very lucky. More than half of the entire repertoire is in my language and this, trust me, makes my life so much easier! Jokes aside, I believe that only a native speaker can really savour every single word is saying, and catch all the nuances that the librettist "paints" in his storytelling. 
 
-I think that being an opera singer is extremely cathartic and lets you be something that you wouldn’t dare to dream to be in real life. In every day life I’m not a very extrovert person, I’m kind of shy, because somehow I never want to drive to much attention on me and I don’t want people to think that I’m trying too hard to be funny or to be likable. There are infact a couple of roles which I performed countless times which let me be on stage just the opposite of this. Dandini (from Rossini’s Cenerentola) and Figaro (from Rossini’s Barber of Seville) are actually the quintessential likable characters. They are very histrionic and the only ones in the respective operas that break the fourth wall to communicate directly with the audience. When I play those two characters I feel I can be as extrovert and funny as I want to without fearing to be judged.
+That said, if we talk on an emotional level, I think that opera speaks a universal language that can touch everyone despite their nationality.
 
-• If you didn't sing for a living, what would you do instead?
+## Out of the roles you have sung, with which do you find the closest connection?
 
-No doubt about it! I would definitely teach. I think I have very good ear to detect the issues that a voice has, and I really like to use my stage experience to explore ways to solve them. I also had the luck to work with the greatest stars and conductors of our generation and I learnt so much from them, artistically and stylistically speaking, and I’m ready to pass on all this precious knowledge.
+I think that being an opera singer is extremely cathartic and lets you be something that you wouldn't dare to dream to be in real life. In every day life I'm not a very extrovert person, I'm kind of shy, because somehow I never want to drive to much attention on me and I don't want people to think that I'm trying too hard to be funny or to be likable. There are in fact a couple of roles which I performed countless times which let me be just the opposite on stage. 
+
+Dandini (from Rossini's _Cenerentola_) and Figaro (from Rossini's _Barber of Seville_) are actually the quintessential likable characters. They are very histrionic and the only ones in the respective operas that break the fourth wall to communicate directly with the audience. When I play those two characters I feel I can be as extrovert and funny as I want to without fearing to be judged.
+
+## If you didn't sing for a living, what would you do instead?
+
+No doubt about it, I would definitely teach. I think I have very good ear to detect the issues that a voice has, and I really like to use my stage experience to explore ways to solve them. I also had the luck to work with the greatest stars and conductors of our generation and I learnt so much from them, artistically and stylistically speaking, and I’m ready to pass on all this precious knowledge.
