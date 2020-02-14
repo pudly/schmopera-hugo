@@ -13,8 +13,8 @@ related_articles = []
 related_companies = ["scene/companies/san-francisco-opera.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/staatsoper-berlin.md", "scene/companies/the-dallas-opera.md", "scene/companies/opra-national-de-paris.md", "scene/companies/glyndebourne.md", "scene/companies/welsh-national-opera.md", "scene/companies/teatro-alla-scala.md"]
 related_people = []
 short_description = ""
-slug = "giorgio-caodura"
-title = "Giorgio Caodura"
+slug = "giorgio-caoduro"
+title = "Giorgio Caoduro"
 website = "http://www.giorgiocaoduro.com/en/"
 youtube_url = ""
 [[social_media]]
