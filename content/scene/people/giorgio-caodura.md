@@ -33,4 +33,4 @@ He recently appeared in the TV production "Rigoletto in Mantua" featuring Placid
 
 He is the recipient of the 2012 Green Room Award for best Opera Male Principal.
 
-He appears in the Dvd of "L'Italiana in Algeri" from the Aix en Provence Festival by BelAir Classic, in the Dvd and Cd of "Il Borgomastro di Saardam" from Bergamo's Donizetti Festival published by Dynamic and in the Cd of "La grotta di Trofonio" from Martina Franca published by Dynamic.
+He appears in the DVD of _L'Italiana in Algeri_ from the Aix en Provence Festival by BelAir Classic, in the DVD and CD of _Il Borgomastro di Saardam_ from Bergamo's Donizetti Festival published by Dynamic and in the CD of _La grotta di Trofonio_ from Martina Franca published by Dynamic.
