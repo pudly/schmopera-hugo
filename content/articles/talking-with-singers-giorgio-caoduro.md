@@ -1,7 +1,7 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Review"
-date = 2020-02-12T05:00:00Z
+date = 2020-02-13T05:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "Welsh National Opera's [production of _Les vêpres siciliennes_](https://wno.org.uk/whats-on/les-v%C3%AApres-siciliennes-verdi#overview) runs 15 February through 9 May, touring from Cardiff to Birmingham."
