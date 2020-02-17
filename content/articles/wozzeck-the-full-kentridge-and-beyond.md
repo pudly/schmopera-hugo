@@ -61,6 +61,8 @@ There was a different kind of beauty to be experienced in 2012 when London's Phi
 
 Marie, sung by Angela Denoke, who knows her way around Berg having sung Lulu's cohort/victim, Gräfin Geschwitz in Vienna and Hamburg, stayed on her mark as Keenlyside literally lurched around her. So convincing were their abrupt movement and grotesque gesturing that any additional theatrical embellishment seemed unnecessary, even unwelcome. Keenlyside emerged a broken but pitch-perfect wild man. Denoke maintained a lustrous sound but was hard as nails. The orchestra was blazingly bright with sharp edges and dissonance overriding romanticism. Salonen and the Philharmonia seemed to thrive on the atonality. The results were brilliant. How different the effect of the full Kentridge was from this straightforward and explosive concert.
 
+> 
+
 There is no doubt that Berg's composition comes through vividly whether in staged or concert form. Some may argue that less is more, that this stark opera should stand on its own free of encompassing theatrical effect, but it would be reductive thinking to disregard the visually absorbing and thought-provoking experience that a full Kentridge provides. Others might think that such a challenging opera requires theatrical effect to make it more accessible. Quite simply it doesn't. But that doesn't mean there isn't room for experimentation.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581897701/media/2020/02/Wozzeck12_cvl9bw.jpg){{% /md %}}
@@ -70,6 +72,8 @@ There is no doubt that Berg's composition comes through vividly whether in stage
 </figure>
 
 For the listener, alone with whatever device that is producing the sound, _Wozzeck_ sits well on the ear, especially when some familiarity is developed with its 15 scenes arranged over three acts. In fact unfettered of anything but the voices and music, the listener becomes more aware of a distinct orchestral approach and vocal interpretations. True, it's not the same as being there. But it does approach being in there. If anything can counter the depressive themes of _Wozzeck_, it's an imagination spurred by the richness of the work.
+
+> _Wozzeck_ doesn't gather dust nor does it induce a speck of nostalgia
 
 Over the years I have taken to a 1959 live recording of a performance presented on tour in Edinburgh by the Royal Swedish Opera with Sixten Ehrling leading an all Swedish cast. This is a straightforward and articulate reading of the score, the kind we expect from Ehrling, void of mannerism and at ease with its dissonance and romanticism. Perhaps because this was a touring production the Swedish company gave Anders Naslund, a relatively unknown baritone, the opportunity to sing the title role. Marie was sung by the celebrated soprano, Elizabeth Söderström who provided a potent dash of national pride in addition to her abundant sound and intelligent acting. Naslund and Söderström are exquisitely matched, he with a dark, dusty and yearning sound and she in glistening command. Naslund projects a touching vulnerability as Söderström grows in force. They are as star-crossed a tragic pair as one can imagine. Ehrling's assured conducting completes the mental picture. Therein lies the listening pleasure of this recording.
 
