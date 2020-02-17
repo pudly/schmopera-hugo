@@ -3,15 +3,14 @@ author = ["authors/john-hohmann.md"]
 categories = "Review"
 date = 2020-02-16T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1581897478/media/2020/02/sqWozzeck-NaslundEMR_kvhocy.jpg"
 primary_image_credit = "Baritone Anders Naslund as he appeared in the Royal Swedish Opera's 1959 production on Alban Berg’s “Wozzeck,” on tour in Edinburgh, Scotland. Photo Royal Swedish Opera/Enar Merkel Rydberg."
-related_articles = []
-related_companies = []
-related_people = []
+related_articles = ["articles/talking-with-singers-christopher-purves.md", "articles/wozzeck.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md"]
+related_people = ["scene/people/elza-van-den-heever.md"]
 short_description = "Whether as an artfully conceived full production, one taking place on the lip of a stage or a performance existing only in our ears and imagination, Wozzeck is a keeper."
 slug = "wozzeck-the-full-kentridge-and-beyond"
 title = "Wozzeck: The Full Kentridge and Beyond"
@@ -74,9 +73,9 @@ For the listener, alone with whatever device that is producing the sound, _Wozze
 
 Over the years I have taken to a 1959 live recording of a performance presented on tour in Edinburgh by the Royal Swedish Opera with Sixten Ehrling leading an all Swedish cast. This is a straightforward and articulate reading of the score, the kind we expect from Ehrling, void of mannerism and at ease with its dissonance and romanticism. Perhaps because this was a touring production the Swedish company gave Anders Naslund, a relatively unknown baritone, the opportunity to sing the title role. Marie was sung by the celebrated soprano, Elizabeth Söderström who provided a potent dash of national pride in addition to her abundant sound and intelligent acting. Naslund and Söderström are exquisitely matched, he with a dark, dusty and yearning sound and she in glistening command. Naslund projects a touching vulnerability as Söderström grows in force. They are as star-crossed a tragic pair as one can imagine. Ehrling's assured conducting completes the mental picture. Therein lies the listening pleasure of this recording.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1581897758/media/2020/02/Wozzeck-SixtenEhrling-DetroitSymphonyOrchestra_dkv2gc.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Sixten Ehrling conducted the Royal Swedish Opera production of Alban Berg’s “Wozzeck” on a 1959 tour in Edinburgh, Scotland with an all Swedish cast featuring Anders Naslund in the title role and Elizabeth Söderström as Marie. Photo courtesy the Detroit Symphony Orchestra.</figcaption>
 
 </figure>
 
