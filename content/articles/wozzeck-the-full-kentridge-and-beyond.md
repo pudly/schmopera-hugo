@@ -61,7 +61,7 @@ There was a different kind of beauty to be experienced in 2012 when London's Phi
 
 Marie, sung by Angela Denoke, who knows her way around Berg having sung Lulu's cohort/victim, Gräfin Geschwitz in Vienna and Hamburg, stayed on her mark as Keenlyside literally lurched around her. So convincing were their abrupt movement and grotesque gesturing that any additional theatrical embellishment seemed unnecessary, even unwelcome. Keenlyside emerged a broken but pitch-perfect wild man. Denoke maintained a lustrous sound but was hard as nails. The orchestra was blazingly bright with sharp edges and dissonance overriding romanticism. Salonen and the Philharmonia seemed to thrive on the atonality. The results were brilliant. How different the effect of the full Kentridge was from this straightforward and explosive concert.
 
-> 
+> Some may argue that less is more, that this stark opera should stand on its own free of encompassing theatrical effect.
 
 There is no doubt that Berg's composition comes through vividly whether in staged or concert form. Some may argue that less is more, that this stark opera should stand on its own free of encompassing theatrical effect, but it would be reductive thinking to disregard the visually absorbing and thought-provoking experience that a full Kentridge provides. Others might think that such a challenging opera requires theatrical effect to make it more accessible. Quite simply it doesn't. But that doesn't mean there isn't room for experimentation.
 
