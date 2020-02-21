@@ -17,7 +17,7 @@ title = "A bubble-gum sweet Barber in Vancouver"
 youtube_url = ""
 
 +++
-Vancouver Opera’s second offering this season is a colourful re-imagining of [_The Barber of Seville_](https://www.vancouveropera.ca/the-barber-of-seville/). Resplendent in an artistic, Art Nouveau-meets-anime set, with pops of colour throughout, the set and production design is fun and light, and this is reflected throughout the entire show.
+[Vancouver Opera](/scene/companies/vancouver-opera/)'s second offering this season is a colourful re-imagining of [_The Barber of Seville_](https://www.vancouveropera.ca/the-barber-of-seville/). Resplendent in an artistic, Art Nouveau-meets-anime set, with pops of colour throughout, the set and production design is fun and light, and this is reflected throughout the entire show.
 
 Starting with the men’s chorus, hired by Almaviva to serenade Rosina under her window, they staged a mock orchestra, full of great moments of physical comedy and mayhem. [Isaiah Bell](/scene/people/isaiah-bell/) as Count Almaviva was brilliant, vocally inventive with incredible coloratura that was crisp and precise, and great comedic moments in his various disguises that were silly, fun, or ridiculous in equal measure.
 
