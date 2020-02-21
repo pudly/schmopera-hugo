@@ -1,20 +1,19 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Interview"
-date = 2020-02-18T05:00:00Z
+date = 2020-02-20T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Eszter Balogh performs with the [London Handel Orchestra](https://wigmore-hall.org.uk/whats-on/london-handel-orchestra-202003101930) on 10 March, and appears [in recital](https://www.london-handel-festival.com/show/recital-eszter-balogh-hsc-2019-winner/?event=13803) on 15 March."
-preamble = "Nearly a year after her win at the 2019 Handel Singing Competition, Transylvanian mezzo-soprano [Eszter Balogh](/scene/people/eszter-balogh/) is looking forward to more from the 18th-century operatic titan. \n\nAt this year's [London Handel Festival](https://www.london-handel-festival.com/), Balogh joins Adrian Butterfield and the London Handel Orchestra for a concert presentation of [_Parnasso in Festa_](https://wigmore-hall.org.uk/whats-on/london-handel-orchestra-202003101930), 10 March at Wigmore Hall. And on 15 March, she'll give a [recital of Handel and Vivaldi]() at St. George's, Hanover Square.\n\nWe spoke with Balogh about what good singing feels like, and why Handel is an excellent teacher."
+preamble = "Nearly a year after her win at the 2019 Handel Singing Competition, Hungarian mezzo-soprano [Eszter Balogh](/scene/people/eszter-balogh/) is looking forward to more from the 18th-century operatic titan.\n\nAt this year's [London Handel Festival](https://www.london-handel-festival.com/), Balogh joins Adrian Butterfield and the London Handel Orchestra for a concert presentation of [_Parnasso in Festa_](https://wigmore-hall.org.uk/whats-on/london-handel-orchestra-202003101930), 10 March at Wigmore Hall. And on 15 March, she'll give a [recital of Handel and Vivaldi]() at St. George's, Hanover Square.\n\nWe spoke with Balogh about what good singing feels like, and why Handel is an excellent teacher."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1582079939/media/2020/02/sqEszterBalogh_fmljrz.jpg"
 primary_image_credit = ""
 related_articles = ["articles/spotlight-on-stephanie-tritchew.md", "articles/spotlight-on-emily-edmonds.md", "articles/talking-with-directors-jennifer-williams.md"]
 related_companies = []
 related_people = []
 short_description = "When I tell them I am a classical singer they generally know what it is. Sometimes they stare at me and say, \"Wow, that’s crazy, you mean like Paul Potts?\" And I'll say, “Yeah, something like that.\""
-slug = "talking-with-singers-eszter-balogh"
-title = "Talking with singers: Eszter Balogh"
+slug = "spotlight-on-eszter-balogh"
+title = "Spotlight on: Eszter Balogh"
 youtube_url = ""
 
 +++
