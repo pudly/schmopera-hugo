@@ -67,6 +67,6 @@ The libretto does a good job of keeping the work personal, not venturing too far
 
 </figure>
 
-The set (designed by Camillia Koo) is fairly unimaginative, but it does a great job of evoking a sense of variety while using many of the same props—a clever solution to filling the Betty Oliphant Theatre stage with just two bodies. The lighting design (Bonnie Beecher) too contributes significantly to the intimacy that the show never lost, keeping our attention in the fore-most front of the stage while maintaining a sense of depth with the dynamic pieces of the set in the background. All in all, this is a production that knows how to make a lot out of a little, a feat owed to Breckenridge's prowess and Haimovitz's facility; and, crucially, it never loses its focus on the centrality of the music.
+The set (designed by Camellia Koo) is fairly unimaginative, but it does a great job of evoking a sense of variety while using many of the same props—a clever solution to filling the Betty Oliphant Theatre stage with just two bodies. The lighting design (Bonnie Beecher) too contributes significantly to the intimacy that the show never lost, keeping our attention in the fore-most front of the stage while maintaining a sense of depth with the dynamic pieces of the set in the background. All in all, this is a production that knows how to make a lot out of a little, a feat owed to Breckenridge's prowess and Haimovitz's facility; and, crucially, it never loses its focus on the centrality of the music.
 
 So yes: go for the music, stay for everything else.
