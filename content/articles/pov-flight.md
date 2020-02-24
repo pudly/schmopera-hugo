@@ -24,7 +24,7 @@ The story is very loosely based on the story of [Mehran Karimi Nasseri](https://
 
 In _Flight_, the characters arrive at the airport one by one, en route to their various destinations, and bringing their various problems with them. As all flights are cancelled due to a huge storm, and the passengers are stranded in the airport, their problems come to the forefront and are highlighted by each character in turn.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1582570251/media/2020/02/POVFlightFlight_0145_pzjsis.jpg){{% /md %}}
 
 <figcaption>Pacific Opera Victoria presents the national premiere of Flight at Victoria's Royal Theatre, February 20 - March 1, 2020. Photo: David Cooper Photography.</figcaption>  
 </figure>
@@ -35,7 +35,7 @@ Dove's score is very post-minimalist in style, and borrows from several themes o
 
 As the Controller, [Sharleen Joynt](/scene/people/sharleen-joynt/) was stellar. Singing a stratospherically high part with absolute ease, it was hard to tell that that kind of range should actually be difficult. As the Refugee (most characters are not named), countertenor William Towers performed as an awkward character, feeling very removed and Other in comparison to the other characters, which made their discomfort with him seem very genuine.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1582570265/media/2020/02/POVFlightFlight_0122_rmdyca.jpg){{% /md %}}
 
 <figcaption>Pacific Opera Victoria presents the national premiere of Flight at Victoria's Royal Theatre, February 20 - March 1, 2020. Photo: David Cooper Photography.</figcaption>  
 </figure>
