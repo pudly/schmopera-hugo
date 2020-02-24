@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1582569947/media/2020/02/sqPOVFLightFlight_0174_ixyoy6.jpg"
-primary_image_credit = "William Towers as the Refugee in Pacific Opera Victoria's production of Flight at Victoria's Royal Theatre, Feb. 20-Mar. 1, 2020."
+primary_image_credit = "William Towers as the Refugee in Pacific Opera Victoria's national premiere of Flight at Victoria's Royal Theatre, Feb. 20-Mar. 1, 2020."
 related_articles = []
 related_companies = []
 related_people = []
@@ -37,7 +37,7 @@ As the Controller, [Sharleen Joynt](/scene/people/sharleen-joynt/) was stellar. 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1582570265/media/2020/02/POVFlightFlight_0122_rmdyca.jpg){{% /md %}}
 
-<figcaption>Pacific Opera Victoria presents the national premiere of Flight at Victoria's Royal Theatre, February 20 - March 1, 2020. Photo: David Cooper Photography.</figcaption>  
+<figcaption>Sharleen Joynt as the Controller in Pacific Opera Victoria's national premiere of Flight at Victoria's Royal Theatre, Feb. 20-Mar. 1, 2020. Photo: David Cooper Photography.</figcaption>  
 </figure>
 
 The Minskwoman, performed by mezzo-soprano [Allyson McHardy](/scene/people/allyson-mchardy/), had a great moment near the end of the show where she comes to terms with her life. McHardy's voice was beautiful and smooth, and her interpretation was very sad and poignant about her feeling lost in her own choices. As her husband, Minskman, bass-baritone [Neil Craighead](/talking-with-singers-neil-craighead/) was powerful and wonderfully resonant, with great stage presence and sincerity.
