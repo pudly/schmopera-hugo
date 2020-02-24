@@ -35,14 +35,29 @@ Dove's score is very post-minimalist in style, and borrows from several themes o
 
 As the Controller, [Sharleen Joynt](/scene/people/sharleen-joynt/) was stellar. Singing a stratospherically high part with absolute ease, it was hard to tell that that kind of range should actually be difficult. As the Refugee (most characters are not named), countertenor William Towers performed as an awkward character, feeling very removed and Other in comparison to the other characters, which made their discomfort with him seem very genuine.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
+
 The Minskwoman, performed by mezzo-soprano [Allyson McHardy](/scene/people/allyson-mchardy/), had a great moment near the end of the show where she comes to terms with her life. McHardy's voice was beautiful and smooth, and her interpretation was very sad and poignant about her feeling lost in her own choices. As her husband, Minskman, bass-baritone [Neil Craighead](/talking-with-singers-neil-craighead/) was powerful and wonderfully resonant, with great stage presence and sincerity.
 
 The entire ensemble was well cast, full of beautiful voices who tackled a very difficult score with great artistry. The Act I ensemble number was particularly lovely, I only wish it had lasted longer.
 
 The score was brought to life with consummate skill by conductor Timothy Vernon. With a complex, layered, dynamic piece to conduct, Vernon kept the entire ensemble and orchestra together with dozens of difficult cues and precise pieces of timing.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
+
 Unfortunately the cast were hampered by a less-than-stellar libretto, and a story where very little actually happens. As the characters go through their various struggles, they either resolve them without any major reason, or fail to resolve them and simply board their flight. The Refugee's narrative isn't shown until the final scene, at which point it feels far too late to feel the sympathy for his plight that the story and character deserve.
 
-The plot also had many sex jokes, including having the flight staff having sex on the counter right in front of all the passengers for no real reason, and a gay sex scene later in the 2. Both of these seemed very crude, and seemed to exist solely as punch lines, rather than being moments that were earned by the narrative. The gay relationship comes out of nowhere, and felt like it was meant to be entirely transgressive, rather than anything genuine or sincere. Everyone laughs at it, and then the character goes back to his wife after she finds out, and they simply board their place together as if nothing had happened.
+The plot also had many sex jokes, including having the flight staff having sex on the counter right in front of all the passengers for no real reason, and a gay sex scene later in the*** 2. Both of these seemed very crude, and seemed to exist solely as punchlines, rather than being moments that were earned by the narrative. The gay relationship comes out of nowhere, and felt like it was meant to be entirely transgressive, rather than anything genuine or sincere. Everyone laughs at it, and then the character goes back to his wife after she finds out, and they simply board their place together as if nothing had happened.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
 
 In general, the show felt like a series of vignettes, rather than any cohesive story. The characters didn’t really change or grow during the course of events, and don’t feel as sympathetic as they should have given the talent and effort all the performers were putting forward.
