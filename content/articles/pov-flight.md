@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1582569947/media/2020/02/sqPOVFLightFlight_0174_ixyoy6.jpg"
-primary_image_credit = ""
+primary_image_credit = "William Towers as the Refugee in Pacific Opera Victoria presents the national premiere of Flight at Victoria&#39;s Royal\nTheatre, February 20 - March 1, 2020."
 related_articles = []
 related_companies = []
 related_people = []
@@ -26,7 +26,7 @@ In _Flight_, the characters arrive at the airport one by one, en route to their 
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Pacific Opera Victoria presents the national premiere of Flight at Victoria's Royal Theatre, February 20 - March 1, 2020. Photo: David Cooper Photography.</figcaption>  
 </figure>
 
 At the center of this is the Refugee, whose story we aren't told until the very end of the show while he aimlessly wanders around the airport, and the Controller, who stands in the control tower and varies between commenting on the story, and announcing the status of the flights.
@@ -37,7 +37,7 @@ As the Controller, [Sharleen Joynt](/scene/people/sharleen-joynt/) was stellar. 
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Pacific Opera Victoria presents the national premiere of Flight at Victoria's Royal Theatre, February 20 - March 1, 2020. Photo: David Cooper Photography.</figcaption>  
 </figure>
 
 The Minskwoman, performed by mezzo-soprano [Allyson McHardy](/scene/people/allyson-mchardy/), had a great moment near the end of the show where she comes to terms with her life. McHardy's voice was beautiful and smooth, and her interpretation was very sad and poignant about her feeling lost in her own choices. As her husband, Minskman, bass-baritone [Neil Craighead](/talking-with-singers-neil-craighead/) was powerful and wonderfully resonant, with great stage presence and sincerity.
@@ -48,7 +48,7 @@ The score was brought to life with consummate skill by conductor Timothy Vernon.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Pacific Opera Victoria presents the national premiere of Flight at Victoria's Royal Theatre, February 20 - March 1, 2020. Photo: David Cooper Photography.</figcaption>  
 </figure>
 
 Unfortunately the cast were hampered by a less-than-stellar libretto, and a story where very little actually happens. As the characters go through their various struggles, they either resolve them without any major reason, or fail to resolve them and simply board their flight. The Refugee's narrative isn't shown until the final scene, at which point it feels far too late to feel the sympathy for his plight that the story and character deserve.
@@ -57,7 +57,7 @@ The plot also had many sex jokes, including having the flight staff having sex o
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Pacific Opera Victoria presents the national premiere of Flight at Victoria's Royal Theatre, February 20 - March 1, 2020. Photo: David Cooper Photography.</figcaption>  
 </figure>
 
 In general, the show felt like a series of vignettes, rather than any cohesive story. The characters didn’t really change or grow during the course of events, and don’t feel as sympathetic as they should have given the talent and effort all the performers were putting forward.
