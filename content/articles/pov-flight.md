@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1582569947/media/2020/02/sqPOVFLightFlight_0174_ixyoy6.jpg"
-primary_image_credit = "William Towers as the Refugee in Pacific Opera Victoria presents the national premiere of Flight at Victoria&#39;s Royal\nTheatre, February 20 - March 1, 2020."
+primary_image_credit = "William Towers as the Refugee in Pacific Opera Victoria's production of Flight at Victoria's Royal Theatre, Feb. 20-Mar. 1, 2020."
 related_articles = []
 related_companies = []
 related_people = []
@@ -46,7 +46,7 @@ The entire ensemble was well cast, full of beautiful voices who tackled a very d
 
 The score was brought to life with consummate skill by conductor Timothy Vernon. With a complex, layered, dynamic piece to conduct, Vernon kept the entire ensemble and orchestra together with dozens of difficult cues and precise pieces of timing.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1582570192/media/2020/02/POVFlightFlight_0729_yj0unx.jpg){{% /md %}}
 
 <figcaption>Pacific Opera Victoria presents the national premiere of Flight at Victoria's Royal Theatre, February 20 - March 1, 2020. Photo: David Cooper Photography.</figcaption>  
 </figure>
@@ -55,7 +55,7 @@ Unfortunately the cast were hampered by a less-than-stellar libretto, and a stor
 
 The plot also had many sex jokes, including having the flight staff having sex on the counter right in front of all the passengers for no real reason, and a gay sex scene later in the*** 2. Both of these seemed very crude, and seemed to exist solely as punchlines, rather than being moments that were earned by the narrative. The gay relationship comes out of nowhere, and felt like it was meant to be entirely transgressive, rather than anything genuine or sincere. Everyone laughs at it, and then the character goes back to his wife after she finds out, and they simply board their place together as if nothing had happened.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1582570170/media/2020/02/POVFlightFlight_07131_imzqun.jpg){{% /md %}}
 
 <figcaption>Pacific Opera Victoria presents the national premiere of Flight at Victoria's Royal Theatre, February 20 - March 1, 2020. Photo: David Cooper Photography.</figcaption>  
 </figure>
