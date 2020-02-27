@@ -13,7 +13,7 @@ related_companies = ["scene/companies/pacific-opera-victoria.md"]
 related_people = ["scene/people/jacqueline-woodley.md", "scene/people/john-brancy.md", "scene/people/allyson-mchardy.md", "scene/people/sharleen-joynt.md"]
 short_description = "In Flight, the characters arrive at the airport one by one, en route to their various destinations, and bringing their various problems with them. As all flights are cancelled due to a huge storm, and the passengers are stranded in the airport, their problems come to the forefront and are highlighted by each character in turn. "
 slug = "well-cast-vignettes-in-povs-flight"
-title = "Well-cast Vignettes in POV's Flight"
+title = "Well-cast vignettes in POV's Flight"
 youtube_url = ""
 
 +++
