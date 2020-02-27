@@ -4,9 +4,16 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1582774541/m
 primary_image_credit = "Benjamin Ealovegathe"
 related_companies = []
 slug = "helen-charleston"
-social_media = []
 title = "Helen Charleston"
 website = "https://www.helencharlston.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/helencharlstonmezzo"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/helencharlston"
 
 +++
 Recent concert highlights include debuts with the Royal Liverpool Philharmonic Orchestra (Handel Messiah/Stephen Layton), Royal Northern Sinfonia (Mendelssohn Lobgesang/Paul McCreesh) and at the Palau de la Musica in Barcelona (Bach Matthew Passion/Gabrieli Consort and Players); a worldwide tour of Handel Messiah with the Seattle Symphony, the Western Australian Symphony Orchestra and Adelaide Symphony Orchestra; performances as part of Barbican Sound Unbound 2019 and solo recitals at York Early Music Festival, London Handel Festival, Händel-festspiele Halle, Korčula Baroque Festival, Leicester International Music Festival and Fitzrovia Festival.
