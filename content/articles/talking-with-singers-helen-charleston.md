@@ -26,7 +26,13 @@ Being a professional musician is a hugely rewarding career. It is collaborative,
 
 "Good singing" is getting the very best out of your voice; a partnership between a solid technique and a need to let your voice be heard. We all only have our own sound, and there is nothing more thrilling than listening to singers who let their voice flood out direct to our hearts. Singing should be free and liberating for both the performer and the audience. I feel strong, powerful and extremely connected to the music when I achieve that: almost invincible and ready for anything!
 
-##  What do young singers need to do more of? What should they do less of?
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
+## What do young singers need to do more of? What should they do less of?
 
 I think there are no hard or fast rules. Every career and voice develops differently, and probably the most important thing that everyone could do more of (and I really need to remind myself to practice what I preach here) is patience, and trust in our own skill and hard work to move us forward. That said, I would also advocate saying yes to everything you can: you’ve no idea what door one opportunity might open, or what you might learn from the other performers around you. There is no better way to learn that by doing – I am continually inspired by the people with whom I share the stage, watching them is some of the best education you can get.
 
@@ -35,6 +41,12 @@ I think there are no hard or fast rules. Every career and voice develops differe
 Handel’s music is immensely fun to sing, it sits under the voice so well and every time I come back to Handel its like coming home. Technically, of course, it is not easy music often requiring extended passages of coloratura or extremely expansive hushed lines. One of the real pleasure though is that often throughout his operas, each character gets to follow all the different character tropes and the relevant music styles that relate (the fiery vengeful arias, slow plaintive melancholy of a lost love, bubbling excitement of a new desire just to name a few) and so you feel that you go through a wonderful journey dramatically and musically.
 
 One of the unique challenges to my voice part is the prevalence of trouser roles. I’m tall (6 foot in fact) so I have quite the height advantage in this department and so feel quite at home in this, but it means that I do more often spend time singing words sung by men than by women.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 ## Do you have any bucket-list roles you would like to sing (realistically or otherwise)?
 
