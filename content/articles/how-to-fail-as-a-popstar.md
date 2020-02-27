@@ -4,7 +4,7 @@ categories = "Review"
 date = 2020-02-26T05:00:00Z
 disclaimer = ""
 image_gallery = []
-postamble = "Catch [Vivek Shraya]()'s _How to Fail as a Popstar_ until March 1."
+postamble = "Catch Vivek Shraya's [_How to Fail as a Popstar_](https://www.canadianstage.com/online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=0653A856-84B2-4E9E-A51D-AEC08231A633) at Canadian Stage until March 1."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1582763007/media/2020/02/sqtgPopstar-photobyDahliaKatz-0492_qgbdds.jpg"
 primary_image_credit = "Vivek Shraya in How to Fail as a Popstar, Canadian Stage, 2020. Photo: Dahlia Katz."
@@ -17,7 +17,7 @@ title = "How to Fail as a Popstar: a cautionary tale"
 youtube_url = ""
 
 +++
-It's not surprising that [Vivek Shraya](https://www.instagram.com/vivekshraya/)'s debut play, _How to Fail as a Popstar_, is one of the most vulnerable things I've seen onstage. She's like a human tapestry of things that inherently come with vulnerability: writer, performer, recording artist, queer person, brown person, trans person, person from Edmonton, AB - these are personalities that, voluntarily or otherwise, subject themselves to criticism.
+It's not surprising that [Vivek Shraya](https://www.instagram.com/vivekshraya/)'s debut play, [_How to Fail as a Popstar_](https://www.canadianstage.com/online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=0653A856-84B2-4E9E-A51D-AEC08231A633), is one of the most vulnerable things I've seen onstage. She's like a human tapestry of things that inherently come with vulnerability: writer, performer, recording artist, queer person, brown person, trans person, person from Edmonton, AB - these are personalities that, voluntarily or otherwise, subject themselves to criticism.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1582765168/media/2020/02/tgPopstar-photobyDahliaKatz-0031_xbcgxt.jpg){{% /md %}}
 
