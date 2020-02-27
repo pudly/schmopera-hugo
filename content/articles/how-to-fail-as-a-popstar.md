@@ -5,11 +5,11 @@ date = 2020-02-26T05:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "Catch [Vivek Shraya]()'s _How to Fail as a Popstar_ until March 1."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1582763007/media/2020/02/sqtgPopstar-photobyDahliaKatz-0492_qgbdds.jpg"
 primary_image_credit = ""
-related_articles = []
+related_articles = ["articles/mewsy-goes-to-the-opera.md", "articles/sweat.md"]
 related_companies = []
 related_people = []
 short_description = "Amid performing arts circles, regardless of genre, it's almost too raw for someone who hasn't \"made it\" to discuss why they \"failed\". It's easy for us to digest wistful stories of bad producers or embarrassing live shows when they come from the super-famous, like the humbling anecdotes offered to fans by the Taylor Swifts and Lady Gagas of the world. "
@@ -30,4 +30,4 @@ So, by the time Shraya reached her grand finale - a list of 40 reasons why she f
 
 _Popstar_ is almost a cautionary tale for the younger generation. Shraya doesn't claim to have found any sort of second happiness, no long and winding road to inner peace, just a dull ache of wanting to be something she just wasn't. It's frightening to see someone who so clearly demonstrates that desire, even all-consuming desire, is sometimes just not enough.
 
-But Shraya did stay with me, a first-time consumer of her work. I even hung around the theatre lobby after the show, wondering if she'd come down so I could...I'm not even sure. Thank her? Hug her? Congratulate her on her candour? All of those things felt patronizing, 
+But Shraya did stay with me, a first-time consumer of her work. I even hung around the theatre lobby after the show, wondering if she'd come down so I could...I'm not even sure. Thank her? Hug her? Congratulate her on her candour? All of those things felt patronizing, even though I really do think she's turned "failure" into something important.
