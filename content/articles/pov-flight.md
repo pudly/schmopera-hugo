@@ -1,9 +1,8 @@
 +++
 author = ["authors/melissa-ratcliff.md"]
 categories = "Review"
-date = 2020-02-24T05:00:00Z
+date = 2020-02-26T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
@@ -13,8 +12,8 @@ related_articles = ["articles/flight.md", "articles/talking-with-composers-jonat
 related_companies = []
 related_people = []
 short_description = "In Flight, the characters arrive at the airport one by one, en route to their various destinations, and bringing their various problems with them. As all flights are cancelled due to a huge storm, and the passengers are stranded in the airport, their problems come to the forefront and are highlighted by each character in turn. "
-slug = "flight"
-title = "POV Flight"
+slug = "well-cast-vignettes-in-povs-flight"
+title = "Well-cast Vignettes in POV's Flight"
 youtube_url = ""
 
 +++
@@ -53,7 +52,7 @@ The score was brought to life with consummate skill by conductor Timothy Vernon.
 
 Unfortunately the cast were hampered by a less-than-stellar libretto, and a story where very little actually happens. As the characters go through their various struggles, they either resolve them without any major reason, or fail to resolve them and simply board their flight. The Refugee's narrative isn't shown until the final scene, at which point it feels far too late to feel the sympathy for his plight that the story and character deserve.
 
-The plot also had many sex jokes, including having the flight staff having sex on the counter right in front of all the passengers for no real reason, and a gay sex scene later in the*** 2. Both of these seemed very crude, and seemed to exist solely as punchlines, rather than being moments that were earned by the narrative. The gay relationship comes out of nowhere, and felt like it was meant to be entirely transgressive, rather than anything genuine or sincere. Everyone laughs at it, and then the character goes back to his wife after she finds out, and they simply board their place together as if nothing had happened.
+The plot also had many sex jokes, including having the flight staff having sex on the counter right in front of all the passengers for no real reason, and a gay sex scene later in the second act. Both of these seemed very crude, and seemed to exist solely as punchlines, rather than being moments that were earned by the narrative. The gay relationship comes out of nowhere, and felt like it was meant to be entirely transgressive, rather than anything genuine or sincere. Everyone laughs at it, and then the character goes back to his wife after she finds out, and they simply board their place together as if nothing had happened.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1582570170/media/2020/02/POVFlightFlight_07131_imzqun.jpg){{% /md %}}
 
