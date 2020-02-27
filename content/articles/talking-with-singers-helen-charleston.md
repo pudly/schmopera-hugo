@@ -42,9 +42,9 @@ Handel’s music is immensely fun to sing, it sits under the voice so well and e
 
 One of the unique challenges to my voice part is the prevalence of trouser roles. I’m tall (6 foot in fact) so I have quite the height advantage in this department and so feel quite at home in this, but it means that I do more often spend time singing words sung by men than by women.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1582774359/media/2020/02/HelenCharleston-BenjaminEalogeva_q5snla.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Helen Charleston, mezzo-soprano. Photo: Benjamin Ealovega.</figcaption>
 
 </figure>
 
