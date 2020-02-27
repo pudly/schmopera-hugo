@@ -37,7 +37,7 @@ Shraya tells the story that's so common it's almost unspoken - and ironically, i
 
 And it wasn't just the script that prods at one's own fears of rejection. In her execution, there's scary honesty; the high kick that landed a little too low, a mic-stand move that wasn't quite slick, a belted note that quavers. These are the physical cues of someone unsure, and by extension, someone completely familiar - definitely not the qualities of a popstar.
 
-So, by the time Shraya reached her grand finale - a list of 40 reasons why she failed at becoming a popstar, each one delivered to a member of the audience with jarring eye contact - it was impossible not to give her an emotional hug. There's something beautiful in knowing that much of the Canadian Stage audience was likely connected, personally or close to it, to the world of performing arts. We know how much those 40 reasons weigh, we know why she tears up.
+So, by the time Shraya reached her grand finale - a list of 40 reasons why she failed at becoming a popstar, each one delivered to a member of the audience with jarring eye contact - it was impossible not to give her an emotional hug. There's something beautiful in knowing that much of the Canadian Stage audience was likely connected, personally or close to it, to the world of performing arts. Shraya's "popstar" could be our "playwright" or "opera singer" or "concert pianist". We know how much those 40 reasons weigh, we know why she tears up.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1582765204/media/2020/02/tgPopstar-photobyDahliaKatz-1131_rwqdsi.jpg){{% /md %}}
 
