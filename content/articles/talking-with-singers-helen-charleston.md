@@ -9,7 +9,7 @@ postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1582773868/media/2020/02/sqHelen-Charlston-c-BenMcKee_zriphx.jpg"
 primary_image_credit = "Photo: Ben McKee."
-related_articles = []
+related_articles = ["articles/spotlight-on-stephanie-tritchew.md", "articles/talking-with-singers-eszter-balogh.md"]
 related_companies = []
 related_people = []
 short_description = "short"
@@ -26,7 +26,7 @@ Being a professional musician is a hugely rewarding career. It is collaborative,
 
 "Good singing" is getting the very best out of your voice; a partnership between a solid technique and a need to let your voice be heard. We all only have our own sound, and there is nothing more thrilling than listening to singers who let their voice flood out direct to our hearts. Singing should be free and liberating for both the performer and the audience. I feel strong, powerful and extremely connected to the music when I achieve that: almost invincible and ready for anything!
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1582774455/media/2020/02/HelenCharlston-BenMcKee_zmrmnl.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
