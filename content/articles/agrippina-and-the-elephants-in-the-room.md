@@ -42,28 +42,6 @@ DiDonato’s technique continues to reign on the recording. She sings with enoug
 
 II Pomo d’Oro, led by Maxim Emelyanychev, is a baroque/classical period group devoted to authentic performances. The subtle joy and hints of mischief that the group brings to the recording offer sweet and tangy rewards throughout.
 
-Back in the opera house the mighty MET orchestra has been downsized to baroque proportions under the expert leadership of Handel specialist, Harry Bicket. The ensemble is precise, elegant and bright. Despite the use of primarily modern instruments the house is saturated with a conscious sense of
+Back in the opera house the mighty MET orchestra has been downsized to baroque proportions under the expert leadership of Handel specialist, Harry Bicket. The ensemble is precise, elegant and bright. Despite the use of primarily modern instruments the house is saturated with a conscious sense of the baroque. The versatility and expertise of this ensemble comes as no surprise. They are big when they need to be which is most of the season but their polish and refinement run deep.
 
-the baroque. The versatility and expertise of this ensemble
-
-comes as no surprise. They are big when they need to be which
-
-is most of the season but their polish and refinement run deep.
-
-Bicket is busy in the pit accompanying the recitatives and
-
-conducting from the harpsichord which is joined in the excellent
-
-continuo by cello, theorbo, archlute and guitar.
-
-Purists can take heart in the knowledge that the modern
-
-instruments, the size of the house and the updated staging
-
-coalesce in complete harmony. In Agrippina such harmony is
-
-strictly limited to the musical sense of the word. If history
-
-teaches us anything, we know that the rest is chaos. On to
-
-Giulio Cesare in 2020-21.
+Bicket is busy in the pit accompanying the recitatives and conducting from the harpsichord which is joined in the excellent continuo by cello, theorbo, archlute and guitar. Purists can take heart in the knowledge that the modern instruments, the size of the house and the updated staging coalesce in complete harmony. In _Agrippina_ such harmony is strictly limited to the musical sense of the word. If history teaches us anything, we know that the rest is chaos. On to _Giulio Cesare_ in 2020-21.
