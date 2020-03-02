@@ -38,25 +38,11 @@ Adolescent arrogance, sullenness and mental thickness mark mezzo-soprano [Kate L
 
 Making her Met debut as Poppea, [Brenda Rae](/talking-with-singers-brenda-rae/) possesses a light soprano that often contrasts nicely with the mezzos on stage. Her acting outweighs her singing and it helps when she rips into a heart shaped box of chocolates and swills Verve Clicquot while singing “Se going un dispetto,” her aria to spite. Rae’s comic timing is brilliant but the voice needs more heft. Claudius and Ottone, poor guys, have much in common not the least of which is their shared attraction to Poppea. They would rather be in love than rule. As Claudio bass [Matthew Rose](/scene/people/matthew-rose/) struts about like a preoccupied executive, embarrassed and awkward when out of his element. Within the nicely controlled focus to his voice is a bit of a clown. Ottone may be a heroic warrior but he’s more the callow sailor on shore leave when it comes to Poppea. Countertenor [Iestyn Davies](/scene/people/iestyn-davies/) is achingly restrained. He brings a lovely poignancy to his mournful Act III aria “Tacero purche fedele.”
 
-DiDonato’s technique continues to reign on the recording. She sings with enough fire to conjure visual images. Countertenor Franco Fagloli’s sneering nastiness as Nerone is quite a contrast to Lindsey’s high-energy soprano. The nobility that bass Luca Pisaroni brings to Claudio leaves a much different impression than Rose’s horny awkwardness. Elsa Benoit’s Poppea has a tender moment expressing her love for Ottone with “Bel piacere.” Casting her opposite Davies might have enhanced the concept of genuine romance amidst the squalor on stage. Countertenor [Jakub Jozef Orlinski](/scene/people/jakub-josef-orlinski/)’s Ottone is more the gallant hero while Davies portrays one of introspective longing. II Pomo d’Oro lead by Maxim Emelyanychev is a
+DiDonato’s technique continues to reign on the recording. She sings with enough fire to conjure visual images. Countertenor Franco Fagloli’s sneering nastiness as Nerone is quite a contrast to Lindsey’s high-energy soprano. The nobility that bass [Luca Pisaroni](/talking-with-singers-luca-pisaroni/) brings to Claudio leaves a much different impression than Rose’s horny awkwardness. Elsa Benoit’s Poppea has a tender moment expressing her love for Ottone with “Bel piacere.” Casting her opposite Davies might have enhanced the concept of genuine romance amidst the squalor on stage. Countertenor [Jakub Jozef Orlinski](/scene/people/jakub-josef-orlinski/)’s Ottone is more the gallant hero while Davies portrays one of introspective longing. 
 
-baroque/classical period group devoted to authentic
+II Pomo d’Oro, led by Maxim Emelyanychev, is a baroque/classical period group devoted to authentic performances. The subtle joy and hints of mischief that the group brings to the recording offer sweet and tangy rewards throughout.
 
-performances. The subtle joy and hints of mischief that the
-
-group brings to the recording offer sweet and tangy rewards
-
-throughout.
-
-Back in the opera house the mighty MET orchestra has been
-
-downsized to baroque proportions under the expert leadership
-
-of Handel specialist, Harry Bicket. The ensemble is precise,
-
-elegant and bright. Despite the use of primarily modern
-
-instruments the house is saturated with a conscious sense of
+Back in the opera house the mighty MET orchestra has been downsized to baroque proportions under the expert leadership of Handel specialist, Harry Bicket. The ensemble is precise, elegant and bright. Despite the use of primarily modern instruments the house is saturated with a conscious sense of
 
 the baroque. The versatility and expertise of this ensemble
 
