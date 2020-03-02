@@ -22,7 +22,7 @@ The Hackney Empire – The English Touring Opera’s home in London when they ar
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1583170188/media/2020/03/ETOCosi1_soruzz.jpg){{% /md %}}
 
-<figcaption> in English Touring Opera's production of Così fan tutte, 2020. Photo: Richard Hubert Smith.</figcaption>
+<figcaption>(l-r) Tom Elwin as Ferrando, Joanna Marie Skillett as Fiordiligi, Frederick Long as Guglielmo, and Martha Jones as Dorabella in English Touring Opera's production of Così fan tutte, 2020. Photo: Richard Hubert Smith.</figcaption>
 
 </figure>
 
