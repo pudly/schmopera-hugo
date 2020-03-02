@@ -1,14 +1,14 @@
 +++
-author = []
-categories = ""
+author = ["authors/alessia-naccarato.md"]
+categories = "Review"
 date = 2020-03-02T05:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1583170420/media/2020/03/sqETOCOSIFANTUTTEThomas_ElwinFerrandoFrederickLongGuglielmoRICHARDHUBERTSMITH_opaq12.jpg"
+primary_image_credit = "Tom Elwin as Ferrando (left) and Frederick Long as Guglielmo in English Touring Opera's production of Così fan tutte, 2020. Photo: Richard Hubert Smith."
 related_articles = []
 related_companies = []
 related_people = []
