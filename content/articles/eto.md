@@ -3,7 +3,6 @@ author = ["authors/alessia-naccarato.md"]
 categories = "Review"
 date = 2020-03-02T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
@@ -13,8 +12,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "This performance of Mozart’s Così fan tutte marks the start of English Touring Opera’s spring tour which will also feature Handel’s Giulio Cesare as well as Bach’s St. John Passion in an impressive eighteen cities across the country. ETO’s extensive tours are the direct result of their clear mandate which is to bring accessible opera to cities and theatres across England where it would otherwise not be performed."
-slug = "eto"
-title = "ETO"
+slug = "solid-simple-cosi-fan-tutte-from-english-touring-opera"
+title = "Solid & simple Così fan tutte from English Touring Opera"
 youtube_url = ""
 
 +++
