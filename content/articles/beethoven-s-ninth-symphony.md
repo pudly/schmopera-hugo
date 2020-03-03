@@ -1,7 +1,7 @@
 +++
 author = ["authors/sam-darling.md"]
 categories = "Review"
-date = 2020-03-02T05:00:00Z
+date = 2020-03-03T05:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
@@ -23,6 +23,12 @@ Vancouver Academy of Music celebrated its 50th-anniversary season with a special
 Under the assured baton of conductor emeritus Leslie Dala, the program brought together the young professional-level orchestra with the veteran vocals of amateur Vancouver Bach Choir, along with four professional soloists, and featured a delightful performance of Concerto No. 4 by Ian Parker at the keys. A merging of such varied talents sometimes achieved Beethoven’s vision but more often didn’t gel quite as well as the sum of its beautiful parts.
 
 These Beethoven works are a common sound in our pop culture; Symphony No. 9's few famous measures in particular are now a ditty even the least music-savvy person will recognize. It is a work rarely staged due to the required size of the participants – sheer scale intended to convey grandeur and awe to the audience. In this staging the strings were sometimes a bit overwhelmed by other sections. This was an issue in the piano concerto in particular as Beethoven’s almost modern sense of sudden shifting dynamics couldn’t pop as it should with the sections not balanced and the brass sometimes entering the piece with hesitancy. Parker’s peppy performance would often save the orchestra by him attacking the molto vivace passages with a ferocity and joy that carried along both the audience and the participants. His full expressive performance seemed to be flawless to my ear but I must admit I was distracted.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1583258905/media/2020/03/VAMCollage-DalaParker_vdf2rg.jpg){{% /md %}}
+
+<figcaption>(l-r) Leslie Dala, conductor, and Ian Parker, pianist.</figcaption>
+
+</figure>
 
 A word now on the audience, which is not something I would normally mention. Rarely have I thought the audience was amateur in comparison to a performance, but seated in the center of the theater I had a snoring woman to my left, a wrapper-crinkler to my right, and chatterers all around me. Throughout the show you could hear moments of “shhh!” pop up around the theatre, so I believe I was not the only one suffering the indignities of self-absorbed audience behavior. At one point, a woman behind me in the audience took a mobile phone call in the middle of the concert, and then proceeding to ignore everyone’s pleas to silence herself. And I lost count of the number of cell phone rings that went off in the audience but at least those were mercifully left unanswered or quickly silenced.
 
