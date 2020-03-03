@@ -34,6 +34,8 @@ A word now on the audience, which is not something I would normally mention. Rar
 
 The concert was played to a packed house, which should have been heartening, but when so many people are making noise it leads to less-than-ideal listening conditions. Beethoven’s music depends as much on silences as it does on grand bombast; in order to transition from silky adagio to tremendous sound there must be uninterrupted silences. 
 
+> It is a testament to Beethoven’s enduring artistry and talent that despite all of my gripes I still enjoyed the performance.
+
 And yet, at the end of the performance, this same audience gave a standing ovation to a very fine performance that I promise you did not merit it. Vancouver, please do better. This was only my second time seeing these works staged live and I was hoping for full immersion into the "Ode to Joy", but as you can surmise, transcendence was difficult to achieve under the circumstances.  
 
 The combined talent on stage did an admirable job with difficult works and showed more precise control and balance between sections in the second half. Soloists do not get a lot to sing in this work. Three of the four singers looked out to the audience and smiled, engaging us in enjoyment. Martin Renner Wallace’s tenor and Leah Giselle Field’s mezzo stood out as most suitable for cutting through the big sound of the orchestra and large choir.
