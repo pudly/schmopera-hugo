@@ -3,7 +3,6 @@ author = ["authors/sam-darling.md"]
 categories = "Review"
 date = 2020-03-03T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
@@ -13,8 +12,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "Under the assured baton of conductor emeritus Leslie Dala, the program brought together the young professional-level orchestra with the veteran vocals of amateur Vancouver Bach Choir, along with four professional soloists, and featured a delightful performance of Concerto No. 4 by Ian Parker at the keys"
-slug = "beethovens-ninth-symphony"
-title = "Beethoven's Ninth Symphony"
+slug = "an-enduring-beethovens-ninth-with-the-vancouver-academy-of-music"
+title = "An enduring Beethoven's Ninth with the Vancouver Academy of Music"
 youtube_url = ""
 
 +++
