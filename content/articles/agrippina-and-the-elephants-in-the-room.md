@@ -31,6 +31,8 @@ The other elephant is the house in which _Agrippina_ plays. Let it  be known tha
 
 It was a satire when it premiered in Venice and it remains so today. The story is annoyingly complicated only when attempting to sum it up. Watching it unfold is dark side fun. How surprising that Vincenzo Grimani’s uncommonly intelligent libretto thrills like a juicy episode of _Scandal_. _Agrippina_ was Handel’s first big hit and paved the way for his London ventures.
 
+> The ensemble is precise, elegant and bright. 
+
 Agrippina is the empress of Rome. She’d like her dim-witted son Nerone (Nero) from a previous marriage to succeed her current husband, Emperor Claudio. (Claudius) Informed that Claudio may be lost at sea Agrippina positions Nerone for the top job by encouraging him to do giveaways in the community. He finds the public repugnant but polls well just the same. In the meantime Agrippina enlists support from ranking military and political types with the promise of sexual favors. There are strings attached as these gentlemen will find out. Unfortunately for Agrippina, Claudio is saved by the heroic warrior Ottone (Otho). Claudio slips back into Rome unbeknownst to Agrippina for an assignation with Poppea, blithely billed in the program as a Roman lady. Claudio is so grateful that he offers Ottone the throne upon his retirement. Agrippina has her work cut out for her and it doesn’t help that Poppea and Ottone are in love.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1583169199/media/2020/03/Agrippina_2595s-L_jy5wq2.jpg){{% /md %}}
@@ -42,6 +44,8 @@ Agrippina is the empress of Rome. She’d like her dim-witted son Nerone (Nero) 
 Joyce DiDonta, the reigning Handelian star of her generation, owns the title role for the foreseeable future. The mezzo soprano is all-out wonderful, sometimes wildly so in a part that demands acute comic antics and dramatic turns on top of virtuoso singing. Her claim to the part rests not only with her performances on the stages of the MET and the Royal Opera but in a new and highly touted [Warner Classics recording](https://joycedidonato.com/recordings/handel-agrippina/).
 
 Unleashing her flawless technique at the MET, DiDonato navigates the thrill rides that are her arias with boundless assurance. It’s as if Agrippina’s penchant for the boozy sashay, lusty asides and treacherous posturing propel her singing. Film buffs will be reminded of the great Norma Shearer who in a series of pre-code films parlayed sex, an independent attitude and high spirits to triumphant ends.
+
+> DiDonato’s technique continues to reign on the recording.
 
 But constant uncertainty haunts Agrippina. At least she’s aware of her actions. That we find ourselves liking this women despite her unrelenting perfidy shows just how well she manages her affairs not to mention the local news cycle. Her single- mindedness is enviable. DiDonato’s stirring rendition of “Pensieri, voi mi tormentate” in Act II is equal parts torment, frustration and determination. It is her eleven o’clock number— the MET is on Broadway after all— and we are in the palm of her hand.
 
@@ -61,7 +65,9 @@ Making her Met debut as Poppea, [Brenda Rae](/talking-with-singers-brenda-rae/) 
 
 </figure>
 
-DiDonato’s technique continues to reign on the recording. She sings with enough fire to conjure visual images. Countertenor Franco Fagloli’s sneering nastiness as Nerone is quite a contrast to Lindsey’s high-energy soprano. The nobility that bass [Luca Pisaroni](/talking-with-singers-luca-pisaroni/) brings to Claudio leaves a much different impression than Rose’s horny awkwardness. Elsa Benoit’s Poppea has a tender moment expressing her love for Ottone with “Bel piacere.” Casting her opposite Davies might have enhanced the concept of genuine romance amidst the squalor on stage. Countertenor [Jakub Jozef Orlinski](/scene/people/jakub-josef-orlinski/)’s Ottone is more the gallant hero while Davies portrays one of introspective longing. 
+DiDonato’s technique continues to reign on the recording. She sings with enough fire to conjure visual images. Countertenor Franco Fagloli’s sneering nastiness as Nerone is quite a contrast to Lindsey’s high-energy soprano. The nobility that bass [Luca Pisaroni](/talking-with-singers-luca-pisaroni/) brings to Claudio leaves a much different impression than Rose’s horny awkwardness. Elsa Benoit’s Poppea has a tender moment expressing her love for Ottone with “Bel piacere.” Casting her opposite Davies might have enhanced the concept of genuine romance amidst the squalor on stage. Countertenor [Jakub Jozef Orlinski](/scene/people/jakub-josef-orlinski/)’s Ottone is more the gallant hero while Davies portrays one of introspective longing.
+
+> Purists can take heart in the knowledge that the modern instruments, the size of the house and the updated staging coalesce in complete harmony.
 
 II Pomo d’Oro, led by Maxim Emelyanychev, is a baroque/classical period group devoted to authentic performances. The subtle joy and hints of mischief that the group brings to the recording offer sweet and tangy rewards throughout.
 
