@@ -33,7 +33,9 @@ youtube_url = ""
 <figcaption>Aging Magician at ASU. Photo by Jill Steinberg.</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="video">{{% md %}}<iframe src="https://player.vimeo.com/video/105039525?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<p><a href="https://vimeo.com/105039525">Aging Magician Trailer</a> from <a href="https://vimeo.com/visionintoart">VisionIntoArt/National Sawdust</a> on <a href="https://vimeo.com">Vimeo</a>.</p>{{% /md %}}
 
 <figcaption></figcaption>  
 </figure>
