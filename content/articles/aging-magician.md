@@ -14,7 +14,7 @@ related_companies = []
 related_people = []
 short_description = "short"
 slug = "aging-magician"
-title = "Aging Magician"
+title = "Magic everywhere in SDO's Aging Magician"
 youtube_url = ""
 
 +++
@@ -42,7 +42,7 @@ The character of Harold is well in line with Eckert's themes. "After you've crea
 
 It took years of trial and error to create the version of _Aging Magician_ that will be performed in San Diego. It started out as a collaboration with composer Paola Prestini and director Julian Crouch. An important part of the project since its early days was the Brooklyn Youth Chorus, led by its founder and artistic director Dianne Berkun Menaker. The chorus will also be part of the San Diego Opera performance. They have performed and recorded with major orchestras such as the New York Philharmonic, Los Angeles Philharmonic, and London Symphony Orchestra. and stars that include Sir Elton John and Barbra Streisand. They range in age between 13 and 17. In the years performing the piece, the young singers have developed a deep relationship with the main character of _Aging Magician_. "Stay with me Harold," a line from the opera has become a line the kids often use with each other when one of them becomes distracted during rehearsals, says Menaker. The role of the children in _Aging Magician_ is to usher Harold on his journey, into the afterlife.
 
-Menaker describes her own and the children’s motivation for singing as "a combination of physical sensation, the aesthetic element, and a love of the sound."
+Menaker describes her own and the children's motivation for singing as "a combination of physical sensation, the aesthetic element, and a love of the sound."
 
 "At the purest level it is the thrill of the sheer beauty of the sound that the chorus makes, which is why I was drawn to doing this work professionally. It is the sound of the young voice when it's trained to its optimal level, like our ensemble. It’s a unique sound."
 
