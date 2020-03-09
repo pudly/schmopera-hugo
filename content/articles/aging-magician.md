@@ -20,6 +20,8 @@ youtube_url = ""
 +++
 "Our lives are very large worlds within very small frames. If you delve into us, we’re all heroes in our own story," says Rinde Eckert, the librettist of [_Aging Magician_](https://www.sdopera.org/season/2019-2020-season/aging-magician), which will be performed as part of San Diego Opera's dētour series for three performances March 13 and 14. Eckert is also the titular Magician of the opera, which traces the large-world life and journey of Harold, a clockmaker in New York, who is also writing a book about an aging magician that he wants to leave as a legacy. As the story unfolds, at times the lines become blurred between Harold and the magician.
 
+> "He's creating a whole world in his shop."
+
 Eckert is an artist with many talents. He started out as an opera singer but says he found that it was not for him. As a musician, he has composed, directed, and written numerous pieces and has performed in many of them. He has won many awards and was a 2007 Pulitzer Prize finalist for _Orpheus X_.  Other awards include a Guggenheim Fellowship and a Grammy Award. "I always thought of myself as a talented dilettante," says Eckert recounting how each accomplishment in his career led to a new one.  
 
 "After years of creating work after work, it becomes your life," he says about why he is an artist. "Initially, I was drawn to things just because I was fascinated by ideas. The traditional world was not where I belonged. I knew I wanted to be in the arts and I had an impulse to perform." 
@@ -50,6 +52,8 @@ Menaker describes her own and the children’s motivation for singing as "a comb
 </figure>
 
 She has developed a trademarked teaching pedagogy called Cross-Choral Training® that has two components – the voice training program and the music literacy program. The training has a focus on performing, music literacy, sight reading, and very rigorous and professional voice training. The concert ensemble puts in almost seven hours a week over three days not including the performances. 
+
+> "They have developed a deep understanding of the greater meaning behind the piece."
 
 The performing ensemble in _Aging Magician_ will have 26 young singers, though the chorus has 700 members spread out across different levels and ensembles. Many of the singers continue with music after graduation in college or as part of community choruses. Counter-tenor [Aryeh Nussbaum Cohen](/scene/people/aryeh-nussbaum-cohen/) is a notable graduate of the program.
 
