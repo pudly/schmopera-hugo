@@ -13,7 +13,7 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "short"
-slug = "aging-magician"
+slug = "magic-everywhere-in-sdos-aging-magician"
 title = "Magic everywhere in SDO's Aging Magician"
 youtube_url = ""
 
