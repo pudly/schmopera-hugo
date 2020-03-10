@@ -5,15 +5,15 @@ date = 2020-03-09T04:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "The [London Handel Festival](https://www.london-handel-festival.com/) runs through 5 April."
-preamble = "After her 2018 win at the [Handel Singing Competition](https://www.london-handel-festival.com/handel-singing-competition/), British mezzo-soprano [Helen Charleston](/scene/people/helen-charleston/) returns to the London Handel Festival, ongoing through 5 April. Charleston sings Cousel/Truth in Handel's allegorical oratorio [_The Triumph of Time and Truth_](https://www.london-handel-festival.com/show/the-triumph-of-time-and-truth-hwv-71/?event=15402) on 17 March; on 1 April she'll sing Isabella in [_Fernando, Re di Castiglia_](https://www.london-handel-festival.com/show/fernando-hwv-30/?event=15802), Handel's fragmented work that gets its full, overdue debut in a new critical edition, with Leo Duarte conducting the Orchestra of Opera Settecento.\n\nWe spoke with Charleston about the joy of singing Handel, and her curious wish-list of roles."
+preamble = "After her 2018 win at the [Handel Singing Competition](https://www.london-handel-festival.com/handel-singing-competition/), British mezzo-soprano [Helen Charlston](/scene/people/helen-charleston/) returns to the London Handel Festival, ongoing through 5 April. Charleston sings Cousel/Truth in Handel's allegorical oratorio [_The Triumph of Time and Truth_](https://www.london-handel-festival.com/show/the-triumph-of-time-and-truth-hwv-71/?event=15402) on 17 March; on 1 April she'll sing Isabella in [_Fernando, Re di Castiglia_](https://www.london-handel-festival.com/show/fernando-hwv-30/?event=15802), Handel's fragmented work that gets its full, overdue debut in a new critical edition, with Leo Duarte conducting the Orchestra of Opera Settecento.\n\nWe spoke with Charlston about the joy of singing Handel, and her curious wish-list of roles."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1582773868/media/2020/02/sqHelen-Charlston-c-BenMcKee_zriphx.jpg"
 primary_image_credit = "Photo: Ben McKee."
 related_articles = ["articles/spotlight-on-stephanie-tritchew.md", "articles/talking-with-singers-eszter-balogh.md"]
 related_companies = []
 related_people = ["scene/people/helen-charleston.md"]
 short_description = "\"'Good singing' is getting the very best out of your voice; a partnership between a solid technique and a need to let your voice be heard. We all only have our own sound, and there is nothing more thrilling than listening to singers who let their voice flood out direct to our hearts.\""
-slug = "ca"
-title = "Talking with singers: Helen Charleston"
+slug = "talking-with-singers-helen-charlston"
+title = "Talking with singers: Helen Charlston"
 youtube_url = ""
 
 +++
