@@ -1,18 +1,18 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Interview"
-date = 2020-02-26T05:00:00Z
+date = 2020-03-09T04:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
-preamble = ""
+postamble = "The [London Handel Festival](https://www.london-handel-festival.com/) runs through 5 April."
+preamble = "After her 2018 win at the [Handel Singing Competition](https://www.london-handel-festival.com/handel-singing-competition/), British mezzo-soprano [Helen Charleston](/scene/people/helen-charleston/) returns to the London Handel Festival, ongoing through 5 April. Charleston sings Cousel/Truth in Handel's allegorical oratorio [_The Triumph of Time and Truth_](https://www.london-handel-festival.com/show/the-triumph-of-time-and-truth-hwv-71/?event=15402) on 17 March; on 1 April she'll sing Isabella in [_Fernando, Re di Castiglia_](https://www.london-handel-festival.com/show/fernando-hwv-30/?event=15802), Handel's fragmented work that gets its full, overdue debut in a new critical edition, with Leo Duarte conducting the Orchestra of Opera Settecento.\n\nWe spoke with Charleston about the joy of singing Handel, and her curious wish-list of roles."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1582773868/media/2020/02/sqHelen-Charlston-c-BenMcKee_zriphx.jpg"
 primary_image_credit = "Photo: Ben McKee."
 related_articles = ["articles/spotlight-on-stephanie-tritchew.md", "articles/talking-with-singers-eszter-balogh.md"]
 related_companies = []
-related_people = []
-short_description = "short"
+related_people = ["scene/people/helen-charleston.md"]
+short_description = "\"'Good singing' is getting the very best out of your voice; a partnership between a solid technique and a need to let your voice be heard. We all only have our own sound, and there is nothing more thrilling than listening to singers who let their voice flood out direct to our hearts.\""
 slug = "ca"
 title = "Talking with singers: Helen Charleston"
 youtube_url = ""
@@ -28,7 +28,7 @@ Being a professional musician is a hugely rewarding career. It is collaborative,
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1582774455/media/2020/02/HelenCharlston-BenMcKee_zmrmnl.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Helen Charleston, mezzo-soprano. Photo: Ben McKee.</figcaption>
 
 </figure>
 
