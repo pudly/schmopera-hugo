@@ -4,12 +4,12 @@ categories = "Interview"
 date = 2020-03-04T05:00:00Z
 disclaimer = ""
 image_gallery = []
-postamble = ""
+postamble = "The West Coast premiere of [_Aging Magician_](https://www.london-handel-festival.com/) runs at the Balboa Theatre in San Diego, March 13-15."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1583344153/media/2020/03/sqSDOAgingMagicianASU_0485_oexepf.jpg"
 primary_image_credit = "Aging Magician at ASU. Photo by Jill Steinberg."
-related_articles = []
-related_companies = []
+related_articles = ["articles/talking-with-singers-stephen-costello.md", "articles/8-contemporary-roles-to-covet.md"]
+related_companies = ["scene/companies/san-diego-opera.md"]
 related_people = []
 short_description = "short"
 slug = "magic-everywhere-in-sdos-aging-magician"
@@ -17,13 +17,13 @@ title = "Magic everywhere in SDO's Aging Magician"
 youtube_url = ""
 
 +++
-"Our lives are very large worlds within very small frames. If you delve into us, we’re all heroes in our own story," says Rinde Eckert, the librettist of [_Aging Magician_](https://www.sdopera.org/season/2019-2020-season/aging-magician), which will be performed as part of San Diego Opera's dētour series for three performances March 13 and 14. Eckert is also the titular Magician of the opera, which traces the large-world life and journey of Harold, a clockmaker in New York, who is also writing a book about an aging magician that he wants to leave as a legacy. As the story unfolds, at times the lines become blurred between Harold and the magician.
+"Our lives are very large worlds within very small frames. If you delve into us, we’re all heroes in our own story," says Rinde Eckert, the librettist of [_Aging Magician_](https://www.sdopera.org/season/2019-2020-season/aging-magician), which will be performed as part of San Diego Opera's dētour series for three West Coast premiere performances March 13 and 14. Eckert is also the titular Magician of the opera, which traces the large-world life and journey of Harold, a clockmaker in New York, who is also writing a book about an aging magician that he wants to leave as a legacy. As the story unfolds, at times the lines become blurred between Harold and the magician.
 
 > "He's creating a whole world in his shop."
 
-Eckert is an artist with many talents. He started out as an opera singer but says he found that it was not for him. As a musician, he has composed, directed, and written numerous pieces and has performed in many of them. He has won many awards and was a 2007 Pulitzer Prize finalist for _Orpheus X_.  Other awards include a Guggenheim Fellowship and a Grammy Award. "I always thought of myself as a talented dilettante," says Eckert recounting how each accomplishment in his career led to a new one.  
+Eckert is an artist with many talents. He started out as an opera singer but says he found that it was not for him. As a musician, he has composed, directed, and written numerous pieces and has performed in many of them. He has won many awards and was a 2007 Pulitzer Prize finalist for _Orpheus X_.  Other awards include a Guggenheim Fellowship and a Grammy Award. "I always thought of myself as a talented dilettante," says Eckert recounting how each accomplishment in his career led to a new one.
 
-"After years of creating work after work, it becomes your life," he says about why he is an artist. "Initially, I was drawn to things just because I was fascinated by ideas. The traditional world was not where I belonged. I knew I wanted to be in the arts and I had an impulse to perform." 
+"After years of creating work after work, it becomes your life," he says about why he is an artist. "Initially, I was drawn to things just because I was fascinated by ideas. The traditional world was not where I belonged. I knew I wanted to be in the arts and I had an impulse to perform."
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1583344115/media/2020/03/SDOAgingMagicianASU_0499_ujqktm.jpg){{% /md %}}
 
@@ -50,7 +50,7 @@ Menaker describes her own and the children's motivation for singing as "a combin
 <figcaption>Aging Magician at ASU. Photo by Jill Steinberg.</figcaption>  
 </figure>
 
-She has developed a trademarked teaching pedagogy called Cross-Choral Training® that has two components – the voice training program and the music literacy program. The training has a focus on performing, music literacy, sight reading, and very rigorous and professional voice training. The concert ensemble puts in almost seven hours a week over three days not including the performances. 
+She has developed a trademarked teaching pedagogy called Cross-Choral Training® that has two components – the voice training program and the music literacy program. The training has a focus on performing, music literacy, sight reading, and very rigorous and professional voice training. The concert ensemble puts in almost seven hours a week over three days not including the performances.
 
 > "They have developed a deep understanding of the greater meaning behind the piece."
 
@@ -59,10 +59,3 @@ The performing ensemble in _Aging Magician_ will have 26 young singers, though t
 A substantial part of the chorus' repertoire is new music they have commissioned like _Black Mountain Songs_ and _Silent Voices_, and world premieres by contemporary composers. "These pieces are momentous in the lives of these kids," says Menaker. "They embrace and become immersed in new projects."
 
 The older graduating chorus members convey the meaning of projects to new members. With _Aging Magician_, says Menaker, over the years "they've watched Rinde in his amazing acting and bringing the character to life. They have developed a deep understanding of the greater meaning behind the piece."
-
-<figure data-type="video">{{% md %}}<iframe src="https://player.vimeo.com/video/105039525?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<p><a href="https://vimeo.com/105039525">Aging Magician Trailer</a> from <a href="https://vimeo.com/visionintoart">VisionIntoArt/National Sawdust</a> on <a href="https://vimeo.com">Vimeo</a>.</p>{{% /md %}}
-
-<figcaption></figcaption>  
-</figure>
