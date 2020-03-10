@@ -1,10 +1,10 @@
 +++
 discipline = "Mezzo-soprano"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1582774541/media/2020/02/HelenCharleston-BenjaminEalogeva_hibvdp.jpg"
-primary_image_credit = "Benjamin Ealovegathe"
+primary_image_credit = "Benjamin Ealovega."
 related_companies = []
 slug = "helen-charleston"
-title = "Helen Charleston"
+title = "Helen Charlston"
 website = "https://www.helencharlston.com/"
 [[social_media]]
 platform = "Facebook"
