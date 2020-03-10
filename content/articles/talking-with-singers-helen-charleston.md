@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Interview"
 date = 2020-03-09T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "The [London Handel Festival](https://www.london-handel-festival.com/) runs through 5 April."
 preamble = "After her 2018 win at the [Handel Singing Competition](https://www.london-handel-festival.com/handel-singing-competition/), British mezzo-soprano [Helen Charleston](/scene/people/helen-charleston/) returns to the London Handel Festival, ongoing through 5 April. Charleston sings Cousel/Truth in Handel's allegorical oratorio [_The Triumph of Time and Truth_](https://www.london-handel-festival.com/show/the-triumph-of-time-and-truth-hwv-71/?event=15402) on 17 March; on 1 April she'll sing Isabella in [_Fernando, Re di Castiglia_](https://www.london-handel-festival.com/show/fernando-hwv-30/?event=15802), Handel's fragmented work that gets its full, overdue debut in a new critical edition, with Leo Duarte conducting the Orchestra of Opera Settecento.\n\nWe spoke with Charleston about the joy of singing Handel, and her curious wish-list of roles."
