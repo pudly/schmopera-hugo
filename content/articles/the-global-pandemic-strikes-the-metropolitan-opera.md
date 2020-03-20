@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1584665767/media/2020/03/sqMetInterior_qqf5vx.jpg"
-primary_image_credit = ""
+primary_image_credit = "Photo by Jonathan Tichler/Metropolitan Opera."
 related_articles = []
 related_companies = []
 related_people = []
@@ -26,9 +26,9 @@ When I reviewed the Met Orchestra at Carnegie Hall in May, 2018 it was at the he
 
 That new era is here. Yannick Nézet-Séguin has entered his first full season as the music director at the Met. How sad that in announcing the Met's 2020-21 season and the addition of the first European tour by the Met Orchestra in 20 years, it has taken this course. 26 opera companies in North America have waived Force Majeure and many have adopted plans to pay their soloists at least 50% of their fees.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1584666257/media/2020/03/PARS_3407a_qfl8fv.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Yannick Nézet-Séguin, Parsifal rehearsals, 2018. Photo: Ken Howard / Met Opera</figcaption>
 
 </figure>
 
@@ -42,9 +42,9 @@ The Met is my local opera company. It is also one of the largest performing arts
 
 The article originally intended for this space discussed the upcoming 2020-21 season, provided perspective on the urban environment in which the Met works and its plans beyond the season itself. Now doesn't feel like a prudent time to tout the new season, especially with so much uncertainty in the air, but I would like to share some encouraging facts at this disheartening moment and save the new season for later. Perhaps in the ensuing time the Met will see that what might appear to be a shrewd financial decision is actually selling its entire community short.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1584665908/media/2020/03/Flute_Thur_0957_C_pabahe.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Joshua Hopkins as Papageno and Joélle Harvey as Pamina in Mozart's "The Magic Flute." Photo: Karen Almond / Met Opera.</figcaption>
 
 </figure>
 
@@ -60,9 +60,9 @@ One of the oldest and most successful of the Met’s outreach programs is the Me
 
 The news on commissions verges on the historic. A full scale opera by Mazzoli drawn from George Saunders’s otherworldly novel _Lincoln in the Bardo_ is underway. The Met will also stage Jeanine Tesori’s opera _Grounded_ based on the George Brant play about a female fighter pilot who is sidelined by pregnancy and turns to drone warfare. These commissions, unique unto themselves, are major events since the Met has performed only two operas by women in its entire history, Ethel M. Smyth’s _Der Wald_ in 1903 and the exquisite _L’Amour de Loin_ by Kaija Saariaho in 2016. The company is in talks with Mason Bates to compose an opera based on the Michael Chabon novel _The Amazing Adventures of Kavalier & Clay_. There is a pattern developing here when you include Nicho Muhly’s two recent Met commissions, _Two Boys_ and _Marnie_. It has taken some time but the Met champions young American composers.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1584666011/media/2020/03/AkhPiano_0908_B_xljsbj.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>A scene from Glass's "Akhnaten." Photo: Karen Almond / Met Opera.</figcaption>
 
 </figure>
 
