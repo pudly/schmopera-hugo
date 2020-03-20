@@ -3,14 +3,13 @@ author = ["authors/john-hohmann.md"]
 categories = "Op-Ed"
 date = 2020-03-19T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1584665767/media/2020/03/sqMetInterior_qqf5vx.jpg"
 primary_image_credit = "Photo by Jonathan Tichler/Metropolitan Opera."
-related_articles = []
-related_companies = []
+related_articles = ["articles/levines-ugly-exit-the-disposable-met.md", "articles/some-uncomfortable-questions-about-the-levine-business.md", "articles/when-opera-companies-protect-abusers.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md"]
 related_people = []
 short_description = "How sad that in announcing the Met’s 2020-21 season and the addition of the first European tour by the Met Orchestra in 20 years, it has taken this course. 26 opera companies in North America have waived Force Majeure and many have adopted plans to pay their soloists at least 50% of their fees."
 slug = "the-global-pandemic-strikes-the-metropolitan-opera"
@@ -104,9 +103,9 @@ Today Tessitura Network exists as a not-for-profit corporation, the Met retainin
 
 As organizations worldwide grapple with the disorienting impact of the coronavirus it is reassuring to know that Tessitura Network is helping member organizations and customers alike through this unforeseen period of confusion. How grateful we are for technology when it actually meets human needs. Tessitura reminds us that the Met has options beyond Force Majeure
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1584666566/media/2020/03/LACOMBE_10100_X3Z5912_B2_fgacrh.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Peter Gelb, General Manager of the Metropolitan Opera in New York City. Photo: Brigitte Lacombe.</figcaption>
 
 </figure>
 
