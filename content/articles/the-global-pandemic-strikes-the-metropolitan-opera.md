@@ -47,7 +47,7 @@ The article originally intended for this space discussed the upcoming 2020-21 se
 
 </figure>
 
-## Outreach
+## Outreach and Commissions
 
 There is plenty of outreach news to report at this time like the opera _Intimate Apparel_  playing in conjunction with the Lincoln Center Theater and a new English language production of _The Magic Flute_ being developed with the Public Theater for its outdoor Delacort Theater in Central Park. Imagine the Met Orchestra playing under the stars at the Delacort. Also a chamber opera by Missy Mazzoli in conjunction with the Brooklyn Academy of Music is planned for performance at BAM.
 
