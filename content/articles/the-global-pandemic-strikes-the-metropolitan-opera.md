@@ -76,9 +76,9 @@ That the company has avoided producing chamber operas is to this writer somethin
 
 Within a span of just a few weeks there was a production of Britten’s _The Turn of the Screw_ presented by On-Site Opera indoors and on the grounds at Wave Hill, a lovely public garden and estate in the Bronx. That other Met, the Metropolitan Museum of Art across town, housed the Virgil Thomson/Gertrude Stein opera _The Mother Of Us All_ in its American Wing. It was an organic setting for this piece about suffragette Susan B. Anthony that is unwisely tamed when presented in a traditional venue. Quite the collaboration, it was presented by the Juilliard School, the New York Philharmonic and the museum’s MetLiveArts series. Spring brings new offering from Encompass New Opera Theater presenting scenes from Thomson’s Lord Byron and Evan Mack’s _Angel of the Amazon_ while Mannes School of Music is presenting as mash up of Puccini’s _Suor Angelica_ and da Gagilano’s _La Dafne_. This is just a few of the offerings.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1584666412/media/2020/03/PBNC_1540a_o3sdq1.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Denyce Graves as Maria and Janai Brugger as Clara in The Gershwins' "Porgy and Bess." Photo: Ken Howard / Met Opera.</figcaption>
 
 </figure>
 
@@ -88,9 +88,9 @@ They range from $445 for a seat in the Central Premium Parterre (but hurry, ther
 
 Offering $25 rush tickets is by far one of the best things that the Met has ever done, off stage, that is. The Rush Ticket program was initiated in 2006 by Dr. Agnes Varis and her husband, Karl Leichtman and receives broad support from scores of the Met’s most prominent donors. Savvy opera goers can purchase same day $25 seats online while the daily allotment lasts to all performances except special events. Seats are usually located in the visually and aurally excellent Orchestra Balance. This is arguably the most significant accessibility and audience development program ever initiated in the performing arts. Have supporters of this program been contacted about the cancellation policy?
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1584666456/media/2020/03/WOZ_0717a_yylnut.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Christopher Ventris as the Drum Major and Elza van den Heever as Marie in William Kentridge's new production of Berg's "Wozzeck." Photo: Ken Howard / Met Opera.</figcaption>
 
 </figure>
 
