@@ -1,7 +1,7 @@
 +++
 author = ["authors/john-hohmann.md"]
 categories = "Op-Ed"
-date = 2020-03-18T04:00:00Z
+date = 2020-03-19T04:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
@@ -20,13 +20,17 @@ youtube_url = ""
 +++
 The Metropolitan Opera has gone dark, as have so many other organizations around the world to do its part in mitigating the coronavirus pandemic. The protection of human life takes precedence over art even as we acknowledge how vital and nourishing art is to life. It is unfortunate then that as General Manager Peter Gelb adheres to Center for Disease Control recommendations to control the spread of COVID-19 he has opted to abandon his soloists by evoking the Force Majeure provision in the AGMA collective bargaining agreement to avoid payment to Met soloists during the cancellation period.
 
+> Of course, the stakes are higher for the major companies - but so are the resources.
+
 When I reviewed the Met Orchestra at Carnegie Hall in May, 2018 it was at the height of the James Levine crisis and morale within the orchestra was reported to be understandably low. Their three-concert series opened under the baton of the music director of the City of Birmingham Symphony Orchestra, Mirga Gražinyte-Tyla. As I reported, the orchestra appeared to embrace her generous manner on the podium. In retrospect it was as if they were ushering in the beginning of a new era.
 
 That new era is here. Yannick Nézet-Séguin has entered his first full season as the music director at the Met. How sad that in announcing the Met's 2020-21 season and the addition of the first European tour by the Met Orchestra in 20 years, it has taken this course. 26 opera companies in North America have waived Force Majeure and many have adopted plans to pay their soloists at least 50% of their fees.
 
 Artists understand that in a time of a global pandemic sacrifices must be made. But these sacrifices must also be shared across the companies. One wonders where, with the exception of the Houston Grand Opera, major opera companies rest on this issue. Certainly the Met could be leading the way. Instead it has chosen to notify its artists of its decision via an impersonal and officious email that appears to hides behind  the health crisis.
 
-Of course the stakes are higher for the major companies but so are the resources. If Gelb has explored options such as establishing a fund raising campaign to offset cancellation costs or postponing and/or reverting to in-concert rather than full productions for some of the remaining season, he should share his process.
+> Perhaps the Guild can play a role in helping to mitigate the financial impact of the health crisis or at least in the remuneration of the singers.
+
+Of course, the stakes are higher for the major companies - but so are the resources. If Gelb has explored options such as establishing a fund raising campaign to offset cancellation costs or postponing and/or reverting to in-concert rather than full productions for some of the remaining season, he should share his process.
 
 The Met is my local opera company. It is also one of the largest performing arts organizations in the world. I would like to believe it is also a community, of which as an audience member I am a part, and not merely a machine that cranks out opera. The Met is a large corporation but it shouldn’t respond to this health crisis by eating its own.
 
@@ -38,6 +42,8 @@ There is plenty of outreach news to report at this time like the opera _Intimate
 
 The Met visited Brooklyn last November for an event celebrating the production of Philip Glass’s _Akhnaten_. The Brooklyn Museum, which houses one of the world’s great collections of Egyptian art, teamed with the company to present a newly created performance piece based on the opera in the museum’s Beaux Art Court. Met singers Anthony Roth Costanzo who sang the title role and Zachary James singing Amenhotep III joined the Brooklyn Youth Chorus, the Mannes School of Music Orchestra and the Gandini Juggling troupe led by _Akhnaten_ choreographer Sean Gandini in this extraordinary community event.
 
+> New York is pulsating with opera in various shapes and sizes from companies small and refreshingly, smaller yet. They don’t need to be steam-rolled by a gigantic institution.
+
 One of the oldest and most successful of the Met’s outreach programs is the Metropolitan Opera Guild. It was founded in 1935 when the Met was 50 years old by philanthropist Eleanor Robson Belmont, a Met board member. Her aim was to democratize opera by seeking support form the general public and to initiate education programs. The Guild’s activities remain unparalleled in the performing arts. Rather than attempting to summarize all that the organization does I refer readers to [its website](https://www.metguild.org/index.aspx). Perhaps the Guild can play a role in helping to mitigate the financial impact of the health crisis or at least in the remuneration of the singers. Has the Guild been asked?
 
 The news on commissions verges on the historic. A full scale opera by Mazzoli drawn from George Saunders’s otherworldly novel _Lincoln in the Bardo_ is underway. The Met will also stage Jeanine Tesori’s opera _Grounded_ based on the George Brant play about a female fighter pilot who is sidelined by pregnancy and turns to drone warfare. These commissions, unique unto themselves, are major events since the Met has performed only two operas by women in its entire history, Ethel M. Smyth’s _Der Wald_ in 1903 and the exquisite _L’Amour de Loin_ by Kaija Saariaho in 2016. The company is in talks with Mason Bates to compose an opera based on the Michael Chabon novel _The Amazing Adventures of Kavalier & Clay_. There is a pattern developing here when you include Nicho Muhly’s two recent Met commissions, _Two Boys_ and _Marnie_. It has taken some time but the Met champions young American composers.
@@ -46,9 +52,11 @@ The news on commissions verges on the historic. A full scale opera by Mazzoli dr
 
 In the past the Met has been chided for not producing chamber operas. To even contemplate them in a house so large is unrealistic. But as mentioned the Met will indeed collaborate on one for performance at BAM.
 
-That the company has avoided producing chamber operas is to this writer something of a blessing. Certainly we would like to see a broad spectrum of opera from the grand to the intimate and dare I say the avant grade but the opera house on the Lincoln Center campus isn’t the place to do them. If the Met attempted to be all things, or rather all sizes, to all people I wonder if charges of institutional genocide might follow. New York is pulsating with opera in various shapes and sizes from companies small and refreshingly, smaller yet. They don’t need to be steam-rolled by a gigantic institution.
+That the company has avoided producing chamber operas is to this writer something of a blessing. Certainly, we would like to see a broad spectrum of opera from the grand to the intimate and dare I say the _avant garde_, but the opera house on the Lincoln Center campus isn’t the place to do them. If the Met attempted to be all things, or rather all sizes, to all people I wonder if charges of institutional genocide might follow. New York is pulsating with opera in various shapes and sizes from companies small and refreshingly, smaller yet. They don’t need to be steam-rolled by a gigantic institution.
 
-Within a span of just a few weeks there was a production of Britten’s “Turn of the Screw” presented by On-Site Opera indoors and on the grounds at Wave Hill, a lovely public garden and estate in the Bronx. That other Met, the Metropolitan Museum of Art across town, housed the Virgil Thomson/Gertrude Stein opera “Mother Of Us All” in its American Wing. It was an organic setting for this piece about suffragette Susan B. Anthony that is unwisely tamed when presented in a traditional venue. Quite the collaboration, it was presented by the Julliard School, the New York Philharmonic and the museum’s MetLiveArts series. Spring brings new offering from Encompass New Opera Theater presenting scenes from Thomson’s Lord Byron and Evan Mack’s _Angel of the Amazon_ while Mannes School of Music is presenting as mash up of Puccini’s _Suor Angelica_ and da Gagilano’s _La Dafne_. This is just a few of the offerings.
+> Have supporters of this program been contacted about the cancellation policy?
+
+Within a span of just a few weeks there was a production of Britten’s _The Turn of the Screw_ presented by On-Site Opera indoors and on the grounds at Wave Hill, a lovely public garden and estate in the Bronx. That other Met, the Metropolitan Museum of Art across town, housed the Virgil Thomson/Gertrude Stein opera _The Mother Of Us All_ in its American Wing. It was an organic setting for this piece about suffragette Susan B. Anthony that is unwisely tamed when presented in a traditional venue. Quite the collaboration, it was presented by the Juilliard School, the New York Philharmonic and the museum’s MetLiveArts series. Spring brings new offering from Encompass New Opera Theater presenting scenes from Thomson’s Lord Byron and Evan Mack’s _Angel of the Amazon_ while Mannes School of Music is presenting as mash up of Puccini’s _Suor Angelica_ and da Gagilano’s _La Dafne_. This is just a few of the offerings.
 
 ## Ticket Prices
 
@@ -59,6 +67,8 @@ Offering $25 rush tickets is by far one of the best things that the Met has ever
 ## The Tessitura Network
 
 Another significant development took place in 1995. And today it benefits performing arts and cultural organizations on three continents. $5,000,000 was allocated by the Met’s board of directors enabling the company to create an entirely new software system that would integrate all of its activities in ticketing, fund raising, customer relationship management and marketing. In 1999 Tessitura (first called Impresario) was activated. It evolved into the Tessitura Network when six other organizations including the San Francisco Opera and the Lyric Opera of Chicago began using it.
+
+> Tessitura reminds us that the Met has options beyond Force Majeure
 
 Today Tessitura Network exists as a not-for-profit corporation, the Met retaining rights to its intellectual property, that is governed by its membership which currently consists of 650 performing arts organizations in ten countries. Along with administrative efficiencies and information gathering it continues to launch innovations like the Tessitura Roving Box Office, a hand held instrument that provides full box office functions whether roving a line or at off-site locations. The unsung technology staffs from member organizations meet annually for a comprehensive conference to explore new ways to utilize the system, maintain and evolve best practices standards and explore new technology.
 
