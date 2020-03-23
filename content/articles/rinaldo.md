@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1584931378/media/2020/03/sqABOCRinaldoimage0_ixibv7.jpg"
-primary_image_credit = ""
+primary_image_credit = "Rinaldo, American Baroque Opera Co., 2020. Photo: Karen Almond."
 related_articles = []
 related_companies = []
 related_people = []
@@ -24,7 +24,7 @@ This production, directed by Rebecca Choate Beasley, who takes a great interest 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1584931538/media/2020/03/ABOCRinaldoimage1_fdzvuf.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Rinaldo, American Baroque Opera Co., 2020. Photo: Karen Almond.</figcaption>  
 </figure>
 
 While the stage was quite immense, the orchestra pit was very small. While it was quite deep even when fully raised, the biggest difficulty lay in the fact that there was very little room for players to fit: not more than two could fit abreast. It was necessary to have the trumpets and timpani offstage, which gave a very interactive effect. It was also difficult to coordinate particularly intricate passages (of which this opera has many) with the singers onstage. This was definitely the case with the incredibly rich wind writing, as the oboes were necessitated to be placed on the far side of the pit. Nevertheless, much praise is to be given for the general balance of the orchestra’s sound, a particular concern given Artistic Director Eric Smith’s double duties as conductor and principal cellist. Fortunately, the continuo ensemble had plenty of members during passages where Smith’s leading the ensemble took precedence over playing the bass line himself.
@@ -37,7 +37,7 @@ Goffredo (Janna Critz) and Eustazio (Kayla Nanto) were shown to be politicians w
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1584931559/media/2020/03/ABOCRinaldoimage2_sjzlpw.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Rinaldo, American Baroque Opera Co., 2020. Photo: Karen Almond.</figcaption>  
 </figure>
 
 Javier Ortiz had a highly versatile voice for the notoriously wide-ranging role of Argante, even if it did take time to fully engage. Argante’s anxiety and his glittery robes certainly marked him out as a contrast to the very controlled Goffredo. Certainly Baroque opera delights in such archetypes, particularly when contrasting different cultures in the manner anything about the Crusades does, especially at the time Rinaldo was written, when European soldiers were slowly but surely pushing the Ottoman Turks out of Central Europe.
