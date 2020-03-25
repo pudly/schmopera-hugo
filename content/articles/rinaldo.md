@@ -1,20 +1,19 @@
 +++
 author = ["authors/andrew-schneider.md"]
 categories = "Review"
-date = 2020-03-23T04:00:00Z
+date = 2020-03-24T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1584931378/media/2020/03/sqABOCRinaldoimage0_ixibv7.jpg"
 primary_image_credit = "Rinaldo, American Baroque Opera Co., 2020. Photo: Karen Almond."
-related_articles = []
-related_companies = []
+related_articles = ["articles/la-traviata-shows-houston-how-to-arise.md", "articles/montezuma.md"]
+related_companies = ["scene/companies/american-baroque-opera-co.md"]
 related_people = []
 short_description = "I felt like I was actually in a garden surrounded by drooping blossoms, or actually at the opening of a cavernous hole. Throughout I got the sense that this was a production that put a great deal of effort into engaging the senses all at once and imparting an aura of wonderment."
-slug = "rinaldo"
-title = "Rinaldo"
+slug = "a-case-for-relatable-handel-abocs-rinaldo"
+title = "A case for relatable Handel: ABOC's Rinaldo"
 youtube_url = ""
 
 +++
@@ -31,6 +30,8 @@ While the stage was quite immense, the orchestra pit was very small. While it wa
 
 Rinaldo (Nicholas Garza) was primarily a study in character. Garza, like all the singers, was compelled to sustain our interest by making the repetitive text of the arias mean something different every time, which led to a highly spontaneous feeling throughout the whole production which I greatly enjoyed. As the production focused on Rinaldo’s tendencies to ruminate, Garza let the arias to speak for themselves without extraneous action. In “Cara sposa,” Garza exhibited, while reflecting on his powerlessness, subtle echoes of the silky tone found in such artists as Philippe Jarrousky. On the other hand, this emphasis made “Or la tromba” represent the complete about-face in Rinaldo’s self-image that it is, with Garza not only singing all the notorious coloratura with energy to spare, but visibly showing a return to normalcy in some ways likewise.
 
+> She clearly enjoys the chase, as she ably demonstrated in “Vo far guerra,” with dazzling harpsichord solos by Brad Bennight.
+
 As Almirena, Jendi Tarde was impressive as she is routinely with lyric soprano roles, particularly in one that is so prone to being trivialized as this one is. “Lascia ch’io pianga” was especially stark and poignant, and not resigned to being serene just because the music is so lush. Rather, it had a tinge of lamentation for all who struggle under tyranny’s yoke. On the other hand, “Bel piacere” showed her not merely being content with her Rinaldo, but delighting in her power of choice over whether to remain with him or go back to her father, who looked approvingly on the whole scene.
 
 Goffredo (Janna Critz) and Eustazio (Kayla Nanto) were shown to be politicians who have perfected the art of diplomacy. Their interactions struck me as very “good cop/bad cop.”  Goffredo always had a very stern expression, partly the product of an ingenious use of makeup which kept the Crusader leader’s face extremely fixed; this served well for expressions of pride in having such a brave son-in-law as Rinaldo, but also for inscrutable expressions of shrewdness. This made me very interested to see what Critz would to give her arias expressively to combat this uncompromising front, and she did not disappoint. Her treatment of the arias was very ornate and ably showcased her high mezzo tessitura. Eustazio would invariably be around to soften his brother’s rather moralistic tone, and Nanto’s intimate lower register was very welcome indeed for this purpose to accompany her requisite nods.
@@ -44,6 +45,8 @@ Javier Ortiz had a highly versatile voice for the notoriously wide-ranging role 
 
 As Armida, Jennifer Youngs perfectly exemplified the concept of striking a balance between two pathways. In a costume that struck me as a blend between Maleficent and something from Game of Thrones, she delivered “Furie terribili” in a manner that showed that she reveled in her magical powers, but with not so much venom as to make her a complete harpy. There was grace in her malice. I thought, “All right, I can see why Argante finds Armida sweet and loving.” It was all very fairytale-like, yet we certainly lost nothing as a result. She clearly enjoys the chase, as she ably demonstrated in “Vo far guerra,” with dazzling harpsichord solos by Brad Bennight, and when attempting to pin down Rinaldo, she certainly did not give up easily!
 
+> American Baroque Opera Company has effectively made the case for Baroque opera being replete with relatable characters with palpable emotions.
+
 William Derusha as the Magician (dressed in this case as a friar with magical wands) lent that role a certain degree of awe, highlighted by the extended improvisation surrounding his entrance (for he does come from out of a cave, after all). It was highly interesting seeing these Crusaders venerate wands like holy relics, another fairytale aspect. Gabrielle Gilliam, as the alluring siren who leads Rinaldo into certain danger, was quite enchanting, so much so that she had to take care to be patient and not lay on her charms too thickly.  One could see Rinaldo slowly succumbing as he thought “That’s my jam,” for Handel is very skilled at making music that makes us all think likewise.
 
-In allowing antique modes of expression to sound forth, yet allowing them to coexist with the practical nature of theatre, American Baroque Opera Company has effectively made the case for Baroque opera being replete with relatable characters with palpable emotions no matter the plausibility of their surroundings or their stock nature. This is in addition to the excellent case of Rinaldo as a great opera for beginners. After all, it is perfect for those who like their fairy tales with just the right combination of morality and razzle-dazzle.
+In allowing antique modes of expression to sound forth, yet allowing them to coexist with the practical nature of theatre, American Baroque Opera Company has effectively made the case for Baroque opera being replete with relatable characters with palpable emotions no matter the plausibility of their surroundings or their stock nature. This is in addition to the excellent case of _Rinaldo_ as a great opera for beginners. After all, it is perfect for those who like their fairy tales with just the right combination of morality and razzle-dazzle.
