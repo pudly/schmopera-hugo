@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Op-Ed"
 date = 2020-04-23T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
@@ -38,7 +37,9 @@ I've had a few moments of curiosity in all of this, where I look at the pandemic
 
 In my case, I'm lucky. My actual _thing_ isn't really opera - it's my two-year-old son, Alex. My mom-identity certainly hasn't changed since COVID-19; really, it's more hardcore than ever. No daycare, no babysitting from grandparents, no playgroup, no gym, no library, no swings, no slide, not even a low-key playdate. This is real, y'all. And it's part of why Schmopera was basically silent after everything hit. I was dealing with the to-do list that hit most media outlets - _pivot,_ [_PIVOT!_](https://www.youtube.com/watch?v=n67RYI_0sc0) - and since I'm a diverse lady with a few jobs to fill my time, I had to play favourites in those first weeks. (_The Globe and Mail_ and _Opera Canada_, to be specific.)
 
-But I'll admit this to you, readers. I freaked the eff out. I don't like my routine upended, my autonomy squashed, my little pleasures denied. I recharge with alone time, like during the days when I'm on mom-duty and Alex is napping and my husband is at work, and I'm mourning the loss of that. I like random outings with my son where I go to Bulk Barn and get us unnecessary snacks and then to some cafe and get myself a stupid latte and then we go to the playground and Alex has a blast on the seesaw or whatever and I sip my stupid latte. I miss wearing blazers and jewellery. Sure, I could be like our [fabulous Greg](https://www.instagram.com/giggyhertz/), but sweatpants are seductive. 
+> Are we icing?
+
+But I'll admit this to you, readers. I freaked the eff out. Turns out, I don't like my routine upended, my autonomy squashed, my little pleasures denied. I recharge with alone time - like during the days when I'm on mom-duty and Alex is napping and my husband is at his office - and I'm mourning the loss of that. I like random outings with my son where we go to Bulk Barn and get us unnecessary snacks and then to some cafe and I get myself a stupid latte and then we go to the playground and Alex has a blast on the seesaw or whatever and I sip my stupid latte. I miss wearing blazers and jewellery. Sure, I could be like our [fabulous Greg](https://www.instagram.com/giggyhertz/), but sweatpants are seductive. 
 
 And look - I don't hate it all enough to be one of [these morons](https://www.washingtonpost.com/nation/2020/04/16/michigan-whitmer-conservatives-protest/), but dammit, it sucks. 
 
