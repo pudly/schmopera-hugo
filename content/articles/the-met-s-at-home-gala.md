@@ -40,4 +40,5 @@ youtube_url = ""
 * ARC is cute, slightly annoying/ON - who's the bust behind him??
 * what do we learn? Opera singers are intense! And very different as individuals, some dorky, some nervous about the new medium, some relishing it
 * Sonja sounds great - find your mark!
-* 
+* Nadine is great, 
+* it's a bit of an inside love-fest here, saying hi to friends etc
