@@ -45,5 +45,6 @@ youtube_url = ""
 * Damrau/Testé duet is fun, they can actually act off each other
 * hard to balance the sense of feeling out of touch, humble braggy, ignorant about how lucky they are, but you also know shit is possibly dire for them and in that case it feels disingenuous
 * where's Etienne/Nicole? oh no! Skype issues
-* staging a home scene is harder than you'd think - make-up, background, doing a duet scene sitting down together? how awkward (Ailyn/bass)
+* staging a home scene is harder than you'd think - make-up, background, doing a duet scene sitting down together? how awkward (Ailyn/Howard)
 * Camarena is charming
+* all of the sub-par stuff must be forgiven - sound quality, "set design", the framing/cinematography, it's all equalized like everything else during this pandemic. So, what we're left with is charisma/showmanship/communication/star quality/
