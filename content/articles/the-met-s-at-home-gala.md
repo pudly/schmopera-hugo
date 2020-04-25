@@ -37,3 +37,5 @@ youtube_url = ""
 * **we wanna see tricks! Pape's low notes, Morley's high F, etc.
 * ildar abdrazakov is fun
 * picking rep - it's like performing for an opera pub - not everything reads the way you hope/think
+* ARC is cute, slightly annoying/ON - who's the bust behind him??
+* 
