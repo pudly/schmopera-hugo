@@ -26,5 +26,12 @@ youtube_url = ""
 * a weird result of the HD broadcasts is catching an up-close look at something that was never really meant to be seen up close. It's like meeting your idols, seeing the wig lines, the sweat, the clumsy glances at the conductor, the over-acting, the fakeness of a set - on one hand it's a fascinating inside look, and on the other hand it doesn't always show the art well - has to be the right opera
 * same with these - has to be the right artist
 * this is for the existing fans, no doubt - this gala isn't scooping up new opera lovers, I don't think
-* Erin Morley accompanying herself for Chacun le sait - nice
+* Erin Morley accompanying herself for Chacun le sait - nice -high F, easy performance, true star
 * Armiliato and Ambrogio together?? fucking boomers
+* There's something unnerving about being sung at - some strange rep choices, not everyone seems to get what it means to put on a damn show/gala
+* Garanca using her bookcase as a set piece for Habanera - fun
+* in this context, these people aren't always distinct from "average" people, it's hard to appreciate their talent
+* Angel Blue - used to the camera, you can tell she's done this sort of thing before
+* Quinn Kelsey - suave, easy voice
+* Rene Pape is charming, Alex Baldwin-y face and gorgeous impressive voice
+* 
