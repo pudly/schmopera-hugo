@@ -38,4 +38,5 @@ youtube_url = ""
 * ildar abdrazakov is fun
 * picking rep - it's like performing for an opera pub - not everything reads the way you hope/think
 * ARC is cute, slightly annoying/ON - who's the bust behind him??
+* what do we learn? Opera singers are intense! And very different as individuals, some dorky, some nervous about the new medium, some relishing it
 * 
