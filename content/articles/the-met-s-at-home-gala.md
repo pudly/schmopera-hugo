@@ -42,3 +42,7 @@ youtube_url = ""
 * Sonja sounds great - find your mark!
 * Nadine is great, 
 * it's a bit of an inside love-fest here, saying hi to friends etc
+* Damrau/Testé duet is fun, they can actually act off each other
+* hard to balance the sense of feeling out of touch, humble braggy, ignorant about how lucky they are, but you also know shit is possibly dire for them and in that case it feels disingenuous
+* where's Etienne/Nicole? oh no! Skype issues
+* 
