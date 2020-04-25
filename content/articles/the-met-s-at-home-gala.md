@@ -35,4 +35,5 @@ youtube_url = ""
 * Quinn Kelsey - suave, easy voice
 * Rene Pape is charming, Alex Baldwin-y face and gorgeous impressive voice
 * **we wanna see tricks! Pape's low notes, Morley's high F, etc.
-* 
+* ildar abdrazakov is fun
+* picking rep - it's like performing for an opera pub - not everything reads the way you hope/think
