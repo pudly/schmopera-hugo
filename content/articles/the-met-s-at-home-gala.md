@@ -34,4 +34,5 @@ youtube_url = ""
 * Angel Blue - used to the camera, you can tell she's done this sort of thing before
 * Quinn Kelsey - suave, easy voice
 * Rene Pape is charming, Alex Baldwin-y face and gorgeous impressive voice
+* **we wanna see tricks! Pape's low notes, Morley's high F, etc.
 * 
