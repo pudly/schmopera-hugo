@@ -23,6 +23,8 @@ It was admittedly a bit weird at times. Weird to see Jonas Kaufmann sing in jean
 
 But for a snoopy snoop like me, there were serious moments of charm with the _At-Home Gala_. We got little glimpses into these people's worlds - curated and tidied up for the festivities, I'm sure. Renée Fleming's airy living room, Nadine Sierra's foliage-filled space, and the delish kitchen of Diana Damrau and Nicolas Testé. It was fascinating to see which of these stage animals relish the virtual medium - not all of them did, I surmise.
 
+> It's a shame that she gave us something pre-recorded and all about Anna, without a whiff of the home-performance charm, and still managed to situate herself as a grand finale.
+
 Now is no time to look down on feats like this one, because it really was an amazing thing to witness. I wonder about a few things, though. Did the Met consider making this a ticketed event? It wasn't technically a fundraiser, but the "donate" button was ubiquitous - and that's understandable. I bet people would have paid for something like this, and the imperiled company could pocket a bit of fundraising - or even (and here goes one of the more naïve things I've ever written) send the money back to the participating artists.
 
 And speaking of the participating artists - I wonder very loudly how they felt about doing this for no fee, particularly those who found out about their cancelled Met contracts through social media posts. It's quite something for General Manager Peter Gelb to not call his contracted artists when COVID-19 shut everything down, and then ask them to come help "Save The Met" with a free performance at home. Yikes.
