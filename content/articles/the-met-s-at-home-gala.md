@@ -22,6 +22,10 @@ The Metropolitan Opera has been home to plenty of history over its lifespan, and
 
 It was admittedly a bit weird at times. Weird to see Jonas Kaufmann sing in jeans. Weird to watch Elīna Garanča use her bookcase as a sexy Habanera set piece. What was the story behind the strange bust sitting on the piano behind Anthony Roth Costanzo? Calleja standing stage-right of a big fish tank? For some reason I am spending a lot of time wondering about the mystery item laying askew on Matthew Polenzani's couch.
 
+But for a snoopy snoop like me, there were serious moments of charm with the _At-Home Gala_. We got little glimpses into these people's worlds - curated and tidied up for the occasion, I'm sure. Renée Fleming's airy living room, Nadine Sierra's foliage-filled space, and the delish kitchen of Diana Damrau and Nicolas Testé. It was fascinating to see which of these stage animals relish the virtual medium - not all of them did, I surmise.
+
+Now is no time to look down on feats like this one, because it really was an amazing 
+
 * this is weird
 * the interest factor lies in how these guys are going to pull it off, because this is not their medium, not what they've trained for
 * plus snooping into homes
