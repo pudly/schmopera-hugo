@@ -32,6 +32,8 @@ I'm not sure that the Met meant to reveal itself in this particular way, but I c
 
 Star power is something that absolutely is transferable from stage to screen. Soprano Erin Morley gave us a damn show - she accompanied herself doing "Chacun le sait" from _Le fille du régiment_, and gave us something impressive, elastic, and ending with an ovation-worthy high F. René Pape made a damn connection - he's got that Alec Baldwin-y look about him, and delivered Sarastro's first aria from _The Magic Flute_ like some sort of storytelling elder. Angel Blue, Ildar Abdrazakov, Lisette Oropesa, Günther Groissböck, Javier Camarena, all delightful. These are artists who can perform at an extraordinarily high level all the time, while remembering that this whole thing is all about entertainment.
 
+This was a gala with a very specific audience, no doubt. It was meant for those who are already opera fans and who get very excited by the idea of packing all these stars into one big Met adventure.  
+
 * this is weird
 * the interest factor lies in how these guys are going to pull it off, because this is not their medium, not what they've trained for
 * plus snooping into homes
