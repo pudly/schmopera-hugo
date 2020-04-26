@@ -24,7 +24,7 @@ It was admittedly a bit weird at times. Weird to see Jonas Kaufmann sing in jean
 
 But for a snoopy snoop like me, there were serious moments of charm with the _At-Home Gala_. We got little glimpses into these people's worlds - curated and tidied up for the occasion, I'm sure. Renée Fleming's airy living room, Nadine Sierra's foliage-filled space, and the delish kitchen of Diana Damrau and Nicolas Testé. It was fascinating to see which of these stage animals relish the virtual medium - not all of them did, I surmise.
 
-Now is no time to look down on feats like this one, because it really was an amazing 
+Now is no time to look down on feats like this one, because it really was an amazing thing to witness. I wonder about a few things, though. Did the Met consider making this a ticketed event? I bet people would have paid for something like this, and the imperiled company could pocket a bit of fundraising - or even, (and here goes one of the more naïve things I've ever written) send the money back to the participating artists. 
 
 * this is weird
 * the interest factor lies in how these guys are going to pull it off, because this is not their medium, not what they've trained for
