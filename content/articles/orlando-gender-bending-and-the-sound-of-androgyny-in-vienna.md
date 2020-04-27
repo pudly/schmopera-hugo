@@ -40,70 +40,12 @@ Unfortunately this moving scene halts the opera’s action. That exciting flow t
 
 But I wonder, if Orlando is truly androgynous and the opera’s androgynous spirit is to be maintained, if the voice would rise so radically. Larkin is on her own to delineate character and she does so with adroit intensity. She burns as Orlando the female and does so brilliantly, regardless of the appropriateness of her singing range. Due to the abstract and counter-intuitive grandeur of Kawakubo’s costumes designs, likely attention-getting from outer space, they don’t really establish character or place.
 
-When speeding along full-throttle, Orlando is populated by a remarkable group of characters. The queer cabaret artist Justin Vivian Bond, clad in a sheer black Comme des Garcons gown plays Orlando’s child, a character that does not appear in the book. While not an operatic performer in any sense, Mx. (gender neutral honorific preferred) Bond is a distinct presence who positions attitude like a laser. If this star of cabaret is uncomfortable on the operatic stage, it doesn’t
+When speeding along full-throttle, Orlando is populated by a remarkable group of characters. The queer cabaret artist Justin Vivian Bond, clad in a sheer black Comme des Garcons gown plays Orlando’s child, a character that does not appear in the book. While not an operatic performer in any sense, Mx. (gender neutral honorific preferred) Bond is a distinct presence who positions attitude like a laser. If this star of cabaret is uncomfortable on the operatic stage, it doesn’t show.
 
-show.
+There are several standouts in the large and generally excellent cast. Countertenor Eric Jurenas serves as Orlando’s Guardian Angel who watches over him from the very beginning. Soprano Agneta Eichenholz is Sasha, Orlando’s first love who runs off with a Russian sailor during the Great Frost. Later she appears as Chastity, one of three women who visits Orlando after he vows to become a poet and falls into a deep sleep. Baritone Leigh Melrose appears first as Orlando’s husband, Shelmerdine and then as her publisher, Greene. Soprano Constance Hauman divides her presence among three roles; Queen, Purity and Friend of Orlando’s Child.
 
-There are several standouts in the large and generally excellent cast.
+_Orlando_, a hybrid of fiction and imposed fact, of musical styles so varied it would be easier to mention what is not referenced and of intentions so adventurous as to appear impossible to realize is thrilling opera despite its glitches. What gives it such a strong sense of place, an extraordinary achievement considering that the opera takes place over centuries and almost everywhere, are the visual images that comprise the set or more aptly the places where action transpires. According to Duke, _Orlando_ provided opportunities to utilize all of the tools available to video designers; pre-recorded film, live cameras, animation, photography, graphic design, stock footage and archive footage. A large rear screen projection system is employed with four LED screens that could be configured to meet the video needs.
 
-Countertenor Eric Jurenas serves as Orlando’s Guardian Angel who watches over
+Duke says Neuwirth “had very clear ideas about the information she wanted the video to provide during each scene. Because neither the set design or costume design were really providing any narrative information it was important that the video was able to convey some of that to the audience.” He adds “We thought that incorporating such a range of styles was appropriate for the way that Olga had written the score for Orlando. Musically she references so many styles and periods of music so we wanted to try and mirror that with the images.”
 
-him from the very beginning. Soprano Agneta Eichenholz is Sasha, Orlando’s first
-
-love who runs off with a Russian sailor during the Great Frost. Later she appears
-
-as Chastity, one of three women who visits Orlando after he vows to become a
-
-poet and falls into a deep sleep. Baritone Leigh Melrose appears first as Orlando’s
-
-husband, Shelmerdine and then as her publisher, Greene. Soprano Constance
-
-Hauman divides her presence among three roles; Queen, Purity and Friend of
-
-Orlando’s Child.
-
-Orlando, a hybrid of fiction and imposed fact, of musical styles so varied it would
-
-be easier to mention what is not referenced and of intentions so adventurous as to
-
-appear impossible to realize is thrilling opera despite its glitches. What gives it
-
-such a strong sense of place, an extraordinary achievement considering that the
-
-opera takes place over centuries and almost everywhere, are the visual images
-
-that comprise the set or more aptly the places where action transpires. According
-
-to Duke, Orlando provided opportunities to utilize all of the tools available to video
-
-designers; pre-recorded film, live cameras, animation, photography, graphic
-
-design, stock footage and archive footage. A large rear screen projection system
-
-is employed with four LED screens that could be configured to meet the video
-
-needs.
-
-Duke says Neuwirth “had very clear ideas about the information she wanted the
-
-video to provide during each scene. Because neither the set design or costume
-
-design were really providing any narrative information it was important that the
-
-video was able to convey some of that to the audience.” He adds “We thought that
-
-incorporating such a range of styles was appropriate for the way that Olga had
-
-written the score for Orlando. Musically she references so many styles and
-
-periods of music so we wanted to try and mirror that with the images.”
-
-What the future holds for Orlando is an open question. As it stands it deserves
-
-further attention and after some judicious editing and rethinking of Orlando’s
-
-singing range, could well become a template for opera’s post-modern future.
-
-Opera needs a voice that speaks not only to the future but to an unpredictable and
-
-exciting one. Olga Neuwirth comes through loud and clear.
+What the future holds for _Orlando_ is an open question. As it stands it deserves further attention and after some judicious editing and rethinking of Orlando’s singing range, could well become a template for opera’s post-modern future. Opera needs a voice that speaks not only to the future but to an unpredictable and exciting one. Olga Neuwirth comes through loud and clear.
