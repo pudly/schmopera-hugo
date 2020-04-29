@@ -4,11 +4,10 @@ url: "/featured/"
 type: featured
 layout: list
 articles:
-- articles/aria-guides-ach-ich-fuhls.md
-- articles/5-books-that-should-be-operas.md
+- articles/the-met-s-at-home-gala.md
+- articles/4-tips-for-when-there-are-too-many-notes.md
+- articles/singing-in-english-3-reasons-why-no-one-can-understand-you.md
 - articles/opera-spin-off.md
-- articles/how-to-lead-your-pianist.md
-- articles/playing-bel-canto-4-tips-for-pianists.md
-- articles/vibrato-all-the-reasons-why.md
+- articles/4-steps-to-taking-fixing-notes.md
 
 ---
