@@ -59,7 +59,9 @@ What Woolf and Neuwirth make exceedingly clear is that Orlando’s sudden change
 
 </figure>
 
-Unfortunately this moving scene halts the opera’s action. That exciting flow that Pintscher and Graham developed is never fully regained. Kate Larkin, that mesmerizing mezzo-soprano, is Orlando, and what virtuosity she exudes, even while being a part of what sounds like a vocal miscalculation. No stranger to trouser parts, having most recently wowed Metropolitan Opera audiences as a punky Nerone in Handel’s _Agrippina_, Larkin dazzles with her low register when Orlando is a man. She is required to sing in a much higher range after transforming to a woman. At first the change and the impressive manner in which it is sustained seems spectacular and vocally it is a benchmark in Larkin’s career.
+Unfortunately this moving scene halts the opera’s action. That exciting flow that Pintscher and Graham developed is never fully regained. 
+
+Kate Larkin, that mesmerizing mezzo-soprano, is Orlando, and what virtuosity she exudes, even while being a part of what sounds like a vocal miscalculation. No stranger to trouser parts, having most recently wowed Metropolitan Opera audiences as a punky Nerone in Handel’s _Agrippina_, Larkin dazzles with her low register when Orlando is a man. She is required to sing in a much higher range after transforming to a woman. At first the change and the impressive manner in which it is sustained seems spectacular and vocally it is a benchmark in Larkin’s career.
 
 But I wonder, if Orlando is truly androgynous and the opera’s androgynous spirit is to be maintained, if the voice would rise so radically. Larkin is on her own to delineate character and she does so with adroit intensity. She burns as Orlando the female and does so brilliantly, regardless of the appropriateness of her singing range. Due to the abstract and counter-intuitive grandeur of Kawakubo’s costumes designs, likely attention-getting from outer space, they don’t really establish character or place.
 
