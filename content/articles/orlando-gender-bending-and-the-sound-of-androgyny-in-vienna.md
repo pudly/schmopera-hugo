@@ -7,7 +7,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1588074808/media/2020/04/sq16_Orlando_125412_LINDSEY_po9w8p.jpg"
-primary_image_credit = " Mezzo-soprano Kate Lindsey as Orlando as a man bathed in red in the Vienna State Opera’s production of Olga Neuwirth’s Orlando."
+primary_image_credit = " Mezzo-soprano Kate Lindsey as Orlando as a man bathed in red in the Vienna State Opera’s production of Olga Neuwirth’s Orlando. Photo: Wiener Staatsoper / Michael Pöhn."
 related_articles = ["articles/talking-with-singers-kate-lindsey.md", "articles/pacific-opera-victorias-steampunkmeetsfantasy-rinaldo.md"]
 related_companies = ["scene/companies/wiener-staatsoper.md"]
 related_people = ["scene/people/kate-lindsey.md"]
@@ -25,7 +25,7 @@ But Neuwirth wasn’t looking for a gateway to the esoteric. She sought a platfo
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1588074946/media/2020/04/07_Orlando_125264_MELROSE_LINDSEY_kcnmox.jpg){{% /md %}}
 
-<figcaption>Baritone Leigh Melrose as Orlando’s husband Shelmerdine and mezzo-soprano Kate Lindsey as Orlando  after becoming a woman in the Vienna State Opera production of Olga Neuwirth’s Orlando.</figcaption>
+<figcaption>Baritone Leigh Melrose as Orlando’s husband Shelmerdine and mezzo-soprano Kate Lindsey as Orlando  after becoming a woman in the Vienna State Opera production of Olga Neuwirth’s Orlando. Photo: Wiener Staatsoper / Michael Pöhn.</figcaption>
 
 </figure>
 
@@ -35,7 +35,7 @@ The curtain has barely risen on _Orlando_ and suddenly the orchestra in the pit 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1588074970/media/2020/04/19_Orlando_124976_KOEHLDORFER_NIGGLI_FOERST_b5nett.jpg){{% /md %}}
 
-<figcaption>An on stage rock band in an environment of mass consumerism in the Vienna State Opera’s production of Olga Neuwirth’s Orlando.</figcaption>
+<figcaption>An on stage rock band in an environment of mass consumerism in the Vienna State Opera’s production of Olga Neuwirth’s Orlando. Photo: Wiener Staatsoper / Michael Pöhn.</figcaption>
 
 </figure>
 
@@ -45,7 +45,7 @@ Polly Graham who assumed direction only seven weeks before the opera’s opening
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1588074990/media/2020/04/22_Orlando_124922_SZENE_jf4rdy.jpg){{% /md %}}
 
-<figcaption>The video design depicting the Great Frost by Will Duke for the Vienna State Opera’s production of Olga Neuwirth’s Orlando.</figcaption>
+<figcaption>The video design depicting the Great Frost by Will Duke for the Vienna State Opera’s production of Olga Neuwirth’s Orlando. Photo: Wiener Staatsoper / Michael Pöhn.</figcaption>
 
 </figure>
 
@@ -55,21 +55,21 @@ What Woolf and Neuwirth make exceedingly clear is that Orlando’s sudden change
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1588075018/media/2020/04/23_Orlando_125336_BOND_HAUMAN_ENSEMBLE_aumxxq.jpg){{% /md %}}
 
-<figcaption>Queer cabaret star Justin Vivian Bond and soprano Constance Hauman in the Vienna State Opera’s production of Olga Neuwirth’s Orlando.</figcaption>
+<figcaption>Queer cabaret star Justin Vivian Bond and soprano Constance Hauman in the Vienna State Opera’s production of Olga Neuwirth’s Orlando. Photo: Wiener Staatsoper / Michael Pöhn.</figcaption>
 
 </figure>
 
-Unfortunately this moving scene halts the opera’s action. That exciting flow that Pintscher and Graham developed is never fully regained. Kate Larkin, that mesmerizing mezzo-soprano, is Orlando, and what virtuosity she exudes, even while being a part of what sounds like a vocal miscalculation. No stranger to trouser parts, having most recently wowed Metropolitan Opera audiences as a punky Nerone in Handel’s _Agrippina_, Larkin dazzles with her low register when Orlando is a man. She is required to sing in a much higher range after transforming to a woman. At first the change and the impressive manner in which it is sustained seems spectacular and vocally it is a benchmark in Larkin’s career. 
-
-> If this star of cabaret is uncomfortable on the operatic stage, it doesn’t show.
+Unfortunately this moving scene halts the opera’s action. That exciting flow that Pintscher and Graham developed is never fully regained. Kate Larkin, that mesmerizing mezzo-soprano, is Orlando, and what virtuosity she exudes, even while being a part of what sounds like a vocal miscalculation. No stranger to trouser parts, having most recently wowed Metropolitan Opera audiences as a punky Nerone in Handel’s _Agrippina_, Larkin dazzles with her low register when Orlando is a man. She is required to sing in a much higher range after transforming to a woman. At first the change and the impressive manner in which it is sustained seems spectacular and vocally it is a benchmark in Larkin’s career.
 
 But I wonder, if Orlando is truly androgynous and the opera’s androgynous spirit is to be maintained, if the voice would rise so radically. Larkin is on her own to delineate character and she does so with adroit intensity. She burns as Orlando the female and does so brilliantly, regardless of the appropriateness of her singing range. Due to the abstract and counter-intuitive grandeur of Kawakubo’s costumes designs, likely attention-getting from outer space, they don’t really establish character or place.
+
+> If this star of cabaret is uncomfortable on the operatic stage, it doesn’t show.
 
 When speeding along full-throttle, Orlando is populated by a remarkable group of characters. The queer cabaret artist Justin Vivian Bond, clad in a sheer black Comme des Garcons gown plays Orlando’s child, a character that does not appear in the book. While not an operatic performer in any sense, Mx. (gender neutral honorific preferred) Bond is a distinct presence who positions attitude like a laser. If this star of cabaret is uncomfortable on the operatic stage, it doesn’t show.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1588075036/media/2020/04/26_Orlando_125371_CLEMENTI_LINDSEY_vuqf0x.jpg){{% /md %}}
 
-<figcaption>Mezzo-soprano Kate Larkin as Orlando who, still a man, decides to become a poet and write "The Oak Tree" in the Vienna State Opera’s production of Olga Neuwirth’s Orlando.</figcaption>
+<figcaption>Mezzo-soprano Kate Larkin as Orlando who, still a man, decides to become a poet and write "The Oak Tree" in the Vienna State Opera’s production of Olga Neuwirth’s Orlando. Photo: Wiener Staatsoper / Michael Pöhn.</figcaption>
 
 </figure>
 
