@@ -24,11 +24,15 @@ IN Series has turned their upcoming season entirely virtual. As in, a proper sea
 
 On top of that cool news, is the fact that it's free. Subscriptions are available for purchase starting in June, and those tickets buy you early and extended access to additional content. But for now, audiences can sample IN Series in its first brave foray into being a presenter of digital opera.
 
+> A lot of things are off the table: the acoustic smack of a great voice, the in-person wash of an orchestra.
+
 "We have taken the plunge and scrapped almost the entire season we had planned for next year – and not to do less, and not to do either what we already know or what is safe," says Timothy Nelson, Artistic Director of IN Series. "Rather, we have thrown out what was our plan and instead furiously embarked on imagining a new season which responds to and is in conversation with our collective todays." You can watch his full [video statement](https://youtu.be/JcY-2nhnAiY), or read the [transcript](http://www.inseries.org/a-message-from-timothy).
 
 It's the kind of thing I imagined would happen within the performing arts - yes, even opera. True, the opera world isn't known for making sudden movements, but there are certainly minds in the industry who are staunchly forward-thinking; those people are experiencing some serious inspiration right now.
 
 I'm totally curious to tune into [IN Series](http://www.inseries.org/)' season, which kicks off in July. I'm curious about what we'll get, because a lot of things are off the table: the acoustic smack of a great voice, the in-person wash of an orchestra. Instead, we'll get technical collaborations at a level that we wouldn't ordinarily, like video game-esque interactivity and virtual reality, and fusions with film and animation. 
+
+> Will virtual opera dilute what makes the art form special?
 
 It's hard to explain why, but the idea of a digital season fills me with a bit of dread. If the opera that gets created specifically for a online consumption isn't good, I'll worry; maybe opera isn't truly transferable from stage to screen. If the new content is great, I'll still worry a bit. Will it grab people the way my first live Wagner grabbed me? Will the skills of these singers be understood and appreciated without the physical acoustic to marvel at? Will virtual opera dilute what makes the art form special?
 
