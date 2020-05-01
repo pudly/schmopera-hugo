@@ -43,4 +43,6 @@ I can hear the soft calls of _ok, boomer_ in response to my petty fretting. I'm 
 * Minnesota Opera's **_Doubt_**, available now on [PBS.org](https://www.pbs.org/wnet/gperf/doubt-from-the-minnesota-opera-full-film/9384/) as part of their Great Performances series. There's some geographical restriction (which I'm experiencing as a well-meaning Canadian) but if location and VPNs are on your side, I'd give it a watch before it goes away on July 22. 
 * **_Breaking the Waves_**, on [Opera Philadelphia's Digital Festival](https://www.operaphila.org/whats-on/digital-festival/) line-up. Really, the whole Festival looks amazing (and it starts tonight), but I'm especially dying to see this opera after a WhatsApp call with Royce where he introduced me to composer Missy Mazzoli, with whom he was quarantining. It goes up May 29.
 
-Check back for a few reviews of the above. I'm still working away at a new project
+Check back for a few reviews of the above. I'm still working away at a new project that I think you guys will really like. I won't draw out the anticipation for too long, but I'm just excited so I'm blabbing.
+
+Anyway. Stay in touch, readers. What are you watching for your virtual opera fixes?
