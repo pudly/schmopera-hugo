@@ -32,7 +32,12 @@ I'm totally curious to tune into [IN Series](http://www.inseries.org/)' season, 
 
 It's hard to explain why, but the idea of a digital season fills me with a bit of dread. If the opera that gets created specifically for a online consumption isn't good, I'll worry; maybe opera isn't truly transferable from stage to screen. If the new content is great, I'll still worry a bit. Will it grab people the way my first live Wagner grabbed me? Will the skills of these singers be understood and appreciated without the physical acoustic to marvel at? Will virtual opera dilute what makes the art form special?
 
+I can hear the soft calls of _ok, boomer_ in response to my petty fretting. I'm still going to check all this newfangled stuff out, but I'll probably take it with a good dose of retro-Met productions from the 80s and 90s, and some good old-fashioned streaming. As promised a few paragraphs ago, here are few items that are getting me particularly excited:
+
+* **_Breaking the Waves_**, on [Opera Philadelphia's Digital Festival](https://www.operaphila.org/whats-on/digital-festival/) line-up. Really, the whole thing looks amazing, but after I interviewed librettist Royce Vavrek for an upcoming feature for _Opera Canada_, (including a WhatsApp call where he introduced me to composer Missy Mazzoli, with whom he's currently quarantining), I'm dying to see this opera. It happens May 29.
+* Minnesota Opera's **_Doubt_**, available now on [PBS.org](https://www.pbs.org/wnet/gperf/doubt-from-the-minnesota-opera-full-film/9384/) as part of their Great Performances series. There's some geographical restriction (which I'm experiencing as a well-meaning Canadian) but if location and VPNs are on your side, I'd give it a watch before it goes away on July 22. 
+* Angel's Bone, on LA Opera's LAO at Home page. Again, more Royce Vavrek, but this time it's his opera with Du Yun that won the 2017 Pulitzer Prize for music. The story sounds nuts: two angels get abducted by people and forced into sexual slavery. Eek.
+
 <figure data-type="image">{{% md %}}<iframe width="1280" height="720" src="https://www.youtube.com/embed/JcY-2nhnAiY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
-<figcaption></figcaption>  
-</figure>
+<figcaption></figcaption></figure>
