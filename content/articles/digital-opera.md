@@ -13,8 +13,8 @@ related_articles = ["articles/talking-with-conductors-michael-christie.md", "art
 related_companies = ["scene/companies/minnesota-opera.md", "scene/companies/opera-philadelphia.md", "scene/companies/beth-morrison-projects.md", "scene/companies/los-angeles-opera.md", "scene/companies/the-metropolitan-opera.md"]
 related_people = []
 short_description = "It's the kind of thing I imagined would happen within the performing arts - yes, even opera. True, the opera world isn't known for making sudden movements, but there are certainly minds in the industry who are staunchly forward-thinking; those people are experiencing some serious inspiration right now."
-slug = "digital-opera"
-title = "Digital opera "
+slug = "digital-opera-growing-pains-critics-picks"
+title = "Digital opera, growing pains, & critic's picks"
 youtube_url = ""
 
 +++
