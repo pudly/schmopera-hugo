@@ -30,7 +30,7 @@ It's the kind of thing I imagined would happen within the performing arts - yes,
 
 I'm totally curious to tune into [IN Series](http://www.inseries.org/)' season, which kicks off in July. I'm curious about what we'll get, because a lot of things are off the table: the acoustic smack of a great voice, the in-person wash of an orchestra. Instead, we'll get technical collaborations at a level that we wouldn't ordinarily, like video game-esque interactivity and virtual reality, and fusions with film and animation. 
 
-It's hard to explain why, but the idea of a digital season fills me with a bit of dread. If the opera that gets created specifically for a online consumption isn't good, I'll worry; maybe opera isn't truly transferable from stage to screen. If the new content is great, I'll still worry a bit. Will it grab people the way my first live Wagner grabbed me? Will the skills of these singers be understood and appreciated? 
+It's hard to explain why, but the idea of a digital season fills me with a bit of dread. If the opera that gets created specifically for a online consumption isn't good, I'll worry; maybe opera isn't truly transferable from stage to screen. If the new content is great, I'll still worry a bit. Will it grab people the way my first live Wagner grabbed me? Will the skills of these singers be understood and appreciated without the physical acoustic to marvel at? Will virtual opera dilute what makes the art form special?
 
 <figure data-type="image">{{% md %}}<iframe width="1280" height="720" src="https://www.youtube.com/embed/JcY-2nhnAiY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
