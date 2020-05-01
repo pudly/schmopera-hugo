@@ -24,6 +24,8 @@ IN Series has turned their upcoming season entirely virtual. As in, a proper sea
 
 On top of that cool news, is the fact that it's free. Subscriptions are available for purchase starting in June, and those tickets buy you early and extended access to additional content. But for now, audiences can sample IN Series in its first brave foray into being a presenter of digital opera.
 
+It's the kind of thing I imagined would happen within the performing arts - yes, even opera. True, the opera world isn't known for making sudden movements, but there are certainly minds in the industry who are staunchly forward-thinking; those people are probably experiencing some decent 
+
 <figure data-type="image">{{% md %}}<iframe width="1280" height="720" src="https://www.youtube.com/embed/JcY-2nhnAiY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
 <figcaption></figcaption>  
