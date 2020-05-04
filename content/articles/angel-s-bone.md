@@ -8,12 +8,12 @@ postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1588553141/media/2020/05/sqAngelsBone-020_gnyqxl.jpg"
 primary_image_credit = "Angel's Bone, 2018. Photo: Hong Kong Leisure and Cultural Services Department/Beth Morrison Projects."
-related_articles = []
-related_companies = []
+related_articles = ["articles/the-start-of-something-powerful-the-echo-drift.md", "articles/its-official-breaking-the-waves-wins-best-new-opera.md"]
+related_companies = ["scene/companies/prototype-festival.md", "scene/companies/beth-morrison-projects.md"]
 related_people = []
 short_description = "Honestly, in that scene where Mr. X.E. takes a cleaver to the angels' wings, I think I had an \"aha\" moment. I thought I'd experienced that thing where the story is excellent and the music makes it even more excellent, but this moment was something else entirely."
-slug = "angels-bone"
-title = "Angel's Bone"
+slug = "angels-bone-i-finally-saw-it-and-im-never-going-to-be-the-same"
+title = "Angel's Bone: I finally saw it and I'm never going to be the same"
 youtube_url = ""
 
 +++
