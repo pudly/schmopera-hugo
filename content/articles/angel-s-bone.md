@@ -30,4 +30,4 @@ But it was the Girl and Boy Angels that got me the most. I'm not even sure where
 
 I can't tell if it was this glorious casting that made these characters so horrifying and compelling, or if it was the way they were written by Du Yun and Royce Vavrek. It's probably true that _Angel's Bone_ hits that white-whale mark, where collaborative creation leads to something greater than the sum of its parts. Honestly, in that scene where Mr. X.E. takes a cleaver to the angels' wings, I think I had an "aha" moment. I thought I'd experienced that thing where the story is excellent and the music makes it even more excellent, but this moment was something else entirely. Chaotic blasts of sound by Du Yun punctuate the angels' hair-raising screams of pain and fear and disbelief - that's some fucking opera right there. Christ.
 
-I feel like I'm stuck on details - that one scene, the incredible cast, the craft 
+I feel like I'm stuck on details - that one scene, the incredible cast, the craft that went into making this opera - and I'm not even telling you much about it. But it doesn't really matter why 
