@@ -29,7 +29,7 @@ This opera is hard on the heart. Two angels, nostalgic for earthly life, make th
 
 </figure>
 
-_Angel's Bone_, frankly, fucked me up. The opera is so rich with dramatic beats that it's hard to pinpoint exactly when you become swept away by the story, but it's within the first minutes. There are delicious layers in the X.E.'s, particularly the arc of Mrs. X.E. (Abigail Fischer) and her bored-housewife introduction that reads like a bleak, bizarro-world version of Dinah in _Trouble in Tahiti_. She goes from banal victim to vicious trafficker seemingly on a dime, with a pointed dose of abusive behaviour that erased all hope of her character getting any sympathy from me. 
+_Angel's Bone_, frankly, fucked me up. The opera is so rich with dramatic beats that it's hard to pinpoint exactly when you become swept away by the story, but it's within the first minutes. There are delicious layers in the X.E.'s, particularly the arc of Mrs. X.E. (Abigail Fischer) and her bored-housewife introduction that reads like a bleak, bizarro-world version of Dinah in _Trouble in Tahiti_. She goes from banal victim to vicious trafficker seemingly on a dime, with a pointed dose of abusive behaviour that erases all hope of her character getting any sympathy from me. 
 
 > It's all a bit unnatural, just unfamiliar enough to give me the heebie-jeebies. 
 
