@@ -21,7 +21,7 @@ Though I have a [complicated relationship](/what-the-mets-at-home-gala-teaches-u
 
 It's a good consolation prize. The Hong Kong production features the cast and creative team that was set for Los Angeles; for the most part, it's this team that has seen _Angel's Bone_ through since in 2016 premiere at New York's PROTOTYPE Festival. 
 
-This opera is hard on the heart. Two angels, nostalgic for earthly life, make the long journey back to the mortal world. When Mr. and Mrs. X.E. discover the angels in their garden, they are in the thick of the stress and mutual resentment that comes out of financial worries and an untended marriage. The couple "prune" the angels - hacking off their wings in a terrorizing scene of violence - and commodify them, selling them as sexual and spiritual slaves for men and women who are into that sort of angelic experience.
+This opera is hard on the heart. Two angels, nostalgic for earthly life, make the long journey back to the mortal world. When Mr. and Mrs. X.E. discover the angels in their garden, they are in the thick of the stress and mutual resentment that comes out of financial worries and an untended marriage. The couple "prune" the angels - hacking off their wings in a terrorizing scene of violence - and commodify them, selling them as sexual and spiritual slaves for men and women who are into that sort of "angelic" experience.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1588553229/media/2020/05/AngelsBone-016_qxmhdk.jpg){{% /md %}}
 
