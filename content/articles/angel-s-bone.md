@@ -17,7 +17,7 @@ title = "Angel's Bone: I finally saw it and I'm never going to be the same"
 youtube_url = ""
 
 +++
-Though I have a [complicated relationship](/what-the-mets-at-home-gala-teaches-us-about-evolution/) with all this freely streamed opera happening from houses worldwide, I can admit that I voraciously consumed LA Opera's most recent [LAO at Home](https://www.laopera.org/discover/laoathome/) presentation, _Angel's Bone_. The Pulitzer Prize-winning opera by composer Du Yun and librettist [Royce Vavrek](/jacqueline-come-for-the-music-stay-for-everything-else/) was supposed to go up as part of LAO's Off Grand series, but in lieu of _Angel's Bone_ live, they've offered up the 2018 production from the Hong Kong New Vision Arts Festival.
+Though I have a [complicated relationship](/what-the-mets-at-home-gala-teaches-us-about-evolution/) with all this freely streamed opera happening from houses worldwide, I can admit that I voraciously consumed LA Opera's most recent [LAO at Home](https://www.laopera.org/discover/laoathome/) presentation, _Angel's Bone_. The Pulitzer Prize-winning opera by composer [Du Yun](http://channelduyun.com/) and librettist [Royce Vavrek](/jacqueline-come-for-the-music-stay-for-everything-else/) was supposed to go up as part of LAO's Off Grand series, but in lieu of _Angel's Bone_ live, they've offered up the 2018 production from the Hong Kong New Vision Arts Festival.
 
 It's a good consolation prize. The Hong Kong production features the cast and creative team that was set for Los Angeles; for the most part, it's this team that has seen _Angel's Bone_ through since in 2016 premiere at New York's PROTOTYPE Festival. 
 
