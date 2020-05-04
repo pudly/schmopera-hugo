@@ -17,9 +17,9 @@ title = "Angel's Bone: I finally saw it and I'm never going to be the same"
 youtube_url = ""
 
 +++
-Though I have a [complicated relationship](/what-the-mets-at-home-gala-teaches-us-about-evolution/) with all this freely streamed opera happening from houses worldwide, I can admit that I voraciously consumed LA Opera's most recent [LAO at Home](https://www.laopera.org/discover/laoathome/) presentation, _Angel's Bone_. The Pulitzer Prize-winning opera by composer [Du Yun](http://channelduyun.com/) and librettist [Royce Vavrek](/jacqueline-come-for-the-music-stay-for-everything-else/) was supposed to go up as part of LAO's Off Grand series, but in lieu of _Angel's Bone_ live, they've offered up the 2018 production from the Hong Kong New Vision Arts Festival.
+Though I have a [complicated relationship](/what-the-mets-at-home-gala-teaches-us-about-evolution/) with all this freely streamed opera happening from houses worldwide, I can admit that I voraciously consumed LA Opera's most recent [LAO at Home](https://www.laopera.org/discover/laoathome/) presentation, _Angel's Bone_. The Pulitzer Prize-winning opera by composer [Du Yun](http://channelduyun.com/) and librettist [Royce Vavrek](/jacqueline-come-for-the-music-stay-for-everything-else/) is a production of [Beth Morrison Projects](https://www.bethmorrisonprojects.org/), and was supposed to tour to Los Angeles as part of LAO's Off Grand series, but in lieu of _Angel's Bone_ live, they've offered up the 2018 production from the Hong Kong New Vision Arts Festival.
 
-It's a good consolation prize. The Hong Kong production features the cast and creative team that was set for Los Angeles; for the most part, it's this team that has seen _Angel's Bone_ through since in 2016 premiere at New York's PROTOTYPE Festival. 
+It's a good consolation prize. The Hong Kong production features the cast and creative team that was set for Los Angeles; for the most part, it's this BMP-led team that has seen _Angel's Bone_ through since in 2016 premiere at New York's PROTOTYPE Festival. 
 
 This opera is hard on the heart. Two angels, nostalgic for earthly life, make the long journey back to the mortal world. When Mr. and Mrs. X.E. discover the angels in their garden, they are in the thick of the stress and mutual resentment that comes out of financial worries and an untended marriage. The couple "prune" the angels - hacking off their wings in a terrorizing scene of violence - and commodify them, selling them as sexual and spiritual slaves for men and women who are into that sort of "angelic" experience.
 
@@ -63,4 +63,4 @@ I feel like I'm stuck on details - that one scene, the incredible cast, the craf
 
 </figure>
 
-It's no longer free to watch with LA Opera, but it's on [Spotify](https://open.spotify.com/album/4cca23DSrJ5uEeXMDiq0Z9), [Amazon](https://www.amazon.com/Angels-Bone-Du-Yun/dp/B0754RJK1Q), [Apple Music](https://music.apple.com/us/album/angels-bone/1457797561), & probably more. Do it, you honestly won't hear anything like this.
+It's no longer free to watch with LA Opera, but it's available on [Beth Morrison Projects' website](https://www.bethmorrisonprojects.org/), and for listening on [Spotify](https://open.spotify.com/album/4cca23DSrJ5uEeXMDiq0Z9), [Amazon](https://www.amazon.com/Angels-Bone-Du-Yun/dp/B0754RJK1Q), [Apple Music](https://music.apple.com/us/album/angels-bone/1457797561), & probably more. Do it, you honestly won't hear anything like this.
