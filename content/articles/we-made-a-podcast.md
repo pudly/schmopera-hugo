@@ -20,6 +20,10 @@ youtube_url = ""
 +++
 Big news, readers!
 
-We've got ourselves a podcast. It's called _The Everything Will Be Okay Podcast_, and it's an extension of our ongoing _Talking with Singers_ interview series. As the title suggests, this podcast is about finding bits of hope even when all your gigs are cancelled because there's a global pandemic. Schmopera editor Jenna Simeonov checks in with artists as they deal in their own ways with the loss of income, loss of motivation, and even the loss of identiy. 
+We've got ourselves a podcast. It's called _The Everything Will Be Okay Podcast_, and it's an extension of our ongoing _Talking with Singers_ interview series. As the title suggests, this podcast is about finding bits of hope even when all your gigs are cancelled because there's a global pandemic. Schmopera editor Jenna Simeonov checks in with artists as they deal in their own ways with the loss of income, loss of motivation, and even the loss of identiy.
 
 Hope is actually quite easy to find among artists, it turns out. No spoilers, but so far, the consensus is that yes, we actually will be okay.
+
+_The Everything Will Be Okay Podcast_ is available on [Spotify](https://open.spotify.com/show/5QfYMk8SUnL7RhCUJOxwf5), [Anchor](https://anchor.fm/tewbop), and very soon (fingers crossed) on Apple Podcasts. 
+
+Listen, subscribe, and tell your friends! 
