@@ -32,7 +32,7 @@ If you already have social media channels, then you already have a following - m
 
 ## Sing for a music licensing agency
 
-While you’re performing and recording at home, you can upload original songs that you’d be willing to let someone else pay to license and use, or even work on brand new songs for advertisements with help from a music licensing agency. For example, [Marmoset](https://www.marmosetmusic.com/studio) is an agency that hires singers specifically for their custom music production services. These types of companies can also guide you in finding the right style and genre that fits you as a singer.
+While you're performing and recording at home, you can upload original songs that you'd be willing to let someone else pay to license and use, or even work on brand new songs for advertisements with help from a music licensing agency. For example, [Marmoset](https://www.marmosetmusic.com/studio) is an agency that hires singers specifically for their custom music production services. These types of companies can also guide you in finding the right style and genre that fits you as a singer.
 
 You can create your own custom brand of songs by contributing to a music licensing library and really promote yourself as an artist. You never know which brand or what filmmaker might pick up the rights to use your song - you could be opening doors for yourself just by utilizing this resource. If a singer can get "in" with a music licensing agency as one of their artists, they can get paid to provide vocals for brand new tracks that companies will use in their ads. How cool is that?!
 
