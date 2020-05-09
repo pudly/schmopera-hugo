@@ -44,9 +44,9 @@ You can even make it more special by creating the merchandise especially for you
 
 ## Consider other gigs that you haven't done before
 
-What are other singers doing right now? This is a question that you should be asking of your fellow musicians, and finding out how they are still able to solidify gigs right now. Maybe you only performed at the local bar - is there some other gig opportunities out there that you can take advantage of right now?
+What are other singers doing currently? This is a question that you should be asking of your fellow musicians, and finding out how they are still able to solidify gigs right now. Maybe you only performed at the local bar - is there some other gig opportunities out there that you can take advantage of?
 
-Virtual performing is a great way to continue your craft but also to keep singing as if you would in a gig situation, you can hire yourself out that way as well to be virtually at someone’s birthday party, or some sort of event where you might possibly be hired. People still want entertainment, so be the one that provides it for them in any way that you can. Maybe someone is hosting a wedding during this pandemic, and they want some live music at the reception that can only be their family out in the backyard - this is a great gig opportunity for you as a singer.
+Virtual performing is a great way to continue your craft but also to keep singing as if you would in a gig situation, you can hire yourself out that way as well to be virtually at someone's birthday party, or some sort of event where you might possibly be hired. People still want entertainment, so be the one that provides it for them in any way that you can. Maybe someone is hosting a wedding during this pandemic, and they want some live music at the reception that can only be their family out in the backyard - this is a great gig opportunity for you as a singer.
 
 ## Contact a local venue and create a gig experience
 
