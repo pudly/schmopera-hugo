@@ -24,6 +24,6 @@ We've got ourselves a podcast. It's called [_The Everything Will Be Okay Podcast
 
 There are cool guests so far. Formidable conductors, new music muses, superstar sopranos, optimistic tenors, even a comprimario or two. And it turns out that hope is actually quite easy to find among artists. No spoilers, but so far, the consensus is that yes, we actually will be okay.
 
-[_The Everything Will Be Okay Podcast_](https://anchor.fm/tewbop) is available on [Spotify](https://open.spotify.com/show/5QfYMk8SUnL7RhCUJOxwf5), [Anchor](https://anchor.fm/tewbop), and very soon (fingers crossed) on Apple Podcasts. 
+[_The Everything Will Be Okay Podcast_](https://anchor.fm/tewbop) is available on [Spotify](https://open.spotify.com/show/5QfYMk8SUnL7RhCUJOxwf5), [Anchor](https://anchor.fm/tewbop), and ASAP on Apple Podcasts.
 
-Listen, subscribe, and tell your friends! 
+Listen, subscribe, and tell your friends!
