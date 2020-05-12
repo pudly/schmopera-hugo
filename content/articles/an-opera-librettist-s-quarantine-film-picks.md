@@ -40,7 +40,7 @@ youtube_url = ""
 
 ## _In the Mood for Love_ - Wong Kar-wai
 
-"Why not spend time with one of, if not the best film ever made? Those performances (Maggie Cheung and Tony Leung!), those costumes, the cinematography, that score. Wong Kar-Wai is everything.
+"Why not spend time with one of, if not the [best film ever made](https://www.criterion.com/films/198-in-the-mood-for-love)? Those performances (Maggie Cheung and Tony Leung!), those costumes, the cinematography, that score. Wong Kar-Wai is everything.
 
 ## _Sense and Sensibility_ - Ang Lee
 
@@ -56,4 +56,4 @@ youtube_url = ""
 
 ## _The Young Pope / The New Pope_ - Paolo Sorrentino
 
-"The two seasons of Paola Sorrentino’s papal extravaganza is television at its most arresting and cinematic.  Every shot is an image you want to luxuriate in.  And being a sucker for sensational performances, I find the work of Jude Law, Sally Field, Scott Shepherd, John Malkovitch and Silvio Orlando is some of the best you’ll find anywhere."
+"The two seasons of [Paola Sorrentino's papal extravaganza ](https://www.hbo.com/the-new-pope)is television at its most arresting and cinematic. Every shot is an image you want to luxuriate in. And being a sucker for sensational performances, I find the work of Jude Law, Sally Field, Scott Shepherd, John Malkovitch and Silvio Orlando is some of the best you'll find anywhere."
