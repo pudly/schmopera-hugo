@@ -18,16 +18,15 @@ title = "Minnesota Opera"
 youtube_url = ""
 
 +++
-
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1589245832/media/2020/05/MNO-SilentLightChorus-collage_gislnt.jpg){{% /md %}}
 
 <figcaption>Kevin Puts (right) and Mark Campbell (bottom left), composer and librettist of Silent Night, and Andrew Whitfield (top left), Assistant Conductor and Chorus Master, Minnesota Opera.</figcaption>
 
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1589245946/media/2020/05/MNO-facemasks_mpwffx.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Protective masks were made by Minnesota Opera costume and scene shop personnel. Over 10,000 masks were distributed to health care workers, assisted-living homes, veterinarians, blood services, shelters, and other places in need. These masks pictured were made for MN Opera board members from material used is costumes for past productions including La Traviata, Carmen, and The Manchurian Candidate. Photo: MN Opera</figcaption>
 
 </figure>
 
