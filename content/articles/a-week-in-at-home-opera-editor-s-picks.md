@@ -4,7 +4,7 @@ categories = "Editorial"
 date = 2020-05-11T04:00:00Z
 disclaimer = ""
 image_gallery = []
-postamble = ""
+postamble = "What are you watching this week? Let us know in the comments, or at [hello@schmopera.com](mailto:hello@schmopera.com)."
 preamble = "Online opera is all the rage, guys. And I don't know about you, but my super serious problem right now is deciding what on earth to watch in my jammies with my big wine glass and maybe some of the cookies I made as bribery tokens while my son is potty training.\n\nFor what it's worth, here's a bit of what I'm watching this week:"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1589239503/media/2020/05/sqVirtualOperainaWeek_itq10g.jpg"
 primary_image_credit = ""
@@ -31,7 +31,7 @@ Beth Morrison Projects is offering up an Opera of the Week, and currently, that 
 
 ## _Il TRIVIAtore_ with Nicholas Brownlee
 
-As part of [LA Opera](/scene/companies/los-angeles-opera/)'s [LAO at Home](https://www.laopera.org/discover/laoathome/coming-up-next/) programming, baritone Nicholas Brownlee will host the first opera trivia event that I've ever heard of, and I'm utterly pumped. It happens Wednesday, **May 13 at 12pm PDT**. Is it competitive? Maybe there are prizes? Who knows; the details are a bit scarce, but I'm still in. In it to win it, that is. 
+As part of [LA Opera](/scene/companies/los-angeles-opera/)'s [LAO at Home](https://www.laopera.org/discover/laoathome/coming-up-next/) programming, baritone Nicholas Brownlee will host the first opera trivia event that I've ever heard of, and I'm utterly pumped. It happens Wednesday, **May 13 at 12pm PDT**. Is it competitive? Maybe there are prizes? Who knows; the details are a bit scarce, but I'm still in. In it to win it, that is.
 
 ## _#Superflute_
 
