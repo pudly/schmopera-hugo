@@ -54,8 +54,6 @@ youtube_url = ""
 
 "This documentary series has become appointment viewing in quarantine.  I’m hunkered down with my composer-collaborator Missy Mazzoli in Briarcliff Manor, NY, and this documentary series where three drag queens travel to small towns in the US to stage one-night-only spectacular shows with the locals is as joyous, moving and addictive as television comes."
 
-The Young Pope / The New Pope
+## _The Young Pope / The New Pope_ - Paolo Sorrentino
 
-            Paolo Sorrentino
-
-·      The two seasons of Paola Sorrentino’s papal extravaganza is television at its most arresting and cinematic.  Every shot is an image you want to luxuriate in.  And being a sucker for sensational performances, I find the work of Jude Law, Sally Field, Scott Shepherd, John Malkovitch and Silvio Orlando is some of the best you’ll find anywhere.
+"The two seasons of Paola Sorrentino’s papal extravaganza is television at its most arresting and cinematic.  Every shot is an image you want to luxuriate in.  And being a sucker for sensational performances, I find the work of Jude Law, Sally Field, Scott Shepherd, John Malkovitch and Silvio Orlando is some of the best you’ll find anywhere."
