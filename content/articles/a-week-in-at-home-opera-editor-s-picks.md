@@ -21,7 +21,7 @@ youtube_url = ""
 
 I mean, the tagline says it all: "an online fantasia of Verdi's _Macbeth_". [Heartbeat Opera](/scene/companies/heartbeat-opera/) is apparently rocking the online medium, and I'm pretty excited about _Lady M_, which runs currently **until May 20**. I'm not entirely sure what to expect, but Verdi's great, and the [Heartbeat Opera folks](/a-truly-otherworldly-space-heartbeat-operas-drag-extravaganza/) are great, so "great" seems to be a logical end. Tickets are $20 ([ticketed events support artists!](/what-the-mets-at-home-gala-teaches-us-about-evolution/)), and you can get a sneak peek here:
 
-<figure data-type="video">{{% md %}}<iframe width="1013" height="570" src="https://www.youtube.com/embed/uvWlshkmqfU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">{{% md %}}<iframe width="405" height="228" src="https://www.youtube.com/embed/fwpYvHtPGVc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
 </figure>
 
