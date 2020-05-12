@@ -51,6 +51,11 @@ youtube_url = ""
 
 "I love Jane Austen.  I love Emma Thompson.  I love Kate Winslet.  I love Alan Rickman.  I love Greg Wise.  I love Hugh Grant.  I love Ang Lee.  I have the most amazing memory of my father taking me to the cinema in Grande Prairie, Alberta to see this when I was 12 years old, and [it's a movie](https://www.imdb.com/title/tt0114388/) that I have seen a million times, and will see it a gazillion more."
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1589286832/media/2020/05/Movie-still-Emma-Thompson-Kate-Winslet-Sense-and-Sensibility-1995_ivorh0.jpg){{% /md %}}
+
+<figcaption>Emma Thompson and Kate Winslet in _Sense and Sensibility_, 1995.</figcaption>  
+</figure>
+
 ## _Stories We Tell_ - Sarah Polley
 
 "[This documentary](https://www.nfb.ca/film/stories_we_tell/) is one of the most beautiful, personal, surprising feats of filmmaking I’ve ever experienced.  Growing up with Sarah Polley on 'Road to Avonlea', I have been a lifelong fan of her work. This is next-level art of the first order."
