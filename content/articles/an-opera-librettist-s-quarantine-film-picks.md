@@ -48,7 +48,7 @@ youtube_url = ""
 
 ## _Stories We Tell_ - Sarah Polley
 
-"[This documentary](https://www.nfb.ca/film/stories_we_tell/) is one of the most beautiful, personal, surprising feats of filmmaking I’ve ever experienced.  Growing up with Sarah Polley on “Road to Avonlea”, I have been a lifelong fan of her work.  This is next-level art of the first order.
+"[This documentary](https://www.nfb.ca/film/stories_we_tell/) is one of the most beautiful, personal, surprising feats of filmmaking I’ve ever experienced. Growing up with Sarah Polley on 'Road to Avonlea', I have been a lifelong fan of her work. This is next-level art of the first order."
 
 ## _We're Here_ - Bob the Drag Queen, Eureka O'Hara and Shangela
 
