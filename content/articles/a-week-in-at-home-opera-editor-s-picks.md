@@ -27,7 +27,7 @@ I mean, the tagline says it all: "an online fantasia of Verdi's _Macbeth_". [Hea
 
 ## _Aging Magician_
 
-Beth Morrison Projects is offering up an Opera of the Week, and currently, that opera is _Aging Magician_. The opera is by composer Paola Prestini, writer/performer Rinde Eckert, and director/designer Julian Crouch. It's up until Thursday at noon (that's **May 14 at noon PDT**, I imagine). If you're curious for a bit of context, you can check out the [special video message by Paola Prestini](https://www.bethmorrisonprojects.org/), or Schmopera contributor Eva Cahen's recent [interview with Rinde Eckert](/magic-everywhere-in-sdos-aging-magician/), which happened ahead of the opera's would-be run of shows at San Diego Opera in March.
+Beth Morrison Projects is offering up an Opera of the Week, and currently, that opera is _Aging Magician_. The opera is by composer Paola Prestini, writer/performer Rinde Eckert, and director/designer Julian Crouch. It's up **until May 14 at noon PDT**. If you're curious for a bit of context, you can check out the [special video message by Paola Prestini](https://www.bethmorrisonprojects.org/), or Schmopera contributor Eva Cahen's recent [interview with Rinde Eckert](/magic-everywhere-in-sdos-aging-magician/), which happened ahead of the opera's would-be run of shows at San Diego Opera in March.
 
 ## _Il TRIVIAtore_ with Nicholas Brownlee
 
