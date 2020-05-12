@@ -52,7 +52,7 @@ youtube_url = ""
 
 ## _We're Here_ - Bob the Drag Queen, Eureka O'Hara and Shangela
 
-"This documentary series has become appointment viewing in quarantine.  I’m hunkered down with my composer-collaborator Missy Mazzoli in Briarcliff Manor, NY, and this documentary series where three drag queens travel to small towns in the US to stage one-night-only spectacular shows with the locals is as joyous, moving and addictive as television comes."
+"This documentary series has become appointment viewing in quarantine.  I'm hunkered down with my composer-collaborator Missy Mazzoli in Briarcliff Manor, NY, and this documentary series where three drag queens travel to small towns in the US to stage one-night-only spectacular shows with the locals is as joyous, moving and addictive as television comes."
 
 ## _The Young Pope / The New Pope_ - Paolo Sorrentino
 
