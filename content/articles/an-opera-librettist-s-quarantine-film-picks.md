@@ -30,6 +30,11 @@ youtube_url = ""
 
 "Probably my favorite comedy.  No matter how many times I see [this movie](https://www.imdb.com/title/tt1478338/), I can’t help but laugh my ass off.  I will go anywhere for Melissa McCarthy."
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1589286666/media/2020/05/bridemaids_dwojaj.jpg){{% /md %}}
+
+<figcaption>_Bridesmaids_, 2011.</figcaption>  
+</figure?
+
 ## _Fat Girl_ - Catherine Breillat
 
 "I am a die-hard Catherine Breillat fan.  If you can get a copy of her controversial _Une vraie jeune fille_, do yourself a favor and see what all the fuss is/was about. It has definitely informed a lot of my writing. I'm recommending [_Fat Girl_](https://www.criterion.com/films/548-fat-girl), which I just re-watched a few days ago and continually blows my mind with every viewing.  And I welcome any opportunity to spend time watching the luminous Arsinée Khanjian.
