@@ -18,7 +18,6 @@ title = "\"Sleep Chorus\" & mask-making keep Minnesota Opera visible during pand
 youtube_url = ""
 
 +++
-
 **You have the dual roles of assistant conductor and chorus master at Minnesota Opera. That sounds like a great job. Tell us about a typical day handling those position, especially in terms of the upcoming season, not that anyone has experienced anything "typical" in the last couple of months.**
 
 **Andrew Whitfield:** In spite of current events, things have been rather typical of any period in which we are not in production. We are looking at the upcoming season, and planning. At the moment there are a lot of interesting virtual projects that we have been working on as well. Obviously it is not the same as working with people in person, but I feel very fortunate to have the diversion of making art during these very weird times.
@@ -39,129 +38,21 @@ youtube_url = ""
 
 **AW:** It has had enormous success since its premiere. Minnesota Opera brought the original production back last season with most of the original cast. I had prepared the chorus at Opera San Jose a few years before, and it was very interesting to come back to the piece with the creators in the room. It's an experience you rarely have in opera. The production was recorded for commercial release in the near future.
 
-**The "Sleep Chorus" video promotes the company’s Artist Support Fund. Is there any indication yet of how that is going? Did the Minnesota Opera establish a policy regarding artists compensation during the shutdown? Obviously this has been quite an issue around the country since entire seasons were cut short or cancelled all together.**
+**The "Sleep Chorus" video promotes the company's Artist Support Fund. Is there any indication yet of how that is going? Did the Minnesota Opera establish a policy regarding artists compensation during the shutdown? Obviously this has been quite an issue around the country since entire seasons were cut short or cancelled all together.**
 
-**AW:** The Artists Support Fund was a big success, and we were
+**AW:** The [Artists Support Fund](https://my.mnopera.org/donate/contribute1?ct=41) was a big success, and we were actually able to pay all, or most, of the fees for our canceled operas. I am very proud to work for an opera company that values their artists as highly.
 
-actually able to pay all, or most, of the fees for our canceled
+**The company deserves a major pat on the back for that. And the community for its support as well. I read in the _New York Times_ about the medical mask making initiative. Aside from meeting a glaring, need Minnesota Opera's masks appear to have a certain cachet as well.**
 
-operas. I am very proud to work for an opera company that
+**AW:** I think everyone in the costume and scene departments were very inspired by the initiative. It was moving to hear about the reactions of the healthcare workers when they were delivered. And they even sent me two masks, which are not only functional, but also fashionable.
 
-values their artists as highly.
+**They certainly are if those in the photo are any indication. I was surprised to learn that making the masks to medical specifications was so complex. From what I understand your costume department received material from a variety of sources to make the masks including old hospital gowns. It's great that health care providers could recycle their own materials to help meet the need.**
 
-JH: The company deserves a major pat on the back for that.
+**AW:** \[Costume director\[ Corinna Bakken, and the entire Minnesota Opera costume department are miracle workers. One of my favorite days during the production period is the first day of tech in the theater when we first see the cast and chorus in their costumes. That is always the day when the opera starts to really come to life for me.
 
-And the community for its support as well. I read in the New
+**You're working on another virtual project, this one with Paul Moravec and Mark Campbell that involves Opera America. This is the team who wrote _The Shining_, that is part of Minnesota Opera's** [**upcoming season**](https://mnopera.org/season/2020-2021/)**. What is the Opera America project and when can we see it?**
 
-York Times about the medical mask making initiative. Aside
-
-from meeting a glaring need Minnesota Opera’s masks appear
-
-to have a certain cachet as well.
-
-AW: I think everyone in the costume and scene departments
-
-were very inspired by the initiative. It was moving to hear about
-
-the reactions of the healthcare workers when they were
-
-delivered. And they even sent me two masks, which are not
-
-only functional, but also fashionable.
-
-JH: They certainly are if those in the photo are any indication. I
-
-was surprised to learn that making the masks to medical
-
-specifications was so complex. From what I understand your
-
-costume department received material from a variety of sources
-
-to make the masks including old hospital gowns. It’s great that
-
-health care providers could recycle their own materials to help
-
-meet the need. I received a note from Corinna Bakken, your
-
-company’s costume director in which she wrote, “We chose to
-
-make masks for our board members out of materials they might
-
-have seen onstage in the past. We had textiles from Hansel
-
-and Gretel, Carmen, The Elixir of Love, The Manchurian
-
-Candidate, La Traviata, and others. The main focus of our mask
-
-making was to make masks in partnership with Health
-
-Partners. They provided us with polypropylene sheets and we
-
-sourced tie materials and pipe cleaners for nose bridges.”
-
-Speaking as a former arts administrator, incentivizing board
-
-members and meeting a community need at the same time is
-
-quite a feat. Way to go Corinna!
-
-AW: Corinna Bakken, and the entire Minnesota Opera costume
-
-department are miracle workers. One of my favorite days during
-
-the production period is the first day of tech in the theater when
-
-we first see the cast and chorus in their costumes. That is
-
-always the day when the opera starts to really come to life for
-
-me.
-
-JH: Indeed. Corinna’s coordination of the costume staff and
-
-community volunteers working from their homes is quite
-
-amazing. And the fact that the costume and scene departments
-
-along with more volunteers coordinated the distribution is
-
-outstanding. You’re working on another virtual project, this one
-
-with Paul Moravec and Mark Campbell that involves Opera
-
-America. This is the team who wrote “The Shining” that is part
-
-of Minnesota Opera’s upcoming season. What is the Opera
-
-America project and when can we see it?
-
-AW: The piece we are working on is called “Light Shall Lift Us”.
-
-It was premiered in 2016 in memory of the victims of the Pulse
-
-nightclub shooting in Orlando, Florida. We have assembled
-
-over 100 of the most prominent singers in the business,
-
-including Ailyn Perez, Mary Dunleavy, Emily Pulley, Cecilia
-
-Lopez, Brenda Rae, Sasha Cooke, Daniela Mack, Jennifer
-
-Cano, Joyce Castle, Victoria Livengood, Matthew Polenzani,
-
-David Portillo, William Burden, Alek Shrader, Edward Parks,
-
-Soloman Howard, and Morris Robinson; all of whom donated
-
-their services. Although I look forward to being in front of a live
-
-ensemble again, I can’t imagine ever having the opportunity to
-
-work with a more glittering array of artists. The project will be
-
-launched this week, and available for viewing at
-
-www.operaamerica.org.
+**AW:** The piece we are working on is called "Light Shall Lift Us". It was premiered in 2016 in memory of the victims of the Pulse nightclub shooting in Orlando, Florida. We have assembled over 100 of the most prominent singers in the business, including Ailyn Perez, Mary Dunleavy, Emily Pulley, Cecilia Lopez, Brenda Rae, Sasha Cooke, Daniela Mack, Jennifer Cano, Joyce Castle, Victoria Livengood, Matthew Polenzani, David Portillo, William Burden, Alek Shrader, Edward Parks, Soloman Howard, and Morris Robinson; all of whom donated their services. Although I look forward to being in front of a live ensemble again, I can't imagine ever having the opportunity to work with a more glittering array of artists. The project will be launched this week, and available for viewing at www.operaamerica.org.
 
 JH: It’s a stirring piece. It was performed on New Year’s Eve
 
@@ -288,3 +179,7 @@ charged work by Jeanine Tesori and Tazewell Thompson and
 “The Shining” complete the season. For further details and to
 
 learn more about the company visit mnopera.org.
+
+<figure data-type="video">{{% md %}}<iframe width="1280" height="720" src="https://www.youtube.com/embed/u8A8fIGbYyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+
+</figure>
