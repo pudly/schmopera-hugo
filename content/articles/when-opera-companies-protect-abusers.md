@@ -1,7 +1,7 @@
 +++
-author = ["authors/anonymous.md"]
-categories = "Editorial"
-date = "2017-12-19T21:52:00-05:00"
+author = ["authors/blanche-isral.md"]
+categories = "Op-Ed"
+date = 2017-12-20T02:52:00Z
 lastmod = "2017-12-21T14:55:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513738286356/2017-12-20---Protect.jpg.jpg"
 publishDate = "2017-12-19T21:52:00-05:00"
