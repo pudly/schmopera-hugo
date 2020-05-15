@@ -65,4 +65,4 @@ youtube_url = ""
 
 ## _The Young Pope / The New Pope_, Paolo Sorrentino
 
-"The two seasons of [Paola Sorrentino's papal extravaganza ](https://www.hbo.com/the-new-pope)is television at its most arresting and cinematic. Every shot is an image you want to luxuriate in. And being a sucker for sensational performances, I find the work of Jude Law, Sally Field, Scott Shepherd, John Malkovitch and Silvio Orlando is some of the best you'll find anywhere."
+"The two seasons of [Paola Sorrentino's papal extravaganza ](https://www.hbo.com/the-new-pope)is television at its most arresting and cinematic. Every shot is an image you want to luxuriate in. And being a sucker for sensational performances, I find the work of Jude Law, Diane Keaton, Scott Shepherd, John Malkovitch and Silvio Orlando is some of the best you'll find anywhere."
