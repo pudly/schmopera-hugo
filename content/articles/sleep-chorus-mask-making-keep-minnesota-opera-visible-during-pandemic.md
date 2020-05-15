@@ -38,6 +38,12 @@ youtube_url = ""
 
 **AW:** The MET made the very courageous decision to do their gala live. You lost some of the technical polish that you can achieve in post-production, but I think it was a good choice.  Seeing all those great artists in their living rooms was about as intimate as you can possibly get. As far as the technical prowess of the Minnesota Opera Chorus, I'll just say that I benefit from having a lot of millennials in my chorus.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption>Kevin Puts (right) and Mark Campbell (bottom left), composer and librettist of Silent Night, and Andrew Whitfield (top left), Assistant Conductor and Chorus Master, Minnesota Opera.</figcaption>
+
+</figure>
+
 **An admirable admission! I completely enjoyed the relatively primitive nature of both productions, especially the MET artists who accompanied themselves on the piano, like Erin Morley and Matthew Polenzani. Tell us about _Silent Night_. It premiered in 2011 at the Minnesota Opera and won the Pulitzer Prize. It was revived recently, correct?**
 
 **AW:** It has had enormous success since its premiere. Minnesota Opera brought the original production back last season with most of the original cast. I had prepared the chorus at Opera San Jose a few years before, and it was very interesting to come back to the piece with the creators in the room. It's an experience you rarely have in opera. The production was recorded for commercial release in the near future.
@@ -56,7 +62,7 @@ youtube_url = ""
 
 **You're working on another virtual project, this one with Paul Moravec and Mark Campbell that involves Opera America. This is the team who wrote _The Shining_, that is part of Minnesota Opera's** [**upcoming season**](https://mnopera.org/season/2020-2021/)**. What is the Opera America project and when can we see it?**
 
-**AW:** The piece we are working on is called "Light Shall Lift Us". It was premiered in 2016 in memory of the victims of the Pulse nightclub shooting in Orlando, Florida. We have assembled over 100 of the most prominent singers in the business, including Ailyn Perez, Mary Dunleavy, Emily Pulley, Cecilia Lopez, Brenda Rae, Sasha Cooke, Daniela Mack, Jennifer Cano, Joyce Castle, Victoria Livengood, Matthew Polenzani, David Portillo, William Burden, Alek Shrader, Edward Parks, Soloman Howard, and Morris Robinson; all of whom donated their services. Although I look forward to being in front of a live ensemble again, I can't imagine ever having the opportunity to work with a more glittering array of artists. 
+**AW:** The piece we are working on is called "Light Shall Lift Us". It was premiered in 2016 in memory of the victims of the Pulse nightclub shooting in Orlando, Florida. We have assembled over 100 of the most prominent singers in the business, including Ailyn Perez, Mary Dunleavy, Emily Pulley, Cecilia Lopez, Brenda Rae, Sasha Cooke, Daniela Mack, Jennifer Cano, Joyce Castle, Victoria Livengood, Matthew Polenzani, David Portillo, William Burden, Alek Shrader, Edward Parks, Soloman Howard, and Morris Robinson; all of whom donated their services. Although I look forward to being in front of a live ensemble again, I can't imagine ever having the opportunity to work with a more glittering array of artists.
 
 <figure data-type="video">{{% md %}}<iframe width="1280" height="720" src="https://www.youtube.com/embed/u8A8fIGbYyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 

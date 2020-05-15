@@ -18,11 +18,6 @@ title = "Minnesota Opera"
 youtube_url = ""
 
 +++
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1589245832/media/2020/05/MNO-SilentLightChorus-collage_gislnt.jpg){{% /md %}}
-
-<figcaption>Kevin Puts (right) and Mark Campbell (bottom left), composer and librettist of Silent Night, and Andrew Whitfield (top left), Assistant Conductor and Chorus Master, Minnesota Opera.</figcaption>
-
-</figure>
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1589245946/media/2020/05/MNO-facemasks_mpwffx.jpg){{% /md %}}
 
