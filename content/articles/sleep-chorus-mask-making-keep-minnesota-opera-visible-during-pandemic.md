@@ -38,7 +38,7 @@ youtube_url = ""
 
 **AW:** The MET made the very courageous decision to do their gala live. You lost some of the technical polish that you can achieve in post-production, but I think it was a good choice.  Seeing all those great artists in their living rooms was about as intimate as you can possibly get. As far as the technical prowess of the Minnesota Opera Chorus, I'll just say that I benefit from having a lot of millennials in my chorus.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1589566970/media/2020/05/MNO-SilentLightChorus-collage_bz5mng.jpg){{% /md %}}
 
 <figcaption>Kevin Puts (right) and Mark Campbell (bottom left), composer and librettist of Silent Night, and Andrew Whitfield (top left), Assistant Conductor and Chorus Master, Minnesota Opera.</figcaption>
 
@@ -55,6 +55,12 @@ youtube_url = ""
 **The company deserves a major pat on the back for that. And the community for its support as well. I read in the _New York Times_ about the medical mask making initiative. Aside from meeting a glaring, need Minnesota Opera's masks appear to have a certain cachet as well.**
 
 **AW:** I think everyone in the costume and scene departments were very inspired by the initiative. It was moving to hear about the reactions of the healthcare workers when they were delivered. And they even sent me two masks, which are not only functional, but also fashionable.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1589566954/media/2020/05/MNO-facemasks_pvnxdh.jpg){{% /md %}}
+
+<figcaption>Protective masks were made by Minnesota Opera costume and scene shop personnel. Over 10,000 masks were distributed to health care workers, assisted-living homes, veterinarians, blood services, shelters, and other places in need. These masks pictured were made for MN Opera board members from material used is costumes for past productions including La Traviata, Carmen, and The Manchurian Candidate. Photo: MN Opera</figcaption>
+
+</figure>
 
 **They certainly are if those in the photo are any indication. I was surprised to learn that making the masks to medical specifications was so complex. From what I understand your costume department received material from a variety of sources to make the masks including old hospital gowns. It's great that health care providers could recycle their own materials to help meet the need.**
 
