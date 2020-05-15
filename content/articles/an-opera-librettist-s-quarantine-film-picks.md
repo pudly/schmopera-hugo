@@ -31,8 +31,8 @@ youtube_url = ""
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1589286666/media/2020/05/bridemaids_dwojaj.jpg){{% /md %}}
 
-<figcaption>_Bridesmaids_, 2011.</figcaption>  
-</figure?
+<figcaption>Bridesmaids, 2011.</figcaption>  
+</figure>
 
 ## _Fat Girl_, Catherine Breillat
 
