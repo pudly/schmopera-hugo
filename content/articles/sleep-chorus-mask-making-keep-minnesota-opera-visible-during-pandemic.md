@@ -1,7 +1,7 @@
 +++
 author = ["authors/john-hohmann.md"]
 categories = "Interview"
-date = 2020-05-15T04:00:00Z
+date = 2020-05-17T04:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "The Minnesota Opera's 2020-21 season, scheduled to open on September 26 and running through May 23, includes _The Abduction from the Seraglio_, _Eugene Onegin_ and _Cinderella_. Two contemporary operas, _Blue_, a racially charged work by Jeanine Tesori and Tazewell Thompson and _The Shining_ complete the season. For further details and to learn more about the company visit [mnopera.org](https://mnopera.org/)."
