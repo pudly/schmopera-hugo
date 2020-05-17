@@ -36,4 +36,6 @@ And with opera, the whole thing is ramped up. In most cases, recitative is the s
 
 This is all to say that adding music to a story is supposed to make it mean more. The emotional moments hit harder, the layers of expression are richer. And opera in particular has one more card to play - the sheer, unique power of the live acoustic voice. That kind of skilled performer, that kind of primal response to hearing a human voice at its best, it's the drug of choice for opera fans.
 
-But now, that last card has been revoked. Live isn't currently an option, which means neither is an acoustic sound experience. Opera companies are being generous (perhaps too generous?) with their supply of 
+But now, that last card has been revoked. Live isn't currently an option, which means neither is an acoustic sound experience. Opera companies are being generous (perhaps too generous?) with their online offerings, but none of it includes that singular experience of hearing an unamplified voice carrying over an unamplified orchestra. 
+
+If opera is to live online for months, even years, its creators will have to pay acute attention to the question of "why sing?". If we're not able to wow people with 
