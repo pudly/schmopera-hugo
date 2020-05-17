@@ -29,3 +29,5 @@ But there's one very basic question that opera warrants, and I think it's worth 
 Why are they singing?
 
 It's a question that an opera newcomer has every right to ask, and one that an opera veteran might have forgotten the answer to. Years ago, my in-laws asked me a version of that question, after coming with me to see _Peter Grimes_. At the very end of that opera, there are a few spoken lines, and I imagine that's why they asked me on our way out of the theatre, "Why wasn't it all just a play?"
+
+I think that was a version of, "Why are they singing?" And fair enough. 
