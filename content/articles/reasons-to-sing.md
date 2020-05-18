@@ -42,4 +42,4 @@ If opera is to live online for months, even years, its creators will have to pay
 
 It's kind of an exciting new stressor placed on opera. On the one hand, it's lost one of its deadliest weapons because we can't go see things live; on the other hand, we might end up with some serious masterpieces, now that it's a small fish in a pond that unexpectedly got big. 
 
-Opera that's created in this new environment will have to pass the "why sing?" test: Are the characters singing because that's what happens in 
+Opera that's created in this new environment will have to pass the "why sing?" test: Are the characters singing because it's opera? Or are they singing because your story is [so good that speech just can't cut it](/angels-bone-i-finally-saw-it-and-im-never-going-to-be-the-same/)? I'm excited to see more of the latter.
