@@ -4,7 +4,7 @@ categories = "Interview"
 date = 2020-05-17T04:00:00Z
 disclaimer = ""
 image_gallery = []
-postamble = "[Minnesota Opera's 2020-21 season](https://mnopera.org/season/2020-2021/), scheduled to open on September 26 and running through May 23, includes _The Abduction from the Seraglio_, _Eugene Onegin_ and _Cinderella_. Two contemporary operas, _Blue_, a racially charged work by Jeanine Tesori and Tazewell Thompson and _The Shining_ complete the season. For further details and to learn more about the company visit [mnopera.org](https://mnopera.org/)."
+postamble = "[Minnesota Opera's 2020-21 season](https://mnopera.org/season/2020-2021/), scheduled to open on September 26 and running through May 23, includes _The Abduction from the Seraglio_, _Eugene Onegin_ and _Cinderella_. Two contemporary operas, _Blue_, a racially charged work by Jeanine Tesori and Tazewell Thompson, and _The Shining_ complete the season."
 preamble = "[Minnesota Opera](https://mnopera.org/season/2020-2021/at-home-with-mn-opera/)'s assistant conductor and chorus director Andrew Whitfield was busy producing a virtual production of \"Sleep Chorus\", from the Pulitzer Prize-winning opera [_Silent Night_](/kevin-puts-i-know-who-i-am-as-a-composer/) by Kevin Puts and Mark Campbell. The chorus gives voice to a Christmas night truce between warring soldiers in the trenches of World War I. Meanwhile, costume director Corinna Bakken along with costume and scene shop personnel and a raft of volunteers were busy in their homes sewing over 10,000 much-needed medical masks to protect against the Covid-19 virus.\n\nThe [company](https://mnopera.org/season/2020-2021/at-home-with-mn-opera/) launched the \"Sleep Chorus\" to promote a special fund raising drive to compensate artists on and off stage during the pandemic shutdown while the protective masks went to organizations without access to traditional health care resources including assisted-living homes, veterinarians, blood services, shelters, and more. I talked with Andrew Whitfield about these impressive undertakings."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1589567526/media/2020/05/sqMNOpera-SleepChorus_clrppm.jpg"
 primary_image_credit = ""
@@ -49,7 +49,7 @@ youtube_url = ""
 
 **The "Sleep Chorus" video promotes the company's Artist Support Fund. Is there any indication yet of how that is going? Did the Minnesota Opera establish a policy regarding artists compensation during the shutdown? Obviously this has been quite an issue around the country since entire seasons were cut short or cancelled all together.**
 
-**AW:** The [Artists Support Fund](https://my.mnopera.org/donate/contribute1?ct=41) was a big success, and we were actually able to pay all, or most, of the fees for our canceled operas. I am very proud to work for an opera company that values their artists as highly.
+**AW:** The [Artists Support Fund](https://my.mnopera.org/donate/contribute1) was a big success, and we were actually able to pay all, or most, of the fees for our canceled operas. I am very proud to work for an opera company that values their artists as highly.
 
 **The company deserves a major pat on the back for that. And the community for its support as well. I read in the _New York Times_ about the medical mask making initiative. Aside from meeting a glaring, need Minnesota Opera's masks appear to have a certain cachet as well.**
 
