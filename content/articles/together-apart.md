@@ -29,3 +29,4 @@ youtube_url = ""
 * Measha kinda funny, out at an ice cream parlour parking lot because she doesn't have wifi "in the woods"
 * "I don't know him from a hole in the wall, but Chris, you and I are now kindred!" nice.
 * Hewitt - simple and sweet and effective Rameau - cool camera angle
+* Ainsworth's Pygmalion is a great pick (loved him in that role) but the sound is mixed weird and you can't hear him well, shame with all that coloratura
