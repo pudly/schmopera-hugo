@@ -42,4 +42,4 @@ And Sonya Yoncheva all threatening to sing an aria on her next flight? _Does she
 
 Of course everyone is eager to get onstage, especially singers like these. It's their passion, their livelihood, and it sucks that it's on indefinite pause. And yes, those photos Volle posted show a double-standard. But so what? One of them is showing safe behaviour, and the other is not. Why are you mad that the arts aren't able to behave as unsafely as the airline industry?
 
-Ugh. Still riled up. 
+Ugh. Still riled up. Opera people, hang in there. You're being troopers and innovators and generous people despite losing the thing you love and your ability to live comfortably. It's so awful, and my heart hurts for you guys. 
