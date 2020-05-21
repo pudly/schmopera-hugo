@@ -17,7 +17,7 @@ title = "Guys, stop telling people to #breakquarantine because of a crowded plan
 youtube_url = ""
 
 +++
-Oh, fuck no, ladies. Fuck right off with this stupid shit.
+Oh, hell no, ladies. Outta here with this stupid shit.
 
 Yep, I'm riled up. I'm riled up about Sonya Yoncheva and Anna Netrebko, and how they in particular responded to baritone [Michael Volle](https://www.instagram.com/michaelvolleofficial/)'s recent Instagram posts about crowds. 
 
@@ -35,7 +35,7 @@ And then [Anna](https://www.instagram.com/p/CAYMqBWHwwO/?utm_source=ig_web_copy_
 
 </figure>
 
-Like I mentioned earlier: oh, fuck no. These ladies - and the way-too-many who echo their sentiments on social media - looked at these two photos, and came to the wrong damned conclusion. The story is NOT that the arts are getting the shit end of the stick, having to live behind stronger social distancing measures than other industries - airlines, say - and that no one respects the business they're losing, nor the importance "culture" plays in society.
+To reiterate: oh, fuck no. These ladies - and the way-too-many who echo their sentiments on social media - looked at these two photos, and came to the wrong damned conclusion. The story is NOT that the arts are getting the shit end of the stick, having to live behind stronger social distancing measures than other industries - airlines, say - and that no one respects the business they're losing, nor the importance "culture" plays in society.
 
 The story is that _that plane looks fucking unsafe_. Who cares if it's in contrast to the concert audience, with listeners sat separated by three empty seats to enable a healthy amount of room? No, it's not consistent. Yes, it's horribly frustrating to have so many unanswered questions, especially when you're still trying to live an international life.
 
