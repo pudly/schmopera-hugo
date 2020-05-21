@@ -31,9 +31,13 @@ It's a question that an opera newcomer has every right to ask, and one that an o
 
 I think that was a version of, "Why are they singing?" And fair enough. For plenty of people, spoken storytelling feels the more natural, true medium; film and television sort of solidify this norm, particularly in recent decades. If we ask the "why" question of musical theatre - opera's more popular point of comparison - the answer is an interesting one because it takes into account that the characters move back and forth between speech and singing. Basically, when someone sings in a musical, it's because the dramatic stakes have risen to a point where speech no longer cuts it; they simply have to break into song.
 
+> It's kind of an exciting new stressor placed on opera.
+
 And with opera, the whole thing is ramped up. In most cases, recitative is the stand-in for speech; it's not as emotionally-laden as an aria or a duet, but dramatically speaking, recit is still a notch (or three) above talking. There are high notes, low notes, funky notes, weird rhythms, and orchestration to underscore it all. And when the recit does morph into a full-blown musical moment, it takes that extra step into the dramatic stratosphere.
 
 This is all to say that adding music to a story is supposed to make it mean more. The emotional moments hit harder, the layers of expression are richer. And opera in particular has one more card to play - the unique power of the live acoustic voice. That kind of skilled performer, that kind of primal response to hearing a human voice at its best, it's the drug of choice for opera fans.
+
+> Opera that's created in this new environment will have to pass the "why sing?" test.
 
 But now, that last card has been revoked. Live isn't currently an option, which means neither is an acoustic sound experience. Opera companies are being generous (perhaps too generous?) with their online offerings, but none of it includes that singular experience of hearing an unamplified voice carrying over an unamplified orchestra.
 
