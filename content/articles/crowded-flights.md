@@ -1,20 +1,19 @@
 +++
-author = []
-categories = ""
+author = ["authors/jenna.md"]
+categories = "Editorial"
 date = 2020-05-21T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1590090933/media/2020/05/sqCrowds_tcq9jz.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1590091141/media/2020/05/sqFacepalm_esahqg.jpg"
 primary_image_credit = ""
-related_articles = []
+related_articles = ["articles/the-met-s-at-home-gala.md", "articles/covid.md"]
 related_companies = []
 related_people = []
-short_description = "short"
-slug = "crowded-flights"
-title = "Crowded flights"
+short_description = "Opera people, hang in there. You're being troopers and innovators and generous people despite losing the thing you love and your ability to live comfortably. It's so awful, and my heart hurts for you guys. But when you're not being live opera singers, you're still being public figures who can set a good example and be good citizens. "
+slug = "guys-stop-telling-people-to-breakquarantine-because-of-a-crowded-plane"
+title = "Guys, stop telling people to #breakquarantine because of a crowded plane"
 youtube_url = ""
 
 +++
@@ -44,4 +43,4 @@ Of course everyone is eager to get onstage, especially singers like these. It's 
 
 Opera people, hang in there. You're being troopers and innovators and generous people despite losing the thing you love and your ability to live comfortably. It's so awful, and my heart hurts for you guys. But when you're not being live opera singers, you're still being public figures who can set a good example and be good citizens. 
 
-\#breakquarantine...ugh.
+\#breakquarantine...get outta here with that shit.
