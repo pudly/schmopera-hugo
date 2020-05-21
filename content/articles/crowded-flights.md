@@ -19,7 +19,7 @@ youtube_url = ""
 +++
 Oh, fuck no, ladies. Fuck right off with this stupid shit.
 
-Yep, I'm riled up. I'm riled up about Sonya Yoncheva and Anna Netrebko, and how they in particular responded to baritone Michael Volle's recent Instagram posts about crowds. 
+Yep, I'm riled up. I'm riled up about Sonya Yoncheva and Anna Netrebko, and how they in particular responded to baritone [Michael Volle](https://www.instagram.com/michaelvolleofficial/)'s recent Instagram posts about crowds. 
 
 Volle posted two photos for comparison, one of him on a packed flight, and another taken of a sparsely populated concert hall in Wiesbaden. The point of the photos, I guess, was to say that there's a double-standard between transportation and the arts; that it's not fair that planes can fill up, but performers have to play to, at best, socially distanced audiences.
 
