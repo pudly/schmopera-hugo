@@ -36,4 +36,4 @@ Like I mentioned earlier: oh, fuck no. These ladies - and the way-too-many who e
 
 The story is that _that plane looks fucking unsafe_. Who cares if it's in contrast to the concert audience, with listeners sat separated by three empty seats to enable a healthy amount of room? No, it's not consistent. Yes, it's horribly frustrating to have so many unanswered questions, especially when you're still trying to live an international life.
 
-You know what's also unsafe? Anna Netrebko telling her 577K Instagram followers to #stopstupidrules and #breakquarantine. Actually, she told them to #brackequarantine, but the 
+You know what's also unsafe? Anna Netrebko telling her 577K Instagram followers to #stopstupidrules and #breakquarantine. Actually, she told them to #brackequarantine, but it's just as unwise and dangerous. And Sonya Yoncheva all threatening to sing an aria on her next flight? _Does she think that's safe?_ Because I don't. But I'm confused why the focus is on inequality in how industries are handling the pandemic, instead of being fucking good citizens 
