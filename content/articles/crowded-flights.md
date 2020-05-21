@@ -35,7 +35,7 @@ And then [Anna](https://www.instagram.com/p/CAYMqBWHwwO/?utm_source=ig_web_copy_
 
 </figure>
 
-To reiterate: oh, fuck no. These ladies - and the way-too-many who echo their sentiments on social media - looked at these two photos, and came to the wrong damned conclusion. The story is NOT that the arts are getting the shit end of the stick, having to live behind stronger social distancing measures than other industries - airlines, say - and that no one respects the business they're losing, nor the importance "culture" plays in society.
+I'll say it another way: oh, fuck no. These ladies - and the way-too-many who echo their sentiments on social media - looked at these two photos, and came to the wrong damned conclusion. The story is NOT that the arts are getting the shit end of the stick, having to live behind stronger social distancing measures than other industries - airlines, say - and that no one respects the business they're losing, nor the importance "culture" plays in society.
 
 The story is that _that plane looks fucking unsafe_. Who cares if it's in contrast to the concert audience, with listeners sat separated by three empty seats to enable a healthy amount of room? No, it's not consistent. Yes, it's horribly frustrating to have so many unanswered questions, especially when you're still trying to live an international life.
 
