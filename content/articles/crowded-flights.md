@@ -41,7 +41,7 @@ The story is that _that plane looks fucking unsafe_. Who cares if it's in contra
 
 You know what's also unsafe? Anna Netrebko telling her 577K Instagram followers to #stopstupidrules and #breakquarantine. (Actually, she told them to #brackequarantine, but it's still a stupid, unsafe thing to do.) Anna, stop this shit. I know you want to get back onstage, and I agree with you that we're missing culture in a major way. But you are not a voice of authority with all of this. I hate to say it, because you're a proper opera superstar with pipes of gold, but please know your place.
 
-And Sonya Yoncheva all threatening to sing an aria on her next flight? _Does she think that's safe?_ Because I don't. But it doesn't sound like she's saying those passengers are in an unsafe position on that flight; she's mad that the performing arts aren't back yet.
+And Sonya Yoncheva all threatening to sing an aria on her next flight? _Does she think that's safe?_ Because I don't. And I don't think she does, either. But it doesn't sound like she's saying those passengers are in an unsafe position on that flight; she's mad that the performing arts aren't back yet.
 
 Of course everyone is eager to get onstage, especially singers like these. It's their passion, their livelihood, and it sucks that it's on indefinite pause. And yes, those photos Volle posted show a double-standard. But so what? One of them is showing safe behaviour, and the other is not. Why are you mad that the arts aren't able to behave as unsafely as the airline industry?
 
