@@ -28,4 +28,4 @@ youtube_url = ""
 * Laird Mackintosh "Music of the Night" with crappy keyboard - almost good
 * Measha kinda funny, out at an ice cream parlour parking lot because she doesn't have wifi "in the woods"
 * "I don't know him from a hole in the wall, but Chris, you and I are now kindred!" nice.
-* 
+* Hewitt - simple and sweet and effective Rameau - cool camera angle
