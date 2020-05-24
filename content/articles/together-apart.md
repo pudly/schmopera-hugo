@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1590345133/media/2020/05/sqTogetherApart_ucs9sn.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
@@ -28,17 +28,4 @@ I also think this showcase is a cool stepping stone as we quickly evolve the med
 
 The line between what works and what doesn't is super fine, and hard to spot until it's crossed. For some reason, adding reverb and other kindnesses to a singer's audio sounds pretty weird without a professional video shot to go with it. And though it's a smash hit sung by a real-deal Canadian star, Laird Mackintosh's "Music of the Night" is still pretty hard to sell with low-grade keyboard accompaniment and none of the grandeur that pads _The Phantom of the Opera._ I was excited to hear Ainsworth sing that wicked aria from _Pygmalion_ - I'd heard him do it live and it's a totally catchy packaging of tenor coloratura - but the sound was mixed strangely and his voice wasn't prominent enough.
 
-* 
-
-  advantages of non-live - decent takes, curated recordings, b-roll video to set the mood, production shots
-* Wallis and her super patterns
-* Meghan Lindsay in her rural Quebec base
-* Xi Yi's performance was gorgeous and well shot
-* oddly enough it feels overly refined - but that's OA for you - it feels disingenuous to have them talking to each other "Thanks, Blank, so beautiful!" when it's obviously not live
-* McHardy is funny, when she tosses her mask and it whacks the phone/whatever she's filming with - "I just wanna go outside"
-* Juri Hiraoka dancing in her backyard, somehow so freaking Toronto
-* Laird Mackintosh "Music of the Night" with crappy keyboard - almost good
-* Measha kinda funny, out at an ice cream parlour parking lot because she doesn't have wifi "in the woods"
-* "I don't know him from a hole in the wall, but Chris, you and I are now kindred!" nice.
-* Hewitt - simple and sweet and effective Rameau - cool camera angle
-* Ainsworth's Pygmalion is a great pick (loved him in that role) but the sound is mixed weird and you can't hear him well, shame with all that coloratura
+A total treat, though, was pianist Angela Hewitt's bit of Rameau. She was friendly and humble, and
