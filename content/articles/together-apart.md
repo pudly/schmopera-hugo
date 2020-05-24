@@ -18,6 +18,10 @@ title = "Together/Apart"
 youtube_url = ""
 
 +++
+The other night, I tuned into [_Together/Apart_](https://www.operaatelier.com/season-and-tickets/2020-2021-season/together-apart-opera-atelier), the virtual showcase presented by Opera Atelier. I'm not sure what I expected from this company, but I can admit to some skepticism; it's quite a pivot for any company to move from live productions to remotely curated video specials, I think it's even more drastic for OA, which has spend the last three decades producing baroque and classical opera with major nods to all things traditional (some may read: old).
+
+* 
+* 
 * advantages of non-live - decent takes, curated recordings, b-roll video to set the mood, production shots
 * Wallis and her super patterns
 * Meghan Lindsay in her rural Quebec base
