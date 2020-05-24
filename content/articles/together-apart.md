@@ -20,7 +20,11 @@ youtube_url = ""
 +++
 The other night, I tuned into [_Together/Apart_](https://www.operaatelier.com/season-and-tickets/2020-2021-season/together-apart-opera-atelier), the virtual showcase presented by Opera Atelier. I'm not sure what I expected from this company, but I can admit to some skepticism; it's quite a pivot for any company to move from live productions to remotely curated video specials, I think it's even more drastic for OA, which has spend the last three decades producing baroque and classical opera with major nods to all things traditional (some may read: old).
 
-But, I liked it. It helped that in the 15-artist line-up there were some seriously charismatic folks. Colin Ainsworth's bright smile and friendly sound, Allyson McHardy's moment of musical comedy, Wallis Giunta's 
+But, I liked it. It helped that in the 15-artist line-up there were some seriously charismatic folks. Colin Ainsworth's bright smile and friendly sound, Allyson McHardy's moment of musical comedy, Wallis Giunta's eager Cherubino & memorable set decorations - it was all refreshing and genuine, particularly out of Opera Atelier's notorious and ubiquitous aesthetic in its live shows.
+
+What I think _Together/Apart_ did best is introduce us to some of Opera Atelier's core artists. It was oddly moving to watch Artist of the Atelier Ballet Juri Hiraoka dance in her very Torontonian backyard (one could sense the off-camera interest by her neighbours), and it was sweet to check in with soprano Meghan Lindsay and her rural pandemic abode, with the soundtrack of her gorgeous Ilia's aria from _Idomeneo_. And whether you're a fan of hers or not, Measha Brueggergosman was a breath of fresh air in her personal message, sent from inside her car, parked outside an ice cream parlour that marks her nearest chance at wifi "in the woods".
+
+I also think this showcase 
 
 * 
 * 
