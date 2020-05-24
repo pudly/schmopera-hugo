@@ -1,7 +1,7 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Review"
-date = 2020-05-20T04:00:00Z
+date = 2020-05-24T04:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
@@ -12,9 +12,9 @@ primary_image_credit = ""
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
-slug = "together-apart"
-title = "Together/Apart"
+short_description = "A total treat, though, was pianist Angela Hewitt's bit of Rameau. She was friendly and humble, and got right to the point with her camera angle, aimed at her energetic and nimble hands. Hewitt's contribution showed us how this whole thing can work well; it's solidified my hunch that finding the way to do this on-screen thing is uniquely difficult for opera singers."
+slug = "opera-ateliers-together-apart-a-direct-line-to-their-great-artists"
+title = "Opera Atelier's Together/Apart a direct line to their great artists"
 youtube_url = ""
 
 +++
