@@ -24,7 +24,7 @@ But, I liked it. It helped that in the 15-artist line-up there were some serious
 
 What I think _Together/Apart_ did best is introduce us to some of Opera Atelier's core artists. It was oddly moving to watch Artist of the Atelier Ballet Juri Hiraoka dance in her very Torontonian backyard (one could sense the off-camera interest by her neighbours), and it was sweet to check in with soprano Meghan Lindsay and her rural pandemic abode, with the soundtrack of her gorgeous Ilia's aria from _Idomeneo_. And whether you're a fan of hers or not, Measha Brueggergosman was a breath of fresh air in her personal message, sent from inside her car, parked outside an ice cream parlour that marks her nearest chance at wifi "in the woods".
 
-I also think this showcase 
+I also think this showcase is a cool stepping stone as we quickly evolve the medium of "online opera event". It wasn't live, like the Met's _At-Home Gala_, and the advantages included being able to send in decent takes of curated recordings, with best-possible audio and even some evocative b-roll. 
 
 * 
 * 
