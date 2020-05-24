@@ -30,4 +30,6 @@ The line between what works and what doesn't is super fine, and hard to spot unt
 
 A total treat, though, was pianist Angela Hewitt's bit of Rameau. She was friendly and humble, and got right to the point with her camera angle, aimed at her energetic and nimble hands. Hewitt's contribution showed us how this whole thing can work well; it's solidified my hunch that finding the way to do this on-screen thing is uniquely difficult for opera singers.
 
-I'm tickled that Opera Atelier has joined the ranks of those companies who aren't giving up on their output. _Together/Apart_ is still available for viewing, and it's an excellent way to get to know the artists who have become a core part of their work. I know the medium is not within the comfort zone of Co-Artistic Directors Marshall Pynkoski and Jeannette Lajeunesse-Zingg, 
+I'm tickled that Opera Atelier has joined the ranks of those companies who aren't giving up on their output. _Together/Apart_ is still available for viewing until May 27 at midnight, and it's an excellent way to get to know the artists who have become a core part of their work. I know the medium is not within the comfort zone of Co-Artistic Directors Marshall Pynkoski and Jeannette Lajeunesse-Zingg, but I really do applaud them for this. 
+
+Wow, I really miss live shows.
