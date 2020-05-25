@@ -3,15 +3,14 @@ author = ["authors/jenna.md"]
 categories = "Review"
 date = 2020-05-25T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1590345133/media/2020/05/sqTogetherApart_ucs9sn.jpg"
 primary_image_credit = ""
-related_articles = []
-related_companies = []
-related_people = []
+related_articles = ["articles/the-angel-speaks.md", "articles/angel-s-bone.md", "articles/the-met-s-at-home-gala.md"]
+related_companies = ["scene/companies/opera-atelier.md"]
+related_people = ["scene/people/allyson-mchardy.md", "scene/people/mireille-lebel.md", "scene/people/measha-brueggergosman.md", "scene/people/meghan-lindsay.md", "scene/people/wallis-giunta.md", "scene/people/colin-ainsworth.md"]
 short_description = "A total treat, though, was pianist Angela Hewitt's bit of Rameau. She was friendly and humble, and got right to the point with her camera angle, aimed at her energetic and nimble hands. Hewitt's contribution showed us how this whole thing can work well; it's solidified my hunch that finding the way to do this on-screen thing is uniquely difficult for opera singers."
 slug = "opera-ateliers-together-apart-a-direct-line-to-their-great-artists"
 title = "Opera Atelier's Together/Apart a direct line to their great artists"
@@ -26,7 +25,7 @@ But, I liked it. It helped that in the 15-artist line-up there were some serious
 
 What I think _Together/Apart_ did best is introduce us to some of Opera Atelier's core artists. It was oddly moving to watch Artist of the Atelier Ballet Juri Hiraoka dance in her very Torontonian backyard (one could sense the off-camera interest by her neighbours), and it was sweet to check in with soprano [Meghan Lindsay](/scene/people/meghan-lindsay/) and her rural pandemic abode, with the soundtrack of her gorgeous Ilia's aria from _Idomeneo_. And whether you're a fan of hers or not, Measha Brueggergosman was a breath of fresh air in her personal message, sent from inside her car, parked outside an ice cream parlour that marks her nearest chance at data reception "in the woods".
 
-I also think this showcase is a cool stepping stone as we quickly evolve the medium of "online opera event". It wasn't live, like the Met's _At-Home Gala_, and the advantages included being able to send in decent takes of curated recordings, with best-possible audio and even some evocative b-roll, and specially recorded messages from Toronto Mayor John Tory. I was grateful for Xi Yi's stunning dance piece, beautifully shot in a light-filled studio; violinist Edwin Huizinga is always a lovely face to see, and I was all about his collaboration with Measha and pianist Christopher Bagan (three cheers for Christopher Bagan, everyone!) which certainly had to be pre-recorded.
+I also think this showcase is a cool stepping stone as we quickly evolve the medium of "online opera event". It wasn't live, like the Met's _At-Home Gala_, and the advantages included being able to send in decent takes of curated recordings, with best-possible audio and even some evocative b-roll, and specially recorded messages from Toronto Mayor John Tory. I was grateful for Xi Yi's stunning dance piece, beautifully shot in a light-filled studio; violinist [Edwin Huizinga](/baroque-novelty-from-opera-atelier-the-angel-speaks/) is always a lovely face to see, and I was all about his collaboration with Measha and pianist Christopher Bagan (three cheers for Christopher Bagan, everyone!) which certainly had to be pre-recorded.
 
 > Hewitt's contribution showed us how this whole thing can work well.
 
