@@ -12,12 +12,24 @@ primary_image_credit = ""
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "Chordless has created an intriguing piece of art with this Crumb video, and it'll be a neat experience to view it, and then have an immediate face-to-face (or screen-to-screen) with the folks who made it."
 slug = "chordless"
 title = "Chordless"
 youtube_url = ""
 
 +++
-When New York City-based soprano Sara LeMesh and San Francisco-based pianist Allegra Chapman work together, they're known as [Chordless](https://chordlessduo.com/), the piano-voice duo that's dedicated to shining some spotlight on lesser known pieces of music. On May 29, Chordless is launching its biggest project to date: their first music video, set to "The Night in Silence Under Many a Star", one of nine song that make up George Crumb's _Apparition_. 
+When New York City-based soprano Sara LeMesh and San Francisco-based pianist Allegra Chapman work together, they're known as [Chordless](https://chordlessduo.com/), the piano-voice duo that's dedicated to shining some spotlight on lesser known pieces of music. On **May 29 at 5pm PDT/8pm EDT**, Chordless is launching its biggest project to date: their first music video, set to "The Night in Silence Under Many a Star", one of nine song that make up George Crumb's _Apparition_. 
 
-The video, created by independent filmmaker Joseph Dwyer and with sound engineering by Matt Carr, kicks off the May 29 event 
+The video, created by independent filmmaker Joseph Dwyer and with sound engineering by Matt Carr, kicks off the May 29 Zoom event. After its premiere screening, there will be a moderated Q&A with LeMesh, Chapman, Dwyer and Carr, which will then get extended to audience questions.
+
+It's a unique event, covering a timely topic: creating classical music in a world flooded by digital media. Music videos for works like _Apparition_ are comparably rare, and often a bit baffling even to fans of the music, and artists are making sense of their reasons for putting out digital content when, pre-pandemic, they had no real plans to do so. 
+
+But Chordless has created an intriguing piece of art with this Crumb video, and it'll be a neat experience to view it, and then have an immediate face-to-face (or screen-to-screen) with the folks who made it.
+
+You can catch a little snippet of the video below. To tune in for its full release, [register for free right here](https://www.eventbrite.com/e/chordless-online-music-video-premiere-discussion-tickets-104455443042). 
+
+<figure data-type="video">{{% md %}}<iframe width="1280" height="720" src="https://www.youtube.com/embed/uvakcRthb_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
