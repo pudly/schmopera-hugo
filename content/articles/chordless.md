@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "Chordless has created an intriguing piece of art with this Crumb video, and it'll be a neat experience to view it, and then have an immediate face-to-face (or screen-to-screen) with the folks who made it."
-slug = "chordless"
-title = "Chordless"
+slug = "watch-a-george-crumb-music-video-meet-the-artists-chordless-launches-new-project"
+title = "Watch a George Crumb music video & meet the artists: Chordless launches new project"
 youtube_url = ""
 
 +++
