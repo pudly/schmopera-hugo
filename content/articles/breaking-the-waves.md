@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1591065033/media/2020/06/sqBreakingtheWaves_zuh6qr.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
@@ -29,6 +29,10 @@ youtube_url = ""
 * money > desire > lust > women > sex jokes
 * genius moments of writing, like how Missy does the "hello" repetition after their phone call
 * she prays for him to come home, can't wait the 10 days, can't help herself from wishing he'd be home sooner - Eve moment, woman sets herself up for punishment because she admits to being horny/wanting something more than she has
-* ---
+* 
+
+  ***
 * great scene with Doctor (David Portillo)
+* sort of strange, their obsession with their sex life during the obviously early time after the accident
+* it's this great world where the people say out loud the thoughts that most people would have, even this soon after an accident
 * 
