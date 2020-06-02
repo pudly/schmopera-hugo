@@ -35,4 +35,5 @@ youtube_url = ""
 * great scene with Doctor (David Portillo)
 * sort of strange, their obsession with their sex life during the obviously early time after the accident
 * it's this great world where the people say out loud the thoughts that most people would have, even this soon after an accident
+* all the ways a sex life can be so important to a couple; here, it's because it keeps up appearances in church/society, and because it makes each of them feel valued/valuable
 * 
