@@ -39,4 +39,6 @@ youtube_url = ""
 * God says, prove that you love him and I won't let him die - so, do what he says and find someone else to have sex with, and he'll be spared; it starts to work, but only once she starts enjoying the sex
 * women turn on her, because women do that
 * this whole story is people telling Bess that they know what's best for her, better than she does
-* then God stops answering - comes back
+* then God stops answering - comes back, tells her to "finish the task"
+* amazing presence of Bess' agency throughout the story, all these ways where she allows herself to do this, never admitting that she wants to , but that's definitely true (but it's other people's ideas, like Jan or God or Dodo)
+* 
