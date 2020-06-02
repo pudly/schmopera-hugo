@@ -22,7 +22,11 @@ It's by no means a fair criterion, but while our opera consumption is being done
 
 It's an unsympathetic kind of sorting hat, or maybe like the equivalent of a kid getting his first chance at swimming by being thrown into the pool. We're clutching at encore broadcasts and archival video recordings from the libraries of opera companies who are firmly in the business of creating live shows, and seeing how well they fare in an entirely different medium. They're pitted up against television and movie streaming platforms, which is a major David/Goliath situation.
 
-But maybe part of the power of _Breaking the Waves_ is exactly that, its link to award-winning film. Lars von Trier's film won the Grand Prix at the 1996 Cannes Film Festival, and caught the eye of operatic dynamic duo Royce Vavrek and Missy Mazzoli; their adaptation of this thoroughly amazing story also won awards (Best New Opera from the Music Critics Association of North America). It's a fantastic story to turn into an opera, because it's full of all the stuff that happens to women in opera (in life, really) 
+But maybe part of the power of _Breaking the Waves_ is exactly that, its link to award-winning film. Lars von Trier's film won the Grand Prix at the 1996 Cannes Film Festival, and caught the eye of operatic dynamic duo Royce Vavrek and Missy Mazzoli; their adaptation of this thoroughly amazing story also won awards (Best New Opera from the Music Critics Association of North America). 
+
+It's a fantastic story to turn into an opera, because it's full of all the stuff that happens to women in opera (in life, really): idealism, disillusionment, misogyny, faith, lost faith, taking the blame for _everything_, a deserved death. It's infuriating just to write, but it's the kind of rage that gives me energy, so here goes my take on this story:
+
+Bess McNeill is head over heels for her new husband, Jan, and she's beyond excited to be with him. She wants to be a good woman, and that includes being perfectly desirable. They have a post-nuptial quickie, Jan is a bit of an asshole who laughs at how into it she gets, calls her "silly" and then points out the blood she got (_he got_, for fuck's sake) on her wedding dress.
 
 * 
 * in love young woman coming off as majorly naive in front of a bunch of Scottish dudes...yikes - xenophobia plus misogyny
