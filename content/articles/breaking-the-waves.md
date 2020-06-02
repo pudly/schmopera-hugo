@@ -18,6 +18,13 @@ title = "Breaking the Waves"
 youtube_url = ""
 
 +++
+It's by no means a fair criterion, but while our opera consumption is being done strictly online, there's an unexpected high bar for productions to clear; and even on first viewing (totally late to the party, I admit), _Breaking the Waves_ soars over that bar.
+
+It's an unsympathetic kind of sorting hat, or maybe like the equivalent of a kid getting his first chance at swimming by being thrown into the pool. We're clutching at encore broadcasts and archival video recordings from the libraries of opera companies who are firmly in the business of creating live shows, and seeing how well they fare in an entirely different medium. They're pitted up against television and movie streaming platforms, which is a major David/Goliath situation.
+
+But maybe part of the power of _Breaking the Waves_ is exactly that, ts 
+
+* 
 * in love young woman coming off as majorly naive in front of a bunch of Scottish dudes...yikes - xenophobia plus misogyny
 * great music for Jan's entrance - smearing strings foreshadow
 * we get a whiff of their relationship right away "late late late!"
