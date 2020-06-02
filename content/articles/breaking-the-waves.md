@@ -22,4 +22,5 @@ youtube_url = ""
 * great music for Jan's entrance - smearing strings foreshadow
 * we get a whiff of their relationship right away "late late late!"
 * John Moore as Jan - unbelievably beautiful baritone
+* Scottish accent a funny thing permeating the show - Marcus DeLoach's accent details stick out
 * 
