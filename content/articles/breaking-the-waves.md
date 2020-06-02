@@ -29,7 +29,7 @@ youtube_url = ""
 * money > desire > lust > women > sex jokes
 * genius moments of writing, like how Missy does the "hello" repetition after their phone call
 * she prays for him to come home, can't wait the 10 days, can't help herself from wishing he'd be home sooner - Eve moment, woman sets herself up for punishment because she admits to being horny/wanting something more than she has
-* 
+* she actually is a bit fragile, struggles with mental health, believes God speaks through her when she prays
 
   ***
 * great scene with Doctor (David Portillo)
