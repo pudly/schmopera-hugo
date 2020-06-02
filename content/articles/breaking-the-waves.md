@@ -22,7 +22,7 @@ It's by no means a fair criterion, but while our opera consumption is being done
 
 It's an unsympathetic kind of sorting hat, or maybe like the equivalent of a kid getting his first chance at swimming by being thrown into the pool. We're clutching at encore broadcasts and archival video recordings from the libraries of opera companies who are firmly in the business of creating live shows, and seeing how well they fare in an entirely different medium. They're pitted up against television and movie streaming platforms, which is a major David/Goliath situation.
 
-But maybe part of the power of _Breaking the Waves_ is exactly that, ts 
+But maybe part of the power of _Breaking the Waves_ is exactly that, its 
 
 * 
 * in love young woman coming off as majorly naive in front of a bunch of Scottish dudes...yikes - xenophobia plus misogyny
