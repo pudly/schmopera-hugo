@@ -28,5 +28,5 @@ youtube_url = ""
 * male chorus scene full of super thinly veiled innuendo - "drill deep, men" and "we dream oil" and "we drip oil, we shit oil, we breathe oil" and "suck up the crude" and "force it from the rock"
 * money > desire > lust > women > sex jokes
 * genius moments of writing, like how Missy does the "hello" repetition after their phone call
-* she prays for him to come home, can't wait the 10 days, can't help herself from wishing he'd be home sooner - Eve moment, woman sets herself up for punishment because she admits to being horny
+* she prays for him to come home, can't wait the 10 days, can't help herself from wishing he'd be home sooner - Eve moment, woman sets herself up for punishment because she admits to being horny/wanting something more than she has
 * 
