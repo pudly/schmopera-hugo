@@ -36,4 +36,4 @@ youtube_url = ""
 * sort of strange, their obsession with their sex life during the obviously early time after the accident
 * it's this great world where the people say out loud the thoughts that most people would have, even this soon after an accident
 * all the ways a sex life can be so important to a couple; here, it's because it keeps up appearances in church/society, and because it makes each of them feel valued/valuable
-* 
+* God says, prove that you love him and I won't let him die - so, do what he says and find someone else to have sex with, and he'll be spared; 
