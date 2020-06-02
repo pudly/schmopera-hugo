@@ -37,4 +37,6 @@ youtube_url = ""
 * it's this great world where the people say out loud the thoughts that most people would have, even this soon after an accident
 * all the ways a sex life can be so important to a couple; here, it's because it keeps up appearances in church/society, and because it makes each of them feel valued/valuable
 * God says, prove that you love him and I won't let him die - so, do what he says and find someone else to have sex with, and he'll be spared; it starts to work, but only once she starts enjoying the sex
+* women turn on her, because women do that
+* this whole story is people telling Bess that they know what's best for her, better than she does
 * 
