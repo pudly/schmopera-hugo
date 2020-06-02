@@ -23,4 +23,6 @@ youtube_url = ""
 * we get a whiff of their relationship right away "late late late!"
 * John Moore as Jan - unbelievably beautiful baritone
 * Scottish accent a funny thing permeating the show - Marcus DeLoach's accent details stick out
+* awkwardness right away, disenchantment - "silly little thing", shame over blood on dress
+* the line about how all women must endure loneliness at some point - oof
 * 
