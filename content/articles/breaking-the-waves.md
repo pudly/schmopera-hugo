@@ -32,7 +32,7 @@ But Bess perseveres, they enjoy each other, she feels valued and good. Then, Jan
 
 So, obviously now they can't have sex; Jan feels emasculated and Bess feels angry and guilty. Jan tells her to sleep with other people, and then come back and tell him about it; it'll be their way of having a sex life. Bess does it, because she's madly in love with Jan and wants to give him what he wants. At first it's terrible, but then she finds her stride, and as she begins to enjoy her extramarital sex, Jan's health stabilizes. Everyone tells Bess to stop being such a slut, but she doesn't. She starts thinking God is telling her to do this, too. She ends up going aboard a commercial ship where she's predictably gang raped and mutilated. She dies. Jan has surgery and can walk again.
 
-It's a story that kind of needs to be experienced to be understood. I spent a bit of time pondering the importance of this couple's sex life so soon after Jan became paralyzed; their priorities did seem a bit out of whack. 
+It's a story that kind of needs to be experienced to be understood. I spent a bit of time confused by how soon Jan focused on their sex life so soon after becoming paralyzed; the couple's priorities did seem a bit out of whack. And a reasonable person might find themselves screaming at the stage (screen?) 
 
 * 
 * in love young woman coming off as majorly naive in front of a bunch of Scottish dudes...yikes - xenophobia plus misogyny
