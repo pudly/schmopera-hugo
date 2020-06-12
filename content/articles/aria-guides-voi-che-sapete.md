@@ -30,7 +30,7 @@ youtube_url = ""
 
 </figure>
 
-* This might be a moment **(4)** where Cherubino's nerves settle and he finds his groove as a performer. The melody gets more inventive here, and be precise with some of these surprising notes, like the E-natural in "provo". There's a bit of melodrama in "è per me nuovo", so don't be afraid to let the voice bloom and vibrate in this trip from D to F.
+* This might be a moment **(4)** where Cherubino's nerves settle and he finds his groove as a performer. The melody gets more inventive here, so be precise with some of these surprising notes, like the E-natural in "provo". There's a bit of melodrama in "è per me nuovo", so don't be afraid to let the voice bloom and vibrate in this trip from D to F.
 * Make a bit of a meal out of the F on "affetto" **(5)**; see how it feels to get there a bit early, so you have time to really sing that top note. There's something cute in how Mozart writes "un affetto pien di desir", starting sort of shy and sweet, and then at "pien di desir" ("full of desire"), the tune gets lower and a bit more lustful.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590609114/media/2020/05/AriaGuide-Voi-p3-annotated_ybwhyp.jpg){{% /md %}}
