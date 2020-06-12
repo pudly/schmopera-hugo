@@ -18,25 +18,23 @@ title = "Aria guides: Voi, che sapete"
 youtube_url = ""
 
 +++
-1. This first phrase is simple and straightforward, and leaves you lots of room to decide on how confident a performer Cherubino is. The first two bars can easily pass for mechanical or unmusical, if your Cherubino is a shy starter; if he's on the braver side, there's a bit of machismo in this angular, swaggery beginning. You can do a lot with the \[v} in "Voi", giving it some spin and pitch ahead of time so your vowel lands right on the downbeat. 
+1. This first phrase is simple and straightforward, and leaves you lots of room to decide on how confident a performer Cherubino is. The first two bars can easily pass for mechanical or unmusical, if your Cherubino is a shy starter; if he's on the braver side, there's a bit of machismo in this angular, swaggery beginning. You can do a lot with the \[v} in "Voi", giving it some spin and pitch ahead of time so your vowel lands right on the downbeat.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590609091/media/2020/05/AriaGuide-Voi-p1-annotated_fzvxq3.jpg){{% /md %}}
 
-</figure>
+</figure>2. It's easy to slide out of tune here, so make sure you're vibrating each note in this chromatic bit. The E-flat usually has to be lower than you think, the E-flat deserves some spin, and don't neglect the D-natural in the next bar. As a bonus, consider the comma in "donne, vedete". When you sing "vedete", it's a new phrase, so it could use some new energy. That'll also keep you engaged and in tune.
 
-2. It's easy to slide out of tune here, so make sure you're vibrating each note in this chromatic bit. The E-flat usually has to be lower than you think, the E-flat deserves some spin, and don't neglect the D-natural in the next bar. As a bonus, consider the comma in "donne, vedete". When you sing "vedete", it's a new phrase, so it could use some new energy. That'll also keep you engaged and in tune.
 3. This is a spot that looks simple but it's totally not, and mezzos know this. It's a tricky tessitura, easy to get fatigued, so lightness and large beats are your friends. Try singing these two bars of "donne vedete" as though it's one bar of a sustained F, and then one bar of a sustaned E-flat. What Mozart wrote with these wavering thirds is just a decoration of that basic tune, and if you keep the broader shape in your ear, you'll sing these bars with more ease. Also, imagine that you're conducting one to the bar, rather than 2/4.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590609101/media/2020/05/AriaGuide-Voi-p2-annotated_pzewwp.jpg){{% /md %}}
 
-</figure>
+</figure>4. This might be a moment where Cherubino's nerves settle and he finds his groove as a performer. The melody gets more inventive here, and be precise with some of these surprising notes, like the E-natural in "provo". There's a bit of melodrama in "è per me nuovo", so don't be afraid to let the voice bloom and vibrate in this trip from D to F.
 
-4. This might be a moment where Cherubino's nerves settle and he finds his groove as a performer. The melody gets more inventive here, and be precise with some of these surprising notes, like the E-natural in "provo". There's a bit of melodrama in "è per me nuovo", so don't be afraid to let the voice bloom and vibrate in this trip from D to F.
-5. Make a bit of a meal out of the F on "affetto"; you can get 
+1. Make a bit of a meal out of the F on "affetto"; see how it feels to get there a bit early, so you have time to really sing that top note. There's something cute in how Mozart writes "un affetto pien di desir", starting sort of shy and sweet, and then at "pien di desir" ("full of desire"), the tune gets lower and a bit more lustful.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590609114/media/2020/05/AriaGuide-Voi-p3-annotated_ybwhyp.jpg){{% /md %}}
 
-</figure>
+</figure>6. I always like to think of these two bars as Cherubino's little _pièce de résistance_ in writing this song. It's textbook word painting: "ch'ora é diletto" ("now, a delight") gets a frilly, major tune, and "ch'ora è martir" ("
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590609126/media/2020/05/AriaGuide-Voi-p4-annotated_iist15.jpg){{% /md %}}
 
