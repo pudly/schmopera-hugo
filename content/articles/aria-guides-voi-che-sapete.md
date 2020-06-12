@@ -34,7 +34,7 @@ youtube_url = ""
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590609114/media/2020/05/AriaGuide-Voi-p3-annotated_ybwhyp.jpg){{% /md %}}
 
-</figure>6. I always like to think of these two bars as Cherubino's little _pièce de résistance_ in writing this song. It's textbook word painting: "ch'ora é diletto" ("now, a delight") gets a frilly, major tune, and "ch'ora è martir" ("
+</figure>6. I always like to think of these two bars as Cherubino's little _pièce de résistance_ in writing this song. It's textbook word painting: "ch'ora é diletto" ("now, it's a delight") gets a frilly, major tune, and "ch'ora è martir" ("now, it's torture") gets a stark, minor treatment. Experiment with how much you can exaggerate the contrast between these two mini-phrases; you can get away with more hamming it up than usual, since this scene is all about Cherubino trying too hard to win a woman who's out of his league. (Of course, as Beaumarchais fans will know, it [eventually turns out](https://en.wikipedia.org/wiki/The_Guilty_Mother) that she's not out of his league after all.)
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590609126/media/2020/05/AriaGuide-Voi-p4-annotated_iist15.jpg){{% /md %}}
 
