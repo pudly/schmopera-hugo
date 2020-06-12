@@ -17,7 +17,7 @@ title = "Aria guides: Voi, che sapete"
 youtube_url = ""
 
 +++
-* This first phrase **(1)** is simple and straightforward, and leaves you lots of room to decide on how confident a performer Cherubino is. The first two bars can easily pass for mechanical or unmusical, if your Cherubino is a shy starter; if he's on the braver side, there's a bit of machismo in this angular, swaggery beginning. You can do a lot with the \[v} in "Voi", giving it some spin and pitch ahead of time so your vowel lands right on the downbeat.
+* This first phrase **(1)** is simple and straightforward, and leaves you lots of room to decide on how confident a performer Cherubino is. The first two bars can easily pass for mechanical or unmusical, if your Cherubino is a shy starter; if he's on the braver side, there's a bit of machismo in this angular, swaggery beginning. You can do a lot with the \[v\] in "Voi", giving it some spin and pitch ahead of time so your vowel lands right on the downbeat.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590609091/media/2020/05/AriaGuide-Voi-p1-annotated_fzvxq3.jpg){{% /md %}}
 
