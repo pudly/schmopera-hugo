@@ -31,7 +31,8 @@ youtube_url = ""
 
 </figure>
 
-4. This might be a moment where Cherubino m
+4. This might be a moment where Cherubino's nerves settle and he finds his groove as a performer. The melody gets more inventive here, and be precise with some of these surprising notes, like the E-natural in "provo". There's a bit of melodrama in "è per me nuovo", so don't be afraid to let the voice bloom and vibrate in this trip from D to F.
+5. Make a bit of a meal out of the F on "affetto"; you can get 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590609114/media/2020/05/AriaGuide-Voi-p3-annotated_ybwhyp.jpg){{% /md %}}
 
