@@ -18,9 +18,13 @@ title = "Aria guides: Voi, che sapete"
 youtube_url = ""
 
 +++
+1. This first phrase is simple and straightforward, and leaves you lots of room to decide on how confident a performer Cherubino is. The first two bars can easily pass for mechanical or unmusical, if your Cherubino is a shy starter; if he's on the braver side, there's a bit of machismo in this angular, swaggery beginning. 
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590609091/media/2020/05/AriaGuide-Voi-p1-annotated_fzvxq3.jpg){{% /md %}}
 
 </figure>
+
+2. 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590609101/media/2020/05/AriaGuide-Voi-p2-annotated_pzewwp.jpg){{% /md %}}
 
