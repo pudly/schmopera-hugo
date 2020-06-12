@@ -56,3 +56,9 @@ youtube_url = ""
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590609157/media/2020/05/AriaGuide-Voi-p6-annotated_uoxfkm.jpg){{% /md %}}
 
 </figure>
+
+There you have it, it's just that easy. (It's not, I know.) For some inspiration, here's Isabel Leonard singing "Voi, che sapete":
+
+<figure data-type="video">{{% md %}}<iframe width="1280" height="720" src="https://www.youtube.com/embed/mNRF-SEl27o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+
+</figure>
