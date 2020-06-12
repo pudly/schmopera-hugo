@@ -40,11 +40,11 @@ youtube_url = ""
 
 </figure>7. Beware of intonation here; there's something about this sustained C-natural that tends sharp. As you deal with this wide-ranging phrase, spend time figuring out the balance of chest voice for that low C on "l'alma avvampar". Keep in mind that you've just got to head back up into that tiring tessitura for "e in un momento". It's fun and often exciting to really give those low notes a good dose of Ewa Podleś contralto-ness, but only if you can pop back up to the high E-flat without extra effort.
 
-8. 
+8. These bars are a lesson in raising the dramatic stakes. I imagine that by this time, Cherubino has almost forgotten his audience, so wrapped up is he in his lovesick crooning. The tune becomes tragic at "ricerco un bene", and it's almost aching for an extra-long phrase, so see if you can go right to the end of "fuori di me" before you breathe.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590609138/media/2020/05/AriaGuide-Voi-p5-annotated_qrqupv.jpg){{% /md %}}
 
-</figure>
+</figure>9. The idea is to show Cherubino basically panting with puberty, but don't tire yourself out in real life. Practice singing these bars without the rests, to find out where you truly need to breathe; it's easy to snag little breaths each time you have a rest, and that can quickly turn into stacking your air. Uncomfortable. And finally, when you make it to "ma pur mi piace", release any tension you might have built up in the panting bit. This might be another spot for a long phrase, too; some mezzos like to go all the way through "ma pur mi piace languir così", and others like to breathe before "languir", and then dovetail into the A section again without a breath. In either case, let it be a bit of a trick up Cherubino's sleeve, something to really make the Countess swoon.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590609157/media/2020/05/AriaGuide-Voi-p6-annotated_uoxfkm.jpg){{% /md %}}
 
