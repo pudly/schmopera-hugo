@@ -24,7 +24,7 @@ youtube_url = ""
 </figure>
 
 * It's easy to slide out of tune here **(2)**, so make sure you're vibrating each note in this chromatic bit. The E-flat usually has to be lower than you think, the E-flat deserves some spin, and don't neglect the D-natural in the next bar. As a bonus, consider the comma in "donne, vedete". When you sing "vedete", it's a new phrase, so it could use some new energy. That'll also keep you engaged and in tune.
-* This is a spot **(3)** that looks simple but it's totally not, and mezzos know this. It's a tricky tessitura, easy to get fatigued, so lightness and large beats are your friends. Try singing these two bars of "donne vedete" as though it's one bar of a sustained F, and then one bar of a sustaned E-flat. What Mozart wrote with these wavering thirds is just a decoration of that basic tune, and if you keep the broader shape in your ear, you'll sing these bars with more ease. Also, imagine that you're conducting one to the bar, rather than 2/4.
+* This is a spot **(3)** that looks simple but it's totally not, and mezzos know this. It's a tricky tessitura, easy to get fatigued, so lightness and large beats are your friends. Try singing these two bars of "donne vedete" as though it's one bar of a sustained F, and then one bar of a sustained E-flat. What Mozart wrote with these wavering thirds is just a decoration of that basic tune, and if you keep the broader shape in your ear, you'll sing these bars with more ease. Also, imagine that you're conducting one big beat to each bar.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590609101/media/2020/05/AriaGuide-Voi-p2-annotated_pzewwp.jpg){{% /md %}}
 
