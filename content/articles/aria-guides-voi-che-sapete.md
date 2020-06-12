@@ -38,7 +38,9 @@ youtube_url = ""
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590609126/media/2020/05/AriaGuide-Voi-p4-annotated_iist15.jpg){{% /md %}}
 
-</figure>
+</figure>7. Beware of intonation here; there's something about this sustained C-natural that tends sharp. As you deal with this wide-ranging phrase, spend time figuring out the balance of chest voice for that low C on "l'alma avvampar". Keep in mind that you've just got to head back up into that tiring tessitura for "e in un momento". It's fun and often exciting to really give those low notes a good dose of Ewa Podleś contralto-ness, but only if you can pop back up to the high E-flat without extra effort.
+
+8. 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590609138/media/2020/05/AriaGuide-Voi-p5-annotated_qrqupv.jpg){{% /md %}}
 
