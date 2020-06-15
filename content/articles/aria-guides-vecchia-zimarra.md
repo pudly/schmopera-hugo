@@ -18,6 +18,7 @@ title = "Aria guides: Vecchia zimarra"
 youtube_url = ""
 
 +++
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590606094/media/2020/05/AriaGuide-Vecchia-p1-annotated_ldonn6.jpg){{% /md %}}
 
 </figure>
