@@ -36,7 +36,7 @@ youtube_url = ""
 </figure>
 
 * Vowel, vowel, vowel, here. Puccini gives you time with his _rallentando_, so take the space and spin three great \[i\] vowels to get you through "ti dico". Basses often find the ascent the hard part, but don't let up before you've sung the B-natural at the end of the word. 
-* This phrase isn't much to look at **(5)**, but it's 
+* This phrase isn't much to look at **(5)**, but it's a heartbreaker if you commit to that long note on "mio". If it were me singing this (if only) I'd try and get away with holding that note for as long as a conductor would let me; however long you have, spend the note actively renewing and renewing that \[o\] vowel, so it stays energized and in tune. Finally, for the two "addios", it's your moment of tragedy, so don't let anyone rush you; technically, you get to decide on the first one, and the conductor gets to dictate the second one. Don't put up a fight - you're not the tenor, after all. (Tenors, I jest, mostly.)
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590606140/media/2020/05/AriaGuide-Vecchia-p4-annotated_sr8jjb.jpg){{% /md %}}
 
