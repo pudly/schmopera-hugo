@@ -47,7 +47,7 @@ youtube_url = ""
 
 </figure>
 
-* This is a place to coast, not to use energy. With your teacher, find a speech-like colour that allows you to basically recite in your speaking range, concentrating on smooth language and not fighting for baritonal sound.
+* This **(6)** is a place to coast, not to use energy. With your teacher, find a speech-like colour that allows you to basically recite in your speaking range, concentrating on smooth language and not fighting for tons of sound.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590605444/media/2020/05/AriaGuide-Mab-p6-annotated_v5w9xv.jpg){{% /md %}}
 
