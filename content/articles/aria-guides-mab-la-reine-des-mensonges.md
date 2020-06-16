@@ -69,6 +69,6 @@ youtube_url = ""
 
 </figure>
 
-<figure data-type="video">{{% md %}}<iframe width="1013" height="570" src="https://www.youtube.com/embed/s8q8S0ScJ1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">{{% md %}}<<iframe width="1013" height="584" src="https://www.youtube.com/embed/llPvYE7D9Gc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
 </figure>
