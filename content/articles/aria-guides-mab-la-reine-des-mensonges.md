@@ -29,7 +29,7 @@ youtube_url = ""
 
 </figure>
 
-* This spot **(3)** can get you panting, if you're not careful.
+* This spot **(3)** can get you panting, if you're not careful. Here's a prime spot to consider where you need to breathe; you can show the rests without sipping air, which will definitely help with stacking or hyperventilating. It'll also keep you more connected to this chromatic line, and it's worth spending a good amount of time singing it with no rests, just long lines and vowels.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590605348/media/2020/05/AriaGuide-Mab-p3-annotated_vas4nw.jpg){{% /md %}}
 
