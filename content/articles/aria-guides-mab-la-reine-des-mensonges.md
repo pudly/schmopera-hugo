@@ -22,11 +22,14 @@ youtube_url = ""
 
 </figure>
 
-* Off we go! There's a big lesson in this first high E **(1)**: sing it as though you've got all the time in the world. You don't, in reality, but give yourself as much space as you can; some baritones like to use that M to hum a bit (on pitch!) and get the voice moving before finding that downbeat. And since these first two phrases go like the wind, ask yourself whether you need a real breath every time there's a rest. For example, the space between "Mab" and "la reine"; there's plenty of room, but the singing of it might be easier if it feels connected, rather than 
+* Off we go! There's a big lesson in this first high E **(1)**: sing it as though you've got all the time in the world. You don't, in reality, but give yourself as much space as you can; some baritones like to use that M to hum a bit (on pitch!) and get the voice moving before finding that downbeat. And since these first two phrases go like the wind, ask yourself whether you need a real breath every time there's a rest. For example, the space between "Mab" and "la reine"; there's plenty of room, but the singing of it might be easier if it feels connected, rather than in fits and starts.
+* There is always time to practice this part slowly (2). Try and avoid the habit of landing heavily on the higher notes, like the first syllable of "légère"; you certainly want to try for a lightness in all this chatty writing, but that doesn't mean you get heavy with the beats. Try and imagine that this whole thing - from "Plus légère" to "Décevant" - is beat-free, like a swan gliding over still water. Hint: you can do this easily with _lots and lots_ of slow practice.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590605327/media/2020/05/AriaGuide-Mab-p2-annotated_evyirm.jpg){{% /md %}}
 
 </figure>
+
+* This spot **(3)** can get you panting, if you're not careful.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590605348/media/2020/05/AriaGuide-Mab-p3-annotated_vas4nw.jpg){{% /md %}}
 
