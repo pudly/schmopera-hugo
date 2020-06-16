@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "How-To"
 date = 2020-05-27T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = "Hope you've had your coffee! This is Mercutio's aria from Act I of Gounod's _Roméo et Juliette_, based on Shakespeare's famous tragedy. This aria is a ballad to [Queen Mab](https://en.wikipedia.org/wiki/Queen_Mab), a mysterious fairy creature that gets into one's dreams; it's a breathless bit of excitement that sets up Mercutio as Roméo's outgoing, affable friend, so when he meets his end later in the opera, the loss sinks in deeply. With your teacher and coach, this Aria Guide is designed to help you dodge traps and stay breathing:"
