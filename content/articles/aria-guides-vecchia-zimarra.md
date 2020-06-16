@@ -35,6 +35,9 @@ youtube_url = ""
 
 </figure>
 
+* Vowel, vowel, vowel, here. Puccini gives you time with his _rallentando_, so take the space and spin three great \[i\] vowels to get you through "ti dico". Basses often find the ascent the hard part, but don't let up before you've sung the B-natural at the end of the word. 
+* This phrase isn't much to look at **(5)**, but it's 
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590606140/media/2020/05/AriaGuide-Vecchia-p4-annotated_sr8jjb.jpg){{% /md %}}
 
 </figure>
