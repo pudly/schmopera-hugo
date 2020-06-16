@@ -65,6 +65,8 @@ youtube_url = ""
 
 </figure>
 
+* Keep up your _accent d'insistence_ here, singing the eighth notes with the same conviction as the longer notes
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590605487/media/2020/05/AriaGuide-Mab-p9-annotated_vvljrv.jpg){{% /md %}}
 
 </figure>
