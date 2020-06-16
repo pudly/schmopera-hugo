@@ -22,6 +22,8 @@ youtube_url = ""
 
 </figure>
 
+* Off we go! There's a big lesson in this first high E: sing it as though you've got all the time in the world. You don't, in reality, but give yourself as much space as you can; some baritones like to use that M to hum a bit (on pitch!) and get the voice moving before finding that downbeat. And since these first two  
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590605327/media/2020/05/AriaGuide-Mab-p2-annotated_evyirm.jpg){{% /md %}}
 
 </figure>
@@ -51,5 +53,9 @@ youtube_url = ""
 </figure>
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590605487/media/2020/05/AriaGuide-Mab-p9-annotated_vvljrv.jpg){{% /md %}}
+
+</figure>
+
+<figure data-type="video">{{% md %}}<iframe width="1013" height="570" src="https://www.youtube.com/embed/s8q8S0ScJ1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
 </figure>
