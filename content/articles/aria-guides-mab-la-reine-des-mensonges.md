@@ -22,7 +22,7 @@ youtube_url = ""
 
 </figure>
 
-* Off we go! There's a big lesson in this first high E: sing it as though you've got all the time in the world. You don't, in reality, but give yourself as much space as you can; some baritones like to use that M to hum a bit (on pitch!) and get the voice moving before finding that downbeat. And since these first two  
+* Off we go! There's a big lesson in this first high E **(1)**: sing it as though you've got all the time in the world. You don't, in reality, but give yourself as much space as you can; some baritones like to use that M to hum a bit (on pitch!) and get the voice moving before finding that downbeat. And since these first two phrases go like the wind, ask yourself whether you need a real breath every time there's a rest. For example, the space between "Mab" and "la reine"; there's plenty of room, but the singing of it might be easier if it feels connected, rather than 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590605327/media/2020/05/AriaGuide-Mab-p2-annotated_evyirm.jpg){{% /md %}}
 
