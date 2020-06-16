@@ -35,9 +35,13 @@ youtube_url = ""
 
 </figure>
 
+* The way this bit is written **(4)**, it's almost inevitable that a non-French speaker will thump heavily on the big beats here - the B-naturals on "-traî-" and "dans" and "-ther". Compensate for it with a bit of _accent d'insistance_, where you lean into the weaker syllables (and effectively, the weaker beats). It'll feel a bit like weird limping, but try and get comfy with the idea of leaning into "En-" and "-ne" and "l'é-" and "lim-". Then, when you get to the babbling at "Fut fait..." it's all about slow practice; these notes are easily made vague without the right amount of attention, so slow it way down and find the intonation traps hidden around these bars.
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590605370/media/2020/05/AriaGuide-Mab-p4-annotated_uwpegd.jpg){{% /md %}}
 
 </figure>
+
+* If you're going to get non-legato, you could theoretically do it here **(5)**. The orchestration changes to evoke riding on horseback, and for these four bars, you can be a bit deliberate about the big beats. Be diligent about the small notes, too; really sing a vowel on the first syllable of "grillon", and on the words "de" and "son". Later on this page, when you're moving in an out of keys at "dont la mèche blanche...", it's again all about slow practice. These pitches are twisty and tricky, and they require some planning ahead; treat them like a slow, _bel canto_ line in the practice room, and don't fall for any of Gounod's shenanigans.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590605425/media/2020/05/AriaGuide-Mab-p5-annotated_gtg1df.jpg){{% /md %}}
 
