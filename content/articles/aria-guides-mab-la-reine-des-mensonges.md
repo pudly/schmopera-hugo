@@ -65,11 +65,15 @@ youtube_url = ""
 
 </figure>
 
-* Keep up your _accent d'insistence_ here, singing the eighth notes with the same conviction as the longer notes
+* Keep up your _accent d'insistence_ here **(9)**, singing the eighth notes with the same conviction as the longer notes. You're still in chill-out land here, where spin is your friend, so take care to love each interval - particularly the surprising ones, like the C-sharp to D on "reposes" and the E-sharp to G-sharp on "ta couche". When you start the ascent on "Ô vierge!", consider where you're going; that low F-sharp is easy, but the E-natural on "bouche" takes a different kind of attention, so leave room for the whole range when you breathe for this phrase.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590605487/media/2020/05/AriaGuide-Mab-p9-annotated_vvljrv.jpg){{% /md %}}
 
 </figure>
+
+* For some reason, it's easy to go flat on "rêver" **(10)**, so take care with those vowels and give them each some vibrato. The fermata on "de" is a fun little moment of suspense; make sure you leave enough air so that the long "baisers" is comfortable to sing and spin. And finally, take a nice, early, slow breath before "Mab" begins again. It may be fast, but this aria is a marathon, not a sprint!
+
+Phew! And now, for a bit of context (and gorgeousness): here's Russell Braun singing "Mab, la reine des mensonges" in Salzburg, 2008:
 
 <figure data-type="video">{{% md %}}<<iframe width="1013" height="584" src="https://www.youtube.com/embed/llPvYE7D9Gc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
