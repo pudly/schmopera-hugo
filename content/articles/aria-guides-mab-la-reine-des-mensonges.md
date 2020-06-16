@@ -59,6 +59,8 @@ youtube_url = ""
 
 </figure>
 
+* Maintain your legato here by bringing out the weak syllables again - the first syllable of "batailles", the middle syllable of "d'estocades", for example. Then, when you get to the _poco ritardando_ at "Elle lui verse..." let your voice release a bit in places like "lui" and the beginning of "rasades". It'll help you show your slower tempo, and shake off any tension you might have collected so far.
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590605475/media/2020/05/AriaGuide-Mab-p8-annotated_lrf49y.jpg){{% /md %}}
 
 </figure>
