@@ -47,9 +47,13 @@ youtube_url = ""
 
 </figure>
 
+* This is a place to coast, not to use energy. With your teacher, find a speech-like colour that allows you to basically recite in your speaking range, concentrating on smooth language and not fighting for baritonal sound.
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590605444/media/2020/05/AriaGuide-Mab-p6-annotated_v5w9xv.jpg){{% /md %}}
 
 </figure>
+
+* At the top of this page **(7)**, be very specific with where you need to transition out of that speech-like sound and into more proper singing. These bars are a slow chromatic rise, so don't let it take you by surprise in your _passaggio_. By the time you're at "Et la liberté", you need to be thinking of the C-sharps in the line below.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590605461/media/2020/05/AriaGuide-Mab-p7-annotated_ijujbd.jpg){{% /md %}}
 
