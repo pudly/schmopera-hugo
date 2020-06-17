@@ -3,7 +3,6 @@ author = ["authors/anonymous.md"]
 categories = "Op-Ed"
 date = 2020-06-17T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = "This letter was submitted with a request to publish anonymously. We did so willingly, because part of our mission is to reflect the opinions and critique of working artists in the opera industry - people like the author of this letter."
