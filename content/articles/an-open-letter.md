@@ -12,35 +12,19 @@ primary_image_credit = ""
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "This silence is the loudest thing you've ever produced. It is absolutely deafening. It has left an entire generation of Canadian artists in confusion and tears. Culture is ultimately a set of actions, not beliefs. Your silence therefore is an act representative of your culture."
 slug = "an-open-letter"
 title = "An open letter"
 youtube_url = ""
 
 +++
-To the COC Board of Directors, the Life Trustees Council, the Corporation Board of Directors,
+To the COC Board of Directors, the Life Trustees Council, the Corporation Board of Directors, and the Canadian Opera Foundation Board,
 
-and the Canadian Opera Foundation Board,
+_Questo giorno di tormenti, di capricci e di follia, solo amor può terminar._
 
-Questo giorno di tormenti, di capricci e di follia, solo amor può terminar.
+It is with a bizarre mix of fury, grief, and compassion that I write this. For my entire career as a singer I have looked up to (and been somewhat intimidated by) the Canadian Opera Company. You were the pinnacle. The End of the Dream. That this is no longer the case is one of the most difficult things I've had to admit.
 
-It is with a bizarre mix of fury, grief, and compassion that I write this. For my entire career as a
-
-singer I have looked up to (and been somewhat intimidated by) the Canadian Opera Company.
-
-You were the pinnacle. The End of the Dream. That this is no longer the case is one of the most
-
-difficult things I’ve had to admit.
-
-The events of the last few weeks have spurred a vast number of arts organizations to announce
-
-their solidarity with the Black and Indigenous communities. More than this, they have begun to
-
-reassess the way they engage with these communities, the material they present, and the
-
-conversations they have. They have pledged--publically--to do the work to dismantle all-too
-
-antiquated systems rooted in supremacist ideologies. And yet...
+The events of the last few weeks have spurred a vast number of arts organizations to announce their solidarity with the Black and Indigenous communities. More than this, they have begun to reassess the way they engage with these communities, the material they present, and the conversations they have. They have pledged - publicly - to do the work to dismantle all-too-antiquated systems rooted in supremacist ideologies. And yet...
 
 An arts organization with forty-two million dollars in revenue is mute.
 
@@ -48,26 +32,10 @@ An arts organization with over seven thousand under-30 attendees is mute.
 
 An arts organization who utilized over six million dollars in government grants last year is mute.
 
-People are out there hurting. People are out there weeping. There are communities out there
+People are out there hurting. People are out there weeping. There are communities out there grieving in ways we cannot fathom. And you are mute.
 
-grieving in ways we cannot fathom. And you are mute.
+This silence is the loudest thing you've ever produced. It is absolutely deafening. It has left an entire generation of Canadian artists in confusion and tears. Culture is ultimately a set of actions, not beliefs. Your silence therefore is an act representative of your culture.
 
-This silence is the loudest thing you’ve ever produced. It is absolutely deafening. It has left an
+Your upcoming season promises _Le nozze di Figaro_. This is an opera born out of radical politics, written by radicals! What is the point of presenting such a work if you cannot at least abide the spirit behind it?
 
-entire generation of Canadian artists in confusion and tears. Culture is ultimately a set of
-
-actions, not beliefs. Your silence therefore is an act representative of your culture.
-
-Your upcoming season promises Le nozze di Figaro. This is an opera born out of radical
-
-politics, written by radicals! What is the point of presenting such a work if you cannot at least
-
-abide the spirit behind it?
-
-Please, I beg you, say something. Better yet, please do something. And if you are doing things,
-
-please tell us. You have the ability, the means, the social position, to effect incredible change
-
-within your organization and within an entire industry. Please give me a reason to believe in you
-
-again.
+Please, I beg you, say something. Better yet, please do something. And if you are doing things, please tell us. You have the ability, the means, the social position, to effect incredible change within your organization and within an entire industry. Please give me a reason to believe in you again.
