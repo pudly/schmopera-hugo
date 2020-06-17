@@ -34,7 +34,7 @@ An arts organization who utilized over six million dollars in government grants 
 
 People are out there hurting. People are out there weeping. There are communities out there grieving in ways we cannot fathom. And you are mute.
 
-This silence is the loudest thing you've ever produced. It is absolutely deafening. It has left an entire generation of Canadian artists in confusion and tears. Culture is ultimately a set of actions, not beliefs. Your silence therefore is an act representative of your culture.
+This silence is the loudest thing you've ever produced. It has left an entire generation of Canadian artists in confusion and tears. Culture is ultimately a set of actions, not beliefs. Your silence therefore is an act representative of your culture.
 
 Your upcoming season promises _Le nozze di Figaro_. This is an opera born out of radical politics, written by radicals! What is the point of presenting such a work if you cannot at least abide the spirit behind it?
 
