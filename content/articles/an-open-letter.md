@@ -13,8 +13,8 @@ related_articles = ["articles/arts-money-waste.md", "articles/when-opera-compani
 related_companies = ["scene/companies/canadian-opera-company.md"]
 related_people = []
 short_description = "This silence is the loudest thing you've ever produced. It is absolutely deafening. It has left an entire generation of Canadian artists in confusion and tears. Culture is ultimately a set of actions, not beliefs. Your silence therefore is an act representative of your culture."
-slug = "an-open-letter"
-title = "An open letter"
+slug = "an-open-letter-to-the-canadian-opera-company"
+title = "An open letter to the Canadian Opera Company"
 youtube_url = ""
 
 +++
