@@ -5,7 +5,7 @@ date = 2020-06-17T04:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = ""
-preamble = "This letter was submitted with a request to publish anonymously. We did so willingly, because part of our mission is to reflect the opinions and critique of working artists in the opera industry - people like the author of this letter."
+preamble = "Update: since this letter's publication Alexander Neef and the Canadian Opera Company have released a statement, [\"Reckoning with our past\"](https://www.coc.ca/COC-news1?EntryID=21984&fbclid=IwAR2650Tm-xVIEkWtW1P-7zqBUHp-8JfbLoptd8edPsMgdDnz8hN7E_uXVrI).\n\nThis letter was submitted with a request to publish anonymously. We did so willingly, because part of our mission is to reflect the opinions and critique of working artists in the opera industry - people like the author of this letter."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1592418546/media/2020/06/sqOpenLetterCOC_yrm5d1.jpg"
 primary_image_credit = ""
 related_articles = ["articles/arts-money-waste.md", "articles/when-opera-companies-protect-abusers.md"]
