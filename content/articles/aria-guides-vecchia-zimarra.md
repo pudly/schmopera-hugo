@@ -3,6 +3,7 @@ author = ["authors/jenna.md"]
 categories = "How-To"
 date = 2020-05-27T04:00:00Z
 disclaimer = ""
+draft = true
 image_gallery = []
 postamble = "Have a suggestion for a future Aria Guide? Let us know in the comments below, or get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
 preamble = "This aria from the final act of _La bohème_ is two pages of what's stunning about a great bass. Colline, the philosopher among his band of bohemians, is doing his part after Mimì shows up at his apartment, looking for his friend Rodolfo and dying of tuberculosis. He decides to pawn his coat to help pay for a doctor, and because he's a philosopher, the decision is a weighty one. Along with your teacher and coach, this Aria Guide can get you off to a good start with the short and sweet \"Vecchia zimarra\":"
