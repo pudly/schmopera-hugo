@@ -42,19 +42,25 @@ youtube_url = ""
 </figure>
 
 * Puccini gives you a breather here **(5)**, so enjoy how this tune tumbles gently down, and take care with that first semitone from F-E, so it doesn't fall flat. When you really dive down, like the low D on "ridir", remind yourself that you've got to pop back up high, so don't check out of the height you've created.
-* - 
+* The tune is back! And now there's a high C! Puccini gives you some help with this crescendo, which should serve as a pass to be brave, be loud, be your best soprano. It can help to imagine moving up to the C a bit early, so that it's more on your terms; however you pace this, remember to save enough energy for a show-off fermata on that C, plus the rest of the phrase that comes after. The real money note in this phrase, I think, is the tiny sixteenth note A on "mio", just after the C; if you keep that note vibrating and in tune, you'll be in control of the whole phrase, not just surviving it.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590608991/media/2020/05/AriaGuide-Doretta-p5-annotated_i2ztvy.jpg){{% /md %}}
 
 </figure>
 
+* At the start of this line, just before **(6)**, this is the moment wher eyou want to have a special colour up your sleeve. It doesn't have to be super-duper quiet, just more quiet than you've been up to this point. The same rule applies for the "mia" here; sing that little note like a real _verismo_ lady. Finally, at **(6)**, spend time on every single vowel in this tune, and use those vowels to create the _tenuti_ on "importa". 
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590609004/media/2020/05/AriaGuide-Doretta-p6-annotated_sayjml.jpg){{% /md %}}
 
 </figure>
 
+* If you grab a breath here **(7)**, think ahead. I'd opt for just a sip of air before "se alfin", so that you're in a good spot to take a great breath for "la felicità" in the next bar. If you don't actually need a breath in that rest, try and make it a habit not to. When you get to "la felicità", keep it horizontal and legato; for some reason, it's easy to get heavy and thumpy here, because the orchestra starts to fill in and it gets all old-film-score. It's just so great.
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590609018/media/2020/05/AriaGuide-Doretta-p7-annotated_sinbap.jpg){{% /md %}}
 
 </figure>
+
+* Sing the little notes here **(8)**! Make sure you really know what pitch they are, and treat the sixteenth notes like they're opera-sized. In the practice room, try just moving from the F-sharp on "sogno", right to the B-flat on "d'or" with no extra note in the middle; once that feels solid, add in the low D on "-gno", and make it a real, vibrating part of this melody. If the little notes are left out, it pokes holes in your hard-earned legato. Finally, don't overthink this final "poter amar così". The _diminuendo_ on "amar" should feel like a stepwise motion, moving in blocks on that E-natural from _forte_ to _mezzoforte_ to _mezzopiano_ to _piano_, etc. It's a lot easier to pace this sort of terraced dynamic than to aim for a gradual thing - and in the end, it'll sound just as impressive.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590609027/media/2020/05/AriaGuide-Doretta-p8-annotated_txz1hx.jpg){{% /md %}}
 
