@@ -22,8 +22,8 @@ youtube_url = ""
 
 </figure>
 
-* For Magda, this aria starts **(1)** with one of those finnicky tempo markings that Puccini loves, the _rall_ into _a tempo_. It does seem a bit awkward for the singer, but remember that the _rallentando_ is referring to the staccato line happening in the bass. When you do come in, mid-_rall_, it's as though Magda is starting her version of this song with a bit of flair. Hanging out on these first two notes can be a bit of anticipation, a sort of drumroll for what will certainly be the finished, polished product that Prunier started just a few minutes prior.
-* If you're really feeling the Italian text here **(2)**, you'll sense an urge to move ahead in this meandering couple of bars. A good pianist or conductor should be able to follow you as you push forward, just enough to suit the natural rhythm of the language, but don't go crazy with an _accelerando_.
+* This aria starts **(1)** with one of those finnicky tempo markings that Puccini loves, the _rallentando_ into _a tempo_. It does seem a bit awkward for the singer, but remember that the _rallentando_ is referring to the staccato line happening in the bass. When you do come in, mid-_rall_, it's as though Magda is starting her version of this song with a bit of flair. Hanging out on these first two notes can be a bit of anticipation, a sort of drumroll for what will certainly be the finished, polished product that Prunier started just a few minutes prior.
+* If you're really feeling the Italian text here **(2)**, you'll sense an urge to move ahead in these meandering couple of bars. A good pianist or conductor should be able to follow you as you push forward, just enough to suit the natural rhythm of the language. That said, don't go crazy with an _accelerando_.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590608951/media/2020/05/AriaGuide-Doretta-p2-annotated_hz0zn4.jpg){{% /md %}}
 
