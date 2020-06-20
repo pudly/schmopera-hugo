@@ -35,11 +35,14 @@ youtube_url = ""
 
 </figure>
 
-* Ah, this tune **(4)**. This tune is everything. Sopranos know it, too, and it can be easy to overthink this line or try too hard to make it beautiful. 
+* Ah, this tune **(4)**. This tune is everything. Sopranos know it, too, and it can be easy to overthink this line or try too hard to make it beautiful. So, with the help you'll get from your teacher and coach, I can offer these few tips: get comfy with your vowels first, then add in the consonants. Let the "F" in "Folle" help you get your air moving, but be careful not to waste too much breath on it. Enjoy the _portamentos_ between the A-F on "amore" and the G-E on "ebbrezza", because they're _delicious_. Renew your vowels on the third beat of each bar, to keep these high sustained notes alive _and gorgeous_. And finally, don't worry about your volume; I know a lot of sopranos like to show off a good float here, but don't fall into the comparison trap. Practice this bit at your comfortable volume, and then as a bonus, work with your teacher on refining the volume.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590608977/media/2020/05/AriaGuide-Doretta-p4-annotated_amt3su.jpg){{% /md %}}
 
 </figure>
+
+* Puccini gives you a breather here **(5)**, so enjoy how this tune tumbles gently down, and take care with that first semitone from F-E, so it doesn't fall flat. When you really dive down, like the low D on "ridir", remind yourself that you've got to pop back up high, so don't check out of the height you've created.
+* - 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1590608991/media/2020/05/AriaGuide-Doretta-p5-annotated_i2ztvy.jpg){{% /md %}}
 
