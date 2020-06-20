@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1592685618/media/2020/06/sqAriaGuide-Doretta_ajdwob.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
@@ -66,6 +66,8 @@ youtube_url = ""
 
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+What a great little ditty, right? Let's all indulge in the sounds of a pro: here's Leontyne Price's rendition of "Chi il bel sogno di Doretta", from Puccini's _La rondine_:
+
+<figure data-type="video">{{% md %}}<iframe width="1280" height="720" src="https://www.youtube.com/embed/53sFK1ZDYxY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
 </figure>
