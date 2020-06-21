@@ -20,7 +20,7 @@ youtube_url = ""
 +++
 ## The Drunken Tenor, via Seattle Opera
 
-If you've not had the chance to see tenor Robert McPherson's "tipsy persona" live, you can tune in from home this weekend. On **June 26, 7pm PST**, Seattle Opera's virtual opera offerings will feature the premiere online performance of The Drunken Tenor. McPherson is joined by pianist David McDade and soprano Jennifer Bromagen for a program that balances Verdi and Bizet with the comedic joys of Zoom concerts and microphone management.
+If you've not had the chance to see tenor Robert McPherson's "tipsy persona" live, you can tune in from home this weekend. On **June 26, 7pm PDT**, Seattle Opera's virtual opera offerings will feature the premiere online performance of The Drunken Tenor. McPherson is joined by pianist David McDade and soprano Jennifer Bromagen for a program that balances Verdi and Bizet with the comedic joys of Zoom concerts and microphone management.
 
 The event can be streamed on Seattle Opera's [Facebook](https://www.facebook.com/SeattleOpera) and [YouTube](https://www.youtube.com/user/SeattleOpera) channels, or via their [website](http://seattleopera.org/). For a sneak peek, check out the trailer:
 
@@ -30,7 +30,7 @@ The event can be streamed on Seattle Opera's [Facebook](https://www.facebook.com
 
 ## Valhalla Media Live's debut broadcasts
 
-Brand-new live-streaming platform Valhalla Media is set to launch with two back-to-back concert events, both broadcast from Chicago's Studebaker Theater.
+Brand-new live-streaming platform [Valhalla Media Live](https://www.valhallamedia.live/) is set to launch with two back-to-back concert events, both broadcast from Chicago's Studebaker Theater. On **June 26, 7:30pm CDT**, baritone Will Liverman and pianist Paul Sanchez offer a recital of works by African American composers, including a world premiere by [Shawn Okpebholo](http://www.shawnokpebholo.com/). And on **June 27, 8pm CDT** 
 
 * 
 * New live-streaming platform Valhalla Media Live
