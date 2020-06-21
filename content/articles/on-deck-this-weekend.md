@@ -28,6 +28,10 @@ The event can be streamed on Seattle Opera's [Facebook](https://www.facebook.com
 
 </figure>
 
+## Valhalla Media Live's debut broadcasts
+
+Brand-new live-streaming platform Valhalla Media is set to launch with two back-to-back concert events, both broadcast from Chicago's Studebaker Theater.
+
 * 
 * New live-streaming platform Valhalla Media Live
 * Debut live broadcasts on June 26 and 27: baritone Will Liverman and pianist Paul Sanchez offer a recital of works by African American composers, including the world premiere by Shawn Okpebholo, June 26, 7:30pm CT, and a concert performance of Humperdinck's _Hansel and Gretel_, starring mezzo Emily Fons and soprano Emily Pogorelc in the title roles
