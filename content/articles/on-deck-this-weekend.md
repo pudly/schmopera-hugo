@@ -22,7 +22,7 @@ youtube_url = ""
 
 If you've not had the chance to see tenor Robert McPherson's "tipsy persona" live, you can tune in to catch him from home this weekend. On **June 26, 7pm PDT**, Seattle Opera's virtual opera offerings will feature the premiere online performance of [The Drunken Tenor](https://thedrunkentenor.com/). McPherson is joined by pianist David McDade and soprano Jennifer Bromagen for a program that balances Verdi and Bizet with the comedic joys of Zoom concerts and microphone management.
 
-The event can be streamed on Seattle Opera's [Facebook](https://www.facebook.com/SeattleOpera) and [YouTube](https://www.youtube.com/user/SeattleOpera) channels, or via their [website](http://seattleopera.org/). For a sneak peek, check out the trailer:
+The event can be streamed on Seattle Opera's [Facebook](https://www.facebook.com/SeattleOpera) and [YouTube](https://www.youtube.com/user/SeattleOpera) channels, or via their [website](http://seattleopera.org/). If you like what they're putting out, [consider donating](https://www.seattleopera.org/donate/). For a sneak peek, check out the trailer:
 
 <figure data-type="video">{{% md %}}<iframe width="1070" height="602" src="https://www.youtube.com/embed/8ZtuJJ5Aljc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
@@ -35,6 +35,8 @@ Brand-new live-streaming platform [Valhalla Media](https://www.valhallamedia.liv
 These concerts are designed to conform to CDC health guidelines, including pre-performance health screenings, partitions separating singers and accompanying musicians, and the wearing of masks where possible. This is an exciting step forward in the production of live, high-quality performing arts broadcasts, and hopefully these debut shows will be the start of something big.
 
 Both events are presented live, with a pay-what-you-can-model. The suggested price is $14.99. Registration is required for each event ([Liverman/Sanchez recital](http://bit.ly/Valhalla-Liverman-Sanchez), and [_Hansel and Gretel_](http://bit.ly/Valhalla-Hansel-Gretel)), and advance purchase is available via [Valhalla Media's website](https://www.valhallamedia.live/).
+
+## _Having Guests for Dinner_, a trash micro-opera
 
 * New Opera West presents the premiere of its new virtual "trash micro-opera", _Having Guests for Dinner_, June 27, 5pm PT.
 * The event takes place on YouTube; it's free, with an RSVP required: [https://www.eventbrite.com/e/having-guests-for-dinner-opera-premiere-tickets-](https://www.eventbrite.com/e/having-guests-for-dinner-opera-premiere-tickets- "https://www.eventbrite.com/e/having-guests-for-dinner-opera-premiere-tickets-")
