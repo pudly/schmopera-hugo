@@ -10,8 +10,8 @@ preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1592763752/media/2020/06/sqWeekendVirtualOpera_ah3omi.jpg"
 primary_image_credit = ""
 related_articles = []
-related_companies = []
-related_people = []
+related_companies = ["scene/companies/seattle-opera.md", "scene/companies/new-opera-west.md"]
+related_people = ["scene/people/emily-pogorelc.md", "scene/people/emily-fons-1.md", "scene/people/will-liverman.md"]
 short_description = "short"
 slug = "on-deck-this-weekend"
 title = "On deck this weekend"
@@ -30,7 +30,7 @@ The event can be streamed on Seattle Opera's [Facebook](https://www.facebook.com
 
 ## Valhalla Media Live's debut broadcasts
 
-Brand-new live-streaming platform [Valhalla Media](https://www.valhallamedia.live/) is set to launch with two back-to-back concert events, both broadcast from Chicago's Studebaker Theater. On **June 26, 7:30pm CDT**, [baritone Will Liverman and pianist Paul Sanchez](http://bit.ly/Valhalla-Liverman-Sanchez) offer a live recital of works by African American composers, including a world premiere by [Shawn Okpebholo](http://www.shawnokpebholo.com/). And on **June 27, 8pm CDT**, you can catch a concert performance of [Humperdinck's _Hansel and Gretel_](http://bit.ly/Valhalla-Hansel-Gretel), starring mezzo Emily Fons and soprano Emily Pogorelc in the title roles.
+Brand-new live-streaming platform [Valhalla Media](https://www.valhallamedia.live/) is set to launch with two back-to-back concert events, both broadcast from Chicago's Studebaker Theater. On **June 26, 7:30pm CDT**, [baritone Will Liverman and pianist Paul Sanchez](http://bit.ly/Valhalla-Liverman-Sanchez) offer a live recital of works by African American composers, including a world premiere by [Shawn Okpebholo](http://www.shawnokpebholo.com/). And on **June 27, 8pm CDT**, you can catch a concert performance of [Humperdinck's _Hansel and Gretel_](http://bit.ly/Valhalla-Hansel-Gretel), starring mezzo [Emily Fons](/scene/people/emily-fons/) and soprano [Emily Pogorelc](/scene/people/emily-pogorelc/) in the title roles.
 
 These concerts are designed to conform to CDC health guidelines, including pre-performance health screenings, partitions separating singers and accompanying musicians, and the wearing of masks where possible. This is an exciting step forward in the production of live, high-quality performing arts broadcasts, and hopefully these debut shows will be the start of something big.
 
@@ -38,7 +38,7 @@ Both events are presented live, with a pay-what-you-can-model. The suggested pri
 
 ## _Having Guests for Dinner_, a trash micro-opera
 
-Los Angeles-based New Opera West is continuing its commitment to commissioning new operas, with its first virtual presentation, _Having Guests for Dinner_. The "trash micro-opera" (we too are baffled and confused by the term!) is by Nicholas Bentz and Robert Feng, and tells the story of a peculiar dinner party with a questionable menu...
+Los Angeles-based [New Opera West](/scene/companies/new-opera-west/) is continuing its commitment to commissioning new operas, with its first virtual presentation, _Having Guests for Dinner_. The "trash micro-opera" (we too are baffled and confused by the term!) is by Nicholas Bentz and Robert Feng, and tells the story of a peculiar dinner party with a questionable menu...
 
 The opera premieres on YouTube on **June 27, 5pm PDT**. It's free to stream, but [you need to RSVP](https://www.eventbrite.com/e/having-guests-for-dinner-opera-premiere-tickets-) to grab your link. Curious? Check out the trailer:
 
