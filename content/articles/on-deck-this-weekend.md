@@ -38,16 +38,10 @@ Both events are presented live, with a pay-what-you-can-model. The suggested pri
 
 ## _Having Guests for Dinner_, a trash micro-opera
 
-* New Opera West presents the premiere of its new virtual "trash micro-opera", _Having Guests for Dinner_, June 27, 5pm PT.
-* The event takes place on YouTube; it's free, with an RSVP required: [https://www.eventbrite.com/e/having-guests-for-dinner-opera-premiere-tickets-](https://www.eventbrite.com/e/having-guests-for-dinner-opera-premiere-tickets- "https://www.eventbrite.com/e/having-guests-for-dinner-opera-premiere-tickets-")
-* _Having Guests for Dinner_ is by Nicholas Bentz and Robert Feng, and tells the story of a curious dinner party with a questionable menu...
-* Trailer:
+Los Angeles-based New Opera West is continuing its commitment to commissioning new operas, with its first virtual presentation, _Having Guests for Dinner_. The "trash micro-opera" (we too are baffled and confused by the term!) is by Nicholas Bentz and Robert Feng, and tells the story of a peculiar dinner party with a questionable menu...
+
+The opera premieres on YouTube on **June 27, 5pm PDT**. It's free to stream, but [you need to RSVP](https://www.eventbrite.com/e/having-guests-for-dinner-opera-premiere-tickets-) to grab your link. Curious? Check out the trailer:
 
 <figure data-type="video">{{% md %}}<iframe width="1013" height="570" src="https://www.youtube.com/embed/n25rjJd3KIU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
 </figure>
-
-* The Drunken Tenor moves online on June 26, 7pm PT, with a virtual show in collaboration with Seattle Opera
-* Robert MacPherson and his "tipsy persona" balances Bizet and Verdi with the "fun" of Zoom meetings, and shares his virtual space with pianist 
-* Tune in on June 26 for the premiere, 
-* trailer: 
