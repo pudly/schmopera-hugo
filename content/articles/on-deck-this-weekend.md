@@ -40,7 +40,7 @@ Both events are presented live, with a pay-what-you-can-model. The suggested pri
 
 Los Angeles-based [New Opera West](/scene/companies/new-opera-west/) is continuing its commitment to commissioning new operas, with its first virtual presentation, _Having Guests for Dinner_. The "trash micro-opera" (we too are baffled and confused by the term!) is by Nicholas Bentz and Robert Feng, and tells the story of a peculiar dinner party with a questionable menu...
 
-The opera premieres on YouTube on **June 27, 5pm PDT**. It's free to stream, but [you need to RSVP](https://www.eventbrite.com/e/having-guests-for-dinner-opera-premiere-tickets-) to grab your link. Curious? Check out the trailer:
+The opera premieres on YouTube on **June 27, 5pm PDT**, and stars soprano Janet Szepei Todd as Laura, tenor Edmond Rodriguez as Marcus, and baritone Anthony Moreno as Christoph. _Having Guests for Dinner_ is free to stream, but [you need to RSVP](https://www.eventbrite.com/e/having-guests-for-dinner-opera-premiere-tickets-) to grab your link. Curious? Check out the trailer:
 
 <figure data-type="video">{{% md %}}<iframe width="1013" height="570" src="https://www.youtube.com/embed/n25rjJd3KIU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
