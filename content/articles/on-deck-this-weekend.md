@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1592763752/media/2020/06/sqWeekendVirtualOpera_ah3omi.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
@@ -18,6 +18,17 @@ title = "On deck this weekend"
 youtube_url = ""
 
 +++
+## The Drunken Tenor, via Seattle Opera
+
+If you've not had the chance to see tenor Robert McPherson's "tipsy persona" live, you can tune in from home this weekend. On June 26, 7pm PST, Seattle Opera's virtual opera offerings will feature the premiere online performance of The Drunken Tenor. McPherson is joined by pianist David McDade and soprano Jennifer Bromagen for a program that balances Verdi and Bizet with the comedic joys of Zoom concerts and microphone management.
+
+The event can be streamed on Seattle Opera's [Facebook](https://www.facebook.com/SeattleOpera) and [YouTube](https://www.youtube.com/user/SeattleOpera) channels, or via their [website](http://seattleopera.org/). For a sneak peek, check out the trailer:
+
+<figure data-type="video">{{% md %}}<iframe width="1070" height="602" src="https://www.youtube.com/embed/8ZtuJJ5Aljc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+
+</figure>
+
+* 
 * New live-streaming platform Valhalla Media Live
 * Debut live broadcasts on June 26 and 27: baritone Will Liverman and pianist Paul Sanchez offer a recital of works by African American composers, including the world premiere by Shawn Okpebholo, June 26, 7:30pm CT, and a concert performance of Humperdinck's _Hansel and Gretel_, starring mezzo Emily Fons and soprano Emily Pogorelc in the title roles
 * these concert events will conform to CDC health guidelines, including pre-performance health screenings, partitions separating singers and accompanying musicians, and the wearing of masks where possible
@@ -35,6 +46,6 @@ youtube_url = ""
 </figure>
 
 * The Drunken Tenor moves online on June 26, 7pm PT, with a virtual show in collaboration with Seattle Opera
-* Robert MacPherson and his "tipsy persona" balances Bizet and Verdi with the "fun" of Zoom meetings, and shares his virtual space with pianist David McDade and soprano Jennifer Bromagen
-* Tune in on June 26 for the premiere, on Seattle Opera's [Facebook](https://www.facebook.com/SeattleOpera) and [YouTube](https://www.youtube.com/user/SeattleOpera) channels, or via their [website](http://seattleopera.org/).
-* trailer: <iframe width="1070" height="602" src="[https://www.youtube.com/embed/8ZtuJJ5Aljc](https://www.youtube.com/embed/8ZtuJJ5Aljc "https://www.youtube.com/embed/8ZtuJJ5Aljc")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* Robert MacPherson and his "tipsy persona" balances Bizet and Verdi with the "fun" of Zoom meetings, and shares his virtual space with pianist 
+* Tune in on June 26 for the premiere, 
+* trailer: 
