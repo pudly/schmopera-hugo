@@ -21,6 +21,8 @@ youtube_url = ""
 * New live-streaming platform Valhalla Media Live
 * Debut live broadcasts on June 26 and 27: baritone Will Liverman and pianist Paul Sanchez offer a recital of works by African American composers, including the world premiere by Shawn Okpebholo, June 26, 7:30pm CT, and a concert performance of Humperdinck's _Hansel and Gretel_, starring mezzo Emily Fons and soprano Emily Pogorelc in the title roles
 * these concert events will conform to CDC health guidelines, including pre-performance health screenings, partitions separating singers and accompanying musicians, and the wearing of masks where possible
+* both performances happen at Chicago's Studebaker Theater, and are presented with a pay-what-you-can model. Suggested price is $14.99.
+* Registration required to tune in: [http://bit.ly/Valhalla-Liverman-Sanchez](http://bit.ly/Valhalla-Liverman-Sanchez "http://bit.ly/Valhalla-Liverman-Sanchez") and [http://bit.ly/Valhalla-Hansel-Gretel](http://bit.ly/Valhalla-Hansel-Gretel "http://bit.ly/Valhalla-Hansel-Gretel")
 * it's a major step forward in the production of new content under pandemic restrictions - high quality and live
 
 * New Opera West presents the premiere of its new virtual "trash micro-opera", _Having Guests for Dinner_, June 27, 5pm PT.
