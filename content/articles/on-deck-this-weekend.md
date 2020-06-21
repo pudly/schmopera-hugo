@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "Editorial"
 date = 2020-06-21T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = "Happy times! This weekend is chock-full of online opera offerings. From trash opera on YouTube to live broadcasts via Chicago, we've got our viewing picks down:"
