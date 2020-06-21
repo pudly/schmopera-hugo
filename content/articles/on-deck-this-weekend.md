@@ -13,8 +13,8 @@ related_articles = ["articles/the-met-s-at-home-gala.md", "articles/covid.md"]
 related_companies = ["scene/companies/seattle-opera.md", "scene/companies/new-opera-west.md"]
 related_people = ["scene/people/emily-pogorelc.md", "scene/people/emily-fons-1.md", "scene/people/will-liverman.md"]
 short_description = "These concerts are designed to conform to CDC health guidelines, including pre-performance health screenings, partitions separating singers and accompanying musicians, and the wearing of masks where possible."
-slug = "on-deck-this-weekend"
-title = "On deck this weekend"
+slug = "from-trash-to-valhalla-whats-on-deck-this-weekend"
+title = "From trash to Valhalla: what's on deck this weekend"
 youtube_url = ""
 
 +++
