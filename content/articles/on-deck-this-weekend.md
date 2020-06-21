@@ -33,3 +33,8 @@ youtube_url = ""
 <figure data-type="video">{{% md %}}<iframe width="1013" height="570" src="https://www.youtube.com/embed/n25rjJd3KIU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
 </figure>
+
+* The Drunken Tenor moves online on June 26, 7pm PT, with a virtual show in collaboration with Seattle Opera
+* Robert MacPherson and his "tipsy persona" balances Bizet and Verdi with the "fun" of Zoom meetings, and shares his virtual space with pianist David McDade and soprano Jennifer Bromagen
+* Tune in on June 26 for the premiere, on Seattle Opera's [Facebook](https://www.facebook.com/SeattleOpera) and [YouTube](https://www.youtube.com/user/SeattleOpera) channels, or via their [website](http://seattleopera.org/).
+* trailer: <iframe width="1070" height="602" src="[https://www.youtube.com/embed/8ZtuJJ5Aljc](https://www.youtube.com/embed/8ZtuJJ5Aljc "https://www.youtube.com/embed/8ZtuJJ5Aljc")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
