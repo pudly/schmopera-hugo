@@ -4,7 +4,7 @@ categories = "Editorial"
 date = 2020-06-21T04:00:00Z
 disclaimer = ""
 image_gallery = []
-postamble = ""
+postamble = "Readers, where are you getting your online fixes? Let us know in the comments below, or get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
 preamble = "Happy times! This weekend is chock-full of online opera offerings. From trash opera on YouTube to live broadcasts via Chicago, we've got our viewing picks down:"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1592763752/media/2020/06/sqWeekendVirtualOpera_ah3omi.jpg"
 primary_image_credit = "Clockwise from top: baritone Anthony Moreno in \"Having Guests for Dinner\"; baritone Will Liverman, photographed by Jaclyn Simpson; The Drunken Tenor, photographed by Paul Gibbons."
@@ -39,7 +39,7 @@ Both events are presented live, with a pay-what-you-can-model. The suggested pri
 
 Los Angeles-based [New Opera West](/scene/companies/new-opera-west/) is continuing its commitment to commissioning new operas, with its first virtual presentation, _Having Guests for Dinner_. The "trash micro-opera" (we too are baffled and confused by the term!) is by Nicholas Bentz and Robert Feng, and tells the story of a peculiar dinner party with a questionable menu...
 
-The opera premieres on YouTube on **June 27, 5pm PDT**, and stars soprano Janet Szepei Todd as Laura, tenor Edmond Rodriguez as Marcus, and baritone Anthony Moreno as Christoph. _Having Guests for Dinner_ is free to stream, but [you need to RSVP](https://www.eventbrite.com/e/having-guests-for-dinner-opera-premiere-tickets-) to grab your link. Curious? Check out the trailer:
+The opera premieres on YouTube on **June 27, 5pm PDT**, and stars soprano Janet Szepei Todd as Laura, tenor Edmond Rodriguez as Marcus, and baritone Anthony Moreno as Christoph. _Having Guests for Dinner_ is free to stream, but [you need to RSVP](https://www.eventbrite.com/e/having-guests-for-dinner-virtual-opera-premiere-tickets-106237296614) to grab your link. Curious? Check out the trailer:
 
 <figure data-type="video">{{% md %}}<iframe width="1013" height="570" src="https://www.youtube.com/embed/n25rjJd3KIU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
