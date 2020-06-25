@@ -23,6 +23,6 @@ As part of its [Sunday Matinee series on YouTube](https://www.youtube.com/c/flor
 
 FGO's production from 2018 stars Ana María Martínez as Florencia, the Brazilian soprano journeying home via the Amazon river; amid the storms and cholera outbreaks, Florencia and her fellow passengers travel into a murkey combination of fantasy and reality.
 
-_Florencia en el Amazonas_ was the first Spanish opera to be commissioned in the United States, and it's a refreshing pick amid the deluge of online streams. Tune in this Sunday, June 28 at 2pm ET on Florida Grand Opera's YouTube channel, and get swept away.
+_Florencia en el Amazonas_ was the first Spanish opera to be commissioned in the United States, and it's a refreshing pick amid the deluge of online streams. Tune in this Sunday, **June 28 at 2pm ET** on [Florida Grand Opera's YouTube channel](https://www.youtube.com/c/floridagrandopera), and get swept away.
 
-And for added context, check out our reviews by Schmopera contributor [Andrew Schneider](/florencia-en-el-amazonas-takes-on-a-life-of-its-own-at-hgo/) (of Houston Grand Opera's 2019 production) and [Loren Lester](/a-butterfly-but-not-from-puccini/) (San Diego, 2018).
+And for added context, check out our reviews of _Florencia en el Amazonas_ by Schmopera contributor [Andrew Schneider](/florencia-en-el-amazonas-takes-on-a-life-of-its-own-at-hgo/) (of Houston Grand Opera's 2019 production) and [Loren Lester](/a-butterfly-but-not-from-puccini/) (San Diego, 2018).
