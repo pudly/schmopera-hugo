@@ -18,7 +18,7 @@ title = "A weekend pick reminiscent of the good old days: Grindr (and other conc
 youtube_url = ""
 
 +++
-Feel like checking out a queer comedic chamber opera this weekend? Me too. 
+Feel like checking out a queer comedic chamber opera this weekend? Me too.
 
 Thankfully, there's _Grindr (and other concerns)_, the new work by composer Marc Hoffeditz, librettist MJ Halberstadt, and director Ingrid Oslund.
 
@@ -27,5 +27,7 @@ The opera was originally slated for a live premiere at the Boston-area Chelsea T
 _Grindr_ tells the story of Riley, his horny best friend Brandon, and their chaotic adventures in online dating, open relationships, and queerness in technology.
 
 The premiere viewing of _Grindr (and other concerns)_ will feature _Act 1: An Annotated Sing Through_, where you can catch "unforgettably naughty scenes and arias" from the opera's first act, along with some delightful commentary on topics like opera development and queer hook-up culture. It's a combination of live and pre-recorded material.
+
+As a bonus, the project is also a fundraiser for the [Marsha P. Johnson Institute](https://marshap.org/), which runs arts fellowship programs and community organizing for black transgender folx.
 
 Viewers are asked to [sign up ahead of time](https://tinyurl.com/ybnvys2w), and they'll be sent a link to the performance.
