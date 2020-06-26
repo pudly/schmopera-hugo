@@ -1,7 +1,7 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Editorial"
-date = 2020-06-25T04:00:00Z
+date = 2020-06-26T04:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = ""
@@ -11,7 +11,7 @@ primary_image_credit = ""
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "The premiere viewing of Grindr (and other conce rns) will feature Act 1: An Annotated Sing Through, where you can catch \"unforgettably naughty scenes and arias\" from the opera's first act, along with some delightful commentary on topics like opera development and queer hook-up culture. It's a combination of live and pre-recorded material."
 slug = "a-weekend-pick-reminiscent-of-the-good-old-days-grindr-and-other-concerns"
 title = "A weekend pick reminiscent of the good old days: Grindr (and other concerns)"
 youtube_url = ""
@@ -25,7 +25,7 @@ The opera was originally slated for a live premiere at the Boston-area Chelsea T
 
 _Grindr_ tells the story of Riley, his horny best friend Brandon, and their chaotic adventures in online dating, open relationships, and queerness in technology.
 
-The premiere viewing of _Grindr (and other concerns)_ will feature _Act 1: An Annotated Sing Through_, where you can catch "unforgettably naughty scenes and arias" from the opera's first act, along with some delightful commentary on topics like opera development and queer hook-up culture. It's a combination of live and pre-recorded material.
+The premiere viewing of _Grindr (and other conce rns)_ will feature _Act 1: An Annotated Sing Through_, where you can catch "unforgettably naughty scenes and arias" from the opera's first act, along with some delightful commentary on topics like opera development and queer hook-up culture. It's a combination of live and pre-recorded material.
 
 As a bonus, the project is also a fundraiser for the [Marsha P. Johnson Institute](https://marshap.org/), which runs arts fellowship programs and community organizing for black transgender folx.
 
