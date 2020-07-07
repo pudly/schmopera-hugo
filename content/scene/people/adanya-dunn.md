@@ -2,7 +2,7 @@
 date = "2015-04-06T18:22:00+01:00"
 discipline = "Mezzo-soprano"
 lastmod = "2017-03-15T11:02:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428340829175/Adanya.jpg.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1594146592/media/2020/07/Adanya_Dunn_Headshot_new_crop_s028nd.jpg"
 publishDate = "2015-04-06T18:22:00+01:00"
 related_companies = ["scene/companies/fawn-chamber-creative.md", "scene/companies/university-of-toronto-opera.md"]
 slug = "adanya-dunn"
@@ -12,6 +12,10 @@ website = "http://www.adanyadunn.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/addydear"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/adanyadunn/"
 
 +++
 Canadian-Bulgarian lyric mezzo-soprano Adanya Dunn was named by the CBC as one of Canada’s “Top 30 Hot Classical Musicians Under 30” and was featured in _The Globe & Mail_ as one of six Canadian women who are “turning opera on its head and making the future bright for the art form”.
