@@ -1,10 +1,10 @@
 +++
 date = "2015-04-06T18:22:00+01:00"
-discipline = "Soprano"
+discipline = "Mezzo-soprano"
 lastmod = "2017-03-15T11:02:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428340829175/Adanya.jpg.jpg"
 publishDate = "2015-04-06T18:22:00+01:00"
-related_companies = ["scene/companies/fawn-chamber-creative.md","scene/companies/university-of-toronto-opera.md"]
+related_companies = ["scene/companies/fawn-chamber-creative.md", "scene/companies/university-of-toronto-opera.md"]
 slug = "adanya-dunn"
 title = "Adanya Dunn"
 website = "http://www.adanyadunn.com/"
@@ -12,22 +12,16 @@ website = "http://www.adanyadunn.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/addydear"
+
 +++
+Canadian-Bulgarian lyric mezzo-soprano Adanya Dunn was named by the CBC as one of Canada’s “Top 30 Hot Classical Musicians Under 30” and was featured in _The Globe & Mail_ as one of six Canadian women who are “turning opera on its head and making the future bright for the art form”.
 
-Canadian-Bulgarian soprano Adanya Dunn, is “superb at scaling the full range of human emotion through voice and gesture” (St. Albert Gazette). An alumna of the University of Toronto (UofT), Adanya studied with Professor Lorna MacDonald for both her Master of Music in Opera Performance (2014) and Bachelor of Music in Voice Performance (2012) degrees. Within her studies, she had the opportunity to work with artists such as Sandra Horst, Nathalie Paulin, Russell Braun, Steven Philcox, Monica Whicher, and Che Anne Loewen.
+A versatile performer, her 2019/20 season included highlights Mozart’s _Così fan tutte_ as Dorabella with the Bergen Symphony Orkest, Berio’s _Sequenza III_ at Belgium’s Festival 20/21 with the New European Ensemble, and various concerts in Amsterdam’s Dutch National Opera and Het Concertgebouw.
 
-Adanya is currently in her final year of Bard College Conservatory’s Graduate Vocal Arts Program, led by Artistic Directors Dawn Upshaw and Kayo Iwama, and privately studies with Patricia Misslin and Edith Bers. For this project, she is supported by The Canada Council for the Arts. Through Bard, she has performed at the Morgan Library in NYC, the Longy School of Music in Boston, the Fisher Center for the Performing Arts, Sosnoff Theater in the Hudson Valley, and a debut with the Albany Symphony Orchestra conducted by David Allen Miller. Upcoming performances with Bard in 2016 include the soprano solo in Handel’s *Messiah* under the baton of Leon Botstein with The Orchestra Now; and an operatic double bill as Papagena in Mozart’s *Die Zauberflöte* and the New York Premiere of Oliver Knussen’s *Higglety Pigglety Pop!* in the soprano lead, Rhoda.
+In the upcoming 2020/21 season, Adanya debuts at the Muziekgebouw with an opening recital performance in the Grote Zangers series and in a solo recital in Muziekgebouw’s Canal House series; a concert tour of the Netherlands with Irish pianist Seán Morgan-Rooney, showcasing popular and art music styles through original compositions and arrangements; and performs the role of Octavian in Strauss’ _Der Rosenkavalier_.
 
-Ms. Dunn had her Carnegie Hall debut as part of The Song Continues: Marilyn Horne Master Class in Jan. 2015. She received the Encouragement Award from the Metropolitan Opera National Council Auditions, for the Buffalo/Toronto District in Jan. 2014.
+Adanya debuted at Carnegie Hall in 2015, is a prize winner from the Metropolitan Opera National Council Auditions, and is a three-time grant recipient from the Canada Council for the Arts. She is an alumna of Dawn Upshaw’s Vocal Arts Program, Marilyn Horne’s Music Academy of West, the Rebanks Family Fellowship & International Residency at the Glenn Gould School, and the University of Toronto.
 
-For the summers of 2015 and 2014, Adanya was a voice fellow at the Music Academy of the West (MAW) helmed by iconic mezzo-soprano Marilyn Horne. In 2015, she Adanya performed the role of Clorinda in Rossini’s *La Cenerentola* directed by David Paul and conducted by Jayce Ogren. There, she also performed in opera scenes directed by Bruce Donnell: Frantik (*The Cunning Little Vixen*) and Valencienne (*Die lustige Witwe*). The previous summer at MAW, she covered the role of Frasquita in Bizet’s *Carmen* and performed in opera scene excerpts directed by Gregory Fortner, as Marzelline (*Fidelio* by Beethoven) and Elvira (*L’italiana in Algeri* by Rossini) conducted by John Fisher and Warren Jones, respectively. Through MAW, she premiered the chamber song cycle we do it to one another by cellist-composer Joshua Roman, and had the opportunity to work with Marilyn Horne, Fred Carama, Martin Katz,  John Churchwell, Anthony Dean Griffey, Nino Sanikidze, and Denise Massé.
+Born and raised in Toronto, she was a resident performer with the interdisciplinary arts collective FAWN Chamber Creative and was the Co-Founder of the innovative chamber music series The Happenstancers. Adanya performed with companies such as Against the Grain Theatre, Soundstreams, the Luminato Festival, Tapestry Opera, and the Canadian Music Centre. Her consistent collaboration with composers, librettists, and collectives, has led her to premiere over 200 works.
 
-canadian sopranoWith support of the Canadian Aldeburgh Foundation, she attended the Britten-Pears Young Artist Programme, Aldeburgh Music Festival in June 2012, studying with soprano Dawn Upshaw and pianist Kayo Iwama in England. Continuing her musical summer, Ms. Dunn participated in the Toronto Summer Music Festival where she was able to work with Steven Philcox, Gerald Finley, and Craig Rutenberg. Past development programs include Opera NUOVA, Tapestry Opera 101, Vancouver International Song Institute, Orford Arts Centre and Academy, and Opera Atelier Professional Training Program. Adanya previously studied with Cindy Townsend for ten years, and is a graduate the Etobicoke School of the Arts (Musical Theatre Major), as well as a proud alumna of the Canadian Children’s Opera Company.
-
-Select opera and theatre roles and excerpts include: The Governess in *Turn of the Screw* (Britten), Miss Wordsworth in *Albert Herring* (Britten), Zerlina in *Don Giovanni* (Mozart), First Lady in *The Magic Flute* (Mozart), Margaret Johnson in *The Light in the Piazza* (Guettle), and Maria in *West Side Story* (Sondheim).
-
-Appearing with innovative organizations such as Against the Grain Theatre, Aradia En
-semble, SummerWorks Festival, NEXUS Percussion, Canadian Children’s Opera Company, and the Bulgarian Arts Festival of Canada, Adanya is pleased to have had the opportunity to perform contemporary pieces, world and national premieres, as well as traditional works.
-
-Adanya is a resident performer with Toronto’s interdisciplinary arts collective
-FAWN Chamber Creative.
+Adanya’s diverse musical interests has led her to pursue making music with the sound healing meditation group Leyline Tides, the poly-genre electronic project #operEMIX, and in the leading role as Artistic Director of Rosebud Opera: Queering the Opera Narrative.
