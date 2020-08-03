@@ -56,7 +56,7 @@ Sanabria and Bernstein both require a little stretch from the listener. In casti
 
 ### "It's not an opera"
 
-"It's not an opera," Bernstein told _The New York Times_ on the eve of his recording project. "It's a work on its way towards being one." Bernstein moved it along that path with the casting of Carreras, Kiri Te Kanawa as Maria and most effectively Tatiana Troyanos as Anita, lover of the Sharks leader, Bernardo. Te Kanawa settled on a mature yet convincingly girlish sound and maintained a credible accent throughout. Troyanos reveling in a mezzo middle range incorporated infectious rhythm and lavishly articulated speech bringing Anita to vivid life. Marilyn Horne came in for a rueful "Somewhere" that inhabited its own island of vocal serenity.
+"It's not an opera," Bernstein told _The New York Times_ on the eve of his recording project. "It's a work on its way towards being one." Bernstein moved it along that path with the casting of Carreras, Kiri Te Kanawa as Maria and most effectively Tatiana Troyanos as Anita, lover of the Sharks' leader, Bernardo. Te Kanawa settled on a mature yet convincingly girlish sound and maintained a credible accent throughout. Troyanos reveling in a mezzo middle range incorporated infectious rhythm and lavishly articulated speech bringing Anita to vivid life. Marilyn Horne came in for a rueful "Somewhere" that inhabited its own island of vocal serenity.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596481216/media/2020/08/tumblr_pe2p36A9ui1rclfzho5_640_gfj9ku.jpg){{% /md %}}
 
@@ -64,15 +64,13 @@ Sanabria and Bernstein both require a little stretch from the listener. In casti
 
 </figure>
 
-There was more than a hint “West Side Story” was operatically inclined when Carol Lawrence and Larry Kert were cast as Maria and Tony in the original Broadway production. With her light and refined soprano Lawrence displayed the purity of sound and vocal agility that elevated the stature of her performance. Kert sang “Something’s Coming” and “Maria” with a handsomely refined tenor and boundless vocal drive that has yet to be matched by any singer tackling the role. Their duets, “Tonight” and “One Hand, One Heart” possess such romantic richness that the couple could have waltzed, albeit incongruously, out of New York's West side and into Vienna.
+There was more than a hint _West Side Story_ was operatically inclined when Carol Lawrence and Larry Kert were cast as Maria and Tony in the original Broadway production. With her light and refined soprano Lawrence displayed the purity of sound and vocal agility that elevated the stature of her performance. Kert sang "Something's Coming" and “Maria” with a handsomely refined tenor and boundless vocal drive that has yet to be matched by any singer tackling the role. Their duets, "Tonight" and "One Hand, One Heart" possess such romantic richness that the couple could have waltzed, albeit incongruously, out of New York's West side and into Vienna.
 
 The production launched a Broadway legend and an acclaimed coloratura as it claimed some diversity in casting. Prior to her Broadway status, Chita Rivera who is of Puerto Rican, Scottish and Italian heritage, brought her spectacular dancing, singing and acting skills to the stage as Broadway’s first Anita. Reri Grist cast as Consuelo a Sharks woman, was tapped to sing “Somewhere” during the ballet sequence and broke ground as well. A pioneering African-American coloratura, Grist went on to an impressive international operatic and concert career with credits including twelve seasons at the Salzburg Festival singing Strauss and Mozart under Bohm, Mehta and Karajan.
 
-Photo Reri Geist
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596481314/media/2020/08/GRIST_Reri_phA_scyp4h.jpg){{% /md %}}
 
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption></figcaption>
+<figcaption>Reri Grist preparing to record “Somewhere” which she was tapped to sing in the ballet sequence of West Side Story. Grist was cast in the role of Consuelo, one of the Sharks women. Photo: Don Hunstein © Sony Music Entertainment.</figcaption>
 
 </figure>
 
