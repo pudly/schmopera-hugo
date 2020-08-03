@@ -97,8 +97,6 @@ Robert Wise, co-director of the 1961 film, was tasked with introducing into the 
 
 Dubbing prevailed on the vocals, however. The esteemed Marni Nixon sang Maria's songs for Natalie Wood while a chap named Jimmy Bryant provided a fresh if generic sound for Richard Beymer's Tony. Portions of Anita's singing parts were dubbed by Betty Wand but the dancing and fiery portrayal belonged to Rita Moreno, the only actress of Puerto Rican decent with a featured role in the film.
 
-Photo of Tucker Smith, Jets and Jets women from the film
-
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596481700/media/2020/08/WSS_Cool_ivg10b.jpg){{% /md %}}
 
 <figcaption>Tucker Smith (front row, second from left) leads the Jets and Jets women in an intense rendition of "Cool" in the 1961 film version of "West Side Story." The song was repositioned to appear after the rumble in which Riff and Bernardo, leaders of the Jets and Sharks were both killed. Photo: clipstill@mgm.com.</figcaption>
@@ -111,8 +109,6 @@ In a boldly original move the soundtrack peaks when "Cool" is repositioned as so
 
 To fully understand why the soundtrack, though still a crowd-pleaser, has its detractors, listen to it in close proximity to the Bernstein and Thomas recordings. The soundtrack is shallow by comparison and lacks detail. Likened to an Olympics diving competition the degree of difficulty for its splashy orchestrations might rate 3.2 with Bernstein and Thomas slicing the water with a 3.8, maybe higher. Listen for the multiple layers of percussion in their orchestras and resonating pianos that suggest more intimate dimensions. Bernstein fulfills the promise of his work with a pick-up orchestra. There is the sense that if he were to have returned to it 20 years later, we might hear unforeseen musical growth. Thomas, with a keen understanding of Bernstein's music, nimbly creates a musical theater atmosphere and encourages the orchestra that he had led for two decades at the time of the recording to literally dance.
 
-Photo of SF Symphony and Anita with WSS cast on stage
-
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596481813/media/2020/08/SFSWestSideStoryStefanCohen_kj9te8.jpg){{% /md %}}
 
 <figcaption>Michael Tilson Thomas conducting the San Francisco Symphony and cast members of "West Side Story" in "America", featuring Jessica Vosk as Anita (front row, second from left,) in a concert performance of the musical by Leonard Bernstein and Stephen Sondheim at Louise M. Davies Symphony Hall, June 2013. Photo: Courtesy of San Francisco Symphony/Stefan Cohen.</figcaption>
@@ -122,8 +118,6 @@ Photo of SF Symphony and Anita with WSS cast on stage
 Thomas cast Alexandra Silber and Cheyenne Jackson, both accomplished theater singers, meaning that they are singing actors. Silber sounds operatic in ways that suit Maria's gentle yet formidable character. Jackson projects an ecstatic energy with a crisp sound full of subtle shading. With their pronounced and traditionally placed harmonies they embody the spirit of youthful romance. Jessica Vosk's Anita is an assured firecracker. Her staccato presence and with articulation to match compliment the biting delicacy of the chorus of Sharks women in the show-stopping "America".
 
 Bernstein had already negotiated the operatic skirmish. Thomas didn’t need to deal with the status of _West Side Story_. Nor do we. It's beside the point. Consider the intricate construction and dramatically conflicting points of view in "Quintet" as they inexorably converge with intense musical consonance on the word "tonight." Join the musicologists who have likened "Quintet" to the Act Three quartet from _Rigoletto_ and feel at ease about its musical pedigree.
-
-Photo of MTT with husband, Maria, State Senator, Tony
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596481939/media/2020/08/SFS-WSS-MTTetal_rygful.jpg){{% /md %}}
 
