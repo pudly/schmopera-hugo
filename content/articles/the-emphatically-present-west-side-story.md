@@ -20,7 +20,7 @@ youtube_url = ""
 +++
 _West Side Story_ is back. The current Broadway revival of the 1957 Leonard Bernstein/Stephen Sondheim musical is slated for a spring resumption with the projected lifting of the pandemic shutdown, and we await the holiday arrival of Steven Spielberg’s remake of the 1961 film. But _West Side Story_ never really left. It is always and emphatically with us.
 
-This Broadway classic with a book by Arthur Laurents, inspired as we all know by Shakespeare’s _Romeo and Juliet_, has been a cultural benchmark since its inception and more than six decades later its cultural vibrance and social relevance remain acutely present. Secure in its place with Bernstein's trail-blazing score and Sondheim's timeless lyrics, it speaks to us as much about class inequities and racial injustice as it does tragic romance.
+This Broadway classic with a book by Arthur Laurents, inspired as we all know by Shakespeare’s _Romeo and Juliet_, has been a cultural benchmark since its inception and more than six decades later its cultural vibrancy and social relevance remain acutely present. Secure in its place with Bernstein's trail-blazing score and Sondheim's timeless lyrics, it speaks to us as much about class inequities and racial injustice as it does tragic romance.
 
 Through the years the original Broadway cast recording, abridged as it is to fit the time limitations of a single "long-playing" vinyl disk, has remained the pinnacle of its major recordings. The soundtrack of the hugely successful film recruited legions of fans plus a few detractors, Bernstein among them, who found it overblown.
 
