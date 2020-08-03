@@ -18,9 +18,9 @@ title = "The Emphatically Present “West Side Story”"
 youtube_url = ""
 
 +++
-_West Side Story_ is back. The current Broadway revival of the Leonard Bernstein/Stephen Sondheim musical is slated for a spring resumption with the projected lifting of the pandemic shutdown, and we await the holiday arrival of Steven Spielberg’s remake of the 1961 film. But _West Side Story_ never really left. It is always and emphatically with us.
+_West Side Story_ is back. The current Broadway revival of the 1957 Leonard Bernstein/Stephen Sondheim musical is slated for a spring resumption with the projected lifting of the pandemic shutdown, and we await the holiday arrival of Steven Spielberg’s remake of the 1961 film. But _West Side Story_ never really left. It is always and emphatically with us.
 
-This 1957 Broadway classic with a book by Arthur Laurents, inspired as we all know by Shakespeare’s _Romeo and Juliet_, has been a cultural benchmark since its inception and more than six decades later its cultural vibrance and social relevance remain acutely present. Secure in its place with Bernstein's trail-blazing score and Sondheim's timeless lyrics, it speaks to us as much about class inequities and racial injustice as it does tragic romance.
+This Broadway classic with a book by Arthur Laurents, inspired as we all know by Shakespeare’s _Romeo and Juliet_, has been a cultural benchmark since its inception and more than six decades later its cultural vibrance and social relevance remain acutely present. Secure in its place with Bernstein's trail-blazing score and Sondheim's timeless lyrics, it speaks to us as much about class inequities and racial injustice as it does tragic romance.
 
 Through the years the original Broadway cast recording, abridged as it is to fit the time limitations of a single "long-playing" vinyl disk, has remained the pinnacle of its major recordings. The soundtrack of the hugely successful film recruited legions of fans plus a few detractors, Bernstein among them, who found it overblown.
 
@@ -34,19 +34,21 @@ In 1984 Bernstein himself, having never conducted the work, did so in a manner t
 
 Bernstein’s composition has remained impressively adaptable over the years. Tracks from a 1996 compilation, “The Songs of West Side Story,” show the versatility and resilience of a score that retains its veracity when interpreted in diverse musical styles. “Somewhere” is conjured as a gospel anthem by Aretha Franklin. Selena’s sultry new jack turn on “A Boy Like That” and Trisha Yearwood’s luscious rendering of its companion piece, “I Have A Love” replete with steel guitar, offer an urban vs. country encounter that paraphrases the show’s storyline. Even the often maligned “I Feel Pretty” is bent by Little Richard to fit his raucous brand of rhythm and blues.
 
-Back when musicians mined Broadway shows for themed albums, jazz greats like Oscar Peterson, Andre Previn and Dave Brubeck looked to “West Side Story.” Those stirring standards “Maria,” and “Tonight” along with the edgy numbers like “Something’s Coming” and “Cool” showed their straightforward adaptability to the jazz idiom. Jazz vocalists tuned in when Anne Ross audaciously ditched the lilt and found the attitude in “I Feel Pretty” backed by the Jerry Mulligan Trio and Lea DeLaria turned up the heat on “Cool” with pianist Brad Mehldau.
+Back when musicians mined Broadway shows for themed albums, jazz greats like Oscar Peterson, Andre Previn and Dave Brubeck looked to _West Side Story_. Those stirring standards "Maria", and "Tonight" along with the edgy numbers like "Something's Coming" and "Cool" showed their straightforward adaptability to the jazz idiom. Jazz vocalists tuned in when Anne Ross audaciously ditched the lilt and found the attitude in "I Feel Pretty" backed by the Jerry Mulligan Trio and Lea DeLaria turned up the heat on "Cool" with pianist Brad Mehldau.
 
-Sidelining Sondheim and Shakespeare
+### Sidelining Sondheim and Shakespeare
 
-But it wasn’t until 2017 that conductor and drummer Bobby Sanabria and his New York based Multiverse Big Band developed “West Side Story—Reimagined.” Delving into the work’s Latin origins and compositional undercurrents, this primarily instrumental interpretation directly addresses the social ills that continue to grip society. In the process Sondheim and Shakespeare are sidelined.
+But it wasn't until 2017 that conductor and drummer Bobby Sanabria and his New York based Multiverse Big Band developed _West Side Story—Reimagined_. Delving into the work's Latin origins and compositional undercurrents, this primarily instrumental interpretation directly addresses the social ills that continue to grip society. In the process Sondheim and Shakespeare are sidelined.
+
+***
 
 Photo of Bobby Sanabria at the drums
 
-With Sondheim’s lyrics out of the way Sanabria offers commentary that at first appears to get in its own way because the new orchestrations speak so powerfully on their own though it soon coalesces with the score’s streetwise soundscape. Leading the band from the drum set Sanabria reminisces, cajoles, even preaches a little and emerges as a rhythmic humanist who reaches us with his good intentions and the project’s wholly inclusive vibe.
+With Sondheim's lyrics out of the way Sanabria offers commentary that at first appears to get in its own way because the new orchestrations speak so powerfully on their own though it soon coalesces with the score’s streetwise soundscape. Leading the band from the drum set Sanabria reminisces, cajoles, even preaches a little and emerges as a rhythmic humanist who reaches us with his good intentions and the project’s wholly inclusive vibe.
 
-As for Shakespeare, while the songs appear in their original sequence, star-crossed storytelling is eclipsed by the infectious energy of the music. Sanabria and his team of arrangers bring the score’s Latin influences including an abundance of dances with evocative names like Bomba Yuba and Joropo and even more evocative rhythms to the surface. These are some of the sounds that influenced Bernstein when he heard them over Cuban radio while visiting Key West in the 1940s’. They provide fresh insight into the composer.
+As for Shakespeare, while the songs appear in their original sequence, star-crossed storytelling is eclipsed by the infectious energy of the music. Sanabria and his team of arrangers bring the score's Latin influences including an abundance of dances with evocative names like Bomba Yuba and Joropo and even more evocative rhythms to the surface. These are some of the sounds that influenced Bernstein when he heard them over Cuban radio while visiting Key West in the 1940's. They provide fresh insight into the composer.
 
-As an introduction to “Cool” Sanabria intones “You get pulled over by a New York City police officer, what do you do?” He and the band respond ”You be cool!” Point taken.
+As an introduction to "Cool" Sanabria intones "You get pulled over by a New York City police officer, what do you do?" He and the band respond "You be cool!" Point taken.
 
 Jazzheads, a term roughly equivalent to opera buffs but not to be confused with Jazzheads, the label upon which “West Side Story—Reimagined” is released, will be impressed by its jazz bonafides. The pulsating array of Latin drums beating is at once enigmatic and welcoming. Sharp and decisive brass playing abounds throughout, especially on “Cool,” in which one can almost discern the voices of the Jets despite the absence of lyrics. The influence of the late Descarga master and double bass player Cachao is felt on the insinuating syncopation of “Gym Scene-Cha Cha Cha” which subtly picks up the “Maria” theme and ends in a big-band flourish. “Maria” opens with a layer of ritualistic chant and rhythmic percussion that remains constant as the melody is settled into with muted brass. Strong trumpet and saxophone interplay evokes the gritty character of “Cool” that is otherwise swept up in a swing arrangement.
 
@@ -54,9 +56,9 @@ Photo of Bobby Sanabria and Justice Sonia Sotomayor
 
 Sanabria and Bernstein both require a little stretch from the listener. In casting Jose Carreras, the renowned Spanish tenor as Tony, Bernstein asks us to believe in him as a former Jet despite his noble Catalan accent that remains undiminished when he sings in English. And Sanabria doesn’t veer from the Latin sound when the orchestra portrays the Jets. Traditionally we think of the Jets in terms of rock ’n roll or the blues while the Sharks are exclusively Latin. So we have to listen intently to make distinctions. That little stretch is part of what society should be doing right now.
 
-“It’s not an opera”
+### "It's not an opera"
 
-“It’s not an opera,” Bernstein told the New York Times on the eve of his recording project. “It’s a work on its way towards being one.” Bernstein moved it along that path with the casting of Carreras, Kiri Te Kanawa as Maria and most effectively Tatiana Troyanos as Anita, lover of the Sharks leader, Bernardo. Te Kanawa settled on a mature yet convincingly girlish sound and maintained a credible accent throughout. Troyanos reveling in a mezzo middle range incorporated infectious rhythm and lavishly articulated speech bringing Anita to vivid life. Marilyn Horne came in for a rueful “Somewhere” that inhabited its own island of vocal serenity.
+"It's not an opera," Bernstein told _The New York Times_ on the eve of his recording project. "It's a work on its way towards being one." Bernstein moved it along that path with the casting of Carreras, Kiri Te Kanawa as Maria and most effectively Tatiana Troyanos as Anita, lover of the Sharks leader, Bernardo. Te Kanawa settled on a mature yet convincingly girlish sound and maintained a credible accent throughout. Troyanos reveling in a mezzo middle range incorporated infectious rhythm and lavishly articulated speech bringing Anita to vivid life. Marilyn Horne came in for a rueful "Somewhere" that inhabited its own island of vocal serenity.
 
 Photo Troyanos, Bernstein, Ti Kanawa, Carreras
 
