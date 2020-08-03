@@ -22,6 +22,12 @@ Renée Fleming knows her audience, or in this case, the lack of one. Creating a 
 
 The audience in the salon consisted of four cameras, two of them robotic, and rapt on-line viewers everywhere. Opening unaccompanied with John Corigilano's "And The People Stayed Home", his effecting setting of Kitty O'Meara's viral poem that purposefully wanders through everyone's pandemic, the soprano's warm informality was a reassuring balm. Sung primarily in the middle range voice reserved for popular song, Fleming was the empathetic friend with soft words of comfort until the poem touched on the fears associated with these uncertain times when it edged into the darker reaches of her celebrated lyric soprano.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596483185/media/2020/08/FlemingPPV-2_gec8co.jpg){{% /md %}}
+
+<figcaption>Soprano, Renee Fleming in recital in the music salon at Dumbarton Oaks as part of the MET Stars Live Concert series. Photo: Metropolitan Opera.</figcaption>
+
+</figure>
+
 With barely a breath following the Corigilano pianist Robert Ainsley began "Calm thou my soul...Convey me to some peaceful shore" from Handel's _Alexander Balus_, Cleopatra's poignant lament for peace of mind, in which Fleming produced sparkling ornamentation. This completed an opening duo that aptly reflected the circumstances. Sharing with us that Handel and Corigilano had composed these emotionally compatible works 300 years apart, the room's resonant acoustics emphasized its emptiness when Fleming spoke. But how her singing filled it.
 
 More Handel followed with Delilah's "To fleeting pleasures make your court" from  _Samson_ and "Endless pleasure, endless love" from his _Semele_, both rendered with mischievous spirit as they lifted the mood and completed the baroque portion of the recital. Fleming's sense of atmosphere and character was gracefully calibrated to the music salon setting, a quality that would avail itself in various guises throughout the recital.
@@ -44,7 +50,7 @@ Robert Ainsley accompanied supportively. Appearing to be particularly inspired b
 
 The musical pedigree to which Dumbarton Oaks lays claim stems from the concerto Igor Stravinsky was commissioned to write for the 30th wedding anniversary of then owners, Richard and Mildred Bliss. Mrs. Bliss requested that the resulting Concerto in E-flat be subtitled the Dumbarton Oaks Concerto, as it is generally known today. Nadia Boulanger conducted its premiere in the music salon in 1938. Stravinsky finally conducted it there on two occasions.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596483198/media/2020/08/Fleming-DumbartonOaks_uscvfu.jpg){{% /md %}}
 
 <figcaption>The Music salon at Dumbarton Oaks, an estate in the Georgetown neighborhood of Washington D.C., served as the site for Renee Fleming's MET Stars Live concert. Igor Stravinsky's Concerto in E-flat, generally known as the Dumbarton Oaks Concerto, was premiered in the salon in 1938. Photo: Dumbarton Oaks.</figcaption>
 
