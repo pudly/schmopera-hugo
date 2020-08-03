@@ -54,11 +54,9 @@ As an introduction to "Cool" Sanabria intones "You get pulled over by a New York
 
 Jazzheads, a term roughly equivalent to opera buffs but not to be confused with Jazzheads, the label upon which _West Side Story—Reimagined_ is released, will be impressed by its jazz bonafides. The pulsating array of Latin drums beating is at once enigmatic and welcoming. Sharp and decisive brass playing abounds throughout, especially on “Cool,” in which one can almost discern the voices of the Jets despite the absence of lyrics. The influence of the late Descarga master and double bass player Cachao is felt on the insinuating syncopation of “Gym Scene-Cha Cha Cha” which subtly picks up the “Maria” theme and ends in a big-band flourish. “Maria” opens with a layer of ritualistic chant and rhythmic percussion that remains constant as the melody is settled into with muted brass. Strong trumpet and saxophone interplay evokes the gritty character of “Cool” that is otherwise swept up in a swing arrangement.
 
-\**Photo of Bobby Sanabria and Justice Sonia Sotomayor
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596484058/media/2020/08/WSS-SanabriaSottomayor_kafkqj.jpg){{% /md %}}
 
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption></figcaption>
+<figcaption>U.S. Supreme Court Justice Sonia Sotomayor joins Bobby Sanabria following his performance of "West Side Story—Reimagined" with the Multiverse Big Band the at the Kennedy Center in Washington D.C. on January 18, 2019. Photo: courtesy: Bobby Sanabria.</figcaption>
 
 </figure>
 
