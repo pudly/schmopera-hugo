@@ -86,9 +86,9 @@ But vinyl still takes a turn. The recording is now available from Analog Spark, 
 
 ## Avoiding global snickers at the movies
 
-Robert Wise, co-director of the 1961 film, was tasked with introducing into the cultural mainstream the balletic choreography of Jerome Robbins danced by the Jets and Sharks, hopefully without causing global snickers. As acclaimed as Robbins’ choreography was, the idea of rival gangs performing balletic moves in city slums would be radically new, especially to the film’s youthful target audience. Wise employed steadily intensifying music and opened with a screen filled by an abstraction that morphs into an arial view of Manhattan. The “Prologue” and “Jet Song” gradually build as the Jets and Sharks balletically stalk each others. Audiences have been in thrall ever since. Score one for the soundtrack.
+Robert Wise, co-director of the 1961 film, was tasked with introducing into the cultural mainstream the balletic choreography of Jerome Robbins danced by the Jets and Sharks, hopefully without causing global snickers. As acclaimed as Robbins' choreography was, the idea of rival gangs performing balletic moves in city slums would be radically new, especially to the film's youthful target audience. Wise employed steadily intensifying music and opened with a screen filled by an abstraction that morphs into an aerial view of Manhattan. The "Prologue" and "Jet Song" gradually build as the Jets and Sharks balletically stalk each others. Audiences have been in thrall ever since. Score one for the soundtrack.
 
-Dubbing prevailed on the vocals, however. The esteemed Marni Nixon sang Maria’s songs for Natalie Wood while a chap named Jimmy Bryant provided a fresh if generic sound for Richard Beymer’s Tony. Portions of Anita’s singing parts were dubbed by Betty Wand but the dancing and fiery portrayal belonged to Rita Moreno, the only actress of Puerto Rican decent with a featured role in the film.
+Dubbing prevailed on the vocals, however. The esteemed Marni Nixon sang Maria's songs for Natalie Wood while a chap named Jimmy Bryant provided a fresh if generic sound for Richard Beymer's Tony. Portions of Anita's singing parts were dubbed by Betty Wand but the dancing and fiery portrayal belonged to Rita Moreno, the only actress of Puerto Rican decent with a featured role in the film.
 
 Photo of Tucker Smith, Jets and Jets women from the film
 
@@ -98,7 +98,7 @@ Photo of Tucker Smith, Jets and Jets women from the film
 
 </figure>
 
-In a boldly original move the soundtrack peaks when “Cool” is repositioned as something more than a pre-rumble pep talk by Riff, leader of the Jets, as it had been on stage. Placing it after the rumble, during which Riff is killed by Bernardo,  “Cool” exposes gang style grief and anger management. Tucker Smith, playing Ice, Riff’s lieutenant, takes over the Jets and the number. Smith spews the lyrics with calculated potency to a straight-ahead jazzy arrangement, amplified finger snapping and audible expressions of subdued rage. “Cool” drives home the societal ills that propel the Jets. We also pick up some moody impressions of the Jets women who otherwise have little to do after the dance at the gym. The song works overtime.
+In a boldly original move the soundtrack peaks when "Cool" is repositioned as something more than a pre-rumble pep talk by Riff, leader of the Jets, as it had been on stage. Placing it after the rumble, during which Riff is killed by Bernardo,  “Cool” exposes gang style grief and anger management. Tucker Smith, playing Ice, Riff’s lieutenant, takes over the Jets and the number. Smith spews the lyrics with calculated potency to a straight-ahead jazzy arrangement, amplified finger snapping and audible expressions of subdued rage. “Cool” drives home the societal ills that propel the Jets. We also pick up some moody impressions of the Jets women who otherwise have little to do after the dance at the gym. The song works overtime.
 
 Leonard Bernstein and Michael Tilson Thomas Dive In
 
