@@ -20,9 +20,9 @@ youtube_url = ""
 +++
 _West Side Story_ is back. The current Broadway revival of the Leonard Bernstein/Stephen Sondheim musical is slated for a spring resumption with the projected lifting of the pandemic shutdown, and we await the holiday arrival of Steven Spielberg’s remake of the 1961 film. But _West Side Story_ never really left. It is always and emphatically with us.
 
-This 1957 Broadway classic with a book by Arthur Laurents, inspired as we all know by Shakespeare’s “Romeo and Juliet,” has been a cultural benchmark since its inception and more than six decades later its cultural vibrance and social relevance remain acutely present. Secure in its place with Bernstein’s trail-blazing score and Sondheim’s timeless lyrics, it speaks to us as much about class inequities and racial injustice as it does tragic romance.
+This 1957 Broadway classic with a book by Arthur Laurents, inspired as we all know by Shakespeare’s _Romeo and Juliet_, has been a cultural benchmark since its inception and more than six decades later its cultural vibrance and social relevance remain acutely present. Secure in its place with Bernstein's trail-blazing score and Sondheim's timeless lyrics, it speaks to us as much about class inequities and racial injustice as it does tragic romance.
 
-Through the years the original Broadway cast recording, abridged as it is to fit the time limitations of a single “long-playing” vinyl disk, has remained the pinnacle of its major recordings. The soundtrack of the hugely successful film recruited legions of fans plus a few detractors, Bernstein among them, who found it overblown. 
+Through the years the original Broadway cast recording, abridged as it is to fit the time limitations of a single "long-playing" vinyl disk, has remained the pinnacle of its major recordings. The soundtrack of the hugely successful film recruited legions of fans plus a few detractors, Bernstein among them, who found it overblown.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596480539/media/2020/08/WestSideStory-castrecordingLEROY_Ken_fubcnn.jpg){{% /md %}}
 
@@ -30,9 +30,7 @@ Through the years the original Broadway cast recording, abridged as it is to fit
 
 </figure>
 
-Photo of WSS Recording Session, Bernardo, Anita, Tony, Maria
-
-In 1984 Bernstein himself, having never conducted the work, did so in a manner that wasn’t completely operatic, despite his casting of opera singers, nor was it traditional musical theater. Orchestrally the recording was the definitive statement by the composer. But its hybrid nature was the subject of debate, especially among those who felt that Deutsche Grammophon might have exerted undue influence on the project. Then in 2014 the score was brilliantly realized in a lean yet opulent manner by Bernstein protégée Michael Tilson Thomas with the recording of a concert version by his San Francisco Symphony and a team of top flight musical theater voices. 
+In 1984 Bernstein himself, having never conducted the work, did so in a manner that wasn’t completely operatic, despite his casting of opera singers, nor was it traditional musical theater. Orchestrally the recording was the definitive statement by the composer. But its hybrid nature was the subject of debate, especially among those who felt that Deutsche Grammophon might have exerted undue influence on the project. Then in 2014 the score was brilliantly realized in a lean yet opulent manner by Bernstein protégée Michael Tilson Thomas with the recording of a concert version by his San Francisco Symphony and a team of top flight musical theater voices.
 
 Bernstein’s composition has remained impressively adaptable over the years. Tracks from a 1996 compilation, “The Songs of West Side Story,” show the versatility and resilience of a score that retains its veracity when interpreted in diverse musical styles. “Somewhere” is conjured as a gospel anthem by Aretha Franklin. Selena’s sultry new jack turn on “A Boy Like That” and Trisha Yearwood’s luscious rendering of its companion piece, “I Have A Love” replete with steel guitar, offer an urban vs. country encounter that paraphrases the show’s storyline. Even the often maligned “I Feel Pretty” is bent by Little Richard to fit his raucous brand of rhythm and blues.
 
@@ -44,7 +42,7 @@ But it wasn’t until 2017 that conductor and drummer Bobby Sanabria and his New
 
 Photo of Bobby Sanabria at the drums
 
-With Sondheim’s lyrics out of the way Sanabria offers commentary that at first appears to get in its own way because the new orchestrations speak so powerfully on their own though it soon coalesces with the score’s streetwise soundscape. Leading the band from the drum set Sanabria reminisces, cajoles, even preaches a little and emerges as a rhythmic humanist who reaches us with his good intentions and the project’s wholly inclusive vibe. 
+With Sondheim’s lyrics out of the way Sanabria offers commentary that at first appears to get in its own way because the new orchestrations speak so powerfully on their own though it soon coalesces with the score’s streetwise soundscape. Leading the band from the drum set Sanabria reminisces, cajoles, even preaches a little and emerges as a rhythmic humanist who reaches us with his good intentions and the project’s wholly inclusive vibe.
 
 As for Shakespeare, while the songs appear in their original sequence, star-crossed storytelling is eclipsed by the infectious energy of the music. Sanabria and his team of arrangers bring the score’s Latin influences including an abundance of dances with evocative names like Bomba Yuba and Joropo and even more evocative rhythms to the surface. These are some of the sounds that influenced Bernstein when he heard them over Cuban radio while visiting Key West in the 1940s’. They provide fresh insight into the composer.
 
@@ -54,17 +52,17 @@ Jazzheads, a term roughly equivalent to opera buffs but not to be confused with 
 
 Photo of Bobby Sanabria and Justice Sonia Sotomayor
 
-Sanabria and Bernstein both require a little stretch from the listener. In casting Jose Carreras, the renowned Spanish tenor as Tony, Bernstein asks us to believe in him as a former Jet despite his noble Catalan accent that remains undiminished when he sings in English. And Sanabria doesn’t veer from the Latin sound when the orchestra portrays the Jets. Traditionally we think of the Jets in terms of rock ’n roll or the blues while the Sharks are exclusively Latin. So we have to listen intently to make distinctions. That little stretch is part of what society should be doing right now. 
+Sanabria and Bernstein both require a little stretch from the listener. In casting Jose Carreras, the renowned Spanish tenor as Tony, Bernstein asks us to believe in him as a former Jet despite his noble Catalan accent that remains undiminished when he sings in English. And Sanabria doesn’t veer from the Latin sound when the orchestra portrays the Jets. Traditionally we think of the Jets in terms of rock ’n roll or the blues while the Sharks are exclusively Latin. So we have to listen intently to make distinctions. That little stretch is part of what society should be doing right now.
 
 “It’s not an opera”
 
-“It’s not an opera,” Bernstein told the New York Times on the eve of his recording project. “It’s a work on its way towards being one.” Bernstein moved it along that path with the casting of Carreras, Kiri Te Kanawa as Maria and most effectively Tatiana Troyanos as Anita, lover of the Sharks leader, Bernardo. Te Kanawa settled on a mature yet convincingly girlish sound and maintained a credible accent throughout. Troyanos reveling in a mezzo middle range incorporated infectious rhythm and lavishly articulated speech bringing Anita to vivid life. Marilyn Horne came in for a rueful “Somewhere” that inhabited its own island of vocal serenity. 
+“It’s not an opera,” Bernstein told the New York Times on the eve of his recording project. “It’s a work on its way towards being one.” Bernstein moved it along that path with the casting of Carreras, Kiri Te Kanawa as Maria and most effectively Tatiana Troyanos as Anita, lover of the Sharks leader, Bernardo. Te Kanawa settled on a mature yet convincingly girlish sound and maintained a credible accent throughout. Troyanos reveling in a mezzo middle range incorporated infectious rhythm and lavishly articulated speech bringing Anita to vivid life. Marilyn Horne came in for a rueful “Somewhere” that inhabited its own island of vocal serenity.
 
 Photo Troyanos, Bernstein, Ti Kanawa, Carreras
 
 There was more than a hint “West Side Story” was operatically inclined when Carol Lawrence and Larry Kert were cast as Maria and Tony in the original Broadway production. With her light and refined soprano Lawrence displayed the purity of sound and vocal agility that elevated the stature of her performance. Kert sang “Something’s Coming” and “Maria” with a handsomely refined tenor and boundless vocal drive that has yet to be matched by any singer tackling the role. Their duets, “Tonight” and “One Hand, One Heart” possess such romantic richness that the couple could have waltzed, albeit incongruously, out of the West side and into Sigmund Romberg’s Vienna.
 
-The production launched a Broadway legend and an acclaimed coloratura as it claimed some diversity in casting. Prior to her Broadway status, Chita Rivera who is of Puerto Rican, Scottish and Italian heritage, brought her spectacular dancing, singing and acting skills to the stage as Broadway’s first Anita. Reri Grist cast as Consuelo a Sharks woman, was tapped to sing “Somewhere” during the ballet sequence and broke ground as well. A pioneering African-American coloratura, Grist went on to an impressive international operatic and concert career with credits including twelve seasons at the Salzburg Festival singing Strauss and Mozart under Bohm, Mehta and Karajan. 
+The production launched a Broadway legend and an acclaimed coloratura as it claimed some diversity in casting. Prior to her Broadway status, Chita Rivera who is of Puerto Rican, Scottish and Italian heritage, brought her spectacular dancing, singing and acting skills to the stage as Broadway’s first Anita. Reri Grist cast as Consuelo a Sharks woman, was tapped to sing “Somewhere” during the ballet sequence and broke ground as well. A pioneering African-American coloratura, Grist went on to an impressive international operatic and concert career with credits including twelve seasons at the Salzburg Festival singing Strauss and Mozart under Bohm, Mehta and Karajan.
 
 Photo Reri Geist
 
@@ -78,7 +76,7 @@ Avoiding global snickers at the movies
 
 Robert Wise, co-director of the 1961 film, was tasked with introducing into the cultural mainstream the balletic choreography of Jerome Robbins danced by the Jets and Sharks, hopefully without causing global snickers. As acclaimed as Robbins’ choreography was, the idea of rival gangs performing balletic moves in city slums would be radically new, especially to the film’s youthful target audience. Wise employed steadily intensifying music and opened with a screen filled by an abstraction that morphs into an arial view of Manhattan. The “Prologue” and “Jet Song” gradually build as the Jets and Sharks balletically stalk each others. Audiences have been in thrall ever since. Score one for the soundtrack.
 
-Dubbing prevailed on the vocals, however. The esteemed Marni Nixon sang Maria’s songs for Natalie Wood while a chap named Jimmy Bryant provided a fresh if generic sound for Richard Beymer’s Tony. Portions of Anita’s singing parts were dubbed by Betty Wand but the dancing and fiery portrayal belonged to Rita Moreno, the only actress of Puerto Rican decent with a featured role in the film. 
+Dubbing prevailed on the vocals, however. The esteemed Marni Nixon sang Maria’s songs for Natalie Wood while a chap named Jimmy Bryant provided a fresh if generic sound for Richard Beymer’s Tony. Portions of Anita’s singing parts were dubbed by Betty Wand but the dancing and fiery portrayal belonged to Rita Moreno, the only actress of Puerto Rican decent with a featured role in the film.
 
 Photo of Tucker Smith, Jets and Jets women from the film
 
@@ -96,7 +94,7 @@ Bernstein had already negotiated the operatic skirmish. Thomas didn’t need to 
 
 Photo of MTT with husband, Maria, State Senator, Tony
 
-Perhaps the most operatic thing about “West Side Story” is that owning just one recording of it won’t suffice. Opera buffs, with our many versions of “Tosca,” “Der Rosenkavalier,” entire Ring Cycles and so many other multiple must-haves, understand that musical fact of life. 
+Perhaps the most operatic thing about “West Side Story” is that owning just one recording of it won’t suffice. Opera buffs, with our many versions of “Tosca,” “Der Rosenkavalier,” entire Ring Cycles and so many other multiple must-haves, understand that musical fact of life.
 
 Even if your preference is limited to stalking the perfect “Cool” you will find that Tucker Smith single-handedly makes the soundtrack worth owning. He dubs Riff’s “Jet Song” for Russ Tamblyn as well. The polished Riffs of Bernstein’s Kurt Ollmann and Thomas’ Kevin Vortmann share, possibly by virtue of their vocal training, a disconcerting whiff of prep school dropout suggesting an unexplored backstory. But Michael Callan, an actor not preternaturally disposed to song, as Broadway’s original Riff is the quintessential wise guy. His “Cool” brands him a street gang sage and with just enough range and vocal flint he works his way around Bernstein’s wily tune and the crafty Sondheim lyric.
 
