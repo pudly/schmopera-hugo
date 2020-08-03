@@ -40,9 +40,7 @@ Back when musicians mined Broadway shows for themed albums, jazz greats like Osc
 
 But it wasn't until 2017 that conductor and drummer Bobby Sanabria and his New York based Multiverse Big Band developed _West Side Story—Reimagined_. Delving into the work's Latin origins and compositional undercurrents, this primarily instrumental interpretation directly addresses the social ills that continue to grip society. In the process Sondheim and Shakespeare are sidelined.
 
-***
-
-Photo of Bobby Sanabria at the drums
+\**Photo of Bobby Sanabria at the drums
 
 With Sondheim's lyrics out of the way Sanabria offers commentary that at first appears to get in its own way because the new orchestrations speak so powerfully on their own though it soon coalesces with the score’s streetwise soundscape. Leading the band from the drum set Sanabria reminisces, cajoles, even preaches a little and emerges as a rhythmic humanist who reaches us with his good intentions and the project’s wholly inclusive vibe.
 
@@ -52,7 +50,7 @@ As an introduction to "Cool" Sanabria intones "You get pulled over by a New York
 
 Jazzheads, a term roughly equivalent to opera buffs but not to be confused with Jazzheads, the label upon which “West Side Story—Reimagined” is released, will be impressed by its jazz bonafides. The pulsating array of Latin drums beating is at once enigmatic and welcoming. Sharp and decisive brass playing abounds throughout, especially on “Cool,” in which one can almost discern the voices of the Jets despite the absence of lyrics. The influence of the late Descarga master and double bass player Cachao is felt on the insinuating syncopation of “Gym Scene-Cha Cha Cha” which subtly picks up the “Maria” theme and ends in a big-band flourish. “Maria” opens with a layer of ritualistic chant and rhythmic percussion that remains constant as the melody is settled into with muted brass. Strong trumpet and saxophone interplay evokes the gritty character of “Cool” that is otherwise swept up in a swing arrangement.
 
-Photo of Bobby Sanabria and Justice Sonia Sotomayor
+\**Photo of Bobby Sanabria and Justice Sonia Sotomayor
 
 Sanabria and Bernstein both require a little stretch from the listener. In casting Jose Carreras, the renowned Spanish tenor as Tony, Bernstein asks us to believe in him as a former Jet despite his noble Catalan accent that remains undiminished when he sings in English. And Sanabria doesn’t veer from the Latin sound when the orchestra portrays the Jets. Traditionally we think of the Jets in terms of rock ’n roll or the blues while the Sharks are exclusively Latin. So we have to listen intently to make distinctions. That little stretch is part of what society should be doing right now.
 
@@ -60,9 +58,9 @@ Sanabria and Bernstein both require a little stretch from the listener. In casti
 
 "It's not an opera," Bernstein told _The New York Times_ on the eve of his recording project. "It's a work on its way towards being one." Bernstein moved it along that path with the casting of Carreras, Kiri Te Kanawa as Maria and most effectively Tatiana Troyanos as Anita, lover of the Sharks leader, Bernardo. Te Kanawa settled on a mature yet convincingly girlish sound and maintained a credible accent throughout. Troyanos reveling in a mezzo middle range incorporated infectious rhythm and lavishly articulated speech bringing Anita to vivid life. Marilyn Horne came in for a rueful "Somewhere" that inhabited its own island of vocal serenity.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596481216/media/2020/08/tumblr_pe2p36A9ui1rclfzho5_640_gfj9ku.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Tatiana Troyanos, Kiri Ti Kanawa and Jose Carreras relax with Leonard Bernstein (second from left) after the recording of “West Side Story” conducted by Bernstein in 1984. Marilyn Horne also appeared in the cast. Photo: Courtesy Deutsche Grammophon © Unitel.</figcaption>
 
 </figure>
 
