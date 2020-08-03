@@ -78,11 +78,9 @@ The recording of this terrific cast was in the extraordinarily capable hands of 
 
 But vinyl still takes a turn. The recording is now available from Analog Spark, an audiophile imprint, on two 180-gram vinyl disks that provides twice as much room, meaning wider grooves producing more dynamic range, to meet audiophile level listening standards. Sourced from the original three-track analog tapes, the process provides greater transparency plus enhanced soundstage width and depth, a sonic feat for which Lieberson was ready decades earlier. This is a Broadway show that is worth the couture treatment and it comes packaged with extensive photos from the recording session heightening the you-are-there experience.
 
-Photo WSS album with 2 vinyl LPs
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596481568/media/2020/08/WSS_MOCK_2_large_lcjmwf.jpg){{% /md %}}
 
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption></figcaption>
+<figcaption>The 1957 cast recording of "West Side Story" has been released as an audiophile pressing by Analog Spark on two 180-bit vinyl disks with greatly enhanced sound dynamics. Sourced from the original three-track analog tapes, the edition features cover art work as it first appeared reproduced on a gatefold package with photos from the recording session. Photo: Courtesy Analog Spar</figcaption>
 
 </figure>
 
