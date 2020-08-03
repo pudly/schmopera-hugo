@@ -124,13 +124,13 @@ Photo of MTT with husband, Maria, State Senator, Tony
 
 </figure>
 
-Perhaps the most operatic thing about “West Side Story” is that owning just one recording of it won’t suffice. Opera buffs, with our many versions of “Tosca,” “Der Rosenkavalier,” entire Ring Cycles and so many other multiple must-haves, understand that musical fact of life.
+Perhaps the most operatic thing about _West Side Story_ is that owning just one recording of it won't suffice. Opera buffs, with our many versions of _Tosca_, _Der Rosenkavalier_, entire _Ring Cycles_ and so many other multiple must-haves, understand that musical fact of life.
 
-Even if your preference is limited to stalking the perfect “Cool” you will find that Tucker Smith single-handedly makes the soundtrack worth owning. He dubs Riff’s “Jet Song” for Russ Tamblyn as well. The polished Riffs of Bernstein’s Kurt Ollmann and Thomas’ Kevin Vortmann share, possibly by virtue of their vocal training, a disconcerting whiff of prep school dropout suggesting an unexplored backstory. But Michael Callan, an actor not preternaturally disposed to song, as Broadway’s original Riff is the quintessential wise guy. His “Cool” brands him a street gang sage and with just enough range and vocal flint he works his way around Bernstein’s wily tune and the crafty Sondheim lyric.
+Even if your preference is limited to stalking the perfect "Cool" you will find that Tucker Smith single-handedly makes the soundtrack worth owning. He dubs Riff's "Jet Song" for Russ Tamblyn as well. The polished Riffs of Bernstein's Kurt Ollmann and Thomas' Kevin Vortmann share, possibly by virtue of their vocal training, a disconcerting whiff of prep school dropout suggesting an unexplored backstory. But Michael Callan, an actor not preternaturally disposed to song, as Broadway’s original Riff is the quintessential wise guy. His "Cool" brands him a street gang sage and with just enough range and vocal flint he works his way around Bernstein's wily tune and the crafty Sondheim lyric.
 
 Photo of Sondheim and Michael Callan
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596482060/media/2020/08/WSS-SondheimCallan_io80de.jpg){{% /md %}}
 
 <figcaption></figcaption>
 
