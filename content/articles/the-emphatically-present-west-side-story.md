@@ -60,7 +60,11 @@ Sanabria and Bernstein both require a little stretch from the listener. In casti
 
 "It's not an opera," Bernstein told _The New York Times_ on the eve of his recording project. "It's a work on its way towards being one." Bernstein moved it along that path with the casting of Carreras, Kiri Te Kanawa as Maria and most effectively Tatiana Troyanos as Anita, lover of the Sharks leader, Bernardo. Te Kanawa settled on a mature yet convincingly girlish sound and maintained a credible accent throughout. Troyanos reveling in a mezzo middle range incorporated infectious rhythm and lavishly articulated speech bringing Anita to vivid life. Marilyn Horne came in for a rueful "Somewhere" that inhabited its own island of vocal serenity.
 
-Photo Troyanos, Bernstein, Ti Kanawa, Carreras
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 There was more than a hint “West Side Story” was operatically inclined when Carol Lawrence and Larry Kert were cast as Maria and Tony in the original Broadway production. With her light and refined soprano Lawrence displayed the purity of sound and vocal agility that elevated the stature of her performance. Kert sang “Something’s Coming” and “Maria” with a handsomely refined tenor and boundless vocal drive that has yet to be matched by any singer tackling the role. Their duets, “Tonight” and “One Hand, One Heart” possess such romantic richness that the couple could have waltzed, albeit incongruously, out of New York's West side and into Vienna.
 
@@ -68,11 +72,23 @@ The production launched a Broadway legend and an acclaimed coloratura as it clai
 
 Photo Reri Geist
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 The recording of this terrific cast was in the extraordinarily capable hands of conductor Max Goberman and record producer Goddard Lieberson. Goberman, who previously conducted Bernstein’s “On the Town,” studied conducting with Fritz Reiner while at the Curtis Institute of Music and was in the midst of recording the complete symphonies of Hayden with the Vienna State Opera Orchestra when he died at age 52. Lieberson, a pioneer in the recording of Broadway shows, produced the session with an ear to the forthcoming stereophonic technology by equipping the studio so that the recording could be released in both monaural and later stereo pressings. The compact disk, remastered to celebrate the show’s 50th anniversary, includes bonus tracks consisting of Bernstein’s “Symphonic Dances” derived from the show with the New York Philharmonic.
 
 But vinyl still takes a turn. The recording is now available from Analog Spark, an audiophile imprint, on two 180-gram vinyl disks that provides twice as much room, meaning wider grooves producing more dynamic range, to meet audiophile level listening standards. Sourced from the original three-track analog tapes, the process provides greater transparency plus enhanced soundstage width and depth, a sonic feat for which Lieberson was ready decades earlier. This is a Broadway show that is worth the couture treatment and it comes packaged with extensive photos from the recording session heightening the you-are-there experience.
 
 Photo WSS album with 2 vinyl LPs
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 Avoiding global snickers at the movies
 
@@ -82,6 +98,12 @@ Dubbing prevailed on the vocals, however. The esteemed Marni Nixon sang Maria’
 
 Photo of Tucker Smith, Jets and Jets women from the film
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 In a boldly original move the soundtrack peaks when “Cool” is repositioned as something more than a pre-rumble pep talk by Riff, leader of the Jets, as it had been on stage. Placing it after the rumble, during which Riff is killed by Bernardo,  “Cool” exposes gang style grief and anger management. Tucker Smith, playing Ice, Riff’s lieutenant, takes over the Jets and the number. Smith spews the lyrics with calculated potency to a straight-ahead jazzy arrangement, amplified finger snapping and audible expressions of subdued rage. “Cool” drives home the societal ills that propel the Jets. We also pick up some moody impressions of the Jets women who otherwise have little to do after the dance at the gym. The song works overtime.
 
 Leonard Bernstein and Michael Tilson Thomas Dive In
@@ -90,17 +112,35 @@ To fully understand why the soundtrack, though still a crowd-pleaser, has its de
 
 Photo of SF Symphony and Anita with WSS cast on stage
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 Thomas cast Alexandra Silber and Cheyenne Jackson, both accomplished theater singers meaning that they are singing actors. Silber sounds operatic in ways that suit Maria’s gentle yet formidable character. Jackson projects an ecstatic energy with a crisp sound full of subtle shading. With their pronounced and traditionally placed harmonies they embody the spirit of youthful romance. Jessica Vosk’s Anita is an assured firecracker. Her staccato presence and with articulation to match compliment the biting delicacy of the chorus of Sharks women in the show-stopping “America.”
 
 Bernstein had already negotiated the operatic skirmish. Thomas didn’t need to deal with the status of “West Side Story.” Nor do we. It’s beside the point. Consider the intricate construction and dramatically conflicting points of view in “Quintet” as they inexorably converge with intense musical consonance on the word “tonight.” Join the musicologists who have likened “Quintet” to the Act Three quartet from “Rigoletto” and feel at ease about its musical pedigree.
 
 Photo of MTT with husband, Maria, State Senator, Tony
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 Perhaps the most operatic thing about “West Side Story” is that owning just one recording of it won’t suffice. Opera buffs, with our many versions of “Tosca,” “Der Rosenkavalier,” entire Ring Cycles and so many other multiple must-haves, understand that musical fact of life.
 
 Even if your preference is limited to stalking the perfect “Cool” you will find that Tucker Smith single-handedly makes the soundtrack worth owning. He dubs Riff’s “Jet Song” for Russ Tamblyn as well. The polished Riffs of Bernstein’s Kurt Ollmann and Thomas’ Kevin Vortmann share, possibly by virtue of their vocal training, a disconcerting whiff of prep school dropout suggesting an unexplored backstory. But Michael Callan, an actor not preternaturally disposed to song, as Broadway’s original Riff is the quintessential wise guy. His “Cool” brands him a street gang sage and with just enough range and vocal flint he works his way around Bernstein’s wily tune and the crafty Sondheim lyric.
 
 Photo of Sondheim and Michael Callan
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 Ivo van Hove’s revival and Spielberg’s film anticipate some contrasting approaches that may influence their recordings. For starters “I Feel Pretty” is jettisoned from the revival while Tony Kushner states his new screenplay will leave all musical numbers in tact. Jonathan Tunick, a Sondheim compatriot, participates in the revival’s orchestrations. Film music composer David Newman will adapt and orchestrate Bernstein’s score for the film with Gustavao Dudamel conducting the recording session. Kushner’s screenplay reportedly harkens back to the 1950s’ while van Hove delivers a “West Side Story” for today, an assertion reinforced by his replacement of Jerome Robbins’ choreography with that of the revolutionary Anna Teresa De Keersmaeker. New York City Ballet’s Resident Choreographer, Justin Peck choreographs for Spielberg.
 
