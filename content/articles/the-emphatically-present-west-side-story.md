@@ -108,19 +108,19 @@ Photo of SF Symphony and Anita with WSS cast on stage
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596481813/media/2020/08/SFSWestSideStoryStefanCohen_kj9te8.jpg){{% /md %}}
 
-<figcaption>Michael Tilson Thomas conducting the San Francisco Symphony and cast members of "West Side Story" in "America," featuring Jessica Vosk as Anita (front row, second from left,) in a concert performance of the musical by Leonard Bernstein and Stephen Sondheim at Louise M. Davies Symphony Hall, June 2013. Photo: Courtesy of San Francisco Symphony/Stefan Cohen.</figcaption>
+<figcaption>Michael Tilson Thomas conducting the San Francisco Symphony and cast members of "West Side Story" in "America", featuring Jessica Vosk as Anita (front row, second from left,) in a concert performance of the musical by Leonard Bernstein and Stephen Sondheim at Louise M. Davies Symphony Hall, June 2013. Photo: Courtesy of San Francisco Symphony/Stefan Cohen.</figcaption>
 
 </figure>
 
-Thomas cast Alexandra Silber and Cheyenne Jackson, both accomplished theater singers meaning that they are singing actors. Silber sounds operatic in ways that suit Maria’s gentle yet formidable character. Jackson projects an ecstatic energy with a crisp sound full of subtle shading. With their pronounced and traditionally placed harmonies they embody the spirit of youthful romance. Jessica Vosk’s Anita is an assured firecracker. Her staccato presence and with articulation to match compliment the biting delicacy of the chorus of Sharks women in the show-stopping “America.”
+Thomas cast Alexandra Silber and Cheyenne Jackson, both accomplished theater singers, meaning that they are singing actors. Silber sounds operatic in ways that suit Maria's gentle yet formidable character. Jackson projects an ecstatic energy with a crisp sound full of subtle shading. With their pronounced and traditionally placed harmonies they embody the spirit of youthful romance. Jessica Vosk's Anita is an assured firecracker. Her staccato presence and with articulation to match compliment the biting delicacy of the chorus of Sharks women in the show-stopping "America".
 
-Bernstein had already negotiated the operatic skirmish. Thomas didn’t need to deal with the status of “West Side Story.” Nor do we. It’s beside the point. Consider the intricate construction and dramatically conflicting points of view in “Quintet” as they inexorably converge with intense musical consonance on the word “tonight.” Join the musicologists who have likened “Quintet” to the Act Three quartet from “Rigoletto” and feel at ease about its musical pedigree.
+Bernstein had already negotiated the operatic skirmish. Thomas didn’t need to deal with the status of _West Side Story_. Nor do we. It's beside the point. Consider the intricate construction and dramatically conflicting points of view in "Quintet" as they inexorably converge with intense musical consonance on the word "tonight." Join the musicologists who have likened "Quintet" to the Act Three quartet from _Rigoletto_ and feel at ease about its musical pedigree.
 
 Photo of MTT with husband, Maria, State Senator, Tony
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596481939/media/2020/08/SFS-WSS-MTTetal_rygful.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Michael Tilson Thomas (far right) is joined by husband, Joshua Robison (far left), Alexandra Silber (Maria) then State Senator Mark Leno and Cheyenne Jackson (Tony) backstage at Louise M. Davies Symphony Hall following a concert performance of "West Side Story" conducted by Thomas. Photo: Courtesy of San Francisco Symphony/Stefan Cohen.</figcaption>
 
 </figure>
 
