@@ -106,9 +106,9 @@ To fully understand why the soundtrack, though still a crowd-pleaser, has its de
 
 Photo of SF Symphony and Anita with WSS cast on stage
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596481813/media/2020/08/SFSWestSideStoryStefanCohen_kj9te8.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Michael Tilson Thomas conducting the San Francisco Symphony and cast members of "West Side Story" in "America," featuring Jessica Vosk as Anita (front row, second from left,) in a concert performance of the musical by Leonard Bernstein and Stephen Sondheim at Louise M. Davies Symphony Hall, June 2013. Photo: Courtesy of San Francisco Symphony/Stefan Cohen.</figcaption>
 
 </figure>
 
