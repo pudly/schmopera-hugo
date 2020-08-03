@@ -40,7 +40,11 @@ Back when musicians mined Broadway shows for themed albums, jazz greats like Osc
 
 But it wasn't until 2017 that conductor and drummer Bobby Sanabria and his New York based Multiverse Big Band developed _West Side Story—Reimagined_. Delving into the work's Latin origins and compositional undercurrents, this primarily instrumental interpretation directly addresses the social ills that continue to grip society. In the process Sondheim and Shakespeare are sidelined.
 
-\**Photo of Bobby Sanabria at the drums
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596483985/media/2020/08/WSSR-AS-1_mwzzb1.jpg){{% /md %}}
+
+<figcaption>Bobby Sanabria and the Multiverse Big Band performing "West Side Story—Reimagined" to a capacity audience in Damrosch Park on the Lincoln Center campus in New York City on August 10, 2018 backed by photographs of the South Bronx. Photo: Alan Spatz Photography.</figcaption>
+
+</figure>
 
 With Sondheim's lyrics out of the way Sanabria offers commentary that at first appears to get in its own way because the new orchestrations speak so powerfully on their own though it soon coalesces with the score’s streetwise soundscape. Leading the band from the drum set Sanabria reminisces, cajoles, even preaches a little and emerges as a rhythmic humanist who reaches us with his good intentions and the project’s wholly inclusive vibe.
 
@@ -48,9 +52,15 @@ As for Shakespeare, while the songs appear in their original sequence, star-cros
 
 As an introduction to "Cool" Sanabria intones "You get pulled over by a New York City police officer, what do you do?" He and the band respond "You be cool!" Point taken.
 
-Jazzheads, a term roughly equivalent to opera buffs but not to be confused with Jazzheads, the label upon which “West Side Story—Reimagined” is released, will be impressed by its jazz bonafides. The pulsating array of Latin drums beating is at once enigmatic and welcoming. Sharp and decisive brass playing abounds throughout, especially on “Cool,” in which one can almost discern the voices of the Jets despite the absence of lyrics. The influence of the late Descarga master and double bass player Cachao is felt on the insinuating syncopation of “Gym Scene-Cha Cha Cha” which subtly picks up the “Maria” theme and ends in a big-band flourish. “Maria” opens with a layer of ritualistic chant and rhythmic percussion that remains constant as the melody is settled into with muted brass. Strong trumpet and saxophone interplay evokes the gritty character of “Cool” that is otherwise swept up in a swing arrangement.
+Jazzheads, a term roughly equivalent to opera buffs but not to be confused with Jazzheads, the label upon which _West Side Story—Reimagined_ is released, will be impressed by its jazz bonafides. The pulsating array of Latin drums beating is at once enigmatic and welcoming. Sharp and decisive brass playing abounds throughout, especially on “Cool,” in which one can almost discern the voices of the Jets despite the absence of lyrics. The influence of the late Descarga master and double bass player Cachao is felt on the insinuating syncopation of “Gym Scene-Cha Cha Cha” which subtly picks up the “Maria” theme and ends in a big-band flourish. “Maria” opens with a layer of ritualistic chant and rhythmic percussion that remains constant as the melody is settled into with muted brass. Strong trumpet and saxophone interplay evokes the gritty character of “Cool” that is otherwise swept up in a swing arrangement.
 
 \**Photo of Bobby Sanabria and Justice Sonia Sotomayor
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 Sanabria and Bernstein both require a little stretch from the listener. In casting Jose Carreras, the renowned Spanish tenor as Tony, Bernstein asks us to believe in him as a former Jet despite his noble Catalan accent that remains undiminished when he sings in English. And Sanabria doesn’t veer from the Latin sound when the orchestra portrays the Jets. Traditionally we think of the Jets in terms of rock ’n roll or the blues while the Sharks are exclusively Latin. So we have to listen intently to make distinctions. That little stretch is part of what society should be doing right now.
 
