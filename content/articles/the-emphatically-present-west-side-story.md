@@ -54,7 +54,7 @@ Jazzheads, a term roughly equivalent to opera buffs but not to be confused with 
 
 Sanabria and Bernstein both require a little stretch from the listener. In casting Jose Carreras, the renowned Spanish tenor as Tony, Bernstein asks us to believe in him as a former Jet despite his noble Catalan accent that remains undiminished when he sings in English. And Sanabria doesn’t veer from the Latin sound when the orchestra portrays the Jets. Traditionally we think of the Jets in terms of rock ’n roll or the blues while the Sharks are exclusively Latin. So we have to listen intently to make distinctions. That little stretch is part of what society should be doing right now.
 
-### "It's not an opera"
+## "It's not an opera"
 
 "It's not an opera," Bernstein told _The New York Times_ on the eve of his recording project. "It's a work on its way towards being one." Bernstein moved it along that path with the casting of Carreras, Kiri Te Kanawa as Maria and most effectively Tatiana Troyanos as Anita, lover of the Sharks' leader, Bernardo. Te Kanawa settled on a mature yet convincingly girlish sound and maintained a credible accent throughout. Troyanos reveling in a mezzo middle range incorporated infectious rhythm and lavishly articulated speech bringing Anita to vivid life. Marilyn Horne came in for a rueful "Somewhere" that inhabited its own island of vocal serenity.
 
@@ -66,7 +66,7 @@ Sanabria and Bernstein both require a little stretch from the listener. In casti
 
 There was more than a hint _West Side Story_ was operatically inclined when Carol Lawrence and Larry Kert were cast as Maria and Tony in the original Broadway production. With her light and refined soprano Lawrence displayed the purity of sound and vocal agility that elevated the stature of her performance. Kert sang "Something's Coming" and “Maria” with a handsomely refined tenor and boundless vocal drive that has yet to be matched by any singer tackling the role. Their duets, "Tonight" and "One Hand, One Heart" possess such romantic richness that the couple could have waltzed, albeit incongruously, out of New York's West side and into Vienna.
 
-The production launched a Broadway legend and an acclaimed coloratura as it claimed some diversity in casting. Prior to her Broadway status, Chita Rivera who is of Puerto Rican, Scottish and Italian heritage, brought her spectacular dancing, singing and acting skills to the stage as Broadway’s first Anita. Reri Grist cast as Consuelo a Sharks woman, was tapped to sing “Somewhere” during the ballet sequence and broke ground as well. A pioneering African-American coloratura, Grist went on to an impressive international operatic and concert career with credits including twelve seasons at the Salzburg Festival singing Strauss and Mozart under Bohm, Mehta and Karajan.
+The production launched a Broadway legend and an acclaimed coloratura as it claimed some diversity in casting. Prior to her Broadway status, Chita Rivera, who is of Puerto Rican, Scottish and Italian heritage, brought her spectacular dancing, singing and acting skills to the stage as Broadway’s first Anita. Reri Grist cast as Consuelo a Sharks woman, was tapped to sing "Somewhere" during the ballet sequence and broke ground as well. A pioneering African-American coloratura, Grist went on to an impressive international operatic and concert career with credits including twelve seasons at the Salzburg Festival singing Strauss and Mozart under Böhm, Mehta and Karajan.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596481314/media/2020/08/GRIST_Reri_phA_scyp4h.jpg){{% /md %}}
 
@@ -74,7 +74,7 @@ The production launched a Broadway legend and an acclaimed coloratura as it clai
 
 </figure>
 
-The recording of this terrific cast was in the extraordinarily capable hands of conductor Max Goberman and record producer Goddard Lieberson. Goberman, who previously conducted Bernstein’s “On the Town,” studied conducting with Fritz Reiner while at the Curtis Institute of Music and was in the midst of recording the complete symphonies of Hayden with the Vienna State Opera Orchestra when he died at age 52. Lieberson, a pioneer in the recording of Broadway shows, produced the session with an ear to the forthcoming stereophonic technology by equipping the studio so that the recording could be released in both monaural and later stereo pressings. The compact disk, remastered to celebrate the show’s 50th anniversary, includes bonus tracks consisting of Bernstein’s “Symphonic Dances” derived from the show with the New York Philharmonic.
+The recording of this terrific cast was in the extraordinarily capable hands of conductor Max Goberman and record producer Goddard Lieberson. Goberman, who previously conducted Bernstein's "On the Town," studied conducting with Fritz Reiner while at the Curtis Institute of Music and was in the midst of recording the complete symphonies of Hayden with the Vienna State Opera Orchestra when he died at age 52. Lieberson, a pioneer in the recording of Broadway shows, produced the session with an ear to the forthcoming stereophonic technology by equipping the studio so that the recording could be released in both monaural and later stereo pressings. The compact disk, remastered to celebrate the show’s 50th anniversary, includes bonus tracks consisting of Bernstein's "Symphonic Dances" derived from the show with the New York Philharmonic.
 
 But vinyl still takes a turn. The recording is now available from Analog Spark, an audiophile imprint, on two 180-gram vinyl disks that provides twice as much room, meaning wider grooves producing more dynamic range, to meet audiophile level listening standards. Sourced from the original three-track analog tapes, the process provides greater transparency plus enhanced soundstage width and depth, a sonic feat for which Lieberson was ready decades earlier. This is a Broadway show that is worth the couture treatment and it comes packaged with extensive photos from the recording session heightening the you-are-there experience.
 
@@ -86,7 +86,7 @@ Photo WSS album with 2 vinyl LPs
 
 </figure>
 
-Avoiding global snickers at the movies
+## Avoiding global snickers at the movies
 
 Robert Wise, co-director of the 1961 film, was tasked with introducing into the cultural mainstream the balletic choreography of Jerome Robbins danced by the Jets and Sharks, hopefully without causing global snickers. As acclaimed as Robbins’ choreography was, the idea of rival gangs performing balletic moves in city slums would be radically new, especially to the film’s youthful target audience. Wise employed steadily intensifying music and opened with a screen filled by an abstraction that morphs into an arial view of Manhattan. The “Prologue” and “Jet Song” gradually build as the Jets and Sharks balletically stalk each others. Audiences have been in thrall ever since. Score one for the soundtrack.
 
