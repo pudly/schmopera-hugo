@@ -17,9 +17,9 @@ title = "Renée Fleming Brings A New Luster To Dumbarton Oaks"
 youtube_url = ""
 
 +++
-Renée Fleming knows her audience, or in this case, the lack of one. Creating a sense of intimate occasion in the elegant music salon at Dumbarton Oaks, a Georgetown estate with a musical pedigree of its own, Fleming made her contribution to the Metropolitan Opera's MET Stars Live streaming concert series feel like a musical get-together.
+Renée Fleming knows her audience, or in this case, the lack of one. Creating a sense of intimate occasion in the elegant music salon at Dumbarton Oaks, a Georgetown estate with a musical pedigree of its own, Fleming made her contribution to the Metropolitan Opera's MET Stars Live streaming concert series feel like a musical get-together. The audience in the salon consisted of four cameras, two of them robotic, and rapt on-line viewers everywhere. 
 
-The audience in the salon consisted of four cameras, two of them robotic, and rapt on-line viewers everywhere. Opening unaccompanied with John Corigilano's "And The People Stayed Home", his effecting setting of Kitty O'Meara's viral poem that purposefully wanders through everyone's pandemic, the soprano's warm informality was a reassuring balm. Sung primarily in the middle range voice reserved for popular song, Fleming was the empathetic friend with soft words of comfort until the poem touched on the fears associated with these uncertain times when it edged into the darker reaches of her celebrated lyric soprano.
+Opening unaccompanied with John Corigilano's "And The People Stayed Home", his effecting setting of Kitty O'Meara's viral poem that purposefully wanders through everyone's pandemic, the soprano's warm informality was a reassuring balm. Sung primarily in the middle range voice reserved for popular song, Fleming was the empathetic friend with soft words of comfort until the poem touched on the fears associated with these uncertain times when it edged into the darker reaches of her celebrated lyric soprano.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596483185/media/2020/08/FlemingPPV-2_gec8co.jpg){{% /md %}}
 
@@ -45,13 +45,13 @@ Full diva mode was assumed for Massanet's passionate "Adieu, notre petite table"
 
 From the little known opera _Die Kathrin_ by Austrian film music pioneer, Eric Korngold, "Ich solo ihn niemals, niemals meh sehn," Fleming shows lovely restraint. The aria, subdued by the piano arrangement, made ample use of Fleming's gorgeous diminuendo and set the stage for "Da geht er hin", the Marschallin's monologue from Richard Strauss' _Der Rosenkavalier_.
 
-> She played with the lovely but treacherous introduction, toyed with the melody and introduced some improvisation at the end. 
+> She played with the lovely but treacherous introduction, toyed with the melody and introduced some improvisation at the end.
 
 Of Fleming's signature roles at the MET, perhaps the Marschallin is her most prominent with some 30 performances in the house. Over the years followers have witnessed firsthand her development of this complex character, a role she retired with a new production in 2017. At Dumbarton Oaks her Marschallin is anxious, irritated and perplexed, but determined. We have seen such attributes in her previous portrayals but this one feels more in touch. Without the operatic trapping she's quite modern. At this juncture in Fleming's career it is of some consequence to hear the monologue in recital.
 
-Puccini's "O mio babbino caro" and Harold Arlen's "Over the Rainbow" would have been performed as encores if there had been an audience to demand them. Fleming surprised with the Puccini giving into verismo over beautiful singing, It was a familiar piece, refreshingly sung. “Over the Rainbow” was quite the adventure. Positioning it as a narrative for our times, thus encasing the recital in a pandemic wrap-around, she played with the lovely but treacherous introduction, toyed with the melody and introduced some improvisation at the end. 
+Puccini's "O mio babbino caro" and Harold Arlen's "Over the Rainbow" would have been performed as encores if there had been an audience to demand them. Fleming surprised with the Puccini giving into verismo over beautiful singing, It was a familiar piece, refreshingly sung. “Over the Rainbow” was quite the adventure. Positioning it as a narrative for our times, thus encasing the recital in a pandemic wrap-around, she played with the lovely but treacherous introduction, toyed with the melody and introduced some improvisation at the end.
 
-Robert Ainsley accompanied supportively. Appearing to be particularly inspired by the Canteloube and Strauss, he and Fleming demonstrated a collegial rapport throughout. His playing was acknowledged throughout by the roving cameras and focusing on his fine work in the piano interval during the _Die Kathrin_ aria. Fleming praised his training of young singers.
+Robert Ainsley accompanied supportively. Appearing to be particularly inspired by the Canteloube and Strauss, he and Fleming demonstrated a collegial rapport throughout. His playing was acknowledged throughout by the roving cameras, focusing on his fine work in the piano interval during the _Die Kathrin_ aria. Fleming praised his training of young singers.
 
 The musical pedigree to which Dumbarton Oaks lays claim stems from the concerto Igor Stravinsky was commissioned to write for the 30th wedding anniversary of then owners, Richard and Mildred Bliss. Mrs. Bliss requested that the resulting Concerto in E-flat be subtitled the Dumbarton Oaks Concerto, as it is generally known today. Nadia Boulanger conducted its premiere in the music salon in 1938. Stravinsky finally conducted it there on two occasions.
 
