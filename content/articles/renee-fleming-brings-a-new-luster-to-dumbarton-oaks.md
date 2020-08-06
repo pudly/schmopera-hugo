@@ -17,7 +17,7 @@ title = "Renée Fleming Brings A New Luster To Dumbarton Oaks"
 youtube_url = ""
 
 +++
-Renée Fleming knows her audience, or in this case, the lack of one. Creating a sense of intimate occasion in the elegant music salon at Dumbarton Oaks, a Georgetown estate with a musical pedigree of its own, Fleming made her contribution to the Metropolitan Opera's MET Stars Live streaming concert series feel like a musical get-together. The audience in the salon consisted of four cameras, two of them robotic, and rapt on-line viewers everywhere. 
+Renée Fleming knows her audience, or in this case, the lack of one. Creating a sense of intimate occasion in the elegant music salon at Dumbarton Oaks, a Georgetown estate with a musical pedigree of its own, Fleming made her contribution to the Metropolitan Opera's MET Stars Live streaming concert series feel like a musical get-together. The audience in the salon consisted of four cameras, two of them robotic, and rapt on-line viewers everywhere.
 
 Opening unaccompanied with John Corigilano's "And The People Stayed Home", his effecting setting of Kitty O'Meara's viral poem that purposefully wanders through everyone's pandemic, the soprano's warm informality was a reassuring balm. Sung primarily in the middle range voice reserved for popular song, Fleming was the empathetic friend with soft words of comfort until the poem touched on the fears associated with these uncertain times when it edged into the darker reaches of her celebrated lyric soprano.
 
@@ -31,7 +31,7 @@ With barely a breath following the Corigilano pianist Robert Ainsley began "Calm
 
 > We were treated to early video footage from Fleming's home and school days which was not unwelcome.
 
-More Handel followed with Delilah's "To fleeting pleasures make your court" from  _Samson_ and "Endless pleasure, endless love" from his _Semele_, both rendered with mischievous spirit as they lifted the mood and completed the baroque portion of the recital. Fleming's sense of atmosphere and character was gracefully calibrated to the music salon setting, a quality that would avail itself in various guises throughout the recital.
+More Handel followed with Delilah's "To fleeting pleasures make your court" from  _Samson_ _and_ _Delilah_ and "Endless pleasure, endless love" from his _Semele_, both rendered with mischievous spirit as they lifted the mood and completed the baroque portion of the recital. Fleming's sense of atmosphere and character was gracefully calibrated to the music salon setting, a quality that would avail itself in various guises throughout the recital.
 
 This being the second in the MET Stars Live series, following Jonas Kaufmann at Polling Abbey outside Munich, it appears that the recitals will include video segments highlighting the singers' MET appearances along with low-key hosting by the the company's reigning Brünnhilde, [Christine Goerke](/talking-with-singers-christine-goerke/). With an eye to PBS, where the series will eventually land, these segments might best serve as an opening act or as one centrally placed intermission. As employed they interrupt the flow. We were, however, treated to early video footage from Fleming's home and school days which was not unwelcome.
 
