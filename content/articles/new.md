@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "short"
-slug = "new"
-title = "new"
+slug = "tiny-worlds-admiring-singers-a-mid-pandemic-wellness-check"
+title = "Tiny worlds & admiring singers: a mid-pandemic wellness check"
 youtube_url = ""
 
 +++
