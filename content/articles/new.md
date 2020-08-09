@@ -7,12 +7,12 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1596986230/media/2020/08/sqWellnessCheck_svtv17.jpg"
 primary_image_credit = ""
-related_articles = []
+related_articles = ["articles/crowded-flights.md", "articles/the-met-s-at-home-gala.md", "articles/covid.md"]
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "I don't live in the vast world of opera, anymore, and it's fucking sad. I haven't had one of those heart-racing experiences at a live show since February. I haven't had that happy, vibrating commute home in the magical night-time after seeing something incredible; it's been a long time since I've felt the relief of taking off high heels at the end of the night, or placed those heels gently back on their shelf, for next time."
 slug = "tiny-worlds-admiring-singers-a-mid-pandemic-wellness-check"
 title = "Tiny worlds & admiring singers: a mid-pandemic wellness check"
 youtube_url = ""
@@ -38,9 +38,15 @@ Maybe it's like survivor's guilt, this thing I'm feeling. I don't pay my bills b
 
 My life is tiny, surrounded by tiny things. Tiny condo, tiny little walks to the park with the tiny little person whom I've got to keep safe. Tiny joys (like a batch of new books for Tiny and I to read together) and tiny sadnesses (my watch broke...does it even matter, now? Who needs a watch in a pandemic?). I'm living along this tiny, squished spectrum of life experience, where the highs are capped at camping trips and toddler smiles (okay, those are pretty great) and the lows are, thankfully, restricted to rainy days and stress about too much screen time.
 
-> If I were in their shoes, I'd be curled in a ball, angry and sad and lost.
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596986221/media/2020/08/AlexMask_nwalrz.jpg){{% /md %}}
+
+<figcaption>Alex, rocking his mask.</figcation>
+
+</figure>
 
 I don't live in the vast world of opera, anymore, and it's fucking sad. I haven't had one of those heart-racing experiences at a live show since February. I haven't had that happy, vibrating commute home in the magical night-time after seeing something incredible; it's been a long time since I've felt the relief of taking off high heels at the end of the night, or placed those heels gently back on their shelf, _for next time_. I don't even know where my red lipstick is.
+
+> If I were in their shoes, I'd be curled in a ball, angry and sad and lost.
 
 I know I've been a bit silent over here, lately. But I've been yammering away on my podcast, which is something I really encourage you to put on the background of your days. It's called _The Everything Will Be Okay Podcast_, because when I gave it that title I was feeling super-duper cynical. But everyone, literally everyone, that I've had on the show has told me, in no sarcastic tones, that things will indeed be okay. No one is really saying that things will go back to the way they used to be, because we're too smart to say that shit now. 
 
@@ -54,4 +60,4 @@ All that is to say it took me about 10 conversations with working singers, all o
 
 Turns out, they're not. They're fucking great. They're not all having one amazing day after another, I'm sure; but they're strong and versatile and patient and they're hustlers. Turns out, singers are effing amazing, even when they're silent.
 
-Stay safe out there, readers. And write to me ([hello@schmopera.com](mailto:hello@schmopera.com)) to tell me how you're doing, what you're watching online, and how the arts are existing in your corner of the world. Send me recipes, mask fashion-shoot photos, book recommendations. I miss you guys!
+Stay safe out there, readers. And write to me ([hello@schmopera.com](mailto:hello@schmopera.com)) to tell me how you're doing, what you're watching online, and how the arts are existing in your corner of the world. Send me recipes, mask fashion-shoot photos, book recommendations.
