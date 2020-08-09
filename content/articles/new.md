@@ -48,11 +48,14 @@ I don't live in the vast world of opera, anymore, and it's fucking sad. I haven'
 
 > If I were in their shoes, I'd be curled in a ball, angry and sad and lost.
 
-I know I've been a bit silent over here, lately. But I've been yammering away on my podcast, which is something I really encourage you to put on the background of your days. It's called _The Everything Will Be Okay Podcast_, because when I gave it that title I was feeling super-duper cynical. But everyone, literally everyone, that I've had on the show has told me, in no sarcastic tones, that things will indeed be okay. No one is really saying that things will go back to the way they used to be, because we're too smart to say that shit now. 
+I know I've been a bit silent over here, lately. But I've been yammering away on my podcast, which is something I really encourage you to put on the background of your days. It's called [_The Everything Will Be Okay Podcast_](https://anchor.fm/tewbop), because when I gave it that title I was feeling super-duper cynical. But everyone, literally everyone, that I've had on the show has told me, in no sarcastic tones, that things will indeed be okay. No one is really saying that things will go back to the way they used to be, because we're too smart to say that shit now. 
 
 But the performers I've talked to on the podcast - from the cerebral Barbara Hannigan to the too-real Christine Goerke - are all making their ways through this insane time like total champs. They're finding so much silver lining, staying so patient, checking in with their life decisions. If I were in their shoes, I'd be curled in a ball, angry and sad and lost. But these people, they're doing amazing things. 
 
-> I was so convinced that the performing artists of today were fragile.
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1596986494/media/2020/08/TEWBOPartwork_cchf6t.jpg){{% /md %}}
+
+<figcaption>Original artwork for The Everything Will Be Okay Podcast, by singer and illustrator, Danika Lorèn.</figcaption>  
+</figure>
 
 Weird analogy (stay with me): when I was pregnant with Alex, I was freaked out about labour and delivery, so I asked my doctor about opting to have a cesarean section. I know, it's inane, but I was scared and curious and figured I'd at least ask. My doctor, and then two other doctors, all told me it wasn't a good idea. I was ticked at the time, thinking that it was my body, and why the eff couldn't I at least entertain the idea of a c-section? But when I took a step back, I realized that I was resisting advice from _three doctors_. If I kept it up, I'd have serious things in common with anti-vaxxers and, in a more current comparison, anti-maskers.
 
