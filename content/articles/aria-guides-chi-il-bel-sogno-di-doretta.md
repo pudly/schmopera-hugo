@@ -1,13 +1,12 @@
 +++
 author = ["authors/jenna.md"]
 categories = "How-To"
-date = 2020-05-27T04:00:00Z
+date = 2020-08-09T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1592685618/media/2020/06/sqAriaGuide-Doretta_ajdwob.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1596983092/media/2020/08/sqDoretta_u5rqrx.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
