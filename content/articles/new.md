@@ -8,7 +8,7 @@ postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1596986230/media/2020/08/sqWellnessCheck_svtv17.jpg"
 primary_image_credit = ""
-related_articles = ["articles/crowded-flights.md", "articles/the-met-s-at-home-gala.md", "articles/covid.md"]
+related_articles = ["articles/in-defence-of-singers.md", "articles/crowded-flights.md", "articles/the-met-s-at-home-gala.md", "articles/covid.md"]
 related_companies = []
 related_people = []
 short_description = "I don't live in the vast world of opera, anymore, and it's fucking sad. I haven't had one of those heart-racing experiences at a live show since February. I haven't had that happy, vibrating commute home in the magical night-time after seeing something incredible; it's been a long time since I've felt the relief of taking off high heels at the end of the night, or placed those heels gently back on their shelf, for next time."
@@ -21,7 +21,7 @@ So, readers: How the &$%# are you?
 
 Are you finding a quarantine groove, yet? I imagine plenty of you are now deft at making bread, ordering groceries online, and remembering to keep a mask handy. You probably have a now-acute sense of what six-feet-apart looks like. You're probably a little Zoomed out.
 
-I know it's not a barrel of fun or anything, but I do hope that the above resonates with you, readers. Because if these aren't your problems, maybe you're instead out there panicking. Maybe you've got a fever, or a dry cough, or some other symptom that makes your stomach drop. You might be missing family something fierce, because you're making that brutal decision between seeing your loved ones and taking needless risks. Or you might be in a fight with someone you love who's being reckless.
+I know it's not a barrel of fun or anything, but I do hope that the above resonates with you, readers. Because if these aren't your problems, maybe you're instead out there panicking. Maybe you've got a fever, or a dry cough, or some other symptom that makes your stomach drop. You might be missing family something fierce, because you're making that brutal decision between seeing your loved ones and taking needless risks. Or you might be in a fight with [someone you love who's being reckless](/guys-stop-telling-people-to-breakquarantine-because-of-a-crowded-plane/).
 
 Or - and this one hurts, my artsy freelancer types - you might be at a career stand-still. I hope you're in a position where you're not looking seriously at homelessness (I'm not trying to be trite, it's what's happening out there), and I hope you have a place to go if Plan A isn't working out. And even if you're staying financially afloat, I'm still thinking of you, readers - because it's fucking hard to stay motivated about working in the performing arts in times like these.
 
@@ -29,7 +29,7 @@ Or - and this one hurts, my artsy freelancer types - you might be at a career st
 
 Sometimes I talk to and about performing artists - singers, really - like I'm included in their bubble. I'm not, actually. I used to be really emotionally invested, though; in my days as a voice coach and répétiteur, the motivation and achievement of the singers I worked with was something that gave me energy and inspiration. Hearing you guys get applause, after seeing how effing hard you worked, gave me such pride and admiration. And when something happened that wasn't right - some catty critic wrote garbage about you, a director was a bitch to you, someone made you feel like you and your voice weren't enough - I jumped to your defence. [_Fuck that critic_](/once-agan-shushing-meanies/)_; I'll start my own goddamn opera blog_.
 
-So, because I still feel that connection to singers and their fellow performers, I've been thinking about all of you guys during this pandemic. Of course not _all_ of you - I haven't met you all, yet. But I do think about specific singers and wonder about their mental health. _She was sounding so fantastic in that new rep, I wonder if she's motivated to keep up the practice_. Or, _He's a sensitive artist on the best of days...I really hope he's not taking everything too personally_. Or even if they're singers I don't know personally, I felt for you, whether you wanted my emotional support or not.
+So, because I still feel that connection to singers and their fellow performers, I've been thinking about all of you guys during this pandemic. Of course not _all_ of you - I haven't met you all, not yet. But I do think about specific singers and wonder about their mental health. _She was sounding so fantastic in that new rep, I wonder if she's motivated to keep up the practice_. Or, _He's a sensitive artist on the best of days...I really hope he's not taking everything too personally_. Or even if they're singers I don't know personally, I felt for you, whether you wanted my emotional support or not.
 
 > I don't live in the vast world of opera, anymore, and it's fucking sad.
 
