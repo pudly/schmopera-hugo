@@ -3,7 +3,6 @@ author = ["authors/arturo-fernandez.md"]
 categories = "Review"
 date = 2020-08-18T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "This production of _La voix humaine_ will be available on [Helios Opera’s website](https://heliosopera.com/mop/lvh/) through September 25th. The initiative will also need help for funding: please consider giving a donation to [Helios Opera](https://heliosopera.com/mop/lvh/) to help this initiative thrive."
 preamble = ""
@@ -27,6 +26,8 @@ You bring it home and film it, of course. At least, that is the solution that [H
 </figure>
 
 For one, it is quite well shot, and its choices of shot did a wonderful job of highlighting soprano [Théodora Cottarel](/scene/people/theodora-cottarel/)'s electrifying performance as Elle, the sole character we see throughout the show. Cottarel acted her part gloriously well, conveying so much information about the way her moods swung throughout the performance with even just the slightest twitch of her brow that it really only amplified the moods Poulenc conjured in his score. Her singing voice, too, was absolutely perfect for _Voix humaine_, and the way she maintained a beauty of tone through much of Poulenc's heavily recitative-like writing for the character while also finding great ways to color the characters' neuroses was masterful. But the closeness the camera brought to the whole enterprise brought an almost intimate air to the performance, and the emotions were as grand as they were immediate, something I have no doubt would be lost on the opera stage.
+
+> I have to admit that I saw much almost too much of my own mental health during quarantine in Elle's frequent, sudden, and often titanic mood swings.
 
 For another thing, it pretty much kept Poulenc's score intact, albeit in piano reduction form owing to the difficulty of putting together a whole orchestra in these circumstances. This admittedly was something that made me nervous going into the broadcast, but Poulenc's score lost none of what makes it great even in this format. I admit to not being familiar with _Voix humaine_ before this performance, but if anything, having it pared down to just the piano highlighted how adeptly Poulenc paints his character's mood swings throughout the opera's 55-minute runtime. It was also synced and edited together so smoothly that I completely forgot that collaborative pianist Celeste Marie Johnson had not even rehearsed the piece with Cottarel in the room, and there was surprisingly little sound quality lost in the edit to bring it to this format.
 
