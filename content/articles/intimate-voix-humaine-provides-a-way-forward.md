@@ -17,7 +17,7 @@ title = "Intimate Voix humaine provides a way forward"
 youtube_url = ""
 
 +++
-Francis Poulenc;s _La voix humaine_ provides a very interesting artistic challenge for anyone that decides to stage it: it is written for only a single character, a character from whom we only ever get to hear one side of her conversations. How do you stage something that is so static in tableau and also has so few characters? And more to the point, how does a company stage it in a time when theaters are closed due to the COVID-19 pandemic?
+Francis Poulenc's _La voix humaine_ provides a very interesting artistic challenge for anyone that decides to stage it: it is written for only a single character, a character from whom we only ever get to hear one side of her conversations. How do you stage something that is so static in tableau and also has so few characters? And more to the point, how does a company stage it in a time when theaters are closed due to the COVID-19 pandemic?
 
 You bring it home and film it, of course. At least, that is the solution that [Helios Opera](/scene/companies/helios-opera/) has taken, in the first of what will hopefully become a series in its Modular Opera Project initiative. It is no doubt a massive logistical nightmare to attempt staging an entire full length opera where all of its moving parts cannot even rehearse in person, and no doubt it is a difficult enterprise. The fact that this production came off with almost no seams to show for it is a testament to the strength of what Helios Opera has learned in the process, and it provides a window into a thrilling way to deliver new opera productions in these times.
 
