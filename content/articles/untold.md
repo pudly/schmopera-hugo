@@ -5,14 +5,14 @@ date = 2020-08-24T04:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "Alex Ho's _Untold_ is available for [online viewing](https://youtu.be/OOqLBSu4Rc4). To support Tangram, the suggested donation is £5."
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1598312986/media/2020/08/sqUntold_qz3rpf.jpg"
+primary_image_credit = "Alex Ho's opera Untold, photographed by Zen Grisdale. "
 related_articles = []
 related_companies = []
 related_people = ["scene/people/keith-pun.md"]
-short_description = "short"
+short_description = "This was a piece that did not feel as though it existed musically as a complete score but more so in the gathering of people together, in the physicality of the performance space, and in the unknowable magic that occurs in the moment of performance itself."
 slug = "untold-a-collaborative-tale-of-pride-and-grace"
 title = "Untold: a collaborative tale of pride and grace"
 youtube_url = ""
@@ -28,9 +28,7 @@ _Untold_ featured a small ensemble with each performer pulling double duty. Coun
 
 Slippery and fragmented, this piece kept the audience in its grasp as the story unfolded bit by bit. The story, in essence, is the fairy-tale of _Cinderella_, though it differs quite a bit from the version we have come to know and love in the West, and actually predates it by about eight-hundred years. Set in the 9th-century Tang Dynasty, the tale recounts the story of Ye Xian, who lives a life of servitude to her stepfamily. She is beautifully transformed out of her poverty by the spirit of a fish she had befriended, which allows her to attend the yearly courting festival. There in her disguise, she meets the King, who becomes enamoured with her. When she departs in haste, leaving a golden shoe behind, he searches endlessly for the woman who fits the shoe, but she is never heard from again.
 
-Interspersed between the telling of this story, which is first narrated by each of the performers in turn and then enacted through dance, are miniature stories from the performers who each share an experience concerning Chinese identity. These moments were heartfelt, honest, and woven together seamlessly with the action of the piece. The performers were not acting, but connecting with their audience in a very real way. Instead of finding this format jarring and taking me out of the action, I quite enjoyed its deconstructionist take on the traditionally formatted opera or theatre piece.
-
-Storytelling is the most ancient of artforms. It is shared across all cultures on the planet and resonates with us all in a very deep way. It was used in a very effective way within this piece.
+Interspersed between the telling of this story, which is first narrated by each of the performers in turn and then enacted through dance, are miniature stories from the performers who each share an experience concerning Chinese identity. These moments were heartfelt, honest, and woven together seamlessly with the action of the piece. The performers were not acting, but connecting with their audience in a very real way. Instead of finding this format jarring and taking me out of the action, I quite enjoyed its deconstructionist take on the traditionally formatted opera or theatre piece. Storytelling is the most ancient of artforms. It is shared across all cultures on the planet and resonates with us all in a very deep way. It was used in a very effective way within this piece.
 
 Strangely and quite excitingly, this was a piece that did not feel as though it existed musically as a complete score but more so in the gathering of people together, in the physicality of the performance space, and in the unknowable magic that occurs in the moment of performance itself.
 
