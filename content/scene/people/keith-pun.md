@@ -1,13 +1,15 @@
 +++
 discipline = "Countertenor"
-draft = true
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1598312764/media/2020/08/KeithPun_ay71k1.jpg"
 primary_image_credit = ""
 related_companies = []
 slug = "keith-pun"
-social_media = []
 title = "Keith Pun"
-website = ""
+website = "http://www.keithpun.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/thesingingpun"
 
 +++
 Keith Pun is a versatile countertenor whose repertoire ranges from baroque to contemporary. He performed the role Chai Ping in _The Original Chinese Conjuror_ by Raymond Yiu for Leeds Opera Festival in 2018. He also performed as a soloist for the Pulitzer prize-winning opera _Angel’s Bone_ by Duyun in Hong Kong New Vision Arts Festival 2018 and Beijing Music Festival 2019. In 2019, he participated in the world premiere production of _Beauty and Sadness_ by Elena Langer conducted by Gergely Madaras. He sang the roles of Fish and King in the new chamber opera _Yexian: A Story Untold_ by Alex Ho which won the George Butterworth Prize. Next season Keith Pun will perform Eurindo in _The Strength of Paternal Love_ by Stradella with Barber Opera in Birmingham.  
