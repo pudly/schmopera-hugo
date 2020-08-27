@@ -38,6 +38,4 @@ It all would be fair play in the world of career advancement, if there wasn't su
 
 This all feels so naive, when I unpack it enough. My gripe is that Neef is leaving early to start his newer, more prestigious job in Paris, and that he's leaving the COC in a precarious spot. In the real world, career advancement is a thing, and people like Neef, who's obviously brilliant and industrious, should have the chance to climb those top rungs. How heartless of him! Doesn't he _care_ about the COC?
 
-BUT. In Canada, where we don't have robust government arts funding
-
-I argue with myself over these instincts. 
+BUT. In Canada, where we don't have robust government arts funding, we _need_ leaders whose heart is in the work. It matters that the head of an organization is invested, maybe even emotionally invested, in the actual artistic output. There's an enormous difference between Neef's bringing opera's best to the COC stage, and a leader who has something to say to the audiences in their community. I think Neef has been playing a different game than Canadian opera fans, and I really fear that it has cost us options at our country's top level.
