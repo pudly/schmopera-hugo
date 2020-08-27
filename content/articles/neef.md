@@ -36,6 +36,8 @@ But if you look closely, you'll see that Neef is also putting his name on all of
 
 It all would be fair play in the world of career advancement, if there wasn't such a cost to the COC along the way. There are loud-ish rumblings about the COC's financial peril, and about how its resources have been steadily whittled away by the cost of these big-name singers and major productions brought in by Neef. And now, with the the yet-unfinished hunt for a new leader, and the placeholder appointment of COC Deputy General Director Christie Darville - who, if rumours are true, is a decent fundraiser but doesn't actually like opera - _and the pandemic_, morale feels freaking low.
 
-This all feels so naive, when I unpack it enough. My gripe is that Neef is leaving early to start his newer, more prestigious job in Paris, and that he's leaving the COC in a precarious spot.
+This all feels so naive, when I unpack it enough. My gripe is that Neef is leaving early to start his newer, more prestigious job in Paris, and that he's leaving the COC in a precarious spot. In the real world, career advancement is a thing, and people like Neef, who's obviously brilliant and industrious, should have the chance to climb those top rungs. How heartless of him! Doesn't he _care_ about the COC?
+
+BUT. In Canada, where we don't have robust government arts funding
 
 I argue with myself over these instincts. 
