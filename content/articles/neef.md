@@ -3,18 +3,17 @@ author = ["authors/jenna.md"]
 categories = "Editorial"
 date = 2020-08-27T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1598574753/media/2020/08/sqFSC_qqcfr5.jpg"
+primary_image_credit = "The Henry N. R. Jackman Lounge in the Canadian Opera Company's Four Seasons Centre for the Performing Arts. Photo: Steven Evans."
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
-slug = "well-okay-bye-then"
-title = "Well okay, bye then?"
+short_description = "I think Neef has been playing a different game than Canadian opera fans. He was making the COC a new hub in the international opera scene, and we were loving the big gets onstage."
+slug = "well-okay-au-revoir-i-guess"
+title = "Well okay, au revoir, I guess?"
 youtube_url = ""
 
 +++
