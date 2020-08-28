@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "short"
-slug = "neef"
-title = "Neef"
+slug = "well-okay-bye-then"
+title = "Well okay, bye then?"
 youtube_url = ""
 
 +++
@@ -27,6 +27,8 @@ A few things led to this. First, COVID-19. So far, the COC has [called off its f
 The plot thickened when current (?) Paris General Director Stéphane Lissner announced he would peace out about six months ahead of schedule. He'll be done in December 2020, probably because he doesn't want to be the head of an empty stage for his final year either. (Is it just me, or does this also feel like a totally French move? Like, "C'est la pandemie. Au revoir.")
 
 Anyway, the the end result is that Neef will leave Toronto and take on full responsibilities at the helm of the Paris Opera _while still actually being the head of the COC_. The COC is still hunting for its next General Director - they've likely found their person, but it's not yet announced - which means that for the 2020-21 season, Canada's largest opera company will be silent and effectively without leadership.
+
+"Being able to minimize air travel remains the safest course of action for my family right now," says Neef in a press release. "This year's pandemic has asked so many of us to adjust to unexpected shifts in circumstance and I am grateful for the complete support of the COC Board in arriving at this solution."
 
 Bleh. How depressing. It felt icky back in 2018, when Neef took on a second gig as head of The Santa Fe Opera, again while also leading the COC. Sure, Santa Fe is a summer house and the COC breaks from May-ish to October-ish, but let's be clear: running each of those major opera companies is a full-time job. And no, this situation isn't quite the same; there were decidedly circumstances that Neef couldn't control, like Lissner's exit or the pandemic.  But there's a weird vibe happening out of the COC right now, like a mix of deference and resignation to Neef as he very clearly makes decisions that are right for him.
 
