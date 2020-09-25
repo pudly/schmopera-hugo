@@ -32,6 +32,8 @@ The programme of over 50 events taking place over a span of two weeks felt thema
 
 Now, more than six months into COVID and this altered way of life, we are beginning to see the fruits of some of these reflections. [_Persephone’s Dream_](https://www.tete-a-tete.org.uk/event/persephones-dream/), a digital/live hybrid opera is one of these reflections. Born out of the pandemic from the mind of Tania Holland Williams, the opera uses the character of Persephone as a reference point, transporting us to her underground dream world. It tackles all of the emotions (good and bad) around the pandemic head on and reflects on feelings of isolation, the quieting of the world, and the return to nature. It poses the question, “If the dream is so good, why wake?”. Why indeed.
 
+> Fischer is the only performer on stage but gives a dramatic and thoroughly convincing performance all on his own. 
+
 This project was a truly collaborative effort. Holland Williams wrote the libretto and then enlisted the talents of Gavin Alexander, Kevin Grist, and [Anna Braithwaite](/scene/people/anna-braithwaite/) for the music. Braithwaite performs the role of Persephone on stage and is joined by cellist Clare O’Connell who in addition to her beautiful playing, voices the character of Chimera. They are accompanied by a "Chorus of Curious Eyes" projected on screen, streamed live over Zoom.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1601057890/media/2020/09/TAT-BIRD-1-Shovelton_gdblbs.jpg){{% /md %}}
