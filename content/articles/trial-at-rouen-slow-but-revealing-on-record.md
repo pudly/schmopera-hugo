@@ -1,9 +1,8 @@
 +++
 author = ["authors/arturo-fernandez.md"]
 categories = "Review"
-date = 2020-09-20T04:00:00Z
+date = 2020-09-25T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "[_The Trial at Rouen_](http://www.bmop.org/audio-recordings/norman-dello-joio-trial-rouen) is released by BMOP/sound."
 preamble = ""
