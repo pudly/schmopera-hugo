@@ -40,63 +40,17 @@ The DVD of the performance captures the finely tuned characterizations with effe
 
 The opera made noise in Tchaikowsky's hometown when the Polish production opened in October 2014. The distinguished African-American baritone [Lester Lynch](/scene/people/lester-lynch/) assumed the role of Shylock originated by [Adrian Eröd](/scene/people/adrian-erod/) in Bregenz, introducing a racial element that added new complexity to the opera's already top-loaded social and religious schism. Lynch was joined by [Lauren Michelle](/scene/people/lauren-michelle/), the young African-American soprano playing Shylock's daughter, when the production moved to the Welsh National Opera in 2016, where both made their company debuts. Previously Michelle had won the 2015 BBC Cardiff Singer of the World Competition and Lynch received rave review for his Shylock in Warsaw. They appeared when the company presented it for two performances in London at the Royal Opera House in July of the following year.
 
-Despite the noise, it hasn't been heard from since. The electrifying atonality of the first act makes perfect dramatic sense. Challenging music is draped in great theater. Any semblance of harmony would undermine the unrelenting distaste Antonio feels for the Jewish Shylock and the hate that festers at the money-lender's core. Antonio's suppressed desire for Bassanio, clearly the source of his melancholy, is firmly established in the Bregenz production. Antonio will risk pledging a potentially fatal pound of flesh, Shylock's demand if he defaults on the loan of 3000 ducats, so that Bassanio will have the means to win the hand of the heiress Portia.
+Despite the noise, it hasn't been heard from since. 
 
-Tchaikowsky's assignment of vocal types to these characters shows his thorough understanding of their singular sounds and the theatricality of their aural interaction. Counter-tenor [Christopher Ainslie](/scene/people/christopher-ainslie/) as Bregenz's Antonio produces darkly shaded tones that are crisp and agile as he maneuvers a role suited to the delicacy and vocal heft of his singing. There are moments when one could come away thinking the opera's central character is the depressive of Venice. Charles Workman's assured and penetrating tenor projects Bassanio’s jovial self-possession and a fawning gratitude that feels more like selfish relief. Eröd's baritone retains its grandeur and polish even as Shylock contorts it into vocal fits
+The electrifying atonality of the first act makes perfect dramatic sense. Challenging music is draped in great theater. Any semblance of harmony would undermine the unrelenting distaste Antonio feels for the Jewish Shylock and the hate that festers at the money-lender's core. Antonio's suppressed desire for Bassanio, clearly the source of his melancholy, is firmly established in the Bregenz production. Antonio will risk pledging a potentially fatal pound of flesh, Shylock's demand if he defaults on the loan of 3000 ducats, so that Bassanio will have the means to win the hand of the heiress Portia.
 
-of rage and resentment. Shylock, as the world knows, is not likable. Few of the
+Tchaikowsky's assignment of vocal types to these characters shows his thorough understanding of their singular sounds and the theatricality of their aural interaction. Counter-tenor [Christopher Ainslie](/scene/people/christopher-ainslie/) as Bregenz's Antonio produces darkly shaded tones that are crisp and agile as he maneuvers a role suited to the delicacy and vocal heft of his singing. There are moments when one could come away thinking the opera's central character is the depressive of Venice. Charles Workman's assured and penetrating tenor projects Bassanio’s jovial self-possession and a fawning gratitude that feels more like selfish relief. Eröd's baritone retains its grandeur and polish even as Shylock contorts it into vocal fits of rage and resentment. Shylock, as the world knows, is not likable. Few of the characters in the opera are but Eröd makes Shylock at least understandable. His extraordinary diction is a gift to O’Brien's potent libretto.
 
-characters in the opera are but Eröd makes Shylock at least understandable. His
+Fleeting moments of languid romance appear later in the act between Jessica, Shylock’s daughter and her Gentile lover, Lorenzo. Surrealistic trappings temper the romance with Jessica atop a wall of safety deposit boxes and Lorenzo below. Their open umbrellas touchingly meet and when closed join handles. This mildly suggestive gesture appears to facilitate the transfer to Lorenzo of a bag of ducats and jewels. The atmosphere turns tense as they run off together. Rage consumes the setting when Shylock discovers that Jessica has escaped his clutches with a Gentile and, perhaps even worse, with the ducats and jewels. [Kathryn Lewek](/scene/people/kathryn-lewek/)’s lovely and formidable coloratura is attractively paired with the supple tenor of Jason Bridges projecting a rhapsodic if guarded optimism with their swaying body language.
 
-extraordinary diction is a gift to O’Brien’s potent libretto.
+Belmont is a heady place where Portia and her maid/friend Nerissa lounge on the riverbank contemplating suitors and marriage at the beginning of the second act. They await the arrival of a series of princes who, in order to win her hand and fortune, must negotiate a maze and select among three vaults, gold, silver and lead, the one which contains Portia's portrait. ****Magdalena Anna Hoffman is a marvel as Portia. An elegant low ranged soprano, Hoffman’s hauteur switches to cunning when she transforms from pampered heiress to shrewd lawyer in the third act. But before all of that she and the energetic mezzo-soprano Verena Gunz as Nerissa make a refreshingly giddy pair.
 
-Fleeting moments of languid romance appear later in the act between Jessica,
-
-Shylock’s daughter and her Gentile lover, Lorenzo. Surrealistic trappings temper
-
-the romance with Jessica atop a wall of safety deposit boxes and Lorenzo below.
-
-Their open umbrellas touchingly meet and when closed join handles. This mildly
-
-suggestive gesture appears to facilitate the transfer to Lorenzo of a bag of ducats
-
-and jewels. The atmosphere turns tense as they run off together. Rage consumes
-
-the setting when Shylock discovers that Jessica has escaped his clutches with a
-
-Gentile and, perhaps even worse, with the ducats and jewels. Kathryn Lewek’s
-
-lovely and formidable coloratura is attractively paired with the supple tenor of
-
-Jason Bridges projecting a rhapsodic if guarded optimism with their swaying body
-
-language.
-
-Belmont is a heady place where Portia and her maid/friend Nerissa lounge on the
-
-riverbank contemplating suitors and marriage at the beginning of the second act.
-
-They await the arrival of a series of princes who, in order to win her hand and
-
-fortune, must negotiate a maze and select among three vaults, gold, silver and
-
-lead, the one which contains Portia’s portrait. Magdalena Anna Hoffman is a
-
-marvel as Portia. An elegant low ranged soprano, Hoffman’s hauteur switches to
-
-cunning when she transforms from pampered heiress to shrewd lawyer in the third
-
-act. But before all of that she and the energetic mezzo-soprano Verena Gunz as
-
-Nerissa make a refreshingly giddy pair.
-
-The first to arrive at Belmont is the opulent and acrobatic Prince of Morocco who
-
-literally catapults to the gold vault. Then enters the preening Prince of Aragon,
-
-more like a Keystone Cop who pratfalls his way to the silver. Both leave empty
-
-handed. Bassanio arrives with his friend Gratiano, the hearty baritone David Stout,
+The first to arrive at Belmont is the opulent and acrobatic Prince of Morocco, who literally catapults to the gold vault. Then enters the preening Prince of Aragon, more like a Keystone Cop who pratfalls his way to the silver. Both leave empty handed. Bassanio arrives with his friend Gratiano, the hearty baritone David Stout,
 
 and with some festive prompting from Portia’s household staff and Belmont
 
