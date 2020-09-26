@@ -40,7 +40,7 @@ The DVD of the performance captures the finely tuned characterizations with effe
 
 The opera made noise in Tchaikowsky's hometown when the Polish production opened in October 2014. The distinguished African-American baritone [Lester Lynch](/scene/people/lester-lynch/) assumed the role of Shylock originated by [Adrian Eröd](/scene/people/adrian-erod/) in Bregenz, introducing a racial element that added new complexity to the opera's already top-loaded social and religious schism. Lynch was joined by [Lauren Michelle](/scene/people/lauren-michelle/), the young African-American soprano playing Shylock's daughter, when the production moved to the Welsh National Opera in 2016, where both made their company debuts. Previously Michelle had won the 2015 BBC Cardiff Singer of the World Competition and Lynch received rave review for his Shylock in Warsaw. They appeared when the company presented it for two performances in London at the Royal Opera House in July of the following year.
 
-Despite the noise, it hasn't been heard from since. 
+Despite the noise, it hasn't been heard from since.
 
 The electrifying atonality of the first act makes perfect dramatic sense. Challenging music is draped in great theater. Any semblance of harmony would undermine the unrelenting distaste Antonio feels for the Jewish Shylock and the hate that festers at the money-lender's core. Antonio's suppressed desire for Bassanio, clearly the source of his melancholy, is firmly established in the Bregenz production. Antonio will risk pledging a potentially fatal pound of flesh, Shylock's demand if he defaults on the loan of 3000 ducats, so that Bassanio will have the means to win the hand of the heiress Portia.
 
@@ -50,80 +50,16 @@ Fleeting moments of languid romance appear later in the act between Jessica, Shy
 
 Belmont is a heady place where Portia and her maid/friend Nerissa lounge on the riverbank contemplating suitors and marriage at the beginning of the second act. They await the arrival of a series of princes who, in order to win her hand and fortune, must negotiate a maze and select among three vaults, gold, silver and lead, the one which contains Portia's portrait. ****Magdalena Anna Hoffman is a marvel as Portia. An elegant low ranged soprano, Hoffman’s hauteur switches to cunning when she transforms from pampered heiress to shrewd lawyer in the third act. But before all of that she and the energetic mezzo-soprano Verena Gunz as Nerissa make a refreshingly giddy pair.
 
-The first to arrive at Belmont is the opulent and acrobatic Prince of Morocco, who literally catapults to the gold vault. Then enters the preening Prince of Aragon, more like a Keystone Cop who pratfalls his way to the silver. Both leave empty handed. Bassanio arrives with his friend Gratiano, the hearty baritone David Stout,
+The first to arrive at Belmont is the opulent and acrobatic Prince of Morocco, who literally catapults to the gold vault. Then enters the preening Prince of Aragon, more like a Keystone Cop who pratfalls his way to the silver. Both leave empty handed. Bassanio arrives with his friend Gratiano, the hearty baritone David Stout, and with some festive prompting from Portia's household staff and Belmont villagers, selects the lead vault and wins Portia's hand. Nerissa and Gratiano, prone to suggestion, decide to marry as well.
 
-and with some festive prompting from Portia’s household staff and Belmont
+All is joyful but not for long. News arrives that Antonio ships may be lost a sea thus causing him to default on Shylock's loan. Fearing for his friend's life, Antonio rushes back to Venice and the start of the unnerving third act in the courtroom of the Duke of Venice, a scene of high musical drama.
 
-villagers, selects the lead vault and wins Portia’s hand. Nerissa and Gratiano,
+Antonio is grim and resigned. Bassanio pleads that Antonio can repay the debt since his ships have arrived safely and offers to triple the payment now that he's flush with Portia's fortune. Shylock rants and states his case proclaiming with demented logic that it is his right to collect Antonio's pound of flesh because the payment is late. Even the Duke cannot dissuade him. Antonio prepares to die, Shylock produces his scale and scalpel and the disguised Portia finds the loophole and requests Bassanio's wedding ring as payment for her services. Narissa, disguised as her clerk, follows suit.
 
-prone to suggestion, decide to marry as well.
+The outcome is well known but the operatic opportunities of Tchaikowsky's composition are not. The fast pace in the courtroom is genuinely thrilling. The singers individually and as an ensemble create overwhelming tension and catharsis through music that is spectacularly abstract.
 
-All is joyful but not for long. News arrives that Antonio ships may be lost a sea
+Under a full moon at Belmont the epilogue unfolds. Mozart, rather than Shakespeare, comes to mind with "Ah, tutti contenting saremo così" from the closing moments of _Le nozze di Figaro_. The woman, alluringly clad in short night shirts, receive their husbands with some disdain. The couples resolve the issue of the missing wedding rings as truth and insight permeate the night. Antonio appears and they are all glad to see him but they wander off together, followed by Jessica and Lorenzo who have charted their course, leaving him alone. Freud and his chaise lounge appear. Antonio sits, then stands and stares at the moon in silence.
 
-thus causing him to default on Shylock’s loan. Fearing for his friend’s life, Antonio
+This is a beautifully sad end to the opera, but hopefully not for it. Verdi, for whom Shakespeare was a frequent source of inspiration, developed an enduing musical means of conveying his stories and explorations of human nature. Tchaikowsky does no less. He examines the most complex aspects of humanity in a musical context that evokes the tumult of our world. We can only guess what operas might have followed, had his life not been cut short. Shakespeare’s more enigmatic and unsympathetic characters might have attracted him. But what we have here is engrossing theater and the very essence of contemporary music. 
 
-rushes back to Venice and the start of the unnerving third act in the courtroom of
-
-the Duke of Venice, a scene of high musical drama.
-
-Antonio is grim and resigned. Bassanio pleads that Antonio can repay the debt
-
-since his ships have arrived safely and offers to triple the payment now that he’s
-
-flush with Portia’s fortune. Shylock rants and states his case proclaiming with
-
-demented logic that it is his right to collect Antonio’s pound of flesh because the
-
-payment is late. Even the Duke cannot dissuade him. Antonio prepares to die,
-
-Shylock produces his scale and scalpel and the disguised Portia finds the
-
-loophole and requests Bassanio’s wedding ring as payment for her services.
-
-Narissa, disguised as her clerk, follows suit.
-
-The outcome is well known but the operatic opportunities of Tchaikowsky’s
-
-composition are not. The fast pace in the courtroom is genuinely thrilling. The
-
-singers individually and as an ensemble create overwhelming tension and
-
-catharsis through music that is spectacularly abstract.
-
-Under a full moon at Belmont the epilogue unfolds. Mozart rather than
-
-Shakespeare comes to mind with “Ah, tutti contenting saremo cosí” from the
-
-closing moments of Le nozze di Figaro. The woman, alluringly clad in short night
-
-shirts, receive their husbands with some disdain. The couples resolve the issue of
-
-the missing wedding rings as truth and insight permeate the night. Antonio
-
-appears and they are all glad to see him but they wander off together, followed by
-
-Jessica and Lorenzo who have charted their course, leaving him alone. Freud and
-
-his chaise lounge appear. Antonio sits, then stands and stares at the moon in
-
-silence.
-
-This is a beautifully sad end to the opera but hopefully not for it. Verdi, for whom
-
-Shakespeare was a frequent source of inspiration, developed an enduing musical
-
-means of conveying his stories and explorations of human nature. Tchaikowsky
-
-does no less. He examines the most complex aspects of humanity in a musical
-
-context that evokes the tumult of our world. We can only guess what operas might
-
-have followed had his life not been cut short. Shakespeare’s more enigmatic and
-
-unsympathetic characters might have attracted him. But what we have here is
-
-engrossing theater and the very essence of contemporary music. The Merchant of
-
-Venice has made impressive noise in Europe. It’s time for it to rattle the operatic
-
-cage and make some noise over here.
+_The Merchant of Venice_ has made impressive noise in Europe. It’s time for it to rattle the operatic cage and make some noise over here.
