@@ -5,7 +5,7 @@ lastmod = "2018-03-02T16:28:00-05:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520025552275/Christopher_Ainslie_-_new_photo_2_credit_Denis_Jouglet.jpg.jpg"
 primary_image_credit = "Denis Jouglet"
 publishDate = "2018-03-02T16:28:00-05:00"
-related_companies = ["scene/companies/english-national-opera.md","scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md","scene/companies/opera-north.md","scene/companies/classical-opera.md"]
+related_companies = ["scene/companies/english-national-opera.md", "scene/companies/glyndebourne.md", "scene/companies/royal-opera-house.md", "scene/companies/opera-north.md", "scene/companies/classical-opera.md"]
 slug = "christopher-ainslie"
 title = "Christopher Ainslie"
 website = "http://christopherainslie.com/"
@@ -13,21 +13,54 @@ website = "http://christopherainslie.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/ChrisAinslieSA?lang=en"
+
 +++
+Christopher Ainslie is notable for his warm voice, polished musicianship and compelling stage presence.
 
-Christopher Ainslie started his singing career as a chorister at St George's Cathedral in Cape Town, his home city. While qualifying as a Chartered Accountant, Christopher studied singing part time with Sarita Stern at the University of Cape Town College of Music, and viola with Jürgen Schwietering and Hermina de Groote. After moving to London in 2005, he completed his postgraduate studies at the Royal College of Music with distinction, and is now performing at leading venues around the world. He has sung in master classes with Michael Chance, Peter Harvey, Ashley Stafford and Sarah Walker and now studies privately with Mark Tucker, Paul Farrington and Audrey Hyland.
+Ainslie believes in singing as a full-body experience, drawing from emotion and physicality for a sound that is appealing and genuine. His technique is strongly influenced by _bel canto_ principles, which inform the free coloratura, thoughtful phrasing and precise accuracy of his singing.
 
-Christopher was the first counter-tenor to win the Richard Tauber Prize at the Wigmore Hall (2008) and won the Michael Oliver Prize in the 2007 Handel Singing Competition. He was a 2010 Classical Opera Company Associate Artist, and is grateful for the significant support of Independent Opera in the formative years of his career. In September 2011 he was the winner of the Gianni Bergamo Classic Music Award for Countertenors.
+As an actor, Ainslie enjoys opportunities to use his natural athleticism, and performs with high energy and magnetic presence. With sensitivity and uninhibited directness, his characters convey passion and honesty to match his vocal style.
 
-Christopher is rapidly establishing himself as a leading interpreter of repertoire within and outside the traditional confines of the countertenor voice-type. His performance in the title role of Handel's *Poro* under Laurence Cummings at the London Handel Festival was highly acclaimed. Other opera roles include his US opera debut in the title role in Handel's *Amadigi* at Central City Opera with Matthew Halls, Ottone *Poppea* for Glyndebourne on Tour, with Opera North, and in Drottningholms Slottsteater, Sweden, Antonio *The Merchant of Venice* for Bregenzer Festspiele, Innocent 4 in the world premiere of Birtwistle's *The Minotaur* at the Royal Opera House, Covent Garden (directed by Stephen Langridge, conducted by Antonio Pappano), the title role in *Tamerlano* in the Göttingen Handel Festival (conducted by Nicholas McGegan), the title role in Arne's *Artaxerxes* at the Royal Opera House, Medoro *Orlando* with Independent Opera at Sadler's Wells, Arsace *Partenope* at the Les Azuriales Festival, France, Oberon *A Midsummer Night's Dream* and Voice of Apollo *Death in Venice* for Opera North (the Latter also with Opéra de Lyon), the title role in Cavalli's *Eliogablo* with Gotham Chamber Orchestra, the title role in *Rinaldo* in Sigulda, Latvia, Alessandro *Tolomeo* in the London Handel Festival, Arsamenes *Xerxes* at the Edinburgh Festival Fringe, and Unulfo *Rodelinda*, Messenger *Thebans*, and Helicon in the UK premiere of Glanert's *Caligula*, all for English National Opera. He has created roles in several world premieres.
+Ainslie is thrilled to be working during this exciting era for the countertenor. At the forefront of the movement to explore the technical possibilities of this voice-type, he sees the countertenor as a dramatically expressive instrument, embracing the vocal requirements of all genres from baroque to contemporary music.
 
-Oratorio	performances	include	Bach's *Weihnachtsoratorium* in the Moscow Conservatory (with Vladimir Jurowski), Purcell's *Ode to St Cecilia* and Handel's *Te Deum* in D (Innsbruck, Utrecht and Antwerp Festivals) with B'Rock, the title role in Handel's *Solomon*, *Messiah* with the Philadelphia Orchestra, the Bournemouth and St Louis Symphony Orchestras, Belshazzar in the Dresden Frauenkirche, *Saul* in St John's, Smith Square, London, *Judas Maccabeaus* in Vilnius; Blow's *Venus & Adonis* (with Gary Cooper and B'Rock) in Brugge and Ghent, Bach's *MatthäusPassion* in Worcester Cathedral and with the London Handel Players in St George's, Hanover Square, Bach's *Johannes-Passion* and Vivaldi's *Gloria* with the Bournemouth Symphony Orchestra.
+**BACKGROUND**
 
-He also enjoys giving recitals, and has performed at the Wigmore Hall (including works ranging from Dowland to Schubert and Mahler), as well as in concert with Classical Opera, in the London Handel Festival with Ensemble Chocolat, with Laurence Cummings and the Croatian Baroque Ensemble, with Harry Bicket and players from The English Concert, and with Les Arts Florissants in performances of music by Handel and Scarlatti.
+A native of Cape Town, Ainslie grew up in a home filled with music. He studied the viola with Jürgen Schwietering and Hermina de Groote, received piano lessons at school and was a chorister in the St George’s Cathedral boys’ choir conducted by Barry Smith. He regularly attended singing weeks for the study and celebration of German church music. Ainslie developed an instrumentalist’s awareness of collaborative music-making, playing chamber music with his brothers and friends, and performing with the South African National Youth Orchestra for two festivals, including a tour to Moscow.
 
-Recent engagements include Orfeo *Orfeo ed Eurjdice* for Opéra de Lyon and for Opéra National de Lorraine, Ottone *Agrippina* for the Göttingen Handel Festival, David *Saul* for Glyndebourne, Bach's B Minor Mass with at the Oregon Bach Festival, where he also sang Bach's *Magnificat* and the world premiere of James MacMillan's *A European Requiem*; Handel's *Messiah* with the Ulster Orchestra, and notable performances with the Choir and Orchestra of Radio France and the Hallé Orchestra.
+To improve his choral singing, Ainslie began studying voice with Sarita Stern at the University of Cape Town College of Music. He developed a taste for having his voice trained, and using his body in a new way to produce dramatic sound as an operatic soloist.
 
-Last season included Unulfo *Rodelinda* for the Teatro Real in Madrid with Ivor Bolton, Athamas *Semele* at Garsington with Jonathan Cohen, the title role *Joseph And His Brethren* at the London Handel Festival and concerts with The English Concert, the National Symphony Orchestra, Washington, D.C., and at Carnegie Hall.
+Ainslie studied finance at the University of Cape Town and began his career as a chartered accountant, but while on secondment in the UK, he finally decided to take his lifelong music training seriously. In 2005 he moved to London to study singing with Mark Tucker at the Royal College of Music, where he graduated with distinction.
 
-In 2017/18, he sings *Giulio Cesare* for English Touring Opera, Oberon at English National Opera, Ottone for the Grange Festival, and appears with Les Musiciens du Louvre and Mark Minkowski, and with Philharmonie Zuidnederland. Future engagements include returns to Opera de Lyon, the Grange Festival, as well as debuts at Semperoper Dresden and National Opera of Chile.
+His career accelerated rapidly, and his work attracted critical acclaim as well as recognition within his field. In 2007 he won the Michael Oliver Prize in the Handel Singing Competition at the London Handel Festival, and the next year was the first countertenor to win the Richard Tauber competition at the Wigmore Hall. In 2011 he won the Gianni Bergamo countertenor competition in Switzerland.
 
+Now considered a leading interpreter of his repertoire, he pursues an exciting international performance schedule of oratorios, operas and recitals.
+
+**PERFORMANCES**
+
+Ainslie first considered singing as a profession after performing the alto solos in Bach’s **Matthäus Passion** with the St George’s Singers in Cape Town. Since then, this work and Bach’s other major oratorios have been central in his singing life. Bach’s music has taken him around the world, with performances including the **Weihnachts Oratorium** with Vladimir Jurowski in Moscow, alto cantatas with Les Passions de l’Ame in Switzerland and Belgium, **Matthäus Passion** at the London Handel Festival with Laurence Cummings, **Magnificat** at the Wigmore Hall with Retrospect and Matthew Halls, the **Easter Oratorio** with the St George’s Singers in Cape Town, the **Mass in B Minor** with Tenet in New York City and cantatas with the Internationale Bachakadamie Stuttgart.
+
+Also central to his repertoire are Handel’s dramatic oratorios, in which Ainslie has enjoyed portraying lovers and heroes such as David in **Saul**, Didymus in **Theodora**, Hamor in **Jephtha**, Cyrus and Daniel in **Belshazzar**, Micah in **Samson**, Hercules in **The Choice of Hercules**, Solomon in **Solomon**, and Israelitish Man in **Judas Maccabaeus**. Ainslie regularly performs in Handel’s **Messiah**, and each year offers new opportunities to explore this rich alto role. Highlights include performances with the Philadelphia Orchestra, the London Handel Festival, St Thomas Church in New York City, the Houston Symphony Orchestra, Classical Opera at the Wigmore Hall, the Bournemouth Symphony Orchestra, and the Northern Sinfonia.
+
+Ainslie thrives as a chamber musician, collaborating in song recitals with a baroque orchestra, piano, or lute. He is a founding member of the song recital group Songsmiths, and has recently formed partnerships with lutenist Matthew Wadsworth and guitarist Peter Narun. He enjoys these new opportunities for performing songs from the romantic and contemporary eras as well as more traditional countertenor repertoire. He has performed recitals at the Wigmore Hall, and with Les Arts Florissants, Arcangelo, Les Passion de l’Ame, and The English Concert.
+
+Ainslie has sung his way from the Renaissance roots of opera, as Ottone in Monteverdi’s **l’Incoronazione di Poppea** (Glyndebourne and Drottningholm Palace Theatre), to world premieres on the cutting edge of contemporary composition, as Theseus / Messenger in Julian Anderson’s **Thebans** (ENO), Antonio in Andre Tchaikowsky’s **The Merchant of Venice** (Bregenz Festival), and Innocent 4 in Harrison Birtwistle’s **The Minotaur** (Royal Opera House).
+
+He has been thrilled to sing title roles in several rediscovered 18th century operas. These include the London modern premieres of Arne’s **Artaxerxes** at the Linbury Theatre of the Royal Opera House, and Handel’s **Poro** at the London Handel Festival, as well as the North American premiere of Handel’s **Amadigi** with Central City Opera in Colorado.
+
+His other opera appearances include Unulfo in **Rodelinda** and Helicon in **Caligula** at ENO, the title role in **Eliogabalo** with Gotham Chamber Opera in New York, Oberon in **A Midsummer Night’s Dream** and Voice of Apollo in **Death in Venice** at Opera North, Eustazio in **Rinaldo** at Glyndebourne, the title role in **Tamerlano** at the Göttingen Festival, Voice of Apollo in **Death in Venice** at Opera de Lyon, Arsace in **Partenope** at the Les Azuriales Festival, Ruggiero in **Alcina** with Latvian National Opera and Medoro in **Orlando** with Independent Opera.
+
+**METHOD**
+
+From Baroque to contemporary works, Ainslie seeks collaborations that strive to bring music to the stage in its highest form. He enjoys the sense of possibility in Baroque music, when all the musicians, breathing together, are equally responsible for the music’s vibrant expression. As a stage performer, he relishes the collaborative process of creating a character’s psychology in rehearsal, as well as the adventure of live performance.
+
+He continues to study with Mark Tucker, and has had lessons with Paul Farrington and Ryland Davies. He has sung in master classes with Michael Chance, Peter Harvey, Ashley Stafford and Sarah Walker.
+
+Ainslie practices movement training to ground his singing technique and increase physical expressiveness. He is naturally sporty, and in addition to studying yoga, Alexander Technique, and Feldenkrais, he enjoys surfing, snowboarding, climbing, barefoot running, and the occasional onstage cartwheel.
+
+Ainslie’s other activities include pottery, carpentry, meditation, and grilling his food over an open fire, and he is learning how to play the guitar.
+
+**THIS SEASON’S PERFORMANCES**
+
+This season, Ainslie returns to Opera North for **The Coronation of Poppea** in the role of Ottone, and to Opera de Lyon, singing Orfeo in Gluck’s **Orfeo ed Euridice**. In January 2015 he can be heard in a recital of English and German songs, including the Brahms viola songs and Vaughan Williams’s ‘Songs of Travel’ at the Wigmore Hall.
+
+He is grateful for the support of Independent Opera, the Richard Carne Trust and Classical Opera in the formative years of his career.
