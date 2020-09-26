@@ -38,55 +38,11 @@ A co-production with the Adam Micklewicz Institute as part of the Polska program
 
 The DVD of the performance captures the finely tuned characterizations with effective camerawork, and shows the stagecraft to its best advantage. It remains the only recording of the full work currently available, and should command the attention of anyone interested in contemporary opera and its societal relevance. In _A Musician Divided: André Tchaikowsky In His Own Words_, Pountney commented that after the ENO rejection he was once a part of the silence surrounding _The Merchant of Venice_, but now after its triumph at Bregenz he proclaims, "I am part of the noise."
 
-The opera made noise in Tchaikowsky's hometown when the Polish production opened in October 2014. The distinguished African-American baritone Lester Lynch assumed the role of Shylock originated by Adrian Eröd in Bregenz, introducing a racial element that added new complexity to the opera’s already top-
+The opera made noise in Tchaikowsky's hometown when the Polish production opened in October 2014. The distinguished African-American baritone [Lester Lynch](/scene/people/lester-lynch/) assumed the role of Shylock originated by Adrian Eröd in Bregenz, introducing a racial element that added new complexity to the opera's already top-loaded social and religious schism. Lynch was joined by [Lauren Michelle](/scene/people/lauren-michelle/), the young African-American soprano playing Shylock's daughter, when the production moved to the Welsh National Opera in 2016, where both made their company debuts. Previously Michelle had won the 2015 BBC Cardiff Singer of the World Competition and Lynch received rave review for his Shylock in Warsaw. They appeared when the company presented it for two performances in London at the Royal Opera House in July of the following year.
 
-loaded social and religious schism. Lynch was joined by Lauren Michelle, the
+Despite the noise, it hasn't been heard from since. The electrifying atonality of the first act makes perfect dramatic sense. Challenging music is draped in great theater. Any semblance of harmony would undermine the unrelenting distaste Antonio feels for the Jewish Shylock and the hate that festers at the money-lender's core. Antonio's suppressed desire for Bassanio, clearly the source of his melancholy, is firmly established in the Bregenz production. Antonio will risk pledging a potentially fatal pound of flesh, Shylock's demand if he defaults on the loan of 3000 ducats, so that Bassanio will have the means to win the hand of the heiress Portia.
 
-young African-American soprano playing Shylock’s daughter when the production
-
-moved to the Welsh National Opera in 2016, where both made their company
-
-debuts. Previously Michelle had won the 2015 BBC Cardiff Singer of the World
-
-Competition and Lynch received rave review for his Shylock in Warsaw. They
-
-appeared when the company presented it for two performances in London at the
-
-Royal Opera House in July of the following year.
-
-Despite the noise, it hasn’t been heard from since.
-
-The electrifying atonality of the first act makes perfect dramatic sense.
-
-Challenging music is draped in great theater. Any semblance of harmony would
-
-undermine the unrelenting distaste Antonio feels for the Jewish Shylock and the
-
-hate that festers at the money-lender’s core. Antonio’s suppressed desire for
-
-Bassanio, clearly the source of his melancholy, is firmly established in the
-
-Bregenz production. Antonio will risk pledging a potentially fatal pound of flesh,
-
-Shylock’s demand if he defaults on the loan of 3000 ducats, so that Bassanio will
-
-have the means to win the hand of the heiress Portia.
-
-Tchaikowsky’s assignment of vocal types to these characters shows his thorough
-
-understanding of their singular sounds and the theatricality of their aural
-
-interaction. Counter-tenor Christoper Ainslie as Bregenz’s Antonio produces
-
-darkly shaded tones that are crisp and agile as he maneuvers a role suited to the
-
-delicacy and vocal heft of his singing. There are moments when one could come
-
-away thinking the opera’s central character is the depressive of Venice. Charles
-
-Workman’s assured and penetrating tenor projects Bassanio’s jovial self-
-
-possession and a fawning gratitude that feels more like selfish relief. Eröd’s
+Tchaikowsky's assignment of vocal types to these characters shows his thorough understanding of their singular sounds and the theatricality of their aural interaction. Counter-tenor Christoper Ainslie as Bregenz's Antonio produces darkly shaded tones that are crisp and agile as he maneuvers a role suited to the delicacy and vocal heft of his singing. There are moments when one could come away thinking the opera's central character is the depressive of Venice. Charles Workman's assured and penetrating tenor projects Bassanio’s jovial self-possession and a fawning gratitude that feels more like selfish relief. Eröd’s
 
 baritone retains its grandeur and polish even as Shylock contorts it into vocal fits
 
