@@ -3,11 +3,14 @@ discipline = "Baritone"
 draft = true
 primary_image = ""
 primary_image_credit = ""
-related_companies = []
+related_companies = ["scene/companies/semperoper-dresden.md", "scene/companies/oper-frankfurt.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/opra-national-de-paris.md", "scene/companies/teatro-alla-scala.md", "scene/companies/houston-grand-opera.md", "scene/companies/salzburg-festival.md", "scene/companies/opernhaus-zurich.md"]
 slug = "adrian-erod"
-social_media = []
 title = "Adrian Eröd"
 website = "http://www.adrianeroed.com/?lang=en"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/AdrianEroed/"
 
 +++
 The Austrian Baritone Adrian Eröd is a great favorite of public and press at his base, the Vienna State Opera, with his tremendous diversity, whether as Figaro in Rossini’s _Barber of Seville_, as Valentin in Gounod’s _Faust_, as Britten’s _Billy Budd_ or as Lescaut in Massenet’s _Manon_.
