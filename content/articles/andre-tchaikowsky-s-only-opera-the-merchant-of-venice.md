@@ -24,47 +24,21 @@ Such is the frame work for the brilliantly constructed _The Merchant of Venice_,
 
 Born Robert Andrzej Krautnammer in 1935 into a Jewish family in Warsaw, Tchaikowsky began playing the piano at age four under the tutelage of his mother, herself an amateur pianist. At the onset of the Second World War he and his family were moved to the Warsaw Ghetto from which he escaped with forged papers under the assumed name of Andrej Czajkowski, later changed to Tchaikowsky. Subsequently he was released from the transit camp at Pruszków as a regular Pol. His mother was rounded up in the Warsaw Ghetto and sent to Treblinka, where she died.
 
-Known primarily as a pianist in the late 50's, Tchaikowsky toured internationally under the aegis of legendary impresario Sol Hurok. He recorded works by Bach, Mozart and Chopin among others, for RCA Victor and Columbia EMI. His abiding interest in composition was encouraged by consultation with Nadia Boulanger at Fountainbleu. In 1957, during his time with the esteemed instructor, he gave a series of recitals in Paris performing the complete piano works of Ravel to commemorate the 20th anniversary of the French composer's death. 
+Known primarily as a pianist in the late 50's, Tchaikowsky toured internationally under the aegis of legendary impresario Sol Hurok. He recorded works by Bach, Mozart and Chopin among others, for RCA Victor and Columbia EMI. His abiding interest in composition was encouraged by consultation with Nadia Boulanger at Fountainbleu. In 1957, during his time with the esteemed instructor, he gave a series of recitals in Paris performing the complete piano works of Ravel to commemorate the 20th anniversary of the French composer's death.
 
-Throughout his career his dedication to Shakespeare was unwavering. It was said that he could recite extended passages from Shakespeare's work with eloquence often surpassing that of cultivated speakers in his England, his adopted homeland. 
+Throughout his career his dedication to Shakespeare was unwavering. It was said that he could recite extended passages from Shakespeare's work with eloquence often surpassing that of cultivated speakers in his England, his adopted homeland.
 
 Tchaikowsky's output as a composer was particularly impressive considering that he composed during his work with Boulanger and while performing. Notable among his compositions are the Piano Concerto No. 2, _Inventions for Piano_ _,_and String Quartet No. 1. In addition to _The Merchant of Venice_ his works related to Shakespeare included settings of seven Sonnets for voice, songs for _The Tempest_, and incidental music for _Hamlet_. He recorded several of his own compositions for the EMI label.
 
 Theater director John O'Brien wrote the libretto for _The Merchant of Venice_, adhering closely to Shakespeare's text. The opera was composed between 1968 and l982 but was mostly complete by 1978. Tchaikowsky had been corresponding with Lord Harewood, then director of the English National Opera, and a play-through of the first two acts was arranged. Harwood attended along with ENO artistic director David Pountney, who would eventually move to Austria's Bregenz Festival, and Sir Mark Elder, director of the Hallé Orchestra in Manchester. In March 1982, Harewood declined to produce the opera, a rejection that was followed by Tchaikowsky's death from colon cancer three months later.
 
-The opera languished unperformed until Pountney, faced with replacing a delayed commission at Bregenz, scheduled it for the 2013 festival. It was a last-minute affair that nonetheless was sharply directed by Keith Warner, who placed the work in the Edwardian era and cast it with a group of superb singers who were ideally suited to Tchaikowsky’s dense and complicated score. Sets by Ashley Martin-Davis evoked the secretive world of finance, giving way to surroundings both stark and tranquil and bringing visceral excitement and to the work’s vaulting moods.
+The opera languished unperformed until Pountney, faced with replacing a delayed commission at Bregenz, scheduled it for the 2013 festival. It was a last-minute affair that nonetheless was sharply directed by Keith Warner, who placed the work in the Edwardian era and cast it with a group of superb singers who were ideally suited to Tchaikowsky’s dense and complicated score. Sets by Ashley Martin-Davis evoked the secretive world of finance, giving way to surroundings both stark and tranquil and bringing visceral excitement and to the work’s vaulting moods. Davis's costumes, bowing to Edwardian formality offered dashes of color and subdued wit. Erik Nielsen conducted the Vienna Symphony in an expressive reading that realizes the full power of the composition. 
 
-Davis's costumes, bowing to Edwardian formality offered dashes of color and subdued wit. Erik Nielsen conducted the Vienna Symphony in an expressive reading that realizes the full power of the composition. A co-production with the Adam Micklewicz Institute as part of the Polska program and Teatr Wielki, Warsaw and the Welsh National Opera, the Bregenz production was recorded on DVD by Unitel Classica. It was released by EuroArts Music
+A co-production with the Adam Micklewicz Institute as part of the Polska program and Teatr Wielki, Warsaw and the Welsh National Opera, the Bregenz production was recorded on DVD by Unitel Classica. It was released by EuroArts Music (#2072708), with an illuminating documentary that tracks the details of production from costume fittings and set design, down to the harvesting of a tree for use in the epilogue. Exploring the evolution of the principal sings is particularly fascinating.
 
-(#2072708) with an illuminating documentary that tracks the details of production
+The DVD of the performance captures the finely tuned characterizations with effective camerawork, and shows the stagecraft to its best advantage. It remains the only recording of the full work currently available, and should command the attention of anyone interested in contemporary opera and its societal relevance. In _A Musician Divided: André Tchaikowsky In His Own Words_, Pountney commented that after the ENO rejection he was once a part of the silence surrounding _The Merchant of Venice_, but now after its triumph at Bregenz he proclaims, "I am part of the noise."
 
-from costume fittings and set design down to the harvesting of a tree for use in the
-
-epilogue. Exploring the evolution of the principal sings is particularly fascinating.
-
-The DVD of the performance captures the finely tuned characterizations with
-
-effective camerawork and shows the stagecraft to its best advantage. It remains
-
-the only recording of the full work currently available and should command the
-
-attention of anyone interested in contemporary opera and its societal relevance.
-
-Pountney commented in A Musician Divided: André Tchaikowsky In His Own
-
-Words that after the ENO rejection he was once a part of the silence surrounding
-
-The Merchant of Venice but now after its triumph at Bregenz he proclaims, “I am
-
-part of the noise.”
-
-The opera made noise in Tchaikowsky’s home town when the Polish production
-
-opened in October 2014. The distinguished African-American baritone Lester
-
-Lynch assumed the role of Shylock originated by Adrian Eröd in Bregenz,
-
-introducing a racial element that added new complexity to the opera’s already top-
+The opera made noise in Tchaikowsky's hometown when the Polish production opened in October 2014. The distinguished African-American baritone Lester Lynch assumed the role of Shylock originated by Adrian Eröd in Bregenz, introducing a racial element that added new complexity to the opera’s already top-
 
 loaded social and religious schism. Lynch was joined by Lauren Michelle, the
 
