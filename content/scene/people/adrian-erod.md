@@ -1,7 +1,6 @@
 +++
 discipline = "Baritone"
-draft = true
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1601147897/media/2020/09/AdrianEroed_t5gm3u.jpg"
 primary_image_credit = ""
 related_companies = ["scene/companies/semperoper-dresden.md", "scene/companies/oper-frankfurt.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/opra-national-de-paris.md", "scene/companies/teatro-alla-scala.md", "scene/companies/houston-grand-opera.md", "scene/companies/salzburg-festival.md", "scene/companies/opernhaus-zurich.md"]
 slug = "adrian-erod"
