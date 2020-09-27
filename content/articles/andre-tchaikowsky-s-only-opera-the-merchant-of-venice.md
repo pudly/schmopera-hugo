@@ -11,7 +11,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1601221992/m
 primary_image_credit = "Christoper Ainsley as Antonio sitting with Sigmund Freud in the Bregenz Festival production of André Tchaikowsky’s opera, The Merchant of Venice. Photo: EuroArts Music International GmbH."
 related_articles = []
 related_companies = []
-related_people = ["scene/people/lauren-michelle.md", "scene/people/lester-lynch.md", "scene/people/christopher-ainslie.md", "scene/people/jason-bridges.md", "scene/people/kathryn-lewek.md", "scene/people/verena-gunz.md", "scene/people/magdalena-anna-hofmann.md", "scene/people/david-stout.md"]
+related_people = ["scene/people/adrian-erod.md", "scene/people/lauren-michelle.md", "scene/people/lester-lynch.md", "scene/people/christopher-ainslie.md", "scene/people/jason-bridges.md", "scene/people/kathryn-lewek.md", "scene/people/verena-gunz.md", "scene/people/magdalena-anna-hofmann.md", "scene/people/david-stout.md"]
 short_description = "Throughout his career his dedication to Shakespeare was unwavering. It was said that he could recite extended passages from Shakespeare's work with eloquence often surpassing that of cultivated speakers in his England, his adopted homeland."
 slug = "andre-tchaikowskys-only-opera-the-merchant-of-venice"
 title = "André Tchaikowsky's only opera: The Merchant of Venice"
@@ -34,7 +34,7 @@ Known primarily as a pianist in the late 50's, Tchaikowsky toured internationall
 
 Throughout his career his dedication to Shakespeare was unwavering. It was said that he could recite extended passages from Shakespeare's work with eloquence often surpassing that of cultivated speakers in his England, his adopted homeland.
 
-Tchaikowsky's output as a composer was particularly impressive considering that he composed during his work with Boulanger and while performing. Notable among his compositions are the Piano Concerto No. 2, _Inventions for Piano_ _,_and String Quartet No. 1. In addition to _The Merchant of Venice_ his works related to Shakespeare included settings of seven Sonnets for voice, songs for _The Tempest_, and incidental music for _Hamlet_. He recorded several of his own compositions for the EMI label.
+Tchaikowsky's output as a composer was particularly impressive considering that he composed during his work with Boulanger and while performing. Notable among his compositions are the Piano Concerto No. 2, _Inventions for Piano_, and String Quartet No. 1. In addition to _The Merchant of Venice_ his works related to Shakespeare included settings of seven Sonnets for voice, songs for _The Tempest_, and incidental music for _Hamlet_. He recorded several of his own compositions for the EMI label.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1601222603/media/2020/09/MoVLesterLynchLaurenMichelleWNO-pc-JohanPersson_njze7f.jpg){{% /md %}}
 
