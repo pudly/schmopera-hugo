@@ -1,9 +1,8 @@
 +++
 author = ["authors/john-hohmann.md"]
 categories = "Review"
-date = 2020-09-26T04:00:00Z
+date = 2020-09-27T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
@@ -42,7 +41,7 @@ Tchaikowsky's output as a composer was particularly impressive considering that 
 
 </figure>
 
-Theater director John O'Brien wrote the libretto for _The Merchant of Venice_, adhering closely to Shakespeare's text. The opera was composed between 1968 and l982 but was mostly complete by 1978. Tchaikowsky had been corresponding with Lord Harewood, then director of the English National Opera, and a play-through of the first two acts was arranged. Harwood attended along with ENO artistic director David Pountney, who would eventually move to Austria's Bregenz Festival, and Sir Mark Elder, director of the Hallé Orchestra in Manchester. In March 1982, Harewood declined to produce the opera, a rejection that was followed by Tchaikowsky's death from colon cancer three months later.
+Theater director John O'Brien wrote the libretto for _The Merchant of Venice_, adhering closely to Shakespeare's text. The opera was composed between 1968 and l982 but was mostly complete by 1978. Tchaikowsky had been corresponding with Lord Harewood, then director of the [English National Opera](/scene/companies/english-national-opera/), and a play-through of the first two acts was arranged. Harwood attended along with ENO artistic director David Pountney, who would eventually move to Austria's [Bregenz Festival](/scene/companies/bregenz-festival/), and Sir Mark Elder, director of the Hallé Orchestra in Manchester. In March 1982, Harewood declined to produce the opera, a rejection that was followed by Tchaikowsky's death from colon cancer three months later.
 
 > It remains the only recording of the full work currently available, and should command the attention of anyone interested in contemporary opera and its societal relevance.
 
@@ -50,7 +49,7 @@ The opera languished unperformed until Pountney, faced with replacing a delayed 
 
 > Despite the noise, it hasn't been heard from since.
 
-A co-production with the Adam Micklewicz Institute as part of the Polska program and Teatr Wielki, Warsaw and the Welsh National Opera, the Bregenz production was recorded on DVD by Unitel Classica. It was released by EuroArts Music (#2072708), with an illuminating documentary that tracks the details of production from costume fittings and set design, down to the harvesting of a tree for use in the epilogue. Exploring the evolution of the principal sings is particularly fascinating.
+A co-production with the Adam Micklewicz Institute as part of the Polska program and Teatr Wielki, Warsaw and the [Welsh National Opera](/scene/companies/welsh-national-opera/), the Bregenz production was recorded on DVD by Unitel Classica. It was released by EuroArts Music (#2072708), with an illuminating documentary that tracks the details of production from costume fittings and set design, down to the harvesting of a tree for use in the epilogue. Exploring the evolution of the principal sings is particularly fascinating.
 
 The DVD of the performance captures the finely tuned characterizations with effective camerawork, and shows the stagecraft to its best advantage. It remains the only recording of the full work currently available, and should command the attention of anyone interested in contemporary opera and its societal relevance. In _A Musician Divided: André Tchaikowsky In His Own Words_, Pountney commented that after the ENO rejection he was once a part of the silence surrounding _The Merchant of Venice_, but now after its triumph at Bregenz he proclaims, "I am part of the noise."
 
