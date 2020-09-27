@@ -9,7 +9,7 @@ primary_image_credit = "Photo: Self Limited Photography."
 publishDate = "2017-06-21T21:54:00-06:00"
 related_articles = ["articles/spotlight-on-stephanie-tritchew.md", "articles/spotlight-on-rihab-chaieb.md"]
 related_people = ["scene/people/lyndsay-promane.md"]
-short_description = "\"Much like Oprah Winfrey, I';m not a fan of surprises. Unfortunately, I chose the wrong career and the wrong planet since my favourite performances came my way when I was not expecting them at all. Saying \"yes\" is powerful, and it's something I'm learning to do more often.\""
+short_description = "\"Much like Oprah Winfrey, I'm not a fan of surprises. Unfortunately, I chose the wrong career and the wrong planet since my favourite performances came my way when I was not expecting them at all. Saying \"yes\" is powerful, and it's something I'm learning to do more often.\""
 slug = "spotlight-on-lyndsay-promane"
 title = "Spotlight on: Lyndsay Promane"
 
