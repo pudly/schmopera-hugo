@@ -24,9 +24,9 @@ Such is the frame work for the brilliantly constructed _The Merchant of Venice_,
 
 Born Robert Andrzej Krautnammer in 1935 into a Jewish family in Warsaw, Tchaikowsky began playing the piano at age four under the tutelage of his mother, herself an amateur pianist. At the onset of the Second World War he and his family were moved to the Warsaw Ghetto from which he escaped with forged papers under the assumed name of Andrej Czajkowski, later changed to Tchaikowsky. Subsequently he was released from the transit camp at Pruszków as a regular Pol. His mother was rounded up in the Warsaw Ghetto and sent to Treblinka, where she died.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1601222550/media/2020/09/MoVTchaikowsky_vvbi5y.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Pianist André Tchaikowsky, the composer of the opera The Merchant of Venice, which had its world premiere at the Bregenz Festival in Austria in 2013. Photo: courtesy of the Tchaikowsky Estate.</figcaption>
 
 </figure>
 
@@ -36,9 +36,9 @@ Throughout his career his dedication to Shakespeare was unwavering. It was said 
 
 Tchaikowsky's output as a composer was particularly impressive considering that he composed during his work with Boulanger and while performing. Notable among his compositions are the Piano Concerto No. 2, _Inventions for Piano_ _,_and String Quartet No. 1. In addition to _The Merchant of Venice_ his works related to Shakespeare included settings of seven Sonnets for voice, songs for _The Tempest_, and incidental music for _Hamlet_. He recorded several of his own compositions for the EMI label.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1601222603/media/2020/09/MoVLesterLynchLaurenMichelleWNO-pc-JohanPersson_njze7f.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Lester Lynch as Shylock and Lauren Michelle as Jessica, his daughter in the Welsh National Opera production of André Tchaikowsky’s The Merchant of Venice. Photo: Welsh National Opera/Johan Persson.</figcaption>
 
 </figure>
 
@@ -52,9 +52,9 @@ The DVD of the performance captures the finely tuned characterizations with effe
 
 The opera made noise in Tchaikowsky's hometown when the Polish production opened in October 2014. The distinguished African-American baritone [Lester Lynch](/scene/people/lester-lynch/) assumed the role of Shylock originated by [Adrian Eröd](/scene/people/adrian-erod/) in Bregenz, introducing a racial element that added new complexity to the opera's already top-loaded social and religious schism. Lynch was joined by [Lauren Michelle](/scene/people/lauren-michelle/), the young African-American soprano playing Shylock's daughter, when the production moved to the Welsh National Opera in 2016, where both made their company debuts. Previously Michelle had won the 2015 BBC Cardiff Singer of the World Competition and Lynch received rave review for his Shylock in Warsaw. They appeared when the company presented it for two performances in London at the Royal Opera House in July of the following year.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1601222693/media/2020/09/MoVAdrianErod_irzvd4.png){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Adrian Eröd who originated the role of Shylock in the Bregenz Festival production of André Tchaikowsky’s The Merchant of Venice. Photo: Bregenzer Festspiele.</figcaption>
 
 </figure>
 
@@ -64,13 +64,13 @@ The electrifying atonality of the first act makes perfect dramatic sense. Challe
 
 Tchaikowsky's assignment of vocal types to these characters shows his thorough understanding of their singular sounds and the theatricality of their aural interaction. Counter-tenor [Christopher Ainslie](/scene/people/christopher-ainslie/) as Bregenz's Antonio produces darkly shaded tones that are crisp and agile as he maneuvers a role suited to the delicacy and vocal heft of his singing. There are moments when one could come away thinking the opera's central character is the depressive of Venice. Charles Workman's assured and penetrating tenor projects Bassanio’s jovial self-possession and a fawning gratitude that feels more like selfish relief. Eröd's baritone retains its grandeur and polish even as Shylock contorts it into vocal fits of rage and resentment. Shylock, as the world knows, is not likable. Few of the characters in the opera are but Eröd makes Shylock at least understandable. His extraordinary diction is a gift to O’Brien's potent libretto.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+Fleeting moments of languid romance appear later in the act between Jessica, Shylock’s daughter and her Gentile lover, Lorenzo. Surrealistic trappings temper the romance with Jessica atop a wall of safety deposit boxes and Lorenzo below. Their open umbrellas touchingly meet and when closed join handles. This mildly suggestive gesture appears to facilitate the transfer to Lorenzo of a bag of ducats and jewels. The atmosphere turns tense as they run off together. Rage consumes the setting when Shylock discovers that Jessica has escaped his clutches with a Gentile and, perhaps even worse, with the ducats and jewels. [Kathryn Lewek](/scene/people/kathryn-lewek/)’s lovely and formidable coloratura is attractively paired with the supple tenor of Jason Bridges projecting a rhapsodic if guarded optimism with their swaying body language.
 
-<figcaption></figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1601222759/media/2020/09/MoV3_tilhbq.jpg){{% /md %}}
+
+<figcaption>Kathryn Lewes as Jessica, Shylock’s daughter and Jason Bridges as Lorenzo, her Gentile lover in the Bregenz Festival production of André Tchaikowsky’s The Merchant of Venice. Photo: EuroArts Music International GmbH.</figcaption>
 
 </figure>
-
-Fleeting moments of languid romance appear later in the act between Jessica, Shylock’s daughter and her Gentile lover, Lorenzo. Surrealistic trappings temper the romance with Jessica atop a wall of safety deposit boxes and Lorenzo below. Their open umbrellas touchingly meet and when closed join handles. This mildly suggestive gesture appears to facilitate the transfer to Lorenzo of a bag of ducats and jewels. The atmosphere turns tense as they run off together. Rage consumes the setting when Shylock discovers that Jessica has escaped his clutches with a Gentile and, perhaps even worse, with the ducats and jewels. [Kathryn Lewek](/scene/people/kathryn-lewek/)’s lovely and formidable coloratura is attractively paired with the supple tenor of Jason Bridges projecting a rhapsodic if guarded optimism with their swaying body language.
 
 Belmont is a heady place where Portia and her maid/friend Nerissa lounge on the riverbank contemplating suitors and marriage at the beginning of the second act. They await the arrival of a series of princes who, in order to win her hand and fortune, must negotiate a maze and select among three vaults, gold, silver and lead, the one which contains Portia's portrait. [Magdalena Anna Hoffman](/scene/people/magdalena-anna-hoffman/) is a marvel as Portia. An elegant low ranged soprano, Hoffman’s hauteur switches to cunning when she transforms from pampered heiress to shrewd lawyer in the third act. But before all of that she and the energetic mezzo-soprano [Verena Gunz](/scene/people/verena-gunz/) as Nerissa make a refreshingly giddy pair.
 
@@ -78,9 +78,9 @@ The first to arrive at Belmont is the opulent and acrobatic Prince of Morocco, w
 
 All is joyful but not for long. News arrives that Antonio ships may be lost a sea thus causing him to default on Shylock's loan. Fearing for his friend's life, Antonio rushes back to Venice and the start of the unnerving third act in the courtroom of the Duke of Venice, a scene of high musical drama.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1601222737/media/2020/09/MoV2_iekg7s.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Adrian Eröd (far left) as Shylock with Magdalena Anna Hoffman as Portia disguised as a lawyer extending her hand to Richard Angas (center) as the Duke of Venice and Christopher Ainslie (far right) as Antonio in the Bregenz Festival production of André Tchaikowsky’s The Merchant of Venice. Photo: EuroArts Music International GmbH.</figcaption>
 
 </figure>
 
@@ -90,9 +90,9 @@ The outcome is well known but the operatic opportunities of Tchaikowsky's compos
 
 Under a full moon at Belmont the epilogue unfolds. Mozart, rather than Shakespeare, comes to mind with "Ah, tutti contenting saremo così" from the closing moments of _Le nozze di Figaro_. The woman, alluringly clad in short night shirts, receive their husbands with some disdain. The couples resolve the issue of the missing wedding rings as truth and insight permeate the night. Antonio appears and they are all glad to see him but they wander off together, followed by Jessica and Lorenzo who have charted their course, leaving him alone. Freud and his chaise lounge appear. Antonio sits, then stands and stares at the moon in silence.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1601222749/media/2020/09/MoV1_vemrw4.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Charles Workman as Bassanio and Magdalena Anna Hoffman as Portia with Christopher Ainslie as Antonio in the background in the Bregenz Festival production of André Tchaikowsky’s The Merchant of Venice. Photo: EuroArts Music International GmbH.</figcaption>
 
 </figure>
 
