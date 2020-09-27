@@ -96,6 +96,6 @@ Under a full moon at Belmont the epilogue unfolds. Mozart, rather than Shakespea
 
 </figure>
 
-This is a beautifully sad end to the opera, but hopefully not for it. Verdi, for whom Shakespeare was a frequent source of inspiration, developed an enduing musical means of conveying his stories and explorations of human nature. Tchaikowsky does no less. He examines the most complex aspects of humanity in a musical context that evokes the tumult of our world. We can only guess what operas might have followed, had his life not been cut short. Shakespeare’s more enigmatic and unsympathetic characters might have attracted him. But what we have here is engrossing theater and the very essence of contemporary music.
+This is a beautifully sad end to the opera, but hopefully not for it. Verdi, for whom Shakespeare was a frequent source of inspiration, developed an enduing musical means of conveying his stories and explorations of human nature. Tchaikowsky does no less. He examines the most complex aspects of humanity in a musical context that evokes the tumult of our world. We can only guess what operas might have followed, had his life not been cut short. Shakespeare's more enigmatic and unsympathetic characters might have attracted him. But what we have here is engrossing theater and the very essence of contemporary music.
 
-_The Merchant of Venice_ has made impressive noise in Europe. It’s time for it to rattle the operatic cage and make some noise over here.
+_The Merchant of Venice_ has made impressive noise in Europe. It's time for it to rattle the operatic cage and make some noise over here.
