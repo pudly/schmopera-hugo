@@ -44,6 +44,8 @@ Tchaikowsky's output as a composer was particularly impressive considering that 
 
 Theater director John O'Brien wrote the libretto for _The Merchant of Venice_, adhering closely to Shakespeare's text. The opera was composed between 1968 and l982 but was mostly complete by 1978. Tchaikowsky had been corresponding with Lord Harewood, then director of the English National Opera, and a play-through of the first two acts was arranged. Harwood attended along with ENO artistic director David Pountney, who would eventually move to Austria's Bregenz Festival, and Sir Mark Elder, director of the Hallé Orchestra in Manchester. In March 1982, Harewood declined to produce the opera, a rejection that was followed by Tchaikowsky's death from colon cancer three months later.
 
+> It remains the only recording of the full work currently available, and should command the attention of anyone interested in contemporary opera and its societal relevance.
+
 The opera languished unperformed until Pountney, faced with replacing a delayed commission at Bregenz, scheduled it for the 2013 festival. It was a last-minute affair that nonetheless was sharply directed by Keith Warner, who placed the work in the Edwardian era and cast it with a group of superb singers who were ideally suited to Tchaikowsky’s dense and complicated score. Sets by Ashley Martin-Davis evoked the secretive world of finance, giving way to surroundings both stark and tranquil and bringing visceral excitement and to the work’s vaulting moods. Davis's costumes, bowing to Edwardian formality offered dashes of color and subdued wit. Erik Nielsen conducted the Vienna Symphony in an expressive reading that realizes the full power of the composition.
 
 > Despite the noise, it hasn't been heard from since.
@@ -89,6 +91,8 @@ All is joyful but not for long. News arrives that Antonio ships may be lost a se
 </figure>
 
 Antonio is grim and resigned. Bassanio pleads that Antonio can repay the debt since his ships have arrived safely and offers to triple the payment now that he's flush with Portia's fortune. Shylock rants and states his case proclaiming with demented logic that it is his right to collect Antonio's pound of flesh because the payment is late. Even the Duke cannot dissuade him. Antonio prepares to die, Shylock produces his scale and scalpel and the disguised Portia finds the loophole and requests Bassanio's wedding ring as payment for her services. Narissa, disguised as her clerk, follows suit.
+
+> It's time for it to rattle the operatic cage and make some noise over here.
 
 The outcome is well known, but the operatic opportunities of Tchaikowsky's composition are not. The fast pace in the courtroom is genuinely thrilling. The singers individually and as an ensemble create overwhelming tension and catharsis through music that is spectacularly abstract.
 
