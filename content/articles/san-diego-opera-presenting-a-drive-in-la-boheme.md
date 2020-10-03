@@ -14,7 +14,7 @@ related_companies = ["scene/companies/san-diego-opera.md"]
 related_people = ["scene/people/joshua-guerrero.md", "scene/people/angel-blue.md"]
 short_description = "“It's going to be like a torpedo of Mimì and Rodolfo's emotional trajectory. There's no pause to reflect. It's going to go straight through from the moment they meet until the end. As a director that's very exciting. It makes us shine a light on some of the emotional aspects that sometimes get glossed over,\" she adds. "
 slug = "san-diego-opera-presenting-a-drive-in-la-boheme"
-title = "San Diego Opera presenting a drive-in La bohème"
+title = "San Diego Opera's drive-in La bohème"
 youtube_url = ""
 
 +++
