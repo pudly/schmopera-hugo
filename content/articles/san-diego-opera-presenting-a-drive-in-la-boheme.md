@@ -28,7 +28,7 @@ youtube_url = ""
 
 </figure>
 
-"Because of the parameters we have set because of COVID-19, this _La bohème_ will be different. We have pared it down to its bare bones," says stage director Keturah Stickann, whose work has been seen in opera houses across the United States, Canada, Chile, Japan, France, Germany, Hungary, and Australia.
+"Because of the parameters we have set because of COVID-19, this _La bohème_ will be different. We have pared it down to its bare bones," says stage director [Keturah Stickann](/scene/people/keturah-stickann/), whose work has been seen in opera houses across the United States, Canada, Chile, Japan, France, Germany, Hungary, and Australia.
 
 The duration of the production will be 90 minutes, with no intermissions, no chorus, and a smaller orchestra. There will be a 120-square-foot perimeter for the singers, who will be required to be 15-feet away from the person they are singing to. Those restrictions can remove the physical connection – Rodolfo warming up Mimi's hand - and sensation that the audience and singers usually experience, says Stickann. It is, however, an opportunity to pull the piece apart "in a different way, to get to know it more deeply, to see what it means to be putting it in someone's memory." She is staging the story in the future, from Rodolfo's recollection.
 
@@ -42,7 +42,7 @@ The duration of the production will be 90 minutes, with no intermissions, no cho
 
 > "When it's live and in person, there’s a connection."
 
-"It's going to be like a torpedo of Mimì and Rodolfo's emotional trajectory. There's no pause to reflect. It's going to go straight through from the moment they meet until the end. As a director that's very exciting. It makes us shine a light on some of the emotional aspects that sometimes get glossed over," she adds. 
+"It's going to be like a torpedo of Mimì and Rodolfo's emotional trajectory. There's no pause to reflect. It's going to go straight through from the moment they meet until the end. As a director that's very exciting. It makes us shine a light on some of the emotional aspects that sometimes get glossed over," she adds.
 
 As a drive-in, the atmosphere will be very different from the traditional opera house. People will listen through the FM transmitter in their car and there will be two video screens erected on either side of the stage for close-ups and subtitles.
 
