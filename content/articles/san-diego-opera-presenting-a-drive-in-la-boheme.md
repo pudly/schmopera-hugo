@@ -11,70 +11,22 @@ primary_image = ""
 primary_image_credit = ""
 related_articles = ["articles/aging-magician.md", "articles/talking-with-singers-stephen-costello.md", "articles/talking-with-singers-frederica-von-stade.md"]
 related_companies = ["scene/companies/san-diego-opera.md"]
-related_people = []
+related_people = ["scene/people/joshua-guerrero.md", "scene/people/angel-blue.md"]
 short_description = "short"
 slug = "san-diego-opera-presenting-a-drive-in-la-boheme"
 title = "San Diego Opera presenting a drive-in La bohème"
 youtube_url = ""
 
 +++
-“I’m really grateful that San Diego Opera has had the courage to move forward with this,” says
+"I'm really grateful that San Diego Opera has had the courage to move forward with this," says tenor [Joshua Guerrero](/autobiographical-recitals-joshua-guerrero-in-the-amphitheatre/) about the upcoming presentation of _La bohème_, opening October 24, with additional performances October 27, 30, and November 1, 2020. This production of Puccini's opera will stand out for many reasons, not least for its star singers, [Angel Joy Blue](/scene/people/angel-blue/), as Mimì, and Joshua Guerrero, as Rodolfo, but also because it will be presented in a parking lot, as a drive-in.
 
-tenor Joshua Guerrero about the upcoming presentation of La Boheme, opening October 24,
+"I believe wholeheartedly that as a community, this is what people need. People need an excuse to go out, people need again some sort of normalcy in their life. Even if we can't get back to the theater, at least we’re paying homage to it by way of performance and while it will be in a car and outside, people will get that sensation and that connection that they were longing for," Guerrero says.
 
-with additional performances October 27, 30, and November 1, 2020. This production of
+"Because of the parameters we have set because of COVID-19, this _La bohème_ will be different. We have pared it down to its bare bones," says stage director Keturah Stickann, whose work has been seen in opera houses across the United States, Canada, Chile, Japan, France, Germany, Hungary, and Australia.
 
-Puccini’s opera will stand out for many reasons, not least for its star singers, Angel Joy Blue, as
+The duration of the production will be 90 minutes, with no intermissions, no chorus, and a smaller orchestra. There will be a 120-square-foot perimeter for the singers, who will be required to be 15-feet away from the person they are singing to. Those restrictions can remove the physical connection – Rodolfo warming up Mimi's hand - and sensation that the audience and singers usually experience, says Stickann. It is, however, an opportunity to pull the piece apart "in a different way, to get to know it more deeply, to see what it means to be putting it in someone's memory." She is staging the story in the future, from Rodolfo's recollection.
 
-Mimi, and Joshua Guerrero, as Rodolfo, but also because it will be presented in a parking lot, as
-
-a drive-in.
-
-“I believe wholeheartedly that as a community, this is what people need. People need an
-
-excuse to go out, people need again some sort of normalcy in their life. Even if we can’t get
-
-back to the theater, at least we’re paying homage to it by way of performance and while it will
-
-be in a car and outside, people will get that sensation and that connection that they were
-
-longing for,” Guerrero says.
-
-“Because of the parameters we have set because of COVID-19, this La Boheme will be different.
-
-We have pared it down to its bare bones,” says stage director Keturah Stickann, whose work
-
-has been seen in opera houses across the United States, Canada, Chile, Japan, France,
-
-Germany, Hungary, and Australia.
-
-The duration of the production will be 90 minutes, with no intermissions, no chorus, and a
-
-smaller orchestra. There will be a 120 square foot perimeter for the singers, who will be
-
-required to be 15-feet away from the person they are singing to. Those restrictions can remove
-
-the physical connection – Rodolfo warming up Mimi’s hand - and sensation that the audience
-
-and singers usually experience, says Stickann. It is however an opportunity to pull the piece
-
-apart “in a different way, to get to know it more deeply, to see what it means to be putting it in
-
-someone’s memory.” She is staging the story in the future, from Rodolfo’s recollection.
-
-“The interesting thing about memory is that we can feel it, we can emotionally invest ourselves
-
-in it, and we can dive into the way the sounds and sights affected us. All these things can
-
-become real for us. But the only thing that we can’t do with memory is physically touch it,” she
-
-says. “We’re going to be experiencing that longing that Rodolfo is experiencing. We’re going to
-
-want Mimi and Rodolfo to touch. That desire is going to be in every audience member
-
-watching. But the fact is that they truly can’t because she no longer exists. I think it’s going to
-
-be a much more multi-layered La Boheme.”
+"The interesting thing about memory is that we can feel it, we can emotionally invest ourselves in it, and we can dive into the way the sounds and sights affected us. All these things can become real for us. But the only thing that we can't do with memory is physically touch it," she says. "We're going to be experiencing that longing that Rodolfo is experiencing. We're going to want Mimì and Rodolfo to touch. That desire is going to be in every audience member watching. But the fact is that they truly can’t because she no longer exists. I think it's going to be a much more multi-layered _La bohème_."
 
 “It’s going to be like a torpedo of Mimi and Rodolfo’s emotional trajectory. There’s no pause to
 
