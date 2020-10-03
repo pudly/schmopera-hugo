@@ -28,98 +28,28 @@ The duration of the production will be 90 minutes, with no intermissions, no cho
 
 "The interesting thing about memory is that we can feel it, we can emotionally invest ourselves in it, and we can dive into the way the sounds and sights affected us. All these things can become real for us. But the only thing that we can't do with memory is physically touch it," she says. "We're going to be experiencing that longing that Rodolfo is experiencing. We're going to want Mimì and Rodolfo to touch. That desire is going to be in every audience member watching. But the fact is that they truly can’t because she no longer exists. I think it's going to be a much more multi-layered _La bohème_."
 
-“It’s going to be like a torpedo of Mimi and Rodolfo’s emotional trajectory. There’s no pause to
+“It's going to be like a torpedo of Mimì and Rodolfo's emotional trajectory. There's no pause to reflect. It's going to go straight through from the moment they meet until the end. As a director that's very exciting. It makes us shine a light on some of the emotional aspects that sometimes get glossed over," she adds. 
 
-reflect. It’s going to go straight through from the moment they meet until the end. As a director
+As a drive-in, the atmosphere will be very different from the traditional opera house. People will listen through the FM transmitter in their car and there will be two video screens erected on either side of the stage for close-ups and subtitles.
 
-that’s very exciting. It makes us shine a light on some of the emotional aspects that sometimes
+This will be one of the first professional opera performances since the pandemic forced cancellations across the globe and left opera audiences yearning for the connection opera brings.
 
-get glossed over,” she adds.
+"When it's live and in person, there’s a connection. There's something magical and that's why we seek that out. If it's live entertainment, or sports, we want that unity, we long for that human connection," says Guerrero.
 
-As a drive-in, the atmosphere will be very different from the traditional opera house. People
+This will be very different for production members also. "You're usually able to build a community but because of COVID, we won't be able to. Going out, sharing dinner, the things that happen on the road, are going to be stripped away," he says. "We'll all be there physically but we won't be able to access each other."
 
-will listen through the FM transmitter in their car and there will be two video screens erected
+COVID-19 has taken a big toll on the arts and opera. "It's the first time I've done something in eight months," says Guerrero, even if it has at the same time allowed him to spend time at his home and take on projects there. "I find difficulties and challenges to be an opportunity to be more innovative, to do things a little differently, and to think outside of the box."
 
-on either side of the stage for close-ups and subtitles.
+"Opera has been in a 35-year identity crisis," says Stickann. "As stressful as COVID has been, it's allowed opera and all of us who work in it to reassess why we love it, what we're doing, and how we can move forward with it as the world changes around us."
 
-This will be one of the first professional opera performances since the pandemic forced
+"Opera is an art form that is very well suited to the drama of our time. We have a lot of heavy issues happening in the world right now. Opera is an art form that can tell our stories. That's important and that’s why opera needs to forge ahead and pivot and think about how it's going to work," she says.
 
-cancellations across the globe and left opera audiences yearning for the connection opera
+"In these times of COVID, where we feel the rug was pulled out from under us, singing and performing are giving people the opportunity to congregate, even if with restrictions. There's a longing for human connection," says Guerrero.
 
-brings.
+"I sing because it's my purpose in life," he adds. "It's my way of expressing myself, of being able to communicate to others. It's my purpose, and that goes hand in hand with the ultimate purpose in life, to help each other. If you can do that by way of your talent, you're a very blessed individual."
 
-“When it’s live and in person, there’s a connection. There’s something magical and that’s why
+"On a very personal level, making art is my soul," says Stickann, for whom this piece is also the first work since the start of the pandemic. "Collaborating with singers and composers and designers and all the people that put opera together is how I feed my soul. On a personal level, this is why I keep making opera. It's because we have to."
 
-we seek that out. If it’s live entertainment, or sports, we want that unity, we long for that
+"On a community level, we have to figure out how to gather again. Some companies are presenting online, a wonderful way to keep the art form coming into people's living rooms. But companies like San Diego who are making this effort to figure out how to put live performance together right now are feeding a certain part of the community soul in this desperate need that we have as humans to engage in experiences that people are having at the same time. The essence of the performing arts is the collective experience that brings us together as a community. This is why we must continue to figure out how to do this," she says.
 
-human connection,” says Guerrero
-
-This will be very different for production members also. “You’re usually able to build a
-
-community but because of COVID, we won’t be able to. Going out, sharing dinner, the things
-
-that happen on the road, are going to be stripped away,” he says. “We’ll all be there physically
-
-but we won’t be able to access each other.”
-
-COVID-19 has taken a big toll on the arts and opera. “It’s the first time I’ve done something in
-
-eight months,” says Guerrero, even if it has at the same time allowed him to spend time at his
-
-home and take on projects there. “I find difficulties and challenges to be an opportunity to be
-
-more innovative, to do things a little differently, and to think outside of the box.”
-
-“Opera has been in a 35-year identity crisis,” says Stickann. “As stressful as COVID has been, it’s
-
-allowed opera and all of us who work in it to reassess why we love it, what we’re doing, and
-
-how we can move forward with it as the world changes around us.”
-
-“Opera is an art form that is very well suited to the drama of our time. We have a lot of heavy
-
-issues happening in the world right now. Opera is an art form that can tell our stories. That’s
-
-important and that’s why opera needs to forge ahead and pivot and think about how it’s going
-
-to work,” she says.
-
-“In these times of COVID, where we feel the rug was pulled out from under us, singing and
-
-performing are giving people the opportunity to congregate, even if with restrictions. There’s a
-
-longing for human connection,” says Guerrero.
-
-“I sing because it’s my purpose in life,” he adds. “It’s my way of expressing myself, of being able
-
-to communicate to others. It’s my purpose, and that goes hand in hand with the ultimate
-
-purpose in life, to help each other. If you can do that by way of your talent, you’re a very
-
-blessed individual.”
-
-“On a very personal level, making art is my soul,” says Stickann, for whom this piece is also the
-
-first work since the start of the pandemic. “Collaborating with singers and composers and
-
-designers and all the people that put opera together is how I feed my soul. On a personal level,
-
-this is why I keep making opera. It’s because we have to.”
-
-“On a community level, we have to figure out how to gather again. Some companies are
-
-presenting online, a wonderful way to keep the art form coming into people’s living rooms. But
-
-companies like San Diego who are making this effort to figure out how to put live performance
-
-together right now are feeding a certain part of the community soul in this desperate need that
-
-we have as humans to engage in experiences that people are having at the same time. The
-
-essence of the performing arts is the collective experience that brings us together as a
-
-community. This is why we must continue to figure out how to do this,” she says.
-
-“The importance of live art is so we can grieve and laugh and rage with each other in a way that
-
-is cathartic and helps us feel more connected to our neighbor.”
+"The importance of live art is so we can grieve and laugh and rage with each other in a way that is cathartic and helps us feel more connected to our neighbor."
