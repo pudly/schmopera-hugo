@@ -1,7 +1,7 @@
 +++
 author = ["authors/callie-cooper.md"]
 categories = "Review"
-date = 2020-10-03T04:00:00Z
+date = 2020-10-04T04:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "Next up on Minnesota Opera's [digital season](https://mnopera.org/season/fall-season/) is pay-per-view streams of past productions, Wuthering Heights and Das Rheingold."
