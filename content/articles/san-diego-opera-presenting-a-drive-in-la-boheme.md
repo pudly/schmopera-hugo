@@ -17,7 +17,7 @@ title = "San Diego Opera's drive-in La bohème a step forward"
 youtube_url = ""
 
 +++
-"I'm really grateful that San Diego Opera has had the courage to move forward with this," says tenor [Joshua Guerrero](/autobiographical-recitals-joshua-guerrero-in-the-amphitheatre/) about the upcoming presentation of _La bohème_, opening October 24, with additional performances October 27, 30, and November 1, 2020. This production of Puccini's opera will stand out for many reasons, not least for its star singers, [Angel Joy Blue](/scene/people/angel-blue/), as Mimì, and Joshua Guerrero, as Rodolfo, but also because it will be presented in a parking lot, as a drive-in.
+"I'm really grateful that San Diego Opera has had the courage to move forward with this," says tenor [Joshua Guerrero](/autobiographical-recitals-joshua-guerrero-in-the-amphitheatre/) about the company's upcoming [presentation of _La bohème_](https://www.sdopera.org/season/2020-2021-season/la-boheme), opening October 24, with additional performances October 27, 30, and November 1, 2020. This production of Puccini's opera will stand out for many reasons, not least for its star singers, [Angel Joy Blue](/scene/people/angel-blue/), as Mimì, and Guerrero, as Rodolfo, but also because it will be presented in a parking lot, as a drive-in.
 
 "I believe wholeheartedly that as a community, this is what people need. People need an excuse to go out, people need again some sort of normalcy in their life. Even if we can't get back to the theater, at least we’re paying homage to it by way of performance and while it will be in a car and outside, people will get that sensation and that connection that they were longing for," Guerrero says.
 
