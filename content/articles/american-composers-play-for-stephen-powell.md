@@ -22,9 +22,9 @@ youtube_url = ""
 
 Good for them. But in return they require keen interpretation, something quite removed from Powell's perfectly burnished tone and polished technique. There are many moments of fine singing, indeed one that feels genuinely definitive on this recording. Others simply set on the ear. They are not without energy or commitment, but lack a distinct voice, American or otherwise. We expect more connection from the close collaboration for which Powell expresses much gratitude.
 
-The first disconnect appears early with John Musto's sharply crafted songs set to three of Dorothy Parker's short poems. Parker, that acerbic observer, writer and mainstay at the fabled Algonquin Roundtable, packs a punch in the blink of an eye, or more specifically a sardonic wink. The songs are too fleeting for Powell to find their requisite tone. Musto, however, lands them as if he and Parker were side by side at the keyboard. They would, in the most profane sense of the word, be divine if sung for instance by fellow baritone Christopher Maltman, to whom wicked comedy comes quickly and naturally.
+The first disconnect appears early with John Musto's sharply crafted songs set to three of Dorothy Parker's short poems. Parker, that acerbic observer, writer and mainstay at the fabled Algonquin Roundtable, packs a punch in the blink of an eye, or more specifically a sardonic wink. The songs are too fleeting for Powell to find their requisite tone. 
 
-Maltman might have provided the cynical "Social Notes" - and especially "Résumé", Parker’s ode to suicide - with the necessary world-weary drollness. Powell's reading is guileless, more good-natured humor rather than stinging observation. He fares better with the unusual, at least by Parker's standards, "The Sea," a melancholy seascape, more wistful than ironic, into which he settles comfortably with  beautifully rounded tones. Musto plays his deft tunes as if they were standards for the cognoscenti.
+The cynical "Social Notes", and especially "Résumé", Parker's ode to suicide, require world-weary drollness. Powell's reading is good-natured humor rather than stinging observation. He fares better with the unusual, at least by Parker's standards, "The Sea", a melancholy seascape, more wistful than ironic, into which he settles comfortably with beautifully rounded tones. Musto plays his deft tunes as if they were standards for the cognoscenti.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1602785895/media/2020/10/StephenPowell-SueReno_gdcnqh.jpg){{% /md %}}
 
@@ -32,7 +32,7 @@ Maltman might have provided the cynical "Social Notes" - and especially "Résum�
 
 </figure>
 
-The composer's lovely set of six songs for baritone and guitar from poems by James Laughlin, grouped under the heading "The Brief Light" are hit and miss. In "The Dancer" Powell lacks passion for which the song fairly begs. A flamenco based affair of obsessive longing, it is only pallid recollection without it. What a pleasant surprise then to hear "Song," another expression of longing, this time spurred by a fleeting glance and "Voices," quite the internalized romantic war, embellished with lustrous shading and subtle emotional variation. The acclaimed guitarist Jason Vieaux embraces the set.
+The composer's lovely set of six songs for baritone and guitar from poems by James Laughlin, grouped under the heading "The Brief Light" are hit and miss. In "The Dancer" Powell lacks passion for which the song fairly begs. A flamenco-based affair of obsessive longing, it is only pallid recollection without it. What a pleasant surprise then to hear "Song," another expression of longing, this time spurred by a fleeting glance and "Voices," quite the internalized romantic war, embellished with lustrous shading and subtle emotional variation. The acclaimed guitarist Jason Vieaux embraces the set.
 
 > The song is tragic, not in an epic or political way but in a deeply personal sense that weighs heavily on the psyche.
 
