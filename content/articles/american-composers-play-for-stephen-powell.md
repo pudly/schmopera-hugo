@@ -1,9 +1,8 @@
 +++
 author = ["authors/john-hohmann.md"]
 categories = "Review"
-date = 2020-10-15T04:00:00Z
+date = 2020-10-19T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Stephen Powell's _American Composers At Play_ is [available for purchase](https://stephenpowell.us/recordings) via his website."
 preamble = ""
