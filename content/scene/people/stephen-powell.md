@@ -1,8 +1,8 @@
 +++
 date = "2019-01-30T01:50:23+00:00"
 discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548812993/media/2019/01/StephenPowell.jpg"
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1603157724/media/2020/10/StephenPowell-SueReno_ob0d9o.jpg"
+primary_image_credit = "Sue Reno."
 related_companies = ["scene/companies/l-opéra-de-montréal.md", "scene/companies/opera-philadelphia.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/the-atlanta-opera.md", "scene/companies/los-angeles-opera.md", "scene/companies/minnesota-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/seattle-opera.md", "scene/companies/portland-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/san-diego-opera.md", "scene/companies/odyssey-opera.md"]
 slug = "stephen-powell"
 social_media = []
