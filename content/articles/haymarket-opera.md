@@ -20,7 +20,7 @@ youtube_url = ""
 +++
 ## How did you decide on the three operas in Haymarket's 10th anniversary season?
 
-The three operas for Haymarket's 10th-Anniversary Season were chosen with a dual commitment to the safety of artists and audiences, while also considering how to imagine filming Baroque opera for online performances. Arriving at a milestone such as Haymarket's 10th season requires programming which is appropriately momentous -- but how to work within the parameters of pandemic precautions? We are lucky to be able to draw upon some of the repertoire's great masterpieces which call for relatively small forces.
+The three operas for Haymarket's 10th Anniversary Season were chosen with a dual commitment to the safety of artists and audiences, while also considering how to imagine filming Baroque opera for online performances. Arriving at a milestone such as Haymarket's 10th season requires programming which is appropriately momentous -- but how to work within the parameters of pandemic precautions? We are lucky to be able to draw upon some of the repertoire's great masterpieces which call for relatively small forces.
 
 Today, humanity is mired in the chaos of a global health crisis. What does 18th-century opera have to offer us now when we face such existential challenges? Haymarket's tenth season highlights the transformational power of beauty as presented through myth, storytelling, and exquisitely timeless music by one of western music's most empathetic and compassionate composers. Handel's irresistibly beautiful music offers us inspiration as humankind grapples with reimagining the future.
 
