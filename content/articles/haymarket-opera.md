@@ -24,9 +24,9 @@ The three operas for Haymarket's 10th-Anniversary Season were chosen with a dual
 
 Today, humanity is mired in the chaos of a global health crisis. What does 18th-century opera have to offer us now when we face such existential challenges? Haymarket's tenth season highlights the transformational power of beauty as presented through myth, storytelling, and exquisitely timeless music by one of western music's most empathetic and compassionate composers. Handel's irresistibly beautiful music offers us inspiration as humankind grapples with reimagining the future.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}![](https://res.cloudinary.com/schmopera/image/upload/v1603646493/media/2020/10/Haymarket-AcisRehearsal-AnnaCillan_icrlqv.jpg)}{{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Haymarket Opera Company in rehearsal for Acis and Galatea, part of the 2020-21 season. Photo by Anna Cillan.</figcaption>
 
 </figure>
 
@@ -34,9 +34,9 @@ Today, humanity is mired in the chaos of a global health crisis. What does 18th-
 
 To produce baroque opera as online content, we have had to reimagine ourselves outside of the proscenium theater - without the painted perspective panels flanking the performers, and without the lush costumes for which we have gained a reputation. Our first projects are all about the music. It is exciting to imagine our orchestra and singers filling the film studio with their sounds -  a total juxtaposition to the industrial space with our art.  This is my first project with Haymarket Opera Company in my current role. Simultaneously this process has been exciting and difficult. Bringing musicians together to make music was a challenge. Reimagining Haymarket outside of the theater and concert hall was a challenge. Recording this performance to be shared in a way that keeps the audience safe AND entertained has been a challenge. Learning about the world of film has been difficult. Being a general director for the first time has been a challenge. (Very special shout out to our Board president, Jerry Tietz and OPERA America for their guidance.) But I'm grateful to my friend and collaborator, Craig Trompeter, Haymarket's fabulous board of directors, our artists, our sponsors, and our audiences for welcoming, trusting, and joining this endeavor.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1603646507/media/2020/10/Haymarket-AcisFilming-AnnaCillan_otipht.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Haymarket Opera Company filming for Acis and Galatea, part of the 2020-21 season. Photo by Anna Cillan.</figcaption>
 
 </figure>
 
@@ -44,9 +44,9 @@ To produce baroque opera as online content, we have had to reimagine ourselves o
 
 Early in the process I hired a COVID Compliance Officer, who focuses her attention on safety procedures for our singers, instrumentalists, crew, and creatives. Kait Samuels joins Haymarket for the first time, bringing a background in stage and production management, as well as facilities management at the Ruth Page Center for the Performing Arts in Chicago. Kait has undergone a COVID training for theaters, which has been applied and adapted to Haymarket's own policy and procedure. We have taken the safety of anyone we invite to the space extremely seriously, and are pleased to see those practices be put into practice as we move through our rehearsals.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1603646545/media/2020/10/Haymarket-ChaseHopkins_nna7oi.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Chase Hopkins, Interim Artistic Director of Haymarket Opera Company. </figcaption>
 
 </figure>
 
