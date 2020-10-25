@@ -1,6 +1,6 @@
 +++
-author = []
-categories = ""
+author = ["authors/jenna.md"]
+categories = "Interview"
 date = 2020-10-25T04:00:00Z
 disclaimer = ""
 draft = true
@@ -46,7 +46,7 @@ Early in the process I hired a COVID Compliance Officer, who focuses her attenti
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1603646545/media/2020/10/Haymarket-ChaseHopkins_nna7oi.jpg){{% /md %}}
 
-<figcaption>Chase Hopkins, Interim Artistic Director of Haymarket Opera Company. </figcaption>
+<figcaption>Chase Hopkins, General Director of Haymarket Opera Company. </figcaption>
 
 </figure>
 
