@@ -13,8 +13,8 @@ related_articles = []
 related_companies = ["scene/companies/haymarket-opera-company.md"]
 related_people = []
 short_description = "\"What does 18th-century opera have to offer us now when we face such existential challenges? Haymarket's tenth season highlights the transformational power of beauty as presented through myth, storytelling, and exquisitely timeless music by one of western music's most empathetic and compassionate composers.\""
-slug = "haymarket-opera"
-title = "Haymarket Opera"
+slug = "haymarket-opera-companys-10th-anniversary-season-goes-cinematic"
+title = "Haymarket Opera Company's 10th Anniversary Season goes cinematic "
 youtube_url = ""
 
 +++
