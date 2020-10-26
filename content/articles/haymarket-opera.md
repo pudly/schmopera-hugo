@@ -23,7 +23,7 @@ The three operas for Haymarket's 10th Anniversary Season were chosen with a dual
 
 Today, humanity is mired in the chaos of a global health crisis. What does 18th-century opera have to offer us now when we face such existential challenges? Haymarket's tenth season highlights the transformational power of beauty as presented through myth, storytelling, and exquisitely timeless music by one of western music's most empathetic and compassionate composers. Handel's irresistibly beautiful music offers us inspiration as humankind grapples with reimagining the future.
 
-<figure data-type="image">{{% md %}![](https://res.cloudinary.com/schmopera/image/upload/v1603646493/media/2020/10/Haymarket-AcisRehearsal-AnnaCillan_icrlqv.jpg)}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1603646493/media/2020/10/Haymarket-AcisRehearsal-AnnaCillan_icrlqv.jpg){{% /md %}}
 
 <figcaption>Haymarket Opera Company in rehearsal for Acis and Galatea, part of the 2020-21 season. Photo by Anna Cillan.</figcaption>
 
@@ -53,6 +53,6 @@ Early in the process I hired a COVID Compliance Officer, who focuses her attenti
 
 I hope audiences will take away a sense that we are working hard to employ our creativity to navigate unique challenges from the novel coronavirus, and that we are dedicated to producing and serving the community. These plans have not been easy or cheap, but we are so grateful to be performing. I hope that audiences will enjoy the hard work of our entire team, and will anticipate even more creativity from Haymarket's bright future. Joining in for Haymarket's 10th anniversary means I get the joy of imagining the next ten years. We're only just getting started!
 
-<figure data-type="video">{{% md %}}{{% /md %}}
+<figure data-type="video">{{% md %}}<iframe width="1012" height="569" src="https://www.youtube.com/embed/2UlLdgu1vjo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
 </figure>
