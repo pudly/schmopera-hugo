@@ -1,9 +1,8 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Interview"
-date = 2020-10-25T04:00:00Z
+date = 2020-10-26T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Haymarket Opera Company's [10th-anniversary season](http://www.haymarketopera.org/anniversaryseason) starts October 30 with Handel's [_Acis and Galatea_](http://www.haymarketopera.org/acis). Individual tickets are $25, or $40 for all three productions."
 preamble = "Old meets new on October 28, when Haymarket Opera Company launches its all-digital [10th Anniversary Season](http://www.haymarketopera.org/anniversaryseason). The Chicago-based producers of baroque and classical opera are replacing their usual mainstage season with cinematic productions of three Handel operas: _Acis and Galatea_, (streaming Oct. 30-Nov. 8), _Apollo e Dafne_ (Mar. 5-14, 2021), and _Orlando_ (Spring 2021, dates TBD).\n\nWe spoke with Haymarket General Director Chase Hopkins, about taking baroque opera out of the proscenium theatre, and streaming it online."
