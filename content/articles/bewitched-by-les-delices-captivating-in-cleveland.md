@@ -1,9 +1,8 @@
 +++
 author = ["authors/john-hohmann.md"]
 categories = "Review"
-date = 2020-10-26T04:00:00Z
+date = 2020-10-28T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "For further information and tickets, contact lesdelices.org."
 preamble = ""
@@ -12,7 +11,7 @@ primary_image_credit = "Hannah De Priest in \"Bewitched\", presented by Les Dél
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "Nagy and her group appear in the perfect environment for their naturalistic style of video that revels in dramatic fades to black, subtle cross fades and deft use of camerawork and lighting. The passing from day to night, from a sun-filled hall to one of intense lighting and dramatic shadow, is visually alluring."
 slug = "bewitched-by-les-delices-captivating-in-cleveland"
 title = "\"Bewitched\" by Les Délices: Captivating in Cleveland"
 youtube_url = ""
