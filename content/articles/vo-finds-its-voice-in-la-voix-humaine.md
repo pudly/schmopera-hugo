@@ -1,7 +1,7 @@
 +++
 author = ["authors/melissa-ratcliff.md"]
 categories = ""
-date = 2020-10-28T04:00:00Z
+date = 2020-10-29T04:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "Grab your subcription to Vancouver Opera's digital 2020-21 season [right her](https://digital.vancouveropera.ca/)e."
