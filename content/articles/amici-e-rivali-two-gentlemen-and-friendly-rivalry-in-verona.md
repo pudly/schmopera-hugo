@@ -11,7 +11,7 @@ primary_image = ""
 primary_image_credit = ""
 related_articles = []
 related_companies = []
-related_people = []
+related_people = ["scene/people/tara-erraught.md", "scene/people/michael-spyres.md", "scene/people/lawrence-brownlee.md"]
 short_description = "short"
 slug = "amici-e-rivali-two-gentlemen-and-friendly-rivalry-in-verona"
 title = "Amici e Rivali: Two gentlemen and friendly rivalry in Verona"
@@ -22,7 +22,7 @@ Rossini, two terrific tenors and a first rate musical ensemble—what's not to l
 
 But we don’t get that in _Amici e Rivali_, an excellent release from Erato featuring Lawrence Brownlee and Michael Spyres. Instead we get arias, duets and trios (the tenors are joined by mezzo-soprano Tara Erraught and fellow tenor Xabier Anduaga) that are thoughtfully interpreted and artfully sequenced to mimic the construction of a Rossini opera. Its most winning feature, besides the competing tenors who are in full bloom here, is that it flows.
 
-The singers are accompanied by the protean ensemble, I Virtuosi Italiani, lead by Corrado Rovaris, recorded on stage at the Teatro Ristori in Verona. A remarkable venue equipped with a state-of-the-art recording studio linked its the stage, Teatro Ristori bestows a bright and resonant sound on the recording. The orchestra performs with stunning _élan_ as it plays through the heft and sparkle of Rosinni's compositions. Placed front and center, the singers are perfectly balanced with the musicians creating gorgeously delicate yet dynamic sound and a sense of immediacy.
+The singers are accompanied by the protean ensemble, I Virtuosi Italiani, lead by Corrado Rovaris, recorded on stage at the Teatro Ristori in Verona. A remarkable venue equipped with a state-of-the-art recording studio linked its the stage, Teatro Ristori bestows a bright and resonant sound on the recording. The orchestra performs with stunning _élan_ as it plays through the heft and sparkle of Rossini's compositions. Placed front and center, the singers are perfectly balanced with the musicians creating gorgeously delicate yet dynamic sound and a sense of immediacy.
 
 Brownlee, replete with flourishes amidst his golden sound, holds court with Spyres who exerts authority with his majestically vibrant voice. The booklet accompanying _Amici e Rivali_ introduces two other tenors, both from Rossini's day, Giovanni David and Andrea Nozzari, who sang many of the roles that Brownlee and Spyres take on. Brownlee, for the record, is the light lyric tenor who associates historically with David while Spyres occupies the darker lyric tenor, or "baritenor", as the range is sometimes known, evoking Nozzari. Since this is a rivalry, albeit a friendly one, listeners may want to decide if they prefer those stratospheric, stand-alone high notes that Brownlee launches with regularity or the integrated flourishes that Spyres so fluently provides with his commanding lower register.
 
