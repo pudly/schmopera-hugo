@@ -36,68 +36,10 @@ After such an engaging comic opening the recording takes a dramatic turn with si
 
 _Ricciardo e Zoraide_ follows _Barbiere_, receiving four tracks of what may be the most engrossing moments in the opera, at least for the male singers. The bittersweet “Donala a questo core," between Agorante, King of Nubia and Ricciardo, a paladin Knight, Spyres and Brownlee respectively, are two parts of a love triangle. Their duet unfolds with soft harmonies and a subtle show of Rossini's genius for creating distinct characters with similar vocal lines. The orchestra is subdued as it depicts the pathos underlying the conciliatory tone of the work.
 
-Another duet,”Deh! Scusa i trasporti,” from _Elisabetta, regina d'Inghilterra_, again shows remarkable development of characters within the same melody. It is arch and fast paced in pitting the devious Duke of Norfolk (Brownlee) against the trusting Earl of Leicester (Spyres), in another royal conflict tensely reflected by taut strings and driving woodwinds. 
+Another duet,”Deh! Scusa i trasporti,” from _Elisabetta, regina d'Inghilterra_, again shows remarkable development of characters within the same melody. It is arch and fast paced in pitting the devious Duke of Norfolk (Brownlee) against the trusting Earl of Leicester (Spyres), in another royal conflict tensely reflected by taut strings and driving woodwinds.
 
-The multiple tracks for _La donna del lago_ and _Otello_ both provide virtually non-stop opportunities for Brownlee and Spyres. Were it not for the duet from _Elisabetta_ placed between these selections, their virtuosity risks running into the "thrill" factor. As it is _La donna del lago_ deals with situations and issues that are familiar within Rossini's oeuvre and therefore the material can feel self-conscious, especially when excerpted. This is not to diminish the skill required in execution but it does limit dramatic impact. _Otello_, quite a departure from Shakespeare and Verdi, assigns much of the most challenging music to Rodrigo (Brownlee), reduces the villainy of Iago
+The multiple tracks for _La donna del lago_ and _Otello_ both provide virtually non-stop opportunities for Brownlee and Spyres. Were it not for the duet from _Elisabetta_ placed between these selections, their virtuosity risks running into the "thrill" factor. As it is _La donna del lago_ deals with situations and issues that are familiar within Rossini's oeuvre and therefore the material can feel self-conscious, especially when excerpted. This is not to diminish the skill required in execution but it does limit dramatic impact. _Otello_, quite a departure from Shakespeare and Verdi, assigns much of the most challenging music to Rodrigo (Brownlee), reduces the villainy of Iago (Anduaga), and tames Otello (Spyres), by casting him as well as the other two characters as tenors. Showing that bel canto can fall prey to its own rhythms, the music at times suggests domestic farce rather than abject tragedy. Still, the supporting singers in both works are afforded their moments. Erraught shows signs of being a formidable Elena and Desdomona and Anduaga, an intriguing Iago.
 
-(Anduaga), and tames Otello (Spyres), by casting him as well
+_Armida_ is an intense story driven by heroism and the whims of the sorceress Armida, disguised as the Queen of Damascus. Ubaldo (Brownlee) and Carlo (Anduaga) are dealing with the wavering commitment of fellow warrior Rinaldo (Spyres), a knight of the Crusade, who is smitten with Armida. Furious duets and trios ensue as Rinaldo is persuaded to abandon Armida and remain faithful to the cause. Spyres definitively shows that his darker register can inhabit the same heights as Brownlee and Anduaga admirably enter the competitive tenor fray in this trio.
 
-as the other two characters as tenors. Showing that bel canto
-
-can fall prey to its own rhythms, the music at times suggests
-
-domestic farce rather than abject tragedy. Still, the supporting
-
-singers in both works are afforded their moments. Erraught
-
-shows signs of being a formidable Elena and Desdomona and
-
-Anduaga, an intriguing Iago.
-
-Armida is an intense story driven by heroism and the whims of
-
-the sorceress Armida, disguised as the Queen of Damascus.
-
-Ubaldo (Brownlee) and Carlo (Anduaga) are dealing with the
-
-wavering commitment of fellow warrior Rinaldo (Spyres), a
-
-knight of the Crusade, who is smitten with Armida. Furious
-
-duets and trios ensue as Rinaldo is persuaded to abandon
-
-Armida and remain faithful to the cause. Spyres definitively
-
-shows that his darker register can inhabit the same heights as
-
-Brownlee and Anduaga admirably enter the competitive tenor
-
-fray in this trio.
-
-Rossini revised his another of his wartime opera, Le Siège de
-
-Corinthe and adapted it to a French libretto by Luigi Balocchi
-
-that elevates the work from ancient travails to universally
-
-relatable experience. “Céleste Providence,” the third track
-
-devoted to the opera, finds Brownlee at his agile best as the
-
-warrior Nécolés, with restrained and deeply emotional singing
-
-that is rich in high notes and embellishments. Spyres joins him
-
-as Cléoméne, governor of Corinthe, in haunting vocal
-
-counterpoint. Pamyra, daughter of Cléoméne and love interest
-
-of Nécolés, enters providing Erraught with a brief but aching
-
-moment in what becomes a trio of ultimate resolve. It is lilting,
-
-spiritual and inexorably sad. For this listener “Céleste
-
-Providence” provides the loveliest singing on Amici d Rivali, no
-
-contest.
+Rossini revised his another of his wartime opera, _Le siège de Corinthe_ and adapted it to a French libretto by Luigi Balocchi that elevates the work from ancient travails to universally relatable experience. "Céleste Providence," the third track devoted to the opera, finds Brownlee at his agile best as the warrior Nécolés, with restrained and deeply emotional singing that is rich in high notes and embellishments. Spyres joins him as Cléoméne, governor of Corinthe, in haunting vocal counterpoint. Pamyra, daughter of Cléoméne and love interest of Nécolés, enters providing Erraught with a brief but aching moment in what becomes a trio of ultimate resolve. It is lilting, spiritual and inexorably sad. For this listener "Céleste Providence" provides the loveliest singing on _Amici e Rivali_, no contest.
