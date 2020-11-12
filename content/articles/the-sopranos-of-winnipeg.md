@@ -3,7 +3,6 @@ author = ["authors/neil-weisensel.md"]
 categories = "Review"
 date = 2020-11-12T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
