@@ -6,8 +6,8 @@ disclaimer = ""
 image_gallery = []
 postamble = "[_Amici e Rivali_](https://www.lawrencebrownlee.com/albums/amici-e-rivali) is released November 13, 2020."
 preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1605117452/media/2020/11/Lawrence-Brownlee-Michael-Spyres-Amici-e-Rivali_swi7gf.jpg"
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1605210902/media/2020/11/sqBrownleeSpyresLainez_m4usyy.jpg"
+primary_image_credit = "Lawrence Brownlee (left) and Michael Spyres. Photo: Shervin Lainez."
 related_articles = ["articles/cycles-of-my-being-this-is-their-story.md", "articles/owens-brownlee.md"]
 related_companies = []
 related_people = ["scene/people/tara-erraught.md", "scene/people/michael-spyres.md", "scene/people/lawrence-brownlee.md"]
@@ -31,9 +31,14 @@ The singers are accompanied by the protean ensemble, I Virtuosi Italiani, lead b
 
 Brownlee, replete with flourishes amidst his golden sound, holds court with Spyres who exerts authority with his majestically vibrant voice. The booklet accompanying _Amici e Rivali_ introduces two other tenors, both from Rossini's day, Giovanni David and Andrea Nozzari, who sang many of the roles that Brownlee and Spyres take on. Brownlee, for the record, is the light lyric tenor who associates historically with David while Spyres occupies the darker lyric tenor, or "baritenor", as the range is sometimes known, evoking Nozzari. Since this is a rivalry, albeit a friendly one, listeners may want to decide if they prefer those stratospheric, stand-alone high notes that Brownlee launches with regularity or the integrated flourishes that Spyres so fluently provides with his commanding lower register.
 
->  Soaring high notes and vivid vocal coloring create sure-fire thrills.
+> Soaring high notes and vivid vocal coloring create sure-fire thrills.
 
 In the booklet these friendly rivals expound at length on each other's vocal styles. They sound like Roger Federer and Rafael Nadal gamely talking about how keen competition improves their game. It was common in Rossini's day for his tenors to exchange parts despite the difference in vocal range. David and Nozzari did this with some frequency. The practice is smartly avoided on _Amici e Rivali_, though it could be a fascinating indulgence in concert, perhaps for an encore or two. Now there's a rivalry.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1605210915/media/2020/11/BrownleeSpyresShervinLainez5_ukux5z.jpg){{% /md %}}
+
+<figcaption>Michael Spyres (left) and Lawrence Brownlee. Photo: Shervin Lainez.</figcaption>  
+</figure>
 
 Some listeners may prefer moderation when it comes to the tenor based pyrotechnics that ignite this recording. Soaring high notes and vivid vocal coloring create sure-fire thrills but thrills depend on relative rarity and risk being diminished by such concentrated exposure. With fireworks fairly exploding, _Amici e Rivali_ skillfully mitigates that possibility by virtue of its adroit sequencing, leaving plenty of room for beautiful singing outside that most thrilling of bel canto bubbles.
 
@@ -59,9 +64,9 @@ The multiple tracks for _La donna del lago_ and _Otello_ both provide virtually 
 
 _Armida_ is an intense story driven by heroism and the whims of the sorceress Armida, disguised as the Queen of Damascus. Ubaldo (Brownlee) and Carlo (Anduaga) are dealing with the wavering commitment of fellow warrior Rinaldo (Spyres), a knight of the Crusade, who is smitten with Armida. Furious duets and trios ensue as Rinaldo is persuaded to abandon Armida and remain faithful to the cause. Spyres definitively shows that his darker register can inhabit the same heights as Brownlee and Anduaga admirably enter the competitive tenor fray in this trio.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1605117910/media/2020/11/01_p7hmje.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1605210683/media/2020/11/Lawrence-Brownlee-Michael-Spyres-Amici-e-Rivali_jqjvby.jpg){{% /md %}}
 
-<figcaption>The photos of the exterior of the Teatro Ristori. Photo: Alberto Parise/Teatro Ristori Theatre Archive.</figcaption>
+<figcaption></figcaption>
 
 </figure>
 
