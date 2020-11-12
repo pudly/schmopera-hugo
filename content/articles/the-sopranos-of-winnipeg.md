@@ -40,92 +40,12 @@ Now we come an artist I've not heard before– Lida Szkwarek singing "There will
 
 As a musical interlude we have the famous "Intermezzo" from _Cavalleria Rusticana_ by Pietro Mascagni. Here the orchestra sounds a bit rough in places, with tuning and ensemble issues. To be fair, besides the Plexiglas barriers to contend with, I know for a fact that the amount of rehearsal time orchestral musicians get for operas is pared down to what seems like a ridiculous minimum. But opera company budgets being what they are, that is the norm. Again – why are they standing and bowing when there is no applause? Can't we just settle into the silence that comes after a lovely performance of a beautiful piece like that? (Ok, ok – I’ll stop complaining about that now…)
 
-Here's Dutch-Canadian soprano Monica Huisman, singing Antonin Dvorak's "Song to the Moon" from the opera _Rusalka_. She’s wearing a simple black dress with a lovely
+Here's Dutch-Canadian soprano Monica Huisman, singing Antonin Dvorak's "Song to the Moon" from the opera _Rusalka_. She’s wearing a simple black dress with a lovely sparkling shawl and a very nice necklace. I find it interesting that Dvořák would double the vocal with trumpet – it's always a bit too loud and takes away the ability of the soprano to phrase her vocal line more naturally with the text. But, what do I know? Ms. Huisman is at her best here, her voluptuous and creamy voice perfectly suited to this music. I am lucky enough to say I have heard her sing a role in one of my operas – _The Master’s Stroke_ (1999).
 
-sparkling shawl and a very nice necklace. I find it interesting that Dvorak would
+Lara Ciekiewicz singing "The trees on the mountain" from Carlisle Floyd's 1955 opera _Susannah_ is enough to melt your heart, pandemic or no pandemic. Way to go MO, programming arias by two living composers! I saw Ms. Ciekiewicz perform this role last year with MO, it’s like she was made to sing this music. Her character's varying degrees of confidence and vulnerability are on full display here – another fine aspect to a livestream compared to a live performance, when only the most expensive seats would get to see this kind of affecting detail. Also, it's so great to hear the Appalachian twang in her English, after all the high-falutin' Italian and Czech.
 
-double the vocal with trumpet – it’s always a bit too loud and takes away the ability
+Andriana Chuchman now sings Susanna’s aria "Deh vieni non tardar" from Wolfgang Mozart's _Marriage of Figaro_. With exquisite singing always a given for this outstanding performer, the fact that she reflects in her face every variation of the text's expressivity is a clear reminder of why she’s in demand on many of the world's most important stages, including the Met in New York. We were very fortunate indeed to hear her sing this role here in Winnipeg in 2015.
 
-of the soprano to phrase her vocal line more naturally with the text. But, what do I
+Finally, Ambroise Thomas' opera _Mignon_ with Winnipeg star soprano Tracy Dahl singing the aria "Je suis Titania la blonde". This is not an aria I know, it will surely be interesting to hear. Ms. Dahl has such a vast repertoire, it’'s obvious she chose this aria because she loves to sing it. It's a tour de force piece and performance, with pyrotechnical vocalizations and long vocal lines. She sounds a fabulous as she ever has, wow – she is true Winnipeg treasure! So much energy coming out of her eyes, and then a crazy hard cadenza with chromatic octave leaps, trills, - what a capstone on a magnificent concert! Dahl is so fun to watch, displays such expressivity, and her voice can really do anything any composer could demand. Now how to convince her to sing in one of my operas…
 
-know? Ms. Huisman is at her best here, her voluptuous and creamy voice perfectly
-
-suited to this music. I am lucky enough to say I have heard her sing a role in one of
-
-my operas – The Master’s Stroke (1999).
-
-Lara Ciekiewicz singing ‘The trees on the mountain” from Carlisle Floyd’s 1955
-
-opera Susannah is enough to melt your heart, pandemic or no pandemic. Way to go
-
-MO, programming arias by two living composers! I saw Ms. Ciekiewicz perform this
-
-role last year with MO, it’s like she was made to sing this music. Her character’s
-
-varying degrees of confidence and vulnerability are on full display here – another
-
-fine aspect to a livestream compared to a live performance, when only the most
-
-expensive seats would get to see this kind of affecting detail. Also, it’s so great to
-
-hear the Appalachian twang in her English, after all the high-falutin’ Italian and
-
-Czech.
-
-Andriana Chuchman now sings Susanna’s aria “Deh vieni non tardar” from Wolfgang
-
-Mozart’s Marriage of Figaro. With exquisite singing always a given for this
-
-outstanding performer, the fact that she reflects in her face every variation of the
-
-text’s expressivity is a clear reminder of why she’s in demand on many of the
-
-world’s most important stages, including the Met in New York. We were very
-
-fortunate indeed to hear her sing this role here in Winnipeg in 2015.
-
-Finally, Ambroise Thomas’ opera Mignon with Winnipeg star soprano Tracey Dahl
-
-singing the aria “Je suis Titania la blonde”. This is not an aria I know, it will surely be
-
-interesting to hear. Ms. Dahl has such a vast repertoire, it’s obvious she chose this
-
-aria because she loves to sing it. It’s a tour de force piece and performance, with
-
-pyrotechnical vocalizations and long vocal lines. She sounds a fabulous as she ever
-
-has, wow – she is true Winnipeg treasure! So much energy coming out of her eyes,
-
-and then a crazy hard cadenza with chromatic octave leaps, trills, - what a capstone
-
-on a magnificent concert! Dahl is so fun to watch, displays such expressivity, and her
-
-voice can really do anything any composer could demand. Now how to convince her
-
-to sing in one of my operas…
-
-There were 621 tickets sold, most likely representing over 1000 actual viewers. This
-
-is a far cry from the usual attendance at MO mainstage events, but for the first foray
-
-into this new world of performing we find ourselves in, it’s pretty darn good.
-
-Further to that last thought: nobody has any idea when we will be able to gather in a
-
-concert hall to witness a live performance of many artists onstage performing an
-
-opera. While a livestream is not optimum, it’s the best we have for now. I have
-
-enumerated some of the best things about them, in an attempt to focus on the
-
-positive. Another important thing livestreams offer is a chance to take in high-
-
-quality performances from any location in the world, which is a good way to start
-
-enhancing the audience reach of organizations. I highly recommend taking in as
-
-many livestreams as you can, especially from local organizations like Manitoba
-
-Opera and the Winnipeg Symphony Orchestra, as they really need your support in
-
-these challenging times.
+There were 621 tickets sold, most likely representing over 1000 actual viewers. This is a far cry from the usual attendance at MO mainstage events, but for the first foray into this new world of performing we find ourselves in, it's pretty darn good. Further to that last thought: nobody has any idea when we will be able to gather in a concert hall to witness a live performance of many artists onstage performing an opera. While a livestream is not optimum, it's the best we have for now. I have enumerated some of the best things about them, in an attempt to focus on the positive. Another important thing livestreams offer is a chance to take in high-quality performances from any location in the world, which is a good way to start enhancing the audience reach of organizations. I highly recommend taking in as many livestreams as you can, especially from local organizations like Manitoba Opera and the Winnipeg Symphony Orchestra, as they really need your support in these challenging times.
