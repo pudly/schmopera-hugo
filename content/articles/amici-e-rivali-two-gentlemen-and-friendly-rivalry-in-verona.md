@@ -1,7 +1,7 @@
 +++
 author = ["authors/john-hohmann.md"]
 categories = "Review"
-date = 2020-11-11T05:00:00Z
+date = 2020-11-12T05:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "[_Amici e Rivali_](https://www.lawrencebrownlee.com/albums/amici-e-rivali) is released November 13, 2020."
