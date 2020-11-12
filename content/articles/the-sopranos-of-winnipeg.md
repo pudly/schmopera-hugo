@@ -13,8 +13,8 @@ related_articles = ["articles/heartfelt-and-intimate-manitoba-operas-la-traviata
 related_companies = ["scene/companies/manitoba-opera.md"]
 related_people = ["scene/people/lida-szkwarek.md", "scene/people/tracy-dahl.md", "scene/people/andriana-chuchman.md", "scene/people/lara-ciekiewicz.md", "scene/people/andrea-lett.md"]
 short_description = "I'm going to write this as a live-blog, as one of the advantages of attending virtually is you can type as you listen, instead of having to remember all your thoughts from the concert!"
-slug = "the-sopranos-of-winnipeg"
-title = "The Sopranos of Winnipeg"
+slug = "an-embarrassment-of-riches-the-sopranos-of-winnipeg"
+title = "An embarrassment of riches: The Sopranos of Winnipeg"
 youtube_url = ""
 
 +++
