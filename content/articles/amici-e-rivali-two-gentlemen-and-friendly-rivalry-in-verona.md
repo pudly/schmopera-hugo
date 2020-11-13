@@ -17,7 +17,7 @@ title = "Amici e Rivali: Two gentlemen and friendly rivalry in Verona"
 youtube_url = ""
 
 +++
-Rossini, two terrific tenors and a first rate musical ensemble—what's not to love? Plenty, if this bel canto extravaganza had followed the route taken by so many of those "opera aria" recordings in which we get a heady dose of familiar favorites, often lacking in spontaneity emotional depth.
+Rossini, two terrific tenors and a first rate musical ensemble—what's not to love? Plenty, if this bel canto extravaganza had followed the route taken by so many of those "opera aria" recordings in which we get a heady dose of familiar favorites, often lacking in spontaneity and emotional depth.
 
 But we don’t get that in [_Amici e Rivali_](https://www.lawrencebrownlee.com/albums/amici-e-rivali), an excellent release from Erato featuring Lawrence Brownlee and Michael Spyres. Instead we get arias, duets and trios (the tenors are joined by mezzo-soprano Tara Erraught and fellow tenor Xabier Anduaga) that are thoughtfully interpreted and artfully sequenced to mimic the construction of a Rossini opera. Its most winning feature, besides the competing tenors who are in full bloom here, is that it flows.
 
@@ -70,4 +70,4 @@ _Armida_ is an intense story driven by heroism and the whims of the sorceress Ar
 
 </figure>
 
-Rossini revised his another of his wartime opera, _Le siège de Corinthe_ and adapted it to a French libretto by Luigi Balocchi that elevates the work from ancient travails to universally relatable experience. "Céleste Providence," the third track devoted to the opera, finds Brownlee at his agile best as the warrior Nécolés, with restrained and deeply emotional singing that is rich in high notes and embellishments. Spyres joins him as Cléoméne, governor of Corinthe, in haunting vocal counterpoint. Pamyra, daughter of Cléoméne and love interest of Nécolés, enters providing Erraught with a brief but aching moment in what becomes a trio of ultimate resolve. It is lilting, spiritual and inexorably sad. For this listener "Céleste Providence" provides the loveliest singing on _Amici e Rivali_, no contest.
+Rossini revised his other wartime opera, _Le siège de Corinthe_ and adapted it to a French libretto by Luigi Balocchi that elevates the work from ancient travails to universally relatable experience. "Céleste Providence," the third track devoted to the opera, finds Brownlee at his agile best as the warrior Nécolés, with restrained and deeply emotional singing that is rich in high notes and embellishments. Spyres joins him as Cléoméne, governor of Corinthe, in haunting vocal counterpoint. Pamyra, daughter of Cléoméne and love interest of Nécolés, enters providing Erraught with a brief but aching moment in what becomes a trio of ultimate resolve. It is lilting, spiritual and inexorably sad. For this listener "Céleste Providence" provides the loveliest singing on _Amici e Rivali_, no contest.
