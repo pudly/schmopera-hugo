@@ -1,9 +1,8 @@
 +++
 author = ["authors/hannah-de-priest.md"]
 categories = "Review"
-date = 2020-11-16T05:00:00Z
+date = 2020-11-17T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "You can find more information about _Rimsky Rebooted_ on the Chicago Opera Theater [website](https://chicagooperatheater.org/season/rebooted). $20 tickets are available through [Valhalla Media](https://www.valhallamedia.live/videos/kashchej-the-immortal). The show premieres Nov. 21st at 7:30 pm CST and will remain accessible for 72 hours."
 preamble = ""
@@ -13,8 +12,8 @@ related_articles = []
 related_companies = []
 related_people = ["scene/people/lidiya-yankovskaya.md", "scene/people/will-liverman.md"]
 short_description = "In a recent Zoom conversation, Yankovskaya's pride and enthusiasm in the COT administrative and artistic staff was evident from the start. She praised their collective grit, acknowledging that their upcoming digital release, Rimsky Rebooted represents not just a \"Plan B\" pivot from live performance, but is rather a \"5th or maybe 7th reimagining\" of what they hoped to originally present to Chicago audiences."
-slug = "rimsky-rebooted"
-title = "Rimsky Rebooted"
+slug = "cots-rimsky-rebooted-features-local-artists-collective-grit"
+title = "COT's Rimsky Rebooted features local artists & \"collective grit\""
 youtube_url = ""
 
 +++
