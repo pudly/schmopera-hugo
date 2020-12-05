@@ -5,7 +5,7 @@ date = 2020-12-05T05:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = "_Stardust_ "
+postamble = "[_Stardust_](https://heliosopera.com/projects/stardust/) has three more performances, December 6, 11, and 13."
 preamble = ""
 primary_image = ""
 primary_image_credit = ""
@@ -24,6 +24,12 @@ In the wake of Black Lives Matter protests that have sprung up in the wake of Ge
 
 Cue Helios Opera’s Modular Opera Project, which in September produced a gut-wrenching filmed performance of Poulenc’s _La voix humaine_. To address this front, they pulled together an all-POC creative team, with music from Brooklyn-based composer Felix Jarrar and text from London-based writer B.L. Foxley, to create a world-premiere project to be premiered by black soprano Victoria Davis. Part of the goal was to produce something that elevated these voices, and on this front Helios Opera has certainly succeeded.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 The result is [_Stardust_](https://heliosopera.com/projects/stardust/), a song cycle consisting of three songs that explore a journey of self-liberation. As per the brief, it does contain some racial undertones (particularly in the first half, which makes an oblique reference to both lynchings and to the dual nature of how black people are viewed in American and British society), but as it evolves a narrative of self-actuation emerges. It is a journey that does evolve over the course of the three songs, and textually speaking it is such an interesting journey I honestly wish there were more songs devoted to it.
 
 > Jarrar is quite a young composer, and in this work he shows quite a bit of promise.
@@ -34,4 +40,16 @@ I also felt that, musically, it took a little bit to get going. The first song, 
 
 Realizing a project like this would definitely incur a different approach from _La voix humaine_, and on this front the video direction from John de los Santos and Keith Browning absolutely proved to go in exactly that direction. The video direction opted for an Andy Warhol aesthetic that was all muted primary colors, bright lights, and multiple shots of Victoria Davis' face all cut into a pastiche (and even featuring a double lip sync at one point), and it was an aesthetic that served the songs well. It also tied the text of the three songs into the Greek myth surrounding the fates, with the soprano picking up a spindle of thread at the end of _Who Am I?_, watching the threads unspool in The Devil, and then finally cutting them herself at the end of Mother Earth. The symbolism here was not the usual Fates symbolism that people tend to see (the creators were opting more for an arc where the soprano takes control of her own fate), and once the link was explained I felt it was a very appropriate one for the arc of the piece. And of course, all of it was beautifully sung and acted by Victoria Davis, who navigated the score's prosody with an incredible command of the material and a wonderfully full voice, and communicating quite a lot with facial expressions (important since so much of the video was close-ups of her face.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 Perhaps some things could have been improved upon: I felt that this time around the piano audio had some weak mixing this time around, and as mentioned before I think the cycle could perhaps benefit from some tightening up of the first song and perhaps adding some more content. But overall, _Stardust_ is the mark of a particularly smart approach to following something up: there was no way they would realistically match their _Voix humaine_ by doing the same way, so they opted to pivot in a completely different direction, and in so doing highlight their commitment to uplifting underrepresented voices. I found it quite invigorating, and it was certainly a night at the opera I enjoyed as a whole package.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
