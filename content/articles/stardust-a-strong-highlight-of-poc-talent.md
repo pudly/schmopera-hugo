@@ -11,7 +11,7 @@ primary_image = ""
 primary_image_credit = ""
 related_articles = []
 related_companies = ["scene/companies/helios-opera.md"]
-related_people = []
+related_people = ["scene/people/felix-jarrar.md", "scene/people/victoria-davis.md"]
 short_description = "It is a journey that does evolve over the course of the three songs, and textually speaking it is such an interesting journey I honestly wish there were more songs devoted to it."
 slug = "stardust-a-strong-highlight-of-poc-talent"
 title = "Stardust a Strong Highlight of POC Talent"
@@ -22,7 +22,7 @@ In the wake of Black Lives Matter protests that have sprung up in the wake of Ge
 
 > It is such an interesting journey I honestly wish there were more songs devoted to it.
 
-Cue [Helios Opera](/scene/companies/helios-opera/)’s Modular Opera Project, which in September produced a gut-wrenching filmed performance of Poulenc’s _La voix humaine_. To address this front, they pulled together an all-POC creative team, with music from Brooklyn-based composer Felix Jarrar and text from London-based writer B.L. Foxley, to create a world-premiere project to be premiered by black soprano Victoria Davis. Part of the goal was to produce something that elevated these voices, and on this front Helios Opera has certainly succeeded.
+Cue [Helios Opera](/scene/companies/helios-opera/)’s Modular Opera Project, which in September produced a gut-wrenching filmed performance of Poulenc’s _La voix humaine_. To address this front, they pulled together an all-POC creative team, with music from Brooklyn-based composer [Felix Jarrar](/scene/people/felix-jarrar/) and text from London-based writer B.L. Foxley, to create a world-premiere project to be premiered by black soprano Victoria Davis. Part of the goal was to produce something that elevated these voices, and on this front Helios Opera has certainly succeeded.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
