@@ -10,7 +10,7 @@ preamble = ""
 primary_image = ""
 primary_image_credit = ""
 related_articles = []
-related_companies = []
+related_companies = ["scene/companies/helios-opera.md"]
 related_people = []
 short_description = "It is a journey that does evolve over the course of the three songs, and textually speaking it is such an interesting journey I honestly wish there were more songs devoted to it."
 slug = "stardust-a-strong-highlight-of-poc-talent"
@@ -18,11 +18,11 @@ title = "Stardust a Strong Highlight of POC Talent"
 youtube_url = ""
 
 +++
-In the wake of Black Lives Matter protests that have sprung up in the wake of George Floyd's death, many spheres of our social lives have had to ask themselves the ways in which they can elevate black voices in what they do. The opera world is no exception, and in particular I have been privy to a bunch of emails from Boston-area opera companies designed to address these issues. Some in the Boston area were already trending towards addressing this with things like MassOpera's workshop for Dan Shore's [_Freedom Ride_](/operatic-journeys-massopera-presents-freedom-ride/), but as always there is still more work to be done, particularly to boost such voices on the creative side in addition to the singing side.
+In the wake of Black Lives Matter protests that have sprung up in the wake of George Floyd's death, many spheres of our social lives have had to ask themselves the ways in which they can elevate black voices in what they do. The opera world is no exception, and in particular I have been privy to a bunch of emails from Boston-area opera companies designed to address these issues. Some in the Boston area were already trending towards addressing this with things like [MassOpera](/scene/companies/massopera/)'s workshop for Dan Shore's [_Freedom Ride_](/operatic-journeys-massopera-presents-freedom-ride/), but as always there is still more work to be done, particularly to boost such voices on the creative side in addition to the singing side.
 
 > It is such an interesting journey I honestly wish there were more songs devoted to it.
 
-Cue Helios Opera’s Modular Opera Project, which in September produced a gut-wrenching filmed performance of Poulenc’s _La voix humaine_. To address this front, they pulled together an all-POC creative team, with music from Brooklyn-based composer Felix Jarrar and text from London-based writer B.L. Foxley, to create a world-premiere project to be premiered by black soprano Victoria Davis. Part of the goal was to produce something that elevated these voices, and on this front Helios Opera has certainly succeeded.
+Cue [Helios Opera](/scene/companies/helios-opera/)’s Modular Opera Project, which in September produced a gut-wrenching filmed performance of Poulenc’s _La voix humaine_. To address this front, they pulled together an all-POC creative team, with music from Brooklyn-based composer Felix Jarrar and text from London-based writer B.L. Foxley, to create a world-premiere project to be premiered by black soprano Victoria Davis. Part of the goal was to produce something that elevated these voices, and on this front Helios Opera has certainly succeeded.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
