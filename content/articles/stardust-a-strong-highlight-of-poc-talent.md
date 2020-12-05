@@ -8,13 +8,13 @@ image_gallery = []
 postamble = "[_Stardust_](https://heliosopera.com/projects/stardust/) has three more performances, December 6, 11, and 13."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1607196695/media/2020/12/sqSD_1JohndelosSantosKeithBrowning_egyxdw.jpg"
-primary_image_credit = ""
+primary_image_credit = "Image: Keith Browning/John de los Santos."
 related_articles = []
 related_companies = ["scene/companies/helios-opera.md"]
 related_people = ["scene/people/felix-jarrar.md", "scene/people/victoria-davis.md"]
 short_description = "It is a journey that does evolve over the course of the three songs, and textually speaking it is such an interesting journey I honestly wish there were more songs devoted to it."
 slug = "stardust-a-strong-highlight-of-poc-talent"
-title = "Stardust a Strong Highlight of POC Talent"
+title = "Stardust a strong highlight of POC talent"
 youtube_url = ""
 
 +++
@@ -26,7 +26,7 @@ Cue [Helios Opera](/scene/companies/helios-opera/)’s Modular Opera Project, wh
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1607196711/media/2020/12/SD2crJohndelosSantosKeithBrowning_nipkle.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Image: Keith Browning/John de los Santos.</figcaption>
 
 </figure>
 
@@ -42,7 +42,7 @@ Realizing a project like this would definitely incur a different approach from _
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1607196731/media/2020/12/SD3crJohndelosSantosKeithBrowning_lwm67p.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Image: Keith Browning/John de los Santos.</figcaption>
 
 </figure>
 
