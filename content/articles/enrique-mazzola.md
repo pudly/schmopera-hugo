@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "short"
-slug = "enrique-mazzola"
-title = "Enrique Mazzola"
+slug = "enrique-mazzola-we-will-be-back-soon-and-with-double-the-energy"
+title = "Enrique Mazzola: \"We will be back soon and with double the energy.\""
 youtube_url = ""
 
 +++
