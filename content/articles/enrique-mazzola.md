@@ -1,7 +1,7 @@
 +++
 author = ["authors/michael-pecak.md"]
 categories = "Interview"
-date = 2020-12-05T05:00:00Z
+date = 2020-12-06T05:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "short"
-slug = "enrique-mazzola-we-will-be-back-soon-and-with-double-the-energy"
-title = "Enrique Mazzola: \"We will be back soon and with double the energy.\""
+slug = "catching-up-with-enrique-mazzola"
+title = "Catching up with Enrique Mazzola"
 youtube_url = ""
 
 +++
