@@ -7,12 +7,12 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1607278774/media/2020/12/EnriqueMazzola-ToddRosenberg_fyyi4r.jpg"
+primary_image_credit = "Photo: Todd Rosenberg."
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "\"Our city\" – It was a phrase that came up often in our conversation. It's clear Maestro Mazzola already has one foot firmly planted in his newly adopted hometown. As he confessed, he is excited to spend his first holiday season in Chicago despite health restrictions and cancellations."
 slug = "catching-up-with-enrique-mazzola"
 title = "Catching up with Enrique Mazzola"
 youtube_url = ""
@@ -32,9 +32,13 @@ Released weekly and accessible through [LOC's YouTube channel](https://www.youtu
 
 **EM:** _At first, I recorded with my phone and used an editing app, but after six hours of editing the first episode on the tiny screen, it was too difficult. Then, I discovered iMovie on my laptop and this opened whole new possibilities. I hope viewers notice an improvement in the quality of the videos from the first to the last. I'm quite pleased with how this series turned out and I am thinking of continuing it for future operas._
 
+> "One my big objectives for Lyric is for it to be not only a cultural center of Chicago, but the opera house open to all of its communities – the opera house of everybody."
+
 _Attila_ is not a title one comes across often, at least not at American opera houses. For Mazzola, selecting repertoire is part of a broader roadmap he outlines both for himself and for the companies he works with.
 
 **EM:** _In the last ten years I have conducted a lot of bel canto repertoire and I have many more Verdi plans for the future with LOC. There’s a personal element for me: I like very much to make connections between pieces, in how I develop my repertoire. For example, if I want to conduct_ Aida_, then I first want to conduct earlier Verdi. I feel this great heritage Verdi is taking from the bel canto traditions before him and I love following how he transforms those forms into something new and makes them his own. Generally speaking, I love seeing how composers develop and how their language changes over the course of their lives. For example, like_ I due Foscari _– I feel the darkness of_ I due Foscari _is like a precursor to_ Simon Boccanegra_. Also, I feel these early Verdi operas are still sadly underestimated today and I am fighting this underrepresentation of early Verdi._
+
+> It's clear Maestro Mazzola already has one foot firmly planted in his newly adopted hometown.
 
 As the incoming Music Director of a major American opera house, Mazzola is ever mindful of the present moment and the role of a company of LOC's stature in serving the community. "Opera houses cannot simply circulate the same ten major titles," he says. "It's our duty to offer audiences opportunities to experience new works." One such offering was to be _Blue_ by Tony Award-winning composer Jeanine Tesori and NAACP Theatre Award-winning librettist Tazewell Thompson. Mazzola was slated to conduct the Chicago premiere of this 2019 opera about an African American couple in Harlem, anticipating the birth of their firstborn son, and navigating a cultural landscape of racism, violence, and reconciliation. Unfortunate COVID cancellations will postpone this event to a future season. Nonetheless, the message of the piece reflects Mazzola's goals for LOC's profile as it enters the next decade of the 21st-century. Reiterating his views from earlier conversations, Mazzola goes on to say:
 
@@ -42,7 +46,7 @@ As the incoming Music Director of a major American opera house, Mazzola is ever 
 
 Despite LOC’s cancelled season, the company is putting on virtual events that highlight its artists, including a recital featuring members of the Ryan Opera Center to be premiered on February 21, 2021. ["Sole e Amore"](https://www.lyricopera.org/shows/upcoming/2020-21/sole-e-amore/), the brainchild of Mazzola, is a program of songs—not arias—by Italian operatic masters, including Donizetti, Bellini, Puccini, and Mascagni, among others. As the title of the recital suggests, love is the central theme of the program, but love in various guises and relationships: love/religion, love/passion, love/seduction. Singers from the ROC will be accompanied by Maestro Mazzola himself at the piano. "I thought it is important for the future Music Director to be in close contact with the Ryan Opera Center. I wanted to do a project just with them and to get to know them. I want to be a good ambassador for them both in our city and abroad."
 
-"Our city" – It was a phrase that came up often in our conversation. It's clear Maestro Mazzola already has one foot firmly planted in his newly adopted hometown. As he confessed, he is excited to spend his first holiday season in Chicago despite health restrictions and cancellations.
+"Our city" – It was a phrase that came up often in our conversation. . It's clear Maestro Mazzola already has one foot firmly planted in his newly adopted hometownAs he confessed, he is excited to spend his first holiday season in Chicago despite health restrictions and cancellations.
 
 **EM:** _Although we had to make the difficult decision to cancel this season, I feel my place is to be here in Chicago. I want to be with my people, I want to encourage the company and support everyone. I am an optimistic, positive person by nature and I want to send this message to everyone. Of course, we are currently in a horrible situation, but a temporary situation. I know that we will be back soon and with double the energy – this is the message I want to pass on to everyone._
 
