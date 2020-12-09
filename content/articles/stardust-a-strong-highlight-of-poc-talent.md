@@ -1,11 +1,10 @@
 +++
 author = ["authors/arturo-fernandez.md"]
 categories = "Review"
-date = 2020-12-05T05:00:00Z
+date = 2020-12-08T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
-postamble = "[_Stardust_](https://heliosopera.com/projects/stardust/) has three more performances, December 6, 11, and 13."
+postamble = "[_Stardust_](https://heliosopera.com/projects/stardust/) has two more performances, December 11 and 13."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1607196695/media/2020/12/sqSD_1JohndelosSantosKeithBrowning_egyxdw.jpg"
 primary_image_credit = "Image: Keith Browning/John de los Santos."
