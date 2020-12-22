@@ -40,9 +40,9 @@ The lyrics to Gilda Lyons' "Songs of Lament and Praise," are drawn from Irish te
 
 "A Mother’s Lament," from an anonymous 11th-century source is perhaps the most tragic expression of familial loss set to music since Samuel Barber's "Andromache's Farewell". Singing Barber's seminal piece, the great Martina Arroyo found the nobility in Euripides' verse which is precisely what Strickling does in the Lyons song. It isn't so much a sound, though the ritualistic rhythm Strickling employs is certainly a part of it, but more a haunting feeling inherent in every word she sings that hangs over this emotionally wrenching work. Conversely "An Even-Song", the last in Lyons' cycle, feels close to a lullaby, albeit an intense one. Lyons composes a plea for our better angels or, as Saint Patrick put it, "thy holy angels" to guide us, which Strickland delivers as a beautifully embellished benediction.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1608595805/media/2020/12/p_1_a64obz.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Soprano Laura Strickling performing live in a 2019 WFMT- Chicago radio recital. Photo by Daniel Schlosberg.</figcaption>  
 </figure>
 
 Tom Cipullo settings of Marilyn Kallet's four poems under the heading "How To Get Heat Without Fire", show just how perfectly their words and music coalesce. For Strickling they present one vocal opportunity after another which she handily seizes while creating opportunities of her own in the process.
@@ -51,9 +51,9 @@ Cipullo's music is bound by virtually nothing. Its boundlessness makes it contin
 
 "The Pocketbook" shows just how psychologically sound this composer/poet team is, not that there was a doubt, and that they are theatrically inclined as well. Unfolding like an unhinged oratorio it is played to comic heights only to come crashing down to halting reality. Strickling traverses the Cipullo/Kallet terrain with ballet-like precision and utter naturalness. But rather than repeat what she does so well it is simply best to acknowledge that admiration for her voice and interpretative prowess grows as this program moves forward.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1608595828/media/2020/12/p_2_sq4bhu.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Soprano Laura Strickling performing at a Brooklyn Art Song Society recital at the Brooklyn Historical Society.  Photo by Harold Levine.</figcaption>  
 </figure>
 
 Ophelia has been the subject of two works by Amy Beth Kirsten with her "Ophelia Forever", a performance piece in which three singers portray aspects of the heroine's personality. Strickling takes on "To See What I See", an aggressively atonal work with text drawn from Shakespeare. It visits Ophelia's reaction to her disintegrating relationship with Hamlet and encroaching insanity with a lucid moment before her suicide. The strength of its atonality diminishes any image of Ophelia as a weak victim. Pianist, Joy Schreier’s accompaniment is especially crucial to establishing the changing moods of the piece that Strickling conveys so effectively.
@@ -62,9 +62,9 @@ Schreier is an indispensable accompanist. She is either preternaturally intuitiv
 
 "I Would Live In Your Love", "Absence", and "Spring Rain", which comprise the cycle, are laced with images of undulating sea-grass, the sounds of insects on a hot night and painful memories spurred by a spring rain. With intense insight they tell stories of love and loss, their messages remaining impeccably clear amid the pervasive imagery. At this point we would expect Strickling and Schreier to do nothing less than capture the essence of each, and they do.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1608595878/media/2020/12/p_3_mcf2wo.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Soprano Laura Strickling. Photo: courtesy Laura Strickling.</figcaption>  
 </figure>
 
 If "Lament" is the tragically profound take-away from _Confessions_ and "I Would Live In Your Love" its most sensuous and romantic, then Libby Larsen's "Rightly" with text by Michele Antonello Frisch, is its pinnacle of sweet recollection. Beautifully observed, with a thorough knowledge of baseball and its cultural meaning, Frisch's spirited and spiritual remembrance set to Larsen's animated music is a most appealing coda to _Confessions_. Akin to _Knoxville: Summer 1915_, but wholly original in its execution, it possesses Barber's level of musical vibrancy and balance of the abstract and representational. It magnetic pulls on the mind as well as the heart.
