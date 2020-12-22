@@ -22,9 +22,9 @@ An art song is by nature deeply personal. A poem or a passage of prose ignites t
 
 When contemplating the content for _Confessions_, soprano, Laura Strickling's recent recording of contemporary art songs by American composers, all of whom occupy the highest ranks of the genre, she was guided by a keen ear for quality and vocal suitability. She was also guided by a commitment to create, out of these fragile entities, a strong and satisfying musical program.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1608595602/media/2020/12/5H3vPjcg_csosug.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Soprano, Laura Strickling and pianist, Joy Schreier take time out for a pic during the Confessions recording session. Photo: Laura Strickling.</figcaption>  
 </figure>
 
 Perhaps Strickling's most influential guide however, was personal experience. This extraordinarily expressive and versatile singer has with courageous specificity chosen songs that brim with delineations of her life. Strickling performs with an intelligent combination of restraint and letting go. Her voice is full and lustrous and then bright and nimble as she weaves her way through the four cycles and two individual songs that she has selected. Each song is an individual story beautifully rendered. Collectively they make a strong statement about the status of contemporary art songs and her commitment to them.
