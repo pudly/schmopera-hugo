@@ -20,20 +20,20 @@ youtube_url = ""
 +++
 An art song is by nature deeply personal. A poem or a passage of prose ignites the composer, melding with the composition. Eschewing the conventions of popular song, and in relatively free form, it consumes a few moments in which it distills a fleeting and quite particular essence. What emerges is wholly unique in form and content. It is also fragile.
 
-When contemplating the content for _Confessions_, soprano, Laura Strickling's recent recording of contemporary art songs by American composers, all of whom occupy the highest ranks of the genre, she was guided by a keen ear for quality and vocal suitability. She was also guided by a commitment to create, out of these fragile entities, a strong and satisfying musical program.
+When contemplating the content for _Confessions_, soprano Laura Strickling's recent recording of contemporary art songs by American composers, all of whom occupy the highest ranks of the genre, she was guided by a keen ear for quality and vocal suitability. She was also guided by a commitment to create, out of these fragile entities, a strong and satisfying musical program.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1608595602/media/2020/12/5H3vPjcg_csosug.jpg){{% /md %}}
 
-<figcaption>Soprano, Laura Strickling and pianist, Joy Schreier take time out for a pic during the Confessions recording session. Photo: Laura Strickling.</figcaption>  
+<figcaption>Soprano Laura Strickling and pianist Joy Schreier take time out for a pic during the Confessions recording session. Photo: Laura Strickling.</figcaption>  
 </figure>
 
 Perhaps Strickling's most influential guide however, was personal experience. This extraordinarily expressive and versatile singer has with courageous specificity chosen songs that brim with delineations of her life. Strickling performs with an intelligent combination of restraint and letting go. Her voice is full and lustrous and then bright and nimble as she weaves her way through the four cycles and two individual songs that she has selected. Each song is an individual story beautifully rendered. Collectively they make a strong statement about the status of contemporary art songs and her commitment to them.
 
 The soprano's opening gambit, Clarice Assad’s deceptively comedic three-song cycle, "Confessions," which prompts the recording's title, concerns itself with such things as social manners, ice cream and looking good. With words by Naomi Major, Alissa McLaughlan and Catherine Maxymuk, the songs are edged with insecurity, lack of self-control and the pressures of seeking perfection. Strickling veers from the rollicking to the frenzied with energized flair, keeping the underlying desperation close beside her glib and often funny interpretations.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1608595763/media/2020/12/p_xm1rqs.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Soprano Laura Strickling performing at a recent Friday Morning Music Club gala. Photo: FMMC Inc.</figcaption>  
 </figure>
 
 The lyrics to Gilda Lyons' "Songs of Lament and Praise," are drawn from Irish texts written between the 10th and 12th centuries. Three are from anonymous sources and the remaining two from the writings of ancient Irish churchman and writer Mael Ísu Ua Brolcháin and Saint Patrick. Together they present a story based on the female figures of Eve, Deirdre (a tragic heroine in Irish myth) and Mother. They form a picture of the human condition that Lyons finds has changed very little over time.
