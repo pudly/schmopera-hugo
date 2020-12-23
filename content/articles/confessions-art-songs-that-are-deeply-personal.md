@@ -4,7 +4,7 @@ categories = "Review"
 date = 2020-12-23T05:00:00Z
 disclaimer = ""
 image_gallery = []
-postamble = ""
+postamble = "_Confessions_ is available now on [Yarlung Records](https://www.yarlungrecords.com/product/confessions/)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1608595717/media/2020/12/195448187984_wfxon6.jpg"
 primary_image_credit = "Photo: Arielle Doneson. Album cover design: Jennifer Bruce."
@@ -19,7 +19,7 @@ youtube_url = ""
 +++
 An art song is by nature deeply personal. A poem or a passage of prose ignites the composer, melding with the composition. Eschewing the conventions of popular song, and in relatively free form, it consumes a few moments in which it distills a fleeting and quite particular essence. What emerges is wholly unique in form and content. It is also fragile.
 
-When contemplating the content for _Confessions_, soprano [Laura Strickling](/scene/people/laura-strickling/)'s recent recording of contemporary art songs by American composers, all of whom occupy the highest ranks of the genre, she was guided by a keen ear for quality and vocal suitability. She was also guided by a commitment to create, out of these fragile entities, a strong and satisfying musical program.
+When contemplating the content for [_Confessions_](https://www.yarlungrecords.com/product/confessions/), soprano [Laura Strickling](/scene/people/laura-strickling/)'s recent recording of contemporary art songs by American composers, all of whom occupy the highest ranks of the genre, she was guided by a keen ear for quality and vocal suitability. She was also guided by a commitment to create, out of these fragile entities, a strong and satisfying musical program.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1608595602/media/2020/12/5H3vPjcg_csosug.jpg){{% /md %}}
 
