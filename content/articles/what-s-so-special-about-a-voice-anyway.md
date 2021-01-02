@@ -24,6 +24,8 @@ I am a professional singer. I _was_ a professional singer. People used to pay me
 
 For twenty years, everything was fine. Then suddenly, one day, a hidden force grabbed me by the throat. And I became a singer who couldn't talk about rehearsals. I couldn't hang out with my singer friends. I couldn't talk about concerts. All of it made me want to throw up, punch someone, or cry uncontrollably. Just writing that cracks me open again.
 
+> When I got back to my dressing room I knew I was done.
+
 Imagine you're having a conversation and mid-sentence the corner of your mouth is pulled all the way over to your left ear. That’s what happened to me. My left vocal cord no longer met my right one in the centre. High notes were fine. Low notes were easy. But when I tried to sing in the middle, empty pockets of air would sometimes hiss back at me, other times a note I wasn't expecting would appear. When I sang L's and R's my tongue choked me. I could no longer predict the sound coming out of my mouth.
 
 I was newly married, renovating my home, and performing on stage _just_ enough to label myself as a "Professional Opera Singer". I knew who I was and what I wanted to do. Or at least I thought I did. I was convinced I could fix my problem. But, at my last concert whenever I sang the conductor would tilt her head abruptly in my direction. When I got back to my dressing room I knew I was done.
@@ -35,6 +37,8 @@ I practiced every day. And every day I wanted to give up. I took detailed notes 
 Then, the morning after yet _another_ birthday, I finally woke up from my nightmare.
 
 I realized I didn't want my old voice back. I wanted a new one. I headed upstairs to my studio to delete, trash, and shred all evidence of a voice that took forty-five years to build. I locked eyes with my IKEA mirror and said, "Ok, you've got me. I surrender. Show me what's next."
+
+> The only thing that chokes me up now is gratitude.
 
 Days later, I cancelled my regular speech pathology appointment and went to meet a new voice teacher instead. In another two weeks, a voice I didn't recognize came soaring out of my body and filled my teacher's enormous studio. I kept track of the good things that happened. My shoulders aligned. I let my hair down. I read every book and listened to every podcast on neurology, mindset, comedy, meditation, and yoga until I had built a proper home for this new voice to move into.
 
