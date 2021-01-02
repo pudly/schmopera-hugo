@@ -30,6 +30,8 @@ Imagine you're having a conversation and mid-sentence the corner of your mouth i
 
 I was newly married, renovating my home, and performing on stage _just_ enough to label myself as a "Professional Opera Singer". I knew who I was and what I wanted to do. Or at least I thought I did. I was convinced I could fix my problem. But, at my last concert whenever I sang the conductor would tilt her head abruptly in my direction. When I got back to my dressing room I knew I was done.
 
+> My daily practice videos documented slumped shoulders, and a variety of hair cuts.
+
 It took two years of voice specialists including one procedure where my larynx was pierced with a needle while awake. There were the three surgeries during which gel was inserted into my left vocal cord. Thankfully, I was asleep then. Finally, I invested in a formidable speech pathologist, and a kind-eyed therapist. Every second Thursday for almost four years they helped me discover what my voice was really made of.
 
 I practiced every day. And every day I wanted to give up. I took detailed notes of what was wrong with my voice. My daily practice videos documented slumped shoulders, and a variety of hair cuts. On rare days I just stared into the camera. What was all of this for?
