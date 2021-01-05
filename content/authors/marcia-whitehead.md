@@ -1,7 +1,7 @@
 +++
 draft = true
 email = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1609881261/media/2021/01/marcia_whitehead_headshot5_afhmon.jpg"
 short_bio = "\"I sing. I write. I overthink. That’s about it.\"  Marcia Whitehead is a singer, writer and survivor of one woman show with a plot twist she didn't see coming. A vocal detour landed her the leading role of Patient and Soul Searcher as she worked her way through seven years of doctors and procedures, yoga mats and side hustles until she finally woke up to a new voice and a new mission: Help the singers. And repeat."
 slug = "marcia-whitehead"
 social_media = []
@@ -9,11 +9,11 @@ title = "Marcia Whitehead"
 website = ""
 
 +++
-"I sing. I write. I overthink. That’s about it." 
+"I sing. I write. I overthink. That’s about it."
 
 Marcia Whitehead is a singer, writer and survivor of one woman show with a plot twist she didn't see coming. A vocal detour landed her the leading role of Patient and Soul Searcher as she worked her way through seven years of doctors and procedures, yoga mats and side hustles until she finally woke up to a new voice and a new mission: Help the singers. And repeat.
 
-In the midst of retraining as a newly minted Soprano she wrote and performed her One Woman Show, Clean Slate, with [Soulo Theatre](https://www.soulo.ca/soulo-theatre) in June 2020. The autobiographical story zoomed in on the risks she took on the road to vocal recovery. She then created [Clean Slate - A Singer's Story Forum](https://www.facebook.com/SingersStoryForum/?view_public_for=100776468397073) which gives singers an open mic to share their vocal challenges and triumphs. 
+In the midst of retraining as a newly minted Soprano she wrote and performed her one woman show, _Clean Slate_, with [Soulo Theatre](https://www.soulo.ca/soulo-theatre) in June 2020. The autobiographical story zoomed in on the risks she took on the road to vocal recovery. She then created [Clean Slate - A Singer's Story Forum](https://www.facebook.com/SingersStoryForum/?view_public_for=100776468397073) which gives singers an open mic to share their vocal challenges and triumphs.
 
 2021 projects and collaborations include: online Talks and Masterclasses on Patience, Perseverance and the Personal Investments needed to build a Resilient Voice; studying Mindfulness, Meditation, Neuroscience and Brain Chemistry at McMaster University, and writing a memoir.
 
