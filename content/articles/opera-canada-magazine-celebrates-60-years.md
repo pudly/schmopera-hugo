@@ -1,9 +1,8 @@
 +++
-author = ["authors/anonymous.md"]
+author = ["authors/leah-borts-kuperman.md"]
 categories = "Meta"
-date = 2021-01-06T05:00:00Z
+date = 2021-01-08T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
@@ -18,7 +17,7 @@ title = "Opera Canada magazine celebrates 60 years"
 youtube_url = ""
 
 +++
-When founding editor Ruby Mercer launched [_Opera Canada _](https://operacanada.ca/)magazine in February 1960, it was little more than a humble 4-page, 8 ½ X 11 newsletter. 60 years later, it is Canada's oldest, continuously published arts journal, and to celebrate, _Opera Canada_ recently released a 60th anniversary collector's edition to commemorate this landmark milestone. The lavish, 96-page special edition looks back at Canada's rich opera heritage but significantly, from the point of view of today’s leading, as well as up-and-coming Canadian opera artists.
+When founding editor Ruby Mercer launched [_Opera Canada_](https://operacanada.ca/) magazine in February 1960, it was little more than a humble 4-page, 8 ½ X 11 newsletter. 60 years later, it is Canada's oldest, continuously published arts journal, and to celebrate, _Opera Canada_ recently released a 60th anniversary collector's edition to commemorate this landmark milestone. The lavish, 96-page special edition looks back at Canada's rich opera heritage but significantly, from the point of view of today’s leading, as well as up-and-coming Canadian opera artists.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1609965179/media/2021/01/OperaCanada60anno-cover_jwudnk.jpg){{% /md %}}
 
