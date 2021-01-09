@@ -1,5 +1,5 @@
 +++
-author = ["authors/anonymous.md"]
+author = ["authors/marcia-whitehead.md"]
 categories = "Op-Ed"
 date = 2021-01-08T05:00:00Z
 disclaimer = ""
