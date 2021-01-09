@@ -1,9 +1,8 @@
 +++
 author = ["authors/anonymous.md"]
 categories = "Op-Ed"
-date = 2021-01-02T05:00:00Z
+date = 2021-01-08T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
