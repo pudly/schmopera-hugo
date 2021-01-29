@@ -30,7 +30,7 @@ Of course, it's not a simple decision. The work is new and a bit daunting, and I
 
 In case you're curious, I'll keep writing. No, I won't write reviews of my clients' performances, nor will I try and get away with any similar sort of glaring conflict of interest. I know it's not really common for someone to do the jobs of management and criticism at the same time, but being a rare breed is alright with me.
 
-Oh! And before I forget to do the obvious: you should meet the new Canadian crew! New to the Stratagem roster are:****FIX THESE LINKS
+Oh! And before I forget to do the obvious: you should meet the new Canadian crew! New to the Stratagem roster are:
 
 * [Lucia Cesaroni](https://www.stratagemartists.com/lucia-cesaroni), soprano
 * [Aviva Fortunata](https://www.stratagemartists.com/aviva-fortunata), soprano
