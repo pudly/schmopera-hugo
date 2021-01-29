@@ -33,3 +33,5 @@ In case you're curious, I'll keep writing. No, I won't write reviews of my clien
 Oh! And before I forget to do the obvious: you should meet the new Canadian crew! New to the Stratagem roster are:
 
 * [Lucia Cesaroni](/scene/people/lucia-cesaroni/), soprano
+* [Aviva Fortunata](/scene/people/aviva-fortunata/), soprano
+* Reilly Nelson, mezzo-soprano
