@@ -26,4 +26,6 @@ The more complete version: When I started coaching and playing for opera singers
 
 It might sound trite, but when I decided to take the job with Stratagem, it was for the same reasons as all the other stuff: I want to vouch for singers and make sure as many people as possible know how amazing they are.
 
-Of course, it's not a simple decision. The work is new and a bit daunting, and I've arguably come into this new gig in a bizarre, brutal time for the performing arts. But I'm energized by it, listening to these roster artists and their audition recordings, poring over the details of their resumes, sprucing up their biographies, and - most importantly - 
+Of course, it's not a simple decision. The work is new and a bit daunting, and I've arguably come into this new gig in a bizarre, brutal time for the performing arts. But I'm energized by it, listening to these roster artists and their audition recordings, poring over the details of their resumes, sprucing up their biographies, and - most importantly - pairing them with precious work opportunities.
+
+In case you're curious, I'll keep writing. No, I won't write reviews of my clients' performances, nor will I try and get away with any similar sort of glaring conflict of interest. I know it's not really common for someone to do the jobs of management and criticism at the same time, but being a rare breed is alright with me.
