@@ -39,3 +39,7 @@ Oh! And before I forget to do the obvious: you should meet the new Canadian crew
 * [Cecilia Livingston](/scene/people/cecilia-livingston/), composer
 * [Robert Tweten](/scene/people/robert-tweten/), conductor
 * [Aria Umezawa](/scene/people/aria-umezawa/), director
+
+There you have it! The first step in a new venture for me, and a bit of optimistic news for you, readers.
+
+I'm clearly biased, but you should also head over to [Stratagem's new website](https://www.stratagemartists.com/) and give these artists a look and listen.
