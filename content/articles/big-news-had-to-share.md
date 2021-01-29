@@ -20,7 +20,7 @@ youtube_url = ""
 +++
 Readers! I have some news to share!
 
-The short version: I've got a new gig. I'm joining [Stratagem Artists Management](https://www.stratagemartists.com/), a boutique company based in New York, as Associate Artist Manager. I'm excited!
+The short version: I've got a new gig. I'm joining [Stratagem Artists Management](https://www.stratagemartists.com/) as Associate Artist Manager. Stratagem is a boutique agency, based in New York and founded by Justin Werner, and they've kicked off an expansion into the Canadian operatic scene. I'm excited!
 
 The more complete version: When I started coaching and playing for opera singers, it was to support their amazing work. When I started Schmopera, it was to make sure that their [stories got told](https://www.schmopera.com/in-defence-of-singers/) - the great ones and the [less-than-awesome](/thestories-are-coming-out-and-heres-why/) ones, too - and told with the proper amount of awe and enthusiasm for their rockstar ways. 
 
