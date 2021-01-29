@@ -35,3 +35,7 @@ Oh! And before I forget to do the obvious: you should meet the new Canadian crew
 * [Lucia Cesaroni](/scene/people/lucia-cesaroni/), soprano
 * [Aviva Fortunata](/scene/people/aviva-fortunata/), soprano
 * Reilly Nelson, mezzo-soprano
+* Phillip Addis, baritone
+* Cecilia Livingston, composer
+* Robert Tweten, conductor
+* Aria Umezawa, director
