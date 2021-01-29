@@ -32,13 +32,13 @@ In case you're curious, I'll keep writing. No, I won't write reviews of my clien
 
 Oh! And before I forget to do the obvious: you should meet the new Canadian crew! New to the Stratagem roster are:****FIX THESE LINKS
 
-* [Lucia Cesaroni](/scene/people/lucia-cesaroni/), soprano
+* [Lucia Cesaroni](https://www.stratagemartists.com/lucia-cesaroni), soprano
 * [Aviva Fortunata](https://www.stratagemartists.com/aviva-fortunata), soprano
 * [Reilly Nelson](https://www.stratagemartists.com/reilly-nelson), mezzo-soprano
-* [Phillip Addis](/scene/people/phillip-addis/), baritone
+* [Phillip Addis](https://www.stratagemartists.com/philip-addis), baritone
 * [Cecilia Livingston](https://www.stratagemartists.com/cecilia-livingston), composer
-* [Robert Tweten](/scene/people/robert-tweten/), conductor
-* [Aria Umezawa](/scene/people/aria-umezawa/), director
+* [Robert Tweten](https://www.stratagemartists.com/robert-tweten), conductor
+* [Aria Umezawa](https://www.stratagemartists.com/aria-umezawa), director
 
 There you have it! The first step in a new venture for me, and a bit of optimistic news for you, readers.
 
