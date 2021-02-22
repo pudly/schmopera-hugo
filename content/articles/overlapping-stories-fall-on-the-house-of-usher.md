@@ -20,18 +20,18 @@ youtube_url = ""
 +++
 Three years ago I had the pleasure of reviewing the Philip Glass opera, _The Fall of the House of Usher_ when it was presented by the Mannes School of Music/New School. Fifty people were gathered in a single U-shaped row of the intimate Stiefel Concert Hall to hear this stunningly sung and played chamber opera. Employing visual electronics, perspective altering scenery and an orchestra behind a lace curtain, this eerie production had a romantic and gothic allure. Looking back, a live performance like this taking place in a pre-pandemic world was a sublime luxury.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1614022227/media/2021/02/BLO-2021-USHER-The-House-of-Usher_heujxi.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>The House of Usher. Boston Lyric Opera's 2021 operabox.tv production of The Fall of the House of Usher. Image: operabox.tv/Boston Lyric Opera.</figcaption>  
 </figure>
 
 As the pandemic continues to inflict an abundance of uncertainty on performing arts organizations, the Boston Lyric Opera has embraced the opportunities of the virtual with impressive boldness. The company has produced and is currently streaming a [filmed version of _Usher_](https://www.operabox.tv/featured/videos/usher) on operabox.tv through June 30. Attempting to give the work a contemporary perspective, the film takes liberties with Edgar Allan Poe's tale with the insertion of two overlapping storylines.
 
 The additions are debatable but the film stands as a considerable artistic achievement and is testament to the resilience of opera in the pandemic era. At its core it is quite a luxury in and of itself. Film and opera director, James Darrah skillfully situates the opera within the concepts, attending to the momentum that is so vital to Glass' composition. He sustains a swift pace while creating a feeling of confinement throughout the film that contributes to its inexorable destiny.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1614022286/media/2021/02/BLO-2021-USHER-Luna-in-a-Detention-Center-cage_1_joev4s.png){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Luna in a detention cage. Boston Lyric Opera's 2021 operabox.tv production of The Fall of the House of Usher. Image: operabox.tv/Boston Lyric Opera.</figcaption>  
 </figure>
 
 Glass and Poe remain intact and the results are arresting but the total package feels removed from what they and librettist, Arthur Yorkins, had in mind. Utilizing animated drawings, stop-motion animation and archival film clips, the BLO film attempts to recast the story from the point of view of a mute migrant child named Luna who is finding her way from Guatemala City to the United States/Mexico border. Luna encounters an abandoned doll house along the way and imagines Poe's story taking place within.
@@ -40,9 +40,9 @@ On top of that we enter Usher and Luna's experience via the medium of television
 
 We begin and end somewhere in the vicinity of _The Twilight Zone_ with a gender-bending host gamely played by Sheila Vand. Possessing considerable verve and impressive _avant garde_ credentials, Vand is sly and more than faintly dangerous when called upon to explain the film's three pronged concept. The screenplay by Raúl Santos, something wholly separate from the libretto, places her alongside that relic of a television where she tell us that _Usher_ exists in the darkest reaches of our personal and television fantasies. Would Poe's hints of sexual ambiguity, hallucination and supernatural forces not reach us without this warning? Vand mitigates the heavy handed moment with sardonic glee.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1614022323/media/2021/02/BLO-2021-USHER-William-rests_vpkdqk.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>William rests. Boston Lyric Opera's 2021 operabox.tv production of The Fall of the House of Usher. Image: operabox.tv/Boston Lyric Opera.</figcaption>  
 </figure>
 
 The BLO employs a first-rate recording with its orchestra led by David Angus who derives lush and propulsive playing from his twelve-person ensemble. The repetitive phrases and shifting layers that so identify a Philip Glass composition take on a resonant and quite seductive air. On that note, this recording would be a welcome addition to the Glass audio catalog, especially considering the fine voices involved.
@@ -53,7 +53,7 @@ The grueling hardships of immigration, no matter how this concept fits, are powe
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Boston Lyric Opera's 2021 operabox.tv production of The Fall of the House of Usher. Image: operabox.tv/Boston Lyric Opera.</figcaption>  
 </figure>
 
 The film clips induce an added sense of anxiety, a commodity with which the opera already teems. Animal testing; duck-and-cover classroom drills; an assembly line of doll parts; and the plundering of the land in the name of growth flash by. They contribute to what the film portrays as our misguided national identity and sense of priorities but the statement is hurly-burly. Their connection to the very private and specific angst of Roderick and Madeline is not so much a mystery as nonexistent.
@@ -62,7 +62,7 @@ Opera and concept coalesce with surprising beauty and dramatic impact whenever t
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Boston Lyric Opera's 2021 operabox.tv production of The Fall of the House of Usher. Image: operabox.tv/Boston Lyric Opera.</figcaption>  
 </figure>
 
 When Roderick opens the music box that William presents as a gift he finds JFK, Jackie and Marilyn Monroe twirling about in various combinations. If anything puts a contemporary face on the work this is it—the vision of Camelot corrupted. In a scene that has its origins in the introduction in which Vand, with devious affection, brushes a doll's hair, we see, much to William's dismay, Roderick running a brush through Madeline's. The screen then begins to fill will what appears to be strands of Madeline's hair, suddenly a creeping mass.
@@ -71,7 +71,7 @@ The figures of humans and the exquisitely rendered horse that William rides, sha
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Boston Lyric Opera's 2021 operabox.tv production of The Fall of the House of Usher. Image: operabox.tv/Boston Lyric Opera.</figcaption>  
 </figure>
 
 They reads like the credit roll for a Marvel Studio epic. Providing what might be the largest audience _The Fall of the House of Usher_ has yet to receive, the BLO is offering seven days of access with the purchase of a modest $10.00 ticket at [operabox.tv](https://www.operabox.tv/). With each viewing I admit to taking less issue with the incongruities, or, depending on your point of view, its contemporary perspectives.
