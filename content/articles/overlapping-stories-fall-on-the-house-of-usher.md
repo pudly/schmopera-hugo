@@ -60,18 +60,18 @@ The film clips induce an added sense of anxiety, a commodity with which the oper
 
 Opera and concept coalesce with surprising beauty and dramatic impact whenever the stop-motion animation created by the Ancient Order of the Wooden Skull takes over. The animated figures create their own drama which is oddly heightened by the limits of their artificiality. William's intense gaze and stiff posture along with Roderick's hollow stare and weakening presence convey volumes about their characters. Seen in various guises Madeline is an altogether spectral presence, achieving in stop-motion what live performance could not. In their brief appearances the chilling figures of the servant and physician carry their full evocative weight.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1614022394/media/2021/02/BLO-2021-USHER-William-and-Roderick_pok4uk.jpg){{% /md %}}
 
-<figcaption>Boston Lyric Opera's 2021 operabox.tv production of The Fall of the House of Usher. Image: operabox.tv/Boston Lyric Opera.</figcaption>  
+<figcaption>William and Roderick. Boston Lyric Opera's 2021 operabox.tv production of The Fall of the House of Usher. Image: operabox.tv/Boston Lyric Opera.</figcaption>  
 </figure>
 
 When Roderick opens the music box that William presents as a gift he finds JFK, Jackie and Marilyn Monroe twirling about in various combinations. If anything puts a contemporary face on the work this is it—the vision of Camelot corrupted. In a scene that has its origins in the introduction in which Vand, with devious affection, brushes a doll's hair, we see, much to William's dismay, Roderick running a brush through Madeline's. The screen then begins to fill will what appears to be strands of Madeline's hair, suddenly a creeping mass.
 
 The figures of humans and the exquisitely rendered horse that William rides, share a rhythmic compatibility with Glass' composition. This is not to say that they dance to the music. It's something much more subtle than that. The atmospheric lighting and shadow that grace the stop-motion scenes embellish like the brushstrokes of a master. Linger over the closing credits and appreciate the group of talented artists and technicians who collaborated so seamlessly on this project.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1614022423/media/2021/02/BLO-2021-USHER-Luna-and-her-mother-flee_iupghh.png){{% /md %}}
 
-<figcaption>Boston Lyric Opera's 2021 operabox.tv production of The Fall of the House of Usher. Image: operabox.tv/Boston Lyric Opera.</figcaption>  
+<figcaption>Luna and her mother flee. Boston Lyric Opera's 2021 operabox.tv production of The Fall of the House of Usher. Image: operabox.tv/Boston Lyric Opera.</figcaption>  
 </figure>
 
 They reads like the credit roll for a Marvel Studio epic. Providing what might be the largest audience _The Fall of the House of Usher_ has yet to receive, the BLO is offering seven days of access with the purchase of a modest $10.00 ticket at [operabox.tv](https://www.operabox.tv/). With each viewing I admit to taking less issue with the incongruities, or, depending on your point of view, its contemporary perspectives.
