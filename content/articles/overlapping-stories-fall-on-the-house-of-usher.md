@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1614021540/media/2021/02/sqBLO-2021-USHER-Luna-in-the-Detention-Yard_hv557v.png"
-primary_image_credit = ""
+primary_image_credit = "Luna in the detention yard | Boston Lyric Opera's 2021 operabox.tv production of The Fall of the House of Usher. Image: operabox.tv/Boston Lyric Opera."
 related_articles = []
 related_companies = []
 related_people = []
@@ -24,17 +24,7 @@ As the pandemic continues to inflict an abundance of uncertainty on performing a
 
 The additions are debatable but the film stands as a considerable artistic achievement and is testament to the resilience of opera in the pandemic era. At its core it is quite a luxury in and of itself. Film and opera director, James Darrah skillfully situates the opera within the concepts, attending to the momentum that is so vital to Glass' composition. He sustains a swift pace while creating a feeling of confinement throughout the film that contributes to its inexorable destiny.
 
-Glass and Poe remain intact and the results are arresting but the total package feels removed from what they and librettist, Arthur Yorkins had in mind. Utilizing animated drawings, stop-motion animation and archival film clips, the BLO film attempts
-
-to recast the story from the point of view of a mute migrant child
-
-named Luna who is finding her way from Guatemala City to the
-
-United States/Mexico border. Luna encounters an abandoned
-
-doll house along the way and imagines Poe’s story taking place
-
-within.
+Glass and Poe remain intact and the results are arresting but the total package feels removed from what they and librettist, Arthur Yorkins, had in mind. Utilizing animated drawings, stop-motion animation and archival film clips, the BLO film attempts to recast the story from the point of view of a mute migrant child named Luna who is finding her way from Guatemala City to the United States/Mexico border. Luna encounters an abandoned doll house along the way and imagines Poe's story taking place within.
 
 On top of that we enter Usher and Luna’s experience via the
 
