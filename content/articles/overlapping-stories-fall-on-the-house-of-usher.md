@@ -51,9 +51,9 @@ Tenor Jesse Darden's desperation is palpable as Roderick Usher, maintaining an a
 
 The grueling hardships of immigration, no matter how this concept fits, are powerfully presented in the animated drawings, especially the inhumanity of parentless children in detention center cages. But Luna's journey and the immigration experience remain outside the opera. Never is it convincing that she is imagining or reflecting the _Usher_ story even when her giant eye peers inside the doll house. Fortunately the visual are so skillfully rendered as to appear unforced, but separate just the same. The dots don't connect but the picture is compelling nonetheless.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1614022361/media/2021/02/BLO-2021-William-on-horse-with-storm_1_ovsfw7.png){{% /md %}}
 
-<figcaption>Boston Lyric Opera's 2021 operabox.tv production of The Fall of the House of Usher. Image: operabox.tv/Boston Lyric Opera.</figcaption>  
+<figcaption>William on horse with storm. Boston Lyric Opera's 2021 operabox.tv production of The Fall of the House of Usher. Image: operabox.tv/Boston Lyric Opera.</figcaption>  
 </figure>
 
 The film clips induce an added sense of anxiety, a commodity with which the opera already teems. Animal testing; duck-and-cover classroom drills; an assembly line of doll parts; and the plundering of the land in the name of growth flash by. They contribute to what the film portrays as our misguided national identity and sense of priorities but the statement is hurly-burly. Their connection to the very private and specific angst of Roderick and Madeline is not so much a mystery as nonexistent.
