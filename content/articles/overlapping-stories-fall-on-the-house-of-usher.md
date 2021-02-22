@@ -36,6 +36,8 @@ The additions are debatable but the film stands as a considerable artistic achie
 
 Glass and Poe remain intact and the results are arresting but the total package feels removed from what they and librettist, Arthur Yorkins, had in mind. Utilizing animated drawings, stop-motion animation and archival film clips, the BLO film attempts to recast the story from the point of view of a mute migrant child named Luna who is finding her way from Guatemala City to the United States/Mexico border. Luna encounters an abandoned doll house along the way and imagines Poe's story taking place within.
 
+>  The repetitive phrases and shifting layers that so identify a Philip Glass composition take on a resonant and quite seductive air. 
+
 On top of that we enter Usher and Luna's experience via the medium of television. A retro console television set is our portal to its influence on a variety of matters from American icons and the post-World War II development of suburbs to the nuclear threat. Though the film is relentlessly inventive, even as it evokes the magnificent collaborations of William Kentridge, the Luna/television concept remains as incongruous as it sounds. 
 
 We begin and end somewhere in the vicinity of _The Twilight Zone_ with a gender-bending host gamely played by Sheila Vand. Possessing considerable verve and impressive _avant garde_ credentials, Vand is sly and more than faintly dangerous when called upon to explain the film's three pronged concept. The screenplay by Raúl Santos, something wholly separate from the libretto, places her alongside that relic of a television where she tell us that _Usher_ exists in the darkest reaches of our personal and television fantasies. Would Poe's hints of sexual ambiguity, hallucination and supernatural forces not reach us without this warning? Vand mitigates the heavy handed moment with sardonic glee.
@@ -45,9 +47,11 @@ We begin and end somewhere in the vicinity of _The Twilight Zone_ with a gender-
 <figcaption>William rests. Boston Lyric Opera's 2021 operabox.tv production of The Fall of the House of Usher. Image: operabox.tv/Boston Lyric Opera.</figcaption>  
 </figure>
 
-The BLO employs a first-rate recording with its orchestra led by David Angus who derives lush and propulsive playing from his twelve-person ensemble. The repetitive phrases and shifting layers that so identify a Philip Glass composition take on a resonant and quite seductive air. On that note, this recording would be a welcome addition to the Glass audio catalog, especially considering the fine voices involved.
+The BLO employs a first-rate recording with its orchestra led by David Angus, who derives lush and propulsive playing from his twelve-person ensemble. The repetitive phrases and shifting layers that so identify a Philip Glass composition take on a resonant and quite seductive air. On that note, this recording would be a welcome addition to the Glass audio catalog, especially considering the fine voices involved.
 
 Tenor Jesse Darden's desperation is palpable as Roderick Usher, maintaining an agile and handsome sound throughout as he internally disintegrates. As Madeline, Roderick's otherworldly sister, Chelsea Basler brings this haunted and haunting being to etherial life. With only the sound of variations on "aah" Basler's bright and fluid soprano creates a mesmerizing and disturbing presence. Daniel Belcher as William, Roderick's friend, sends his rich baritone on a journey from uncertainty to fear as he is engulfed in the darkness of the Ushers. The ominous bass of Jorgeandrés Camargo as the servant and the dark tenor of Christon Carney's rueful physician add to the sense of foreboding.
+
+> The screen then begins to fill will what appears to be strands of Madeline's hair, suddenly a creeping mass.
 
 The grueling hardships of immigration, no matter how this concept fits, are powerfully presented in the animated drawings, especially the inhumanity of parentless children in detention center cages. But Luna's journey and the immigration experience remain outside the opera. Never is it convincing that she is imagining or reflecting the _Usher_ story even when her giant eye peers inside the doll house. Fortunately the visual are so skillfully rendered as to appear unforced, but separate just the same. The dots don't connect but the picture is compelling nonetheless.
 
@@ -66,6 +70,8 @@ Opera and concept coalesce with surprising beauty and dramatic impact whenever t
 </figure>
 
 When Roderick opens the music box that William presents as a gift he finds JFK, Jackie and Marilyn Monroe twirling about in various combinations. If anything puts a contemporary face on the work this is it—the vision of Camelot corrupted. In a scene that has its origins in the introduction in which Vand, with devious affection, brushes a doll's hair, we see, much to William's dismay, Roderick running a brush through Madeline's. The screen then begins to fill will what appears to be strands of Madeline's hair, suddenly a creeping mass.
+
+> The film is a stimulating excursion into a dark world.
 
 The figures of humans and the exquisitely rendered horse that William rides, share a rhythmic compatibility with Glass' composition. This is not to say that they dance to the music. It's something much more subtle than that. The atmospheric lighting and shadow that grace the stop-motion scenes embellish like the brushstrokes of a master. Linger over the closing credits and appreciate the group of talented artists and technicians who collaborated so seamlessly on this project.
 
