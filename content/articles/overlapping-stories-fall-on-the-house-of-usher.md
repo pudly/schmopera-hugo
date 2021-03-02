@@ -35,9 +35,9 @@ The additions are debatable but the film stands as a considerable artistic achie
 
 Glass and Poe remain intact and the results are arresting but the total package feels removed from what they and librettist, Arthur Yorkins, had in mind. Utilizing animated drawings, stop-motion animation and archival film clips, the BLO film attempts to recast the story from the point of view of a mute migrant child named Luna who is finding her way from Guatemala City to the United States/Mexico border. Luna encounters an abandoned doll house along the way and imagines Poe's story taking place within.
 
->  The repetitive phrases and shifting layers that so identify a Philip Glass composition take on a resonant and quite seductive air. 
+> The repetitive phrases and shifting layers that so identify a Philip Glass composition take on a resonant and quite seductive air.
 
-On top of that we enter Usher and Luna's experience via the medium of television. A retro console television set is our portal to its influence on a variety of matters from American icons and the post-World War II development of suburbs to the nuclear threat. Though the film is relentlessly inventive, even as it evokes the magnificent collaborations of William Kentridge, the Luna/television concept remains as incongruous as it sounds. 
+On top of that we enter Usher and Luna's experience via the medium of television. A retro console television set is our portal to its influence on a variety of matters from American icons and the post-World War II development of suburbs to the nuclear threat. Though the film is relentlessly inventive, even as it evokes the magnificent collaborations of William Kentridge, the Luna/television concept remains as incongruous as it sounds.
 
 We begin and end somewhere in the vicinity of _The Twilight Zone_ with a gender-bending host gamely played by Sheila Vand. Possessing considerable verve and impressive _avant garde_ credentials, Vand is sly and more than faintly dangerous when called upon to explain the film's three pronged concept. The screenplay by Raúl Santos, something wholly separate from the libretto, places her alongside that relic of a television where she tell us that _Usher_ exists in the darkest reaches of our personal and television fantasies. Would Poe's hints of sexual ambiguity, hallucination and supernatural forces not reach us without this warning? Vand mitigates the heavy handed moment with sardonic glee.
 
@@ -72,13 +72,13 @@ When Roderick opens the music box that William presents as a gift he finds JFK, 
 
 > The film is a stimulating excursion into a dark world.
 
-The figures of humans and the exquisitely rendered horse that William rides, share a rhythmic compatibility with Glass' composition. This is not to say that they dance to the music. It's something much more subtle than that. The atmospheric lighting and shadow that grace the stop-motion scenes embellish like the brushstrokes of a master. Linger over the closing credits and appreciate the group of talented artists and technicians who collaborated so seamlessly on this project.
+The figures of humans and the exquisitely rendered horse that William rides, share a rhythmic compatibility with Glass' composition. This is not to say that they dance to the music. It's something much more subtle than that. The atmospheric lighting and shadow that grace the stop-motion scenes embellish like the brushstrokes of a master. Linger over the closing credits and appreciate the group of talented artists and technicians who collaborated so seamlessly on this project. They read  the credit roll for a Marvel Studio epic.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1614022423/media/2021/02/BLO-2021-USHER-Luna-and-her-mother-flee_iupghh.png){{% /md %}}
 
 <figcaption>Luna and her mother flee. Boston Lyric Opera's 2021 operabox.tv production of The Fall of the House of Usher. Image: operabox.tv/Boston Lyric Opera.</figcaption>  
 </figure>
 
-They reads like the credit roll for a Marvel Studio epic. Providing what might be the largest audience _The Fall of the House of Usher_ has yet to receive, the BLO is offering seven days of access with the purchase of a modest $10.00 ticket at [operabox.tv](https://www.operabox.tv/). With each viewing I admit to taking less issue with the incongruities, or, depending on your point of view, its contemporary perspectives.
+Providing what might be the largest audience _The Fall of the House of Usher_ has yet to receive, the BLO is offering seven days of access with the purchase of a modest $10.00 ticket at [operabox.tv](https://www.operabox.tv/). With each viewing I admit to taking less issue with the incongruities, or, depending on your point of view, its contemporary perspectives.
 
 Whether you buy into BLO’s three-story renovation or prefer Poe's early 19th-century gothic, you will likely succumb to this _Usher_. The film is a stimulating excursion into a dark world and the performance of Glass' fine chamber opera is an intense and unsettling pleasure.
