@@ -24,81 +24,15 @@ When the park, with its curious mounds of sculpture, proved beyond his reach, he
 
 The star of this particular show, composer [Élisabeth Jacquet de la Guerre](https://en.wikipedia.org/wiki/%C3%89lisabeth_Jacquet_de_La_Guerre), was hardly left in the shadows. Having gained the support of Lous XIV, she was highly visible, with frequent performance of her work. More importantly she enjoyed the rare privilege of having her work published. But according to Nagy, de la Guerre was not the isolated genius she has been made out to be. Nagy bases her case on a roster of lesser-known women who follow de la Guerre’s mention in _Le parnasse françois_, each of whom exerted considerable cultural influence.
 
-Among them is the inventive composer [Mademoiselle Duval](https://en.wikipedia.org/wiki/Mlle_Duval), whose first name is lost to history. Her delightful suite from [_Les Génies ou Les Caractéres de l’Amour_](https://imslp.org/wiki/Les_G%C3%A9nies_ou_Les_Caract%C3%A8res_de_l'amour_(Duval%2C_Mademoiselle)) is by turns courtly and vibrant, offering opportunity for the ensemble to exert their instrumental and interactive prowess. [Julie Pinel](https://en.wikipedia.org/wiki/Julie_Pinel)'s subtly seductive airs receive sensitive vocal and instrumental outings. And the poet [Marie de Louvencourt](https://fr.wikipedia.org/wiki/Marie_de_Louvencourt), who supplied the music for many of the compositions by Louis-Nicolas Clérambault, also receives long overdue recognition with a*** stellar account of his Prelude from Leandre et Héro which goes on to include text by de Louvencourt. Perhaps this is the baroque equivalent of a Stephen Sondheim song without the lyrics, but Nagy's oboe playing amidst the ensemble is a particularly spirited and wistful pleasure that hints at Louvencourt's poetry to come.
+Among them is the inventive composer [Mademoiselle Duval](https://en.wikipedia.org/wiki/Mlle_Duval), whose first name is lost to history. Her delightful suite from [_Les Génies ou Les Caractéres de l’Amour_](https://imslp.org/wiki/Les_G%C3%A9nies_ou_Les_Caract%C3%A8res_de_l'amour_(Duval%2C_Mademoiselle)) is by turns courtly and vibrant, offering opportunity for the ensemble to exert their instrumental and interactive prowess. [Julie Pinel](https://en.wikipedia.org/wiki/Julie_Pinel)'s subtly seductive airs receive sensitive vocal and instrumental outings. And the poet [Marie de Louvencourt](https://fr.wikipedia.org/wiki/Marie_de_Louvencourt), who supplied the music for many of the compositions by Louis-Nicolas Clérambault, also receives long overdue recognition with a*** stellar account of his Prelude from Leandre et Héro which goes on to include text by de Louvencourt. Perhaps this is the baroque equivalent of a Stephen Sondheim song without the lyrics, but Nagy's oboe-playing amidst the ensemble is a particularly spirited and wistful pleasure, that hints at Louvencourt's poetry to come.
 
-The inclusion of two men from the Couperin family dynasty strains Nagy’s premise a bit but their works are nonetheless lovely to hear. Francois (le Grand) Couperin's _La Favorite_ is played with verve and freshness by harpsichordist, Mark Edwards who explains the uniqueness of the piece in a clear and engaging manner. Louis Couperin's _Veritas de terra_, his setting of Psalm 84 provides an occasion for Nagy’s invitation to imagine the “brilliant and flexible” voice of Marguerite Louise
+The inclusion of two men from the Couperin family dynasty strains Nagy’s premise a bit but their works are nonetheless lovely to hear. François (le Grand) Couperin's _La Favorite_ is played with verve and freshness by harpsichordist Mark Edwards, who explains the uniqueness of the piece in a clear and engaging manner. Louis Couperin's _Veritas de terra_, his setting of Psalm 84, provides an occasion for Nagy’s invitation to imagine the "brilliant and flexible" voice of Marguerite Louise Couperin, who was also a celebrated harpsichordist. Perhaps more to the point we admire the vibrant soprano Clara Rottsolk and her exquisite technique both here and with Pinel's evocative airs.
 
-Couperin who was also a celebrated harpsichordist. Perhaps
+Befitting her exalted position in the latter stages of the _Ancien Régime_, de la Guerre takes center stage with her Violin Sonata in F and the concluding work, which is actually the program's centerpiece, the cantata _Judith_. The violin sonata, clearly a work of Italianate influence, eschews the dance rhythms of the day for innovative instrumental interaction and expression. Edwards and violinist Julie Andrijeski communicate with palpable enthusiasm while Rebecca Reed on viola da gamba provides refined underpinning. If anything unites de la Guerre's two works, it is their clarity of expression and energy.
 
-more to the point we admire the vibrant soprano Clara Rottsolk
+_Judith_ is based more on legend than history. As a cantata, it relies on instrumental accompaniment and independent segments that give voice and depth to its heroine and other characters, despite a text that lacks dramatic action. In fact, the work's most physical act - the beheading of the invading Syrian King Holofernes - is carried out by the violin. The music is stark, even furious in its depiction of Holofernes, and turns inward as it depicts Judith's inner conflicts and the urging of her handmaid Abra, to take the action - both personal and violent - that will save Israel. Finally, it celebrates Judith's sacrifice and triumph. It would be difficult to imagine a more lucid reading of the work. Rottsolk doesn’t relinquish attitude for beautiful singing. The soprano's gleaming upper register and assured ornamentation contribute to dramatically defined characters. Her opening remarks were as fervent and suggestive of character as they were instructive.
 
-and her exquisite technique both here and with Pinel’s
-
-evocative airs.
-
-Befitting her exalted position in the latter stages of the Ancien
-
-Régime, de la Guerre takes center stage with her Violin sonata
-
-in F and the concluding work, which is actually the program’s
-
-centerpiece, the cantata Judith. The violin sonata, clearly a
-
-work of Italianate influence, eschews the dance rhythms of the
-
-day for innovative instrumental interaction and expression.
-
-Edwards and violinist Julie Andrijeski communicate with
-
-palpable enthusiasm while Rebecca Reed on viola da gamba
-
-provides refined underpinning. If anything unites de la Guerre’s
-
-two works it is their clarity of expression and energy.
-
-Judith is based more on legend than history. As a cantata it
-
-relies on instrumental accompaniment and independent
-
-segments that give voice and depth to its heroine and other
-
-characters despite a text that lacks dramatic action. In fact the
-
-work’s most physical act, the beheading of the invading Syrian
-
-King Holofernes, is carried out by the violin. The music is stark,
-
-even furious in its depiction of Holofernes and turns inward as it
-
-depicts Judith’s inner conflicts and the urging of her handmaid
-
-Abra, to take the action, both personal and violent, that will save
-
-Israel. Finally it celebrates Judith’s sacrifice and triumph. It
-
-would be difficult to imagine a more lucid reading of the work.
-
-Rottsolk doesn’t relinquish attitude for beautiful singing. The
-
-soprano’s gleaming upper register and assured ornamentation
-
-contribute to dramatically defined characters. Her opening
-
-remarks were as fervent and suggestive of character as they
-
-were instructive.
-
-Those who haven’t already are advised to view the pre-concert
-
-talk with Nagy and Dr. Eve Straussman-Pflanzer, curator of
-
-Italian and Spanish painting at the National Gallery in
-
-Washington D.C., in order to more fully experience the nuances
-
-of the cantata. Four paintings dealing with Judith are discussed,
-
-including one by Caravaggio and another by Artemsia
+Those who haven’t already are advised to view the pre-concert talk with Nagy and Dr. Eve Straussman-Pflanzer, curator of Italian and Spanish painting at the National Gallery in Washington D.C., in order to more fully experience the nuances of the cantata. Four paintings dealing with _Judith_ are discussed, including one by Caravaggio and another by Artemsia
 
 Gentileschi mirroring the vastly different takes on the Judith
 
