@@ -26,19 +26,7 @@ The star of this particular show, composer [Élisabeth Jacquet de la Guerre](htt
 
 Among them is the inventive composer Mademoiselle Duval, whose first name is lost to history. Her delightful suite from [_Les Génies ou Les Caractéres de l’Amour_](https://imslp.org/wiki/Les_G%C3%A9nies_ou_Les_Caract%C3%A8res_de_l'amour_(Duval%2C_Mademoiselle)) is by turns courtly and vibrant, offering opportunity for the ensemble to exert their instrumental and interactive prowess. Julie Pinel's subtly seductive airs receive sensitive vocal and instrumental outings. And the poet Marie de Louvencourt, who supplied the music for many of the compositions by Louis-Nicolas Clérambault, also receives long overdue recognition with a*** stellar account of his Prelude from Leandre et Héro which goes on to include text by de Louvencourt. Perhaps this is the baroque equivalent of a Stephen Sondheim song without the lyrics, but Nagy's oboe playing amidst the ensemble is a particularly spirited and wistful pleasure that hints at Louvencourt's poetry to come.
 
-The inclusion of two men from the Couperin family dynasty strains Nagy’s premise a bit but their works are nonetheless
-
-lovely to hear. Francois (le Grand) Couperin’s La Favorite is
-
-played with verve and freshness by harpsichordist, Mark
-
-Edwards who explains the uniqueness of the piece in a clear
-
-and engaging manner. Louis Couperin’s Veritas de terra, his
-
-setting of Psalm 84 provides an occasion for Nagy’s invitation to
-
-imagine the “brilliant and flexible” voice of Marguerite Louise
+The inclusion of two men from the Couperin family dynasty strains Nagy’s premise a bit but their works are nonetheless lovely to hear. Francois (le Grand) Couperin's _La Favorite_ is played with verve and freshness by harpsichordist, Mark Edwards who explains the uniqueness of the piece in a clear and engaging manner. Louis Couperin's _Veritas de terra_, his setting of Psalm 84 provides an occasion for Nagy’s invitation to imagine the “brilliant and flexible” voice of Marguerite Louise
 
 Couperin who was also a celebrated harpsichordist. Perhaps
 
