@@ -22,37 +22,11 @@ Remember the [Ancien Régime](https://en.wikipedia.org/wiki/Ancien_R%C3%A9gime),
 
 When the park, with its curious mounds of sculpture, proved beyond his reach, he settled on the creation of _Le parnasse françois_, a biographical dictionary including not only the artistic titans of France but also those who by virtue of their gender might otherwise have remained unrecognized or only minimally noted. Fortunately for the general scope of music history and specifically the research of Les Délices director, Debra Nagy, _Le parnasse françois_ illuminates the path towards the creation of _Women of Genius_. The most recent offering from this stunning Cleveland based ensemble turns the limitations of pandemic performance into yet another adventurous and elegantly entertaining streaming concert.
 
-The star of this particular show, composer Elisabeth Jacquet de la Guerre, was hardly left in the shadows. Having gained the support of Lous XIV, she was highly visible with frequent performance of her work. More importantly she enjoyed the rare privilege of having her work published. But according to Nagy, de la Guerre was not the isolated genius she has been made out to be. Nagy bases her case on a roster of lesser-known women who follow de la Guerre’s mention in _Le parnasse françois_, each of whom exerted considerable cultural influence.
+The star of this particular show, composer [Élisabeth Jacquet de la Guerre](https://en.wikipedia.org/wiki/%C3%89lisabeth_Jacquet_de_La_Guerre), was hardly left in the shadows. Having gained the support of Lous XIV, she was highly visible, with frequent performance of her work. More importantly she enjoyed the rare privilege of having her work published. But according to Nagy, de la Guerre was not the isolated genius she has been made out to be. Nagy bases her case on a roster of lesser-known women who follow de la Guerre’s mention in _Le parnasse françois_, each of whom exerted considerable cultural influence.
 
-Among them is the inventive composer Mademoiselle Duval, whose first name is lost to history. Her delightful suite from Les
+Among them is the inventive composer Mademoiselle Duval, whose first name is lost to history. Her delightful suite from [_Les Génies ou Les Caractéres de l’Amour_](https://imslp.org/wiki/Les_G%C3%A9nies_ou_Les_Caract%C3%A8res_de_l'amour_(Duval%2C_Mademoiselle)) is by turns courtly and vibrant, offering opportunity for the ensemble to exert their instrumental and interactive prowess. Julie Pinel's subtly seductive airs receive sensitive vocal and instrumental outings. And the poet Marie de Louvencourt, who supplied the music for many of the compositions by Louis-Nicolas Clérambault, also receives long overdue recognition with a*** stellar account of his Prelude from Leandre et Héro which goes on to include text by de Louvencourt. Perhaps this is the baroque equivalent of a Stephen Sondheim song without the lyrics, but Nagy's oboe playing amidst the ensemble is a particularly spirited and wistful pleasure that hints at Louvencourt's poetry to come.
 
-Génies ou Les Caractéres de l’Amour is by turns courtly and
-
-vibrant offering opportunity for the ensemble to exert their
-
-instrumental and interactive prowess. Julie Pinel’s subtly
-
-seductive airs receive sensitive vocal and instrumental outings.
-
-And the poet Marie de Louvencour, who supplied the music for
-
-many of the compositions by Louis-Nicolas Clérambault, also
-
-receives long overdue recognition with a stellar account of his
-
-Prelude from Leandre et Héro which goes on to include text by
-
-de Louvencourt. Perhaps this is the baroque equivalent of a
-
-Stephen Sondheim song without the lyrics but Nagy’s oboe
-
-playing amidst the ensemble is a particularly spirited and wistful
-
-pleasure that hints at Louvencour’s poetry to come.
-
-The inclusion of two men from the Couperin family dynasty
-
-strains Nagy’s premise a bit but their works are nonetheless
+The inclusion of two men from the Couperin family dynasty strains Nagy’s premise a bit but their works are nonetheless
 
 lovely to hear. Francois (le Grand) Couperin’s La Favorite is
 
