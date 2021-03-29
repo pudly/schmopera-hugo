@@ -32,42 +32,6 @@ Befitting her exalted position in the latter stages of the _Ancien Régime_, de 
 
 _Judith_ is based more on legend than history. As a cantata, it relies on instrumental accompaniment and independent segments that give voice and depth to its heroine and other characters, despite a text that lacks dramatic action. In fact, the work's most physical act - the beheading of the invading Syrian King Holofernes - is carried out by the violin. The music is stark, even furious in its depiction of Holofernes, and turns inward as it depicts Judith's inner conflicts and the urging of her handmaid Abra, to take the action - both personal and violent - that will save Israel. Finally, it celebrates Judith's sacrifice and triumph. It would be difficult to imagine a more lucid reading of the work. Rottsolk doesn’t relinquish attitude for beautiful singing. The soprano's gleaming upper register and assured ornamentation contribute to dramatically defined characters. Her opening remarks were as fervent and suggestive of character as they were instructive.
 
-Those who haven’t already are advised to view the pre-concert talk with Nagy and Dr. Eve Straussman-Pflanzer, curator of Italian and Spanish painting at the National Gallery in Washington D.C., in order to more fully experience the nuances of the cantata. Four paintings dealing with _Judith_ are discussed, including one by Caravaggio and another by Artemsia
+Those who haven’t already are advised to view the pre-concert talk with Nagy and Dr. Eve Straussman-Pflanzer, curator of Italian and Spanish painting at the National Gallery in Washington D.C., in order to more fully experience the nuances of the cantata. Four paintings dealing with Judith are discussed, including one by Caravaggio and another by Artemsia Gentileschi mirroring the vastly different takes on the Judith legend. They literally illustrate the situations and characters depicted in de la Guerre’s cantata. Note that Straussman-Pflanzer is organizing an exhibition on Gentileschi and women artists in Italy from 1500-1800 for the Detroit Institute of Arts early next year. The pre-concert talk is readily available at [Lesdelices.org](https://www.lesdelices.org/watch-now/).
 
-Gentileschi mirroring the vastly different takes on the Judith
-
-legend. They literally illustrate the situations and characters
-
-depicted in de la Guerre’s cantata. Note that Straussman-
-
-Pflanzer is organizing an exhibition on Gentileschi and women
-
-artists in Italy from 1500-1800 for the Detroit Institute of Arts
-
-early next year. The pre-concert talk is readily available at
-
-Lesdelices.org by following the Watch>watch now link.
-
-Remarkable as Women of Genius is musically, the production
-
-values continue to enthrall. While the lighting hardly needed
-
-improvement, the addition of dramatically placed spots on the
-
-walls and the backlighting of performers amidst the Georgian
-
-Colonial architecture of the Plymouth Church was compelling.
-
-Fresh camera angles that at moments suggested a tableau
-
-vivant and overhead shots of the harpsichord were welcome
-
-additions. The passage from day to the night at which point
-
-Judith is performed harnessed nature for ultimate effect. Nagy’s
-
-team, with its combination of scholarship, fascinating music
-
-skillfully performed and mesmeric technical production, is in
-
-itself a thing of streaming genus.
+Musically remarkable as _Women of Genius_ is, the production value continues to enthrall. While the lighting hardly needed improvement, the dramatically placed spots on the walls and the backlighting of performers amidst the Georgian Colonial architecture of the Plymouth Church was compelling. Fresh camera angles that at moments suggested a _tableau vivant_ and overhead shots of the harpsichord were welcome additions. The passage from day to night, at which point _Judith_ is performed, harnessed nature for ultimate effect. Nagy’s team, with its combination of scholarship, fascinating music skillfully performed, and mesmeric technical production, is in itself a thing of streaming genius.
