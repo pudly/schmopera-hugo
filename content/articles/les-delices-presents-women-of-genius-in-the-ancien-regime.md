@@ -29,9 +29,9 @@ When the park, with its curious mounds of sculpture, proved beyond his reach, he
 
 The star of this particular show, composer [Élisabeth Jacquet de la Guerre](https://en.wikipedia.org/wiki/%C3%89lisabeth_Jacquet_de_La_Guerre), was hardly left in the shadows. Having gained the support of Lous XIV, she was highly visible, with frequent performance of her work. More importantly she enjoyed the rare privilege of having her work published. But according to Nagy, de la Guerre was not the isolated genius she has been made out to be. Nagy bases her case on a roster of lesser-known women who follow de la Guerre’s mention in _Le parnasse françois_, each of whom exerted considerable cultural influence.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1617070559/media/2021/03/LesDelices-JacquetdelaGuerre_xfkisi.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Élisabeth Jacquet de la Guerre, composer  and harpsichordist (1665-1729).</figcaption>  
 </figure>
 
 Among them is the inventive composer [Mademoiselle Duval](https://en.wikipedia.org/wiki/Mlle_Duval), whose first name is lost to history. Her delightful suite from [_Les Génies ou Les Caractéres de l’Amour_](https://imslp.org/wiki/Les_G%C3%A9nies_ou_Les_Caract%C3%A8res_de_l'amour_(Duval%2C_Mademoiselle)) is by turns courtly and vibrant, offering opportunity for the ensemble to exert their instrumental and interactive prowess. [Julie Pinel](https://en.wikipedia.org/wiki/Julie_Pinel)'s subtly seductive airs receive sensitive vocal and instrumental outings. And the poet [Marie de Louvencourt](https://fr.wikipedia.org/wiki/Marie_de_Louvencourt), who supplied the music for many of the compositions by Louis-Nicolas Clérambault, also receives long overdue recognition with her stellar account of his Prelude from Leandre et Héro which goes on to include text by de Louvencourt. Perhaps this is the baroque equivalent of a Stephen Sondheim song without the lyrics, but Nagy's oboe-playing amidst the ensemble is a particularly spirited and wistful pleasure, that hints at Louvencourt's poetry to come.
