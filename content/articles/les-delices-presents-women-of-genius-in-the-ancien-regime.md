@@ -1,7 +1,7 @@
 +++
 author = ["authors/john-hohmann.md"]
 categories = "Review"
-date = 2021-03-28T04:00:00Z
+date = 2021-03-29T04:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
@@ -38,10 +38,28 @@ Among them is the inventive composer [Mademoiselle Duval](https://en.wikipedia.o
 
 The inclusion of two men from the Couperin family dynasty strains Nagy’s premise a bit but their works are nonetheless lovely to hear. François (le Grand) Couperin's _La Favorite_ is played with verve and freshness by harpsichordist Mark Edwards, who explains the uniqueness of the piece in a clear and engaging manner. Louis Couperin's _Veritas de terra_, his setting of Psalm 84, provides an occasion for Nagy’s invitation to imagine the "brilliant and flexible" voice of Marguerite Louise Couperin, who was also a celebrated harpsichordist. Perhaps more to the point we admire the vibrant soprano Clara Rottsolk and her exquisite technique both here and with Pinel's evocative airs.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1617071135/media/2021/03/2_hw5iml.png){{% /md %}}
+
+<figcaption>Women of Genius, Les Délices, 2021. Video still courtesy of Les Délices.</figcaption>
+
+</figure>
+
 Befitting her exalted position in the latter stages of the _Ancien Régime_, de la Guerre takes center stage with her Violin Sonata in F and the concluding work, which is actually the program's centerpiece, the cantata _Judith_. The violin sonata, clearly a work of Italianate influence, eschews the dance rhythms of the day for innovative instrumental interaction and expression. Edwards and violinist Julie Andrijeski communicate with palpable enthusiasm while Rebecca Reed on _viola da gamba_ provides refined underpinning. If anything unites de la Guerre's two works, it is their clarity of expression and energy.
 
 _Judith_ is based more on legend than history. As a cantata, it relies on instrumental accompaniment and independent segments that give voice and depth to its heroine and other characters, despite a text that lacks dramatic action. In fact, the work's most physical act - the beheading of the invading Syrian King Holofernes - is carried out by the violin. The music is stark, even furious in its depiction of Holofernes, and turns inward as it depicts Judith's inner conflicts and the urging of her handmaid Abra, to take the action - both personal and violent - that will save Israel. Finally, it celebrates Judith's sacrifice and triumph. It would be difficult to imagine a more lucid reading of the work. Rottsolk doesn’t relinquish attitude for beautiful singing. The soprano's gleaming upper register and assured ornamentation contribute to dramatically defined characters. Her opening remarks were as fervent and suggestive of character as they were instructive.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1617071165/media/2021/03/5_v3fzv5.png){{% /md %}}
+
+<figcaption>Women of Genius, Les Délices, 2021. Video still courtesy of Les Délices.</figcaption>
+
+</figure>
+
 Those who haven’t already are advised to view the pre-concert talk with Nagy and Dr. Eve Straussman-Pflanzer, curator of Italian and Spanish painting at the National Gallery in Washington D.C., in order to more fully experience the nuances of the cantata. Four paintings dealing with Judith are discussed, including one by Caravaggio and another by Artemsia Gentileschi mirroring the vastly different takes on the Judith legend. They literally illustrate the situations and characters depicted in de la Guerre’s cantata. Note that Straussman-Pflanzer is organizing an exhibition on Gentileschi and women artists in Italy from 1500-1800 for the Detroit Institute of Arts early next year. The pre-concert talk is readily available at [Lesdelices.org](https://www.lesdelices.org/watch-now/).
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1617071177/media/2021/03/1_yyng3m.png){{% /md %}}
+
+<figcaption>Women of Genius, Les Délices, 2021. Video still courtesy of Les Délices.</figcaption>
+
+</figure>
 
 Musically remarkable as _Women of Genius_ is, the production value continues to enthrall. While the lighting hardly needed improvement, the dramatically placed spots on the walls and the backlighting of performers amidst the Georgian Colonial architecture of the Plymouth Church was compelling. Fresh camera angles that at moments suggested a _tableau vivant_ and overhead shots of the harpsichord were welcome additions. The passage from day to night, at which point _Judith_ is performed, harnessed nature for ultimate effect. Nagy’s team, with its combination of scholarship, fascinating music skillfully performed, and mesmeric technical production, is in itself a thing of streaming genius.
