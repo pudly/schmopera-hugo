@@ -40,7 +40,7 @@ The inclusion of two men from the Couperin family dynasty strains Nagy’s premi
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1617071135/media/2021/03/2_hw5iml.png){{% /md %}}
 
-<figcaption>Women of Genius, Les Délices, 2021. Video still courtesy of Les Délices.</figcaption>
+<figcaption>(l-r) Rebecca Reed (viola da gamba), soprano Clara Ruttsolk, Mark Edwards (harpsichord) and Debra Nagy (oboe) in Women of Genius, Les Délices, 2021. Video still courtesy of Les Délices.</figcaption>
 
 </figure>
 
