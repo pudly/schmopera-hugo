@@ -50,7 +50,7 @@ _Judith_ is based more on legend than history. As a cantata, it relies on instru
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1617071165/media/2021/03/5_v3fzv5.png){{% /md %}}
 
-<figcaption>Women of Genius, Les Délices, 2021. Video still courtesy of Les Délices.</figcaption>
+<figcaption>(l-r) Violinist Julie Andrijeski and soprano Clara Rottsolk in Women of Genius, Les Délices, 2021. Video still courtesy of Les Délices.</figcaption>
 
 </figure>
 
