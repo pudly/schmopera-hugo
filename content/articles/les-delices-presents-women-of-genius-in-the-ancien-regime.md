@@ -58,7 +58,7 @@ Those who haven’t already are advised to view the pre-concert talk with Nagy a
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1617071177/media/2021/03/1_yyng3m.png){{% /md %}}
 
-<figcaption>Women of Genius, Les Délices, 2021. Video still courtesy of Les Délices.</figcaption>
+<figcaption>Soprano Clara Ruttsolk and oboist Debra Nagy in Women of Genius, Les Délices, 2021. Video still courtesy of Les Délices.</figcaption>
 
 </figure>
 
