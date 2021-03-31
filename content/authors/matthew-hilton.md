@@ -1,6 +1,6 @@
 +++
 email = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1617071714/media/2021/03/unherdself_np1ad0.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1617231119/media/2021/03/schmopera3_t7thun.jpg"
 short_bio = "I'm a sixties kid from Notting Hill now turning into a grain of light in the hills south-east of Toulouse. After Art School I worked for performance theatre Welfare State International and then had many years as a printmaker."
 slug = "matthew-hilton"
 social_media = []
