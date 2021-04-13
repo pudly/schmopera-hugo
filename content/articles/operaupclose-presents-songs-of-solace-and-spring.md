@@ -50,7 +50,7 @@ Actor and writer Kat Rose Martin gave a recitation of "Could great men thunderâ€
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>A scene from OperaUpClose's "Coffee Break Concerts". Image courtesy of OperaUpClose.</figcaption>
 
 </figure>
 
