@@ -33,7 +33,7 @@ The two concerts featured in the third season of their At Home series are based 
 
 _Episode 9: Shakespeare Re-Shaped_ interweaves well known arias from Verdi’s _Falstaff_, and Gounod’s _Romeo and Juliet_ (both with timely new English translations), art-song by Schubert and Finzi, and Shakespearean text, blending the three into a whole which feels greater than the sum of its parts, offering multiple interpretations of Shakespeare’s best-known texts.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1618580816/media/2021/04/Gallop_a_Pace_ugkamj.jpg){{% /md %}}
 
 <figcaption>A scene from OperaUpClose's "Coffee Break Concerts". Image courtesy of OperaUpClose.</figcaption>
 
@@ -47,7 +47,7 @@ The highlight of the concert, however, was deaf actor Lara Steward’s performan
 
 Actor and writer Kat Rose Martin gave a recitation of "Could great men thunder…" from _Measure for Measure_ as well as a performance of an original text entitled "Ballad of the Voiceless". Both of these performances offered a uniquely feminine perspective and a much-needed contextualization of the forceful "Ford’s aria", performed earlier in the programme by Rodney Earl Clarke. The concert ended with a rousing round of Finzi’s "It was a lover and his lass" by all three singers to joyfully usher in the spring.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1618580836/media/2021/04/Verdi_-_Falstaff_2_jhreli.jpg){{% /md %}}
 
 <figcaption>A scene from OperaUpClose's "Coffee Break Concerts". Image courtesy of OperaUpClose.</figcaption>
 
