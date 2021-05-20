@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1621470060/media/2021/05/Acis-Girl_in_the_Snow-3000px_kczts4.jpg"
-primary_image_credit = ""
+primary_image_credit = "Image courtesy of Acis."
 related_articles = []
 related_companies = []
 related_people = []
@@ -24,9 +24,9 @@ Scott Ordway and Dawson were friends from her student days in Philadelphia at th
 
 As they were preparing for the release this past summer Brusencev, who happens to come from the world of heavy metal music, suggested they make a video for the recording. Once again Dawson jumped at the chance and they immediately began to plan. "We chose 'The Mystery of the World' says Dawson, "in which the speaker seeks the transformative power of the woods and longs to commune with nature as only children can. The song is imbued with the desire to return to a simpler time and felt reflective of 2020."
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1621470256/media/2021/05/GirlintheSnow-collage_irunqs.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Clockwise from top left: composer Scott Ordway (photo: Amanda Greene); mezzo-soprano Julia Dawson (photo: Cacao Produccines), and pianist Anna Naretto (photo: Evelyn Fay).</figcaption>  
 </figure>
 
 With the help of Frankfurt-based photographer Mario Drescher, who shot the video and, according to Dawson "brought a striking visual poetry," the project took shape. "In the video," Dawson continues, "a woman is isolated and alone. She escapes into her imagination, exploring the wonders of nature and searches for release. What she finds instead is a baptism into her present."
