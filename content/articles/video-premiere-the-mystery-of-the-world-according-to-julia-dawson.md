@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1621470060/media/2021/05/Acis-Girl_in_the_Snow-3000px_kczts4.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
@@ -24,9 +24,16 @@ Scott Ordway and Dawson were friends from her student days in Philadelphia at th
 
 As they were preparing for the release this past summer Brusencev, who happens to come from the world of heavy metal music, suggested they make a video for the recording. Once again Dawson jumped at the chance and they immediately began to plan. "We chose 'The Mystery of the World' says Dawson, "in which the speaker seeks the transformative power of the woods and longs to commune with nature as only children can. The song is imbued with the desire to return to a simpler time and felt reflective of 2020."
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
+
 With the help of Frankfurt-based photographer Mario Drescher, who shot the video and, according to Dawson "brought a striking visual poetry," the project took shape. "In the video," Dawson continues, "a woman is isolated and alone. She escapes into her imagination, exploring the wonders of nature and searches for release. What she finds instead is a baptism into her present."
 
 In preparing the entire cycle with Ordway and Naretto, Dawson chose to develop the character of a woman at the end of her life. "I saw the Ordway/Ordway songs as her memories of childhood; joyful, yet tinged with escapism and nostalgia. The Ordway/St. Augustine songs I perceived as moments of clear awareness as she accepts her mortality."
+
+> "It's time we caught up with the rest of the music industry and connected with video artists to create kick-ass musical art videos!"
 
 Back in March 2020, Dawson was stranded in lockdown in rural France. She felt isolated and uncertain when her father, who plays bass with the Toronto Symphony Orchestra, sent her a [video of Copland's _Appalachian Spring_](https://youtu.be/5rzZ2F18MwI) that his TSO colleagues had created. "I immediately thought, we have got to do this for opera." Dawson then reached out to Brusencev and Guillaume Faraut, a violinist with the Oper Frankfurt Orchestra who organized the players." Dawson found the singers and Brusencev edited the video and sound. Thus _Quarantunes_ and [_Gone In 60 Seconds_](https://www.youtube.com/watch?v=bScyUr43yws) were born.
 
