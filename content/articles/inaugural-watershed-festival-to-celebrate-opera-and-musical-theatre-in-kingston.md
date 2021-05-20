@@ -32,6 +32,8 @@ In the [New Works Showcase](https://www.watershedmusictheatre.com/newworksshowca
 
 On top of the performances is a series of presentations and conversations by leading figures in music theatre, including Opera Philadelphia General Director [David Devan](https://www.operaphila.org/about/our-people/leadership/david-b-devan/), Amplified Opera co-founder [Marion Newman](https://www.amplifiedopera.com/marion-newman), and renowned music critic [Anne Midgette](https://anchor.fm/tewbop/episodes/Anne-Midgette-Art-Is-Not-the-Institutions-eiur6g).
 
+"The Watershed Festival will inaugurate a summer-long chain of festivals, including the Festival of Live Digital Art in June, the Fringe Festival in July, and the Kick and Push Festival in July and August," says Craig Walker, Director of the Dan School of Drama and Music. "Together these really help to underscore what an important cultural hub Kingston has become."
+
 Dean: "When I first moved her three years ago, I was blown away with not only the artistic talent but also infrastructure in this relatively small city.  Of course, the university helps with that, but there is something about Kingston which in inherently “artistic”.  Not only is it the kind of place that a lot of artists like to call home, but the municipal government fund numerous initiatives to support local creators."
 
 Dean:
