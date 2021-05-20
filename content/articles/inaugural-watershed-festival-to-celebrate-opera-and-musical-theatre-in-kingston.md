@@ -30,7 +30,7 @@ On May 2, Montreal-based Musique 3 Femmes resents an evening of new operas by wo
 
 In the [New Works Showcase](https://www.watershedmusictheatre.com/newworksshowcase), audiences can catch three in-progress musical theatre works: Jake Schindler and Sam Boer's _Ursa_, Kevin Skelton's _Pulse_, Afarino Mansouri's _Zuleyka_. Additionally, Calgary Opera's documentary _Seeds of Namwayut_ will get a screening.
 
-On top of the performances is a series of presentations and conversations by leading figures in music theatre, including Opera Philadelphia General Director David Devan, Amplified Opera co-founder Marion Newman, and renowned music critic Anne Midgette.
+On top of the performances is a series of presentations and conversations by leading figures in music theatre, including Opera Philadelphia General Director [David Devan](https://www.operaphila.org/about/our-people/leadership/david-b-devan/), Amplified Opera co-founder [Marion Newman](https://www.amplifiedopera.com/marion-newman), and renowned music critic [Anne Midgette](https://anchor.fm/tewbop/episodes/Anne-Midgette-Art-Is-Not-the-Institutions-eiur6g).
 
 Dean: "When I first moved her three years ago, I was blown away with not only the artistic talent but also infrastructure in this relatively small city.  Of course, the university helps with that, but there is something about Kingston which in inherently “artistic”.  Not only is it the kind of place that a lot of artists like to call home, but the municipal government fund numerous initiatives to support local creators."
 
