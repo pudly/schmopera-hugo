@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1621539835/media/2021/05/sqWatershed_vhcxnx.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
@@ -38,12 +38,6 @@ The Festival's final night features a sneak-peek premiere of [_The Lancashire La
 
 The virtual start to the Watershed Festival is no compromise, no placeholder for the in-person Festival set for spring 2022. "Going virtual has a number of silver linings," says Burry. "We've got people joining us from around the world, and I would imagine the best aspects of that kind of reach will always be a part of the festival moving forward."
 
-Dean: "When I first moved her three years ago, I was blown away with not only the artistic talent but also infrastructure in this relatively small city.  Of course, the university helps with that, but there is something about Kingston which in inherently “artistic”.  Not only is it the kind of place that a lot of artists like to call home, but the municipal government fund numerous initiatives to support local creators."
+With its impressive line-up and inspiring plans for a continued place in Kingston's artistic scene, the Watershed Festival is a must-see.
 
-Dean: "I am hoping that they will take away a better definition of what “music theatre” is.  We are constantly looking for the answers to that question as well.  Good opera and good musical theatre have so much to offer and the inclusion of the many diverse voices that have traditionally been excluded from the field stands to strength it greatly. I also want Kingstonians to feel that this is a festival for them.  As I mentioned, Kingston is a phenomenally artistic city…and that includes the audiences!"
-
-Brayah Pickard (plays Christabel in Lancashire): "I could not possibly be more excited about showcasing selections from The Lancashire Lass, by Leslie Arden, on the final night of the festival. Virtual music theatre is a huge undertaking, and there are so many people working to make this one something truly remarkable."
-
-Brayah: "If I had to put it in one sentence, I’d say “If this is what we can accomplish in a time of global crisis and isolation, just wait until we can all get together again!”"
-
-2022 in-person festival will have WP of _The Lancashire Lass_ at Grand Theatre
+"If I had to put it in one sentence," says Pickard, "I'd say, 'If this is what we can accomplish in a time of global crisis and isolation, just wait until we can all get together again!'"
