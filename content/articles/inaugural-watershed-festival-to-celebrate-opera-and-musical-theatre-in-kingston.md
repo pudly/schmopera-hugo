@@ -10,8 +10,8 @@ preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1621539835/media/2021/05/sqWatershed_vhcxnx.jpg"
 primary_image_credit = ""
 related_articles = []
-related_companies = []
-related_people = []
+related_companies = ["scene/companies/tapestry-opera.md"]
+related_people = ["scene/people/michael-mori.md", "scene/people/marion-newman.md", "scene/people/dean-burry.md"]
 short_description = "The virtual start to the Watershed Festival is no compromise, no placeholder for the in-person Festival set for spring 2022. \"Going virtual has a number of silver linings,\" says Burry. \"We've got people joining us from around the world, and I would imagine the best aspects of that kind of reach will always be a part of the festival moving forward.\""
 slug = "inaugural-watershed-festival-to-celebrate-opera-and-musical-theatre-in-kingston"
 title = "Inaugural Watershed Festival to celebrate opera and musical theatre in Kingston"
@@ -54,9 +54,9 @@ On top of the performances is a series of presentations and conversations by lea
 
 The Festival's final night features a sneak-peek premiere of [_The Lancashire Lass_](https://www.watershedmusictheatre.com/thelancashirelass), the upcoming suffragette-inspired musical, written by Canadian musical theatre creator Leslie Arden and commissioned by the Dan School. "I could not possibly be more excited about showcasing selections from _The Lancashire Lass_," says Brayah Pickard, a Festival participant and creator of the role of Christabel in the new work. "Virtual music theatre is a huge undertaking, and there are so many people working to make this one something truly remarkable."
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1621540633/media/2021/05/Watershed-LancashireNewWorks_p1btl2.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Top: the Ensemble of The Lancashire Lass, getting sneak peek with the Watershed Festival, May 28, 7pmET. Bottom: Kevin Skelton in the New Works Showcase, Watershed Festival, May 27, 7pmET.</figcaption>
 
 </figure>
 
