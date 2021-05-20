@@ -6,7 +6,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1621470714/m
 publishDate = "2016-09-30T04:34:00-04:00"
 slug = "rebecca-woodmass"
 title = "RC Woodmass"
-website = "https://rwoodmass.com/rehearsing-trauma/"
+website = "https://rwoodmass.com/"
 [[social_media]]
 platform = "Facebook"
 template = "social-media"
