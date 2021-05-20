@@ -41,6 +41,6 @@ Dawson is committed to video. "These videos were a way that we could come togeth
 
 But for now, here is the premiere of the video of the Scott Ordway/St. Augustine song, "The Mystery of the World":
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}<iframe width="1280" height="720" src="https://www.youtube.com/embed/LT7zAkn_g2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
 </figure>
