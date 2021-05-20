@@ -44,9 +44,9 @@ In the [New Works Showcase](https://www.watershedmusictheatre.com/newworksshowca
 
 On top of the performances is a series of presentations and conversations by leading figures in music theatre, including Opera Philadelphia General Director [David Devan](https://www.operaphila.org/about/our-people/leadership/david-b-devan/), Amplified Opera co-founder [Marion Newman](https://www.amplifiedopera.com/marion-newman), and renowned music critic [Anne Midgette](https://anchor.fm/tewbop/episodes/Anne-Midgette-Art-Is-Not-the-Institutions-eiur6g).
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1621540473/media/2021/05/Watershed-TimNelsonAnneMidgette_xmqeri.png){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>(l-r) Director Tim Nelson and music critic Anne Midgette, leading the Watershed Festival's Reimagining the Future of Opera panel, May 21, 1pmET.</figcaption>
 
 </figure>
 
