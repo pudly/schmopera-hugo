@@ -20,7 +20,9 @@ youtube_url = ""
 +++
 Here in Canada, as the light at the end of a long pandemic tunnel starts to trickle in, the Queen's University Dan School of Drama and Music is wasting no time in celebrating the performing arts.
 
-Running from **May 25-28, 2021**, the inaugural [Watershed Festival](https://www.watershedmusictheatre.com/) is a first-of-its-kind online showcase of opera and musical theatre - two genres that, curiously, have been historically siloed despite their clear common ground. With the recent merging of the Queen's music and drama schools, the fusion of musical theatre and opera became particularly organic in the mid-sized city of Kingston, Ontario. **FREE??**
+Running from **May 25-28, 2021**, the inaugural [Watershed Festival](https://www.watershedmusictheatre.com/) is a first-of-its-kind online showcase of opera and musical theatre - two genres that, curiously, have been historically siloed despite their clear common ground. With the recent merging of the Queen's music and drama schools, the fusion of musical theatre and opera became particularly organic in the mid-sized city of Kingston, Ontario. 
+
+And, [it's all free](https://events.eply.com/WatershedFestival)!
 
 "As someone who really has worked in both the opera and musical theatre fields, I’m just looking forward to having those two groups in the same room and as a part of the same conversations," says Dean Burry, Canadian composer and Watershed Festival Artistic Director. "There are strikingly still so many stereotypes about the two fields held by professionals on both sides, and the reality is that opera and musicals have so much in common, but often do things in slightly different ways.  I think there is a lot to lean from each other."
 
