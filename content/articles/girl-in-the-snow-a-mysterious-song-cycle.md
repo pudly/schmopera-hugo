@@ -56,78 +56,10 @@ And feel the breath of time itself:
 
 The air that holds your wings.
 
-In “Mystery Play No. 3” Ordway traverses in minimalism with
+In "Mystery Play No. 3" Ordway traverses in minimalism with subtle and relentless variation on singular notes. The role of the piano rises from accompaniment to that of the subconscious or spirit guide. Clearly Ordway has employed Augustine's ancient concept of interiority in evocative musical service. Anna Naretto brings uncommon sensitivity to her piano accompaniment. How fortunate for the recording to have a collaborator who so readily absorbs and expresses its many spiritual and emotional moods. While Naretto is the consummate accompanist she is also a vital partner on this journey that would not reach its destination so movingly without her nuanced touch at the keyboard.
 
-subtle and relentless variation on singular notes. The role of the
+The recording is expertly engineered by Alexander Brusencev, who has a long relationship with the work, having served as the sound engineer for its 2018 premiere in Frankfurt. The listener will appreciate the clarity and balance given to both voice and piano, creating an aural landscape in which the musicians freely roam.
 
-piano rises from accompaniment to that of the subconscious or
+Joining Naretto is Julia Dawson, a brilliant coloratura mezzo soprano who, like Ordway's poetry, brings a sense of timelessness to the work. While Dawson's voice blooms with gorgeous high notes and impressive flexibility, the singer sustains a steady reserve, readily felt if not easily defined. It leans towards overarching self-awareness. Perhaps we are hearing the voice of the girl in the woods who has already found Augustine's concept of inner peace and is simply reliving the journey with the most elegantly expressed insight. This puts a metaphysical spin on an already mysterious song cycle, one that repeated listenings may only deepen. Whatever the answer, Dawson delivers a dramatically mesmerizing and vocally polished performance that ads luster to the work's already impressive patina.
 
-spirit guide. Clearly Ordway has employed Augustine’s ancient
-
-concept of interiority in evocative musical service. Anna Naretto
-
-brings uncommon sensitivity to her piano accompaniment. How
-
-fortunate for the recording to have a collaborator who so readily
-
-absorbs and expresses its many spiritual and emotional moods.
-
-While Naretto is the consummate accompanist she is also a
-
-vital partner on this journey that would not reach its destination
-
-so movingly without her nuanced touch at the keyboard.
-
-The recording is expertly engineered by Alexander Brusencev
-
-who has a long relationship with the work having served as the
-
-sound engineer for its 2018 premiere in Frankfurt. The listener
-
-will appreciate the clarity and balance given to both voice and
-
-piano, creating an aural landscape in which the musicians freely
-
-roam.
-
-Joining Naretto is Julia Dawson, a brilliant coloratura mezzo
-
-soprano who, like Ordway’s poetry, brings a sense of
-
-timelessness to the work. While Dawson’s voice blooms with
-
-gorgeous high notes and impressive flexibility, the singer
-
-sustains a steady reserve, readily felt if not easily defined. It
-
-leans towards overarching self-awareness. Perhaps we are
-
-hearing the voice of the girl in the woods who has already found
-
-Augustine’s concept of inner peace and is simply reliving the
-
-journey with the most elegantly expressed insight. This puts a
-
-metaphysical spin on an already mysterious song cycle, one
-
-that repeated listenings may only deepen. Whatever the
-
-answer, Dawson delivers a dramatically mesmerizing and
-
-vocally polished performance that ads luster to the work’s
-
-already impressive patina.
-
-But Dawson, for all of her vocal elan, has found time to turn the
-
-pandemic on its ear by becoming something of a producer. Her
-
-website boasts two brief series; Quarantunes and Gone in 60
-
-Seconds, both better visited at JuliaDawsonopera.com than
-
-explained here. They paved the way for a video production of
-
-“The Mystery of the World” from Girl In The Snow. Schmopera
-
-is please to premiere the video at
+But Dawson, for all of her vocal _elan_, has found time to turn the pandemic on its ear by becoming something of a producer. Her website boasts two brief series: _Quarantunes_ and _Gone in 60 Seconds_, both better visited at [Dawson's website](https://www.juliadawsonopera.com/media) than explained here. They paved the way for a video production of "The Mystery of the World" from _Girl In The Snow_. Schmopera is please to premiere, [here](/video-premiere-the-mystery-of-the-world-according-to-julia-dawson/).
