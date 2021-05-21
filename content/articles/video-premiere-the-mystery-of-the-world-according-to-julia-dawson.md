@@ -18,7 +18,7 @@ title = "Video premiere: \"The Mystery of the World\" according to Julia Dawson"
 youtube_url = ""
 
 +++
-[Julia Dawson](/scene/people/julia-dawson/) speaks with enthusiasm and commitment when the subject of [_Girl In The Snow_](/a-mysterious-song-cycle-girl-in-the-snow/) comes up. The mezzo-soprano talks with equal zeal about the evolution of the video following the work's 2018 premiere in Frankfurt and the potential role of video in building audiences for opera. She also offered a few insights into the song-cycle's mysteries.
+[Julia Dawson](/scene/people/julia-dawson/) speaks with enthusiasm and commitment when the subject of [_Girl In The Snow_](girl-in-the-snow-a-mysterious-song-cycle) comes up. The mezzo-soprano talks with equal zeal about the evolution of the video following the work's 2018 premiere in Frankfurt and the potential role of video in building audiences for opera. She also offered a few insights into the song-cycle's mysteries.
 
 Scott Ordway and Dawson were friends from her student days in Philadelphia at the Academy of Vocal Arts. Inviting her to premiere _Girl In The Snow_, he must have known how perfect her voice would be for the work. Dawson jumped at the chance, contacted pianist Anna Naretto, whom she terms "a great collaborative artist", and the work premiered on a chamber series in Frankfurt in 2018. Ordway attended, and that is when the group connected with Alex Brusencev, the audio engineer recording the concert, who would later produce the album for Acis.
 
