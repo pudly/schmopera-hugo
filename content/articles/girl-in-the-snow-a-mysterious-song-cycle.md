@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1621470256/media/2021/05/GirlintheSnow-collage_irunqs.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1621562920/media/2021/05/GirlintheSnow-Albumcover_uswbsz.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
@@ -22,9 +22,9 @@ Sometimes musical experiences are enhanced when they appear in close proximity t
 
 These are deeply introspective pieces, both non-linear as they move in and out of stream of consciousness storytelling. Despite their sense of longing and isolation, exposure to them induces feelings of emotional and intellectual satisfaction. They are ravishing if melancholic excursions. This being Schmopera, we are here to ponder _Girl In The Snow_. Still I would urge readers to visit [Berkeleyrep.org](https://berkeleyrep.org/) before May 28 to ride _The Waves In Quarantine_ and take a most convergent journey with Virginia Woolf and David Bucknam.
 
-<figure data-type="image">{{ %md %}}{{% /md %}}
+<figure data-type="image">{{ %md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1621562940/media/2021/05/GirlintheSnow-ScottOrdway_igfmlc.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Scott Ordway, composer of Girl in the Snow. Photo: Amanda Greene.</figcaption>  
 </figure>
 
 Ordway's journey follows a path forged by the writing of St. Augustine, a 4th-century North African philosopher whose teachings are widely regarded as forming the foundation for Christian thought. Excerpts freely adapted by Ordway from Augustine's _Confessions_ form the texts for three of the composer's songs that he entitles, "Memory Plays." The other eight songs in the cycle are set to his own poetry that, while borrowing nothing from the saint, relates with spiritual and atmospheric grace. Ordway has found a kindred spirit in Augustine and extends the philosopher's reach to tell the story of a women, perhaps at the end of her life but most certainly at a profound turning point, in pursuit of inner peace.
