@@ -13,8 +13,8 @@ related_articles = []
 related_companies = ["scene/companies/tapestry-opera.md"]
 related_people = ["scene/people/michael-mori.md", "scene/people/marion-newman.md", "scene/people/dean-burry.md"]
 short_description = "The virtual start to the Watershed Festival is no compromise, no placeholder for the in-person Festival set for spring 2022. \"Going virtual has a number of silver linings,\" says Burry. \"We've got people joining us from around the world, and I would imagine the best aspects of that kind of reach will always be a part of the festival moving forward.\""
-slug = "inaugural-watershed-festival-to-celebrate-opera-and-musical-theatre-in-kingston"
-title = "Inaugural Watershed Festival to celebrate opera and musical theatre in Kingston"
+slug = "inaugural-watershed-festival-to-celebrate-opera-musical-theatre-in-kingston"
+title = "Inaugural Watershed Festival to celebrate opera & musical theatre in Kingston"
 youtube_url = ""
 
 +++
