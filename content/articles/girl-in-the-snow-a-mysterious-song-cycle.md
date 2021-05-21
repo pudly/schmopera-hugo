@@ -3,15 +3,14 @@ author = ["authors/john-hohmann.md"]
 categories = "Review"
 date = 2021-05-20T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1621562920/media/2021/05/GirlintheSnow-Albumcover_uswbsz.jpg"
 primary_image_credit = "Image courtesy of Acis."
-related_articles = []
+related_articles = ["articles/video-premiere-the-mystery-of-the-world-according-to-julia-dawson.md"]
 related_companies = []
-related_people = []
+related_people = ["scene/people/julia-dawson.md"]
 short_description = "Though distinctly modern in all respects, Girl In The Snow possesses a timeless patina. Ordway's ambitious and naturalistic poetry, both dreamy, even fancifully at moments, is also marked with underlying tension and foreboding. Such variety seasons the work. His composition, written for solo piano accompanying mezzo-soprano voice, is resonant, often propulsive and grippingly abstract. "
 slug = "girl-in-the-snow-a-mysterious-song-cycle"
 title = "Girl in the Snow: a mysterious song cycle"
@@ -59,11 +58,11 @@ In "Mystery Play No. 3" Ordway traverses in minimalism with subtle and relentles
 
 The recording is expertly engineered by Alexander Brusencev, who has a long relationship with the work, having served as the sound engineer for its 2018 premiere in Frankfurt. The listener will appreciate the clarity and balance given to both voice and piano, creating an aural landscape in which the musicians freely roam.
 
-Joining Naretto is Julia Dawson, a brilliant coloratura mezzo soprano who, like Ordway's poetry, brings a sense of timelessness to the work. While Dawson's voice blooms with gorgeous high notes and impressive flexibility, the singer sustains a steady reserve, readily felt if not easily defined. It leans towards overarching self-awareness. Perhaps we are hearing the voice of the girl in the woods who has already found Augustine's concept of inner peace and is simply reliving the journey with the most elegantly expressed insight. This puts a metaphysical spin on an already mysterious song cycle, one that repeated listenings may only deepen. Whatever the answer, Dawson delivers a dramatically mesmerizing and vocally polished performance that ads luster to the work's already impressive patina.
+Joining Naretto is [Julia Dawson](/scene/people/julia-dawson/), a brilliant coloratura mezzo soprano who, like Ordway's poetry, brings a sense of timelessness to the work. While Dawson's voice blooms with gorgeous high notes and impressive flexibility, the singer sustains a steady reserve, readily felt if not easily defined. It leans towards overarching self-awareness. Perhaps we are hearing the voice of the girl in the woods who has already found Augustine's concept of inner peace and is simply reliving the journey with the most elegantly expressed insight. This puts a metaphysical spin on an already mysterious song cycle, one that repeated listenings may only deepen. Whatever the answer, Dawson delivers a dramatically mesmerizing and vocally polished performance that ads luster to the work's already impressive patina.
 
 <figure data-type="image">{{ %md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1621563004/media/2021/05/GirlintheSNow-JuliaDawson_ldye9k.jpg){{% /md %}}
 
 <figcaption>Julia Dawson, mezzo-soprano. Photo: Cacao Produccines.</figcaption>  
 </figure>
 
-But Dawson, for all of her vocal _elan_, has found time to turn the pandemic on its ear by becoming something of a producer. Her website boasts two brief series: _Quarantunes_ and _Gone in 60 Seconds_, both better visited at [Dawson's website](https://www.juliadawsonopera.com/media) than explained here. They paved the way for a video production of "The Mystery of the World" from _Girl In The Snow_. Schmopera is please to premiere, [here](video-premiere-the-mystery-of-the-world-according-to-julia-dawson).
+But Dawson, for all of her vocal _elan_, has found time to turn the pandemic on its ear by becoming something of a producer. Her website boasts two brief series: _Quarantunes_ and _Gone in 60 Seconds_, both better visited at [Dawson's website](https://www.juliadawsonopera.com/media) than explained here. They paved the way for a video production of "The Mystery of the World" from _Girl In The Snow_. Schmopera is please to [premiere here](/video-premiere-the-mystery-of-the-world-according-to-julia-dawson).
