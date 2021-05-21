@@ -26,12 +26,9 @@ Ordway's journey follows a path forged by the writing of St. Augustine, a 4th-ce
 
 Though distinctly modern in all respects, _Girl In The Snow_ possesses a timeless patina. Ordway's ambitious and naturalistic poetry, both dreamy, even fancifully at moments, is also marked with underlying tension and foreboding. Such variety seasons the work. His composition, written for solo piano accompanying mezzo-soprano voice, is resonant, often propulsive and grippingly abstract. It fairly shimmers in "The Grove Of Quaking Aspens" and evokes a naive lyricism when contemplating "The Owl, Asleep In His Tree," a poem that reads as both delightful and fateful:
 
-_Good night, my darling:_
-
-I cannot see you, but I know you’re there,
-
-Sleeping, dreaming, alone above the world.
-
+_Good night, my darling:  
+_I cannot see you, but I know you’re there,  
+Sleeping, dreaming, alone above the world.  
 Perhaps you’re dreaming of me?
 
 Or maybe you see a place you’ve seen before,
