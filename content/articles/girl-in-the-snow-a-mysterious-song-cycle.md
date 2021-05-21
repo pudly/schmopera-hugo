@@ -27,31 +27,23 @@ Ordway's journey follows a path forged by the writing of St. Augustine, a 4th-ce
 Though distinctly modern in all respects, _Girl In The Snow_ possesses a timeless patina. Ordway's ambitious and naturalistic poetry, both dreamy, even fancifully at moments, is also marked with underlying tension and foreboding. Such variety seasons the work. His composition, written for solo piano accompanying mezzo-soprano voice, is resonant, often propulsive and grippingly abstract. It fairly shimmers in "The Grove Of Quaking Aspens" and evokes a naive lyricism when contemplating "The Owl, Asleep In His Tree," a poem that reads as both delightful and fateful:
 
 _Good night, my darling:  
-_I cannot see you, but I know you’re there,  
-Sleeping, dreaming, alone above the world.  
-Perhaps you’re dreaming of me?
+I cannot see you, but I know you’re there,  
+Sleeping, dreaming, alone above the world._
 
-Or maybe you see a place you’ve seen before,
+_Perhaps you’re dreaming of me?_
 
-And feel the air a different way,
+_Or maybe you see a place you’ve seen before,  
+And feel the air a different way,  
+And hear the sound of distant waves,  
+Falling on the land again,  
+The great deep breath of time itself._
 
-And hear the sound of distant waves,
-
-Falling on the land again,
-
-The great deep breath of time itself.
-
-But please! Oh, please! Dream of me, too.
-
-I want to feel the air in a different way,
-
-And hear the sound of distant waves,
-
-And wander o’er that land again,
-
-And feel the breath of time itself:
-
-The air that holds your wings.
+_But please! Oh, please! Dream of me, too.  
+I want to feel the air in a different way,  
+And hear the sound of distant waves,  
+And wander o’er that land again,  
+And feel the breath of time itself:  
+The air that holds your wings._
 
 In "Mystery Play No. 3" Ordway traverses in minimalism with subtle and relentless variation on singular notes. The role of the piano rises from accompaniment to that of the subconscious or spirit guide. Clearly Ordway has employed Augustine's ancient concept of interiority in evocative musical service. Anna Naretto brings uncommon sensitivity to her piano accompaniment. How fortunate for the recording to have a collaborator who so readily absorbs and expresses its many spiritual and emotional moods. While Naretto is the consummate accompanist she is also a vital partner on this journey that would not reach its destination so movingly without her nuanced touch at the keyboard.
 
