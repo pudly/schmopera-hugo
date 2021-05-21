@@ -18,7 +18,7 @@ title = "Girl in the Snow: a mysterious song cycle"
 youtube_url = ""
 
 +++
-Sometimes musical experiences are enhanced when they appear in close proximity to one another. Such was the case when listening to _Girl In The Snow_, a beautiful and mysterious song cycle by Scott Ordway. Just a few days prior I had viewed _The Waves in Quarantine_, Lisa Peterson’s pandemic inspired streaming treatment of David Bucknam’s musical adaptation of _The Waves_ by Virginia Woolf.
+Sometimes musical experiences are enhanced when they appear in close proximity to one another. Such was the case when listening to [_Girl In The Snow_](video-premiere-the-mystery-of-the-world-according-to-julia-dawson), a beautiful and mysterious song cycle by Scott Ordway. Just a few days prior I had viewed _The Waves in Quarantine_, Lisa Peterson’s pandemic inspired streaming treatment of David Bucknam’s musical adaptation of _The Waves_ by Virginia Woolf.
 
 These are deeply introspective pieces, both non-linear as they move in and out of stream of consciousness storytelling. Despite their sense of longing and isolation, exposure to them induces feelings of emotional and intellectual satisfaction. They are ravishing if melancholic excursions. This being Schmopera, we are here to ponder _Girl In The Snow_. Still I would urge readers to visit [Berkeleyrep.org](https://berkeleyrep.org/) before May 28 to ride _The Waves In Quarantine_ and take a most convergent journey with Virginia Woolf and David Bucknam.
 
@@ -66,4 +66,4 @@ Joining Naretto is Julia Dawson, a brilliant coloratura mezzo soprano who, like 
 <figcaption>Julia Dawson, mezzo-soprano. Photo: Cacao Produccines.</figcaption>  
 </figure>
 
-But Dawson, for all of her vocal _elan_, has found time to turn the pandemic on its ear by becoming something of a producer. Her website boasts two brief series: _Quarantunes_ and _Gone in 60 Seconds_, both better visited at [Dawson's website](https://www.juliadawsonopera.com/media) than explained here. They paved the way for a video production of "The Mystery of the World" from _Girl In The Snow_. Schmopera is please to premiere, [here](/video-premiere-the-mystery-of-the-world-according-to-julia-dawson/).
+But Dawson, for all of her vocal _elan_, has found time to turn the pandemic on its ear by becoming something of a producer. Her website boasts two brief series: _Quarantunes_ and _Gone in 60 Seconds_, both better visited at [Dawson's website](https://www.juliadawsonopera.com/media) than explained here. They paved the way for a video production of "The Mystery of the World" from _Girl In The Snow_. Schmopera is please to premiere, [here](video-premiere-the-mystery-of-the-world-according-to-julia-dawson).
