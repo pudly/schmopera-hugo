@@ -52,9 +52,9 @@ The air that holds your wings._
 
 In "Mystery Play No. 3" Ordway traverses in minimalism with subtle and relentless variation on singular notes. The role of the piano rises from accompaniment to that of the subconscious or spirit guide. Clearly Ordway has employed Augustine's ancient concept of interiority in evocative musical service. Anna Naretto brings uncommon sensitivity to her piano accompaniment. How fortunate for the recording to have a collaborator who so readily absorbs and expresses its many spiritual and emotional moods. While Naretto is the consummate accompanist she is also a vital partner on this journey that would not reach its destination so movingly without her nuanced touch at the keyboard.
 
-<figure data-type="image">{{ %md %}}{{% /md %}}
+<figure data-type="image">{{ %md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1621563050/media/2021/05/GirlintheSnow-AnnaNaretto_ypnazz.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Anna Naretto, pianist. Photo: Evelyn Fay.</figcaption>  
 </figure>
 
 The recording is expertly engineered by Alexander Brusencev, who has a long relationship with the work, having served as the sound engineer for its 2018 premiere in Frankfurt. The listener will appreciate the clarity and balance given to both voice and piano, creating an aural landscape in which the musicians freely roam.
