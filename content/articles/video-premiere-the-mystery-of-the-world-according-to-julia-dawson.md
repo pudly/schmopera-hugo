@@ -37,6 +37,12 @@ In preparing the entire cycle with Ordway and Naretto, Dawson chose to develop t
 
 Back in March 2020, Dawson was stranded in lockdown in rural France. She felt isolated and uncertain when her father, who plays bass with the Toronto Symphony Orchestra, sent her a [video of Copland's _Appalachian Spring_](https://youtu.be/5rzZ2F18MwI) that his TSO colleagues had created. "I immediately thought, we have got to do this for opera." Dawson then reached out to Brusencev and Guillaume Faraut, a violinist with the Oper Frankfurt Orchestra who organized the players." Dawson found the singers and Brusencev edited the video and sound. Thus _Quarantunes_ and [_Gone In 60 Seconds_](https://www.youtube.com/watch?v=bScyUr43yws) were born.
 
+<figure data-type="image">{{% md %}![](https://res.cloudinary.com/schmopera/image/upload/v1621560552/media/2021/05/Julia_Dawson_-_Girl_In_The_Snow_Master_.00_02_01_14.Still001_taayr5.jpg){{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
 Dawson is committed to video. "These videos were a way that we could come together as a community and make musical offerings to people in the midst of the pandemic. By embracing the constraints of 2020 and leaning into the medium of video, I've seen the richness of expressive possibility that is available.  Musical videos are definitely an interesting medium in themselves and can also be a tool to invite people into the concert hall who maybe wouldn't have considered it before. It's time we caught up with the rest of the music industry and connected with video artists to create kick-ass musical art videos!"
 
 But for now, here is the premiere of the video of the Scott Ordway/St. Augustine song, "The Mystery of the World":
