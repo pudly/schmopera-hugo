@@ -22,6 +22,11 @@ Sometimes musical experiences are enhanced when they appear in close proximity t
 
 These are deeply introspective pieces, both non-linear as they move in and out of stream of consciousness storytelling. Despite their sense of longing and isolation, exposure to them induces feelings of emotional and intellectual satisfaction. They are ravishing if melancholic excursions. This being Schmopera, we are here to ponder _Girl In The Snow_. Still I would urge readers to visit [Berkeleyrep.org](https://berkeleyrep.org/) before May 28 to ride _The Waves In Quarantine_ and take a most convergent journey with Virginia Woolf and David Bucknam.
 
+<figure data-type="image">{{ %md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
+
 Ordway's journey follows a path forged by the writing of St. Augustine, a 4th-century North African philosopher whose teachings are widely regarded as forming the foundation for Christian thought. Excerpts freely adapted by Ordway from Augustine's _Confessions_ form the texts for three of the composer's songs that he entitles, "Memory Plays." The other eight songs in the cycle are set to his own poetry that, while borrowing nothing from the saint, relates with spiritual and atmospheric grace. Ordway has found a kindred spirit in Augustine and extends the philosopher's reach to tell the story of a women, perhaps at the end of her life but most certainly at a profound turning point, in pursuit of inner peace.
 
 Though distinctly modern in all respects, _Girl In The Snow_ possesses a timeless patina. Ordway's ambitious and naturalistic poetry, both dreamy, even fancifully at moments, is also marked with underlying tension and foreboding. Such variety seasons the work. His composition, written for solo piano accompanying mezzo-soprano voice, is resonant, often propulsive and grippingly abstract. It fairly shimmers in "The Grove Of Quaking Aspens" and evokes a naive lyricism when contemplating "The Owl, Asleep In His Tree," a poem that reads as both delightful and fateful:
@@ -47,7 +52,17 @@ The air that holds your wings._
 
 In "Mystery Play No. 3" Ordway traverses in minimalism with subtle and relentless variation on singular notes. The role of the piano rises from accompaniment to that of the subconscious or spirit guide. Clearly Ordway has employed Augustine's ancient concept of interiority in evocative musical service. Anna Naretto brings uncommon sensitivity to her piano accompaniment. How fortunate for the recording to have a collaborator who so readily absorbs and expresses its many spiritual and emotional moods. While Naretto is the consummate accompanist she is also a vital partner on this journey that would not reach its destination so movingly without her nuanced touch at the keyboard.
 
+<figure data-type="image">{{ %md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
+
 The recording is expertly engineered by Alexander Brusencev, who has a long relationship with the work, having served as the sound engineer for its 2018 premiere in Frankfurt. The listener will appreciate the clarity and balance given to both voice and piano, creating an aural landscape in which the musicians freely roam.
+
+<figure data-type="image">{{ %md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
 
 Joining Naretto is Julia Dawson, a brilliant coloratura mezzo soprano who, like Ordway's poetry, brings a sense of timelessness to the work. While Dawson's voice blooms with gorgeous high notes and impressive flexibility, the singer sustains a steady reserve, readily felt if not easily defined. It leans towards overarching self-awareness. Perhaps we are hearing the voice of the girl in the woods who has already found Augustine's concept of inner peace and is simply reliving the journey with the most elegantly expressed insight. This puts a metaphysical spin on an already mysterious song cycle, one that repeated listenings may only deepen. Whatever the answer, Dawson delivers a dramatically mesmerizing and vocally polished performance that ads luster to the work's already impressive patina.
 
