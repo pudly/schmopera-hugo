@@ -29,7 +29,7 @@ Running from **May 25-28, 2021**, the inaugural [Watershed Festival](https://www
 
 </figure>
 
-The virtual line-up for the Festival features a healthy mix of creativity. Dan School professor Julie Salverson's work kicks things off on May 25, 7pm, with a [gala book launch](https://www.watershedmusictheatre.com/galabooklaunch) of her _When Words Sing: Seven Canadian Libretti_. Salverson is joined by Tapestry Opera Artistic Director Michael Hidetoshi Mori, and acclaimed Canadian librettists George Elliott Clarke (_Beatrice Chauncy_), Ann-Marie MacDonald (_Nigredo Hotel_) and Marie Clements (_Missing_), who will present excerpts of their work.
+The virtual line-up for the Festival features a healthy mix of creativity. Dan School professor Julie Salverson's work kicks things off on May 25, 7pm, with a [gala book launch](https://www.watershedmusictheatre.com/galabooklaunch) of her _When Words Sing: Seven Canadian Libretti_. Salverson is joined by [Tapestry Opera](/scene/companies/tapestry-opera/) Artistic Director Michael Hidetoshi Mori, and acclaimed Canadian librettists George Elliott Clarke (_Beatrice Chauncy_), Ann-Marie MacDonald (_Nigredo Hotel_) and Marie Clements (_Missing_), who will present excerpts of their work.
 
 On May 26, Montreal-based Musique 3 Femmes resents an evening of new operas by women composers and librettists, as part of the Festival's [CREATE series](https://www.watershedmusictheatre.com/musique-3-femmes).
 
@@ -39,9 +39,11 @@ On May 26, Montreal-based Musique 3 Femmes resents an evening of new operas by w
 
 </figure>
 
-In the [New Works Showcase](https://www.watershedmusictheatre.com/newworksshowcase), audiences can catch three in-progress musical theatre works: Jake Schindler and Sam Boer's _Ursa_, Kevin Skelton's _Pulse_, Afarino Mansouri's _Zuleyka_. Additionally, Calgary Opera's documentary _Seeds of Namwayut_ will get a screening.
+In the [New Works Showcase](https://www.watershedmusictheatre.com/newworksshowcase), audiences can catch three in-progress musical theatre works: Jake Schindler and Sam Boer's _Ursa_, Kevin Skelton's _Pulse_, and Afarin Mansouri's _Zuleyka_. Additionally, [Calgary Opera](/scene/companies/calgary-opera/)'s documentary _Seeds of Namwayut_ will get a screening.
 
 On top of the performances is a series of presentations and conversations by leading figures in music theatre, including Opera Philadelphia General Director [David Devan](https://www.operaphila.org/about/our-people/leadership/david-b-devan/), Amplified Opera co-founder [Marion Newman](https://www.amplifiedopera.com/marion-newman), and renowned music critic [Anne Midgette](https://anchor.fm/tewbop/episodes/Anne-Midgette-Art-Is-Not-the-Institutions-eiur6g).
+
+The best part: the inaugural Watershed Festival is [all free](https://events.eply.com/WatershedFestival)!
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1621540473/media/2021/05/Watershed-TimNelsonAnneMidgette_xmqeri.png){{% /md %}}
 
