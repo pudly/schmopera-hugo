@@ -21,8 +21,6 @@ Here in Canada, as the light at the end of a long pandemic tunnel starts to tric
 
 Running from **May 25-28, 2021**, the inaugural [Watershed Festival](https://www.watershedmusictheatre.com/) is a first-of-its-kind online showcase of opera and musical theatre - two genres that, curiously, have been historically siloed despite their clear common ground. With the recent merging of the Queen's music and drama schools, the fusion of musical theatre and opera became particularly organic in the mid-sized city of Kingston, Ontario.
 
-And, [it's all free](https://events.eply.com/WatershedFestival)!
-
 "As someone who really has worked in both the opera and musical theatre fields, I’m just looking forward to having those two groups in the same room and as a part of the same conversations," says [Dean Burry](/scene/people/dean-burry/), Canadian composer and Watershed Festival Artistic Director. "There are strikingly still so many stereotypes about the two fields held by professionals on both sides, and the reality is that opera and musicals have so much in common, but often do things in slightly different ways.  I think there is a lot to lean from each other."
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1621540267/media/2021/05/Watershed-DeanBurryWatershedArtisticDirector_ibqbok.jpg){{% /md %}}
@@ -33,7 +31,7 @@ And, [it's all free](https://events.eply.com/WatershedFestival)!
 
 The virtual line-up for the Festival features a healthy mix of creativity. Dan School professor Julie Salverson's work kicks things off on May 25, 7pm, with a [gala book launch](https://www.watershedmusictheatre.com/galabooklaunch) of her _When Words Sing: Seven Canadian Libretti_. Salverson is joined by Tapestry Opera Artistic Director Michael Hidetoshi Mori, and acclaimed Canadian librettists George Elliott Clarke (_Beatrice Chauncy_), Ann-Marie MacDonald (_Nigredo Hotel_) and Marie Clements (_Missing_), who will present excerpts of their work.
 
-On May 2, Montreal-based Musique 3 Femmes resents an evening of new operas by women composers and librettists, as part of the Festival's [CREATE series](https://www.watershedmusictheatre.com/musique-3-femmes).
+On May 26, Montreal-based Musique 3 Femmes resents an evening of new operas by women composers and librettists, as part of the Festival's [CREATE series](https://www.watershedmusictheatre.com/musique-3-femmes).
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1621540325/media/2021/05/Watershed-Indigenous_Panel_yifu8i.png){{% /md %}}
 
