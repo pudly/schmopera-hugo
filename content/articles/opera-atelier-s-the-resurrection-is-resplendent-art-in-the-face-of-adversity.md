@@ -12,7 +12,7 @@ primary_image_credit = ""
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "What a pity, then, that Zingg and Pynkoski’s production couldn’t be showcased on a traditional stage, like that of Koerner Hall—where this production was originally set to premiere in April 2020—or the Elgin Theatre, Opera Atelier’s de facto home."
 slug = "opera-ateliers-the-resurrection-is-resplendent-art-in-the-face-of-adversity"
 title = "Opera Atelier’s The Resurrection is resplendent art in the face of adversity"
 youtube_url = ""
@@ -23,6 +23,12 @@ Georg Frideric Handel's _The Resurrection_ is really an oratorio in name only. D
 But when _The Resurrection_ premiered in 1708, Pope Clement XI had shuttered theatres and banned operas. That, however, didn’t dissuade Handel and his contemporaries, who simply skirted the laws by disguising their operas as oratorios—using Biblical characters to tell allegorical stories, and presenting these works as concerts rather than full theatrical productions. 
 
 For over three centuries, Handel’s rarely-produced work has been masquerading as an oratorio—popping up in concert halls during Lent every once in a blue moon. How ironic, then, that it has taken another theatre-shuttering moment in history for _The Resurrection_ to finally receive the operatic treatment it deserves. 
+
+<figure data-type="image">{{% MD %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 We have to thank Opera Atelier for that. Their long-awaited filmed production of _The Resurrection_ (seen May 27) is a sumptuous and lavish affair that showcases Handel’s work in all its glory. With direction by Marshall Pynkoski and inspired choreography by Jeannette Lajeunesse Zingg, it’s hard to imagine how this piece could have ever been presented in a concert setting—with static singers in front of a symphony orchestra. 
 
@@ -35,6 +41,12 @@ Their fiery Act II duet “Impedirlo saprò!” is one of the production’s hig
 The earth-dwellers, however, are far less interesting than their supernatural counterparts. Mary Magdalene ([Meghan Lindsay](/scene/people/meghan-lindsay/)) and Cleophas ([Allyson McHardy](/scene/people/allyson-mchardy/)) spend much of the oratorio moping over Christ’s crucifixion, while St. John the Evangelist ([Colin Ainsworth](/scene/people/colin-ainsworth/)) is a thinly-drawn faithful follower who assures the two women that Christ will rise from the dead. 
 
 Lindsay, an Opera Atelier favourite, is perfectly cast as Mary Magdalene. In “Ferma l'ali, e sui miei lumi”, her plaintive voice floats above a gentle cascading accompaniment of strings and oboe. As Cleophas, McHardy has a mellifluous tone and an unfaltering vocal dexterity that makes the numerous coloratura passages in “Vedo il ciel, che più sereno” sound easy. And Ainsworth, reprising his role from the 1999 production, is a joyful St. John the Evangelist, with a silvery voice to match. 
+
+<figure data-type="image">{{% MD %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 Under the direction of Elisa Citterio, Tafelmusik’s orchestra brings out the musical shading and lyricism in Handel’s enrapturing score.   
 
