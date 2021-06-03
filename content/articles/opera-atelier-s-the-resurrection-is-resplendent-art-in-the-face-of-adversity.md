@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = "Opera Atelier’s filmed production of The Resurrection is streaming until June 10. Tickets and more information can be found [here]()."
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1622747083/media/2021/06/sqOA-TheResurrection-BruceZinger_jkkjle.jpg"
+primary_image_credit = "Meghan Lindsay (left) and Allyson McHardy in Handel's The Resurrection, Opera Atelier, 2021. Photo: Bruce Zinger."
 related_articles = []
 related_companies = []
 related_people = []
@@ -24,17 +24,21 @@ But when _The Resurrection_ premiered in 1708, Pope Clement XI had shuttered the
 
 For over three centuries, Handel’s rarely-produced work has been masquerading as an oratorio—popping up in concert halls during Lent every once in a blue moon. How ironic, then, that it has taken another theatre-shuttering moment in history for _The Resurrection_ to finally receive the operatic treatment it deserves. 
 
-<figure data-type="image">{{% MD %}}{{% /md %}}
+<figure data-type="image">{{% MD %}}![](https://res.cloudinary.com/schmopera/image/upload/v1622747180/media/2021/06/OA-The_Resurrection-DouglasWilliams-BruceZinger_do4dz8.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Douglas Williams and Artists of the Atelier Ballet in Handel's The Resurrection, Opera Atelier, 2021. Photo: Bruce Zinger.</figcaption>
 
 </figure>
 
 We have to thank Opera Atelier for that. Their long-awaited filmed production of _The Resurrection_ (seen May 27) is a sumptuous and lavish affair that showcases Handel’s work in all its glory. With direction by Marshall Pynkoski and inspired choreography by Jeannette Lajeunesse Zingg, it’s hard to imagine how this piece could have ever been presented in a concert setting—with static singers in front of a symphony orchestra. 
 
+> Ainsworth, reprising his role from the 1999 production, is a joyful St. John the Evangelist, with a silvery voice to match. 
+
 Pynkoski pulls profound performances filled with rich characterization and vocal nuance from the cast. That the performers were able to achieve both is a considerable feat, given that the vocal tracks had to be recorded separately at Koerner Hall before filming even began at St. Lawrence Hall’s grand ballroom (COVID-19 restrictions prohibited any singing on the film set). 
 
 [Carla Huhtanen](/scene/people/carla-huhtanen/) and [Douglas Williams](/scene/people/douglas-williams/) convincingly portray an archangel and Lucifer, respectively. Standing atop a metal scaffolding and basking in a haze of neon blue light, Huhtanen delivers her opening aria “Disserratevi, o porte d'Averno” with a effervescent brilliance befitting of an angel setting the perpetual darkness of hell aglow. Her delicate, acrobatic coloratura is the antithesis of Williams’s dark leathery baritone. 
+
+> Lindsay, an Opera Atelier favourite, is perfectly cast as Mary Magdalene.
 
 Their fiery Act II duet “Impedirlo saprò!” is one of the production’s highlights. Williams’s raging Lucifer proclaims that he will halt Christ’s message from proliferating across the world, while Huhtanen’s archangel, with a look of annoyance, tells him that it’s an impossible task. The duet is a thunderous duel teeming with layered characterization, humour and bombastic energy.
 
@@ -42,9 +46,9 @@ The earth-dwellers, however, are far less interesting than their supernatural co
 
 Lindsay, an Opera Atelier favourite, is perfectly cast as Mary Magdalene. In “Ferma l'ali, e sui miei lumi”, her plaintive voice floats above a gentle cascading accompaniment of strings and oboe. As Cleophas, McHardy has a mellifluous tone and an unfaltering vocal dexterity that makes the numerous coloratura passages in “Vedo il ciel, che più sereno” sound easy. And Ainsworth, reprising his role from the 1999 production, is a joyful St. John the Evangelist, with a silvery voice to match. 
 
-<figure data-type="image">{{% MD %}}{{% /md %}}
+<figure data-type="image">{{% MD %}}![](https://res.cloudinary.com/schmopera/image/upload/v1622747230/media/2021/06/OA-TheResurrection-MeganLindsayTylerGledhill-BruceZinger_cyf7rn.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Meghan Lindsay (left) and Tyler Gledhill in Handel's The Resurrection, Opera Atelier, 2021. Photo: Bruce Zinger.</figcaption>
 
 </figure>
 
