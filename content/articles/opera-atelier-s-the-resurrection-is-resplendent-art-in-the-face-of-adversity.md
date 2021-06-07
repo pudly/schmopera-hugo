@@ -1,7 +1,7 @@
 +++
 author = ["authors/joshua-chong.md"]
 categories = "Review"
-date = 2021-06-04T04:00:00Z
+date = 2021-06-06T04:00:00Z
 disclaimer = "This review was originally published on _Opera Canada_. It is reposted here with permission from the author."
 image_gallery = []
 postamble = "Opera Atelier’s filmed production of The Resurrection is streaming until June 10. Tickets and more information can be found [here]()."
