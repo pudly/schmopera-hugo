@@ -142,9 +142,9 @@ The third installment of my opera marathon was Tchaikovsky's _The Queen of Spade
 
 The designs for this production were decadent and refined, a tribute to eighteenth century aesthetics. The costumes designed by Jonathan Knipscher fell into two categories, military men and noble women. The men wore crisp red and blue uniforms. Only the lead tenor Gheman stood out in his more muted burgundy, making his status as an outsider instantly apparent. The women wore more delicate fabrics, typically in pale creams or bold reds. Lisa, the lead soprano, was also set apart visually in the crowd scenes, often wearing softer pinks against the bright scarlets. The Countess similarly was dressed in less vibrant colors, and her afterlife ensemble was the height of luxury. Even as a ghost, the Countess was the most stylish soul in the room.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626824677/media/2021/07/DMMO-Queen-Chorus_tmssvq.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>The chorus of Des Moines Metro Opera's production of The Queen of Spades, 2021. Photo: Duane Tinkey.</figcaption>
 
 </figure>
 
@@ -154,9 +154,9 @@ The stage direction by Matthew Ozawa felt natural without being stagnant. Some o
 
 David Neely led the orchestra in a robust performance of Tchaikovksy's lush musical realm. From the silky melodies to the sinister undercurrents, the ensemble illustrated the tumultuous emotions of Gherman's descent into love and madness with equal skill, and I often found myself basking in the plush orchestration, no words needed to express the drama.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626824726/media/2021/07/DMMO-Queen-CadieJBryanTaylorRaven_s0mi1g.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Cadie J. Bryan (Prilepa) and Taylor Raven (Milovzor) in Des Moines Metro Opera's production of The Queen of Spades, 2021. Photo: Duane Tinkey.</figcaption>
 
 </figure>
 
@@ -168,11 +168,7 @@ Gherman's only friend seemed to be Count Tomsky, sung by Benjamin Taylor. Tomsky
 
 Within the feminine sphere of the opera, Taylor Raven was absolutely charming in the role of Pauline, Lisa's closest friend. Raven's rich mezzo voice was well suited to Tchaikovsky’s lush lyrical melodies, and her performance of the mournful romance in the first act was hauntingly beautiful.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption></figcaption>
-
-</figure>
+> The Countess was a regal presence on the stage, and Joyce Castle captured her aristocratic air effortlessly. 
 
 Alexander Birch Elliott sang the role of Prince Yeletsky, Gherman's romantic rival. Elliott's resounding baritone voice was everything Tchaikovsky could desire, and his performance of his act two aria "Ya vas lyublyu" was velvety and rich. (How anyone could choose Gherman after hearing the Prince's heartfelt confession I’ll never understand!)
 
@@ -180,9 +176,9 @@ The Countess was a regal presence on the stage, and Joyce Castle captured her ar
 
 [Sara Gartland](/scene/people/sara-gartland/) graced the stage in the role of Lisa, the Countess's granddaughter and Gherman’s beloved. Gartland sang with passion and finesse, displaying Lisa's progression from innocent infatuation to desperate obsession. I found it hard to connect with the character of Lisa through no fault of the performance itself. The young noblewoman is madly in love with Gherman, but it was difficult to figure out why. Was it love at first sight? Had they corresponded in the past? The two lovers didn’t seem to really know each other, but the audience was supposed to accept their romance without much emotional or musical build up to it. Gartland's vocal delivery in Lisa's tragic third act aria was heartbreaking and beautiful, but the death scene's impact was undercut by a lack of compelling romantic interactions leading up to her demise.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626824810/media/2021/07/DMMOQueen-TaylorRavenKseniiaPolstiankinaBarradAmandaSheriff_xm8gcb.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Taylor Raven as (Pauline, centre), Kseniia Polstiankina Barrad (on-stage pianist),  and Amanda Sheriff (left) in Des Moines Metro Opera's production of The Queen of Spades, 2021. Photo: Duane Tinkey.</figcaption>
 
 </figure>
 
