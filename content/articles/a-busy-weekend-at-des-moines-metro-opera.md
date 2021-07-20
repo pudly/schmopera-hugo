@@ -114,9 +114,9 @@ The cast of _Platée_ delivered virtuosic vocals and humorous hijinks from start
 
 Elliott was a constant presence throughout the opera since Momus seemed to be one of the primary masterminds behind Platée's prank nuptials. His rich baritone was surprisingly agile in the baroque style, and his physical embodiment of the role held just the right amount of snark. It takes true comedic bravado to don a skimpy cupid costume, heart shaped arrows and all, with confidence, and Elliot embraced every ridiculous moment with natural ease.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626824530/media/2021/07/DMMOPlatee-TaylorStaytonCadieJBryanNormanthePoodleDuaneTinkey_off1wn.jpg){{% /md %}}
 
-<figcaption>Des Moines Metro Opera's production of Platée, 2021. Photo: Duane Tinkey.</figcaption>
+<figcaption>Taylor Stayton (Platée), Cadie J. Bryan (Clarine) and Norman the Poodle Des Moines Metro Opera's production of Platée, 2021. Photo: Duane Tinkey.</figcaption>
 
 </figure>
 
