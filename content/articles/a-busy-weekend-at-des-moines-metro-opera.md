@@ -78,9 +78,9 @@ By the end of the musical, the audience is both rooting for and against Todd and
 
 The plot of Rameau’s _Platée_ is bizarre at best and potentially problematic. Des Moines Metro Opera cleverly navigated both of these issues with their unique interpretation of the baroque comedy. The general storyline is that in order to temper the jealousy of his wife, Juno, the god Jupiter agrees to a sham seduction and marriage ceremony with a vain, swamp dwelling water nymph named Platée. (Why anyone would think this tactic would work is beyond me, but for some reason, it does.) Often in past productions of the opera, Platée's appearance is the butt of the joke. She is so hideous that of course it would be absurd for Jupiter to cheat on his wife with her. Des Moines Metro Opera's production team wisely took a different approach. It is the nymph's intense vanity and cruelty towards others that are her major flaws. Her appearance is beautiful, but her behavior is ugly. This refreshing take on a potentially shallow premise was a welcome update, and the audience reveled in the frivolous fun.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626824390/media/2021/07/DMMOPlatee-chorus-DuaneTinkey_obekmx.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>The chorus of Des Moines Metro Opera's production of Platée, 2021. Photo: Duane Tinkey.</figcaption>
 
 </figure>
 
@@ -90,9 +90,9 @@ Once we transitioned to Platée's home, the color pink further intensified. The 
 
 Nate Wheatley's lighting design complimented the colorful and chaotic world of Climer's scenery, bringing even more flair for the dramatic with stormy effects and divine sparks at crucial moments. Juno's wrath was felt throughout the show, even when she wasn't onstage.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626824435/media/2021/07/DMMO-Platee-ScottConner-DuaneTinkey_iorho5.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Scott Conner (Jupiter) in Des Moines Metro Opera's production of Platée, 2021. Photo: Duane Tinkey.</figcaption>
 
 </figure>
 
@@ -102,21 +102,21 @@ Conductor Gary Thor Wedow led the orchestra in a polished and energetic performa
 
 The chorus under the direction of Lisa Hasson gave a delightful performance as both drunken partiers and Platée's long abused entourage. Each individual brought a unique character to life while maintaining a solid vocal ensemble, often making cheeky comments to the audience at their mistress’ expense. Their interactions with the main characters made for some of the most hilarious moments of the opera, and their energy carried the story no matter how absurd some of the plot points.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626824463/media/2021/07/DMMO-Platee-ScottConner-ZoieReams-DuaneTinkey_brzx7s.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Scott Conner (Jupiter) and Zoie Reams (Juno) in Des Moines Metro Opera's production of Platée, 2021. Photo: Duane Tinkey.</figcaption>
 
 </figure>
 
 As with many French operas, Rameau's _Platée_ is a celebration of dance as well as music. The six company dancers brought beauty and grace to the stage, balanced with a healthy dose of humor. Often dance interludes can feel like unnecessary interruptions, but Isaac Martin Lerner's choreography evolved to suit every situation. Whether tipsy party guests, prancing dyads, or frenzied orderlies, the dancers captured the passion and comedy necessary for every situation, even when Platée was throwing a tantrum in the middle of their routine.
 
-The cast of Platée delivered virtuosic vocals and humorous hijinks from start to finish. The opera began with the drunken party prologue featuring Benjamin Taylor as Un Satyr, James Stevens as Thespis, Camille Sherman as Thalie, Alexander Birch Elliott as Momus, and Véronique Filloux as Amour. These mischievous gods conspire to teach a lesson to mortals and their fellow deities, calling upon their specialities (drama, ridicule, comedy, and love) to serve up Platée's tale. All five singers clearly took pleasure in their over the top characters, and their vocal performances were playful yet skilled.
+The cast of _Platée_ delivered virtuosic vocals and humorous hijinks from start to finish. The opera began with the drunken party prologue featuring Benjamin Taylor as Un Satyr, James Stevens as Thespis, Camille Sherman as Thalie, Alexander Birch Elliott as Momus, and Véronique Filloux as Amour. These mischievous gods conspire to teach a lesson to mortals and their fellow deities, calling upon their specialities (drama, ridicule, comedy, and love) to serve up Platée's tale. All five singers clearly took pleasure in their over the top characters, and their vocal performances were playful yet skilled.
 
 Elliott was a constant presence throughout the opera since Momus seemed to be one of the primary masterminds behind Platée's prank nuptials. His rich baritone was surprisingly agile in the baroque style, and his physical embodiment of the role held just the right amount of snark. It takes true comedic bravado to don a skimpy cupid costume, heart shaped arrows and all, with confidence, and Elliot embraced every ridiculous moment with natural ease.
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Des Moines Metro Opera's production of Platée, 2021. Photo: Duane Tinkey.</figcaption>
 
 </figure>
 
@@ -130,7 +130,7 @@ Scott Conner sang the role of Jupiter, Platée's groom and king of the gods. Con
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Des Moines Metro Opera's production of Platée, 2021. Photo: Duane Tinkey.</figcaption>
 
 </figure>
 
