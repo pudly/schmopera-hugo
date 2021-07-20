@@ -26,9 +26,9 @@ My first live opera of 2021 ironically came in the form of a musical, Stephen So
 
 The scenic design by R. Keith Brumley captured the industrial revolution, both efficient and complex. Rotating set pieces allowed the audience to view multiple interiors and exteriors without pause, and the players circle at the front of the stage showcased cobbled streets, piles of junk, and a sinister sewer grate. Kate Ashton's lighting design complimented the scenery, alternating between the bright comedic motifs and the dark shadows lurking behind the cheerful façade. Notably in the background of the stage was a massive forge, nameless blacksmiths toiling in the demonic glow as Sweeney Todd grappled with his need for revenge.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626824150/media/2021/07/DMMO-Sweeney-ZacharyNelsonLucySchaufer_z6vvg3.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Zachary Nelson (Sweeney Todd) and Lucy Schaufer (Mrs. Lovett) in Des Moines Metro Opera's production of Sweeney Todd, 2021. Photo: Duane Tinkey.</figcaption>
 
 </figure>
 
@@ -36,9 +36,9 @@ Similarly the costumes, designed by Jonathan Knipscher, were an unconventional a
 
 The stage direction by Kristen McIntyre combined straightforward action and bustling crowd scenes. Fleet Street was a vibrant community, and this relatable depiction made Sweeney Todd's crimes all the more gruesome. However, some of the stage violence was a bit confusing, most notably the flashback rape scene and Pirelli's death. I admired that this production did not revel in the blood and sexual violence, but the balance between subtlety and clarity was off. I don't need buckets of blood, but I want to at least catch a glimpse of crimson when his victims plummet to their demise.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626824228/media/2021/07/DMMO-Sweeney-ZacharyNelsonPeterScottDrackley_uxshbh.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Zachary Nelson (Sweeney Todd) and Peter Scott Drackley (Pirelli) in Des Moines Metro Opera's production of Sweeney Todd, 2021. Photo: Duane Tinkey.</figcaption>
 
 </figure>
 
@@ -48,9 +48,9 @@ The standout performance of the evening was without question that of the chorus 
 
 Each character in _Sweeney Todd_ is uniquely memorable, and Des Moines Metro Opera's cast captured this distinct variety to great effect. From the beginning of the opera, Ben Edquist embodied youthful optimism in the role of Anthony Hope. He contrasted Todd's brooding manner with exuberance and lyricism. Edquist's rendition of the beloved "Johanna" was charming and vulnerable. His tone was manlier than typically expected in this role, but I enjoyed the bolder delivery against Sondheim's brassy backdrop. It was easy to see why Anthony had fallen so quickly for the yellow haired Johanna as soon as Grace Kahl appeared onstage. Her performance of "Green Finch and Linnet Bird" was worthy of any songbird, her sweet soprano voice shimmered with both clarity and passion. The pair of lovers were a much needed beacon of hope in an otherwise gruesome tale.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626824332/media/2021/07/DMMO-Sweeney-GraceKahl_u73xai.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Grace Kahl (Johanna) in Des Moines Metro Opera's production of Sweeney Todd, 2021. Photo: Duane Tinkey.</figcaption>
 
 </figure>
 
@@ -64,9 +64,9 @@ Toby’s first employer, Adolfo Pirelli, was sung by Peter Scott Drackley. Pirel
 
 The chemistry between everyone’s favorite murderous duo was palpable. [Zachary Nelson](/talking-with-singers-zachary-nelson/) was a foreboding presence in the role of Sweeney Todd, and [Lucy Schaufer](/scene/people/lucy-schaufer/) was a humorous counterpoint as Mrs. Nellie Lovett. Nelson’s brooding baritone voice delivered the unrelenting focus and dark malice of the demon barber of Fleet Street. His performance of "My Friends" was smooth and sinister albeit somewhat stiff physically. Surrounded by lively characters, Nelson's Todd was an eerily calm and ominous presence.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626824353/media/2021/07/DMMO-Sweeney-LucySchauferZacharyNelson_zm9ich.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Lucy Schaufer (Mrs. Lovett) and Zachary Nelson (Sweeney Todd) in Des Moines Metro Opera's production of Sweeney Todd, 2021. Photo: Duane Tinkey.</figcaption>
 
 </figure>
 
