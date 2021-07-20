@@ -194,9 +194,9 @@ The musical fireworks were complimented by colorful lighting. The backdrop would
 
 John Holiday collaborated with two pianists for the performance, Kevin J. Miller and Neeki Bey, each accompanying Holiday for one half of the performance. The mutual respect between all three men was evident in their connections onstage. Holiday would playfully quip with the pianists between songs, and both Miller and Bey displayed tender musicality and technical skill upon their instrument as Holiday soared above.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626825043/media/2021/07/JohnHoliday_etdgct.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Countertenor John Holiday.</figcaption>
 
 </figure>
 
