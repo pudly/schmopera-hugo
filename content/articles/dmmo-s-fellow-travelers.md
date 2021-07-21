@@ -3,18 +3,17 @@ author = ["authors/meghan-klinkenborg.md"]
 categories = "Review"
 date = 2021-07-20T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1626825145/media/2021/07/sqDMMO-Travelers-JosephLattanziChristianSanders_oosbsf.jpg"
 primary_image_credit = "Joseph Lattanzi (Hawkins Fuller) and Christian Sanders (Timothy Laughlin) in Des Moines Metro Opera's production of Fellow Traveles, 2021. Photo: Duane Tinkey."
-related_articles = []
-related_companies = []
-related_people = []
+related_articles = ["articles/fellow-travelers-is-luminous-in-chicago.md", "articles/fellow-travelers-a-cathartic-necessary-affair.md"]
+related_companies = ["scene/companies/des-moines-metro-opera.md"]
+related_people = ["scene/people/christian-sanders.md", "scene/people/joseph-lattanzi.md"]
 short_description = "The heart wrenching scenes we did get were truly compelling, but I found myself getting impatient in the less exciting sections. The brief flashes of forbidden passion just weren’t enough to keep the momentum going, and I just wanted them to skip to the juicy parts!"
-slug = "dmmos-fellow-travelers"
-title = "DMMO's Fellow Travelers"
+slug = "dmmos-fellow-travelers-no-happy-ending-but-perseverance"
+title = "DMMO's Fellow Travelers: no happy ending, but perseverance"
 youtube_url = ""
 
 +++
@@ -46,11 +45,7 @@ Paul Carey and Heather Lesieur delivered costumes that celebrated the classic 19
 
 The cast of Des Moines Metro Opera's production was small but mighty. Many of the performers took on multiple small characters throughout the story, and all set changes were assisted by the singers who maintained their personas seamlessly even while shuttling set pieces across the stage. Many of the performers had the daunting task of portraying real historical characters, and they did so quite convincingly.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption>in Des Moines Metro Opera's production of Fellow Traveles, 2021. Photo: Duane Tinkey.</figcaption>
-
-</figure>
+> Grace Kahl sang the role of Mary with vocal clarity and emotional vulnerability.
 
 Benjamin Taylor brought a political sleeziness to the role of Tommy McIntyre. He demonstrated the duality of DC, both befriending Timothy Laughlin at his job interview and hinting at the darker aspects of the political game. Taylor's steady baritone came across as subtly menacing as he revealed his blackmailing schemes, his tone lighthearted but his intentions less so.
 
@@ -69,6 +64,8 @@ While _Fellow Travelers_ seemed to be a world dominated by men, there were a few
 Grace Kahl sang the role of Mary with vocal clarity and emotional vulnerability. This character is the only caring confidant that both Timothy and Hawk have in their lives, and while she goes through her own secret problems, she is always willing to be there for these two men. While musically, this role did not seem to showcase Kahl’s full vocal abilities, the soprano still managed to touch the heart with her performance, a beacon of humanity in the backstabbing political plot.
 
 The charismatic Hawkins Fuller was performed by baritone [Joseph Lattanzi](/scene/people/joseph-lattanzi/), a role which he premiered in the original 2016 production. Lattanzi has an obvious intimate connection to the character of Hawk, evident by his mastery of the physical and vocal demands of the role. Hawk is the older, more experienced man in the opera's romance. He moved across the stage with a suave control like a panther. He pursued Timothy with laser focus, but he also had to maintain his public persona. It was this dichotomy of professional façade and hidden hedonism that made Hawk such a compelling character. Even when they are alone together, Hawk never lets his guard down. Despite his calm and collected exterior, the music reveals Hawk's inner turmoil. His vocal lines do not have the passionate energy of his young lover, but the florid flurries beneath Lattanzi's aria evoked the character’s sense of longing.
+
+> I hope that both men will continue to perform these roles in future productions, growing and developing the characters even further as they do.
 
 On the opposite end of the emotional spectrum was Hawk's "Irish tiger cub" Timothy Laughlin. Tenor [Christian Sanders](/scene/people/christian-sanders/) sang the role of Timothy with an innocent vulnerability and vocal clarity. Sanders’ voice cut through the orchestra despite the venue’s acoustic issues, connecting to the audience on a visceral level. Timothy, like Hawkins, is a man of contradictions. He is experiencing romantic love for the first time in his life, and despite his religious upbringing, he embraces the relationship with naïve enthusiasm. Timothy is a bit of a timid little lamb at the beginning of the opera, and his vocal lines often reflect that. Sanders’ voice captured this sense of vulnerability with deceptive ease, and the fresh-faced tenor gave the most compelling dramatic performance of the evening, a feat that is all the more impressive considering this was his first time singing the role. Timothy's aria in the church after his first night in Hawk’s arms was a tender expression of first love's rush, and Sanders perfectly captured the beauty and tragedy of this moment. Both Sanders and Lattanzi managed to create believable portrayals of these contradictory characters, and their ability to perform quick changes onstage was impressive to say the least. Their chemistry together onstage was dynamic, and I hope that both men will continue to perform these roles in future productions, growing and developing the characters even further as they do.
 
