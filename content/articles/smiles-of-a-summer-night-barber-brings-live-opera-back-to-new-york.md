@@ -32,32 +32,8 @@ Casting a mezzo-soprano as Rosina, the vocal type for which Rossini wrote the pa
 
 She gave the role dramatic momentum, a fascinating counterpoint to the comedy. Tenor [Nicolas Simpson](/scene/people/nicholas-simpson/) as Almaviva got off to a rocky start but found his voice replete with handsome lyrical ornamentation by the time he serenaded Rosina below her balcony. This Almaviva was typically entitled and imperious but managed to be likable, no small feat. Simpson was a superb buffoon when disguised as Lindoro, the drunken solider, in a disheveled shirt without coat and tie, a welcome costume alteration.
 
-Baritone Scott Purcell's annoying Doctor Bartolo and bass David Fridley as his skeptical spy Don Basilio sang with characteristically ridiculous authority and reveled in the
+Baritone Scott Purcell's annoying Doctor Bartolo and bass David Fridley as his skeptical spy Don Basilio sang with characteristically ridiculous authority and reveled in the pervasive farce of the piece. Fridley also displayed a cold-heartedness that indirectly explains Ludwig’s strong Rosina.
 
-pervasive farce of the piece. Fridley also displayed a cold-
+Baritone Kyle Oliver, a member of the chorus, appeared briefly as Fiorello, Almaviva's servant. Oliver distinguished himself with expressive and animated singing. Berta, Bartolo's maid, was sung by soprano Alina Tamborini with spunk to spare.
 
-heartedness that indirectly explains Ludwig’s strong Rosina.
-
-Baritone Kyle Oliver, a member of the chorus, appeared briefly
-
-as Fiorello, Almaviva’s servant. Oliver distinguished himself with
-
-expressive and animated singing. Berta, Bartolo’s maid, was
-
-sung by soprano Alina Tamborini with spunk to spare.
-
-Teatro Nuovo and Will Crutchfield, its founder and General and
-
-Artistic Director, prove that adherence to the practices of period
-
-performance can lead the way to new thinking about Il barber di
-
-Siviglia and other early works. Indeed Barber, the most
-
-thoroughbred of warhorses and the ultimate comic opera, has
-
-the potential to delight anew with a sense of tradition that feels
-
-like innovation, even in a sprawling park on a smiling summer
-
-night.
+Teatro Nuovo and Will Crutchfield, its founder and General and Artistic Director, prove that adherence to the practices of period performance can lead the way to new thinking about _Il barbiere di Siviglia_ and other early works. Indeed _Barber_, the most thoroughbred of warhorses and the ultimate comic opera, has the potential to delight anew with a sense of tradition that feels like innovation, even in a sprawling park on a smiling summer night.
