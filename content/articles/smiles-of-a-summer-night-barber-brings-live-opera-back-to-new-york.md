@@ -22,9 +22,21 @@ The night smiled, twice in fact, on two late July performances of Rossini's _Il 
 
 The pulse of the city, which is to say the usual noise, seemed to agree or at least cooperate. Audiences appeared to be unbothered and the artists soldiered on through the hum of traffic and a siren or two. Even the airplanes flying northbound over the Hudson River were, like the audience, exceedingly well-mannered.
 
-But the nights were not all smiles. The amplification of the orchestra and singers, always an issue for opera, was a mixed blessing in the park. The orchestra sounded thin and oddly dispersed, especially during the familiar overture that was not a harbinger for the effervescence to come. Happily the singers, a youthful and vibrant crew, sounded wonderfully natural. In fact it wasn't until a momentary sound drop on Wednesday night, caused by an ill-fitting microphone on a member of the chorus, that the degree of vocal amplification became evident.
+***
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>But the nights were not all smiles. The amplification of the orchestra and singers, always an issue for opera, was a mixed blessing in the park. The orchestra sounded thin and oddly dispersed, especially during the familiar overture that was not a harbinger for the effervescence to come. Happily the singers, a youthful and vibrant crew, sounded wonderfully natural. In fact it wasn't until a momentary sound drop on Wednesday night, caused by an ill-fitting microphone on a member of the chorus, that the degree of vocal amplification became evident.
 
 Teatro Nuovo, which emerged from Will Crutchfield's 20-year stint conducting early 19th-century Italian operas at the Caramoor Festival's Bel Canto at Caramoor program, brought to the fore its commitment to period performance practices. An orchestra of 35 musicians sized to match that of the opera's 1816 premiere, was co-conducted by Crutchfield at the fortepiano and Teatro Nuovo's Associate Artistic Director, violinist, Jakob Lehmann, concertmaster for the orchestra, conducting from a stool. Duo conductors were common back then and here we had an accomplished pair. Singers during Rossini's time were encouraged to embellish arias with their own ornamentation, an opportunity seized with skill by the group, bringing freshness and added agility to the composer's score.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
 
 Amplification wasn't needed to know by his sly walk and rather haughty posture that bass [Hans Tashjian](/scene/people/hans-tashjian/) was Figaro. In a role Rossini originally intended for a tenor, Tashjian was an insinuating presence complete with conspiratorial comedic timing and his penetrating voice that was ever so stinging when needed. Much felt new about this Figaro as if he discovered his capabilities along the way. Even standing silent this self proclaimed jack-of-all-trades was at work, keenly reviewing the situation and his next strategic move. That Tashjian might one day own this role is a reasonable expectation.
 
@@ -32,8 +44,20 @@ Casting a mezzo-soprano as Rosina, the vocal type for which Rossini wrote the pa
 
 She gave the role dramatic momentum, a fascinating counterpoint to the comedy. Tenor [Nicholas Simpson](/scene/people/nicholas-simpson/) as Almaviva got off to a rocky start but found his voice replete with handsome lyrical ornamentation by the time he serenaded Rosina below her balcony. This Almaviva was typically entitled and imperious but managed to be likable, no small feat. Simpson was a superb buffoon when disguised as Lindoro, the drunken solider, in a disheveled shirt without coat and tie, a welcome costume alteration.
 
-Baritone Scott Purcell's annoying Doctor Bartolo and bass David Fridley as his skeptical spy Don Basilio sang with characteristically ridiculous authority and reveled in the pervasive farce of the piece. Fridley also displayed a cold-heartedness that indirectly explains Ludwig’s strong Rosina.
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
+
+Baritone Scott Purcell's annoying Doctor Bartolo and bass David Fridley as his skeptical spy Don Basilio sang with characteristically ridiculous authority and reveled in the pervasive farce of the piece. Fridley also displayed a cold-heartedness that indirectly explains Ludwig's strong Rosina.
 
 Baritone Kyle Oliver, a member of the chorus, appeared briefly as Fiorello, Almaviva's servant. Oliver distinguished himself with expressive and animated singing. Berta, Bartolo's maid, was sung by soprano Alina Tamborini with spunk to spare.
 
 Teatro Nuovo and Will Crutchfield, its founder and General and Artistic Director, prove that adherence to the practices of period performance can lead the way to new thinking about _Il barbiere di Siviglia_ and other early works. Indeed _Barber_, the most thoroughbred of warhorses and the ultimate comic opera, has the potential to delight anew with a sense of tradition that feels like innovation, even in a sprawling park on a smiling summer night.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>
+
+</figure>
