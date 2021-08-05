@@ -1,9 +1,8 @@
 +++
 author = ["authors/john-hohmann.md"]
 categories = "Review"
-date = 2021-08-04T04:00:00Z
+date = 2021-08-05T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
