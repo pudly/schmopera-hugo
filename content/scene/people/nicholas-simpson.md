@@ -1,6 +1,5 @@
 +++
 discipline = "Tenor"
-draft = true
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1628191251/media/2021/08/NicholasSimpson_JJIgnotz_cslhqw.jpg"
 primary_image_credit = "JJ.Ignotz."
 related_companies = ["scene/companies/teatro-nuovo.md", "scene/companies/little-opera-theatre-of-ny.md"]
