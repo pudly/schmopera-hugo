@@ -51,15 +51,20 @@ youtube_url = ""
 
 </figure>
 
-9. 
+ 9. Keep the pitch consistent on these three repeated C's. And be super picky about the A-flat on your way down. When you get into "Alvaro...", it should feel a bit sunny. Sing it with a smile, at least on the inside.
+10. This phrase can easily be split into two mini-phrases, but resist the urge. That colon after "è scritto" is very cool, because it's not a comma. It's punctuation, but the kind that lurches forward, rather than halts. Keep that in mind as you pace your breaths, and don't let things sag too soon after "scritto".
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426544/media/2021/08/AriaGuide_Pace_p4_annotated_cropped_d09len.jpg){{% /md %}}
 
 </figure>
 
+11. Things are picking up here, both tempo- and drama-wise. Musically, your role becomes a bit of accompaniment here, like a descant around the aria's motif that pokes out in the orchestra (you can see the first one happening while you're holding "pace", for example. This doesn't mean you shouldn't sing this properly, but it's almost like Leonora is getting swept away by something larger than her, as though she's singing to something else's tune. Basically, don't drag; let the orchestra lead the show for a few bars.
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426556/media/2021/08/AriaGuide_Pace_p4_annotated_cropped_2_jysonz.jpg){{% /md %}}
 
 </figure>
+
+12. The orchestra pushes you into this bar, but at this octave leap from G-flat to G-flat, you can definitely take some time. Verdi marks a portamento here, which you should take literally. It's fun to do, and a proper portamento will help you from getting too chesty in "a tanto duol".
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426571/media/2021/08/AriaGuide_Pace_p5_annotated_cropped_top_s27bpk.jpg){{% /md %}}
 
