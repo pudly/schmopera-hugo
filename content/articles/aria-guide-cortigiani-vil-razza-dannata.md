@@ -80,8 +80,8 @@ youtube_url = ""
 
 </figure>
 
-Baritones, we made it! Now to listen to a pro: I'm partial to Sherrill Milnes's version, personally.
+Baritones, we made it! Now to listen to a pro: I'm partial to Leonard Warren's version, personally.
 
-<figure data-type="video">{{% md %}}<iframe width="859" height="644" src="https://www.youtube.com/embed/hPa1HvsSnGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">{{% md %}}<iframe width="859" height="644" src="https://www.youtube.com/embed/nAhai80yaek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
 </figure>
