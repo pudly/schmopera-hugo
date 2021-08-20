@@ -66,3 +66,9 @@ youtube_url = ""
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426593/media/2021/08/AriaGuide_Pace_p6_annotated_cropped_os6cab.jpg){{% /md %}}
 
 </figure>
+
+Ok, enough talk! Time to listen...specifically to Montserrat Caballé singing this aria in Vienna, 1979:
+
+<figure data-type="video">{{% md %}}<iframe width="1010" height="758" src="https://www.youtube.com/embed/leZnfwim31E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+
+</figure>
