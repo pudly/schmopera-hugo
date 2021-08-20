@@ -79,3 +79,9 @@ youtube_url = ""
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629424802/media/2021/08/AriaGuide_Cortigiani_p7_annotated_cropped_bottom_gczbur.jpg){{% /md %}}
 
 </figure>
+
+Baritones, we made it! Now to listen to a pro: I'm partial to Sherrill Milnes's version, personally.
+
+<figure data-type="video">{{% md %}}<iframe width="859" height="644" src="https://www.youtube.com/embed/hPa1HvsSnGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+
+</figure>
