@@ -31,9 +31,7 @@ youtube_url = ""
 </figure>
 
 3. Despite the rests, this is still one long phrase; let the text lead you, not the silences, and beware the bad habit of taking a breath each time there's a rest. Wherever you have longer notes - "pur", "questa", "fora" - remind yourself of what vowel you're singing; it's easy to let vowels get vague, so think of renewing, or repeating the vowel as you keep it spinning. On "Questa man", really sing that D-flat, because it's a great note.
-4. This is a section to coast, not spend. 
-
-4\. Speechy, all a big lead-up, not a place to spend. This should feel speech-like, not like you're hyperventilating. Think of these three bars as a big lead-up to "Ah!"
+4. This is a section to coast, not spend. This should feel speech-like, not like you're hyperventilating. Think of these three bars as a big lead-up to "Ah!"
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629424361/media/2021/08/AriaGuide_Cortigiani_p4_annotated_cropped_top_atvu07.jpg){{% /md %}}
 
