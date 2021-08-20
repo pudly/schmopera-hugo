@@ -18,6 +18,8 @@ title = "Aria Guide: Pace, pace, mio Dio"
 youtube_url = ""
 
 +++
+1. Sopranos, see thy teachers. I mean, Verdi really kicks off this killer aria with an abyss of overthinking, a bar that looks-simple-but-it's-obviously-not-simple. I can encourage you all to keep refreshing your \[a\] vowel, to use Verdi's crescendo-diminuendo 
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426448/media/2021/08/AriaGuide_Pace_p1_annotated_cropped_zrshkl.jpg){{% /md %}}
 
 </figure>
