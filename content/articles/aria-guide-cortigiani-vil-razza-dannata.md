@@ -46,7 +46,7 @@ youtube_url = ""
 
 </figure>
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629424207/media/2021/08/AriaGuide_Cortigiani_p5_annotated_cropped_e7fpgr.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629425343/media/2021/08/AriaGuide_Cortigiani_p5_annotated_cropped_xdnkdm.jpg){{% /md %}}
 
 </figure>
 
