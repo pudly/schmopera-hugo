@@ -81,8 +81,8 @@ youtube_url = ""
 
 </figure>
 
-Ok, enough talk! Time to listen...specifically to Montserrat Caballé singing this aria in Vienna, 1979:
+Ok, enough talk! Time to listen...specifically to Sondra Radvanovsky singing Leonora's "Pace, pace, mio Dio" from Verdi's _La forza del destino_:
 
-<figure data-type="video">{{% md %}}<iframe width="1010" height="758" src="https://www.youtube.com/embed/leZnfwim31E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">{{% md %}}<iframe width="1010" height="568" src="https://www.youtube.com/embed/zZeEKoGV53c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
 </figure>
