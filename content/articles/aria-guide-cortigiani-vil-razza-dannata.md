@@ -62,13 +62,13 @@ youtube_url = ""
 
 </figure>
 
-10. Verdi marks _col canto_ here  Score details: crescendo here, phrase markings and portamenti marked, pp and portamento in second line.
+10. Verdi marks _col canto_ here, which means you're the boss! Don't get greedy, but you can definitely show off - provided you snap back into tempo at "mondo". The _pianissimo_ in the second line is another dramatic shift, and it's all relative; go for dynamic contrast with the previous phrase, not a specific volume level. In the portamentos on "signori" and "perdono", think of getting to the D-flat early, to keep these mini-phrases flowing forward.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629424445/media/2021/08/AriaGuide_Cortigiani_p6_annotated_cropped_qdvhdl.jpg){{% /md %}}
 
 </figure>
 
-1. Totally tricky, consult teacher immediately. Take special care with third of each triplet, especially the G-natural and G-flat. For high G-flat, you can take plenty of time, just snap back into it by the next downbeat.
+11. This section is totally tricky. Consult your teacher immediately. But in case it helps, I can suggest that you treat these two lines like a marathon, and not a sprint; as you descend down from the first high F, keep height in your placement so that you're not surprised by round two. And usually, you get to take some time when you reach up to the high G-flat.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629424814/media/2021/08/AriaGuide_Cortigiani_p7_annotated_cropped_wsgzlv.jpg){{% /md %}}
 
