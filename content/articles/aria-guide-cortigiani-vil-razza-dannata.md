@@ -38,9 +38,15 @@ youtube_url = ""
 
 </figure>
 
+5\. shift in pitch from C creates a cry in sound. Whether or not you breathe after the Ah, sing small notes, stay light on piango
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629424113/media/2021/08/AriaGuide_Cortigiani_p4_annotated_cropped_dytamx.jpg){{% /md %}}
 
 </figure>
+
+6\. Be ready for a new tessitura here. Give yourself more time for the E-flat, get there early.
+
+7\. 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629424184/media/2021/08/AriaGuide_Cortigiani_p5_annotated_cropped_top_wnxro1.jpg){{% /md %}}
 
