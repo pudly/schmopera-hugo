@@ -72,10 +72,14 @@ youtube_url = ""
 </figure>
 
 14. Breathe for the top note here, so you don't start too much in the throat. Spoon-feed us the chromaticism here, and spend time vibrating on the E-natural before moving to the E-flat. The little triplet turn on "alma" should happen entirely separately from the letter L. It seems a small thing, but the semitone between E-flat and D on "invan spe(rò)" is super teeny tiny.
+15. Come in a bit early and get a good hum going on the M in "Misero". It's a nice touch, and reduces stress in your pianist/conductor's brain.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426584/media/2021/08/AriaGuide_Pace_p5_annotated_cropped_am0rkl.jpg){{% /md %}}
 
 </figure>
+
+16. This should be a tiny moment of respite for you, before the big finish. This section is recit-like, but it needs to stay relatively in time, and you should have a clear new tempo in your ear. 
+17. In the race to the finish, choose your battles wisely. The orchestra is picking up here, so don't spend too much of your well-conserved energy on the little notes. Imagine this section happening in 2/2, and let the three B-flats really swoosh you forward to that funky E-natural on "Maledizione". For the final bars, there are a few options. Some sopranos sing this as written, and others break up the two-bar F-natural, to grab one last breath before the high B-flat. Listen to a few recordings, decide what your body and brain like best, and then be prepared to change all your plans because of a conductor.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426593/media/2021/08/AriaGuide_Pace_p6_annotated_cropped_os6cab.jpg){{% /md %}}
 
