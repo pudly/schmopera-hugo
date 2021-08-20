@@ -50,13 +50,13 @@ youtube_url = ""
 
 </figure>
 
-8. Another great moment in opera, right here. Please, for the love of Verdi, make sure you're vibrating on this pickup. We're into full-throttle _bel canto_ here Bel canto ready. Be set for the D-flat when you breathe for this phrase. Grace note doesn't have to be fast, hear it and sing it. Take the hairpins literally, especially the diminuendo.
+8. Another great moment in opera, right here. Please, for the love of Verdi, make sure you're vibrating on this pickup - including the "si-" of "signori". We're into full-throttle _bel canto_ here, and you've got lots of help with the crescendo and diminuendo up and down from the D-flat. Verdi gives you lots of these tools, so take them literally, for your own sake.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629425343/media/2021/08/AriaGuide_Cortigiani_p5_annotated_cropped_xdnkdm.jpg){{% /md %}}
 
 </figure>
 
-1. Portamento marked here, be ready for it. Sing sixteenth notes, D-flat.
+9. 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629424425/media/2021/08/AriaGuide_Cortigiani_p6_annotated_cropped_top_mhjlwy.jpg){{% /md %}}
 
