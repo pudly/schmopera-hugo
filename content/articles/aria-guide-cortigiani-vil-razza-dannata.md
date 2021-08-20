@@ -9,12 +9,12 @@ postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1629484827/media/2021/08/AriaGuide-Rigoletto_cjqvj1.jpg"
 primary_image_credit = ""
-related_articles = []
+related_articles = ["articles/aria-guides-aprite-un-po-quegli-occhi.md", "articles/aria-guides-come-paride-vezzoso.md", "articles/aria-guides-lieben-hassen.md"]
 related_companies = []
 related_people = []
 short_description = "short"
-slug = "aria-guide-cortigiani-vil-razza-dannata"
-title = "Aria Guide: Cortigiani, vil razza dannata"
+slug = "aria-guides-cortigiani-vil-razza-dannata"
+title = "Aria guides: Cortigiani, vil razza dannata"
 youtube_url = ""
 
 +++
