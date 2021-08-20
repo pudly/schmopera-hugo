@@ -7,14 +7,14 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1629485179/media/2021/08/AriaGuide-Pace_pog9oe.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
 related_people = []
 short_description = "short"
-slug = "aria-guide-pace-pace"
-title = "Aria Guide: Pace, pace"
+slug = "aria-guide-pace-pace-mio-dio"
+title = "Aria Guide: Pace, pace, mio Dio"
 youtube_url = ""
 
 +++
