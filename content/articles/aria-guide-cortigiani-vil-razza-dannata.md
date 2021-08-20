@@ -46,27 +46,37 @@ youtube_url = ""
 
 6\. Be ready for a new tessitura here. Give yourself more time for the E-flat, get there early.
 
-7\. 
+7\. Speechy again, don't spend, let it get easier as it descends.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629424184/media/2021/08/AriaGuide_Cortigiani_p5_annotated_cropped_top_wnxro1.jpg){{% /md %}}
 
 </figure>
 
+8\. Bel canto ready. Be set for the D-flat when you breathe for this phrase. Grace note doesn't have to be fast, hear it and sing it. Take the hairpins literally, especially the diminuendo.
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629425343/media/2021/08/AriaGuide_Cortigiani_p5_annotated_cropped_xdnkdm.jpg){{% /md %}}
 
 </figure>
+
+9. Portamento marked here, be ready for it. Sing sixteenth notes, D-flat.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629424425/media/2021/08/AriaGuide_Cortigiani_p6_annotated_cropped_top_mhjlwy.jpg){{% /md %}}
 
 </figure>
 
+10. Score details: crescendo here, phrase markings and portamenti marked, pp and portamento in second line.
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629424445/media/2021/08/AriaGuide_Cortigiani_p6_annotated_cropped_qdvhdl.jpg){{% /md %}}
 
 </figure>
 
+11. Totally tricky, consult teacher immediately. Take special care with third of each triplet, especially the G-natural and G-flat. For high G-flat, you can take plenty of time, just snap back into it by the next downbeat.
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629424814/media/2021/08/AriaGuide_Cortigiani_p7_annotated_cropped_wsgzlv.jpg){{% /md %}}
 
 </figure>
+
+12. Cadenza! Consult teacher for approaching low C, can be a grinder if you haven't been careful, but you don't want to start sitting down there before a high F. Be picky with chromatics, feel where they spin, sing through the glide in the last pieta.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629424802/media/2021/08/AriaGuide_Cortigiani_p7_annotated_cropped_bottom_gczbur.jpg){{% /md %}}
 
