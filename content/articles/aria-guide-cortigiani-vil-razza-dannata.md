@@ -30,23 +30,23 @@ youtube_url = ""
 
 </figure>
 
-3\. sing through the rests, let us hear the A-natural. hear the d-flat in questa
+3. Despite the rests, this is still one long phrase; let the text lead you, not the silences, and beware the bad habit of taking a breath each time there's a rest. Wherever you have longer notes - "pur", "questa", "fora" - remind yourself of what vowel you're singing; it's easy to let vowels get vague, so think of renewing, or repeating the vowel as you keep it spinning. On "Questa man", really sing that D-flat, because it's a great note.
+4. This is a section to coast, not spend. 
 
-4\. Speechy, all a big lead-up, not a place to spend
+4\. Speechy, all a big lead-up, not a place to spend. This should feel speech-like, not like you're hyperventilating. Think of these three bars as a big lead-up to "Ah!"
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629424361/media/2021/08/AriaGuide_Cortigiani_p4_annotated_cropped_top_atvu07.jpg){{% /md %}}
 
 </figure>
 
-5\. shift in pitch from C creates a cry in sound. Whether or not you breathe after the Ah, sing small notes, stay light on piango
+5. Verdi slows the tempo here, just in time for a dramatic shift into the world of weeping. When Rigoletto says, "Marullo, Signore", it should feel utterly pitiable. The effect is amplified by being really picky about the rhythm; note that you're singing straight eighth notes, against the orchestra's triplets. At "Tu ch'hai l'alma..." let the crescendo help you spin that whole phrase.
+6. This phrase can surprise you, so at "Dimmi tu" make sure you're breathing for the higher tessitura in the next bar.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629424113/media/2021/08/AriaGuide_Cortigiani_p4_annotated_cropped_dytamx.jpg){{% /md %}}
+   <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629424113/media/2021/08/AriaGuide_Cortigiani_p4_annotated_cropped_dytamx.jpg){{% /md %}}
 
 </figure>
 
-6\. Be ready for a new tessitura here. Give yourself more time for the E-flat, get there early.
-
-7\. Speechy again, don't spend, let it get easier as it descends.
+7\. It's another speech-like section here, one that shouldn't wear you out. Beware of sipping breaths in each rest, and keep some lightness in your sound as you descend, so you don't relax too soon. Hint: there's still plenty of aria to go!
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629424184/media/2021/08/AriaGuide_Cortigiani_p5_annotated_cropped_top_wnxro1.jpg){{% /md %}}
 
