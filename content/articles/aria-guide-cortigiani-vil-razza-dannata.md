@@ -44,13 +44,13 @@ youtube_url = ""
 
 </figure>
 
-7\. It's another speech-like section here, one that shouldn't wear you out. Beware of sipping breaths in each rest, and keep some lightness in your sound as you descend, so you don't relax too soon. Hint: there's still plenty of aria to go!
+7\. It's another speech-like section here, one that shouldn't wear you out. Beware of sipping breaths in each rest, and keep some lightness in your sound as you descend, so you don't relax too soon. Hint: there's a high F coming up! (And in case you're wondering: I didn't put in an entry for "tu taci" because it's best left between you and your trusted teacher.)
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629424184/media/2021/08/AriaGuide_Cortigiani_p5_annotated_cropped_top_wnxro1.jpg){{% /md %}}
 
 </figure>
 
-8\. Bel canto ready. Be set for the D-flat when you breathe for this phrase. Grace note doesn't have to be fast, hear it and sing it. Take the hairpins literally, especially the diminuendo.
+8. Another great moment in opera, right here. Please, for the love of Verdi, make sure you're vibrating on this pickup. We're into full-throttle _bel canto_ here Bel canto ready. Be set for the D-flat when you breathe for this phrase. Grace note doesn't have to be fast, hear it and sing it. Take the hairpins literally, especially the diminuendo.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629425343/media/2021/08/AriaGuide_Cortigiani_p5_annotated_cropped_xdnkdm.jpg){{% /md %}}
 
