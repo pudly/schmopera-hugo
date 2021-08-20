@@ -56,13 +56,13 @@ youtube_url = ""
 
 </figure>
 
-9. 
+9. Verdi gives you a proper portamento here, so enjoy carrying the \[i\] vowel up to that D-flat. Don't skip the sixteenth note on "voi"; if you've taken a wise breath before "Ridonarla", that "voi" should help you up to the E-flat. And with those pesky slurred staccatos on "a voi nulla ora", consider them deliberate, rather than detached. The orchestra can do detached - you do _bel canto_.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629424425/media/2021/08/AriaGuide_Cortigiani_p6_annotated_cropped_top_mhjlwy.jpg){{% /md %}}
 
 </figure>
 
-1. Score details: crescendo here, phrase markings and portamenti marked, pp and portamento in second line.
+10. Verdi marks _col canto_ here  Score details: crescendo here, phrase markings and portamenti marked, pp and portamento in second line.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629424445/media/2021/08/AriaGuide_Cortigiani_p6_annotated_cropped_qdvhdl.jpg){{% /md %}}
 
