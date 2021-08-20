@@ -74,7 +74,7 @@ youtube_url = ""
 
 </figure>
 
-1. Cadenza! Consult teacher for approaching low C, can be a grinder if you haven't been careful, but you don't want to start sitting down there before a high F. Be picky with chromatics, feel where they spin, sing through the glide in the last pieta.
+12. Who doesn't love a cadenza? First step: don't overspend on the low C. And though it's true you don't have to beat time during a cadenza, there's information in the note values. Eighth notes are longer than sixteenths, so keep that in mind when you come down from the high F. In the last "pietà", enjoy singing (and vibrating!) through the \[j\] glide in the first syllable Consult teacher for approaching low C, can be a grinder if you haven't been careful, but you don't want to start sitting down there before a high F. Be picky with chromatics, feel where they spin, sing through the glide in the last pieta.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629424802/media/2021/08/AriaGuide_Cortigiani_p7_annotated_cropped_bottom_gczbur.jpg){{% /md %}}
 
