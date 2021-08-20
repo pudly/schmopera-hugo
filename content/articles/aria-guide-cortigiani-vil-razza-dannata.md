@@ -18,7 +18,7 @@ title = "Aria Guide: Cortigiani, vil razza dannata"
 youtube_url = ""
 
 +++
-1. rhythm, sing small notes, watch what you do in the rests
+1. rhythm, sing small notes, watch what you do in the rests.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629423346/media/2021/08/AriaGuide_Cortigiani_p1_annotated_full_ygpgv1.jpg){{% /md %}}
 
