@@ -65,10 +65,13 @@ youtube_url = ""
 </figure>
 
 12. The orchestra pushes you into this bar, but at this octave leap from G-flat to G-flat, you can definitely take some time. Verdi marks a portamento here, which you should take literally. It's fun to do, and a proper portamento will help you from getting too chesty in "a tanto duol".
+13. Clearly, another puzzle to work out with your teacher. My humble advice: breathe for the high B-flat, and don't work too hard for the "Invan la". Let the downward portamento help you maintain height, so you're ready to pop back up to the A-flat in the next line.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426571/media/2021/08/AriaGuide_Pace_p5_annotated_cropped_top_s27bpk.jpg){{% /md %}}
 
 </figure>
+
+14. Breathe for the top note here, so you don't start too much in the throat. Spoon-feed us the chromaticism here, and spend time vibrating on the E-natural before moving to the E-flat. The little triplet turn on "alma" should happen entirely separately from the letter L. It seems a small thing, but the semitone between E-flat and D on "invan spe(rò)" is super teeny tiny.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426584/media/2021/08/AriaGuide_Pace_p5_annotated_cropped_am0rkl.jpg){{% /md %}}
 
