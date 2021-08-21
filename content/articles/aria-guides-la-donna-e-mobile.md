@@ -54,6 +54,8 @@ youtube_url = ""
 
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+Ready to hear the finished product out loud? Have a listen to Vittorio Grigòlo's earnest, darkly desperate rendition from the Royal Opera House in 2017:
+
+<figure data-type="video">{{% md %}}<iframe width="1010" height="568" src="https://www.youtube.com/embed/wKoa3BHHbB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
 </figure>
