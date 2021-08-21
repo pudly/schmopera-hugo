@@ -18,6 +18,8 @@ title = "Aria guides: Stride la vampa"
 youtube_url = ""
 
 +++
+1. Usually, music written in 3/8 time has a feeling of one-beat-to-the-bar - but in this aria, it's a bit murky. There's certainly a feeling of one, but it's quite broad, almost like the beats are held back, like a dance played by . And I think for a singer whose voice suits the role of Azucena, creating some space for all these dotted figures is wise. So, choose a tempo where you won't trip over the trills and dots, and remind yourself that this 
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629492741/media/2021/08/AriaGuide_Stride_p1_annotated_cropped_top_vgvhpy.jpg){{% /md %}}
 
 </figure>
