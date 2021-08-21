@@ -40,8 +40,7 @@ In this video of Charpentier's Louise she is 71 (!?!) years old and singing with
 
 The story of [Joseph Schmidt](https://en.wikipedia.org/wiki/Joseph_Schmidt) is not a happy one. The Jewish tenor was born in Davideny (then Austria-Hungary, later Romania, now Ukraine). His short stature (4'11") prevented him from having a stage career, though he enjoyed a very successful concert and recording career. In the 1930's the rising Nazi government in Germany began to block Jewish performers so Schmidt toured extensively in the US and Western Europe. In 1939 he returned to visit his mother and was trapped in France at the outbreak of WWII. He died in a refugee camp in Switzerland of Heart Failure at age 38.
 
-<figure data-type="video">
-<iframe width="854" height="480" src="https://www.youtube.com/embed/Vp2YBHNe3mM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<figure data-type="video"><iframe width="1010" height="1010" src="https://www.youtube.com/embed/zyQ-3j29aJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 Schmidt was a master of languages and is said to have spoken at least six. His voice is sweet and light, clear and unforced at the top. Most comfortable in lighter German operetta (such as this _Martha_ above) and bel canto, but also capable of what we consider heavier repertoire today, such as Calaf and some Verdi roles. His ["Di quella pira"](https://youtu.be/dxMyV6MOjjA) is worth a listen (that chorus is sooooo slow though). IMHO, he is one of the greatest German language tenors of all time. Right up there with Fritz. And sadly they share the same fate of an early death which robbed the world of their talents far too soon.
@@ -70,8 +69,7 @@ While Ghiaurov went on to great fame, married Mirella Freni and produced some of
 
 I feel like mezzo-sopranos are the neglected voice type when it comes to famous singers and recordings. There are probably dozens of outstanding mezzos who we have forgotten about. Have you seen the 1978 Zeffirelli production of [_Carmen_](https://www.youtube.com/watch?v=46JIeRbVlRA&feature=youtu.be&t=19m34s) with a heavily bronzed Domingo, or the 1982 [_Cavalleria Rusticana_](https://www.youtube.com/watch?v=arqnoxvtzZ4&feature=youtu.be&t=29m45s)? Well, then you actually know the voice of [Elena Obraztsova](https://en.wikipedia.org/wiki/Elena_Obraztsova) already, if not her name.
 
-<figure data-type="video">
-<iframe width="854" height="480" src="https://www.youtube.com/embed/46JIeRbVlRA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<figure data-type="video"><iframe width="1010" height="762" src="https://www.youtube.com/embed/NJX0b9ZChYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 She is a powerhouse singer with fierce chest voice that melds smoothly into the upper registers. I find her sound exciting, full, but with a control to match the heft that some others lack. I particularly enjoy the long lines in her [Dalila](https://www.youtube.com/watch?v=EFtx-ApWVqo). I think some folks will be shocked that I include her here, but I think to many, she will be a revelation.
