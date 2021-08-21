@@ -1,7 +1,7 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Humour"
-date = "2017-05-12T15:58:00-04:00"
+date = 2017-05-12T19:58:00Z
 lastmod = "2018-05-12T20:27:00-04:00"
 preamble = "They're mean, mad, and even murderous: call it sexism, or call it a series of very loud Freudian slips, but the creators of opera have never been too kind to mothers. Still, Mother's Day is here; despite the generally poor representation they have in our favourite operas, these crazy mamas sure do get some great music."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1526171263966/mothers.jpg.jpg"
@@ -18,9 +18,7 @@ If you saw the movie _Amadeus_, you chuckled as director Miloš Forman drew a cl
 
 Since you're likely more familiar with her claw-baring aria, we'll treat you to her Act I aria, where she's extra maternal and maybe even a bit flirty with her daughter's would-be boyfriend:
 
-<figure data-type="video">{{% md %}}
-
-<iframe width="854" height="480" src="https://www.youtube.com/embed/H5rETN9GFwA?start=1591" frameborder="0" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">{{% md %}}<iframe width="1010" height="673" src="https://www.youtube.com/embed/IkA65PLEdac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
 </figure>
 
