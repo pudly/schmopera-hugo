@@ -9,10 +9,10 @@ postamble = ""
 preamble = ""
 primary_image = ""
 primary_image_credit = ""
-related_articles = []
-related_companies = []
+related_articles = ["articles/talking-with-singers-heloise-werner.md", "articles/tete-a-tete.md", "articles/tete-a-tete-at-home-a-sampling.md"]
+related_companies = ["scene/companies/tete-a-tete.md"]
 related_people = []
-short_description = "short"
+short_description = "As ever, I was truly inspired by the creativity of the artists in the line-up this season at Tête à Tête; they never fail in their curation of and encouragement for any and all work that lies outside the realm of the traditional. "
 slug = "tete-a-tetes-2021-opera-festival"
 title = "Tête à Tête's 2021 Opera Festival"
 youtube_url = ""
@@ -24,7 +24,7 @@ This month, I was lucky enough to catch three of these broadcasts, each of which
 
 First up was _While There's Light_, a work-in progress presentation by composer Sarah Sarhandi and librettist Vincent Katz based on Katz's English translations of the love poems of 1st-century BCE Roman poet, Sextus Propertius. Sarhandi's score is classically structured but draws on dance music and makes use of drums and electronics. This, paired with her own voltaic viola playing, provided a pulsating, trancelike opening instrumental sequence.
 
-The piece featured three distinct voices pulled from Sextus' writing: Propertius, Cynthia, and Apollo. These roles were sung by Tenor Ebe Oke, and mezzo-sopranos Rosie Middleton and [Loré Lixenberg](/scene/people/lore-lixenberg/), respectively. Sextus frequently wrote in the first person and most often about his relationship with a woman called Cynthia, thought to be a reference to the god Apollo. Unlike a traditional opera, there was no direct dialogue between the characters: each performer was given a microphone and a single spotlight, each bringing a unique quality to the performance which reflected the meaning behind the text and allowed for the words to wash over the audience without distraction.
+The piece featured three distinct voices pulled from Sextus' writing: Propertius, Cynthia, and Apollo. These roles were sung by tenor Ebe Oke, and mezzo-sopranos Rosie Middleton and [Loré Lixenberg](/scene/people/lore-lixenberg/), respectively. Sextus frequently wrote in the first person and most often about his relationship with a woman called Cynthia, thought to be a reference to the god Apollo. Unlike a traditional opera, there was no direct dialogue between the characters: each performer was given a microphone and a single spotlight, each bringing a unique quality to the performance which reflected the meaning behind the text and allowed for the words to wash over the audience without distraction.
 
 The poetry felt surprisingly modern considering it was written some two thousand years ago and somehow still feels very relevant to life today. Katz's translations had a dreamlike quality; an ebb and flow that generated beautifully fragranced, but hazy images. Sarhandi’s music, chantlike and uncomplicated, did everything to highlight the text and draw out its meaning without dominating. It will be interesting to see how the opera, which is so steeped in this text, will morph and change along the way as it develops into its full fledged conformation.
 
