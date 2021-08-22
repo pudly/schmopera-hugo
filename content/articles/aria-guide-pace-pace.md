@@ -1,12 +1,12 @@
 +++
 author = ["authors/jenna.md"]
 categories = "How-To"
-date = 2021-08-19T04:00:00Z
+date = 2021-08-22T04:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
-preamble = "Talk about a Verdi staple: Leonora's act IV aria from _La forza del destino_ is a soprano coup, not for the faint of heart. Leonora sings this from the cave she's been living in lately, hermiting away from things like botched elopements and family curses. This marathon aria is certainly one to work on closely with your trusted teachers and coaches. In the meantime, this Aria Guide is here to offer some handy tips:"
+postamble = "Have a request for our Aria Guides? Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
+preamble = "Talk about a Verdi staple: Leonora's act IV aria from _La forza del destino_ is a soprano coup, not for the faint of heart. Leonora sings this from the cave she's been living in lately, hermiting away from things like botched elopements and family curses. This marathon aria is certainly one to work on closely with your trusted teachers and coaches. In the meantime, this Aria Guide is here to offer some handy tips for \"Pace, pace, mio Dio\" (\"Peace, peace, my God\"):"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1629485179/media/2021/08/AriaGuide-Pace_pog9oe.jpg"
 primary_image_credit = ""
 related_articles = ["articles/aria-guides-embroidery-aria.md", "articles/aria-guides-donde-lieta-uscì.md", "articles/aria-guides-je-suis-encor.md"]
