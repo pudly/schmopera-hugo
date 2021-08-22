@@ -18,68 +18,72 @@ title = "Aria guides: Pace, pace, mio Dio"
 youtube_url = ""
 
 +++
-1. Sopranos, see thy teachers for this one. I mean, Verdi really kicks off this killer aria with an abyss of overthinking, a bar that looks-simple-but-it's-obviously-not-simple. I can encourage you all to keep refreshing your \[a\] vowel, to use Verdi's crescendo-diminuendo to your advantage, and have fun with a portamento on the way down (at least a little one!). But remember: we've only just begun...
+Sopranos, see thy teachers for this one **(1)**. I mean, Verdi really kicks off this killer aria with an abyss of overthinking, a real looks-simple-but-it's-obviously-not-simple kind of bar. I can encourage you all to keep refreshing your \[a\] vowel, to use Verdi's crescendo-diminuendo to your advantage, and have fun with a portamento on the way down (at least a little one!). But remember: we've only just begun...
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426448/media/2021/08/AriaGuide_Pace_p1_annotated_cropped_zrshkl.jpg){{% /md %}}
 
 </figure>
 
-2. Take care here with intonation. It's easy to go flat on the B-flat, and the G on "mio Dio". And though it's relatively simple, take care not to let your placement drop as you come down. That leap from F to D should be an easy tune, nothing more. And a general note: the dotted figures in this aria should be distinguishable from triplet figures. Classic Verdi.
-3. You have time to sing a real vowel on the first syllable of "sventura", so let it help you get into this new minor mode in this section. And Verdi does a cool thing here with the text phrasing; there's a tiny comma after "m'astringe", so give some fresh attention to the "ahimè" that comes after it.
+Take care here **(2)** with intonation. It's easy to go flat on the B-flat, and the G on "mio Dio". And though it's relatively simple, take care not to let your placement drop as you come down. That leap from F to D should be an easy tune, nothing more. And a general note: the dotted figures in this aria should be distinguishable from triplet figures. Classic Verdi.
+
+You have time here **(3)** to sing a real vowel on the first syllable of "sventura", so let it help you get into this new minor mode in this section. And Verdi does a cool thing here with the text phrasing; there's a tiny comma after "m'astringe", so give some fresh attention to the "ahimè" that comes after it.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426460/media/2021/08/AriaGuide_Pace_p2_annotated_cropped_top_kkaips.jpg){{% /md %}}
 
 </figure>
 
-4. Be diligent that you don't fall flat on either of the E-flats in this phrase. And though the text oozes drama here, don't over-darken as you descend into speech-like territory.
+Be diligent that you don't fall flat on either of the E-flats in this phrase **(4)**. And though the text oozes drama here, don't over-darken as you descend into speech-like territory.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426483/media/2021/08/AriaGuide_Pace_p2_annotated_cropped_is4djp.jpg){{% /md %}}
 
 </figure>
 
-5. Chat with your teacher about how to negotiate these diminuendos without losing spin. And rather than aiming for a specific volume level, go for contrast; it'll help you from coming off the voice in pursuit of a proper _piano_. 
-6. Long, _long_ sound on "L'ami, gli è ver!" Note that "gli è" is under a straight eighth note, so don't be late on it. The melody is getting more interesting here, so show us around a bit and don't leave a single note out of your voice. 
+Chat with your teacher about how to negotiate these diminuendos **(5)** without losing spin. And rather than aiming for a specific volume level, go for contrast; it'll help you from coming off the voice in pursuit of a proper _piano_.
+
+Long, _long_ sound on "L'ami, gli è ver!" **(6)** Note that "gli è" is under a straight eighth note, so don't be late on it. The melody is getting more interesting here, so show us around a bit and don't leave a single note out of your voice.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426503/media/2021/08/AriaGuide_Pace_p3_annotated_cropped_top_x5qq3w.jpg){{% /md %}}
 
 </figure>
 
-7. When you breathe for this phrase, plan it around this bar. Most sopranos like to snag a breath either before "cotanto" or before "l'ornò", to make the most out of this hairpin moment on "che l'amo ancor". And though it's not marked, it's a nice touch to add a bit of portamento from the D up to the F.
-8. This rhythm is pretty cool, so keep it crisp and taut. When you breathe for the first "Fatalità!", make sure you're singing on that tiny sixteenth-note pickup. You won't really have time to vibrate on it, but you spin should be already happening.
+When you breathe for this phrase **(7)**, plan it around this bar. Most sopranos like to snag a breath either before "cotanto" or before "l'ornò", to make the most out of this hairpin moment on "che l'amo ancor". And though it's not marked, it's a nice touch to add a bit of portamento from the D up to the F.
+
+This rhythm is pretty cool **(8)**, so keep it crisp and taut. When you breathe for the first "Fatalità!", make sure you're singing on that tiny sixteenth-note pickup. You won't really have time to vibrate on it, but you spin should be already happening.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426512/media/2021/08/AriaGuide_Pace_p3_annotated_cropped_xsjxtf.jpg){{% /md %}}
 
 </figure>
 
- 9. Keep the pitch consistent on these three repeated C's. And be super picky about the A-flat on your way down. When you get into "Alvaro...", it should feel a bit sunny. Sing it with a smile, at least on the inside.
-10. This phrase can easily be split into two mini-phrases, but resist the urge. That colon after "è scritto" is very cool, because it's not a comma. It's punctuation, but the kind that lurches forward, rather than halts. Keep that in mind as you pace your breaths, and don't let things sag too soon after "scritto".
+Keep the pitch consistent on these three repeated C's **(9)**. And be super picky about the A-flat on your way down. When you get into "Alvaro...", it should feel a bit sunny. Sing it with a smile, at least on the inside.
+
+This phrase **(10)** can easily be split into two mini-phrases, but resist the urge. That colon after "è scritto" is very cool, because it's not a comma. It's punctuation, but the kind that lurches forward, rather than halts. Keep that in mind as you pace your breaths, and don't let things sag too soon after "scritto".
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426544/media/2021/08/AriaGuide_Pace_p4_annotated_cropped_d09len.jpg){{% /md %}}
 
 </figure>
 
-11. Things are picking up here, both tempo- and drama-wise. Musically, your role becomes a bit of accompaniment here, like a descant around the aria's motif that pokes out in the orchestra (you can see the first one happening while you're holding "pace", for example. This doesn't mean you shouldn't sing this properly, but it's almost like Leonora is getting swept away by something larger than her, as though she's singing to something else's tune. Basically, don't drag; let the orchestra lead the show for a few bars.
+1. Things are picking up here, both tempo- and drama-wise. Musically, your role becomes a bit of accompaniment here, like a descant around the aria's motif that pokes out in the orchestra (you can see the first one happening while you're holding "pace", for example. This doesn't mean you shouldn't sing this properly, but it's almost like Leonora is getting swept away by something larger than her, as though she's singing to something else's tune. Basically, don't drag; let the orchestra lead the show for a few bars.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426556/media/2021/08/AriaGuide_Pace_p4_annotated_cropped_2_jysonz.jpg){{% /md %}}
 
 </figure>
 
-12. The orchestra pushes you into this bar, but at this octave leap from G-flat to G-flat, you can definitely take some time. Verdi marks a portamento here, which you should take literally. It's fun to do, and a proper portamento will help you from getting too chesty in "a tanto duol".
-13. Clearly, another puzzle to work out with your teacher. My humble advice: breathe for the high B-flat, and don't work too hard for the "Invan la". Let the downward portamento help you maintain height, so you're ready to pop back up to the A-flat in the next line.
+1. The orchestra pushes you into this bar, but at this octave leap from G-flat to G-flat, you can definitely take some time. Verdi marks a portamento here, which you should take literally. It's fun to do, and a proper portamento will help you from getting too chesty in "a tanto duol".
+2. Clearly, another puzzle to work out with your teacher. My humble advice: breathe for the high B-flat, and don't work too hard for the "Invan la". Let the downward portamento help you maintain height, so you're ready to pop back up to the A-flat in the next line.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426571/media/2021/08/AriaGuide_Pace_p5_annotated_cropped_top_s27bpk.jpg){{% /md %}}
 
 </figure>
 
-14. Breathe for the top note here, so you don't start too much in the throat. Spoon-feed us the chromaticism here, and spend time vibrating on the E-natural before moving to the E-flat. The little triplet turn on "alma" should happen entirely separately from the letter L. It seems a small thing, but the semitone between E-flat and D on "invan spe(rò)" is super teeny tiny.
-15. Come in a bit early and get a good hum going on the M in "Misero". It's a nice touch, and reduces stress in your pianist/conductor's brain.
+1. Breathe for the top note here, so you don't start too much in the throat. Spoon-feed us the chromaticism here, and spend time vibrating on the E-natural before moving to the E-flat. The little triplet turn on "alma" should happen entirely separately from the letter L. It seems a small thing, but the semitone between E-flat and D on "invan spe(rò)" is super teeny tiny.
+2. Come in a bit early and get a good hum going on the M in "Misero". It's a nice touch, and reduces stress in your pianist/conductor's brain.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426584/media/2021/08/AriaGuide_Pace_p5_annotated_cropped_am0rkl.jpg){{% /md %}}
 
 </figure>
 
-16. This should be a tiny moment of respite for you, before the big finish. This section is recit-like, but it needs to stay relatively in time, and you should have a clear new tempo in your ear. 
-17. In the race to the finish, choose your battles wisely. The orchestra is picking up here, so don't spend too much of your well-conserved energy on the little notes. Imagine this section happening in 2/2, and let the three B-flats really swoosh you forward to that funky E-natural on "Maledizione". For the final bars, there are a few options. Some sopranos sing this as written, and others break up the two-bar F-natural, to grab one last breath before the high B-flat. Listen to a few recordings, decide what your body and brain like best, and then be prepared to change all your plans because of a conductor.
+1. This should be a tiny moment of respite for you, before the big finish. This section is recit-like, but it needs to stay relatively in time, and you should have a clear new tempo in your ear.
+2. In the race to the finish, choose your battles wisely. The orchestra is picking up here, so don't spend too much of your well-conserved energy on the little notes. Imagine this section happening in 2/2, and let the three B-flats really swoosh you forward to that funky E-natural on "Maledizione". For the final bars, there are a few options. Some sopranos sing this as written, and others break up the two-bar F-natural, to grab one last breath before the high B-flat. Listen to a few recordings, decide what your body and brain like best, and then be prepared to change all your plans because of a conductor.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426593/media/2021/08/AriaGuide_Pace_p6_annotated_cropped_os6cab.jpg){{% /md %}}
 
