@@ -3,7 +3,6 @@ author = ["authors/jenna.md"]
 categories = "How-To"
 date = 2021-08-22T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Have a request for our Aria Guides? Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
 preamble = "Talk about a Verdi staple: Leonora's act IV aria from _La forza del destino_ is a soprano coup, not for the faint of heart. Leonora sings this from the cave she's been living in lately, hermiting away from things like botched elopements and family curses. This marathon aria is certainly one to work on closely with your trusted teachers and coaches. In the meantime, this Aria Guide is here to offer some handy tips for \"Pace, pace, mio Dio\" (\"Peace, peace, my God\"):"
@@ -24,7 +23,7 @@ Sopranos, see thy teachers for this one **(1)**. I mean, Verdi really kicks off 
 
 </figure>
 
-Take care here **(2)** with intonation. It's easy to go flat on the B-flat, and the G on "mio Dio". And though it's relatively simple, take care not to let your placement drop as you come down. That leap from F to D should be an easy tune, nothing more. And a general note: the dotted figures in this aria should be distinguishable from triplet figures. Classic Verdi.
+Take care here **(2)** with intonation. It's easy to go flat on the B-flat, and on the G on "mio Dio". And though it's relatively simple, take care not to let your placement drop as you come down. That leap from F to D should be an easy tune, nothing more. And a general note: the dotted figures in this aria should be distinguishable from triplet figures. Classic Verdi.
 
 You have time here **(3)** to sing a real vowel on the first syllable of "sventura", so let it help you get into this new minor mode in this section. And Verdi does a cool thing here with the text phrasing; there's a tiny comma after "m'astringe", so give some fresh attention to the "ahimè" that comes after it.
 
@@ -62,7 +61,7 @@ This phrase **(10)** can easily be split into two mini-phrases, but resist the u
 
 </figure>
 
-Things are picking up here **(11)**, both tempo- and drama-wise. Musically, your role becomes a bit of accompaniment here, like a descant around the aria's motif that pokes out in the orchestra (you can see the first one happening while you're holding "pace", for example. This doesn't mean you shouldn't sing this properly, but it's almost like Leonora is getting swept away by something larger than her, as though she's singing to something else's tune. Basically, don't drag; let the orchestra lead the show for a few bars.
+Things are picking up here **(11)**, both tempo- and drama-wise. Musically, your role becomes a bit of accompaniment here, like a descant around the operas's motif that pokes out in the orchestra (you can see the first one happening while you're holding "pace", for example). This doesn't mean you shouldn't sing this properly, but it's almost like Leonora is getting swept away by something larger than her, as though she's singing to something else's tune. Basically, don't drag; let the orchestra lead the show for a few bars.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426556/media/2021/08/AriaGuide_Pace_p4_annotated_cropped_2_jysonz.jpg){{% /md %}}
 
@@ -78,7 +77,7 @@ Clearly, another puzzle to work out with your teacher **(13)**. My humble advice
 
 Breathe for the top note here **(14)**, so you don't start too much in the throat. Spoon-feed us the chromaticism here, and spend time vibrating on the E-natural before moving to the E-flat. The little triplet turn on "alma" should happen entirely separately from the letter L. It seems a small thing, but the semitone between E-flat and D on "invan spe(rò)" is super teeny tiny.
 
-Come in a bit early and get a good hum going on the M in "Misero" **(15)**. It's a nice touch, and reduces stress in your pianist/conductor's brain.
+Come in a bit early and get a good hum going on the \[m\] in "Misero" **(15)**. It's a nice touch, and reduces stress in your pianist/conductor's brain.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426584/media/2021/08/AriaGuide_Pace_p5_annotated_cropped_am0rkl.jpg){{% /md %}}
 
