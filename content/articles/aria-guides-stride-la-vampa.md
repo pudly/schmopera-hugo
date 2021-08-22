@@ -6,7 +6,7 @@ disclaimer = ""
 draft = true
 image_gallery = []
 postamble = "Have a request for our Aria Guides? Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
-preamble = "Verdi's _Il trovatore_ has got to be in the top three most bonkers plots in all of opera. Azucena, the gypsy woman with an obvious PTSD situation over having accidentally thrown her own baby in a fire several years back. The crackling fire triggers the memory, and Azucena sings \"Stride la vampa\" (\"The flames roar\"). Along with the work you do with your trusted teachers and coaches, this Aria Guide can set you on the right path with this Verdi mezzo gem:"
+preamble = "Verdi's _Il trovatore_ has got to be in the top three most bonkers plots in all of opera. Azucena, the gypsy woman with an obvious PTSD situation over having accidentally thrown her own baby in a fire several years back. The crackling fire triggers the memory, and Azucena sings [\"Stride la vampa\"](http://www.aria-database.com/search.php?sid=24a50bbfcebd847a80bdf4ae327a0c09&X=5&dT=Full&fC=1&searching=yes&t0=all&s0=stride+la+vampa&f0=keyword&dS=arias) (\"The flames roar\"). Along with the work you do with your trusted teachers and coaches, this Aria Guide can set you on the right path with this Verdi mezzo gem:"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1629492987/media/2021/08/AriaGuide_Stride_pae5ml.jpg"
 primary_image_credit = ""
 related_articles = ["articles/aria-guides-parto-parto.md", "articles/aria-guides-una-voce-poco-fa.md", "articles/aria-guides-va-laisse-couler-mes-larmes.md"]
