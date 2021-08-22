@@ -1,12 +1,12 @@
 +++
 author = ["authors/jenna.md"]
 categories = "How-To"
-date = 2021-08-20T04:00:00Z
+date = 2021-08-22T04:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
-preamble = "When the Duke sings \"La donna è mobile\" in act III of Verdi's _Rigoletto_, it marks one of the most famous moments in all of opera. Probably in large part due to Pavarotti himself, this aria is in that upper echelon of the canon that's recognizable in the mainstream. This aria a dance, somewhat of a ditty; it would almost be fluff, if not for the Duke spewing some old-school chauvinist views on women. And, it's tricky to sing. With the guidance of your trusted teachers and coaches, this Aria Guide offers a great start for tenors to tackle \"La donna è mobile\":"
+postamble = "Have a request for our Aria Guides? Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
+preamble = "When the Duke sings \"La donna è mobile\" in act III of Verdi's _Rigoletto_, it marks one of the most famous moments in all of opera. Probably in large part due to Pavarotti himself, this aria is in that upper echelon of the canon that's recognizable in the mainstream. This aria a dance, somewhat of a ditty; it would almost be fluff, if not for the Duke spewing some old-school chauvinist views on women. And, it's tricky to sing. With the guidance of your trusted teachers and coaches, this Aria Guide offers a great start for tenors to tackle \"La donna è mobile\" (\"Woman is fickle\"):"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1629576839/media/2021/08/AriaGuide_LaDonna_blltrz.jpg"
 primary_image_credit = ""
 related_articles = ["articles/aria-guides-un-aura-amorosa.md", "articles/aria-guides-una-furtiva-lagrima.md", "articles/aria-guides-o-wie-angstlich.md"]
