@@ -3,9 +3,8 @@ author = ["authors/alessia-naccarato.md"]
 categories = "Review"
 date = 2021-08-22T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
-postamble = ""
+postamble = "For full details on Tête à Tête's 2021 Opera Festival, check out [their line-up](https://www.tete-a-tete.org.uk/festival/tete-a-tete-the-opera-festival-2021/)."
 preamble = ""
 primary_image = ""
 primary_image_credit = ""
@@ -13,8 +12,8 @@ related_articles = ["articles/talking-with-singers-heloise-werner.md", "articles
 related_companies = ["scene/companies/tete-a-tete.md"]
 related_people = ["scene/people/lore-lixenberg.md"]
 short_description = "As ever, I was truly inspired by the creativity of the artists in the line-up this season at Tête à Tête; they never fail in their curation of and encouragement for any and all work that lies outside the realm of the traditional. "
-slug = "tete-a-tetes-2021-opera-festival"
-title = "Tête à Tête's 2021 Opera Festival"
+slug = "new-inventions-app-eras-at-tete-a-tetes-2021-opera-festival"
+title = "New inventions & app-eras at Tête à Tête's 2021 Opera Festival"
 youtube_url = ""
 
 +++
