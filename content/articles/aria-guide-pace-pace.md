@@ -62,32 +62,37 @@ This phrase **(10)** can easily be split into two mini-phrases, but resist the u
 
 </figure>
 
-1. Things are picking up here, both tempo- and drama-wise. Musically, your role becomes a bit of accompaniment here, like a descant around the aria's motif that pokes out in the orchestra (you can see the first one happening while you're holding "pace", for example. This doesn't mean you shouldn't sing this properly, but it's almost like Leonora is getting swept away by something larger than her, as though she's singing to something else's tune. Basically, don't drag; let the orchestra lead the show for a few bars.
+Things are picking up here **(11)**, both tempo- and drama-wise. Musically, your role becomes a bit of accompaniment here, like a descant around the aria's motif that pokes out in the orchestra (you can see the first one happening while you're holding "pace", for example. This doesn't mean you shouldn't sing this properly, but it's almost like Leonora is getting swept away by something larger than her, as though she's singing to something else's tune. Basically, don't drag; let the orchestra lead the show for a few bars.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426556/media/2021/08/AriaGuide_Pace_p4_annotated_cropped_2_jysonz.jpg){{% /md %}}
 
 </figure>
 
-1. The orchestra pushes you into this bar, but at this octave leap from G-flat to G-flat, you can definitely take some time. Verdi marks a portamento here, which you should take literally. It's fun to do, and a proper portamento will help you from getting too chesty in "a tanto duol".
-2. Clearly, another puzzle to work out with your teacher. My humble advice: breathe for the high B-flat, and don't work too hard for the "Invan la". Let the downward portamento help you maintain height, so you're ready to pop back up to the A-flat in the next line.
+The orchestra pushes you into this bar **(12)**, but at this octave leap from G-flat to G-flat, you can definitely take some time. Verdi marks a portamento here, which you should take literally. It's fun to do, and a proper portamento will help you from getting too chesty in "a tanto duol".
+
+Clearly, another puzzle to work out with your teacher **(13)**. My humble advice: breathe for the high B-flat, and don't work too hard for the "Invan la". Let the downward portamento help you maintain height, so you're ready to pop back up to the A-flat in the next line.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426571/media/2021/08/AriaGuide_Pace_p5_annotated_cropped_top_s27bpk.jpg){{% /md %}}
 
 </figure>
 
-1. Breathe for the top note here, so you don't start too much in the throat. Spoon-feed us the chromaticism here, and spend time vibrating on the E-natural before moving to the E-flat. The little triplet turn on "alma" should happen entirely separately from the letter L. It seems a small thing, but the semitone between E-flat and D on "invan spe(rò)" is super teeny tiny.
-2. Come in a bit early and get a good hum going on the M in "Misero". It's a nice touch, and reduces stress in your pianist/conductor's brain.
+Breathe for the top note here **(14)**, so you don't start too much in the throat. Spoon-feed us the chromaticism here, and spend time vibrating on the E-natural before moving to the E-flat. The little triplet turn on "alma" should happen entirely separately from the letter L. It seems a small thing, but the semitone between E-flat and D on "invan spe(rò)" is super teeny tiny.
+
+Come in a bit early and get a good hum going on the M in "Misero" **(15)**. It's a nice touch, and reduces stress in your pianist/conductor's brain.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426584/media/2021/08/AriaGuide_Pace_p5_annotated_cropped_am0rkl.jpg){{% /md %}}
 
 </figure>
 
-1. This should be a tiny moment of respite for you, before the big finish. This section is recit-like, but it needs to stay relatively in time, and you should have a clear new tempo in your ear.
-2. In the race to the finish, choose your battles wisely. The orchestra is picking up here, so don't spend too much of your well-conserved energy on the little notes. Imagine this section happening in 2/2, and let the three B-flats really swoosh you forward to that funky E-natural on "Maledizione". For the final bars, there are a few options. Some sopranos sing this as written, and others break up the two-bar F-natural, to grab one last breath before the high B-flat. Listen to a few recordings, decide what your body and brain like best, and then be prepared to change all your plans because of a conductor.
+This **(16)** should be a tiny moment of respite for you, before the big finish. This section is recit-like, but it needs to stay relatively in time, and you should have a clear new tempo in your ear.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426593/media/2021/08/AriaGuide_Pace_p6_annotated_cropped_os6cab.jpg){{% /md %}}
 
 </figure>
+
+In the race to the finish **(17)**, choose your battles wisely. The orchestra is picking up here, so don't spend too much of your well-conserved energy on the little notes. Imagine this section happening in 2/2, and let the three B-flats really swoosh you forward to that funky E-natural on "Maledizione". For the final bars, there are a few options. Some sopranos sing this as written, and others break up the two-bar F-natural, to grab one last breath before the high B-flat. Listen to a few recordings, decide what your body and brain like best, and then be prepared to change all your plans because of a conductor.
+
+***
 
 Ok, enough talk! Time to listen...specifically to Sondra Radvanovsky singing Leonora's "Pace, pace, mio Dio" from Verdi's _La forza del destino_:
 
