@@ -36,10 +36,20 @@ youtube_url = ""
 
 </figure>
 
+4. Ideally, you've been conserving energy by coasting on this trill, you're not giving too much too soon mid-crescendo. It's really in the last measure that you can warm back into a full sound - in fact, it's best to consider the crescendo as simply a move from light-enough-to-trill to your comfortable volume. Then, you can let rip for "che s'alza al ciel!" When you do breathe for "che", take a hair of extra time for a great-quality breath, and a bit of musical suspense.
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629492768/media/2021/08/AriaGuide_Stride_p2_annotated_cropped_itmvih.jpg){{% /md %}}
 
 </figure>
 
+5. We've skipped ahead a bit, trusting you mezzos to sing the second verse with excellent sound and great storytelling. Here, where the text repeats, it's a spot to think about adding a few musical differences. Maybe you had an actual portamento in "fiamma", or maybe you show off with some extra volume in your high G. Doesn't have to be a full-blown cadenza - Azucena has a whole opera left to sing, after all - just some new pizzazz to avoid repetition.
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629492782/media/2021/08/AriaGuide_Stride_p3_annotated_full_a7d6xv.jpg){{% /md %}}
+
+</figure>
+
+Now, for some listening: I like Marilyn Horne's version of this aria, because it's just so textbook. You can hear Martin Katz all over this:
+
+<figure data-type="video">{{% md %}}<iframe width="1010" height="758" src="https://www.youtube.com/embed/SDT4rct_n1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
 </figure>
