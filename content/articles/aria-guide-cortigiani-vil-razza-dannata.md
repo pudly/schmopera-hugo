@@ -41,7 +41,7 @@ Verdi slows the tempo here **(5)**, just in time for a dramatic shift into the w
 
 This phrase **(6)** can surprise you, so at "Dimmi tu" make sure you're breathing for the higher tessitura in the next bar.
 
-1. <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629424113/media/2021/08/AriaGuide_Cortigiani_p4_annotated_cropped_dytamx.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629424113/media/2021/08/AriaGuide_Cortigiani_p4_annotated_cropped_dytamx.jpg){{% /md %}}
 
 </figure>
 
