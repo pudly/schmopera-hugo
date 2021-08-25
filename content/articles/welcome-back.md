@@ -18,6 +18,12 @@ title = "welcome back"
 youtube_url = ""
 
 +++
+I'll tell you this, readers: absence really does make the heart grow fonder.
+
+I've been absent from Schmopera, you might have noticed.
+
+* 
+* 
 * summer stuff
 * freelance juggling - stratagem, opera canada
 * back at my schmopera desk, with some cool things planned for the near future
