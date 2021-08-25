@@ -41,3 +41,7 @@ That life experience no doubt includes the fact that opera has lost some of itse
 In this tiny little realm of the performing arts, there's little left to do but stay patient and look ahead. That's my strategy, at least. Schmopera has some cool content coming your way, like this week's rollout of a fresh batch of Aria Guides, dedicated to the masterpieces of Joe Green himself. Oh, and I'm reading this stunning book of poetry and Leontyne Price... review coming soon.
 
 And readers, we've got a big announcement coming! Stay tuned for good things. Like the final scene of a great Wagner opera, it'll be worth the wait.
+
+In the meantime, tell us what you'd like to read! Send us your ideas, from interview requests and hot topics, to how-to questions and shows to review. Drop them in the comments, or get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).
+
+Glad to be back, all.
