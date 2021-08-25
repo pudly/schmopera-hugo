@@ -38,4 +38,6 @@ Maybe because of morbid curiosity, I'm oddly pumped for this season. It'll be li
 
 That life experience no doubt includes the fact that opera has lost some of itself to the pandemic. Artists have packed up their things and gotten stable jobs, and though they're being wisely quiet about it, opera companies reeling from it all, and will be for a while yet.
 
-In this tiny little realm of the performing arts, there's little left to do but stay patient and look ahead. That's my strategy, at least. Schmopera has some cool content coming your way /*_cough this Leontyne Price book I'm reading is phenomenal cough/*_ and one big exciting idea we're excited to unveil in the coming weeks.
+In this tiny little realm of the performing arts, there's little left to do but stay patient and look ahead. That's my strategy, at least. Schmopera has some cool content coming your way, like this week's rollout of a fresh batch of Aria Guides, dedicated to the masterpieces of Joe Green himself. Oh, and I'm reading this stunning book of poetry and Leontyne Price... review coming soon.
+
+And readers, we've got a big announcement coming! Stay tuned for good things. Like the final scene of a great Wagner opera, it'll be worth the wait.
