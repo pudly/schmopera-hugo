@@ -7,14 +7,14 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1629903262/media/2021/08/WelcomeBack_egxkka.jpg"
+primary_image_credit = "Oh hi."
 related_articles = []
 related_companies = []
 related_people = []
 short_description = "Maybe because of morbid curiosity, I'm oddly pumped for this season. It'll be like watching opera history happen: we've gotten used to digital opera, and there's more out-of-the-box thinking happening now than we've had in centuries."
-slug = "welcome-back"
-title = "welcome back"
+slug = "jennas-back-and-so-is-opera-we-think"
+title = "Jenna's back! And so is opera, we think?"
 youtube_url = ""
 
 +++
