@@ -5,7 +5,7 @@ date = 2021-08-29T04:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "Have a request for our Aria Guides? Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
-preamble = "When the Duke sings [\"La donna è mobile\"](http://www.aria-database.com/search.php?sid=24a50bbfcebd847a80bdf4ae327a0c09&X=4&individualAria=265) in act III of Verdi's _Rigoletto_, it marks one of the most famous moments in all of opera. Probably in large part due to Pavarotti himself, this aria is in that upper echelon of the canon that's recognizable in the mainstream. This aria a dance, somewhat of a ditty; it would almost be fluff, if not for the Duke spewing some old-school chauvinist views on women. And, it's tricky to sing. With the guidance of your trusted teachers and coaches, this Aria Guide offers a great start for tenors to tackle \"La donna è mobile\" (\"Women are fickle\"):"
+preamble = "When the Duke sings [\"La donna è mobile\"](http://www.aria-database.com/search.php?sid=24a50bbfcebd847a80bdf4ae327a0c09&X=4&individualAria=265) in act III of Verdi's _Rigoletto_, it marks one of the most famous moments in all of opera. Probably in large part due to [Pavarotti himself](https://youtu.be/xCFEk6Y8TmM), this aria is in that upper echelon of the canon that's recognizable in the mainstream. This aria a dance, somewhat of a ditty; it would almost be fluff, if not for the Duke spewing some old-school chauvinist views on women. And, it's tricky to sing. With the guidance of your trusted teachers and coaches, this Aria Guide offers a great start for tenors to tackle \"La donna è mobile\" (\"Women are fickle\"):"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1629576839/media/2021/08/AriaGuide_LaDonna_blltrz.jpg"
 primary_image_credit = ""
 related_articles = ["articles/aria-guides-un-aura-amorosa.md", "articles/aria-guides-una-furtiva-lagrima.md", "articles/aria-guides-o-wie-angstlich.md"]
@@ -55,7 +55,7 @@ Same as before **(7)**: save your big breath for the long note. There's a common
 
 </figure>
 
-Ready to hear the finished product out loud? Have a listen to [Vittorio Grigòlo](https://www.schmopera.com/grigolo-rogue-teacher/)'s earnest, desperate rendition from the [Royal Opera House](/scene/companies/royal-opera-house/) in 2017:
+Ready to hear the finished product out loud? I really do love [Pavarotti's rendition](https://www.youtube.com/watch?v=xCFEk6Y8TmM) from the 1987 [film production](https://www.imdb.com/title/tt0253590/) of _Rigoletto_, where his eyes are staring into your soul. But for something a bit more dramatically interesting, have a look at [Vittorio Grigòlo](https://www.schmopera.com/grigolo-rogue-teacher/)'s earnest, desperate rendition at the [Royal Opera House](/scene/companies/royal-opera-house/) in 2017:
 
 <figure data-type="video">{{% md %}}<iframe width="1010" height="568" src="https://www.youtube.com/embed/wKoa3BHHbB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
