@@ -55,7 +55,7 @@ Same as before **(7)**: save your big breath for the long note. There's a common
 
 </figure>
 
-Ready to hear the finished product out loud? I really do love [Pavarotti's rendition](https://www.youtube.com/watch?v=xCFEk6Y8TmM) from the 1987 [film production](https://www.imdb.com/title/tt0253590/) of _Rigoletto_, where his eyes are staring into your soul. But for something a bit more dramatically interesting, have a look at [Vittorio Grigòlo](https://www.schmopera.com/grigolo-rogue-teacher/)'s earnest, desperate rendition at the [Royal Opera House](/scene/companies/royal-opera-house/) in 2017:
+Ready to hear the finished product out loud? I really do love [Pavarotti's rendition](https://www.youtube.com/watch?v=xCFEk6Y8TmM) from the 1987 [film production](https://www.imdb.com/title/tt0253590/) of _Rigoletto_, where his eyes are staring into your soul. But for something a bit more dramatically interesting, have a look at [Vittorio Grigòlo](https://www.schmopera.com/grigolo-rogue-teacher/)'s earnest, unsettling rendition in David McVicar's production at the [Royal Opera House](/scene/companies/royal-opera-house/) in 2017:
 
 <figure data-type="video">{{% md %}}<iframe width="1010" height="568" src="https://www.youtube.com/embed/wKoa3BHHbB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
