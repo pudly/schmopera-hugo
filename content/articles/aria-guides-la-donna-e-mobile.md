@@ -1,7 +1,7 @@
 +++
 author = ["authors/jenna.md"]
 categories = "How-To"
-date = 2021-08-22T04:00:00Z
+date = 2021-08-29T04:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
@@ -50,7 +50,7 @@ Same section, same trickiness **(6)**: just make sure that you've got something 
 
 </figure>
 
-Same as before **(7)**: save your big breath for the long note. There's a common cadenza that gets plugged into the penultimate bar, with a long melisma that leads to a high B at the end. Like with any cadenza, you should feel free to experiment and show off your voice's best qualities. I'd say that a high B at the end has become an industry must-have. The last detail is in coordinating the last "pensier" with your pianist or conductor. One good answer is for the F#7 chord to go in between "di" and "pensier". Others like to be in unison for "pensier", which is cool, but slightly more risky. Listen to a few options, decide what works best for you, and then be prepared to adapt. (Conductors, right?)
+Same as before **(7)**: save your big breath for the long note. There's a common cadenza that gets plugged into the penultimate bar, with a long melisma that leads to a high B at the end. Like with any [cadenza](https://www.scoreexchange.com/scores/108777.html), you should feel free to experiment and show off your voice's best qualities. I'd say that a high B at the end has become an industry must-have. The last detail is in coordinating the last "pensier" with your pianist or conductor. One good answer is for the F#7 chord to go in between "di" and "pensier". Others like to be in unison for "pensier", which is cool, but slightly more risky. Listen to a few options, decide what works best for you, and then be prepared to adapt. (Conductors, right?)
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629492545/media/2021/08/AriaGuide_LaDonna_p4_annotated_cropped_jnbecy.jpg){{% /md %}}
 
