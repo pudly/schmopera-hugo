@@ -3,6 +3,7 @@ author = ["authors/jenna.md"]
 categories = "Humour"
 date = 2020-08-03T04:00:00Z
 disclaimer = ""
+draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
