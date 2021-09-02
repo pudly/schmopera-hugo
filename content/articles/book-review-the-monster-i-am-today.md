@@ -18,6 +18,9 @@ title = "Book review: The Monster I Am Today"
 youtube_url = ""
 
 +++
+
+* 
+* 
 * poetry and prose mixed together into a specific history that still feels universal
 * any music student will feel kin with Kevin's early exposure to music and the awe of a voice like Price's; choir life; a great first teacher who inspires
 * Pri-chay joke, music nerds for life
