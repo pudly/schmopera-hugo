@@ -48,7 +48,7 @@ all the people around Leontyne Price (whose sound can be dark, for what it's wor
 
 Simmonds' poetry bubbles up with imagery and references, like Leontyne Price's turban and the civil rights movement. His writing is taut and vivid, a single line packing a punch the size of American racial inequality. Even through sparse pages, I get major statements: music school has a caste problem; when it's hard for gay men to come out, the cost is enormous; Leontyne Price - and her dark sound, ironically - was very nearly relegated to singing only Aidas and Besses.
 
-In my YouTube spree, I listened to that 
+In my YouTube spree, I listened to that "O Patria Mia" from the Met in 1985 — and I watched the three-minute ovation with Simmonds' timestamped notes of Price's every move. It struck me, watching this proper moment in operatic history
 
 and Leontyne Price is a prime example of how Black artists have to maintain an extraordinary level of skill, poise, and ability to shrug off discrimination — otherwise all is lost. 
 
