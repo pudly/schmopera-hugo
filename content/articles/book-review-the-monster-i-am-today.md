@@ -36,8 +36,6 @@ A lot of the book is familiar, particularly that thing about being able to pinpo
 
 Other things feel less familiar to me, because I'm a white woman: Simmonds' continuous feedback that his voice was too dark, from white voice teachers who worked to "brighten" and "thin" his sound. When I think back to all the voice lessons I witnessed, and all the push for a specific sound, I'm ashamed to say that I never made the connection that the desired sound was a white one. 
 
-all the people around Leontyne Price (whose sound can be dark, for what it's worth) who were calmly convinced that she was only allowed to sing Aida and Bess; the act of being a racial minority in music school.
-
 <figure data-type="image">{{% md %}}
 
 ![](https://res.cloudinary.com/schmopera/image/upload/v1630587991/media/2021/09/Kevin_Simmonds_wcqihh.jpg){{% /md %}}
@@ -46,11 +44,9 @@ all the people around Leontyne Price (whose sound can be dark, for what it's wor
 
 </figure>
 
-Simmonds' poetry bubbles up with imagery and references, like Leontyne Price's turban and the civil rights movement. His writing is taut and vivid, a single line packing a punch the size of American racial inequality. Even through sparse pages, I get major statements: music school has a caste problem; when it's hard for gay men to come out, the cost is enormous; Leontyne Price - and her dark sound, ironically - was very nearly relegated to singing only Aidas and Besses.
+Simmonds' poetry bubbles up with imagery and references, like Leontyne Price's turban and the civil rights movement. His writing is taut and vivid, a single line packing a punch the size of American racial inequality. Even through sparse pages, I get major statements: music school has a caste problem; when it's hard for gay men to come out, the cost is enormous; Leontyne Price's sound, ironically, can be dark.
 
-In my YouTube spree, I listened to that "O Patria Mia" from the Met in 1985 — and I watched the three-minute ovation with Simmonds' timestamped notes of Price's every move. It struck me, watching this proper moment in operatic history
-
-and Leontyne Price is a prime example of how Black artists have to maintain an extraordinary level of skill, poise, and ability to shrug off discrimination — otherwise all is lost. 
+In my YouTube spree, I listened to that "O Patria Mia" from the Met in 1985 — and I watched the three-minute ovation with Simmonds' timestamped notes of Price's every move. And having just read Simmonds' book, I felt a fresh rush of awe for what Leontyne does, making constantly beautiful, constantly interesting sound that holds you captive. It reminded me how particularly high the standard is for Black artists, and how it wasn't even enough for Price to make the kind of sound she did. She also had to rise above the hate, the discrimination, the colleagues trying to relegate her to only Aidas and Besses I knew, in theory, that Black artists have to achieve and maintain a superhuman level of skill in order to  Leontyne Price is a prime example of how Black artists have to maintain an extraordinary level of skill, poise, and ability to shrug off discrimination — otherwise all is lost. 
 
 <figure data-type="video">{{% md %}}<iframe width="1010" height="758" src="https://www.youtube.com/embed/XD3tCTA8kfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
