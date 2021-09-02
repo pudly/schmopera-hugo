@@ -26,7 +26,7 @@ A lot of _Monster_ is familiar, particularly that thing about being able to pinp
 
 There's definitely a bit of nostalgia in the whiffs of choir life, music-nerd jokes like pronouncing "Price" like "pree-chay", that first great music teacher, even that first pretty horrible music teacher.
 
-Other things feel less familiar to me, because I'm a white woman: Simmonds' continuous feedback that his voice was too dark, from white voice teachers who worked to "brighten" and "thin" his sound. All the people around Leontyne Price (whose sound can be dark, for what it's worth) who were calmly convinced that she was only allowed to sing Aida and Bess in _Porgy and Bess_. The act of being a racial minority in a post-secondary music school.
+Other things feel less familiar to me, because I'm a white woman: Simmonds' continuous feedback that his voice was too dark, from white voice teachers who worked to "brighten" and "thin" his sound; all the people around Leontyne Price (whose sound can be dark, for what it's worth) who were calmly convinced that she was only allowed to sing Aida and Bess in _Porgy and Bess_; the act of being a racial minority in a post-secondary music school.
 
 Simmonds' poetry bubbles up with imagery and references, like Leontyne Price's turban and the civil rights movement. His writing is taut and vivid, a single line packing a punch the size of American racial inequality. Even through sparse pages, I got major messages: Leontyne Price is a prime example of how Black artists have to maintain an extraordinary level of skill, poise, and ability to shrug off discrimination — otherwise all is lost. 
 
