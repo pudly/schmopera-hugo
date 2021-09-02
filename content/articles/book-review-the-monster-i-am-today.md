@@ -22,7 +22,7 @@ Immediately after reading Kevin Simmonds' new book, _The Monster I Am Today: Leo
 
 _The Monster I Am Today_ (TriQuarterly Books, Northwestern University Press) is probably the most evocative story I've read about falling in love with singing. It's also a story about Leontyne Price, and all the things that came with being a Black opera singer in the 1950s and 60s; it's also a story about "acousmatic blackness", or having a vocal timbre that's associated with being Black. And it's about being a closeted gay man, and all the things that means when you're a voice major in school.
 
-A lot of _Monster_ is familiar, particularly that thing about being able to pinpoint the exact start of one's obsession with a singer. (There's a lot of history, for example, between me and [this clip](https://www.youtube.com/watch?v=A6MLEumcr_k).) 
+A lot of _Monster_ is familiar, particularly that thing about being able to pinpoint the exact start of one's obsession with a singer. (There's a lot of history, for example, between me and [this clip](https://www.youtube.com/watch?v=A6MLEumcr_k).) There's a bit of nostalgia in the whiffs of choir life, music-nerd jokes like pronouncing "Price" like "pree-chay", that first great music teacher, even that first _really bad_ music teacher.
 
 * 
 * 
