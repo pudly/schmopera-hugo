@@ -28,11 +28,8 @@ Other things feel less familiar to me, because I'm a white woman: Simmonds' cont
 
 * 
 * ——————————
-* poetry and prose mixed together into a specific history that still feels universal
-* any music student will feel kin with Kevin's early exposure to music and the awe of a voice like Price's; choir life; a great first teacher who inspires
-* Pri-chay joke, music nerds for life
-* other stuff that doesn't feel familiar to me: arguments over one's Black sound, exasperation from voice teachers over Kevin's voice, which apparently needed to be reined in; being a minority in a music school; being gay and closeted; being abused by a teacher
-* darkness in the voice is apparently an issue - but then there's someone like Leontyne, a dark voice, and also opera royalty. So, what's the issue?
+* 
+* 
 * the idea of "wrong rep" not just being limited to vocal colour (who was the Tosca who sassed about how Price should only sing Bess?)
 * excerpts from critics being patronizing and racist
 * FBI surveillance of Price - great gag*
