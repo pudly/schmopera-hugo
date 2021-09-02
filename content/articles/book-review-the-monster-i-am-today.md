@@ -22,9 +22,13 @@ Immediately after reading Kevin Simmonds' new book, _The Monster I Am Today: Leo
 
 _The Monster I Am Today_ (TriQuarterly Books, Northwestern University Press) is probably the most evocative story I've read about falling in love with singing. It's also a story about Leontyne Price, and all the things that came with being a Black opera singer in the 1950s and 60s; it's also a story about "acousmatic blackness", or having a vocal timbre that's associated with being Black. And it's about being a closeted gay man, and all the things that means when you're a voice major in school.
 
-A lot of _Monster_ is familiar, particularly that thing about being able to pinpoint the exact start of one's obsession with a singer. (There's a lot of history, for example, between me and [this clip](https://www.youtube.com/watch?v=A6MLEumcr_k).) There's a bit of nostalgia in the whiffs of choir life, music-nerd jokes like pronouncing "Price" like "pree-chay", that first great music teacher, even that first pretty horrible music teacher.
+A lot of _Monster_ is familiar, particularly that thing about being able to pinpoint the exact start of one's obsession with a singer. (There's a lot of history, for example, between me and [this clip](https://www.youtube.com/watch?v=A6MLEumcr_k).) Simmonds is thorough with his adoration of Leontyne Price, even devoting a poem to the three-minute ovation Price received after "O Patria Mia" at the Met in 1985. 
+
+There's definitely a bit of nostalgia in the whiffs of choir life, music-nerd jokes like pronouncing "Price" like "pree-chay", that first great music teacher, even that first pretty horrible music teacher.
 
 Other things feel less familiar to me, because I'm a white woman: Simmonds' continuous feedback that his voice was too dark, from white voice teachers who worked to "brighten" and "thin" his sound. All the people around Leontyne Price (whose sound can be dark, for what it's worth) who were calmly convinced that she was only allowed to sing Aida and Bess in _Porgy and Bess_. The act of being a racial minority in a post-secondary music school.
+
+Simmonds' poetry bubbles up with imagery and references, like Leontyne Price's turban and the civil rights movement. His writing is taut and vivid, a single line packing a punch the size of American racial inequality. Even through sparse pages, I got major messages: Leontyne Price is a prime example of how Black artists have to maintain an extraordinary level of skill, poise, and ability to shrug off discrimination — otherwise all is lost. 
 
 * 
 * ——————————
