@@ -18,7 +18,7 @@ title = "Book review: The Monster I Am Today"
 youtube_url = ""
 
 +++
-Immediately after reading Kevin Simmonds' new book, _The Monster I Am Today: Leontyne Price and a Life in Verse_, I went on a YouTube spree. Listening to Leontyne Price's Aida was all that made sense after reading this biography-in-verse, where Simmonds tells the story of how Price was the source of his love for singing. He blends poetry, prose, quotes from interviews, quotes from critics, and even fantasical FBI memos regarding Leontyne herself.
+Immediately after reading Kevin Simmonds' new book, _The Monster I Am Today: Leontyne Price and a Life in Verse_, I went on a YouTube spree. Listening to Leontyne Price's Aida was all that made sense after reading this biography-in-verse, where Simmonds tells the story of how Price was the source of his love for singing. He blends poetry, prose, quotes from interviews, quotes from critics, and even fantastical FBI memos regarding Leontyne's power for social change.
 
 _The Monster I Am Today_ (TriQuarterly Books, Northwestern University Press) is probably the most evocative story I've read about falling in love with singing. It's also a story about Leontyne Price and all the things that came with being a Black opera singer in the 1950s and 60s, and about "acousmatic blackness", or having a vocal timbre that's associated with being Black. (Simmonds includes a chilling quote from Marian Anderson: "There were things that happened to my voice that should not have happened.") And, it's about being a closeted gay  voice major in music school.
 
