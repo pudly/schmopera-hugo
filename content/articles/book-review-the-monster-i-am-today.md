@@ -28,7 +28,7 @@ There's definitely a bit of nostalgia in the whiffs of choir life, music-nerd jo
 
 Other things feel less familiar to me, because I'm a white woman: Simmonds' continuous feedback that his voice was too dark, from white voice teachers who worked to "brighten" and "thin" his sound; all the people around Leontyne Price (whose sound can be dark, for what it's worth) who were calmly convinced that she was only allowed to sing Aida and Bess; the act of being a racial minority in a post-secondary music school.
 
-Simmonds' poetry bubbles up with imagery and references, like Leontyne Price's turban and the civil rights movement. His writing is taut and vivid, a single line packing a punch the size of American racial inequality. Even through sparse pages, I got major messages: Leontyne Price is a prime example of how Black artists have to maintain an extraordinary level of skill, poise, and ability to shrug off discrimination — otherwise all is lost. 
+Simmonds' poetry bubbles up with imagery and references, like Leontyne Price's turban and the civil rights movement. His writing is taut and vivid, a single line packing a punch the size of American racial inequality. Even through sparse pages, I get major statements: music school has a caste problem; when it's hard for gay men to come out, the cost is enormous; and Leontyne Price is a prime example of how Black artists have to maintain an extraordinary level of skill, poise, and ability to shrug off discrimination — otherwise all is lost. 
 
 * 
 * ——————————
