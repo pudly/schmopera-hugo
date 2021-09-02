@@ -18,6 +18,7 @@ title = "Book review: The Monster I Am Today"
 youtube_url = ""
 
 +++
+Immediately after reading Kevin Simmonds' new book, _The Monster I Am Today: Leontyne Price and a Life in Verse_, I went on a YouTube spree. Listening to Leontyne Price's Aida was all that made sense after reading this biography-in-verse, where Simmonds tells the story of how Price was the source of his love for singing. He blends poetry, prose, quotes from interviews, quotes from critics, and even fantasical FBI memos regarding Leontyne herself.
 
 * 
 * 
