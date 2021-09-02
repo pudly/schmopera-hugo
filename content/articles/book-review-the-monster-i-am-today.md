@@ -46,11 +46,8 @@ Other things feel less familiar to me, because I'm a white woman: Simmonds' cont
 
 Simmonds' poetry bubbles up with imagery and references, like Leontyne Price's turban and the civil rights movement. His writing is taut and vivid, a single line packing a punch the size of American racial inequality. Even through sparse pages, I get major statements: music school has a caste problem; when it's hard for gay men to come out, the cost is enormous; Leontyne Price's sound, ironically, can be dark.
 
-In my YouTube spree, I listened to that "O Patria Mia" from the Met in 1985 — and I watched the three-minute ovation with Simmonds' timestamped notes of Price's every move. And having just read Simmonds' book, I felt a fresh rush of awe for what Leontyne does, making constantly beautiful, constantly interesting sound that holds you captive. It reminded me how particularly high the standard is for Black artists, and how it wasn't even enough for Price to make the kind of sound she did. She also had to rise above the hate, the discrimination, the colleagues trying to relegate her to only Aidas and Besses, the critics calling her 
+In my YouTube spree, I listened to that "O Patria Mia" from the Met in 1985 — and I watched the three-minute ovation with Simmonds' timestamped notes of Price's every move. And having just read Simmonds' book, I felt a fresh rush of awe for what Leontyne does, making constantly beautiful, constantly interesting sound that holds you captive. It reminded me how particularly high the standard is for Black artists, and how it wasn't even enough for Price to make the kind of sound she did. She also had to rise above the hate, the discrimination, the colleagues trying to relegate her to only Aidas and Besses, the critics whose "imagination still cannot accommodate itself to a black in the role of a white."
 
 <figure data-type="video">{{% md %}}<iframe width="1010" height="758" src="https://www.youtube.com/embed/XD3tCTA8kfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
 </figure>
-
-* ——————————
-* the idea of "wrong rep" not just being limited to vocal colour (who was the Tosca who sassed about how Price should only sing Bess?)
