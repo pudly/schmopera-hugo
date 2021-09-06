@@ -21,7 +21,7 @@ Immediately after reading [Kevin Simmonds' new book](https://nupress.northwester
 
 _The Monster I Am Today_ (TriQuarterly Books, Northwestern University Press) is probably the most evocative story I've read about falling in love with singing. It's really a combination of biography— Leontyne, of course — and autobiography — Kevin Simmonds, the writer, composer, and singer. Within those stories are other stories, like about "acousmatic blackness" — or having a vocal timbre that's associated with being Black — and about being a young Black singer who is gay and not yet out, attending an American music school with a dream to sing like Price.
 
-_Monster_ finds nostalgia in the whiffs of choir life, music-nerd jokes ("Leontyne "Pree-chay"), that first great music teacher, even that first pretty horrible music teacher. A lot of the book is familiar, particularly that thing about being able to pinpoint the exact start of one's obsession with a singer. (There's a lot of history, for example, between me and this clip.) Simmonds is thorough with his adoration of Leontyne Price, even devoting a poem to the three-minute ovation Price received after "O Patria Mia" at the Met in 1985.
+_Monster_ finds nostalgia in the whiffs of choir life, music-nerd jokes ("Leontyne "Pree-chay"), that first great music teacher, even that first pretty horrible music teacher. A lot of the book is familiar, particularly that thing about being able to pinpoint the exact start of one's obsession with a singer. Simmonds is thorough with his adoration of Leontyne Price, even devoting a poem to the three-minute ovation Price received after "O Patria Mia" at the Met in 1985.
 
 <figure data-type="image">{{% md %}}
 
