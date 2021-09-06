@@ -24,6 +24,8 @@ _The Monster I Am Today_ (TriQuarterly Books, Northwestern University Press) is 
 
 _Monster_ finds nostalgia in the whiffs of choir life, music-nerd jokes ("Leontyne "Pree-chay"), that first great music teacher, even that first pretty horrible music teacher.
 
+A lot of the book is familiar, particularly that thing about being able to pinpoint the exact start of one's obsession with a singer. (There's a lot of history, for example, between me and this clip.) Simmonds is thorough with his adoration of Leontyne Price, even devoting a poem to the three-minute ovation Price received after "O Patria Mia" at the Met in 1985.
+
 <figure data-type="image">{{% md %}}
 
 ![](https://res.cloudinary.com/schmopera/image/upload/v1630549334/media/2021/09/LeontynePrice_xinedq.jpg){{% /md %}}
@@ -31,8 +33,6 @@ _Monster_ finds nostalgia in the whiffs of choir life, music-nerd jokes ("Leonty
 <figcaption>Leontyne Price.</figcaption>
 
 </figure>
-
-A lot of the book is familiar, particularly that thing about being able to pinpoint the exact start of one's obsession with a singer. (There's a lot of history, for example, between me and [this clip](https://www.youtube.com/watch?v=A6MLEumcr_k).) Simmonds is thorough with his adoration of Leontyne Price, even devoting a poem to the three-minute ovation Price received after "O Patria Mia" at the Met in 1985. 
 
 Other things feel less familiar to me, because I'm a white woman: Simmonds' continuous feedback that his voice was too dark, from white voice teachers who worked to "brighten" and "thin" his sound. When I think back to all the voice lessons I witnessed, and all the push for a specific sound, I'm ashamed to say that I never made the connection that the desired sound was a white one. The Marian Anderson quote that Simmonds included hit me hard: "There were things that happened to my voice that should not have happened."
 
