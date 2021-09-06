@@ -12,7 +12,7 @@ primary_image_credit = ""
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "The Monster I Am Today is an excellent pick for the contemporary opera fan. It's grand and operatic, with its emotional peaks and depths. For me, it's a completely new — and frankly, overdue — perspective on this beloved art form. It's a fresh read, and I highly recommend."
 slug = "book-review-the-monster-i-am-today"
 title = "Book review: The Monster I Am Today"
 youtube_url = ""
@@ -51,3 +51,5 @@ In my YouTube spree, I listened to that "O Patria Mia" from the Met in 1985 — 
 </figure>
 
 _The Monster I Am Today_ is an excellent pick for the contemporary opera fan. It's grand and operatic, with its emotional peaks and depths. For me, it's a completely new — and frankly, overdue — perspective on this beloved art form. It's a fresh read, and I highly recommend.
+
+You can purchase _The Monster I Am Today_ via [Northwestern University Press](https://nupress.northwestern.edu/9780810143746/the-monster-i-am-today/), or at your local bookstore.
