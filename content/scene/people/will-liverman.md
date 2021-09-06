@@ -2,8 +2,8 @@
 date = "2016-07-26T15:20:00-04:00"
 discipline = "Baritone"
 lastmod = "2016-07-26T15:20:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469560760098/2016-07-26---Will-Liverman-HS-S.-Richards.jpg.jpg"
-primary_image_credit = "S. Richards"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1630956506/media/2021/09/WillLivermanJaclynSimpson_jodx9w.jpg"
+primary_image_credit = "Jacklyn Simpson"
 publishDate = "2016-07-26T15:20:00-04:00"
 related_companies = ["scene/companies/the-juilliard-school.md", "scene/companies/opera-philadelphia.md", "scene/companies/english-national-opera.md", "scene/companies/seattle-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/the-dallas-opera.md", "scene/companies/minnesota-opera.md", "scene/companies/wolf-trap-opera.md", "scene/companies/glimmerglass-festival.md"]
 slug = "will-liverman"
