@@ -12,8 +12,8 @@ related_articles = ["articles/4-secrets-for-better-high-notes.md", "articles/4-t
 related_companies = []
 related_people = []
 short_description = "The Monster I Am Today is an excellent pick for the contemporary opera fan. It's grand and operatic, with its emotional peaks and depths. For me, it's a completely new — and frankly, overdue — perspective on this beloved art form. It's a fresh read, and I highly recommend."
-slug = "book-review-the-monster-i-am-today"
-title = "Book review: The Monster I Am Today"
+slug = "an-opera-fans-must-read-the-monster-i-am-today"
+title = "An opera fan's must-read: The Monster I Am Today"
 youtube_url = ""
 
 +++
