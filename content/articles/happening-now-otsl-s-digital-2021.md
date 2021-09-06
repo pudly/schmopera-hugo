@@ -24,4 +24,6 @@ Marking OTSL's 46th season, [this year's Festival](https://opera-stl.org/streami
 
 I intend to take it all in, and I'm particularly excited to experience Will Liverman and Nicole Cabell in a production together. Plus, Patricia Racette's [Elle](https://opera-stl.org/voix) is an exciting thought.
 
-Off I go (and so should you!) to take in OTSL's digital season. Full details start [right here](https://opera-stl.org/streaming).
+“It was important for us to document this exciting, albeit different season.," said OTSL General Director Andrew Jorgensen. "Our outdoor festival was a fantastic success, but we could only accommodate 25% of our usual capacity. We cannot wait to share our season with the hundreds of supporters who were unable to attend."
+
+ Off I go (and so should you!) to take in OTSL's digital season. Full details start [right here](https://opera-stl.org/streaming).
