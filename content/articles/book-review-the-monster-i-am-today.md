@@ -49,3 +49,5 @@ In my YouTube spree, I listened to that "O Patria Mia" from the Met in 1985 — 
 <figure data-type="video">{{% md %}}<iframe width="1010" height="758" src="https://www.youtube.com/embed/XD3tCTA8kfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
 </figure>
+
+_The Monster I Am Today_ is an excellent pick for the contemporary opera fan. It's grand and operatic, with its emotional peaks and depths. For me, it's a completely new — and frankly, overdue — perspective on this beloved art form. It's a fresh read, and I highly recommend.
