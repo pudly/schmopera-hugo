@@ -34,7 +34,7 @@ A lot of the book is familiar, particularly that thing about being able to pinpo
 
 </figure>
 
-Other things feel less familiar to me, because I'm a white woman: Simmonds' continuous feedback that his voice was too dark, from white voice teachers who worked to "brighten" and "thin" his sound. When I think back to all the voice lessons I witnessed, and all the push for a specific sound, I'm ashamed to say that I never made the connection that the desired sound was a white one. The Marian Anderson quote that Simmonds included hit me hard: "There were things that happened to my voice that should not have happened."
+Other things feel less familiar to me, because I'm a white woman: the continuous feedback from white voice teachers that Simmonds' voice was too dark, from white voice teachers who worked to "brighten" and "thin" his sound. When I think back to all the voice lessons I witnessed, and all the push for a specific sound, I'm ashamed to say that I never made the connection that the desired sound was a white one. The Marian Anderson quote that Simmonds included hit me hard: "There were things that happened to my voice that should not have happened."
 
 <figure data-type="image">{{% md %}}
 
