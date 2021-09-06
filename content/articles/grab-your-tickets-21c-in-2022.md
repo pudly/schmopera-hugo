@@ -24,6 +24,6 @@ Tickets for the Royal Conservatory of Music's annual contemporary music festival
 
 The festival runs from [January 12-23, 2022](https://www.rcmusic.com/performance/21c-music-festival?_ga=2.20016318.706228005.1630957371-1404247250.1630957371), and it kicks off with the world premiere of _Gould's Wall_, the new opera by Brian Current and [Liza Balkan](https://www.schmopera.com/meet-the-director-liza-balkan/), produced by new-opera leaders, [Tapestry Opera](/scene/companies/tapestr-opera/). Inspired by Canadian pianist Glenn Gould, the "adventurous singers" of _Gould's Wall_ are set to sing suspended in the air. Shows run January 12-16, 2022. (And if you just can't wait until September 10th to snag your ticket, become a Tapestry opera Premium Member [here](https://tapestryopera.com/membership/).)
 
-In recital-land, the offerings are few but rich: [Gerald Finley and Julius Drake](https://www.rcmusic.com/events-and-performances/gerald-finley-and-julius-drake) offer up Schubert and Shakespeare on January 23, 2022 at 3pm.
+In recital-land, the offerings are few but rich: Eve Egoyan's world premiere of _Seven Studies for Augmented Piano_, on January 22, 2022 at 5pm [Gerald Finley and Julius Drake](https://www.rcmusic.com/events-and-performances/gerald-finley-and-julius-drake) offer up Schubert and Shakespeare on January 23, 2022 at 3pm.
 
 On January 23, 2022 at 3pm, catch Gerald Finley in recital with Julius Drake - perfect. The programme is full of Schubert, Mark Anthony Turnage (of _Anna Nicole_ fame), and a Shakespeare-inspired final set. 
