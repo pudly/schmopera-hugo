@@ -18,6 +18,6 @@ title = "Happening now: OTSL's digital 2021"
 youtube_url = ""
 
 +++
-Readers, I'm pretty excited about the fact that all throughout September, you can stream Opera Theatre of Saint Louis' "wildly successful and sold-out" 2021 Outdoor Festival!
+Readers, I'm pretty excited about the fact that all throughout September, you can stream Opera Theatre of Saint Louis' "wildly successful and sold-out" [2021 Outdoor Festival](https://opera-stl.org/streaming)!
 
-Marking OTSL's 46th season, this year's Festival offers up six productions to a safe-capacity crowd, including _Gianni Schicchi_, _La voix humaine_, _Highway 1, U.S.A._, and three world premieres.
+Marking OTSL's 46th season, [this year's Festival](https://opera-stl.org/streaming) offers up six productions to a safe-capacity crowd, including _Gianni Schicchi_, _La voix humaine_, _Highway 1, U.S.A._, and three world premieres.
