@@ -20,11 +20,11 @@ youtube_url = ""
 +++
 A few Canada-based items for you, readers.
 
-In the short-term: get signed up for the Canadian Opera Company's [digital membership](https://www.coc.ca/Free-Digital-Membership-Page)! It gets you access to the COC's season - which so far, has unveiled a solid [line-up of digital events](https://www.coc.ca/2122), all free to stream. These include _Gianni Schicchi_
+In the short-term: get signed up for the Canadian Opera Company's [digital membership](https://www.coc.ca/Free-Digital-Membership-Page)! It gets you access to the COC's season - which so far, has unveiled a solid [line-up of digital events](https://www.coc.ca/2122), all free to stream. 
 
 The first item happens **September 25, 7:30pm ET**: Canadian favourite Russell Braun and acclaimed American soprano Tamara Wilson pair up with the COC Orchestra, for a [concert](https://www.coc.ca/productions/22877) streamed right from the much-missed Four Seasons Centre for the Performing Arts. So far, we're promised operatic highlights by Wagner, Verdi, Puccini, and Bizet; and honestly, even if that changes, I'm still tuning in with bells on.
 
-And stick around for the rest of the COC's digital fall: they're offering [_Gianni Schicchi_](https://www.coc.ca/productions/22879) starting **October 30** starring Roland Wood, and [Mozart's _Requiem_](https://www.coc.ca/productions/22881) in collaboration with Against the Grain Theatre starting **November 26**.
+And stick around for the rest of the COC's digital fall: they're offering [_Gianni Schicchi_](https://www.coc.ca/productions/22879) starting **October 30** starring [Roland Wood](/scene/people/roland-wood/), and [Mozart's _Requiem_](https://www.coc.ca/productions/22881) in collaboration with Against the Grain Theatre starting **November 26**.
 
 And if you're done with digital, never fear: tickets are now on sale for the Toronto Symphony Orchestra's _TSO at the Drive-In_ series. On **September 24 and 25 at 7:30pm ET**, catch a [mostly-Mozart programme](https://www.tso.ca/concert/mozart-martines) (including his famed _Eine kleine Nachtmusik_, which is ironically a rarity on the concert stage, I've found) that features an overture by Viennese Mozart contemporary Marianna Martines. And on October 1 and 2, 7:30pm ET, join maestro Daniel Bartholomew-Poyser for [_Pride Together_](https://www.tso.ca/concert/pride-together), "a high-octane program that parallels the journey of the 2SLGBTQ+ community". We're promised "Vogue" and "Time Warp", so it's a done deal. The two concerts are set to go up at Toronto's [CityView Drive-In](https://cityviewdrivein.com/), and space is limited, so snag your spot quick.
 
@@ -32,7 +32,7 @@ And in the long-term: I know it's a bit early to think about January 2022, but i
 
 Tickets for the Royal Conservatory of Music's annual contemporary music festival, [21C](https://www.rcmusic.com/performance/21c-music-festival?_ga=2.20016318.706228005.1630957371-1404247250.1630957371), go on sale to the general public on **September 10, 2021**. And now that in-person concert tickets are more coveted than ever, it's important to note that this season's 21C line-up, running January-February 2022 is not to be missed.
 
-It's certainly cool that the [Kronos Quartet](https://www.schmopera.com/constantly-new-the-kronos-quartet/) is doing a residency for this year's festival; they're slated for three performances, including a concert with [Glenn Gould School students](https://www.rcmusic.com/events-and-performances/kronos-quartet-with-students-from-the-glenn-go-(2)), and a [live documentary](https://www.rcmusic.com/events-and-performances/kronos-quartet-on-film-a-thousand-thoughts-(2)) presented in partnership with the Hot Docs Ted Rogers Cinema. 
+It's certainly cool that the [Kronos Quartet](https://www.schmopera.com/constantly-new-the-kronos-quartet/) is doing a residency for this year's festival; they're slated for three performances, including a concert with [Glenn Gould School students](https://www.rcmusic.com/events-and-performances/kronos-quartet-with-students-from-the-glenn-go-(2)), and a [live documentary](https://www.rcmusic.com/events-and-performances/kronos-quartet-on-film-a-thousand-thoughts-(2)) presented in partnership with the Hot Docs Ted Rogers Cinema.
 
 It's definitely cool about the Canadian premiere of Marc Neikrug's [_A Song by Mahler_](https://www.rcmusic.com/events-and-performances/arc-ensemble-marc-neikrug-s-a-song-by-mahler-(2)), which centres around a celebrated soprano, her battle with Alzheimer's and the music of Gustav Mahler.
 
