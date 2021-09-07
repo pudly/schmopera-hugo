@@ -27,7 +27,7 @@ Marking OTSL's 46th season, [this year's Festival](https://opera-stl.org/streami
 
 </figure>
 
-I intend to take it all in, and I'm particularly excited to experience Will Liverman and Nicole Cabell in a production together. Plus, Patricia Racette's [Elle](https://opera-stl.org/voix) is an exciting thought.
+I intend to take it all in, and I'm particularly excited to experience Will Liverman and Nicole Cabell in a production together ([_Highway 1, U.S.A._](https://opera-stl.org/highway)). Plus, Patricia Racette's [Elle](https://opera-stl.org/voix) is an exciting thought.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1631031290/media/2021/09/OTSL_H1_21_OD_PressFinal-01-min_dy2niz.jpg){{% /md %}}
 
@@ -35,7 +35,7 @@ I intend to take it all in, and I'm particularly excited to experience Will Live
 
 </figure>
 
-“It was important for us to document this exciting, albeit different season.," said OTSL General Director Andrew Jorgensen. "Our outdoor festival was a fantastic success, but we could only accommodate 25% of our usual capacity. We cannot wait to share our season with the hundreds of supporters who were unable to attend."
+“It was important for us to document this exciting, albeit different season," said OTSL General Director Andrew Jorgensen in a press release. "Our outdoor festival was a fantastic success, but we could only accommodate 25% of our usual capacity. We cannot wait to share our season with the hundreds of supporters who were unable to attend."
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1631031348/media/2021/09/OTSL_LVH_21_PD_PressFinal-05_c1zgbn.jpg){{% /md %}}
 
