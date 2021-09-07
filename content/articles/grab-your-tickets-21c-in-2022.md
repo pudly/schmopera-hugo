@@ -1,7 +1,7 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Editorial"
-date = 2021-09-06T04:00:00Z
+date = 2021-09-07T04:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
@@ -13,8 +13,8 @@ related_articles = ["articles/meet-the-director-liza-balkan.md", "articles/the-b
 related_companies = ["scene/companies/toronto-symphony-orchestra.md", "scene/companies/kronos-quartet.md", "scene/companies/canadian-opera-company.md", "scene/companies/against-the-grain-theatre.md", "scene/companies/royal-conservatory-of-music.md", "scene/companies/tapestry-opera.md"]
 related_people = ["scene/people/tamara-wilson.md", "scene/people/roland-wood.md", "scene/people/liza-balkan.md", "scene/people/gerald-finley.md"]
 short_description = "short"
-slug = "grab-your-tickets-21c-in-2022"
-title = "Grab your tickets: 21C in 2022"
+slug = "season-highlights-out-of-the-coc-the-tso-and-21c-oh-my"
+title = "Season highlights out of the COC, the TSO, and 21C (oh my!)"
 youtube_url = ""
 
 +++
