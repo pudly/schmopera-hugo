@@ -38,9 +38,9 @@ I intend to take it all in, and I'm particularly excited to experience Will Live
 
 “It was important for us to document this exciting, albeit different season.," said OTSL General Director Andrew Jorgensen. "Our outdoor festival was a fantastic success, but we could only accommodate 25% of our usual capacity. We cannot wait to share our season with the hundreds of supporters who were unable to attend."
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1631031348/media/2021/09/OTSL_LVH_21_PD_PressFinal-05_c1zgbn.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Patricia Racette as Elle in Poulenc's La voix humaine, Opera Theatre of Saint Louis, 2021. Photo: Eric Woolsey.</figcaption>
 
 </figure>
 
