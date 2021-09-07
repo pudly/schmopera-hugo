@@ -18,6 +18,10 @@ title = "Grab your tickets: 21C in 2022"
 youtube_url = ""
 
 +++
+A few items for you, readers.
+
+In the short-term: get signed up for the Canadian Opera Company's digital membership! It gets you access to the COC's season - which so far, has unveiled a solid line-up of digital events, all free to stream.
+
 I know it's a bit early to think about January 2022, but in this case, we must.
 
 Tickets for the Royal Conservatory of Music's annual contemporary music festival, [21C](https://www.rcmusic.com/performance/21c-music-festival?_ga=2.20016318.706228005.1630957371-1404247250.1630957371), go on sale to the general public on September 10, 2021. And now that in-person concert tickets are more coveted than ever, it's important to note that this season's 21C line-up, running January-February 2022 is not to be missed.
