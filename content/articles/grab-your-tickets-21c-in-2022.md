@@ -7,11 +7,11 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1631027487/media/2021/09/COC_21C_TSO_b7hbdc.jpg"
+primary_image_credit = "Clockwise from top left: baritone Russell Braun, soprano Tamara Wilson, and TSO Principal Education Conductor & Community Ambassador Daniel Bartholomew-Poyser."
 related_articles = ["articles/meet-the-director-liza-balkan.md", "articles/the-bicycle-opera-project-at-21c.md", "articles/a-full-house-for-canadian-art-song-at-21c.md"]
-related_companies = ["scene/companies/royal-conservatory-of-music.md", "scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/liza-balkan.md", "scene/people/gerald-finley.md"]
+related_companies = ["scene/companies/toronto-symphony-orchestra.md", "scene/companies/kronos-quartet.md", "scene/companies/canadian-opera-company.md", "scene/companies/against-the-grain-theatre.md", "scene/companies/royal-conservatory-of-music.md", "scene/companies/tapestry-opera.md"]
+related_people = ["scene/people/tamara-wilson.md", "scene/people/roland-wood.md", "scene/people/liza-balkan.md", "scene/people/gerald-finley.md"]
 short_description = "short"
 slug = "grab-your-tickets-21c-in-2022"
 title = "Grab your tickets: 21C in 2022"
@@ -20,9 +20,11 @@ youtube_url = ""
 +++
 A few items for you, readers.
 
-In the short-term: get signed up for the Canadian Opera Company's [digital membership](https://www.coc.ca/Free-Digital-Membership-Page)! It gets you access to the COC's season - which so far, has unveiled a solid line-up of digital events, all free to stream.
+In the short-term: get signed up for the Canadian Opera Company's [digital membership](https://www.coc.ca/Free-Digital-Membership-Page)! It gets you access to the COC's season - which so far, has unveiled a solid [line-up of digital events](https://www.coc.ca/2122), all free to stream. These include _Gianni Schicchi_
 
-The first item happens **September 25, 7:30pm ET**: Canadian favourite Russell Braun and acclaimed American soprano Tamara Wilson pair up with the COC Orchestra, for a concert streamed right from the much-missed Four Seasons Centre for the Performing Arts. So far, we're promised operatic highlights by Wagner, Verdi, Puccini, and Bizet; and honestly, even if that changes, I'm still tuning in with bells on.
+The first item happens **September 25, 7:30pm ET**: Canadian favourite Russell Braun and acclaimed American soprano Tamara Wilson pair up with the COC Orchestra, for a [concert](https://www.coc.ca/productions/22877) streamed right from the much-missed Four Seasons Centre for the Performing Arts. So far, we're promised operatic highlights by Wagner, Verdi, Puccini, and Bizet; and honestly, even if that changes, I'm still tuning in with bells on.
+
+And stick around for the rest of the COC's digital fall: they're offering [_Gianni Schicchi_](https://www.coc.ca/productions/22879) starting **October 30** starring Roland Wood, and [Mozart's _Requiem_](https://www.coc.ca/productions/22881) in collaboration with Against the Grain Theatre starting **November 26**.
 
 And if you're done with digital, never fear: tickets are now on sale for the Toronto Symphony Orchestra's _TSO at the Drive-In_ series. On **September 24 and 25 at 7:30pm ET**, catch a [mostly-Mozart programme](https://www.tso.ca/concert/mozart-martines) (including his famed _Eine kleine Nachtmusik_, which is ironically a rarity on the concert stage, I've found) that features an overture by Viennese Mozart contemporary Marianna Martines. And on October 1 and 2, 7:30pm ET, join maestro Daniel Bartholomew-Poyser for [_Pride Together_](https://www.tso.ca/concert/pride-together), "a high-octane program that parallels the journey of the 2SLGBTQ+ community". We're promised "Vogue" and "Time Warp", so it's a done deal. The two concerts are set to go up at Toronto's [CityView Drive-In](https://cityviewdrivein.com/), and space is limited, so snag your spot quick.
 
