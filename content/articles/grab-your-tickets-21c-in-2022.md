@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1630957868/media/2021/09/21C_2022_square_nc4rb4.jpg"
+primary_image = ""
 primary_image_credit = ""
 related_articles = ["articles/meet-the-director-liza-balkan.md", "articles/the-bicycle-opera-project-at-21c.md", "articles/a-full-house-for-canadian-art-song-at-21c.md"]
 related_companies = ["scene/companies/royal-conservatory-of-music.md", "scene/companies/tapestry-opera.md"]
@@ -20,7 +20,7 @@ youtube_url = ""
 +++
 A few items for you, readers.
 
-In the short-term: get signed up for the Canadian Opera Company's digital membership! It gets you access to the COC's season - which so far, has unveiled a solid line-up of digital events, all free to stream.
+In the short-term: get signed up for the Canadian Opera Company's [digital membership](https://www.coc.ca/Free-Digital-Membership-Page)! It gets you access to the COC's season - which so far, has unveiled a solid line-up of digital events, all free to stream.
 
 I know it's a bit early to think about January 2022, but in this case, we must.
 
