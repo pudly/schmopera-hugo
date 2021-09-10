@@ -1,9 +1,8 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Editorial"
-date = 2021-09-07T04:00:00Z
+date = 2021-09-10T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Readers, what's on your must-see list for 2021-22? Let us know in the comments below, or get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)!"
 preamble = ""
@@ -11,7 +10,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1631027487/m
 primary_image_credit = "Clockwise from top left: baritone Russell Braun, soprano Tamara Wilson, and TSO Principal Education Conductor & Community Ambassador Daniel Bartholomew-Poyser."
 related_articles = ["articles/meet-the-director-liza-balkan.md", "articles/the-bicycle-opera-project-at-21c.md", "articles/a-full-house-for-canadian-art-song-at-21c.md"]
 related_companies = ["scene/companies/toronto-symphony-orchestra.md", "scene/companies/kronos-quartet.md", "scene/companies/canadian-opera-company.md", "scene/companies/against-the-grain-theatre.md", "scene/companies/royal-conservatory-of-music.md", "scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/kelly-markgraf.md", "scene/people/tamara-wilson.md", "scene/people/roland-wood.md", "scene/people/liza-balkan.md", "scene/people/gerald-finley.md"]
+related_people = ["scene/people/blythe-gaissert.md", "scene/people/kelly-markgraf.md", "scene/people/tamara-wilson.md", "scene/people/roland-wood.md", "scene/people/liza-balkan.md", "scene/people/gerald-finley.md"]
 short_description = "But if you ask me and my opera-bias, the big draw for this season's 21C is the world premiere of Gould's Wall, the new opera by Brian Current and Liza Balkan, produced by new-opera leaders, Tapestry Opera."
 slug = "season-highlights-out-of-the-coc-the-tso-and-21c-oh-my"
 title = "Season highlights out of the COC, the TSO, and 21C (oh my!)"
@@ -34,7 +33,7 @@ Tickets for the Royal Conservatory of Music's annual contemporary music festival
 
 It's certainly cool that the [Kronos Quartet](https://www.schmopera.com/constantly-new-the-kronos-quartet/) is doing a residency for this year's festival; they're slated for three performances, including a concert with [Glenn Gould School students](https://www.rcmusic.com/events-and-performances/kronos-quartet-with-students-from-the-glenn-go-(2)), and a [live documentary](https://www.rcmusic.com/events-and-performances/kronos-quartet-on-film-a-thousand-thoughts-(2)) presented in partnership with the Hot Docs Ted Rogers Cinema.
 
-It's definitely cool about watching mezzo Blythe Gaissert and baritone Kelly Markgraf in the Canadian premiere of Marc Neikrug's [_A Song by Mahler_](https://www.rcmusic.com/events-and-performances/arc-ensemble-marc-neikrug-s-a-song-by-mahler-(2)), the one-act opera opera about singer, famous for singing Mahler's _Liebst du um Schönheit_, and her battle with Alzheimer's.
+It's definitely cool about watching mezzo [Blythe Gaissert](/scene/people/blythe-gaissert/) and baritone [Kelly Markgraf](/scene/people/kelly-markgraf/) in the Canadian premiere of Marc Neikrug's [_A Song by Mahler_](https://www.rcmusic.com/events-and-performances/arc-ensemble-marc-neikrug-s-a-song-by-mahler-(2)), the one-act opera opera about singer, famous for singing Mahler's _Liebst du um Schönheit_, and her battle with Alzheimer's.
 
 And yes, there are rich recital offerings, out of [Gerald Finley and Julius Drake](https://www.rcmusic.com/events-and-performances/gerald-finley-and-julius-drake), [Morgan-Paige Melbourne](https://www.rcmusic.com/events-and-performances/morgan-paige-melbourne-(2)), [Eve Egoyan](https://www.rcmusic.com/events-and-performances/21c-cinq-a-sept-eve-egoyan-(3)), the [Danish String Quartet](https://www.rcmusic.com/events-and-performances/danish-string-quartet), and [Angèle Dubeau](https://www.rcmusic.com/events-and-performances/angele-dubeau-la-pieta-(3)).
 
