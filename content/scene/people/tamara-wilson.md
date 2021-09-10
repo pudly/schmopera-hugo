@@ -8,7 +8,7 @@ publishDate = "2015-04-12T21:42:00-04:00"
 related_companies = ["scene/companies/oper-frankfurt.md", "scene/companies/opernhaus-zurich.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/florida-grand-opera.md", "scene/companies/teatro-alla-scala.md", "scene/companies/houston-grand-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/los-angeles-opera.md", "scene/companies/washington-national-opera.md"]
 slug = "tamara-wilson"
 title = "Tamara Wilson"
-website = "http://www.tamarawilsonsoprano.com/index.html"
+website = "https://www.tamarawilsonsoprano.com/"
 [[social_media]]
 platform = "Facebook"
 template = "social-media"
