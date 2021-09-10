@@ -31,9 +31,15 @@ And in the long-term: I know it's a bit early to think about January 2022, but i
 
 Tickets for the Royal Conservatory of Music's annual contemporary music festival, [21C](https://www.rcmusic.com/performance/21c-music-festival?_ga=2.20016318.706228005.1630957371-1404247250.1630957371), go on sale to the general public on **September 10, 2021** - that's today! And now that in-person concert tickets are more coveted than ever, it's important to note that this season's 21C line-up, running January-February 2022, is not to be missed.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1631280236/media/2021/09/21C_collage_h5ytit.jpg){{% /md %}}
+
+<figcaption>Clockwise from top left: the Kronos Quartet; mezzo-soprano Blythe Gaissert; bass-baritone Kelly Markgraf.</figcaption>
+
+</figure>
+
 It's certainly cool that the [Kronos Quartet](https://www.schmopera.com/constantly-new-the-kronos-quartet/) is doing a residency for this year's festival; they're slated for three performances, including a concert with [Glenn Gould School students](https://www.rcmusic.com/events-and-performances/kronos-quartet-with-students-from-the-glenn-go-(2)), and a [live documentary](https://www.rcmusic.com/events-and-performances/kronos-quartet-on-film-a-thousand-thoughts-(2)) presented in partnership with the Hot Docs Ted Rogers Cinema.
 
-It's definitely cool about watching mezzo [Blythe Gaissert](/scene/people/blythe-gaissert/) and baritone [Kelly Markgraf](/scene/people/kelly-markgraf/) in the Canadian premiere of Marc Neikrug's [_A Song by Mahler_](https://www.rcmusic.com/events-and-performances/arc-ensemble-marc-neikrug-s-a-song-by-mahler-(2)), the one-act opera opera about singer, famous for singing Mahler's _Liebst du um Schönheit_, and her battle with Alzheimer's.
+It's definitely cool about watching mezzo [Blythe Gaissert](/scene/people/blythe-gaissert/) and bass-baritone [Kelly Markgraf](/scene/people/kelly-markgraf/) in the Canadian premiere of Marc Neikrug's [_A Song by Mahler_](https://www.rcmusic.com/events-and-performances/arc-ensemble-marc-neikrug-s-a-song-by-mahler-(2)), the one-act opera opera about singer, famous for singing Mahler's _Liebst du um Schönheit_, and her battle with Alzheimer's.
 
 And yes, there are rich recital offerings, out of [Gerald Finley and Julius Drake](https://www.rcmusic.com/events-and-performances/gerald-finley-and-julius-drake), [Morgan-Paige Melbourne](https://www.rcmusic.com/events-and-performances/morgan-paige-melbourne-(2)), [Eve Egoyan](https://www.rcmusic.com/events-and-performances/21c-cinq-a-sept-eve-egoyan-(3)), the [Danish String Quartet](https://www.rcmusic.com/events-and-performances/danish-string-quartet), and [Angèle Dubeau](https://www.rcmusic.com/events-and-performances/angele-dubeau-la-pieta-(3)).
 
