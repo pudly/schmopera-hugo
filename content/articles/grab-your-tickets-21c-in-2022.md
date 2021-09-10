@@ -20,7 +20,7 @@ youtube_url = ""
 +++
 A few Canada-based items for you, readers.
 
-In the short-term: get signed up for the Canadian Opera Company's [digital membership](https://www.coc.ca/Free-Digital-Membership-Page)! It gets you access to the COC's season - which so far, has unveiled a solid [line-up of digital events](https://www.coc.ca/2122), all free to stream. 
+In the short-term: get signed up for the Canadian Opera Company's [digital membership](https://www.coc.ca/Free-Digital-Membership-Page)! It gets you access to the COC's season - which so far, has unveiled a solid [line-up of digital events](https://www.coc.ca/2122), all free to stream.
 
 The first item happens **September 25, 7:30pm ET**: Canadian favourite Russell Braun and acclaimed American soprano Tamara Wilson pair up with the COC Orchestra, for a [concert](https://www.coc.ca/productions/22877) streamed right from the much-missed Four Seasons Centre for the Performing Arts. So far, we're promised operatic highlights by Wagner, Verdi, Puccini, and Bizet; and honestly, even if that changes, I'm still tuning in with bells on.
 
@@ -30,7 +30,7 @@ And if you're done with digital, never fear: tickets are now on sale for the Tor
 
 And in the long-term: I know it's a bit early to think about January 2022, but in this case, we must.
 
-Tickets for the Royal Conservatory of Music's annual contemporary music festival, [21C](https://www.rcmusic.com/performance/21c-music-festival?_ga=2.20016318.706228005.1630957371-1404247250.1630957371), go on sale to the general public on **September 10, 2021**. And now that in-person concert tickets are more coveted than ever, it's important to note that this season's 21C line-up, running January-February 2022, is not to be missed.
+Tickets for the Royal Conservatory of Music's annual contemporary music festival, [21C](https://www.rcmusic.com/performance/21c-music-festival?_ga=2.20016318.706228005.1630957371-1404247250.1630957371), go on sale to the general public on **September 10, 2021** - that's today! And now that in-person concert tickets are more coveted than ever, it's important to note that this season's 21C line-up, running January-February 2022, is not to be missed.
 
 It's certainly cool that the [Kronos Quartet](https://www.schmopera.com/constantly-new-the-kronos-quartet/) is doing a residency for this year's festival; they're slated for three performances, including a concert with [Glenn Gould School students](https://www.rcmusic.com/events-and-performances/kronos-quartet-with-students-from-the-glenn-go-(2)), and a [live documentary](https://www.rcmusic.com/events-and-performances/kronos-quartet-on-film-a-thousand-thoughts-(2)) presented in partnership with the Hot Docs Ted Rogers Cinema.
 
