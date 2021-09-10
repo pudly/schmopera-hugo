@@ -21,7 +21,7 @@ A few Canada-based items for you, readers.
 
 In the short-term: get signed up for the Canadian Opera Company's [digital membership](https://www.coc.ca/Free-Digital-Membership-Page)! It gets you access to the COC's season - which so far, has unveiled a solid [line-up of digital events](https://www.coc.ca/2122), all free to stream.
 
-The first item happens **September 25, 7:30pm ET**: Canadian favourite Russell Braun and acclaimed American soprano Tamara Wilson pair up with the COC Orchestra, for a [concert](https://www.coc.ca/productions/22877) streamed right from the much-missed Four Seasons Centre for the Performing Arts. So far, we're promised operatic highlights by Wagner, Verdi, Puccini, and Bizet; and honestly, even if that changes, I'm still tuning in with bells on.
+The first item happens **September 25, 7:30pm ET**: Canadian favourite [Russell Braun](/scene/people/russell-braun/) and acclaimed American soprano [Tamara Wilson](/scene/people/tamara-wilson/) pair up with the COC Orchestra, for a [concert](https://www.coc.ca/productions/22877) streamed right from the much-missed Four Seasons Centre for the Performing Arts. So far, we're promised operatic highlights by Wagner, Verdi, Puccini, and Bizet; and honestly, even if that changes, I'm still tuning in with bells on.
 
 And stick around for the rest of the COC's digital fall: they're offering [_Gianni Schicchi_](https://www.coc.ca/productions/22879) starting **October 30** starring [Roland Wood](/scene/people/roland-wood/), and [Mozart's _Requiem_](https://www.coc.ca/productions/22881) in collaboration with [Against the Grain Theatre](https://atgtheatre.com/upcoming/requiem/) starting **November 26**.
 
