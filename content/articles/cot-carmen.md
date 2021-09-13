@@ -13,8 +13,8 @@ related_articles = ["articles/talking-with-conductors-lidiya-yankovskaya.md", "a
 related_companies = ["scene/companies/chicago-opera-theater.md"]
 related_people = ["scene/people/lidiya-yankovskaya.md", "scene/people/jamie-barton.md", "scene/people/stephanie-blythe.md"]
 short_description = "\"Women who are independent, strong, and sexually liberated have a long history of receiving society's scorn because they refuse to break themselves in order to fit the approved mold. Carmen is many things, but a slutty, evil temptress? Nope.\""
-slug = "cot-carmen"
-title = "COT Carmen"
+slug = "radical-women-drag-don-jose-chicago-opera-theaters-carmen"
+title = "Radical women & drag Don José: Chicago Opera Theater's Carmen"
 youtube_url = ""
 
 +++
