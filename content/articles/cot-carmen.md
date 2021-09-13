@@ -5,13 +5,13 @@ date = 2021-09-13T04:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "[Chicago Opera Theater's _Carmen_](https://chicagooperatheater.org/season/carmen) runs September 16 and 18, 2021."
 preamble = "This week, Chicago Opera Theater drops its in-concert production of _Carmen_ - the one already earning proper buzz. Star American mezzo Jamie Barton takes on the title role; and instead of the usual tenorial tones of a leading man, Don José will be sung by even-bigger-star mezzo Stephanie Blythe, in her drag alter ego, [Blythely Oratonio](https://abcnews.go.com/Entertainment/opera-star-stephanie-blythe-starting-performing-drag/story?id=68799896).\n\nWe had to know more. So, we asked Barton herself, and conductor and COT Music Director Lidiya Yankovskaya, about a gender-bent _Carmen_ and the problem with a patriarchy:"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1631538919/media/2021/09/JamieBarton_BreeAnneClowdus_mgse7y.jpg"
 primary_image_credit = "Bree Anne Clowdus."
-related_articles = []
-related_companies = []
-related_people = []
+related_articles = ["articles/talking-with-conductors-lidiya-yankovskaya.md", "articles/talking-with-singers-stephanie-blythe.md", "articles/talking-with-singers-jamie-barton.md"]
+related_companies = ["scene/companies/chicago-opera-theater.md"]
+related_people = ["scene/people/lidiya-yankovskaya.md", "scene/people/jamie-barton.md", "scene/people/stephanie-blythe.md"]
 short_description = "\"Women who are independent, strong, and sexually liberated have a long history of receiving society's scorn because they refuse to break themselves in order to fit the approved mold. Carmen is many things, but a slutty, evil temptress? Nope.\""
 slug = "cot-carmen"
 title = "COT Carmen"
