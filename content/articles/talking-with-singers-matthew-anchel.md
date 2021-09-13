@@ -61,3 +61,27 @@ Singing craft
 "when you're doing it, well, it feels good. It's like addictive, it's like, you love the vibration in your body. You love like the release of it, it's like, it's, it's really this most the most amazing feeling if you learn how to sing with ease."
 
 "it's sort of this idea of like, I feel like I'm in this like, barrel of sound, but there's this like, tiny little bird on the barrel. So, which is the bright part of my voice? So I have my little bird, it's like my words,"
+
+"it's the idea is that we're sort of almost unnaturally carrying up our chest voice higher than it wants to go. So and that opera is training your voice to do something that's actually pretty unnatural"
+
+"We don't make those kind of loud noises naturally, we have to train our voices to do it."
+
+"it's the most honest version of your voice because it's like, it's it's getting rid of like any of the effects"
+
+"always try and bring like two ideas onstage with me so because I'm, because I teach them too much of an overthinker. So like, like for a while my thing was think dark and forward for whatever reason that was working for me because the darkness kept me from spreading. And the forward it wasn't that I was singing in my nose. It was that the foreword energy of like, of like, say the words go, don't don't be in your head don't place don't like try and create a sound."
+
+"always try and bring like two ideas onstage with me so because I'm, because I teach them too much of an overthinker. So like, like for a while my thing was think dark and forward for whatever reason that was working for me because the darkness kept me from spreading. And the forward it wasn't that I was singing in my nose. It was that the foreword energy of like, of like, say the words go, don't don't be in your head don't place don't like try and create a sound."
+
+Belting
+
+"I would say the most important thing is to realize that belting shouldn't be loud because it's, it's singing designed to be done with a microphone."
+
+MET
+
+"I love working at the Met so much. I know that like, you know, sometimes, like we hear about things, there have been a lot of things coming out in the news about about things happening there. But I have only ever been treated with professionalism and respect whenever I work there."
+
+"one of the most impressive people in rehearsals to me was Alina garantia. I just thought she was so focused."
+
+"she was nice to everybody, but also very, but also very introverted, in a way, but like, just so professional. And never any drama, just like would try anything you asked her to do."
+
+"And there was one day where we were all there. And it was the all of us. Everyone was there. The covers all small parts everybody. And bass, we're seeing the trio. And Renee really showed off in that rehearsal. And it was really unbelievable."
