@@ -42,9 +42,11 @@ youtube_url = ""
 
 ## Why is _Carmen_ such a staple of the canon?
 
+**Yankovskaya**: "Carmen's story and musical writing are exceptionally flexible, and the opera has a history of being adopted to different cultures, traditions, voice types, and performance styles. We see real people on the stage interacting in believable ways, leaving room for different cultural archetypes to be imposed onto the characters. Bizet also writes in a way that allows delivery of the text to shine, again giving room to singer-actors and directors to shape the piece for their particular space and time. The vocal writing also leaves room for performances by different voice types--the role of Carmen alone has been sung by every type of singer imaginable, from contraltos to Callas."
+
 **Barton**: "The combination of the story of a radically liberated woman and the infectious music that Bizet gave us created a piece that people just can't put down. Plus, that 'Habanera' is really catchy!"
 
-**Yankovskaya**: "Carmen's story and musical writing are exceptionally flexible, and the opera has a history of being adopted to different cultures, traditions, voice types, and performance styles. We see real people on the stage interacting in believable ways, leaving room for different cultural archetypes to be imposed onto the characters. Bizet also writes in a way that allows delivery of the text to shine, again giving room to singer-actors and directors to shape the piece for their particular space and time. The vocal writing also leaves room for performances by different voice types--the role of Carmen alone has been sung by every type of singer imaginable, from contraltos to Callas."
+**Yankovskaya**: "The orchestrations are lively and varied, giving us plenty of catchy tunes, but also sophistication, nuance, and complexity--something for every palate. The score itself was reshaped by Bizet and his contemporaries many times, leading to great choice and flexibility in performance practice, including different versions of musical numbers, the choice of dialogue versus recitatives, and easy opportunities to make cuts without losing the core of the storyline. Furthermore, the key themes--seeking freedom but being stopped by destiny, obsessive love and abuse, and a search for meaning through love--are timeless."
 
 ## What do you hope audiences will take away from Chicago Opera Theater's production?
 
