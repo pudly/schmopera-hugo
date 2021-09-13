@@ -69,8 +69,6 @@ Singing craft
 
 "For me, it's more about self-expression, and showing this extension of myself."
 
-"
-
 "when you're doing it, well, it feels good. It's like addictive, it's like, you love the vibration in your body. You love like the release of it, it's like, it's, it's really this most the most amazing feeling if you learn how to sing with ease."
 
 "it's sort of this idea of like, I feel like I'm in this like, barrel of sound, but there's this like, tiny little bird on the barrel. So, which is the bright part of my voice? So I have my little bird, it's like my words,"
