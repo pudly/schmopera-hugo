@@ -21,6 +21,10 @@ youtube_url = ""
 * modern opera singer, great melding of personality and craft - also, diversifying, which is oddly a new thing for an opera singer
 * makeup tutorials, body positivity, singing, gay best friend
 
+[https://www.tiktok.com/@matthewanchel?](https://www.tiktok.com/@matthewanchel? "https://www.tiktok.com/@matthewanchel?")
+
+[https://www.instagram.com/matthewanchel/](https://www.instagram.com/matthewanchel/ "https://www.instagram.com/matthewanchel/")
+
 Body positivity:
 
 * men have more freedom to speak out, versus women (misogyny)
@@ -85,3 +89,7 @@ MET
 "she was nice to everybody, but also very, but also very introverted, in a way, but like, just so professional. And never any drama, just like would try anything you asked her to do."
 
 "And there was one day where we were all there. And it was the all of us. Everyone was there. The covers all small parts everybody. And bass, we're seeing the trio. And Renee really showed off in that rehearsal. And it was really unbelievable."
+
+"They have this enormous proscenium stage."
+
+"It is both amazing and limiting to have that kind of space"
