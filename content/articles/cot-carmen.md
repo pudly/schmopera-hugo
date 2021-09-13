@@ -51,3 +51,5 @@ youtube_url = ""
 ## What do you hope audiences will take away from Chicago Opera Theater's production?
 
 **Barton**: "I'd love for this to be an inspiring return to live concerts for the people who haven't been in a theater since before the pandemic hit! I think we've got everything you need to put together an electric show, and COT has upped the ante with radical casting and storytelling. How perfectly fitting for such a radical character's story to tell, huh?"
+
+**Yankovskaya**: "More than anything, I hope this will be an uplifting return to communal music-making! I hope that everyone who comes is able to soak in the exhilarating experience of hearing these world-class voices in the relatively intimate space of the Harris Theater. (I know I can't wait!) What better way to return from the pandemic than hearing one of the best-known operas of all time, in all its glory, but rethought and made more relevant for a modern-day context?"
