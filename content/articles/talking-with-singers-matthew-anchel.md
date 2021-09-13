@@ -22,7 +22,7 @@ By anyone's account, American bass Matthew Anchel is having a stellar 2021-22. H
 
 Anchel's schedule isn't just a glimpse of good news after a long, dark pandemic - it's a classic checkpoint for any xxx-year-old bass. Basses are among the voice types that often have to wield a good amount of professional patience, waiting for the physiology of the voice to mature enough to sing the roles that best show them off.
 
-Classic, sure — but Anchel is no tried trope about the opera careers of days gone by. Just ask the 16,000 people who follow him on Instagram, or better yet, the 831,000 people who follow him on TikTok.
+Classic, sure — but Anchel is no tried trope about the opera careers of days gone by. Just ask the 16,000 people who follow him on [Instagram](https://www.instagram.com/matthewanchel/), or better yet, his 831,000 followers on [TikTok](https://www.tiktok.com/@matthewanchel?). His posts range from [miniature singing lessons](https://www.instagram.com/reel/CSZ-3WtHtg0/?utm_source=ig_web_copy_link) to [makeup tips](https://www.instagram.com/reel/CQrCBy2HS6V/?utm_source=ig_web_copy_link) to all the advice one could ever want from a ["TikTok Gay Best Friend"](https://www.instagram.com/reel/CRg-9FZHSMb/?utm_source=ig_web_copy_link). 
 
 * 
 * modern opera singer, great melding of personality and craft - also, diversifying, which is oddly a new thing for an opera singer
