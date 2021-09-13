@@ -93,3 +93,7 @@ MET
 "They have this enormous proscenium stage."
 
 "It is both amazing and limiting to have that kind of space"
+
+MET contrasts small works
+
+"In my opinion, that's not real opera. I think it's a new version of opera, which is very interesting and can really connect with audiences. But I think it's important that if we're going to keep doing this art form, there are institutions that do opera the way it was meant to be done. Because otherwise, what is it? It's weird musical theatre."
