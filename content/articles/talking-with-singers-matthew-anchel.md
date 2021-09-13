@@ -33,7 +33,7 @@ Body positivity:
 
 "I really try not to be insulting."
 
-\-Angry Fat People with Tracy Cox
+\-[Angry Fat People](https://www.youtube.com/channel/UCgPkiQXwtjVZ2GIVOTZkx0g) with Tracy Cox
 
 "I try to be like, as sympathetic as possible, so that someone who might be triggered by some of the things that I'm talking about can actually just listen and not just instantly turn off."
 
