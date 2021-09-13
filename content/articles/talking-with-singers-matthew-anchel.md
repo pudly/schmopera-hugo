@@ -45,3 +45,17 @@ Body image in opera industry
 "So what I think happens a lot is that you have people who are like maybe more stereotypically attractive in thin bodies, who maybe have medium voices, the not the best voices in the world. But they're given all this confidence, and they're promoted. And like they get opportunities, and they get to work with the best people. So they get really good at singing, even though maybe their voice isn't that amazing. So and then you have fat singers, who maybe have these unbelievable voices, and never get better at singing, because they're not given the opportunities that the thin person was given to improve, and then become, you know, this amazing artist."
 
 "So if you're not getting those opportunities, you're not going to improve. And then at some point, it's like, well, who cares if you have a world class voice that you can't get through the roles that you're supposed to sing because you never had the opportunities to learn? You know?"
+
+"I think there are some singers who are in larger bodies who actually don't have that voice and shit. But they're told that like, that's all they can do. So that's that's also a problem as well."
+
+Diversity in opera
+
+* opera is all about donors
+
+"Knowing that that's the main issue is that, I mean, it'll be interesting to see what happens with donors and boards of companies to see if they become more diverse, or a younger generation comes in and they have different wants and interests."
+
+"The one nice thing about mainstream entertainment is that it's all about the audience, and who was going to buy tickets and who can we get interested in? So even if it's like pandering to us, I mean, it works. Because it's the business. It's a bit like you're looking for the approval and the money of the masses, and not the few."
+
+Singing craft
+
+"when you're doing it, well, it feels good. It's like addictive, it's like, you love the vibration in your body. You love like the release of it, it's like, it's, it's really this most the most amazing feeling if you learn how to sing with ease."
