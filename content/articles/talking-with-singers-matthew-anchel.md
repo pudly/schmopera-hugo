@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1631552282/media/2021/09/MatthewAnchel_dbliqr.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
@@ -20,7 +20,7 @@ youtube_url = ""
 +++
 By anyone's account, American bass Matthew Anchel is having a stellar 2021-22. He's settling in for a New York-based season, a string of contracts with The Metropolitan Opera that include covering in [_Die Meistersinger von Nürnberg_](https://www.metopera.org/season/2021-22-season/die-meistersinger-von-nurnberg/) and [_Don Carlos_](https://www.metopera.org/season/2021-22-season/don-carlos/), and making his mainstage debut in Laurent Pelly's production of [_Cendrillon_](https://www.metopera.org/season/2021-22-season/cinderella/), sharing the stage with Isabel Leonard, Emily D'Angelo, and Stephanie Blythe.
 
-Anchel's schedule isn't just a glimpse of good news after a long, dark pandemic - it's a classic checkpoint for any xxx-year-old bass. Basses are among the voice types that often have to wield a good amount of professional patience, waiting for the physiology of the voice to mature enough to sing the roles that are available to the lowest of the low.
+Anchel's schedule isn't just a glimpse of good news after a long, dark pandemic - it's a classic checkpoint for any xxx-year-old bass. Basses are among the voice types that often have to wield a good amount of professional patience, waiting for the physiology of the voice to mature enough to sing the roles that best show them off.
 
 * 
 * modern opera singer, great melding of personality and craft - also, diversifying, which is oddly a new thing for an opera singer
