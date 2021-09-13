@@ -28,7 +28,11 @@ Classic, sure — but Anchel is no tired trope about the opera careers of days g
 
 Within the opera world, the tenet of _prima la voce_ comes up against the same problem that has, until extremely recently, plagued the more mainstream performing arts: only thin bodies can be used to tell stories. And as a devourer of his content myself, I can say that Anchel's take on body positivity is equal parts awesome-bear-hug and thought-provoking-lightbulb-moment.
 
-"So what I think happens a lot is that you have people who are like maybe more stereotypically attractive in thin bodies, who maybe have medium voices, the not the best voices in the world. But they're given all this confidence, and they're promoted. And like they get opportunities, and they get to work with the best people. So they get really good at singing, even though maybe their voice isn't that amazing. So and then you have fat singers, who maybe have these unbelievable voices, and never get better at singing, because they're not given the opportunities that the thin person was given to improve, and then become, you know, this amazing artist."
+"What I think happens a lot, is that you have people who are maybe more stereotypically attractive in thin bodies, who maybe have medium voices not — the best voices in the world." These singers are well promoted, Anchel says, and they get opportunities to work with opera's best. "So they get really good at singing, even though maybe their voice isn't that amazing." 
+
+"Then, you have fat singers, who maybe have these unbelievable voices, and never get better at singing," Anchel adds, "because they're not given the opportunities that the thin person was given to improve, and then become, you know, this amazing artist."
+
+It's a facet of another big, ongoing conversation in opera, about privilege. 
 
 * 
 * modern opera singer, great melding of personality and craft - also, diversifying, which is oddly a new thing for an opera singer
