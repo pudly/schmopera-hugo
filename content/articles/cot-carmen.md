@@ -20,9 +20,11 @@ youtube_url = ""
 +++
 ## What does gender have to do with the story of Carmen?
 
-**Jamie Barton**: **"**When it comes to the character of Carmen, I think it has a LOT to do with the story. I can only imagine how radical it must have been in 1875 to see an opera created about a woman who was so radically liberated that she would rather die than submit to the life of subservience. Even now, that's a radical stance in some ways...
+**Jamie Barton**: "When it comes to the character of Carmen, I think it has a LOT to do with the story. I can only imagine how radical it must have been in 1875 to see an opera created about a woman who was so radically liberated that she would rather die than submit to the life of subservience. Even now, that's a radical stance in some ways..."
 
-"I've heard many personal accounts of female friends who have chosen to stay in their dysfunctional (and sometimes abusive) relationships because the idea of being on their own was either untenable, or more frightening than just staying. The story is driven in large part by the fact that Carmen is 'free as the air,' and will not change that part of her personality for anyone. That radical point of view – in the face of toxic masculinity and the patriarchal notion of ownership over women – has held the fascination of audiences for almost 150 years."
+**Lidiya Yankovskaya**: "At the time that _Carmen_ was written, women had very few options and very few rights. The opera was unusual in that its title character is a working woman--one who lives separately from society's norms, valuing her freedom to live and love as she chooses above all else. Those are values that we now largely take for granted, but they were absolutely shocking at the time."
+
+**JB**: "I've heard many personal accounts of female friends who have chosen to stay in their dysfunctional (and sometimes abusive) relationships because the idea of being on their own was either untenable, or more frightening than just staying. The story is driven in large part by the fact that Carmen is 'free as the air,' and will not change that part of her personality for anyone. That radical point of view – in the face of toxic masculinity and the patriarchal notion of ownership over women – has held the fascination of audiences for almost 150 years."
 
 ## How does this story change by having Blythely Oratonio rather than a traditional Don José?
 
