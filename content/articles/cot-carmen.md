@@ -36,11 +36,15 @@ youtube_url = ""
 
 ## What is something about Carmen's character that you feel is often misunderstood?
 
+**Yankovskaya**: "Highly problematic interpretations of the piece seen throughout the last 150 years have often painted Carmen as an evil seductress, who has taken advantage of an innocent young man and lured him into her trap. In actuality, Carmen is written as an idealistic, independent young girl, who makes it clear from the start that Don José has full choice of whether to join her, and that her own feelings may change at any moment. Whenever he seems wary of the circumstances, she offers him a way out--it is Don José who continually fails to move on, and who eventually destroys her through his own narcissism and jealousy."
+
 **Barton**: "I've always hated the notion that Carmen is a slutty, evil temptress who ruins Don José's life, and I've seen that story told many times across many productions. And yet, it’s not surprising... women who are independent, strong, and sexually liberated have a long history of receiving society's scorn because they refuse to break themselves in order to fit the approved mold. Carmen is many things, but a slutty, evil temptress? Nope – that's a cop-out, and a story perpetuated for ages to keep women away from their own power."
 
 ## Why is _Carmen_ such a staple of the canon?
 
 **Barton**: "The combination of the story of a radically liberated woman and the infectious music that Bizet gave us created a piece that people just can't put down. Plus, that 'Habanera' is really catchy!"
+
+**Yankovskaya**: "Carmen's story and musical writing are exceptionally flexible, and the opera has a history of being adopted to different cultures, traditions, voice types, and performance styles. We see real people on the stage interacting in believable ways, leaving room for different cultural archetypes to be imposed onto the characters. Bizet also writes in a way that allows delivery of the text to shine, again giving room to singer-actors and directors to shape the piece for their particular space and time. The vocal writing also leaves room for performances by different voice types--the role of Carmen alone has been sung by every type of singer imaginable, from contraltos to Callas."
 
 ## What do you hope audiences will take away from Chicago Opera Theater's production?
 
