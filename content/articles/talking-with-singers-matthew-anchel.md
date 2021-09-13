@@ -64,7 +64,12 @@ Singing craft
 
 * both parents were opera singers
 * sang in Met kids chorus at age 6
-* 
+* loves cabaret
+* wanted money, fame, applause when he was younger
+
+"For me, it's more about self-expression, and showing this extension of myself."
+
+"
 
 "when you're doing it, well, it feels good. It's like addictive, it's like, you love the vibration in your body. You love like the release of it, it's like, it's, it's really this most the most amazing feeling if you learn how to sing with ease."
 
