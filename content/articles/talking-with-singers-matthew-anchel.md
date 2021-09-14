@@ -30,6 +30,8 @@ This season will be Anchel's Met debut, but not his first season spent at the co
 
 "I love working at the Met so much," Anchel said in an exclusive interview. He acknowledges the more unsavory news stories about the Met, "But I have only ever been treated with professionalism and respect whenever I work there."
 
+I asked him about being part of a Met rehearsal room, where opera's greats  
+
 \--
 
 MET
