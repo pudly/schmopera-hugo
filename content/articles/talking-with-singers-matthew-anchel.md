@@ -34,13 +34,9 @@ I asked him about being part of a Met rehearsal room with opera's greats, and wh
 
 He remembers the rehearsals for [Robert Carsen's _Der Rosenkavalier_](https://newyorkclassicalreview.com/2017/04/in-her-moving-met-quasi-farewell-fleming-strikes-sparks-with-garanca-in-rosenkavalier/), starring Garanča as Octavian and Renée Fleming as the Marschallin. "Garanča was nice to everybody, but also very, but also very introverted, in a way, but like, just so professional. And never any drama, just would try anything you asked her to do."
 
-"And there was one day where we were all there. And it was the all of us. Everyone was there. The covers all small parts everybody. And they seeing the trio. And Renee really showed off in that rehearsal. And it was really unbelievable."
-
 \--
 
 MET
-
-"I love working at the Met so much. I know that like, you know, sometimes, like we hear about things, there have been a lot of things coming out in the news about about things happening there. But I have only ever been treated with professionalism and respect whenever I work there."
 
 "They have this enormous proscenium stage."
 
