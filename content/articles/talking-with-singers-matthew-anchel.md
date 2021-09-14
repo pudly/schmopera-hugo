@@ -26,6 +26,10 @@ youtube_url = ""
 
 By anyone's account, American bass Matthew Anchel is having a stellar 2021-22. He's settling in for a New York-based season, a string of contracts with The Metropolitan Opera that include covering in [_Die Meistersinger von Nürnberg_](https://www.metopera.org/season/2021-22-season/die-meistersinger-von-nurnberg/) and [_Don Carlos_](https://www.metopera.org/season/2021-22-season/don-carlos/), and making his mainstage debut in Laurent Pelly's production of [_Cendrillon_](https://www.metopera.org/season/2021-22-season/cinderella/), sharing the stage with Isabel Leonard, Emily D'Angelo, and Stephanie Blythe.
 
+This season will be Anchel's Met debut, but not his first season spent at the company. Since 2013, he has covered bass roles in _Die Zauberflöte_, _The Exterminating Angel_, and _Der Rosenkavalier_. 
+
+"I love working at the Met so much," Anchel said in an exclusive interview. He acknowledges the more unsavory news stories about the Met, "But I have only ever been treated with professionalism and respect whenever I work there."
+
 \--
 
 MET
