@@ -30,19 +30,19 @@ This season will be Anchel's Met debut, but not his first season spent at the co
 
 "I love working at the Met so much," Anchel said in an exclusive interview. He acknowledges the more unsavory news stories about the Met, "But I have only ever been treated with professionalism and respect whenever I work there."
 
-I asked him about being part of a Met rehearsal room, where opera's greats  
+I asked him about being part of a Met rehearsal room with opera's greats, and which of them stood out. Elīna Garanča, Anchel said.
+
+"I just thought she was so focused," he remembers in rehearsals for Robert Carsen's production of _Der Rosenkavalier_, starring Garanća as Octavian and Renée Fleming as the Marschallin.
+
+"she was nice to everybody, but also very, but also very introverted, in a way, but like, just so professional. And never any drama, just like would try anything you asked her to do."
+
+"And there was one day where we were all there. And it was the all of us. Everyone was there. The covers all small parts everybody. And bass, we're seeing the trio. And Renee really showed off in that rehearsal. And it was really unbelievable."
 
 \--
 
 MET
 
 "I love working at the Met so much. I know that like, you know, sometimes, like we hear about things, there have been a lot of things coming out in the news about about things happening there. But I have only ever been treated with professionalism and respect whenever I work there."
-
-"one of the most impressive people in rehearsals to me was Alina garantia. I just thought she was so focused."
-
-"she was nice to everybody, but also very, but also very introverted, in a way, but like, just so professional. And never any drama, just like would try anything you asked her to do."
-
-"And there was one day where we were all there. And it was the all of us. Everyone was there. The covers all small parts everybody. And bass, we're seeing the trio. And Renee really showed off in that rehearsal. And it was really unbelievable."
 
 "They have this enormous proscenium stage."
 
