@@ -19,7 +19,8 @@ youtube_url = ""
 
 +++
 * MET
-* social media
+* singing craft
+* social media/being a modern opera singer
 * 
 
 By anyone's account, American bass Matthew Anchel is having a stellar 2021-22. He's settling in for a New York-based season, a string of contracts with The Metropolitan Opera that include covering in [_Die Meistersinger von Nürnberg_](https://www.metopera.org/season/2021-22-season/die-meistersinger-von-nurnberg/) and [_Don Carlos_](https://www.metopera.org/season/2021-22-season/don-carlos/), and making his mainstage debut in Laurent Pelly's production of [_Cendrillon_](https://www.metopera.org/season/2021-22-season/cinderella/), sharing the stage with Isabel Leonard, Emily D'Angelo, and Stephanie Blythe.
@@ -53,6 +54,43 @@ opera is all about donors
 "Knowing that that's the main issue is that, I mean, it'll be interesting to see what happens with donors and boards of companies to see if they become more diverse, or a younger generation comes in and they have different wants and interests."
 
 "The one nice thing about mainstream entertainment is that it's all about the audience, and who was going to buy tickets and who can we get interested in? So even if it's like pandering to us, I mean, it works. Because it's the business. It's a bit like you're looking for the approval and the money of the masses, and not the few."
+
+\--
+
+Singing craft
+
+* both parents were opera singers
+* sang in Met kids chorus at age 6
+* loves cabaret
+* wanted money, fame, applause when he was younger
+
+"For me, it's more about self-expression, and showing this extension of myself."
+
+"when you're doing it, well, it feels good. It's like addictive, it's like, you love the vibration in your body. You love like the release of it, it's like, it's, it's really this most the most amazing feeling if you learn how to sing with ease."
+
+"it's sort of this idea of like, I feel like I'm in this like, barrel of sound, but there's this like, tiny little bird on the barrel. So, which is the bright part of my voice? So I have my little bird, it's like my words,"
+
+"it's the idea is that we're sort of almost unnaturally carrying up our chest voice higher than it wants to go. So and that opera is training your voice to do something that's actually pretty unnatural"
+
+"We don't make those kind of loud noises naturally, we have to train our voices to do it."
+
+"it's the most honest version of your voice because it's like, it's it's getting rid of like any of the effects"
+
+"always try and bring like two ideas onstage with me so because I'm, because I teach them too much of an overthinker. So like, like for a while my thing was think dark and forward for whatever reason that was working for me because the darkness kept me from spreading. And the forward it wasn't that I was singing in my nose. It was that the foreword energy of like, of like, say the words go, don't don't be in your head don't place don't like try and create a sound."
+
+"always try and bring like two ideas onstage with me so because I'm, because I teach them too much of an overthinker. So like, like for a while my thing was think dark and forward for whatever reason that was working for me because the darkness kept me from spreading. And the forward it wasn't that I was singing in my nose. It was that the foreword energy of like, of like, say the words go, don't don't be in your head don't place don't like try and create a sound."
+
+Belting
+
+"I would say the most important thing is to realize that belting shouldn't be loud because it's, it's singing designed to be done with a microphone."
+
+"Dark and bright, released and held, open and closed, and deep and high. I think when a singer finds the balance of all those things, it's really exciting."
+
+"I think for opera singing in particular, it's having all of the different extremes in your voice, and then feeling it in your body so intensely."
+
+names Maria Guleghina
+
+"When someone does have a big voice, you feel it literally vibrating."
 
 \--
 
@@ -102,41 +140,6 @@ Body image in opera industry
 "So if you're not getting those opportunities, you're not going to improve. And then at some point, it's like, well, who cares if you have a world class voice that you can't get through the roles that you're supposed to sing because you never had the opportunities to learn? You know?"
 
 "I think there are some singers who are in larger bodies who actually don't have that voice and shit. But they're told that like, that's all they can do. So that's that's also a problem as well."
-
-Singing craft
-
-* both parents were opera singers
-* sang in Met kids chorus at age 6
-* loves cabaret
-* wanted money, fame, applause when he was younger
-
-"For me, it's more about self-expression, and showing this extension of myself."
-
-"when you're doing it, well, it feels good. It's like addictive, it's like, you love the vibration in your body. You love like the release of it, it's like, it's, it's really this most the most amazing feeling if you learn how to sing with ease."
-
-"it's sort of this idea of like, I feel like I'm in this like, barrel of sound, but there's this like, tiny little bird on the barrel. So, which is the bright part of my voice? So I have my little bird, it's like my words,"
-
-"it's the idea is that we're sort of almost unnaturally carrying up our chest voice higher than it wants to go. So and that opera is training your voice to do something that's actually pretty unnatural"
-
-"We don't make those kind of loud noises naturally, we have to train our voices to do it."
-
-"it's the most honest version of your voice because it's like, it's it's getting rid of like any of the effects"
-
-"always try and bring like two ideas onstage with me so because I'm, because I teach them too much of an overthinker. So like, like for a while my thing was think dark and forward for whatever reason that was working for me because the darkness kept me from spreading. And the forward it wasn't that I was singing in my nose. It was that the foreword energy of like, of like, say the words go, don't don't be in your head don't place don't like try and create a sound."
-
-"always try and bring like two ideas onstage with me so because I'm, because I teach them too much of an overthinker. So like, like for a while my thing was think dark and forward for whatever reason that was working for me because the darkness kept me from spreading. And the forward it wasn't that I was singing in my nose. It was that the foreword energy of like, of like, say the words go, don't don't be in your head don't place don't like try and create a sound."
-
-Belting
-
-"I would say the most important thing is to realize that belting shouldn't be loud because it's, it's singing designed to be done with a microphone."
-
-"Dark and bright, released and held, open and closed, and deep and high. I think when a singer finds the balance of all those things, it's really exciting."
-
-"I think for opera singing in particular, it's having all of the different extremes in your voice, and then feeling it in your body so intensely."
-
-names Maria Guleghina
-
-"When someone does have a big voice, you feel it literally vibrating."
 
 Bucket list roles
 
