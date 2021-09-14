@@ -30,11 +30,9 @@ This season will be Anchel's Met debut, but not his first season spent at the co
 
 "I love working at the Met so much," Anchel said in an exclusive interview. He acknowledges the more unsavory news stories about the Met, "But I have only ever been treated with professionalism and respect whenever I work there."
 
-I asked him about being part of a Met rehearsal room with opera's greats, and which of them stood out. Elīna Garanča, Anchel said.
+I asked him about being part of a Met rehearsal room with opera's greats, and which of them stood out. "Elīna Garanča," Anchel said. "I just thought she was so focused."
 
-"I just thought she was so focused," he remembers in rehearsals for Robert Carsen's production of _Der Rosenkavalier_, starring Garanća as Octavian and Renée Fleming as the Marschallin.
-
-"she was nice to everybody, but also very, but also very introverted, in a way, but like, just so professional. And never any drama, just like would try anything you asked her to do."
+He remembers the rehearsals for [Robert Carsen's _Der Rosenkavalier_](https://newyorkclassicalreview.com/2017/04/in-her-moving-met-quasi-farewell-fleming-strikes-sparks-with-garanca-in-rosenkavalier/), starring Garanča as Octavian and Renée Fleming as the Marschallin. "Garanča was nice to everybody, but also very, but also very introverted, in a way, but like, just so professional. And never any drama, just like would try anything you asked her to do."
 
 "And there was one day where we were all there. And it was the all of us. Everyone was there. The covers all small parts everybody. And bass, we're seeing the trio. And Renee really showed off in that rehearsal. And it was really unbelievable."
 
