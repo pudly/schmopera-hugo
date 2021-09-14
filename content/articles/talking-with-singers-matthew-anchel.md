@@ -30,7 +30,7 @@ By anyone's account, American bass Matthew Anchel is having a stellar 2021-22. H
 
 This season will be Anchel's Met debut, but not his first season spent at the company. Since 2013, he has covered bass roles in _Die Zauberflöte_, _The Exterminating Angel_, and _Der Rosenkavalier_. He even sang in the the Metropolitan Opera Children's Chorus at age 6.
 
-It struck me in our most recent conversation, that Anchel has one of the healthiest relationships with his singing that I've observed in a professional singer. For all his operatic pedigree, and his time spent in 
+It struck me in our most recent conversation, that Anchel has one of the healthiest relationships with his singing that I've observed in a professional singer. ****
 
 And for all his skill and operatic pedigree, 
 
