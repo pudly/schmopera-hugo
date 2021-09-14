@@ -28,13 +28,37 @@ By anyone's account, American bass Matthew Anchel is having a stellar 2021-22. H
 
 "I love working at the Met so much," Anchel says. He acknowledges the more unsavory news stories about the Met, "But I have only ever been treated with professionalism and respect whenever I work there."
 
-This season will be Anchel's Met debut, but not his first season spent at the company. Since 2013, he has covered bass roles in _Die Zauberflöte_, _The Exterminating Angel_, and _Der Rosenkavalier_. He even sang in the the Metropolitan Opera Children's Chorus at age 6.
+This season will be Anchel's Met debut, but not his first season spent at the company. Since 2013, he has covered bass roles in _Die Zauberflöte_, _The Exterminating Angel_, and _Der Rosenkavalier_. He even sang in the the Metropolitan Opera Children's Chorus at age 6. For Anchel, the Met is synonymous with opera's history, and should always be a place to put up works from the traditional canon.
 
-It struck me in our most recent conversation, that Anchel has one of the healthiest relationships with his singing that I've observed in a professional singer. ****
+"They have this enormous proscenium stage," Anchel says, contrasting the Met's output with the wave of small and scrappy opera companies, producing black-box-inspired chamber opera. "I think it's a new version of opera, which is very interesting and can really connect with audiences. But I think it's important that if we're going to keep doing this art form, there are institutions that do opera the way it was meant to be done. Because otherwise, what is it? It's weird musical theatre."
 
-And for all his skill and operatic pedigree, 
+It struck me in our most recent conversation, that Anchel has one of the healthiest relationships with his singing that I've observed in a professional singer. His devotion to the art form is clear, even hereditary, if we point out that he was born and raised in Manhattan's Upper West Side, to two opera singer parents, Julia Heyer and David Anchel.
 
-Anchel has o 
+And it's not just nature, but lots of nurture. Anchel's path is almost classic: a performing arts high school, the Manhattan School of Music, LA Opera's Domingo-Thornton Young Artist Program, the Metropolitan Opera National Council Auditions, and private lessons with Trish McCaffrey. As a result, he's arrived, prepared, at that crucial moment of a 30-something bass's career, where the instrument catches up to the demands of opera's most coveted low-voice roles.
+
+And for all his skill and operatic pedigree, Anchel has that thing that evades so many professional singers: balance. If you surveyed a slice of his social media following — either  the 16,000 people who follow him on [Instagram](https://www.instagram.com/matthewanchel/), or better yet, his 831,000 followers on [TikTok](https://www.tiktok.com/@matthewanchel?) — the majority would likely vouch for Anchel's sound advice as their ["TikTok Gay Best Friend"](https://www.instagram.com/reel/CRg-9FZHSMb/?utm_source=ig_web_copy_link). Relationship woes, [makeup queries](https://www.instagram.com/reel/CQrCBy2HS6V/?utm_source=ig_web_copy_link), and certainly some [miniature singing lessons](https://www.instagram.com/reel/CSZ-3WtHtg0/?utm_source=ig_web_copy_link) — Anchel has the time and expertise for all of it.
+
+ But the source of it all — be it Anchel's impressive social media presence, or his first-rate singing — lies in body positivity.
+
+"I really try not to be insulting," Anchel laughs, pointing out the irony of his YouTube series, [_Angry Fat People_](https://www.youtube.com/watch?v=YkK1yfGGja4), which he started in 2018 with his friend and fellow singer, Tracy Cox. "I try to be as sympathetic as possible, so that someone who might be triggered by some of the things that I'm talking about can actually just listen and not just instantly turn off."
+
+Within the opera world, the tenet of _prima la voce_ comes up against the same problem that has, until extremely recently, plagued the more mainstream performing arts: only thin bodies can be used to tell stories. And as a devourer of his content myself, I can say that Anchel's take on body positivity is equal parts awesome-bear-hug and thought-provoking-lightbulb-moment.
+
+"What I think happens a lot, is that you have people who are maybe more stereotypically attractive in thin bodies, who maybe have medium voices —not the best voices in the world." These singers are well promoted, Anchel says, and they get opportunities to work with opera's best. "So they get really good at singing, even though maybe their voice isn't that amazing."
+
+"Then, you have fat singers, who maybe have these unbelievable voices, and never get better at singing, because they're not given the opportunities that the thin person was given to improve, and then become, you know, this amazing artist."
+
+It all reminds me of that other big conversation that surrounds the classical performing arts, about privilege. It takes a certain kind of exposure (read: good schools with music program, parents with an interest in classical music) and money (read: private lessons with the best teachers) to appreciate opera, let alone pursue it professionally. And it's sad to consider that even among the thousands of incredible singers out there, we're only able to hear from those who have cleared those early hurdles.
+
+"I think that opera is like, probably 10 to 20 years behind everything," Anchel says. "It's so funny that opera still stuck in like the early 2000s, where was like I think was sort of the height of sort of like, you know, blonde, good looking thin people. And then the culture has changed a little, and opera is just always a little bit behind. So, hopefully it catches up and then appreciates the diverse community it has and features them in shows."
+
+He may be amused at opera's cultural lag, but for Anchel, singing is one of life's great pleasures. "When you're doing it, well, it feels good," he says. "It's addictive, you love the vibration in your body. You love like the release of it, it's like, it's, it's really this most the most amazing feeling if you learn how to sing with ease."
+
+A self-proclaimed overthinker, Anchel's onstage psychology is well-honed and drama-free. 
+
+I'll admit, I was a bit surprised when Anchel told me that he'd never been asked by a company to temper his online presence. "They asked me to tone down my myself," Anchel admits, though he doesn't seem fussed by it. "They've asked me to be less gay or to not wear makeup or advise me to just sort of be more masculine in my life." 
+
+Anchel strikes me as a person who understands the Game of Donors, and looks forward to when 
 
 * met's role in opera, that it has to do big stuff in that space
 * he loves act of singing, opera parents
@@ -43,7 +67,7 @@ Anchel has o
 
 ### new section
 
-\**But for all his pedigree and skill, Anchel is one of the more diverse, self-aware opera singers I've ever met**
+\*_But for all his pedigree and skill, Anchel is one of the more diverse, self-aware opera singers I've ever met_*
 
 \--
 
@@ -106,17 +130,7 @@ names Maria Guleghina
 
 Anchel's schedule isn't just a glimpse of good news after a long, dark pandemic - it's a classic checkpoint for any xxx-year-old bass. Basses are among the voice types that often have to wield a good amount of professional patience, waiting for the physiology of the voice to mature enough to sing the roles that best show them off.
 
-Classic, sure — but Anchel is no tired trope about the opera careers of days gone by. Just ask the 16,000 people who follow him on [Instagram](https://www.instagram.com/matthewanchel/), or better yet, his 831,000 followers on [TikTok](https://www.tiktok.com/@matthewanchel?). His posts range from [miniature singing lessons](https://www.instagram.com/reel/CSZ-3WtHtg0/?utm_source=ig_web_copy_link) to [makeup tips](https://www.instagram.com/reel/CQrCBy2HS6V/?utm_source=ig_web_copy_link) to all the advice one could ever want from a ["TikTok Gay Best Friend"](https://www.instagram.com/reel/CRg-9FZHSMb/?utm_source=ig_web_copy_link). But the source of it all — be it Anchel's impressive social media presence, or his first-rate singing — lies in body positivity.
-
-"I really try not to be insulting," Anchel laughs, pointing out the irony of his YouTube series, [_Angry Fat People_](https://www.youtube.com/watch?v=YkK1yfGGja4), which he started in 2018 with his friend and fellow singer, Tracy Cox. "I try to be as sympathetic as possible, so that someone who might be triggered by some of the things that I'm talking about can actually just listen and not just instantly turn off."
-
-Within the opera world, the tenet of _prima la voce_ comes up against the same problem that has, until extremely recently, plagued the more mainstream performing arts: only thin bodies can be used to tell stories. And as a devourer of his content myself, I can say that Anchel's take on body positivity is equal parts awesome-bear-hug and thought-provoking-lightbulb-moment.
-
-"What I think happens a lot, is that you have people who are maybe more stereotypically attractive in thin bodies, who maybe have medium voices —not the best voices in the world." These singers are well promoted, Anchel says, and they get opportunities to work with opera's best. "So they get really good at singing, even though maybe their voice isn't that amazing."
-
-"Then, you have fat singers, who maybe have these unbelievable voices, and never get better at singing, because they're not given the opportunities that the thin person was given to improve, and then become, you know, this amazing artist."
-
-It's a facet of another big, ongoing conversation in opera, about privilege.
+Classic, sure — but Anchel is no tired trope about the opera careers of days gone by. Just ask the 16,000 people who follow him on [Instagram](https://www.instagram.com/matthewanchel/), or better yet, his 831,000 followers on [TikTok](https://www.tiktok.com/@matthewanchel?). His posts range from [miniature singing lessons](https://www.instagram.com/reel/CSZ-3WtHtg0/?utm_source=ig_web_copy_link) to [makeup tips](https://www.instagram.com/reel/CQrCBy2HS6V/?utm_source=ig_web_copy_link) to all the advice one could ever want from a ["TikTok Gay Best Friend"](https://www.instagram.com/reel/CRg-9FZHSMb/?utm_source=ig_web_copy_link).
 
 \--
 
