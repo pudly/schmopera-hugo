@@ -43,7 +43,7 @@ But the source of it all — be it Anchel's impressive social media output, or h
 
 "I really try not to be insulting," Anchel laughs, pointing out the irony of his YouTube series, [_Angry Fat People_](https://www.youtube.com/watch?v=YkK1yfGGja4), which he started in 2018 with his friend and fellow singer, Tracy Cox. "I try to be as sympathetic as possible, so that someone who might be triggered by some of the things that I'm talking about can actually just listen and not just instantly turn off."
 
-Within the opera world, the tenet of _prima la voce_ comes up against the same problem that has, until extremely recently, plagued the more mainstream performing arts: only thin bodies can be used to tell stories. And as a devourer of his content myself, I can say that Anchel's take on body positivity is equal parts awesome-bear-hug and thought-provoking-lightbulb-moment.
+Within the opera world, the idea of _prima la voce_ comes up against the same problem that has, until extremely recently, plagued the more mainstream performing arts: only thin bodies can be used to tell stories. And as a devourer of his content myself, I can say that Anchel's take on body positivity is equal parts awesome-bear-hug and thought-provoking-lightbulb-moment.
 
 "What I think happens a lot, is that you have people who are maybe more stereotypically attractive in thin bodies, who maybe have medium voices — not the best voices in the world." These singers are well promoted, Anchel says, and they get opportunities to work with opera's best. "So they get really good at singing, even though maybe their voice isn't that amazing."
 
