@@ -26,13 +26,17 @@ youtube_url = ""
 
 By anyone's account, American bass Matthew Anchel is having a stellar 2021-22. He's settling in for a New York-based season, a string of contracts with The Metropolitan Opera that include covering in [_Die Meistersinger von Nürnberg_](https://www.metopera.org/season/2021-22-season/die-meistersinger-von-nurnberg/) and [_Don Carlos_](https://www.metopera.org/season/2021-22-season/don-carlos/), and making his mainstage debut in Laurent Pelly's production of [_Cendrillon_](https://www.metopera.org/season/2021-22-season/cinderella/), sharing the stage with Isabel Leonard, Emily D'Angelo, and Stephanie Blythe.
 
-This season will be Anchel's Met debut, but not his first season spent at the company. Since 2013, he has covered bass roles in _Die Zauberflöte_, _The Exterminating Angel_, and _Der Rosenkavalier_. 
+This season will be Anchel's Met debut, but not his first season spent at the company. Since 2013, he has covered bass roles in _Die Zauberflöte_, _The Exterminating Angel_, and _Der Rosenkavalier_. He even sang in the the Metropolitan Opera Children's Chorus at age 6.
 
 "I love working at the Met so much," Anchel said in an exclusive interview. He acknowledges the more unsavory news stories about the Met, "But I have only ever been treated with professionalism and respect whenever I work there."
 
 I asked him about being part of a Met rehearsal room with opera's greats, and which of them stood out. "Elīna Garanča," Anchel said. "I just thought she was so focused."
 
 He remembers the rehearsals for [Robert Carsen's _Der Rosenkavalier_](https://newyorkclassicalreview.com/2017/04/in-her-moving-met-quasi-farewell-fleming-strikes-sparks-with-garanca-in-rosenkavalier/), starring Garanča as Octavian and Renée Fleming as the Marschallin. "Garanča was nice to everybody, but also very, but also very introverted, in a way, but like, just so professional. And never any drama, just would try anything you asked her to do."
+
+With opera singing parents and a multi-decade history at the Met, Anchel seems
+
+\**But for all his pedigree and skill, Anchel is one of the more diverse, self-aware opera singers I've ever met**
 
 \--
 
