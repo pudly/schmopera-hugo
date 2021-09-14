@@ -34,7 +34,7 @@ I asked him about being part of a Met rehearsal room with opera's greats, and wh
 
 He remembers the rehearsals for [Robert Carsen's _Der Rosenkavalier_](https://newyorkclassicalreview.com/2017/04/in-her-moving-met-quasi-farewell-fleming-strikes-sparks-with-garanca-in-rosenkavalier/), starring Garanča as Octavian and Renée Fleming as the Marschallin. "Garanča was nice to everybody, but also very, but also very introverted, in a way, but like, just so professional. And never any drama, just would try anything you asked her to do."
 
-With two opera singer parents and a multi-decade history at the Met, Anchel seems  
+With two opera singer parents and a multi-decade history at the Met, Anchel
 
 \**But for all his pedigree and skill, Anchel is one of the more diverse, self-aware opera singers I've ever met**
 
