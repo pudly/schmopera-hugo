@@ -28,13 +28,16 @@ By anyone's account, American bass Matthew Anchel is having a stellar 2021-22. H
 
 This season will be Anchel's Met debut, but not his first season spent at the company. Since 2013, he has covered bass roles in _Die Zauberflöte_, _The Exterminating Angel_, and _Der Rosenkavalier_. He even sang in the the Metropolitan Opera Children's Chorus at age 6.
 
-"I love working at the Met so much," Anchel said in an exclusive interview. He acknowledges the more unsavory news stories about the Met, "But I have only ever been treated with professionalism and respect whenever I work there."
+"I love working at the Met so much," Anchel says. He acknowledges the more unsavory news stories about the Met, "But I have only ever been treated with professionalism and respect whenever I work there."
 
-I asked him about being part of a Met rehearsal room with opera's greats, and which of them stood out. "Elīna Garanča," Anchel said. "I just thought she was so focused."
+For xxthe xx-year-old bassxx, The Metropolitan Opera 
 
-He remembers the rehearsals for [Robert Carsen's _Der Rosenkavalier_](https://newyorkclassicalreview.com/2017/04/in-her-moving-met-quasi-farewell-fleming-strikes-sparks-with-garanca-in-rosenkavalier/), starring Garanča as Octavian and Renée Fleming as the Marschallin. "Garanča was nice to everybody, but also very, but also very introverted, in a way, but like, just so professional. And never any drama, just would try anything you asked her to do."
+* met's role in opera, that it has to do big stuff in that space
+* he loves act of singing, opera parents
+* figuring out his imagery/tools
+* 
 
-With two opera singer parents and a multi-decade history at the Met, Anchel
+### new section
 
 \**But for all his pedigree and skill, Anchel is one of the more diverse, self-aware opera singers I've ever met**
 
@@ -80,8 +83,6 @@ Singing craft
 "We don't make those kind of loud noises naturally, we have to train our voices to do it."
 
 "it's the most honest version of your voice because it's like, it's it's getting rid of like any of the effects"
-
-"always try and bring like two ideas onstage with me so because I'm, because I teach them too much of an overthinker. So like, like for a while my thing was think dark and forward for whatever reason that was working for me because the darkness kept me from spreading. And the forward it wasn't that I was singing in my nose. It was that the foreword energy of like, of like, say the words go, don't don't be in your head don't place don't like try and create a sound."
 
 "always try and bring like two ideas onstage with me so because I'm, because I teach them too much of an overthinker. So like, like for a while my thing was think dark and forward for whatever reason that was working for me because the darkness kept me from spreading. And the forward it wasn't that I was singing in my nose. It was that the foreword energy of like, of like, say the words go, don't don't be in your head don't place don't like try and create a sound."
 
