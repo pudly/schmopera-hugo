@@ -36,9 +36,9 @@ It struck me in our most recent conversation, that Anchel has one of the healthi
 
 And it's not just nature, but lots of nurture. Anchel's path is almost classic: a performing arts high school, the Manhattan School of Music, LA Opera's Domingo-Thornton Young Artist Program, the Metropolitan Opera National Council Auditions, and private lessons with Trish McCaffrey. As a result, he's arrived, prepared, at that crucial moment of a 30-something bass's career, where the instrument catches up to the demands of opera's most coveted low-voice roles.
 
-And for all his skill and operatic pedigree, Anchel has that thing that evades so many professional singers: balance. If you surveyed a slice of his social media following — either  the 16,000 people who follow him on [Instagram](https://www.instagram.com/matthewanchel/), or better yet, his 831,000 followers on [TikTok](https://www.tiktok.com/@matthewanchel?) — the majority would likely vouch for Anchel's sound advice as their ["TikTok Gay Best Friend"](https://www.instagram.com/reel/CRg-9FZHSMb/?utm_source=ig_web_copy_link). Relationship woes, [makeup queries](https://www.instagram.com/reel/CQrCBy2HS6V/?utm_source=ig_web_copy_link), and certainly some [miniature singing lessons](https://www.instagram.com/reel/CSZ-3WtHtg0/?utm_source=ig_web_copy_link) — Anchel has the time and expertise for all of it.
+And for all his skill and operatic pedigree, Anchel has that thing that evades so many professional singers: balance. If you surveyed a slice of his social media following — either  the 16,000 people who follow him on [Instagram](https://www.instagram.com/matthewanchel/), or better yet, his 831,000 followers on [TikTok](https://www.tiktok.com/@matthewanchel?) — the majority would likely vouch for Anchel's sound advice as their ["TikTok Gay Best Friend"](https://www.instagram.com/reel/CRg-9FZHSMb/?utm_source=ig_web_copy_link). Relationship woes, [makeup queries](https://www.instagram.com/reel/CQrCBy2HS6V/?utm_source=ig_web_copy_link), and certainly some [miniature singing lessons](https://www.instagram.com/reel/CSZ-3WtHtg0/?utm_source=ig_web_copy_link) — Anchel has the time and expertise for all of it, and has even picked up a solid line-up of students through his online presence.
 
- But the source of it all — be it Anchel's impressive social media presence, or his first-rate singing — lies in body positivity.
+ But the source of it all — be it Anchel's impressive social media output, or his first-rate singing — lies in body positivity.
 
 "I really try not to be insulting," Anchel laughs, pointing out the irony of his YouTube series, [_Angry Fat People_](https://www.youtube.com/watch?v=YkK1yfGGja4), which he started in 2018 with his friend and fellow singer, Tracy Cox. "I try to be as sympathetic as possible, so that someone who might be triggered by some of the things that I'm talking about can actually just listen and not just instantly turn off."
 
@@ -52,9 +52,15 @@ It all reminds me of that other big conversation that surrounds the classical pe
 
 "I think that opera is like, probably 10 to 20 years behind everything," Anchel says. "It's so funny that opera still stuck in like the early 2000s, where was like I think was sort of the height of sort of like, you know, blonde, good looking thin people. And then the culture has changed a little, and opera is just always a little bit behind. So, hopefully it catches up and then appreciates the diverse community it has and features them in shows."
 
-He may be amused at opera's cultural lag, but for Anchel, singing is one of life's great pleasures. "When you're doing it, well, it feels good," he says. "It's addictive, you love the vibration in your body. You love like the release of it, it's like, it's, it's really this most the most amazing feeling if you learn how to sing with ease."
+He may be amused at opera's cultural lag, but for Anchel, singing is one of life's great pleasures. "When you're doing it, well, it feels good," he says. "It's addictive, you love the vibration in your body. You love like the release of it, it's really this most the most amazing feeling if you learn how to sing with ease."
 
-A self-proclaimed overthinker, Anchel's onstage psychology is well-honed and drama-free. 
+A self-proclaimed overthinker, Anchel's onstage psychology is well-honed and drama-free. His go-to image is a big barrel (his sound) and a tiny bird sitting on said barrel (his text). "I always try and bring like two ideas onstage with me," Anchel says, preferring these days to think of singing dark, and forward. "For whatever reason that was working for me because the darkness kept me from spreading. And the forward it wasn't that I was singing in my nose. It was that the foreword energy of like, say the words, don't be in your head, don't place, don't like try and create a sound."
+
+And a bit like that balance he strikes between singing, teaching, and TikTok-ing, 
+
+* onstage plan
+* what great singing is
+* bucket list roles
 
 I'll admit, I was a bit surprised when Anchel told me that he'd never been asked by a company to temper his online presence. "They asked me to tone down my myself," Anchel admits, though he doesn't seem fussed by it. "They've asked me to be less gay or to not wear makeup or advise me to just sort of be more masculine in my life." 
 
@@ -104,15 +110,11 @@ Singing craft
 
 "when you're doing it, well, it feels good. It's like addictive, it's like, you love the vibration in your body. You love like the release of it, it's like, it's, it's really this most the most amazing feeling if you learn how to sing with ease."
 
-"it's sort of this idea of like, I feel like I'm in this like, barrel of sound, but there's this like, tiny little bird on the barrel. So, which is the bright part of my voice? So I have my little bird, it's like my words,"
-
 "it's the idea is that we're sort of almost unnaturally carrying up our chest voice higher than it wants to go. So and that opera is training your voice to do something that's actually pretty unnatural"
 
 "We don't make those kind of loud noises naturally, we have to train our voices to do it."
 
 "it's the most honest version of your voice because it's like, it's it's getting rid of like any of the effects"
-
-"always try and bring like two ideas onstage with me so because I'm, because I teach them too much of an overthinker. So like, like for a while my thing was think dark and forward for whatever reason that was working for me because the darkness kept me from spreading. And the forward it wasn't that I was singing in my nose. It was that the foreword energy of like, of like, say the words go, don't don't be in your head don't place don't like try and create a sound."
 
 Belting
 
