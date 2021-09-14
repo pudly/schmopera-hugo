@@ -18,7 +18,43 @@ title = "Talking with singers: Matthew Anchel"
 youtube_url = ""
 
 +++
+* MET
+* social media
+* 
+
 By anyone's account, American bass Matthew Anchel is having a stellar 2021-22. He's settling in for a New York-based season, a string of contracts with The Metropolitan Opera that include covering in [_Die Meistersinger von Nürnberg_](https://www.metopera.org/season/2021-22-season/die-meistersinger-von-nurnberg/) and [_Don Carlos_](https://www.metopera.org/season/2021-22-season/don-carlos/), and making his mainstage debut in Laurent Pelly's production of [_Cendrillon_](https://www.metopera.org/season/2021-22-season/cinderella/), sharing the stage with Isabel Leonard, Emily D'Angelo, and Stephanie Blythe.
+
+\--
+
+MET
+
+"I love working at the Met so much. I know that like, you know, sometimes, like we hear about things, there have been a lot of things coming out in the news about about things happening there. But I have only ever been treated with professionalism and respect whenever I work there."
+
+"one of the most impressive people in rehearsals to me was Alina garantia. I just thought she was so focused."
+
+"she was nice to everybody, but also very, but also very introverted, in a way, but like, just so professional. And never any drama, just like would try anything you asked her to do."
+
+"And there was one day where we were all there. And it was the all of us. Everyone was there. The covers all small parts everybody. And bass, we're seeing the trio. And Renee really showed off in that rehearsal. And it was really unbelievable."
+
+"They have this enormous proscenium stage."
+
+"It is both amazing and limiting to have that kind of space"
+
+MET contrasts small works
+
+"In my opinion, that's not real opera. I think it's a new version of opera, which is very interesting and can really connect with audiences. But I think it's important that if we're going to keep doing this art form, there are institutions that do opera the way it was meant to be done. Because otherwise, what is it? It's weird musical theatre."
+
+\--
+
+Diversity in opera
+
+opera is all about donors
+
+"Knowing that that's the main issue is that, I mean, it'll be interesting to see what happens with donors and boards of companies to see if they become more diverse, or a younger generation comes in and they have different wants and interests."
+
+"The one nice thing about mainstream entertainment is that it's all about the audience, and who was going to buy tickets and who can we get interested in? So even if it's like pandering to us, I mean, it works. Because it's the business. It's a bit like you're looking for the approval and the money of the masses, and not the few."
+
+\--
 
 Anchel's schedule isn't just a glimpse of good news after a long, dark pandemic - it's a classic checkpoint for any xxx-year-old bass. Basses are among the voice types that often have to wield a good amount of professional patience, waiting for the physiology of the voice to mature enough to sing the roles that best show them off.
 
@@ -28,11 +64,11 @@ Classic, sure — but Anchel is no tired trope about the opera careers of days g
 
 Within the opera world, the tenet of _prima la voce_ comes up against the same problem that has, until extremely recently, plagued the more mainstream performing arts: only thin bodies can be used to tell stories. And as a devourer of his content myself, I can say that Anchel's take on body positivity is equal parts awesome-bear-hug and thought-provoking-lightbulb-moment.
 
-"What I think happens a lot, is that you have people who are maybe more stereotypically attractive in thin bodies, who maybe have medium voices not — the best voices in the world." These singers are well promoted, Anchel says, and they get opportunities to work with opera's best. "So they get really good at singing, even though maybe their voice isn't that amazing." 
+"What I think happens a lot, is that you have people who are maybe more stereotypically attractive in thin bodies, who maybe have medium voices —not the best voices in the world." These singers are well promoted, Anchel says, and they get opportunities to work with opera's best. "So they get really good at singing, even though maybe their voice isn't that amazing."
 
-"Then, you have fat singers, who maybe have these unbelievable voices, and never get better at singing," Anchel adds, "because they're not given the opportunities that the thin person was given to improve, and then become, you know, this amazing artist."
+"Then, you have fat singers, who maybe have these unbelievable voices, and never get better at singing, because they're not given the opportunities that the thin person was given to improve, and then become, you know, this amazing artist."
 
-It's a facet of another big, ongoing conversation in opera, about privilege. 
+It's a facet of another big, ongoing conversation in opera, about privilege.
 
 * 
 * modern opera singer, great melding of personality and craft - also, diversifying, which is oddly a new thing for an opera singer
@@ -67,14 +103,6 @@ Body image in opera industry
 
 "I think there are some singers who are in larger bodies who actually don't have that voice and shit. But they're told that like, that's all they can do. So that's that's also a problem as well."
 
-Diversity in opera
-
-* opera is all about donors
-
-"Knowing that that's the main issue is that, I mean, it'll be interesting to see what happens with donors and boards of companies to see if they become more diverse, or a younger generation comes in and they have different wants and interests."
-
-"The one nice thing about mainstream entertainment is that it's all about the audience, and who was going to buy tickets and who can we get interested in? So even if it's like pandering to us, I mean, it works. Because it's the business. It's a bit like you're looking for the approval and the money of the masses, and not the few."
-
 Singing craft
 
 * both parents were opera singers
@@ -101,24 +129,6 @@ Singing craft
 Belting
 
 "I would say the most important thing is to realize that belting shouldn't be loud because it's, it's singing designed to be done with a microphone."
-
-MET
-
-"I love working at the Met so much. I know that like, you know, sometimes, like we hear about things, there have been a lot of things coming out in the news about about things happening there. But I have only ever been treated with professionalism and respect whenever I work there."
-
-"one of the most impressive people in rehearsals to me was Alina garantia. I just thought she was so focused."
-
-"she was nice to everybody, but also very, but also very introverted, in a way, but like, just so professional. And never any drama, just like would try anything you asked her to do."
-
-"And there was one day where we were all there. And it was the all of us. Everyone was there. The covers all small parts everybody. And bass, we're seeing the trio. And Renee really showed off in that rehearsal. And it was really unbelievable."
-
-"They have this enormous proscenium stage."
-
-"It is both amazing and limiting to have that kind of space"
-
-MET contrasts small works
-
-"In my opinion, that's not real opera. I think it's a new version of opera, which is very interesting and can really connect with audiences. But I think it's important that if we're going to keep doing this art form, there are institutions that do opera the way it was meant to be done. Because otherwise, what is it? It's weird musical theatre."
 
 "Dark and bright, released and held, open and closed, and deep and high. I think when a singer finds the balance of all those things, it's really exciting."
 
