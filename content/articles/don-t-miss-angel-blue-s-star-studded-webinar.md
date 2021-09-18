@@ -39,4 +39,4 @@ On the itinerary: questions about opera's future, its innovations, the safety of
 
 </figure>
 
-"What's Next for Opera" is free to [attend with registration](https://us06web.zoom.us/webinar/register/WN_GqGuWWB7QT6_ktjXlOg6tw). See you there!
+"What's Next for Opera?" is free to [attend with registration](https://us06web.zoom.us/webinar/register/WN_GqGuWWB7QT6_ktjXlOg6tw). See you there!
