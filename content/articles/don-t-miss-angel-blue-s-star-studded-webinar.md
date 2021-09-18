@@ -27,7 +27,7 @@ Star mezzo-soprano Denyce Graves, Grammy-nominated countertenor Anthony Roth Con
 
 <figcaption>Anthony Roth Constanzo (Matthew Placek) and Denyce Graves (Devon Cass), two panelists for the webinar led by Angel Blue, "What's Next for Opera?", September 23, 12pm ET.</figcaption>
 
-</figure
+</figure>
 
 On the itinerary: questions about opera's future, its innovations, the safety of live performances, digital opera, and audience queries.
 
