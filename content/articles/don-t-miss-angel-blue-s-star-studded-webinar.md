@@ -33,10 +33,10 @@ On the itinerary: questions about opera's future, its innovations, the safety of
 
 "I immediately wanted to become a part of the National Institute of Social Sciences when I attended their Annual Gold Medal Gala in 2019," says Blue, who is a Trustee of the NISS. "The pandemic has changed society. However, it is organizations like NISS who will be at the forefront of helping our community to remain a strong unit. I'm very honored to be a National Institute Trustee, and I hope that everyone will enjoy the webinar 'What's Next in Opera?'"
 
-"What's Next for Opera" is free to [attend with registration](https://us06web.zoom.us/webinar/register/WN_GqGuWWB7QT6_ktjXlOg6tw). See you there!
-
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1631799223/media/2021/09/AngelBlue_BillyDiaz_n3b48d.jpg){{% /md %}}
 
 <figcaption>Angel Blue, photographed by Billy Diaz.</figcaption>
 
 </figure>
+
+"What's Next for Opera" is free to [attend with registration](https://us06web.zoom.us/webinar/register/WN_GqGuWWB7QT6_ktjXlOg6tw). See you there!
