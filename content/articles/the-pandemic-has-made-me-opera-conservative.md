@@ -8,12 +8,12 @@ postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1632149907/media/2021/09/OperaConservative_hg3pyv.jpg"
 primary_image_credit = ""
-related_articles = []
-related_companies = []
+related_articles = ["articles/the-met-s-at-home-gala.md", "articles/covid.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/vancouver-opera.md"]
 related_people = []
 short_description = "My psuedo-psychological theory is this: I'm not so much anxious for the shows themselves (although, I can still feel the stomach-pangs that hit me all last year, each time a cancelled production popped up on my Google calendar); rather, I'm naïvely waiting on society to rewind, to go back to \"before\"."
-slug = "the-pandemic-has-made-me-opera-conservative"
-title = "The pandemic has made me opera-conservative"
+slug = "help-the-pandemic-has-made-me-opera-conservative"
+title = "Help! The pandemic has made me opera-conservative!"
 youtube_url = ""
 
 +++
