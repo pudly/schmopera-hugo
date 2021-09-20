@@ -28,7 +28,7 @@ My psuedo-psychological theory is this: I'm not so much anxious for the shows th
 
 So much of my enjoyment of live performances - and maybe yours too, readers - came from imagining the bustling world, with everyone's busy days and their paths criss-crossing, and the cool magic of seeing some of those people converge in a packed theatre, to sit and experience the same moment together and turn our eyes and ears toward a feat of human creativity.
 
-When that's not in place, it means that our society is not healthy. When we all have to work _so damn hard_ to make art happen, it arguably should make that art even more welcome ****
+When that's not in place, it means that our society is not healthy. When we all have to work _so damn hard_ to make art happen, it arguably should make that art even more welcome  ****
 
 * and all that makes me feel selfish
 
