@@ -22,7 +22,7 @@ Readers, are any of you experiencing a strange sort of guilt, on the eve of an o
 
 Here's the source of the guilt: when I see live seasons announced out of the world's major opera companies, I find myself hungrily scouring the production line-up for old standards. Why? What's wrong with me? Should I not be more excited for [_Fire Shut Up in My Bones_](https://www.metopera.org/season/2021-22-season/fire-shut-up-in-my-bones/) than I am for [_Madama Butterfly_ or _The Magic Flute_](https://www.coc.ca/subscriptions-preview)?
 
-It's not that I won't tune in for the non-traditional canon. I'm thrilled by what it means to have Terence Blanchard's opera opening the Met's 2021-22 season. And dammit, I'm _so effing thrilled_ by what it means to have [Othalie Graham, David Pomeroy, and Gregory Dahl](https://www.vancouveropera.ca/whats-on/cavalleria-rusticana-in-concert/) onstage together in Vancouver. I honestly don't know why it feels so fraught to see opera coming back.
+It's not that I won't tune in for the non-traditional canon. I'm thrilled by what it means to have Terence Blanchard's opera opening the Met's 2021-22 season. And dammit, I'm also _so effing thrilled_ by what it means to have [Othalie Graham, David Pomeroy, and Gregory Dahl](https://www.vancouveropera.ca/whats-on/cavalleria-rusticana-in-concert/) onstage together for some traditional canon in Vancouver. I honestly don't know why it feels so fraught to see opera coming back.
 
 My psuedo-psychological theory is this: I'm not so much anxious for the shows themselves (although, I can still feel the stomach-pangs that hit me all last year, each time a cancelled production popped up on my Google calendar); rather, I'm naïvely waiting on society to rewind, to go back to "before".
 
