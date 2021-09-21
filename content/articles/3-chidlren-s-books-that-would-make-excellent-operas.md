@@ -35,11 +35,11 @@ I imagine _A Promise is a Promise: The Opera_ to be an eerie soundscape, full of
 
 There's so much room for sound exploration with this story. What do Qallupilluit sound like? What do they sound like when they come into Allashua's home and ask for candy? And if any opera is ready for an Inuk composer's hand, it would be _A Promise is a Promise_.
 
-### The Gruffalo
+### _The Gruffalo_, Julia Donaldson and Axel Scheffler
 
 Musical structure, anyone? _The Gruffalo_ is an amazing feat of storytelling, combining the rule of three with a palindromic narrative (can you tell I've read this book _a ton of times?_) So, we've got a Mouse who bluffs his way out getting eaten by a Fox, then an Owl, and then a Snake: he tells them he's buddies with a Gruffalo, a terrifying (and fictional) creature tusks and orange eyes and a warty nose, who just so happens to love the taste of foxes, owls, and snakes. The bluff work - but wait! The Gruffalo isn't fictional after all!
 
-Sure, there are the awesome musical opportunities in describing a whip-smart little mouse, and the monstrous and exaggerated Gruffalo. And imagine the thematic development: Fox — Owl — Snake — Gruffalo! — Snake — Owl — Fox. It's rife - RIFE - with composer inspiration. And even better, this is a story about how someone small and un-scary can use their wits to 
+Sure, there are the awesome musical opportunities in describing a whip-smart little mouse, and the monstrous and exaggerated Gruffalo. The text already rhymes, and I'd be inclined to approach Julia Donaldson about And imagine the thematic development: Fox — Owl — Snake — Gruffalo! — Snake — Owl — Fox. It's rife - RIFE - with composer inspiration. And even better, this is a story about how someone small and un-scary can use their wits to 
 
 <figure data-type="image"{{% md %}}{{% /md %}}
 
