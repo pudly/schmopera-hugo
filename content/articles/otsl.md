@@ -52,3 +52,5 @@ New Works
 
 * 1: single mom at home with three kids during pandemic, virtual learning, chaotic, noisy, oh man I feel for her
 * pretty awesome vocal demands, soprano heights and jazzy chest voice
+* when chaos exhausts itself, it gathers together into gorgeous ensemble singing with the whole family, reminding ourselves that we're all trying to hold together and we all miss our lives, and we're a family unit goddammit
+* 2. 
