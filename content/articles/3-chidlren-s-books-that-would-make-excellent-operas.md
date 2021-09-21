@@ -47,9 +47,17 @@ Sure, there are the awesome musical opportunities in describing a whip-smart lit
 
 Opera-friendly structure? Yep. Great message for young people? Definitely. A _basso profundo_ as the Gruffalo? Yes please.
 
-<figure data-type="image"{{% md %}}{{% /md %}}
+### Marcel the Shell
+
+Alright, readers: if you've not yet heard of _Marcel the Shell with Shoes On_, make your day better by watching this fantastic 2010 short film by Dean Fleischer-Camp and Jenny Slate:
+
+<figure data-type="video"{{% md %}}<iframe width="1010" height="568" src="https://www.youtube.com/embed/VF9-sEbqDvU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
 </figure>
+
+The wonderful book from the Marcel the Shell universe, _The Most Surprised I've Ever Been_, is so freaking heartwarming I just can't handle it. It's a story about a single moment in a day: Little Marcel is minding his own business, when suddenly he is flung up into the air. While he's up there — a whole 200 centimetres off the ground — he thinks about astronauts, his grandmother, popcorn, paper airplanes, and more. It's something beautiful that comes out of the mundane, a story that makes us remember that everyone around us is living their very own lives, full of thoughts and plans and surprises.
+
+It's a gorgeous setting for an opera short. I imagine it very through-composed, very stream-of-consciousness. Certainly, there's some gorgeous sound event when Marcel goes airborne, something that sets up a soundscape that makes us think of flight and fond memories.
 
 <figure data-type="image"{{% md %}}{{% /md %}}
 
