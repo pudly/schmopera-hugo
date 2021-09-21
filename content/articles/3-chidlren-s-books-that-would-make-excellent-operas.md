@@ -5,7 +5,7 @@ date = 2021-09-21T04:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "Readers, what have you read lately that you'd love to see in opera form? Let us know in the comments below, or get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
 preamble = ""
 primary_image = ""
 primary_image_credit = ""
@@ -58,11 +58,3 @@ Alright, readers: if you've not yet heard of _Marcel the Shell With Shoes On_, m
 The wonderful book from the Marcel the Shell universe, [_The Most Surprised I've Ever Been_](https://www.penguinrandomhouse.ca/books/311550/marcel-the-shell-the-most-surprised-ive-ever-been-by-jenny-slate-and-dean-fleischer-camp/9780698198999), is so freaking heartwarming I just can't handle it. It's a story about a single moment in a day: Little Marcel is minding his own business, when suddenly he is flung up into the air. While he's up there — a whole 200 centimetres off the ground — he thinks about astronauts, his grandmother, popcorn, paper airplanes, and more. It's something beautiful that comes out of the mundane, a story that makes us remember that everyone around us is living their very own lives, full of thoughts and plans and surprises.
 
 It's a gorgeous setting for an opera short. I imagine it very through-composed, very stream-of-consciousness. Certainly, there's some gorgeous sound event when Marcel goes airborne, something that sets up a soundscape that makes us think of flight and fond memories. Surely, this opera sounds like a warm hug, padded harmonies mixed with — what else? — surprises.
-
-<figure data-type="image"{{% md %}}{{% /md %}}
-
-</figure>
-
-<figure data-type="image"{{% md %}}{{% /md %}}
-
-</figure>
