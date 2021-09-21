@@ -17,7 +17,7 @@ title = "3 children's books that would make excellent operas"
 youtube_url = ""
 
 +++
-### _A Promise is a Promise_, Robert Munsch & Vladyana Krykorka
+### _A Promise is a Promise_, Robert Munsch, Michael Kusugak, and Vladyana Krykorka
 
 If you grew up in Canada, there's a great chance that you read [_A Promise is a Promise_](https://robertmunsch.com/book/a-promise-is-a-promise-2) - and if you were an imaginative kid like I was, you had a few bad dreams about it. Munch's 1992  book is based on the legend of the [Qallupilluit](https://en.wikipedia.org/wiki/Qallupilluit), the terrifying figures of Inuit folklore who are said to live under the ice in the sea, and who kidnap ill-behaved children. It's one of those stories designed to keep children safe — as in, don't go out on the sea ice — but in doing so, potentially freaks them utterly out. Just look at the book cover: that horrid hand cracking out of the ice? It's just the start, as anyone who's seen Krykorka's hideous-magical renderings of the Qallupilluit knows.
 
