@@ -31,7 +31,7 @@ There's so much room for sound exploration with this story. What do Qallupilluit
 
 ### _The Gruffalo_, Julia Donaldson and Axel Scheffler
 
-Musical structure, anyone? _The Gruffalo_ is an amazing feat of storytelling, combining the rule of three with a palindromic narrative (can you tell I've read this book _a ton of times?_) So, we've got a Mouse who bluffs his way out getting eaten by a Fox, then an Owl, and then a Snake: he tells them he's buddies with a Gruffalo, a terrifying (and fictional) creature tusks and orange eyes and a warty nose, who just so happens to love the taste of foxes, owls, and snakes. The bluff work - but wait! The Gruffalo isn't fictional after all!
+Musical structure, anyone? _The Gruffalo_ is an amazing feat of storytelling, combining the rule of three with a palindromic narrative. (Can you tell I've read this book _a ton of times?_) So, we've got a Mouse who bluffs his way out getting eaten by a Fox, then an Owl, and then a Snake: he tells them he's buddies with a Gruffalo, a terrifying (and fictional) creature with tusks and orange eyes and a warty nose, who just so happens to love the taste of foxes, owls, and snakes. The bluff work - but wait! The Gruffalo isn't fictional after all!
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632244064/media/2021/09/Gruffalo_fvulzt.jpg){{% /md %}}
 
