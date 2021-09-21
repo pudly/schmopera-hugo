@@ -18,11 +18,6 @@ title = "3 children's books that would make excellent operas"
 youtube_url = ""
 
 +++
-* The Gruffalo
-* A Promise is a Promise
-* The Little Snowplow
-* Marcel the Shell: The Most Surprised I've Ever Been
-
 ### _A Promise is a Promise_, Robert Munsch & Vladanya Krykorka
 
 If you grew up in Canada, there's a great chance that you read _A Promise is a Promise_ - and if you were an imaginative kid like I was, you had a few bad dreams about it. Munch's 1992  book is based on the legend of the [Qallupilluit](https://en.wikipedia.org/wiki/Qallupilluit), the terrifying figures of Inuit folklore who are said to live under the ice in the sea, and who kidnap ill-behaved children. It's one of those stories designed to keep children safe - as in, don't go out on the sea ice - but in doing so, potentially freaks them utterly out. Just look at the book cover: that horrid hand cracking out of the ice? It's just the start, as anyone who's seen Krykorka's hideous-magical renderings of the Qallupilluit knows.
@@ -57,7 +52,7 @@ Alright, readers: if you've not yet heard of _Marcel the Shell With Shoes On_, m
 
 The wonderful book from the Marcel the Shell universe, [_The Most Surprised I've Ever Been_](https://www.penguinrandomhouse.ca/books/311550/marcel-the-shell-the-most-surprised-ive-ever-been-by-jenny-slate-and-dean-fleischer-camp/9780698198999), is so freaking heartwarming I just can't handle it. It's a story about a single moment in a day: Little Marcel is minding his own business, when suddenly he is flung up into the air. While he's up there — a whole 200 centimetres off the ground — he thinks about astronauts, his grandmother, popcorn, paper airplanes, and more. It's something beautiful that comes out of the mundane, a story that makes us remember that everyone around us is living their very own lives, full of thoughts and plans and surprises.
 
-It's a gorgeous setting for an opera short. I imagine it very through-composed, very stream-of-consciousness. Certainly, there's some gorgeous sound event when Marcel goes airborne, something that sets up a soundscape that makes us think of flight and fond memories. Surely, this opera sounds like a warm hug, padded harmonies mixed with — what else? — surprises.
+It's a gorgeous setting for an opera short. I imagine it very through-composed, very stream-of-consciousness. Certainly, there's some gorgeous sound event when Marcel goes airborne, something that sets up a soundscape that makes us think of flight and fond memories. Surely, this opera sounds like a warm hug, padded harmonies mixed with — what else? — surprises. And Marcel is certainly a countertenor, no?
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632244812/media/2021/09/Marcel_mo2hmi.jpg){{% /md %}}
 
