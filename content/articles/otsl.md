@@ -45,3 +45,10 @@ Highway 1
 * Tight, gorgeous ensemble singing in first scene
 * Curious to be so drawn in to an opera that starts so conflict-free
 * Gibbs is really solid, sets himself apart as a character with his voice, not easy to do with two baritones in an opera
+* weird ending, again a bit conflict-free for opera
+* this piece sits beautifully in the American canon, sharing space with musical theatre but definitely an opera - tells a sort of mundane story, a bit of violence, a low-key villain and a family's practical way of handling things
+
+New Works
+
+* 1: single mom at home with three kids during pandemic, virtual learning, chaotic, noisy, oh man I feel for her
+* pretty awesome vocal demands, soprano heights and jazzy chest voice
