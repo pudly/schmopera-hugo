@@ -24,7 +24,9 @@ The Festival, which includes six performance events from OTSL's 2021 season, is 
 
 If I'm to pick a favourite, I'm torn between the three actually fantastic new operas in the _New Works_ showcase, and the 1940s gem by William Grant Still, _Highway 1, U.S.A._ Both productions fit perfectly with OTSL's mission to champion new works and be a part of opera's future; I love when a great cause comes with great discoveries, too.
 
-_Highway 1, U.S.A._ draws us in with its excellent cast, headlined by baritone [Will Liverman](/spotlight-on-will-liverman/) and soprano [Nicole Cabell](/talking-with-singers-nicole-cabell/). But it's no empty promise, these **
+_Highway 1, U.S.A._ draws us in with its excellent cast, headlined by baritone [Will Liverman](/spotlight-on-will-liverman/) and soprano [Nicole Cabell](/talking-with-singers-nicole-cabell/). Right away I was pulled into the story, which as far as opera plots go, starts off fairly conflict-free; usually when I'm pulled in, it's because of the artists. Liverman and Cabell show a natural warmth for each other as Bob and Mary; they play a married couple who love and respect each other, and Mary shows her love by setting high standards for Bob and his brother, Nate (Christian Mark Gibbs). 
+
+Still's score is gorgeous, a mix of luscious sounds and matter-of-fact text setting. Liverman shines in his heroic baritone moments, 
 
 Schicchi
 
