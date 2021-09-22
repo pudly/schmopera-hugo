@@ -65,15 +65,15 @@ New Works
 
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318629/media/2021/09/OTSL_Schicchi_2_bagpp0.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Joshua Blue as Rinuccio and Elena Villalón as Lauretta in 2021 Giacomo Puccini's Gianni Schicchi, Opera Theatre of St. Louis. Photo: Eric Woolsey.</figcaption>
 
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318671/media/2021/09/OTSL_NewWorks_1_pnuhx7.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Markel Reed as James Baldwin and Jonathan Johnson as William F. Buckley Jr. in Damien Sneed and Karen Chilton’s The Tongue & The Lash, Opera Theatre of St. Louis's New Works, Bold Voices Lab, 2021. Photo: Eric Woolsey.</figcaption>
 
 </figure>
 
