@@ -18,6 +18,14 @@ title = "OTSL"
 youtube_url = ""
 
 +++
+These days, small wins are worth a lot — and I count it as a small win that I can watch Opera Theatre of St. Louis's 2021 Outdoor Festival from way up here in Canada.
+
+The Festival, which includes six performance events from OTSL's 2021 season, is [available to stream](https://opera-stl.org/streaming) through September 30, and I'm officially recommending it. It's a great mix of standards (_Gianni Schicchi_), near-standards (_La voix humaine_), rarities (_Highway 1, U.S.A._), and world premieres ([_New Works, Bold Voices Lab_](https://opera-stl.org/nwbv-lab)).
+
+If I'm to pick a favourite, I'm torn between the three actually fantastic new operas in the _New Works_ showcase, and the 1940s gem by William Grant Still, _Highway 1, U.S.A._ Both productions fit perfectly with OTSL's mission to champion new works and be a part of opera's future; I love when a great cause comes with great discoveries, too.
+
+_Highway 1, U.S.A._ draws us in with its excellent cast, headlined by baritone [Will Liverman](/spotlight-on-will-liverman/) and soprano [Nicole Cabell](/talking-with-singers-nicole-cabell/). But it's no empty promise, these **
+
 Schicchi
 
 * everything you want in a Schicchi, great ensemble work, busy scenes, characters who become your secret favourites by the end of the show
