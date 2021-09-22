@@ -26,9 +26,11 @@ If I'm to pick a favourite, I'm torn between the three actually fantastic new op
 
 _Highway 1, U.S.A._ draws us in with its excellent cast, headlined by baritone [Will Liverman](/spotlight-on-will-liverman/) and soprano [Nicole Cabell](/talking-with-singers-nicole-cabell/). Right away I was pulled into the story, which as far as opera plots go, starts off fairly conflict-free; usually when I'm pulled in, it's because of the artists. Liverman and Cabell show a natural warmth for each other as Bob and Mary; they play a married couple who love and respect each other, and Mary shows her love by setting high standards for Bob and his troubled brother, Nate (Christian Mark Gibbs). 
 
-Still's score is gorgeous, a mix of luscious sounds and matter-of-fact text setting. Liverman shines in his heroic top range, delivering crisp English text that sounds easy; Cabell shows a thousand colours with her voice, joking and pleading and loving with her soprano. And interestingly, there's a clear distinction between Liverman's baritone and Christian Mark Gibbs as Nate; next to Liverman's warmth, Gibbs has an extra edge to his sound that 
+Still's score is gorgeous, a mix of luscious sounds and matter-of-fact text setting. Liverman shines in his heroic top range, delivering crisp English text that sounds easy; Cabell shows a thousand colours with her voice, joking and pleading and loving with her soprano. And interestingly, there's a clear distinction between Liverman's baritone and Christian Mark Gibbs as Nate.
 
-The production works for me. 
+The production works for me. It's a fantastic show of 60s fashion, with great hats and fun florals and bright shoes. And really, who doesn't love gazing over every detail of a busy kitchen, filled with wallpaper and cafe curtains?
+
+This piece sits beautifully in the American operatic canon. It nods to its time, with the music leaning toward the sounds of Richard Rogers and George Gershwin, but boasts some fantastic ensemble singing and an earthy approach to musical storytelling. I'm so thrilled that OTSL put this up. It should go elsewhere, quickly.
 
 Schicchi
 
