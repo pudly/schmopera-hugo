@@ -79,15 +79,15 @@ New Works
 
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318892/media/2021/09/OTSL_NWBV_2_fxyqqd.jpg){{% /md %}}
 
 <figcaption>Calvin Griffin as Teacher 2/Grandma/Father, Monica Dewey as Single Mom/Mama/Mom, Mack Wolz as Teacher 1/Kadin/Mommy/Daughter and Melody Wilson as Kyra/Son/Son in Laura Karpman and Taura Stinson's On the Edge, Opera Theatre of St. Louis's New Works, Bold Voices Lab, 2021. Photo: Eric Woolsey.</figcaption>
 
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318927/media/2021/09/OTSL_NWBV_3_jlc6dt.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Monica Dewey as Queen Elizabeth and Jonathan Johnson as Prince Philip in Steven Mackey and Rinde Eckert's Moon Tea, Opera Theatre of St. Louis's New Works, Bold Voices Lab, 2021. Photo: Eric Woolsey</figcaption>
 
 </figure>
 
