@@ -63,13 +63,13 @@ New Works
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318572/media/2021/09/OTSL_Schicchi_1_w70oke.jpg){{% /md %}}
 
-<figcaption>(l-r) Nathan Stark as Simone, Joshua Blue as Rinuccio, Schyler Vargas as Marco, Meghan Kasanders as Nella, Helen Zhibing Huang as La Ciesca, La'Shelle Q. Allen as Zita, Jermaine Smith as Gherardo, Levi Hernandez as Gianni Schicchi pretending to be Buoso Donati, Bianca Orsi as Gherardino, and Rob McGinness as Betto in 2021 Giacomo Puccini's Gianni Schicchi. Photo: Eric Woolsey.</figcaption>
+<figcaption>(l-r) Nathan Stark as Simone, Joshua Blue as Rinuccio, Schyler Vargas as Marco, Meghan Kasanders as Nella, Helen Zhibing Huang as La Ciesca, La'Shelle Q. Allen as Zita, Jermaine Smith as Gherardo, Levi Hernandez as Gianni Schicchi pretending to be Buoso Donati, Bianca Orsi as Gherardino, and Rob McGinness as Betto in Gianni Schicchi, Opera Theatre of St. Louis, 2021.. Photo: Eric Woolsey.</figcaption>
 
 </figure>
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318629/media/2021/09/OTSL_Schicchi_2_bagpp0.jpg){{% /md %}}
 
-<figcaption>Joshua Blue as Rinuccio and Elena Villalón as Lauretta in 2021 Giacomo Puccini's Gianni Schicchi, Opera Theatre of St. Louis. Photo: Eric Woolsey.</figcaption>
+<figcaption>Joshua Blue as Rinuccio and Elena Villalón as Lauretta in Gianni Schicchi, Opera Theatre of St. Louis. Photo: Eric Woolsey.</figcaption>
 
 </figure>
 
