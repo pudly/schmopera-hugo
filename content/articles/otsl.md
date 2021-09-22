@@ -81,7 +81,7 @@ New Works
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Calvin Griffin as Teacher 2/Grandma/Father, Monica Dewey as Single Mom/Mama/Mom, Mack Wolz as Teacher 1/Kadin/Mommy/Daughter and Melody Wilson as Kyra/Son/Son in Laura Karpman and Taura Stinson's On the Edge, Opera Theatre of St. Louis's New Works, Bold Voices Lab, 2021. Photo: Eric Woolsey.</figcaption>
 
 </figure>
 
