@@ -22,7 +22,7 @@ These days, small wins are worth a lot — and I count it as a small win that I 
 
 The Festival, which includes six performance events from OTSL's 2021 season, is [available to stream](https://opera-stl.org/streaming) through September 30, and I'm officially recommending it. It's a great mix of standards (_Gianni Schicchi_), near-standards (_La voix humaine_), rarities (_Highway 1, U.S.A._), and world premieres ([_New Works, Bold Voices Lab_](https://opera-stl.org/nwbv-lab)).
 
-If I'm to pick a favourite, I'm torn between the three actually fantastic new operas in the _New Works_ showcase, and the 1940s gem by William Grant Still, _Highway 1, U.S.A._ Both productions fit perfectly with OTSL's mission to champion new works and be a part of opera's future; I love when a great cause comes with great discoveries, too.
+If I'm to pick a favourite, I'm torn between the three actually fantastic new operas in the _New Works_ showcase, and the 1940s gem by William Grant Still, [_Highway 1, U.S.A._](https://opera-stl.org/highway) Both productions fit perfectly with OTSL's mission to champion new works and be a part of opera's future; I love when a great cause comes with great discoveries, too.
 
 _Highway 1, U.S.A._ draws us in with its excellent cast, headlined by baritone [Will Liverman](/spotlight-on-will-liverman/) and soprano [Nicole Cabell](/talking-with-singers-nicole-cabell/). Right away I was pulled into the story, which as far as opera plots go, starts off fairly conflict-free; usually when I'm pulled in, it's because of the artists. Liverman and Cabell show a natural warmth for each other as Bob and Mary; they play a married couple who love and respect each other, and Mary shows her love by setting high standards for Bob and his troubled brother, Nate (Christian Mark Gibbs).
 
@@ -32,7 +32,7 @@ The production by Ron Himes works for me. It's a fantastic show of 60s fashion, 
 
 This piece sits beautifully in the American operatic canon. It nods to its time, with the music leaning toward the sounds of Richard Rogers and George Gershwin, but boasts some fantastic ensemble singing and an earthy approach to musical storytelling. I'm so thrilled that OTSL put this up. It should go elsewhere, quickly.
 
-Among the more standard fare are Puccini's only comedy, _Gianni Schicchi_, and Poulenc's now-ubiquitous one-woman-opera, _La voix humaine_. 
+Among the more standard fare are Puccini's only comedy, [_Gianni Schicchi_](https://opera-stl.org/gianni), and Poulenc's now-ubiquitous one-woman-opera, [_La voix humaine_](https://opera-stl.org/voix). The _Schicchi_ 
 
 Schicchi
 
