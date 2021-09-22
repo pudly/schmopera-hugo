@@ -91,9 +91,9 @@ New Works
 
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632319021/media/2021/09/OTSL_Voix_1_onnsxw.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Patricia Racette as Elle in Poulenc's La voix humaine, Opera Theatre of St. Louis, 2021. Photo: Eric Woolsey.</figcaption>
 
 </figure>
 
