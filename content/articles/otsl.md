@@ -97,15 +97,15 @@ New Works
 
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632319094/media/2021/09/OTSL_H1_1_uuripb.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Nicole Cabell as Mary and Will Liverman as Bob in William Grant Still's Highway 1, U.S.A., Opera Theatre of St. Louis, 2021. Photo: Eric Woolsey.</figcaption>
 
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632319126/media/2021/09/OTSL_H1_2_mdmzyz.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>Angel Riley as Soprano Solo #2, Andrew René as Sheriff, Lindsey Reynolds as Soprano Solo #1, Terrence Chin-Loy as Tenor Solo, Tesia Kwarteng as Alto/Mezzo Solo, Geoffrey Peterson as Baritone Solo/Doctor, and Rehanna Thelwell as Aunt Lou in William Grant Still's Highway 1, U.S.A., Opera Theatre of St. Louis, 2021. Photo: Eric Woolsey.</figcaption>
 
 </figure>
 
