@@ -56,4 +56,5 @@ New Works
 * Moon Tea: awesome fantastical history, blending Queen Elizabeth II and Prince Philip, and the Apollo 11 astronauts, all meeting before the 1969 moon landing
 * costumes! 60s fashion show
 * muddy text, not always clear what everyone's saying
-* The Tongue & The Lash: about a fascinating historical moment in Black/American history, from a debate in 1965 "between cultural giants James Baldwin and William F. Buckley, Jr. at which they argued the motion: Is the American dream at the expense of the American Negro?"
+* The Tongue & The Lash: about a fascinating historical moment in Black/American history, from a [debate in 1965](https://www.theatlantic.com/entertainment/archive/2019/12/james-baldwin-william-f-buckley-debate/602695/) between James Baldwin and William F. Beckley, arguing the motion, "Is the American dream at the expense of the American Negro?"
+* Some of the best singing of the night, from Markel Reed (straight tone tendency I don't love, but a solid instrument), and particularly from Jonathan Johnson
