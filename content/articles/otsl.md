@@ -24,13 +24,15 @@ The Festival, which includes six performance events from OTSL's 2021 season, is 
 
 If I'm to pick a favourite, I'm torn between the three actually fantastic new operas in the _New Works_ showcase, and the 1940s gem by William Grant Still, _Highway 1, U.S.A._ Both productions fit perfectly with OTSL's mission to champion new works and be a part of opera's future; I love when a great cause comes with great discoveries, too.
 
-_Highway 1, U.S.A._ draws us in with its excellent cast, headlined by baritone [Will Liverman](/spotlight-on-will-liverman/) and soprano [Nicole Cabell](/talking-with-singers-nicole-cabell/). Right away I was pulled into the story, which as far as opera plots go, starts off fairly conflict-free; usually when I'm pulled in, it's because of the artists. Liverman and Cabell show a natural warmth for each other as Bob and Mary; they play a married couple who love and respect each other, and Mary shows her love by setting high standards for Bob and his troubled brother, Nate (Christian Mark Gibbs). 
+_Highway 1, U.S.A._ draws us in with its excellent cast, headlined by baritone [Will Liverman](/spotlight-on-will-liverman/) and soprano [Nicole Cabell](/talking-with-singers-nicole-cabell/). Right away I was pulled into the story, which as far as opera plots go, starts off fairly conflict-free; usually when I'm pulled in, it's because of the artists. Liverman and Cabell show a natural warmth for each other as Bob and Mary; they play a married couple who love and respect each other, and Mary shows her love by setting high standards for Bob and his troubled brother, Nate (Christian Mark Gibbs).
 
 Still's score is gorgeous, a mix of luscious sounds and matter-of-fact text setting. Liverman shines in his heroic top range, delivering crisp English text that sounds easy; Cabell shows a thousand colours with her voice, joking and pleading and loving with her soprano. And interestingly, there's a clear distinction between Liverman's baritone and Christian Mark Gibbs as Nate.
 
-The production works for me. It's a fantastic show of 60s fashion, with great hats and fun florals and bright shoes. And really, who doesn't love gazing over every detail of a busy kitchen, filled with wallpaper and cafe curtains?
+The production by Ron Himes works for me. It's a fantastic show of 60s fashion, with great hats and fun florals and bright shoes. And really, who doesn't love gazing over every detail of a busy kitchen, filled with wallpaper and cafe curtains? Just like Still's score, Himes stays out of the way of this story, letting it tumble forward with natural ease.
 
 This piece sits beautifully in the American operatic canon. It nods to its time, with the music leaning toward the sounds of Richard Rogers and George Gershwin, but boasts some fantastic ensemble singing and an earthy approach to musical storytelling. I'm so thrilled that OTSL put this up. It should go elsewhere, quickly.
+
+Among the more standard fare are Puccini's only comedy, _Gianni Schicchi_, and Poulenc's now-ubiquitous one-woman-opera, _La voix humaine_. 
 
 Schicchi
 
