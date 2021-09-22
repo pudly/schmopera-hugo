@@ -24,9 +24,11 @@ The Festival, which includes six performance events from OTSL's 2021 season, is 
 
 If I'm to pick a favourite, I'm torn between the three actually fantastic new operas in the _New Works_ showcase, and the 1940s gem by William Grant Still, _Highway 1, U.S.A._ Both productions fit perfectly with OTSL's mission to champion new works and be a part of opera's future; I love when a great cause comes with great discoveries, too.
 
-_Highway 1, U.S.A._ draws us in with its excellent cast, headlined by baritone [Will Liverman](/spotlight-on-will-liverman/) and soprano [Nicole Cabell](/talking-with-singers-nicole-cabell/). Right away I was pulled into the story, which as far as opera plots go, starts off fairly conflict-free; usually when I'm pulled in, it's because of the artists. Liverman and Cabell show a natural warmth for each other as Bob and Mary; they play a married couple who love and respect each other, and Mary shows her love by setting high standards for Bob and his brother, Nate (Christian Mark Gibbs). 
+_Highway 1, U.S.A._ draws us in with its excellent cast, headlined by baritone [Will Liverman](/spotlight-on-will-liverman/) and soprano [Nicole Cabell](/talking-with-singers-nicole-cabell/). Right away I was pulled into the story, which as far as opera plots go, starts off fairly conflict-free; usually when I'm pulled in, it's because of the artists. Liverman and Cabell show a natural warmth for each other as Bob and Mary; they play a married couple who love and respect each other, and Mary shows her love by setting high standards for Bob and his troubled brother, Nate (Christian Mark Gibbs). 
 
-Still's score is gorgeous, a mix of luscious sounds and matter-of-fact text setting. Liverman shines in his heroic baritone moments, 
+Still's score is gorgeous, a mix of luscious sounds and matter-of-fact text setting. Liverman shines in his heroic top range, delivering crisp English text that sounds easy; Cabell shows a thousand colours with her voice, joking and pleading and loving with her soprano. And interestingly, there's a clear distinction between Liverman's baritone and Christian Mark Gibbs as Nate; next to Liverman's warmth, Gibbs has an extra edge to his sound that 
+
+The production works for me. 
 
 Schicchi
 
