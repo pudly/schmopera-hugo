@@ -34,30 +34,7 @@ This piece sits beautifully in the American operatic canon. It nods to its time,
 
 Among the more standard fare are Puccini's only comedy, [_Gianni Schicchi_](https://opera-stl.org/gianni), and Poulenc's now-ubiquitous one-woman-opera, [_La voix humaine_](https://opera-stl.org/voix). The _Schicchi_, directed by Seán Curran, is everything you want in that show: excellent ensemble work and busy comedic scenes that border on campy, and show-stopping singing. Joshua Blue is a standout as Rinuccio; with the ringing colours in his voice, he's no doubt one to watch.
 
-The _Voix humaine_ is also sort of everything we want in Poulenc's opera, though it's arguably harder to pin down what a "traditional" _Voix humaine_ would look like. In my opinion, it certainly looks like Patricia Racette draped in silk, fretting into a vintage rotary phone, against a backdrop of crushed velvet, ornate fireplace mantels, and chaise lounges. I wasn't in love with the English translation, but Racette handles it well and she's a stunning actress. I found 
-
-Voix humaine
-
-* English translation is clunky, but Racette handles it well, i don’t need titles
-* Elle is bilingual, we imagine her French lover, her recent ensconcement in French culture, as his lover
-* Set in the time, full luxury and all, ornate phone handset, flowery mantel above fireplace, vanity, chaise lounges, velvet and shades of grey/blue/periwinkle
-* For some reason, this setting makes Elle less forgivable, her plight is less tragic - she’s rich, after all - maybe more frustrating, because she seems to have a lot in life, and right now it’s all boiling down to this one relationship
-* This is a solid, definitive, even, version of Voix humane - it doesn’t try to connect it to today in any clear way (link to Isaiah’s), but the timeless themes come out loud
-
-Highway 1
-
-* Cabell - sounds fantastic, not always clear in text
-* Will - great actor, engaging even when not singing
-* Cool opera, nice mix of luscious music and matter-of-fact text delivery
-* They have a natural warmth, love and respect for each other, she setting high standards for him
-* Will sounds really fantastic, gorgeous top, an easy middle and really clear text
-* Fantastic wallpaper, adorable cafe curtains, who doesn’t love staring at a stage kitchen?
-* Excellent floral prints, great hats, I’m loving the style details in everyone’s purchase, earrings
-* Tight, gorgeous ensemble singing in first scene
-* Curious to be so drawn in to an opera that starts so conflict-free
-* Gibbs is really solid, sets himself apart as a character with his voice, not easy to do with two baritones in an opera
-* weird ending, again a bit conflict-free for opera
-* this piece sits beautifully in the American canon, sharing space with musical theatre but definitely an opera - tells a sort of mundane story, a bit of violence, a low-key villain and a family's practical way of handling things
+The _Voix humaine_ is also sort of everything we want in Poulenc's opera, though it's arguably harder to pin down what a "traditional" _Voix humaine_ would look like. In my opinion, it certainly looks like Patricia Racette draped in silk, fretting into a vintage rotary phone, against a backdrop of crushed velvet, ornate fireplace mantels, and chaise lounges. I wasn't in love with the English translation, but Racette handles it well and she's a stunning actress. I've seen this opera several times and I'm always intrigued; maybe it was the luxurious setting, the obviously-rich woman obsessed with her French lover, but I found it hard to sympathise with Elle. In one sense, _La voix humaine_ is the perfect pandemic opera because it deals with isolation and the limitations of technology (I highly recommend Isaiah Bell's treatment for City Opera Vancouver). But on the other hand, when the world is in a health crisis, it's hard to spare the pity for a woman who's feeling some very foreseeable consequences of adultery.
 
 New Works
 
