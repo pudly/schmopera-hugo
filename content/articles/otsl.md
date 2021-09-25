@@ -26,11 +26,23 @@ If I'm to pick a favourite, I'm torn between the three actually fantastic new op
 
 _Highway 1, U.S.A._ draws us in with its excellent cast, headlined by baritone [Will Liverman](/spotlight-on-will-liverman/) and soprano [Nicole Cabell](/talking-with-singers-nicole-cabell/). Right away I was pulled into the story, which as far as opera plots go, starts off fairly conflict-free; usually when I'm pulled in, it's because of the artists. Liverman and Cabell show a natural warmth for each other as Bob and Mary; they play a married couple who love and respect each other, and Mary shows her love by setting high standards for Bob and his troubled brother, Nate (Christian Mark Gibbs).
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632319094/media/2021/09/OTSL_H1_1_uuripb.jpg){{% /md %}}
+
+<figcaption>Nicole Cabell as Mary and Will Liverman as Bob in William Grant Still's Highway 1, U.S.A., Opera Theatre of St. Louis, 2021. Photo: Eric Woolsey.</figcaption>
+
+</figure>
+
 Still's score is gorgeous, a mix of luscious sounds and matter-of-fact text setting. Liverman shines in his heroic top range, delivering crisp English text that sounds easy; Cabell shows a thousand colours with her voice, joking and pleading and loving with her soprano. And interestingly, there's a clear distinction between Liverman's baritone and Christian Mark Gibbs as Nate.
 
 The production by Ron Himes works for me. It's a fantastic show of 60s fashion, with great hats and fun florals and bright shoes. And really, who doesn't love gazing over every detail of a busy kitchen, filled with wallpaper and cafe curtains? Just like Still's score, Himes stays out of the way of this story, letting it tumble forward with natural ease.
 
-This piece sits beautifully in the American operatic canon. It nods to its time, with the music leaning toward the sounds of Richard Rogers and George Gershwin, but boasts some fantastic ensemble singing and an earthy approach to musical storytelling. I'm so thrilled that OTSL put this up. It should go elsewhere, quickly.
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632319126/media/2021/09/OTSL_H1_2_mdmzyz.jpg){{% /md %}}
+
+<figcaption>Angel Riley as Soprano Solo #2, Andrew René as Sheriff, Lindsey Reynolds as Soprano Solo #1, Terrence Chin-Loy as Tenor Solo, Tesia Kwarteng as Alto/Mezzo Solo, Geoffrey Peterson as Baritone Solo/Doctor, and Rehanna Thelwell as Aunt Lou in William Grant Still's Highway 1, U.S.A., Opera Theatre of St. Louis, 2021. Photo: Eric Woolsey.</figcaption>
+
+</figure>
+
+_Highway 1, U.S.A._ sits beautifully in the American operatic canon. It nods to its time, with the music leaning toward the sounds of Richard Rogers and George Gershwin, but boasts some fantastic ensemble singing and an earthy approach to musical storytelling. I'm so thrilled that OTSL put this up. It should go elsewhere, quickly.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318572/media/2021/09/OTSL_Schicchi_1_w70oke.jpg){{% /md %}}
 
@@ -84,18 +96,6 @@ New Works
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318927/media/2021/09/OTSL_NWBV_3_jlc6dt.jpg){{% /md %}}
 
 <figcaption>Monica Dewey as Queen Elizabeth and Jonathan Johnson as Prince Philip in Steven Mackey and Rinde Eckert's Moon Tea, Opera Theatre of St. Louis's New Works, Bold Voices Lab, 2021. Photo: Eric Woolsey</figcaption>
-
-</figure>
-
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632319094/media/2021/09/OTSL_H1_1_uuripb.jpg){{% /md %}}
-
-<figcaption>Nicole Cabell as Mary and Will Liverman as Bob in William Grant Still's Highway 1, U.S.A., Opera Theatre of St. Louis, 2021. Photo: Eric Woolsey.</figcaption>
-
-</figure>
-
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632319126/media/2021/09/OTSL_H1_2_mdmzyz.jpg){{% /md %}}
-
-<figcaption>Angel Riley as Soprano Solo #2, Andrew René as Sheriff, Lindsey Reynolds as Soprano Solo #1, Terrence Chin-Loy as Tenor Solo, Tesia Kwarteng as Alto/Mezzo Solo, Geoffrey Peterson as Baritone Solo/Doctor, and Rehanna Thelwell as Aunt Lou in William Grant Still's Highway 1, U.S.A., Opera Theatre of St. Louis, 2021. Photo: Eric Woolsey.</figcaption>
 
 </figure>
 
