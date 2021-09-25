@@ -32,9 +32,29 @@ The production by Ron Himes works for me. It's a fantastic show of 60s fashion, 
 
 This piece sits beautifully in the American operatic canon. It nods to its time, with the music leaning toward the sounds of Richard Rogers and George Gershwin, but boasts some fantastic ensemble singing and an earthy approach to musical storytelling. I'm so thrilled that OTSL put this up. It should go elsewhere, quickly.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318572/media/2021/09/OTSL_Schicchi_1_w70oke.jpg){{% /md %}}
+
+<figcaption>(l-r) Nathan Stark as Simone, Joshua Blue as Rinuccio, Schyler Vargas as Marco, Meghan Kasanders as Nella, Helen Zhibing Huang as La Ciesca, La'Shelle Q. Allen as Zita, Jermaine Smith as Gherardo, Levi Hernandez as Gianni Schicchi pretending to be Buoso Donati, Bianca Orsi as Gherardino, and Rob McGinness as Betto in Gianni Schicchi, Opera Theatre of St. Louis, 2021.. Photo: Eric Woolsey.</figcaption>
+
+</figure>
+
 Among the more standard fare are Puccini's only comedy, [_Gianni Schicchi_](https://opera-stl.org/gianni), and Poulenc's now-ubiquitous one-woman-opera, [_La voix humaine_](https://opera-stl.org/voix). The _Schicchi_, directed by Seán Curran, is everything you want in that show: excellent ensemble work and busy comedic scenes that border on campy, and show-stopping singing. Joshua Blue is a standout as Rinuccio; with the ringing colours in his voice, he's no doubt one to watch.
 
-The _Voix humaine_ is also sort of everything we want in Poulenc's opera, though it's arguably harder to pin down what a "traditional" _Voix humaine_ would look like. In my opinion, it certainly looks like Patricia Racette draped in silk, fretting into a vintage rotary phone, against a backdrop of crushed velvet, ornate fireplace mantels, and chaise lounges. I wasn't in love with the English translation, but Racette handles it well and she's a stunning actress. I've seen this opera several times and I'm always intrigued; maybe it was the luxurious setting, the obviously-rich woman obsessed with her French lover, but I found it hard to sympathise with Elle. In one sense, _La voix humaine_ is the perfect pandemic opera because it deals with isolation and the limitations of technology (I highly recommend Isaiah Bell's treatment for City Opera Vancouver). But on the other hand, when the world is in a health crisis, it's hard to spare the pity for a woman who's feeling some very foreseeable consequences of adultery.
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318629/media/2021/09/OTSL_Schicchi_2_bagpp0.jpg){{% /md %}}
+
+<figcaption>Joshua Blue as Rinuccio and Elena Villalón as Lauretta in Gianni Schicchi, Opera Theatre of St. Louis. Photo: Eric Woolsey.</figcaption>
+
+</figure>
+
+The _Voix humaine_ is also sort of everything we want in Poulenc's opera, though it's arguably harder to pin down what a "traditional" _Voix humaine_ would look like. In my opinion, it certainly looks like Patricia Racette draped in silk, fretting into a vintage rotary phone, against a backdrop of crushed velvet, ornate fireplace mantels, and chaise lounges. I wasn't in love with the English translation, but Racette handles it well and she's a stunning actress. 
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632319021/media/2021/09/OTSL_Voix_1_onnsxw.jpg){{% /md %}}
+
+<figcaption>Patricia Racette as Elle in Poulenc's La voix humaine, Opera Theatre of St. Louis, 2021. Photo: Eric Woolsey.</figcaption>
+
+</figure>
+
+I've seen this opera several times and I'm always intrigued; maybe it was the luxurious setting, the obviously-rich woman obsessed with her French lover, but I found it hard to sympathise with Elle. In one sense, _La voix humaine_ is the perfect pandemic opera because it deals with isolation and the limitations of technology (I highly recommend Isaiah Bell's treatment for City Opera Vancouver). But on the other hand, when the world is in a health crisis, it's hard to spare the pity for a woman who's feeling some very foreseeable consequences of adultery.
 
 New Works
 
@@ -48,18 +68,6 @@ New Works
 * Some of the best singing of the night, from Markel Reed (straight tone tendency I don't love, but a solid instrument), and particularly from Jonathan Johnson
 * fantastic transition into blues for Baldwin's retort, nod to reality of a culture that is in the USA, undeniable and unique, like a big pressing of a point
 * Johnson's tenor is striking and impressive, feels relentless and colonialistic in this context, really interesting use of Western European operatic sound
-
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318572/media/2021/09/OTSL_Schicchi_1_w70oke.jpg){{% /md %}}
-
-<figcaption>(l-r) Nathan Stark as Simone, Joshua Blue as Rinuccio, Schyler Vargas as Marco, Meghan Kasanders as Nella, Helen Zhibing Huang as La Ciesca, La'Shelle Q. Allen as Zita, Jermaine Smith as Gherardo, Levi Hernandez as Gianni Schicchi pretending to be Buoso Donati, Bianca Orsi as Gherardino, and Rob McGinness as Betto in Gianni Schicchi, Opera Theatre of St. Louis, 2021.. Photo: Eric Woolsey.</figcaption>
-
-</figure>
-
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318629/media/2021/09/OTSL_Schicchi_2_bagpp0.jpg){{% /md %}}
-
-<figcaption>Joshua Blue as Rinuccio and Elena Villalón as Lauretta in Gianni Schicchi, Opera Theatre of St. Louis. Photo: Eric Woolsey.</figcaption>
-
-</figure>
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318671/media/2021/09/OTSL_NewWorks_1_pnuhx7.jpg){{% /md %}}
 
@@ -76,12 +84,6 @@ New Works
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318927/media/2021/09/OTSL_NWBV_3_jlc6dt.jpg){{% /md %}}
 
 <figcaption>Monica Dewey as Queen Elizabeth and Jonathan Johnson as Prince Philip in Steven Mackey and Rinde Eckert's Moon Tea, Opera Theatre of St. Louis's New Works, Bold Voices Lab, 2021. Photo: Eric Woolsey</figcaption>
-
-</figure>
-
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632319021/media/2021/09/OTSL_Voix_1_onnsxw.jpg){{% /md %}}
-
-<figcaption>Patricia Racette as Elle in Poulenc's La voix humaine, Opera Theatre of St. Louis, 2021. Photo: Eric Woolsey.</figcaption>
 
 </figure>
 
