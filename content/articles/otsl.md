@@ -32,14 +32,9 @@ The production by Ron Himes works for me. It's a fantastic show of 60s fashion, 
 
 This piece sits beautifully in the American operatic canon. It nods to its time, with the music leaning toward the sounds of Richard Rogers and George Gershwin, but boasts some fantastic ensemble singing and an earthy approach to musical storytelling. I'm so thrilled that OTSL put this up. It should go elsewhere, quickly.
 
-Among the more standard fare are Puccini's only comedy, [_Gianni Schicchi_](https://opera-stl.org/gianni), and Poulenc's now-ubiquitous one-woman-opera, [_La voix humaine_](https://opera-stl.org/voix). The _Schicchi_ is everything you want in that show: excellent ensemble work and busy comedic scenes that border on campy, and show-stopping singing. 
+Among the more standard fare are Puccini's only comedy, [_Gianni Schicchi_](https://opera-stl.org/gianni), and Poulenc's now-ubiquitous one-woman-opera, [_La voix humaine_](https://opera-stl.org/voix). The _Schicchi_, directed by Seán Curran, is everything you want in that show: excellent ensemble work and busy comedic scenes that border on campy, and show-stopping singing. Joshua Blue is a standout as Rinuccio; with the ringing colours in his voice, he's no doubt one to watch.
 
-Schicchi
-
-* everything you want in a Schicchi, great ensemble work, busy scenes, characters who become your secret favourites by the end of the show
-* great singing, particularly out of Rinuccio and Lauretta - he's definitely one to watch, brings warmth and realness to the story
-* hokey gags but we love them
-* 
+The _Voix humaine_ is also sort of everything we want in Poulenc's opera, though it's arguably harder to pin down what a "traditional" _Voix humaine_ would look like. In my opinion, it certainly looks like Patricia Racette draped in silk, fretting into a vintage rotary phone, against a backdrop of crushed velvet, ornate fireplace mantels, and chaise lounges. I wasn't in love with the English translation, but Racette handles it well and she's a stunning actress. I found 
 
 Voix humaine
 
