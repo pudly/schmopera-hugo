@@ -5,12 +5,12 @@ date = 2021-09-21T04:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "Opera Theatre of St. Louis's 2021 Outdoor Festival is available to stream through September 30."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1632319222/media/2021/09/sqOTSL_hfj1m7.jpg"
 primary_image_credit = "Jarrett Porter as Neil Armstrong in Steven Mackey and Rinde Eckert's Moon Tea, Opera Theatre of St. Louis's New Works, Bold Voices Lab, 2021. Photo: Eric Woolsey."
-related_articles = []
-related_companies = []
+related_articles = ["articles/happening-now-otsl-s-digital-2021.md"]
+related_companies = ["scene/companies/opera-theatre-of-st-louis.md"]
 related_people = []
 short_description = "short"
 slug = "otsl"
@@ -70,21 +70,13 @@ I've seen this opera several times and I'm always intrigued; maybe it was the lu
 
 It was OTSL's [_New Works, Bold Voices Lab_](https://opera-stl.org/nwbv-lab) that most stayed with me after viewing. Three short world premieres were unveiled, and it was one of those rare moments in new-opera-land where all the pieces are high-quality, attention-grabbing works. _On the Edge_, by Laura Carpman and Taura Stinson, is a snapshot of life at home during a pandemic, a single mom stretched way too thin, flanked by three children going through the motions of remote learning. Monica Dewey shows off stellar vocal chops, and Carpman's score achieves an astonishing shift from a picture of chaos to commentary on the importance of love and solidarity. 
 
-Steven Mackey and Rinde Eckert's _Moon Tea_ is an awesome bit of fantastical history, reimagining a meeting between the British Royals with the astronauts of Apollo 11. Again, Dewey shines here as Queen Elizabeth II. 
-
-And Damien Sneed and Karen Chilton's _The Tongue & The Lash_ is a stunning look at America's history with racism, an operatic setting of the notorious [1965 debate](https://www.theatlantic.com/entertainment/archive/2019/12/james-baldwin-william-f-buckley-debate/602695/) between James Baldwin and William F. Buckley which argued the motion that the American is at the expense of black Americans. _The Tongue & The Lash_ featured some of the night's best singing. Markel Reed as Baldwin orates with a steely baritone that comes with some bite; tenor Jonathan Johnson exudes an easy power that's slightly unnerving — even a bit colonialist — in his portrayal of Buckley, fan of racial segregation. Sneed's score throws in a brilliant moment, sliding swiftly into the blues in a musical nod to the reality of Black American culture, the undeniably present group of people who were so dehumanized.
-
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318671/media/2021/09/OTSL_NewWorks_1_pnuhx7.jpg){{% /md %}}
-
-<figcaption>Markel Reed as James Baldwin and Jonathan Johnson as William F. Buckley Jr. in Damien Sneed and Karen Chilton’s The Tongue & The Lash, Opera Theatre of St. Louis's New Works, Bold Voices Lab, 2021. Photo: Eric Woolsey.</figcaption>
-
-</figure>
-
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318892/media/2021/09/OTSL_NWBV_2_fxyqqd.jpg){{% /md %}}
 
 <figcaption>Calvin Griffin as Teacher 2/Grandma/Father, Monica Dewey as Single Mom/Mama/Mom, Mack Wolz as Teacher 1/Kadin/Mommy/Daughter and Melody Wilson as Kyra/Son/Son in Laura Karpman and Taura Stinson's On the Edge, Opera Theatre of St. Louis's New Works, Bold Voices Lab, 2021. Photo: Eric Woolsey.</figcaption>
 
 </figure>
+
+Steven Mackey and Rinde Eckert's _Moon Tea_ is an awesome bit of fantastical history, reimagining a meeting between the British Royals with the astronauts of Apollo 11. Again, Dewey shines here as Queen Elizabeth II. 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318927/media/2021/09/OTSL_NWBV_3_jlc6dt.jpg){{% /md %}}
 
@@ -92,14 +84,10 @@ And Damien Sneed and Karen Chilton's _The Tongue & The Lash_ is a stunning look 
 
 </figure>
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+And Damien Sneed and Karen Chilton's _The Tongue & The Lash_ is a stunning look at America's history with racism, an operatic setting of the notorious [1965 debate](https://www.theatlantic.com/entertainment/archive/2019/12/james-baldwin-william-f-buckley-debate/602695/) between James Baldwin and William F. Buckley which argued the motion that the American is at the expense of black Americans. _The Tongue & The Lash_ featured some of the night's best singing. Markel Reed as Baldwin orates with a steely baritone that comes with some bite; tenor Jonathan Johnson exudes an easy power that's slightly unnerving — even a bit colonialist — in his portrayal of Buckley, fan of racial segregation. Sneed's score throws in a brilliant moment, sliding swiftly into the blues in a musical nod to the reality of Black American culture, the undeniably present group of people who were so dehumanized.
 
-<figcaption></figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318671/media/2021/09/OTSL_NewWorks_1_pnuhx7.jpg){{% /md %}}
 
-</figure>
-
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption></figcaption>
+<figcaption>Markel Reed as James Baldwin and Jonathan Johnson as William F. Buckley Jr. in Damien Sneed and Karen Chilton’s The Tongue & The Lash, Opera Theatre of St. Louis's New Works, Bold Voices Lab, 2021. Photo: Eric Woolsey.</figcaption>
 
 </figure>
