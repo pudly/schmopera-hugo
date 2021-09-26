@@ -12,9 +12,9 @@ primary_image_credit = "Jarrett Porter as Neil Armstrong in Steven Mackey and Ri
 related_articles = ["articles/happening-now-otsl-s-digital-2021.md"]
 related_companies = ["scene/companies/opera-theatre-of-st-louis.md"]
 related_people = []
-short_description = "short"
-slug = "otsl"
-title = "OTSL"
+short_description = "The Tongue & The Lash featured some of the night's best singing. Markel Reed as Baldwin orates with a steely baritone that comes with some bite; tenor Jonathan Johnson exudes an easy power that's slightly unnerving — even a bit colonialist — in his portrayal of Buckley, fan of racial segregation."
+slug = "before-its-gone-gems-out-of-opera-theatre-of-st-louis"
+title = "Before it's gone: gems out of Opera Theatre of St. Louis"
 youtube_url = ""
 
 +++
