@@ -58,7 +58,7 @@ Among the more standard fare are Puccini's only comedy, [_Gianni Schicchi_](http
 
 </figure>
 
-The _Voix humaine_ is also sort of everything we want in Poulenc's opera, though it's arguably harder to pin down what a "traditional" _Voix humaine_ would look like. In my opinion, it certainly looks like Patricia Racette draped in silk, fretting into a vintage rotary phone, against a backdrop of crushed velvet, ornate fireplace mantels, and chaise lounges. I wasn't in love with the English translation, but Racette handles it well and she's a stunning actress. 
+The _Voix humaine_ is also sort of everything we want in Poulenc's opera, though it's arguably harder to pin down what a "traditional" _Voix humaine_ would look like. In my opinion, it certainly looks like Patricia Racette draped in silk, fretting into a vintage rotary phone, against a backdrop of crushed velvet, ornate fireplace mantels, and chaise lounges. I wasn't in love with the English translation, but Racette handles it well and she's a stunning actress.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632319021/media/2021/09/OTSL_Voix_1_onnsxw.jpg){{% /md %}}
 
@@ -67,6 +67,8 @@ The _Voix humaine_ is also sort of everything we want in Poulenc's opera, though
 </figure>
 
 I've seen this opera several times and I'm always intrigued; maybe it was the luxurious setting, the obviously-rich woman obsessed with her French lover, but I found it hard to sympathise with Elle. In one sense, _La voix humaine_ is the perfect pandemic opera because it deals with isolation and the limitations of technology (I highly recommend Isaiah Bell's treatment for City Opera Vancouver). But on the other hand, when the world is in a health crisis, it's hard to spare the pity for a woman who's feeling some very foreseeable consequences of adultery.
+
+It was OTSL's [_New Works, Bold Voices Lab_](https://opera-stl.org/nwbv-lab) that most stayed with me after viewing. Three short world premieres were unveiled, and it was one of those rare moments in new-opera-land where all the pieces are high-quality, attention-grabbing works. _On the Edge_ is a snapshot of life at home during a pandemic, a single mom stretched way too thin
 
 New Works
 
