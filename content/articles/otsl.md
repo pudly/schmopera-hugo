@@ -68,20 +68,11 @@ The _Voix humaine_ is also sort of everything we want in Poulenc's opera, though
 
 I've seen this opera several times and I'm always intrigued; maybe it was the luxurious setting, the obviously-rich woman obsessed with her French lover, but I found it hard to sympathise with Elle. In one sense, _La voix humaine_ is the perfect pandemic opera because it deals with isolation and the limitations of technology (I highly recommend Isaiah Bell's treatment for City Opera Vancouver). But on the other hand, when the world is in a health crisis, it's hard to spare the pity for a woman who's feeling some very foreseeable consequences of adultery.
 
-It was OTSL's [_New Works, Bold Voices Lab_](https://opera-stl.org/nwbv-lab) that most stayed with me after viewing. Three short world premieres were unveiled, and it was one of those rare moments in new-opera-land where all the pieces are high-quality, attention-grabbing works. _On the Edge_ is a snapshot of life at home during a pandemic, a single mom stretched way too thin
+It was OTSL's [_New Works, Bold Voices Lab_](https://opera-stl.org/nwbv-lab) that most stayed with me after viewing. Three short world premieres were unveiled, and it was one of those rare moments in new-opera-land where all the pieces are high-quality, attention-grabbing works. _On the Edge_, by Laura Carpman and Taura Stinson, is a snapshot of life at home during a pandemic, a single mom stretched way too thin, flanked by three children going through the motions of remote learning. Monica Dewey shows off stellar vocal chops, and Carpman's score achieves an astonishing shift from a picture of chaos to commentary on the importance of love and solidarity. 
 
-New Works
+Steven Mackey and Rinde Eckert's _Moon Tea_ is an awesome bit of fantastical history, reimagining a meeting between the British Royals with the astronauts of Apollo 11. Again, Dewey shines here as Queen Elizabeth II. 
 
-* On the Edge: single mom at home with three kids during pandemic, virtual learning, chaotic, noisy, oh man I feel for her
-* pretty awesome vocal demands, soprano heights and jazzy chest voice
-* when chaos exhausts itself, it gathers together into gorgeous ensemble singing with the whole family, reminding ourselves that we're all trying to hold together and we all miss our lives, and we're a family unit goddammit
-* Moon Tea: awesome fantastical history, blending Queen Elizabeth II and Prince Philip, and the Apollo 11 astronauts, all meeting before the 1969 moon landing
-* costumes! 60s fashion show
-* muddy text, not always clear what everyone's saying
-* The Tongue & The Lash: about a fascinating historical moment in Black/American history, from a [debate in 1965](https://www.theatlantic.com/entertainment/archive/2019/12/james-baldwin-william-f-buckley-debate/602695/) between James Baldwin and William F. Beckley, arguing the motion, "Is the American dream at the expense of the American Negro?"
-* Some of the best singing of the night, from Markel Reed (straight tone tendency I don't love, but a solid instrument), and particularly from Jonathan Johnson
-* fantastic transition into blues for Baldwin's retort, nod to reality of a culture that is in the USA, undeniable and unique, like a big pressing of a point
-* Johnson's tenor is striking and impressive, feels relentless and colonialistic in this context, really interesting use of Western European operatic sound
+And Damien Sneed and Karen Chilton's _The Tongue & The Lash_ is a stunning look at America's history with racism, an operatic setting of the notorious [1965 debate](https://www.theatlantic.com/entertainment/archive/2019/12/james-baldwin-william-f-buckley-debate/602695/) between James Baldwin and William F. Buckley which argued the motion that the American is at the expense of black Americans. _The Tongue & The Lash_ featured some of the night's best singing. Markel Reed as Baldwin orates with a steely baritone that comes with some bite; tenor Jonathan Johnson exudes an easy power that's slightly unnerving — even a bit colonialist — in his portrayal of Buckley, fan of racial segregation. Sneed's score throws in a brilliant moment, sliding swiftly into the blues in a musical nod to the reality of Black American culture, the undeniably present group of people who were so dehumanized.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318671/media/2021/09/OTSL_NewWorks_1_pnuhx7.jpg){{% /md %}}
 
