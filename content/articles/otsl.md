@@ -1,9 +1,8 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Review"
-date = 2021-09-21T04:00:00Z
+date = 2021-09-27T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "Opera Theatre of St. Louis's 2021 Outdoor Festival is available to stream through September 30."
 preamble = ""
@@ -11,7 +10,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1632319222/m
 primary_image_credit = "Jarrett Porter as Neil Armstrong in Steven Mackey and Rinde Eckert's Moon Tea, Opera Theatre of St. Louis's New Works, Bold Voices Lab, 2021. Photo: Eric Woolsey."
 related_articles = ["articles/happening-now-otsl-s-digital-2021.md"]
 related_companies = ["scene/companies/opera-theatre-of-st-louis.md"]
-related_people = []
+related_people = ["scene/people/joshua-blue.md", "scene/people/patricia-racette.md", "scene/people/monica-dewey.md", "scene/people/markel-reed.md", "scene/people/nicole-cabell.md", "scene/people/will-liverman.md"]
 short_description = "The Tongue & The Lash featured some of the night's best singing. Markel Reed as Baldwin orates with a steely baritone that comes with some bite; tenor Jonathan Johnson exudes an easy power that's slightly unnerving — even a bit colonialist — in his portrayal of Buckley, fan of racial segregation."
 slug = "before-its-gone-gems-out-of-opera-theatre-of-st-louis"
 title = "Before it's gone: gems out of Opera Theatre of St. Louis"
@@ -50,7 +49,7 @@ _Highway 1, U.S.A._ sits beautifully in the American operatic canon. It nods to 
 
 </figure>
 
-Among the more standard fare are Puccini's only comedy, [_Gianni Schicchi_](https://opera-stl.org/gianni), and Poulenc's now-ubiquitous one-woman-opera, [_La voix humaine_](https://opera-stl.org/voix). The _Schicchi_, directed by Seán Curran, is everything you want in that show: excellent ensemble work and busy comedic scenes that border on campy, and show-stopping singing. Joshua Blue is a standout as Rinuccio; with the ringing colours in his voice, he's no doubt one to watch.
+Among the more standard fare are Puccini's only comedy, [_Gianni Schicchi_](https://opera-stl.org/gianni), and Poulenc's now-ubiquitous one-woman-opera, [_La voix humaine_](https://opera-stl.org/voix). The _Schicchi_, directed by Seán Curran, is everything you want in that show: excellent ensemble work and busy comedic scenes that border on campy, and show-stopping singing. [Joshua Blue](/scene/people/joshua-blue/) is a standout as Rinuccio; with the ringing colours in his voice, he's no doubt one to watch.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318629/media/2021/09/OTSL_Schicchi_2_bagpp0.jpg){{% /md %}}
 
@@ -66,9 +65,9 @@ The _Voix humaine_ is also sort of everything we want in Poulenc's opera, though
 
 </figure>
 
-I've seen this opera several times and I'm always intrigued; maybe it was the luxurious setting, the obviously-rich woman obsessed with her French lover, but I found it hard to sympathise with Elle. In one sense, _La voix humaine_ is the perfect pandemic opera because it deals with isolation and the limitations of technology (I highly recommend Isaiah Bell's treatment for City Opera Vancouver). But on the other hand, when the world is in a health crisis, it's hard to spare the pity for a woman who's feeling some very foreseeable consequences of adultery.
+I've seen this opera several times and I'm always intrigued; maybe it was the luxurious setting, the obviously-rich woman obsessed with her French lover, but I found it hard to sympathise with Elle. In one sense, _La voix humaine_ is the perfect pandemic opera because it deals with isolation and the limitations of technology (I highly recommend [Isaiah Bell's treatment for City Opera Vancouver](https://youtu.be/--Fqi-yCesQ)). But on the other hand, when the world is in a health crisis, it's hard to spare the pity for a woman who's feeling some very foreseeable consequences of adultery.
 
-It was OTSL's [_New Works, Bold Voices Lab_](https://opera-stl.org/nwbv-lab) that most stayed with me after viewing. Three short world premieres were unveiled, and it was one of those rare moments in new-opera-land where all the pieces are high-quality, attention-grabbing works. _On the Edge_, by Laura Carpman and Taura Stinson, is a snapshot of life at home during a pandemic, a single mom stretched way too thin, flanked by three children going through the motions of remote learning. Monica Dewey shows off stellar vocal chops, and Carpman's score achieves an astonishing shift from a picture of chaos to commentary on the importance of love and solidarity. 
+It was OTSL's [_New Works, Bold Voices Lab_](https://opera-stl.org/nwbv-lab) that most stayed with me after viewing. Three short world premieres were unveiled, and it was one of those rare moments in new-opera-land where all the pieces are high-quality, attention-grabbing works. _On the Edge_, by Laura Carpman and Taura Stinson, is a snapshot of life at home during a pandemic, a single mom stretched way too thin, flanked by three children going through the motions of remote learning. [Monica Dewey](/scene/people/monica-dewey/) shows off stellar vocal chops, and Carpman's score achieves an astonishing shift from a picture of chaos to commentary on the importance of love and solidarity.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318892/media/2021/09/OTSL_NWBV_2_fxyqqd.jpg){{% /md %}}
 
@@ -76,7 +75,7 @@ It was OTSL's [_New Works, Bold Voices Lab_](https://opera-stl.org/nwbv-lab) tha
 
 </figure>
 
-Steven Mackey and Rinde Eckert's _Moon Tea_ is an awesome bit of fantastical history, reimagining a meeting between the British Royals with the astronauts of Apollo 11. Again, Dewey shines here as Queen Elizabeth II. 
+Steven Mackey and Rinde Eckert's _Moon Tea_ is an awesome bit of fantastical history, reimagining a meeting between the British Royals with the astronauts of Apollo 11. Again, Dewey shines here as Queen Elizabeth II.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318927/media/2021/09/OTSL_NWBV_3_jlc6dt.jpg){{% /md %}}
 
@@ -84,7 +83,7 @@ Steven Mackey and Rinde Eckert's _Moon Tea_ is an awesome bit of fantastical his
 
 </figure>
 
-And Damien Sneed and Karen Chilton's _The Tongue & The Lash_ is a stunning look at America's history with racism, an operatic setting of the notorious [1965 debate](https://www.theatlantic.com/entertainment/archive/2019/12/james-baldwin-william-f-buckley-debate/602695/) between James Baldwin and William F. Buckley which argued the motion that the American is at the expense of black Americans. _The Tongue & The Lash_ featured some of the night's best singing. Markel Reed as Baldwin orates with a steely baritone that comes with some bite; tenor Jonathan Johnson exudes an easy power that's slightly unnerving — even a bit colonialist — in his portrayal of Buckley, fan of racial segregation. Sneed's score throws in a brilliant moment, sliding swiftly into the blues in a musical nod to the reality of Black American culture, the undeniably present group of people who were so dehumanized.
+And Damien Sneed and Karen Chilton's _The Tongue & The Lash_ is a stunning look at America's history with racism, an operatic setting of the notorious [1965 debate](https://www.theatlantic.com/entertainment/archive/2019/12/james-baldwin-william-f-buckley-debate/602695/) between James Baldwin and William F. Buckley which argued the motion that the American is at the expense of black Americans. _The Tongue & The Lash_ featured some of the night's best singing. [Markel Reed](/scene/people/markel-reed/) as Baldwin orates with a steely baritone that comes with some bite; tenor [Jonathan Johnson](/scene/people/jonathan-johnson/) exudes an easy power that's slightly unnerving — even a bit colonialist — in his portrayal of Buckley, fan of racial segregation. Sneed's score throws in a brilliant moment, sliding swiftly into the blues in a musical nod to the reality of Black American culture, the undeniably present group of people who were so dehumanized.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318671/media/2021/09/OTSL_NewWorks_1_pnuhx7.jpg){{% /md %}}
 
