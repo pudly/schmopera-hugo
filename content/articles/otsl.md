@@ -11,7 +11,7 @@ primary_image_credit = "Jarrett Porter as Neil Armstrong in Steven Mackey and Ri
 related_articles = ["articles/happening-now-otsl-s-digital-2021.md"]
 related_companies = ["scene/companies/opera-theatre-of-st-louis.md"]
 related_people = ["scene/people/joshua-blue.md", "scene/people/patricia-racette.md", "scene/people/monica-dewey.md", "scene/people/markel-reed.md", "scene/people/nicole-cabell.md", "scene/people/will-liverman.md"]
-short_description = "The Tongue & The Lash featured some of the night's best singing. Markel Reed as Baldwin orates with a steely baritone that comes with some bite; tenor Jonathan Johnson exudes an easy power that's slightly unnerving — even a bit colonialist — in his portrayal of Buckley, fan of racial segregation."
+short_description = "The Tongue & The Lash features some of the night's best singing. Markel Reed as Baldwin orates with a steely baritone that comes with some bite; tenor Jonathan Johnson exudes an easy power that's slightly unnerving — even a bit colonialist — in his portrayal of Buckley, fan of racial segregation."
 slug = "before-its-gone-gems-out-of-opera-theatre-of-st-louis"
 title = "Before it's gone: gems out of Opera Theatre of St. Louis"
 youtube_url = ""
@@ -83,7 +83,7 @@ Steven Mackey and Rinde Eckert's _Moon Tea_ is an awesome bit of fantastical his
 
 </figure>
 
-And Damien Sneed and Karen Chilton's _The Tongue & The Lash_ is a stunning look at America's history with racism, an operatic setting of the notorious [1965 debate](https://www.theatlantic.com/entertainment/archive/2019/12/james-baldwin-william-f-buckley-debate/602695/) between James Baldwin and William F. Buckley which argued the motion that the American is at the expense of black Americans. _The Tongue & The Lash_ featured some of the night's best singing. [Markel Reed](/scene/people/markel-reed/) as Baldwin orates with a steely baritone that comes with some bite; tenor [Jonathan Johnson](/scene/people/jonathan-johnson/) exudes an easy power that's slightly unnerving — even a bit colonialist — in his portrayal of Buckley, fan of racial segregation. Sneed's score throws in a brilliant moment, sliding swiftly into the blues in a musical nod to the reality of Black American culture, the undeniably present group of people who were so dehumanized.
+And Damien Sneed and Karen Chilton's _The Tongue & The Lash_ is a stunning look at America's history with racism, an operatic setting of the notorious [1965 debate](https://www.theatlantic.com/entertainment/archive/2019/12/james-baldwin-william-f-buckley-debate/602695/) between James Baldwin and William F. Buckley which argued the motion that the American is at the expense of black Americans. _The Tongue & The Lash_ features some of the night's best singing. [Markel Reed](/scene/people/markel-reed/) as Baldwin orates with a steely baritone that comes with some bite; tenor [Jonathan Johnson](/scene/people/jonathan-johnson/) exudes an easy power that's slightly unnerving — even a bit colonialist — in his portrayal of Buckley, fan of racial segregation. Sneed's score throws in a brilliant moment, sliding swiftly into the blues in a musical nod to the reality of Black American culture, the undeniably present group of people who were so dehumanized.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632318671/media/2021/09/OTSL_NewWorks_1_pnuhx7.jpg){{% /md %}}
 
