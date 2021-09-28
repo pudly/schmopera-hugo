@@ -43,11 +43,11 @@ There’s so much tragedy in opera already and _La fanciulla_ is a serious and p
 
 When I heard about the position being available, I thought why not give it a try? I had my heart filled with very good memories.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632839948/media/2021/09/Brandani_CalgaryOpera_LaBoheme_JoannaLatini_ybttvh.jpg){{% /md %}}
 
 <figcaption>Maestro Brandani, centre, surrounded by the principals of key production team of Calgary Opera’s celebrated 2019 production of Puccini’s La bohème. Photo: Joanna Latini.</figcaption>
 
-</figure>![](https://res.cloudinary.com/schmopera/image/upload/v1632839948/media/2021/09/Brandani_CalgaryOpera_LaBoheme_JoannaLatini_ybttvh.jpg)
+</figure>
 
 **What are you looking forward to the most, both in terms of your new role, as well as moving to Calgary?**
 
