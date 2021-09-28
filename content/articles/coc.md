@@ -32,30 +32,6 @@ But really, from where I was sitting, the night belonged to Wilson. Arias from _
 
 I figured that would be my highlight, but then Wilson gave us Leonora's first act aria from _Il trovatore_, nestled right next to Isolde's Liebestod from _Tristan und Isolde_. I've always been impressed with her Italian singing; I heard her in the COC's recent productions of _Turandot_ and _Otello_, and was a solid fan. 
 
-But I also think Wilson may be my new favourite interpreter of Wagner. Her Isolde did things to me, made me stop and zone in. Wilson always impresses me in her attention to detail; it's very clear that in the practice room, she has given attention to each note she sings. Yet when it's time to leave the practice room and put on a show, she also has that knack for getting out of her head. Solid, yes. Cerebral? Never.
+But I also think Wilson may be my new favourite interpreter of Wagner. Her Isolde did things to me, made me stop and zone in. Wilson always impresses me in her attention to detail; it's very clear that in the practice room, she has given attention to each note she sings. Yet when it's time to leave the practice room and put on a show, she also has that knack for getting out of her head, and delivering her meticulous work like a real human being. Always thoughtful, never cerebral - it's a rare find in a singer.
 
-Wilson sounds unreal, she’s so effing solid, detail-oriented but not in her head, just fucking sings the shit out of every score she gets. Orchestra did not match her energy, jeez
-
-Braun always sounds gorgeous - I don’t know why there’s this push for him to sing Verdi, though. It’s just not him, it doesn’t show him at his best, maybe there was a sense that he needed to “match” Wilson’s Wagner
-
-Commentary by Leech - fine as an opening, but this feels like an aged approach to creating a digital concert - we also have to get past this education-like commentary. Either program rep that doesn’t need preparation, or own it and just let the excellent singers do their jobs
-
-Dapertutto! Such weird rep for him. High notes are great, even too high… and I suppose this is a choice Braun can make in this medium, with mics etc. But it’s just funny because the COC seems quite hell bent on reminding us of the FSC
-
-Yay Wilson doing Nabucco! High C to two octaves down, no biggie. Kick-ass from start to finish, textbook, love it. C’s just keep getting better
-
-“Wow, that makes you shiver, doesn’t it?”
-
-Pierrot from Braun is luscious and lovely and what we want, yay.
-
-Nice dance-like touches from Debus and orchestra
-
-Tosca is a fun fit for Wilson
-
-Wolfram sits nicely, it’s almost too low for Braun at times
-
-This concert is the Tamara show, and I’m here for it - Leonora and Isolde back to back is a fine flex
-
-I loved her Desdemona so much, I thought I’d be more excited for her Verdi, but I’m really really pumped to hear this Wagner. I’m dying to hear her in an Isolde soon… But yeah, a huge level of care with each note, then smoothed over into something human and inspired and real, never cerebral
-
-Her Isolde is just stunning, makes me stop what I’m doing, as it should.
+I highly suggest you take the hour, and [watch this concert](https://www.coc.ca/productions/22877). The COC has generously made it free to stream, for those who have signed up for the [Free Digital Membership](https://www.coc.ca/watch/howtowatch). Go hear Braun in something new, be wowed by Wilson's Wagner, and remember how great that opera house really is.
