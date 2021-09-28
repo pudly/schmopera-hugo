@@ -24,7 +24,7 @@ If you can stand the bittersweet, sweeping camera shots of the oh-so-empty Four 
 
 I could have done without the script given to General Director Perryn Leech, whom we're all still getting to know. I get the idea behind it: greet the viewers, set up the concert, and offer conflict-free commentary between numbers. It certainly felt a bit hokey at times, but I sense that the COC has a better grasp on their core audience (and perhaps their age) than I do.
 
-Russell Braun is a
+Russell Braun is a no-brainer for a concert like this. Toronto audiences love when he comes round the COC, and for this event, I loved that he made some ballsy choices in repertoire. His Verdi pick, Conte de Luna's first aria from _Il trovatore_, isn't my favourite, but I did have a fun moment of nostalgia, from when I last heard him sing it in the COC's 2012 production.
 
 From where I was sitting, the night belonged to Wilson. Arias from _Tannhäuser_, _Nabucco_, _Tosca_, _Il trovatore_, and _Tristan und Isolde_ - she shone in all of them. She gave a hearty hello with her "Dich, teure Halle", and came back a few numbers later to sing an absolutely unreal "Anch'io dischiuso", Abigaille's first aria from _Nabucco_. High C's that keep getting better, two-octave leaps without a sweat - Wilson's Verdi is utterly kick-ass, textbook from start to finish.
 
