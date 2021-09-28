@@ -18,7 +18,19 @@ title = "COC"
 youtube_url = ""
 
 +++
-The Canadian Opera Company has officially launched its 2021-22 season, which is set to be a mix of digital and in-person offerings. The fall kicked off in style, with a concert of arias and orchestral highlights from opera’s big-guns: Verdi, Wagner, Puccini, and friends. The headlining artists: beloved Canadian baritone Russell Braun, and star American soprano Tamara Wilson, backed by COC Music Director Johannes Debus and the COC Orchestra.
+The [Canadian Opera Company](/scene/companies/canadian-opera-company/) has officially launched its 2021-22 season, which is set to be a mix of digital and in-person offerings. The [fall kicked off in style](https://www.coc.ca/productions/22877), with a concert of arias and orchestral highlights from opera’s big-guns: Verdi, Wagner, Puccini, and friends. The headlining artists: beloved Canadian baritone [Russell Braun](/scene/people/russell-braun/), and star American soprano [Tamara Wilson](/scene/people/tamara-wilson/), backed by COC Music Director Johannes Debus and the COC Orchestra.
+
+If you can stand the bittersweet, sweeping camera shots of the oh-so-empty Four Seasons Centre for the Performing Arts, this first proper digital item from the COC is something to be proud of. The COC Orchestra sounds wonderful, and it's a treat to see the familiar body language of maestro Debus, masked as he is. The sound is excellent, and the concert has a visual balance of large-scale and intimate - bravo to director Taylor Long for that.
+
+I could have done without the script given to General Director Perryn Leech, whom we're all still getting to know. I get the idea behind it: greet the viewers, set up the concert, and offer conflict-free commentary between numbers. It certainly felt a bit hokey at times, but I sense that the COC has a better grasp on their core audience (and perhaps their age) than I do.
+
+Russell Braun is a
+
+From where I was sitting, the night belonged to Wilson. Arias from _Tannhäuser_, _Nabucco_, _Tosca_, _Il trovatore_, and _Tristan und Isolde_ - she shone in all of them. She gave a hearty hello with her "Dich, teure Halle", and came back a few numbers later to sing an absolutely unreal "Anch'io dischiuso", Abigaille's first aria from _Nabucco_. High C's that keep getting better, two-octave leaps without a sweat - Wilson's Verdi is utterly kick-ass, textbook from start to finish.
+
+I figured that would be my highlight, but then Wilson gave us Leonora's first act aria from _Il trovatore_, nestled right next to Isolde's Liebestod from _Tristan und Isolde_. I've always been impressed with her Italian singing; I heard her in the COC's recent productions of _Turandot_ and _Otello_, and was a solid fan. 
+
+But I also think Wilson may be my new favourite interpreter of Wagner. Her Isolde did things to me, made me stop and zone in. Wilson always impresses me in her attention to detail; it's very clear that in the practice room, she has given attention to each note she sings. Yet when it's time to leave the practice room and put on a show, she also has that knack for getting out of her head. Solid, yes. Cerebral? Never.
 
 Wilson sounds unreal, she’s so effing solid, detail-oriented but not in her head, just fucking sings the shit out of every score she gets. Orchestra did not match her energy, jeez
 
@@ -28,7 +40,7 @@ Commentary by Leech - fine as an opening, but this feels like an aged approach t
 
 Dapertutto! Such weird rep for him. High notes are great, even too high… and I suppose this is a choice Braun can make in this medium, with mics etc. But it’s just funny because the COC seems quite hell bent on reminding us of the FSC
 
-Yay Wilson doing Nabucco! High C to two octaves down, no biggie. Kick-ass from start to finish, textbook, love it. C’s just keep getting better 
+Yay Wilson doing Nabucco! High C to two octaves down, no biggie. Kick-ass from start to finish, textbook, love it. C’s just keep getting better
 
 “Wow, that makes you shiver, doesn’t it?”
 
