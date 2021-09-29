@@ -28,6 +28,8 @@ Russell Braun is a no-brainer for a concert like this. Toronto audiences love wh
 
 It feels all too obvious, but I had the most fun basking in Braun's sound as he gave us Korngold's very gorgeous, certainly-overdone-by-many-baritones, _"_Mein Sehnen, mein Wähnen" from _Die tote Stadt_. The aria is so damn beautiful, and Debus pulled some lovely, waltzing touches out of the COC Orchestra.
 
+> Always thoughtful, never cerebral - it's a rare find in a singer.
+
 But really, from where I was sitting, the night belonged to Wilson. Arias from _Tannhäuser_, _Nabucco_, _Tosca_, _Il trovatore_, and _Tristan und Isolde_ - she shone in all of them. She gave a hearty hello with her "Dich, teure Halle", and came back a few numbers later to sing an absolutely unreal "Anch'io dischiuso", Abigaille's first aria from _Nabucco_. High C's that keep getting better, two-octave leaps without a sweat - Wilson's Verdi is utterly kick-ass, textbook from start to finish.
 
 I figured that would be my highlight, but then Wilson gave us Leonora's first act aria from _Il trovatore_, nestled right next to Isolde's Liebestod from _Tristan und Isolde_. I've always been impressed with her Italian singing; I heard her in the COC's recent productions of _Turandot_ and _Otello_, and was a solid fan. 
