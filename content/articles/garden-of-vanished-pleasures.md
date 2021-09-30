@@ -19,8 +19,9 @@ youtube_url = ""
 
 +++
 * fascinating music: mix of cabaret, crowded trio harmonies, chant-like text delivery, hard to pin down an aesthetic, other than it's text-driven, and backed with a really colourful chamber ensemble, which tells us that he is scared, lonely, sick, horny, ashamed
-* composers Livingston and McKevitt 
+* composers Livingston and McKevitt
 * available through Oct 10
 * I keep feeling Peter Grimes/Britten vibes - maybe it's the English seaside setting, the wave projections, the isolation/gay man thing
 * I'm super curious to know which of the texts are by Jarman, but it's cool that I can't always figure it out
-* 
+* like a good British drama, it's a subtle burn - dark and muted colours, shadowy lighting, stark Albery aesthetic, but it's still intriguing and slowly sucks in your attention
+* lovely singing out of all four: David Cabena is a stunning figure, backed by a fabulous trio in Mireille Asselin, Lindsay McIntyre, and Rebecca Cuddy
