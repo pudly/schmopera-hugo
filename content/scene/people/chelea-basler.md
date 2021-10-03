@@ -2,7 +2,7 @@
 discipline = "Soprano"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1633282824/media/2021/10/ChelseaBasler_clea6g.jpg"
 primary_image_credit = ""
-related_companies = []
+related_companies = ["scene/companies/des-moines-metro-opera.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/nashville-opera.md", "scene/companies/virginia-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/boston-lyric-opera-1.md"]
 slug = "chelsea-basler"
 title = "Chelea Basler"
 website = "https://www.chelseabasler.com/"
