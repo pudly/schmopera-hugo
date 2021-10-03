@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1633281672/media/2021/10/sqBLO_MichelleJohnson_Marissa_Molinar_VictoriaLAwkward_CavalleriaRusticana_Liza_Voll_nxeher.jpg"
+primary_image_credit = "Michelle Johnson as Santuzza, with Marissa Molinar and Victora L. Awkward, in Cavalleria rusticana, Boston Lyric Opera, 2021. Photo: Liza Voll."
 related_articles = []
 related_companies = ["scene/companies/boston-lyric-opera-1.md"]
 related_people = []
@@ -24,7 +24,7 @@ In this case, after some changes of plans, they opted to host their return to li
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>in Cavalleria rusticana, Boston Lyric Opera, 2021. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -32,7 +32,7 @@ Alas, aspects of this performance were more mixed than I would have liked. I und
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>in Cavalleria rusticana, Boston Lyric Opera, 2021. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -40,7 +40,7 @@ Some of the staging choices were also a little strange in my estimation: _Cavall
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>in Cavalleria rusticana, Boston Lyric Opera, 2021. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -48,7 +48,7 @@ But we all know that we come to the opera for the singing, and for the most part
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>in Cavalleria rusticana, Boston Lyric Opera, 2021. Photo: Liza Voll.</figcaption>
 
 </figure>
 
@@ -58,6 +58,6 @@ And despite all the hiccups, I have to say: it's really, really nice to be back!
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>in Cavalleria rusticana, Boston Lyric Opera, 2021. Photo: Liza Voll.</figcaption>
 
 </figure>
