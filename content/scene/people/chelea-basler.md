@@ -4,7 +4,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1633282824/m
 primary_image_credit = ""
 related_companies = ["scene/companies/des-moines-metro-opera.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/nashville-opera.md", "scene/companies/virginia-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/boston-lyric-opera-1.md"]
 slug = "chelsea-basler"
-title = "Chelea Basler"
+title = "Chelsea Basler"
 website = "https://www.chelseabasler.com/"
 [[social_media]]
 platform = "Instagram"
