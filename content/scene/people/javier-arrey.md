@@ -1,13 +1,27 @@
 +++
 discipline = "Baritone"
-draft = true
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1633283510/media/2021/10/JavierArrey_okiynu.jpg"
 primary_image_credit = ""
-related_companies = []
+related_companies = ["scene/companies/cardiff-singer-of-the-world-competition.md", "scene/companies/wiener-staatsoper.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/washington-national-opera.md"]
 slug = "javier-arrey"
-social_media = []
 title = "Javier Arrey"
 website = "https://www.javierarrey.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/javier.arrey.1"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/javierarrey1"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/javier.arrey/"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/channel/UCD5F4hlhYqEqZ9vedT4zybA"
 
 +++
 Heralded as one of the most sought after and versatile baritones of the emerging generation, Chilean-American baritone Javier Arrey recently did his Metropolitan Opera debut as Schaunard (_La Bohème_) in the classic Franco Zeffirelli production and joined the roster of The Metropolitan Opera; he also did an acclaimed debut at the Wiener Staatsoper as Marcello in _La Bohème_.
