@@ -1,9 +1,8 @@
 +++
 discipline = "Mezzo-soprano"
-draft = true
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1633282613/media/2021/10/NinaYoshidaNelsen_bkyed1.jpg"
 primary_image_credit = ""
-related_companies = ["scene/companies/boston-lyric-opera-1.md"]
+related_companies = ["scene/companies/sarasota-opera.md", "scene/companies/the-atlanta-opera.md", "scene/companies/utah-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/the-juilliard-school.md", "scene/companies/portland-opera.md", "scene/companies/seattle-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/chicago-opera-theater.md", "scene/companies/boston-lyric-opera-1.md"]
 slug = "nina-yoshida-nelsen"
 title = "Nina Yoshida Nelsen"
 website = "http://www.ninayoshidanelsen.com/"
