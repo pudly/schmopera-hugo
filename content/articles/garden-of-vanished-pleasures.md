@@ -10,7 +10,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1633538276/m
 primary_image_credit = "Image courtesy of Soundstreams."
 related_articles = ["articles/squeezebox-at-soundstreams.md", "articles/transfixing-soundstreams-presents-tan-duns-water-passion.md"]
 related_companies = ["scene/companies/soundstreams.md"]
-related_people = ["scene/people/cecilia-livingston.md", "scene/people/daniel-cabena.md", "scene/people/mireille-asselin.md"]
+related_people = ["scene/people/rebecca-cuddy.md", "scene/people/lindsay-mcintyre.md", "scene/people/cecilia-livingston.md", "scene/people/daniel-cabena.md", "scene/people/mireille-asselin.md"]
 short_description = "Garden of Vanished Pleasures is available to stream through October 10, and you should watch before it's gone. I'd say this is one of the more mature, well-produced digital items I've seen, and I'm not really surprised that it comes out of Soundstreams."
 slug = "a-subtle-burn-garden-of-vanished-pleasures"
 title = "A subtle burn: Garden of Vanished Pleasures"
@@ -19,7 +19,7 @@ youtube_url = ""
 +++
 Before it's gone, make sure you delve into the curious world devised by Tim Albery in his world-premiere production for Soundstreams, [_Garden of Vanished Pleasures_](https://soundstreams.ca/performances/main-stage/garden-of-vanished-pleasures/).
 
-It's hard to pinpoint why _Garden_ draws you in, because it's a sum-of-its-parts sort of work. The story is compelling: real-life filmmaker, artist, and queer-rights activist [Derek Jarman](https://en.wikipedia.org/wiki/Derek_Jarman) lives out his final years as an HIV-positive man, tending to his gardens at Prospect Cottage on England's southwest seaside. The music, songs composed by Cecilia Livingston and Donna McKevitt, set texts taken from Jarman's journals. It's all delivered by an excellent foursome of singers — countertenor [Daniel Cabena](/scene/people/daniel-cabena/) (Derek Jarman), sopranos [Mireille Asselin](/scene/people/mireille-asselin/) and [Lindsay McIntyre](/scene/people/lindsay-mcintyre/), and mezzo-soprano [Rebecca Cuddy](/scene/people/rebecca-cuddy/) — and a chamber trio of Brenna Corner on viola, Amahl Arulanandam on cello, and music director Rachael Kerr on piano.
+It's hard to pinpoint why _Garden_ draws you in, because it's a sum-of-its-parts sort of work. The story is compelling: real-life filmmaker, artist, and queer-rights activist [Derek Jarman](https://en.wikipedia.org/wiki/Derek_Jarman) lives out his final years as an HIV-positive man, tending to his gardens at Prospect Cottage on England's southwest seaside. The music, songs composed by [Cecilia Livingston](/scene/people/cecilia-livingston/) and Donna McKevitt, set texts taken from Jarman's journals. It's all delivered by an excellent foursome of singers — countertenor [Daniel Cabena](/scene/people/daniel-cabena/) (Derek Jarman), sopranos [Mireille Asselin](/scene/people/mireille-asselin/) and [Lindsay McIntyre](/scene/people/lindsay-mcintyre/), and mezzo-soprano [Rebecca Cuddy](/scene/people/rebecca-cuddy/) — and a chamber trio of Brenna Corner on viola, Amahl Arulanandam on cello, and music director Rachael Kerr on piano.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1633538758/media/2021/10/Soundstreams_GardenofVanishedPleasures_FullCast_ClaireHarvie_oszrh5.jpg){{% /md %}}
 
