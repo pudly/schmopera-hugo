@@ -1,7 +1,7 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Review"
-date = 2021-09-30T04:00:00Z
+date = 2021-10-06T04:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
@@ -13,8 +13,8 @@ related_articles = []
 related_companies = ["scene/companies/soundstreams.md"]
 related_people = ["scene/people/cecilia-livingston.md", "scene/people/daniel-cabena.md", "scene/people/mireille-asselin.md"]
 short_description = "Garden of Vanished Pleasures is available to stream through October 10, and you should watch before it's gone. I'd say this is one of the more mature, well-produced digital items I've seen, and I'm not really surprised that it comes out of Soundstreams."
-slug = "garden-of-vanished-pleasures"
-title = "Garden of Vanished Pleasures"
+slug = "a-subtle-burn-garden-of-vanished-pleasures"
+title = "A subtle burn: Garden of Vanished Pleasures"
 youtube_url = ""
 
 +++
