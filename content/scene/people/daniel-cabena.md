@@ -2,7 +2,7 @@
 date = "2015-10-11T10:22:00-04:00"
 discipline = "Countertenor"
 lastmod = "2015-10-11T10:22:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1633539086/media/2021/10/dam-dc_daniel_cabena_headshot_2018_3x4_cmyk_fg1hy4.tiff"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1633539141/media/2021/10/DanielCabena_zepp0p.jpg"
 primary_image_credit = ""
 publishDate = "2015-10-11T10:22:00-04:00"
 related_companies = ["scene/companies/edmonton-opera.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/soundstreams.md", "scene/companies/lopra-de-montral.md", "scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
