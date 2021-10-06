@@ -22,7 +22,7 @@ Before it's gone, make sure you delve into the curious world devised by Tim Albe
 
 It's hard to pinpoint why _Garden_ draws you in, because it's a sum-of-its-parts sort of work. The story is compelling: real-life filmmaker, artist, and queer-rights activist [Derek Jarman](https://en.wikipedia.org/wiki/Derek_Jarman) lives out his final years as an HIV-positive man, tending to his gardens at Prospect Cottage on England's southwest seaside. The music, songs composed by Cecilia Livingston and Donna McKevitt, set texts taken from Jarman's journals. It's all delivered by an excellent foursome of singers — countertenor Daniel Cabena (Derek Jarman), sopranos Mireille Asselin and Lindsay McIntyre, and mezzo-soprano Rebecca Cuddy — and a chamber trio of Brenna Corner on viola, Amahl Arulanandam on cello, and music director Rachael Kerr on piano.
 
-The story is about love and lust and gender and isolation, all packed into the vantage point of a man living a stigmatic life
+The story is about love and lust and gender and isolation, all packed into the vantage point of a man living a stigmatic life, watching helplessly as his friends die from AIDS. The multi-faceted story is echoed in the musical styles, which are as nebulous 
 
 * 
 * 
