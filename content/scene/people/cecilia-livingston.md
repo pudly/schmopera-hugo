@@ -2,9 +2,9 @@
 date = "2017-07-03T11:17:00-06:00"
 discipline = "Composer"
 lastmod = "2017-07-03T11:17:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499101934003/Livingston%20headshot%20300dpi.jpg.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1633624324/media/2021/10/CeciliaLivingston_fqe8so.jpg"
 publishDate = "2017-07-03T11:17:00-06:00"
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/the-bicycle-opera-project.md","scene/companies/opera-5.md","scene/companies/indie-opera-to.md","scene/companies/canadian-art-song-project.md","scene/companies/soundstreams.md"]
+related_companies = ["scene/companies/tapestry-opera.md", "scene/companies/the-bicycle-opera-project.md", "scene/companies/opera-5.md", "scene/companies/indie-opera-to.md", "scene/companies/canadian-art-song-project.md", "scene/companies/soundstreams.md"]
 slug = "cecilia-livingston"
 title = "Cecilia Livingston"
 website = "http://www.cecilialivingston.com/"
@@ -12,14 +12,22 @@ website = "http://www.cecilialivingston.com/"
 platform = "Soundcloud"
 template = "social-media"
 url = "https://soundcloud.com/cecilia_livingston"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/CeciliaComposer"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/ceciliacomposer/"
+
 +++
+With her melody-first approach and “vast and curious creative mind” (Lydia Perović, _The Whole Note_), British-Canadian composer Cecilia Livingston has emerged as a leading figure of new music for the voice. Her work leans organically to women’s stories, and in her lyrical fusion of styles from minimalism to jazz, tells stories that re-examine well-known literary characters.
 
-With music described as "haunting" and "eerily beautiful" (Tapestry Opera), composer Cecilia Livingston is known across Canada and the US for intensely dramatic chamber and vocal works. She is a 2015-2017 Composers and the Voice Fellow at American Opera Projects in New York, where her mentor is Stephen Schwartz. A Visiting Research Fellow at King's College London in 2016-2017, her research in musicology is supervised by Roger Parker.
+Ms. Livingston is composer-in-residence at Glyndebourne Festival Opera, a position that builds upon her two-year fellowship at The American Opera Project in New York (2015-17).  Her opera _Terror & Erebus_ earned Ms. Livingston the Canadian Music Centre Emerging Composer Award (2018), and her recently debuted _Singing Only Softly_ was a 2020 Dora Mavor Moore Awards nominee for Outstanding New Opera. She is a recipient of the Mécénat Musica Prix 3 Femmes for women opera composers (2018), a finalist for the Ontario Arts Foundation’s Johanna Metcalf Performing Arts Prize (2019), and a nominee for the Toronto Arts Foundation’s Emerging Artist Award (2020). Her harp and vibraphone duo, _Garden_, is featured on Angela Schwarzkopf’s detach, the 2020 JUNO Award Winner for Classical Album of the Year.
 
-She looks forward to upcoming projects with the Toronto Symphony Orchestra, the Kingston Symphony Orchestra, the Canadian Art Song Project, and the creation of a new full-length opera with TorQ Percussion Quartet and Toronto's Opera 5.
+In addition to performances by the Toronto Symphony Orchestra, Tafelmusik Baroque Orchestra, and the Kingston Symphony, Ms. Livingston’s music is programmed across Canada and internationally, notably with Glyndebourne Festival Opera Tour, Tapestry Opera, Soundstreams, Thin Edge New Music Collective, Bang on a Can Summer Festival, Nuit Blanche, Fashion Art Toronto, the Canadian Art Song Project, and the Royal Conservatory of Music’s 21C Festival.
 
-She worked with Steve Reich as a 2014 Composition Fellow at Bang On a Can's Summer Music Festival and at Soundstreams' 2016 Emerging Composer Workshop, and has had masterclasses and lessons with Steven Stucky, Chen Yi, Osvaldo Golijov, James MacMillan, David Lang, Julia Wolfe, Michael Gordon, Morten Lauridsen, Glenn Kotche, and Mychael Danna, and R. Murray Schafer.
+Ms. Livingston’s current and upcoming projects include performances of _Terror & Erebus_ with Opera 5 and TorQ Percussion Quartet, a portrait concert with Soundstreams and the 21C Festival directed by Tim Albery, _Penelope_ with mezzo-soprano Emily D’Angelo at the Kennedy Center, and operatic projects with Glyndebourne Youth Opera and Frequency Opera.
 
-A winner in the 2014 SOCAN Foundation Awards for Young Composers, her music has been heard at Eastman's Women In Music Festival, Tapestry Opera, World Choral Games (Latvia), Canadian Contemporary Music Workshop, the 21C Music Festival, Vancouver International Song Institute, Scotia Festival of Music, on tour with The Bicycle Opera Project, with the Kingston Symphony, and with Toronto's Thin Edge New Music Collective.
-
-An associate composer of the Canadian Music Centre  and a National Councillor of the Canadian League of Composers, her creative and research work is supported by the Canada Council for the Arts, the Ontario Arts Council, and the Toronto Arts Council. Her articles and reviews have appeared in Tempo, the Cambridge Opera Journal, Canadian Music Educator, Notations, Musical Toronto, Musicworks magazine, at the International Conference on Music Since 1900, and upcoming at the 2017 Royal Musical Association Music and Philosophy conference and the 54th RMA annual conference. Her master's and doctoral research was fully funded by the Social Sciences and Humanities Research Council of Canada, and explores the musical sublime in twentieth-century opera, with a particular focus on the connections between the sublime, the grotesque, minimalism, and musical silence. She holds a doctorate in Composition from the University of Toronto, supervised by Christos Hatzis, where she was awarded the Theodoros Mirkopoulos Fellowship in Composition.
+Ms. Livingston holds a doctorate in composition from the University of Toronto, and she is a Social Sciences and Humanities Research Council of Canada Postdoctoral Fellow in Music at King's College London. Currently Vice-President of the Canadian League of Composers and a member of the Ontario Regional Council of the Canadian Music Centre, Ms. Livingston has published on contemporary opera with The Opera Quarterly (Oxford), Cambridge Opera Journal, and Tempo (Cambridge). Future publications are forthcoming with Opera in Flux (U. Michigan Press) and The Cambridge Companion to Composition.
