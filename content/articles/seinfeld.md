@@ -12,8 +12,8 @@ related_articles = ["articles/6-tv-shows-that-should-be-operas.md", "articles/th
 related_companies = []
 related_people = []
 short_description = "The whole episode is an opera, guys! The barber thing, the memorable music from The Barber of Seville, it's all very self-aware. It's even got the Rossini-style comedy devices: people hiding in closets, slapstick scenes involving Newman — Don Basilio, maybe?"
-slug = "the-seinfeld-episode-thats-actually-an-opera"
-title = "The Seinfeld episode that's actually an opera"
+slug = "the-opera-buffa-seinfeld-episode"
+title = "The opera buffa Seinfeld episode "
 youtube_url = ""
 
 +++
