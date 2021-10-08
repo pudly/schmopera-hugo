@@ -24,4 +24,6 @@ Season five, episode eight, "The Barber" is a bizarrely brilliant fusion of oper
 
 The plot, broad strokes: Jerry's barber Enzo is the worst, and he just got another bad haircut. Kramer tells him to go to Enzo's nephew Gino instead, but Jerry's afraid of Enzo finding out and getting offended. Jerry meets Gino secretly, but of course Enzo finds out, and all hell breaks loose.
 
-The whole thing is an opera, guys! The barber thing, the memorable music from _The Barber of Seville_, it's all very self-aware. It's  the Rossini-style comedy devices: people hiding in closets, slapstick scenes involving Newman (Don Basilio, maybe?)
+The whole episode is an opera, guys! The barber thing, the memorable music from _The Barber of Seville_, it's all very self-aware. It's even got the Rossini-style comedy devices: people hiding in closets, slapstick scenes involving Newman — Don Basilio, maybe? I also think Jerry is Count Almaviva, and Kramer is Figaro.
+
+Anyway. I thought you guys should know.
