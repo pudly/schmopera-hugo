@@ -1,5 +1,5 @@
 +++
-author = []
+author = ["authors/jenna.md"]
 categories = "Humour"
 date = 2021-10-08T04:00:00Z
 disclaimer = ""
@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = "short"
-slug = "seinfeld"
-title = "Seinfeld"
+slug = "the-seinfeld-episode-thats-actually-an-opera"
+title = "The Seinfeld episode that's actually an opera"
 youtube_url = ""
 
 +++
@@ -34,4 +34,4 @@ The plot, broad strokes: Jerry's barber Enzo is the worst, and he just got anoth
 
 The whole episode is an opera, guys! The barber thing, the memorable music from _The Barber of Seville_, it's all very self-aware. It's even got the Rossini-style comedy devices: people hiding in closets, slapstick scenes involving Newman — Don Basilio, maybe? I also think Jerry is Count Almaviva, and Kramer is Figaro.
 
-Anyway. I thought you guys should know.
+Anyway. I thought you guys should know. If you end up watching it, [I want to know what you think](mailto:hello@schmopera.com).
