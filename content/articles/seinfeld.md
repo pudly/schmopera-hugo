@@ -31,6 +31,8 @@ The plot, broad strokes: Jerry's barber Enzo is the worst, and he just got anoth
 
 </figure>
 
-The whole episode is an opera, guys! The barber thing, the memorable music from _The Barber of Seville_, it's all very self-aware. It's even got the Rossini-style comedy devices: people hiding in closets, slapstick scenes involving Newman — Don Basilio, maybe? I also think Jerry is Count Almaviva, and Kramer is Figaro.
+The whole episode is an opera, guys! The barber thing, the memorable music from _The Barber of Seville_, it's all very self-aware. It's even got the Rossini-style comedy devices: people hiding in closets, the subsequent scene that plays out while said person is hiding in the closet, slapstick scenes involving Newman (Don Basilio, maybe?) — it's _opera buffa_ to a tee. 
+
+I also think Jerry is Count Almaviva, and Kramer is Figaro.
 
 Anyway. I thought you guys should know. If you end up watching it, [I want to know what you think](mailto:hello@schmopera.com).
