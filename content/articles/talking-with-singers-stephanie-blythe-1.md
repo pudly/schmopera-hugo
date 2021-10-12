@@ -10,11 +10,11 @@ preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1634081834/media/2021/10/StephanieBlythe_clf1dv.jpg"
 primary_image_credit = ""
 related_articles = []
-related_companies = []
-related_people = []
+related_companies = ["scene/companies/chicago-opera-theater.md", "scene/companies/san-diego-opera.md"]
+related_people = ["scene/people/jamie-barton.md", "scene/people/stephanie-blythe.md"]
 short_description = "\"I've been singing Handel and Rossini and Wagner and Verdi and Schubert and Brahms my whole career. What's the difference if I'm doing that or doing Irving Berlin and Cole Porter and Johnny Mercer and Barry Manilow? It's all music and it’s all just different styles and I enjoy singing them all,\" she says."
-slug = "talking-with-singers-stephanie-blythe-1"
-title = "Talking with singers: Stephanie Blythe"
+slug = "stephanie-blythe-i-cant-help-but-try-to-connect-with-people"
+title = "Stephanie Blythe: \"I can't help but try to connect with people.\""
 youtube_url = ""
 
 +++
@@ -24,13 +24,17 @@ Stephanie Blythe, the great American mezzo-soprano, will be performing a [progra
 
 "I became very interested in Mercer's story and the incredible collaboration in his lifetime that made him a central figure in song writing. I also love the fact that he was a wonderful player and a producer and also wrote songs. I find he had an incredible breadth of knowledge and passion for American song. Anyone who exhibits that kind of passion is interesting to me."
 
-The program she will be performing in San Diego is new, though she has sung some of the songs publicly before. She will be accompanied on the piano by Ryan McCullough, who she says is as passionate about Johnny Mercer as she is.
+> "I can't help but try to connect with people this way."
+
+The program she will be [performing in San Diego](https://www.sdopera.org/season/2021-2022-season/blythe-in-concert) is new, though she has sung some of the songs publicly before. She will be accompanied on the piano by Ryan McCullough, who she says is as passionate about Johnny Mercer as she is.
 
 Recitals are a form that Stephanie Blythe particularly likes because they offer an opportunity to talk to audiences, "enhancing" her connection with them. "The information gets passed on in a new and exciting way," she says.
 
 "When you're giving a concert and you talk to the audience about what they are hearing and why you are performing it, it's different than the audience reading notes. It becomes active communication rather than a passive one. It enhances that communication even more than when you're performing in an opera because it breaks the fourth wall. When you're talking to the audience, it breaks any kinds of barrier you have. It makes it more personal, and in my experience, most people enjoy that."
 
 Singing is Blythe's way to connect with people. "I sing because it's what I was supposed to do. I was very fortunate to realize very early on in my life that I was a singer. Everything that I do is about singing, whether it’s teaching, or talking, it is always about singing. I do it because it is what I was meant to do and because I can't help but do it. I can't help but try to connect with people this way."
+
+> "The very next time I get to put my drag show on stage, I will be singing rock and roll."
 
 She says that if she weren't a singer, she would try to connect with people by "making movies, writing, making speeches, going into politics or doing something that would put me in front of people, connecting with them. This is what I was meant to do so it's what I do."
 
@@ -40,7 +44,7 @@ Blythe arrives in San Diego a month after [debuting her role as Don José](https
 
 "Doing Don José in Carmen was thrilling. It was everything that I dreamed it would be and I enjoyed it enormously. I was very fortunate to work with really wonderful artists. That's the reason to do it – to have these incredible collaborations with wonderful communities."
 
-Stephanie Blythe is known for reaching out from beyond traditional opera fare. She sang Don José in her drag alter ego, Blythely Oratonio and has talked previously about wanting to do tenor roles.
+Stephanie Blythe is known for reaching out from beyond traditional opera fare. She sang Don José in her drag alter ego, Blythely Oratonio, and has talked previously about wanting to do tenor roles.
 
 "I've been singing Handel and Rossini and Wagner and Verdi and Schubert and Brahms my whole career. What's the difference if I'm doing that or doing Irving Berlin and Cole Porter and Johnny Mercer and Barry Manilow? It's all music and it’s all just different styles and I enjoy singing them all," she says.
 
@@ -49,6 +53,8 @@ Stephanie Blythe is known for reaching out from beyond traditional opera fare. S
 Her repertoire also goes beyond opera and cabaret. "I sing a lot of rock and roll in my drag show. I have an amazing community of artists with whom I work in the drag community, the Bearded Ladies Cabaret group in Philadelphia. The very next time I get to put my drag show on stage, I will be singing rock and roll."
 
 Blythe is reluctant to talk about the pandemic because she is intent on looking forward, the same direction where her students are looking at Bard College, where she is head of graduate vocal studies. "To talk about how miserable we were during the pandemic doesn't make us better artists. People were inspired. Art always finds a way. I want to speak positively about the future."
+
+> "It's all about being a good citizen."
 
 "Look at what San Diego Opera has done," she says. "Kudos for what they've done. And so many other places have done incredible things throughout the pandemic."
 
