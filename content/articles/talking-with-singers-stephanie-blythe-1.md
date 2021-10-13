@@ -1,7 +1,7 @@
 +++
 author = ["authors/eva-cahen.md"]
 categories = "Interview"
-date = 2021-10-12T04:00:00Z
+date = 2021-10-13T04:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "[_Stephanie Blythe in Concert _](https://www.sdopera.org/season/2021-2022-season/blythe-in-concert)comes to San Diego Opera's Balboa Theatre on October 23. "
