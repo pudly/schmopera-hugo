@@ -27,7 +27,7 @@ youtube_url = ""
 
 The program she will be [performing in San Diego](https://www.sdopera.org/season/2021-2022-season/blythe-in-concert) is new, though she has sung some of the songs publicly before. She will be accompanied on the piano by Ryan McCullough, who she says is as passionate about Johnny Mercer as she is.
 
-Recitals are a form that Stephanie Blythe particularly likes because they offer an opportunity to talk to audiences, "enhancing" her connection with them. "The information gets passed on in a new and exciting way," she says.
+Recitals are a form Blythe particularly likes because they offer an opportunity to talk to audiences, "enhancing" her connection with them. "The information gets passed on in a new and exciting way," she says.
 
 "When you're giving a concert and you talk to the audience about what they are hearing and why you are performing it, it's different than the audience reading notes. It becomes active communication rather than a passive one. It enhances that communication even more than when you're performing in an opera because it breaks the fourth wall. When you're talking to the audience, it breaks any kinds of barrier you have. It makes it more personal, and in my experience, most people enjoy that."
 
