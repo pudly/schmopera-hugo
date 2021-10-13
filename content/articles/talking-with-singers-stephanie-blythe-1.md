@@ -17,7 +17,7 @@ title = "Stephanie Blythe: \"I can't help but try to connect with people.\""
 youtube_url = ""
 
 +++
-Stephanie Blythe, the great American mezzo-soprano, will be performing a [program of Johnny Mercer songs](https://www.sdopera.org/season/2021-2022-season/blythe-in-concert) for the [San Diego Opera](/scene/companies/san-diego-opera/) on October 23 at 7:30 PM at the Balboa Theater.
+[Stephanie Blythe](/scene/people/stephanie-blythe/), the great American mezzo-soprano, will be performing a [program of Johnny Mercer songs](https://www.sdopera.org/season/2021-2022-season/blythe-in-concert) for the [San Diego Opera](/scene/companies/san-diego-opera/) on October 23 at 7:30 PM at the Balboa Theater.
 
 "I've been a great fan of Johnny Mercer's and I've been singing the music of his _Great American Songbook_ for a very long time,” says Blythe. She grew up listening to Mercer's songs because her father was a professional jazz musician, a tripler playing flute, sax, and clarinet.
 
