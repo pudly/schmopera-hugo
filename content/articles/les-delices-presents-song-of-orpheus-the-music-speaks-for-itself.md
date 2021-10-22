@@ -1,7 +1,7 @@
 +++
 author = ["authors/john-hohmann.md"]
 categories = "Review"
-date = 2021-10-21T04:00:00Z
+date = 2021-10-22T04:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "À-la-carte access to _Song of Orpheus_ and other Les Délices concerts are available through [Marquee TV](https://www.marquee.tv/series/lesdelices) for $24.99. Season subscriptions are  can be purchased for $24.99 directly on Marquee TV. Subscription packages and more information are [available here](https://www.lesdelices.org/subscription-packages/)."
