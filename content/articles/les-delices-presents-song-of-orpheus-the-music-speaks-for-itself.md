@@ -17,7 +17,7 @@ title = "Les Délices presents Song of Orpheus: The Music Speaks For Itself"
 youtube_url = ""
 
 +++
-_Song of Orpheus_ is the newest steaming program by the Cleveland-based [Les Délices](https://www.lesdelices.org/). It revels in the enduring myth, one that continues to be visited over the centuries by composers across the musical spectrum.
+_Song of Orpheus_ is the newest steaming program by the Cleveland-based [Les Délices](https://www.lesdelices.org/). It revels in the enduring myth, one that continues to be visited over the centuries by composers across the musical spectrum. The music is beautiful and speaks for itself. French Baroque rarities by Rameau, Dandrieu and Courbois dance with subdued, exuberant and often tremulous elegance around the legend of Orpheus and Eurydice.
 
 The program opens with a new, yes new, trio sonata "By much love betray'd" by composer Jonathan Woody, its title derived from John Dryden's translation of Virgil's _Georgics_. Seeped in the baroque tradition, it is essentially a tone poem in three-parts, a work clearly evoking the pivotal moments in the life of Orpheus: receiving the lyre from Apollo, his fateful turn to gaze upon Eurydice in the underworld and finally his death by the Maenads. On-screen titles for each part make it easy to follow.
 
