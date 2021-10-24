@@ -3,7 +3,6 @@ author = ["authors/arturo-fernandez.md"]
 categories = "Review"
 date = 2021-10-24T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
@@ -12,7 +11,7 @@ primary_image_credit = "Michael DiBattista as the Madwoman and Linus Schafer Gou
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "I chose my words very carefully when I call this Curlew River a transcendent experience: I am afraid I cannot fully explain the power that this particular production had and why it had that power, but I remember leaving the Cathedral Church of St. Paul feeling somewhat transformed by the experience. "
 slug = "enigma-operas-curlew-river-a-transcendent-experience"
 title = "Enigma Opera’s Curlew River a transcendent experience"
 youtube_url = ""
@@ -46,9 +45,9 @@ At the same time, however, it also has to balance that with being a vehicle for 
 
 For my money, there were two displays where this is best exemplified. The first case is in the writing of the Madwoman, who here was played to rather striking effect by Matthew DiBattista. This is a role that is no doubt very demanding on a singer on all fronts, something that is admittedly helped by how Britten writes the part; the vocal writing alternates frequently between mad chittering and slower, clearer lines that help the singer navigate a part that alternately has to be the most obtuse and the clearest role in the whole opera. 
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1635101234/media/2021/10/EnigmaOpera_CurlewRiver_Aaron_Engebreth_front_plays_the_Ferryman_in_Enigma_Chamber_Opera_s_CURLEW_RIVER_Photo_by_Ashlee_Rose_Scott_k1u6na.jpg){{% /md %}}
 
-<figcaption>in Enigma Chamber Opera's Curlew River, 2021. Photo: Ashlee Rose Scott.</figcaption>
+<figcaption>Aaron Engebreth (front) as the Ferryman in Enigma Chamber Opera's Curlew River, 2021. Photo: Ashlee Rose Scott.</figcaption>
 
 </figure>
 
@@ -58,23 +57,17 @@ But then comes the climax of _Curlew River_; this is one of those rare opera cli
 
 And then, the child repeatedly comes back in, soaring above the resonance left from the orchestra's rather loud chords at that point. And then, he comes out, sings words of comfort to his mother, and promptly leaves. In total, the child is only singing for two minutes in the whole work, but they are the two most important minutes of the work, and the success of any _Curlew River_ lives or dies on this moment.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+This production pulled this moment off beautifully: they had young singer Linus Schaefer Goulthorpe (who I found to be much improved from when I last saw him in NEMPAC's Little Prince a couple of years ago) emerge from the back of the orchestra holding a flashlight in a way that was quite sudden but fit in with the way his voice rises from the texture.
 
-<figcaption>in Enigma Chamber Opera's Curlew River, 2021. Photo: Ashlee Rose Scott.</figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1635101257/media/2021/10/EnigmaOpera_CurlewRiver_Matthew_DiBattista_as_the_Madwoman_in_Enigma_Chamber_Opera_s_CURLEW_RIVER_Photo_by_Ashlee_Rose_Scott_unwafh.jpg){{% /md %}}
+
+<figcaption>MIchael DiBattista as the Madwoman in Enigma Chamber Opera's Curlew River, 2021. Photo: Ashlee Rose Scott.</figcaption>
 
 </figure>
-
-This production pulled this moment off beautifully: they had young singer Linus Schaefer Goulthorpe (who I found to be much improved from when I last saw him in NEMPAC's _Little Prince_ a couple of years ago) emerge from the back of the orchestra holding a flashlight in a way that was quite sudden but fit in with the way his voice rises from the texture. 
 
 Schaefer Goulthorpe has to ground the entire rest of the work, and he absolutely rose to the occasion, with a fully confident singing voice and some beautifully directed hand gestures with DiBattista. The whole moment left me teary-eyed, and it all coalesced into what is, to me, a transcendent experience.
 
 To be sure, there were lots of other moving parts: Aaron Engebreth's Ferryman imparted a lot of strength of character that made for a good foil against the Madwoman, and David McFerrin provided an empathetic traveller who really aligned with the her in a really nice way. Paul Soper also deserves props for stepping in for James Demler at the last minute as the Abbot who narrates the work. But these, like the projections that were flashed onto the back of the church walls, very quickly faded away from my awareness in the face of the work's climax.
-
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption>in Enigma Chamber Opera's Curlew River, 2021. Photo: Ashlee Rose Scott.</figcaption>
-
-</figure>
 
 I chose my words very carefully when I call this _Curlew River_ a transcendent experience: I am afraid I cannot fully explain the power that this particular production had and why it had that power, but I remember leaving the Cathedral Church of St. Paul feeling somewhat transformed by the experience. 
 
