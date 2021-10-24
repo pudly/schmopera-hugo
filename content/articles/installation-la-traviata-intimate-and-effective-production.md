@@ -27,7 +27,7 @@ But the bigger part for me is that _La traviata_ hosts what is probably opera's 
 
 </figure>
 
-Enter [MassOpera](/scene/companies/massopera/), which has been mulling over this opera for about two years in large part due to the COVID-19 pandemic. This production went through a few iterations, and finally, the version they have settled on involved massively reworking the opera from top to bottom: they cut an hour of material, they reduced the orchestration to a form playable by no more than four instrumentalists at a time, the chorus was reduced to a small ensemble that also doubled a few of the smaller roles throughout the opera, and the audience was restricted to just twenty-five people.
+Enter [MassOpera](/scene/companies/massopera/), which has been mulling over this opera for about two years in large part due to the COVID-19 pandemic. [This production](https://massopera.org/events/la-traviata/) went through a few iterations, and finally, the version they have settled on involved massively reworking the opera from top to bottom: they cut an hour of material, they reduced the orchestration to a form playable by no more than four instrumentalists at a time, the chorus was reduced to a small ensemble that also doubled a few of the smaller roles throughout the opera, and the audience was restricted to just twenty-five people.
 
 But perhaps the main draw of this production was the choice of venue: this production was staged on the grounds of the Eustis Estate just outside the city limits of Boston, and it took a few cues from the well-known theater production _Sleep No More_ in that it asked the audience to move throughout the house as the show progressed. I was quite looking forward to seeing what _La traviata_ would look like in such a format, and I am pleased to say the results, while leaving some relatively minor things to be desired, ultimately worked quite well, and helped paper over a majority of the issues I have with the opera's plot.
 
@@ -86,27 +86,3 @@ For me, the stand-out moment was when his father came into the Act III party sce
 To be certain, there were a few snags throughout. The string quartet that accompanied the first two acts sounded noticeably under-rehearsed to my ear, and their iffy intonation and noticeably messed up runs were admittedly very distracting through the first two acts. There is, also, the aforementioned issue of the transition between rooms.
 
 But this is a _Traviata_ that I was genuinely invested in by the time Violetta was cajoled up the stairs to her more figuratively-staged death by violin soloist Anna Harris, and if there is one thing I like more than listening to an opera I love it is being pleasantly surprised by a production of an opera I am not as big a fan of, and I hope this inspires similar types of productions going forward.
-
-<figure data-type="image">{{% md %}}{{% /md %}}
-
-<figcaption>} in La traviata, MassOpera, 2021. Photo: Nile Scott Studios.</figcaption>
-
-</figure>
-
-<figure data-type="image">{{% md %}} in La traviata, MassOpera, 2021. Photo: Nile Scott Studios.{{% /md %}}
-
-<figcaption></figcaption>
-
-</figure>
-
-<figure data-type="image">{{% md %}} in La traviata, MassOpera, 2021. Photo: Nile Scott Studios.{{% /md %}}
-
-<figcaption></figcaption>
-
-</figure>
-
-<figure data-type="image">{{% md %}} in La traviata, MassOpera, 2021. Photo: Nile Scott Studios.{{% /md %}}
-
-<figcaption></figcaption>
-
-</figure>
