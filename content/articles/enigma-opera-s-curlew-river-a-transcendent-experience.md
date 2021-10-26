@@ -65,7 +65,7 @@ This production pulled this moment off beautifully: they had young singer Linus 
 
 </figure>
 
-Schaefer Goulthorpe has to ground the entire rest of the work, and he absolutely rose to the occasion, with a fully confident singing voice and some beautifully directed hand gestures with DiBattista. The whole moment left me teary-eyed, and it all coalesced into what is, to me, a transcendent experience.
+Schafer Goulthorpe has to ground the entire rest of the work, and he absolutely rose to the occasion, with a fully confident singing voice and some beautifully directed hand gestures with DiBattista. The whole moment left me teary-eyed, and it all coalesced into what is, to me, a transcendent experience.
 
 To be sure, there were lots of other moving parts: Aaron Engebreth's Ferryman imparted a lot of strength of character that made for a good foil against the Madwoman, and David McFerrin provided an empathetic traveller who really aligned with the her in a really nice way. Paul Soper also deserves props for stepping in for James Demler at the last minute as the Abbot who narrates the work. But these, like the projections that were flashed onto the back of the church walls, very quickly faded away from my awareness in the face of the work's climax.
 
