@@ -3,7 +3,6 @@ author = ["authors/andrew-schneider.md"]
 categories = "Review"
 date = 2021-11-05T04:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
@@ -69,5 +68,10 @@ It should come as no surprise that Escamillo ([Christian Pursell](/scene/people/
 </figure>
 
 The Houston Grand Opera Chorus was clearly happy to be back, and they had many opportunities to shine, even if the pervasive myth that French can only ever be approximated _en masse_ was as ever difficult to evade. I particularly found the ladies' hairpieces very intriguing, serving as they do a dual representation: first, of the men's projections of "this is what cigarette girls look like, let us have our fun with them." They certainly have to be almost imaginary because such hairpieces would be quite dangerous around pre-regulation factories, although they were more eccentric hairpieces than the imitations of Louis XV wigs worn by the visibly extravagant Frasquita ([Raven McMillon](/scene/people/raven-mcmillon/)) and Mercédès ([Sun-Ly Pierce](/scene/people/sun-ly-pierce/)). Talk about projection! Second, these hairpieces were representational of the plot as a whole, wherein Don José projects so many of his frustrations onto Carmen, for all the musical themes that would have us believe that Fate is unavoidable.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1636123201/media/2021/11/HGOCarmen_LynnLane-81_gnriqb.jpg){{% /md %}}
+
+<figcaption>William Guanbo Su (Zuniga) and the HGO Women's Chorus in Carmen, Houston Grand Opera, 2021. Photo: Lynn Lane.</figcaption>  
+</figure>
 
 I could easily go on, but this is the most perfectly encapsulated example of the numerous effective ways in which this production shines a light onto all the many perspectives it is possible for _Carmen_ to have, so as to appeal to people witnessing it from any conceivable angle and willing to engage with this masterwork on its own terms and not merely its most provocative stereotypes. Is not this the epitome of unity in these times?
