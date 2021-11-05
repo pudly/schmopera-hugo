@@ -13,8 +13,8 @@ related_articles = []
 related_companies = []
 related_people = []
 short_description = " Everything about this production went out of its way to imbue the whole with artistic cohesion and integrity, even the elements that might have seemed vaguely avant-garde out of context."
-slug = "hgo-carmen"
-title = "HGO Carmen"
+slug = "hgo-carmen-the-epitome-of-unity"
+title = "HGO Carmen \"the epitome of unity\""
 youtube_url = ""
 
 +++
