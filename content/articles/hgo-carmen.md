@@ -17,7 +17,7 @@ title = "HGO Carmen \"the epitome of unity\""
 youtube_url = ""
 
 +++
-The [Houston Grand Opera](/scene/companies/houston-grand-opera/) has chosen a winner in _Carmen_ for its return to the stage at a time when unity is definitely at a premium. For all this work's ubiquity and universal appeal, HGO made an excellent case in Rob Ashford's production for its renown being no mere _pro forma_ concession, not an honor bestowed upon "the French opera that everyone does to virtue-signal about French opera." Everything about this production went out of its way to imbue the whole with artistic cohesion and integrity, even the elements that might have seemed vaguely _avant-garde_ out of context.
+The [Houston Grand Opera](/scene/companies/houston-grand-opera/) has chosen a winner in [_Carmen_](https://www.houstongrandopera.org/events-tickets/2021-22-season/carmen/) for its return to the stage at a time when unity is definitely at a premium. For all this work's ubiquity and universal appeal, HGO made an excellent case in Rob Ashford's production for its renown being no mere _pro forma_ concession, not an honor bestowed upon "the French opera that everyone does to virtue-signal about French opera." Everything about this production went out of its way to imbue the whole with artistic cohesion and integrity, even the elements that might have seemed vaguely _avant-garde_ out of context.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1636122967/media/2021/11/HGOCarmen_LynnLane-300_hdnhbg.jpg){{% /md %}}
 
@@ -74,4 +74,4 @@ The Houston Grand Opera Chorus was clearly happy to be back, and they had many o
 <figcaption>William Guanbo Su (Zuniga) and the HGO Women's Chorus in Carmen, Houston Grand Opera, 2021. Photo: Lynn Lane.</figcaption>  
 </figure>
 
-I could easily go on, but this is the most perfectly encapsulated example of the numerous effective ways in which this production shines a light onto all the many perspectives it is possible for _Carmen_ to have, so as to appeal to people witnessing it from any conceivable angle and willing to engage with this masterwork on its own terms and not merely its most provocative stereotypes. Is not this the epitome of unity in these times?
+I could easily go on, but this is the most perfectly encapsulated example of the numerous effective ways in which [this production](https://www.houstongrandopera.org/events-tickets/2021-22-season/carmen/) shines a light onto all the many perspectives it is possible for _Carmen_ to have, so as to appeal to people witnessing it from any conceivable angle and willing to engage with this masterwork on its own terms and not merely its most provocative stereotypes. Is not this the epitome of unity in these times?
