@@ -53,16 +53,16 @@ Under Mary Birnbaum's assured direction this harrowing and cerebral story moves 
 
 This isn't Dawson’s first cinematic attempt. Last year she recorded Scott Ordway's fine collection of art songs [_Girl in the Snow_](/girl-in-the-snow-a-mysterious-song-cycle/) and followed up with a Brusencev instigated video from the recording [_The Mystery of the World_](/video-premiere-the-mystery-of-the-world-according-to-julia-dawson/) that premiered on this website. During the pandemic Dawson has created opportunities not only for herself but for many artists and technicians (some 50 were involved in _Obscura Nox_) who might otherwise have been sidelined by cancelled performances and projects.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1636503153/media/2021/11/ObscuraNox_5_pulth7.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Iman Habibi, Iranian-Canadian composer whose music appears with Mozart's Exsultate Jubilate in Obscura Nox. Photo: Deborah Grimmett.</figcaption>  
 </figure>
 
 But what does the unmitigated accomplishment of _Obscura Nox_ mean for opera or things operatic? It could mean plenty. We know that opera is the great amalgam of music, theater and increasingly visual technology. Here those elements are scaled so that enterprising artists can create it for themselves. And let's be blunt, the knee-jerk response to opera in the non-opera world is that it's long and in a foreign language. We're dealing with a 26-minute film here—aided by subtitles. Such appealing efforts have got to attract new and younger audiences if properly promoted. Take note PBS, CBC, BBC and all those other networks looking for new and attention-getting content.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1636503161/media/2021/11/ObscuraNox_Poster_mbchmb.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Poster for the Julia Dawson & Alexander Brusencev production Obscura Nox. Photo: Exsultate Project.</figcaption>  
 </figure>
 
 [HelioArts](https://helioarts.com/) is a new streaming service dedicated to the performing arts. _Obscura Nox_ is streaming until late October, 2023. Viewers will do well to ignore the service's notification "content warning: horror, blood". A short opera about Julia Child is among its initial offerings. I haven't seen it but warning: may include dismembered poultry.
