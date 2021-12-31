@@ -5,7 +5,7 @@ date = 2021-12-29T05:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "Calgary Opera’s production of Ravel's _The Enchanted Child_ (_L'enfant et les sortilèges_) ran December 10-12 at the Mamdani Opera Centre. Directed by Rob Herriot with a chamber orchestra conducted by Mark Morash, the production featured all eight artists of the McPhee Artist Development Program singing in French with English subtitles. Calgary Opera's next production is in January-February 2022, with Lehar's _The Merry Widow_."
 preamble = ""
 primary_image = ""
 primary_image_credit = ""
@@ -69,6 +69,4 @@ Sopranos Juliana Krajčovič and Eden Tremayne turned in perhaps the most memora
 <figcaption>Eden Tremayne (right) and Alanna Fraize delivered standout performances in Calgary Opera's production of Ravel's The Enchanted Child. Photo by Kaitlyn Kerr.</figcaption>  
 </figure>
 
-Ravel’s orchestration for L’enfant is quite extensive and lush, which would surely overpower the space of the Mamdani Centre. Calgary Opera reduced this requirement to four musicians: two pianists, a woodwind specialist playing both flute and piccolo, and a cellist. Led by the company’s Music Director Mark Morash, the musicians offer a performance that sets the right balance for the production. Indeed, less was certainly more to allow the McPhee Artists to weave their magic with The Enchanted Child.
-
-Calgary Opera’s production of Ravel’s The Enchanted Child (L’enfant et les sortilèges) ran December 10-12 at the Mamdani Opera Centre. Directed by Rob Herriot with a chamber orchestra conducted by Mark Morash, the production featured all eight artists of the McPhee Artist Development Program singing in French with English subtitles. Calgary Opera’s next production is in January-February 2022, with Lehar’s The Merry Widow.
+Ravel’s orchestration for _L'enfant_ is quite extensive and lush, which would surely overpower the space of the Mamdani Centre. Calgary Opera reduced this requirement to four musicians: two pianists, a woodwind specialist playing both flute and piccolo, and a cellist. Led by the company's Music Director Mark Morash, the musicians offer a performance that sets the right balance for the production. Indeed, less was certainly more to allow the McPhee Artists to weave their magic with The Enchanted Child.
