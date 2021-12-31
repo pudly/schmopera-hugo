@@ -56,11 +56,11 @@ The award for most costume changes would go to mezzo soprano [Simran Claire](/sc
 
 While his turn as the male cat is crowd pleasing, baritone Jeremy Dubé impresses in his role as the Clock. Dubé is blessed with a piercing, rich sound that grabs your attention from the moment he starts to sing. In this time as a Clock without a pendulum, Dubé adds a welcome and exciting flair to the production.
 
-Tenor Tayte Mitchell impresses in his portrayal of the Arithmetic Man, among the other ensemble roles he performed on this night. Mitchell's bright, full vocals were well matched with the frenetic nature of the Arithmetic Man's song, in which he leads the cast in a flurry of nonsensical mathematical equations.
+Tenor [Tayte Mitchell](https://calgaryopera.com/202122mcphee-artists/lo56w9f584p7kenlf4kckx9m74qjfm) impresses in his portrayal of the Arithmetic Man, among the other ensemble roles he performed on this night. Mitchell's bright, full vocals were well matched with the frenetic nature of the Arithmetic Man's song, in which he leads the cast in a flurry of nonsensical mathematical equations.
 
-As an English teapot, a dancing bear and a treefrog, Jeffrey Strand endears himself to the audience with grace and humour that complement his pleasing lyric tenor sound. His teapot-teacup duet with Simran Claire was especially well-performed on this night.
+As an English teapot, a dancing bear and a treefrog, [Jeffrey Strand](/scene/people/jeffrey-strand/) endears himself to the audience with grace and humour that complement his pleasing lyric tenor sound. His teapot-teacup duet with Simran Claire was especially well-performed on this night.
 
-Not everyone can make a Chair or a Tree sound sultry, but the liquid tone of bass-baritone Dominic Veilleux brings Ravel’s music to life. In his limited stage time, Veilleux stands out in both roles, first in a sultry chair duet and then as the sweet voice of a Tree who bleeds sap as a result of the Child’s actions.
+Not everyone can make a Chair or a Tree sound sultry, but the liquid tone of bass-baritone [Dominic Veilleux](/scene/people/dominic-veilleux/) brings Ravel's music to life. In his limited stage time, Veilleux stands out in both roles, first in a sultry chair duet and then as the sweet voice of a Tree who bleeds sap as a result of the Child’s actions.
 
 Sopranos Juliana Krajčovič and Eden Tremayne turned in perhaps the most memorable performances on this night. In her roles as both the Princess and the Bat, Krajčovič shows great versatility with both her rich, robust voice and her acting ability. Tremayne navigates the composer’s high-flying vocals with poise and ease, conquering the demanding coloratura passages that Ravel sets in the stratosphere. Tremayne’s roles as both Fire and the Nightingale were standout performances on this night.
 
