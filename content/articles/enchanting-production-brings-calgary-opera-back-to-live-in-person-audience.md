@@ -39,26 +39,24 @@ McPhee's reach went well beyond Calgary Opera. During his tenure as President an
 
 "It's such a beautiful way to honour him," says Calgary-born baritone [Andrew Love](/scene/people/andrew-love/), who was among the first singers to go through what is now the McPhee Artist Development Program. "He focused on Canadian singers - nobody else was doing that. So many of us owe him our careers and to think about how best to honour him, I think training young singers would be where he’d want his name attached."
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1640982663/media/2021/12/Photo2-AndrewLove_BobMcPhee_mjgtl4.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Calgary-born baritone Andrew Love (bottom right) with the late Bob McPhee (centre), surrounded by Elizabeth Turnbull, Ernesto Ramirez and Lida Szkwarek in the 2017 Calgary Opera production of Filumena (Estacio/Murrell). Photo courtesy of Andrew Love.</figcaption>  
 </figure>
 
-Calgary-born baritone Andrew Love (bottom right) with the late Bob McPhee (centre), surrounded by Elizabeth Turnbull, Ernesto Ramirez and Lida Szkwarek in the 2017 Calgary Opera production of Filumena (Estacio/Murrell). Photo courtesy of Andrew Love.
+Love says McPhee's name carries a responsibility to be true to yourself: to do what you love and to deepen your relationship with your voice, your art and your talent. "I walked into the program knowing only three arias and the names of the operas those arias were from. The program will help you figure it out. Your biggest responsibility is how you present yourself, both on and off stage."
 
-Love says McPhee’s name carries a responsibility to be true to yourself: to do what you love and to deepen your relationship with your voice, your art and your talent. “I walked into the program knowing only three arias and the names of the operas those arias were from. The program will help you figure it out. Your biggest responsibility is how you present yourself, both on and off stage.”
+#### McPhee Artists deliver magical performance
 
-McPhee Artists deliver magical performance
+On this night, the current roster of McPhee Artists would certainly make their program's namesake proud.
 
-On this night, the current roster of McPhee Artists would certainly make their program’s namesake proud.
+The performance was anchored by the strong performance of mezzo soprano [Alanna Fraize](/scene/people/alanna-fraize/). The Newfoundland-born singer is blessed with a warm, silky voice that is well suited for the role of the Child, who is on stage for the whole opera. From throwing a tantrum to expressing fear and then remorse, Fraize accesses beautiful vocal colours that complement her wide array of acting skills befitting of the role.
 
-The performance was anchored by the strong performance of mezzo soprano Alanna Fraize. The Newfoundland-born singer is blessed with a warm, silky voice that is well suited for the role of the Child, who is on stage for the whole opera. From throwing a tantrum to expressing fear and then remorse, Fraize accesses beautiful vocal colours that complement her wide array of acting skills befitting of the role.
+The award for most costume changes would go to mezzo soprano [Simran Claire](/scene/people/simran-claire/), who played six roles including the two characters that bookend the response for the central Child: the Mother and the Squirrel. Claire shows great versatility and acting range for each of her roles. From her first entrance as the Child's colourful mother to her portrayal of the Squirrel (who sets the Child on the road to redemption), the audience can't help but be drawn by Claire's sultry stage presence and warm tone. Her cat duet with baritone [Jeremy Dubé](/scene/people/jeremy-dube/) is especially hilarious, conjuring up images of the famous cat duet by Gioachino Rossini.
 
-The award for most costume changes would go to mezzo soprano Simran Claire, who played six roles including the two characters that bookend the response for the central Child: the Mother and the Squirrel. Claire shows great versatility and acting range for each of her roles. From her first entrance as the Child’s colourful mother to her portrayal of the Squirrel (who sets the Child on the road to redemption), the audience can’t help but be drawn by Claire’s sultry stage presence and warm tone. Her cat duet with baritone Jeremy Dubé is especially hilarious, conjuring up images of the famous cat duet by Gioachino Rossini.
+While his turn as the male cat is crowd pleasing, baritone Jeremy Dubé impresses in his role as the Clock. Dubé is blessed with a piercing, rich sound that grabs your attention from the moment he starts to sing. In this time as a Clock without a pendulum, Dubé adds a welcome and exciting flair to the production.
 
-While his turn as the male cat is crowd pleasing, baritone Jeremy Dubé impresses in his role as the Clock. Dubé is blessed with a piercing, rich sound that grabs your attention from the moment he starts to sing. In this time as a Clock without a pendulum, Dubé adds a welcome and exciTING flair to the production.
-
-Tenor Tayte Mitchell impresses in his portrayal of the Arithmetic Man, among the other ensemble roles he performed on this night. Mitchell’s bright, full vocals were well matched with the frenetic nature of the Arithmetic Man’s song, in which he leads the cast in a flurry of nonsensical mathematical equations.
+Tenor Tayte Mitchell impresses in his portrayal of the Arithmetic Man, among the other ensemble roles he performed on this night. Mitchell's bright, full vocals were well matched with the frenetic nature of the Arithmetic Man's song, in which he leads the cast in a flurry of nonsensical mathematical equations.
 
 As an English teapot, a dancing bear and a treefrog, Jeffrey Strand endears himself to the audience with grace and humour that complement his pleasing lyric tenor sound. His teapot-teacup duet with Simran Claire was especially well-performed on this night.
 
