@@ -64,9 +64,9 @@ Not everyone can make a Chair or a Tree sound sultry, but the liquid tone of bas
 
 Sopranos Juliana Krajčovič and Eden Tremayne turned in perhaps the most memorable performances on this night. In her roles as both the Princess and the Bat, Krajčovič shows great versatility with both her rich, robust voice and her acting ability. Tremayne navigates the composer’s high-flying vocals with poise and ease, conquering the demanding coloratura passages that Ravel sets in the stratosphere. Tremayne’s roles as both Fire and the Nightingale were standout performances on this night.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1640982999/media/2021/12/Photo3-Fraize-Tremayne_thjqid.jpg){{% /md %}}
 
 <figcaption>Eden Tremayne (right) and Alanna Fraize delivered standout performances in Calgary Opera's production of Ravel's The Enchanted Child. Photo by Kaitlyn Kerr.</figcaption>  
 </figure>
 
-Ravel’s orchestration for _L'enfant_ is quite extensive and lush, which would surely overpower the space of the Mamdani Centre. Calgary Opera reduced this requirement to four musicians: two pianists, a woodwind specialist playing both flute and piccolo, and a cellist. Led by the company's Music Director Mark Morash, the musicians offer a performance that sets the right balance for the production. Indeed, less was certainly more to allow the McPhee Artists to weave their magic with The Enchanted Child.
+Ravel’s orchestration for _L'enfant_ is quite extensive and lush, which would surely overpower the space of the Mamdani Centre. Calgary Opera reduced this requirement to four musicians: two pianists, a woodwind specialist playing both flute and piccolo, and a cellist. Led by the company's Music Director Mark Morash, the musicians offer a performance that sets the right balance for the production. Indeed, less was certainly more to allow the McPhee Artists to weave their magic with _The Enchanted Child_.
