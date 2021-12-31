@@ -62,7 +62,7 @@ As an English teapot, a dancing bear and a treefrog, [Jeffrey Strand](/scene/peo
 
 Not everyone can make a Chair or a Tree sound sultry, but the liquid tone of bass-baritone [Dominic Veilleux](/scene/people/dominic-veilleux/) brings Ravel's music to life. In his limited stage time, Veilleux stands out in both roles, first in a sultry chair duet and then as the sweet voice of a Tree who bleeds sap as a result of the Child’s actions.
 
-Sopranos Juliana Krajčovič and Eden Tremayne turned in perhaps the most memorable performances on this night. In her roles as both the Princess and the Bat, Krajčovič shows great versatility with both her rich, robust voice and her acting ability. Tremayne navigates the composer’s high-flying vocals with poise and ease, conquering the demanding coloratura passages that Ravel sets in the stratosphere. Tremayne’s roles as both Fire and the Nightingale were standout performances on this night.
+Sopranos [Juliana Krajčovič](https://calgaryopera.com/202122mcphee-artists/67uhkcvobpfsgtnfmobmndp3cmh02k) and [Eden Tremayne](/scene/people/eden-tremayne/) turned in perhaps the most memorable performances on this night. In her roles as both the Princess and the Bat, Krajčovič shows great versatility with both her rich, robust voice and her acting ability. Tremayne navigates the composer's high-flying vocals with poise and ease, conquering the demanding coloratura passages that Ravel sets in the stratosphere. Tremayne’s roles as both Fire and the Nightingale were standout performances on this night.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1640982999/media/2021/12/Photo3-Fraize-Tremayne_thjqid.jpg){{% /md %}}
 
