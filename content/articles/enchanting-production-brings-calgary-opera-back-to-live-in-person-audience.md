@@ -31,13 +31,13 @@ First performed in 1925, _L'enfant_ is the story of an unnamed brat of a child w
 
 #### Honouring the late Bob McPhee
 
-Calgary Opera announced the rebranding of its emerging artists program in late November 2021 in honour of Bob McPhee, who served as the company’s general director and CEO from 1998 to 2017. McPhee died in March 2021 after a long battle with cancer.
+Calgary Opera announced the rebranding of its emerging artists program in November 2021 in honour of the late Bob McPhee, who served as the company's general director and CEO from 1998 to 2017. McPhee died in March 2021 after a long battle with cancer.
 
-"The Emerging Artist Program was one of Bob’s ‘Big Hairy Audacious Goals'," says Mel Kirby, Manager of the McPhee Artist Development Program. "I always think of it as ‘his’ program: he was proud of it, he got energy from it."
+"The Emerging Artist Program was one of Bob's 'Big Hairy Audacious Goals'," says Mel Kirby, Manager of the McPhee Artist Development Program. "I always think of it as 'his' program: he was proud of it, he got energy from it."
 
-McPhee's reach went well beyond Calgary Opera. During his tenure as President and CEO of the Edmonton Symphony Society and Edmonton Concert Hall Foundation, McPhee led both organizations to the on-time, on-budget completion of the Francis Winspear Centre for Music, one of the premiere concert halls in the country. "For all the work he’d done, nothing had his name on it," says Kirby. "Now with the McPhee Artist Development Program, there's something in the world that has Bob McPhee's name on it."
+McPhee's reach went well beyond Calgary Opera. During his tenure as President and CEO of the Edmonton Symphony Society and Edmonton Concert Hall Foundation, McPhee led both organizations to the on-time, on-budget completion of the Francis Winspear Centre for Music, one of the premiere concert halls in the country. "For all the work he'd done, nothing had his name on it," says Kirby. "Now with the McPhee Artist Development Program, there's something in the world that has Bob McPhee's name on it."
 
-"It's such a beautiful way to honour him," says Calgary-born baritone Andrew Love, who was among the first singers to go through what is now the McPhee Artist Development Program. "He focused on Canadian singers - nobody else was doing that. So many of us owe him our careers and to think about how best to honour him, I think training young singers would be where he’d want his name attached."
+"It's such a beautiful way to honour him," says Calgary-born baritone [Andrew Love](/scene/people/andrew-love/), who was among the first singers to go through what is now the McPhee Artist Development Program. "He focused on Canadian singers - nobody else was doing that. So many of us owe him our careers and to think about how best to honour him, I think training young singers would be where he’d want his name attached."
 
 <figure data-type="image">{{% md %}}{{% /md %}}
 
