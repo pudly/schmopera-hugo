@@ -14,6 +14,6 @@ template = "social-media"
 url = "https://twitter.com/CalgaryOpera"
 
 +++
-Each season, Calgary Opera’s Emerging Artist Development Program provides up to eight young singers with the opportunity to study and perform under a highly prestigious professional staff of teachers and performers.
+Each season, Calgary Opera provides up to eight young singers with the opportunity to study and perform under a professional staff of teachers and performers. The program serves as a bridge between academic programs and the professional world of opera, offering the experience and practical skills necessary to succeed as a self-employed artist in a highly competitive international environment.
 
-The program is intended to benefit Canadian singers who have completed pre-professional training at an opera program. It will serve as a bridge between academic programs and the professional world of opera, offering the experience and practical skills necessary to succeed as a self-employed professional in a highly competitive international environment.
+**Calgary Opera commits to empowering all voices, regardless of background or identity and is dedicated to creating a safe space for everyone to feel a keen sense of belonging. We encourage applications from diverse backgrounds who share in our commitment to building an equitable, diverse, and inclusive environment.**
