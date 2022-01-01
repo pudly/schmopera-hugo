@@ -1,7 +1,7 @@
 +++
 author = ["authors/oliver-munar.md"]
 categories = "Review"
-date = 2021-12-29T05:00:00Z
+date = 2022-01-01T05:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "Calgary Opera’s production of Ravel's _The Enchanted Child_ (_L'enfant et les sortilèges_) ran December 10-12 at the Mamdani Opera Centre. Directed by Rob Herriot with a chamber orchestra conducted by Mark Morash, the production featured all eight artists of the McPhee Artist Development Program singing in French with English subtitles. Calgary Opera's next production is in January-February 2022, with Lehar's [_The Merry Widow_](https://calgaryopera.com/21-22/merry-widow)."
