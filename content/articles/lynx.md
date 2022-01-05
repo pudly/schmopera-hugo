@@ -5,7 +5,7 @@ date = 2022-01-05T05:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
-postamble = ""
+postamble = "\\**_Some of our writers prefer person-first language, and others prefer identity-first. We alternate depending on context and whom we are talking about._"
 preamble = "_“Autistic children really want to be heard and speak for themselves. Being autistic somewhat conditions me to being passed over when someone asks a question and they look at my mom for the answer. I want people to take the time to communicate with autistic people and actually hear us for we have a lot to say.”_ – Rithik Sinhasan, 2017 Amplify Series writer."
 primary_image = ""
 primary_image_credit = ""
@@ -37,5 +37,3 @@ We hope this album captures the energy, joy, and power of this music and these t
 > "Having my words made into a song gives me hope that people will learn that making assumptions about nonspeaking individuals is wrong. We are smart and have a lot to add to the conversation if people choose to listen." -Luke Burke, Amplify Series writer 2018-19.
 
 ***
-
-\**_Some of our writers prefer person-first language, and others prefer identity-first. We alternate depending on context and whom we are talking about._
