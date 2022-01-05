@@ -12,7 +12,7 @@ primary_image_credit = ""
 related_articles = []
 related_companies = []
 related_people = []
-short_description = "short"
+short_description = "To date, LYNX has worked with fifteen young writers and fifteen composers on new commissions which range in topic from experiences as a person with autism to climate change to favorite foods."
 slug = "lynx"
 title = "LYNX"
 youtube_url = ""
@@ -22,7 +22,7 @@ What started as a small initiative to share the voices and stories of the nonspe
 
 Through the [Amplify Series](https://www.lynxproject.org/amplify-about-new), formerly Autism Advocacy Series, LYNX collects poetry and prose written by autistic individuals who are primarily nonspeaking, and commission composers to set their words as song. These youth communicate by spelling words on a letterboard, iPad, or keyboard. Their rich inner lives often go unnoticed or unacknowledged by those not directly connected to the autism or the letterboarding community.
 
-The Amplify Series began in 2016 with a group of youth from Cincinnati, OH. Through special education teacher and Rapid Prompting Method provider, Katie Masotti, sister of LYNX’s co-founder Megan Moore, LYNX’s founding team got to know the inaugural group of writers. These young men, Ryan Harris, Rithik Sinhasan, Sameer Dahar, and Rahul Sivaruban, and their families worked with LYNX on the creation and format of this first project. It has always been of utmost importance to LYNX that the Amplify Series is a true collaboration, and that it honors each participating voice—that of the poet, the composer, the singer, and the pianist—distinctly.
+The Amplify Series began in 2016 with a group of youth from Cincinnati, OH. Through special education teacher and Rapid Prompting Method provider, Katie Masotti, sister of LYNX's co-founder Megan Moore, LYNX's founding team got to know the inaugural group of writers. These young men, Ryan Harris, Rithik Sinhasan, Sameer Dahar, and Rahul Sivaruban, and their families worked with LYNX on the creation and format of this first project. It has always been of utmost importance to LYNX that the Amplify Series is a true collaboration, and that it honors each participating voice—that of the poet, the composer, the singer, and the pianist—distinctly.
 
 To date, LYNX has worked with fifteen young writers and fifteen composers on new commissions which range in topic from experiences as a person with autism to climate change to favorite foods. The range of song topics is itself a commentary—poems written by autistic individuals need not be about autism.
 
