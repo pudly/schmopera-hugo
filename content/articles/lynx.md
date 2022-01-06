@@ -1,7 +1,7 @@
 +++
 author = ["authors/caitleen-kahn.md"]
 categories = "Op-Ed"
-date = 2022-01-05T05:00:00Z
+date = 2022-01-07T05:00:00Z
 disclaimer = ""
 draft = true
 image_gallery = []
@@ -13,8 +13,8 @@ related_articles = []
 related_companies = ["scene/companies/lynx-project.md"]
 related_people = []
 short_description = "To date, LYNX has worked with fifteen young writers and fifteen composers on new commissions which range in topic from experiences as a person with autism to climate change to favorite foods."
-slug = "lynx"
-title = "LYNX"
+slug = "lynx-elevates-its-amplify-series-with-new-anthology"
+title = "LYNX elevates its Amplify Series with new anthology"
 youtube_url = ""
 
 +++
