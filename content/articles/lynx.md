@@ -3,7 +3,6 @@ author = ["authors/caitleen-kahn.md"]
 categories = "Op-Ed"
 date = 2022-01-07T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "\\**_Some of our writers prefer person-first language, and others prefer identity-first. We alternate depending on context and whom we are talking about._"
 preamble = "_“Autistic children really want to be heard and speak for themselves. Being autistic somewhat conditions me to being passed over when someone asks a question and they look at my mom for the answer. I want people to take the time to communicate with autistic people and actually hear us for we have a lot to say.”_ – Rithik Sinhasan, 2017 Amplify Series writer."
