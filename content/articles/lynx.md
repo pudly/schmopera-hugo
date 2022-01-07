@@ -48,6 +48,6 @@ In conjunction with the anthology, LYNX is releasing the album, [_beautiful smal
 
 We hope this album captures the energy, joy, and power of this music and these texts. And more than anything, we hope this album inspires you to _listen_ to the words of these youth with deliberation, intention, and an open mind. [The album and anthology are available for pre-order](https://www.artistshare.com/Projects/Experience/373/520); help us share these incredible voices.
 
-> "Having my words made into a song gives me hope that people will learn that making assumptions about nonspeaking individuals is wrong. We are smart and have a lot to add to the conversation if people choose to listen." -Luke Burke, Amplify Series writer 2018-19.
+> "Having my words made into a song gives me hope that people will learn that making assumptions about nonspeaking individuals is wrong. We are smart and have a lot to add to the conversation if people choose to listen." -Luke Burke, Amplify Series writer, 2018-19.
 
 ***
