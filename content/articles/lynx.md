@@ -43,7 +43,7 @@ In conjunction with the anthology, LYNX is releasing the album, [_beautiful smal
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1641414553/media/2022/01/LYNX_albumcover_AndrewWeatherly_SoundExposion_yhuytc.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Album art for beautiful small things, created by Kennedy Center VSA artist Andrew Weatherly.</figcaption>  
 </figure>
 
 We hope this album captures the energy, joy, and power of this music and these texts. And more than anything, we hope this album inspires you to _listen_ to the words of these youth with deliberation, intention, and an open mind. [The album and anthology are available for pre-order](https://www.artistshare.com/Projects/Experience/373/520); help us share these incredible voices.
