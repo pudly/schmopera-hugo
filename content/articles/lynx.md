@@ -39,11 +39,6 @@ In collaboration with the autism community, LYNX has presented these concerts fo
 
 Through NewMusicShelf publishing, LYNX has curated a [collection of songs](https://www.lynxproject.org/buy-the-amplify-album) which feature at least one song from every poet and composer who was commissioned for the Amplify Series between 2017 and 2020. LYNX's hope is that this anthology is a starting place for musicians to discover and learn this music. While it contains some of the LYNX team's favorite selections, the anthology is by no means comprehensive. The goal of the anthology is for singers and pianists to find songs that resonate with them while also discovering new composers.
 
-<figure data-type="image">{% md %}}{{% /md %}}
-
-<figcaption></figcaption>  
-</figure>
-
 In conjunction with the anthology, LYNX is releasing the album, [_beautiful small things_](https://www.youtube.com/watch?v=2X4e4Bw4Tio)_,_ on the ArtistShare label in March 2022. This album features each of the songs on the anthology, and is an invaluable resource to those looking to learn this music.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1641414553/media/2022/01/LYNX_albumcover_AndrewWeatherly_SoundExposion_yhuytc.jpg){{% /md %}}
