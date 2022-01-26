@@ -30,9 +30,13 @@ But strangely enough, we've gotten a glimpse of opera's future in Canada, and it
 
 Across Canada, it's a similar situation. Calgary's [_Merry Widow_](https://calgaryopera.com/21-22/merry-widow) opens this week, and its _Traviata_ will follow in April. Edmonton is rolling out [_Bohème_](https://www.edmontonopera.com/2022/boheme) next month, with _Così fan tutte_ soon after. In [Vancouver](https://www.vancouveropera.ca/), it was _Orfeo ed Euridice_, with _Cavalleria rusticana_ and _H.M.S. Pinafore_ on the 2022 horizon. In [Montreal](https://www.operademontreal.com/en/shows/2021-2022-season), it was going to be _Traviata_, but at least _Magic Flute_ is still in the plans.
 
-Suuuuuper conservative. But the reasoning is clear: money is tighter than ever, artists can't travel as freely, and the best laid plans are subject to destruction at any moment. It's not the time to "gamble" on new opera, or even 21st-century opera, despite its exciting lurch toward real relevance in the last 10 years. It's not even the time to try out a fun new co-production, apparently. I imagine donors are dropping away, and the wiggle room for adventure seems razor-thin.
+Suuuuuper conservative. And the reasoning is clear: money is tighter than ever, artists can't travel as freely, and the best laid plans are subject to destruction at any moment. It's not the time to "gamble" on new opera, or even 21st-century opera, despite its exciting lurch toward real relevance in the last 10 years. It's not even the time to try out a fun new co-production, apparently. I imagine donors are dropping away, and the wiggle room for adventure seems razor-thin.
 
-And yes, before you correct me: I do see that innovation is coming via digital projects. That's great news, and I hope it's not limited to online items. It's my hunch, however, that one can tell a company's real priorities by what it puts on its live, in-person stage.
+It's just... not landing right. Or not for me, anyway. We've always craved art that says something about the world around us, and as much as we may love them, these operas don't offer much to say about a COVID-stricken society. 
+
+And yes, before you correct me: I do see that innovation is coming via digital projects. These are adventurous, self-aware pieces of new opera that seem to speak personally to real opera fans who are art-starved. These digital works are promising, and I hope they start to move to the live stage. 
+
+After all, one can really sense a company's artistic priorities by what they put on their in-person mainstage.
 
 I hope I'm not the only arts-friendly person who still struggles to care about the performing arts. Not about the artists and their need to be employed, but about the performances themselves.
 
