@@ -46,4 +46,4 @@ The history nerd in me was thrilled to have found a reason - or at least a plaus
 
 I remembered that story when piecing together my thoughts on the current state of things in Canada's opera scene. It seems that, out of necessity, we're going with better-safe-than-sorry. I understand the position; I just mourn the fact that it's because we're in precarious health.
 
-Readers, what do you think? Is conservation savvy these days? Does it signal a hoarding of resources, ready to use with abandon and imagination once it's safe to go back to the opera? Or, does it 
+Readers, what do you think? Is conservation savvy these days? Does it signal a hoarding of resources, ready to use with abandon and imagination once it's safe to go back to the opera? Or, does it usher in a new age of low-risk, donor-appeasing rinse-and-repeat of _Carmen_, _Flute_, _Traviata_, and _Bohème_?
