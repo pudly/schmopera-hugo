@@ -30,6 +30,8 @@ Across Canada, it's a similar situation. Calgary's [_Merry Widow_](https://calga
 
 Suuuuuper conservative. But the reasoning is clear: money is tighter than ever, artists can't travel as freely, and the best laid plans are subject to destruction at any moment. It's not the time to "gamble" on new opera, or even 21st-century opera, despite its exciting lurch toward real relevance in the last 10 years. I imagine donors are dropping away, and the wiggle room for imagination seems razor-thin.
 
+And yes, I do see that innovation is coming via digital projects. That's great news, and I hope it's not limited to online items. It's my hunch, however, that one can tell a company's real priorities by what it puts on its live, in-person stage.
+
 It's almost hilarious to consider sitting through a _Traviata_ after the two years we've all just had. It feels like a niche form of gaslighting, to arrive at the theatre after all the destruction and loneliness and dismay and be shown something so clearly from another time. It's as though there's an expectation that a great high note can whisk us away to fantasy-land with the same ease that it did before we all lost ourselves to a public health emergency.
 
 I don't know who I'm so angry at, but I just want to say to someone: _Our art needs to be honest. It's not the fault of these tried-and-true operas that they exist in worlds without COVID-19, but I don't have any room to care about them right now. Tell me a story about isolation or ruined holidays or deep worries for our children, then I might perk up._
