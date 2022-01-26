@@ -28,7 +28,7 @@ But strangely enough, we've gotten a glimpse of opera's future in Canada, and it
 
 Across Canada, it's a similar situation. Calgary's [_Merry Widow_](https://calgaryopera.com/21-22/merry-widow) opens this week, and its _Traviata_ will follow in April. Edmonton is rolling out [_Bohème_](https://www.edmontonopera.com/2022/boheme) next month, with _Così fan tutte_ soon after. In [Vancouver](https://www.vancouveropera.ca/), it was _Orfeo ed Euridice_, with _Cavalleria rusticana_ and _H.M.S. Pinafore_ on the 2022 horizon. In [Montreal](https://www.operademontreal.com/en/shows/2021-2022-season), it was going to be _Traviata_, but at least _Magic Flute_ is still in the plans.
 
-Suuuuuper conservative. But the reasoning is clear: money is tighter than ever, artists can't travel as freely, and the best laid plans are subject to destruction at any moment. It's not the time to "gamble" on new opera, or even 21st-century opera, despite its exciting lurch toward real relevance in the last 10 years.
+Suuuuuper conservative. But the reasoning is clear: money is tighter than ever, artists can't travel as freely, and the best laid plans are subject to destruction at any moment. It's not the time to "gamble" on new opera, or even 21st-century opera, despite its exciting lurch toward real relevance in the last 10 years. I imagine donors are dropping away, and the wiggle room for imagination seems razor-thin.
 
 It's almost hilarious to consider sitting through a _Traviata_ after the two years we've all just had. It feels like a niche form of gaslighting, to arrive at the theatre after all the destruction and loneliness and dismay and be shown something so clearly from another time. It's as though there's an expectation that a great high note can whisk us away to fantasy-land with the same ease that it did before we all lost ourselves to a public health emergency.
 
@@ -40,6 +40,8 @@ For one of my Master's degree recitals (hay, Don Wright Faculty of Music!) I pro
 
 What was with the shift backwards, I wondered? Turns out: he was going deaf. Beethoven wrote the A Major Cello Sonata around 1808, a handful of years after he started losing his hearing. And if you were a revolutionary composer who could no longer trust his ears, what would you do? You'd trust music theory, and you'd write what works on paper. At least until you get used to writing without your ears, and you finally branch out again and end up with a [_Grosse Fugue_](https://en.wikipedia.org/wiki/Grosse_Fuge)_._
 
-The history nerd in me was thrilled to have found a reason - or at least a plausible theory - why Beethoven went from bold to safe so abruptly, mid-way through his career. But the human in me was heartbroken that there was this trail of breadcrumbs in Beethoven's composing, where we could (ironically) hear the man go from bold innovator to 
+The history nerd in me was thrilled to have found a reason - or at least a plausible theory - why Beethoven went from bold to safe so abruptly, mid-way through his career. But the human in me was heartbroken that there was this trail of breadcrumbs in Beethoven's composing, where we could (ironically) hear the man go deaf, go from bold innovator to timid form-follower.
 
-Seasons announced, shows pivoted last-minute to virtual because Omicron, boo.
+I remembered that story when piecing together my thoughts on the current state of things in Canada's opera scene. It seems that, out of necessity, we're going with better-safe-than-sorry. I understand the position; I just mourn the fact that it's because we're in precarious health.
+
+Readers, what do you think? Is conservation savvy these days? Does it signal a hoarding of resources, ready to use with abandon and imagination once it's safe to go back to the opera? Or, does it 
