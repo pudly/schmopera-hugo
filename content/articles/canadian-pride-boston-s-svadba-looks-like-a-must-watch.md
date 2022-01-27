@@ -3,13 +3,12 @@ author = ["authors/jenna.md"]
 categories = "Editorial"
 date = 2022-01-27T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1643292055/media/2022/01/sqBLO-2022-Svadba_jzlfxx.jpg"
 primary_image_credit = ""
-related_articles = []
+related_articles = ["articles/kristin-hoffs-love-songs.md"]
 related_companies = ["scene/companies/opera-philadelphia.md", "scene/companies/boston-lyric-opera-1.md"]
 related_people = []
 short_description = "Svadba"
@@ -28,7 +27,7 @@ The trailer for this digital production is out now, and it looks like a beautifu
 
 _Svadba_ is full of mystery - mostly in its mix of languages, both real and otherwise - but it's really a simple story under it all: a woman is about to be married, and she is surrounded by other women who help her prepare. They celebrate her, mourn the loss of her unmarried self, advise her of what's to come, and send her off into the world. It's wistful and real, and feels ancient and contemporary all at once.
 
-I have a special spot in my heart for this opera. I saw it in what I believe was it's earliest stages, in rehearsals for the first performance with Queen of Puddings Theatre in Toronto. My teacher at the time, John Hess, was music director, and he invited me to sit in on a rehearsal for something he told me would be "wild".
+I have a special spot in my heart for this opera. I saw it in what I believe was it's earliest stages, in rehearsals for the first performance with Queen of Puddings Theatre in Toronto. My teacher at the time, [John Hess](/check-out-the-irish-art-song-project/), was music director, and he invited me to sit in on a rehearsal for something he told me would be "wild".
 
 I remember John gave me a score to read while I watched, baffled, at how these six women managed to learn, let alone perform with apparent ease, Sokolović's detail-infused music. And then I stopped marvelling at the music, and turned to the amazing show of women caring for other women. 
 
