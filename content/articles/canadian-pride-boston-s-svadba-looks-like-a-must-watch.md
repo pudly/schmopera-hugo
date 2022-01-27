@@ -30,4 +30,6 @@ _Svadba_ is full of mystery - mostly in its mix of languages, both real and othe
 
 I have a special spot in my heart for this opera. I saw it in what I believe was it's earliest stages, in rehearsals for the first performance with Queen of Puddings Theatre in Toronto. My teacher at the time, John Hess, was music director, and he invited me to sit in on a rehearsal for something he told me would be "wild".
 
-I remember he gave me a score to read while I watched, baffled, at how these six women 
+I remember John gave me a score to read while I watched, baffled, at how these six women managed to learn, let alone perform with apparent ease, Sokolović's detail-infused music. And then I stopped marvelling at the music, and turned to the amazing show of women caring for other women. 
+
+In just over a decade, _Svadba_ seems to be one of Canada's most widely-circulated operas. It certainly travels well; any opera that doesn't need an orchestra _and_ has room for six women onstage at once is a winner for me.
