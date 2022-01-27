@@ -26,27 +26,21 @@ Elsewhere in the world, things seem less dire. European (read: German) companies
 
 In Canada, the return is certainly slower. Our funding model doesn't allow for quick pivots à-la-Oper Frankfurt. And if we're being brutally honest, we're seeing the effects of living in a culture that simply does not prioritize the arts, let alone the classical arts.
 
-But when opera does seem to be trickling back (Omicron waves notwithstanding), one shouldn't be a choosy beggar, right? I'm certainly happy to see any opera at all coming out of Canada's staple companies. But from the Canadian Opera Company to Vancouver Opera, the 2021-22 seasons are packed with old standards and productions that the companies own. 
+But when opera does seem to be trickling back (Omicron waves notwithstanding), one shouldn't be a choosy beggar, right? But I can't help but notice that the productions Canadian companies can afford to put up are operas that have nothing to say about life right now.
 
-The COC's hybrid season was set to feature in-person shows starting with _Madama Butterfly_ in February 2022 (now offered digitally, because Omicron) 
-
-But strangely enough, we've gotten a glimpse of opera's future in Canada, and it's more conservative than ever. When the Canadian Opera Company announced a hybrid season that would feature in-person shows starting in February 2022, it was hard not to notice that the shows they unveiled were old standards (and COC-owned productions): Diane Paulus' _Magic Flute_, Arin Arbus' _Traviata_, that sort of thing.
+The COC's hybrid season was set to feature in-person shows starting with _Madama Butterfly_ in February 2022 (now offered digitally, because Omicron), followed by Arin Arbus' _La traviata_ and Diane Paulus' _The Magic Flute_. All three are COC-owned productions, which makes sense because I imagine funding is tight.
 
 Across Canada, it's a similar situation. Calgary's [_Merry Widow_](https://calgaryopera.com/21-22/merry-widow) opens this week, and its _Traviata_ will follow in April. Edmonton is rolling out [_Bohème_](https://www.edmontonopera.com/2022/boheme) next month, with _Così fan tutte_ soon after. In [Vancouver](https://www.vancouveropera.ca/), it was _Orfeo ed Euridice_, with _Cavalleria rusticana_ and _H.M.S. Pinafore_ on the 2022 horizon. In [Montreal](https://www.operademontreal.com/en/shows/2021-2022-season), it was going to be _Traviata_, but at least _Magic Flute_ is still in the plans.
 
-Suuuuuper conservative. And the reasoning is clear: money is tighter than ever, artists can't travel as freely, and the best laid plans are subject to destruction at any moment. It's not the time to "gamble" on new opera, or even 21st-century opera, despite its exciting lurch toward real relevance in the last 10 years. It's not even the time to try out a fun new co-production, apparently. I imagine donors are dropping away, and the wiggle room for adventure seems razor-thin.
+All company-owned, low-risk picks; Bohèmes and G&S have always put the bums-in-seats.
 
-It's just... not landing right. Or not for me, anyway. We've always craved art that says something about the world around us, and as much as we may love them, these operas don't offer much to say about a COVID-stricken society. 
+And the reasoning is clear: money is tighter than ever, artists can't travel as freely, and the best laid plans are subject to destruction at any moment. It's not the time to gamble on new opera, or even 21st-century opera, despite its exciting lurch toward real relevance in the last 10 years. It's not even the time to try out a fun new co-production, apparently. I imagine donors are dropping away, and the wiggle room for adventure seems razor-thin.
+
+But these tried-and-true operas just... don't land right. We've always craved art that says something about the world around us, and as much as we may love them, these operas don't offer much to a COVID-stricken society. 
 
 And yes, before you correct me: I do see that innovation is coming via digital projects. These are adventurous, self-aware pieces of new opera that seem to speak personally to real opera fans who are art-starved. These digital works are promising, and I hope they start to move to the live stage. 
 
-After all, one can really sense a company's artistic priorities - and its financial health - by what they put on their in-person, live stage.
-
-I hope I'm not the only arts-friendly person who still struggles to care about the performing arts. Not about the artists and their need to be employed, but about the performances themselves.
-
-It's almost hilarious to consider, after the two years we've all just had with all the destruction and loneliness and dismay, showing up to the theatre for a _Traviata_. In the before times, I was all for stories that swept me out of reality; now, it feels like a tone-deaf version of artistic gaslighting to expect that a great high note can affect us with the same ease that it did before we all lost ourselves to a public health emergency.
-
-I don't know who I'm so angry at, but I just want to say to someone: _Our art needs to be honest, and opera is not being honest. It's not the fault of these tried-and-true works that they exist in worlds without COVID-19, but I don't have any room to care about them right now. Tell me a story about isolation or ruined holidays or deep worries for our children, then I might perk up._
+But when you think about it, it's almost hilarious to consider showing up for a _Traviata_ after the two years we've all just had with all the destruction and loneliness and dismay. In the before times, I was all for stories that had big emotions and swept me out of reality; now, it feels futile to expect that a great high note can affect us with the same ease that it did before we all lost ourselves to a public health emergency.
 
 Here's a little story for you:
 
