@@ -25,6 +25,8 @@ Elsewhere in the world, things seem less dire. European (read: German) companies
 
 In Canada, the return is certainly slower. Our funding model doesn't allow for quick pivots à-la-Oper Frankfurt. And if we're being brutally honest, we're seeing the effects of living in a culture that simply does not prioritize the arts, let alone when the industry is in trouble.
 
+> It feels futile to expect that a great high note can affect us with the same ease that it did before we all lost ourselves to a public health emergency.
+
 So when opera does appear to be trickling back (Omicron waves notwithstanding), one shouldn't be a choosy beggar, right? I can't help but notice, though, that the in-person productions Canadian companies can afford to put up are operas that have nothing to say about life right now.
 
 The COC's hybrid season was set to feature in-person shows starting with _Madama Butterfly_ in February 2022 (now offered digitally, because Omicron), followed by Arin Arbus' _La traviata_ and Diane Paulus' _The Magic Flute_. All three are COC-owned productions, which makes sense because I imagine funding is tight.
@@ -41,9 +43,11 @@ But when you think about it, it's almost hilarious to consider showing up for a 
 
 Here's a little story for you:
 
-For one of my Master's degree recitals (hay, Don Wright Faculty of Music!) I programmed Beethoven's [Cello Sonata No. 3 in A Major, Op. 69](https://www.youtube.com/watch?v=X9pivx91mVk). As I practiced and practiced, I noticed that for an opus sixty-nine, the thing sounded pretty darn rudimentary. Like, closer to Haydn and Telemann than anything Beethoven is known for. This Cello Sonata is super tonal with clear structural guidelines, full of the kind of safe rule-following that's very weird when we consider that by this point, Beethoven had already written his Eroica Symphony and both the Waldstein _and_ Appassionata Piano Sonatas.
+For one of my Master's degree recitals (hay, Don Wright Faculty of Music!) I programmed Beethoven's [Cello Sonata No. 3 in A Major, Op. 69](https://www.youtube.com/watch?v=X9pivx91mVk). As I practiced and practiced, I noticed that for an opus sixty-nine, the thing sounded pretty darn rudimentary. Like, closer to Haydn and Telemann than anything Beethoven is known for. This Cello Sonata is super tonal with clear structural guidelines, full of the kind of safe rule-following that's very weird when we consider that by this point, Beethoven had already written his _Eroica_ Symphony and both the _Waldstein_ and _Appassionata_ Piano Sonatas.
 
-What was with the shift backwards, I wondered? Turns out: he was going deaf. Beethoven wrote the A Major Cello Sonata around 1808, a handful of years after he started losing his hearing. And if you were a revolutionary composer who could no longer trust his ears, what would you do? You'd trust music theory, and you'd write what works on paper. At least until you get used to writing without your ears, and you finally branch out again and end up with a [_Grosse Fugue_](https://en.wikipedia.org/wiki/Grosse_Fuge)_._
+> Maybe we're like Beethoven: out of necessity, we're going with the better-safe-than-sorry option, even though it doesn't say anything new.
+
+What was with the shift backwards, I wondered? Turns out: he was going deaf. Beethoven wrote the A Major Cello Sonata around 1808, a handful of years after he started losing his hearing. And if you were a revolutionary composer who could no longer trust his ears, what would you do? You'd trust music theory, and you'd write what works on paper. At least until you get used to writing without your ears, and you finally branch out again and end up with a [_Große Fugue_](https://en.wikipedia.org/wiki/Grosse_Fuge)_._
 
 The history nerd in me was thrilled to have found a reason - or at least a plausible theory - why Beethoven went from bold to safe so abruptly, mid-way through his career. But the human in me was heartbroken that there was this trail of breadcrumbs in Beethoven's composing, where we could (ironically) hear the man go deaf, go from bold innovator to timid form-follower.
 
