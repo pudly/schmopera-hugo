@@ -13,7 +13,7 @@ related_companies = ["scene/companies/houston-grand-opera.md", "scene/companies/
 related_people = []
 short_description = "In the before times, I was all for stories that had big emotions and swept me out of reality; now, it feels futile to expect that a great high note can affect us with the same ease that it did before we all lost ourselves to a public health emergency."
 slug = "the-road-back-to-opera-in-canada-its-just-like-when-beethoven-went-deaf"
-title = "Traditional opera: pretty far away from life right now"
+title = "Opera comes back to Canada & "
 youtube_url = ""
 
 +++
