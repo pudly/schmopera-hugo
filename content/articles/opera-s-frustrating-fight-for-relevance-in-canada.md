@@ -13,7 +13,7 @@ related_companies = ["scene/companies/houston-grand-opera.md", "scene/companies/
 related_people = []
 short_description = "In the before times, I was all for stories that had big emotions and swept me out of reality; now, it feels futile to expect that a great high note can affect us with the same ease that it did before we all lost ourselves to a public health emergency."
 slug = "the-road-back-to-opera-in-canada-its-just-like-when-beethoven-went-deaf"
-title = "The road back to opera in Canada: it's just like when Beethoven went deaf"
+title = "Traditional opera: pretty far away from life right now"
 youtube_url = ""
 
 +++
@@ -27,7 +27,7 @@ In Canada, the return is certainly slower. Our funding model doesn't allow for q
 
 > It feels futile to expect that a great high note can affect us with the same ease that it did before we all lost ourselves to a public health emergency.
 
-So when opera does appear to be trickling back (Omicron waves notwithstanding), one shouldn't be a choosy beggar, right? I can't help but notice, though, that the in-person productions Canadian companies can afford to put up are operas that have nothing to say about life right now.
+So when opera does appear to be trickling back (Omicron waves notwithstanding), one shouldn't be a choosy beggar, right? I can't help but notice, though, that the in-person productions Canadian companies can afford to put up are operas that feel really far away from life right now.
 
 The COC's hybrid season was set to feature in-person shows starting with _Madama Butterfly_ in February 2022 (now offered digitally, because Omicron), followed by Arin Arbus' _La traviata_ and Diane Paulus' _The Magic Flute_. All three are COC-owned productions, which makes sense because I imagine funding is tight.
 
