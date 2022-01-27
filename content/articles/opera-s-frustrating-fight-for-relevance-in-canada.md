@@ -24,9 +24,9 @@ Readers, if you're like me, you've become a hardened version of an opera fan. Yo
 
 Elsewhere in the world, things seem less dire. European (read: German) companies are up and running, switching on and off for periodic closures as needed because they have robust state funding models. And in the US, things are effectively open, with full seasons coming out of Chicago Lyric, Houston Grand, and LA Opera. The Met even managed to make some history with its 2021-22 opener, Terence Blanchard's _Fire Shut Up in my Bones_. 
 
-In Canada, the return is certainly slower. Our funding model doesn't allow for quick pivots à-la-Oper Frankfurt. And if we're being brutally honest, we're seeing the effects of living in a culture that simply does not prioritize the arts, let alone the classical arts.
+In Canada, the return is certainly slower. Our funding model doesn't allow for quick pivots à-la-Oper Frankfurt. And if we're being brutally honest, we're seeing the effects of living in a culture that simply does not prioritize the arts, let alone when the industry is in trouble.
 
-But when opera does seem to be trickling back (Omicron waves notwithstanding), one shouldn't be a choosy beggar, right? But I can't help but notice that the productions Canadian companies can afford to put up are operas that have nothing to say about life right now.
+So when opera does appear to be trickling back (Omicron waves notwithstanding), one shouldn't be a choosy beggar, right? I can't help but notice, though, that the productions Canadian companies can afford to put up are operas that have nothing to say about life right now.
 
 The COC's hybrid season was set to feature in-person shows starting with _Madama Butterfly_ in February 2022 (now offered digitally, because Omicron), followed by Arin Arbus' _La traviata_ and Diane Paulus' _The Magic Flute_. All three are COC-owned productions, which makes sense because I imagine funding is tight.
 
