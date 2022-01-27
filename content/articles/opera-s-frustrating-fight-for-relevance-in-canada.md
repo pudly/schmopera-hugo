@@ -22,9 +22,11 @@ Who else wants off the rollercoaster?!
 
 Readers, if you're like me, you've become a hardened version of an opera fan. You swat away feelings of hope when you see a season announcement from a major company. You read about last-minute show cancellations  - or last-minute virtual pivots - with an audible amount of _yeah, seems about right_ in your resigned sigh.
 
-If you watch the digital stuff, you with the resentful approach of my four-year-old when he puts his Lego collection away at a rate of one block per minute. _You're making me do this_, we grumble to Omicron, or to Rob Ford, or to the void.
+Elsewhere in the world, things seem less dire. European companies are up and running, switching on and off for periodic closures as needed, thanks to their state funding models. And south of the border, it's the same deal. Masks are on in the US, but so are the shows. 
 
-Here in Canada, we're also noticing the flurry of activity across the pond. European companies are up and running, switching on and off for periodic closures as needed, thanks to their state funding models. And south of the border, it's the same deal. Masks are on in the US, but so are the shows. I figure the difference here is a combination of Canadian caution and a few politicians who completely and utterly suck and have zero place in their minds for the arts industry.
+In Canada, the return is certainly slower. Our funding model doesn't allow for quick pivots à-la-Oper Frankfurt. And if we're being brutally honest, we're seeing the effects of a culture and a government that simply does not prioritize the arts, let alone the classical arts.
+
+But when opera does seem to be trickling back (Omicron waves notwithstanding), one shouldn't be a choosy beggar, right?***
 
 But strangely enough, we've gotten a glimpse of opera's future in Canada, and it's more conservative than ever. When the Canadian Opera Company announced a hybrid season that would feature in-person shows starting in February 2022, it was hard not to notice that the shows they unveiled were old standards (and COC-owned productions): Diane Paulus' _Magic Flute_, Arin Arbus' _Traviata_, that sort of thing.
 
@@ -36,7 +38,7 @@ It's just... not landing right. Or not for me, anyway. We've always craved art t
 
 And yes, before you correct me: I do see that innovation is coming via digital projects. These are adventurous, self-aware pieces of new opera that seem to speak personally to real opera fans who are art-starved. These digital works are promising, and I hope they start to move to the live stage. 
 
-After all, one can really sense a company's artistic priorities by what they put on their in-person mainstage.
+After all, one can really sense a company's artistic priorities - and its financial health - by what they put on their in-person, live stage.
 
 I hope I'm not the only arts-friendly person who still struggles to care about the performing arts. Not about the artists and their need to be employed, but about the performances themselves.
 
