@@ -21,7 +21,7 @@ Who else wants off the rollercoaster?!
 
 Readers, if you're like me, you've become a hardened version of an opera fan. You swat away feelings of hope when you see a season announcement from a major company. You read about last-minute show cancellations  - or last-minute virtual pivots - with an audible amount of _yeah, seems about right_ in your resigned sigh.
 
-Elsewhere in the world, things seem less dire. European (read: German) companies are up and running, switching on and off for periodic closures as needed because they have robust state funding models. And in the US, things are effectively open, with full seasons coming out of Chicago Lyric, Houston Grand, and LA Opera. The Met even managed to make some history with its 2021-22 opener, Terence Blanchard's _Fire Shut Up in my Bones_. 
+Elsewhere in the world, things seem less dire. European (read: German) companies are up and running, switching on and off for periodic closures as needed because they have robust state funding models. And in the US, things are effectively open, with full seasons coming out of Chicago Lyric, Houston Grand, and LA Opera. The Met even managed to make some history with its 2021-22 opener, Terence Blanchard's _Fire Shut Up in my Bones_.
 
 In Canada, the return is certainly slower. Our funding model doesn't allow for quick pivots à-la-Oper Frankfurt. And if we're being brutally honest, we're seeing the effects of living in a culture that simply does not prioritize the arts, let alone when the industry is in trouble.
 
@@ -37,7 +37,7 @@ All low-risk picks; _Bohèmes_ and G&S have always put the bums-in-seats.
 
 And the reasoning is clear: money is tighter than ever, artists can't travel as freely, and the best laid plans are subject to destruction at any moment. It's not the time to gamble on new opera, or even 21st-century opera, despite its exciting lurch toward real relevance in the last 10 years. It's not even the time to try out a fun new co-production, apparently. I imagine donors are dropping away, and the wiggle room for adventure seems razor-thin.
 
-But these tried-and-true operas just... don't land right. We've always craved art that says something about the world around us, and as much as we may love them, these operas don't offer much to a COVID-stricken society. 
+But these tried-and-true operas just... don't land right. We've always craved art that says something about the world around us, and as much as we may love them, these operas don't offer much to a COVID-stricken society.
 
 But when you think about it, it's almost hilarious to consider showing up for a _Traviata_ after the two years we've all just had with all the destruction and loneliness and dismay. In the before times, I was all for stories that had big emotions and swept me out of reality; now, it feels futile to expect that a great high note can affect us with the same ease that it did before we all lost ourselves to a public health emergency.
 
@@ -58,3 +58,5 @@ It's worth remembering that Beethoven's conservatism, brought on by deafness, wa
 <figure data-type="video">{{% md %}}<iframe width="840" height="630" src="https://www.youtube.com/embed/X9pivx91mVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
 </figure>
+
+P.S. Hilariously, [this](/help-the-pandemic-has-made-me-opera-conservative/) is how I felt about everything about 4 months ago.
