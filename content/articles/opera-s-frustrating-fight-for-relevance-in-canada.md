@@ -12,8 +12,8 @@ related_articles = ["articles/covid.md"]
 related_companies = ["scene/companies/houston-grand-opera.md", "scene/companies/los-angeles-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/l-opéra-de-montréal.md", "scene/companies/edmonton-opera.md", "scene/companies/vancouver-opera.md", "scene/companies/calgary-opera.md", "scene/companies/canadian-opera-company.md"]
 related_people = []
 short_description = "In the before times, I was all for stories that had big emotions and swept me out of reality; now, it feels futile to expect that a great high note can affect us with the same ease that it did before we all lost ourselves to a public health emergency."
-slug = "the-road-back-to-opera-in-canada-its-just-like-when-beethoven-went-deaf"
-title = "Opera comes back to Canada & "
+slug = "opera-creeps-back-to-canada-it-reminds-me-of-beethoven"
+title = "Opera creeps back to Canada & it reminds me of Beethoven"
 youtube_url = ""
 
 +++
