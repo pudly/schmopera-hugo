@@ -4,7 +4,7 @@ categories = "Editorial"
 date = 2022-01-26T05:00:00Z
 disclaimer = ""
 image_gallery = []
-postamble = ""
+postamble = "Readers, what do you think? Is conservation savvy these days? Will you go to the opera in 2022? Let us know in the comments or [get in touch]()."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1643223547/media/2022/01/Beethoven_yshnak.jpg"
 primary_image_credit = ""
@@ -54,5 +54,3 @@ It's worth remembering that Beethoven's conservatism, brought on by deafness, wa
 <figure data-type="video">{{% md %}}<iframe width="840" height="630" src="https://www.youtube.com/embed/X9pivx91mVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
 </figure>
-
-Readers, what do you think? Is conservation savvy these days? Will you go to the opera in 2022? Let us know in the comments or [get in touch]().
