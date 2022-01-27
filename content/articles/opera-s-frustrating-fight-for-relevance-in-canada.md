@@ -3,16 +3,15 @@ author = ["authors/jenna.md"]
 categories = "Editorial"
 date = 2022-01-26T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1643223547/media/2022/01/Beethoven_yshnak.jpg"
 primary_image_credit = ""
-related_articles = []
-related_companies = ["scene/companies/l-opéra-de-montréal.md", "scene/companies/edmonton-opera.md", "scene/companies/vancouver-opera.md", "scene/companies/calgary-opera.md", "scene/companies/canadian-opera-company.md"]
+related_articles = ["articles/covid.md"]
+related_companies = ["scene/companies/houston-grand-opera.md", "scene/companies/los-angeles-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/l-opéra-de-montréal.md", "scene/companies/edmonton-opera.md", "scene/companies/vancouver-opera.md", "scene/companies/calgary-opera.md", "scene/companies/canadian-opera-company.md"]
 related_people = []
-short_description = "But the human in me was heartbroken that there was this trail of breadcrumbs in Beethoven's composing, where we could (ironically) hear the man go deaf, go from bold innovator to timid form-follower."
+short_description = "In the before times, I was all for stories that had big emotions and swept me out of reality; now, it feels futile to expect that a great high note can affect us with the same ease that it did before we all lost ourselves to a public health emergency."
 slug = "the-road-back-to-opera-in-canada-its-just-like-when-beethoven-went-deaf"
 title = "The road back to opera in Canada: it's just like when Beethoven went deaf"
 youtube_url = ""
@@ -48,8 +47,12 @@ What was with the shift backwards, I wondered? Turns out: he was going deaf. Bee
 
 The history nerd in me was thrilled to have found a reason - or at least a plausible theory - why Beethoven went from bold to safe so abruptly, mid-way through his career. But the human in me was heartbroken that there was this trail of breadcrumbs in Beethoven's composing, where we could (ironically) hear the man go deaf, go from bold innovator to timid form-follower.
 
-I remembered that story when piecing together my thoughts on the current state of things in Canada's opera scene. It seems that, out of necessity, we're going with better-safe-than-sorry. I understand the position; I just mourn the fact that it's because we're in precarious health.
+I remembered that story when piecing together my thoughts on the current state of things in Canada's opera scene. Maybe we're like Beethoven: out of necessity, we're going with the better-safe-than-sorry option, even though it doesn't say anything new. I understand the decision; I just mourn the fact that we're making it because we're in precarious health.
 
-It's worth remembering that Beethoven's conservatism, brought on by deafness, was only temporary. He went on to write the _Missa Solemnis_ and the _Ninth Symphony_, after all; maybe we're in for a fresh bout of revolution?
+It's worth remembering that Beethoven's conservatism, brought on by deafness, was only temporary. He went on to write the _Missa Solemnis_ and _Fidelio_ and the Ninth Symphony, after all; so maybe we're in for a fresh bout of revolution?
 
-Readers, what do you think? Is conservation savvy these days? Does it signal a hoarding of resources, ready to use with abandon and imagination once it's safe to go back to the opera? Or, does it usher in a new age of low-risk, donor-appeasing rinse-and-repeat of _Carmen_, _Flute_, _Traviata_, and _Bohème_?
+<figure data-type="video">{{% md %}}<iframe width="840" height="630" src="https://www.youtube.com/embed/X9pivx91mVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+
+</figure>
+
+Readers, what do you think? Is conservation savvy these days? Will you go to the opera in 2022? Let us know in the comments or [get in touch]().
