@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = "Calgary Opera's production of Lehár's [_The Merry Widow_](https://calgaryopera.com/21-22/merry-widow) opens Saturday, January 29, with two subsequent performances on February 2 and 4. The production is directed by Omer Ben Seadia and features the Calgary Philharmonic Orchestra conducted by Tania Miller."
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1643466927/media/2022/01/sqCalgaryOpera_MerryWidow_AvivaFortunata_TrudieLee_gwqcxa.jpg"
+primary_image_credit = "Aviva Fortunata as Hanna Glawari in Calgary Opera's production of The Merry Widow, 2022. Photo: Trudie Lee."
 related_articles = []
 related_companies = []
 related_people = ["scene/people/andrew-love.md", "scene/people/colin-ainsworth.md", "scene/people/jacqueline-woodley.md", "scene/people/aviva-fortunata.md"]
@@ -18,7 +18,7 @@ title = "A Merry Return to the Mainstage"
 youtube_url = ""
 
 +++
-Ever since I performed in my first opera many, many moons ago, I’ve been hooked by the rush of production week. That call over the intercom to take your places for the top of the show. The sound of the orchestra tuning. My eyes adjusting to the darkened hall under the lights and controlling my breathing to make sure my first entry is on point and in tune. The energy you get from the audience’s reactions to cheeky dialogue or a show-stopping number. 
+Ever since I performed in my first opera many, many moons ago, I’ve been hooked by the rush of production week. That call over the intercom to take your places for the top of the show. The sound of the orchestra tuning. My eyes adjusting to the darkened hall under the lights and controlling my breathing to make sure my first entry is on point and in tune. The energy you get from the audience’s reactions to cheeky dialogue or a show-stopping number.
 
 Very few things could compare to performing a live opera including costumes, choreography, sets, lights, orchestra, and, of course, singers. All week, as Calgary  Opera prepares for opening night of Lehár’s The Merry Widow, I could definitely feel the excitement building to a fevered pitch — at least from my vantage point as a member of the Chorus.
 
@@ -26,7 +26,7 @@ Very few things could compare to performing a live opera including costumes, cho
 
 At the time COVID started, Love was touring in a production of the famed musical Les Misérables. “The pandemic pretty much destroyed my livelihood,” he admits. “I had to figure out a lot of things about myself and what I want in my life, a lot of reevaluating my career and my future.”
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1643466990/media/2022/01/CalgaryOpera_MerryWidow_AndrewLove_HarderLeePhotography_acf9yi.jpg){{% /md %}}
 
 <figcaption>Baritone Andrew Love stars as Count Danilo in Calgary Opera’s The Merry Widow, which marks the company’s return to the mainstage since the COVID pandemic began. “I am so thrilled to be back on stage and performing again.” Photo courtesy of Calgary Opera.</figcaption>  
 </figure>
@@ -37,12 +37,12 @@ Which makes the idea of offering this full production of The Merry Widow so mean
 
 The decision to proceed with a full show led to stringent rules that were rooted in public health guidelines. Principals had to be doubly vaccinated. Everyone had to submit a rapid test result on days they were called to rehearsal. If they tested COVID-positive, they had to self-isolate and could only attend rehearsals via Zoom until the company cleared them to return. Everyone sang with masks until the production moved to the larger space at the Jubilee Auditorium — and even then, Chorus, dancers and supers were masked except for one night during production week.
 
-<figure data-type="image">{{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1643467013/media/2022/01/ColinAinsworth_JacquelineWoodley_TrudieLee_otaacd.jpg){{% /md %}}
 
 <figcaption>Jacqueline Woodley (Valencienne) and Colin Ainsworth (Camille de Rosillon) rehearsed in masks as part of Calgary Opera’s safety protocols for The Merry Widow. The company had strict measures in place to protect the collective health of cast and crew, including mandatory masks and rapid tests for days people were called to rehearsal. Photo courtesy of Calgary Opera</figcaption>  
 </figure>
 
-All of these safeguards are in place so Calgary Opera can offer three shows with its cast performing without masks, singing and performing together. “A mask just changes something in the production of sound for me,” says Andrew Love. “But if it meant being able to perform live, I’d wear one for every rehearsal.” Which he did, although he definitely looked like he enjoyed singing without a mask for all three orchestra rehearsals. 
+All of these safeguards are in place so Calgary Opera can offer three shows with its cast performing without masks, singing and performing together. “A mask just changes something in the production of sound for me,” says Andrew Love. “But if it meant being able to perform live, I’d wear one for every rehearsal.” Which he did, although he definitely looked like he enjoyed singing without a mask for all three orchestra rehearsals.
 
 Singers tested COVID-positive during the month, myself included. When I informed the company of my test result, I was told to self-isolate and attend rehearsals virtually until such time the company deemed it safe for me to return. I watched staging rehearsals over Zoom so I could keep up with everyone else in the room. And when I felt I was no longer experiencing symptoms, I took another rapid test. When that came back COVID-negative, that’s when I was allowed to return.
 
@@ -54,7 +54,9 @@ Meghan Schultz, a member of the Calgary Opera Chorus, also caught COVID early in
 
 So too did Jeffrey Strand, one of the McPhee Artists and a principal in the show. Strand tested COVID-positive on December 29th, while he was home in the US during the holiday season, despite being fully vaccinated.
 
-“Because of government regulations I had to wait 14 days in the US before I could re-enter Canada,” he says. “Thankfully, by attending live-streamed rehearsals, I was still getting music and staging notes so when I finally did return, I could basically step right back into the production. It was really the best-possible scenario.”
+“Because of government regulations I had to wait 14 days in the US before I could re-enter Canada,” he says. “Thankfully, by attending live-streamed rehearsals, I was still getting music and staging notes so when I finally did return, I could basically step right back into the production. It was really the best-possible scenario."
+
+> "There is an extraordinary commitment from everyone who just wants to put on a show."
 
 Strand says he’s fortunate the company has kept him busy and engaged throughout the pandemic. As a McPhee Artist, he’s done workshops, recorded projects and live-streams, and performed in the December production of Ravel’s L’enfant et les sortilèges for live audiences. But he says this bigger, brasher production of The Merry Widow is different.
 
@@ -62,11 +64,11 @@ Strand says he’s fortunate the company has kept him busy and engaged throughou
 
 “We’re so lucky to have such a collaborative group of people who support each other and want each other to do well,” says Meghan Schultz. “And to be able to sing full voice, with high-calibre musicians, is such a privilege.”
 
-“I feel we are doing everything in our power to make this happen,” says Mark Morash. “We are taking extraordinary measures to make everyone safe, and there is an extraordinary commitment from everyone who just wants to put on a show. You feel that people are on board.”
+"I feel we are doing everything in our power to make this happen," says Mark Morash. "We are taking extraordinary measures to make everyone safe, and there is an extraordinary commitment from everyone who just wants to put on a show. You feel that people are on board."
 
-<figure data-type="image">{{% md %}}Chorus member and Schmopera contributor Oliver Munar is ready to perform The Merry Widow without a mask now that he’s recovered from a case of COVID in early January.{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1643467037/media/2022/01/Munar_gr73mb.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Chorus member and Schmopera contributor Oliver Munar is ready to perform The Merry Widow without a mask now that he’s recovered from a case of COVID in early January.</figcaption>  
 </figure>
 
 <figure data-type="image">{{% md %}}{{% /md %}}
