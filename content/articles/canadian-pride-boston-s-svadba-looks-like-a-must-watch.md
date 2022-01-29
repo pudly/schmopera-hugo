@@ -21,7 +21,7 @@ Coming to operabox.tv is [Boston Lyric Opera](/scene/companies/boston-lyric-oper
 
 The trailer for this digital production is out now, and it looks like a beautiful take on this piece:
 
-<figure data-type="image">{{% md %}}<iframe width="997" height="561" src="https://www.youtube.com/embed/_TA8hCUnXMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">{{% md %}}<iframe width="997" height="561" src="https://www.youtube.com/embed/_TA8hCUnXMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
 </figure>
 
@@ -29,7 +29,7 @@ _Svadba_ is full of mystery - mostly in its mix of languages, both real and othe
 
 I have a special spot in my heart for this 2011 opera. I saw it in what I believe was it's earliest stages, in rehearsals for the first performance with Queen of Puddings Theatre in Toronto. My teacher at the time, [John Hess](/check-out-the-irish-art-song-project/), was music director, and he invited me to sit in on a rehearsal for something he told me would be "wild".
 
-I remember John gave me a score to read while I watched, baffled, at how these six women managed to learn, let alone perform with apparent ease, Sokolović's detail-infused music. And then I stopped marvelling at the music, and turned to the amazing show of women caring for other women. 
+I remember John gave me a score to read while I watched, baffled, at how these six women managed to learn, let alone perform with apparent ease, Sokolović's detail-infused music. And then I stopped marvelling at the music, and turned to the amazing show of women caring for other women.
 
 In just over a decade, _Svadba_ seems to be one of Canada's most widely-circulated operas. It certainly travels well; any opera that doesn't need an orchestra _and_ has room for six women onstage at once is a winner for me.
 
