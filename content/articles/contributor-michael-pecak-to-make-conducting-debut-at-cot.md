@@ -23,6 +23,6 @@ Next month, Pecak will make his principal conducting debut with [Chicago Opera T
 
 _The Beekeeper_ is part of COT's [Vanguard Initiative](https://chicagooperatheater.org/vanguard), where the company fosters promising composers — including mentorship from Jake Heggie — and commissions full-length operas.
 
-The premiere, directed by Jerre Dye and with Pecak on the podium, happens on **March 4, 7:30pm** at the Athenaeum Theater in Chicago.
+The premiere, directed by Amy Hutchison and with Pecak on the podium, happens on **March 4, 7:30pm** at the Athenaeum Theater in Chicago.
 
 Toi toi toi, Michael!
