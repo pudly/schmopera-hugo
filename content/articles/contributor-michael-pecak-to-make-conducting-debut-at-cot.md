@@ -17,7 +17,7 @@ title = "Contributor Michael Pecak to make conducting debut at COT"
 youtube_url = ""
 
 +++
-We're pretty pumped for Michael Pecak, the conductor and fortepianist who's also a Schmopera contributor!
+We're pretty pumped for [Michael Pecak](/authors/michael-pecak/), the conductor and fortepianist who's also a Schmopera contributor!
 
 Next month, Pecak will make his principal conducting debut with [Chicago Opera Theatre](/scene/companies/chicago-opera-theater/), in the world premiere of _The Beekeeper_. The opera is a one-act with music by Wang Lu and a libretto by Kelley Rourke that hints at mystery and a bit of spookiness.
 
