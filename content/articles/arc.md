@@ -7,8 +7,8 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1644256308/media/2022/02/sq_VERVE_ANTHONY_COSTANZO_AND_JUSTIN_VIVIAN_BOND_nm9h3x.jpg"
+primary_image_credit = "Anthony Roth Costanzo and Justin Vivian Bond."
 related_articles = []
 related_companies = []
 related_people = []
@@ -42,4 +42,8 @@ Faeries at the Bottom of my Garden:
 * Dido-Dido...get it?? It's pretty great. JVB sounds smooth and easy - and take any chance you can to throw in a Ridi Pagliacci break
 * it's one of the albums where you keep saying, no I think _this_ is my favourite track
 * Rainbows/Raindrop
-* 
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1644256384/media/2022/02/20210518_VERVE_ANTHONY_COSTANZO_AND_JUSTIN_VIVIAN_BOND_cacrjd.jpg){{% /md %}}
+
+<figcaption>Justin Vivian Bond and Anthony Roth Costanzo for Only an Octave Apart.</figcaption>  
+</figure>
