@@ -20,7 +20,7 @@ youtube_url = ""
 +++
 * something immediately gripping about ARC's first note, it's bold but sof, enameled on the sides, perfect but not robotic, crazy
 * Justin Vivian Bond joins soon, hugely different, a bit fragile/brittle but likable and at arm's reach - acts as translator
-* JVB sound: a bit Elvis Costello, with some treble timbre
+* JVB sound: a bit Elvis Costello, a bit Rufus Wainwright
 * really are singing an octave apart, trading phrases and languages, JVB uses chest voice, both have an easy vibrato that sounds like old Hollywood
 * search for the doppelgnger, "to make our solitude less thorned"
 * they nod to Carol Burnett and Julie Andrews at Carnegie Hall in 1962, where Andrews had the "hygienic" confidence and Burnett had the comedy
@@ -38,4 +38,5 @@ Faeries at the Bottom of my Garden:
 [https://www.youtube.com/watch?v=0riW6dUkYM4](https://www.youtube.com/watch?v=0riW6dUkYM4 "https://www.youtube.com/watch?v=0riW6dUkYM4")
 
 * spoken word, very Rex Harrison in My Fair Lady, very Dame Edna
-* 
+* ARC's When I Am Laid is really arrestingly beautiful
+* Dido-Dido...get it?? It's pretty great. JVB sounds smooth and easy
