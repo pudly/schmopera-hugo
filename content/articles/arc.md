@@ -39,4 +39,6 @@ Faeries at the Bottom of my Garden:
 
 * spoken word, very Rex Harrison in My Fair Lady, very Dame Edna
 * ARC's When I Am Laid is really arrestingly beautiful
-* Dido-Dido...get it?? It's pretty great. JVB sounds smooth and easy
+* Dido-Dido...get it?? It's pretty great. JVB sounds smooth and easy - and take any chance you can to throw in a Ridi Pagliacci break
+* it's one of the albums where you keep saying, no I think _this_ is my favourite track
+* 
