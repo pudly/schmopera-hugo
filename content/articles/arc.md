@@ -31,8 +31,11 @@ youtube_url = ""
 * **arrangements by Nico Muhly, very very cool**
 * Gluck/Gabriel
 * really exciting sound for ARC with the Gabriel, next to JVB he runs with the "feminine" counterpart
-* 
+* Purcell-Garden mash-up, nod to this guy:
 
 Faeries at the Bottom of my Garden:
 
 [https://www.youtube.com/watch?v=0riW6dUkYM4](https://www.youtube.com/watch?v=0riW6dUkYM4 "https://www.youtube.com/watch?v=0riW6dUkYM4")
+
+* spoken word, very Rex Harrison in My Fair Lady, very Dame Edna
+* 
