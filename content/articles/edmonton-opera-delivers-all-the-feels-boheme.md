@@ -49,6 +49,8 @@ Soprano [Lara Ciekiewicz](/scene/people/lara-ciekiewicz/) impresses as the vivac
 
 The standout performance on this night belonged to baritone [Peter Barrett](/scene/people/peter-barrett/) as Marcello, in his debut with Edmonton Opera. Barrett is tailor-made for this role, which is perhaps one of the most grounded characters of _Bohème_, and demands a baritone of considerable ability and sensibility. On this night, his voice resonates with both vibrancy and authority over a full orchestra playing the exuberant Musetta's Waltz, eliciting one of the strongest audience responses for the evening.
 
+> Conductor Simon Rivard led the Edmonton Symphony Orchestra to breathe life into Puccini's beloved score.
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1644282702/media/2022/02/EO_Boheme_PeterMonaghanLukaKawabataAdamLutherMiriamKhalilPeterBarrettThomasGoerLaraCiekiewicz_qhxlhh.jpg){{% /md %}}
 
 <figcaption>Peter Monaghan (Colline), Luka Kawabata (Schaunard), Adam Luther (Rodolfo), Miriam Khalil (Mimi), Barrett, Tom Goerz (Alcindoro) and Lara Ciekiewicz (Musetta) in La bohème, Edmonton Opera, 2022. Photo: Nanc Price.</figcaption>  
