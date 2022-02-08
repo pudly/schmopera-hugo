@@ -8,7 +8,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1644282677/media/2022/02/sqEO_Boheme_LukaKawabataPeterMonaghanAdamLutherThomasGoerzPeterBarrett_NancPrice_bffjov.jpg"
-primary_image_credit = ""
+primary_image_credit = "The Bohemians (l-r): Luka Kawabata (Schaunard) Peter Monaghan (Colline), Adam Luther (Rodolfo) and Peter Barrett (Marcello), and Tom Goerz (Benoit). Photo by Nanc Price."
 related_articles = []
 related_companies = []
 related_people = []
@@ -35,9 +35,11 @@ This is the second time I have seen soprano Miriam Khalil as Mimì and I hope it
 <figcaption>The company of La bohème, Edmonton Opera, 2022. Photo: Nanc Price.</figcaption>  
 </figure>
 
+[Luka Kawabata](/scene/people/luka-kawabata/) and Peter Monaghan turned in solid opening night performances as the musician Schaunard and the philosopher Colline, respectively. Kawabata, a member of the Yulanda M. Faris Young Artists' Program with [Vancouver Opera](/scene/companies/luka-kawabata/), offers beautiful vocal colours to the ensemble cast, delivered with a youthful exuberance that is in keeping with his character. Monaghan's rich, round tone is befitting of a more thoughtful character as Colline; his voice is well matched to his Act IV aria, "Vecchia zimmara senti", in which he parts ways with his overcoat to help pay for much-needed supplies. And in his limited stage time as both the landlord Benoit (Act I) and the rich patron Alcindoro (Act II), bass-baritone Tom Goerz shows his mastery of comedic timing for both roles.
+
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1644282702/media/2022/02/EO_Boheme_PeterMonaghanLukaKawabataAdamLutherMiriamKhalilPeterBarrettThomasGoerLaraCiekiewicz_qhxlhh.jpg){{% /md %}}
 
-<figcaption> of La bohème, Edmonton Opera, 2022. Photo: Nanc Price.</figcaption>  
+<figcaption>Peter Monaghan (Colline), Luka Kawabata (Schaunard), Adam Luther (Rodolfo), Miriam Khalil (Mimi), Barrett, Tom Goerz (Alcindoro) and Lara Ciekiewicz (Musetta) in La bohème, Edmonton Opera, 2022. Photo: Nanc Price.</figcaption>  
 </figure>
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1644283129/media/2022/02/EO_Boheme_LaraCiekiewicz_NancPrice_nmuxye.jpg){{% /md %}}
