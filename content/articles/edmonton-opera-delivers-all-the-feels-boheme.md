@@ -32,15 +32,15 @@ This is the second time I have seen soprano Miriam Khalil as Mimì and I hope it
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1644282691/media/2022/02/EO_Boheme_Company_cppyhc.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>The company of La bohème, Edmonton Opera, 2022. Photo: Nanc Price.</figcaption>  
 </figure>
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1644282702/media/2022/02/EO_Boheme_PeterMonaghanLukaKawabataAdamLutherMiriamKhalilPeterBarrettThomasGoerLaraCiekiewicz_qhxlhh.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption> of La bohème, Edmonton Opera, 2022. Photo: Nanc Price.</figcaption>  
 </figure>
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1644282716/media/2022/02/EO_Boheme_Company_pvfqxs.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1644283129/media/2022/02/EO_Boheme_LaraCiekiewicz_NancPrice_nmuxye.jpg){{% /md %}}
 
-<figcaption></figcaption>  
+<figcaption>Lara Ciekiewicz as Musetta in La bohème, Edmonton Opera, 2022. Photo: Nanc Price.</figcaption>  
 </figure>
