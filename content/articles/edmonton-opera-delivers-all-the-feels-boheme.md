@@ -21,7 +21,7 @@ What’s an operatic production without a bit of drama?
 
 After a period of relative managerial upheaval and the challenges associated with mounting a mainstage production during a global pandemic, [Edmonton Opera](/scene/companies/edmonton-opera/) delivers a moving production of [Puccini's beloved _La Bohème_](https://www.edmontonopera.com/2022/boheme). The production marks the first mainstage performance for the company since announcing Joel Ivany as its new Artistic Director in November 2021, and the installation of Shannon Hiebert as the new Chorus Master.
 
-COVID also threw a wrench into the production when leading man [Andrew Haji](/scene/people/andrew-haji/) (Rodolfo) tested positive within a week of opening night, which necessitated the import of tenor Adam Luther to step into the role on short notice. Thankfully, opening night proceeded as planned, the behind-the-scenes drama having no perceived effect on the company's triumphant, "all-the-feels" return to the mainstage that will make even the most fickle patron fall in love with the story all over again.
+COVID also threw a wrench into the production when leading man [Andrew Haji](/scene/people/andrew-haji/) (Rodolfo) tested positive within a week of opening night, which necessitated the import of tenor [Adam Luther](/scene/people/adam-luther/) to step into the role on short notice. Thankfully, opening night proceeded as planned, the behind-the-scenes drama having no perceived effect on the company's triumphant, "all-the-feels" return to the mainstage that will make even the most fickle patron fall in love with the story all over again.
 
 > The standout performance on this night belonged to baritone Peter Barrett as Marcello, in his debut with Edmonton Opera.
 
