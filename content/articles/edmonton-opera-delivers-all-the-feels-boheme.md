@@ -4,11 +4,11 @@ categories = "Review"
 date = 2022-02-07T05:00:00Z
 disclaimer = ""
 image_gallery = []
-postamble = "Edmonton Opera's production of Puccini's _La Bohème_ is directed by François Racine and conducted by Simon Rivard with the Edmonton Symphony Orchestra. The two remaining performance dates are February 8 and 11, 2022."
+postamble = "_Edmonton Opera's production of_ [_Puccini's La Bohème_](https://www.edmontonopera.com/2022/boheme) _is directed by François Racine and conducted by Simon Rivard with the Edmonton Symphony Orchestra. The two remaining performance dates are February 8 and 11, 2022._"
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1644282677/media/2022/02/sqEO_Boheme_LukaKawabataPeterMonaghanAdamLutherThomasGoerzPeterBarrett_NancPrice_bffjov.jpg"
 primary_image_credit = "The Bohemians (l-r): Luka Kawabata (Schaunard) Peter Monaghan (Colline), Adam Luther (Rodolfo) and Peter Barrett (Marcello), and Tom Goerz (Benoit). Photo by Nanc Price."
-related_articles = []
+related_articles = ["articles/hype-atg-boheme.md", "articles/everyday-people-spectacular-emotions-la-bohme.md"]
 related_companies = ["scene/companies/edmonton-opera.md"]
 related_people = ["scene/people/lara-ciekiewicz.md", "scene/people/peter-barrett.md", "scene/people/miriam-khalil.md", "scene/people/andrew-haji.md", "scene/people/adam-luther.md"]
 short_description = "The company has a triumphant opening night in spite of off-stage challenges."
@@ -19,7 +19,7 @@ youtube_url = ""
 +++
 What’s an operatic production without a bit of drama?
 
-After a period of relative managerial upheaval and the challenges associated with mounting a mainstage production during a global pandemic, [Edmonton Opera](/scene/companies/edmonton-opera/) delivers a moving production of Puccini's beloved _La Bohème_. The production marks the first mainstage performance for the company since announcing Joel Ivany as its new Artistic Director in November 2021, and the installation of Shannon Hiebert as the new Chorus Master.
+After a period of relative managerial upheaval and the challenges associated with mounting a mainstage production during a global pandemic, [Edmonton Opera](/scene/companies/edmonton-opera/) delivers a moving production of [Puccini's beloved _La Bohème_](https://www.edmontonopera.com/2022/boheme). The production marks the first mainstage performance for the company since announcing Joel Ivany as its new Artistic Director in November 2021, and the installation of Shannon Hiebert as the new Chorus Master.
 
 COVID also threw a wrench into the production when leading man [Andrew Haji](/scene/people/andrew-haji/) (Rodolfo) tested positive within a week of opening night, which necessitated the import of tenor Adam Luther to step into the role on short notice. Thankfully, opening night proceeded as planned, the behind-the-scenes drama having no perceived effect on the company's triumphant, "all-the-feels" return to the mainstage that will make even the most fickle patron fall in love with the story all over again.
 
