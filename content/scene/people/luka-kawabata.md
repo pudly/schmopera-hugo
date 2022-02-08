@@ -2,7 +2,7 @@
 discipline = "Baritone"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1644284684/media/2022/02/LukaKawabata_k4scu7.jpg"
 primary_image_credit = ""
-related_companies = ["scene/companies/edmonton-opera.md", "scene/companies/saskatoon-opera.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/manitoba-opera.md", "scene/companies/vancouver-opera.md"]
+related_companies = ["scene/companies/the-banff-centre.md", "scene/companies/edmonton-opera.md", "scene/companies/saskatoon-opera.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/manitoba-opera.md", "scene/companies/vancouver-opera.md"]
 slug = "luka-kawabata"
 title = "Luka Kawabata"
 website = "https://www.lukakawabata.com/"
@@ -24,4 +24,4 @@ Recent credits include the title role in _Don Giovanni_, Lieutenant Audebert in 
 
 He has been the recipient of various awards, including the Toni and Hildegard Cavelti Foundation Fund from the Vancouver Opera Foundation, the Dal Richard Award in Opera, the Nancy Phipps Memorial Award in Opera, the Harry and Marjorie Slim Memorial Scholarship and the Vancouver Opera Guild Award.
 
-Luka is a mentor for the BC chapter of [Opera InReach](https://www.operainreach.com/home)'s community engagement programs and alumnus of the Banff Centre’s ‘Opera in the 21st Century’ program. He holds a Master of Music in Opera Performance from the University of British Columbia under the instruction of Peter Barcza.
+Luka is a mentor for the BC chapter of [Opera InReach](https://www.operainreach.com/home)'s community engagement programs and alumnus of the Banff Centre's "Opera in the 21st Century" program. He holds a Master of Music in Opera Performance from the University of British Columbia under the instruction of Peter Barcza.
