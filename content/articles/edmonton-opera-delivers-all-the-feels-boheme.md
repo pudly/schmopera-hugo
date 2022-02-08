@@ -37,12 +37,18 @@ This is the second time I have seen soprano Miriam Khalil as Mimì and I hope it
 
 [Luka Kawabata](/scene/people/luka-kawabata/) and Peter Monaghan turned in solid opening night performances as the musician Schaunard and the philosopher Colline, respectively. Kawabata, a member of the Yulanda M. Faris Young Artists' Program with [Vancouver Opera](/scene/companies/luka-kawabata/), offers beautiful vocal colours to the ensemble cast, delivered with a youthful exuberance that is in keeping with his character. Monaghan's rich, round tone is befitting of a more thoughtful character as Colline; his voice is well matched to his Act IV aria, "Vecchia zimmara senti", in which he parts ways with his overcoat to help pay for much-needed supplies. And in his limited stage time as both the landlord Benoit (Act I) and the rich patron Alcindoro (Act II), bass-baritone Tom Goerz shows his mastery of comedic timing for both roles.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1644282702/media/2022/02/EO_Boheme_PeterMonaghanLukaKawabataAdamLutherMiriamKhalilPeterBarrettThomasGoerLaraCiekiewicz_qhxlhh.jpg){{% /md %}}
-
-<figcaption>Peter Monaghan (Colline), Luka Kawabata (Schaunard), Adam Luther (Rodolfo), Miriam Khalil (Mimi), Barrett, Tom Goerz (Alcindoro) and Lara Ciekiewicz (Musetta) in La bohème, Edmonton Opera, 2022. Photo: Nanc Price.</figcaption>  
-</figure>
+Soprano [Lara Ciekiewicz](/scene/people/lara-ciekiewicz/) impresses as the vivacious, and dare I say coquettish (my new favourite word), Musetta. Like Rodolfo's aria in Act I, Musetta's Act II aria "Quando me'n vo'" is often a litmus test for the success of any Bohème production: while inexperienced singers may focus on the vocal acrobatics, the higher echelon of artists - Ciekiewicz included - will infuse colours and personality into the lyrics. On this night, Ciekiewicz delighted the audience with a nuanced performance that showed off her ability to impress and garner attention as any scene-stealing diva should. I was especially impressed with the variety in which Ciekiewicz approached her highest notes in the aria – her pianissimo on one of her top Bs was especially jaw-dropping in its precision and beauty.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1644283129/media/2022/02/EO_Boheme_LaraCiekiewicz_NancPrice_nmuxye.jpg){{% /md %}}
 
 <figcaption>Lara Ciekiewicz as Musetta in La bohème, Edmonton Opera, 2022. Photo: Nanc Price.</figcaption>  
 </figure>
+
+The standout performance on this night belonged to baritone [Peter Barrett](/scene/people/peter-barrett/) as Marcello, in his debut with Edmonton Opera. Barrett is tailor-made for this role, which is perhaps one of the most grounded characters of _Bohème_, and demands a baritone of considerable ability and sensibility. On this night, his voice resonates with both vibrancy and authority over a full orchestra playing the exuberant Musetta's Waltz, eliciting one of the strongest audience responses for the evening.
+
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1644282702/media/2022/02/EO_Boheme_PeterMonaghanLukaKawabataAdamLutherMiriamKhalilPeterBarrettThomasGoerLaraCiekiewicz_qhxlhh.jpg){{% /md %}}
+
+<figcaption>Peter Monaghan (Colline), Luka Kawabata (Schaunard), Adam Luther (Rodolfo), Miriam Khalil (Mimi), Barrett, Tom Goerz (Alcindoro) and Lara Ciekiewicz (Musetta) in La bohème, Edmonton Opera, 2022. Photo: Nanc Price.</figcaption>  
+</figure>
+
+Conductor Simon Rivard led the Edmonton Symphony Orchestra to breathe life into Puccini's beloved score. Rivard, the Resident Conductor of the Toronto Symphony Orchestra, conducted with energy and passion, with sprightly tempi especially during the market scene of Act II. Kudos should also be extended to the Edmonton Opera Chorus and members of Cantilon Children's Choir who, despite performing masked, remained clear, lively and energetic during Act II and the beginning of Act III, never missing a beat.
