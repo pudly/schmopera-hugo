@@ -10,9 +10,9 @@ title = "Peter Barrett"
 website = "https://www.peterbarrett.ca/"
 
 +++
-A recipient of the Ian Rosenblatt Bursary at the Wexford Festival in Ireland and a top prizewinner at the Montreal International Music Competition, baritone **Peter Barrett** is one of Canada’s most important and acclaimed artists on the opera and concert stage. Recent and upcoming engagements include Valentin in _Faust_ for the Vancouver Opera and his return to the Metropolitan Opera as cover artist for Dandini in _La Cenerentola_ and Lord Cecil in _Maria Stuarda_.
+A recipient of the Ian Rosenblatt Bursary at the Wexford Festival in Ireland and a top prizewinner at the Montreal International Music Competition, baritone Peter Barrett is one of Canada’s most important and acclaimed artists on the opera and concert stage. Recent and upcoming engagements include Valentin in _Faust_ for the Vancouver Opera and his return to the Metropolitan Opera as cover artist for Dandini in _La Cenerentola_ and Lord Cecil in _Maria Stuarda_.
 
-Peter’s 2021/2022 season includes appearances at the Canadian Opera Company in their digital production of Puccini’s _Gianni Schicchi_, a return to Edmonton Opera for Marcello in their production of _La bohème_, and the premiere of _R.U.R. Torrent of Light_ with Tapestry Opera.
+Peter’s 2021-2022 season includes appearances at the Canadian Opera Company in their digital production of Puccini’s _Gianni Schicchi_, a return to Edmonton Opera for Marcello in their production of _La bohème_, and the premiere of _R.U.R. Torrent of Light_ with Tapestry Opera.
 
 In past seasons, Barrett covered Mercutio in _Romeo et Juliette_ and Morales in _Carmen_ at the Met, sang Wolseley in _Louis Riel_ at the Canadian Opera Company, Mozart’s _Requiem_ with the Newfoundland Symphony Orchestra, and Emile De Becque in Rodgers & Hammerstein’s _South Pacific_ with the Calgary Opera.
 
