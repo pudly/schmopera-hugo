@@ -4,22 +4,28 @@ discipline = "Tenor"
 lastmod = "2017-03-15T10:57:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428336793011/AdamLuther.jpg.jpg"
 publishDate = "2015-04-06T18:16:00+01:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/pacific-opera-victoria.md","scene/companies/edmonton-opera.md","scene/companies/saskatoon-opera.md","scene/companies/highlands-opera-studio.md","scene/companies/toronto-operetta-theatre.md","scene/companies/voicebox-opera-in-concert.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
+related_companies = ["scene/companies/canadian-opera-company.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/edmonton-opera.md", "scene/companies/saskatoon-opera.md", "scene/companies/highlands-opera-studio.md", "scene/companies/toronto-operetta-theatre.md", "scene/companies/voicebox-opera-in-concert.md", "scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
 slug = "adam-luther"
 title = "Adam Luther"
 website = "http://www.adamluthertenor.com/"
 [[social_media]]
 platform = "Facebook"
 template = "social-media"
-url = ""
+url = "https://www.facebook.com/adam.luther.391"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/channel/UCBfrTkXljE48VXzn956U9YA"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/LutherTenor"
+
 +++
+**Adam Luther**is one of Canada’s most exciting tenors, with a repertoire ranging from Janacek to Mozart to Puccini. Returning to Canada after a year in Berlin, his upcoming and recent engagements include Luigi in _Il Tabarro_ in and Graf Tassilo in _Gräfin Mariza_ for Pacific Opera Victoria, Roméo in Gounod’s _Roméo et Juliette_ for Calgary Opera, an Opera Gala for the Niagara Symphony and a New Year’s Gala for Victoria Symphony. Projects for the Winnipeg Symphony, a Netherlands tour, the Canadian Opera Company and Orchestre classique de Montréal have been postponed or cancelled due to the effects of the global pandemic.
 
-From Newfoundland, Adam Luther is one of Canada’s most exciting and busy leading tenors. Highlights for this coming season include Rodolfo in *La boheme* for the Minnesota Opera, *Elijah* for Chorus Niagara, Tamino in *Die Zauberflöte* for Pacific Opera Victoria, *Messiah* for Edmonton Symphony, an Opera Gala for the Sacramento Symphony and a return to the ‘Salute to Vienna’ series in the US. Last season he sang Pinkerton in *Madama Butterfly* for Vancouver Opera, Mozart’s *Requiem* for Symphony Nova Scotia, Alfredo in *La Traviata* for Orchestre symphonique de Trois Rivieres, Cassio in *Otello* for Pacific Opera Victoria, Tamino in *Die Zauberflöte* for Calgary Opera and Alfred in *Die Fledermaus* with the Kitchener Waterloo Symphony. He was also heard in an Opera Gala for the Johnstown Symphony in Pennsylvania and ‘Salute to Vienna’ in Chicago, San Diego and Los Angeles.
+Recent highlights include Alfredo in _La traviata_ for Manitoba Opera, Lensky in _Eugene Onegin_ with Calgary Opera, ‘Salute to Vienna’ in the US and Canada, Beethoven’s _Symphony No. 9_ with the Kitchener-Waterloo and Edmonton Symphonies,Rodolfo in _La bohème_ for the Minnesota Opera, _Elijah_ for Chorus Niagara, Tamino in _Die Zauberflöte_ for Pacific Opera Victoria, _Messiah_ for Edmonton Symphony, and an Opera Gala for the Sacramento Symphony. He sang Pinkerton in _Madama Butterfly_ for Vancouver Opera, Mozart’s _Requiem_ for Symphony Nova Scotia, Alfredo in _La traviata_ for Orchestre symphonique de Trois-Rivières, Cassio in _Otello_ for Pacific Opera Victoria, Tamino in _Die Zauberflöte_ for Calgary Opera and Alfred in _Die Fledermaus_ with the Kitchener-Waterloo Symphony. _Madama Butterfly_, _Die Zauberflöte, Salome_ and _Das Rheingold_ have featured prominently in this schedule for Michigan Opera Theater, Edmonton Opera and Pacific Opera Victoria. He has been heard in Handel’s _Messiah_ with the Newfoundland Symphony, Dvorak’s _Requiem_ with the Orpheus Choir and Chorus Niagara, Verdi’s _Requiem_ with the Ottawa Choral Society and in recital with pianist Rachel Andrist.
 
-Mr. Luther’s 2014-2015 season included Pinkerton in *Madama Butterfly* for Michigan Opera Theater, Tamino in *Die Zauberflöte* for Edmonton Opera, and both Froh in *Das Rheingold* and Pinkerton in *Madama Butterfly* for Pacific Opera Victoria. Earlier, Mr. Luther was featured in Edmonton Opera’s *Salome* and he has also been heard in Handel’s *Messiah* with the Newfoundland Symphony, Dvorak’s *Requiem* with the Orpheus Choir and Chorus Niagara, Verdi’s *Requiem* with the Ottawa Choral Society and in recital with Toronto’s newest vocal series, ‘Recitals at Rosedale’, with pianist Rachel Andrist.
+An Alumnus of the Canadian Opera Company’s Ensemble Studio, his roles with the company included Steuermann in _Der fliegende Holländer_ and Jaquino in Beethoven’s _Fidelio_. Anatol in Samuel Barber’s _Vanessa_ was his first role for Pacific Opera Victoria and he has sung Rodolfo in _La bohème_ with Against the Grain Theatre, Eisenstein in _Die Fledermaus_ and Danilo in _Die lustige Witwe_ with Toronto Operetta Theatre and Jirka in Dvorak’s _The Devil and Kate_ with Opera in Concert. Further credits include Stefano in _Filumena_ in Banff, and Stravinksy’s _Renard_ and _Le Rossignol_ at Opéra de Québec.
 
-An Alumnus of the Canadian Opera Company’s Ensemble Studio, his roles with the company included Steuerman in *Der Fliegende Holländer* and Jaquino in Beethoven’s *Fidelio*. Anatol in Samuel Barber’s *Vanessa* was his first role for Pacific Opera Victoria and he has sung Rodolfo in *La bohème* with Against the Grain Theatre, Eisenstein in *Die Fledermaus* and Danilo in *Die lustige Witwe* with Toronto Operetta Theatre and Jirka in Dvorak’s *The Devil and Kate* with Opera in Concert.
-
-Further credits include Stefano in *Filumena* in Banff, and Stravinksy’s *Renard* and *Le rossignol* at Opéra de Québec.. Mr. Luther has been a featured soloist with the Manitoba Chamber Orchestra, Sounds of the Festival in Parry Sound, Aldeburgh Connection and the Arts and Letters Club of Toronto.
-
-He received his Bachelor of Music degree from Wilfrid Laurier University, as well as a Diploma in Opera from both Wilfrid Laurier University and the University of Toronto.
+Mr. Luther has been a featured soloist with the Manitoba Chamber Orchestra, Sounds of the Festival in Parry Sound, Aldeburgh Connection and the Arts and Letters Club of Toronto. He received his Bachelor of Music degree from Wilfrid Laurier University, as well as a Diploma in Opera from both Wilfrid Laurier University and the University of Toronto.
