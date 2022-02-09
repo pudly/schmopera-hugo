@@ -19,7 +19,7 @@ youtube_url = ""
 +++
 Readers, a quick heads up about something very cool happening Wednesday night!
 
-On February 9 at 7:30pm ET, join [PROTOTYPE](https://prototypefestival.org/)'s listening party, featuring the soon-to-be-released album by composer David T. Little and librettist Royce Vavrek, [_Am I Born_](https://www.brightshiny.ninja/am-i-born). The work is set to come out February 11 (and you can certainly [purchase your digital copy here](https://www.brightshiny.ninja/am-i-born)), featuring music director Julian Wachner and soprano Mellissa Hughes.
+On February 9 at 7:30pm ET, join [PROTOTYPE](https://prototypefestival.org/)'s listening party, featuring the soon-to-be-released album by composer David T. Little and librettist Royce Vavrek, [_Am I Born_](https://www.brightshiny.ninja/am-i-born). The work is set to come out February 11 (and you can certainly [purchase your digital copy here](https://www.brightshiny.ninja/am-i-born)), featuring The Choir of Trinity Wall Street, music director Julian Wachner and soprano Mellissa Hughes.
 
 The event is free, but you need to [sign up by noon on February 9th](https://docs.google.com/forms/d/e/1FAIpQLSeR9tm-MPfPp1Zgw4jbgisMFa2T-fVyfgDd2DiJQJ4_GMLK-Q/viewform).
 
