@@ -34,4 +34,4 @@ And just to make sure you all know why I'm excited about this:
 <figcaption>Canadian librettist Royce Vavrek (left, photo by Ricardo Beas) and American composer David T. Little (photo by Merry Cyr).</figcaption>  
 </figure>
 
-PROTOTYPE's event is likely going to be a mini who's-who of the new opera scene, and this free event is a must-catch. See you there!
+PROTOTYPE's event is likely going to be a mini who's-who of the new opera scene, and this free event is a must-catch. [See you there!](https://docs.google.com/forms/d/e/1FAIpQLSeR9tm-MPfPp1Zgw4jbgisMFa2T-fVyfgDd2DiJQJ4_GMLK-Q/viewform)
