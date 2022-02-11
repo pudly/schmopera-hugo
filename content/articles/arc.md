@@ -24,13 +24,17 @@ But I adored _Only an Octave Apart_, the recently-released collaboration between
 
 First thing's first: Costanzo sounds his best yet. He sings full-out with a tone that seems new, the latest colour of an ever-changing voice. Here, Costanzo has a smooth, enameled sound, confident in his technique but with a refreshing sense of ease. When he croons into the microphone it's a choice, not an unwanted ASMR experience.
 
-And Bond is a fantastic foil to Costanzo. Together, they really do sing an octave apart, and instead of it cuing an eye roll, it lands like lovable camp. Bond's throaty sound is equal parts Elvis Costello, David Bowie, and Rufus Wainwright, and they have that off-the-cuff way of half-singing that's so utterly cabaret.
+And Bond, of Broadway, off-Broadway, _Short Bus_ and _The Get Down_ fame, is a fantastic foil to Costanzo. Together, they really do sing an octave apart, and instead of it cuing an eye roll, it lands like lovable camp. Bond's throaty sound is equal parts Elvis Costello, David Bowie, and Rufus Wainwright, and they have that off-the-cuff way of half-singing that's so utterly cabaret.
 
 Musically, _Only an Octave Apart_ has no business being so clever. The aria/song mash-ups are the product of a lot of thought and respect for the original works, but they're also so much fun. 
 
 "Egyptian Sun" blends "Walk Like an Egyptian" with Phillip Glass' "Hymn to the Sun", a cool fusion of styles and a pointed nod to Costanzo's signature work in Glass' _Akhnaten_.
 
 There's an awesome mix of Gluck's "Deh Placatevi con me" from _Orfeo ed Euridice_ (another bit of Costanzo branding) with Peter Gabriel's "Don't Give Up", which is adorable in the thematic through-line. 
+
+And I laughed at the fun of pairing Dido's Lament with "White Flag" by...wait for it...Dido. 
+
+I think what
 
 rooted in history/technique/respect for our ancestors, but using the medium to say something really modern (or at least saying it in a modern context, since this argument over gender is actually really old)
 
