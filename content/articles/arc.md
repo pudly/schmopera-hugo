@@ -18,6 +18,9 @@ title = "arc"
 youtube_url = ""
 
 +++
+I'll come out and admit that often, when opera singers put out studio recordings, I don't get excited about it. Sometimes the album title takes itself too seriously, some ponderous snippet of Yeats or Rückert standing as a bit of proverb or twee metaphor. Sometimes the opera singer's recording feels too precious, too close to the microphone, too far away from the honest, full-throated way they sing live.
+
+* 
 * something immediately gripping about ARC's first note, it's bold but sof, enameled on the sides, perfect but not robotic, crazy
 * Justin Vivian Bond joins soon, hugely different, a bit fragile/brittle but likable and at arm's reach - acts as translator
 * JVB sound: a bit Elvis Costello, a bit David Bowie, a bit Rufus Wainwright
