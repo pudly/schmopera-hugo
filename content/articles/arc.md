@@ -1,20 +1,19 @@
 +++
-author = []
+author = ["authors/jenna.md"]
 categories = "Review"
-date = ""
+date = 2022-02-11T05:00:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
-postamble = ""
+postamble = "[_Only an Octave Apart_](https://arcjvb.lnk.to/octave) _is available to stream and purchase._"
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1644256308/media/2022/02/sq_VERVE_ANTHONY_COSTANZO_AND_JUSTIN_VIVIAN_BOND_nm9h3x.jpg"
 primary_image_credit = "Anthony Roth Costanzo and Justin Vivian Bond."
-related_articles = []
+related_articles = ["articles/counterculture.md", "articles/eno-akhnaten.md", "articles/the-ride-of-the-dragkyries-how-to-name-an-opera-drag-queen.md"]
 related_companies = []
-related_people = []
-short_description = "short"
-slug = "arc"
-title = "arc"
+related_people = ["scene/people/anthony-roth-costanzo.md"]
+short_description = "Musically, Only an Octave Apart has no business being so clever. The aria/song mash-ups are the product of a lot of thought and respect for the original works, but they're also so much fun. "
+slug = "an-excellent-use-of-camp-only-an-ocave-apart"
+title = "An excellent use of camp: Only an Octave Apart"
 youtube_url = ""
 
 +++
@@ -26,47 +25,29 @@ First thing's first: Costanzo sounds his best yet. He sings full-out with a tone
 
 And Bond, of Broadway, off-Broadway, _Short Bus_ and _The Get Down_ fame, is a fantastic foil to Costanzo. Together, they really do sing an octave apart, and instead of it cuing an eye roll, it lands like lovable camp. Bond's throaty sound is equal parts Elvis Costello, David Bowie, and Rufus Wainwright, and they have that off-the-cuff way of half-singing that's so utterly cabaret.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1644256384/media/2022/02/20210518_VERVE_ANTHONY_COSTANZO_AND_JUSTIN_VIVIAN_BOND_cacrjd.jpg){{% /md %}}
+
+<figcaption>Justin Vivian Bond and Anthony Roth Costanzo for Only an Octave Apart.</figcaption>  
+</figure>
+
 Musically, _Only an Octave Apart_ has no business being so clever. The aria/song mash-ups are the product of a lot of thought and respect for the original works, but they're also so much fun. 
 
 "Egyptian Sun" blends "Walk Like an Egyptian" with Phillip Glass' "Hymn to the Sun", a cool fusion of styles and a pointed nod to Costanzo's signature work in Glass' _Akhnaten_.
 
 There's an awesome mix of Gluck's "Deh Placatevi con me" from _Orfeo ed Euridice_ (another bit of Costanzo branding) with Peter Gabriel's "Don't Give Up", which is adorable in the thematic through-line. 
 
-And I laughed at the fun of pairing Dido's Lament with "White Flag" by...wait for it...Dido. 
+And I laughed at the fun of pairing Dido's Lament with "White Flag" by...yep...Dido. Also, Costanzo's "When I am laid in Earth" is totally stunning.
 
-I think what
+I think what makes this album something to respect is that it's firmly rooted in a really specific type of history. It's the history of Julie Andrews and Carol Burnett, of Beverly Sills and Danny Kaye, and all the times when "high art" blended with popular culture. Costanzo and Bond are using the genre to say something that's also not new: gender is not black-and-white, and unlikely duos make each other better. I love that they send the point home in their rendition of "Faeries at the Bottom of my Garden", nodding to the wonderful Michael Aspinall, aka The Surprising Soprano.
 
-rooted in history/technique/respect for our ancestors, but using the medium to say something really modern (or at least saying it in a modern context, since this argument over gender is actually really old)
+<figure data-type="video">{{% md %}}<iframe width="1280" height="960" src="https://www.youtube.com/embed/0riW6dUkYM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
-JVB: Broadway, Off-Broadway, West End, _Short Bus_, _The Get Down_
-
-* 
-* something immediately gripping about ARC's first note, it's bold but sof, enameled on the sides, perfect but not robotic, crazy
-* Justin Vivian Bond joins soon, hugely different, a bit fragile/brittle but likable and at arm's reach - acts as translator
-* JVB sound: a bit Elvis Costello, a bit David Bowie, a bit Rufus Wainwright
-* really are singing an octave apart, trading phrases and languages, JVB uses chest voice, both have an easy vibrato that sounds like old Hollywood
-* search for the doppelgnger, "to make our solitude less thorned"
-* they nod to Carol Burnett and Julie Andrews at Carnegie Hall in 1962, where Andrews had the "hygienic" confidence and Burnett had the comedy
-* "Listening, we forget which voice is higher and which is lower, which is silken and which is stringent, which is delicate and which is rugged, which is soigné and which is crenellated, which is overtly seductive and which is secretly a cocktail, which frequents the bar and which requires the barre, which genuflects to disco and which has an appetite for mordents." - Program notes by Wayne Koestenbaum
-* Egyptian Sun: "Walk like an Egyptian" mushed with Glass' Hymn to the Sun
-* this album is so exciting! it's rooted in the pop culture of the last time we might have successfully melded opera singers with the rest of society, comes from a golden age, really, the time Andrews/Burnett were on TV, Marilyn Horne on Carsen, Beverly Sills, eg.
-* and it's well done - ARC really does sound great, we don't feel ASMR'd or like he's crooning (unless he means to)
-* **arrangements by Nico Muhly, very very cool**
-* Gluck/Gabriel
-* really exciting sound for ARC with the Gabriel, next to JVB he runs with the "feminine" counterpart
-* Purcell-Garden mash-up, nod to this guy:
-
-Faeries at the Bottom of my Garden:
-
-[https://www.youtube.com/watch?v=0riW6dUkYM4](https://www.youtube.com/watch?v=0riW6dUkYM4 "https://www.youtube.com/watch?v=0riW6dUkYM4")
-
-* spoken word, very Rex Harrison in My Fair Lady, very Dame Edna
-* ARC's When I Am Laid is really arrestingly beautiful
-* Dido-Dido...get it?? It's pretty great. JVB sounds smooth and easy - and take any chance you can to throw in a Ridi Pagliacci break
-* it's one of the albums where you keep saying, no I think _this_ is my favourite track
-* Rainbows/Raindrop
-
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1644256384/media/2022/02/20210518_VERVE_ANTHONY_COSTANZO_AND_JUSTIN_VIVIAN_BOND_cacrjd.jpg){{% /md %}}
-
-<figcaption>Justin Vivian Bond and Anthony Roth Costanzo for Only an Octave Apart.</figcaption>  
 </figure>
+
+In the album's gorgeous liner notes by Wayne Koestenbaum, he makes the case for pairing a countertenor with a cabaret singer:
+
+"Listening, we forget which voice is higher and which is lower, which is silken and which is stringent, which is delicate and which is rugged, which is soigné and which is crenellated, which is overtly seductive and which is secretly a cocktail, which frequents the bar and which requires the barre, which genuflects to disco and which has an appetite for mordents."
+
+When you listen to _Only An Octave Apart_, all of that rings true. Beyond the initial curiosity of these two voices, what's clear is that there's room to have fun; Bond and Costanzo have created that room for themselves by being excellent performers.
+
+Between the top-notch singing and the thoughtful camp, this album made me feel seen. If you've ever been on a YouTube rabbit-hole that started with either Julie Andrews or Dame Edna or even Victor Borge, I wholeheartedly recommend _Only An Octave Apart_.
