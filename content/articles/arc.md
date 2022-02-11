@@ -20,6 +20,10 @@ youtube_url = ""
 +++
 I'll come out and admit that often, when opera singers put out studio recordings, I don't get excited about it. Sometimes the album title takes itself too seriously, some ponderous snippet of Yeats or Rückert standing as a bit of proverb or twee metaphor. Sometimes the opera singer's recording feels too precious, too close to the microphone, too far away from the honest, full-throated way they sing live.
 
+But I adored _Only an Octave Apart_, the recently-released collaboration between star countertenor [Anthony Roth Costanzo](/scene/people/anthony-roth-costanzo/) and actor/cabaret singer [Justin Vivian Bond](https://www.justinvivianbond.com/). It's essentially an album of duets, fusing operatic arias and pop songs in properly ingenious arrangements — many of which were done by _au courant_ composer Nico Muhly.
+
+JVB: Broadway, Off-Broadway, West End, _Short Bus_, _The Get Down_
+
 * 
 * something immediately gripping about ARC's first note, it's bold but sof, enameled on the sides, perfect but not robotic, crazy
 * Justin Vivian Bond joins soon, hugely different, a bit fragile/brittle but likable and at arm's reach - acts as translator
