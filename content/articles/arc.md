@@ -24,7 +24,9 @@ But I adored _Only an Octave Apart_, the recently-released collaboration between
 
 First thing's first: Costanzo sounds his best yet. He sings full-out with a tone that seems new, the latest colour of an ever-changing voice. Here, Costanzo has a smooth, enameled sound, confident in his technique but with a refreshing sense of ease. When he croons into the microphone it's a choice, not an unwanted ASMR experience.
 
-And Bond is a fantastic foil to Costanzo. Together, they really do sing an octave apart, and instead of it cuing an eye roll, it lands like lovable camp. Bond's throaty sound is equal parts Elvis Costello, David Bowie, and Rufus Wainwright
+And Bond is a fantastic foil to Costanzo. Together, they really do sing an octave apart, and instead of it cuing an eye roll, it lands like lovable camp. Bond's throaty sound is equal parts Elvis Costello, David Bowie, and Rufus Wainwright, and they have that off-the-cuff way of half-singing that's so utterly cabaret.
+
+Musically, _Only an Octave Apart_ has no business being so clever. The aria/song mash-ups are the product of a lot of thought and respect for the original works, but they're also so much fun. "Egyptian Sun" 
 
 rooted in history/technique/respect for our ancestors, but using the medium to say something really modern (or at least saying it in a modern context, since this argument over gender is actually really old)
 
