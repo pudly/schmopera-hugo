@@ -23,7 +23,7 @@ They were assembled not to make star turns, but to perform the New York premiere
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1645020456/media/2022/02/SundayCarnegie_tutti_mjmsfi.jpg){{% /md %}}
 
-<figcaption>Soprano Renée Fleming with members of the Emerson String Quartet in André Previn and Tom Stoppard's Penelope. Photo: Chris Lee.</figcaption>  
+<figcaption>Renée Fleming with member of the Emerson String Quartet, pianist Simone Dinnerstein (far left) and actress Uma Thurman (far right) taking a bow. Photo: Chris Lee.</figcaption>  
 </figure>
 
 The Emerson, whose valued presence was heightened by news of their imminent retirement, opened with Samuel Barber's String Quartet in B minor. The quartet dedicated their performance to Roger Tapping, the esteemed violist of the Juilliard String Quartet who recently died. They played with a sense of almost preternatural communication and flawlessly modulated emotional weight. The work's achingly sad _Molto adagio_, perhaps more familiar to listeners in Barber's arrangement for string orchestra, was heard in its unalloyed and most powerful form suggesting that beauty and grief coexist in a turbulent world.
