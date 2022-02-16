@@ -7,7 +7,7 @@ draft = true
 image_gallery = []
 postamble = ""
 preamble = ""
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1645020381/media/2022/02/sqSundayCarnegie_Thurman.jpg_udtfpl.jpg"
 primary_image_credit = ""
 related_articles = []
 related_companies = []
@@ -22,9 +22,21 @@ On paper this concert looked like a gala event with a roster of artists too star
 
 They were assembled not to make star turns, but to perform the New York premiere of the late Andre Previn's final composition, the monodrama _Penelope_. The libretto is by none other than Tom Stoppard, drawn from the story of Odysseus and Penelope in Homer’s _Odyssey_. But Homer's patient Queen of Ithaca would have to wait until after intermission. First there was a dream of a program that subtly evoked themes associated with Penelope’s dilemma. However celebrated the artists, the afternoon succeeded with an abiding philosophical spirt and stunning modesty.
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1645020456/media/2022/02/SundayCarnegie_tutti_mjmsfi.jpg){{% /md %}}
+
+<figcaption>Soprano Renée Fleming with members of the Emerson String Quartet in André Previn and Tom Stoppard's Penelope. Photo: Chris Lee.</figcaption>  
+</figure>
+
 The Emerson, whose valued presence was heightened by news of their imminent retirement, opened with Samuel Barber's String Quartet in B minor. The quartet dedicated their performance to Roger Tapping, the esteemed violist of the Juilliard String Quartet who recently died. They played with a sense of almost preternatural communication and flawlessly modulated emotional weight. The work's achingly sad _Molto adagio_, perhaps more familiar to listeners in Barber's arrangement for string orchestra, was heard in its unalloyed and most powerful form suggesting that beauty and grief coexist in a turbulent world.
 
+> Thurman, a life force on the screen, is equally compelling on the concert stage.
+
 The concept lingered as those efficient Carnegie Hall stagehands swiftly replaced the trappings of the Emerson with a Steinway that was resplendently positioned centerstage. Dinnerstein entered and played Philip Glass' _Mad Rush_. This rhapsodically abstract piece about the relativity and overlapping of time is filled with oscillating arpeggios and dramatic surges. Dinnerstein's sensuous interpretation replete with intriguingly placed pauses evoked Glass' notion that _Mad Rush_ might be of "infinite length." Few would have minded had it carried on but time is not relative on the concert stage and Dinnerstein had more to do.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
 
 The piano was repositioned and Fleming was welcomed with tumultuous applause. Dinnerstein followed who would accompany the soprano in a set of five songs; two each by Edward Grieg and Gabriel Fauré and a contemporary work by [Kevin Puts](/kevin-puts-i-know-who-i-am-as-a-composer/).
 
@@ -32,9 +44,19 @@ Fleming is a singer with a purpose. Her choices suit the purpose as well as what
 
 Commenting that nature had been key to her management of the pandemic's darkest days she decided to explore how composers had been inspired by nature and utilized it in song. Grieg's _Lauf des Welt_, an ambivilant love song, was not an obvious recital choice for Fleming but was handled with refinement. His sadly romantic _Zur Rosenzeit_ was better suited to the creamy flow of her voice as was Fauré's _Les Berceaux_, a soft but pointed admonishment of family men lured away by adventure at sea.
 
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
+
 _Au bord de l'eau_, Fauré's paean to lovers swept away by nature from reality was in stark contrast to Puts's _Evening_ set to a gritty yet lovely poem by the masterful Dorianne Laux. Fleming captivated with a vocal agility that captured the irony in the beauty of nature along with its fragility.
 
 The first half of the program felt like an overture from the gods and our wait for Penelope, who in turn would await the return of Odysseus from the Trojan War, was over. Previn writes beautifully for the voice and created the work especially for Fleming. Stoppard referred to it as "an opera of sorts" and the libretto has a distinct mercurial tone. This may have prompted Previn to depart from the conventions of monodrama and cast another person as the narrator rather than obligate Fleming to the entire text.
+
+<figure data-type="image">{{% md %}}{{% /md %}}
+
+<figcaption></figcaption>  
+</figure>
 
 Thurman, a life force on the screen, is equally compelling on the concert stage. Her approach to the narrator was one of demure audacity laced with effective comic and  dramatic timing. One may assume that Thurman's narrator gives voice to Penelope's subconscious leaving Fleming to sing the person but that would be inaccurate. In fact Stoppard creates sequences when the narrator finishes Penelope's sentences without dropping a beat. Beyond a doubt the singer and narrator are one person.
 
