@@ -19,7 +19,7 @@ youtube_url = ""
 +++
 On paper this concert looked like a gala event with a roster of artists too starry for a Sunday afternoon—even at Carnegie Hall. It was a heady group headlined by Renée Fleming and the Emerson String Quartet. Also included were the distinctive pianist Simone Dinnerstein and acclaimed actress Uma Thurman.
 
-They were assembled not to make star turns, but to perform the New York premiere of the late Andre Previn's final composition, the monodrama _Penelope_. The libretto is by none other than Tom Stoppard, drawn from the story of Odysseus and Penelope in Homer’s _Odyssey_. But Homer's patient Queen of Ithaca would have to wait until after intermission. First there was a dream of a program that subtly evoked themes associated with Penelope’s dilemma. However celebrated the artists, the afternoon succeeded with an abiding philosophical spirt and stunning modesty.
+They were assembled not to make star turns, but to perform the New York premiere of the late Andre Previn's final composition, the monodrama _Penelope_. The libretto is by none other than Tom Stoppard, drawn from the story of Odysseus and Penelope in Homer’s _Odyssey_. But Homer's patient Queen of Ithaca would have to wait until after intermission. First there was a dream of a program that subtly evoked themes associated with Penelope’s dilemma. However celebrated the artists, the afternoon succeeded with an abiding philosophical spirit and stunning modesty.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1645020456/media/2022/02/SundayCarnegie_tutti_mjmsfi.jpg){{% /md %}}
 
