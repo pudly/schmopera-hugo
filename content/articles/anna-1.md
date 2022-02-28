@@ -37,7 +37,7 @@ Netrebko said to her Instagram followers on Sunday, "forcing artists, or any pub
 
 She says she is "opposed to this war", that she has friends in Ukraine "and the pain and suffering right now breaks my heart."
 
-It's not that her argument isn't valid -- I do think we have a bad habit of expecting fully fleshed-out political opinions from famous people -- but it's still a lot to say when her words don't say plainly that she denounces Putin's action.
+It's not that her argument isn't valid — I do think we have a bad habit of expecting fully fleshed-out political opinions from famous people — but it's still a lot to say when her words don't say plainly that she denounces Putin's action.
 
 I don't know Anna Netrebko; we've never met, I've never interviewed her. She seems like a really strong personality, which makes a lot of sense for a successful opera singer. I get disappointed when she gives off a vibe of backward-thinking, and this current topic isn't the first. 
 
