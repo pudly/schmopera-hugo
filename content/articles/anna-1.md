@@ -34,14 +34,14 @@ It's not that her argument isn't valid -- I do think we have a bad habit of expe
 
 So, look. In my opinion, Anna has been bad for the industry for a long time. It's all well and good to be a a Netrebko: you love to be onstage (read: need to be onstage), you take your art really seriously, you step with ease into the role of the modern-day diva, and you do nothing but exude glamour - reality be damned!
 
-But putting all of that up against the last decade is tough to justify. For example: When Netrebko [posted a selfie](https://www.instagram.com/p/BydFhzEHR1l/?utm_source=ig_web_copy_link) in dark makeup as Aida and followers commented about blackface and racism, she responded with toilet emojis. Super charming. 
+But putting all of that up against the last decade is tough to justify. For example: When Netrebko [posted a selfie](https://www.instagram.com/p/BydFhzEHR1l/?utm_source=ig_web_copy_link) in dark makeup as Aida and followers commented about blackface and racism, she responded with toilet emojis. Super charming.
 
-That preceded her response to the pandemic, which was full of complaining about socially distanced audiences and vague campaigns to ["#brackequarantine" because of a crowded airplane.](/guys-stop-telling-people-to-breakquarantine-because-of-a-crowded-plane/) That's right: when the opera world was completely decimated by the pandemic, one of the industry's few stars with good earnings and lots of professional influence uses her platform not to model the kind of behaviour that might get us out of the darkness as quickly as possible, but to berate public heath restrictions and spread garbage information to her followers. 
+That preceded her response to the pandemic, which was full of complaining about socially distanced audiences and vague campaigns to ["#brackequarantine" because of a crowded airplane.](/guys-stop-telling-people-to-breakquarantine-because-of-a-crowded-plane/) That's right: when the opera world was completely decimated by the pandemic, one of the industry's few stars with good earnings and lots of professional influence uses her platform not to model the kind of behaviour that might get us out of the darkness as quickly as possible, but to berate public heath restrictions and spread garbage information to her followers.
 
 For what it's worth, I don't think it's fair to superimpose political expectations upon artists. It really isn't what they signed up for, and we shouldn't necessarily put weight in what they have to say on global affairs.
 
-At the same time, if you wear blackface in 2019, you've got to be quite stubborn indeed not to apologize for it. And if you insist that going to the opera shouldn't be interrupted by a pandemic, I think that you show a really low level of humility. 
+At the same time, if you wear blackface in 2019, you've got to be quite stubborn indeed not to apologize for it. And if you insist that going to the opera shouldn't be interrupted by a pandemic, I think that you show a really low level of humility.
 
-And: If you're giving off a pro-Putin vibe to the point where the Met is willing to professionally break up with you, how hard is it to condemn his invasion of Ukraine? 
+And: If you're giving off a pro-Putin vibe to the point where the Met is willing to professionally break up with you, how hard is it to condemn his invasion of Ukraine?
 
-Anyway. Does the ends justify the means her
+Anyway. If the Met and Anna do end up splitting, what do you think? Does the end justify the means?
