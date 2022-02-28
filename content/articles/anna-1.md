@@ -41,9 +41,9 @@ It's not that her argument isn't valid -- I do think we have a bad habit of expe
 
 I don't know Anna Netrebko; we've never met, I've never interviewed her. She seems like a really strong personality, which makes a lot of sense for a successful opera singer. I get disappointed when she gives off a vibe of backward-thinking, and this current topic isn't the first. 
 
-In 2019 when Netrebko [posted a selfie](https://www.instagram.com/p/BydFhzEHR1l/?utm_source=ig_web_copy_link) as Aida in dark makeup and followers commented about blackface and racism, she responded with toilet emojis. 
+In 2019 when Netrebko [posted a selfie](https://www.instagram.com/p/BydFhzEHR1l/?utm_source=ig_web_copy_link) as Aida in dark makeup and followers commented about blackface, she responded with toilet emojis. 
 
-During the pandemic, she complained about socially distanced audiences and urged her followers to ["#brackequarantine" because of a crowded airplane.](/guys-stop-telling-people-to-breakquarantine-because-of-a-crowded-plane/) This one stung extra, because it was irresponsible advice being given by one of opera's true stars, someone who can not only financially survive all the cancelled shows, but who has worked a ton during the pandemic; that's quite the contrast to literally most of Netrebko's colleagues.
+Early on during the pandemic, she complained about socially distanced audiences and urged her followers to [break quarantine because of a crowded airplane.](/guys-stop-telling-people-to-breakquarantine-because-of-a-crowded-plane/) This one stung extra, because it was irresponsible advice being given by one of opera's true stars, someone who can not only financially survive all the cancelled shows, but who has worked a ton during the pandemic; that's quite the contrast to literally most of Netrebko's colleagues.
 
 > If the Met and Anna do end up splitting, what do you think? Does the end justify the means?
 
