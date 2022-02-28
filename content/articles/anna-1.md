@@ -22,6 +22,8 @@ Over the weekend the Metropolitan Opera announced that it "can no longer engage 
 
 In a sly move, general manager Peter Gelb is letting the opera world ponder for itself who might be the subject of the Met's newly severed ties. Gelb does elaborate to _The New York Times_ about the Met's upcoming production of _Lohengrin_, which was supposed to us sets and costumes from the Bolshoi. "We’re scrambling, but I think we’ll have no choice but to physically build our own sets and costumes," Mr. Gelb told _The New York Times_, adding that  the Met's five-year relationship with the Bolshoi would be lost in the "collateral damage" of Putin's actions.
 
+As for the rest of these artists supporting or supported by Putin, everyone is assuming the Met means conductor Valery Gergiev and soprano Anna Netrebko, both of whom have ties to Putin and haven't been great about condemning the Russian leader's invasion of Ukraine.
+
 Are artists political?
 
 Met severing ties with Putin-friendly artists
