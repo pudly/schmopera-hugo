@@ -34,9 +34,11 @@ It's not that her argument isn't valid -- I do think we have a bad habit of expe
 
 So, look. In my opinion, Anna has been bad for the industry for a long time. It's all well and good to be a a Netrebko: you love to be onstage (read: need to be onstage), you take your art really seriously, you step with ease into the role of the modern-day diva, and you do nothing but exude glamour - reality be damned!
 
-But putting all of that up against the last decade is tough to justify. When people raised eyebrows about her sporting blackface for Aida, she called them stupid (!) and left toilet emojis in response to people calling out racism. Super charming.
+But putting all of that up against the last decade is tough to justify. For example: When people raised eyebrows about her sporting blackface for Aida, she called them stupid (!) and left toilet emojis in response to people calling out racism. Super charming. 
 
- During the pandemic alone, Netrebko's priorities have been utterly out of whack: whinging on Instagram about socially distanced audiences and how stupid they are and how we should "breakquarantine", I suppose because she lives for the applause. I say "out of whack" because she's an actually wealthy, actually successful opera star who is able to financially survive the pandemic and most of her colleagues are nowhere close to doing the same. 
+During the pandemic alone, Netrebko's priorities have been utterly out of whack: whinging on Instagram about socially distanced audiences and how stupid they are and how we should ["#breakquarantine"](/guys-stop-telling-people-to-breakquarantine-because-of-a-crowded-plane/), I suppose because she lives for the applause. I say "out of whack" because she's an actually wealthy, actually successful opera star who is able to financially survive the closures _and_ pick up more work since March 2020 than most of her colleagues could ever dream of. She out of all of us would be in the position to appreciate what she has and help circulate the information that will get us out of the darkness as quickly as possible. Nope, bitch about how things aren't like they were.
+
+But I guess it really does come down to the question that Netrebko lobbed onto the field, the one about whether or not we should expect artist to have political opinions, and whether we do anything in response to those opinions. 
 
 Are artists political?
 
