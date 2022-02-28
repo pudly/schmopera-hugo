@@ -34,7 +34,7 @@ It's not that her argument isn't valid -- I do think we have a bad habit of expe
 
 So, look. In my opinion, Anna has been bad for the industry for a long time. It's all well and good to be a a Netrebko: you love to be onstage (read: need to be onstage), you take your art really seriously, you step with ease into the role of the modern-day diva, and you do nothing but exude glamour - reality be damned!
 
-But putting all of that up against the last decade is tough to justify.
+But putting all of that up against the last decade is tough to justify. During the pandemic alone, Netrebko's priorities have been utterly out of whack: whinging on Instagram about socially distanced audiences and how stupid they are and how we should "breakquarantine", 
 
 Are artists political?
 
